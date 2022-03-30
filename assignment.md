@@ -43,3 +43,4 @@ required for the machine learning model.
 ## OS, language, libraries, IDE
 The project is written under Windows 10 OS in Python language with the PyCharm IDE from the company JetBrains. We use
 standard Python libraries with several external modules (machine learning, MorphoDiTa, ...).
+
