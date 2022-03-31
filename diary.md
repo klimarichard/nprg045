@@ -1,5 +1,5 @@
 # Work diary
-*EWT = estimated work-time
+*EWT = estimated work-time in minutes*
 
 ## 29th March 2022,
 
@@ -7,7 +7,7 @@
 - added assignment description
 - added unpacked PDT data for parsing to <code>res</code> folder
 
-EWT: 3:00
+EWT: 180
 
 ## 30th March 2022, 12:30
 
@@ -16,4 +16,4 @@ EWT: 3:00
     - parsing raw XML files and searching for IDs
     - making parsing procedures for <code>m</code> and <code>a</code> files
 
-EWT: 1:30
+EWT: 90
