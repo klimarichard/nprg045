@@ -170,7 +170,7 @@ if __name__ == '__main__':
 
     if len(all_a_IDs) == len(all_m_IDs):
         print('Both ID lists have the same length.')
-        print('The length of the lists is ' + str(len(all_m_IDs)))
+        print('The length of the lists is ' + str(len(all_m_IDs)) + '.')
 
         # Verify that no IDs present in one list are missing from the other and vice versa
         if len(set(all_a_IDs).difference(all_m_IDs)) == 0 and len(set(all_m_IDs).difference(all_a_IDs)) == 0:
@@ -198,6 +198,26 @@ if __name__ == '__main__':
         print('Final ID list found.')
 
         resdir = os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT'
+
+        # Sort both m and a type lists for writing to file
+        all_m_IDs = sort_id_list(all_m_IDs)
+        all_a_IDs = sort_id_list(all_a_IDs)
+
+        with open(resdir + r'\sentence_IDs_m.txt', mode='w', encoding='utf-8') as f:
+            for i in range(len(all_m_IDs)):
+                f.write(all_m_IDs[i])
+                if i != len(all_m_IDs) - 1:
+                    f.write('\n')
+
+        print('List with m-type IDs successfully written to file ' + resdir + r'\sentence_IDs_m.txt.')
+
+        with open(resdir + r'\sentence_IDs_a.txt', mode='w', encoding='utf-8') as f:
+            for i in range(len(all_a_IDs)):
+                f.write(all_a_IDs[i])
+                if i != len(all_a_IDs) - 1:
+                    f.write('\n')
+
+        print('List with a-type IDs successfully written to file ' + resdir + r'\sentence_IDs_a.txt.')
 
         with open(resdir + r'\sentence_IDs_all.txt', mode='w', encoding='utf-8') as f:
             for i in range(len(final_ID_list)):

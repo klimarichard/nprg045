@@ -36,12 +36,16 @@
 
 - [x] created <code>sentence_parser.py</code> file
 - [ ] parsing sentences from ID list
-  - [x] parsing sentences from <code>m</code> type files
-  - [ ] parsing sentences from <code>a</code> type files
+    - [x] parsing sentences from <code>m</code> type files
+    - [ ] parsing sentences from <code>a</code> type files
+- [x] save both <code>m</code> and <code>a</code> type IDs to files
+    - <code>sentence_IDs_m.txt</code> and <code>sentence_IDs_a.txt</code> respectively
 
 #### Notes
 - parsing <code>a</code> type files requires a different approach
-  - files are organized recursively into trees (<code>iter</code> method has to be used)
+    - files are organized recursively into trees (<code>iter</code> method has to be used)
+- is it needed to parse syntactical files?
+    - maybe the constituent type is not needed, in which case the <code>a</code> type files are obsolete
 
 **EWT:** 180
 
