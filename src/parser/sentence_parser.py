@@ -17,11 +17,12 @@ def read_ids(file) -> [str]:
     return IDs
 
 
-def parse_sentences(filename: str) -> [(str, [(int, str, str)])]:
+def parse_sentences(filename: str) -> [(str, [(int, str, str, str)])]:
     """
     Parses all sentences from one file and processes them to chosen format. The chosen format output
     is a list of sentences, where each sentence is a tuple of ID and a list of words, where each word
-    is a triple containing word order in sentence, the actual word, and a string with tags.
+    is a quadruple containing word order in sentence, the actual word, constituent type, and a string
+    with tags.
     :param filename: name of XML file with annotated data
     :return: list of sentences in chosen format
     """
@@ -35,21 +36,27 @@ def parse_sentences(filename: str) -> [(str, [(int, str, str)])]:
     root_m = xml_m.getroot()
 
     a_tree = xml_a.find('{http://ufal.mff.cuni.cz/pdt/pml/}trees')
-    a_sentences = a_tree.findall('{http://ufal.mff.cuni.cz/pdt/pml/}')
+    a_sentences = a_tree.findall('{http://ufal.mff.cuni.cz/pdt/pml/}lm')
     m_sentences = xml_m.findall('{http://ufal.mff.cuni.cz/pdt/pml/}s')
 
     for s in m_sentences:
         for m in s:
             # ID is a property of m tag, we need it to pair it with
             # the syntactical file
-            word = [m.get('id').split('-')[3], -1, '', '']
+            word = [m.get('id').split('-')[3], -1, '', '', '']
             for elem in m:
                 if re.match('.*form$', elem.tag):
+                    # writing the actual word
                     word[2] = elem.text
                 if re.match('.*tag$', elem.tag):
-                    word[3] = elem.text
+                    # writing word tag
+                    word[4] = elem.text
 
             print(word)
+
+    # TODO: incorporate syntactically annotated data
+    # TODO: join data from two different types of files
+    # TODO: return sentences in chosen format
 
     return None
 

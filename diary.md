@@ -1,7 +1,7 @@
 # Work diary
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 495 minutes *(8:15 hours)*
+**Total working-time:** 555 minutes *(9:15 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -35,9 +35,15 @@
 ## 1st April 2022, 12:00
 
 - [x] created <code>sentence_parser.py</code> file
-- [ ] parsing sentences from ID list *(not finished)*
+- [ ] parsing sentences from ID list
+  - [x] parsing sentences from <code>m</code> type files
+  - [ ] parsing sentences from <code>a</code> type files
 
-**EWT:** 120
+#### Notes
+- parsing <code>a</code> type files requires a different approach
+  - files are organized recursively into trees (<code>iter</code> method has to be used)
+
+**EWT:** 180
 
 ## Next steps
 - [ ] determining file format for saving parsed sentences
