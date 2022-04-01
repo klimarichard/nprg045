@@ -1,9 +1,9 @@
 # Work diary
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 420 minutes *(7 hours)*
+**Total working-time:** 495 minutes *(8:15 hours)*
 
-## 29th March 2022,
+## 29th March 2022, 21:30
 
 - [x] created Git repository
 - [x] added assignment description
@@ -27,13 +27,18 @@
 
 #### Notes
 - some source <code>m</code> files will be obsolete, since there are no <code>a</code> files for them to pair
-- PC breakdown at 20:53 (new changes committed but not pushed)
+- PC breakdown at 20:15 (new changes committed but not pushed)
     - data successfully recovered on 1st April 2022, 9:30
 
-**EWT:** 150
+**EWT:** 105
 
-## 1st April 2022, 11:30
+## 1st April 2022, 12:00
 
-- [ ] parsing sentences from ID list
+- [x] created <code>sentence_parser.py</code> file
+- [ ] parsing sentences from ID list *(not finished)*
+
+**EWT:** 120
+
+## Next steps
 - [ ] determining file format for saving parsed sentences
 - [ ] saving parsed sentence to <code>sentences_no_comma.txt</code> and <code>sentences_comma.txt</code> files
