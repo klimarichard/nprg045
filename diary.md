@@ -1,7 +1,7 @@
 # Work diary
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 555 minutes *(9:15 hours)*
+**Total working-time:** 595 minutes *(9:55 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -46,9 +46,11 @@
     - files are organized recursively into trees (<code>iter</code> method has to be used)
 - is it needed to parse syntactical files?
     - maybe the constituent type is not needed, in which case the <code>a</code> type files are obsolete
+    - it can be interesting to compare, if a tag based on the constituent type would improve the performance of the
+final model
 
-**EWT:** 180
+**EWT:** 220
 
 ## Next steps
-- [ ] determining file format for saving parsed sentences
-- [ ] saving parsed sentence to <code>sentences_no_comma.txt</code> and <code>sentences_comma.txt</code> files
+- determining file format for saving parsed sentences
+- saving parsed sentence to <code>sentences_no_comma.txt</code> and <code>sentences_comma.txt</code> files
