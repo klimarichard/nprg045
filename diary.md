@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 775 minutes *(12:55 hours)*
+**Total working-time:** 835 minutes *(13:55 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -39,7 +39,7 @@
 - [x] created <code>sentence_parser.py</code> file
 - [ ] parsing sentences from ID list
     - [x] parsing sentences from <code>m</code> type files
-    - [ ] parsing sentences from <code>a</code> type files
+    - [ ] parsing sentences from <code>a</code> type files *(not finished)*
 - [x] save both <code>m</code> and <code>a</code> type IDs to files
     - <code>sentence_IDs_m.txt</code> and <code>sentence_IDs_a.txt</code> respectively
 
@@ -61,8 +61,6 @@
 - [x] determining file format for saving parsed sentences
 - [x] saving parsed sentences to <code>sentences_no_comma.txt</code> and <code>sentences_comma.txt</code> files
 
-**EWT:** 180
-
 #### Notes
 
 - the file format for parsed sentences was determined as:
@@ -74,3 +72,16 @@
         - morphological tags for the word
         - constituent type of the word
     - sentences are divided by a single empty line
+
+**EWT:** 180
+
+## 4th April 2022, 21:15
+
+- [x] reorganizing files to store reusable functions in one place (creating <code>rikli</code> package)
+
+#### Notes
+
+- the idea behind this is to move reusable function into a package-like folder <code>rikli</code>
+- more and more functions should be added to the files in this package during development
+
+**EWT:** 60
