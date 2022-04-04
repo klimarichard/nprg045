@@ -3,18 +3,28 @@ import re
 import xml.etree.ElementTree as ET
 
 
+def read_ids_from_file(file) -> [str]:
+    """
+    Reads list of sorted sentence IDs from a file containing one ID per line and
+    parse the IDs to list of filenames.
+    :param file: file with sentence IDs
+    :return: list of filenames
+    """
+    return parse_filenames(read_ids(file))
+
+
 def read_ids(file) -> [str]:
     """
     Reads list of sorted sentence IDs from a file containing one ID per line.
     :param file: file with sentence IDs
     :return: list with read sentence IDs
     """
-    IDs = []
+    ids = []
 
     for line in file:
-        IDs.append(line.strip())
+        ids.append(line.strip())
 
-    return IDs
+    return ids
 
 
 def parse_filenames(ids: [str]) -> [str]:
@@ -185,10 +195,9 @@ def print_sentence(sentence: (str, [(int, str, str, str)]), file) -> None:
 
 if __name__ == '__main__':
     resdir = os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT'
-    with open(resdir + r'\sentence_IDs_all.txt', mode='r', encoding='utf-8') as f:
-        IDs = read_ids(f)
 
-    filenames = parse_filenames(IDs)
+    with open(resdir + r'\sentence_IDs_all.txt', mode='r', encoding='utf-8') as f:
+        filenames = read_ids_from_file(f)
 
     for filename in filenames:
         sentences = parse_sentences(filename)

@@ -1,7 +1,8 @@
 # Work diary
+
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 595 minutes *(9:55 hours)*
+**Total working-time:** 775 minutes *(12:55 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -26,6 +27,7 @@
 - [x] saving final list of IDs present in both type of files to <code>sentence_IDs_all.txt</code> file
 
 #### Notes
+
 - some source <code>m</code> files will be obsolete, since there are no <code>a</code> files for them to pair
 - PC breakdown at 20:15 (new changes committed but not pushed)
     - data successfully recovered on 1st April 2022, 9:30
@@ -42,15 +44,33 @@
     - <code>sentence_IDs_m.txt</code> and <code>sentence_IDs_a.txt</code> respectively
 
 #### Notes
+
 - parsing <code>a</code> type files requires a different approach
     - files are organized recursively into trees (<code>iter</code> method has to be used)
 - is it needed to parse syntactical files?
     - maybe the constituent type is not needed, in which case the <code>a</code> type files are obsolete
     - it can be interesting to compare, if a tag based on the constituent type would improve the performance of the
-final model
+      final model
 
 **EWT:** 220
 
-## Next steps
-- determining file format for saving parsed sentences
-- saving parsed sentence to <code>sentences_no_comma.txt</code> and <code>sentences_comma.txt</code> files
+## 4th April 2022, 14:45
+
+- [x] parsing sentences from ID list
+    - [x] parsing sentences from <code>a</code> type files
+- [x] determining file format for saving parsed sentences
+- [x] saving parsed sentences to <code>sentences_no_comma.txt</code> and <code>sentences_comma.txt</code> files
+
+**EWT:** 180
+
+#### Notes
+
+- the file format for parsed sentences was determined as:
+    - each sentence is on multiple lines
+    - the first line contains the sentence ID
+    - the following lines contain the single words with their properties separated with tabs:
+        - the word order in the sentence
+        - the actual word
+        - morphological tags for the word
+        - constituent type of the word
+    - sentences are divided by a single empty line
