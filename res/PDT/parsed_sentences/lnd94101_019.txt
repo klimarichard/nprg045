@@ -1,0 +1,223 @@
+lnd94101-019-p1s1
+1	Pověst	NNFS1-----A----	Sb
+2	nemocnice	NNFS2-----A----	Atr
+3	už	Db-------------	Adv
+4	příliš	Db-------------	Adv
+5	utrpěla	VpQW---XR-AA---	Pred
+
+lnd94101-019-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ria	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94101-019-p1s3
+1	Aféra	NNFS1-----A----	Sb
+2	kolem	RR--2----------	AuxP
+3	zraněného	AAMS2----1A----	Atr
+4	člena	NNMS2-----A----	Atr
+5	prezidentovy	AUFS2M---------	Atr
+6	ochranky	NNFS2-----A----	Atr
+7	J	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Filipa	NNMS2-----A----	Atr
+10	byla	VpQW---XR-AA---	AuxV
+11	skutečně	Dg-------1A----	Adv
+12	vyvolána	VsQW---XX-AP---	Pred
+13	telefonickým	AANS7----1A----	Atr
+14	nedorozuměním	NNNS7-----A----	Obj
+15	mezi	RR--7----------	AuxP
+16	Bulovkou	NNFS7-----A----	Atr
+17	a	J^-------------	Coord
+18	Homolkou	NNFS7-----A----	Atr
+19	,	Z:-------------	AuxX
+20	zda	J,-------------	AuxC
+21	bude	VB-S---3F-AA---	Atr
+22	třeba	ACNS------A----	Pnom
+23	zajistit	Vf--------A----	Sb
+24	dýchací	AAIS4----1A----	Atr
+25	přístroj	NNIS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+lnd94101-019-p1s4
+1	Následné	AAFP1----1A----	Atr
+2	emoce	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	pak	Db-------------	Adv
+5	při	RR--6----------	AuxP
+6	předávání	NNNS6-----A----	Adv
+7	pacienta	NNMS2-----A----	Obj
+8	na	RR--6----------	AuxP
+9	Homolce	NNFS6-----A----	AdvAtr
+10	bohužel	TT-------------	Adv
+11	neobešly	VpTP---XR-NA---	Pred
+12	beze	RV--2----------	AuxP
+13	svědků	NNMP2-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd94101-019-p1s5
+1	Potvrdil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ředitel	NNMS1-----A----	Atr
+5	nemocnice	NNFS2-----A----	Atr
+6	na	RR--6----------	AuxP
+7	Homolce	NNFS6-----A----	Atr
+8	Oldřich	NNMS1-----A----	Atr
+9	Šubrt	NNMS1-----A----	Sb
+10	s	RR--7----------	AuxP
+11	tím	PDZS7----------	Adv
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	lékaři	NNMP1-----A----	Sb
+15	jsou	VB-P---3P-AA---	Atr
+16	také	Db-------------	AuxZ
+17	jen	TT-------------	AuxZ
+18	lidi	NNMP1-----A----	Pnom
+19	.	Z:-------------	AuxK
+
+lnd94101-019-p1s6
+1	"	Z:-------------	AuxG
+2	Je	VB-S---3P-AA---	Obj
+3	mi	PH-S3--1-------	Adv
+4	však	J^-------------	AuxY
+5	líto	Db-------------	Pnom
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	bublina	NNFS1-----A----	Sb
+9	o	RR--6----------	AuxP
+10	údajném	AANS6----1A----	Atr
+11	odmítnutí	NNNS6-----A----	Atr
+12	pomoci	NNFS2-----A----	Atr
+13	ubrala	VpQW---XR-AA---	Sb
+14	na	RR--6----------	AuxP
+15	pověsti	NNFS6-----A----	Adv
+16	Homolky	NNFS2-----A----	Atr
+17	v	RR--4----------	AuxP
+18	tu	PDFS4----------	Atr
+19	nejnevhodnější	AAFS4----3N----	Atr
+20	chvíli	NNFS4-----A----	Adv
+21	,	Z:-------------	AuxX
+22	"	Z:-------------	AuxG
+23	řekl	VpYS---XR-AA---	Pred
+24	Šubrt	NNMS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+lnd94101-019-p1s7
+1	Měl	VpYS---XR-AA---	Pred
+2	tím	PDZS7----------	Adv
+3	na	RR--6----------	AuxP
+4	mysli	NNFS6-----A----	Adv
+5	okolnost	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	předevčírem	Db-------------	Adv
+9	doporučila	VpQW---XR-AA---	Atr
+10	poslanecká	AAFS1----1A----	Atr
+11	sněmovna	NNFS1-----A----	Sb
+12	vládě	NNFS3-----A----	Obj
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	znovu	Db-------------	Adv
+16	zvážila	VpQW---XR-AA---	Obj
+17	prodej	NNIS4-----A----	Obj
+18	Homolky	NNFS2-----A----	Atr
+19	společnosti	NNFS3-----A----	Atr
+20	Euro	AAXXX----1A----	Atr
+21	Group	NNFXX-----A----	Atr
+22	Hospital	NNIS1-----A----	Atr
+23	,	Z:-------------	AuxX
+24	neboť	J^-------------	Coord
+25	má	VB-S---3P-AA---	Atr
+26	o	RR--6----------	AuxP
+27	jeho	PSXXXZS3-------	Atr
+28	právní	AAFS6----1A----	Atr
+29	čistotě	NNFS6-----A----	Atr
+30	pochybnosti	NNFP4-----A----	Obj
+31	.	Z:-------------	AuxK
+
+lnd94101-019-p1s8
+1	"	Z:-------------	AuxG
+2	K	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	se	P7-X4----------	AuxT
+5	nemohu	VB-S---1P-NA--1	Pred
+6	vyjádřit	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	protože	J,-------------	AuxC
+9	podle	RR--2----------	AuxP
+10	mých	PSXP2-S1-------	Atr
+11	právníků	NNMP2-----A----	Adv
+12	i	J^-------------	Coord
+13	ministerstva	NNNS2-----A----	Adv
+14	zdravotnictví	NNNS2-----A----	Atr
+15	je	VB-S---3P-AA---	Adv
+16	vše	PLNS1---------1	Sb
+17	v	RR--6----------	AuxP
+18	pořádku	NNIS6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+lnd94101-019-p1s9
+1	Neumím	VB-S---1P-NA---	Obj
+2	si	P7-X3----------	AuxT
+3	představit	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	k	RR--3----------	AuxP
+6	jakému	P4ZS3----------	Atr
+7	novému	AAIS3----1A----	Atr
+8	závěru	NNIS3-----A----	Adv
+9	by	Vc-------------	AuxV
+10	mohla	VpQW---XR-AA---	Obj
+11	vláda	NNFS1-----A----	Sb
+12	dospět	Vf--------A----	Obj
+13	,	Z:-------------	AuxX
+14	"	Z:-------------	AuxG
+15	řekl	VpYS---XR-AA---	Pred
+16	Šubrt	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+lnd94101-019-p1s10
+1	Nemocnice	NNFS1-----A----	Sb
+2	připouští	VB-S---3P-AA---	Pred
+3	díl	NNIS4-----A----	Obj
+4	viny	NNFS2-----A----	Atr
+5	jen	TT-------------	AuxZ
+6	v	RR--6----------	AuxP
+7	tom	PDZS6----------	AdvAtr
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	o	RR--6----------	AuxP
+11	svých	P8XP6----------	Atr
+12	plánech	NNIP6-----A----	Obj
+13	podrobně	Dg-------1A----	Adv
+14	neinformovala	VpQW---XR-NA---	Atr
+15	veřejnost	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd94101-019-p1s11
+1	Přesto	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	AuxY
+4	podle	RR--2----------	AuxP
+5	Šubrta	NNMS2-----A----	Adv
+6	za	RR--7----------	AuxP
+7	celou	AAFS7----1A----	Atr
+8	kauzou	NNFS7-----A----	Adv
+9	skrývá	VB-S---3P-AA---	Pred
+10	nedůvěra	NNFS1-----A----	Sb
+11	v	RR--4----------	AuxP
+12	privatizaci	NNFS4-----A----	Atr
+13	velkých	AAFP2----1A----	Atr
+14	nemocnic	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	ačkoli	J,------------1	AuxC
+17	Homolka	NNFS1-----A----	Sb
+18	prý	TT-------------	AuxY
+19	jinou	AAFS4----1A----	Atr
+20	perspektivu	NNFS4-----A----	Obj
+21	než	J,-------------	AuxC
+22	privátní	AAFS4----1A----	Adv
+23	nemá	VB-S---3P-NA---	Adv
+24	.	Z:-------------	AuxK
+

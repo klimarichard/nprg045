@@ -1,0 +1,150 @@
+ln95042-084-p1s1
+1	Perry	NNMS1-----A----	ExD
+2	a	J^-------------	Coord
+3	Shalikashvili	NNMS1-----A----	ExD
+4	proti	RR--3----------	AuxP
+5	návrhu	NNIS3-----A----	ExD
+6	na	RR--4----------	AuxP
+7	rychlejší	AANS4----2A----	Atr
+8	rozšíření	NNNS4-----A----	Atr
+9	NATO	NNNXX-----A---8	Atr
+
+ln95042-084-p2s1A
+1	Washington	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95042-084-p2s1B
+1	Ministr	NNMS1-----A----	Atr
+2	obrany	NNFS2-----A----	Atr
+3	Spojených	AAIP2----1A----	Atr
+4	států	NNIP2-----A----	Atr
+5	William	NNMS1-----A----	Atr
+6	Perry	NNMS1-----A----	Sb
+7	a	J^-------------	Coord
+8	předseda	NNMS1-----A----	Atr
+9	sboru	NNIS2-----A----	Atr
+10	náčelníků	NNMP2-----A----	Atr
+11	štábů	NNIP2-----A----	Atr
+12	John	NNMS1-----A----	Atr
+13	Shalikashvili	NNMS1-----A----	Sb
+14	se	P7-X4----------	AuxT
+15	v	RR--6----------	AuxP
+16	noci	NNFS6-----A----	Adv
+17	na	RR--4----------	AuxP
+18	včerejšek	NNIS4-----A----	Atr
+19	ostře	Dg-------1A----	Adv
+20	vyjádřili	VpMP---XR-AA---	Pred
+21	proti	RR--3----------	AuxP
+22	návrhu	NNIS3-----A----	Obj
+23	zákona	NNIS2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	který	P4IS4----------	Obj
+26	ve	RV--4----------	AuxP
+27	čtvrtek	NNIS4-----A----	Adv
+28	schválila	VpQW---XR-AA---	Atr
+29	Sněmovna	NNFS1-----A----	Sb
+30	reprezentantů	NNMP2-----A----	Atr
+31	amerického	AAIS2----1A----	Atr
+32	Kongresu	NNIS2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln95042-084-p2s2
+1	Návrh	NNIS1-----A----	Sb
+2	předpokládá	VB-S---3P-AA---	Pred
+3	omezení	NNNS4-----A----	Obj
+4	amerického	AAIS2----1A----	Atr
+5	příspěvku	NNIS2-----A----	Atr
+6	na	RR--4----------	AuxP
+7	mírové	AAFP4----1A----	Atr
+8	operace	NNFP4-----A----	Atr
+9	OSN	NNFXX-----A---8	Atr
+10	a	J^-------------	Coord
+11	podporuje	VB-S---3P-AA---	Pred
+12	rychlejší	AANS4----2A----	Atr
+13	rozšíření	NNNS4-----A----	Obj
+14	NATO	NNNXX-----A---8	Atr
+15	o	RR--4----------	AuxP
+16	čtyři	ClXP4----------	Atr
+17	středoevropské	AAFP4----1A----	Atr
+18	země	NNFP4-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95042-084-p3s1
+1	Podle	RR--2----------	AuxP
+2	Perryho	NNMS2-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	ve	RV--4----------	AuxP
+5	čtvrtek	NNIS4-----A----	Adv
+6	přijatý	AAIS1----1A----	Atr
+7	návrh	NNIS1-----A----	Sb
+8	nikdy	Db-------------	Adv
+9	nestane	VB-S---3P-NA---	Pred
+10	zákonem	NNIS7-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95042-084-p3s2
+1	Generál	NNMS1-----A----	Atr
+2	John	NNMS1-----A----	Atr
+3	Shalikashvili	NNMS1-----A----	Sb
+4	označil	VpYS---XR-AA---	Pred
+5	návrh	NNIS4-----A----	Obj
+6	za	RR--4----------	AuxP
+7	nešťastný	AAIS4----1N----	Obj
+8	.	Z:-------------	AuxK
+
+ln95042-084-p3s3
+1	Varoval	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	pokud	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	stane	VB-S---3P-AA---	Adv
+7	zákonem	NNIS7-----A----	Obj
+8	,	Z:-------------	AuxX
+9	způsobí	VB-S---3P-AA---	Adv
+10	právě	Db-------------	AuxZ
+11	to	PDNS4----------	Obj
+12	,	Z:-------------	AuxX
+13	čemu	PQ--3----------	Obj
+14	se	P7-X4----------	AuxT
+15	Washington	NNIS1-----A----	Sb
+16	chtěl	VpYS---XR-AA---	Atr
+17	vyhnout	Vf--------A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95042-084-p3s4
+1	Bude	VB-S---3F-AA---	AuxV
+2	znamenat	Vf--------A----	Pred
+3	podstatně	Dg-------1A----	Adv
+4	větší	AANS4----2A----	Atr
+5	zapojení	NNNS4-----A----	Obj
+6	USA	NNIPX-----A----	Atr
+7	do	RR--2----------	AuxP
+8	mezinárodních	AAFP2----1A----	Atr
+9	vojenských	AAFP2----1A----	Atr
+10	operací	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95042-084-p3s5
+1	Prezident	NNMS1-----A----	Atr
+2	Clinton	NNMS1-----A----	Sb
+3	dal	VpYS---XR-AA---	Pred
+4	již	Db-------------	Adv
+5	jasně	Dg-------1A----	Adv
+6	najevo	Db-------------	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	zákon	NNIS4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	podobě	NNFS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	jak	Db-------------	Adv
+14	ho	PHZS4--3-------	Obj
+15	včera	Db-------------	Adv
+16	schválila	VpQW---XR-AA---	Atr
+17	Sněmovna	NNFS1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	bude	VB-S---3F-AA---	AuxV
+20	vetovat	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+

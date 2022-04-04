@@ -1,0 +1,255 @@
+ln94211-122-p1s1
+1	Akcie	NNFP1-----A----	ExD
+2	z	RR--2----------	AuxP
+3	kuponovky	NNFS2-----A----	Atr
+4	možná	Db-------------	ExD
+5	už	Db-------------	AuxZ
+6	brzy	Dg-------1A----	ExD
+
+ln94211-122-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ma	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94211-122-p2s1B
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	podařilo	VpNS---XR-AA---	Adv
+5	ve	RV--6----------	AuxP
+6	čtvrtém	CrNS6----------	Atr
+7	kole	NNNS6-----A----	Adv
+8	druhé	CrFS2----------	Atr
+9	vlny	NNFS2-----A----	Atr
+10	kuponové	AAFS2----1A----	Atr
+11	privatizace	NNFS2-----A----	Atr
+12	zcela	Db-------------	Adv
+13	vyprodat	Vf--------A----	Sb
+14	majetek	NNIS4-----A----	Obj
+15	alespoň	Db-------------	AuxZ
+16	padesáti	Cn-P2----------	Atr
+17	dalších	AAIP2----1A----	Atr
+18	podniků	NNIP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	navrhne	VB-S---3P-AA---	Pred
+21	předseda	NNMS1-----A----	Atr
+22	výkonného	AAIS2----1A----	Atr
+23	výboru	NNIS2-----A----	Atr
+24	Fondu	NNIS2-----A----	Atr
+25	národního	AAIS2----1A----	Atr
+26	majetku	NNIS2-----A----	Atr
+27	Roman	NNMS1-----A----	Atr
+28	Češka	NNMS1-----A----	Sb
+29	,	Z:-------------	AuxX
+30	aby	J,-------------	AuxC
+31	byly	VpTP---XR-AA---	AuxV
+32	jejich	PSXXXXP3-------	Atr
+33	akcie	NNFP1-----A----	Sb
+34	vydány	VsTP---XX-AP---	Obj
+35	novým	AAMP3----1A----	Atr
+36	majitelům	NNMP3-----A----	Obj
+37	.	Z:-------------	AuxK
+
+ln94211-122-p2s2
+1	Bude	VB-S---3F-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	to	PDNS1----------	Sb
+5	však	J^-------------	Coord
+6	jen	TT-------------	AuxZ
+7	dvacítka	NNFS1-----A----	Pnom
+8	podniků	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	mělo	VpNS---XR-AA---	Pred
+11	by	Vc-------------	AuxV
+12	být	Vf--------A----	AuxV
+13	podle	RR--2----------	AuxP
+14	něj	P5ZS2--3-------	Adv
+15	předání	NNNS1-----A----	Sb
+16	těchto	PDXP2----------	Atr
+17	akcií	NNFP2-----A----	Atr
+18	odloženo	VsNS---XX-AP---	Obj
+19	až	TT-------------	AuxZ
+20	na	RR--4----------	AuxP
+21	další	AANP4----1A----	Atr
+22	kola	NNNP4-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94211-122-p3s1
+1	R	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Češka	NNMS1-----A----	Sb
+4	tak	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	rozhovoru	NNIS6-----A----	Adv
+7	pro	RR--4----------	AuxP
+8	LN	NNFPX-----A---8	Atr
+9	znovu	Db-------------	Adv
+10	nepřímo	Dg-------1N----	Adv
+11	potvrdil	VpYS---XR-AA---	Pred
+12	svůj	P8IS4----------	Atr
+13	názor	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	podle	RR--2----------	AuxP
+16	něhož	P9ZS2----------	Adv
+17	skončí	VB-S---3P-AA---	Atr
+18	kuponová	AAFS1----1A----	Atr
+19	privatizace	NNFS1-----A----	Sb
+20	po	RR--6----------	AuxP
+21	pátém	CrNS6----------	Atr
+22	nebo	J^-------------	Coord
+23	šestém	CrNS6----------	Atr
+24	kole	NNNS6-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln94211-122-p3s2
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	slov	NNNP2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	přitom	Db-------------	Adv
+6	kompletně	Dg-------1A----	Adv
+7	vyprodaných	AAIP2----1A----	Atr
+8	podniků	NNIP2-----A----	Atr
+9	málo	Ca--1----------	Sb
+10	,	Z:-------------	AuxX
+11	takže	J,-------------	AuxC
+12	předání	NNNS1-----A----	Sb
+13	jejich	PSXXXXP3-------	Atr
+14	akcií	NNFP2-----A----	Atr
+15	novým	AAMP3----1A----	Atr
+16	vlastníkům	NNMP3-----A----	Atr
+17	by	Vc-------------	AuxV
+18	bylo	VpNS---XR-AA---	Adv
+19	příliš	Db-------------	Adv
+20	drahé	AANS1----1A----	Pnom
+21	.	Z:-------------	AuxK
+
+ln94211-122-p3s3
+1	Z	RR--2----------	AuxP
+2	oficiálních	AANP2----1A----	Atr
+3	dat	NNNP2-----A----	Adv
+4	vyplývá	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	do	RR--2----------	AuxP
+8	třetího	CrNS2----------	Atr
+9	kola	NNNS2-----A----	Adv
+10	bylo	VpNS---XR-AA---	AuxV
+11	zcela	Db-------------	Adv
+12	vyprodáno	VsNS---XX-AP---	Sb
+13	60	C=-------------	Sb
+14	společností	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94211-122-p4s1
+1	Náklady	NNIP4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	předání	NNNS4-----A----	Atr
+4	akcií	NNFP2-----A----	Atr
+5	vyprodaných	AAFP2----1A----	Atr
+6	firem	NNFP2-----A----	Atr
+7	odhaduje	VB-S---3P-AA---	Pred
+8	předseda	NNMS1-----A----	Sb
+9	fondu	NNIS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	desítky	NNFP4-----A----	Adv
+12	milionů	NNIP2-----A----	Atr
+13	korun	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94211-122-p4s2
+1	Kromě	RR--2----------	AuxP
+2	nového	AAIS2----1A----	Atr
+3	software	NNIS2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	totiž	Db-------------	AuxY
+6	třeba	ACNS------A----	Pnom
+7	rozeslat	Vf--------A----	Sb
+8	zvláštní	AAIS4----1A----	Atr
+9	závěrečný	AAIS4----1A----	Atr
+10	certifikát	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	jehož	PJZS2----------	Atr
+13	zhotovení	NNNS1-----A----	Sb
+14	je	VB-S---3P-AA---	Atr
+15	mnohem	Db-------------	Adv
+16	dražší	AANS1----2A----	Pnom
+17	než	J,-------------	AuxC
+18	běžná	AAFS1----1A----	Atr
+19	informace	NNFS1-----A----	ExD
+20	od	RR--2----------	AuxP
+21	Centra	NNNS2-----A----	Atr
+22	kuponové	AAFS2----1A----	Atr
+23	privatizace	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94211-122-p5s1
+1	Ne	TT-------------	AuxZ
+2	všichni	PLMP1----------	Atr
+3	drobní	AAMP1----1A----	Atr
+4	investoři	NNMP1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	podle	RR--2----------	AuxP
+7	R	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Češky	NNMS2-----A----	Adv
+10	dostatečně	Dg-------1A----	Adv
+11	orientují	VB-P---3P-AA---	Pred
+12	v	RR--6----------	AuxP
+13	názvech	NNIP6-----A----	Adv
+14	fondů	NNIP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	pokud	J,-------------	AuxC
+17	je	PPXP4--3-------	Obj
+18	samy	PLIP1----------	Atv
+19	fondy	NNIP1-----A----	Sb
+20	dodržují	VB-P---3P-AA---	Adv
+21	.	Z:-------------	AuxK
+
+ln94211-122-p5s2
+1	Vsadil	VpYS---XR-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	někdo	PZM-1----------	Sb
+5	na	RR--4----------	AuxP
+6	růstový	AAIS4----1A----	Atr
+7	fond	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	neměl	VpYS---XR-NA---	Pred
+10	by	Vc-------------	AuxV
+11	očekávat	Vf--------A----	Obj
+12	okamžitý	AAIS4----1A----	Atr
+13	výnos	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94211-122-p5s3
+1	Naopak	Db-------------	Adv
+2	u	RR--2----------	AuxP
+3	dividendového	AAIS2----1A----	Atr
+4	fondu	NNIS2-----A----	Adv
+5	je	VB-S---3P-AA---	Pred
+6	naděje	NNFS1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	pravidelný	AAIS4----1A----	Atr
+9	příjem	NNIS4-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94211-122-p5s4
+1	Protivahou	NNFS7-----A----	Pnom
+2	pravidelnosti	NNFS3-----A----	Atr
+3	ovšem	J^-------------	Coord
+4	obvykle	Dg-------1A----	Adv
+5	jsou	VB-P---3P-AA---	Pred
+6	mnohem	Db-------------	Adv
+7	nižší	AAFP1----2A----	Atr
+8	částky	NNFP1-----A----	Sb
+9	než	J,-------------	AuxC
+10	u	RR--2----------	AuxP
+11	agresivně	Dg-------1A----	Adv
+12	orientovaných	AAIP2----1A----	Atr
+13	fondů	NNIP2-----A----	ExD
+14	.	Z:-------------	AuxK
+

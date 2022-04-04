@@ -1,0 +1,259 @@
+lnd91303-055-p1s1
+1	CO	PQ--1----------	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-055-p2s1
+1	KDY	Db-------------	ExD
+2	-	Z:-------------	ExD
+3	KDE	Db-------------	ExD
+
+lnd91303-055-p3s1
+1	Studenti	NNMP1-----A----	Sb
+2	pražské	AAFS2----1A----	Atr
+3	AMU	NNFXX-----A---8	Atr
+4	uvedou	VB-P---3P-AA---	Pred
+5	2	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	1	C=-------------	Adv
+8	.	Z:-------------	AuxG
+9	Škvoreckého	NNMS2-----A----	Atr
+10	Mirákl	NNIS4-----A----	Obj
+11	,	Z:-------------	ExD
+12	3	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	1	C=-------------	ExD
+15	.	Z:-------------	AuxG
+16	Čechovova	AUMS4M---------	Atr
+17	Darebáka	NNMS4-----A----	ExD
+18	a	J^-------------	Coord
+19	6	C=-------------	Atr
+20	.	Z:-------------	AuxG
+21	1	C=-------------	ExD
+22	.	Z:-------------	AuxG
+23	Gombrowiczovu	AUFS4M---------	Atr
+24	Svatbu	NNFS4-----A----	ExD
+25	.	Z:-------------	AuxK
+
+lnd91303-055-p3s5
+1	Začátky	NNIP1-----A----	ExD
+2	představení	NNNP2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	divadle	NNNS6-----A----	ExD
+5	DISK	NNIS1-----A----	Atr
+6	v	RR--4----------	AuxP
+7	19.00	C=-------------	ExD
+8	hod	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+
+lnd91303-055-p4s1
+1	Opera	NNFS1-----A----	Sb
+2	Smetanova	AUNS2M---------	Atr
+3	divadla	NNNS2-----A----	Atr
+4	připravila	VpQW---XR-AA---	Pred
+5	mimořádná	AANP4----1A----	Atr
+6	představení	NNNP4-----A----	Obj
+7	:	Z:-------------	AuxK
+
+lnd91303-055-p4s2
+1	31	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	12	C=-------------	ExD
+4	.	Z:-------------	AuxG
+5	(	Z:-------------	ExD
+6	19.00	C=-------------	ExD
+7	)	Z:-------------	ExD
+8	Silvestr	NNMS1-----A----	ExD
+9	se	RV--7----------	AuxP
+10	Straussovým	AUMS7M---------	Atr
+11	Netopýrem	NNMS7-----A----	Atr
+12	a	J^-------------	Coord
+13	rakouskými	AAMP7----1A----	Atr
+14	hosty	NNMP7-----A----	Atr
+15	,	Z:-------------	ExD
+16	1	C=-------------	Atr
+17	.	Z:-------------	AuxG
+18	1	C=-------------	ExD
+19	.	Z:-------------	AuxG
+20	1992	C=-------------	Atr
+21	(	Z:-------------	ExD
+22	20.00	C=-------------	ExD
+23	)	Z:-------------	ExD
+24	Novoroční	AAIS1----1A----	Atr
+25	koncert	NNIS1-----A----	ExD
+26	z	RR--2----------	AuxP
+27	děl	NNNP2-----A----	Atr
+28	J	NNMXX-----A---8	Atr
+29	.	Z:-------------	AuxG
+30	Strausse	NNMS2-----A----	Atr
+31	a	J^-------------	Coord
+32	F	NNMXX-----A---8	Atr
+33	.	Z:-------------	AuxG
+34	Schuberta	NNMS2-----A----	Atr
+35	(	Z:-------------	AuxG
+36	řídí	VB-S---3P-AA---	ExD
+37	Andreas	NNMS1-----A----	Atr
+38	Stöhr	NNMS1-----A----	Sb
+39	)	Z:-------------	AuxG
+40	.	Z:-------------	AuxK
+
+lnd91303-055-p5s1
+1	Chodovská	NNFS1-----A----	Atr
+2	tvrz	NNFS1-----A----	Sb
+3	(	Z:-------------	ExD
+4	Ledvinova	AUFS1M---------	Atr
+5	9	C=-------------	Atr
+6	,	Z:-------------	AuxX
+7	Praha	NNFS1-----A----	ExD
+8	4	C=-------------	Atr
+9	)	Z:-------------	ExD
+10	uvádí	VB-S---3P-AA---	Pred
+11	cyklus	NNIS4-----A----	Obj
+12	koncertů	NNIP2-----A----	Atr
+13	Kytarová	AAFS1----1A----	Atr
+14	tvrz	NNFS1-----A----	Atr
+15	(	Z:-------------	AuxG
+16	vždy	Db-------------	Adv
+17	od	RR--2----------	AuxP
+18	19.00	C=-------------	Adv
+19	)	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+lnd91303-055-p5s2
+1	3	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	1	C=-------------	Adv
+4	.	Z:-------------	AuxG
+5	vystoupí	VB-S---3P-AA---	Pred
+6	Tomáš	NNMS1-----A----	Atr
+7	Valášek	NNMS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	4	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	1	C=-------------	ExD
+12	.	Z:-------------	AuxG
+13	Vladimír	NNMS1-----A----	Atr
+14	Mišík	NNMS1-----A----	ExD
+15	&	Z:-------------	Coord
+16	ČDG	NNXXX-----A---8	ExD
+17	,	Z:-------------	AuxX
+18	10	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	1	C=-------------	ExD
+21	.	Z:-------------	AuxG
+22	J	NNMXX-----A---8	Atr
+23	.	Z:-------------	AuxG
+24	Hutka	NNMS1-----A----	ExD
+25	a	J^-------------	Coord
+26	R	NNMXX-----A---8	Atr
+27	.	Z:-------------	AuxG
+28	Hladík	NNMS1-----A----	ExD
+29	,	Z:-------------	Coord
+30	11	C=-------------	Atr
+31	.	Z:-------------	AuxG
+32	1	C=-------------	ExD
+33	.	Z:-------------	AuxG
+34	Dáša	NNFS1-----A----	Atr
+35	Voňková	NNFS1-----A----	Atr
+36	-	Z:-------------	AuxG
+37	Andrtová	NNFS1-----A----	ExD
+38	.	Z:-------------	AuxK
+
+lnd91303-055-p6s1
+1	Chodovská	NNFS1-----A----	Atr
+2	tvrz	NNFS1-----A----	Sb
+3	a	J^-------------	Coord
+4	časopis	NNIS1-----A----	Sb
+5	Muzikus	NNIS1-----A----	Atr
+6	pořádají	VB-P---3P-AA---	Pred
+7	výstavu	NNFS4-----A----	Obj
+8	Kytarová	AAFS1----1A----	Atr
+9	tvrz	NNFS1-----A----	Atr
+10	(	Z:-------------	Apos
+11	Miniveletrh	NNIS1-----A----	Atr
+12	kytar	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	příslušenství	NNNS2-----A----	Atr
+15	našich	PSXP2-P1-------	Atr
+16	i	J^-------------	Coord
+17	zahraničních	AAMP2----1A----	Atr
+18	výrobců	NNMP2-----A----	Atr
+19	)	Z:-------------	AuxG
+20	od	RR--2----------	AuxP
+21	20	C=-------------	Atr
+22	.	Z:-------------	AuxG
+23	12	C=-------------	Adv
+24	.	Z:-------------	AuxG
+25	do	RR--2----------	AuxP
+26	15.1	C=-------------	Adv
+27	.	Z:-------------	AuxG
+
+lnd91303-055-p6s2
+1	1992	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+lnd91303-055-p6s3
+1	Výstava	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	otevřena	VsQW---XX-AP---	Pnom
+4	každý	AAIS4----1A----	Atr
+5	den	NNIS4-----A----	Adv
+6	mimo	RR--2----------	AuxP
+7	pondělí	NNNS2-----A----	Adv
+8	,	Z:-------------	AuxX
+9	Silvestra	NNMS2-----A----	Adv
+10	a	J^-------------	Coord
+11	Nového	AAIS2----1A----	Atr
+12	roku	NNIS2-----A---1	Adv
+13	.	Z:-------------	AuxK
+
+lnd91303-055-p7s1
+1	První	CrFS1----------	Atr
+2	novoroční	AAFS1----1A----	Atr
+3	Antidiskotéka	NNFS1-----A----	Sb
+4	Jiřího	NNMS2-----A----	Obj
+5	Černého	NNMS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	20	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	1	C=-------------	Adv
+10	.	Z:-------------	AuxG
+11	1992	C=-------------	Atr
+12	v	RR--6----------	AuxP
+13	sále	NNIS6-----A----	Adv
+14	Elektra	NNFS1-----A----	Atr
+15	Dopravních	AAIP2----1A----	Atr
+16	podniků	NNIP2-----A----	Atr
+17	(	Z:-------------	ExD
+18	19.00	C=-------------	ExD
+19	)	Z:-------------	ExD
+20	.	Z:-------------	AuxK
+
+lnd91303-055-p8s1
+1	V	RR--6----------	AuxP
+2	Pardubicích	NNFP6-----A----	Adv
+3	byl	VpYS---XR-AA---	Pred
+4	založen	VsYS---XX-AP---	Pnom
+5	Klub	NNIS1-----A----	Sb
+6	Jaroslava	NNMS2-----A----	Atr
+7	Hutky	NNMS2-----A----	Atr
+8	,	Z:-------------	AuxG
+9	TIS	NNXXX-----A---8	Atr
+10	'	Z:-------------	AuxG
+11	.	Z:-------------	AuxK
+
+lnd91303-055-p8s2
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Nakladatelství	NNNS1-----A----	ExD
+4	JILM	NNIS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	Post	AAXXX----1A----	Atr
+7	box	NNIS1-----A----	Atr
+8	121	C=-------------	Atr
+9	,	Z:-------------	AuxX
+10	530	C=-------------	Atr
+11	02	C=-------------	Atr
+12	Pardubice	NNFP1-----A----	Atr
+13	2	C=-------------	Atr
+14	.	Z:-------------	AuxK
+

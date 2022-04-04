@@ -1,0 +1,137 @@
+ln95040-129-p1s1
+1	Polsko	NNNS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	nová	AAFS1----1A----	Atr
+4	koaliční	AAFS1----1A----	Atr
+5	smlouva	NNFS1-----A----	ExD
+
+ln95040-129-p2s1A
+1	Varšava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-129-p2s1B
+1	Představitelé	NNMP1-----A----	Sb
+2	Polské	AAFS2----1A----	Atr
+3	lidové	AAFS2----1A----	Atr
+4	strany	NNFS2-----A----	Atr
+5	(	Z:-------------	Apos
+6	PSL	NNFXX-----A----	Atr
+7	)	Z:-------------	AuxG
+8	a	J^-------------	Coord
+9	Svazu	NNIS2-----A----	Atr
+10	demokratické	AAFS2----1A----	Atr
+11	levice	NNFS2-----A----	Atr
+12	(	Z:-------------	Apos
+13	SLD	NNIXX-----A----	Atr
+14	)	Z:-------------	AuxG
+15	včera	Db-------------	Adv
+16	ve	RV--6----------	AuxP
+17	Varšavě	NNFS6-----A----	Adv
+18	podepsali	VpMP---XR-AA---	Pred
+19	novou	AAFS4----1A----	Atr
+20	koaliční	AAFS4----1A----	Atr
+21	smlouvu	NNFS4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	která	P4FS1----------	Sb
+24	zakotvuje	VB-S---3P-AA---	Atr
+25	zásady	NNFP4-----A----	Obj
+26	spolupráce	NNFS2-----A----	Atr
+27	obou	ClXP2----------	Atr
+28	uskupení	NNNP2-----A----	Atr
+29	a	J^-------------	Coord
+30	společensko	A2--------A----	Atr
+31	-	Z:-------------	Coord
+32	hospodářský	AAIS4----1A----	Atr
+33	program	NNIS4-----A----	Obj
+34	koalice	NNFS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+ln95040-129-p2s2
+1	Základní	AAFP1----1A----	Atr
+2	zásady	NNFP1-----A----	Sb
+3	smlouvy	NNFS2-----A----	Atr
+4	byly	VpTP---XR-AA---	AuxV
+5	vytvořeny	VsTP---XX-AP---	Obj
+6	již	Db-------------	AuxZ
+7	před	RR--7----------	AuxP
+8	patnácti	Cn-P7----------	Atr
+9	měsíci	NNIP7-----A----	Adv
+10	a	J^-------------	Coord
+11	včera	Db-------------	Adv
+12	byly	VpTP---XR-AA---	AuxV
+13	jen	TT-------------	AuxZ
+14	některé	PZFP1----------	Atr
+15	záležitosti	NNFP1-----A----	Sb
+16	upřesněny	VsTP---XX-AP---	Obj
+17	,	Z:-------------	AuxX
+18	prohlásil	VpYS---XR-AA---	Pred
+19	maršálek	NNMS1-----A----	Atr
+20	Sejmu	NNIS2-----A----	Atr
+21	J	NNMXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	Oleksy	NNMS1-----A----	Sb
+24	,	Z:-------------	AuxX
+25	který	P4YS1----------	Sb
+26	je	VB-S---3P-AA---	Atr
+27	pověřen	VsYS---XX-AP---	Pnom
+28	sestavením	NNNS7-----A----	Obj
+29	nové	AAFS2----1A----	Atr
+30	vlády	NNFS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95040-129-p2s3
+1	Oleksy	NNMS1-----A----	Sb
+2	dodal	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vláda	NNFS1-----A----	Sb
+6	W	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Pawlaka	NNMS2-----A----	Atr
+9	realizovala	VpQW---XR-AA---	Obj
+10	politiku	NNFS4-----A----	Obj
+11	koalice	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95040-129-p2s4
+1	Jedním	ClZS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	bodů	NNIP2-----A----	Atr
+4	smlouvy	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	jmenování	NNNS1-----A----	Sb
+7	vicemaršálka	NNMS2-----A----	Atr
+8	Sejmu	NNIS2-----A----	Atr
+9	J	NNMXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	Zycha	NNMS2-----A----	Atr
+12	(	Z:-------------	ExD
+13	PSL	NNFXX-----A----	ExD
+14	)	Z:-------------	ExD
+15	novým	AAMS7----1A----	Atr
+16	maršálkem	NNMS7-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95040-129-p3s1
+1	Poradce	NNMS1-----A----	Atr
+2	polského	AAMS2----1A----	Atr
+3	prezidenta	NNMS2-----A----	Atr
+4	Lech	NNMS1-----A----	Atr
+5	Falandysz	NNMS1-----A----	Sb
+6	včera	Db-------------	Adv
+7	z	RR--2----------	AuxP
+8	dosud	Db-------------	Adv
+9	neznámých	AAIP2----1N----	Atr
+10	důvodů	NNIP2-----A----	Adv
+11	rezignoval	VpYS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln95040-129-p3s2
+1	Oznámila	VpQW---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	večer	Db-------------	Adv
+4	tisková	AAFS1----1A----	Atr
+5	služba	NNFS1-----A----	Sb
+6	prezidenta	NNMS2-----A----	Atr
+7	.	Z:-------------	AuxK
+

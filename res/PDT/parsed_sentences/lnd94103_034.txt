@@ -1,0 +1,159 @@
+lnd94103-034-p1s1
+1	Tomáš	NNMS1-----A----	Atr
+2	Ježek	NNMS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	důvěru	NNFS4-----A----	Obj
+5	ODA	NNFXX-----A---8	Atr
+
+lnd94103-034-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mst	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94103-034-p1s3
+1	Členové	NNMP1-----A----	Sb
+2	vedení	NNNS2-----A----	Atr
+3	ODA	NNFXX-----A---8	Atr
+4	se	P7-X4----------	AuxT
+5	zabývají	VB-P---3P-AA---	Pred
+6	kampaní	NNFS7-----A----	Obj
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	je	VB-S---3P-AA---	AuxV
+10	v	RR--6----------	AuxP
+11	tisku	NNIS6-----A----	Adv
+12	vedena	VsQW---XX-AP---	Atr
+13	v	RR--6----------	AuxP
+14	souvislosti	NNFS6-----A----	AuxP
+15	s	RR--7----------	AuxP
+16	"	Z:-------------	AuxG
+17	kauzou	NNFS7-----A----	Adv
+18	Čokoládoven	NNFP2-----A----	Atr
+19	"	Z:-------------	AuxG
+20	proti	RR--3----------	AuxP
+21	předsedovi	NNMS3-----A----	Atr
+22	Fondu	NNIS2-----A----	Atr
+23	národního	AAIS2----1A----	Atr
+24	majetku	NNIS2-----A----	Atr
+25	Tomáši	NNMS3-----A----	Atr
+26	Ježkovi	NNMS3-----A----	Adv
+27	(	Z:-------------	ExD
+28	ODA	NNFXX-----A---8	ExD
+29	)	Z:-------------	ExD
+30	.	Z:-------------	AuxK
+
+lnd94103-034-p1s4
+1	Ten	PDYS1----------	Sb
+2	i	J^-------------	AuxZ
+3	nadále	Db-------------	Adv
+4	může	VB-S---3P-AA---	Pred
+5	počítat	Vf--------A----	Obj
+6	s	RR--7----------	AuxP
+7	podporou	NNFS7-----A----	Obj
+8	své	P8FS2---------1	Atr
+9	strany	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94103-034-p1s5
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	vyjádření	NNNS2-----A----	Adv
+5	mluvčího	NNMS2-----A----	Atr
+6	ODA	NNFXX-----A---8	Atr
+7	P	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Rožánka	NNMS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94103-034-p1s6
+1	Zároveň	Db-------------	Adv
+2	však	J^-------------	Coord
+3	dodal	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	"	Z:-------------	AuxG
+7	ODA	NNFXX-----A---8	Sb
+8	k	RR--3----------	AuxP
+9	tomuto	PDZS3----------	Atr
+10	případu	NNIS3-----A----	Adv
+11	nebude	VB-S---3F-NA---	AuxV
+12	zaujímat	Vf--------A----	Obj
+13	žádné	PWNS4----------	Atr
+14	oficiální	AANS4----1A----	Atr
+15	stanovisko	NNNS4-----A----	Obj
+16	"	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+lnd94103-034-p1s7
+1	Podle	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	se	P7-X4----------	AuxR
+4	jako	J,-------------	AuxY
+5	oficiální	AAIS1----1A----	Atr
+6	názor	NNIS1-----A----	Atv
+7	ODA	NNFXX-----A---8	Atr
+8	dá	VB-S---3P-AA---	Pred
+9	chápat	Vf--------A----	Obj
+10	páteční	AANS1----1A----	Atr
+11	prohlášení	NNNS1-----A----	Sb
+12	Daniela	NNMS2-----A----	Atr
+13	Kroupy	NNMS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	který	P4YS1----------	Sb
+16	útoky	NNIP4-----A----	Obj
+17	proti	RR--3----------	AuxP
+18	Ježkovi	NNMS3-----A----	Atr
+19	odsoudil	VpYS---XR-AA---	Atr
+20	,	Z:-------------	AuxX
+21	protože	J,-------------	AuxC
+22	ten	PDYS1----------	Sb
+23	nebyl	VpYS---XR-NA---	Adv
+24	v	RR--6----------	AuxP
+25	době	NNFS6-----A----	Adv
+26	,	Z:-------------	AuxX
+27	kdy	Db-------------	Adv
+28	se	P7-X4----------	AuxR
+29	schvaloval	VpYS---XR-AA---	Atr
+30	prodej	NNIS1-----A----	Sb
+31	akcií	NNFP2-----A----	Atr
+32	Čokoládoven	NNFP2-----A----	Atr
+33	,	Z:-------------	AuxX
+34	předsedou	NNMS7-----A----	Pnom
+35	FNM	NNIXX-----A---8	Atr
+36	.	Z:-------------	AuxK
+
+lnd94103-034-p1s8
+1	Kroupa	NNMS1-----A----	Sb
+2	také	Db-------------	Adv
+3	odmítl	VpYS---XR-AA--1	Pred
+4	vyvozovat	Vf--------A----	Obj
+5	z	RR--2----------	AuxP
+6	tohoto	PDZS2----------	Atr
+7	případu	NNIS2-----A----	Adv
+8	útoky	NNIP4-----A----	Obj
+9	proti	RR--3----------	AuxP
+10	privatizaci	NNFS3-----A----	Atr
+11	jako	J,-------------	AuxY
+12	takové	PDFS3----------	Atv
+13	.	Z:-------------	AuxK
+
+lnd94103-034-p1s9
+1	"	Z:-------------	AuxG
+2	Ke	RV--3----------	AuxP
+3	stanovisku	NNNS3-----A----	Adv
+4	Daniela	NNMS2-----A----	Atr
+5	Kroupy	NNMS2-----A----	Atr
+6	není	VB-S---3P-NA---	Obj
+7	co	PQ--4----------	Obj
+8	dodat	Vf--------A----	Sb
+9	"	Z:-------------	AuxG
+10	,	Z:-------------	AuxX
+11	řekl	VpYS---XR-AA---	Pred
+12	včera	Db-------------	Adv
+13	LN	NNFPX-----A---8	Obj
+14	Rožánek	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+

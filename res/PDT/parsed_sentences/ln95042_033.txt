@@ -1,0 +1,86 @@
+ln95042-033-p1s1
+1	Reprezentace	NNFS1-----A----	Sb
+2	může	VB-S---3P-AA---	Pred
+3	počítat	Vf--------A----	Obj
+4	s	RR--7----------	AuxP
+5	Letnou	NNFS7-----A----	Obj
+
+ln95042-033-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95042-033-p2s1B
+1	Česká	AAFS1----1A----	Atr
+2	fotbalová	AAFS1----1A----	Atr
+3	reprezentace	NNFS1-----A----	Sb
+4	sehraje	VB-S---3P-AA---	Pred
+5	kvalifikační	AANS4----1A----	Atr
+6	utkání	NNNS4-----A----	Obj
+7	o	RR--4----------	AuxP
+8	postup	NNIS4-----A----	Atr
+9	na	RR--4----------	AuxP
+10	ME	NNNXX-----A---8	Atr
+11	s	RR--7----------	AuxP
+12	Nizozemskem	NNNS7-----A----	AdvAtr
+13	(	Z:-------------	AuxG
+14	26	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	4	C=-------------	Adv
+17	.	Z:-------------	AuxG
+18	)	Z:-------------	AuxG
+19	na	RR--6----------	AuxP
+20	stadiónu	NNIS6-----A---1	Adv
+21	Sparty	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95042-033-p2s2
+1	Během	RR--2----------	AuxP
+2	půlhodinového	AANS2----1A----	Atr
+3	jednání	NNNS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	o	RR--6----------	AuxP
+6	tom	PDZS6----------	Obj
+7	včera	Db-------------	Adv
+8	dohodli	VpMP---XR-AA--1	Pred
+9	předseda	NNMS1-----A----	Atr
+10	správní	AAFS2----1A----	Atr
+11	rady	NNFS2-----A----	Atr
+12	STES	NNXXX-----A---8	Atr
+13	Jaroslav	NNMS1-----A----	Atr
+14	Vacek	NNMS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	prezident	NNMS1-----A----	Atr
+17	Sparty	NNFS2-----A----	Atr
+18	Petr	NNMS1-----A----	Atr
+19	Mach	NNMS1-----A----	Sb
+20	a	J^-------------	Coord
+21	jeho	PSXXXZS3-------	Atr
+22	ekonomický	AAMS1----1A----	Atr
+23	ředitel	NNMS1-----A----	Atr
+24	Miloš	NNMS1-----A----	Atr
+25	Moravec	NNMS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+ln95042-033-p2s3
+1	Letenským	AAMP3----1A----	Obj
+2	zůstane	VB-S---3P-AA---	Pred
+3	maximálně	Dg-------1A----	AuxZ
+4	dvacetiprocentní	AAFS1----1A----	Atr
+5	provize	NNFS1-----A----	Sb
+6	ze	RV--2----------	AuxP
+7	vstupného	NNNS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	reprezentace	NNFS1-----A----	Sb
+10	bude	VB-S---3F-AA---	AuxV
+11	mít	Vf--------A----	Pred
+12	stadión	NNIS4-----A----	Obj
+13	k	RR--3----------	AuxP
+14	dispozici	NNFS3-----A----	Adv
+15	již	Db-------------	AuxZ
+16	od	RR--2----------	AuxP
+17	pondělí	NNNS2-----A----	Adv
+18	24	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	dubna	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+

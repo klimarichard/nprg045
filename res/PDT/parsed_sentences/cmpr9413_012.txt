@@ -1,0 +1,928 @@
+cmpr9413-012-p2s1
+1	Jeden	ClYS1----------	Sb
+2	si	P7-X3----------	AuxO
+3	zpívá	VB-S---3P-AA---	Pred
+4	-	Z:-------------	Coord
+5	druhý	CrMS1---------6	ExD
+6	ne	TT-------------	ExD
+
+cmpr9413-012-p3s1A
+1	Rozdílný	AAIS1----1A----	Atr
+2	vývoj	NNIS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	ČR	NNFXX-----A---8	Atr
+5	a	J^-------------	Coord
+6	SR	NNFXX-----A---8	Atr
+7	rok	NNIS4-----A----	Atr
+8	po	RR--6----------	AuxP
+9	rozpadu	NNIS6-----A----	Atr
+10	ČSFR	NNFXX-----A---8	Atr
+11	*	Z:-------------	AuxG
+
+cmpr9413-012-p3s1B
+1	Jeden	ClYS1----------	Sb
+2	má	VB-S---3P-AA---	Pred
+3	problém	NNIS4-----A----	Obj
+4	s	RR--7----------	AuxP
+5	bankroty	NNIP7-----A----	AtrAdv
+6	,	Z:-------------	Coord
+7	druhý	CrMS1---------6	ExD
+8	s	RR--7----------	AuxP
+9	maďarskou	AAFS7----1A----	Atr
+10	menšinou	NNFS7-----A----	ExD
+
+cmpr9413-012-p4s1
+1	Rozpad	NNIS1-----A----	Sb
+2	ČSFR	NNFXX-----A---8	Atr
+3	způsobil	VpYS---XR-AA---	Pred
+4	větší	AAFP4----2A----	Atr
+5	potíže	NNFP4-----A----	Obj
+6	Slovensku	NNNS3-----A----	Obj
+7	než	J,-------------	AuxC
+8	České	AAFS3----1A----	Atr
+9	republice	NNFS3-----A----	ExD
+10	.	Z:-------------	AuxK
+
+cmpr9413-012-p4s2
+1	Podle	RR--2----------	AuxP
+2	francouzského	AAIS2----1A----	Atr
+3	týdeníku	NNIS2-----A----	Adv
+4	L	AAXXX----1A----	Atr
+5	'	Z:-------------	AuxG
+6	Expansion	NNIS1-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	v	RR--6----------	AuxP
+9	SR	NNFXX-----A---8	Adv
+10	více	Dg-------2A----	Adv
+11	zastaralá	AAFS1----1A----	Pnom
+12	skladba	NNFS1-----A----	Sb
+13	ekonomiky	NNFS2-----A----	Atr
+14	než	J,-------------	AuxC
+15	v	RR--6----------	AuxP
+16	ČR	NNFXX-----A---8	ExD
+17	,	Z:-------------	AuxX
+18	která	P4FS1----------	Sb
+19	se	P7-X4----------	AuxT
+20	nyní	Db-------------	Adv
+21	nachází	VB-S---3P-AA---	Atr
+22	v	RR--6----------	AuxP
+23	kritické	AAFS6----1A----	Atr
+24	fázi	NNFS6-----A----	Adv
+25	přechodu	NNIS2-----A----	Atr
+26	na	RR--4----------	AuxP
+27	tržní	AAFS4----1A----	Atr
+28	ekonomiku	NNFS4-----A----	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9413-012-p6s1
+1	Igor	NNMS1-----A----	Atr
+2	Pírek	NNMS1-----A----	ExD
+
+cmpr9413-012-p8s1
+1	Zatímco	J,-------------	AuxC
+2	se	P7-X4----------	AuxR
+3	rozchod	NNIS1-----A----	Sb
+4	loni	Db------------1	Adv
+5	promítl	VpYS---XR-AA--1	Adv
+6	v	RR--6----------	AuxP
+7	české	AAFS6----1A----	Atr
+8	ekonomice	NNFS6-----A----	Adv
+9	snížením	NNNS7-----A----	Adv
+10	očekávaného	AAIS2----1A----	Atr
+11	HDP	NNIXX-----A---8	Atr
+12	asi	TT-------------	AuxZ
+13	o	RR--4----------	AuxP
+14	2.5	C=-------------	Atr
+15	procentního	AAIS2----1A----	Atr
+16	bodu	NNIS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	slovenská	AAFS1----1A----	ExD
+19	ztratila	VpQW---XR-AA---	Pred
+20	6	C=-------------	Obj
+21	procentních	AAIP2----1A----	Atr
+22	bodů	NNIP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9413-012-p8s2
+1	Podle	RR--2----------	AuxP
+2	francouzského	AAIS2----1A----	Atr
+3	týdeníku	NNIS2-----A----	Adv
+4	bylo	VpNS---XR-AA---	Pred
+5	osamostatnění	NNNS1-----A----	Sb
+6	pro	RR--4----------	AuxP
+7	Slovensko	NNNS4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	jehož	PJZS2----------	Atr
+10	většina	NNFS1-----A----	Sb
+11	ekonomických	AAIP2----1A----	Atr
+12	ukazatelů	NNIP2-----A----	Atr
+13	zaznamenala	VpQW---XR-AA---	Atr
+14	citelný	AAIS4----1A----	Atr
+15	pokles	NNIS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	velmi	Db-------------	Adv
+18	nákladné	AANS1----1A----	Pnom
+19	.	Z:-------------	AuxK
+
+cmpr9413-012-p9s1
+1	Praha	NNFS1-----A----	ExD
+2	versus	RR--1----------	AuxP
+3	Bratislava	NNFS1-----A----	Atr
+
+cmpr9413-012-p10s1
+1	Miliony	NNIP1-----A----	Sb
+2	turistů	NNMP2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	kteří	P4MP1----------	Sb
+5	se	P7-X4----------	AuxT
+6	každý	AAIS4----1A----	Atr
+7	rok	NNIS4-----A----	Adv
+8	projdou	VB-P---3P-AA---	Atr
+9	po	RR--6----------	AuxP
+10	Karlově	AUIS6M---------	Atr
+11	mostě	NNIS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	jsou	VB-P---3P-AA---	Pred
+14	hojným	AAIS7----1A----	Atr
+15	zdrojem	NNIS7-----A----	Pnom
+16	zahraničních	AAFP2----1A----	Atr
+17	deviz	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9413-012-p10s2
+1	Stověžaté	AANS1----1A----	Atr
+2	město	NNNS1-----A----	Sb
+3	věží	NNFP2-----A----	Atr
+4	svojí	P8FS7----------	Atr
+5	bohatou	AAFS7----1A----	Atr
+6	historií	NNFS7-----A----	Adv
+7	ostře	Dg-------1A----	Adv
+8	kontrastuje	VB-S---3P-AA---	Pred
+9	s	RR--7----------	AuxP
+10	Bratislavou	NNFS7-----A----	Obj
+11	,	Z:-------------	AuxX
+12	kde	Db-------------	Adv
+13	vládne	VB-S---3P-AA---	Atr
+14	stalinská	AAFS1----1A----	Atr
+15	architektura	NNFS1-----A----	Sb
+16	a	J^-------------	Coord
+17	ohromné	AAIP1----1A----	Atr
+18	průmyslové	AAIP1----1A----	Atr
+19	komplexy	NNIP1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+cmpr9413-012-p10s3
+1	Praha	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	plná	AAFS1----1A----	Pnom
+4	směnáren	NNFP2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	bank	NNFP2-----A----	Obj
+7	,	Z:-------------	Coord
+8	luxusních	AAIP2----1A----	Atr
+9	obchodů	NNIP2-----A----	Obj
+10	,	Z:-------------	Coord
+11	výlohy	NNFP1-----A----	Sb
+12	bratislavských	AAIP2----1A----	Atr
+13	obchodů	NNIP2-----A----	Atr
+14	zákazníky	NNMP4-----A----	Obj
+15	spíše	Dg-------2A---1	Adv
+16	odstrašují	VB-P---3P-AA---	Pred
+17	.	Z:-------------	AuxK
+
+cmpr9413-012-p10s4
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	zrodila	VpQW---XR-AA---	Pred
+5	nová	AAFS1----1A----	Atr
+6	podnikatelská	AAFS1----1A----	Atr
+7	třída	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	holduje	VB-S---3P-AA---	Atr
+11	americkým	AAFP3----1A----	Atr
+12	cigaretám	NNFP3-----A----	Obj
+13	Marlboro	NNNS1-----A----	Atr
+14	a	J^-------------	Coord
+15	německým	AAFP3----1A----	Atr
+16	limuzínám	NNFP3-----A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9413-012-p10s5
+1	V	RR--6----------	AuxP
+2	Bratislavě	NNFS6-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	naopak	Db-------------	AuxY
+5	vozy	NNIP1-----A----	Sb
+6	Škoda	NNFS1-----A----	Atr
+7	stejně	Dg-------1A----	Adv
+8	populární	AAIP1----1A----	Pnom
+9	jako	J,-------------	AuxC
+10	v	RR--6----------	AuxP
+11	minulosti	NNFS6-----A----	ExD
+12	.	Z:-------------	AuxK
+
+cmpr9413-012-p10s6
+1	Méně	Dg-------2A----	Adv
+2	se	P7-X4----------	AuxR
+3	zde	Db-------------	Adv
+4	hledí	VB-S---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	kvalitu	NNFS4-----A----	Obj
+7	oblečení	NNNS2-----A----	Atr
+8	a	J^-------------	Coord
+9	tabáku	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9413-012-p10s7
+1	Pryč	Db-------------	Adv
+2	jsou	VB-P---3P-AA---	Pred
+3	doby	NNFP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	jezdili	VpMP---XR-AA---	Atr
+7	Pražané	NNMP1-----A----	Sb
+8	nakupovat	Vf--------A----	Adv
+9	do	RR--2----------	AuxP
+10	města	NNNS2-----A----	Adv
+11	na	RR--6----------	AuxP
+12	Dunaji	NNIS6-----A----	Atr
+13	v	RR--6----------	AuxP
+14	naději	NNFS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	zde	Db-------------	Adv
+18	seženou	VB-P---3P-AA---	Atr
+19	západní	AANS4----1A----	Atr
+20	zboží	NNNS4-----A----	Obj
+21	dovážené	AANS4----1A----	Atr
+22	z	RR--2----------	AuxP
+23	nedaleké	AAFS2----1N----	Atr
+24	Vídně	NNFS2-----A----	Adv
+25	.	Z:-------------	AuxK
+
+cmpr9413-012-p10s8
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	která	P4FS1----------	Sb
+5	připomíná	VB-S---3P-AA---	Atr
+6	atmosféru	NNFS4-----A----	Obj
+7	Paříže	NNFS2-----A----	Atr
+8	20	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	let	NNNP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	nyní	Db-------------	Adv
+13	žije	VB-S---3P-AA---	Pred
+14	na	RR--4----------	AuxP
+15	30000	C=-------------	Sb
+16	Američanů	NNMP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9413-012-p10s9
+1	Mnozí	AAMP1----1A----	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	byli	VpMP---XR-AA---	AuxV
+5	přilákání	VsMP---XX-AP---	Pred
+6	ultraliberalismem	NNIS7-----A----	Obj
+7	Václava	NNMS2-----A----	Atr
+8	Klause	NNMS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4IS4----------	Obj
+11	již	Db-------------	AuxZ
+12	někteří	PZMP1----------	Atr
+13	odborníci	NNMP1-----A----	Sb
+14	označují	VB-P---3P-AA---	Atr
+15	jako	J,-------------	AuxY
+16	"	Z:-------------	AuxG
+17	český	AAIS4----1A----	Atr
+18	model	NNIS4-----A----	Obj
+19	"	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+cmpr9413-012-p11s1
+1	Dobrý	AAMS1----1A----	Atr
+2	a	J^-------------	Coord
+3	špatný	AAMS1----1A----	Atr
+4	žák	NNMS1-----A----	ExD
+
+cmpr9413-012-p12s1
+1	Česká	AAFS1----1A----	Atr
+2	republika	NNFS1-----A----	Sb
+3	patří	VB-S---3P-AA---	Pred
+4	při	RR--6----------	AuxP
+5	přechodu	NNIS6-----A---1	Adv
+6	na	RR--4----------	AuxP
+7	tržní	AANS4----1A----	Atr
+8	hospodářství	NNNS4-----A----	Atr
+9	s	RR--7----------	AuxP
+10	mírně	Dg-------1A----	Adv
+11	pozitivním	AAIS7----1A----	Atr
+12	růstem	NNIS7-----A----	Adv
+13	HDP	NNIXX-----A---8	Atr
+14	,	Z:-------------	AuxX
+15	pozitivní	AAFS7----1A----	Atr
+16	platební	AAFS7----1A----	Atr
+17	bilancí	NNFS7-----A----	Adv
+18	v	RR--6----------	AuxP
+19	devizách	NNFP6-----A----	Atr
+20	a	J^-------------	Coord
+21	nezaměstnaností	NNFS7-----A----	Adv
+22	pod	RR--4----------	AuxP
+23	4	C=-------------	Adv
+24	%	Z:-------------	AuxG
+25	mezi	RR--7----------	AuxP
+26	bývalými	AAIP7----1A----	Atr
+27	socialistickými	AAIP7----1A----	Adv
+28	státy	NNIP7-----A----	Adv
+29	k	RR--3----------	AuxP
+30	dobrým	AAMP3----1A----	Atr
+31	žákům	NNMP3-----A----	Obj
+32	zemí	NNFP2-----A----	Atr
+33	s	RR--7----------	AuxP
+34	vyspělou	AAFS7----1A----	Atr
+35	ekonomikou	NNFS7-----A----	Atr
+36	.	Z:-------------	AuxK
+
+cmpr9413-012-p12s2
+1	Podařilo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	jí	PPFS3--3-------	Obj
+4	kompenzovat	Vf--------A----	Sb
+5	30	C=-------------	Obj
+6	%	Z:-------------	Atr
+7	snížení	NNNS2-----A----	Atr
+8	obchodu	NNIS2-----A----	Atr
+9	se	RV--7----------	AuxP
+10	Slovenskem	NNNS7-----A----	Atr
+11	vývozem	NNIS7-----A----	Adv
+12	do	RR--2----------	AuxP
+13	Německa	NNNS2-----A----	Atr
+14	a	J^-------------	Coord
+15	dalších	AAFP2----1A----	Atr
+16	západoevropských	AAFP2----1A----	Atr
+17	zemí	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9413-012-p12s3
+1	K	RR--3----------	AuxP
+2	pozitivním	AAIP3----1A----	Atr
+3	efektům	NNIP3-----A----	Obj
+4	rozdělení	NNNS2-----A----	Atr
+5	patří	VB-S---3P-AA---	Obj
+6	také	Db-------------	AuxZ
+7	zastavení	NNNS1-----A----	Sb
+8	finanční	AAFS2----1A----	Atr
+9	pomoci	NNFS2-----A----	Atr
+10	Slovensku	NNNS3-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	výši	NNFS6-----A----	Atr
+13	asi	TT-------------	AuxZ
+14	30	C=-------------	Atr
+15	miliard	NNFP2-----A----	Atr
+16	korun	NNFP2-----A----	Atr
+17	ročně	Dg-------1A----	Adv
+18	,	Z:-------------	AuxX
+19	uvádí	VB-S---3P-AA---	Pred
+20	francouzský	AAIS1----1A----	Atr
+21	týdeník	NNIS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+cmpr9413-012-p13s1
+1	Praha	NNFS1-----A----	Sb
+2	vyvinula	VpQW---XR-AA---	Pred
+3	velké	AANS4----1A----	Atr
+4	úsilí	NNNS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	přesvědčila	VpQW---XR-AA---	Adv
+8	zahraniční	AAMP4----1A----	Atr
+9	podnikatele	NNMP4-----A----	Obj
+10	o	RR--6----------	AuxP
+11	výhodách	NNFP6-----A----	Obj
+12	investovat	Vf--------A----	Atr
+13	v	RR--6----------	AuxP
+14	ČR	NNFXX-----A---8	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9413-012-p13s2
+1	Úkolem	NNIS7-----A----	Obj
+2	byla	VpQW---XR-AA---	AuxV
+3	pověřena	VsQW---XX-AP---	Pred
+4	vládní	AAFS1----1A----	Atr
+5	agentura	NNFS1-----A----	Sb
+6	Czechinvest	NNIS1-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9413-012-p13s3
+1	Rozdělení	NNNS1-----A----	Sb
+2	ČSFR	NNFXX-----A---8	Atr
+3	se	P7-X4----------	AuxT
+4	projevilo	VpNS---XR-AA---	Pred
+5	snížením	NNNS7-----A----	Adv
+6	investic	NNFP2-----A---1	Atr
+7	v	RR--6----------	AuxP
+8	ČR	NNFXX-----A---8	Atr
+9	z	RR--2----------	AuxP
+10	jedné	ClFS2----------	Atr
+11	miliardy	NNFS2-----A----	Atr
+12	dolarů	NNIP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	roce	NNIS6-----A---1	Atr
+15	1992	C=-------------	Atr
+16	na	RR--4----------	AuxP
+17	600	C=-------------	Atr
+18	milionů	NNIP2-----A----	Atr
+19	loni	Db------------1	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9413-012-p13s4
+1	Od	RR--2----------	AuxP
+2	září	NNNS2-----A----	Adv
+3	loňského	AAIS2----1A----	Atr
+4	roku	NNIS2-----A---1	Atr
+5	však	J^-------------	AuxY
+6	dobré	AAIP1----1A----	Atr
+7	výsledky	NNIP1-----A----	Sb
+8	české	AAFS2----1A----	Atr
+9	ekonomiky	NNFS2-----A----	Atr
+10	opět	Db-------------	Adv
+11	více	Dg-------2A----	Adv
+12	lákají	VB-P---3P-AA---	Pred
+13	zahraniční	AAMP4----1A----	Atr
+14	investory	NNMP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9413-012-p13s5
+1	Přispěla	VpQW---XR-AA---	Pred
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Obj
+4	také	Db-------------	AuxZ
+5	důvěra	NNFS1-----A----	Sb
+6	v	RR--4----------	AuxP
+7	úspěch	NNIS4-----A----	Atr
+8	druhé	CrFS2----------	Atr
+9	vlny	NNFS2-----A----	Atr
+10	kuponové	AAFS2----1A----	Atr
+11	privatizace	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9413-012-p14s1
+1	Horším	AAMS7----2A----	Atr
+2	žákem	NNMS7-----A----	Pnom
+3	průmyslově	Dg-------1A----	Adv
+4	vyspělých	AAFP2----1A----	Atr
+5	zemí	NNFP2-----A----	Atr
+6	s	RR--7----------	AuxP
+7	tržní	AAFS7----1A----	Atr
+8	ekonomikou	NNFS7-----A----	Atr
+9	je	VB-S---3P-AA---	Pred
+10	Slovenská	AAFS1----1A----	Atr
+11	republika	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	kde	Db-------------	Adv
+14	míra	NNFS1-----A----	Sb
+15	nezaměstnanosti	NNFS2-----A----	Atr
+16	dosáhla	VpQW---XR-AA---	Atr
+17	15	C=-------------	Atr
+18	%	Z:-------------	Obj
+19	,	Z:-------------	AuxX
+20	prohlubuje	VB-S---3P-AA---	Atr
+21	se	P7-X4----------	AuxT
+22	státní	AAIS1----1A----	Atr
+23	deficit	NNIS1-----A----	Sb
+24	,	Z:-------------	Coord
+25	prudce	Dg-------1A----	Adv
+26	klesá	VB-S---3P-AA---	Atr
+27	průmyslová	AAFS1----1A----	Atr
+28	výroba	NNFS1-----A----	Sb
+29	.	Z:-------------	AuxK
+
+cmpr9413-012-p14s2
+1	Nikdo	PWM-1----------	Sb
+2	již	Db-------------	AuxZ
+3	nepočítá	VB-S---3P-NA---	Obj
+4	politické	AAFP4----1A----	Atr
+5	chyby	NNFP4-----A----	Obj
+6	,	Z:-------------	Coord
+7	image	NNXXX-----A----	Sb
+8	země	NNFS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	zahraničí	NNNS6-----A----	Atr
+11	se	P7-X4----------	AuxT
+12	zhoršuje	VB-S---3P-AA---	Obj
+13	,	Z:-------------	AuxX
+14	konstatuje	VB-S---3P-AA---	Pred
+15	týdeník	NNIS1-----A----	Sb
+16	L	AAXXX----1A----	Atr
+17	'	Z:-------------	AuxG
+18	Expansion	NNIS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9413-012-p15s1
+1	Velkou	AAFS7----1A----	Atr
+2	slabinou	NNFS7-----A----	Pnom
+3	Slovenska	NNNS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	nedostatek	NNIS1-----A----	Sb
+6	odborníků	NNMP2-----A----	Atr
+7	-	Z:-------------	AuxG
+8	diplomatů	NNMP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	vyšších	AAMP2----2A----	Atr
+11	státních	AAMP2----1A----	Atr
+12	úředníků	NNMP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	finančníků	NNMP2-----A----	Atr
+15	ap	Db------------9	Atr
+16	.	Z:-------------	AuxG
+
+cmpr9413-012-p15s2
+1	Slovenská	AAFS1----1A----	Atr
+2	elita	NNFS1-----A----	Sb
+3	byla	VpQW---XR-AA---	AuxV
+4	zklamána	VsQW---XX-AP---	Pred
+5	politickou	AAFS7----1A----	Atr
+6	volbou	NNFS7-----A----	Obj
+7	Slovenska	NNNS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9413-012-p15s3
+1	Proto	J^-------------	Coord
+2	většina	NNFS1-----A----	Sb
+3	kvalitních	AAMP2----1A----	Atr
+4	odborníků	NNMP2-----A----	Atr
+5	zůstala	VpQW---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9413-012-p16s1
+1	Otazníky	NNIP1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	budoucností	NNFS7-----A----	Atr
+
+cmpr9413-012-p17s1
+1	Nadějný	AAIS1----1A----	Atr
+2	vývoj	NNIS1-----A----	Sb
+3	české	AAFS2----1A----	Atr
+4	ekonomiky	NNFS2-----A----	Atr
+5	přináší	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	negativní	AAIP4----1A----	Atr
+8	jevy	NNIP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9413-012-p17s2
+1	Rychlá	AAFS1----1A----	Atr
+2	kumulace	NNFS1-----A----	Sb
+3	zisku	NNIS2-----A----	Atr
+4	vyvolává	VB-S---3P-AA---	Pred
+5	problémy	NNIP4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	české	AAFS6----1A----	Atr
+8	společnosti	NNFS6-----A----	AtrAdv
+9	.	Z:-------------	AuxK
+
+cmpr9413-012-p17s3
+1	Roste	VB-S---3P-AA---	Pred
+2	napětí	NNNS1-----A----	Sb
+3	mezi	RR--7----------	AuxP
+4	soukromým	AAIS7----1A----	Atr
+5	a	J^-------------	Coord
+6	veřejným	AAIS7----1A----	Atr
+7	sektorem	NNIS7-----A----	Atr
+8	,	Z:-------------	AuxX
+9	mezi	RR--7----------	AuxP
+10	průmyslem	NNIS7-----A----	Atr
+11	a	J^-------------	Coord
+12	službami	NNFP7-----A----	Atr
+13	,	Z:-------------	Coord
+14	mezi	RR--7----------	AuxP
+15	hlavním	AANS7----1A----	Atr
+16	městem	NNNS7-----A----	Atr
+17	a	J^-------------	Coord
+18	venkovem	NNIS7-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9413-012-p17s4
+1	Přesto	Dg-------1A----	Adv
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	je	VB-S---3P-AA---	Adv
+5	vláda	NNFS1-----A----	Sb
+6	ještě	Db-------------	Adv
+7	stále	Dg-------1A----	Adv
+8	populární	AAFS1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	dobře	Dg-------1A----	Adv
+11	ví	VB-S---3P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	nastanou	VB-P---3P-AA---	Obj
+15	složitější	AAIP1----2A----	Atr
+16	časy	NNIP1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+cmpr9413-012-p17s5
+1	Zatím	Db-------------	Adv
+2	neskončila	VpQW---XR-NA---	Pred
+3	restrukturalizace	NNFS1-----A----	Sb
+4	českých	AAIP2----1A----	Atr
+5	podniků	NNIP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9413-012-p17s6
+1	Loňský	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	Sb
+3	o	RR--6----------	AuxP
+4	bankrotech	NNIP6-----A----	Atr
+5	přivedl	VpYS---XR-AA---	Obj
+6	k	RR--3----------	AuxP
+7	úpadku	NNIS3-----A----	Adv
+8	pouze	Db-------------	AuxZ
+9	tři	ClXP4----------	Atr
+10	desítky	NNFP4-----A----	Obj
+11	podniků	NNIP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	zatímco	J,-------------	AuxC
+14	v	RR--6----------	AuxP
+15	platební	AAFS6----1A----	Atr
+16	neschopnosti	NNFS6-----A----	Adv
+17	jsou	VB-P---3P-AA---	Adv
+18	jich	PPXP2--3-------	Atr
+19	tisíce	NNIP1-----A----	Sb
+20	,	Z:-------------	AuxX
+21	upozorňuje	VB-S---3P-AA---	Pred
+22	francouzský	AAIS1----1A----	Atr
+23	týdeník	NNIS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+cmpr9413-012-p17s7
+1	Hlavní	AAFS7----1A----	Atr
+2	brzdou	NNFS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	zde	Db-------------	Adv
+5	stát	NNIS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	se	P7-X4----------	AuxT
+9	obává	VB-S---3P-AA---	Atr
+10	dominového	AAIS2----1A----	Atr
+11	efektu	NNIS2-----A----	Obj
+12	a	J^-------------	Coord
+13	potíží	NNFP2-----A----	Obj
+14	,	Z:-------------	AuxX
+15	které	P4FP1----------	Sb
+16	by	Vc-------------	AuxV
+17	přitom	Db-------------	Adv
+18	vznikly	VpTP---XR-AA--1	Atr
+19	bankám	NNFP3-----A----	Adv
+20	,	Z:-------------	AuxX
+21	kde	Db-------------	Adv
+22	v	RR--6----------	AuxP
+23	nejdůležitějších	AAFP6----3A----	Adv
+24	z	RR--2----------	AuxP
+25	nich	P5XP2--3-------	Adv
+26	je	VB-S---3P-AA---	Atr
+27	stát	NNIS1-----A----	Sb
+28	stále	Dg-------1A----	Adv
+29	hlavním	AAMS7----1A----	Atr
+30	akcionářem	NNMS7-----A----	Pnom
+31	.	Z:-------------	AuxK
+
+cmpr9413-012-p18s1
+1	Podstatně	Dg-------1A----	Adv
+2	větší	AAIP1----2A----	Atr
+3	problémy	NNIP1-----A----	Sb
+4	očekávají	VB-P---3P-AA---	Pred
+5	letos	Db-------------	Adv
+6	Slovensko	NNNS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	má	VB-S---3P-AA---	Atr
+10	nezaměstnanost	NNFS1-----A----	Sb
+11	přesáhnout	Vf--------A----	Obj
+12	20	C=-------------	Obj
+13	%	Z:-------------	Atr
+14	a	J^-------------	Coord
+15	pokles	NNIS1-----A----	Sb
+16	HDP	NNIXX-----A---8	Atr
+17	činit	Vf--------A----	Obj
+18	2	C=-------------	Obj
+19	až	J^-------------	Coord
+20	5	C=-------------	Obj
+21	procentních	AAIP2----1A----	Atr
+22	bodů	NNIP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9413-012-p18s2
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	ČR	NNFXX-----A---8	Adv
+5	zde	Db-------------	Adv
+6	stále	Dg-------1A----	Adv
+7	vládne	VB-S---3P-AA---	Pred
+8	politická	AAFS1----1A----	Atr
+9	nestabilita	NNFS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+cmpr9413-012-p18s3
+1	Jako	J,-------------	AuxY
+2	možná	AAFS1----1A----	Obj
+3	se	P7-X4----------	AuxT
+4	jeví	VB-S---3P-AA---	Pred
+5	koalice	NNFS1-----A----	Sb
+6	mezi	RR--7----------	AuxP
+7	křesťanskými	AAMP7----1A----	Atr
+8	demokraty	NNMP7-----A----	Atr
+9	a	J^-------------	Coord
+10	bývalou	AAFS7----1A----	Atr
+11	komunistickou	AAFS7----1A----	Atr
+12	stranou	NNFS7-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9413-012-p18s4
+1	Obě	ClHP1----------	Atr
+2	strany	NNFP1-----A----	Sb
+3	chtějí	VB-P---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	případě	NNIS6-----A----	Adv
+6	předčasných	AAFP2----1A----	Atr
+7	voleb	NNFP2-----A----	Atr
+8	vystoupit	Vf--------A----	Obj
+9	se	RV--7----------	AuxP
+10	společným	AAIS7----1A----	Atr
+11	ekonomickým	AAIS7----1A----	Atr
+12	programem	NNIS7-----A----	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9413-012-p19s1
+1	Kdo	PKM-1----------	Sb
+2	vydělal	VpYS---XR-AA---	Pred
+3	?	Z:-------------	AuxK
+
+cmpr9413-012-p20s1
+1	Z	RR--2----------	AuxP
+2	krátkodobého	AANS2----1A----	Atr
+3	hlediska	NNNS2-----A----	Adv
+4	na	RR--6----------	AuxP
+5	rozdělení	NNNS6-----A----	Adv
+6	ČSFR	NNFXX-----A---8	Atr
+7	vydělala	VpQW---XR-AA---	Pred
+8	ČR	NNFXX-----A---8	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9413-012-p20s2
+1	Podle	RR--2----------	AuxP
+2	francouzských	AAMP2----1A----	Atr
+3	expertů	NNMP2-----A----	Adv
+4	však	J^-------------	AuxY
+5	střednědobý	AAIS1----1A----	Atr
+6	výhled	NNIS1-----A----	Sb
+7	není	VB-S---3P-NA---	Pred
+8	výhodný	AAIS1----1A----	Pnom
+9	ani	J^-------------	AuxZ
+10	pro	RR--4----------	AuxP
+11	jednu	ClFS4----------	Atr
+12	republiku	NNFS4-----A----	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9413-012-p20s3
+1	Žádná	PWFS1----------	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	nemůže	VB-S---3P-NA---	Pred
+5	samostatně	Dg-------1A----	Adv
+6	dosáhnout	Vf--------A----	Obj
+7	takové	PDFS2----------	Atr
+8	politické	AAFS2----1A----	Atr
+9	a	J^-------------	Coord
+10	ekonomické	AAFS2----1A----	Atr
+11	váhy	NNFS2-----A----	Obj
+12	jakou	P4FS4----------	Obj
+13	mělo	VpNS---XR-AA---	Atr
+14	v	RR--6----------	AuxP
+15	minulosti	NNFS6-----A----	Adv
+16	Československo	NNNS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+cmpr9413-012-p20s4
+1	Rozdělení	NNNS1-----A----	Sb
+2	společného	AAIS2----1A----	Atr
+3	státu	NNIS2-----A----	Atr
+4	přitom	Db-------------	Adv
+5	znamenalo	VpNS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	se	P7-X4----------	AuxT
+9	z	RR--2----------	AuxP
+10	necelé	AAFS2----1N----	Atr
+11	čtyřprocentní	AAFS2----1A----	Atr
+12	maďarské	AAFS2----1A----	Atr
+13	menšiny	NNFS2-----A----	Obj
+14	v	RR--6----------	AuxP
+15	ČSFR	NNFXX-----A---8	Atr
+16	stala	VpQW---XR-AA---	Obj
+17	skoro	Db-------------	Adv
+18	dvanáctiprocentní	AAFS7----1A----	Atr
+19	menšinou	NNFS7-----A----	Obj
+20	na	RR--6----------	AuxP
+21	Slovensku	NNNS6-----A----	AtrAdv
+22	.	Z:-------------	AuxK
+
+cmpr9413-012-p20s5
+1	O	RR--6----------	AuxP
+2	německé	AAFS6----1A----	Atr
+3	všudypřítomnosti	NNFS6-----A----	Obj
+4	v	RR--6----------	AuxP
+5	ČR	NNFXX-----A---8	Atr
+6	již	Db-------------	AuxZ
+7	někteří	PZMP1----------	Sb
+8	hovoří	VB-S---3P-AA---	Pred
+9	jako	J,-------------	AuxY
+10	o	RR--6----------	AuxP
+11	"	Z:-------------	AuxG
+12	satelizaci	NNFS6-----A----	Atv
+13	"	Z:-------------	AuxG
+14	.	Z:-------------	AuxK
+
+cmpr9413-012-p20s6
+1	Přesto	Dg-------1A----	Adv
+2	Praha	NNFS1-----A----	Sb
+3	i	J^-------------	Coord
+4	Bratislava	NNFS1-----A----	Sb
+5	shodně	Dg-------1A----	Adv
+6	prohlašují	VB-P---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	rozchod	NNIS1-----A----	Sb
+10	je	VB-S---3P-AA---	Obj
+11	nezvratný	AAIS1----1N----	Pnom
+12	.	Z:-------------	AuxK
+
+cmpr9413-012-p20s7
+1	Hovoří	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	však	J^-------------	AuxY
+4	o	RR--6----------	AuxP
+5	privilegovaných	AAIP6----1A----	Atr
+6	partnerských	AAIP6----1A----	Atr
+7	vztazích	NNIP6-----A----	Obj
+8	.	Z:-------------	AuxK
+
+cmpr9413-012-p20s8
+1	Na	RR--6----------	AuxP
+2	Slovensku	NNNS6-----A----	Adv
+3	přitom	Db-------------	Adv
+4	mohou	VB-P---3P-AA--1	Pred
+5	snít	Vf--------A----	Obj
+6	o	RR--6----------	AuxP
+7	určitém	AANS6----1A----	Atr
+8	obnovení	NNNS6-----A----	Obj
+9	spolužití	NNNS2-----A----	Atr
+10	během	RR--2----------	AuxP
+11	příštího	AANS2----1A----	Atr
+12	desetiletí	NNNS2-----A----	AtrAdv
+13	-	Z:-------------	AuxG
+14	vždyť	J^-------------	Coord
+15	obě	ClHP1----------	Atr
+16	země	NNFP1-----A----	Sb
+17	se	P7-X4----------	Obj
+18	jednou	ClFS7----------	Adv
+19	bezpochyby	Db-------------	Adv
+20	začlení	VB-P---3P-AA---	Pred
+21	do	RR--2----------	AuxP
+22	sjednocené	AAFS2----1A----	Atr
+23	Evropy	NNFS2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+cmpr9413-012-p21s1A
+1	text	NNIS1-----A----	ExD
+2	k	RR--3----------	AuxP
+3	foto	NNNXX-----A----	Atr
+4	:	Z:-------------	AuxK
+
+cmpr9413-012-p21s1B
+1	S	RR--7----------	AuxP
+2	ROZVODEM	NNIS7-----A----	Adv
+3	JE	VB-S---3P-AA---	Pred
+4	TO	PDNS1----------	Sb
+5	JAKO	J,-------------	AuxC
+6	SE	RV--7----------	AuxP
+7	SPRCHOU	NNFS7-----A----	ExD
+8	:	Z:-------------	Apos
+9	Jednoho	ClMS4----------	Obj
+10	osvěží	VB-S---3P-AA---	Pred
+11	,	Z:-------------	Coord
+12	pro	RR--4----------	AuxP
+13	druhého	CrMS4----------	Adv
+14	je	VB-S---3P-AA---	Pred
+15	studeným	AAIS7----1A----	Atr
+16	šokem	NNIS7-----A----	Pnom
+17	.	Z:-------------	AuxK
+

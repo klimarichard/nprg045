@@ -1,0 +1,267 @@
+mf930713-098-p1s1
+1	Podezřelí	AAMP1----1A----	Sb
+2	z	RR--2----------	AuxP
+3	vraždy	NNFS2-----A----	Atr
+4	pražské	AAFS2----1A----	Atr
+5	podnikatelky	NNFS2-----A----	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	zatčeni	VsMP---XX-AP---	Pnom
+
+mf930713-098-p2s1
+1	Objednaná	AAFS1----1A----	Atr
+2	smrt	NNFS1-----A----	Sb
+3	přišla	VpQW---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	šest	Cn-S4----------	Adv
+6	set	NNNP2-----A----	Atr
+7	tisíc	NNIS4-----A----	Atr
+8	korun	NNFP2-----A----	Atr
+
+mf930713-098-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ina	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-098-p3s1B
+1	V	RR--6----------	AuxP
+2	souvislosti	NNFS6-----A----	AuxP
+3	se	RV--7----------	AuxP
+4	zastřelením	NNNS7-----A----	Adv
+5	pražské	AAFS2----1A----	Atr
+6	podnikatelky	NNFS2-----A----	Atr
+7	a	J^-------------	Coord
+8	těžkým	AANS7----1A----	Atr
+9	poraněním	NNNS7-----A----	Adv
+10	jejího	PSZS2FS3-------	Atr
+11	manžela	NNMS2-----A----	Atr
+12	v	RR--4----------	AuxP
+13	pátek	NNIS4-----A----	Adv
+14	dopoledne	Db-------------	Adv
+15	v	RR--6----------	AuxP
+16	Praze	NNFS6-----A----	Adv
+17	8	C=-------------	Atr
+18	zatkla	VpQW---XR-AA--1	Pred
+19	policie	NNFS1-----A----	Sb
+20	během	RR--2----------	AuxP
+21	víkendu	NNIS2-----A----	Adv
+22	celkem	Db-------------	AuxZ
+23	čtyři	ClXP4----------	Atr
+24	osoby	NNFP4-----A----	Adv
+25	.	Z:-------------	AuxK
+
+mf930713-098-p3s2
+1	Osmačtyřicetiletou	AAFS4----1A----	Atr
+2	Irenu	NNFS4-----A----	Obj
+3	V	NNFXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	zastřelil	VpYS---XR-AA---	Pred
+6	do	RR--2----------	AuxP
+7	hlavy	NNFS2-----A----	Adv
+8	za	RR--2----------	AuxP
+9	bílého	AAIS2----1A----	Atr
+10	dne	NNIS2-----A----	Adv
+11	na	RR--6----------	AuxP
+12	ulici	NNFS6-----A----	Adv
+13	Petra	NNMS2-----A----	Atr
+14	Slezáka	NNMS2-----A----	Atr
+15	najatý	AAMS1----1A----	Atr
+16	zabiják	NNMS1-----A----	Atr
+17	Lukáš	NNMS1-----A----	Sb
+18	V	NNMXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+
+mf930713-098-p3s3
+1	Dvaadvacetiletý	AAMS1----1A----	Atr
+2	vrah	NNMS1-----A----	Sb
+3	však	J^-------------	Coord
+4	svůj	P8IS4----------	Atr
+5	úkol	NNIS4-----A----	Obj
+6	zcela	Db-------------	Adv
+7	nesplnil	VpYS---XR-NA---	Pred
+8	,	Z:-------------	AuxX
+9	ačkoli	J,------------1	AuxC
+10	tipoval	VpYS---XR-AA---	Adv
+11	vhodné	AANS4----1A----	Atr
+12	místo	NNNS4-----A----	Obj
+13	i	J^-------------	Coord
+14	čas	NNIS4-----A----	Obj
+15	několik	Ca--4----------	Adv
+16	dní	NNIP2-----A---1	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-098-p3s4
+1	Manžela	NNMS4-----A----	Obj
+2	podnikatelky	NNFS2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	mu	PHZS3--3-------	Obj
+5	totiž	Db-------------	Adv
+6	výstřelem	NNIS7-----A----	Adv
+7	do	RR--2----------	AuxP
+8	hlavy	NNFS2-----A----	Atr
+9	z	RR--2----------	AuxP
+10	pistole	NNFS2-----A----	Atr
+11	ráže	NNFS2-----A----	Atr
+12	7.65	C=-------------	Atr
+13	mm	NNIXX-----A---8	Atr
+14	podařilo	VpNS---XR-AA---	Pred
+15	"	Z:-------------	AuxG
+16	pouze	Db-------------	AuxZ
+17	"	Z:-------------	AuxG
+18	těžce	Dg-------1A----	Adv
+19	zranit	Vf--------A----	Sb
+20	.	Z:-------------	AuxK
+
+mf930713-098-p4s1A
+1	K	RR--3----------	AuxP
+2	objednání	NNNS3-----A----	Obj
+3	fyzické	AAFS2----1A----	Atr
+4	likvidace	NNFS2-----A----	Atr
+5	obou	ClXP2----------	Atr
+6	manželů	NNMP2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	přiznal	VpYS---XR-AA---	Pred
+9	třicetičtyřletý	AAMS1----1A----	Atr
+10	podnikatel	NNMS1-----A----	Atr
+11	ing	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	Rudolf	NNMS1-----A----	Sb
+14	K	NNMXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+
+mf930713-098-p4s1B
+1	Za	RR--4----------	AuxP
+2	jejich	PSXXXXP3-------	Atr
+3	vraždu	NNFS4-----A----	Obj
+4	měl	VpYS---XR-AA---	Pred
+5	zaplatit	Vf--------A----	Obj
+6	šest	Cn-S4----------	Obj
+7	set	NNNP2-----A----	Atr
+8	tisíc	NNIS4-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-098-p4s2
+1	Důvodem	NNIS7-----A----	Pnom
+2	k	RR--3----------	AuxP
+3	vraždě	NNFS3-----A----	Atr
+4	byly	VpTP---XR-AA---	Pred
+5	finanční	AAFP1----1A----	Atr
+6	neshody	NNFP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	podle	RR--2----------	AuxP
+10	našich	PSXP2-P1-------	Atr
+11	informací	NNFP2-----A----	Adv
+12	dosahovaly	VpTP---XR-AA---	Atr
+13	sumy	NNFS2-----A----	Obj
+14	10	C=-------------	Atr
+15	milionů	NNIP2-----A----	Atr
+16	korun	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-098-p4s3
+1	Zprostředkovatelem	NNMS7-----A----	Pnom
+2	vraždy	NNFS2-----A----	Atr
+3	byl	VpYS---XR-AA---	Pred
+4	dvacetiletý	AAMS1----1A----	Atr
+5	mladík	NNMS1-----A----	Atr
+6	Josef	NNMS1-----A----	Sb
+7	S	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	,	Z:-------------	AuxX
+10	kterého	P4MS4----------	Obj
+11	policie	NNFS1-----A----	Sb
+12	rovněž	Db-------------	Adv
+13	zatkla	VpQW---XR-AA--1	Atr
+14	.	Z:-------------	AuxK
+
+mf930713-098-p5s1
+1	Lukáše	NNMS4-----A----	Obj
+2	V	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	obvinil	VpYS---XR-AA---	Pred
+5	vyšetřovatel	NNMS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	vraždy	NNFS2-----A----	Obj
+8	,	Z:-------------	Coord
+9	další	AAFP1----1A----	Atr
+10	zatčené	AAFP1----1A----	Atr
+11	osoby	NNFP1-----A----	Sb
+12	se	P7-X4----------	AuxT
+13	budou	VB-P---3F-AA---	AuxV
+14	zodpovídat	Vf--------A----	Pred
+15	z	RR--2----------	AuxP
+16	napomáhání	NNNS2-----A----	Obj
+17	nebo	J^-------------	Coord
+18	přípravy	NNFS2-----A----	Obj
+19	k	RR--3----------	AuxP
+20	trestnému	AAIS3----1A----	Atr
+21	činu	NNIS3-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf930713-098-p5s2
+1	Na	RR--4----------	AuxP
+2	všechny	PLYP4----------	Adv
+3	podal	VpYS---XR-AA---	Pred
+4	vyšetřovatel	NNMS1-----A----	Sb
+5	návrh	NNIS4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	uvalení	NNNS4-----A----	Atr
+8	vazby	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf930713-098-p5s3
+1	Jednoho	ClMS4----------	Obj
+2	ze	RV--2----------	AuxP
+3	zatčených	AAMP2----1A----	Atr
+4	mužů	NNMP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	byl	VpYS---XR-AA---	Atr
+8	důvodně	Dg-------1A----	Adv
+9	podezřelý	AAMS1----1A----	Pnom
+10	z	RR--2----------	AuxP
+11	přípravy	NNFS2-----A----	Obj
+12	vraždy	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	však	J^-------------	AuxY
+15	soudce	NNMS1-----A----	Sb
+16	propustil	VpYS---XR-AA---	Pred
+17	na	RR--4----------	AuxP
+18	svobodu	NNFS4-----A----	Adv
+19	.	Z:-------------	AuxK
+
+mf930713-098-p6s1
+1	Podle	RR--2----------	AuxP
+2	vyšetřovatelů	NNMP2-----A----	Adv
+3	nelze	VB-S---3P-NA---	Pred
+4	vyloučit	Vf--------A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	budou	VB-P---3F-AA---	AuxV
+8	zatčeny	VsTP---XX-AP---	Obj
+9	další	AAFP1----1A----	Atr
+10	osoby	NNFP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	které	P4FP1----------	Sb
+13	byly	VpTP---XR-AA---	AuxV
+14	do	RR--2----------	AuxP
+15	vraždy	NNFS2-----A----	Adv
+16	podnikatelky	NNFS2-----A----	Atr
+17	zapleteny	VsTP---XX-AP---	Atr
+18	.	Z:-------------	AuxK
+
+mf930713-098-p7s1
+1	Na	RR--6----------	AuxP
+2	objasnění	NNNS6-----A----	Obj
+3	případu	NNIS2-----A----	Atr
+4	pracovalo	VpNS---XR-AA---	Pred
+5	od	RR--2----------	AuxP
+6	pátku	NNIS2-----A----	Adv
+7	nepřetržitě	Dg-------1A----	Adv
+8	třicet	Cn-S1----------	Sb
+9	policistů	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+

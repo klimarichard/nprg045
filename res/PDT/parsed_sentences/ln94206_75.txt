@@ -1,0 +1,110 @@
+ln94206-75-p1s1
+1	Rozporné	AAFP1----1A----	Atr
+2	zprávy	NNFP1-----A----	ExD
+3	o	RR--6----------	AuxP
+4	havárii	NNFS6-----A----	Atr
+5	na	RR--6----------	AuxP
+6	Urale	NNIS6-----A----	Atr
+
+ln94206-75-p2s1A
+1	Moskva	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-75-p2s1B
+1	Při	RR--6----------	AuxP
+2	požáru	NNIS6-----A----	Adv
+3	v	RR--6----------	AuxP
+4	kombinátu	NNIS6-----A---1	Atr
+5	Majak	NNIS1-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Čeljabinské	AAFS6----1A----	Atr
+8	oblasti	NNFS6-----A----	Atr
+9	(	Z:-------------	ExD
+10	Ural	NNIS1-----A----	ExD
+11	)	Z:-------------	ExD
+12	došlo	VpNS---XR-AA---	Pred
+13	k	RR--3----------	AuxP
+14	významnému	AAIS3----1A----	Atr
+15	úniku	NNIS3-----A----	Obj
+16	radioaktivních	AAFP2----1A----	Atr
+17	látek	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94206-75-p2s2
+1	Odborníci	NNMP1-----A----	Sb
+2	hodnotí	VB-P---3P-AA---	Pred
+3	středeční	AAFS4----1A----	Atr
+4	havárii	NNFS4-----A----	Obj
+5	jako	J,-------------	AuxY
+6	vážnou	AAFS4----1A----	Atv
+7	.	Z:-------------	AuxK
+
+ln94206-75-p2s3
+1	Uvedla	VpQW---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	agentura	NNFS1-----A----	Sb
+5	Interfax	NNIS1-----A----	Atr
+6	s	RR--7----------	AuxP
+7	odvoláním	NNNS7-----A----	Adv
+8	na	RR--4----------	AuxP
+9	neoficiální	AAIP4----1N----	Atr
+10	kompetentní	AAIP4----1A----	Atr
+11	zdroje	NNIP4-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94206-75-p2s4
+1	Představitelé	NNMP1-----A----	Sb
+2	ruského	AANS2----1A----	Atr
+3	ministerstva	NNNS2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	atomovou	AAFS4----1A----	Atr
+6	energetiku	NNFS4-----A----	Atr
+7	toto	PDNS4----------	Atr
+8	sdělení	NNNS4-----A----	Obj
+9	rozhodně	Dg-------1A----	Adv
+10	popřeli	VpMP---XR-AA---	Pred
+11	a	J^-------------	Coord
+12	potvrdili	VpMP---XR-AA---	Pred
+13	své	P8YP4---------1	Atr
+14	středeční	AAIP4----1A----	Atr
+15	údaje	NNIP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94206-75-p2s5
+1	Při	RR--6----------	AuxP
+2	incidentu	NNIS6-----A----	Adv
+3	uniklo	VpNS---XR-AA--1	Obj
+4	do	RR--2----------	AuxP
+5	ovzduší	NNNS2-----A----	Adv
+6	jen	TT-------------	AuxZ
+7	nepatrné	AANS1----1N----	Atr
+8	množství	NNNS1-----A----	Sb
+9	radioaktivních	AAIP2----1A----	Atr
+10	aerosolů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4NS1----------	Sb
+13	neohrozilo	VpNS---XR-NA---	Atr
+14	lidi	NNMP4-----A----	Obj
+15	ani	J^-------------	Coord
+16	životní	AANS4----1A----	Atr
+17	prostředí	NNNS4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	řekl	VpYS---XR-AA---	Pred
+20	mluvčí	NNMS1-----A----	Atr
+21	ministerstva	NNNS2-----A----	Atr
+22	pro	RR--4----------	AuxP
+23	atomovou	AAFS4----1A----	Atr
+24	energetiku	NNFS4-----A----	Atr
+25	G	NNMXX-----A---8	Atr
+26	.	Z:-------------	AuxG
+27	Kaurov	NNMS1-----A----	Sb
+28	.	Z:-------------	AuxK
+
+ln94206-75-p2s6
+1	Příčiny	NNFP1-----A----	Sb
+2	havárie	NNFS2-----A----	Atr
+3	se	P7-X4----------	AuxR
+4	vyšetřují	VB-P---3P-AA---	Pred
+5	.	Z:-------------	AuxK
+

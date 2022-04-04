@@ -1,0 +1,209 @@
+ln94203-51-p1s1
+1	Policie	NNFS1-----A----	Sb
+2	nebývá	VB-S---3P-NA---	AuxV
+3	informována	VsQW---XX-AP---	Pred
+
+ln94203-51-p2s1A
+1	Olomouc	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pet	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94203-51-p2s1B
+1	Policii	NNFS3-----A----	Obj
+2	často	Dg-------1A----	Adv
+3	chybí	VB-S---3P-AA---	Obj
+4	základní	AAFP1----1A----	Atr
+5	informace	NNFP1-----A----	Sb
+6	o	RR--6----------	AuxP
+7	akcích	NNFP6-----A----	Atr
+8	pořádaných	AAFP6----1A----	Atr
+9	na	RR--6----------	AuxP
+10	území	NNNS6-----A----	Adv
+11	její	PSFSXFS3-------	Atr
+12	působnosti	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	řekl	VpYS---XR-AA---	Pred
+15	včera	Db-------------	Adv
+16	zpravodaji	NNMS3-----A----	Obj
+17	Lidových	AAFP2----1A----	Atr
+18	novin	NNFP2-----A----	Atr
+19	okresní	AAMS1----1A----	Atr
+20	ředitel	NNMS1-----A----	Atr
+21	republikové	AAFS2----1A----	Atr
+22	policie	NNFS2-----A----	Atr
+23	v	RR--6----------	AuxP
+24	Olomouci	NNFS6-----A----	Atr
+25	mjr	NNMXX-----A---8	Atr
+26	.	Z:-------------	AuxG
+27	Jaroslav	NNMS1-----A----	Atr
+28	Skříčil	NNMS1-----A----	Sb
+29	.	Z:-------------	AuxK
+
+ln94203-51-p2s3
+1	Podle	RR--2----------	AuxP
+2	Skříčila	NNMS2-----A----	Adv
+3	nejsou	VB-P---3P-NA---	AuxV
+4	policisté	NNMP1-----A----	Sb
+5	včas	Db-------------	Adv
+6	informováni	VsMP---XX-AP---	Pred
+7	o	RR--6----------	AuxP
+8	návštěvách	NNFP6-----A----	Obj
+9	význačných	AAMP2----1A----	Atr
+10	hostů	NNMP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	o	RR--6----------	AuxP
+13	společenských	AAFP6----1A----	Atr
+14	a	J^-------------	Coord
+15	jiných	AAFP6----1A----	Atr
+16	akcích	NNFP6-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln94203-51-p2s4
+1	Lidé	NNMP1-----A---1	Sb
+2	si	P7-X3----------	AuxT
+3	potom	Db-------------	Adv
+4	stěžují	VB-P---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	policie	NNFS1-----A----	Sb
+8	nebyla	VpQW---XR-NA---	Obj
+9	na	RR--6----------	AuxP
+10	místě	NNNS6-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94203-51-p2s5
+1	Jak	Db-------------	Adv
+2	tam	Db-------------	Adv
+3	ale	J^-------------	Coord
+4	měla	VpQW---XR-AA---	Obj
+5	být	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	když	J,-------------	AuxC
+8	o	RR--6----------	AuxP
+9	ničem	PW--6----------	Obj
+10	nevěděla	VpQW---XR-NA---	Adv
+11	?	Z:-------------	AuxK
+12	pokračoval	VpYS---XR-AA---	Pred
+13	ředitel	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94203-51-p2s7
+1	O	RR--6----------	AuxP
+2	každé	AAFS6----1A----	Atr
+3	akci	NNFS6-----A----	Obj
+4	by	Vc-------------	AuxV
+5	podle	RR--2----------	AuxP
+6	jeho	PSXXXZS3-------	Atr
+7	slov	NNNP2-----A----	Adv
+8	měli	VpMP---XR-AA---	Pred
+9	organizátoři	NNMP1-----A----	Sb
+10	policii	NNFS4-----A----	Obj
+11	s	RR--7----------	AuxP
+12	dostatečným	AAIS7----1A----	Atr
+13	předstihem	NNIS7-----A----	Adv
+14	informovat	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94203-51-p2s8
+1	Většinou	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	tak	Db-------------	Adv
+4	neděje	VB-S---3P-NA---	Pred
+5	vůbec	Db-------------	Adv
+6	nebo	J^-------------	Coord
+7	až	TT-------------	AuxZ
+8	příliš	Db-------------	Adv
+9	pozdě	Dg-------1A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94203-51-p2s9
+1	Nejsme	VB-P---1P-NA---	Pred
+2	například	Db-------------	AuxY
+3	schopni	ACMP------A----	Pnom
+4	zabezpečit	Vf--------A----	Obj
+5	klid	NNIS4-----A----	Obj
+6	pár	NNIS4-----A----	Adv
+7	hodin	NNFP2-----A----	Atr
+8	před	RR--7----------	AuxP
+9	příjezdem	NNIS7-----A----	Atr
+10	vládní	AAFS2----1A----	Atr
+11	delegace	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94203-51-p2s10
+1	J	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Skříčil	NNMS1-----A----	Sb
+4	komentoval	VpYS---XR-AA---	Pred
+5	dále	Db------------1	Adv
+6	personální	AAFS4----1A----	Atr
+7	situaci	NNFS4-----A----	Obj
+8	v	RR--6----------	AuxP
+9	policii	NNFS6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-51-p2s11
+1	K	RR--3----------	AuxP
+2	neuspokojivému	AAIS3----1N----	Atr
+3	počtu	NNIS3-----A----	Obj
+4	policistů	NNMP2-----A----	Atr
+5	na	RR--6----------	AuxP
+6	Olomoucku	NNNS6-----A----	Atr
+7	přispívá	VB-S---3P-AA---	Pred
+8	částečně	Dg-------1A----	Adv
+9	i	J^-------------	AuxZ
+10	nedostatek	NNIS1-----A----	Sb
+11	bytů	NNIP2-----A----	Atr
+12	ve	RV--6----------	AuxP
+13	městě	NNNS6-----A----	Atr
+14	a	J^-------------	Coord
+15	okolí	NNNS6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94203-51-p2s12
+1	Mjr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Jaroslav	NNMS1-----A----	Atr
+4	Skříčil	NNMS1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	domnívá	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	nejméně	Dg-------3A----	AuxZ
+10	30	C=-------------	Sb
+11	policistů	NNMP2-----A----	Atr
+12	z	RR--2----------	AuxP
+13	Olomouce	NNFS2-----A----	Atr
+14	nemá	VB-S---3P-NA---	Obj
+15	dořešenu	VsFS4--XX-AP---	Atv
+16	bytovou	AAFS4----1A----	Atr
+17	otázku	NNFS4-----A----	Obj
+18	,	Z:-------------	Coord
+19	při	RR--6----------	AuxP
+20	náborech	NNIP6-----A----	Adv
+21	do	RR--2----------	AuxP
+22	policejních	AAFP2----1A----	Atr
+23	řad	NNFP2-----A----	Atr
+24	se	P7-X4----------	AuxR
+25	samozřejmě	Dg-------1A----	AuxY
+26	byt	NNIS1-----A----	Sb
+27	nabídnout	Vf--------A----	Obj
+28	nemůže	VB-S---3P-NA---	Obj
+29	.	Z:-------------	AuxK
+
+ln94203-51-p2s14
+1	Policejní	AAMS1----1A----	Atr
+2	ředitel	NNMS1-----A----	Sb
+3	přiznal	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	ani	J^-------------	AuxZ
+7	jeho	PSXXXZS3-------	Atr
+8	bydlení	NNNS1-----A----	Sb
+9	není	VB-S---3P-NA---	Obj
+10	nijak	Db-------------	Adv
+11	uspokojivé	AANS1----1A----	Pnom
+12	.	Z:-------------	AuxK
+

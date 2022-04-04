@@ -1,0 +1,126 @@
+lnd94103-048-p1s1
+1	Česko	A2--------A----	Atr
+2	-	Z:-------------	Coord
+3	slovenská	AAFS1----1A----	Atr
+4	vojenská	AAFS1----1A----	Atr
+5	dohoda	NNFS1-----A----	ExD
+
+lnd94103-048-p1s2
+1	Bratislava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94103-048-p1s3
+1	Dohodu	NNFS4-----A----	Obj
+2	o	RR--6----------	AuxP
+3	vojenské	AAFS6----1A----	Atr
+4	spolupráci	NNFS6-----A----	Atr
+5	podepsali	VpMP---XR-AA---	Pred
+6	včera	Db-------------	Adv
+7	ministři	NNMP1-----A----	Atr
+8	obrany	NNFS2-----A----	Atr
+9	ČR	NNFXX-----A---8	Atr
+10	a	J^-------------	Coord
+11	Slovenska	NNNS2-----A----	Atr
+12	Antonín	NNMS1-----A----	Atr
+13	Baudyš	NNMS1-----A----	Sb
+14	a	J^-------------	Coord
+15	Pavol	NNMS1-----A----	Atr
+16	Kanis	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+lnd94103-048-p1s4
+1	"	Z:-------------	AuxG
+2	Naše	PSHS1-P1-------	Atr
+3	dnešní	AANS1----1A----	Atr
+4	ujednání	NNNS1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	týká	VB-S---3P-AA---	Obj
+7	všech	PLXP2----------	Atr
+8	oblastí	NNFP2-----A----	Obj
+9	,	Z:-------------	AuxX
+10	jež	PJFP1----------	Sb
+11	v	RR--6----------	AuxP
+12	armádě	NNFS6-----A----	Adv
+13	fungují	VB-P---3P-AA---	Atr
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	je	VB-S---3P-AA---	Obj
+17	trochu	Db-------------	Adv
+18	podrobnější	AANS1----2A----	Pnom
+19	,	Z:-------------	AuxX
+20	než	J,-------------	AuxC
+21	máme	VB-P---1P-AA---	Adv
+22	s	RR--7----------	AuxP
+23	jinými	AAMP7----1A----	Atr
+24	sousedy	NNMP7-----A----	Adv
+25	,	Z:-------------	AuxX
+26	"	Z:-------------	AuxG
+27	řekl	VpYS---XR-AA---	Pred
+28	ministr	NNMS1-----A----	Atr
+29	Baudyš	NNMS1-----A----	Sb
+30	na	RR--6----------	AuxP
+31	včerejší	AAFS6----1A----	Atr
+32	tiskové	AAFS6----1A----	Atr
+33	konferenci	NNFS6-----A----	Adv
+34	v	RR--6----------	AuxP
+35	Bratislavě	NNFS6-----A----	AtrAdv
+36	.	Z:-------------	AuxK
+
+lnd94103-048-p1s5
+1	Uvedl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	vztahy	NNIP1-----A----	Sb
+5	obou	ClXP2----------	Atr
+6	států	NNIP2-----A----	Atr
+7	vzhledem	RF-------------	AuxP
+8	k	RR--3----------	AuxP
+9	jejich	PSXXXXP3-------	Atr
+10	historické	AAFS3----1A----	Atr
+11	provázanosti	NNFS3-----A----	Adv
+12	budou	VB-P---3F-AA---	Obj
+13	"	Z:-------------	AuxG
+14	vždy	Db-------------	Adv
+15	významnější	AAIP1----2A----	Pnom
+16	než	J,-------------	AuxC
+17	s	RR--7----------	AuxP
+18	jinými	AAIP7----1A----	Atr
+19	státy	NNIP7-----A----	ExD
+20	"	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+lnd94103-048-p1s6
+1	Slovenský	AAMS1----1A----	Atr
+2	ministr	NNMS1-----A----	Atr
+3	obrany	NNFS2-----A----	Atr
+4	Pavol	NNMS1-----A----	Atr
+5	Kanis	NNMS1-----A----	Sb
+6	vyjádřil	VpYS---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	této	PDFS6----------	Atr
+9	souvislosti	NNFS6-----A----	Adv
+10	přesvědčení	NNNS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	v	RR--6----------	AuxP
+14	armádách	NNFP6-----A----	Adv
+15	obou	ClXP2----------	Atr
+16	zemí	NNFP2-----A----	Atr
+17	není	VB-S---3P-NA---	Atr
+18	mnoho	Ca--1----------	Sb
+19	zastánců	NNMP2-----A----	Atr
+20	toho	PDZS2----------	Atr
+21	,	Z:-------------	AuxX
+22	aby	J,-------------	AuxC
+23	se	P7-X4----------	AuxT
+24	společná	AAFS1----1A----	Atr
+25	česko	A2--------A----	Atr
+26	-	Z:-------------	Coord
+27	slovenská	AAFS1----1A----	Atr
+28	hranice	NNFS1-----A----	Sb
+29	stala	VpQW---XR-AA---	Atr
+30	i	J^-------------	AuxZ
+31	hranicí	NNFS7-----A----	Obj
+32	geopolitickou	AAFS7----1A----	Atr
+33	.	Z:-------------	AuxK
+

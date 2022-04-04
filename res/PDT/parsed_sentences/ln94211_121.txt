@@ -1,0 +1,132 @@
+ln94211-121-p1s1
+1	Spor	NNIS1-----A----	ExD
+2	o	RR--4----------	AuxP
+3	známku	NNFS4-----A----	Atr
+4	Škoda	NNFS1-----A----	Atr
+
+ln94211-121-p2s1A
+1	Plzeň	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94211-121-p2s1B
+1	Spor	NNIS4-----A----	Obj
+2	o	RR--4----------	AuxP
+3	ochrannou	AAFS4----1A----	Atr
+4	známku	NNFS4-----A----	Atr
+5	Škoda	NNFS1-----A----	Atr
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	má	VB-S---3P-AA---	Atr
+9	hodnotu	NNFS4-----A----	Obj
+10	18	C=-------------	Atr
+11	miliard	NNFP2-----A----	Atr
+12	korun	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	mezi	RR--7----------	AuxP
+15	plzeňskou	AAFS7----1A----	Atr
+16	Škodovkou	NNFS7-----A----	Atr
+17	a	J^-------------	Coord
+18	mladoboleslavskou	AAFS7----1A----	Atr
+19	automobilkou	NNFS7-----A----	Atr
+20	by	Vc-------------	AuxV
+21	mělo	VpNS---XR-AA---	Pred
+22	koncem	NNIS7-----A----	AuxP
+23	září	NNNS2-----A----	Adv
+24	řešit	Vf--------A----	Obj
+25	ministerstvo	NNNS1-----A----	Sb
+26	průmyslu	NNIS2-----A----	Atr
+27	a	J^-------------	Coord
+28	obchodu	NNIS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94211-121-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ředitel	NNMS1-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	rozvoj	NNIS4-----A----	Atr
+7	Škody	NNFS2-----A----	Atr
+8	Plzeň	NNFS1-----A----	Atr
+9	Ladislav	NNMS1-----A----	Atr
+10	Těťal	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94211-121-p3s1
+1	Podle	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	automobilka	NNFS1-----A----	Sb
+4	nedodržuje	VB-S---3P-NA---	Pred
+5	smlouvu	NNFS4-----A----	Obj
+6	s	RR--7----------	AuxP
+7	plzeňskou	AAFS7----1A----	Atr
+8	Škodovkou	NNFS7-----A----	Atr
+9	o	RR--6----------	AuxP
+10	používání	NNNS6-----A----	Atr
+11	jejích	PSXP2FS3-------	Atr
+12	ochranných	AAFP2----1A----	Atr
+13	známek	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	když	J,-------------	AuxC
+16	kromě	RR--2----------	AuxP
+17	kmenových	AAFP2----1A----	Atr
+18	známek	NNFP2-----A----	Adv
+19	používá	VB-S---3P-AA---	Adv
+20	jejich	PSXXXXP3-------	Atr
+21	modifikace	NNFP4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94211-121-p4s1
+1	MPO	NNNXX-----A---8	Sb
+2	však	J^-------------	Coord
+3	podle	RR--2----------	AuxP
+4	včerejšího	AANS2----1A----	Atr
+5	vyjádření	NNNS2-----A----	Adv
+6	vrchního	AAMS2----1A----	Atr
+7	ředitele	NNMS2-----A----	Atr
+8	sekce	NNFS2-----A----	Atr
+9	hutnictví	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	strojírenství	NNNS2-----A----	Atr
+12	a	J^-------------	Coord
+13	elektrotechniky	NNFS2-----A----	Atr
+14	Jaroslava	NNMS2-----A----	Atr
+15	Boráka	NNMS2-----A----	Atr
+16	nebude	VB-S---3F-NA---	AuxV
+17	zasahovat	Vf--------A----	Pred
+18	do	RR--2----------	AuxP
+19	sporu	NNIS2-----A----	Adv
+20	mezi	RR--7----------	AuxP
+21	Škodou	NNFS7-----A----	Atr
+22	Plzeň	NNFS1-----A----	Atr
+23	a	J^-------------	Coord
+24	Mladá	AAFS1----1A----	Atr
+25	Boleslav	NNFS1-----A----	Atr
+26	o	RR--4----------	AuxP
+27	ochrannou	AAFS4----1A----	Atr
+28	značku	NNFS4-----A----	Atr
+29	Škoda	NNFS1-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94211-121-p4s2
+1	Ministerstvo	NNNS1-----A----	Sb
+2	podle	RR--2----------	AuxP
+3	něho	P5ZS2--3------1	Adv
+4	zprostředkuje	VB-S---3P-AA---	Pred
+5	pravděpodobně	Dg-------1A----	AuxY
+6	do	RR--2----------	AuxP
+7	konce	NNIS2-----A----	Adv
+8	září	NNNS2-----A----	Atr
+9	jednání	NNNS4-----A----	Obj
+10	obou	ClXP2----------	Atr
+11	podniků	NNIP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	protože	J,-------------	AuxC
+14	má	VB-S---3P-AA---	Adv
+15	zájem	NNIS4-----A----	Obj
+16	na	RR--6----------	AuxP
+17	zdárném	AANS6----1A----	Atr
+18	řešení	NNNS6-----A----	Atr
+19	problému	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+

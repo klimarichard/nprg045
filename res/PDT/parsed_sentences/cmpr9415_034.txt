@@ -1,0 +1,117 @@
+cmpr9415-034-p2s1
+1	štoček	NNIS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	Názor	NNIS1-----A----	ExD
+
+cmpr9415-034-p3s1
+1	Firmy	NNFP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4FP1----------	Sb
+4	u	RR--2----------	AuxP
+5	nás	PP-P2--1-------	Adv
+6	vyrábějí	VB-P---3P-AA---	Atr
+7	stavební	AAFP4----1A----	Atr
+8	hmoty	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	zásadně	Dg-------1A----	Adv
+11	nemají	VB-P---3P-NA---	Pred
+12	vlastní	AAIS4----1A----	Atr
+13	prodej	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9415-034-p3s2
+1	Odbyt	NNIS4-----A----	Obj
+2	realizují	VB-P---3P-AA---	Pred
+3	přes	RR--4----------	AuxP
+4	velkoobchody	NNIP4-----A----	Adv
+5	,	Z:-------------	AuxX
+6	se	RV--7----------	AuxP
+7	kterými	P4XP7----------	Obj
+8	průběžně	Dg-------1A----	Adv
+9	projednávají	VB-P---3P-AA---	Atr
+10	poptávku	NNFS4-----A----	Obj
+11	a	J^-------------	Coord
+12	nové	AAIP4----1A----	Atr
+13	trendy	NNIP4-----A----	Obj
+14	na	RR--6----------	AuxP
+15	trhu	NNIS6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9415-034-p3s3
+1	Výhodou	NNFS7-----A----	Pnom
+2	systému	NNIS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	velkoprodejce	NNMS1-----A----	Sb
+7	může	VB-S---3P-AA---	Sb
+8	maloodběratelům	NNMP3-----A----	Obj
+9	poskytnout	Vf--------A----	Obj
+10	poradenské	AAFP4----1A----	Atr
+11	služby	NNFP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	které	P4FP4----------	Obj
+14	výrobce	NNMS1-----A----	Sb
+15	nemůže	VB-S---3P-NA---	Atr
+16	zabezpečit	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9415-034-p3s4
+1	Nabízí	VB-S---3P-AA---	Pred
+2	rovněž	Db-------------	Adv
+3	široký	AAIS4----1A----	Atr
+4	sortiment	NNIS4-----A----	Obj
+5	stavebnin	NNFP2-----A----	Atr
+6	,	Z:-------------	Coord
+7	což	PE--1----------	Sb
+8	zvyšuje	VB-S---3P-AA---	Pred
+9	zájem	NNIS4-----A----	Obj
+10	odběratelů	NNMP2-----A----	Atr
+11	a	J^-------------	Coord
+12	šanci	NNFS4-----A----	Obj
+13	rychle	Dg-------1A----	Adv
+14	zboží	NNNS4-----A----	Obj
+15	prodat	Vf--------A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9415-034-p3s5
+1	Není	VB-S---3P-NA---	Pred
+2	to	PDNS1----------	Sb
+3	systém	NNIS1-----A----	Pnom
+4	převratný	AAIS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	funkční	AAIS1----1A----	Pnom
+8	a	J^-------------	Coord
+9	perspektivní	AAIS1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	na	RR--4----------	AuxP
+12	rozdíl	NNIS4-----A----	AuxP
+13	od	RR--2----------	AuxP
+14	běžného	AAIS2----1A----	ExD
+15	v	RR--6----------	AuxP
+16	ČR	NNFXX-----A---8	Adv
+17	,	Z:-------------	AuxX
+18	kdy	Db-------------	Adv
+19	se	P7-X4----------	AuxT
+20	každý	AAMS1----1A----	Sb
+21	snaží	VB-S---3P-AA---	ExD
+22	být	Vf--------A----	Obj
+23	vším	PLZS7----------	Pnom
+24	-	Z:-------------	Apos
+25	výrobcem	NNMS7-----A----	Pnom
+26	i	J^-------------	Coord
+27	prodejcem	NNMS7-----A----	Pnom
+28	.	Z:-------------	AuxK
+
+cmpr9415-034-p4s1
+1	Ulrich	NNMS1-----A----	Atr
+2	Neumann	NNMS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	ředitel	NNMS1-----A----	Atr
+5	Saského	AAIS2----1A----	Atr
+6	zemského	AAIS2----1A----	Atr
+7	svazu	NNIS2-----A----	Atr
+8	prodejců	NNMP2-----A----	Atr
+9	stavebnin	NNFP2-----A----	Atr
+

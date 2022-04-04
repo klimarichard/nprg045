@@ -1,0 +1,243 @@
+ln95049-140-p1s1
+1	Program	NNIS1-----A----	ExD
+2	odpovědnosti	NNFS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	chemii	NNFS6-----A----	Atr
+
+ln95049-140-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-140-p2s1B
+1	Zásady	NNFP4-----A----	Obj
+2	mezinárodního	AAIS2----1A----	Atr
+3	programu	NNIS2-----A----	Atr
+4	Odpovědné	AANS1----1A----	Atr
+5	podnikání	NNNS1-----A----	Atr
+6	v	RR--6----------	AuxP
+7	chemii	NNFS6-----A----	Atr
+8	-	Z:-------------	Apos
+9	Responsible	AAXXX----1A----	Atr
+10	Care	NNFXX-----A----	Atr
+11	(	Z:-------------	Apos
+12	RC	NNFXX-----A---8	Atr
+13	)	Z:-------------	AuxG
+14	rozeslal	VpYS---XR-AA---	Pred
+15	Svaz	NNIS1-----A----	Sb
+16	chemického	AAIS2----1A----	Atr
+17	průmyslu	NNIS2-----A----	Atr
+18	jednotlivým	AAFP3----1A----	Atr
+19	společnostem	NNFP3-----A----	Obj
+20	,	Z:-------------	AuxX
+21	které	P4FP1----------	Sb
+22	se	P7-X4----------	AuxT
+23	k	RR--3----------	AuxP
+24	RC	NNFXX-----A---8	Adv
+25	přihlásily	VpTP---XR-AA---	Atr
+26	,	Z:-------------	AuxX
+27	v	RR--6----------	AuxP
+28	prosinci	NNIS6-----A----	Adv
+29	minulého	AAIS2----1A----	Atr
+30	roku	NNIS2-----A---1	Atr
+31	.	Z:-------------	AuxK
+
+ln95049-140-p2s2
+1	Během	RR--2----------	AuxP
+2	letošního	AAIS2----1A----	Atr
+3	března	NNIS2-----A----	Adv
+4	až	J^-------------	Coord
+5	dubna	NNIS2-----A----	Adv
+6	by	Vc-------------	AuxV
+7	měl	VpYS---XR-AA---	Pred
+8	být	Vf--------A----	AuxV
+9	zpracován	VsYS---XX-AP---	Obj
+10	jako	J,-------------	AuxY
+11	svazový	AAIS1----1A----	Atr
+12	program	NNIS1-----A----	AtvV
+13	.	Z:-------------	AuxK
+
+ln95049-140-p3s1
+1	Jak	Db-------------	Adv
+2	sdělil	VpYS---XR-AA---	Pred
+3	spolupracovník	NNMS1-----A----	Atr
+4	svazu	NNIS2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	otázky	NNFP4-----A----	Atr
+7	ochrany	NNFS2-----A----	Atr
+8	prostředí	NNNS2-----A----	Atr
+9	Ivan	NNMS1-----A----	Atr
+10	Zíka	NNMS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	dobrovolný	AAIS4----1A----	Atr
+13	program	NNIS4-----A----	Obj
+14	RC	NNFXX-----A---8	Atr
+15	vyhlásila	VpQW---XR-AA---	Pred
+16	mezinárodní	AAFS1----1A----	Atr
+17	organizace	NNFS1-----A----	Sb
+18	svazů	NNIP2-----A----	Atr
+19	chemie	NNFS2-----A----	Atr
+20	CEFIC	NNFXX-----A---8	Atr
+21	v	RR--6----------	AuxP
+22	roce	NNIS6-----A---1	Adv
+23	1986	C=-------------	Atr
+24	na	RR--6----------	AuxP
+25	základě	NNIS6-----A----	AuxP
+26	zkušeností	NNFP2-----A----	Adv
+27	získaných	AAFP2----1A----	Atr
+28	od	RR--2----------	AuxP
+29	roku	NNIS2-----A---1	Adv
+30	1984	C=-------------	Atr
+31	v	RR--6----------	AuxP
+32	Kanadě	NNFS6-----A----	Adv
+33	.	Z:-------------	AuxK
+
+ln95049-140-p3s2
+1	Program	NNIS1-----A----	Sb
+2	navazuje	VB-S---3P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	standardizaci	NNFS4-----A----	Obj
+5	ISO	NNFXX-----A---8	Atr
+6	9000	C=-------------	Atr
+7	.	Z:-------------	AuxK
+
+ln95049-140-p3s3
+1	Ta	PDFS1----------	Sb
+2	není	VB-S---3P-NA---	Pred
+3	jen	TT-------------	AuxZ
+4	akreditací	NNFS7-----A----	Pnom
+5	výroben	NNFP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	vyžaduje	VB-S---3P-AA---	Pred
+9	zásadně	Dg-------1A----	Adv
+10	změnit	Vf--------A----	Obj
+11	a	J^-------------	Coord
+12	podřídit	Vf--------A----	Obj
+13	kvalitě	NNFS3-----A----	Obj
+14	všechny	PLFP4----------	Atr
+15	činnosti	NNFP4-----A----	Obj
+16	ve	RV--6----------	AuxP
+17	výrobě	NNFS6-----A----	Atr
+18	i	J^-------------	Coord
+19	výzkumu	NNIS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95049-140-p4s1
+1	I	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Zíka	NNMS1-----A----	Sb
+4	poznamenal	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	podnik	NNIS1-----A----	Sb
+8	splňující	AGIS1-----A----	Atr
+9	požadavky	NNIP4-----A----	Obj
+10	programu	NNIS2-----A----	Atr
+11	získá	VB-S---3P-AA---	Obj
+12	právo	NNNS4-----A----	Obj
+13	na	RR--4----------	AuxP
+14	mezinárodní	AAFS4----1A----	Atr
+15	značku	NNFS4-----A----	Atr
+16	Odpovědného	AANS2----1A----	Atr
+17	podnikání	NNNS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	chemii	NNFS6-----A----	Atr
+20	-	Z:-------------	Apos
+21	RC	NNFXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+
+ln95049-140-p4s2
+1	Podle	RR--2----------	AuxP
+2	předpokladů	NNIP2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	ji	PPFS4--3-------	Obj
+5	měl	VpYS---XR-AA---	Pred
+6	udělovat	Vf--------A----	Obj
+7	Svaz	NNIS1-----A----	Sb
+8	chemického	AAIS2----1A----	Atr
+9	průmyslu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95049-140-p5s1
+1	Tento	PDYS1----------	Atr
+2	program	NNIS1-----A----	Sb
+3	klade	VB-S---3P-AA---	Pred
+4	důraz	NNIS4-----A----	Obj
+5	zejména	Db-------------	AuxZ
+6	na	RR--4----------	AuxP
+7	útlum	NNIS4-----A----	Atr
+8	starých	AAFP2----1A----	ExD
+9	a	J^-------------	Coord
+10	rozvoj	NNIS4-----A----	Atr
+11	nových	AAFP2----1A----	Atr
+12	,	Z:-------------	Coord
+13	ekologicky	Dg-------1A----	Adv
+14	dobře	Dg-------1A----	Adv
+15	zabezpečených	AAFP2----1A----	Atr
+16	výrob	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95049-140-p5s2
+1	Rovněž	Db-------------	Adv
+2	bude	VB-S---3F-AA---	Pred
+3	třeba	ACNS------A----	Pnom
+4	diskutovat	Vf--------A----	Sb
+5	o	RR--6----------	AuxP
+6	právních	AAIP6----1A----	Atr
+7	předpisech	NNIP6-----A----	Obj
+8	a	J^-------------	Coord
+9	ekonomických	AAIP6----1A----	Atr
+10	nástrojích	NNIP6-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95049-140-p6s1
+1	Podle	RR--2----------	AuxP
+2	Zíky	NNMS2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	měl	VpYS---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	v	RR--6----------	AuxP
+7	ČR	NNFXX-----A---8	Adv
+8	ustaven	VsYS---XX-AP---	Obj
+9	také	Db-------------	AuxZ
+10	pomocný	AAIS1----1A----	Atr
+11	nehodový	AAIS1----1A----	Atr
+12	dopravní	AAIS1----1A----	Atr
+13	systém	NNIS1-----A----	Sb
+14	chemického	AAIS2----1A----	Atr
+15	průmyslu	NNIS2-----A----	Atr
+16	(	Z:-------------	Apos
+17	TRINS	NNIXX-----A---8	Atr
+18	)	Z:-------------	AuxG
+19	.	Z:-------------	AuxK
+
+ln95049-140-p6s2
+1	Jeho	PSXXXZS3-------	Atr
+2	hlavní	AANS1----1A----	Atr
+3	středisko	NNNS1-----A----	Sb
+4	bude	VB-S---3F-AA---	Pred
+5	v	RR--6----------	AuxP
+6	Chemopetrolu	NNIS6-----A----	Adv
+7	Litvínov	NNIS1-----A----	Atr
+8	s	RR--7----------	AuxP
+9	přímými	AAIP7----1A----	Atr
+10	kontakty	NNIP7-----A----	Adv
+11	na	RR--4----------	AuxP
+12	regionální	AAFP4----1A----	Atr
+13	jednotky	NNFP4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95049-140-p6s3
+1	Systém	NNIS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	poskytovat	Vf--------A----	Pred
+4	nezbytné	AAFP4----1N----	Atr
+5	informace	NNFP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	odborníky	NNMP4-----A----	Obj
+8	nebo	J^-------------	Coord
+9	speciální	AAFS4----1A----	Atr
+10	zásahovou	AAFS4----1A----	Atr
+11	jednotku	NNFS4-----A----	Obj
+12	.	Z:-------------	AuxK
+

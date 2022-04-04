@@ -1,0 +1,194 @@
+ln94202-71-p1s1
+1	20	C=-------------	ExD
+2	milionů	NNIP2-----A----	Atr
+3	dolarů	NNIP2-----A----	Atr
+4	na	RR--4----------	AuxP
+5	pomoc	NNFS4-----A----	Atr
+6	Rwandě	NNFS3-----A----	Atr
+
+ln94202-71-p2s1A
+1	Kigali	NNNXX-----A----	ExD
+2	/	Z:-------------	Coord
+3	Paříž	NNFS1-----A----	ExD
+4	-	Z:-------------	AuxK
+
+ln94202-71-p2s1B
+1	Světová	AAFS1----1A----	Atr
+2	banka	NNFS1-----A----	Sb
+3	poskytne	VB-S---3P-AA---	Pred
+4	rwandské	AAFS3----1A----	Atr
+5	vládě	NNFS3-----A----	Obj
+6	půjčku	NNFS4-----A----	Obj
+7	ve	RV--6----------	AuxP
+8	výši	NNFS6-----A----	Atr
+9	20	C=-------------	Atr
+10	milionů	NNIP2-----A----	Atr
+11	dolarů	NNIP2-----A----	Atr
+12	na	RR--4----------	AuxP
+13	rekonstrukci	NNFS4-----A----	AdvAtr
+14	válkou	NNFS7-----A----	Obj
+15	zdevastované	AAFS2----1A----	Atr
+16	země	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94202-71-p2s2
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	Kigali	NNNXX-----A----	Adv
+6	nejmenovaný	AAMS1----1N----	Atr
+7	představitel	NNMS1-----A----	Sb
+8	OSN	NNFXX-----A---8	Atr
+9	s	RR--7----------	AuxP
+10	tím	PDZS7----------	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	půjčku	NNFS4-----A----	Obj
+14	by	Vc-------------	AuxV
+15	měla	VpQW---XR-AA---	Atr
+16	banka	NNFS1-----A----	Sb
+17	schválit	Vf--------A----	Obj
+18	během	RR--2----------	AuxP
+19	několika	Ca--2----------	Atr
+20	dnů	NNIP2-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln94202-71-p2s3
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	slov	NNNP2-----A----	Adv
+4	Rwanda	NNFS1-----A----	Sb
+5	potřebuje	VB-S---3P-AA---	Pred
+6	peníze	NNIP4-----A----	Obj
+7	především	Db-------------	AuxZ
+8	na	RR--4----------	AuxP
+9	platy	NNIP4-----A----	Atr
+10	,	Z:-------------	AuxX
+11	na	RR--4----------	AuxP
+12	dovoz	NNIS4-----A----	Atr
+13	základního	AANS2----1A----	Atr
+14	zboží	NNNS2-----A----	Atr
+15	a	J^-------------	Coord
+16	na	RR--4----------	AuxP
+17	administrativu	NNFS4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94202-71-p2s4
+1	Šest	Cn-S4----------	Adv
+2	týdnů	NNIP2-----A----	Atr
+3	po	RR--6----------	AuxP
+4	jmenování	NNNS6-----A----	Atr
+5	prozatímní	AAFS2----1A----	Atr
+6	vlády	NNFS2-----A----	Atr
+7	národní	AAFS2----1A----	Atr
+8	jednoty	NNFS2-----A----	Atr
+9	nejsou	VB-P---3P-NA---	Pred
+10	finance	NNFP1-----A----	Sb
+11	na	RR--4----------	AuxP
+12	rekonstrukci	NNFS4-----A----	AdvAtr
+13	zdevastované	AAFS2----1A----	Atr
+14	země	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94202-71-p3s1
+1	Vedoucí	AGMP1-----A----	Atr
+2	představitelé	NNMP1-----A----	Sb
+3	nové	AAFS2----1A----	Atr
+4	vlády	NNFS2-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	Rwandě	NNFS6-----A----	Atr
+7	v	RR--4----------	AuxP
+8	sobotu	NNFS4-----A----	Adv
+9	navštívili	VpMP---XR-AA---	Pred
+10	jižní	AAFS4----1A----	Atr
+11	část	NNFS4-----A----	Obj
+12	země	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	tam	Db-------------	Adv
+16	příslušníky	NNMP4-----A----	Obj
+17	dvou	ClXP2----------	Atr
+18	hlavních	AAIP2----1A----	Atr
+19	rwandských	AAIP2----1A----	Atr
+20	kmenů	NNIP2-----A----	Atr
+21	přesvědčili	VpMP---XR-AA---	Adv
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	mohou	VB-P---3P-AA--1	Obj
+25	spolu	Db-------------	Adv
+26	žít	Vf--------A----	Obj
+27	v	RR--6----------	AuxP
+28	míru	NNIS6-----A----	Adv
+29	i	J^-------------	AuxZ
+30	přes	RR--4----------	AuxP
+31	masakry	NNIP4-----A----	Adv
+32	posledních	AAIP2----1A----	Atr
+33	měsíců	NNIP2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94202-71-p4s1
+1	Francouzský	AAMS1----1A----	Atr
+2	ministr	NNMS1-----A----	Atr
+3	obrany	NNFS2-----A----	Atr
+4	F	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Léotard	NNMS1-----A----	Sb
+7	v	RR--4----------	AuxP
+8	sobotu	NNFS4-----A----	Adv
+9	kritizoval	VpYS---XR-AA---	Pred
+10	spojence	NNMP4-----A----	Obj
+11	v	RR--6----------	AuxP
+12	Evropské	AAFS6----1A----	Atr
+13	unii	NNFS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kteří	P4MP1----------	Sb
+16	se	P7-X4----------	AuxT
+17	nepřipojili	VpMP---XR-NA---	Atr
+18	k	RR--3----------	AuxP
+19	humanitární	AAFS3----1A----	Atr
+20	operaci	NNFS3-----A----	Obj
+21	ve	RV--6----------	AuxP
+22	Rwandě	NNFS6-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94202-71-p4s2
+1	Francie	NNFS1-----A----	Sb
+2	sdělila	VpQW---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	nebude	VB-S---3F-NA---	Obj
+6	více	Dg-------2A----	Adv
+7	ochotna	ACQW------A----	Pnom
+8	podobnou	AAFS4----1A----	Atr
+9	zkoušku	NNFS4-----A----	Obj
+10	podstupovat	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+
+ln94202-71-p4s3
+1	Tím	PDZS7----------	Adv
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	Evropská	AAFS1----1A----	Atr
+5	unie	NNFS1-----A----	Sb
+6	nechala	VpQW---XR-AA---	Atr
+7	ve	RV--6----------	AuxP
+8	rwandské	AAFS6----1A----	Atr
+9	operaci	NNFS6-----A----	Adv
+10	Francii	NNFS4-----A----	Obj
+11	na	RR--6----------	AuxP
+12	holičkách	NNFP6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	podle	RR--2----------	AuxP
+15	Léotarda	NNMS2-----A----	Adv
+16	ukázala	VpQW---XR-AA---	Pred
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	její	PSFSXFS3-------	Atr
+20	politika	NNFS1-----A----	Sb
+21	nemá	VB-S---3P-NA---	Obj
+22	žádný	PWIS4----------	Atr
+23	africký	AAIS4----1A----	Atr
+24	rozměr	NNIS4-----A----	Obj
+25	.	Z:-------------	AuxK
+

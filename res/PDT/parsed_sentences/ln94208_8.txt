@@ -1,0 +1,496 @@
+ln94208-8-p1s1
+1	Pohodlí	NNNS1-----A----	ExD
+2	bez	RR--2----------	AuxP
+3	hranic	NNFP2-----A----	Atr
+
+ln94208-8-p2s1A
+1	RENAULT	NNIS1-----A----	ExD
+2	ESPACE	NNIXX-----A----	Atr
+3	RT	NNIXX-----A---8	Atr
+4	2.1	C=-------------	Atr
+5	dT	NNIXX-----A---8	Atr
+
+ln94208-8-p2s1B
+1	Test	NNIS1-----A----	ExD
+2	Lidových	AAFP2----1A----	Atr
+3	novin	NNFP2-----A----	Atr
+
+ln94208-8-p2s1C
+1	Vladimír	NNMS1-----A----	Atr
+2	Šulc	NNMS1-----A----	ExD
+
+ln94208-8-p2s1D
+1	Renault	NNIS4-----A----	Obj
+2	Espace	NNIXX-----A----	Atr
+3	lze	VB-S---3P-AA---	Pred
+4	vřele	Dg-------1A----	Adv
+5	doporučit	Vf--------A----	Sb
+6	mladým	AAFP3----1A----	Atr
+7	rodinám	NNFP3-----A----	Obj
+8	s	RR--7----------	AuxP
+9	více	Dg-------2A----	Atr
+10	dětmi	NNFP7-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4FP1----------	Sb
+13	počítají	VB-P---3P-AA---	Atr
+14	s	RR--7----------	AuxP
+15	každým	AAIS7----1A----	Atr
+16	kubickým	AAIS7----1A----	Atr
+17	centimetrem	NNIS7-----A----	Obj
+18	zavazadlového	AAIS2----1A----	Atr
+19	prostoru	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94208-8-p2s2
+1	A	J^-------------	Coord
+2	také	Db-------------	ExD
+3	těm	PDXP3----------	ExD
+4	,	Z:-------------	AuxX
+5	kdo	PKM-1----------	Sb
+6	rádi	ACMP------A----	AtvV
+7	cestují	VB-P---3P-AA---	Atr
+8	a	J^-------------	Coord
+9	chtějí	VB-P---3P-AA---	Atr
+10	mít	Vf--------A----	Obj
+11	přitom	Db-------------	Adv
+12	nejen	TT-------------	AuxZ
+13	pohodlí	NNNS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	i	J^-------------	AuxZ
+17	spoustu	NNFS4-----A----	Obj
+18	osobních	AAFP2----1A----	Atr
+19	věcí	NNFP2-----A----	Atr
+20	či	J^-------------	Coord
+21	sportovních	AAFP2----1A----	Atr
+22	potřeb	NNFP2-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94208-8-p2s3
+1	Firma	NNFS1-----A----	Sb
+2	Renault	NNIS1-----A----	Atr
+3	Česká	AAFS1----1A----	Atr
+4	republika	NNFS1-----A----	Atr
+5	nám	PP-P3--1-------	Obj
+6	k	RR--3----------	AuxP
+7	redakčnímu	AAIS3----1A----	Atr
+8	testu	NNIS3-----A----	Adv
+9	poskytla	VpQW---XR-AA--1	Pred
+10	verzi	NNFS4-----A----	Obj
+11	s	RR--7----------	AuxP
+12	turbodieselovým	AAIS7----1A----	Atr
+13	motorem	NNIS7-----A----	Atr
+14	s	RR--7----------	AuxP
+15	označením	NNNS7-----A----	Atr
+16	RT	NNIXX-----A---8	Atr
+17	.	Z:-------------	AuxK
+
+ln94208-8-p3s1
+1	Sice	Db-------------	AuxY
+2	jsme	VB-P---1P-AA---	AuxV
+3	v	RR--6----------	AuxP
+4	úvodu	NNIS6-----A---1	Adv
+5	uvedli	VpMP---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	komu	PKM-3----------	Obj
+8	lze	VB-S---3P-AA---	Obj
+9	vůz	NNIS4-----A----	Obj
+10	především	Db-------------	AuxZ
+11	doporučit	Vf--------A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94208-8-p3s2
+1	Snad	Db-------------	AuxY
+2	nám	PP-P3--1-------	Obj
+3	nebudou	VB-P---3F-NA---	AuxV
+4	mít	Vf--------A----	Pred
+5	případní	AAMP1----1A----	Atr
+6	zájemci	NNMP1-----A----	Sb
+7	z	RR--2----------	AuxP
+8	kategorie	NNFS2-----A----	Atr
+9	'	Z:-------------	AuxG
+10	mladá	AAFS1----1A----	Atr
+11	rodina	NNFS1-----A----	Atr
+12	s	RR--7----------	AuxP
+13	více	Dg-------2A----	Atr
+14	dětmi	NNFP7-----A----	Atr
+15	'	Z:-------------	AuxG
+16	za	RR--4----------	AuxP
+17	zlé	AANS4----1A----	Obj
+18	,	Z:-------------	AuxX
+19	když	J,-------------	AuxC
+20	jim	PPXP3--3-------	Obj
+21	neprozradíme	VB-P---1P-NA---	Obj
+22	,	Z:-------------	AuxX
+23	kde	Db-------------	Adv
+24	vzít	Vf--------A----	Obj
+25	potřebných	AAFP2----1A----	Atr
+26	969828	C=-------------	Obj
+27	korun	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94208-8-p3s3
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	AuxP
+3	našeho	PSZS2-P1-------	Atr
+4	testovaného	AAIS2----1A----	Atr
+5	vozu	NNIS2-----A----	ExD
+6	dovybaveného	AAIS2----1A----	Atr
+7	dvěma	ClXP7----------	Atr
+8	střešními	AANP7----1A----	Atr
+9	okny	NNNP7-----A----	Obj
+10	,	Z:-------------	Coord
+11	autorádiem	NNNS7-----A----	Obj
+12	s	RR--7----------	AuxP
+13	ovládáním	NNNS7-----A----	Atr
+14	pod	RR--7----------	AuxP
+15	volantem	NNIS7-----A----	Atr
+16	a	J^-------------	Coord
+17	ve	RV--6----------	AuxP
+18	vínové	AAFS6----1A----	Atr
+19	metalíze	NNFS6-----A----	Atr
+20	pak	Db-------------	ExD
+21	ještě	Db-------------	ExD
+22	přes	RR--4----------	AuxP
+23	66	C=-------------	ExD
+24	tisíc	ClXS2----------	Atr
+25	korun	NNFP2-----A----	Atr
+26	navrch	Db-------------	Atr
+27	.	Z:-------------	AuxK
+
+ln94208-8-p4s1
+1	Věnujme	Vi-P---1--A----	Pred
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	raději	Dg-------2A----	Adv
+5	samotnému	AANS3----1A----	Atr
+6	vozidlu	NNNS3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	neboť	J^-------------	Coord
+9	svezení	NNNS1-----A----	Sb
+10	s	RR--7----------	AuxP
+11	ním	P5ZS7--3-------	Atr
+12	opravdu	Db-------------	Adv
+13	stojí	VB-S---3P-AA---	Pred
+14	za	RR--4----------	AuxP
+15	to	PDNS4----------	Obj
+16	.	Z:-------------	AuxK
+
+ln94208-8-p4s2
+1	A	J^-------------	Coord
+2	vůbec	Db-------------	AuxZ
+3	nerozhoduje	VB-S---3P-NA---	Pred
+4	,	Z:-------------	AuxX
+5	jste	VB-P---2P-AA---	Sb
+6	-	Z:-------------	AuxG
+7	li	TT-------------	AuxC
+8	zvyklí	AAMP1----1A----	Pnom
+9	na	RR--4----------	AuxP
+10	rychlejší	AAIP4----2A----	Atr
+11	,	Z:-------------	Coord
+12	sportovně	Dg-------1A----	Adv
+13	laděné	AAIP4----1A----	Atr
+14	vozy	NNIP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94208-8-p4s3
+1	Byť	J,-------------	AuxC
+2	motor	NNIS1-----A----	Sb
+3	o	RR--6----------	AuxP
+4	obsahu	NNIS6-----A----	Atr
+5	2068	C=-------------	Atr
+6	ccm	NNIXX-----A---8	Atr
+7	dává	VB-S---3P-AA---	Adv
+8	výkon	NNIS4-----A----	Obj
+9	'	Z:-------------	AuxG
+10	jen	TT-------------	AuxZ
+11	'	Z:-------------	AuxG
+12	65	C=-------------	Atr
+13	kW	NNIXX-----A---8	Atr
+14	(	Z:-------------	Apos
+15	88	C=-------------	Atr
+16	k	NNMXX-----A---8	Atr
+17	)	Z:-------------	AuxG
+18	,	Z:-------------	AuxX
+19	je	VB-S---3P-AA---	Pred
+20	zrychlení	NNNS1-----A----	Sb
+21	bezmála	Db-------------	Adv
+22	čtyři	ClXP4----------	Adv
+23	a	J^-------------	Coord
+24	půl	NNFS4-----A----	Adv
+25	metru	NNIS2-----A----	Atr
+26	dlouhého	AANS2----1A----	Atr
+27	vozidla	NNNS2-----A----	Atr
+28	z	RR--2----------	AuxP
+29	0	C=-------------	Atr
+30	na	RR--4----------	AuxP
+31	100	C=-------------	Atr
+32	km	NNIXX-----A---8	Atr
+33	/	Z:-------------	AuxG
+34	hod	NNFXX-----A---8	Atr
+35	.	Z:-------------	AuxG
+36	15	C=-------------	Atr
+37	vteřin	NNFP2-----A----	Atr
+38	velice	Db-------------	Adv
+39	slušné	AANS1----1A----	Pnom
+40	.	Z:-------------	AuxK
+
+ln94208-8-p4s5
+1	Aerodynamický	AAIS1----1A----	Atr
+2	tvar	NNIS1-----A----	Sb
+3	přední	AAFS2----1A----	Atr
+4	masky	NNFS2-----A----	Atr
+5	přidává	VB-S---3P-AA---	Pred
+6	další	AAIP4----1A----	Atr
+7	kladné	AAIP4----1A----	Atr
+8	body	NNIP4-----A----	Obj
+9	nejen	TT-------------	Atr
+10	slušivě	Dg-------1A----	Adv
+11	modernímu	AAIS3----1A----	Atr
+12	vzhledu	NNIS3-----A----	Obj
+13	automobilu	NNIS2-----A----	Atr
+14	s	RR--7----------	AuxP
+15	pěti	Cn-P7----------	Atr
+16	stálými	AANP7----1A----	Atr
+17	sedadly	NNNP7-----A----	Atr
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	i	J^-------------	AuxZ
+21	velice	Db-------------	Adv
+22	příznivou	AAFS4----1A----	Atr
+23	spotřebu	NNFS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94208-8-p4s6
+1	Výrobce	NNMS1-----A----	Sb
+2	udává	VB-S---3P-AA---	Pred
+3	při	RR--6----------	AuxP
+4	90	C=-------------	Atr
+5	,	Z:-------------	Coord
+6	120	C=-------------	Atr
+7	km	NNIXX-----A---8	Adv
+8	/	Z:-------------	AuxG
+9	hod	NNFXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	a	J^-------------	Coord
+12	ve	RV--6----------	AuxP
+13	městě	NNNS6-----A----	Adv
+14	hodnoty	NNFP4-----A----	Obj
+15	5.9	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	8.2	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	respektive	Db-------------	Coord
+20	8.4	C=-------------	Atr
+21	l	NNIXX-----A---8	Atr
+22	nafty	NNFS2-----A----	Atr
+23	na	RR--4----------	AuxP
+24	100	C=-------------	Atr
+25	km	NNIXX-----A---8	Atr
+26	a	J^-------------	Coord
+27	objem	NNIS1-----A----	Sb
+28	palivové	AAFS2----1A----	Atr
+29	nádrže	NNFS2-----A----	Atr
+30	77	C=-------------	Atr
+31	l	NNIXX-----A---8	Atr
+32	vám	PP-P3--2-------	Obj
+33	zaručuje	VB-S---3P-AA---	Pred
+34	,	Z:-------------	AuxX
+35	že	J,-------------	AuxC
+36	nebudete	VB-P---2F-NA---	AuxV
+37	muset	Vf--------A----	Obj
+38	k	RR--3----------	AuxP
+39	čerpacímu	AAIS3----1A----	Atr
+40	stojanu	NNIS3-----A----	Adv
+41	často	Dg-------1A----	Adv
+42	.	Z:-------------	AuxK
+
+ln94208-8-p4s7
+1	Renaulty	NNIP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	navíc	Db-------------	Adv
+4	velice	Db-------------	Adv
+5	odolná	AANP1----1A----	Atr
+6	auta	NNNP1-----A----	Pnom
+7	.	Z:-------------	AuxK
+
+ln94208-8-p4s8
+1	S	RR--7----------	AuxP
+2	novým	AANS7----1A----	ExD
+3	dostáváte	VB-P---2P-AA---	Pred
+4	roční	AAFS4----1A----	Atr
+5	záruku	NNFS4-----A----	Obj
+6	bez	RR--2----------	AuxP
+7	ohledu	NNIS2-----A----	AuxP
+8	na	RR--4----------	AuxP
+9	počet	NNIS4-----A----	Adv
+10	ujetých	AAIP2----1A----	Atr
+11	kilometrů	NNIP2-----A----	Atr
+12	a	J^-------------	Coord
+13	72	C=-------------	ExD
+14	měsíců	NNIP2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	prorezavění	NNNS4-----A----	ExD
+17	karoserie	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94208-8-p5s1
+1	U	RR--2----------	AuxP
+2	našeho	PSZS2-P1-------	Atr
+3	auta	NNNS2-----A----	Adv
+4	poněkud	Db-------------	Adv
+5	zlobilo	VpNS---XR-AA---	Pred
+6	nepříliš	Db-------------	Adv
+7	poddajné	AANS1----1A----	Atr
+8	řazení	NNNS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	to	PDNS4----------	Obj
+12	lze	VB-S---3P-AA---	Pred
+13	přičíst	Vf--------A----	Sb
+14	skutečnosti	NNFS3-----A----	Obj
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	jsme	VB-P---1P-AA---	AuxV
+18	vyjeli	VpMP---XR-AA---	Atr
+19	s	RR--7----------	AuxP
+20	vozem	NNIS7-----A----	Adv
+21	,	Z:-------------	AuxX
+22	který	P4YS1----------	Sb
+23	neměl	VpYS---XR-NA---	Atr
+24	najeto	VsNS---XX-AP---	Atv
+25	ani	J^-------------	AuxZ
+26	celých	AAIP2----1A----	Atr
+27	čtyřicet	Cn-S4----------	Obj
+28	kilometrů	NNIP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94208-8-p5s2
+1	Řízení	NNNS4-----A----	Obj
+2	vozidlu	NNNS3-----A----	Obj
+3	usnadňuje	VB-S---3P-AA---	Pred
+4	posilovač	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	a	J^-------------	Coord
+7	tak	J^-------------	AuxY
+8	vás	PP-P4--2-------	Obj
+9	jízda	NNFS1-----A----	Sb
+10	unaví	VB-S---3P-AA---	Pred
+11	méně	Dg-------2A----	Adv
+12	než	J,-------------	AuxC
+13	se	RV--7----------	AuxP
+14	standardním	AANS7----1A----	Atr
+15	autem	NNNS7-----A----	ExD
+16	.	Z:-------------	AuxK
+
+ln94208-8-p5s3
+1	Navíc	Db-------------	Adv
+2	díky	RR--3----------	AuxP
+3	rozměrům	NNIP3-----A----	Adv
+4	si	P7-X3----------	AuxT
+5	výrobce	NNMS1-----A----	Sb
+6	mohl	VpYS---XR-AA---	Pred
+7	dovolit	Vf--------A----	Obj
+8	umístit	Vf--------A----	Obj
+9	do	RR--2----------	AuxP
+10	kabiny	NNFS2-----A----	Adv
+11	opravdu	Db-------------	Adv
+12	pohodlná	AANP4----1A----	Atr
+13	sedadla	NNNP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	jejichž	P1XXXXP3-------	Atr
+16	počet	NNIS4-----A----	Obj
+17	lze	VB-S---3P-AA---	Atr
+18	ve	RV--6----------	AuxP
+19	třech	ClXP6----------	Atr
+20	řadách	NNFP6-----A----	Adv
+21	za	RR--7----------	AuxP
+22	sebou	P6-X7----------	Atr
+23	zvýšit	Vf--------A----	Sb
+24	až	TT-------------	AuxZ
+25	na	RR--4----------	AuxP
+26	sedm	Cn-S4----------	Obj
+27	.	Z:-------------	AuxK
+
+ln94208-8-p5s4
+1	Další	AAFS7----1A----	Atr
+2	výhodou	NNFS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	možnost	NNFS1-----A----	Sb
+5	různých	AAFP2----1A----	Atr
+6	kombinací	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94208-8-p5s5
+1	Otočíte	VB-P---2P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	kupříkladu	Db-------------	Adv
+5	přední	AAFS7----1A----	Atr
+6	dvojicí	NNFS7-----A----	Obj
+7	o	RR--4----------	AuxP
+8	180	C=-------------	Adv
+9	stupňů	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	vznikne	VB-S---3P-AA---	Pred
+12	vám	PP-P3--2-------	Adv
+13	krytý	AAIS1----1A----	Atr
+14	konferenční	AAIS1----1A----	Atr
+15	salonek	NNIS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94208-8-p5s6
+1	Mohutné	AAFP1----1A----	Atr
+2	páté	CrFP1----------	Atr
+3	dveře	NNFP1-----A----	Sb
+4	skrývají	VB-P---3P-AA---	Pred
+5	zavazadlový	AAIS4----1A----	Atr
+6	prostor	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	má	VB-S---3P-AA---	Atr
+10	minimální	AAIS4----1A----	Atr
+11	objem	NNIS4-----A----	Obj
+12	900	C=-------------	Adv
+13	ccm	NNIXX-----A---8	Atr
+14	a	J^-------------	Coord
+15	maximální	AAIS4----1A----	ExD
+16	3000	C=-------------	ExD
+17	ccm	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+
+ln94208-8-p5s7
+1	Myslíme	VB-P---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	není	VB-S---3P-NA---	Obj
+5	co	PQ--4----------	Obj
+6	dodávat	Vf--------A----	Pnom
+7	.	Z:-------------	AuxK
+
+ln94208-8-p5s8
+1	K	RR--3----------	AuxP
+2	přednostem	NNFP3-----A----	Obj
+3	vozidla	NNNS2-----A----	Atr
+4	patří	VB-P---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	velice	Db-------------	Adv
+7	dobré	AAFP1----1A----	Atr
+8	jízdní	AAFP1----1A----	Atr
+9	vlastnosti	NNFP1-----A----	Sb
+10	s	RR--7----------	AuxP
+11	překvapivě	Dg-------1A----	Adv
+12	dobrým	AANS7----1A----	Atr
+13	manévrováním	NNNS7-----A----	Atr
+14	,	Z:-------------	AuxX
+15	takže	J,-------------	AuxC
+16	ani	J^-------------	AuxZ
+17	v	RR--6----------	AuxP
+18	přehuštěné	AAFS6----1A----	Atr
+19	městské	AAFS6----1A----	Atr
+20	dopravě	NNFS6-----A----	Adv
+21	se	P7-X4----------	AuxT
+22	nestáváte	VB-P---2P-NA---	Adv
+23	outsidery	NNMP7-----A----	Obj
+24	.	Z:-------------	AuxK
+

@@ -1,0 +1,123 @@
+ln94206-20-p1s1
+1	Více	Dg-------2A----	ExD
+2	nákladních	AAIP2----1A----	Atr
+3	mercedesů	NNIP2-----A----	Atr
+
+ln94206-20-p2s1A
+1	Hannover	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-20-p2s1B
+1	Německá	AAFS1----1A----	Atr
+2	automobilka	NNFS1-----A----	Sb
+3	Mercedes	NNIS1-----A----	Atr
+4	-	Z:-------------	AuxG
+5	Benz	NNIXX-----A----	Atr
+6	AG	NNFXX-----A---8	Atr
+7	letos	Db-------------	Adv
+8	očekává	VB-S---3P-AA---	Pred
+9	zvýšení	NNNS4-----A----	Obj
+10	odbytu	NNIS2-----A----	Atr
+11	nákladních	AAIP2----1A----	Atr
+12	vozů	NNIP2-----A----	Atr
+13	o	RR--4----------	AuxP
+14	sedm	Cn-S4----------	Atr
+15	procent	NNNP2-----A----	Atr
+16	na	RR--4----------	AuxP
+17	28	C=-------------	Atr
+18	miliard	NNFP2-----A----	Atr
+19	DEM	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+ln94206-20-p2s2
+1	I	J^-------------	AuxZ
+2	letos	Db-------------	Adv
+3	však	J^-------------	Coord
+4	v	RR--6----------	AuxP
+5	této	PDFS6----------	Atr
+6	divizi	NNFS6-----A----	Adv
+7	předpokládá	VB-S---3P-AA---	Pred
+8	neuspokojivé	AAIP4----1N----	Atr
+9	finanční	AAIP4----1A----	Atr
+10	výsledky	NNIP4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln94206-20-p3s1
+1	Podle	RR--2----------	AuxP
+2	provozního	AAMS2----1A----	Atr
+3	ředitele	NNMS2-----A----	Atr
+4	automobilky	NNFS2-----A----	Atr
+5	Helmuta	NNMS2-----A----	Atr
+6	Wernera	NNMS2-----A----	Adv
+7	by	Vc-------------	AuxV
+8	měl	VpYS---XR-AA---	Pred
+9	být	Vf--------A----	AuxV
+10	naproti	RR--3----------	AuxP
+11	tomu	PDZS3----------	Adv
+12	letos	Db-------------	Adv
+13	splněn	VsYS---XX-AP---	Obj
+14	plán	NNIS1-----A----	Sb
+15	odbytu	NNIS2-----A----	Atr
+16	ve	RV--6----------	AuxP
+17	výši	NNFS6-----A----	Atr
+18	280	C=-------------	Atr
+19	tisíc	ClXS2----------	Atr
+20	nákladních	AAIP2----1A----	Atr
+21	vozů	NNIP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94206-20-p3s2
+1	Přesto	Dg-------1A----	Coord
+2	připustil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	racionalizační	AANP1----1A----	Atr
+6	opatření	NNNP1-----A----	Sb
+7	se	P7-X4----------	AuxT
+8	ve	RV--6----------	AuxP
+9	finančních	AAIP6----1A----	Atr
+10	výsledcích	NNIP6-----A----	Adv
+11	firmy	NNFS2-----A----	Atr
+12	projeví	VB-P---3P-AA---	Obj
+13	teprve	Db-------------	AuxZ
+14	v	RR--6----------	AuxP
+15	roce	NNIS6-----A---1	Adv
+16	1995	C=-------------	Atr
+17	.	Z:-------------	AuxK
+
+ln94206-20-p4s1
+1	Za	RR--4----------	AuxP
+2	prvních	CrIP2----------	Atr
+3	šest	Cn-S4----------	Adv
+4	měsíců	NNIP2-----A----	Atr
+5	automobilka	NNFS1-----A----	Sb
+6	Mercedes	NNIS1-----A----	Atr
+7	vyrobila	VpQW---XR-AA---	Pred
+8	140	C=-------------	Obj
+9	tisíc	ClXS2----------	Atr
+10	nákladních	AAIP2----1A----	Atr
+11	vozů	NNIP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	z	RR--2----------	AuxP
+14	toho	PDZS2----------	Atr
+15	68.7	C=-------------	ExD
+16	tisíce	NNIS2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	Německu	NNNS6-----A----	ExD
+19	a	J^-------------	AuxY
+20	71.3	C=-------------	ExD
+21	tisíce	NNIS2-----A----	Atr
+22	kusů	NNIP2-----A----	Atr
+23	v	RR--6----------	AuxP
+24	zahraničních	AAIP6----1A----	Atr
+25	závodech	NNIP6-----A----	ExD
+26	,	Z:-------------	Coord
+27	což	PE--1----------	Sb
+28	je	VB-S---3P-AA---	Pred
+29	argumentem	NNIS7-----A----	Pnom
+30	podporujícím	AGIS7-----A----	Atr
+31	očekávání	NNNS4-----A----	Obj
+32	vyjádřené	AANS4----1A----	Atr
+33	Wernerem	NNMS7-----A----	Obj
+34	.	Z:-------------	AuxK
+

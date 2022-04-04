@@ -1,0 +1,161 @@
+mf930713-082-p1s1
+1	Ministr	NNMS1-----A----	Atr
+2	Juppé	NNMS1-----A----	Sb
+3	slíbil	VpYS---XR-AA---	Pred
+4	podporu	NNFS4-----A----	Obj
+
+mf930713-082-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jd	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-082-p2s1B
+1	Francouzský	AAMS1----1A----	Atr
+2	ministr	NNMS1-----A----	Atr
+3	zahraničí	NNNS2-----A----	Atr
+4	Alain	NNMS1-----A----	Atr
+5	Juppé	NNMS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	byl	VpYS---XR-AA---	Atr
+9	v	RR--6----------	AuxP
+10	České	AAFS6----1A----	Atr
+11	republice	NNFS6-----A----	Adv
+12	na	RR--6----------	AuxP
+13	oficiální	AAFS6----1A----	Atr
+14	návštěvě	NNFS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	se	P7-X4----------	AuxT
+17	včera	Db-------------	Adv
+18	setkal	VpYS---XR-AA---	Pred
+19	na	RR--6----------	AuxP
+20	Pražském	AAIS6----1A----	Atr
+21	hradě	NNIS6-----A----	Adv
+22	s	RR--7----------	AuxP
+23	prezidentem	NNMS7-----A----	Atr
+24	Václavem	NNMS7-----A----	Atr
+25	Havlem	NNMS7-----A----	Obj
+26	.	Z:-------------	AuxK
+
+mf930713-082-p2s2
+1	Předmětem	NNIS7-----A----	Pnom
+2	rozhovoru	NNIS2-----A----	Atr
+3	byla	VpQW---XR-AA---	Pred
+4	mimo	RR--4----------	AuxP
+5	jiné	AANS4----1A----	Adv
+6	kritika	NNFS1-----A----	Sb
+7	zemí	NNFP2-----A----	Atr
+8	střední	AAFS2----1A----	Atr
+9	a	J^-------------	Coord
+10	východní	AAFS2----1A----	Atr
+11	Evropy	NNFS2-----A----	Atr
+12	vůči	RR--3----------	AuxP
+13	protekcionismu	NNIS3-----A----	Atr
+14	západoevropských	AAIP2----1A----	Atr
+15	států	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930713-082-p3s1
+1	Juppé	NNMS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	též	Db-------------	Adv
+4	jednal	VpYS---XR-AA---	Pred
+5	s	RR--7----------	AuxP
+6	premiérem	NNMS7-----A----	Atr
+7	Klausem	NNMS7-----A----	Obj
+8	a	J^-------------	Coord
+9	tři	ClXP4----------	Atr
+10	hodiny	NNFP4-----A----	Obj
+11	strávil	VpYS---XR-AA---	Pred
+12	s	RR--7----------	AuxP
+13	ministrem	NNMS7-----A----	Atr
+14	zahraničí	NNNS2-----A----	Atr
+15	Zieleniecem	NNMS7-----A----	Adv
+16	.	Z:-------------	AuxK
+
+mf930713-082-p3s2
+1	Francouzský	AAMS1----1A----	Atr
+2	ministr	NNMS1-----A----	Sb
+3	přislíbil	VpYS---XR-AA---	Pred
+4	podporu	NNFS4-----A----	Obj
+5	své	P8FS2---------1	Atr
+6	země	NNFS2-----A----	Atr
+7	při	RR--6----------	AuxP
+8	začlenění	NNNS6-----A----	AtrAdv
+9	ČR	NNFXX-----A---8	Atr
+10	do	RR--2----------	AuxP
+11	západoevropských	AAFP2----1A----	Atr
+12	struktur	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf930713-082-p3s3
+1	Dalším	AAIS7----1A----	Atr
+2	výsledkem	NNIS7-----A----	Pnom
+3	jeho	PSXXXZS3-------	Atr
+4	cesty	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	podepsání	NNNS1-----A----	Sb
+7	dohody	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	umožní	VB-S---3P-AA---	Atr
+11	rozšíření	NNNS4-----A----	Obj
+12	spolupráce	NNFS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	oblasti	NNFS6-----A----	Atr
+15	školství	NNNS2-----A----	Atr
+16	a	J^-------------	Coord
+17	sportu	NNIS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	včetně	RR--2----------	AuxP
+20	výměn	NNFP2-----A----	AtrAtr
+21	skupin	NNFP2-----A----	Atr
+22	mladých	AAMP2----1A----	Atr
+23	lidí	NNMP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf930713-082-p3s4
+1	Pokud	J,-------------	AuxC
+2	jde	VB-S---3P-AA---	Adv
+3	o	RR--4----------	AuxP
+4	možné	AAFP4----1A----	Atr
+5	"	Z:-------------	AuxG
+6	třecí	AAFP4----1A----	Atr
+7	plochy	NNFP4-----A----	Obj
+8	"	Z:-------------	AuxG
+9	ve	RV--6----------	AuxP
+10	vzájemném	AAIS6----1A----	Atr
+11	obchodu	NNIS6-----A---1	Atr
+12	(	Z:-------------	AuxG
+13	například	Db-------------	AuxZ
+14	v	RR--6----------	AuxP
+15	zemědělství	NNNS6-----A----	Atr
+16	)	Z:-------------	AuxG
+17	,	Z:-------------	AuxX
+18	upozornil	VpYS---XR-AA---	Pred
+19	včera	Db-------------	Adv
+20	na	RR--6----------	AuxP
+21	tiskové	AAFS6----1A----	Atr
+22	konferenci	NNFS6-----A----	Adv
+23	ministr	NNMS1-----A----	Atr
+24	Zieleniec	NNMS1-----A----	Sb
+25	na	RR--4----------	AuxP
+26	fakt	NNIS4-----A----	Obj
+27	,	Z:-------------	AuxX
+28	že	J,-------------	AuxC
+29	nyní	Db-------------	Adv
+30	k	RR--3----------	AuxP
+31	nám	PP-P3--1-------	Adv
+32	Francie	NNFS1-----A----	Sb
+33	vyváží	VB-S---3P-AA---	Atr
+34	desetkrát	Cv-------------	Adv
+35	více	Dg-------2A----	Obj
+36	zemědělských	AAIP2----1A----	Atr
+37	výrobků	NNIP2-----A----	Atr
+38	,	Z:-------------	AuxX
+39	než	J,-------------	AuxC
+40	dováží	VB-S---3P-AA---	Adv
+41	.	Z:-------------	AuxK
+

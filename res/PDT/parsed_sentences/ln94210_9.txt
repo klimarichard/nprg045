@@ -1,0 +1,301 @@
+ln94210-9-p1s1
+1	Dráhy	NNFP1-----A----	Sb
+2	nabízejí	VB-P---3P-AA---	Pred
+3	zajímavá	AANP4----1A----	Atr
+4	místa	NNNP4-----A----	Obj
+
+ln94210-9-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94210-9-p2s1B
+1	Přes	RR--4----------	AuxP
+2	rok	NNIS4-----A----	Adv
+3	existuje	VB-S---3P-AA---	Pred
+4	u	RR--2----------	AuxP
+5	Českých	AAFP2----1A----	Atr
+6	drah	NNFP2-----A----	Adv
+7	(	Z:-------------	Apos
+8	ČD	NNFPX-----A---8	Adv
+9	)	Z:-------------	AuxG
+10	Divize	NNFS1-----A----	Sb
+11	majetkového	AANS2----1A----	Atr
+12	podnikání	NNNS2-----A----	Atr
+13	a	J^-------------	Coord
+14	privatizace	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	jejíž	P1FSXFS3-------	Atr
+17	hlavní	AAFS7----1A----	Atr
+18	náplní	NNFS7-----A----	Pnom
+19	je	VB-S---3P-AA---	Atr
+20	pronájem	NNIS1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	prodej	NNIS1-----A----	Sb
+23	a	J^-------------	Coord
+24	privatizace	NNFS1-----A----	Sb
+25	nemovitého	AAIS2----1N----	Atr
+26	majetku	NNIS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94210-9-p2s2
+1	Zabývá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	i	J^-------------	AuxZ
+4	možným	AAIS7----1A----	Atr
+5	majetkovým	AAIS7----1A----	Atr
+6	vstupem	NNIS7-----A----	Obj
+7	ČD	NNFPX-----A---8	Atr
+8	do	RR--2----------	AuxP
+9	společných	AAIP2----1A----	Atr
+10	projektů	NNIP2-----A----	Atr
+11	se	RV--7----------	AuxP
+12	soukromými	AAFP7----1A----	Atr
+13	firmami	NNFP7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94210-9-p2s3
+1	Podle	RR--2----------	AuxP
+2	jejího	PSZS2FS3-------	Atr
+3	vrchního	AAMS2----1A----	Atr
+4	ředitele	NNMS2-----A----	Atr
+5	Jiřího	NNMS2-----A----	Atr
+6	Mandíka	NNMS2-----A----	Adv
+7	se	P7-X4----------	AuxR
+8	nyní	Db-------------	Adv
+9	postupně	Dg-------1A----	Adv
+10	inventarizuje	VB-S---3P-AA---	Pred
+11	a	J^-------------	Coord
+12	zpřesňuje	VB-S---3P-AA---	Pred
+13	majetek	NNIS1-----A----	Sb
+14	použitelný	AAIS1----1A----	Atr
+15	ke	RV--3----------	AuxP
+16	komerčním	AAIP3----1A----	Atr
+17	účelům	NNIP3-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94210-9-p3s1
+1	V	RR--6----------	AuxP
+2	rámci	NNIS6-----A----	AuxP
+3	divize	NNFS2-----A----	Adv
+4	např	Db------------8	AuxZ
+5	.	Z:-------------	AuxG
+6	proběhla	VpQW---XR-AA--1	Pred
+7	výběrová	AANP1----1A----	Atr
+8	řízení	NNNP1-----A----	Sb
+9	na	RR--4----------	AuxP
+10	rekonstrukci	NNFS4-----A----	Atr
+11	a	J^-------------	Coord
+12	využití	NNNS4-----A----	Atr
+13	bývalé	AAFS2----1A----	Atr
+14	výpravní	AAFS2----1A----	Atr
+15	budovy	NNFS2-----A----	Atr
+16	Praha	NNFS1-----A----	Atr
+17	-	Z:-------------	AuxG
+18	Vyšehrad	NNIS1-----A----	Atr
+19	a	J^-------------	Coord
+20	na	RR--4----------	AuxP
+21	dostavbu	NNFS4-----A----	Atr
+22	a	J^-------------	Coord
+23	využití	NNNS4-----A----	Atr
+24	výpravní	AAFS2----1A----	Atr
+25	budovy	NNFS2-----A----	Atr
+26	v	RR--6----------	AuxP
+27	Karlových	AUIP6M---------	Atr
+28	Varech	NNIP6-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94210-9-p4s1
+1	Uskutečnily	VpTP---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	i	J^-------------	AuxZ
+4	urbanisticko	A2--------A----	Atr
+5	-	Z:-------------	Coord
+6	architektonické	AAFP1----1A----	Atr
+7	soutěže	NNFP1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	využití	NNNS4-----A----	Atr
+10	nezastavěných	AAIP2----1N----	Atr
+11	pozemků	NNIP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	lokalitách	NNFP6-----A----	Atr
+14	Praha	NNFS1-----A----	Atr
+15	-	Z:-------------	AuxG
+16	Hlavní	AANS1----1A----	Atr
+17	nádraží	NNNS1-----A----	Atr
+18	a	J^-------------	Coord
+19	Praha	NNFS1-----A----	Atr
+20	-	Z:-------------	AuxG
+21	Masarykovo	AUNS1M---------	Atr
+22	nádraží	NNNS1-----A----	Atr
+23	,	Z:-------------	AuxX
+24	které	P4FP1----------	Sb
+25	byly	VpTP---XR-AA---	AuxV
+26	realizovány	VsTP---XX-AP---	Atr
+27	ve	RV--6----------	AuxP
+28	spolupráci	NNFS6-----A----	AuxP
+29	s	RR--7----------	AuxP
+30	pražským	AAIS7----1A----	Atr
+31	magistrátem	NNIS7-----A----	Adv
+32	a	J^-------------	Coord
+33	příslušnými	AAFP7----1A----	Atr
+34	městskými	AAFP7----1A----	Atr
+35	částmi	NNFP7-----A----	Adv
+36	.	Z:-------------	AuxK
+
+ln94210-9-p5s1
+1	Podle	RR--2----------	AuxP
+2	Mandíkových	AUNP2M---------	Atr
+3	slov	NNNP2-----A----	Adv
+4	lze	VB-S---3P-AA---	Pred
+5	komerčně	Dg-------1A----	Adv
+6	využít	Vf--------A----	Sb
+7	zhruba	Db-------------	Adv
+8	deset	Cn-S4----------	Obj
+9	hektarů	NNIP2-----A----	Atr
+10	pozemků	NNIP2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	železniční	AAFS6----1A----	Atr
+13	stanici	NNFS6-----A----	Atr
+14	Praha	NNFS1-----A----	Atr
+15	-	Z:-------------	AuxG
+16	Žižkov	NNIS1-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94210-9-p5s2
+1	Využít	Vf--------A----	Sb
+2	lze	VB-S---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	prostory	NNFP4-----A----	Obj
+5	stanice	NNFS2-----A----	Atr
+6	Praha	NNFS1-----A----	Atr
+7	-	Z:-------------	AuxG
+8	Smíchov	NNIS1-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94210-9-p5s3
+1	Závisí	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ovšem	J^-------------	Coord
+4	na	RR--6----------	AuxP
+5	dořešení	NNNS6-----A----	Obj
+6	městského	AAIS2----1A----	Atr
+7	komunikačního	AAIS2----1A----	Atr
+8	systému	NNIS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	tomto	PDZS6----------	Atr
+11	prostoru	NNIS6-----A----	AtrAtr
+12	.	Z:-------------	AuxK
+
+ln94210-9-p6s1
+1	České	AAFP1----1A----	Atr
+2	dráhy	NNFP1-----A----	Sb
+3	také	Db-------------	Adv
+4	chtějí	VB-P---3P-AA---	Pred
+5	pronajímat	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	a	J^-------------	AuxY
+8	to	PDNS4----------	AuxY
+9	vždy	Db-------------	Adv
+10	jedné	ClFS3----------	Atr
+11	firmě	NNFS3-----A----	Obj
+12	,	Z:-------------	AuxX
+13	komerčně	Dg-------1A----	Adv
+14	využitelné	AAFP4----1A----	Atr
+15	prostory	NNFP4-----A----	Obj
+16	v	RR--6----------	AuxP
+17	jednotlivých	AAFP6----1A----	Atr
+18	železničních	AAFP6----1A----	Atr
+19	stanicích	NNFP6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94210-9-p6s2
+1	Firma	NNFS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	je	PPXP4--3-------	Obj
+4	mohla	VpQW---XR-AA---	Pred
+5	využívat	Vf--------A----	Obj
+6	sama	PLFS1----------	AtvV
+7	,	Z:-------------	AuxX
+8	nebo	J^-------------	Coord
+9	je	PPXP4--3-------	Obj
+10	dále	Db------------1	Adv
+11	pronajímat	Vf--------A----	Obj
+12	jiným	AAMP3----1A----	Atr
+13	zájemcům	NNMP3-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94210-9-p6s3
+1	ČD	NNFPX-----A---8	Sb
+2	zpracovaly	VpTP---XR-AA---	Pred
+3	podklady	NNIP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	podle	RR--2----------	AuxP
+6	nichž	P9XP2----------	Adv
+7	lze	VB-S---3P-AA---	Atr
+8	přesně	Dg-------1A----	Adv
+9	stanovit	Vf--------A----	Sb
+10	současnou	AAFS4----1A----	Atr
+11	výši	NNFS4-----A----	Obj
+12	pronájmu	NNIS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	jednotlivých	AAFP6----1A----	Atr
+15	lokalitách	NNFP6-----A----	Atr
+16	v	RR--6----------	AuxP
+17	závislosti	NNFS6-----A----	AuxP
+18	na	RR--6----------	AuxP
+19	jejich	PSXXXXP3-------	Atr
+20	atraktivitě	NNFS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln94210-9-p6s4
+1	O	RR--4----------	AuxP
+2	tyto	PDIP4----------	Atr
+3	materiály	NNIP4-----A----	Atr
+4	projevilo	VpNS---XR-AA---	Pred
+5	podle	RR--2----------	AuxP
+6	J	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Mandíka	NNMS2-----A----	Adv
+9	zájem	NNIS4-----A----	Obj
+10	mnoho	Ca--1----------	Sb
+11	realitních	AAFP2----1A----	Atr
+12	kanceláří	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94210-9-p7s1
+1	V	RR--6----------	AuxP
+2	rámci	NNIS6-----A----	AuxP
+3	privatizace	NNFS2-----A----	Adv
+4	ČD	NNFPX-----A---8	Atr
+5	probíhá	VB-S---3P-AA---	Pred
+6	standardními	AAFP7----1A----	Atr
+7	metodami	NNFP7-----A----	Adv
+8	dílčí	AAFS1----1A----	Atr
+9	privatizace	NNFS1-----A----	Sb
+10	jednotlivých	AAFP2----1A----	Atr
+11	výkonných	AAFP2----1A----	Atr
+12	jednotek	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94210-9-p7s2
+1	Jde	VB-S---3P-AA---	Pred
+2	většinou	Db-------------	Adv
+3	o	RR--4----------	AuxP
+4	výrobní	AAFP4----1A----	Atr
+5	a	J^-------------	Coord
+6	údržbářské	AAFP4----1A----	Atr
+7	kapacity	NNFP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	například	Db-------------	AuxZ
+11	také	Db-------------	AuxZ
+12	o	RR--4----------	AuxP
+13	Výzkumný	AAIS4----1A----	Atr
+14	ústav	NNIS4-----A----	Obj
+15	železniční	AAIS4----1A----	Atr
+16	a	J^-------------	Coord
+17	o	RR--4----------	AuxP
+18	rekreační	AANP4----1A----	Atr
+19	zařízení	NNNP4-----A----	Obj
+20	.	Z:-------------	AuxK
+

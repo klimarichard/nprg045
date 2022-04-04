@@ -1,0 +1,141 @@
+ln94204-70-p1s1
+1	Řidič	NNMS1-----A----	Sb
+2	kradl	VpYS---XR-AA---	Pred
+3	u	RR--2----------	AuxP
+4	Eiffelovky	NNFS2-----A----	Adv
+
+ln94204-70-p2s1A
+1	Ústí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Orlicí	NNFS7-----A----	Atr
+4	(	Z:-------------	ExD
+5	jop	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+ln94204-70-p2s1B
+1	Od	RR--2----------	AuxP
+2	včerejška	NNIS2-----A----	Adv
+3	je	VB-S---3P-AA---	AuxV
+4	stíhán	VsYS---XX-AP---	Pred
+5	pro	RR--4----------	AuxP
+6	krádež	NNFS4-----A----	Adv
+7	osmadvacetiletý	AAMS1----1A----	Atr
+8	R	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	H	NNMXX-----A---8	Sb
+11	.	Z:-------------	AuxG
+12	z	RR--2----------	AuxP
+13	Hodonína	NNIS2-----A----	Atr
+14	,	Z:-------------	Apos
+15	řidič	NNMS1-----A----	Sb
+16	autobusu	NNIS2-----A----	Atr
+17	jedné	ClFS2----------	Atr
+18	cestovní	AAFS2----1A----	Atr
+19	kanceláře	NNFS2-----A----	AtrAtr
+20	z	RR--2----------	AuxP
+21	Vysokého	AANS2----1A----	Atr
+22	Mýta	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94204-70-p2s2
+1	25	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	srpna	NNIS2-----A----	Adv
+4	v	RR--6----------	AuxP
+5	bezprostřední	AAFS6----1A----	Atr
+6	blízkosti	NNFS6-----A----	Adv
+7	Eiffelovy	AUFS2M---------	Atr
+8	věže	NNFS2-----A----	Atr
+9	,	Z:-------------	Coord
+10	v	RR--6----------	AuxP
+11	době	NNFS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	kdy	Db-------------	Adv
+14	turisté	NNMP1-----A----	Sb
+15	obdivovali	VpMP---XR-AA---	Atr
+16	krásy	NNFP4-----A----	Obj
+17	Paříže	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	prohledal	VpYS---XR-AA---	Pred
+20	jejich	PSXXXXP3-------	Atr
+21	osobní	AAFP4----1A----	Atr
+22	věci	NNFP4-----A----	Obj
+23	v	RR--6----------	AuxP
+24	autobuse	NNIS6-----A----	AtrAdv
+25	,	Z:-------------	AuxX
+26	v	RR--6----------	AuxP
+27	němž	P9ZS6----------	Adv
+28	na	RR--4----------	AuxP
+29	ně	P5XP4--3-------	Obj
+30	čekal	VpYS---XR-AA---	Atr
+31	.	Z:-------------	AuxK
+
+ln94204-70-p2s3
+1	Prohlídka	NNFS1-----A----	Sb
+2	mu	PHZS3--3-------	Adv
+3	vynesla	VpQW---XR-AA---	Pred
+4	33000	C=-------------	Obj
+5	korun	NNFP2-----A----	Atr
+6	a	J^-------------	Coord
+7	100	C=-------------	Obj
+8	franků	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94204-70-p2s4
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	opravdu	Db-------------	Adv
+4	zajímavý	AAIS1----1A----	Atr
+5	případ	NNIS1-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	neboť	J^-------------	Coord
+8	motiv	NNIS1-----A----	Sb
+9	zatím	Db-------------	Adv
+10	bezúhonného	AAMS2----1A----	Atr
+11	řidiče	NNMS2-----A----	Atr
+12	není	VB-S---3P-NA---	Pred
+13	znám	ACYS------A----	Pnom
+14	.	Z:-------------	AuxK
+
+ln94204-70-p2s5
+1	Jde	VB-S---3P-AA---	Obj
+2	o	RR--4----------	AuxP
+3	vyšší	AAFS4----2A----	Atr
+4	krádež	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	takže	J,-------------	AuxC
+7	zloděj	NNMS1-----A----	Sb
+8	může	VB-S---3P-AA---	Adv
+9	být	Vf--------A----	AuxV
+10	odsouzen	VsYS---XX-AP---	Obj
+11	k	RR--3----------	AuxP
+12	trestu	NNIS3-----A----	Obj
+13	odnětí	NNNS2-----A----	Atr
+14	svobody	NNFS2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	rozmezí	NNNS6-----A----	Atr
+17	od	RR--2----------	AuxP
+18	šesti	Cn-P2----------	Atr
+19	měsíců	NNIP2-----A----	Atr
+20	do	RR--2----------	AuxP
+21	tří	ClXP2----------	Atr
+22	let	NNNP2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	řekl	VpYS---XR-AA---	Pred
+25	včera	Db-------------	Adv
+26	zpravodaji	NNMS3-----A----	Obj
+27	LN	NNFPX-----A---8	Atr
+28	tiskový	AAMS1----1A----	Atr
+29	mluvčí	NNMS1-----A----	Atr
+30	Okresního	AANS2----1A----	Atr
+31	ředitelství	NNNS2-----A----	Atr
+32	policie	NNFS2-----A----	Atr
+33	v	RR--6----------	AuxP
+34	Ústí	NNNS6-----A----	Atr
+35	nad	RR--7----------	AuxP
+36	Orlicí	NNFS7-----A----	Atr
+37	Karel	NNMS1-----A----	Atr
+38	Hampl	NNMS1-----A----	Sb
+39	.	Z:-------------	AuxK
+

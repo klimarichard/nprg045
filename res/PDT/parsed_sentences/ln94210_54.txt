@@ -1,0 +1,411 @@
+ln94210-54-p1s1
+1	Populační	AAFS1----1A----	Atr
+2	politika	NNFS1-----A----	Sb
+3	státu	NNIS2-----A----	Atr
+4	nespočívá	VB-S---3P-NA---	Pred
+5	v	RR--6----------	AuxP
+6	odměňování	NNNS6-----A----	Obj
+7	žen	NNFP2-----A----	Atr
+8	za	RR--4----------	AuxP
+9	narození	NNNS4-----A----	Atr
+10	dětí	NNFP2-----A----	Atr
+
+ln94210-54-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	haš	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	em	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94210-54-p2s1B
+1	Problémy	NNIP4-----A----	Obj
+2	s	RR--7----------	AuxP
+3	vysokou	AAFS7----1A----	Atr
+4	porodností	NNFS7-----A----	Atr
+5	,	Z:-------------	AuxX
+6	které	P4IP1----------	Obj
+7	se	P7-X4----------	AuxR
+8	řeší	VB-P---3P-AA---	Atr
+9	v	RR--6----------	AuxP
+10	těchto	PDXP6----------	Atr
+11	dnech	NNIP6-----A----	Adv
+12	na	RR--6----------	AuxP
+13	káhirské	AAFS6----1A----	Atr
+14	konferenci	NNFS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	Česká	AAFS1----1A----	Atr
+17	republika	NNFS1-----A----	Sb
+18	nemá	VB-S---3P-NA---	Pred
+19	.	Z:-------------	AuxK
+
+ln94210-54-p2s2
+1	Předpokládá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	naopak	Db-------------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	příštím	AANS6----1A----	Atr
+8	tisíciletí	NNNS6-----A----	Adv
+9	se	P7-X4----------	AuxT
+10	bude	VB-S---3F-AA---	AuxV
+11	přirozená	AAFS1----1A----	Atr
+12	reprodukce	NNFS1-----A----	Sb
+13	jejích	PSXP2FS3-------	Atr
+14	obyvatel	NNMS1-----A----	Atr
+15	pohybovat	Vf--------A----	Sb
+16	v	RR--6----------	AuxP
+17	záporných	AANP6----1A----	Atr
+18	číslech	NNNP6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln94210-54-p2s3
+1	Neměl	VpYS---XR-NA---	Pred
+2	by	Vc-------------	AuxV
+3	tedy	Db-------------	AuxY
+4	stát	NNIS1-----A----	Sb
+5	zavést	Vf--------A----	Obj
+6	některá	PZNP4----------	Atr
+7	propopulační	AANP4----1A----	Atr
+8	opatření	NNNP4-----A----	Obj
+9	?	Z:-------------	AuxK
+
+ln94210-54-p3s1
+1	Ministr	NNMS1-----A----	Atr
+2	práce	NNFS2-----A----	Atr
+3	a	J^-------------	Coord
+4	sociálních	AAFP2----1A----	Atr
+5	věcí	NNFP2-----A----	Atr
+6	Jindřich	NNMS1-----A----	Atr
+7	Vodička	NNMS1-----A----	Sb
+8	(	Z:-------------	ExD
+9	ODS	NNFXX-----A---8	ExD
+10	)	Z:-------------	ExD
+11	si	P7-X3----------	AuxT
+12	myslí	VB-S---3P-AA---	Pred
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	propopulační	AAFS1----1A----	Atr
+16	politika	NNFS1-----A----	Sb
+17	státu	NNIS2-----A----	Atr
+18	musí	VB-S---3P-AA---	Obj
+19	být	Vf--------A----	Obj
+20	dlouhodobá	AAFS1----1A----	Pnom
+21	,	Z:-------------	Coord
+22	zaměřená	AAFS1----1A----	Pnom
+23	na	RR--4----------	AuxP
+24	obnovu	NNFS4-----A----	Obj
+25	smyslu	NNIS2-----A----	Atr
+26	rodiny	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94210-54-p3s2
+1	Stát	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	něho	P5ZS2--3------1	Adv
+6	především	Db-------------	AuxZ
+7	garantovat	Vf--------A----	Obj
+8	základní	AAFP4----1A----	Atr
+9	jistoty	NNFP4-----A----	Obj
+10	týkající	AGFP4-----A----	Atr
+11	se	P7-X4----------	AuxT
+12	majetkových	AANP2----1A----	Atr
+13	práv	NNNP2-----A----	Obj
+14	a	J^-------------	Coord
+15	demokracie	NNFS2-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94210-54-p3s3
+1	Stejně	Dg-------1A----	Adv
+2	,	Z:-------------	AuxX
+3	jako	J,-------------	AuxC
+4	by	Vc-------------	AuxV
+5	stát	NNIS1-----A----	Sb
+6	mohl	VpYS---XR-AA---	Adv
+7	rychle	Dg-------1A----	Adv
+8	ovlivnit	Vf--------A----	Obj
+9	porodnost	NNFS4-----A----	Obj
+10	negativně	Dg-------1A----	Adv
+11	,	Z:-------------	AuxX
+12	tj	J^------------8	Apos
+13	.	Z:-------------	AuxG
+14	snížit	Vf--------A----	Obj
+15	porodnost	NNFS4-----A----	Obj
+16	liberalizací	NNFS7-----A----	Adv
+17	potratů	NNIP2-----A----	Atr
+18	a	J^-------------	Coord
+19	masovou	AAFS7----1A----	Atr
+20	antikoncepční	AAFS7----1A----	Atr
+21	kampaní	NNFS7-----A----	Adv
+22	,	Z:-------------	AuxX
+23	mohl	VpYS---XR-AA---	Pred
+24	by	Vc-------------	AuxV
+25	tak	Db-------------	Adv
+26	podle	RR--2----------	AuxP
+27	Vodičky	NNMS2-----A----	Adv
+28	rychle	Dg-------1A----	Adv
+29	učinit	Vf--------A----	Obj
+30	i	J^-------------	AuxZ
+31	v	RR--6----------	AuxP
+32	pozitivním	AAIS6----1A----	Atr
+33	smyslu	NNIS6-----A----	Adv
+34	.	Z:-------------	AuxK
+
+ln94210-54-p3s4
+1	Nechceme	VB-P---1P-NA---	Obj
+2	však	J^-------------	Coord
+3	jít	Vf--------A----	Obj
+4	cestou	NNFS7-----A----	Adv
+5	masového	AANS2----1A----	Atr
+6	odměňování	NNNS2-----A----	Atr
+7	žen	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP1----------	Sb
+10	by	Vc-------------	AuxV
+11	porodily	VpTP---XR-AA---	Atr
+12	v	RR--6----------	AuxP
+13	příštím	AAIS6----1A----	Atr
+14	roce	NNIS6-----A---1	Adv
+15	děcko	NNNS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	zdůraznil	VpYS---XR-AA---	Pred
+18	.	Z:-------------	AuxK
+
+ln94210-54-p3s5
+1	Většina	NNFS1-----A----	Sb
+2	západoevropských	AAIP2----1A----	Atr
+3	států	NNIP2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	prý	TT-------------	AuxY
+6	obává	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	jiná	AAFS1----1A----	Atr
+10	populace	NNFS1-----A----	Sb
+11	v	RR--6----------	AuxP
+12	jejich	PSXXXXP3-------	Atr
+13	zemích	NNFP6-----A----	Adv
+14	přeroste	VB-S---3P-AA---	Obj
+15	nad	RR--7----------	AuxP
+16	populací	NNFS7-----A----	Adv
+17	původní	AAFS7----1A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-54-p3s6
+1	Vodička	NNMS1-----A----	Sb
+2	však	J^-------------	Coord
+3	soudí	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	tak	Db-------------	Adv
+7	se	P7-X4----------	AuxT
+8	vyvíjí	VB-S---3P-AA---	Obj
+9	svět	NNIS1-----A----	Sb
+10	a	J^-------------	Coord
+11	nelze	VB-S---3P-NA---	Obj
+12	do	RR--2----------	AuxP
+13	toho	PDZS2----------	Adv
+14	vnášet	Vf--------A----	Sb
+15	jakoukoli	PZFS4---------1	Atr
+16	regulaci	NNFS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln94210-54-p3s7
+1	Naši	PSMP1-P1-------	Atr
+2	občané	NNMP1-----A----	Sb
+3	dnes	Db-------------	Adv
+4	pobírají	VB-P---3P-AA---	Obj
+5	na	RR--4----------	AuxP
+6	šedesát	Cn-S4----------	Obj
+7	druhů	NNIP2-----A----	Atr
+8	sociálních	AAFP2----1A----	Atr
+9	dávek	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	připomněl	VpYS---XR-AA---	Pred
+12	ministr	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94210-54-p4s1
+1	Spíše	Dg-------2A---1	Adv
+2	než	J,-------------	AuxC
+3	v	RR--6----------	AuxP
+4	přímých	AANP6----1A----	Atr
+5	propopulačních	AANP6----1A----	Atr
+6	opatřeních	NNNP6-----A----	ExD
+7	vidí	VB-S---3P-AA---	Pred
+8	místopředsedkyně	NNFS1-----A----	Atr
+9	ČSSD	NNFXX-----A---8	Atr
+10	Petra	NNFS1-----A----	Atr
+11	Buzková	NNFS1-----A----	Sb
+12	úkol	NNIS4-----A----	Obj
+13	státu	NNIS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	tom	PDZS6----------	Adv
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	vytvoří	VB-S---3P-AA---	Atr
+19	soubor	NNIS4-----A----	Obj
+20	podmínek	NNFP2-----A----	Atr
+21	pro	RR--4----------	AuxP
+22	mladé	AAFP4----1A----	Atr
+23	rodiny	NNFP4-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94210-54-p4s2
+1	Mladí	AAMP1----1A----	Atr
+2	lidé	NNMP1-----A---1	Sb
+3	nesmějí	VB-P---3P-NA---	Pred
+4	mít	Vf--------A----	Obj
+5	obavy	NNFP4-----A----	Obj
+6	přivádět	Vf--------A----	Atr
+7	děti	NNFP4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	svět	NNIS4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94210-54-p4s3
+1	Špatná	AAFS1----1A----	Atr
+2	ekonomická	AAFS1----1A----	Atr
+3	situace	NNFS1-----A----	Sb
+4	po	RR--6----------	AuxP
+5	ukončení	NNNS6-----A----	Atr
+6	škol	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	studií	NNFP2-----A----	Atr
+9	je	PPXP4--3-------	Obj
+10	k	RR--3----------	AuxP
+11	tomu	PDZS3----------	Obj
+12	podle	RR--2----------	AuxP
+13	jejího	PSZS2FS3-------	Atr
+14	názoru	NNIS2-----A----	Adv
+15	bude	VB-S---3F-AA---	AuxV
+16	těžko	Db-------------	Adv
+17	stimulovat	Vf--------A----	Pred
+18	.	Z:-------------	AuxK
+
+ln94210-54-p4s4
+1	Také	Db-------------	Adv
+2	nepomohou	VB-P---3P-NA--1	Pred
+3	jednotlivé	AAFP1----1A----	Atr
+4	dávky	NNFP1-----A----	Sb
+5	či	J^-------------	Coord
+6	přídavky	NNIP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	nemá	VB-S---3P-NA---	Adv
+9	-	Z:-------------	AuxG
+10	li	TT-------------	AuxC
+11	rodina	NNFS1-----A----	Sb
+12	kde	Db-------------	Adv
+13	bydlet	Vf--------A----	Obj
+14	,	Z:-------------	AuxX
+15	nemá	VB-S---3P-NA---	Adv
+16	-	Z:-------------	AuxG
+17	li	TT-------------	AuxC
+18	pocit	NNIS4-----A----	Obj
+19	bezpečí	NNNS2-----A----	Atr
+20	apod	Db------------8	Coord
+21	.	Z:-------------	AuxG
+
+ln94210-54-p4s5
+1	Takže	J,-------------	AuxC
+2	nevytrhovat	Vf--------N----	ExD
+3	podporu	NNFS4-----A----	Obj
+4	mladým	AAFP3----1A----	Atr
+5	rodinám	NNFP3-----A----	Atr
+6	z	RR--2----------	AuxP
+7	celkového	AAIS2----1A----	Atr
+8	kontextu	NNIS2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	vytvořit	Vf--------A----	ExD
+12	takové	PDNS4----------	Atr
+13	společenské	AANS4----1A----	Atr
+14	klima	NNNS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	aby	J,-------------	AuxC
+17	prostě	Dg-------1A----	AuxY
+18	lidé	NNMP1-----A---1	Sb
+19	chtěli	VpMP---XR-AA---	Atr
+20	děti	NNFP4-----A----	Obj
+21	,	Z:-------------	Coord
+22	shrnuje	VB-S---3P-AA---	Pred
+23	Buzková	NNFS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln94210-54-p5s1
+1	Program	NNIS4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	podporu	NNFS4-----A----	Atr
+4	rodin	NNFP2-----A----	Atr
+5	s	RR--7----------	AuxP
+6	více	Dg-------2A----	Atr
+7	dětmi	NNFP7-----A----	Atr
+8	hodlá	VB-S---3P-AA---	Pred
+9	předložit	Vf--------A----	Obj
+10	Křesťanskodemokratická	AAFS1----1A----	Atr
+11	strana	NNFS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94210-54-p5s2
+1	Její	PSZS1FS3-------	Atr
+2	místopředseda	NNMS1-----A----	Atr
+3	Václav	NNMS1-----A----	Atr
+4	Benda	NNMS1-----A----	Sb
+5	považuje	VB-S---3P-AA---	Pred
+6	tuto	PDFS4----------	Atr
+7	skupinu	NNFS4-----A----	Obj
+8	obyvatelstva	NNNS2-----A----	Atr
+9	za	RR--4----------	AuxP
+10	ekonomicky	Dg-------1A----	Adv
+11	nejohroženější	AAFS4----3A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94210-54-p5s3
+1	V	RR--6----------	AuxP
+2	rámci	NNIS6-----A----	AuxP
+3	propopulačních	AANP2----1A----	Atr
+4	opatření	NNNP2-----A----	Adv
+5	navrhne	VB-S---3P-AA---	Pred
+6	KDS	NNFXX-----A---8	Sb
+7	systém	NNIS4-----A----	Obj
+8	nepřímých	AANP2----1N----	Atr
+9	zvýhodnění	NNNP2-----A----	Atr
+10	rodičů	NNMP2-----A----	Atr
+11	s	RR--7----------	AuxP
+12	více	Dg-------2A----	Atr
+13	dětmi	NNFP7-----A----	Atr
+14	,	Z:-------------	AuxX
+15	která	P4NP1----------	Sb
+16	nepůjdou	VB-P---3F-NA---	Atr
+17	do	RR--2----------	AuxP
+18	rukou	NNFP2-----A----	Adv
+19	adresátů	NNMP2-----A----	Atr
+20	přímo	Dg-------1A----	Adv
+21	a	J^-------------	Coord
+22	nebudou	VB-P---3F-NA---	Atr
+23	tudíž	J^-------------	Adv
+24	zneužitelné	AANP1----1A---6	Pnom
+25	sociálními	AAFP7----1A----	Atr
+26	skupinami	NNFP7-----A----	Obj
+27	navyklými	AAFP7----1A----	Atr
+28	žít	Vf--------A----	Obj
+29	z	RR--2----------	AuxP
+30	přídavků	NNIP2-----A----	Adv
+31	na	RR--4----------	AuxP
+32	děti	NNFP4-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94210-54-p5s4
+1	Měly	VpTP---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	patrně	Dg-------1A----	AuxY
+4	formu	NNFS4-----A----	Obj
+5	velké	AAFS2----1A----	Atr
+6	daňové	AAFS2----1A----	Atr
+7	úlevy	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+

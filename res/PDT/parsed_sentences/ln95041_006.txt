@@ -1,0 +1,102 @@
+ln95041-006-p1s1
+1	Rakouští	AAMP1----1A----	Atr
+2	zemědělci	NNMP1-----A----	Sb
+3	obdrží	VB-P---3P-AA---	Pred
+4	od	RR--2----------	AuxP
+5	EU	NNFXX-----A---8	Obj
+6	příspěvek	NNIS4-----A----	Obj
+
+ln95041-006-p2s1A
+1	Vídeň	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-006-p2s1B
+1	Evropská	AAFS1----1A----	Atr
+2	komise	NNFS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Bruselu	NNIS6-----A----	Adv
+5	oficiálně	Dg-------1A----	Adv
+6	potvrdila	VpQW---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	rakouští	AAMP1----1A----	Atr
+10	zemědělci	NNMP1-----A----	Sb
+11	obdrží	VB-P---3P-AA---	Obj
+12	v	RR--6----------	AuxP
+13	letech	NNNP6-----A----	Adv
+14	1995	C=-------------	Atr
+15	až	J^-------------	Coord
+16	1999	C=-------------	Atr
+17	vyrovnávací	AAIP4----1A----	Atr
+18	příspěvky	NNIP4-----A----	Obj
+19	v	RR--6----------	AuxP
+20	celkové	AAFS6----1A----	Atr
+21	výši	NNFS6-----A----	Atr
+22	15.95	C=-------------	Atr
+23	miliardy	NNFS2-----A----	Atr
+24	ATS	NNIXX-----A---8	Atr
+25	.	Z:-------------	AuxK
+
+ln95041-006-p2s2
+1	Oznámilo	VpNS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	ve	RV--4----------	AuxP
+4	čtvrtek	NNIS4-----A----	Adv
+5	rakouské	AANS1----1A----	Atr
+6	Agrární	AANS1----1A----	Atr
+7	informační	AANS1----1A----	Atr
+8	centrum	NNNS1-----A----	Sb
+9	(	Z:-------------	Apos
+10	AIZ	NNNXX-----A---8	Sb
+11	)	Z:-------------	AuxG
+12	.	Z:-------------	AuxK
+
+ln95041-006-p2s3
+1	V	RR--6----------	AuxP
+2	letošním	AAIS6----1A----	Atr
+3	roce	NNIS6-----A---1	Adv
+4	bude	VB-S---3F-AA---	AuxV
+5	příspěvek	NNIS1-----A----	Sb
+6	činit	Vf--------A----	Pred
+7	7.25	C=-------------	Obj
+8	miliardy	NNFS2-----A----	Atr
+9	ATS	NNIXX-----A---8	Atr
+10	,	Z:-------------	AuxX
+11	v	RR--6----------	AuxP
+12	příštím	AAIS6----1A----	Atr
+13	roce	NNIS6-----A---1	ExD
+14	4.71	C=-------------	ExD
+15	miliardy	NNFS2-----A----	Atr
+16	ATS	NNIXX-----A---8	Atr
+17	,	Z:-------------	AuxX
+18	v	RR--6----------	AuxP
+19	roce	NNIS6-----A---1	Adv
+20	1997	C=-------------	Atr
+21	to	PDNS1----------	Sb
+22	bude	VB-S---3F-AA---	Pred
+23	2.9	C=-------------	Pnom
+24	miliardy	NNFS2-----A----	Atr
+25	ATS	NNIXX-----A---8	Atr
+26	a	J^-------------	Coord
+27	v	RR--6----------	AuxP
+28	roce	NNIS6-----A---1	ExD
+29	1998	C=-------------	Atr
+30	1.09	C=-------------	ExD
+31	miliardy	NNFS2-----A----	Atr
+32	ATS	NNIXX-----A---8	Atr
+33	.	Z:-------------	AuxK
+
+ln95041-006-p2s4
+1	Dotovat	Vf--------A----	Pred
+2	se	P7-X4----------	AuxR
+3	bude	VB-S---3F-AA---	AuxV
+4	hlavně	Dg-------1A----	AuxZ
+5	chov	NNIS1-----A----	Sb
+6	prasat	NNNP2-----A----	Atr
+7	a	J^-------------	Coord
+8	pěstování	NNNS1-----A----	Sb
+9	brambor	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	obilovin	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+

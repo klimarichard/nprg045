@@ -1,0 +1,310 @@
+vesm9212-006-p1s1
+1	RNDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Jaroslav	NNMS1-----A----	Atr
+4	Brouček	NNMS1-----A----	ExD
+
+vesm9212-006-p2s1
+1	RNDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Milan	NNMS1-----A----	Atr
+4	Mareš	NNMS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	DrSc	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	(	Z:-------------	ExD
+9	*	Z:-------------	AuxG
+10	1943	C=-------------	ExD
+11	)	Z:-------------	ExD
+12	vystudoval	VpYS---XR-AA---	Pred
+13	matematicko	A2--------A----	Atr
+14	-	Z:-------------	Coord
+15	fyzikální	AAFS4----1A----	Atr
+16	fakultu	NNFS4-----A----	Obj
+17	UK	NNFXX-----A---8	Atr
+18	v	RR--6----------	AuxP
+19	Praze	NNFS6-----A----	AtrAdv
+20	.	Z:-------------	AuxK
+
+vesm9212-006-p2s3
+1	V	RR--6----------	AuxP
+2	Ústavu	NNIS6-----A---1	Adv
+3	teorie	NNFS2-----A----	Atr
+4	informace	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	automatizace	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Praze	NNFS6-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	zabývá	VB-S---3P-AA---	Pred
+11	teorií	NNFS7-----A----	Obj
+12	rozhodování	NNNS2-----A----	Atr
+13	a	J^-------------	Coord
+14	teorií	NNFS7-----A----	Obj
+15	fuzzy	AAXXX----1A----	Atr
+16	množin	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9212-006-p3s1
+1	RNDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Ivan	NNMS1-----A----	Atr
+4	Dvořák	NNMS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	CSc	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	(	Z:-------------	ExD
+9	*	Z:-------------	AuxG
+10	1950	C=-------------	ExD
+11	)	Z:-------------	ExD
+12	vystudoval	VpYS---XR-AA---	Pred
+13	biofyziku	NNFS4-----A----	Obj
+14	na	RR--6----------	AuxP
+15	MFF	NNFXX-----A---8	Adv
+16	UK	NNFXX-----A---8	Atr
+17	v	RR--6----------	AuxP
+18	Praze	NNFS6-----A----	AtrAdv
+19	.	Z:-------------	AuxK
+
+vesm9212-006-p3s3
+1	V	RR--6----------	AuxP
+2	Psychiatrickém	AANS6----1A----	Atr
+3	centru	NNNS6-----A----	Adv
+4	v	RR--6----------	AuxP
+5	Praze	NNFS6-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	zabýval	VpYS---XR-AA---	Pred
+8	aplikací	NNFS7-----A----	Obj
+9	deterministického	AAIS2----1A----	Atr
+10	chaosu	NNIS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	analýzu	NNFS4-----A----	AtrAdv
+13	EEG	NNNXX-----A---8	Atr
+14	.	Z:-------------	AuxK
+
+vesm9212-006-p3s4
+1	Nyní	Db-------------	Adv
+2	má	VB-S---3P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	starosti	NNFP4-----A----	Adv
+5	management	NNIS4-----A----	Obj
+6	firmy	NNFS2-----A----	Atr
+7	T	NNFXX-----A---8	Atr
+8	602	C=-------------	Atr
+9	.	Z:-------------	AuxK
+
+vesm9212-006-p4s1
+1	PhDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Jiří	NNMS1-----A----	Atr
+4	Wackermann	NNMS1-----A----	Sb
+5	(	Z:-------------	ExD
+6	*	Z:-------------	AuxG
+7	1953	C=-------------	ExD
+8	)	Z:-------------	ExD
+9	vystudoval	VpYS---XR-AA---	Pred
+10	psychologii	NNFS4-----A----	Obj
+11	na	RR--6----------	AuxP
+12	FF	NNFXX-----A---8	Adv
+13	UK	NNFXX-----A---8	Atr
+14	v	RR--6----------	AuxP
+15	Praze	NNFS6-----A----	AtrAdv
+16	.	Z:-------------	AuxK
+
+vesm9212-006-p4s2
+1	V	RR--6----------	AuxP
+2	Psychiatrickém	AANS6----1A----	Atr
+3	centru	NNNS6-----A----	Adv
+4	v	RR--6----------	AuxP
+5	Praze	NNFS6-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	zabýval	VpYS---XR-AA---	Pred
+8	aplikací	NNFS7-----A----	Obj
+9	deterministického	AAIS2----1A----	Atr
+10	chaosu	NNIS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	analýzu	NNFS4-----A----	AtrAdv
+13	EEG	NNNXX-----A---8	Atr
+14	.	Z:-------------	AuxK
+
+vesm9212-006-p4s3
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	pracuje	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	Laboratoři	NNFS6-----A----	Adv
+7	D	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Lehmana	NNMS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	univerzitě	NNFS6-----A----	AtrAdv
+12	v	RR--6----------	AuxP
+13	Zürichu	NNIS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+vesm9212-006-p5s1
+1	RNDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Milan	NNMS1-----A----	Atr
+4	Paluš	NNMS1-----A----	Sb
+5	(	Z:-------------	ExD
+6	*	Z:-------------	AuxG
+7	1963	C=-------------	ExD
+8	)	Z:-------------	ExD
+9	vystudoval	VpYS---XR-AA---	Pred
+10	MFF	NNFXX-----A---8	Obj
+11	UK	NNFXX-----A---8	Atr
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	AtrAdv
+14	.	Z:-------------	AuxK
+
+vesm9212-006-p5s2
+1	V	RR--6----------	AuxP
+2	Psychiatrickém	AANS6----1A----	Atr
+3	centru	NNNS6-----A----	Adv
+4	v	RR--6----------	AuxP
+5	Praze	NNFS6-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	zabýval	VpYS---XR-AA---	Pred
+8	aplikací	NNFS7-----A----	Obj
+9	deterministického	AAIS2----1A----	Atr
+10	chaosu	NNIS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	analýzu	NNFS4-----A----	AtrAdv
+13	EEG	NNNXX-----A---8	Atr
+14	.	Z:-------------	AuxK
+
+vesm9212-006-p5s3
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	na	RR--6----------	AuxP
+6	studijním	AAIS6----1A----	Atr
+7	pobytu	NNIS6-----A---1	Adv
+8	na	RR--6----------	AuxP
+9	Beckmanově	AUIS6M---------	Atr
+10	institutu	NNIS6-----A----	AtrAdv
+11	v	RR--6----------	AuxP
+12	USA	NNIPX-----A----	AtrAdv
+13	.	Z:-------------	AuxK
+
+vesm9212-006-p6s1
+1	RNDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Gabriel	NNMS1-----A----	Atr
+4	Hocman	NNMS1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	CSc	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	(	Z:-------------	ExD
+9	*	Z:-------------	AuxG
+10	1936	C=-------------	ExD
+11	)	Z:-------------	ExD
+12	,	Z:-------------	AuxX
+13	viz	Vi-S---2--A---1	ExD
+14	Vesmír	NNIS4-----A----	Obj
+15	71	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	216	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	1992	C=-------------	Atr
+
+vesm9212-006-p7s1
+1	Doc	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	RNDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Ivan	NNMS1-----A----	Atr
+6	Hrdý	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	DrSc	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	(	Z:-------------	ExD
+11	*	Z:-------------	AuxG
+12	1928	C=-------------	ExD
+13	)	Z:-------------	ExD
+14	studoval	VpYS---XR-AA---	Pred
+15	na	RR--6----------	AuxP
+16	Palackého	NNMS2-----A----	Atr
+17	Univerzitě	NNFS6-----A----	Adv
+18	v	RR--6----------	AuxP
+19	Olomouci	NNFS6-----A----	Atr
+20	a	J^-------------	Coord
+21	na	RR--6----------	AuxP
+22	Přírodovědecké	AAFS6----1A----	Atr
+23	fakultě	NNFS6-----A----	Adv
+24	UK	NNFXX-----A---8	Atr
+25	v	RR--6----------	AuxP
+26	Praze	NNFS6-----A----	Atr
+27	.	Z:-------------	AuxK
+
+vesm9212-006-p7s2
+1	V	RR--6----------	AuxP
+2	Laboratoři	NNFS6-----A----	Adv
+3	chemické	AAFS2----1A----	Atr
+4	ekologie	NNFS2-----A----	Atr
+5	hmyzu	NNIS2-----A----	Atr
+6	Ústavu	NNIS2-----A----	Atr
+7	organické	AAFS2----1A----	Atr
+8	chemie	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	biochemie	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Praze	NNFS6-----A----	Atr
+13	se	P7-X4----------	AuxT
+14	zabývá	VB-S---3P-AA---	Pred
+15	experimentální	AAFS7----1A----	Atr
+16	a	J^-------------	Coord
+17	užitou	AAFS7----1A----	Atr
+18	entomologií	NNFS7-----A----	Obj
+19	.	Z:-------------	AuxK
+
+vesm9212-006-p8s1
+1	RNDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Jiří	NNMS1-----A----	Atr
+4	Kvaček	NNMS1-----A----	Sb
+5	(	Z:-------------	ExD
+6	*	Z:-------------	AuxG
+7	1963	C=-------------	ExD
+8	)	Z:-------------	ExD
+9	vystudoval	VpYS---XR-AA---	Pred
+10	geologii	NNFS4-----A----	Obj
+11	na	RR--6----------	AuxP
+12	PřF	NNFXX-----A---8	Adv
+13	UK	NNFXX-----A---8	Atr
+14	v	RR--6----------	AuxP
+15	Praze	NNFS6-----A----	AtrAdv
+16	.	Z:-------------	AuxK
+
+vesm9212-006-p8s2
+1	V	RR--6----------	AuxP
+2	Paleontologickém	AANS6----1A----	Atr
+3	oddělení	NNNS6-----A----	Adv
+4	Národního	AANS2----1A----	Atr
+5	muzea	NNNS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	AtrAtr
+8	se	P7-X4----------	AuxT
+9	zabývá	VB-S---3P-AA---	Pred
+10	paleobotanikou	NNFS7-----A----	Obj
+11	,	Z:-------------	Apos
+12	především	Db-------------	AuxZ
+13	křídovou	AAFS7----1A----	Atr
+14	květenou	NNFS7-----A----	Obj
+15	.	Z:-------------	AuxK
+
+vesm9212-006-p9s1
+1	Robert	NNMS1-----A----	Atr
+2	P	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Crease	NNMS1-----A----	ExD
+
+vesm9212-006-p10s1
+1	Charles	NNMS1-----A----	Atr
+2	C	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Mann	NNMS1-----A----	ExD
+

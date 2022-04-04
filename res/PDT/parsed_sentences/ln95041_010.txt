@@ -1,0 +1,190 @@
+ln95041-010-p1s1
+1	Financování	NNNS1-----A----	Sb
+2	letiště	NNNS2-----A----	Atr
+3	se	P7-X4----------	AuxR
+4	mění	VB-S---3P-AA---	Pred
+
+ln95041-010-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-010-p2s1B
+1	Model	NNIS1-----A----	Sb
+2	financování	NNNS2-----A----	Atr
+3	nového	AAIS2----1A----	Atr
+4	pražského	AAIS2----1A----	Atr
+5	letištního	AAIS2----1A----	Atr
+6	terminálu	NNIS2-----A----	Atr
+7	bude	VB-S---3F-AA---	AuxV
+8	příští	AAIS4----1A----	Atr
+9	týden	NNIS4-----A----	Adv
+10	projednáván	VsYS---XX-AP---	Pred
+11	na	RR--6----------	AuxP
+12	ministerstvu	NNNS6-----A----	Adv
+13	dopravy	NNFS2-----A----	Atr
+14	a	J^-------------	Coord
+15	následně	Dg-------1A----	Adv
+16	pak	Db-------------	Adv
+17	předložen	VsYS---XX-AP---	Pred
+18	vládě	NNFS3-----A----	Obj
+19	ČR	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+ln95041-010-p2s2
+1	Pro	RR--4----------	AuxP
+2	LN	NNFPX-----A---8	Adv
+3	to	PDNS4----------	Obj
+4	včera	Db-------------	Adv
+5	uvedl	VpYS---XR-AA---	Pred
+6	mluvčí	NNMS1-----A----	Sb
+7	ministerstva	NNNS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95041-010-p3s1
+1	Podle	RR--2----------	AuxP
+2	tiskového	AAMS2----1A----	Atr
+3	mluvčího	NNMS2-----A----	Adv
+4	České	AAFS2----1A----	Atr
+5	správy	NNFS2-----A----	Atr
+6	letišť	NNNP2-----A----	Atr
+7	probíhají	VB-P---3P-AA---	Pred
+8	v	RR--6----------	AuxP
+9	současné	AAFS6----1A----	Atr
+10	době	NNFS6-----A----	Adv
+11	na	RR--6----------	AuxP
+12	ministerstvu	NNNS6-----A----	Adv
+13	dopravy	NNFS2-----A----	Atr
+14	jednání	NNNP1-----A----	Sb
+15	o	RR--6----------	AuxP
+16	transformaci	NNFS6-----A----	Atr
+17	České	AAFS2----1A----	Atr
+18	správy	NNFS2-----A----	Atr
+19	letišť	NNNP2-----A----	Atr
+20	z	RR--2----------	AuxP
+21	příspěvkové	AAFS2----1A----	Atr
+22	organizace	NNFS2-----A----	Atr
+23	na	RR--4----------	AuxP
+24	státní	AAIS4----1A----	Atr
+25	podnik	NNIS4-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95041-010-p4s1
+1	Původně	Dg-------1A----	Adv
+2	měla	VpQW---XR-AA---	Pred
+3	být	Vf--------A----	AuxV
+4	výstavba	NNFS1-----A----	Sb
+5	zajišťována	VsQW---XX-AP---	Obj
+6	bez	RR--2----------	AuxP
+7	státních	AAFP2----1A----	Atr
+8	garancí	NNFP2-----A----	Adv
+9	společností	NNFS7-----A----	Atr
+10	PIAT	NNXXX-----A---8	Atr
+11	.	Z:-------------	AuxK
+
+ln95041-010-p4s2
+1	Tu	PDFS4----------	Obj
+2	tvořily	VpTP---XR-AA---	Pred
+3	Česká	AAFS1----1A----	Atr
+4	správa	NNFS1-----A----	Sb
+5	letišť	NNNP2-----A----	Atr
+6	a	J^-------------	Coord
+7	společnost	NNFS1-----A----	Sb
+8	PIADC	NNXXX-----A---8	Atr
+9	,	Z:-------------	AuxX
+10	sdružující	AGFS1-----A----	Atr
+11	firmy	NNFP4-----A----	Obj
+12	Bouygues	NNXXX-----A----	Atr
+13	,	Z:-------------	AuxX
+14	British	AAXXX----1A----	Atr
+15	Aerospace	NNIXX-----A----	Atr
+16	,	Z:-------------	AuxX
+17	Armbro	NNNS1-----A----	Atr
+18	,	Z:-------------	Coord
+19	Schiphol	NNIS1-----A----	Atr
+20	a	J^-------------	Coord
+21	Investiční	AAFS4----1A----	Atr
+22	a	J^-------------	Coord
+23	poštovní	AAFS4----1A----	Atr
+24	banku	NNFS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln95041-010-p5s1
+1	Zahraniční	AAFP1----1A----	Atr
+2	banky	NNFP1-----A----	Sb
+3	však	J^-------------	Coord
+4	nebyly	VpTP---XR-NA---	Pred
+5	ochotny	ACTP------A----	Pnom
+6	poskytnout	Vf--------A----	Obj
+7	PIAT	NNXXX-----A---8	Obj
+8	úvěry	NNIP4-----A----	Obj
+9	bez	RR--2----------	AuxP
+10	garancí	NNFP2-----A----	AtrAdv
+11	státu	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	navíc	Db-------------	Adv
+14	smlouva	NNFS1-----A----	Sb
+15	nezajišťovala	VpQW---XR-NA---	Pred
+16	další	AAIS4----1A----	Atr
+17	rozvoj	NNIS4-----A----	Obj
+18	letiště	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95041-010-p5s2
+1	Proto	J^-------------	Coord
+2	vláda	NNFS1-----A----	Sb
+3	koncem	NNIS7-----A----	AuxP
+4	loňského	AAIS2----1A----	Atr
+5	roku	NNIS2-----A---1	Adv
+6	rozhodla	VpQW---XR-AA--1	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	novým	AAMS7----1A----	Atr
+10	investorem	NNMS7-----A----	Obj
+11	i	J^-------------	Coord
+12	provozovatelem	NNMS7-----A----	Obj
+13	terminálu	NNIS2-----A----	Atr
+14	se	P7-X4----------	AuxT
+15	stává	VB-S---3P-AA---	Obj
+16	Česká	AAFS1----1A----	Atr
+17	správa	NNFS1-----A----	Sb
+18	letišť	NNNP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95041-010-p6s1
+1	Nový	AAIS1----1A----	Atr
+2	terminál	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Atr
+5	Ruzyni	NNFS6-----A----	Atr
+6	zvýší	VB-S---3P-AA---	Pred
+7	přepravní	AAFS4----1A----	Atr
+8	kapacitu	NNFS4-----A----	Obj
+9	letiště	NNNS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	4.8	C=-------------	Obj
+12	miliónu	NNIS2-----A----	Atr
+13	pasažérů	NNMP2-----A----	Atr
+14	ročně	Dg-------1A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95041-010-p6s2
+1	Náklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	výstavbu	NNFS4-----A----	Atr
+4	mají	VB-P---3P-AA---	Pred
+5	dosáhnout	Vf--------A----	Obj
+6	125	C=-------------	Atr
+7	miliónů	NNIP2-----A----	Obj
+8	dolarů	NNIP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	přičemž	J,-------------	Adv
+11	české	AAFP1----1A----	Atr
+12	firmy	NNFP1-----A----	Sb
+13	budou	VB-P---3F-AA---	AuxV
+14	zajišťovat	Vf--------A----	Pred
+15	70	C=-------------	Obj
+16	procent	NNNP2-----A----	Atr
+17	veškerých	PLXP2----------	Atr
+18	prací	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+

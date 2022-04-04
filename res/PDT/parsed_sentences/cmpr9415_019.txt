@@ -1,0 +1,147 @@
+cmpr9415-019-p2s1
+1	Číslo	NNNS1-----A----	ExD
+2	týdne	NNIS2-----A----	Atr
+
+cmpr9415-019-p3s1
+1	90	C=-------------	ExD
+2	%	Z:-------------	Atr
+
+cmpr9415-019-p4s1
+1	Za	RR--4----------	AuxP
+2	první	CrIP4----------	Atr
+3	tři	ClXP4----------	Atr
+4	měsíce	NNIP4-----A----	Adv
+5	letošního	AAIS2----1A----	Atr
+6	roku	NNIS2-----A---1	Atr
+7	proběhlo	VpNS---XR-AA--1	Pred
+8	90	C=-------------	Sb
+9	procent	NNNP2-----A----	Atr
+10	obchodů	NNIP2-----A----	Atr
+11	s	RR--7----------	AuxP
+12	cennými	AAIP7----1A----	Atr
+13	papíry	NNIP7-----A----	Atr
+14	mimo	RR--4----------	AuxP
+15	organizované	AAIP4----1A----	Atr
+16	trhy	NNIP4-----A----	Adv
+17	-	Z:-------------	Apos
+18	mimo	RR--4----------	AuxP
+19	burzu	NNFS4-----A----	Adv
+20	a	J^-------------	Coord
+21	RM	AAXXX----1A---8	Atr
+22	-	Z:-------------	AuxG
+23	Systém	NNIS4-----A----	Adv
+24	.	Z:-------------	AuxK
+
+cmpr9415-019-p4s2
+1	Na	RR--6----------	AuxP
+2	bankovním	AAIS6----1A----	Atr
+3	a	J^-------------	Coord
+4	finančním	AAIS6----1A----	Atr
+5	veletrhu	NNIS6-----A----	Adv
+6	Fibex	NNIS1-----A----	Atr
+7	94	C=-------------	Atr
+8	to	PDNS4----------	Obj
+9	uvedl	VpYS---XR-AA---	Pred
+10	Vladislav	NNMS1-----A----	Atr
+11	Pavlát	NNMS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	předseda	NNMS1-----A----	Atr
+14	výboru	NNIS2-----A----	Atr
+15	pro	RR--4----------	AuxP
+16	burzovní	AAIP4----1A----	Atr
+17	obchody	NNIP4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9415-019-p4s3
+1	Velcí	AAMP1----1A----	Atr
+2	investoři	NNMP1-----A----	Sb
+3	obchodují	VB-P---3P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	akciemi	NNFP7-----A----	Adv
+6	přímo	Dg-------1A----	Adv
+7	na	RR--6----------	AuxP
+8	přepážce	NNFS6-----A----	Adv
+9	Střediska	NNNS2-----A----	Atr
+10	cenných	AAIP2----1A----	Atr
+11	papírů	NNIP2-----A----	Atr
+12	a	J^-------------	Coord
+13	není	VB-S---3P-NA---	Pred
+14	výjimečnou	AAFS7----1A----	Atr
+15	věcí	NNFS7-----A----	Pnom
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	se	P7-X4----------	AuxR
+19	hned	Db-------------	Adv
+20	na	RR--6----------	AuxP
+21	místě	NNNS6-----A----	Adv
+22	platí	VB-P---3P-AA---	Sb
+23	milionové	AAFP1----1A----	Atr
+24	částky	NNFP1-----A----	Sb
+25	,	Z:-------------	AuxX
+26	které	P4FP4----------	Obj
+27	obchodníci	NNMP1-----A----	Sb
+28	přinesou	VB-P---3P-AA---	Atr
+29	sebou	P6-X7----------	Adv
+30	v	RR--6----------	AuxP
+31	kufříku	NNIS6-----A----	Adv
+32	.	Z:-------------	AuxK
+
+cmpr9415-019-p4s4
+1	K	RR--3----------	AuxP
+2	českému	AAIS3----1A----	Atr
+3	mimoburzovnímu	AAIS3----1A----	Atr
+4	trhu	NNIS3-----A----	Adv
+5	se	P7-X4----------	AuxR
+6	přidává	VB-S---3P-AA---	Pred
+7	i	J^-------------	AuxZ
+8	rakouský	AAIS1----1A----	ExD
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	je	VB-S---3P-AA---	ExD
+12	údajně	Dg-------1A----	Adv
+13	dvakrát	Cv-------------	Adv
+14	až	J^-------------	Coord
+15	třikrát	Cv-------------	Adv
+16	větší	AAIS1----2A----	Pnom
+17	než	J,-------------	AuxC
+18	na	RR--6----------	AuxP
+19	pražské	AAFS6----1A----	Atr
+20	burze	NNFS6-----A----	ExD
+21	a	J^-------------	Coord
+22	podle	RR--2----------	AuxP
+23	některých	PZXP2----------	Atr
+24	odhadů	NNIP2-----A----	Adv
+25	dosahuje	VB-S---3P-AA---	ExD
+26	denní	AAFS2----1A----	Atr
+27	výše	NNFS2-----A----	Obj
+28	až	TT-------------	AuxZ
+29	100	C=-------------	Atr
+30	milionů	NNIP2-----A----	Atr
+31	korun	NNFP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+cmpr9415-019-p4s5
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	je	VB-S---3P-AA---	Adv
+4	výše	NNFS1-----A----	Sb
+5	částky	NNFS2-----A----	Atr
+6	mezi	RR--7----------	AuxP
+7	odborníky	NNMP7-----A----	Adv
+8	sporná	AAFS1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	svědčí	VB-S---3P-AA---	Pred
+11	to	PDNS1----------	Sb
+12	o	RR--6----------	AuxP
+13	zájmu	NNIS6-----A----	Obj
+14	zahraničních	AAMP2----1A----	Atr
+15	investorů	NNMP2-----A----	Atr
+16	a	J^-------------	Coord
+17	bylo	VpNS---XR-AA---	Pred
+18	by	Vc-------------	AuxV
+19	krátkozraké	AANS1----1A----	Pnom
+20	tento	PDIS4----------	Atr
+21	obchod	NNIS4-----A----	Obj
+22	zakázat	Vf--------A----	Sb
+23	.	Z:-------------	AuxK
+

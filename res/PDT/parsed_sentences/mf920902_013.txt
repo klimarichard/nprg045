@@ -1,0 +1,149 @@
+mf920902-013-p1s1A
+1	Svobodná	AAFS1----1A----	Atr
+2	zóna	NNFS1-----A----	Sb
+3	není	VB-S---3P-NA---	Pred
+4	přínosem	NNIS7-----A----	Pnom
+
+mf920902-013-p1s1B
+1	Ostrava	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jsl	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920902-013-p1s1C
+1	První	CrNS1----------	Atr
+2	svobodné	AANS1----1A----	Atr
+3	celní	AANS1----1A----	Atr
+4	pásmo	NNNS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	Československu	NNNS6-----A----	Atr
+7	nesplňuje	VB-S---3P-NA---	Pred
+8	očekávání	NNNS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+mf920902-013-p1s2
+1	Vzniklo	VpNS---XR-AA--1	Pred
+2	v	RR--6----------	AuxP
+3	Ostravě	NNFS6-----A----	Adv
+4	přesně	Dg-------1A----	AuxZ
+5	před	RR--7----------	AuxP
+6	rokem	NNIS7-----A----	Adv
+7	a	J^-------------	Coord
+8	mělo	VpNS---XR-AA---	Pred
+9	sloužit	Vf--------A----	Obj
+10	k	RR--3----------	AuxP
+11	rozvoji	NNIS3-----A----	Obj
+12	města	NNNS2-----A----	Atr
+13	,	Z:-------------	Coord
+14	vytvořit	Vf--------A----	Obj
+15	nová	AANP4----1A----	Atr
+16	pracovní	AANP4----1A----	Atr
+17	místa	NNNP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+mf920902-013-p1s3
+1	Práci	NNFS4-----A----	Obj
+2	ve	RV--6----------	AuxP
+3	Free	AAXXX----1A----	Atr
+4	zóně	NNFS6-----A----	Atr
+5	však	J^-------------	AuxY
+6	momentálně	Dg-------1A----	Adv
+7	našlo	VpNS---XR-AA---	Pred
+8	jen	TT-------------	AuxZ
+9	17	C=-------------	Sb
+10	lidí	NNMP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf920902-013-p1s4
+1	Jejich	PSXXXXP3-------	Atr
+2	stav	NNIS4-----A----	Obj
+3	přechodně	Dg-------1A----	Adv
+4	doplňují	VB-P---3P-AA---	Pred
+5	brigádníci	NNMP1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+mf920902-013-p1s5
+1	"	Z:-------------	AuxG
+2	Výroba	NNFS1-----A----	Sb
+3	ve	RV--6----------	AuxP
+4	svobodném	AANS6----1A----	Atr
+5	celním	AANS6----1A----	Atr
+6	pásmu	NNNS6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	měla	VpQW---XR-AA---	Atr
+10	být	Vf--------A----	Obj
+11	hlavní	AAFS7----1A----	Atr
+12	naší	PSFS7-P1-------	Atr
+13	činností	NNFS7-----A----	Pnom
+14	,	Z:-------------	AuxX
+15	je	VB-S---3P-AA---	Pred
+16	zatím	Db-------------	Adv
+17	omezená	AAFS1----1A----	Pnom
+18	.	Z:-------------	AuxK
+
+mf920902-013-p1s6
+1	Srpen	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	kdy	Db-------------	Adv
+4	jsme	VB-P---1P-AA---	AuxV
+5	vydělali	VpMP---XR-AA---	Atr
+6	90000	C=-------------	Obj
+7	korun	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	byl	VpYS---XR-AA---	Adv
+10	výjimečný	AAIS1----1A----	Pnom
+11	,	Z:-------------	AuxX
+12	"	Z:-------------	AuxG
+13	stěžuje	VB-S---3P-AA---	Pred
+14	si	P7-X3----------	AuxT
+15	v	RR--6----------	AuxP
+16	pořadí	NNNS6-----A----	Adv
+17	už	Db-------------	AuxZ
+18	třetí	CrMS1----------	Atr
+19	muž	NNMS1-----A----	Atr
+20	v	RR--6----------	AuxP
+21	čele	NNNS6-----A----	AuxP
+22	akciové	AAFS2----1A----	Atr
+23	společnosti	NNFS2-----A----	Atr
+24	Free	AAXXX----1A----	Atr
+25	zone	NNFXX-----A----	Atr
+26	Ostrava	NNFS1-----A----	Atr
+27	Oldřich	NNMS1-----A----	Atr
+28	Rohan	NNMS1-----A----	Sb
+29	.	Z:-------------	AuxK
+
+mf920902-013-p1s7
+1	Společnost	NNFS1-----A----	Sb
+2	také	Db-------------	Adv
+3	čeká	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	vyjádření	NNNS4-----A----	Obj
+6	Ústřední	AAFS2----1A----	Atr
+7	celní	AAFS2----1A----	Atr
+8	správy	NNFS2-----A----	Atr
+9	ČSFR	NNFXX-----A---8	Atr
+10	,	Z:-------------	AuxX
+11	protože	J,-------------	AuxC
+12	zatím	Db-------------	Adv
+13	ani	J^-------------	AuxZ
+14	celníci	NNMP1-----A----	Sb
+15	nemají	VB-P---3P-NA---	Adv
+16	úplně	Dg-------1A----	AuxZ
+17	jasno	NNNS4-----A----	Obj
+18	v	RR--6----------	AuxP
+19	tom	PDZS6----------	Adv
+20	,	Z:-------------	AuxX
+21	co	PQ--4----------	Obj
+22	vlastně	Db-------------	AuxY
+23	pracovníci	NNMP1-----A----	Sb
+24	Free	AAXXX----1A----	Atr
+25	zóny	NNFS2-----A----	Atr
+26	mohou	VB-P---3P-AA--1	Atr
+27	,	Z:-------------	AuxX
+28	a	J^-------------	Coord
+29	co	PQ--4----------	ExD
+30	ne	TT-------------	ExD
+31	.	Z:-------------	AuxK
+

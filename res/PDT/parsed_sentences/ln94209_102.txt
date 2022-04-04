@@ -1,0 +1,127 @@
+ln94209-102-p1s1
+1	Pozoruhodné	AAFP1----1A----	Atr
+2	souvislosti	NNFP1-----A----	ExD
+
+ln94209-102-p2s1A
+1	Ústí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Bečvou	NNFS7-----A----	Atr
+4	(	Z:-------------	ExD
+5	agentura	NNFS1-----A----	ExD
+6	Wild	AAXXX----1A----	Atr
+7	Duck	NNFXX-----A----	Atr
+8	)	Z:-------------	ExD
+9	-	Z:-------------	AuxK
+
+ln94209-102-p2s1B
+1	Další	AAIS4----1A----	Atr
+2	zajímavý	AAIS4----1A----	Atr
+3	výzkum	NNIS4-----A----	Obj
+4	provedla	VpQW---XR-AA---	Pred
+5	agentura	NNFS1-----A----	Sb
+6	NEOBLBA	NNFS1-----A----	Atr
+7	,	Z:-------------	AuxX
+8	když	J,-------------	AuxC
+9	zkoumala	VpQW---XR-AA---	Adv
+10	souvislost	NNFS4-----A----	Obj
+11	mezi	RR--7----------	AuxP
+12	barvou	NNFS7-----A----	Atr
+13	obrouček	NNFP2-----A----	Atr
+14	u	RR--2----------	AuxP
+15	brýlí	NNFP2-----A----	Atr
+16	a	J^-------------	Coord
+17	politickým	AANS7----1A----	Atr
+18	přesvědčením	NNNS7-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94209-102-p3s1
+1	Zatímco	J,-------------	AuxC
+2	stoupenci	NNMP1-----A----	Sb
+3	ODS	NNFXX-----A---8	Atr
+4	dávají	VB-P---3P-AA---	Adv
+5	v	RR--6----------	AuxP
+6	šedesáti	Cn-P6----------	Atr
+7	sedmi	Cn-P6----------	Atr
+8	procentech	NNNP6-----A----	Adv
+9	přednost	NNFS4-----A----	Obj
+10	zlaté	AAFS3----1A----	Atr
+11	kovové	AAFS3----1A----	Atr
+12	obroučce	NNFS3-----A----	Obj
+13	,	Z:-------------	Coord
+14	stoupenci	NNMP1-----A----	ExD
+15	ODA	NNFXX-----A---8	Atr
+16	v	RR--6----------	AuxP
+17	padesáti	Cn-P6----------	Atr
+18	osmi	Cn-P6----------	Atr
+19	procentech	NNNP6-----A----	ExD
+20	obroučce	NNFS3-----A----	ExD
+21	stříbrné	AAFS3----1A----	Atr
+22	,	Z:-------------	AuxX
+23	příznivci	NNMP1-----A----	Sb
+24	KSČM	NNFXX-----A---8	Atr
+25	si	P7-X3----------	AuxT
+26	libují	VB-P---3P-AA---	Pred
+27	v	RR--6----------	AuxP
+28	černých	AAFP6----1A----	Atr
+29	nebo	J^-------------	Coord
+30	tmavohnědých	AAFP6----1A----	Atr
+31	obroučkách	NNFP6-----A----	Obj
+32	z	RR--2----------	AuxP
+33	různých	AAIP2----1A----	Atr
+34	plastů	NNIP2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+ln94209-102-p3s2
+1	Zajímavé	AANS1----1A----	Pnom
+2	také	Db-------------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	stoupenci	NNMP1-----A----	Sb
+7	LSNS	NNFXX-----A---8	Atr
+8	dávají	VB-P---3P-AA---	Sb
+9	stoprocentně	Dg-------1A----	Adv
+10	přednost	NNFS4-----A----	Obj
+11	cvikru	NNIS3-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94209-102-p3s3
+1	Tuto	PDFS4----------	Atr
+2	výstřednost	NNFS4-----A----	Obj
+3	lze	VB-S---3P-AA---	Pred
+4	však	J^-------------	Coord
+5	vysvětlit	Vf--------A----	Sb
+6	tím	PDZS7----------	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	se	P7-X4----------	AuxT
+10	ve	RV--6----------	AuxP
+11	výzkumu	NNIS6-----A----	Adv
+12	vyskytoval	VpYS---XR-AA---	Atr
+13	pouze	Db-------------	AuxZ
+14	jediný	AAMS1----1A----	Atr
+15	člen	NNMS1-----A----	Sb
+16	LSNS	NNFXX-----A---8	Atr
+17	.	Z:-------------	AuxK
+
+ln94209-102-p3s4
+1	NEOBLBA	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	přesvědčena	VsQW---XX-AP---	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	aspoň	Db-------------	AuxZ
+7	obrýleným	AAMP3----1A----	Atr
+8	občanům	NNMP3-----A----	Obj
+9	napomůže	VB-S---3P-AA---	Obj
+10	její	PSZS1FS3-------	Atr
+11	výzkum	NNIS1-----A----	Sb
+12	v	RR--6----------	AuxP
+13	nelehkém	AANS6----1N----	Atr
+14	rozhodování	NNNS6-----A----	Obj
+15	během	RR--2----------	AuxP
+16	nadcházejících	AGFP2-----A----	Atr
+17	komunálních	AAFP2----1A----	Atr
+18	voleb	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+

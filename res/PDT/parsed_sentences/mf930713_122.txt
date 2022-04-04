@@ -1,0 +1,119 @@
+mf930713-122-p1s1
+1	Adamovské	AAFP1----1A----	Atr
+2	strojírny	NNFP1-----A----	ExD
+3	loni	Db------------1	ExD
+4	se	RV--7----------	AuxP
+5	ziskem	NNIS7-----A----	ExD
+
+mf930713-122-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	čtk	NNFXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	or	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930713-122-p2s1B
+1	Adamovské	AAFP1----1A----	Atr
+2	strojírny	NNFP1-----A----	Sb
+3	(	Z:-------------	Apos
+4	ADAST	NNIXX-----A---8	Sb
+5	)	Z:-------------	AuxG
+6	dosáhly	VpTP---XR-AA---	Pred
+7	od	RR--2----------	AuxP
+8	loňského	AAIS2----1A----	Atr
+9	května	NNIS2-----A----	Adv
+10	,	Z:-------------	AuxX
+11	kdy	Db-------------	Adv
+12	se	P7-X4----------	AuxT
+13	staly	VpTP---XR-AA---	Atr
+14	akciovou	AAFS7----1A----	Atr
+15	společností	NNFS7-----A----	Obj
+16	,	Z:-------------	AuxX
+17	do	RR--2----------	AuxP
+18	konce	NNIS2-----A----	Adv
+19	roku	NNIS2-----A---1	Atr
+20	zisku	NNIS2-----A----	Obj
+21	po	RR--6----------	AuxP
+22	zdanění	NNNS6-----A----	AtrAtr
+23	26.26	C=-------------	Atr
+24	milionu	NNIS2-----A----	Atr
+25	korun	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+mf930713-122-p2s2
+1	Podnik	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	v	RR--6----------	AuxP
+4	současnosti	NNFS6-----A----	Adv
+5	zaměřuje	VB-S---3P-AA---	Pred
+6	na	RR--4----------	AuxP
+7	výrobu	NNFS4-----A----	Obj
+8	polygrafických	AAIP2----1A----	Atr
+9	strojů	NNIP2-----A----	Atr
+10	a	J^-------------	Coord
+11	čerpací	AAFS2----1A----	Atr
+12	a	J^-------------	Coord
+13	měřicí	AAFS2----1A----	Atr
+14	techniky	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf930713-122-p2s3
+1	Uvažuje	VB-S---3P-AA---	Pred
+2	o	RR--6----------	AuxP
+3	výrobě	NNFS6-----A----	Obj
+4	speciální	AAFS2----1A----	Atr
+5	techniky	NNFS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+mf930713-122-p3s1
+1	Při	RR--6----------	AuxP
+2	prvním	CrNS6----------	Atr
+3	kole	NNNS6-----A----	Adv
+4	obchodování	NNNS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	RM	AAXXX----1A---8	Atr
+7	-	Z:-------------	AuxG
+8	Systému	NNIS6-----A----	Atr
+9	byla	VpQW---XR-AA---	AuxV
+10	prodána	VsQW---XX-AP---	Pred
+11	jedna	ClFS1----------	Atr
+12	akcie	NNFS1-----A----	Sb
+13	ADASTu	NNIS2-----A----	Atr
+14	za	RR--4----------	AuxP
+15	793	C=-------------	Adv
+16	korun	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-122-p3s2
+1	Cenové	AANS1----1A----	Atr
+2	rozpětí	NNNS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	v	RR--6----------	AuxP
+5	jehož	P1XXXZS3-------	Atr
+6	rámci	NNIS6-----A----	Adv
+7	mohou	VB-P---3P-AA--1	Atr
+8	proběhnout	Vf--------A----	Obj
+9	obchody	NNIP1-----A----	Sb
+10	ve	RV--6----------	AuxP
+11	druhém	CrNS6----------	Atr
+12	kole	NNNS6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	bylo	VpNS---XR-AA---	Pred
+15	stanoveno	VsNS---XX-AP---	Pnom
+16	na	RR--4----------	AuxP
+17	408	C=-------------	Adv
+18	až	J^-------------	Coord
+19	680	C=-------------	Adv
+20	korun	NNFP2-----A----	Atr
+21	pro	RR--4----------	AuxP
+22	jednu	ClFS4----------	Atr
+23	akcii	NNFS4-----A----	AdvAtr
+24	v	RR--6----------	AuxP
+25	nominální	AAFS6----1A----	Atr
+26	hodnotě	NNFS6-----A----	Atr
+27	tisíc	ClXS2----------	Atr
+28	korun	NNFP2-----A----	Atr
+29	.	Z:-------------	AuxK
+

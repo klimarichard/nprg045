@@ -1,0 +1,280 @@
+mf920901-083-p1s1
+1	Čtyři	ClXP4----------	Atr
+2	dny	NNIP4-----A----	ExD
+3	v	RR--6----------	AuxP
+4	týdnu	NNIS6-----A----	Atr
+5	chlad	NNIS1-----A----	ExD
+
+mf920901-083-p2s1
+1	Počínaje	VeYS------A----	AuxP
+2	1	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	9	C=-------------	Adv
+5	.	Z:-------------	AuxG
+6	1992	C=-------------	Atr
+7	bude	VB-S---3F-AA---	AuxV
+8	jen	TT-------------	AuxZ
+9	tři	ClXP4----------	Atr
+10	dny	NNIP4-----A----	Adv
+11	v	RR--6----------	AuxP
+12	týdnu	NNIS6-----A----	Atr
+13	zásobovat	Vf--------A----	Pred
+14	Teplárna	NNFS1-----A----	Sb
+15	Liberec	NNIS1-----A----	Atr
+16	teplem	NNNS7-----A----	Adv
+17	a	J^-------------	Coord
+18	teplou	AAFS7----1A----	Atr
+19	vodou	NNFS7-----A----	Adv
+20	téměř	Db-------------	AuxZ
+21	15	C=-------------	Obj
+22	tisíc	ClXS2----------	Atr
+23	bytů	NNIP2-----A----	Atr
+24	ve	RV--6----------	AuxP
+25	městě	NNNS6-----A----	Atr
+26	pod	RR--7----------	AuxP
+27	Ještědem	NNIS7-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf920901-083-p2s2
+1	Nájemníci	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	dočkají	VB-P---3P-AA---	Pred
+4	pouze	Db-------------	AuxZ
+5	v	RR--4----------	AuxP
+6	sobotu	NNFS4-----A----	Adv
+7	a	J^-------------	Coord
+8	v	RR--4----------	AuxP
+9	neděli	NNFS4-----A----	Adv
+10	a	J^-------------	Coord
+11	v	RR--4----------	AuxP
+12	jeden	ClIS4----------	Atr
+13	všední	AAIS4----1A----	Atr
+14	den	NNIS4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+mf920901-083-p2s3
+1	O	RR--4----------	AuxP
+2	který	P4IS4----------	Obj
+3	půjde	VB-S---3F-AA---	Obj
+4	,	Z:-------------	AuxX
+5	se	P7-X4----------	AuxT
+6	dozvědí	VB-P---3P-AA--1	Pred
+7	ve	RV--6----------	AuxP
+8	výměníkových	AAFP6----1A----	Atr
+9	stanicích	NNFP6-----A----	Adv
+10	.	Z:-------------	AuxK
+
+mf920901-083-p2s4
+1	Ředitel	NNMS1-----A----	Atr
+2	Teplárny	NNFS2-----A----	Atr
+3	Liberec	NNIS1-----A----	Atr
+4	Dalibor	NNMS1-----A----	Atr
+5	Kejdana	NNMS1-----A----	Sb
+6	tvrdí	VB-S---3P-AA---	Pred
+7	:	Z:-------------	AuxG
+8	"	Z:-------------	AuxG
+9	Za	RR--4----------	AuxP
+10	první	CrNS4----------	Atr
+11	pololetí	NNNS4-----A----	Adv
+12	1992	C=-------------	Atr
+13	nám	PP-P3--1-------	Obj
+14	bytový	AAIS1----1A----	Atr
+15	podnik	NNIS1-----A----	Sb
+16	dlužil	VpYS---XR-AA---	Obj
+17	24	C=-------------	Obj
+18	miliónů	NNIP2-----A----	Atr
+19	korun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf920901-083-p2s5
+1	Kolik	C?--1----------	Sb
+2	přibylo	VpNS---XR-AA---	Obj
+3	v	RR--6----------	AuxP
+4	červenci	NNIS6-----A----	Adv
+5	a	J^-------------	Coord
+6	v	RR--6----------	AuxP
+7	srpnu	NNIS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	ještě	Db-------------	Adv
+10	nevím	VB-S---1P-NA---	Pred
+11	.	Z:-------------	AuxK
+
+mf920901-083-p2s6
+1	Chybějí	VB-P---3P-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	peníze	NNIP1-----A----	Sb
+4	na	RR--4----------	AuxP
+5	nákup	NNIS4-----A----	Atr
+6	paliva	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+mf920901-083-p2s7
+1	S	RR--7----------	AuxP
+2	regulací	NNFS7-----A----	Obj
+3	dodávek	NNFP2-----A----	Atr
+4	tepla	NNNS2-----A----	Atr
+5	skončíme	VB-P---1P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	až	J,-------------	AuxC
+8	dostaneme	VB-P---1P-AA---	Adv
+9	všechno	PLNS4----------	Obj
+10	zaplaceno	VsNS---XX-AP---	Atv
+11	.	Z:-------------	AuxK
+12	"	Z:-------------	AuxG
+
+mf920901-083-p3s1
+1	Bytový	AAIS1----1A----	Atr
+2	podnik	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	od	RR--2----------	AuxP
+5	1	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	května	NNIS2-----A----	Adv
+8	92	C=-------------	Atr
+9	v	RR--6----------	AuxP
+10	likvidaci	NNFS6-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf920901-083-p3s2
+1	Náměstkyně	NNFS1-----A----	Atr
+2	Gerta	NNMS2-----A----	Atr
+3	Jakšová	NNFS1-----A----	Sb
+4	říká	VB-S---3P-AA---	Pred
+5	:	Z:-------------	AuxG
+6	"	Z:-------------	AuxG
+7	Letos	Db-------------	Adv
+8	jsme	VB-P---1P-AA---	AuxV
+9	zaplatili	VpMP---XR-AA---	Obj
+10	teplo	NNNS4-----A----	Obj
+11	za	RR--4----------	AuxP
+12	57	C=-------------	Atr
+13	miliónů	NNIP2-----A----	Atr
+14	900	C=-------------	Atr
+15	tisíc	ClXS2----------	Atr
+16	korun	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920901-083-p3s3
+1	Náš	PSYS1-P1-------	Atr
+2	současný	AAIS1----1A----	Atr
+3	dluh	NNIS1-----A----	Sb
+4	dosahuje	VB-S---3P-AA---	Pred
+5	přibližně	Dg-------1A----	AuxZ
+6	19.5	C=-------------	Obj
+7	miliónu	NNIS2-----A----	Atr
+8	korun	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf920901-083-p3s4
+1	Přes	RR--4----------	AuxP
+2	dva	ClYP4----------	Atr
+3	milióny	NNIP4-----A----	Obj
+4	tvoří	VB-P---3P-AA---	Pred
+5	nedoplatky	NNIP1-----A----	Sb
+6	od	RR--2----------	AuxP
+7	našich	PSXP2-P1-------	Atr
+8	odběratelů	NNMP2-----A----	Atr
+9	ještě	Db-------------	AuxZ
+10	za	RR--4----------	AuxP
+11	první	CrIP4----------	Atr
+12	čtyři	ClXP4----------	Atr
+13	měsíce	NNIP4-----A----	Atr
+14	loňského	AAIS2----1A----	Atr
+15	roku	NNIS2-----A---1	Atr
+16	.	Z:-------------	AuxK
+
+mf920901-083-p3s5
+1	Jde	VB-S---3P-AA---	Pred
+2	také	Db-------------	Adv
+3	o	RR--4----------	AuxP
+4	podniky	NNIP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	z	RR--2----------	AuxP
+7	nichž	P9XP2----------	Atr
+8	některé	PZIP1----------	Sb
+9	jsou	VB-P---3P-AA---	Atr
+10	stále	Db-------------	Adv
+11	v	RR--6----------	AuxP
+12	platební	AAFS6----1A----	Atr
+13	neschopnosti	NNFS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+mf920901-083-p3s6
+1	Téměř	Db-------------	AuxZ
+2	13	C=-------------	Obj
+3	miliónů	NNIP2-----A----	Atr
+4	dělá	VB-S---3P-AA---	Pred
+5	rozdíl	NNIS1-----A----	Sb
+6	mezi	RR--7----------	AuxP
+7	zálohami	NNFP7-----A----	Atr
+8	za	RR--4----------	AuxP
+9	teplo	NNNS4-----A----	Atr
+10	,	Z:-------------	AuxX
+11	zaplacenými	AAFP7----1A----	Atr
+12	za	RR--4----------	AuxP
+13	květen	NNIS4-----A----	Adv
+14	1991	C=-------------	Atr
+15	až	J^-------------	Coord
+16	duben	NNIS4-----A----	Adv
+17	1992	C=-------------	Atr
+18	a	J^-------------	Coord
+19	našimi	PSXP7-P1-------	Atr
+20	skutečnými	AAIP7----1A----	Atr
+21	náklady	NNIP7-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf920901-083-p3s7
+1	Jsme	VB-P---1P-AA---	Pred
+2	podnik	NNIS1-----A----	Pnom
+3	s	RR--7----------	AuxP
+4	plánovanou	AAFS7----1A----	Atr
+5	ztrátou	NNFS7-----A----	Atr
+6	a	J^-------------	Coord
+7	vzniklý	AAIS4----1A----	Atr
+8	propad	NNIS4-----A----	Obj
+9	nedokážeme	VB-P---1P-NA---	Pred
+10	vyrovnat	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+
+mf920901-083-p3s8A
+1	Rozdíl	NNIS1-----A----	Sb
+2	mezi	RR--7----------	AuxP
+3	zálohami	NNFP7-----A----	Atr
+4	na	RR--4----------	AuxP
+5	teplo	NNNS4-----A----	Atr
+6	a	J^-------------	Coord
+7	skutečnými	AAIP7----1A----	Atr
+8	náklady	NNIP7-----A----	Atr
+9	by	Vc-------------	AuxV
+10	se	P7-X4----------	AuxR
+11	měl	VpYS---XR-AA---	Pred
+12	vyrovnat	Vf--------A----	Obj
+13	nejpozději	Dg-------3A----	Adv
+14	do	RR--2----------	AuxP
+15	31	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	12	C=-------------	Adv
+18	.	Z:-------------	AuxG
+19	92	C=-------------	Atr
+20	.	Z:-------------	AuxK
+21	"	Z:-------------	AuxG
+
+mf920901-083-p3s8B
+1	O	RR--6----------	AuxP
+2	východiscích	NNNP6-----A----	Obj
+3	ze	RV--2----------	AuxP
+4	vzniklé	AAFS2----1A----	Atr
+5	krize	NNFS2-----A----	Atr
+6	začala	VpQW---XR-AA---	Pred
+7	včera	Db-------------	Adv
+8	s	RR--7----------	AuxP
+9	bytovým	AAIS7----1A----	Atr
+10	podnikem	NNIS7-----A----	Obj
+11	i	J^-------------	Coord
+12	s	RR--7----------	AuxP
+13	teplárnou	NNFS7-----A----	Obj
+14	jednat	Vf--------A----	Obj
+15	liberecká	AAFS1----1A----	Atr
+16	radnice	NNFS1-----A----	Sb
+17	.	Z:-------------	AuxK
+

@@ -1,0 +1,515 @@
+ln94208-3-p1s1
+1	Vůz	NNIS1-----A----	Sb
+2	roku	NNIS2-----A---1	Atr
+3	nebyl	VpYS---XR-NA---	AuxV
+4	doceněn	VsYS---XX-AP---	Pred
+
+ln94208-3-p2s1A
+1	Japonský	AAIS1----1A----	Atr
+2	Nissan	NNIS1-----A----	Sb
+3	čeká	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	zkušenější	AAMP4----1A----	Atr
+6	motoristy	NNMP4-----A----	Obj
+
+ln94208-3-p2s1B
+1	Tomáš	NNMS1-----A----	Sb
+2	Pudil	NNMS1-----A----	Pred
+
+ln94208-3-p2s1C
+1	Automobilka	NNFS1-----A----	Sb
+2	Nissan	NNIS1-----A----	Atr
+3	patří	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	západní	AAFS6----1A----	Atr
+6	Evropě	NNFS6-----A----	Adv
+7	i	J^-------------	Coord
+8	ve	RV--6----------	AuxP
+9	světě	NNIS6-----A----	Adv
+10	k	RR--3----------	AuxP
+11	nejprodávanějším	AAFP3----3A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94208-3-p2s2
+1	Drží	VB-S---3P-AA---	Pred
+2	druhou	CrFS4----------	Atr
+3	příčku	NNFS4-----A----	Obj
+4	v	RR--6----------	AuxP
+5	Japonsku	NNNS6-----A----	Atr
+6	a	J^-------------	Coord
+7	čtvrtou	CrFS4----------	ExD
+8	ve	RV--6----------	AuxP
+9	světě	NNIS6-----A----	ExD
+10	,	Z:-------------	AuxX
+11	ovšem	J^-------------	Coord
+12	místo	NNNS1-----A----	Sb
+13	na	RR--6----------	AuxP
+14	českém	AAIS6----1A----	Atr
+15	žebříčku	NNIS6-----A----	Atr
+16	tomuto	PDZS3----------	Atr
+17	trendu	NNIS3-----A----	Obj
+18	neodpovídá	VB-S---3P-NA---	Pred
+19	.	Z:-------------	AuxK
+
+ln94208-3-p2s3
+1	Kde	Db-------------	Adv
+2	hledat	Vf--------A----	Atr
+3	příčinu	NNFS4-----A----	Obj
+4	takového	PDZS2----------	Atr
+5	rozdílu	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	o	RR--6----------	AuxP
+8	tom	PDZS6----------	Obj
+9	jsme	VB-P---1P-AA---	AuxV
+10	mluvili	VpMP---XR-AA---	Pred
+11	s	RR--7----------	AuxP
+12	obchodním	AAMS7----1A----	Atr
+13	ředitelem	NNMS7-----A----	Atr
+14	Nissan	NNIS1-----A----	Atr
+15	ČR	NNFXX-----A---8	Atr
+16	ing	NNMXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	Lubomírem	NNMS7-----A----	Atr
+19	Tvrdíkem	NNMS7-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94208-3-p3s1
+1	Jedním	ClZS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	důvodů	NNIP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	pozdější	AAIS1----2A----	Atr
+6	a	J^-------------	Coord
+7	od	RR--2----------	AuxP
+8	našeho	PSZS2-P1-------	Atr
+9	zakladatele	NNMS2-----A----	Adv
+10	poněkud	Db-------------	Adv
+11	opatrnější	AAIS1----2A----	Atr
+12	nástup	NNIS1-----A----	Sb
+13	na	RR--4----------	AuxP
+14	tehdy	Db-------------	Adv
+15	-	Z:-------------	Apos
+16	v	RR--6----------	AuxP
+17	roce	NNIS6-----A---1	Adv
+18	1991	C=-------------	Atr
+19	-	Z:-------------	AuxG
+20	ještě	Db-------------	AuxZ
+21	československý	AAIS4----1A----	Atr
+22	trh	NNIS4-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94208-3-p3s2
+1	Mnozí	AAMP1----1A----	Atr
+2	konkurenti	NNMP1-----A----	Sb
+3	ho	PHZS4--3-------	Obj
+4	zpracovávali	VpMP---XR-AA---	Pred
+5	intenzivněji	Dg-------2A----	Adv
+6	a	J^-------------	Coord
+7	uvolnili	VpMP---XR-AA---	Pred
+8	i	J^-------------	AuxZ
+9	větší	AAIP4----2A----	Atr
+10	prostředky	NNIP4-----A----	Obj
+11	na	RR--4----------	AuxP
+12	investice	NNFP4-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94208-3-p3s3
+1	To	PDNS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	projevilo	VpNS---XR-AA---	Pred
+4	jak	J^-------------	AuxY
+5	poměrně	Dg-------1A----	Adv
+6	pomalým	AAIS7----1A----	Atr
+7	růstem	NNIS7-----A----	Adv
+8	počtu	NNIS2-----A----	Atr
+9	dealerů	NNMP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	tak	J^-------------	Coord
+12	i	J^-------------	AuxZ
+13	počtem	NNIS7-----A----	Adv
+14	nabízených	AAIP2----1A----	Atr
+15	typů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94208-3-p3s4
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1992	C=-------------	Atr
+4	jsme	VB-P---1P-AA---	AuxV
+5	měli	VpMP---XR-AA---	Pred
+6	k	RR--3----------	AuxP
+7	dispozici	NNFS3-----A----	Adv
+8	tři	ClXP4----------	Atr
+9	modely	NNIP4-----A----	Obj
+10	a	J^-------------	Coord
+11	Mazda	NNFS1-----A----	ExD
+12	například	Db-------------	ExD
+13	osm	Cn-S4----------	ExD
+14	.	Z:-------------	AuxK
+
+ln94208-3-p3s5
+1	V	RR--6----------	AuxP
+2	tom	PDZS6----------	Adv
+3	jsme	VB-P---1P-AA---	AuxV
+4	byli	VpMP---XR-AA---	AuxV
+5	určitým	AAIS7----1A----	Atr
+6	způsobem	NNIS7-----A----	Adv
+7	handicapováni	VsMP---XX-AP---	Pred
+8	ve	RV--6----------	AuxP
+9	srovnání	NNNS6-----A----	AuxP
+10	s	RR--7----------	AuxP
+11	jinými	AAMP7----1A----	Atr
+12	evropskými	AAMP7----1A----	Atr
+13	i	J^-------------	Coord
+14	světovými	AAMP7----1A----	Atr
+15	výrobci	NNMP7-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94208-3-p4s1
+1	o	Z:-------------	AuxG
+2	To	PDNS1----------	Sb
+3	ovšem	J^-------------	Coord
+4	nemohl	VpYS---XR-NA---	Pred
+5	být	Vf--------A----	Obj
+6	jediný	AAIS1----1A----	Atr
+7	důvod	NNIS1-----A----	Pnom
+8	.	Z:-------------	AuxK
+
+ln94208-3-p4s2
+1	Seat	NNIS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	ještě	Db-------------	Adv
+4	užší	AAFS4----2A----	Atr
+5	škálu	NNFS4-----A----	Obj
+6	vozů	NNIP2-----A----	Atr
+7	než	J,-------------	AuxC
+8	vy	PP-P1--2-------	ExD
+9	a	J^-------------	Coord
+10	jeho	PSXXXZS3-------	Atr
+11	vozy	NNIP1-----A----	Sb
+12	patří	VB-P---3P-AA---	Pred
+13	mezi	RR--4----------	AuxP
+14	nejprodávanější	AAIP4----3A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94208-3-p5s1
+1	Český	AAMS1----1A----	Atr
+2	zákazník	NNMS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	dosud	Db-------------	Adv
+5	jiná	AANP4----1A----	Atr
+6	měřítka	NNNP4-----A----	Obj
+7	než	J,-------------	AuxC
+8	ten	PDYS1----------	ExD
+9	ve	RV--6----------	AuxP
+10	světě	NNIS6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94208-3-p5s2
+1	Hodně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxR
+3	dá	VB-S---3P-AA---	Pred
+4	ovlivnit	Vf--------A----	Obj
+5	reklamou	NNFS7-----A----	Obj
+6	a	J^-------------	Coord
+7	vzhledem	NNIS7-----A----	Obj
+8	,	Z:-------------	Coord
+9	nejvíce	Dg-------3A----	ExD
+10	pak	Db-------------	ExD
+11	cenou	NNFS7-----A----	ExD
+12	.	Z:-------------	AuxK
+
+ln94208-3-p5s3
+1	Nissan	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	mezi	RR--7----------	AuxP
+4	odborníky	NNMP7-----A----	Adv
+5	znám	ACYS------A----	Pnom
+6	svým	P8ZS7----------	Atr
+7	soustředěním	NNNS7-----A----	Obj
+8	na	RR--4----------	AuxP
+9	technické	AANS4----1A----	Atr
+10	provedení	NNNS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94208-3-p5s4
+1	Motor	NNIS4-----A----	ExD
+2	,	Z:-------------	Apos
+3	podvozek	NNIS4-----A----	ExD
+4	.	Z:-------------	AuxK
+
+ln94208-3-p5s5
+1	Proto	J^-------------	Coord
+2	ho	PHZS4--3-------	Obj
+3	také	Db-------------	Adv
+4	evropský	AAMS1----1A----	Atr
+5	kupec	NNMS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	již	Db-------------	Adv
+9	vystřídal	VpYS---XR-AA---	Atr
+10	několik	Ca--4----------	Obj
+11	značek	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	vyhledává	VB-S---3P-AA---	Pred
+14	.	Z:-------------	AuxK
+
+ln94208-3-p5s6
+1	U	RR--2----------	AuxP
+2	nás	PP-P2--1-------	Adv
+3	ještě	Db-------------	AuxZ
+4	stále	Db-------------	Adv
+5	kupují	VB-P---3P-AA---	Pred
+6	oči	NNFP1-----A----	Sb
+7	a	J^-------------	Coord
+8	hlavně	Dg-------1A----	AuxZ
+9	zmíněná	AAFS1----1A----	Atr
+10	peněženka	NNFS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	takže	J,-------------	AuxC
+13	naše	PSIP1-P1-------	Atr
+14	o	RR--4----------	AuxP
+15	něco	PZ--4----------	Adv
+16	dražší	AAIP1----2A----	Atr
+17	modely	NNIP1-----A----	Sb
+18	nejdou	VB-P---3P-NA---	Adv
+19	tolik	Db-------------	Adv
+20	na	RR--4----------	AuxP
+21	odbyt	NNIS4-----A----	Obj
+22	jako	J,-------------	AuxC
+23	třeba	Db-------------	AuxZ
+24	velmi	Db-------------	Adv
+25	líbivé	AAFP1----1A----	Atr
+26	mazdy	NNFP1-----A----	ExD
+27	.	Z:-------------	AuxK
+
+ln94208-3-p5s7
+1	Důležitý	AAIS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	způsob	NNIS1-----A----	Sb
+5	prodeje	NNIS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln94208-3-p5s8
+1	Zákazník	NNMS1-----A----	Sb
+2	nemá	VB-S---3P-NA---	Pred
+3	všude	Db-------------	Adv
+4	možnost	NNFS4-----A----	Obj
+5	se	P7-X4----------	AuxT
+6	s	RR--7----------	AuxP
+7	autem	NNNS7-----A----	Adv
+8	projet	Vf--------A----	Atr
+9	,	Z:-------------	AuxX
+10	takže	J,-------------	AuxC
+11	se	P7-X4----------	AuxT
+12	spoléhá	VB-S---3P-AA---	Adv
+13	na	RR--4----------	AuxP
+14	informace	NNFP4-----A----	Obj
+15	z	RR--2----------	AuxP
+16	tisku	NNIS2-----A----	Atr
+17	a	J^-------------	Coord
+18	od	RR--2----------	AuxP
+19	přátel	NNMP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94208-3-p5s9
+1	Důkazem	NNIS7-----A----	Pnom
+2	mých	PSXP2-S1-------	Atr
+3	slov	NNNP2-----A----	Atr
+4	může	VB-S---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	Nissan	NNIS1-----A----	Sb
+7	Micra	NNFS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	vyhlášený	AAIS1----1A----	Atr
+10	za	RR--4----------	AuxP
+11	vůz	NNIS4-----A----	Atv
+12	roku	NNIS2-----A---1	Atr
+13	1993	C=-------------	Atr
+14	.	Z:-------------	AuxK
+
+ln94208-3-p5s10
+1	Ačkoliv	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	jedná	VB-S---3P-AA---	Adv
+4	o	RR--4----------	AuxP
+5	prostorný	AAIS4----1A----	Atr
+6	malý	AAIS4----1A----	Atr
+7	automobil	NNIS4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	výbornými	AAFP7----1A----	Atr
+10	motorickými	AAFP7----1A----	Atr
+11	i	J^-------------	Coord
+12	jízdními	AAFP7----1A----	Atr
+13	vlastnostmi	NNFP7-----A----	Atr
+14	,	Z:-------------	AuxX
+15	jimiž	PJXP7----------	Adv
+16	právě	Db-------------	AuxZ
+17	odborníky	NNMP4-----A----	Obj
+18	přesvědčil	VpYS---XR-AA---	Atr
+19	,	Z:-------------	AuxX
+20	aby	J,-------------	AuxC
+21	ho	PHZS4--3-------	Obj
+22	označili	VpMP---XR-AA---	Obj
+23	za	RR--4----------	AuxP
+24	vůz	NNIS4-----A----	Obj
+25	roku	NNIS2-----A---1	Atr
+26	,	Z:-------------	AuxX
+27	u	RR--2----------	AuxP
+28	nás	PP-P2--1-------	Adv
+29	zůstal	VpYS---XR-AA---	Pred
+30	nedoceněný	AAIS1----1N----	Obj
+31	a	J^-------------	Coord
+32	odbyt	NNIS1-----A----	Sb
+33	nebyl	VpYS---XR-NA---	Pred
+34	úměrný	AAIS1----1A----	Pnom
+35	této	PDFS3----------	Atr
+36	jeho	PSXXXZS3-------	Atr
+37	pozici	NNFS3-----A----	Obj
+38	.	Z:-------------	AuxK
+
+ln94208-3-p5s11
+1	Lidi	NNMP4-----A----	Obj
+2	odrazovala	VpQW---XR-AA---	Pred
+3	vyšší	AAFS1----2A----	Atr
+4	cena	NNFS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	ovšem	J^-------------	Coord
+7	třeba	Db-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	Itálii	NNFS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	kde	Db-------------	Adv
+12	si	P7-X3----------	AuxT
+13	řidiči	NNMP1-----A----	Sb
+14	potrpí	VB-P---3P-AA---	Atr
+15	na	RR--4----------	AuxP
+16	dobré	AAIP4----1A----	Atr
+17	vozy	NNIP4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	se	P7-X4----------	AuxT
+20	stal	VpYS---XR-AA---	Pred
+21	doslova	Db-------------	Adv
+22	trhákem	NNIS7-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94208-3-p6s1
+1	o	Z:-------------	AuxG
+2	Výchova	NNFS1-----A----	Sb
+3	motoristy	NNMS2-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	nedá	VB-S---3P-NA---	Pred
+6	uspěchat	Vf--------A----	Obj
+7	.	Z:-------------	AuxK
+
+ln94208-3-p6s2
+1	Máte	VB-P---2P-AA---	Pred
+2	jiné	AAIP4----1A----	Atr
+3	způsoby	NNIP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	přesvědčit	Vf--------A----	Atr
+7	zákazníky	NNMP4-----A----	Obj
+8	?	Z:-------------	AuxK
+
+ln94208-3-p7s1
+1	Provádíme	VB-P---1P-AA---	Pred
+2	různé	AAFP4----1A----	Atr
+3	prodejní	AAFP4----1A----	Atr
+4	akce	NNFP4-----A----	Obj
+5	,	Z:-------------	Coord
+6	nabízíme	VB-P---1P-AA---	Pred
+7	výhodný	AAIS4----1A----	Atr
+8	leasing	NNIS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94208-3-p7s2
+1	Na	RR--4----------	AuxP
+2	podzim	NNIS4-----A----	Adv
+3	letošního	AAIS2----1A----	Atr
+4	roku	NNIS2-----A---1	Atr
+5	snižujeme	VB-P---1P-AA---	Pred
+6	koeficient	NNIS4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	1.15	C=-------------	Obj
+9	,	Z:-------------	Coord
+10	u	RR--2----------	AuxP
+11	užitkových	AANP2----1A----	Atr
+12	vozidel	NNNP2-----A----	ExD
+13	základní	AAFS4----1A----	Atr
+14	sazbu	NNFS4-----A----	ExD
+15	dokonce	Db-------------	AuxZ
+16	na	RR--4----------	AuxP
+17	1.12	C=-------------	ExD
+18	při	RR--6----------	AuxP
+19	35	C=-------------	Atr
+20	procentní	AAFS6----1A----	Atr
+21	akontaci	NNFS6-----A----	ExD
+22	a	J^-------------	Coord
+23	36	C=-------------	Atr
+24	splátkách	NNFP6-----A----	ExD
+25	.	Z:-------------	AuxK
+
+ln94208-3-p7s3
+1	Dovezeme	VB-P---1P-AA---	Pred
+2	nový	AAIS4----1A----	Atr
+3	model	NNIS4-----A----	Obj
+4	Micra	NNFS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	u	RR--2----------	AuxP
+7	kterého	P4ZS2----------	Adv
+8	půjdeme	VB-P---1F-AA---	Atr
+9	díky	RR--3----------	AuxP
+10	pochopení	NNNS3-----A----	Adv
+11	firmy	NNFS2-----A----	Atr
+12	s	RR--7----------	AuxP
+13	cenou	NNFS7-----A----	Adv
+14	dolů	Db-------------	Adv
+15	o	RR--4----------	AuxP
+16	39000	C=-------------	Adv
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94208-3-p7s4
+1	Na	RR--4----------	AuxP
+2	příští	AAIS4----1A----	Atr
+3	rok	NNIS4-----A----	Adv
+4	chystáme	VB-P---1P-AA---	Pred
+5	uvedení	NNNS4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	trh	NNIS4-----A----	Atr
+8	modelu	NNIS2-----A----	Atr
+9	Nissan	NNIS1-----A----	Atr
+10	Maxima	NNFS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	je	VB-S---3P-AA---	Atr
+14	velice	Db-------------	Adv
+15	úspěšný	AAIS1----1A----	Pnom
+16	v	RR--6----------	AuxP
+17	USA	NNIPX-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94208-3-p7s5
+1	Měsíčně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxR
+3	tam	Db-------------	Adv
+4	prodává	VB-S---3P-AA---	Pred
+5	deset	Cn-S1----------	Sb
+6	tisíc	ClXS2----------	Atr
+7	vozů	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94208-3-p7s6
+1	Tak	Db-------------	Adv
+2	obsadíme	VB-P---1P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	kategorii	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	kterou	P4FS4----------	Obj
+7	jsme	VB-P---1P-AA---	AuxV
+8	dosud	Db-------------	Adv
+9	neměli	VpMP---XR-NA---	Atr
+10	.	Z:-------------	AuxK
+

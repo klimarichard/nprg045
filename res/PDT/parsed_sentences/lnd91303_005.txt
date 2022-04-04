@@ -1,0 +1,702 @@
+lnd91303-005-p1s1
+1	KRKONOŠE	NNFP1-----A----	ExD
+2	,	Z:-------------	Coord
+3	JIZERSKÉ	AAFP1----1A----	Atr
+4	HORY	NNFP1-----A----	ExD
+5	-	Z:-------------	ExD
+6	DOPRAVNÍ	AAFS1----1A----	Atr
+7	KRIZE	NNFS1-----A----	ExD
+
+lnd91303-005-p2s1
+1	Těžce	Dg-------1A----	Adv
+2	zkoušené	AAFP1----1A----	Atr
+3	hory	NNFP1-----A----	ExD
+
+lnd91303-005-p3s1
+1	Ideální	AAFP1----1A----	Atr
+2	lyžařské	AAFP1----1A----	Atr
+3	podmínky	NNFP1-----A----	ExD
+4	,	Z:-------------	Coord
+5	upravené	AAFP1----1A----	Atr
+6	sjezdovky	NNFP1-----A----	ExD
+7	.	Z:-------------	AuxK
+
+lnd91303-005-p3s2
+1	Na	RR--6----------	AuxP
+2	druhé	CrFS6----------	Atr
+3	straně	NNFS6-----A----	ExD
+4	ucpané	AAFP1----1A----	Atr
+5	silnice	NNFP1-----A----	ExD
+6	a	J^-------------	Coord
+7	přeplněná	AANP1----1A----	Atr
+8	parkoviště	NNNP1-----A----	ExD
+9	.	Z:-------------	AuxK
+
+lnd91303-005-p3s3
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	obraz	NNIS1-----A----	Pnom
+4	našich	PSXP2-P1-------	Atr
+5	hor	NNFP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	těchto	PDXP6----------	Atr
+8	dnech	NNIP6-----A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd91303-005-p3s4
+1	Krkonoše	NNFP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	ale	J^-------------	Coord
+4	i	J^-------------	AuxZ
+5	Jizerské	AAFP1----1A----	Atr
+6	hory	NNFP1-----A----	Sb
+7	zažívají	VB-P---3P-AA---	Pred
+8	nápor	NNIS4-----A----	Obj
+9	turistů	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd91303-005-p3s5
+1	Poněkud	Db-------------	Adv
+2	lepší	AAFS1----2A----	Atr
+3	situace	NNFS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	Beskydech	NNIP6-----A----	Adv
+7	a	J^-------------	Coord
+8	Jeseníkách	NNIP6-----A---1	Adv
+9	.	Z:-------------	AuxK
+
+lnd91303-005-p4s1
+1	Rtuť	NNFS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	teploměru	NNIS6-----A----	Atr
+4	včera	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	Krkonoších	NNFP6-----A----	Adv
+7	klesla	VpQW---XR-AA--1	Pred
+8	mírně	Dg-------1A----	Adv
+9	pod	RR--4----------	AuxP
+10	nulu	NNFS4-----A----	Adv
+11	,	Z:-------------	Coord
+12	vál	VpYS---XR-AA---	Pred
+13	silný	AAIS1----1A----	Atr
+14	vítr	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+lnd91303-005-p4s2
+1	Na	RR--6----------	AuxP
+2	Labské	AAFS6----1A----	Atr
+3	Boudě	NNFS6-----A----	Adv
+4	naměřili	VpMP---XR-AA---	Pred
+5	151	C=-------------	Obj
+6	cm	NNIXX-----A---8	Atr
+7	sněhu	NNIS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	ve	RV--6----------	AuxP
+10	Špindlerově	AUIS6M---------	Atr
+11	mlýně	NNIS6-----A----	ExD
+12	105	C=-------------	ExD
+13	.	Z:-------------	AuxK
+
+lnd91303-005-p4s3
+1	Lanovky	NNFP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	Pláň	NNFS4-----A----	Atr
+4	a	J^-------------	Coord
+5	Medvědín	NNIS4-----A----	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	provozu	NNIS6-----A---1	Adv
+9	,	Z:-------------	Coord
+10	stejně	Dg-------1A----	Adv
+11	tak	Db-------------	ExD
+12	všechny	PLIP1----------	Atr
+13	vleky	NNIP1-----A----	ExD
+14	.	Z:-------------	AuxK
+
+lnd91303-005-p4s4
+1	Silnice	NNFS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	Vrchlabí	NNNS2-----A----	Atr
+4	do	RR--2----------	AuxP
+5	Špindlu	NNIS2-----A----	Atr
+6	byla	VpQW---XR-AA---	Pred
+7	z	RR--2----------	AuxP
+8	poloviny	NNFS2-----A----	Adv
+9	ucpaná	AAFS1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+lnd91303-005-p4s5
+1	Auta	NNNP1-----A----	Sb
+2	parkují	VB-P---3P-AA---	Pred
+3	podél	RR--2----------	AuxP
+4	silnice	NNFS2-----A----	Adv
+5	,	Z:-------------	Coord
+6	na	RR--6----------	AuxP
+7	náměstí	NNNS6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+lnd91303-005-p5s1
+1	"	Z:-------------	AuxG
+2	Nepamatuji	VB-S---1P-NA--1	Obj
+3	tolik	Ca--4----------	Obj
+4	lidí	NNMP2-----A----	Atr
+5	,	Z:-------------	Coord
+6	ve	RV--6----------	AuxP
+7	městě	NNNS6-----A----	Adv
+8	snad	Db-------------	AuxY
+9	není	VB-S---3P-NA---	Obj
+10	volné	AANS1----1A----	Atr
+11	lůžko	NNNS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	"	Z:-------------	AuxG
+14	řekl	VpYS---XR-AA---	Pred
+15	nám	PP-P3--1-------	Obj
+16	starosta	NNMS1-----A----	Atr
+17	Špindlerova	AUIS2M---------	Atr
+18	Mlýna	NNIS2-----A----	Atr
+19	Jiří	NNMS1-----A----	Atr
+20	Dunka	NNMS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+lnd91303-005-p5s2
+1	"	Z:-------------	AuxG
+2	Může	VB-S---3P-AA---	Pred
+3	za	RR--4----------	AuxP
+4	to	PDNS4----------	Obj
+5	sníh	NNIS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+lnd91303-005-p5s3
+1	Dopravní	AAFS1----1A----	Atr
+2	situace	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	hranici	NNFS6-----A----	Adv
+6	únosnosti	NNFS2-----A----	Atr
+7	,	Z:-------------	Coord
+8	přes	RR--4----------	AuxP
+9	léto	NNNS4-----A----	Adv
+10	jsme	VB-P---1P-AA---	AuxV
+11	vybudovali	VpMP---XR-AA---	Pred
+12	nové	AANS4----1A----	Atr
+13	parkoviště	NNNS4-----A----	Obj
+14	pro	RR--4----------	AuxP
+15	300	C=-------------	Atr
+16	aut	NNNP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd91303-005-p5s4
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	ale	J^-------------	Coord
+4	málo	Dg-------1A----	Pnom
+5	.	Z:-------------	AuxK
+
+lnd91303-005-p5s5
+1	Pro	RR--4----------	AuxP
+2	turisty	NNMP4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	kteří	P4MP1----------	Sb
+5	jsou	VB-P---3P-AA---	AuxV
+6	tu	Db------------1	Adv
+7	ubytováni	VsMP---XX-AP---	Atr
+8	,	Z:-------------	AuxX
+9	by	Vc-------------	AuxV
+10	místa	NNNP1-----A----	Sb
+11	byla	VpQW---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+lnd91303-005-p5s6
+1	Na	RR--6----------	AuxP
+2	kolapsu	NNIS6-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	podílejí	VB-P---3P-AA---	Pred
+5	zejména	Db-------------	AuxZ
+6	jednodenní	AAMP1----1A----	Atr
+7	návštěvníci	NNMP1-----A----	Sb
+8	a	J^-------------	Coord
+9	devadesát	Cn-S1----------	Pnom
+10	procent	NNNP2-----A----	Atr
+11	z	RR--2----------	AuxP
+12	nich	P5XP2--3-------	Atr
+13	jsou	VB-P---3P-AA---	Pred
+14	Němci	NNMP1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+lnd91303-005-p5s7
+1	Uvažuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	o	RR--6----------	AuxP
+4	uzávěrce	NNFS6-----A----	Obj
+5	ve	RV--6----------	AuxP
+6	Vrchlabí	NNNS6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	to	PDNS1----------	Sb
+9	je	VB-S---3P-AA---	Pred
+10	ale	J^-------------	Coord
+11	věcí	NNFS7-----A----	Pnom
+12	dopravního	AAIS2----1A----	Atr
+13	inspektorátu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd91303-005-p5s8
+1	Myslím	VB-S---1P-AA---	Adv
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	dnešek	NNIS1-----A----	Sb
+5	bude	VB-S---3F-AA---	Obj
+6	ještě	Db-------------	AuxZ
+7	kritický	AAIS1----1A----	Pnom
+8	a	J^-------------	Coord
+9	pak	Db-------------	Adv
+10	si	P7-X3----------	AuxT
+11	trochu	Db-------------	Adv
+12	oddychneme	VB-P---1P-AA---	Obj
+13	,	Z:-------------	AuxX
+14	"	Z:-------------	AuxG
+15	odhadl	VpYS---XR-AA--1	Pred
+16	situaci	NNFS4-----A----	Obj
+17	starosta	NNMS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+lnd91303-005-p6s1
+1	Za	RR--2----------	AuxP
+2	tak	Db-------------	Adv
+3	ideálních	AAFP2----1A----	Atr
+4	lyžařských	AAFP2----1A----	Atr
+5	podmínek	NNFP2-----A----	Adv
+6	jsme	VB-P---1P-AA---	AuxV
+7	se	P7-X4----------	AuxT
+8	museli	VpMP---XR-AA---	Pred
+9	zeptat	Vf--------A----	Obj
+10	i	J^-------------	AuxZ
+11	na	RR--4----------	AuxP
+12	ubytovací	AAFP4----1A----	Atr
+13	možnosti	NNFP4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd91303-005-p6s2
+1	Např	Db------------8	Adv
+2	.	Z:-------------	AuxG
+3	zotavovna	NNFS1-----A----	Sb
+4	Arnica	NNFS1-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	Špindlerově	AUIS6M---------	Atr
+7	Mlýně	NNIS6-----A----	Atr
+8	:	Z:-------------	Pred
+9	"	Z:-------------	AuxG
+10	Máme	VB-P---1P-AA---	Obj
+11	plno	Db-------------	AtvV
+12	už	Db-------------	AuxZ
+13	od	RR--2----------	AuxP
+14	22	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	prosince	NNIS2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+lnd91303-005-p6s3
+1	Tento	PDIS4----------	Atr
+2	týden	NNIS4-----A----	Adv
+3	máme	VB-P---1P-AA---	Pred
+4	většinou	NNFS7-----A----	Adv
+5	hosty	NNMP4-----A----	Obj
+6	od	RR--2----------	AuxP
+7	nás	PP-P2--1-------	Atr
+8	.	Z:-------------	AuxK
+9	"	Z:-------------	AuxG
+
+lnd91303-005-p6s4
+1	Týden	NNIS1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	dospělého	AAMS4----1A----	Atr
+4	-	Z:-------------	Pred
+5	1400	C=-------------	Obj
+6	korun	NNFP2-----A----	Atr
+7	,	Z:-------------	Coord
+8	pro	RR--4----------	AuxP
+9	dítě	NNNS4-----A----	ExD
+10	do	RR--2----------	AuxP
+11	deseti	Cn-P2----------	Atr
+12	let	NNNP2-----A----	Atr
+13	-	Z:-------------	Pred
+14	700	C=-------------	Obj
+15	korun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91303-005-p7s1
+1	Také	Db-------------	AuxZ
+2	na	RR--6----------	AuxP
+3	chatě	NNFS6-----A----	Adv
+4	Špindlerovce	NNFS6-----A----	Atr
+5	obsadili	VpMP---XR-AA---	Pred
+6	lyžaři	NNMP1-----A----	Sb
+7	úplně	Dg-------1A----	AuxZ
+8	všechna	PLNP4----------	Atr
+9	lůžka	NNNP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+lnd91303-005-p7s2
+1	Lyžařské	AAIP1----1A----	Atr
+2	vleky	NNIP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	nejbližším	AANS6----3A----	Atr
+5	okolí	NNNS6-----A----	Adv
+6	Špindlerovky	NNFS2-----A----	Atr
+7	sice	Db-------------	AuxY
+8	pro	RR--4----------	AuxP
+9	veřejnost	NNFS4-----A----	Adv
+10	nejsou	VB-P---3P-NA---	Pred
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	terén	NNIS1-----A----	Sb
+14	je	VB-S---3P-AA---	Pred
+15	tu	Db------------1	Adv
+16	vhodný	AAIS1----1A----	Pnom
+17	pro	RR--4----------	AuxP
+18	běžkaře	NNMP4-----A----	Adv
+19	.	Z:-------------	AuxK
+
+lnd91303-005-p7s3
+1	A	J^-------------	Coord
+2	pro	RR--4----------	AuxP
+3	srovnání	NNNS4-----A----	ExD
+4	ceny	NNFP1-----A----	ExD
+5	pokojů	NNIP2-----A----	Atr
+6	,	Z:-------------	Coord
+7	140	C=-------------	ExD
+8	korun	NNFP2-----A----	Atr
+9	dvoulůžkový	AAIS1----1A----	ExD
+10	pro	RR--4----------	AuxP
+11	domácí	AAMP4----1A----	ExD
+12	,	Z:-------------	Coord
+13	380	C=-------------	ExD
+14	korun	NNFP2-----A----	Atr
+15	pro	RR--4----------	AuxP
+16	cizince	NNMP4-----A----	ExD
+17	.	Z:-------------	AuxK
+
+lnd91303-005-p8s1
+1	Zcela	Db-------------	Adv
+2	obsazené	AAFP1----1A----	Pnom
+3	jsou	VB-P---3P-AA---	Pred
+4	i	J^-------------	AuxY
+5	podnikové	AAFP1----1A----	Atr
+6	chaty	NNFP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	i	J^-------------	Coord
+9	ty	PDFP1----------	Sb
+10	,	Z:-------------	AuxX
+11	které	P4FP1----------	Sb
+12	-	Z:-------------	AuxG
+13	když	J,-------------	AuxC
+14	mají	VB-P---3P-AA---	Adv
+15	volnější	AAFS4----2A----	Atr
+16	kapacitu	NNFS4-----A----	Obj
+17	-	Z:-------------	AuxG
+18	poskytují	VB-P---3P-AA---	Atr
+19	ubytování	NNNS4-----A----	Obj
+20	veřejnosti	NNFS3-----A----	Obj
+21	,	Z:-------------	AuxX
+22	jako	J,-------------	AuxC
+23	například	Db-------------	AuxZ
+24	krkonošská	AAFS1----1A----	Atr
+25	Hronovka	NNFS1-----A----	ExD
+26	.	Z:-------------	AuxK
+
+lnd91303-005-p8s2
+1	Ani	J^-------------	AuxZ
+2	již	Db-------------	AuxZ
+3	fungující	AGIP1-----A----	Atr
+4	soukromé	AAIP1----1A----	Atr
+5	hotely	NNIP1-----A----	Sb
+6	turistu	NNMS4-----A----	Obj
+7	s	RR--7----------	AuxP
+8	největší	AAFS7----3A----	Atr
+9	pravděpodobností	NNFS7-----A----	Adv
+10	nezachrání	VB-P---3P-NA---	Pred
+11	-	Z:-------------	Coord
+12	například	Db-------------	Adv
+13	Lesní	AANS1----1A----	Atr
+14	zátiší	NNNS1-----A----	Sb
+15	v	RR--6----------	AuxP
+16	Harrachově	NNIS6-----A----	Atr
+17	je	VB-S---3P-AA---	AuxV
+18	obsazeno	VsNS---XX-AP---	Pred
+19	až	TT-------------	AuxZ
+20	do	RR--2----------	AuxP
+21	března	NNIS2-----A----	Adv
+22	,	Z:-------------	AuxX
+23	většinou	NNFS7-----A----	Adv
+24	zájemci	NNMP7-----A----	Obj
+25	ze	RV--2----------	AuxP
+26	zahraničí	NNNS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+lnd91303-005-p8s3
+1	A	J^-------------	Coord
+2	cena	NNFS1-----A----	ExD
+3	?	Z:-------------	AuxK
+
+lnd91303-005-p8s4
+1	V	RR--6----------	AuxP
+2	"	Z:-------------	AuxG
+3	supertermínech	NNIP6-----A----	Adv
+4	"	Z:-------------	AuxG
+5	jako	J,-------------	AuxC
+6	je	VB-S---3P-AA---	Atr
+7	Silvestr	NNIS1-----A----	Sb
+8	-	Z:-------------	Pred
+9	20	C=-------------	Obj
+10	německých	AAFP2----1A----	Atr
+11	marek	NNFP2-----A----	Atr
+12	za	RR--4----------	AuxP
+13	osobu	NNFS4-----A----	Adv
+14	,	Z:-------------	AuxX
+15	jinak	Db-------------	ExD
+16	12	C=-------------	ExD
+17	marek	NNFP2-----A----	Atr
+18	,	Z:-------------	Coord
+19	případně	Dg-------1A----	ExD
+20	v	RR--6----------	AuxP
+21	přepočtu	NNIS6-----A----	ExD
+22	na	RR--4----------	AuxP
+23	koruny	NNFP4-----A----	Atr
+24	.	Z:-------------	AuxK
+
+lnd91303-005-p9s1
+1	V	RR--6----------	AuxP
+2	Jizerských	AAFP6----1A----	Atr
+3	horách	NNFP6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	50	C=-------------	Sb
+6	-	Z:-------------	Coord
+7	90	C=-------------	Sb
+8	cm	NNIXX-----A---8	Atr
+9	sněhu	NNIS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	většina	NNFS1-----A----	Sb
+12	lyžařských	AAIP2----1A----	Atr
+13	povrchů	NNIP2-----A----	Atr
+14	je	VB-S---3P-AA---	Pred
+15	upravená	AAFS1----1A----	Pnom
+16	.	Z:-------------	AuxK
+
+lnd91303-005-p9s2
+1	Některé	PZFP1----------	Atr
+2	silnice	NNFP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	neprůjezdné	AAFP1----1N----	Pnom
+5	a	J^-------------	Coord
+6	parkovací	AAFP1----1A----	Atr
+7	kapacity	NNFP1-----A----	Sb
+8	jsou	VB-P---3P-AA---	Pred
+9	vyčerpány	VsTP---XX-AP---	Pnom
+10	.	Z:-------------	AuxK
+
+lnd91303-005-p9s3
+1	Silně	Dg-------1A----	Adv
+2	omezen	VsYS---XX-AP---	Pred
+3	je	VB-S---3P-AA---	AuxV
+4	provoz	NNIS1-----A----	Sb
+5	mezi	RR--7----------	AuxP
+6	Libercem	NNIS7-----A----	Adv
+7	a	J^-------------	Coord
+8	Bedřichovem	NNIS7-----A----	Adv
+9	.	Z:-------------	AuxK
+
+lnd91303-005-p10s1
+1	Sněhová	AAFS1----1A----	Atr
+2	nadílka	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	letos	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	Beskydech	NNIP6-----A----	Adv
+7	štědrá	AAFS1----1A----	Pnom
+8	:	Z:-------------	Apos
+9	od	RR--2----------	AuxP
+10	60	C=-------------	Pnom
+11	cm	NNIXX-----A---8	Atr
+12	na	RR--6----------	AuxP
+13	Javorovém	AANS6----1A----	Atr
+14	až	TT-------------	AuxZ
+15	po	RR--4----------	AuxP
+16	113	C=-------------	Pnom
+17	cm	NNIXX-----A---8	Atr
+18	na	RR--6----------	AuxP
+19	Lysé	AAFS6----1A----	Atr
+20	Hoře	NNFS6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd91303-005-p10s2
+1	Přestože	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	na	RR--6----------	AuxP
+4	sněhu	NNIS6-----A----	Adv
+5	tvoří	VB-S---3P-AA---	Adv
+6	ledová	AAFS1----1A----	Atr
+7	kůra	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	počet	NNIS1-----A----	Sb
+11	návštěvníků	NNMP2-----A----	Atr
+12	srovnatelný	AAIS1----1A----	Pnom
+13	s	RR--7----------	AuxP
+14	loňskem	NNNS7-----A----	Adv
+15	.	Z:-------------	AuxK
+
+lnd91303-005-p10s3
+1	Přístupové	AAFP1----1A----	Atr
+2	silnice	NNFP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	uklizeny	VsTP---XX-AP---	Pnom
+5	a	J^-------------	Coord
+6	je	VB-S---3P-AA---	Pred
+7	na	RR--6----------	AuxP
+8	nich	P5XP6--3-------	Adv
+9	ujetá	AAFS1----1A----	Atr
+10	15	C=-------------	Atr
+11	cm	NNIXX-----A---8	Atr
+12	vrstva	NNFS1-----A----	Sb
+13	sněhu	NNIS2-----A----	Atr
+14	s	RR--7----------	AuxP
+15	posypem	NNIS7-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91303-005-p10s4
+1	Problémy	NNIP1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	parkováním	NNNS7-----A----	Atr
+4	nejsou	VB-P---3P-NA---	Pred
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	hotely	NNIP1-----A----	Sb
+8	a	J^-------------	Coord
+9	chaty	NNFP1-----A----	Sb
+10	jsou	VB-P---3P-AA---	Pred
+11	plně	Dg-------1A----	Adv
+12	obsazeny	VsTP---XX-AP---	Pnom
+13	.	Z:-------------	AuxK
+
+lnd91303-005-p10s5
+1	Například	Db-------------	Adv
+2	hotel	NNIS1-----A----	Sb
+3	Charbulák	NNIS1-----A----	Atr
+4	na	RR--6----------	AuxP
+5	Gruni	NNFS6-----A----	Atr
+6	má	VB-S---3P-AA---	Pred
+7	102	C=-------------	Obj
+8	lůžek	NNNP2-----A----	Atr
+9	obsazeno	VsNS---XX-AP---	Atv
+10	až	TT-------------	AuxZ
+11	do	RR--2----------	AuxP
+12	března	NNIS2-----A----	Adv
+13	.	Z:-------------	AuxK
+
+lnd91303-005-p11s1
+1	V	RR--6----------	AuxP
+2	Jeseníkách	NNIP6-----A---1	Adv
+3	na	RR--6----------	AuxP
+4	Pradědu	NNMS6-----A---1	Adv
+5	je	VB-S---3P-AA---	Pred
+6	130	C=-------------	Sb
+7	cm	NNIXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	jasné	AANS1----1A----	Atr
+10	počasí	NNNS1-----A----	Sb
+11	a	J^-------------	Coord
+12	mrazivý	AAIS1----1A----	Atr
+13	vítr	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+lnd91303-005-p11s2
+1	Také	Db-------------	AuxZ
+2	zde	Db-------------	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	ubytovací	AAFP1----1A----	Atr
+5	kapacity	NNFP1-----A----	Sb
+6	obsazeny	VsTP---XX-AP---	Pnom
+7	,	Z:-------------	Coord
+8	ovšem	J^-------------	Adv
+9	jednodenních	AAMP2----1A----	Atr
+10	návštěvníků	NNMP2-----A----	Atr
+11	přijíždí	VB-S---3P-AA---	Pred
+12	méně	Dg-------2A----	Sb
+13	než	J,-------------	AuxC
+14	loni	Db------------1	ExD
+15	.	Z:-------------	AuxK
+
+lnd91303-005-p11s3
+1	Chata	NNFS1-----A----	Sb
+2	Švýcárna	NNFS1-----A----	Atr
+3	má	VB-S---3P-AA---	Pred
+4	všech	PLXP2----------	Atr
+5	45	C=-------------	Obj
+6	lůžek	NNNP2-----A----	Atr
+7	zadáno	VsNS---XX-AP---	Atv
+8	až	TT-------------	AuxZ
+9	do	RR--2----------	AuxP
+10	dubna	NNIS2-----A----	Adv
+11	především	Db-------------	AuxZ
+12	pro	RR--4----------	AuxP
+13	lyžařské	AAIP4----1A----	Atr
+14	kursy	NNIP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd91303-005-p12s1
+1	Také	Db-------------	AuxZ
+2	na	RR--6----------	AuxP
+3	Žďársku	NNNS6-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	sněhové	AAFP1----1A----	Atr
+6	podmínky	NNFP1-----A----	Sb
+7	téměř	Db-------------	Adv
+8	ideální	AAFP1----1A----	Pnom
+9	.	Z:-------------	AuxK
+
+lnd91303-005-p12s2
+1	Během	RR--2----------	AuxP
+2	vánoc	NNFP2-----A----	Adv
+3	napadlo	VpNS---XR-AA--1	Pred
+4	přes	RR--4----------	AuxP
+5	půl	NNFS4-----A----	Adv
+6	metru	NNIS2-----A----	Atr
+7	nového	AAIS2----1A----	Atr
+8	sněhu	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd91303-005-p12s3
+1	Ceny	NNFP1-----A----	Sb
+2	jednolůžkových	AAIP2----1A----	Atr
+3	pokojů	NNIP2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	hotelech	NNIP6-----A----	Atr
+6	Ski	NNIS1-----A----	Atr
+7	a	J^-------------	Coord
+8	Sněžné	AANS1----1A----	Atr
+9	se	P7-X4----------	AuxT
+10	pohybují	VB-P---3P-AA---	Pred
+11	od	RR--2----------	AuxP
+12	90	C=-------------	Adv
+13	do	RR--2----------	AuxP
+14	100	C=-------------	Adv
+15	korun	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	dvoulůžkových	AAIP2----1A----	ExD
+18	kolem	RR--2----------	AuxP
+19	150	C=-------------	ExD
+20	korun	NNFP2-----A----	Atr
+21	a	J^-------------	Coord
+22	plná	AAFS1----1A----	Atr
+23	penze	NNFS1-----A----	Sb
+24	přijde	VB-S---3P-AA---	Pred
+25	na	RR--4----------	AuxP
+26	100	C=-------------	Obj
+27	Kčs	NNFXX-----A---8	Atr
+28	.	Z:-------------	AuxK
+
+lnd91303-005-p13s1
+1	(	Z:-------------	AuxG
+2	LN	NNFPX-----A---8	ExD
+3	)	Z:-------------	AuxG
+

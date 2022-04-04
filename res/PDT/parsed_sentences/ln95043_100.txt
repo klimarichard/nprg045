@@ -1,0 +1,110 @@
+ln95043-100-p1s1
+1	Kursy	NNIP1-----A----	ExD
+2	*	Z:-------------	Coord
+3	Semináře	NNIP1-----A----	ExD
+
+ln95043-100-p2s1
+1	K	RR--3----------	AuxP
+2	otázkám	NNFP3-----A----	ExD
+3	požární	AAFS2----1A----	Atr
+4	ochrany	NNFS2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+ln95043-100-p2s2
+1	Dvoudenní	AAIS1----1A----	Atr
+2	seminář	NNIS1-----A----	ExD
+3	věnovaný	AAIS1----1A----	Atr
+4	změnám	NNFP3-----A----	Obj
+5	v	RR--6----------	AuxP
+6	zákonu	NNIS6-----A---1	Atr
+7	o	RR--6----------	AuxP
+8	požární	AAFS6----1A----	Atr
+9	ochraně	NNFS6-----A----	Atr
+10	,	Z:-------------	AuxX
+11	posuzování	NNNS6-----A----	Obj
+12	požárního	AANS2----1A----	Atr
+13	nebezpečí	NNNS2-----A----	Atr
+14	a	J^-------------	Coord
+15	požární	AAFS6----1A----	Atr
+16	ochraně	NNFS6-----A----	Obj
+17	v	RR--6----------	AuxP
+18	českých	AAFP6----1A----	Atr
+19	technických	AAFP6----1A----	Atr
+20	normách	NNFP6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95043-100-p2s3
+1	Výklad	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	zaměří	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	na	RR--4----------	AuxP
+6	novou	AAFS4----1A----	Atr
+7	povinnost	NNFS4-----A----	Obj
+8	zpracovat	Vf--------A----	Atr
+9	analýzu	NNFS4-----A----	Obj
+10	požárního	AANS2----1A----	Atr
+11	nebezpečí	NNNS2-----A----	Atr
+12	ve	RV--6----------	AuxP
+13	všech	PLXP6----------	Atr
+14	organizacích	NNFP6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95043-100-p2s4
+1	Pro	RR--4----------	AuxP
+2	účastníky	NNMP4-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	připravena	VsQW---XX-AP---	Pnom
+5	publikace	NNFS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	v	RR--6----------	AuxP
+8	níž	P9FS6----------	Adv
+9	je	VB-S---3P-AA---	Atr
+10	zpracováno	VsNS---XX-AP---	Pnom
+11	přes	RR--4----------	AuxP
+12	800	C=-------------	Sb
+13	technických	AAFP2----1A----	Atr
+14	norem	NNFP2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	současném	AANS6----1A----	Atr
+17	platném	AANS6----1A----	Atr
+18	znění	NNNS6-----A----	AtrAdv
+19	.	Z:-------------	AuxK
+
+ln95043-100-p2s5
+1	Termín	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	místo	NNNS1-----A----	ExD
+4	konání	NNNS2-----A----	Atr
+5	:	Z:-------------	Apos
+6	23	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	až	J^-------------	Coord
+9	24	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	2	C=-------------	ExD
+12	.	Z:-------------	AuxG
+13	v	RR--6----------	AuxP
+14	Brně	NNNS6-----A----	ExD
+15	.	Z:-------------	AuxK
+
+ln95043-100-p2s6
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Družstvo	NNNS1-----A----	ExD
+4	Safea	NNFS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	623	C=-------------	Atr
+7	00	C=-------------	Atr
+8	Brno	NNNS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Pavlovská	AAFS1----1A----	Atr
+11	3	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	tel	NNIXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	05	C=-------------	Atr
+16	/	Z:-------------	AuxG
+17	382034	C=-------------	Atr
+18	.	Z:-------------	AuxK
+

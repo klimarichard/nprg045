@@ -1,0 +1,207 @@
+cmpr9406-013-p3s1
+1	|	Z:-------------	ExD
+2	Daňový	AAMS1----1A----	Atr
+3	poradce	NNMS1-----A----	ExD
+4	|	Z:-------------	AuxK
+
+cmpr9406-013-p5s1
+1	Trápí	VB-P---3P-AA---	Pred
+2	vás	PP-P4--2-------	Obj
+3	daně	NNFP1-----A----	Sb
+4	?	Z:-------------	AuxK
+
+cmpr9406-013-p5s2
+1	Nevíte	VB-P---2P-NA---	Pred
+2	,	Z:-------------	AuxX
+3	co	PQ--4----------	Obj
+4	kam	Db-------------	Adv
+5	započítat	Vf--------A----	Obj
+6	?	Z:-------------	AuxK
+
+cmpr9406-013-p5s3
+1	Zdá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	vám	PP-P3--2-------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	finanční	AAIS1----1A----	Atr
+7	úřad	NNIS1-----A----	Sb
+8	nepostupoval	VpYS---XR-NA---	Sb
+9	správně	Dg-------1A----	Adv
+10	?	Z:-------------	AuxK
+
+cmpr9406-013-p5s4
+1	Jsou	VB-P---3P-AA---	Pred
+2	vám	PP-P3--2-------	Obj
+3	nejasná	AANP1----1N----	Pnom
+4	některá	PZNP1----------	Atr
+5	ustanovení	NNNP1-----A----	Sb
+6	daňových	AAIP2----1A----	Atr
+7	zákonů	NNIP2-----A----	Atr
+8	?	Z:-------------	AuxK
+
+cmpr9406-013-p5s5
+1	Je	VB-S---3P-AA---	Pred
+2	tu	Db------------1	Adv
+3	pro	RR--4----------	AuxP
+4	vás	PP-P4--2-------	Obj
+5	připravena	VsQW---XX-AP---	Pnom
+6	rubrika	NNFS1-----A----	Sb
+7	Daňový	AAMS1----1A----	Atr
+8	poradce	NNMS1-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9406-013-p5s6
+1	Vaše	PSXP4-P2-------	Atr
+2	dotazy	NNIP4-----A----	Obj
+3	čekáme	VB-P---1P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	naší	PSFS6-P1-------	Atr
+6	adrese	NNFS6-----A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9406-013-p6s1
+1	Spotřební	AAFP1----1A----	Atr
+2	daně	NNFP1-----A----	ExD
+
+cmpr9406-013-p7s1
+1	Můžete	VB-P---2P-AA---	Pred
+2	mi	PH-S3--1-------	Obj
+3	sdělit	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	k	RR--3----------	AuxP
+6	jakým	P4XP3----------	Atr
+7	hlavním	AAFP3----1A----	Atr
+8	změnám	NNFP3-----A----	Obj
+9	došlo	VpNS---XR-AA---	Obj
+10	po	RR--6----------	AuxP
+11	srpnové	AAFS6----1A----	Atr
+12	novele	NNFS6-----A----	Adv
+13	zákona	NNIS2-----A----	Atr
+14	o	RR--6----------	AuxP
+15	spotřebních	AAFP6----1A----	Atr
+16	daních	NNFP6-----A----	Atr
+17	?	Z:-------------	AuxK
+
+cmpr9406-013-p8s1
+1	Karel	NNMS1-----A----	Atr
+2	Holínek	NNFP2-----A----	ExD
+3	,	Z:-------------	ExD
+4	Praha	NNFS1-----A----	ExD
+
+cmpr9406-013-p9s1
+1	Došlo	VpNS---XR-AA---	Pred
+2	ke	RV--3----------	AuxP
+3	zpřesnění	NNNS3-----A----	Obj
+4	pojmů	NNIP2-----A----	Atr
+5	například	Db-------------	AuxZ
+6	tuzemsko	NNNS1-----A----	Atr
+7	-	Z:-------------	Coord
+8	zahraničí	NNNS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	dovoz	NNIS1-----A----	Atr
+11	-	Z:-------------	Coord
+12	vývoz	NNIS1-----A----	Atr
+13	a	J^-------------	Coord
+14	podobně	Dg-------1A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9406-013-p9s2
+1	Změnila	VpQW---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	povinnost	NNFS1-----A----	Sb
+4	plátce	NNMS2-----A----	Atr
+5	ohledně	RR--2----------	AuxP
+6	vystavování	NNNS2-----A----	Adv
+7	daňových	AAIP2----1A----	Atr
+8	dokladů	NNIP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	použití	NNNS2-----A----	Adv
+11	určitých	AAIP2----1A----	Atr
+12	výrobků	NNIP2-----A----	Atr
+13	k	RR--3----------	AuxP
+14	nepodnikatelským	AAFP3----1N----	Atr
+15	činnostem	NNFP3-----A----	Atr
+16	,	Z:-------------	AuxX
+17	změnil	VpYS---XR-AA---	Pred
+18	se	P7-X4----------	AuxR
+19	termín	NNIS1-----A----	Sb
+20	předkládání	NNNS2-----A----	Atr
+21	daňových	AANP2----1A----	Atr
+22	přiznání	NNNP2-----A----	Atr
+23	na	RR--4----------	AuxP
+24	25	C=-------------	Adv
+25	dnů	NNIP2-----A----	Atr
+26	,	Z:-------------	Coord
+27	je	VB-S---3P-AA---	Pred
+28	změněna	VsQW---XX-AP---	Pnom
+29	ve	RV--6----------	AuxP
+30	vracení	NNNS6-----A----	Obj
+31	daně	NNFS2-----A----	Atr
+32	,	Z:-------------	Coord
+33	upřesněno	VsNS---XX-AP---	ExD
+34	zdaňovací	AANS1----1A----	Atr
+35	období	NNNS1-----A----	ExD
+36	,	Z:-------------	AuxX
+37	odvod	NNIS1-----A----	ExD
+38	,	Z:-------------	AuxX
+39	splatnost	NNFS1-----A----	ExD
+40	,	Z:-------------	AuxX
+41	zálohové	AANS1----1A----	Atr
+42	vracení	NNNS1-----A----	ExD
+43	,	Z:-------------	AuxX
+44	registrace	NNFS1-----A----	ExD
+45	,	Z:-------------	AuxX
+46	oznamovací	AAFS1----1A----	Atr
+47	povinnost	NNFS1-----A----	ExD
+48	,	Z:-------------	AuxX
+49	penále	NNNS1-----A----	ExD
+50	,	Z:-------------	Coord
+51	pokuty	NNFP1-----A----	ExD
+52	atd	Db------------8	ExD
+53	.	Z:-------------	AuxG
+
+cmpr9406-013-p9s3
+1	Ovšem	J^-------------	Coord
+2	zákon	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	zákon	NNIS1-----A----	Pnom
+5	a	J^-------------	Coord
+6	nemohu	VB-S---1P-NA--1	Pred
+7	doporučit	Vf--------A----	Obj
+8	nic	PW--4----------	Obj
+9	jiného	AANS2----1A----	Atr
+10	,	Z:-------------	AuxX
+11	než	J,-------------	AuxC
+12	prostudování	NNNS4-----A----	ExD
+13	jeho	PSXXXZS3-------	Atr
+14	autentického	AANS2----1A----	Atr
+15	znění	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9406-013-p10s1
+1	Jiří	NNMS1-----A----	Atr
+2	Gebarowský	NNMS1-----A----	ExD
+
+cmpr9406-013-p11s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Norská	AAFS1----1A----	Atr
+4	12	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	101	C=-------------	Atr
+7	00	C=-------------	Atr
+8	Praha	NNFS1-----A----	ExD
+9	10	C=-------------	Atr
+10	,	Z:-------------	AuxX
+11	tel	NNIXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	:	Z:-------------	AuxG
+14	(	Z:-------------	AuxG
+15	02	C=-------------	Atr
+16	)	Z:-------------	AuxG
+17	73	C=-------------	Atr
+18	89	C=-------------	Atr
+19	59	C=-------------	Atr
+20	.	Z:-------------	AuxK
+

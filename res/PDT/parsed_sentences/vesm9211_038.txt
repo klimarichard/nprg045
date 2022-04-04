@@ -1,0 +1,354 @@
+vesm9211-038-p1s1
+1	Náhlé	AANS1----1A----	Atr
+2	usnutí	NNNS1-----A----	ExD
+
+vesm9211-038-p2s1
+1	Narkolepsie	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	neurologické	AANS1----1N----	Atr
+4	onemocnění	NNNS1-----A----	Pnom
+5	charakterizované	AANS1----1A----	Atr
+6	náhlým	AANS7----1A----	Atr
+7	usínáním	NNNS7-----A----	Adv
+8	za	RR--2----------	AuxP
+9	jakýchkoli	PZXP2---------1	Atr
+10	okolností	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-038-p2s2
+1	Doprovází	VB-S---3P-AA---	Pred
+2	je	PPXP4--3-------	Obj
+3	ztráta	NNFS1-----A----	Sb
+4	svalového	AANS2----1A----	Atr
+5	napětí	NNNS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	nejčastěji	Dg-------3A----	Adv
+8	spouštěná	AAFS1----1A----	Atr
+9	náhlými	AAFP7----1A----	Atr
+10	a	J^-------------	Coord
+11	silnými	AAFP7----1A----	Atr
+12	emocemi	NNFP7-----A----	Obj
+13	.	Z:-------------	AuxK
+
+vesm9211-038-p2s3
+1	Tento	PDIS4----------	Atr
+2	stav	NNIS4-----A----	Obj
+3	neurologové	NNMP1-----A----	Sb
+4	nazývají	VB-P---3P-AA---	Pred
+5	kataplexií	NNFS7-----A----	Adv
+6	.	Z:-------------	AuxK
+
+vesm9211-038-p2s4
+1	Existují	VB-P---3P-AA---	Pred
+2	psi	NNMP1-----A----	Sb
+3	stižení	AAMP1----1A----	Atr
+4	narkolepsií	NNFS7-----A----	Adv
+5	i	J^-------------	Coord
+6	kataplexií	NNFS7-----A----	Adv
+7	a	J^-------------	Coord
+8	jejich	PSXXXXP3-------	Atr
+9	onemocnění	NNNS1-----A----	Sb
+10	je	VB-S---3P-AA---	Pred
+11	velmi	Db-------------	Adv
+12	podobné	AANS1----1A----	Pnom
+13	lidskému	AANS3----1A----	ExD
+14	.	Z:-------------	AuxK
+
+vesm9211-038-p2s5
+1	Bývají	VB-P---3P-AA---	Pred
+2	ospalí	AAMP1----1A----	Pnom
+3	stejně	Dg-------1A----	Adv
+4	jako	J,-------------	AuxC
+5	lidé	NNMP1-----A---1	ExD
+6	a	J^-------------	Coord
+7	okamžitě	Dg-------1A----	Adv
+8	po	RR--6----------	AuxP
+9	usnutí	NNNS6-----A----	Adv
+10	se	P7-X4----------	AuxT
+11	objeví	VB-S---3P-AA---	Pred
+12	paradoxní	AAFS1----1A----	Atr
+13	spánková	AAFS1----1A----	Atr
+14	fáze	NNFS1-----A----	Sb
+15	(	Z:-------------	Apos
+16	také	Db-------------	AuxZ
+17	REM	AAXXX----1A---8	Atr
+18	fáze	NNFS1-----A----	Sb
+19	-	Z:-------------	AuxG
+20	podle	RR--2----------	AuxP
+21	angl	AAXXX----1A---8	Atr
+22	.	Z:-------------	AuxG
+23	"	Z:-------------	AuxG
+24	rapid	AAXXX----1A----	Atr
+25	eye	AAXXX----1A----	Atr
+26	movements	NNIPX-----A----	ExD
+27	"	Z:-------------	AuxG
+28	-	Z:-------------	Apos
+29	rychlých	AAIP2----1A----	Atr
+30	pohybů	NNIP2-----A----	ExD
+31	očí	NNFP2-----A----	Atr
+32	,	Z:-------------	AuxX
+33	při	RR--6----------	AuxP
+34	níž	P9FS6----------	Adv
+35	je	VB-S---3P-AA---	Atr
+36	spícího	AGMS4-----A----	Obj
+37	nejobtížnější	AANS1----3A----	Pnom
+38	probudit	Vf--------A----	Sb
+39	;	Z:-------------	AuxK
+
+vesm9211-038-p2s7
+1	má	VB-S---3P-AA---	Pred
+2	charakteristický	AAIS4----1A----	Atr
+3	záznam	NNIS4-----A----	Obj
+4	elektroencefalografický	AAIS4----1A----	Atr
+5	,	Z:-------------	AuxX
+6	odpovídající	AGIS4-----A----	Atr
+7	bouřlivé	AAFS3----1A----	Atr
+8	aktivitě	NNFS3-----A----	Obj
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	zdají	VB-P---3P-AA---	Pred
+12	se	P7-X4----------	AuxT
+13	sny	NNIP1-----A----	Sb
+14	)	Z:-------------	AuxG
+15	.	Z:-------------	AuxK
+
+vesm9211-038-p2s8
+1	Kromě	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	reagují	VB-P---3P-AA---	Pred
+4	kataleptičtí	AAMP1----1A----	Atr
+5	psi	NNMP1-----A----	Sb
+6	na	RR--4----------	AuxP
+7	farmaka	NNNP4-----A----	Obj
+8	stejně	Dg-------1A----	Adv
+9	jako	J,-------------	AuxC
+10	lidé	NNMP1-----A---1	ExD
+11	.	Z:-------------	AuxK
+
+vesm9211-038-p2s9
+1	Jak	Db-------------	AuxY
+2	u	RR--2----------	AuxP
+3	lidí	NNMP2-----A----	Adv
+4	,	Z:-------------	AuxX
+5	tak	J^-------------	Coord
+6	u	RR--2----------	AuxP
+7	psů	NNMP2-----A----	Adv
+8	je	VB-S---3P-AA---	Pred
+9	narkolepsie	NNFS1-----A----	Sb
+10	podmíněna	VsQW---XX-AP---	Pnom
+11	geneticky	Dg-------1A----	Adv
+12	.	Z:-------------	AuxK
+
+vesm9211-038-p2s10
+1	Uvažovalo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	narkolepsie	NNFS1-----A----	Sb
+6	je	VB-S---3P-AA---	Obj
+7	onemocněním	NNNS7-----A----	Pnom
+8	systému	NNIS2-----A----	Atr
+9	regulujícího	AGIS2-----A----	Atr
+10	paradoxní	AAIS4----1A----	Atr
+11	spánek	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+vesm9211-038-p3s1
+1	Retikulární	AAFS1----1A----	Atr
+2	formace	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	název	NNIS1-----A----	Pnom
+5	pro	RR--4----------	AuxP
+6	vývojově	Dg-------1A----	Adv
+7	starý	AAIS4----1A----	Atr
+8	oblak	NNIS4-----A----	Atr
+9	neuronů	NNIP2-----A----	Atr
+10	táhnoucí	AGIS4-----A----	Atr
+11	se	P7-X4----------	AuxT
+12	mozkovým	AAIS7----1A----	Atr
+13	kmenem	NNIS7-----A----	Adv
+14	-	Z:-------------	Coord
+15	mozkový	AAIS1----1A----	Atr
+16	kmen	NNIS1-----A----	Sb
+17	je	VB-S---3P-AA---	Pred
+18	souhrnný	AAIS1----1A----	Atr
+19	název	NNIS1-----A----	Pnom
+20	prodloužené	AAFS2----1A----	Atr
+21	míchy	NNFS2-----A----	Atr
+22	,	Z:-------------	Apos
+23	Varolova	AUIS2M---------	Atr
+24	mostu	NNIS2-----A----	Atr
+25	a	J^-------------	Coord
+26	středního	AAIS2----1A----	Atr
+27	mozku	NNIS2-----A----	Atr
+28	a	J^-------------	Coord
+29	připomíná	VB-S---3P-AA---	Pred
+30	stvol	NNIS4-----A----	Obj
+31	,	Z:-------------	AuxX
+32	na	RR--6----------	AuxP
+33	němž	P9ZS6----------	Adv
+34	jsou	VB-P---3P-AA---	Atr
+35	"	Z:-------------	AuxG
+36	nasazeny	VsTP---XX-AP---	Pnom
+37	"	Z:-------------	AuxG
+38	hemisféry	NNFP1-----A----	Sb
+39	.	Z:-------------	AuxK
+
+vesm9211-038-p3s2
+1	Součástí	NNFS7-----A----	Pnom
+2	retikulární	AAFS2----1A----	Atr
+3	formace	NNFS2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	neuronální	AAIP1----1A----	Atr
+6	systémy	NNIP1-----A----	Sb
+7	podílející	AGIP1-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	na	RR--6----------	AuxP
+10	regulaci	NNFS6-----A----	Obj
+11	spánku	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	bdění	NNNS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	včetně	RR--2----------	AuxP
+16	REM	AAXXX----1A---8	Atr
+17	fáze	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9211-038-p4s1
+1	U	RR--2----------	AuxP
+2	narkoleptických	AAMP2----1A----	Atr
+3	psů	NNMP2-----A----	Adv
+4	byly	VpTP---XR-AA---	AuxV
+5	ve	RV--6----------	AuxP
+6	střední	AAFS6----1A----	Atr
+7	části	NNFS6-----A----	Adv
+8	prodloužené	AAFS2----1A----	Atr
+9	míchy	NNFS2-----A----	Atr
+10	nalezeny	VsTP---XX-AP---	Pred
+11	skupinky	NNFP1-----A----	Sb
+12	nervových	AAFP2----1A----	Atr
+13	buněk	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4FP1----------	Sb
+16	jsou	VB-P---3P-AA---	Atr
+17	vysoce	Db-------------	Adv
+18	aktivní	AAFP1----1A----	Pnom
+19	pouze	Db-------------	AuxZ
+20	v	RR--6----------	AuxP
+21	průběhu	NNIS6-----A----	AuxP
+22	ztráty	NNFS2-----A----	Adv
+23	svalového	AANS2----1A----	Atr
+24	napětí	NNNS2-----A----	Atr
+25	(	Z:-------------	Apos
+26	kataplexie	NNFS2-----A----	Adv
+27	)	Z:-------------	AuxG
+28	a	J^-------------	Coord
+29	při	RR--6----------	AuxP
+30	paradoxním	AAIS6----1A----	Atr
+31	(	Z:-------------	Apos
+32	REM	AAXXX----1A---8	Atr
+33	)	Z:-------------	AuxG
+34	spánku	NNIS6-----A----	Adv
+35	(	Z:-------------	ExD
+36	Science	NNFSX-----A----	ExD
+37	252	C=-------------	Atr
+38	,	Z:-------------	AuxX
+39	1315	C=-------------	Atr
+40	,	Z:-------------	AuxX
+41	1991	C=-------------	Atr
+42	)	Z:-------------	ExD
+43	.	Z:-------------	AuxK
+
+vesm9211-038-p4s2
+1	Zdá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jde	VB-S---3P-AA---	Sb
+6	o	RR--4----------	AuxP
+7	neurony	NNIP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	jejichž	P1XXXXP3-------	Atr
+10	činnost	NNFS1-----A----	Sb
+11	je	VB-S---3P-AA---	Atr
+12	odpovědná	AAFS1----1A----	Pnom
+13	za	RR--4----------	AuxP
+14	náhlou	AAFS4----1A----	Atr
+15	ztrátu	NNFS4-----A----	Obj
+16	svalového	AANS2----1A----	Atr
+17	napětí	NNNS2-----A----	Atr
+18	charakterizující	AGFS4-----A----	Atr
+19	kataplexii	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+vesm9211-038-p4s3
+1	Přitom	Db-------------	Adv
+2	jiné	AAFP1----1A----	Atr
+3	nervové	AAFP1----1A----	Atr
+4	buňky	NNFP1-----A----	Sb
+5	prodloužené	AAFS2----1A----	Atr
+6	míchy	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	průběhu	NNIS6-----A----	AuxP
+9	kataleptického	AAIS2----1A----	Atr
+10	stavu	NNIS2-----A----	Atr
+11	nebyly	VpTP---XR-NA---	Pred
+12	činné	AAFP1----1A----	Pnom
+13	,	Z:-------------	AuxX
+14	zato	J,-------------	Adv
+15	však	J^-------------	Coord
+16	byly	VpTP---XR-AA---	Pred
+17	činné	AAFP1----1A----	Pnom
+18	při	RR--6----------	AuxP
+19	REM	AAXXX----1A---8	Atr
+20	spánku	NNIS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+vesm9211-038-p4s4
+1	Kataplexie	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	tedy	Db-------------	Adv
+4	odlišuje	VB-S---3P-AA---	Pred
+5	od	RR--2----------	AuxP
+6	jiných	AAIP2----1A----	Atr
+7	stavů	NNIP2-----A----	Obj
+8	bdění	NNNS2-----A----	Atr
+9	a	J^-------------	Coord
+10	spánku	NNIS2-----A----	Atr
+11	ovlivňovaných	AAIP2----1A----	Atr
+12	činností	NNFS7-----A----	Obj
+13	mozkového	AAIS2----1A----	Atr
+14	kmene	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9211-038-p4s5
+1	Bližší	AANS1----2A----	Atr
+2	poznání	NNNS1-----A----	Sb
+3	mechanismu	NNIS2-----A----	Atr
+4	odchylné	AAFS2----1A----	Atr
+5	činnosti	NNFS2-----A----	Atr
+6	popsaných	AAIP2----1A----	Atr
+7	neuronů	NNIP2-----A----	Atr
+8	patrně	Dg-------1A----	AuxY
+9	přispěje	VB-S---3P-AA---	Pred
+10	k	RR--3----------	AuxP
+11	lepšímu	AANS3----2A----	Atr
+12	léčebnému	AANS3----1A----	Atr
+13	zvládnutí	NNNS3-----A----	Obj
+14	tohoto	PDZS2----------	Atr
+15	ne	TT-------------	AuxZ
+16	zcela	Db-------------	Adv
+17	vzácného	AANS2----1A----	Atr
+18	,	Z:-------------	AuxX
+19	nepříjemného	AANS2----1N----	Atr
+20	a	J^-------------	Coord
+21	svým	P8ZS7----------	Atr
+22	způsobem	NNIS7-----A----	Adv
+23	ohrožujícího	AGNS2-----A----	Atr
+24	onemocnění	NNNS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+vesm9211-038-p5s1
+1	František	NNMS1-----A----	Atr
+2	Koukolík	NNMS1-----A----	ExD
+

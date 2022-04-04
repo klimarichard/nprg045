@@ -1,0 +1,90 @@
+mf920924-013-p1s1
+1	Plyn	NNIS1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	zimu	NNFS4-----A----	Atr
+
+mf920924-013-p2s1
+1	V	RR--6----------	AuxP
+2	podzemním	AAIS6----1A----	Atr
+3	zásobníku	NNIS6-----A----	Adv
+4	plynu	NNIS2-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	Štramberku	NNIS6-----A----	Adv
+7	uskladnili	VpMP---XR-AA---	Pred
+8	pro	RR--4----------	AuxP
+9	potřebu	NNFS4-----A----	Adv
+10	letošní	AAFS2----1A----	Atr
+11	zimy	NNFS2-----A----	Atr
+12	332	C=-------------	Obj
+13	miliónů	NNIP2-----A----	Atr
+14	krychlových	AAIP2----1A----	Atr
+15	metrů	NNIP2-----A----	Atr
+16	zemního	AAIS2----1A----	Atr
+17	plynu	NNIS2-----A----	Atr
+18	,	Z:-------------	Coord
+19	což	PE--1----------	Sb
+20	je	VB-S---3P-AA---	Pred
+21	plná	AAFS1----1A----	Atr
+22	kapacita	NNFS1-----A----	Pnom
+23	.	Z:-------------	AuxK
+
+mf920924-013-p2s2
+1	Uskladňováním	NNNS7-----A----	Adv
+2	plynu	NNIS2-----A----	Atr
+3	se	P7-X4----------	AuxR
+4	zajišťuje	VB-S---3P-AA---	Pred
+5	rovnoměrný	AAIS1----1A----	Atr
+6	odběr	NNIS1-----A----	Sb
+7	z	RR--2----------	AuxP
+8	plynovodu	NNIS2-----A----	Atr
+9	po	RR--4----------	AuxP
+10	celý	AAIS4----1A----	Atr
+11	rok	NNIS4-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+mf920924-013-p2s3
+1	Od	RR--2----------	AuxP
+2	15	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	října	NNIS2-----A----	Adv
+5	může	VB-S---3P-AA---	Pred
+6	uskladněný	AAIS1----1A----	Atr
+7	plyn	NNIS1-----A----	Sb
+8	ke	RV--3----------	AuxP
+9	spotřebitelům	NNMP3-----A----	Adv
+10	.	Z:-------------	AuxK
+
+mf920924-013-p2s4
+1	Přes	RR--4----------	AuxP
+2	ujištění	NNNS4-----A----	Adv
+3	o	RR--6----------	AuxP
+4	dobré	AAFS6----1A----	Atr
+5	spolupráci	NNFS6-----A----	Atr
+6	mezi	RR--7----------	AuxP
+7	českým	AAIS7----1A----	Atr
+8	a	J^-------------	Coord
+9	slovenským	AAIS7----1A----	Atr
+10	plynárenským	AAIS7----1A----	Atr
+11	podnikem	NNIS7-----A----	Atr
+12	se	P7-X4----------	AuxR
+13	podle	RR--2----------	AuxP
+14	vedoucího	NNMS2-----A----	Atr
+15	provozu	NNIS2-----A----	Adv
+16	štramberského	AAIS2----1A----	Atr
+17	zásobníku	NNIS2-----A----	Atr
+18	Ladislava	NNMS2-----A----	Atr
+19	Huškeho	NNMS2-----A----	Adv
+20	nejdřív	Dg-------3A---2	Adv
+21	využije	VB-S---3P-AA---	Pred
+22	plyn	NNIS1-----A----	Sb
+23	,	Z:-------------	AuxX
+24	který	P4IS4----------	Obj
+25	má	VB-S---3P-AA---	Atr
+26	Český	AAIS1----1A----	Atr
+27	plynárenský	AAIS1----1A----	Atr
+28	podnik	NNIS1-----A----	Sb
+29	uskladněn	VsYS---XX-AP---	Atv
+30	na	RR--6----------	AuxP
+31	Slovensku	NNNS6-----A----	Adv
+32	.	Z:-------------	AuxK
+

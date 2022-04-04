@@ -1,0 +1,318 @@
+lnd94101-051-p1s1
+1	Činnost	NNFS4-----A----	Obj
+2	politických	AAFP2----1A----	Atr
+3	stran	NNFP2-----A----	Atr
+4	bude	VB-S---3F-AA---	AuxV
+5	financovat	Vf--------A----	Pred
+6	stát	NNIS1-----A----	Sb
+
+lnd94101-051-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	če	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94101-051-p1s3
+1	Politické	AAFP1----1A----	Atr
+2	strany	NNFP1-----A----	Sb
+3	a	J^-------------	Coord
+4	hnutí	NNNP1-----A----	Sb
+5	budou	VB-P---3F-AA---	AuxV
+6	v	RR--6----------	AuxP
+7	ČR	NNFXX-----A---8	Atr
+8	financovány	VsTP---XX-AP---	Pred
+9	státem	NNIS7-----A----	Obj
+10	.	Z:-------------	AuxK
+
+lnd94101-051-p1s4
+1	Zdrojem	NNIS7-----A----	Pnom
+2	jejich	PSXXXXP3-------	Atr
+3	dalších	AAIP2----1A----	Atr
+4	příjmů	NNIP2-----A----	Atr
+5	budou	VB-P---3F-AA---	Pred
+6	kromě	RR--2----------	AuxP
+7	členských	AAIP2----1A----	Atr
+8	příspěvků	NNIP2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	výnosů	NNIP2-----A----	Adv
+11	z	RR--2----------	AuxP
+12	prodeje	NNIS2-----A----	Atr
+13	majetku	NNIS2-----A----	Atr
+14	a	J^-------------	Coord
+15	jeho	PSXXXZS3-------	Atr
+16	pronájmu	NNIS2-----A----	Atr
+17	a	J^-------------	Coord
+18	příjmů	NNIP2-----A----	Adv
+19	z	RR--2----------	AuxP
+20	pořádání	NNNS2-----A----	Atr
+21	loterií	NNFP2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	tombol	NNFP2-----A----	Atr
+24	,	Z:-------------	Coord
+25	kulturních	AAFP2----1A----	Atr
+26	a	J^-------------	Coord
+27	politických	AAFP2----1A----	Atr
+28	akcí	NNFP2-----A----	Atr
+29	rovněž	Db-------------	AuxZ
+30	dary	NNIP1-----A----	Sb
+31	.	Z:-------------	AuxK
+
+lnd94101-051-p1s5
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ze	RV--2----------	AuxP
+4	zákona	NNIS2-----A----	Adv
+5	o	RR--6----------	AuxP
+6	sdružování	NNNS6-----A----	Atr
+7	v	RR--6----------	AuxP
+8	politických	AAFP6----1A----	Atr
+9	stranách	NNFP6-----A----	Atr
+10	a	J^-------------	Coord
+11	hnutích	NNNP6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	který	P4IS4----------	Obj
+14	včera	Db-------------	Adv
+15	120	C=-------------	Atr
+16	hlasy	NNIP7-----A----	Adv
+17	přijala	VpQW---XR-AA---	Atr
+18	Poslanecká	AAFS1----1A----	Atr
+19	sněmovna	NNFS1-----A----	Sb
+20	(	Z:-------------	AuxG
+21	24	C=-------------	Sb
+22	poslanců	NNMP2-----A----	Atr
+23	bylo	VpNS---XR-AA---	Pred
+24	proti	RR--3----------	Adv
+25	,	Z:-------------	Coord
+26	17	C=-------------	Sb
+27	se	P7-X4----------	AuxT
+28	zdrželo	VpNS---XR-AA---	Pred
+29	)	Z:-------------	AuxG
+30	.	Z:-------------	AuxK
+
+lnd94101-051-p1s6
+1	Dary	NNIP4-----A----	Obj
+2	mohou	VB-P---3P-AA--1	Pred
+3	strany	NNFP1-----A----	Sb
+4	získávat	Vf--------A----	Obj
+5	i	J^-------------	AuxZ
+6	ze	RV--2----------	AuxP
+7	zahraničí	NNNS2-----A----	Adv
+8	,	Z:-------------	Coord
+9	přijmout	Vf--------A----	Obj
+10	je	PPXP4--3-------	Obj
+11	nesmějí	VB-P---3P-NA---	Pred
+12	pouze	Db-------------	AuxZ
+13	od	RR--2----------	AuxP
+14	státu	NNIS2-----A----	Obj
+15	a	J^-------------	Coord
+16	státních	AAIP2----1A----	Atr
+17	orgánů	NNIP2-----A----	Obj
+18	.	Z:-------------	AuxK
+
+lnd94101-051-p1s7
+1	Strany	NNFP1-----A----	Sb
+2	mají	VB-P---3P-AA---	Pred
+3	nárok	NNIS4-----A----	Obj
+4	na	RR--4----------	AuxP
+5	roční	AAIS4----1A----	Atr
+6	příspěvek	NNIS4-----A----	Atr
+7	ve	RV--6----------	AuxP
+8	výši	NNFS6-----A----	Atr
+9	nejméně	Dg-------3A----	Adv
+10	tří	ClXP2----------	Atr
+11	a	J^-------------	Coord
+12	nejvíce	Dg-------3A----	Adv
+13	pěti	Cn-P2----------	Atr
+14	milionů	NNIP2-----A----	Atr
+15	korun	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	pokud	J,-------------	AuxC
+18	ve	RV--6----------	AuxP
+19	volbách	NNFP6-----A----	Adv
+20	získaly	VpTP---XR-AA---	Adv
+21	alespoň	Db-------------	Adv
+22	tři	ClXP4----------	Atr
+23	procenta	NNNP4-----A----	Obj
+24	hlasů	NNIP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd94101-051-p1s8
+1	Za	RR--4----------	AuxP
+2	mandát	NNIS4-----A----	Adv
+3	do	RR--2----------	AuxP
+4	sněmovny	NNFS2-----A----	Atr
+5	i	J^-------------	Coord
+6	senátu	NNIS2-----A----	Atr
+7	jim	PPXP3--3-------	Obj
+8	náleží	VB-S---3P-AA---	Pred
+9	půl	NNFS1-----A----	Sb
+10	milionu	NNIS2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd94101-051-p1s9
+1	O	RR--4----------	AuxP
+2	příspěvky	NNIP4-----A----	Obj
+3	by	Vc-------------	AuxV
+4	strany	NNFP1-----A----	Sb
+5	mohly	VpTP---XR-AA---	Pred
+6	přijít	Vf--------A----	Obj
+7	v	RR--6----------	AuxP
+8	případě	NNIS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	by	Vc-------------	AuxV
+12	předložily	VpTP---XR-AA---	Atr
+13	parlamentu	NNIS3-----A----	Obj
+14	neúplnou	AAFS4----1N----	Atr
+15	a	J^-------------	Coord
+16	chybnou	AAFS4----1A----	Atr
+17	každoroční	AAFS4----1A----	Atr
+18	zprávu	NNFS4-----A----	Obj
+19	o	RR--6----------	AuxP
+20	hospodaření	NNNS6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94101-051-p1s10
+1	Posuzovat	Vf--------A----	Pred
+2	ji	PPFS4--3-------	Obj
+3	bude	VB-S---3F-AA---	AuxV
+4	Nejvyšší	AAIS1----3A----	Atr
+5	kontrolní	AAIS1----1A----	Atr
+6	úřad	NNIS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+lnd94101-051-p1s11
+1	Nedostatky	NNIP1-----A----	Sb
+2	ve	RV--6----------	AuxP
+3	zprávě	NNFS6-----A----	Atr
+4	,	Z:-------------	AuxX
+5	například	Db-------------	Apos
+6	neuvedení	NNNS1-----N----	Sb
+7	dárců	NNMP2-----A----	Atr
+8	nad	RR--4----------	AuxP
+9	100	C=-------------	Atr
+10	tisíc	ClXS2----------	Atr
+11	korun	NNFP2-----A----	Atr
+12	od	RR--2----------	AuxP
+13	jednoho	ClZS2----------	Atr
+14	dárce	NNMS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	mohou	VB-P---3P-AA--1	Pred
+17	vést	Vf--------A----	Obj
+18	až	TT-------------	AuxZ
+19	k	RR--3----------	AuxP
+20	návrhu	NNIS3-----A----	Adv
+21	na	RR--4----------	AuxP
+22	pozastavení	NNNS4-----A----	Atr
+23	či	J^-------------	Coord
+24	zrušení	NNNS4-----A----	Atr
+25	strany	NNFS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd94101-051-p1s12
+1	O	RR--6----------	AuxP
+2	tom	PDZS6----------	Obj
+3	by	Vc-------------	AuxV
+4	měl	VpYS---XR-AA---	Pred
+5	rozhodovat	Vf--------A----	Obj
+6	Nejvyšší	AAIS1----3A----	Atr
+7	soud	NNIS1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	žádost	NNFS4-----A----	Adv
+10	vlády	NNFS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	případně	Dg-------1A----	ExD
+13	prezidenta	NNMS2-----A----	ExD
+14	.	Z:-------------	AuxK
+
+lnd94101-051-p1s13
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	stát	NNIS1-----A----	Sb
+7	bude	VB-S---3F-AA---	AuxV
+8	strany	NNFP4-----A----	Obj
+9	financovat	Vf--------A----	Atr
+10	,	Z:-------------	AuxX
+11	nesmějí	VB-P---3P-NA---	Pred
+12	tyto	PDIP1----------	Atr
+13	subjekty	NNIP1-----A----	Sb
+14	vyvíjet	Vf--------A----	Obj
+15	žádnou	PWFS4----------	Atr
+16	podnikatelskou	AAFS4----1A----	Atr
+17	aktivitu	NNFS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+lnd94101-051-p1s14
+1	Občan	NNMS1-----A----	Sb
+2	ČR	NNFXX-----A---8	Atr
+3	může	VB-S---3P-AA---	Pred
+4	být	Vf--------A----	Obj
+5	členem	NNMS7-----A----	Pnom
+6	pouze	Db-------------	AuxZ
+7	jediné	AAFS2----1A----	Atr
+8	politické	AAFS2----1A----	Atr
+9	strany	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94101-051-p1s15
+1	Zákon	NNIS1-----A----	Sb
+2	vstoupí	VB-S---3P-AA---	Pred
+3	v	RR--4----------	AuxP
+4	platnost	NNFS4-----A----	Adv
+5	od	RR--2----------	AuxP
+6	července	NNIS2-----A----	Adv
+7	letošního	AAIS2----1A----	Atr
+8	roku	NNIS2-----A---1	Atr
+9	.	Z:-------------	AuxK
+
+lnd94101-051-p1s16
+1	Stát	NNIS4-----A----	Obj
+2	přijde	VB-S---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	přijatého	AAIS2----1A----	Atr
+5	zákona	NNIS2-----A----	Adv
+6	činnost	NNFS1-----A----	Sb
+7	politických	AAFP2----1A----	Atr
+8	stran	NNFP2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	více	Dg-------2A----	Adv
+11	než	J,-------------	AuxC
+12	160	C=-------------	ExD
+13	milionů	NNIP2-----A----	Atr
+14	korun	NNFP2-----A----	Atr
+15	,	Z:-------------	Coord
+16	dosud	Db-------------	Adv
+17	to	PDNS1----------	Pnom
+18	bylo	VpNS---XR-AA---	Pred
+19	ročně	Dg-------1A----	Adv
+20	zhruba	Db-------------	Adv
+21	70	C=-------------	Sb
+22	milionů	NNIP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+lnd94101-051-p1s17
+1	Strany	NNFP1-----A----	Sb
+2	a	J^-------------	Coord
+3	hnutí	NNNP1-----A----	Sb
+4	jsou	VB-P---3P-AA---	Pred
+5	povinny	ACTP------A----	Pnom
+6	uvést	Vf--------A----	Obj
+7	své	P8FP4---------1	Atr
+8	stanovy	NNFP4-----A----	Obj
+9	do	RR--2----------	AuxP
+10	souladu	NNIS2-----A----	Adv
+11	s	RR--7----------	AuxP
+12	normou	NNFS7-----A----	Atr
+13	do	RR--2----------	AuxP
+14	devíti	Cn-P2----------	Atr
+15	měsíců	NNIP2-----A----	Adv
+16	od	RR--2----------	AuxP
+17	platnosti	NNFS2-----A----	Atr
+18	zákona	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+

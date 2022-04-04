@@ -1,0 +1,248 @@
+ln94211-23-p1s1
+1	Americká	AAFS1----1A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	GSR	NNNXX-----A---8	Atr
+4	v	RR--6----------	AuxP
+5	Tatře	NNFS6-----A----	Adv
+6	Kopřivnice	NNFS1-----A----	Atr
+7	skončila	VpQW---XR-AA---	Pred
+
+ln94211-23-p2s1A
+1	Kopřivnice	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mot	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94211-23-p2s1B
+1	Představenstvo	NNNS1-----A----	Sb
+2	a	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	s	NNFXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Tatra	NNFS1-----A----	Atr
+7	Kopřivnice	NNFS1-----A----	Atr
+8	oznámilo	VpNS---XR-AA---	Pred
+9	na	RR--6----------	AuxP
+10	včerejší	AAFS6----1A----	Atr
+11	valné	AAFS6----1A----	Atr
+12	hromadě	NNFS6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	generální	AAMS1----1A----	Atr
+16	ředitel	NNMS1-----A----	Atr
+17	G	NNMXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	Greenwald	NNMS1-----A----	Sb
+20	odstoupil	VpYS---XR-AA---	Obj
+21	ze	RV--2----------	AuxP
+22	své	P8FS2---------1	Atr
+23	funkce	NNFS2-----A----	Adv
+24	i	J^-------------	AuxZ
+25	jako	J,-------------	AuxY
+26	předseda	NNMS1-----A----	Atv
+27	představenstva	NNNS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94211-23-p2s3
+1	Na	RR--4----------	AuxP
+2	posty	NNIP4-----A----	Obj
+3	ředitelů	NNMP2-----A----	Atr
+4	a	J^-------------	Coord
+5	členů	NNMP2-----A----	Atr
+6	představenstva	NNNS2-----A----	Atr
+7	rezignovali	VpMP---XR-AA---	Pred
+8	také	Db-------------	Adv
+9	Jack	NNMS1-----A----	Atr
+10	Rutherford	NNMS1-----A----	Sb
+11	a	J^-------------	Coord
+12	David	NNMS1-----A----	Atr
+13	Shelby	NNMS1-----A----	Sb
+14	,	Z:-------------	Coord
+15	všichni	PLMP1----------	ExD
+16	s	RR--7----------	AuxP
+17	účinností	NNFS7-----A----	ExD
+18	od	RR--2----------	AuxP
+19	7	C=-------------	Atr
+20	.	Z:-------------	AuxG
+21	září	NNNS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94211-23-p3s1
+1	Místopředseda	NNMS1-----A----	Atr
+2	představenstva	NNNS2-----A----	Atr
+3	Karel	NNMS1-----A----	Atr
+4	Beneda	NNMS1-----A----	Sb
+5	řekl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	společnost	NNFS1-----A----	Sb
+9	GSR	NNNXX-----A---8	Atr
+10	přestala	VpQW---XR-AA---	Obj
+11	v	RR--6----------	AuxP
+12	Tatře	NNFS6-----A----	Adv
+13	působit	Vf--------A----	Obj
+14	,	Z:-------------	Coord
+15	15	C=-------------	Obj
+16	procent	NNNP2-----A----	Atr
+17	akcií	NNFP2-----A----	Atr
+18	nezíská	VB-S---3P-NA---	Obj
+19	,	Z:-------------	AuxX
+20	neboť	J^-------------	Coord
+21	smlouva	NNFS1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	která	P4FS1----------	Sb
+24	to	PDNS4----------	Obj
+25	stanovila	VpQW---XR-AA---	Atr
+26	,	Z:-------------	AuxX
+27	nebyla	VpQW---XR-NA---	AuxV
+28	splněna	VsQW---XX-AP---	Obj
+29	.	Z:-------------	AuxK
+
+ln94211-23-p3s2
+1	Smlouva	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	tajná	AAFS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	její	PSZS1FS3-------	Atr
+6	text	NNIS1-----A----	Sb
+7	nebude	VB-S---3F-NA---	AuxV
+8	zveřejněn	VsYS---XX-AP---	Pred
+9	ani	J^-------------	AuxZ
+10	dodatečně	Dg-------1A----	Adv
+11	,	Z:-------------	AuxX
+12	obsahuje	VB-S---3P-AA---	Pred
+13	však	J^-------------	Coord
+14	také	Db-------------	AuxZ
+15	sankce	NNFP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94211-23-p3s3
+1	Společnost	NNFS1-----A----	Sb
+2	GSR	NNNXX-----A---8	Atr
+3	začala	VpQW---XR-AA---	Pred
+4	působit	Vf--------A----	Obj
+5	v	RR--6----------	AuxP
+6	Tatře	NNFS6-----A----	Adv
+7	v	RR--6----------	AuxP
+8	květnu	NNIS6-----A----	Adv
+9	1993	C=-------------	Atr
+10	.	Z:-------------	AuxK
+
+ln94211-23-p4s1
+1	Loňské	AANS1----1A----	Atr
+2	hospodaření	NNNS1-----A----	Sb
+3	kopřivnické	AAFS2----1A----	Atr
+4	automobilky	NNFS2-----A----	Atr
+5	skončilo	VpNS---XR-AA---	Pred
+6	ztrátou	NNFS7-----A----	Adv
+7	dvě	ClHP1----------	Atr
+8	miliardy	NNFP1-----A----	Atr
+9	258	C=-------------	Atr
+10	milionů	NNIP2-----A----	Atr
+11	Kč	NNFXX-----A----	Atr
+12	,	Z:-------------	Coord
+13	letošní	AAFS1----1A----	Atr
+14	ztráta	NNFS1-----A----	Sb
+15	je	VB-S---3P-AA---	AuxV
+16	předpokládána	VsQW---XX-AP---	Pred
+17	ve	RV--6----------	AuxP
+18	výši	NNFS6-----A----	Adv
+19	1.3	C=-------------	Atr
+20	miliardy	NNFS2-----A----	Atr
+21	Kč	NNFXX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94211-23-p4s2
+1	Tatra	NNFS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	tento	PDIS4----------	Atr
+4	rok	NNIS4-----A----	Adv
+5	vyrobit	Vf--------A----	Obj
+6	a	J^-------------	Coord
+7	prodat	Vf--------A----	Obj
+8	2500	C=-------------	Obj
+9	nákladních	AAIP2----1A----	Atr
+10	vozů	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94211-23-p4s3
+1	Valná	AAFS1----1A----	Atr
+2	hromada	NNFS1-----A----	Sb
+3	přijala	VpQW---XR-AA---	Pred
+4	také	Db-------------	AuxZ
+5	podnikatelský	AAIS4----1A----	Atr
+6	plán	NNIS4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	rok	NNIS4-----A----	Atr
+9	1994	C=-------------	Atr
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	předpokládá	VB-S---3P-AA---	Atr
+13	rychlé	AANS4----1A----	Atr
+14	jmenování	NNNS4-----A----	Obj
+15	nového	AAMS2----1A----	Atr
+16	generálního	AAMS2----1A----	Atr
+17	ředitele	NNMS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	drastické	AANS4----1A----	Atr
+20	redukování	NNNS4-----A----	Obj
+21	nákladů	NNIP2-----A----	Atr
+22	a	J^-------------	Coord
+23	nalezení	NNNS4-----A----	Obj
+24	konsenzu	NNIS2-----A----	Atr
+25	s	RR--7----------	AuxP
+26	bankami	NNFP7-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94211-23-p4s4
+1	Počítá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	i	J^-------------	AuxZ
+4	se	RV--7----------	AuxP
+5	snížením	NNNS7-----A----	Obj
+6	počtu	NNIS2-----A----	Atr
+7	pracovníků	NNMP2-----A----	Atr
+8	o	RR--4----------	AuxP
+9	několik	Ca--4----------	Atr
+10	stovek	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94211-23-p4s5
+1	U	RR--2----------	AuxP
+2	Evropské	AAFS2----1A----	Atr
+3	banky	NNFS2-----A----	Adv
+4	pro	RR--4----------	AuxP
+5	obnovu	NNFS4-----A----	Atr
+6	a	J^-------------	Coord
+7	rozvoj	NNIS4-----A----	Atr
+8	(	Z:-------------	Apos
+9	BERD	NNFXX-----A---8	Adv
+10	)	Z:-------------	AuxG
+11	jedná	VB-S---3P-AA---	Pred
+12	Tatra	NNFS1-----A----	Sb
+13	o	RR--6----------	AuxP
+14	dlouhodobém	AAIS6----1A----	Atr
+15	úvěru	NNIS6-----A----	Obj
+16	ve	RV--6----------	AuxP
+17	výši	NNFS6-----A----	Atr
+18	57	C=-------------	Atr
+19	milionů	NNIP2-----A----	Atr
+20	USD	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+ln94211-23-p4s6
+1	Připraveno	VsNS---XX-AP---	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	založení	NNNS1-----A----	Sb
+4	společného	AAIS2----1A----	Atr
+5	podniku	NNIS2-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	výrobu	NNFS4-----A----	Atr
+8	a	J^-------------	Coord
+9	montáž	NNFS4-----A----	Atr
+10	Tater	NNFP2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Číně	NNFS6-----A----	Atr
+13	.	Z:-------------	AuxK
+

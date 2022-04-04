@@ -1,0 +1,360 @@
+mf930713-051-p1s1
+1	Poslanci	NNMP1-----A----	Sb
+2	budou	VB-P---3F-AA---	AuxV
+3	zpětně	Dg-------1A----	Adv
+4	platit	Vf--------A----	Pred
+5	clo	NNNS4-----A----	Obj
+
+mf930713-051-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	iv	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	rg	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930713-051-p2s1B
+1	Všichni	PLMP1----------	Atr
+2	poslanci	NNMP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	kteří	P4MP1----------	Sb
+5	přes	RR--4----------	AuxP
+6	hranice	NNFP4-----A----	Adv
+7	převezli	VpMP---XR-AA---	Atr
+8	bezcelně	Dg-------1A----	Adv
+9	zboží	NNNS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	jsou	VB-P---3P-AA---	Pred
+12	povinni	ACMP------A----	Pnom
+13	zpětně	Dg-------1A----	Adv
+14	příslušnou	AAFS4----1A----	Atr
+15	částku	NNFS4-----A----	Obj
+16	uhradit	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+mf930713-051-p2s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	to	PDNS4----------	Obj
+4	generální	AAMS1----1A----	Atr
+5	prokurátor	NNMS1-----A----	Atr
+6	Jiří	NNMS1-----A----	Atr
+7	Šetina	NNMS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+mf930713-051-p2s3
+1	Poslanci	NNMP1-----A----	Sb
+2	musí	VB-P---3P-AA--1	Pred
+3	celní	AAIP4----1A----	Atr
+4	poplatky	NNIP4-----A----	Obj
+5	uhradit	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	ať	J,-------------	AuxC
+8	už	Db-------------	AuxY
+9	clo	NNNS4-----A----	Obj
+10	neplatili	VpMP---XR-NA---	Adv
+11	v	RR--6----------	AuxP
+12	důsledku	NNIS6-----A----	AuxP
+13	špatné	AAFS2----1A----	Atr
+14	interpretace	NNFS2-----A----	Adv
+15	celního	AAIS2----1A----	Atr
+16	zákona	NNIS2-----A----	Atr
+17	celníky	NNMP7-----A----	Atr
+18	nebo	J^-------------	Coord
+19	z	RR--2----------	AuxP
+20	vlastní	AAFS2----1A----	Atr
+21	iniciativy	NNFS2-----A----	Adv
+22	.	Z:-------------	AuxK
+
+mf930713-051-p3s1
+1	Někteří	PZMP1----------	Atr
+2	celní	AAMP1----1A----	Atr
+3	experti	NNMP1-----A---1	Sb
+4	označili	VpMP---XR-AA---	Pred
+5	případ	NNIS4-----A----	Obj
+6	exposlance	NNMS2-----A----	Atr
+7	Milana	NNMS2-----A----	Atr
+8	Hrušky	NNMS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	přivezl	VpYS---XR-AA---	Atr
+12	ze	RV--2----------	AuxP
+13	zahraničí	NNNS2-----A----	Adv
+14	dva	ClYP4----------	Atr
+15	automobily	NNIP4-----A----	Obj
+16	Audi	NNFXX-----A----	Atr
+17	a	J^-------------	Coord
+18	jeden	ClIS4----------	Atr
+19	BMW	NNNXX-----A----	Obj
+20	,	Z:-------------	AuxX
+21	za	RR--4----------	AuxP
+22	spekulaci	NNFS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+mf930713-051-p3s2
+1	Hruška	NNMS1-----A----	Sb
+2	totiž	Db-------------	AuxY
+3	jedno	ClNS4----------	Obj
+4	z	RR--2----------	AuxP
+5	aut	NNNP2-----A----	Atr
+6	údajně	Dg-------1A----	Adv
+7	přivezl	VpYS---XR-AA---	Pred
+8	pro	RR--4----------	AuxP
+9	svého	P8MS4----------	Atr
+10	přítele	NNMS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf930713-051-p3s3
+1	Šetina	NNMS1-----A----	Sb
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	řekl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	o	RR--6----------	AuxP
+8	této	PDFS6----------	Atr
+9	kauze	NNFS6-----A----	Obj
+10	není	VB-S---3P-NA---	AuxV
+11	informován	VsYS---XX-AP---	Obj
+12	.	Z:-------------	AuxK
+
+mf930713-051-p3s4
+1	"	Z:-------------	AuxG
+2	Opět	Db-------------	Adv
+3	však	J^-------------	Coord
+4	připomínám	VB-S---1P-AA---	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	mnoha	Ca--6----------	Atr
+9	případech	NNIP6-----A----	Adv
+10	se	P7-X4----------	AuxT
+11	poslanci	NNMP1-----A----	Sb
+12	zaplacení	NNNS2-----A----	Obj
+13	cla	NNNS2-----A----	Atr
+14	a	J^-------------	Coord
+15	daně	NNFS2-----A----	Atr
+16	domáhali	VpMP---XR-AA---	Obj
+17	,	Z:-------------	AuxX
+18	celníci	NNMP1-----A----	Sb
+19	to	PDNS4----------	Obj
+20	však	J^-------------	Coord
+21	odmítli	VpMP---XR-AA--1	Obj
+22	,	Z:-------------	AuxX
+23	"	Z:-------------	AuxG
+24	prohlásil	VpYS---XR-AA---	Pred
+25	generální	AAMS1----1A----	Atr
+26	prokurátor	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+mf930713-051-p4s1
+1	Milan	NNMS1-----A----	Atr
+2	Hruška	NNMS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	je	VB-S---3P-AA---	Atr
+6	dnes	Db-------------	Adv
+7	okresním	AAMS7----1A----	Atr
+8	policejním	AAMS7----1A----	Atr
+9	ředitelem	NNMS7-----A----	Pnom
+10	,	Z:-------------	AuxX
+11	možné	AANS4----1A----	Atr
+12	obvinění	NNNS4-----A----	Obj
+13	ze	RV--2----------	AuxP
+14	spekulace	NNFS2-----A----	Atr
+15	důrazně	Dg-------1A----	Adv
+16	odmítl	VpYS---XR-AA--1	Pred
+17	.	Z:-------------	AuxK
+
+mf930713-051-p4s2
+1	"	Z:-------------	AuxG
+2	Z	RR--2----------	AuxP
+3	převozu	NNIS2-----A----	Adv
+4	aut	NNNP2-----A----	Atr
+5	jsem	VB-S---1P-AA---	AuxV
+6	neměl	VpYS---XR-NA---	Obj
+7	žádný	PWIS4----------	Atr
+8	finanční	AAIS4----1A----	Atr
+9	zisk	NNIS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	"	Z:-------------	AuxG
+12	uvedl	VpYS---XR-AA---	Pred
+13	Hruška	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf930713-051-p4s3
+1	Dodal	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	je	VB-S---3P-AA---	Obj
+5	připraven	VsYS---XX-AP---	Pnom
+6	clo	NNNS4-----A----	Obj
+7	za	RR--4----------	AuxP
+8	všechna	PLNP4----------	Atr
+9	tři	ClXP4----------	Atr
+10	dovezená	AANP4----1A----	Atr
+11	vozidla	NNNP4-----A----	Atr
+12	uhradit	Vf--------A----	Obj
+13	.	Z:-------------	AuxK
+
+mf930713-051-p4s4
+1	"	Z:-------------	AuxG
+2	Zatím	Db-------------	Adv
+3	jsem	VB-S---1P-AA---	AuxV
+4	však	J^-------------	AuxY
+5	od	RR--2----------	AuxP
+6	celníků	NNMP2-----A----	Adv
+7	neobdržel	VpYS---XR-NA---	Obj
+8	celní	AAIS4----1A----	Atr
+9	výměr	NNIS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	"	Z:-------------	AuxG
+12	dodal	VpYS---XR-AA---	Pred
+13	.	Z:-------------	AuxK
+
+mf930713-051-p5s1
+1	I	J^-------------	AuxZ
+2	podle	RR--2----------	AuxP
+3	dřívějšího	AANS2----2A----	Atr
+4	nejednoznačného	AANS2----1N----	Atr
+5	znění	NNNS2-----A----	Adv
+6	celního	AAIS2----1A----	Atr
+7	zákona	NNIS2-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	případné	AANS1----1A----	Atr
+10	osvobození	NNNS1-----A----	Sb
+11	od	RR--2----------	AuxP
+12	cla	NNNS2-----A----	Atr
+13	a	J^-------------	Coord
+14	daně	NNFS2-----A----	Atr
+15	z	RR--2----------	AuxP
+16	přidané	AAFS2----1A----	Atr
+17	hodnoty	NNFS2-----A----	Atr
+18	vztahovalo	VpNS---XR-AA---	Pred
+19	pouze	Db-------------	AuxZ
+20	na	RR--4----------	AuxP
+21	zboží	NNNS4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	které	P4NS1----------	Sb
+24	by	Vc-------------	AuxV
+25	sloužilo	VpNS---XR-AA---	Atr
+26	výkonu	NNIS3-----A----	Obj
+27	poslanecké	AAFS2----1A----	Atr
+28	funkce	NNFS2-----A----	Atr
+29	nebo	J^-------------	Coord
+30	osobním	AAFP3----1A----	Atr
+31	potřebám	NNFP3-----A----	Obj
+32	členů	NNMP2-----A----	Atr
+33	zákonodárných	AAIP2----1A----	Atr
+34	sborů	NNIP2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+mf930713-051-p6s1
+1	Bývalý	AAMS1----1A----	Atr
+2	poslanec	NNMS1-----A----	Atr
+3	ČNR	NNFXX-----A---8	Atr
+4	Vladimír	NNMS1-----A----	Atr
+5	Laštůvka	NNMS1-----A----	Sb
+6	(	Z:-------------	ExD
+7	OH	NNNXX-----A---8	ExD
+8	)	Z:-------------	ExD
+9	označil	VpYS---XR-AA---	Pred
+10	za	RR--4----------	AuxP
+11	zavádějící	AGFP4-----A----	Obj
+12	informace	NNFP4-----A----	Obj
+13	o	RR--6----------	AuxP
+14	jeho	PSXXXZS3-------	Atr
+15	osobě	NNFS6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	uvedené	AAFP4----1A----	Atr
+18	v	RR--6----------	AuxP
+19	souvislosti	NNFS6-----A----	AuxP
+20	s	RR--7----------	AuxP
+21	neplacením	NNNS7-----N----	Adv
+22	cla	NNNS2-----A----	Atr
+23	poslanci	NNMP7-----A----	Atr
+24	zákonodárných	AAIP2----1A----	Atr
+25	sborů	NNIP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+mf930713-051-p6s2
+1	Zboží	NNNS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4NS4----------	Obj
+4	převážel	VpYS---XR-AA---	Atr
+5	,	Z:-------------	AuxX
+6	bylo	VpNS---XR-AA---	AuxV
+7	propuštěno	VsNS---XX-AP---	Pred
+8	na	RR--4----------	AuxP
+9	tzv	AAXXX----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	celní	AAIS4----1A----	Atr
+12	záznam	NNIS4-----A----	Adv
+13	,	Z:-------------	Coord
+14	to	PDNS1----------	Sb
+15	znamená	VB-S---3P-AA---	Pred
+16	k	RR--3----------	AuxP
+17	dočasnému	AANS3----1A----	Atr
+18	použití	NNNS3-----A----	ExD
+19	.	Z:-------------	AuxK
+
+mf930713-051-p6s3
+1	Celní	AAIS1----1A----	Atr
+2	záznam	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	vztahoval	VpYS---XR-AA---	Pred
+5	na	RR--4----------	AuxP
+6	automobil	NNIS4-----A----	Obj
+7	Ford	NNIS1-----A----	Atr
+8	Scorpio	NNNS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	tiskárnu	NNFS4-----A----	Obj
+11	k	RR--3----------	AuxP
+12	počítači	NNIS3-----A----	Atr
+13	,	Z:-------------	AuxX
+14	kopírovací	AAIS4----1A----	Atr
+15	stroj	NNIS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	židle	NNFP4-----A----	Obj
+18	i	J^-------------	Coord
+19	tři	ClXP4----------	Atr
+20	transformátory	NNIP4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+mf930713-051-p6s4
+1	Podle	RR--2----------	AuxP
+2	Laštůvky	NNMS2-----A----	Adv
+3	byly	VpTP---XR-AA---	AuxV
+4	transformátory	NNIP1-----A----	Sb
+5	převezeny	VsTP---XX-AP---	Pred
+6	jako	J,-------------	AuxY
+7	vzorky	NNIP1-----A----	Atv
+8	pro	RR--4----------	AuxP
+9	státní	AAFS4----1A----	Atr
+10	zkušebnu	NNFS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930713-051-p6s5
+1	Při	RR--6----------	AuxP
+2	tzv	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	celním	AAIS6----1A----	Atr
+5	záznamu	NNIS6-----A----	Adv
+6	bývá	VB-S---3P-AA---	AuxV
+7	clo	NNNS1-----A----	Sb
+8	vyměřeno	VsNS---XX-AP---	Pred
+9	dodatečně	Dg-------1A----	Adv
+10	podle	RR--2----------	AuxP
+11	doby	NNFS2-----A----	Adv
+12	,	Z:-------------	AuxX
+13	po	RR--4----------	AuxP
+14	kterou	P4FS4----------	Adv
+15	bylo	VpNS---XR-AA---	AuxV
+16	zboží	NNNS1-----A----	Sb
+17	užíváno	VsNS---XX-AP---	Atr
+18	na	RR--6----------	AuxP
+19	území	NNNS6-----A----	Adv
+20	ČR	NNFXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+

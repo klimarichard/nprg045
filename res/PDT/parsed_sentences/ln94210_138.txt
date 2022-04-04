@@ -1,0 +1,351 @@
+ln94210-138-p1s1
+1	Čekan	NNMS1-----A----	Sb
+2	podal	VpYS---XR-AA---	Pred
+3	na	RR--4----------	AuxP
+4	Češku	NNMS4-----A----	Atr
+5	žalobu	NNFS4-----A----	Obj
+
+ln94210-138-p2s1A
+1	Firma	NNFS1-----A----	Sb
+2	Intercom	NNIS1-----A----	Atr
+3	s	NNFXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	r	NNNS7-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	o	AANS7----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	zůstává	VB-S---3P-AA---	Pred
+10	největším	AAMS7----3A----	Atr
+11	dlužníkem	NNMS7-----A----	Obj
+12	FNM	NNIXX-----A---8	Atr
+
+ln94210-138-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ma	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94210-138-p2s1C
+1	Žalobu	NNFS4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	předsedu	NNMS4-----A----	Atr
+4	Fondu	NNIS2-----A----	Atr
+5	národního	AAIS2----1A----	Atr
+6	majetku	NNIS2-----A----	Atr
+7	Romana	NNMS4-----A----	Atr
+8	Češku	NNMS4-----A----	Atr
+9	i	J^-------------	Coord
+10	FNM	NNIXX-----A---8	Atr
+11	podal	VpYS---XR-AA---	Pred
+12	podnikatel	NNMS1-----A----	Atr
+13	Vratislav	NNMS1-----A----	Atr
+14	Čekan	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94210-138-p2s2
+1	Podle	RR--2----------	AuxP
+2	Češky	NNMS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	zdůvodněna	VsQW---XX-AP---	Pnom
+5	tak	Db-------------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	hovořil	VpYS---XR-AA---	Adv
+9	o	RR--6----------	AuxP
+10	dluhu	NNIS6-----A----	Obj
+11	ve	RV--6----------	AuxP
+12	výši	NNFS6-----A----	Atr
+13	308	C=-------------	Atr
+14	milionů	NNIP2-----A----	Atr
+15	korun	NNFP2-----A----	Atr
+16	vůči	RR--3----------	AuxP
+17	fondu	NNIS3-----A----	Atr
+18	jako	J,-------------	AuxY
+19	o	RR--6----------	AuxP
+20	Čekanově	AUIS6M---------	Atr
+21	závazku	NNIS6-----A----	Atv
+22	a	J^-------------	Coord
+23	nikoliv	Db-------------	AuxZ
+24	jako	J,-------------	AuxY
+25	o	RR--6----------	AuxP
+26	dluhu	NNIS6-----A----	Atv
+27	firmy	NNFS2-----A----	Atr
+28	Intercom	NNIS1-----A----	Atr
+29	,	Z:-------------	Apos
+30	společnosti	NNFS2-----A----	Atr
+31	s	RR--7----------	AuxP
+32	ručením	NNNS7-----A----	Atr
+33	omezeným	AANS7----1A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94210-138-p2s3
+1	Čekan	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	ovšem	J^-------------	Coord
+4	jejím	PSZS7FS3-------	Atr
+5	stoprocentním	AAMS7----1A----	Atr
+6	vlastníkem	NNMS7-----A----	Pnom
+7	.	Z:-------------	AuxK
+
+ln94210-138-p3s1
+1	Intercom	NNIS1-----A----	Sb
+2	tedy	Db-------------	AuxY
+3	zůstává	VB-S---3P-AA---	Pred
+4	největším	AAMS7----3A----	Atr
+5	dlužníkem	NNMS7-----A----	Obj
+6	FNM	NNIXX-----A---8	Atr
+7	.	Z:-------------	AuxK
+
+ln94210-138-p3s2
+1	Celkově	Dg-------1A----	Adv
+2	dluží	VB-P---3P-AA---	Pred
+3	podniky	NNIP1-----A----	Sb
+4	i	J^-------------	Coord
+5	podnikatelé	NNMP1-----A----	Sb
+6	fondu	NNIS3-----A----	Obj
+7	7.13	C=-------------	Obj
+8	mld	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94210-138-p3s3
+1	Jejich	PSXXXXP3-------	Atr
+2	neuhrazené	AAIP1----1N----	Atr
+3	závazky	NNIP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	které	P4IP1----------	Sb
+6	činily	VpTP---XR-AA---	Atr
+7	v	RR--6----------	AuxP
+8	květnu	NNIS6-----A----	Adv
+9	6.99	C=-------------	Obj
+10	mld	NNFXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	korun	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	v	RR--6----------	AuxP
+15	červnu	NNIS6-----A----	Adv
+16	vzrostly	VpTP---XR-AA---	Pred
+17	o	RR--4----------	AuxP
+18	504	C=-------------	Adv
+19	mil	NNIXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	Kč	NNFXX-----A----	Atr
+22	na	RR--4----------	AuxP
+23	7.49	C=-------------	Obj
+24	mld	NNFXX-----A---8	Atr
+25	.	Z:-------------	AuxG
+26	Kč	NNFXX-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94210-138-p3s6
+1	V	RR--6----------	AuxP
+2	červenci	NNIS6-----A----	Adv
+3	překročila	VpQW---XR-AA---	Pred
+4	výše	NNFS1-----A----	Sb
+5	splacených	AAFP2----1A----	Atr
+6	pohledávek	NNFP2-----A----	Atr
+7	nové	AAIP4----1A----	Atr
+8	dluhy	NNIP4-----A----	Obj
+9	o	RR--4----------	AuxP
+10	358	C=-------------	Adv
+11	mil	NNIXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	korun	NNFP2-----A----	Atr
+14	na	RR--4----------	AuxP
+15	zmíněných	AAFP2----1A----	Atr
+16	7.13	C=-------------	Obj
+17	mld	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	korun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94210-138-p4s1
+1	Polovinu	NNFS4-----A----	Obj
+2	z	RR--2----------	AuxP
+3	240	C=-------------	Atr
+4	žalob	NNFP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	které	P4FP4----------	Obj
+7	dosud	Db-------------	Adv
+8	FNM	NNIXX-----A---8	Sb
+9	podal	VpYS---XR-AA---	Atr
+10	na	RR--4----------	AuxP
+11	nejrůznější	AAIP4----3A----	Atr
+12	subjekty	NNIP4-----A----	Adv
+13	,	Z:-------------	AuxX
+14	tvoří	VB-P---3P-AA---	Pred
+15	neplatiči	NNMP1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94210-138-p4s2
+1	Proti	RR--3----------	AuxP
+2	fondu	NNIS3-----A----	Adv
+3	bylo	VpNS---XR-AA---	AuxV
+4	naopak	Db-------------	Adv
+5	podáno	VsNS---XX-AP---	Pred
+6	přes	RR--4----------	AuxP
+7	300	C=-------------	Sb
+8	žalob	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94210-138-p5s1
+1	Češka	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	včera	Db-------------	Adv
+4	pro	RR--4----------	AuxP
+5	LN	NNFPX-----A---8	Adv
+6	vyjádřil	VpYS---XR-AA---	Pred
+7	i	J^-------------	AuxZ
+8	k	RR--3----------	AuxP
+9	některým	PZXP3----------	Atr
+10	dalším	AAFP3----1A----	Atr
+11	aktuálním	AAFP3----1A----	Atr
+12	záležitostem	NNFP3-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94210-138-p5s2
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	AuxP
+3	sporu	NNIS2-----A----	Adv
+4	mezi	RR--7----------	AuxP
+5	Poldi	NNFXX-----A----	Atr
+6	Kladno	NNNS1-----A----	Atr
+7	holding	NNIS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	v	RR--6----------	AuxP
+10	níž	P9FS6----------	Adv
+11	vlastní	VB-S---3P-AA---	Atr
+12	fond	NNIS1-----A----	Sb
+13	100	C=-------------	Obj
+14	%	Z:-------------	Atr
+15	akcií	NNFP2-----A----	Atr
+16	a	J^-------------	Coord
+17	jí	PPFS3--3-------	Obj
+18	podřízené	AAFS3----1A----	Atr
+19	Poldi	NNFXX-----A----	Atr
+20	Ocel	NNFS1-----A----	Atr
+21	s	RR--7----------	AuxP
+22	nadpolovičním	AAIS7----1A----	Atr
+23	podílem	NNIS7-----A----	Atr
+24	akcií	NNFP2-----A----	Atr
+25	Bohemia	NNFXX-----A----	Atr
+26	Art	NNIXX-----A----	Atr
+27	Vladimíra	NNMS2-----A----	Atr
+28	Stehlíka	NNMS2-----A----	Atr
+29	,	Z:-------------	AuxX
+30	uvedl	VpYS---XR-AA---	Pred
+31	,	Z:-------------	AuxX
+32	že	J,-------------	AuxC
+33	si	P7-X3----------	Adv
+34	FNM	NNIXX-----A---8	Sb
+35	celou	AAFS4----1A----	Atr
+36	záležitost	NNFS4-----A----	Obj
+37	prověřuje	VB-S---3P-AA---	Obj
+38	.	Z:-------------	AuxK
+
+ln94210-138-p5s3
+1	Situace	NNFS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	Poldi	NNFXX-----A----	Atr
+4	Ocel	NNFS1-----A----	Atr
+5	by	Vc-------------	AuxV
+6	měla	VpQW---XR-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	doložena	VsQW---XX-AP---	Obj
+9	auditem	NNIS7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94210-138-p5s4
+1	Spory	NNIP1-----A----	Sb
+2	mezi	RR--7----------	AuxP
+3	oběma	ClXP7----------	Atr
+4	firmami	NNFP7-----A----	Atr
+5	vedly	VpTP---XR-AA---	Pred
+6	k	RR--3----------	AuxP
+7	výměně	NNFS3-----A----	Obj
+8	představenstva	NNNS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	holdingu	NNIS6-----A----	Atr
+11	Poldi	NNFXX-----A----	Atr
+12	Kladno	NNNS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94210-138-p6s1
+1	Předseda	NNMS1-----A----	Sb
+2	fondu	NNIS2-----A----	Atr
+3	také	Db-------------	Adv
+4	uvedl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	fond	NNIS1-----A----	Sb
+8	souhlasí	VB-S---3P-AA---	Obj
+9	s	RR--7----------	AuxP
+10	tím	PDZS7----------	Obj
+11	,	Z:-------------	AuxX
+12	aby	J,-------------	AuxC
+13	firma	NNFS1-----A----	Sb
+14	Pech	NNMS1-----A----	Atr
+15	s	NNFXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	r	NNNS7-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	o	AANS7----1A---8	Atr
+20	.	Z:-------------	AuxG
+21	vrátila	VpQW---XR-AA---	Atr
+22	veškerý	PLIS4----------	Atr
+23	majetek	NNIS4-----A----	Obj
+24	vydražených	AAFP2----1A----	Atr
+25	Mrazíren	NNFP2-----A----	Atr
+26	Dýšina	NNFS1-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94210-138-p6s2
+1	Firma	NNFS1-----A----	Sb
+2	se	P7-X4----------	Obj
+3	ovšem	J^-------------	Coord
+4	podle	RR--2----------	AuxP
+5	jeho	PSXXXZS3-------	Atr
+6	slov	NNNP2-----A----	Adv
+7	v	RR--6----------	AuxP
+8	privatizačním	AAIS6----1A----	Atr
+9	projektu	NNIS6-----A----	Adv
+10	seznámila	VpQW---XR-AA---	Pred
+11	s	RR--7----------	AuxP
+12	vazbou	NNFS7-----A----	Obj
+13	tohoto	PDZS2----------	Atr
+14	majetku	NNIS2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	církevní	AAFP4----1A----	Atr
+17	restituce	NNFP4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-138-p6s3
+1	Katastrální	AAIS1----1A----	Atr
+2	úřad	NNIS1-----A----	Sb
+3	přitom	Db-------------	Adv
+4	omylem	NNIS7-----A----	Adv
+5	přepsal	VpYS---XR-AA---	Pred
+6	vlastnické	AANS4----1A----	Atr
+7	právo	NNNS4-----A----	Obj
+8	k	RR--3----------	AuxP
+9	tomuto	PDZS3----------	Atr
+10	majetku	NNIS3-----A----	Atr
+11	firmě	NNFS3-----A----	Obj
+12	Pech	NNMS1-----A----	Atr
+13	s	NNFXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	r	NNNS7-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	o	AANS7----1A---8	Atr
+18	.	Z:-------------	AuxG
+19	,	Z:-------------	AuxX
+20	aniž	J,-------------	AuxC
+21	by	Vc-------------	AuxV
+22	k	RR--3----------	AuxP
+23	tomu	PDZS3----------	Obj
+24	byl	VpYS---XR-AA---	Adv
+25	oprávněn	VsYS---XX-AP---	Pnom
+26	.	Z:-------------	AuxK
+

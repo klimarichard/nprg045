@@ -1,0 +1,137 @@
+vesm9301-010-p1s1
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1989	C=-------------	Atr
+4	vyšla	VpQW---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	nakladatelství	NNNS6-----A----	Adv
+7	Panorama	NNFS1-----A----	Atr
+8	kniha	NNFS1-----A----	Sb
+9	Petra	NNMS2-----A----	Atr
+10	Vopěnky	NNMS2-----A----	Atr
+11	"	Z:-------------	AuxG
+12	Rozpravy	NNFP1-----A----	Atr
+13	s	RR--7----------	AuxP
+14	geometrií	NNFS7-----A----	Atr
+15	"	Z:-------------	AuxG
+16	.	Z:-------------	AuxK
+
+vesm9301-010-p1s2
+1	O	RR--4----------	AuxP
+2	dva	ClYP4----------	Atr
+3	roky	NNIP4-----A----	Adv
+4	později	Dg-------2A----	Adv
+5	pak	Db-------------	Adv
+6	následovaly	VpTP---XR-AA---	Pred
+7	jeho	PSXXXZS3-------	Atr
+8	"	Z:-------------	AuxG
+9	Druhé	CrFP1----------	Atr
+10	rozpravy	NNFP1-----A----	Sb
+11	s	RR--7----------	AuxP
+12	geometrií	NNFS7-----A----	Atr
+13	"	Z:-------------	AuxG
+14	(	Z:-------------	AuxG
+15	koedice	NNFS1-----A----	Atr
+16	nakladatelství	NNNP2-----A----	Atr
+17	Fokus	NNIS1-----A----	Atr
+18	a	J^-------------	Coord
+19	Práh	NNIS1-----A----	Atr
+20	)	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+vesm9301-010-p1s3
+1	Obě	ClHP1----------	Atr
+2	knihy	NNFP1-----A----	Sb
+3	byly	VpTP---XR-AA---	Pred
+4	dlouho	Dg-------1A----	Adv
+5	očekávané	AAFP1----1A----	Pnom
+6	především	Db-------------	AuxZ
+7	těmi	PDXP7----------	Obj
+8	,	Z:-------------	AuxX
+9	kdo	PKM-1----------	Sb
+10	navštěvovali	VpMP---XR-AA---	Atr
+11	v	RR--6----------	AuxP
+12	osmdesátých	CrNP6----------	Atr
+13	letech	NNNP6-----A----	Adv
+14	tak	Db-------------	Adv
+15	tak	Db-------------	Adv
+16	povolené	AAFP4----1A----	Atr
+17	Vopěnkovy	AUFP4M---------	Atr
+18	večerní	AAFP4----1A----	Atr
+19	přednášky	NNFP4-----A----	Obj
+20	na	RR--6----------	AuxP
+21	Matematicko	A2--------A----	Atr
+22	-	Z:-------------	Coord
+23	fyzikální	AAFS6----1A----	Atr
+24	fakultě	NNFS6-----A----	AtrAdv
+25	Univerzity	NNFS2-----A----	Atr
+26	Karlovy	AUFS2M---------	Atr
+27	v	RR--6----------	AuxP
+28	Praze	NNFS6-----A----	AtrAdv
+29	.	Z:-------------	AuxK
+
+vesm9301-010-p1s4
+1	Přednášející	AGMS1-----A----	Sb
+2	vyprávěl	VpYS---XR-AA---	Pred
+3	o	RR--6----------	AuxP
+4	geometrii	NNFS6-----A----	Obj
+5	v	RR--6----------	AuxP
+6	jejím	PSZS6FS3-------	Atr
+7	vývoji	NNIS6-----A----	Atr
+8	a	J^-------------	Coord
+9	vztahu	NNIS6-----A----	Atr
+10	k	RR--3----------	AuxP
+11	myšlenkovým	AANP3----1A----	Atr
+12	klimatům	NNNP3-----A----	Atr
+13	různých	AAFP2----1A----	Atr
+14	dob	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9301-010-p1s5
+1	Nyní	Db-------------	Adv
+2	začínáme	VB-P---1P-AA---	Pred
+3	ve	RV--6----------	AuxP
+4	Vesmíru	NNIS6-----A----	Adv
+5	uveřejňovat	Vf--------A----	Obj
+6	na	RR--4----------	AuxP
+7	pokračování	NNNS4-----A----	Adv
+8	třetí	CrFS4----------	Atr
+9	,	Z:-------------	Coord
+10	relativně	Dg-------1A----	Adv
+11	samostatnou	AAFS4----1A----	Atr
+12	část	NNFS4-----A----	Obj
+13	Vopěnkových	AUFP2M---------	Atr
+14	rozprav	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	se	P7-X4----------	AuxT
+18	zabývá	VB-S---3P-AA---	Atr
+19	změnou	NNFS7-----A----	Obj
+20	geometrického	AAIS2----1A----	Atr
+21	názoru	NNIS2-----A----	Atr
+22	s	RR--7----------	AuxP
+23	objevem	NNIS7-----A----	Atr
+24	neeukleidovských	AAFP2----1N----	Atr
+25	geometrií	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+vesm9301-010-p1s6
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	téma	NNNS1-----A----	Pnom
+4	pro	RR--4----------	AuxP
+5	přírodní	AAFP4----1A----	Atr
+6	vědy	NNFP4-----A----	Adv
+7	zvlášť	Db-------------	Adv
+8	důležité	AANS1----1A----	Atr
+9	a	J^-------------	Coord
+10	pro	RR--4----------	AuxP
+11	přírodovědce	NNMP4-----A----	ExD
+12	poučné	AANS1----1A----	ExD
+13	.	Z:-------------	AuxK
+
+vesm9301-010-p1s7
+1	(	Z:-------------	ExD
+2	red	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

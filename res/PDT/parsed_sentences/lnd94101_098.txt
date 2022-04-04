@@ -1,0 +1,243 @@
+lnd94101-098-p1s1
+1	SITUACE	NNFS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	Oblast	NNFS1-----A----	Sb
+4	vysokého	AAIS2----1A----	Atr
+5	tlaku	NNIS2-----A----	Atr
+6	vzduchu	NNIS2-----A----	Atr
+7	nad	RR--7----------	AuxP
+8	střední	AAFS7----1A----	Atr
+9	Evropou	NNFS7-----A----	Atr
+10	bude	VB-S---3F-AA---	AuxV
+11	slábnout	Vf--------A----	Pred
+12	.	Z:-------------	AuxK
+
+lnd94101-098-p1s2
+1	V	RR--6----------	AuxP
+2	noci	NNFS6-----A----	Adv
+3	na	RR--4----------	AuxP
+4	neděli	NNFS4-----A----	Atr
+5	ovlivní	VB-S---3P-AA---	Pred
+6	počasí	NNNS4-----A----	Obj
+7	u	RR--2----------	AuxP
+8	nás	PP-P2--1-------	AtrAdv
+9	studená	AAFS1----1A----	Atr
+10	fronta	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+lnd94101-098-p1s3
+1	Slabý	AAIS1----1A----	ExD
+2	,	Z:-------------	Coord
+3	proměnlivý	AAIS1----1A----	ExD
+4	,	Z:-------------	Coord
+5	později	Dg-------2A----	ExD
+6	západní	AAIS1----1A----	Atr
+7	vítr	NNIS1-----A----	ExD
+8	3	C=-------------	ExD
+9	až	J^-------------	Coord
+10	6	C=-------------	ExD
+11	m	NNIXX-----A---8	Atr
+12	/	Z:-------------	AuxP
+13	s	NNFXX-----A---1	Atr
+14	.	Z:-------------	AuxK
+
+lnd94101-098-p1s4
+1	V	RR--4----------	AuxP
+2	neděli	NNFS4-----A----	Adv
+3	bude	VB-S---3F-AA---	Pred
+4	většinou	NNFS7-----A----	Adv
+5	proměnlivá	AAFS1----1A----	Atr
+6	oblačnost	NNFS1-----A----	Sb
+7	,	Z:-------------	Coord
+8	místy	Db-------------	ExD
+9	s	RR--7----------	AuxP
+10	přeháňkami	NNFP7-----A----	ExD
+11	,	Z:-------------	AuxX
+12	které	P4FP1----------	Sb
+13	budou	VB-P---3F-AA---	AuxV
+14	na	RR--6----------	AuxP
+15	horách	NNFP6-----A----	Adv
+16	přecházet	Vf--------A----	Atr
+17	ve	RV--4----------	AuxP
+18	sněhové	AAFP4----1A----	ExD
+19	.	Z:-------------	AuxK
+
+lnd94101-098-p1s5
+1	Noční	AAFP1----1A----	Atr
+2	teploty	NNFP1-----A----	ExD
+3	9	C=-------------	Atr
+4	až	J^-------------	Coord
+5	5	C=-------------	Atr
+6	st	NNIXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	C	NNMXX-----A---8	Atr
+9	,	Z:-------------	Coord
+10	nejvyšší	AAFP1----3A----	Atr
+11	denní	AAFP1----1A----	Atr
+12	teploty	NNFP1-----A----	ExD
+13	12	C=-------------	Atr
+14	až	J^-------------	Coord
+15	16	C=-------------	Atr
+16	st	NNIXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	C	NNMXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+
+lnd94101-098-p1s6
+1	V	RR--4----------	AuxP
+2	pondělí	NNNS4-----A----	Adv
+3	bude	VB-S---3F-AA---	Pred
+4	většinou	Db-------------	Adv
+5	polojasno	Dg-------1A----	Sb
+6	,	Z:-------------	AuxX
+7	ojediněle	Dg-------1A----	ExD
+8	přeháňky	NNFP1-----A----	ExD
+9	,	Z:-------------	AuxX
+10	noční	AAFP1----1A----	Atr
+11	teploty	NNFP1-----A----	ExD
+12	plus	NNIS1-----A----	Atr
+13	3	C=-------------	Atr
+14	až	J^-------------	Coord
+15	minus	NNIS1-----A----	Atr
+16	1	C=-------------	Atr
+17	st	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	C	NNMXX-----A---8	Atr
+20	,	Z:-------------	Coord
+21	nejvyšší	AAFP1----3A----	Atr
+22	denní	AAFP1----1A----	Atr
+23	teploty	NNFP1-----A----	ExD
+24	12	C=-------------	Atr
+25	až	J^-------------	Coord
+26	16	C=-------------	Atr
+27	st	NNIXX-----A---8	Atr
+28	.	Z:-------------	AuxG
+29	C	NNMXX-----A---8	Atr
+30	.	Z:-------------	AuxK
+
+lnd94101-098-p1s7
+1	V	RR--4----------	AuxP
+2	neděli	NNFS4-----A----	Adv
+3	vychází	VB-S---3P-AA---	Pred
+4	Slunce	NNNS1-----A----	Sb
+5	v	RR--4----------	AuxP
+6	5.37	C=-------------	Adv
+7	a	J^-------------	Coord
+8	zapadá	VB-S---3P-AA---	Pred
+9	v	RR--4----------	AuxP
+10	20.18	C=-------------	Adv
+11	,	Z:-------------	Coord
+12	Měsíc	NNIS1-----A----	Sb
+13	vychází	VB-S---3P-AA---	Pred
+14	v	RR--4----------	AuxP
+15	1.20	C=-------------	Adv
+16	a	J^-------------	Coord
+17	zapadá	VB-S---3P-AA---	Pred
+18	v	RR--4----------	AuxP
+19	10.48	C=-------------	Adv
+20	.	Z:-------------	AuxK
+
+lnd94101-098-p1s8
+1	Rekordní	AAFP1----1A----	Atr
+2	teploty	NNFP1-----A----	ExD
+3	30	C=-------------	Atr
+4	.	Z:-------------	AuxG
+5	dubna	NNIS2-----A----	Atr
+6	:	Z:-------------	Coord
+7	nejvyšší	AAFS1----3A----	Atr
+8	teplota	NNFS1-----A----	ExD
+9	27.3	C=-------------	ExD
+10	st	NNIXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	C	NNMXX-----A---8	Atr
+13	v	RR--6----------	AuxP
+14	roce	NNIS6-----A---1	ExD
+15	1800	C=-------------	Atr
+16	,	Z:-------------	Coord
+17	nejnižší	AAFS1----3A----	ExD
+18	minus	NNIS1-----A----	Atr
+19	1.9	C=-------------	ExD
+20	st	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	C	NNMXX-----A---8	Atr
+23	v	RR--6----------	AuxP
+24	roce	NNIS6-----A---1	ExD
+25	1782	C=-------------	Atr
+26	.	Z:-------------	AuxK
+
+lnd94101-098-p1s9
+1	Dlouhodobý	AAIS1----1A----	Atr
+2	teplotní	AAIS1----1A----	Atr
+3	normál	NNIS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	11.6	C=-------------	Pnom
+6	st	NNIXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	C	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxK
+
+lnd94101-098-p1s10
+1	Nad	RR--7----------	AuxP
+2	územím	NNNS7-----A----	Adv
+3	České	AAFS2----1A----	Atr
+4	republiky	NNFS2-----A----	Atr
+5	bylo	VpNS---XR-AA---	Pred
+6	naměřeno	VsNS---XX-AP---	Pnom
+7	celkové	AANS1----1A----	Atr
+8	množství	NNNS1-----A----	Sb
+9	ozonu	NNIS2-----A----	Atr
+10	337	C=-------------	Atr
+11	Dobsonových	AUFP2M---------	Atr
+12	jednotek	NNFP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	což	PE--1----------	Sb
+15	je	VB-S---3P-AA---	Pred
+16	14	C=-------------	Pnom
+17	procent	NNNP2-----A----	Atr
+18	pod	RR--7----------	AuxP
+19	dlouhodobým	AAIS7----1A----	Atr
+20	průměrem	NNIS7-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94101-098-p1s11
+1	Rozptylové	AAFP1----1A----	Atr
+2	podmínky	NNFP1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	znečišťující	AGFP4-----A----	Atr
+5	látky	NNFP4-----A----	Atr
+6	v	RR--6----------	AuxP
+7	ovzduší	NNNS6-----A----	Atr
+8	budou	VB-P---3F-AA---	Pred
+9	ráno	Db-------------	Adv
+10	a	J^-------------	Coord
+11	dopoledne	Db-------------	Adv
+12	zhoršené	AAFP1----1A----	Pnom
+13	,	Z:-------------	Coord
+14	přes	RR--4----------	AuxP
+15	den	NNIS4-----A----	ExD
+16	postupně	Dg-------1A----	ExD
+17	dobré	AAFP1----1A----	ExD
+18	.	Z:-------------	AuxK
+
+lnd94101-098-p1s12A
+1	(	Z:-------------	ExD
+2	ČHMÚ	NNIXX-----A---8	ExD
+3	)	Z:-------------	ExD
+4	Erupční	AAFS1----1A----	Atr
+5	aktivita	NNFS1-----A----	Sb
+6	Slunce	NNNS2-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	velmi	Db-------------	Adv
+9	slabá	AAFS1----1A----	Pnom
+10	,	Z:-------------	Coord
+11	geomagnetické	AANS1----1A----	Atr
+12	pole	NNNS1-----A----	ExD
+13	Země	NNFS2-----A----	Atr
+14	klidné	AANS1----1A----	ExD
+15	.	Z:-------------	AuxK
+
+lnd94101-098-p1s12B
+1	(	Z:-------------	ExD
+2	UPIC	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

@@ -1,0 +1,153 @@
+ln95041-074-p1s1
+1	Identifikace	NNFS1-----A----	Sb
+2	Tomáše	NNMS2-----A----	Atr
+3	Vodičky	NNMS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	nejasná	AAFS1----1N----	Pnom
+
+ln95041-074-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	js	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln95041-074-p2s1B
+1	Městský	AAIS1----1A----	Atr
+2	soud	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Atr
+5	včera	Db-------------	Adv
+6	pokračoval	VpYS---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	projednávání	NNNS6-----A----	Obj
+9	žaloby	NNFS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	Tomáše	NNMS4-----A----	Atr
+12	Vodičku	NNMS4-----A----	Atr
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	měl	VpYS---XR-AA---	Atr
+16	spáchat	Vf--------A----	Obj
+17	dvě	ClHP4----------	Atr
+18	loupežná	AANP4----1A----	Atr
+19	přepadení	NNNP4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln95041-074-p2s2
+1	Oběťmi	NNFP7-----A----	Pnom
+2	byly	VpTP---XR-AA---	Pred
+3	poštovní	AAFP1----1A----	Atr
+4	doručovatelky	NNFP1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+ln95041-074-p2s3
+1	Vodička	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	odsouzen	VsYS---XX-AP---	Pred
+4	k	RR--3----------	AuxP
+5	sedmi	Cn-P3----------	Atr
+6	letům	NNNP3-----A----	Obj
+7	odnětí	NNNS2-----A----	Atr
+8	svobody	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	odvolací	AAIS1----1A----	Atr
+12	soud	NNIS1-----A----	Sb
+13	rozsudek	NNIS4-----A----	Obj
+14	zrušil	VpYS---XR-AA---	Pred
+15	a	J^-------------	Coord
+16	vrátil	VpYS---XR-AA---	Pred
+17	věc	NNFS4-----A----	Obj
+18	k	RR--3----------	AuxP
+19	došetření	NNNS3-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95041-074-p2s4A
+1	Senát	NNIS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	vyslechl	VpYS---XR-AA--1	Pred
+4	jednoho	ClMS4----------	Atr
+5	z	RR--2----------	AuxP
+6	nejdůležitějších	AAMP2----3A----	Atr
+7	svědků	NNMP2-----A----	Atr
+8	Josefa	NNMS4-----A----	Atr
+9	B	NNMXX-----A---8	Obj
+10	.	Z:-------------	AuxG
+
+ln95041-074-p2s4B
+1	Ten	PDYS1----------	Sb
+2	spatřil	VpYS---XR-AA---	Pred
+3	"	Z:-------------	AuxG
+4	na	RR--4----------	AuxP
+5	setinu	CyFS4----------	Adv
+6	vteřiny	NNFS2-----A----	Atr
+7	"	Z:-------------	AuxG
+8	pachatele	NNMS4-----A----	Obj
+9	loupeže	NNFS2-----A----	Atr
+10	utíkat	Vf--------A----	Atv
+11	z	RR--2----------	AuxP
+12	místa	NNNS2-----A----	Adv
+13	činu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95041-074-p2s5
+1	Později	Dg-------2A----	Adv
+2	ho	PHZS4--3-------	Obj
+3	prý	TT-------------	AuxY
+4	zahlédl	VpYS---XR-AA--1	Pred
+5	na	RR--6----------	AuxP
+6	jiném	AANS6----1A----	Atr
+7	místě	NNNS6-----A----	Adv
+8	a	J^-------------	Coord
+9	upozornil	VpYS---XR-AA---	Pred
+10	na	RR--4----------	AuxP
+11	něj	P5ZS4--3-------	Obj
+12	policii	NNFS4-----A----	Obj
+13	,	Z:-------------	Coord
+14	ta	PDFS1----------	Sb
+15	obžalovaného	AAMS4----1A----	Obj
+16	zadržela	VpQW---XR-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln95041-074-p2s6
+1	Svědek	NNMS1-----A----	Sb
+2	tehdy	Db-------------	Adv
+3	na	RR--4----------	AuxP
+4	vzdálenost	NNFS4-----A----	Adv
+5	20	C=-------------	Atr
+6	až	J^-------------	Coord
+7	40	C=-------------	Atr
+8	metrů	NNIP2-----A----	Atr
+9	potvrdil	VpYS---XR-AA---	Pred
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	Vodička	NNMS1-----A----	Sb
+13	je	VB-S---3P-AA---	Obj
+14	pachatel	NNMS1-----A----	Pnom
+15	.	Z:-------------	AuxK
+
+ln95041-074-p2s7
+1	Včera	Db-------------	Adv
+2	u	RR--2----------	AuxP
+3	soudu	NNIS2-----A----	Adv
+4	ale	J^-------------	Coord
+5	řekl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	si	P7-X3----------	AuxT
+9	"	Z:-------------	AuxG
+10	netroufá	VB-S---3P-NA---	Obj
+11	"	Z:-------------	AuxG
+12	Vodičku	NNMS4-----A----	Obj
+13	označit	Vf--------A----	Obj
+14	jako	J,-------------	AuxY
+15	muže	NNMS4-----A----	Atv
+16	,	Z:-------------	AuxX
+17	který	P4YS1----------	Sb
+18	utíkal	VpYS---XR-AA---	Atr
+19	z	RR--2----------	AuxP
+20	místa	NNNS2-----A----	Adv
+21	činu	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+

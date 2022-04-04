@@ -1,0 +1,150 @@
+ln95049-109-p1s1
+1	Většina	NNFS1-----A----	Sb
+2	občanů	NNMP2-----A----	Atr
+3	neočekává	VB-S---3P-NA---	Pred
+4	růst	NNIS4-----A----	Obj
+5	životní	AAFS2----1A----	Atr
+6	úrovně	NNFS2-----A----	Atr
+7	svých	P8XP2----------	Atr
+8	domácností	NNFP2-----A----	Atr
+
+ln95049-109-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	lab	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln95049-109-p2s1B
+1	Růst	NNIS4-----A----	Obj
+2	životní	AAFS2----1A----	Atr
+3	úrovně	NNFS2-----A----	Atr
+4	svých	P8XP2----------	Atr
+5	domácností	NNFP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	roce	NNIS6-----A---1	AdvAtr
+8	1995	C=-------------	Atr
+9	neočekává	VB-S---3P-NA---	Pred
+10	většina	NNFS1-----A----	Sb
+11	obyvatel	NNMS1-----A----	Atr
+12	České	AAFS2----1A----	Atr
+13	republiky	NNFS2-----A----	Atr
+14	starších	AAMP2----2A----	Atr
+15	14	C=-------------	Atr
+16	let	NNNP2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln95049-109-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	výzkumu	NNIS2-----A----	Obj
+5	agentury	NNFS2-----A----	Atr
+6	AISA	NNFS1-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95049-109-p2s3
+1	Každý	AAMS1----1A----	Atr
+2	druhý	CrMS1----------	Atr
+3	dotázaný	AAMS1----1A----	Sb
+4	(	Z:-------------	ExD
+5	49	C=-------------	ExD
+6	%	Z:-------------	Atr
+7	)	Z:-------------	ExD
+8	předpokládá	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	životní	AAFS1----1A----	Atr
+12	úroveň	NNFS1-----A----	Sb
+13	jeho	PSXXXZS3-------	Atr
+14	domácnosti	NNFS2-----A----	Atr
+15	zůstane	VB-S---3P-AA---	Obj
+16	letos	Db-------------	Adv
+17	stejná	AAFS1----1A----	Obj
+18	jako	J,-------------	AuxC
+19	v	RR--6----------	AuxP
+20	roce	NNIS6-----A---1	ExD
+21	1994	C=-------------	Atr
+22	.	Z:-------------	AuxK
+
+ln95049-109-p2s4
+1	Zhoršení	NNNS4-----A----	Obj
+2	očekává	VB-S---3P-AA---	Pred
+3	každý	AAMS1----1A----	ExD
+4	čtvrtý	CrMS1----------	ExD
+5	(	Z:-------------	ExD
+6	27	C=-------------	ExD
+7	%	Z:-------------	Atr
+8	)	Z:-------------	ExD
+9	a	J^-------------	Coord
+10	zlepšení	NNNS4-----A----	ExD
+11	každý	AAMS1----1A----	Atr
+12	pátý	CrMS1----------	Atr
+13	(	Z:-------------	ExD
+14	18	C=-------------	ExD
+15	%	Z:-------------	Atr
+16	)	Z:-------------	ExD
+17	respondent	NNMS1-----A----	ExD
+18	.	Z:-------------	AuxK
+
+ln95049-109-p2s5
+1	Z	RR--2----------	AuxP
+2	průzkumu	NNIS2-----A----	Obj
+3	také	Db-------------	AuxZ
+4	plyne	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	s	RR--7----------	AuxP
+8	klesajícím	AGIS7-----A----	Atr
+9	věkem	NNIS7-----A----	Adv
+10	a	J^-------------	Coord
+11	rostoucím	AGIS7-----A----	Atr
+12	příjmem	NNIS7-----A----	Adv
+13	domácnosti	NNFS2-----A----	Atr
+14	roste	VB-S---3P-AA---	Sb
+15	podíl	NNIS1-----A----	Sb
+16	očekávání	NNNS2-----A----	Atr
+17	zlepšení	NNNS2-----A----	Atr
+18	životní	AAFS2----1A----	Atr
+19	úrovně	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95049-109-p2s6
+1	Přitom	Db-------------	Adv
+2	zlepšení	NNNS4-----A----	Obj
+3	nejčastěji	Dg-------3A----	Adv
+4	očekává	VB-S---3P-AA---	Pred
+5	mladá	AAFS1----1A----	Atr
+6	generace	NNFS1-----A----	Sb
+7	do	RR--2----------	AuxP
+8	30	C=-------------	Atr
+9	let	NNNP2-----A----	Atr
+10	(	Z:-------------	ExD
+11	31	C=-------------	ExD
+12	%	Z:-------------	Atr
+13	)	Z:-------------	ExD
+14	a	J^-------------	Coord
+15	domácnosti	NNFP1-----A----	Sb
+16	s	RR--7----------	AuxP
+17	nejvyššími	AAIP7----3A----	Atr
+18	příjmy	NNIP7-----A----	Atr
+19	(	Z:-------------	ExD
+20	35	C=-------------	ExD
+21	%	Z:-------------	Atr
+22	)	Z:-------------	ExD
+23	.	Z:-------------	AuxK
+
+ln95049-109-p2s7
+1	Průzkum	NNIS4-----A----	Obj
+2	provedla	VpQW---XR-AA---	Pred
+3	agentura	NNFS1-----A----	Sb
+4	AISA	NNFS1-----A----	Atr
+5	v	RR--6----------	AuxP
+6	lednu	NNIS6-----A----	Adv
+7	letošního	AAIS2----1A----	Atr
+8	roku	NNIS2-----A---1	Atr
+9	u	RR--2----------	AuxP
+10	1096	C=-------------	Atr
+11	občanů	NNMP2-----A----	Adv
+12	.	Z:-------------	AuxK
+

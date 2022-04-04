@@ -1,0 +1,187 @@
+ln95041-090-p1s1
+1	Akademická	AAFS1----1A----	Atr
+2	počítačová	AAFS1----1A----	Atr
+3	síť	NNFS1-----A----	Sb
+4	spojuje	VB-S---3P-AA---	Pred
+5	Univerzitu	NNFS4-----A----	Obj
+6	Karlovu	AUFS4M---------	Atr
+7	s	RR--7----------	AuxP
+8	metrem	NNNS7-----A----	Obj
+
+ln95041-090-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-090-p2s1B
+1	Šest	Cn-S1----------	Sb
+2	světlovodných	AAIP2----1A----	Atr
+3	kabelů	NNIP2-----A----	Atr
+4	míří	VB-S---3P-AA---	Pred
+5	z	RR--2----------	AuxP
+6	areálu	NNIS2-----A----	Adv
+7	Univerzity	NNFS2-----A----	Atr
+8	Karlovy	AUFS2M---------	Atr
+9	na	RR--6----------	AuxP
+10	Ovocném	AAIS6----1A----	Atr
+11	trhu	NNIS6-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	Atr
+14	do	RR--2----------	AuxP
+15	kolektorů	NNIP2-----A----	Adv
+16	metra	NNNS2-----A----	Atr
+17	a	J^-------------	Coord
+18	z	RR--2----------	AuxP
+19	nich	P5XP2--3-------	ExD
+20	pak	Db-------------	ExD
+21	do	RR--2----------	AuxP
+22	šesti	Cn-P6----------	Atr
+23	dalších	AAIP2----1A----	Atr
+24	vysokoškolských	AAIP2----1A----	Atr
+25	objektů	NNIP2-----A----	ExD
+26	.	Z:-------------	AuxK
+
+ln95041-090-p2s2
+1	Tvoří	VB-P---3P-AA---	Pred
+2	tak	Db-------------	Adv
+3	základ	NNIS4-----A----	Obj
+4	Pražské	AAFS2----1A----	Atr
+5	akademické	AAFS2----1A----	Atr
+6	sítě	NNFS2-----A----	Atr
+7	PASNet	NNIXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	včera	Db-------------	Adv
+11	oficiálně	Dg-------1A----	Adv
+12	zahájila	VpQW---XR-AA---	Atr
+13	provoz	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln95041-090-p2s3
+1	Využívá	VB-S---3P-AA---	Pred
+2	jeden	ClIS4----------	Obj
+3	z	RR--2----------	AuxP
+4	nejmodernějších	AAIP2----3A----	Atr
+5	způsobů	NNIP2-----A----	Atr
+6	rychlé	AAFS2----1A----	Atr
+7	komunikace	NNFS2-----A----	Atr
+8	mezi	RR--7----------	AuxP
+9	počítači	NNIP7-----A----	Atr
+10	-	Z:-------------	Apos
+11	Asynchronous	AAXXX----1A----	Atr
+12	Transfer	AAXXX----1A----	Atr
+13	Mode	NNIXX-----A----	Obj
+14	(	Z:-------------	Apos
+15	ATM	NNIXX-----A---8	Obj
+16	)	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+ln95041-090-p3s1
+1	PASNet	NNIXX-----A---8	Sb
+2	podle	RR--2----------	AuxP
+3	dostupných	AAFP2----1A----	Atr
+4	informací	NNFP2-----A----	Adv
+5	představuje	VB-S---3P-AA---	Pred
+6	vůbec	Db-------------	AuxZ
+7	první	CrFS4----------	Atr
+8	funkční	AAFS4----1A----	Atr
+9	a	J^-------------	Coord
+10	provozně	Dg-------1A----	Adv
+11	využívanou	AAFS4----1A----	Atr
+12	síť	NNFS4-----A----	Obj
+13	s	RR--7----------	AuxP
+14	komunikací	NNFS7-----A----	Atr
+15	ATM	NNIXX-----A---8	Atr
+16	ve	RV--6----------	AuxP
+17	střední	AAFS6----1A----	Atr
+18	a	J^-------------	Coord
+19	východní	AAFS6----1A----	Atr
+20	Evropě	NNFS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln95041-090-p3s2
+1	Umožňuje	VB-S---3P-AA---	Pred
+2	současně	Dg-------1A----	Adv
+3	a	J^-------------	Coord
+4	ve	RV--6----------	AuxP
+5	velkých	AAIP6----1A----	Atr
+6	objemech	NNIP6-----A----	Adv
+7	přenášet	Vf--------A----	Obj
+8	řeč	NNFS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	obraz	NNIS4-----A----	Obj
+11	i	J^-------------	Coord
+12	videosignál	NNIS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95041-090-p3s3
+1	Po	RR--6----------	AuxP
+2	jedné	ClFS6----------	Atr
+3	síti	NNFS6-----A----	Adv
+4	tak	Db-------------	Adv
+5	lze	VB-S---3P-AA---	Pred
+6	propojit	Vf--------A----	Sb
+7	jak	J,-------------	AuxY
+8	telefonní	AAFP4----1A----	Atr
+9	ústředny	NNFP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	tak	J^-------------	Coord
+12	počítače	NNIP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95041-090-p3s4
+1	Uživatelé	NNMP1-----A----	Sb
+2	mohou	VB-P---3P-AA--1	Pred
+3	vstupovat	Vf--------A----	Obj
+4	do	RR--2----------	AuxP
+5	obdobných	AAFP2----1A----	Atr
+6	akademických	AAFP2----1A----	Atr
+7	sítí	NNFP2-----A----	Adv
+8	po	RR--6----------	AuxP
+9	celém	AAIS6----1A----	Atr
+10	světě	NNIS6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	stejně	Dg-------1A----	Adv
+13	jako	J,-------------	AuxC
+14	do	RR--2----------	AuxP
+15	nejrozsáhlejší	AAFS2----3A----	Atr
+16	mezinárodní	AAFS2----1A----	Atr
+17	počítačové	AAFS2----1A----	Atr
+18	sítě	NNFS2-----A----	ExD
+19	Internet	NNIS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95041-090-p4s1
+1	PASNet	NNIXX-----A---8	Sb
+2	mimo	RR--4----------	AuxP
+3	jiné	AANS4----1A----	Adv
+4	umožňuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	akademická	AANP1----1A----	Atr
+8	pracoviště	NNNP1-----A----	Sb
+9	mohla	VpQW---XR-AA---	Obj
+10	rychle	Dg-------1A----	Adv
+11	(	Z:-------------	ExD
+12	155	C=-------------	ExD
+13	megabitů	NNIP2-----A----	Atr
+14	za	RR--4----------	AuxP
+15	sekundu	NNFS4-----A----	Atr
+16	)	Z:-------------	ExD
+17	a	J^-------------	Coord
+18	spolehlivě	Dg-------1A----	Adv
+19	komunikovat	Vf--------A----	Obj
+20	se	RV--7----------	AuxP
+21	superpočítačovým	AANS7----1A----	Atr
+22	střediskem	NNNS7-----A----	Obj
+23	vysokých	AAFP2----1A----	Atr
+24	škol	NNFP2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	umístěným	AANS7----1A----	Atr
+27	v	RR--6----------	AuxP
+28	Ústavu	NNIS6-----A---1	Adv
+29	výpočetní	AAFS2----1A----	Atr
+30	techniky	NNFS2-----A----	Atr
+31	Univerzity	NNFS2-----A----	Atr
+32	Karlovy	AUFS2M---------	Atr
+33	.	Z:-------------	AuxK
+

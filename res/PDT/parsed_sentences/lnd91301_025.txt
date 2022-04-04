@@ -1,0 +1,124 @@
+lnd91301-025-p1s1
+1	Kabelová	AAFS1----1A----	Atr
+2	televize	NNFS1-----A----	ExD
+
+lnd91301-025-p2s1A
+1	VSETÍN	NNIS1-----A----	ExD
+2	/	Z:-------------	Coord
+3	HAVÍŘOV	NNIS1-----A----	ExD
+4	(	Z:-------------	ExD
+5	mot	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+lnd91301-025-p2s1B
+1	Vsetínské	AANS1----1A----	Atr
+2	sídliště	NNNS1-----A----	Sb
+3	Jasénka	NNFS1-----A----	Atr
+4	má	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	novému	AAIS3----1A----	Atr
+7	roku	NNIS3-----A----	Adv
+8	hotový	AAIS4----1A----	Atv
+9	rozvod	NNIS4-----A----	Obj
+10	kabelové	AAFS2----1A----	Atr
+11	televize	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd91301-025-p2s2
+1	Zatím	Db-------------	Adv
+2	mohou	VB-P---3P-AA--1	Pred
+3	jeho	PSXXXZS3-------	Atr
+4	obyvatelé	NNMP1-----A----	Sb
+5	přijímat	Vf--------A----	Obj
+6	osm	Cn-S4----------	Obj
+7	televizních	AAIP2----1A----	Atr
+8	programů	NNIP2-----A----	Atr
+9	(	Z:-------------	Apos
+10	F	NNXXX-----A---8	Obj
+11	1	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	ČTV	NNFXX-----A---8	Obj
+14	+	Z:-------------	Coord
+15	6	C=-------------	Obj
+16	satelitních	AAIP2----1A----	Atr
+17	)	Z:-------------	AuxG
+18	a	J^-------------	Coord
+19	rozhlasové	AAFP4----1A----	Atr
+20	stanice	NNFP4-----A----	Obj
+21	v	RR--6----------	AuxP
+22	pásmu	NNNS6-----A----	Atr
+23	VKV	NNFPX-----A---8	Atr
+24	.	Z:-------------	AuxK
+
+lnd91301-025-p2s3
+1	Za	RR--4----------	AuxP
+2	poplatek	NNIS4-----A----	Adv
+3	12	C=-------------	Atr
+4	Kčs	NNFXX-----A---8	Atr
+5	měsíčně	Dg-------1A----	Atr
+6	v	RR--6----------	AuxP
+7	příštím	AAIS6----1A----	Atr
+8	roce	NNIS6-----A---1	Adv
+9	firma	NNFS1-----A----	Sb
+10	Cabel	NNIS1-----A----	Atr
+11	plus	NNIS1-----A----	Atr
+12	rozšíří	VB-S---3P-AA---	Pred
+13	nabídku	NNFS4-----A----	Obj
+14	o	RR--4----------	AuxP
+15	dva	ClYP4----------	Atr
+16	polské	AAIP4----1A----	Atr
+17	programy	NNIP4-----A----	Adv
+18	,	Z:-------------	AuxX
+19	jeden	ClIS4----------	Adv
+20	slovenský	AAIS4----1A----	Atr
+21	a	J^-------------	Coord
+22	regionální	AAIS4----1A----	Atr
+23	kanál	NNIS4-----A----	Adv
+24	,	Z:-------------	AuxX
+25	na	RR--6----------	AuxP
+26	kterém	P4ZS6----------	Adv
+27	město	NNNS1-----A----	Sb
+28	může	VB-S---3P-AA---	Atr
+29	vysílat	Vf--------A----	Obj
+30	svůj	P8IS4----------	Atr
+31	program	NNIS4-----A----	Obj
+32	už	Db-------------	AuxZ
+33	teď	Db-------------	Adv
+34	.	Z:-------------	AuxK
+
+lnd91301-025-p2s4
+1	V	RR--6----------	AuxP
+2	Havířově	NNIS6-----A----	Adv
+3	včera	Db-------------	Adv
+4	mohlo	VpNS---XR-AA---	Pred
+5	přijímat	Vf--------A----	Obj
+6	programy	NNIP4-----A----	Obj
+7	a	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	s	NNFXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	Kabelová	AAFS1----1A----	Atr
+12	televize	NNFS1-----A----	Atr
+13	šest	Cn-S1----------	Sb
+14	set	VsYS---XX-AP---	Atr
+15	domácností	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91301-025-p2s5
+1	Jednohodinovou	AAFS7----1A----	Atr
+2	besedou	NNFS7-----A----	Adv
+3	ve	RV--6----------	AuxP
+4	spolupráci	NNFS6-----A----	AuxP
+5	s	RR--7----------	AuxP
+6	týdeníkem	NNIS7-----A----	Atr
+7	Hlasy	NNIP1-----A----	Atr
+8	Havířova	NNIS2-----A----	Atr
+9	začalo	VpNS---XR-AA---	Pred
+10	také	Db-------------	AuxZ
+11	první	CrNS1----------	Atr
+12	regionální	AANS1----1A----	Atr
+13	havířovské	AANS1----1A----	Atr
+14	vysílání	NNNS1-----A----	Sb
+15	.	Z:-------------	AuxK
+

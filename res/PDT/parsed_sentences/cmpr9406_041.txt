@@ -1,0 +1,118 @@
+cmpr9406-041-p2s1
+1	Pomoc	NNFS1-----A----	ExD
+2	severu	NNIS3-----A----	Atr
+
+cmpr9406-041-p3s1
+1	Není	VB-S---3P-NA---	Pred
+2	obvyklé	AANS1----1A----	Pnom
+3	,	Z:-------------	AuxX
+4	aby	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	fyzická	AAFS1----1A----	Atr
+7	osoba	NNFS1-----A----	Sb
+8	stala	VpQW---XR-AA---	Sb
+9	zřizovatelem	NNMS7-----A----	Obj
+10	nadace	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-041-p3s2
+1	Jiří	NNMS1-----A----	Atr
+2	Roth	NNMS1-----A----	Sb
+3	založil	VpYS---XR-AA---	Pred
+4	Nadaci	NNFS4-----A----	Obj
+5	pro	RR--4----------	AuxP
+6	obnovu	NNFS4-----A----	Atr
+7	severních	AAFP2----1A----	Atr
+8	Čech	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	pomohl	VpYS---XR-AA---	Adv
+12	podpořit	Vf--------A----	Obj
+13	všechny	PLYP4----------	Atr
+14	projekty	NNIP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	které	P4IP1----------	Sb
+17	k	RR--3----------	AuxP
+18	obnově	NNFS3-----A----	Adv
+19	severních	AAFP2----1A----	Atr
+20	Čech	NNFP2-----A----	Atr
+21	vedou	VB-P---3P-AA---	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9406-041-p4s1
+1	Finanční	AAIP1----1A----	Atr
+2	prostředky	NNIP1-----A----	Sb
+3	sponzorů	NNMP2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	určeny	VsTP---XX-AP---	Pnom
+6	na	RR--4----------	AuxP
+7	projekty	NNIP4-----A----	Adv
+8	zlepšující	AGIP4-----A----	Atr
+9	životní	AANS4----1A----	Atr
+10	prostředí	NNNS4-----A----	Obj
+11	a	J^-------------	Coord
+12	umožňující	AGIP4-----A----	Atr
+13	ekonomicky	Dg-------1A----	Adv
+14	využívat	Vf--------A----	Obj
+15	znehodnocené	AAFP4----1A----	Atr
+16	oblasti	NNFP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9406-041-p4s2
+1	Jedná	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	o	RR--4----------	AuxP
+4	projekty	NNIP4-----A----	Obj
+5	snižující	AGIP4-----A----	Atr
+6	zamoření	NNNS4-----A----	Obj
+7	ovzduší	NNNS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	zlepšující	AGIP4-----A----	Atr
+10	kvalitu	NNFS4-----A----	Obj
+11	vod	NNFP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	hospodaření	NNNS4-----A----	Obj
+14	s	RR--7----------	AuxP
+15	odpady	NNIP7-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9406-041-p4s3
+1	Nadace	NNFS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	rovněž	Db-------------	Adv
+4	podporovat	Vf--------A----	Pred
+5	zavádění	NNNS4-----A----	Obj
+6	technologií	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	ozdraví	VB-P---3P-AA---	Atr
+10	půdu	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9406-041-p5s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Nadace	NNFS1-----A----	ExD
+4	pro	RR--4----------	AuxP
+5	obnovu	NNFS4-----A----	Atr
+6	severních	AAFP2----1A----	Atr
+7	Čech	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Post	NNIS1-----A----	Atr
+10	Box	NNIS1-----A----	Atr
+11	6	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	410	C=-------------	Atr
+14	02	C=-------------	Atr
+15	Lovosice	NNFP1-----A----	Atr
+16	,	Z:-------------	AuxX
+17	tel	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	a	J^-------------	Coord
+20	FAX	NNIS1-----A----	Atr
+21	:	Z:-------------	AuxG
+22	(	Z:-------------	AuxG
+23	0419	C=-------------	Atr
+24	)	Z:-------------	AuxG
+25	2625	C=-------------	Atr
+

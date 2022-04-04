@@ -1,0 +1,317 @@
+ln94203-56-p1s1
+1	Českých	AAFP2----1A----	Atr
+2	potravin	NNFP2-----A----	Sb
+3	na	RR--6----------	AuxP
+4	Slovensku	NNNS6-----A----	Adv
+5	ubývá	VB-S---3P-AA---	Pred
+
+ln94203-56-p2s1A
+1	Poznámka	NNFS1-----A----	ExD
+
+ln94203-56-p2s1B
+1	Jiří	NNMS1-----A----	Atr
+2	Pšenička	NNMS1-----A----	ExD
+
+ln94203-56-p2s1C
+1	Vývoz	NNIS1-----A----	Sb
+2	českého	AANS2----1A----	Atr
+3	potravinářského	AANS2----1A----	Atr
+4	zboží	NNNS2-----A----	Atr
+5	na	RR--4----------	AuxP
+6	Slovensko	NNNS4-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	v	RR--6----------	AuxP
+9	letošním	AAIS6----1A----	Atr
+10	roce	NNIS6-----A---1	Adv
+11	drasticky	Dg-------1A----	Adv
+12	snížil	VpYS---XR-AA---	Pred
+13	.	Z:-------------	AuxK
+
+ln94203-56-p2s2
+1	V	RR--6----------	AuxP
+2	porovnání	NNNS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	rokem	NNIS7-----A----	ExD
+5	minulým	AAIS7----1A----	Atr
+6	o	RR--4----------	AuxP
+7	celou	AAFS4----1A----	Atr
+8	polovinu	NNFS4-----A----	ExD
+9	.	Z:-------------	AuxK
+
+ln94203-56-p2s3
+1	Téměř	Db-------------	Adv
+2	zastaven	VsYS---XX-AP---	Pred
+3	byl	VpYS---XR-AA---	AuxV
+4	náš	PSYS1-P1-------	Atr
+5	vývoz	NNIS1-----A----	Sb
+6	cigaret	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	margarínů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94203-56-p2s4
+1	Značně	Dg-------1A----	Adv
+2	poklesly	VpTP---XR-AA--1	Pred
+3	dodávky	NNFP1-----A----	Sb
+4	piva	NNNS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	sýrů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	lihovin	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	cukrovinek	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	čokolády	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	pekařských	AAIP2----1A----	Atr
+15	výrobků	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94203-56-p3s1
+1	Lepších	AAIP2----2A----	Atr
+2	časů	NNIP2-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	naši	PSMP1-P1-------	Atr
+5	vývozci	NNMP1-----A----	Sb
+6	letos	Db-------------	Adv
+7	již	Db-------------	Adv
+8	asi	TT-------------	AuxY
+9	nedočkají	VB-P---3P-NA---	Pred
+10	.	Z:-------------	AuxK
+
+ln94203-56-p3s2
+1	Existují	VB-P---3P-AA---	Pred
+2	pro	RR--4----------	AuxP
+3	to	PDNS4----------	AdvAtr
+4	tři	ClXP1----------	Atr
+5	důvody	NNIP1-----A----	Sb
+6	:	Z:-------------	Coord
+7	Desetiprocentní	AAFS7----1A----	Atr
+8	dovozní	AAFS7----1A----	Atr
+9	přirážkou	NNFS7-----A----	Adv
+10	má	VB-S---3P-AA---	Pred
+11	být	Vf--------A----	AuxV
+12	zboží	NNNS1-----A----	Sb
+13	na	RR--6----------	AuxP
+14	Slovensku	NNNS6-----A----	Adv
+15	zatěžováno	VsNS---XX-AP---	Obj
+16	až	TT-------------	AuxZ
+17	do	RR--2----------	AuxP
+18	konce	NNIS2-----A----	Adv
+19	roku	NNIS2-----A---1	Atr
+20	.	Z:-------------	AuxK
+
+ln94203-56-p3s3
+1	Také	Db-------------	AuxZ
+2	zúčtování	NNNS1-----A----	Sb
+3	vzájemných	AAIP2----1A----	Atr
+4	obchodů	NNIP2-----A----	Atr
+5	přes	RR--4----------	AuxP
+6	clearingový	AAIS4----1A----	Atr
+7	účet	NNIS4-----A----	Atr
+8	bude	VB-S---3F-AA---	AuxV
+9	ještě	Db-------------	AuxZ
+10	nějakou	PZFS4----------	Atr
+11	dobu	NNFS4-----A----	Adv
+12	o	RR--4----------	AuxP
+13	5	C=-------------	Adv
+14	%	Z:-------------	Atr
+15	znevýhodňovat	Vf--------A----	Pred
+16	české	AAIP4----1A----	Atr
+17	výrobky	NNIP4-----A----	Obj
+18	(	Z:-------------	AuxG
+19	do	RR--2----------	AuxP
+20	doby	NNFS2-----A----	Adv
+21	,	Z:-------------	AuxX
+22	než	J,-------------	AuxC
+23	Slováci	NNMP1-----A----	Sb
+24	upraví	VB-P---3P-AA---	Atr
+25	kurz	NNIS4-----A----	Obj
+26	své	P8FS2---------1	Atr
+27	koruny	NNFS2-----A----	Atr
+28	vůči	RR--3----------	AuxP
+29	ECU	NNFXX-----A---8	AtrAdv
+30	či	J^-------------	Coord
+31	bude	VB-S---3F-AA---	AuxV
+32	clearing	NNIS1-----A----	Sb
+33	úplně	Dg-------1A----	Adv
+34	zrušen	VsYS---XX-AP---	Atr
+35	)	Z:-------------	AuxG
+36	.	Z:-------------	AuxK
+
+ln94203-56-p3s4
+1	Třetí	CrFS7----------	Atr
+2	obchodní	AAFS7----1A----	Atr
+3	bariérou	NNFS7-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	v	RR--6----------	AuxP
+7	nejbližších	AAIP6----3A----	Atr
+8	měsících	NNIP6-----A----	Adv
+9	jistě	Dg-------1A----	AuxY
+10	nebude	VB-S---3F-NA---	AuxV
+11	prolomena	VsQW---XX-AP---	Atr
+12	,	Z:-------------	AuxX
+13	je	VB-S---3P-AA---	Pred
+14	problém	NNIS1-----A----	Sb
+15	vzájemného	AANS2----1A----	Atr
+16	uznávání	NNNS2-----A----	Atr
+17	certifikátů	NNIP2-----A----	Atr
+18	potravinářských	AAIP2----1A----	Atr
+19	výrobků	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94203-56-p3s5
+1	Jednání	NNNS1-----A----	Sb
+2	odborníků	NNMP2-----A----	Atr
+3	z	RR--2----------	AuxP
+4	obou	ClXP2----------	Atr
+5	zemí	NNFP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	věci	NNFS6-----A----	Atr
+9	totiž	Db-------------	AuxY
+10	doposud	Db-------------	Adv
+11	nepřineslo	VpNS---XR-NA---	Pred
+12	žádné	PWYP4----------	Atr
+13	konkrétní	AAIP4----1A----	Atr
+14	výsledky	NNIP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94203-56-p4s1
+1	Potvrdilo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	to	PDNS1----------	Sb
+4	i	J^-------------	AuxZ
+5	při	RR--6----------	AuxP
+6	pátečním	AANS6----1A----	Atr
+7	jednání	NNNS6-----A----	Adv
+8	ministrů	NNMP2-----A----	Atr
+9	zemědělství	NNNS2-----A----	Atr
+10	Středoevropské	AAFS2----1A----	Atr
+11	dohody	NNFS2-----A----	Atr
+12	o	RR--6----------	AuxP
+13	volném	AAIS6----1A----	Atr
+14	obchodu	NNIS6-----A---1	Atr
+15	(	Z:-------------	Apos
+16	CEFTA	NNFXX-----A---8	Atr
+17	)	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+ln94203-56-p4s2
+1	Slovenský	AAMS1----1A----	Atr
+2	ministr	NNMS1-----A----	Atr
+3	zemědělství	NNNS2-----A----	Atr
+4	Pavel	NNMS1-----A----	Atr
+5	Koncoš	NNMS1-----A----	Sb
+6	se	P7-X4----------	AuxT
+7	zde	Db-------------	Adv
+8	sice	Db-------------	AuxY
+9	vyjádřil	VpYS---XR-AA---	Pred
+10	pro	RR--4----------	AuxP
+11	uznávání	NNNS4-----A----	Adv
+12	certifikátů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	,	Z:-------------	AuxX
+16	jak	Db-------------	Adv
+17	dodal	VpYS---XR-AA---	Pred
+18	,	Z:-------------	AuxX
+19	o	RR--6----------	AuxP
+20	podmínkách	NNFP6-----A----	Obj
+21	lze	VB-S---3P-AA---	Pred
+22	diskutovat	Vf--------A----	Sb
+23	až	TT-------------	AuxZ
+24	po	RR--6----------	AuxP
+25	slovenských	AAFP6----1A----	Atr
+26	parlamentních	AAFP6----1A----	Atr
+27	volbách	NNFP6-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln94203-56-p5s1
+1	Nová	AAFS1----1A----	Atr
+2	slovenská	AAFS1----1A----	Atr
+3	vláda	NNFS1-----A----	Sb
+4	však	J^-------------	AuxY
+5	zcela	Db-------------	AuxZ
+6	jistě	Dg-------1A----	Adv
+7	s	RR--7----------	AuxP
+8	řešením	NNNS7-----A----	Obj
+9	této	PDFS2----------	Atr
+10	otázky	NNFS2-----A----	Atr
+11	nebude	VB-S---3F-NA---	AuxV
+12	nijak	Db-------------	Adv
+13	spěchat	Vf--------A----	Pred
+14	.	Z:-------------	AuxK
+
+ln94203-56-p5s2
+1	Také	Db-------------	AuxZ
+2	proto	Db-------------	ExD
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	si	P7-X3----------	AuxT
+6	dokážeme	VB-P---1P-AA---	ExD
+7	představit	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	kdo	PKM-1----------	Sb
+10	v	RR--6----------	AuxP
+11	ní	P5FS6--3-------	Adv
+12	bude	VB-S---3F-AA---	AuxV
+13	zasedat	Vf--------A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94203-56-p5s3
+1	Jak	Db-------------	Adv
+2	zaznělo	VpNS---XR-AA---	Pred
+3	v	RR--6----------	AuxP
+4	kuloárech	NNIP6-----A----	Adv
+5	pátečního	AANS2----1A----	Atr
+6	jednání	NNNS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ministři	NNMP1-----A----	Sb
+9	z	RR--2----------	AuxP
+10	dalších	AAIP2----1A----	Atr
+11	států	NNIP2-----A----	Atr
+12	CEFTA	NNFXX-----A---8	Atr
+13	-	Z:-------------	Apos
+14	Maďarska	NNNS2-----A----	Atr
+15	a	J^-------------	Coord
+16	Polska	NNNS2-----A----	Atr
+17	-	Z:-------------	AuxG
+18	byli	VpMP---XR-AA---	Pred
+19	v	RR--6----------	AuxP
+20	záležitosti	NNFS6-----A----	Adv
+21	certifikátů	NNIP2-----A----	Atr
+22	podstatně	Dg-------1A----	Adv
+23	vstřícnější	AAMP1----2A----	Pnom
+24	.	Z:-------------	AuxK
+
+ln94203-56-p5s4
+1	Není	VB-S---3P-NA---	Pred
+2	proto	J^-------------	Adv
+3	vyloučeno	VsNS---XX-AP---	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	právě	Db-------------	AuxZ
+7	připravenost	NNFS1-----A----	Sb
+8	Poláků	NNMP2-----A----	Atr
+9	a	J^-------------	Coord
+10	Maďarů	NNMP2-----A----	Atr
+11	k	RR--3----------	AuxP
+12	uznávání	NNNS3-----A----	Atr
+13	certifikátů	NNIP2-----A----	Atr
+14	může	VB-S---3P-AA---	Sb
+15	nakonec	Db-------------	AuxY
+16	být	Vf--------A----	Obj
+17	jedinou	AAFS7----1A----	Atr
+18	naší	PSFS7-P1-------	Atr
+19	účinnou	AAFS7----1A----	Atr
+20	zbraní	NNFS7-----A----	Pnom
+21	v	RR--6----------	AuxP
+22	boji	NNIS6-----A----	AtrAdv
+23	proti	RR--3----------	AuxP
+24	ochranářské	AAFS3----1A----	Atr
+25	politice	NNFS3-----A----	Atr
+26	Slovenska	NNNS2-----A----	Atr
+27	.	Z:-------------	AuxK
+

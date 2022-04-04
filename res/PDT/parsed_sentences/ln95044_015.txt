@@ -1,0 +1,233 @@
+ln95044-015-p1s1
+1	Rumová	AAFS1----1A----	Atr
+2	aféra	NNFS1-----A----	ExD
+3	před	RR--7----------	AuxP
+4	soudem	NNIS7-----A----	ExD
+
+ln95044-015-p2s1A
+1	Ostrava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-015-p2s1B
+1	Po	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	a	J^-------------	Coord
+4	půl	ClXS6----------	Adv
+5	vyšetřování	NNNS2-----A----	Atr
+6	tzv	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	rumové	AAFS2----1A----	Atr
+9	aféry	NNFS2-----A----	Atr
+10	začalo	VpNS---XR-AA---	Pred
+11	včera	Db-------------	Adv
+12	soudní	AANS1----1A----	Atr
+13	projednávání	NNNS1-----A----	Sb
+14	u	RR--2----------	AuxP
+15	Krajského	AAIS2----1A----	Atr
+16	soudu	NNIS2-----A----	AdvAtr
+17	v	RR--6----------	AuxP
+18	Ostravě	NNFS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95044-015-p2s2
+1	Vyšetřování	NNNS1-----A----	Sb
+2	neprokázalo	VpNS---XR-NA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	by	Vc-------------	AuxV
+6	v	RR--6----------	AuxP
+7	ní	P5FS6--3-------	Adv
+8	měli	VpMP---XR-AA---	Obj
+9	účast	NNFS4-----A----	Obj
+10	vysocí	AAMP1----1A----	Atr
+11	úředníci	NNMP1-----A----	Sb
+12	ministerstva	NNNS2-----A----	Atr
+13	vnitra	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95044-015-p3s1
+1	Hlavní	AAFS7----1A----	Atr
+2	obžalovanou	AAFS7----1A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	Jana	NNFS1-----A----	Atr
+5	Šímová	NNFS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	Hradce	NNIS2-----A----	Atr
+8	Králové	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	měla	VpQW---XR-AA---	Atr
+12	v	RR--6----------	AuxP
+13	roce	NNIS6-----A---1	Adv
+14	1992	C=-------------	Atr
+15	nakoupit	Vf--------A----	Obj
+16	49	C=-------------	Obj
+17	kamiónů	NNIP2-----A----	Atr
+18	s	RR--7----------	AuxP
+19	bezmála	Db-------------	AuxZ
+20	450000	C=-------------	Atr
+21	litry	NNIP7-----A----	Atr
+22	rumu	NNIS2-----A----	Atr
+23	a	J^-------------	Coord
+24	21500	C=-------------	Obj
+25	litrů	NNIP2-----A----	Atr
+26	vodky	NNFS2-----A----	Atr
+27	za	RR--4----------	AuxP
+28	cenu	NNFS4-----A----	Atr
+29	bez	RR--2----------	AuxP
+30	daně	NNFS2-----A----	Atr
+31	z	RR--2----------	AuxP
+32	obratu	NNIS2-----A----	Atr
+33	s	RR--7----------	AuxP
+34	tím	PDZS7----------	Adv
+35	,	Z:-------------	AuxX
+36	že	J,-------------	AuxC
+37	alkohol	NNIS4-----A----	Obj
+38	vyveze	VB-S---3P-AA---	Atr
+39	do	RR--2----------	AuxP
+40	ciziny	NNFS2-----A----	Adv
+41	.	Z:-------------	AuxK
+
+ln95044-015-p3s2
+1	Prodávala	VpQW---XR-AA---	Pred
+2	jej	PPZS4--3------2	Obj
+3	však	J^-------------	Coord
+4	na	RR--6----------	AuxP
+5	trhu	NNIS6-----A----	Adv
+6	v	RR--6----------	AuxP
+7	ČR	NNFXX-----A---8	AtrAdv
+8	a	J^-------------	Coord
+9	dopustila	VpQW---XR-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	daňového	AAIS2----1A----	Atr
+12	úniku	NNIS2-----A----	Obj
+13	ve	RV--6----------	AuxP
+14	výši	NNFS6-----A----	Atr
+15	41250000	C=-------------	Atr
+16	Kč	NNFXX-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95044-015-p3s3
+1	Další	AAFS1----1A----	Atr
+2	obžalovaná	AAFS1----1A----	Atr
+3	Blanka	NNFS1-----A----	Atr
+4	Kvasničková	NNFS1-----A----	Sb
+5	měla	VpQW---XR-AA---	Pred
+6	bez	RR--2----------	AuxP
+7	daně	NNFS2-----A----	Adv
+8	nakoupit	Vf--------A----	Obj
+9	194000	C=-------------	Obj
+10	litrů	NNIP2-----A----	Atr
+11	rumu	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	ošidit	Vf--------A----	Obj
+14	tak	Db-------------	Adv
+15	stát	NNIS4-----A----	Obj
+16	o	RR--4----------	AuxP
+17	17.5	C=-------------	Obj
+18	miliónů	NNIP2-----A----	Atr
+19	korun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95044-015-p4s1
+1	Mezi	RR--7----------	AuxP
+2	šesti	Cn-P7----------	Atr
+3	obžalovanými	AAMP7----1A----	Atr
+4	muži	NNMP7-----A----	Adv
+5	je	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	bývalý	AAMS1----1A----	Atr
+8	soudce	NNMS1-----A----	Sb
+9	a	J^-------------	Coord
+10	policista	NNMS1-----A----	Atr
+11	Otakar	NNMS1-----A----	Atr
+12	Kracík	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln95044-015-p4s2
+1	Ten	PDYS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	měl	VpYS---XR-AA---	Pred
+4	údajně	Dg-------1A----	Adv
+5	podílet	Vf--------A----	Obj
+6	na	RR--6----------	AuxP
+7	manipulaci	NNFS6-----A----	Obj
+8	s	RR--7----------	AuxP
+9	celními	AAFP7----1A----	Atr
+10	deklaracemi	NNFP7-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95044-015-p4s3
+1	Podle	RR--2----------	AuxP
+2	obžaloby	NNFS2-----A----	Adv
+3	měl	VpYS---XR-AA---	Pred
+4	požadovat	Vf--------A----	Obj
+5	od	RR--2----------	AuxP
+6	tří	ClXP2----------	Adv
+7	obžalovaných	AAMP2----1A----	Obj
+8	úplatek	NNIS4-----A----	Obj
+9	600000	C=-------------	Atr
+10	za	RR--4----------	AuxP
+11	příslib	NNIS4-----A----	Adv
+12	ututlání	NNNS2-----A----	Atr
+13	aféry	NNFS2-----A----	Atr
+14	po	RR--6----------	AuxP
+15	jeho	PSXXXZS3-------	Atr
+16	nástupu	NNIS6-----A----	Atr
+17	do	RR--2----------	AuxP
+18	funkce	NNFS2-----A----	Atr
+19	vedoucího	NNMS2-----A----	Atr
+20	I	C}-------------	Atr
+21	.	Z:-------------	AuxG
+22	oddělení	NNNS2-----A----	Atr
+23	Úřadu	NNIS2-----A----	Atr
+24	vyšetřování	NNNS2-----A----	Atr
+25	Policie	NNFS2-----A----	Atr
+26	ČR	NNFXX-----A---8	Atr
+27	.	Z:-------------	AuxK
+
+ln95044-015-p5s1
+1	Očekávalo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	Kracík	NNMS1-----A----	Sb
+6	před	RR--7----------	AuxP
+7	soudem	NNIS7-----A----	Adv
+8	vyjeví	VB-S---3P-AA---	Sb
+9	nová	AANP4----1A----	Atr
+10	fakta	NNNP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	nestalo	VpNS---XR-NA---	Pred
+14	se	P7-X4----------	AuxT
+15	tak	Db-------------	Adv
+16	.	Z:-------------	AuxK
+
+ln95044-015-p5s2
+1	Šímová	NNFS1-----A----	Sb
+2	prohlásila	VpQW---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	nikomu	PWM-3----------	Obj
+6	neodpustí	VB-S---3P-NA---	Obj
+7	smrt	NNFS4-----A----	Obj
+8	manžela	NNMS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	byl	VpYS---XR-AA---	AuxV
+12	v	RR--6----------	AuxP
+13	souvislosti	NNFS6-----A----	AuxP
+14	s	RR--7----------	AuxP
+15	aférou	NNFS7-----A----	Adv
+16	zavražděn	VsYS---XX-AP---	Atr
+17	.	Z:-------------	AuxK
+
+ln95044-015-p5s3
+1	Proces	NNIS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	trvat	Vf--------A----	Obj
+4	do	RR--2----------	AuxP
+5	dubna	NNIS2-----A----	Adv
+6	.	Z:-------------	AuxK
+

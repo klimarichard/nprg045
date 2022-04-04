@@ -1,0 +1,400 @@
+ln94208-18-p1s1
+1	Dluhy	NNIP4-----A----	Obj
+2	ruských	AAIP2----1A----	Atr
+3	podniků	NNIP2-----A----	Atr
+4	vlastní	AAFP1----1A----	Atr
+5	směnky	NNFP1-----A----	Sb
+6	nezachrání	VB-P---3P-NA---	Pred
+
+ln94208-18-p2s1
+1	Vlastními	AAFP7----1A----	Atr
+2	směnkami	NNFP7-----A----	Adv
+3	by	Vc-------------	AuxV
+4	měl	VpYS---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	podle	RR--2----------	AuxP
+7	ministerstva	NNNS2-----A----	Adv
+8	financí	NNFP2-----A----	Atr
+9	řešen	VsYS---XX-AP---	Obj
+10	růst	NNIS1-----A----	Sb
+11	podnikových	AAIP2----1A----	Atr
+12	dluhů	NNIP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Rusku	NNNS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94208-18-p2s2
+1	Uvádí	VB-S---3P-AA---	Pred
+2	to	PDNS4----------	Obj
+3	zahraniční	AAIS1----1A----	Atr
+4	tisk	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	rovněž	Db-------------	Adv
+8	konstatuje	VB-S---3P-AA---	Atr
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	mezipodnikové	AAIP1----1A----	Atr
+12	dluhy	NNIP1-----A----	Sb
+13	přesáhly	VpTP---XR-AA---	Obj
+14	podle	RR--2----------	AuxP
+15	vládních	AAMP2----1A----	Atr
+16	představitelů	NNMP2-----A----	Adv
+17	100	C=-------------	Atr
+18	bilionů	NNIP2-----A----	Obj
+19	rublů	NNIP2-----A----	Atr
+20	(	Z:-------------	Apos
+21	30	C=-------------	Obj
+22	mld	NNFXX-----A---8	Atr
+23	.	Z:-------------	AuxG
+24	GPY	NNIXX-----A---8	Atr
+25	)	Z:-------------	AuxG
+26	,	Z:-------------	Coord
+27	což	PE--1----------	Sb
+28	již	Db-------------	Adv
+29	ruskou	AAFS4----1A----	Atr
+30	ekonomiku	NNFS4-----A----	Obj
+31	zcela	Db-------------	Adv
+32	paralyzuje	VB-S---3P-AA---	Obj
+33	.	Z:-------------	AuxK
+
+ln94208-18-p3s1
+1	Zmíněný	AAIS4----1A----	Atr
+2	návrh	NNIS4-----A----	Obj
+3	přednesl	VpYS---XR-AA---	Pred
+4	minulý	AAIS4----1A----	Atr
+5	týden	NNIS4-----A----	Adv
+6	na	RR--6----------	AuxP
+7	schůzce	NNFS6-----A----	Adv
+8	vládní	AAFS2----1A----	Atr
+9	komise	NNFS2-----A----	Atr
+10	pro	RR--4----------	AuxP
+11	urychlené	AANS4----1A----	Atr
+12	řešení	NNNS4-----A----	Atr
+13	krize	NNFS2-----A----	Atr
+14	zadlužení	NNNS2-----A----	Atr
+15	úřadující	AGMS1-----A----	Atr
+16	ministr	NNMS1-----A----	Atr
+17	financí	NNFP2-----A----	Atr
+18	Sergej	NNMS1-----A----	Atr
+19	Dubinin	NNMS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94208-18-p3s2
+1	Podle	RR--2----------	AuxP
+2	ruských	AAFP2----1A----	Atr
+3	tiskových	AAFP2----1A----	Atr
+4	agentur	NNFP2-----A----	Adv
+5	navrhuje	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	vlastní	AAFP1----1A----	Atr
+9	směnky	NNFP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	na	RR--4----------	AuxP
+12	něž	P9XP4----------	Atr
+13	by	Vc-------------	AuxV
+14	poskytla	VpQW---XR-AA--1	Atr
+15	záruku	NNFS4-----A----	Obj
+16	samotná	AAFS1----1A----	Atr
+17	vláda	NNFS1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	byly	VpTP---XR-AA---	AuxV
+20	použity	VsTP---XX-AP---	Obj
+21	k	RR--3----------	AuxP
+22	úhradě	NNFS3-----A----	Adv
+23	podnikových	AAIP2----1A----	Atr
+24	dluhů	NNIP2-----A----	Atr
+25	za	RR--4----------	AuxP
+26	dodané	AANS4----1A----	Atr
+27	zboží	NNNS4-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94208-18-p3s3
+1	Nelze	VB-S---3P-NA---	Pred
+2	vyloučit	Vf--------A----	Sb
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	budou	VB-P---3F-AA---	AuxV
+6	na	RR--4----------	AuxP
+7	vlastní	AAFP4----1A----	Atr
+8	směnky	NNFP4-----A----	Adv
+9	převedeny	VsTP---XX-AP---	Obj
+10	veškeré	PLIP1----------	Atr
+11	vnitropodnikové	AAIP1----1A----	Atr
+12	dluhy	NNIP1-----A----	Sb
+13	ruských	AAFP2----1A----	Atr
+14	firem	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94208-18-p4s1
+1	Podobné	AANS4----1A----	Atr
+2	schéma	NNNS4-----A----	Obj
+3	obsahoval	VpYS---XR-AA---	Pred
+4	prezidentský	AAIS1----1A----	Atr
+5	dekret	NNIS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	letošního	AANS2----1A----	Atr
+8	jara	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94208-18-p4s2
+1	Nakonec	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	však	J^-------------	Coord
+4	nerealizoval	VpYS---XR-NA---	Pred
+5	.	Z:-------------	AuxK
+
+ln94208-18-p4s3
+1	Nový	AAIS1----1A----	Atr
+2	návrh	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	jehož	PJZS2----------	Atr
+5	podrobnosti	NNFP1-----A----	Sb
+6	nejsou	VB-P---3P-NA---	Atr
+7	jasné	AAFP1----1A----	Pnom
+8	ani	J^-------------	AuxZ
+9	významným	AAMP3----1A----	Atr
+10	ruským	AAMP3----1A----	Atr
+11	vládním	AAMP3----1A----	Atr
+12	představitelům	NNMP3-----A----	Obj
+13	,	Z:-------------	AuxX
+14	byl	VpYS---XR-AA---	AuxV
+15	přijat	VsYS---XX-AP---	Pred
+16	reformní	AAFS7----1A----	Atr
+17	skupinou	NNFS7-----A----	Obj
+18	v	RR--6----------	AuxP
+19	ruské	AAFS6----1A----	Atr
+20	vládě	NNFS6-----A----	Atr
+21	,	Z:-------------	Coord
+22	předními	AAMP7----1A----	Atr
+23	západními	AAMP7----1A----	Atr
+24	analytiky	NNMP7-----A----	Obj
+25	i	J^-------------	Coord
+26	bankéři	NNMP7-----A----	Obj
+27	skepticky	Dg-------1A----	Adv
+28	.	Z:-------------	AuxK
+
+ln94208-18-p4s4
+1	Obávají	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vlastní	AAFP1----1A----	Atr
+6	směnky	NNFP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	pokud	J,-------------	AuxC
+9	je	PPXP4--3-------	Obj
+10	bude	VB-S---3F-AA---	AuxV
+11	podporovat	Vf--------A----	Adv
+12	vláda	NNFS1-----A----	Sb
+13	a	J^-------------	Coord
+14	budou	VB-P---3F-AA---	AuxV
+15	poskytovány	VsTP---XX-AP---	Adv
+16	podnikům	NNIP3-----A----	Obj
+17	bez	RR--2----------	AuxP
+18	jakéhokoliv	PZZS2----------	Atr
+19	omezení	NNNS2-----A----	Adv
+20	,	Z:-------------	AuxX
+21	pouze	Db-------------	AuxZ
+22	zvýší	VB-P---3P-AA---	Obj
+23	zastřené	AAIP4----1A----	Atr
+24	vládní	AAIP4----1A----	Atr
+25	úvěry	NNIP4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+ln94208-18-p5s1
+1	Sergej	NNMS1-----A----	Atr
+2	Alexašenko	NNMS1-----A----	Sb
+3	,	Z:-------------	Apos
+4	náměstek	NNMS1-----A----	Sb
+5	ministra	NNMS2-----A----	Atr
+6	financí	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	přívrženec	NNMS1-----A----	Sb
+9	rozsáhlých	AAFP2----1A----	Atr
+10	tržních	AAFP2----1A----	Atr
+11	reforem	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	návrh	NNIS4-----A----	Obj
+14	svého	P8ZS2----------	Atr
+15	nadřízeného	NNMS2-----A----	Atr
+16	odmítl	VpYS---XR-AA--1	Pred
+17	a	J^-------------	Coord
+18	k	RR--3----------	AuxP
+19	celé	AAFS3----1A----	Atr
+20	záležitosti	NNFS3-----A----	Obj
+21	se	P7-X4----------	AuxT
+22	staví	VB-S---3P-AA---	Pred
+23	s	RR--7----------	AuxP
+24	notnou	AAFS7----1A----	Atr
+25	dávkou	NNFS7-----A----	Adv
+26	skepse	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94208-18-p6s1
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	vysoké	AAFS3----1A----	Atr
+4	míře	NNFS3-----A----	Adv
+5	inflace	NNFS2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	vláda	NNFS1-----A----	Sb
+8	bojí	VB-S---3P-AA---	Pred
+9	přímo	Dg-------1A----	Adv
+10	zavést	Vf--------A----	Obj
+11	levné	AAIP4----1A----	Atr
+12	úvěry	NNIP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94208-18-p6s2
+1	Mnozí	AAMP1----1A----	Atr
+2	ruští	AAMP1----1A----	Atr
+3	oficiální	AAMP1----1A----	Atr
+4	představitelé	NNMP1-----A----	Sb
+5	však	J^-------------	Coord
+6	mají	VB-P---3P-AA---	Pred
+7	strach	NNIS4-----A----	Obj
+8	z	RR--2----------	AuxP
+9	politických	AAIP2----1A----	Atr
+10	důsledků	NNIP2-----A----	Atr
+11	případných	AAIP2----1A----	Atr
+12	bankrotů	NNIP2-----A----	Atr
+13	velkého	AAIS2----1A----	Atr
+14	počtu	NNIS2-----A----	Atr
+15	neefektivních	AAIP2----1N----	Atr
+16	a	J^-------------	Coord
+17	zadlužených	AAIP2----1A----	Atr
+18	podniků	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94208-18-p7s1
+1	Západní	AAMP1----1A----	Atr
+2	analytici	NNMP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	ovšem	J^-------------	Coord
+5	obávají	VB-P---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	navrhované	AANS1----1A----	Atr
+9	využití	NNNS1-----A----	Sb
+10	vlastních	AAFP2----1A----	Atr
+11	směnek	NNFP2-----A----	Atr
+12	nic	PW--4----------	Obj
+13	neřeší	VB-S---3P-NA---	Obj
+14	a	J^-------------	Coord
+15	pouze	Db-------------	AuxZ
+16	oddaluje	VB-S---3P-AA---	Obj
+17	konečné	AANS4----1A----	Atr
+18	řešení	NNNS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94208-18-p8s1
+1	Podle	RR--2----------	AuxP
+2	jednoho	ClZS2----------	Adv
+3	ze	RV--2----------	AuxP
+4	zahraničních	AAMP2----1A----	Atr
+5	bankéřů	NNMP2-----A----	Atr
+6	například	Db-------------	AuxY
+7	návrh	NNIS1-----A----	Sb
+8	neřeší	VB-S---3P-NA---	Pred
+9	základní	AAIS4----1A----	Atr
+10	problém	NNIS4-----A----	Obj
+11	a	J^-------------	Coord
+12	může	VB-S---3P-AA---	Pred
+13	přispět	Vf--------A----	Obj
+14	ke	RV--3----------	AuxP
+15	vzniku	NNIS3-----A----	Obj
+16	dalších	AAFP2----1A----	Atr
+17	potíží	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94208-18-p8s2
+1	Konstatoval	VpYS---XR-AA---	Pred
+2	mj	Db------------8	Adv
+3	.	Z:-------------	AuxG
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	vláda	NNFS1-----A----	Sb
+8	měla	VpQW---XR-AA---	Obj
+9	v	RR--6----------	AuxP
+10	tomto	PDZS6----------	Atr
+11	směru	NNIS6-----A----	Adv
+12	intervenovat	Vf--------A----	Obj
+13	co	Db-------------	Adv
+14	nejméně	Dg-------3A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94208-18-p8s3
+1	Dluhy	NNIP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	pro	RR--4----------	AuxP
+4	řadu	NNFS4-----A----	Adv
+5	ruských	AAFP2----1A----	Atr
+6	firem	NNFP2-----A----	Atr
+7	velmi	Db-------------	Adv
+8	nákladné	AAIP1----1A----	Pnom
+9	.	Z:-------------	AuxK
+
+ln94208-18-p8s4
+1	Některé	PZIP1----------	Atr
+2	podniky	NNIP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	snaží	VB-P---3P-AA---	Pred
+5	omezit	Vf--------A----	Obj
+6	zadlužení	NNNS4-----A----	Obj
+7	tím	PDZS7----------	Adv
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	nabízejí	VB-P---3P-AA---	Atr
+11	věřitelům	NNMP3-----A----	Obj
+12	kapitalizaci	NNFS4-----A----	Obj
+13	dluhů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94208-18-p8s5A
+1	Konstatoval	VpYS---XR-AA---	Pred
+2	rovněž	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jakýkoliv	PZYS1----------	Atr
+6	vládní	AAIS1----1A----	Atr
+7	program	NNIS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	nebere	VB-S---3P-NA---	Atr
+11	v	RR--4----------	AuxP
+12	úvahu	NNFS4-----A----	Obj
+13	rozdíly	NNIP4-----A----	Obj
+14	mezi	RR--7----------	AuxP
+15	více	Dg-------2A----	Adv
+16	a	J^-------------	Coord
+17	méně	Dg-------2A----	Adv
+18	zadluženými	AAIP7----1A----	Atr
+19	podniky	NNIP7-----A----	Atr
+20	,	Z:-------------	AuxX
+21	může	VB-S---3P-AA---	Obj
+22	podle	RR--2----------	AuxP
+23	bankéřových	AUNP2M---------	Atr
+24	slov	NNNP2-----A----	Adv
+25	poškodit	Vf--------A----	Obj
+26	efektivnější	AAFP4----2A----	Atr
+27	firmy	NNFP4-----A----	Obj
+28	,	Z:-------------	AuxX
+29	které	P4FP1----------	Sb
+30	by	Vc-------------	AuxV
+31	byly	VpTP---XR-AA---	Atr
+32	schopny	ACTP------A----	Pnom
+33	snížit	Vf--------A----	Obj
+34	své	P8YP4---------1	Atr
+35	závazky	NNIP4-----A----	Obj
+36	vlastní	AAFS7----1A----	Atr
+37	iniciativou	NNFS7-----A----	Adv
+38	.	Z:-------------	AuxK
+
+ln94208-18-p8s5B
+1	(	Z:-------------	ExD
+2	ma	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

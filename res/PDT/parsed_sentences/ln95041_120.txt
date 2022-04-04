@@ -1,0 +1,126 @@
+ln95041-120-p1s1
+1	Maďarsko	NNNS1-----A----	Sb
+2	získá	VB-S---3P-AA---	Pred
+3	85	C=-------------	Obj
+4	miliónů	NNIP2-----A----	Atr
+
+ln95041-120-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95041-120-p3s1A
+1	Budapešť	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-120-p3s1B
+1	Finanční	AAFS4----1A----	Atr
+2	pomoc	NNFS4-----A----	Obj
+3	v	RR--6----------	AuxP
+4	souhrnné	AAFS6----1A----	Atr
+5	výši	NNFS6-----A----	Atr
+6	85	C=-------------	Atr
+7	miliónů	NNIP2-----A----	Atr
+8	evropských	AAFP2----1A----	Atr
+9	měnových	AAFP2----1A----	Atr
+10	jednotek	NNFP2-----A----	Atr
+11	ECU	NNFXX-----A---8	Atr
+12	dostane	VB-S---3P-AA---	Pred
+13	letos	Db-------------	Adv
+14	Maďarsko	NNNS1-----A----	Sb
+15	od	RR--2----------	AuxP
+16	Evropské	AAFS2----1A----	Atr
+17	unie	NNFS2-----A----	Obj
+18	(	Z:-------------	Apos
+19	EU	NNFXX-----A---8	Obj
+20	)	Z:-------------	AuxG
+21	v	RR--6----------	AuxP
+22	rámci	NNIS6-----A----	AuxP
+23	programu	NNIS2-----A----	Adv
+24	Phare	NNIXX-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95041-120-p3s2
+1	Oznámilo	VpNS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	Budapešti	NNFS6-----A----	Adv
+6	maďarské	AANS1----1A----	Atr
+7	ministerstvo	NNNS1-----A----	Sb
+8	průmyslu	NNIS2-----A----	Atr
+9	a	J^-------------	Coord
+10	obchodu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95041-120-p4s1
+1	Státní	AAMS1----1A----	Atr
+2	tajemník	NNMS1-----A----	Atr
+3	ministerstva	NNNS2-----A----	Atr
+4	Károly	NNMS1-----A----	Atr
+5	Attila	NNMS1-----A----	Atr
+6	Soós	NNMS1-----A----	Sb
+7	uvedl	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	největší	AAFS1----3A----	Atr
+11	část	NNFS1-----A----	Sb
+12	z	RR--2----------	AuxP
+13	této	PDFS2----------	Atr
+14	sumy	NNFS2-----A----	Atr
+15	,	Z:-------------	Apos
+16	29	C=-------------	Sb
+17	miliónů	NNIP2-----A----	Atr
+18	ECU	NNFXX-----A---8	Atr
+19	,	Z:-------------	AuxX
+20	bude	VB-S---3F-AA---	AuxV
+21	použita	VsQW---XX-AP---	Obj
+22	na	RR--4----------	AuxP
+23	rozšíření	NNNS4-----A----	Obj
+24	a	J^-------------	Coord
+25	modernizaci	NNFS4-----A----	Obj
+26	infrastruktury	NNFS2-----A----	Atr
+27	ekonomiky	NNFS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95041-120-p5s1
+1	Dalších	AAFP2----1A----	Atr
+2	16.5	C=-------------	Sb
+3	miliónu	NNIS2-----A----	Atr
+4	bude	VB-S---3F-AA---	AuxV
+5	použito	VsNS---XX-AP---	Pred
+6	na	RR--4----------	AuxP
+7	rozvoj	NNIS4-----A----	Adv
+8	soukromého	AAIS2----1A----	Atr
+9	sektoru	NNIS2-----A----	Atr
+10	a	J^-------------	Coord
+11	15.5	C=-------------	ExD
+12	miliónu	NNIS2-----A----	Atr
+13	na	RR--4----------	AuxP
+14	ochranu	NNFS4-----A----	ExD
+15	životního	AANS2----1A----	Atr
+16	prostředí	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95041-120-p5s2
+1	Pro	RR--4----------	AuxP
+2	potřeby	NNFP4-----A----	Adv
+3	školství	NNNS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	především	Db-------------	AuxZ
+6	na	RR--4----------	AuxP
+7	podporu	NNFS4-----A----	Adv
+8	realizace	NNFS2-----A----	Atr
+9	vzdělávacího	AAIS2----1A----	Atr
+10	programu	NNIS2-----A----	Atr
+11	Tempus	NNIS1-----A----	Atr
+12	,	Z:-------------	AuxX
+13	bylo	VpNS---XR-AA---	AuxV
+14	vyčleněno	VsNS---XX-AP---	Pred
+15	24	C=-------------	Sb
+16	miliónů	NNIP2-----A----	Atr
+17	ECU	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+

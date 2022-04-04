@@ -1,0 +1,160 @@
+cmpr9406-016-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	1	C=-------------	Atr
+
+cmpr9406-016-p2s1
+1	Výrobce	NNMS1-----A----	ExD
+2	-	Z:-------------	Coord
+3	typ	NNIS1-----A----	ExD
+4	:	Z:-------------	AuxG
+5	CANON	NNIS1-----A----	Atr
+6	FAX	NNIS1-----A----	Atr
+7	-	Z:-------------	AuxG
+8	T	NNXXX-----A---8	Atr
+9	40	C=-------------	Atr
+
+cmpr9406-016-p3s1
+1	Způsob	NNIS1-----A----	ExD
+2	tisku	NNIS2-----A----	Atr
+3	:	Z:-------------	Apos
+4	TZ	NNIXX-----A---8	ExD
+
+cmpr9406-016-p4s1
+1	Přenosová	AAFS1----1A----	Atr
+2	rychlost	NNFS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	(	Z:-------------	ExD
+5	A	NNFXX-----A---8	ExD
+6	4	C=-------------	Atr
+7	/	Z:-------------	AuxG
+8	sec	NNFXX-----A---8	Atr
+9	)	Z:-------------	ExD
+10	15	C=-------------	ExD
+
+cmpr9406-016-p5s1
+1	Samoopravný	AAIS1----1A----	Atr
+2	režim	NNIS1-----A----	ExD
+3	:	Z:-------------	AuxG
+4	(	Z:-------------	Apos
+5	ECM	NNIXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	ne	TT-------------	ExD
+
+cmpr9406-016-p6s1
+1	Rozměry	NNIP1-----A----	Sb
+2	:	Z:-------------	Pred
+3	(	Z:-------------	AuxG
+4	mm	NNIXX-----A---8	Atr
+5	)	Z:-------------	AuxG
+6	414.5	C=-------------	Pnom
+7	x	J*-------------	Atr
+8	367	C=-------------	Pnom
+9	x	J*-------------	Coord
+10	158	C=-------------	Pnom
+
+cmpr9406-016-p7s1
+1	Cena	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	(	Z:-------------	AuxG
+4	Kč	NNFXX-----A----	Atr
+5	)	Z:-------------	AuxG
+6	26568	C=-------------	ExD
+
+cmpr9406-016-p8s1A
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9406-016-p8s1B
+1	Fax	NNIS1-----A----	ExD
+2	s	RR--7----------	AuxP
+3	integrovaným	AAIS7----1A----	Atr
+4	telefonem	NNIS7-----A----	Atr
+5	.	Z:-------------	AuxK
+
+cmpr9406-016-p8s1C
+1	Umožňuje	VB-S---3P-AA---	Pred
+2	používat	Vf--------A----	Obj
+3	role	NNFP4-----A----	Obj
+4	papíru	NNIS2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	délce	NNFS6-----A----	Atr
+7	100	C=-------------	Atr
+8	m	NNIXX-----A---8	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9406-016-p8s2
+1	16	C=-------------	ExD
+2	znaků	NNIP2-----A----	Atr
+3	na	RR--6----------	AuxP
+4	displayi	NNIS6-----A----	Atr
+5	(	Z:-------------	ExD
+6	volané	AANS1----1A----	Atr
+7	číslo	NNNS1-----A----	ExD
+8	)	Z:-------------	ExD
+9	.	Z:-------------	AuxK
+
+cmpr9406-016-p8s3
+1	16	C=-------------	ExD
+2	stupňů	NNIP2-----A----	Atr
+3	šedi	NNFS2-----A----	Atr
+4	,	Z:-------------	Coord
+5	možnost	NNFS1-----A----	ExD
+6	zvýšení	NNNS2-----A----	Atr
+7	kontrastu	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9406-016-p8s4
+1	Možnost	NNFS1-----A----	ExD
+2	zkrácené	AAFS2----1A----	Atr
+3	volby	NNFS2-----A----	Atr
+4	8	C=-------------	Atr
+5	předvolených	AANP2----1A----	Atr
+6	čísel	NNNP2-----A----	Atr
+7	,	Z:-------------	Coord
+8	automatické	AANS1----1A----	Atr
+9	opakování	NNNS1-----A----	ExD
+10	volby	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-016-p8s5
+1	Zpráva	NNFS1-----A----	ExD
+2	o	RR--6----------	AuxP
+3	přenosu	NNIS6-----A---1	Atr
+4	a	J^-------------	Coord
+5	zpráva	NNFS1-----A----	ExD
+6	o	RR--6----------	AuxP
+7	chybách	NNFP6-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9406-016-p9s1A
+1	Shrnutí	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9406-016-p9s1B
+1	Přístroj	NNIS1-----A----	ExD
+2	se	RV--7----------	AuxP
+3	základním	AANS7----1A----	Atr
+4	vybavením	NNNS7-----A----	Atr
+5	.	Z:-------------	AuxK
+
+cmpr9406-016-p9s2
+1	Možnost	NNFS1-----A----	ExD
+2	využití	NNNS2-----A----	Atr
+3	i	J^-------------	AuxZ
+4	jako	J,-------------	AuxC
+5	kopírky	NNFS2-----A----	ExD
+6	.	Z:-------------	AuxK
+
+cmpr9406-016-p9s3
+1	100	C=-------------	Sb
+2	m	NNIXX-----A---8	Atr
+3	role	NNFS1-----A----	Atr
+4	papíru	NNIS2-----A----	Atr
+5	dovoluje	VB-S---3P-AA---	Pred
+6	přijímat	Vf--------A----	Obj
+7	dlouhé	AAFP4----1A----	Atr
+8	serie	NNFP4-----A----	Obj
+9	dokumentů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+

@@ -1,0 +1,190 @@
+mf920923-106-p1s1
+1	Cíle	NNIP1-----A----	ExD
+2	maastrichtských	AAFP2----1A----	Atr
+3	dohod	NNFP2-----A----	Atr
+4	:	Z:-------------	AuxK
+
+mf920923-106-p2s1
+1	MĚNOVÁ	AAFS1----1A----	Atr
+2	UNIE	NNFS1-----A----	ExD
+3	.	Z:-------------	AuxK
+
+mf920923-106-p2s2
+1	V	RR--6----------	AuxP
+2	jejím	PSZS6FS3-------	Atr
+3	rámci	NNIS6-----A----	Adv
+4	by	Vc-------------	AuxV
+5	ES	NNNXX-----A---8	Sb
+6	měla	VpQW---XR-AA---	Pred
+7	do	RR--2----------	AuxP
+8	roku	NNIS2-----A---1	Adv
+9	1999	C=-------------	Atr
+10	zřídit	Vf--------A----	Obj
+11	centrální	AAFS4----1A----	Atr
+12	banku	NNFS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	by	Vc-------------	AuxV
+16	vydávala	VpQW---XR-AA---	Atr
+17	společnou	AAFS4----1A----	Atr
+18	evropskou	AAFS4----1A----	Atr
+19	měnu	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920923-106-p3s1
+1	POLITICKÁ	AAFS1----1A----	Atr
+2	UNIE	NNFS1-----A----	ExD
+3	.	Z:-------------	AuxK
+
+mf920923-106-p3s2
+1	Státy	NNIP1-----A----	Sb
+2	ES	NNNXX-----A---8	Atr
+3	by	Vc-------------	AuxV
+4	měly	VpTP---XR-AA---	Pred
+5	uplatňovat	Vf--------A----	Obj
+6	jednotnou	AAFS4----1A----	Atr
+7	obrannou	AAFS4----1A----	Atr
+8	a	J^-------------	Coord
+9	bezpečnostní	AAFS4----1A----	Atr
+10	politiku	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	která	P4FS1----------	Sb
+13	by	Vc-------------	AuxV
+14	se	P7-X4----------	AuxR
+15	schvalovala	VpQW---XR-AA---	Atr
+16	na	RR--6----------	AuxP
+17	základě	NNIS6-----A----	AuxP
+18	konsensu	NNIS2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+mf920923-106-p3s3
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1996	C=-------------	Atr
+4	by	Vc-------------	AuxV
+5	ES	NNNXX-----A---8	Sb
+6	měla	VpQW---XR-AA---	Pred
+7	začít	Vf--------A----	Obj
+8	budovat	Vf--------A----	Obj
+9	společný	AAIS4----1A----	Atr
+10	obranný	AAIS4----1A----	Atr
+11	systém	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+mf920923-106-p4s1A
+1	SPOLEČNÁ	AAFS1----1A----	Atr
+2	POLITIKA	NNFS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+mf920923-106-p4s1B
+1	Po	RR--6----------	AuxP
+2	zavedení	NNNS6-----A----	Adv
+3	většinového	AAIS2----1A----	Atr
+4	systému	NNIS2-----A----	Atr
+5	hlasování	NNNS2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	ES	NNNXX-----A---8	Sb
+8	obdržela	VpQW---XR-AA---	Pred
+9	rozhodovací	AAFP4----1A----	Atr
+10	pravomoci	NNFP4-----A----	Obj
+11	v	RR--6----------	AuxP
+12	otázkách	NNFP6-----A----	AtrAdv
+13	školství	NNNS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	zdravotnictví	NNNS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	kultury	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	ochrany	NNFS2-----A----	Atr
+20	spotřebitelů	NNMP2-----A----	Atr
+21	,	Z:-------------	Coord
+22	spolupráce	NNFS2-----A----	Atr
+23	v	RR--6----------	AuxP
+24	oblasti	NNFS6-----A----	Atr
+25	průmyslu	NNIS2-----A----	Atr
+26	a	J^-------------	Coord
+27	vývoje	NNIS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf920923-106-p5s1
+1	EVROPSKÝ	AAIS1----1A----	Atr
+2	PARLAMENT	NNIS1-----A----	ExD
+3	.	Z:-------------	AuxK
+
+mf920923-106-p5s2
+1	Toto	PDNS1----------	Atr
+2	shromáždění	NNNS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	v	RR--6----------	AuxP
+5	oblastech	NNFP6-----A----	Adv
+6	společné	AAFS2----1A----	Atr
+7	politiky	NNFS2-----A----	Atr
+8	obdrželo	VpNS---XR-AA---	Pred
+9	i	J^-------------	AuxZ
+10	legislativní	AAFP4----1A----	Atr
+11	pravomoci	NNFP4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+mf920923-106-p6s1
+1	POLITIKA	NNFS1-----A----	ExD
+2	VŮČI	RR--3----------	AuxP
+3	PŘISTĚHOVALCŮM	NNMP3-----A----	Atr
+4	.	Z:-------------	AuxK
+
+mf920923-106-p6s2
+1	Budou	VB-P---3F-AA---	AuxV
+2	přijaty	VsTP---XX-AP---	Pred
+3	společné	AAFP1----1A----	Atr
+4	zásady	NNFP1-----A----	Sb
+5	pro	RR--4----------	AuxP
+6	přijímání	NNNS4-----A----	AtrAdv
+7	přistěhovalců	NNMP2-----A----	Atr
+8	ze	RV--2----------	AuxP
+9	států	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	jež	PJIP1----------	Sb
+12	nejsou	VB-P---3P-NA---	Atr
+13	členy	NNMP7-----A----	Pnom
+14	ES	NNNXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+
+mf920923-106-p6s3
+1	Pohyb	NNIS1-----A----	Sb
+2	obyvatelstva	NNNS2-----A----	Atr
+3	ve	RV--6----------	AuxP
+4	státech	NNIP6-----A----	Atr
+5	ES	NNNXX-----A---8	Atr
+6	bude	VB-S---3F-AA---	Pred
+7	volný	AAIS1----1A----	Pnom
+8	.	Z:-------------	AuxK
+
+mf920923-106-p7s1
+1	OBČANSTVÍ	NNNS1-----A----	ExD
+2	.	Z:-------------	AuxK
+
+mf920923-106-p7s2
+1	Společné	AANS1----1A----	Atr
+2	občanství	NNNS1-----A----	Sb
+3	unie	NNFS2-----A----	Atr
+4	zaručuje	VB-S---3P-AA---	Pred
+5	svobodnou	AAFS4----1A----	Atr
+6	možnost	NNFS4-----A----	Obj
+7	pohybu	NNIS2-----A----	Atr
+8	ve	RV--6----------	AuxP
+9	všech	PLXP6----------	Atr
+10	členských	AAIP6----1A----	Atr
+11	státech	NNIP6-----A----	AtrAdv
+12	a	J^-------------	Coord
+13	po	RR--6----------	AuxP
+14	roce	NNIS6-----A---1	ExD
+15	1994	C=-------------	Atr
+16	i	J^-------------	AuxZ
+17	hlasovací	AANS4----1A----	Atr
+18	právo	NNNS4-----A----	ExD
+19	a	J^-------------	Coord
+20	právo	NNNS4-----A----	ExD
+21	kandidovat	Vf--------A----	Atr
+22	ve	RV--6----------	AuxP
+23	volbách	NNFP6-----A----	Adv
+24	.	Z:-------------	AuxK
+

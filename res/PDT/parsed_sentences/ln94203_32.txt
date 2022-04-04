@@ -1,0 +1,323 @@
+ln94203-32-p1s1
+1	Lékař	NNMS1-----A----	Sb
+2	půjde	VB-S---3F-AA---	Pred
+3	za	RR--4----------	AuxP
+4	potraty	NNIP4-----A----	Adv
+5	před	RR--4----------	AuxP
+6	soud	NNIS4-----A----	Adv
+
+ln94203-32-p2s1A
+1	Bývalý	AAMS1----1A----	Atr
+2	primář	NNMS1-----A----	Sb
+3	gynekologie	NNFS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Českém	AAIS6----1A----	Atr
+6	Těšíně	NNIS6-----A----	Atr
+7	dělal	VpYS---XR-AA---	Pred
+8	interrupce	NNFP4-----A----	Obj
+9	Polkám	NNFP3-----A----	Obj
+
+ln94203-32-p2s1B
+1	Karviná	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mot	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94203-32-p2s1C
+1	Žaloba	NNFS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	bývalého	AAMS4----1A----	Atr
+4	primáře	NNMS4-----A----	Atr
+5	gynekologického	AANS2----1A----	Atr
+6	oddělení	NNNS2-----A----	Atr
+7	nemocnice	NNFS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Českém	AAIS6----1A----	Atr
+10	Těšíně	NNIS6-----A----	Atr
+11	MUDr	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	Petra	NNMS2-----A----	Atr
+14	Š	NNMXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	podezřelého	AAMS2----1A----	Atr
+18	z	RR--2----------	AuxP
+19	provádění	NNNS2-----A----	Adv
+20	nezákonných	AAIP2----1N----	Atr
+21	potratů	NNIP2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	má	VB-S---3P-AA---	Pred
+24	být	Vf--------A----	AuxV
+25	podle	RR--2----------	AuxP
+26	karvinského	AAMS2----1A----	Atr
+27	státního	AAMS2----1A----	Atr
+28	zástupce	NNMS2-----A----	Atr
+29	Jiřího	NNMS2-----A----	Atr
+30	Fišera	NNMS2-----A----	Adv
+31	podána	VsQW---XX-AP---	Obj
+32	soudu	NNIS3-----A----	Obj
+33	tento	PDIS4----------	Atr
+34	týden	NNIS4-----A----	Adv
+35	.	Z:-------------	AuxK
+
+ln94203-32-p2s2
+1	Bude	VB-S---3F-AA---	AuxV
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	uznán	VsYS---XX-AP---	Adv
+5	vinným	AAMS7----1A----	Obj
+6	,	Z:-------------	AuxX
+7	hrozí	VB-S---3P-AA---	Pred
+8	mu	PHZS3--3-------	Obj
+9	trest	NNIS1-----A----	Sb
+10	od	RR--2----------	AuxP
+11	dvou	ClXP2----------	ExD
+12	do	RR--2----------	AuxP
+13	osmi	Cn-P2----------	Atr
+14	let	NNNP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94203-32-p3s1
+1	Podle	RR--2----------	AuxP
+2	výsledku	NNIS2-----A----	Adv
+3	vyšetřování	NNNS2-----A----	Atr
+4	měl	VpYS---XR-AA---	Pred
+5	bývalý	AAMS1----1A----	Atr
+6	primář	NNMS1-----A----	Sb
+7	nejméně	Dg-------3A----	AuxZ
+8	v	RR--6----------	AuxP
+9	osmi	Cn-P6----------	Atr
+10	případech	NNIP6-----A----	Adv
+11	v	RR--6----------	AuxP
+12	minulém	AAIS6----1A----	Atr
+13	roce	NNIS6-----A---1	Adv
+14	vykonat	Vf--------A----	Obj
+15	za	RR--4----------	AuxP
+16	úplatu	NNFS4-----A----	Adv
+17	interrupce	NNFP4-----A----	Obj
+18	u	RR--2----------	AuxP
+19	osmi	Cn-P2----------	Atr
+20	polských	AAFP2----1A----	Atr
+21	občanek	NNFP2-----A----	AdvAtr
+22	,	Z:-------------	AuxX
+23	které	P4FP4----------	Obj
+24	do	RR--2----------	AuxP
+25	Českého	AAIS2----1A----	Atr
+26	Těšína	NNIS2-----A----	Adv
+27	dopravili	VpMP---XR-AA---	Atr
+28	polští	AAMP1----1A----	Atr
+29	zprostředkovatelé	NNMP1-----A----	Sb
+30	,	Z:-------------	AuxX
+31	z	RR--2----------	AuxP
+32	nichž	P9XP2----------	Atr
+33	dva	ClYP4----------	Obj
+34	Policie	NNFS1-----A----	Sb
+35	ČR	NNFXX-----A---8	Atr
+36	rovněž	Db-------------	Adv
+37	trestně	Dg-------1A----	Adv
+38	stíhá	VB-S---3P-AA---	Atr
+39	.	Z:-------------	AuxK
+
+ln94203-32-p3s2
+1	Policie	NNFS1-----A----	Sb
+2	17	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	prosince	NNIS2-----A----	Adv
+5	uskutečnila	VpQW---XR-AA---	Pred
+6	prohlídku	NNFS4-----A----	Obj
+7	pracoviště	NNNS2-----A----	Atr
+8	MUDr	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Petra	NNMS2-----A----	Atr
+11	Š	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	a	J^-------------	Coord
+14	zajistila	VpQW---XR-AA---	Pred
+15	tkáně	NNFP4-----A----	Obj
+16	k	RR--3----------	AuxP
+17	soudním	AAIP3----1A----	Atr
+18	rozborům	NNIP3-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln94203-32-p3s3
+1	Lékař	NNMS1-----A----	Sb
+2	pak	Db-------------	Adv
+3	strávil	VpYS---XR-AA---	Pred
+4	tři	ClXP4----------	Atr
+5	měsíce	NNIP4-----A----	Obj
+6	ve	RV--6----------	AuxP
+7	vyšetřovací	AAFS6----1A----	Atr
+8	vazbě	NNFS6-----A----	Adv
+9	a	J^-------------	Coord
+10	z	RR--2----------	AuxP
+11	nemocnice	NNFS2-----A----	Atr
+12	dostal	VpYS---XR-AA---	Pred
+13	výpověď	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94203-32-p3s4
+1	Tu	PDFS4----------	Obj
+2	však	J^-------------	AuxY
+3	považuje	VB-S---3P-AA---	Pred
+4	za	RR--4----------	AuxP
+5	neodůvodněnou	AAFS4----1N----	Obj
+6	a	J^-------------	Coord
+7	domáhá	VB-S---3P-AA---	Pred
+8	se	P7-X4----------	AuxT
+9	nápravy	NNFS2-----A----	Obj
+10	u	RR--2----------	AuxP
+11	soudu	NNIS2-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+ln94203-32-p3s5
+1	Podle	RR--2----------	AuxP
+2	vyšetřovatelů	NNMP2-----A----	Adv
+3	však	J^-------------	Coord
+4	způsobil	VpYS---XR-AA---	Pred
+5	nemocnici	NNFS3-----A----	Obj
+6	škodu	NNFS4-----A----	Obj
+7	za	RR--4----------	AuxP
+8	13	C=-------------	Atr
+9	tisíc	ClXS2----------	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94203-32-p4s1
+1	MUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Petr	NNMS1-----A----	Atr
+4	Š	NNMXX-----A---8	Sb
+5	.	Z:-------------	AuxG
+6	se	P7-X4----------	AuxT
+7	vyjádřil	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	nelegální	AAIP4----1N----	Atr
+11	potraty	NNIP4-----A----	Obj
+12	neprováděl	VpYS---XR-NA---	Obj
+13	a	J^-------------	Coord
+14	zákon	NNIS4-----A----	Obj
+15	neporušil	VpYS---XR-NA---	Obj
+16	.	Z:-------------	AuxK
+
+ln94203-32-p4s2
+1	Poskytl	VpYS---XR-AA--1	Pred
+2	pouze	Db-------------	AuxZ
+3	lékařskou	AAFS4----1A----	Atr
+4	pomoc	NNFS4-----A----	Obj
+5	těm	PDXP3----------	Atr
+6	Polkám	NNFP3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	u	RR--2----------	AuxP
+9	nichž	P9XP2----------	Adv
+10	byly	VpTP---XR-AA---	AuxV
+11	vykonány	VsTP---XX-AP---	Atr
+12	interrupce	NNFP1-----A----	Sb
+13	už	Db-------------	AuxZ
+14	v	RR--6----------	AuxP
+15	Polsku	NNNS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94203-32-p4s3
+1	Předseda	NNMS1-----A----	Atr
+2	Lékařské	AAFS2----1A----	Atr
+3	komory	NNFS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Karviné	NNFS6-----A----	Atr
+6	MUDr	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Henryk	NNMS1-----A----	Atr
+9	Fikoczek	NNMS1-----A----	Sb
+10	Lidovým	AAFP3----1A----	Atr
+11	novinám	NNFP3-----A----	Obj
+12	řekl	VpYS---XR-AA---	Pred
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	komora	NNFS1-----A----	Sb
+16	případ	NNIS4-----A----	Obj
+17	od	RR--2----------	AuxP
+18	počátku	NNIS2-----A----	Adv
+19	sleduje	VB-S---3P-AA---	Obj
+20	,	Z:-------------	AuxX
+21	ale	J^-------------	Coord
+22	nezaujme	VB-S---3P-NA---	Obj
+23	do	RR--2----------	AuxP
+24	vynesení	NNNS2-----A----	Adv
+25	rozsudku	NNIS2-----A----	Atr
+26	žádné	PWNS4----------	Atr
+27	stanovisko	NNNS4-----A----	Obj
+28	.	Z:-------------	AuxK
+
+ln94203-32-p4s4
+1	Podle	RR--2----------	AuxP
+2	něho	P5ZS2--3------1	Adv
+3	je	VB-S---3P-AA---	Pred
+4	však	J^-------------	Coord
+5	evidentní	AANS1----1A----	Pnom
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	lékař	NNMS1-----A----	Sb
+9	porušil	VpYS---XR-AA---	Sb
+10	disciplinární	AAIS4----1A----	Atr
+11	řád	NNIS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	proto	J^-------------	AuxY
+15	mu	PHZS3--3-------	Obj
+16	byl	VpYS---XR-AA---	AuxV
+17	v	RR--6----------	AuxP
+18	nemocnici	NNFS6-----A----	Adv
+19	v	RR--6----------	AuxP
+20	Českém	AAIS6----1A----	Atr
+21	Těšíně	NNIS6-----A----	Atr
+22	zrušen	VsYS---XX-AP---	Sb
+23	pracovní	AAIS1----1A----	Atr
+24	poměr	NNIS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln94203-32-p4s5
+1	Podle	RR--2----------	AuxP
+2	Fikoczka	NNMS2-----A----	Adv
+3	nemají	VB-P---3P-NA---	Pred
+4	lékaři	NNMP1-----A----	Sb
+5	shodné	AAIP4----1A----	Atr
+6	názory	NNIP4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	změnu	NNFS4-----A----	Atr
+9	zákona	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	v	RR--6----------	AuxP
+13	ČR	NNFXX-----A---8	Adv
+14	nepovoluje	VB-S---3P-NA---	Atr
+15	interrupce	NNFP4-----A----	Obj
+16	občankám	NNFP3-----A----	Obj
+17	cizího	AAIS2----1A----	Atr
+18	státu	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94203-32-p4s6
+1	Většina	NNFS1-----A----	Sb
+2	gynekologů	NNMP2-----A----	Atr
+3	by	Vc-------------	AuxV
+4	však	J^-------------	Coord
+5	uvítala	VpQW---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	kdyby	J,-------------	AuxC
+8	se	P7-X4----------	AuxR
+9	zákon	NNIS1-----A----	Sb
+10	změnil	VpYS---XR-AA---	Obj
+11	a	J^-------------	Coord
+12	potraty	NNIP1-----A----	Sb
+13	byly	VpTP---XR-AA---	AuxV
+14	povoleny	VsTP---XX-AP---	Obj
+15	,	Z:-------------	AuxX
+16	jako	J,-------------	AuxC
+17	je	VB-S---3P-AA---	Adv
+18	tomu	PDZS3----------	Sb
+19	v	RR--6----------	AuxP
+20	jiných	AAIP6----1A----	Atr
+21	státech	NNIP6-----A----	Adv
+22	.	Z:-------------	AuxK
+

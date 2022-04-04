@@ -1,0 +1,119 @@
+ln95047-111-p1s1
+1	O	RR--6----------	AuxP
+2	radiomrakodrapu	NNIS6-----A---1	Obj
+3	rozhodne	VB-S---3P-AA---	Pred
+4	nabídka	NNFS1-----A----	Sb
+
+ln95047-111-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-111-p2s1B
+1	Budova	NNFS1-----A----	Sb
+2	Rozhlasového	AANS2----1A----	Atr
+3	střediska	NNNS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Praze	NNFS6-----A----	AtrAtr
+6	bude	VB-S---3F-AA---	AuxV
+7	prodána	VsQW---XX-AP---	Pred
+8	formou	NNFS7-----A----	Adv
+9	veřejné	AAFS2----1A----	Atr
+10	soutěže	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95047-111-p2s2
+1	Podle	RR--2----------	AuxP
+2	vyjádření	NNNS2-----A----	Adv
+3	generálního	AAMS2----1A----	Atr
+4	ředitele	NNMS2-----A----	Atr
+5	Českého	AAIS2----1A----	Atr
+6	rozhlasu	NNIS2-----A----	Atr
+7	Vlastimila	NNMS2-----A----	Atr
+8	Ježka	NNMS2-----A----	Atr
+9	bude	VB-S---3F-AA---	AuxV
+10	při	RR--6----------	AuxP
+11	prodeji	NNIS6-----A----	Adv
+12	pankráckého	AAIS2----1A----	Atr
+13	radiomrakodrapu	NNIS2-----A----	Atr
+14	,	Z:-------------	Apos
+15	nejvyšší	AAFS2----3A----	Atr
+16	budovy	NNFS2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	ČR	NNFXX-----A---8	Atr
+19	,	Z:-------------	AuxX
+20	použita	VsQW---XX-AP---	Pred
+21	obálková	AAFS1----1A----	Atr
+22	metoda	NNFS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln95047-111-p2s3
+1	Rozhodne	VB-S---3P-AA---	Pred
+2	tedy	Db-------------	AuxY
+3	pouze	Db-------------	AuxZ
+4	výše	NNFS1-----A----	Sb
+5	nabídky	NNFS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln95047-111-p2s4
+1	Ježek	NNMS1-----A----	Sb
+2	tak	Db-------------	Adv
+3	poopravil	VpYS---XR-AA---	Pred
+4	svůj	P8IS4----------	Atr
+5	lednový	AAIS4----1A----	Atr
+6	výrok	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	podle	RR--2----------	AuxP
+9	kterého	P4ZS2----------	Adv
+10	bude	VB-S---3F-AA---	AuxV
+11	budova	NNFS1-----A----	Sb
+12	prodána	VsQW---XX-AP---	Atr
+13	za	RR--4----------	AuxP
+14	menší	AAFS4----2A----	Adv
+15	než	J,-------------	AuxC
+16	tržní	AAFS4----1A----	ExD
+17	hodnotu	NNFS4-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln95047-111-p2s5
+1	Pouze	Db-------------	AuxZ
+2	vyvolávací	AAFS1----1A----	Atr
+3	cena	NNFS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	jak	J,-------------	Adv
+6	zpravodaji	NNMS3-----A----	Obj
+7	LN	NNFPX-----A---8	Atr
+8	vysvětlil	VpYS---XR-AA---	Pred
+9	Ježek	NNMS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	bude	VB-S---3F-AA---	AuxV
+12	stanovena	VsQW---XX-AP---	Pred
+13	poněkud	Db-------------	Adv
+14	níže	Dg-------2A---1	Adv
+15	,	Z:-------------	AuxX
+16	než	J,-------------	AuxC
+17	je	VB-S---3P-AA---	Adv
+18	odhad	NNIS1-----A----	Sb
+19	tržní	AAFS2----1A----	Atr
+20	ceny	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95047-111-p2s6
+1	Současný	AAIS1----1A----	Atr
+2	počet	NNIS1-----A----	Sb
+3	zájemců	NNMP2-----A----	Atr
+4	o	RR--4----------	AuxP
+5	objekt	NNIS4-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	pohybuje	VB-S---3P-AA---	Pred
+8	kolem	RR--2----------	AuxP
+9	patnácti	Cn-P2----------	Adv
+10	,	Z:-------------	Coord
+11	z	RR--2----------	AuxP
+12	velké	AAFS2----1A----	Atr
+13	většiny	NNFS2-----A----	Adv
+14	jde	VB-S---3P-AA---	Pred
+15	o	RR--4----------	AuxP
+16	zahraniční	AAIP4----1A----	Atr
+17	subjekty	NNIP4-----A----	Obj
+18	.	Z:-------------	AuxK
+

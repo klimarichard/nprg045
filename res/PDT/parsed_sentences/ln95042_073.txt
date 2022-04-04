@@ -1,0 +1,84 @@
+ln95042-073-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln95042-073-p2s1
+1	Výprava	NNFS1-----A----	Sb
+2	nadace	NNFS2-----A----	Atr
+3	při	RR--6----------	AuxP
+4	ČT	NNFXX-----A---8	Atr
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	dopravila	VpQW---XR-AA---	Atr
+8	humanitární	AAFS4----1A----	Atr
+9	pomoc	NNFS4-----A----	Obj
+10	do	RR--2----------	AuxP
+11	Čečenska	NNNS2-----A----	Adv
+12	,	Z:-------------	AuxX
+13	se	P7-X4----------	AuxT
+14	vrátila	VpQW---XR-AA---	Pred
+15	do	RR--2----------	AuxP
+16	Prahy	NNFS2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln95042-073-p2s2
+1	Podařilo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	jí	PPFS3--3-------	Obj
+4	dovézt	Vf--------A----	Sb
+5	do	RR--2----------	AuxP
+6	třech	ClXP2---------1	Atr
+7	nemocnic	NNFP2-----A----	Adv
+8	základní	AAIS4----1A----	Atr
+9	zdravotnický	AAIS4----1A----	Atr
+10	materiál	NNIS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95042-073-p3s1
+1	Cena	NNFS1-----A----	ExD
+2	termální	AAFS2----1A----	Atr
+3	vody	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	Karlových	AUIP6M---------	Atr
+7	Varech	NNIP6-----A----	Adv
+8	více	Dg-------2A----	ExD
+9	než	J,-------------	AuxC
+10	zdvojnásobí	VB-S---3P-AA---	ExD
+11	.	Z:-------------	AuxK
+
+ln95042-073-p3s2
+1	Jeden	ClYS1----------	Atr
+2	krychlový	AAIS1----1A----	Atr
+3	metr	NNIS1-----A----	Sb
+4	bude	VB-S---3F-AA---	AuxV
+5	stát	Vf--------A----	Pred
+6	39	C=-------------	Obj
+7	korun	NNFP2-----A----	Atr
+8	namísto	RR--2----------	AuxP
+9	současných	AAFP2----1A----	Atr
+10	19	C=-------------	Atr
+11	Kč	NNFXX-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln95042-073-p4s1
+1	Národní	AAIS1----1A----	Atr
+2	hřebčín	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Kladrubech	NNIP6-----A----	Atr
+5	a	J^-------------	Coord
+6	jeho	PSXXXZS3-------	Atr
+7	starokladrubský	AAMS1----1A----	Atr
+8	kůň	NNMS1-----A----	Sb
+9	má	VB-S---3P-AA---	Pred
+10	podle	RR--2----------	AuxP
+11	ředitele	NNMS2-----A----	Atr
+12	hřebčína	NNIS2-----A----	Atr
+13	Norberta	NNMS2-----A----	Atr
+14	Záliše	NNMS2-----A----	Adv
+15	získat	Vf--------A----	Obj
+16	statut	NNIS4-----A----	Obj
+17	národní	AAFS2----1A----	Atr
+18	kulturní	AAFS2----1A----	Atr
+19	památky	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+

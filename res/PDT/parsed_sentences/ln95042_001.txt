@@ -1,0 +1,406 @@
+ln95042-001-p1s1
+1	Bankrotujících	AGIP2-----A----	Atr
+2	podniků	NNIP2-----A----	Sb
+3	přibývá	VB-S---3P-AA---	Pred
+
+ln95042-001-p2s1A
+1	Konkursní	AANP1----1A----	Atr
+2	řízení	NNNP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	AuxV
+4	vyhlašována	VsQW---XX-AP---	Pred
+5	většinou	Db-------------	Adv
+6	u	RR--2----------	AuxP
+7	zbytkových	AAIP2----1A----	Atr
+8	podniků	NNIP2-----A----	Adv
+
+ln95042-001-p2s1B
+1	Soudní	AANP1----1A----	Atr
+2	projednávání	NNNP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	vlečou	VB-P---3P-AA---	Pred
+
+ln95042-001-p2s1C
+1	V	RR--6----------	AuxP
+2	loňském	AAIS6----1A----	Atr
+3	roce	NNIS6-----A---1	Adv
+4	bylo	VpNS---XR-AA---	AuxV
+5	v	RR--6----------	AuxP
+6	České	AAFS6----1A----	Atr
+7	republice	NNFS6-----A----	Adv
+8	podáno	VsNS---XX-AP---	Pred
+9	celkem	Db-------------	AuxZ
+10	1816	C=-------------	Sb
+11	návrhů	NNIP2-----A----	Atr
+12	na	RR--4----------	AuxP
+13	konkurs	NNIS4-----A----	Atr
+14	,	Z:-------------	Coord
+15	což	PE--1----------	Sb
+16	bylo	VpNS---XR-AA---	Pred
+17	1.7	C=-------------	Atr
+18	krát	J*-------------	Adv
+19	více	Dg-------2A----	Pnom
+20	než	J,-------------	AuxC
+21	v	RR--6----------	AuxP
+22	roce	NNIS6-----A---1	ExD
+23	předcházejícím	AGIS6-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95042-001-p2s2
+1	Přes	RR--4----------	AuxP
+2	očekávané	AANS4----1A----	Atr
+3	hospodářské	AANS4----1A----	Atr
+4	oživení	NNNS4-----A----	Adv
+5	předpokládá	VB-S---3P-AA---	Pred
+6	ministerstvo	NNNS1-----A----	Sb
+7	hospodářství	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	konkursů	NNIP2-----A----	Sb
+11	bude	VB-S---3F-AA---	AuxV
+12	neustále	Dg-------1A----	Adv
+13	přibývat	Vf--------A----	Obj
+14	a	J^-------------	Coord
+15	bude	VB-S---3F-AA---	AuxV
+16	se	P7-X4----------	AuxT
+17	zvyšovat	Vf--------A----	Obj
+18	i	J^-------------	AuxZ
+19	počet	NNIS1-----A----	Sb
+20	jejich	PSXXXXP3-------	Atr
+21	vyhlášení	NNNP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95042-001-p2s3
+1	Podle	RR--2----------	AuxP
+2	zprávy	NNFS2-----A----	Adv
+3	ministerstva	NNNS2-----A----	Atr
+4	hospodářství	NNNS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	kterou	P4FS4----------	Obj
+7	tento	PDIS4----------	Atr
+8	týden	NNIS4-----A----	Adv
+9	schválila	VpQW---XR-AA---	Atr
+10	porada	NNFS1-----A----	Sb
+11	ekonomických	AAMP2----1A----	Atr
+12	ministrů	NNMP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	bylo	VpNS---XR-AA---	AuxV
+15	v	RR--6----------	AuxP
+16	roce	NNIS6-----A---1	Adv
+17	1994	C=-------------	Atr
+18	vyhlášeno	VsNS---XX-AP---	Pred
+19	celkem	Db-------------	AuxZ
+20	288	C=-------------	Sb
+21	bankrotů	NNIP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95042-001-p2s4
+1	Proti	RR--3----------	AuxP
+2	roku	NNIS3-----A----	Adv
+3	1993	C=-------------	Atr
+4	se	P7-X4----------	AuxT
+5	tento	PDYS1----------	Atr
+6	počet	NNIS1-----A----	Sb
+7	zvýšil	VpYS---XR-AA---	Pred
+8	téměř	Db-------------	AuxZ
+9	pětkrát	Cv-------------	Adv
+10	.	Z:-------------	AuxK
+
+ln95042-001-p2s5
+1	Dopad	NNIS4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	nezaměstnanost	NNFS4-----A----	Atr
+4	to	PDNS1----------	Sb
+5	však	J^-------------	Coord
+6	mělo	VpNS---XR-AA---	Pred
+7	podle	RR--2----------	AuxP
+8	ministerstva	NNNS2-----A----	Adv
+9	hospodářství	NNNS2-----A----	Atr
+10	minimální	AAIS4----1A----	Atv
+11	,	Z:-------------	AuxX
+12	neboť	J^-------------	Coord
+13	bankrotovaly	VpTP---XR-AA---	Pred
+14	většinou	Db-------------	Adv
+15	menší	AAIP1----2A----	Atr
+16	podnikatelské	AAIP1----1A----	Atr
+17	subjekty	NNIP1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95042-001-p3s1
+1	Až	TT-------------	AuxZ
+2	77	C=-------------	Obj
+3	procent	NNNP2-----A----	Atr
+4	bankrotujících	AGIP2-----A----	Atr
+5	podniků	NNIP2-----A----	Atr
+6	loni	Db------------1	Adv
+7	tvořili	VpMP---XR-AA---	Pred
+8	drobní	AAMP1----1A----	Atr
+9	podnikatelé	NNMP1-----A----	Sb
+10	a	J^-------------	Coord
+11	společnosti	NNFP1-----A----	Sb
+12	s	RR--7----------	AuxP
+13	ručením	NNNS7-----A----	Atr
+14	omezeným	AANS7----1A----	Atr
+15	,	Z:-------------	Coord
+16	přičemž	J,-------------	Adv
+17	se	P7-X4----------	AuxT
+18	výrazně	Dg-------1A----	Adv
+19	snížil	VpYS---XR-AA---	Pred
+20	podíl	NNIS1-----A----	Sb
+21	bankrotujících	AGIP2-----A----	Atr
+22	státních	AAIP2----1A----	Atr
+23	podniků	NNIP2-----A----	Atr
+24	a	J^-------------	Coord
+25	akciových	AAFP2----1A----	Atr
+26	společností	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95042-001-p3s2
+1	Jestliže	J,-------------	AuxC
+2	v	RR--6----------	AuxP
+3	roce	NNIS6-----A---1	Adv
+4	1993	C=-------------	Atr
+5	představoval	VpYS---XR-AA---	ExD
+6	tento	PDYS1----------	Atr
+7	podíl	NNIS1-----A----	Sb
+8	32	C=-------------	Obj
+9	procent	NNNP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	tak	Db-------------	ExD
+12	loni	Db------------1	ExD
+13	pouze	Db-------------	AuxZ
+14	16	C=-------------	ExD
+15	procent	NNNP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95042-001-p3s3
+1	Podle	RR--2----------	AuxP
+2	ministerstva	NNNS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	to	PDNS1----------	Sb
+5	důsledek	NNIS1-----A----	Pnom
+6	větší	AAFS2----2A----	Atr
+7	odolnosti	NNFS2-----A----	Atr
+8	velkých	AAIP2----1A----	Atr
+9	podniků	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	jejichž	P1XXXXP3-------	Atr
+12	kapitálová	AAFS1----1A----	Atr
+13	síla	NNFS1-----A----	Sb
+14	jim	PPXP3--3-------	Obj
+15	umožňuje	VB-S---3P-AA---	Atr
+16	odvracet	Vf--------A----	Obj
+17	akutní	AANS4----1A----	Atr
+18	nebezpečí	NNNS4-----A----	Obj
+19	bankrotu	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95042-001-p3s4
+1	Dalším	AAIS7----1A----	Atr
+2	faktorem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	opatrný	AAIS1----1A----	Atr
+5	přístup	NNIS1-----A----	Sb
+6	věřitelů	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	zejména	Db-------------	AuxZ
+9	velkých	AAFP2----1A----	Atr
+10	bank	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95042-001-p4s1
+1	Konkursní	AANP1----1A----	Atr
+2	řízení	NNNP1-----A----	Sb
+3	byla	VpQW---XR-AA---	AuxV
+4	vyhlašována	VsQW---XX-AP---	Pred
+5	většinou	Db-------------	Adv
+6	u	RR--2----------	AuxP
+7	zbytkových	AAIP2----1A----	Atr
+8	podniků	NNIP2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln95042-001-p4s2
+1	Mezi	RR--4----------	AuxP
+2	významnější	AAIP4----2A----	Adv
+3	patří	VB-S---3P-AA---	Pred
+4	například	Db-------------	AuxZ
+5	Zbrojovka	NNFS1-----A----	Sb
+6	Brno	NNNS1-----A----	Atr
+7	,	Z:-------------	AuxX
+8	Tesla	NNFS1-----A----	Sb
+9	Karlín	NNIS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	Mikrotechna	NNFS1-----A----	Sb
+12	Holešovice	NNFP1-----A----	Atr
+13	,	Z:-------------	AuxX
+14	Kniha	NNFS1-----A----	Sb
+15	Brno	NNNS1-----A----	Atr
+16	,	Z:-------------	Coord
+17	Tesla	NNFS1-----A----	Sb
+18	-	Z:-------------	Apos
+19	Elektronické	AAFP1----1A----	Atr
+20	součástky	NNFP1-----A----	Sb
+21	Rožnov	NNIS1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95042-001-p5s1
+1	Počet	NNIS4-----A----	Obj
+2	bankrotů	NNIP2-----A----	Atr
+3	ovlivnilo	VpNS---XR-AA---	Pred
+4	také	Db-------------	AuxZ
+5	zvýšení	NNNS1-----A----	Sb
+6	počtu	NNIS2-----A----	Atr
+7	soudců	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95042-001-p5s2
+1	Přesto	Dg-------1A----	Adv
+2	byl	VpYS---XR-AA---	Pred
+3	podíl	NNIS1-----A----	Sb
+4	prohlášených	AAIP2----1A----	Atr
+5	konkursů	NNIP2-----A----	Atr
+6	k	RR--3----------	AuxP
+7	počtu	NNIS3-----A----	Atr
+8	návrhů	NNIP2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	ně	P5XP4--3-------	Atr
+11	stále	Db-------------	Adv
+12	nízký	AAIS1----1A----	Pnom
+13	a	J^-------------	Coord
+14	dosáhl	VpYS---XR-AA---	Pred
+15	necelých	AANP2----1N----	Atr
+16	16	C=-------------	Atr
+17	procent	NNNP2-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95042-001-p6s1
+1	Z	RR--2----------	AuxP
+2	celkem	Db-------------	AuxZ
+3	3264	C=-------------	Atr
+4	podaných	AAIP2----1A----	Atr
+5	návrhů	NNIP2-----A----	Atr
+6	na	RR--4----------	AuxP
+7	konkurs	NNIS4-----A----	Atr
+8	zůstalo	VpNS---XR-AA---	Pred
+9	u	RR--2----------	AuxP
+10	soudů	NNIP2-----A----	Adv
+11	ke	RV--3----------	AuxP
+12	konci	NNIS3-----A----	Adv
+13	loňského	AAIS2----1A----	Atr
+14	roku	NNIS2-----A---1	Atr
+15	nevyřízeno	VsNS---XX-NP---	Obj
+16	1859	C=-------------	Sb
+17	návrhů	NNIP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	tedy	Db-------------	Apos
+20	57	C=-------------	Sb
+21	procent	NNNP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95042-001-p6s2
+1	Proto	J^-------------	Coord
+2	bude	VB-S---3F-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	ministerstva	NNNS2-----A----	Adv
+5	hospodářství	NNNS2-----A----	Atr
+6	potřebné	AANS1----1A----	Pnom
+7	dále	Db------------1	Adv
+8	posílit	Vf--------A----	Sb
+9	kapacity	NNFP4-----A----	Obj
+10	obchodních	AAIP2----1A----	Atr
+11	soudů	NNIP2-----A----	Atr
+12	a	J^-------------	Coord
+13	novelizovat	Vf--------A----	Sb
+14	zákon	NNIS4-----A----	Obj
+15	328	C=-------------	Atr
+16	/	Z:-------------	AuxG
+17	91	C=-------------	Atr
+18	Sb	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	o	RR--6----------	AuxP
+21	konkursu	NNIS6-----A---1	Atr
+22	a	J^-------------	Coord
+23	vyrovnání	NNNS6-----A----	Atr
+24	s	RR--7----------	AuxP
+25	cílem	NNIS7-----A----	Adv
+26	urychlit	Vf--------A----	Atr
+27	projednávání	NNNS4-----A----	Obj
+28	konkursní	AAFS2----1A----	Atr
+29	agendy	NNFS2-----A----	Atr
+30	na	RR--6----------	AuxP
+31	soudech	NNIP6-----A----	AtrAdv
+32	a	J^-------------	Coord
+33	odstranit	Vf--------A----	Atr
+34	hlavní	AAIP4----1A----	Atr
+35	nedostatky	NNIP4-----A----	Obj
+36	zákona	NNIS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln95042-001-p7s1
+1	Návrhů	NNIP2-----A----	Atr
+2	na	RR--4----------	AuxP
+3	vyrovnání	NNNS4-----A----	Atr
+4	bylo	VpNS---XR-AA---	AuxV
+5	loni	Db------------1	Adv
+6	předloženo	VsNS---XX-AP---	Pred
+7	šest	Cn-S1----------	Sb
+8	.	Z:-------------	AuxK
+
+ln95042-001-p7s2
+1	Ochranná	AAFS1----1A----	Atr
+2	lhůta	NNFS1-----A----	Sb
+3	byla	VpQW---XR-AA---	AuxV
+4	povolena	VsQW---XX-AP---	Pred
+5	22	C=-------------	Atr
+6	organizacím	NNFP3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	mezi	RR--4----------	AuxP
+9	které	P4FP4----------	Adv
+10	patřila	VpQW---XR-AA---	Atr
+11	mimo	RR--4----------	AuxP
+12	jiné	AANS4----1A----	Adv
+13	i	J^-------------	AuxZ
+14	Kreditní	AAFS1----1A----	Atr
+15	a	J^-------------	Coord
+16	průmyslová	AAFS1----1A----	Atr
+17	banka	NNFS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95042-001-p8s1
+1	Z	RR--2----------	AuxP
+2	dosud	Db-------------	Adv
+3	vyhlášených	AAIP2----1A----	Atr
+4	konkursů	NNIP2-----A----	Adv
+5	nelze	VB-S---3P-NA---	Pred
+6	zatím	Db-------------	Adv
+7	vyvodit	Vf--------A----	Sb
+8	jejich	PSXXXXP3-------	Atr
+9	vliv	NNIS4-----A----	Obj
+10	na	RR--4----------	AuxP
+11	zaměstnanost	NNFS4-----A----	Atr
+12	v	RR--6----------	AuxP
+13	regionech	NNIP6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95042-001-p8s2
+1	Největší	AAIS1----3A----	Atr
+2	počet	NNIS1-----A----	Sb
+3	bankrotů	NNIP2-----A----	Atr
+4	byl	VpYS---XR-AA---	AuxV
+5	podle	RR--2----------	AuxP
+6	údajů	NNIP2-----A----	Adv
+7	ministerstva	NNNS2-----A----	Atr
+8	vyhlášen	VsYS---XX-AP---	Pred
+9	v	RR--6----------	AuxP
+10	největších	AAFP6----3A----	Atr
+11	sídelních	AAFP6----1A----	Atr
+12	aglomeracích	NNFP6-----A----	Adv
+13	,	Z:-------------	Apos
+14	především	Db-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	Praze	NNFS6-----A----	Adv
+17	,	Z:-------------	AuxX
+18	Brně	NNNS6-----A----	Adv
+19	a	J^-------------	Coord
+20	Ostravě	NNFS6-----A----	Adv
+21	.	Z:-------------	AuxK
+

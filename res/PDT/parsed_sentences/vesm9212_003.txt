@@ -1,0 +1,253 @@
+vesm9212-003-p1s1
+1	Elektroencefalogram	NNIS1-----A----	ExD
+2	(	Z:-------------	Apos
+3	EEG	NNNXX-----A---8	ExD
+4	)	Z:-------------	AuxG
+
+vesm9212-003-p2s1
+1	Experimentální	AAIP4----1A----	Atr
+2	poznatky	NNIP4-----A----	Obj
+3	o	RR--6----------	AuxP
+4	dynamice	NNFS6-----A----	Atr
+5	procesů	NNIP2-----A----	Atr
+6	probíhajících	AGIP2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	mozku	NNIS6-----A----	Adv
+9	lze	VB-S---3P-AA---	Pred
+10	získat	Vf--------A----	Sb
+11	různým	AAIS7----1A----	Atr
+12	způsobem	NNIS7-----A----	Adv
+13	.	Z:-------------	AuxK
+
+vesm9212-003-p2s2
+1	Poměrně	Dg-------1A----	Adv
+2	nejdostupnější	AANS1----3A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	měření	NNNS1-----A----	Sb
+5	časového	AAIS2----1A----	Atr
+6	průběhu	NNIS2-----A----	Atr
+7	elektrických	AAIP2----1A----	Atr
+8	potenciálů	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4IP1----------	Sb
+11	doprovázejí	VB-P---3P-AA---	Atr
+12	aktivitu	NNFS4-----A----	Obj
+13	každé	AAFS2----1A----	Atr
+14	nervové	AAFS2----1A----	Atr
+15	buňky	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+vesm9212-003-p2s3
+1	Potenciálová	AANP1----1A----	Atr
+2	pole	NNNP1-----A----	Sb
+3	vytvářená	AANP1----1A----	Atr
+4	jednotlivými	AAFP7----1A----	Atr
+5	buňkami	NNFP7-----A----	Obj
+6	se	P7-X4----------	AuxR
+7	sčítají	VB-P---3P-AA---	Pred
+8	do	RR--2----------	AuxP
+9	superponovaného	AANS2----1A----	Atr
+10	pole	NNNS2-----A----	Adv
+11	,	Z:-------------	AuxX
+12	které	P4NS1----------	Sb
+13	je	VB-S---3P-AA---	Atr
+14	natolik	Db-------------	Adv
+15	silné	AANS1----1A----	Pnom
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	je	VB-S---3P-AA---	Adv
+19	možno	ACNS------A----	Pnom
+20	je	PPNS4--3-------	Obj
+21	registrovat	Vf--------A----	Sb
+22	i	J^-------------	AuxZ
+23	na	RR--6----------	AuxP
+24	povrchu	NNIS6-----A----	Adv
+25	hlavy	NNFS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+vesm9212-003-p2s4
+1	Změny	NNFP1-----A----	Sb
+2	tohoto	PDZS2----------	Atr
+3	pole	NNNS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	čase	NNIS6-----A----	Atr
+6	tedy	Db-------------	AuxY
+7	nesou	VB-P---3P-AA---	Pred
+8	přímou	AAFS4----1A----	Atr
+9	informaci	NNFS4-----A----	Obj
+10	o	RR--6----------	AuxP
+11	dynamice	NNFS6-----A----	Atr
+12	mozkových	AAIP2----1A----	Atr
+13	procesů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+vesm9212-003-p2s5
+1	Záznamu	NNIS3-----A----	Obj
+2	elektrických	AAIP2----1A----	Atr
+3	potenciálů	NNIP2-----A----	Atr
+4	doprovázejících	AGIP2-----A----	Atr
+5	mozkovou	AAFS4----1A----	Atr
+6	aktivitu	NNFS4-----A----	Obj
+7	se	P7-X4----------	AuxR
+8	říká	VB-S---3P-AA---	Pred
+9	elektroencefalogram	NNIS1-----A----	Adv
+10	-	Z:-------------	Apos
+11	EEG	NNNXX-----A---8	Adv
+12	.	Z:-------------	AuxK
+
+vesm9212-003-p2s6
+1	Registrace	NNFS1-----A----	Sb
+2	EEG	NNNXX-----A---8	Atr
+3	se	P7-X4----------	AuxR
+4	provádí	VB-S---3P-AA---	Pred
+5	plošnými	AAFP7----1A----	Atr
+6	elektrodami	NNFP7-----A----	Adv
+7	přilepenými	AAFP7----1A----	Atr
+8	na	RR--6----------	AuxP
+9	povrchu	NNIS6-----A----	Adv
+10	skalpu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9212-003-p3s1
+1	Amplituda	NNFS1-----A----	Sb
+2	registrovaného	AAIS2----1A----	Atr
+3	EEG	NNNXX-----A---8	Atr
+4	je	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	rozmezí	NNNS6-----A----	Adv
+7	3	C=-------------	Atr
+8	-	Z:-------------	Coord
+9	100	C=-------------	Atr
+10	uV	NNIXX-----A---8	Atr
+11	,	Z:-------------	AuxX
+12	jde	VB-S---3P-AA---	Pred
+13	tedy	Db-------------	Coord
+14	o	RR--4----------	AuxP
+15	signál	NNIS4-----A----	Obj
+16	velmi	Db-------------	Adv
+17	slabý	AAIS4----1A----	Atr
+18	;	Z:-------------	AuxK
+
+vesm9212-003-p3s2
+1	frekvenční	AAIS1----1A----	Atr
+2	rozsah	NNIS1-----A----	Sb
+3	signálu	NNIS2-----A----	Atr
+4	nesoucí	AGIS1-----A----	Atr
+5	fyziologicky	Dg-------1A----	Adv
+6	interpretovatelnou	AAFS4----1A----	Atr
+7	informaci	NNFS4-----A----	Obj
+8	je	VB-S---3P-AA---	Pred
+9	0.5	C=-------------	Pnom
+10	-	Z:-------------	Coord
+11	50	C=-------------	Pnom
+12	Hz	NNIXX-----A---8	Atr
+13	.	Z:-------------	AuxK
+
+vesm9212-003-p4s1
+1	Při	RR--6----------	AuxP
+2	vyhodnocování	NNNS6-----A----	Adv
+3	EEG	NNNXX-----A---8	Atr
+4	záznamů	NNIP2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	průběh	NNIS1-----A----	Sb
+7	registrované	AAFS2----1A----	Atr
+8	křivky	NNFS2-----A----	Atr
+9	interpretuje	VB-S---3P-AA---	Pred
+10	vždy	Db-------------	Adv
+11	s	RR--7----------	AuxP
+12	ohledem	NNIS7-----A----	AuxP
+13	na	RR--4----------	AuxP
+14	stav	NNIS4-----A----	Adv
+15	,	Z:-------------	AuxX
+16	ve	RV--6----------	AuxP
+17	kterém	P4ZS6----------	Adv
+18	byl	VpYS---XR-AA---	AuxV
+19	zaregistrován	VsYS---XX-AP---	Atr
+20	.	Z:-------------	AuxK
+
+vesm9212-003-p4s2
+1	EEG	NNNXX-----A---8	Sb
+2	je	VB-S---3P-AA---	Pred
+3	signál	NNIS1-----A----	Pnom
+4	zatížený	AAIS1----1A----	Atr
+5	poměrně	Dg-------1A----	Adv
+6	značnou	AAFS7----1A----	Atr
+7	proměnlivostí	NNFS7-----A----	Adv
+8	jak	Db-------------	AuxY
+9	mezi	RR--7----------	AuxP
+10	různými	AAFP7----1A----	Atr
+11	osobami	NNFP7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	tak	Db-------------	Coord
+14	i	J^-------------	AuxZ
+15	u	RR--2----------	AuxP
+16	téže	PDFS2----------	Atr
+17	osoby	NNFS2-----A----	Atr
+18	,	Z:-------------	Coord
+19	což	PE--1----------	Sb
+20	značně	Dg-------1A----	Adv
+21	komplikuje	VB-S---3P-AA---	Pred
+22	stanovení	NNNS4-----A----	Obj
+23	fyziologické	AAFS2----1A----	Atr
+24	normy	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+vesm9212-003-p4s3
+1	Pro	RR--4----------	AuxP
+2	diagnostické	AAIP4----1A----	Atr
+3	účely	NNIP4-----A----	Adv
+4	proto	J^-------------	Coord
+5	kromě	RR--2----------	AuxP
+6	absolutního	AANS2----1A----	Atr
+7	vyhodnocení	NNNS2-----A----	Adv
+8	nálezu	NNIS2-----A----	Atr
+9	má	VB-S---3P-AA---	Pred
+10	velký	AAIS4----1A----	Atr
+11	význam	NNIS4-----A----	Obj
+12	relativní	AAIS1----1A----	Atr
+13	nález	NNIS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	tj	J^------------8	Apos
+16	.	Z:-------------	AuxG
+17	srovnání	NNNS1-----A----	Sb
+18	daného	AAIS2----1A----	Atr
+19	nálezu	NNIS2-----A----	Atr
+20	s	RR--7----------	AuxP
+21	nálezem	NNIS7-----A----	Atr
+22	standardním	AAIS7----1A----	Atr
+23	,	Z:-------------	AuxX
+24	získaným	AAIS7----1A----	Atr
+25	u	RR--2----------	AuxP
+26	téhož	PDZS2----------	Atr
+27	probanda	NNMS2-----A----	Adv
+28	v	RR--6----------	AuxP
+29	jiné	AAFS6----1A----	Atr
+30	době	NNFS6-----A----	Adv
+31	,	Z:-------------	Apos
+32	před	RR--7----------	AuxP
+33	zásahem	NNIS7-----A----	Adv
+34	či	J^-------------	Coord
+35	v	RR--6----------	AuxP
+36	jiném	AANS6----1A----	Atr
+37	stadiu	NNNS6-----A----	Adv
+38	onemocnění	NNNS2-----A----	Atr
+39	.	Z:-------------	AuxK
+
+vesm9212-003-p4s4
+1	Ve	RV--6----------	AuxP
+2	zbytku	NNIS6-----A----	Adv
+3	tohoto	PDZS2----------	Atr
+4	sdělení	NNNS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	soustředíme	VB-P---1P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	otázky	NNFP4-----A----	Obj
+9	studia	NNNS2-----A----	Atr
+10	složitosti	NNFS2-----A----	Atr
+11	mozkových	AAIP2----1A----	Atr
+12	procesů	NNIP2-----A----	Atr
+13	pomocí	RR--2----------	AuxP
+14	analýzy	NNFS2-----A----	Atr
+15	EEG	NNNXX-----A---8	Atr
+16	.	Z:-------------	AuxK
+

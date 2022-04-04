@@ -1,0 +1,351 @@
+vesm9212-051-p1s1
+1	Společnost	NNFS1-----A----	ExD
+2	Xerces	NNFSX-----A----	Atr
+
+vesm9212-051-p2s1
+1	Lidé	NNMP1-----A---1	Sb
+2	zaměření	AAMP1----1A----	Atr
+3	svým	P8ZS7----------	Atr
+4	založením	NNNS7-----A----	Adv
+5	spíše	Dg-------2A---1	Adv
+6	na	RR--4----------	AuxP
+7	dění	NNNS4-----A----	Obj
+8	odehrávající	AGNS4-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	ve	RV--6----------	AuxP
+11	vesmíru	NNIS6-----A----	Adv
+12	hledí	VB-P---3P-AA---	Pred
+13	patrně	Dg-------1A----	AuxY
+14	jen	TT-------------	AuxZ
+15	s	RR--7----------	AuxP
+16	úsměvem	NNIS7-----A----	Adv
+17	na	RR--4----------	AuxP
+18	"	Z:-------------	AuxG
+19	marné	AAIP4----1A----	Atr
+20	"	Z:-------------	AuxG
+21	pokusy	NNIP4-----A----	Obj
+22	udržet	Vf--------A----	Atr
+23	nějaký	PZIS4----------	Atr
+24	neměnný	AAIS4----1A----	Atr
+25	stav	NNIS4-----A----	Obj
+26	v	RR--6----------	AuxP
+27	dění	NNNS6-----A----	AtrAdv
+28	pozemském	AANS6----1A----	Atr
+29	.	Z:-------------	AuxK
+
+vesm9212-051-p2s2
+1	Ale	J^-------------	Coord
+2	bytí	NNNS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	odehrává	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	mnoha	Ca--6----------	Atr
+7	rovinách	NNFP6-----A----	Adv
+8	a	J^-------------	Coord
+9	jeho	PSXXXZS3-------	Atr
+10	projevy	NNIP1-----A----	Sb
+11	v	RR--6----------	AuxP
+12	kterékoliv	PZFS6----------	Atr
+13	z	RR--2----------	AuxP
+14	nich	P5XP2--3-------	Atr
+15	mají	VB-P---3P-AA---	Pred
+16	svůj	P8IS4----------	Atr
+17	význam	NNIS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+vesm9212-051-p3s1
+1	Společnosti	NNFP1-----A----	Sb
+2	chránící	AGFP1-----A----	Atr
+3	živočichy	NNMP4-----A----	Obj
+4	či	J^-------------	Coord
+5	rostliny	NNFP4-----A----	Obj
+6	nejsou	VB-P---3P-NA---	Pred
+7	ve	RV--6----------	AuxP
+8	světě	NNIS6-----A----	Adv
+9	tak	Db-------------	Adv
+10	vzácné	AAFP1----1A----	Pnom
+11	.	Z:-------------	AuxK
+
+vesm9212-051-p3s2
+1	Pokud	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	týče	VB-S---3P-AA--1	Adv
+4	živočichů	NNMP2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	starají	VB-P---3P-AA---	Pred
+7	se	P7-X4----------	AuxT
+8	však	J^-------------	AuxY
+9	většinou	Db-------------	Adv
+10	o	RR--4----------	AuxP
+11	obratlovce	NNMP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	případně	Dg-------1A----	Coord
+14	hmyz	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+vesm9212-051-p3s3
+1	Již	Db-------------	AuxZ
+2	od	RR--2----------	AuxP
+3	r	NNIXX-----A---8	Adv
+4	.	Z:-------------	AuxG
+5	1972	C=-------------	Atr
+6	existuje	VB-S---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	Americe	NNFS6-----A----	Adv
+9	dosud	Db-------------	Adv
+10	málo	Dg-------1A----	Adv
+11	známá	AAFS1----1A----	Atr
+12	společnost	NNFS1-----A----	Sb
+13	označující	AGFS1-----A----	Atr
+14	se	P7-X4----------	Obj
+15	jako	J,-------------	AuxY
+16	"	Z:-------------	AuxG
+17	The	AAXXX----1A----	Atr
+18	Xerces	NNFSX-----A----	Atr
+19	Society	NNFXX-----A----	Obj
+20	"	Z:-------------	AuxG
+21	(	Z:-------------	AuxG
+22	podle	RR--2----------	AuxP
+23	již	Db-------------	AuxZ
+24	před	RR--7----------	AuxP
+25	časem	NNIS7-----A----	Adv
+26	vyhynulého	AAMS2----1A----	Atr
+27	modráska	NNMS2-----A----	Adv
+28	Glaucopsyche	NNFS1-----A----	Atr
+29	xerces	AAFS1----1A----	Atr
+30	,	Z:-------------	AuxX
+31	žijícího	AGMS2-----A----	Atr
+32	v	RR--6----------	AuxP
+33	Kalifornii	NNFS6-----A----	Adv
+34	)	Z:-------------	AuxG
+35	,	Z:-------------	AuxX
+36	která	P4FS1----------	Sb
+37	si	P7-X3----------	AuxR
+38	dala	VpQW---XR-AA---	Atr
+39	za	RR--4----------	AuxP
+40	úkol	NNIS4-----A----	Adv
+41	chránit	Vf--------A----	Obj
+42	všechny	PLYP4----------	Atr
+43	bezobratlé	AAMP4----1A----	Obj
+44	.	Z:-------------	AuxK
+
+vesm9212-051-p3s4
+1	Čili	J^-------------	Coord
+2	nejen	TT-------------	AuxZ
+3	hmyz	NNIS4-----A----	ExD
+4	,	Z:-------------	AuxX
+5	ale	J^-------------	Coord
+6	všechny	PLYP4----------	Atr
+7	členovce	NNMP4-----A----	ExD
+8	vůbec	Db-------------	AuxZ
+9	(	Z:-------------	AuxG
+10	tedy	Db-------------	Apos
+11	i	J^-------------	AuxZ
+12	pavouky	NNMP4-----A----	ExD
+13	,	Z:-------------	AuxX
+14	štíry	NNMP4-----A----	ExD
+15	,	Z:-------------	ExD
+16	kraby	NNMP4-----A----	ExD
+17	,	Z:-------------	AuxX
+18	stonožky	NNFP4-----A----	ExD
+19	atd	Db------------8	Coord
+20	.	Z:-------------	AuxG
+21	)	Z:-------------	AuxG
+22	a	J^-------------	Coord
+23	dále	Db------------1	ExD
+24	i	J^-------------	AuxZ
+25	červy	NNMP4-----A----	ExD
+26	,	Z:-------------	AuxX
+27	měkkýše	NNMP4-----A----	ExD
+28	,	Z:-------------	AuxX
+29	vodní	AAFP4----1A----	Atr
+30	houby	NNFP4-----A----	ExD
+31	a	J^-------------	Coord
+32	prvoky	NNMP4-----A----	ExD
+33	.	Z:-------------	AuxK
+
+vesm9212-051-p3s5
+1	Prostě	Dg-------1A----	ExD
+2	bezobratlé	AAMP4----1A----	ExD
+3	v	RR--6----------	AuxP
+4	celé	AAFS6----1A----	Atr
+5	jejich	PSXXXXP3-------	Atr
+6	šíři	NNFS6-----A----	Atr
+7	!	Z:-------------	AuxK
+
+vesm9212-051-p3s6
+1	Ještě	Db-------------	AuxZ
+2	r	NNIXX-----A---8	Adv
+3	.	Z:-------------	AuxG
+4	1986	C=-------------	Atr
+5	měla	VpQW---XR-AA---	Pred
+6	jen	TT-------------	AuxZ
+7	několik	Ca--4----------	Obj
+8	stovek	NNFP2-----A----	Atr
+9	členů	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+vesm9212-051-p3s7
+1	Nyní	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	její	PSZS1FS3-------	Atr
+4	členstvo	NNNS1-----A----	Sb
+5	počítá	VB-S---3P-AA---	Pred
+6	již	Db-------------	Adv
+7	na	RR--4----------	AuxP
+8	tisíce	NNIP4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	získala	VpQW---XR-AA---	Pred
+11	výrazné	AAFP4----1A----	Atr
+12	dotace	NNFP4-----A----	Obj
+13	a	J^-------------	Coord
+14	je	VB-S---3P-AA---	Pred
+15	na	RR--6----------	AuxP
+16	rychlém	AAIS6----1A----	Atr
+17	vzestupu	NNIS6-----A----	Adv
+18	(	Z:-------------	ExD
+19	Science	NNFSX-----A----	ExD
+20	255	C=-------------	Atr
+21	,	Z:-------------	AuxX
+22	27	C=-------------	Atr
+23	,	Z:-------------	AuxX
+24	1992	C=-------------	Atr
+25	)	Z:-------------	ExD
+26	.	Z:-------------	AuxK
+
+vesm9212-051-p4s1
+1	Předsedou	NNMS7-----A----	Pnom
+2	vědeckého	AAIS2----1A----	Atr
+3	poradního	AAIS2----1A----	Atr
+4	sboru	NNIS2-----A----	Atr
+5	společnosti	NNFS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	známý	AAMS1----1A----	Atr
+8	americký	AAMS1----1A----	Atr
+9	hmyzí	AAMS1----1A----	Atr
+10	sociobiolog	NNMS1-----A----	Atr
+11	E	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	O	NNMXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Wilson	NNMS1-----A----	Sb
+16	z	RR--2----------	AuxP
+17	Harvardovy	AUFS2M---------	Atr
+18	univerzity	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+vesm9212-051-p4s2
+1	Jako	J,-------------	AuxY
+2	hlavní	AAIS4----1A----	Atr
+3	úkol	NNIS4-----A----	Atv
+4	si	P7-X3----------	Obj
+5	společnost	NNFS1-----A----	Sb
+6	dává	VB-S---3P-AA---	Pred
+7	záchranu	NNFS4-----A----	Obj
+8	některých	PZXP2----------	Atr
+9	oblastí	NNFP2-----A----	Atr
+10	jako	J,-------------	AuxY
+11	celku	NNIS2-----A----	Atv
+12	,	Z:-------------	AuxX
+13	a	J^-------------	AuxY
+14	to	PDNS4----------	AuxY
+15	především	Db-------------	AuxZ
+16	výchovou	NNFS7-----A----	Atr
+17	místního	AANS2----1A----	Atr
+18	obyvatelstva	NNNS2-----A----	Atr
+19	i	J^-------------	Coord
+20	odborníků	NNMP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+vesm9212-051-p4s3
+1	Týká	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	to	PDNS1----------	Sb
+4	např	Db------------8	AuxZ
+5	.	Z:-------------	AuxG
+6	Madagaskaru	NNIS2-----A----	Obj
+7	,	Z:-------------	AuxX
+8	který	P4IS4----------	Obj
+9	společnost	NNFS1-----A----	Sb
+10	považuje	VB-S---3P-AA---	Atr
+11	za	RR--4----------	AuxP
+12	jakousi	PZFS4----------	Atr
+13	"	Z:-------------	AuxG
+14	archu	NNFS4-----A----	Obj
+15	Noemovu	AUFS4M---------	Atr
+16	"	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+vesm9212-051-p4s4
+1	Symbol	NNIS1-----A----	Sb
+2	společnosti	NNFS2-----A----	Atr
+3	ve	RV--6----------	AuxP
+4	znaku	NNIS6-----A----	Atr
+5	však	J^-------------	AuxY
+6	se	P7-X4----------	Obj
+7	nezapře	VB-S---3P-NA---	Pred
+8	,	Z:-------------	AuxX
+9	a	J^-------------	Coord
+10	tak	Db-------------	AuxY
+11	několik	Ca--1----------	Sb
+12	projektů	NNIP2-----A----	Atr
+13	je	VB-S---3P-AA---	Pred
+14	zaměřeno	VsNS---XX-AP---	Pnom
+15	jen	TT-------------	AuxZ
+16	na	RR--4----------	AuxP
+17	motýly	NNMP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+vesm9212-051-p4s5
+1	Mezi	RR--7----------	AuxP
+2	nimi	P5XP7--3-------	ExD
+3	také	Db-------------	AuxZ
+4	na	RR--4----------	AuxP
+5	ochranu	NNFS4-----A----	ExD
+6	zimovišť	NNNP2-----A----	Atr
+7	danausů	NNMP2-----A----	Atr
+8	(	Z:-------------	AuxG
+9	viz	Vi-S---2--A---1	Pred
+10	též	Db-------------	Adv
+11	Vesmír	NNIS4-----A----	Obj
+12	66	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	707	C=-------------	Atr
+15	,	Z:-------------	AuxX
+16	1987	C=-------------	Atr
+17	)	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+vesm9212-051-p4s6
+1	Ty	PDMP4----------	Obj
+2	však	J^-------------	AuxY
+3	v	RR--6----------	AuxP
+4	loňském	AAIS6----1A----	Atr
+5	roce	NNIS6-----A---1	Adv
+6	nezasáhla	VpQW---XR-NA---	Pred
+7	činnost	NNFS1-----A----	Sb
+8	lidská	AAFS1----1A----	Atr
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	neobvykle	Dg-------1N----	Adv
+12	špatné	AANS1----1A----	Atr
+13	počasí	NNNS1-----A----	Sb
+14	(	Z:-------------	AuxG
+15	viz	Vi-S---2--A---1	Pred
+16	aktualitu	NNFS4-----A----	Obj
+17	na	RR--6----------	AuxP
+18	str	NNFXX-----A---8	AtrAdv
+19	.	Z:-------------	AuxG
+20	707	C=-------------	Atr
+21	)	Z:-------------	AuxG
+22	.	Z:-------------	AuxK
+
+vesm9212-051-p4s7
+1	Josef	NNMS1-----A----	Atr
+2	Chalupský	NNMS1-----A----	ExD
+
+vesm9212-051-p5s1
+1	53	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	34	C=-------------	ExD
+

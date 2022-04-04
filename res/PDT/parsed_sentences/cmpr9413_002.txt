@@ -1,0 +1,394 @@
+cmpr9413-002-p2s1
+1	Profit	NNIS1-----A----	ExD
+2	anketa	NNFS1-----A----	Atr
+3	:	Z:-------------	ExD
+4	(	Z:-------------	ExD
+5	štoček	NNIS1-----A----	ExD
+6	)	Z:-------------	ExD
+
+cmpr9413-002-p3s1
+1	Zákony	NNIP4-----A----	Obj
+2	udělejte	Vi-P---2--A----	Pred
+3	pro	RR--4----------	AuxP
+4	lidi	NNMP4-----A----	Adv
+
+cmpr9413-002-p4s1
+1	Náklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	skutečnou	AAFS4----1A----	Atr
+4	spotřebu	NNFS4-----A----	Atr
+5	pohonných	AAFP2----1A----	Atr
+6	hmot	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	rozšíření	NNNS1-----A----	Sb
+9	silniční	AAFS2----1A----	Atr
+10	daně	NNFS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	všechna	PLNP4----------	Atr
+13	vozidla	NNNP4-----A----	Atr
+14	,	Z:-------------	Coord
+15	zjednodušení	NNNS1-----A----	Sb
+16	administrativy	NNFS2-----A----	Atr
+17	sloučením	NNNS7-----A----	Atr
+18	sociálního	AANS2----1A----	Atr
+19	a	J^-------------	Coord
+20	zdravotního	AANS2----1A----	Atr
+21	pojištění	NNNS2-----A----	Atr
+22	-	Z:-------------	Apos
+23	to	PDNS1----------	Sb
+24	jsou	VB-P---3P-AA---	Pred
+25	otázky	NNFP1-----A----	Pnom
+26	,	Z:-------------	AuxX
+27	o	RR--6----------	AuxP
+28	nichž	P9XP6----------	Obj
+29	podnikatelé	NNMP1-----A----	Sb
+30	nejčastěji	Dg-------3A----	Adv
+31	hovoří	VB-P---3P-AA---	Atr
+32	.	Z:-------------	AuxK
+
+cmpr9413-002-p4s2
+1	V	RR--6----------	AuxP
+2	návrzích	NNIP6-----A----	Adv
+3	na	RR--4----------	AuxP
+4	případné	AAFP4----1A----	Atr
+5	změny	NNFP4-----A----	Atr
+6	vycházejí	VB-P---3P-AA---	Pred
+7	ze	RV--2----------	AuxP
+8	svých	P8XP2----------	Atr
+9	většinou	NNFS7-----A----	Adv
+10	několikaletých	AAFP2----1A----	Atr
+11	podnikatelských	AAFP2----1A----	Atr
+12	zkušeností	NNFP2-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9413-002-p4s3
+1	Proto	J^-------------	Coord
+2	jsme	VB-P---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	některých	PZXP2----------	Atr
+5	majitelů	NNMP2-----A----	Obj
+6	firem	NNFP2-----A----	Atr
+7	zeptali	VpMP---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	co	PQ--1----------	Sb
+10	je	PPXP4--3-------	Obj
+11	nejvíce	Dg-------3A----	Adv
+12	trápí	VB-S---3P-AA---	Obj
+13	a	J^-------------	Coord
+14	co	PQ--4----------	Obj
+15	chtějí	VB-P---3P-AA---	Obj
+16	změnit	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9413-002-p5s1
+1	Leoš	NNMS1-----A----	Atr
+2	Hybš	NNMS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	Stavomont	NNIS1-----A----	Atr
+5	Teplice	NNFP1-----A----	Atr
+6	:	Z:-------------	AuxK
+
+cmpr9413-002-p6s1
+1	Zajímá	VB-S---3P-AA---	Pred
+2	mne	PP-S4--1-------	Obj
+3	otázka	NNFS1-----A----	Sb
+4	možnosti	NNFS2-----A----	Atr
+5	zahrnout	Vf--------A----	Atr
+6	do	RR--2----------	AuxP
+7	nákladů	NNIP2-----A----	Obj
+8	skutečnou	AAFS4----1A----	Atr
+9	spotřebu	NNFS4-----A----	Obj
+10	pohonných	AAFP2----1A----	Atr
+11	hmot	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9413-002-p6s2
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	to	PDNS4----------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	současné	AAFS6----1A----	Atr
+8	době	NNFS6-----A----	Adv
+9	platí	VB-S---3P-AA---	Atr
+10	předpis	NNIS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	zahrnuji	VB-S---1P-AA--1	Atr
+14	spotřebu	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	je	VB-S---3P-AA---	AuxV
+18	vyznačena	VsQW---XX-AP---	Atr
+19	v	RR--6----------	AuxP
+20	technickém	AAIS6----1A----	Atr
+21	průkaze	NNIS6-----A----	Adv
+22	výrobcem	NNMS7-----A----	Obj
+23	vozidla	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9413-002-p6s3
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	však	J^-------------	Coord
+4	spotřeba	NNFS1-----A----	Pnom
+5	za	RR--2----------	AuxP
+6	ideálního	AAIS2----1A----	Atr
+7	stavu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	například	Db-------------	AuxZ
+10	při	RR--6----------	AuxP
+11	90	C=-------------	Adv
+12	kilometrové	AAFS6----1A----	Atr
+13	rychlosti	NNFS6-----A----	AtrAtr
+14	vozu	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9413-002-p6s4
+1	Jenže	J^-------------	Coord
+2	nebere	VB-S---3P-NA---	Pred
+3	tak	Db-------------	Adv
+4	v	RR--4----------	AuxP
+5	úvahu	NNFS4-----A----	Obj
+6	jízdní	AAFP4----1A----	Atr
+7	podmínky	NNFP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	jako	J,-------------	AuxY
+10	jsou	VB-P---3P-AA---	Apos
+11	terenní	AAFP1----1A----	Atr
+12	překážky	NNFP1-----A----	Sb
+13	,	Z:-------------	Coord
+14	v	RR--6----------	AuxP
+15	zimě	NNFS6-----A----	Atr
+16	sníh	NNIS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	kdy	Db-------------	Adv
+19	je	VB-S---3P-AA---	Atr
+20	spotřeba	NNFS1-----A----	Sb
+21	vyšší	AAFS1----2A----	Pnom
+22	.	Z:-------------	AuxK
+
+cmpr9413-002-p6s5
+1	To	PDNS1----------	Sb
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	mělo	VpNS---XR-AA---	Pred
+5	změnit	Vf--------A----	Obj
+6	.	Z:-------------	AuxK
+
+cmpr9413-002-p7s1
+1	Bohumír	NNMS1-----A----	Atr
+2	Duží	NNMS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	ETS	NNIXX-----A----	Atr
+5	Praha	NNFS1-----A----	Atr
+6	:	Z:-------------	AuxK
+
+cmpr9413-002-p8s1
+1	Zabývám	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	mezinárodní	AAFS7----1A----	Atr
+4	kamionovou	AAFS7----1A----	Atr
+5	přepravou	NNFS7-----A----	Obj
+6	.	Z:-------------	AuxK
+
+cmpr9413-002-p8s2
+1	Domnívám	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	není	VB-S---3P-NA---	Obj
+6	správné	AANS1----1A----	Pnom
+7	,	Z:-------------	AuxX
+8	když	J,-------------	AuxC
+9	silniční	AAFS4----1A----	Atr
+10	daň	NNFS4-----A----	Obj
+11	platíme	VB-P---1P-AA---	Sb
+12	za	RR--4----------	AuxP
+13	vozidla	NNNP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	která	P4NP4----------	Obj
+16	využíváme	VB-P---1P-AA---	Atr
+17	pro	RR--4----------	AuxP
+18	podnikání	NNNS4-----A----	Adv
+19	.	Z:-------------	AuxK
+
+cmpr9413-002-p8s3
+1	Podle	RR--2----------	AuxP
+2	mne	PP-S2--1-------	Adv
+3	by	Vc-------------	AuxV
+4	měla	VpQW---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	rozšířena	VsQW---XX-AP---	Obj
+7	na	RR--4----------	AuxP
+8	všechna	PLNP4----------	Atr
+9	vozidla	NNNP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	vždyť	J^-------------	Coord
+12	i	J^-------------	AuxZ
+13	ta	PDNP1----------	Sb
+14	ostatní	AANP1----1A----	Atr
+15	ničí	VB-P---3P-AA---	Pred
+16	silnice	NNFP4-----A----	Obj
+17	a	J^-------------	Coord
+18	vozovky	NNFP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+cmpr9413-002-p8s4
+1	Navíc	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	to	PDNS1----------	Sb
+4	mělo	VpNS---XR-AA---	Pred
+5	jednu	ClFS4----------	Atr
+6	výhodu	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	při	RR--6----------	AuxP
+10	tak	Db-------------	Adv
+11	velkém	AANS6----1A----	Atr
+12	množství	NNNS6-----A----	Adv
+13	aut	NNNP2-----A----	Atr
+14	by	Vc-------------	AuxV
+15	silniční	AAFS1----1A----	Atr
+16	daň	NNFS1-----A----	Sb
+17	mohla	VpQW---XR-AA---	Atr
+18	být	Vf--------A----	Obj
+19	nižší	AAFS1----2A----	Pnom
+20	,	Z:-------------	AuxX
+21	když	J,-------------	AuxC
+22	by	Vc-------------	AuxV
+23	ji	PPFS4--3-------	Obj
+24	platilo	VpNS---XR-AA---	Adv
+25	více	Dg-------2A----	Sb
+26	osob	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9413-002-p8s5
+1	Získalo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	i	J^-------------	AuxZ
+5	dost	Dg-------1A----	Sb
+6	prostředků	NNIP2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	zlepšení	NNNS4-----A----	AtrAdv
+9	silniční	AAFS2----1A----	Atr
+10	sítě	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9413-002-p9s1
+1	Karel	NNMS1-----A----	Atr
+2	Burda	NNMS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	Výstavy	NNFP1-----A----	ExD
+5	Ostrava	NNFS1-----A----	Atr
+6	:	Z:-------------	AuxK
+
+cmpr9413-002-p10s1
+1	Především	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	mělo	VpNS---XR-AA---	Pred
+5	sloučit	Vf--------A----	Obj
+6	sociální	AANS1----1A----	Atr
+7	a	J^-------------	Coord
+8	zdravotní	AANS1----1A----	Atr
+9	pojištění	NNNS1-----A----	Sb
+10	do	RR--2----------	AuxP
+11	jedné	ClFS2----------	Atr
+12	položky	NNFS2-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9413-002-p10s2
+1	Zjednodušila	VpQW---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	tak	Db-------------	Adv
+5	administrativa	NNFS1-----A----	Sb
+6	s	RR--7----------	AuxP
+7	tím	PDZS7----------	Obj
+8	spojená	AAFS1----1A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9413-002-p10s3
+1	Ubylo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	i	J^-------------	AuxZ
+4	běhání	NNNS1-----A----	Sb
+5	po	RR--6----------	AuxP
+6	úřadech	NNIP6-----A----	Atr
+7	,	Z:-------------	Coord
+8	což	PE--1----------	Sb
+9	nejvíce	Dg-------3A----	Adv
+10	zdržuje	VB-S---3P-AA---	Pred
+11	v	RR--6----------	AuxP
+12	práci	NNFS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9413-002-p11s1
+1	Vladimír	NNMS1-----A----	Atr
+2	Petrl	NNMS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	Baucomex	NNIS1-----A----	Atr
+5	Praha	NNFS1-----A----	Atr
+6	:	Z:-------------	AuxK
+
+cmpr9413-002-p12s1
+1	Nás	PP-P4--1-------	Obj
+2	jako	J,-------------	AuxY
+3	podnikatele	NNMP4-----A----	Atv
+4	nejvíce	Dg-------3A----	Adv
+5	zatěžují	VB-P---3P-AA---	Pred
+6	zálohy	NNFP1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	daně	NNFP4-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4FP4----------	Obj
+11	musíme	VB-P---1P-AA---	Atr
+12	státu	NNIS3-----A----	Obj
+13	včas	Db-------------	Adv
+14	zaplatit	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9413-002-p12s2
+1	Přitom	Db-------------	Adv
+2	ze	RV--2----------	AuxP
+3	strany	NNFS2-----A----	Adv
+4	státu	NNIS2-----A----	Atr
+5	zde	Db-------------	Adv
+6	není	VB-S---3P-NA---	Pred
+7	adekvátní	AAFS1----1A----	Atr
+8	reakce	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9413-002-p12s3
+1	Například	Db-------------	AuxY
+2	v	RR--6----------	AuxP
+3	loňském	AAIS6----1A----	Atr
+4	roce	NNIS6-----A---1	Adv
+5	jsme	VB-P---1P-AA---	AuxV
+6	místo	RR--2----------	AuxP
+7	dvanácti	Cn-P2----------	ExD
+8	zaplatili	VpMP---XR-AA---	Pred
+9	třináct	Cn-S4----------	Obj
+10	splátek	NNFP2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	sociální	AANS4----1A----	Atr
+13	pojištění	NNNS4-----A----	Atr
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	přeplatek	NNIS4-----A----	Obj
+17	té	PDFS2----------	Atr
+18	jedné	ClFS2----------	Atr
+19	splátky	NNFS2-----A----	Atr
+20	nám	PP-P3--1-------	Obj
+21	nevrátili	VpMP---XR-NA---	Pred
+22	.	Z:-------------	AuxK
+
+cmpr9413-002-p12s4
+1	To	PDNS1----------	Sb
+2	není	VB-S---3P-NA---	Pred
+3	správné	AANS1----1A----	Pnom
+4	.	Z:-------------	AuxK
+

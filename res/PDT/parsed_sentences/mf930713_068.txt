@@ -1,0 +1,197 @@
+mf930713-068-p1s1
+1	Czech	AAXXX----1A----	Atr
+2	Made	AAXXX----1A----	ExD
+3	na	RR--4----------	AuxP
+4	jeden	ClIS4----------	Atr
+5	rok	NNIS4-----A----	ExD
+
+mf930713-068-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	han	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	dj	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+mf930713-068-p2s1B
+1	Základní	AAFS7----1A----	Atr
+2	podmínkou	NNFS7-----A----	Pnom
+3	pro	RR--4----------	AuxP
+4	udělení	NNNS4-----A----	Atr
+5	známky	NNFS2-----A----	Atr
+6	Czech	AAXXX----1A----	Atr
+7	Made	AAXXX----1A----	Atr
+8	je	VB-S---3P-AA---	Pred
+9	minimálně	Dg-------1A----	Adv
+10	šedesátiprocentní	AAIS1----1A----	Atr
+11	český	AAIS1----1A----	Atr
+12	podíl	NNIS1-----A----	Sb
+13	na	RR--6----------	AuxP
+14	nákladech	NNIP6-----A----	Atr
+15	finálního	AAIS2----1A----	Atr
+16	produktu	NNIS2-----A----	Atr
+17	a	J^-------------	Coord
+18	podstatná	AAFS1----1A----	Atr
+19	změna	NNFS1-----A----	Sb
+20	charakteru	NNIS2-----A----	Atr
+21	výchozího	AAIS2----1A----	Atr
+22	materiálu	NNIS2-----A----	Atr
+23	během	RR--2----------	AuxP
+24	zpracování	NNNS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf930713-068-p2s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ministr	NNMS1-----A----	Atr
+5	průmyslu	NNIS2-----A----	Atr
+6	Vladimír	NNMS1-----A----	Atr
+7	Dlouhý	NNMS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+mf930713-068-p2s3
+1	Výrobek	NNIS1-----A----	Sb
+2	také	Db-------------	Adv
+3	musí	VB-S---3P-AA---	Pred
+4	splňovat	Vf--------A----	Obj
+5	všechny	PLYP4----------	Atr
+6	obecně	Dg-------1A----	Adv
+7	platné	AAIP4----1A----	Atr
+8	předpisy	NNIP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+mf930713-068-p2s4
+1	Přihlížet	Vf--------A----	Pred
+2	se	P7-X4----------	AuxR
+3	bude	VB-S---3F-AA---	AuxV
+4	i	J^-------------	AuxZ
+5	k	RR--3----------	AuxP
+6	vlivu	NNIS3-----A----	Obj
+7	výrobku	NNIS2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	životní	AANS4----1A----	Atr
+10	prostředí	NNNS4-----A----	Atr
+11	a	J^-------------	Coord
+12	k	RR--3----------	AuxP
+13	zárukám	NNFP3-----A----	Obj
+14	stabilní	AAFS2----1A----	Atr
+15	kvality	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930713-068-p2s5
+1	Specifickým	AAIS7----1A----	Atr
+2	požadavkem	NNIS7-----A----	Pnom
+3	bude	VB-S---3F-AA---	Pred
+4	srovnatelnost	NNFS1-----A----	Sb
+5	výrobku	NNIS2-----A----	Atr
+6	s	RR--7----------	AuxP
+7	domácími	AAIP7----1A----	Atr
+8	či	J^-------------	Coord
+9	zahraničními	AAIP7----1A----	Atr
+10	produkty	NNIP7-----A----	Atr
+11	dostupnými	AAIP7----1A----	Atr
+12	na	RR--6----------	AuxP
+13	trhu	NNIS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+mf930713-068-p2s6
+1	Konkrétní	AAFP4----1A----	Atr
+2	podmínky	NNFP4-----A----	Obj
+3	pro	RR--4----------	AuxP
+4	jednotlivé	AAIP4----1A----	Atr
+5	druhy	NNIP4-----A----	Atr
+6	výrobku	NNIS2-----A----	Atr
+7	by	Vc-------------	AuxV
+8	měly	VpTP---XR-AA---	Pred
+9	určovat	Vf--------A----	Obj
+10	komise	NNFP1-----A----	Sb
+11	složené	AAFP1----1A----	Atr
+12	z	RR--2----------	AuxP
+13	odborníků	NNMP2-----A----	Obj
+14	a	J^-------------	Coord
+15	spotřebitelů	NNMP2-----A----	Obj
+16	.	Z:-------------	AuxK
+
+mf930713-068-p3s1
+1	Značku	NNFS4-----A----	Obj
+2	Czech	AAXXX----1A----	Atr
+3	Made	AAXXX----1A----	Atr
+4	bude	VB-S---3F-AA---	AuxV
+5	udělovat	Vf--------A----	Pred
+6	nevládní	AANS1----1N----	Atr
+7	a	J^-------------	Coord
+8	neziskové	AANS1----1N----	Atr
+9	Sdružení	NNNS1-----A----	Sb
+10	pro	RR--4----------	AuxP
+11	cenu	NNFS4-----A----	Atr
+12	ČR	NNFXX-----A---8	Atr
+13	za	RR--4----------	AuxP
+14	jakost	NNFS4-----A----	Atr
+15	na	RR--4----------	AuxP
+16	jeden	ClIS4----------	Atr
+17	rok	NNIS4-----A----	Adv
+18	,	Z:-------------	Coord
+19	v	RR--6----------	AuxP
+20	případě	NNIS6-----A----	Adv
+21	nedodržení	NNNS2-----N----	Atr
+22	požadované	AAFS2----1A----	Atr
+23	kvality	NNFS2-----A----	Atr
+24	je	VB-S---3P-AA---	Pred
+25	odvolatelná	AAFS1----1A----	Pnom
+26	.	Z:-------------	AuxK
+
+mf930713-068-p3s3
+1	První	CrFP4----------	Atr
+2	žádosti	NNFP4-----A----	Obj
+3	bude	VB-S---3F-AA---	AuxV
+4	sdružení	NNNS1-----A----	Sb
+5	přijímat	Vf--------A----	Pred
+6	od	RR--2----------	AuxP
+7	15	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	července	NNIS2-----A----	Adv
+10	.	Z:-------------	AuxK
+
+mf930713-068-p3s4
+1	Čekatelská	AAFS1----1A----	Atr
+2	lhůta	NNFS1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	propůjčení	NNNS4-----A----	Atr
+5	známky	NNFS2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	neměla	VpQW---XR-NA---	Pred
+8	být	Vf--------A----	Obj
+9	delší	AAFS1----2A----	Pnom
+10	než	J,-------------	AuxC
+11	dva	ClYP1----------	Atr
+12	měsíce	NNIP1-----A----	Adv
+13	od	RR--2----------	AuxP
+14	podání	NNNS2-----A----	Atr
+15	přihlášky	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930713-068-p3s6
+1	Náklady	NNIP1-----A----	Sb
+2	sdružení	NNNS2-----A----	Atr
+3	budou	VB-P---3F-AA---	AuxV
+4	hrazeny	VsTP---XX-AP---	Pred
+5	z	RR--2----------	AuxP
+6	poplatků	NNIP2-----A----	Adv
+7	stanovených	AAIP2----1A----	Atr
+8	na	RR--6----------	AuxP
+9	úrovni	NNFS6-----A----	Adv
+10	dvou	ClXP2----------	Atr
+11	promile	NNNP2-----A----	Atr
+12	objemu	NNIS2-----A----	Atr
+13	cen	NNFP2-----A----	Atr
+14	výrobků	NNIP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	které	P4YP4----------	Obj
+17	žadatel	NNMS1-----A----	Sb
+18	hodlá	VB-S---3P-AA---	Atr
+19	známkou	NNFS7-----A----	Adv
+20	označovat	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+

@@ -1,0 +1,176 @@
+ln95049-002-p1s1
+1	Penzijní	AANS1----1A----	Atr
+2	pojištění	NNNS1-----A----	ExD
+3	z	RR--2----------	AuxP
+4	fondu	NNIS2-----A----	Atr
+5	Certum	NNNS1-----A----	Atr
+
+ln95049-002-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-002-p2s1B
+1	Penzijní	AAIS1----1A----	Atr
+2	fond	NNIS1-----A----	Sb
+3	Certum	NNNS1-----A----	Atr
+4	,	Z:-------------	AuxX
+5	jehož	PJZS2----------	Atr
+6	základní	AANS1----1A----	Atr
+7	jmění	NNNS1-----A----	Sb
+8	činí	VB-S---3P-AA---	Atr
+9	30	C=-------------	Obj
+10	miliónů	NNIP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	začne	VB-S---3P-AA---	Pred
+14	nabízet	Vf--------A----	Obj
+15	penzijní	AANS4----1A----	Atr
+16	připojištění	NNNS4-----A----	Obj
+17	se	RV--7----------	AuxP
+18	státním	AAIS7----1A----	Atr
+19	příspěvkem	NNIS7-----A----	Atr
+20	v	RR--6----------	AuxP
+21	prvních	CrIP6----------	Atr
+22	březnových	AAIP6----1A----	Atr
+23	dnech	NNIP6-----A----	Adv
+24	.	Z:-------------	AuxK
+
+ln95049-002-p2s2
+1	Bude	VB-S---3F-AA---	AuxV
+2	nabízet	Vf--------A----	Pred
+3	penzi	NNFS4-----A----	Obj
+4	starobní	AAFS4----1A----	Atr
+5	,	Z:-------------	Coord
+6	výsluhovou	AAFS4----1A----	Atr
+7	(	Z:-------------	ExD
+8	obě	ClHP4----------	Atr
+9	na	RR--4----------	AuxP
+10	dožití	NNNS4-----A----	ExD
+11	i	J^-------------	Coord
+12	dobu	NNFS4-----A----	ExD
+13	určitou	AAFS4----1A----	Atr
+14	)	Z:-------------	ExD
+15	,	Z:-------------	AuxX
+16	penzi	NNFS4-----A----	Obj
+17	invalidní	AAFS4----1A----	Atr
+18	,	Z:-------------	Coord
+19	odbytné	NNNS4-----A----	Atr
+20	i	J^-------------	Coord
+21	jednorázové	AANS4----1A----	Atr
+22	vyrovnání	NNNS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln95049-002-p3s1
+1	Se	RV--7----------	AuxP
+2	zavedením	NNNS7-----A----	Obj
+3	pozůstalostní	AAFS2----1A----	Atr
+4	penze	NNFS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	počítá	VB-S---3P-AA---	Pred
+7	ještě	Db-------------	AuxZ
+8	letos	Db-------------	Adv
+9	.	Z:-------------	AuxK
+
+ln95049-002-p3s2
+1	Nárok	NNIS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	starobní	AAFS4----1A----	Atr
+4	penzi	NNFS4-----A----	Atr
+5	vzniká	VB-S---3P-AA---	Pred
+6	ve	RV--6----------	AuxP
+7	věku	NNIS6-----A----	Adv
+8	55	C=-------------	Atr
+9	let	NNNP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	byly	VpTP---XR-AA---	AuxV
+12	-	Z:-------------	AuxG
+13	li	TT-------------	AuxC
+14	placeny	VsTP---XX-AP---	Adv
+15	příspěvky	NNIP1-----A----	Sb
+16	po	RR--4----------	AuxP
+17	dobu	NNFS4-----A----	Adv
+18	60	C=-------------	Atr
+19	měsíců	NNIP2-----A----	Atr
+20	nebo	J^-------------	Coord
+21	při	RR--6----------	AuxP
+22	naplnění	NNNS6-----A----	ExD
+23	pojištěné	AAFS2----1A----	Atr
+24	doby	NNFS2-----A----	Atr
+25	nejméně	Dg-------3A----	AuxZ
+26	36	C=-------------	Atr
+27	měsíců	NNIP2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	pokud	J,-------------	AuxC
+30	měsíční	AAFS1----1A----	Atr
+31	výše	NNFS1-----A----	Sb
+32	placených	AAIP2----1A----	Atr
+33	příspěvků	NNIP2-----A----	Atr
+34	účastníka	NNMS2-----A----	Atr
+35	činí	VB-S---3P-AA---	ExD
+36	alespoň	Db-------------	AuxZ
+37	300	C=-------------	Obj
+38	Kč	NNFXX-----A----	Atr
+39	měsíčně	Dg-------1A----	AtrAdv
+40	.	Z:-------------	AuxK
+
+ln95049-002-p4s1
+1	Certum	NNNS1-----A----	Sb
+2	počítá	VB-S---3P-AA---	Pred
+3	s	RR--7----------	AuxP
+4	výnosy	NNIP7-----A----	Obj
+5	mezi	RR--7----------	AuxP
+6	pěti	Cn-P7----------	Atr
+7	až	J^-------------	Coord
+8	osmi	Cn-P7----------	Atr
+9	procenty	NNNP7-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95049-002-p4s2
+1	Při	RR--6----------	AuxP
+2	investování	NNNS6-----A----	Adv
+3	získaných	AAIP2----1A----	Atr
+4	finančních	AAIP2----1A----	Atr
+5	prostředků	NNIP2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	bude	VB-S---3F-AA---	AuxV
+8	opírat	Vf--------A----	Pred
+9	především	Db-------------	AuxZ
+10	o	RR--4----------	AuxP
+11	zkušenosti	NNFP4-----A----	Obj
+12	depozitáře	NNMS2-----A----	Atr
+13	fondu	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kterým	P4ZS7----------	Pnom
+16	je	VB-S---3P-AA---	Atr
+17	Československá	AAFS1----1A----	Atr
+18	obchodní	AAFS1----1A----	Atr
+19	banka	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln95049-002-p4s3
+1	Produkty	NNIP1-----A----	Sb
+2	fondu	NNIS2-----A----	Atr
+3	budou	VB-P---3F-AA---	AuxV
+4	nabízeny	VsTP---XX-AP---	Pred
+5	nejprve	Db-------------	Adv
+6	prostřednictvím	NNNS7-----A----	AuxP
+7	zakladatelů	NNMP2-----A----	Adv
+8	fondu	NNIS2-----A----	Atr
+9	,	Z:-------------	Coord
+10	později	Dg-------2A----	ExD
+11	též	Db-------------	AuxZ
+12	dealerskými	AAFP7----1A----	Atr
+13	sítěmi	NNFP7-----A----	ExD
+14	.	Z:-------------	AuxK
+
+ln95049-002-p5s1
+1	Zakladateli	NNMP7-----A----	Pnom
+2	fondu	NNIS2-----A----	Atr
+3	jsou	VB-P---3P-AA---	Pred
+4	mimo	RR--4----------	AuxP
+5	jiné	AANS4----1A----	Adv
+6	Chemopetrol	NNIS1-----A----	Sb
+7	a	J^-------------	Coord
+8	Multiservis	NNIS1-----A----	Sb
+9	.	Z:-------------	AuxK
+

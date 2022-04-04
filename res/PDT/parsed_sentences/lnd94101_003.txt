@@ -1,0 +1,86 @@
+lnd94101-003-p1s1
+1	Z	RR--2----------	AuxP
+2	Bohemie	NNFS2-----A----	ExD
+3	do	RR--2----------	AuxP
+4	ČSOB	NNFXX-----A---8	ExD
+5	příští	AAIS4----1A----	Atr
+6	týden	NNIS4-----A----	ExD
+
+lnd94101-003-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ip	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94101-003-p1s3
+1	Žádosti	NNFP4-----A----	Obj
+2	o	RR--4----------	AuxP
+3	převedení	NNNS4-----A----	Atr
+4	vkladů	NNIP2-----A----	Atr
+5	z	RR--2----------	AuxP
+6	Banky	NNFS2-----A----	Atr
+7	Bohemia	NNFXX-----A----	Atr
+8	do	RR--2----------	AuxP
+9	Československé	AAFS2----1A----	Atr
+10	obchodní	AAFS2----1A----	Atr
+11	banky	NNFS2-----A----	Atr
+12	budou	VB-P---3F-AA---	AuxV
+13	pracovníci	NNMP1-----A----	Sb
+14	ČSOB	NNFXX-----A---8	Atr
+15	přijímat	Vf--------A----	Pred
+16	na	RR--6----------	AuxP
+17	pobočkách	NNFP6-----A----	Adv
+18	Banky	NNFS2-----A----	Atr
+19	Bohemia	NNFXX-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd94101-003-p1s4
+1	Technické	AAFP4----1A----	Atr
+2	podrobnosti	NNFP4-----A----	Obj
+3	celé	AAFS2----1A----	Atr
+4	operace	NNFS2-----A----	Atr
+5	oznámí	VB-S---3P-AA---	Pred
+6	ČSOB	NNFXX-----A---8	Sb
+7	příští	AAIS4----1A----	Atr
+8	týden	NNIS4-----A----	Adv
+9	.	Z:-------------	AuxK
+
+lnd94101-003-p1s5
+1	Sdělil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	její	PSZS1FS3-------	Atr
+5	mluvčí	NNMS1-----A----	Atr
+6	M	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Tománek	NNMS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+lnd94101-003-p1s6
+1	Podle	RR--2----------	AuxP
+2	LN	NNFPX-----A---8	Adv
+3	někteří	PZMP1----------	Atr
+4	klienti	NNMP1-----A----	Sb
+5	Bohemie	NNFS2-----A----	Atr
+6	požadovali	VpMP---XR-AA---	Pred
+7	převedení	NNNS4-----A----	Obj
+8	svých	P8XP2----------	Atr
+9	účtů	NNIP2-----A----	Atr
+10	z	RR--2----------	AuxP
+11	Bohemie	NNFS2-----A----	Atr
+12	do	RR--2----------	AuxP
+13	ČSOB	NNFXX-----A---8	Atr
+14	již	Db-------------	AuxZ
+15	včera	Db-------------	Adv
+16	.	Z:-------------	AuxK
+
+lnd94101-003-p1s7
+1	Jejich	PSXXXXP3-------	Atr
+2	postup	NNIS4-----A----	Obj
+3	označil	VpYS---XR-AA---	Pred
+4	Tománek	NNMS1-----A----	Sb
+5	za	RR--4----------	AuxP
+6	předčasný	AAIS4----1A----	Obj
+7	.	Z:-------------	AuxK
+

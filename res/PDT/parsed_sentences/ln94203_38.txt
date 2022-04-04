@@ -1,0 +1,129 @@
+ln94203-38-p1s1
+1	KAN	NNIXX-----A---8	Sb
+2	představil	VpYS---XR-AA---	Pred
+3	kandidáta	NNMS4-----A----	Obj
+4	na	RR--4----------	AuxP
+5	primátora	NNMS4-----A----	Atr
+
+ln94203-38-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln94203-38-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mrk	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94203-38-p2s1C
+1	Současný	AAMS1----1A----	Atr
+2	náměstek	NNMS1-----A----	Atr
+3	pražského	AAMS2----1A----	Atr
+4	primátora	NNMS2-----A----	Atr
+5	Pavel	NNMS1-----A----	Atr
+6	Holba	NNMS1-----A----	Sb
+7	je	VB-S---3P-AA---	Pred
+8	kandidátem	NNMS7-----A----	Pnom
+9	KAN	NNIXX-----A---8	Atr
+10	na	RR--4----------	AuxP
+11	primátorské	AANS4----1A----	Atr
+12	křeslo	NNNS4-----A----	Atr
+13	v	RR--6----------	AuxP
+14	nadcházejících	AGFP6-----A----	Atr
+15	komunálních	AAFP6----1A----	Atr
+16	volbách	NNFP6-----A----	AtrAtr
+17	.	Z:-------------	AuxK
+
+ln94203-38-p2s2
+1	KAN	NNIXX-----A---8	Sb
+2	podle	RR--2----------	AuxP
+3	své	P8FS2---------1	Atr
+4	místopředsedkyně	NNFS2-----A----	Atr
+5	Heleny	NNFS2-----A----	Atr
+6	Frankenbergerové	NNFS2-----A----	Adv
+7	nepostaví	VB-S---3P-NA---	Pred
+8	v	RR--6----------	AuxP
+9	jednotlivých	AAFP6----1A----	Atr
+10	pražských	AAFP6----1A----	Atr
+11	částech	NNFP6-----A----	Adv
+12	vlastní	AAFP4----1A----	Atr
+13	kandidátky	NNFP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	nýbrž	J^-------------	Coord
+16	vstoupí	VB-S---3P-AA---	Pred
+17	do	RR--2----------	AuxP
+18	koalic	NNFP2-----A----	Adv
+19	s	RR--7----------	AuxP
+20	křesťanskými	AAFP7----1A----	Atr
+21	stranami	NNFP7-----A----	Atr
+22	,	Z:-------------	Apos
+23	ODA	NNFXX-----A---8	Atr
+24	a	J^-------------	Coord
+25	ODS	NNFXX-----A---8	Atr
+26	.	Z:-------------	AuxK
+
+ln94203-38-p2s3
+1	Samostatně	Dg-------1A----	Adv
+2	bude	VB-S---3F-AA---	AuxV
+3	kandidovat	Vf--------A----	Pred
+4	pouze	Db-------------	AuxZ
+5	do	RR--2----------	AuxP
+6	zastupitelstva	NNNS2-----A----	Adv
+7	hlavního	AANS2----1A----	Atr
+8	města	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94203-38-p2s4
+1	Podmínkou	NNFS7-----A----	Pnom
+2	kandidatury	NNFS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	negativní	AANS1----1A----	Atr
+5	lustrační	AANS1----1A----	Atr
+6	osvědčení	NNNS1-----A----	Sb
+7	a	J^-------------	Coord
+8	prohlášení	NNNS1-----A----	Sb
+9	o	RR--6----------	AuxP
+10	tom	PDZS6----------	Atr
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	dotyčný	AAMS1----1A----	Sb
+14	nebyl	VpYS---XR-NA---	Atr
+15	členem	NNMS7-----A----	Pnom
+16	žádné	PWFS2----------	Atr
+17	ze	RV--2----------	AuxP
+18	stran	NNFP2-----A----	Atr
+19	Národní	AAFS2----1A----	Atr
+20	fronty	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94203-38-p2s5
+1	Zástupci	NNMP1-----A----	Sb
+2	KAN	NNIXX-----A---8	Atr
+3	včera	Db-------------	Adv
+4	kritizovali	VpMP---XR-AA---	Pred
+5	nedávné	AANS4----1N----	Atr
+6	vypovídání	NNNS4-----A----	Obj
+7	smluv	NNFP2-----A----	Atr
+8	Komerční	AAFS7----1A----	Atr
+9	bankou	NNFS7-----A----	Atr
+10	:	Z:-------------	Coord
+11	stalo	VpNS---XR-AA---	Pred
+12	se	P7-X4----------	AuxT
+13	tak	Db-------------	Adv
+14	prý	TT-------------	AuxY
+15	i	J^-------------	AuxZ
+16	vinou	NNFS7-----A----	AuxP
+17	bývalého	AAIS2----1A----	Atr
+18	managementu	NNIS2-----A----	Adv
+19	,	Z:-------------	AuxX
+20	který	P4YS1----------	Sb
+21	je	VB-S---3P-AA---	Atr
+22	dodnes	Db-------------	Adv
+23	ve	RV--6----------	AuxP
+24	vedení	NNNS6-----A----	Adv
+25	tohoto	PDZS2----------	Atr
+26	ústavu	NNIS2-----A----	Atr
+27	.	Z:-------------	AuxK
+

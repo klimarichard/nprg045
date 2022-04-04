@@ -1,0 +1,126 @@
+mf930713-003-p1s1
+1	Banka	NNFS1-----A----	ExD
+2	s	RR--7----------	AuxP
+3	nejvýhodnějšími	AAIP7----3A----	Atr
+4	úroky	NNIP7-----A----	Atr
+
+mf930713-003-p2s1
+1	FINANCE	NNFP1-----A----	ExD
+
+mf930713-003-p3s1
+1	Banka	NNFS1-----A----	ExD
+2	s	RR--7----------	AuxP
+3	nejvýhodnějšími	AAIP7----3A----	Atr
+4	úroky	NNIP7-----A----	Atr
+
+mf930713-003-p3s2
+1	Z	RR--2----------	AuxP
+2	brněnských	AAFP2----1A----	Atr
+3	bank	NNFP2-----A----	Adv
+4	nabízí	VB-S---3P-AA---	Pred
+5	nejvýhodnější	AANS4----3A----	Atr
+6	uložení	NNNS4-----A----	Obj
+7	termínovaných	AAIP2----1A----	Atr
+8	vkladů	NNIP2-----A----	Atr
+9	už	Db-------------	AuxZ
+10	od	RR--2----------	AuxP
+11	částky	NNFS2-----A----	Atr
+12	nad	RR--4----------	AuxP
+13	5000	C=-------------	Atr
+14	Kč	NNFXX-----A----	Atr
+15	Moravia	AAXXX----1A----	Atr
+16	Banka	NNFS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+mf930713-003-p3s3
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ze	RV--2----------	AuxP
+4	srovnání	NNNS2-----A----	Adv
+5	aktuálních	AAFP2----1A----	Atr
+6	úrokových	AAFP2----1A----	Atr
+7	sazeb	NNFP2-----A----	Atr
+8	bank	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4FP1----------	Sb
+11	v	RR--6----------	AuxP
+12	Brně	NNNS6-----A----	Adv
+13	poskytují	VB-P---3P-AA---	Atr
+14	služby	NNFP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+mf930713-003-p3s5
+1	Vklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	14	C=-------------	Atr
+4	dnů	NNIP2-----A----	Atr
+5	až	J^-------------	Coord
+6	1	C=-------------	Atr
+7	rok	NNIS4-----A----	Atr
+8	jsou	VB-P---3P-AA---	AuxV
+9	v	RR--6----------	AuxP
+10	Moravia	AAXXX----1A----	Atr
+11	bance	NNFS6-----A----	Adv
+12	úročeny	VsTP---XX-AP---	Pred
+13	v	RR--6----------	AuxP
+14	rozmezí	NNNS6-----A----	Adv
+15	od	RR--2----------	AuxP
+16	7.5	C=-------------	Atr
+17	%	Z:-------------	AuxG
+18	do	RR--2----------	AuxP
+19	15	C=-------------	Atr
+20	%	Z:-------------	AuxG
+21	a	J^-------------	Coord
+22	je	VB-S---3P-AA---	Pred
+23	možné	AANS1----1A----	Pnom
+24	je	PPXP4--3-------	Obj
+25	předčasně	Dg-------1A----	Adv
+26	vypovědět	Vf--------A----	Sb
+27	.	Z:-------------	AuxK
+
+mf930713-003-p3s7
+1	Banka	NNFS1-----A----	Sb
+2	nabízí	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	termínované	AAIP4----1A----	Atr
+5	vklady	NNIP4-----A----	Obj
+6	typu	NNIS2-----A----	Atr
+7	certifikátu	NNIS2-----A----	Atr
+8	bez	RR--2----------	AuxP
+9	možnosti	NNFS2-----A----	AtrAtr
+10	výpovědi	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930713-003-p3s8
+1	Vklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	3	C=-------------	Atr
+4	měsíce	NNIP4-----A----	Atr
+5	až	J^-------------	Coord
+6	1	C=-------------	Atr
+7	rok	NNIS4-----A----	Atr
+8	jsou	VB-P---3P-AA---	AuxV
+9	úročeny	VsTP---XX-AP---	Pred
+10	v	RR--6----------	AuxP
+11	rozmezí	NNNS6-----A----	Adv
+12	13.5	C=-------------	Atr
+13	%	Z:-------------	AuxG
+14	až	J^-------------	Coord
+15	15.75	C=-------------	Atr
+16	%	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+mf930713-003-p3s9
+1	U	RR--2----------	AuxP
+2	termínovaných	AAIP2----1A----	Atr
+3	vkladů	NNIP2-----A----	Adv
+4	typu	NNIS2-----A----	Atr
+5	certifikátu	NNIS2-----A----	Atr
+6	jsou	VB-P---3P-AA---	AuxV
+7	úroky	NNIP1-----A----	Sb
+8	zdaněny	VsTP---XX-AP---	Pred
+9	pouze	Db-------------	AuxZ
+10	15	C=-------------	Adv
+11	%	Z:-------------	AuxG
+12	.	Z:-------------	AuxK
+

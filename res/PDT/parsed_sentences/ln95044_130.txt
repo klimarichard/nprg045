@@ -1,0 +1,112 @@
+ln95044-130-p1s1
+1	Valná	AAFS1----1A----	Atr
+2	hromada	NNFS1-----A----	Sb
+3	Koospolu	NNIS2-----A----	Atr
+4	odložena	VsQW---XX-AP---	Pred
+
+ln95044-130-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-130-p2s1B
+1	Mimořádná	AAFS1----1A----	Atr
+2	valná	AAFS1----1A----	Atr
+3	hromada	NNFS1-----A----	Sb
+4	akciové	AAFS2----1A----	Atr
+5	společnosti	NNFS2-----A----	Atr
+6	Koospol	NNIS1-----A----	Atr
+7	byla	VpQW---XR-AA---	AuxV
+8	podle	RR--2----------	AuxP
+9	tiskového	AAMS2----1A----	Atr
+10	mluvčího	NNMS2-----A----	Adv
+11	společnosti	NNFS2-----A----	Atr
+12	odložena	VsQW---XX-AP---	Pred
+13	až	TT-------------	AuxZ
+14	na	RR--4----------	AuxP
+15	14	C=-------------	Adv
+16	.	Z:-------------	AuxG
+17	března	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95044-130-p2s2
+1	Hlavním	AAIS7----1A----	Atr
+2	projednávaným	AAIS7----1A----	Atr
+3	bodem	NNIS7-----A----	Pnom
+4	bude	VB-S---3F-AA---	Pred
+5	sanace	NNFS1-----A----	Sb
+6	nebo	J^-------------	Coord
+7	likvidace	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95044-130-p3s1
+1	Hospodářské	AAIP1----1A----	Atr
+2	výsledky	NNIP1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	loňského	AAIS2----1A----	Atr
+5	roku	NNIS2-----A---1	Atr
+6	budou	VB-P---3F-AA---	AuxV
+7	zveřejněny	VsTP---XX-AP---	Pred
+8	až	TT-------------	AuxZ
+9	po	RR--6----------	AuxP
+10	březnové	AAFS6----1A----	Atr
+11	valné	AAFS6----1A----	Atr
+12	hromadě	NNFS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln95044-130-p3s2
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1993	C=-------------	Atr
+4	skončilo	VpNS---XR-AA---	Pred
+5	hospodaření	NNNS1-----A----	Sb
+6	Koospolu	NNIS2-----A----	Atr
+7	ztrátou	NNFS7-----A----	Adv
+8	269	C=-------------	Atr
+9	miliónů	NNIP2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95044-130-p3s3
+1	Ztráta	NNFS1-----A----	Sb
+2	vznikla	VpQW---XR-AA--1	Pred
+3	v	RR--6----------	AuxP
+4	důsledku	NNIS6-----A----	AuxP
+5	vytvoření	NNNS2-----A----	Adv
+6	rezervy	NNFS2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	pohledávky	NNFP4-----A----	Atr
+9	po	RR--6----------	AuxP
+10	lhůtě	NNFS6-----A----	Atr
+11	splatnosti	NNFS2-----A----	Atr
+12	ve	RV--6----------	AuxP
+13	výši	NNFS6-----A----	Atr
+14	471	C=-------------	Atr
+15	miliónů	NNIP2-----A----	Atr
+16	Kč	NNFXX-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95044-130-p3s4
+1	Obrat	NNIS1-----A----	Sb
+2	skupiny	NNFS2-----A----	Atr
+3	Koospolu	NNIS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	zahrnovala	VpQW---XR-AA---	Atr
+7	v	RR--6----------	AuxP
+8	roce	NNIS6-----A---1	Adv
+9	1993	C=-------------	Atr
+10	kolem	RR--2----------	AuxP
+11	30	C=-------------	Atr
+12	společností	NNFP2-----A----	Obj
+13	registrovaných	AAFP2----1A----	Atr
+14	v	RR--6----------	AuxP
+15	ČR	NNFXX-----A---8	Adv
+16	i	J^-------------	Coord
+17	zahraničí	NNNS6-----A----	Adv
+18	,	Z:-------------	AuxX
+19	dosáhl	VpYS---XR-AA---	Pred
+20	6066	C=-------------	Obj
+21	miliardy	NNFS2-----A----	Atr
+22	Kč	NNFXX-----A----	Atr
+23	.	Z:-------------	AuxK
+

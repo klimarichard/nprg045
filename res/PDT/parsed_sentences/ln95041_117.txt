@@ -1,0 +1,500 @@
+ln95041-117-p1s1
+1	Elektro	AAXXX----1A----	Atr
+2	-	Z:-------------	AuxG
+3	Praga	NNFS1-----A----	Sb
+4	dividendy	NNFP4-----A----	Obj
+5	vyplatí	VB-S---3P-AA---	Pred
+
+ln95041-117-p2s1A
+1	Pod	RR--7----------	AuxP
+2	značkou	NNFS7-----A----	ExD
+3	ETA	NNFXX-----A---8	Atr
+4	na	RR--4----------	AuxP
+5	45	C=-------------	ExD
+6	druhů	NNIP2-----A----	Atr
+7	elektrospotřebičů	NNIP2-----A----	Atr
+
+ln95041-117-p2s1B
+1	Loni	Db------------1	ExD
+2	25	C=-------------	ExD
+3	nových	AAIP2----1A----	Atr
+4	výrobků	NNIP2-----A----	Atr
+
+ln95041-117-p2s1C
+1	Hlinsko	NNNS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	Čechách	NNFP6-----A----	Atr
+4	-	Z:-------------	AuxK
+
+ln95041-117-p2s1D
+1	Hrubý	AAIS1----1A----	Atr
+2	zisk	NNIS1-----A----	Sb
+3	akciové	AAFS2----1A----	Atr
+4	společnosti	NNFS2-----A----	Atr
+5	Elektro	AAXXX----1A----	Atr
+6	-	Z:-------------	AuxG
+7	Praga	NNFS1-----A----	Atr
+8	Hlinsko	NNNS1-----A----	Atr
+9	by	Vc-------------	AuxV
+10	měl	VpYS---XR-AA---	Pred
+11	za	RR--4----------	AuxP
+12	loňský	AAIS4----1A----	Atr
+13	rok	NNIS4-----A----	Adv
+14	dosáhnout	Vf--------A----	Obj
+15	51	C=-------------	Atr
+16	miliónů	NNIP2-----A----	Obj
+17	korun	NNFP2-----A----	Atr
+18	,	Z:-------------	Coord
+19	což	PE--1----------	Sb
+20	proti	RR--3----------	AuxP
+21	roku	NNIS3-----A----	Adv
+22	1993	C=-------------	Atr
+23	představuje	VB-S---3P-AA---	Pred
+24	pokles	NNIS4-----A----	Obj
+25	o	RR--4----------	AuxP
+26	68	C=-------------	Atr
+27	procent	NNNP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95041-117-p2s2
+1	Přesto	Dg-------1A----	Adv
+2	společnost	NNFS1-----A----	Sb
+3	počítá	VB-S---3P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	výplatou	NNFS7-----A----	Obj
+6	dividend	NNFP2-----A----	Atr
+7	na	RR--6----------	AuxP
+8	úrovni	NNFS6-----A----	AuxP
+9	roku	NNIS2-----A---1	Atr
+10	1993	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	kdy	Db-------------	Adv
+13	bylo	VpNS---XR-AA---	AuxV
+14	vypláceno	VsNS---XX-AP---	Atr
+15	24	C=-------------	Sb
+16	korun	NNFP2-----A----	Atr
+17	na	RR--4----------	AuxP
+18	akcii	NNFS4-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln95041-117-p3s1
+1	Tržby	NNFP1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	vlastní	AAIP4----1A----	Atr
+4	výrobky	NNIP4-----A----	Atr
+5	a	J^-------------	Coord
+6	služby	NNFP4-----A----	Atr
+7	dosáhly	VpTP---XR-AA---	Pred
+8	2483.6	C=-------------	Obj
+9	miliónu	NNIS2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	což	PE--1----------	Sb
+13	je	VB-S---3P-AA---	Pred
+14	podle	RR--2----------	AuxP
+15	mluvčího	NNMS2-----A----	Adv
+16	podniku	NNIS2-----A----	Atr
+17	o	RR--4----------	AuxP
+18	5.2	C=-------------	Adv
+19	procenta	NNNS2-----A----	Atr
+20	méně	Dg-------2A----	Pnom
+21	než	J,-------------	AuxC
+22	v	RR--6----------	AuxP
+23	roce	NNIS6-----A---1	ExD
+24	1993	C=-------------	Atr
+25	.	Z:-------------	AuxK
+
+ln95041-117-p3s2
+1	Snížení	NNNS1-----A----	Sb
+2	tržeb	NNFP2-----A----	Atr
+3	bylo	VpNS---XR-AA---	AuxV
+4	podle	RR--2----------	AuxP
+5	něj	P5ZS2--3-------	Adv
+6	způsobeno	VsNS---XX-AP---	Pred
+7	poklesem	NNIS7-----A----	Obj
+8	prodeje	NNIS2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	Slovensko	NNNS4-----A----	Atr
+11	o	RR--4----------	AuxP
+12	43	C=-------------	Atr
+13	procent	NNNP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	zastavením	NNNS7-----A----	Obj
+16	dodávek	NNFP2-----A----	Atr
+17	do	RR--2----------	AuxP
+18	Ruska	NNNS2-----A----	Atr
+19	a	J^-------------	Coord
+20	snížením	NNNS7-----A----	Obj
+21	výroby	NNFS2-----A----	Atr
+22	ve	RV--6----------	AuxP
+23	vedlejších	AAIP6----1A----	Atr
+24	oborech	NNIP6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95041-117-p3s3
+1	Zejména	Db-------------	AuxZ
+2	ve	RV--6----------	AuxP
+3	druhém	CrNS6----------	Atr
+4	pololetí	NNNS6-----A----	Adv
+5	podnik	NNIS1-----A----	Sb
+6	pocítil	VpYS---XR-AA---	Pred
+7	velký	AAIS4----1A----	Atr
+8	tlak	NNIS4-----A----	Obj
+9	dodavatelů	NNMP2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	růst	NNIS4-----A----	Atr
+12	cen	NNFP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	což	PE--1----------	Sb
+15	přineslo	VpNS---XR-AA---	Pred
+16	zvýšení	NNNS4-----A----	Obj
+17	nákladů	NNIP2-----A----	Atr
+18	o	RR--4----------	AuxP
+19	47	C=-------------	Atr
+20	miliónů	NNIP2-----A----	Atr
+21	korun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95041-117-p4s1
+1	Prodej	NNIS1-----A----	Sb
+2	elektrických	AAIP2----1A----	Atr
+3	spotřebičů	NNIP2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	domácnost	NNFS4-----A----	Atr
+6	v	RR--6----------	AuxP
+7	České	AAFS6----1A----	Atr
+8	republice	NNFS6-----A----	Atr
+9	dosáhl	VpYS---XR-AA---	Pred
+10	954.8	C=-------------	Obj
+11	miliónu	NNIS2-----A----	Atr
+12	korun	NNFP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	na	RR--4----------	AuxP
+15	Slovensko	NNNS4-----A----	Adv
+16	putovaly	VpTP---XR-AA---	Pred
+17	elektrospotřebiče	NNIP1-----A----	Sb
+18	za	RR--4----------	AuxP
+19	135.9	C=-------------	Atr
+20	miliónu	NNIS2-----A----	Atr
+21	korun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95041-117-p4s2
+1	Export	NNIS1-----A----	Sb
+2	do	RR--2----------	AuxP
+3	ostatních	AAFP2----1A----	Atr
+4	,	Z:-------------	AuxX
+5	hlavně	Dg-------1A----	AuxZ
+6	západoevropských	AAFP2----1A----	Atr
+7	zemí	NNFP2-----A----	Atr
+8	dosáhl	VpYS---XR-AA---	Pred
+9	1058.8	C=-------------	Obj
+10	miliónu	NNIS2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95041-117-p4s3
+1	Další	AAIS1----1A----	Atr
+2	specifický	AAIS1----1A----	Atr
+3	sortiment	NNIS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	například	Db-------------	Apos
+6	audiotechnika	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	se	P7-X4----------	AuxT
+9	na	RR--6----------	AuxP
+10	tržbách	NNFP6-----A----	Obj
+11	podílel	VpYS---XR-AA---	Pred
+12	335.1	C=-------------	Adv
+13	miliónu	NNIS2-----A----	Atr
+14	korun	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95041-117-p5s1
+1	Elektro	AAXXX----1A----	Atr
+2	-	Z:-------------	AuxG
+3	Praga	NNFS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	současné	AAFS6----1A----	Atr
+6	době	NNFS6-----A----	Adv
+7	vyrábí	VB-S---3P-AA---	Pred
+8	pod	RR--7----------	AuxP
+9	značkou	NNFS7-----A----	Adv
+10	ETA	NNFXX-----A---8	Atr
+11	okolo	RR--2----------	AuxP
+12	45	C=-------------	Atr
+13	druhů	NNIP2-----A----	Obj
+14	elektrospotřebičů	NNIP2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	řadě	NNFS6-----A----	AuxP
+17	typů	NNIP2-----A----	Atr
+18	a	J^-------------	Coord
+19	provedení	NNNP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95041-117-p5s2
+1	Vedle	RR--2----------	AuxP
+2	elektrospotřebičů	NNIP2-----A----	Adv
+3	pro	RR--4----------	AuxP
+4	domácnost	NNFS4-----A----	Atr
+5	vyrábí	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	topná	AANP4----1A----	Atr
+8	tělesa	NNNP4-----A----	Obj
+9	pro	RR--4----------	AuxP
+10	průmyslové	AAIP4----1A----	Atr
+11	účely	NNIP4-----A----	Atr
+12	,	Z:-------------	Coord
+13	sporákové	AAFP4----1A----	Atr
+14	plotny	NNFP4-----A----	Obj
+15	aj	AAXXX----1A---8	Obj
+16	.	Z:-------------	AuxG
+
+ln95041-117-p5s3
+1	Pokles	NNIS1-----A----	Sb
+2	prodeje	NNIS2-----A----	Atr
+3	byl	VpYS---XR-AA---	AuxV
+4	zaznamenán	VsYS---XX-AP---	Pred
+5	hlavně	Dg-------1A----	AuxZ
+6	u	RR--2----------	AuxP
+7	topných	AANP2----1A----	Atr
+8	těles	NNNP2-----A----	Adv
+9	a	J^-------------	Coord
+10	audiotechniky	NNFS2-----A----	Adv
+11	vyráběné	AAFS2----1A----	Atr
+12	v	RR--6----------	AuxP
+13	závodě	NNIS6-----A----	Adv
+14	Litovel	NNFS1-----A----	Atr
+15	a	J^-------------	Coord
+16	některých	PZXP2----------	Atr
+17	dalších	AAIP2----1A----	Atr
+18	výrobků	NNIP2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln95041-117-p5s4
+1	Přestože	J,-------------	AuxC
+2	jde	VB-S---3P-AA---	Adv
+3	o	RR--4----------	AuxP
+4	vedlejší	AAFP4----1A----	Atr
+5	výrobní	AAFP4----1A----	Atr
+6	činnosti	NNFP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	pokles	NNIS1-----A----	Sb
+9	prodeje	NNIS2-----A----	Atr
+10	u	RR--2----------	AuxP
+11	nich	P5XP2--3-------	Adv
+12	negativně	Dg-------1A----	Adv
+13	ovlivnil	VpYS---XR-AA---	Pred
+14	celkové	AAFP4----1A----	Atr
+15	tržby	NNFP4-----A----	Obj
+16	podniku	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95041-117-p5s5
+1	Mluvčí	NNMS1-----A----	Sb
+2	podniku	NNIS2-----A----	Atr
+3	upozornil	VpYS---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	skutečnost	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	loni	Db------------1	Adv
+9	bylo	VpNS---XR-AA---	AuxV
+10	na	RR--4----------	AuxP
+11	trh	NNIS4-----A----	Adv
+12	uvedeno	VsNS---XX-AP---	Atr
+13	25	C=-------------	Sb
+14	inovovaných	AAIP2----1A----	Atr
+15	či	J^-------------	Coord
+16	úplně	Dg-------1A----	Adv
+17	nových	AAIP2----1A----	Atr
+18	výrobků	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95041-117-p5s6
+1	Inovace	NNFS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	však	J^-------------	Coord
+4	podle	RR--2----------	AuxP
+5	jeho	PSXXXZS3-------	Atr
+6	slov	NNNP2-----A----	Adv
+7	vyžádala	VpQW---XR-AA---	Pred
+8	vysoké	AAIP4----1A----	Atr
+9	jednorázové	AAIP4----1A----	Atr
+10	náklady	NNIP4-----A----	Obj
+11	nejen	TT-------------	AuxZ
+12	na	RR--4----------	AuxP
+13	technický	AAIS4----1A----	Atr
+14	rozvoj	NNIS4-----A----	Atr
+15	,	Z:-------------	AuxX
+16	ale	J^-------------	Coord
+17	zejména	Db-------------	AuxZ
+18	na	RR--4----------	AuxP
+19	výrobu	NNFS4-----A----	Atr
+20	forem	NNFP2-----A----	Atr
+21	a	J^-------------	Coord
+22	nástrojů	NNIP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95041-117-p5s7
+1	V	RR--6----------	AuxP
+2	letošním	AAIS6----1A----	Atr
+3	roce	NNIS6-----A---1	Adv
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxT
+6	měly	VpTP---XR-AA---	Pred
+7	tyto	PDIP1----------	Atr
+8	náklady	NNIP1-----A----	Sb
+9	projevit	Vf--------A----	Obj
+10	ve	RV--6----------	AuxP
+11	zvýšení	NNNS6-----A----	Adv
+12	růstu	NNIS2-----A----	Atr
+13	obratu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95041-117-p5s8
+1	Letos	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	také	Db-------------	Adv
+4	počítá	VB-S---3P-AA---	Pred
+5	se	RV--7----------	AuxP
+6	zvýšením	NNNS7-----A----	Obj
+7	výroby	NNFS2-----A----	Atr
+8	o	RR--4----------	AuxP
+9	10	C=-------------	Atr
+10	procent	NNNP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95041-117-p6s1
+1	Základní	AANS1----1A----	Atr
+2	jmění	NNNS1-----A----	Sb
+3	společnosti	NNFS2-----A----	Atr
+4	bylo	VpNS---XR-AA---	AuxV
+5	v	RR--6----------	AuxP
+6	loňském	AAIS6----1A----	Atr
+7	roce	NNIS6-----A---1	Adv
+8	úspěšně	Dg-------1A----	Adv
+9	navýšeno	VsNS---XX-AP---	Pred
+10	emisí	NNFS7-----A----	Adv
+11	akcií	NNFP2-----A----	Atr
+12	ve	RV--6----------	AuxP
+13	výši	NNFS6-----A----	Atr
+14	219925	C=-------------	Atr
+15	miliónu	NNIS2-----A----	Atr
+16	korun	NNFP2-----A----	Atr
+17	na	RR--4----------	AuxP
+18	897.7	C=-------------	Obj
+19	miliónu	NNIS2-----A----	Atr
+20	korun	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95041-117-p6s2
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	podnik	NNIS1-----A----	Sb
+5	zaměstnává	VB-S---3P-AA---	Pred
+6	přibližně	Dg-------1A----	AuxZ
+7	4500	C=-------------	Obj
+8	osob	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95041-117-p7s1
+1	Elektro	AAXXX----1A----	Atr
+2	-	Z:-------------	AuxG
+3	Praga	NNFS1-----A----	Sb
+4	byla	VpQW---XR-AA---	AuxV
+5	privatizována	VsQW---XX-AP---	Pred
+6	v	RR--6----------	AuxP
+7	první	CrFS6----------	Atr
+8	vlně	NNFS6-----A----	Adv
+9	kupónové	AAFS2----1A----	Atr
+10	privatizace	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95041-117-p7s2
+1	Investiční	AAIP1----1A----	Atr
+2	fondy	NNIP1-----A----	Sb
+3	vlastní	VB-P---3P-AA---	Pred
+4	72.2	C=-------------	Obj
+5	procenta	NNNS2-----A----	Atr
+6	akcií	NNFP2-----A----	Atr
+7	,	Z:-------------	Coord
+8	přičemž	J,-------------	Adv
+9	nad	RR--4----------	AuxP
+10	deset	Cn-S4----------	Obj
+11	procent	NNNP2-----A----	Atr
+12	drží	VB-P---3P-AA---	Pred
+13	Spořitelní	AAIS1----1A----	Atr
+14	privatizační	AAIS1----1A----	Atr
+15	fond	NNIS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	fondy	NNIP1-----A----	Sb
+18	První	CrFS2----------	Atr
+19	investiční	AAFS2----1A----	Atr
+20	a	J^-------------	Coord
+21	IPF	NNIXX-----A---8	Sb
+22	Komerční	AAFS2----1A----	Atr
+23	banky	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95041-117-p7s3
+1	Individuální	AAMP1----1A----	Atr
+2	investoři	NNMP1-----A----	Sb
+3	vlastní	VB-P---3P-AA---	Pred
+4	zhruba	Db-------------	AuxZ
+5	17	C=-------------	Obj
+6	procenta	NNNS2-----A----	Atr
+7	akcií	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95041-117-p7s4
+1	Zbytek	NNIS1-----A----	Sb
+2	akcií	NNFP2-----A----	Atr
+3	patří	VB-S---3P-AA---	Pred
+4	obcím	NNFP3-----A----	Obj
+5	se	RV--7----------	AuxP
+6	sídly	NNNP7-----A----	Atr
+7	závodů	NNIP2-----A----	Atr
+8	a	J^-------------	Coord
+9	původním	AAMP3----1A----	Atr
+10	majitelům	NNMP3-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95041-117-p8s1
+1	Akcie	NNFP1-----A----	Sb
+2	Elektro	AAXXX----1A----	Atr
+3	-	Z:-------------	AuxG
+4	Pragy	NNFS2-----A----	Atr
+5	Hlinsko	NNNS1-----A----	Atr
+6	byly	VpTP---XR-AA---	AuxV
+7	v	RR--6----------	AuxP
+8	červnu	NNIS6-----A----	Adv
+9	loňského	AAIS2----1A----	Atr
+10	roku	NNIS2-----A---1	Atr
+11	uvedeny	VsTP---XX-AP---	Pred
+12	na	RR--4----------	AuxP
+13	kotovaný	AAIS4----1A----	Atr
+14	trh	NNIS4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95041-117-p8s2
+1	Na	RR--6----------	AuxP
+2	burze	NNFS6-----A----	Adv
+3	dnes	Db-------------	Adv
+4	stojí	VB-P---3P-AA---	Pred
+5	1595	C=-------------	Obj
+6	Kč	NNFXX-----A----	Atr
+7	,	Z:-------------	AuxX
+8	minimum	NNNS1-----A----	Sb
+9	v	RR--6----------	AuxP
+10	posledním	AAIS6----1A----	Atr
+11	roce	NNIS6-----A---1	AtrAdv
+12	bylo	VpNS---XR-AA---	Pred
+13	1580	C=-------------	Pnom
+14	a	J^-------------	Coord
+15	maximum	NNNS1-----A----	ExD
+16	4075	C=-------------	ExD
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+

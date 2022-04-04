@@ -1,0 +1,101 @@
+mf920902-153-p1s1
+1	Parlament	NNIS1-----A----	Sb
+2	přešetří	VB-S---3P-AA---	Pred
+3	prezidentovu	AUFS4M---------	Atr
+4	vinu	NNFS4-----A----	Obj
+
+mf920902-153-p2s1
+1	BRAZÍLIE	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf920902-153-p3s1
+1	Parlament	NNIS1-----A----	Sb
+2	přešetří	VB-S---3P-AA---	Pred
+3	prezidentovu	AUFS4M---------	Atr
+4	vinu	NNFS4-----A----	Obj
+
+mf920902-153-p4s1
+1	Brasília	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920902-153-p4s2
+1	Nejvyšší	AAIS1----3A----	Atr
+2	federální	AAIS1----1A----	Atr
+3	soud	NNIS1-----A----	Sb
+4	a	J^-------------	Coord
+5	Brazilské	AANS1----1A----	Atr
+6	tiskové	AANS1----1A----	Atr
+7	sdružení	NNNS1-----A----	Sb
+8	včera	Db-------------	Adv
+9	formálně	Dg-------1A----	Adv
+10	požádaly	VpTP---XR-AA---	Pred
+11	parlament	NNIS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	aby	J,-------------	AuxC
+14	projednal	VpYS---XR-AA---	Obj
+15	obvinění	NNNS4-----A----	Obj
+16	proti	RR--3----------	AuxP
+17	prezidentovi	NNMS3-----A----	Atr
+18	Fernandu	NNMS3-----A---1	Atr
+19	Collorovi	NNMS3-----A----	Atr
+20	de	RR--1----------	Atr
+21	Mello	NNMS1-----A----	Atr
+22	kvůli	RR--3----------	AuxP
+23	"	Z:-------------	AuxG
+24	ztrátě	NNFS3-----A----	Atr
+25	morálních	AAFP2----1A----	Atr
+26	hodnot	NNFP2-----A----	Atr
+27	"	Z:-------------	AuxG
+28	.	Z:-------------	AuxK
+
+mf920902-153-p4s3
+1	Žádost	NNFS1-----A----	Sb
+2	otevírá	VB-S---3P-AA---	Pred
+3	parlamentu	NNIS3-----A----	Obj
+4	cestu	NNFS4-----A----	Obj
+5	k	RR--3----------	AuxP
+6	zahájení	NNNS3-----A----	Atr
+7	procesu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	by	Vc-------------	AuxV
+11	mohl	VpYS---XR-AA---	Atr
+12	vést	Vf--------A----	Obj
+13	k	RR--3----------	AuxP
+14	prezidentovu	AUNS3M---------	Atr
+15	sesazení	NNNS3-----A----	Adv
+16	.	Z:-------------	AuxK
+
+mf920902-153-p4s4
+1	Collor	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	obviňován	VsYS---XX-AP---	Pred
+4	ze	RV--2----------	AuxP
+5	získání	NNNS2-----A----	Obj
+6	více	Dg-------2A----	Obj
+7	než	J,-------------	AuxC
+8	šesti	Cn-P2----------	Adv
+9	miliónů	NNIP2-----A----	Atr
+10	dolarů	NNIP2-----A----	Atr
+11	na	RR--6----------	AuxP
+12	úplatcích	NNIP6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920902-153-p4s5
+1	V	RR--6----------	AuxP
+2	nedělním	AAIS6----1A----	Atr
+3	televizním	AAIS6----1A----	Atr
+4	projevu	NNIS6-----A----	Adv
+5	přiznal	VpYS---XR-AA---	Pred
+6	"	Z:-------------	AuxG
+7	chyby	NNFP4-----A----	Obj
+8	"	Z:-------------	AuxG
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	odmítl	VpYS---XR-AA--1	Pred
+12	obvinění	NNNS4-----A----	Obj
+13	z	RR--2----------	AuxP
+14	porušování	NNNS2-----A----	Atr
+15	zákona	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+

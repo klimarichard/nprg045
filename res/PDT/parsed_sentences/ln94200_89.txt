@@ -1,0 +1,93 @@
+ln94200-89-p1s1
+1	Úplatek	NNIS1-----A----	ExD
+2	za	RR--4----------	AuxP
+3	miliony	NNIP4-----A----	Atr
+
+ln94200-89-p2s1A
+1	Špindlerův	AUIS1M---------	Atr
+2	Mlýn	NNIS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	jop	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+ln94200-89-p2s1B
+1	Vedoucí	NNMS1-----A----	Sb
+2	jedné	ClFS2----------	Atr
+3	podnikové	AAFS2----1A----	Atr
+4	chaty	NNFS2-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	Špindlerově	AUIS6M---------	Atr
+7	Mlýně	NNIS6-----A----	Atr
+8	,	Z:-------------	Apos
+9	51	C=-------------	Adv
+10	letý	AAMS1----1A----	Atr
+11	D	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	Z	NNMXX-----A---8	Sb
+14	.	Z:-------------	AuxG
+15	,	Z:-------------	AuxX
+16	je	VB-S---3P-AA---	AuxV
+17	stíhán	VsYS---XX-AP---	Pred
+18	pro	RR--4----------	AuxP
+19	podvod	NNIS4-----A----	Adv
+20	a	J^-------------	Coord
+21	vyžadování	NNNS4-----A----	Adv
+22	úplatku	NNIS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94200-89-p2s2
+1	Nejdříve	Dg-------3A----	Adv
+2	totiž	Db-------------	AuxY
+3	upravil	VpYS---XR-AA---	Pred
+4	fakturu	NNFS4-----A----	Obj
+5	a	J^-------------	Coord
+6	vyinkasoval	VpYS---XR-AA---	Pred
+7	pro	RR--4----------	AuxP
+8	vlastní	AAFS4----1A----	Atr
+9	potřebu	NNFS4-----A----	Adv
+10	50000	C=-------------	Obj
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94200-89-p2s3
+1	Dále	Db------------1	Adv
+2	při	RR--6----------	AuxP
+3	nedávném	AANS6----1N----	Atr
+4	jednání	NNNS6-----A----	Adv
+5	o	RR--6----------	AuxP
+6	pronájmu	NNIS6-----A----	Atr
+7	objektu	NNIS2-----A----	Atr
+8	ve	RV--6----------	AuxP
+9	Starých	AAIP6----1A----	Atr
+10	Splavech	NNIP6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	patří	VB-S---3P-AA---	Atr
+14	firmě	NNFS3-----A----	Obj
+15	,	Z:-------------	AuxX
+16	u	RR--2----------	AuxP
+17	níž	P9FS2----------	Adv
+18	byl	VpYS---XR-AA---	AuxV
+19	zaměstnán	VsYS---XX-AP---	Atr
+20	,	Z:-------------	AuxX
+21	požadoval	VpYS---XR-AA---	Pred
+22	na	RR--6----------	AuxP
+23	zájemci	NNMS6-----A----	Obj
+24	o	RR--4----------	AuxP
+25	pronájem	NNIS4-----A----	Atr
+26	,	Z:-------------	Apos
+27	50	C=-------------	Adv
+28	letém	AAMS6----1A----	Atr
+29	R	NNMXX-----A---8	Atr
+30	.	Z:-------------	AuxG
+31	M	NNMXX-----A---8	Obj
+32	.	Z:-------------	AuxG
+33	z	RR--2----------	AuxP
+34	Prahy	NNFS2-----A----	Atr
+35	,	Z:-------------	AuxX
+36	úplatek	NNIS4-----A----	Obj
+37	2	C=-------------	Atr
+38	miliony	NNIP4-----A----	Atr
+39	.	Z:-------------	AuxK
+

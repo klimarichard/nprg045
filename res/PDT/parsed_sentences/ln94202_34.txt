@@ -1,0 +1,262 @@
+ln94202-34-p1s1
+1	Roční	AAFS1----1A----	Atr
+2	léčba	NNFS1-----A----	Sb
+3	pacienta	NNMS2-----A----	Atr
+4	trpícího	AGMS2-----A----	Atr
+5	AIDS	NNIXX-----A---8	Obj
+6	stojí	VB-S---3P-AA---	Pred
+7	asi	TT-------------	AuxZ
+8	tři	ClXP4----------	Atr
+9	čtvrtě	NNFP4-----A----	Obj
+10	milionu	NNIS2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+
+ln94202-34-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pech	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94202-34-p2s1B
+1	Imunologický	AAIS1----1A----	Atr
+2	stav	NNIS1-----A----	Sb
+3	každého	AAMS2----1A----	Atr
+4	pacienta	NNMS2-----A----	Atr
+5	nakaženého	AAMS2----1A----	Atr
+6	virem	NNIS7-----A----	Obj
+7	HIV	NNIXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	způsobuje	VB-S---3P-AA---	Atr
+11	onemocnění	NNNS4-----A----	Obj
+12	AIDS	NNIS1-----A----	Atr
+13	,	Z:-------------	AuxX
+14	by	Vc-------------	AuxV
+15	měl	VpYS---XR-AA---	Pred
+16	být	Vf--------A----	AuxV
+17	pečlivě	Dg-------1A----	Adv
+18	a	J^-------------	Coord
+19	pravidelně	Dg-------1A----	Adv
+20	sledován	VsYS---XX-AP---	Obj
+21	.	Z:-------------	AuxK
+
+ln94202-34-p2s2
+1	Všechny	PLIP1----------	Atr
+2	případy	NNIP1-----A----	Sb
+3	musí	VB-P---3P-AA--1	Pred
+4	být	Vf--------A----	AuxV
+5	evidovány	VsTP---XX-AP---	Obj
+6	.	Z:-------------	AuxK
+
+ln94202-34-p3s1
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	informací	NNFP2-----A----	Adv
+5	Marie	NNFS2-----A----	Atr
+6	Brůčkové	NNFS2-----A----	Atr
+7	z	RR--2----------	AuxP
+8	Národní	AAFS2----1A----	Atr
+9	referenční	AAFS2----1A----	Atr
+10	laboratoře	NNFS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	AIDS	NNIXX-----A---8	Atr
+13	.	Z:-------------	AuxK
+
+ln94202-34-p3s2
+1	Těmto	PDXP3----------	Atr
+2	lidem	NNMP3-----A----	Obj
+3	slouží	VB-P---3P-AA---	Pred
+4	tzv	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	AIDS	NNIXX-----A---8	Atr
+7	centra	NNNP1-----A----	Sb
+8	na	RR--6----------	AuxP
+9	infekčních	AAFP6----1A----	Atr
+10	klinikách	NNFP6-----A----	Atr
+11	krajských	AAFP2----1A----	Atr
+12	nemocnic	NNFP2-----A----	Atr
+13	zabývající	AGNP1-----A----	Atr
+14	se	P7-X4----------	AuxT
+15	péčí	NNFS7-----A----	Obj
+16	o	RR--4----------	AuxP
+17	postižené	AAMP4----1A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94202-34-p3s3
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	takové	PDNS1----------	Atr
+5	centrum	NNNS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	nemocnici	NNFS6-----A----	Adv
+8	na	RR--6----------	AuxP
+9	Bulovce	NNFS6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94202-34-p4s1
+1	Lékaři	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	většinou	Db-------------	Adv
+4	snaží	VB-P---3P-AA---	Pred
+5	co	Db-------------	Adv
+6	nejdéle	Dg-------3A----	Adv
+7	držet	Vf--------A----	Obj
+8	pacienta	NNMS4-----A----	Obj
+9	v	RR--6----------	AuxP
+10	domácím	AANS6----1A----	Atr
+11	ošetření	NNNS6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94202-34-p4s2
+1	Pacient	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	například	Db-------------	AuxY
+4	neschopný	AAMS1----1N----	Pnom
+5	se	P7-X4----------	AuxT
+6	sám	PLYS1----------	AtvV
+7	o	RR--4----------	AuxP
+8	sebe	P6-X4----------	Obj
+9	postarat	Vf--------A----	Obj
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	odbornou	AAFS4----1A----	Atr
+13	lékařskou	AAFS4----1A----	Atr
+14	péči	NNFS4-----A----	Obj
+15	přitom	Db-------------	Adv
+16	nepotřebuje	VB-S---3P-NA---	Pred
+17	.	Z:-------------	AuxK
+
+ln94202-34-p4s3
+1	Je	VB-S---3P-AA---	Obj
+2	pro	RR--4----------	AuxP
+3	něj	P5ZS4--3-------	Adv
+4	i	J^-------------	AuxZ
+5	z	RR--2----------	AuxP
+6	psychologického	AANS2----1A----	Atr
+7	hlediska	NNNS2-----A----	Adv
+8	lepší	AAFS1----2A----	Pnom
+9	domácí	AAFS1----1A----	Atr
+10	péče	NNFS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	tzv	AAXXX----1A---8	Apos
+13	.	Z:-------------	AuxG
+14	home	AAXXX----1A----	Atr
+15	care	NNFXX-----A----	Sb
+16	,	Z:-------------	AuxX
+17	řekla	VpQW---XR-AA---	Pred
+18	M	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	Brůčková	NNFS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+ln94202-34-p4s4
+1	K	RR--3----------	AuxP
+2	pacientům	NNMP3-----A----	Adv
+3	mohou	VB-P---3P-AA--1	Pred
+4	přicházet	Vf--------A----	Obj
+5	ošetřovatelé	NNMP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	tato	PDFS1----------	Atr
+8	péče	NNFS1-----A----	Sb
+9	je	VB-S---3P-AA---	Pred
+10	však	J^-------------	Coord
+11	ekonomicky	Dg-------1A----	Adv
+12	náročná	AAFS1----1A----	Pnom
+13	.	Z:-------------	AuxK
+
+ln94202-34-p5s1
+1	Odborníci	NNMP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	nemocnicích	NNFP6-----A----	Atr
+4	léčí	VB-P---3P-AA---	Pred
+5	nejenom	Db-------------	AuxZ
+6	hlavní	AAFP4----1A----	Atr
+7	příčiny	NNFP4-----A----	Obj
+8	onemocnění	NNNS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	zaměřují	VB-P---3P-AA---	Pred
+12	se	P7-X4----------	AuxT
+13	i	J^-------------	AuxZ
+14	na	RR--4----------	AuxP
+15	vedlejší	AAIP4----1A----	Atr
+16	projevy	NNIP4-----A----	Obj
+17	plynoucí	AGIP4-----A----	Atr
+18	z	RR--2----------	AuxP
+19	reakcí	NNFP2-----A----	Adv
+20	oslabeného	AAIS2----1A----	Atr
+21	imunitního	AAIS2----1A----	Atr
+22	systému	NNIS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94202-34-p5s2
+1	Podstatou	NNFS7-----A----	Pnom
+2	léčby	NNFS2-----A----	Atr
+3	AIDS	NNIXX-----A---8	Atr
+4	není	VB-S---3P-NA---	Pred
+5	pouze	Db-------------	AuxZ
+6	podávání	NNNS1-----A----	Sb
+7	AZT	NNIXX-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	léčba	NNFS1-----A----	Sb
+11	všech	PLXP2----------	Atr
+12	ostatních	AAFP2----1A----	Atr
+13	nemocí	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kterými	P4XP7----------	Obj
+16	takový	PDYS1----------	Atr
+17	člověk	NNMS1-----A----	Sb
+18	trpí	VB-S---3P-AA---	Atr
+19	.	Z:-------------	AuxK
+
+ln94202-34-p5s3
+1	Podle	RR--2----------	AuxP
+2	M	NNFXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Brůčkové	NNFS2-----A----	Adv
+5	lékaři	NNMP1-----A----	Sb
+6	sledující	AGMP1-----A----	Atr
+7	imunologický	AAIS4----1A----	Atr
+8	stav	NNIS4-----A----	Obj
+9	pacienta	NNMS2-----A----	Atr
+10	vědí	VB-P---3P-AA--1	Pred
+11	,	Z:-------------	AuxX
+12	čím	PQ--7----------	Obj
+13	by	Vc-------------	AuxV
+14	mohl	VpYS---XR-AA---	Obj
+15	být	Vf--------A----	AuxV
+16	ohrožen	VsYS---XX-AP---	Obj
+17	,	Z:-------------	AuxX
+18	a	J^-------------	Coord
+19	proto	J^-------------	AuxY
+20	mu	PHZS3--3-------	Obj
+21	preventivně	Dg-------1A----	Adv
+22	podávají	VB-P---3P-AA---	Pred
+23	léky	NNIP4-----A----	Obj
+24	proti	RR--3----------	AuxP
+25	infekčním	AANP3----1A----	Atr
+26	onemocněním	NNNP3-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94202-34-p5s4
+1	Odhaduje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	roční	AAFS1----1A----	Atr
+6	léčba	NNFS1-----A----	Sb
+7	pacienta	NNMS2-----A----	Atr
+8	trpícího	AGMS2-----A----	Atr
+9	AIDS	NNIXX-----A---8	Obj
+10	stojí	VB-S---3P-AA---	Sb
+11	asi	TT-------------	AuxZ
+12	tři	ClXP4----------	Obj
+13	čtvrtě	NNFP4-----A----	Atr
+14	milionu	NNIS2-----A----	Atr
+15	korun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+

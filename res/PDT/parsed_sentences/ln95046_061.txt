@@ -1,0 +1,127 @@
+ln95046-061-p1s1
+1	Izrael	NNIS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	odmítání	NNNS1-----A----	Sb
+4	rozvodu	NNIS2-----A----	Atr
+5	trestáno	VsNS---XX-AP---	Pred
+
+ln95046-061-p2s1A
+1	Jeruzalém	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-061-p2s1B
+1	Izraelský	AAIS1----1A----	Atr
+2	parlament	NNIS1-----A----	Sb
+3	v	RR--4----------	AuxP
+4	úterý	NNNS4-----A----	Adv
+5	v	RR--6----------	AuxP
+6	nočních	AAFP6----1A----	Atr
+7	hodinách	NNFP6-----A----	Adv
+8	schválil	VpYS---XR-AA---	Pred
+9	nový	AAIS4----1A----	Atr
+10	zákon	NNIS4-----A----	Obj
+11	postihující	AGIS4-----A----	Atr
+12	muže	NNMP4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	kteří	P4MP1----------	Sb
+15	se	P7-X4----------	AuxT
+16	odmítají	VB-P---3P-AA---	Atr
+17	rozvést	Vf--------A----	Obj
+18	se	RV--7----------	AuxP
+19	svými	P8XP7----------	Atr
+20	manželkami	NNFP7-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln95046-061-p2s2
+1	Judaismus	NNIS1-----A----	Sb
+2	sice	Db-------------	AuxY
+3	umožňuje	VB-S---3P-AA---	Pred
+4	při	RR--6----------	AuxP
+5	rozvodovém	AANS6----1A----	Atr
+6	řízení	NNNS6-----A----	Adv
+7	manželovi	NNMS3-----A----	Obj
+8	poslední	AANS4----1A----	Atr
+9	slovo	NNNS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	od	RR--2----------	AuxP
+12	nynějška	NNIS2-----A----	Adv
+13	mají	VB-P---3P-AA---	Pred
+14	však	J^-------------	Coord
+15	civilní	AAIP1----1A----	Atr
+16	soudy	NNIP1-----A----	Sb
+17	ve	RV--6----------	AuxP
+18	snaze	NNFS6-----A----	Adv
+19	napomoci	Vf--------A---1	Atr
+20	ženám	NNFP3-----A----	Obj
+21	,	Z:-------------	AuxX
+22	které	P4FP1----------	Sb
+23	chtějí	VB-P---3P-AA---	Atr
+24	ukončit	Vf--------A----	Obj
+25	své	P8NS4---------1	Atr
+26	manželství	NNNS4-----A----	Obj
+27	,	Z:-------------	AuxX
+28	možnost	NNFS4-----A----	Obj
+29	použití	NNNS2-----A----	Atr
+30	celé	AAFS2----1A----	Atr
+31	škály	NNFS2-----A----	Atr
+32	sankcí	NNFP2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln95046-061-p2s3
+1	Jedná	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	například	Db-------------	AuxY
+4	o	RR--4----------	AuxP
+5	odebrání	NNNS4-----A----	Obj
+6	šekových	AAFP2----1A----	Atr
+7	knížek	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	pasů	NNIP2-----A----	Atr
+10	a	J^-------------	Coord
+11	řidičských	AAIP2----1A----	Atr
+12	průkazů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95046-061-p2s4
+1	Jestliže	J,-------------	AuxC
+2	všechna	PLNP1----------	Atr
+3	tato	PDNP1----------	Atr
+4	opatření	NNNP1-----A----	Sb
+5	selžou	VB-P---3P-AA---	Adv
+6	,	Z:-------------	AuxX
+7	soudy	NNIP1-----A----	Sb
+8	mohou	VB-P---3P-AA--1	Pred
+9	uvěznit	Vf--------A----	Obj
+10	muže	NNMS4-----A----	Obj
+11	až	TT-------------	AuxZ
+12	na	RR--4----------	AuxP
+13	deset	Cn-S4----------	Adv
+14	let	NNNP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-061-p2s5
+1	Zástupce	NNMS1-----A----	Atr
+2	levicové	AAFS2----1A----	Atr
+3	strany	NNFS2-----A----	Atr
+4	Merec	NNXXX-----A----	Atr
+5	Dedi	NNMS1-----A----	Atr
+6	Zucker	NNMS1-----A----	Sb
+7	se	P7-X4----------	AuxT
+8	o	RR--6----------	AuxP
+9	novém	AAIS6----1A----	Atr
+10	zákonu	NNIS6-----A---1	Obj
+11	vyjádřil	VpYS---XR-AA---	Pred
+12	v	RR--6----------	AuxP
+13	tom	PDZS6----------	Atr
+14	smyslu	NNIS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	"	Z:-------------	AuxG
+18	zmodernizoval	VpYS---XR-AA---	Atr
+19	legislativu	NNFS4-----A----	Obj
+20	starou	AAFS4----1A----	Atr
+21	tisíc	NNIS4-----A----	Adv
+22	let	NNNP2-----A----	Atr
+23	"	Z:-------------	AuxG
+24	.	Z:-------------	AuxK
+

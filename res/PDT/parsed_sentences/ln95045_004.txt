@@ -1,0 +1,441 @@
+ln95045-004-p1s1
+1	Nespravedlivý	AAIS1----1N----	Atr
+2	pocit	NNIS1-----A----	ExD
+3	neviny	NNFS2-----A----	Atr
+
+ln95045-004-p2s1A
+1	Poslední	AANS1----1A----	Atr
+2	slovo	NNNS1-----A----	ExD
+
+ln95045-004-p2s1B
+1	Případ	NNIS1-----A----	Sb
+2	smrti	NNFS2-----A----	Atr
+3	politického	AAMS2----1A----	Atr
+4	vězně	NNMS2-----A----	Atr
+5	Pavla	NNMS2-----A----	Atr
+6	Wonky	NNMS2-----A----	Atr
+7	ve	RV--6----------	AuxP
+8	vězení	NNNS6-----A----	Atr
+9	v	RR--6----------	AuxP
+10	roce	NNIS6-----A---1	Atr
+11	1988	C=-------------	Atr
+12	se	P7-X4----------	AuxT
+13	dnes	Db-------------	Adv
+14	znova	Db-------------	Adv
+15	vrací	VB-S---3P-AA---	Pred
+16	do	RR--2----------	AuxP
+17	povědomí	NNNS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln95045-004-p2s2
+1	Krutost	NNFS1-----A----	Sb
+2	a	J^-------------	Coord
+3	právní	AAFS1----1A----	Atr
+4	nekulturnost	NNFS1-----A----	Sb
+5	komunistického	AAIS2----1A----	Atr
+6	režimu	NNIS2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	projevila	VpQW---XR-AA---	Pred
+9	právě	Db-------------	AuxZ
+10	v	RR--6----------	AuxP
+11	tomto	PDZS6----------	Atr
+12	případě	NNIS6-----A----	Adv
+13	neospravedlnitelným	AAIS7----1N----	Atr
+14	způsobem	NNIS7-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95045-004-p3s1
+1	Paní	NNFS1-----A----	Atr
+2	soudkyně	NNFS1-----A----	Atr
+3	Marcela	NNFS1-----A----	Atr
+4	Horváthová	NNFS1-----A----	Sb
+5	byla	VpQW---XR-AA---	Pred
+6	posledním	AAIS7----1A----	Atr
+7	článkem	NNIS7-----A----	Pnom
+8	oné	PDFS2----------	Atr
+9	nekulturnosti	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	právní	AAFS2----1A----	Atr
+12	netečnosti	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	lidského	AAIS2----1A----	Atr
+15	nezájmu	NNIS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4IP1----------	Sb
+18	dokonaly	VpTP---XR-AA---	Atr
+19	likvidaci	NNFS4-----A----	Obj
+20	člověka	NNMS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-004-p3s2
+1	Přijmout	Vf--------A----	Sb
+2	na	RR--4----------	AuxP
+3	sebe	P6-X4----------	Adv
+4	soudcovskou	AAFS4----1A----	Atr
+5	odpovědnost	NNFS4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	totalitním	AAIS6----1A----	Atr
+8	systému	NNIS6-----A----	AtrAdv
+9	je	VB-S---3P-AA---	Pred
+10	mravní	AANS1----1A----	Atr
+11	riziko	NNNS1-----A----	Pnom
+12	.	Z:-------------	AuxK
+
+ln95045-004-p3s3
+1	Kdo	PKM-1----------	Sb
+2	je	PPNS4--3-------	Obj
+3	na	RR--4----------	AuxP
+4	sebe	P6-X4----------	Adv
+5	vzal	VpYS---XR-AA---	Sb
+6	,	Z:-------------	AuxX
+7	měl	VpYS---XR-AA---	Pred
+8	a	J^-------------	Coord
+9	musel	VpYS---XR-AA---	Pred
+10	vědět	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	může	VB-S---3P-AA---	Obj
+14	narazit	Vf--------A----	Obj
+15	na	RR--4----------	AuxP
+16	právní	AAIS4----1A----	Atr
+17	případ	NNIS4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	třeba	Db-------------	AuxZ
+20	jediný	AAIS4----1A----	Atr
+21	,	Z:-------------	AuxX
+22	kterým	P4ZS7----------	Adv
+23	se	P7-X4----------	Obj
+24	diskvalifikuje	VB-S---3P-AA---	Atr
+25	-	Z:-------------	AuxG
+26	morálně	Dg-------1A----	Adv
+27	,	Z:-------------	AuxX
+28	politicky	Dg-------1A----	Adv
+29	a	J^-------------	Coord
+30	snad	Db-------------	AuxY
+31	i	J^-------------	AuxZ
+32	osudově	Dg-------1A----	Adv
+33	"	Z:-------------	AuxG
+34	nespravedlivě	Dg-------1N----	Adv
+35	"	Z:-------------	AuxG
+36	,	Z:-------------	AuxX
+37	ale	J^-------------	Coord
+38	přesto	Dg-------1A----	ExD
+39	!	Z:-------------	AuxK
+
+ln95045-004-p3s4
+1	Mohl	VpYS---XR-AA---	Pred
+2	člověk	NNMS1-----A----	Sb
+3	vůbec	Db-------------	AuxZ
+4	chtít	Vf--------A----	Obj
+5	být	Vf--------A----	Obj
+6	soudcem	NNMS7-----A----	Pnom
+7	v	RR--6----------	AuxP
+8	komunisty	NNMP7-----A----	Obj
+9	ovládané	AAFS6----1A----	Atr
+10	společnosti	NNFS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	aniž	J,-------------	AuxC
+13	by	Vc-------------	AuxV
+14	se	P7-X4----------	AuxT
+15	smířil	VpYS---XR-AA---	Adv
+16	s	RR--7----------	AuxP
+17	vědomím	NNNS7-----A----	Obj
+18	,	Z:-------------	AuxX
+19	že	J,-------------	AuxC
+20	bude	VB-S---3F-AA---	AuxV
+21	sloužit	Vf--------A----	Atr
+22	především	Db-------------	AuxZ
+23	režimu	NNIS3-----A----	Obj
+24	a	J^-------------	Coord
+25	jeho	PSXXXZS3-------	Atr
+26	přáním	NNNP3-----A----	Obj
+27	,	Z:-------------	AuxX
+28	a	J^-------------	Coord
+29	nemusel	VpYS---XR-NA---	Adv
+30	zapomenout	Vf--------A----	Obj
+31	na	RR--4----------	AuxP
+32	soudcovskou	AAFS4----1A----	Atr
+33	nezávislost	NNFS4-----N----	Obj
+34	?	Z:-------------	AuxK
+
+ln95045-004-p4s1
+1	V	RR--6----------	AuxP
+2	televizním	AAIS6----1A----	Atr
+3	pořadu	NNIS6-----A----	Adv
+4	Respektování	NNNS1-----A----	Atr
+5	v	RR--6----------	AuxP
+6	loňském	AAIS6----1A----	Atr
+7	roce	NNIS6-----A---1	AdvAtr
+8	zaujala	VpQW---XR-AA---	Pred
+9	paní	NNFS1-----A----	Atr
+10	Horváthová	NNFS1-----A----	Sb
+11	,	Z:-------------	Apos
+12	soudkyně	NNFS1-----A----	Sb
+13	s	RR--7----------	AuxP
+14	andělsky	Dg-------1A----	Adv
+15	nevinnou	AAFS7----1N----	Atr
+16	tváří	NNFS7-----A----	Atr
+17	,	Z:-------------	AuxX
+18	nechápavý	AAIS4----1N----	Atr
+19	postoj	NNIS4-----A----	Obj
+20	:	Z:-------------	AuxG
+21	jak	J,-------------	Adv
+22	jí	PPFS3--3-------	Obj
+23	může	VB-S---3P-AA---	Atr
+24	vůbec	Db-------------	AuxZ
+25	někdo	PZM-1----------	Sb
+26	dávat	Vf--------A----	Obj
+27	nějakou	PZFS4----------	Atr
+28	vinu	NNFS4-----A----	Obj
+29	,	Z:-------------	Coord
+30	jednala	VpQW---XR-AA---	Atr
+31	přece	Db-------------	AuxY
+32	podle	RR--2----------	AuxP
+33	právních	AAFP2----1A----	Atr
+34	regulí	NNFP2-----A----	Adv
+35	a	J^-------------	Coord
+36	ničeho	PW--2----------	Obj
+37	neetického	AANS2----1N----	Atr
+38	se	P7-X4----------	AuxT
+39	nedopustila	VpQW---XR-NA---	Atr
+40	.	Z:-------------	AuxK
+
+ln95045-004-p4s2
+1	Že	J,-------------	AuxC
+2	svým	P8ZS7----------	Atr
+3	rozhodnutím	NNNS7-----A----	Adv
+4	ponechat	Vf--------A----	Atr
+5	těžce	Dg-------1A----	Adv
+6	fyzicky	Dg-------1A----	Adv
+7	i	J^-------------	Coord
+8	duševně	Dg-------1A----	Adv
+9	poškozeného	AAMS4----1A----	Atr
+10	odpůrce	NNMS4-----A----	Obj
+11	totalitního	AAIS2----1A----	Atr
+12	režimu	NNIS2-----A----	Atr
+13	ve	RV--6----------	AuxP
+14	vězení	NNNS6-----A----	Adv
+15	jej	PPZS4--3------2	Obj
+16	vlastně	Db-------------	AuxY
+17	odsoudila	VpQW---XR-AA---	Atr
+18	i	J^-------------	AuxZ
+19	k	RR--3----------	AuxP
+20	smrti	NNFS3-----A----	Obj
+21	,	Z:-------------	AuxX
+22	to	PDNS4----------	Obj
+23	nechce	VB-S---3P-NA---	Pred
+24	připustit	Vf--------A----	Obj
+25	.	Z:-------------	AuxK
+
+ln95045-004-p4s3
+1	A	J^-------------	AuxY
+2	přece	Db-------------	Coord
+3	stačilo	VpNS---XR-AA---	Pred
+4	jediné	AANS1----1A----	Sb
+5	,	Z:-------------	Apos
+6	vzít	Vf--------A----	Sb
+7	v	RR--4----------	AuxP
+8	potaz	NNIS4-----A----	Obj
+9	političnost	NNFS4-----A----	Obj
+10	případu	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	na	RR--4----------	AuxP
+13	který	P4IS4----------	Adv
+14	ovšem	J^-------------	AuxY
+15	nelze	VB-S---3P-NA---	Atr
+16	uplatňovat	Vf--------A----	Sb
+17	strohost	NNFS4-----A----	Obj
+18	právní	AAFS2----1A----	Atr
+19	normy	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-004-p4s4
+1	A	J^-------------	Coord
+2	ani	J^-------------	AuxZ
+3	po	RR--6----------	AuxP
+4	listopadu	NNIS6-----A----	Adv
+5	nenašla	VpQW---XR-NA---	Pred
+6	v	RR--6----------	AuxP
+7	sobě	P6-X6----------	Adv
+8	dost	Dg-------1A----	Obj
+9	soudnosti	NNFS2-----A----	Atr
+10	a	J^-------------	Coord
+11	mravního	AAIS2----1A----	Atr
+12	citu	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	z	RR--2----------	AuxP
+16	vlastního	AANS2----1A----	Atr
+17	rozhodnutí	NNNS2-----A----	Adv
+18	,	Z:-------------	AuxX
+19	i	J^-------------	AuxZ
+20	třeba	Db-------------	AuxZ
+21	na	RR--4----------	AuxP
+22	čas	NNIS4-----A----	Adv
+23	,	Z:-------------	AuxX
+24	odešla	VpQW---XR-AA---	Adv
+25	ze	RV--2----------	AuxP
+26	soudcovského	AANS2----1A----	Atr
+27	povolání	NNNS2-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln95045-004-p4s5
+1	My	PP-P1--1-------	Sb
+2	bychom	Vc-P---1-------	AuxV
+3	se	P7-X4----------	AuxT
+4	dnes	Db-------------	Adv
+5	nemuseli	VpMP---XR-NA---	Pred
+6	k	RR--3----------	AuxP
+7	její	PSFSXFS3-------	Atr
+8	osobě	NNFS3-----A----	Adv
+9	vracet	Vf--------A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95045-004-p5s1
+1	Pavlův	AUMS1M---------	Atr
+2	bratr	NNMS1-----A----	Atr
+3	Jiří	NNMS1-----A----	Atr
+4	Wonka	NNMS1-----A----	Sb
+5	neunesl	VpYS---XR-NA---	Pred
+6	tíhu	NNFS4-----A----	Obj
+7	dávné	AAFS2----1A----	Atr
+8	nespravedlnosti	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	vloni	Db-------------	Adv
+11	písemně	Dg-------1A----	Adv
+12	soudkyni	NNFS4-----A----	Atr
+13	Horváthovou	NNFS4-----A----	Obj
+14	napadl	VpYS---XR-AA--1	Pred
+15	.	Z:-------------	AuxK
+
+ln95045-004-p5s2
+1	To	PDNS1----------	Sb
+2	bylo	VpNS---XR-AA---	Pred
+3	pro	RR--4----------	AuxP
+4	změnu	NNFS4-----A----	Adv
+5	riziko	NNNS1-----A----	Pnom
+6	Jiřího	NNMS2-----A----	Atr
+7	Wonky	NNMS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95045-004-p5s3
+1	Chtít	Vf--------A----	Sb
+2	napravit	Vf--------A----	Obj
+3	v	RR--6----------	AuxP
+4	demokratické	AAFS6----1A----	Atr
+5	společnosti	NNFS6-----A----	Adv
+6	předlistopadovou	AAFS4----1A----	Atr
+7	nespravedlnost	NNFS4-----A----	Obj
+8	hrubostí	NNFS7-----A----	Adv
+9	a	J^-------------	Coord
+10	urážkou	NNFS7-----A----	Adv
+11	nelze	VB-S---3P-NA---	Pred
+12	.	Z:-------------	AuxK
+
+ln95045-004-p5s4
+1	Paní	NNFS1-----A----	Atr
+2	soudkyně	NNFS1-----A----	Sb
+3	zaujala	VpQW---XR-AA---	Pred
+4	stejně	Dg-------1A----	Adv
+5	neústupný	AAIS4----1N----	Atr
+6	postoj	NNIS4-----A----	Obj
+7	a	J^-------------	Coord
+8	pana	NNMS4-----A----	Atr
+9	Wonku	NNMS4-----A----	Obj
+10	zažalovala	VpQW---XR-AA---	Pred
+11	.	Z:-------------	AuxK
+
+ln95045-004-p5s5
+1	Jiří	NNMS1-----A----	Atr
+2	Wonka	NNMS1-----A----	Sb
+3	nedokázal	VpYS---XR-NA---	Pred
+4	nic	PW--4----------	Obj
+5	rozumnějšího	AANS2----2A----	Atr
+6	než	J,-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	vyhýbat	Vf--------A----	Adv
+9	doručení	NNNS3-----A----	Obj
+10	trestního	AANS2----1A----	Atr
+11	obvinění	NNNS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	tím	PDZS7----------	AuxY
+15	možnosti	NNFS3-----A----	Obj
+16	projednat	Vf--------A----	Atr
+17	žalobu	NNFS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95045-004-p5s6
+1	K	RR--3----------	AuxP
+2	dovršení	NNNS3-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	prý	TT-------------	AuxY
+5	bránil	VpYS---XR-AA---	Pred
+6	při	RR--6----------	AuxP
+7	zatýkání	NNNS6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln95045-004-p5s7
+1	A	J^-------------	Coord
+2	druhá	CrFS1----------	Atr
+3	strana	NNFS1-----A----	Sb
+4	,	Z:-------------	Apos
+5	JUDr	NNFXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Horváthová	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	neústupně	Dg-------1A----	Adv
+10	a	J^-------------	Coord
+11	zatvrzele	Dg-------1A----	Adv
+12	trvá	VB-S---3P-AA---	Pred
+13	na	RR--6----------	AuxP
+14	svém	P8ZS6----------	Atr
+15	pojetí	NNNS6-----A----	Obj
+16	právního	AAIS2----1A----	Atr
+17	étosu	NNIS2-----A----	Atr
+18	rozhodnutím	NNNS7-----A----	Adv
+19	obhajovat	Vf--------A----	Atr
+20	svou	P8FS4---------1	Atr
+21	čest	NNFS4-----A----	Obj
+22	žalobou	NNFS7-----A----	Adv
+23	vůči	RR--3----------	AuxP
+24	Jiřímu	NNMS3-----A----	Atr
+25	Wonkovi	NNMS3-----A----	Atr
+26	s	RR--7----------	AuxP
+27	myšlenkou	NNFS7-----A----	Adv
+28	,	Z:-------------	AuxX
+29	že	J,-------------	AuxC
+30	snad	Db-------------	AuxY
+31	tím	PDZS7----------	Adv
+32	také	Db-------------	Adv
+33	potvrdí	VB-S---3P-AA---	Atr
+34	svou	P8FS4---------1	Adv
+35	nevinu	NNFS4-----A----	Obj
+36	v	RR--6----------	AuxP
+37	případě	NNIS6-----A----	Adv
+38	jeho	PSXXXZS3-------	Atr
+39	bratra	NNMS2-----A----	Atr
+40	.	Z:-------------	AuxK
+
+ln95045-004-p5s8
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	pokračující	AGFS1-----A----	Atr
+4	obdivuhodná	AAFS1----1A----	Atr
+5	netečnost	NNFS1-----A----	Pnom
+6	.	Z:-------------	AuxK
+
+ln95045-004-p5s9
+1	Slušná	AAFS1----1A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	paní	NNFS4-----A----	Atr
+4	soudkyni	NNFS4-----A----	Atr
+5	Marcelu	NNFS4-----A----	Atr
+6	Horváthovou	NNFS4-----A----	Obj
+7	neospravedlní	VB-S---3P-NA---	Pred
+8	a	J^-------------	Coord
+9	její	PSNS4FS3-------	Atr
+10	chování	NNNS4-----A----	Obj
+11	nepřijme	VB-S---3P-NA---	Pred
+12	.	Z:-------------	AuxK
+

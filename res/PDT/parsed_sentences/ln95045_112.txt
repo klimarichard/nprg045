@@ -1,0 +1,163 @@
+ln95045-112-p1s1
+1	Produkce	NNFS1-----A----	Sb
+2	oceli	NNFS2-----A---1	Atr
+3	stoupla	VpQW---XR-AA--1	Pred
+
+ln95045-112-p2s1A
+1	Krok	NNIS4-----A----	Obj
+2	drží	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	východní	AAFS1----1A----	Atr
+5	Evropa	NNFS1-----A----	Sb
+6	bez	RR--2----------	AuxP
+7	bývalého	AAIS2----1A----	Atr
+8	SSSR	NNIXX-----A---8	Atr
+
+ln95045-112-p2s1B
+1	Brusel	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-112-p2s1C
+1	Celková	AAFS1----1A----	Atr
+2	světová	AAFS1----1A----	Atr
+3	produkce	NNFS1-----A----	Sb
+4	surové	AAFS2----1A----	Atr
+5	oceli	NNFS2-----A---1	Atr
+6	v	RR--6----------	AuxP
+7	lednu	NNIS6-----A----	Adv
+8	vzrostla	VpQW---XR-AA---	Pred
+9	na	RR--4----------	AuxP
+10	60.7	C=-------------	Obj
+11	miliónu	NNIS2-----A----	Atr
+12	tun	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	o	RR--4----------	AuxP
+15	6.9	C=-------------	Adv
+16	procenta	NNNS2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	meziročním	AANS6----1A----	Atr
+19	porovnání	NNNS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-112-p2s2
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	v	RR--4----------	AuxP
+4	pondělí	NNNS4-----A----	Adv
+5	Mezinárodní	AAIS1----1A----	Atr
+6	ústav	NNIS1-----A----	Sb
+7	pro	RR--4----------	AuxP
+8	železo	NNNS4-----A----	Atr
+9	a	J^-------------	Coord
+10	ocel	NNFS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95045-112-p3s1
+1	V	RR--6----------	AuxP
+2	západní	AAFS6----1A----	Atr
+3	Evropě	NNFS6-----A----	Adv
+4	jako	J,-------------	AuxY
+5	celku	NNIS6-----A----	Atv
+6	stoupla	VpQW---XR-AA--1	Pred
+7	produkce	NNFS1-----A----	Sb
+8	oceli	NNFS2-----A---1	Atr
+9	o	RR--4----------	AuxP
+10	12	C=-------------	Adv
+11	procent	NNNP2-----A----	Atr
+12	na	RR--4----------	AuxP
+13	14.5	C=-------------	Obj
+14	miliónu	NNIS2-----A----	Atr
+15	tun	NNFP2-----A----	Atr
+16	a	J^-------------	Coord
+17	v	RR--6----------	AuxP
+18	Evropské	AAFS6----1A----	Atr
+19	unii	NNFS6-----A----	ExD
+20	o	RR--4----------	AuxP
+21	11.5	C=-------------	ExD
+22	procenta	NNNS2-----A----	Atr
+23	na	RR--4----------	AuxP
+24	13.3	C=-------------	ExD
+25	miliónu	NNIS2-----A----	Atr
+26	tun	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95045-112-p4s1
+1	V	RR--6----------	AuxP
+2	porovnání	NNNS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	výsledky	NNIP7-----A----	Adv
+5	ledna	NNIS2-----A----	Atr
+6	1994	C=-------------	Atr
+7	byla	VpQW---XR-AA---	Pred
+8	produkce	NNFS1-----A----	Sb
+9	oceli	NNFS2-----A---1	Atr
+10	v	RR--6----------	AuxP
+11	USA	NNIPX-----A----	AtrAdv
+12	letos	Db-------------	Adv
+13	o	RR--4----------	AuxP
+14	11	C=-------------	Adv
+15	procent	NNNP2-----A----	Atr
+16	vyšší	AAFS1----2A----	Pnom
+17	a	J^-------------	Coord
+18	dosáhla	VpQW---XR-AA---	Pred
+19	8.1	C=-------------	Obj
+20	miliónu	NNIS2-----A----	Atr
+21	tun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95045-112-p5s1
+1	Ve	RV--6----------	AuxP
+2	východní	AAFS6----1A----	Atr
+3	Evropě	NNFS6-----A----	Adv
+4	bez	RR--2----------	AuxP
+5	bývalého	AAIS2----1A----	Atr
+6	SSSR	NNIXX-----A---8	Atr
+7	dosáhla	VpQW---XR-AA---	Pred
+8	celková	AAFS1----1A----	Atr
+9	produkce	NNFS1-----A----	Sb
+10	surové	AAFS2----1A----	Atr
+11	oceli	NNFS2-----A---1	Atr
+12	2.6	C=-------------	Obj
+13	miliónu	NNIS2-----A----	Atr
+14	tun	NNFP2-----A----	Atr
+15	,	Z:-------------	Apos
+16	o	RR--4----------	AuxP
+17	8.6	C=-------------	Adv
+18	procenta	NNNS2-----A----	Atr
+19	víc	Dg-------2A---1	Obj
+20	než	J,-------------	AuxC
+21	před	RR--7----------	AuxP
+22	rokem	NNIS7-----A----	ExD
+23	,	Z:-------------	AuxX
+24	zatímco	J,-------------	AuxC
+25	celková	AAFS1----1A----	Atr
+26	produkce	NNFS1-----A----	Sb
+27	v	RR--6----------	AuxP
+28	bývalých	AAIP6----1A----	Atr
+29	státech	NNIP6-----A----	Atr
+30	SSSR	NNIXX-----A---8	Atr
+31	klesla	VpQW---XR-AA--1	Adv
+32	na	RR--4----------	AuxP
+33	6.1	C=-------------	Obj
+34	miliónu	NNIS2-----A----	Atr
+35	tun	NNFP2-----A----	Atr
+36	,	Z:-------------	AuxX
+37	o	RR--4----------	AuxP
+38	3.9	C=-------------	Adv
+39	procenta	NNNS2-----A----	Atr
+40	v	RR--6----------	AuxP
+41	meziročním	AANS6----1A----	Atr
+42	porovnání	NNNS6-----A----	Atr
+43	,	Z:-------------	AuxX
+44	ale	J^-------------	Coord
+45	byla	VpQW---XR-AA---	Adv
+46	o	RR--4----------	AuxP
+47	3.4	C=-------------	Adv
+48	procenta	NNNS2-----A----	Atr
+49	vyšší	AAFS1----2A----	Pnom
+50	než	J,-------------	AuxC
+51	v	RR--6----------	AuxP
+52	prosinci	NNIS6-----A----	ExD
+53	1994	C=-------------	Atr
+54	.	Z:-------------	AuxK
+

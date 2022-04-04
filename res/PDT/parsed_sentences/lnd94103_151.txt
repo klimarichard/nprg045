@@ -1,0 +1,201 @@
+lnd94103-151-p1s1
+1	Sto	ClXP2----------	ExD
+2	osmdesát	Cn-S1----------	Atr
+3	slovenských	AAIP2----1A----	Atr
+4	podniků	NNIP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	likvidaci	NNFS6-----A----	ExD
+
+lnd94103-151-p1s2
+1	Bratislava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94103-151-p1s3
+1	Na	RR--6----------	AuxP
+2	Slovensku	NNNS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	nyní	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	likvidaci	NNFS6-----A----	Adv
+7	sto	ClXP1----------	Sb
+8	osmdesát	Cn-S1----------	Atr
+9	státních	AAIP2----1A----	Atr
+10	podniků	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jejichž	P1XXXXP3-------	Atr
+13	zakladatelem	NNMS7-----A----	Pnom
+14	je	VB-S---3P-AA---	Atr
+15	ministerstvo	NNNS1-----A----	Sb
+16	hospodářství	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd94103-151-p1s4
+1	Ve	RV--6----------	AuxP
+2	včerejším	AAIS6----1A----	Atr
+3	rozhovoru	NNIS6-----A----	Adv
+4	s	RR--7----------	AuxP
+5	ČTK	NNFXX-----A---8	Atr
+6	to	PDNS4----------	Obj
+7	uvedl	VpYS---XR-AA---	Pred
+8	ministr	NNMS1-----A----	Atr
+9	hospodářství	NNNS2-----A----	Atr
+10	Peter	NNMS1-----A----	Atr
+11	Magvaši	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+lnd94103-151-p1s5
+1	Prohlásil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	hodlá	VB-S---3P-AA---	Obj
+5	urychlit	Vf--------A----	Obj
+6	likvidaci	NNFS4-----A----	Obj
+7	neperspektivních	AAFP2----1N----	Atr
+8	státních	AAFP2----1A----	Atr
+9	firem	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94103-151-p1s6
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	některých	PZXP6----------	Atr
+4	odvětvích	NNNP6-----A----	Adv
+5	,	Z:-------------	AuxX
+6	jakým	P4ZS7----------	Pnom
+7	je	VB-S---3P-AA---	Atr
+8	například	Db-------------	AuxY
+9	maloobchod	NNIS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	se	P7-X4----------	AuxT
+12	již	Db-------------	Adv
+13	není	VB-S---3P-NA---	Obj
+14	o	RR--6----------	AuxP
+15	čem	PQ--6----------	Obj
+16	bavit	Vf--------A----	Sb
+17	,	Z:-------------	AuxX
+18	"	Z:-------------	AuxG
+19	dodal	VpYS---XR-AA---	Pred
+20	.	Z:-------------	AuxK
+
+lnd94103-151-p1s7
+1	Magvaši	NNMS1-----A----	Sb
+2	potvrdil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	ministerstvo	NNNS1-----A----	Sb
+6	hospodářství	NNNS2-----A----	Atr
+7	soustavně	Dg-------1A----	Adv
+8	aktualizuje	VB-S---3P-AA---	Obj
+9	seznam	NNIS4-----A----	Obj
+10	podniků	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4IP1----------	Sb
+13	jsou	VB-P---3P-AA---	Atr
+14	v	RR--6----------	AuxP
+15	obtížné	AAFS6----1A----	Atr
+16	hospodářské	AAFS6----1A----	Atr
+17	situaci	NNFS6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+lnd94103-151-p1s8
+1	Tyto	PDIP1----------	Atr
+2	podniky	NNIP1-----A----	Sb
+3	předkládají	VB-P---3P-AA---	Pred
+4	ministerstvu	NNNS3-----A----	Obj
+5	sanační	AAIP4----1A----	Atr
+6	programy	NNIP4-----A----	Obj
+7	a	J^-------------	Coord
+8	ministerstvo	NNNS1-----A----	Sb
+9	po	RR--6----------	AuxP
+10	analýze	NNFS6-----A----	Adv
+11	rozhoduje	VB-S---3P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	zda	J,-------------	AuxC
+14	půjdou	VB-P---3F-AA---	Obj
+15	do	RR--2----------	AuxP
+16	likvidace	NNFS2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+lnd94103-151-p1s9
+1	Podle	RR--2----------	AuxP
+2	vládních	AAIP2----1A----	Atr
+3	údajů	NNIP2-----A----	Adv
+4	až	TT-------------	AuxZ
+5	57.5	C=-------------	Sb
+6	procenta	NNNS2-----A----	Atr
+7	slovenských	AAIP2----1A----	Atr
+8	podniků	NNIP2-----A----	Atr
+9	na	RR--6----------	AuxP
+10	konci	NNIS6-----A----	Adv
+11	loňského	AAIS2----1A----	Atr
+12	roku	NNIS2-----A---1	Atr
+13	vykazovalo	VpNS---XR-AA---	Pred
+14	ztrátu	NNFS4-----A----	Obj
+15	v	RR--6----------	AuxP
+16	celkové	AAFS6----1A----	Atr
+17	výši	NNFS6-----A----	Atr
+18	42.5	C=-------------	Atr
+19	miliardy	NNFS2-----A----	Atr
+20	Sk	NNFXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+lnd94103-151-p1s10
+1	To	PDNS1----------	Sb
+2	způsobilo	VpNS---XR-AA---	Pred
+3	nárůst	NNIS4-----A----	Obj
+4	platební	AAFS2----1A----	Atr
+5	neschopnosti	NNFS2-----A----	Atr
+6	a	J^-------------	Coord
+7	zablokování	NNNS4-----A----	Obj
+8	finančních	AAIP2----1A----	Atr
+9	toků	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94103-151-p1s11
+1	"	Z:-------------	AuxG
+2	Ztráta	NNFS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	loňském	AAIS6----1A----	Atr
+5	roce	NNIS6-----A---1	Atr
+6	nemusí	VB-S---3P-NA---	Obj
+7	ještě	Db-------------	Adv
+8	znamenat	Vf--------A----	Obj
+9	neschopnost	NNFS4-----A----	Obj
+10	oživení	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	dalšího	AAIS2----1A----	Atr
+13	rozvoje	NNIS2-----A----	Atr
+14	podniku	NNIS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	"	Z:-------------	AuxG
+17	řekl	VpYS---XR-AA---	Pred
+18	Magvaši	NNMS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+lnd94103-151-p1s12
+1	Zdůraznil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	proces	NNIS1-----A----	Sb
+5	likvidace	NNFS2-----A----	Atr
+6	podniků	NNIP2-----A----	Atr
+7	nemůže	VB-S---3P-NA---	Obj
+8	probíhat	Vf--------A----	Obj
+9	plošně	Dg-------1A----	Adv
+10	a	J^-------------	Coord
+11	musí	VB-S---3P-AA---	Obj
+12	vycházet	Vf--------A----	Obj
+13	z	RR--2----------	AuxP
+14	analýzy	NNFS2-----A----	Adv
+15	hospodářské	AAFS2----1A----	Atr
+16	situace	NNFS2-----A----	Atr
+17	s	RR--7----------	AuxP
+18	ohledem	NNIS7-----A----	AuxP
+19	na	RR--4----------	AuxP
+20	sociální	AAIP4----1A----	Atr
+21	dopady	NNIP4-----A----	Adv
+22	v	RR--6----------	AuxP
+23	jednotlivých	AAIP6----1A----	Atr
+24	regionech	NNIP6-----A----	Atr
+25	.	Z:-------------	AuxK
+

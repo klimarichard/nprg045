@@ -1,0 +1,285 @@
+ln95049-039-p1s1
+1	Ohlasy	NNIP1-----A----	ExD
+2	Ohlasy	NNIP1-----A----	ExD
+3	Ohlasy	NNIP1-----A----	ExD
+
+ln95049-039-p2s1
+1	Č	AAXXX----1A---8	Atr
+2	.	Z:-------------	AuxG
+3	Budějovice	NNFP1-----A----	ExD
+4	-	Z:-------------	Coord
+5	Olomouc	NNFS1-----A----	ExD
+6	(	Z:-------------	AuxG
+7	4	C=-------------	ExD
+8	:	Z:-------------	Coord
+9	5	C=-------------	ExD
+10	)	Z:-------------	AuxG
+11	,	Z:-------------	Coord
+12	Vladimír	NNMS1-----A----	Atr
+13	Caldr	NNMS1-----A----	ExD
+14	,	Z:-------------	Apos
+15	trenér	NNMS1-----A----	ExD
+16	Č	AAXXX----1A---8	Atr
+17	.	Z:-------------	AuxG
+18	Budějovic	NNFP2-----A----	Atr
+19	:	Z:-------------	AuxG
+20	"	Z:-------------	AuxG
+21	Bylo	VpNS---XR-AA---	ExD
+22	to	PDNS1----------	Sb
+23	vyrovnané	AANS1----1A----	Atr
+24	utkání	NNNS1-----A----	Pnom
+25	,	Z:-------------	Coord
+26	ve	RV--6----------	AuxP
+27	druhé	CrFS6----------	Atr
+28	třetině	CyFS6----------	Adv
+29	jsme	VB-P---1P-AA---	AuxV
+30	sice	Db-------------	AuxY
+31	měli	VpMP---XR-AA---	ExD
+32	tlak	NNIS4-----A----	Obj
+33	,	Z:-------------	AuxX
+34	ale	J^-------------	Coord
+35	pouze	Db-------------	AuxZ
+36	jsme	VB-P---1P-AA---	AuxV
+37	srovnávali	VpMP---XR-AA---	ExD
+38	nepříznivý	AAIS4----1N----	Atr
+39	stav	NNIS4-----A----	Obj
+40	.	Z:-------------	AuxK
+41	"	Z:-------------	AuxG
+
+ln95049-039-p2s2
+1	Josef	NNMS1-----A----	Atr
+2	Augusta	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	trenér	NNMS1-----A----	ExD
+5	Olomouce	NNFS2-----A----	Atr
+6	:	Z:-------------	AuxG
+7	"	Z:-------------	AuxG
+8	Setkala	VpQW---XR-AA---	ExD
+9	se	P7-X4----------	AuxT
+10	dvě	ClHP1----------	Atr
+11	silná	AANP1----1A----	Atr
+12	mužstva	NNNP1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	která	P4NP1----------	Sb
+15	potvrzují	VB-P---3P-AA---	Atr
+16	svou	P8FS4---------1	Atr
+17	výkonnost	NNFS4-----A----	Obj
+18	v	RR--6----------	AuxP
+19	celé	AAFS6----1A----	Atr
+20	lize	NNFS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln95049-039-p2s3
+1	My	PP-P1--1-------	Sb
+2	jsme	VB-P---1P-AA---	AuxV
+3	hráli	VpMP---XR-AA---	Pred
+4	výborně	Dg-------1A----	Adv
+5	a	J^-------------	Coord
+6	disciplinovaně	Dg-------1A----	Adv
+7	.	Z:-------------	AuxK
+8	"	Z:-------------	AuxG
+
+ln95049-039-p2s4
+1	Plzeň	NNFS1-----A----	ExD
+2	-	Z:-------------	Apos
+3	Kladno	NNNS1-----A----	ExD
+4	(	Z:-------------	AuxG
+5	1	C=-------------	ExD
+6	:	Z:-------------	Coord
+7	4	C=-------------	ExD
+8	)	Z:-------------	AuxG
+9	,	Z:-------------	Coord
+10	Karel	NNMS1-----A----	Atr
+11	Trachta	NNMS1-----A----	ExD
+12	,	Z:-------------	Apos
+13	trenér	NNMS1-----A----	ExD
+14	Plzně	NNFS2-----A----	Atr
+15	:	Z:-------------	AuxG
+16	"	Z:-------------	AuxG
+17	Ze	RV--2----------	AuxP
+18	začátku	NNIS2-----A----	Adv
+19	utkání	NNNS2-----A----	Atr
+20	jsme	VB-P---1P-AA---	AuxV
+21	hráli	VpMP---XR-AA---	ExD
+22	hokej	NNIS4-----A----	Obj
+23	tak	Db-------------	Adv
+24	,	Z:-------------	AuxX
+25	jako	J,-------------	AuxC
+26	kdyby	J,-------------	AuxC
+27	se	P7-X4----------	AuxT
+28	nám	PP-P3--1-------	Obj
+29	nemohlo	VpNS---XR-NA---	Adv
+30	nic	PW--1----------	Sb
+31	stát	Vf--------A----	Obj
+32	.	Z:-------------	AuxK
+
+ln95049-039-p2s5
+1	Od	RR--2----------	AuxP
+2	50	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	minuty	NNFS2-----A----	Adv
+5	jsme	VB-P---1P-AA---	AuxV
+6	teprve	Db-------------	Adv
+7	přitvrdili	VpMP---XR-AA---	Pred
+8	a	J^-------------	Coord
+9	začali	VpMP---XR-AA---	Pred
+10	hrát	Vf--------A----	Obj
+11	hru	NNFS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	jakou	P4FS4----------	Obj
+14	umíme	VB-P---1P-AA---	Atr
+15	.	Z:-------------	AuxK
+16	"	Z:-------------	AuxG
+
+ln95049-039-p2s6
+1	Jan	NNMS1-----A----	Atr
+2	Neliba	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	trenér	NNMS1-----A----	ExD
+5	Kladna	NNNS2-----A----	Atr
+6	:	Z:-------------	AuxG
+7	"	Z:-------------	AuxG
+8	Ze	RV--2----------	AuxP
+9	začátku	NNIS2-----A----	Adv
+10	utkání	NNNS2-----A----	Atr
+11	bylo	VpNS---XR-AA---	AuxV
+12	vidět	Vf--------A----	ExD
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	obě	ClHP1----------	Atr
+16	mužstva	NNNP1-----A----	Sb
+17	mají	VB-P---3P-AA---	Obj
+18	play	NNFXX-----A----	Atr
+19	off	TT-------------	Obj
+20	zajištěnou	AAFS4----1A----	Atv
+21	.	Z:-------------	AuxK
+
+ln95049-039-p2s7
+1	Bylo	VpNS---XR-AA---	Pred
+2	málo	Ca--1----------	Sb
+3	osobních	AAIP2----1A----	Atr
+4	soubojů	NNIP2-----A----	Atr
+5	a	J^-------------	Coord
+6	nasazení	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+8	"	Z:-------------	AuxG
+
+ln95049-039-p2s8
+1	Zlín	NNIS1-----A----	ExD
+2	-	Z:-------------	Coord
+3	Vsetín	NNIS1-----A----	ExD
+4	(	Z:-------------	AuxG
+5	1	C=-------------	ExD
+6	:	Z:-------------	Coord
+7	5	C=-------------	ExD
+8	)	Z:-------------	AuxG
+9	,	Z:-------------	Coord
+10	Vladimír	NNMS1-----A----	Atr
+11	Vůjtek	NNMS1-----A----	ExD
+12	,	Z:-------------	Coord
+13	trenér	NNMS1-----A----	ExD
+14	Zlína	NNIS2-----A----	Atr
+15	:	Z:-------------	AuxG
+16	"	Z:-------------	AuxG
+17	Dostali	VpMP---XR-AA---	ExD
+18	jsme	VB-P---1P-AA---	AuxV
+19	lekci	NNFS4-----A----	Obj
+20	hokejové	AAFS2----1A----	Atr
+21	jednoduchosti	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95049-039-p2s9
+1	Jsme	VB-P---1P-AA---	Pred
+2	nyní	Db-------------	Adv
+3	v	RR--6----------	AuxP
+4	útlumu	NNIS6-----A----	Adv
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	věřím	VB-S---1P-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	to	PDNS1----------	Sb
+12	zlepší	VB-S---3P-AA---	Obj
+13	.	Z:-------------	AuxK
+14	"	Z:-------------	AuxG
+
+ln95049-039-p2s10
+1	Horst	NNMS1-----A----	Atr
+2	Valášek	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	trenér	NNMS1-----A----	ExD
+5	Vsetína	NNIS2-----A----	Atr
+6	:	Z:-------------	AuxG
+7	"	Z:-------------	AuxG
+8	Kdo	PKM-1----------	Sb
+9	dnes	Db-------------	Adv
+10	přišel	VpYS---XR-AA---	Sb
+11	,	Z:-------------	AuxX
+12	musel	VpYS---XR-AA---	ExD
+13	být	Vf--------A----	Obj
+14	spokojen	ACYS------A----	Pnom
+15	.	Z:-------------	AuxK
+
+ln95049-039-p2s11
+1	Hrál	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	hokej	NNIS1-----A----	Sb
+4	vysoké	AAFS2----1A----	Atr
+5	úrovně	NNFS2-----A----	Atr
+6	,	Z:-------------	Coord
+7	po	RR--6----------	AuxP
+8	vstřelení	NNNS6-----A----	Adv
+9	třetí	CrFS2----------	Atr
+10	branky	NNFS2-----A----	Atr
+11	jsme	VB-P---1P-AA---	AuxV
+12	byli	VpMP---XR-AA---	Pred
+13	pány	NNMP7-----A----	Pnom
+14	na	RR--6----------	AuxP
+15	ledě	NNIS6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95049-039-p2s12
+1	Řekl	VpYS---XR-AA---	Pred
+2	bych	Vc-S---1-------	AuxV
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	ač	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	mužstvu	NNNS6-----A----	Adv
+8	máme	VB-P---1P-AA---	Adv
+9	jen	TT-------------	AuxZ
+10	jednoho	ClMS4----------	Atr
+11	reprezentanta	NNMS4-----A----	Obj
+12	,	Z:-------------	Apos
+13	brankáře	NNMS4-----A----	Atr
+14	Čechmánka	NNMS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	viděl	VpYS---XR-AA---	Obj
+17	jsem	VB-S---1P-AA---	AuxV
+18	jich	PPXP2--3-------	Atr
+19	v	RR--6----------	AuxP
+20	našem	PSZS6-P1-------	Atr
+21	mužstvu	NNNS6-----A----	Adv
+22	tentokrát	Db-------------	Adv
+23	pět	Cn-S4----------	Obj
+24	.	Z:-------------	AuxK
+
+ln95049-039-p2s13
+1	Byli	VpMP---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ještě	Db-------------	AuxZ
+4	obránce	NNMS1-----A----	Atr
+5	Antonín	NNMS1-----A----	Atr
+6	Stavjaňa	NNMS1-----A----	Pnom
+7	a	J^-------------	Coord
+8	v	RR--6----------	AuxP
+9	útoku	NNIS6-----A----	Atr
+10	Sršeň	NNMS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	Mařák	NNMS1-----A----	Sb
+13	a	J^-------------	Coord
+14	Smeták	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+16	"	Z:-------------	AuxG
+

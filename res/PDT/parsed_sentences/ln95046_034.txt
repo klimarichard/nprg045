@@ -1,0 +1,427 @@
+ln95046-034-p1s1
+1	S	RR--7----------	AuxP
+2	výzvou	NNFS7-----A----	ExD
+3	k	RR--3----------	AuxP
+4	fair	AAXXX----1A----	Atr
+5	play	NNFXX-----A----	Atr
+6	do	RR--2----------	AuxP
+7	ligy	NNFS2-----A----	ExD
+
+ln95046-034-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-034-p2s1B
+1	S	RR--7----------	AuxP
+2	heslem	NNNS7-----A----	Adv
+3	Fair	AAXXX----1A----	Atr
+4	play	NNFXX-----A----	Atr
+5	na	RR--6----------	AuxP
+6	hřišti	NNNS6-----A----	AtrAtr
+7	i	J^-------------	Coord
+8	v	RR--6----------	AuxP
+9	životě	NNIS6-----A----	AtrAtr
+10	jde	VB-S---3P-AA---	Pred
+11	do	RR--2----------	AuxP
+12	jarní	AAFS2----1A----	Atr
+13	části	NNFS2-----A----	Adv
+14	fotbalové	AAFS2----1A----	Atr
+15	ligy	NNFS2-----A----	Atr
+16	Ligová	AAFS1----1A----	Atr
+17	komise	NNFS1-----A----	Sb
+18	ČMFS	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+
+ln95046-034-p2s2
+1	Zda	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	budou	VB-P---3F-AA---	AuxV
+4	výzvou	NNFS7-----A----	Obj
+5	řídit	Vf--------A----	Obj
+6	všichni	PLMP1----------	Atr
+7	hráči	NNMP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	funkcionáři	NNMP1-----A----	Sb
+10	i	J^-------------	Coord
+11	rozhodčí	NNMP1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	naznačí	VB-S---3P-AA---	Pred
+14	již	Db-------------	AuxZ
+15	úvodní	AAIS1----1A----	Atr
+16	zápas	NNIS1-----A----	Sb
+17	šestnáctého	CrNS2----------	Atr
+18	kola	NNNS2-----A----	Atr
+19	Boby	NNIP1-----A----	Atr
+20	Brno	NNNS1-----A----	Atr
+21	-	Z:-------------	Coord
+22	Slavia	NNFS1-----A---1	Atr
+23	,	Z:-------------	AuxX
+24	který	P4YS1----------	Sb
+25	se	P7-X4----------	AuxR
+26	hraje	VB-S---3P-AA---	Atr
+27	zítra	Db-------------	Adv
+28	.	Z:-------------	AuxK
+
+ln95046-034-p3s1
+1	Právě	Db-------------	AuxZ
+2	zahajovací	AANS4----1A----	Atr
+3	utkání	NNNS4-----A----	Obj
+4	jarní	AAFS2----1A----	Atr
+5	sezóny	NNFS2-----A----	Atr
+6	přitom	Db-------------	Adv
+7	komise	NNFS1-----A----	Sb
+8	zařadila	VpQW---XR-AA---	Pred
+9	do	RR--2----------	AuxP
+10	kategorie	NNFS2-----A----	Adv
+11	rizikových	AANP2----1A----	ExD
+12	.	Z:-------------	AuxK
+
+ln95046-034-p3s2
+1	Zesílená	AANP1----1A----	Atr
+2	opatření	NNNP1-----A----	Sb
+3	budou	VB-P---3F-AA---	AuxV
+4	provázet	Vf--------A----	Pred
+5	i	J^-------------	AuxZ
+6	střetnutí	NNNS4-----A----	Obj
+7	Liberec	NNIS1-----A----	Atr
+8	-	Z:-------------	Coord
+9	Brno	NNNS1-----A----	Atr
+10	(	Z:-------------	ExD
+11	17	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	kolo	NNNS1-----A----	ExD
+14	)	Z:-------------	ExD
+15	,	Z:-------------	AuxX
+16	Brno	NNNS1-----A----	Atr
+17	-	Z:-------------	Coord
+18	Ostrava	NNFS1-----A----	Atr
+19	(	Z:-------------	ExD
+20	19	C=-------------	ExD
+21	.	Z:-------------	AuxG
+22	)	Z:-------------	ExD
+23	a	J^-------------	Coord
+24	Žižkov	NNIS1-----A----	Atr
+25	-	Z:-------------	Coord
+26	Sparta	NNFS1-----A----	Atr
+27	(	Z:-------------	ExD
+28	19	C=-------------	ExD
+29	.	Z:-------------	AuxG
+30	)	Z:-------------	ExD
+31	.	Z:-------------	AuxK
+
+ln95046-034-p3s3
+1	Dohoda	NNFS1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	jarní	AAFS6----1A----	Atr
+4	termínové	AAFS6----1A----	Atr
+5	listině	NNFS6-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	obešla	VpQW---XR-AA---	Pred
+8	bez	RR--2----------	AuxP
+9	dohadů	NNIP2-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95046-034-p3s4
+1	"	Z:-------------	AuxG
+2	Byli	VpMP---XR-AA---	Pred
+3	jsme	VB-P---1P-AA---	AuxV
+4	hotovi	ACMP------A----	Pnom
+5	snad	Db-------------	AuxZ
+6	za	RR--4----------	AuxP
+7	dvacet	Cn-S4----------	Adv
+8	minut	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95046-034-p3s5A
+1	To	PDNS4----------	Obj
+2	jsem	VB-S---1P-AA---	AuxV
+3	ještě	Db-------------	Adv
+4	nezažil	VpYS---XR-NA---	Obj
+5	,	Z:-------------	AuxX
+6	"	Z:-------------	AuxG
+7	řekl	VpYS---XR-AA---	Pred
+8	sekretář	NNMS1-----A----	Atr
+9	Ligové	AAFS2----1A----	Atr
+10	komise	NNFS2-----A----	Atr
+11	František	NNMS1-----A----	Atr
+12	Sahula	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln95046-034-p3s5B
+1	Proti	RR--3----------	AuxP
+2	losu	NNIS3-----A----	Adv
+3	,	Z:-------------	AuxX
+4	který	P4IS4----------	Obj
+5	jsme	VB-P---1P-AA---	AuxV
+6	otiskly	VpTP---XR-AA--1	Atr
+7	v	RR--6----------	AuxP
+8	úterních	AAFP6----1A----	Atr
+9	LN	NNFPX-----A---8	Adv
+10	,	Z:-------------	AuxX
+11	došlo	VpNS---XR-AA---	Pred
+12	ještě	Db-------------	AuxZ
+13	v	RR--6----------	AuxP
+14	několika	Ca--6----------	Atr
+15	případech	NNIP6-----A----	Adv
+16	ke	RV--3----------	AuxP
+17	změnám	NNFP3-----A----	Obj
+18	hracích	AAIP2----1A----	Atr
+19	časů	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95046-034-p3s6
+1	Nové	AAIP4----1A----	Atr
+2	termíny	NNIP4-----A----	Obj
+3	uvádíme	VB-P---1P-AA---	Pred
+4	.	Z:-------------	AuxK
+
+ln95046-034-p3s7
+1	Případné	AAIP1----1A----	Atr
+2	další	AAIP1----1A----	Atr
+3	posuny	NNIP1-----A----	Sb
+4	hrozí	VB-P---3P-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	26	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	kole	NNNS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	jemuž	PJZS3----------	Obj
+11	předchází	VB-S---3P-AA---	Atr
+12	semifinále	NNNS1-----A----	Sb
+13	Poháru	NNIS2-----A----	Atr
+14	ČMFS	NNIXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-034-p3s8
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	v	RR--6----------	AuxP
+4	něm	P5ZS6--3-------	Adv
+5	hrály	VpTP---XR-AA---	Adv
+6	Drnovice	NNFP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	odpadl	VpYS---XR-AA--1	Pred
+9	by	Vc-------------	AuxV
+10	páteční	AAIS1----1A----	Atr
+11	televizní	AAIS1----1A----	Atr
+12	přenos	NNIS1-----A----	Sb
+13	z	RR--2----------	AuxP
+14	utkání	NNNS2-----A----	Atr
+15	Drnovice	NNFP1-----A----	Atr
+16	-	Z:-------------	Coord
+17	Brno	NNNS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95046-034-p3s9
+1	V	RR--6----------	AuxP
+2	jednání	NNNS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	rovněž	Db-------------	Adv
+5	televizní	AAIS1----1A----	Atr
+6	přenos	NNIS1-----A----	Sb
+7	ze	RV--2----------	AuxP
+8	zápasu	NNIS2-----A----	Atr
+9	Žižkov	NNIS1-----A----	Atr
+10	-	Z:-------------	Coord
+11	Slavia	NNFS1-----A---1	Atr
+12	v	RR--4----------	AuxP
+13	neděli	NNFS4-----A----	Atr
+14	21	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	května	NNIS2-----A----	Atr
+17	dopoledne	Db-------------	Atr
+18	.	Z:-------------	AuxK
+
+ln95046-034-p4s1
+1	Ačkoliv	J,-------------	AuxC
+2	druhá	CrFS1----------	Atr
+3	liga	NNFS1-----A----	Sb
+4	začíná	VB-S---3P-AA---	Adv
+5	s	RR--7----------	AuxP
+6	týdenním	AANS7----1A----	Atr
+7	zpožděním	NNNS7-----A----	Adv
+8	vůči	RR--3----------	AuxP
+9	první	CrFS3----------	ExD
+10	,	Z:-------------	AuxX
+11	s	RR--7----------	AuxP
+12	ohledem	NNIS7-----A----	AuxP
+13	na	RR--4----------	AuxP
+14	rovnost	NNFS4-----A----	Adv
+15	podmínek	NNFP2-----A----	Atr
+16	skončí	VB-P---3P-AA---	Pred
+17	obě	ClHP1----------	Atr
+18	soutěže	NNFP1-----A----	Sb
+19	současně	Dg-------1A----	Adv
+20	-	Z:-------------	Apos
+21	11	C=-------------	Atr
+22	.	Z:-------------	AuxG
+23	června	NNIS2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+ln95046-034-p4s2
+1	"	Z:-------------	AuxG
+2	Chtěli	VpMP---XR-AA---	Obj
+3	jsme	VB-P---1P-AA---	AuxV
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	postupující	AGMP1-----A----	Sb
+7	z	RR--2----------	AuxP
+8	druhé	CrFS2----------	Atr
+9	ligy	NNFS2-----A----	Adv
+10	měli	VpMP---XR-AA---	Obj
+11	stejně	Dg-------1A----	Adv
+12	dlouhou	AAFS4----1A----	Atr
+13	letní	AAFS4----1A----	Atr
+14	přestávku	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	"	Z:-------------	AuxG
+17	konstatoval	VpYS---XR-AA---	Pred
+18	předseda	NNMS1-----A----	Atr
+19	komise	NNFS2-----A----	Atr
+20	Oldřich	NNMS1-----A----	Atr
+21	Novák	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln95046-034-p5s1
+1	Chebský	AAMS1----1A----	Atr
+2	asistent	NNMS1-----A----	Atr
+3	Jiří	NNMS1-----A----	Atr
+4	Tichý	NNMS1-----A----	Sb
+5	má	VB-S---3P-AA---	Pred
+6	pro	RR--4----------	AuxP
+7	jarní	AAFS4----1A----	Atr
+8	část	NNFS4-----A----	Adv
+9	ligy	NNFS2-----A----	Atr
+10	jako	J,-------------	AuxY
+11	jediný	AAMS1----1A----	Atv
+12	výjimku	NNFS4-----A----	Obj
+13	z	RR--2----------	AuxP
+14	nařízení	NNNS2-----A----	Atr
+15	ČMFS	NNIXX-----A---8	Atr
+16	,	Z:-------------	AuxX
+17	podle	RR--2----------	AuxP
+18	něhož	P9ZS2----------	Adv
+19	mohou	VB-P---3P-AA--1	Atr
+20	být	Vf--------A----	Obj
+21	asistenty	NNMP7-----A----	Pnom
+22	jen	TT-------------	AuxZ
+23	trenéři	NNMP1-----A----	Sb
+24	první	CrFS2----------	Atr
+25	třídy	NNFS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	případně	Dg-------1A----	Coord
+28	trenéři	NNMP1-----A----	Sb
+29	druhé	CrFS2----------	ExD
+30	,	Z:-------------	AuxX
+31	kteří	P4MP1----------	Sb
+32	v	RR--6----------	AuxP
+33	prosinci	NNIS6-----A----	Adv
+34	zahájili	VpMP---XR-AA---	Atr
+35	kurs	NNIS4-----A----	Obj
+36	první	CrFS2----------	Atr
+37	třídy	NNFS2-----A----	Atr
+38	.	Z:-------------	AuxK
+
+ln95046-034-p5s2
+1	"	Z:-------------	AuxG
+2	U	RR--2----------	AuxP
+3	pana	NNMS2-----A----	Atr
+4	Tichého	NNMS2-----A----	Adv
+5	je	VB-S---3P-AA---	Obj
+6	předpoklad	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	vzdělání	NNNS4-----A----	Obj
+10	má	VB-S---3P-AA---	Atr
+11	dostatečné	AANS4----1A----	Atv
+12	,	Z:-------------	AuxX
+13	"	Z:-------------	AuxG
+14	řekl	VpYS---XR-AA---	Pred
+15	Sahula	NNMS1-----A----	Sb
+16	na	RR--4----------	AuxP
+17	adresu	NNFS4-----A----	Adv
+18	jedenašedesátiletého	AAMS2----1A----	Atr
+19	účastníka	NNMS2-----A----	Atr
+20	finále	NNNS2-----A----	Atr
+21	MS	NNNXX-----A---8	Atr
+22	1962	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+ln95046-034-p6s1
+1	S	RR--7----------	AuxP
+2	ohledem	NNIS7-----A----	AuxP
+3	na	RR--4----------	AuxP
+4	nedávnou	AAFS4----1N----	Atr
+5	valnou	AAFS4----1A----	Atr
+6	hromadu	NNFS4-----A----	Adv
+7	se	P7-X4----------	AuxR
+8	mění	VB-S---3P-AA---	Pred
+9	statut	NNIS1-----A----	Sb
+10	Ligové	AAFS2----1A----	Atr
+11	komise	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95046-034-p6s2
+1	"	Z:-------------	AuxG
+2	Liga	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	teď	Db-------------	Adv
+5	ve	RV--6----------	AuxP
+6	výkonném	AAIS6----1A----	Atr
+7	výboru	NNIS6-----A----	Adv
+8	více	Dg-------2A----	Obj
+9	členů	NNMP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	takže	J,-------------	AuxC
+12	komisi	NNFS3-----A----	Obj
+13	ubydou	VB-P---3P-AA---	Adv
+14	některé	PZFP1----------	Atr
+15	kompetence	NNFP1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95046-034-p6s3
+1	Výkonný	AAIS1----1A----	Atr
+2	výbor	NNIS1-----A----	Sb
+3	musí	VB-S---3P-AA---	Obj
+4	být	Vf--------A----	Obj
+5	nejvyšším	AAIS7----3A----	Atr
+6	orgánem	NNIS7-----A----	Pnom
+7	,	Z:-------------	AuxX
+8	"	Z:-------------	AuxG
+9	řekl	VpYS---XR-AA---	Pred
+10	předseda	NNMS1-----A----	Atr
+11	ČMFS	NNIXX-----A---8	Atr
+12	František	NNMS1-----A----	Atr
+13	Chvalovský	AAMS1----1A----	Sb
+14	.	Z:-------------	AuxK
+
+ln95046-034-p7s1A
+1	Změny	NNFP1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	jarním	AAIS6----1A----	Atr
+4	ligovém	AAIS6----1A----	Atr
+5	losu	NNIS6-----A----	Atr
+6	-	Z:-------------	AuxK
+
+ln95046-034-p7s1B
+1	22	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	kolo	NNNS1-----A----	ExD
+4	(	Z:-------------	AuxG
+5	16	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	4	C=-------------	ExD
+8	.	Z:-------------	AuxG
+9	)	Z:-------------	AuxG
+10	:	Z:-------------	AuxG
+11	Ostrava	NNFS1-----A----	ExD
+12	-	Z:-------------	Coord
+13	Olomouc	NNFS1-----A----	ExD
+14	místo	RR--2----------	AuxP
+15	v	RR--4----------	AuxP
+16	16.30	C=-------------	ExD
+17	až	TT-------------	AuxZ
+18	v	RR--4----------	AuxP
+19	17.30	C=-------------	ExD
+20	.	Z:-------------	AuxK
+

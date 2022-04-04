@@ -1,0 +1,196 @@
+lnd94105-020-p1s1
+1	Koncentrace	NNFP1-----A----	Sb
+2	pylu	NNIS2-----A----	Atr
+3	se	P7-X4----------	AuxR
+4	budou	VB-P---3F-AA---	AuxV
+5	sledovat	Vf--------A----	Pred
+
+lnd94105-020-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ria	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94105-020-p1s3
+1	Počet	NNIS1-----A----	Sb
+2	alergiků	NNMP2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	populaci	NNFS6-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	dnes	Db-------------	Adv
+7	pohybuje	VB-S---3P-AA---	Pred
+8	od	RR--2----------	AuxP
+9	15	C=-------------	Atr
+10	%	Z:-------------	Adv
+11	u	RR--2----------	AuxP
+12	dospělých	NNMP2-----A----	Adv
+13	do	RR--2----------	AuxP
+14	20	C=-------------	Atr
+15	%	Z:-------------	Adv
+16	u	RR--2----------	AuxP
+17	dětí	NNFP2-----A----	Adv
+18	,	Z:-------------	Coord
+19	což	PE--1----------	Sb
+20	je	VB-S---3P-AA---	Pred
+21	ve	RV--6----------	AuxP
+22	srovnání	NNNS6-----A----	AuxP
+23	s	RR--7----------	AuxP
+24	dobou	NNFS7-----A----	Adv
+25	před	RR--7----------	AuxP
+26	20	C=-------------	Atr
+27	lety	NNNP7-----A----	Atr
+28	téměř	Db-------------	AuxZ
+29	dvojnásobek	NNIS1-----A----	Pnom
+30	.	Z:-------------	AuxK
+
+lnd94105-020-p1s4
+1	Polovinu	NNFS4-----A----	Obj
+2	případů	NNIP2-----A----	Atr
+3	má	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	svědomí	NNNS6-----A----	Obj
+6	pyl	NNIS1-----A----	Sb
+7	a	J^-------------	Coord
+8	i	J^-------------	AuxZ
+9	za	RR--4----------	AuxP
+10	to	PDNS4----------	Obj
+11	údajně	Dg-------1A----	Adv
+12	může	VB-S---3P-AA---	Pred
+13	životní	AANS1----1A----	Atr
+14	prostředí	NNNS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+lnd94105-020-p1s5
+1	Podle	RR--2----------	AuxP
+2	docenta	NNMS2-----A----	Atr
+3	Víta	NNMS2-----A----	Atr
+4	Petrů	NNMXX-----A----	Adv
+5	z	RR--2----------	AuxP
+6	České	AAFS2----1A----	Atr
+7	společnosti	NNFS2-----A----	Atr
+8	alergologie	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	imunologie	NNFS2-----A----	Atr
+11	je	VB-S---3P-AA---	Pred
+12	pravděpodobné	AANS1----1A----	Pnom
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	lidský	AAIS1----1A----	Atr
+16	organismus	NNIS1-----A----	Sb
+17	může	VB-S---3P-AA---	Sb
+18	být	Vf--------A----	Obj
+19	znečištěným	AANS7----1A----	Atr
+20	ovzduším	NNNS7-----A----	Obj
+21	natolik	Db-------------	Adv
+22	oslaben	VsYS---XX-AP---	Pnom
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	se	P7-X4----------	AuxT
+26	neubrání	VB-S---3P-NA---	Adv
+27	jednomu	ClZS3----------	Obj
+28	z	RR--2----------	AuxP
+29	nejčastějších	AAIP2----3A----	Atr
+30	alergenů	NNIP2-----A----	Atr
+31	,	Z:-------------	AuxX
+32	tedy	Db-------------	Apos
+33	pylu	NNIS3-----A----	Obj
+34	.	Z:-------------	AuxK
+
+lnd94105-020-p1s6
+1	Dalším	AANS7----1A----	Atr
+2	vysvětlením	NNNS7-----A----	Pnom
+3	rostoucího	AGIS2-----A----	Atr
+4	počtu	NNIS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	alergie	NNFP1-----A----	Sb
+9	se	P7-X4----------	AuxR
+10	dědí	VB-P---3P-AA---	Sb
+11	.	Z:-------------	AuxK
+
+lnd94105-020-p1s7
+1	Nejčastěji	Dg-------3A----	Adv
+2	se	P7-X4----------	AuxT
+3	alergie	NNFS1-----A----	Sb
+4	objeví	VB-S---3P-AA---	Pred
+5	mezi	RR--7----------	AuxP
+6	15	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	a	J^-------------	Coord
+9	25	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	rokem	NNIS7-----A----	Adv
+12	,	Z:-------------	AuxX
+13	věk	NNIS1-----A----	Sb
+14	však	J^-------------	Coord
+15	stále	Db-------------	Adv
+16	klesá	VB-S---3P-AA---	Pred
+17	.	Z:-------------	AuxK
+
+lnd94105-020-p1s8
+1	Léčba	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	doc	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Petrů	NNMXX-----A----	Adv
+7	zdlouhavá	AAFS1----1A----	Pnom
+8	a	J^-------------	Coord
+9	jediný	AAIS1----1A----	Atr
+10	jistý	AAIS1----1A----	Atr
+11	recept	NNIS1-----A----	Sb
+12	zní	VB-S---3P-AA---	Pred
+13	:	Z:-------------	AuxG
+14	vyhnout	Vf--------A----	Adv
+15	se	P7-X4----------	AuxT
+16	alergenu	NNIS3-----A----	Obj
+17	.	Z:-------------	AuxK
+
+lnd94105-020-p1s9
+1	Až	TT-------------	AuxZ
+2	dosud	Db-------------	Adv
+3	však	J^-------------	AuxY
+4	v	RR--6----------	AuxP
+5	ČR	NNFXX-----A---8	Adv
+6	neexistoval	VpYS---XR-NA---	Pred
+7	koordinovaný	AAIS1----1A----	Atr
+8	systém	NNIS1-----A----	Sb
+9	pravidelného	AANS2----1A----	Atr
+10	informování	NNNS2-----A----	Atr
+11	o	RR--6----------	AuxP
+12	koncentraci	NNFS6-----A----	Atr
+13	pylu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94105-020-p1s10
+1	Na	RR--4----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	vytvoření	NNNS4-----A----	Adv
+4	poskytla	VpQW---XR-AA--1	Pred
+5	americká	AAFS1----1A----	Atr
+6	firma	NNFS1-----A----	Sb
+7	Schering	NNIS1-----A----	Atr
+8	-	Z:-------------	Apos
+9	Plough	NNIS1-----A----	Atr
+10	75000	C=-------------	Obj
+11	USD	NNIXX-----A---8	Atr
+12	,	Z:-------------	AuxX
+13	a	J^-------------	AuxY
+14	to	PDNS4----------	AuxY
+15	skupině	NNFS3-----A----	Obj
+16	brněnských	AAMP2----1A----	Atr
+17	lékařů	NNMP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	kteří	P4MP1----------	Sb
+20	už	Db-------------	Adv
+21	s	RR--7----------	AuxP
+22	touto	PDFS7----------	Atr
+23	iniciativou	NNFS7-----A----	Obj
+24	byť	J,-------------	AuxC
+25	v	RR--6----------	AuxP
+26	malém	AANS6----1A----	Adv
+27	začali	VpMP---XR-AA---	Atr
+28	.	Z:-------------	AuxK
+

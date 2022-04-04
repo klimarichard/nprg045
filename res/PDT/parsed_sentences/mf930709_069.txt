@@ -1,0 +1,200 @@
+mf930709-069-p1s1
+1	Šéfem	NNMS7-----A----	Pnom
+2	Úřadu	NNIS2-----A----	Atr
+3	vlády	NNFS2-----A----	Atr
+4	bude	VB-S---3F-AA---	Pred
+5	zřejmě	Dg-------1A----	AuxY
+6	exministr	NNMS1-----A----	Atr
+7	Němec	NNMS1-----A----	Sb
+
+mf930709-069-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	rep	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	čtk	NNFXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930709-069-p2s1B
+1	Novým	AAMS7----1A----	Atr
+2	vedoucím	NNMS7-----A----	Pnom
+3	Úřadu	NNIS2-----A----	Atr
+4	vlády	NNFS2-----A----	Atr
+5	bude	VB-S---3F-AA---	Pred
+6	zřejmě	Dg-------1A----	AuxY
+7	bývalý	AAMS1----1A----	Atr
+8	ministr	NNMS1-----A----	Atr
+9	státní	AAFS2----1A----	Atr
+10	kontroly	NNFS2-----A----	Atr
+11	Igor	NNMS1-----A----	Atr
+12	Němec	NNMS1-----A----	Sb
+13	(	Z:-------------	ExD
+14	ODS	NNFXX-----A---8	ExD
+15	)	Z:-------------	ExD
+16	.	Z:-------------	AuxK
+
+mf930709-069-p2s2
+1	Premiér	NNMS1-----A----	Atr
+2	Václav	NNMS1-----A----	Atr
+3	Klaus	NNMS1-----A----	Sb
+4	včera	Db-------------	Adv
+5	řekl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	velmi	Db-------------	Adv
+9	horkým	AAMS7----1A----	Atr
+10	kandidátem	NNMS7-----A----	Pnom
+11	na	RR--4----------	AuxP
+12	tuto	PDFS4----------	Atr
+13	funkci	NNFS4-----A----	Atr
+14	je	VB-S---3P-AA---	Obj
+15	právě	Db-------------	AuxZ
+16	exministr	NNMS1-----A----	Sb
+17	kontroly	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf930709-069-p2s3
+1	Němec	NNMS1-----A----	Sb
+2	tedy	Db-------------	AuxY
+3	pravděpodobně	Dg-------1A----	AuxY
+4	vystřídá	VB-S---3P-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	funkci	NNFS6-----A----	Adv
+7	dosavadního	AAMS4----1A----	Atr
+8	šéfa	NNMS4-----A----	Atr
+9	vládního	AAIS2----1A----	Atr
+10	úřadu	NNIS2-----A----	Atr
+11	Jiřího	NNMS4-----A----	Atr
+12	Kováře	NNMS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	jehož	PJZS2----------	Atr
+15	odvolání	NNNS4-----A----	Obj
+16	doporučila	VpQW---XR-AA---	Atr
+17	výkonná	AAFS1----1A----	Atr
+18	rada	NNFS1-----A----	Sb
+19	ODS	NNFXX-----A---8	Atr
+20	1	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	července	NNIS2-----A----	Adv
+23	.	Z:-------------	AuxK
+
+mf930709-069-p2s4
+1	Igor	NNMS1-----A----	Atr
+2	Němec	NNMS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	po	RR--6----------	AuxP
+5	zrušení	NNNS6-----A----	Adv
+6	ministerstva	NNNS2-----A----	Atr
+7	státní	AAFS2----1A----	Atr
+8	kontroly	NNFS2-----A----	Atr
+9	ministrem	NNMS7-----A----	Pnom
+10	vlády	NNFS2-----A----	Atr
+11	bez	RR--2----------	AuxP
+12	portfeje	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf930709-069-p2s5
+1	K	RR--3----------	AuxP
+2	případnému	AANS3----1A----	Atr
+3	jmenování	NNNS3-----A----	Obj
+4	vedoucím	NNMS7-----A----	Atr
+5	Úřadu	NNIS2-----A----	Atr
+6	vlády	NNFS2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	zatím	Db-------------	Adv
+9	odmítl	VpYS---XR-AA--1	Pred
+10	vyjádřit	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+
+mf930709-069-p2s6
+1	Podle	RR--2----------	AuxP
+2	Klause	NNMS2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	tato	PDFS1----------	Atr
+5	funkce	NNFS1-----A----	Sb
+6	měla	VpQW---XR-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	vykonávána	VsQW---XX-AP---	Obj
+9	bez	RR--2----------	AuxP
+10	jakékoli	PZFS2---------1	Atr
+11	další	AAFS2----1A----	Atr
+12	souvislosti	NNFS2-----A----	Adv
+13	na	RR--4----------	AuxP
+14	ministerský	AAIS4----1A----	Atr
+15	statut	NNIS4-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930709-069-p2s7
+1	Na	RR--4----------	AuxP
+2	náš	PSIS4-P1-------	Atr
+3	dotaz	NNIS4-----A----	Adv
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	odůvodní	VB-S---3P-AA---	Atr
+7	návrh	NNIS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	odvolání	NNNS4-----A----	Atr
+10	šéfa	NNMS2-----A----	Atr
+11	Úřadu	NNIS2-----A----	Atr
+12	vlády	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	Václav	NNMS1-----A----	Atr
+15	Klaus	NNMS1-----A----	Sb
+16	řekl	VpYS---XR-AA---	Pred
+17	:	Z:-------------	AuxG
+18	"	Z:-------------	AuxG
+19	O	RR--6----------	AuxP
+20	důvodech	NNIP6-----A----	Obj
+21	není	VB-S---3P-NA---	Obj
+22	třeba	ACNS------A----	Pnom
+23	příliš	Db-------------	Adv
+24	hovořit	Vf--------A----	Sb
+25	.	Z:-------------	AuxK
+
+mf930709-069-p2s8
+1	Tato	PDFS1----------	Atr
+2	funkce	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	spojena	VsQW---XX-AP---	Pnom
+5	s	RR--7----------	AuxP
+6	jistou	AAFS7----1A----	Atr
+7	mírou	NNFS7-----A---1	Obj
+8	kredibility	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	pokud	J,-------------	AuxC
+12	je	VB-S---3P-AA---	Adv
+13	tato	PDFS1----------	Atr
+14	kredibilita	NNFS1-----A----	Sb
+15	poztrácena	VsQW---XX-AP---	Pnom
+16	,	Z:-------------	AuxX
+17	je	VB-S---3P-AA---	Pred
+18	rozumné	AANS1----1A----	Pnom
+19	,	Z:-------------	AuxX
+20	aby	J,-------------	AuxC
+21	ke	RV--3----------	AuxP
+22	změně	NNFS3-----A----	Obj
+23	došlo	VpNS---XR-AA---	Sb
+24	.	Z:-------------	AuxK
+25	"	Z:-------------	AuxG
+
+mf930709-069-p2s10
+1	Na	RR--4----------	AuxP
+2	otázku	NNFS4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	počítá	VB-S---3P-AA---	Atr
+6	s	RR--7----------	AuxP
+7	Jiřím	NNMS7-----A----	Atr
+8	Kovářem	NNMS7-----A----	Obj
+9	do	RR--2----------	AuxP
+10	nějaké	PZFS2----------	Atr
+11	jiné	AAFS2----1A----	Atr
+12	funkce	NNFS2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	odpověděl	VpYS---XR-AA---	Pred
+15	premiér	NNMS1-----A----	Sb
+16	záporně	Dg-------1A----	Adv
+17	.	Z:-------------	AuxK
+

@@ -1,0 +1,196 @@
+cmpr9415-012-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	6	C=-------------	Atr
+
+cmpr9415-012-p2s1
+1	Kancelář	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	Goldair	NNIS1-----A----	Atr
+
+cmpr9415-012-p3s1
+1	Oblast	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Řecko	NNNS1-----A----	ExD
+4	-	Z:-------------	Coord
+5	Olympská	AAFS1----1A----	Atr
+6	Riviéra	NNFS1-----A----	ExD
+
+cmpr9415-012-p4s1
+1	Ubytovací	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Hotel	NNIS1-----A----	ExD
+5	Kronos	NNIS1-----A----	Atr
+6	*	Z:-------------	AuxG
+7	*	Z:-------------	AuxG
+8	*	Z:-------------	AuxG
+
+cmpr9415-012-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	osobu	NNFS4-----A----	Atr
+4	Kč	NNFXX-----A----	Atr
+5	:	Z:-------------	Pred
+6	10990	C=-------------	Pnom
+
+cmpr9415-012-p6s1
+1	Dítě	NNNS1-----A----	Sb
+2	Kč	NNFXX-----A----	Atr
+3	:	Z:-------------	Pred
+4	7700	C=-------------	Pnom
+5	,	Z:-------------	Coord
+6	do	RR--2----------	AuxP
+7	5	C=-------------	ExD
+8	let	NNNP2-----A----	Atr
+9	jen	TT-------------	AuxZ
+10	letenka	NNFS1-----A----	ExD
+11	za	RR--4----------	AuxP
+12	5500	C=-------------	Atr
+
+cmpr9415-012-p7s1
+1	Stravování	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Polopenze	NNFS1-----A----	ExD
+
+cmpr9415-012-p8s1
+1	Doprava	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Letecky	Dg-------1A----	ExD
+4	18	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	6	C=-------------	Adv
+7	.	Z:-------------	AuxG
+8	1994	C=-------------	Atr
+
+cmpr9415-012-p9s1
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Olympská	AAFS1----1A----	Atr
+4	riviéra	NNFS1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	nachází	VB-S---3P-AA---	Pred
+7	na	RR--6----------	AuxP
+8	východním	AANS6----1A----	Atr
+9	pobřeží	NNNS6-----A----	Adv
+10	Řecka	NNNS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	hora	NNFS1-----A----	Sb
+13	Olymp	NNIS1-----A----	Atr
+14	vytváří	VB-S---3P-AA---	Pred
+15	tomuto	PDZS3----------	Atr
+16	kraji	NNIS3-----A----	Adv
+17	velkolepou	AAFS4----1A----	Atr
+18	kulisu	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+cmpr9415-012-p9s2
+1	Národní	AAIS1----1A----	Atr
+2	park	NNIS1-----A----	Sb
+3	pod	RR--7----------	AuxP
+4	Olympem	NNIS7-----A----	Atr
+5	nabízí	VB-S---3P-AA---	Pred
+6	zajímavé	AAIP4----1A----	Atr
+7	výlety	NNIP4-----A----	Obj
+8	,	Z:-------------	Coord
+9	zdatnější	AAMP1----2A----	Atr
+10	turisté	NNMP1-----A----	Sb
+11	mohou	VB-P---3P-AA--1	Pred
+12	vystoupit	Vf--------A----	Obj
+13	i	J^-------------	AuxZ
+14	na	RR--4----------	AuxP
+15	Olymp	NNIS4-----A----	Adv
+16	.	Z:-------------	AuxK
+
+cmpr9415-012-p9s3
+1	U	RR--2----------	AuxP
+2	místních	AAFP2----1A----	Atr
+3	cestovních	AAFP2----1A----	Atr
+4	kanceláří	NNFP2-----A----	Adv
+5	je	VB-S---3P-AA---	Pred
+6	možno	ACNS------A----	Pnom
+7	zakoupit	Vf--------A----	Sb
+8	výlety	NNIP4-----A----	Obj
+9	do	RR--2----------	AuxP
+10	Thessaloniki	NNNXX-----A----	Atr
+11	,	Z:-------------	AuxX
+12	Dionu	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	Athén	NNFP2-----A----	Atr
+15	,	Z:-------------	Coord
+16	Delf	NNFP2-----A----	Atr
+17	apod	Db------------8	Atr
+18	.	Z:-------------	AuxG
+
+cmpr9415-012-p10s1
+1	Hotel	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	postaven	VsYS---XX-AP---	Pnom
+4	asi	TT-------------	AuxZ
+5	100	C=-------------	Adv
+6	m	NNIXX-----A---8	Atr
+7	od	RR--2----------	AuxP
+8	písečné	AAFS2----1A----	Atr
+9	pláže	NNFS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	na	RR--6----------	AuxP
+12	kraji	NNIS6-----A----	Adv
+13	malého	AANS2----1A----	Atr
+14	městečka	NNNS2-----A----	Atr
+15	Platamonas	NNNXX-----A----	Atr
+16	s	RR--7----------	AuxP
+17	mnoha	Ca--7----------	Atr
+18	kavárničkami	NNFP7-----A----	Atr
+19	,	Z:-------------	AuxX
+20	tavernami	NNFP7-----A----	Atr
+21	a	J^-------------	Coord
+22	rybárnami	NNFP7-----A----	Atr
+23	s	RR--7----------	AuxP
+24	mořskými	AAFP7----1A----	Atr
+25	specialitami	NNFP7-----A----	Atr
+26	.	Z:-------------	AuxK
+
+cmpr9415-012-p10s2
+1	Obchody	NNIP1-----A----	ExD
+2	,	Z:-------------	Apos
+3	zejména	Db-------------	AuxZ
+4	zlatnictví	NNNP1-----A----	ExD
+5	a	J^-------------	Coord
+6	kožešnictví	NNNP1-----A----	ExD
+7	.	Z:-------------	AuxK
+
+cmpr9415-012-p10s3A
+1	Večer	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	provozu	NNIS6-----A---1	Adv
+5	několik	Ca--1----------	Sb
+6	diskoték	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9415-012-p10s3B
+1	Pokoje	NNIP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	dvoulůžkové	AAIP1----1A----	Pnom
+4	nebo	J^-------------	Coord
+5	třílůžkové	AAIP1----1A----	Pnom
+6	s	RR--7----------	AuxP
+7	koupelnou	NNFS7-----A----	Adv
+8	,	Z:-------------	AuxX
+9	WC	NNNXX-----A---8	Adv
+10	,	Z:-------------	AuxX
+11	televizí	NNFS7-----A----	Adv
+12	a	J^-------------	Coord
+13	balkonem	NNIS7-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9415-012-p11s1
+1	Polopenze	NNFS1-----A----	ExD
+2	,	Z:-------------	Apos
+3	snídaně	NNFP1-----A----	ExD
+4	formou	NNFS7-----A----	Atr
+5	bufetu	NNIS2-----A----	Atr
+6	a	J^-------------	Coord
+7	večeře	NNFS1-----A----	ExD
+8	.	Z:-------------	AuxK
+

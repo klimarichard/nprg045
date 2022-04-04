@@ -1,0 +1,164 @@
+ln94211-11-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln94211-11-p2s1
+1	Ruská	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	ropy	NNFS2-----A----	Atr
+4	a	J^-------------	Coord
+5	plynných	AAIP2----1A----	Atr
+6	kondenzátů	NNIP2-----A----	Atr
+7	klesla	VpQW---XR-AA--1	Pred
+8	za	RR--4----------	AuxP
+9	leden	NNIS4-----A----	Adv
+10	až	J^-------------	Coord
+11	srpen	NNIS4-----A----	Adv
+12	letošního	AAIS2----1A----	Atr
+13	roku	NNIS2-----A---1	Atr
+14	proti	RR--3----------	AuxP
+15	stejnému	AANS3----1A----	Atr
+16	období	NNNS3-----A----	Adv
+17	vloni	Db-------------	Atr
+18	z	RR--2----------	AuxP
+19	231.5	C=-------------	ExD
+20	na	RR--4----------	AuxP
+21	201	C=-------------	Atr
+22	mil	NNIXX-----A---8	Obj
+23	.	Z:-------------	AuxG
+24	tun	NNFP2-----A----	Atr
+25	,	Z:-------------	Coord
+26	tedy	Db-------------	Apos
+27	o	RR--4----------	AuxP
+28	13.2	C=-------------	ExD
+29	procenta	NNNS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94211-11-p2s2
+1	Údaje	NNIP1-----A----	Sb
+2	nezahrnují	VB-P---3P-NA---	Pred
+3	produkci	NNFS4-----A----	Obj
+4	podniků	NNIP2-----A----	Atr
+5	s	RR--7----------	AuxP
+6	účastí	NNFS7-----A----	Atr
+7	západních	AAFP2----1A----	Atr
+8	firem	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94211-11-p3s1
+1	Dohodu	NNFS4-----A----	Obj
+2	o	RR--6----------	AuxP
+3	založení	NNNS6-----A----	Atr
+4	společnosti	NNFS2-----A----	Atr
+5	Inform	NNIXX-----A----	Atr
+6	Mail	NNIS1-----A----	Atr
+7	podepsali	VpMP---XR-AA---	Pred
+8	koncem	NNIS7-----A----	AuxP
+9	minulého	AAIS2----1A----	Atr
+10	týdne	NNIS2-----A----	Adv
+11	představitelé	NNMP1-----A----	Sb
+12	brněnské	AAFS2----1A----	Atr
+13	firmy	NNFS2-----A----	Atr
+14	Inform	NNIXX-----A----	Atr
+15	Katalog	NNIS1-----A----	Atr
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	poskytuje	VB-S---3P-AA---	Atr
+19	služby	NNFP4-----A----	Obj
+20	v	RR--6----------	AuxP
+21	oblasti	NNFS6-----A----	AuxP
+22	obchodních	AAFP2----1A----	Atr
+23	informací	NNFP2-----A----	AtrAdv
+24	o	RR--6----------	AuxP
+25	českých	AAIP6----1A----	Atr
+26	podnicích	NNIP6-----A----	Atr
+27	,	Z:-------------	AuxX
+28	nizozemské	AAFS2----1A----	Atr
+29	International	NNXXX-----A---1	Atr
+30	Business	AAXXX----1A----	Atr
+31	Consultants	NNMPX-----A----	Atr
+32	a	J^-------------	Coord
+33	Czech	AAXXX----1A----	Atr
+34	Business	AAXXX----1A----	Atr
+35	Investment	AAXXX----1A----	Atr
+36	Fund	NNIXX-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln94211-11-p3s2
+1	Společný	AAIS1----1A----	Atr
+2	podnik	NNIS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	poskytovat	Vf--------A----	Pred
+5	komplexní	AAFP4----1A----	Atr
+6	služby	NNFP4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	oblasti	NNFS6-----A----	AuxP
+9	direct	AAXXX----1A----	Atr
+10	marketingu	NNIS2-----A----	AtrAdv
+11	a	J^-------------	Coord
+12	direct	AAXXX----1A----	Atr
+13	mailu	NNIS2-----A----	AtrAdv
+14	.	Z:-------------	AuxK
+
+ln94211-11-p3s3A
+1	(	Z:-------------	ExD
+2	mav	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+
+ln94211-11-p3s3B
+1	Olovo	NNNS1-----A----	Sb
+2	dosáhlo	VpNS---XR-AA---	Obj
+3	v	RR--4----------	AuxP
+4	úterý	NNNS4-----A----	Adv
+5	na	RR--6----------	AuxP
+6	Londýnské	AAFS6----1A----	Atr
+7	burze	NNFS6-----A----	Adv
+8	kovů	NNIP2-----A----	Atr
+9	dvouletého	AANS2----1A----	Atr
+10	maxima	NNNS2-----A----	Obj
+11	625	C=-------------	Atr
+12	USD	NNIXX-----A---8	Atr
+13	za	RR--4----------	AuxP
+14	tunu	NNFS4-----A----	Atr
+15	,	Z:-------------	AuxX
+16	uvedl	VpYS---XR-AA---	Pred
+17	list	NNIS1-----A----	Sb
+18	Financial	AAXXX----1A----	Atr
+19	Times	NNIPX-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94211-11-p3s4
+1	Olovo	NNNS1-----A----	Sb
+2	od	RR--2----------	AuxP
+3	začátku	NNIS2-----A----	Adv
+4	světového	AANS2----1A----	Atr
+5	ekonomického	AANS2----1A----	Atr
+6	oživení	NNNS2-----A----	Atr
+7	patří	VB-S---3P-AA---	Pred
+8	ke	RV--3----------	AuxP
+9	kovům	NNIP3-----A----	Obj
+10	s	RR--7----------	AuxP
+11	nejvýraznějším	AAIS7----3A----	Atr
+12	vzestupem	NNIS7-----A----	Atr
+13	cen	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94211-11-p3s5
+1	Cena	NNFS1-----A----	Sb
+2	dosáhla	VpQW---XR-AA---	Pred
+3	dna	NNNS2-----A----	Obj
+4	vloni	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	říjnu	NNIS6-----A----	Adv
+7	,	Z:-------------	Coord
+8	od	RR--2----------	AuxP
+9	té	PDFS2----------	Atr
+10	doby	NNFS2-----A----	Adv
+11	se	P7-X4----------	AuxR
+12	zvýšila	VpQW---XR-AA---	Pred
+13	o	RR--4----------	AuxP
+14	více	Dg-------2A----	Adv
+15	než	J,-------------	AuxC
+16	70	C=-------------	Adv
+17	procent	NNNP2-----A----	Atr
+18	.	Z:-------------	AuxK
+

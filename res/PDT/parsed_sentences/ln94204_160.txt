@@ -1,0 +1,262 @@
+ln94204-160-p1s1
+1	Drobní	AAMP1----1A----	Atr
+2	akcionáři	NNMP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	z	RR--2----------	AuxP
+5	našeho	PSZS2-P1-------	Atr
+6	kapitálového	AAIS2----1A----	Atr
+7	trhu	NNIS2-----A----	Adv
+8	rozpačití	AAMP1----1A----	Pnom
+
+ln94204-160-p2s1A
+1	Michal	NNMS1-----A----	Atr
+2	Konečný	NNMS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	brokerský	AAIS1----1A----	Atr
+5	dům	NNIS1-----A----	ExD
+6	Komero	NNNS1-----A----	Atr
+
+ln94204-160-p2s1B
+1	Dění	NNNS1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	kapitálovém	AAIS6----1A----	Atr
+4	trhu	NNIS6-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	u	RR--2----------	AuxP
+7	nás	PP-P2--1-------	Adv
+8	poznamenáno	VsNS---XX-AP---	Pnom
+9	dlouhodobým	AAIS7----1A----	Atr
+10	poklesem	NNIS7-----A----	Obj
+11	kurzů	NNIP2-----A----	Atr
+12	a	J^-------------	Coord
+13	zatím	Db-------------	Adv
+14	malým	AAIS7----1A----	Atr
+15	zájmem	NNIS7-----A----	Obj
+16	investorů	NNMP2-----A----	Atr
+17	nakupovat	Vf--------A----	Atr
+18	za	RR--4----------	AuxP
+19	současné	AAFP4----1A----	Atr
+20	nízké	AAFP4----1A----	Atr
+21	ceny	NNFP4-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln94204-160-p2s2
+1	Pohyb	NNIS1-----A----	Sb
+2	vzhůru	Db-------------	Atr
+3	je	VB-S---3P-AA---	Pred
+4	dosud	Db-------------	Adv
+5	nejistý	AAIS1----1N----	Pnom
+6	a	J^-------------	Coord
+7	akcie	NNFP1-----A----	Sb
+8	získávají	VB-P---3P-AA---	Pred
+9	jen	TT-------------	AuxZ
+10	po	RR--6----------	AuxP
+11	malých	AAIP6----1A----	Atr
+12	růstových	AAIP6----1A----	Atr
+13	stupíncích	NNIP6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94204-160-p2s3
+1	Rozčarování	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	vidět	Vf--------A----	Pnom
+4	například	Db-------------	AuxZ
+5	u	RR--2----------	AuxP
+6	akcií	NNFP2-----A----	Adv
+7	kotovaného	AAIS2----1A----	Atr
+8	trhu	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94204-160-p3s1
+1	Rozpačitý	AAIS4----1A----	Atr
+2	pocit	NNIS4-----A----	Obj
+3	z	RR--2----------	AuxP
+4	akcií	NNFP2-----A----	Atr
+5	českých	AAFP2----1A----	Atr
+6	bank	NNFP2-----A----	Atr
+7	jistě	Dg-------1A----	Adv
+8	posílila	VpQW---XR-AA---	Pred
+9	zpráva	NNFS1-----A----	Sb
+10	o	RR--6----------	AuxP
+11	nejednoznačném	AAIS6----1N----	Atr
+12	výsledku	NNIS6-----A----	Atr
+13	auditu	NNIS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	České	AAFS6----1A----	Atr
+16	spořitelně	NNFS6-----A----	AtrAtr
+17	.	Z:-------------	AuxK
+
+ln94204-160-p3s2
+1	Auditorská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	zpochybnila	VpQW---XR-AA---	Pred
+4	především	Db-------------	AuxZ
+5	správnost	NNFS4-----A----	Obj
+6	výše	NNFS2-----A----	Atr
+7	bankou	NNFS7-----A----	Obj
+8	vykazovaných	AANP2----1A----	Atr
+9	rizikových	AANP2----1A----	Atr
+10	aktiv	NNNP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94204-160-p4s1
+1	Ať	J,-------------	AuxC
+2	je	VB-S---3P-AA---	Adv
+3	výrok	NNIS1-----A----	Sb
+4	jakýkoliv	PZYS1----------	Pnom
+5	,	Z:-------------	AuxX
+6	investor	NNMS1-----A----	Sb
+7	by	Vc-------------	AuxV
+8	měl	VpYS---XR-AA---	Pred
+9	zvážit	Vf--------A----	Obj
+10	,	Z:-------------	AuxX
+11	zda	J,-------------	AuxC
+12	již	Db-------------	Adv
+13	nastal	VpYS---XR-AA---	Obj
+14	čas	NNIS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	kdy	Db-------------	Adv
+17	lze	VB-S---3P-AA---	Atr
+18	na	RR--4----------	AuxP
+19	úvěry	NNIP4-----A----	Adv
+20	a	J^-------------	Coord
+21	další	AANP4----1A----	Atr
+22	aktiva	NNNP4-----A----	Adv
+23	našich	PSXP2-P1-------	Atr
+24	bank	NNFP2-----A----	Atr
+25	klást	Vf--------A----	Sb
+26	stejné	AAIP4----1A----	Atr
+27	nároky	NNIP4-----A----	Obj
+28	jako	J,-------------	AuxC
+29	ve	RV--6----------	AuxP
+30	stabilních	AAFP6----1A----	Atr
+31	ekonomikách	NNFP6-----A----	ExD
+32	,	Z:-------------	AuxX
+33	a	J^-------------	Coord
+34	nebo	J^-------------	AuxY
+35	zda	J,-------------	AuxC
+36	přece	Db-------------	AuxY
+37	jen	TT-------------	AuxY
+38	jsme	VB-P---1P-AA---	Obj
+39	ještě	Db-------------	Adv
+40	v	RR--6----------	AuxP
+41	transformační	AAFS6----1A----	Atr
+42	fázi	NNFS6-----A----	Adv
+43	,	Z:-------------	AuxX
+44	která	P4FS1----------	Sb
+45	objektivně	Dg-------1A----	Adv
+46	nutí	VB-S---3P-AA---	Atr
+47	pracovat	Vf--------A----	Obj
+48	s	RR--7----------	AuxP
+49	vyšším	AANS7----2A----	Atr
+50	rizikem	NNNS7-----A----	Adv
+51	.	Z:-------------	AuxK
+
+ln94204-160-p4s2
+1	Jisté	AANS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	jedno	ClNS1----------	Sb
+4	.	Z:-------------	AuxK
+
+ln94204-160-p4s3
+1	Monopolní	AANS4----1A----	Atr
+2	postavení	NNNS4-----A----	Obj
+3	Spořitelny	NNFS2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	trhu	NNIS6-----A----	Atr
+6	úspor	NNFP2-----A----	Atr
+7	obyvatelstva	NNNS2-----A----	Atr
+8	ještě	Db-------------	AuxZ
+9	dlouho	Dg-------1A----	Adv
+10	nikdo	PWM-1----------	Sb
+11	neohrozí	VB-S---3P-NA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94204-160-p5s1
+1	Drobného	AAMS4----1A----	Atr
+2	akcionáře	NNMS4-----A----	Obj
+3	dnes	Db-------------	Adv
+4	především	Db-------------	AuxZ
+5	zajímá	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	zda	J,-------------	AuxC
+8	podnik	NNIS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	jehož	P1XXXZS3-------	Atr
+11	akcie	NNFP4-----A----	Obj
+12	vlastní	VB-S---3P-AA---	Atr
+13	,	Z:-------------	AuxX
+14	vyplácí	VB-S---3P-AA---	Sb
+15	dividendy	NNFP4-----A----	Obj
+16	a	J^-------------	Coord
+17	jak	Db-------------	ExD
+18	.	Z:-------------	AuxK
+
+ln94204-160-p6s1
+1	Vedle	RR--2----------	AuxP
+2	způsobů	NNIP2-----A----	Adv
+3	,	Z:-------------	AuxX
+4	kdy	Db-------------	Adv
+5	je	VB-S---3P-AA---	AuxV
+6	akcionář	NNMS1-----A----	Sb
+7	veden	VsYS---XX-AP---	Atr
+8	za	RR--4----------	AuxP
+9	ruku	NNFS4-----A----	Adv
+10	,	Z:-------------	AuxX
+11	se	P7-X4----------	AuxR
+12	praktikuje	VB-S---3P-AA---	Pred
+13	i	J^-------------	AuxZ
+14	metoda	NNFS1-----A----	Sb
+15	pouhého	AANS2----1A----	Atr
+16	inzertního	AANS2----1A----	Atr
+17	oznámení	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-160-p6s2
+1	Akcionář	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	něho	P5ZS2--3------1	Adv
+5	povinen	ACYS------A----	Pnom
+6	se	P7-X4----------	AuxT
+7	o	RR--4----------	AuxP
+8	dividendy	NNFP4-----A----	Obj
+9	přihlásit	Vf--------A----	Obj
+10	zpravidla	Db-------------	Adv
+11	písemně	Dg-------1A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94204-160-p6s3
+1	Těm	PDXP3----------	Obj
+2	,	Z:-------------	AuxX
+3	kteří	P4MP1----------	Sb
+4	bedlivě	Dg-------1A----	Adv
+5	nesledují	VB-P---3P-NA---	Atr
+6	inzerci	NNFS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	tisku	NNIS6-----A----	AtrAdv
+9	,	Z:-------------	AuxX
+10	lze	VB-S---3P-AA---	Pred
+11	doporučit	Vf--------A----	Sb
+12	jediné	AANS4----1A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94204-160-p6s4
+1	Obraťte	Vi-P---2--A----	Pred
+2	se	P7-X4----------	AuxT
+3	s	RR--7----------	AuxP
+4	dotazem	NNIS7-----A----	Adv
+5	přímo	Dg-------1A----	AuxZ
+6	na	RR--4----------	AuxP
+7	emitenty	NNMP4-----A----	Obj
+8	nebo	J^-------------	Coord
+9	makléřské	AAFP4----1A----	Atr
+10	firmy	NNFP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	které	P4FP1----------	Sb
+13	povětšinou	Db-------------	Adv
+14	tyto	PDFP4----------	Atr
+15	informace	NNFP4-----A----	Obj
+16	soustřeďují	VB-P---3P-AA---	Atr
+17	.	Z:-------------	AuxK
+

@@ -1,0 +1,138 @@
+lnd94101-065-p1s1
+1	Kongres	NNIS1-----A----	Sb
+2	USA	NNIPX-----A----	Atr
+3	schválil	VpYS---XR-AA---	Pred
+4	Svobodnou	AAFS4----1A----	Atr
+5	Asii	NNFS4-----A----	Obj
+
+lnd94101-065-p1s2
+1	Washington	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94101-065-p1s3
+1	Americký	AAIS1----1A----	Atr
+2	Kongres	NNIS1-----A----	Sb
+3	schválil	VpYS---XR-AA---	Pred
+4	vytvoření	NNNS4-----A----	Obj
+5	rozhlasové	AAFS2----1A----	Atr
+6	stanice	NNFS2-----A----	Atr
+7	Svobodná	AAFS1----1A----	Atr
+8	Asie	NNFS1-----A----	Atr
+9	a	J^-------------	Coord
+10	odvolal	VpYS---XR-AA---	Pred
+11	omezení	NNNS4-----A----	Obj
+12	na	RR--4----------	AuxP
+13	prodej	NNIS4-----A----	Atr
+14	amerických	AAFP2----1A----	Atr
+15	zbraní	NNFP2-----A----	Atr
+16	Tchaj	AAXXX----1A----	Atr
+17	-	Z:-------------	AuxG
+18	wanu	NNIXX-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94101-065-p1s4
+1	Oba	ClYP1----------	Atr
+2	kroky	NNIP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	které	P4IP1----------	Sb
+5	podle	RR--2----------	AuxP
+6	očekávání	NNNS2-----A----	Adv
+7	vyvolají	VB-P---3P-AA---	Atr
+8	odpor	NNIS4-----A----	Obj
+9	Číny	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	přicházejí	VB-P---3P-AA---	Pred
+12	měsíc	NNIS4-----A----	Adv
+13	před	RR--7----------	AuxP
+14	tím	PDZS7----------	Adv
+15	,	Z:-------------	AuxX
+16	než	J,-------------	AuxC
+17	prezident	NNMS1-----A----	Atr
+18	Clinton	NNMS1-----A----	Sb
+19	rozhodne	VB-S---3P-AA---	Atr
+20	o	RR--6----------	AuxP
+21	prodloužení	NNNS6-----A----	Obj
+22	obchodní	AAFS2----1A----	Atr
+23	doložky	NNFS2-----A----	Atr
+24	nejvyšších	AAFP2----3A----	Atr
+25	výhod	NNFP2-----A----	Atr
+26	Číně	NNFS3-----A----	Atr
+27	.	Z:-------------	AuxK
+
+lnd94101-065-p1s5
+1	Podle	RR--2----------	AuxP
+2	zákona	NNIS2-----A----	Adv
+3	,	Z:-------------	AuxX
+4	který	P4IS4----------	Obj
+5	ještě	Db-------------	AuxZ
+6	musí	VB-S---3P-AA---	Atr
+7	podepsat	Vf--------A----	Obj
+8	prezident	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	se	P7-X4----------	AuxR
+11	ruší	VB-S---3P-AA---	Pred
+12	platnost	NNFS1-----A----	Sb
+13	komuniké	NNNXX-----A----	Atr
+14	podepsaného	AANS2----1A----	Atr
+15	s	RR--7----------	AuxP
+16	pekingskou	AAFS7----1A----	Atr
+17	vládou	NNFS7-----A----	Adv
+18	v	RR--6----------	AuxP
+19	roce	NNIS6-----A---1	Adv
+20	1982	C=-------------	Atr
+21	,	Z:-------------	AuxX
+22	které	P4NS1----------	Sb
+23	zavazovalo	VpNS---XR-AA---	Atr
+24	USA	NNIPX-----A----	Obj
+25	k	RR--3----------	AuxP
+26	postupnému	AANS3----1A----	Atr
+27	snižování	NNNS3-----A----	Obj
+28	prodeje	NNIS2-----A----	Atr
+29	zbraní	NNFP2-----A----	Atr
+30	Tchaj	AAXXX----1A----	Atr
+31	-	Z:-------------	AuxG
+32	wanu	NNIXX-----A----	Atr
+33	.	Z:-------------	AuxK
+
+lnd94101-065-p1s6
+1	Rozhlasová	AAFS1----1A----	Atr
+2	stanice	NNFS1-----A----	Sb
+3	Svobodná	AAFS1----1A----	Atr
+4	Asie	NNFS1-----A----	Atr
+5	vychází	VB-S---3P-AA---	Pred
+6	z	RR--2----------	AuxP
+7	modelu	NNIS2-----A----	Adv
+8	Svobodné	AAFS2----1A----	Atr
+9	Evropy	NNFS2-----A----	Atr
+10	a	J^-------------	Coord
+11	má	VB-S---3P-AA---	Pred
+12	vysílat	Vf--------A----	Obj
+13	do	RR--2----------	AuxP
+14	Číny	NNFS2-----A----	Adv
+15	,	Z:-------------	AuxX
+16	Tibetu	NNIS2-----A----	Adv
+17	,	Z:-------------	AuxX
+18	Barmy	NNFS2-----A----	Adv
+19	,	Z:-------------	AuxX
+20	Kambodže	NNFS2-----A----	Adv
+21	,	Z:-------------	AuxX
+22	Laosu	NNIS2-----A----	Adv
+23	,	Z:-------------	AuxX
+24	severní	AAFS2----1A----	Atr
+25	Koreje	NNFS2-----A----	Adv
+26	a	J^-------------	Coord
+27	Vietnamu	NNIS2-----A----	Adv
+28	.	Z:-------------	AuxK
+
+lnd94101-065-p1s7
+1	Kongres	NNIS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	její	PSIS4FS3-------	Atr
+4	provoz	NNIS4-----A----	Adv
+5	vyčlenil	VpYS---XR-AA---	Pred
+6	30	C=-------------	Obj
+7	milionů	NNIP2-----A----	Atr
+8	dolarů	NNIP2-----A----	Atr
+9	ročně	Dg-------1A----	AtrAdv
+10	.	Z:-------------	AuxK
+

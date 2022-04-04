@@ -1,0 +1,134 @@
+mf920924-001-p1s1
+1	DOPRODEJ	NNIS1-----A----	ExD
+2	!	Z:-------------	AuxK
+
+mf920924-001-p2s1
+1	-	Z:-------------	AuxG
+2	účetní	NNFS4-----A----	ExD
+3	(	Z:-------------	AuxG
+4	podvojné	AANS1----1A----	Atr
+5	účetnictví	NNNS1-----A----	ExD
+6	,	Z:-------------	Coord
+7	PC	NNNXX-----A---8	ExD
+8	)	Z:-------------	AuxG
+
+mf920924-001-p3s1
+1	-	Z:-------------	AuxG
+2	šéftechnika	NNMS4-----A----	ExD
+3	(	Z:-------------	Apos
+4	nápojové	AAIP1----1A----	Atr
+5	a	J^-------------	Coord
+6	potravinové	AAIP1----1A----	Atr
+7	automaty	NNIP1-----A----	ExD
+8	)	Z:-------------	AuxG
+
+mf920924-001-p4s1
+1	-	Z:-------------	AuxG
+2	sekretářku	NNFS4-----A----	ExD
+
+mf920924-001-p5s1
+1	samostatnou	AAFS4----1A----	Atr
+2	sekretářku	NNFS4-----A----	ExD
+3	ředitele	NNMS2-----A----	Atr
+4	se	RV--7----------	AuxP
+5	znalostí	NNFS7-----A----	Atr
+6	německého	AAIS2----1A----	Atr
+7	jazyka	NNIS2-----A----	Atr
+8	slovem	NNNS7-----A----	Atr
+9	i	J^-------------	Coord
+10	písmem	NNNS7-----A----	Atr
+11	,	Z:-------------	Coord
+12	psaní	NNNS1-----A----	Atr
+13	na	RR--6----------	AuxP
+14	stroji	NNIS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920924-001-p5s2
+1	Očekáváme	VB-P---1P-AA---	Pred
+2	energickou	AAFS4----1A----	Atr
+3	,	Z:-------------	Coord
+4	organizačně	Dg-------1A----	Adv
+5	nadanou	AAFS4----1A----	Atr
+6	ženu	NNFS4-----A----	Obj
+7	ve	RV--6----------	AuxP
+8	věku	NNIS6-----A----	Atr
+9	30	C=-------------	Atr
+10	-	Z:-------------	Coord
+11	45	C=-------------	Atr
+12	let	NNNP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920924-001-p5s3
+1	Nabízíme	VB-P---1P-AA---	Pred
+2	různorodou	AAFS4----1A----	Atr
+3	,	Z:-------------	Coord
+4	zajímavou	AAFS4----1A----	Atr
+5	práci	NNFS4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	moderním	AAIS6----1A----	Atr
+8	kolektivu	NNIS6-----A----	Atr
+9	a	J^-------------	Coord
+10	prostředí	NNNS6-----A----	Atr
+11	s	RR--7----------	AuxP
+12	patřičným	AANS7----1A----	Atr
+13	ohodnocením	NNNS7-----A----	Atr
+
+mf920924-001-p6s1
+1	samostatnou	AAFS4----1A----	Atr
+2	recepční	AAFS4----1A----	Atr
+3	telefonistku	NNFS4-----A----	ExD
+4	pro	RR--4----------	AuxP
+5	kancelářskou	AAFS4----1A----	Atr
+6	budovu	NNFS4-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Praze	NNFS6-----A----	Atr
+9	3	C=-------------	Atr
+10	-	Z:-------------	AuxG
+11	Jarově	NNIS6-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920924-001-p6s2
+1	Očekáváme	VB-P---1P-AA---	Pred
+2	zodpovědnou	AAFS4----1A----	Atr
+3	ženu	NNFS4-----A----	Obj
+4	s	RR--7----------	AuxP
+5	chutí	NNFS7-----A----	Atr
+6	do	RR--2----------	AuxP
+7	zajímavé	AAFS2----1A----	Atr
+8	práce	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf920924-001-p6s3
+1	Nabízíme	VB-P---1P-AA---	Pred
+2	dlouhodobou	AAFS4----1A----	Atr
+3	perspektivu	NNFS4-----A----	Obj
+4	v	RR--6----------	AuxP
+5	moderním	AAIS6----1A----	Atr
+6	kolektivu	NNIS6-----A----	Atr
+7	a	J^-------------	Coord
+8	prostředí	NNNS6-----A----	Atr
+
+mf920924-001-p7s1
+1	na	RR--4----------	AuxP
+2	0.30	C=-------------	ExD
+3	úvazku	NNIS2-----A----	Atr
+4	spolehlivou	AAFS4----1A----	Atr
+5	,	Z:-------------	Coord
+6	pracovitou	AAFS4----1A----	Atr
+7	paní	NNFS4-----A----	ExD
+8	na	RR--4----------	AuxP
+9	úklid	NNIS4-----A----	Atr
+10	firemních	AAFP2----1A----	Atr
+11	kanceláří	NNFP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	Atr
+14	3	C=-------------	Atr
+15	-	Z:-------------	AuxG
+16	Jarově	NNIS6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920924-001-p7s2
+1	Odpolední	AAFS1----1A----	Atr
+2	práce	NNFS1-----A----	ExD
+3	.	Z:-------------	AuxK
+

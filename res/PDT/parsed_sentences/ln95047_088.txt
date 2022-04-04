@@ -1,0 +1,293 @@
+ln95047-088-p1s1
+1	Falšovalo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	na	RR--6----------	AuxP
+4	Mejstříkově	AUIS6M---------	Atr
+5	psacím	AAIS6----1A----	Atr
+6	stroji	NNIS6-----A----	Adv
+
+ln95047-088-p2s1A
+1	Soudní	AAFS1----1A----	Atr
+2	síň	NNFS1-----A----	ExD
+
+ln95047-088-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-088-p2s1C
+1	V	RR--6----------	AuxP
+2	procesu	NNIS6-----A---1	Adv
+3	s	RR--7----------	AuxP
+4	Martou	NNFS7-----A----	Atr
+5	Chadimovou	NNFS7-----A----	Atr
+6	včera	Db-------------	Adv
+7	vypovídal	VpYS---XR-AA---	Pred
+8	novinář	NNMS1-----A----	Atr
+9	Martin	NNMS1-----A----	Atr
+10	Mejstřík	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95047-088-p2s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	obžalované	AAFS3----1A----	Obj
+5	v	RR--6----------	AuxP
+6	roce	NNIS6-----A---1	Adv
+7	1992	C=-------------	Atr
+8	zapůjčil	VpYS---XR-AA---	Obj
+9	svůj	P8IS4----------	Atr
+10	kufříkový	AAIS4----1A----	Atr
+11	psací	AAIS4----1A----	Atr
+12	stroj	NNIS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	který	P4IS4----------	Obj
+15	loni	Db------------1	Adv
+16	po	RR--6----------	AuxP
+17	dovolené	NNFS6-----A----	Adv
+18	našel	VpYS---XR-AA---	Atr
+19	doma	Db-------------	Adv
+20	poškozený	AAIS4----1A----	Atv
+21	tak	Db-------------	Adv
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	se	P7-X4----------	AuxR
+25	s	RR--7----------	AuxP
+26	ním	P5ZS7--3-------	Adv
+27	nedalo	VpNS---XR-NA---	Adv
+28	psát	Vf--------A----	Sb
+29	.	Z:-------------	AuxK
+
+ln95047-088-p2s3
+1	"	Z:-------------	AuxG
+2	Neříkám	VB-S---1P-NA---	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	stroj	NNIS4-----A----	Obj
+6	poškodila	VpQW---XR-AA---	Obj
+7	M	NNFXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Chadimová	NNFS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	"	Z:-------------	AuxG
+12	dodal	VpYS---XR-AA---	Pred
+13	a	J^-------------	Coord
+14	uvedl	VpYS---XR-AA---	Pred
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	klíče	NNIP4-----A----	Obj
+18	od	RR--2----------	AuxP
+19	jeho	PSXXXZS3-------	Atr
+20	bytu	NNIS2-----A----	Atr
+21	měli	VpMP---XR-AA---	Obj
+22	i	J^-------------	AuxZ
+23	jeho	PSXXXZS3-------	Atr
+24	příbuzní	NNMP1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln95047-088-p3s1
+1	Na	RR--6----------	AuxP
+2	Mejstříkově	AUIS6M---------	Atr
+3	psacím	AAIS6----1A----	Atr
+4	stroji	NNIS6-----A----	Adv
+5	byly	VpTP---XR-AA---	AuxV
+6	podle	RR--2----------	AuxP
+7	výpovědi	NNFS2-----A----	Adv
+8	soudního	AAMS2----1A----	Atr
+9	znalce	NNMS2-----A----	Atr
+10	zfalšovány	VsTP---XX-AP---	Pred
+11	dva	ClYP1----------	Atr
+12	originály	NNIP1-----A----	Sb
+13	listin	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4FP4----------	Obj
+16	obžalovaná	AAFS1----1A----	Sb
+17	předala	VpQW---XR-AA---	AtrAtr
+18	soudu	NNIS3-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln95047-088-p4s1
+1	Svědek	NNMS1-----A----	Sb
+2	sdělil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	M	NNFXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Chadimová	NNFS1-----A----	Sb
+8	měla	VpQW---XR-AA---	Obj
+9	loňského	AAIS2----1A----	Atr
+10	roku	NNIS2-----A---1	Adv
+11	klíče	NNIP4-----A----	Obj
+12	od	RR--2----------	AuxP
+13	jeho	PSXXXZS3-------	Atr
+14	bytu	NNIS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	když	J,-------------	AuxC
+17	odjel	VpYS---XR-AA---	Adv
+18	na	RR--4----------	AuxP
+19	dovolenou	NNFS4-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95047-088-p4s2
+1	Poté	Db-------------	Adv
+2	,	Z:-------------	AuxX
+3	co	J,-------------	AuxC
+4	stroj	NNIS4-----A----	Obj
+5	našel	VpYS---XR-AA---	Adv
+6	poničený	AAIS4----1A----	Atv
+7	,	Z:-------------	AuxX
+8	oznámil	VpYS---XR-AA---	Pred
+9	tento	PDIS4----------	Atr
+10	fakt	NNIS4-----A----	Obj
+11	předsedovi	NNMS3-----A----	Obj
+12	senátu	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	rozhoduje	VB-S---3P-AA---	Atr
+16	o	RR--6----------	AuxP
+17	kauze	NNFS6-----A----	Obj
+18	Chadimové	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95047-088-p5s1
+1	Mejstřík	NNMS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	nebyl	VpYS---XR-NA---	Pred
+4	schopen	ACYS------A----	Pnom
+5	potvrdit	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	zda	J,-------------	AuxC
+8	jde	VB-S---3P-AA---	Obj
+9	skutečně	Dg-------1A----	Adv
+10	o	RR--4----------	AuxP
+11	jeho	PSXXXZS3-------	Atr
+12	stroj	NNIS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	či	J^-------------	Coord
+15	zda	J,-------------	AuxC
+16	mu	PHZS3--3-------	Adv
+17	stroj	NNIS1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	který	P4IS4----------	Obj
+20	policie	NNFS1-----A----	Sb
+21	zajistila	VpQW---XR-AA---	Atr
+22	,	Z:-------------	AuxX
+23	nebyl	VpYS---XR-NA---	AuxV
+24	do	RR--2----------	AuxP
+25	bytu	NNIS2-----A----	Adv
+26	podvržen	VsYS---XX-AP---	Obj
+27	.	Z:-------------	AuxK
+
+ln95047-088-p5s2
+1	Podivné	AAIP1----1A----	Obj
+2	se	P7-X4----------	AuxT
+3	mu	PHZS3--3-------	Obj
+4	zdály	VpTP---XR-AA---	Pred
+5	páka	NNFS1-----A----	Sb
+6	i	J^-------------	Coord
+7	válec	NNIS1-----A----	Sb
+8	zajištěného	AAIS2----1A----	Atr
+9	stroje	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95047-088-p5s3
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	slov	NNNP2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	možné	AANS1----1A----	Pnom
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	v	RR--6----------	AuxP
+9	případě	NNIS6-----A----	AuxP
+10	stroje	NNIS2-----A----	Adv
+11	šlo	VpNS---XR-AA---	Sb
+12	o	RR--4----------	AuxP
+13	provokaci	NNFS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	neboť	J^-------------	Coord
+16	se	P7-X4----------	AuxT
+17	jako	J,-------------	AuxY
+18	novinář	NNMS1-----A----	AtvV
+19	v	RR--6----------	AuxP
+20	případu	NNIS6-----A---1	Adv
+21	angažoval	VpYS---XR-AA---	Pred
+22	ve	RV--4----------	AuxP
+23	prospěch	NNIS4-----A----	AuxP
+24	Chadimové	NNFS2-----A----	Adv
+25	,	Z:-------------	Coord
+26	navíc	Db-------------	Adv
+27	byli	VpMP---XR-AA---	Pred
+28	s	RR--7----------	AuxP
+29	Chadimovou	NNFS7-----A----	Adv
+30	přátelé	NNMP1-----A----	Pnom
+31	a	J^-------------	Coord
+32	znali	VpMP---XR-AA---	Pred
+33	se	P7-X4----------	Obj
+34	asi	TT-------------	AuxZ
+35	dvanáct	Cn-S4----------	Adv
+36	let	NNNP2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln95047-088-p6s1
+1	Chadimová	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	obžalována	VsQW---XX-AP---	Pred
+4	z	RR--2----------	AuxP
+5	padělání	NNNS2-----A----	Obj
+6	veřejných	AAFP2----1A----	Atr
+7	listin	NNFP2-----A----	Atr
+8	a	J^-------------	Coord
+9	následného	AAIS2----1A----	Atr
+10	pokusu	NNIS2-----A----	Obj
+11	o	RR--4----------	AuxP
+12	podvodné	AANS4----1A----	Atr
+13	vylákání	NNNS4-----A----	Atr
+14	nemovitého	AAIS2----1N----	Atr
+15	majetku	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95047-088-p6s2
+1	Mimo	RR--4----------	AuxP
+2	jiné	AANS4----1A----	Adv
+3	se	P7-X4----------	AuxT
+4	podle	RR--2----------	AuxP
+5	obžaloby	NNFS2-----A----	Adv
+6	pokusila	VpQW---XR-AA---	Pred
+7	vylákat	Vf--------A----	Obj
+8	na	RR--6----------	AuxP
+9	řádu	NNIS6-----A----	Adv
+10	premonstrátů	NNMP2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Praze	NNFS6-----A----	AtrAtr
+13	na	RR--6----------	AuxP
+14	Strahově	NNIS6-----A----	Atr
+15	budovy	NNFP4-----A----	Obj
+16	v	RR--6----------	AuxP
+17	hodnotě	NNFS6-----A----	Atr
+18	téměř	Db-------------	AuxZ
+19	43	C=-------------	Atr
+20	miliónů	NNIP2-----A----	Atr
+21	korun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95047-088-p6s3
+1	Dále	Db------------1	Adv
+2	je	VB-S---3P-AA---	AuxV
+3	obžalována	VsQW---XX-AP---	Pred
+4	z	RR--2----------	AuxP
+5	podvodného	AANS2----1A----	Atr
+6	vylákání	NNNS2-----A----	Obj
+7	nábytku	NNIS2-----A----	Atr
+8	asi	TT-------------	AuxZ
+9	za	RR--4----------	AuxP
+10	80000	C=-------------	Atr
+11	korun	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	z	RR--2----------	AuxP
+14	maření	NNNS2-----A----	Obj
+15	výkonu	NNIS2-----A----	Atr
+16	úředního	AANS2----1A----	Atr
+17	rozhodnutí	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+

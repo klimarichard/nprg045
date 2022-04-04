@@ -1,0 +1,118 @@
+ln95046-007-p1s1
+1	Penzijní	AAIS1----1A----	Atr
+2	fond	NNIS1-----A----	Sb
+3	Everest	NNIS1-----A----	Atr
+4	má	VB-S---3P-AA---	Pred
+5	licenci	NNFS4-----A----	Obj
+
+ln95046-007-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-007-p2s1B
+1	Univerzální	AAIS1----1A----	Atr
+2	penzijní	AAIS1----1A----	Atr
+3	fond	NNIS1-----A----	Sb
+4	Everest	NNIS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	v	RR--4----------	AuxP
+8	pondělí	NNNS4-----A----	Adv
+9	obdržel	VpYS---XR-AA---	Atr
+10	licenci	NNFS4-----A----	Obj
+11	ministerstva	NNNS2-----A----	Atr
+12	financí	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	chce	VB-S---3P-AA---	Pred
+15	nabízet	Vf--------A----	Obj
+16	penzijní	AANS4----1A----	Atr
+17	připojištění	NNNS4-----A----	Obj
+18	se	RV--7----------	AuxP
+19	státním	AAIS7----1A----	Atr
+20	příspěvkem	NNIS7-----A----	Atr
+21	od	RR--2----------	AuxP
+22	1	C=-------------	Atr
+23	.	Z:-------------	AuxG
+24	dubna	NNIS2-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln95046-007-p2s2
+1	Fond	NNIS1-----A----	Sb
+2	nabídne	VB-S---3P-AA---	Pred
+3	penzi	NNFS4-----A----	Obj
+4	starobní	AAFS4----1A----	Atr
+5	,	Z:-------------	AuxX
+6	invalidní	AAFS4----1A----	Atr
+7	,	Z:-------------	Coord
+8	výsluhovou	AAFS4----1A----	Atr
+9	(	Z:-------------	AuxG
+10	všechny	PLFP4----------	ExD
+11	na	RR--4----------	AuxP
+12	dobu	NNFS4-----A----	ExD
+13	určitou	AAFS4----1A----	Atr
+14	i	J^-------------	Coord
+15	doživotní	AAFS4----1A----	ExD
+16	)	Z:-------------	AuxG
+17	,	Z:-------------	AuxX
+18	pozůstalostní	AAFS4----1A----	Atr
+19	penzi	NNFS4-----A----	Obj
+20	na	RR--4----------	AuxP
+21	dobu	NNFS4-----A----	Atr
+22	určitou	AAFS4----1A----	Atr
+23	,	Z:-------------	Coord
+24	odbytné	NNNS4-----A----	Atr
+25	i	J^-------------	Coord
+26	jednorázové	AANS4----1A----	Atr
+27	vyrovnání	NNNS4-----A----	Obj
+28	.	Z:-------------	AuxK
+
+ln95046-007-p3s1
+1	Fond	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	chce	VB-S---3P-AA---	Atr
+5	patřit	Vf--------A----	Obj
+6	ke	RV--3----------	AuxP
+7	skupině	NNFS3-----A----	Obj
+8	silnějších	AAIP2----2A----	Atr
+9	penzijních	AAIP2----1A----	Atr
+10	fondů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	bude	VB-S---3F-AA---	Pred
+13	otevřeným	AAIS7----1A----	Pnom
+14	pro	RR--4----------	AuxP
+15	všechny	PLFP4----------	Atr
+16	skupiny	NNFP4-----A----	Adv
+17	obyvatel	NNMS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95046-007-p3s2
+1	Základní	AANS1----1A----	Atr
+2	jmění	NNNS1-----A----	Sb
+3	fondu	NNIS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	jehož	PJZS2----------	Atr
+6	zakladatelem	NNMS7-----A----	Pnom
+7	je	VB-S---3P-AA---	Atr
+8	se	RV--7----------	AuxP
+9	stoprocentní	AAFS7----1A----	Atr
+10	majetkovou	AAFS7----1A----	Atr
+11	účastí	NNFS7-----A----	Adv
+12	Harvard	NNMS1-----A----	Atr
+13	Group	NNFXX-----A----	Sb
+14	,	Z:-------------	AuxX
+15	činí	VB-S---3P-AA---	Pred
+16	25	C=-------------	Obj
+17	miliónů	NNIP2-----A----	Atr
+18	Kč	NNFXX-----A----	Atr
+19	,	Z:-------------	Coord
+20	přičemž	J,-------------	Adv
+21	rezervní	AAIS1----1A----	Atr
+22	fond	NNIS1-----A----	Sb
+23	dosahuje	VB-S---3P-AA---	Pred
+24	dalších	AAIP2----1A----	Atr
+25	pěti	Cn-P2----------	Atr
+26	miliónů	NNIP2-----A----	Obj
+27	Kč	NNFXX-----A----	Atr
+28	.	Z:-------------	AuxK
+

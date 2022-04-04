@@ -1,0 +1,700 @@
+mf930713-151-p1s1
+1	Ukrajina	NNFS1-----A----	Sb
+2	nebude	VB-S---3F-NA---	Pred
+3	jaderná	AAFS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	ale	J^-------------	Coord
+6	žádá	VB-S---3P-AA---	Pred
+7	garance	NNFP4-----A----	Obj
+
+mf930713-151-p2s1
+1	Boris	NNMS1-----A----	Atr
+2	Tarasjuk	NNMS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	prvním	CrMS7----------	Atr
+5	náměstkem	NNMS7-----A----	Pnom
+6	ministra	NNMS2-----A----	Atr
+7	zahraničí	NNNS2-----A----	Atr
+8	Ukrajiny	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	vedoucím	NNMS7-----A----	Pnom
+11	ukrajinské	AAFS2----1A----	Atr
+12	delegace	NNFS2-----A----	Atr
+13	na	RR--6----------	AuxP
+14	odzbrojovacích	AAIP6----1A----	Atr
+15	rozhovorech	NNIP6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	z	RR--2----------	AuxP
+18	nichž	P9XP2----------	Atr
+19	se	P7-X4----------	AuxT
+20	v	RR--6----------	AuxP
+21	poslední	AAFS6----1A----	Atr
+22	době	NNFS6-----A----	Adv
+23	podstatná	AAFS1----1A----	Atr
+24	část	NNFS1-----A----	Sb
+25	týká	VB-S---3P-AA---	Atr
+26	jaderných	AAFP2----1A----	Atr
+27	zbraní	NNFP2-----A----	Obj
+28	umístěných	AAFP2----1A----	Atr
+29	na	RR--6----------	AuxP
+30	ukrajinském	AANS6----1A----	Atr
+31	území	NNNS6-----A----	Adv
+32	.	Z:-------------	AuxK
+
+mf930713-151-p2s2
+1	V	RR--6----------	AuxP
+2	minulých	AAIP6----1A----	Atr
+3	dnech	NNIP6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	účastnil	VpYS---XR-AA---	Pred
+6	ve	RV--6----------	AuxP
+7	Štiříně	NNIS6-----A----	Adv
+8	u	RR--2----------	AuxP
+9	Prahy	NNFS2-----A----	Atr
+10	konference	NNFS2-----A----	Obj
+11	středo	A2--------A----	Atr
+12	-	Z:-------------	AuxG
+13	a	J^-------------	Coord
+14	východoevropských	AAMP2----1A----	Atr
+15	představitelů	NNMP2-----A----	Atr
+16	o	RR--6----------	AuxP
+17	regionální	AAFS6----1A----	Atr
+18	spolupráci	NNFS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf930713-151-p2s3
+1	Při	RR--6----------	AuxP
+2	té	PDFS6----------	Atr
+3	příležitosti	NNFS6-----A----	Adv
+4	nám	PP-P3--1-------	Obj
+5	poskytl	VpYS---XR-AA--1	Pred
+6	následující	AGIS4-----A----	Atr
+7	rozhovor	NNIS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+mf930713-151-p2s4
+1	Zůstane	VB-S---3P-AA---	Pred
+2	Ukrajina	NNFS1-----A----	Sb
+3	jadernou	AAFS7----1A----	Atr
+4	velmocí	NNFS7-----A----	Obj
+5	?	Z:-------------	AuxK
+
+mf930713-151-p2s5
+1	Ukrajina	NNFS1-----A----	Sb
+2	se	P7-X4----------	Obj
+3	může	VB-S---3P-AA---	Pred
+4	jaderným	AAIS7----1A----	Atr
+5	státem	NNIS7-----A----	Obj
+6	prohlásit	Vf--------A----	Obj
+7	.	Z:-------------	AuxK
+
+mf930713-151-p2s6
+1	Otázkou	NNFS7-----A----	Obj
+2	však	J^-------------	Coord
+3	zůstává	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	do	RR--2----------	AuxP
+6	jaké	P4FS2----------	Atr
+7	míry	NNFS2-----A----	Adv
+8	je	VB-S---3P-AA---	Sb
+9	fakticky	Dg-------1A----	Adv
+10	možné	AANS1----1A----	Pnom
+11	,	Z:-------------	AuxX
+12	aby	J,-------------	AuxC
+13	se	P7-X4----------	AuxT
+14	jadernou	AAFS7----1A----	Atr
+15	mocností	NNFS7-----A----	Obj
+16	opravdu	Db-------------	AuxY
+17	stala	VpQW---XR-AA---	Sb
+18	.	Z:-------------	AuxK
+
+mf930713-151-p2s7
+1	Podle	RR--2----------	AuxP
+2	našich	PSXP2-P1-------	Atr
+3	expertů	NNMP2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	na	RR--4----------	AuxP
+6	to	PDNS4----------	Obj
+7	bylo	VpNS---XR-AA---	Pred
+8	třeba	ACNS------A----	Pnom
+9	vyčlenit	Vf--------A----	Sb
+10	více	Dg-------2A----	Obj
+11	než	J,-------------	AuxC
+12	64	C=-------------	Adv
+13	miliard	NNFP2-----A----	Atr
+14	dolarů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf930713-151-p2s8
+1	Z	RR--2----------	AuxP
+2	právního	AANS2----1A----	Atr
+3	hlediska	NNNS2-----A----	Adv
+4	náleží	VB-S---3P-AA---	Pred
+5	rozhodnutí	NNNS1-----A----	Sb
+6	o	RR--6----------	AuxP
+7	jaderném	AAIS6----1A----	Atr
+8	nebo	J^-------------	Coord
+9	bezjaderném	AAIS6----1A----	Atr
+10	statusu	NNIS6-----A---1	Atr
+11	země	NNFS2-----A----	Atr
+12	parlamentu	NNIS3-----A----	Obj
+13	.	Z:-------------	AuxK
+
+mf930713-151-p2s9
+1	Je	VB-S---3P-AA---	Pred
+2	tu	Db------------1	Adv
+3	však	J^-------------	Coord
+4	i	J^-------------	AuxZ
+5	vojenský	AAIS1----1A----	Atr
+6	aspekt	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	a	J^-------------	AuxY
+9	to	PDNS1----------	AuxY
+10	,	Z:-------------	AuxX
+11	jestli	J,-------------	AuxC
+12	Ukrajina	NNFS1-----A----	Sb
+13	může	VB-S---3P-AA---	Atr
+14	rozhodnutí	NNNS4-----A----	Obj
+15	v	RR--6----------	AuxP
+16	praxi	NNFS6-----A----	Adv
+17	realizovat	Vf--------A----	Obj
+18	.	Z:-------------	AuxK
+
+mf930713-151-p2s10
+1	Dnes	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	situace	NNFS1-----A----	Sb
+4	taková	PDFS1----------	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	ani	J^-------------	AuxZ
+8	nemáme	VB-P---1P-NA---	Atr
+9	kontrolu	NNFS4-----A----	Obj
+10	nad	RR--7----------	AuxP
+11	jadernými	AAFP7----1A----	Atr
+12	zbraněmi	NNFP7-----A----	Atr
+13	,	Z:-------------	AuxX
+14	které	P4FP1----------	Sb
+15	se	P7-X4----------	AuxT
+16	nacházejí	VB-P---3P-AA---	Atr
+17	na	RR--6----------	AuxP
+18	našem	PSZS6-P1-------	Atr
+19	území	NNNS6-----A----	Adv
+20	.	Z:-------------	AuxK
+
+mf930713-151-p2s11
+1	Ta	PDFS1----------	Sb
+2	podléhá	VB-S---3P-AA---	Pred
+3	velení	NNNS3-----A----	Obj
+4	strategických	AAFP2----1A----	Atr
+5	sil	NNFP2-----A----	Atr
+6	Svazu	NNIS2-----A----	AtrAtr
+7	nezávislých	AAIP2----1N----	Atr
+8	států	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	proto	J^-------------	AuxY
+12	v	RR--4----------	AuxP
+13	tuto	PDFS4----------	Atr
+14	chvíli	NNFS4-----A----	Adv
+15	nelze	VB-S---3P-NA---	Pred
+16	Ukrajinu	NNFS4-----A----	Obj
+17	pokládat	Vf--------A----	Sb
+18	za	RR--4----------	AuxP
+19	jadernou	AAFS4----1A----	Atr
+20	mocnost	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+mf930713-151-p2s12
+1	Z	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	,	Z:-------------	AuxX
+4	co	PQ--4----------	Obj
+5	jsem	VB-S---1P-AA---	AuxV
+6	řekl	VpYS---XR-AA---	Atr
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Pred
+9	zřejmé	AANS1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	jestliže	J,-------------	AuxC
+13	bychom	Vc-P---1-------	AuxV
+14	se	P7-X4----------	AuxT
+15	rozhodli	VpMP---XR-AA--1	Adv
+16	stát	Vf--------A----	Obj
+17	jadernou	AAFS7----1A----	Atr
+18	zemí	NNFS7-----A----	Obj
+19	,	Z:-------------	AuxX
+20	musela	VpQW---XR-AA---	Sb
+21	by	Vc-------------	AuxV
+22	následovat	Vf--------A----	Obj
+23	celá	AAFS1----1A----	Atr
+24	řada	NNFS1-----A----	Sb
+25	kroků	NNIP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	aby	J,-------------	AuxC
+28	se	P7-X4----------	AuxT
+29	politická	AAFS1----1A----	Atr
+30	deklarace	NNFS1-----A----	Sb
+31	stala	VpQW---XR-AA---	Adv
+32	skutečností	NNFS7-----A----	Obj
+33	.	Z:-------------	AuxK
+
+mf930713-151-p2s13
+1	Bylo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	třeba	ACNS------A----	Pnom
+4	vybudovat	Vf--------A----	Sb
+5	velmi	Db-------------	Adv
+6	složitý	AAIS4----1A----	Atr
+7	systém	NNIS4-----A----	Obj
+8	strategického	AANS2----1A----	Atr
+9	velení	NNNS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	závody	NNIP4-----A----	Obj
+12	na	RR--4----------	AuxP
+13	výrobu	NNFS4-----A----	Atr
+14	jaderných	AAFP2----1A----	Atr
+15	zbraní	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4YP4----------	Obj
+18	dnes	Db-------------	Adv
+19	nemáme	VB-P---1P-NA---	Atr
+20	.	Z:-------------	AuxK
+
+mf930713-151-p2s14
+1	Osobně	Dg-------1A----	Adv
+2	jsem	VB-S---1P-AA---	Pred
+3	navíc	Db-------------	Adv
+4	přesvědčen	VsYS---XX-AP---	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	parlament	NNIS1-----A----	Sb
+8	změnu	NNFS4-----A----	Obj
+9	bezjaderného	AAIS2----1A----	Atr
+10	statusu	NNIS2-----A----	Atr
+11	Ukrajiny	NNFS2-----A----	Atr
+12	neodhlasuje	VB-S---3P-NA---	Obj
+13	.	Z:-------------	AuxK
+
+mf930713-151-p2s15
+1	Proč	Db-------------	Adv
+2	parlament	NNIS1-----A----	Sb
+3	dosud	Db-------------	Adv
+4	neratifikoval	VpYS---XR-NA---	Pred
+5	smlouvu	NNFS4-----A----	Obj
+6	SALT	NNNP2-----A----	Atr
+7	1	C=-------------	Atr
+8	?	Z:-------------	AuxK
+
+mf930713-151-p2s16
+1	Ukrajinský	AAIS1----1A----	Atr
+2	parlament	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	smlouvou	NNFS7-----A----	Obj
+5	SALT	NNNP2-----A----	Atr
+6	1	C=-------------	Atr
+7	již	Db-------------	Adv
+8	delší	AAFS4----2A----	Atr
+9	dobu	NNFS4-----A----	Adv
+10	zabývá	VB-S---3P-AA---	Pred
+11	.	Z:-------------	AuxK
+
+mf930713-151-p2s17
+1	S	RR--7----------	AuxP
+2	plněním	NNNS7-----A----	Obj
+3	této	PDFS2----------	Atr
+4	dohody	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	AuxV
+6	však	J^-------------	Coord
+7	spojena	VsQW---XX-AP---	Pred
+8	celá	AAFS1----1A----	Atr
+9	řada	NNFS1-----A----	Sb
+10	komplikací	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930713-151-p2s18
+1	Na	RR--4----------	AuxP
+2	likvidaci	NNFS4-----A----	AtrAdv
+3	těchto	PDXP2----------	Atr
+4	zbraní	NNFP2-----A----	Atr
+5	bychom	Vc-P---1-------	AuxV
+6	například	Db-------------	AuxY
+7	potřebovali	VpMP---XR-AA---	Pred
+8	prostředky	NNIP4-----A----	Obj
+9	ve	RV--6----------	AuxP
+10	výši	NNFS6-----A----	Atr
+11	2.8	C=-------------	Atr
+12	miliardy	NNFS2-----A----	Atr
+13	dolarů	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4YP4----------	Obj
+16	nemáme	VB-P---1P-NA---	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-151-p2s19
+1	Není	VB-S---3P-NA---	Pred
+2	možné	AANS1----1A----	Pnom
+3	ponechat	Vf--------A----	Sb
+4	likvidaci	NNFS4-----A----	Obj
+5	těchto	PDXP2----------	Atr
+6	zbraní	NNFP2-----A----	Atr
+7	Rusku	NNNS3-----A----	Obj
+8	?	Z:-------------	AuxK
+
+mf930713-151-p2s20
+1	V	RR--6----------	AuxP
+2	ruských	AANP6----1A----	Atr
+3	zařízeních	NNNP6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	možné	AANS1----1A----	Pnom
+6	likvidovat	Vf--------A----	Sb
+7	bojové	AAFP4----1A----	Atr
+8	hlavice	NNFP4-----A----	Obj
+9	raket	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	už	Db-------------	AuxZ
+13	dnes	Db-------------	Adv
+14	jsou	VB-P---3P-AA---	Pred
+15	kapacity	NNFP1-----A----	Sb
+16	těchto	PDXP2----------	Atr
+17	závodů	NNIP2-----A----	Atr
+18	přetíženy	VsTP---XX-AP---	Pnom
+19	.	Z:-------------	AuxK
+
+mf930713-151-p2s21
+1	Kromě	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	tu	Db------------1	Adv
+5	i	J^-------------	AuxZ
+6	problém	NNIS1-----A----	Sb
+7	kompenzace	NNFS2-----A----	Atr
+8	za	RR--4----------	AuxP
+9	uran	NNIS4-----A----	Atr
+10	obsažený	AAIS4----1A----	Atr
+11	v	RR--6----------	AuxP
+12	hlavicích	NNFP6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	za	RR--4----------	AuxP
+15	který	P4IS4----------	Adv
+16	žádáme	VB-P---1P-AA---	Atr
+17	jako	J,-------------	AuxY
+18	náhradu	NNFS4-----A----	Atv
+19	buď	J^-------------	AuxY
+20	finanční	AAIP4----1A----	Atr
+21	prostředky	NNIP4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	nebo	J^-------------	Coord
+24	palivo	NNNS4-----A----	Obj
+25	do	RR--2----------	AuxP
+26	našich	PSXP2-P1-------	Atr
+27	jaderných	AAFP2----1A----	Atr
+28	elektráren	NNFP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+mf930713-151-p2s22
+1	A	J^-------------	Coord
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	se	P7-X4----------	AuxT
+5	nám	PP-P3--1-------	Obj
+6	s	RR--7----------	AuxP
+7	Ruskem	NNNS7-----A----	Obj
+8	dohodnout	Vf--------A----	Sb
+9	nedaří	VB-S---3P-NA---	Pred
+10	.	Z:-------------	AuxK
+
+mf930713-151-p2s23
+1	Neméně	Dg-------2N----	Adv
+2	důležitou	AAFS7----1A----	Atr
+3	otázkou	NNFS7-----A----	Pnom
+4	jsou	VB-P---3P-AA---	Pred
+5	však	J^-------------	Coord
+6	bezpečnostní	AAFP1----1A----	Atr
+7	garance	NNFP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+mf930713-151-p2s24
+1	Ukrajina	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	chystá	VB-S---3P-AA---	Pred
+4	zlikvidovat	Vf--------A----	Obj
+5	dnes	Db-------------	Adv
+6	nejúčinnější	AAIS4----3A----	Atr
+7	druh	NNIS4-----A----	Obj
+8	zbraní	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	proto	J^-------------	AuxY
+12	má	VB-S---3P-AA---	Pred
+13	právo	NNNS4-----A----	Obj
+14	se	P7-X4----------	AuxT
+15	ptát	Vf--------A----	Atr
+16	,	Z:-------------	AuxX
+17	jak	Db-------------	Adv
+18	bude	VB-S---3F-AA---	AuxV
+19	do	RR--2----------	AuxP
+20	budoucna	NNNS2-----A----	Adv
+21	garantována	VsQW---XX-AP---	Obj
+22	její	PSFSXFS3-------	Atr
+23	bezpečnost	NNFS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+mf930713-151-p2s25
+1	V	RR--6----------	AuxP
+2	Rusku	NNNS6-----A----	Adv
+3	vznikají	VB-P---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	poslední	AAFS6----1A----	Atr
+6	době	NNFS6-----A----	Adv
+7	protiukrajinské	AAFP1----1A----	Atr
+8	nálady	NNFP1-----A----	Sb
+9	a	J^-------------	Coord
+10	Moskva	NNFS1-----A----	Sb
+11	vznáší	VB-S---3P-AA---	Pred
+12	vůči	RR--3----------	AuxP
+13	nám	PP-P3--1-------	Adv
+14	územní	AAIP4----1A----	Atr
+15	nároky	NNIP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+mf930713-151-p2s26
+1	Rumunský	AAIS1----1A----	Atr
+2	parlament	NNIS1-----A----	Sb
+3	vznesl	VpYS---XR-AA---	Pred
+4	požadavky	NNIP4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	ukrajinskou	AAFS4----1A----	Atr
+7	oblast	NNFS4-----A----	Atr
+8	severní	AAFS2----1A----	Atr
+9	Bukoviny	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-151-p2s27
+1	To	PDNS1----------	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	velmi	Db-------------	Adv
+4	reálné	AAFP1----1A----	Atr
+5	hrozby	NNFP1-----A----	Pnom
+6	.	Z:-------------	AuxK
+
+mf930713-151-p2s28
+1	V	RR--6----------	AuxP
+2	současnosti	NNFS6-----A----	Adv
+3	vedeme	VB-P---1P-AA---	Pred
+4	intenzívní	AAIP4----1A----	Atr
+5	rozhovory	NNIP4-----A----	Obj
+6	se	RV--7----------	AuxP
+7	stálými	AAMP7----1A----	Atr
+8	členy	NNMP7-----A----	Atr
+9	Rady	NNFS2-----A----	Atr
+10	bezpečnosti	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	kteří	P4MP1----------	Sb
+13	jsou	VB-P---3P-AA---	Atr
+14	zároveň	Db-------------	Adv
+15	jadernými	AAFP7----1A----	Atr
+16	mocnostmi	NNFP7-----A----	Pnom
+17	a	J^-------------	Coord
+18	v	RR--6----------	AuxP
+19	podstatě	NNFS6-----A----	Adv
+20	jsme	VB-P---1P-AA---	AuxV
+21	dospěli	VpMP---XR-AA---	Pred
+22	k	RR--3----------	AuxP
+23	dohodě	NNFS3-----A----	Obj
+24	,	Z:-------------	AuxX
+25	podle	RR--2----------	AuxP
+26	níž	P9FS2----------	Adv
+27	se	P7-X4----------	AuxT
+28	tyto	PDFP1----------	Atr
+29	země	NNFP1-----A----	Sb
+30	zavazují	VB-P---3P-AA---	Atr
+31	,	Z:-------------	AuxX
+32	že	J,-------------	AuxC
+33	z	RR--2----------	AuxP
+34	jejich	PSXXXXP3-------	Atr
+35	strany	NNFS2-----A----	Adv
+36	nebude	VB-S---3F-NA---	AuxV
+37	Ukrajina	NNFS1-----A----	Sb
+38	napadena	VsQW---XX-AP---	Obj
+39	ani	J^-------------	AuxY
+40	jadernými	AAFP7----1A----	Atr
+41	zbraněmi	NNFP7-----A----	Adv
+42	,	Z:-------------	AuxX
+43	ani	J^-------------	Coord
+44	konvenčními	AAFP7----1A----	Atr
+45	silami	NNFP7-----A----	Adv
+46	,	Z:-------------	AuxX
+47	a	J^-------------	Coord
+48	dostali	VpMP---XR-AA---	Pred
+49	jsme	VB-P---1P-AA---	AuxV
+50	garance	NNFP4-----A----	Obj
+51	územní	AAFS2----1A----	Atr
+52	celistvosti	NNFS2-----A----	Atr
+53	.	Z:-------------	AuxK
+
+mf930713-151-p2s29
+1	Také	Db-------------	Adv
+2	nám	PP-P3--1-------	Obj
+3	jde	VB-S---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	to	PDNS4----------	Obj
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	tyto	PDIP1----------	Atr
+9	sliby	NNIP1-----A----	Sb
+10	byly	VpTP---XR-AA---	AuxV
+11	Ukrajině	NNFS3-----A----	Adv
+12	dány	VsTP---XX-AP---	Atr
+13	ne	TT-------------	AuxZ
+14	formou	NNFS7-----A----	Adv
+15	nějakého	PZZS2----------	Atr
+16	nezávazného	AANS2----1N----	Atr
+17	prohlášení	NNNS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	aby	J,-------------	AuxC
+21	to	PDNS1----------	Sb
+22	byl	VpYS---XR-AA---	Atr
+23	plnoprávný	AAIS1----1A----	Atr
+24	mezinárodně	Dg-------1A----	Adv
+25	platný	AAIS1----1A----	Atr
+26	a	J^-------------	Coord
+27	závazný	AAIS1----1A----	Atr
+28	dokument	NNIS1-----A----	Pnom
+29	.	Z:-------------	AuxK
+
+mf930713-151-p2s30
+1	Znamená	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jste	VB-P---2P-AA---	AuxV
+6	dostali	VpMP---XR-AA---	Obj
+7	bezpečnostní	AAFP4----1A----	Atr
+8	garance	NNFP4-----A----	Obj
+9	i	J^-------------	AuxZ
+10	od	RR--2----------	AuxP
+11	Ruska	NNNS2-----A----	AtrAdv
+12	?	Z:-------------	AuxK
+
+mf930713-151-p2s31
+1	Ano	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	garance	NNFP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	které	P4FP4----------	Obj
+6	jsme	VB-P---1P-AA---	AuxV
+7	od	RR--2----------	AuxP
+8	Moskvy	NNFS2-----A----	Adv
+9	dostali	VpMP---XR-AA---	Atr
+10	,	Z:-------------	AuxX
+11	nás	PP-P4--1-------	Obj
+12	z	RR--2----------	AuxP
+13	velké	AAFS2----1A----	Atr
+14	části	NNFS2-----A----	Adv
+15	uspokojují	VB-P---3P-AA---	Pred
+16	.	Z:-------------	AuxK
+
+mf930713-151-p2s32
+1	Nemáte	VB-P---2P-NA---	Pred
+2	ale	J^-------------	Coord
+3	strach	NNIS4-----A----	Obj
+4	ze	RV--2----------	AuxP
+5	změny	NNFS2-----A----	Atr
+6	politického	AAIS2----1A----	Atr
+7	kursu	NNIS2-----A----	Atr
+8	Moskvy	NNFS2-----A----	Atr
+9	?	Z:-------------	AuxK
+
+mf930713-151-p2s33
+1	Minulý	AAIS4----1A----	Atr
+2	pátek	NNIS4-----A----	Adv
+3	například	Db-------------	AuxY
+4	ruský	AAIS1----1A----	Atr
+5	parlament	NNIS1-----A----	Sb
+6	vyhlásil	VpYS---XR-AA---	Pred
+7	ukrajinské	AANS4----1A----	Atr
+8	město	NNNS4-----A----	Obj
+9	Sevastopol	NNIS4-----A----	Atr
+10	a	J^-------------	Coord
+11	okolí	NNNS4-----A----	Obj
+12	za	RR--4----------	AuxP
+13	teritorium	NNNS4-----A----	Obj
+14	Ruska	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf930713-151-p2s34
+1	Usnesení	NNNS1-----A----	Sb
+2	ruského	AAIS2----1A----	Atr
+3	parlamentu	NNIS2-----A----	Atr
+4	týkající	AGNS1-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	Sevastopolu	NNIS2-----A----	Obj
+7	je	VB-S---3P-AA---	Pred
+8	akt	NNIS1-----A----	Pnom
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	odporuje	VB-S---3P-AA---	Atr
+12	všem	PLXP3----------	Atr
+13	normám	NNFP3-----A----	Obj
+14	mezinárodního	AANS2----1A----	Atr
+15	práva	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930713-151-p2s35
+1	Nejde	VB-S---3P-NA---	Pred
+2	jen	TT-------------	AuxZ
+3	o	RR--4----------	AuxP
+4	nás	PP-P4--1-------	Obj
+5	.	Z:-------------	AuxK
+
+mf930713-151-p2s36
+1	Usnesení	NNNS1-----A----	Sb
+2	představuje	VB-S---3P-AA---	Pred
+3	hrozbu	NNFS4-----A----	Obj
+4	pro	RR--4----------	AuxP
+5	celé	AANS4----1A----	Atr
+6	mezinárodní	AANS4----1A----	Atr
+7	společenství	NNNS4-----A----	Atr
+8	,	Z:-------------	AuxX
+9	protože	J,-------------	AuxC
+10	dnes	Db-------------	Adv
+11	byly	VpTP---XR-AA---	AuxV
+12	vzneseny	VsTP---XX-AP---	Adv
+13	územní	AAIP1----1A----	Atr
+14	nároky	NNIP1-----A----	Sb
+15	vůči	RR--3----------	AuxP
+16	Ukrajině	NNFS3-----A----	AdvAtr
+17	,	Z:-------------	Coord
+18	zítra	Db-------------	Adv
+19	to	PDNS1----------	Pnom
+20	může	VB-S---3P-AA---	Adv
+21	být	Vf--------A----	Obj
+22	Lotyšsko	NNNS1-----A----	Sb
+23	,	Z:-------------	AuxX
+24	Polsko	NNNS1-----A----	Sb
+25	,	Z:-------------	AuxX
+26	nebo	J^-------------	Coord
+27	i	J^-------------	AuxZ
+28	Česká	AAFS1----1A----	Atr
+29	republika	NNFS1-----A----	Sb
+30	.	Z:-------------	AuxK
+
+mf930713-151-p2s37
+1	Tady	Db-------------	Adv
+2	také	Db-------------	Adv
+3	jasně	Dg-------1A----	Adv
+4	vidíte	VB-P---2P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	proč	Db-------------	Adv
+7	trváme	VB-P---1P-AA---	Obj
+8	na	RR--6----------	AuxP
+9	reálných	AAFP6----1A----	Atr
+10	garancích	NNFP6-----A----	Obj
+11	naší	PSFS2-P1-------	Atr
+12	bezpečnosti	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+

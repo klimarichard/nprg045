@@ -1,0 +1,211 @@
+mf930709-036-p1s1
+1	Výpisy	NNIP4-----A----	Obj
+2	si	P7-X3----------	Adv
+3	vyzvedlo	VpNS---XR-AA--1	Pred
+4	přes	RR--4----------	AuxP
+5	milion	NNIS4-----A----	Sb
+6	akcionářů	NNMP2-----A----	Atr
+
+mf930709-036-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jd	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-036-p2s1B
+1	Výpis	NNIS4-----A----	Obj
+2	z	RR--2----------	AuxP
+3	účtu	NNIS2-----A----	Atr
+4	majitele	NNMS2-----A----	Atr
+5	cenných	AAIP2----1A----	Atr
+6	papírů	NNIP2-----A----	Atr
+7	si	P7-X3----------	Adv
+8	na	RR--6----------	AuxP
+9	registračních	AANP6----1A----	Atr
+10	místech	NNNP6-----A----	Adv
+11	do	RR--2----------	AuxP
+12	konce	NNIS2-----A----	Adv
+13	června	NNIS2-----A----	Atr
+14	vyzvedlo	VpNS---XR-AA--1	Pred
+15	1074000	C=-------------	Sb
+16	z	RR--2----------	AuxP
+17	celkového	AAIS2----1A----	Atr
+18	počtu	NNIS2-----A----	Atr
+19	zhruba	Db-------------	AuxZ
+20	1.9	C=-------------	Atr
+21	milionu	NNIS2-----A----	Atr
+22	individuálních	AAMP2----1A----	Atr
+23	investorů	NNMP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf930709-036-p2s2
+1	Oznámili	VpMP---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	představitelé	NNMP1-----A----	Sb
+5	Střediska	NNNS2-----A----	Atr
+6	cenných	AAIP2----1A----	Atr
+7	papírů	NNIP2-----A----	Atr
+8	a	J^-------------	Coord
+9	Centra	NNNS2-----A----	Atr
+10	kupónové	AAFS2----1A----	Atr
+11	privatizace	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf930709-036-p2s3
+1	Tím	PDZS7----------	Adv
+2	byla	VpQW---XR-AA---	AuxV
+3	podle	RR--2----------	AuxP
+4	jejich	PSXXXXP3-------	Atr
+5	názoru	NNIS2-----A----	Adv
+6	pro	RR--4----------	AuxP
+7	individuální	AAMP4----1A----	Atr
+8	investory	NNMP4-----A----	Adv
+9	prakticky	Dg-------1A----	AuxY
+10	ukončena	VsQW---XX-AP---	Pred
+11	první	CrFS1----------	Atr
+12	vlna	NNFS1-----A----	Sb
+13	kupónové	AAFS2----1A----	Atr
+14	privatizace	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf930709-036-p2s4
+1	Ti	PDMP1----------	Atr
+2	individuální	AAMP1----1A----	Atr
+3	investoři	NNMP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	si	P7-X3----------	Adv
+7	výpisy	NNIP4-----A----	Obj
+8	nevyzvedli	VpMP---XR-NA--1	Atr
+9	osobně	Dg-------1A----	Adv
+10	,	Z:-------------	AuxX
+11	je	PPXP4--3-------	Obj
+12	obdrží	VB-P---3P-AA---	Pred
+13	v	RR--6----------	AuxP
+14	průběhu	NNIS6-----A----	AuxP
+15	července	NNIS2-----A----	Adv
+16	prostřednictvím	NNNS7-----A----	AuxP
+17	pošty	NNFS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+mf930709-036-p2s5
+1	Pokud	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	doklad	NNIS1-----A----	Sb
+4	nedostane	VB-S---3P-NA---	Adv
+5	do	RR--2----------	AuxP
+6	vlastních	AAFP2----1A----	Atr
+7	rukou	NNFP2-----A----	Adv
+8	adresáta	NNMS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	bude	VB-S---3F-AA---	AuxV
+11	nejprve	Db-------------	Adv
+12	uložen	VsYS---XX-AP---	Pred
+13	po	RR--4----------	AuxP
+14	dobu	NNFS4-----A----	Adv
+15	15	C=-------------	Atr
+16	dnů	NNIP2-----A----	Atr
+17	na	RR--6----------	AuxP
+18	poště	NNFS6-----A----	Adv
+19	v	RR--6----------	AuxP
+20	místě	NNNS6-----A----	AtrAdv
+21	jeho	PSXXXZS3-------	Atr
+22	bydliště	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf930709-036-p2s6
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	si	P7-X3----------	Adv
+6	jej	PPZS4--3------2	Obj
+7	investor	NNMS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	průběhu	NNIS6-----A----	AuxP
+10	této	PDFS2----------	Atr
+11	doby	NNFS2-----A----	Adv
+12	nevyzvedne	VB-S---3P-NA---	Atr
+13	,	Z:-------------	AuxX
+14	výpis	NNIS1-----A----	Sb
+15	bude	VB-S---3F-AA---	AuxV
+16	vrácen	VsYS---XX-AP---	Pred
+17	zpět	Db-------------	Adv
+18	do	RR--2----------	AuxP
+19	Střediska	NNNS2-----A----	Adv
+20	cenných	AAIP2----1A----	Atr
+21	papírů	NNIP2-----A----	Atr
+22	a	J^-------------	Coord
+23	po	RR--6----------	AuxP
+24	31	C=-------------	Atr
+25	.	Z:-------------	AuxG
+26	srpnu	NNIS6-----A----	Adv
+27	1993	C=-------------	Atr
+28	skartován	VsYS---XX-AP---	Pred
+29	.	Z:-------------	AuxK
+
+mf930709-036-p2s7
+1	Investor	NNMS1-----A----	Sb
+2	tím	PDZS7----------	Adv
+3	ovšem	J^-------------	AuxY
+4	své	P8FP4---------1	Atr
+5	akcie	NNFP4-----A----	Obj
+6	neztrácí	VB-S---3P-NA---	Pred
+7	-	Z:-------------	Coord
+8	rozhodující	AGIS1-----A----	Pnom
+9	je	VB-S---3P-AA---	Pred
+10	zápis	NNIS1-----A----	Sb
+11	na	RR--6----------	AuxP
+12	účtu	NNIS6-----A----	Atr
+13	ve	RV--6----------	AuxP
+14	středisku	NNNS6-----A----	AtrAtr
+15	.	Z:-------------	AuxK
+
+mf930709-036-p2s8
+1	Pro	RR--4----------	AuxP
+2	získání	NNNS4-----A----	Adv
+3	nového	AAIS2----1A----	Atr
+4	výpisu	NNIS2-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	však	J^-------------	Coord
+7	muset	Vf--------A----	Pred
+8	využít	Vf--------A----	Obj
+9	placené	AAFS2----1A----	Atr
+10	služby	NNFS2-----A----	Obj
+11	Střediska	NNNS2-----A----	Atr
+12	cenných	AAIP2----1A----	Atr
+13	papírů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930709-036-p2s9
+1	Investoři	NNMP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	kteří	P4MP1----------	Sb
+4	investovali	VpMP---XR-AA---	Atr
+5	prostřednictvím	NNNS7-----A----	AuxP
+6	investičních	AAIP2----1A----	Atr
+7	privatizačních	AAIP2----1A----	Atr
+8	fondů	NNIP2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	si	P7-X3----------	AuxT
+11	na	RR--4----------	AuxP
+12	výpisy	NNIP4-----A----	Obj
+13	budou	VB-P---3F-AA---	AuxV
+14	muset	Vf--------A----	Pred
+15	počkat	Vf--------A----	Obj
+16	ještě	Db-------------	AuxZ
+17	minimálně	Dg-------1A----	AuxZ
+18	2	C=-------------	Atr
+19	až	J^-------------	Coord
+20	3	C=-------------	Atr
+21	měsíce	NNIP4-----A----	Adv
+22	,	Z:-------------	AuxX
+23	než	J,-------------	AuxC
+24	IPF	NNIXX-----A---8	Sb
+25	vydají	VB-P---3P-AA---	Adv
+26	vlastní	AAFP4----1A----	Atr
+27	akcie	NNFP4-----A----	Obj
+28	.	Z:-------------	AuxK
+

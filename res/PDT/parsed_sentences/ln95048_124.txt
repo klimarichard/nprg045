@@ -1,0 +1,480 @@
+ln95048-124-p1s1
+1	Klaus	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	major	NNMS1-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	a	J^-------------	Coord
+6	co	PQ--1----------	ExD
+7	vy	PP-P1--2-------	ExD
+8	?	Z:-------------	AuxK
+
+ln95048-124-p2s1
+1	Premiér	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	slavnostně	Dg-------1A----	Adv
+4	povýšen	VsYS---XX-AP---	Pred
+5	na	RR--4----------	AuxP
+6	majora	NNMS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	záloze	NNFS6-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95048-124-p2s2
+1	Jaké	P4FS2----------	Atr
+2	hodnosti	NNFS2-----A----	Obj
+3	dosáhli	VpMP---XR-AA---	Pred
+4	další	AAMP1----1A----	Atr
+5	političtí	AAMP1----1A----	Atr
+6	představitelé	NNMP1-----A----	Sb
+7	?	Z:-------------	AuxK
+
+ln95048-124-p3s1
+1	Jiří	NNMS1-----A----	Atr
+2	Dienstbier	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	předseda	NNMS1-----A----	ExD
+5	Svobodných	AAMP2----1A----	Atr
+6	demokratů	NNMP2-----A----	Atr
+7	:	Z:-------------	AuxG
+8	Odsloužil	VpYS---XR-AA---	ExD
+9	jsem	VB-S---1P-AA---	AuxV
+10	si	P7-X3----------	AuxO
+11	23	C=-------------	Obj
+12	měsíců	NNIP2-----A----	Atr
+13	základní	AAFS2----1A----	Atr
+14	služby	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95048-124-p3s2
+1	Jeden	ClIS4----------	Atr
+2	měsíc	NNIS4-----A----	Obj
+3	nám	PP-P3--1-------	Obj
+4	odpustili	VpMP---XR-AA---	Pred
+5	za	RR--4----------	AuxP
+6	absolvování	NNNS4-----A----	Adv
+7	roku	NNIS2-----A---1	Atr
+8	vojenské	AAFS2----1A----	Atr
+9	katedry	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95048-124-p3s3
+1	Měl	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	tedy	Db-------------	AuxY
+4	normální	AAFS4----1A----	Atr
+5	vojnu	NNFS4-----A----	Obj
+6	a	J^-------------	Coord
+7	dosáhl	VpYS---XR-AA---	Pred
+8	jsem	VB-S---1P-AA---	AuxV
+9	hodnosti	NNFS2-----A----	Obj
+10	svobodníka	NNMS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95048-124-p3s4
+1	Později	Dg-------2A----	Adv
+2	na	RR--6----------	AuxP
+3	cvičení	NNNS6-----A----	Adv
+4	jsem	VB-S---1P-AA---	AuxV
+5	byl	VpYS---XR-AA---	AuxV
+6	povýšen	VsYS---XX-AP---	Pred
+7	na	RR--4----------	AuxP
+8	desátníka	NNMS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95048-124-p3s5
+1	Podotýkám	VB-S---1P-AA---	Pred
+2	ale	J^-------------	Coord
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	nás	PP-P4--1-------	Obj
+6	tam	Db-------------	Adv
+7	tehdy	Db-------------	Adv
+8	povýšili	VpMP---XR-AA---	Obj
+9	úplně	Dg-------1A----	Adv
+10	všechny	PLYP4----------	Atr
+11	.	Z:-------------	AuxK
+
+ln95048-124-p3s6
+1	Jindřich	NNMS1-----A----	Atr
+2	Vodička	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	ministr	NNMS1-----A----	ExD
+5	práce	NNFS2-----A----	Atr
+6	a	J^-------------	Coord
+7	sociálních	AAFP2----1A----	Atr
+8	věcí	NNFP2-----A----	Atr
+9	:	Z:-------------	AuxG
+10	V	RR--6----------	AuxP
+11	armádě	NNFS6-----A----	ExD
+12	vojín	NNMS1-----A----	ExD
+13	,	Z:-------------	Coord
+14	u	RR--2----------	AuxP
+15	námořnictva	NNNS2-----A----	ExD
+16	kapitán	NNMS1-----A----	ExD
+17	.	Z:-------------	AuxK
+
+ln95048-124-p3s7
+1	Miloš	NNMS1-----A----	Atr
+2	Zeman	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	předseda	NNMS1-----A----	ExD
+5	ČSSD	NNFXX-----A---8	Atr
+6	:	Z:-------------	AuxG
+7	Jako	J,-------------	AuxY
+8	člověk	NNMS1-----A----	AtvV
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	v	RR--6----------	AuxP
+12	15	C=-------------	Atr
+13	letech	NNNP6-----A----	Adv
+14	trpěl	VpYS---XR-AA---	Atr
+15	těžkou	AAFS7----1A----	Atr
+16	srdeční	AAFS7----1A----	Atr
+17	vadou	NNFS7-----A----	Obj
+18	,	Z:-------------	AuxX
+19	jsem	VB-S---1P-AA---	ExD
+20	nevoják	NNMS1-----A----	Pnom
+21	.	Z:-------------	AuxK
+
+ln95048-124-p3s8
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	exministra	NNMS2-----A----	Atr
+5	Baudyše	NNMS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	kterého	P4MS4----------	Obj
+8	postihl	VpYS---XR-AA--1	Atr
+9	tentýž	PDYS1----------	Atr
+10	osud	NNIS1-----A----	Sb
+11	modré	AAFS2----1A----	Atr
+12	knížky	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	jsem	VB-S---1P-AA---	AuxV
+15	ale	J^-------------	Coord
+16	nikdy	Db-------------	Adv
+17	neaspiroval	VpYS---XR-NA---	Pred
+18	na	RR--4----------	AuxP
+19	funkci	NNFS4-----A----	Obj
+20	ministra	NNMS2-----A----	Atr
+21	obrany	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95048-124-p3s9
+1	Jan	NNMS1-----A----	Atr
+2	Kalvoda	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	předseda	NNMS1-----A----	ExD
+5	ODA	NNFXX-----A---8	Atr
+6	:	Z:-------------	AuxG
+7	Musím	VB-S---1P-AA---	ExD
+8	říci	Vf--------A---1	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	jsem	VB-S---1P-AA---	AuxV
+12	skončil	VpYS---XR-AA---	Obj
+13	svoji	P8FS4----------	Atr
+14	prezenční	AAFS4----1A----	Atr
+15	vojenskou	AAFS4----1A----	Atr
+16	službu	NNFS4-----A----	Obj
+17	jako	J,-------------	AuxY
+18	četař	NNMS1-----A----	AtvV
+19	a	J^-------------	Coord
+20	byl	VpYS---XR-AA---	Obj
+21	jsem	VB-S---1P-AA---	AuxV
+22	na	RR--4----------	AuxP
+23	to	PDNS4----------	Obj
+24	hrdý	AAMS1----1A----	Pnom
+25	.	Z:-------------	AuxK
+
+ln95048-124-p3s10
+1	Pak	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	stal	VpYS---XR-AA---	Pred
+5	podporučíkem	NNMS7-----A----	Obj
+6	a	J^-------------	Coord
+7	tím	PDZS7----------	Obj
+8	jsem	VB-S---1P-AA---	AuxV
+9	zůstal	VpYS---XR-AA---	Pred
+10	až	TT-------------	AuxZ
+11	do	RR--2----------	AuxP
+12	dnešních	AAIP2----1A----	Atr
+13	dnů	NNIP2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln95048-124-p3s11
+1	Daniel	NNMS1-----A----	Atr
+2	Kroupa	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	místopředseda	NNMS1-----A----	ExD
+5	ODA	NNFXX-----A---8	Atr
+6	:	Z:-------------	AuxG
+7	Žádnou	PWFS4----------	Atr
+8	vojenskou	AAFS4----1A----	Atr
+9	hodnost	NNFS4-----A----	Obj
+10	nemám	VB-S---1P-NA---	ExD
+11	,	Z:-------------	AuxX
+12	neboť	J^-------------	Coord
+13	na	RR--6----------	AuxP
+14	vojně	NNFS6-----A----	Adv
+15	jsem	VB-S---1P-AA---	AuxV
+16	nebyl	VpYS---XR-NA---	ExD
+17	.	Z:-------------	AuxK
+
+ln95048-124-p3s12
+1	Libor	NNMS1-----A----	Atr
+2	Novák	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	výkonný	AAMS1----1A----	Atr
+5	místopředseda	NNMS1-----A----	ExD
+6	ODS	NNFXX-----A---8	Atr
+7	:	Z:-------------	AuxG
+8	Pokud	J,-------------	AuxC
+9	je	VB-S---3P-AA---	Adv
+10	mi	PH-S3--1-------	Obj
+11	znám	ACYS------A----	Pnom
+12	poslední	AAIS1----1A----	Atr
+13	vývoj	NNIS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	tak	Db-------------	Adv
+16	jsem	VB-S---1P-AA---	ExD
+17	stále	Db-------------	Adv
+18	ještě	Db-------------	Adv
+19	četař	NNMS1-----A----	Pnom
+20	absolvent	NNMS1-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95048-124-p3s13
+1	Od	RR--2----------	AuxP
+2	té	PDFS2----------	Atr
+3	doby	NNFS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	má	PSFS1-S1------1	Atr
+6	vojenská	AAFS1----1A----	Atr
+7	hodnost	NNFS1-----A----	Sb
+8	nepohnula	VpQW---XR-NA---	Pred
+9	žádným	PWZS7----------	Atr
+10	směrem	NNIS7-----A----	Adv
+11	a	J^-------------	Coord
+12	mám	VB-S---1P-AA---	Pred
+13	pocit	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	už	Db-------------	Adv
+17	se	P7-X4----------	AuxT
+18	ani	J^-------------	AuxZ
+19	nepohne	VB-S---3P-NA---	Atr
+20	.	Z:-------------	AuxK
+
+ln95048-124-p3s14
+1	František	NNMS1-----A----	Atr
+2	Kozel	NNMS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	ODS	NNFXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	,	Z:-------------	Apos
+7	předseda	NNMS1-----A----	ExD
+8	kulturního	AAIS2----1A----	Atr
+9	výboru	NNIS2-----A----	Atr
+10	parlamentu	NNIS2-----A----	Atr
+11	:	Z:-------------	AuxG
+12	Po	RR--6----------	AuxP
+13	posledním	AANS6----1A----	Atr
+14	vojenském	AANS6----1A----	Atr
+15	cvičení	NNNS6-----A----	Adv
+16	jsem	VB-S---1P-AA---	AuxV
+17	se	P7-X4----------	AuxT
+18	dostal	VpYS---XR-AA---	ExD
+19	na	RR--4----------	AuxP
+20	tříhvězdičkovou	AAFS4----1A----	Atr
+21	hodnost	NNFS4-----A----	Adv
+22	,	Z:-------------	AuxX
+23	tedy	Db-------------	Apos
+24	na	RR--4----------	AuxP
+25	nadporučíka	NNMS4-----A----	Adv
+26	.	Z:-------------	AuxK
+
+ln95048-124-p3s15
+1	Vladimír	NNMS1-----A----	Atr
+2	Šuman	NNMS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	ODA	NNFXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	,	Z:-------------	Apos
+7	předseda	NNMS1-----A----	ExD
+8	branného	AAIS2----1A----	Atr
+9	výboru	NNIS2-----A----	Atr
+10	parlamentu	NNIS2-----A----	Atr
+11	:	Z:-------------	AuxG
+12	Jsem	VB-S---1P-AA---	ExD
+13	desátník	NNMS1-----A----	Pnom
+14	a	J^-------------	Coord
+15	upřímně	Dg-------1A----	Adv
+16	blahopřeji	VB-S---1P-AA--1	ExD
+17	panu	NNMS3-----A----	Atr
+18	premiérovi	NNMS3-----A----	Obj
+19	k	RR--3----------	AuxP
+20	tak	Db-------------	Adv
+21	vysoké	AAFS3----1A----	Atr
+22	vojenské	AAFS3----1A----	Atr
+23	hodnosti	NNFS3-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln95048-124-p3s16
+1	Nemám	VB-S---1P-NA---	Pred
+2	potřebu	NNFS4-----A----	Obj
+3	soupeřit	Vf--------A----	Atr
+4	v	RR--6----------	AuxP
+5	hodnostech	NNFP6-----A----	Obj
+6	,	Z:-------------	Coord
+7	myslím	VB-S---1P-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	je	VB-S---3P-AA---	Obj
+11	důležité	AANS1----1A----	Pnom
+12	,	Z:-------------	AuxX
+13	abych	J,-S---1-------	AuxC
+14	jako	J,-------------	AuxY
+15	poslanec	NNMS1-----A----	AtvV
+16	dělal	VpYS---XR-AA---	Sb
+17	vše	PLNS4---------1	Obj
+18	pro	RR--4----------	AuxP
+19	informovanost	NNFS4-----A----	Adv
+20	o	RR--6----------	AuxP
+21	armádě	NNFS6-----A----	Atr
+22	a	J^-------------	Coord
+23	o	RR--6----------	AuxP
+24	bezpečnosti	NNFS6-----A----	Atr
+25	země	NNFS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95048-124-p3s17
+1	Karel	NNMS1-----A----	Atr
+2	Ledvinka	NNMS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	ODA	NNFXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	,	Z:-------------	Apos
+7	místopředseda	NNMS1-----A----	ExD
+8	Poslanecké	AAFS2----1A----	Atr
+9	sněmovny	NNFS2-----A----	Atr
+10	:	Z:-------------	AuxG
+11	Jsem	VB-S---1P-AA---	ExD
+12	strašně	Dg-------1A----	Adv
+13	rád	ACYS------A----	Pnom
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	jsem	VB-S---1P-AA---	Obj
+17	jenom	TT-------------	AuxZ
+18	četař	NNMS1-----A----	Pnom
+19	v	RR--6----------	AuxP
+20	záloze	NNFS6-----A----	Atr
+21	a	J^-------------	Coord
+22	nikdy	Db-------------	Adv
+23	bych	Vc-S---1-------	AuxV
+24	nechtěl	VpYS---XR-NA---	ExD
+25	mít	Vf--------A----	Obj
+26	hodnost	NNFS4-----A----	Obj
+27	vyšší	AAFS4----2A----	Atr
+28	než	J,-------------	AuxC
+29	tu	PDFS4----------	ExD
+30	,	Z:-------------	AuxX
+31	kterou	P4FS4----------	Obj
+32	jsem	VB-S---1P-AA---	AuxV
+33	si	P7-X3----------	AuxT
+34	zasloužil	VpYS---XR-AA---	Atr
+35	.	Z:-------------	AuxK
+
+ln95048-124-p3s18
+1	Pokud	J,-------------	AuxC
+2	panu	NNMS3-----A----	Atr
+3	premiérovi	NNMS3-----A----	Obj
+4	udělalo	VpNS---XR-AA---	Adv
+5	jmenování	NNNS1-----A----	Sb
+6	majorem	NNMS7-----A----	Atr
+7	dobře	Dg-------1A----	Adv
+8	,	Z:-------------	AuxX
+9	tak	Db-------------	Adv
+10	mu	PHZS3--3-------	Obj
+11	to	PDNS4----------	Obj
+12	přeji	VB-S---1P-AA--1	Pred
+13	.	Z:-------------	AuxK
+
+ln95048-124-p3s19
+1	Pavel	NNMS1-----A----	Atr
+2	Kulička	NNMS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	LSNS	NNFXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	,	Z:-------------	Apos
+7	poslanec	NNMS1-----A----	ExD
+8	:	Z:-------------	AuxG
+9	Dosáhl	VpYS---XR-AA---	ExD
+10	jsem	VB-S---1P-AA---	AuxV
+11	nadporučíka	NNMS2-----A----	Obj
+12	v	RR--6----------	AuxP
+13	záloze	NNFS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95048-124-p3s20
+1	Pokud	J,-------------	AuxC
+2	pan	NNMS1-----A----	Atr
+3	Klaus	NNMS1-----A----	Sb
+4	není	VB-S---3P-NA---	Adv
+5	generálmajorem	NNMS7-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	tak	Db-------------	Adv
+8	je	VB-S---3P-AA---	Pred
+9	to	PDNS1----------	Sb
+10	v	RR--6----------	AuxP
+11	pořádku	NNIS6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln95048-124-p3s21
+1	Jiří	NNMS1-----A----	Atr
+2	Vlach	NNMS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	ODS	NNFXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	,	Z:-------------	Apos
+7	místopředseda	NNMS1-----A----	ExD
+8	Poslanecké	AAFS2----1A----	Atr
+9	sněmovny	NNFS2-----A----	Atr
+10	:	Z:-------------	AuxG
+11	Myslím	VB-S---1P-AA---	ExD
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	jsem	VB-S---1P-AA---	Obj
+15	nadporučík	NNMS1-----A----	Pnom
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	možná	Db-------------	AuxY
+19	jsem	VB-S---1P-AA---	ExD
+20	jenom	TT-------------	AuxZ
+21	poručík	NNMS1-----A----	Pnom
+22	.	Z:-------------	AuxK
+
+ln95048-124-p3s22
+1	Pamatuji	VB-S---1P-AA--1	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vojnu	NNFS4-----A----	Obj
+6	jsem	VB-S---1P-AA---	AuxV
+7	opustil	VpYS---XR-AA---	Obj
+8	jako	J,-------------	AuxY
+9	poručík	NNMS1-----A----	AtvV
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	posledních	AANP2----1A----	Atr
+13	pět	Cn-S1----------	Sb
+14	let	NNNP2-----A----	Atr
+15	zastřelo	VpNS---XR-AA---	Obj
+16	všechny	PLFP4----------	Atr
+17	události	NNFP4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	takže	J,-------------	AuxC
+20	nevím	VB-S---1P-NA---	Adv
+21	.	Z:-------------	AuxK
+

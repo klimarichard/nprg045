@@ -1,0 +1,110 @@
+mf920925-077-p1s1
+1	Objev	NNIS1-----A----	ExD
+2	velké	AAFS2----1A----	Atr
+3	zásilky	NNFS2-----A----	Atr
+4	Semtexu	NNIS2-----A----	Atr
+
+mf920925-077-p2s1
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	vin	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920925-077-p2s2
+1	Padesát	Cn-S4----------	Obj
+2	tři	ClXP4----------	Atr
+3	kilogramů	NNIP2-----A----	Atr
+4	trhaviny	NNFS2-----A----	Atr
+5	Semtex	NNIS1-----A----	Atr
+6	,	Z:-------------	AuxX
+7	90	C=-------------	Obj
+8	elektrických	AAFP2----1A----	Atr
+9	rozbušek	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	několik	Ca--4----------	Obj
+12	zbraní	NNFP2-----A----	Atr
+13	odhalila	VpQW---XR-AA---	Pred
+14	zásahová	AAFS1----1A----	Atr
+15	jednotka	NNFS1-----A----	Sb
+16	brněnské	AAFS2----1A----	Atr
+17	policie	NNFS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	osobním	AAIS6----1A----	Atr
+20	voze	NNIS6-----A----	Adv
+21	,	Z:-------------	AuxX
+22	který	P4YS1----------	Sb
+23	stál	VpYS---XR-AA---	Atr
+24	na	RR--6----------	AuxP
+25	parkovišti	NNNS6-----A----	Adv
+26	v	RR--6----------	AuxP
+27	Brně	NNNS6-----A----	AtrAdv
+28	-	Z:-------------	AuxG
+29	Komárově	NNIS6-----A----	Atr
+30	.	Z:-------------	AuxK
+
+mf920925-077-p3s1
+1	Zajištěný	AAIS1----1A----	Atr
+2	Semtex	NNIS1-----A----	Sb
+3	byl	VpYS---XR-AA---	AuxV
+4	vyroben	VsYS---XX-AP---	Pred
+5	před	RR--7----------	AuxP
+6	rokem	NNIS7-----A----	Adv
+7	1990	C=-------------	Atr
+8	,	Z:-------------	Coord
+9	neobsahuje	VB-S---3P-NA---	Pred
+10	tedy	Db-------------	AuxY
+11	rozptýlené	AAFP4----1A----	Atr
+12	kovové	AAFP4----1A----	Atr
+13	částice	NNFP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	takže	J,-------------	AuxC
+16	není	VB-S---3P-NA---	Adv
+17	zjistitelný	AAIS1----1A----	Pnom
+18	detekčními	AAIP7----1A----	Atr
+19	přístroji	NNIP7-----A----	Adv
+20	.	Z:-------------	AuxK
+
+mf920925-077-p3s2
+1	Zvláště	Db-------------	AuxZ
+2	pro	RR--4----------	AuxP
+3	tuto	PDFS4----------	Atr
+4	vlastnost	NNFS4-----A----	Adv
+5	dosahuje	VB-S---3P-AA---	Pred
+6	na	RR--6----------	AuxP
+7	černém	AAIS6----1A----	Atr
+8	trhu	NNIS6-----A----	Adv
+9	v	RR--6----------	AuxP
+10	Německu	NNNS6-----A----	AtrAdv
+11	cena	NNFS1-----A----	Sb
+12	jednoho	ClZS2----------	Atr
+13	kilogramu	NNIS2-----A----	Atr
+14	"	Z:-------------	AuxG
+15	čistého	AAIS2----1A----	Atr
+16	"	Z:-------------	AuxG
+17	Semtexu	NNIS2-----A----	Atr
+18	6000	C=-------------	Obj
+19	marek	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf920925-077-p3s3
+1	Policie	NNFS1-----A----	Sb
+2	sdělila	VpQW---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	je	VB-S---3P-AA---	Obj
+6	jí	PPFS3--3-------	Obj
+7	původ	NNIS1-----A----	Sb
+8	Semtexu	NNIS2-----A----	Atr
+9	znám	ACYS------A----	Pnom
+10	,	Z:-------------	AuxX
+11	odmítá	VB-S---3P-AA---	Pred
+12	ho	PHZS4--3-------	Obj
+13	však	J^-------------	Coord
+14	zveřejnit	Vf--------A----	Obj
+15	vzhledem	RF-------------	AuxP
+16	k	RR--3----------	AuxP
+17	pokračujícímu	AGNS3-----A----	Atr
+18	vyšetřování	NNNS3-----A----	Adv
+19	.	Z:-------------	AuxK
+

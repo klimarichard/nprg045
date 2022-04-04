@@ -1,0 +1,411 @@
+cmpr9416-010-p2s1
+1	Japonci	NNMP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	obezřetní	AAMP1----1A----	Pnom
+
+cmpr9416-010-p3s1
+1	Pro	RR--4----------	AuxP
+2	japonské	AAMP4----1A----	Atr
+3	podnikatele	NNMP4-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	střední	AAFS1----1A----	Atr
+6	Evropa	NNFS1-----A----	Sb
+7	méně	Dg-------2A----	Adv
+8	známá	AAFS1----1A----	Pnom
+9	.	Z:-------------	AuxK
+
+cmpr9416-010-p3s2
+1	Dlouho	Dg-------1A----	Adv
+2	váhají	VB-P---3P-AA---	Pred
+3	.	Z:-------------	AuxK
+
+cmpr9416-010-p3s3
+1	Obchody	NNIP4-----A----	Obj
+2	však	J^-------------	Coord
+3	lze	VB-S---3P-AA---	Pred
+4	iniciovat	Vf--------A----	Sb
+5	i	J^-------------	AuxZ
+6	z	RR--2----------	AuxP
+7	české	AAFS2----1A----	Atr
+8	strany	NNFS2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9416-010-p3s4
+1	Opavská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	Data	NNNPX-----A----	Atr
+4	International	NNXXX-----A---1	Atr
+5	vycítila	VpQW---XR-AA---	Pred
+6	příležitost	NNFS4-----A----	Obj
+7	pro	RR--4----------	AuxP
+8	společné	AANS4----1A----	Atr
+9	obchodování	NNNS4-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9416-010-p4s2
+1	Po	RR--6----------	AuxP
+2	dvou	ClXP6----------	Atr
+3	letech	NNNP6-----A----	Adv
+4	hledání	NNNS2-----A----	Atr
+5	a	J^-------------	Coord
+6	ověřování	NNNS2-----A----	Atr
+7	padla	VpQW---XR-AA--1	Pred
+8	volba	NNFS1-----A----	Sb
+9	na	RR--4----------	AuxP
+10	produkty	NNIP4-----A----	Obj
+11	firmy	NNFS2-----A----	Atr
+12	Sanyo	NNNS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9416-010-p6s1
+1	Opavští	AAMP1----1A----	Sb
+2	navázali	VpMP---XR-AA---	Pred
+3	kontakt	NNIS4-----A----	Obj
+4	s	RR--7----------	AuxP
+5	obchodní	AAFS7----1A----	Atr
+6	firmou	NNFS7-----A----	AtrAdv
+7	Nichetzu	NNNS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	sídlící	AGFS7-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Tokiu	NNNS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	v	RR--6----------	AuxP
+15	minulosti	NNFS6-----A----	Adv
+16	zajišťovala	VpQW---XR-AA---	Atr
+17	z	RR--2----------	AuxP
+18	ČR	NNFXX-----A---8	Adv
+19	dovoz	NNIS4-----A----	Obj
+20	sladu	NNIS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	piva	NNNS2-----A----	Atr
+23	a	J^-------------	Coord
+24	chmele	NNIS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9416-010-p6s2
+1	Od	RR--2----------	AuxP
+2	května	NNIS2-----A----	Adv
+3	1992	C=-------------	Atr
+4	existuje	VB-S---3P-AA---	Pred
+5	společná	AAFS1----1A----	Atr
+6	firma	NNFS1-----A----	Sb
+7	Nippon	NNIS1-----A----	Atr
+8	ONC	NNXXX-----A---8	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	dováží	VB-S---3P-AA---	Atr
+12	a	J^-------------	Coord
+13	prodává	VB-S---3P-AA---	Atr
+14	na	RR--6----------	AuxP
+15	českém	AAIS6----1A----	Atr
+16	trhu	NNIS6-----A----	Adv
+17	kopírky	NNFP4-----A----	Obj
+18	a	J^-------------	Coord
+19	spotřební	AAIS4----1A----	Atr
+20	materiál	NNIS4-----A----	Obj
+21	,	Z:-------------	AuxX
+22	diktafony	NNIP4-----A----	Obj
+23	,	Z:-------------	AuxX
+24	periferie	NNFP4-----A----	Obj
+25	k	RR--3----------	AuxP
+26	počítačům	NNIP3-----A----	Atr
+27	,	Z:-------------	AuxX
+28	faxy	NNIP4-----A----	Obj
+29	,	Z:-------------	AuxX
+30	bezdrátové	AAIP4----1A----	Atr
+31	telefony	NNIP4-----A----	Obj
+32	a	J^-------------	Coord
+33	elektrické	AAFP4----1A----	Atr
+34	registrační	AAFP4----1A----	Atr
+35	pokladny	NNFP4-----A----	Obj
+36	,	Z:-------------	Apos
+37	vše	PLNS4---------1	Obj
+38	značky	NNFS2-----A----	Atr
+39	Sanyo	NNNS1-----A----	Atr
+40	.	Z:-------------	AuxK
+
+cmpr9416-010-p8s1
+1	Získali	VpMP---XR-AA---	Pred
+2	důvěru	NNFS4-----A----	Obj
+
+cmpr9416-010-p9s1
+1	Japonci	NNMP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	při	RR--6----------	AuxP
+4	volbě	NNFS6-----A----	Adv
+5	obchodního	AAMS2----1A----	Atr
+6	partnera	NNMS2-----A----	Atr
+7	hodně	Dg-------1A----	Adv
+8	obezřetní	AAMP1----1A----	Pnom
+9	.	Z:-------------	AuxK
+
+cmpr9416-010-p9s2
+1	Data	NNNP1-----A----	Sb
+2	International	NNXXX-----A---1	Atr
+3	získala	VpQW---XR-AA---	Pred
+4	jejich	PSXXXXP3-------	Atr
+5	důvěru	NNFS4-----A----	Obj
+6	především	Db-------------	AuxZ
+7	promptními	AAFP7----1A----	Atr
+8	platbami	NNFP7-----A----	Adv
+9	a	J^-------------	Coord
+10	schopností	NNFS7-----A----	Adv
+11	zajistit	Vf--------A----	Atr
+12	distribuci	NNFS4-----A----	Obj
+13	širokého	AAIS2----1A----	Atr
+14	sortimentu	NNIS2-----A----	Atr
+15	zboží	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9416-010-p9s3
+1	Obchod	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	delší	AAFS4----2A----	Atr
+4	dobu	NNFS4-----A----	Adv
+5	uskutečňoval	VpYS---XR-AA---	Pred
+6	"	Z:-------------	AuxG
+7	na	RR--4----------	AuxP
+8	zkoušku	NNFS4-----A----	Adv
+9	"	Z:-------------	AuxG
+10	,	Z:-------------	Coord
+11	přičemž	J,-------------	Adv
+12	Japonci	NNMP1-----A----	Sb
+13	vše	PLNS4---------1	Obj
+14	pečlivě	Dg-------1A----	Adv
+15	sledovali	VpMP---XR-AA---	Pred
+16	a	J^-------------	Coord
+17	srovnávali	VpMP---XR-AA---	Pred
+18	s	RR--7----------	AuxP
+19	dalšími	AAFP7----1A----	Atr
+20	možnostmi	NNFP7-----A----	Obj
+21	v	RR--6----------	AuxP
+22	ČR	NNFXX-----A---8	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9416-010-p9s5
+1	Pro	RR--4----------	AuxP
+2	Data	NNNPX-----A----	Adv
+3	Int	NNXXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	z	RR--2----------	AuxP
+6	toho	PDZS2----------	Obj
+7	plyne	VB-S---3P-AA---	Pred
+8	výhoda	NNFS1-----A----	Sb
+9	platit	Vf--------A----	Atr
+10	za	RR--4----------	AuxP
+11	zboží	NNNS4-----A----	Obj
+12	až	TT-------------	AuxZ
+13	po	RR--6----------	AuxP
+14	jeho	PSXXXZS3-------	Atr
+15	prodeji	NNIS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+cmpr9416-010-p9s6
+1	Důraz	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	kladen	VsYS---XX-AP---	Pred
+4	i	J^-------------	AuxZ
+5	na	RR--4----------	AuxP
+6	rychlost	NNFS4-----A----	Obj
+7	dodávek	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP4----------	Obj
+10	přímo	Dg-------1A----	Adv
+11	zajišťují	VB-P---3P-AA---	Atr
+12	4	C=-------------	Atr
+13	partneři	NNMP1-----A----	Sb
+14	a	J^-------------	Coord
+15	jimž	PJXP3----------	Obj
+16	přísluší	VB-S---3P-AA---	Atr
+17	i	J^-------------	AuxZ
+18	servis	NNIS1-----A----	Sb
+19	nejpozději	Dg-------3A----	AuxZ
+20	do	RR--2----------	AuxP
+21	24	C=-------------	Atr
+22	hodin	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9416-010-p9s7
+1	Naše	PSHS1-P1-------	Atr
+2	firma	NNFS1-----A----	Sb
+3	celý	AAIS4----1A----	Atr
+4	systém	NNIS4-----A----	Obj
+5	prodeje	NNIS2-----A----	Atr
+6	řídí	VB-S---3P-AA---	Obj
+7	a	J^-------------	Coord
+8	určuje	VB-S---3P-AA---	Obj
+9	konečnou	AAFS4----1A----	Atr
+10	cenu	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	říká	VB-S---3P-AA---	Pred
+13	Jiří	NNMS1-----A----	Atr
+14	Oslizlo	NNMS1-----A----	Sb
+15	(	Z:-------------	ExD
+16	na	RR--6----------	AuxP
+17	snímku	NNIS6-----A----	ExD
+18	)	Z:-------------	ExD
+19	,	Z:-------------	Apos
+20	obchodní	AAMS1----1A----	Atr
+21	ředitel	NNMS1-----A----	Sb
+22	Data	NNNPX-----A----	Atr
+23	Int	NNXXX-----A---8	Atr
+24	.	Z:-------------	AuxG
+
+cmpr9416-010-p10s1
+1	Další	AAIS1----1A----	Atr
+2	rozvoj	NNIS1-----A----	ExD
+
+cmpr9416-010-p11s1
+1	O	RR--4----------	AuxP
+2	zboží	NNNS4-----A----	Atr
+3	značky	NNFS2-----A----	Atr
+4	Sanyo	NNNS1-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	stále	Dg-------1A----	Adv
+7	větší	AAIS1----2A----	Atr
+8	zájem	NNIS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9416-010-p11s2
+1	Data	NNFS1-----A----	Sb
+2	Int	NNXXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	zjistila	VpQW---XR-AA---	Pred
+5	možnost	NNFS4-----A----	Obj
+6	dalšího	AANS2----1A----	Atr
+7	výrazného	AANS2----1A----	Atr
+8	rozšíření	NNNS2-----A----	Atr
+9	působnosti	NNFS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	Slovensku	NNNS6-----A----	AtrAdv
+12	,	Z:-------------	AuxX
+13	kde	Db-------------	Adv
+14	má	VB-S---3P-AA---	Atr
+15	od	RR--2----------	AuxP
+16	května	NNIS2-----A----	Adv
+17	působit	Vf--------A----	Obj
+18	NCS	NNXSX-----A----	Sb
+19	Prievidza	NNFS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9416-010-p11s3
+1	Slovenský	AAMS1----1A----	Atr
+2	partner	NNMS1-----A----	Sb
+3	byl	VpYS---XR-AA---	AuxV
+4	vybrán	VsYS---XX-AP---	Pred
+5	hlavně	Dg-------1A----	AuxZ
+6	kvůli	RR--3----------	AuxP
+7	nízkým	AAFP3----1A----	Atr
+8	prodejním	AAFP3----1A----	Atr
+9	cenám	NNFP3-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9416-010-p11s4
+1	Od	RR--2----------	AuxP
+2	loňského	AAIS2----1A----	Atr
+3	listopadu	NNIS2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	provozu	NNIS6-----A---1	Adv
+7	i	J^-------------	AuxZ
+8	Show	NNFXX-----A----	Atr
+9	Room	NNFXX-----A----	Sb
+10	v	RR--6----------	AuxP
+11	obchodním	AAIS6----1A----	Atr
+12	domě	NNIS6-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Praze	NNFS6-----A----	Atr
+15	-	Z:-------------	AuxG
+16	Karlíně	NNIS6-----A----	Atr
+17	,	Z:-------------	AuxX
+18	kde	Db-------------	Adv
+19	je	VB-S---3P-AA---	AuxV
+20	prezentována	VsQW---XX-AP---	Atr
+21	veškerá	PLFS1----------	Atr
+22	technika	NNFS1-----A----	Sb
+23	Sanyo	NNNS1-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9416-010-p11s5
+1	Opavští	AAMP1----1A----	Sb
+2	se	P7-X4----------	AuxT
+3	po	RR--4----------	AuxP
+4	dobu	NNFS4-----A----	Adv
+5	partnerství	NNNS2-----A----	Atr
+6	snaží	VB-P---3P-AA---	Pred
+7	učit	Vf--------A----	Obj
+8	se	P7-X4----------	Obj
+9	práci	NNFS3-----A----	Obj
+10	podle	RR--2----------	AuxP
+11	japonské	AAFS2----1A----	Atr
+12	zásady	NNFS2-----A----	Adv
+13	"	Z:-------------	AuxG
+14	Čím	PQ--7----------	Adv
+15	pomaleji	Dg-------2A----	Adv
+16	kráčíš	VB-S---2P-AA---	Adv
+17	,	Z:-------------	AuxX
+18	tím	PDZS7----------	Adv
+19	dříve	Dg-------2A----	Adv
+20	dojdeš	VB-S---2P-AA---	Atr
+21	k	RR--3----------	AuxP
+22	cíli	NNIS3-----A----	Adv
+23	"	Z:-------------	AuxG
+24	,	Z:-------------	AuxX
+25	která	P4FS1----------	Sb
+26	je	VB-S---3P-AA---	Atr
+27	jedním	ClZS7----------	Pnom
+28	z	RR--2----------	AuxP
+29	důvodů	NNIP2-----A----	Atr
+30	doposud	Db-------------	Adv
+31	příznivého	AAIS2----1A----	Atr
+32	vývoje	NNIS2-----A----	Atr
+33	japonské	AAFS2----1A----	Atr
+34	ekonomiky	NNFS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+cmpr9416-010-p12s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	DATA	NNNPX-----A----	ExD
+4	International	NNXXX-----A---1	Atr
+5	,	Z:-------------	AuxX
+6	a	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	s	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	,	Z:-------------	AuxX
+11	Kolářská	AAFS1----1A----	Atr
+12	13	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	P	AAXXX----1A---8	Atr
+15	.	Z:-------------	AuxG
+16	O	NNIXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	BOX	NNIXX-----A----	Atr
+19	162	C=-------------	Atr
+20	,	Z:-------------	AuxX
+21	746	C=-------------	Atr
+22	01	C=-------------	Atr
+23	Opava	NNFS1-----A----	Atr
+24	,	Z:-------------	AuxX
+25	tel	NNIXX-----A---8	Atr
+26	.	Z:-------------	AuxG
+27	:	Z:-------------	AuxG
+28	(	Z:-------------	AuxG
+29	0653	C=-------------	Atr
+30	)	Z:-------------	AuxG
+31	21	C=-------------	Atr
+32	77	C=-------------	Atr
+33	45	C=-------------	Atr
+34	,	Z:-------------	Coord
+35	FAX	NNIS1-----A----	Atr
+36	:	Z:-------------	AuxG
+37	(	Z:-------------	AuxG
+38	0653	C=-------------	Atr
+39	)	Z:-------------	AuxG
+40	21	C=-------------	Atr
+41	79	C=-------------	Atr
+42	47	C=-------------	Atr
+

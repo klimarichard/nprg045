@@ -1,0 +1,134 @@
+mf930709-114-p1s1
+1	Schválen	VsYS---XX-AP---	ExD
+2	konzervační	AAIS1----1A----	Atr
+3	program	NNIS1-----A----	ExD
+
+mf930709-114-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	is	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-114-p2s1B
+1	Do	RR--2----------	AuxP
+2	roku	NNIS2-----A---1	Adv
+3	2000	C=-------------	Atr
+4	by	Vc-------------	AuxV
+5	mělo	VpNS---XR-AA---	Pred
+6	dojít	Vf--------A----	Sb
+7	k	RR--3----------	AuxP
+8	postupnému	AANS3----1A----	Atr
+9	omezení	NNNS3-----A----	Obj
+10	těžby	NNFS2-----A----	Atr
+11	uranu	NNIS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	ČR	NNFXX-----A---8	AtrAtr
+14	ze	RV--2----------	AuxP
+15	současných	AAFP2----1A----	Atr
+16	950	C=-------------	Atr
+17	tun	NNFP2-----A----	Atr
+18	na	RR--4----------	AuxP
+19	300	C=-------------	Atr
+20	až	J^-------------	Coord
+21	500	C=-------------	Atr
+22	tun	NNFP2-----A----	Atr
+23	ročně	Dg-------1A----	Atr
+24	.	Z:-------------	AuxK
+
+mf930709-114-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ministr	NNMS1-----A----	Atr
+5	hospodářství	NNNS2-----A----	Atr
+6	České	AAFS2----1A----	Atr
+7	republiky	NNFS2-----A----	Atr
+8	Karel	NNMS1-----A----	Atr
+9	Dyba	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+mf930709-114-p2s3
+1	Jak	J,-------------	Adv
+2	dále	Db------------1	Adv
+3	řekl	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	poradou	NNFS7-----A----	Obj
+6	ekonomických	AAMP2----1A----	Atr
+7	ministrů	NNMP2-----A----	Atr
+8	schválený	AAIS1----1A----	Atr
+9	konzervační	AAIS1----1A----	Atr
+10	program	NNIS1-----A----	Sb
+11	sice	Db-------------	AuxY
+12	povede	VB-S---3P-AA---	Pred
+13	k	RR--3----------	AuxP
+14	prvotnímu	AANS3----1A----	Atr
+15	omezení	NNNS3-----A----	Adv
+16	těžby	NNFS2-----A----	Atr
+17	této	PDFS2----------	Atr
+18	suroviny	NNFS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	ale	J^-------------	Coord
+21	zároveň	Db-------------	Adv
+22	umožní	VB-S---3P-AA---	Pred
+23	její	PSNS4FS3-------	Atr
+24	rychlé	AANS4----1A----	Atr
+25	obnovení	NNNS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+mf930709-114-p2s4
+1	Tato	PDFS1----------	Atr
+2	situace	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	mohla	VpQW---XR-AA---	Pred
+5	nastat	Vf--------A----	Obj
+6	v	RR--6----------	AuxP
+7	tom	PDZS6----------	Atr
+8	případě	NNIS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	těžba	NNFS1-----A----	Sb
+12	by	Vc-------------	AuxV
+13	se	P7-X4----------	AuxT
+14	stala	VpQW---XR-AA---	Atr
+15	ekonomicky	Dg-------1A----	Adv
+16	výhodná	AAFS1----1A----	Obj
+17	,	Z:-------------	AuxX
+18	např	Db------------8	Apos
+19	.	Z:-------------	AuxG
+20	po	RR--6----------	AuxP
+21	změně	NNFS6-----A----	Adv
+22	ceny	NNFS2-----A----	Atr
+23	uranu	NNIS2-----A----	Atr
+24	na	RR--6----------	AuxP
+25	světových	AAIP6----1A----	Atr
+26	trzích	NNIP6-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf930709-114-p2s5
+1	Ministři	NNMP1-----A----	Sb
+2	průmyslu	NNIS2-----A----	Atr
+3	a	J^-------------	Coord
+4	financí	NNFP2-----A----	Atr
+5	dostali	VpMP---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	souvislosti	NNFS6-----A----	Adv
+9	za	RR--4----------	AuxP
+10	úkol	NNIS4-----A----	Adv
+11	vypracovat	Vf--------A----	Obj
+12	plán	NNIS4-----A----	Obj
+13	výdajů	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4IP1----------	Sb
+16	jsou	VB-P---3P-AA---	Atr
+17	s	RR--7----------	AuxP
+18	útlumem	NNIS7-----A----	Obj
+19	těžby	NNFS2-----A----	Atr
+20	spojeny	VsTP---XX-AP---	Pnom
+21	,	Z:-------------	AuxX
+22	včetně	RR--2----------	AuxP
+23	odškodnění	NNNS2-----A----	Adv
+24	horníků	NNMP2-----A----	Atr
+25	.	Z:-------------	AuxK
+

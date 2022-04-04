@@ -1,0 +1,150 @@
+ln94205-28-p1s1
+1	Schodek	NNIS1-----A----	Sb
+2	obchodu	NNIS2-----A----	Atr
+3	se	RV--7----------	AuxP
+4	Slovenskem	NNNS7-----A----	Atr
+5	roste	VB-S---3P-AA---	Pred
+
+ln94205-28-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ma	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94205-28-p2s1B
+1	Schodek	NNIS1-----A----	Sb
+2	České	AAFS2----1A----	Atr
+3	republiky	NNFS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	clearingovém	AANS6----1A----	Atr
+6	zúčtování	NNNS6-----A----	Atr
+7	se	RV--7----------	AuxP
+8	Slovenskem	NNNS7-----A----	Atr
+9	v	RR--6----------	AuxP
+10	srpnu	NNIS6-----A----	Adv
+11	vzrostl	VpYS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94205-28-p2s2
+1	Jak	J,-------------	Adv
+2	sdělil	VpYS---XR-AA---	Pred
+3	LN	NNFPX-----A---8	Obj
+4	mluvčí	NNMS1-----A----	Atr
+5	České	AAFS2----1A----	Atr
+6	národní	AAFS2----1A----	Atr
+7	banky	NNFS2-----A----	Atr
+8	Martin	NNMS1-----A----	Atr
+9	Švehla	NNMS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	dosáhl	VpYS---XR-AA---	Pred
+12	k	RR--3----------	AuxP
+13	31	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	srpnu	NNIS3-----A----	Adv
+16	213.3	C=-------------	Obj
+17	mil	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	clearingových	AANP2----1A----	Atr
+20	Ecu	NNFXX-----A---8	Atr
+21	,	Z:-------------	Coord
+22	což	PE--1----------	Sb
+23	je	VB-S---3P-AA---	Pred
+24	v	RR--6----------	AuxP
+25	přepočtu	NNIS6-----A----	Adv
+26	přibližně	Dg-------1A----	Adv
+27	7.3	C=-------------	Pnom
+28	mld	NNFXX-----A---8	Atr
+29	.	Z:-------------	AuxG
+30	korun	NNFP2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94205-28-p2s3
+1	Po	RR--6----------	AuxP
+2	odečtení	NNNS6-----A----	Adv
+3	aktiva	NNNS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	které	P4NS4----------	Obj
+6	má	VB-S---3P-AA---	Atr
+7	na	RR--6----------	AuxP
+8	tzv	AAXXX----1A---8	Atr
+9	.	Z:-------------	AuxG
+10	starém	AAIS6----1A----	Atr
+11	bloku	NNIS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	překročila	VpQW---XR-AA---	Pred
+14	ČR	NNFXX-----A---8	Sb
+15	dohodnutý	AAIS4----1A----	Atr
+16	mezní	AAIS4----1A----	Atr
+17	úvěr	NNIS4-----A----	Obj
+18	o	RR--4----------	AuxP
+19	77.99	C=-------------	Adv
+20	mil	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	clearingových	AANP2----1A----	Atr
+23	Ecu	NNFXX-----A---8	Atr
+24	(	Z:-------------	Apos
+25	asi	TT-------------	AuxZ
+26	94	C=-------------	Adv
+27	mil	NNIXX-----A---8	Atr
+28	.	Z:-------------	AuxG
+29	dolarů	NNIP2-----A----	Atr
+30	)	Z:-------------	AuxG
+31	.	Z:-------------	AuxK
+
+ln94205-28-p2s4
+1	Tuto	PDFS4----------	Atr
+2	částku	NNFS4-----A----	Obj
+3	dostane	VB-S---3P-AA---	Pred
+4	slovenský	AAMS1----1A----	Atr
+5	partner	NNMS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	následujících	AGIP6-----A----	Atr
+8	dnech	NNIP6-----A----	Adv
+9	ve	RV--6----------	AuxP
+10	volně	Dg-------1A----	Adv
+11	směnitelných	AAFP6----1A----	Atr
+12	měnách	NNFP6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln94205-28-p2s5
+1	Původní	AANS1----1A----	Atr
+2	aktivum	NNNS1-----A----	Sb
+3	ČR	NNFXX-----A---8	Atr
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	obchodě	NNIS6-----A----	Adv
+7	se	RV--7----------	AuxP
+8	Slovenskem	NNNS7-----A----	Atr
+9	změnilo	VpNS---XR-AA---	Pred
+10	v	RR--4----------	AuxP
+11	deficit	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94205-28-p2s6
+1	Ochranářská	AANP1----1A----	Atr
+2	opatření	NNNP1-----A----	Sb
+3	SR	NNFXX-----A---8	Atr
+4	totiž	Db-------------	AuxY
+5	přispěla	VpQW---XR-AA---	Pred
+6	k	RR--3----------	AuxP
+7	omezení	NNNS3-----A----	Obj
+8	českého	AAIS2----1A----	Atr
+9	exportu	NNIS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	Slovensko	NNNS4-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94205-28-p2s7
+1	ČR	NNFXX-----A---8	Sb
+2	navíc	Db-------------	Adv
+3	hradí	VB-S---3P-AA---	Pred
+4	slovenskému	AAMS3----1A----	Atr
+5	partnerovi	NNMS3-----A----	Obj
+6	tranzit	NNIS4-----A----	Obj
+7	ropy	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	zemního	AAIS2----1A----	Atr
+10	plynu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+

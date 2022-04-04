@@ -1,0 +1,450 @@
+ln94210-109-p1s1
+1	Vyrovnaná	AAFS1----1A----	Atr
+2	sezona	NNFS1-----A----	ExD
+3	Severočeské	AAFS2----1A----	Atr
+4	filharmonie	NNFS2-----A----	Atr
+
+ln94210-109-p2s1
+1	Severočeskou	AAFS4----1A----	Atr
+2	filharmonii	NNFS4-----A----	Obj
+3	Teplice	NNFP1-----A----	Atr
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	doprovázela	VpQW---XR-AA---	Atr
+7	na	RR--6----------	AuxP
+8	pondělním	AAIS6----1A----	Atr
+9	koncertu	NNIS6-----A---1	Adv
+10	Petera	NNMS4-----A----	Atr
+11	Dvorského	NNMS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	řídil	VpYS---XR-AA---	Pred
+14	Tomáš	NNMS1-----A----	Atr
+15	Koutník	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94210-109-p2s2
+1	Šéfdirigentem	NNMS7-----A----	Pnom
+2	orchestru	NNIS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	od	RR--2----------	AuxP
+5	září	NNNS2-----A----	Adv
+6	1991	C=-------------	Atr
+7	,	Z:-------------	Coord
+8	v	RR--6----------	AuxP
+9	únoru	NNIS6-----A----	Adv
+10	následujícího	AGIS2-----A----	Atr
+11	roku	NNIS2-----A---1	Atr
+12	se	P7-X4----------	AuxT
+13	stal	VpYS---XR-AA---	Pred
+14	i	J^-------------	AuxZ
+15	ředitelem	NNMS7-----A----	Obj
+16	filharmonie	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94210-109-p3s1
+1	Když	J,-------------	AuxC
+2	jsem	VB-S---1P-AA---	AuxV
+3	nastupoval	VpYS---XR-AA---	Adv
+4	do	RR--2----------	AuxP
+5	orchestru	NNIS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	rozhodně	Dg-------1A----	Adv
+8	jsem	VB-S---1P-AA---	AuxV
+9	neměl	VpYS---XR-NA---	Obj
+10	nějaké	PZFP4----------	Atr
+11	mocenské	AAFP4----1A----	Atr
+12	a	J^-------------	Coord
+13	velikášské	AAFP4----1A----	Atr
+14	ambice	NNFP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	řekl	VpYS---XR-AA---	Pred
+17	Koutník	NNMS1-----A----	Sb
+18	LN	NNFPX-----A---8	Obj
+19	.	Z:-------------	AuxK
+
+ln94210-109-p3s2
+1	Mým	PSZS7-S1-------	Atr
+2	cílem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	naplnit	Vf--------A----	Sb
+5	požadavek	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	který	P4IS4----------	Obj
+8	vznesl	VpYS---XR-AA---	Atr
+9	orchestr	NNIS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	když	J,-------------	AuxC
+12	mi	PH-S3--1-------	Obj
+13	bylo	VpNS---XR-AA---	AuxV
+14	nabídnuto	VsNS---XX-AP---	Adv
+15	místo	NNNS1-----A----	Sb
+16	šéfdirigenta	NNMS2-----A----	Atr
+17	:	Z:-------------	AuxG
+18	Přivést	Vf--------A----	Atr
+19	kvalitu	NNFS4-----A----	Obj
+20	orchestru	NNIS2-----A----	Atr
+21	na	RR--4----------	AuxP
+22	vyšší	AAFS4----2A----	Atr
+23	úroveň	NNFS4-----A----	Adv
+24	.	Z:-------------	AuxK
+
+ln94210-109-p3s3
+1	Ale	J^-------------	Coord
+2	jde	VB-S---3P-AA---	Pred
+3	o	RR--4----------	AuxP
+4	cíl	NNIS4-----A----	Obj
+5	trvalý	AAIS4----1A----	Atr
+6	,	Z:-------------	AuxX
+7	absolutní	AAFS2----1A----	Atr
+8	úrovně	NNFS2-----A----	Obj
+9	nelze	VB-S---3P-NA---	Pred
+10	nikdy	Db-------------	Adv
+11	dosáhnout	Vf--------A----	Sb
+12	,	Z:-------------	Coord
+13	lze	VB-S---3P-AA---	Pred
+14	se	P7-X4----------	AuxT
+15	jí	PPFS3--3-------	Obj
+16	pouze	Db-------------	AuxZ
+17	přibližovat	Vf--------A----	Sb
+18	.	Z:-------------	AuxK
+
+ln94210-109-p3s4
+1	Tomáš	NNMS1-----A----	Atr
+2	Koutník	NNMS1-----A----	Sb
+3	,	Z:-------------	Apos
+4	absolvent	NNMS1-----A----	Sb
+5	hry	NNFS2-----A----	Atr
+6	na	RR--4----------	AuxP
+7	violoncello	NNNS4-----A----	Atr
+8	a	J^-------------	Coord
+9	dirigování	NNNS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	pražské	AAFS6----1A----	Atr
+12	Akademii	NNFS6-----A----	Atr
+13	múzických	AANP2----1A----	Atr
+14	umění	NNNP2-----A----	Atr
+15	(	Z:-------------	ExD
+16	1977	C=-------------	ExD
+17	)	Z:-------------	ExD
+18	,	Z:-------------	AuxX
+19	má	VB-S---3P-AA---	Pred
+20	dlouholetou	AAFS4----1A----	Atr
+21	dirigentskou	AAFS4----1A----	Atr
+22	praxi	NNFS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94210-109-p3s5
+1	Již	Db-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	roce	NNIS6-----A---1	Adv
+4	absolutoria	NNNS2-----A----	Atr
+5	získal	VpYS---XR-AA---	Pred
+6	první	CrFS4----------	Atr
+7	cenu	NNFS4-----A----	Obj
+8	a	J^-------------	Coord
+9	Zlatou	AAFS4----1A----	Atr
+10	lyru	NNFS4-----A----	Obj
+11	na	RR--6----------	AuxP
+12	prestižní	AAFS6----1A----	Atr
+13	Mezinárodní	AAFS6----1A----	Atr
+14	dirigentské	AAFS6----1A----	Atr
+15	soutěži	NNFS6-----A----	Adv
+16	ve	RV--6----------	AuxP
+17	francouzském	AAIS6----1A----	Atr
+18	Besanconu	NNIS6-----A---1	Atr
+19	,	Z:-------------	Coord
+20	o	RR--4----------	AuxP
+21	dva	ClYP4----------	Atr
+22	roky	NNIP4-----A----	Adv
+23	později	Dg-------2A----	Adv
+24	se	P7-X4----------	AuxT
+25	stal	VpYS---XR-AA---	Pred
+26	laureátem	NNMS7-----A----	Obj
+27	obdobné	AAFS2----1A----	Atr
+28	soutěže	NNFS2-----A----	Atr
+29	v	RR--6----------	AuxP
+30	Katovicích	NNFP6-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94210-109-p3s6
+1	Byl	VpYS---XR-AA---	Pred
+2	dirigentem	NNMS7-----A----	Pnom
+3	Symfonického	AAIS2----1A----	Atr
+4	orchestru	NNIS2-----A----	Atr
+5	Čs	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	rozhlasu	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Bratislavě	NNFS6-----A----	Adv
+10	(	Z:-------------	AuxG
+11	1979	C=-------------	ExD
+12	-	Z:-------------	Coord
+13	1981	C=-------------	ExD
+14	)	Z:-------------	AuxG
+15	,	Z:-------------	Coord
+16	poté	Db-------------	Adv
+17	až	TT-------------	AuxZ
+18	do	RR--2----------	AuxP
+19	roku	NNIS2-----A---1	Adv
+20	1983	C=-------------	Atr
+21	řídil	VpYS---XR-AA---	Pred
+22	Sukův	AUIS4M---------	Atr
+23	komorní	AAIS4----1A----	Atr
+24	orchestr	NNIS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln94210-109-p3s7
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1988	C=-------------	Atr
+4	se	P7-X4----------	AuxT
+5	stal	VpYS---XR-AA---	Pred
+6	šéfdirigentem	NNMS7-----A----	Obj
+7	Janáčkovy	AUFS2M---------	Atr
+8	filharmonie	NNFS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	Ostravě	NNFS6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	kde	Db-------------	Adv
+13	do	RR--2----------	AuxP
+14	té	PDFS2----------	Atr
+15	doby	NNFS2-----A----	Adv
+16	působil	VpYS---XR-AA---	Atr
+17	jako	J,-------------	AuxY
+18	dirigent	NNMS1-----A----	AtvV
+19	.	Z:-------------	AuxK
+
+ln94210-109-p4s1
+1	Nová	AAFS1----1A----	Atr
+2	sezona	NNFS1-----A----	Sb
+3	Severočeské	AAFS2----1A----	Atr
+4	filharmonie	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	právě	Db-------------	Adv
+8	začíná	VB-S---3P-AA---	Atr
+9	,	Z:-------------	AuxX
+10	bude	VB-S---3F-AA---	Pred
+11	podle	RR--2----------	AuxP
+12	jeho	PSXXXZS3-------	Atr
+13	slov	NNNP2-----A----	Adv
+14	celkem	Db-------------	Adv
+15	tradiční	AAFS1----1A----	Pnom
+16	.	Z:-------------	AuxK
+
+ln94210-109-p4s2
+1	Nebudou	VB-P---3F-NA---	Pred
+2	v	RR--6----------	AuxP
+3	ní	P5FS6--3-------	Adv
+4	žádné	PWIP1----------	Atr
+5	mimořádné	AAIP1----1A----	Atr
+6	výstřelky	NNIP1-----A----	Sb
+7	a	J^-------------	Coord
+8	ani	J^-------------	AuxZ
+9	tak	Db-------------	Adv
+10	mimořádní	AAMP1----1A----	Atr
+11	hosté	NNMP1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	jako	J,-------------	AuxY
+14	je	VB-S---3P-AA---	Apos
+15	mistr	NNMS1-----A----	Atr
+16	Dvorský	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+ln94210-109-p4s3
+1	Bude	VB-S---3F-AA---	Pred
+2	ale	J^-------------	Coord
+3	celkem	Db-------------	Adv
+4	vyvážená	AAFS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	posluchačsky	Dg-------1A----	Adv
+7	náročná	AAFS1----1A----	Pnom
+8	a	J^-------------	Coord
+9	místy	Db-------------	Adv
+10	velmi	Db-------------	Adv
+11	vděčná	AAFS1----1A----	Pnom
+12	,	Z:-------------	AuxX
+13	protože	J,-------------	AuxC
+14	samozřejmě	Dg-------1A----	AuxY
+15	uvedeme	VB-P---1P-AA---	Adv
+16	autory	NNMP4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	kteří	P4MP1----------	Sb
+19	oslovují	VB-P---3P-AA---	Atr
+20	všechny	PLFP4----------	Atr
+21	generace	NNFP4-----A----	Obj
+22	hudbymilovných	AAMP2----1A----	Atr
+23	lidí	NNMP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94210-109-p4s4
+1	Například	Db-------------	AuxY
+2	hned	Db-------------	AuxZ
+3	v	RR--6----------	AuxP
+4	zahajovacím	AAIS6----1A----	Atr
+5	koncertu	NNIS6-----A---1	Adv
+6	zazní	VB-S---3P-AA---	Pred
+7	tři	ClXP1----------	Atr
+8	romantičtí	AAMP1----1A----	Atr
+9	velikáni	NNMP1-----A----	Sb
+10	-	Z:-------------	Apos
+11	Dvořák	NNMS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	Čajkovský	AAMS1----1A----	Sb
+14	a	J^-------------	Coord
+15	Brahms	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94210-109-p4s5
+1	Vrcholem	NNIS7-----A----	Pnom
+2	první	CrFS2----------	Atr
+3	poloviny	NNFS2-----A----	Atr
+4	sezony	NNFS2-----A----	Atr
+5	bude	VB-S---3F-AA---	Pred
+6	podle	RR--2----------	AuxP
+7	Tomáše	NNMS2-----A----	Atr
+8	Koutníka	NNMS2-----A----	Adv
+9	uvedení	NNNS2-----A----	Sb
+10	Dvořákova	AUNS2M---------	Atr
+11	Rekviem	NNNXX-----A----	Atr
+12	v	RR--6----------	AuxP
+13	dušičkovém	AANS6----1A----	Atr
+14	období	NNNS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94210-109-p4s6
+1	S	RR--7----------	AuxP
+2	orchestrem	NNIS7-----A----	Adv
+3	také	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	této	PDFS6----------	Atr
+6	sezoně	NNFS6-----A----	Adv
+7	vystoupí	VB-S---3P-AA---	Pred
+8	několik	Ca--1----------	Sb
+9	zahraničních	AAMP2----1A----	Atr
+10	hostů	NNMP2-----A----	Atr
+11	převážně	Dg-------1A----	AuxZ
+12	z	RR--2----------	AuxP
+13	Německa	NNNS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	také	Db-------------	AuxZ
+17	ze	RV--2----------	AuxP
+18	Slovenska	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94210-109-p4s7
+1	Atraktivní	AAIS1----1A----	Pnom
+2	jistě	Dg-------1A----	Adv
+3	bude	VB-S---3F-AA---	Pred
+4	i	J^-------------	AuxZ
+5	koncert	NNIS1-----A----	Sb
+6	barokní	AAFS2----1A----	Atr
+7	hudby	NNFS2-----A----	Atr
+8	připravený	AAIS1----1A----	Atr
+9	primáriem	NNNS7-----A----	Atr
+10	Kvarteta	NNNS2-----A----	Atr
+11	hl	NNIXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	m	NNNXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Prahy	NNFS2-----A----	Atr
+16	Břetislavem	NNMS7-----A----	Atr
+17	Novotným	NNMS7-----A----	Obj
+18	a	J^-------------	Coord
+19	Má	PSFS1-S1------1	Atr
+20	vlast	NNFS1-----A----	Sb
+21	uvedená	AAFS1----1A----	Atr
+22	dirigentem	NNMS7-----A----	Atr
+23	Peterem	NNMS7-----A----	Atr
+24	Vronským	NNMS7-----A----	Obj
+25	v	RR--4----------	AuxP
+26	den	NNIS4-----A----	Adv
+27	výročí	NNNS2-----A----	Atr
+28	úmrtí	NNNS2-----A----	Atr
+29	Bedřicha	NNMS2-----A----	Atr
+30	Smetany	NNMS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94210-109-p5s1
+1	Severočeská	AAFS1----1A----	Atr
+2	filharmonie	NNFS1-----A----	Sb
+3	připravuje	VB-S---3P-AA---	Pred
+4	několik	Ca--4----------	Obj
+5	nahrávek	NNFP2-----A----	Atr
+6	na	RR--6----------	AuxP
+7	CD	NNNXX-----A---8	Atr
+8	.	Z:-------------	AuxK
+
+ln94210-109-p5s2
+1	Natáčení	NNNS1-----A----	Sb
+2	kompletu	NNIS2-----A----	Atr
+3	Schubertových	AUFP2M---------	Atr
+4	symfonií	NNFP2-----A----	Atr
+5	by	Vc-------------	AuxV
+6	mělo	VpNS---XR-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	dokončeno	VsNS---XX-AP---	Obj
+9	v	RR--6----------	AuxP
+10	příštím	AAIS6----1A----	Atr
+11	roce	NNIS6-----A---1	Adv
+12	.	Z:-------------	AuxK
+
+ln94210-109-p5s3
+1	Orchestr	NNIS1-----A----	Sb
+2	nahrál	VpYS---XR-AA---	Pred
+3	jako	J,-------------	AuxY
+4	první	CrIS4----------	Atr
+5	kompakt	NNIS4-----A----	Atv
+6	Beethovenovu	AUFS4M---------	Atr
+7	a	J^-------------	Coord
+8	Mozartovu	AUFS4M---------	Atr
+9	1	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	symfonii	NNFS4-----A----	Obj
+12	a	J^-------------	Coord
+13	Německé	AAIP4----1A----	Atr
+14	tance	NNIP4-----A----	Obj
+15	těchto	PDXP2----------	Atr
+16	autorů	NNMP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94210-109-p5s4
+1	Chystá	VB-S---3P-AA---	Pred
+2	dále	Db------------1	Adv
+3	Rybovu	AUFS4M---------	Atr
+4	Českou	AAFS4----1A----	Atr
+5	mši	NNFS4-----A----	Obj
+6	vánoční	AAFS4----1A----	Atr
+7	;	Z:-------------	AuxK
+
+ln94210-109-p5s5
+1	desku	NNFS4-----A----	Obj
+2	vydá	VB-S---3P-AA---	Pred
+3	Československá	AAFS1----1A----	Atr
+4	obchodní	AAFS1----1A----	Atr
+5	banka	NNFS1-----A----	Sb
+6	pro	RR--4----------	AuxP
+7	své	P8FP4---------1	Atr
+8	reklamní	AAFP4----1A----	Atr
+9	potřeby	NNFP4-----A----	Adv
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	část	NNFS4-----A----	Obj
+13	nákladu	NNIS2-----A----	Atr
+14	bude	VB-S---3F-AA---	AuxV
+15	mít	Vf--------A----	Pred
+16	filharmonie	NNFS1-----A----	Sb
+17	k	RR--3----------	AuxP
+18	dispozici	NNFS3-----A----	Adv
+19	i	J^-------------	AuxZ
+20	pro	RR--4----------	AuxP
+21	své	P8YP4---------1	Atr
+22	posluchače	NNMP4-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94210-109-p5s6
+1	(	Z:-------------	ExD
+2	iha	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

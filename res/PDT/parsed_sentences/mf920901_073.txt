@@ -1,0 +1,381 @@
+mf920901-073-p1s1
+1	politické	AANS1----1A----	Atr
+2	spektrum	NNNS1-----A----	ExD
+
+mf920901-073-p2s1
+1	POSTUP	NNIS4-----A----	Obj
+2	A	J^-------------	Coord
+3	VÝSLEDKY	NNIP4-----A----	Obj
+4	JEDNÁNÍ	NNNS2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	státoprávním	AANS6----1A----	Atr
+7	uspořádání	NNNS6-----A----	Atr
+8	mezi	RR--7----------	AuxP
+9	ODS	NNFXX-----A---8	Atr
+10	a	J^-------------	Coord
+11	HZDS	NNNXX-----A---8	Atr
+12	považuje	VB-S---3P-AA---	Sb
+13	LSU	NNFXX-----A---8	Sb
+14	za	RR--4----------	AuxP
+15	nelegální	AAIP4----1N----	Obj
+16	-	Z:-------------	AuxG
+17	zaznělo	VpNS---XR-AA---	Pred
+18	na	RR--6----------	AuxP
+19	včerejší	AAFS6----1A----	Atr
+20	tiskové	AAFS6----1A----	Atr
+21	konferenci	NNFS6-----A----	Adv
+22	LSU	NNFXX-----A---8	Atr
+23	.	Z:-------------	AuxK
+
+mf920901-073-p2s2
+1	Předseda	NNMS1-----A----	Atr
+2	LSU	NNFXX-----A---8	Atr
+3	František	NNMS1-----A----	Atr
+4	Trnka	NNMS1-----A----	Sb
+5	uvedl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	"	Z:-------------	AuxG
+9	jestliže	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	mění	VB-S---3P-AA---	Adv
+12	situace	NNFS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	musíme	VB-P---1P-AA---	Obj
+15	přehodnocovat	Vf--------A----	Obj
+16	své	P8YP4---------1	Atr
+17	postoje	NNIP4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	v	RR--6----------	AuxP
+21	zásadních	AAFP6----1A----	Atr
+22	otázkách	NNFP6-----A----	Adv
+23	jsme	VB-P---1P-AA---	AuxV
+24	neustoupili	VpMP---XR-NA---	Obj
+25	"	Z:-------------	AuxG
+26	.	Z:-------------	AuxK
+
+mf920901-073-p2s3
+1	K	RR--3----------	AuxP
+2	nominaci	NNFS3-----A----	Obj
+3	Jiřího	NNMS2-----A----	Atr
+4	V	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Kotase	NNMS2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	čs	AAXXX----1A---8	Atr
+9	.	Z:-------------	AuxG
+10	prezidenta	NNMS4-----A----	Atr
+11	předseda	NNMS1-----A----	Atr
+12	Strany	NNFS2-----A----	Atr
+13	zelených	AAMP2----1A----	ExD
+14	Aleš	NNMS1-----A----	Atr
+15	Mucha	NNMS1-----A----	Sb
+16	poznamenal	VpYS---XR-AA---	Pred
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	se	P7-X4----------	AuxT
+20	tato	PDFS1----------	Atr
+21	kandidatura	NNFS1-----A----	Sb
+22	zřejmě	Dg-------1A----	AuxY
+23	stává	VB-S---3P-AA---	Obj
+24	zbytečnou	AAFS7----1A----	Obj
+25	.	Z:-------------	AuxK
+
+mf920901-073-p3s1
+1	NOVÁ	AAFS1----1A----	Atr
+2	POLITICKÁ	AAFS1----1A----	Atr
+3	STRANA	NNFS1-----A----	Sb
+4	pod	RR--7----------	AuxP
+5	názvem	NNIS7-----A----	Atr
+6	Křesťanskosociální	AAFS1----1A----	Atr
+7	unie	NNFS1-----A----	Atr
+8	(	Z:-------------	Apos
+9	KSU	NNFXX-----A---8	Atr
+10	)	Z:-------------	AuxG
+11	byla	VpQW---XR-AA---	AuxV
+12	28	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	srpna	NNIS2-----A----	Adv
+15	zaregistrována	VsQW---XX-AP---	Pred
+16	ministerstvem	NNNS7-----A----	Obj
+17	vnitra	NNNS2-----A----	Atr
+18	ČR	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+
+mf920901-073-p3s2
+1	Tisková	AAFS1----1A----	Atr
+2	mluvčí	NNFS1-----A----	Atr
+3	této	PDFS2----------	Atr
+4	strany	NNFS2-----A----	Atr
+5	Helena	NNFS1-----A----	Atr
+6	Bastlová	NNFS1-----A----	Sb
+7	uvedla	VpQW---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	KSU	NNFXX-----A---8	Sb
+11	se	P7-X4----------	Obj
+12	bude	VB-S---3F-AA---	AuxV
+13	důsledně	Dg-------1A----	Adv
+14	profilovat	Vf--------A----	Obj
+15	jako	J,-------------	AuxY
+16	strana	NNFS1-----A----	Atv
+17	politického	AAIS2----1A----	Atr
+18	středu	NNIS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	neboť	J^-------------	Coord
+21	se	P7-X4----------	AuxT
+22	nechce	VB-S---3P-NA---	Obj
+23	vyhýbat	Vf--------A----	Obj
+24	dialogu	NNIS3-----A----	Obj
+25	s	RR--7----------	AuxP
+26	žádnou	PWFS7----------	Atr
+27	ze	RV--2----------	AuxP
+28	stran	NNFP2-----A----	Atr
+29	politického	AANS2----1A----	Atr
+30	spektra	NNNS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+mf920901-073-p3s3
+1	V	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	smyslu	NNIS6-----A----	Adv
+4	se	P7-X4----------	Obj
+5	KSU	NNFXX-----A---8	Sb
+6	považuje	VB-S---3P-AA---	Pred
+7	za	RR--4----------	AuxP
+8	pokračovatelku	NNFS4-----A----	Obj
+9	Šrámkovy	AUFS2M---------	Atr
+10	Čs	AAXXX----1A---8	Atr
+11	.	Z:-------------	AuxG
+12	strany	NNFS2-----A----	Atr
+13	lidové	AAFS2----1A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920901-073-p3s4
+1	Podle	RR--2----------	AuxP
+2	jejích	PSXP2FS3-------	Atr
+3	informací	NNFP2-----A----	Adv
+4	se	P7-X4----------	Obj
+5	k	RR--3----------	AuxP
+6	nové	AAFS3----1A----	Atr
+7	straně	NNFS3-----A----	Adv
+8	hlásí	VB-S---3P-AA---	Pred
+9	přibližně	Dg-------1A----	AuxZ
+10	25	C=-------------	Sb
+11	až	J^-------------	Coord
+12	30	C=-------------	Sb
+13	tisíc	ClXS2----------	Atr
+14	občanů	NNMP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	a	J^-------------	AuxY
+17	to	PDNS4----------	AuxY
+18	převážně	Dg-------1A----	AuxZ
+19	z	RR--2----------	AuxP
+20	Moravy	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920901-073-p3s5
+1	Předsedou	NNMS7-----A----	Pnom
+2	KSU	NNFXX-----A---8	Atr
+3	je	VB-S---3P-AA---	Pred
+4	Milan	NNMS1-----A----	Atr
+5	Andrýsek	NNMS1-----A----	Sb
+6	,	Z:-------------	Coord
+7	místopředsedou	NNMS7-----A----	ExD
+8	Jiří	NNMS1-----A----	Atr
+9	Černý	AAMS1----1A----	ExD
+10	.	Z:-------------	AuxK
+
+mf920901-073-p4s1
+1	VÝSLEDKY	NNIP1-----A----	Sb
+2	POSLEDNÍHO	AANS2----1A----	Atr
+3	JEDNÁNÍ	NNNS2-----A----	Atr
+4	ODS	NNFXX-----A---8	Atr
+5	a	J^-------------	Coord
+6	HZDS	NNNXX-----A---8	Atr
+7	jsou	VB-P---3P-AA---	Pred
+8	"	Z:-------------	AuxG
+9	nekrologem	NNIS7-----A----	Pnom
+10	společného	AAIS2----1A----	Atr
+11	státu	NNIS2-----A----	Atr
+12	"	Z:-------------	AuxG
+13	.	Z:-------------	AuxK
+
+mf920901-073-p4s2
+1	Za	RR--2----------	AuxP
+2	této	PDFS2----------	Atr
+3	situace	NNFS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	referendum	NNNS1-----A----	Sb
+6	sice	Db-------------	AuxY
+7	zdá	VB-S---3P-AA---	Sb
+8	"	Z:-------------	AuxG
+9	zbytečným	AAIS7----1A----	Atr
+10	přepychem	NNIS7-----A----	Obj
+11	"	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	přesto	Dg-------1A----	Coord
+14	HSDSMS	NNNXX-----A---8	Sb
+15	jeho	PSXXXZS3-------	Atr
+16	vypsání	NNNS4-----A----	Obj
+17	nadále	Db-------------	Adv
+18	podporuje	VB-S---3P-AA---	Sb
+19	,	Z:-------------	AuxX
+20	protože	J,-------------	AuxC
+21	by	Vc-------------	AuxV
+22	rozpadu	NNIS3-----A----	Obj
+23	státu	NNIS2-----A----	Atr
+24	dodalo	VpNS---XR-AA---	Adv
+25	legitimitu	NNFS4-----A----	Obj
+26	-	Z:-------------	AuxG
+27	tvrdí	VB-S---3P-AA---	Pred
+28	se	P7-X4----------	AuxR
+29	v	RR--6----------	AuxP
+30	prohlášení	NNNS6-----A----	Adv
+31	zemské	AAFS2----1A----	Atr
+32	rady	NNFS2-----A----	Atr
+33	HSDSMS	NNNXX-----A---8	Atr
+34	,	Z:-------------	AuxX
+35	vydaném	AANS6----1A----	Atr
+36	včera	Db-------------	Adv
+37	v	RR--6----------	AuxP
+38	Brně	NNNS6-----A----	Adv
+39	.	Z:-------------	AuxK
+
+mf920901-073-p4s3
+1	O	RR--6----------	AuxP
+2	ministerstvu	NNNS6-----A----	Obj
+3	kontroly	NNFS2-----A----	Atr
+4	ČR	NNFXX-----A---8	Atr
+5	se	P7-X4----------	AuxR
+6	v	RR--6----------	AuxP
+7	něm	P5ZS6--3-------	Adv
+8	uvádí	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	je	VB-S---3P-AA---	Sb
+12	stranicky	Dg-------1A----	Adv
+13	podřízeno	VsNS---XX-AP---	Pnom
+14	ODS	NNFXX-----A---8	Obj
+15	,	Z:-------------	AuxX
+16	a	J^-------------	Coord
+17	podle	RR--2----------	AuxP
+18	toho	PDZS2----------	Adv
+19	působí	VB-S---3P-AA---	Sb
+20	.	Z:-------------	AuxK
+
+mf920901-073-p4s4
+1	Předpokládané	AANS1----1A----	Atr
+2	dosazení	NNNS1-----A----	Sb
+3	člena	NNMS2-----A----	Atr
+4	KDS	NNFXX-----A---8	Atr
+5	do	RR--2----------	AuxP
+6	čela	NNNS2-----A----	Atr
+7	generální	AAFS2----1A----	Atr
+8	prokuratury	NNFS2-----A----	Atr
+9	místo	RR--2----------	AuxP
+10	odvolaného	AAMS2----1A----	Atr
+11	Ludvíka	NNMS2-----A----	Atr
+12	Brunnera	NNMS2-----A----	Atr
+13	je	VB-S---3P-AA---	Pred
+14	označeno	VsNS---XX-AP---	Pnom
+15	jako	J,-------------	AuxY
+16	výsledek	NNIS1-----A----	Obj
+17	snahy	NNFS2-----A----	Atr
+18	ODS	NNFXX-----A---8	Atr
+19	prosadit	Vf--------A----	Atr
+20	úzké	AAIP4----1A----	Atr
+21	stranické	AAIP4----1A----	Atr
+22	zájmy	NNIP4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+mf920901-073-p5s1
+1	(	Z:-------------	ExD
+2	vin	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+
+mf920901-073-p6s1
+1	PŘIJETÍM	NNNS7-----A----	Adv
+2	NÁVRHU	NNIS2-----A----	Atr
+3	ÚSTAVY	NNFS2-----A----	Atr
+4	SR	NNFXX-----A---8	Atr
+5	se	P7-X4----------	AuxT
+6	tato	PDFS1----------	Sb
+7	dostane	VB-S---3P-AA---	Obj
+8	do	RR--2----------	AuxP
+9	rozporu	NNIS2-----A----	AuxP
+10	s	RR--7----------	AuxP
+11	dnešní	AAFS7----1A----	Atr
+12	federální	AAFS7----1A----	Atr
+13	ústavou	NNFS7-----A----	Adv
+14	-	Z:-------------	AuxG
+15	řekl	VpYS---XR-AA---	Pred
+16	včera	Db-------------	Adv
+17	člen	NNMS1-----A----	Atr
+18	výkonného	AAIS2----1A----	Atr
+19	výboru	NNIS2-----A----	Atr
+20	ODU	NNFXX-----A---8	Atr
+21	Peter	NNMS1-----A----	Atr
+22	Tatár	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+mf920901-073-p6s2
+1	ODU	NNFXX-----A---8	Sb
+2	je	VB-S---3P-AA---	Pred
+3	přesvědčena	VsQW---XX-AP---	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	ve	RV--6----------	AuxP
+7	Slovenské	AAFS6----1A----	Atr
+8	republice	NNFS6-----A----	Adv
+9	tak	Db-------------	Adv
+10	vznikne	VB-S---3P-AA---	Obj
+11	dvojprávní	AAIS1----1A----	Atr
+12	stav	NNIS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+mf920901-073-p6s3
+1	Předseda	NNMS1-----A----	Atr
+2	ODU	NNFXX-----A---8	Atr
+3	Martin	NNMS1-----A----	Atr
+4	Porubjak	NNMS1-----A----	Sb
+5	připustil	VpYS---XR-AA---	Pred
+6	vznik	NNIS4-----A----	Obj
+7	nového	AAIS2----1A----	Atr
+8	politického	AAIS2----1A----	Atr
+9	subjektu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	a	J^-------------	AuxY
+12	to	PDNS4----------	AuxY
+13	i	J^-------------	AuxZ
+14	za	RR--4----------	AuxP
+15	cenu	NNFS4-----A----	Adv
+16	zániku	NNIS2-----A----	Atr
+17	ODU	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+
+mf920901-073-p6s4
+1	Martin	NNMS1-----A----	Atr
+2	Porubjak	NNMS1-----A----	Sb
+3	k	RR--3----------	AuxP
+4	tomu	PDZS3----------	Adv
+5	dodal	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	ODU	NNFXX-----A---8	Sb
+9	nebude	VB-S---3F-NA---	AuxV
+10	mít	Vf--------A----	Obj
+11	námitky	NNFP4-----A----	Obj
+12	proti	RR--3----------	AuxP
+13	spojení	NNNS3-----A----	Atr
+14	s	RR--7----------	AuxP
+15	Demokratickou	AAFS7----1A----	Atr
+16	stranou	NNFS7-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920901-073-p7s1
+1	(	Z:-------------	ExD
+2	mtn	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

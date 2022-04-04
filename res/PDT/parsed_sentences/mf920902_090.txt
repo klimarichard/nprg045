@@ -1,0 +1,320 @@
+mf920902-090-p1s1
+1	My	PP-P1--1-------	ExD
+2	,	Z:-------------	Apos
+3	národ	NNIS1-----A----	ExD
+4	slovenský	AAIS1----1A----	Atr
+5	.	Z:-------------	AuxK
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+
+mf920902-090-p1s2
+1	KONTROVERZNÍ	AAFS1----1A----	Atr
+2	ROZPRAVA	NNFS1-----A----	ExD
+3	V	RR--6----------	AuxP
+4	SNR	NNFXX-----A---8	Atr
+
+mf920902-090-p2s1
+1	Bratislava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920902-090-p2s2
+1	Rozprava	NNFS1-----A----	Sb
+2	k	RR--3----------	AuxP
+3	návrhu	NNIS3-----A----	Atr
+4	ústavy	NNFS2-----A----	Atr
+5	SR	NNFXX-----A---8	Atr
+6	v	RR--6----------	AuxP
+7	SNR	NNFXX-----A---8	Adv
+8	včera	Db-------------	Adv
+9	skončila	VpQW---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+mf920902-090-p2s3
+1	Poslanci	NNMP1-----A----	Sb
+2	schválili	VpMP---XR-AA---	Pred
+3	návrh	NNIS4-----A----	Obj
+4	ústavněprávního	AAIS2----1A----	Atr
+5	výboru	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	podle	RR--2----------	AuxP
+8	něhož	P9ZS2----------	Adv
+9	bude	VB-S---3F-AA---	Atr
+10	v	RR--6----------	AuxP
+11	textu	NNIS6-----A----	Adv
+12	preambule	NNFS2-----A----	Atr
+13	ústavy	NNFS2-----A----	Atr
+14	spojení	NNNS1-----A----	Sb
+15	"	Z:-------------	AuxG
+16	My	PP-P1--1-------	Atr
+17	,	Z:-------------	Apos
+18	národ	NNIS1-----A----	Atr
+19	slovenský	AAIS1----1A----	Atr
+20	.	Z:-------------	AuxG
+21	.	Z:-------------	AuxG
+22	.	Z:-------------	AuxG
+23	"	Z:-------------	AuxG
+24	místo	RR--2----------	AuxP
+25	původního	AANS2----1A----	Atr
+26	znění	NNNS2-----A----	Adv
+27	"	Z:-------------	AuxG
+28	My	PP-P1--1-------	Atr
+29	,	Z:-------------	Apos
+30	občané	NNMP1-----A----	Atr
+31	Slovenské	AAFS2----1A----	Atr
+32	republiky	NNFS2-----A----	Atr
+33	.	Z:-------------	AuxK
+34	.	Z:-------------	AuxK
+35	.	Z:-------------	AuxK
+36	"	Z:-------------	AuxG
+37	.	Z:-------------	AuxK
+
+mf920902-090-p2s4
+1	Odsouhlasili	VpMP---XR-AA---	Pred
+2	rovněž	Db-------------	Adv
+3	text	NNIS4-----A----	Obj
+4	formulace	NNFS2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	tom	PDZS6----------	Atr
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	slovenský	AAIS1----1A----	Atr
+10	jazyk	NNIS1-----A----	Sb
+11	je	VB-S---3P-AA---	Atr
+12	státním	AAIS7----1A----	Atr
+13	jazykem	NNIS7-----A----	Pnom
+14	SR	NNFXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+
+mf920902-090-p2s5
+1	Ve	RV--6----------	AuxP
+2	vládním	AAIS6----1A----	Atr
+3	návrhu	NNIS6-----A----	Adv
+4	byla	VpQW---XR-AA---	Pred
+5	formulace	NNFS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	slovenština	NNFS1-----A----	Sb
+9	je	VB-S---3P-AA---	Atr
+10	úředním	AAIS7----1A----	Atr
+11	jazykem	NNIS7-----A----	Pnom
+12	.	Z:-------------	AuxK
+
+mf920902-090-p2s6
+1	Poté	Db-------------	Adv
+2	plénum	NNNS1-----A----	Sb
+3	zamítlo	VpNS---XR-AA--1	Pred
+4	návrh	NNIS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	podle	RR--2----------	AuxP
+7	něhož	P9ZS2----------	Adv
+8	by	Vc-------------	AuxV
+9	výsledky	NNIP1-----A----	Sb
+10	referenda	NNNS2-----A----	Atr
+11	mohly	VpTP---XR-AA---	Atr
+12	být	Vf--------A----	AuxV
+13	změněny	VsTP---XX-AP---	Obj
+14	jen	TT-------------	AuxZ
+15	novým	AANS7----1A----	Atr
+16	referendem	NNNS7-----A----	Adv
+17	.	Z:-------------	AuxK
+
+mf920902-090-p2s7
+1	V	RR--6----------	AuxP
+2	textu	NNIS6-----A----	Adv
+3	ústavy	NNFS2-----A----	Atr
+4	zůstalo	VpNS---XR-AA---	Pred
+5	ustanovení	NNNS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	výsledky	NNIP4-----A----	Obj
+9	referenda	NNNS2-----A----	Atr
+10	je	VB-S---3P-AA---	Atr
+11	možné	AANS1----1A----	Pnom
+12	za	RR--2----------	AuxP
+13	určitých	AAFP2----1A----	Atr
+14	podmínek	NNFP2-----A----	Adv
+15	změnit	Vf--------A----	Sb
+16	zákonem	NNIS7-----A----	Adv
+17	SNR	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+
+mf920902-090-p2s8
+1	V	RR--6----------	AuxP
+2	době	NNFS6-----A----	Adv
+3	uzávěrky	NNFS2-----A----	Atr
+4	tohoto	PDZS2----------	Atr
+5	vydání	NNNS2-----A----	Atr
+6	hlasování	NNNS1-----A----	Sb
+7	o	RR--6----------	AuxP
+8	ústavě	NNFS6-----A----	Atr
+9	pokračovalo	VpNS---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+mf920902-090-p3s1
+1	V	RR--6----------	AuxP
+2	předchozí	AAFS6----1A----	Atr
+3	rozpravě	NNFS6-----A----	Adv
+4	řekl	VpYS---XR-AA---	Pred
+5	František	NNMS1-----A----	Atr
+6	Mikloško	NNMS1-----A----	Sb
+7	(	Z:-------------	ExD
+8	KDH	NNNXX-----A---8	ExD
+9	)	Z:-------------	ExD
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	patří	VB-P---3P-AA---	Obj
+13	přechodná	AANP1----1A----	Atr
+14	a	J^-------------	Coord
+15	závěrečná	AANP1----1A----	Atr
+16	ustanovení	NNNP1-----A----	Sb
+17	vládního	AAIS2----1A----	Atr
+18	návrhu	NNIS2-----A----	Atr
+19	ústavy	NNFS2-----A----	Atr
+20	SR	NNFXX-----A---8	Atr
+21	k	RR--3----------	AuxP
+22	nejkonfrontačnějším	AAFP3----3A----	Atr
+23	částem	NNFP3-----A----	Adv
+24	návrhu	NNIS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf920902-090-p3s2
+1	"	Z:-------------	AuxG
+2	Udělat	Vf--------A----	Sb
+3	návrh	NNIS4-----A----	Obj
+4	čisté	AAFS2----1A----	Atr
+5	ústavy	NNFS2-----A----	Atr
+6	plně	Dg-------1A----	Adv
+7	kompatibilní	AAFS2----1A----	Atv
+8	s	RR--7----------	AuxP
+9	Ústavou	NNFS7-----A----	Obj
+10	ČSFR	NNFXX-----A---8	Atr
+11	je	VB-S---3P-AA---	Obj
+12	prakticky	Dg-------1A----	Adv
+13	nemožné	AANS1----1N----	Pnom
+14	,	Z:-------------	AuxX
+15	"	Z:-------------	AuxG
+16	řekl	VpYS---XR-AA---	Pred
+17	a	J^-------------	Coord
+18	dodal	VpYS---XR-AA---	Pred
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	"	Z:-------------	AuxG
+22	éra	NNFS1-----A----	Sb
+23	hejslováctví	NNNS2-----A----	Atr
+24	končí	VB-S---3P-AA---	Obj
+25	1	C=-------------	Atr
+26	.	Z:-------------	AuxG
+27	ledna	NNIS2-----A----	Adv
+28	1993	C=-------------	Atr
+29	"	Z:-------------	AuxG
+30	.	Z:-------------	AuxK
+
+mf920902-090-p4s1
+1	Poslankyně	NNFS1-----A----	Atr
+2	Edita	NNFS1-----A----	Atr
+3	Bauerová	NNFS1-----A----	Sb
+4	(	Z:-------------	ExD
+5	Soužití	NNNS1-----A----	ExD
+6	)	Z:-------------	ExD
+7	poznamenala	VpQW---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	autonomie	NNFS1-----A----	Sb
+11	jako	J,-------------	AuxY
+12	taková	PDFS1----------	Atv
+13	nemůže	VB-S---3P-NA---	Obj
+14	vyvolávat	Vf--------A----	Obj
+15	dezintegraci	NNFS4-----A----	Obj
+16	státu	NNIS2-----A----	Atr
+17	,	Z:-------------	Coord
+18	což	PE--4----------	Obj
+19	dokumentovala	VpQW---XR-AA---	Pred
+20	na	RR--6----------	AuxP
+21	příkladech	NNIP6-----A----	Adv
+22	některých	PZXP2----------	Atr
+23	evropských	AAFP2----1A----	Atr
+24	zemí	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf920902-090-p4s2
+1	"	Z:-------------	AuxG
+2	Nedohodneme	VB-P---1P-NA---	Adv
+3	se	P7-X4----------	AuxT
+4	,	Z:-------------	AuxX
+5	pokud	J,-------------	AuxC
+6	nebudeme	VB-P---1F-NA---	AuxV
+7	hovořit	Vf--------A----	Adv
+8	jedním	ClZS7----------	Atr
+9	jazykem	NNIS7-----A----	Adv
+10	,	Z:-------------	AuxX
+11	"	Z:-------------	AuxG
+12	komentoval	VpYS---XR-AA---	Pred
+13	její	PSNS4FS3-------	Atr
+14	vystoupení	NNNS4-----A----	Obj
+15	Anton	NNMS1-----A----	Atr
+16	Hrnko	NNMS1-----A----	Sb
+17	(	Z:-------------	ExD
+18	SNS	NNFXX-----A---8	ExD
+19	)	Z:-------------	ExD
+20	.	Z:-------------	AuxK
+
+mf920902-090-p4s3
+1	Uznání	NNNS4-----A----	Obj
+2	práva	NNNS2-----A----	Atr
+3	národnostních	AAFP2----1A----	Atr
+4	menšin	NNFP2-----A----	Atr
+5	na	RR--4----------	AuxP
+6	samosprávu	NNFS4-----A----	Atr
+7	a	J^-------------	Coord
+8	jeho	PSXXXZS3-------	Atr
+9	zakotvení	NNNS4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	ústavě	NNFS6-----A----	Atr
+12	požadoval	VpYS---XR-AA---	Pred
+13	ve	RV--6----------	AuxP
+14	svém	P8ZS6----------	Atr
+15	vystoupení	NNNS6-----A----	Adv
+16	i	J^-------------	AuxZ
+17	poslanec	NNMS1-----A----	Atr
+18	János	NNMS1-----A----	Atr
+19	Fóthy	NNMS1-----A----	Sb
+20	(	Z:-------------	ExD
+21	MKDH	NNXXX-----A---8	ExD
+22	)	Z:-------------	ExD
+23	.	Z:-------------	AuxK
+
+mf920902-090-p4s4
+1	Řekl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	"	Z:-------------	AuxG
+5	když	J,-------------	AuxC
+6	se	P7-X4----------	Obj
+7	chceme	VB-P---1P-AA---	Adv
+8	integrovat	Vf--------A----	Obj
+9	do	RR--2----------	AuxP
+10	Evropy	NNFS2-----A----	Adv
+11	,	Z:-------------	AuxX
+12	je	VB-S---3P-AA---	Obj
+13	třeba	ACNS------A----	Pnom
+14	se	P7-X4----------	AuxT
+15	přizpůsobit	Vf--------A----	Sb
+16	evropským	AAIP3----1A----	Atr
+17	státům	NNIP3-----A----	Obj
+18	"	Z:-------------	AuxG
+19	.	Z:-------------	AuxK
+
+mf920902-090-p4s5
+1	Jeho	PSXXXZS3-------	Atr
+2	projev	NNIS4-----A----	Obj
+3	odmítl	VpYS---XR-AA--1	Pred
+4	větší	AAIS1----2A----	Atr
+5	počet	NNIS1-----A----	Sb
+6	poslanců	NNMP2-----A----	Atr
+7	z	RR--2----------	AuxP
+8	klubů	NNIP2-----A----	Atr
+9	HZDS	NNNXX-----A---8	Atr
+10	a	J^-------------	Coord
+11	SNS	NNFXX-----A---8	Atr
+12	.	Z:-------------	AuxK
+

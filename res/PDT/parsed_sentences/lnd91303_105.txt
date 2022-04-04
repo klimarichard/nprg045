@@ -1,0 +1,141 @@
+lnd91303-105-p2s1
+1	Další	AAFS1----1A----	Atr
+2	bomba	NNFS1-----A----	ExD
+
+lnd91303-105-p3s1
+1	BEJRÚT	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-105-p4s1
+1	Nejméně	Dg-------3A----	Adv
+2	15	C=-------------	Obj
+3	životů	NNIP2-----A----	Atr
+4	a	J^-------------	Coord
+5	asi	TT-------------	AuxZ
+6	70	C=-------------	Obj
+7	zranění	NNNP2-----A----	Atr
+8	si	P7-X3----------	AuxT
+9	vyžádal	VpYS---XR-AA---	Pred
+10	výbuch	NNIS1-----A----	Sb
+11	trhaviny	NNFS2-----A----	Atr
+12	na	RR--6----------	AuxP
+13	rušné	AAFS6----1A----	Atr
+14	třídě	NNFS6-----A----	Atr
+15	ve	RV--6----------	AuxP
+16	včerejší	AAFS6----1A----	Atr
+17	ranní	AAFS6----1A----	Atr
+18	dopravní	AAFS6----1A----	Atr
+19	špičce	NNFS6-----A----	Adv
+20	v	RR--6----------	AuxP
+21	Bejrútu	NNIS6-----A---1	Atr
+22	.	Z:-------------	AuxK
+
+lnd91303-105-p4s2
+1	Podle	RR--2----------	AuxP
+2	zprávy	NNFS2-----A----	Adv
+3	policie	NNFS2-----A----	Atr
+4	nálož	NNFS1-----A----	Sb
+5	o	RR--6----------	AuxP
+6	váze	NNFS6-----A----	Atr
+7	asi	TT-------------	Atr
+8	sta	NNNS2-----A----	Atr
+9	kilogramů	NNIP2-----A----	Atr
+10	byla	VpQW---XR-AA---	Pred
+11	umístěna	VsQW---XX-AP---	Pnom
+12	v	RR--6----------	AuxP
+13	automobilu	NNIS6-----A----	Adv
+14	zaparkovaném	AAIS6----1A----	Atr
+15	u	RR--2----------	AuxP
+16	šestipodlažní	AAFS2----1A----	Atr
+17	budovy	NNFS2-----A----	Adv
+18	s	RR--7----------	AuxP
+19	několika	Ca--7----------	Atr
+20	velkými	AAIP7----1A----	Atr
+21	obchody	NNIP7-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd91303-105-p4s3
+1	Většina	NNFS1-----A----	Pnom
+2	z	RR--2----------	AuxP
+3	obětí	NNFP2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	kupující	AGMP1-----A----	Sb
+6	,	Z:-------------	Coord
+7	mezi	RR--7----------	AuxP
+8	nimi	P5XP7--3-------	ExD
+9	mnoho	Ca--1----------	ExD
+10	žen	NNFP2-----A----	Atr
+11	a	J^-------------	Coord
+12	dětí	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd91303-105-p4s4
+1	K	RR--3----------	AuxP
+2	teroristickému	AAIS3----1A----	Atr
+3	činu	NNIS3-----A----	Obj
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	obchodní	AAFS4----1A----	Atr
+7	budovu	NNFS4-----A----	Obj
+8	těžce	Dg-------1A----	Adv
+9	poškodil	VpYS---XR-AA---	Atr
+10	a	J^-------------	Coord
+11	zničil	VpYS---XR-AA---	Atr
+12	nejméně	Dg-------3A----	AuxZ
+13	24	C=-------------	Obj
+14	aut	NNNP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	se	P7-X4----------	AuxT
+17	ještě	Db-------------	Adv
+18	nikdo	PWM-1----------	Sb
+19	nepřihlásil	VpYS---XR-NA---	Pred
+20	.	Z:-------------	AuxK
+
+lnd91303-105-p4s5
+1	Místem	NNNS7-----A----	Pnom
+2	výbuchu	NNIS2-----A----	Atr
+3	byla	VpQW---XR-AA---	Pred
+4	čtvrť	NNFS1-----A----	Sb
+5	Basta	NNFS1-----A----	Atr
+6	v	RR--6----------	AuxP
+7	západním	AAIS6----1A----	Atr
+8	Bejrútu	NNIS6-----A---1	Atr
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	žije	VB-S---3P-AA---	Atr
+12	hodně	Dg-------1A----	Sb
+13	stoupenců	NNMP2-----A----	Atr
+14	šíitské	AAFS2----1A----	Atr
+15	proíránské	AAFS2----1A----	Atr
+16	organizace	NNFS2-----A----	Atr
+17	Hizballáh	NNIS1-----A----	Atr
+18	,	Z:-------------	AuxX
+19	která	P4FS1----------	Sb
+20	se	P7-X4----------	AuxT
+21	zaměřuje	VB-S---3P-AA---	Atr
+22	na	RR--4----------	AuxP
+23	teroristickou	AAFS4----1A----	Atr
+24	činnost	NNFS4-----A----	Obj
+25	na	RR--4----------	AuxP
+26	protest	NNIS4-----A----	Atr
+27	proti	RR--3----------	AuxP
+28	jednání	NNNS3-----A----	Atr
+29	Arabů	NNMP2-----A----	Atr
+30	s	RR--7----------	AuxP
+31	Izraelem	NNIS7-----A----	Atr
+32	.	Z:-------------	AuxK
+
+lnd91303-105-p4s6
+1	Nedaleko	Dg-------1N----	AuxP
+2	místa	NNNS2-----A----	Adv
+3	výbuchu	NNIS2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	stanoviště	NNNP1-----A----	Sb
+6	jednotky	NNFS2-----A----	Atr
+7	syrské	AAFS2----1A----	Atr
+8	armády	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	libanonské	AAFS2----1A----	Atr
+11	armády	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+

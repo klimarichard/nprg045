@@ -1,0 +1,470 @@
+mf920923-093-p1s1
+1	Parlamentní	AAFS1----1A----	Atr
+2	rétorika	NNFS1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	jednu	ClFS4----------	Atr
+5	notu	NNFS4-----A----	Atr
+
+mf920923-093-p1s1B
+1	PREMIÉR	NNMS1-----A----	Atr
+2	STRÁSKÝ	AAMS1----1A----	ExD
+3	:	Z:-------------	AuxG
+4	BÝT	Vf--------A----	Sb
+5	POHROMADĚ	Db-------------	Adv
+6	A	J^-------------	Coord
+7	ZÁROVEŇ	Db-------------	Adv
+8	ODDĚLENI	VsMP---XX-AP---	ExD
+9	NELZE	VB-S---3P-NA---	ExD
+
+mf920923-093-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ben	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920923-093-p2s2
+1	"	Z:-------------	AuxG
+2	Být	Vf--------A----	Sb
+3	pohromadě	Db-------------	Adv
+4	a	J^-------------	Coord
+5	zároveň	Db-------------	Adv
+6	odděleni	VsMP---XX-AP---	ExD
+7	nelze	VB-S---3P-NA---	Pred
+8	,	Z:-------------	Coord
+9	být	Vf--------A----	Sb
+10	odloučeni	VsMP---XX-AP---	AtvV
+11	a	J^-------------	Coord
+12	zároveň	Db-------------	Adv
+13	spolupracovat	Vf--------A----	Sb
+14	všude	Db-------------	Adv
+15	,	Z:-------------	AuxX
+16	kde	Db-------------	Adv
+17	to	PDNS1----------	Sb
+18	bude	VB-S---3F-AA---	Adv
+19	možné	AANS1----1A----	Pnom
+20	,	Z:-------------	AuxX
+21	je	VB-S---3P-AA---	Pred
+22	jediná	AAFS1----1A----	Atr
+23	schůdná	AAFS1----1A----	Atr
+24	cesta	NNFS1-----A----	Pnom
+25	.	Z:-------------	AuxK
+
+mf920923-093-p2s3
+1	Tuto	PDFS4----------	Atr
+2	roli	NNFS4-----A----	Obj
+3	nesmí	VB-S---3P-NA---	Pred
+4	federální	AAFS1----1A----	Atr
+5	vláda	NNFS1-----A----	Sb
+6	zanedbat	Vf--------A----	Obj
+7	.	Z:-------------	AuxK
+
+mf920923-093-p2s4A
+1	Třetí	CrFS1----------	Atr
+2	cesta	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	vedlejší	AAFS7----1A----	Atr
+5	kolejí	NNFS7-----A----	Pnom
+6	.	Z:-------------	AuxK
+7	"	Z:-------------	AuxG
+
+mf920923-093-p2s4B
+1	Tato	PDNP4----------	Atr
+2	slova	NNNP4-----A----	Obj
+3	pronesl	VpYS---XR-AA---	Pred
+4	před	RR--7----------	AuxP
+5	poslanci	NNMP7-----A----	Adv
+6	FS	NNNXX-----A---8	Atr
+7	premiér	NNMS1-----A----	Atr
+8	Jan	NNMS1-----A----	Atr
+9	Stráský	AAMS1----1A----	Sb
+10	(	Z:-------------	ExD
+11	ODS	NNFXX-----A---8	ExD
+12	)	Z:-------------	ExD
+13	,	Z:-------------	AuxX
+14	když	J,-------------	AuxC
+15	včera	Db-------------	Adv
+16	zahájil	VpYS---XR-AA---	Adv
+17	pokračující	AGFS4-----A----	Atr
+18	diskusi	NNFS4-----A----	Obj
+19	sněmoven	NNFP2-----A----	Atr
+20	FS	NNNXX-----A---8	Atr
+21	ke	RV--3----------	AuxP
+22	státoprávní	AAFS3----1A----	Atr
+23	problematice	NNFS3-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920923-093-p2s5
+1	Ministerský	AAMS1----1A----	Atr
+2	předseda	NNMS1-----A----	Sb
+3	dále	Db------------1	Adv
+4	připomněl	VpYS---XR-AA---	Pred
+5	tři	ClXP4----------	Atr
+6	oblasti	NNFP4-----A----	Obj
+7	úkolů	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP4----------	Obj
+10	vláda	NNFS1-----A----	Sb
+11	předložila	VpQW---XR-AA---	AtrAtr
+12	parlamentu	NNIS3-----A----	Obj
+13	ve	RV--6----------	AuxP
+14	svém	P8ZS6----------	Atr
+15	programovém	AANS6----1A----	Atr
+16	prohlášení	NNNS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+mf920923-093-p2s6
+1	Týkaly	VpTP---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	mimo	RR--4----------	AuxP
+4	jiné	AANS4----1A----	Adv
+5	zeštíhlení	NNNS2-----A----	Obj
+6	federace	NNFS2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	pět	Cn-S4----------	Atr
+9	(	Z:-------------	ExD
+10	z	RR--2----------	AuxP
+11	dvanácti	Cn-P2----------	ExD
+12	původních	AANP2----1A----	ExD
+13	)	Z:-------------	ExD
+14	federálních	AANP2----1A----	Atr
+15	ministerstev	NNNP2-----A----	Atr
+16	s	RR--7----------	AuxP
+17	tím	PDZS7----------	Adv
+18	,	Z:-------------	AuxX
+19	že	J,-------------	AuxC
+20	ostatní	AANP1----1A----	Sb
+21	budou	VB-P---3F-AA---	AuxV
+22	do	RR--2----------	AuxP
+23	30	C=-------------	Atr
+24	.	Z:-------------	AuxG
+25	září	NNNS2-----A----	Adv
+26	zrušena	VsQW---XX-AP---	Atr
+27	a	J^-------------	Coord
+28	jejich	PSXXXXP3-------	Atr
+29	kompetence	NNFP1-----A----	Sb
+30	převedeny	VsTP---XX-AP---	Atr
+31	na	RR--4----------	AuxP
+32	republiky	NNFP4-----A----	Adv
+33	.	Z:-------------	AuxK
+
+mf920923-093-p2s7
+1	Tato	PDFS1----------	Atr
+2	"	Z:-------------	AuxG
+3	likvidační	AAFS1----1A----	Atr
+4	"	Z:-------------	AuxG
+5	aktivita	NNFS1-----A----	Sb
+6	nevede	VB-S---3P-NA---	Pred
+7	podle	RR--2----------	AuxP
+8	J	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Stráského	NNMS2-----A----	Adv
+11	k	RR--3----------	AuxP
+12	rozpadu	NNIS3-----A----	Adv
+13	státu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920923-093-p2s8
+1	Kompetence	NNFP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4FP4----------	Obj
+4	si	P7-X3----------	Obj
+5	federace	NNFS1-----A----	Sb
+6	ponechává	VB-S---3P-AA---	Atr
+7	,	Z:-------------	AuxX
+8	stále	Db-------------	Adv
+9	ještě	Db-------------	Adv
+10	znamenají	VB-P---3P-AA---	Pred
+11	společný	AAIS4----1A----	Atr
+12	stát	NNIS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+mf920923-093-p2s9
+1	Zákon	NNIS1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	způsobech	NNIP6-----A----	Atr
+4	zániku	NNIS2-----A----	Atr
+5	federace	NNFS2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	měl	VpYS---XR-AA---	Pred
+8	rozšířit	Vf--------A----	Obj
+9	ústavní	AAIS4----1A----	Atr
+10	prostor	NNIS4-----A----	Obj
+11	řešení	NNNS2-----A----	Atr
+12	současné	AAFS2----1A----	Atr
+13	situace	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920923-093-p3s1
+1	Celodenní	AAFS1----1A----	Atr
+2	diskuse	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	v	RR--6----------	AuxP
+5	níž	P9FS6----------	Adv
+6	vystoupil	VpYS---XR-AA---	Atr
+7	rekordní	AAIS1----1A----	Atr
+8	počet	NNIS1-----A----	Sb
+9	poslanců	NNMP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	byla	VpQW---XR-AA---	AuxV
+12	vedena	VsQW---XX-AP---	Pred
+13	v	RR--6----------	AuxP
+14	jednom	ClZS6----------	Atr
+15	tónu	NNIS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+mf920923-093-p3s2
+1	Vystoupili	VpMP---XR-AA---	Pred
+2	v	RR--6----------	AuxP
+3	ní	P5FS6--3-------	Adv
+4	až	TT-------------	AuxZ
+5	na	RR--4----------	AuxP
+6	výjimky	NNFP4-----A----	Adv
+7	výhradně	Dg-------1A----	Adv
+8	poslanci	NNMP1-----A----	Sb
+9	opozice	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	opět	Db-------------	Adv
+13	argumentovali	VpMP---XR-AA---	Atr
+14	nutností	NNFS7-----A----	Adv
+15	referenda	NNNS2-----A----	Atr
+16	,	Z:-------------	Coord
+17	životní	AAFS7----1A----	Atr
+18	potřebou	NNFS7-----A----	Adv
+19	zachování	NNNS2-----A----	Atr
+20	svazku	NNIS2-----A----	Atr
+21	České	AAFS2----1A----	Atr
+22	a	J^-------------	Coord
+23	Slovenské	AAFS2----1A----	Atr
+24	republiky	NNFS2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	jakékoli	PZFS6---------1	Atr
+27	podobě	NNFS6-----A----	AtrAtr
+28	a	J^-------------	Coord
+29	upozorňovali	VpMP---XR-AA---	Atr
+30	na	RR--4----------	AuxP
+31	svévolné	AANS4----1A----	Atr
+32	jednání	NNNS4-----A----	Obj
+33	ODS	NNFXX-----A---8	Atr
+34	a	J^-------------	Coord
+35	HZDS	NNNXX-----A---8	Atr
+36	.	Z:-------------	AuxK
+
+mf920923-093-p4s1
+1	Poslanec	NNMS1-----A----	Atr
+2	Ivan	NNMS1-----A----	Atr
+3	Fišera	NNMS1-----A----	Sb
+4	za	RR--4----------	AuxP
+5	klub	NNIS4-----A----	Adv
+6	poslanců	NNMP2-----A----	Atr
+7	ČSSD	NNFXX-----A---8	Atr
+8	přednesl	VpYS---XR-AA---	Pred
+9	návrh	NNIS4-----A----	Obj
+10	usnesení	NNNS2-----A----	Atr
+11	ke	RV--3----------	AuxP
+12	zprávě	NNFS3-----A----	Atr
+13	vlády	NNFS2-----A----	Atr
+14	o	RR--6----------	AuxP
+15	státoprávních	AAFP6----1A----	Atr
+16	záležitostech	NNFP6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920923-093-p4s2
+1	Podle	RR--2----------	AuxP
+2	něho	P5ZS2--3------1	Adv
+3	by	Vc-------------	AuxV
+4	FS	NNNXX-----A---8	Sb
+5	mělo	VpNS---XR-AA---	Pred
+6	od	RR--2----------	AuxP
+7	vlády	NNFS2-----A----	Obj
+8	požadovat	Vf--------A----	Obj
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	do	RR--2----------	AuxP
+12	31	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	října	NNIS2-----A----	Adv
+15	předložila	VpQW---XR-AA---	Obj
+16	analýzu	NNFS4-----A----	Obj
+17	všech	PLXP2----------	Atr
+18	důsledků	NNIP2-----A----	Atr
+19	rozpadu	NNIS2-----A----	Atr
+20	ČSFR	NNFXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+mf920923-093-p4s3
+1	FS	NNNXX-----A---8	Sb
+2	by	Vc-------------	AuxV
+3	mělo	VpNS---XR-AA---	Pred
+4	dále	Db------------1	Adv
+5	požadovat	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	do	RR--2----------	AuxP
+9	15	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	října	NNIS2-----A----	Adv
+12	Stráského	NNMS2-----A----	Atr
+13	kabinet	NNIS1-----A----	Sb
+14	předložil	VpYS---XR-AA---	Obj
+15	program	NNIS4-----A----	Obj
+16	opatření	NNNP2-----A----	Atr
+17	vlády	NNFS2-----A----	Atr
+18	proti	RR--3----------	AuxP
+19	neústavnímu	AAIS3----1N----	Atr
+20	a	J^-------------	Coord
+21	živelnému	AAIS3----1A----	Atr
+22	rozpadu	NNIS3-----A----	Atr
+23	státu	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920923-093-p4s4
+1	Do	RR--2----------	AuxP
+2	15	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	listopadu	NNIS2-----A----	Adv
+5	by	Vc-------------	AuxV
+6	pak	Db-------------	Adv
+7	vláda	NNFS1-----A----	Sb
+8	měla	VpQW---XR-AA---	Pred
+9	vypracovat	Vf--------A----	Obj
+10	koncepci	NNFS4-----A----	Obj
+11	spolupráce	NNFS2-----A----	Atr
+12	obou	ClXP2----------	Atr
+13	republik	NNFP2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	případě	NNIS6-----A----	Atr
+16	jejich	PSXXXXP3-------	Atr
+17	rozdělení	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920923-093-p4s5
+1	Poslanec	NNMS1-----A----	Atr
+2	za	RR--4----------	AuxP
+3	HZDS	NNNXX-----A---8	Atr
+4	Ján	NNMS1-----A----	Atr
+5	Cuper	NNMS1-----A----	Sb
+6	na	RR--4----------	AuxP
+7	všeobecné	AANS4----1A----	Atr
+8	volání	NNNS4-----A----	Adv
+9	opozice	NNFS2-----A----	Atr
+10	po	RR--6----------	AuxP
+11	referendu	NNNS6-----A----	Atr
+12	uvedl	VpYS---XR-AA---	Pred
+13	:	Z:-------------	AuxG
+14	"	Z:-------------	AuxG
+15	Myslím	VB-S---1P-AA---	Obj
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	zde	Db-------------	Adv
+19	nemáme	VB-P---1P-NA---	Obj
+20	mandát	NNIS4-----A----	Obj
+21	vyhlásit	Vf--------A----	Atr
+22	referendum	NNNS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+mf920923-093-p4s6
+1	Já	PP-S1--1-------	Sb
+2	osobně	Dg-------1A----	Atr
+3	jsem	VB-S---1P-AA---	AuxV
+4	byl	VpYS---XR-AA---	AuxV
+5	do	RR--2----------	AuxP
+6	FS	NNNXX-----A---8	Adv
+7	poslán	VsYS---XX-AP---	Pred
+8	proto	Db-------------	Adv
+9	,	Z:-------------	AuxX
+10	abych	J,-S---1-------	AuxC
+11	obhajoval	VpYS---XR-AA---	Adv
+12	národní	AAIP4----1A----	Atr
+13	zájmy	NNIP4-----A----	Obj
+14	Slováků	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920923-093-p4s7
+1	Jestliže	J,-------------	AuxC
+2	si	P7-X3----------	AuxT
+3	někdo	PZM-1----------	Sb
+4	myslí	VB-S---3P-AA---	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	jsem	VB-S---1P-AA---	AuxV
+8	byl	VpYS---XR-AA---	AuxV
+9	povolán	VsYS---XX-AP---	Obj
+10	proto	Db-------------	Adv
+11	,	Z:-------------	AuxX
+12	abych	J,-S---1-------	AuxC
+13	obhajoval	VpYS---XR-AA---	Adv
+14	referendum	NNNS4-----A----	Obj
+15	vyhlašované	AANS4----1A----	Atr
+16	FS	NNNXX-----A---8	Obj
+17	,	Z:-------------	AuxX
+18	tak	Db-------------	Adv
+19	já	PP-S1--1-------	Sb
+20	si	P7-X3----------	AuxT
+21	to	PDNS4----------	Obj
+22	nemyslím	VB-S---1P-NA---	Pred
+23	.	Z:-------------	AuxK
+24	"	Z:-------------	AuxG
+
+mf920923-093-p5s1
+1	Předsednictva	NNNP1-----A----	Sb
+2	sněmoven	NNFP2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	včera	Db-------------	Adv
+5	opět	Db-------------	Adv
+6	nedohodla	VpQW---XR-NA--1	Pred
+7	na	RR--6----------	AuxP
+8	zařazení	NNNS6-----A----	Adv
+9	zákona	NNIS2-----A----	Atr
+10	o	RR--6----------	AuxP
+11	způsobech	NNIP6-----A----	Atr
+12	zániku	NNIS2-----A----	Atr
+13	federace	NNFS2-----A----	Atr
+14	a	J^-------------	Coord
+15	dvou	ClXP2----------	Atr
+16	kompetenčních	AAFP2----1A----	Atr
+17	novel	NNFP2-----A----	Atr
+18	na	RR--4----------	AuxP
+19	program	NNIS4-----A----	Atr
+20	ve	RV--4----------	AuxP
+21	čtvrtek	NNIS4-----A----	Adv
+22	zahajované	AAFS2----1A----	Atr
+23	čtvrté	CrFS2----------	Atr
+24	společné	AAFS2----1A----	Atr
+25	schůze	NNFS2-----A----	Atr
+26	sněmoven	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf920923-093-p5s2
+1	Zda	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	sněmovny	NNFP1-----A----	Sb
+4	budou	VB-P---3F-AA---	AuxV
+5	zmíněnými	AAIP7----1A----	Atr
+6	návrhy	NNIP7-----A----	Obj
+7	zákonů	NNIP2-----A----	Atr
+8	zabývat	Vf--------A----	Adv
+9	,	Z:-------------	AuxX
+10	rozhodnou	VB-P---3P-AA---	Pred
+11	poslanci	NNMP1-----A----	Sb
+12	v	RR--6----------	AuxP
+13	rámci	NNIS6-----A----	AuxP
+14	hlasování	NNNS2-----A----	Adv
+15	o	RR--6----------	AuxP
+16	programu	NNIS6-----A----	Atr
+17	této	PDFS2----------	Atr
+18	schůze	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920923-093-p6s1
+1	V	RR--6----------	AuxP
+2	době	NNFS6-----A----	Adv
+3	uzávěrky	NNFS2-----A----	Atr
+4	tohoto	PDZS2----------	Atr
+5	vydání	NNNS2-----A----	Atr
+6	jednání	NNNS1-----A----	Sb
+7	FS	NNNXX-----A---8	Atr
+8	pokračovalo	VpNS---XR-AA---	Pred
+9	.	Z:-------------	AuxK
+

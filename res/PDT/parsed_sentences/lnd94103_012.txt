@@ -1,0 +1,317 @@
+lnd94103-012-p1s1
+1	Rekonstrukce	NNFP1-----A----	Sb
+2	bohatých	AAMP2----1A----	Atr
+3	investorů	NNMP2-----A----	Atr
+4	ohrožují	VB-P---3P-AA---	Pred
+5	památky	NNFP4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	hlavním	AANS6----1A----	Atr
+8	městě	NNNS6-----A----	Atr
+
+lnd94103-012-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94103-012-p1s3
+1	Se	RV--7----------	AuxP
+2	znepokojením	NNNS7-----A----	Adv
+3	sledují	VB-P---3P-AA---	Pred
+4	pražští	AAMP1----1A----	Atr
+5	památkáři	NNMP1-----A----	Sb
+6	jednání	NNNS4-----A----	Obj
+7	o	RR--6----------	AuxP
+8	stavbě	NNFS6-----A----	Atr
+9	hotelu	NNIS2-----A----	Atr
+10	Ritz	NNIS1-----A----	Atr
+11	Carlton	NNIS1-----A----	Atr
+12	v	RR--6----------	AuxP
+13	areálu	NNIS6-----A---1	Atr
+14	Slovanského	AAIS2----1A----	Atr
+15	domu	NNIS2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	centru	NNNS6-----A----	Atr
+18	Prahy	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94103-012-p1s4
+1	Z	RR--2----------	AuxP
+2	informace	NNFS2-----A----	Adv
+3	Útvaru	NNIS2-----A----	Atr
+4	hl	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	architekta	NNMS2-----A----	Atr
+7	hl	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	města	NNNS2-----A----	Atr
+10	Prahy	NNFS2-----A----	Atr
+11	vyplývá	VB-S---3P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	půjde	VB-S---3F-AA---	Sb
+15	o	RR--4----------	AuxP
+16	dostavbu	NNFS4-----A----	Obj
+17	ve	RV--6----------	AuxP
+18	dvoře	NNIS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94103-012-p1s5
+1	Ritz	NNIS1-----A----	Atr
+2	Carlton	NNIS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	představu	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	zde	Db-------------	Adv
+8	bude	VB-S---3F-AA---	Atr
+9	k	RR--3----------	AuxP
+10	dispozici	NNFS3-----A----	Adv
+11	300	C=-------------	Sb
+12	pokojů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94103-012-p1s6
+1	Útvar	NNIS1-----A----	Sb
+2	hl	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	architekta	NNMS2-----A----	Atr
+5	však	J^-------------	Coord
+6	vyvíjí	VB-S---3P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	investora	NNMS4-----A----	Atr
+9	tlak	NNIS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	kapacitu	NNFS4-----A----	Obj
+13	snížil	VpYS---XR-AA---	AtrAdv
+14	alespoň	Db-------------	AuxZ
+15	o	RR--4----------	AuxP
+16	dvacet	Cn-S4----------	Adv
+17	pokojů	NNIP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94103-012-p1s7
+1	To	PDNS4----------	ExD
+2	vše	PLNS4---------1	Atr
+3	za	RR--2----------	AuxP
+4	podmínky	NNFS2-----A----	ExD
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	přední	AAIS1----1A----	Atr
+8	trakt	NNIS1-----A----	Sb
+9	barokního	AAIS2----1A----	Atr
+10	paláce	NNIS2-----A----	Atr
+11	zůstane	VB-S---3P-AA---	Atr
+12	neporušený	AAIS1----1N----	Atv
+13	a	J^-------------	Coord
+14	přístavba	NNFS1-----A----	Sb
+15	hotelu	NNIS2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	zadní	AAFS6----1A----	Atr
+18	části	NNFS6-----A----	AtrAtr
+19	Slovanského	AAIS2----1A----	Atr
+20	domu	NNIS2-----A----	Atr
+21	nebude	VB-S---3F-NA---	AuxV
+22	převyšovat	Vf--------A----	Atr
+23	hladinu	NNFS4-----A----	Obj
+24	ostatních	AAFP2----1A----	Atr
+25	budov	NNFP2-----A----	Atr
+26	a	J^-------------	Coord
+27	vyhne	VB-S---3P-AA---	Atr
+28	se	P7-X4----------	AuxT
+29	staletým	AAIP3----1A----	Atr
+30	chráněným	AAIP3----1A----	Atr
+31	platanům	NNIP3-----A----	Obj
+32	.	Z:-------------	AuxK
+
+lnd94103-012-p1s8
+1	Historické	AAIP4----1A----	Atr
+2	objekty	NNIP4-----A----	Obj
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	AtrAdv
+5	před	RR--7----------	AuxP
+6	velkými	AAIP7----1A----	Atr
+7	zásahy	NNIP7-----A----	Obj
+8	a	J^-------------	Coord
+9	neuváženými	AAFP7----1N----	Atr
+10	modernizacemi	NNFP7-----A----	Obj
+11	uchránil	VpYS---XR-AA---	Obj
+12	v	RR--6----------	AuxP
+13	minulém	AANS6----1A----	Atr
+14	čtyřicetiletí	NNNS6-----A----	Adv
+15	nedostatek	NNIS1-----A----	Sb
+16	peněz	NNIP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	uvedla	VpQW---XR-AA---	Pred
+19	ing	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	arch	NNFXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	Dagmar	NNFXX-----A----	Atr
+24	Sedláková	NNFS1-----A----	Sb
+25	z	RR--2----------	AuxP
+26	Pražského	AAIS2----1A----	Atr
+27	ústavu	NNIS2-----A----	Atr
+28	památkové	AAFS2----1A----	Atr
+29	péče	NNFS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+lnd94103-012-p1s10
+1	Největší	AAIP1----3A----	Atr
+2	problémy	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	dnes	Db-------------	Adv
+5	z	RR--2----------	AuxP
+6	hlediska	NNNS2-----A----	AuxP
+7	památkářů	NNMP2-----A----	Adv
+8	v	RR--6----------	AuxP
+9	případech	NNIP6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	kdy	Db-------------	Adv
+12	majitel	NNMS1-----A----	Sb
+13	prázdný	AAIS4----1A----	Atr
+14	historický	AAIS4----1A----	Atr
+15	objekt	NNIS4-----A----	Obj
+16	pronajme	VB-S---3P-AA---	Atr
+17	nebo	J^-------------	Coord
+18	prodá	VB-S---3P-AA---	Atr
+19	bohatému	AAMS3----1A----	Atr
+20	investorovi	NNMS3-----A----	Obj
+21	.	Z:-------------	AuxK
+
+lnd94103-012-p1s11
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	mají	VB-P---3P-AA---	Pred
+4	památkáři	NNMP1-----A----	Sb
+5	nepříliš	Db-------------	Adv
+6	dobré	AAFP4----1A----	Atr
+7	zkušenosti	NNFP4-----A----	Obj
+8	např	Db------------8	AuxY
+9	.	Z:-------------	AuxG
+10	s	RR--7----------	AuxP
+11	přestavbou	NNFS7-----A----	Atr
+12	památkových	AAIP2----1A----	Atr
+13	objektů	NNIP2-----A----	Atr
+14	pro	RR--4----------	AuxP
+15	Komerční	AAFS4----1A----	Atr
+16	banku	NNFS4-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd94103-012-p1s12
+1	Bohatí	AAMP1----1A----	Atr
+2	investoři	NNMP1-----A----	Sb
+3	usilují	VB-P---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	projektech	NNIP6-----A----	Adv
+6	o	RR--4----------	AuxP
+7	jakési	PZNS4----------	Atr
+8	módní	AANS4----1A----	Atr
+9	luxusní	AANS4----1A----	Atr
+10	prostředí	NNNS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+lnd94103-012-p1s13
+1	V	RR--6----------	AuxP
+2	interiérech	NNIP6-----A----	Adv
+3	často	Dg-------1A----	Adv
+4	neumějí	VB-P---3P-NA---	Pred
+5	ocenit	Vf--------A----	Obj
+6	uměleckořemeslnou	AAFS4----1A----	Atr
+7	kvalitu	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	např	Db------------8	Apos
+10	.	Z:-------------	AuxG
+11	štukové	AAIP4----1A----	Atr
+12	stropy	NNIP4-----A----	Obj
+13	či	J^-------------	Coord
+14	pěkně	Dg-------1A----	Adv
+15	profilovaná	AANP4----1A----	Atr
+16	okna	NNNP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+lnd94103-012-p1s14
+1	Podle	RR--2----------	AuxP
+2	Dagmar	NNFXX-----A----	Atr
+3	Sedlákové	NNFS2-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	provedly	VpTP---XR-AA---	Pred
+6	zbytečně	Dg-------1A----	Adv
+7	velké	AAFP1----1A----	Atr
+8	vnitřní	AAFP1----1A----	Atr
+9	úpravy	NNFP1-----A----	Sb
+10	Kučerova	AUIS2M---------	Atr
+11	paláce	NNIS2-----A----	Atr
+12	na	RR--6----------	AuxP
+13	Pohořelci	NNIS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kde	Db-------------	Adv
+16	dnes	Db-------------	Adv
+17	sídlí	VB-S---3P-AA---	Atr
+18	Komerční	AAFS1----1A----	Atr
+19	banka	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+lnd94103-012-p1s15
+1	Nešťastná	AAFS1----1N----	Pnom
+2	byla	VpQW---XR-AA---	Pred
+3	i	J^-------------	AuxZ
+4	rekonstrukce	NNFS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	Havlíčkově	AUFS6M---------	Atr
+7	ulici	NNFS6-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	donedávna	Db-------------	Adv
+11	bývalo	VpNS---XR-AA---	Atr
+12	v	RR--6----------	AuxP
+13	přízemí	NNNS6-----A----	Adv
+14	lahůdkářství	NNNS1-----A----	Sb
+15	z	RR--2----------	AuxP
+16	roku	NNIS2-----A---1	Atr
+17	1935	C=-------------	Atr
+18	s	RR--7----------	AuxP
+19	vzácně	Dg-------1A----	Adv
+20	zachovalým	AAIS7----1A----	Atr
+21	interiérem	NNIS7-----A----	Atr
+22	,	Z:-------------	AuxX
+23	který	P4IS4----------	Obj
+24	přestavba	NNFS1-----A----	Sb
+25	na	RR--4----------	AuxP
+26	Komerční	AAFS4----1A----	Atr
+27	banku	NNFS4-----A----	Atr
+28	podle	RR--2----------	AuxP
+29	Sedlákové	NNFS2-----A----	Adv
+30	zcela	Db-------------	Adv
+31	zničila	VpQW---XR-AA---	Atr
+32	.	Z:-------------	AuxK
+
+lnd94103-012-p1s16
+1	Stavba	NNFS1-----A----	Sb
+2	hotelu	NNIS2-----A----	Atr
+3	Ritz	NNIS1-----A----	Atr
+4	Carlton	NNIS1-----A----	Atr
+5	zasáhne	VB-S---3P-AA---	Pred
+6	do	RR--2----------	AuxP
+7	dvora	NNIS2-----A----	Adv
+8	Slovanského	AAIS2----1A----	Atr
+9	domu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	kde	Db-------------	Adv
+12	je	VB-S---3P-AA---	Atr
+13	chráněná	AAFS1----1A----	Atr
+14	zahrada	NNFS1-----A----	Sb
+15	se	RV--7----------	AuxP
+16	staletými	AAIP7----1A----	Atr
+17	platany	NNIP7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94103-012-p1s17
+1	Foto	NNNS1-----A----	ExD
+2	Zdeněk	NNMS1-----A----	Atr
+3	Merta	NNMS1-----A----	ExD
+4	-	Z:-------------	ExD
+5	LN	NNFPX-----A---8	ExD
+

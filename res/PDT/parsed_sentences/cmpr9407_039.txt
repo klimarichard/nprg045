@@ -1,0 +1,730 @@
+cmpr9407-039-p2s1
+1	Koupě	NNFS1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	zkoušku	NNFS4-----A----	Atr
+
+cmpr9407-039-p3s1
+1	Předvedení	NNNS1-----A----	Sb
+2	zboží	NNNS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	"	Z:-------------	AuxG
+5	našich	PSXP6-P1-------	Atr
+6	podmínkách	NNFP6-----A----	Adv
+7	"	Z:-------------	AuxG
+8	může	VB-S---3P-AA---	Pred
+9	ušetřit	Vf--------A----	Obj
+10	zklamání	NNNS4-----A----	Obj
+
+cmpr9407-039-p4s1
+1	Jste	VB-P---2P-AA---	Pred
+2	schopni	ACMP------A----	Pnom
+3	si	P7-X3----------	Obj
+4	koupit	Vf--------A----	Obj
+5	zboží	NNNS4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	první	CrIS4----------	Atr
+8	pohled	NNIS4-----A----	Adv
+9	-	Z:-------------	ExD
+10	vlastně	Db-------------	ExD
+11	okamžitě	Dg-------1A----	ExD
+12	-	Z:-------------	AuxG
+13	aniž	J,-------------	AuxC
+14	budete	VB-P---2F-AA---	Adv
+15	později	Dg-------2A----	Adv
+16	zklamáni	VsMP---XX-AP---	Pnom
+17	?	Z:-------------	AuxK
+
+cmpr9407-039-p4s2
+1	Ne	TT-------------	AuxZ
+2	vždy	Db-------------	Adv
+3	se	P7-X4----------	AuxT
+4	to	PDNS1----------	Sb
+5	podaří	VB-S---3P-AA---	Pred
+6	.	Z:-------------	AuxK
+
+cmpr9407-039-p4s3
+1	I	J^-------------	AuxZ
+2	s	RR--7----------	AuxP
+3	tím	PDZS7----------	Obj
+4	počítá	VB-S---3P-AA---	Pred
+5	obchodní	AAIS1----1A----	Atr
+6	zákoník	NNIS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+cmpr9407-039-p5s1
+1	U	RR--2----------	AuxP
+2	některých	PZXP2----------	Atr
+3	druhů	NNIP2-----A----	Adv
+4	zboží	NNNS2-----A----	Atr
+5	nejste	VB-P---2P-NA---	Pred
+6	schopni	ACMP------A----	Pnom
+7	ihned	Db-------------	Adv
+8	posoudit	Vf--------A----	Obj
+9	,	Z:-------------	AuxX
+10	zda	J,-------------	AuxC
+11	jde	VB-S---3P-AA---	Obj
+12	o	RR--4----------	AuxP
+13	zboží	NNNS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	které	P4NS4----------	Obj
+16	skutečně	Dg-------1A----	Adv
+17	potřebujeme	VB-P---1P-AA---	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9407-039-p5s2
+1	Nejistotu	NNFS4-----A----	Obj
+2	neodstraní	VB-S---3P-NA---	Pred
+3	ani	J^-------------	AuxY
+4	podrobný	AAIS1----1A----	Atr
+5	a	J^-------------	Coord
+6	důkladný	AAIS1----1A----	Atr
+7	výklad	NNIS1-----A----	Sb
+8	prodávajícího	AGMS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ani	J^-------------	Coord
+11	případné	AANS1----1A----	Atr
+12	předvedení	NNNS1-----A----	Sb
+13	zboží	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9407-039-p5s3
+1	Jedině	Dg-------1A----	AuxZ
+2	vyzkoušení	NNNS1-----A----	Sb
+3	takového	PDZS2----------	Atr
+4	zboží	NNNS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	"	Z:-------------	AuxG
+7	našich	PSXP6-P1-------	Atr
+8	podmínkách	NNFP6-----A----	Atr
+9	"	Z:-------------	AuxG
+10	by	Vc-------------	AuxV
+11	vás	PP-P4--2-------	Obj
+12	mohlo	VpNS---XR-AA---	Pred
+13	přivést	Vf--------A----	Obj
+14	ke	RV--3----------	AuxP
+15	správnému	AANS3----1A----	Atr
+16	rozhodnutí	NNNS3-----A----	Adv
+17	a	J^-------------	Coord
+18	tím	PDZS7----------	Adv
+19	vás	PP-P4--2-------	Obj
+20	ušetřit	Vf--------A----	Obj
+21	možnému	AANS3----1A----	Atr
+22	zklamání	NNNS3-----A----	Obj
+23	nad	RR--7----------	AuxP
+24	neuspokojivou	AAFS7----1N----	Atr
+25	koupí	NNFS7-----A----	Atr
+26	.	Z:-------------	AuxK
+
+cmpr9407-039-p6s1
+1	V	RR--6----------	AuxP
+2	takovém	PDZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	nachází	VB-S---3P-AA---	Pred
+5	praktické	AANS4----1A----	Atr
+6	uplatnění	NNNS4-----A----	Obj
+7	ustanovení	NNNS1-----A----	Sb
+8	471	C=-------------	Atr
+9	a	J^-------------	Coord
+10	472	C=-------------	Atr
+11	obchodního	AAIS2----1A----	Atr
+12	zákoníku	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	upravující	AGNS1-----A----	Atr
+15	koupi	NNFS4-----A----	Obj
+16	na	RR--4----------	AuxP
+17	zkoušku	NNFS4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9407-039-p7s1
+1	Podmínky	NNFP1-----A----	ExD
+
+cmpr9407-039-p8s1
+1	Koupí	NNFS7-----A----	Obj
+2	na	RR--4----------	AuxP
+3	zkoušku	NNFS4-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	rozumí	VB-S---3P-AA---	Pred
+6	kupní	AAFS1----1A----	Atr
+7	smlouva	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	uzavřená	AAFS1----1A----	Atr
+10	s	RR--7----------	AuxP
+11	podmínkou	NNFS7-----A----	Adv
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	kupující	AGMS1-----A----	Sb
+15	do	RR--2----------	AuxP
+16	uplynutí	NNNS2-----A----	Adv
+17	zkušební	AAFS2----1A----	Atr
+18	doby	NNFS2-----A----	Atr
+19	zboží	NNNS4-----A----	Obj
+20	schválí	VB-S---3P-AA---	Atr
+21	nebo	J^-------------	Coord
+22	odmítne	VB-S---3P-AA---	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9407-039-p8s2
+1	(	Z:-------------	AuxG
+2	To	PDNS4----------	Obj
+3	doporučujeme	VB-P---1P-AA---	Pred
+4	zvlášť	Db-------------	Adv
+5	při	RR--6----------	AuxP
+6	koupi	NNFS6-----A----	Adv
+7	ojetých	AAIP2----1A----	Atr
+8	zahraničních	AAIP2----1A----	Atr
+9	automobilů	NNIP2-----A----	Atr
+10	-	Z:-------------	ExD
+11	pozn	NNFXX-----A---8	ExD
+12	.	Z:-------------	AuxG
+13	red	NNFXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	)	Z:-------------	AuxG
+
+cmpr9407-039-p9s1
+1	Zkušební	AAFS4----1A----	Atr
+2	dobu	NNFS4-----A----	Obj
+3	mohou	VB-P---3P-AA--1	Pred
+4	strany	NNFP1-----A----	Sb
+5	dohodnout	Vf--------A----	Obj
+6	v	RR--6----------	AuxP
+7	libovolné	AAFS6----1A----	Atr
+8	délce	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9407-039-p9s2
+1	Pokud	J,-------------	AuxC
+2	tak	Db-------------	Adv
+3	neučiní	VB-P---3P-NA---	Adv
+4	,	Z:-------------	AuxX
+5	je	VB-S---3P-AA---	Pred
+6	zákonem	NNIS7-----A----	Adv
+7	podpůrně	Dg-------1A----	Adv
+8	stanovena	VsQW---XX-AP---	Pnom
+9	zkušební	AAFS1----1A----	Atr
+10	doba	NNFS1-----A----	Sb
+11	tříměsíční	AAFS1----1A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9407-039-p9s3
+1	Po	RR--6----------	AuxP
+2	uzavření	NNNS6-----A----	Adv
+3	takové	PDFS2----------	Atr
+4	kupní	AAFS2----1A----	Atr
+5	smlouvy	NNFS2-----A----	Atr
+6	mohou	VB-P---3P-AA--1	Pred
+7	nastat	Vf--------A----	Obj
+8	dvě	ClHP1----------	Atr
+9	odlišné	AAFP1----1A----	Atr
+10	situace	NNFP1-----A----	Sb
+11	závisející	AGFP1-----A----	Atr
+12	na	RR--6----------	AuxP
+13	tom	PDZS6----------	Obj
+14	,	Z:-------------	AuxX
+15	zda	J,-------------	AuxC
+16	kupující	AGMS1-----A----	Sb
+17	zboží	NNNS4-----A----	Obj
+18	od	RR--2----------	AuxP
+19	prodávajícího	AGMS2-----A----	Obj
+20	převezme	VB-S---3P-AA---	Adv
+21	či	J^-------------	Coord
+22	nikoli	Db------------1	ExD
+23	:	Z:-------------	AuxK
+
+cmpr9407-039-p10s1
+1	1	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Když	J,-------------	AuxC
+4	kupující	AGMS1-----A----	Sb
+5	zboží	NNNS4-----A----	Obj
+6	převezme	VB-S---3P-AA---	Adv
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Pred
+9	vznik	NNIS1-----A----	Sb
+10	smlouvy	NNFS2-----A----	Atr
+11	závislý	AAIS1----1A----	Pnom
+12	na	RR--6----------	AuxP
+13	jeho	PSXXXZS3-------	Atr
+14	projevu	NNIS6-----A----	Obj
+15	,	Z:-------------	AuxX
+16	učiněném	AAIS6----1A----	Atr
+17	v	RR--6----------	AuxP
+18	dohodnuté	AAFS6----1A----	Atr
+19	(	Z:-------------	AuxG
+20	případně	Dg-------1A----	Coord
+21	tříměsíční	AAFS6----1A----	Atr
+22	)	Z:-------------	AuxG
+23	lhůtě	NNFS6-----A----	Adv
+24	,	Z:-------------	AuxX
+25	jestli	J,-------------	AuxC
+26	toto	PDNS4----------	Atr
+27	zboží	NNNS4-----A----	Obj
+28	schvaluje	VB-S---3P-AA---	Atr
+29	nebo	J^-------------	Coord
+30	odmítá	VB-S---3P-AA---	Atr
+31	.	Z:-------------	AuxK
+
+cmpr9407-039-p11s1
+1	Pokud	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	kupující	AGMS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	zboží	NNNS4-----A----	Obj
+7	nepřevzal	VpYS---XR-NA---	Atr
+8	,	Z:-------------	AuxX
+9	chce	VB-S---3P-AA---	Adv
+10	stát	Vf--------A----	Obj
+11	vlastníkem	NNMS7-----A----	Obj
+12	tohoto	PDZS2----------	Atr
+13	zboží	NNNS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	musí	VB-S---3P-AA---	Pred
+16	svou	P8FS4---------1	Atr
+17	vůli	NNFS4-----A----	Obj
+18	sdělit	Vf--------A----	Obj
+19	výslovně	Dg-------1A----	Adv
+20	prodávajícímu	AGMS3-----A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9407-039-p11s2
+1	Teprve	Db-------------	AuxZ
+2	tímto	PDZS7----------	Atr
+3	výslovným	AAIS7----1A----	Atr
+4	projevem	NNIS7-----A----	Adv
+5	kupujícího	AGMS2-----A----	Atr
+6	nastanou	VB-P---3P-AA---	Pred
+7	účinky	NNIP1-----A----	Sb
+8	kupní	AAFS2----1A----	Atr
+9	smlouvy	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9407-039-p12s1
+1	2	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	V	RR--6----------	AuxP
+4	opačném	AAIS6----1A----	Atr
+5	případě	NNIS6-----A----	Adv
+6	-	Z:-------------	AuxG
+7	pokud	J,-------------	AuxC
+8	kupující	AGMS1-----A----	Sb
+9	nezamýšlí	VB-S---3P-NA---	Adv
+10	nabýt	Vf--------A----	Obj
+11	ke	RV--3----------	AuxP
+12	zboží	NNNS3-----A----	Atr
+13	vlastnického	AANS2----1A----	Atr
+14	práva	NNNS2-----A----	Obj
+15	-	Z:-------------	AuxG
+16	postačí	VB-S---3P-AA---	Pred
+17	pouze	Db-------------	AuxZ
+18	projev	NNIS1-----A----	Sb
+19	učiněný	AAIS1----1A----	Atr
+20	mlčky	Db-------------	Adv
+21	,	Z:-------------	AuxX
+22	tj	J^------------8	Apos
+23	.	Z:-------------	AuxG
+24	kupující	AGMS1-----A----	Sb
+25	nechá	VB-S---3P-AA---	Adv
+26	uběhnout	Vf--------A----	Obj
+27	zkušební	AAFS4----1A----	Atr
+28	lhůtu	NNFS4-----A----	Obj
+29	,	Z:-------------	AuxX
+30	aniž	J,-------------	AuxC
+31	by	Vc-------------	AuxV
+32	prodávajícímu	AGMS3-----A----	Obj
+33	sděloval	VpYS---XR-AA---	Adv
+34	,	Z:-------------	AuxX
+35	že	J,-------------	AuxC
+36	zboží	NNNS4-----A----	Obj
+37	nechce	VB-S---3P-NA---	Obj
+38	.	Z:-------------	AuxK
+
+cmpr9407-039-p12s2
+1	Chyby	NNFS2-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	nedopustí	VB-S---3P-NA---	Pred
+5	,	Z:-------------	AuxX
+6	když	J,-------------	AuxC
+7	prodávajícímu	AGMS3-----A----	Obj
+8	sdělí	VB-S---3P-AA---	Adv
+9	výslovně	Dg-------1A----	Adv
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	zboží	NNNS4-----A----	Obj
+13	odmítá	VB-S---3P-AA---	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9407-039-p13s1
+1	Schválení	NNNS1-----A----	Sb
+2	nepřevzatého	AANS2----1N----	Atr
+3	zboží	NNNS2-----A----	Atr
+4	má	VB-S---3P-AA---	Pred
+5	tedy	Db-------------	AuxY
+6	povahu	NNFS4-----A----	Obj
+7	podmínky	NNFS2-----A----	Atr
+8	odkládací	AAFS2----1A----	Atr
+9	,	Z:-------------	Coord
+10	na	RR--6----------	AuxP
+11	jejím	PSZS6FS3-------	Atr
+12	naplnění	NNNS6-----A----	Obj
+13	či	J^-------------	Coord
+14	nenaplnění	NNNS6-----N----	Obj
+15	záleží	VB-S---3P-AA---	Pred
+16	,	Z:-------------	AuxX
+17	zda	J,-------------	AuxC
+18	kupní	AAFS1----1A----	Atr
+19	smlouva	NNFS1-----A----	Sb
+20	vznikne	VB-S---3P-AA---	Sb
+21	či	J^-------------	Coord
+22	nikoli	Db------------1	ExD
+23	.	Z:-------------	AuxK
+
+cmpr9407-039-p14s1
+1	Záleží	VB-S---3P-AA---	Pred
+2	na	RR--6----------	AuxP
+3	úvaze	NNFS6-----A----	Obj
+
+cmpr9407-039-p15s1
+1	Pokud	J,-------------	AuxC
+2	si	P7-X3----------	Adv
+3	kupující	AGMS1-----A----	Sb
+4	zboží	NNNS4-----A----	Obj
+5	od	RR--2----------	AuxP
+6	prodávajícího	AGMS2-----A----	Obj
+7	nepřevezme	VB-S---3P-NA---	Adv
+8	,	Z:-------------	AuxX
+9	jde	VB-S---3P-AA---	Pred
+10	o	RR--4----------	AuxP
+11	jakousi	PZFS4----------	Atr
+12	rezervaci	NNFS4-----A----	Obj
+13	zboží	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9407-039-p15s2
+1	Na	RR--6----------	AuxP
+2	významu	NNIS6-----A----	Obj
+3	však	J^-------------	Coord
+4	ztrácí	VB-S---3P-AA---	Pred
+5	praktická	AAFS1----1A----	Atr
+6	stránka	NNFS1-----A----	Sb
+7	koupě	NNFS2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	zkoušku	NNFS4-----A----	Atr
+10	,	Z:-------------	AuxX
+11	neboť	J^-------------	Coord
+12	kupující	AGMS1-----A----	Sb
+13	nemůže	VB-S---3P-NA---	Pred
+14	plně	Dg-------1A----	Adv
+15	poznat	Vf--------A----	Obj
+16	vlastnosti	NNFP4-----A----	Obj
+17	kupovaného	AANS2----1A----	Atr
+18	zboží	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9407-039-p15s3
+1	Získává	VB-S---3P-AA---	Pred
+2	pouze	Db-------------	AuxZ
+3	delší	AAIS4----2A----	Atr
+4	čas	NNIS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	uváženou	AAFS4----1A----	Atr
+7	,	Z:-------------	AuxX
+8	zda	J,-------------	AuxC
+9	o	RR--4----------	AuxP
+10	toto	PDNS4----------	Atr
+11	zboží	NNNS4-----A----	Atr
+12	má	VB-S---3P-AA---	Atr
+13	skutečně	Dg-------1A----	Adv
+14	zájem	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9407-039-p16s1
+1	Druhá	CrFS1----------	Atr
+2	možnost	NNFS1-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	ta	PDFS1----------	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	kupující	AGMS1-----A----	Sb
+8	od	RR--2----------	AuxP
+9	prodávajícího	AGMS2-----A----	Obj
+10	zboží	NNNS4-----A----	Obj
+11	převezme	VB-S---3P-AA---	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9407-039-p16s2A
+1	Tím	PDZS7----------	Adv
+2	nastávají	VB-P---3P-AA---	Pred
+3	účinky	NNIP1-----A----	Sb
+4	kupní	AAFS2----1A----	Atr
+5	smlouvy	NNFS2-----A----	Atr
+6	:	Z:-------------	AuxK
+
+cmpr9407-039-p16s2B
+1	Kupující	AGMS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	k	RR--3----------	AuxP
+4	prodávané	AAFS3----1A----	Atr
+5	věci	NNFS3-----A----	Atr
+6	vlastnické	AANS4----1A----	Atr
+7	právo	NNNS4-----A----	Obj
+8	a	J^-------------	Coord
+9	nese	VB-S---3P-AA---	Pred
+10	nebezpečí	NNNS4-----A----	Obj
+11	vzniku	NNIS2-----A----	Atr
+12	škody	NNFS2-----A----	Atr
+13	na	RR--6----------	AuxP
+14	této	PDFS6----------	Atr
+15	věci	NNFS6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9407-039-p17s1
+1	Projev	NNIS1-----A----	Sb
+2	vůle	NNFS2-----A----	Atr
+3	kupujícího	AGMS2-----A----	Atr
+4	-	Z:-------------	AuxG
+5	učiněný	AAIS1----1A----	Atr
+6	ve	RV--6----------	AuxP
+7	zkušební	AAFS6----1A----	Atr
+8	době	NNFS6-----A----	Adv
+9	-	Z:-------------	AuxG
+10	má	VB-S---3P-AA---	Pred
+11	povahu	NNFS4-----A----	Obj
+12	podmínky	NNFS2-----A----	Atr
+13	rozvazovací	AAFS2----1A----	Atr
+14	,	Z:-------------	AuxX
+15	neboť	J^-------------	Coord
+16	na	RR--6----------	AuxP
+17	jejím	PSZS6FS3-------	Atr
+18	splnění	NNNS6-----A----	Obj
+19	či	J^-------------	Coord
+20	nesplnění	NNNS6-----N----	Obj
+21	záleží	VB-S---3P-AA---	Pred
+22	,	Z:-------------	AuxX
+23	zda	J,-------------	AuxC
+24	již	Db-------------	Adv
+25	vzniklá	AAFS1----1A----	Atr
+26	kupní	AAFS1----1A----	Atr
+27	smlouva	NNFS1-----A----	Sb
+28	zanikne	VB-S---3P-AA---	Sb
+29	nebo	J^-------------	Coord
+30	zda	J,-------------	AuxC
+31	její	PSXP1FS3-------	Atr
+32	účinky	NNIP1-----A----	Sb
+33	budou	VB-P---3F-AA---	AuxV
+34	trvat	Vf--------A----	Sb
+35	déle	Dg-------2A----	Adv
+36	i	J^-------------	AuxZ
+37	po	RR--6----------	AuxP
+38	skončení	NNNS6-----A----	Adv
+39	zkušební	AAFS2----1A----	Atr
+40	doby	NNFS2-----A----	Atr
+41	.	Z:-------------	AuxK
+
+cmpr9407-039-p17s2
+1	Je	VB-S---3P-AA---	Pred
+2	na	RR--6----------	AuxP
+3	úvaze	NNFS6-----A----	Adv
+4	kupujícího	AGMS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	jak	Db-------------	Adv
+7	se	P7-X4----------	AuxT
+8	rozhodne	VB-S---3P-AA---	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9407-039-p17s3
+1	Když	J,-------------	AuxC
+2	zamýšlí	VB-S---3P-AA---	Adv
+3	být	Vf--------A----	Obj
+4	i	J^-------------	AuxZ
+5	nadále	Db-------------	Adv
+6	vlastníkem	NNMS7-----A----	Pnom
+7	prodávané	AAFS2----1A----	Atr
+8	věci	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kterou	P4FS4----------	Obj
+11	má	VB-S---3P-AA---	Atr
+12	u	RR--2----------	AuxP
+13	sebe	P6-X2----------	Adv
+14	,	Z:-------------	AuxX
+15	postačí	VB-S---3P-AA---	Pred
+16	,	Z:-------------	AuxX
+17	když	J,-------------	AuxC
+18	nechá	VB-S---3P-AA---	Sb
+19	zkušební	AAFS4----1A----	Atr
+20	dobu	NNFS4-----A----	Obj
+21	uběhnout	Vf--------A----	Obj
+22	,	Z:-------------	AuxX
+23	aniž	J,-------------	AuxC
+24	by	Vc-------------	AuxV
+25	zboží	NNNS4-----A----	Obj
+26	odmítal	VpYS---XR-AA---	Adv
+27	,	Z:-------------	AuxX
+28	a	J^-------------	Coord
+29	tím	PDZS7----------	Adv
+30	mlčky	Db-------------	Adv
+31	projeví	VB-S---3P-AA---	Sb
+32	souhlas	NNIS4-----A----	Obj
+33	s	RR--7----------	AuxP
+34	koupí	NNFS7-----A----	Atr
+35	této	PDFS2----------	Atr
+36	věci	NNFS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+cmpr9407-039-p18s1
+1	V	RR--6----------	AuxP
+2	opačném	AAIS6----1A----	Atr
+3	případě	NNIS6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	chce	VB-S---3P-AA---	Adv
+6	-	Z:-------------	AuxG
+7	li	TT-------------	AuxC
+8	kupující	AGMS1-----A----	Sb
+9	způsobit	Vf--------A----	Obj
+10	zánik	NNIS4-----A----	Obj
+11	kupní	AAFS2----1A----	Atr
+12	smlouvy	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	musí	VB-S---3P-AA---	Pred
+15	ve	RV--6----------	AuxP
+16	zkušební	AAFS6----1A----	Atr
+17	lhůtě	NNFS6-----A----	Adv
+18	sdělit	Vf--------A----	Obj
+19	prodávajícímu	AGMS3-----A----	Obj
+20	,	Z:-------------	AuxX
+21	že	J,-------------	AuxC
+22	zboží	NNNS4-----A----	Obj
+23	odmítá	VB-S---3P-AA---	Obj
+24	.	Z:-------------	AuxK
+
+cmpr9407-039-p18s2
+1	Toto	PDNS4----------	Atr
+2	zboží	NNNS4-----A----	Obj
+3	musí	VB-S---3P-AA---	Pred
+4	prodávajícímu	AGMS3-----A----	Obj
+5	vrátit	Vf--------A----	Obj
+6	v	RR--6----------	AuxP
+7	takovém	PDZS6----------	Atr
+8	stavu	NNIS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	v	RR--6----------	AuxP
+11	jakém	P4ZS6----------	Adv
+12	jej	PPZS4--3------2	Obj
+13	od	RR--2----------	AuxP
+14	prodávajícího	AGMS2-----A----	Obj
+15	přijal	VpYS---XR-AA---	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9407-039-p18s3
+1	Když	J,-------------	AuxC
+2	kupující	AGMS1-----A----	Sb
+3	není	VB-S---3P-NA---	Adv
+4	schopen	ACYS------A----	Pnom
+5	zboží	NNNS4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	takovém	PDZS6----------	Atr
+8	stavu	NNIS6-----A----	Adv
+9	prodávajícímu	AGMS3-----A----	Obj
+10	vrátit	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	nemá	VB-S---3P-NA---	Pred
+13	již	Db-------------	Adv
+14	právo	NNNS4-----A----	Obj
+15	toto	PDNS4----------	Atr
+16	zboží	NNNS4-----A----	Obj
+17	odmítnout	Vf--------A----	Atr
+18	,	Z:-------------	AuxX
+19	bez	RR--2----------	AuxP
+20	ohledu	NNIS2-----A----	AuxP
+21	na	RR--4----------	AuxP
+22	to	PDNS4----------	Adv
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	zkušební	AAFS1----1A----	Atr
+26	doba	NNFS1-----A----	Sb
+27	ještě	Db-------------	Adv
+28	neuběhla	VpQW---XR-NA--1	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9407-039-p18s4
+1	Toto	PDNS1----------	Atr
+2	omezení	NNNS1-----A----	Sb
+3	kupujícího	AGMS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	důsledkem	NNIS7-----A----	Pnom
+6	skutečnosti	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	převzetím	NNNS7-----A----	Adv
+10	zboží	NNNS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	něj	P5ZS4--3-------	Adv
+13	přechází	VB-S---3P-AA---	Atr
+14	nebezpečí	NNNS1-----A----	Sb
+15	vzniku	NNIS2-----A----	Atr
+16	škody	NNFS2-----A----	Atr
+17	na	RR--6----------	AuxP
+18	prodávané	AAFS6----1A----	Atr
+19	věci	NNFS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9407-039-p19s1
+1	Věra	NNFS1-----A----	Atr
+2	Urbanová	NNFS1-----A----	ExD
+
+cmpr9407-039-p20s1
+1	Připravila	VpQW---XR-AA---	Pred
+2	Advokátní	AAFS1----1A----	Atr
+3	kancelář	NNFS1-----A----	Sb
+4	Vácha	NNMS1-----A----	Atr
+5	&	Z:-------------	Coord
+6	Malý	AAMS1----1A----	Atr
+7	,	Z:-------------	AuxX
+8	Olšanská	AAFS1----1A----	Atr
+9	1	C=-------------	Atr
+10	a	NNNXX-----A----	Atr
+11	,	Z:-------------	AuxX
+12	130	C=-------------	Atr
+13	00	C=-------------	Atr
+14	Praha	NNFS1-----A----	Atr
+15	3	C=-------------	Atr
+16	-	Z:-------------	AuxG
+17	Žižkov	NNIS1-----A----	Atr
+18	,	Z:-------------	AuxX
+19	tel	NNIXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	:	Z:-------------	AuxG
+22	(	Z:-------------	AuxG
+23	02	C=-------------	Atr
+24	)	Z:-------------	AuxG
+25	691	C=-------------	Atr
+26	93	C=-------------	Atr
+27	33	C=-------------	Atr
+
+cmpr9407-039-p21s1
+1	Text	NNIS1-----A----	ExD
+2	ke	RV--3----------	AuxP
+3	kresbě	NNFS3-----A----	Atr
+4	:	Z:-------------	AuxK
+
+cmpr9407-039-p22s1A
+1	NEKUPUJTE	Vi-P---2--N----	Pred
+2	ZAJÍCE	NNMS4-----A----	Obj
+3	V	RR--6----------	AuxP
+4	PYTLI	NNIS6-----A----	Atr
+5	:	Z:-------------	AuxK
+
+cmpr9407-039-p22s1B
+1	Co	PQ--4----------	Obj
+2	víte	VB-P---2P-AA---	Pred
+3	o	RR--6----------	AuxP
+4	možnosti	NNFS6-----A----	Obj
+5	vyzkoušení	NNNS2-----A----	Atr
+6	zboží	NNNS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	"	Z:-------------	AuxG
+9	našich	PSXP6-P1-------	Atr
+10	podmínkách	NNFP6-----A----	Atr
+11	"	Z:-------------	AuxG
+12	?	Z:-------------	AuxK
+

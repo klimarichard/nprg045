@@ -1,0 +1,826 @@
+ln95040-009-p1s1
+1	V	RR--6----------	AuxP
+2	trezoru	NNIS6-----A----	Adv
+3	najdete	VB-P---2P-AA---	Pred
+4	euroštítek	NNIS4-----A----	Obj
+
+ln95040-009-p2s1A
+1	Nová	AAFS1----1A----	Atr
+2	česká	AAFS1----1A----	Atr
+3	norma	NNFS1-----A----	Sb
+4	o	RR--6----------	AuxP
+5	"	Z:-------------	AuxG
+6	úschovných	AAIP6----1A----	Atr
+7	objektech	NNIP6-----A----	Atr
+8	"	Z:-------------	AuxG
+9	je	VB-S---3P-AA---	Pred
+10	nezávazná	AAFS1----1N----	Pnom
+11	a	J^-------------	Coord
+12	srozumitelná	AAFS1----1A----	Pnom
+
+ln95040-009-p2s1B
+1	Dva	ClYP1----------	Atr
+2	způsoby	NNIP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	vybrat	Vf--------A----	Atr
+6	trezor	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	jsou	VB-P---3P-AA---	Pred
+9	nejsnazší	AAIP1----3A----	Pnom
+10	:	Z:-------------	AuxG
+11	odnést	Vf--------A----	Atr
+12	ho	PHZS4--3-------	Obj
+13	a	J^-------------	Coord
+14	v	RR--6----------	AuxP
+15	klidu	NNIS6-----A----	Adv
+16	rozpárat	Vf--------A----	Atr
+17	,	Z:-------------	AuxX
+18	anebo	J^-------------	Coord
+19	odemknout	Vf--------A----	Atr
+20	zámek	NNIS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln95040-009-p2s2
+1	Jsou	VB-P---3P-AA---	Pred
+2	také	Db-------------	Adv
+3	dva	ClYP1----------	Atr
+4	nejsnazší	AAIP1----3A----	Atr
+5	způsoby	NNIP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	jak	Db-------------	Adv
+8	tomu	PDZS3----------	Obj
+9	bránit	Vf--------A----	Atr
+10	:	Z:-------------	AuxG
+11	vyrobit	Vf--------A----	Atr
+12	co	Db-------------	Adv
+13	nejtěžší	AAIS4----3A----	Atr
+14	trezor	NNIS4-----A----	Obj
+15	s	RR--7----------	AuxP
+16	více	Dg-------2A----	Atr
+17	zámky	NNIP7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95040-009-p2s3
+1	Tak	Db-------------	Adv
+2	uvažuje	VB-S---3P-AA---	Pred
+3	náš	PSYS1-P1-------	Atr
+4	pojišťovací	AAMS1----1A----	Atr
+5	úředník	NNMS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+ln95040-009-p3s1
+1	Úředník	NNMS1-----A----	Sb
+2	stanovuje	VB-S---3P-AA---	Pred
+3	"	Z:-------------	AuxG
+4	limit	NNIS4-----A----	Obj
+5	plnění	NNNS2-----A----	Atr
+6	"	Z:-------------	AuxG
+7	,	Z:-------------	Apos
+8	to	PDNS4----------	Obj
+9	,	Z:-------------	AuxX
+10	co	PQ--4----------	Obj
+11	je	VB-S---3P-AA---	Atr
+12	pojišťovna	NNFS1-----A----	Sb
+13	ochotna	ACQW------A----	Pnom
+14	zaplatit	Vf--------A----	Obj
+15	,	Z:-------------	AuxX
+16	pokud	J,-------------	AuxC
+17	obsah	NNIS1-----A----	Sb
+18	trezoru	NNIS2-----A----	Atr
+19	oceněný	AAIS1----1A----	Atr
+20	na	RR--4----------	AuxP
+21	jistou	AAFS4----1A----	Atr
+22	částku	NNFS4-----A----	Adv
+23	utrpí	VB-S---3P-AA---	Adv
+24	újmu	NNFS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln95040-009-p3s2
+1	Ze	RV--2----------	AuxP
+2	svého	P8ZS2----------	Atr
+3	titulu	NNIS2-----A----	Adv
+4	může	VB-S---3P-AA---	Pred
+5	od	RR--2----------	AuxP
+6	trezoru	NNIS2-----A----	Obj
+7	žádat	Vf--------A----	Obj
+8	cokoli	PZ--4---------1	Obj
+9	.	Z:-------------	AuxK
+
+ln95040-009-p3s3
+1	I	J^-------------	AuxZ
+2	nesmysly	NNIP4-----A----	ExD
+3	.	Z:-------------	AuxK
+
+ln95040-009-p3s4
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	AuxP
+3	takřka	Db-------------	AuxZ
+4	monopolní	AAFS2----1A----	Atr
+5	České	AAFS2----1A----	Atr
+6	pojišťovny	NNFS2-----A----	Adv
+7	(	Z:-------------	AuxG
+8	její	PSIS4FS3-------	Atr
+9	přístup	NNIS4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	zásadě	NNFS6-----A----	Adv
+12	kopíruje	VB-S---3P-AA---	Pred
+13	například	Db-------------	AuxZ
+14	také	Db-------------	AuxZ
+15	Česká	AAFS1----1A----	Atr
+16	kooperativa	NNFS1-----A----	Sb
+17	)	Z:-------------	AuxG
+18	to	PDNS1----------	Sb
+19	vypadá	VB-S---3P-AA---	Pred
+20	takto	Db-------------	Adv
+21	:	Z:-------------	Apos
+22	Vedle	RR--2----------	AuxP
+23	mnoha	Ca--2----------	Atr
+24	požadavků	NNIP2-----A----	Adv
+25	na	RR--4----------	AuxP
+26	vstupní	AAFP4----1A----	Atr
+27	dveře	NNFP4-----A----	Atr
+28	,	Z:-------------	AuxX
+29	jejich	PSXXXXP3-------	Atr
+30	násobné	AAIP4----1A----	Atr
+31	zámky	NNIP4-----A----	Atr
+32	a	J^-------------	Coord
+33	bytelné	AANS4----1A----	Atr
+34	jištění	NNNS4-----A----	Atr
+35	případných	AAFP2----1A----	Atr
+36	prosklených	AAFP2----1A----	Atr
+37	ploch	NNFP2-----A----	Atr
+38	(	Z:-------------	AuxG
+39	pokud	J,-------------	AuxC
+40	nejsou	VB-P---3P-NA---	Pred
+41	alespoň	Db-------------	AuxZ
+42	tři	ClXP4----------	Atr
+43	metry	NNIP4-----A----	Adv
+44	nad	RR--7----------	AuxP
+45	terénem	NNIS7-----A----	Atr
+46	)	Z:-------------	AuxG
+47	při	RR--6----------	AuxP
+48	plnění	NNNS6-----A----	Adv
+49	do	RR--2----------	AuxP
+50	50000	C=-------------	Atr
+51	Kč	NNFXX-----A----	Atr
+52	musí	VB-S---3P-AA---	Adv
+53	mít	Vf--------A----	Obj
+54	trezor	NNIS1-----A----	Sb
+55	zapuštěný	AAIS1----1A----	Atr
+56	do	RR--2----------	AuxP
+57	zdi	NNFS2-----A----	Adv
+58	nejméně	Dg-------3A----	AuxZ
+59	50	C=-------------	Obj
+60	kg	NNIXX-----A---8	Atr
+61	,	Z:-------------	Apos
+62	totéž	PDNS4----------	Obj
+63	,	Z:-------------	ExD
+64	co	PQ--4----------	ExD
+65	pytel	NNIS1-----A----	ExD
+66	cementu	NNIS2-----A----	ExD
+67	.	Z:-------------	AuxK
+
+ln95040-009-p3s5
+1	Pokud	J,-------------	AuxC
+2	je	VB-S---3P-AA---	Adv
+3	to	PDNS1----------	Sb
+4	nábytkový	AAIS1----1A----	Atr
+5	trezor	NNIS1-----A----	Pnom
+6	(	Z:-------------	AuxG
+7	přichycují	VB-P---3P-AA---	Pred
+8	se	P7-X4----------	AuxR
+9	do	RR--2----------	AuxP
+10	zdi	NNFS2-----A----	Adv
+11	či	J^-------------	Coord
+12	do	RR--2----------	AuxP
+13	podlahy	NNFS2-----A----	Adv
+14	)	Z:-------------	AuxG
+15	,	Z:-------------	AuxX
+16	musí	VB-S---3P-AA---	Pred
+17	mít	Vf--------A----	Obj
+18	alespoň	Db-------------	AuxZ
+19	100	C=-------------	Obj
+20	kg	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+ln95040-009-p4s1
+1	Při	RR--6----------	AuxP
+2	plnění	NNNS6-----A----	Adv
+3	do	RR--2----------	AuxP
+4	500000	C=-------------	Atr
+5	Kč	NNFXX-----A----	Atr
+6	trezor	NNIS1-----A----	Sb
+7	těžkne	VB-S---3P-AA---	Pred
+8	na	RR--4----------	AuxP
+9	80	C=-------------	Adv
+10	,	Z:-------------	AuxX
+11	respektive	Db-------------	Coord
+12	na	RR--4----------	AuxP
+13	200	C=-------------	Adv
+14	kg	NNIXX-----A---8	Atr
+15	a	J^-------------	Coord
+16	při	RR--6----------	AuxP
+17	plnění	NNNS6-----A----	Adv
+18	do	RR--2----------	AuxP
+19	2	C=-------------	Atr
+20	mil	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	Kč	NNFXX-----A----	Atr
+23	má	VB-S---3P-AA---	Pred
+24	nejméně	Dg-------3A----	AuxZ
+25	tři	ClXP4----------	Atr
+26	metráky	NNIP4-----A----	Obj
+27	a	J^-------------	Coord
+28	dva	ClYP4----------	Atr
+29	zámky	NNIP4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln95040-009-p5s1
+1	V	RR--6----------	AuxP
+2	trezoru	NNIS6-----A----	Adv
+3	nepotřebujete	VB-P---2P-NA---	Pred
+4	prostor	NNIS4-----A----	Obj
+5	jako	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	lednici	NNFS6-----A----	ExD
+8	,	Z:-------------	AuxX
+9	pokud	J,-------------	AuxC
+10	chcete	VB-P---2P-AA---	Adv
+11	uschovávat	Vf--------A----	Obj
+12	rodinné	AAIP4----1A----	Atr
+13	šperky	NNIP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	zbraň	NNFS4-----A----	Obj
+16	nebo	J^-------------	Coord
+17	valutovou	AAFS4----1A----	Atr
+18	hotovost	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln95040-009-p5s2
+1	Výrobce	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	tak	Db-------------	Adv
+4	dostává	VB-S---3P-AA---	Pred
+5	do	RR--2----------	AuxP
+6	tlaku	NNIS2-----A----	Adv
+7	mezi	RR--4----------	AuxP
+8	zákazníka	NNMS4-----A----	Atr
+9	a	J^-------------	Coord
+10	pojišťovny	NNFP4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95040-009-p5s3
+1	Snaží	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	vyrábět	Vf--------A----	Obj
+4	co	Db-------------	Adv
+5	nejmenší	AAIP4----3A----	Atr
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	co	Db-------------	Adv
+9	nejtěžší	AAIP4----3A----	Atr
+10	trezory	NNIP4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95040-009-p5s4
+1	Vyrobte	Vi-P---2--A----	Pred
+2	ale	J^-------------	Coord
+3	půlmetrákovou	AAFS4----1A----	Atr
+4	krabici	NNFS4-----A----	Obj
+5	od	RR--2----------	AuxP
+6	bot	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+9	.	Z:-------------	AuxK
+
+ln95040-009-p5s5
+1	Přitom	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	tak	Db-------------	Adv
+4	pohodlné	AANS1----1A----	Pnom
+5	zjišťovat	Vf--------A----	Sb
+6	hmotnost	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	tak	Db-------------	Adv
+10	pramálo	Db-------------	Adv
+11	vypovídá	VB-S---3P-AA---	Atr
+12	o	RR--6----------	AuxP
+13	kvalitě	NNFS6-----A----	Obj
+14	trezoru	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95040-009-p6s1
+1	V	RR--6----------	AuxP
+2	zahraničí	NNNS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	to	PDNS1----------	Sb
+5	řeší	VB-S---3P-AA---	Pred
+6	tak	Db-------------	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	pověřený	AAIS1----1A----	Atr
+10	atestační	AAIS1----1A----	Atr
+11	ústav	NNIS1-----A----	Sb
+12	pomocí	RR--2----------	AuxP
+13	standardních	AAIP2----1A----	Atr
+14	ničivých	AAIP2----1A----	Atr
+15	postupů	NNIP2-----A----	Adv
+16	stanoví	VB-S---3P-AA---	Adv
+17	"	Z:-------------	AuxG
+18	kategorii	NNFS4-----A----	Obj
+19	napadnutelnosti	NNFS2-----A----	Atr
+20	"	Z:-------------	AuxG
+21	daného	AAIS2----1A----	Atr
+22	trezoru	NNIS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95040-009-p6s2
+1	Podle	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	jej	PPZS4--3------2	Obj
+4	zařadí	VB-S---3P-AA---	Pred
+5	do	RR--2----------	AuxP
+6	bezpečnostní	AAFS2----1A----	Atr
+7	třídy	NNFS2-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln95040-009-p6s3
+1	Z	RR--2----------	AuxP
+2	dosažené	AAFS2----1A----	Atr
+3	třídy	NNFS2-----A----	Obj
+4	pro	RR--4----------	AuxP
+5	pojišťovnu	NNFS4-----A----	Adv
+6	automaticky	Dg-------1A----	Adv
+7	vyplývá	VB-S---3P-AA---	Pred
+8	základní	AANS1----1A----	Atr
+9	pojistné	AANS1----1A----	Atr
+10	plnění	NNNS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	které	P4NS1----------	Sb
+13	platí	VB-S---3P-AA---	Atr
+14	pro	RR--4----------	AuxP
+15	trezor	NNIS4-----A----	Adv
+16	"	Z:-------------	AuxG
+17	na	RR--6----------	AuxP
+18	zelené	AAFS6----1A----	Atr
+19	louce	NNFS6-----A----	Atr
+20	"	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+ln95040-009-p7s1
+1	Na	RR--6----------	AuxP
+2	základě	NNIS6-----A----	AuxP
+3	dalších	AANP2----1A----	Atr
+4	pevně	Dg-------1A----	Adv
+5	určených	AANP2----1A----	Atr
+6	kritérií	NNNP2-----A----	Adv
+7	-	Z:-------------	AuxG
+8	jako	J,-------------	AuxC
+9	je	VB-S---3P-AA---	Atr
+10	hustota	NNFS1-----A----	Sb
+11	zástavby	NNFS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	dané	AAFS6----1A----	Atr
+14	čtvrti	NNFS6-----A----	Atr
+15	,	Z:-------------	Coord
+16	umístění	NNNS1-----A----	Sb
+17	trezoru	NNIS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	množství	NNNS1-----A----	Sb
+20	a	J^-------------	Coord
+21	kvalita	NNFS1-----A----	Sb
+22	zabezpečovacích	AAIP2----1A----	Atr
+23	systémů	NNIP2-----A----	Atr
+24	atd	Db------------8	Sb
+25	.	Z:-------------	AuxG
+26	-	Z:-------------	AuxG
+27	pojišťovací	AAMS1----1A----	Atr
+28	agent	NNMS1-----A----	Sb
+29	vypočte	VB-S---3P-AA---	Pred
+30	koeficient	NNIS4-----A----	Obj
+31	,	Z:-------------	AuxX
+32	kterým	P4ZS7----------	Adv
+33	se	P7-X4----------	AuxR
+34	základní	AANS1----1A----	Atr
+35	plnění	NNNS1-----A----	Sb
+36	násobí	VB-S---3P-AA---	Atr
+37	.	Z:-------------	AuxK
+
+ln95040-009-p7s2
+1	Volně	Dg-------1A----	Adv
+2	stojící	AGIS1-----A----	Atr
+3	trezor	NNIS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	oceněný	AAIS1----1A----	Atr
+6	,	Z:-------------	AuxX
+7	řekněme	Vi-P---1--A----	Pred
+8	na	RR--4----------	AuxP
+9	15000	C=-------------	Adv
+10	marek	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	pak	Db-------------	Adv
+13	může	VB-S---3P-AA---	Pred
+14	být	Vf--------A----	Obj
+15	pojištěn	VsYS---XX-AP---	Pnom
+16	třeba	Db-------------	AuxZ
+17	na	RR--4----------	AuxP
+18	100000	C=-------------	Adv
+19	marek	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95040-009-p8s1
+1	Kategorizace	NNFS1-----A----	Sb
+2	také	Db-------------	Adv
+3	chrání	VB-S---3P-AA---	Pred
+4	zákazníka	NNMS4-----A----	Obj
+5	.	Z:-------------	AuxK
+
+ln95040-009-p8s2
+1	Pokud	J,-------------	AuxC
+2	totiž	Db-------------	AuxY
+3	našincovu	AUFS4M---------	Atr
+4	představu	NNFS4-----A----	Obj
+5	o	RR--6----------	AuxP
+6	trezorech	NNIP6-----A----	Atr
+7	formovaly	VpTP---XR-AA---	Adv
+8	detektivky	NNFP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	nechá	VB-S---3P-AA---	Pred
+11	si	P7-X3----------	Obj
+12	od	RR--2----------	AuxP
+13	šikovného	AAMS2----1A----	Atr
+14	obchodníka	NNMS2-----A----	Obj
+15	draze	Dg-------1A----	Adv
+16	prodat	Vf--------A----	Sb
+17	efektně	Dg-------1A----	Adv
+18	vypadající	AGIS4-----A----	Atr
+19	"	Z:-------------	AuxG
+20	trezor	NNIS4-----A----	Obj
+21	"	Z:-------------	AuxG
+22	.	Z:-------------	AuxK
+
+ln95040-009-p8s3
+1	U	RR--2----------	AuxP
+2	pojišťovny	NNFS2-----A----	Adv
+3	pak	Db-------------	Adv
+4	zjistí	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	pořídil	VpYS---XR-AA---	Obj
+8	nepojistitelnou	AAFS4----1N----	Atr
+9	,	Z:-------------	Coord
+10	šroubovákem	NNIS7-----A----	Adv
+11	napadnutelnou	AAFS4----1A----	Atr
+12	plechovou	AAFS4----1A----	Atr
+13	bednu	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln95040-009-p8s4
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	pojišťovna	NNFS1-----A----	Sb
+4	pro	RR--4----------	AuxP
+5	jistou	AAFS4----1A----	Atr
+6	hranici	NNFS4-----A----	Adv
+7	plnění	NNNS2-----A----	Atr
+8	požadovala	VpQW---XR-AA---	Adv
+9	konkrétní	AAFS4----1A----	Atr
+10	bezpečnostní	AAFS4----1A----	Atr
+11	třídu	NNFS4-----A----	Obj
+12	trezoru	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	zákazník	NNMS1-----A----	Sb
+15	by	Vc-------------	AuxV
+16	žádal	VpYS---XR-AA---	Pred
+17	právě	Db-------------	AuxZ
+18	onu	PDFS4----------	Atr
+19	třídu	NNFS4-----A----	Obj
+20	a	J^-------------	Coord
+21	vybíral	VpYS---XR-AA---	Pred
+22	by	Vc-------------	AuxV
+23	už	Db-------------	AuxZ
+24	jen	TT-------------	AuxZ
+25	podle	RR--2----------	AuxP
+26	ceny	NNFS2-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln95040-009-p9s1
+1	Právě	Db-------------	AuxZ
+2	z	RR--2----------	AuxP
+3	těchto	PDXP2----------	Atr
+4	důvodů	NNIP2-----A----	Adv
+5	vznikl	VpYS---XR-AA--1	Pred
+6	návrh	NNIS1-----A----	Sb
+7	ČN	NNFXX-----A---8	Atr
+8	91	C=-------------	Atr
+9	6010	C=-------------	Atr
+10	,	Z:-------------	Apos
+11	první	CrFS2----------	Atr
+12	normy	NNFS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	České	AAFS6----1A----	Atr
+15	republice	NNFS6-----A----	Atr
+16	zabývající	AGFS2-----A----	Atr
+17	se	P7-X4----------	AuxT
+18	úschovnými	AAIP7----1A----	Atr
+19	objekty	NNIP7-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln95040-009-p9s2
+1	Vychází	VB-S---3P-AA---	Pred
+2	z	RR--2----------	AuxP
+3	návrhu	NNIS2-----A----	Obj
+4	obdobné	AAFS2----1A----	Atr
+5	evropské	AAFS2----1A----	Atr
+6	normy	NNFS2-----A----	Atr
+7	pr	NNNXX-----A----	Atr
+8	EN	NNFP2-----A----	Atr
+9	1143	C=-------------	Atr
+10	-	Z:-------------	AuxG
+11	1	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	právě	Db-------------	Adv
+15	prochází	VB-S---3P-AA---	Atr
+16	připomínkovým	AANS7----1A----	Atr
+17	řízením	NNNS7-----A----	Adv
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	některé	PZFP1----------	Atr
+21	členské	AAFP1----1A----	Atr
+22	země	NNFP1-----A----	Sb
+23	Evropské	AAFS2----1A----	Atr
+24	unie	NNFS2-----A----	Atr
+25	se	P7-X4----------	AuxT
+26	už	Db-------------	Adv
+27	podle	RR--2----------	AuxP
+28	něj	P5ZS2--3-------	Adv
+29	řídí	VB-P---3P-AA---	Pred
+30	.	Z:-------------	AuxK
+
+ln95040-009-p9s3
+1	Úřad	NNIS1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	technickou	AAFS4----1A----	Atr
+4	normalizaci	NNFS4-----A----	Atr
+5	,	Z:-------------	AuxX
+6	metrologii	NNFS4-----A----	Atr
+7	a	J^-------------	Coord
+8	státní	AANS4----1A----	Atr
+9	zkušebnictví	NNNS4-----A----	Atr
+10	normu	NNFS4-----A----	Obj
+11	ČN	NNFXX-----A---8	Atr
+12	91	C=-------------	Atr
+13	6010	C=-------------	Atr
+14	pravděpodobně	Dg-------1A----	AuxY
+15	v	RR--6----------	AuxP
+16	nejbližších	AAIP6----3A----	Atr
+17	měsících	NNIP6-----A----	Adv
+18	vydá	VB-S---3P-AA---	Pred
+19	.	Z:-------------	AuxK
+
+ln95040-009-p9s4
+1	Naši	PSMP1-P1-------	Atr
+2	výrobci	NNMP1-----A----	Sb
+3	trezorů	NNIP2-----A----	Atr
+4	už	Db-------------	AuxZ
+5	nyní	Db-------------	Adv
+6	mohou	VB-P---3P-AA--1	Pred
+7	začít	Vf--------A----	Obj
+8	vyrábět	Vf--------A----	Obj
+9	"	Z:-------------	AuxG
+10	po	RR--6----------	AuxP
+11	evropsku	NNNS6-----A----	Adv
+12	"	Z:-------------	AuxG
+13	.	Z:-------------	AuxK
+
+ln95040-009-p10s1
+1	Také	Db-------------	Adv
+2	budou	VB-P---3F-AA---	AuxV
+3	mít	Vf--------A----	Pred
+4	možnost	NNFS4-----A----	Obj
+5	ověřit	Vf--------A----	Atr
+6	kvality	NNFP4-----A----	Obj
+7	svých	P8XP2----------	Atr
+8	trezorů	NNIP2-----A----	Atr
+9	podle	RR--2----------	AuxP
+10	nové	AAFS2----1A----	Atr
+11	normy	NNFS2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln95040-009-p10s2
+1	Odborníci	NNMP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	oficiální	AAFS6----1A----	Atr
+4	zkušebně	NNFS6-----A----	Atr
+5	zaútočí	VB-P---3P-AA---	Pred
+6	na	RR--4----------	AuxP
+7	trezor	NNIS4-----A----	Obj
+8	nástroji	NNIP7-----A----	Adv
+9	s	RR--7----------	AuxP
+10	odstupňovaným	AAIS7----1A----	Atr
+11	výkonem	NNIS7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	stanoví	VB-P---3P-AA---	Pred
+14	tak	Db-------------	Adv
+15	"	Z:-------------	AuxG
+16	průlomovou	AAFS4----1A----	Atr
+17	odolnost	NNFS4-----A----	Obj
+18	"	Z:-------------	AuxG
+19	trezoru	NNIS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	posoudí	VB-P---3P-AA---	Pred
+22	základní	AAIP4----1A----	Atr
+23	konstrukční	AAIP4----1A----	Atr
+24	požadavky	NNIP4-----A----	Obj
+25	a	J^-------------	Coord
+26	výrobek	NNIS4-----A----	Obj
+27	zařadí	VB-P---3P-AA---	Pred
+28	do	RR--2----------	AuxP
+29	jedné	ClFS2----------	Adv
+30	ze	RV--2----------	AuxP
+31	14	C=-------------	Atr
+32	bezpečnostních	AAFP2----1A----	Atr
+33	tříd	NNFP2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln95040-009-p10s3
+1	Jedna	ClFS1----------	Atr
+2	věc	NNFS1-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	ovšem	J^-------------	Coord
+5	zkušební	AAIS1----1A----	Atr
+6	protokol	NNIS1-----A----	Sb
+7	,	Z:-------------	Coord
+8	druhá	CrFS1----------	ExD
+9	schopnost	NNFS1-----A----	ExD
+10	vyrábět	Vf--------A----	Atr
+11	atestovaný	AAIS4----1A----	Atr
+12	trezor	NNIS4-----A----	Obj
+13	ve	RV--6----------	AuxP
+14	stálé	AAFS6----1A----	Atr
+15	kvalitě	NNFS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95040-009-p10s4
+1	Tento	PDIS4----------	Atr
+2	předpoklad	NNIS4-----A----	Obj
+3	a	J^-------------	Coord
+4	další	AAIP4----1A----	Atr
+5	předpoklady	NNIP4-----A----	Obj
+6	výrobce	NNMS2-----A----	Atr
+7	má	VB-S---3P-AA---	Pred
+8	v	RR--6----------	AuxP
+9	ČR	NNFXX-----A---8	Adv
+10	podle	RR--2----------	AuxP
+11	evropských	AAFP2----1A----	Atr
+12	norem	NNFP2-----A----	Adv
+13	potvrzovat	Vf--------A----	Obj
+14	certifikační	AANS1----1A----	Atr
+15	místo	NNNS1-----A----	Sb
+16	,	Z:-------------	Coord
+17	pravděpodobně	Dg-------1A----	ExD
+18	některá	PZFS1----------	Atr
+19	akreditovaná	AAFS1----1A----	Atr
+20	zkušebna	NNFS1-----A----	ExD
+21	.	Z:-------------	AuxK
+
+ln95040-009-p11s1
+1	Pojišťovny	NNFP1-----A----	Sb
+2	tak	Db-------------	Adv
+3	do	RR--2----------	AuxP
+4	svého	P8ZS2----------	Atr
+5	hodnocení	NNNS2-----A----	Adv
+6	mohou	VB-P---3P-AA--1	Pred
+7	poprvé	Db-------------	Adv
+8	promítnout	Vf--------A----	Obj
+9	skutečné	AAFP4----1A----	Atr
+10	technické	AAFP4----1A----	Atr
+11	kvality	NNFP4-----A----	Obj
+12	výrobku	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95040-009-p11s2
+1	Aniž	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	je	PPXP4--3-------	Obj
+4	to	PDNS1----------	Sb
+5	co	PQ--4----------	Obj
+6	stálo	VpNS---XR-AA---	Pred
+7	.	Z:-------------	AuxK
+
+ln95040-009-p11s3
+1	Za	RR--4----------	AuxP
+2	atest	NNIS4-----A----	Obj
+3	trezoru	NNIS2-----A----	Atr
+4	a	J^-------------	Coord
+5	certifikaci	NNFS4-----A----	Obj
+6	totiž	Db-------------	AuxY
+7	zaplatí	VB-S---3P-AA---	Pred
+8	výrobce	NNMS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln95040-009-p11s4
+1	V	RR--6----------	AuxP
+2	zahraničí	NNNS6-----A----	Adv
+3	bývají	VB-P---3P-AA---	Pred
+4	tyto	PDIP1----------	Atr
+5	poplatky	NNIP1-----A----	Sb
+6	tak	Db-------------	Adv
+7	vysoké	AAIP1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	si	P7-X3----------	AuxT
+11	snad	Db-------------	AuxZ
+12	žádný	PWYS1----------	Atr
+13	výrobce	NNMS1-----A----	Sb
+14	nemůže	VB-S---3P-NA---	Adv
+15	dovolit	Vf--------A----	Obj
+16	zaplatit	Vf--------A----	Obj
+17	zkoušky	NNFP4-----A----	Obj
+18	všech	PLXP2----------	Atr
+19	svých	P8XP2----------	Atr
+20	trezorů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95040-009-p11s5
+1	Vedle	RR--2----------	AuxP
+2	značkového	AANS2----1A----	Atr
+3	zboží	NNNS2-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	pak	Db-------------	Adv
+6	na	RR--6----------	AuxP
+7	trhu	NNIS6-----A----	Adv
+8	i	J^-------------	AuxZ
+9	trezory	NNIP1-----A----	Sb
+10	-	Z:-------------	AuxG
+11	počítačově	Dg-------1A----	Adv
+12	řečeno	VsNS---XX-AP---	ExD
+13	-	Z:-------------	AuxG
+14	"	Z:-------------	AuxG
+15	no	TT-------------	Atr
+16	name	NNNXX-----A----	Atr
+17	"	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+ln95040-009-p12s1
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	tak	Db-------------	Adv
+4	prosté	AANS1----1A----	Pnom
+5	:	Z:-------------	Coord
+6	zákazník	NNMS1-----A----	Sb
+7	otevírá	VB-S---3P-AA---	Pred
+8	trezor	NNIS4-----A----	Obj
+9	a	J^-------------	Coord
+10	nachází	VB-S---3P-AA---	Pred
+11	v	RR--6----------	AuxP
+12	něm	P5ZS6--3-------	Adv
+13	štítek	NNIS4-----A----	Obj
+14	s	RR--7----------	AuxP
+15	vyznačením	NNNS7-----A----	Atr
+16	třídy	NNFS2-----A----	Atr
+17	bezpečnosti	NNFS2-----A----	Atr
+18	a	J^-------------	Coord
+19	příslušné	AAFS2----1A----	Atr
+20	normy	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95040-009-p12s2
+1	Výrobce	NNMS1-----A----	Sb
+2	současně	Dg-------1A----	Adv
+3	sklízí	VB-S---3P-AA---	Pred
+4	plody	NNIP4-----A----	Obj
+5	svého	P8ZS2----------	Atr
+6	úsilí	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95040-009-p12s3
+1	Snad	Db-------------	AuxY
+2	už	Db-------------	AuxZ
+3	za	RR--4----------	AuxP
+4	pár	NNIS4-----A----	Adv
+5	měsíců	NNIP2-----A----	Atr
+6	český	AAMS1----1A----	Atr
+7	zákazník	NNMS1-----A----	Sb
+8	současně	Dg-------1A----	Adv
+9	s	RR--7----------	AuxP
+10	trezorem	NNIS7-----A----	Adv
+11	označeným	AAIS7----1A----	Atr
+12	euroštítkem	NNIS7-----A----	Obj
+13	pořídí	VB-S---3P-AA---	Pred
+14	také	Db-------------	Adv
+15	jistotu	NNFS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	se	P7-X4----------	AuxT
+19	pojišťovna	NNFS1-----A----	Sb
+20	za	RR--4----------	AuxP
+21	jeho	PSXXXZS3-------	Atr
+22	majetek	NNIS4-----A----	Obj
+23	skutečně	Dg-------1A----	Adv
+24	zaručí	VB-S---3P-AA---	Atr
+25	.	Z:-------------	AuxK
+

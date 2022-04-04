@@ -1,0 +1,951 @@
+cmpr9406-043-p2s1
+1	Výrobě	NNFS3-----A----	Obj
+2	pomáhá	VB-S---3P-AA---	Pred
+3	ergonomie	NNFS1-----A----	Sb
+
+cmpr9406-043-p3s1
+1	K	RR--3----------	AuxP
+2	zákazníkům	NNMP3-----A----	Adv
+3	patří	VB-P---3P-AA---	Pred
+4	jak	Db-------------	AuxY
+5	stavební	AAFP1----1A----	Atr
+6	firmy	NNFP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	tak	Db-------------	Coord
+9	i	J^-------------	AuxZ
+10	malí	AAMP1----1A----	Atr
+11	stavebníci	NNMP1-----A----	Sb
+
+cmpr9406-043-p4s1
+1	V	RR--6----------	AuxP
+2	průměru	NNIS6-----A----	Adv
+3	vagon	NNIS4-----A----	Obj
+4	kulatiny	NNFS2-----A----	Atr
+5	denně	Dg-------1A----	Adv
+6	zpracuje	VB-S---3P-AA---	Pred
+7	firma	NNFS1-----A----	Sb
+8	Nekima	NNFS1-----A----	Atr
+9	na	RR--4----------	AuxP
+10	stavební	AANS4----1A----	Atr
+11	řezivo	NNNS4-----A----	Adv
+12	.	Z:-------------	AuxK
+
+cmpr9406-043-p4s2
+1	Při	RR--6----------	AuxP
+2	práci	NNFS6-----A----	Adv
+3	s	RR--7----------	AuxP
+4	touto	PDFS7----------	Atr
+5	surovinou	NNFS7-----A----	Atr
+6	však	J^-------------	Coord
+7	je	VB-S---3P-AA---	Pred
+8	velký	AAIS1----1A----	Atr
+9	odpad	NNIS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	zhruba	Db-------------	AuxZ
+12	padesátiprocentní	AAIS1----1A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9406-043-p4s3
+1	Proto	J^-------------	Coord
+2	se	P7-X4----------	AuxT
+3	firma	NNFS1-----A----	Sb
+4	vedle	RR--2----------	AuxP
+5	své	P8FS2---------1	Atr
+6	hlavní	AAFS2----1A----	Atr
+7	sériové	AAFS2----1A----	Atr
+8	produkce	NNFS2-----A----	Adv
+9	zaměřuje	VB-S---3P-AA---	Pred
+10	i	J^-------------	AuxZ
+11	na	RR--4----------	AuxP
+12	další	AANS4----1A----	Atr
+13	využití	NNNS4-----A----	Adv
+14	dřeva	NNNS2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	drobnější	AAIP4----2A----	Atr
+17	výrobky	NNIP4-----A----	Atr
+18	a	J^-------------	Coord
+19	příležitostně	Dg-------1A----	ExD
+20	také	Db-------------	AuxZ
+21	přírodní	AAIS4----1A----	Atr
+22	nábytek	NNIS4-----A----	ExD
+23	na	RR--4----------	AuxP
+24	zakázku	NNFS4-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9406-043-p4s4
+1	Daří	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	jí	PPFS3--3-------	Obj
+4	tak	Db-------------	Adv
+5	materiál	NNIS4-----A----	Obj
+6	zhodnotit	Vf--------A----	Sb
+7	z	RR--2----------	AuxP
+8	dalších	AANP2----1A----	Atr
+9	25	C=-------------	Atr
+10	až	J^-------------	Coord
+11	30	C=-------------	Atr
+12	procent	NNNP2-----A----	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9406-043-p5s1
+1	Jaroslava	NNFS1-----A----	Atr
+2	Fürstová	NNFS1-----A----	ExD
+
+cmpr9406-043-p6s1
+1	Původní	AAFS1----1A----	Atr
+2	představa	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	bude	VB-S---3F-AA---	AuxV
+6	firma	NNFS1-----A----	Sb
+7	tak	Db-------------	Adv
+8	zvané	AAIP4----1A----	Atr
+9	polštáře	NNIP4-----A----	Obj
+10	(	Z:-------------	ExD
+11	laicky	Dg-------1A----	Adv
+12	řečeno	VsNS---XX-AP---	ExD
+13	střed	NNIS4-----A----	ExD
+14	kmene	NNIS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	z	RR--2----------	AuxP
+17	něhož	P9ZS2----------	Adv
+18	by	Vc-------------	AuxV
+19	již	Db-------------	Adv
+20	odpad	NNIS1-----A----	Sb
+21	téměř	Db-------------	AuxZ
+22	žádný	PWIP1---------6	Pnom
+23	nebyl	VpYS---XR-NA---	Atr
+24	)	Z:-------------	ExD
+25	nakupovat	Vf--------A----	Atr
+26	,	Z:-------------	AuxX
+27	vzala	VpQW---XR-AA---	Pred
+28	velice	Db-------------	Adv
+29	brzy	Dg-------1A----	Adv
+30	za	RR--4----------	AuxP
+31	své	P8NS4---------1	Obj
+32	.	Z:-------------	AuxK
+
+cmpr9406-043-p6s2
+1	Vyšlo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	to	PDNS1----------	Sb
+4	přibližně	Dg-------1A----	AuxZ
+5	pětkrát	Cv-------------	Adv
+6	dráže	Dg-------2A---1	Adv
+7	,	Z:-------------	AuxX
+8	než	J,-------------	AuxC
+9	když	J,-------------	AuxC
+10	nakoupí	VB-S---3P-AA---	ExD
+11	kulatinu	NNFS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9406-043-p6s3
+1	To	PDNS1----------	Sb
+2	ale	J^-------------	Coord
+3	znamená	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	musela	VpQW---XR-AA---	Obj
+7	změnit	Vf--------A----	Obj
+8	své	P8FP4---------1	Atr
+9	představy	NNFP4-----A----	Obj
+10	i	J^-------------	AuxZ
+11	co	PQ--1----------	Sb
+12	se	P7-X4----------	AuxT
+13	týká	VB-S---3P-AA---	Adv
+14	zaměstnanců	NNMP2-----A----	Obj
+15	,	Z:-------------	AuxX
+16	ačkoliv	J,-------------	AuxC
+17	to	PDNS1----------	Sb
+18	není	VB-S---3P-NA---	Adv
+19	vždy	Db-------------	Adv
+20	snadné	AANS1----1A----	Pnom
+21	.	Z:-------------	AuxK
+
+cmpr9406-043-p7s1
+1	Kritéria	NNNP1-----A----	ExD
+2	výběru	NNIS2-----A----	Atr
+
+cmpr9406-043-p8s1
+1	Firma	NNFS1-----A----	Sb
+2	zaměstnává	VB-S---3P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	třicet	Cn-S4----------	Obj
+5	pracovníků	NNMP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9406-043-p8s2
+1	Z	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	jen	TT-------------	AuxZ
+4	necelá	AAFS1----1N----	Atr
+5	třetina	CyFS1----------	Sb
+6	jsou	VB-P---3P-AA---	Pred
+7	vyučení	AAMP1----1A----	Atr
+8	truhláři	NNMP1-----A----	Pnom
+9	.	Z:-------------	AuxK
+
+cmpr9406-043-p8s3
+1	Základní	AANP1----1A----	Atr
+2	kritéria	NNNP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	kterými	P4XP7----------	Adv
+5	se	P7-X4----------	AuxT
+6	převážně	Dg-------1A----	Adv
+7	řídí	VB-S---3P-AA---	Atr
+8	při	RR--6----------	AuxP
+9	přijímání	NNNS6-----A----	Adv
+10	zaměstnanců	NNMP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jsou	VB-P---3P-AA---	Pred
+13	prostá	AANP1----1A----	Pnom
+14	-	Z:-------------	Apos
+15	zájemce	NNMS1-----A----	Sb
+16	o	RR--4----------	AuxP
+17	práci	NNFS4-----A----	Atr
+18	nesmí	VB-S---3P-NA---	Pnom
+19	mít	Vf--------A----	Obj
+20	zápis	NNIS4-----A----	Obj
+21	v	RR--6----------	AuxP
+22	trestním	AAIS6----1A----	Atr
+23	rejstříku	NNIS6-----A----	Adv
+24	a	J^-------------	Coord
+25	z	RR--2----------	AuxP
+26	předchozího	AANS2----1A----	Atr
+27	zaměstnání	NNNS2-----A----	Adv
+28	nesměl	VpYS---XR-NA---	Pnom
+29	odejít	Vf--------A----	Obj
+30	kvůli	RR--3----------	AuxP
+31	absencím	NNFP3-----A----	Adv
+32	či	J^-------------	Coord
+33	jinému	AANS3----1A----	Atr
+34	hrubému	AANS3----1A----	Atr
+35	porušení	NNNS3-----A----	Adv
+36	pracovní	AAFS2----1A----	Atr
+37	kázně	NNFS2-----A----	Atr
+38	.	Z:-------------	AuxK
+
+cmpr9406-043-p9s1
+1	Výuční	AAIS4----1A----	Atr
+2	list	NNIS4-----A----	Obj
+3	firma	NNFS1-----A----	Sb
+4	vítá	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	ze	RV--2----------	AuxP
+8	dvou	ClXP2----------	Atr
+9	důvodů	NNIP2-----A----	Adv
+10	ho	PHZS4--3-------	Obj
+11	striktně	Dg-------1A----	Adv
+12	nepožaduje	VB-S---3P-NA---	Pred
+13	.	Z:-------------	AuxK
+
+cmpr9406-043-p9s2
+1	Jednak	J^-------------	ExD
+2	proto	Db-------------	ExD
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	převážná	AAFS1----1A----	Atr
+6	část	NNFS1-----A----	Sb
+7	práce	NNFS2-----A----	Atr
+8	při	RR--6----------	AuxP
+9	zpracování	NNNS6-----A----	Atr
+10	kulatiny	NNFS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	stavební	AANS4----1A----	Atr
+13	řezivo	NNNS4-----A----	Atr
+14	není	VB-S---3P-NA---	Pred
+15	náročná	AAFS1----1A----	Pnom
+16	na	RR--4----------	AuxP
+17	speciální	AAFP4----1A----	Atr
+18	dovednosti	NNFP4-----A----	Obj
+19	,	Z:-------------	Coord
+20	každý	AAMS1----1A----	Atr
+21	jen	TT-------------	AuxZ
+22	trochu	Db-------------	Adv
+23	šikovný	AAMS1----1A----	Atr
+24	člověk	NNMS1-----A----	Sb
+25	ji	PPFS4--3-------	Obj
+26	po	RR--6----------	AuxP
+27	krátkém	AANS6----1A----	Atr
+28	zacvičení	NNNS6-----A----	Adv
+29	zvládne	VB-S---3P-AA---	Pred
+30	.	Z:-------------	AuxK
+
+cmpr9406-043-p9s3
+1	Druhý	CrIS1----------	Atr
+2	důvod	NNIS1-----A----	Sb
+3	vyplývá	VB-S---3P-AA---	Pred
+4	z	RR--2----------	AuxP
+5	určité	AAFS2----1A----	Atr
+6	nouze	NNFS2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9406-043-p9s4
+1	Vyučení	AAMP1----1A----	Atr
+2	truhláři	NNMP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	většinou	NNFS7-----A----	Adv
+5	snažili	VpMP---XR-AA---	Pred
+6	založit	Vf--------A----	Obj
+7	si	P7-X3----------	Adv
+8	vlastní	AAFP4----1A----	Atr
+9	firmy	NNFP4-----A----	Obj
+10	a	J^-------------	Coord
+11	postarat	Vf--------A----	Obj
+12	se	P7-X4----------	AuxT
+13	o	RR--4----------	AuxP
+14	sebe	P6-X4----------	Obj
+15	sami	PLMP1----------	AtvV
+16	.	Z:-------------	AuxK
+
+cmpr9406-043-p9s5
+1	O	RR--4----------	AuxP
+2	nábytek	NNIS4-----A----	Atr
+3	,	Z:-------------	AuxX
+4	doplňky	NNIP4-----A----	Atr
+5	a	J^-------------	Coord
+6	další	AAIP4----1A----	Atr
+7	řemeslné	AAIP4----1A----	Atr
+8	výrobky	NNIP4-----A----	Atr
+9	ze	RV--2----------	AuxP
+10	dřeva	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	dělané	AAIP4----1A----	Atr
+13	na	RR--4----------	AuxP
+14	míru	NNFS4-----A----	Adv
+15	,	Z:-------------	AuxX
+16	byl	VpYS---XR-AA---	Pred
+17	vždy	Db-------------	Adv
+18	zájem	NNIS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+cmpr9406-043-p10s1
+1	Šikovnost	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	pozná	VB-S---3P-AA---	Pred
+
+cmpr9406-043-p11s1
+1	Schopnost	NNFS1-----A----	Sb
+2	člověka	NNMS2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	tuto	PDFS4----------	Atr
+5	práci	NNFS4-----A----	Atr
+6	a	J^-------------	Coord
+7	vztah	NNIS1-----A----	Sb
+8	k	RR--3----------	AuxP
+9	ní	P5FS3--3-------	Atr
+10	se	P7-X4----------	AuxR
+11	pozná	VB-S---3P-AA---	Pred
+12	spíš	Dg-------2A----	Adv
+13	například	Db-------------	AuxZ
+14	na	RR--6----------	AuxP
+15	tom	PDZS6----------	Adv
+16	,	Z:-------------	AuxX
+17	jak	Db-------------	Adv
+18	kdo	PKM-1----------	Sb
+19	zachází	VB-S---3P-AA---	Atr
+20	s	RR--7----------	AuxP
+21	nářadím	NNNS7-----A----	Obj
+22	a	J^-------------	Coord
+23	nástroji	NNIP7-----A----	Obj
+24	,	Z:-------------	AuxX
+25	než	J,-------------	AuxC
+26	na	RR--6----------	AuxP
+27	výučním	AAIS6----1A----	Atr
+28	listu	NNIS6-----A---1	ExD
+29	.	Z:-------------	AuxK
+
+cmpr9406-043-p11s2
+1	Někdo	PZM-1----------	Sb
+2	si	P7-X3----------	Obj
+3	přinese	VB-S---3P-AA---	Pred
+4	svoje	P8NS4----------	Atr
+5	nářadí	NNNS4-----A----	Obj
+6	,	Z:-------------	Coord
+7	jiní	AAMP1----1A----	Atr
+8	zaměstnanci	NNMP1-----A----	Sb
+9	je	PPNS4--3-------	Obj
+10	vyfasují	VB-P---3P-AA---	Pred
+11	na	RR--4----------	AuxP
+12	osobní	AAFS4----1A----	Atr
+13	kartu	NNFS4-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9406-043-p11s3
+1	Jak	Db-------------	Adv
+2	si	P7-X3----------	AuxT
+3	jich	PPXP2--3-------	Obj
+4	váží	VB-P---3P-AA---	Sb
+5	,	Z:-------------	AuxX
+6	je	VB-S---3P-AA---	Pred
+7	vidět	Vf--------A----	Pnom
+8	na	RR--6----------	AuxP
+9	opotřebení	NNNS6-----A----	Adv
+10	nástrojů	NNIP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	na	RR--6----------	AuxP
+13	tom	PDZS6----------	Adv
+14	,	Z:-------------	AuxX
+15	zda	J,-------------	AuxC
+16	je	PPXP4--3-------	Obj
+17	jen	TT-------------	AuxZ
+18	tak	Db-------------	Adv
+19	pohodí	VB-P---3P-AA---	Atr
+20	nebo	J^-------------	Coord
+21	naopak	Db-------------	Adv
+22	pečlivě	Dg-------1A----	Adv
+23	zamykají	VB-P---3P-AA---	Atr
+24	(	Z:-------------	AuxG
+25	každý	AAMS1----1A----	Sb
+26	má	VB-S---3P-AA---	Pred
+27	pro	RR--4----------	AuxP
+28	to	PDNS4----------	Adv
+29	vyhrazený	AAIS4----1A----	Atr
+30	prostor	NNIS4-----A----	Obj
+31	)	Z:-------------	AuxG
+32	,	Z:-------------	Coord
+33	jak	Db-------------	Adv
+34	jsou	VB-P---3P-AA---	Atr
+35	ochotni	ACMP------A----	Pnom
+36	je	PPXP4--3-------	Obj
+37	půjčovat	Vf--------A----	Obj
+38	a	J^-------------	Coord
+39	komu	PKM-3----------	ExD
+40	.	Z:-------------	AuxK
+
+cmpr9406-043-p12s1
+1	Nedostatek	NNIS4-----A----	Obj
+2	lidí	NNMP2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	kteří	P4MP1----------	Sb
+5	umějí	VB-P---3P-AA---	Atr
+6	pracovat	Vf--------A----	Obj
+7	se	RV--7----------	AuxP
+8	dřevem	NNNS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	na	RR--6----------	AuxP
+11	trhu	NNIS6-----A----	Atr
+12	práce	NNFS2-----A----	Atr
+13	si	P7-X3----------	AuxT
+14	firma	NNFS1-----A----	Sb
+15	Nekima	NNFS1-----A----	Atr
+16	uvědomuje	VB-S---3P-AA---	Pred
+17	zejména	Db-------------	AuxZ
+18	nyní	Db-------------	Adv
+19	,	Z:-------------	AuxX
+20	kdy	Db-------------	Adv
+21	by	Vc-------------	AuxV
+22	chtěla	VpQW---XR-AA---	Adv
+23	přijmout	Vf--------A----	Obj
+24	další	AAMP4----1A----	Atr
+25	zaměstnance	NNMP4-----A----	Obj
+26	s	RR--7----------	AuxP
+27	ohledem	NNIS7-----A----	AuxP
+28	na	RR--4----------	AuxP
+29	zamýšlené	AANS4----1A----	Atr
+30	rozšíření	NNNS4-----A----	Adv
+31	výroby	NNFS2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+cmpr9406-043-p12s2
+1	Vhodné	AAMP4----1A----	Atr
+2	adepty	NNMP4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	zaměstnání	NNNS4-----A----	Atr
+5	nachází	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	na	RR--6----------	AuxP
+8	úřadech	NNIP6-----A----	Adv
+9	práce	NNFS2-----A----	Atr
+10	obtížně	Dg-------1A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9406-043-p13s1
+1	Roli	NNFS4-----A----	Obj
+2	hraje	VB-S---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	určitá	AAFS1----1A----	Atr
+5	fluktuace	NNFS1-----A----	Sb
+6	zaměstnanců	NNMP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9406-043-p13s2
+1	Ze	RV--2----------	AuxP
+2	stálého	AAIS2----1A----	Atr
+3	počtu	NNIS2-----A----	Atr
+4	potřebných	AAMP2----1A----	Atr
+5	třiceti	Cn-P2----------	Atr
+6	pracovníků	NNMP2-----A----	Atr
+7	se	P7-X4----------	Obj
+8	jich	PPXP2--3-------	Atr
+9	asi	TT-------------	AuxZ
+10	deset	Cn-S1----------	Sb
+11	vystřídalo	VpNS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+cmpr9406-043-p13s3
+1	S	RR--7----------	AuxP
+2	některými	PZXP7----------	ExD
+3	firma	NNFS1-----A----	Sb
+4	musela	VpQW---XR-AA---	Pred
+5	rozvázat	Vf--------A----	Obj
+6	pracovní	AAIS4----1A----	Atr
+7	poměr	NNIS4-----A----	Obj
+8	právě	Db-------------	AuxZ
+9	pro	RR--4----------	AuxP
+10	vážné	AAIP4----1A----	Atr
+11	přestupky	NNIP4-----A----	Adv
+12	v	RR--6----------	AuxP
+13	pracovní	AAFS6----1A----	Atr
+14	kázni	NNFS6-----A----	Atr
+15	(	Z:-------------	AuxG
+16	absence	NNFP1-----A----	Atr
+17	,	Z:-------------	Coord
+18	alkohol	NNIS1-----A----	Atr
+19	)	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+cmpr9406-043-p13s4
+1	Častěji	Dg-------2A----	Adv
+2	se	P7-X4----------	AuxR
+3	však	J^-------------	Coord
+4	porušení	NNNS1-----A----	Sb
+5	pracovní	AAFS2----1A----	Atr
+6	kázně	NNFS2-----A----	Atr
+7	řeší	VB-S---3P-AA---	Pred
+8	mírnějšími	AAIP7----2A----	Atr
+9	prostředky	NNIP7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9406-043-p13s5
+1	Záleží	VB-S---3P-AA---	Pred
+2	na	RR--6----------	AuxP
+3	přestupku	NNIS6-----A----	Obj
+4	i	J^-------------	Coord
+5	na	RR--6----------	AuxP
+6	typu	NNIS6-----A----	Obj
+7	člověka	NNMS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9406-043-p13s6
+1	Na	RR--4----------	AuxP
+2	každého	AAMS4----1A----	Adv
+3	platí	VB-S---3P-AA---	Pred
+4	něco	PZ--1----------	Sb
+5	jiného	AANS2----1A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9406-043-p13s7
+1	S	RR--7----------	AuxP
+2	někým	PZM-7----------	Obj
+3	stačí	VB-S---3P-AA---	Pred
+4	promluvit	Vf--------A----	Sb
+5	a	J^-------------	Coord
+6	on	PPYS1--3-------	Sb
+7	si	P7-X3----------	AuxT
+8	to	PDNS4----------	Obj
+9	bude	VB-S---3F-AA---	AuxV
+10	pro	RR--4----------	AuxP
+11	příště	Db-------------	Adv
+12	pamatovat	Vf--------A----	Pred
+13	,	Z:-------------	Coord
+14	jindy	Db-------------	Adv
+15	je	VB-S---3P-AA---	Pred
+16	větším	AANS7----2A----	Atr
+17	ponaučením	NNNS7-----A----	Pnom
+18	krácení	NNNS1-----A----	Sb
+19	prémií	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9406-043-p13s8
+1	Pokud	J,-------------	AuxC
+2	prémie	NNFP1-----A----	Sb
+3	tvoří	VB-P---3P-AA---	Adv
+4	70	C=-------------	Obj
+5	až	J^-------------	Coord
+6	80	C=-------------	Obj
+7	%	Z:-------------	Atr
+8	základního	AAIS2----1A----	Atr
+9	platu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	se	P7-X4----------	AuxT
+13	pohybuje	VB-S---3P-AA---	Atr
+14	nad	RR--7----------	AuxP
+15	celostátním	AAIS7----1A----	Atr
+16	průměrem	NNIS7-----A----	Adv
+17	,	Z:-------------	AuxX
+18	může	VB-S---3P-AA---	Pred
+19	to	PDNS1----------	Sb
+20	být	Vf--------A----	Obj
+21	postih	NNIS1-----A----	Pnom
+22	dost	Dg-------1A----	Adv
+23	citelný	AAIS1----1A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9406-043-p14s1
+1	Organizace	NNFS1-----A----	ExD
+2	práce	NNFS2-----A----	Atr
+
+cmpr9406-043-p15s1
+1	Zaměstnanci	NNMP1-----A----	Sb
+2	u	RR--2----------	AuxP
+3	firmy	NNFS2-----A----	Atr
+4	Nekima	NNFS1-----A----	Atr
+5	procházejí	VB-P---3P-AA---	Pred
+6	obvyklou	AAFS7----1A----	Atr
+7	zkušební	AAFS7----1A----	Atr
+8	dobou	NNFS7-----A----	Adv
+9	dva	ClYP4----------	Atr
+10	až	J^-------------	Coord
+11	tři	ClXP4----------	Atr
+12	měsíce	NNIP4-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9406-043-p15s2
+1	Absolvují	VB-P---3P-AA---	Pred
+2	bezpečnostní	AANS4----1A----	Atr
+3	školení	NNNS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	o	RR--6----------	AuxP
+6	kterém	P4ZS6----------	Adv
+7	firma	NNFS1-----A----	Sb
+8	vede	VB-S---3P-AA---	Atr
+9	evidenci	NNFS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9406-043-p15s3
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	důležité	AANS1----1A----	Pnom
+4	pro	RR--4----------	AuxP
+5	obě	ClHP4----------	Atr
+6	zúčastněné	AAFP4----1A----	Atr
+7	strany	NNFP4-----A----	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9406-043-p15s4
+1	Zaměstnanci	NNMP1-----A----	Sb
+2	se	P7-X4----------	Obj
+3	důkladně	Dg-------1A----	Adv
+4	seznámí	VB-P---3P-AA---	Pred
+5	s	RR--7----------	AuxP
+6	předpisy	NNIP7-----A----	Obj
+7	pro	RR--4----------	AuxP
+8	práci	NNFS4-----A----	Atr
+9	u	RR--2----------	AuxP
+10	pily	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	dalších	AAIP2----1A----	Atr
+13	strojů	NNIP2-----A----	Atr
+14	,	Z:-------------	Coord
+15	firma	NNFS1-----A----	Sb
+16	je	VB-S---3P-AA---	Pred
+17	kryta	VsQW---XX-AP---	Pnom
+18	v	RR--6----------	AuxP
+19	případě	NNIS6-----A----	Adv
+20	úrazu	NNIS2-----A----	Atr
+21	zaviněného	AAIS2----1A----	Atr
+22	nedbalostí	NNFS7-----A----	Adv
+23	pracovníka	NNMS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9406-043-p15s5
+1	Školení	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	pravidelně	Dg-------1A----	Adv
+4	podle	RR--2----------	AuxP
+5	předpisů	NNIP2-----A----	Adv
+6	opakuje	VB-S---3P-AA---	Pred
+7	.	Z:-------------	AuxK
+
+cmpr9406-043-p16s1
+1	Práci	NNFS4-----A----	Obj
+2	řídí	VB-S---3P-AA---	Pred
+3	vedoucí	NNMS1-----A----	Sb
+4	výroby	NNFS2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+cmpr9406-043-p16s2
+1	Zodpovídá	VB-S---3P-AA---	Pred
+2	za	RR--4----------	AuxP
+3	využití	NNNS4-----A----	Obj
+4	pracovní	AAFS2----1A----	Atr
+5	doby	NNFS2-----A----	Atr
+6	a	J^-------------	Coord
+7	rozumné	AANS4----1A----	Atr
+8	vytížení	NNNS4-----A----	Obj
+9	celého	AAIS2----1A----	Atr
+10	strojového	AAIS2----1A----	Atr
+11	parku	NNIS2-----A----	Atr
+12	,	Z:-------------	Coord
+13	spolu	Db-------------	AuxP
+14	s	RR--7----------	AuxP
+15	předáky	NNMP7-----A----	ExD
+16	pak	Db-------------	ExD
+17	i	J^-------------	AuxZ
+18	za	RR--4----------	AuxP
+19	výběr	NNIS4-----A----	ExD
+20	vhodného	AAIS2----1A----	Atr
+21	materiálu	NNIS2-----A----	Atr
+22	pro	RR--4----------	AuxP
+23	ten	PDIS4----------	Atr
+24	který	P4IS4----------	Atr
+25	výrobek	NNIS4-----A----	Atr
+26	.	Z:-------------	AuxK
+
+cmpr9406-043-p16s3
+1	Předáci	NNMP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	u	RR--2----------	AuxP
+4	každého	AAIS2----1A----	Atr
+5	jednotlivého	AAIS2----1A----	Atr
+6	stroje	NNIS2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9406-043-p16s4
+1	Mají	VB-P---3P-AA---	Pred
+2	odpovědnost	NNFS4-----A----	Obj
+3	za	RR--4----------	AuxP
+4	využití	NNNS4-----A----	Atr
+5	tohoto	PDZS2----------	Atr
+6	stroje	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kvalitu	NNFS4-----A----	Atr
+9	práce	NNFS2-----A----	Atr
+10	i	J^-------------	Coord
+11	dobrý	AAIS4----1A----	Atr
+12	stav	NNIS4-----A----	Atr
+13	zařízení	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9406-043-p17s1
+1	Výkon	NNIS1-----A----	ExD
+2	podle	RR--2----------	AuxP
+3	měření	NNNS2-----A----	Atr
+
+cmpr9406-043-p18s1
+1	Každý	AAMS1----1A----	Sb
+2	z	RR--2----------	AuxP
+3	mistrů	NNMP2-----A----	Atr
+4	má	VB-S---3P-AA---	Pred
+5	mimo	RR--4----------	AuxP
+6	jiné	AANS4----1A----	Adv
+7	i	J^-------------	AuxZ
+8	sešit	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	do	RR--2----------	AuxP
+11	kterého	P4ZS2----------	Adv
+12	zapisuje	VB-S---3P-AA---	Atr
+13	výkon	NNIS4-----A----	Obj
+14	stroje	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9406-043-p18s2
+1	To	PDNS1----------	Sb
+2	slouží	VB-S---3P-AA---	Pred
+3	především	Db-------------	AuxZ
+4	jako	J,-------------	AuxY
+5	údaje	NNIP1-----A----	Atv
+6	pro	RR--4----------	AuxP
+7	ergonomii	NNFS4-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9406-043-p18s3
+1	Firma	NNFS1-----A----	Sb
+2	si	P7-X3----------	Adv
+3	totiž	Db-------------	AuxY
+4	dává	VB-S---3P-AA---	Pred
+5	zpracovat	Vf--------A----	Obj
+6	studii	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	má	VB-S---3P-AA---	Atr
+10	také	Db-------------	Adv
+11	určit	Vf--------A----	Obj
+12	optimální	AANS4----1A----	Atr
+13	rozmístění	NNNS4-----A----	Obj
+14	strojů	NNIP2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	daném	AAIS6----1A----	Atr
+17	prostoru	NNIS6-----A----	Atr
+18	,	Z:-------------	AuxX
+19	aby	J,-------------	AuxC
+20	se	P7-X4----------	AuxR
+21	eliminoval	VpYS---XR-AA---	Adv
+22	nadbytečný	AAIS1----1A----	Atr
+23	pohyb	NNIS1-----A----	Sb
+24	materiálu	NNIS2-----A----	Atr
+25	a	J^-------------	Coord
+26	lidé	NNMP1-----A---1	Sb
+27	se	P7-X4----------	AuxT
+28	zbytečně	Dg-------1A----	Adv
+29	nenaběhali	VpMP---XR-NA---	Adv
+30	.	Z:-------------	AuxK
+
+cmpr9406-043-p18s4
+1	Jistě	Dg-------1A----	Adv
+2	by	Vc-------------	AuxV
+3	šlo	VpNS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	u	RR--2----------	AuxP
+7	některého	PZZS2----------	Atr
+8	stroje	NNIS2-----A----	Adv
+9	pracoval	VpYS---XR-AA---	Sb
+10	například	Db-------------	AuxZ
+11	jen	TT-------------	AuxZ
+12	jeden	ClYS1----------	Atr
+13	člověk	NNMS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	ne	TT-------------	AuxZ
+17	dva	ClYP1----------	ExD
+18	jako	J,-------------	AuxC
+19	nyní	Db-------------	ExD
+20	.	Z:-------------	AuxK
+
+cmpr9406-043-p18s5
+1	Pak	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	rychleji	Dg-------2A----	Adv
+5	unavil	VpYS---XR-AA---	Pred
+6	,	Z:-------------	Coord
+7	snížila	VpQW---XR-AA---	Pred
+8	by	Vc-------------	AuxV
+9	se	P7-X4----------	AuxR
+10	jeho	PSXXXZS3-------	Atr
+11	pozornost	NNFS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+cmpr9406-043-p18s6
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	to	PDNS4----------	Obj
+4	najít	Vf--------A----	Atr
+5	nejlepší	AAIS4----3A----	Atr
+6	poměr	NNIS4-----A----	Obj
+7	výkonu	NNIS2-----A----	Atr
+8	stroje	NNIS2-----A----	Atr
+9	a	J^-------------	Coord
+10	lidí	NNMP2-----A----	Atr
+11	vzhledem	RF-------------	AuxP
+12	k	RR--3----------	AuxP
+13	požadované	AAFS3----1A----	Atr
+14	kvalitě	NNFS3-----A----	Adv
+15	práce	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	i	J^-------------	Coord
+18	v	RR--6----------	AuxP
+19	návaznosti	NNFS6-----A----	Adv
+20	na	RR--4----------	AuxP
+21	finanční	AANS4----1A----	Atr
+22	ohodnocení	NNNS4-----A----	Atr
+23	zaměstnanců	NNMP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9406-043-p19s1
+1	Od	RR--2----------	AuxP
+2	letošního	AAIS2----1A----	Atr
+3	roku	NNIS2-----A---1	Adv
+4	firma	NNFS1-----A----	Sb
+5	počítá	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	s	RR--7----------	AuxP
+8	funkcí	NNFS7-----A----	Obj
+9	směnového	AAMS2----1A----	Atr
+10	předáka	NNMS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	protože	J,-------------	AuxC
+13	zavádí	VB-S---3P-AA---	Adv
+14	provoz	NNIS4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	dvě	ClHP4----------	Atr
+17	směny	NNFP4-----A----	Atr
+18	,	Z:-------------	AuxX
+19	aby	J,-------------	AuxC
+20	zvládla	VpQW---XR-AA--1	Adv
+21	požadavky	NNIP4-----A----	Obj
+22	zákazníků	NNMP2-----A----	Atr
+23	a	J^-------------	Coord
+24	v	RR--6----------	AuxP
+25	neposlední	AAFS6----1N----	Atr
+26	řadě	NNFS6-----A----	Adv
+27	lépe	Dg-------2A----	Adv
+28	využila	VpQW---XR-AA---	Adv
+29	stroje	NNIP4-----A----	Obj
+30	,	Z:-------------	AuxX
+31	které	P4YP4----------	Obj
+32	nesnadno	Dg-------1N----	Adv
+33	kupovala	VpQW---XR-AA---	Atr
+34	s	RR--7----------	AuxP
+35	využitím	NNNS7-----A----	Adv
+36	úvěrů	NNIP2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+cmpr9406-043-p20s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Nekima	NNFS1-----A----	ExD
+4	,	Z:-------------	AuxX
+5	s	NNFXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	r	NNNS7-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	o	AANS7----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	,	Z:-------------	AuxX
+12	Pod	RR--7----------	AuxP
+13	strání	NNFS7-----A----	Atr
+14	6	C=-------------	Atr
+15	,	Z:-------------	AuxX
+16	277	C=-------------	Atr
+17	51	C=-------------	Atr
+18	Nelahozeves	NNFS1-----A----	Atr
+19	,	Z:-------------	AuxX
+20	tel	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	:	Z:-------------	AuxG
+23	(	Z:-------------	AuxG
+24	0205	C=-------------	Atr
+25	)	Z:-------------	AuxG
+26	245	C=-------------	Atr
+27	47	C=-------------	Atr
+28	,	Z:-------------	Coord
+29	FAX	NNIS1-----A----	Atr
+30	:	Z:-------------	AuxG
+31	(	Z:-------------	AuxG
+32	0205	C=-------------	Atr
+33	)	Z:-------------	AuxG
+34	245	C=-------------	Atr
+35	47	C=-------------	Atr
+36	.	Z:-------------	AuxK
+
+cmpr9406-043-p20s2
+1	(	Z:-------------	ExD
+2	text	NNIS1-----A----	ExD
+3	k	RR--3----------	AuxP
+4	obrázku	NNIS3-----A----	Atr
+5	)	Z:-------------	ExD
+
+cmpr9406-043-p21s1A
+1	I	J^-------------	AuxZ
+2	NÁŘADÍ	NNNS1-----A----	Sb
+3	UMÍ	VB-S---3P-AA---	Pred
+4	VYPOVÍDAT	Vf--------A----	Obj
+5	:	Z:-------------	AuxK
+
+cmpr9406-043-p21s1B
+1	Prozradí	VB-S---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	zda	J,-------------	AuxC
+4	s	RR--7----------	AuxP
+5	ním	P5ZS7--3-------	Obj
+6	zachází	VB-S---3P-AA---	Obj
+7	neumětel	NNMS1-----A----	Sb
+8	nebo	J^-------------	Coord
+9	mistr	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+

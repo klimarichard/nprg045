@@ -1,0 +1,458 @@
+vesm9301-008-p1s1
+1	HYPERTEXT	NNIS1-----A----	ExD
+2	,	Z:-------------	Coord
+3	HYPERKNIHOVNA	NNFS1-----A----	ExD
+
+vesm9301-008-p2s1
+1	A	J^-------------	Coord
+2	NEBEZPEČÍ	NNNS1-----A----	ExD
+3	DEMOKRATIZACE	NNFS2-----A----	Atr
+4	LITERATURY	NNFS2-----A----	Atr
+5	?	Z:-------------	AuxK
+
+vesm9301-008-p3s1
+1	Co	PQ--1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	to	PDNS1----------	AuxO
+4	hypertext	NNIS1-----A----	Pnom
+5	?	Z:-------------	AuxK
+
+vesm9301-008-p3s2
+1	Velmi	Db-------------	Adv
+2	stručně	Dg-------1A----	Adv
+3	řečeno	VsNS---XX-AP---	Adv
+4	je	VB-S---3P-AA---	Pred
+5	to	PDNS1----------	Sb
+6	síť	NNFS1-----A----	Pnom
+7	vzájemně	Dg-------1A----	Adv
+8	propojených	AAFP2----1A----	Atr
+9	textových	AAFP2----1A----	Atr
+10	a	J^-------------	Coord
+11	jiných	AAFP2----1A----	Atr
+12	informací	NNFP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	elektronické	AAFS6----1A----	Atr
+15	podobě	NNFS6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	jíž	PJFS7----------	Adv
+18	se	P7-X4----------	AuxT
+19	čtenář	NNMS1-----A----	Sb
+20	může	VB-S---3P-AA---	Atr
+21	pohybovat	Vf--------A----	Obj
+22	podle	RR--2----------	AuxP
+23	své	P8FS2---------1	Atr
+24	vůle	NNFS2-----A----	Adv
+25	.	Z:-------------	AuxK
+
+vesm9301-008-p3s3
+1	Přestože	J,-------------	AuxC
+2	v	RR--6----------	AuxP
+3	tradičním	AAIS6----1A----	Atr
+4	textu	NNIS6-----A----	Adv
+5	může	VB-S---3P-AA---	Adv
+6	čtenář	NNMS1-----A----	Sb
+7	přeskakovat	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	postupné	AANS1----1A----	Atr
+10	,	Z:-------------	Coord
+11	lineární	AANS1----1A----	Atr
+12	uspořádání	NNNS1-----A----	Sb
+13	je	VB-S---3P-AA---	Pred
+14	usnadněno	VsNS---XX-AP---	Pnom
+15	fyzickým	AANS7----1A----	Atr
+16	uspořádáním	NNNS7-----A----	Adv
+17	a	J^-------------	Coord
+18	záměrem	NNIS7-----A----	Adv
+19	autora	NNMS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+vesm9301-008-p3s4
+1	Hypertext	NNIS1-----A----	Sb
+2	nemá	VB-S---3P-NA---	Pred
+3	preferované	AANS4----1A----	Atr
+4	pořadí	NNNS4-----A----	Obj
+5	,	Z:-------------	Coord
+6	každý	AAMS1----1A----	Atr
+7	čtenář	NNMS1-----A----	Sb
+8	si	P7-X3----------	Adv
+9	může	VB-S---3P-AA---	Pred
+10	zvolit	Vf--------A----	Obj
+11	svou	P8FS4---------1	Atr
+12	vlastní	AAFS4----1A----	Atr
+13	cestu	NNFS4-----A----	Obj
+14	sítí	NNFS7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9301-008-p3s5
+1	Nejen	TT-------------	AuxZ
+2	to	PDNS1----------	ExD
+3	.	Z:-------------	AuxK
+
+vesm9301-008-p3s6
+1	Zatímco	J,-------------	AuxC
+2	tradiční	AAIS1----1A----	Atr
+3	text	NNIS1-----A----	Sb
+4	je	VB-S---3P-AA---	Adv
+5	statický	AAIS1----1A----	Pnom
+6	a	J^-------------	Coord
+7	definitivní	AAIS1----1A----	Pnom
+8	(	Z:-------------	AuxG
+9	až	TT-------------	AuxZ
+10	na	RR--4----------	AuxP
+11	poznámky	NNFP4-----A----	Adv
+12	čtenáře	NNMS2-----A----	Atr
+13	do	RR--2----------	AuxP
+14	textu	NNIS2-----A----	Atr
+15	)	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	je	VB-S---3P-AA---	Pred
+18	hypertext	NNIS1-----A----	Sb
+19	svou	P8FS7---------1	Atr
+20	podstatou	NNFS7-----A----	Pnom
+21	"	Z:-------------	AuxG
+22	dočasný	AAIS1----1A----	Pnom
+23	"	Z:-------------	AuxG
+24	,	Z:-------------	Coord
+25	dynamický	AAIS1----1A----	Pnom
+26	-	Z:-------------	Apos
+27	čtenář	NNMS1-----A----	Sb
+28	hypertextu	NNIS2-----A----	Atr
+29	jej	PPZS4--3------2	Obj
+30	může	VB-S---3P-AA---	Pnom
+31	měnit	Vf--------A----	Obj
+32	.	Z:-------------	AuxK
+
+vesm9301-008-p4s1
+1	Jeden	ClYS1----------	Sb
+2	z	RR--2----------	AuxP
+3	klasiků	NNMP2-----A----	Atr
+4	hypertextu	NNIS2-----A----	Atr
+5	jej	PPZS4--3------2	Obj
+6	popisuje	VB-S---3P-AA---	Pred
+7	přirovnáním	NNNS7-----A----	Adv
+8	k	RR--3----------	AuxP
+9	architektuře	NNFS3-----A----	Atr
+10	.	Z:-------------	AuxK
+
+vesm9301-008-p4s2
+1	Budova	NNFS1-----A----	Sb
+2	také	Db-------------	Adv
+3	nemá	VB-S---3P-NA---	Pred
+4	fixní	AAFS4----1A----	Atr
+5	cestu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	jak	Db-------------	Adv
+8	jí	PPFS7--3-------	Adv
+9	máte	VB-P---2P-AA---	Atr
+10	projít	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	dobrý	AAMS1----1A----	Atr
+14	architekt	NNMS1-----A----	Sb
+15	může	VB-S---3P-AA---	Pred
+16	(	Z:-------------	Apos
+17	musí	VB-S---3P-AA---	Pred
+18	)	Z:-------------	AuxG
+19	pečlivě	Dg-------1A----	Adv
+20	naplánovat	Vf--------A----	Obj
+21	každou	AAFS4----1A----	Atr
+22	možnou	AAFS4----1A----	Atr
+23	cestu	NNFS4-----A----	Obj
+24	,	Z:-------------	AuxX
+25	každý	AAIS4----1A----	Atr
+26	pohled	NNIS4-----A----	Obj
+27	,	Z:-------------	Coord
+28	každý	AAIS4----1A----	Atr
+29	vztah	NNIS4-----A----	Obj
+30	tak	Db-------------	Adv
+31	,	Z:-------------	AuxX
+32	aby	J,-------------	AuxC
+33	se	P7-X4----------	AuxT
+34	líbil	VpYS---XR-AA---	Adv
+35	,	Z:-------------	Coord
+36	byl	VpYS---XR-AA---	Adv
+37	funkční	AAIS1----1A----	Pnom
+38	a	J^-------------	Coord
+39	smysluplný	AAIS1----1A----	Pnom
+40	.	Z:-------------	AuxK
+
+vesm9301-008-p4s3
+1	Mnohost	NNFS1-----A----	Sb
+2	výběru	NNIS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	výzva	NNFS1-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	také	Db-------------	Adv
+8	architekta	NNMS4-----A----	Obj
+9	inspiruje	VB-S---3P-AA---	Atr
+10	k	RR--3----------	AuxP
+11	větší	AAFS3----2A----	Atr
+12	tvořivosti	NNFS3-----A----	Obj
+13	.	Z:-------------	AuxK
+
+vesm9301-008-p4s4
+1	Dále	Db------------1	Adv
+2	může	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	AuxV
+4	budova	NNFS1-----A----	Sb
+5	(	Z:-------------	AuxG
+6	časem	NNIS7-----A----	Adv
+7	)	Z:-------------	AuxG
+8	rekonstruována	VsQW---XX-AP---	Obj
+9	,	Z:-------------	AuxX
+10	rozšířena	VsQW---XX-AP---	Obj
+11	,	Z:-------------	Coord
+12	adaptována	VsQW---XX-AP---	Obj
+13	podle	RR--2----------	AuxP
+14	užívání	NNNS2-----A----	Adv
+15	a	J^-------------	Coord
+16	chuti	NNFS2-----A---1	Adv
+17	vlastníka	NNMS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9301-008-p4s5
+1	Přesto	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxR
+3	na	RR--4----------	AuxP
+4	ni	P5FS4--3-------	Obj
+5	nenahlíží	VB-S---3P-NA---	Pred
+6	,	Z:-------------	AuxX
+7	jako	J,-------------	AuxC
+8	by	Vc-------------	AuxV
+9	tím	PDZS7----------	Adv
+10	ztrácela	VpQW---XR-AA---	Adv
+11	hodnotu	NNFS4-----A----	Obj
+12	(	Z:-------------	AuxG
+13	pokud	J,-------------	AuxC
+14	změny	NNFP1-----A----	Sb
+15	ovšem	J^-------------	AuxY
+16	nezničí	VB-P---3P-NA---	Adv
+17	její	PSFSXFS3-------	Atr
+18	vnitřní	AAFS4----1A----	Atr
+19	jednotu	NNFS4-----A----	Obj
+20	)	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+vesm9301-008-p5s1
+1	Hypertext	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	může	VB-S---3P-AA---	Pred
+4	stát	Vf--------A----	Obj
+5	součástí	NNFS7-----A----	Obj
+6	větší	AAFS2----2A----	Atr
+7	elektronické	AAFS2----1A----	Atr
+8	sítě	NNFS2-----A----	Atr
+9	textové	AAFS2----1A----	Atr
+10	,	Z:-------------	AuxX
+11	hypertextové	AAFS2----1A----	Atr
+12	a	J^-------------	Coord
+13	jiné	AAFS2----1A----	Atr
+14	informace	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	tj	J^------------8	Apos
+17	.	Z:-------------	AuxG
+18	může	VB-S---3P-AA---	Pred
+19	vést	Vf--------A----	Obj
+20	k	RR--3----------	AuxP
+21	vytvoření	NNNS3-----A----	Adv
+22	propojené	AAFS2----1A----	Atr
+23	,	Z:-------------	Coord
+24	měnící	AGFS2-----A----	Atr
+25	se	P7-X4----------	AuxT
+26	univerzální	AAFS2----1A----	Atr
+27	"	Z:-------------	AuxG
+28	hyperknihovny	NNFS2-----A----	Atr
+29	"	Z:-------------	AuxG
+30	znalostí	NNFP2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+vesm9301-008-p5s2
+1	Autorita	NNFS1-----A----	Sb
+2	(	Z:-------------	Apos
+3	autokracie	NNFS1-----A----	Sb
+4	?	Z:-------------	AuxG
+5	)	Z:-------------	AuxG
+6	tradičního	AAMS2----1A----	Atr
+7	autora	NNMS2-----A----	Atr
+8	je	VB-S---3P-AA---	AuxV
+9	demokratizována	VsQW---XX-AP---	Pred
+10	smazáním	NNNS7-----A----	Adv
+11	rozdílu	NNIS2-----A----	Atr
+12	mezi	RR--7----------	AuxP
+13	autorem	NNMS7-----A----	Atr
+14	a	J^-------------	Coord
+15	čtenářem	NNMS7-----A----	Atr
+16	.	Z:-------------	AuxK
+
+vesm9301-008-p5s3
+1	Existuje	VB-S---3P-AA---	Pred
+2	však	J^-------------	AuxY
+3	nebezpečí	NNNS1-----A----	Sb
+4	obrácené	AAFS2----1A----	Atr
+5	zásady	NNFS2-----A----	Atr
+6	"	Z:-------------	AuxG
+7	noblesse	AAXXX----1A----	Atr
+8	oblige	NNXXX-----A----	Atr
+9	"	Z:-------------	AuxG
+10	:	Z:-------------	AuxG
+11	Nadaní	AAMP1----1A----	Atr
+12	autoři	NNMP1-----A----	Sb
+13	budou	VB-P---3F-AA---	AuxV
+14	odrazováni	VsMP---XX-AP---	Atr
+15	usilovat	Vf--------A----	Obj
+16	o	RR--4----------	AuxP
+17	dokonalost	NNFS4-----A----	Obj
+18	;	Z:-------------	AuxK
+
+vesm9301-008-p5s4
+1	čas	NNIS4-----A----	Obj
+2	a	J^-------------	Coord
+3	prostor	NNIS4-----A----	Obj
+4	budou	VB-P---3F-AA---	AuxV
+5	uzurpovat	Vf--------A----	Pred
+6	polovzdělaní	AAMP1----1A----	Atr
+7	spisovatelé	NNMP1-----A----	Sb
+8	;	Z:-------------	AuxK
+
+vesm9301-008-p5s5
+1	literatura	NNFS1-----A----	Sb
+2	jako	J,-------------	AuxY
+3	celek	NNIS1-----A----	Atv
+4	bude	VB-S---3F-AA---	AuxV
+5	upadat	Vf--------A----	Pred
+6	.	Z:-------------	AuxK
+
+vesm9301-008-p5s6
+1	Náznak	NNIS4-----A----	Obj
+2	toho	PDZS2----------	Atr
+3	je	VB-S---3P-AA---	Pred
+4	již	Db-------------	Adv
+5	možné	AANS1----1A----	Pnom
+6	spatřovat	Vf--------A----	Sb
+7	v	RR--6----------	AuxP
+8	šíření	NNNS6-----A----	Adv
+9	sítí	NNFP2-----A----	Atr
+10	elektronických	AAFP2----1A----	Atr
+11	novin	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	žalostné	AAFS2----1A----	Atr
+14	kvality	NNFS2-----A----	Atr
+15	jejich	PSXXXXP3-------	Atr
+16	obsahu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9301-008-p6s1
+1	Těmito	PDXP7----------	Atr
+2	otázkami	NNFP7-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	zabývá	VB-S---3P-AA---	Pred
+5	kniha	NNFS1-----A----	Sb
+6	J	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	D	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Boltera	NNMS2-----A----	Atr
+11	(	Z:-------------	ExD
+12	Jay	NNMS1-----A----	Atr
+13	David	NNMS1-----A----	Atr
+14	Bolter	NNMS1-----A----	ExD
+15	:	Z:-------------	Coord
+16	Writing	AAXXX----1A----	Atr
+17	Space	NNIXX-----A----	Atr
+18	:	Z:-------------	AuxG
+19	The	AAXXX----1A----	Atr
+20	Computer	NNIXX-----A----	Atr
+21	,	Z:-------------	AuxG
+22	Hypertext	NNISX-----A----	Atr
+23	,	Z:-------------	AuxG
+24	and	J^-------------	Atr
+25	the	AAXXX----1A----	Atr
+26	History	NNFSX-----A----	Atr
+27	of	RR--X----------	Atr
+28	Writing	NNXXX-----A----	ExD
+29	.	Z:-------------	AuxK
+
+vesm9301-008-p6s3
+1	Bolter	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	dívá	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	elektronický	AAIS4----1A----	Atr
+6	hypertext	NNIS4-----A----	Adv
+7	jako	J,-------------	AuxY
+8	na	RR--4----------	AuxP
+9	konec	NNIS4-----A----	Atv
+10	trvalosti	NNFS2-----A----	Atr
+11	,	Z:-------------	Apos
+12	konec	NNIS4-----A----	Atv
+13	hierarchických	AAFP2----1A----	Atr
+14	hodnot	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9301-008-p6s4
+1	Kniha	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	pojata	VsQW---XX-AP---	Pnom
+4	jako	J,-------------	AuxY
+5	historie	NNFS1-----A----	Atv
+6	psaní	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+vesm9301-008-p6s5
+1	Bolter	NNMS1-----A----	Sb
+2	považuje	VB-S---3P-AA---	Pred
+3	za	RR--4----------	AuxP
+4	psaní	NNNS4-----A----	Obj
+5	i	J^-------------	AuxZ
+6	programování	NNNS4-----A----	Obj
+7	(	Z:-------------	ExD
+8	a	J^-------------	Coord
+9	programátora	NNMS4-----A----	ExD
+10	za	RR--4----------	AuxP
+11	autora	NNMS4-----A----	ExD
+12	)	Z:-------------	ExD
+13	a	J^-------------	Coord
+14	vyvolání	NNNS4-----A----	ExD
+15	programu	NNIS2-----A----	Atr
+16	za	RR--4----------	AuxP
+17	druh	NNIS4-----A----	ExD
+18	čtení	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+vesm9301-008-p7s1
+1	Letmý	AAIS1----1A----	Atr
+2	pohled	NNIS1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	dnešní	AAFS4----1A----	Atr
+5	běžnou	AAFS4----1A----	Atr
+6	publicistiku	NNFS4-----A----	Atr
+7	by	Vc-------------	AuxV
+8	nás	PP-P4--1-------	Obj
+9	mohl	VpYS---XR-AA---	Pred
+10	vést	Vf--------A----	Obj
+11	k	RR--3----------	AuxP
+12	unáhlené	AAFS3----1A----	Atr
+13	odpovědi	NNFS3-----A----	Adv
+14	na	RR--4----------	AuxP
+15	otázku	NNFS4-----A----	Atr
+16	zda	J,-------------	AuxC
+17	se	P7-X4----------	AuxT
+18	odkláníme	VB-P---1P-AA---	Atr
+19	od	RR--2----------	AuxP
+20	lineárního	AANS2----1A----	Atr
+21	deduktivního	AANS2----1A----	Atr
+22	racionálního	AANS2----1A----	Atr
+23	myšlení	NNNS2-----A----	Obj
+24	k	RR--3----------	AuxP
+25	snadnější	AAFS3----2A----	Atr
+26	,	Z:-------------	AuxX
+27	emocionální	AAFS3----1A----	Atr
+28	,	Z:-------------	Coord
+29	amorfní	AAFS3----1A----	Atr
+30	zkušenosti	NNFS3-----A----	Adv
+31	.	Z:-------------	AuxK
+
+vesm9301-008-p8s1
+1	ib	Db------------8	ExD
+

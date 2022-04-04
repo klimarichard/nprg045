@@ -1,0 +1,105 @@
+mf920924-137-p1s1
+1	Univerzitní	AANS1----1A----	Atr
+2	studium	NNNS1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	půjčku	NNFS4-----A----	Atr
+5	V	RR--6----------	AuxP
+6	MAĎARSKU	NNNS6-----A----	Atr
+7	SE	P7-X4----------	AuxR
+8	BUDE	VB-S---3F-AA---	AuxV
+9	PLATIT	Vf--------A----	Pred
+10	ŠKOLNÉ	NNNS1-----A----	Sb
+
+mf920924-137-p2s2
+1	Od	RR--2----------	AuxP
+2	příštího	AAIS2----1A----	Atr
+3	studijního	AAIS2----1A----	Atr
+4	roku	NNIS2-----A---1	Adv
+5	se	P7-X4----------	AuxR
+6	na	RR--6----------	AuxP
+7	maďarských	AAFP6----1A----	Atr
+8	vysokých	AAFP6----1A----	Atr
+9	školách	NNFP6-----A----	Adv
+10	zavádí	VB-S---3P-AA---	Pred
+11	školné	NNNS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+mf920924-137-p2s3
+1	V	RR--6----------	AuxP
+2	první	CrFS6----------	Atr
+3	etapě	NNFS6-----A----	Adv
+4	bude	VB-S---3F-AA---	AuxV
+5	představovat	Vf--------A----	Pred
+6	dva	ClYP4----------	Atr
+7	tisíce	NNIP4-----A----	Obj
+8	forintů	NNIP2-----A----	Atr
+9	(	Z:-------------	Apos
+10	asi	TT-------------	AuxZ
+11	650	C=-------------	Obj
+12	Kčs	NNFXX-----A---8	Atr
+13	)	Z:-------------	AuxG
+14	měsíčně	Dg-------1A----	Adv
+15	a	J^-------------	Coord
+16	po	RR--6----------	AuxP
+17	dalším	AAIS6----1A----	Atr
+18	roce	NNIS6-----A---1	ExD
+19	čtyři	ClXP4----------	Atr
+20	tisíce	NNIP4-----A----	ExD
+21	forintů	NNIP2-----A----	Atr
+22	(	Z:-------------	Apos
+23	1300	C=-------------	ExD
+24	Kčs	NNFXX-----A---8	Atr
+25	)	Z:-------------	AuxG
+26	měsíčně	Dg-------1A----	ExD
+27	.	Z:-------------	AuxK
+
+mf920924-137-p3s1
+1	Rozhodnutí	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	zdůvodněno	VsNS---XX-AP---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	tato	PDFS1----------	Atr
+7	částka	NNFS1-----A----	Sb
+8	pokryje	VB-S---3P-AA---	Obj
+9	jen	TT-------------	AuxZ
+10	osm	Cn-S4----------	Obj
+11	procent	NNNP2-----A----	Atr
+12	nákladů	NNIP2-----A----	Atr
+13	spojených	AAIP2----1A----	Atr
+14	se	RV--7----------	AuxP
+15	studiem	NNNS7-----A----	Obj
+16	na	RR--6----------	AuxP
+17	vysokých	AAFP6----1A----	Atr
+18	školách	NNFP6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920924-137-p4s1
+1	V	RR--6----------	AuxP
+2	souvislosti	NNFS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	tím	PDZS7----------	Adv
+5	se	P7-X4----------	AuxR
+6	do	RR--2----------	AuxP
+7	konce	NNIS2-----A----	Adv
+8	roku	NNIS2-----A---1	Atr
+9	má	VB-S---3P-AA---	Pred
+10	vypracovat	Vf--------A----	Obj
+11	systém	NNIS1-----A----	Sb
+12	na	RR--4----------	AuxP
+13	poskytování	NNNS4-----A----	Atr
+14	půjček	NNFP2-----A----	Atr
+15	pro	RR--4----------	AuxP
+16	studijní	AAIP4----1A----	Atr
+17	účely	NNIP4-----A----	Atr
+18	,	Z:-------------	AuxX
+19	z	RR--2----------	AuxP
+20	nichž	P9XP2----------	Adv
+21	by	Vc-------------	AuxV
+22	si	P7-X3----------	Adv
+23	studenti	NNMP1-----A----	Sb
+24	zálohově	Dg-------1A----	Adv
+25	financovali	VpMP---XR-AA---	Atr
+26	studium	NNNS4-----A----	Obj
+27	.	Z:-------------	AuxK
+

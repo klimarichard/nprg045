@@ -1,0 +1,129 @@
+ln95047-027-p1s1
+1	Drahý	AAIS1----1A----	Atr
+2	vstup	NNIS1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	Sportprague	NNFXX-----A----	Atr
+
+ln95047-027-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-027-p2s1B
+1	Luxusní	AAIP1----1A----	Atr
+2	motorové	AAIP1----1A----	Atr
+3	čluny	NNIP1-----A----	Sb
+4	před	RR--7----------	AuxP
+5	pražským	AAIS7----1A----	Atr
+6	Palácem	NNIS7-----A----	AtrAdv
+7	kultury	NNFS2-----A----	Atr
+8	signalizují	VB-P---3P-AA---	Pred
+9	letošní	AAIS4----1A----	Atr
+10	jarní	AAIS4----1A----	Atr
+11	veletrh	NNIS4-----A----	Obj
+12	Sportprague	NNFXX-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95047-027-p2s2
+1	Ten	PDYS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	svým	P8ZS7----------	Atr
+4	konečným	AAIS7----1A----	Atr
+5	počtem	NNIS7-----A----	Adv
+6	538	C=-------------	Atr
+7	vystavovatelů	NNMP2-----A----	Atr
+8	a	J^-------------	Coord
+9	celkovou	AAFS7----1A----	Atr
+10	plochou	NNFS7-----A----	Adv
+11	16000	C=-------------	Atr
+12	m	NNIXX-----A---8	Atr
+13	2	C=-------------	Atr
+14	stal	VpYS---XR-AA---	Pred
+15	podle	RR--2----------	AuxP
+16	tvrzení	NNNS2-----A----	Adv
+17	ředitele	NNMS2-----A----	Atr
+18	Jiřího	NNMS2-----A----	Atr
+19	Švigy	NNMS2-----A----	Atr
+20	z	RR--2----------	AuxP
+21	pořadatelské	AAFS2----1A----	Atr
+22	organizace	NNFS2-----A----	Atr
+23	Terinvest	NNIS1-----A----	Atr
+24	druhým	CrIS7----------	Atr
+25	největším	AAIS7----3A----	Atr
+26	pražským	AAIS7----1A----	Atr
+27	veletrhem	NNIS7-----A----	Obj
+28	.	Z:-------------	AuxK
+
+ln95047-027-p3s1
+1	Velký	AAIS1----1A----	Atr
+2	zájem	NNIS1-----A----	Sb
+3	vedl	VpYS---XR-AA---	Pred
+4	k	RR--3----------	AuxP
+5	určitému	AANS3----1A----	Atr
+6	natěsnání	NNNS3-----A----	Adv
+7	vystavovatelů	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95047-027-p3s2
+1	To	PDNS1----------	Sb
+2	spolu	Db-------------	AuxP
+3	s	RR--7----------	AuxP
+4	praktickým	AANS7----1A----	Atr
+5	zrušením	NNNS7-----A----	Adv
+6	obvyklého	AANS2----1A----	Atr
+7	rozdělení	NNNS2-----A----	Atr
+8	přístupu	NNIS2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	veletrh	NNIS4-----A----	Atr
+11	(	Z:-------------	AuxG
+12	první	CrIP1----------	Atr
+13	dva	ClYP1----------	Atr
+14	dny	NNIP1-----A----	ExD
+15	pro	RR--4----------	AuxP
+16	odborníky	NNMP4-----A----	ExD
+17	,	Z:-------------	Coord
+18	sobota	NNFS1-----A----	ExD
+19	a	J^-------------	Coord
+20	neděle	NNFS1-----A----	ExD
+21	pro	RR--4----------	AuxP
+22	veřejnost	NNFS4-----A----	ExD
+23	)	Z:-------------	AuxG
+24	vedlo	VpNS---XR-AA---	Pred
+25	již	Db-------------	Adv
+26	při	RR--6----------	AuxP
+27	prvním	CrIS6----------	Atr
+28	dnu	NNIS6-----A----	Adv
+29	k	RR--3----------	AuxP
+30	většímu	AAIS3----2A----	Atr
+31	ruchu	NNIS3-----A----	Adv
+32	,	Z:-------------	AuxX
+33	než	J,-------------	AuxC
+34	bývá	VB-S---3P-AA---	Adv
+35	obvyklé	AANS1----1A----	Pnom
+36	v	RR--6----------	AuxP
+37	kontraktačních	AAIP6----1A----	Atr
+38	dnech	NNIP6-----A----	Adv
+39	.	Z:-------------	AuxK
+
+ln95047-027-p3s3
+1	U	RR--2----------	AuxP
+2	pokladen	NNFP2-----A----	Adv
+3	totiž	Db-------------	AuxY
+4	nejlepší	AAFS7----3A----	Atr
+5	průkazkou	NNFS7-----A----	Pnom
+6	už	Db-------------	AuxZ
+7	včera	Db-------------	Adv
+8	byly	VpTP---XR-AA---	Pred
+9	dvě	ClHP1----------	Atr
+10	bankovky	NNFP1-----A----	Sb
+11	-	Z:-------------	Apos
+12	stokoruna	NNFS1-----A----	Sb
+13	a	J^-------------	Coord
+14	dvacetikoruna	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	za	RR--4----------	AuxP
+17	které	P4FP4----------	Obj
+18	dostal	VpYS---XR-AA---	Atr
+19	kdokoliv	PZM-1----------	Sb
+20	vstupenku	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+

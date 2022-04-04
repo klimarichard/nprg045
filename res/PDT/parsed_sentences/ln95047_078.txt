@@ -1,0 +1,114 @@
+ln95047-078-p1s1
+1	Útok	NNIS1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	autobus	NNIS4-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Tádžikistánu	NNIS6-----A----	AtrAtr
+
+ln95047-078-p2s1A
+1	Dušanbe	NNNXX-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-078-p2s1B
+1	Jednu	ClFS4----------	Atr
+2	oběť	NNFS4-----A----	Obj
+3	a	J^-------------	Coord
+4	šest	Cn-S4----------	Obj
+5	zraněných	AAMP2----1A----	ExD
+6	si	P7-X3----------	AuxT
+7	podle	RR--2----------	AuxP
+8	posledních	AAFP2----1A----	Atr
+9	informací	NNFP2-----A----	Adv
+10	vyžádal	VpYS---XR-AA---	Pred
+11	včerejší	AAIS1----1A----	Atr
+12	útok	NNIS1-----A----	Sb
+13	neznámých	AAMP2----1N----	Atr
+14	pachatelů	NNMP2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	autobus	NNIS4-----A----	Atr
+17	v	RR--6----------	AuxP
+18	tádžickém	AANS6----1A----	Atr
+19	hlavním	AANS6----1A----	Atr
+20	městě	NNNS6-----A----	AtrAtr
+21	Dušanbe	NNNXX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95047-078-p2s2
+1	V	RR--6----------	AuxP
+2	autobusu	NNIS6-----A---1	Adv
+3	cestovali	VpMP---XR-AA---	Pred
+4	zaměstnanci	NNMP1-----A----	Sb
+5	ruské	AAFS2----1A----	Atr
+6	vojenské	AAFS2----1A----	Atr
+7	nemocnice	NNFS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	převážně	Dg-------1A----	ExD
+10	ženy	NNFP1-----A----	ExD
+11	,	Z:-------------	AuxX
+12	působící	AGFP1-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Tádžikistánu	NNIS6-----A----	Adv
+15	v	RR--6----------	AuxP
+16	rámci	NNIS6-----A----	AuxP
+17	mírové	AAFS2----1A----	Atr
+18	operace	NNFS2-----A----	Adv
+19	jednotek	NNFP2-----A----	Atr
+20	Společenství	NNNS2-----A----	Atr
+21	nezávislých	AAIP2----1N----	Atr
+22	států	NNIP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95047-078-p2s3
+1	Velitel	NNMS1-----A----	Atr
+2	ruských	AAFP2----1A----	Atr
+3	ozbrojených	AAFP2----1A----	Atr
+4	sil	NNFP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Tádžikistánu	NNIS6-----A----	Atr
+7	generál	NNMS1-----A----	Atr
+8	A	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Čečulin	NNMS1-----A----	Sb
+11	uvedl	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	autobus	NNIS1-----A----	Sb
+15	byl	VpYS---XR-AA---	AuxV
+16	zasažen	VsYS---XX-AP---	Obj
+17	řízenou	AAFS7----1A----	Atr
+18	protitankovou	AAFS7----1A----	Atr
+19	střelou	NNFS7-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln95047-078-p2s4
+1	"	Z:-------------	AuxG
+2	Útok	NNIS1-----A----	Sb
+3	nebyl	VpYS---XR-NA---	Obj
+4	namířen	VsYS---XX-AP---	Pnom
+5	přímo	Dg-------1A----	AuxZ
+6	proti	RR--3----------	AuxP
+7	lidem	NNMP3-----A----	Adv
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	proti	RR--3----------	AuxP
+11	Rusku	NNNS3-----A----	Adv
+12	,	Z:-------------	AuxX
+13	"	Z:-------------	AuxG
+14	prohlásil	VpYS---XR-AA---	Pred
+15	Čečulin	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95047-078-p2s5
+1	Podle	RR--2----------	AuxP
+2	něho	P5ZS2--3------1	Adv
+3	jde	VB-S---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	provokaci	NNFS4-----A----	Obj
+6	související	AGFS4-----A----	Atr
+7	s	RR--7----------	AuxP
+8	oslavami	NNFP7-----A----	Obj
+9	Dne	NNIS2-----A----	Atr
+10	obránců	NNMP2-----A----	Atr
+11	vlasti	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+

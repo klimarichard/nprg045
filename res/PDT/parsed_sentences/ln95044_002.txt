@@ -1,0 +1,425 @@
+ln95044-002-p1s1
+1	Psychika	NNFS1-----A----	Sb
+2	investorů	NNMP2-----A----	Atr
+3	ovlivní	VB-S---3P-AA---	Pred
+4	ceny	NNFP4-----A----	Obj
+
+ln95044-002-p2s1A
+1	Bez	RR--2----------	AuxP
+2	zahraničního	AAIS2----1A----	Atr
+3	kapitálu	NNIS2-----A----	Adv
+4	nedojde	VB-S---3P-NA---	Pred
+5	k	RR--3----------	AuxP
+6	dlouhodobému	AANS3----1A----	Atr
+7	oživení	NNNS3-----A----	Obj
+8	trhu	NNIS2-----A----	Atr
+
+ln95044-002-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-002-p2s1C
+1	Dlouhodobé	AANS1----1A----	Atr
+2	oživení	NNNS1-----A----	Sb
+3	kapitálového	AAIS2----1A----	Atr
+4	trhu	NNIS2-----A----	Atr
+5	pravděpodobně	Dg-------1A----	AuxY
+6	nenastane	VB-S---3P-NA---	Pred
+7	,	Z:-------------	AuxX
+8	pokud	J,-------------	AuxC
+9	se	P7-X4----------	Obj
+10	do	RR--2----------	AuxP
+11	obchodování	NNNS2-----A----	Adv
+12	nezapojí	VB-S---3P-NA---	Adv
+13	zahraniční	AAIS1----1A----	Atr
+14	kapitál	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95044-002-p2s2
+1	LN	NNFPX-----A---8	Obj
+2	to	PDNS4----------	Obj
+3	sdělil	VpYS---XR-AA---	Pred
+4	Jan	NNMS1-----A----	Atr
+5	Bér	NNMS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	makléřské	AAFS2----1A----	Atr
+8	firmy	NNFS2-----A----	Atr
+9	VIA	NNXXX-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95044-002-p2s3
+1	Poměr	NNIS1-----A----	Sb
+2	vkladů	NNIP2-----A----	Atr
+3	a	J^-------------	Coord
+4	kapitálových	AAFP2----1A----	Atr
+5	investic	NNFP2-----A---1	Atr
+6	obyvatelstva	NNNS2-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	podle	RR--2----------	AuxP
+9	jeho	PSXXXZS3-------	Atr
+10	slov	NNNP2-----A----	Adv
+11	na	RR--6----------	AuxP
+12	úrovni	NNFS6-----A----	AuxP
+13	rozvojových	AAFP2----1A----	Atr
+14	zemí	NNFP2-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95044-002-p3s1
+1	Určitým	AANS7----1A----	Atr
+2	,	Z:-------------	AuxX
+3	i	J^-------------	AuxY
+4	když	J,-------------	AuxC
+5	čistě	Dg-------1A----	Adv
+6	teoretickým	AANS7----1A----	Adv
+7	vodítkem	NNNS7-----A----	Pnom
+8	,	Z:-------------	AuxX
+9	jakým	P4ZS7----------	Atr
+10	směrem	NNIS7-----A----	Adv
+11	se	P7-X4----------	AuxT
+12	budou	VB-P---3F-AA---	AuxV
+13	ubírat	Vf--------A----	Atr
+14	kursy	NNIP1-----A----	Sb
+15	novinek	NNFP2-----A----	Atr
+16	z	RR--2----------	AuxP
+17	druhé	CrFS2----------	Atr
+18	vlny	NNFS2-----A----	Atr
+19	kupónové	AAFS2----1A----	Atr
+20	privatizace	NNFS2-----A----	Atr
+21	i	J^-------------	Coord
+22	ceny	NNFP1-----A----	Sb
+23	už	Db-------------	Adv
+24	obchodovaných	AAFP2----1A----	Atr
+25	akcií	NNFP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	může	VB-S---3P-AA---	Pred
+28	být	Vf--------A----	Obj
+29	vývoj	NNIS1-----A----	Sb
+30	peněžní	AAFS2----1A----	Atr
+31	zásoby	NNFS2-----A----	Atr
+32	,	Z:-------------	AuxX
+33	tedy	Db-------------	Apos
+34	množství	NNNS2-----A----	Atr
+35	peněžních	AAIP2----1A----	Atr
+36	prostředků	NNIP2-----A----	Atr
+37	,	Z:-------------	AuxX
+38	které	P4IP1----------	Sb
+39	obíhají	VB-P---3P-AA---	Atr
+40	v	RR--6----------	AuxP
+41	české	AAFS6----1A----	Atr
+42	ekonomice	NNFS6-----A----	Adv
+43	.	Z:-------------	AuxK
+
+ln95044-002-p3s2
+1	Jejich	PSXXXXP3-------	Atr
+2	část	NNFS4-----A----	Obj
+3	mají	VB-P---3P-AA---	Pred
+4	investoři	NNMP1-----A----	Sb
+5	k	RR--3----------	AuxP
+6	dispozici	NNFS3-----A----	Adv
+7	mimo	RR--4----------	AuxP
+8	jiné	AANS4----1A----	Adv
+9	i	J^-------------	AuxZ
+10	k	RR--3----------	AuxP
+11	nákupu	NNIS3-----A----	Adv
+12	cenných	AAIP2----1A----	Atr
+13	papírů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95044-002-p4s1
+1	Peněžní	AAIS4----1A----	Atr
+2	objem	NNIS4-----A----	Obj
+3	měří	VB-S---3P-AA---	Pred
+4	Česká	AAFS1----1A----	Atr
+5	národní	AAFS1----1A----	Atr
+6	banka	NNFS1-----A----	Sb
+7	pomocí	RR--2----------	AuxP
+8	agregátu	NNIS2-----A----	Adv
+9	M	NNNXX-----A---8	Atr
+10	2	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	se	P7-X4----------	AuxT
+14	skládá	VB-S---3P-AA---	Atr
+15	z	RR--2----------	AuxP
+16	oběživa	NNNS2-----A----	Obj
+17	a	J^-------------	Coord
+18	neterminovaných	AAIP2----1N----	Atr
+19	vkladů	NNIP2-----A----	Obj
+20	,	Z:-------------	AuxX
+21	kam	Db-------------	Adv
+22	patří	VB-P---3P-AA---	Atr
+23	běžné	AAIP1----1A----	Atr
+24	a	J^-------------	Coord
+25	sporožirové	AAIP1----1A----	Atr
+26	účty	NNIP1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+ln95044-002-p4s2
+1	Do	RR--2----------	AuxP
+2	M	NNNXX-----A---8	Adv
+3	2	C=-------------	Atr
+4	se	P7-X4----------	AuxR
+5	dále	Db------------1	Adv
+6	započítávají	VB-P---3P-AA---	Pred
+7	i	J^-------------	AuxZ
+8	terminované	AAIP1----1A----	Atr
+9	vklady	NNIP1-----A----	Sb
+10	a	J^-------------	Coord
+11	vklady	NNIP1-----A----	Sb
+12	na	RR--6----------	AuxP
+13	devizových	AAIP6----1A----	Atr
+14	účtech	NNIP6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95044-002-p4s3
+1	Od	RR--2----------	AuxP
+2	počátku	NNIS2-----A----	Adv
+3	roku	NNIS2-----A---1	Atr
+4	1994	C=-------------	Atr
+5	tento	PDYS1----------	Atr
+6	agregát	NNIS1-----A----	Sb
+7	vzrostl	VpYS---XR-AA---	Pred
+8	podle	RR--2----------	AuxP
+9	předběžných	AAIP2----1A----	Atr
+10	údajů	NNIP2-----A----	Adv
+11	o	RR--4----------	AuxP
+12	18.7	C=-------------	Adv
+13	procenta	NNNS2-----A----	Atr
+14	a	J^-------------	Coord
+15	v	RR--6----------	AuxP
+16	prosinci	NNIS6-----A----	Adv
+17	dosáhl	VpYS---XR-AA---	Pred
+18	hodnoty	NNFS2-----A----	Obj
+19	850	C=-------------	Atr
+20	miliard	NNFP2-----A----	Atr
+21	korun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95044-002-p5s1
+1	Brokeři	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	shodují	VB-P---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	názoru	NNIS6-----A----	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	ochota	NNFS1-----A----	Sb
+9	investorů	NNMP2-----A----	Atr
+10	pustit	Vf--------A----	Atr
+11	se	P7-X4----------	AuxT
+12	do	RR--2----------	AuxP
+13	obchodů	NNIP2-----A----	Obj
+14	s	RR--7----------	AuxP
+15	cennými	AAIP7----1A----	Atr
+16	papíry	NNIP7-----A----	Atr
+17	není	VB-S---3P-NA---	Atr
+18	nijak	Db-------------	Adv
+19	velká	AAFS1----1A----	Pnom
+20	.	Z:-------------	AuxK
+
+ln95044-002-p5s2
+1	Jistější	AAFP1----2A----	Atr
+2	investice	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	jako	J,-------------	AuxY
+5	třeba	Db-------------	Apos
+6	terminované	AAIP1----1A----	Atr
+7	vklady	NNIP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	stále	Db-------------	Adv
+10	vítězí	VB-P---3P-AA---	Pred
+11	nad	RR--7----------	AuxP
+12	nákupem	NNIS7-----A----	Obj
+13	akcií	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95044-002-p6s1
+1	Toto	PDNS4----------	Atr
+2	tvrzení	NNNS4-----A----	Obj
+3	do	RR--2----------	AuxP
+4	jisté	AAFS2----1A----	Atr
+5	míry	NNFS2-----A----	Adv
+6	potvrzuje	VB-S---3P-AA---	Pred
+7	statisticky	Dg-------1A----	Adv
+8	prokázaná	AAFS1----1A----	Atr
+9	vývojová	AAFS1----1A----	Atr
+10	tendence	NNFS1-----A----	Sb
+11	u	RR--2----------	AuxP
+12	vkladů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	které	P4YP4----------	Obj
+15	mají	VB-P---3P-AA---	Atr
+16	domácnosti	NNFP1-----A----	Sb
+17	uloženy	VsTP---XX-AP---	Atv
+18	u	RR--2----------	AuxP
+19	bank	NNFP2-----A----	Adv
+20	,	Z:-------------	AuxX
+21	ve	RV--6----------	AuxP
+22	srovnání	NNNS6-----A----	AuxP
+23	s	RR--7----------	AuxP
+24	terminovanými	AAIP7----1A----	Atr
+25	vklady	NNIP7-----A----	Adv
+26	.	Z:-------------	AuxK
+
+ln95044-002-p6s2
+1	Z	RR--2----------	AuxP
+2	přibližně	Dg-------1A----	AuxZ
+3	381	C=-------------	Atr
+4	miliard	NNFP2-----A----	Atr
+5	korun	NNFP2-----A----	Atr
+6	představoval	VpYS---XR-AA---	Pred
+7	tento	PDYS1----------	Atr
+8	typ	NNIS1-----A----	Sb
+9	vkladů	NNIP2-----A----	Atr
+10	239	C=-------------	Obj
+11	miliard	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95044-002-p6s3
+1	Neterminované	AAIP1----1N----	Atr
+2	vklady	NNIP1-----A----	Sb
+3	činily	VpTP---XR-AA---	Pred
+4	100	C=-------------	Obj
+5	miliard	NNFP2-----A----	Atr
+6	korun	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	devizové	AAIP1----1A----	Atr
+9	vklady	NNIP1-----A----	ExD
+10	42	C=-------------	ExD
+11	miliard	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95044-002-p7s1
+1	Méně	Dg-------2A----	Adv
+2	likvidní	AAFP1----1A----	Atr
+3	akcie	NNFP1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	podle	RR--2----------	AuxP
+6	J	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Béra	NNMS2-----A----	Adv
+9	budou	VB-P---3F-AA---	AuxV
+10	nadále	Db-------------	Adv
+11	potýkat	Vf--------A----	Pred
+12	s	RR--7----------	AuxP
+13	nezájmem	NNIS7-----A----	Obj
+14	investorů	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95044-002-p7s2
+1	"	Z:-------------	AuxG
+2	Jestliže	J,-------------	AuxC
+3	mám	VB-S---1P-AA---	Adv
+4	říct	Vf--------A---1	Obj
+5	svůj	P8IS4----------	Atr
+6	názor	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	všichni	PLMP1----------	Atr
+9	makléři	NNMP1-----A----	Sb
+10	doufají	VB-P---3P-AA---	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	kapitálový	AAIS4----1A----	Atr
+14	trh	NNIS4-----A----	Obj
+15	oživí	VB-P---3P-AA---	Obj
+16	atraktivní	AAIP1----1A----	Atr
+17	tituly	NNIP1-----A----	Sb
+18	z	RR--2----------	AuxP
+19	druhé	CrFS2----------	Atr
+20	vlny	NNFS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	"	Z:-------------	AuxG
+23	konstatoval	VpYS---XR-AA---	Pred
+24	.	Z:-------------	AuxK
+
+ln95044-002-p7s3
+1	Jak	Db-------------	Adv
+2	připustil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	na	RR--4----------	AuxP
+5	rozdíl	NNIS4-----A----	AuxP
+6	od	RR--2----------	AuxP
+7	dlouhodobého	AANS2----1A----	Atr
+8	oživení	NNNS2-----A----	Adv
+9	může	VB-S---3P-AA---	Pred
+10	krátkodobě	Dg-------1A----	Adv
+11	rozhýbat	Vf--------A----	Obj
+12	obchody	NNIP4-----A----	Obj
+13	na	RR--6----------	AuxP
+14	burze	NNFS6-----A----	Atr
+15	pouze	Db-------------	AuxZ
+16	domácí	AAIS1----1A----	Atr
+17	kapitál	NNIS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95044-002-p8s1
+1	Někteří	PZMP1----------	Atr
+2	jiní	AAMP1----1A----	Atr
+3	burzovní	AAMP1----1A----	Atr
+4	odborníci	NNMP1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	shodují	VB-P---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	tom	PDZS6----------	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	uvedení	NNNS1-----A----	Sb
+12	akcií	NNFP2-----A----	Atr
+13	z	RR--2----------	AuxP
+14	druhé	CrFS2----------	Atr
+15	vlny	NNFS2-----A----	Atr
+16	na	RR--4----------	AuxP
+17	kapitálový	AAIS4----1A----	Atr
+18	trh	NNIS4-----A----	Atr
+19	stlačí	VB-S---3P-AA---	Atr
+20	současné	AAFP4----1A----	Atr
+21	ceny	NNFP4-----A----	Obj
+22	ještě	Db-------------	AuxZ
+23	více	Dg-------2A----	Adv
+24	dolů	Db-------------	Adv
+25	.	Z:-------------	AuxK
+
+ln95044-002-p8s2
+1	Likvidita	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	tedy	Db-------------	Apos
+4	možnost	NNFS1-----A----	Sb
+5	a	J^-------------	Coord
+6	ochota	NNFS1-----A----	Sb
+7	investorů	NNMP2-----A----	Atr
+8	nakupovat	Vf--------A----	Atr
+9	cenné	AAIP4----1A----	Atr
+10	papíry	NNIP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	se	P7-X4----------	AuxR
+13	údajně	Dg-------1A----	AuxY
+14	nezvětší	VB-S---3P-NA---	Pred
+15	,	Z:-------------	AuxX
+16	nýbrž	J^-------------	Coord
+17	rozdělí	VB-S---3P-AA---	Pred
+18	mezi	RR--4----------	AuxP
+19	horké	AAFP4----1A----	Atr
+20	novinky	NNFP4-----A----	Adv
+21	a	J^-------------	Coord
+22	"	Z:-------------	AuxG
+23	staré	AAIP4----1A----	Atr
+24	"	Z:-------------	AuxG
+25	blue	AAXXX----1A----	Atr
+26	chips	NNIPX-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln95044-002-p8s3
+1	Rovněž	Db-------------	AuxZ
+2	ceny	NNFP1-----A----	Sb
+3	nových	AAFP2----1A----	Atr
+4	akcií	NNFP2-----A----	Atr
+5	budou	VB-P---3F-AA---	Pred
+6	podle	RR--2----------	AuxP
+7	těchto	PDXP2----------	Atr
+8	informací	NNFP2-----A----	Adv
+9	zřejmě	Dg-------1A----	AuxZ
+10	hříčkou	NNFS7-----A----	Pnom
+11	psychiky	NNFS2-----A----	Atr
+12	investorů	NNMP2-----A----	Atr
+13	.	Z:-------------	AuxK
+

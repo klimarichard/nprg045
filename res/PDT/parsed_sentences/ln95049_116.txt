@@ -1,0 +1,142 @@
+ln95049-116-p1s1
+1	Odbory	NNIP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	SRN	NNFXX-----A---8	Atr
+4	hrozí	VB-P---3P-AA---	Pred
+5	zostřením	NNNS7-----A----	Obj
+6	stávky	NNFS2-----A----	Atr
+
+ln95049-116-p2s1A
+1	Bonn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-116-p2s1B
+1	Mluvčí	NNMS1-----A----	Atr
+2	německého	AAIS2----1A----	Atr
+3	odborového	AAIS2----1A----	Atr
+4	svazu	NNIS2-----A----	Atr
+5	IG	AAXXX----1A---8	Atr
+6	Metall	NNIS1-----A----	Atr
+7	Michael	NNMS1-----A----	Atr
+8	Knuth	NNMS1-----A----	Sb
+9	včera	Db-------------	Adv
+10	vyslovil	VpYS---XR-AA---	Pred
+11	názor	NNIS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	nynější	AAIS1----1A----	Atr
+15	konflikt	NNIS1-----A----	Sb
+16	mezi	RR--7----------	AuxP
+17	zaměstnanci	NNMP7-----A----	Atr
+18	a	J^-------------	Coord
+19	zaměstnavateli	NNMP7-----A----	Atr
+20	v	RR--6----------	AuxP
+21	oboru	NNIS6-----A----	AuxP
+22	kovoprůmyslu	NNIS2-----A----	Atr
+23	bude	VB-S---3F-AA---	Atr
+24	dlouhý	AAIS1----1A----	Pnom
+25	.	Z:-------------	AuxK
+
+ln95049-116-p2s2
+1	Pohrozil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	odbory	NNIP1-----A----	Sb
+5	zostří	VB-P---3P-AA---	Obj
+6	postoj	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	pokud	J,-------------	AuxC
+9	se	P7-X4----------	AuxT
+10	zaměstnavatelé	NNMP1-----A----	Sb
+11	uchýlí	VB-P---3P-AA---	Adv
+12	k	RR--3----------	AuxP
+13	vyhazování	NNNS3-----A----	Obj
+14	z	RR--2----------	AuxP
+15	práce	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	jak	Db-------------	Adv
+18	to	PDNS4----------	Obj
+19	naznačili	VpMP---XR-AA---	Pred
+20	.	Z:-------------	AuxK
+
+ln95049-116-p2s3
+1	Němečtí	AAMP1----1A----	Atr
+2	kováci	NNMP1-----A----	Sb
+3	začali	VpMP---XR-AA---	Pred
+4	v	RR--4----------	AuxP
+5	pátek	NNIS4-----A----	Adv
+6	stávkovat	Vf--------A----	Obj
+7	na	RR--4----------	AuxP
+8	podporu	NNFS4-----A----	Adv
+9	požadavku	NNIS2-----A----	Atr
+10	šestiprocentního	AANS2----1A----	Atr
+11	zvýšení	NNNS2-----A----	Atr
+12	mezd	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	zkrácení	NNNS2-----A----	Atr
+15	pracovního	AAIS2----1A----	Atr
+16	týdne	NNIS2-----A----	Atr
+17	z	RR--2----------	AuxP
+18	36	C=-------------	ExD
+19	na	RR--4----------	AuxP
+20	35	C=-------------	Atr
+21	hodin	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95049-116-p2s4
+1	Stávku	NNFS4-----A----	Obj
+2	zahájilo	VpNS---XR-AA---	Pred
+3	11000	C=-------------	Sb
+4	zaměstnanců	NNMP2-----A----	Atr
+5	21	C=-------------	Atr
+6	podniků	NNIP2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Bavorsku	NNNS6-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95049-116-p2s5
+1	Od	RR--2----------	AuxP
+2	středy	NNFS2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxR
+5	údajně	Dg-------1A----	Adv
+6	stávka	NNFS1-----A----	Sb
+7	mohla	VpQW---XR-AA---	Pred
+8	rozšířit	Vf--------A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95049-116-p2s6
+1	Předseda	NNMS1-----A----	Atr
+2	svazu	NNIS2-----A----	Atr
+3	zaměstnavatelů	NNMP2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	kovoprůmyslu	NNIS6-----A----	Atr
+6	a	J^-------------	Coord
+7	elektrotechnice	NNFS6-----A----	Atr
+8	(	Z:-------------	Apos
+9	Gesamtmetall	NNIS1-----A----	Atr
+10	)	Z:-------------	AuxG
+11	Hans	NNMS1-----A----	Atr
+12	-	Z:-------------	AuxG
+13	Joachim	NNMS1-----A----	Atr
+14	Gottschol	NNMS1-----A----	Sb
+15	informoval	VpYS---XR-AA---	Pred
+16	všechny	PLFP4----------	Atr
+17	firmy	NNFP4-----A----	Obj
+18	tohoto	PDZS2----------	Atr
+19	odvětví	NNNS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	že	J,-------------	AuxC
+22	zaměstnavatelé	NNMP1-----A----	Sb
+23	v	RR--6----------	AuxP
+24	konfliktu	NNIS6-----A----	Adv
+25	s	RR--7----------	AuxP
+26	IG	AAXXX----1A---8	Atr
+27	Metall	NNIS1-----A----	Atr
+28	ze	RV--2----------	AuxP
+29	své	P8FS2---------1	Atr
+30	dosavadní	AAFS2----1A----	Atr
+31	linie	NNFS2-----A----	Adv
+32	neustoupí	VB-P---3P-NA---	Obj
+33	.	Z:-------------	AuxK
+

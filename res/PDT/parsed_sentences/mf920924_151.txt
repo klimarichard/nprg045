@@ -1,0 +1,148 @@
+mf920924-151-p1s1A
+1	"	Z:-------------	AuxG
+2	Stavba	NNFS1-----A----	ExD
+3	tisíciletí	NNNS2-----A----	Atr
+4	"	Z:-------------	AuxG
+5	do	RR--2----------	AuxP
+6	provozu	NNIS2-----A----	Atr
+
+mf920924-151-p1s1B
+1	OTEVÍRÁ	VB-S---3P-AA---	Pred
+2	SE	P7-X4----------	AuxR
+3	KANÁL	NNIS1-----A----	Sb
+4	DUNAJ	NNIS1-----A----	Atr
+5	-	Z:-------------	AuxG
+6	MOHAN	NNIS1-----A----	Atr
+7	-	Z:-------------	Coord
+8	RÝN	NNIS1-----A----	Atr
+
+mf920924-151-p1s1C
+1	Bonn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920924-151-p1s1D
+1	Provoz	NNIS1-----A----	Sb
+2	plavebního	AAIS2----1A----	Atr
+3	kanálu	NNIS2-----A----	Atr
+4	Dunaj	NNIS1-----A----	Atr
+5	-	Z:-------------	AuxG
+6	Mohan	NNIS1-----A----	Atr
+7	-	Z:-------------	AuxG
+8	Rýn	NNIS1-----A----	Atr
+9	bude	VB-S---3F-AA---	AuxV
+10	zítra	Db-------------	Adv
+11	slavnostně	Dg-------1A----	Adv
+12	zahájen	VsYS---XX-AP---	Pred
+13	v	RR--6----------	AuxP
+14	Bavorsku	NNNS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+mf920924-151-p1s2
+1	171	C=-------------	Adv
+2	kilometrů	NNIP2-----A----	Atr
+3	dlouhé	AANS1----1A----	Atr
+4	technické	AANS1----1A----	Atr
+5	dílo	NNNS1-----A----	Sb
+6	vybudované	AANS1----1A----	Atr
+7	mezi	RR--7----------	AuxP
+8	Dunajem	NNIS7-----A----	Adv
+9	a	J^-------------	Coord
+10	Mohanem	NNIS7-----A----	Adv
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	u	RR--2----------	AuxP
+14	Mohuče	NNFS2-----A----	Adv
+15	ústí	VB-S---3P-AA---	Atr
+16	do	RR--2----------	AuxP
+17	Rýna	NNIS2-----A----	Adv
+18	,	Z:-------------	AuxX
+19	tak	Db-------------	Adv
+20	završí	VB-S---3P-AA---	Pred
+21	úsilí	NNNS4-----A----	Obj
+22	mnoha	Ca--2----------	Atr
+23	generací	NNFP2-----A----	Atr
+24	o	RR--4----------	AuxP
+25	zhruba	Db-------------	AuxZ
+26	3500	C=-------------	Adv
+27	kilometrové	AANS4----1A----	Atr
+28	říční	AANS4----1A----	Atr
+29	propojení	NNNS4-----A----	Atr
+30	přes	RR--4----------	AuxP
+31	kontinent	NNIS4-----A----	Atr
+32	od	RR--2----------	AuxP
+33	Severního	AANS2----1A----	ExD
+34	po	RR--4----------	AuxP
+35	Černé	AANS4----1A----	Atr
+36	moře	NNNS4-----A----	Atr
+37	.	Z:-------------	AuxK
+
+mf920924-151-p1s3
+1	Význam	NNIS1-----A----	Sb
+2	průplavu	NNIS2-----A----	Atr
+3	spočívá	VB-S---3P-AA---	Pred
+4	především	Db-------------	AuxZ
+5	ve	RV--6----------	AuxP
+6	vodním	AANS6----1A----	Atr
+7	spojení	NNNS6-----A----	Obj
+8	15	C=-------------	Atr
+9	evropských	AAIP2----1A----	Atr
+10	států	NNIP2-----A----	Atr
+11	a	J^-------------	Coord
+12	jejich	PSXXXXP3-------	Atr
+13	říčních	AAIP2----1A----	Atr
+14	přístavů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920924-151-p1s4
+1	Výstavba	NNFS1-----A----	Sb
+2	kanálu	NNIS2-----A----	Atr
+3	trvala	VpQW---XR-AA---	Pred
+4	32	C=-------------	Adv
+5	let	NNNP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+mf920924-151-p1s5
+1	První	CrIS4----------	Atr
+2	,	Z:-------------	AuxX
+3	i	J^-------------	AuxY
+4	když	J,-------------	AuxC
+5	neúspěšný	AAIS4----1N----	Adv
+6	pokus	NNIS4-----A----	Obj
+7	o	RR--4----------	AuxP
+8	spojení	NNNS4-----A----	Atr
+9	Mohanu	NNIS2-----A----	Atr
+10	a	J^-------------	Coord
+11	Dunaje	NNIS2-----A----	Atr
+12	podnikl	VpYS---XR-AA--1	Pred
+13	už	Db-------------	AuxZ
+14	v	RR--6----------	AuxP
+15	roce	NNIS6-----A---1	Adv
+16	793	C=-------------	Atr
+17	Karel	NNMS1-----A----	Sb
+18	Veliký	AAMS1----1A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920924-151-p1s6
+1	Proto	J^-------------	Coord
+2	také	Db-------------	AuxY
+3	vodní	AANS1----1A----	Atr
+4	dílo	NNNS1-----A----	Sb
+5	získalo	VpNS---XR-AA---	Pred
+6	i	J^-------------	AuxZ
+7	pojmenování	NNNS4-----A----	Obj
+8	"	Z:-------------	AuxG
+9	stavba	NNFS1-----A----	Atr
+10	tisíciletí	NNNS2-----A----	Atr
+11	"	Z:-------------	AuxG
+12	.	Z:-------------	AuxK
+
+mf920924-151-p1s7
+1	Veliký	AAMS1----1A----	ExD
+2	.	Z:-------------	AuxK
+
+mf920924-151-p1s8
+1	Proto	J^-------------	ExD
+2	také	Db-------------	ExD
+3	vodní	AANS1----1A----	Atr
+4	dílo	NNNS1-----A----	ExD
+

@@ -1,0 +1,297 @@
+cmpr9406-067-p2s1
+1	Vizitka	NNFS1-----A----	ExD
+2	manažera	NNMS2-----A----	Atr
+
+cmpr9406-067-p3s1
+1	Allan	NNMS1-----A----	Atr
+2	Gintel	NNMS1-----A----	ExD
+
+cmpr9406-067-p5s1
+1	Chycení	AAMP1----1A----	Atr
+2	motýli	NNMP1-----A---1	Sb
+3	a	J^-------------	Coord
+4	ulovené	AAFP1----1A----	Atr
+5	ryby	NNFP1-----A----	Sb
+6	nejsou	VB-P---3P-NA---	Pred
+7	důležité	AAFP1----1A----	Pnom
+8	,	Z:-------------	Coord
+9	vzrušení	NNNS1-----A----	Sb
+10	pramení	VB-S---3P-AA---	Pred
+11	z	RR--2----------	AuxP
+12	motýlů	NNMP2-----A----	Adv
+13	či	J^-------------	Coord
+14	ryb	NNFP2-----A----	Adv
+15	,	Z:-------------	AuxX
+16	které	P4FP4----------	Obj
+17	nikdy	Db-------------	Adv
+18	nechytneme	VB-P---1P-NA---	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9406-067-p7s1
+1	*	Z:-------------	AuxG
+2	Narodil	VpYS---XR-AA---	Pred
+3	se	P7-X4----------	AuxT
+4	24	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	září	NNNS2-----A----	Adv
+7	1947	C=-------------	Atr
+8	v	RR--6----------	AuxP
+9	Praze	NNFS6-----A----	Adv
+10	,	Z:-------------	Coord
+11	je	VB-S---3P-AA---	Pred
+12	absolventem	NNMS7-----A----	Pnom
+13	Filozofické	AAFS2----1A----	Atr
+14	fakulty	NNFS2-----A----	Atr
+15	Univerzity	NNFS2-----A----	Atr
+16	Karlovy	AUFS2M---------	Atr
+17	,	Z:-------------	ExD
+18	obor	NNIS1-----A----	ExD
+19	psychologie	NNFS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9406-067-p7s2
+1	Je	VB-S---3P-AA---	Pred
+2	ženatý	AAMS1----1A----	Pnom
+3	,	Z:-------------	Coord
+4	má	VB-S---3P-AA---	Pred
+5	jedno	ClNS4----------	Atr
+6	dítě	NNNS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+cmpr9406-067-p8s1
+1	*	Z:-------------	ExD
+2	Ředitel	NNMS1-----A----	ExD
+3	akciové	AAFS2----1A----	Atr
+4	společnosti	NNFS2-----A----	Atr
+5	Amalthea	NNFS1-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9406-067-p9s1
+1	*	Z:-------------	AuxG
+2	Na	RR--4----------	AuxP
+3	trať	NNFS4-----A----	Adv
+4	své	P8FS2---------1	Atr
+5	profesionální	AAFS2----1A----	Atr
+6	dráhy	NNFS2-----A----	Atr
+7	nastoupil	VpYS---XR-AA---	Pred
+8	jako	J,-------------	AuxY
+9	dělník	NNMS1-----A----	AtvV
+10	,	Z:-------------	AuxX
+11	krátce	Dg-------1A----	Adv
+12	pracoval	VpYS---XR-AA---	Pred
+13	jako	J,-------------	AuxY
+14	klinický	AAMS1----1A----	Atr
+15	psycholog	NNMS1-----A----	AtvV
+16	,	Z:-------------	Coord
+17	redaktor	NNMS1-----A----	AtvV
+18	,	Z:-------------	Coord
+19	později	Dg-------2A----	Adv
+20	se	P7-X4----------	AuxT
+21	věnoval	VpYS---XR-AA---	Pred
+22	různým	AAFP3----1A----	Atr
+23	oblastem	NNFP3-----A----	Obj
+24	psychologie	NNFS2-----A----	Atr
+25	práce	NNFS2-----A----	Atr
+26	v	RR--6----------	AuxP
+27	rámci	NNIS6-----A----	AuxP
+28	Centra	NNNS2-----A----	Adv
+29	pro	RR--4----------	AuxP
+30	psychologii	NNFS4-----A----	Atr
+31	a	J^-------------	Coord
+32	sociologii	NNFS4-----A----	Atr
+33	v	RR--6----------	AuxP
+34	tehdejším	AAIS6----1A----	Atr
+35	jednom	ClZS6----------	Adv
+36	z	RR--2----------	AuxP
+37	největších	AAIP2----3A----	Atr
+38	elektrotechnických	AAIP2----1A----	Atr
+39	koncernů	NNIP2-----A----	Atr
+40	.	Z:-------------	AuxK
+
+cmpr9406-067-p9s2
+1	V	RR--6----------	AuxP
+2	září	NNNS6-----A----	Adv
+3	1989	C=-------------	Atr
+4	založil	VpYS---XR-AA---	Pred
+5	Institut	NNIS4-----A----	Obj
+6	moderního	AANS2----1A----	Atr
+7	řízení	NNNS2-----A----	Atr
+8	a	J^-------------	Coord
+9	stal	VpYS---XR-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	jeho	PSXXXZS3-------	Atr
+12	ředitelem	NNMS7-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9406-067-p9s3
+1	Stál	VpYS---XR-AA---	Pred
+2	u	RR--2----------	AuxP
+3	zrodu	NNIS2-----A----	Adv
+4	poradenské	AAFS2----1A----	Atr
+5	firmy	NNFS2-----A----	Atr
+6	Amalthea	NNFS1-----A----	Atr
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	převzala	VpQW---XR-AA---	Atr
+10	větší	AAFS4----2A----	Atr
+11	část	NNFS4-----A----	Obj
+12	aktivit	NNFP2-----A----	Atr
+13	institutu	NNIS2-----A----	Atr
+14	a	J^-------------	Coord
+15	stala	VpQW---XR-AA---	Atr
+16	se	P7-X4----------	AuxT
+17	jeho	PSXXXZS3-------	Atr
+18	oficiálním	AAMS7----1A----	Atr
+19	nástupcem	NNMS7-----A----	Obj
+20	.	Z:-------------	AuxK
+
+cmpr9406-067-p10s1
+1	*	Z:-------------	AuxG
+2	Má	VB-S---3P-AA---	Pred
+3	široké	AANS4----1A----	Atr
+4	spektrum	NNNS4-----A----	Obj
+5	zájmů	NNIP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9406-067-p10s2
+1	Zahrnuje	VB-S---3P-AA---	Pred
+2	vybrané	AAFP4----1A----	Atr
+3	sportovní	AAFP4----1A----	Atr
+4	aktivity	NNFP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	různá	AANP4----1A----	Atr
+7	pojetí	NNNP4-----A----	Obj
+8	turistiky	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	pobytu	NNIS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	přírodě	NNFS6-----A----	Atr
+13	,	Z:-------------	AuxX
+14	dějiny	NNFP4-----A----	Obj
+15	antiky	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	renesance	NNFS2-----A----	Atr
+18	,	Z:-------------	Coord
+19	politiku	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+cmpr9406-067-p10s3
+1	Svůj	P8IS4----------	Atr
+2	obdiv	NNIS4-----A----	Obj
+3	k	RR--3----------	AuxP
+4	helénistické	AAFS3----1A----	Atr
+5	epoše	NNFS3-----A----	Atr
+6	starého	AANS2----1A----	Atr
+7	Řecka	NNNS2-----A----	Atr
+8	vyjádřil	VpYS---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	originálním	AANS6----1A----	Atr
+11	pojetí	NNNS6-----A----	Adv
+12	výchovy	NNFS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	přírodě	NNFS6-----A----	Atr
+15	obsaženém	AANS6----1A----	Atr
+16	v	RR--6----------	AuxP
+17	projektu	NNIS6-----A----	Adv
+18	Gymnasion	NNIS1-----A----	Atr
+19	,	Z:-------------	AuxX
+20	určeném	AAIS6----1A----	Atr
+21	mladým	AAMP3----1A----	Atr
+22	lidem	NNMP3-----A----	Obj
+23	od	RR--2----------	AuxP
+24	17	C=-------------	ExD
+25	do	RR--2----------	AuxP
+26	25	C=-------------	Atr
+27	let	NNNP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9406-067-p11s1
+1	*	Z:-------------	AuxG
+2	Mám	VB-S---1P-AA---	Obj
+3	rád	ACYS------A----	AtvV
+4	lidi	NNMP4-----A----	Obj
+5	bystré	AAMP4----1A----	Atr
+6	,	Z:-------------	AuxX
+7	tvořivé	AAMP4----1A----	Atr
+8	a	J^-------------	Coord
+9	iniciativní	AAMP4----1A----	Atr
+10	,	Z:-------------	AuxX
+11	říká	VB-S---3P-AA---	Pred
+12	o	RR--6----------	AuxP
+13	svých	P8XP6----------	Atr
+14	vztazích	NNIP6-----A----	Obj
+15	ke	RV--3----------	AuxP
+16	spolupracovníkům	NNMP3-----A----	Atr
+17	a	J^-------------	Coord
+18	podnikání	NNNS3-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9406-067-p11s2
+1	Cením	VB-S---1P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	těch	PDXP2----------	Obj
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	se	P7-X4----------	AuxT
+7	naučili	VpMP---XR-AA---	Atr
+8	spolupracovat	Vf--------A----	Obj
+9	a	J^-------------	Coord
+10	spolupráci	NNFS4-----A----	Obj
+11	pociťují	VB-P---3P-AA---	Atr
+12	jako	J,-------------	AuxY
+13	potřebu	NNFS4-----A----	Atv
+14	.	Z:-------------	AuxK
+
+cmpr9406-067-p11s3
+1	Nemohu	VB-S---1P-NA--1	Pred
+2	zakrýt	Vf--------A----	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	při	RR--6----------	AuxP
+6	vedení	NNNS6-----A----	Adv
+7	svých	P8XP2----------	Atr
+8	spolupracovníků	NNMP2-----A----	Atr
+9	používám	VB-S---1P-AA---	Obj
+10	jako	J,-------------	AuxY
+11	metody	NNFS2-----A----	Atv
+12	určitý	AAIS4----1A----	Atr
+13	druh	NNIS4-----A----	Obj
+14	"	Z:-------------	AuxG
+15	polidštění	NNNS2-----A----	Atr
+16	despocie	NNFS2-----A----	Atr
+17	"	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+cmpr9406-067-p11s4
+1	Na	RR--4----------	AuxP
+2	omluvu	NNFS4-----A----	Adv
+3	dodávám	VB-S---1P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	nemohu	VB-S---1P-NA--1	Obj
+7	jinak	Db-------------	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9406-067-p11s5
+1	Adama	NNMS4-----A----	Atr
+2	Smithe	NNMS4-----A----	Obj
+3	mám	VB-S---1P-AA---	Pred
+4	docela	Db-------------	Adv
+5	rád	ACYS------A----	AtvV
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	"	Z:-------------	AuxG
+9	spěchající	AGMP1-----A----	Atr
+10	trhovci	NNMP1-----A----	Sb
+11	"	Z:-------------	AuxG
+12	přepočítávající	AGMP1-----A----	Atr
+13	vše	PLNS4---------1	Obj
+14	na	RR--4----------	AuxP
+15	peníze	NNIP4-----A----	Adv
+16	jsou	VB-P---3P-AA---	Pred
+17	mi	PH-S3--1-------	Obj
+18	z	RR--2----------	AuxP
+19	duše	NNFS2-----A----	Adv
+20	protivní	AAMP1----1A----	Pnom
+21	.	Z:-------------	AuxK
+

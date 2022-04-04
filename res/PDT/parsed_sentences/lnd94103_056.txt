@@ -1,0 +1,695 @@
+lnd94103-056-p1s1C
+1	Havárie	NNFP1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	jaderných	AAFP6----1A----	Atr
+4	elektrárnách	NNFP6-----A----	Atr
+
+lnd94103-056-p1s1B
+1	Včera	Db-------------	Adv
+2	uplynulo	VpNS---XR-AA---	Pred
+3	pět	Cn-S1----------	Sb
+4	let	NNNP2-----A----	Atr
+5	od	RR--2----------	AuxP
+6	černobylské	AAFS2----1A----	Atr
+7	tragedie	NNFS2-----A----	Adv
+8	.	Z:-------------	AuxK
+
+lnd94103-056-p1s2A
+1	Přinášíme	VB-P---1P-AA---	Pred
+2	přehled	NNIS4-----A----	Obj
+3	větších	AAFP2----2A----	Atr
+4	nehod	NNFP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	k	RR--3----------	AuxP
+7	nimž	P9XP3----------	Obj
+8	od	RR--2----------	AuxP
+9	padesátých	CrNP2----------	Atr
+10	let	NNNP2-----A----	Adv
+11	došlo	VpNS---XR-AA---	Atr
+12	v	RR--6----------	AuxP
+13	jaderných	AAFP6----1A----	Atr
+14	elektrárnách	NNFP6-----A----	Adv
+15	:	Z:-------------	AuxK
+
+lnd94103-056-p1s2B
+1	1958	C=-------------	ExD
+2	-	Z:-------------	Apos
+3	únik	NNIS1-----A----	ExD
+4	těžké	AAFS2----1A----	Atr
+5	vody	NNFS2-----A----	Atr
+6	zamořené	AAFS2----1A----	Atr
+7	radioaktivními	AAFP7----1A----	Atr
+8	částicemi	NNFP7-----A----	Obj
+9	palivové	AAFS2----1A----	Atr
+10	tyče	NNFS2-----A----	Atr
+11	reaktoru	NNIS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Chalk	AAXXX----1A----	Atr
+14	River	NNFXX-----A----	Atr
+15	(	Z:-------------	ExD
+16	Kanada	NNFS1-----A----	ExD
+17	)	Z:-------------	ExD
+18	;	Z:-------------	AuxK
+
+lnd94103-056-p1s3
+1	vznikl	VpYS---XR-AA--1	Pred
+2	požár	NNIS1-----A----	Sb
+3	,	Z:-------------	Coord
+4	unikly	VpTP---XR-AA--1	Pred
+5	otravné	AAIP1----1A----	Atr
+6	plyny	NNIP1-----A----	Sb
+7	a	J^-------------	Coord
+8	technický	AAIS1----1A----	Atr
+9	personál	NNIS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	důsledky	NNIP4-----A----	Obj
+13	havárie	NNFS2-----A----	Atr
+14	likvidoval	VpYS---XR-AA---	Atr
+15	,	Z:-------------	AuxX
+16	byl	VpYS---XR-AA---	Pred
+17	ozářen	VsYS---XX-AP---	Pnom
+18	;	Z:-------------	AuxK
+
+lnd94103-056-p1s4
+1	1974	C=-------------	Adv
+2	-	Z:-------------	AuxG
+3	praskl	VpYS---XR-AA--1	Pred
+4	jeden	ClYS1----------	Sb
+5	z	RR--2----------	AuxP
+6	plášťů	NNIP2-----A----	Atr
+7	prvního	CrIS2----------	Atr
+8	energobloku	NNIS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	leningradské	AAFS6----1A----	Atr
+11	jaderné	AAFS6----1A----	Atr
+12	elektrárně	NNFS6-----A----	AtrAtr
+13	(	Z:-------------	ExD
+14	Rusko	NNNS1-----A----	ExD
+15	)	Z:-------------	ExD
+16	;	Z:-------------	AuxK
+
+lnd94103-056-p1s5
+1	zahynuly	VpTP---XR-AA---	Pred
+2	tři	ClXP1----------	Atr
+3	osoby	NNFP1-----A----	Sb
+4	;	Z:-------------	AuxK
+
+lnd94103-056-p1s6
+1	1975	C=-------------	Adv
+2	-	Z:-------------	AuxG
+3	při	RR--6----------	AuxP
+4	opravě	NNFS6-----A----	Adv
+5	potrubí	NNNS2-----A----	Atr
+6	unikla	VpQW---XR-AA--1	Pred
+7	přehřátá	AAFS1----1A----	Atr
+8	radioaktivní	AAFS1----1A----	Atr
+9	pára	NNFS1-----A----	Sb
+10	v	RR--6----------	AuxP
+11	Gundremmingenu	NNIS6-----A----	Adv
+12	(	Z:-------------	ExD
+13	západní	AANS1----1A----	Atr
+14	Německo	NNNS1-----A----	ExD
+15	)	Z:-------------	ExD
+16	;	Z:-------------	AuxK
+
+lnd94103-056-p1s7
+1	2	C=-------------	Atr
+2	lidé	NNMP1-----A---1	Sb
+3	zahynuli	VpMP---XR-AA---	Pred
+4	;	Z:-------------	AuxK
+
+lnd94103-056-p1s8
+1	1977	C=-------------	ExD
+2	-	Z:-------------	Apos
+3	havárie	NNFS1-----A----	ExD
+4	na	RR--6----------	AuxP
+5	stavbě	NNFS6-----A----	Atr
+6	jaderné	AAFS2----1A----	Atr
+7	elektrárny	NNFS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Clintonu	NNMS6-----A---1	Atr
+10	(	Z:-------------	ExD
+11	USA	NNIPX-----A----	ExD
+12	)	Z:-------------	ExD
+13	;	Z:-------------	AuxK
+
+lnd94103-056-p1s9
+1	mnozí	AAMP1----1A----	Atr
+2	dělníci	NNMP1-----A----	ExD
+3	zasaženi	VsMP---XX-AP---	ExD
+4	kritickou	AAFS7----1A----	Atr
+5	dávkou	NNFS7-----A----	Obj
+6	ozáření	NNNS2-----A----	Atr
+7	;	Z:-------------	AuxK
+
+lnd94103-056-p1s10
+1	1977	C=-------------	ExD
+2	-	Z:-------------	Apos
+3	havárie	NNFS1-----A----	ExD
+4	druhého	CrIS2----------	Atr
+5	bloku	NNIS2-----A----	Atr
+6	Bělojarské	AAFS2----1A----	Atr
+7	jaderné	AAFS2----1A----	Atr
+8	elektrárny	NNFS2-----A----	Atr
+9	(	Z:-------------	ExD
+10	Rusko	NNNS1-----A----	ExD
+11	)	Z:-------------	ExD
+12	(	Z:-------------	AuxG
+13	roztavila	VpQW---XR-AA---	Atr
+14	se	P7-X4----------	AuxR
+15	polovina	NNFS1-----A----	Sb
+16	paliva	NNNS2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	aktivní	AAFS6----1A----	Atr
+19	zóně	NNFS6-----A----	AtrAdv
+20	)	Z:-------------	AuxG
+21	;	Z:-------------	AuxK
+
+lnd94103-056-p1s11
+1	došlo	VpNS---XR-AA---	Pred
+2	k	RR--3----------	AuxP
+3	ozáření	NNNS3-----A----	Obj
+4	personálu	NNIS2-----A----	Atr
+5	;	Z:-------------	AuxK
+
+lnd94103-056-p1s12
+1	oprava	NNFS1-----A----	Sb
+2	trvala	VpQW---XR-AA---	Pred
+3	téměř	Db-------------	AuxZ
+4	rok	NNIS4-----A----	Adv
+5	;	Z:-------------	AuxK
+
+lnd94103-056-p1s13
+1	1978	C=-------------	Adv
+2	-	Z:-------------	AuxG
+3	shořel	VpYS---XR-AA---	Pred
+4	druhý	CrIS1----------	Atr
+5	blok	NNIS1-----A----	Sb
+6	bělojarské	AAFS2----1A----	Atr
+7	jaderné	AAFS2----1A----	Atr
+8	elektrárny	NNFS2-----A----	Atr
+9	(	Z:-------------	ExD
+10	Rusko	NNNS1-----A----	ExD
+11	)	Z:-------------	ExD
+12	;	Z:-------------	AuxK
+
+lnd94103-056-p1s14
+1	při	RR--6----------	AuxP
+2	zajišťování	NNNS6-----A----	ExD
+3	dodávky	NNFS2-----A----	Atr
+4	chladící	AGFS2-----A----	Atr
+5	kapaliny	NNFS2-----A----	Atr
+6	ozářeno	VsNS---XX-AP---	ExD
+7	osm	Cn-S1----------	ExD
+8	osob	NNFP2-----A----	Atr
+9	;	Z:-------------	AuxK
+
+lnd94103-056-p1s15
+1	1979	C=-------------	ExD
+2	-	Z:-------------	Apos
+3	havárie	NNFS1-----A----	ExD
+4	jaderné	AAFS2----1A----	Atr
+5	elektrárny	NNFS2-----A----	Atr
+6	Three	AAXXX----1A----	Atr
+7	Mile	NNXXX-----A----	Atr
+8	Island	NNIS1-----A----	Atr
+9	u	RR--2----------	AuxP
+10	Harrisburgu	NNIS2-----A----	Atr
+11	(	Z:-------------	ExD
+12	USA	NNIPX-----A----	ExD
+13	;	Z:-------------	ExD
+14	stát	NNIS1-----A----	ExD
+15	Pensylvánie	NNFS1-----A----	Atr
+16	)	Z:-------------	ExD
+17	;	Z:-------------	AuxK
+
+lnd94103-056-p1s17
+1	částečně	Dg-------1A----	Adv
+2	roztaveno	VsNS---XX-AP---	ExD
+3	jádro	NNNS1-----A----	ExD
+4	reaktoru	NNIS2-----A----	Atr
+5	,	Z:-------------	Coord
+6	únik	NNIS1-----A----	ExD
+7	radioaktivní	AAFS2----1A----	Atr
+8	vody	NNFS2-----A----	Atr
+9	;	Z:-------------	AuxK
+
+lnd94103-056-p1s18
+1	silné	AANS1----1A----	Atr
+2	radioaktivní	AANS1----1A----	Atr
+3	záření	NNNS1-----A----	Sb
+4	proniklo	VpNS---XR-AA--1	Pred
+5	do	RR--2----------	AuxP
+6	širokého	AANS2----1A----	Atr
+7	okolí	NNNS2-----A----	Adv
+8	;	Z:-------------	AuxK
+
+lnd94103-056-p1s19
+1	jeden	ClYS1----------	Atr
+2	člověk	NNMS1-----A----	Sb
+3	zahynul	VpYS---XR-AA---	Pred
+4	,	Z:-------------	Coord
+5	asi	TT-------------	AuxZ
+6	100	C=-------------	ExD
+7	lidí	NNMP2-----A----	Atr
+8	hospitalizováno	VsNS---XX-AP---	ExD
+9	;	Z:-------------	AuxK
+
+lnd94103-056-p1s20
+1	druhá	CrFS1----------	Atr
+2	nejhorší	AAFS1----3A----	Atr
+3	havárie	NNFS1-----A----	ExD
+4	v	RR--6----------	AuxP
+5	dějinách	NNFP6-----A----	Atr
+6	jaderné	AAFS2----1A----	Atr
+7	energetiky	NNFS2-----A----	Atr
+8	;	Z:-------------	AuxK
+
+lnd94103-056-p1s21
+1	1981	C=-------------	Adv
+2	-	Z:-------------	AuxG
+3	v	RR--6----------	AuxP
+4	jaderné	AAFS6----1A----	Atr
+5	elektrárně	NNFS6-----A----	Adv
+6	Tennessee	AAXXX----1A----	Atr
+7	Valley	AAXXX----1A----	Atr
+8	Authority	NNFXX-----A----	Atr
+9	'	Z:-------------	AuxG
+10	s	NNXSX-----A----	AuxG
+11	Sequoyah	NNFXX-----A----	Atr
+12	I	C}-------------	Atr
+13	(	Z:-------------	ExD
+14	USA	NNIPX-----A----	ExD
+15	)	Z:-------------	ExD
+16	uniklo	VpNS---XR-AA--1	Pred
+17	110000	C=-------------	Sb
+18	galonů	NNIP2-----A----	Atr
+19	radioaktivní	AAFS2----1A----	Atr
+20	chladicí	AAFS2----1A----	Atr
+21	látky	NNFS2-----A----	Atr
+22	;	Z:-------------	AuxK
+
+lnd94103-056-p1s22
+1	8	C=-------------	ExD
+2	pracovníků	NNMP2-----A----	Atr
+3	zasaženo	VsNS---XX-AP---	ExD
+4	;	Z:-------------	AuxK
+
+lnd94103-056-p1s23
+1	-	Z:-------------	AuxG
+2	únik	NNIS1-----A----	Sb
+3	radioaktivní	AAFS2----1A----	Atr
+4	vody	NNFS2-----A----	Atr
+5	z	RR--2----------	AuxP
+6	jaderné	AAFS2----1A----	Atr
+7	elektrárny	NNFS2-----A----	Atr
+8	ve	RV--6----------	AuxP
+9	městě	NNNS6-----A----	Atr
+10	Curuga	NNFS1-----A----	Atr
+11	(	Z:-------------	ExD
+12	Japonsko	NNNS1-----A----	ExD
+13	)	Z:-------------	ExD
+14	způsobil	VpYS---XR-AA---	Pred
+15	desetinásobný	AAIS4----1A----	Atr
+16	vzrůst	NNIS4-----A----	Obj
+17	koncentrace	NNFS2-----A----	Atr
+18	radioaktivních	AAFP2----1A----	Atr
+19	látek	NNFP2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	zálivu	NNIS6-----A----	AtrAdv
+22	Urazoko	NNNS1-----A----	Atr
+23	;	Z:-------------	AuxK
+
+lnd94103-056-p1s24
+1	270	C=-------------	ExD
+2	lidí	NNMP2-----A----	Atr
+3	ozářeno	VsNS---XX-AP---	ExD
+4	,	Z:-------------	Coord
+5	dlouhodobý	AAIS1----1A----	Atr
+6	zákaz	NNIS1-----A----	ExD
+7	rybolovu	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	zálivu	NNIS6-----A----	Atr
+10	;	Z:-------------	AuxK
+
+lnd94103-056-p1s25
+1	-	Z:-------------	AuxG
+2	únik	NNIS1-----A----	ExD
+3	3	C=-------------	Atr
+4	tun	NNFP2-----A----	Atr
+5	radioaktivní	AAFS2----1A----	Atr
+6	vody	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	jaderné	AAFS6----1A----	Atr
+9	elektrárně	NNFS6-----A----	Atr
+10	Mihama	NNFS1-----A----	Atr
+11	(	Z:-------------	ExD
+12	západní	AANS1----1A----	Atr
+13	Japonsko	NNNS1-----A----	ExD
+14	)	Z:-------------	ExD
+15	;	Z:-------------	AuxK
+
+lnd94103-056-p1s26
+1	ozářeno	VsNS---XX-AP---	ExD
+2	15	C=-------------	ExD
+3	dělníků	NNMP2-----A----	Atr
+4	;	Z:-------------	AuxK
+
+lnd94103-056-p1s27
+1	-	Z:-------------	ExD
+2	únik	NNIS1-----A----	ExD
+3	koncentrované	AAFS2----1A----	Atr
+4	radioaktivní	AAFS2----1A----	Atr
+5	vody	NNFS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	jaderné	AAFS6----1A----	Atr
+8	elektrárně	NNFS6-----A----	Atr
+9	v	RR--6----------	AuxP
+10	Hamaoce	NNFS6-----A----	Atr
+11	(	Z:-------------	ExD
+12	Japonsko	NNNS1-----A----	ExD
+13	;	Z:-------------	ExD
+14	provincie	NNFS1-----A----	ExD
+15	Šizuoka	NNFS1-----A----	Atr
+16	)	Z:-------------	ExD
+17	;	Z:-------------	AuxK
+
+lnd94103-056-p1s29
+1	radioaktivním	AANS7----1A----	Atr
+2	zářením	NNNS7-----A----	Obj
+3	zasaženo	VsNS---XX-AP---	ExD
+4	12	C=-------------	ExD
+5	dělníků	NNMP2-----A----	Atr
+6	;	Z:-------------	AuxK
+
+lnd94103-056-p1s30
+1	1982	C=-------------	ExD
+2	-	Z:-------------	AuxG
+3	poškozeno	VsNS---XX-AP---	ExD
+4	ústřední	AANS1----1A----	Atr
+5	palivové	AANS1----1A----	Atr
+6	zařízení	NNNS1-----A----	ExD
+7	na	RR--6----------	AuxP
+8	prvním	CrIS6----------	Atr
+9	bloku	NNIS6-----A----	Atr
+10	černobylské	AAFS2----1A----	Atr
+11	jaderné	AAFS2----1A----	Atr
+12	elektrárny	NNFS2-----A----	Atr
+13	(	Z:-------------	ExD
+14	Ukrajina	NNFS1-----A----	ExD
+15	)	Z:-------------	ExD
+16	;	Z:-------------	AuxK
+
+lnd94103-056-p1s31
+1	uniklá	AAFS1----1A----	Atr
+2	radioaktivita	NNFS1-----A----	Sb
+3	zasáhla	VpQW---XR-AA---	Pred
+4	město	NNNS4-----A----	Obj
+5	Pripjať	NNFS4-----A----	Atr
+6	;	Z:-------------	AuxK
+
+lnd94103-056-p1s32
+1	1985	C=-------------	ExD
+2	-	Z:-------------	Apos
+3	havárie	NNFS1-----A----	ExD
+4	na	RR--6----------	AuxP
+5	prvním	CrIS6----------	Atr
+6	reaktoru	NNIS6-----A----	Atr
+7	balakovské	AAFS2----1A----	Atr
+8	jaderné	AAFS2----1A----	Atr
+9	elektrárny	NNFS2-----A----	Atr
+10	(	Z:-------------	ExD
+11	Rusko	NNNS1-----A----	ExD
+12	)	Z:-------------	ExD
+13	;	Z:-------------	AuxK
+
+lnd94103-056-p1s33
+1	při	RR--6----------	AuxP
+2	výbuchu	NNIS6-----A----	Adv
+3	pojistného	AAIS2----1A----	Atr
+4	ventilu	NNIS2-----A----	Atr
+5	pára	NNFS1-----A----	Sb
+6	o	RR--6----------	AuxP
+7	teplotě	NNFS6-----A----	Atr
+8	300	C=-------------	Atr
+9	stupňů	NNIP2-----A----	Atr
+10	pronikla	VpQW---XR-AA--1	Pred
+11	do	RR--2----------	AuxP
+12	místnosti	NNFS2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	kde	Db-------------	Adv
+15	pracovali	VpMP---XR-AA---	Atr
+16	lidé	NNMP1-----A---1	Sb
+17	;	Z:-------------	AuxK
+
+lnd94103-056-p1s34
+1	14	C=-------------	ExD
+2	mrtvých	AAMP2----1A----	Atr
+3	;	Z:-------------	AuxK
+
+lnd94103-056-p1s35
+1	1986	C=-------------	ExD
+2	-	Z:-------------	Apos
+3	v	RR--6----------	AuxP
+4	jaderné	AAFS6----1A----	Atr
+5	elektrárně	NNFS6-----A----	Adv
+6	v	RR--6----------	AuxP
+7	Gore	NNNXX-----A----	Atr
+8	(	Z:-------------	ExD
+9	USA	NNIPX-----A----	ExD
+10	;	Z:-------------	ExD
+11	stát	NNIS1-----A----	ExD
+12	Oklahoma	NNFS1-----A----	Atr
+13	)	Z:-------------	ExD
+14	se	P7-X4----------	AuxT
+15	přehřála	VpQW---XR-AA---	Pred
+16	nádrž	NNFS1-----A----	Sb
+17	hexafluoridu	NNIS2-----A----	Atr
+18	uranu	NNIS2-----A----	Atr
+19	používaného	AAIS2----1A----	Atr
+20	k	RR--3----------	AuxP
+21	výrobě	NNFS3-----A----	Adv
+22	jaderného	AANS2----1A----	Atr
+23	paliva	NNNS2-----A----	Atr
+24	;	Z:-------------	AuxK
+
+lnd94103-056-p1s37
+1	jeden	ClYS1----------	Atr
+2	pracovník	NNMS1-----A----	Sb
+3	zahynul	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	100	C=-------------	ExD
+6	lidí	NNMP2-----A----	Atr
+7	hospitalizováno	VsNS---XX-AP---	ExD
+8	,	Z:-------------	Coord
+9	v	RR--6----------	AuxP
+10	celé	AAFS6----1A----	Atr
+11	oblasti	NNFS6-----A----	ExD
+12	zvýšená	AAFS1----1A----	Atr
+13	úroveň	NNFS1-----A----	ExD
+14	radiace	NNFS2-----A----	Atr
+15	;	Z:-------------	AuxK
+
+lnd94103-056-p1s38
+1	1986	C=-------------	ExD
+2	-	Z:-------------	Apos
+3	havárie	NNFS1-----A----	ExD
+4	a	J^-------------	Coord
+5	následný	AAIS1----1A----	Atr
+6	požár	NNIS1-----A----	ExD
+7	jednoho	ClZS2----------	Atr
+8	ze	RV--2----------	AuxP
+9	čtyř	ClXP2----------	Atr
+10	reaktorů	NNIP2-----A----	Atr
+11	jaderné	AAFS2----1A----	Atr
+12	elektrárny	NNFS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Černobylu	NNIS6-----A----	Atr
+15	(	Z:-------------	ExD
+16	Ukrajina	NNFS1-----A----	ExD
+17	,	Z:-------------	Apos
+18	dříve	Dg-------2A----	Atr
+19	SSSR	NNIXX-----A---8	ExD
+20	)	Z:-------------	ExD
+21	;	Z:-------------	AuxK
+
+lnd94103-056-p1s39
+1	zpočátku	Db-------------	Adv
+2	oficiálně	Dg-------1A----	Adv
+3	31	C=-------------	ExD
+4	mrtvých	AAMP2----1A----	Atr
+5	a	J^-------------	Coord
+6	145	C=-------------	ExD
+7	ozářených	AAMP2----1A----	Atr
+8	,	Z:-------------	Coord
+9	nejméně	Dg-------3A----	Adv
+10	100000	C=-------------	ExD
+11	lidí	NNMP2-----A----	Atr
+12	evakuováno	VsNS---XX-AP---	ExD
+13	,	Z:-------------	Coord
+14	zamořeno	VsNS---XX-AP---	ExD
+15	415	C=-------------	ExD
+16	obcí	NNFP2-----A----	Atr
+17	různé	AAFS2----1A----	Atr
+18	velikosti	NNFS2-----A----	Atr
+19	s	RR--7----------	AuxP
+20	celkovým	AAIS7----1A----	Atr
+21	počtem	NNIS7-----A----	Atr
+22	103000	C=-------------	Atr
+23	obyvatel	NNMS1-----A----	Atr
+24	;	Z:-------------	AuxK
+
+lnd94103-056-p1s40
+1	v	RR--6----------	AuxP
+2	dubnu	NNIS6-----A----	Adv
+3	1990	C=-------------	Atr
+4	žilo	VpNS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	zamořených	AAFP6----1A----	Atr
+7	oblastech	NNFP6-----A----	Adv
+8	ještě	Db-------------	AuxZ
+9	na	RR--4----------	AuxP
+10	3	C=-------------	Sb
+11	miliony	NNIP4-----A----	Atr
+12	osob	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	z	RR--2----------	AuxP
+15	toho	PDZS2----------	Atr
+16	700000	C=-------------	Atr
+17	dětí	NNFP2-----A----	Atr
+18	;	Z:-------------	AuxK
+
+lnd94103-056-p1s41
+1	v	RR--6----------	AuxP
+2	dubnu	NNIS6-----A----	Adv
+3	1992	C=-------------	Atr
+4	prohlásil	VpYS---XR-AA---	Pred
+5	ukrajinský	AAMS1----1A----	Atr
+6	ministr	NNMS1-----A----	Sb
+7	zdravotnictví	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	počet	NNIS1-----A----	Sb
+11	bezprostředních	AAFP2----1A----	Atr
+12	obětí	NNFP2-----A----	Atr
+13	byl	VpYS---XR-AA---	Obj
+14	ve	RV--6----------	AuxP
+15	skutečnosti	NNFS6-----A----	Adv
+16	6	C=-------------	Pnom
+17	až	J^-------------	Coord
+18	8	C=-------------	Pnom
+19	tisíc	ClXS2----------	Atr
+20	;	Z:-------------	AuxK
+
+lnd94103-056-p1s42
+1	na	RR--6----------	AuxP
+2	Ukrajině	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	zamořeno	VsNS---XX-AP---	Pnom
+5	přes	RR--4----------	AuxP
+6	5	C=-------------	Sb
+7	milionů	NNIP2-----A----	Atr
+8	ha	NNIXX-----A---8	Atr
+9	půdy	NNFS2-----A----	Atr
+10	;	Z:-------------	AuxK
+
+lnd94103-056-p1s43
+1	v	RR--6----------	AuxP
+2	2180	C=-------------	Atr
+3	městech	NNNP6-----A----	Adv
+4	a	J^-------------	Coord
+5	obcích	NNFP6-----A----	Adv
+6	žije	VB-S---3P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	2.6	C=-------------	Sb
+9	milionu	NNIS2-----A----	Atr
+10	obyvatel	NNMS1-----A----	Atr
+11	;	Z:-------------	AuxK
+
+lnd94103-056-p1s44
+1	ze	RV--2----------	AuxP
+2	zamořeného	AANS2----1A----	Atr
+3	území	NNNS2-----A----	Adv
+4	bylo	VpNS---XR-AA---	AuxV
+5	evakuováno	VsNS---XX-AP---	Pred
+6	pouze	Db-------------	AuxZ
+7	163000	C=-------------	Sb
+8	lidí	NNMP2-----A----	Atr
+9	;	Z:-------------	AuxK
+
+lnd94103-056-p1s45
+1	do	RR--2----------	AuxP
+2	dubna	NNIS2-----A----	Adv
+3	1993	C=-------------	Atr
+4	zemřelo	VpNS---XR-AA---	Pred
+5	na	RR--4----------	AuxP
+6	následky	NNIP4-----A----	Adv
+7	katastrofy	NNFS2-----A----	Atr
+8	13000	C=-------------	Sb
+9	lidí	NNMP2-----A----	Atr
+10	;	Z:-------------	AuxK
+
+lnd94103-056-p1s46
+1	1991	C=-------------	Adv
+2	-	Z:-------------	AuxG
+3	v	RR--6----------	AuxP
+4	jaderné	AAFS6----1A----	Atr
+5	elektrárně	NNFS6-----A----	Adv
+6	Kozloduj	NNFS1-----A----	Atr
+7	(	Z:-------------	ExD
+8	Bulharsko	NNNS1-----A----	ExD
+9	)	Z:-------------	ExD
+10	objevena	VsQW---XX-AP---	ExD
+11	po	RR--6----------	AuxP
+12	požáru	NNIS6-----A----	Adv
+13	dvě	ClHP1----------	Atr
+14	místa	NNNP1-----A----	Sb
+15	úniku	NNIS2-----A----	Atr
+16	radioaktivity	NNFS2-----A----	Atr
+17	;	Z:-------------	AuxK
+
+lnd94103-056-p1s47
+1	zamořeno	VsNS---XX-AP---	ExD
+2	jen	TT-------------	AuxY
+3	několik	Ca--1----------	ExD
+4	čtverečních	AAIP2----1A----	Atr
+5	metrů	NNIP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	úroveň	NNFS1-----A----	Sb
+9	radiace	NNFS2-----A----	Atr
+10	dosáhla	VpQW---XR-AA---	Pred
+11	dvacetinásobku	NNIS2-----A----	Obj
+12	povolených	AAFP2----1A----	Atr
+13	hodnot	NNFP2-----A----	Atr
+14	;	Z:-------------	AuxK
+
+lnd94103-056-p1s48
+1	1992	C=-------------	ExD
+2	-	Z:-------------	Apos
+3	havárie	NNFS1-----A----	ExD
+4	na	RR--6----------	AuxP
+5	třetím	CrIS6----------	Atr
+6	bloku	NNIS6-----A----	Atr
+7	jaderné	AAFS2----1A----	Atr
+8	elektrárny	NNFS2-----A----	Atr
+9	Sosnovyj	AAIS1----1A----	Atr
+10	Bor	NNIS1-----A----	Atr
+11	u	RR--2----------	AuxP
+12	Petrohradu	NNIS2-----A----	Atr
+13	(	Z:-------------	ExD
+14	Rusko	NNNS1-----A----	ExD
+15	)	Z:-------------	ExD
+16	;	Z:-------------	AuxK
+
+lnd94103-056-p1s49
+1	došlo	VpNS---XR-AA---	Pred
+2	k	RR--3----------	AuxP
+3	menšímu	AAIS3----2A----	Atr
+4	úniku	NNIS3-----A----	Obj
+5	radiace	NNFS2-----A----	Atr
+6	(	Z:-------------	ExD
+7	ag	NNXXX-----A---8	ExD
+8	)	Z:-------------	ExD
+

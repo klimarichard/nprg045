@@ -1,0 +1,182 @@
+ln95045-001-p1s1
+1	ČNB	NNFXX-----A---8	ExD
+2	k	RR--3----------	AuxP
+3	případu	NNIS3-----A----	ExD
+4	sporné	AAFS2----1A----	Atr
+5	směnky	NNFS2-----A----	Atr
+
+ln95045-001-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-001-p2s1B
+1	ČNB	NNFXX-----A---8	Sb
+2	obdržela	VpQW---XR-AA---	Pred
+3	minulý	AAIS4----1A----	Atr
+4	týden	NNIS4-----A----	Adv
+5	informaci	NNFS4-----A----	Obj
+6	o	RR--6----------	AuxP
+7	existenci	NNFS6-----A----	Atr
+8	směnek	NNFP2-----A----	Atr
+9	opatřených	AAFP2----1A----	Atr
+10	avalem	NNIS7-----A----	Obj
+11	České	AAFS2----1A----	Atr
+12	banky	NNFS2-----A----	Atr
+13	spolu	Db-------------	AuxP
+14	s	RR--7----------	AuxP
+15	vyjádřením	NNNS7-----A----	Adv
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	banka	NNFS1-----A----	Sb
+19	pravost	NNFS4-----A----	Obj
+20	podpisu	NNIS2-----A----	Atr
+21	statutárního	AAMS2----1A----	Atr
+22	zástupce	NNMS2-----A----	Atr
+23	a	J^-------------	Coord
+24	razítka	NNNS2-----A----	Atr
+25	na	RR--6----------	AuxP
+26	směnkách	NNFP6-----A----	Atr
+27	popírá	VB-S---3P-AA---	Atr
+28	.	Z:-------------	AuxK
+
+ln95045-001-p2s2
+1	Pokud	J,-------------	AuxC
+2	nebude	VB-S---3F-NA---	AuxV
+3	pravost	NNFS1-----A----	Sb
+4	těchto	PDXP2----------	Atr
+5	náležitostí	NNFP2-----A----	Atr
+6	prokázána	VsQW---XX-AP---	Adv
+7	,	Z:-------------	AuxX
+8	nepředstavují	VB-P---3P-NA---	Pred
+9	zmíněné	AAFP1----1A----	Atr
+10	směnky	NNFP1-----A----	Sb
+11	vůči	RR--3----------	AuxP
+12	České	AAFS3----1A----	Atr
+13	bance	NNFS3-----A----	Adv
+14	uplatnitelný	AAIS4----1A----	Atr
+15	závazek	NNIS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95045-001-p2s3
+1	Sdělil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	tiskový	AAMS1----1A----	Atr
+5	mluvčí	NNMS1-----A----	Sb
+6	ČNB	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxK
+
+ln95045-001-p3s1A
+1	Česká	AAFS1----1A----	Atr
+2	televize	NNFS1-----A----	Sb
+3	v	RR--4----------	AuxP
+4	pondělí	NNNS4-----A----	Adv
+5	informovala	VpQW---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	orgány	NNIP1-----A----	Sb
+9	činné	AAIP1----1A----	Atr
+10	v	RR--6----------	AuxP
+11	trestním	AANS6----1A----	Atr
+12	řízení	NNNS6-----A----	Adv
+13	vyšetřují	VB-P---3P-AA---	Obj
+14	případ	NNIS4-----A----	Obj
+15	směnky	NNFS2-----A----	Atr
+16	na	RR--4----------	AuxP
+17	48	C=-------------	Atr
+18	miliónů	NNIP2-----A----	Atr
+19	korun	NNFP2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	které	P4FP4----------	Obj
+22	by	Vc-------------	AuxV
+23	měla	VpQW---XR-AA---	AtrAtr
+24	vyplatit	Vf--------A----	Obj
+25	Česká	AAFS1----1A----	Atr
+26	banka	NNFS1-----A----	Sb
+27	pražské	AAFS3----1A----	Atr
+28	společnosti	NNFS3-----A----	Obj
+29	s	RR--7----------	AuxP
+30	ručením	NNNS7-----A----	Atr
+31	omezeným	AANS7----1A----	Atr
+32	T	NNXXX-----A---8	Atr
+33	.	Z:-------------	AuxG
+34	I	NNXXX-----A---8	Atr
+35	.	Z:-------------	AuxG
+36	C	NNXXX-----A---8	Atr
+37	.	Z:-------------	AuxG
+
+ln95045-001-p3s1B
+1	Česká	AAFS1----1A----	Atr
+2	banka	NNFS1-----A----	Sb
+3	však	J^-------------	Coord
+4	proplacení	NNNS4-----A----	Atr
+5	směnky	NNFS2-----A----	Obj
+6	odmítá	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	protože	J,-------------	AuxC
+9	razítko	NNNS1-----A----	Sb
+10	banky	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	podpis	NNIS1-----A----	Sb
+13	jejího	PSZS2FS3-------	Atr
+14	generálního	AAMS2----1A----	Atr
+15	ředitele	NNMS2-----A----	Atr
+16	na	RR--6----------	AuxP
+17	směnce	NNFS6-----A----	Atr
+18	mohou	VB-P---3P-AA--1	Adv
+19	být	Vf--------A----	Obj
+20	falešné	AAIP1----1A----	Pnom
+21	.	Z:-------------	AuxK
+
+ln95045-001-p4s1
+1	Podle	RR--2----------	AuxP
+2	mluvčího	NNMS2-----A----	Adv
+3	ČNB	NNFXX-----A---8	Atr
+4	bankovní	AAIS1----1A----	Atr
+5	dohled	NNIS1-----A----	Sb
+6	zasahuje	VB-S---3P-AA---	Pred
+7	jen	TT-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	případech	NNIP6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	kdy	Db-------------	Adv
+12	je	VB-S---3P-AA---	Atr
+13	zdraví	NNNS1-----A----	Sb
+14	bank	NNFP2-----A----	Atr
+15	ohroženo	VsNS---XX-AP---	Pnom
+16	.	Z:-------------	AuxK
+
+ln95045-001-p4s2
+1	Ve	RV--6----------	AuxP
+2	zmíněné	AAFS6----1A----	Atr
+3	souvislosti	NNFS6-----A----	Adv
+4	nelze	VB-S---3P-NA---	Pred
+5	takové	PDIP4----------	Atr
+6	závěry	NNIP4-----A----	Obj
+7	učinit	Vf--------A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95045-001-p4s3
+1	Bankovní	AAIS1----1A----	Atr
+2	dohled	NNIS1-----A----	Sb
+3	nemá	VB-S---3P-NA---	Obj
+4	pravomoc	NNFS4-----A----	Obj
+5	zasahovat	Vf--------A----	Atr
+6	do	RR--2----------	AuxP
+7	jednotlivých	AAIP2----1A----	Atr
+8	obchodních	AAIP2----1A----	Atr
+9	případů	NNIP2-----A----	Adv
+10	komerčních	AAFP2----1A----	Atr
+11	bank	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	do	RR--2----------	AuxP
+14	vztahů	NNIP2-----A----	Adv
+15	mezi	RR--7----------	AuxP
+16	bankou	NNFS7-----A----	Atr
+17	a	J^-------------	Coord
+18	jejím	PSZS7FS3-------	Atr
+19	klientem	NNMS7-----A----	Atr
+20	,	Z:-------------	AuxX
+21	dodal	VpYS---XR-AA---	Pred
+22	.	Z:-------------	AuxK
+

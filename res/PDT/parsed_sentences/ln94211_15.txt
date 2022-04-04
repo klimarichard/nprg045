@@ -1,0 +1,174 @@
+ln94211-15-p1s1
+1	V	RR--6----------	AuxP
+2	Krušných	AAFP6----1A----	Atr
+3	horách	NNFP6-----A----	Adv
+4	může	VB-S---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	300	C=-------------	Sb
+7	větrných	AAFP2----1A----	Atr
+8	elektráren	NNFP2-----A----	Atr
+
+ln94211-15-p2s1A
+1	Most	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94211-15-p2s1B
+1	V	RR--6----------	AuxP
+2	oblasti	NNFS6-----A----	AuxP
+3	Krušných	AAFP2----1A----	Atr
+4	hor	NNFP2-----A----	Adv
+5	jsou	VB-P---3P-AA---	Pred
+6	podmínky	NNFP1-----A----	Sb
+7	pro	RR--4----------	AuxP
+8	vybudování	NNNS4-----A----	Atr
+9	tří	ClXP2----------	Atr
+10	stovek	NNFP2-----A----	Atr
+11	větrných	AAFP2----1A----	Atr
+12	elektráren	NNFP2-----A----	Atr
+13	o	RR--6----------	AuxP
+14	okamžitém	AAIS6----1A----	Atr
+15	výkonu	NNIS6-----A----	Atr
+16	300	C=-------------	Atr
+17	až	J^-------------	Coord
+18	500	C=-------------	Atr
+19	kW	NNIXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+ln94211-15-p2s2
+1	Elektrárny	NNFP1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	celkově	Dg-------1A----	Adv
+4	mohly	VpTP---XR-AA---	Pred
+5	nahradit	Vf--------A----	Obj
+6	jednu	ClFS4----------	Atr
+7	100	C=-------------	Atr
+8	MW	NNIXX-----A---8	Atr
+9	elektrárnu	NNFS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94211-15-p2s3
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	řekl	VpYS---XR-AA---	Pred
+4	ředitel	NNMS1-----A----	Atr
+5	Ústavu	NNIS2-----A----	Atr
+6	fyziky	NNFS2-----A----	Atr
+7	atmosféry	NNFS2-----A----	Atr
+8	Akademie	NNFS2-----A----	Atr
+9	věd	NNFP2-----A----	Atr
+10	Josef	NNMS1-----A----	Atr
+11	Štekl	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94211-15-p3s1
+1	Už	Db-------------	AuxZ
+2	od	RR--2----------	AuxP
+3	6	C=-------------	Atr
+4	.	Z:-------------	AuxG
+5	září	NNNS2-----A----	Adv
+6	probíhá	VB-S---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	Mostě	NNIS6-----A----	Adv
+9	Konference	NNFS1-----A----	Sb
+10	o	RR--6----------	AuxP
+11	meteorologii	NNFS6-----A----	Atr
+12	a	J^-------------	Coord
+13	životním	AANS6----1A----	Atr
+14	prostředí	NNNS6-----A----	Atr
+15	severočeských	AAIP2----1A----	Atr
+16	regionů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94211-15-p3s2
+1	Štekl	NNMS1-----A----	Sb
+2	uvedl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	větrné	AAFP1----1A----	Atr
+6	elektrárny	NNFP1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	Krušných	AAFP6----1A----	Atr
+9	horách	NNFP6-----A----	Atr
+10	by	Vc-------------	AuxV
+11	mohly	VpTP---XR-AA---	Obj
+12	životní	AANS4----1A----	Atr
+13	prostředí	NNNS4-----A----	Obj
+14	zbavit	Vf--------A----	Obj
+15	kromě	RR--2----------	AuxP
+16	značného	AANS2----1A----	Atr
+17	množství	NNNS2-----A----	Adv
+18	oxidu	NNIS2-----A----	Atr
+19	siřičitého	AAIS2----1A----	Atr
+20	a	J^-------------	Coord
+21	oxidů	NNIP2-----A----	Atr
+22	dusíku	NNIS2-----A----	Atr
+23	také	Db-------------	AuxZ
+24	150	C=-------------	Atr
+25	tisíc	ClXS2----------	Obj
+26	tun	NNFP2-----A----	Atr
+27	oxidu	NNIS2-----A----	Atr
+28	uhličitého	AAIS2----1A----	Atr
+29	a	J^-------------	Coord
+30	osmi	Cn-P2----------	Atr
+31	tisíc	ClXS2----------	Obj
+32	tun	NNFP2-----A----	Atr
+33	popílku	NNIS2-----A----	Atr
+34	ročně	Dg-------1A----	Adv
+35	.	Z:-------------	AuxK
+
+ln94211-15-p4s1
+1	Ředitel	NNMS1-----A----	Sb
+2	Ústavu	NNIS2-----A----	Atr
+3	fyziky	NNFS2-----A----	Atr
+4	atmosféry	NNFS2-----A----	Atr
+5	řekl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	za	RR--4----------	AuxP
+9	rozhodující	AGIS4-----A----	Atr
+10	předpoklad	NNIS4-----A----	Obj
+11	k	RR--3----------	AuxP
+12	tomu	PDZS3----------	Atr
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	větrné	AAFP1----1A----	Atr
+16	elektrárny	NNFP1-----A----	Sb
+17	mohly	VpTP---XR-AA---	Atr
+18	být	Vf--------A----	AuxV
+19	postaveny	VsTP---XX-AP---	Obj
+20	,	Z:-------------	AuxX
+21	považuje	VB-S---3P-AA---	Obj
+22	garanci	NNFS4-----A----	Obj
+23	výkupní	AAFS4----1A----	Atr
+24	cenu	NNFS4-----A----	Atr
+25	minimálně	Dg-------1A----	AuxZ
+26	dvě	ClHP4----------	Atr
+27	koruny	NNFP4-----A----	Atr
+28	za	RR--4----------	AuxP
+29	kWh	NNFXX-----A---8	Atr
+30	v	RR--6----------	AuxP
+31	energetickém	AAIS6----1A----	Atr
+32	zákoně	NNIS6-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94211-15-p4s2
+1	Ta	PDFS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	nyní	Db-------------	Adv
+4	pohybuje	VB-S---3P-AA---	Pred
+5	kolem	RR--2----------	AuxP
+6	jedné	ClFS2----------	Atr
+7	koruny	NNFS2-----A----	Adv
+8	a	J^-------------	Coord
+9	proto	J^-------------	AuxY
+10	je	VB-S---3P-AA---	Pred
+11	zřizování	NNNS1-----A----	Sb
+12	větrných	AAFP2----1A----	Atr
+13	elektráren	NNFP2-----A----	Atr
+14	spíše	Dg-------2A---1	Adv
+15	koníčkem	NNIS7-----A----	Pnom
+16	než	J,-------------	AuxC
+17	předmětem	NNIS7-----A----	ExD
+18	podnikání	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+

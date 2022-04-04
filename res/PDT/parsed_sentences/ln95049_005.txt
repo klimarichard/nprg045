@@ -1,0 +1,126 @@
+ln95049-005-p1s1
+1	Pět	Cn-S1----------	ExD
+2	uchazečů	NNMP2-----A----	Atr
+3	o	RR--4----------	AuxP
+4	SPT	NNIXX-----A---8	Atr
+5	Telecom	NNIS1-----A----	Atr
+
+ln95049-005-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-005-p2s1B
+1	Nabídku	NNFS4-----A----	Obj
+2	do	RR--2----------	AuxP
+3	výběrového	AANS2----1A----	Atr
+4	řízení	NNNS2-----A----	Atr
+5	na	RR--4----------	AuxP
+6	strategického	AAMS4----1A----	Atr
+7	partnera	NNMS4-----A----	Atr
+8	SPT	NNIXX-----A---8	Atr
+9	Telecom	NNIS1-----A----	Atr
+10	předložilo	VpNS---XR-AA---	Pred
+11	pět	Cn-S1----------	Sb
+12	společností	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ve	RV--6----------	AuxP
+15	kterých	P4XP6----------	Adv
+16	je	VB-S---3P-AA---	Atr
+17	zastoupeno	VsNS---XX-AP---	Pnom
+18	devět	Cn-S1----------	Sb
+19	účastníků	NNMP2-----A----	Atr
+20	první	CrFS2----------	Atr
+21	fáze	NNFS2-----A----	Atr
+22	výběrového	AANS2----1A----	Atr
+23	řízení	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95049-005-p3s1
+1	Samostatně	Dg-------1A----	Adv
+2	svou	P8FS4---------1	Atr
+3	nabídku	NNFS4-----A----	Obj
+4	předložila	VpQW---XR-AA---	Pred
+5	italská	AAFS1----1A----	Atr
+6	společnost	NNFS1-----A----	Sb
+7	STET	NNIS1-----A----	Atr
+8	International	NNXXX-----A---1	Atr
+9	a	J^-------------	Coord
+10	dánská	AAFS1----1A----	Atr
+11	společnost	NNFS1-----A----	Sb
+12	TeleDanmark	NNIS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95049-005-p3s2
+1	Ostatní	AAMP1----1A----	Atr
+2	účastníci	NNMP1-----A----	Sb
+3	se	P7-X4----------	Obj
+4	spojili	VpMP---XR-AA---	Pred
+5	do	RR--2----------	AuxP
+6	sdružení	NNNP2-----A----	Adv
+7	TELFAR	NNXXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	(	Z:-------------	Apos
+10	France	AAXXX----1A----	Atr
+11	Telecom	NNIS1-----A----	Atr
+12	+	Z:-------------	Coord
+13	Bell	NNMS1-----A----	Atr
+14	Atlantic	NNIS1-----A----	Atr
+15	)	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	TelSource	NNXXX-----A----	Atr
+18	(	Z:-------------	Apos
+19	PTT	NNXXX-----A---8	Atr
+20	Netherlands	NNXXX-----A----	Atr
+21	+	Z:-------------	AuxG
+22	Swiss	AAXXX----1A----	Atr
+23	Telecom	NNIS1-----A----	Atr
+24	+	Z:-------------	Coord
+25	AT	NNIXX-----A---8	Atr
+26	&	Z:-------------	Coord
+27	T	NNNXX-----A----	Atr
+28	)	Z:-------------	AuxG
+29	a	J^-------------	Coord
+30	ČeTel	NNIS1-----A----	Atr
+31	(	Z:-------------	Apos
+32	Deutsche	AAXXX----1A----	Atr
+33	Telecom	NNIS1-----A----	Atr
+34	+	Z:-------------	Coord
+35	Ameritech	NNIS1-----A----	Atr
+36	)	Z:-------------	AuxG
+37	.	Z:-------------	AuxK
+
+ln95049-005-p4s1
+1	Společnost	NNFS1-----A----	Sb
+2	AT	NNIXX-----A---8	Atr
+3	&	Z:-------------	Coord
+4	T	NNIXX-----A---8	Atr
+5	se	P7-X4----------	AuxT
+6	na	RR--6----------	AuxP
+7	společném	AAIS6----1A----	Atr
+8	podniku	NNIS6-----A----	Obj
+9	nepodílí	VB-S---3P-NA---	Pred
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	uzavřela	VpQW---XR-AA---	Pred
+13	dohody	NNFP4-----A----	Obj
+14	o	RR--6----------	AuxP
+15	poskytování	NNNS6-----A----	Atr
+16	služeb	NNFP2-----A----	Atr
+17	-	Z:-------------	AuxG
+18	know	NNNXX-----A----	Atr
+19	how	NNNXX-----A----	Atr
+20	,	Z:-------------	AuxX
+21	technické	AAFS2----1A----	Atr
+22	pomoci	NNFS2-----A----	Atr
+23	apod	Db------------8	Coord
+24	.	Z:-------------	AuxG
+
+ln95049-005-p4s2
+1	Vyhodnocení	NNNS1-----A----	Sb
+2	nabídek	NNFP2-----A----	Atr
+3	potrvá	VB-S---3P-AA---	Pred
+4	zhruba	Db-------------	AuxZ
+5	čtyři	ClXP4----------	Atr
+6	týdny	NNIP4-----A----	Adv
+7	.	Z:-------------	AuxK
+

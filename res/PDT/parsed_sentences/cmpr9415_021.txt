@@ -1,0 +1,411 @@
+cmpr9415-021-p2s1
+1	Náš	PSYS1-P1-------	Atr
+2	obchodní	AAMS1----1A----	Atr
+3	partner	NNMS1-----A----	ExD
+4	:	Z:-------------	AuxK
+
+cmpr9415-021-p3s1
+1	Dánské	AANS1----1A----	Atr
+2	království	NNNS1-----A----	ExD
+
+cmpr9415-021-p4s1
+1	Obchodní	AAIP1----1A----	Atr
+2	vztahy	NNIP1-----A----	Sb
+3	mezi	RR--7----------	AuxP
+4	Českou	AAFS7----1A----	Atr
+5	republikou	NNFS7-----A----	Atr
+6	a	J^-------------	Coord
+7	Dánskem	NNNS7-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	začaly	VpTP---XR-AA---	Pred
+10	výrazněji	Dg-------2A----	Adv
+11	rozvíjet	Vf--------A----	Obj
+12	až	TT-------------	AuxZ
+13	po	RR--6----------	AuxP
+14	roce	NNIS6-----A---1	Adv
+15	1990	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	když	J,-------------	AuxC
+18	nejvyššího	AAIS2----3A----	Atr
+19	rozmachu	NNIS2-----A----	Obj
+20	dosáhly	VpTP---XR-AA---	Adv
+21	v	RR--6----------	AuxP
+22	roce	NNIS6-----A---1	Adv
+23	1992	C=-------------	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9415-021-p4s2
+1	Podle	RR--2----------	AuxP
+2	dánských	AAIP2----1A----	Atr
+3	údajů	NNIP2-----A----	Adv
+4	přesáhl	VpYS---XR-AA---	Pred
+5	vzájemný	AAIS1----1A----	Atr
+6	obchod	NNIS1-----A----	Sb
+7	za	RR--4----------	AuxP
+8	prvních	CrIP2----------	Atr
+9	devět	Cn-S4----------	Adv
+10	měsíců	NNIP2-----A----	Atr
+11	loňského	AAIS2----1A----	Atr
+12	roku	NNIS2-----A---1	Atr
+13	hodnotu	NNFS4-----A----	Obj
+14	1.2	C=-------------	Atr
+15	miliardy	NNFS2-----A----	Atr
+16	dánských	AAFP2----1A----	Atr
+17	korun	NNFP2-----A----	Atr
+18	(	Z:-------------	Apos
+19	asi	TT-------------	AuxZ
+20	pět	Cn-S1----------	Atr
+21	miliard	NNFP2-----A----	Atr
+22	Kč	NNFXX-----A----	Atr
+23	)	Z:-------------	AuxG
+24	.	Z:-------------	AuxK
+
+cmpr9415-021-p4s3
+1	Bylo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	asi	TT-------------	AuxZ
+4	o	RR--4----------	AuxP
+5	150	C=-------------	Adv
+6	%	Z:-------------	Atr
+7	více	Dg-------2A----	Pnom
+8	než	J,-------------	AuxC
+9	za	RR--4----------	AuxP
+10	stejné	AANS4----1A----	Atr
+11	období	NNNS4-----A----	ExD
+12	v	RR--6----------	AuxP
+13	roce	NNIS6-----A---1	Atr
+14	1990	C=-------------	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9415-021-p4s4
+1	Na	RR--6----------	AuxP
+2	dánském	AAIS6----1A----	Atr
+3	exportu	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	nejvíce	Dg-------3A----	Adv
+6	podílely	VpTP---XR-AA---	Pred
+7	stroje	NNIP1-----A----	Sb
+8	a	J^-------------	Coord
+9	dopravní	AANP1----1A----	Atr
+10	zařízení	NNNP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	různé	AAIP1----1A----	Atr
+13	přístroje	NNIP1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	chemikálie	NNFP1-----A----	Sb
+16	a	J^-------------	Coord
+17	potraviny	NNFP1-----A----	Sb
+18	,	Z:-------------	Coord
+19	zejména	Db-------------	AuxZ
+20	ryby	NNFP1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+cmpr9415-021-p4s5
+1	Český	AAIS1----1A----	Atr
+2	export	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	již	Db-------------	AuxZ
+5	tradičně	Dg-------1A----	Adv
+6	opíral	VpYS---XR-AA---	Pred
+7	o	RR--4----------	AuxP
+8	vozy	NNIP4-----A----	Obj
+9	Škoda	NNFS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	kovy	NNIP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	textil	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	boty	NNFP4-----A----	Obj
+16	a	J^-------------	Coord
+17	chemikálie	NNFP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+cmpr9415-021-p4s6
+1	Z	RR--2----------	AuxP
+2	dánské	AAFS2----1A----	Atr
+3	strany	NNFS2-----A----	Adv
+4	zaznamenaly	VpTP---XR-AA---	Pred
+5	největší	AAIS4----3A----	Atr
+6	nárůst	NNIS4-----A----	Obj
+7	technologie	NNFP1-----A----	Sb
+8	pro	RR--4----------	AuxP
+9	životní	AANS4----1A----	Atr
+10	prostředí	NNNS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9415-021-p5s1
+1	Investoři	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	probouzejí	VB-P---3P-AA---	Pred
+
+cmpr9415-021-p6s1
+1	Vstup	NNIS1-----A----	Sb
+2	dánských	AAMP2----1A----	Atr
+3	investorů	NNMP2-----A----	Atr
+4	do	RR--2----------	AuxP
+5	české	AAFS2----1A----	Atr
+6	ekonomiky	NNFS2-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	výrazně	Dg-------1A----	Adv
+9	pomalejší	AAIS1----2A----	Pnom
+10	než	J,-------------	AuxC
+11	z	RR--2----------	AuxP
+12	většiny	NNFS2-----A----	ExD
+13	dalších	AAFP2----1A----	Atr
+14	zemí	NNFP2-----A----	Atr
+15	Evropské	AAFS2----1A----	Atr
+16	unie	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9415-021-p6s2
+1	Za	RR--4----------	AuxP
+2	loňský	AAIS4----1A----	Atr
+3	rok	NNIS4-----A----	Adv
+4	dosáhly	VpTP---XR-AA---	Pred
+5	dánské	AAFP1----1A----	Atr
+6	investice	NNFP1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	ČR	NNFXX-----A---8	Adv
+9	pouze	Db-------------	AuxZ
+10	13	C=-------------	Atr
+11	milionů	NNIP2-----A----	Obj
+12	DKK	NNFXX-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9415-021-p6s3
+1	Je	VB-S---3P-AA---	Pred
+2	tomu	PDZS3----------	Sb
+3	tak	Db-------------	Adv
+4	i	J^-------------	AuxZ
+5	proto	Db-------------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	v	RR--6----------	AuxP
+9	Dánsku	NNNS6-----A----	Adv
+10	jsou	VB-P---3P-AA---	Adv
+11	většinou	NNFS7-----A----	Pnom
+12	jen	TT-------------	AuxZ
+13	menší	AAIP1----2A----	Atr
+14	a	J^-------------	Coord
+15	střední	AAIP1----1A----	Atr
+16	podniky	NNIP1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	které	P4IP1----------	Sb
+19	v	RR--6----------	AuxP
+20	zahraničí	NNNS6-----A----	Adv
+21	tolik	Db-------------	Adv
+22	neinvestují	VB-P---3P-NA---	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9415-021-p6s4
+1	V	RR--6----------	AuxP
+2	příštích	AANP6----1A----	Atr
+3	dvou	ClXP6----------	Atr
+4	až	J^-------------	Coord
+5	třech	ClXP6----------	Atr
+6	letech	NNNP6-----A----	Adv
+7	chtějí	VB-P---3P-AA---	Pred
+8	-	Z:-------------	AuxG
+9	zejména	Db-------------	AuxZ
+10	do	RR--2----------	AuxP
+11	výroby	NNFS2-----A----	Adv
+12	eternitu	NNIS2-----A----	Atr
+13	-	Z:-------------	AuxG
+14	Dánové	NNMP1-----A----	Sb
+15	investovat	Vf--------A----	Obj
+16	400	C=-------------	Obj
+17	až	J^-------------	Coord
+18	500	C=-------------	Obj
+19	milionů	NNIP2-----A----	Atr
+20	DKK	NNFXX-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9415-021-p6s5
+1	Dále	Db------------1	Adv
+2	se	P7-X4----------	AuxR
+3	plánuje	VB-S---3P-AA---	Pred
+4	výstavba	NNFS1-----A----	Sb
+5	moderních	AAFP2----1A----	Atr
+6	jatek	NNFP2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Havlíčkově	AUIS6M---------	Atr
+9	Brodě	NNIS6-----A----	Atr
+10	,	Z:-------------	Coord
+11	připravuje	VB-S---3P-AA---	Pred
+12	se	P7-X4----------	AuxR
+13	spolupráce	NNFS1-----A----	Sb
+14	ve	RV--6----------	AuxP
+15	výrobě	NNFS6-----A----	Atr
+16	nábytku	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9415-021-p7s1
+1	Služby	NNFP1-----A----	ExD
+2	českým	AAIP3----1A----	Atr
+3	podnikům	NNIP3-----A----	Atr
+
+cmpr9415-021-p8s1
+1	Obchodní	AANS1----1A----	Atr
+2	oddělení	NNNS1-----A----	Sb
+3	dánského	AANS2----1A----	Atr
+4	velvyslanectví	NNNS2-----A----	Atr
+5	předává	VB-S---3P-AA---	Pred
+6	požadavky	NNIP4-----A----	Obj
+7	českých	AAFP2----1A----	Atr
+8	firem	NNFP2-----A----	Atr
+9	-	Z:-------------	AuxG
+10	které	P4FP1----------	Sb
+11	chtějí	VB-P---3P-AA---	Atr
+12	investovat	Vf--------A----	Obj
+13	nebo	J^-------------	Coord
+14	navázat	Vf--------A----	Obj
+15	výrobní	AAFS4----1A----	Atr
+16	spolupráci	NNFS4-----A----	Obj
+17	-	Z:-------------	AuxG
+18	do	RR--2----------	AuxP
+19	Dánska	NNNS2-----A----	Adv
+20	,	Z:-------------	AuxX
+21	kde	Db-------------	Adv
+22	jsou	VB-P---3P-AA---	Atr
+23	otištěny	VsTP---XX-AP---	Pnom
+24	v	RR--6----------	AuxP
+25	odborném	AAIS6----1A----	Atr
+26	týdeníku	NNIS6-----A----	Adv
+27	,	Z:-------------	AuxX
+28	který	P4YS1----------	Sb
+29	je	VB-S---3P-AA---	Atr
+30	určen	VsYS---XX-AP---	Pnom
+31	dánským	AAIP3----1A----	Atr
+32	podnikům	NNIP3-----A----	Obj
+33	.	Z:-------------	AuxK
+
+cmpr9415-021-p8s2
+1	Zprostředkuje	VB-S---3P-AA---	Pred
+2	rovněž	Db-------------	Adv
+3	nabídky	NNFP4-----A----	Obj
+4	dánských	AAFP2----1A----	Atr
+5	firem	NNFP2-----A----	Atr
+6	českým	AAIP3----1A----	Atr
+7	podnikům	NNIP3-----A----	AtrAdv
+8	,	Z:-------------	AuxX
+9	které	P4IP1----------	Sb
+10	shánějí	VB-P---3P-AA---	Atr
+11	know	NNNXX-----A----	Obj
+12	-	Z:-------------	Coord
+13	how	NNNXX-----A----	Obj
+14	,	Z:-------------	AuxX
+15	například	Db-------------	AuxY
+16	v	RR--6----------	AuxP
+17	textilním	AAIS6----1A----	Atr
+18	průmyslu	NNIS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9415-021-p9s1
+1	Dokumenty	NNIP1-----A----	ExD
+
+cmpr9415-021-p10s1
+1	Ke	RV--3----------	AuxP
+2	krátkodobé	AAFS3----1A----	Atr
+3	cestě	NNFS3-----A----	Adv
+4	do	RR--2----------	AuxP
+5	Dánska	NNNS2-----A----	Atr
+6	nepřesahující	AGFS3-----N----	Atr
+7	tři	ClXP4----------	Atr
+8	měsíce	NNIP4-----A----	Obj
+9	potřebuje	VB-S---3P-AA---	Pred
+10	český	AAMS1----1A----	Atr
+11	občan	NNMS1-----A----	Sb
+12	pouze	Db-------------	AuxZ
+13	platný	AAIS4----1A----	Atr
+14	cestovní	AAIS4----1A----	Atr
+15	pas	NNIS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9415-021-p10s2
+1	K	RR--3----------	AuxP
+2	delšímu	AAIS3----2A----	Atr
+3	pracovnímu	AAIS3----1A----	Atr
+4	pobytu	NNIS3-----A----	Adv
+5	musí	VB-S---3P-AA---	Pred
+6	zájemce	NNMS1-----A----	Sb
+7	vyplnit	Vf--------A----	Obj
+8	zvláštní	AAIS4----1A----	Atr
+9	formulář	NNIS4-----A----	Obj
+10	na	RR--6----------	AuxP
+11	dánském	AANS6----1A----	Atr
+12	velvyslanectví	NNNS6-----A----	AtrAdv
+13	v	RR--6----------	AuxP
+14	Praze	NNFS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9415-021-p10s3
+1	Přiložit	Vf--------A----	Obj
+2	musí	VB-S---3P-AA---	Pred
+3	dopis	NNIS4-----A----	Obj
+4	dánského	AAIS2----1A----	Atr
+5	podniku	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	se	P7-X4----------	AuxT
+9	rozhodl	VpYS---XR-AA--1	Atr
+10	českého	AAMS4----1A----	Atr
+11	občana	NNMS4-----A----	Obj
+12	zaměstnat	Vf--------A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9415-021-p10s4
+1	Obdobný	AAIS4----1A----	Atr
+2	dopis	NNIS4-----A----	Obj
+3	je	VB-S---3P-AA---	Pred
+4	povinen	ACYS------A----	Pnom
+5	dánský	AAIS1----1A----	Atr
+6	podnik	NNIS1-----A----	Sb
+7	zaslat	Vf--------A----	Obj
+8	také	Db-------------	AuxZ
+9	úřadům	NNIP3-----A----	Obj
+10	v	RR--6----------	AuxP
+11	Kodani	NNFS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	které	P4IP1----------	Sb
+14	o	RR--6----------	AuxP
+15	žádosti	NNFS6-----A----	Obj
+16	rozhodují	VB-P---3P-AA---	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9415-021-p11s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Velvyslanectví	NNNS1-----A----	ExD
+4	Dánského	AANS2----1A----	Atr
+5	království	NNNS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	U	RR--2----------	AuxP
+8	páté	CrFS2----------	Atr
+9	baterie	NNFS2-----A----	Atr
+10	7	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	162	C=-------------	Atr
+13	00	C=-------------	Atr
+14	Praha	NNFS1-----A----	Atr
+15	6	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	tel	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	02	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	35	C=-------------	Atr
+24	11	C=-------------	Atr
+25	14	C=-------------	Atr
+26	,	Z:-------------	AuxX
+27	FAX	NNIS1-----A----	Atr
+28	:	Z:-------------	AuxG
+29	(	Z:-------------	AuxG
+30	02	C=-------------	Atr
+31	)	Z:-------------	AuxG
+32	35	C=-------------	Atr
+33	06	C=-------------	Atr
+34	59	C=-------------	Atr
+35	.	Z:-------------	AuxK
+

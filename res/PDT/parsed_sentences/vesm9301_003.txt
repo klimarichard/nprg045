@@ -1,0 +1,266 @@
+vesm9301-003-p1s1
+1	ZMĚNY	NNFP1-----A----	ExD
+2	KLIMATU	NNNS2-----A----	Atr
+3	V	RR--6----------	AuxP
+4	USA	NNIPX-----A----	Atr
+5	ZA	RR--4----------	AuxP
+6	POSLEDNÍCH	AANP2----1A----	Atr
+7	100	C=-------------	Atr
+8	LET	NNNP2-----A----	Atr
+
+vesm9301-003-p2s1
+1	Spojené	AAIP1----1A----	Atr
+2	státy	NNIP1-----A----	Sb
+3	tvoří	VB-P---3P-AA---	Pred
+4	jen	TT-------------	AuxZ
+5	1.5	C=-------------	Obj
+6	%	Z:-------------	Atr
+7	plochy	NNFS2-----A----	Atr
+8	Země	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+vesm9301-003-p2s2
+1	Nepředstavují	VB-P---3P-NA---	Pred
+2	tedy	Db-------------	AuxY
+3	z	RR--2----------	AuxP
+4	hlediska	NNNS2-----A----	AuxP
+5	globálních	AAFP2----1A----	Atr
+6	změn	NNFP2-----A----	Adv
+7	důležité	AANS4----1A----	Atr
+8	území	NNNS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+vesm9301-003-p2s3
+1	Přesto	Dg-------1A----	Coord
+2	disponují	VB-P---3P-AA---	Pred
+3	jednou	ClFS7----------	Obj
+4	z	RR--2----------	AuxP
+5	nejdokonalejších	AAFP2----3A----	Atr
+6	klimatických	AAFP2----1A----	Atr
+7	databází	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+vesm9301-003-p2s4
+1	Značná	AAFS1----1A----	Atr
+2	část	NNFS1-----A----	Sb
+3	USA	NNIPX-----A----	Atr
+4	leží	VB-S---3P-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	stejných	AANP6----1A----	Atr
+7	klimatických	AANP6----1A----	Atr
+8	pásmech	NNNP6-----A----	Adv
+9	jako	J,-------------	AuxC
+10	Evropa	NNFS1-----A----	ExD
+11	,	Z:-------------	AuxX
+12	takže	J,-------------	AuxC
+13	americké	AAIP1----1A----	Atr
+14	údaje	NNIP1-----A----	Sb
+15	představují	VB-P---3P-AA---	Adv
+16	velmi	Db-------------	Adv
+17	cenný	AAIS4----1A----	Atr
+18	srovnávací	AAIS4----1A----	Atr
+19	materiál	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+vesm9301-003-p2s5
+1	Za	RR--4----------	AuxP
+2	posledních	AANP2----1A----	Atr
+3	100	C=-------------	Adv
+4	let	NNNP2-----A----	Atr
+5	jsou	VB-P---3P-AA---	AuxV
+6	indikovány	VsTP---XX-AP---	Pred
+7	tyto	PDFP1----------	Atr
+8	klimatické	AAFP1----1A----	Atr
+9	změny	NNFP1-----A----	Sb
+10	:	Z:-------------	AuxK
+
+vesm9301-003-p3s1
+1	I	C}-------------	Adv
+2	.	Z:-------------	AuxG
+3	Teploty	NNFP1-----A----	Sb
+4	nevykazují	VB-P---3P-NA---	Pred
+5	žádné	PWYP4----------	Atr
+6	statisticky	Dg-------1A----	Adv
+7	významné	AAIP4----1A----	Atr
+8	trendy	NNIP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+vesm9301-003-p3s2
+1	Nemůžeme	VB-P---1P-NA---	Pred
+2	dokonce	Db-------------	AuxZ
+3	ani	J^-------------	AuxZ
+4	s	RR--7----------	AuxP
+5	důvěrou	NNFS7-----A----	Adv
+6	říct	Vf--------A---1	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	USA	NNIPX-----A----	Adv
+10	se	P7-X4----------	AuxT
+11	oteplují	VB-P---3P-AA---	Obj
+12	.	Z:-------------	AuxK
+
+vesm9301-003-p3s3
+1	K	RR--3----------	AuxP
+2	výraznému	AANS3----1A----	Atr
+3	oteplení	NNNS3-----A----	Obj
+4	dochází	VB-S---3P-AA---	Pred
+5	před	RR--7----------	AuxP
+6	rokem	NNIS7-----A----	Adv
+7	1920	C=-------------	Atr
+8	,	Z:-------------	Coord
+9	trendy	NNIP1-----A----	Sb
+10	pro	RR--4----------	AuxP
+11	léta	NNNP4-----A---2	Atr
+12	1920	C=-------------	Atr
+13	-	Z:-------------	Coord
+14	87	C=-------------	Atr
+15	ukazují	VB-P---3P-AA---	Pred
+16	spíš	Dg-------2A----	Adv
+17	na	RR--4----------	AuxP
+18	ochlazení	NNNS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+vesm9301-003-p3s4
+1	Zmenšuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	rozmezí	NNNS1-----A----	Sb
+4	denních	AAFP2----1A----	Atr
+5	a	J^-------------	Coord
+6	nočních	AAFP2----1A----	Atr
+7	teplot	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+vesm9301-003-p3s5
+1	Maximální	AAFP1----1A----	Atr
+2	teploty	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	nemění	VB-P---3P-NA---	Pred
+5	,	Z:-------------	Coord
+6	minimální	AAFP1----1A----	Atr
+7	teploty	NNFP1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	mírně	Dg-------1A----	Adv
+10	zvyšují	VB-P---3P-AA---	Pred
+11	.	Z:-------------	AuxK
+
+vesm9301-003-p3s6
+1	Celkově	Dg-------1A----	Adv
+2	jsou	VB-P---3P-AA---	Pred
+3	teplotní	AAFP1----1A----	Atr
+4	změny	NNFP1-----A----	Sb
+5	podstatně	Dg-------1A----	Adv
+6	menší	AAFP1----2A----	Pnom
+7	než	J,-------------	AuxC
+8	počítačové	AAFP1----1A----	Atr
+9	předpovědi	NNFP1-----A----	ExD
+10	.	Z:-------------	AuxK
+
+vesm9301-003-p4s1
+1	II	C}-------------	ExD
+2	.	Z:-------------	AuxK
+
+vesm9301-003-p4s2
+1	Podobně	Dg-------1A----	Adv
+2	jako	J,-------------	AuxC
+3	na	RR--6----------	AuxP
+4	většině	NNFS6-----A----	ExD
+5	glóbu	NNIS2-----A----	Atr
+6	došlo	VpNS---XR-AA---	Pred
+7	k	RR--3----------	AuxP
+8	malému	AANS3----1A----	Atr
+9	zvýšení	NNNS3-----A----	Obj
+10	srážek	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	v	RR--6----------	AuxP
+13	průměru	NNIS6-----A----	Atr
+14	o	RR--4----------	AuxP
+15	4	C=-------------	Atr
+16	%	Z:-------------	Atr
+17	.	Z:-------------	AuxK
+
+vesm9301-003-p4s3
+1	Zvýšení	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	vázáno	VsNS---XX-AP---	Pred
+4	pouze	Db-------------	AuxZ
+5	na	RR--4----------	AuxP
+6	jaro	NNNS4-----A----	Obj
+7	a	J^-------------	Coord
+8	podzim	NNIS4-----A----	Obj
+9	,	Z:-------------	Coord
+10	léto	NNNS1-----A----	Sb
+11	a	J^-------------	Coord
+12	zima	NNFS1-----A----	Sb
+13	naopak	Db-------------	Adv
+14	ukazují	VB-P---3P-AA---	Pred
+15	malé	AANS4----1A----	Atr
+16	snížení	NNNS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+vesm9301-003-p5s1
+1	III	C}-------------	ExD
+2	.	Z:-------------	AuxK
+
+vesm9301-003-p5s2
+1	Většina	NNFS1-----A----	Sb
+2	modelů	NNIP2-----A----	Atr
+3	předpovídá	VB-S---3P-AA---	Pred
+4	sucha	NNNP4-----A----	Obj
+5	a	J^-------------	Coord
+6	celkovou	AAFS4----1A----	Atr
+7	aridizaci	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	přesto	Dg-------1A----	Coord
+10	existuje	VB-S---3P-AA---	Pred
+11	statisticky	Dg-------1A----	Adv
+12	význačný	AAIS1----1A----	Atr
+13	trend	NNIS1-----A----	Sb
+14	směřující	AGIS1-----A----	Atr
+15	od	RR--2----------	AuxP
+16	aridizace	NNFS2-----A----	Adv
+17	ke	RV--3----------	AuxP
+18	zvyšování	NNNS3-----A----	Adv
+19	půdní	AAFS2----1A----	Atr
+20	vlhkosti	NNFS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	který	P4YS1----------	Sb
+23	se	P7-X4----------	AuxR
+24	uplatňuje	VB-S---3P-AA---	Atr
+25	zvláště	Db-------------	AuxZ
+26	ve	RV--6----------	AuxP
+27	středu	NNIS6-----A----	Adv
+28	USA	NNIPX-----A----	Atr
+29	.	Z:-------------	AuxK
+
+vesm9301-003-p6s1
+1	V	RR--6----------	AuxP
+2	USA	NNIPX-----A----	Adv
+3	tedy	Db-------------	AuxY
+4	nepozorujeme	VB-P---1P-NA---	Pred
+5	žádné	PWYP4----------	Atr
+6	katastrofické	AAIP4----1A----	Atr
+7	trendy	NNIP4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+vesm9301-003-p6s2
+1	Většina	NNFS1-----A----	Sb
+2	změn	NNFP2-----A----	Atr
+3	odpovídá	VB-S---3P-AA---	Pred
+4	předpovědím	NNFP3-----A----	Obj
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	je	VB-S---3P-AA---	Pred
+8	méně	Dg-------2A----	Adv
+9	výrazná	AAFS1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+vesm9301-003-p6s3
+1	Může	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	být	Vf--------A----	Obj
+4	skutečná	AAFS1----1A----	Atr
+5	tvář	NNFS1-----A----	Pnom
+6	skleníkového	AAIS2----1A----	Atr
+7	efektu	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+

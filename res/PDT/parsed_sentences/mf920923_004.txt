@@ -1,0 +1,129 @@
+mf920923-004-p1s1
+1	Obavy	NNFP1-----A----	ExD
+2	z	RR--2----------	AuxP
+3	bankrotu	NNIS2-----A----	Atr
+
+mf920923-004-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	tma	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920923-004-p2s2
+1	Předsedové	NNMP1-----A----	Sb
+2	hospodářských	AAIP2----1A----	Atr
+3	výborů	NNIP2-----A----	Atr
+4	obou	ClXP2----------	Atr
+5	sněmoven	NNFP2-----A----	Atr
+6	Federálního	AANS2----1A----	Atr
+7	shromáždění	NNNS2-----A----	Atr
+8	jsou	VB-P---3P-AA---	Pred
+9	zmocněni	VsMP---XX-AP---	Pnom
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	předsedovi	NNMS3-----A----	Obj
+13	parlamentu	NNIS2-----A----	Atr
+14	předložili	VpMP---XR-AA---	Adv
+15	návrh	NNIS4-----A----	Obj
+16	nové	AAFS2----1A----	Atr
+17	úpravy	NNFS2-----A----	Atr
+18	zákona	NNIS2-----A----	Atr
+19	o	RR--6----------	AuxP
+20	bankrotu	NNIS6-----A----	Atr
+21	a	J^-------------	Coord
+22	vyrovnání	NNNS6-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf920923-004-p2s3
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	komuniké	NNNXX-----A----	Obj
+5	včerejší	AAFS2----1A----	Atr
+6	,	Z:-------------	AuxX
+7	třetí	CrFS2----------	Atr
+8	společné	AAFS2----1A----	Atr
+9	schůze	NNFS2-----A----	Atr
+10	výborů	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf920923-004-p2s4
+1	Předseda	NNMS1-----A----	Sb
+2	FS	NNNXX-----A---8	Atr
+3	byl	VpYS---XR-AA---	AuxV
+4	dále	Db------------1	Adv
+5	požádán	VsYS---XX-AP---	Pred
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	bylo	VpNS---XR-AA---	AuxV
+9	upuštěno	VsNS---XX-AP---	Obj
+10	od	RR--2----------	AuxP
+11	projednávání	NNNS2-----A----	Obj
+12	zásad	NNFP2-----A----	Atr
+13	připravované	AAFS2----1A----	Atr
+14	změny	NNFS2-----A----	Atr
+15	ve	RV--6----------	AuxP
+16	výborech	NNIP6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920923-004-p2s5
+1	To	PDNS1----------	Sb
+2	by	Vc-------------	AuxV
+3	mělo	VpNS---XR-AA---	Pred
+4	urychlit	Vf--------A----	Obj
+5	celou	AAFS4----1A----	Atr
+6	proceduru	NNFS4-----A----	Obj
+7	tak	Db-------------	Adv
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	období	NNNS1-----A----	Sb
+11	mezi	RR--7----------	AuxP
+12	přijetím	NNNS7-----A----	Atr
+13	novely	NNFS2-----A----	Atr
+14	zákona	NNIS2-----A----	Atr
+15	o	RR--6----------	AuxP
+16	bankrotu	NNIS6-----A----	Atr
+17	a	J^-------------	Coord
+18	dobou	NNFS7-----A----	Atr
+19	,	Z:-------------	AuxX
+20	kdy	Db-------------	Adv
+21	začne	VB-S---3P-AA---	Atr
+22	působit	Vf--------A----	Obj
+23	v	RR--6----------	AuxP
+24	plném	AANS6----1A----	Atr
+25	znění	NNNS6-----A----	Adv
+26	(	Z:-------------	ExD
+27	1	C=-------------	Atr
+28	.	Z:-------------	AuxG
+29	října	NNIS2-----A----	ExD
+30	)	Z:-------------	ExD
+31	,	Z:-------------	AuxX
+32	bude	VB-S---3F-AA---	Adv
+33	co	Db-------------	Adv
+34	nejkratší	AANS1----3A----	Pnom
+35	.	Z:-------------	AuxK
+
+mf920923-004-p2s6
+1	Výbory	NNIP1-----A----	Sb
+2	požádaly	VpTP---XR-AA---	Pred
+3	vládu	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	jim	PPXP3--3-------	Obj
+7	předložila	VpQW---XR-AA---	Obj
+8	analýzu	NNFS4-----A----	Obj
+9	možných	AAIP2----1A----	Atr
+10	dopadů	NNIP2-----A----	Atr
+11	plné	AAFS2----1A----	Atr
+12	platnosti	NNFS2-----A----	Atr
+13	zákona	NNIS2-----A----	Atr
+14	a	J^-------------	Coord
+15	případně	Dg-------1A----	AuxZ
+16	také	Db-------------	AuxZ
+17	návrh	NNIS4-----A----	Obj
+18	jeho	PSXXXZS3-------	Atr
+19	komplexní	AAFS2----1A----	Atr
+20	novely	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+

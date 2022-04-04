@@ -1,0 +1,180 @@
+ln94206-54-p1s1
+1	Případ	NNIS1-----A----	Sb
+2	Národní	AANS1----1A----	Atr
+3	divadlo	NNNS1-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	živý	AAIS1----1A----	Pnom
+
+ln94206-54-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	haš	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	če	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94206-54-p2s1B
+1	Řešit	Vf--------A----	Obj
+2	kauzu	NNFS4-----A----	Obj
+3	Národní	AANS1----1A----	Atr
+4	divadlo	NNNS1-----A----	Atr
+5	versus	RR--1----------	AuxP
+6	Řád	NNIS1-----A----	Atr
+7	sv	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	Voršily	NNFS2-----A----	Atr
+10	zákonem	NNIS7-----A----	Adv
+11	o	RR--6----------	AuxP
+12	změně	NNFS6-----A----	Atr
+13	vlastníka	NNMS2-----A----	Atr
+14	nebo	J^-------------	Coord
+15	svěřit	Vf--------A----	Obj
+16	případ	NNIS4-----A----	Obj
+17	Ústavnímu	AAIS3----1A----	Atr
+18	soudu	NNIS3-----A----	Obj
+19	je	VB-S---3P-AA---	Pred
+20	i	J^-------------	AuxZ
+21	nadále	Db-------------	Adv
+22	odhodlán	VsYS---XX-AP---	Pnom
+23	předseda	NNMS1-----A----	Atr
+24	kulturního	AAIS2----1A----	Atr
+25	výboru	NNIS2-----A----	Atr
+26	parlamentu	NNIS2-----A----	Atr
+27	František	NNMS1-----A----	Atr
+28	Kozel	NNMS1-----A----	Sb
+29	(	Z:-------------	ExD
+30	ODS	NNFXX-----A---8	ExD
+31	)	Z:-------------	ExD
+32	.	Z:-------------	AuxK
+
+ln94206-54-p2s3
+1	Zákon	NNIS1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	úpravě	NNFS6-----A----	Atr
+4	některých	PZXP2----------	Atr
+5	majetkových	AAIP2----1A----	Atr
+6	vztahů	NNIP2-----A----	Atr
+7	řeholních	AAIP2----1A----	Atr
+8	řádů	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	kongregací	NNFP2-----A----	Atr
+11	z	RR--2----------	AuxP
+12	roku	NNIS2-----A---1	Atr
+13	1991	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	na	RR--6----------	AuxP
+16	jehož	PJZS2----------	Atr
+17	základě	NNIS6-----A----	Adv
+18	získal	VpYS---XR-AA---	Atr
+19	Řád	NNIS1-----A----	Sb
+20	sv	AAXXX----1A---8	Atr
+21	.	Z:-------------	AuxG
+22	Voršily	NNFS2-----A----	Atr
+23	provozní	AAFS4----1A----	Atr
+24	budovu	NNFS4-----A----	Obj
+25	ND	NNNXX-----A---8	Atr
+26	,	Z:-------------	AuxX
+27	je	VB-S---3P-AA---	Pred
+28	podle	RR--2----------	AuxP
+29	něho	P5ZS2--3------1	Adv
+30	špatný	AAIS1----1A----	Pnom
+31	.	Z:-------------	AuxK
+
+ln94206-54-p2s5
+1	Jsem	VB-S---1P-AA---	Obj
+2	ochoten	ACYS------A----	Pnom
+3	riskovat	Vf--------A----	Obj
+4	i	J^-------------	AuxZ
+5	nařčení	NNNS4-----A----	Obj
+6	z	RR--2----------	AuxP
+7	vyvlastňování	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	uvedl	VpYS---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+ln94206-54-p2s6
+1	Středeční	AANS4----1A----	Atr
+2	rozhodnutí	NNNS4-----A----	Obj
+3	soudu	NNIS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	voršilky	NNFP1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	souladu	NNIS6-----A----	AuxP
+9	se	RV--7----------	AuxP
+10	zákonem	NNIS7-----A----	Adv
+11	mají	VB-P---3P-AA---	Atr
+12	na	RR--4----------	AuxP
+13	budovu	NNFS4-----A----	Atr
+14	nárok	NNIS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	nechce	VB-S---3P-NA---	Pred
+17	Kozel	NNMS1-----A----	Sb
+18	komentovat	Vf--------A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94206-54-p2s7
+1	Než	J,-------------	AuxC
+2	však	J^-------------	Coord
+3	sněmovně	NNFS3-----A----	Obj
+4	svůj	P8IS4----------	Atr
+5	přes	RR--4----------	AuxP
+6	rok	NNIS4-----A----	Adv
+7	starý	AAIS4----1A----	Atr
+8	návrh	NNIS4-----A----	Obj
+9	vyvlastňovacího	AAIS2----1A----	Atr
+10	zákona	NNIS2-----A----	Atr
+11	předloží	VB-S---3P-AA---	Adv
+12	,	Z:-------------	AuxX
+13	chce	VB-S---3P-AA---	Pred
+14	počkat	Vf--------A----	Obj
+15	,	Z:-------------	AuxX
+16	zda	J,-------------	AuxC
+17	bude	VB-S---3F-AA---	AuxV
+18	výrok	NNIS1-----A----	Sb
+19	soudu	NNIS2-----A----	Atr
+20	potvrzen	VsYS---XX-AP---	Obj
+21	vyšší	AAFS7----2A----	Atr
+22	instancí	NNFS7-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94206-54-p2s8
+1	Rozhodnutím	NNNS7-----A----	Adv
+2	soudu	NNIS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	žalobě	NNFS6-----A----	Atr
+5	o	RR--4----------	AuxP
+6	provozní	AAFS4----1A----	Atr
+7	budovu	NNFS4-----A----	Atr
+8	ND	NNNXX-----A---8	Atr
+9	,	Z:-------------	AuxX
+10	předanou	AAFS4----1A----	Atr
+11	Voršilkám	NNFP3-----A----	Obj
+12	,	Z:-------------	AuxX
+13	případ	NNIS1-----A----	Sb
+14	na	RR--6----------	AuxP
+15	soudním	AANS6----1A----	Atr
+16	poli	NNNS6-----A----	Adv
+17	pro	RR--4----------	AuxP
+18	ministerstvo	NNNS4-----A----	Adv
+19	financí	NNFP2-----A----	Atr
+20	skončil	VpYS---XR-AA---	Pred
+21	.	Z:-------------	AuxK
+
+ln94206-54-p2s9
+1	Ministr	NNMS1-----A----	Atr
+2	Ivan	NNMS1-----A----	Atr
+3	Kočárník	NNMS1-----A----	Sb
+4	včera	Db-------------	Adv
+5	prohlásil	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	resort	NNIS1-----A----	Sb
+9	zvažuje	VB-S---3P-AA---	Obj
+10	jiné	AAIP4----1A----	Atr
+11	,	Z:-------------	Apos
+12	mimosoudní	AAIP4----1A----	Atr
+13	kroky	NNIP4-----A----	Obj
+14	.	Z:-------------	AuxK
+

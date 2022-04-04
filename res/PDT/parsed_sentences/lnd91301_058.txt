@@ -1,0 +1,126 @@
+lnd91301-058-p1s1B
+1	ALŽÍRSKO	NNNS1-----A----	ExD
+2	PO	RR--6----------	AuxP
+3	VOLBÁCH	NNFP6-----A----	Atr
+
+lnd91301-058-p2s1B
+1	Fundamentalisté	NNMP1-----A----	ExD
+
+lnd91301-058-p3s1B
+1	ALŽÍR	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91301-058-p4s1B
+1	Islámská	AAFS1----1A----	Atr
+2	fronta	NNFS1-----A----	Sb
+3	spásy	NNFS2-----A----	Atr
+4	(	Z:-------------	Apos
+5	IFS	NNFXX-----A---8	Sb
+6	)	Z:-------------	AuxG
+7	dosáhla	VpQW---XR-AA---	Pred
+8	vítězství	NNNS2-----A----	Obj
+9	ve	RV--6----------	AuxP
+10	čtvrtečních	AAFP6----1A----	Atr
+11	parlamentních	AAFP6----1A----	Atr
+12	volbách	NNFP6-----A----	Adv
+13	v	RR--6----------	AuxP
+14	Alžírsku	NNNS6-----A----	AdvAtr
+15	.	Z:-------------	AuxK
+
+lnd91301-058-p4s2B
+1	Podle	RR--2----------	AuxP
+2	dílčích	AAIP2----1A----	Atr
+3	předběžných	AAIP2----1A----	Atr
+4	výsledků	NNIP2-----A----	Adv
+5	získala	VpQW---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	prvním	CrNS6----------	Atr
+8	kole	NNNS6-----A----	Adv
+9	167	C=-------------	Obj
+10	míst	NNNP2-----A----	Atr
+11	(	Z:-------------	Apos
+12	81	C=-------------	Obj
+13	procent	NNNP2-----A----	Atr
+14	mandátů	NNIP2-----A----	Atr
+15	)	Z:-------------	AuxG
+16	v	RR--6----------	AuxP
+17	430	C=-------------	Adv
+18	členném	AAIS6----1A----	Atr
+19	parlamentu	NNIS6-----A---1	Adv
+20	.	Z:-------------	AuxK
+
+lnd91301-058-p4s3B
+1	Ministr	NNMS1-----A----	Atr
+2	vnitra	NNNS2-----A----	Atr
+3	Larbí	NNMS1-----A----	Atr
+4	Belchír	NNMS1-----A----	Sb
+5	včera	Db-------------	Adv
+6	oznámil	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	podle	RR--2----------	AuxP
+10	dosud	Db-------------	Adv
+11	známých	AAIP2----1A----	Atr
+12	výsledků	NNIP2-----A----	Adv
+13	z	RR--2----------	AuxP
+14	386	C=-------------	Atr
+15	volebních	AAIP2----1A----	Atr
+16	obvodů	NNIP2-----A----	Atr
+17	bylo	VpNS---XR-AA---	Obj
+18	v	RR--6----------	AuxP
+19	prvním	CrNS6----------	Atr
+20	kole	NNNS6-----A----	Adv
+21	voleb	NNFP2-----A----	Atr
+22	rozděleno	VsNS---XX-AP---	Pnom
+23	206	C=-------------	Sb
+24	poslaneckých	AAIP2----1A----	Atr
+25	mandátů	NNIP2-----A----	Atr
+26	mezi	RR--4----------	AuxP
+27	kandidáty	NNMP4-----A----	Adv
+28	,	Z:-------------	AuxX
+29	kteří	P4MP1----------	Sb
+30	získali	VpMP---XR-AA---	Atr
+31	nadpoloviční	AAFS4----1A----	Atr
+32	většinu	NNFS4-----A----	Obj
+33	hlasů	NNIP2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+lnd91301-058-p4s4B
+1	Fundamentalistická	AAFS1----1A----	Atr
+2	IFS	NNFXX-----A---8	Sb
+3	získala	VpQW---XR-AA---	Pred
+4	167	C=-------------	Obj
+5	mandátů	NNIP2-----A----	Atr
+6	(	Z:-------------	Apos
+7	81	C=-------------	Obj
+8	procent	NNNP2-----A----	Atr
+9	)	Z:-------------	AuxG
+10	,	Z:-------------	AuxX
+11	Fronta	NNFS1-----A----	ExD
+12	socialistických	AAFP2----1A----	Atr
+13	sil	NNFP2-----A----	Atr
+14	20	C=-------------	ExD
+15	mandátů	NNIP2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	oblastech	NNFP6-----A----	ExD
+18	obývaných	AAFP6----1A----	Atr
+19	převážně	Dg-------1A----	Adv
+20	berberskou	AAFS7----1A----	Atr
+21	menšinou	NNFS7-----A----	Obj
+22	a	J^-------------	Coord
+23	vládnoucí	AGFS1-----A----	Atr
+24	Fronta	NNFS1-----A----	ExD
+25	národního	AANS2----1A----	Atr
+26	osvobození	NNNS2-----A----	Atr
+27	16	C=-------------	ExD
+28	mandátů	NNIP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+lnd91301-058-p4s5B
+1	Tři	ClXP4----------	Atr
+2	místa	NNNP4-----A----	Obj
+3	získali	VpMP---XR-AA---	Pred
+4	nezávislí	AAMP1----1N----	Atr
+5	kandidáti	NNMP1-----A----	Sb
+6	.	Z:-------------	AuxK
+

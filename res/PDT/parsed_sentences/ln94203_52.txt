@@ -1,0 +1,155 @@
+ln94203-52-p1s1
+1	Bomba	NNFS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	nádraží	NNNS6-----A----	Atr
+
+ln94203-52-p2s1A
+1	Olomouc	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pet	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94203-52-p2s1B
+1	Krátce	Dg-------1A----	Adv
+2	před	RR--7----------	AuxP
+3	polednem	NNNS7-----A----	Adv
+4	včera	Db-------------	Adv
+5	oznámil	VpYS---XR-AA---	Pred
+6	neznámý	AAIS1----1N----	Atr
+7	mužský	AAIS1----1A----	Atr
+8	hlas	NNIS1-----A----	Sb
+9	na	RR--6----------	AuxP
+10	telefonní	AAFS6----1A----	Atr
+11	lince	NNFS6-----A----	Adv
+12	městské	AAFS2----1A----	Atr
+13	policie	NNFS2-----A----	Atr
+14	uložení	NNNS4-----A----	Obj
+15	bomby	NNFS2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	prostorách	NNFP6-----A----	Atr
+18	hlavního	AANS2----1A----	Atr
+19	nádraží	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94203-52-p2s2
+1	Městská	AAFS1----1A----	Atr
+2	policie	NNFS1-----A----	Sb
+3	o	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	informovala	VpQW---XR-AA---	Pred
+6	pracovníky	NNMP4-----A----	Obj
+7	Českých	AAFP2----1A----	Atr
+8	drah	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94203-52-p2s3
+1	Po	RR--6----------	AuxP
+2	dvanácté	CrFS6----------	Adv
+3	byly	VpTP---XR-AA---	AuxV
+4	nádražní	AAFS1----1A----	Atr
+5	hala	NNFS1-----A----	Sb
+6	a	J^-------------	Coord
+7	část	NNFS1-----A----	Sb
+8	přilehlých	AANP2----1A----	Atr
+9	nástupišť	NNNP2-----A----	Atr
+10	vyklizeny	VsTP---XX-AP---	Pred
+11	.	Z:-------------	AuxK
+
+ln94203-52-p2s4
+1	Policejní	AAMS1----1A----	Atr
+2	pyrotechnik	NNMS1-----A----	Sb
+3	musel	VpYS---XR-AA---	Pred
+4	otevřít	Vf--------A----	Obj
+5	všechny	PLFP4----------	Atr
+6	bezpečnostní	AAFP4----1A----	Atr
+7	schránky	NNFP4-----A----	Obj
+8	ve	RV--6----------	AuxP
+9	vestibulu	NNIS6-----A----	AtrAdv
+10	.	Z:-------------	AuxK
+
+ln94203-52-p2s5
+1	Policie	NNFS1-----A----	Sb
+2	prohlížela	VpQW---XR-AA---	Pred
+3	odpadkové	AAIP4----1A----	Atr
+4	koše	NNIP4-----A----	Obj
+5	.	Z:-------------	AuxK
+
+ln94203-52-p2s6
+1	Asi	TT-------------	AuxZ
+2	za	RR--4----------	AuxP
+3	hodinu	NNFS4-----A----	Adv
+4	pyrotechnik	NNMS1-----A----	Sb
+5	konstatoval	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	bomba	NNFS1-----A----	Sb
+9	se	P7-X4----------	AuxT
+10	v	RR--6----------	AuxP
+11	objektu	NNIS6-----A----	Adv
+12	nenachází	VB-S---3P-NA---	Obj
+13	.	Z:-------------	AuxK
+
+ln94203-52-p2s7
+1	Ve	RV--4----------	AuxP
+2	13	C=-------------	Adv
+3	hod	NNFXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	už	Db-------------	Adv
+6	panoval	VpYS---XR-AA---	Pred
+7	obvyklý	AAIS1----1A----	Atr
+8	provoz	NNIS1-----A----	Sb
+9	,	Z:-------------	Coord
+10	k	RR--3----------	AuxP
+11	vážnějšímu	AANS3----2A----	Atr
+12	zpoždění	NNNS3-----A----	Obj
+13	vlaků	NNIP2-----A----	Atr
+14	nedošlo	VpNS---XR-NA---	Pred
+15	.	Z:-------------	AuxK
+
+ln94203-52-p2s8
+1	Jak	Db-------------	Adv
+2	řekl	VpYS---XR-AA---	Pred
+3	Lidovým	AAFP3----1A----	Atr
+4	novinám	NNFP3-----A----	Obj
+5	zástupce	NNMS1-----A----	Atr
+6	přednosty	NNMS2-----A----	Atr
+7	osobní	AAFS2----1A----	Atr
+8	stanice	NNFS2-----A----	Atr
+9	Aleš	NNMS1-----A----	Atr
+10	Sadil	NNMS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	podobné	AAIP1----1A----	Atr
+13	plané	AAIP1----1A----	Atr
+14	poplachy	NNIP1-----A----	Sb
+15	nejsou	VB-P---3P-NA---	Pred
+16	výjimkou	NNFS7-----A----	Pnom
+17	.	Z:-------------	AuxK
+
+ln94203-52-p2s9
+1	Posledním	AAIS7----1A----	Atr
+2	případem	NNIS7-----A----	Pnom
+3	byla	VpQW---XR-AA---	Pred
+4	nedávno	Db-------------	Adv
+5	avizovaná	AAFS1----1A----	Atr
+6	bomba	NNFS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	pantografové	AAFS6----1A----	Atr
+9	soupravě	NNFS6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-52-p2s10
+1	Po	RR--6----------	AuxP
+2	důkladné	AAFS6----1A----	Atr
+3	prohlídce	NNFS6-----A----	Adv
+4	policisté	NNMP1-----A----	Sb
+5	našli	VpMP---XR-AA---	Pred
+6	jen	TT-------------	AuxZ
+7	sifonovou	AAFS4----1A----	Atr
+8	bombičku	NNFS4-----A----	Obj
+9	na	RR--6----------	AuxP
+10	stolku	NNIS6-----A----	Adv
+11	pod	RR--7----------	AuxP
+12	oknem	NNNS7-----A----	AtrAdv
+13	.	Z:-------------	AuxK
+

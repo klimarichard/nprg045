@@ -1,0 +1,158 @@
+ln95044-137-p1s1
+1	Italská	AAFS1----1A----	Atr
+2	Ilva	NNFS1-----A----	Sb
+3	dosáhla	VpQW---XR-AA---	Pred
+4	vloni	Db-------------	Adv
+5	nečekaného	AAIS2----1N----	Atr
+6	zisku	NNIS2-----A----	Obj
+
+ln95044-137-p2s1A
+1	Řím	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-137-p2s1B
+1	Státní	AAFS1----1A----	Atr
+2	ocelářská	AAFS1----1A----	Atr
+3	společnost	NNFS1-----A----	Sb
+4	Ilva	NNFS1-----A----	Atr
+5	Laminati	AAXXX----1A----	Atr
+6	Piani	AAXXX----1A----	Atr
+7	,	Z:-------------	Apos
+8	jedna	ClFS1----------	Sb
+9	ze	RV--2----------	AuxP
+10	součástí	NNFP2-----A----	Atr
+11	holdingu	NNIS2-----A----	Atr
+12	IRI	NNXXX-----A---8	Atr
+13	,	Z:-------------	AuxX
+14	měla	VpQW---XR-AA---	Pred
+15	za	RR--4----------	AuxP
+16	loňský	AAIS4----1A----	Atr
+17	rok	NNIS4-----A----	Adv
+18	zisk	NNIS4-----A----	Obj
+19	700	C=-------------	Atr
+20	miliard	NNFP2-----A----	Atr
+21	lir	NNFP2-----A----	Atr
+22	(	Z:-------------	ExD
+23	ITL	NNFXX-----A----	ExD
+24	)	Z:-------------	ExD
+25	,	Z:-------------	Apos
+26	437	C=-------------	Atr
+27	miliónů	NNIP2-----A----	Atr
+28	USD	NNIXX-----A---8	Atr
+29	.	Z:-------------	AuxK
+
+ln95044-137-p2s2
+1	Výsledek	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	vyšší	AAIS1----2A----	Pnom
+4	než	J,-------------	AuxC
+5	předpokládaných	AAFP2----1A----	Atr
+6	500	C=-------------	Adv
+7	miliard	NNFP2-----A----	Atr
+8	ITL	NNFXX-----A----	Atr
+9	zisku	NNIS2-----A----	Atr
+10	u	RR--2----------	AuxP
+11	dříve	Dg-------2A----	Adv
+12	ztrátových	AAFP2----1A----	Atr
+13	oceláren	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95044-137-p2s3
+1	Proces	NNIS1-----A----	Sb
+2	restrukturalizace	NNFS2-----A----	Atr
+3	a	J^-------------	Coord
+4	převodu	NNIS2-----A----	Atr
+5	dluhu	NNIS2-----A----	Atr
+6	však	J^-------------	Coord
+7	neumožňuje	VB-S---3P-NA---	Pred
+8	přímo	Dg-------1A----	Adv
+9	srovnávat	Vf--------A----	Obj
+10	tento	PDIS4----------	Atr
+11	údaj	NNIS4-----A----	Obj
+12	s	RR--7----------	AuxP
+13	předchozími	AAIP7----1A----	Atr
+14	výsledky	NNIP7-----A----	Obj
+15	,	Z:-------------	Coord
+16	vyplývá	VB-S---3P-AA---	Pred
+17	z	RR--2----------	AuxP
+18	oznámení	NNNS2-----A----	Obj
+19	IRI	NNXXX-----A---8	Atr
+20	z	RR--2----------	AuxP
+21	konce	NNIS2-----A----	Atr
+22	minulého	AAIS2----1A----	Atr
+23	týdne	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95044-137-p3s1
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1994	C=-------------	Atr
+4	stoupla	VpQW---XR-AA--1	Pred
+5	hodnota	NNFS1-----A----	Sb
+6	aktiv	NNNP2-----A----	Atr
+7	Ilvy	NNFS2-----A----	Atr
+8	z	RR--2----------	AuxP
+9	1.46	C=-------------	Obj
+10	biliónu	NNIS2-----A----	Atr
+11	ITL	NNFXX-----A----	Atr
+12	na	RR--6----------	AuxP
+13	konci	NNIS6-----A----	Atr
+14	roku	NNIS2-----A---1	Atr
+15	1993	C=-------------	Atr
+16	na	RR--4----------	AuxP
+17	2.2	C=-------------	Obj
+18	biliónu	NNIS2-----A----	Atr
+19	ITL	NNFXX-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95044-137-p3s2
+1	Vysoký	AAIS1----1A----	Atr
+2	zisk	NNIS1-----A----	Sb
+3	podle	RR--2----------	AuxP
+4	IRI	NNXXX-----A---8	Adv
+5	nemění	VB-S---3P-NA---	Pred
+6	nic	PW--4----------	Obj
+7	na	RR--6----------	AuxP
+8	rozhodnutí	NNNS6-----A----	Obj
+9	ocelárnu	NNFS4-----A----	Obj
+10	privatizovat	Vf--------A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95044-137-p3s3
+1	Jednání	NNNP1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	odkoupení	NNNS6-----A----	Atr
+4	s	RR--7----------	AuxP
+5	ocelářským	AAIS7----1A----	Atr
+6	koncernem	NNIS7-----A----	Atr
+7	Gruppo	AAXXX----1A----	Atr
+8	Riva	NNXXX-----A----	Atr
+9	mají	VB-P---3P-AA---	Pred
+10	být	Vf--------A----	AuxV
+11	dokončena	VsQW---XX-AP---	Obj
+12	do	RR--2----------	AuxP
+13	konce	NNIS2-----A----	Adv
+14	února	NNIS2-----A---1	Atr
+15	.	Z:-------------	AuxK
+
+ln95044-137-p3s4
+1	Zdroje	NNIP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	Ilvy	NNFS2-----A----	Atr
+4	však	J^-------------	Coord
+5	potvrdily	VpTP---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	vzhledem	RF-------------	AuxP
+9	k	RR--3----------	AuxP
+10	nutnosti	NNFS3-----A----	Adv
+11	přecenění	NNNS2-----A----	Atr
+12	aktiv	NNNP2-----A----	Atr
+13	bude	VB-S---3F-AA---	AuxV
+14	muset	Vf--------A----	Obj
+15	být	Vf--------A----	AuxV
+16	prodej	NNIS1-----A----	Sb
+17	ještě	Db-------------	AuxZ
+18	odložen	VsYS---XX-AP---	Obj
+19	.	Z:-------------	AuxK
+

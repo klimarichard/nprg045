@@ -1,0 +1,133 @@
+ln95048-006-p1s1
+1	PPF	NNIXX-----A---8	ExD
+2	loni	Db------------1	ExD
+3	se	RV--7----------	AuxP
+4	ziskem	NNIS7-----A----	ExD
+5	114	C=-------------	Atr
+6	miliónů	NNIP2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+
+ln95048-006-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95048-006-p2s1B
+1	PPF	NNIXX-----A---8	Sb
+2	-	Z:-------------	Apos
+3	První	CrIS1----------	Atr
+4	český	AAIS1----1A----	Atr
+5	investiční	AAIS1----1A----	Atr
+6	fond	NNIS1-----A----	Sb
+7	dosáhl	VpYS---XR-AA---	Pred
+8	podle	RR--2----------	AuxP
+9	předběžných	AAIP2----1A----	Atr
+10	výsledků	NNIP2-----A----	Adv
+11	k	RR--3----------	AuxP
+12	31	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	prosinci	NNIS3-----A----	Adv
+15	1994	C=-------------	Atr
+16	zisk	NNIS4-----A----	Obj
+17	před	RR--7----------	AuxP
+18	zdaněním	NNNS7-----A----	AtrAdv
+19	114	C=-------------	Atr
+20	miliónů	NNIP2-----A----	Atr
+21	Kč	NNFXX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95048-006-p2s2
+1	Tržní	AAFS1----1A----	Atr
+2	hodnota	NNFS1-----A----	Sb
+3	portfolia	NNNS2-----A----	Atr
+4	činila	VpQW---XR-AA---	Pred
+5	k	RR--3----------	AuxP
+6	témuž	PDZS3----------	Atr
+7	datu	NNNS3-----A----	Adv
+8	2.93	C=-------------	Obj
+9	miliardy	NNFS2-----A----	Atr
+10	Kč	NNFXX-----A----	Atr
+11	,	Z:-------------	Coord
+12	což	PE--1----------	Sb
+13	je	VB-S---3P-AA---	Pred
+14	940	C=-------------	Pnom
+15	korun	NNFP2-----A----	Atr
+16	na	RR--4----------	AuxP
+17	akcii	NNFS4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95048-006-p3s1
+1	K	RR--3----------	AuxP
+2	1	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	1	C=-------------	Adv
+5	.	Z:-------------	AuxG
+6	1995	C=-------------	Atr
+7	se	P7-X4----------	Obj
+8	PPF	NNIXX-----A---8	Sb
+9	-	Z:-------------	Apos
+10	První	CrIS1----------	Atr
+11	severočeský	AAIS1----1A----	Atr
+12	,	Z:-------------	AuxX
+13	První	CrIS1----------	Atr
+14	moravskoslezský	AAIS1----1A----	Atr
+15	,	Z:-------------	AuxX
+16	První	CrIS1----------	Atr
+17	jihočeský	AAIS1----1A----	Atr
+18	a	J^-------------	Coord
+19	První	CrIS1----------	Atr
+20	český	AAIS1----1A----	Atr
+21	investiční	AAIS1----1A----	Atr
+22	fond	NNIS1-----A----	Sb
+23	sloučily	VpTP---XR-AA---	Pred
+24	do	RR--2----------	AuxP
+25	Prvního	CrIS2----------	Atr
+26	českého	AAIS2----1A----	Atr
+27	IF	NNIXX-----A---8	Adv
+28	.	Z:-------------	AuxK
+
+ln95048-006-p4s1
+1	Tržní	AAFS1----1A----	Atr
+2	hodnota	NNFS1-----A----	Sb
+3	portfolia	NNNS2-----A----	Atr
+4	PPF	NNIXX-----A---8	Atr
+5	-	Z:-------------	Apos
+6	Prvního	CrIS2----------	Atr
+7	českého	AAIS2----1A----	Atr
+8	IF	NNIXX-----A---8	Atr
+9	činila	VpQW---XR-AA---	Pred
+10	k	RR--3----------	AuxP
+11	13	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	únoru	NNIS3-----A----	Adv
+14	3.75	C=-------------	Obj
+15	miliardy	NNFS2-----A----	Atr
+16	Kč	NNFXX-----A----	Atr
+17	,	Z:-------------	AuxX
+18	tedy	Db-------------	Apos
+19	999	C=-------------	Obj
+20	Kč	NNFXX-----A----	Atr
+21	na	RR--4----------	AuxP
+22	akcii	NNFS4-----A----	Atr
+23	a	J^-------------	Coord
+24	29970	C=-------------	Obj
+25	Kč	NNFXX-----A----	Atr
+26	na	RR--4----------	AuxP
+27	kupónovou	AAFS4----1A----	Atr
+28	knížku	NNFS4-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95048-006-p4s2
+1	Kurs	NNIS1-----A----	Sb
+2	jedné	ClFS2----------	Atr
+3	akcie	NNFS2-----A----	Atr
+4	byl	VpYS---XR-AA---	Pred
+5	na	RR--6----------	AuxP
+6	pražské	AAFS6----1A----	Atr
+7	burze	NNFS6-----A----	Adv
+8	14	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	února	NNIS2-----A---1	Adv
+11	286	C=-------------	Pnom
+12	korun	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+

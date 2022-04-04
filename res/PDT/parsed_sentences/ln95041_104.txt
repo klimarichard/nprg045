@@ -1,0 +1,137 @@
+ln95041-104-p1s1
+1	Klaus	NNMS1-----A----	ExD
+2	k	RR--3----------	AuxP
+3	reformě	NNFS3-----A----	ExD
+4	v	RR--6----------	AuxP
+5	zemědělství	NNNS6-----A----	Atr
+
+ln95041-104-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-104-p2s1B
+1	Vláda	NNFS1-----A----	Sb
+2	nepreferuje	VB-S---3P-NA---	Pred
+3	žádnou	PWFS4----------	Obj
+4	z	RR--2----------	AuxP
+5	forem	NNFP2-----A----	Atr
+6	podnikání	NNNS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	zemědělské	AAFS6----1A----	Atr
+9	prvovýrobě	NNFS6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95041-104-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	vystoupení	NNNS2-----A----	Obj
+5	Václava	NNMS2-----A----	Atr
+6	Klause	NNMS2-----A----	Atr
+7	na	RR--6----------	AuxP
+8	včerejším	AANS6----1A----	Atr
+9	setkání	NNNS6-----A----	Atr
+10	představitelů	NNMP2-----A----	Atr
+11	zemědělských	AANP2----1A----	Atr
+12	družstev	NNNP2-----A----	Atr
+13	a	J^-------------	Coord
+14	zemědělských	AAFP2----1A----	Atr
+15	obchodních	AAFP2----1A----	Atr
+16	společností	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95041-104-p2s3
+1	Premiér	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	zároveň	Db-------------	Adv
+4	vyslovil	VpYS---XR-AA---	Pred
+5	pro	RR--4----------	AuxP
+6	důsledné	AANS4----1A----	Atr
+7	naplnění	NNNS4-----A----	Adv
+8	všech	PLXP2----------	Atr
+9	restitučních	AAIP2----1A----	Atr
+10	zákonů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4IP1----------	Sb
+13	doprovázejí	VB-P---3P-AA---	Atr
+14	transformaci	NNFS4-----A----	Obj
+15	původních	AANP2----1A----	Atr
+16	zemědělských	AANP2----1A----	Atr
+17	družstev	NNNP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95041-104-p3s1
+1	Václav	NNMS1-----A----	Atr
+2	Klaus	NNMS1-----A----	Sb
+3	připustil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	Česká	AAFS1----1A----	Atr
+7	republika	NNFS1-----A----	Sb
+8	musí	VB-S---3P-AA---	Obj
+9	v	RR--6----------	AuxP
+10	agrární	AAFS6----1A----	Atr
+11	sféře	NNFS6-----A----	Adv
+12	čelit	Vf--------A----	Obj
+13	značnému	AAIS3----1A----	Atr
+14	protekcionismu	NNIS3-----A----	Obj
+15	sousedních	AAIP2----1A----	Atr
+16	států	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95041-104-p3s2
+1	Vyloučil	VpYS---XR-AA---	Pred
+2	však	J^-------------	Coord
+3	možnost	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	ČR	NNFXX-----A---8	Sb
+8	přijala	VpQW---XR-AA---	Atr
+9	míru	NNFS4-----A----	Obj
+10	ochranářství	NNNS2-----A----	Atr
+11	Evropské	AAFS2----1A----	Atr
+12	unie	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95041-104-p3s3
+1	Podle	RR--2----------	AuxP
+2	ministra	NNMS2-----A----	Atr
+3	zemědělství	NNNS2-----A----	Atr
+4	J	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Luxe	NNMS2-----A----	Adv
+7	vláda	NNFS1-----A----	Sb
+8	nezavede	VB-S---3P-NA---	Pred
+9	ani	J^-------------	AuxZ
+10	kvotaci	NNFS4-----A----	Obj
+11	zemědělské	AAFS2----1A----	Atr
+12	výroby	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95041-104-p3s4
+1	Jak	J,-------------	Adv
+2	premiér	NNMS1-----A----	Sb
+3	řekl	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	stát	NNIS1-----A----	Sb
+6	nebude	VB-S---3F-NA---	AuxV
+7	zvláštním	AAIS7----1A----	Atr
+8	způsobem	NNIS7-----A----	Adv
+9	podporovat	Vf--------A----	Pred
+10	vlastnické	AANS4----1A----	Atr
+11	propojení	NNNS4-----A----	Obj
+12	zemědělské	AAFS2----1A----	Atr
+13	prvovýroby	NNFS2-----A----	Atr
+14	se	RV--7----------	AuxP
+15	zpracovatelským	AAIS7----1A----	Atr
+16	průmyslem	NNIS7-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95041-104-p3s5
+1	Více	Dg-------2A----	ExD
+2	Koruna	NNFS1-----A----	ExD
+3	-	Z:-------------	ExD
+4	strana	NNFS1-----A----	ExD
+5	I	C}-------------	Atr
+

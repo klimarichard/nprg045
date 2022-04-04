@@ -1,0 +1,127 @@
+mf930709-072-p1s1
+1	Kontrolní	AAIS1----1A----	Atr
+2	úřad	NNIS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	prezidenta	NNMS4-----A----	Obj
+
+mf930709-072-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ben	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-072-p2s1B
+1	Prezidenta	NNMS4-----A----	Obj
+2	a	J^-------------	Coord
+3	viceprezidenta	NNMS4-----A----	Obj
+4	Nejvyššího	AAIS2----3A----	Atr
+5	kontrolního	AAIS2----1A----	Atr
+6	úřadu	NNIS2-----A----	Atr
+7	včera	Db-------------	Adv
+8	jmenoval	VpYS---XR-AA---	Pred
+9	do	RR--2----------	AuxP
+10	funkcí	NNFP2-----A----	Adv
+11	Václav	NNMS1-----A----	Atr
+12	Havel	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+mf930709-072-p2s2
+1	Na	RR--4----------	AuxP
+2	návrh	NNIS4-----A----	Adv
+3	parlamentu	NNIS2-----A----	Atr
+4	stanul	VpYS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	čele	NNNS6-----A----	Adv
+7	úřadu	NNIS2-----A----	Atr
+8	Lubomír	NNMS1-----A----	Atr
+9	Voleník	NNMS1-----A----	Sb
+10	(	Z:-------------	ExD
+11	ODS	NNFXX-----A---8	ExD
+12	)	Z:-------------	ExD
+13	a	J^-------------	Coord
+14	jeho	PSXXXZS3-------	Atr
+15	zástupcem	NNMS7-----A----	Obj
+16	se	P7-X4----------	AuxT
+17	stal	VpYS---XR-AA---	Pred
+18	Václav	NNMS1-----A----	Atr
+19	Peřich	NNMS1-----A----	Sb
+20	(	Z:-------------	ExD
+21	KDS	NNFXX-----A---8	ExD
+22	)	Z:-------------	ExD
+23	,	Z:-------------	ExD
+24	oba	ClYP1----------	ExD
+25	bývalí	AAMP1----1A----	Atr
+26	poslanci	NNMP1-----A----	ExD
+27	FS	NNNXX-----A---8	Atr
+28	.	Z:-------------	AuxK
+
+mf930709-072-p2s3
+1	Po	RR--6----------	AuxP
+2	jmenování	NNNS6-----A----	Adv
+3	uvedli	VpMP---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	pokud	J,-------------	AuxC
+7	to	PDNS1----------	Sb
+8	bude	VB-S---3F-AA---	Adv
+9	nutné	AANS1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	pozastaví	VB-P---3P-AA---	Obj
+12	své	P8NS4---------1	Atr
+13	členství	NNNS4-----A----	Obj
+14	v	RR--6----------	AuxP
+15	mateřských	AAFP6----1A----	Atr
+16	stranách	NNFP6-----A----	AtrAdv
+17	.	Z:-------------	AuxK
+
+mf930709-072-p2s4
+1	Jak	J,-------------	Adv
+2	však	J^-------------	AuxY
+3	dodali	VpMP---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	nezávislost	NNFS1-----N----	Sb
+6	není	VB-S---3P-NA---	Pred
+7	zaručena	VsQW---XX-AP---	Pnom
+8	vystoupením	NNNS7-----A----	Adv
+9	ze	RV--2----------	AuxP
+10	strany	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-072-p2s5
+1	Funkční	AANS1----1A----	Atr
+2	období	NNNS1-----A----	Pnom
+3	prezidenta	NNMS2-----A----	Atr
+4	NKÚ	NNIXX-----A---8	Atr
+5	je	VB-S---3P-AA---	Pred
+6	devět	Cn-S1----------	Sb
+7	let	NNNP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930709-072-p2s6
+1	Zákon	NNIS1-----A----	Sb
+2	vylučuje	VB-S---3P-AA---	Pred
+3	pouze	Db-------------	AuxZ
+4	jeho	PSXXXZS3-------	Atr
+5	funkci	NNFS4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	politické	AAFS6----1A----	Atr
+8	straně	NNFS6-----A----	Atr
+9	,	Z:-------------	Coord
+10	nikoli	Db------------1	AuxZ
+11	členství	NNNS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+mf930709-072-p2s7
+1	NKÚ	NNIXX-----A---8	Sb
+2	kontroluje	VB-S---3P-AA---	Pred
+3	hospodaření	NNNS4-----A----	Obj
+4	se	RV--7----------	AuxP
+5	státním	AAIS7----1A----	Atr
+6	majetkem	NNIS7-----A----	Atr
+7	a	J^-------------	Coord
+8	plnění	NNNS4-----A----	Obj
+9	rozpočtu	NNIS2-----A----	Atr
+10	státu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+

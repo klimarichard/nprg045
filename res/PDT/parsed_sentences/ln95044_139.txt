@@ -1,0 +1,154 @@
+ln95044-139-p1s1
+1	F	AAXXX----1A---8	Atr
+2	-	Z:-------------	AuxG
+3	INVEST	NNIXX-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	stal	VpYS---XR-AA---	Pred
+6	majitelem	NNMS7-----A----	Obj
+7	Fosfy	NNFS2-----A----	Atr
+
+ln95044-139-p2s1A
+1	Břeclav	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-139-p2s1B
+1	Společnost	NNFS1-----A----	Sb
+2	F	AAXXX----1A---8	Atr
+3	-	Z:-------------	AuxG
+4	INVEST	NNIXX-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	stala	VpQW---XR-AA---	Pred
+7	vítězstvím	NNNS7-----A----	Adv
+8	ve	RV--6----------	AuxP
+9	veřejné	AAFS6----1A----	Atr
+10	soutěži	NNFS6-----A----	Atr
+11	majitelem	NNMS7-----A----	Obj
+12	51	C=-------------	Atr
+13	procent	NNNP2-----A----	Atr
+14	akcií	NNFP2-----A----	Atr
+15	Fosfy	NNFS2-----A----	Atr
+16	Břeclav	NNFS1-----A----	Atr
+17	-	Z:-------------	AuxG
+18	Poštorná	NNFS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95044-139-p2s2
+1	Smlouvu	NNFS4-----A----	Obj
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Atr
+4	podepsala	VpQW---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	únoru	NNIS6-----A----	Adv
+7	s	RR--7----------	AuxP
+8	Fondem	NNIS7-----A----	AtrAdv
+9	národního	AAIS2----1A----	Atr
+10	majetku	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	akcie	NNFP4-----A----	Obj
+14	až	TT-------------	AuxZ
+15	dosud	Db-------------	Adv
+16	spravoval	VpYS---XR-AA---	Atr
+17	.	Z:-------------	AuxK
+
+ln95044-139-p2s3
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	uvedl	VpYS---XR-AA---	Pred
+4	generální	AAMS1----1A----	Atr
+5	ředitel	NNMS1-----A----	Atr
+6	Fosfy	NNFS2-----A----	Atr
+7	Ivan	NNMS1-----A----	Atr
+8	Němetz	NNMS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln95044-139-p3s1
+1	Poznamenal	VpYS---XR-AA---	Pred
+2	v	RR--6----------	AuxP
+3	této	PDFS6----------	Atr
+4	souvislosti	NNFS6-----A----	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	společnost	NNFS4-----A----	Obj
+8	F	AAXXX----1A---8	Atr
+9	-	Z:-------------	AuxG
+10	INVEST	NNIXX-----A----	Atr
+11	osobně	Dg-------1A----	Adv
+12	založil	VpYS---XR-AA---	Obj
+13	k	RR--3----------	AuxP
+14	zabezpečení	NNNS3-----A----	Adv
+15	rozvoje	NNIS2-----A----	Atr
+16	firmy	NNFS2-----A----	Atr
+17	spolu	Db-------------	AuxP
+18	s	RR--7----------	AuxP
+19	další	AAFS7----1A----	Atr
+20	fyzickou	AAFS7----1A----	Atr
+21	osobou	NNFS7-----A----	Atr
+22	-	Z:-------------	Apos
+23	ekonomickým	AAMS7----1A----	Atr
+24	ředitelem	NNMS7-----A----	Atr
+25	Fosfy	NNFS2-----A----	Atr
+26	Oldřichem	NNMS7-----A----	Atr
+27	Chmelíkem	NNMS7-----A----	Adv
+28	a	J^-------------	Coord
+29	dále	Db------------1	AuxY
+30	s	RR--7----------	AuxP
+31	firmou	NNFS7-----A----	Adv
+32	EVEKTOR	NNIS1-----A----	Atr
+33	z	RR--2----------	AuxP
+34	Uherského	AANS2----1A----	Atr
+35	Hradiště	NNNS2-----A----	AtrAtr
+36	.	Z:-------------	AuxK
+
+ln95044-139-p3s2
+1	Společnost	NNFS1-----A----	Sb
+2	nehodlá	VB-S---3P-NA---	Pred
+3	se	RV--7----------	AuxP
+4	svými	P8XP7----------	Atr
+5	akciemi	NNFP7-----A----	Obj
+6	obchodovat	Vf--------A----	Obj
+7	jako	J,-------------	AuxC
+8	privatizační	AAIP1----1A----	Atr
+9	fondy	NNIP1-----A----	ExD
+10	.	Z:-------------	AuxK
+
+ln95044-139-p4s1
+1	Fosfa	NNFS1-----A----	Sb
+2	byla	VpQW---XR-AA---	AuxV
+3	transformována	VsQW---XX-AP---	Pred
+4	ze	RV--2----------	AuxP
+5	stejnojmenného	AAIS2----1A----	Atr
+6	státního	AAIS2----1A----	Atr
+7	podniku	NNIS2-----A----	Adv
+8	v	RR--6----------	AuxP
+9	roce	NNIS6-----A---1	Adv
+10	1990	C=-------------	Atr
+11	se	RV--7----------	AuxP
+12	základním	AANS7----1A----	Atr
+13	jměním	NNNS7-----A----	Atr
+14	752	C=-------------	Atr
+15	miliónů	NNIP2-----A----	Atr
+16	korun	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95044-139-p4s2
+1	Výrobní	AAIS1----1A----	Atr
+2	program	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	převážně	Dg-------1A----	Adv
+5	zaměřen	VsYS---XX-AP---	Pnom
+6	na	RR--4----------	AuxP
+7	fosfáty	NNIP4-----A----	Obj
+8	a	J^-------------	Coord
+9	kyseliny	NNFP4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	technické	AAIP4----1A----	Atr
+12	,	Z:-------------	AuxX
+13	zemědělské	AAIP4----1A----	Atr
+14	,	Z:-------------	AuxX
+15	potravinářské	AAIP4----1A----	Atr
+16	a	J^-------------	Coord
+17	kosmetické	AAIP4----1A----	Atr
+18	účely	NNIP4-----A----	Atr
+19	.	Z:-------------	AuxK
+

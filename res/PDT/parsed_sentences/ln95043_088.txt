@@ -1,0 +1,342 @@
+ln95043-088-p1s1A
+1	Poptávka	NNFS1-----A----	Sb
+2	po	RR--6----------	AuxP
+3	ropě	NNFS6-----A----	Atr
+4	zvýší	VB-S---3P-AA---	Pred
+5	ceny	NNFP4-----A----	Obj
+
+ln95043-088-p1s1B
+1	(	Z:-------------	ExD
+2	Týden	NNIS1-----A----	ExD
+3	ve	RV--6----------	AuxP
+4	světovém	AANS6----1A----	Atr
+5	hospodářství	NNNS6-----A----	Atr
+6	)	Z:-------------	ExD
+
+ln95043-088-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95043-088-p3s1
+1	Světová	AAFS1----1A----	Atr
+2	poptávka	NNFS1-----A----	Sb
+3	po	RR--6----------	AuxP
+4	ropě	NNFS6-----A----	Atr
+5	by	Vc-------------	AuxV
+6	měla	VpQW---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	letošním	AAIS6----1A----	Atr
+9	roce	NNIS6-----A---1	Adv
+10	stoupnout	Vf--------A----	Obj
+11	o	RR--4----------	AuxP
+12	1.1	C=-------------	Adv
+13	miliónu	NNIS2-----A----	Atr
+14	barelů	NNIP2-----A----	Atr
+15	denně	Dg-------1A----	AtrAdv
+16	na	RR--4----------	AuxP
+17	68.6	C=-------------	Obj
+18	miliónu	NNIS2-----A----	Atr
+19	barelů	NNIP2-----A----	Atr
+20	denně	Dg-------1A----	AtrAdv
+21	a	J^-------------	Coord
+22	v	RR--6----------	AuxP
+23	roce	NNIS6-----A---1	ExD
+24	1996	C=-------------	Atr
+25	o	RR--4----------	AuxP
+26	dalších	AAIP2----1A----	Atr
+27	1.2	C=-------------	ExD
+28	miliónu	NNIS2-----A----	Atr
+29	barelů	NNIP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln95043-088-p3s2
+1	Ceny	NNFP1-----A----	Sb
+2	porostou	VB-P---3P-AA---	Pred
+3	z	RR--2----------	AuxP
+4	15.65	C=-------------	Obj
+5	dolarů	NNIP2-----A----	Atr
+6	za	RR--4----------	AuxP
+7	barel	NNIS4-----A----	Atr
+8	z	RR--2----------	AuxP
+9	konce	NNIS2-----A----	Atr
+10	roku	NNIS2-----A---1	Atr
+11	1994	C=-------------	Atr
+12	na	RR--4----------	AuxP
+13	18	C=-------------	Obj
+14	dolarů	NNIP2-----A----	Atr
+15	na	RR--6----------	AuxP
+16	konci	NNIS6-----A----	Atr
+17	roku	NNIS2-----A---1	Atr
+18	1996	C=-------------	Atr
+19	.	Z:-------------	AuxK
+
+ln95043-088-p4s1
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	prognózy	NNFS2-----A----	Obj
+5	Úřadu	NNIS2-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	energetické	AAFP4----1A----	Atr
+8	informace	NNFP4-----A----	Atr
+9	USA	NNIPX-----A----	Atr
+10	,	Z:-------------	AuxX
+11	která	P4FS1----------	Sb
+12	byla	VpQW---XR-AA---	AuxV
+13	zveřejněna	VsQW---XX-AP---	Atr
+14	minulý	AAIS4----1A----	Atr
+15	týden	NNIS4-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95043-088-p4s2
+1	Podle	RR--2----------	AuxP
+2	ní	P5FS2--3-------	Adv
+3	v	RR--6----------	AuxP
+4	loňském	AAIS6----1A----	Atr
+5	roce	NNIS6-----A---1	Adv
+6	poptávka	NNFS1-----A----	Sb
+7	po	RR--6----------	AuxP
+8	ropě	NNFS6-----A----	Atr
+9	stoupla	VpQW---XR-AA--1	Pred
+10	jen	TT-------------	AuxZ
+11	o	RR--4----------	AuxP
+12	800	C=-------------	Adv
+13	tisíc	ClXS2----------	Atr
+14	barelů	NNIP2-----A----	Atr
+15	denně	Dg-------1A----	AtrAdv
+16	.	Z:-------------	AuxK
+
+ln95043-088-p5s1
+1	Zrychlení	NNNS1-----A----	Sb
+2	růstu	NNIS2-----A----	Atr
+3	poptávky	NNFS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	nadcházejících	AGNP6-----A----	Atr
+6	dvou	ClXP6----------	Atr
+7	letech	NNNP6-----A----	Atr
+8	ovlivní	VB-S---3P-AA---	Pred
+9	nárůst	NNIS4-----A----	Obj
+10	poptávky	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	zemích	NNFP6-----A----	Adv
+13	s	RR--7----------	AuxP
+14	rozvíjející	AGFS7-----A----	Atr
+15	se	P7-X4----------	AuxT
+16	tržní	AAFS7----1A----	Atr
+17	ekonomikou	NNFS7-----A----	Atr
+18	a	J^-------------	Coord
+19	pomalejším	AAIS7----2A----	Atr
+20	poklesem	NNIS7-----A----	Atr
+21	v	RR--6----------	AuxP
+22	zemích	NNFP6-----A----	Atr
+23	bývalého	AAIS2----1A----	Atr
+24	Sovětského	AAIS2----1A----	Atr
+25	svazu	NNIS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95043-088-p5s2
+1	Spotřeba	NNFS1-----A----	Sb
+2	ropy	NNFS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	bývalém	AAIS6----1A----	Atr
+5	Sovětském	AAIS6----1A----	Atr
+6	svazu	NNIS6-----A----	Atr
+7	a	J^-------------	Coord
+8	východní	AAFS6----1A----	Atr
+9	Evropě	NNFS6-----A----	Atr
+10	letos	Db-------------	Adv
+11	a	J^-------------	Coord
+12	v	RR--6----------	AuxP
+13	příštím	AAIS6----1A----	Atr
+14	roce	NNIS6-----A---1	Adv
+15	podle	RR--2----------	AuxP
+16	amerického	AAIS2----1A----	Atr
+17	úřadu	NNIS2-----A----	Adv
+18	klesne	VB-S---3P-AA---	Pred
+19	o	RR--4----------	AuxP
+20	300	C=-------------	Adv
+21	tisíc	ClXS2----------	Atr
+22	barelů	NNIP2-----A----	Atr
+23	denně	Dg-------1A----	AtrAdv
+24	.	Z:-------------	AuxK
+
+ln95043-088-p5s3
+1	Spotřeba	NNFS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	zemích	NNFP6-----A----	Atr
+4	OECD	NNFXX-----A---8	Atr
+5	se	P7-X4----------	AuxT
+6	zvýší	VB-S---3P-AA---	Pred
+7	o	RR--4----------	AuxP
+8	500	C=-------------	Adv
+9	tisíc	ClXS2----------	Atr
+10	barelů	NNIP2-----A----	Atr
+11	denně	Dg-------1A----	AtrAdv
+12	v	RR--6----------	AuxP
+13	obou	ClXP6----------	Atr
+14	nadcházejících	AGNP6-----A----	Atr
+15	letech	NNNP6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95043-088-p6s1
+1	Východoevropské	AAFP1----1A----	Atr
+2	země	NNFP1-----A----	Sb
+3	postrádají	VB-P---3P-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	informační	AAFS2----1A----	Atr
+6	zprávy	NNFS2-----A----	Adv
+7	zveřejněné	AAFS2----1A----	Atr
+8	minulý	AAIS4----1A----	Atr
+9	týden	NNIS4-----A----	Adv
+10	úřady	NNIP7-----A----	Obj
+11	Evropské	AAFS2----1A----	Atr
+12	komise	NNFS2-----A----	Atr
+13	pro	RR--4----------	AuxP
+14	vnější	AAFS4----1A----	Atr
+15	politiku	NNFS4-----A----	Atr
+16	a	J^-------------	Coord
+17	vnitřní	AAIS4----1A----	Atr
+18	obchod	NNIS4-----A----	Atr
+19	základní	AAFP4----1A----	Atr
+20	instituce	NNFP4-----A----	Obj
+21	a	J^-------------	Coord
+22	infrastrukturu	NNFS4-----A----	Obj
+23	na	RR--4----------	AuxP
+24	to	PDNS4----------	Atr
+25	,	Z:-------------	AuxX
+26	aby	J,-------------	AuxC
+27	se	P7-X4----------	AuxT
+28	mohly	VpTP---XR-AA---	Atr
+29	připojit	Vf--------A----	Obj
+30	ke	RV--3----------	AuxP
+31	společnému	AAIS3----1A----	Atr
+32	trhu	NNIS3-----A----	Adv
+33	Evropské	AAFS2----1A----	Atr
+34	unie	NNFS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+ln95043-088-p6s2
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	zemích	NNFP6-----A----	Adv
+4	střední	AAFS2----1A----	Atr
+5	a	J^-------------	Coord
+6	východní	AAFS2----1A----	Atr
+7	Evropy	NNFS2-----A----	Atr
+8	tato	PDFS1----------	Atr
+9	infrastruktura	NNFS1-----A----	Sb
+10	často	Dg-------1A----	Adv
+11	chybí	VB-S---3P-AA---	Sb
+12	,	Z:-------------	AuxX
+13	"	Z:-------------	AuxG
+14	uvádí	VB-S---3P-AA---	Pred
+15	se	P7-X4----------	AuxR
+16	ve	RV--6----------	AuxP
+17	zprávě	NNFS6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln95043-088-p7s1
+1	Dokument	NNIS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	vypracován	VsYS---XX-AP---	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	komise	NNFS1-----A----	Sb
+7	mohla	VpQW---XR-AA---	Adv
+8	aktualizovat	Vf--------A----	Obj
+9	přípravu	NNFS4-----A----	Obj
+10	politického	AAIS2----1A----	Atr
+11	dokumentu	NNIS2-----A----	Atr
+12	zaměřeného	AAIS2----1A----	Atr
+13	na	RR--4----------	AuxP
+14	způsob	NNIS4-----A----	Obj
+15	přijetí	NNNS2-----A----	Atr
+16	zemí	NNFP2-----A----	Atr
+17	východní	AAFS2----1A----	Atr
+18	Evropy	NNFS2-----A----	Atr
+19	do	RR--2----------	AuxP
+20	EU	NNFXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+ln95043-088-p7s2
+1	Přihlášku	NNFS4-----A----	Obj
+2	do	RR--2----------	AuxP
+3	unie	NNFS2-----A----	Atr
+4	již	Db-------------	Adv
+5	podaly	VpTP---XR-AA---	Pred
+6	Polsko	NNNS1-----A----	Sb
+7	a	J^-------------	Coord
+8	Maďarsko	NNNS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln95043-088-p7s3
+1	Česká	AAFS1----1A----	Atr
+2	republika	NNFS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	podávat	Vf--------A----	Pred
+5	žádost	NNFS4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	roce	NNIS6-----A---1	Adv
+8	1996	C=-------------	Atr
+9	.	Z:-------------	AuxK
+
+ln95043-088-p7s4
+1	Letos	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	mohly	VpTP---XR-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	posledních	AAFP2----1A----	Atr
+6	zpráv	NNFP2-----A----	Adv
+7	podat	Vf--------A----	Obj
+8	přihlášku	NNFS4-----A----	Obj
+9	ještě	Db-------------	AuxZ
+10	Slovensko	NNNS1-----A----	Sb
+11	a	J^-------------	Coord
+12	Rumunsko	NNNS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln95043-088-p8s1
+1	Evropská	AAFS1----1A----	Atr
+2	unie	NNFS1-----A----	Sb
+3	již	Db-------------	Adv
+4	proto	J^-------------	Coord
+5	zahájila	VpQW---XR-AA---	Pred
+6	dlouhý	AAIS4----1A----	Atr
+7	proces	NNIS4-----A----	Obj
+8	vypracování	NNNS2-----A----	Atr
+9	principů	NNIP2-----A----	Atr
+10	a	J^-------------	Coord
+11	podmínek	NNFP2-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	přijetí	NNNS4-----A----	Atr
+14	těchto	PDXP2----------	Atr
+15	zemí	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95043-088-p8s2
+1	Příslušný	AAIS1----1A----	Atr
+2	dokument	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	očekává	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	květnu	NNIS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	byl	VpYS---XR-AA---	Adv
+10	připraven	VsYS---XX-AP---	Pnom
+11	pro	RR--4----------	AuxP
+12	summit	NNIS4-----A----	Adv
+13	šéfů	NNMP2-----A----	Atr
+14	zemí	NNFP2-----A----	Atr
+15	EU	NNFXX-----A---8	Atr
+16	ve	RV--6----------	AuxP
+17	francouzském	AANS6----1A----	Atr
+18	Cannes	NNNXX-----A----	Atr
+19	na	RR--6----------	AuxP
+20	konci	NNIS6-----A----	Atr
+21	června	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+

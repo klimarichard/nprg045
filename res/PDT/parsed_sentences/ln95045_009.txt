@@ -1,0 +1,135 @@
+ln95045-009-p1s1
+1	Premiér	NNMS1-----A----	Atr
+2	V	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Klaus	NNMS1-----A----	ExD
+5	o	RR--6----------	AuxP
+6	uvolnění	NNNS6-----A----	ExD
+7	norem	NNFP2-----A----	Atr
+
+ln95045-009-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-009-p2s1B
+1	Český	AAMS1----1A----	Atr
+2	premiér	NNMS1-----A----	Atr
+3	Václav	NNMS1-----A----	Atr
+4	Klaus	NNMS1-----A----	Sb
+5	očekává	VB-S---3P-AA---	Pred
+6	politický	AAIS4----1A----	Atr
+7	střet	NNIS4-----A----	Obj
+8	kolem	RR--2----------	AuxP
+9	prosazování	NNNS2-----A----	Atr
+10	nové	AAFS2----1A----	Atr
+11	právní	AAFS2----1A----	Atr
+12	úpravy	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	má	VB-S---3P-AA---	Atr
+16	přenést	Vf--------A----	Obj
+17	odpovědnost	NNFS4-----A----	Obj
+18	za	RR--4----------	AuxP
+19	dodržování	NNNS4-----A----	Atr
+20	a	J^-------------	Coord
+21	kontrolu	NNFS4-----A----	Atr
+22	jakosti	NNFS2-----A----	Atr
+23	ze	RV--2----------	AuxP
+24	státu	NNIS2-----A----	Adv
+25	na	RR--4----------	AuxP
+26	výrobce	NNMP4-----A----	Adv
+27	a	J^-------------	Coord
+28	dovozce	NNMP4-----A----	Adv
+29	.	Z:-------------	AuxK
+
+ln95045-009-p2s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	po	RR--6----------	AuxP
+5	poradě	NNFS6-----A----	Adv
+6	ministrů	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	projednala	VpQW---XR-AA---	Atr
+10	návrh	NNIS4-----A----	Obj
+11	na	RR--4----------	AuxP
+12	uvolnění	NNNS4-----A----	Atr
+13	právní	AAFS2----1A----	Atr
+14	regulace	NNFS2-----A----	Atr
+15	povinností	NNFP2-----A----	Atr
+16	výrobců	NNMP2-----A----	Atr
+17	a	J^-------------	Coord
+18	dovozců	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95045-009-p3s1
+1	Značná	AAFS1----1A----	Atr
+2	část	NNFS1-----A----	Sb
+3	výrobků	NNIP2-----A----	Atr
+4	nebude	VB-S---3F-NA---	AuxV
+5	podle	RR--2----------	AuxP
+6	nové	AAFS2----1A----	Atr
+7	koncepce	NNFS2-----A----	Adv
+8	procházet	Vf--------A----	Pred
+9	povinným	AANS7----1A----	Atr
+10	schvalovacím	AANS7----1A----	Atr
+11	řízením	NNNS7-----A----	Adv
+12	ve	RV--6----------	AuxP
+13	státní	AAFS6----1A----	Atr
+14	zkušebně	NNFS6-----A----	Atr
+15	,	Z:-------------	AuxX
+16	ale	J^-------------	Coord
+17	producent	NNMS1-----A----	Sb
+18	připraví	VB-S---3P-AA---	Pred
+19	tzv	AAXXX----1A---8	Atr
+20	.	Z:-------------	AuxG
+21	prohlášení	NNNS4-----A----	Obj
+22	výrobce	NNMS2-----A----	Atr
+23	o	RR--6----------	AuxP
+24	shodě	NNFS6-----A----	Atr
+25	,	Z:-------------	AuxX
+26	které	P4NS1----------	Sb
+27	bude	VB-S---3F-AA---	AuxV
+28	dokládat	Vf--------A----	Atr
+29	soulad	NNIS4-----A----	Obj
+30	se	RV--7----------	AuxP
+31	stanovenými	AAFP7----1A----	Atr
+32	normami	NNFP7-----A----	Atr
+33	a	J^-------------	Coord
+34	jakostními	AAIP7----1A----	Atr
+35	požadavky	NNIP7-----A----	Atr
+36	.	Z:-------------	AuxK
+
+ln95045-009-p3s2
+1	Orgán	NNIS1-----A----	Sb
+2	státního	AAIS2----1A----	Atr
+3	dozoru	NNIS2-----A----	Atr
+4	může	VB-S---3P-AA---	Pred
+5	jeho	PSXXXZS3-------	Atr
+6	výrobek	NNIS4-----A----	Obj
+7	formou	NNFS7-----A----	Adv
+8	namátkové	AAFS2----1A----	Atr
+9	kontroly	NNFS2-----A----	Atr
+10	prověřit	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95045-009-p4s1
+1	Premiér	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	nezmínil	VpYS---XR-NA---	Pred
+4	o	RR--6----------	AuxP
+5	novele	NNFS6-----A----	Obj
+6	devizového	AAIS2----1A----	Atr
+7	zákona	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kterou	P4FS4----------	Obj
+10	má	VB-S---3P-AA---	Atr
+11	podle	RR--2----------	AuxP
+12	informací	NNFP2-----A----	Adv
+13	LN	NNFPX-----A---8	Atr
+14	projednat	Vf--------A----	Obj
+15	vláda	NNFS1-----A----	Sb
+16	dnes	Db-------------	Adv
+17	.	Z:-------------	AuxK
+

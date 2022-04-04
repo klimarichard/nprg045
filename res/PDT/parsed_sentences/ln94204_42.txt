@@ -1,0 +1,156 @@
+ln94204-42-p1s1
+1	Jeden	ClYS1----------	Atr
+2	pes	NNMS1-----A----	Sb
+3	nahradí	VB-S---3P-AA---	Pred
+4	dva	ClYP4----------	Atr
+5	strážné	NNMP4-----A----	Obj
+
+ln94204-42-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	teb	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-42-p2s1B
+1	První	CrIS1----------	Atr
+2	ročník	NNIS1-----A----	Sb
+3	přeboru	NNIS2-----A----	Atr
+4	služebních	AAMP2----1A----	Atr
+5	psů	NNMP2-----A----	Atr
+6	firmy	NNFS2-----A----	Atr
+7	Wackenhut	NNIS1-----A----	Atr
+8	Czech	NNFXX-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	konal	VpYS---XR-AA---	Pred
+11	včera	Db-------------	Adv
+12	na	RR--6----------	AuxP
+13	cvičišti	NNNS6-----A----	Adv
+14	v	RR--6----------	AuxP
+15	Břevnově	NNIS6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94204-42-p2s2
+1	Soutěže	NNFS2-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	zúčastnilo	VpNS---XR-AA---	Pred
+4	21	C=-------------	Sb
+5	psů	NNMP2-----A----	Atr
+6	,	Z:-------------	Coord
+7	většinou	Db-------------	ExD
+8	německých	AAMP2----1A----	Atr
+9	ovčáků	NNMP2-----A----	ExD
+10	.	Z:-------------	AuxK
+
+ln94204-42-p2s3
+1	Společnost	NNFS1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	r	NNNS7-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	o	AANS7----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	Wackenhut	NNIS1-----A----	Atr
+8	Czech	NNFXX-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	se	P7-X4----------	AuxT
+12	kromě	RR--2----------	AuxP
+13	školení	NNNS2-----A----	Adv
+14	psů	NNMP2-----A----	Atr
+15	zabývá	VB-S---3P-AA---	Atr
+16	také	Db-------------	Adv
+17	ochranou	NNFS7-----A----	Obj
+18	osob	NNFP2-----A----	Atr
+19	a	J^-------------	Coord
+20	objektů	NNIP2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	střeží	VB-S---3P-AA---	Pred
+23	v	RR--6----------	AuxP
+24	současné	AAFS6----1A----	Atr
+25	době	NNFS6-----A----	Adv
+26	více	Dg-------2A----	Obj
+27	než	J,-------------	AuxC
+28	30	C=-------------	Adv
+29	objektů	NNIP2-----A----	Atr
+30	v	RR--6----------	AuxP
+31	Praze	NNFS6-----A----	AtrAdv
+32	a	J^-------------	Coord
+33	okolí	NNNS6-----A----	AtrAdv
+34	,	Z:-------------	AuxX
+35	zaměstnává	VB-S---3P-AA---	Pred
+36	40	C=-------------	Obj
+37	psovodů	NNMP2-----A----	Atr
+38	ve	RV--6----------	AuxP
+39	službě	NNFS6-----A----	Adv
+40	a	J^-------------	Coord
+41	v	RR--6----------	AuxP
+42	budoucnu	NNNS6-----A----	Adv
+43	chce	VB-S---3P-AA---	Pred
+44	tento	PDIS4----------	Atr
+45	počet	NNIS4-----A----	Obj
+46	ještě	Db-------------	AuxZ
+47	zvýšit	Vf--------A----	Obj
+48	.	Z:-------------	AuxK
+
+ln94204-42-p2s5
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	hodinu	NNFS4-----A----	Atr
+4	osobní	AAFS2----1A----	Atr
+5	ostrahy	NNFS2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	pohybuje	VB-S---3P-AA---	Pred
+8	mezi	RR--7----------	AuxP
+9	65	C=-------------	Atr
+10	-	Z:-------------	Coord
+11	80	C=-------------	Atr
+12	Kč	NNFXX-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln94204-42-p2s6
+1	Služební	AAMS1----1A----	Atr
+2	pes	NNMS1-----A----	Sb
+3	vyjde	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	15	C=-------------	Obj
+6	až	J^-------------	Coord
+7	24	C=-------------	Obj
+8	Kč	NNFXX-----A----	Atr
+9	za	RR--4----------	AuxP
+10	hodinu	NNFS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94204-42-p2s7
+1	Pes	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Obj
+3	pro	RR--4----------	AuxP
+4	střežení	NNNS4-----A----	Adv
+5	objektů	NNIP2-----A----	Atr
+6	a	J^-------------	Coord
+7	pochůzky	NNFP4-----A----	Adv
+8	mnohem	Db-------------	Adv
+9	výhodnější	AAMS1----2A----	Pnom
+10	než	J,-------------	AuxC
+11	člověk	NNMS1-----A----	ExD
+12	,	Z:-------------	AuxX
+13	je	VB-S---3P-AA---	Obj
+14	levnější	AAMS1----2A----	Pnom
+15	,	Z:-------------	AuxX
+16	působí	VB-S---3P-AA---	Obj
+17	na	RR--4----------	AuxP
+18	psychiku	NNFS4-----A----	Obj
+19	kolemjdoucích	AAMP2----1A----	ExD
+20	a	J^-------------	Coord
+21	případného	AAMS4----1A----	Atr
+22	pachatele	NNMS4-----A----	Obj
+23	snadno	Dg-------1A----	Adv
+24	dohoní	VB-S---3P-AA---	Obj
+25	,	Z:-------------	AuxX
+26	řekl	VpYS---XR-AA---	Pred
+27	LN	NNFPX-----A---8	Obj
+28	ředitel	NNMS1-----A----	Atr
+29	firmy	NNFS2-----A----	Atr
+30	Josef	NNMS1-----A----	Atr
+31	Povrazník	NNMS1-----A----	Sb
+32	.	Z:-------------	AuxK
+

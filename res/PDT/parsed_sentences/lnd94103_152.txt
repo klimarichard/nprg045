@@ -1,0 +1,140 @@
+lnd94103-152-p1s1
+1	Folmava	NNFS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	fronta	NNFS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	táhne	VB-S---3P-AA---	Pred
+6	na	RR--4----------	AuxP
+7	kilometry	NNIP4-----A----	Adv
+
+lnd94103-152-p1s2
+1	Folmava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94103-152-p1s3
+1	Fronta	NNFS1-----A----	Sb
+2	kamionů	NNIP2-----A----	Atr
+3	čekajících	AGIP2-----A----	Atr
+4	před	RR--7----------	AuxP
+5	hraničním	AAIS7----1A----	Atr
+6	přechodem	NNIS7-----A----	Adv
+7	Folmava	NNFS1-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	během	RR--2----------	AuxP
+10	včerejšího	AAIS2----1A----	Atr
+11	dne	NNIS2-----A----	Adv
+12	prodloužila	VpQW---XR-AA---	Pred
+13	a	J^-------------	Coord
+14	před	RR--7----------	AuxP
+15	18	C=-------------	Atr
+16	:	Z:-------------	Coord
+17	00	C=-------------	Atr
+18	hodinou	NNFS7-----A----	Adv
+19	končila	VpQW---XR-AA---	Pred
+20	v	RR--6----------	AuxP
+21	obci	NNFS6-----A----	Adv
+22	Březí	NNNS1-----A----	Atr
+23	u	RR--2----------	AuxP
+24	Domažlic	NNFP2-----A----	Atr
+25	,	Z:-------------	Coord
+26	což	PE--1----------	Sb
+27	je	VB-S---3P-AA---	Pred
+28	zhruba	Db-------------	AuxZ
+29	22	C=-------------	Pnom
+30	kilometrů	NNIP2-----A----	Atr
+31	před	RR--7----------	AuxP
+32	hraničním	AAIS7----1A----	Atr
+33	přechodem	NNIS7-----A----	Atr
+34	.	Z:-------------	AuxK
+
+lnd94103-152-p1s4
+1	Kamiony	NNIP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4IP1----------	Sb
+4	zde	Db-------------	Adv
+5	čekají	VB-P---3P-AA---	Atr
+6	zatím	Db-------------	Adv
+7	pouze	Db-------------	AuxZ
+8	na	RR--6----------	AuxP
+9	příjezdové	AAFS6----1A----	Atr
+10	komunikaci	NNFS6-----A----	Adv
+11	a	J^-------------	Coord
+12	nevyužívají	VB-P---3P-NA---	Atr
+13	odstavného	AANS2----1A----	Atr
+14	parkoviště	NNNS2-----A----	Obj
+15	,	Z:-------------	AuxX
+16	čekají	VB-P---3P-AA---	Pred
+17	na	RR--4----------	AuxP
+18	celní	AANS4----1A----	Atr
+19	odbavení	NNNS4-----A----	Adv
+20	kolem	RR--2----------	AuxP
+21	dvaceti	Cn-P2----------	Atr
+22	hodin	NNFP2-----A----	Adv
+23	.	Z:-------------	AuxK
+
+lnd94103-152-p1s5
+1	Informoval	VpYS---XR-AA---	Pred
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	Bohuslav	NNMS1-----A----	Atr
+5	Liška	NNMS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	Cizinecké	AAFS2----1A----	Atr
+8	policie	NNFS2-----A----	Atr
+9	západočeského	AAIS2----1A----	Atr
+10	kraje	NNIS2-----A----	Atr
+11	a	J^-------------	Coord
+12	dodal	VpYS---XR-AA---	Pred
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	předpokládá	VB-S---3P-AA---	Obj
+16	zhoršení	NNNS4-----A----	Obj
+17	situace	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94103-152-p1s6
+1	Prodlužující	AGFP1-----A----	Atr
+2	se	P7-X4----------	AuxT
+3	čekací	AAFP1----1A----	Atr
+4	doby	NNFP1-----A----	Sb
+5	vyvolají	VB-P---3P-AA---	Pred
+6	podle	RR--2----------	AuxP
+7	Tomáše	NNMS2-----A----	Atr
+8	Nováka	NNMS2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	spolumajitele	NNMS2-----A----	Atr
+11	firmy	NNFS2-----A----	Atr
+12	Netto	TT-------------	Atr
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	provozuje	VB-S---3P-AA---	Atr
+16	odstavné	AANS4----1A----	Atr
+17	parkoviště	NNNS4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	další	AANS4----1A----	Atr
+20	jednání	NNNS4-----A----	Obj
+21	zainteresovaných	AAFP2----1A----	Atr
+22	stran	NNFP2-----A----	Atr
+23	o	RR--6----------	AuxP
+24	systému	NNIS6-----A----	Atr
+25	odbavování	NNNS2-----A----	Atr
+26	kamionů	NNIP2-----A----	Atr
+27	před	RR--7----------	AuxP
+28	hraničními	AAIP7----1A----	Atr
+29	přechody	NNIP7-----A----	Atr
+30	s	RR--7----------	AuxP
+31	odstavnými	AANP7----1A----	Atr
+32	parkovišti	NNNP7-----A----	Atr
+33	.	Z:-------------	AuxK
+
+lnd94103-152-p1s7
+1	Současný	AAIS1----1A----	Atr
+2	systém	NNIS1-----A----	Sb
+3	odbavování	NNNS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	podle	RR--2----------	AuxP
+6	něj	P5ZS2--3-------	Adv
+7	zatím	Db-------------	Adv
+8	neosvědčil	VpYS---XR-NA---	Pred
+9	.	Z:-------------	AuxK
+

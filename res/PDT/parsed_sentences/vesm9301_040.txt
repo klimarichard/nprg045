@@ -1,0 +1,225 @@
+vesm9301-040-p1s1
+1	Umami	NNFP7-----A----	ExD
+2	-	Z:-------------	Apos
+3	pátá	CrFS1----------	Atr
+4	hlavní	AAFS1----1A----	Atr
+5	chuť	NNFS1-----A----	ExD
+
+vesm9301-040-p2s1
+1	Sladké	AAFP1----1A----	Sb
+2	,	Z:-------------	AuxX
+3	hořké	AAFP1----1A----	Sb
+4	,	Z:-------------	AuxX
+5	kyselé	AAFP1----1A----	Sb
+6	,	Z:-------------	Coord
+7	slané	AAFP1----1A----	Sb
+8	-	Z:-------------	Apos
+9	to	PDNS1----------	Sb
+10	jsou	VB-P---3P-AA---	Pred
+11	základní	AAFP1----1A----	Atr
+12	lidské	AAFP1----1A----	Atr
+13	chutě	NNFP1-----A----	Pnom
+14	a	J^-------------	Coord
+15	jejich	PSXXXXP3-------	Atr
+16	uskutečňování	NNNS1-----A----	Sb
+17	na	RR--6----------	AuxP
+18	lidském	AAIS6----1A----	Atr
+19	jazyce	NNIS6-----A---1	Atr
+20	(	Z:-------------	AuxG
+21	a	J^-------------	Coord
+22	pak	Db-------------	Atr
+23	v	RR--6----------	AuxP
+24	mozku	NNIS6-----A----	Atr
+25	)	Z:-------------	AuxG
+26	je	VB-S---3P-AA---	Pred
+27	předmětem	NNIS7-----A----	Pnom
+28	výzkumu	NNIS2-----A----	Atr
+29	,	Z:-------------	AuxX
+30	hlavně	Dg-------1A----	AuxZ
+31	se	RV--7----------	AuxP
+32	zřetelem	NNIS7-----A----	AuxP
+33	k	RR--3----------	AuxP
+34	chuťovým	AAFP3----1A----	Atr
+35	recepčním	AAFP3----1A----	Atr
+36	buňkám	NNFP3-----A----	Atr
+37	lidského	AAIS2----1A----	Atr
+38	jazyka	NNIS2-----A----	Atr
+39	(	Z:-------------	ExD
+40	J	NNXXX-----A---8	Atr
+41	.	Z:-------------	AuxG
+42	Membrane	AAXXX----1A----	ExD
+43	Biol	NNFXX-----A---8	Atr
+44	.	Z:-------------	AuxK
+
+vesm9301-040-p2s3
+1	Už	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	ví	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	sladkost	NNFS1-----A----	Sb
+7	(	Z:-------------	Apos
+8	signál	NNIS1-----A----	Sb
+9	vysokoenergetických	AAIP2----1A----	Atr
+10	sacharidů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	hlavně	Dg-------1A----	AuxZ
+13	z	RR--2----------	AuxP
+14	rostlin	NNFP2-----A----	Atr
+15	)	Z:-------------	AuxG
+16	je	VB-S---3P-AA---	Sb
+17	zprostředkována	VsQW---XX-AP---	Pnom
+18	tvorbou	NNFS7-----A----	Adv
+19	cAMP	NNIS4-----A----	Atr
+20	(	Z:-------------	Apos
+21	cyklického	AAIS2----1A----	Atr
+22	adenosinmonofosfátu	NNIS2-----A----	Atr
+23	)	Z:-------------	AuxG
+24	a	J^-------------	Coord
+25	právě	Db-------------	Adv
+26	se	P7-X4----------	AuxR
+27	rozpoznávají	VB-P---3P-AA---	Pred
+28	signály	NNIP1-----A----	Sb
+29	hořkosti	NNFS2-----A----	Atr
+30	(	Z:-------------	Apos
+31	signálu	NNIS2-----A----	Atr
+32	jedovatých	AAFP2----1A----	Atr
+33	látek	NNFP2-----A----	Atr
+34	-	Z:-------------	Apos
+35	alkaloidů	NNIP2-----A----	Atr
+36	aj	AAXXX----1A---8	Atr
+37	.	Z:-------------	AuxG
+38	)	Z:-------------	AuxG
+39	,	Z:-------------	AuxX
+40	slanosti	NNFS2-----A----	Atr
+41	a	J^-------------	Coord
+42	kyselosti	NNFS2-----A----	Atr
+43	.	Z:-------------	AuxK
+
+vesm9301-040-p2s4
+1	Ale	J^-------------	Coord
+2	všichni	PLMP1----------	Sb
+3	víme	VB-P---1P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	dobré	AANS1----1A----	Atr
+7	maso	NNNS1-----A----	Sb
+8	chutná	VB-S---3P-AA---	Obj
+9	ještě	Db-------------	AuxZ
+10	trochu	Db-------------	Adv
+11	navíc	Db-------------	Adv
+12	.	Z:-------------	AuxK
+
+vesm9301-040-p2s5
+1	Protože	J,-------------	AuxC
+2	zatím	Db-------------	Adv
+3	není	VB-S---3P-NA---	Adv
+4	slovo	NNNS1-----A----	Sb
+5	(	Z:-------------	AuxG
+6	ani	J^-------------	AuxZ
+7	v	RR--6----------	AuxP
+8	angličtině	NNFS6-----A----	Adv
+9	)	Z:-------------	AuxG
+10	pro	RR--4----------	AuxP
+11	specifickou	AAFS4----1A----	Atr
+12	chuť	NNFS4-----A----	Atr
+13	aminokyselin	NNFP2-----A----	Atr
+14	(	Z:-------------	AuxG
+15	jako	J,-------------	AuxY
+16	je	VB-S---3P-AA---	Apos
+17	glutamát	NNIS1-----A----	Atr
+18	v	RR--6----------	AuxP
+19	Čínské	AAFS6----1A----	Atr
+20	kuchyni	NNFS6-----A----	Atr
+21	ale	J^-------------	Coord
+22	i	J^-------------	AuxZ
+23	v	RR--6----------	AuxP
+24	Glutasolu	NNIS6-----A---1	Atr
+25	,	Z:-------------	AuxX
+26	v	RR--6----------	AuxP
+27	jugoslávské	AAFS6----1A----	Atr
+28	Vede	VB-S---3P-AA---	Atr
+29	,	Z:-------------	Coord
+30	v	RR--6----------	AuxP
+31	polévkových	AANP6----1A----	Atr
+32	kořeních	NNNP6-----A----	Atr
+33	)	Z:-------------	AuxG
+34	,	Z:-------------	AuxX
+35	zatím	Db-------------	Adv
+36	se	P7-X4----------	AuxR
+37	tato	PDFS1----------	Atr
+38	zvláštní	AAFS1----1A----	Atr
+39	a	J^-------------	Coord
+40	příjemná	AAFS1----1A----	Atr
+41	chuť	NNFS1-----A----	Sb
+42	označuje	VB-S---3P-AA---	Pred
+43	japonským	AAIS7----1A----	Atr
+44	názvem	NNIS7-----A----	Adv
+45	umami	NNNXX-----A----	Atr
+46	(	Z:-------------	AuxG
+47	což	PE--1----------	Sb
+48	je	VB-S---3P-AA---	Atr
+49	dobrá	AAFS1----1A----	Atr
+50	chuť	NNFS1-----A----	Pnom
+51	)	Z:-------------	AuxG
+52	.	Z:-------------	AuxK
+
+vesm9301-040-p2s6
+1	Tuto	PDFS4----------	Atr
+2	chuť	NNFS4-----A----	Obj
+3	mají	VB-P---3P-AA---	Pred
+4	maso	NNNS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	ryby	NNFP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	chaluhy	NNFP1-----A----	Sb
+9	,	Z:-------------	Coord
+10	houby	NNFP1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+vesm9301-040-p2s7
+1	Už	Db-------------	Adv
+2	známe	VB-P---1P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	chuť	NNFS4-----A----	Obj
+6	všech	PLXP2----------	Atr
+7	slaných	AAIP2----1A----	Atr
+8	pokrmů	NNIP2-----A----	Atr
+9	(	Z:-------------	Apos
+10	polévek	NNFP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	omáček	NNFP2-----A----	Atr
+13	)	Z:-------------	AuxG
+14	zlepšíme	VB-P---1P-AA---	Obj
+15	glutamátem	NNIS7-----A----	Adv
+16	sodným	AAIS7----1A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9301-040-p2s8
+1	Umami	NNFP7-----A----	Adv
+2	signalizuje	VB-S---3P-AA---	Pred
+3	výživnou	AAFS4----1A----	Atr
+4	potravu	NNFS4-----A----	Obj
+5	živočišného	AAIS2----1A----	Atr
+6	původu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+vesm9301-040-p2s9
+1	Může	VB-S---3P-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	zpříjemnit	Vf--------A----	Obj
+4	i	J^-------------	AuxZ
+5	vegetářská	AANP4----1A----	Atr
+6	jídla	NNNP4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+vesm9301-040-p3s1
+1	Vratislav	NNMS1-----A----	Atr
+2	Schreiber	NNMS1-----A----	ExD
+
+vesm9301-040-p4s1
+1	35	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	34	C=-------------	ExD
+

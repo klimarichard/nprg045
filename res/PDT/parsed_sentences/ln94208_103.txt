@@ -1,0 +1,199 @@
+ln94208-103-p1s1
+1	Triatlon	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	taekwondo	NNNS1-----A----	ExD
+4	na	RR--6----------	AuxP
+5	OH	NNFPX-----A---8	ExD
+6	v	RR--6----------	AuxP
+7	Sydney	NNNSX-----A----	Atr
+
+ln94208-103-p2s1A
+1	Paříž	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94208-103-p2s1B
+1	Součástí	NNFS7-----A----	Pnom
+2	programu	NNIS2-----A----	Atr
+3	olympijských	AAFP2----1A----	Atr
+4	her	NNFP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	roce	NNIS6-----A---1	Atr
+7	2000	C=-------------	Atr
+8	v	RR--6----------	AuxP
+9	Sydney	NNNSX-----A----	Atr
+10	budou	VB-P---3F-AA---	Pred
+11	soutěže	NNFP1-----A----	Sb
+12	v	RR--6----------	AuxP
+13	triatlonu	NNIS6-----A----	Atr
+14	a	J^-------------	Coord
+15	taekwondo	NNNXX-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94208-103-p2s2
+1	Rozhodl	VpYS---XR-AA--1	Pred
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	na	RR--6----------	AuxP
+5	svém	P8ZS6----------	Atr
+6	sobotním	AANS6----1A----	Atr
+7	zasedání	NNNS6-----A----	Adv
+8	v	RR--6----------	AuxP
+9	Paříži	NNFS6-----A----	Atr
+10	výkonný	AAIS1----1A----	Atr
+11	výbor	NNIS1-----A----	Sb
+12	Mezinárodního	AAIS2----1A----	Atr
+13	olympijského	AAIS2----1A----	Atr
+14	výboru	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94208-103-p2s3
+1	Zařazení	NNNS1-----A----	Sb
+2	nových	AAIP2----1A----	Atr
+3	sportů	NNIP2-----A----	Atr
+4	však	J^-------------	Coord
+5	ještě	Db-------------	Adv
+6	podléhá	VB-S---3P-AA---	Pred
+7	schválení	NNNS3-----A----	Obj
+8	pléna	NNNS2-----A----	Atr
+9	MOV	NNIXX-----A---8	Atr
+10	.	Z:-------------	AuxK
+
+ln94208-103-p3s1
+1	Triatlon	NNIS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	mít	Vf--------A----	Pred
+4	v	RR--6----------	AuxP
+5	Sydney	NNNSX-----A----	Adv
+6	podobu	NNFS4-----A----	Obj
+7	již	Db-------------	AuxZ
+8	dnes	Db-------------	Adv
+9	nazývanou	AAFS4----1A----	Atr
+10	olympijský	AAIS1----1A----	Atr
+11	triatlon	NNIS1-----A----	Obj
+12	(	Z:-------------	AuxG
+13	1.5	C=-------------	ExD
+14	km	NNIXX-----A---8	Atr
+15	plavání	NNNS1-----A----	ExD
+16	,	Z:-------------	AuxX
+17	40	C=-------------	ExD
+18	km	NNIXX-----A---8	Atr
+19	kolo	NNNS1-----A----	ExD
+20	,	Z:-------------	Coord
+21	10	C=-------------	ExD
+22	km	NNIXX-----A---8	Atr
+23	běh	NNIS1-----A----	ExD
+24	)	Z:-------------	AuxG
+25	.	Z:-------------	AuxK
+
+ln94208-103-p3s2
+1	Taekwondo	NNNS1-----A----	Sb
+2	,	Z:-------------	Apos
+3	sportovní	AAFS1----1A----	Atr
+4	forma	NNFS1-----A----	Sb
+5	asijského	AANS2----1A----	Atr
+6	bojového	AANS2----1A----	Atr
+7	umění	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	dnes	Db-------------	Adv
+11	rozšířeno	VsNS---XX-AP---	Pnom
+12	ve	RV--6----------	AuxP
+13	více	Dg-------2A----	Adv
+14	než	J,-------------	AuxC
+15	stovce	NNFS6-----A----	Adv
+16	zemí	NNFP2-----A----	Atr
+17	a	J^-------------	Coord
+18	již	Db-------------	AuxZ
+19	v	RR--6----------	AuxP
+20	Soulu	NNIS6-----A----	Adv
+21	bylo	VpNS---XR-AA---	Pred
+22	ukázkovým	AAIS7----1A----	Atr
+23	sportem	NNIS7-----A----	Pnom
+24	.	Z:-------------	AuxK
+
+ln94208-103-p3s3
+1	Obě	ClHP1----------	Atr
+2	nová	AANP1----1A----	Atr
+3	odvětví	NNNP1-----A----	Sb
+4	jsou	VB-P---3P-AA---	Pred
+5	zařazena	VsQW---XX-AP---	Pnom
+6	jen	TT-------------	AuxZ
+7	do	RR--2----------	AuxP
+8	programu	NNIS2-----A----	Adv
+9	her	NNFP2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Sydney	NNNSX-----A----	Atr
+12	,	Z:-------------	Coord
+13	nestávají	VB-P---3P-NA---	Pred
+14	se	P7-X4----------	AuxT
+15	trvalou	AAFS7----1A----	Atr
+16	součástí	NNFS7-----A----	Obj
+17	olympijských	AAFP2----1A----	Atr
+18	her	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94208-103-p3s4
+1	O	RR--4----------	AuxP
+2	zařazení	NNNS4-----A----	Obj
+3	usilovali	VpMP---XR-AA---	Pred
+4	zástupci	NNMP1-----A----	Sb
+5	ještě	Db-------------	AuxZ
+6	dalších	AAIP2----1A----	Atr
+7	devíti	Cn-P2----------	Atr
+8	sportů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94208-103-p3s5
+1	O	RR--6----------	AuxP
+2	olympijské	AAFS6----1A----	Atr
+3	budoucnosti	NNFS6-----A----	Obj
+4	softbalu	NNIS2-----A----	Atr
+5	a	J^-------------	Coord
+6	plážového	AAIS2----1A----	Atr
+7	volejbalu	NNIS2-----A----	Atr
+8	MOV	NNIXX-----A---8	Sb
+9	rozhodne	VB-S---3P-AA---	Pred
+10	až	TT-------------	AuxZ
+11	podle	RR--2----------	AuxP
+12	toho	PDZS2----------	Adv
+13	,	Z:-------------	AuxX
+14	jak	Db-------------	Adv
+15	se	P7-X4----------	Obj
+16	tyto	PDFP1----------	Atr
+17	novinky	NNFP1-----A----	Sb
+18	uvedou	VB-P---3P-AA---	Atr
+19	na	RR--6----------	AuxP
+20	hrách	NNFP6-----A----	Adv
+21	v	RR--6----------	AuxP
+22	Atlantě	NNFS6-----A----	Atr
+23	v	RR--6----------	AuxP
+24	roce	NNIS6-----A---1	AtrAdv
+25	1996	C=-------------	Atr
+26	.	Z:-------------	AuxK
+
+ln94208-103-p3s6
+1	Předseda	NNMS1-----A----	Atr
+2	MOV	NNIXX-----A---8	Atr
+3	J	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	A	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Samaranch	NNMS1-----A----	Sb
+8	naznačil	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	některé	PZFP4----------	Atr
+12	změny	NNFP4-----A----	Obj
+13	může	VB-S---3P-AA---	Obj
+14	přijmout	Vf--------A----	Obj
+15	ještě	Db-------------	AuxZ
+16	příští	AANS1----1A----	Atr
+17	zasedání	NNNS1-----A----	Sb
+18	MOV	NNIXX-----A---8	Atr
+19	v	RR--6----------	AuxP
+20	červnu	NNIS6-----A----	AtrAdv
+21	1995	C=-------------	Atr
+22	v	RR--6----------	AuxP
+23	Budapešti	NNFS6-----A----	AtrAdv
+24	.	Z:-------------	AuxK
+

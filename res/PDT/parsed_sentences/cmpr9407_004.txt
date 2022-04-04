@@ -1,0 +1,635 @@
+cmpr9407-004-p2s1
+1	Hronovský	AAMS1----1A----	Atr
+2	Jirásek	NNMS1-----A----	ExD
+3	-	Z:-------------	Apos
+4	velkoobchodník	NNMS1-----A----	ExD
+
+cmpr9407-004-p3s1A
+1	Neztratili	VpMP---XR-NA---	Pred
+2	jediného	AAMS4----1A----	Atr
+3	zákazníka	NNMS4-----A----	Obj
+4	*	Z:-------------	AuxK
+
+cmpr9407-004-p3s1B
+1	Se	RV--7----------	AuxP
+2	zpožděnými	AAFP7----1A----	Atr
+3	platbami	NNFP7-----A----	Obj
+4	částečně	Dg-------1A----	Adv
+5	počítají	VB-P---3P-AA---	Pred
+
+cmpr9407-004-p4s1
+1	Asi	TT-------------	AuxZ
+2	450	C=-------------	Obj
+3	obchodníků	NNMP2-----A----	Atr
+4	od	RR--2----------	AuxP
+5	Harrachova	NNIS2-----A----	Atr
+6	po	RR--4----------	AuxP
+7	Jablonné	NNNS4-----A----	Atr
+8	nad	RR--7----------	AuxP
+9	Orlicí	NNFS7-----A----	Atr
+10	zásobuje	VB-S---3P-AA---	Pred
+11	průmyslovým	AANS7----1A----	Atr
+12	zbožím	NNNS7-----A----	Obj
+13	z	RR--2----------	AuxP
+14	plastů	NNIP2-----A----	Atr
+15	hronovský	AAIS1----1A----	Atr
+16	velkoobchod	NNIS1-----A----	Sb
+17	Alcar	NNIS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9407-004-p4s2
+1	Ve	RV--6----------	AuxP
+2	špičkových	AANP6----1A----	Atr
+3	obdobích	NNNP6-----A----	Adv
+4	mívá	VB-S---3P-AA---	Pred
+5	na	RR--6----------	AuxP
+6	skladě	NNIS6-----A----	Adv
+7	až	TT-------------	AuxZ
+8	5000	C=-------------	Obj
+9	druhových	AAFP2----1A----	Atr
+10	položek	NNFP2-----A----	Atr
+11	-	Z:-------------	Apos
+12	bohatý	AAIS4----1A----	Atr
+13	sortiment	NNIS4-----A----	Obj
+14	od	RR--2----------	AuxP
+15	60	C=-------------	Atr
+16	výrobců	NNMP2-----A----	Atr
+17	od	RR--2----------	AuxP
+18	Tachova	NNIS2-----A----	Atr
+19	po	RR--4----------	AuxP
+20	Ostravsko	NNNS4-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9407-004-p5s1
+1	Alcar	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	ceny	NNFP1-----A----	ExD
+
+cmpr9407-004-p6s1
+1	Podle	RR--2----------	AuxP
+2	Jaroslava	NNMS2-----A----	Atr
+3	Jiráska	NNMS2-----A----	Adv
+4	,	Z:-------------	Apos
+5	majitele	NNMS2-----A----	Adv
+6	velkoobchodu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	nestačí	VB-S---3P-NA---	Pred
+9	k	RR--3----------	AuxP
+10	získání	NNNS3-----A----	Adv
+11	zákazníků	NNMP2-----A----	Atr
+12	bohatá	AAFS1----1A----	Atr
+13	nabídka	NNFS1-----A----	Sb
+14	a	J^-------------	Coord
+15	pohotové	AANS1----1A----	Atr
+16	zásobování	NNNS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+cmpr9407-004-p6s2
+1	Obchodník	NNMS1-----A----	Sb
+2	nakoupí	VB-S---3P-AA---	Pred
+3	tam	Db-------------	Adv
+4	,	Z:-------------	AuxX
+5	kde	Db-------------	Adv
+6	mu	PHZS3--3-------	Obj
+7	nabídnou	VB-P---3P-AA---	Adv
+8	výhodné	AAFP4----1A----	Atr
+9	ceny	NNFP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9407-004-p6s3
+1	Na	RR--4----------	AuxP
+2	ceny	NNFP4-----A----	Atr
+3	Alcaru	NNIS2-----A----	Atr
+4	má	VB-S---3P-AA---	Pred
+5	vliv	NNIS4-----A----	Obj
+6	několik	Ca--1----------	Sb
+7	okolností	NNFP2-----A----	Atr
+8	:	Z:-------------	AuxK
+
+cmpr9407-004-p7s1
+1	*	Z:-------------	ExD
+2	Dodavatelské	AAFP1----1A----	Atr
+3	slevy	NNFP1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+cmpr9407-004-p7s2
+1	Velkoobchod	NNIS1-----A----	Sb
+2	nakupuje	VB-S---3P-AA---	Pred
+3	u	RR--2----------	AuxP
+4	výrobců	NNMP2-----A----	Adv
+5	na	RR--4----------	AuxP
+6	celé	AAIP4----1A----	Atr
+7	kamiony	NNIP4-----A----	Adv
+8	a	J^-------------	Coord
+9	dodavatelé	NNMP1-----A----	Sb
+10	mu	PHZS3--3-------	Obj
+11	poskytují	VB-P---3P-AA---	Pred
+12	množstevní	AAFP4----1A----	Atr
+13	slevy	NNFP4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9407-004-p7s3
+1	I	J^-------------	AuxZ
+2	po	RR--6----------	AuxP
+3	započítání	NNNS6-----A----	Adv
+4	vlastní	AAFS2----1A----	Atr
+5	marže	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	pohybující	AGFS2-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	mezi	RR--7----------	AuxP
+10	8	C=-------------	Atr
+11	-	Z:-------------	Coord
+12	10	C=-------------	Atr
+13	%	Z:-------------	Adv
+14	,	Z:-------------	AuxX
+15	získají	VB-P---3P-AA---	Pred
+16	obchodníci	NNMP1-----A----	Sb
+17	zboží	NNNS4-----A----	Obj
+18	přibližně	Dg-------1A----	Adv
+19	za	RR--4----------	AuxP
+20	stejné	AAFP4----1A----	Atr
+21	ceny	NNFP4-----A----	AtrAdv
+22	jako	J,-------------	AuxC
+23	u	RR--2----------	AuxP
+24	výrobců	NNMP2-----A----	ExD
+25	,	Z:-------------	AuxX
+26	pokud	J,-------------	AuxC
+27	by	Vc-------------	AuxV
+28	se	P7-X4----------	AuxT
+29	jim	PPXP3--3-------	Adv
+30	ovšem	J^-------------	AuxY
+31	vyplatilo	VpNS---XR-AA---	Adv
+32	jezdit	Vf--------A----	Sb
+33	napříč	Db-------------	AuxP
+34	republikou	NNFS7-----A----	Adv
+35	třeba	Db-------------	AuxZ
+36	i	J^-------------	AuxZ
+37	jen	TT-------------	AuxZ
+38	pro	RR--4----------	AuxP
+39	několik	Ca--4----------	Adv
+40	kartonů	NNIP2-----A----	Atr
+41	.	Z:-------------	AuxK
+
+cmpr9407-004-p8s1
+1	*	Z:-------------	ExD
+2	Vlastní	AAFS1----1A----	Atr
+3	doprava	NNFS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+cmpr9407-004-p8s2
+1	Je	VB-S---3P-AA---	Pred
+2	levnější	AAFS1----2A----	Pnom
+3	než	J,-------------	AuxC
+4	doprava	NNFS1-----A----	ExD
+5	zajišťovaná	AAFS1----1A----	Atr
+6	cizími	AAFP7----1A----	Atr
+7	organizacemi	NNFP7-----A----	Obj
+8	.	Z:-------------	AuxK
+
+cmpr9407-004-p8s3
+1	Hronovský	AAMS1----1A----	Atr
+2	velkoobchodník	NNMS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	dispozici	NNFS3-----A----	Adv
+6	tři	ClXP4----------	Atr
+7	nákladní	AAIP4----1A----	Atr
+8	vozy	NNIP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9407-004-p8s4
+1	Jimi	PPXP7--3-------	Adv
+2	přiváží	VB-S---3P-AA---	Pred
+3	od	RR--2----------	AuxP
+4	dodavatelů	NNMP2-----A----	Adv
+5	jen	TT-------------	AuxZ
+6	asi	TT-------------	AuxZ
+7	třetinu	CyFS4----------	Obj
+8	nakupovaných	AAIP2----1A----	Atr
+9	objemů	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	odběratelům	NNMP3-----A----	Obj
+13	stačí	VB-S---3P-AA---	Pred
+14	s	RR--7----------	AuxP
+15	jejich	PSXXXXP3-------	Atr
+16	pomocí	NNFS7-----A----	Adv
+17	rozvézt	Vf--------A----	Sb
+18	devět	Cn-S4----------	Atr
+19	desetin	CyFP2----------	Obj
+20	dodávek	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9407-004-p8s5
+1	Vloni	Db-------------	Adv
+2	stáli	VpMP---XR-AA---	Pred
+3	firmu	NNFS4-----A----	Obj
+4	externí	AAMP1----1A----	Atr
+5	dopravci	NNMP1-----A----	Sb
+6	300000	C=-------------	Adv
+7	Kč	NNFXX-----A----	Atr
+8	,	Z:-------------	Coord
+9	veškerá	PLFS1----------	Atr
+10	vlastní	AAFS1----1A----	Atr
+11	doprava	NNFS1-----A----	ExD
+12	,	Z:-------------	AuxX
+13	na	RR--4----------	AuxP
+14	niž	P9FS4----------	Obj
+15	připadá	VB-S---3P-AA---	Atr
+16	větší	AAFS1----2A----	Atr
+17	část	NNFS1-----A----	Sb
+18	objemů	NNIP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	jen	TT-------------	AuxZ
+21	o	RR--4----------	AuxP
+22	100000	C=-------------	Adv
+23	korun	NNFP2-----A----	Atr
+24	víc	Dg-------2A---1	ExD
+25	.	Z:-------------	AuxK
+
+cmpr9407-004-p9s1
+1	*	Z:-------------	ExD
+2	Minimální	AAIS1----1A----	Atr
+3	úvěr	NNIS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+cmpr9407-004-p9s2
+1	Alcar	NNIS1-----A----	Sb
+2	používá	VB-S---3P-AA---	Pred
+3	úvěr	NNIS4-----A----	Obj
+4	jen	TT-------------	AuxZ
+5	občas	Db-------------	Adv
+6	.	Z:-------------	AuxK
+
+cmpr9407-004-p9s3
+1	Například	Db-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	předjaří	NNNS6-----A----	ExD
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	je	VB-S---3P-AA---	Atr
+7	třeba	ACNS------A----	Pnom
+8	zajistit	Vf--------A----	Sb
+9	dostatek	NNIS4-----A----	Obj
+10	zásob	NNFP2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	zahrádkáře	NNMP4-----A----	Atr
+13	a	J^-------------	Coord
+14	zboží	NNNS2-----A----	Obj
+15	pro	RR--4----------	AuxP
+16	volný	AAIS4----1A----	Atr
+17	čas	NNIS4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9407-004-p9s4
+1	Podobně	Dg-------1A----	Adv
+2	je	VB-S---3P-AA---	Pred
+3	třeba	Db-------------	Pnom
+4	jednorázově	Dg-------1A----	Adv
+5	zvýšit	Vf--------A----	Sb
+6	zásoby	NNFP4-----A----	Obj
+7	před	RR--7----------	AuxP
+8	vánoci	NNFP7-----A---1	Adv
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	byl	VpYS---XR-AA---	Adv
+12	dostatečný	AAIS1----1A----	Atr
+13	výběr	NNIS1-----A----	Sb
+14	dárků	NNIP2-----A----	Atr
+15	a	J^-------------	Coord
+16	zimního	AANS2----1A----	Atr
+17	sportovního	AANS2----1A----	Atr
+18	vybavení	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9407-004-p9s5
+1	Jde	VB-S---3P-AA---	Pred
+2	přitom	Db-------------	Adv
+3	o	RR--4----------	AuxP
+4	úvěry	NNIP4-----A----	Obj
+5	krátkodobé	AAIP4----1A----	Atr
+6	,	Z:-------------	AuxX
+7	které	P4IP1----------	Sb
+8	hospodaření	NNNS4-----A----	Obj
+9	podniku	NNIS2-----A----	Atr
+10	nezatěžují	VB-P---3P-NA---	Atr
+11	zbytečně	Dg-------1A----	Adv
+12	vysokými	AAIP7----1A----	Atr
+13	úroky	NNIP7-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9407-004-p10s1
+1	*	Z:-------------	ExD
+2	Výhody	NNFP1-----A----	ExD
+3	odběratelům	NNMP3-----A----	Atr
+4	.	Z:-------------	AuxK
+
+cmpr9407-004-p10s2
+1	Hronovský	AAMS1----1A----	Atr
+2	velkoobchodník	NNMS1-----A----	Sb
+3	kalkuluje	VB-S---3P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	marží	NNFS7-----A----	Obj
+6	8	C=-------------	Atr
+7	-	Z:-------------	Coord
+8	20	C=-------------	Atr
+9	%	Z:-------------	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9407-004-p10s3
+1	Její	PSFSXFS3-------	Atr
+2	výše	NNFS1-----A----	Sb
+3	záleží	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	dopravních	AAIP6----1A----	Atr
+6	nákladech	NNIP6-----A----	Obj
+7	i	J^-------------	Coord
+8	na	RR--6----------	AuxP
+9	slevách	NNFP6-----A----	Obj
+10	,	Z:-------------	AuxX
+11	které	P4FP4----------	Obj
+12	sám	PLYS1----------	AtvV
+13	získá	VB-S---3P-AA---	Atr
+14	od	RR--2----------	AuxP
+15	výrobců	NNMP2-----A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9407-004-p10s4
+1	K	RR--3----------	AuxP
+2	nabízeným	AAFP3----1A----	Atr
+3	cenám	NNFP3-----A----	Adv
+4	poskytuje	VB-S---3P-AA---	Pred
+5	slevy	NNFP4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+cmpr9407-004-p10s5
+1	Při	RR--6----------	AuxP
+2	vlastním	AAIS6----1A----	Atr
+3	odvozu	NNIS6-----A----	ExD
+4	4	C=-------------	Atr
+5	%	Z:-------------	ExD
+6	,	Z:-------------	Coord
+7	další	AANP4----1A----	Atr
+8	3	C=-------------	Atr
+9	%	Z:-------------	Obj
+10	může	VB-S---3P-AA---	Pred
+11	odběratel	NNMS1-----A----	Sb
+12	získat	Vf--------A----	Obj
+13	,	Z:-------------	AuxX
+14	když	J,-------------	AuxC
+15	platí	VB-S---3P-AA---	Adv
+16	hotově	Dg-------1A----	Adv
+17	.	Z:-------------	AuxK
+
+cmpr9407-004-p10s6
+1	Další	AANS4----1A----	Atr
+2	zvýhodnění	NNNS4-----A----	Obj
+3	dává	VB-S---3P-AA---	Pred
+4	velkoobchod	NNIS1-----A----	Sb
+5	při	RR--6----------	AuxP
+6	odběru	NNIS6-----A----	Adv
+7	velkých	AAIP2----1A----	Atr
+8	objemů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9407-004-p11s1
+1	Na	RR--6----------	AuxP
+2	slevách	NNFP6-----A----	Obj
+3	nemůžeme	VB-P---1P-NA---	Obj
+4	prodělat	Vf--------A----	Obj
+5	,	Z:-------------	AuxX
+6	řekl	VpYS---XR-AA---	Pred
+7	nám	PP-P3--1-------	Obj
+8	podnikatel	NNMS1-----A----	Atr
+9	Jirásek	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+cmpr9407-004-p11s2
+1	Přispívají	VB-P---3P-AA---	Pred
+2	k	RR--3----------	AuxP
+3	rychlejšímu	AAIS3----2A----	Atr
+4	obratu	NNIS3-----A----	Obj
+5	zboží	NNNS2-----A----	Atr
+6	a	J^-------------	Coord
+7	pomáhají	VB-P---3P-AA---	Pred
+8	nám	PP-P3--1-------	Obj
+9	získávat	Vf--------A----	Obj
+10	zákazníky	NNMP4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9407-004-p12s1
+1	Dlužníci	NNMP1-----A----	ExD
+
+cmpr9407-004-p13s1
+1	Většina	NNFS1-----A----	Sb
+2	obchodníků	NNMP2-----A----	Atr
+3	objednává	VB-S---3P-AA---	Pred
+4	zboží	NNNS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	fakturu	NNFS4-----A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9407-004-p13s2
+1	Velkoobchodník	NNMS1-----A----	Sb
+2	musí	VB-S---3P-AA---	Pred
+3	počítat	Vf--------A----	Obj
+4	s	RR--7----------	AuxP
+5	tím	PDZS7----------	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	si	P7-X3----------	Obj
+9	někteří	PZMP1----------	Sb
+10	z	RR--2----------	AuxP
+11	nich	P5XP2--3-------	Atr
+12	se	RV--7----------	AuxP
+13	včasnou	AAFS7----1A----	Atr
+14	úhradou	NNFS7-----A----	Obj
+15	moc	Db-------------	Adv
+16	hlavu	NNFS4-----A----	Obj
+17	nelámou	VB-P---3P-NA---	Atr
+18	,	Z:-------------	AuxX
+19	nebo	J^-------------	Coord
+20	na	RR--4----------	AuxP
+21	ni	P5FS4--3-------	Obj
+22	nemají	VB-P---3P-NA---	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9407-004-p13s3
+1	Koncem	NNIS7-----A----	AuxP
+2	roku	NNIS2-----A---1	Adv
+3	se	P7-X4----------	AuxT
+4	objem	NNIS1-----A----	Sb
+5	pohledávek	NNFP2-----A----	Atr
+6	nesplacených	AAFP2----1N----	Atr
+7	Alcaru	NNIS3-----A----	Obj
+8	v	RR--6----------	AuxP
+9	dohodnuté	AAFS6----1A----	Atr
+10	lhůtě	NNFS6-----A----	Adv
+11	přiblížil	VpYS---XR-AA---	Pred
+12	jednomu	ClZS3----------	Atr
+13	milionu	NNIS3-----A----	Obj
+14	korun	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9407-004-p14s1
+1	Pro	RR--4----------	AuxP
+2	podobné	AAIP4----1A----	Atr
+3	případy	NNIP4-----A----	Adv
+4	si	P7-X3----------	Adv
+5	vytváříme	VB-P---1P-AA---	Obj
+6	finanční	AAFS4----1A----	Atr
+7	rezervu	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	vysvětlil	VpYS---XR-AA---	Pred
+10	nám	PP-P3--1-------	Obj
+11	pan	NNMS1-----A----	Atr
+12	Jirásek	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+cmpr9407-004-p14s2
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	nejsme	VB-P---1P-NA---	Adv
+4	pro	RR--4----------	AuxP
+5	nikoho	PWM-4----------	Adv
+6	zaopatřovacím	AAIS7----1A----	Atr
+7	ústavem	NNIS7-----A----	Pnom
+8	,	Z:-------------	AuxX
+9	můžeme	VB-P---1P-AA---	Pred
+10	dlužníkům	NNMP3-----A----	Obj
+11	nějakou	PZFS4----------	Atr
+12	dobu	NNFS4-----A----	Adv
+13	poshovět	Vf--------A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9407-004-p14s3
+1	Nesmí	VB-S---3P-NA---	Pred
+2	být	Vf--------A----	Obj
+3	ale	J^-------------	Coord
+4	takových	PDXP2----------	Atr
+5	pohledávek	NNFP2-----A----	Atr
+6	tolik	Ca--1----------	Sb
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	to	PDNS1----------	Sb
+10	ohrozilo	VpNS---XR-AA---	Adv
+11	naši	PSFS4-P1-------	Atr
+12	vlastní	AAFS4----1A----	Atr
+13	platební	AAFS4----1A----	Atr
+14	schopnost	NNFS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9407-004-p15s1
+1	Firma	NNFS1-----A----	Sb
+2	dlužníky	NNMP4-----A----	Obj
+3	upomíná	VB-S---3P-AA---	Pred
+4	písemně	Dg-------1A----	Adv
+5	i	J^-------------	Coord
+6	telefonicky	Dg-------1A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9407-004-p15s2
+1	Největší	AAIS4----3A----	Atr
+2	úspěch	NNIS4-----A----	Obj
+3	při	RR--6----------	AuxP
+4	vymáhání	NNNS6-----A----	Atr
+5	zpožděných	AAFP2----1A----	Atr
+6	plateb	NNFP2-----A----	Atr
+7	mívá	VB-S---3P-AA---	Pred
+8	osobní	AANS1----1A----	Atr
+9	jednání	NNNS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+cmpr9407-004-p15s3
+1	Považoval	VpYS---XR-AA---	Obj
+2	bych	Vc-S---1-------	AuxV
+3	to	PDNS4----------	Obj
+4	za	RR--4----------	AuxP
+5	vlastní	AAFS4----1A----	Atr
+6	neschopnost	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kdybychom	J,-P---1-------	AuxC
+9	při	RR--6----------	AuxP
+10	jednání	NNNS6-----A----	Adv
+11	se	RV--7----------	AuxP
+12	zákazníkem	NNMS7-----A----	Atr
+13	nedospěli	VpMP---XR-NA---	Adv
+14	k	RR--3----------	AuxP
+15	rozumné	AAFS3----1A----	Atr
+16	dohodě	NNFS3-----A----	Obj
+17	,	Z:-------------	AuxX
+18	ujistil	VpYS---XR-AA---	Pred
+19	nás	PP-P4--1-------	Obj
+20	podnikatel	NNMS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+cmpr9407-004-p15s4
+1	Drobné	AAMP4----1A----	Atr
+2	dlužníky	NNMP4-----A----	Obj
+3	nepenalizujeme	VB-P---1P-NA---	Pred
+4	,	Z:-------------	Coord
+5	váhám	VB-S---1P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	nad	RR--7----------	AuxP
+8	soudními	AAFP7----1A----	Atr
+9	žalobami	NNFP7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9407-004-p15s5
+1	Ohled	NNIS1-----A----	Sb
+2	k	RR--3----------	AuxP
+3	zákazníkům	NNMP3-----A----	Atr
+4	a	J^-------------	Coord
+5	jejich	PSXXXXP3-------	Atr
+6	dočasným	AAFP3----1A----	Atr
+7	potížím	NNFP3-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	nám	PP-P3--1-------	Obj
+10	vyplácí	VB-S---3P-AA---	Pred
+11	.	Z:-------------	AuxK
+
+cmpr9407-004-p15s6
+1	Patrně	Dg-------1A----	AuxY
+2	i	J^-------------	AuxZ
+3	díky	NNIP7-----A----	AuxP
+4	jemu	PPZS3--3-------	Adv
+5	jsme	VB-P---1P-AA---	AuxV
+6	během	RR--2----------	AuxP
+7	půltřetího	AAIS2----1A----	Atr
+8	roku	NNIS2-----A---1	Adv
+9	našeho	PSZS2-P1-------	Atr
+10	podnikání	NNNS2-----A----	Atr
+11	neztratili	VpMP---XR-NA---	Pred
+12	jediného	AAMS4----1A----	Atr
+13	zákazníka	NNMS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9407-004-p16s1
+1	Josef	NNMS1-----A----	Atr
+2	Farský	NNMS1-----A----	ExD
+
+cmpr9407-004-p17s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Alcar	NNIS1-----A----	ExD
+4	,	Z:-------------	Apos
+5	velkoobchod	NNIS1-----A----	ExD
+6	průmyslovým	AANS7----1A----	Atr
+7	zbožím	NNNS7-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Husova	AUFS1M---------	Atr
+10	331	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	549	C=-------------	Atr
+13	31	C=-------------	Atr
+14	Hronov	NNIS1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	tel	NNIXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	:	Z:-------------	AuxG
+19	(	Z:-------------	AuxG
+20	0441	C=-------------	Atr
+21	)	Z:-------------	AuxG
+22	8896	C=-------------	Atr
+

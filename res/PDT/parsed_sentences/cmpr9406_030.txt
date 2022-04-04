@@ -1,0 +1,283 @@
+cmpr9406-030-p1s1
+1	Informace	NNFP1-----A----	ExD
+
+cmpr9406-030-p2s1
+1	Kontilití	NNNS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	Nové	AAFS6----1A----	Atr
+4	huti	NNFS6-----A----	Atr
+
+cmpr9406-030-p3s1
+1	Společnost	NNFS1-----A----	Sb
+2	Vítkovice	NNFP1-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	stala	VpQW---XR-AA---	Pred
+5	finálním	AAMS7----1A----	Atr
+6	dodavatelem	NNMS7-----A----	Obj
+7	pěti	Cn-P2----------	Atr
+8	rozhodujících	AGIP2-----A----	Atr
+9	souborů	NNIP2-----A----	Atr
+10	technologického	AANS2----1A----	Atr
+11	zařízení	NNNS2-----A----	Atr
+12	na	RR--4----------	AuxP
+13	plynulé	AANS4----1A----	Atr
+14	odlévání	NNNS4-----A----	Atr
+15	oceli	NNFS2-----A---1	Atr
+16	pro	RR--4----------	AuxP
+17	Novou	AAFS4----1A----	Atr
+18	huť	NNFS4-----A----	Atr
+19	Ostrava	NNFS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9406-030-p3s2
+1	Celková	AAFS1----1A----	Atr
+2	montáž	NNFS1-----A----	Sb
+3	byla	VpQW---XR-AA---	AuxV
+4	proti	RR--3----------	AuxP
+5	výstavbě	NNFS3-----A----	Adv
+6	kontilití	NNNS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Třineckých	AAFP6----1A----	Atr
+9	železárnách	NNFP6-----A----	Atr
+10	zkrácena	VsQW---XX-AP---	Pred
+11	o	RR--4----------	AuxP
+12	pět	Cn-S4----------	Adv
+13	měsíců	NNIP2-----A----	Atr
+14	,	Z:-------------	Coord
+15	o	RR--4----------	AuxP
+16	stejnou	AAFS4----1A----	Atr
+17	dobu	NNFS4-----A----	Adv
+18	se	P7-X4----------	AuxR
+19	urychlila	VpQW---XR-AA---	Pred
+20	i	J^-------------	AuxZ
+21	předvýrobní	AAFS1----1A----	Atr
+22	etapa	NNFS1-----A----	Sb
+23	a	J^-------------	Coord
+24	vlastní	AAFS1----1A----	Atr
+25	výroba	NNFS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+cmpr9406-030-p4s1
+1	Motorlet	NNIS1-----A----	ExD
+2	do	RR--2----------	AuxP
+3	Polska	NNNS2-----A----	ExD
+
+cmpr9406-030-p5s1
+1	Do	RR--2----------	AuxP
+2	polských	AANP2----1A----	Atr
+3	letadel	NNNP2-----A----	Adv
+4	Orlik	NNIS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	která	P4NP4----------	Obj
+7	používá	VB-S---3P-AA---	Atr
+8	k	RR--3----------	AuxP
+9	výcviku	NNIS3-----A----	Adv
+10	polská	AAFS1----1A----	Atr
+11	armáda	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	dodává	VB-S---3P-AA---	Pred
+14	pohonné	AAFP4----1A----	Atr
+15	jednotky	NNFP4-----A----	Obj
+16	Motorlet	NNIS1-----A----	Sb
+17	Jinonice	NNFP1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9406-030-p5s2
+1	Loni	Db------------1	Adv
+2	se	P7-X4----------	AuxR
+3	uskutečnila	VpQW---XR-AA---	Pred
+4	dodávka	NNFS1-----A----	Sb
+5	deseti	Cn-P2----------	Atr
+6	turbovrtulových	AAIP2----1A----	Atr
+7	motorů	NNIP2-----A----	Atr
+8	M	NNXXX-----A---8	Atr
+9	601	C=-------------	Atr
+10	T	NNXXX-----A---8	Atr
+11	,	Z:-------------	Coord
+12	letos	Db-------------	Adv
+13	má	VB-S---3P-AA---	Pred
+14	být	Vf--------A----	AuxV
+15	dodáno	VsNS---XX-AP---	Obj
+16	dalších	AAIP2----1A----	Atr
+17	15	C=-------------	Sb
+18	kusů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9406-030-p5s3
+1	Výrobce	NNMS1-----A----	Sb
+2	letadel	NNNP2-----A----	Atr
+3	PZT	NNXXX-----A---8	Atr
+4	nakupuje	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	Motorletu	NNIS6-----A----	Adv
+7	také	Db-------------	Adv
+8	pohonné	AAFP4----1A----	Atr
+9	jednotky	NNFP4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	zemědělské	AAIP4----1A----	Atr
+12	stroje	NNIP4-----A----	Atr
+13	PZT	NNXXX-----A---8	Atr
+14	106	C=-------------	Atr
+15	Javelin	NNIS1-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9406-030-p5s4
+1	O	RR--6----------	AuxP
+2	prodeji	NNIS6-----A----	Obj
+3	motorů	NNIP2-----A----	Atr
+4	jedná	VB-S---3P-AA---	Pred
+5	nyní	Db-------------	Adv
+6	Motorlet	NNIS1-----A----	Sb
+7	také	Db-------------	Adv
+8	se	RV--7----------	AuxP
+9	zájemci	NNMP7-----A----	Obj
+10	z	RR--2----------	AuxP
+11	Argentiny	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9406-030-p5s5
+1	Padesát	Cn-S1----------	Sb
+2	motorů	NNIP2-----A----	Atr
+3	ročně	Dg-------1A----	Adv
+4	by	Vc-------------	AuxV
+5	mělo	VpNS---XR-AA---	Pred
+6	být	Vf--------A----	AuxV
+7	použito	VsNS---XX-AP---	Obj
+8	i	J^-------------	AuxZ
+9	v	RR--6----------	AuxP
+10	jednomotorových	AANP6----1A----	Atr
+11	letadlech	NNNP6-----A----	Adv
+12	ruské	AAFS2----1A----	Atr
+13	výroby	NNFS2-----A----	Atr
+14	Mjasisčev	NNIS1-----A----	Atr
+15	M	NNXXX-----A---8	Atr
+16	101	C=-------------	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9406-030-p5s6
+1	Největším	AAMS7----3A----	Atr
+2	odběratelem	NNMS7-----A----	Obj
+3	Motorletu	NNIS2-----A----	Atr
+4	zůstává	VB-S---3P-AA---	Pred
+5	Let	NNIS1-----A----	Sb
+6	Kunovice	NNFP1-----A----	Atr
+7	,	Z:-------------	AuxX
+8	i	J^-------------	AuxY
+9	když	J,-------------	AuxC
+10	zakázky	NNFP1-----A----	Sb
+11	klesly	VpTP---XR-AA--1	Adv
+12	ze	RV--2----------	AuxP
+13	160	C=-------------	ExD
+14	na	RR--4----------	AuxP
+15	60	C=-------------	Adv
+16	jednotek	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9406-030-p6s1
+1	Ekologické	AANS1----1A----	Atr
+2	palivo	NNNS1-----A----	ExD
+
+cmpr9406-030-p7s1
+1	Ještě	Db-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	tomto	PDZS6----------	Atr
+4	čtvrtletí	NNNS6-----A----	Adv
+5	začne	VB-S---3P-AA---	Pred
+6	akciová	AAFS1----1A----	Atr
+7	společnost	NNFS1-----A----	Sb
+8	MILO	NNNXX-----A---8	Atr
+9	Olomouc	NNFS1-----A----	Atr
+10	vyrábět	Vf--------A----	Obj
+11	bionaftu	NNFS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9406-030-p7s2
+1	Ročně	Dg-------1A----	Adv
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	podnik	NNIS1-----A----	Sb
+5	dodat	Vf--------A----	Obj
+6	na	RR--4----------	AuxP
+7	domácí	AAIS4----1A----	Atr
+8	a	J^-------------	Coord
+9	zahraniční	AAIS4----1A----	Atr
+10	trh	NNIS4-----A----	Adv
+11	30	C=-------------	Obj
+12	tisíc	ClXS2----------	Atr
+13	tun	NNFP2-----A----	Atr
+14	ekologického	AANS2----1A----	Atr
+15	paliva	NNNS2-----A----	Atr
+16	z	RR--2----------	AuxP
+17	řepkového	AAIS2----1A----	Atr
+18	oleje	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9406-030-p7s3
+1	Výhodou	NNFS7-----A----	Pnom
+2	bionafty	NNFS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	ji	PPFS4--3-------	Obj
+7	půdní	AAIP1----1A----	Atr
+8	mikroorganismy	NNIP1-----A----	Sb
+9	dokáží	VB-P---3P-AA--1	Sb
+10	do	RR--2----------	AuxP
+11	jednoho	ClZS2----------	Atr
+12	měsíce	NNIS2-----A----	Adv
+13	rozložit	Vf--------A----	Obj
+14	na	RR--4----------	AuxP
+15	neškodné	AAFP4----1N----	Atr
+16	látky	NNFP4-----A----	Adv
+17	.	Z:-------------	AuxK
+
+cmpr9406-030-p7s4
+1	Proto	J^-------------	Coord
+2	je	VB-S---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	určena	VsQW---XX-AP---	Pnom
+5	především	Db-------------	AuxZ
+6	pro	RR--4----------	AuxP
+7	provoz	NNIS4-----A----	Adv
+8	traktorů	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	dalších	AAIP2----1A----	Atr
+11	zemědělských	AAIP2----1A----	Atr
+12	strojů	NNIP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	chráněných	AAFP6----1A----	Atr
+15	oblastech	NNFP6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9406-030-p7s5
+1	Upravená	AAFS1----1A----	ExD
+2	se	P7-X4----------	AuxR
+3	rovněž	Db-------------	Adv
+4	užívá	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	mazání	NNNS3-----A----	Adv
+7	řetězových	AAFP2----1A----	Atr
+8	motorových	AAFP2----1A----	Atr
+9	pil	NNFP2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	lesním	AANS6----1A----	Atr
+12	hospodářství	NNNS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9406-030-p7s6
+1	Ekologické	AANS4----1A----	Atr
+2	palivo	NNNS4-----A----	Obj
+3	bude	VB-S---3F-AA---	AuxV
+4	vyrábět	Vf--------A----	Pred
+5	nový	AAIS1----1A----	Atr
+6	závod	NNIS1-----A----	Sb
+7	MILO	NNNXX-----A---8	Atr
+8	Olomouc	NNFS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	největší	AAIS1----3A----	Atr
+11	svého	P8ZS2----------	Atr
+12	druhu	NNIS2-----A----	Adv
+13	v	RR--6----------	AuxP
+14	Evropě	NNFS6-----A----	Adv
+15	.	Z:-------------	AuxK
+

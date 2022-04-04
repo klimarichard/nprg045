@@ -1,0 +1,628 @@
+cmpr9416-013-p2s1
+1	VAŠE	PSIP1-P2-------	Atr
+2	DOPISY	NNIP1-----A----	ExD
+
+cmpr9416-013-p3s1
+1	Až	TT-------------	AuxZ
+2	příliš	Db-------------	Adv
+3	mnoho	Ca--1----------	ExD
+4	otazníků	NNIP2-----A----	Atr
+
+cmpr9416-013-p4s1
+1	(	Z:-------------	ExD
+2	Profit	NNIS1-----A----	ExD
+3	č	NNNXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	12	C=-------------	Atr
+6	/	Z:-------------	AuxG
+7	1994	C=-------------	Atr
+8	)	Z:-------------	ExD
+
+cmpr9416-013-p5s1
+1	Jako	J,-------------	AuxY
+2	uživatelce	NNFS3-----A----	Atv
+3	telefonní	AAFS2----1A----	Atr
+4	sítě	NNFS2-----A----	Atr
+5	mi	PH-S3--1-------	Obj
+6	byla	VpQW---XR-AA---	AuxV
+7	stejně	Dg-------1A----	Adv
+8	jako	J,-------------	AuxC
+9	několika	Ca--3----------	Atr
+10	stovkám	NNFP3-----A----	ExD
+11	občanů	NNMP2-----A----	Atr
+12	a	J^-------------	Coord
+13	organizací	NNFP2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	našem	PSZS6-P1-------	Atr
+16	městě	NNNS6-----A----	Atr
+17	vyúčtována	VsQW---XX-AP---	Pred
+18	evidentně	Dg-------1A----	Adv
+19	nesprávná	AAFS1----1N----	Atr
+20	sazba	NNFS1-----A----	Sb
+21	za	RR--4----------	AuxP
+22	listopad	NNIS4-----A----	AdvAtr
+23	loňského	AAIS2----1A----	Atr
+24	roku	NNIS2-----A---1	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9416-013-p5s2
+1	Počet	NNIS1-----A----	Sb
+2	telefonních	AAIP2----1A----	Atr
+3	impulzů	NNIP2-----A----	Atr
+4	byl	VpYS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	dokladu	NNIS6-----A----	Adv
+7	zdvojnásoben	VsYS---XX-AP---	Pnom
+8	,	Z:-------------	AuxX
+9	prý	TT-------------	AuxY
+10	vinou	NNFS7-----A----	Adv
+11	chybného	AANS2----1A----	Atr
+12	zpracování	NNNS2-----A----	Atr
+13	počítačem	NNIS7-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9416-013-p5s3
+1	Firma	NNFS1-----A----	Sb
+2	Telecom	NNIS1-----A----	Atr
+3	vzápětí	Db-------------	Adv
+4	reagovala	VpQW---XR-AA---	Pred
+5	na	RR--4----------	AuxP
+6	tuto	PDFS4----------	Atr
+7	záležitost	NNFS4-----A----	Obj
+8	v	RR--6----------	AuxP
+9	regionálním	AAIS6----1A----	Atr
+10	tisku	NNIS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	omluvila	VpQW---XR-AA---	Pred
+13	se	P7-X4----------	Obj
+14	uživatelům	NNMP3-----A----	Obj
+15	a	J^-------------	Coord
+16	přislíbila	VpQW---XR-AA---	Pred
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	uvede	VB-S---3P-AA---	Obj
+20	vše	PLNS4---------1	Obj
+21	do	RR--2----------	AuxP
+22	pořádku	NNIS2-----A----	Adv
+23	vrácením	NNNS7-----A----	Adv
+24	přeplatků	NNIP2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	příštím	AANS6----1A----	Atr
+27	zúčtovacím	AANS6----1A----	Atr
+28	období	NNNS6-----A----	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9416-013-p6s1
+1	Jako	J,-------------	AuxC
+2	většina	NNFS1-----A----	ExD
+3	účastníků	NNMP2-----A----	Atr
+4	jsem	VB-S---1P-AA---	AuxV
+5	i	J^-------------	AuxZ
+6	já	PP-S1--1-------	Sb
+7	v	RR--6----------	AuxP
+8	souladu	NNIS6-----A----	AuxP
+9	s	RR--7----------	AuxP
+10	předpisem	NNIS7-----A----	Adv
+11	Telecomu	NNIS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	říká	VB-S---3P-AA---	Atr
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	podané	AAFP1----1A----	Atr
+18	námitky	NNFP1-----A----	Sb
+19	nemají	VB-P---3P-NA---	Obj
+20	odkladný	AAIS4----1A----	Atr
+21	účinek	NNIS4-----A----	Obj
+22	při	RR--6----------	AuxP
+23	placení	NNNS6-----A----	Adv
+24	,	Z:-------------	AuxX
+25	uhradila	VpQW---XR-AA---	Pred
+26	nesprávně	Dg-------1N----	Adv
+27	stanovenou	AAFS4----1A----	Atr
+28	platbu	NNFS4-----A----	Obj
+29	,	Z:-------------	AuxX
+30	ovšem	J^-------------	AuxY
+31	s	RR--7----------	AuxP
+32	vědomím	NNNS7-----A----	Adv
+33	,	Z:-------------	AuxX
+34	že	J,-------------	AuxC
+35	veřejný	AAIS1----1A----	Atr
+36	příslib	NNIS1-----A----	Sb
+37	nápravy	NNFS2-----A----	Atr
+38	,	Z:-------------	AuxX
+39	navíc	Db-------------	Adv
+40	ještě	Db-------------	AuxZ
+41	uveřejněný	AAIS1----1A----	Atr
+42	v	RR--6----------	AuxP
+43	tisku	NNIS6-----A----	Adv
+44	,	Z:-------------	AuxX
+45	je	VB-S---3P-AA---	Atr
+46	zárukou	NNFS7-----A----	Pnom
+47	urychleného	AANS2----1A----	Atr
+48	vrácení	NNNS2-----A----	Atr
+49	peněz	NNIP2-----A----	Atr
+50	.	Z:-------------	AuxK
+
+cmpr9416-013-p7s1
+1	K	RR--3----------	AuxP
+2	mému	PSZS3-S1-------	Atr
+3	překvapení	NNNS3-----A----	Adv
+4	nejenže	Db-------------	Adv
+5	mi	PH-S3--1-------	Obj
+6	Telecom	NNIS1-----A----	Sb
+7	do	RR--2----------	AuxP
+8	března	NNIS2-----A----	Adv
+9	letošního	AAIS2----1A----	Atr
+10	roku	NNIS2-----A---1	Atr
+11	nevrátil	VpYS---XR-NA---	Pred
+12	neoprávněně	Dg-------1N----	Adv
+13	vyinkasovanou	AAFS4----1A----	Atr
+14	platbu	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	ale	J^-------------	Coord
+17	ani	J^-------------	AuxZ
+18	nereagoval	VpYS---XR-NA---	Pred
+19	na	RR--4----------	AuxP
+20	mé	PSFP4-S1------1	Atr
+21	urgence	NNFP4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+cmpr9416-013-p7s2
+1	Při	RR--6----------	AuxP
+2	počtu	NNIS6-----A----	Adv
+3	účastníků	NNMP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	byli	VpMP---XR-AA---	AuxV
+7	podobně	Dg-------1A----	Adv
+8	postiženi	VsMP---XX-AP---	Atr
+9	,	Z:-------------	AuxX
+10	si	P7-X3----------	Adv
+11	tak	Db-------------	Adv
+12	uvedená	AAFS1----1A----	Atr
+13	společnost	NNFS1-----A----	Sb
+14	zajistila	VpQW---XR-AA---	Pred
+15	po	RR--4----------	AuxP
+16	dobu	NNFS4-----A----	Adv
+17	několika	Ca--2----------	Atr
+18	měsíců	NNIP2-----A----	Atr
+19	úvěr	NNIS4-----A----	Obj
+20	v	RR--6----------	AuxP
+21	docela	Db-------------	Adv
+22	slušné	AAFS6----1A----	Atr
+23	výši	NNFS6-----A----	Atr
+24	bez	RR--2----------	AuxP
+25	koruny	NNFS2-----A----	Atr
+26	úroků	NNIP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9416-013-p7s3
+1	Ani	J^-------------	AuxZ
+2	veřejná	AAFS1----1A----	Atr
+3	omluva	NNFS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	tisku	NNIS6-----A----	Atr
+6	tedy	Db-------------	Adv
+7	nemusí	VB-S---3P-NA---	Pred
+8	být	Vf--------A----	Obj
+9	pro	RR--4----------	AuxP
+10	některé	PZFP4----------	Atr
+11	organizace	NNFP4-----A----	Adv
+12	závazkem	NNIS7-----A----	Pnom
+13	a	J^-------------	Coord
+14	zárukou	NNFS7-----A----	Pnom
+15	nápravy	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	zvlášť	Db-------------	AuxZ
+18	když	J,-------------	AuxC
+19	využívají	VB-P---3P-AA---	Adv
+20	svého	P8ZS2----------	Atr
+21	takřka	Db-------------	AuxZ
+22	monopolního	AANS2----1A----	Atr
+23	postavení	NNNS2-----A----	Obj
+24	na	RR--6----------	AuxP
+25	trhu	NNIS6-----A----	Atr
+26	.	Z:-------------	AuxK
+
+cmpr9416-013-p8s1
+1	Karin	NNFXX-----A----	Atr
+2	Kuklová	NNFS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	Prostějov	NNIS1-----A----	Atr
+
+cmpr9416-013-p9s1
+1	Kalendář	NNIS1-----A----	ExD
+2	podnikatele	NNMS2-----A----	Atr
+
+cmpr9416-013-p10s1
+1	(	Z:-------------	ExD
+2	Profit	NNIS1-----A----	ExD
+3	č	NNNXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	13	C=-------------	Atr
+6	/	Z:-------------	AuxG
+7	1994	C=-------------	Atr
+8	)	Z:-------------	ExD
+
+cmpr9416-013-p11s1
+1	Jako	J,-------------	AuxY
+2	učitelka	NNFS1-----A----	AtvV
+3	organizuji	VB-S---1P-AA--1	Pred
+4	ve	RV--6----------	AuxP
+5	škole	NNFS6-----A----	Adv
+6	okresní	AAFS4----1A----	Atr
+7	soutěž	NNFS4-----A----	Obj
+8	pódiových	AAFP2----1A----	Atr
+9	skladeb	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9416-013-p11s2
+1	Škola	NNFS1-----A----	Sb
+2	však	J^-------------	Coord
+3	nemá	VB-S---3P-NA---	Pred
+4	fond	NNIS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	z	RR--2----------	AuxP
+7	něhož	P9ZS2----------	Adv
+8	by	Vc-------------	AuxV
+9	se	P7-X4----------	AuxR
+10	daly	VpTP---XR-AA---	Atr
+11	pro	RR--4----------	AuxP
+12	děti	NNFP4-----A----	Adv
+13	pořídit	Vf--------A----	Obj
+14	ceny	NNFP1-----A----	Sb
+15	za	RR--4----------	AuxP
+16	vítězné	AAFP4----1A----	Atr
+17	skladby	NNFP4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9416-013-p11s3
+1	Osobní	AANS1----1A----	Atr
+2	obcházení	NNNS1-----A----	Sb
+3	firem	NNFP2-----A----	Atr
+4	či	J^-------------	Coord
+5	písemné	AAFP1----1A----	Atr
+6	prosby	NNFP1-----A----	Sb
+7	o	RR--4----------	AuxP
+8	příspěvek	NNIS4-----A----	Atr
+9	znamenají	VB-P---3P-AA---	Pred
+10	ztrátu	NNFS4-----A----	Obj
+11	spousty	NNFS2-----A----	Atr
+12	času	NNIS2-----A----	Atr
+13	a	J^-------------	Coord
+14	někdy	Db-------------	ExD
+15	i	J^-------------	AuxZ
+16	nepříjemnosti	NNFP4-----A----	ExD
+17	.	Z:-------------	AuxK
+
+cmpr9416-013-p12s1
+1	Napadlo	VpNS---XR-AA--1	Pred
+2	mě	PH-S4--1-------	Obj
+3	nad	RR--7----------	AuxP
+4	vašimi	PSXP7-P2-------	Atr
+5	kalendáři	NNIP7-----A----	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	by	Vc-------------	AuxV
+9	mohl	VpYS---XR-AA---	Sb
+10	pomoci	Vf--------A---1	Obj
+11	adresář	NNIS1-----A----	Sb
+12	sponzorských	AAFP2----1A----	Atr
+13	akcí	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9416-013-p12s2
+1	Vydával	VpYS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	ho	PHZS4--3-------	Obj
+4	obecní	AAIS1----1A----	Atr
+5	nebo	J^-------------	Coord
+6	maximálně	Dg-------1A----	Adv
+7	okresní	AAIS1----1A----	Atr
+8	úřad	NNIS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9416-013-p12s3
+1	Informace	NNFP4-----A----	Obj
+2	by	Vc-------------	AuxV
+3	dodávaly	VpTP---XR-AA---	Pred
+4	organizace	NNFP1-----A----	Sb
+5	jako	J,-------------	AuxY
+6	jsou	VB-P---3P-AA---	Apos
+7	školy	NNFP1-----A----	Sb
+8	,	Z:-------------	Coord
+9	zdravotnická	AANP1----1A----	Atr
+10	,	Z:-------------	AuxX
+11	kulturní	AANP1----1A----	Atr
+12	a	J^-------------	Coord
+13	sportovní	AANP1----1A----	Atr
+14	zařízení	NNNP1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	která	P4NP1----------	Sb
+17	potřebují	VB-P---3P-AA---	Atr
+18	sponzory	NNMP4-----A----	Obj
+19	pro	RR--4----------	AuxP
+20	své	P8FP4---------1	Atr
+21	akce	NNFP4-----A----	Atr
+22	nebo	J^-------------	Coord
+23	příspěvky	NNIP4-----A----	Obj
+24	na	RR--4----------	AuxP
+25	pořízení	NNNS4-----A----	Atr
+26	finančně	Dg-------1A----	Adv
+27	náročných	AAIP2----1A----	Atr
+28	přístrojů	NNIP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9416-013-p12s4
+1	Uvedly	VpTP---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	také	Db-------------	Adv
+4	formu	NNFS4-----A----	Obj
+5	reklamy	NNFS2-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	případného	AAMS4----1A----	Atr
+8	sponzora	NNMS4-----A----	AtrAdv
+9	.	Z:-------------	AuxK
+
+cmpr9416-013-p12s5
+1	Adresář	NNIS4-----A----	Obj
+2	by	Vc-------------	AuxV
+3	eventuální	AAMP1----1A----	Atr
+4	sponzoři	NNMP1-----A----	Sb
+5	dostávali	VpMP---XR-AA---	Pred
+6	zdarma	Db-------------	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9416-013-p12s6
+1	Měli	VpMP---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	přehled	NNIS4-----A----	Obj
+4	o	RR--6----------	AuxP
+5	potřebách	NNFP6-----A----	AtrAdv
+6	organizací	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	mohli	VpMP---XR-AA---	Pred
+9	si	P7-X3----------	Adv
+10	lépe	Dg-------2A----	Adv
+11	vybrat	Vf--------A----	Obj
+12	,	Z:-------------	AuxX
+13	komu	PKM-3----------	Obj
+14	přispět	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9416-013-p13s1
+1	Marcela	NNFS1-----A----	Atr
+2	Králová	NNFS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	Libáň	NNFS1-----A----	Atr
+
+cmpr9416-013-p14s1
+1	Profit	NNIS1-----A----	Atr
+2	rádce	NNMS1-----A----	ExD
+
+cmpr9416-013-p15s1
+1	(	Z:-------------	ExD
+2	Profit	NNIS1-----A----	ExD
+3	č	NNNXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	12	C=-------------	Atr
+6	/	Z:-------------	AuxG
+7	1994	C=-------------	Atr
+8	)	Z:-------------	ExD
+
+cmpr9416-013-p16s1
+1	Mám	VB-S---1P-AA---	Pred
+2	velkochov	NNIS4-----A----	Obj
+3	králíků	NNMP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	jakých	P4XP2----------	Atr
+6	u	RR--2----------	AuxP
+7	nás	PP-P2--1-------	Adv
+8	mnoho	Ca--1----------	Sb
+9	není	VB-S---3P-NA---	AtrAtr
+10	.	Z:-------------	AuxK
+
+cmpr9416-013-p16s2
+1	Bohužel	TT-------------	AuxY
+2	narážím	VB-S---1P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	nesolidnost	NNFS4-----A----	Obj
+5	a	J^-------------	Coord
+6	neodpovědnost	NNFS4-----N----	Obj
+7	výrobců	NNMP2-----A----	Atr
+8	krmiv	NNNP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kteří	P4MP1----------	Sb
+11	chtějí	VB-P---3P-AA---	Atr
+12	především	Db-------------	Adv
+13	hodně	Dg-------1A----	Adv
+14	vydělat	Vf--------A----	Obj
+15	bez	RR--2----------	AuxP
+16	ohledu	NNIS2-----A----	AuxP
+17	na	RR--4----------	AuxP
+18	kvalitu	NNFS4-----A----	Adv
+19	.	Z:-------------	AuxK
+
+cmpr9416-013-p16s3
+1	Často	Dg-------1A----	Adv
+2	dodávají	VB-P---3P-AA---	Pred
+3	závadné	AAFP4----1A----	Atr
+4	granule	NNFP4-----A----	Obj
+5	obsahující	AGFP4-----A----	Atr
+6	žluklé	AAIP4----1A----	Atr
+7	tuky	NNIP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	plísně	NNFP4-----A----	Obj
+10	i	J^-------------	Coord
+11	jiné	AAFP4----1A----	Atr
+12	toxické	AAFP4----1A----	Atr
+13	látky	NNFP4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9416-013-p16s4
+1	Nedávno	Db-------------	Adv
+2	tzv	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	lidský	AAMS1----1A----	Atr
+5	činitel	NNMS1-----A----	Sb
+6	zavinil	VpYS---XR-AA---	Pred
+7	smíchání	NNNS4-----A----	Obj
+8	směsí	NNFP2-----A----	Atr
+9	pro	RR--4----------	AuxP
+10	krůty	NNFP4-----A----	Atr
+11	a	J^-------------	Coord
+12	králíky	NNMP4-----A----	Atr
+13	,	Z:-------------	AuxX
+14	a	J^-------------	Coord
+15	to	PDNS1----------	Sb
+16	mělo	VpNS---XR-AA---	Pred
+17	za	RR--4----------	AuxP
+18	následek	NNIS4-----A----	Adv
+19	hromadný	AAIS4----1A----	Atr
+20	úhyn	NNIS4-----A----	Obj
+21	zvířat	NNNP2-----A----	Atr
+22	a	J^-------------	Coord
+23	jejich	PSXXXXP3-------	Atr
+24	neplodnost	NNFS4-----N----	Obj
+25	na	RR--6----------	AuxP
+26	farmě	NNFS6-----A----	AtrAdv
+27	chovající	AGFS6-----A----	Atr
+28	1100	C=-------------	Obj
+29	samic	NNFP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+cmpr9416-013-p17s1
+1	Při	RR--6----------	AuxP
+2	reklamacích	NNFP6-----A----	Adv
+3	dávají	VB-P---3P-AA---	Pred
+4	najevo	Db-------------	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	těch	PDXP2----------	Atr
+8	několik	Ca--1----------	Sb
+9	vagonů	NNIP2-----A----	Atr
+10	krmiva	NNNS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	králíky	NNMP4-----A----	Atr
+13	jejich	PSXXXXP3-------	Atr
+14	podnik	NNIS4-----A----	Obj
+15	nespasí	VB-P---3P-NA---	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9416-013-p17s2
+1	Dalším	AAIS7----1A----	Atr
+2	problémem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	nesolidnost	NNFS1-----A----	Sb
+5	některých	PZXP2----------	Atr
+6	vykupujících	AGMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kteří	P4MP1----------	Sb
+9	například	Db-------------	AuxY
+10	přes	RR--4----------	AuxP
+11	pevné	AAFP4----1A----	Atr
+12	smlouvy	NNFP4-----A----	Adv
+13	se	RV--7----------	AuxP
+14	zahraničními	AAMP7----1A----	Atr
+15	partnery	NNMP7-----A----	Atr
+16	"	Z:-------------	AuxG
+17	podnikají	VB-P---3P-AA---	Atr
+18	"	Z:-------------	AuxG
+19	doma	Db-------------	Adv
+20	vytvářením	NNNS7-----A----	Adv
+21	nižších	AAFP2----2A----	Atr
+22	letních	AAFP2----1A----	Atr
+23	cen	NNFP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9416-013-p18s1
+1	Nedávno	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	v	RR--6----------	AuxP
+4	Belgii	NNFS6-----A----	Adv
+5	navštívil	VpYS---XR-AA---	Pred
+6	výzkumný	AAIS4----1A----	Atr
+7	krmivářský	AAIS4----1A----	Atr
+8	ústav	NNIS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9416-013-p18s2
+1	Jak	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	dověděl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	pokud	J,-------------	AuxC
+7	některý	PZYS1----------	Atr
+8	komponent	NNIS1-----A----	Sb
+9	krmiva	NNNS2-----A----	Atr
+10	tady	Db-------------	Adv
+11	podraží	VB-S---3P-AA---	Adv
+12	,	Z:-------------	AuxX
+13	výrobci	NNMP1-----A----	Sb
+14	ho	PHZS4--3-------	Obj
+15	ihned	Db-------------	Adv
+16	nahrazují	VB-P---3P-AA---	Pred
+17	jiným	AAIS7----1A----	Obj
+18	při	RR--6----------	AuxP
+19	zachování	NNNS6-----A----	Adv
+20	nutriční	AAFS2----1A----	Atr
+21	hodnoty	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9416-013-p18s3
+1	Každá	AAFS1----1A----	Atr
+2	vyrobená	AAFS1----1A----	Atr
+3	šarže	NNFS1-----A----	Sb
+4	krmiva	NNNS2-----A----	Atr
+5	musí	VB-S---3P-AA---	Pred
+6	obdržet	Vf--------A----	Obj
+7	"	Z:-------------	AuxG
+8	certifikát	NNIS4-----A----	Obj
+9	"	Z:-------------	AuxG
+10	jakosti	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	když	J,-------------	AuxC
+13	přesto	Dg-------1A----	Adv
+14	krmivo	NNNS1-----A----	Sb
+15	zaviní	VB-S---3P-AA---	Adv
+16	úhyn	NNIS4-----A----	Obj
+17	zvířat	NNNP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	výrobce	NNMS1-----A----	Sb
+20	farmáři	NNMS3-----A----	Obj
+21	škodu	NNFS4-----A----	Obj
+22	ihned	Db-------------	Adv
+23	uhradí	VB-S---3P-AA---	Pred
+24	a	J^-------------	Coord
+25	ještě	Db-------------	Adv
+26	za	RR--4----------	AuxP
+27	mlčenlivost	NNFS4-----A----	Adv
+28	slibuje	VB-S---3P-AA---	Pred
+29	dodávky	NNFP4-----A----	Obj
+30	krmiva	NNNS2-----A----	Atr
+31	s	RR--7----------	AuxP
+32	50	C=-------------	Atr
+33	%	Z:-------------	Atr
+34	slevou	NNFS7-----A----	Atr
+35	.	Z:-------------	AuxK
+
+cmpr9416-013-p18s4
+1	U	RR--2----------	AuxP
+2	nás	PP-P2--1-------	Adv
+3	naopak	Db-------------	Adv
+4	spíš	Dg-------2A----	Adv
+5	dochází	VB-S---3P-AA---	Pred
+6	k	RR--3----------	AuxP
+7	likvidaci	NNFS3-----A----	Obj
+8	králičích	AAFP2----1A----	Atr
+9	farem	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9416-013-p19s1
+1	Jan	NNMS1-----A----	Atr
+2	Dvořák	NNMS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	Třebovice	NNFP1-----A----	Atr
+

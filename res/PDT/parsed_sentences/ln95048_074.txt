@@ -1,0 +1,475 @@
+ln95048-074-p1s1
+1	Bránit	Vf--------A----	Sb
+2	se	P7-X4----------	AuxT
+3	je	VB-S---3P-AA---	Pred
+4	nebezpečné	AANS1----1N----	Pnom
+
+ln95048-074-p2s1A
+1	O	RR--4----------	AuxP
+2	svůj	P8IS4----------	Atr
+3	život	NNIS4-----A----	Obj
+4	a	J^-------------	Coord
+5	majetek	NNIS4-----A----	Obj
+6	se	P7-X4----------	AuxT
+7	má	VB-S---3P-AA---	Obj
+8	starat	Vf--------A----	Obj
+9	občan	NNMS1-----A----	Sb
+10	,	Z:-------------	Coord
+11	ne	TT-------------	AuxZ
+12	stát	NNIS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	říká	VB-S---3P-AA---	Pred
+15	poslanec	NNMS1-----A----	Atr
+16	Svoboda	NNMS1-----A----	Sb
+17	(	Z:-------------	ExD
+18	KDS	NNFXX-----A---8	ExD
+19	)	Z:-------------	ExD
+
+ln95048-074-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95048-074-p2s1C
+1	Na	RR--4----------	AuxP
+2	taxíkáře	NNMS4-----A----	Atr
+3	Petra	NNMS4-----A----	Atr
+4	Barnu	NNMS4-----A----	Obj
+5	zaútočil	VpYS---XR-AA---	Pred
+6	před	RR--7----------	AuxP
+7	několika	Ca--7----------	Atr
+8	lety	NNNP7-----A----	Adv
+9	v	RR--6----------	AuxP
+10	hospodě	NNFS6-----A----	Adv
+11	opilý	AAMS1----1A----	Atr
+12	muž	NNMS1-----A----	Sb
+13	s	RR--7----------	AuxP
+14	nožem	NNIS7-----A----	AtrAdv
+15	v	RR--6----------	AuxP
+16	ruce	NNFS6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95048-074-p2s2
+1	Barna	NNMS1-----A----	Sb
+2	mu	PHZS3--3-------	Adv
+3	zbraň	NNFS4-----A----	Obj
+4	vyrazil	VpYS---XR-AA---	Pred
+5	.	Z:-------------	AuxK
+
+ln95048-074-p2s3
+1	Opilec	NNMS1-----A----	Sb
+2	si	P7-X3----------	AuxO
+3	vzal	VpYS---XR-AA---	Pred
+4	dva	ClYP4----------	Atr
+5	půllitry	NNIP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	rozbil	VpYS---XR-AA---	Pred
+8	je	PPXP4--3-------	Obj
+9	o	RR--4----------	AuxP
+10	sebe	P6-X4----------	Adv
+11	a	J^-------------	Coord
+12	se	RV--7----------	AuxP
+13	střepy	NNIP7-----A----	Adv
+14	zaútočil	VpYS---XR-AA---	Pred
+15	znovu	Db-------------	Adv
+16	.	Z:-------------	AuxK
+
+ln95048-074-p2s4
+1	Taxíkář	NNMS1-----A----	Sb
+2	mu	PHZS3--3-------	Adv
+3	zlomil	VpYS---XR-AA---	Pred
+4	ruku	NNFS4-----A----	Obj
+5	.	Z:-------------	AuxK
+
+ln95048-074-p2s5
+1	Barna	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	odsouzen	VsYS---XX-AP---	Pred
+4	k	RR--3----------	AuxP
+5	podmíněnému	AAIS3----1A----	Atr
+6	trestu	NNIS3-----A----	Obj
+7	odnětí	NNNS2-----A----	Atr
+8	svobody	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95048-074-p2s6
+1	Neprokázal	VpYS---XR-NA---	Pred
+2	totiž	Db-------------	AuxY
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jeho	PSXXXZS3-------	Atr
+6	obrana	NNFS1-----A----	Sb
+7	byla	VpQW---XR-AA---	Obj
+8	přiměřená	AAFS1----1A----	Pnom
+9	intenzitě	NNFS3-----A----	Obj
+10	útoku	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95048-074-p3s1
+1	Podobných	AAIP2----1A----	Atr
+2	případů	NNIP2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	kdy	Db-------------	Adv
+5	oběť	NNFS1-----A----	Sb
+6	ublíží	VB-S---3P-AA---	Atr
+7	útočníkovi	NNMS3-----A----	Obj
+8	nebo	J^-------------	Coord
+9	ho	PHZS4--3-------	Obj
+10	dokonce	Db-------------	AuxZ
+11	zabije	VB-S---3P-AA---	Atr
+12	a	J^-------------	Coord
+13	je	VB-S---3P-AA---	Atr
+14	za	RR--4----------	AuxP
+15	to	PDNS4----------	Obj
+16	odsouzena	VsQW---XX-AP---	Pnom
+17	,	Z:-------------	AuxX
+18	existuje	VB-S---3P-AA---	Pred
+19	v	RR--6----------	AuxP
+20	ČR	NNFXX-----A---8	Adv
+21	několik	Ca--1----------	Sb
+22	desítek	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95048-074-p3s2
+1	Tvrdí	VB-S---3P-AA---	Pred
+2	to	PDNS4----------	Obj
+3	poslanec	NNMS1-----A----	Atr
+4	parlamentu	NNIS2-----A----	Atr
+5	Tomáš	NNMS1-----A----	Atr
+6	Svoboda	NNMS1-----A----	Sb
+7	(	Z:-------------	ExD
+8	KDS	NNFXX-----A---8	ExD
+9	)	Z:-------------	ExD
+10	.	Z:-------------	AuxK
+
+ln95048-074-p3s3
+1	Proto	J^-------------	Coord
+2	se	P7-X4----------	AuxT
+3	rozhodl	VpYS---XR-AA--1	Pred
+4	navrhnout	Vf--------A----	Obj
+5	kolegům	NNMP3-----A----	Obj
+6	ze	RV--2----------	AuxP
+7	sněmovny	NNFS2-----A----	Atr
+8	změnu	NNFS4-----A----	Obj
+9	pasáže	NNFS2-----A----	Atr
+10	trestního	AAIS2----1A----	Atr
+11	zákona	NNIS2-----A----	Atr
+12	o	RR--6----------	AuxP
+13	nutné	AAFS6----1A----	Atr
+14	obraně	NNFS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95048-074-p3s4
+1	Podle	RR--2----------	AuxP
+2	dnes	Db-------------	Adv
+3	platného	AAIS2----1A----	Atr
+4	zákona	NNIS2-----A----	Adv
+5	musí	VB-S---3P-AA---	Pred
+6	oběť	NNFS1-----A----	Sb
+7	vysvětlit	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	její	PSFSXFS3-------	Atr
+11	obrana	NNFS1-----A----	Sb
+12	byla	VpQW---XR-AA---	Obj
+13	"	Z:-------------	AuxG
+14	přiměřená	AAFS1----1A----	Pnom
+15	"	Z:-------------	AuxG
+16	.	Z:-------------	AuxK
+
+ln95048-074-p3s5
+1	Svoboda	NNMS1-----A----	Sb
+2	hodlá	VB-S---3P-AA---	Pred
+3	prosadit	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	se	P7-X4----------	AuxR
+7	o	RR--6----------	AuxP
+8	"	Z:-------------	AuxG
+9	přiměřenosti	NNFS6-----A----	Obj
+10	"	Z:-------------	AuxG
+11	v	RR--6----------	AuxP
+12	případech	NNIP6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	útok	NNIS1-----A----	Sb
+16	byl	VpYS---XR-AA---	AuxV
+17	veden	VsYS---XX-AP---	Atr
+18	proti	RR--3----------	AuxP
+19	životu	NNIS3-----A----	Obj
+20	či	J^-------------	Coord
+21	zdraví	NNNS3-----A----	Obj
+22	,	Z:-------------	AuxX
+23	vůbec	Db-------------	AuxZ
+24	neuvažovalo	VpNS---XR-NA---	Obj
+25	.	Z:-------------	AuxK
+
+ln95048-074-p4s1
+1	Soudní	AAMS1----1A----	Atr
+2	znalec	NNMS1-----A----	Atr
+3	Zdeněk	NNMS1-----A----	Atr
+4	Náchodský	NNMS1-----A----	Sb
+5	,	Z:-------------	Apos
+6	odborník	NNMS1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	sebeobranu	NNFS4-----A----	Atr
+9	,	Z:-------------	AuxX
+10	s	RR--7----------	AuxP
+11	vyškrtnutím	NNNS7-----A----	Obj
+12	slova	NNNS2-----A----	Atr
+13	"	Z:-------------	AuxG
+14	přiměřenost	NNFS1-----A----	Atr
+15	"	Z:-------------	AuxG
+16	ze	RV--2----------	AuxP
+17	zákona	NNIS2-----A----	Atr
+18	souhlasí	VB-S---3P-AA---	Pred
+19	.	Z:-------------	AuxK
+
+ln95048-074-p4s2
+1	"	Z:-------------	AuxG
+2	Určit	Vf--------A----	Sb
+3	,	Z:-------------	AuxX
+4	co	PQ--1----------	Pnom
+5	je	VB-S---3P-AA---	Obj
+6	přiměřenost	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Obj
+9	nesmírně	Dg-------1A----	Adv
+10	obtížné	AANS1----1A----	Pnom
+11	a	J^-------------	Coord
+12	těžko	Db-------------	Adv
+13	prokazatelné	AANS1----1A----	Pnom
+14	,	Z:-------------	AuxX
+15	"	Z:-------------	AuxG
+16	říká	VB-S---3P-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln95048-074-p5s1
+1	Zdeněk	NNMS1-----A----	Atr
+2	Sovák	NNMS1-----A----	Sb
+3	,	Z:-------------	Apos
+4	předseda	NNMS1-----A----	Sb
+5	senátu	NNIS2-----A----	Atr
+6	Vrchního	AAIS2----1A----	Atr
+7	soudu	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Praze	NNFS6-----A----	Atr
+10	a	J^-------------	Coord
+11	pracovník	NNMS1-----A----	Sb
+12	organizace	NNFS2-----A----	Atr
+13	Bílý	AAIS1----1A----	Atr
+14	kruh	NNIS1-----A----	Atr
+15	bezpečí	NNNS2-----A----	Atr
+16	(	Z:-------------	AuxG
+17	stará	VB-S---3P-AA---	Pred
+18	se	P7-X4----------	AuxT
+19	o	RR--4----------	AuxP
+20	oběti	NNFP4-----A----	Obj
+21	kriminality	NNFS2-----A----	Atr
+22	)	Z:-------------	AuxG
+23	,	Z:-------------	AuxX
+24	má	VB-S---3P-AA---	Pred
+25	za	RR--4----------	AuxP
+26	to	PDNS4----------	Obj
+27	,	Z:-------------	AuxX
+28	že	J,-------------	AuxC
+29	současný	AAIS1----1A----	Atr
+30	zákon	NNIS1-----A----	Sb
+31	účinnou	AAFS4----1A----	Atr
+32	obranu	NNFS4-----A----	Obj
+33	umožňuje	VB-S---3P-AA---	Obj
+34	.	Z:-------------	AuxK
+
+ln95048-074-p5s2
+1	"	Z:-------------	AuxG
+2	Problém	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	výkladu	NNIS6-----A---1	Adv
+6	zákona	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95048-074-p5s3
+1	V	RR--6----------	AuxP
+2	ČR	NNFXX-----A---8	Adv
+3	snad	Db-------------	AuxY
+4	neexistuje	VB-S---3P-NA---	Obj
+5	policejní	AAMS1----1A----	Atr
+6	vyšetřovatel	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	by	Vc-------------	AuxV
+10	se	P7-X4----------	AuxT
+11	odvážil	VpYS---XR-AA---	Atr
+12	klasifikovat	Vf--------A----	Obj
+13	obranu	NNFS4-----A----	Obj
+14	oběti	NNFS2-----A----	Atr
+15	jako	J,-------------	AuxY
+16	oprávněnou	AAFS4----1A----	Atv
+17	a	J^-------------	Coord
+18	nutnou	AAFS4----1A----	Atv
+19	,	Z:-------------	AuxX
+20	"	Z:-------------	AuxG
+21	tvrdí	VB-S---3P-AA---	Pred
+22	Sovák	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln95048-074-p5s4
+1	Chybný	AAIS4----1A----	Atr
+2	výrok	NNIS4-----A----	Obj
+3	vyšetřovatele	NNMS2-----A----	Atr
+4	pak	Db-------------	Adv
+5	prý	TT-------------	AuxY
+6	přebírá	VB-S---3P-AA---	Pred
+7	státní	AAMS1----1A----	Atr
+8	zástupce	NNMS1-----A----	Sb
+9	a	J^-------------	Coord
+10	soudce	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95048-074-p5s5
+1	"	Z:-------------	AuxG
+2	Je	VB-S---3P-AA---	Obj
+3	to	PDNS1----------	Sb
+4	problém	NNIS1-----A----	Pnom
+5	lidí	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	a	J^-------------	Coord
+8	ne	TT-------------	AuxZ
+9	legislativy	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	"	Z:-------------	AuxG
+12	dodává	VB-S---3P-AA---	Pred
+13	Sovák	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln95048-074-p6s1
+1	Taxíkář	NNMS1-----A----	Atr
+2	Barna	NNMS1-----A----	Sb
+3	dnes	Db-------------	Adv
+4	vlastní	VB-S---3P-AA---	Pred
+5	firmu	NNFS4-----A----	Obj
+6	Halo	II-------------	Atr
+7	Taxi	NNNXX-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95048-074-p6s2A
+1	Tvrdí	VB-S---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	řidiči	NNMP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	kteří	P4MP1----------	Sb
+7	pro	RR--4----------	AuxP
+8	něj	P5ZS4--3-------	Adv
+9	pracují	VB-P---3P-AA---	Atr
+10	,	Z:-------------	AuxX
+11	se	P7-X4----------	AuxT
+12	raději	Dg-------2A----	Adv
+13	útokům	NNIP3-----A----	Obj
+14	nebrání	VB-P---3P-NA---	Obj
+15	,	Z:-------------	AuxX
+16	aby	J,-------------	AuxC
+17	za	RR--4----------	AuxP
+18	to	PDNS4----------	Obj
+19	nebyli	VpMP---XR-NA---	AuxV
+20	odsouzeni	VsMP---XX-AP---	Adv
+21	.	Z:-------------	AuxK
+
+ln95048-074-p6s2B
+1	JUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Sovák	NNMS1-----A----	Sb
+4	si	P7-X3----------	AuxT
+5	myslí	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	právě	Db-------------	AuxZ
+9	taková	PDFS1----------	Atr
+10	obava	NNFS1-----A----	Sb
+11	z	RR--2----------	AuxP
+12	trestu	NNIS2-----A----	Atr
+13	ovlivňuje	VB-S---3P-AA---	Obj
+14	nechuť	NNFS4-----A----	Obj
+15	lidí	NNMP2-----A----	Atr
+16	přepadeným	AAMP3----1A----	Obj
+17	pomáhat	Vf--------A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95048-074-p7s1
+1	Barna	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	obává	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	po	RR--6----------	AuxP
+8	schválení	NNNS6-----A----	Adv
+9	novely	NNFS2-----A----	Atr
+10	"	Z:-------------	AuxG
+11	se	P7-X4----------	AuxR
+12	u	RR--2----------	AuxP
+13	nás	PP-P2--1-------	Adv
+14	bude	VB-S---3F-AA---	AuxV
+15	střílet	Vf--------A----	Obj
+16	jako	J,-------------	AuxC
+17	v	RR--6----------	AuxP
+18	Texasu	NNIS6-----A----	ExD
+19	"	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+ln95048-074-p7s2
+1	"	Z:-------------	AuxG
+2	Divoký	AAIS4----1A----	Atr
+3	západ	NNIS4-----A----	Obj
+4	sem	Db-------------	Adv
+5	přivést	Vf--------A----	Obj
+6	nechci	VB-S---1P-NA---	Adv
+7	,	Z:-------------	AuxX
+8	"	Z:-------------	AuxG
+9	oponuje	VB-S---3P-AA---	Pred
+10	Svoboda	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95048-074-p7s3
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	tomto	PDZS6----------	Atr
+4	státě	NNIS6-----A----	Adv
+5	existoval	VpYS---XR-AA---	Pred
+6	zákon	NNIS1-----A----	Sb
+7	chránící	AGIS1-----A----	Atr
+8	zdraví	NNNS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	život	NNIS4-----A----	Obj
+11	a	J^-------------	Coord
+12	majetek	NNIS4-----A----	Obj
+13	občana	NNMS2-----A----	Atr
+14	od	RR--2----------	AuxP
+15	roku	NNIS2-----A---1	Adv
+16	1811	C=-------------	Atr
+17	.	Z:-------------	AuxK
+
+ln95048-074-p7s4
+1	Zrušili	VpMP---XR-AA---	Pred
+2	ho	PHZS4--3-------	Obj
+3	komunisté	NNMP1-----A----	Sb
+4	.	Z:-------------	AuxK
+
+ln95048-074-p7s5
+1	Chci	VB-S---1P-AA---	Obj
+2	vrátit	Vf--------A----	Obj
+3	právo	NNNS4-----A----	Obj
+4	tam	Db-------------	Adv
+5	,	Z:-------------	AuxX
+6	kde	Db-------------	Adv
+7	bylo	VpNS---XR-AA---	Adv
+8	před	RR--7----------	AuxP
+9	padesáti	Cn-P7----------	Atr
+10	lety	NNNP7-----A----	Adv
+11	,	Z:-------------	AuxX
+12	"	Z:-------------	AuxG
+13	říká	VB-S---3P-AA---	Pred
+14	poslanec	NNMS1-----A----	Atr
+15	Svoboda	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+

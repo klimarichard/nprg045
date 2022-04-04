@@ -1,0 +1,129 @@
+lnd91303-030-p1s1
+1	ŠANCE	NNFS1-----A----	ExD
+2	PROSTITUTEK	NNFP2-----A----	Atr
+
+lnd91303-030-p2s1
+1	Školení	NNNS1-----A----	ExD
+
+lnd91303-030-p3s1
+1	PRAHA	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-030-p4s1
+1	Vytvoření	NNNS4-----A----	Obj
+2	školicího	AANS2----1A----	Atr
+3	centra	NNNS2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	prostitutky	NNFP4-----A----	Atr
+6	navrhlo	VpNS---XR-AA--1	Pred
+7	několik	Ca--1----------	Sb
+8	studentů	NNMP2-----A----	Atr
+9	a	J^-------------	Coord
+10	pracovníků	NNMP2-----A----	Atr
+11	fakulty	NNFS2-----A----	Atr
+12	tělesné	AAFS2----1A----	Atr
+13	výchovy	NNFS2-----A----	Atr
+14	a	J^-------------	Coord
+15	sportu	NNIS2-----A----	Atr
+16	Univerzity	NNFS2-----A----	Atr
+17	Karlovy	AUFS2M---------	Atr
+18	.	Z:-------------	AuxK
+
+lnd91303-030-p4s2
+1	Navrhovatelé	NNMP1-----A----	Sb
+2	počítají	VB-P---3P-AA---	Pred
+3	s	RR--7----------	AuxP
+4	tím	PDZS7----------	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	by	Vc-------------	AuxV
+8	frekventantky	NNFP1-----A----	Sb
+9	měly	VpTP---XR-AA---	Atr
+10	studovat	Vf--------A----	Obj
+11	mj	Db------------8	Adv
+12	.	Z:-------------	AuxG
+13	dějiny	NNFP4-----A----	Obj
+14	erotické	AAFS2----1A----	Atr
+15	literatury	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	klasický	AAIS4----1A----	Atr
+18	i	J^-------------	Coord
+19	moderní	AAIS4----1A----	Atr
+20	tanec	NNIS4-----A----	Obj
+21	,	Z:-------------	AuxX
+22	sebeobranu	NNFS4-----A----	Obj
+23	,	Z:-------------	AuxX
+24	masáž	NNFS4-----A----	Obj
+25	klasickou	AAFS4----1A----	Atr
+26	i	J^-------------	Coord
+27	erotickou	AAFS4----1A----	Atr
+28	,	Z:-------------	AuxX
+29	evropský	AAIS4----1A----	Atr
+30	a	J^-------------	Coord
+31	asijský	AAIS4----1A----	Atr
+32	sex	NNIS4-----A----	Obj
+33	,	Z:-------------	Coord
+34	péči	NNFS4-----A----	Obj
+35	o	RR--4----------	AuxP
+36	domácnost	NNFS4-----A----	Atr
+37	a	J^-------------	Coord
+38	o	RR--4----------	AuxP
+39	děti	NNFP4-----A----	Atr
+40	.	Z:-------------	AuxK
+
+lnd91303-030-p4s3
+1	Motivací	NNFS7-----A----	Pnom
+2	pro	RR--4----------	AuxP
+3	studium	NNNS4-----A----	Atr
+4	by	Vc-------------	AuxV
+5	podle	RR--2----------	AuxP
+6	navrhovatelů	NNMP2-----A----	Adv
+7	měly	VpTP---XR-AA---	Pred
+8	být	Vf--------A----	Obj
+9	legální	AAFS1----1A----	Atr
+10	možnost	NNFS1-----A----	Sb
+11	získání	NNNS2-----A----	Atr
+12	licence	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	trvalý	AAIS1----1A----	Atr
+15	lékařský	AAIS1----1A----	Atr
+16	dohled	NNIS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+lnd91303-030-p4s4
+1	Vynikající	AGIS1-----A----	Atr
+2	studijní	AAIS1----1A----	Atr
+3	prospěch	NNIS1-----A----	Sb
+4	by	Vc-------------	AuxV
+5	pak	Db-------------	Adv
+6	měl	VpYS---XR-AA---	Pred
+7	být	Vf--------A----	Obj
+8	oceněn	VsYS---XX-AP---	Pnom
+9	např	Db------------8	Adv
+10	.	Z:-------------	AuxG
+11	daňovými	AAFP7----1A----	Atr
+12	úlevami	NNFP7-----A----	Adv
+13	.	Z:-------------	AuxK
+
+lnd91303-030-p4s5
+1	Skupina	NNFS1-----A----	Sb
+2	navrhovatelů	NNMP2-----A----	Atr
+3	zároveň	Db-------------	Adv
+4	upozornila	VpQW---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	vedení	NNNS1-----A----	Sb
+8	FTVS	NNFXX-----A---8	Atr
+9	se	P7-X4----------	AuxT
+10	od	RR--2----------	AuxP
+11	této	PDFS2----------	Atr
+12	iniciativy	NNFS2-----A----	Obj
+13	distancovalo	VpNS---XR-AA---	Obj
+14	a	J^-------------	Coord
+15	zahájilo	VpNS---XR-AA---	Obj
+16	proti	RR--3----------	AuxP
+17	signatářům	NNMP3-----A----	Atr
+18	disciplinární	AANS4----1A----	Atr
+19	řízení	NNNS4-----A----	Obj
+20	.	Z:-------------	AuxK
+

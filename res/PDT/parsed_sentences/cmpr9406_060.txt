@@ -1,0 +1,411 @@
+cmpr9406-060-p2s1
+1	Tatra	NNFS1-----A----	ExD
+2	Kopřivnice	NNFS1-----A----	Atr
+3	:	Z:-------------	AuxK
+
+cmpr9406-060-p3s1
+1	Bankrot	NNIS1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	nebo	J^-------------	Coord
+4	růst	NNIS1-----A----	ExD
+5	?	Z:-------------	AuxK
+
+cmpr9406-060-p4s1
+1	Minulý	AAIS1----1A----	Atr
+2	rok	NNIS1-----A----	Sb
+3	skončil	VpYS---XR-AA---	Pred
+4	ztrátou	NNFS7-----A----	Adv
+5	větší	AAFS7----2A----	Atr
+6	než	J,-------------	AuxC
+7	miliarda	NNFS1-----A----	ExD
+8	korun	NNFP2-----A----	Atr
+
+cmpr9406-060-p5s1
+1	Před	RR--7----------	AuxP
+2	rokem	NNIS7-----A----	Adv
+3	byla	VpQW---XR-AA---	Pred
+4	kopřivnická	AAFS1----1A----	Atr
+5	automobilka	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	hluboké	AAFS6----1A----	Atr
+8	krizi	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9406-060-p5s2
+1	V	RR--6----------	AuxP
+2	květnu	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	kdy	Db-------------	Adv
+5	jsme	VB-P---1P-AA---	AuxV
+6	o	RR--6----------	AuxP
+7	ní	P5FS6--3-------	Adv
+8	přinesli	VpMP---XR-AA---	Atr
+9	v	RR--6----------	AuxP
+10	Profitu	NNIS6-----A----	Adv
+11	č	NNNXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	18	C=-------------	Atr
+14	/	Z:-------------	AuxG
+15	1993	C=-------------	Atr
+16	rozsáhlou	AAFS4----1A----	Atr
+17	reportáž	NNFS4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	dosáhly	VpTP---XR-AA---	Pred
+20	její	PSXP1FS3-------	Atr
+21	dluhy	NNIP1-----A----	Sb
+22	výše	NNFS2-----A----	Obj
+23	3.7	C=-------------	Atr
+24	miliardy	NNFS2-----A----	Atr
+25	korun	NNFP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	měla	VpQW---XR-AA---	Pred
+28	vážné	AAFP4----1A----	Atr
+29	odbytové	AAFP4----1A----	Atr
+30	potíže	NNFP4-----A----	Obj
+31	,	Z:-------------	AuxX
+32	výroba	NNFS1-----A----	Sb
+33	stála	VpQW---XR-AA---	Pred
+34	,	Z:-------------	Coord
+35	počet	NNIS1-----A----	Sb
+36	zaměstnanců	NNMP2-----A----	Atr
+37	se	P7-X4----------	AuxR
+38	snížil	VpYS---XR-AA---	Pred
+39	z	RR--2----------	AuxP
+40	dřívějších	AAIP2----2A----	Atr
+41	více	Dg-------2A----	Obj
+42	než	J,-------------	AuxC
+43	16000	C=-------------	ExD
+44	na	RR--4----------	AuxP
+45	méně	Dg-------2A----	Obj
+46	než	J,-------------	AuxC
+47	11000	C=-------------	ExD
+48	.	Z:-------------	AuxK
+
+cmpr9406-060-p5s3
+1	S	RR--7----------	AuxP
+2	velkými	AAFP7----1A----	Atr
+3	nadějemi	NNFP7-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	proto	J^-------------	Coord
+6	pohlíželo	VpNS---XR-AA---	Pred
+7	na	RR--4----------	AuxP
+8	příchod	NNIS4-----A----	Obj
+9	amerických	AAMP2----1A----	Atr
+10	manažerů	NNMP2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	čele	NNNS6-----A----	AuxP
+13	s	RR--7----------	AuxP
+14	Geraldem	NNMS7-----A----	Atr
+15	Greenwaldem	NNIS7-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4YP4----------	Obj
+18	se	P7-X4----------	AuxT
+19	podařilo	VpNS---XR-AA---	Atr
+20	získat	Vf--------A----	Sb
+21	na	RR--4----------	AuxP
+22	dva	ClYP4----------	Atr
+23	roky	NNIP4-----A----	Adv
+24	do	RR--2----------	AuxP
+25	čela	NNNS2-----A----	Adv
+26	Tatry	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9406-060-p7s1
+1	Jaroslav	NNMS1-----A----	Atr
+2	Winter	NNMS1-----A----	ExD
+
+cmpr9406-060-p9s1
+1	Zprávy	NNFP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	následujícího	AGNS2-----A----	Atr
+4	období	NNNS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	které	P4FP1----------	Sb
+7	se	P7-X4----------	AuxT
+8	objevují	VB-P---3P-AA---	Atr
+9	v	RR--6----------	AuxP
+10	tisku	NNIS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	však	J^-------------	Coord
+13	nejsou	VB-P---3P-NA---	Pred
+14	nijak	Db-------------	Adv
+15	zvlášť	Db-------------	Adv
+16	povzbudivé	AAFP1----1A----	Pnom
+17	.	Z:-------------	AuxK
+
+cmpr9406-060-p10s1
+1	Propad	NNIS1-----A----	ExD
+2	výroby	NNFS2-----A----	Atr
+
+cmpr9406-060-p11s1
+1	Jednání	NNNS1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	bankami	NNFP7-----A----	Atr
+4	o	RR--6----------	AuxP
+5	úpravě	NNFS6-----A----	Atr
+6	podmínek	NNFP2-----A----	Atr
+7	splácení	NNNS2-----A----	Atr
+8	úvěru	NNIS2-----A----	Atr
+9	a	J^-------------	Coord
+10	získání	NNNS2-----A----	Atr
+11	nových	AAIP2----1A----	Atr
+12	úvěrů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	které	P4IP1----------	Sb
+15	by	Vc-------------	AuxV
+16	umožnily	VpTP---XR-AA---	Atr
+17	pokračování	NNNS4-----A----	Obj
+18	ve	RV--6----------	AuxP
+19	výrobě	NNFS6-----A----	Atr
+20	,	Z:-------------	AuxX
+21	se	P7-X4----------	AuxR
+22	protahuje	VB-S---3P-AA---	Pred
+23	nad	RR--4----------	AuxP
+24	očekávání	NNNS4-----A----	Adv
+25	dlouho	Dg-------1A----	Adv
+26	.	Z:-------------	AuxK
+
+cmpr9406-060-p11s2
+1	Tím	PDZS7----------	Adv
+2	se	P7-X4----------	AuxR
+3	prodlužuje	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	výluka	NNFS1-----A----	Sb
+6	,	Z:-------------	Coord
+7	výroba	NNFS1-----A----	Sb
+8	začíná	VB-S---3P-AA---	Pred
+9	teprve	Db-------------	AuxZ
+10	počátkem	NNIS7-----A----	AuxP
+11	srpna	NNIS2-----A----	Adv
+12	po	RR--6----------	AuxP
+13	104	C=-------------	Atr
+14	dnech	NNIP6-----A----	Adv
+15	nečinnosti	NNFS2-----N----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9406-060-p12s1
+1	Dubnové	AAFP1----1A----	Atr
+2	představy	NNFP1-----A----	Sb
+3	o	RR--6----------	AuxP
+4	roční	AAFS6----1A----	Atr
+5	výrobě	NNFS6-----A----	Atr
+6	6500	C=-------------	Atr
+7	nákladních	AAIP2----1A----	Atr
+8	automobilů	NNIP2-----A----	Atr
+9	se	P7-X4----------	AuxR
+10	postupně	Dg-------1A----	Adv
+11	snižují	VB-P---3P-AA---	Pred
+12	na	RR--4----------	AuxP
+13	5500	C=-------------	Obj
+14	a	J^-------------	Coord
+15	méně	Dg-------2A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9406-060-p12s2
+1	Nakonec	Db-------------	Adv
+2	Tatra	NNFS1-----A----	Sb
+3	vyrobí	VB-S---3P-AA---	Pred
+4	za	RR--4----------	AuxP
+5	rok	NNIS4-----A----	Adv
+6	1993	C=-------------	Atr
+7	pouze	Db-------------	AuxZ
+8	2950	C=-------------	Obj
+9	nových	AAIP2----1A----	Atr
+10	automobilů	NNIP2-----A----	Atr
+11	a	J^-------------	Coord
+12	dohromady	Db-------------	Adv
+13	s	RR--7----------	AuxP
+14	vozidly	NNNP7-----A----	Adv
+15	ze	RV--2----------	AuxP
+16	starých	AAFP2----1A----	Atr
+17	zásob	NNFP2-----A----	Atr
+18	prodá	VB-S---3P-AA---	Pred
+19	jen	TT-------------	AuxZ
+20	4048	C=-------------	Obj
+21	vozů	NNIP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9406-060-p13s1
+1	Hospodářský	AAIS1----1A----	Atr
+2	výsledek	NNIS1-----A----	Sb
+3	za	RR--4----------	AuxP
+4	minulý	AAIS4----1A----	Atr
+5	rok	NNIS4-----A----	Atr
+6	skončí	VB-S---3P-AA---	Pred
+7	bilanční	AAFS7----1A----	Atr
+8	ztrátou	NNFS7-----A----	Adv
+9	1.2	C=-------------	Atr
+10	miliardy	NNFS2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9406-060-p13s2
+1	Dále	Dg-------2A---1	Adv
+2	pokračuje	VB-S---3P-AA---	Pred
+3	propouštění	NNNS1-----A----	Sb
+4	zaměstnanců	NNMP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	to	PDNS4----------	Obj
+7	však	J^-------------	Coord
+8	signalizovali	VpMP---XR-AA---	Pred
+9	američtí	AAMP1----1A----	Atr
+10	manažeři	NNMP1-----A----	Sb
+11	už	Db-------------	AuxZ
+12	předem	Db-------------	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9406-060-p14s1
+1	Jako	J,-------------	AuxY
+2	jediný	AAIS4----1A----	Atr
+3	výrazný	AAIS4----1A----	Atr
+4	úspěch	NNIS4-----A----	Atv
+5	lze	VB-S---3P-AA---	Pred
+6	zaznamenat	Vf--------A----	Sb
+7	snad	Db-------------	AuxY
+8	jen	TT-------------	AuxZ
+9	vítězství	NNNS4-----A----	Obj
+10	Tatry	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	soutěži	NNFS6-----A----	Atr
+13	kamionů	NNIP2-----A----	Atr
+14	a	J^-------------	Coord
+15	šesté	CrNS4----------	Atr
+16	místo	NNNS4-----A----	Obj
+17	v	RR--6----------	AuxP
+18	celkové	AAFS6----1A----	Atr
+19	klasifikaci	NNFS6-----A----	Atr
+20	v	RR--6----------	AuxP
+21	rallye	NNFXX-----A----	Atr
+22	Paříž	NNFS1-----A----	Atr
+23	-	Z:-------------	Coord
+24	Dakar	NNIS1-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9406-060-p14s2
+1	Jinak	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	šíří	VB-P---3P-AA---	Pred
+4	názory	NNIP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	Američanům	NNMP3-----A----	Obj
+8	se	P7-X4----------	AuxT
+9	moc	Db-------------	Adv
+10	nedaří	VB-S---3P-NA---	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-060-p14s3
+1	Znovu	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	objevují	VB-P---3P-AA---	Pred
+4	hlasy	NNIP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	Tatře	NNFS3-----A----	Obj
+8	hrozí	VB-S---3P-AA---	Atr
+9	bankrot	NNIS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+cmpr9406-060-p15s1
+1	Informace	NNFP1-----A----	ExD
+2	od	RR--2----------	AuxP
+3	pramene	NNIS2-----A----	Atr
+
+cmpr9406-060-p16s1
+1	Jak	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	to	PDNS1----------	Sb
+4	ve	RV--6----------	AuxP
+5	skutečnosti	NNFS6-----A----	Adv
+6	?	Z:-------------	AuxK
+
+cmpr9406-060-p16s2
+1	Nemocný	AAIS1----1A----	Atr
+2	podnik	NNIS1-----A----	Sb
+3	vyžaduje	VB-S---3P-AA---	Pred
+4	rázná	AANP4----1A----	Atr
+5	opatření	NNNP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	která	P4NP1----------	Sb
+8	nemusí	VB-P---3P-NA--1	Atr
+9	přinést	Vf--------A----	Obj
+10	hned	Db-------------	Adv
+11	výsledek	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9406-060-p16s3
+1	Naopak	Db-------------	Adv
+2	někdy	Db-------------	Adv
+3	dochází	VB-S---3P-AA---	Pred
+4	ještě	Db-------------	AuxZ
+5	ke	RV--3----------	AuxP
+6	snížení	NNNS3-----A----	Obj
+7	výkonu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	než	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	organismus	NNIS1-----A----	Sb
+12	uzdraví	VB-S---3P-AA---	Adv
+13	a	J^-------------	Coord
+14	začne	VB-S---3P-AA---	Adv
+15	se	P7-X4----------	AuxT
+16	rozjíždět	Vf--------A----	Obj
+17	do	RR--2----------	AuxP
+18	potřebných	AAFP2----1A----	Atr
+19	obrátek	NNFP2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+cmpr9406-060-p16s4
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	případ	NNIS1-----A----	Pnom
+4	Tatry	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	anebo	J^-------------	Coord
+7	bude	VB-S---3F-AA---	Pred
+8	něco	PZ--1----------	Sb
+9	pravdy	NNFS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	zmíněných	AAFP6----1A----	Atr
+12	pochybnostech	NNFP6-----A----	Adv
+13	?	Z:-------------	AuxK
+
+cmpr9406-060-p17s1
+1	Místo	RR--2----------	AuxP
+2	spekulací	NNFP2-----A----	Adv
+3	jsme	VB-P---1P-AA---	AuxV
+4	se	P7-X4----------	AuxT
+5	vypravili	VpMP---XR-AA---	Pred
+6	do	RR--2----------	AuxP
+7	Tatry	NNFS2-----A----	Adv
+8	a	J^-------------	Coord
+9	o	RR--4----------	AuxP
+10	odpověď	NNFS4-----A----	Obj
+11	na	RR--4----------	AuxP
+12	četné	AAFP4----1A----	Atr
+13	otázky	NNFP4-----A----	Atr
+14	jsme	VB-P---1P-AA---	AuxV
+15	požádali	VpMP---XR-AA---	Pred
+16	rovnou	Db-------------	Adv
+17	Geralda	NNMS4-----A----	Atr
+18	Greenwalda	NNMS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+cmpr9406-060-p18s1A
+1	Čtěte	Vi-P---2--A----	Pred
+2	na	RR--6----------	AuxP
+3	str	NNFXX-----A---8	Adv
+4	.	Z:-------------	AuxG
+5	12	C=-------------	Atr
+6	-	Z:-------------	Coord
+7	13	C=-------------	Atr
+8	:	Z:-------------	AuxK
+
+cmpr9406-060-p18s1B
+1	Američané	NNMP1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	Tatře	NNFS6-----A----	ExD
+4	po	RR--6----------	AuxP
+5	půl	ClXS6----------	ExD
+6	roce	NNIS6-----A---1	Atr
+

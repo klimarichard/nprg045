@@ -1,0 +1,495 @@
+mf920923-043-p1s1
+1	Nečekaný	AAIS1----1N----	Atr
+2	účet	NNIS1-----A----	ExD
+3	hokejového	AAIS2----1A----	Atr
+4	šampionátu	NNIS2-----A----	Atr
+
+mf920923-043-p2s1
+1	TELEMUNDI	NNFXX-----A----	Sb
+2	NEDODRŽUJE	VB-S---3P-NA---	Pred
+3	TERMÍNY	NNIP4-----A----	Obj
+4	SPLÁTEK	NNFP2-----A----	Atr
+5	,	Z:-------------	Coord
+6	ČS	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	FEDERACE	NNFS1-----A----	Sb
+9	NEMÁ	VB-S---3P-NA---	Pred
+10	ČÍM	PQ--7----------	Adv
+11	PLATIT	Vf--------A----	Obj
+12	FAKTURY	NNFP4-----A----	Obj
+
+mf920923-043-p3s1
+1	Místo	RR--2----------	AuxP
+2	očekávaného	AAIS2----1A----	Atr
+3	vysokého	AAIS2----1A----	Atr
+4	zisku	NNIS2-----A----	Adv
+5	,	Z:-------------	Apos
+6	podle	RR--2----------	AuxP
+7	některých	PZXP2----------	Atr
+8	optimistů	NNMP2-----A----	Adv
+9	až	TT-------------	AuxZ
+10	30	C=-------------	Adv
+11	miliónů	NNIP2-----A----	Atr
+12	korun	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	musí	VB-S---3P-AA---	Pred
+15	Čs	AAXXX----1A---8	Atr
+16	.	Z:-------------	AuxG
+17	hokejová	AAFS1----1A----	Atr
+18	federace	NNFS1-----A----	Sb
+19	čelit	Vf--------A----	Obj
+20	hrozbě	NNFS3-----A----	Obj
+21	pětimiliónového	AANS2----1A----	Atr
+22	pasíva	NNNS2-----A----	Atr
+23	z	RR--2----------	AuxP
+24	pražského	AANS2----1A----	Atr
+25	mistrovství	NNNS2-----A----	Atr
+26	světa	NNIS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf920923-043-p3s2
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	rozhovoru	NNIS2-----A----	Obj
+5	generálního	AAMS2----1A----	Atr
+6	sekretáře	NNMS2-----A----	Atr
+7	federace	NNFS2-----A----	Atr
+8	Miloše	NNMS2-----A----	Atr
+9	Broukala	NNMS2-----A----	Atr
+10	s	RR--7----------	AuxP
+11	MF	NNFXX-----A---8	Atr
+12	DNES	Db-------------	Atr
+13	.	Z:-------------	AuxK
+
+mf920923-043-p4s1
+1	Rozsáhlá	AAFS1----1A----	Atr
+2	smlouva	NNFS1-----A----	Sb
+3	se	RV--7----------	AuxP
+4	společností	NNFS7-----A----	Atr
+5	Telemundi	NNFXX-----A----	Atr
+6	řešila	VpQW---XR-AA---	Pred
+7	organizační	AANS4----1A----	Atr
+8	zabezpečení	NNNS4-----A----	Obj
+9	mistrovství	NNNS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	převod	NNIS4-----A----	Obj
+12	komerčních	AANP2----1A----	Atr
+13	práv	NNNP2-----A----	Atr
+14	na	RR--4----------	AuxP
+15	Telemundi	NNFXX-----A----	Atr
+16	a	J^-------------	Coord
+17	zaručovala	VpQW---XR-AA---	Pred
+18	rozpočet	NNIS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf920923-043-p5s1
+1	"	Z:-------------	AuxG
+2	Smlouva	NNFS1-----A----	Sb
+3	byla	VpQW---XR-AA---	AuxV
+4	udělána	VsQW---XX-AP---	Obj
+5	tzv	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	na	RR--4----------	AuxP
+8	nulu	NNFS4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	stanovila	VpQW---XR-AA---	Obj
+12	také	Db-------------	Adv
+13	rozdělení	NNNS4-----A----	Obj
+14	případného	AAIS2----1A----	Atr
+15	zisku	NNIS2-----A----	Atr
+16	,	Z:-------------	Apos
+17	75	C=-------------	Obj
+18	procent	NNNP2-----A----	Atr
+19	pro	RR--4----------	AuxP
+20	federaci	NNFS4-----A----	Atr
+21	,	Z:-------------	Coord
+22	25	C=-------------	Obj
+23	procent	NNNP2-----A----	Atr
+24	pro	RR--4----------	AuxP
+25	Telemundi	NNFXX-----A----	Atr
+26	,	Z:-------------	AuxX
+27	"	Z:-------------	AuxG
+28	řekl	VpYS---XR-AA---	Pred
+29	pan	NNMS1-----A----	Atr
+30	Broukal	NNMS1-----A----	Sb
+31	.	Z:-------------	AuxK
+
+mf920923-043-p6s1
+1	-	Z:-------------	AuxG
+2	Každá	AAFS1----1A----	Atr
+3	marketinková	AAFS1----1A----	Atr
+4	společnost	NNFS1-----A----	Sb
+5	počítá	VB-S---3P-AA---	Pred
+6	při	RR--6----------	AuxP
+7	uzavírání	NNNS6-----A----	Adv
+8	smlouvy	NNFS2-----A----	Atr
+9	se	RV--7----------	AuxP
+10	ziskem	NNIS7-----A----	Obj
+11	,	Z:-------------	AuxX
+12	jinak	Db-------------	Adv
+13	by	Vc-------------	AuxV
+14	sotva	Db-------------	Adv
+15	ke	RV--3----------	AuxP
+16	smlouvě	NNFS3-----A----	Obj
+17	přistoupila	VpQW---XR-AA---	Pred
+18	,	Z:-------------	AuxX
+19	takže	J,-------------	AuxC
+20	zisk	NNIS1-----A----	Sb
+21	se	P7-X4----------	AuxR
+22	musel	VpYS---XR-AA---	Adv
+23	předpokládat	Vf--------A----	Obj
+24	.	Z:-------------	AuxK
+
+mf920923-043-p7s1
+1	"	Z:-------------	AuxG
+2	Neříkám	VB-S---1P-NA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxR
+6	nepředpokládal	VpYS---XR-NA---	Obj
+7	a	J^-------------	Coord
+8	různí	AAMP1----1A----	Atr
+9	lidé	NNMP1-----A---1	Sb
+10	na	RR--6----------	AuxP
+11	různých	AANP6----1A----	Atr
+12	místech	NNNP6-----A----	Adv
+13	o	RR--6----------	AuxP
+14	zisku	NNIS6-----A----	Obj
+15	mluvili	VpMP---XR-AA---	Pred
+16	.	Z:-------------	AuxK
+
+mf920923-043-p7s2
+1	Na	RR--6----------	AuxP
+2	jedné	ClFS6----------	Atr
+3	tiskové	AAFS6----1A----	Atr
+4	konferenci	NNFS6-----A----	Adv
+5	,	Z:-------------	AuxX
+6	pokud	J,-------------	AuxC
+7	si	P7-X3----------	AuxT
+8	pamatuji	VB-S---1P-AA--1	Adv
+9	,	Z:-------------	AuxX
+10	padla	VpQW---XR-AA--1	Pred
+11	dokonce	Db-------------	AuxZ
+12	částka	NNFS1-----A----	Sb
+13	třicet	Cn-S1----------	Atr
+14	milionů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920923-043-p7s3
+1	Každý	AAMS1----1A----	Sb
+2	pracoval	VpYS---XR-AA---	Pred
+3	s	RR--7----------	AuxP
+4	tím	PDZS7----------	Adv
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	podařilo	VpNS---XR-AA---	Atr
+9	také	Db-------------	Adv
+10	něco	PZ--4----------	Obj
+11	vydělat	Vf--------A----	Sb
+12	.	Z:-------------	AuxK
+13	"	Z:-------------	AuxG
+
+mf920923-043-p8s1
+1	-	Z:-------------	AuxG
+2	To	PDNS1----------	Sb
+3	se	P7-X4----------	AuxT
+4	tedy	Db-------------	AuxY
+5	nepodařilo	VpNS---XR-NA---	Pred
+6	,	Z:-------------	AuxX
+7	a	J^-------------	Coord
+8	proslýchá	VB-S---3P-AA---	Pred
+9	se	P7-X4----------	AuxT
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	federace	NNFS1-----A----	Sb
+13	má	VB-S---3P-AA---	Sb
+14	dokonce	Db-------------	Adv
+15	ze	RV--2----------	AuxP
+16	šampionátu	NNIS2-----A----	AdvAtr
+17	dluhy	NNIP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+mf920923-043-p9s1
+1	"	Z:-------------	AuxG
+2	Federace	NNFS1-----A----	Sb
+3	neobdržela	VpQW---XR-NA---	Pred
+4	od	RR--2----------	AuxP
+5	Telemundi	NNFXX-----A----	Obj
+6	dvě	ClHP4----------	Atr
+7	poslední	AAFP4----1A----	Atr
+8	měsíční	AAFP4----1A----	Atr
+9	splátky	NNFP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+mf920923-043-p9s2
+1	A	J^-------------	Coord
+2	už	Db-------------	Adv
+3	u	RR--2----------	AuxP
+4	nás	PP-P2--1-------	Adv
+5	leží	VB-P---3P-AA---	Pred
+6	určité	AAFP1----1A----	Atr
+7	faktury	NNFP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	které	P4FP4----------	Obj
+10	nejsme	VB-P---1P-NA---	Atr
+11	schopni	ACMP------A----	Pnom
+12	platit	Vf--------A----	Obj
+13	,	Z:-------------	AuxX
+14	poněvadž	J,-------------	AuxC
+15	na	RR--6----------	AuxP
+16	účtu	NNIS6-----A----	Adv
+17	mistrovství	NNNS2-----A----	Atr
+18	světa	NNIS2-----A----	Atr
+19	dvě	ClHP1----------	Atr
+20	platby	NNFP1-----A----	Sb
+21	nenaběhly	VpTP---XR-NA--1	Adv
+22	.	Z:-------------	AuxK
+23	"	Z:-------------	AuxG
+
+mf920923-043-p10s1
+1	-	Z:-------------	AuxG
+2	Proč	Db-------------	Adv
+3	podle	RR--2----------	AuxP
+4	vás	PP-P2--2-------	Adv
+5	nedošlo	VpNS---XR-NA---	Pred
+6	k	RR--3----------	AuxP
+7	zaplacení	NNNS3-----A----	Obj
+8	dvou	ClXP2----------	Atr
+9	splátek	NNFP2-----A----	Atr
+10	?	Z:-------------	AuxK
+
+mf920923-043-p11s1
+1	"	Z:-------------	AuxG
+2	Někteří	PZMP1----------	Atr
+3	sponzoři	NNMP1-----A----	Sb
+4	a	J^-------------	Coord
+5	některé	PZFP1----------	Atr
+6	firmy	NNFP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	s	RR--7----------	AuxP
+9	kterými	P4XP7----------	Atr
+10	měla	VpQW---XR-AA---	Atr
+11	Telemundi	NNFXX-----A----	Sb
+12	smlouvy	NNFP4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	nezaplatili	VpMP---XR-NA---	Pred
+15	v	RR--6----------	AuxP
+16	termínu	NNIS6-----A----	Adv
+17	,	Z:-------------	AuxX
+18	a	J^-------------	Coord
+19	dokonce	Db-------------	Adv
+20	prý	TT-------------	AuxY
+21	dochází	VB-S---3P-AA---	Pred
+22	k	RR--3----------	AuxP
+23	soudním	AANP3----1A----	Atr
+24	vymáháním	NNNP3-----A----	Obj
+25	.	Z:-------------	AuxK
+26	"	Z:-------------	AuxG
+
+mf920923-043-p12s1
+1	-	Z:-------------	AuxG
+2	Nezdá	VB-S---3P-NA---	Pred
+3	se	P7-X4----------	AuxT
+4	vám	PP-P3--2-------	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	vyúčtování	NNNS1-----A----	Sb
+8	mistrovství	NNNS2-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	příliš	Db-------------	Adv
+11	táhne	VB-S---3P-AA---	Sb
+12	?	Z:-------------	AuxK
+
+mf920923-043-p12s2
+1	Šampionát	NNIS1-----A----	Sb
+2	skončil	VpYS---XR-AA---	Pred
+3	začátkem	NNIS7-----A----	Adv
+4	května	NNIS2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+mf920923-043-p13s1
+1	"	Z:-------------	AuxG
+2	My	PP-P1--1-------	Sb
+3	bychom	Vc-P---1-------	AuxV
+4	byli	VpMP---XR-AA---	Pred
+5	rádi	ACMP------A----	Pnom
+6	,	Z:-------------	AuxX
+7	kdyby	J,-------------	AuxC
+8	bylo	VpNS---XR-AA---	Adv
+9	vyúčtování	NNNS1-----A----	Sb
+10	dávno	Dg-------1A----	Adv
+11	uzavřeno	VsNS---XX-AP---	Pnom
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	s	RR--7----------	AuxP
+15	některými	PZXP7----------	Atr
+16	skutečnostmi	NNFP7-----A----	Obj
+17	lze	VB-S---3P-AA---	Pred
+18	těžko	Db-------------	Adv
+19	hnout	Vf--------A----	Sb
+20	.	Z:-------------	AuxK
+
+mf920923-043-p13s2
+1	Stále	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	někde	Db-------------	Adv
+4	ve	RV--6----------	AuxP
+5	vzduchu	NNIS6-----A----	Adv
+6	nějaká	PZFS1----------	Atr
+7	částka	NNFS1-----A----	Sb
+8	peněz	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+10	"	Z:-------------	AuxG
+
+mf920923-043-p14s1
+1	-	Z:-------------	AuxG
+2	Mluvíte	VB-P---2P-AA---	Pred
+3	dost	Dg-------1A----	Adv
+4	neurčitě	Dg-------1N----	Adv
+5	.	Z:-------------	AuxK
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+
+mf920923-043-p15s1
+1	"	Z:-------------	AuxG
+2	Pokud	J,-------------	AuxC
+3	bychom	Vc-P---1-------	AuxV
+4	dvě	ClHP4----------	Atr
+5	poslední	AAFP4----1A----	Atr
+6	splátky	NNFP4-----A----	Obj
+7	neobdrželi	VpMP---XR-NA---	Adv
+8	,	Z:-------------	AuxX
+9	zůstal	VpYS---XR-AA---	Pred
+10	by	Vc-------------	AuxV
+11	nám	PP-P3--1-------	Obj
+12	schodek	NNIS1-----A----	Sb
+13	pět	Cn-S1----------	Atr
+14	miliónů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+16	"	Z:-------------	AuxG
+
+mf920923-043-p16s1
+1	-	Z:-------------	AuxG
+2	Zatím	Db-------------	Adv
+3	tedy	Db-------------	AuxY
+4	jasno	NNNS4-----A----	Obj
+5	nemáte	VB-P---2P-NA---	Pred
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+
+mf920923-043-p17s1
+1	"	Z:-------------	AuxG
+2	Bude	VB-S---3F-AA---	AuxV
+3	záležet	Vf--------A----	Pred
+4	na	RR--6----------	AuxP
+5	tom	PDZS6----------	Obj
+6	,	Z:-------------	AuxX
+7	kolik	C?--4----------	Obj
+8	peněz	NNIP2-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	ještě	Db-------------	Adv
+11	ze	RV--2----------	AuxP
+12	sponzorů	NNMP2-----A----	Adv
+13	a	J^-------------	Coord
+14	firem	NNFP2-----A----	Adv
+15	podaří	VB-S---3P-AA---	Atr
+16	vytáhnout	Vf--------A----	Sb
+17	.	Z:-------------	AuxK
+18	"	Z:-------------	AuxG
+
+mf920923-043-p18s1
+1	-	Z:-------------	AuxG
+2	Můžete	VB-P---2P-AA---	Pred
+3	do	RR--2----------	AuxP
+4	sporů	NNIP2-----A----	Obj
+5	mezi	RR--7----------	AuxP
+6	Telemundi	NNFXX-----A----	Atr
+7	a	J^-------------	Coord
+8	sponzory	NNMP7-----A----	Atr
+9	nějak	Db-------------	Adv
+10	zasáhnout	Vf--------A----	Obj
+11	?	Z:-------------	AuxK
+
+mf920923-043-p19s1
+1	"	Z:-------------	AuxG
+2	Smlouvy	NNFP1-----A----	Sb
+3	byly	VpTP---XR-AA---	AuxV
+4	uzavřeny	VsTP---XX-AP---	Pred
+5	mezi	RR--7----------	AuxP
+6	Telemundi	NNFXX-----A----	Adv
+7	a	J^-------------	Coord
+8	sponzory	NNMP7-----A----	Adv
+9	,	Z:-------------	Coord
+10	federace	NNFS1-----A----	Sb
+11	v	RR--6----------	AuxP
+12	nich	P5XP6--3-------	Adv
+13	nefiguruje	VB-S---3P-NA---	Pred
+14	.	Z:-------------	AuxK
+15	"	Z:-------------	AuxG
+
+mf920923-043-p20s1
+1	-	Z:-------------	AuxG
+2	Co	PQ--4----------	Obj
+3	stálo	VpNS---XR-AA---	Pred
+4	celkově	Dg-------1A----	Adv
+5	pražské	AANS1----1A----	Atr
+6	mistrovství	NNNS1-----A----	Sb
+7	?	Z:-------------	AuxK
+
+mf920923-043-p21s1
+1	"	Z:-------------	AuxG
+2	Rozpočet	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	pohyboval	VpYS---XR-AA---	Pred
+5	kolem	RR--2----------	AuxP
+6	padesáti	Cn-P2----------	Atr
+7	miliónů	NNIP2-----A----	Adv
+8	.	Z:-------------	AuxK
+9	"	Z:-------------	AuxG
+
+mf920923-043-p22s1
+1	-	Z:-------------	AuxG
+2	Může	VB-S---3P-AA---	Pred
+3	případný	AAIS1----1A----	Atr
+4	finanční	AAIS1----1A----	Atr
+5	schodek	NNIS1-----A----	Sb
+6	šampionátu	NNIS2-----A----	Atr
+7	nějak	Db-------------	Adv
+8	výrazně	Dg-------1A----	Adv
+9	zasáhnout	Vf--------A----	Obj
+10	do	RR--2----------	AuxP
+11	rozpočtu	NNIS2-----A----	Obj
+12	federace	NNFS2-----A----	Atr
+13	?	Z:-------------	AuxK
+
+mf920923-043-p23s1
+1	"	Z:-------------	AuxG
+2	Roční	AAIS1----1A----	Atr
+3	rozpočet	NNIS1-----A----	Sb
+4	federace	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	šedesát	Cn-S1----------	Pnom
+7	miliónů	NNIP2-----A----	Atr
+8	a	J^-------------	Coord
+9	má	VB-S---3P-AA---	Pred
+10	být	Vf--------A----	Obj
+11	vyrovnaný	AAIS1----1A----	Pnom
+12	.	Z:-------------	AuxK
+
+mf920923-043-p23s2
+1	Museli	VpMP---XR-AA---	Pred
+2	bychom	Vc-P---1-------	AuxV
+3	uvažovat	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	z	RR--2----------	AuxP
+6	které	P4FS2----------	Atr
+7	položky	NNFS2-----A----	Adv
+8	pasívum	NNNS4-----A----	Obj
+9	pokrýt	Vf--------A----	Obj
+10	.	Z:-------------	AuxK
+11	"	Z:-------------	AuxG
+

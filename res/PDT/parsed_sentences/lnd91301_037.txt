@@ -1,0 +1,125 @@
+lnd91301-037-p1s1
+1	Policejní	AAIS1----1A----	Atr
+2	deník	NNIS1-----A----	ExD
+
+lnd91301-037-p2s1
+1	O	RR--4----------	AuxP
+2	dvoje	CdXP4---------1	Atr
+3	cenné	AAFP4----1A----	Atr
+4	housle	NNFP4-----A----	Obj
+5	přišla	VpQW---XR-AA---	Pred
+6	členka	NNFS1-----A----	Sb
+7	BROLNu	NNIS2-----A----	Atr
+8	během	RR--2----------	AuxP
+9	Štědrého	AAIS2----1A----	Atr
+10	večera	NNIS2-----A---1	Adv
+11	.	Z:-------------	AuxK
+
+lnd91301-037-p2s2
+1	Neznámý	NNMS1-----A----	Atr
+2	zloděj	NNMS1-----A----	Sb
+3	je	PPXP4--3-------	Obj
+4	odcizil	VpYS---XR-AA---	Pred
+5	ze	RV--2----------	AuxP
+6	zaparkované	AAFS2----1A----	Atr
+7	škodovky	NNFS2-----A----	Adv
+8	na	RR--6----------	AuxP
+9	Horské	AAFS6----1A----	Atr
+10	ulici	NNFS6-----A----	Adv
+11	na	RR--6----------	AuxP
+12	Palackého	NNMS2-----A----	Atr
+13	vrchu	NNIS6-----A----	Adv
+14	v	RR--6----------	AuxP
+15	Brně	NNNS6-----A----	Adv
+16	a	J^-------------	Coord
+17	znemožnil	VpYS---XR-AA---	Pred
+18	tím	PDZS7----------	Adv
+19	majitelce	NNFS3-----A----	Obj
+20	plánované	AANS4----1A----	Atr
+21	štědrovečerní	AANS4----1A----	Atr
+22	vystoupení	NNNS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd91301-037-p2s3
+1	V	RR--6----------	AuxP
+2	Rohatci	NNIS6-----A----	Adv
+3	v	RR--6----------	AuxP
+4	okrese	NNIS6-----A----	AtrAdv
+5	Hodonín	NNIS1-----A----	Atr
+6	vnikl	VpYS---XR-AA--1	Pred
+7	na	RR--4----------	AuxP
+8	Štědrý	AAIS4----1A----	Atr
+9	den	NNIS4-----A----	Adv
+10	dosud	Db-------------	Adv
+11	neznámý	NNMS1-----A----	Atr
+12	pachatel	NNMS1-----A----	Sb
+13	okénkem	NNNS7-----A----	Adv
+14	WC	NNNXX-----A---8	Atr
+15	do	RR--2----------	AuxP
+16	rodinného	AAIS2----1A----	Atr
+17	domku	NNIS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+lnd91301-037-p2s4
+1	Odcizil	VpYS---XR-AA---	Pred
+2	barevný	AAIS4----1A----	Atr
+3	televizor	NNIS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	videorekordér	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	elektrické	AAFP4----1A----	Atr
+8	varhany	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	videokazety	NNFP4-----A----	Obj
+11	a	J^-------------	Coord
+12	jízdní	AANS4----1A----	Atr
+13	kolo	NNNS4-----A----	Obj
+14	;	Z:-------------	AuxK
+
+lnd91301-037-p2s5
+1	majiteli	NNMS3-----A----	Obj
+2	způsobil	VpYS---XR-AA---	Pred
+3	škodu	NNFS4-----A----	Obj
+4	55000	C=-------------	Atr
+5	korun	NNFP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+lnd91301-037-p2s6
+1	25	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	prosince	NNIS2-----A----	Adv
+4	utekli	VpMP---XR-AA---	Pred
+5	dva	ClYP1----------	Atr
+6	romští	AAMP1----1A----	Atr
+7	chlapci	NNMP1-----A----	Sb
+8	ve	RV--6----------	AuxP
+9	věku	NNIS6-----A----	Atr
+10	čtrnáct	Cn-S1----------	Atr
+11	a	J^-------------	Coord
+12	patnáct	Cn-S1----------	Atr
+13	let	NNNP2-----A----	Atr
+14	z	RR--2----------	AuxP
+15	VÚM	NNIXX-----A---8	AdvAtr
+16	Bystřice	NNFS1-----A----	Atr
+17	pod	RR--7----------	AuxP
+18	Hostýnem	NNIS7-----A----	Atr
+19	v	RR--6----------	AuxP
+20	okrese	NNIS6-----A----	Atr
+21	Kroměříž	NNFS1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd91301-037-p2s7
+1	O	RR--4----------	AuxP
+2	den	NNIS4-----A----	Adv
+3	později	Dg-------2A----	Adv
+4	uprchli	VpMP---XR-AA--1	Pred
+5	jiní	AAMP1----1A----	Atr
+6	tři	ClXP1----------	Atr
+7	chovanci	NNMP1-----A----	Sb
+8	romského	AAIS2----1A----	Atr
+9	původu	NNIS2-----A----	Atr
+10	z	RR--2----------	AuxP
+11	VÚM	NNIXX-----A---8	AdvAtr
+12	Střílky	NNFP1-----A----	Atr
+13	.	Z:-------------	AuxK
+

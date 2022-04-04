@@ -1,0 +1,530 @@
+ln94210-119-p1s1
+1	Kuka	NNMS1-----A----	Sb
+2	nahrával	VpYS---XR-AA---	Pred
+3	,	Z:-------------	Coord
+4	Siegl	NNMS1-----A----	Sb
+5	dával	VpYS---XR-AA---	Pred
+6	góly	NNIP4-----A----	Obj
+
+ln94210-119-p2s1A
+1	Zdařilý	AAIS1----1A----	Atr
+2	vstup	NNIS1-----A----	ExD
+3	do	RR--2----------	AuxP
+4	fotbalové	AAFS2----1A----	Atr
+5	kvalifikace	NNFS2-----A----	Atr
+6	ME	NNNXX-----A---8	Atr
+7	:	Z:-------------	Coord
+8	Česká	AAFS1----1A----	Atr
+9	republika	NNFS1-----A----	ExD
+10	-	Z:-------------	Coord
+11	Malta	NNFS1-----A----	ExD
+12	6	C=-------------	ExD
+13	:	Z:-------------	Coord
+14	1	C=-------------	ExD
+15	(	Z:-------------	AuxG
+16	3	C=-------------	ExD
+17	:	Z:-------------	Coord
+18	0	C=-------------	ExD
+19	)	Z:-------------	AuxG
+
+ln94210-119-p2s1B
+1	Ostrava	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	ber	NNXXX-----A---8	ExD
+4	,	Z:-------------	AuxX
+5	sn	NNXXX-----A---8	ExD
+6	,	Z:-------------	Coord
+7	šv	NNXXX-----A---8	ExD
+8	)	Z:-------------	AuxG
+9	-	Z:-------------	AuxK
+
+ln94210-119-p2s1C
+1	Ani	J^-------------	AuxZ
+2	ve	RV--6----------	AuxP
+3	snu	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	trenérovi	NNMS3-----A----	Obj
+6	české	AAFS2----1A----	Atr
+7	fotbalové	AAFS2----1A----	Atr
+8	reprezentace	NNFS2-----A----	Atr
+9	nezdálo	VpNS---XR-NA---	Pred
+10	o	RR--6----------	AuxP
+11	tom	PDZS6----------	Obj
+12	,	Z:-------------	AuxX
+13	jak	Db-------------	Adv
+14	dobře	Dg-------1A----	Adv
+15	vstoupí	VB-S---3P-AA---	Atr
+16	jeho	PSXXXZS3-------	Atr
+17	tým	NNIS1-----A----	Sb
+18	do	RR--2----------	AuxP
+19	kvalifikace	NNFS2-----A----	Adv
+20	mistrovství	NNNS2-----A----	Atr
+21	Evropy	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94210-119-p2s2
+1	Po	RR--6----------	AuxP
+2	drtivé	AAFS6----1A----	Atr
+3	převaze	NNFS6-----A----	Adv
+4	porazil	VpYS---XR-AA---	Pred
+5	na	RR--6----------	AuxP
+6	ostravských	AAIP6----1A----	Atr
+7	Bazalech	NNIP6-----A----	Adv
+8	Maltu	NNFS4-----A----	Obj
+9	6	C=-------------	Adv
+10	:	Z:-------------	Coord
+11	1	C=-------------	Adv
+12	.	Z:-------------	AuxK
+
+ln94210-119-p3s1
+1	Poprvé	Cv-------------	Adv
+2	provalit	Vf--------A----	Sb
+3	maltskou	AAFS4----1A----	Atr
+4	hráz	NNFS4-----A----	Obj
+5	se	P7-X4----------	AuxT
+6	podařilo	VpNS---XR-AA---	Pred
+7	už	Db-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	6	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	minutě	NNFS6-----A----	Adv
+12	Kubíkovi	NNMS3-----A----	Obj
+13	-	Z:-------------	Coord
+14	vřítil	VpYS---XR-AA---	Pred
+15	se	P7-X4----------	AuxT
+16	do	RR--2----------	AuxP
+17	vápna	NNNS2-----A----	Adv
+18	,	Z:-------------	AuxX
+19	kde	Db-------------	Adv
+20	mu	PHZS3--3-------	Obj
+21	nohu	NNFS4-----A----	Obj
+22	nastavil	VpYS---XR-AA---	Atr
+23	Buttigieg	NNMS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln94210-119-p3s2
+1	Z	RR--2----------	AuxP
+2	penalty	NNFS2-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	Šmejkal	NNMS1-----A----	Sb
+5	nezmýlil	VpYS---XR-NA---	Pred
+6	-	Z:-------------	Coord
+7	1	C=-------------	ExD
+8	:	Z:-------------	Coord
+9	0	C=-------------	ExD
+10	.	Z:-------------	AuxK
+
+ln94210-119-p3s3
+1	Český	AAIS1----1A----	Atr
+2	tým	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	nakonec	Db-------------	Adv
+6	nastoupil	VpYS---XR-AA---	Atr
+7	bez	RR--2----------	AuxP
+8	Kadlece	NNMS2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	se	P7-X4----------	AuxT
+11	povzbuzen	VsYS---XX-AP---	Atv
+12	gólem	NNIS7-----A----	Adv
+13	hnal	VpYS---XR-AA---	Pred
+14	do	RR--2----------	AuxP
+15	útoku	NNIS2-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94210-119-p3s4
+1	Soupeř	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	zmohl	VpYS---XR-AA---	Pred
+4	jen	TT-------------	AuxZ
+5	na	RR--4----------	AuxP
+6	zoufalé	AANS4----1A----	Atr
+7	odkopávání	NNNS4-----A----	Obj
+8	míčů	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	takže	J,-------------	AuxC
+11	se	P7-X4----------	AuxR
+12	hrálo	VpNS---XR-AA---	Adv
+13	jen	TT-------------	AuxZ
+14	na	RR--6----------	AuxP
+15	jedné	ClFS6----------	Atr
+16	polovině	NNFS6-----A----	Adv
+17	hřiště	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-119-p3s5
+1	V	RR--6----------	AuxP
+2	17	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	minutě	NNFS6-----A----	Adv
+5	dokázal	VpYS---XR-AA---	Pred
+6	Kuka	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	mu	PHZS3--3-------	Obj
+10	nepřeje	VB-S---3P-NA---	Obj
+11	střelecké	AANS1----1A----	Atr
+12	štěstí	NNNS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94210-119-p3s6
+1	Zblízka	Db-------------	Adv
+2	poslal	VpYS---XR-AA---	Pred
+3	míč	NNIS4-----A----	Obj
+4	do	RR--2----------	AuxP
+5	tyče	NNFS2-----A----	Adv
+6	a	J^-------------	Coord
+7	dobíhající	AGMS1-----A----	Atr
+8	Frýdek	NNMS1-----A----	Sb
+9	ho	PHZS4--3-------	Obj
+10	o	RR--4----------	AuxP
+11	centimetry	NNIP4-----A----	Adv
+12	minul	VpYS---XR-AA---	Pred
+13	.	Z:-------------	AuxK
+
+ln94210-119-p3s7
+1	Hosté	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	dostali	VpMP---XR-AA---	Pred
+4	do	RR--2----------	AuxP
+5	vážnější	AAFS2----2A----	Atr
+6	akce	NNFS2-----A----	Adv
+7	až	TT-------------	AuxZ
+8	po	RR--6----------	AuxP
+9	čtyřiadvaceti	Cn-P6----------	Atr
+10	minutách	NNFP6-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94210-119-p3s8
+1	Po	RR--6----------	AuxP
+2	křídle	NNNS6-----A----	Adv
+3	utekl	VpYS---XR-AA---	Pred
+4	Vella	NNMS1-----A----	Sb
+5	,	Z:-------------	Coord
+6	odcentroval	VpYS---XR-AA---	Pred
+7	a	J^-------------	Coord
+8	Laverla	NNMS1-----A----	Sb
+9	mířil	VpYS---XR-AA---	Pred
+10	rybičkou	NNFS7-----A----	Adv
+11	těsně	Dg-------1A----	Adv
+12	vedle	Db-------------	Adv
+13	.	Z:-------------	AuxK
+
+ln94210-119-p3s9
+1	Ani	J^-------------	AuxZ
+2	to	PDNS1----------	Sb
+3	však	J^-------------	Coord
+4	neotřáslo	VpNS---XR-NA---	Pred
+5	sebevědomím	NNNS7-----A----	Obj
+6	Uhrinova	AUIS2M---------	Atr
+7	týmu	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94210-119-p3s10
+1	Podruhé	Cv-------------	Adv
+2	si	P7-X3----------	AuxO
+3	diváci	NNMP1-----A----	Sb
+4	zakřičeli	VpMP---XR-AA---	Pred
+5	gól	NNIS4-----A----	Obj
+6	ve	RV--6----------	AuxP
+7	29	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	minutě	NNFS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	jenže	J^-------------	Coord
+12	přehlédli	VpMP---XR-AA--1	Pred
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	po	RR--6----------	AuxP
+16	Němečkově	AUFS6M---------	Atr
+17	ráně	NNFS6-----A----	Adv
+18	se	P7-X4----------	AuxT
+19	třepetala	VpQW---XR-AA---	Obj
+20	jen	TT-------------	AuxZ
+21	boční	AAFS1----1A----	Atr
+22	síť	NNFS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln94210-119-p3s11
+1	Naši	PSMP1-P1-------	Sb
+2	dobře	Dg-------1A----	Adv
+3	atakovali	VpMP---XR-AA---	Pred
+4	Malťany	NNMP4-----A----	Obj
+5	ve	RV--6----------	AuxP
+6	středu	NNIS6-----A----	Adv
+7	hřiště	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	znemožnili	VpMP---XR-AA---	Pred
+10	jim	PPXP3--3-------	Obj
+11	tak	Db-------------	Adv
+12	natahování	NNNS4-----A----	Obj
+13	času	NNIS2-----A----	Atr
+14	a	J^-------------	Coord
+15	neustálým	AAIS7----1A----	Atr
+16	pohybem	NNIS7-----A----	Adv
+17	je	PPXP4--3-------	Obj
+18	nutili	VpMP---XR-AA---	Pred
+19	k	RR--3----------	AuxP
+20	často	Dg-------1A----	Adv
+21	nepřesným	AAFP3----1N----	Atr
+22	přihrávkám	NNFP3-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94210-119-p3s12
+1	Po	RR--6----------	AuxP
+2	zoufalých	AAIP6----1A----	Atr
+3	faulech	NNIP6-----A----	Adv
+4	hostů	NNMP2-----A----	Atr
+5	si	P7-X3----------	Adv
+6	vypracovali	VpMP---XR-AA---	Pred
+7	i	J^-------------	AuxZ
+8	několik	Ca--4----------	Obj
+9	trestných	AAIP2----1A----	Atr
+10	kopů	NNIP2-----A----	Atr
+11	a	J^-------------	Coord
+12	ve	RV--6----------	AuxP
+13	33	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	minutě	NNFS6-----A----	Adv
+16	právě	Db-------------	AuxZ
+17	z	RR--2----------	AuxP
+18	něho	P5ZS2--3------1	Adv
+19	zvýšili	VpMP---XR-AA---	Pred
+20	skóre	NNNS4-----A----	Obj
+21	-	Z:-------------	Coord
+22	maltská	AAFS1----1A----	Atr
+23	zeď	NNFS1-----A----	Sb
+24	jen	TT-------------	AuxZ
+25	zděšeně	Dg-------1A----	Adv
+26	koukala	VpQW---XR-AA---	Pred
+27	,	Z:-------------	AuxX
+28	jak	Db-------------	AuxC
+29	míč	NNIS1-----A----	Sb
+30	z	RR--2----------	AuxP
+31	Kubíkovy	AUFS2M---------	Atr
+32	kopačky	NNFS2-----A----	AtrAdv
+33	letí	VB-S---3P-AA---	Adv
+34	do	RR--2----------	AuxP
+35	brány	NNFS2-----A----	Adv
+36	.	Z:-------------	AuxK
+
+ln94210-119-p3s13
+1	Po	RR--6----------	AuxP
+2	penaltě	NNFS6-----A----	Adv
+3	a	J^-------------	Coord
+4	trestném	AAIS6----1A----	Atr
+5	kopu	NNIS6-----A----	Adv
+6	přišel	VpYS---XR-AA---	Pred
+7	gól	NNIS1-----A----	Sb
+8	i	J^-------------	AuxZ
+9	ze	RV--2----------	AuxP
+10	třetí	CrFS2----------	Atr
+11	možné	AAFS2----1A----	Atr
+12	standardní	AAFS2----1A----	Atr
+13	situace	NNFS2-----A----	Adv
+14	-	Z:-------------	Apos
+15	z	RR--2----------	AuxP
+16	rohu	NNIS2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94210-119-p3s14
+1	Rozehrál	VpYS---XR-AA---	Pred
+2	ho	PHZS4--3-------	Obj
+3	Kuka	NNMS1-----A----	Sb
+4	a	J^-------------	Coord
+5	Siegl	NNMS1-----A----	Sb
+6	zakončil	VpYS---XR-AA---	Pred
+7	svůj	P8IS4----------	Atr
+8	gólový	AAIS4----1A----	Atr
+9	půst	NNIS4-----A----	Obj
+10	-	Z:-------------	AuxG
+11	3	C=-------------	Adv
+12	:	Z:-------------	Coord
+13	0	C=-------------	Adv
+14	.	Z:-------------	AuxK
+
+ln94210-119-p4s1
+1	Ani	J^-------------	AuxZ
+2	ve	RV--6----------	AuxP
+3	druhé	CrFS6----------	Atr
+4	půli	NNFS6-----A----	Adv
+5	nepolevil	VpYS---XR-NA---	Pred
+6	Uhrinův	AUIS1M---------	Atr
+7	výběr	NNIS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	tempu	NNNS6-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94210-119-p4s2
+1	Kuka	NNMS1-----A----	Sb
+2	naservíroval	VpYS---XR-AA---	Pred
+3	míč	NNIS4-----A----	Obj
+4	Novotnému	NNMS3-----A----	Obj
+5	,	Z:-------------	AuxX
+6	jemuž	PJZS3----------	Obj
+7	placírka	NNFS1-----A----	Sb
+8	nevyšla	VpQW---XR-NA---	Atr
+9	.	Z:-------------	AuxK
+
+ln94210-119-p4s3
+1	Vzápětí	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	sparťanský	AAMS1----1A----	Atr
+4	obránce	NNMS1-----A----	Sb
+5	neprosadil	VpYS---XR-NA---	Pred
+6	ani	J^-------------	AuxZ
+7	sám	PLYS1----------	Atv
+8	před	RR--7----------	AuxP
+9	odkrytou	AAFS7----1A----	Atr
+10	bránou	NNFS7-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94210-119-p4s4
+1	V	RR--6----------	AuxP
+2	56	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	minutě	NNFS6-----A----	Adv
+5	narazil	VpYS---XR-AA---	Pred
+6	na	RR--4----------	AuxP
+7	maltskou	AAFS4----1A----	Atr
+8	zeď	NNFS4-----A----	Adv
+9	Siegl	NNMS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	mezitím	Db-------------	Adv
+12	Kuka	NNMS1-----A----	Sb
+13	profrčel	VpYS---XR-AA---	Pred
+14	středem	NNIS7-----A----	Adv
+15	obrany	NNFS2-----A----	Atr
+16	jako	J,-------------	AuxC
+17	expresní	AAIS1----1A----	Atr
+18	rychlík	NNIS1-----A----	ExD
+19	,	Z:-------------	AuxX
+20	ale	J^-------------	Coord
+21	umístěnou	AAFS4----1A----	Atr
+22	střelu	NNFS4-----A----	Obj
+23	brankář	NNMS1-----A----	Atr
+24	Cluet	NNMS1-----A----	Sb
+25	kryl	VpYS---XR-AA---	Pred
+26	.	Z:-------------	AuxK
+
+ln94210-119-p4s5
+1	Útočník	NNMS1-----A----	Sb
+2	Kaiserslauternu	NNIS2-----A----	Atr
+3	marně	Dg-------1A----	Adv
+4	čekal	VpYS---XR-AA---	Pred
+5	na	RR--4----------	AuxP
+6	gól	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	zato	J,-------------	Coord
+9	na	RR--4----------	AuxP
+10	ně	P5XP4--3-------	Obj
+11	přihrával	VpYS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94210-119-p4s6
+1	Po	RR--6----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	rohu	NNIS6-----A----	Adv
+4	v	RR--6----------	AuxP
+5	60	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	minutě	NNFS6-----A----	AtrAdv
+8	opět	Db-------------	Adv
+9	skóroval	VpYS---XR-AA---	Pred
+10	Siegl	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94210-119-p4s7
+1	Čtyřgólový	AAIS4----1A----	Atr
+2	náskok	NNIS4-----A----	Obj
+3	mohl	VpYS---XR-AA---	Pred
+4	hned	Db-------------	AuxZ
+5	po	RR--6----------	AuxP
+6	rozehrání	NNNS6-----A----	Adv
+7	snížit	Vf--------A----	Obj
+8	Gregory	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	kdyby	J,-------------	AuxC
+11	jeho	PSXXXZS3-------	Atr
+12	pokus	NNIS4-----A----	Obj
+13	nezlikvidoval	VpYS---XR-NA---	Adv
+14	Kouba	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94210-119-p4s8
+1	I	J^-------------	AuxZ
+2	nadále	Db-------------	Adv
+3	Kuka	NNMS1-----A----	Sb
+4	marně	Dg-------1A----	Adv
+5	pokoušel	VpYS---XR-AA---	Pred
+6	štěstěnu	NNFS4-----A----	Obj
+7	-	Z:-------------	Coord
+8	jeho	PSXXXZS3-------	Atr
+9	nádhernou	AAFS4----1A----	Atr
+10	falšovanou	AAFS4----1A----	Atr
+11	bombu	NNFS4-----A----	Obj
+12	vyboxoval	VpYS---XR-AA---	Pred
+13	Cluet	NNMS1-----A----	Sb
+14	na	RR--4----------	AuxP
+15	roh	NNIS4-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94210-119-p4s9
+1	Malta	NNFS1-----A----	Sb
+2	pak	Db-------------	Adv
+3	snížila	VpQW---XR-AA---	Pred
+4	při	RR--6----------	AuxP
+5	chvilkové	AAFS6----1A----	Atr
+6	nepozornosti	NNFS6-----N----	Adv
+7	české	AAFS2----1A----	Atr
+8	obrany	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	chvilku	NNFS4-----A----	Adv
+12	nato	Db-------------	Atr
+13	její	PSZS1FS3-------	Atr
+14	brankář	NNMS1-----A----	Sb
+15	opět	Db-------------	Adv
+16	kapituloval	VpYS---XR-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln94210-119-p4s10
+1	Kuka	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	ocitl	VpYS---XR-AA--1	Pred
+4	v	RR--6----------	AuxP
+5	dobré	AAFS6----1A----	Atr
+6	střelecké	AAFS6----1A----	Atr
+7	pozici	NNFS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	přihrál	VpYS---XR-AA---	Pred
+10	však	J^-------------	Coord
+11	ještě	Db-------------	AuxZ
+12	lépe	Dg-------2A----	Adv
+13	postavenému	AAMS3----1A----	Atr
+14	Sieglovi	NNMS3-----A----	Obj
+15	,	Z:-------------	Coord
+16	čímž	PE--7----------	Adv
+17	si	P7-X3----------	Obj
+18	připsal	VpYS---XR-AA---	Pred
+19	třetí	CrFS4----------	Atr
+20	gólovou	AAFS4----1A----	Atr
+21	asistenci	NNFS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94210-119-p4s11
+1	Gólový	AAIS4----1A----	Atr
+2	účet	NNIS4-----A----	Obj
+3	zakončil	VpYS---XR-AA---	Pred
+4	střídající	AGMS1-----A----	Atr
+5	Berger	NNMS1-----A----	Sb
+6	po	RR--6----------	AuxP
+7	třech	ClXP6----------	Atr
+8	minutách	NNFP6-----A----	Adv
+9	pobytu	NNIS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	hřišti	NNNS6-----A----	Atr
+12	pověstnou	AAFS7----1A----	Atr
+13	dělovkou	NNFS7-----A----	Adv
+14	.	Z:-------------	AuxK
+

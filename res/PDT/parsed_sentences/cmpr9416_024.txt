@@ -1,0 +1,263 @@
+cmpr9416-024-p2s1
+1	štoček	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	VELKÉ	AAFP1----1A----	Atr
+4	MALIČKOSTI	NNFP1-----A----	ExD
+
+cmpr9416-024-p3s1
+1	Se	RV--7----------	AuxP
+2	stavebninami	NNFP7-----A----	ExD
+3	za	RR--7----------	AuxP
+4	zákazníkem	NNMS7-----A----	ExD
+
+cmpr9416-024-p4s1
+1	Znám	VB-S---1P-AA---	Pred
+2	prodejnu	NNFS4-----A----	Obj
+3	stavebnin	NNFP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	umí	VB-S---3P-AA---	Atr
+7	získat	Vf--------A----	Obj
+8	zákazníky	NNMP4-----A----	Obj
+9	přímo	Dg-------1A----	AuxZ
+10	u	RR--2----------	AuxP
+11	pramene	NNIS2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+cmpr9416-024-p4s2
+1	Jak	Db-------------	ExD
+2	?	Z:-------------	AuxK
+
+cmpr9416-024-p5s1
+1	Pracovníci	NNMP1-----A----	Sb
+2	tohoto	PDZS2----------	Atr
+3	obchodu	NNIS2-----A----	Atr
+4	navazují	VB-P---3P-AA---	Pred
+5	kontakt	NNIS4-----A----	Obj
+6	se	RV--7----------	AuxP
+7	stavebníky	NNMP7-----A----	AtrAdv
+8	přímo	Dg-------1A----	AuxZ
+9	na	RR--6----------	AuxP
+10	stavebním	AAIS6----1A----	Atr
+11	úřadě	NNIS6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+cmpr9416-024-p5s2
+1	Potenciálním	AAMP3----1A----	Atr
+2	zákazníkům	NNMP3-----A----	Obj
+3	nabízejí	VB-P---3P-AA---	Pred
+4	svůj	P8IS4----------	Atr
+5	propagační	AAIS4----1A----	Atr
+6	materiál	NNIS4-----A----	Obj
+7	a	J^-------------	Coord
+8	pokud	J,-------------	AuxC
+9	souhlasí	VB-P---3P-AA---	Adv
+10	,	Z:-------------	AuxX
+11	poznamenají	VB-P---3P-AA---	Pred
+12	si	P7-X3----------	Adv
+13	jejich	PSXXXXP3-------	Atr
+14	adresu	NNFS4-----A----	Obj
+15	a	J^-------------	Coord
+16	základní	AAIP4----1A----	Atr
+17	údaje	NNIP4-----A----	Obj
+18	o	RR--6----------	AuxP
+19	připravované	AAFS6----1A----	Atr
+20	stavbě	NNFS6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9416-024-p6s1
+1	Nato	Db-------------	Adv
+2	stavebníka	NNMS4-----A----	Obj
+3	navštíví	VB-S---3P-AA---	Pred
+4	dealer	NNMS1-----A----	Sb
+5	s	RR--7----------	AuxP
+6	konkrétním	AAIS7----1A----	Atr
+7	návrhem	NNIS7-----A----	Adv
+8	na	RR--4----------	AuxP
+9	zásobení	NNNS4-----A----	Atr
+10	veškerým	PLZS7----------	Atr
+11	stavebním	AAIS7----1A----	Atr
+12	materiálem	NNIS7-----A----	Atr
+13	i	J^-------------	AuxZ
+14	s	RR--7----------	AuxP
+15	dopravou	NNFS7-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9416-024-p6s2
+1	Výsledek	NNIS1-----A----	Sb
+2	jednání	NNNS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	na	RR--4----------	AuxP
+5	nějž	P9ZS4---------1	Obj
+6	se	P7-X4----------	Obj
+7	obchodní	AAMS1----1A----	Atr
+8	zástupce	NNMS1-----A----	Sb
+9	předem	Db-------------	Adv
+10	připravil	VpYS---XR-AA---	Atr
+11	(	Z:-------------	AuxG
+12	základní	AAFP4----1A----	Atr
+13	informace	NNFP4-----A----	Obj
+14	získal	VpYS---XR-AA---	Pred
+15	již	Db-------------	Adv
+16	při	RR--6----------	AuxP
+17	prvním	CrNS6----------	Atr
+18	setkání	NNNS6-----A----	Adv
+19	s	RR--7----------	AuxP
+20	příštím	AAMS7----1A----	Atr
+21	zákazníkem	NNMS7-----A----	Atr
+22	)	Z:-------------	AuxG
+23	,	Z:-------------	AuxX
+24	je	VB-S---3P-AA---	AuxV
+25	pak	Db-------------	Adv
+26	shrnut	VsYS---XX-AP---	Pred
+27	do	RR--2----------	AuxP
+28	smlouvy	NNFS2-----A----	Adv
+29	zavazující	AGFS2-----A----	Atr
+30	obě	ClHP4----------	Atr
+31	strany	NNFP4-----A----	Obj
+32	.	Z:-------------	AuxK
+
+cmpr9416-024-p6s3
+1	Kontrakt	NNIS1-----A----	Sb
+2	specifikuje	VB-S---3P-AA---	Pred
+3	jednotlivé	AAIP4----1A----	Atr
+4	druhy	NNIP4-----A----	Obj
+5	stavebního	AAIS2----1A----	Atr
+6	materiálu	NNIS2-----A----	Atr
+7	a	J^-------------	Coord
+8	jejich	PSXXXXP3-------	Atr
+9	množství	NNNS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	termíny	NNIP4-----A----	Obj
+12	postupných	AAFP2----1A----	Atr
+13	dodávek	NNFP2-----A----	Atr
+14	a	J^-------------	Coord
+15	platební	AAFP4----1A----	Atr
+16	,	Z:-------------	AuxX
+17	popřípadě	Db-------------	AuxZ
+18	další	AAFP4----1A----	Atr
+19	podmínky	NNFP4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	za	RR--2----------	AuxP
+22	nichž	P9XP2----------	Adv
+23	se	P7-X4----------	AuxR
+24	obchod	NNIS1-----A----	Sb
+25	uskutečňuje	VB-S---3P-AA---	Atr
+26	,	Z:-------------	AuxX
+27	včetně	Db-------------	AuxP
+28	3	C=-------------	Atr
+29	-	Z:-------------	Coord
+30	5	C=-------------	Atr
+31	%	Z:-------------	Atr
+32	slevy	NNFS2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+cmpr9416-024-p6s4
+1	Dealeři	NNMP1-----A----	Sb
+2	-	Z:-------------	AuxG
+3	odborníci	NNMP1-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	schopni	ACMP------A----	Pnom
+6	místo	RR--2----------	AuxP
+7	materiálu	NNIS2-----A----	Adv
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	není	VB-S---3P-NA---	Atr
+11	a	J^-------------	Coord
+12	v	RR--6----------	AuxP
+13	nejbližší	AAFS6----3A----	Atr
+14	době	NNFS6-----A----	Adv
+15	nebude	VB-S---3F-NA---	Atr
+16	k	RR--3----------	AuxP
+17	dispozici	NNFS3-----A----	Adv
+18	,	Z:-------------	AuxX
+19	navrhnout	Vf--------A----	Obj
+20	alternativní	AANS4----1A----	Atr
+21	řešení	NNNS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+cmpr9416-024-p6s5
+1	Navíc	Db-------------	Adv
+2	mohou	VB-P---3P-AA--1	Pred
+3	zprostředkovat	Vf--------A----	Obj
+4	stavební	AANP4----1A----	Atr
+5	řemesla	NNNP4-----A----	Obj
+6	a	J^-------------	Coord
+7	služby	NNFP4-----A----	Obj
+8	(	Z:-------------	AuxG
+9	řemeslníci	NNMP1-----A----	Sb
+10	na	RR--4----------	AuxP
+11	oplátku	NNFS4-----A----	Adv
+12	zase	Db-------------	AuxY
+13	odebírají	VB-P---3P-AA---	Pred
+14	od	RR--2----------	AuxP
+15	firmy	NNFS2-----A----	Obj
+16	materiál	NNIS4-----A----	Obj
+17	)	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+cmpr9416-024-p7s1
+1	Výhody	NNFP1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	stavebníka	NNMS4-----A----	Atr
+4	:	Z:-------------	Apos
+5	Odpadají	VB-P---3P-AA---	Pred
+6	starosti	NNFP1-----A----	Sb
+7	se	RV--7----------	AuxP
+8	sháněním	NNNS7-----A----	Atr
+9	materiálu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	dopravou	NNFS7-----A----	Atr
+12	i	J^-------------	Coord
+13	zajištěním	NNNS7-----A----	Atr
+14	řemeslníků	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9416-024-p7s2
+1	Výhody	NNFP1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	obchodníka	NNMS4-----A----	Atr
+4	:	Z:-------------	Apos
+5	Zajištěný	AAIS1----1A----	Atr
+6	odbyt	NNIS1-----A----	ExD
+7	,	Z:-------------	Coord
+8	dost	Dg-------1A----	Adv
+9	přesná	AAFS1----1A----	Atr
+10	představa	NNFS1-----A----	ExD
+11	,	Z:-------------	AuxX
+12	o	RR--4----------	AuxP
+13	které	P4YP4----------	Atr
+14	druhy	NNIP4-----A----	Atr
+15	a	J^-------------	Coord
+16	v	RR--6----------	AuxP
+17	jakých	P4XP6----------	Atr
+18	množstvích	NNNP6-----A----	Atr
+19	bude	VB-S---3F-AA---	Atr
+20	v	RR--6----------	AuxP
+21	nejbližší	AAFS6----3A----	Atr
+22	době	NNFS6-----A----	Adv
+23	zájem	NNIS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+cmpr9416-024-p8s1
+1	Karel	NNMS1-----A----	Atr
+2	Chudý	AAMS1----1A----	ExD
+3	,	Z:-------------	AuxX
+4	Teplice	NNFP1-----A----	Atr
+
+cmpr9416-024-p9s1
+1	Podnikatelské	AAIP4----1A----	Atr
+2	nápady	NNIP4-----A----	Obj
+3	zveřejněné	AAIP4----1A----	Atr
+4	v	RR--6----------	AuxP
+5	této	PDFS6----------	Atr
+6	rubrice	NNFS6-----A----	Adv
+7	odměňujeme	VB-P---1P-AA---	Pred
+8	vedle	RR--2----------	AuxP
+9	běžného	AAIS2----1A----	Atr
+10	honoráře	NNIS2-----A----	Adv
+11	i	J^-------------	AuxZ
+12	stokorunovou	AAFS7----1A----	Atr
+13	premií	NNFS7-----A----	Adv
+14	.	Z:-------------	AuxK
+

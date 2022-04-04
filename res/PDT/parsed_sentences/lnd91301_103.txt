@@ -1,0 +1,54 @@
+lnd91301-103-p1s1
+1	Pele	NNNXX-----A----	ExD
+2	-	Z:-------------	Coord
+3	mele	NNNXX-----A----	ExD
+
+lnd91301-103-p2s1
+1	Pardubické	AANS1----1A----	Atr
+2	vydavatelství	NNNS1-----A----	Sb
+3	Spektrum	NNNS1-----A----	Atr
+4	D	C}-------------	Atr
+5	představuje	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	životopisné	AAFS6----1A----	Atr
+8	publikaci	NNFS6-----A----	Adv
+9	s	RR--7----------	AuxP
+10	názvem	NNIS7-----A----	Atr
+11	Tomáš	NNMS1-----A----	Atr
+12	Skuhravý	NNMS1-----A----	Atr
+13	(	Z:-------------	ExD
+14	cena	NNFS1-----A----	ExD
+15	18	C=-------------	ExD
+16	Kčs	NNFXX-----A---8	Atr
+17	)	Z:-------------	ExD
+18	Nejlepšího	AAMS4----3A----	Atr
+19	fotbalistu	NNMS4-----A----	Obj
+20	Československa	NNNS2-----A----	Atr
+21	roku	NNIS2-----A---1	Atr
+22	1991	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+lnd91301-103-p2s2
+1	Knihu	NNFS4-----A----	Obj
+2	si	P7-X3----------	Obj
+3	můžete	VB-P---2P-AA---	Pred
+4	objednat	Vf--------A----	Obj
+5	na	RR--4----------	AuxP
+6	dobírku	NNFS4-----A----	Adv
+7	na	RR--6----------	AuxP
+8	adrese	NNFS6-----A----	Adv
+9	:	Z:-------------	AuxG
+10	Spektrum	NNNS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	P	AAXXX----1A---8	Atr
+13	.	Z:-------------	AuxG
+14	O	NNIXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	Box	NNIXX-----A----	Atr
+17	123	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	530	C=-------------	Atr
+20	02	C=-------------	Atr
+21	Pardubice	NNFP1-----A----	Atr
+22	.	Z:-------------	AuxK
+

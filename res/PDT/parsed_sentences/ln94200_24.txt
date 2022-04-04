@@ -1,0 +1,256 @@
+ln94200-24-p1s1
+1	Stát	NNIS1-----A----	Sb
+2	podpoří	VB-S---3P-AA---	Pred
+3	exportní	AAIP4----1A----	Atr
+4	podniky	NNIP4-----A----	Obj
+
+ln94200-24-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ip	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94200-24-p2s1B
+1	Česká	AAFS1----1A----	Atr
+2	exportní	AAFS1----1A----	Atr
+3	banka	NNFS1-----A----	Sb
+4	zahájí	VB-S---3P-AA---	Pred
+5	svoji	P8FS4----------	Atr
+6	činnost	NNFS4-----A----	Obj
+7	zřejmě	Dg-------1A----	AuxY
+8	letos	Db-------------	Adv
+9	na	RR--4----------	AuxP
+10	podzim	NNIS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94200-24-p2s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ředitel	NNMS1-----A----	Atr
+5	odboru	NNIS2-----A----	Atr
+6	zahraničně	Dg-------1A----	Adv
+7	obchodních	AAIP2----1A----	Atr
+8	vztahů	NNIP2-----A----	Atr
+9	ministerstva	NNNS2-----A----	Atr
+10	hospodářství	NNNS2-----A----	Atr
+11	Petr	NNMS1-----A----	Atr
+12	Pomezný	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94200-24-p3s1
+1	Bankovní	AAFS4----1A----	Atr
+2	licenci	NNFS4-----A----	Obj
+3	Česká	AAFS1----1A----	Atr
+4	exportní	AAFS1----1A----	Atr
+5	banka	NNFS1-----A----	Sb
+6	totiž	Db-------------	AuxY
+7	dostane	VB-S---3P-AA---	Pred
+8	až	TT-------------	AuxZ
+9	po	RR--6----------	AuxP
+10	přijetí	NNNS6-----A----	Adv
+11	zákona	NNIS2-----A----	Atr
+12	o	RR--6----------	AuxP
+13	financování	NNNS6-----A----	Atr
+14	a	J^-------------	Coord
+15	pojišťování	NNNS6-----A----	Atr
+16	vývozních	AAIP2----1A----	Atr
+17	úvěrů	NNIP2-----A----	Atr
+18	parlamentem	NNIS7-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94200-24-p3s2
+1	Ten	PDYS1----------	Sb
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	vládní	AAIS4----1A----	Atr
+5	návrh	NNIS4-----A----	Obj
+6	zákona	NNIS2-----A----	Atr
+7	projednat	Vf--------A----	Obj
+8	na	RR--6----------	AuxP
+9	svém	P8ZS6----------	Atr
+10	zářijovém	AANS6----1A----	Atr
+11	zasedání	NNNS6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94200-24-p3s3
+1	Podle	RR--2----------	AuxP
+2	Pomezného	NNMS2-----A----	Adv
+3	počítá	VB-S---3P-AA---	Pred
+4	návrh	NNIS1-----A----	Sb
+5	zákona	NNIS2-----A----	Atr
+6	s	RR--7----------	AuxP
+7	tím	PDZS7----------	Obj
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	stát	NNIS1-----A----	Sb
+11	bude	VB-S---3F-AA---	AuxV
+12	úroky	NNIP4-----A----	Obj
+13	u	RR--2----------	AuxP
+14	vývozních	AAIP2----1A----	Atr
+15	úvěrů	NNIP2-----A----	Atr
+16	částečně	Dg-------1A----	Adv
+17	dotovat	Vf--------A----	Atr
+18	ze	RV--2----------	AuxP
+19	státního	AAIS2----1A----	Atr
+20	rozpočtu	NNIS2-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln94200-24-p3s4
+1	Jak	Db-------------	Adv
+2	Petr	NNMS1-----A----	Atr
+3	Pomezný	NNMS1-----A----	Sb
+4	uvedl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	provozní	AAIS4----1A----	Atr
+7	kapitál	NNIS4-----A----	Obj
+8	by	Vc-------------	AuxV
+9	Česká	AAFS1----1A----	Atr
+10	exportní	AAFS1----1A----	Atr
+11	banka	NNFS1-----A----	Sb
+12	(	Z:-------------	Apos
+13	ČEB	NNFXX-----A---8	Sb
+14	)	Z:-------------	AuxG
+15	měla	VpQW---XR-AA---	Pred
+16	získat	Vf--------A----	Obj
+17	za	RR--2----------	AuxP
+18	výhodných	AAFP2----1A----	Atr
+19	podmínek	NNFP2-----A----	Adv
+20	na	RR--6----------	AuxP
+21	mezinárodním	AAIS6----1A----	Atr
+22	kapitálovém	AAIS6----1A----	Atr
+23	trhu	NNIS6-----A----	AdvAtr
+24	.	Z:-------------	AuxK
+
+ln94200-24-p3s5
+1	Na	RR--4----------	AuxP
+2	činnost	NNFS4-----A----	Adv
+3	související	AGFS4-----A----	Atr
+4	se	RV--7----------	AuxP
+5	založením	NNNS7-----A----	Obj
+6	ČEB	NNFXX-----A---8	Atr
+7	již	Db-------------	Adv
+8	bylo	VpNS---XR-AA---	AuxV
+9	podle	RR--2----------	AuxP
+10	jeho	PSXXXZS3-------	Atr
+11	slov	NNNP2-----A----	Adv
+12	uvolněno	VsNS---XX-AP---	Pred
+13	půl	NNFS1-----A----	Sb
+14	milionu	NNIS2-----A----	Atr
+15	ECU	NNFXX-----A---8	Atr
+16	z	RR--2----------	AuxP
+17	programu	NNIS2-----A----	Adv
+18	PHARE	NNIXX-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94200-24-p3s6
+1	Základní	AAIS4----1A----	Atr
+2	kapitál	NNIS4-----A----	Obj
+3	ve	RV--6----------	AuxP
+4	výši	NNFS6-----A----	AtrAdv
+5	500	C=-------------	Atr
+6	milionů	NNIP2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	poskytl	VpYS---XR-AA--1	Pred
+9	stát	NNIS1-----A----	Sb
+10	z	RR--2----------	AuxP
+11	prostředků	NNIP2-----A----	Adv
+12	státního	AAIS2----1A----	Atr
+13	rozpočtu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94200-24-p4s1
+1	Z	RR--2----------	AuxP
+2	celkem	Db-------------	AuxZ
+3	2.5	C=-------------	Atr
+4	mil	NNIXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	ECU	NNFXX-----A---8	Adv
+7	určených	AAIP2----1A----	Atr
+8	na	RR--4----------	AuxP
+9	podporu	NNFS4-----A----	Obj
+10	českého	AAIS2----1A----	Atr
+11	exportu	NNIS2-----A----	Atr
+12	je	VB-S---3P-AA---	AuxV
+13	z	RR--2----------	AuxP
+14	programu	NNIS2-----A----	Adv
+15	PHARE	NNIXX-----A----	Atr
+16	určen	VsYS---XX-AP---	Pred
+17	další	AAIS1----1A----	Atr
+18	milion	NNIS1-----A----	Sb
+19	ECU	NNFXX-----A---8	Atr
+20	na	RR--4----------	AuxP
+21	projekt	NNIS4-----A----	Obj
+22	školení	NNNS2-----A----	Atr
+23	manažerů	NNMP2-----A----	Atr
+24	malých	AAIP2----1A----	Atr
+25	a	J^-------------	Coord
+26	středních	AAIP2----1A----	Atr
+27	podniků	NNIP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94200-24-p4s3
+1	Začátek	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	plánován	VsYS---XX-AP---	Pnom
+4	na	RR--4----------	AuxP
+5	leden	NNIS4-----A----	Adv
+6	příštího	AAIS2----1A----	Atr
+7	roku	NNIS2-----A---1	Atr
+8	.	Z:-------------	AuxK
+
+ln94200-24-p4s4
+1	Půl	NNFS1-----A----	Sb
+2	milionu	NNIS2-----A----	Atr
+3	ECU	NNFXX-----A---8	Atr
+4	je	VB-S---3P-AA---	Pred
+5	z	RR--2----------	AuxP
+6	PHARE	NNIXX-----A----	Atr
+7	určeno	VsNS---XX-AP---	Pnom
+8	i	J^-------------	AuxZ
+9	na	RR--4----------	AuxP
+10	institucionalizaci	NNFS4-----A----	Obj
+11	podpory	NNFS2-----A----	Atr
+12	vývozu	NNIS2-----A----	Atr
+13	a	J^-------------	Coord
+14	propagaci	NNFS4-----A----	Obj
+15	vývozní	AAFS2----1A----	Atr
+16	politiky	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94200-24-p5s1
+1	Podle	RR--2----------	AuxP
+2	slov	NNNP2-----A----	Adv
+3	ředitele	NNMS2-----A----	Atr
+4	Pomezného	NNMS2-----A----	Atr
+5	by	Vc-------------	AuxV
+6	se	P7-X4----------	AuxR
+7	měla	VpQW---XR-AA---	Pred
+8	podpora	NNFS1-----A----	Sb
+9	vývozu	NNIS2-----A----	Atr
+10	především	Db-------------	AuxZ
+11	na	RR--6----------	AuxP
+12	vládní	AAFS6----1A----	Atr
+13	úrovni	NNFS6-----A----	Adv
+14	v	RR--6----------	AuxP
+15	budoucnu	NNNS6-----A----	Adv
+16	zpřehlednit	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+ln94200-24-p5s2
+1	Proexportní	AAFS1----1A----	Atr
+2	politika	NNFS1-----A----	Sb
+3	však	J^-------------	AuxY
+4	vždy	Db-------------	Adv
+5	bude	VB-S---3F-AA---	Obj
+6	kombinací	NNFS7-----A----	Pnom
+7	vládních	AAFP2----1A----	Atr
+8	a	J^-------------	Coord
+9	nevládních	AAFP2----1N----	Atr
+10	iniciativ	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	dodal	VpYS---XR-AA---	Pred
+13	Pomezný	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+

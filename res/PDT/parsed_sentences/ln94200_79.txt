@@ -1,0 +1,235 @@
+ln94200-79-p1s1
+1	Mzdová	AAFS1----1A----	Atr
+2	regulace	NNFS1-----A----	Sb
+3	trvá	VB-S---3P-AA---	Pred
+
+ln94200-79-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	jap	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	pech	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94200-79-p2s1B
+1	Ani	J^-------------	AuxZ
+2	na	RR--6----------	AuxP
+3	včerejším	AANS6----1A----	Atr
+4	zasedání	NNNS6-----A----	Adv
+5	Rady	NNFS2-----A----	Atr
+6	hospodářské	AAFS2----1A----	Atr
+7	a	J^-------------	Coord
+8	sociální	AAFS2----1A----	Atr
+9	dohody	NNFS2-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	zástupci	NNMP1-----A----	Sb
+12	odborů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	vlády	NNFS2-----A----	Atr
+15	a	J^-------------	Coord
+16	zaměstnavatelů	NNMP2-----A----	Atr
+17	nedohodli	VpMP---XR-NA--1	Pred
+18	na	RR--6----------	AuxP
+19	zrušení	NNNS6-----A----	Obj
+20	mzdové	AAFS2----1A----	Atr
+21	regulace	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94200-79-p2s2
+1	Po	RR--6----------	AuxP
+2	jednání	NNNS6-----A----	Adv
+3	to	PDNS4----------	Obj
+4	oznámil	VpYS---XR-AA---	Pred
+5	předseda	NNMS1-----A----	Sb
+6	Rady	NNFS2-----A----	Atr
+7	,	Z:-------------	Apos
+8	ministr	NNMS1-----A----	Atr
+9	financí	NNFP2-----A----	Atr
+10	Ivan	NNMS1-----A----	Atr
+11	Kočárník	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94200-79-p2s3
+1	Vláda	NNFS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	podle	RR--2----------	AuxP
+4	něj	P5ZS2--3-------	Adv
+5	uvědomuje	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	mzdová	AAFS1----1A----	Atr
+9	regulace	NNFS1-----A----	Sb
+10	je	VB-S---3P-AA---	Obj
+11	anachronismem	NNIS7-----A----	Pnom
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	je	VB-S---3P-AA---	Pred
+15	ochotna	ACQW------A----	Pnom
+16	ji	PPFS4--3-------	Obj
+17	zrušit	Vf--------A----	Obj
+18	až	TT-------------	AuxZ
+19	po	RR--6----------	AuxP
+20	skončení	NNNS6-----A----	Adv
+21	druhé	CrFS2----------	Atr
+22	vlny	NNFS2-----A----	Atr
+23	kuponové	AAFS2----1A----	Atr
+24	privatizace	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94200-79-p2s4
+1	Zástupci	NNMP1-----A----	Sb
+2	odborů	NNIP2-----A----	Atr
+3	a	J^-------------	Coord
+4	zaměstnavatelů	NNMP2-----A----	Atr
+5	tvrdí	VB-P---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	regulace	NNFS1-----A----	Sb
+9	by	Vc-------------	AuxV
+10	měla	VpQW---XR-AA---	Obj
+11	být	Vf--------A----	AuxV
+12	zrušena	VsQW---XX-AP---	Obj
+13	okamžitě	Dg-------1A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94200-79-p2s5
+1	Údaje	NNIP1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	vývoji	NNIS6-----A----	Atr
+4	mezd	NNFP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	prvním	CrNS6----------	Atr
+7	letošním	AANS6----1A----	Atr
+8	pololetí	NNNS6-----A----	Atr
+9	by	Vc-------------	AuxV
+10	podle	RR--2----------	AuxP
+11	Kočárníka	NNMS2-----A----	Adv
+12	měly	VpTP---XR-AA---	Pred
+13	být	Vf--------A----	Obj
+14	k	RR--3----------	AuxP
+15	dispozici	NNFS3-----A----	Obj
+16	v	RR--6----------	AuxP
+17	září	NNNS6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94200-79-p3s1
+1	Tripartita	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	dále	Db------------1	Adv
+4	zabývala	VpQW---XR-AA---	Pred
+5	návrhem	NNIS7-----A----	Obj
+6	zákona	NNIS2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	státní	AAFS6----1A----	Atr
+9	službě	NNFS6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94200-79-p3s2
+1	Podle	RR--2----------	AuxP
+2	Kočárníka	NNMS2-----A----	Adv
+3	návrh	NNIS1-----A----	Sb
+4	ještě	Db-------------	Adv
+5	není	VB-S---3P-NA---	Pred
+6	dokončen	VsYS---XX-AP---	Pnom
+7	a	J^-------------	Coord
+8	Rada	NNFS1-----A----	Sb
+9	by	Vc-------------	AuxV
+10	o	RR--6----------	AuxP
+11	něm	P5ZS6--3-------	Obj
+12	měla	VpQW---XR-AA---	Pred
+13	jednat	Vf--------A----	Obj
+14	ještě	Db-------------	Adv
+15	jednou	Cv-------------	Adv
+16	.	Z:-------------	AuxK
+
+ln94200-79-p3s3
+1	Zde	Db-------------	Adv
+2	odborářům	NNMP3-----A----	Obj
+3	především	Db-------------	Adv
+4	vadí	VB-S---3P-AA---	Pred
+5	vládou	NNFS7-----A----	Obj
+6	navrhovaný	AAIS1----1A----	Atr
+7	zákaz	NNIS1-----A----	Sb
+8	stávky	NNFS2-----A----	Atr
+9	pro	RR--4----------	AuxP
+10	zaměstnance	NNMP4-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	státní	AAFS6----1A----	Atr
+13	správě	NNFS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94200-79-p4s1
+1	Po	RR--6----------	AuxP
+2	několika	Ca--6----------	Atr
+3	týdnech	NNIP6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	vládl	VpYS---XR-AA--1	Atr
+7	názor	NNIS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	se	P7-X4----------	AuxR
+11	v	RR--6----------	AuxP
+12	oblasti	NNFS6-----A----	Adv
+13	zdravotního	AANS2----1A----	Atr
+14	pojištění	NNNS2-----A----	Atr
+15	nedostává	VB-S---3P-NA---	Atr
+16	finančních	AAIP2----1A----	Atr
+17	prostředků	NNIP2-----A----	Obj
+18	,	Z:-------------	AuxX
+19	došlo	VpNS---XR-AA---	Pred
+20	včera	Db-------------	Adv
+21	na	RR--6----------	AuxP
+22	jednání	NNNS6-----A----	Adv
+23	Rady	NNFS2-----A----	Atr
+24	k	RR--3----------	AuxP
+25	dohodě	NNFS3-----A----	Obj
+26	.	Z:-------------	AuxK
+
+ln94200-79-p4s2
+1	Podle	RR--2----------	AuxP
+2	Kočárníka	NNMS2-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	všechny	PLFP1----------	Atr
+5	strany	NNFP1-----A----	Sb
+6	shodly	VpTP---XR-AA--1	Pred
+7	na	RR--6----------	AuxP
+8	tom	PDZS6----------	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	peněz	NNIP2-----A----	Atr
+12	je	VB-S---3P-AA---	Atr
+13	dostatek	NNIS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	je	VB-S---3P-AA---	Pred
+17	třeba	ACNS------A----	Pnom
+18	zavést	Vf--------A----	Sb
+19	důkladnější	AAFS4----2A----	Atr
+20	kontrolu	NNFS4-----A----	Obj
+21	výdajů	NNIP2-----A----	Atr
+22	a	J^-------------	Coord
+23	zlepšit	Vf--------A----	Sb
+24	systém	NNIS4-----A----	Obj
+25	přerozdělování	NNNS2-----A----	Atr
+26	peněz	NNIP2-----A----	Atr
+27	mezi	RR--7----------	AuxP
+28	pojišťovnami	NNFP7-----A----	Atr
+29	tak	Db-------------	Adv
+30	,	Z:-------------	AuxX
+31	aby	J,-------------	AuxC
+32	byly	VpTP---XR-AA---	AuxV
+33	finance	NNFP1-----A----	Sb
+34	rovnoměrně	Dg-------1A----	Adv
+35	rozloženy	VsTP---XX-AP---	Adv
+36	mezi	RR--4----------	AuxP
+37	plátce	NNMP4-----A----	Adv
+38	pojištění	NNNS2-----A----	Atr
+39	,	Z:-------------	AuxX
+40	pojišťovny	NNFP4-----A----	Adv
+41	a	J^-------------	Coord
+42	zdravotnická	AANP4----1A----	Atr
+43	zařízení	NNNP4-----A----	Adv
+44	.	Z:-------------	AuxK
+

@@ -1,0 +1,264 @@
+ln94211-29-p1s1
+1	Neexistující	AGFS1-----N----	Atr
+2	firma	NNFS1-----A----	Sb
+3	usiluje	VB-S---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	privatizaci	NNFS4-----A----	Obj
+6	petrochemie	NNFS2-----A----	Atr
+
+ln94211-29-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	il	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94211-29-p2s1B
+1	Doposud	Db-------------	Adv
+2	nezaložená	AAFS1----1N----	Atr
+3	firma	NNFS1-----A----	Sb
+4	KCF	NNNXX-----A---8	Atr
+5	Petrol	NNIS1-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	hodlá	VB-S---3P-AA---	Pred
+8	podílet	Vf--------A----	Obj
+9	na	RR--6----------	AuxP
+10	privatizaci	NNFS6-----A----	Obj
+11	české	AAFS2----1A----	Atr
+12	petrochemie	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94211-29-p2s2
+1	O	RR--4----------	AuxP
+2	rafinerie	NNFP4-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	již	Db-------------	Adv
+5	ucházejí	VB-P---3P-AA---	Pred
+6	vlastními	AAIP7----1A----	Atr
+7	projekty	NNIP7-----A----	Adv
+8	Mezinárodní	AANS1----1A----	Atr
+9	ropné	AANS1----1A----	Atr
+10	konsorcium	NNNS1-----A----	Sb
+11	IOC	NNNXX-----A---8	Atr
+12	(	Z:-------------	AuxG
+13	složené	AANS1----1A----	Atr
+14	z	RR--2----------	AuxP
+15	Agip	NNISX-----A----	Obj
+16	,	Z:-------------	AuxX
+17	Conoco	NNNS1-----A----	Obj
+18	,	Z:-------------	AuxX
+19	Shell	NNIS1-----A----	Obj
+20	a	J^-------------	Coord
+21	Total	NNIS1-----A----	Obj
+22	)	Z:-------------	AuxG
+23	,	Z:-------------	AuxX
+24	a	AAXXX----1A---8	Atr
+25	.	Z:-------------	AuxG
+26	s	NNFXX-----A---8	Sb
+27	.	Z:-------------	AuxG
+28	Chemapol	NNIS1-----A----	Atr
+29	a	J^-------------	Coord
+30	s	NNFXX-----A---8	Sb
+31	.	Z:-------------	AuxG
+32	r	NNNS7-----A---8	Atr
+33	.	Z:-------------	AuxG
+34	o	AANS7----1A---8	Atr
+35	.	Z:-------------	AuxG
+36	Inekon	NNIS1-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln94211-29-p3s1
+1	KCF	NNNXX-----A---8	Atr
+2	Petrol	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	údajně	Dg-------1A----	Adv
+5	konsorciem	NNNS7-----A----	Pnom
+6	30	C=-------------	Atr
+7	českých	AAIP2----1A----	Atr
+8	podniků	NNIP2-----A----	Atr
+9	(	Z:-------------	AuxG
+10	např	Db------------8	AuxZ
+11	.	Z:-------------	AuxG
+12	Chemapol	NNIS1-----A----	ExD
+13	,	Z:-------------	Coord
+14	Inekon	NNIS1-----A----	ExD
+15	a	J^-------------	Coord
+16	další	AAIP1----1A----	ExD
+17	)	Z:-------------	AuxG
+18	a	J^-------------	Coord
+19	bank	NNFP2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	které	P4NS1----------	Sb
+22	počítá	VB-S---3P-AA---	Atr
+23	s	RR--7----------	AuxP
+24	modernizací	NNFS7-----A----	Obj
+25	celého	AAIS2----1A----	Atr
+26	rafinersko	A2--------A----	Atr
+27	-	Z:-------------	Coord
+28	petrochemického	AAIS2----1A----	Atr
+29	komplexu	NNIS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94211-29-p3s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	novinářům	NNMP3-----A----	Obj
+4	M	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Černík	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	kterého	P4MS4----------	Obj
+9	svoláním	NNNS7-----A----	Obj
+10	tiskové	AAFS2----1A----	Atr
+11	konference	NNFS2-----A----	Atr
+12	pověřil	VpYS---XR-AA---	Atr
+13	Inekon	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94211-29-p3s3
+1	Podle	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	na	RR--4----------	AuxP
+4	tuto	PDFS4----------	Atr
+5	činnost	NNFS4-----A----	Atr
+6	má	VB-S---3P-AA---	Pred
+7	KCF	NNNXX-----A---8	Atr
+8	Petrol	NNIS1-----A----	Sb
+9	z	RR--2----------	AuxP
+10	Londýna	NNIS2-----A----	Adv
+11	a	J^-------------	Coord
+12	USA	NNIPX-----A----	Adv
+13	přislíben	VsYS---XX-AP---	Atv
+14	úvěr	NNIS4-----A----	Obj
+15	1.5	C=-------------	Atr
+16	miliardy	NNFS2-----A----	Atr
+17	dolarů	NNIP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94211-29-p3s4
+1	Projekt	NNIS1-----A----	Sb
+2	KCF	NNNXX-----A---8	Atr
+3	Petrol	NNIS1-----A----	Atr
+4	naplňuje	VB-S---3P-AA---	Pred
+5	rozhodující	AGIS4-----A----	Atr
+6	předpoklad	NNIS4-----A----	Obj
+7	vlády	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	petrochemický	AAIS1----1A----	Atr
+11	komplex	NNIS1-----A----	Sb
+12	jako	J,-------------	AuxY
+13	strategický	AAIS1----1A----	Atr
+14	obor	NNIS1-----A----	Atv
+15	zůstal	VpYS---XR-AA---	Atr
+16	v	RR--6----------	AuxP
+17	majetku	NNIS6-----A----	Adv
+18	českých	AAIP2----1A----	Atr
+19	subjektů	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94211-29-p3s5
+1	Na	RR--4----------	AuxP
+2	dotaz	NNIS4-----A----	Adv
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	vláda	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	prioritní	AAFS6----1A----	Atr
+9	záležitosti	NNFS6-----A----	Adv
+10	skutečně	Dg-------1A----	Adv
+11	jedná	VB-S---3P-AA---	Atr
+12	s	RR--7----------	AuxP
+13	někým	PZM-7----------	Obj
+14	,	Z:-------------	AuxX
+15	kdo	PKM-1----------	Sb
+16	není	VB-S---3P-NA---	Atr
+17	založen	VsYS---XX-AP---	Pnom
+18	a	J^-------------	Coord
+19	tedy	Db-------------	AuxY
+20	definován	VsYS---XX-AP---	Pnom
+21	,	Z:-------------	AuxX
+22	Černík	NNMS1-----A----	Sb
+23	řekl	VpYS---XR-AA---	Pred
+24	,	Z:-------------	AuxX
+25	že	J,-------------	AuxC
+26	ano	TT-------------	ExD
+27	.	Z:-------------	AuxK
+
+ln94211-29-p3s6
+1	Tato	PDNP4----------	Atr
+2	slova	NNNP4-----A----	Obj
+3	však	J^-------------	Coord
+4	upřesnil	VpYS---XR-AA---	Pred
+5	tak	Db-------------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	s	RR--7----------	AuxP
+9	vládou	NNFS7-----A----	Obj
+10	jedná	VB-S---3P-AA---	Adv
+11	Inekon	NNIS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94211-29-p3s7
+1	Můžeme	VB-P---1P-AA---	Obj
+2	říci	Vf--------A---1	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	Inekon	NNIS1-----A----	Sb
+6	je	VB-S---3P-AA---	Obj
+7	mluvčím	NNMS7-----A----	Pnom
+8	této	PDFS2----------	Atr
+9	skupiny	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	uvedl	VpYS---XR-AA---	Pred
+12	Černík	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94211-29-p3s8
+1	Ke	RV--3----------	AuxP
+2	zkušenostem	NNFP3-----A----	Adv
+3	Inekonu	NNIS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	oblasti	NNFS6-----A----	AuxP
+6	petrochemie	NNFS2-----A----	Atr
+7	řekl	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	má	VB-S---3P-AA---	Obj
+11	jisté	AAFP4----1A----	Atr
+12	aktivity	NNFP4-----A----	Obj
+13	v	RR--6----------	AuxP
+14	Rusku	NNNS6-----A----	AtrAdv
+15	,	Z:-------------	AuxX
+16	odkud	Db-------------	Adv
+17	loni	Db------------1	Adv
+18	dovezla	VpQW---XR-AA---	Atr
+19	malé	AANS4----1A----	Atr
+20	množství	NNNS4-----A----	Obj
+21	ropy	NNFS2-----A----	Atr
+22	do	RR--2----------	AuxP
+23	ČR	NNFXX-----A---8	Adv
+24	a	J^-------------	Coord
+25	v	RR--6----------	AuxP
+26	současné	AAFS6----1A----	Atr
+27	době	NNFS6-----A----	Adv
+28	jedná	VB-S---3P-AA---	Obj
+29	i	J^-------------	AuxZ
+30	ve	RV--6----------	AuxP
+31	Venezuele	NNFS6-----A----	Adv
+32	.	Z:-------------	AuxK
+
+ln94211-29-p4s1
+1	Vláda	NNFS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	o	RR--6----------	AuxP
+4	způsobu	NNIS6-----A---1	Obj
+5	privatizace	NNFS2-----A----	Atr
+6	petrochemie	NNFS2-----A----	Atr
+7	rozhodnout	Vf--------A----	Obj
+8	15	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	září	NNNS2-----A----	Adv
+11	.	Z:-------------	AuxK
+

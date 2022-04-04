@@ -1,0 +1,387 @@
+ln95044-119-p1s1
+1	Sporožiro	NNNS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	další	AAMP4----1A----	Atr
+4	konkurenty	NNMP4-----A----	Obj
+
+ln95044-119-p2s1A
+1	Platby	NNFP4-----A----	Obj
+2	sdruženého	AANS2----1A----	Atr
+3	inkasa	NNNS2-----A----	Atr
+4	dnes	Db-------------	Adv
+5	nabízejí	VB-P---3P-AA---	Pred
+6	minimálně	Dg-------1A----	AuxZ
+7	další	AAFP1----1A----	Atr
+8	čtyři	ClXP1----------	Atr
+9	banky	NNFP1-----A----	Sb
+
+ln95044-119-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-119-p2s1C
+1	České	AAFS3----1A----	Atr
+2	spořitelně	NNFS3-----A----	Obj
+3	,	Z:-------------	AuxX
+4	která	P4FS1----------	Sb
+5	měla	VpQW---XR-AA---	Atr
+6	až	TT-------------	AuxZ
+7	do	RR--2----------	AuxP
+8	nedávné	AAFS2----1N----	Atr
+9	doby	NNFS2-----A----	Adv
+10	monopol	NNIS4-----A----	Obj
+11	na	RR--4----------	AuxP
+12	sporožirové	AAIP4----1A----	Atr
+13	účty	NNIP4-----A----	Atr
+14	občanů	NNMP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	se	P7-X4----------	AuxT
+17	začíná	VB-S---3P-AA---	Pred
+18	rodit	Vf--------A----	Obj
+19	konkurence	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln95044-119-p2s2
+1	Trvalé	AAIP4----1A----	Atr
+2	příkazy	NNIP4-----A----	Obj
+3	k	RR--3----------	AuxP
+4	úhradě	NNFS3-----A----	Atr
+5	soustředěného	AANS2----1A----	Atr
+6	inkasa	NNNS2-----A----	Atr
+7	plateb	NNFP2-----A----	Atr
+8	obyvatelstva	NNNS2-----A----	Atr
+9	přijímají	VB-P---3P-AA---	Pred
+10	v	RR--6----------	AuxP
+11	rámci	NNIS6-----A----	AuxP
+12	běžných	AAIP2----1A----	Atr
+13	účtů	NNIP2-----A----	Adv
+14	podle	RR--2----------	AuxP
+15	informací	NNFP2-----A----	Adv
+16	LN	NNFPX-----A---8	Atr
+17	i	J^-------------	AuxZ
+18	další	AAFP1----1A----	Atr
+19	banky	NNFP1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln95044-119-p3s1
+1	Investiční	AAFS1----1A----	Atr
+2	a	J^-------------	Coord
+3	poštovní	AAFS1----1A----	Atr
+4	banka	NNFS1-----A----	Sb
+5	(	Z:-------------	Apos
+6	IPB	NNFXX-----A---8	Sb
+7	)	Z:-------------	AuxG
+8	začala	VpQW---XR-AA---	Pred
+9	účty	NNIP4-----A----	Obj
+10	podobné	AAIP4----1A----	Atr
+11	sporožiru	NNNS3-----A----	Obj
+12	zřizovat	Vf--------A----	Obj
+13	v	RR--6----------	AuxP
+14	září	NNNS6-----A----	Adv
+15	roku	NNIS2-----A---1	Atr
+16	1993	C=-------------	Atr
+17	;	Z:-------------	AuxK
+
+ln95044-119-p3s2
+1	v	RR--6----------	AuxP
+2	současnosti	NNFS6-----A----	Adv
+3	jich	PPXP2--3-------	Atr
+4	vede	VB-S---3P-AA---	Pred
+5	asi	TT-------------	AuxZ
+6	300	C=-------------	Obj
+7	tisíc	NNIS4-----A----	Atr
+8	,	Z:-------------	Coord
+9	přičemž	J,-------------	Adv
+10	denně	Dg-------1A----	Adv
+11	vyřizuje	VB-S---3P-AA---	Pred
+12	podle	RR--2----------	AuxP
+13	tiskového	AAMS2----1A----	Atr
+14	tajemníka	NNMS2-----A----	Adv
+15	banky	NNFS2-----A----	Atr
+16	asi	TT-------------	AuxZ
+17	1600	C=-------------	Obj
+18	nových	AAFP2----1A----	Atr
+19	žádostí	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95044-119-p4s1
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	České	AAFS2----1A----	Atr
+5	spořitelny	NNFS2-----A----	Adv
+6	však	J^-------------	Coord
+7	IPB	NNFXX-----A---8	Sb
+8	zatím	Db-------------	Adv
+9	nenabízí	VB-S---3P-NA---	Pred
+10	kontokorent	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	tedy	Db-------------	Apos
+13	možnost	NNFS4-----A----	Obj
+14	přečerpat	Vf--------A----	Atr
+15	do	RR--2----------	AuxP
+16	určité	AAFS2----1A----	Atr
+17	výše	NNFS2-----A----	Adv
+18	zůstatek	NNIS4-----A----	Obj
+19	na	RR--6----------	AuxP
+20	účtu	NNIS6-----A----	Atr
+21	,	Z:-------------	AuxX
+22	a	J^-------------	Coord
+23	rovněž	Db-------------	AuxZ
+24	úhradu	NNFS4-----A----	Obj
+25	telefonních	AAIP2----1A----	Atr
+26	poplatků	NNIP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95044-119-p4s2
+1	Ty	PDIP4----------	Obj
+2	musejí	VB-P---3P-AA---	Pred
+3	uživatelé	NNMP1-----A----	Sb
+4	postžira	NNNS2-----A----	Atr
+5	SPT	NNIXX-----A---8	Atr
+6	Telecom	NNIS1-----A----	Atr
+7	platit	Vf--------A----	Obj
+8	individuálně	Dg-------1A----	Adv
+9	.	Z:-------------	AuxK
+
+ln95044-119-p4s3
+1	Naopak	Db-------------	Adv
+2	výhodou	NNFS7-----A----	Pnom
+3	oproti	RR--3----------	AuxP
+4	sporožiru	NNNS3-----A----	AtrAdv
+5	je	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	klient	NNMS1-----A----	Sb
+9	není	VB-S---3P-NA---	AuxV
+10	vázán	VsYS---XX-AP---	Sb
+11	na	RR--4----------	AuxP
+12	pobočku	NNFS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	v	RR--6----------	AuxP
+15	níž	P9FS6----------	Adv
+16	si	P7-X3----------	Adv
+17	založil	VpYS---XR-AA---	Atr
+18	účet	NNIS4-----A----	Obj
+19	,	Z:-------------	Coord
+20	obslouží	VB-S---3P-AA---	Sb
+21	ho	PHZS4--3-------	Obj
+22	kterékoli	PZNS1---------1	Sb
+23	z	RR--2----------	AuxP
+24	3.5	C=-------------	Atr
+25	tisíce	NNIS2-----A----	Atr
+26	pracovišť	NNNP2-----A----	Atr
+27	na	RR--6----------	AuxP
+28	poštách	NNFP6-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95044-119-p5s1
+1	Se	RV--7----------	AuxP
+2	stejnou	AAFS7----1A----	Atr
+3	výhodou	NNFS7-----A----	Adv
+4	nabízí	VB-S---3P-AA---	Pred
+5	realizaci	NNFS4-----A----	Obj
+6	bezhotovostních	AAFP2----1A----	Atr
+7	měsíčních	AAFP2----1A----	Atr
+8	plateb	NNFP2-----A----	Atr
+9	za	RR--4----------	AuxP
+10	nájem	NNIS4-----A----	Atr
+11	,	Z:-------------	Coord
+12	záloh	NNFP2-----A----	Atr
+13	na	RR--4----------	AuxP
+14	odběr	NNIS4-----A----	Atr
+15	elektřiny	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	plynu	NNIS2-----A----	Atr
+18	včetně	RR--2----------	AuxP
+19	ročních	AAIP2----1A----	Atr
+20	doplatků	NNIP2-----A----	Atr
+21	,	Z:-------------	Coord
+22	na	RR--4----------	AuxP
+23	telefonní	AAIP4----1A----	Atr
+24	poplatky	NNIP4-----A----	Atr
+25	,	Z:-------------	AuxX
+26	rozhlas	NNIS4-----A----	Atr
+27	,	Z:-------------	AuxX
+28	televizi	NNFS4-----A----	Atr
+29	,	Z:-------------	Coord
+30	předplatné	NNNS4-----A----	Atr
+31	tisku	NNIS2-----A----	Atr
+32	atd	Db------------8	Atr
+33	.	Z:-------------	AuxG
+34	také	Db-------------	AuxZ
+35	Banka	NNFS1-----A----	Sb
+36	Haná	NNFS1-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln95044-119-p5s2
+1	Prozatím	Db-------------	ExD
+2	však	J^-------------	Coord
+3	pouze	Db-------------	AuxZ
+4	na	RR--6----------	AuxP
+5	území	NNNS6-----A----	ExD
+6	Prahy	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	bývalého	AAIS2----1A----	Atr
+9	středočeského	AAIS2----1A----	Atr
+10	kraje	NNIS2-----A----	Atr
+11	a	J^-------------	Coord
+12	Moravy	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95044-119-p5s3
+1	Klienti	NNMP1-----A----	Sb
+2	ze	RV--2----------	AuxP
+3	severu	NNIS2-----A----	Atr
+4	Moravy	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	Prahy	NNFS2-----A----	Atr
+7	si	P7-X3----------	Adv
+8	navíc	Db-------------	Adv
+9	mohou	VB-P---3P-AA--1	Pred
+10	stanovit	Vf--------A----	Obj
+11	limit	NNIS4-----A----	Obj
+12	maximální	AAFS2----1A----	Atr
+13	úhrady	NNFS2-----A----	Atr
+14	těchto	PDXP2----------	Atr
+15	plateb	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95044-119-p5s4
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	některá	PZFS1----------	Sb
+4	z	RR--2----------	AuxP
+5	plateb	NNFP2-----A----	Atr
+6	měla	VpQW---XR-AA---	Adv
+7	překročit	Vf--------A----	Obj
+8	obvyklou	AAFS4----1A----	Atr
+9	částku	NNFS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	neuskuteční	VB-S---3P-NA---	Pred
+12	banka	NNFS1-----A----	Sb
+13	úhradu	NNFS4-----A----	Obj
+14	z	RR--2----------	AuxP
+15	účtu	NNIS2-----A----	Atr
+16	automaticky	Dg-------1A----	Adv
+17	,	Z:-------------	AuxX
+18	ale	J^-------------	Coord
+19	pošle	VB-S---3P-AA---	Pred
+20	klientovi	NNMS3-----A----	Obj
+21	platební	AAIS4----1A----	Atr
+22	podklad	NNIS4-----A----	Obj
+23	,	Z:-------------	AuxX
+24	na	RR--6----------	AuxP
+25	jehož	P1XXXZS3-------	Atr
+26	základě	NNIS6-----A----	Adv
+27	může	VB-S---3P-AA---	Atr
+28	klient	NNMS1-----A----	Sb
+29	případně	Dg-------1A----	Adv
+30	uplatnit	Vf--------A----	Obj
+31	reklamaci	NNFS4-----A----	Obj
+32	.	Z:-------------	AuxK
+
+ln95044-119-p6s1
+1	Ekoagrobanka	NNFS1-----A----	Sb
+2	vede	VB-S---3P-AA---	Pred
+3	žirové	AAIP4----1A----	Atr
+4	účty	NNIP4-----A----	Obj
+5	občanů	NNMP2-----A----	Atr
+6	na	RR--6----------	AuxP
+7	všech	PLXP6----------	Atr
+8	svých	P8XP6----------	Atr
+9	obchodních	AANP6----1A----	Atr
+10	místech	NNNP6-----A----	Adv
+11	s	RR--7----------	AuxP
+12	výjimkou	NNFS7-----A----	AuxP
+13	západočeského	AAIS2----1A----	Atr
+14	kraje	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95044-119-p6s2
+1	I	J^-------------	AuxZ
+2	klientům	NNMP3-----A----	Obj
+3	tohoto	PDZS2----------	Atr
+4	ústavu	NNIS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	nabízí	VB-S---3P-AA---	Pred
+7	možnost	NNFS1-----A----	Sb
+8	být	Vf--------A----	AuxV
+9	obsloužen	VsYS---XX-AP---	Atr
+10	na	RR--6----------	AuxP
+11	kterémkoliv	PZZS6----------	Adv
+12	ze	RV--2----------	AuxP
+13	zhruba	Db-------------	AuxZ
+14	70	C=-------------	Atr
+15	obchodních	AANP2----1A----	Atr
+16	míst	NNNP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95044-119-p6s3
+1	Stejně	Dg-------1A----	Adv
+2	jako	J,-------------	AuxC
+3	u	RR--2----------	AuxP
+4	předchozích	AAFP2----1A----	Atr
+5	dvou	ClXP2----------	Atr
+6	jmenovaných	AAFP2----1A----	Atr
+7	bank	NNFP2-----A----	ExD
+8	může	VB-S---3P-AA---	Pred
+9	zákazník	NNMS1-----A----	Sb
+10	použít	Vf--------A----	Obj
+11	platební	AAFP4----1A----	Atr
+12	karty	NNFP4-----A----	Obj
+13	Euro	AAXXX----1A----	Atr
+14	Card	NNFXX-----A----	Atr
+15	a	J^-------------	Coord
+16	Master	AAXXX----1A----	Atr
+17	Card	NNFXX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95044-119-p6s4
+1	Ani	J^-------------	AuxZ
+2	tato	PDFS1----------	Atr
+3	banka	NNFS1-----A----	Sb
+4	nepočítá	VB-S---3P-NA---	Pred
+5	s	RR--7----------	AuxP
+6	větším	AANS7----2A----	Atr
+7	rozšířením	NNNS7-----A----	Obj
+8	kontokorentu	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95044-119-p7s1
+1	Moravia	AAXXX----1A----	Atr
+2	banka	NNFS1-----A----	Sb
+3	vede	VB-S---3P-AA---	Pred
+4	osobní	AAIP4----1A----	Atr
+5	účty	NNIP4-----A----	Obj
+6	s	RR--7----------	AuxP
+7	trvalými	AAIP7----1A----	Atr
+8	příkazy	NNIP7-----A----	Atr
+9	k	RR--3----------	AuxP
+10	úhradě	NNFS3-----A----	Atr
+11	sdruženého	AANS2----1A----	Atr
+12	inkasa	NNNS2-----A----	Atr
+13	od	RR--2----------	AuxP
+14	srpna	NNIS2-----A----	Adv
+15	loňského	AAIS2----1A----	Atr
+16	roku	NNIS2-----A---1	Atr
+17	,	Z:-------------	Coord
+18	Foresbanka	NNFS1-----A----	Sb
+19	již	Db-------------	Adv
+20	podepsala	VpQW---XR-AA---	Pred
+21	příslušnou	AAFS4----1A----	Atr
+22	smlouvu	NNFS4-----A----	Obj
+23	s	RR--7----------	AuxP
+24	Českou	AAFS7----1A----	Atr
+25	poštou	NNFS7-----A----	AtrAdv
+26	a	J^-------------	Coord
+27	první	CrIP4----------	Atr
+28	účty	NNIP4-----A----	Obj
+29	tohoto	PDZS2----------	Atr
+30	typu	NNIS2-----A----	Atr
+31	zavede	VB-S---3P-AA---	Pred
+32	v	RR--6----------	AuxP
+33	nejbližší	AAFS6----3A----	Atr
+34	době	NNFS6-----A----	Adv
+35	.	Z:-------------	AuxK
+

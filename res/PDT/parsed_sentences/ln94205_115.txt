@@ -1,0 +1,204 @@
+ln94205-115-p1s1
+1	Překvapivé	AANS1----1A----	Atr
+2	vítězství	NNNS1-----A----	ExD
+3	Turnova	NNIS2-----A----	Atr
+
+ln94205-115-p2s1A
+1	Uherské	AANS1----1A----	Atr
+2	Hradiště	NNNS1-----A----	ExD
+3	stále	Db-------------	ExD
+4	s	RR--7----------	AuxP
+5	plným	AAIS7----1A----	Atr
+6	počtem	NNIS7-----A----	ExD
+7	bodů	NNIP2-----A----	Atr
+
+ln94205-115-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	lt	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94205-115-p2s1C
+1	Druhá	CrFS1----------	Atr
+2	fotbalová	AAFS1----1A----	Atr
+3	liga	NNFS1-----A----	Sb
+4	včera	Db-------------	Adv
+5	pokračovala	VpQW---XR-AA---	Pred
+6	po	RR--6----------	AuxP
+7	úterní	AAFS6----1A----	Atr
+8	předehrávce	NNFS6-----A----	Adv
+9	Lerk	NNMS1-----A----	Atr
+10	Brno	NNNS1-----A----	Atr
+11	-	Z:-------------	Coord
+12	Xaverov	NNIS1-----A----	Atr
+13	(	Z:-------------	AuxG
+14	6	C=-------------	ExD
+15	:	Z:-------------	Coord
+16	0	C=-------------	ExD
+17	)	Z:-------------	AuxG
+18	dalšími	AAIP7----1A----	Atr
+19	zápasy	NNIP7-----A----	Adv
+20	předehrávaného	AANS2----1A----	Atr
+21	16	C=-------------	Atr
+22	.	Z:-------------	AuxG
+23	kola	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94205-115-p2s2
+1	Svoji	P8FS4----------	Atr
+2	neporazitelnost	NNFS4-----A----	Obj
+3	si	P7-X3----------	Adv
+4	i	J^-------------	AuxZ
+5	nadále	Db-------------	Adv
+6	udržuje	VB-S---3P-AA---	Pred
+7	nováček	NNMS1-----A----	Sb
+8	z	RR--2----------	AuxP
+9	Uherského	AANS2----1A----	Atr
+10	Hradiště	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	tentokrát	Db-------------	Adv
+14	porazil	VpYS---XR-AA---	Atr
+15	Havířov	NNIS4-----A----	Obj
+16	zejména	Db-------------	AuxZ
+17	díky	RR--3----------	AuxP
+18	výbornému	AAIS3----1A----	Atr
+19	úvodu	NNIS3-----A----	Adv
+20	,	Z:-------------	AuxX
+21	a	J^-------------	Coord
+22	bez	RR--2----------	AuxP
+23	ztráty	NNFS2-----A----	Adv
+24	bodu	NNIS2-----A----	Atr
+25	vede	VB-S---3P-AA---	Atr
+26	druholigovou	AAFS4----1A----	Atr
+27	tabulku	NNFS4-----A----	Obj
+28	.	Z:-------------	AuxK
+
+ln94205-115-p2s3
+1	Slabou	AAFS7----1A----	Atr
+2	útěchou	NNFS7-----A----	Pnom
+3	pro	RR--4----------	AuxP
+4	Havířovské	AAMP4----1A----	Atr
+5	může	VB-S---3P-AA---	Pred
+6	být	Vf--------A----	Obj
+7	snad	Db-------------	AuxY
+8	jen	TT-------------	AuxZ
+9	to	PDNS1----------	Sb
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	se	P7-X4----------	AuxT
+13	jim	PPXP3--3-------	Obj
+14	v	RR--6----------	AuxP
+15	90	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	minutě	NNFS6-----A----	Adv
+18	podařilo	VpNS---XR-AA---	Atr
+19	dát	Vf--------A----	Sb
+20	Uh	AAXXX----1A---8	Atr
+21	.	Z:-------------	AuxG
+22	Brodu	NNIS3-----A----	Obj
+23	vůbec	Db-------------	AuxZ
+24	první	CrFS4----------	Atr
+25	branku	NNFS4-----A----	Obj
+26	v	RR--6----------	AuxP
+27	letošním	AAIS6----1A----	Atr
+28	ročníku	NNIS6-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94205-115-p2s5
+1	Do	RR--2----------	AuxP
+2	střelecké	AAFS2----1A----	Atr
+3	formy	NNFS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	posledních	AAIP6----1A----	Atr
+7	zápasech	NNIP6-----A----	Adv
+8	dostává	VB-S---3P-AA---	Pred
+9	opavský	AAMS1----1A----	Atr
+10	Bartl	NNMS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	dvěma	ClFD7----------	Atr
+14	brankami	NNFP7-----A----	Adv
+15	zařídil	VpYS---XR-AA---	Atr
+16	výhru	NNFS4-----A----	Obj
+17	svého	P8ZS2----------	Atr
+18	mužstva	NNNS2-----A----	Atr
+19	nad	RR--7----------	AuxP
+20	hosty	NNMP7-----A----	Atr
+21	z	RR--2----------	AuxP
+22	Frýdku	NNIS2-----A----	Atr
+23	-	Z:-------------	AuxG
+24	Místku	NNIS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94205-115-p2s6
+1	Ještě	Db-------------	AuxZ
+2	úspěšnější	AAMS1----2A----	Pnom
+3	byl	VpYS---XR-AA---	Pred
+4	ústecký	AAMS1----1A----	Atr
+5	Procházka	NNMS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	jenž	PJYS1----------	Sb
+8	zaznamenal	VpYS---XR-AA---	Atr
+9	hattrick	NNIS4-----A----	Obj
+10	ve	RV--6----------	AuxP
+11	vítězném	AANS6----1A----	Atr
+12	utkání	NNNS6-----A----	Adv
+13	s	RR--7----------	AuxP
+14	Bohumínem	NNIS7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94205-115-p2s7
+1	Asi	TT-------------	AuxZ
+2	největším	AANS7----3A----	Atr
+3	překvapením	NNNS7-----A----	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	domácí	AAFS1----1A----	Atr
+6	porážka	NNFS1-----A----	Sb
+7	do	RR--2----------	AuxP
+8	tohoto	PDZS2----------	Atr
+9	kola	NNNS2-----A----	Adv
+10	neporažených	AAFP2----1N----	Atr
+11	Vítkovic	NNFP2-----A----	Atr
+12	od	RR--2----------	AuxP
+13	Turnova	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94205-115-p3s4
+1	Rozhodčí	NNMS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Boubín	NNMS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+ln94205-115-p4s2
+1	Bartl	NNMS1-----A----	ExD
+2	.	Z:-------------	AuxK
+
+ln94205-115-p4s3
+1	Rozhodčí	NNMS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Lendfeld	NNMS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+ln94205-115-p5s4
+1	Rozhodčí	NNMS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Beneš	NNMS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+ln94205-115-p6s2
+1	Čabala	NNMS1-----A----	ExD
+2	z	RR--2----------	AuxP
+3	pok	AAXXX----1A---8	Atr
+4	.	Z:-------------	AuxG
+5	kopu	NNIS2-----A----	ExD
+6	.	Z:-------------	AuxK
+
+ln94205-115-p6s3
+1	Rozhodčí	NNMS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Čičmanec	NNMS1-----A----	ExD
+4	.	Z:-------------	AuxK
+

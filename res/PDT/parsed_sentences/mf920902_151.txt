@@ -1,0 +1,193 @@
+mf920902-151-p1s1A
+1	Kalifornský	AAIS1----1A----	Atr
+2	stát	NNIS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	roli	NNFS6-----A----	ExD
+5	dlužníka	NNMS2-----A----	Atr
+
+mf920902-151-p1s1B
+1	GUVERNÉR	NNMS1-----A----	Sb
+2	TRUCUJE	VB-S---3P-AA---	Pred
+3	A	J^-------------	Coord
+4	NEPODEPSAL	VpYS---XR-NA---	Pred
+
+mf920902-151-p2s1
+1	Washington	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920902-151-p2s2
+1	Kalifornii	NNFS3-----A----	Obj
+2	,	Z:-------------	Apos
+3	nejlidnatějšímu	AAIS3----3A----	Atr
+4	státu	NNIS3-----A----	Obj
+5	Unie	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	hrozí	VB-S---3P-AA---	Pred
+8	finanční	AAIS1----1A----	Atr
+9	kolaps	NNIS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+mf920902-151-p2s3
+1	Rozpočtová	AAFS1----1A----	Atr
+2	krize	NNFS1-----A----	Sb
+3	zde	Db-------------	Adv
+4	trvá	VB-S---3P-AA---	Pred
+5	již	Db-------------	AuxZ
+6	více	Dg-------2A----	Adv
+7	než	J,-------------	AuxC
+8	dva	ClYP4----------	Atr
+9	měsíce	NNIP4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+mf920902-151-p2s4
+1	Republikánský	AAMS1----1A----	Atr
+2	guvernér	NNMS1-----A----	Atr
+3	státu	NNIS2-----A----	Atr
+4	Pete	NNMS1-----A----	Atr
+5	Wilson	NNMS1-----A----	Sb
+6	odmítá	VB-S---3P-AA---	Pred
+7	podepsat	Vf--------A----	Obj
+8	nový	AAIS4----1A----	Atr
+9	rozpočet	NNIS4-----A----	Obj
+10	ve	RV--6----------	AuxP
+11	výši	NNFS6-----A----	Adv
+12	57.6	C=-------------	Atr
+13	miliardy	NNFS2-----A----	Atr
+14	dolarů	NNIP2-----A----	Atr
+15	a	J^-------------	Coord
+16	od	RR--2----------	AuxP
+17	1	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	července	NNIS2-----A----	Adv
+20	stát	NNIS1-----A----	Sb
+21	Kalifornie	NNFS1-----A----	Atr
+22	vyplácí	VB-S---3P-AA---	Pred
+23	svých	P8XP2----------	Atr
+24	274000	C=-------------	Obj
+25	zaměstnanců	NNMP2-----A----	Atr
+26	státními	AAIP7----1A----	Atr
+27	dluhopisy	NNIP7-----A----	Adv
+28	.	Z:-------------	AuxK
+
+mf920902-151-p2s5
+1	Údajně	Dg-------1A----	Adv
+2	bylo	VpNS---XR-AA---	AuxV
+3	už	Db-------------	Adv
+4	vydáno	VsNS---XX-AP---	Pred
+5	za	RR--4----------	AuxP
+6	3.3	C=-------------	Atr
+7	miliardy	NNFS2-----A----	Atr
+8	dolarů	NNIP2-----A----	Atr
+9	těchto	PDXP2----------	Atr
+10	směnek	NNFP2-----A----	Sb
+11	.	Z:-------------	AuxK
+
+mf920902-151-p2s6
+1	Kalifornská	AAFS1----1A----	Atr
+2	legislativa	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	AuxV
+4	kontrolována	VsQW---XX-AP---	Pred
+5	demokraty	NNMP7-----A----	Obj
+6	,	Z:-------------	Coord
+7	guvernér	NNMS1-----A----	Sb
+8	je	VB-S---3P-AA---	Pred
+9	republikán	NNMS1-----A----	Pnom
+10	.	Z:-------------	AuxK
+
+mf920902-151-p2s7
+1	Popularita	NNFS1-----A----	Sb
+2	poslanců	NNMP2-----A----	Atr
+3	i	J^-------------	Coord
+4	guvernérova	AUFS1M---------	Atr
+5	je	VB-S---3P-AA---	Pred
+6	podle	RR--2----------	AuxP
+7	tisku	NNIS2-----A----	Adv
+8	v	RR--6----------	AuxP
+9	USA	NNIPX-----A----	AtrAdv
+10	na	RR--6----------	AuxP
+11	nejnižším	AAIS6----3A----	Atr
+12	bodě	NNIS6-----A----	Adv
+13	v	RR--6----------	AuxP
+14	celé	AAFS6----1A----	Atr
+15	historii	NNFS6-----A----	Atr
+16	státu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920902-151-p2s8
+1	Lidé	NNMP1-----A---1	Sb
+2	demonstrují	VB-P---3P-AA---	Pred
+3	a	J^-------------	Coord
+4	požadují	VB-P---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	guvernér	NNMS1-----A----	Sb
+8	podepsal	VpYS---XR-AA---	Obj
+9	rozpočet	NNIS4-----A----	Obj
+10	a	J^-------------	Coord
+11	urychleně	Dg-------1A----	Adv
+12	byly	VpTP---XR-AA---	AuxV
+13	vyplaceny	VsTP---XX-AP---	Obj
+14	dlužné	AAIP1----1A----	Atr
+15	peníze	NNIP1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+mf920902-151-p2s9
+1	Nejvíce	Dg-------3A----	Adv
+2	postiženými	AAMP7----1A----	Pnom
+3	jsou	VB-P---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	Kalifornii	NNFS6-----A----	Adv
+6	nejchudší	AAMP1----3A----	Atr
+7	a	J^-------------	Coord
+8	nemocní	AAMP1----1A----	Atr
+9	obyvatelé	NNMP1-----A----	Sb
+10	státu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf920902-151-p2s10
+1	Řada	NNFS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	totiž	Db-------------	AuxY
+5	nedostává	VB-S---3P-NA---	Pred
+6	nemocenské	AANS4----1A----	Atr
+7	pojištění	NNNS4-----A----	Obj
+8	buďto	J^-------------	AuxY
+9	vůbec	Db-------------	Adv
+10	,	Z:-------------	AuxX
+11	nebo	J^-------------	Coord
+12	až	TT-------------	AuxZ
+13	s	RR--7----------	AuxP
+14	velkým	AANS7----1A----	Atr
+15	zpožděním	NNNS7-----A----	Adv
+16	.	Z:-------------	AuxK
+
+mf920902-151-p2s11
+1	Státní	AAIP4----1A----	Atr
+2	dluhopisy	NNIP4-----A----	Obj
+3	místo	RR--2----------	AuxP
+4	peněz	NNIP2-----A----	Adv
+5	dostali	VpMP---XR-AA---	Pred
+6	například	Db-------------	AuxZ
+7	i	J^-------------	AuxZ
+8	hasiči	NNMP1-----A----	Sb
+9	bojující	AGMP1-----A----	Atr
+10	proti	RR--3----------	AuxP
+11	lesním	AAIP3----1A----	Atr
+12	požárům	NNIP3-----A----	Adv
+13	v	RR--6----------	AuxP
+14	Kalifornii	NNFS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920902-151-p2s12
+1	Restaurace	NNFP1-----A----	Sb
+2	a	J^-------------	Coord
+3	obchody	NNIP1-----A----	Sb
+4	však	J^-------------	AuxY
+5	tyto	PDFP4----------	Atr
+6	směnky	NNFP4-----A----	Obj
+7	většinou	Db-------------	Adv
+8	odmítají	VB-P---3P-AA---	Pred
+9	přijímat	Vf--------A----	Obj
+10	.	Z:-------------	AuxK
+

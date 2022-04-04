@@ -1,0 +1,95 @@
+lnd91303-106-p1s1
+1	Služby	NNFP1-----A----	ExD
+2	Devětsilu	NNIS2-----A----	Atr
+
+lnd91303-106-p2s1
+1	PRAHA	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-106-p3s1
+1	Dokončený	AAIS4----1A----	Atr
+2	objekt	NNIS4-----A----	Obj
+3	kulturně	Dg-------1A----	Atr
+4	-	Z:-------------	Coord
+5	společenského	AANS2----1A----	Atr
+6	střediska	NNNS2-----A----	Atr
+7	Devětsil	NNIS1-----A----	Atr
+8	na	RR--6----------	AuxP
+9	sídlišti	NNNS6-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Chodově	NNIS6-----A----	Atr
+12	odprodal	VpYS---XR-AA---	Pred
+13	magistrát	NNIS1-----A----	Sb
+14	nově	Dg-------1A----	Adv
+15	vzniklé	AAFS3----1A----	Atr
+16	společnosti	NNFS3-----A----	Obj
+17	Pražská	AAFS1----1A----	Atr
+18	obchodní	AAFS1----1A----	Atr
+19	asociace	NNFS1-----A----	Atr
+20	/	Z:-------------	Apos
+21	POA	NNFXX-----A---8	Atr
+22	/	Z:-------------	AuxG
+23	,	Z:-------------	AuxX
+24	která	P4FS1----------	Sb
+25	v	RR--6----------	AuxP
+26	něm	P5ZS6--3-------	Adv
+27	zřídí	VB-S---3P-AA---	Atr
+28	bazén	NNIS4-----A----	Obj
+29	,	Z:-------------	AuxX
+30	fitcentrum	NNNS4-----A----	Obj
+31	,	Z:-------------	AuxX
+32	lékařskou	AAFS4----1A----	Atr
+33	ordinaci	NNFS4-----A----	Obj
+34	a	J^-------------	Coord
+35	kosmetickou	AAFS4----1A----	Atr
+36	poradnu	NNFS4-----A----	Obj
+37	.	Z:-------------	AuxK
+
+lnd91303-106-p3s2
+1	Občané	NNMP1-----A----	Sb
+2	Jižního	AANS2----1A----	Atr
+3	Města	NNNS2-----A----	Atr
+4	i	J^-------------	Coord
+5	celé	AAFS2----1A----	Atr
+6	Prahy	NNFS2-----A----	Atr
+7	tu	Db------------1	Adv
+8	najdou	VB-P---3P-AA---	Pred
+9	i	J^-------------	AuxZ
+10	filmové	AAIP4----1A----	Atr
+11	a	J^-------------	Coord
+12	divadelní	AAIP4----1A----	Atr
+13	programy	NNIP4-----A----	Obj
+14	ve	RV--6----------	AuxP
+15	velkém	AAIS6----1A----	Atr
+16	sále	NNIS6-----A----	Adv
+17	i	J^-------------	Coord
+18	v	RR--6----------	AuxP
+19	řadě	NNFS6-----A----	Adv
+20	menších	AAIP2----2A----	Atr
+21	salónků	NNIP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd91303-106-p3s3
+1	Bude	VB-S---3F-AA---	Pred
+2	tu	Db------------1	Adv
+3	i	J^-------------	AuxZ
+4	pivnice	NNFS1-----A----	Sb
+5	s	RR--7----------	AuxP
+6	barem	NNIS7-----A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd91303-106-p3s4
+1	Společnost	NNFS1-----A----	Sb
+2	POA	NNFXX-----A---8	Atr
+3	také	Db-------------	Adv
+4	otevře	VB-S---3P-AA---	Pred
+5	obchodní	AAFS4----1A----	Atr
+6	pasáž	NNFS4-----A----	Obj
+7	a	J^-------------	Coord
+8	ubytovací	AANS4----1A----	Atr
+9	zařízení	NNNS4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	300	C=-------------	Atr
+12	osob	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+

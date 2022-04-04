@@ -1,0 +1,82 @@
+ln94203-69-p1s1
+1	Vítězství	NNNS1-----A----	Sb
+2	PRI	NNFXX-----A---8	Atr
+3	v	RR--6----------	AuxP
+4	Mexiku	NNNS6-----A----	Atr
+5	potvrzeno	VsNS---XX-AP---	Pred
+
+ln94203-69-p2s1A
+1	Mexiko	NNNS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94203-69-p2s1B
+1	Vítězství	NNNS4-----A----	Obj
+2	kandidáta	NNMS2-----A----	Atr
+3	vládnoucí	AGFS2-----A----	Atr
+4	mexické	AAFS2----1A----	Atr
+5	Institucionální	AAFS2----1A----	Atr
+6	revoluční	AAFS2----1A----	Atr
+7	strany	NNFS2-----A----	Atr
+8	(	Z:-------------	Apos
+9	PRI	NNFXX-----A---8	Atr
+10	)	Z:-------------	AuxG
+11	Ernesta	NNMS2-----A----	Atr
+12	Zedilla	NNMS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	prezidentských	AAFP6----1A----	Atr
+15	volbách	NNFP6-----A----	Atr
+16	včera	Db-------------	Adv
+17	definitivně	Dg-------1A----	Adv
+18	potvrdil	VpYS---XR-AA---	Pred
+19	Federální	AAIS1----1A----	Atr
+20	volební	AAIS1----1A----	Atr
+21	ústav	NNIS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln94203-69-p2s2
+1	Prezidentské	AAFP1----1A----	Atr
+2	volby	NNFP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Mexiku	NNNS6-----A----	Atr
+5	,	Z:-------------	AuxX
+6	kde	Db-------------	Adv
+7	si	P7-X3----------	Adv
+8	PRI	NNFXX-----A---8	Sb
+9	drží	VB-S---3P-AA---	Atr
+10	mocenský	AAIS4----1A----	Atr
+11	monopol	NNIS4-----A----	Obj
+12	od	RR--2----------	AuxP
+13	roku	NNIS2-----A---1	Adv
+14	1929	C=-------------	Atr
+15	,	Z:-------------	AuxX
+16	se	P7-X4----------	AuxT
+17	odehrály	VpTP---XR-AA---	Pred
+18	bez	RR--2----------	AuxP
+19	větších	AAIP2----2A----	Atr
+20	incidentů	NNIP2-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln94203-69-p2s3
+1	Konfederace	NNFS1-----A----	Sb
+2	národních	AAFP2----1A----	Atr
+3	obchodních	AAFP2----1A----	Atr
+4	komor	NNFP2-----A----	Atr
+5	uvedla	VpQW---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	nová	AAFS1----1A----	Atr
+9	vláda	NNFS1-----A----	Sb
+10	musí	VB-S---3P-AA---	Obj
+11	pokračovat	Vf--------A----	Obj
+12	v	RR--6----------	AuxP
+13	politice	NNFS6-----A----	Obj
+14	hospodářského	AAIS2----1A----	Atr
+15	růstu	NNIS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	i	J^-------------	AuxZ
+18	za	RR--4----------	AuxP
+19	cenu	NNFS4-----A----	Adv
+20	sociálních	AAFP2----1A----	Atr
+21	obětí	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+

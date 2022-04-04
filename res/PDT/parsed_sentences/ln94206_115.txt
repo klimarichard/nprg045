@@ -1,0 +1,646 @@
+ln94206-115-p1s1
+1	Dvě	ClHP1----------	Atr
+2	minuty	NNFP1-----A----	ExD
+3	základem	NNIS7-----A----	ExD
+4	k	RR--3----------	AuxP
+5	vítězství	NNNS3-----A----	Atr
+
+ln94206-115-p2s1A
+1	Zlín	NNIS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	bra	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	tob	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94206-115-p2s1B
+1	Velmi	Db-------------	Adv
+2	dobrý	AAIS4----1A----	Atr
+3	hokej	NNIS4-----A----	Obj
+4	a	J^-------------	Coord
+5	vítězství	NNNS4-----A----	Obj
+6	5	C=-------------	Atr
+7	:	Z:-------------	Coord
+8	3	C=-------------	Atr
+9	české	AAFS2----1A----	Atr
+10	reprezentace	NNFS2-----A----	Atr
+11	nad	RR--7----------	AuxP
+12	Ruskem	NNNS7-----A----	Atr
+13	vidělo	VpNS---XR-AA---	Pred
+14	zhruba	Db-------------	AuxZ
+15	3000	C=-------------	Sb
+16	diváků	NNMP2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	zahajovacím	AANS6----1A----	Atr
+19	utkání	NNNS6-----A----	Adv
+20	turnaje	NNIS2-----A----	Atr
+21	Pragobanka	NNFS1-----A----	Atr
+22	Cup	NNIS1-----A----	Atr
+23	'	Z:-------------	AuxG
+24	94	C=-------------	Atr
+25	ve	RV--6----------	AuxP
+26	Zlíně	NNIS6-----A----	AtrAdv
+27	.	Z:-------------	AuxK
+
+ln94206-115-p2s2
+1	Ve	RV--6----------	AuxP
+2	druhém	CrNS6----------	Atr
+3	včerejším	AANS6----1A----	Atr
+4	střetnutí	NNNS6-----A----	Adv
+5	porazilo	VpNS---XR-AA---	Pred
+6	Švédsko	NNNS1-----A----	Sb
+7	podle	RR--2----------	AuxP
+8	očekávání	NNNS2-----A----	Adv
+9	Slovensko	NNNS4-----A----	Obj
+10	6	C=-------------	Adv
+11	:	Z:-------------	Coord
+12	2	C=-------------	Adv
+13	.	Z:-------------	AuxK
+
+ln94206-115-p2s3
+1	Dnes	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	na	RR--6----------	AuxP
+4	programu	NNIS6-----A----	Adv
+5	utkání	NNNS1-----A----	Sb
+6	Rusko	NNNS1-----A----	Atr
+7	-	Z:-------------	Coord
+8	Švédsko	NNNS1-----A----	Atr
+9	(	Z:-------------	ExD
+10	16.30	C=-------------	ExD
+11	h	NNFXX-----A---8	Atr
+12	)	Z:-------------	ExD
+13	.	Z:-------------	AuxK
+
+ln94206-115-p3s1A
+1	ČR	NNFXX-----A---8	ExD
+2	-	Z:-------------	Coord
+3	Rusko	NNNS1-----A----	ExD
+4	5	C=-------------	ExD
+5	:	Z:-------------	Coord
+6	3	C=-------------	ExD
+
+ln94206-115-p3s1B
+1	Zápas	NNIS1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	nás	PP-P4--1-------	Adv
+4	nezačal	VpYS---XR-NA---	Pred
+5	šťastně	Dg-------1A----	Adv
+6	.	Z:-------------	AuxK
+
+ln94206-115-p3s2
+1	Přesně	Dg-------1A----	AuxZ
+2	po	RR--6----------	AuxP
+3	60	C=-------------	Atr
+4	sekundách	NNFP6-----A----	Adv
+5	hry	NNFS2-----A----	Atr
+6	byl	VpYS---XR-AA---	AuxV
+7	vyloučen	VsYS---XX-AP---	Pred
+8	Bělohlav	NNMS1-----A----	Sb
+9	a	J^-------------	Coord
+10	soupeř	NNMS1-----A----	Sb
+11	šel	VpYS---XR-AA---	Pred
+12	do	RR--2----------	AuxP
+13	vedení	NNNS2-----A----	Adv
+14	,	Z:-------------	AuxX
+15	když	J,-------------	AuxC
+16	Syrcovovu	AUFS4M---------	Atr
+17	střelu	NNFS4-----A----	Obj
+18	od	RR--2----------	AuxP
+19	modré	AAFS2----1A----	Atr
+20	tečoval	VpYS---XR-AA---	Adv
+21	do	RR--2----------	AuxP
+22	vlastní	AAFS2----1A----	Atr
+23	sítě	NNFS2-----A----	Adv
+24	Kruliš	NNMS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln94206-115-p3s3
+1	Náš	PSYS1-P1-------	Atr
+2	čas	NNIS1-----A----	Sb
+3	přišel	VpYS---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	polovině	NNFS6-----A----	Adv
+6	první	CrFS2----------	Atr
+7	třetiny	CyFS2----------	Atr
+8	poté	Db-------------	Adv
+9	,	Z:-------------	AuxX
+10	co	J,-------------	AuxC
+11	jsme	VB-P---1P-AA---	AuxV
+12	přežili	VpMP---XR-AA---	Adv
+13	49	C=-------------	Obj
+14	sekund	NNFP2-----A----	Atr
+15	oslabení	NNNS2-----A----	Atr
+16	3	C=-------------	Atr
+17	na	RR--4----------	AuxP
+18	5	C=-------------	Atr
+19	(	Z:-------------	AuxG
+20	vyloučeni	VsMP---XX-AP---	Pred
+21	Nedoma	NNMS1-----A----	Sb
+22	,	Z:-------------	Coord
+23	Jelínek	NNMS1-----A----	Sb
+24	)	Z:-------------	AuxG
+25	.	Z:-------------	AuxK
+
+ln94206-115-p3s4
+1	Během	RR--2----------	AuxP
+2	necelých	AAFP2----1N----	Atr
+3	dvou	ClXP2----------	Atr
+4	minut	NNFP2-----A----	Adv
+5	vedl	VpYS---XR-AA---	Pred
+6	Bukačův	AUIS1M---------	Atr
+7	tým	NNIS1-----A----	Sb
+8	3	C=-------------	Adv
+9	:	Z:-------------	Coord
+10	1	C=-------------	Adv
+11	.	Z:-------------	AuxK
+
+ln94206-115-p3s5
+1	Poté	Db-------------	Adv
+2	,	Z:-------------	AuxX
+3	co	J,-------------	AuxC
+4	se	P7-X4----------	AuxT
+5	nejdříve	Dg-------3A----	Adv
+6	skvěle	Dg-------1A----	Adv
+7	zorientoval	VpYS---XR-AA---	Adv
+8	před	RR--7----------	AuxP
+9	Ivanikovovou	AUFS7M---------	Atr
+10	brankou	NNFS7-----A----	Adv
+11	Kastner	NNMS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	demonstroval	VpYS---XR-AA---	Pred
+14	pověstnou	AAFS4----1A----	Atr
+15	českou	AAFS4----1A----	Atr
+16	chytrost	NNFS4-----A----	Obj
+17	obránce	NNMS1-----A----	Atr
+18	Měsíček	NNMS1-----A----	Sb
+19	:	Z:-------------	Coord
+20	stál	VpYS---XR-AA---	Pred
+21	na	RR--6----------	AuxP
+22	modré	AAFS6----1A----	Adv
+23	a	J^-------------	Coord
+24	věděl	VpYS---XR-AA---	Pred
+25	,	Z:-------------	AuxX
+26	že	J,-------------	AuxC
+27	přes	RR--4----------	AuxP
+28	bránící	AGFS4-----A----	Atr
+29	hradbu	NNFS4-----A----	Adv
+30	spoluhráčům	NNMP3-----A----	Obj
+31	puk	NNIS4-----A----	Obj
+32	do	RR--2----------	AuxP
+33	ohně	NNIS2-----A----	Adv
+34	nepřihraje	VB-S---3P-NA---	Obj
+35	,	Z:-------------	AuxX
+36	a	J^-------------	Coord
+37	tak	J^-------------	AuxY
+38	ho	PHZS4--3-------	Obj
+39	tam	Db-------------	Adv
+40	poslal	VpYS---XR-AA---	Pred
+41	buzarem	NNIS7-----A----	Adv
+42	o	RR--4----------	AuxP
+43	zadní	AAIS4----1A----	Atr
+44	mantinel	NNIS4-----A----	Atr
+45	.	Z:-------------	AuxK
+
+ln94206-115-p3s6
+1	Zcela	Db-------------	Adv
+2	volný	AAMS1----1A----	Atr
+3	Bělohlav	NNMS1-----A----	Sb
+4	ho	PHZS4--3-------	Obj
+5	pak	Db-------------	Adv
+6	s	RR--7----------	AuxP
+7	přehledem	NNIS7-----A----	Adv
+8	dorazil	VpYS---XR-AA---	Pred
+9	do	RR--2----------	AuxP
+10	sítě	NNFS2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94206-115-p3s7
+1	Za	RR--4----------	AuxP
+2	dalších	AAFP2----1A----	Atr
+3	deset	Cn-S4----------	Adv
+4	sekund	NNFP2-----A----	Atr
+5	proměnil	VpYS---XR-AA---	Pred
+6	Smeták	NNMS1-----A----	Sb
+7	sólo	NNNS4-----A----	Obj
+8	a	J^-------------	Coord
+9	vzápětí	Db-------------	Adv
+10	ještě	Db-------------	Adv
+11	Geffert	NNMS1-----A----	Sb
+12	nastřelil	VpYS---XR-AA---	Pred
+13	tyč	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94206-115-p3s8
+1	Tribuny	NNFP1-----A----	Sb
+2	bouřily	VpTP---XR-AA---	Pred
+3	nadšením	NNNS7-----A----	Adv
+4	.	Z:-------------	AuxK
+
+ln94206-115-p3s9
+1	Radost	NNFS4-----A----	Obj
+2	jim	PPXP3--3-------	Obj
+3	trochu	Db-------------	Adv
+4	pokazil	VpYS---XR-AA---	Pred
+5	až	TT-------------	AuxZ
+6	Krasotkin	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	v	RR--6----------	AuxP
+10	16	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	minutě	NNFS6-----A----	Adv
+13	při	RR--6----------	AuxP
+14	nájezdu	NNIS6-----A---1	Adv
+15	2	C=-------------	Atr
+16	na	RR--4----------	AuxP
+17	1	C=-------------	Atr
+18	volil	VpYS---XR-AA---	Atr
+19	místo	RR--2----------	AuxP
+20	přihrávky	NNFS2-----A----	Adv
+21	střelu	NNFS4-----A----	Obj
+22	a	J^-------------	Coord
+23	z	RR--2----------	AuxP
+24	poměrně	Dg-------1A----	Adv
+25	těžkého	AAIS2----1A----	Atr
+26	úhlu	NNIS2-----A----	Adv
+27	našel	VpYS---XR-AA---	Atr
+28	Turka	NNMS4-----A----	Obj
+29	nepřipraveného	AAMS4----1N----	Atv
+30	.	Z:-------------	AuxK
+
+ln94206-115-p3s10
+1	Od	RR--2----------	AuxP
+2	té	PDFS2----------	Atr
+3	chvíle	NNFS2-----A----	Adv
+4	byl	VpYS---XR-AA---	Pred
+5	však	J^-------------	Coord
+6	náš	PSYS1-P1-------	Atr
+7	gólman	NNMS1-----A----	Sb
+8	oporou	NNFS7-----A----	Pnom
+9	a	J^-------------	Coord
+10	bravurně	Dg-------1A----	Adv
+11	čelil	VpYS---XR-AA---	Pred
+12	narůstajícímu	AGIS3-----A----	Atr
+13	tlaku	NNIS3-----A----	Obj
+14	Rusů	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94206-115-p3s11
+1	Proti	RR--3----------	AuxP
+2	Cyplakovově	AUFS3M---------	Atr
+3	střele	NNFS3-----A----	Adv
+4	při	RR--6----------	AuxP
+5	přesilovce	NNFS6-----A----	Atr
+6	byl	VpYS---XR-AA---	Pred
+7	ovšem	J^-------------	Coord
+8	bezmocný	AAMS1----1A----	Pnom
+9	.	Z:-------------	AuxK
+
+ln94206-115-p3s12
+1	Ve	RV--6----------	AuxP
+2	chvíli	NNFS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	kdy	Db-------------	Adv
+5	se	P7-X4----------	AuxT
+6	zdálo	VpNS---XR-AA---	Atr
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	soupeř	NNMS1-----A----	Sb
+10	zvrátí	VB-S---3P-AA---	Sb
+11	vývoj	NNIS4-----A----	Obj
+12	zápasu	NNIS2-----A----	Atr
+13	ve	RV--4----------	AuxP
+14	svůj	P8IS4----------	Atr
+15	prospěch	NNIS4-----A----	Adv
+16	,	Z:-------------	AuxX
+17	převzal	VpYS---XR-AA---	Pred
+18	na	RR--4----------	AuxP
+19	chvíli	NNFS4-----A----	Adv
+20	opuštěný	AAIS4----1A----	Atr
+21	puk	NNIS4-----A----	Obj
+22	na	RR--6----------	AuxP
+23	útočné	AAFS6----1A----	Atr
+24	modré	AAFS6----1A----	Atr
+25	čáře	NNFS6-----A----	Adv
+26	kapitán	NNMS1-----A----	Atr
+27	Jelínek	NNMS1-----A----	Sb
+28	a	J^-------------	Coord
+29	dovezl	VpYS---XR-AA---	Pred
+30	ho	PHZS4--3-------	Obj
+31	až	TT-------------	AuxZ
+32	za	RR--4----------	AuxP
+33	Ivanikovova	AUNP4M---------	Atr
+34	záda	NNNP4-----A----	Adv
+35	.	Z:-------------	AuxK
+
+ln94206-115-p3s13
+1	V	RR--6----------	AuxP
+2	těchto	PDXP6----------	Atr
+3	chvílích	NNFP6-----A----	Adv
+4	nechal	VpYS---XR-AA---	Pred
+5	úzkostlivý	AAMS1----1A----	Atr
+6	rozhodčí	NNMS1-----A----	Atr
+7	Lichtnecker	NNMS1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	chvíli	NNFS4-----A----	Adv
+10	odpočívat	Vf--------A----	Obj
+11	svou	P8FS4---------1	Atr
+12	píšťalku	NNFS4-----A----	Obj
+13	a	J^-------------	Coord
+14	hrál	VpYS---XR-AA---	Pred
+15	se	P7-X4----------	AuxR
+16	opět	Db-------------	Adv
+17	velmi	Db-------------	Adv
+18	dobrý	AAIS1----1A----	Atr
+19	hokej	NNIS1-----A----	Sb
+20	s	RR--7----------	AuxP
+21	krásnými	AAFP7----1A----	Atr
+22	kombinačními	AAFP7----1A----	Atr
+23	akcemi	NNFP7-----A----	Atr
+24	i	J^-------------	Coord
+25	potřebnou	AAFS7----1A----	Atr
+26	dávkou	NNFS7-----A----	Atr
+27	nasazení	NNNS2-----A----	Atr
+28	a	J^-------------	Coord
+29	tvrdosti	NNFS2-----A----	Atr
+30	na	RR--6----------	AuxP
+31	obou	ClXP6----------	Atr
+32	stranách	NNFP6-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94206-115-p3s14
+1	Do	RR--2----------	AuxP
+2	té	PDFS2----------	Atr
+3	doby	NNFS2-----A----	Adv
+4	vylučoval	VpYS---XR-AA---	Pred
+5	tak	Db-------------	Adv
+6	často	Dg-------1A----	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	například	Db-------------	AuxZ
+10	Libor	NNMS1-----A----	Atr
+11	Procházka	NNMS1-----A----	Sb
+12	odešel	VpYS---XR-AA---	Adv
+13	na	RR--4----------	AuxP
+14	trestnou	AAFS4----1A----	Atr
+15	lavici	NNFS4-----A----	Adv
+16	raději	Dg-------2A----	Adv
+17	dobrovolně	Dg-------1A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94206-115-p3s15
+1	Při	RR--6----------	AuxP
+2	souboji	NNIS6-----A----	Adv
+3	u	RR--2----------	AuxP
+4	hrazení	NNNS2-----A----	Atr
+5	zasáhl	VpYS---XR-AA---	Pred
+6	místo	RR--2----------	AuxP
+7	Vorobjeva	NNMS2-----A----	Adv
+8	jen	TT-------------	AuxZ
+9	dvířka	NNNP4-----A----	Obj
+10	a	J^-------------	Coord
+11	vřítil	VpYS---XR-AA---	Pred
+12	se	P7-X4----------	AuxT
+13	k	RR--3----------	AuxP
+14	nohám	NNFP3-----A----	Adv
+15	Měsíčka	NNMS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	který	P4YS1----------	Sb
+18	si	P7-X3----------	AuxT
+19	právě	Db-------------	Adv
+20	odpykával	VpYS---XR-AA---	Atr
+21	desetiminutový	AAIS4----1A----	Atr
+22	trest	NNIS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94206-115-p3s16
+1	Spolupráce	NNFS1-----A----	Sb
+2	obou	ClXP2----------	Atr
+3	Procházků	NNMP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	vypracovali	VpMP---XR-AA---	Atr
+7	ideální	AAFS4----1A----	Atr
+8	střeleckou	AAFS4----1A----	Atr
+9	příležitost	NNFS4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	Pateru	NNMS4-----A----	Atr
+12	,	Z:-------------	AuxX
+13	nám	PP-P3--1-------	Obj
+14	ve	RV--6----------	AuxP
+15	45	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	minutě	NNFS6-----A----	Adv
+18	zajistila	VpQW---XR-AA---	Pred
+19	dvoubrankové	AANS4----1A----	Atr
+20	vedení	NNNS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94206-115-p3s17
+1	To	PDNS4----------	Obj
+2	jsme	VB-P---1P-AA---	AuxV
+3	mohli	VpMP---XR-AA---	Pred
+4	ještě	Db-------------	Adv
+5	pojistit	Vf--------A----	Obj
+6	při	RR--6----------	AuxP
+7	pětiminutové	AAFS6----1A----	Atr
+8	přesilovce	NNFS6-----A----	Adv
+9	(	Z:-------------	AuxG
+10	Jachanov	NNMS1-----A----	Sb
+11	ostře	Dg-------1A----	Adv
+12	zakročil	VpYS---XR-AA---	Pred
+13	proti	RR--3----------	AuxP
+14	Smetákovi	NNMS3-----A----	Obj
+15	)	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	při	RR--6----------	AuxP
+19	rovnocenném	AAIS6----1A----	Atr
+20	počtu	NNIS6-----A----	Adv
+21	hráčů	NNMP2-----A----	Atr
+22	jsme	VB-P---1P-AA---	AuxV
+23	mnohdy	Db-------------	Adv
+24	během	RR--2----------	AuxP
+25	zápasu	NNIS2-----A----	Adv
+26	měli	VpMP---XR-AA---	Pred
+27	i	J^-------------	AuxZ
+28	větší	AAIS4----2A----	Atr
+29	tlak	NNIS4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln94206-115-p4s15
+1	Nejlepší	AAMP1----3A----	Atr
+2	hráči	NNMP1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Patera	NNMS1-----A----	ExD
+5	-	Z:-------------	Coord
+6	Krasotkin	NNMS1-----A----	ExD
+7	.	Z:-------------	AuxK
+
+ln94206-115-p6s1
+1	Luděk	NNMS1-----A----	Atr
+2	Bukač	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	trenér	NNMS1-----A----	ExD
+5	ČR	NNFXX-----A---8	Atr
+6	:	Z:-------------	AuxG
+7	Bylo	VpNS---XR-AA---	ExD
+8	to	PDNS1----------	Sb
+9	kvalitativně	Dg-------1A----	Adv
+10	lepší	AANS1----2A----	Atr
+11	utkání	NNNS1-----A----	Pnom
+12	než	J,-------------	AuxC
+13	předchozí	AANS1----1A----	ExD
+14	proti	RR--3----------	AuxP
+15	Německu	NNNS3-----A----	ExD
+16	a	J^-------------	Coord
+17	Slovensku	NNNS3-----A----	ExD
+18	.	Z:-------------	AuxK
+
+ln94206-115-p6s2
+1	Řada	NNFS1-----A----	Sb
+2	branek	NNFP2-----A----	Atr
+3	padla	VpQW---XR-AA--1	Pred
+4	po	RR--6----------	AuxP
+5	pěkných	AAFP6----1A----	Atr
+6	kombinacích	NNFP6-----A----	Adv
+7	,	Z:-------------	Coord
+8	což	PE--1----------	Sb
+9	mne	PP-S4--1-------	Obj
+10	velice	Db-------------	Adv
+11	těší	VB-S---3P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	stejně	Dg-------1A----	Adv
+14	jako	J,-------------	AuxC
+15	to	PDNS1----------	ExD
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	se	P7-X4----------	AuxT
+19	více	Dg-------2A----	Adv
+20	začínáme	VB-P---1P-AA---	Atr
+21	prosazovat	Vf--------A----	Obj
+22	v	RR--6----------	AuxP
+23	útoku	NNIS6-----A----	Adv
+24	.	Z:-------------	AuxK
+
+ln94206-115-p6s3
+1	Tomáš	NNMS1-----A----	Atr
+2	Jelínek	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	kapitán	NNMS1-----A----	ExD
+5	ČR	NNFXX-----A---8	Atr
+6	:	Z:-------------	AuxG
+7	Rozhodčí	NNMS1-----A----	Sb
+8	vylučoval	VpYS---XR-AA---	ExD
+9	příliš	Db-------------	Adv
+10	často	Dg-------1A----	Adv
+11	,	Z:-------------	Coord
+12	připadal	VpYS---XR-AA---	ExD
+13	jsem	VB-S---1P-AA---	AuxV
+14	si	P7-X3----------	AuxT
+15	jako	J,-------------	AuxC
+16	na	RR--6----------	AuxP
+17	basketbale	NNIS6-----A----	ExD
+18	.	Z:-------------	AuxK
+
+ln94206-115-p6s4
+1	Boris	NNMS1-----A----	Atr
+2	Michajlov	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	trenér	NNMS1-----A----	ExD
+5	Ruska	NNNS2-----A----	Atr
+6	:	Z:-------------	AuxG
+7	Náš	PSYS1-P1-------	Atr
+8	tým	NNIS1-----A----	Sb
+9	se	P7-X4----------	AuxT
+10	letos	Db-------------	Adv
+11	poprvé	Cv-------------	Adv
+12	sešel	VpYS---XR-AA---	ExD
+13	v	RR--4----------	AuxP
+14	pondělí	NNNS4-----A----	Adv
+15	,	Z:-------------	Coord
+16	má	VB-S---3P-AA---	ExD
+17	za	RR--7----------	AuxP
+18	sebou	P6-X7----------	Adv
+19	pouze	Db-------------	AuxZ
+20	dva	ClYP4----------	Atr
+21	tréninky	NNIP4-----A----	Obj
+22	,	Z:-------------	Coord
+23	což	PE--1----------	Sb
+24	na	RR--6----------	AuxP
+25	naší	PSFS6-P1-------	Atr
+26	hře	NNFS6-----A----	Adv
+27	muselo	VpNS---XR-AA---	ExD
+28	být	Vf--------A----	Obj
+29	znát	Vf--------A----	Pnom
+30	.	Z:-------------	AuxK
+
+ln94206-115-p6s5
+1	Dělali	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	spoustu	NNFS4-----A----	Obj
+4	hrubých	AAFP2----1A----	Atr
+5	chyb	NNFP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	obraně	NNFS6-----A----	Atr
+8	a	J^-------------	Coord
+9	soupeř	NNMS1-----A----	Sb
+10	to	PDNS4----------	Obj
+11	náležitě	Dg-------1A----	Adv
+12	potrestal	VpYS---XR-AA---	Pred
+13	.	Z:-------------	AuxK
+
+ln94206-115-p6s6A
+1	Švédsko	NNNS1-----A----	ExD
+2	-	Z:-------------	Coord
+3	Slovensko	NNNS1-----A----	ExD
+4	6	C=-------------	ExD
+5	:	Z:-------------	Coord
+6	2	C=-------------	ExD
+
+ln94206-115-p6s6B
+1	Večerní	AAIS1----1A----	Atr
+2	zápas	NNIS1-----A----	Sb
+3	nedosahoval	VpYS---XR-NA---	Pred
+4	úrovně	NNFS2-----A----	Obj
+5	odpoledního	AAIS2----1A----	ExD
+6	.	Z:-------------	AuxK
+
+ln94206-115-p6s7
+1	Slováci	NNMP1-----A----	Sb
+2	udělali	VpMP---XR-AA---	Pred
+3	hned	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	5	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	minutě	NNFS6-----A----	Adv
+8	chybu	NNFS4-----A----	Obj
+9	v	RR--6----------	AuxP
+10	obraně	NNFS6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	kterou	P4FS4----------	Obj
+13	potrestal	VpYS---XR-AA---	Atr
+14	Molin	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94206-115-p6s8
+1	Největším	AAIS7----3A----	Atr
+2	nedostatkem	NNIS7-----A----	Pnom
+3	slovenského	AAIS2----1A----	Atr
+4	celku	NNIS2-----A----	Atr
+5	byla	VpQW---XR-AA---	Pred
+6	nedůraznost	NNFS1-----N----	Sb
+7	,	Z:-------------	AuxX
+8	a	J^-------------	Coord
+9	tak	J^-------------	AuxY
+10	Švédům	NNMP3-----A----	Obj
+11	stačil	VpYS---XR-AA---	Pred
+12	k	RR--3----------	AuxP
+13	vítězství	NNNS3-----A----	Adv
+14	jen	TT-------------	AuxZ
+15	poloviční	AAIS1----1A----	Atr
+16	výkon	NNIS1-----A----	Sb
+17	.	Z:-------------	AuxK
+

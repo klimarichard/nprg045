@@ -1,0 +1,124 @@
+ln95042-086-p1s1
+1	Holáň	NNMS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	inspekci	NNFS6-----A----	ExD
+4	UNPROFOR	NNFXX-----A---8	Atr
+
+ln95042-086-p2s1A
+1	Záhřeb	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95042-086-p2s1B
+1	Dvoudenní	AAFS4----1A----	Atr
+2	inspekční	AAFS4----1A----	Atr
+3	návštěvu	NNFS4-----A----	Obj
+4	českého	AAIS2----1A----	Atr
+5	praporu	NNIS2-----A----	Atr
+6	UNPROFOR	NNFXX-----A---8	Atr
+7	v	RR--6----------	AuxP
+8	Chorvatsku	NNNS6-----A----	Atr
+9	zahájil	VpYS---XR-AA---	Pred
+10	včera	Db-------------	Adv
+11	dopoledne	Db-------------	Adv
+12	český	AAMS1----1A----	Atr
+13	ministr	NNMS1-----A----	Atr
+14	obrany	NNFS2-----A----	Atr
+15	Vilém	NNMS1-----A----	Atr
+16	Holáň	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+ln95042-086-p2s2
+1	Cílem	NNIS7-----A----	Pnom
+2	jeho	PSXXXZS3-------	Atr
+3	cesty	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	podle	RR--2----------	AuxP
+6	sdělení	NNNS2-----A----	Adv
+7	ministerstva	NNNS2-----A----	Atr
+8	obrany	NNFS2-----A----	Atr
+9	seznámit	Vf--------A----	Sb
+10	se	P7-X4----------	Obj
+11	s	RR--7----------	AuxP
+12	aktuální	AAFS7----1A----	Atr
+13	situací	NNFS7-----A----	Obj
+14	v	RR--6----------	AuxP
+15	oblasti	NNFS6-----A----	Atr
+16	i	J^-------------	Coord
+17	u	RR--2----------	AuxP
+18	naší	PSFS2-P1-------	Atr
+19	jednotky	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95042-086-p2s3
+1	Po	RR--6----------	AuxP
+2	příletu	NNIS6-----A----	Adv
+3	do	RR--2----------	AuxP
+4	chorvatského	AANS2----1A----	Atr
+5	hlavního	AANS2----1A----	Atr
+6	města	NNNS2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	podle	RR--2----------	AuxP
+9	informací	NNFP2-----A----	Adv
+10	českého	AANS2----1A----	Atr
+11	velvyslanectví	NNNS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Záhřebu	NNIS6-----A----	Atr
+14	vrtulníkem	NNIS7-----A----	Adv
+15	UNPROFOR	NNFXX-----A---8	Atr
+16	přepravil	VpYS---XR-AA---	Pred
+17	k	RR--3----------	AuxP
+18	jednotce	NNFS3-----A----	Adv
+19	rozmístěné	AAFS3----1A----	Atr
+20	v	RR--6----------	AuxP
+21	sektoru	NNIS6-----A----	Adv
+22	Jih	NNIS1-----A----	Atr
+23	na	RR--6----------	AuxP
+24	území	NNNS6-----A----	AdvAtr
+25	tzv	AAXXX----1A---8	Atr
+26	.	Z:-------------	AuxG
+27	Republiky	NNFS2-----A----	Atr
+28	srbská	AAFS1----1A----	Atr
+29	Krajina	NNFS1-----A----	Atr
+30	(	Z:-------------	Apos
+31	RSK	NNFXX-----A---8	Atr
+32	)	Z:-------------	AuxG
+33	.	Z:-------------	AuxK
+
+ln95042-086-p2s4
+1	Naše	PSHS1-P1-------	Atr
+2	jednotka	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	nyní	Db-------------	Adv
+5	991	C=-------------	Obj
+6	příslušníků	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	z	RR--2----------	AuxP
+9	nichž	P9XP2----------	Atr
+10	třetina	CyFS1----------	Sb
+11	plní	VB-S---3P-AA---	Atr
+12	úkoly	NNIP4-----A----	Obj
+13	v	RR--6----------	AuxP
+14	zóně	NNFS6-----A----	Adv
+15	separace	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	odděluje	VB-S---3P-AA---	Atr
+19	znepřátelené	AAFP4----1A----	Atr
+20	strany	NNFP4-----A----	Obj
+21	-	Z:-------------	Apos
+22	Chorvatskou	AAFS4----1A----	Atr
+23	republiku	NNFS4-----A----	Obj
+24	a	J^-------------	Coord
+25	RSK	NNFXX-----A---8	Obj
+26	,	Z:-------------	AuxX
+27	kterou	P4FS4----------	Obj
+28	si	P7-X3----------	Adv
+29	na	RR--6----------	AuxP
+30	třetině	CyFS6----------	Adv
+31	chorvatského	AANS2----1A----	Atr
+32	území	NNNS2-----A----	Atr
+33	vyhlásili	VpMP---XR-AA---	Atr
+34	chorvatští	AAMP1----1A----	Atr
+35	Srbové	NNMP1-----A----	Sb
+36	.	Z:-------------	AuxK
+

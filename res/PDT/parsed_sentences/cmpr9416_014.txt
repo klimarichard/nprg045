@@ -1,0 +1,260 @@
+cmpr9416-014-p2s1
+1	Zahraniční	AAFP1----1A----	Atr
+2	firmy	NNFP1-----A----	ExD
+3	a	J^-------------	Coord
+4	my	PP-P1--1-------	ExD
+
+cmpr9416-014-p3s1
+1	El	AAXXX----1A----	Atr
+2	Al	NNXXX-----A----	ExD
+
+cmpr9416-014-p4s1
+1	Státní	AAFS1----1A----	Atr
+2	izraelská	AAFS1----1A----	Atr
+3	letecká	AAFS1----1A----	Atr
+4	společnost	NNFS1-----A----	Sb
+5	byla	VpQW---XR-AA---	AuxV
+6	založena	VsQW---XX-AP---	Pred
+7	v	RR--6----------	AuxP
+8	roce	NNIS6-----A---1	Adv
+9	1948	C=-------------	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9416-014-p4s2
+1	V	RR--6----------	AuxP
+2	současnosti	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	společnost	NNFS1-----A----	Sb
+5	vybavena	VsQW---XX-AP---	Pnom
+6	22	C=-------------	Atr
+7	letouny	NNIP7-----A----	Adv
+8	typu	NNIS2-----A----	Atr
+9	Boeing	NNIS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	které	P4IP1----------	Sb
+12	spojují	VB-P---3P-AA---	Atr
+13	Tel	NNIXX-----A----	Obj
+14	Aviv	NNIS4-----A----	Atr
+15	se	RV--7----------	AuxP
+16	Severní	AAFS7----1A----	Atr
+17	Amerikou	NNFS7-----A----	Obj
+18	,	Z:-------------	AuxX
+19	Afrikou	NNFS7-----A----	Obj
+20	,	Z:-------------	AuxX
+21	Dálným	AAIS7----1A----	Atr
+22	východem	NNIS7-----A----	Obj
+23	a	J^-------------	Coord
+24	Evropou	NNFS7-----A----	Obj
+25	.	Z:-------------	AuxK
+
+cmpr9416-014-p5s1
+1	Ročně	Dg-------1A----	Adv
+2	přepravíme	VB-P---1P-AA---	Obj
+3	asi	TT-------------	AuxZ
+4	dva	ClYP4----------	Atr
+5	miliony	NNIP4-----A----	Obj
+6	pasažérů	NNMP2-----A----	Atr
+7	a	J^-------------	Coord
+8	dosahujeme	VB-P---1P-AA---	Obj
+9	obrat	NNIS4-----A----	Obj
+10	kolem	RR--2----------	AuxP
+11	jedné	ClFS2----------	Atr
+12	miliardy	NNFS2-----A----	Atr
+13	marek	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	říká	VB-S---3P-AA---	Pred
+16	Chaim	NNMS1-----A----	Atr
+17	Mansfeld	NNMS1-----A----	Sb
+18	(	Z:-------------	ExD
+19	na	RR--6----------	AuxP
+20	snímku	NNIS6-----A----	ExD
+21	)	Z:-------------	ExD
+22	,	Z:-------------	Apos
+23	generální	AAMS1----1A----	Atr
+24	ředitel	NNMS1-----A----	Sb
+25	El	AAXXX----1A----	Atr
+26	Al	NNXXX-----A----	Atr
+27	pro	RR--4----------	AuxP
+28	Rakousko	NNNS4-----A----	Atr
+29	,	Z:-------------	AuxX
+30	ČR	NNFXX-----A---8	Atr
+31	,	Z:-------------	AuxX
+32	SR	NNFXX-----A---8	Atr
+33	a	J^-------------	Coord
+34	Maďarsko	NNNS4-----A----	Atr
+35	.	Z:-------------	AuxK
+
+cmpr9416-014-p5s2
+1	Z	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	připadá	VB-S---3P-AA---	Pred
+4	300	C=-------------	Sb
+5	milionů	NNIP2-----A----	Atr
+6	dolarů	NNIP2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	nákladní	AAFS4----1A----	Atr
+9	přepravu	NNFS4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9416-014-p5s3
+1	Již	Db-------------	AuxZ
+2	pátý	CrIS4----------	Atr
+3	rok	NNIS4-----A----	Adv
+4	za	RR--7----------	AuxP
+5	sebou	P6-X7----------	Adv
+6	vykázala	VpQW---XR-AA---	Pred
+7	společnost	NNFS1-----A----	Sb
+8	zisk	NNIS4-----A----	Obj
+9	-	Z:-------------	Coord
+10	loni	Db------------1	Adv
+11	to	PDNS1----------	Sb
+12	bylo	VpNS---XR-AA---	Obj
+13	kolem	RR--2----------	AuxP
+14	10	C=-------------	Atr
+15	milionů	NNIP2-----A----	Adv
+16	dolarů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9416-014-p6s1
+1	Od	RR--2----------	AuxP
+2	poloviny	NNFS2-----A----	Adv
+3	roku	NNIS2-----A---1	Atr
+4	1991	C=-------------	Atr
+5	létáme	VB-P---1P-AA---	Pred
+6	také	Db-------------	Adv
+7	do	RR--2----------	AuxP
+8	Prahy	NNFS2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9416-014-p6s2
+1	V	RR--6----------	AuxP
+2	zimní	AAFS6----1A----	Atr
+3	sezóně	NNFS6-----A----	Adv
+4	je	VB-S---3P-AA---	Obj
+5	to	PDNS1----------	Sb
+6	jednou	ClFS7----------	Adv
+7	a	J^-------------	Coord
+8	v	RR--6----------	AuxP
+9	letní	AAFS6----1A----	ExD
+10	dvakrát	Cv-------------	ExD
+11	týdně	Db-------------	Adv
+12	,	Z:-------------	AuxX
+13	uvádí	VB-S---3P-AA---	Pred
+14	Milan	NNMS1-----A----	Atr
+15	Benda	NNMS1-----A----	Sb
+16	,	Z:-------------	Apos
+17	regionální	AAMS1----1A----	Atr
+18	ředitel	NNMS1-----A----	Sb
+19	El	AAXXX----1A----	Atr
+20	Al	NNXXX-----A----	Atr
+21	pro	RR--4----------	AuxP
+22	ČR	NNFXX-----A---8	Atr
+23	a	J^-------------	Coord
+24	SR	NNFXX-----A---8	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9416-014-p6s3
+1	Loni	Db------------1	Adv
+2	společnost	NNFS1-----A----	Sb
+3	přepravila	VpQW---XR-AA---	Pred
+4	3000	C=-------------	Obj
+5	Čechů	NNMP2-----A----	Atr
+6	,	Z:-------------	Coord
+7	z	RR--2----------	AuxP
+8	toho	PDZS2----------	ExD
+9	asi	TT-------------	AuxZ
+10	600	C=-------------	ExD
+11	turistů	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9416-014-p6s4
+1	Spolupracuje	VB-S---3P-AA---	Pred
+2	přitom	Db-------------	Adv
+3	s	RR--7----------	AuxP
+4	řadou	NNFS7-----A----	Obj
+5	českých	AAFP2----1A----	Atr
+6	cestovních	AAFP2----1A----	Atr
+7	kanceláří	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP1----------	Sb
+10	organizují	VB-P---3P-AA---	Atr
+11	zájezdy	NNIP4-----A----	Obj
+12	do	RR--2----------	AuxP
+13	Izraele	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9416-014-p6s5
+1	Kromě	RR--2----------	AuxP
+2	pobytových	AAFP2----1A----	Atr
+3	a	J^-------------	Coord
+4	poznávacích	AAFP2----1A----	Atr
+5	akcí	NNFP2-----A----	Adv
+6	se	P7-X4----------	AuxT
+7	jedná	VB-S---3P-AA---	Pred
+8	rovněž	Db-------------	AuxZ
+9	o	RR--4----------	AuxP
+10	zdravotní	AAFP4----1A----	Atr
+11	cesty	NNFP4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9416-014-p6s6
+1	Roste	VB-S---3P-AA---	Pred
+2	zájem	NNIS1-----A----	Sb
+3	o	RR--4----------	AuxP
+4	tématické	AAIP4----1A----	Atr
+5	zájezdy	NNIP4-----A----	Atr
+6	,	Z:-------------	AuxX
+7	například	Db-------------	Apos
+8	odborníků	NNMP2-----A----	Atr
+9	ze	RV--2----------	AuxP
+10	zemědělství	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	zdravotnictví	NNNS2-----A----	Atr
+13	,	Z:-------------	Coord
+14	elektronického	AAIS2----1A----	Atr
+15	a	J^-------------	Coord
+16	leteckého	AAIS2----1A----	Atr
+17	průmyslu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9416-014-p7s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	El	AAXXX----1A----	ExD
+4	Al	NNXXX-----A----	Atr
+5	Izrael	NNIS1-----A----	Atr
+6	Airlines	NNFPX-----A----	Atr
+7	Ltd	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	,	Z:-------------	AuxX
+10	Václavské	AANS1----1A----	Atr
+11	náměstí	NNNS1-----A----	Atr
+12	48	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	110	C=-------------	Atr
+15	00	C=-------------	Atr
+16	Praha	NNFS1-----A----	Atr
+17	1	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	tel	NNIXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	:	Z:-------------	AuxG
+22	(	Z:-------------	AuxG
+23	02	C=-------------	Atr
+24	)	Z:-------------	AuxG
+25	24	C=-------------	Atr
+26	21	C=-------------	Atr
+27	73	C=-------------	Atr
+28	44	C=-------------	Atr
+29	,	Z:-------------	Coord
+30	FAX	NNIS1-----A----	Atr
+31	:	Z:-------------	AuxG
+32	(	Z:-------------	AuxG
+33	02	C=-------------	Atr
+34	)	Z:-------------	AuxG
+35	24	C=-------------	Atr
+36	21	C=-------------	Atr
+37	96	C=-------------	Atr
+38	87	C=-------------	Atr
+39	.	Z:-------------	AuxK
+

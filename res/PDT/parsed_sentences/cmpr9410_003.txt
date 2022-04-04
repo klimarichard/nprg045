@@ -1,0 +1,234 @@
+cmpr9410-003-p3s1
+1	|	Z:-------------	ExD
+2	Rady	NNFP1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	telefon	NNIS4-----A----	Atr
+5	|	Z:-------------	AuxK
+
+cmpr9410-003-p5s1
+1	Potřebujete	VB-P---2P-AA---	Pred
+2	rychle	Dg-------1A----	Adv
+3	poradit	Vf--------A----	Obj
+4	?	Z:-------------	AuxK
+
+cmpr9410-003-p5s2
+1	Zvedněte	Vi-P---2--A----	Pred
+2	telefon	NNIS4-----A----	Obj
+3	a	J^-------------	Coord
+4	zavolejte	Vi-P---2--A----	Pred
+5	.	Z:-------------	AuxK
+
+cmpr9410-003-p5s3
+1	Váš	PSIS4-P2-------	Atr
+2	obecně	Dg-------1A----	Adv
+3	platný	AAIS4----1A----	Atr
+4	dotaz	NNIS4-----A----	Obj
+5	je	VB-S---3P-AA---	Pred
+6	připraven	VsYS---XX-AP---	Pnom
+7	zodpovědět	Vf--------A----	Obj
+8	spolupracovník	NNMS1-----A----	Sb
+9	Profitu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9410-003-p5s4
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	nedovoláte	VB-P---2P-NA---	Atr
+7	přes	RR--4----------	AuxP
+8	den	NNIS4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	vytočte	Vi-P---2--A----	Pred
+11	číslo	NNNS4-----A----	Obj
+12	ve	RV--6----------	AuxP
+13	večerních	AAFP6----1A----	Atr
+14	nebo	J^-------------	Coord
+15	nočních	AAFP6----1A----	Atr
+16	hodinách	NNFP6-----A----	Adv
+17	a	J^-------------	Coord
+18	svůj	P8IS4----------	Atr
+19	dotaz	NNIS4-----A----	Obj
+20	namluvte	Vi-P---2--A----	Pred
+21	na	RR--4----------	AuxP
+22	telefonní	AAIS4----1A----	Atr
+23	záznamník	NNIS4-----A----	Adv
+24	.	Z:-------------	AuxK
+
+cmpr9410-003-p5s5
+1	Nejzajímavější	AAIP4----3A----	Atr
+2	dotazy	NNIP4-----A----	Obj
+3	najdete	VB-P---2P-AA---	Pred
+4	zodpovězené	AAIP4----1A----	Atv
+5	pravidelně	Dg-------1A----	Adv
+6	na	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	stránce	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9410-003-p6s1
+1	Zdravotní	AANS1----1A----	Atr
+2	pojištění	NNNS1-----A----	ExD
+
+cmpr9410-003-p7s1
+1	Zajímalo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	mne	PP-S4--1-------	Obj
+4	,	Z:-------------	AuxX
+5	jestli	J,-------------	AuxC
+6	jsem	VB-S---1P-AA---	Sb
+7	z	RR--2----------	AuxP
+8	titulu	NNIS2-----A----	Adv
+9	všeobecného	AANS2----1A----	Atr
+10	zdravotního	AANS2----1A----	Atr
+11	pojištění	NNNS2-----A----	Atr
+12	pojištěn	VsYS---XX-AP---	Pnom
+13	i	J^-------------	AuxZ
+14	pro	RR--4----------	AuxP
+15	případ	NNIS4-----A----	Adv
+16	úrazu	NNIS2-----A----	Atr
+17	při	RR--6----------	AuxP
+18	pobytu	NNIS6-----A---1	Atr
+19	v	RR--6----------	AuxP
+20	zahraničí	NNNS6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9410-003-p8s1
+1	Karel	NNMS1-----A----	Atr
+2	Anděl	NNMS1-----A----	ExD
+3	,	Z:-------------	ExD
+4	Praha	NNFS1-----A----	ExD
+
+cmpr9410-003-p9s1
+1	Jste	VB-P---2P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	pojištěn	VsYS---XX-AP---	Pnom
+5	na	RR--6----------	AuxP
+6	základě	NNIS6-----A----	AuxP
+7	zákona	NNIS2-----A----	Adv
+8	o	RR--6----------	AuxP
+9	všeobecném	AANS6----1A----	Atr
+10	zdravotním	AANS6----1A----	Atr
+11	pojištění	NNNS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	hradí	VB-P---3P-AA---	Pred
+14	se	P7-X4----------	AuxR
+15	vám	PP-P3--2-------	Obj
+16	náklady	NNIP1-----A----	Sb
+17	nutného	AANS2----1A----	Atr
+18	a	J^-------------	Coord
+19	neodkladného	AANS2----1N----	Atr
+20	léčení	NNNS2-----A----	Atr
+21	v	RR--6----------	AuxP
+22	cizině	NNFS6-----A----	Atr
+23	,	Z:-------------	AuxX
+24	a	J^-------------	AuxY
+25	to	PDNS4----------	AuxY
+26	až	TT-------------	AuxZ
+27	do	RR--2----------	AuxP
+28	výše	NNFS2-----A----	Adv
+29	nákladů	NNIP2-----A----	Atr
+30	spojených	AAIP2----1A----	Atr
+31	s	RR--7----------	AuxP
+32	takovým	PDZS7----------	Atr
+33	léčením	NNNS7-----A----	Obj
+34	na	RR--6----------	AuxP
+35	území	NNNS6-----A----	Atr
+36	České	AAFS2----1A----	Atr
+37	republiky	NNFS2-----A----	Atr
+38	.	Z:-------------	AuxK
+
+cmpr9410-003-p9s2
+1	Náklady	NNIP4-----A----	Obj
+2	za	RR--4----------	AuxP
+3	další	AAIP4----1A----	Atr
+4	léčebné	AAIP4----1A----	Atr
+5	úkony	NNIP4-----A----	Atr
+6	hradit	Vf--------A----	Sb
+7	nelze	VB-S---3P-NA---	Pred
+8	.	Z:-------------	AuxK
+
+cmpr9410-003-p9s3
+1	Může	VB-S---3P-AA---	Pred
+2	proto	J^-------------	Coord
+3	dojít	Vf--------A----	Obj
+4	k	RR--3----------	AuxP
+5	tomu	PDZS3----------	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	náklady	NNIP1-----A----	Sb
+9	vynaložené	AAIP1----1A----	Atr
+10	v	RR--6----------	AuxP
+11	cizině	NNFS6-----A----	Adv
+12	budou	VB-P---3F-AA---	Atr
+13	mnohem	Db-------------	Adv
+14	vyšší	AAIP1----2A----	Pnom
+15	než	J,-------------	AuxC
+16	náklady	NNIP1-----A----	ExD
+17	v	RR--6----------	AuxP
+18	České	AAFS6----1A----	Atr
+19	republice	NNFS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9410-003-p9s4
+1	Rozdíl	NNIS4-----A----	Obj
+2	byste	Vc-P---2-------	AuxV
+3	byl	VpYS---XR-AA---	Pred
+4	nucen	VsYS---XX-AP---	Pnom
+5	uhradit	Vf--------A----	Obj
+6	sám	PLYS1----------	AtvV
+7	.	Z:-------------	AuxK
+
+cmpr9410-003-p9s5
+1	Proto	J^-------------	Coord
+2	doporučuji	VB-S---1P-AA--1	Pred
+3	pojistit	Vf--------A----	Obj
+4	se	P7-X4----------	Obj
+5	pro	RR--4----------	AuxP
+6	případ	NNIS4-----A----	AuxP
+7	nemoci	NNFS2-----A----	Atr
+8	nebo	J^-------------	Coord
+9	úrazu	NNIS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	základě	NNIS6-----A----	AuxP
+12	samostatné	AAFS2----1A----	Atr
+13	pojistné	AAFS2----1A----	Atr
+14	smlouvy	NNFS2-----A----	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9410-003-p10s1
+1	JUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	PhDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Oldřich	NNMS1-----A----	Atr
+6	Choděra	NNMS1-----A----	ExD
+
+cmpr9410-003-p11s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Advokátní	AAFS1----1A----	Atr
+4	a	J^-------------	Coord
+5	komerčně	Dg-------1A----	Adv
+6	právní	AAFS1----1A----	Atr
+7	kancelář	NNFS1-----A----	ExD
+8	,	Z:-------------	AuxX
+9	Národní	AAFS1----1A----	Atr
+10	25	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	Praha	NNFS1-----A----	Atr
+13	1	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	tel	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	+	Z:-------------	Coord
+18	FAX	NNIS1-----A----	Atr
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	02	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	242	C=-------------	Atr
+24	27845	C=-------------	Atr
+

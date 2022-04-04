@@ -1,0 +1,268 @@
+lnd94104-041-p1s1
+1	Za	RR--4----------	AuxP
+2	přípravu	NNFS4-----A----	Obj
+3	nového	AAIS2----1A----	Atr
+4	zákona	NNIS2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	rodině	NNFS6-----A----	Atr
+7	zatím	Db-------------	Adv
+8	oficiálně	Dg-------1A----	Adv
+9	nikdo	PWM-1----------	Sb
+10	nezodpovídá	VB-S---3P-NA---	Pred
+
+lnd94104-041-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ika	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94104-041-p1s3
+1	Nový	AAIS4----1A----	Atr
+2	zákon	NNIS4-----A----	Obj
+3	o	RR--6----------	AuxP
+4	rodině	NNFS6-----A----	Atr
+5	stále	Dg-------1A----	Adv
+6	ještě	Db-------------	Adv
+7	oficiálně	Dg-------1A----	Adv
+8	nikdo	PWM-1----------	Sb
+9	nepřipravuje	VB-S---3P-NA---	Pred
+10	.	Z:-------------	AuxK
+
+lnd94104-041-p1s4
+1	Asi	TT-------------	AuxZ
+2	od	RR--2----------	AuxP
+3	roku	NNIS2-----A---1	Adv
+4	1991	C=-------------	Atr
+5	se	P7-X4----------	AuxT
+6	scházejí	VB-P---3P-AA---	Pred
+7	podněty	NNIP1-----A----	Sb
+8	k	RR--3----------	AuxP
+9	novele	NNFS3-----A----	Atr
+10	třicet	Cn-S4----------	Adv
+11	let	NNNP2-----A----	Atr
+12	starého	AAIS2----1A----	Atr
+13	zákona	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	který	P4YS1----------	Sb
+16	dnes	Db-------------	Adv
+17	už	Db-------------	Adv
+18	v	RR--6----------	AuxP
+19	mnoha	Ca--6----------	Atr
+20	směrech	NNIP6-----A----	Adv
+21	naprosto	Db-------------	Adv
+22	nevyhovuje	VB-S---3P-NA---	Atr
+23	.	Z:-------------	AuxK
+
+lnd94104-041-p1s5
+1	Neoficiálně	Dg-------1N----	Adv
+2	na	RR--6----------	AuxP
+3	návrhu	NNIS6-----A----	Obj
+4	nového	AAIS2----1A----	Atr
+5	právního	AAIS2----1A----	Atr
+6	předpisu	NNIS2-----A----	Atr
+7	nebo	J^-------------	Coord
+8	alespoň	Db-------------	AuxZ
+9	novele	NNFS6-----A----	Obj
+10	dosavadního	AAIS2----1A----	ExD
+11	pracují	VB-P---3P-AA---	Pred
+12	občanské	AAFP1----1A----	Atr
+13	iniciativy	NNFP1-----A----	Sb
+14	a	J^-------------	Coord
+15	sdružení	NNNP1-----A----	Sb
+16	nebo	J^-------------	Coord
+17	i	J^-------------	AuxZ
+18	skupiny	NNFP1-----A----	Sb
+19	uvnitř	Db-------------	AuxP
+20	politických	AAFP2----1A----	Atr
+21	stran	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd94104-041-p1s6
+1	Nový	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	Sb
+3	o	RR--6----------	AuxP
+4	rodině	NNFS6-----A----	Atr
+5	by	Vc-------------	AuxV
+6	se	P7-X4----------	AuxT
+7	měl	VpYS---XR-AA---	Pred
+8	zabývat	Vf--------A----	Obj
+9	například	Db-------------	AuxY
+10	právy	NNNP7-----A----	Obj
+11	dítěte	NNNS2-----A----	Atr
+12	a	J^-------------	Coord
+13	jejich	PSXXXXP3-------	Atr
+14	souladem	NNIS7-----A----	Obj
+15	s	RR--7----------	AuxP
+16	mezinárodní	AAFS7----1A----	Atr
+17	úmluvou	NNFS7-----A----	Atr
+18	,	Z:-------------	Coord
+19	otázkou	NNFS7-----A----	Obj
+20	alimentů	NNIP2-----A----	Atr
+21	a	J^-------------	Coord
+22	jejich	PSXXXXP3-------	Atr
+23	valorizací	NNFS7-----A----	Obj
+24	.	Z:-------------	AuxK
+
+lnd94104-041-p1s7
+1	Je	VB-S---3P-AA---	Pred
+2	také	Db-------------	AuxZ
+3	nutné	AANS1----1A----	Pnom
+4	zpřesnit	Vf--------A----	Sb
+5	proceduru	NNFS4-----A----	Obj
+6	kolem	RR--2----------	AuxP
+7	opatrovnictví	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	pěstounské	AAFS2----1A----	Atr
+10	péče	NNFS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	osvojení	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94104-041-p1s8
+1	Parlamentní	AAIS1----1A----	Atr
+2	výbor	NNIS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	sociální	AAFS4----1A----	Atr
+5	politiku	NNFS4-----A----	Atr
+6	a	J^-------------	Coord
+7	zdravotnictví	NNNS4-----A----	Atr
+8	usiluje	VB-S---3P-AA---	Pred
+9	o	RR--4----------	AuxP
+10	to	PDNS4----------	Obj
+11	,	Z:-------------	AuxX
+12	aby	J,-------------	AuxC
+13	nový	AAIS1----1A----	Atr
+14	zákon	NNIS1-----A----	Sb
+15	o	RR--6----------	AuxP
+16	rodině	NNFS6-----A----	Atr
+17	byl	VpYS---XR-AA---	Atr
+18	hotov	ACYS------A----	Pnom
+19	už	Db-------------	AuxZ
+20	letos	Db-------------	Adv
+21	.	Z:-------------	AuxK
+
+lnd94104-041-p1s9
+1	Zatím	Db-------------	Adv
+2	však	J^-------------	Coord
+3	žádné	PWNS1----------	Atr
+4	ministerstvo	NNNS1-----A----	Sb
+5	nepřijalo	VpNS---XR-NA---	Pred
+6	garanci	NNFS4-----A----	Obj
+7	jeho	PSXXXZS3-------	Atr
+8	přípravy	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd94104-041-p1s10
+1	Proč	Db-------------	Adv
+2	tak	Db-------------	Adv
+3	neučinilo	VpNS---XR-NA---	Obj
+4	ministerstvo	NNNS1-----A----	Sb
+5	práce	NNFS2-----A----	Atr
+6	a	J^-------------	Coord
+7	sociálních	AAFP2----1A----	Atr
+8	věcí	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	jsme	VB-P---1P-AA---	AuxV
+11	se	P7-X4----------	AuxT
+12	zeptali	VpMP---XR-AA---	Pred
+13	ministra	NNMS2-----A----	Atr
+14	Jindřicha	NNMS2-----A----	Atr
+15	Vodičky	NNMS2-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd94104-041-p1s11
+1	"	Z:-------------	AuxG
+2	Výzkumný	AAIS1----1A----	Atr
+3	ústav	NNIS1-----A----	Sb
+4	práce	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	sociálních	AAFP2----1A----	Atr
+7	věcí	NNFP2-----A----	Atr
+8	zorganizoval	VpYS---XR-AA---	Pred
+9	schůzku	NNFS4-----A----	Obj
+10	odborníků	NNMP2-----A----	Atr
+11	a	J^-------------	Coord
+12	ti	PDMP1----------	Sb
+13	se	P7-X4----------	AuxT
+14	shodli	VpMP---XR-AA--1	Pred
+15	na	RR--6----------	AuxP
+16	tom	PDZS6----------	Obj
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	ministerstvo	NNNS1-----A----	Sb
+20	práce	NNFS2-----A----	Atr
+21	a	J^-------------	Coord
+22	sociálních	AAFP2----1A----	Atr
+23	věcí	NNFP2-----A----	Atr
+24	by	Vc-------------	AuxV
+25	nemělo	VpNS---XR-NA---	Atr
+26	být	Vf--------A----	Obj
+27	garantem	NNMS7-----A----	Pnom
+28	tohoto	PDZS2----------	Atr
+29	zákona	NNIS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+lnd94104-041-p1s12
+1	Oblast	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	kterou	P4FS4----------	Obj
+4	by	Vc-------------	AuxV
+5	měla	VpQW---XR-AA---	Atr
+6	tato	PDFS1----------	Atr
+7	právní	AAFS1----1A----	Atr
+8	norma	NNFS1-----A----	Sb
+9	pokrývat	Vf--------A----	Obj
+10	,	Z:-------------	AuxX
+11	zasahuje	VB-S---3P-AA---	Pred
+12	do	RR--2----------	AuxP
+13	našich	PSXP2-P1-------	Atr
+14	agend	NNFP2-----A----	Adv
+15	zhruba	Db-------------	AuxZ
+16	dvaceti	Cn-P7----------	Atr
+17	procenty	NNNP7-----A----	Adv
+18	.	Z:-------------	AuxK
+
+lnd94104-041-p1s13A
+1	Zbytek	NNIS1-----A----	Sb
+2	připadá	VB-S---3P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	resort	NNIS4-----A----	Obj
+5	spravedlnosti	NNFS2-----A----	Atr
+6	,	Z:-------------	Coord
+7	školství	NNNS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	na	RR--4----------	AuxP
+10	legislativu	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+12	"	Z:-------------	AuxG
+
+lnd94104-041-p1s13B
+1	Ministr	NNMS1-----A----	Atr
+2	Vodička	NNMS1-----A----	Sb
+3	sdělil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	požádal	VpYS---XR-AA---	Obj
+7	dopisem	NNIS7-----A----	Adv
+8	místopředsedu	NNMS4-----A----	Atr
+9	vlády	NNFS2-----A----	Atr
+10	Jana	NNMS2-----A----	Atr
+11	Kalvodu	NNMS4-----A----	Obj
+12	a	J^-------------	Coord
+13	ministra	NNMS4-----A----	Atr
+14	spravedlnosti	NNFS2-----A----	Atr
+15	Jiřího	NNMS4-----A----	Atr
+16	Nováka	NNMS4-----A----	Obj
+17	o	RR--4----------	AuxP
+18	schůzku	NNFS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	na	RR--6----------	AuxP
+21	které	P4FS6----------	Adv
+22	se	P7-X4----------	AuxT
+23	dohodnou	VB-P---3P-AA---	Atr
+24	o	RR--6----------	AuxP
+25	dalším	AAIS6----1A----	Atr
+26	postupu	NNIS6-----A----	Obj
+27	.	Z:-------------	AuxK
+

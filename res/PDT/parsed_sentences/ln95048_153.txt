@@ -1,0 +1,79 @@
+ln95048-153-p1s1
+1	Burza	NNFS1-----A----	Sb
+2	zahájila	VpQW---XR-AA---	Pred
+
+ln95048-153-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95048-153-p2s1B
+1	Po	RR--6----------	AuxP
+2	devítidenní	AAFS6----1A----	Atr
+3	přestávce	NNFS6-----A----	Adv
+4	zahájila	VpQW---XR-AA---	Pred
+5	opět	Db-------------	Adv
+6	obchodování	NNNS4-----A----	Obj
+7	pražská	AAFS1----1A----	Atr
+8	burza	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln95048-153-p2s2
+1	Objem	NNIS1-----A----	Sb
+2	obchodu	NNIS2-----A----	Atr
+3	dosáhl	VpYS---XR-AA---	Pred
+4	580.899	C=-------------	Atr
+5	mil	NNIXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Kč	NNFXX-----A----	Obj
+8	,	Z:-------------	Coord
+9	pokles	NNIS1-----A----	Sb
+10	cen	NNFP2-----A----	Atr
+11	akcií	NNFP2-----A----	Atr
+12	dále	Db------------1	Adv
+13	pokračoval	VpYS---XR-AA---	Pred
+14	.	Z:-------------	AuxK
+
+ln95048-153-p2s4
+1	Měřeno	VsNS---XX-AP---	Adv
+2	indexem	NNIS7-----A----	Adv
+3	PX	NNXXX-----A---8	Atr
+4	50	C=-------------	Atr
+5	ceny	NNFP1-----A----	Sb
+6	klesly	VpTP---XR-AA--1	Pred
+7	o	RR--4----------	AuxP
+8	1.18	C=-------------	Adv
+9	%	Z:-------------	Atr
+10	a	J^-------------	Coord
+11	samotný	AAIS1----1A----	Atr
+12	index	NNIS1-----A----	Sb
+13	uzavřel	VpYS---XR-AA---	Pred
+14	na	RR--6----------	AuxP
+15	hodnotě	NNFS6-----A----	Adv
+16	487.1	C=-------------	Atr
+17	bodu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95048-153-p2s5
+1	Obchodování	NNNS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	RM	AAXXX----1A---8	Atr
+4	-	Z:-------------	AuxG
+5	Systému	NNIS6-----A----	Atr
+6	začne	VB-S---3P-AA---	Pred
+7	1	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	března	NNIS2-----A----	Adv
+10	,	Z:-------------	AuxX
+11	kdy	Db-------------	Adv
+12	budou	VB-P---3F-AA---	AuxV
+13	na	RR--4----------	AuxP
+14	oba	ClYP4----------	Atr
+15	trhy	NNIP4-----A----	Adv
+16	uvedeny	VsTP---XX-AP---	Atr
+17	akcie	NNFP1-----A----	Sb
+18	z	RR--2----------	AuxP
+19	druhé	CrFS2----------	Atr
+20	vlny	NNFS2-----A----	Atr
+21	privatizace	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+

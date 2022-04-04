@@ -1,0 +1,186 @@
+ln94206-56-p1s1
+1	Za	RR--4----------	AuxP
+2	Klausovu	AUFS4M---------	Atr
+3	stranu	NNFS4-----A----	Obj
+4	kandiduje	VB-S---3P-AA---	Pred
+5	málo	Ca--1----------	Sb
+6	žen	NNFP2-----A----	Atr
+
+ln94206-56-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln94206-56-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	haš	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	če	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94206-56-p2s1C
+1	Minimálně	Dg-------1A----	AuxZ
+2	čtyři	ClXP1----------	Atr
+3	pětiny	CyFP1----------	Pnom
+4	kandidátů	NNMP2-----A----	Atr
+5	ODS	NNFXX-----A---8	Atr
+6	v	RR--6----------	AuxP
+7	podzimních	AAFP6----1A----	Atr
+8	komunálních	AAFP6----1A----	Atr
+9	volbách	NNFP6-----A----	AtrAdv
+10	budou	VB-P---3F-AA---	Pred
+11	muži	NNMP1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94206-56-p2s2
+1	Sdělil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	výkonný	AAMS1----1A----	Atr
+5	místopředseda	NNMS1-----A----	Atr
+6	strany	NNFS2-----A----	Atr
+7	Petr	NNMS1-----A----	Atr
+8	Čermák	NNMS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94206-56-p2s3
+1	Počet	NNIS1-----A----	Sb
+2	nezávislých	AAMP2----1N----	Atr
+3	kandidátů	NNMP2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	kandidátkách	NNFP6-----A----	AtrAdv
+6	ODS	NNFXX-----A---8	Atr
+7	podle	RR--2----------	AuxP
+8	něho	P5ZS2--3------1	Adv
+9	klesá	VB-S---3P-AA---	Pred
+10	s	RR--7----------	AuxP
+11	velikostí	NNFS7-----A----	Adv
+12	měst	NNNP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94206-56-p3s1
+1	Na	RR--4----------	AuxP
+2	dotaz	NNIS4-----A----	Adv
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	si	P7-X3----------	Adv
+6	ODS	NNFXX-----A---8	Sb
+7	zaplatí	VB-S---3P-AA---	Atr
+8	předvolební	AAFS4----1A----	Atr
+9	reklamu	NNFS4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	televizi	NNFS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	řekla	VpQW---XR-AA---	Pred
+14	tisková	AAFS1----1A----	Atr
+15	mluvčí	NNFS1-----A----	Atr
+16	J	NNFXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	Petrová	NNFS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	zákon	NNIS1-----A----	Sb
+22	o	RR--6----------	AuxP
+23	televizním	AANS6----1A----	Atr
+24	a	J^-------------	Coord
+25	rozhlasovém	AANS6----1A----	Atr
+26	vysílání	NNNS6-----A----	Atr
+27	to	PDNS4----------	Obj
+28	neumožňuje	VB-S---3P-NA---	Obj
+29	.	Z:-------------	AuxK
+
+ln94206-56-p3s2
+1	Zdůraznila	VpQW---XR-AA---	Pred
+2	však	J^-------------	Coord
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	při	RR--6----------	AuxP
+6	jednání	NNNS6-----A----	Adv
+7	ústřední	AAFS2----1A----	Atr
+8	volební	AAFS2----1A----	Atr
+9	komise	NNFS2-----A----	Atr
+10	by	Vc-------------	AuxV
+11	se	P7-X4----------	AuxT
+12	všech	PLXP2----------	Atr
+13	osmdesát	Cn-S1----------	Sb
+14	politických	AAIP2----1A----	Atr
+15	subjektů	NNIP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4IP1----------	Sb
+18	se	P7-X4----------	AuxT
+19	voleb	NNFP2-----A----	Obj
+20	účastní	VB-P---3P-AA---	Atr
+21	,	Z:-------------	AuxX
+22	mohlo	VpNS---XR-AA---	Obj
+23	domluvit	Vf--------A----	Obj
+24	na	RR--6----------	AuxP
+25	tom	PDZS6----------	Obj
+26	,	Z:-------------	AuxX
+27	co	PQ--4----------	Obj
+28	znamená	VB-S---3P-AA---	Atr
+29	rovný	AAIS1----1A----	Atr
+30	přístup	NNIS1-----A----	Sb
+31	ke	RV--3----------	AuxP
+32	sdělovacím	AAIP3----1A----	Atr
+33	prostředkům	NNIP3-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94206-56-p3s3
+1	Český	AAIS1----1A----	Atr
+2	rozhlas	NNIS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	podle	RR--2----------	AuxP
+5	ní	P5FS2--3-------	Adv
+6	pořádat	Vf--------A----	Pred
+7	besedy	NNFP4-----A----	Obj
+8	u	RR--2----------	AuxP
+9	kulatého	AAIS2----1A----	Atr
+10	stolu	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jichž	PJXP2----------	Obj
+13	by	Vc-------------	AuxV
+14	se	P7-X4----------	AuxT
+15	ODS	NNFXX-----A---8	Sb
+16	chtěla	VpQW---XR-AA---	Atr
+17	zúčastnit	Vf--------A----	Obj
+18	.	Z:-------------	AuxK
+
+ln94206-56-p4s1
+1	K	RR--3----------	AuxP
+2	úsilí	NNNS3-----A----	Adv
+3	komise	NNFS2-----A----	Atr
+4	4	C=-------------	Atr
+5	+	Z:-------------	Atr
+6	4	C=-------------	Obj
+7	+	Z:-------------	Atr
+8	1	C=-------------	Obj
+9	vyřešit	Vf--------A----	Atr
+10	vleklý	AAIS4----1A----	Atr
+11	vnitrostranický	AAIS4----1A----	Atr
+12	spor	NNIS4-----A----	Obj
+13	v	RR--6----------	AuxP
+14	brněnské	AAFS6----1A----	Atr
+15	ODS	NNFXX-----A---8	Atr
+16	řekl	VpYS---XR-AA---	Pred
+17	Václav	NNMS1-----A----	Atr
+18	Klaus	NNMS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	se	P7-X4----------	AuxT
+22	schyluje	VB-S---3P-AA---	Obj
+23	k	RR--3----------	AuxP
+24	potřebnému	AAIS3----1A----	Atr
+25	kompromisu	NNIS3-----A----	Obj
+26	,	Z:-------------	AuxX
+27	který	P4YS1----------	Sb
+28	má	VB-S---3P-AA---	Atr
+29	být	Vf--------A----	AuxV
+30	ještě	Db-------------	Adv
+31	dnes	Db-------------	Adv
+32	navržen	VsYS---XX-AP---	Obj
+33	účastníkům	NNMP3-----A----	Obj
+34	konfliktu	NNIS2-----A----	Atr
+35	.	Z:-------------	AuxK
+

@@ -1,0 +1,247 @@
+ln95040-147-p1s1
+1	Hlasování	NNNS1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	úniku	NNIS6-----A----	Atr
+4	informací	NNFP2-----A----	Atr
+5	vedlo	VpNS---XR-AA---	Pred
+6	k	RR--3----------	AuxP
+7	roztržce	NNFS3-----A----	Adv
+8	v	RR--6----------	AuxP
+9	komisi	NNFS6-----A----	Atr
+10	BIS	NNFXX-----A---8	Atr
+
+ln95040-147-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95040-147-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-147-p3s1B
+1	Demonstrativním	AAIS7----1A----	Atr
+2	odchodem	NNIS7-----A----	Adv
+3	poslanců	NNMP2-----A----	Atr
+4	Ivana	NNMS2-----A----	Atr
+5	Maška	NNMS2-----A----	Atr
+6	(	Z:-------------	ExD
+7	ODA	NNFXX-----A---8	ExD
+8	)	Z:-------------	ExD
+9	a	J^-------------	Coord
+10	Pavla	NNMS2-----A----	Atr
+11	Severy	NNMS2-----A----	Atr
+12	(	Z:-------------	AuxG
+13	KDU	NNFXX-----A---8	ExD
+14	-	Z:-------------	Coord
+15	ČSL	NNFXX-----A---8	ExD
+16	)	Z:-------------	AuxG
+17	včera	Db-------------	Adv
+18	skončilo	VpNS---XR-AA---	Pred
+19	další	AANS1----1A----	Atr
+20	jednání	NNNS1-----A----	Sb
+21	sedmičlenné	AAFS2----1A----	Atr
+22	parlamentní	AAFS2----1A----	Atr
+23	komise	NNFS2-----A----	Atr
+24	pro	RR--4----------	AuxP
+25	kontrolu	NNFS4-----A----	Atr
+26	Bezpečnostní	AAFS2----1A----	Atr
+27	a	J^-------------	Coord
+28	informační	AAFS2----1A----	Atr
+29	služby	NNFS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln95040-147-p4s1
+1	Poslanci	NNMP1-----A----	Sb
+2	opustili	VpMP---XR-AA---	Pred
+3	jednání	NNNS4-----A----	Obj
+4	poté	Db-------------	Adv
+5	,	Z:-------------	AuxX
+6	co	J,-------------	AuxC
+7	neprosadili	VpMP---XR-NA---	Adv
+8	svůj	P8IS4----------	Atr
+9	návrh	NNIS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	se	P7-X4----------	AuxR
+13	o	RR--6----------	AuxP
+14	usnesení	NNNS6-----A----	Obj
+15	k	RR--3----------	AuxP
+16	třetímu	CrIS3----------	Atr
+17	bodu	NNIS3-----A----	Atr
+18	v	RR--6----------	AuxP
+19	obvinění	NNNS6-----A----	Atr
+20	BIS	NNFXX-----A---8	Atr
+21	-	Z:-------------	AuxG
+22	únik	NNIS1-----A----	Atr
+23	informací	NNFP2-----A----	Atr
+24	z	RR--2----------	AuxP
+25	kontrarozvědky	NNFS2-----A----	AtrAtr
+26	a	J^-------------	Coord
+27	tzv	AAXXX----1A---8	Atr
+28	.	Z:-------------	AuxG
+29	politické	AAFS2----1A----	Atr
+30	vlivové	AAFS2----1A----	Atr
+31	agentury	NNFS2-----A----	AtrAtr
+32	-	Z:-------------	AuxG
+33	hlasovalo	VpNS---XR-AA---	Atr
+34	až	TT-------------	AuxZ
+35	dnes	Db-------------	Adv
+36	,	Z:-------------	Coord
+37	nikoli	Db------------1	AuxZ
+38	už	Db-------------	AuxZ
+39	včera	Db-------------	Adv
+40	večer	Db-------------	Adv
+41	.	Z:-------------	AuxK
+
+ln95040-147-p4s2
+1	Předseda	NNMS1-----A----	Atr
+2	komise	NNFS2-----A----	Atr
+3	Vlastimil	NNMS1-----A----	Atr
+4	Doubrava	NNMS1-----A----	Sb
+5	(	Z:-------------	AuxG
+6	nezařazen	VsYS---XX-NP---	Atr
+7	)	Z:-------------	AuxG
+8	však	J^-------------	Coord
+9	po	RR--6----------	AuxP
+10	jejich	PSXXXXP3-------	Atr
+11	odchodu	NNIS6-----A----	Adv
+12	schůzi	NNFS4-----A----	Obj
+13	přerušil	VpYS---XR-AA---	Pred
+14	,	Z:-------------	AuxX
+15	takže	J,-------------	AuxC
+16	hlasovat	Vf--------A----	Adv
+17	se	P7-X4----------	AuxR
+18	bude	VB-S---3F-AA---	AuxV
+19	stejně	Dg-------1A----	AuxY
+20	až	TT-------------	AuxZ
+21	dnes	Db-------------	Adv
+22	.	Z:-------------	AuxK
+
+ln95040-147-p5s1
+1	"	Z:-------------	AuxG
+2	Způsob	NNIS1-----A----	Sb
+3	jednání	NNNS2-----A----	Atr
+4	některých	PZXP2----------	Atr
+5	lidí	NNMP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	orgánu	NNIS6-----A----	Atr
+8	na	RR--4----------	AuxP
+9	mě	PH-S4--1-------	Obj
+10	působí	VB-S---3P-AA---	Adv
+11	naprosto	Db-------------	Adv
+12	znechucujícím	AGIS7-----A----	Atr
+13	dojmem	NNIS7-----A----	Adv
+14	,	Z:-------------	AuxX
+15	"	Z:-------------	AuxG
+16	komentoval	VpYS---XR-AA---	Pred
+17	Doubrava	NNMS1-----A----	Sb
+18	Maškův	AUIS4M---------	Atr
+19	a	J^-------------	Coord
+20	Severův	AUIS4M---------	Atr
+21	čin	NNIS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln95040-147-p5s2
+1	Důvod	NNIS4-----A----	Obj
+2	odmítl	VpYS---XR-AA--1	Pred
+3	sdělit	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	připustil	VpYS---XR-AA---	Pred
+6	však	J^-------------	Coord
+7	možnost	NNFS4-----A----	Obj
+8	záměrného	AANS2----1A----	Atr
+9	zdržování	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95040-147-p5s3
+1	Komise	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	totiž	Db-------------	AuxY
+4	měla	VpQW---XR-AA---	Pred
+5	vyjádřit	Vf--------A----	Obj
+6	i	J^-------------	AuxZ
+7	k	RR--3----------	AuxP
+8	závažnosti	NNFS3-----A----	Obj
+9	nového	AAIS2----1A----	Atr
+10	materiálu	NNIS2-----A----	Atr
+11	ODA	NNFXX-----A---8	Atr
+12	o	RR--6----------	AuxP
+13	únicích	NNIP6-----A----	Atr
+14	z	RR--2----------	AuxP
+15	BIS	NNFXX-----A---8	Atr
+16	,	Z:-------------	AuxX
+17	který	P4YS1----------	Sb
+18	byl	VpYS---XR-AA---	AuxV
+19	předán	VsYS---XX-AP---	Atr
+20	minulý	AAIS4----1A----	Atr
+21	pátek	NNIS4-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95040-147-p5s4
+1	"	Z:-------------	AuxG
+2	Většina	NNFS1-----A----	Sb
+3	členů	NNMP2-----A----	Atr
+4	orgánu	NNIS2-----A----	Atr
+5	byla	VpQW---XR-AA---	Obj
+6	v	RR--6----------	AuxP
+7	podstatě	NNFS6-----A----	Adv
+8	ve	RV--6----------	AuxP
+9	stadiu	NNNS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	o	RR--6----------	AuxP
+13	tom	PDZS6----------	Obj
+14	lze	VB-S---3P-AA---	Atr
+15	ihned	Db-------------	Adv
+16	hlasovat	Vf--------A----	Sb
+17	,	Z:-------------	AuxX
+18	"	Z:-------------	AuxG
+19	uvedl	VpYS---XR-AA---	Pred
+20	Doubrava	NNMS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+ln95040-147-p5s5
+1	Poslanec	NNMS1-----A----	Sb
+2	Mašek	NNMS1-----A----	Atr
+3	sdělil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	při	RR--6----------	AuxP
+7	poslední	AAFS6----1A----	Atr
+8	návštěvě	NNFS6-----A----	Adv
+9	sídla	NNNS2-----A----	Atr
+10	BIS	NNFXX-----A---8	Atr
+11	navrhl	VpYS---XR-AA--1	Obj
+12	komisi	NNFS3-----A----	Obj
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	si	P7-X3----------	Adv
+16	pozvala	VpQW---XR-AA---	Obj
+17	počítačové	AAMP4----1A----	Atr
+18	experty	NNMP4-----A----	Obj
+19	schopné	AAMP4----1A----	Atr
+20	ověřit	Vf--------A----	Obj
+21	původ	NNIS4-----A----	Obj
+22	materiálu	NNIS2-----A----	Atr
+23	o	RR--6----------	AuxP
+24	extrémistických	AAFP6----1A----	Atr
+25	organizacích	NNFP6-----A----	Atr
+26	a	J^-------------	Coord
+27	systém	NNIS4-----A----	Obj
+28	skartací	NNFP2-----A----	Atr
+29	na	RR--6----------	AuxP
+30	počítačových	AANP6----1A----	Atr
+31	mediích	NNNP6-----A----	Atr
+32	BIS	NNFXX-----A---8	Atr
+33	.	Z:-------------	AuxK
+
+ln95040-147-p5s6
+1	Poslanci	NNMP1-----A----	Sb
+2	však	J^-------------	Coord
+3	návrh	NNIS4-----A----	Obj
+4	neakceptovali	VpMP---XR-NA---	Pred
+5	.	Z:-------------	AuxK
+

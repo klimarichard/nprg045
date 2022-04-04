@@ -1,0 +1,99 @@
+mf920902-050-p1s1
+1	Požár	NNIS1-----A----	ExD
+2	uhašen	VsYS---XX-AP---	ExD
+
+mf920902-050-p2s1
+1	Bratislava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920902-050-p2s2
+1	Požár	NNIS4-----A----	Obj
+2	lesa	NNIS2-----A----	Atr
+3	mezi	RR--7----------	AuxP
+4	Lozornem	NNNS7-----A----	Atr
+5	a	J^-------------	Coord
+6	Malackami	NNFP7-----A----	Atr
+7	v	RR--6----------	AuxP
+8	okrese	NNIS6-----A----	Atr
+9	Bratislava	NNFS1-----A----	Atr
+10	-	Z:-------------	AuxG
+11	venkov	NNIS1-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	včera	Db-------------	Adv
+14	podařilo	VpNS---XR-AA---	Pred
+15	uhasit	Vf--------A----	Sb
+16	.	Z:-------------	AuxK
+
+mf920902-050-p2s3
+1	Mohl	VpYS---XR-AA---	Pred
+2	být	Vf--------A----	Obj
+3	proto	J^-------------	Coord
+4	obnoven	VsYS---XX-AP---	Pnom
+5	provoz	NNIS1-----A----	Sb
+6	na	RR--6----------	AuxP
+7	dálnici	NNFS6-----A----	Atr
+8	D	NNFXX-----A---8	Atr
+9	2	C=-------------	Atr
+10	v	RR--6----------	AuxP
+11	úseku	NNIS6-----A----	Atr
+12	Lozorno	NNNS1-----A----	Atr
+13	-	Z:-------------	Coord
+14	Kúty	NNIP1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920902-050-p2s4
+1	Od	RR--2----------	AuxP
+2	soboty	NNFS2-----A----	Adv
+3	29	C=-------------	Atr
+4	.	Z:-------------	AuxG
+5	srpna	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	kdy	Db-------------	Adv
+8	požár	NNIS1-----A----	Sb
+9	vypukl	VpYS---XR-AA--1	Atr
+10	,	Z:-------------	AuxX
+11	se	P7-X4----------	AuxT
+12	na	RR--6----------	AuxP
+13	jeho	PSXXXZS3-------	Atr
+14	hašení	NNNS6-----A----	Obj
+15	podílelo	VpNS---XR-AA---	Pred
+16	několik	Ca--1----------	Sb
+17	stovek	NNFP2-----A----	Atr
+18	profesionálních	AAMP2----1A----	Atr
+19	požárníků	NNMP2-----A----	Atr
+20	a	J^-------------	Coord
+21	dobrovolníků	NNMP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf920902-050-p2s5
+1	Ohněm	NNIS7-----A----	Adv
+2	bylo	VpNS---XR-AA---	AuxV
+3	zasaženo	VsNS---XX-AP---	Pred
+4	území	NNNS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	délce	NNFS6-----A----	Atr
+7	kolem	RR--2----------	AuxP
+8	17	C=-------------	Atr
+9	kilometrů	NNIP2-----A----	Atr
+10	a	J^-------------	Coord
+11	šířce	NNFS6-----A----	Atr
+12	asi	TT-------------	AuxZ
+13	tří	ClXP2----------	Atr
+14	kilometrů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920902-050-p2s6
+1	U	RR--2----------	AuxP
+2	obcí	NNFP2-----A----	Adv
+3	Brodské	NNNS1-----A----	Atr
+4	a	J^-------------	Coord
+5	Lozorno	NNNS1-----A----	Atr
+6	živel	NNIS1-----A----	Sb
+7	zasáhl	VpYS---XR-AA---	Pred
+8	na	RR--4----------	AuxP
+9	200	C=-------------	Obj
+10	hektarů	NNIP2-----A----	Atr
+11	lesního	AAIS2----1A----	Atr
+12	porostu	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+

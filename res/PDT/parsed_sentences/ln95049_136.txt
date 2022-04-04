@@ -1,0 +1,79 @@
+ln95049-136-p1s1
+1	Ford	NNIS1-----A----	Sb
+2	připravuje	VB-S---3P-AA---	Pred
+3	;	Z:-------------	AuxG
+4	výrobu	NNFS4-----A----	Obj
+5	v	RR--6----------	AuxP
+6	Polsku	NNNS6-----A----	AdvAtr
+
+ln95049-136-p2s1A
+1	Varšava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-136-p2s1B
+1	Ještě	Db-------------	AuxZ
+2	během	RR--2----------	AuxP
+3	tohoto	PDZS2----------	Atr
+4	roku	NNIS2-----A---1	Adv
+5	započne	VB-S---3P-AA---	Pred
+6	Ford	NNIS1-----A----	Sb
+7	s	RR--7----------	AuxP
+8	montáží	NNFS7-----A----	Obj
+9	modelů	NNIP2-----A----	Atr
+10	Escort	NNIS1-----A----	Atr
+11	a	J^-------------	Coord
+12	Transit	NNIS1-----A----	Atr
+13	v	RR--6----------	AuxP
+14	polském	AAIS6----1A----	Atr
+15	Plonsku	NNIS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95049-136-p2s2
+1	Zpočátku	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	má	VB-S---3P-AA---	Pred
+4	roční	AAFS1----1A----	Atr
+5	výroba	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	Plonsku	NNIS6-----A----	Atr
+8	pohybovat	Vf--------A----	Obj
+9	kolem	RR--2----------	AuxP
+10	30000	C=-------------	Adv
+11	automobilů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95049-136-p2s3
+1	Potřebné	AAIP4----1A----	Atr
+2	díly	NNIP4-----A----	Obj
+3	pro	RR--4----------	AuxP
+4	montáž	NNFS4-----A----	Atr
+5	dodají	VB-P---3P-AA---	Pred
+6	kromě	RR--2----------	AuxP
+7	jiných	AAIP2----1A----	Adv
+8	závody	NNIP1-----A----	Sb
+9	Ford	NNIS1-----A----	Atr
+10	-	Z:-------------	AuxG
+11	Werke	NNIPX-----A----	Atr
+12	AG	NNFXX-----A---8	Atr
+13	Genk	NNIS1-----A----	Atr
+14	a	J^-------------	Coord
+15	Saarlouis	NNIXX-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95049-136-p2s4
+1	V	RR--6----------	AuxP
+2	novém	AAIS6----1A----	Atr
+3	závodu	NNIS6-----A---1	Adv
+4	s	RR--7----------	AuxP
+5	výrobní	AAFS7----1A----	Atr
+6	plochou	NNFS7-----A----	Atr
+7	20000	C=-------------	Atr
+8	m	NNIXX-----A---8	Atr
+9	2	C=-------------	Atr
+10	bude	VB-S---3F-AA---	AuxV
+11	zaměstnáno	VsNS---XX-AP---	Pred
+12	zhruba	Db-------------	AuxZ
+13	250	C=-------------	Sb
+14	pracovníků	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+

@@ -1,0 +1,159 @@
+ln94211-16-p1s1
+1	Ceny	NNFP1-----A----	Sb
+2	kávy	NNFS2-----A----	Atr
+3	mohou	VB-P---3P-AA--1	Pred
+4	opět	Db-------------	Adv
+5	růst	Vf--------A----	Obj
+
+ln94211-16-p2s1A
+1	Londýn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94211-16-p2s1B
+1	Světové	AAFP1----1A----	Atr
+2	ceny	NNFP1-----A----	Sb
+3	kávy	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	podle	RR--2----------	AuxP
+6	včerejší	AAFS2----1A----	Atr
+7	situace	NNFS2-----A----	Adv
+8	na	RR--6----------	AuxP
+9	burzách	NNFP6-----A----	Atr
+10	připravují	VB-P---3P-AA---	Pred
+11	na	RR--4----------	AuxP
+12	další	AAIS4----1A----	Atr
+13	explozivní	AAIS4----1A----	Atr
+14	růst	NNIS4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94211-16-p2s2
+1	Oživené	AAFP1----1A----	Atr
+2	obavy	NNFP1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	poklesu	NNIS2-----A----	Atr
+5	brazilského	AAIS2----1A----	Atr
+6	vývozu	NNIS2-----A----	Atr
+7	vyhnaly	VpTP---XR-AA---	Pred
+8	cenu	NNFS4-----A----	Obj
+9	termínového	AAIS2----1A----	Atr
+10	kontraktu	NNIS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	tunu	NNFS4-----A----	Atr
+13	kávy	NNFS2-----A----	Atr
+14	opět	Db-------------	Adv
+15	nad	RR--4----------	AuxP
+16	čtyři	ClXP4----------	Atr
+17	tisíce	NNIP4-----A----	Adv
+18	USD	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+
+ln94211-16-p3s1
+1	Londýnský	AAIS1----1A----	Atr
+2	trh	NNIS1-----A----	Sb
+3	včera	Db-------------	Adv
+4	dopoledne	Db-------------	Adv
+5	zaznamenal	VpYS---XR-AA---	Pred
+6	růst	NNIS4-----A----	Obj
+7	ceny	NNFS2-----A----	Atr
+8	listopadového	AAIS2----1A----	Atr
+9	kontraktu	NNIS2-----A----	Atr
+10	o	RR--4----------	AuxP
+11	107	C=-------------	Atr
+12	USD	NNIXX-----A---8	Atr
+13	na	RR--4----------	AuxP
+14	4060	C=-------------	Atr
+15	USD	NNIXX-----A---8	Atr
+16	za	RR--4----------	AuxP
+17	tunu	NNFS4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94211-16-p3s2
+1	Bylo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	již	Db-------------	Adv
+4	jen	TT-------------	AuxZ
+5	kousek	NNIS4-----A----	Adv
+6	od	RR--2----------	AuxP
+7	červencového	AANS2----1A----	Atr
+8	osmiapůlletého	AANS2----1A----	Atr
+9	maxima	NNNS2-----A----	Atr
+10	4086	C=-------------	Atr
+11	USD	NNIXX-----A---8	Atr
+12	.	Z:-------------	AuxK
+
+ln94211-16-p4s1
+1	Brazilská	AAFS1----1A----	Atr
+2	vláda	NNFS1-----A----	Sb
+3	chce	VB-S---3P-AA---	Pred
+4	zřejmě	Dg-------1A----	AuxY
+5	směrovat	Vf--------A----	Obj
+6	část	NNFS4-----A----	Obj
+7	kávy	NNFS2-----A----	Atr
+8	určené	AAFS2----1A----	Atr
+9	na	RR--4----------	AuxP
+10	export	NNIS4-----A----	Adv
+11	i	J^-------------	AuxZ
+12	na	RR--4----------	AuxP
+13	domácí	AAIS4----1A----	Atr
+14	trh	NNIS4-----A----	Adv
+15	,	Z:-------------	AuxX
+16	aby	J,-------------	AuxC
+17	zde	Db-------------	Adv
+18	držela	VpQW---XR-AA---	Adv
+19	nízké	AAFP4----1A----	Atr
+20	ceny	NNFP4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94211-16-p4s2
+1	V	RR--4----------	AuxP
+2	úterý	NNNS4-----A----	Adv
+3	brazilský	AAMS1----1A----	Atr
+4	úředník	NNMS1-----A----	Sb
+5	ministerstva	NNNS2-----A----	Atr
+6	obchodu	NNIS2-----A----	Atr
+7	sdělil	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	vzhledem	RF-------------	AuxP
+11	ke	RV--3----------	AuxP
+12	ztrátám	NNFP3-----A----	Adv
+13	na	RR--6----------	AuxP
+14	úrodě	NNFS6-----A----	Atr
+15	ministerstvo	NNNS1-----A----	Sb
+16	v	RR--6----------	AuxP
+17	této	PDFS6----------	Atr
+18	chvíli	NNFS6-----A----	Adv
+19	nedoporučuje	VB-S---3P-NA---	Obj
+20	pokračovat	Vf--------A----	Obj
+21	v	RR--6----------	AuxP
+22	aukcích	NNFP6-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94211-16-p5s1
+1	Podle	RR--2----------	AuxP
+2	londýnské	AAFS2----1A----	Atr
+3	brokerské	AAFS2----1A----	Atr
+4	společnosti	NNFS2-----A----	Adv
+5	GNI	NNFXX-----A---8	Atr
+6	by	Vc-------------	AuxV
+7	zastavení	NNNS1-----A----	Sb
+8	brazilských	AAFP2----1A----	Atr
+9	exportních	AAFP2----1A----	Atr
+10	aukcí	NNFP2-----A----	Atr
+11	vytvořilo	VpNS---XR-AA---	Obj
+12	explozivní	AAFS4----1A----	Atr
+13	býčí	AAFS4----1A----	Atr
+14	situaci	NNFS4-----A----	Obj
+15	-	Z:-------------	Coord
+16	to	PDNS1----------	Sb
+17	znamená	VB-S---3P-AA---	Obj
+18	prudký	AAIS4----1A----	Atr
+19	růst	NNIS4-----A----	Obj
+20	cen	NNFP2-----A----	Atr
+21	kávy	NNFS2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	uvedla	VpQW---XR-AA---	Pred
+24	agentura	NNFS1-----A----	Sb
+25	Reuter	NNMS1-----A----	Atr
+26	.	Z:-------------	AuxK
+

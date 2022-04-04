@@ -1,0 +1,176 @@
+ln95049-080-p1s1
+1	Tádžikistán	NNIS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	volby	NNFP1-----A----	ExD
+4	bez	RR--2----------	AuxP
+5	účasti	NNFS2-----A----	Atr
+6	opozice	NNFS2-----A----	Atr
+
+ln95049-080-p2s1A
+1	Moskva	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pp	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln95049-080-p2s1B
+1	Parlamentní	AAFP1----1A----	Atr
+2	volby	NNFP1-----A----	Sb
+3	včera	Db-------------	Adv
+4	proběhly	VpTP---XR-AA--1	Pred
+5	v	RR--6----------	AuxP
+6	Tádžikistánu	NNIS6-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln95049-080-p2s2
+1	Podle	RR--2----------	AuxP
+2	tádžického	AAMS2----1A----	Atr
+3	prezidenta	NNMS2-----A----	Atr
+4	Emomali	NNMXX-----A----	Atr
+5	Rachmonova	NNMS2-----A----	Adv
+6	to	PDNS1----------	Sb
+7	byly	VpTP---XR-AA---	Pred
+8	první	CrFP1----------	Atr
+9	svobodné	AAFP1----1A----	Atr
+10	a	J^-------------	Coord
+11	demokratické	AAFP1----1A----	Atr
+12	volby	NNFP1-----A----	Pnom
+13	v	RR--6----------	AuxP
+14	této	PDFS6----------	Atr
+15	republice	NNFS6-----A----	AtrAdv
+16	od	RR--2----------	AuxP
+17	rozpadu	NNIS2-----A----	Adv
+18	Sovětského	AAIS2----1A----	Atr
+19	svazu	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95049-080-p2s3
+1	Pozorovatelé	NNMP1-----A----	Sb
+2	soudí	VB-P---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	nově	Dg-------1A----	Adv
+6	zvolený	AAIS1----1A----	Atr
+7	parlament	NNIS1-----A----	Sb
+8	bude	VB-S---3F-AA---	AuxV
+9	podporovat	Vf--------A----	Obj
+10	současnou	AAFS4----1A----	Atr
+11	komunistickou	AAFS4----1A----	Atr
+12	vládu	NNFS4-----A----	Obj
+13	v	RR--6----------	AuxP
+14	Tádžikistánu	NNIS6-----A----	Atr
+15	,	Z:-------------	Coord
+16	což	PE--1----------	Sb
+17	i	J^-------------	AuxZ
+18	nadále	Db-------------	Adv
+19	znemožní	VB-S---3P-AA---	Obj
+20	mírové	AAIP4----1A----	Atr
+21	rozhovory	NNIP4-----A----	Obj
+22	s	RR--7----------	AuxP
+23	opozicí	NNFS7-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95049-080-p2s4
+1	Mezinárodní	AAMP1----1A----	Atr
+2	pozorovatelé	NNMP1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	USA	NNIPX-----A----	Atr
+5	,	Z:-------------	AuxX
+6	Iránu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	Ázerbájdžánu	NNIS2-----A----	Atr
+9	a	J^-------------	Coord
+10	dalších	AAFP2----1A----	Atr
+11	zemí	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kteří	P4MP1----------	Sb
+14	se	P7-X4----------	AuxT
+15	voleb	NNFP2-----A----	Obj
+16	zúčastnili	VpMP---XR-AA---	Atr
+17	,	Z:-------------	AuxX
+18	upozornili	VpMP---XR-AA---	Pred
+19	na	RR--4----------	AuxP
+20	prohřešky	NNIP4-----A----	Obj
+21	proti	RR--3----------	AuxP
+22	demokratičnosti	NNFS3-----A----	Atr
+23	voleb	NNFP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95049-080-p2s5
+1	Například	Db-------------	AuxZ
+2	ve	RV--6----------	AuxP
+3	40	C=-------------	Atr
+4	procentech	NNNP6-----A----	Adv
+5	okruhů	NNIP2-----A----	Atr
+6	kandiduje	VB-S---3P-AA---	Pred
+7	pouze	Db-------------	AuxZ
+8	jeden	ClYS1----------	Atr
+9	kandidát	NNMS1-----A----	Sb
+10	,	Z:-------------	Coord
+11	nejvíce	Dg-------3A----	Obj
+12	kandidátů	NNMP2-----A----	Atr
+13	má	VB-S---3P-AA---	Pred
+14	komunistická	AAFS1----1A----	Atr
+15	strana	NNFS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95049-080-p2s6
+1	Včera	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	k	RR--3----------	AuxP
+4	průběhu	NNIS3-----A----	Obj
+5	voleb	NNFP2-----A----	Atr
+6	vyjádřil	VpYS---XR-AA---	Pred
+7	i	J^-------------	AuxZ
+8	vůdce	NNMS1-----A----	Atr
+9	tádžické	AAFS2----1A----	Atr
+10	islámské	AAFS2----1A----	Atr
+11	opozice	NNFS2-----A----	Atr
+12	Turadžonzádeh	NNMS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	žijící	AGMS1-----A----	Atr
+15	v	RR--6----------	AuxP
+16	exilu	NNIS6-----A----	Adv
+17	v	RR--6----------	AuxP
+18	Iránu	NNIS6-----A----	AdvAtr
+19	.	Z:-------------	AuxK
+
+ln95049-080-p2s7
+1	Za	RR--4----------	AuxP
+2	hlavní	AAIP4----1A----	Atr
+3	důvody	NNIP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	proč	Db-------------	Adv
+6	není	VB-S---3P-NA---	Atr
+7	možné	AANS1----1A----	Pnom
+8	označit	Vf--------A----	Sb
+9	současné	AAFP4----1A----	Atr
+10	volby	NNFP4-----A----	Obj
+11	za	RR--4----------	AuxP
+12	demokratické	AAFP4----1A----	Obj
+13	,	Z:-------------	AuxX
+14	pokládá	VB-S---3P-AA---	Pred
+15	zákaz	NNIS4-----A----	Obj
+16	opozičních	AAFP2----1A----	Atr
+17	politických	AAFP2----1A----	Atr
+18	stran	NNFP2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	Tádžikistánu	NNIS6-----A----	Atr
+21	,	Z:-------------	AuxX
+22	neexistenci	NNFS4-----A----	Obj
+23	svobodného	AAIS2----1A----	Atr
+24	tisku	NNIS2-----A----	Atr
+25	a	J^-------------	Coord
+26	fakt	NNIS4-----A----	Obj
+27	,	Z:-------------	AuxX
+28	že	J,-------------	AuxC
+29	většina	NNFS1-----A----	Sb
+30	příslušníků	NNMP2-----A----	Atr
+31	opozice	NNFS2-----A----	Atr
+32	byla	VpQW---XR-AA---	AuxV
+33	násilně	Dg-------1A----	Adv
+34	vyhnána	VsQW---XX-AP---	Atr
+35	ze	RV--2----------	AuxP
+36	země	NNFS2-----A----	Adv
+37	.	Z:-------------	AuxK
+

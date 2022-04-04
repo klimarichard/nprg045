@@ -1,0 +1,93 @@
+ln94210-23-p1s1
+1	Stock	AAXXX----1A----	Atr
+2	-	Z:-------------	AuxG
+3	List	NNIS1-----A----	ExD
+4	KB	NNFXX-----A---8	Atr
+
+ln94210-23-p2s6
+1	U	RR--2----------	AuxP
+2	obligací	NNFP2-----A----	Adv
+3	KB	NNFXX-----A---8	Atr
+4	2	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	KB	NNFXX-----A---8	Atr
+7	14.5	C=-------------	Atr
+8	%	Z:-------------	Atr
+9	a	J^-------------	Coord
+10	obligace	NNFS2-----A----	Atr
+11	město	NNNS1-----A----	Atr
+12	Liberec	NNIS1-----A----	Atr
+13	je	VB-S---3P-AA---	Pred
+14	nominální	AAFS1----1A----	Atr
+15	hodnota	NNFS1-----A----	Sb
+16	10000	C=-------------	Pnom
+17	Kč	NNFXX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-23-p2s7
+1	K	RR--3----------	AuxP
+2	ceně	NNFS3-----A----	Adv
+3	obligace	NNFS2-----A----	Atr
+4	KB	NNFXX-----A---8	Atr
+5	2	C=-------------	Atr
+6	se	P7-X4----------	AuxR
+7	připočítává	VB-S---3P-AA---	Pred
+8	alikvotní	AAIS1----1A----	Atr
+9	úrokový	AAIS1----1A----	Atr
+10	výnos	NNIS1-----A----	Sb
+11	(	Z:-------------	Apos
+12	AÚV	NNIXX-----A---8	Sb
+13	)	Z:-------------	AuxG
+14	337	C=-------------	Atr
+15	Kč	NNFXX-----A----	Atr
+16	/	Z:-------------	AuxG
+17	ks	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-23-p2s8
+1	U	RR--2----------	AuxP
+2	obligace	NNFS2-----A----	Adv
+3	KB	NNFXX-----A---8	Atr
+4	14.5	C=-------------	Atr
+5	%	Z:-------------	Atr
+6	a	J^-------------	Coord
+7	obligace	NNFS2-----A----	Adv
+8	město	NNNS1-----A----	Atr
+9	Liberec	NNIS1-----A----	Atr
+10	je	VB-S---3P-AA---	Pred
+11	AÚV	NNIXX-----A---8	Sb
+12	1361	C=-------------	Pnom
+13	,	Z:-------------	AuxX
+14	resp	Db------------8	Coord
+15	.	Z:-------------	AuxG
+16	918	C=-------------	Pnom
+17	Kč	NNFXX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-23-p2s9
+1	Na	RR--6----------	AuxP
+2	BCPP	NNFXX-----A---8	Adv
+3	byl	VpYS---XR-AA---	Pred
+4	AÚV	NNIXX-----A---8	Sb
+5	6	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	září	NNNS2-----A----	Adv
+8	u	RR--2----------	AuxP
+9	KB	NNFXX-----A---8	Adv
+10	2	C=-------------	Atr
+11	,	Z:-------------	Coord
+12	KB	NNFXX-----A---8	Adv
+13	14.5	C=-------------	Atr
+14	%	Z:-------------	Atr
+15	a	J^-------------	Coord
+16	obligace	NNFP1-----A----	Adv
+17	město	NNNS1-----A----	Atr
+18	Liberec	NNIS1-----A----	Atr
+19	336.88	C=-------------	Pnom
+20	,	Z:-------------	AuxX
+21	-88.61	C=-------------	Pnom
+22	a	J^-------------	Coord
+23	918.33	C=-------------	Pnom
+24	Kč	NNFXX-----A----	Atr
+25	.	Z:-------------	AuxK
+

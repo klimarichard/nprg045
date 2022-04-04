@@ -1,0 +1,136 @@
+ln95046-110-p1s1
+1	Nový	AAIS1----1A----	Atr
+2	plán	NNIS1-----A----	ExD
+3	pro	RR--4----------	AuxP
+4	Ulster	NNIS4-----A----	Atr
+
+ln95046-110-p2s1A
+1	Londýn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-110-p2s1B
+1	Společný	AAIS4----1A----	Atr
+2	dokument	NNIS4-----A----	Obj
+3	britské	AAFS2----1A----	Atr
+4	a	J^-------------	Coord
+5	irské	AAFS2----1A----	Atr
+6	vlády	NNFS2-----A----	Atr
+7	vytvářející	AGIS4-----A----	Atr
+8	rámec	NNIS4-----A----	Obj
+9	pro	RR--4----------	AuxP
+10	budoucí	AANS4----1A----	Atr
+11	uspořádání	NNNS4-----A----	Atr
+12	Severního	AANS2----1A----	Atr
+13	Irska	NNNS2-----A----	Atr
+14	zveřejnili	VpMP---XR-AA---	Pred
+15	včera	Db-------------	Adv
+16	v	RR--6----------	AuxP
+17	Belfastu	NNIS6-----A----	Adv
+18	britský	AAMS1----1A----	Atr
+19	premiér	NNMS1-----A----	Atr
+20	John	NNMS1-----A----	Atr
+21	Major	NNMS1-----A----	Sb
+22	a	J^-------------	Coord
+23	jeho	PSXXXZS3-------	Atr
+24	irský	AAIS1----1A----	Atr
+25	protějšek	NNIS1-----A----	Atr
+26	John	NNMS1-----A----	Atr
+27	Bruton	NNMS1-----A----	Sb
+28	.	Z:-------------	AuxK
+
+ln95046-110-p2s2
+1	Oba	ClYP1----------	Atr
+2	premiéři	NNMP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	něm	P5ZS6--3-------	Adv
+5	zdůraznili	VpMP---XR-AA---	Pred
+6	své	P8NS4---------1	Atr
+7	odhodlání	NNNS4-----A----	Obj
+8	dodržovat	Vf--------A----	Atr
+9	princip	NNIS4-----A----	Obj
+10	práva	NNNS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	sebeurčení	NNNS4-----A----	Atr
+13	obyvatel	NNMP2-----A---1	Atr
+14	provincie	NNFS2-----A----	Atr
+15	a	J^-------------	Coord
+16	současně	Dg-------1A----	ExD
+17	i	J^-------------	AuxZ
+18	princip	NNIS4-----A----	ExD
+19	oboustranné	AAFS2----1A----	Atr
+20	shody	NNFS2-----A----	Atr
+21	Londýna	NNIS2-----A----	Atr
+22	a	J^-------------	Coord
+23	Dublinu	NNIS2-----A----	Atr
+24	při	RR--6----------	AuxP
+25	rozhodování	NNNS6-----A----	Atr
+26	o	RR--6----------	AuxP
+27	budoucnosti	NNFS6-----A----	Atr
+28	provincie	NNFS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95046-110-p3s1
+1	Dokument	NNIS1-----A----	Sb
+2	oficiálně	Dg-------1A----	Adv
+3	navrhuje	VB-S---3P-AA---	Pred
+4	vytvoření	NNNS4-----A----	Obj
+5	společných	AAFP2----1A----	Atr
+6	institucí	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	v	RR--6----------	AuxP
+9	nichž	P9XP6----------	Adv
+10	by	Vc-------------	AuxV
+11	byli	VpMP---XR-AA---	Atr
+12	zastoupeni	VsMP---XX-AP---	Pnom
+13	jak	J,-------------	AuxY
+14	zastánci	NNMP1-----A----	Sb
+15	unie	NNFS2-----A----	Atr
+16	s	RR--7----------	AuxP
+17	Británií	NNFS7-----A----	Atr
+18	,	Z:-------------	AuxX
+19	tak	J^-------------	Coord
+20	stoupenci	NNMP1-----A----	Sb
+21	sjednocení	NNNS2-----A----	Atr
+22	provincie	NNFS2-----A----	Atr
+23	s	RR--7----------	AuxP
+24	Irskem	NNNS7-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95046-110-p3s2
+1	Obě	ClHP1----------	Atr
+2	vlády	NNFP1-----A----	Sb
+3	vyjádřily	VpTP---XR-AA---	Pred
+4	ochotu	NNFS4-----A----	Obj
+5	k	RR--3----------	AuxP
+6	ústavním	AAFP3----1A----	Atr
+7	změnám	NNFP3-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP1----------	Sb
+10	by	Vc-------------	AuxV
+11	potvrdily	VpTP---XR-AA---	Atr
+12	nový	AAIS4----1A----	Atr
+13	status	NNIS4-----A----	Obj
+14	provincie	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-110-p3s3
+1	Návrhy	NNIP4-----A----	Obj
+2	považují	VB-P---3P-AA---	Pred
+3	některé	PZFP1----------	Atr
+4	protestantské	AAFP1----1A----	Atr
+5	strany	NNFP1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	Ulsteru	NNIS6-----A---1	Atr
+8	za	RR--4----------	AuxP
+9	krok	NNIS4-----A----	Obj
+10	ke	RV--3----------	AuxP
+11	sjednocení	NNNS3-----A----	Atr
+12	Irska	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95046-110-p4s1
+1	Více	Dg-------2A----	ExD
+2	na	RR--6----------	AuxP
+3	straně	NNFS6-----A----	ExD
+4	6	C=-------------	Atr
+

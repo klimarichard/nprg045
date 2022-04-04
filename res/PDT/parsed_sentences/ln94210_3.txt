@@ -1,0 +1,115 @@
+ln94210-3-p1s1
+1	Industriální	AAFS1----1A----	Atr
+2	zóna	NNFS1-----A----	ExD
+3	pro	RR--4----------	AuxP
+4	Jižní	AANS4----1A----	Atr
+5	Město	NNNS4-----A----	Atr
+
+ln94210-3-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94210-3-p2s1B
+1	Hlavního	AAMS4----1A----	Atr
+2	investora	NNMS4-----A----	Obj
+3	pro	RR--4----------	AuxP
+4	uvažovanou	AAFS4----1A----	Atr
+5	komerčně	Dg-------1A----	Adv
+6	industriální	AAFS4----1A----	Atr
+7	zónu	NNFS4-----A----	Atr
+8	na	RR--6----------	AuxP
+9	Jižním	AANS6----1A----	Atr
+10	Městě	NNNS6-----A----	Atr
+11	hodlá	VB-S---3P-AA---	Pred
+12	ještě	Db-------------	AuxZ
+13	v	RR--6----------	AuxP
+14	tomto	PDZS6----------	Atr
+15	volebním	AANS6----1A----	Atr
+16	období	NNNS6-----A----	Adv
+17	nalézt	Vf--------A----	Obj
+18	pražské	AANS1----1A----	Atr
+19	zastupitelstvo	NNNS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94210-3-p2s2
+1	Primátor	NNMS1-----A----	Atr
+2	Jan	NNMS1-----A----	Atr
+3	Koukal	NNMS1-----A----	Sb
+4	informoval	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	první	CrFS6----------	Atr
+9	etapě	NNFS6-----A----	Adv
+10	jde	VB-S---3P-AA---	Obj
+11	o	RR--4----------	AuxP
+12	více	Dg-------2A----	AuxZ
+13	než	J,-------------	AuxY
+14	desetihektarovou	AAFS4----1A----	Atr
+15	plochu	NNFS4-----A----	Obj
+16	podél	RR--2----------	AuxP
+17	dálnice	NNFS2-----A----	Atr
+18	D	NNFXX-----A---8	Atr
+19	-	Z:-------------	AuxG
+20	1	C=-------------	Atr
+21	vedoucí	AGFS2-----A----	Atr
+22	od	RR--2----------	AuxP
+23	sídliště	NNNS2-----A----	Adv
+24	Chodov	NNIS1-----A----	Atr
+25	směrem	NNIS7-----A----	AuxP
+26	na	RR--4----------	AuxP
+27	Brno	NNNS4-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln94210-3-p3s1
+1	Uvažuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	o	RR--6----------	AuxP
+4	výstavbě	NNFS6-----A----	Obj
+5	jednopodlažních	AAIP2----1A----	Atr
+6	halových	AAIP2----1A----	Atr
+7	objektů	NNIP2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	31000	C=-------------	Atr
+10	m	NNIXX-----A---8	Atr
+11	2	C=-------------	Atr
+12	užitných	AAFP2----1A----	Atr
+13	ploch	NNFP2-----A----	Atr
+14	a	J^-------------	Coord
+15	s	RR--7----------	AuxP
+16	další	AAFS7----1A----	Atr
+17	užitnou	AAFS7----1A----	Atr
+18	plochou	NNFS7-----A----	Atr
+19	65000	C=-------------	Atr
+20	metrů	NNIP2-----A----	Atr
+21	čtverečních	AAIP2----1A----	Atr
+22	ve	RV--6----------	AuxP
+23	vícepodlažních	AAFP6----1A----	Atr
+24	budovách	NNFP6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94210-3-p3s2
+1	Výsledek	NNIS4-----A----	Obj
+2	jednokolové	AAFS2----1A----	Atr
+3	soutěže	NNFS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	má	VB-S---3P-AA---	Atr
+7	vybrat	Vf--------A----	Obj
+8	investora	NNMS4-----A----	Obj
+9	s	RR--7----------	AuxP
+10	komplexním	AAIS7----1A----	Atr
+11	konceptem	NNIS7-----A----	Atr
+12	zóny	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	by	Vc-------------	AuxV
+15	mělo	VpNS---XR-AA---	Pred
+16	pražské	AANS1----1A----	Atr
+17	zastupitelstvo	NNNS1-----A----	Sb
+18	projednat	Vf--------A----	Obj
+19	k	RR--3----------	AuxP
+20	1	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	listopadu	NNIS3-----A----	Adv
+23	.	Z:-------------	AuxK
+

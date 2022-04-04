@@ -1,0 +1,128 @@
+ln95041-113-p1s1
+1	O	RR--4----------	AuxP
+2	Almu	NNFS4-----A----	Atr
+3	není	VB-S---3P-NA---	Pred
+4	zájem	NNIS1-----A----	Sb
+
+ln95041-113-p2s1A
+1	Nová	AAFS1----1A----	Atr
+2	Bystřice	NNFS1-----A----	ExD
+3	-	Z:-------------	AuxK
+
+ln95041-113-p2s1B
+1	O	RR--4----------	AuxP
+2	textilní	AAIS4----1A----	Atr
+3	podnik	NNIS4-----A----	Atr
+4	Alma	NNFS1-----A----	Atr
+5	Nová	AAFS1----1A----	Atr
+6	Bystřice	NNFS1-----A----	Atr
+7	na	RR--6----------	AuxP
+8	Jindřichohradecku	NNNS6-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	je	VB-S---3P-AA---	AuxV
+12	nabízen	VsYS---XX-AP---	Atr
+13	ve	RV--6----------	AuxP
+14	veřejné	AAFS6----1A----	Atr
+15	soutěži	NNFS6-----A----	Adv
+16	,	Z:-------------	AuxX
+17	neprojevil	VpYS---XR-NA---	Pred
+18	zatím	Db-------------	Adv
+19	nikdo	PWM-1----------	Sb
+20	zájem	NNIS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln95041-113-p2s2
+1	V	RR--6----------	AuxP
+2	prvním	CrNS6----------	Atr
+3	kole	NNNS6-----A----	Adv
+4	soutěže	NNFS2-----A----	Atr
+5	bylo	VpNS---XR-AA---	AuxV
+6	nabídnuto	VsNS---XX-AP---	Pred
+7	100	C=-------------	Sb
+8	procent	NNNP2-----A----	Atr
+9	tohoto	PDZS2----------	Atr
+10	podniku	NNIS2-----A----	Atr
+11	se	RV--7----------	AuxP
+12	základním	AANS7----1A----	Atr
+13	jměním	NNNS7-----A----	Atr
+14	129.3	C=-------------	Atr
+15	miliónu	NNIS2-----A----	Atr
+16	korun	NNFP2-----A----	Atr
+17	za	RR--4----------	AuxP
+18	minimální	AAFS4----1A----	Atr
+19	cenu	NNFS4-----A----	Obj
+20	142.2	C=-------------	Atr
+21	miliónu	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95041-113-p2s3
+1	O	RR--6----------	AuxP
+2	konání	NNNS6-----A----	Obj
+3	druhého	CrNS2----------	Atr
+4	kola	NNNS2-----A----	Atr
+5	FNM	NNIXX-----A---8	Sb
+6	zatím	Db-------------	Adv
+7	nerozhodl	VpYS---XR-NA--1	Pred
+8	.	Z:-------------	AuxK
+
+ln95041-113-p3s1
+1	Loňský	AAIS4----1A----	Atr
+2	rok	NNIS4-----A----	Obj
+3	ukončila	VpQW---XR-AA---	Pred
+4	Alma	NNFS1-----A----	Sb
+5	s	RR--7----------	AuxP
+6	mírným	AAIS7----1A----	Atr
+7	ziskem	NNIS7-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln95041-113-p3s2
+1	Výrobce	NNMS1-----A----	Sb
+2	akrylových	AAFP2----1A----	Atr
+3	přikrývek	NNFP2-----A----	Atr
+4	s	RR--7----------	AuxP
+5	celoplošnými	AAIP7----1A----	Atr
+6	motivy	NNIP7-----A----	Atr
+7	,	Z:-------------	AuxX
+8	s	RR--7----------	AuxP
+9	podílem	NNIS7-----A----	Atr
+10	bavlny	NNFS2-----A----	Atr
+11	či	J^-------------	Coord
+12	s	RR--7----------	AuxP
+13	různým	AAIS7----1A----	Atr
+14	obsahem	NNIS7-----A----	Atr
+15	vlny	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	100	C=-------------	Adv
+18	procentních	AAIP2----1A----	Atr
+19	vlněných	AAIP2----1A----	Atr
+20	plédů	NNIP2-----A----	Atr
+21	a	J^-------------	Coord
+22	lehčích	AAIP2----2A----	Atr
+23	akrylových	AAIP2----1A----	Atr
+24	plédů	NNIP2-----A----	Atr
+25	exportoval	VpYS---XR-AA---	Pred
+26	loni	Db------------1	Adv
+27	zhruba	Db-------------	Adv
+28	60	C=-------------	Obj
+29	procent	NNNP2-----A----	Atr
+30	produkce	NNFS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95041-113-p3s3
+1	Celkem	Db-------------	Adv
+2	vyrobila	VpQW---XR-AA---	Pred
+3	novobystřická	AAFS1----1A----	Atr
+4	firma	NNFS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	loňském	AAIS6----1A----	Atr
+7	roce	NNIS6-----A---1	Adv
+8	1012	C=-------------	Obj
+9	miliónu	NNIS2-----A----	Atr
+10	kusů	NNIP2-----A----	Atr
+11	přikrývek	NNFP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	nejrůznějších	AAFP6----3A----	Atr
+14	velikostech	NNFP6-----A----	Atr
+15	.	Z:-------------	AuxK
+

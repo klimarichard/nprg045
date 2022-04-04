@@ -1,0 +1,117 @@
+mf930709-034-p1s1
+1	Výpis	NNIS4-----A----	Obj
+2	z	RR--2----------	AuxP
+3	CKP	NNNXX-----A---8	Atr
+4	vyzvedlo	VpNS---XR-AA--1	Pred
+5	přes	RR--4----------	AuxP
+6	milion	NNIS4-----A----	Sb
+7	akcionářů	NNMP2-----A----	Atr
+
+mf930709-034-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jd	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-034-p2s1B
+1	Výpis	NNIS4-----A----	Obj
+2	o	RR--6----------	AuxP
+3	vlastnictví	NNNS6-----A----	Atr
+4	akcií	NNFP2-----A----	Atr
+5	si	P7-X3----------	Adv
+6	do	RR--2----------	AuxP
+7	konce	NNIS2-----A----	Adv
+8	června	NNIS2-----A----	Atr
+9	vyzvedlo	VpNS---XR-AA--1	Pred
+10	1074000	C=-------------	Sb
+11	z	RR--2----------	AuxP
+12	celkového	AAIS2----1A----	Atr
+13	počtu	NNIS2-----A----	Atr
+14	zhruba	Db-------------	AuxZ
+15	1.9	C=-------------	Atr
+16	milionu	NNIS2-----A----	Atr
+17	individuálních	AAMP2----1A----	Atr
+18	investorů	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf930709-034-p2s2
+1	Oznámili	VpMP---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	představitelé	NNMP1-----A----	Sb
+5	Centra	NNNS2-----A----	Atr
+6	kuponové	AAFS2----1A----	Atr
+7	privatizace	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930709-034-p2s3
+1	Tím	PDZS7----------	Adv
+2	byla	VpQW---XR-AA---	AuxV
+3	podle	RR--2----------	AuxP
+4	nich	P5XP2--3-------	Adv
+5	prakticky	Dg-------1A----	AuxY
+6	ukončena	VsQW---XX-AP---	Pred
+7	první	CrFS1----------	Atr
+8	vlna	NNFS1-----A----	Sb
+9	kuponové	AAFS2----1A----	Atr
+10	privatizace	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-034-p2s4
+1	Zbylí	AAMP1----1A----	Atr
+2	akcionáři	NNMP1-----A----	Sb
+3	obdrží	VB-P---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	průběhu	NNIS6-----A----	AuxP
+6	července	NNIS2-----A----	Adv
+7	výpis	NNIS4-----A----	Obj
+8	prostřednictvím	NNNS7-----A----	AuxP
+9	pošty	NNFS2-----A----	Adv
+10	.	Z:-------------	AuxK
+
+mf930709-034-p2s5
+1	Pokud	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	doklad	NNIS1-----A----	Sb
+4	nedostane	VB-S---3P-NA---	Adv
+5	ke	RV--3----------	AuxP
+6	svému	P8ZS3----------	Atr
+7	adresátu	NNMS3-----A---1	Adv
+8	,	Z:-------------	AuxX
+9	bude	VB-S---3F-AA---	AuxV
+10	vrácen	VsYS---XX-AP---	Pred
+11	zpět	Db-------------	Adv
+12	do	RR--2----------	AuxP
+13	CKP	NNNXX-----A---8	Adv
+14	a	J^-------------	Coord
+15	po	RR--6----------	AuxP
+16	31	C=-------------	Atr
+17	.	Z:-------------	AuxG
+18	8	C=-------------	Adv
+19	.	Z:-------------	AuxG
+20	1993	C=-------------	Atr
+21	skartován	VsYS---XX-AP---	Pred
+22	.	Z:-------------	AuxK
+
+mf930709-034-p2s6
+1	Jeho	PSXXXZS3-------	Atr
+2	majitel	NNMS1-----A----	Sb
+3	tím	PDZS7----------	Adv
+4	však	J^-------------	Coord
+5	akcie	NNFP4-----A----	Obj
+6	neztrácí	VB-S---3P-NA---	Pred
+7	,	Z:-------------	AuxX
+8	pro	RR--4----------	AuxP
+9	získání	NNNS4-----A----	Adv
+10	nového	AAIS2----1A----	Atr
+11	výpisu	NNIS2-----A----	Atr
+12	bude	VB-S---3F-AA---	AuxV
+13	však	J^-------------	Coord
+14	muset	Vf--------A----	Pred
+15	využít	Vf--------A----	Obj
+16	placené	AAFS2----1A----	Atr
+17	služby	NNFS2-----A----	Obj
+18	CKP	NNNXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+

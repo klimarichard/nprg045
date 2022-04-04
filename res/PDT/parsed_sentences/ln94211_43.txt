@@ -1,0 +1,126 @@
+ln94211-43-p1s1
+1	O	RR--6----------	AuxP
+2	Obecním	AAIS6----1A----	Atr
+3	domě	NNIS6-----A----	Obj
+4	stále	Db-------------	ExD
+5	nerozhodnuto	VsNS---XX-NP---	ExD
+
+ln94211-43-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	kva	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94211-43-p2s1B
+1	Přestože	J,-------------	AuxC
+2	Rada	NNFS1-----A----	Sb
+3	pražského	AANS2----1A----	Atr
+4	zastupitelstva	NNNS2-----A----	Atr
+5	zasedala	VpQW---XR-AA---	Adv
+6	včera	Db-------------	Adv
+7	až	TT-------------	AuxZ
+8	téměř	Db-------------	AuxZ
+9	do	RR--2----------	AuxP
+10	rána	NNNS2-----A----	Adv
+11	,	Z:-------------	AuxX
+12	opět	Db-------------	Adv
+13	nedospěla	VpQW---XR-NA---	Pred
+14	k	RR--3----------	AuxP
+15	rozhodnutí	NNNS3-----A----	Obj
+16	o	RR--6----------	AuxP
+17	tom	PDZS6----------	Atr
+18	,	Z:-------------	AuxX
+19	s	RR--7----------	AuxP
+20	kým	PKM-7----------	Obj
+21	podepíše	VB-S---3P-AA---	Atr
+22	smlouvu	NNFS4-----A----	Obj
+23	na	RR--4----------	AuxP
+24	téměř	Db-------------	AuxZ
+25	jedenapůlmiliardovou	AAFS4----1A----	Atr
+26	zakázku	NNFS4-----A----	Atr
+27	rekonstrukce	NNFS2-----A----	Atr
+28	Obecního	AAIS2----1A----	Atr
+29	domu	NNIS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94211-43-p2s2
+1	Primátor	NNMS1-----A----	Atr
+2	Jan	NNMS1-----A----	Atr
+3	Koukal	NNMS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	této	PDFS6----------	Atr
+6	souvislosti	NNFS6-----A----	Adv
+7	připustil	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	termín	NNIS1-----A----	Sb
+11	dokončení	NNNS2-----A----	Atr
+12	rekonstrukce	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	zní	VB-S---3P-AA---	Atr
+16	na	RR--4----------	AuxP
+17	přelom	NNIS4-----A----	Adv
+18	let	NNNP2-----A----	Atr
+19	1996	C=-------------	Atr
+20	-	Z:-------------	Coord
+21	7	C=-------------	Atr
+22	,	Z:-------------	AuxX
+23	se	P7-X4----------	AuxR
+24	v	RR--6----------	AuxP
+25	důsledku	NNIS6-----A----	AuxP
+26	průtahů	NNIP2-----A----	Adv
+27	s	RR--7----------	AuxP
+28	výběrovým	AANS7----1A----	Atr
+29	řízením	NNNS7-----A----	Atr
+30	může	VB-S---3P-AA---	Obj
+31	mírně	Dg-------1A----	Adv
+32	posunout	Vf--------A----	Obj
+33	.	Z:-------------	AuxK
+
+ln94211-43-p2s3
+1	Rada	NNFS1-----A----	Sb
+2	pražského	AANS2----1A----	Atr
+3	zastupitelstva	NNNS2-----A----	Atr
+4	už	Db-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	červenci	NNIS6-----A----	Adv
+7	schválila	VpQW---XR-AA---	Pred
+8	rozhodnutí	NNNS4-----A----	Obj
+9	výběrové	AAFS2----1A----	Atr
+10	komise	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	podle	RR--2----------	AuxP
+13	něhož	P9ZS2----------	Adv
+14	v	RR--6----------	AuxP
+15	soutěži	NNFS6-----A----	Adv
+16	na	RR--4----------	AuxP
+17	rekonstrukci	NNFS4-----A----	Atr
+18	Obecního	AAIS2----1A----	Atr
+19	domu	NNIS2-----A----	Atr
+20	zvítězilo	VpNS---XR-AA---	Atr
+21	sdružení	NNNS1-----A----	Sb
+22	firem	NNFP2-----A----	Atr
+23	zastoupené	AANS1----1A----	Atr
+24	společností	NNFS7-----A----	Obj
+25	s	RR--7----------	AuxP
+26	ručením	NNNS7-----A----	Atr
+27	omezeným	AANS7----1A----	Atr
+28	PSJ	NNFXX-----A---8	Atr
+29	Jihlava	NNFS1-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94211-43-p2s4
+1	Toto	PDNS4----------	Atr
+2	rozhodnutí	NNNS4-----A----	Obj
+3	však	J^-------------	Coord
+4	zpochybnila	VpQW---XR-AA---	Pred
+5	společnost	NNFS1-----A----	Sb
+6	Konstruktiva	NNFS1-----A----	Atr
+7	i	J^-------------	Coord
+8	jedna	ClFS1----------	Atr
+9	členka	NNFS1-----A----	Sb
+10	komise	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+

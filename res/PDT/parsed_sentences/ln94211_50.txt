@@ -1,0 +1,122 @@
+ln94211-50-p1s1
+1	Poslanec	NNMS1-----A----	Atr
+2	Honajzer	NNMS1-----A----	ExD
+3	ke	RV--3----------	AuxP
+4	kauze	NNFS3-----A----	ExD
+5	voršilek	NNFP2-----A----	Atr
+
+ln94211-50-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	haš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94211-50-p2s1B
+1	Návrh	NNIS1-----A----	Sb
+2	poslance	NNMS2-----A----	Atr
+3	F	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Kozla	NNMS2-----A----	Atr
+6	(	Z:-------------	ExD
+7	ODS	NNFXX-----A---8	ExD
+8	)	Z:-------------	ExD
+9	na	RR--4----------	AuxP
+10	řešení	NNNS4-----A----	Atr
+11	kauzy	NNFS2-----A----	Atr
+12	Národní	AANS1----1A----	Atr
+13	divadlo	NNNS1-----A----	Atr
+14	formou	NNFS7-----A----	AuxP
+15	novelizace	NNFS2-----A----	Atr
+16	sporné	AAFS2----1A----	Atr
+17	pasáže	NNFS2-----A----	Atr
+18	zákona	NNIS2-----A----	Atr
+19	z	RR--2----------	AuxP
+20	roku	NNIS2-----A---1	Atr
+21	1991	C=-------------	Atr
+22	,	Z:-------------	AuxX
+23	jímž	PJZS7----------	Adv
+24	voršilky	NNFP1-----A----	Sb
+25	získaly	VpTP---XR-AA---	Atr
+26	provozní	AAFS4----1A----	Atr
+27	budovu	NNFS4-----A----	Obj
+28	ND	NNNXX-----A---8	Atr
+29	,	Z:-------------	AuxX
+30	by	Vc-------------	AuxV
+31	měl	VpYS---XR-AA---	Pred
+32	projít	Vf--------A----	Obj
+33	ohněm	NNIS7-----A----	Adv
+34	parlamentu	NNIS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+ln94211-50-p2s2
+1	LN	NNFPX-----A---8	Obj
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	řekl	VpYS---XR-AA---	Pred
+5	předseda	NNMS1-----A----	Atr
+6	poslaneckého	AAIS2----1A----	Atr
+7	klubu	NNIS2-----A----	Atr
+8	ODS	NNFXX-----A---8	Atr
+9	Jiří	NNMS1-----A----	Atr
+10	Honajzer	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94211-50-p2s3
+1	Ten	PDYS1----------	Atr
+2	případ	NNIS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měl	VpYS---XR-AA---	Obj
+5	být	Vf--------A----	AuxV
+6	nějakým	PZZS7----------	Atr
+7	způsobem	NNIS7-----A----	Adv
+8	dořešen	VsYS---XX-AP---	Obj
+9	:	Z:-------------	Coord
+10	buď	J^-------------	AuxY
+11	se	P7-X4----------	AuxR
+12	najde	VB-S---3P-AA---	Obj
+13	vůle	NNFS1-----A----	Sb
+14	sněmovny	NNFS2-----A----	Atr
+15	novelu	NNFS4-----A----	Obj
+16	přijmout	Vf--------A----	Atr
+17	,	Z:-------------	AuxX
+18	nebo	J^-------------	Coord
+19	ne	TT-------------	ExD
+20	,	Z:-------------	AuxX
+21	uvedl	VpYS---XR-AA---	Pred
+22	.	Z:-------------	AuxK
+
+ln94211-50-p2s4
+1	Zda	J,-------------	AuxC
+2	klub	NNIS1-----A----	Sb
+3	ODS	NNFXX-----A---8	Atr
+4	podpoří	VB-S---3P-AA---	Obj
+5	zařazení	NNNS4-----A----	Obj
+6	zákona	NNIS2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	program	NNIS4-----A----	Atr
+9	jednání	NNNS2-----A----	Atr
+10	pléna	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	bude	VB-S---3F-AA---	AuxV
+13	pro	RR--4----------	AuxP
+14	něj	P5ZS4--3-------	Adv
+15	hlasovat	Vf--------A----	Obj
+16	,	Z:-------------	AuxX
+17	prý	TT-------------	AuxY
+18	zatím	Db-------------	Adv
+19	neví	VB-S---3P-NA---	Pred
+20	,	Z:-------------	AuxX
+21	osobně	Dg-------1A----	Adv
+22	však	J^-------------	Coord
+23	předpokládá	VB-S---3P-AA---	Pred
+24	,	Z:-------------	AuxX
+25	že	J,-------------	AuxC
+26	zákon	NNIS1-----A----	Sb
+27	podporu	NNFS4-----A----	Obj
+28	potřebné	AAFS2----1A----	Atr
+29	většiny	NNFS2-----A----	Atr
+30	poslanců	NNMP2-----A----	Atr
+31	nezíská	VB-S---3P-NA---	Obj
+32	.	Z:-------------	AuxK
+

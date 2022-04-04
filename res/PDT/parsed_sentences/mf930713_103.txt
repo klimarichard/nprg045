@@ -1,0 +1,222 @@
+mf930713-103-p1s1
+1	V	RR--6----------	AuxP
+2	terénu	NNIS6-----A---1	ExD
+3	o	RR--4----------	AuxP
+4	švýcarské	AAIP4----1A----	Atr
+5	franky	NNIP4-----A----	ExD
+
+mf930713-103-p2s1
+1	CYKLOKROSOVÁ	AAFS1----1A----	Atr
+2	SUPERPRESTIGE	NNFS1-----A----	Sb
+3	ZAČNE	VB-S---3P-AA---	Pred
+4	30	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	ŘÍJNA	NNIS2-----A----	Adv
+7	V	RR--6----------	AuxP
+8	PLZNI	NNFS6-----A----	Adv
+
+mf930713-103-p2s2A
+1	Plzeň	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930713-103-p2s2B
+1	Na	RR--6----------	AuxP
+2	jednání	NNNS6-----A----	Adv
+3	řídícího	AGIS2-----A----	Atr
+4	výboru	NNIS2-----A----	Atr
+5	cyklokrosové	AAFS2----1A----	Atr
+6	Superprestige	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	belgickém	AANS6----1A----	Atr
+9	Overijse	NNNXX-----A----	AtrAtr
+10	bylo	VpNS---XR-AA---	AuxV
+11	definitivně	Dg-------1A----	Adv
+12	rozhodnuto	VsNS---XX-AP---	Pred
+13	o	RR--6----------	AuxP
+14	pořadatelích	NNMP6-----A----	Obj
+15	10	C=-------------	Atr
+16	závodů	NNIP2-----A----	Atr
+17	letošního	AAIS2----1A----	Atr
+18	12	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	ročníku	NNIS2-----A----	Atr
+21	této	PDFS2----------	Atr
+22	soutěže	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf930713-103-p2s3
+1	Sérii	NNFS4-----A----	Obj
+2	cyklokrosů	NNIP2-----A----	Atr
+3	Superprestige	NNFS1-----A----	Atr
+4	zahájí	VB-S---3P-AA---	Pred
+5	30	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	října	NNIS2-----A----	Adv
+8	Velká	AAFS1----1A----	Atr
+9	cena	NNFS1-----A----	Sb
+10	České	AAFS2----1A----	Atr
+11	Kooperativy	NNFS2-----A----	Atr
+12	na	RR--6----------	AuxP
+13	tradiční	AAFS6----1A----	Atr
+14	trati	NNFS6-----A----	Adv
+15	v	RR--6----------	AuxP
+16	Plzni	NNFS6-----A----	AtrAdv
+17	na	RR--6----------	AuxP
+18	Lochotíně	NNIS6-----A----	AtrAtr
+19	.	Z:-------------	AuxK
+
+mf930713-103-p2s4
+1	Další	AAIS1----1A----	Atr
+2	termín	NNIS1-----A----	Sb
+3	7	C=-------------	Atr
+4	.	Z:-------------	AuxG
+5	listopadu	NNIS2-----A----	Atr
+6	patří	VB-S---3P-AA---	Pred
+7	novému	AANS3----1A----	Atr
+8	městu	NNNS3-----A----	Obj
+9	v	RR--6----------	AuxP
+10	soutěži	NNFS6-----A----	Atr
+11	,	Z:-------------	Apos
+12	švýcarskému	AAIS3----1A----	Atr
+13	Curychu	NNIS3-----A----	Obj
+14	.	Z:-------------	AuxK
+
+mf930713-103-p2s5
+1	Ostatní	AAIP1----1A----	Atr
+2	potvrzené	AAIP1----1A----	Atr
+3	termíny	NNIP1-----A----	ExD
+4	:	Z:-------------	AuxK
+
+mf930713-103-p2s14
+1	Startovní	AAFP1----1A----	Atr
+2	smlouvy	NNFP1-----A----	Sb
+3	směřovaly	VpTP---XR-AA---	Pred
+4	k	RR--3----------	AuxP
+5	15	C=-------------	Atr
+6	nejlepším	AAMP3----3A----	Atr
+7	jezdcům	NNMP3-----A----	Adv
+8	letošního	AAIS2----1A----	Atr
+9	peletonu	NNIS2-----A----	Atr
+10	profesionálů	NNMP2-----A----	Atr
+11	a	J^-------------	Coord
+12	amatérů	NNMP2-----A----	Atr
+13	-	Z:-------------	Apos
+14	mistrům	NNMP3-----A----	Adv
+15	světa	NNIS2-----A----	Atr
+16	(	Z:-------------	AuxG
+17	Pontoni	NNMS1-----A----	Atr
+18	,	Z:-------------	AuxX
+19	Arnould	NNMS1-----A----	Atr
+20	,	Z:-------------	AuxX
+21	Kluge	NNMS1-----A----	Atr
+22	,	Z:-------------	AuxX
+23	Frischknecht	NNMS1-----A----	Atr
+24	,	Z:-------------	AuxX
+25	De	RR--1----------	Atr
+26	Bie	NNMS1-----A----	Atr
+27	,	Z:-------------	Coord
+28	Baars	NNMS1-----A----	Atr
+29	)	Z:-------------	AuxG
+30	i	J^-------------	Coord
+31	k	RR--3----------	AuxP
+32	našim	PSXP3-P1-------	Atr
+33	nejlepším	AAMP3----3A----	Atr
+34	terénářům	NNMP3-----A----	Adv
+35	.	Z:-------------	AuxK
+
+mf930713-103-p2s15
+1	V	RR--6----------	AuxP
+2	Plzni	NNFS6-----A----	Adv
+3	lze	VB-S---3P-AA---	Pred
+4	počítat	Vf--------A----	Sb
+5	s	RR--7----------	AuxP
+6	účastí	NNFS7-----A----	Obj
+7	nejméně	Dg-------3A----	AuxZ
+8	šesti	Cn-P2----------	Atr
+9	světových	AAMP2----1A----	Atr
+10	šampiónů	NNMP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930713-103-p2s16
+1	Startovné	NNNS1-----A----	Sb
+2	světové	AAFS2----1A----	Atr
+3	elity	NNFS2-----A----	Atr
+4	představuje	VB-S---3P-AA---	Pred
+5	na	RR--6----------	AuxP
+6	jednotlivých	AAIP6----1A----	Atr
+7	závodech	NNIP6-----A----	Adv
+8	Superprestige	NNFS2-----A----	Atr
+9	částku	NNFS4-----A----	Obj
+10	31500	C=-------------	Atr
+11	švýcarských	AAIP2----1A----	Atr
+12	franků	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	peněžité	AAFP4----1A----	Atr
+15	ceny	NNFP4-----A----	Obj
+16	v	RR--6----------	AuxP
+17	hodnotě	NNFS6-----A----	Atr
+18	10000	C=-------------	Atr
+19	švýcarských	AAIP2----1A----	Atr
+20	franků	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf930713-103-p2s17
+1	Navíc	Db-------------	Adv
+2	platí	VB-P---3P-AA---	Pred
+3	organizátoři	NNMP1-----A----	Sb
+4	vklad	NNIS4-----A----	Obj
+5	řídícímu	AGIS3-----A----	Atr
+6	výboru	NNIS3-----A----	AtrObj
+7	rovněž	Db-------------	AuxZ
+8	10000	C=-------------	Atr
+9	švýcarských	AAIP2----1A----	Atr
+10	franků	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930713-103-p2s18
+1	Na	RR--6----------	AuxP
+2	poradě	NNFS6-----A----	Adv
+3	byly	VpTP---XR-AA---	AuxV
+4	přijaty	VsTP---XX-AP---	Pred
+5	technické	AAIP1----1A----	Atr
+6	parametry	NNIP1-----A----	Sb
+7	plzeňské	AAFS2----1A----	Atr
+8	trati	NNFS2-----A---1	Atr
+9	na	RR--6----------	AuxP
+10	Lochotíně	NNIS6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	označené	AAFS2----1A----	Atr
+13	jako	J,-------------	AuxY
+14	jedna	ClFS1----------	Atv
+15	z	RR--2----------	AuxP
+16	nejlepších	AAFP2----3A----	Atr
+17	na	RR--6----------	AuxP
+18	světě	NNIS6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+mf930713-103-p2s19
+1	Kandidatura	NNFS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	uspořádání	NNNS4-----A----	Atr
+4	mistrovství	NNNS2-----A----	Atr
+5	světa	NNIS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Plzni	NNFS6-----A----	AtrAtr
+8	byla	VpQW---XR-AA---	AuxV
+9	z	RR--2----------	AuxP
+10	ekonomických	AAIP2----1A----	Atr
+11	důvodů	NNIP2-----A----	Adv
+12	odřeknuta	VsQW---XX-AP---	Pred
+13	v	RR--6----------	AuxP
+14	roce	NNIS6-----A---1	Adv
+15	1990	C=-------------	Atr
+16	na	RR--6----------	AuxP
+17	zasedání	NNNS6-----A----	Adv
+18	Mezinárodní	AAFS2----1A----	Atr
+19	cyklistické	AAFS2----1A----	Atr
+20	federace	NNFS2-----A----	Atr
+21	(	Z:-------------	Apos
+22	UCI	NNFXX-----A---8	Atr
+23	)	Z:-------------	AuxG
+24	.	Z:-------------	AuxK
+

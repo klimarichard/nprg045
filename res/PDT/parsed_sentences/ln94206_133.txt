@@ -1,0 +1,330 @@
+ln94206-133-p1s1
+1	Kdy	Db-------------	Adv
+2	Fujdiar	NNMS1-----A----	Sb
+3	není	VB-S---3P-NA---	Pred
+4	zbrklý	AAMS1----1A----	Pnom
+
+ln94206-133-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ber	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94206-133-p2s1B
+1	Hrdinou	NNMS7-----A----	Obj
+2	zápasu	NNIS2-----A----	Atr
+3	Slavia	NNFS1-----A---1	Atr
+4	-	Z:-------------	Coord
+5	Č	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	Budějovice	NNFP1-----A----	Atr
+8	(	Z:-------------	AuxG
+9	1	C=-------------	Atr
+10	:	Z:-------------	Coord
+11	2	C=-------------	Atr
+12	)	Z:-------------	AuxG
+13	se	P7-X4----------	AuxT
+14	stal	VpYS---XR-AA---	Pred
+15	27	C=-------------	Atr
+16	letý	AAMS1----1A----	Atr
+17	útočník	NNMS1-----A----	Atr
+18	hostí	NNMP2-----A---1	Atr
+19	Ladislav	NNMS1-----A----	Atr
+20	Fujdiar	NNMS1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	který	P4YS1----------	Sb
+23	dal	VpYS---XR-AA---	Atr
+24	dva	ClYP4----------	Atr
+25	góly	NNIP4-----A----	Obj
+26	a	J^-------------	Coord
+27	za	RR--4----------	AuxP
+28	faul	NNIS4-----A----	Adv
+29	na	RR--4----------	AuxP
+30	něho	P5ZS4--3------1	Atr
+31	byl	VpYS---XR-AA---	AuxV
+32	navíc	Db-------------	Adv
+33	vyloučen	VsYS---XX-AP---	Pred
+34	Vávra	NNMS1-----A----	Sb
+35	.	Z:-------------	AuxK
+
+ln94206-133-p2s2
+1	Po	RR--6----------	AuxP
+2	utkání	NNNS6-----A----	Adv
+3	nám	PP-P3--1-------	Obj
+4	odpověděl	VpYS---XR-AA---	Pred
+5	na	RR--4----------	AuxP
+6	několik	Ca--4----------	Obj
+7	otázek	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+9	o	Z:-------------	AuxK
+
+ln94206-133-p3s1
+1	Jak	Db-------------	Adv
+2	jste	VB-P---2P-AA---	AuxV
+3	viděl	VpYS---XR-AA---	Pred
+4	rozhodující	AGIP4-----A----	Atr
+5	momenty	NNIP4-----A----	Obj
+6	?	Z:-------------	AuxK
+
+ln94206-133-p4s1
+1	Před	RR--7----------	AuxP
+2	prvním	CrIS7----------	Atr
+3	gólem	NNIS7-----A----	Adv
+4	jsem	VB-S---1P-AA---	AuxV
+5	kluky	NNMP4-----A----	Obj
+6	hecoval	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	to	PDNS1----------	Sb
+10	tam	Db-------------	Adv
+11	padne	VB-S---3P-AA---	Adv
+12	.	Z:-------------	AuxK
+
+ln94206-133-p4s2
+1	Po	RR--6----------	AuxP
+2	standardní	AAFS6----1A----	Atr
+3	situaci	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	míč	NNIS1-----A----	Sb
+6	od	RR--2----------	AuxP
+7	Váchy	NNMS2-----A----	Adv
+8	odrazil	VpYS---XR-AA---	Pred
+9	ke	RV--3----------	AuxP
+10	mně	PP-S3--1-------	Adv
+11	a	J^-------------	Coord
+12	nártem	NNIS7-----A----	Adv
+13	jsem	VB-S---1P-AA---	AuxV
+14	se	P7-X4----------	AuxT
+15	dobře	Dg-------1A----	Adv
+16	trefil	VpYS---XR-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln94206-133-p4s3A
+1	Ve	RV--6----------	AuxP
+2	druhém	CrIS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	jsem	VB-S---1P-AA---	AuxV
+5	naopak	Db-------------	Adv
+6	kopl	VpYS---XR-AA--1	Pred
+7	špatně	Dg-------1A----	Adv
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	naštěstí	Db-------------	Adv
+11	se	P7-X4----------	AuxT
+12	míč	NNIS1-----A----	Sb
+13	i	J^-------------	AuxZ
+14	tak	J^-------------	Adv
+15	dostal	VpYS---XR-AA---	Pred
+16	do	RR--2----------	AuxP
+17	sítě	NNFS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94206-133-p4s3B
+1	Faul	NNIS1-----A----	ExD
+2	Vávry	NNMS2-----A----	Atr
+3	?	Z:-------------	AuxK
+
+ln94206-133-p5s1
+1	Věděl	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	běží	VB-S---3P-AA---	Obj
+6	za	RR--7----------	AuxP
+7	mnou	PP-S7--1-------	Adv
+8	,	Z:-------------	Coord
+9	tak	J^-------------	Adv
+10	jsem	VB-S---1P-AA---	AuxV
+11	zpomalil	VpYS---XR-AA---	Obj
+12	a	J^-------------	Coord
+13	když	J,-------------	AuxC
+14	se	P7-X4----------	AuxT
+15	mne	PP-S2--1-------	Obj
+16	dotkl	VpYS---XR-AA--1	Adv
+17	,	Z:-------------	AuxX
+18	trošku	Db-------------	Adv
+19	jsem	VB-S---1P-AA---	AuxV
+20	to	PDNS4----------	Obj
+21	nafilmoval	VpYS---XR-AA---	Obj
+22	.	Z:-------------	AuxK
+
+ln94206-133-p5s2A
+1	Ale	J^-------------	Coord
+2	faul	NNIS1-----A----	Pnom
+3	to	PDNS1----------	Sb
+4	opravdu	Db-------------	Adv
+5	byl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	Coord
+7	navíc	Db-------------	Adv
+8	jsem	VB-S---1P-AA---	AuxV
+9	bolestivě	Dg-------1A----	Adv
+10	spadl	VpYS---XR-AA--1	Pred
+11	na	RR--4----------	AuxP
+12	koleno	NNNS4-----A----	Adv
+13	.	Z:-------------	AuxK
+14	.	Z:-------------	AuxK
+15	.	Z:-------------	AuxK
+
+ln94206-133-p5s2B
+1	Nelitujete	VB-P---2P-NA---	Pred
+2	roku	NNIS2-----A---1	Obj
+3	,	Z:-------------	AuxX
+4	který	P4IS4----------	Obj
+5	jste	VB-P---2P-AA---	AuxV
+6	po	RR--6----------	AuxP
+7	odchodu	NNIS6-----A----	Adv
+8	z	RR--2----------	AuxP
+9	Č	AAXXX----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	Budějovic	NNFP2-----A----	Atr
+12	strávil	VpYS---XR-AA---	Atr
+13	v	RR--6----------	AuxP
+14	Olomouci	NNFS6-----A----	Adv
+15	a	J^-------------	Coord
+16	Ostravě	NNFS6-----A----	Adv
+17	,	Z:-------------	AuxX
+18	kde	Db-------------	Adv
+19	jste	VB-P---2P-AA---	AuxV
+20	jen	TT-------------	AuxZ
+21	bojoval	VpYS---XR-AA---	Atr
+22	o	RR--4----------	AuxP
+23	místo	NNNS4-----A----	Obj
+24	v	RR--6----------	AuxP
+25	sestavě	NNFS6-----A----	Atr
+26	?	Z:-------------	AuxK
+
+ln94206-133-p6s1
+1	Určitě	Dg-------1A----	ExD
+2	ne	TT-------------	ExD
+3	,	Z:-------------	ExD
+4	ten	PDYS1----------	Atr
+5	rok	NNIS1-----A----	Sb
+6	mi	PH-S3--1-------	Obj
+7	dal	VpYS---XR-AA---	Pred
+8	hodně	Dg-------1A----	Obj
+9	,	Z:-------------	Coord
+10	teď	Db-------------	Adv
+11	už	Db-------------	Adv
+12	jsem	VB-S---1P-AA---	Pred
+13	starší	AAMS1----2A----	Pnom
+14	a	J^-------------	Coord
+15	zkušenější	AAMS1----2A----	Pnom
+16	.	Z:-------------	AuxK
+
+ln94206-133-p6s2A
+1	Klukům	NNMP3-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	beze	RV--2----------	AuxP
+4	mě	PH-S2--1-------	Adv
+5	dařilo	VpNS---XR-AA---	Pred
+6	a	J^-------------	Coord
+7	já	PP-S1--1-------	Sb
+8	jim	PPXP3--3-------	Obj
+9	říkal	VpYS---XR-AA---	Pred
+10	:	Z:-------------	AuxG
+11	Vidíte	VB-P---2P-AA---	Obj
+12	,	Z:-------------	AuxX
+13	jen	TT-------------	AuxZ
+14	odejdu	VB-S---1P-AA---	Obj
+15	,	Z:-------------	Coord
+16	hrajete	VB-P---2P-AA---	Obj
+17	o	RR--4----------	AuxP
+18	první	CrNS4----------	Atr
+19	místo	NNNS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94206-133-p6s2B
+1	Už	Db-------------	Adv
+2	jste	VB-P---2P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	zbavil	VpYS---XR-AA---	Pred
+5	své	P8FS2---------1	Atr
+6	pověsti	NNFS2-----A----	Obj
+7	mařiče	NNMS2-----A----	Atr
+8	šancí	NNFP2-----A----	Atr
+9	?	Z:-------------	AuxK
+
+ln94206-133-p7s1
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	otázka	NNFS1-----A----	Pnom
+4	štěstí	NNNS2-----A----	Atr
+5	a	J^-------------	Coord
+6	já	PP-S1--1-------	Sb
+7	ho	PHZS4--3-------	Obj
+8	zatím	Db-------------	Adv
+9	moc	Ca--X----------	Adv
+10	neměl	VpYS---XR-NA---	Pred
+11	.	Z:-------------	AuxK
+
+ln94206-133-p7s2A
+1	Je	VB-S---3P-AA---	Pred
+2	pravda	NNFS1-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jsem	VB-S---1P-AA---	Sb
+6	v	RR--6----------	AuxP
+7	koncovce	NNFS6-----A----	Adv
+8	zbrklý	AAMS1----1A----	Pnom
+9	,	Z:-------------	Coord
+10	vždy	Db-------------	Adv
+11	se	P7-X4----------	AuxT
+12	snažím	VB-S---1P-AA---	Sb
+13	něco	PZ--4----------	Obj
+14	uspěchat	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+16	.	Z:-------------	AuxK
+17	.	Z:-------------	AuxK
+
+ln94206-133-p7s2B
+1	Myslíte	VB-P---2P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	zápasem	NNIS7-----A----	Adv
+5	na	RR--6----------	AuxP
+6	Slavii	NNFS6-----A----	Atr
+7	nastal	VpYS---XR-AA---	Obj
+8	zlom	NNIS1-----A----	Sb
+9	a	J^-------------	Coord
+10	teď	Db-------------	Adv
+11	už	Db-------------	Adv
+12	budou	VB-P---3F-AA---	AuxV
+13	hrát	Vf--------A----	Obj
+14	Jihočeši	NNMP1-----A----	Sb
+15	to	PDNS4----------	Obj
+16	,	Z:-------------	ExD
+17	co	PQ--4----------	ExD
+18	vloni	Db-------------	ExD
+19	?	Z:-------------	AuxK
+
+ln94206-133-p8s1
+1	Určitě	Dg-------1A----	Adv
+2	nám	PP-P3--1-------	Obj
+3	výhra	NNFS1-----A----	Sb
+4	psychicky	Dg-------1A----	Adv
+5	pomůže	VB-S---3P-AA---	Pred
+6	,	Z:-------------	Coord
+7	do	RR--2----------	AuxP
+8	teď	Db-------------	Adv
+9	jsme	VB-P---1P-AA---	AuxV
+10	byli	VpMP---XR-AA---	Pred
+11	na	RR--6----------	AuxP
+12	dně	NNNS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln94206-133-p8s2
+1	Když	J,-------------	AuxC
+2	výhru	NNFS4-----A----	Obj
+3	potvrdíme	VB-P---1P-AA---	Adv
+4	v	RR--6----------	AuxP
+5	utkání	NNNS6-----A----	Adv
+6	s	RR--7----------	AuxP
+7	Libercem	NNIS7-----A----	Atr
+8	,	Z:-------------	AuxX
+9	tak	J^-------------	Adv
+10	už	Db-------------	Adv
+11	bude	VB-S---3F-AA---	Pred
+12	dobře	Dg-------1A----	Adv
+13	.	Z:-------------	AuxK
+

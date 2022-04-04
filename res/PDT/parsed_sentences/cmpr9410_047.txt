@@ -1,0 +1,750 @@
+cmpr9410-047-p2s1
+1	Orientace	NNFS1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	tuzemské	AAMP4----1A----	Atr
+4	pacienty	NNMP4-----A----	Atr
+
+cmpr9410-047-p3s1A
+1	Lázně	NNFP1-----A----	Sb
+2	mají	VB-P---3P-AA---	Pred
+3	méně	Dg-------2A----	Obj
+4	klientů	NNMP2-----A----	Atr
+5	*	Z:-------------	AuxK
+
+cmpr9410-047-p3s1B
+1	Ředitel	NNMS1-----A----	Sb
+2	musí	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	Obj
+4	dobrý	AAMS1----1A----	Atr
+5	manager	NNMS1-----A----	Pnom
+
+cmpr9410-047-p4s1
+1	Transformací	NNFS7-----A----	Adv
+2	podniku	NNIS2-----A----	Atr
+3	Státní	AAFP1----1A----	Atr
+4	lázně	NNFP1-----A----	Atr
+5	Teplice	NNFP1-----A----	Atr
+6	na	RR--4----------	AuxP
+7	akciovou	AAFS4----1A----	Atr
+8	společnost	NNFS4-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	osamostatnila	VpQW---XR-AA---	Pred
+11	lázeňská	AANP1----1A----	Atr
+12	zařízení	NNNP1-----A----	Sb
+13	Bílina	NNFS1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	Kundratice	NNFP1-----A----	Atr
+16	,	Z:-------------	AuxX
+17	Libverda	NNFS1-----A----	Atr
+18	a	J^-------------	Coord
+19	Mšené	NNNS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9410-047-p4s2
+1	Nová	AAFS1----1A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	v	RR--6----------	AuxP
+5	balneoprovozech	NNIP6-----A----	Adv
+6	Teplice	NNFP1-----A----	Atr
+7	a	J^-------------	Coord
+8	Dubí	NNNS1-----A----	Atr
+9	zaměřuje	VB-S---3P-AA---	Pred
+10	na	RR--4----------	AuxP
+11	léčbu	NNFS4-----A----	Obj
+12	nemocí	NNFP2-----A----	Atr
+13	pohybového	AANS2----1A----	Atr
+14	ústrojí	NNNS2-----A----	Atr
+15	a	J^-------------	Coord
+16	duševních	AAFP2----1A----	Atr
+17	chorob	NNFP2-----A----	Atr
+18	a	J^-------------	AuxY
+19	to	PDNS4----------	AuxY
+20	u	RR--2----------	AuxP
+21	dospělých	AAMP2----1A----	Atr
+22	i	J^-------------	Coord
+23	dětských	AAMP2----1A----	Atr
+24	pacientů	NNMP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9410-047-p5s1
+1	K	RR--3----------	AuxP
+2	tomu	PDZS3----------	Adv
+3	máme	VB-P---1P-AA---	Obj
+4	vhodné	AAFP4----1A----	Atr
+5	podmínky	NNFP4-----A----	Obj
+6	především	Db-------------	AuxZ
+7	díky	RR--3----------	AuxP
+8	přírodním	AAIP3----1A----	Atr
+9	léčivým	AAIP3----1A----	Atr
+10	pramenům	NNIP3-----A----	Adv
+11	,	Z:-------------	AuxX
+12	které	P4IP1----------	Sb
+13	jsou	VB-P---3P-AA---	Atr
+14	vhodné	AAIP1----1A----	Pnom
+15	svojí	P8FS7----------	Atr
+16	skladbou	NNFS7-----A----	Adv
+17	,	Z:-------------	AuxX
+18	teplotou	NNFS7-----A----	Adv
+19	a	J^-------------	Coord
+20	mírnou	AAFS7----1A----	Atr
+21	radioaktivitou	NNFS7-----A----	Adv
+22	,	Z:-------------	AuxX
+23	uvedl	VpYS---XR-AA---	Pred
+24	ředitel	NNMS1-----A----	Atr
+25	Petr	NNMS1-----A----	Atr
+26	Wízner	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+cmpr9410-047-p6s1
+1	Optimismus	NNIS1-----A----	ExD
+2	do	RR--2----------	AuxP
+3	budoucna	NNNS2-----A----	Atr
+
+cmpr9410-047-p7s1
+1	V	RR--6----------	AuxP
+2	Teplicích	NNFP6-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	podstatě	NNFS6-----A----	Adv
+6	optimističtí	AAMP1----1A----	Pnom
+7	,	Z:-------------	AuxX
+8	a	J^-------------	AuxY
+9	to	PDNS4----------	AuxY
+10	i	J^-------------	AuxZ
+11	přesto	Dg-------1A----	Adv
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	i	J^-------------	AuxZ
+15	zde	Db-------------	Adv
+16	došlo	VpNS---XR-AA---	Adv
+17	k	RR--3----------	AuxP
+18	určitému	AAIS3----1A----	Atr
+19	poklesu	NNIS3-----A----	Obj
+20	pacientů	NNMP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9410-047-p7s2
+1	Jestliže	J,-------------	AuxC
+2	v	RR--6----------	AuxP
+3	roce	NNIS6-----A---1	Adv
+4	1993	C=-------------	Atr
+5	jich	PPXP2--3-------	Atr
+6	bylo	VpNS---XR-AA---	Adv
+7	8650	C=-------------	Sb
+8	,	Z:-------------	Coord
+9	což	PE--1----------	Sb
+10	je	VB-S---3P-AA---	Adv
+11	vytížení	NNNS1-----A----	Pnom
+12	kapacity	NNFS2-----A----	Atr
+13	lázní	NNFP2-----A----	Atr
+14	asi	TT-------------	AuxZ
+15	na	RR--4----------	AuxP
+16	65	C=-------------	Atr
+17	až	J^-------------	Coord
+18	70	C=-------------	Atr
+19	procent	NNNP2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	tak	Db-------------	Adv
+22	v	RR--6----------	AuxP
+23	letošním	AAIS6----1A----	Atr
+24	roce	NNIS6-----A---1	Adv
+25	by	Vc-------------	AuxV
+26	jich	PPXP2--3-------	Atr
+27	mělo	VpNS---XR-AA---	Pred
+28	být	Vf--------A----	Obj
+29	již	Db-------------	AuxZ
+30	9745	C=-------------	Sb
+31	.	Z:-------------	AuxK
+
+cmpr9410-047-p7s3
+1	Samozřejmě	Dg-------1A----	ExD
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	pro	RR--4----------	AuxP
+5	to	PDNS4----------	Adv
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	se	P7-X4----------	AuxR
+9	postupně	Dg-------1A----	Adv
+10	opět	Db-------------	Adv
+11	zvyšoval	VpYS---XR-AA---	Atr
+12	počet	NNIS1-----A----	Sb
+13	osob	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4FP1----------	Sb
+16	se	P7-X4----------	Obj
+17	sem	Db-------------	Adv
+18	přijedou	VB-P---3P-AA---	Atr
+19	léčit	Vf--------A----	Obj
+20	,	Z:-------------	AuxX
+21	by	Vc-------------	AuxV
+22	samotné	AAIP1----1A----	Atr
+23	přírodní	AAIP1----1A----	Atr
+24	zdroje	NNIP1-----A----	Sb
+25	nestačily	VpTP---XR-NA---	ExD
+26	.	Z:-------------	AuxK
+
+cmpr9410-047-p7s4
+1	Podstatnou	AAFS4----1A----	Atr
+2	roli	NNFS4-----A----	Obj
+3	zde	Db-------------	Adv
+4	hrají	VB-P---3P-AA--1	Pred
+5	záměry	NNIP1-----A----	Sb
+6	managementu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9410-047-p8s1
+1	Tepličtí	AAMP1----1A----	Sb
+2	si	P7-X3----------	AuxT
+3	dobře	Dg-------1A----	Adv
+4	uvědomují	VB-P---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	těžiště	NNNS1-----A----	Sb
+8	jejich	PSXXXXP3-------	Atr
+9	činnosti	NNFS2-----A----	Atr
+10	musí	VB-S---3P-AA---	Obj
+11	být	Vf--------A----	Obj
+12	v	RR--6----------	AuxP
+13	léčení	NNNS6-----A----	Adv
+14	tuzemských	AAMP2----1A----	Atr
+15	pacientů	NNMP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9410-047-p8s2
+1	Těm	PDXP3----------	Obj
+2	je	VB-S---3P-AA---	AuxV
+3	dávána	VsQW---XX-AP---	Pred
+4	přednost	NNFS1-----A----	Sb
+5	před	RR--7----------	AuxP
+6	zahraničními	AAMP7----1A----	Atr
+7	hosty	NNMP7-----A----	AtrAdv
+8	,	Z:-------------	AuxX
+9	a	J^-------------	AuxY
+10	to	PDNS4----------	AuxY
+11	i	J^-------------	AuxZ
+12	přesto	Dg-------1A----	Adv
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	cizinci	NNMP1-----A----	Sb
+16	zaplatí	VB-P---3P-AA---	Adv
+17	za	RR--4----------	AuxP
+18	léčebný	AAIS4----1A----	Atr
+19	pobyt	NNIS4-----A----	Obj
+20	až	TT-------------	AuxZ
+21	čtyřikrát	Cv-------------	Adv
+22	více	Dg-------2A----	Obj
+23	,	Z:-------------	AuxX
+24	než	J,-------------	AuxC
+25	dostanou	VB-P---3P-AA---	Adv
+26	lázně	NNFP1-----A----	Sb
+27	od	RR--2----------	AuxP
+28	zdravotní	AAFS2----1A----	Atr
+29	pojišťovny	NNFS2-----A----	Obj
+30	za	RR--4----------	AuxP
+31	pobyt	NNIS4-----A----	Obj
+32	tuzemského	AAMS2----1A----	Atr
+33	pacienta	NNMS2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+cmpr9410-047-p8s3
+1	Vedení	NNNS1-----A----	Sb
+2	lázní	NNFP2-----A----	Atr
+3	si	P7-X3----------	AuxT
+4	dobře	Dg-------1A----	Adv
+5	uvědomuje	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	zahraniční	AAFS1----1A----	Atr
+9	klientela	NNFS1-----A----	Sb
+10	může	VB-S---3P-AA---	Obj
+11	tvořit	Vf--------A----	Obj
+12	jen	TT-------------	AuxZ
+13	doplňkovou	AAFS4----1A----	Atr
+14	,	Z:-------------	Coord
+15	nikoli	Db------------1	AuxZ
+16	rozhodující	AGFS4-----A----	Atr
+17	část	NNFS4-----A----	Obj
+18	zákazníků	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-047-p8s4
+1	U	RR--2----------	AuxP
+2	zahraničních	AAMP2----1A----	Atr
+3	pacientů	NNMP2-----A----	Adv
+4	jde	VB-S---3P-AA---	Pred
+5	především	Db-------------	AuxZ
+6	o	RR--4----------	AuxP
+7	vytížení	NNNS4-----A----	Obj
+8	volných	AAFP2----1A----	Atr
+9	kapacit	NNFP2-----A----	Atr
+10	lázní	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9410-047-p8s5
+1	Svědčí	VB-S---3P-AA---	Pred
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	fakt	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	počet	NNIS1-----A----	Sb
+8	léčených	AAMP2----1A----	Atr
+9	zahraničních	AAMP2----1A----	Atr
+10	klientů	NNMP2-----A----	Atr
+11	tvoří	VB-S---3P-AA---	Atr
+12	v	RR--6----------	AuxP
+13	Teplicích	NNFP6-----A----	Adv
+14	jen	TT-------------	AuxZ
+15	čtyři	ClXP4----------	Atr
+16	procenta	NNNP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9410-047-p9s1
+1	Spádové	AANS1----1A----	Atr
+2	centrum	NNNS1-----A----	ExD
+
+cmpr9410-047-p10s1
+1	Charakter	NNIS1-----A----	Sb
+2	lázní	NNFP2-----A----	Atr
+3	Teplice	NNFP1-----A----	Atr
+4	umožňuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	u	RR--2----------	AuxP
+8	tuzemských	AAMP2----1A----	Atr
+9	pacientů	NNMP2-----A----	Adv
+10	převažuje	VB-S---3P-AA---	Obj
+11	komplexní	AAFS1----1A----	Atr
+12	léčba	NNFS1-----A----	Sb
+13	nad	RR--7----------	AuxP
+14	příspěvkovou	AAFS7----1A----	ExD
+15	.	Z:-------------	AuxK
+
+cmpr9410-047-p10s2
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	poměr	NNIS4-----A----	Obj
+4	73	C=-------------	Atr
+5	procent	NNNP2-----A----	Atr
+6	ku	RV--3---------1	AuxP
+7	21	C=-------------	Atr
+8	procentům	NNNP3-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9410-047-p10s3
+1	K	RR--3----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	udržení	NNNS3-----A----	Adv
+4	,	Z:-------------	AuxX
+5	případně	Dg-------1A----	Coord
+6	i	J^-------------	AuxZ
+7	zvýšení	NNNS3-----A----	Adv
+8	ve	RV--4----------	AuxP
+9	prospěch	NNIS4-----A----	AuxP
+10	komplexní	AAFS2----1A----	Atr
+11	léčby	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	navázali	VpMP---XR-AA---	Pred
+14	v	RR--6----------	AuxP
+15	Teplicích	NNFP6-----A----	Adv
+16	úzké	AAIP4----1A----	Atr
+17	kontakty	NNIP4-----A----	Obj
+18	se	RV--7----------	AuxP
+19	všemi	PLXP7----------	Atr
+20	zdravotními	AAFP7----1A----	Atr
+21	pojišťovnami	NNFP7-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9410-047-p10s4
+1	Cílem	NNIS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	dosáhnout	Vf--------A----	Sb
+4	toho	PDZS2----------	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	tam	Db-------------	Adv
+9	pacienti	NNMP1-----A----	Sb
+10	opakovaně	Dg-------1A----	Adv
+11	vraceli	VpMP---XR-AA---	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9410-047-p10s5
+1	To	PDNS4----------	Obj
+2	by	Vc-------------	AuxV
+3	měli	VpMP---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	podle	RR--2----------	AuxP
+6	názoru	NNIS2-----A----	Adv
+7	vedení	NNNS2-----A----	Atr
+8	lázní	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	podporovat	Vf--------A----	Obj
+11	jak	Db-------------	AuxY
+12	zdravotní	AAFP1----1A----	Atr
+13	pojišťovny	NNFP1-----A----	Sb
+14	a	J^-------------	Coord
+15	lékaři	NNMP1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	tak	Db-------------	Coord
+18	i	J^-------------	AuxZ
+19	samotní	AAMP1----1A----	Atr
+20	pacienti	NNMP1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	kterým	P4XP3----------	Obj
+23	tato	PDFS1----------	Atr
+24	léčba	NNFS1-----A----	Sb
+25	prospívá	VB-S---3P-AA---	Atr
+26	.	Z:-------------	AuxK
+
+cmpr9410-047-p10s6
+1	Dalším	AAIS7----1A----	Atr
+2	záměrem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	Teplice	NNFP1-----A----	Sb
+8	staly	VpTP---XR-AA---	Sb
+9	přirozeným	AANS7----1A----	Atr
+10	spádovým	AANS7----1A----	Atr
+11	centrem	NNNS7-----A----	Obj
+12	pro	RR--4----------	AuxP
+13	lázeňskou	AAFS4----1A----	Atr
+14	léčbu	NNFS4-----A----	Atr
+15	občanů	NNMP2-----A----	Atr
+16	severočeského	AAIS2----1A----	Atr
+17	regionu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9410-047-p11s1
+1	Kdyby	J,-------------	AuxC
+2	pacienti	NNMP1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	blízkého	AANS2----1A----	Atr
+5	okolí	NNNS2-----A----	Atr
+6	absolvovali	VpMP---XR-AA---	Adv
+7	léčbu	NNFS4-----A----	Obj
+8	u	RR--2----------	AuxP
+9	nás	PP-P2--1-------	Adv
+10	,	Z:-------------	AuxX
+11	tak	Db-------------	Adv
+12	ušetří	VB-P---3P-AA---	Pred
+13	za	RR--4----------	AuxP
+14	výdaje	NNIP4-----A----	Obj
+15	z	RR--2----------	AuxP
+16	rodinného	AAIS2----1A----	Atr
+17	rozpočtu	NNIS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	například	Db-------------	Apos
+20	za	RR--4----------	AuxP
+21	cestovné	NNNS4-----A----	Atr
+22	v	RR--6----------	AuxP
+23	případě	NNIS6-----A----	Atr
+24	návštěv	NNFP2-----A----	Atr
+25	příbuzných	NNMP2-----A----	Atr
+26	apod	Db------------8	Atr
+27	.	Z:-------------	AuxG
+
+cmpr9410-047-p11s2
+1	Příznivě	Dg-------1A----	Adv
+2	by	Vc-------------	AuxV
+3	měly	VpTP---XR-AA---	Obj
+4	být	Vf--------A----	Obj
+5	tomu	PDZS3----------	Obj
+6	nakloněny	VsTP---XX-AP---	Pnom
+7	i	J^-------------	AuxZ
+8	zdravotní	AAFP1----1A----	Atr
+9	pojišťovny	NNFP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	neboť	J^-------------	Coord
+12	ty	PDFP1----------	Sb
+13	by	Vc-------------	AuxV
+14	rovněž	Db-------------	Adv
+15	uspořily	VpTP---XR-AA---	Obj
+16	za	RR--4----------	AuxP
+17	cestovné	NNNS4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	konstatoval	VpYS---XR-AA---	Pred
+20	Petr	NNMS1-----A----	Atr
+21	Wízner	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+cmpr9410-047-p11s3
+1	Další	AAFS7----1A----	Atr
+2	možností	NNFS7-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	dosáhnout	Vf--------A----	Atr
+6	úspor	NNFP2-----A----	Obj
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Pred
+9	i	J^-------------	AuxZ
+10	příspěvková	AAFS1----1A----	Atr
+11	,	Z:-------------	Coord
+12	ambulantní	AAFS1----1A----	Atr
+13	léčba	NNFS1-----A----	Sb
+14	těch	PDXP2----------	Atr
+15	pacientů	NNMP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	kteří	P4MP1----------	Sb
+18	mohou	VB-P---3P-AA--1	Atr
+19	denně	Dg-------1A----	Adv
+20	dojíždět	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9410-047-p12s1
+1	Programy	NNIP1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	managery	NNMP4-----A----	Atr
+
+cmpr9410-047-p13s1
+1	Hodně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxR
+3	nyní	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	lázních	NNFP6-----A----	Adv
+6	hovoří	VB-S---3P-AA---	Pred
+7	o	RR--6----------	AuxP
+8	preventivních	AAIP6----1A----	Atr
+9	programech	NNIP6-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	managery	NNMP4-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9410-047-p13s2
+1	Hezký	AAIS1----1A----	Atr
+2	nápad	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	však	J^-------------	Coord
+5	obtížně	Dg-------1A----	Adv
+6	uskutečňuje	VB-S---3P-AA---	Pred
+7	.	Z:-------------	AuxK
+
+cmpr9410-047-p13s3
+1	Málokterý	PZYS1----------	Atr
+2	vedoucí	AGMS1-----A----	Atr
+3	pracovník	NNMS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	může	VB-S---3P-AA---	Pred
+6	uvolnit	Vf--------A----	Obj
+7	na	RR--4----------	AuxP
+8	21	C=-------------	Adv
+9	dní	NNIP2-----A---1	Atr
+10	,	Z:-------------	AuxX
+11	nebo	J^-------------	Coord
+12	alespoň	Db-------------	AuxZ
+13	na	RR--4----------	AuxP
+14	dva	ClYP4----------	Atr
+15	týdny	NNIP4-----A----	Adv
+16	.	Z:-------------	AuxK
+
+cmpr9410-047-p13s4
+1	Proto	J^-------------	Coord
+2	jim	PPXP3--3-------	Adv
+3	vedení	NNNS1-----A----	Sb
+4	lázní	NNFP2-----A----	Atr
+5	Teplice	NNFP1-----A----	Atr
+6	vychází	VB-S---3P-AA---	Pred
+7	vstříc	RR--3----------	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9410-047-p13s5
+1	Po	RR--6----------	AuxP
+2	dohodě	NNFS6-----A----	Adv
+3	s	RR--7----------	AuxP
+4	lázeňským	AAMS7----1A----	Atr
+5	lékařem	NNMS7-----A----	Atr
+6	si	P7-X3----------	Adv
+7	mohou	VB-P---3P-AA--1	Pred
+8	rozložit	Vf--------A----	Obj
+9	dobu	NNFS4-----A----	Obj
+10	svého	P8ZS2----------	Atr
+11	léčebného	AAIS2----1A----	Atr
+12	pobytu	NNIS2-----A----	Atr
+13	na	RR--4----------	AuxP
+14	několik	Ca--4----------	Adv
+15	částí	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9410-047-p13s6
+1	Přijedou	VB-P---3P-AA---	Pred
+2	na	RR--4----------	AuxP
+3	tři	ClXP4----------	Adv
+4	,	Z:-------------	AuxX
+5	čtyři	ClXP4----------	Adv
+6	,	Z:-------------	Coord
+7	pět	Cn-S4----------	Adv
+8	dní	NNIP2-----A---1	Atr
+9	,	Z:-------------	Coord
+10	absolvovali	VpMP---XR-AA---	Pred
+11	léčebné	AAFP4----1A----	Atr
+12	kúry	NNFP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9410-047-p13s7
+1	Vracejí	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	opět	Db-------------	Adv
+4	za	RR--4----------	AuxP
+5	pár	NNIS4-----A----	Adv
+6	dní	NNIP2-----A---1	Atr
+7	a	J^-------------	Coord
+8	pokračují	VB-P---3P-AA---	Pred
+9	v	RR--6----------	AuxP
+10	přerušené	AAFS6----1A----	Atr
+11	léčbě	NNFS6-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9410-047-p13s8
+1	Po	RR--6----------	AuxP
+2	jejím	PSZS6FS3-------	Atr
+3	skončení	NNNS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	hodnotí	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	zda	J,-------------	AuxC
+8	se	P7-X4----------	AuxT
+9	pro	RR--4----------	AuxP
+10	ně	P5XP4--3-------	Adv
+11	takto	Db-------------	Adv
+12	rozčleněný	AAIS1----1A----	Atr
+13	pobyt	NNIS1-----A----	Sb
+14	stal	VpYS---XR-AA---	Sb
+15	přínosem	NNIS7-----A----	Obj
+16	,	Z:-------------	AuxX
+17	či	J^-------------	Coord
+18	nikoliv	Db-------------	ExD
+19	.	Z:-------------	AuxK
+
+cmpr9410-047-p13s9
+1	Na	RR--6----------	AuxP
+2	základě	NNIS6-----A----	AuxP
+3	připomínek	NNFP2-----A----	Adv
+4	a	J^-------------	Coord
+5	nápadů	NNIP2-----A----	Adv
+6	managerů	NNMP2-----A----	Atr
+7	chtějí	VB-P---3P-AA---	Pred
+8	v	RR--6----------	AuxP
+9	Teplicích	NNFP6-----A----	Adv
+10	rozšířit	Vf--------A----	Obj
+11	tyto	PDIP4----------	Atr
+12	pobyty	NNIP4-----A----	Obj
+13	i	J^-------------	AuxZ
+14	o	RR--4----------	AuxP
+15	další	AAFP4----1A----	Atr
+16	aktivity	NNFP4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	například	Db-------------	Apos
+19	o	RR--4----------	AuxP
+20	zlepšení	NNNS4-----A----	Adv
+21	fyzické	AAFS2----1A----	Atr
+22	kondice	NNFS2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	popřípadě	Db-------------	Coord
+25	o	RR--4----------	AuxP
+26	vzdělávací	AAFP4----1A----	Atr
+27	aktivity	NNFP4-----A----	Adv
+28	.	Z:-------------	AuxK
+
+cmpr9410-047-p14s1
+1	Lázeňský	AAIS1----1A----	Atr
+2	turismus	NNIS1-----A----	ExD
+
+cmpr9410-047-p15s1
+1	K	RR--3----------	AuxP
+2	vyšší	AAFS3----2A----	Atr
+3	rentabilitě	NNFS3-----A----	Obj
+4	má	VB-S---3P-AA---	Pred
+5	přispět	Vf--------A----	Obj
+6	lázeňská	AAFS1----1A----	Atr
+7	turistika	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	se	P7-X4----------	AuxR
+11	využívá	VB-S---3P-AA---	Atr
+12	volná	AAFS1----1A----	Atr
+13	ubytovací	AAFS1----1A----	Atr
+14	kapacita	NNFS1-----A----	Sb
+15	pro	RR--4----------	AuxP
+16	několikadenní	AAIP4----1A----	Atr
+17	zájezdy	NNIP4-----A----	Adv
+18	skupiny	NNFS2-----A----	Atr
+19	zahraničních	AAMP2----1A----	Atr
+20	návštěvníků	NNMP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9410-047-p15s2
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	přijedou	VB-P---3P-AA---	Adv
+4	jen	TT-------------	AuxZ
+5	na	RR--4----------	AuxP
+6	krátkou	AAFS4----1A----	Atr
+7	dobu	NNFS4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	nabízejí	VB-P---3P-AA---	Pred
+10	se	P7-X4----------	AuxR
+11	jim	PPXP3--3-------	Obj
+12	některé	PZFP1----------	Sb
+13	z	RR--2----------	AuxP
+14	lázeňských	AAFP2----1A----	Atr
+15	procedur	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9410-047-p16s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Lázně	NNFP1-----A----	ExD
+4	Teplice	NNFP1-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Čechách	NNFP6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	a	AAXXX----1A---8	Atr
+9	.	Z:-------------	AuxG
+10	s	NNFXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	Obchodní	AANS1----1A----	Atr
+14	oddělení	NNNS1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	Vrchlického	NNMS2-----A----	Atr
+17	23	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	415	C=-------------	Atr
+20	38	C=-------------	Atr
+21	Teplice	NNFP1-----A----	Atr
+22	,	Z:-------------	AuxX
+23	tel	NNIXX-----A---8	Atr
+24	:	Z:-------------	AuxG
+25	0417	C=-------------	Atr
+26	/	Z:-------------	AuxG
+27	323206	C=-------------	Atr
+28	,	Z:-------------	Coord
+29	Fax	NNIS1-----A----	Atr
+30	:	Z:-------------	AuxG
+31	0417	C=-------------	Atr
+32	/	Z:-------------	AuxG
+33	204	C=-------------	Atr
+34	82	C=-------------	Atr
+35	.	Z:-------------	AuxK
+
+cmpr9410-047-p17s1A
+1	Citát	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9410-047-p17s1B
+1	Zahraniční	AAFS1----1A----	Atr
+2	klientela	NNFS1-----A----	Sb
+3	může	VB-S---3P-AA---	Pred
+4	tvořit	Vf--------A----	Obj
+5	jen	TT-------------	AuxZ
+6	doplňkovou	AAFS4----1A----	Atr
+7	,	Z:-------------	Coord
+8	nikoli	Db------------1	AuxZ
+9	rozhodující	AGFS4-----A----	Atr
+10	část	NNFS4-----A----	Obj
+11	zákazníků	NNMP2-----A----	Atr
+

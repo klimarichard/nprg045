@@ -1,0 +1,589 @@
+ln94204-7-p1s1
+1	Smlouvou	NNFS7-----A----	Adv
+2	o	RR--6----------	AuxP
+3	pronájmu	NNIS6-----A----	Atr
+4	služby	NNFP1-----A----	Sb
+5	nekončí	VB-P---3P-NA---	Pred
+
+ln94204-7-p2s1A
+1	Dana	NNFS1-----A----	Atr
+2	Rybáková	NNFS1-----A----	ExD
+
+ln94204-7-p2s1B
+1	Firmy	NNFP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4FP1----------	Sb
+4	podnikají	VB-P---3P-AA---	Atr
+5	v	RR--6----------	AuxP
+6	Praze	NNFS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	mnohdy	Db-------------	Adv
+9	potřebují	VB-P---3P-AA---	Pred
+10	byty	NNIP4-----A----	Obj
+11	pro	RR--4----------	AuxP
+12	své	P8YP4---------1	Atr
+13	zaměstnance	NNMP4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94204-7-p2s2
+1	Movitější	AAMP1----2A----	Atr
+2	zahraniční	AAMP1----1A----	Atr
+3	studenti	NNMP1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	nespokojí	VB-P---3P-NA---	Pred
+6	s	RR--7----------	AuxP
+7	bydlením	NNNS7-----A----	Obj
+8	na	RR--6----------	AuxP
+9	kolejích	NNFP6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94204-7-p2s3
+1	Ti	PDMP1----------	Sb
+2	a	J^-------------	Coord
+3	mnozí	AAMP1----1A----	Sb
+4	další	AAMP1----1A----	Atr
+5	hledají	VB-P---3P-AA---	Pred
+6	možnost	NNFS4-----A----	Obj
+7	dlouhodobého	AAIS2----1A----	Atr
+8	pronájmu	NNIS2-----A----	Atr
+9	bytu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94204-7-p2s4
+1	A	J^-------------	Coord
+2	právě	Db-------------	AuxZ
+3	na	RR--4----------	AuxP
+4	dlouhodobé	AAIP4----1A----	Atr
+5	pronájmy	NNIP4-----A----	Obj
+6	bytů	NNIP2-----A----	Atr
+7	a	J^-------------	Coord
+8	rodinných	AAIP2----1A----	Atr
+9	domů	NNIP2-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	specializuje	VB-S---3P-AA---	Pred
+12	firma	NNFS1-----A----	Sb
+13	Ubytreal	NNIS1-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94204-7-p3s1
+1	V	RR--6----------	AuxP
+2	databance	NNFS6-----A----	Adv
+3	má	VB-S---3P-AA---	Pred
+4	pouze	Db-------------	AuxZ
+5	byty	NNIP4-----A----	Obj
+6	I	C}-------------	Atr
+7	.	Z:-------------	AuxG
+8	kategorie	NNFS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	Praze	NNFS6-----A----	Atr
+11	a	J^-------------	Coord
+12	jejím	PSZS6FS3-------	Atr
+13	okolí	NNNS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94204-7-p3s2
+1	Výjimku	NNFS4-----A----	Obj
+2	tvoří	VB-P---3P-AA---	Pred
+3	byty	NNIP1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	centru	NNNS6-----A----	Atr
+6	Prahy	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	se	P7-X4----------	AuxR
+10	do	RR--2----------	AuxP
+11	nabídky	NNFS2-----A----	Adv
+12	zařazují	VB-P---3P-AA---	Atr
+13	i	J^-------------	AuxZ
+14	byty	NNIP1-----A----	Sb
+15	s	RR--7----------	AuxP
+16	vytápěním	NNNS7-----A----	Atr
+17	wavkami	NNFP1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-7-p3s3
+1	Smlouvy	NNFP4-----A----	Obj
+2	podepisujeme	VB-P---1P-AA---	Pred
+3	jak	J^-------------	AuxY
+4	s	RR--7----------	AuxP
+5	pronajímateli	NNMP7-----A----	Adv
+6	,	Z:-------------	AuxX
+7	tak	J^-------------	Coord
+8	s	RR--7----------	AuxP
+9	nájemci	NNMP7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94204-7-p3s4
+1	Naše	PSHS1-P1-------	Atr
+2	databanka	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Obj
+4	jakousi	PZFS7----------	Atr
+5	křižovatkou	NNFS7-----A----	Pnom
+6	informací	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	řekl	VpYS---XR-AA---	Pred
+9	spolumajitel	NNMS1-----A----	Atr
+10	firmy	NNFS2-----A----	Atr
+11	Michal	NNMS1-----A----	Atr
+12	Vacek	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94204-7-p4s1
+1	Smlouvy	NNFP1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	pronájmu	NNIS6-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	podepisují	VB-P---3P-AA---	Pred
+6	minimálně	Dg-------1A----	AuxZ
+7	na	RR--4----------	AuxP
+8	jeden	ClIS4----------	Adv
+9	a	J^-------------	Coord
+10	maximálně	Dg-------1A----	AuxZ
+11	na	RR--4----------	AuxP
+12	tři	ClXP4----------	Atr
+13	roky	NNIP4-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94204-7-p4s2
+1	Ve	RV--6----------	AuxP
+2	smlouvě	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	uvedena	VsQW---XX-AP---	Pnom
+5	pevná	AAFS1----1A----	Atr
+6	částka	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	kterou	P4FS4----------	Obj
+9	nájemce	NNMS1-----A----	Sb
+10	za	RR--4----------	AuxP
+11	byt	NNIS4-----A----	Obj
+12	platí	VB-S---3P-AA---	Atr
+13	,	Z:-------------	AuxX
+14	a	J^-------------	Coord
+15	ta	PDFS1----------	Sb
+16	se	P7-X4----------	AuxT
+17	nemění	VB-S---3P-NA---	Pred
+18	.	Z:-------------	AuxK
+
+ln94204-7-p4s3
+1	Smlouva	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	dá	VB-S---3P-AA---	Pred
+4	po	RR--6----------	AuxP
+5	uplynutí	NNNS6-----A----	Adv
+6	lhůty	NNFS2-----A----	Atr
+7	prodloužit	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	pak	Db-------------	Adv
+11	je	VB-S---3P-AA---	Pred
+12	třeba	ACNS------A----	Pnom
+13	upravit	Vf--------A----	Sb
+14	právě	Db-------------	AuxZ
+15	sumu	NNFS4-----A----	Obj
+16	placenou	AAFS4----1A----	Atr
+17	za	RR--4----------	AuxP
+18	byt	NNIS4-----A----	Obj
+19	,	Z:-------------	Coord
+20	vzít	Vf--------A----	Sb
+21	v	RR--4----------	AuxP
+22	úvahu	NNFS4-----A----	Obj
+23	například	Db-------------	AuxZ
+24	inflaci	NNFS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln94204-7-p5s1
+1	Nejlevnější	AAFS1----3A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	nezařízená	AAFS1----1N----	Atr
+4	garsoniéra	NNFS1-----A----	Sb
+5	bez	RR--2----------	AuxP
+6	telefonu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	za	RR--4----------	AuxP
+9	pět	Cn-S4----------	Atr
+10	tisíc	ClXS2----------	Atr
+11	korun	NNFP2-----A----	Atr
+12	měsíčně	Dg-------1A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-7-p5s2
+1	Nejdražší	AAIS1----3A----	Atr
+2	pronájem	NNIS1-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	který	P4IS4----------	Obj
+5	firma	NNFS1-----A----	Sb
+6	zatím	Db-------------	Adv
+7	sjednala	VpQW---XR-AA---	Atr
+8	,	Z:-------------	AuxX
+9	byla	VpQW---XR-AA---	Pred
+10	vila	NNFS1-----A----	Sb
+11	na	RR--6----------	AuxP
+12	Klamovce	NNFS6-----A----	Atr
+13	za	RR--4----------	AuxP
+14	sedm	Cn-S4----------	Atr
+15	tisíc	ClXS2----------	Atr
+16	dolarů	NNIP2-----A----	Atr
+17	měsíčně	Dg-------1A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-7-p6s1
+1	Dříve	Dg-------2A----	Adv
+2	tvořili	VpMP---XR-AA---	Obj
+3	přes	RR--4----------	AuxP
+4	50	C=-------------	Obj
+5	procent	NNNP2-----A----	Atr
+6	naší	PSFS2-P1-------	Atr
+7	klientely	NNFS2-----A----	Atr
+8	cizinci	NNMP1-----A----	Sb
+9	,	Z:-------------	Coord
+10	dnes	Db-------------	Adv
+11	je	VB-S---3P-AA---	Obj
+12	jejich	PSXXXXP3-------	Atr
+13	poměr	NNIS1-----A----	Sb
+14	k	RR--3----------	AuxP
+15	domácím	AAMP3----1A----	Atr
+16	zájemcům	NNMP3-----A----	Atr
+17	1	C=-------------	Adv
+18	:	Z:-------------	Coord
+19	1	C=-------------	Adv
+20	,	Z:-------------	AuxX
+21	uvedl	VpYS---XR-AA---	Pred
+22	M	NNMXX-----A---8	Atr
+23	.	Z:-------------	AuxG
+24	Vacek	NNMS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln94204-7-p6s2
+1	Je	VB-S---3P-AA---	Pred
+2	spousta	NNFS1-----A----	Sb
+3	podnikatelů	NNMP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	hledají	VB-P---3P-AA---	Atr
+7	pro	RR--4----------	AuxP
+8	své	P8YP4---------1	Atr
+9	mimopražské	AAMP4----1A----	Atr
+10	zaměstnance	NNMP4-----A----	Adv
+11	ubytování	NNNS4-----A----	Obj
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	AtrAdv
+14	.	Z:-------------	AuxK
+
+ln94204-7-p6s3
+1	Nájemce	NNMS1-----A----	Sb
+2	může	VB-S---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	svých	P8XP2----------	Atr
+5	požadavků	NNIP2-----A----	Adv
+6	dostat	Vf--------A----	Obj
+7	nabídku	NNFS4-----A----	Obj
+8	i	J^-------------	AuxZ
+9	po	RR--6----------	AuxP
+10	telefonu	NNIS6-----A----	AtrAdv
+11	,	Z:-------------	Coord
+12	popřípadě	Db-------------	Adv
+13	navštívit	Vf--------A----	Obj
+14	kancelář	NNFS4-----A----	Obj
+15	společnosti	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	nabídky	NNFP4-----A----	Obj
+18	dostane	VB-S---3P-AA---	Pred
+19	vytištěné	AAFP4----1A----	Atv
+20	.	Z:-------------	AuxK
+
+ln94204-7-p6s4
+1	Klient	NNMS1-----A----	Sb
+2	si	P7-X3----------	Adv
+3	určí	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	velký	AAIS4----1A----	Atr
+7	byt	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	v	RR--6----------	AuxP
+10	jaké	P4FS6----------	Atr
+11	části	NNFS6-----A----	AtrAdv
+12	Prahy	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	v	RR--6----------	AuxP
+15	kterém	P4ZS6----------	Atr
+16	patře	NNNS6-----A---1	AtrAdv
+17	,	Z:-------------	AuxX
+18	s	RR--7----------	AuxP
+19	jakým	P4ZS7----------	Atr
+20	vybavením	NNNS7-----A----	AtrAdv
+21	a	J^-------------	Coord
+22	za	RR--4----------	AuxP
+23	kolik	C?--4----------	AtrAdv
+24	si	P7-X3----------	Adv
+25	chce	VB-S---3P-AA---	Obj
+26	pronajmout	Vf--------A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94204-7-p6s5
+1	Z	RR--2----------	AuxP
+2	databáze	NNFS2-----A----	Adv
+3	pak	Db-------------	Adv
+4	dostane	VB-S---3P-AA---	Pred
+5	buď	J^-------------	AuxY
+6	nabídku	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	se	P7-X4----------	AuxT
+10	s	RR--7----------	AuxP
+11	jeho	PSXXXZS3-------	Atr
+12	požadavky	NNIP7-----A----	Obj
+13	dokonale	Dg-------1A----	Adv
+14	kryje	VB-S---3P-AA---	Atr
+15	,	Z:-------------	AuxX
+16	nebo	J^-------------	Coord
+17	nabídku	NNFS4-----A----	Obj
+18	s	RR--7----------	AuxP
+19	jednou	ClFS7----------	Atr
+20	libovolnou	AAFS7----1A----	Atr
+21	chybou	NNFS7-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94204-7-p6s6
+1	To	PDNS1----------	Sb
+2	znamená	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	byt	NNIS1-----A----	Sb
+6	je	VB-S---3P-AA---	Obj
+7	třeba	Db-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	jiné	AAFS6----1A----	Atr
+10	části	NNFS6-----A----	Adv
+11	Prahy	NNFS2-----A----	Atr
+12	nebo	J^-------------	Coord
+13	je	VB-S---3P-AA---	Obj
+14	dražší	AAIS1----2A----	Pnom
+15	apod	Db------------8	Coord
+16	.	Z:-------------	AuxG
+
+ln94204-7-p7s1
+1	Pronajímatel	NNMS1-----A----	Sb
+2	může	VB-S---3P-AA---	Pred
+3	nabídnout	Vf--------A----	Obj
+4	byt	NNIS4-----A----	Obj
+5	i	J^-------------	AuxZ
+6	telefonicky	Dg-------1A----	Adv
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	v	RR--6----------	AuxP
+10	každém	AAIS6----1A----	Atr
+11	případě	NNIS6-----A----	Adv
+12	se	P7-X4----------	AuxT
+13	musí	VB-S---3P-AA---	Pred
+14	osobně	Dg-------1A----	Adv
+15	dostavit	Vf--------A----	Obj
+16	do	RR--2----------	AuxP
+17	kanceláře	NNFS2-----A----	Adv
+18	společnosti	NNFS2-----A----	Atr
+19	k	RR--3----------	AuxP
+20	podepsání	NNNS3-----A----	Adv
+21	zprostředkovatelské	AAFS2----1A----	Atr
+22	smlouvy	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94204-7-p7s2
+1	Neuzavíráme	VB-P---1P-NA---	Pred
+2	exkluzivní	AAFP4----1A----	Atr
+3	zprostředkovatelské	AAFP4----1A----	Atr
+4	smlouvy	NNFP4-----A----	Obj
+5	jako	J,-------------	AuxC
+6	jiné	AAFP1----1A----	Atr
+7	realitní	AAFP1----1A----	Atr
+8	firmy	NNFP1-----A----	ExD
+9	,	Z:-------------	AuxX
+10	které	P4FP1----------	Sb
+11	pro	RR--4----------	AuxP
+12	pronajímatele	NNMP4-----A----	Adv
+13	znamenají	VB-P---3P-AA---	Atr
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	pod	RR--7----------	AuxP
+17	hrozbou	NNFS7-----A----	Adv
+18	pokuty	NNFS2-----A----	Atr
+19	ve	RV--6----------	AuxP
+20	výši	NNFS6-----A----	Atr
+21	až	TT-------------	AuxZ
+22	tří	ClXP2----------	Atr
+23	měsíčních	AAIP2----1A----	Atr
+24	nájmů	NNIP2-----A----	Atr
+25	si	P7-X3----------	Adv
+26	po	RR--4----------	AuxP
+27	určitou	AAFS4----1A----	Atr
+28	dobu	NNFS4-----A----	Adv
+29	nesmí	VB-S---3P-NA---	Obj
+30	sám	PLYS1----------	AtvV
+31	najít	Vf--------A----	Obj
+32	klienta	NNMS4-----A----	Obj
+33	.	Z:-------------	AuxK
+
+ln94204-7-p7s3
+1	Podle	RR--2----------	AuxP
+2	mého	PSZS2-S1-------	Atr
+3	názoru	NNIS2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	stejnou	AAFS4----1A----	Atr
+6	pokutu	NNFS4-----A----	Obj
+7	měla	VpQW---XR-AA---	Pred
+8	platit	Vf--------A----	Obj
+9	i	J^-------------	AuxZ
+10	kancelář	NNFS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	pokud	J,-------------	AuxC
+13	v	RR--6----------	AuxP
+14	dané	AAFS6----1A----	Atr
+15	době	NNFS6-----A----	Adv
+16	není	VB-S---3P-NA---	Adv
+17	schopna	ACQW------A----	Pnom
+18	najít	Vf--------A----	Obj
+19	nájemce	NNMS4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	nebo	J^-------------	Coord
+22	by	Vc-------------	AuxV
+23	neměla	VpQW---XR-NA---	Adv
+24	exkluzivní	AAFP4----1A----	Atr
+25	smlouvy	NNFP4-----A----	Obj
+26	uzavírat	Vf--------A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94204-7-p7s4
+1	Naše	PSHS1-P1-------	Atr
+2	zprostředkovatelská	AAFS1----1A----	Atr
+3	smlouva	NNFS1-----A----	Sb
+4	pronajímatele	NNMS4-----A----	Obj
+5	ani	J^-------------	Coord
+6	nájemce	NNMS4-----A----	Obj
+7	nijak	Db-------------	Adv
+8	nezavazuje	VB-S---3P-NA---	Pred
+9	.	Z:-------------	AuxK
+
+ln94204-7-p7s5
+1	Po	RR--6----------	AuxP
+2	jejím	PSZS6FS3-------	Atr
+3	podpisu	NNIS6-----A---1	Adv
+4	se	P7-X4----------	AuxT
+5	jeho	PSXXXZS3-------	Atr
+6	nabídka	NNFS1-----A----	Sb
+7	okamžitě	Dg-------1A----	Adv
+8	dostává	VB-S---3P-AA---	ExD
+9	do	RR--2----------	AuxP
+10	databáze	NNFS2-----A----	Adv
+11	,	Z:-------------	Coord
+12	vysvětlil	VpYS---XR-AA---	Pred
+13	M	NNMXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Vacek	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94204-7-p7s6
+1	Za	RR--4----------	AuxP
+2	uzavření	NNNS4-----A----	Obj
+3	smlouvy	NNFS2-----A----	Atr
+4	a	J^-------------	Coord
+5	zařazení	NNNS4-----A----	Obj
+6	do	RR--2----------	AuxP
+7	databáze	NNFS2-----A----	Atr
+8	klient	NNMS1-----A----	Sb
+9	neplatí	VB-S---3P-NA---	Pred
+10	.	Z:-------------	AuxK
+
+ln94204-7-p8s1
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	díky	RR--3----------	AuxP
+6	Ubytrealu	NNIS3-----A----	Adv
+7	jako	J,-------------	AuxC
+8	zprostředkovateli	NNMS3-----A----	Atr
+9	uzavře	VB-S---3P-AA---	Atr
+10	nájemce	NNMS1-----A----	Sb
+11	smlouvu	NNFS4-----A----	Obj
+12	na	RR--4----------	AuxP
+13	dlouhodobý	AAIS4----1A----	Atr
+14	pronájem	NNIS4-----A----	Atr
+15	bytu	NNIS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	zaplatí	VB-S---3P-AA---	Pred
+18	této	PDFS3----------	Atr
+19	společnosti	NNFS3-----A----	Obj
+20	odměnu	NNFS4-----A----	Obj
+21	ve	RV--6----------	AuxP
+22	výši	NNFS6-----A----	Atr
+23	70	C=-------------	Atr
+24	procent	NNNP2-----A----	Atr
+25	měsíčního	AAIS2----1A----	Atr
+26	nájmu	NNIS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94204-7-p8s2
+1	Pokud	J,-------------	AuxC
+2	přičiněním	NNNS7-----A----	Adv
+3	Ubytrealu	NNIS2-----A----	Atr
+4	uzavře	VB-S---3P-AA---	Adv
+5	smlouvu	NNFS4-----A----	Obj
+6	o	RR--6----------	AuxP
+7	dlouhodobém	AAIS6----1A----	Atr
+8	pronájmu	NNIS6-----A----	Atr
+9	pronajímatel	NNMS1-----A----	Sb
+10	bytu	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	zaplatí	VB-S---3P-AA---	Pred
+13	odměnu	NNFS4-----A----	Obj
+14	ve	RV--6----------	AuxP
+15	výši	NNFS6-----A----	Atr
+16	100	C=-------------	Atr
+17	procent	NNNP2-----A----	Atr
+18	měsíčního	AAIS2----1A----	Atr
+19	nájmu	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94204-7-p8s3
+1	Pronajímatel	NNMS1-----A----	Sb
+2	platí	VB-S---3P-AA---	Pred
+3	víc	Dg-------2A---1	Obj
+4	,	Z:-------------	AuxX
+5	protože	J,-------------	AuxC
+6	je	VB-S---3P-AA---	Adv
+7	to	PDNS1----------	Sb
+8	výdělečná	AAFS1----1A----	Atr
+9	činnost	NNFS1-----A----	Pnom
+10	.	Z:-------------	AuxK
+
+ln94204-7-p8s4
+1	Naše	PSHP1-P1-------	Atr
+2	služby	NNFP1-----A----	Sb
+3	ovšem	J^-------------	Coord
+4	nekončí	VB-P---3P-NA---	Pred
+5	podpisem	NNIS7-----A----	Adv
+6	smlouvy	NNFS2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	dlouhodobém	AAIS6----1A----	Atr
+9	pronájmu	NNIS6-----A----	Atr
+10	a	J^-------------	Coord
+11	vyinkasováním	NNNS7-----A----	Adv
+12	odměny	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-7-p8s5
+1	Svým	P8XP3----------	Atr
+2	klientům	NNMP3-----A----	Obj
+3	poskytujeme	VB-P---1P-AA---	Obj
+4	po	RR--4----------	AuxP
+5	celou	AAFS4----1A----	Atr
+6	dobu	NNFS4-----A----	Adv
+7	nájmu	NNIS2-----A----	Atr
+8	právní	AAIS4----1A----	Atr
+9	servis	NNIS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	uvedl	VpYS---XR-AA---	Pred
+12	M	NNMXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	Vacek	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+

@@ -1,0 +1,197 @@
+ln94205-138-p1s1
+1	ČSOB	NNFXX-----A---8	Sb
+2	vydala	VpQW---XR-AA---	Pred
+3	nové	AAFP4----1A----	Atr
+4	obligace	NNFP4-----A----	Obj
+
+ln94205-138-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ip	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94205-138-p2s1B
+1	Tříleté	AAFP4----1A----	Atr
+2	obligace	NNFP4-----A----	Obj
+3	za	RR--4----------	AuxP
+4	šest	Cn-S4----------	Atr
+5	miliard	NNFP2-----A----	Atr
+6	korun	NNFP2-----A----	Atr
+7	vydala	VpQW---XR-AA---	Pred
+8	v	RR--6----------	AuxP
+9	minulých	AAIP6----1A----	Atr
+10	dnech	NNIP6-----A----	Adv
+11	Československá	AAFS1----1A----	Atr
+12	obchodní	AAFS1----1A----	Atr
+13	banka	NNFS1-----A----	Sb
+14	(	Z:-------------	Apos
+15	ČSOB	NNFXX-----A---8	Sb
+16	)	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+ln94205-138-p2s2
+1	LN	NNFPX-----A---8	Obj
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	sdělil	VpYS---XR-AA---	Pred
+5	ředitel	NNMS1-----A----	Atr
+6	odboru	NNIS2-----A----	Atr
+7	cenných	AAIP2----1A----	Atr
+8	papírů	NNIP2-----A----	Atr
+9	banky	NNFS2-----A----	Atr
+10	Jan	NNMS1-----A----	Atr
+11	Pešek	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94205-138-p2s3
+1	Na	RR--4----------	AuxP
+2	kótovaný	AAIS4----1A----	Atr
+3	trh	NNIS4-----A----	Adv
+4	pražské	AAFS2----1A----	Atr
+5	burzy	NNFS2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	dluhopisy	NNIP1-----A----	Sb
+8	měly	VpTP---XR-AA---	Pred
+9	být	Vf--------A----	AuxV
+10	uvedeny	VsTP---XX-AP---	Obj
+11	v	RR--6----------	AuxP
+12	listopadu	NNIS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln94205-138-p3s1
+1	Jak	J,-------------	Adv
+2	Jan	NNMS1-----A----	Atr
+3	Pešek	NNMS1-----A----	Sb
+4	uvedl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	byly	VpTP---XR-AA---	AuxV
+7	obligace	NNFP1-----A----	Sb
+8	při	RR--6----------	AuxP
+9	neveřejném	AAIS6----1N----	Atr
+10	úpisu	NNIS6-----A---1	Adv
+11	na	RR--6----------	AuxP
+12	tzv	AAXXX----1A---8	Atr
+13	.	Z:-------------	AuxG
+14	primárním	AAIS6----1A----	Atr
+15	trhu	NNIS6-----A----	Adv
+16	okamžitě	Dg-------1A----	Adv
+17	rozebrány	VsTP---XX-AP---	Pred
+18	.	Z:-------------	AuxK
+
+ln94205-138-p3s2
+1	Největší	AAIS4----3A----	Atr
+2	podíl	NNIS4-----A----	Obj
+3	upsaly	VpTP---XR-AA---	Pred
+4	z	RR--2----------	AuxP
+5	domácích	AAMP2----1A----	Atr
+6	investorů	NNMP2-----A----	Adv
+7	Komerční	AAFS1----1A----	Atr
+8	banka	NNFS1-----A----	Sb
+9	a	J^-------------	Coord
+10	Česká	AAFS1----1A----	Atr
+11	spořitelna	NNFS1-----A----	Sb
+12	,	Z:-------------	Coord
+13	část	NNFS4-----A----	Obj
+14	nakoupila	VpQW---XR-AA---	Pred
+15	také	Db-------------	Adv
+16	Česká	AAFS1----1A----	Atr
+17	pojišťovna	NNFS1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	Investiční	AAFS1----1A----	Atr
+20	a	J^-------------	Coord
+21	poštovní	AAFS1----1A----	Atr
+22	banka	NNFS1-----A----	Sb
+23	a	J^-------------	Coord
+24	Českomoravská	AAFS1----1A----	Atr
+25	záruční	AAFS1----1A----	Atr
+26	a	J^-------------	Coord
+27	rozvojová	AAFS1----1A----	Atr
+28	banka	NNFS1-----A----	Sb
+29	.	Z:-------------	AuxK
+
+ln94205-138-p3s3
+1	Ze	RV--2----------	AuxP
+2	zahraničních	AAIP2----1A----	Atr
+3	bankovních	AAIP2----1A----	Atr
+4	domů	NNIP2-----A----	Adv
+5	významný	AAIS4----1A----	Atr
+6	podíl	NNIS4-----A----	Obj
+7	koupila	VpQW---XR-AA---	Pred
+8	Deutche	AAXXX----1A----	Atr
+9	Bank	NNFXX-----A----	Sb
+10	a	J^-------------	Coord
+11	Comerzbank	NNFXX-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94205-138-p4s1
+1	Nominální	AAFS1----1A----	Atr
+2	cena	NNFS1-----A----	Sb
+3	jedné	ClFS2----------	Atr
+4	obligace	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	20000	C=-------------	Pnom
+7	korun	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94205-138-p4s2
+1	Podle	RR--2----------	AuxP
+2	informace	NNFS2-----A----	Adv
+3	Jana	NNMS2-----A----	Atr
+4	Peška	NNMS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	obligace	NNFP1-----A----	Sb
+7	prodávaly	VpTP---XR-AA---	Pred
+8	za	RR--4----------	AuxP
+9	nominální	AAFS4----1A----	Atr
+10	hodnotu	NNFS4-----A----	Adv
+11	,	Z:-------------	Coord
+12	roční	AAIS1----1A----	Atr
+13	úrokový	AAIS1----1A----	Atr
+14	výnos	NNIS1-----A----	Sb
+15	činí	VB-S---3P-AA---	Pred
+16	11	C=-------------	Obj
+17	1	C=-------------	Atr
+18	/	Z:-------------	Atr
+19	8	C=-------------	Obj
+20	procenta	NNNS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94205-138-p5s1
+1	Jak	J,-------------	Adv
+2	Jan	NNMS1-----A----	Atr
+3	Pešek	NNMS1-----A----	Sb
+4	řekl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	počítá	VB-S---3P-AA---	Pred
+7	Československá	AAFS1----1A----	Atr
+8	obchodní	AAFS1----1A----	Atr
+9	banka	NNFS1-----A----	Sb
+10	letos	Db-------------	Adv
+11	ještě	Db-------------	AuxZ
+12	s	RR--7----------	AuxP
+13	emisí	NNFS7-----A----	Obj
+14	pětiletých	AAFP2----1A----	Atr
+15	obligací	NNFP2-----A----	Atr
+16	,	Z:-------------	ExD
+17	opět	Db-------------	ExD
+18	za	RR--4----------	AuxP
+19	šest	Cn-S4----------	ExD
+20	miliard	NNFP2-----A----	Atr
+21	korun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94205-138-p5s2
+1	Hlavním	AAIS7----1A----	Atr
+2	cílem	NNIS7-----A----	Pnom
+3	obou	ClXP2----------	Atr
+4	emisí	NNFP2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	podle	RR--2----------	AuxP
+7	jeho	PSXXXZS3-------	Atr
+8	slov	NNNP2-----A----	Adv
+9	získání	NNNS1-----A----	Sb
+10	střednědobých	AANP2----1A----	Atr
+11	depozit	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+

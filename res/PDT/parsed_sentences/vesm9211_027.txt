@@ -1,0 +1,2445 @@
+vesm9211-027-p1s1
+1	Vnímání	NNNS1-----A----	ExD
+2	řeči	NNFS2-----A----	Atr
+3	kochleárním	AAIS7----1A----	Atr
+4	implantátem	NNIS7-----A----	Atr
+
+vesm9211-027-p2s1
+1	MILOSLAV	NNMS1-----A----	Atr
+2	VALVODA	NNMS1-----A----	ExD
+
+vesm9211-027-p3s1
+1	TOMÁŠ	NNMS1-----A----	Atr
+2	TICHÝ	AAMS1----1A----	ExD
+
+vesm9211-027-p4s1
+1	Umělá	AAFS1----1A----	Atr
+2	náhrada	NNFS1-----A----	Sb
+3	smyslového	AANS2----1A----	Atr
+4	ústrojí	NNNS2-----A----	Atr
+5	působí	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	dnes	Db-------------	Adv
+8	na	RR--4----------	AuxP
+9	čtenáře	NNMP4-----A----	Obj
+10	jako	J,-------------	AuxC
+11	science	AAXXX----1A----	Atr
+12	fiction	AAXXX----1A----	ExD
+13	.	Z:-------------	AuxK
+
+vesm9211-027-p4s2
+1	Zatímco	J,-------------	AuxC
+2	zraková	AAFS1----1A----	Atr
+3	neuroprotéza	NNFS1-----A----	Sb
+4	je	VB-S---3P-AA---	Adv
+5	stále	Db-------------	Adv
+6	ve	RV--6----------	AuxP
+7	stadiu	NNNS6-----A----	Adv
+8	výzkumu	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kochleární	AAIS1----1A----	Atr
+11	implantát	NNIS1-----A----	Sb
+12	nahrazující	AGIS1-----A----	Atr
+13	nefunkční	AANS4----1N----	Atr
+14	vnitřní	AANS4----1A----	Atr
+15	ucho	NNNS4-----A----	Obj
+16	již	Db-------------	Adv
+17	pomáhá	VB-S---3P-AA---	Pred
+18	několika	Ca--3----------	Obj
+19	tisícům	NNIP3-----A----	Atr
+20	neslyšících	AGMP2-----N----	ExD
+21	.	Z:-------------	AuxK
+
+vesm9211-027-p5s1
+1	Výsledek	NNIS1-----A----	Sb
+2	implantace	NNFS2-----A----	Atr
+3	není	VB-S---3P-NA---	Pred
+4	u	RR--2----------	AuxP
+5	všech	PLXP2----------	Atr
+6	pacientů	NNMP2-----A----	Adv
+7	stejný	AAIS1----1A----	Pnom
+8	.	Z:-------------	AuxK
+
+vesm9211-027-p5s2
+1	Vedle	RR--2----------	AuxP
+2	těch	PDXP2----------	Atr
+3	nejlepších	AAMP2----3A----	Adv
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	s	RR--7----------	AuxP
+7	neuroprotézou	NNFS7-----A----	Adv
+8	rozumějí	VB-P---3P-AA---	Atr
+9	řeči	NNFS3-----A----	Obj
+10	a	J^-------------	Coord
+11	jsou	VB-P---3P-AA---	Atr
+12	schopni	ACMP------A----	Pnom
+13	i	J^-------------	AuxZ
+14	telefonovat	Vf--------A----	Obj
+15	,	Z:-------------	AuxX
+16	jsou	VB-P---3P-AA---	Pred
+17	další	AAMP1----1A----	Atr
+18	pacienti	NNMP1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	kterým	P4XP3----------	Obj
+21	neuroprotéza	NNFS1-----A----	Sb
+22	přináší	VB-S---3P-AA---	Atr
+23	pouze	Db-------------	AuxZ
+24	omezenou	AAFS4----1A----	Atr
+25	,	Z:-------------	Coord
+26	časově	Dg-------1A----	Adv
+27	-	Z:-------------	AuxG
+28	intenzitní	AAFS4----1A----	Atr
+29	zvukovou	AAFS4----1A----	Atr
+30	informaci	NNFS4-----A----	Obj
+31	.	Z:-------------	AuxK
+
+vesm9211-027-p5s3
+1	Nezáleží	VB-S---3P-NA---	Pred
+2	ani	J^-------------	AuxZ
+3	na	RR--6----------	AuxP
+4	tom	PDZS6----------	Adv
+5	,	Z:-------------	AuxX
+6	zda	J,-------------	AuxC
+7	byl	VpYS---XR-AA---	AuxV
+8	implantován	VsYS---XX-AP---	Atr
+9	složitý	AAIS1----1A----	Atr
+10	,	Z:-------------	Coord
+11	vícekanálový	AAIS1----1A----	Atr
+12	systém	NNIS1-----A----	Sb
+13	s	RR--7----------	AuxP
+14	řadou	NNFS7-----A----	Atr
+15	elektrod	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	nebo	J^-------------	Coord
+18	zda	J,-------------	AuxC
+19	byla	VpQW---XR-AA---	AuxV
+20	použita	VsQW---XX-AP---	Atr
+21	jednokanálová	AAFS1----1A----	Atr
+22	neuroprotéza	NNFS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+vesm9211-027-p5s4
+1	Dobré	AAIP1----1A----	Atr
+2	i	J^-------------	Coord
+3	špatné	AAIP1----1A----	Atr
+4	výsledky	NNIP1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	vyskytují	VB-P---3P-AA---	Pred
+7	u	RR--2----------	AuxP
+8	všech	PLXP2----------	Atr
+9	používaných	AAIP2----1A----	Atr
+10	systémů	NNIP2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p6s1
+1	Předoperační	AAIP1----1A----	Atr
+2	indikační	AAIP1----1A----	Atr
+3	testy	NNIP1-----A----	Sb
+4	zatím	Db-------------	Adv
+5	neposkytují	VB-P---3P-NA---	Pred
+6	jednoznačné	AAIP4----1A----	Atr
+7	prediktivní	AAIP4----1A----	Atr
+8	údaje	NNIP4-----A----	Obj
+9	o	RR--6----------	AuxP
+10	implantačním	AAIS6----1A----	Atr
+11	zisku	NNIS6-----A----	AtrObj
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p6s2
+1	Spíše	Dg-------2A---1	Adv
+2	víme	VB-P---1P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	kterým	P4XP3----------	Atr
+5	pacientům	NNMP3-----A----	Obj
+6	nemáme	VB-P---1P-NA---	Obj
+7	implantaci	NNFS4-----A----	Obj
+8	provádět	Vf--------A----	Obj
+9	,	Z:-------------	AuxX
+10	než	J,-------------	AuxC
+11	jaký	P4YS1----------	Atr
+12	bude	VB-S---3F-AA---	Adv
+13	přínos	NNIS1-----A----	Sb
+14	u	RR--2----------	AuxP
+15	vybraných	AAMP2----1A----	Atr
+16	kandidátů	NNMP2-----A----	Adv
+17	implantace	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9211-027-p7s1
+1	Více	Dg-------2A----	Adv
+2	než	J,-------------	AuxC
+3	neúspěch	NNIS1-----A----	ExD
+4	složitého	AAIS2----1A----	Atr
+5	vícekanálového	AAIS2----1A----	Atr
+6	implantátu	NNIS2-----A----	Atr
+7	překvapují	VB-P---3P-AA---	Pred
+8	vynikající	AGIP1-----A----	Atr
+9	výsledky	NNIP1-----A----	Sb
+10	jednokanálového	AAIS2----1A----	Atr
+11	systému	NNIS2-----A----	Atr
+12	u	RR--2----------	AuxP
+13	některých	PZXP2----------	Atr
+14	jedinců	NNMP2-----A----	AtrAdv
+15	.	Z:-------------	AuxK
+
+vesm9211-027-p7s2
+1	Potvrzují	VB-P---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	sluchové	AANS1----1A----	Atr
+5	centrum	NNNS1-----A----	Sb
+6	dokáže	VB-S---3P-AA---	Obj
+7	rozlišit	Vf--------A----	Obj
+8	řeč	NNFS4-----A----	Obj
+9	i	J^-------------	AuxZ
+10	z	RR--2----------	AuxP
+11	velmi	Db-------------	Adv
+12	zjednodušeného	AAIS2----1A----	Atr
+13	a	J^-------------	Coord
+14	zkresleného	AAIS2----1A----	Atr
+15	zvukového	AAIS2----1A----	Atr
+16	signálu	NNIS2-----A----	Adv
+17	zprostředkovaného	AAIS2----1A----	Atr
+18	neuroprotézou	NNFS7-----A----	Obj
+19	.	Z:-------------	AuxK
+
+vesm9211-027-p8s1
+1	Indikace	NNFS1-----A----	ExD
+2	kochleárního	AAIS2----1A----	Atr
+3	implantátu	NNIS2-----A----	Atr
+4	.	Z:-------------	AuxK
+
+vesm9211-027-p9s1
+1	Kochleární	AAIS1----1A----	Atr
+2	implantát	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	AuxV
+4	určen	VsYS---XX-AP---	Pred
+5	zejména	Db-------------	AuxZ
+6	pro	RR--4----------	AuxP
+7	oboustranně	Dg-------1A----	Adv
+8	hluché	AAFP4----1A----	Atr
+9	osoby	NNFP4-----A----	Adv
+10	,	Z:-------------	AuxX
+11	které	P4FP1----------	Sb
+12	ztratily	VpTP---XR-AA---	Atr
+13	sluch	NNIS4-----A----	Obj
+14	až	TT-------------	AuxZ
+15	po	RR--6----------	AuxP
+16	vytvoření	NNNS6-----A----	Adv
+17	řeči	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9211-027-p9s2
+1	Využívá	VB-S---3P-AA---	Pred
+2	elektrické	AAFS2----1A----	Atr
+3	dráždivosti	NNFS2-----A----	Obj
+4	přežívajících	AGNP2-----A----	Atr
+5	vláken	NNNP2-----A----	Atr
+6	sluchového	AAIS2----1A----	Atr
+7	nervu	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+vesm9211-027-p9s3
+1	Podráždění	NNNS1-----A----	Sb
+2	těchto	PDXP2----------	Atr
+3	vláken	NNNP2-----A----	Atr
+4	elektrickým	AAIS7----1A----	Atr
+5	proudem	NNIS7-----A----	Atr
+6	vyvolá	VB-S---3P-AA---	Pred
+7	zvukový	AAIS4----1A----	Atr
+8	vjem	NNIS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+vesm9211-027-p9s4
+1	To	PDNS4----------	Obj
+2	objevil	VpYS---XR-AA---	Pred
+3	již	Db-------------	AuxZ
+4	A	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Volta	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	vývoj	NNIS4-----A----	Obj
+10	neuroprotézy	NNFS2-----A----	Atr
+11	umožnil	VpYS---XR-AA---	Pred
+12	teprve	Db-------------	AuxZ
+13	rozvoj	NNIS1-----A----	Sb
+14	elektroniky	NNFS2-----A----	Atr
+15	a	J^-------------	Coord
+16	mikrochirurgických	AAFP2----1A----	Atr
+17	operačních	AAFP2----1A----	Atr
+18	metod	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+vesm9211-027-p10s1
+1	Technické	AANS1----1A----	Atr
+2	řešení	NNNS1-----A----	ExD
+3	implantátu	NNIS2-----A----	Atr
+
+vesm9211-027-p11s1
+1	Ve	RV--6----------	AuxP
+2	světě	NNIS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	vyrábí	VB-S---3P-AA---	Pred
+5	několik	Ca--1----------	Sb
+6	systémů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4IP1----------	Sb
+9	se	P7-X4----------	AuxT
+10	pozoruhodně	Dg-------1A----	Adv
+11	liší	VB-P---3P-AA---	Atr
+12	kódovací	AAFS7----1A----	Atr
+13	strategií	NNFS7-----A----	Adv
+14	,	Z:-------------	AuxX
+15	počtem	NNIS7-----A----	Adv
+16	kanálů	NNIP2-----A----	Atr
+17	a	J^-------------	Coord
+18	uložením	NNNS7-----A----	Adv
+19	elektrod	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+vesm9211-027-p11s2
+1	Nejsložitější	AAIS1----3A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	australský	AAIS1----1A----	Atr
+4	implantát	NNIS1-----A----	Sb
+5	Nucleus	NNIS1-----A----	Atr
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	používá	VB-S---3P-AA---	Atr
+9	22	C=-------------	Atr
+10	elektrod	NNFP2-----A----	Obj
+11	s	RR--7----------	AuxP
+12	bipolárním	AANS7----1A----	Atr
+13	drážděním	NNNS7-----A----	Atr
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p11s3
+1	Implantáty	NNIP1-----A----	Sb
+2	Symbion	NNIS1-----A----	Atr
+3	a	J^-------------	Coord
+4	Storz	NNIS1-----A----	Atr
+5	mají	VB-P---3P-AA---	Pred
+6	4	C=-------------	Atr
+7	kanály	NNIP4-----A----	Obj
+8	,	Z:-------------	Coord
+9	přičemž	J,-------------	Adv
+10	Symbion	NNIS1-----A----	Sb
+11	používá	VB-S---3P-AA---	Pred
+12	monopolární	AAFS4----1A----	ExD
+13	a	J^-------------	Coord
+14	Storz	NNIS1-----A----	ExD
+15	bipolární	AAFS4----1A----	Atr
+16	stimulaci	NNFS4-----A----	ExD
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p11s4
+1	Z	RR--2----------	AuxP
+2	jednokanálových	AAIP2----1A----	Atr
+3	systémů	NNIP2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	nejznámější	AAIS1----3A----	Pnom
+6	systém	NNIS1-----A----	Sb
+7	Vienna	NNFS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	produkovaný	AAIS1----1A----	Atr
+10	donedávna	Db-------------	Adv
+11	firmou	NNFS7-----A----	Obj
+12	3	C=-------------	Atr
+13	M	NNNXX-----A----	Atr
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p12s1
+1	Jednokanálová	AAFS1----1A----	Atr
+2	kochleární	AAFS1----1A----	Atr
+3	neuroprotéza	NNFS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	skládá	VB-S---3P-AA---	Pred
+6	ze	RV--2----------	AuxP
+7	zevní	AAFS2----1A----	Atr
+8	části	NNFS2-----A----	Obj
+9	a	J^-------------	Coord
+10	implantabilní	AAFS2----1A----	Atr
+11	části	NNFS2-----A----	Obj
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p12s2
+1	Zevní	AAFS4----1A----	Atr
+2	část	NNFS4-----A----	Obj
+3	tvoří	VB-S---3P-AA---	Pred
+4	řečový	AAIS1----1A----	Atr
+5	procesor	NNIS1-----A----	Sb
+6	a	J^-------------	Coord
+7	vysílač	NNIS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+vesm9211-027-p13s1
+1	Řečový	AAIS4----1A----	Atr
+2	procesor	NNIS4-----A----	Obj
+3	nosí	VB-S---3P-AA---	Pred
+4	pacient	NNMS1-----A----	Sb
+5	na	RR--6----------	AuxP
+6	hrudi	NNFS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	podobně	Dg-------1A----	Adv
+9	jako	J,-------------	AuxC
+10	krabičkové	AANS4----1A----	Atr
+11	sluchadlo	NNNS4-----A----	ExD
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p13s2
+1	S	RR--7----------	AuxP
+2	vysílačem	NNIS7-----A----	Obj
+3	,	Z:-------------	AuxX
+4	umístěným	AAIS7----1A----	Atr
+5	nad	RR--7----------	AuxP
+6	implantabilní	AAFS7----1A----	Atr
+7	částí	NNFS7-----A----	Adv
+8	za	RR--7----------	AuxP
+9	boltcem	NNIS7-----A----	AtrAdv
+10	,	Z:-------------	AuxX
+11	je	VB-S---3P-AA---	AuxV
+12	spojen	VsYS---XX-AP---	Pred
+13	vodičem	NNIS7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p13s3
+1	Vysílač	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	přidržován	VsYS---XX-AP---	Pred
+4	ke	RV--3----------	AuxP
+5	kůži	NNFS3-----A----	Adv
+6	nad	RR--7----------	AuxP
+7	implantovanou	AAFS7----1A----	Atr
+8	částí	NNFS7-----A----	AtrAdv
+9	magnetem	NNIS7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+vesm9211-027-p14s1
+1	Řečový	AAIS1----1A----	Atr
+2	procesor	NNIS1-----A----	Sb
+3	mění	VB-S---3P-AA---	Pred
+4	akustický	AAIS4----1A----	Atr
+5	signál	NNIS4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	elektrický	AAIS4----1A----	ExD
+8	a	J^-------------	Coord
+9	upravuje	VB-S---3P-AA---	Pred
+10	jej	PPZS4--3------2	Obj
+11	podle	RR--2----------	AuxP
+12	individuální	AAFS2----1A----	Atr
+13	potřeby	NNFS2-----A----	Adv
+14	pacienta	NNMS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9211-027-p14s2
+1	Obecně	Dg-------1A----	Adv
+2	provádí	VB-S---3P-AA---	Pred
+3	tyto	PDFP4----------	Atr
+4	úpravy	NNFP4-----A----	Obj
+5	signálu	NNIS2-----A----	Atr
+6	:	Z:-------------	Apos
+7	kompresi	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	filtraci	NNFS4-----A----	Obj
+10	a	J^-------------	Coord
+11	zesílení	NNNS4-----A----	Obj
+12	(	Z:-------------	AuxG
+13	viz	Vi-S---2--A---1	Pred
+14	obr	NNIXX-----A---8	Obj
+15	2	C=-------------	Atr
+16	)	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p15s1
+1	V	RR--6----------	AuxP
+2	účinném	AAIS6----1A----	Atr
+3	kompresoru	NNIS6-----A----	Adv
+4	je	VB-S---3P-AA---	AuxV
+5	omezována	VsQW---XX-AP---	Pred
+6	dynamika	NNFS1-----A----	Sb
+7	signálu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ve	RV--6----------	AuxP
+10	filtru	NNIS6-----A----	Adv
+11	je	VB-S---3P-AA---	AuxV
+12	redukován	VsYS---XX-AP---	Pred
+13	obsah	NNIS1-----A----	Sb
+14	vyšších	AAIP2----2A----	Atr
+15	kmitočtů	NNIP2-----A----	Atr
+16	,	Z:-------------	Coord
+17	změnou	NNFS7-----A----	Adv
+18	zesílení	NNNS2-----A----	Atr
+19	je	VB-S---3P-AA---	AuxV
+20	regulována	VsQW---XX-AP---	Pred
+21	hlasitost	NNFS1-----A----	Sb
+22	vyvolaného	AAIS2----1A----	Atr
+23	vjemu	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+vesm9211-027-p16s1
+1	Základní	AANS1----1A----	Atr
+2	nastavení	NNNS1-----A----	Sb
+3	kompresoru	NNIS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	filtru	NNIS2-----A----	Atr
+6	a	J^-------------	Coord
+7	zesilovače	NNIS2-----A----	Atr
+8	se	P7-X4----------	AuxR
+9	provádí	VB-S---3P-AA---	Pred
+10	vnitřními	AAIP7----1A----	Atr
+11	regulačními	AAIP7----1A----	Atr
+12	prvky	NNIP7-----A----	Adv
+13	.	Z:-------------	AuxK
+
+vesm9211-027-p16s2
+1	Vychází	VB-S---3P-AA---	Pred
+2	z	RR--2----------	AuxP
+3	měření	NNNS2-----A----	Obj
+4	prahů	NNIP2-----A----	Atr
+5	vyvolaného	AAIS2----1A----	Atr
+6	vjemu	NNIS2-----A----	Atr
+7	a	J^-------------	Coord
+8	hladin	NNFP2-----A----	Atr
+9	nepříjemné	AAFS2----1N----	Atr
+10	hlasitosti	NNFS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	jednotlivé	AAIP4----1A----	Atr
+13	kmitočty	NNIP4-----A----	AtrAtr
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p16s3
+1	Práh	NNIS1-----A----	Sb
+2	a	J^-------------	Coord
+3	maximální	AAFS1----1A----	Atr
+4	hlasitost	NNFS1-----A----	Sb
+5	určuje	VB-S---3P-AA---	Pred
+6	dynamický	AAIS4----1A----	Atr
+7	rozsah	NNIS4-----A----	Obj
+8	elektrického	AANS2----1A----	Atr
+9	slyšení	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+vesm9211-027-p16s4
+1	Stupeň	NNIS4-----A----	Obj
+2	komprese	NNFS2-----A----	Atr
+3	a	J^-------------	Coord
+4	zesílení	NNNS4-----A----	Atr
+5	si	P7-X3----------	Adv
+6	může	VB-S---3P-AA---	Pred
+7	pacient	NNMS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	určitém	AAIS6----1A----	Atr
+10	bezpečném	AAIS6----1A----	Atr
+11	rozsahu	NNIS6-----A----	Adv
+12	regulovat	Vf--------A----	Obj
+13	sám	PLYS1----------	AtvV
+14	vnějšími	AAIP7----1A----	Atr
+15	regulačními	AAIP7----1A----	Atr
+16	prvky	NNIP7-----A----	Adv
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p17s1
+1	Ve	RV--6----------	AuxP
+2	vysílači	NNIS6-----A----	Adv
+3	je	VB-S---3P-AA---	AuxV
+4	upravený	AAIS1----1A----	Atr
+5	signál	NNIS1-----A----	Sb
+6	amplitudově	Dg-------1A----	Adv
+7	modulován	VsYS---XX-AP---	Pred
+8	na	RR--4----------	AuxP
+9	vysokofrekvenční	AAIS4----1A----	Atr
+10	nosný	AAIS4----1A----	Atr
+11	kmitočet	NNIS4-----A----	Adv
+12	,	Z:-------------	AuxX
+13	aby	J,-------------	AuxC
+14	mohl	VpYS---XR-AA---	Adv
+15	být	Vf--------A----	AuxV
+16	bezdrátově	Dg-------1A----	Adv
+17	přenesen	VsYS---XX-AP---	Obj
+18	do	RR--2----------	AuxP
+19	implantabilní	AAFS2----1A----	Atr
+20	části	NNFS2-----A----	Adv
+21	.	Z:-------------	AuxK
+
+vesm9211-027-p17s2
+1	Zde	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	demodulován	VsYS---XX-AP---	Pnom
+4	a	J^-------------	Coord
+5	využit	VsYS---XX-AP---	Pnom
+6	ke	RV--3----------	AuxP
+7	stimulaci	NNFS3-----A----	Obj
+8	.	Z:-------------	AuxK
+
+vesm9211-027-p17s3
+1	Implantabilní	AAFS1----1A----	Atr
+2	část	NNFS1-----A----	Sb
+3	neobsahuje	VB-S---3P-NA---	Pred
+4	napájecí	AAIP4----1A----	Atr
+5	zdroje	NNIP4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+vesm9211-027-p18s1
+1	Kódovací	AAFP1----1A----	Atr
+2	strategie	NNFP1-----A----	ExD
+3	.	Z:-------------	AuxK
+
+vesm9211-027-p19s1
+1	Hlavním	AAIS7----1A----	Atr
+2	cílem	NNIS7-----A----	Pnom
+3	implantace	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	zlepšit	Vf--------A----	Sb
+6	porozumění	NNNS4-----A----	Obj
+7	řeči	NNFS3-----A----	Atr
+8	.	Z:-------------	AuxK
+
+vesm9211-027-p19s2
+1	Kódovací	AAFP1----1A----	Atr
+2	strategie	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	volené	AAFP1----1A----	Atr
+5	jednotlivými	AAFP7----1A----	Atr
+6	implantačními	AAFP7----1A----	Atr
+7	skupinami	NNFP7-----A----	Obj
+8	,	Z:-------------	AuxX
+9	jsou	VB-P---3P-AA---	Pred
+10	stejně	Dg-------1A----	Adv
+11	rozmanité	AAFP1----1A----	Pnom
+12	jako	J,-------------	AuxC
+13	hypotézy	NNFP1-----A----	ExD
+14	o	RR--6----------	AuxP
+15	vnímání	NNNS6-----A----	Atr
+16	řečového	AAIS2----1A----	Atr
+17	signálu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9211-027-p20s1
+1	Jak	Db-------------	Adv
+2	vnímá	VB-S---3P-AA---	Pred
+3	řeč	NNFS4-----A----	Obj
+4	normálně	Dg-------1A----	Adv
+5	slyšící	AGMS1-----A----	Atr
+6	jedinec	NNMS1-----A----	Sb
+7	?	Z:-------------	AuxK
+
+vesm9211-027-p21s1
+1	Řeč	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	skládá	VB-S---3P-AA---	Pred
+4	ze	RV--2----------	AuxP
+5	samohlásek	NNFP2-----A----	Obj
+6	a	J^-------------	Coord
+7	souhlásek	NNFP2-----A----	Obj
+8	.	Z:-------------	AuxK
+
+vesm9211-027-p21s2
+1	To	PDNS1----------	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	fonetické	AAIP1----1A----	Atr
+4	články	NNIP1-----A----	Pnom
+5	řeči	NNFS2-----A----	Atr
+6	(	Z:-------------	Apos
+7	fonémy	NNIP1-----A----	Pnom
+8	)	Z:-------------	AuxG
+9	.	Z:-------------	AuxK
+
+vesm9211-027-p21s3
+1	Slabiky	NNFP1-----A----	Sb
+2	a	J^-------------	Coord
+3	slova	NNNP1-----A----	Sb
+4	jsou	VB-P---3P-AA---	AuxV
+5	složeny	VsTP---XX-AP---	Pred
+6	z	RR--2----------	AuxP
+7	poměrně	Dg-------1A----	Adv
+8	malého	AAIS2----1A----	Atr
+9	počtu	NNIS2-----A----	Obj
+10	těchto	PDXP2----------	Atr
+11	článků	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p21s4
+1	Výslovnost	NNFS1-----A----	Sb
+2	jedné	ClFS2----------	Atr
+3	hlásky	NNFS2-----A----	Atr
+4	není	VB-S---3P-NA---	Pred
+5	vždy	Db-------------	Adv
+6	stejná	AAFS1----1A----	Pnom
+7	a	J^-------------	Coord
+8	liší	VB-S---3P-AA---	Pred
+9	se	P7-X4----------	AuxT
+10	podle	RR--2----------	AuxP
+11	kontextu	NNIS2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p21s5
+1	Fonémy	NNIP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	v	RR--6----------	AuxP
+4	řeči	NNFS6-----A----	Adv
+5	spojují	VB-P---3P-AA---	Pred
+6	do	RR--2----------	AuxP
+7	větších	AAIP2----2A----	Atr
+8	celků	NNIP2-----A----	Obj
+9	,	Z:-------------	AuxX
+10	které	P4IP1----------	Sb
+11	se	P7-X4----------	AuxT
+12	nazývají	VB-P---3P-AA---	Atr
+13	morfémy	NNIP1-----A----	Adv
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p21s6
+1	Ty	PDIP1----------	Sb
+2	již	Db-------------	Adv
+3	mají	VB-P---3P-AA---	Pred
+4	vlastní	AAIS4----1A----	Atr
+5	význam	NNIS4-----A----	Obj
+6	nebo	J^-------------	Coord
+7	gramatickou	AAFS4----1A----	Atr
+8	funkci	NNFS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+vesm9211-027-p21s7
+1	Jsou	VB-P---3P-AA---	AuxV
+2	při	RR--6----------	AuxP
+3	učení	NNNS6-----A----	Adv
+4	jazyka	NNIS2-----A----	Atr
+5	ukládány	VsTP---XX-AP---	Pred
+6	do	RR--2----------	AuxP
+7	"	Z:-------------	AuxG
+8	akustického	AAIS2----1A----	Atr
+9	slovníku	NNIS2-----A----	Adv
+10	"	Z:-------------	AuxG
+11	v	RR--6----------	AuxP
+12	mozku	NNIS6-----A----	AtrAdv
+13	a	J^-------------	Coord
+14	z	RR--2----------	AuxP
+15	jejich	PSXXXXP3-------	Atr
+16	kombinací	NNFP2-----A----	Adv
+17	vznikají	VB-P---3P-AA---	Pred
+18	slova	NNNP1-----A----	Sb
+19	řeči	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+vesm9211-027-p21s8
+1	Akustickým	AAIS7----1A----	Atr
+2	slovníkem	NNIS7-----A----	Adv
+3	rozumíme	VB-P---1P-AA---	Pred
+4	veškerou	PLFS4----------	Atr
+5	zkušenost	NNFS4-----A----	Obj
+6	se	RV--7----------	AuxP
+7	signály	NNIP7-----A----	Atr
+8	řeči	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kterou	P4FS4----------	Obj
+11	člověk	NNMS1-----A----	Sb
+12	získává	VB-S---3P-AA---	Atr
+13	sluchem	NNIS7-----A----	Adv
+14	v	RR--6----------	AuxP
+15	prvních	CrNP6----------	Atr
+16	letech	NNNP6-----A----	Adv
+17	po	RR--6----------	AuxP
+18	narození	NNNS6-----A----	AtrAdv
+19	.	Z:-------------	AuxK
+
+vesm9211-027-p22s1
+1	Při	RR--6----------	AuxP
+2	analýze	NNFS6-----A----	Adv
+3	řečového	AAIS2----1A----	Atr
+4	signálu	NNIS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	zdůrazňují	VB-P---3P-AA---	Pred
+7	tzv	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	distinktivní	AAIP1----1A----	Atr
+10	rysy	NNIP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	umožňující	AGIP1-----A----	Atr
+13	identifikovat	Vf--------A----	Obj
+14	jednotlivé	AAIP4----1A----	Atr
+15	články	NNIP4-----A----	Obj
+16	řeči	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p22s2
+1	Pravděpodobně	Dg-------1A----	Adv
+2	velký	AAIS4----1A----	Atr
+3	význam	NNIS4-----A----	Obj
+4	mají	VB-P---3P-AA---	Pred
+5	energetické	AAIP1----1A----	Atr
+6	vrcholy	NNIP1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	řečovém	AANS6----1A----	Atr
+9	spektru	NNNS6-----A----	Atr
+10	,	Z:-------------	AuxX
+11	nazývané	AAIP1----1A----	Atr
+12	formanty	NNIP1-----A----	Adv
+13	.	Z:-------------	AuxK
+
+vesm9211-027-p22s3
+1	Periodicita	NNFS1-----A----	Sb
+2	samohlásek	NNFP2-----A----	Atr
+3	a	J^-------------	Coord
+4	neperiodicita	NNFS1-----N----	Sb
+5	souhlásek	NNFP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	nasalita	NNFS1-----A----	Sb
+8	,	Z:-------------	Coord
+9	znělost	NNFS1-----A----	Sb
+10	atp	Db------------8	ExD
+11	.	Z:-------------	AuxG
+12	jsou	VB-P---3P-AA---	Pred
+13	další	AAIP1----1A----	Atr
+14	identifikační	AAIP1----1A----	Atr
+15	klíče	NNIP1-----A----	Pnom
+16	používané	AAIP1----1A----	Atr
+17	při	RR--6----------	AuxP
+18	vnímání	NNNS6-----A----	Adv
+19	řeči	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+vesm9211-027-p23s1
+1	K	RR--3----------	AuxP
+2	této	PDFS3----------	Atr
+3	segmentální	AAFS3----1A----	Atr
+4	analýze	NNFS3-----A----	Adv
+5	se	P7-X4----------	AuxR
+6	připojuje	VB-S---3P-AA---	Pred
+7	suprasegmentální	AANS1----1A----	Atr
+8	rozlišování	NNNS1-----A----	Sb
+9	(	Z:-------------	Apos
+10	přízvuk	NNIS1-----A----	Sb
+11	ve	RV--6----------	AuxP
+12	větě	NNFS6-----A----	Atr
+13	,	Z:-------------	AuxX
+14	otázka	NNFS1-----A----	Sb
+15	-	Z:-------------	AuxG
+16	odpověď	NNFS1-----A----	Atr
+17	,	Z:-------------	AuxX
+18	melodie	NNFS1-----A----	Sb
+19	řeči	NNFS2-----A----	Atr
+20	,	Z:-------------	Coord
+21	začátek	NNIS1-----A----	Sb
+22	a	J^-------------	Coord
+23	konec	NNIS1-----A----	Sb
+24	věty	NNFS2-----A----	Atr
+25	atd	Db------------8	ExD
+26	.	Z:-------------	AuxG
+27	)	Z:-------------	AuxG
+28	.	Z:-------------	AuxK
+
+vesm9211-027-p23s2
+1	Důležité	AAIP1----1A----	Pnom
+2	jsou	VB-P---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	neakustické	AAIP1----1N----	Atr
+5	mechanismy	NNIP1-----A----	Sb
+6	-	Z:-------------	Apos
+7	pohyby	NNIP1-----A----	Sb
+8	mimických	AAIP2----1A----	Atr
+9	svalů	NNIP2-----A----	Atr
+10	obličeje	NNIS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	gesta	NNNP1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+vesm9211-027-p24s1
+1	Analýza	NNFS1-----A----	Sb
+2	řečového	AAIS2----1A----	Atr
+3	signálu	NNIS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	skládá	VB-S---3P-AA---	Pred
+6	ze	RV--2----------	AuxP
+7	dvou	ClXP2----------	Atr
+8	procesů	NNIP2-----A----	Adv
+9	-	Z:-------------	Apos
+10	směrem	NNIS7-----A----	Adv
+11	od	RR--2----------	AuxP
+12	periférie	NNFS2-----A----	Atr
+13	k	RR--3----------	AuxP
+14	centru	NNNS3-----A----	Atr
+15	(	Z:-------------	Apos
+16	acoustic	AAXXX----1A----	Atr
+17	driven	AAXXX----1A----	Adv
+18	)	Z:-------------	AuxG
+19	a	J^-------------	Coord
+20	směrem	NNIS7-----A----	Adv
+21	od	RR--2----------	AuxP
+22	centra	NNNS2-----A----	Atr
+23	k	RR--3----------	AuxP
+24	periférii	NNFS3-----A----	Atr
+25	(	Z:-------------	Apos
+26	knowledge	AAXXX----1A----	Atr
+27	driven	AAXXX----1A----	Adv
+28	)	Z:-------------	AuxG
+29	.	Z:-------------	AuxK
+
+vesm9211-027-p24s2
+1	První	CrIS1----------	Atr
+2	proces	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	závislý	AAIS1----1A----	Pnom
+5	na	RR--6----------	AuxP
+6	našem	PSZS6-P1-------	Atr
+7	sluchu	NNIS6-----A----	Obj
+8	,	Z:-------------	Coord
+9	druhý	CrIS1----------	ExD
+10	na	RR--6----------	AuxP
+11	našich	PSXP6-P1-------	Atr
+12	znalostech	NNFP6-----A----	ExD
+13	řeči	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p24s3
+1	Průběžně	Dg-------1A----	Adv
+2	srovnáváme	VB-P---1P-AA---	Pred
+3	slyšené	AANS4----1A----	Obj
+4	s	RR--7----------	AuxP
+5	akustickým	AAIS7----1A----	Atr
+6	slovníkem	NNIS7-----A----	Obj
+7	v	RR--6----------	AuxP
+8	mozku	NNIS6-----A----	AtrAdv
+9	a	J^-------------	Coord
+10	často	Dg-------1A----	Adv
+11	již	Db-------------	AuxZ
+12	uprostřed	Db-------------	AuxP
+13	věty	NNFS2-----A----	Adv
+14	víme	VB-P---1P-AA---	Pred
+15	,	Z:-------------	AuxX
+16	jaký	P4YS1----------	Pnom
+17	bude	VB-S---3F-AA---	Obj
+18	její	PSZS1FS3-------	Atr
+19	konec	NNIS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+vesm9211-027-p25s1
+1	Pohodlnou	AAFS4----1A----	Atr
+2	a	J^-------------	Coord
+3	přesnou	AAFS4----1A----	Atr
+4	interpretaci	NNFS4-----A----	Obj
+5	řečového	AAIS2----1A----	Atr
+6	signálu	NNIS2-----A----	Atr
+7	umožňuje	VB-S---3P-AA---	Pred
+8	redundantní	AAIS1----1A----	Atr
+9	obsah	NNIS1-----A----	Sb
+10	informací	NNFP2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	mluvním	AAIS6----1A----	Atr
+13	projevu	NNIS6-----A----	AtrAtr
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p25s2
+1	Ten	PDIS4----------	Obj
+2	jsme	VB-P---1P-AA---	Pred
+3	však	J^-------------	Coord
+4	schopni	ACMP------A----	Pnom
+5	využít	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	jen	TT-------------	AuxY
+8	pokud	J,-------------	AuxC
+9	ovládáme	VB-P---1P-AA---	Adv
+10	daný	AAIS4----1A----	Atr
+11	jazyk	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p26s1
+1	Kódování	NNNS1-----A----	ExD
+2	zvukového	AAIS2----1A----	Atr
+3	signálu	NNIS2-----A----	Atr
+4	u	RR--2----------	AuxP
+5	jednokanálových	AAFP2----1A----	Atr
+6	a	J^-------------	Coord
+7	vícekanálových	AAFP2----1A----	Atr
+8	neuroprotéz	NNFP2-----A----	Adv
+
+vesm9211-027-p28s1
+1	Kódovací	AAFP4----1A----	Atr
+2	strategie	NNFP4-----A----	Obj
+3	vícekanálových	AAIP2----1A----	Atr
+4	systémů	NNIP2-----A----	Atr
+5	lze	VB-S---3P-AA---	Pred
+6	přibližně	Dg-------1A----	Adv
+7	rozdělit	Vf--------A----	Sb
+8	do	RR--2----------	AuxP
+9	dvou	ClXP2----------	Atr
+10	skupin	NNFP2-----A----	Obj
+11	podle	RR--2----------	AuxP
+12	primárního	AAIS2----1A----	Atr
+13	způsobu	NNIS2-----A----	Adv
+14	tvorby	NNFS2-----A----	Atr
+15	signálů	NNIP2-----A----	Atr
+16	pro	RR--4----------	AuxP
+17	jednotlivé	AAIP4----1A----	Atr
+18	kanály	NNIP4-----A----	AtrAtr
+19	.	Z:-------------	AuxK
+
+vesm9211-027-p29s1
+1	Strategie	NNFP1-----A----	Sb
+2	první	CrFS2----------	Atr
+3	skupiny	NNFS2-----A----	Atr
+4	vycházejí	VB-P---3P-AA---	Pred
+5	z	RR--2----------	AuxP
+6	rozdělení	NNNS2-----A----	Adv
+7	signálu	NNIS2-----A----	Atr
+8	do	RR--2----------	AuxP
+9	užších	AANP2----2A----	Atr
+10	kmitočtových	AANP2----1A----	Atr
+11	pásem	NNNP2-----A----	Atr
+12	pomocí	RR--2----------	AuxP
+13	pásmových	AAFP2----1A----	Atr
+14	propustí	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9211-027-p29s2
+1	Stimulační	AAIS1----1A----	Atr
+2	signál	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	určitém	AAIS6----1A----	Atr
+5	kanálu	NNIS6-----A---1	AtrAdv
+6	je	VB-S---3P-AA---	AuxV
+7	odvozen	VsYS---XX-AP---	Pred
+8	z	RR--2----------	AuxP
+9	analogového	AAIS2----1A----	Atr
+10	signálu	NNIS2-----A----	Obj
+11	na	RR--6----------	AuxP
+12	výstupu	NNIS6-----A----	AtrAdv
+13	odpovídající	AGFS2-----A----	Atr
+14	pásmové	AAFS2----1A----	Atr
+15	propusti	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+vesm9211-027-p30s1
+1	Strategie	NNFP1-----A----	Sb
+2	druhé	CrFS2----------	Atr
+3	skupiny	NNFS2-----A----	Atr
+4	extrahují	VB-P---3P-AA---	Pred
+5	z	RR--2----------	AuxP
+6	celkového	AAIS2----1A----	Atr
+7	signálu	NNIS2-----A----	Adv
+8	hlavní	AAFP4----1A----	Atr
+9	řečové	AAFP4----1A----	Atr
+10	charakteristiky	NNFP4-----A----	Obj
+11	(	Z:-------------	Apos
+12	např	Db------------8	AuxZ
+13	.	Z:-------------	AuxG
+14	formanty	NNIP4-----A----	Obj
+15	,	Z:-------------	Coord
+16	obálku	NNFS4-----A----	Obj
+17	signálu	NNIS2-----A----	Atr
+18	)	Z:-------------	AuxG
+19	a	J^-------------	Coord
+20	z	RR--2----------	AuxP
+21	nich	P5XP2--3-------	Obj
+22	konstruují	VB-P---3P-AA---	Pred
+23	jednotlivé	AAIP4----1A----	Atr
+24	stimulační	AAIP4----1A----	Atr
+25	signály	NNIP4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+vesm9211-027-p31s1
+1	K	RR--3----------	AuxP
+2	dalšímu	AANS3----1A----	Atr
+3	zpracování	NNNS3-----A----	Adv
+4	dílčích	AAIP2----1A----	Atr
+5	signálů	NNIP2-----A----	Atr
+6	se	P7-X4----------	AuxR
+7	používá	VB-S---3P-AA---	Pred
+8	řada	NNFS1-----A----	Sb
+9	metod	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	jež	PJFP1----------	Sb
+12	mohou	VB-P---3P-AA--1	Atr
+13	vést	Vf--------A----	Obj
+14	u	RR--2----------	AuxP
+15	obou	ClXP2----------	Atr
+16	strategií	NNFP2-----A----	Adv
+17	jak	Db-------------	AuxY
+18	k	RR--3----------	AuxP
+19	analogové	AAFS3----1A----	Atr
+20	,	Z:-------------	AuxX
+21	tak	J^-------------	Coord
+22	impulsní	AAFS3----1A----	Atr
+23	stimulaci	NNFS3-----A----	Adv
+24	.	Z:-------------	AuxK
+
+vesm9211-027-p32s1
+1	U	RR--2----------	AuxP
+2	jednokanálových	AAIP2----1A----	Atr
+3	systémů	NNIP2-----A----	Adv
+4	s	RR--7----------	AuxP
+5	jednou	ClFS7----------	Atr
+6	aktivní	AAFS7----1A----	Atr
+7	elektrodou	NNFS7-----A----	Atr
+8	se	P7-X4----------	AuxR
+9	signál	NNIS1-----A----	Sb
+10	upravuje	VB-S---3P-AA---	Pred
+11	zpravidla	Db-------------	Adv
+12	pouze	Db-------------	AuxZ
+13	kompresí	NNFS7-----A----	Adv
+14	a	J^-------------	Coord
+15	filtrací	NNFS7-----A----	Adv
+16	.	Z:-------------	AuxK
+
+vesm9211-027-p32s2
+1	Složitější	AAIP1----2A----	Atr
+2	způsoby	NNIP1-----A----	Sb
+3	kódování	NNNS2-----A----	Atr
+4	řečových	AAIP2----1A----	Atr
+5	signálů	NNIP2-----A----	Atr
+6	nevedly	VpTP---XR-NA---	Pred
+7	u	RR--2----------	AuxP
+8	jednokanálových	AAFP2----1A----	Atr
+9	neuroprotéz	NNFP2-----A----	Adv
+10	k	RR--3----------	AuxP
+11	výraznějšímu	AANS3----2A----	Atr
+12	zlepšení	NNNS3-----A----	Adv
+13	rozumění	NNNS2-----A----	Atr
+14	řeči	NNFS3-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9211-027-p33s1
+1	Oba	ClYP1----------	Atr
+2	systémy	NNIP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	u	RR--2----------	AuxP
+5	řady	NNFS2-----A----	Adv
+6	pacientů	NNMP2-----A----	Atr
+7	osvědčily	VpTP---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	stejně	Dg-------1A----	Adv
+11	tak	Db-------------	Adv
+12	dalším	AAMP3----1A----	Atr
+13	pacientům	NNMP3-----A----	Obj
+14	nepřinesly	VpTP---XR-NA---	Pred
+15	nic	PW--4----------	Obj
+16	mimořádného	AANS2----1A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p33s2
+1	Některé	PZFP4----------	Atr
+2	možné	AAFP4----1A----	Atr
+3	příčiny	NNFP4-----A----	Obj
+4	této	PDFS2----------	Atr
+5	variability	NNFS2-----A----	Atr
+6	uvádíme	VB-P---1P-AA---	Pred
+7	dále	Db------------1	Adv
+8	.	Z:-------------	AuxK
+
+vesm9211-027-p34s1
+1	Protože	J,-------------	AuxC
+2	kochleární	AAIS1----1A----	Atr
+3	implantát	NNIS1-----A----	Sb
+4	nahrazuje	VB-S---3P-AA---	Adv
+5	nefunkční	AANS4----1N----	Atr
+6	vnitřní	AANS4----1A----	Atr
+7	ucho	NNNS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	řídili	VpMP---XR-AA---	Pred
+10	jsme	VB-P---1P-AA---	AuxV
+11	se	P7-X4----------	AuxT
+12	při	RR--6----------	AuxP
+13	návrhu	NNIS6-----A----	Adv
+14	kódovací	AAFS2----1A----	Atr
+15	strategie	NNFS2-----A----	Atr
+16	fyziologickými	AAIP7----1A----	Atr
+17	pochody	NNIP7-----A----	Obj
+18	probíhajícími	AGIP7-----A----	Atr
+19	ve	RV--6----------	AuxP
+20	vnitřním	AANS6----1A----	Atr
+21	uchu	NNNS6-----A----	Adv
+22	normálně	Dg-------1A----	Adv
+23	slyšících	AGFP2-----A----	Atr
+24	osob	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+vesm9211-027-p35s1
+1	Fyziologické	AAIP1----1A----	Atr
+2	pochody	NNIP1-----A----	ExD
+3	ve	RV--6----------	AuxP
+4	vnitřním	AANS6----1A----	Atr
+5	uchu	NNNS6-----A----	Atr
+6	a	J^-------------	Coord
+7	jejich	PSXXXXP3-------	Atr
+8	substituce	NNFS1-----A----	ExD
+9	v	RR--6----------	AuxP
+10	kochleárním	AAIS6----1A----	Atr
+11	implantátu	NNIS6-----A----	Atr
+
+vesm9211-027-p36s1
+1	Lidské	AANS1----1A----	Atr
+2	ucho	NNNS1-----A----	Sb
+3	vnímá	VB-S---3P-AA---	Pred
+4	jako	J,-------------	AuxY
+5	zvuk	NNIS4-----A----	AtvV
+6	vlnění	NNNS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	rozsahu	NNIS6-----A----	Atr
+9	16	C=-------------	Atr
+10	Hz	NNIXX-----A---8	Atr
+11	až	J^-------------	Coord
+12	20	C=-------------	Atr
+13	kHz	NNIXX-----A---8	Atr
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p36s2
+1	Až	TT-------------	AuxZ
+2	po	RR--4----------	AuxP
+3	vláskovou	AAFS4----1A----	Atr
+4	buňku	NNFS4-----A----	Adv
+5	v	RR--6----------	AuxP
+6	Cortiho	NNMS2-----A----	Atr
+7	orgánu	NNIS6-----A----	AtrAdv
+8	je	VB-S---3P-AA---	Pred
+9	přenos	NNIS1-----A----	Sb
+10	zvuku	NNIS2-----A----	Atr
+11	mechanický	AAIS1----1A----	Pnom
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p36s3
+1	Kmitání	NNNS1-----A----	Sb
+2	bubínku	NNIS2-----A----	Atr
+3	a	J^-------------	Coord
+4	středoušních	AAFP2----1A----	Atr
+5	kůstek	NNFP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	vyvolané	AANS1----1A----	Atr
+8	dopadající	AGFS7-----A----	Atr
+9	zvukovou	AAFS7----1A----	Atr
+10	vlnou	NNFS7-----A----	Obj
+11	,	Z:-------------	AuxX
+12	převádí	VB-S---3P-AA---	Pred
+13	akustický	AAIS4----1A----	Atr
+14	signál	NNIS4-----A----	Obj
+15	ze	RV--2----------	AuxP
+16	vzdušného	AANS2----1A----	Atr
+17	prostředí	NNNS2-----A----	Adv
+18	do	RR--2----------	AuxP
+19	tekutiny	NNFS2-----A----	Adv
+20	vnitřního	AANS2----1A----	Atr
+21	ucha	NNNS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+vesm9211-027-p36s4
+1	Teprve	Db-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	Cortiho	NNMS2-----A----	Atr
+4	orgánu	NNIS6-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	mechanické	AAIP1----1A----	Atr
+7	kmity	NNIP1-----A----	Sb
+8	tekutin	NNFP2-----A----	Atr
+9	vnitřního	AANS2----1A----	Atr
+10	ucha	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	bazilární	AAFS2----1A----	Atr
+13	membrány	NNFS2-----A----	Atr
+14	mění	VB-P---3P-AA---	Pred
+15	na	RR--4----------	AuxP
+16	chemické	AAIP4----1A----	Atr
+17	a	J^-------------	Coord
+18	elektrické	AAIP4----1A----	Atr
+19	pochody	NNIP4-----A----	Obj
+20	ve	RV--6----------	AuxP
+21	vláskových	AAFP6----1A----	Atr
+22	buňkách	NNFP6-----A----	Atr
+23	a	J^-------------	Coord
+24	vláknech	NNNP6-----A----	Atr
+25	sluchového	AAIS2----1A----	Atr
+26	nervu	NNIS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+vesm9211-027-p37s1
+1	Rozlišování	NNNS1-----A----	ExD
+2	výšky	NNFS2-----A----	Atr
+3	akustického	AAIS2----1A----	Atr
+4	signálu	NNIS2-----A----	Atr
+
+vesm9211-027-p38s1
+1	Ve	RV--6----------	AuxP
+2	vnitřním	AANS6----1A----	Atr
+3	uchu	NNNS6-----A----	Adv
+4	probíhá	VB-S---3P-AA---	Pred
+5	kmitočtová	AAFS1----1A----	Atr
+6	analýza	NNFS1-----A----	Sb
+7	signálu	NNIS2-----A----	Atr
+8	dvěma	ClXP7----------	Atr
+9	odlišnými	AAIP7----1A----	Atr
+10	ději	NNIP7-----A----	Adv
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p39s1
+1	První	CrIS1----------	ExD
+2	se	P7-X4----------	AuxT
+3	nazývá	VB-S---3P-AA---	Pred
+4	místní	AAIS1----1A----	Atr
+5	princip	NNIS1-----A----	Adv
+6	,	Z:-------------	AuxX
+7	protože	J,-------------	AuxC
+8	danému	AAIS3----1A----	Atr
+9	kmitočtu	NNIS3-----A----	Obj
+10	odpovídá	VB-S---3P-AA---	Adv
+11	vždy	Db-------------	Adv
+12	stejné	AANS1----1A----	Atr
+13	místo	NNNS1-----A----	Sb
+14	podráždění	NNNS2-----A----	Atr
+15	ve	RV--6----------	AuxP
+16	vnitřním	AANS6----1A----	Atr
+17	uchu	NNNS6-----A----	AtrAtr
+18	.	Z:-------------	AuxK
+
+vesm9211-027-p39s2
+1	Vysoké	AAIP1----1A----	Atr
+2	kmitočty	NNIP1-----A----	Sb
+3	vyvolají	VB-P---3P-AA---	Pred
+4	podráždění	NNNS4-----A----	Obj
+5	na	RR--6----------	AuxP
+6	začátku	NNIS6-----A----	AtrAdv
+7	hlemýždě	NNIS2-----A----	Atr
+8	a	J^-------------	Coord
+9	nízké	AAIP1----1A----	Atr
+10	kmitočty	NNIP1-----A----	Sb
+11	dráždí	VB-P---3P-AA---	Pred
+12	jeho	PSXXXZS3-------	Atr
+13	vrchol	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p39s3
+1	Distribuce	NNFS1-----A----	Sb
+2	signálu	NNIS2-----A----	Atr
+3	podél	RR--2----------	AuxP
+4	kochleární	AAFS2----1A----	Atr
+5	přepážky	NNFS2-----A----	AtrAtr
+6	připomíná	VB-S---3P-AA---	Pred
+7	klaviaturu	NNFS4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	opačným	AANS7----1A----	Atr
+10	řazením	NNNS7-----A----	Atr
+11	kláves	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p40s1
+1	Druhý	CrIS1----------	Atr
+2	způsob	NNIS1-----A----	Sb
+3	kmitočtové	AAFS2----1A----	Atr
+4	analýzy	NNFS2-----A----	Atr
+5	,	Z:-------------	Apos
+6	časový	AAIS1----1A----	Atr
+7	princip	NNIS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	rozlišuje	VB-S---3P-AA---	Pred
+10	výšku	NNFS4-----A----	Obj
+11	zvuku	NNIS2-----A----	Atr
+12	podle	RR--2----------	AuxP
+13	počtu	NNIS2-----A----	Adv
+14	kmitů	NNIP2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	daném	AAIS6----1A----	Atr
+17	časovém	AAIS6----1A----	Atr
+18	úseku	NNIS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+vesm9211-027-p40s2
+1	Impulzy	NNIP1-----A----	Sb
+2	ve	RV--6----------	AuxP
+3	vláknech	NNNP6-----A----	Atr
+4	sluchového	AAIS2----1A----	Atr
+5	nervu	NNIS2-----A----	Atr
+6	se	P7-X4----------	AuxR
+7	synchronizují	VB-P---3P-AA---	Pred
+8	s	RR--7----------	AuxP
+9	kmitočtem	NNIS7-----A----	Adv
+10	signálu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p40s3
+1	Protože	J,-------------	AuxC
+2	možnosti	NNFP1-----A----	Sb
+3	reprodukce	NNFS2-----A----	Atr
+4	periody	NNFS2-----A----	Atr
+5	kmitů	NNIP2-----A----	Atr
+6	jsou	VB-P---3P-AA---	AuxV
+7	omezeny	VsTP---XX-AP---	Adv
+8	chronaxií	NNFS7-----A----	Obj
+9	vláken	NNNP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	probíhá	VB-S---3P-AA---	Pred
+12	analýza	NNFS1-----A----	Sb
+13	tímto	PDZS7----------	Atr
+14	způsobem	NNIS7-----A----	Adv
+15	do	RR--2----------	AuxP
+16	hranice	NNFS2-----A----	Adv
+17	cca	Db-------------	AuxZ
+18	3	C=-------------	Atr
+19	-	Z:-------------	Coord
+20	5	C=-------------	Atr
+21	kHz	NNIXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+
+vesm9211-027-p41s1
+1	Oba	ClYP1----------	Atr
+2	tyto	PDIP1----------	Atr
+3	principy	NNIP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	místní	AAIS1----1A----	Atr
+6	i	J^-------------	Coord
+7	časový	AAIS1----1A----	Atr
+8	,	Z:-------------	AuxX
+9	se	P7-X4----------	AuxR
+10	v	RR--6----------	AuxP
+11	kódovací	AAFS6----1A----	Atr
+12	strategii	NNFS6-----A----	Adv
+13	implantátů	NNIP2-----A----	Atr
+14	používají	VB-P---3P-AA---	Pred
+15	.	Z:-------------	AuxK
+
+vesm9211-027-p41s2
+1	K	RR--3----------	AuxP
+2	využití	NNNS3-----A----	Adv
+3	místního	AAIS2----1A----	Atr
+4	principu	NNIS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	třeba	ACNS------A----	Pnom
+7	více	Dg-------2A----	Obj
+8	elektrod	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	umístěných	AAFP2----1A----	Atr
+11	podél	RR--2----------	AuxP
+12	bazilární	AAFS2----1A----	Atr
+13	membrány	NNFS2-----A----	Adv
+14	ve	RV--6----------	AuxP
+15	scala	NNFSX-----A----	AtrAtr
+16	tympani	NNISX-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p41s3
+1	Elektroda	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	vybírá	VB-S---3P-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	kmitočtu	NNIS2-----A----	Adv
+6	signálu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+vesm9211-027-p41s4
+1	Přestože	J,-------------	AuxC
+2	selektivní	AAFS1----1A----	Atr
+3	stimulace	NNFS1-----A----	Sb
+4	ohraničených	AAIP2----1A----	Atr
+5	okrsků	NNIP2-----A----	Atr
+6	nervových	AANP2----1A----	Atr
+7	vláken	NNNP2-----A----	Atr
+8	není	VB-S---3P-NA---	Adv
+9	technicky	Dg-------1A----	Adv
+10	dobře	Dg-------1A----	Adv
+11	možná	AAFS1----1A----	Pnom
+12	(	Z:-------------	AuxG
+13	dochází	VB-S---3P-AA---	Adv
+14	k	RR--3----------	AuxP
+15	přeslechu	NNIS3-----A----	Obj
+16	mezi	RR--7----------	AuxP
+17	kanály	NNIP7-----A----	Atr
+18	ve	RV--6----------	AuxP
+19	vodivém	AANS6----1A----	Atr
+20	prostředí	NNNS6-----A----	AdvAtr
+21	vnitřního	AANS2----1A----	Atr
+22	ucha	NNNS2-----A----	Atr
+23	)	Z:-------------	AuxG
+24	,	Z:-------------	AuxX
+25	poznají	VB-P---3P-AA---	Pred
+26	pacienti	NNMP1-----A----	Sb
+27	rozdíl	NNIS4-----A----	Obj
+28	mezi	RR--7----------	AuxP
+29	podrážděním	NNNS7-----A----	Atr
+30	na	RR--6----------	AuxP
+31	začátku	NNIS6-----A----	Atr
+32	a	J^-------------	Coord
+33	na	RR--6----------	AuxP
+34	konci	NNIS6-----A----	Atr
+35	hlemýždě	NNIS2-----A----	Atr
+36	.	Z:-------------	AuxK
+
+vesm9211-027-p42s1
+1	Při	RR--6----------	AuxP
+2	jednokanálové	AAFS6----1A----	Atr
+3	stimulaci	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	k	RR--3----------	AuxP
+6	rozlišování	NNNS3-----A----	Adv
+7	výšky	NNFS2-----A----	Atr
+8	využívá	VB-S---3P-AA---	Pred
+9	pouze	Db-------------	AuxZ
+10	časový	AAIS1----1A----	Atr
+11	princip	NNIS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p42s2
+1	Výška	NNFS1-----A----	Sb
+2	vjemu	NNIS2-----A----	Atr
+3	vyvolaného	AAIS2----1A----	Atr
+4	elektrickým	AANS7----1A----	Atr
+5	podrážděním	NNNS7-----A----	Obj
+6	je	VB-S---3P-AA---	Pred
+7	závislá	AAFS1----1A----	Pnom
+8	na	RR--6----------	AuxP
+9	kmitočtu	NNIS6-----A----	Obj
+10	signálu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p42s3
+1	Se	RV--7----------	AuxP
+2	zvyšováním	NNNS7-----A----	Adv
+3	kmitočtu	NNIS2-----A----	Atr
+4	roste	VB-S---3P-AA---	Pred
+5	výška	NNFS1-----A----	Sb
+6	vjemu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	zároveň	Db-------------	Adv
+10	se	P7-X4----------	AuxT
+11	mění	VB-S---3P-AA---	Pred
+12	i	J^-------------	AuxZ
+13	jeho	PSXXXZS3-------	Atr
+14	hlasitost	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+vesm9211-027-p42s4
+1	Je	VB-S---3P-AA---	Pred
+2	proto	J^-------------	Coord
+3	těžké	AANS1----1A----	Pnom
+4	určit	Vf--------A----	Sb
+5	,	Z:-------------	AuxX
+6	zda	J,-------------	AuxC
+7	pacient	NNMS1-----A----	Sb
+8	využívá	VB-S---3P-AA---	Obj
+9	při	RR--6----------	AuxP
+10	rozlišování	NNNS6-----A----	Adv
+11	dvou	ClXP2----------	Atr
+12	kmitočtů	NNIP2-----A----	Atr
+13	změnu	NNFS4-----A----	Obj
+14	výšky	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	nebo	J^-------------	Coord
+17	změnu	NNFS4-----A----	Obj
+18	hlasitosti	NNFS2-----A----	Atr
+19	vjemu	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+vesm9211-027-p43s1
+1	Rozlišování	NNNS1-----A----	ExD
+2	intenzity	NNFS2-----A----	Atr
+3	akustického	AAIS2----1A----	Atr
+4	signálu	NNIS2-----A----	Atr
+
+vesm9211-027-p44s1
+1	Změna	NNFS1-----A----	Sb
+2	intenzity	NNFS2-----A----	Atr
+3	akustického	AAIS2----1A----	Atr
+4	signálu	NNIS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	pociťuje	VB-S---3P-AA---	Pred
+7	jako	J,-------------	AuxC
+8	změna	NNFS1-----A----	ExD
+9	hlasitosti	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+vesm9211-027-p44s2
+1	Hlasitost	NNFS1-----A----	Sb
+2	zvuku	NNIS2-----A----	Atr
+3	je	VB-S---3P-AA---	AuxV
+4	kódována	VsQW---XX-AP---	Pred
+5	jako	J,-------------	AuxC
+6	počet	NNIS1-----A----	ExD
+7	odpovědí	NNFP2-----A----	Atr
+8	ve	RV--6----------	AuxP
+9	vláknech	NNNP6-----A----	Atr
+10	sluchového	AAIS2----1A----	Atr
+11	nervu	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	stupeň	NNIS1-----A----	ExD
+14	jejich	PSXXXXP3-------	Atr
+15	synchronizace	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+vesm9211-027-p45s1
+1	Funkční	AAFS1----1A----	Atr
+2	vlásková	AAFS1----1A----	Atr
+3	buňka	NNFS1-----A----	Sb
+4	udržuje	VB-S---3P-AA---	Pred
+5	stálou	AAFS4----1A----	Atr
+6	spontánní	AAFS4----1A----	Atr
+7	aktivitu	NNFS4-----A----	Obj
+8	sluchového	AAIS2----1A----	Atr
+9	nervu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	kterou	P4FS4----------	Obj
+12	lze	VB-S---3P-AA---	Atr
+13	přirovnat	Vf--------A----	Sb
+14	k	RR--3----------	AuxP
+15	volnoběžnému	AAIS3----1A----	Atr
+16	chodu	NNIS3-----A----	Obj
+17	motoru	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9211-027-p45s2
+1	Tuto	PDFS4----------	Atr
+2	spontánní	AAFS4----1A----	Atr
+3	aktivitu	NNFS4-----A----	Obj
+4	neslyšíme	VB-P---1P-NA---	Pred
+5	.	Z:-------------	AuxK
+
+vesm9211-027-p45s3
+1	Vnímáme	VB-P---1P-AA---	Pred
+2	až	TT-------------	AuxZ
+3	změnu	NNFS4-----A----	Obj
+4	této	PDFS2----------	Atr
+5	aktivity	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	kterou	P4FS4----------	Obj
+8	vyvolá	VB-S---3P-AA---	Atr
+9	podráždění	NNNS1-----A----	Sb
+10	zvukem	NNIS7-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p45s4
+1	Lidské	AANS1----1A----	Atr
+2	ucho	NNNS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	značný	AAIS4----1A----	Atr
+5	dynamický	AAIS4----1A----	Atr
+6	rozsah	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	přesahující	AGIS4-----A----	Atr
+9	100	C=-------------	Obj
+10	dB	NNIXX-----A---8	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p45s5
+1	Hlasitost	NNFS1-----A----	Sb
+2	při	RR--6----------	AuxP
+3	nižších	AAFP6----2A----	Atr
+4	hladinách	NNFP6-----A----	Atr
+5	je	VB-S---3P-AA---	AuxV
+6	ovlivňována	VsQW---XX-AP---	Pred
+7	přes	RR--4----------	AuxP
+8	zpětnovazební	AAIS4----1A----	Atr
+9	Rassmusenův	AUIS4M---------	Atr
+10	svazek	NNIS4-----A----	Adv
+11	aktivní	AAFS7----1A----	Atr
+12	činností	NNFS7-----A----	Obj
+13	zevních	AAFP2----1A----	Atr
+14	vláskových	AAFP2----1A----	Atr
+15	buněk	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+vesm9211-027-p46s1
+1	Kódování	NNNS1-----A----	ExD
+2	hlasitosti	NNFS2-----A----	Atr
+3	při	RR--6----------	AuxP
+4	elektrické	AAFS6----1A----	Atr
+5	stimulaci	NNFS6-----A----	Atr
+
+vesm9211-027-p47s1
+1	Sluchový	AAIS1----1A----	Atr
+2	nerv	NNIS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	při	RR--6----------	AuxP
+5	elektrické	AAFS6----1A----	Atr
+6	stimulaci	NNFS6-----A----	Adv
+7	ve	RV--6----------	AuxP
+8	srovnání	NNNS6-----A----	AuxP
+9	se	RV--7----------	AuxP
+10	zvukovým	AAIS7----1A----	Atr
+11	přenosem	NNIS7-----A----	Adv
+12	velmi	Db-------------	Adv
+13	omezený	AAIS4----1A----	Atr
+14	dynamický	AAIS4----1A----	Atr
+15	rozsah	NNIS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	od	RR--2----------	AuxP
+18	několika	Ca--2----------	Atr
+19	dB	NNIXX-----A---8	Atr
+20	do	RR--2----------	AuxP
+21	maximálně	Dg-------1A----	AuxZ
+22	30	C=-------------	Atr
+23	dB	NNIXX-----A---8	Atr
+24	(	Z:-------------	AuxG
+25	viz	Vi-S---2--A---1	Pred
+26	obr	NNIXX-----A---8	Obj
+27	.	Z:-------------	AuxG
+28	3	C=-------------	Atr
+29	)	Z:-------------	AuxG
+30	.	Z:-------------	AuxK
+
+vesm9211-027-p47s2
+1	Hlasitost	NNFS1-----A----	Sb
+2	signálu	NNIS2-----A----	Atr
+3	roste	VB-S---3P-AA---	Pred
+4	se	RV--7----------	AuxP
+5	zvyšováním	NNNS7-----A----	Adv
+6	jeho	PSXXXZS3-------	Atr
+7	intenzity	NNFS2-----A----	Atr
+8	mnohem	Db-------------	Adv
+9	rychleji	Dg-------2A----	Adv
+10	,	Z:-------------	AuxX
+11	podobně	Dg-------1A----	Adv
+12	jako	J,-------------	AuxC
+13	u	RR--2----------	AuxP
+14	nedoslýchavosti	NNFS2-----A----	ExD
+15	způsobené	AAFS2----1A----	Atr
+16	poruchou	NNFS7-----A----	Obj
+17	vláskových	AAFP2----1A----	Atr
+18	buněk	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+vesm9211-027-p47s3
+1	Stačí	VB-S---3P-AA---	Pred
+2	malý	AAIS1----1A----	Atr
+3	přírůstek	NNIS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	a	J^-------------	Coord
+6	vjem	NNIS1-----A----	Sb
+7	je	VB-S---3P-AA---	Pred
+8	již	Db-------------	Adv
+9	nepříjemný	AAIS1----1N----	Pnom
+10	.	Z:-------------	AuxK
+
+vesm9211-027-p47s4
+1	Proto	J^-------------	Coord
+2	musí	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	AuxV
+4	do	RR--2----------	AuxP
+5	kódovacího	AAIS2----1A----	Atr
+6	systému	NNIS2-----A----	Adv
+7	zařazena	VsQW---XX-AP---	Obj
+8	účinná	AAFS1----1A----	Atr
+9	komprese	NNFS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+vesm9211-027-p48s1
+1	Výsledek	NNIS1-----A----	Sb
+2	implantace	NNFS2-----A----	Atr
+3	závisí	VB-S---3P-AA---	Pred
+4	nejen	TT-------------	AuxZ
+5	na	RR--6----------	AuxP
+6	stavu	NNIS6-----A----	Obj
+7	vnitřního	AANS2----1A----	Atr
+8	ucha	NNNS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	také	Db-------------	AuxZ
+12	na	RR--6----------	AuxP
+13	činnosti	NNFS6-----A----	Obj
+14	následných	AAIP2----1A----	Atr
+15	centrálních	AAIP2----1A----	Atr
+16	systémů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p49s1
+1	Vnitřní	AANS1----1A----	Atr
+2	ucho	NNNS1-----A----	ExD
+3	a	J^-------------	Coord
+4	sluchový	AAIS1----1A----	Atr
+5	nerv	NNIS1-----A----	ExD
+
+vesm9211-027-p50s1
+1	Předpokladem	NNIS7-----A----	Pnom
+2	pro	RR--4----------	AuxP
+3	zavedení	NNNS4-----A----	Atr
+4	elektrody	NNFS2-----A----	Atr
+5	do	RR--2----------	AuxP
+6	scala	NNFSX-----A----	Atr
+7	tympani	NNISX-----A----	Atr
+8	je	VB-S---3P-AA---	Pred
+9	její	PSFSXFS3-------	Atr
+10	průchodnost	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p50s2
+1	Do	RR--2----------	AuxP
+2	scala	NNFSX-----A----	Adv
+3	tympani	NNISX-----A----	Atr
+4	zarostlé	AAFS2----1A----	Atr
+5	následkem	NNIS7-----A----	AuxP
+6	zánětu	NNIS2-----A----	Adv
+7	nelze	VB-S---3P-NA---	Pred
+8	zavést	Vf--------A----	Sb
+9	elektrodový	AAIS4----1A----	Atr
+10	svazek	NNIS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p50s3
+1	K	RR--3----------	AuxP
+2	vyvolání	NNNS3-----A----	Adv
+3	použitelného	AAIS2----1A----	Atr
+4	vjemu	NNIS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	třeba	ACNS------A----	Pnom
+7	určitý	AAIS1----1A----	Atr
+8	minimální	AAIS1----1A----	Atr
+9	počet	NNIS1-----A----	Sb
+10	přežívajících	AGNP2-----A----	Atr
+11	vláken	NNNP2-----A----	Atr
+12	sluchového	AAIS2----1A----	Atr
+13	nervu	NNIS2-----A----	Atr
+14	(	Z:-------------	AuxG
+15	cca	Db-------------	Atr
+16	10	C=-------------	Atr
+17	%	Z:-------------	Atr
+18	)	Z:-------------	AuxG
+19	.	Z:-------------	AuxK
+
+vesm9211-027-p51s1
+1	Rozložení	NNNS1-----A----	Sb
+2	přežívajících	AGNP2-----A----	Atr
+3	vláken	NNNP2-----A----	Atr
+4	sluchového	AAIS2----1A----	Atr
+5	nervu	NNIS2-----A----	Atr
+6	limituje	VB-S---3P-AA---	Pred
+7	kmitočtový	AAIS4----1A----	Atr
+8	a	J^-------------	Coord
+9	dynamický	AAIS4----1A----	Atr
+10	rozsah	NNIS4-----A----	Obj
+11	využitelné	AAFS2----1A----	Atr
+12	stimulace	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+vesm9211-027-p51s2
+1	Výhodnější	AANP1----2A----	Pnom
+2	pro	RR--4----------	AuxP
+3	implantaci	NNFS4-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	zachovaná	AANP1----1A----	Atr
+6	funkční	AANP1----1A----	Atr
+7	vlákna	NNNP1-----A----	Sb
+8	při	RR--6----------	AuxP
+9	apexu	NNIS6-----A----	Atr
+10	hlemýždě	NNIS2-----A----	Atr
+11	než	J,-------------	AuxC
+12	vlákna	NNNP1-----A----	ExD
+13	umístěná	AANP1----1A----	Atr
+14	při	RR--6----------	AuxP
+15	bazálním	AAIS6----1A----	Atr
+16	závitu	NNIS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p51s3
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ze	RV--2----------	AuxP
+4	zkušenosti	NNFS2-----A----	Obj
+5	s	RR--7----------	AuxP
+6	implantátem	NNIS7-----A----	Atr
+7	Vienna	NNFS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	nejlepší	AAIP4----3A----	Atr
+11	vjemy	NNIP4-----A----	Obj
+12	zprostředkuje	VB-S---3P-AA---	Atr
+13	elektroda	NNFS1-----A----	Sb
+14	zavedená	AAFS1----1A----	Atr
+15	co	Db-------------	Adv
+16	nejdále	Dg-------3A---1	Adv
+17	do	RR--2----------	AuxP
+18	hlemýždě	NNIS2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+vesm9211-027-p51s4
+1	Po	RR--6----------	AuxP
+2	úplném	AANS6----1A----	Atr
+3	přerušení	NNNS6-----A----	Adv
+4	sluchového	AAIS2----1A----	Atr
+5	nervu	NNIS2-----A----	Atr
+6	nelze	VB-S---3P-NA---	Pred
+7	elektrickou	AAFS7----1A----	Atr
+8	stimulací	NNFS7-----A----	Adv
+9	sluchový	AAIS4----1A----	Atr
+10	vjem	NNIS4-----A----	Obj
+11	vyvolat	Vf--------A----	Sb
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p52s1
+1	Sluchové	AANS1----1A----	Atr
+2	centrum	NNNS1-----A----	ExD
+
+vesm9211-027-p53s1
+1	Také	Db-------------	AuxZ
+2	kvalita	NNFS1-----A----	Sb
+3	zpracování	NNNS2-----A----	Atr
+4	signálu	NNIS2-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	sluchovém	AANS6----1A----	Atr
+7	centru	NNNS6-----A----	AtrAtr
+8	rozhoduje	VB-S---3P-AA---	Pred
+9	o	RR--6----------	AuxP
+10	výsledku	NNIS6-----A----	Obj
+11	implantace	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p53s2
+1	Člověk	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	během	RR--2----------	AuxP
+4	prvních	CrNP2----------	Atr
+5	let	NNNP2-----A----	Adv
+6	života	NNIS2-----A----	Atr
+7	naučí	VB-S---3P-AA---	Pred
+8	mateřský	AAIS4----1A----	Atr
+9	jazyk	NNIS4-----A----	Obj
+10	a	J^-------------	Coord
+11	vytvoří	VB-S---3P-AA---	Pred
+12	si	P7-X3----------	Adv
+13	v	RR--6----------	AuxP
+14	mozku	NNIS6-----A----	Adv
+15	akustický	AAIS4----1A----	Atr
+16	slovník	NNIS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p53s3
+1	I	J^-------------	AuxZ
+2	po	RR--6----------	AuxP
+3	desetiletích	NNNP6-----A----	Adv
+4	hluchoty	NNFS2-----A----	Atr
+5	zůstane	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	mozku	NNIS6-----A----	Adv
+8	uchován	VsYS---XX-AP---	Obj
+9	význam	NNIS1-----A----	Sb
+10	zvukových	AAIP2----1A----	Atr
+11	signálů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+vesm9211-027-p53s4
+1	Výsledek	NNIS1-----A----	Sb
+2	implantace	NNFS2-----A----	Atr
+3	osob	NNFP2-----A----	Atr
+4	ohluchlých	AAFP2----1A----	Atr
+5	po	RR--6----------	AuxP
+6	vytvoření	NNNS6-----A----	Adv
+7	řeči	NNFS2-----A----	Atr
+8	(	Z:-------------	Apos
+9	postlingvální	AAFS1----1A----	Atr
+10	hluchota	NNFS1-----A----	Adv
+11	)	Z:-------------	AuxG
+12	je	VB-S---3P-AA---	Pred
+13	proto	J^-------------	Adv
+14	mnohem	Db-------------	Adv
+15	lepší	AAIS1----2A----	Pnom
+16	než	J,-------------	AuxC
+17	u	RR--2----------	AuxP
+18	kongenitálně	Dg-------1A----	Adv
+19	hluchých	AAFP2----1A----	ExD
+20	.	Z:-------------	AuxK
+
+vesm9211-027-p54s1
+1	Rehabilitace	NNFS1-----A----	Sb
+2	sluchu	NNIS2-----A----	Atr
+3	s	RR--7----------	AuxP
+4	implantátem	NNIS7-----A----	AtrAtr
+5	trvá	VB-S---3P-AA---	Pred
+6	měsíce	NNIP4-----A----	Adv
+7	,	Z:-------------	AuxX
+8	a	J^-------------	Coord
+9	i	J^-------------	AuxZ
+10	po	RR--6----------	AuxP
+11	letech	NNNP6-----A----	Adv
+12	je	VB-S---3P-AA---	Pred
+13	patrné	AANS1----1A----	Pnom
+14	postupné	AANS1----1A----	Atr
+15	zlepšování	NNNS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+vesm9211-027-p54s2
+1	Vyžaduje	VB-S---3P-AA---	Pred
+2	aktivní	AAIS4----1A----	Atr
+3	přístup	NNIS4-----A----	Obj
+4	pacienta	NNMS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	a	J^-------------	Coord
+7	proto	J^-------------	AuxY
+8	osoby	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	které	P4FP1----------	Sb
+11	se	P7-X4----------	AuxT
+12	již	Db-------------	Adv
+13	nedokáží	VB-P---3P-NA--1	Atr
+14	učit	Vf--------A----	Obj
+15	a	J^-------------	Coord
+16	nejsou	VB-P---3P-NA---	Atr
+17	motivované	AAFP1----1A----	Pnom
+18	,	Z:-------------	AuxX
+19	nepovažujeme	VB-P---1P-NA---	Pred
+20	za	RR--4----------	AuxP
+21	vhodné	AAMP4----1A----	Atr
+22	kandidáty	NNMP4-----A----	Obj
+23	implantace	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+vesm9211-027-p55s1
+1	Řeč	NNFS1-----A----	ExD
+2	a	J^-------------	Coord
+3	kochleární	AAFS1----1A----	Atr
+4	implantace	NNFS1-----A----	ExD
+
+vesm9211-027-p56s1
+1	Neuroprotéza	NNFS1-----A----	Sb
+2	nepomáhá	VB-S---3P-NA---	Pred
+3	jen	TT-------------	AuxZ
+4	při	RR--6----------	AuxP
+5	vnímání	NNNS6-----A----	Adv
+6	řeči	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	také	Db-------------	ExD
+10	při	RR--6----------	AuxP
+11	mluvním	AAIS6----1A----	Atr
+12	projevu	NNIS6-----A----	ExD
+13	.	Z:-------------	AuxK
+
+vesm9211-027-p56s2
+1	Hlas	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	ovlivňován	VsYS---XX-AP---	Pred
+4	bezprostředně	Dg-------1A----	Adv
+5	sluchem	NNIS7-----A----	Obj
+6	,	Z:-------------	AuxX
+7	a	J^-------------	Coord
+8	proto	J^-------------	AuxY
+9	u	RR--2----------	AuxP
+10	úspěšně	Dg-------1A----	Adv
+11	implantovaných	AAMP2----1A----	Adv
+12	pozorujeme	VB-P---1P-AA---	Pred
+13	zlepšování	NNNS4-----A----	Obj
+14	kvality	NNFS2-----A----	Atr
+15	hlasového	AAIS2----1A----	Atr
+16	projevu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p57s1
+1	Výsledky	NNIP1-----A----	ExD
+2	implantace	NNFS2-----A----	Atr
+
+vesm9211-027-p58s1
+1	K	RR--3----------	AuxP
+2	objektivnímu	AANS3----1A----	Atr
+3	posouzení	NNNS3-----A----	Obj
+4	implantačního	AAIS2----1A----	Atr
+5	zisku	NNIS2-----A----	Atr
+6	byla	VpQW---XR-AA---	AuxV
+7	připravena	VsQW---XX-AP---	Pred
+8	baterie	NNFS1-----A----	Sb
+9	testů	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	zjišťující	AGFS1-----A----	Atr
+12	minimální	AAFP4----1A----	Atr
+13	schopnosti	NNFP4-----A----	Obj
+14	slyšení	NNNS2-----A----	Atr
+15	(	Z:-------------	Apos
+16	MAC	NNFXX-----A---8	Atr
+17	test	NNIS1-----A----	Sb
+18	)	Z:-------------	AuxG
+19	pro	RR--4----------	AuxP
+20	anglický	AAIS4----1A----	Atr
+21	jazyk	NNIS4-----A----	AtrAdv
+22	.	Z:-------------	AuxK
+
+vesm9211-027-p58s2
+1	Obdobný	AAIS4----1A----	Atr
+2	test	NNIS4-----A----	Obj
+3	připravila	VpQW---XR-AA---	Pred
+4	Foniatrická	AAFS1----1A----	Atr
+5	klinika	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Atr
+8	i	J^-------------	AuxZ
+9	pro	RR--4----------	AuxP
+10	češtinu	NNFS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p59s1
+1	Co	PQ--4----------	Obj
+2	skutečně	Dg-------1A----	Adv
+3	slyší	VB-P---3P-AA---	Obj
+4	,	Z:-------------	Coord
+5	jaká	P4FS1----------	Pnom
+6	je	VB-S---3P-AA---	Obj
+7	kvalita	NNFS1-----A----	Sb
+8	zvukového	AAIS2----1A----	Atr
+9	vjemu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	mohou	VB-P---3P-AA--1	Pred
+12	posoudit	Vf--------A----	Obj
+13	jen	TT-------------	AuxZ
+14	sami	PLMP1----------	Atv
+15	implantovaní	AAMP1----1A----	Sb
+16	.	Z:-------------	AuxK
+
+vesm9211-027-p60s1
+1	Při	RR--6----------	AuxP
+2	stimulaci	NNFS6-----A----	Adv
+3	elektrickým	AAIS7----1A----	Atr
+4	sinusovým	AAIS7----1A----	Atr
+5	signálem	NNIS7-----A----	Atr
+6	nevzniká	VB-S---3P-NA---	Pred
+7	vjem	NNIS1-----A----	Sb
+8	čistého	AAIS2----1A----	Atr
+9	tónu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	složený	AAIS1----1A----	Atr
+13	zvuk	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+vesm9211-027-p60s2
+1	Podle	RR--2----------	AuxP
+2	stimulačního	AAIS2----1A----	Atr
+3	kmitočtu	NNIS2-----A----	Adv
+4	pacienti	NNMP1-----A----	Sb
+5	popisují	VB-P---3P-AA---	Pred
+6	vjem	NNIS4-----A----	Obj
+7	jako	J,-------------	AuxC
+8	vrčení	NNNS4-----A----	ExD
+9	,	Z:-------------	AuxX
+10	syčení	NNNS4-----A----	ExD
+11	,	Z:-------------	AuxX
+12	zvonění	NNNS4-----A----	ExD
+13	a	J^-------------	Coord
+14	podobně	Dg-------1A----	ExD
+15	.	Z:-------------	AuxK
+
+vesm9211-027-p60s3
+1	Tyto	PDIP4----------	Atr
+2	pro	RR--4----------	AuxP
+3	normálně	Dg-------1A----	Adv
+4	slyšícího	AGMS4-----A----	Atr
+5	člověka	NNMS4-----A----	Adv
+6	indiferentní	AAIP4----1A----	Atr
+7	zvuky	NNIP4-----A----	Obj
+8	považují	VB-P---3P-AA---	Pred
+9	neslyšící	AGMP1-----N----	Sb
+10	za	RR--4----------	AuxP
+11	velmi	Db-------------	Adv
+12	příjemné	AAIP4----1A----	Obj
+13	.	Z:-------------	AuxK
+
+vesm9211-027-p60s4
+1	Krátce	Dg-------1A----	Adv
+2	po	RR--6----------	AuxP
+3	implantaci	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	naučí	VB-P---3P-AA---	Pred
+6	rozlišovat	Vf--------A----	Obj
+7	základní	AAIP4----1A----	Atr
+8	zvuky	NNIP4-----A----	Obj
+9	prostředí	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	např	Db------------8	Apos
+12	.	Z:-------------	AuxG
+13	zvonek	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	štěkání	NNNS4-----A----	Obj
+16	psa	NNMS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	auto	NNNS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	mužský	AAIS4----1A----	Atr
+21	a	J^-------------	Coord
+22	ženský	AAIS4----1A----	Atr
+23	hlas	NNIS4-----A----	Obj
+24	,	Z:-------------	Coord
+25	hudbu	NNFS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+vesm9211-027-p60s5
+1	Při	RR--6----------	AuxP
+2	poslechu	NNIS6-----A----	Adv
+3	řeči	NNFS2-----A----	Atr
+4	používají	VB-P---3P-AA---	Pred
+5	zvukový	AAIS4----1A----	Atr
+6	signál	NNIS4-----A----	Obj
+7	jako	J,-------------	AuxC
+8	pomoc	NNFS4-----A----	ExD
+9	při	RR--6----------	AuxP
+10	odezírání	NNNS6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p61s1
+1	Pouze	Db-------------	AuxZ
+2	ti	PDMP1----------	Atr
+3	nejlepší	AAMP1----3A----	Sb
+4	jsou	VB-P---3P-AA---	Pred
+5	schopni	ACMP------A----	Pnom
+6	rozumět	Vf--------A----	Obj
+7	některým	PZXP3----------	Atr
+8	slovům	NNNP3-----A----	Obj
+9	bez	RR--2----------	AuxP
+10	odezírání	NNNS2-----A----	Adv
+11	,	Z:-------------	AuxX
+12	pouhým	AAIS7----1A----	Atr
+13	"	Z:-------------	AuxG
+14	poslechem	NNIS7-----A----	Adv
+15	"	Z:-------------	AuxG
+16	elektrického	AAIS2----1A----	Atr
+17	signálu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9211-027-p61s2
+1	Naše	PSHS1-P1-------	Atr
+2	nejlepší	AAFS1----3A----	Atr
+3	pacientka	NNFS1-----A----	Sb
+4	přirovnává	VB-S---3P-AA---	Pred
+5	slyšení	NNNS4-----A----	Obj
+6	s	RR--7----------	AuxP
+7	jednokanálovou	AAFS7----1A----	Atr
+8	neuroprotézou	NNFS7-----A----	Atr
+9	k	RR--3----------	AuxP
+10	normálnímu	AAIS3----1A----	Atr
+11	sluchu	NNIS3-----A----	Obj
+12	,	Z:-------------	AuxX
+13	který	P4IS4----------	Obj
+14	si	P7-X3----------	AuxT
+15	pamatuje	VB-S---3P-AA---	Atr
+16	z	RR--2----------	AuxP
+17	doby	NNFS2-----A----	Adv
+18	před	RR--7----------	AuxP
+19	ohluchnutím	NNNS7-----A----	Atr
+20	!	Z:-------------	AuxK
+21	!	Z:-------------	AuxK
+
+vesm9211-027-p61s3
+1	Jiná	AAFS1----1A----	Atr
+2	pacientka	NNFS1-----A----	Sb
+3	přirovnává	VB-S---3P-AA---	Pred
+4	zvuk	NNIS4-----A----	Obj
+5	zprostředkovaný	AAIS4----1A----	Atr
+6	implantátem	NNIS7-----A----	Obj
+7	k	RR--3----------	AuxP
+8	nádražnímu	AAIS3----1A----	Atr
+9	rozhlasu	NNIS3-----A----	Obj
+10	.	Z:-------------	AuxK
+
+vesm9211-027-p61s4
+1	Obě	ClHP1----------	ExD
+2	shodně	Dg-------1A----	Adv
+3	popisují	VB-P---3P-AA---	Pred
+4	pozvolné	AANS4----1A----	Atr
+5	zlepšování	NNNS4-----A----	Obj
+6	"	Z:-------------	AuxG
+7	přirozenosti	NNFS2-----A----	Atr
+8	"	Z:-------------	AuxG
+9	zvukového	AAIS2----1A----	Atr
+10	vjemu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p61s5
+1	Znamená	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	tedy	Db-------------	Coord
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	mozek	NNIS1-----A----	Sb
+7	je	VB-S---3P-AA---	Obj
+8	schopen	ACYS------A----	Pnom
+9	zpracovat	Vf--------A----	Obj
+10	a	J^-------------	Coord
+11	dokonale	Dg-------1A----	Adv
+12	využít	Vf--------A----	Obj
+13	nedokonale	Dg-------1N----	Adv
+14	připravený	AAIS4----1A----	Atr
+15	signál	NNIS4-----A----	Obj
+16	z	RR--2----------	AuxP
+17	periférie	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9211-027-p62s1
+1	Že	J,-------------	AuxC
+2	to	PDNS1----------	Sb
+3	nemusí	VB-S---3P-NA---	Obj
+4	být	Vf--------A----	Obj
+5	jen	TT-------------	AuxZ
+6	jeden	ClYS1----------	Atr
+7	druh	NNIS1-----A----	Pnom
+8	signálu	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4IS4----------	Obj
+11	lze	VB-S---3P-AA---	Atr
+12	využít	Vf--------A----	Sb
+13	,	Z:-------------	AuxX
+14	potvrzuje	VB-S---3P-AA---	Pred
+15	rozdílnost	NNFS1-----A----	Sb
+16	kódovacích	AAFP2----1A----	Atr
+17	strategií	NNFP2-----A----	Atr
+18	u	RR--2----------	AuxP
+19	jednotlivých	AAIP2----1A----	Atr
+20	implantovaných	AAIP2----1A----	Atr
+21	systémů	NNIP2-----A----	AtrAtr
+22	.	Z:-------------	AuxK
+
+vesm9211-027-p63s1
+1	Zpočátku	Db-------------	Adv
+2	byla	VpQW---XR-AA---	AuxV
+3	implantace	NNFS1-----A----	Sb
+4	prováděna	VsQW---XX-AP---	Pred
+5	pouze	Db-------------	AuxZ
+6	u	RR--2----------	AuxP
+7	dospělých	AAFP2----1A----	Atr
+8	osob	NNFP2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+vesm9211-027-p63s2
+1	Do	RR--2----------	AuxP
+2	implantací	NNFP2-----A----	Adv
+3	u	RR--2----------	AuxP
+4	dětí	NNFP2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	vkládaly	VpTP---XR-AA---	Pred
+7	veliké	AAFP1----1A----	Atr
+8	naděje	NNFP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	hlavně	Dg-------1A----	AuxZ
+11	s	RR--7----------	AuxP
+12	poukazem	NNIS7-----A----	Adv
+13	na	RR--4----------	AuxP
+14	plasticitu	NNFS4-----A----	Atr
+15	dětského	AAIS2----1A----	Atr
+16	mozku	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9211-027-p63s3
+1	Dosavadní	AAIP4----1A----	Atr
+2	výsledky	NNIP4-----A----	Obj
+3	implantací	NNFP2-----A----	Atr
+4	dětských	AAMP2----1A----	Atr
+5	pacientů	NNMP2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	třeba	ACNS------A----	Pnom
+8	hodnotit	Vf--------A----	Sb
+9	velmi	Db-------------	Adv
+10	opatrně	Dg-------1A----	Adv
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	představa	NNFS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	plastický	AAIS1----1A----	Atr
+17	dětský	AAIS1----1A----	Atr
+18	mozek	NNIS1-----A----	Sb
+19	ochotně	Dg-------1A----	Adv
+20	přijme	VB-S---3P-AA---	Atr
+21	náhradní	AAIS4----1A----	Atr
+22	zvukový	AAIS4----1A----	Atr
+23	signál	NNIS4-----A----	Obj
+24	,	Z:-------------	AuxX
+25	se	P7-X4----------	AuxR
+26	zcela	Db-------------	Adv
+27	nenaplnila	VpQW---XR-NA---	Pred
+28	.	Z:-------------	AuxK
+
+vesm9211-027-p63s4
+1	I	J^-------------	AuxZ
+2	mezi	RR--7----------	AuxP
+3	dětmi	NNFP7-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	vyskytli	VpMP---XR-AA--1	Pred
+6	někteří	PZMP1----------	Atr
+7	pozoruhodní	AAMP1----1A----	Atr
+8	pacienti	NNMP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	také	Db-------------	AuxZ
+12	jedinci	NNMP1-----A----	Sb
+13	s	RR--7----------	AuxP
+14	velmi	Db-------------	Adv
+15	malým	AAIS7----1A----	Atr
+16	implantačním	AAIS7----1A----	Atr
+17	ziskem	NNIS7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9211-027-p64s1
+1	Kochleární	AAFP1----1A----	Atr
+2	implantace	NNFP1-----A----	Sb
+3	stále	Db-------------	Adv
+4	ještě	Db-------------	Adv
+5	nejsou	VB-P---3P-NA---	Pred
+6	běžnou	AAFS7----1A----	Atr
+7	klinickou	AAFS7----1A----	Atr
+8	metodou	NNFS7-----A----	Pnom
+9	léčby	NNFS2-----A----	Atr
+10	hluchoty	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-027-p64s2
+1	Počet	NNIS1-----A----	Sb
+2	implantovaných	AAMP2----1A----	ExD
+3	však	J^-------------	Coord
+4	ukazuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	to	PDNS1----------	Sb
+8	nebyla	VpQW---XR-NA---	Obj
+9	slepá	AAFS1----1A----	Atr
+10	ulička	NNFS1-----A----	Pnom
+11	,	Z:-------------	AuxX
+12	po	RR--6----------	AuxP
+13	které	P4FS6----------	Adv
+14	se	P7-X4----------	AuxT
+15	v	RR--6----------	AuxP
+16	šedesátých	CrNP6----------	Atr
+17	letech	NNNP6-----A----	Adv
+18	našeho	PSZS2-P1-------	Atr
+19	století	NNNS2-----A----	Atr
+20	první	CrMP1----------	Atr
+21	odvážlivci	NNMP1-----A----	Sb
+22	vydali	VpMP---XR-AA---	Atr
+23	.	Z:-------------	AuxK
+
+vesm9211-027-p64s3
+1	V	RR--6----------	AuxP
+2	lékařství	NNNS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	vyskytuje	VB-S---3P-AA---	Pred
+5	dvojí	CdXS1----------	Atr
+6	chirurgie	NNFS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+vesm9211-027-p64s4
+1	Při	RR--6----------	AuxP
+2	méně	Dg-------2A----	Adv
+3	radostné	AAFS6----1A----	ExD
+4	se	P7-X4----------	AuxR
+5	něco	PZ--1----------	Sb
+6	z	RR--2----------	AuxP
+7	těla	NNNS2-----A----	Adv
+8	odstraňuje	VB-S---3P-AA---	Pred
+9	.	Z:-------------	AuxK
+
+vesm9211-027-p64s5
+1	Implantace	NNFS1-----A----	Sb
+2	patří	VB-S---3P-AA---	Pred
+3	k	RR--3----------	AuxP
+4	té	PDFS3----------	Atr
+5	druhé	CrFS3----------	Atr
+6	skupině	NNFS3-----A----	Obj
+7	.	Z:-------------	AuxK
+
+vesm9211-027-p65s1
+1	LITERATURA	NNFS1-----A----	ExD
+
+vesm9211-027-p66s1
+1	M	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Valvoda	NNMS1-----A----	ExD
+4	a	J^-------------	Coord
+5	kol	NNNP2-----A----	ExD
+6	.	Z:-------------	AuxG
+7	:	Z:-------------	Coord
+8	Současný	AAIS1----1A----	Atr
+9	stav	NNIS1-----A----	ExD
+10	implantací	NNFP2-----A----	Atr
+11	kochleárních	AAFP2----1A----	Atr
+12	neuroprotéz	NNFP2-----A----	Atr
+13	ve	RV--6----------	AuxP
+14	světě	NNIS6-----A----	AtrAtr
+15	.	Z:-------------	AuxK
+

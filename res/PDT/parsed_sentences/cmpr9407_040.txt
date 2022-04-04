@@ -1,0 +1,863 @@
+cmpr9407-040-p2s1
+1	Rádce	NNMS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Zákon	NNIS1-----A----	ExD
+4	a	J^-------------	Coord
+5	my	PP-P1--1-------	ExD
+
+cmpr9407-040-p3s1
+1	Práce	NNFS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	noci	NNFS6-----A----	Atr
+
+cmpr9407-040-p4s1
+1	Jsem	VB-S---1P-AA---	Pred
+2	soukromý	AAMS1----1A----	Atr
+3	podnikatel	NNMS1-----A----	Pnom
+4	a	J^-------------	Coord
+5	řadu	NNFS4-----A----	Obj
+6	svých	P8XP2----------	Atr
+7	zaměstnanců	NNMP2-----A----	Atr
+8	zaměstnávám	VB-S---1P-AA---	Pred
+9	v	RR--6----------	AuxP
+10	noci	NNFS6-----A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9407-040-p4s2
+1	Stačí	VB-S---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	abych	J,-S---1-------	AuxC
+4	jim	PPXP3--3-------	Obj
+5	vyplácel	VpYS---XR-AA---	Sb
+6	minimální	AAFS4----1A----	Atr
+7	mzdu	NNFS4-----A----	Obj
+8	anebo	J^-------------	Coord
+9	musím	VB-S---1P-AA---	Sb
+10	přihlížet	Vf--------A----	Obj
+11	k	RR--3----------	AuxP
+12	tomu	PDZS3----------	Obj
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	jde	VB-S---3P-AA---	Atr
+16	o	RR--4----------	AuxP
+17	práci	NNFS4-----A----	Obj
+18	v	RR--6----------	AuxP
+19	nočních	AAFP6----1A----	Atr
+20	hodinách	NNFP6-----A----	Atr
+21	?	Z:-------------	AuxK
+
+cmpr9407-040-p5s1
+1	K	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	J	NNMXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	,	Z:-------------	ExD
+6	Prostějov	NNIS1-----A----	ExD
+
+cmpr9407-040-p6s1
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	platí	VB-S---3P-AA---	Pred
+5	nařízení	NNNS1-----A----	Sb
+6	vlády	NNFS2-----A----	Atr
+7	číslo	NNNS1-----A----	Atr
+8	333	C=-------------	Atr
+9	/	Z:-------------	AuxG
+10	1993	C=-------------	Atr
+11	Sb	NNFXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	,	Z:-------------	AuxX
+14	o	RR--6----------	AuxP
+15	stanovení	NNNS6-----A----	Atr
+16	minimálních	AAIP2----1A----	Atr
+17	mzdových	AAIP2----1A----	Atr
+18	tarifů	NNIP2-----A----	Atr
+19	a	J^-------------	Coord
+20	mzdové	AANS1----1A----	Atr
+21	zvýhodnění	NNNS1-----A----	Sb
+22	za	RR--4----------	AuxP
+23	práci	NNFS4-----A----	Atr
+24	ve	RV--6----------	AuxP
+25	ztíženém	AANS6----1A----	Atr
+26	a	J^-------------	Coord
+27	zdraví	NNNS3-----A----	Obj
+28	škodlivém	AANS6----1A----	Atr
+29	pracovním	AANS6----1A----	Atr
+30	prostředí	NNNS6-----A----	Atr
+31	a	J^-------------	Coord
+32	za	RR--4----------	AuxP
+33	práci	NNFS4-----A----	Atr
+34	v	RR--6----------	AuxP
+35	noci	NNFS6-----A----	Atr
+36	.	Z:-------------	AuxK
+
+cmpr9407-040-p6s2
+1	V	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	vládním	AANS6----1A----	Atr
+4	nařízení	NNNS6-----A----	Adv
+5	jsou	VB-P---3P-AA---	Pred
+6	uvedeny	VsTP---XX-AP---	Pnom
+7	jednotlivé	AAIP1----1A----	Atr
+8	tarifní	AAIP1----1A----	Atr
+9	stupně	NNIP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	do	RR--2----------	AuxP
+12	kterých	P4XP2----------	Adv
+13	musí	VB-P---3P-AA--1	Atr
+14	být	Vf--------A----	Obj
+15	pracovníci	NNMP1-----A----	Sb
+16	zařazeni	VsMP---XX-AP---	Pnom
+17	.	Z:-------------	AuxK
+
+cmpr9407-040-p6s3
+1	V	RR--6----------	AuxP
+2	každém	AAIS6----1A----	Atr
+3	případě	NNIS6-----A----	Adv
+4	ovšem	J^-------------	Coord
+5	platí	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	pracovník	NNMS1-----A----	Sb
+9	pracující	AGMS1-----A----	Atr
+10	v	RR--6----------	AuxP
+11	noci	NNFS6-----A----	Adv
+12	má	VB-S---3P-AA---	Sb
+13	nárok	NNIS4-----A----	Obj
+14	na	RR--4----------	AuxP
+15	mzdové	AANS4----1A----	Atr
+16	zvýhodnění	NNNS4-----A----	Atr
+17	za	RR--2----------	AuxP
+18	předpokladu	NNIS2-----A----	Adv
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	práce	NNFS1-----A----	Sb
+22	v	RR--6----------	AuxP
+23	noci	NNFS6-----A----	Atr
+24	trvá	VB-S---3P-AA---	Atr
+25	alespoň	Db-------------	AuxZ
+26	dvě	ClHP4----------	Atr
+27	hodiny	NNFP4-----A----	Adv
+28	.	Z:-------------	AuxK
+
+cmpr9407-040-p7s1
+1	Změna	NNFS1-----A----	ExD
+2	lékaře	NNMS2-----A----	Atr
+
+cmpr9407-040-p8s1
+1	Protože	J,-------------	AuxC
+2	mi	PH-S3--1-------	Obj
+3	můj	PSYS1-S1-------	Atr
+4	dosavadní	AAMS1----1A----	Atr
+5	ošetřující	AGMS1-----A----	Atr
+6	lékař	NNMS1-----A----	Sb
+7	nevyhovoval	VpYS---XR-NA---	Adv
+8	,	Z:-------------	AuxX
+9	zvolil	VpYS---XR-AA---	Pred
+10	jsem	VB-S---1P-AA---	AuxV
+11	si	P7-X3----------	Adv
+12	lékaře	NNMS4-----A----	Obj
+13	jiného	AAMS4----1A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9407-040-p8s2
+1	Nyní	Db-------------	Adv
+2	-	Z:-------------	Apos
+3	po	RR--6----------	AuxP
+4	uplynutí	NNNS6-----A----	Adv
+5	čtrnácti	Cn-P2----------	Atr
+6	dní	NNIP2-----A---1	Atr
+7	a	J^-------------	Coord
+8	dvou	ClXP6----------	Atr
+9	návštěvách	NNFP6-----A----	Adv
+10	-	Z:-------------	AuxG
+11	vidím	VB-S---1P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	ani	J^-------------	AuxZ
+15	ten	PDYS1----------	Sb
+16	není	VB-S---3P-NA---	Obj
+17	nejlepší	AAMS1----3A----	Pnom
+18	a	J^-------------	Coord
+19	nevěnuje	VB-S---3P-NA---	Obj
+20	se	P7-X4----------	AuxT
+21	mi	PH-S3--1-------	Obj
+22	tak	Db-------------	Adv
+23	,	Z:-------------	AuxX
+24	jak	Db-------------	Adv
+25	bych	Vc-S---1-------	AuxV
+26	potřeboval	VpYS---XR-AA---	Adv
+27	.	Z:-------------	AuxK
+
+cmpr9407-040-p8s3
+1	Proto	J^-------------	Coord
+2	bych	Vc-S---1-------	AuxV
+3	chtěl	VpYS---XR-AA---	Pred
+4	lékaře	NNMS4-----A----	Obj
+5	změnit	Vf--------A----	Obj
+6	.	Z:-------------	AuxK
+
+cmpr9407-040-p8s4
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	možné	AANS1----1A----	Pnom
+4	?	Z:-------------	AuxK
+
+cmpr9407-040-p8s5
+1	Za	RR--4----------	AuxP
+2	jak	Db-------------	Adv
+3	často	Dg-------1A----	Adv
+4	se	P7-X4----------	AuxR
+5	vůbec	Db-------------	AuxZ
+6	může	VB-S---3P-AA---	Pred
+7	měnit	Vf--------A----	Obj
+8	lékař	NNMS1-----A----	Sb
+9	?	Z:-------------	AuxK
+
+cmpr9407-040-p9s1
+1	O	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	L	NNMXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	,	Z:-------------	ExD
+6	Zlín	NNIS1-----A----	ExD
+
+cmpr9407-040-p10s1
+1	Jako	J,-------------	AuxY
+2	pojištěnec	NNMS1-----A----	AtvV
+3	zdravotní	AAFS2----1A----	Atr
+4	pojišťovny	NNFS2-----A----	Atr
+5	máte	VB-P---2P-AA---	Pred
+6	samozřejmě	Dg-------1A----	AuxY
+7	nárok	NNIS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	výběr	NNIS4-----A----	Atr
+10	jiného	AAMS2----1A----	Atr
+11	lékaře	NNMS2-----A----	Atr
+12	či	J^-------------	Coord
+13	jiného	AAMS2----1A----	Atr
+14	odborného	AAMS2----1A----	Atr
+15	pracovníka	NNMS2-----A----	Atr
+16	ve	RV--6----------	AuxP
+17	zdravotnictví	NNNS6-----A----	Atr
+18	i	J^-------------	Coord
+19	zdravotnického	AANS2----1A----	Atr
+20	zařízení	NNNS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9407-040-p10s2
+1	Musí	VB-S---3P-AA---	Pred
+2	ovšem	J^-------------	Coord
+3	být	Vf--------A----	Obj
+4	ve	RV--6----------	AuxP
+5	smluvním	AAIS6----1A----	Atr
+6	vztahu	NNIS6-----A----	Adv
+7	k	RR--3----------	AuxP
+8	příslušné	AAFS3----1A----	Atr
+9	zdravotní	AAFS3----1A----	Atr
+10	pojišťovně	NNFS3-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9407-040-p10s3
+1	Toto	PDNS4----------	Atr
+2	právo	NNNS4-----A----	Obj
+3	však	J^-------------	Coord
+4	můžete	VB-P---2P-AA---	Pred
+5	uplatnit	Vf--------A----	Obj
+6	jednou	ClFS7----------	Adv
+7	za	RR--4----------	AuxP
+8	tři	ClXP4----------	Atr
+9	měsíce	NNIP4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9407-040-p10s4
+1	Pokud	J,-------------	AuxC
+2	jste	VB-P---2P-AA---	AuxV
+3	svého	P8MS4----------	Atr
+4	nového	AAMS4----1A----	Atr
+5	lékaře	NNMS4-----A----	Obj
+6	zvolil	VpYS---XR-AA---	Adv
+7	před	RR--7----------	AuxP
+8	čtrnácti	Cn-P7----------	Atr
+9	dny	NNIP7-----A----	Adv
+10	,	Z:-------------	AuxX
+11	musíte	VB-P---2P-AA---	Pred
+12	se	RV--7----------	AuxP
+13	změnou	NNFS7-----A----	Obj
+14	lékaře	NNMS2-----A----	Atr
+15	vyčkat	Vf--------A----	Obj
+16	do	RR--2----------	AuxP
+17	doby	NNFS2-----A----	Adv
+18	,	Z:-------------	AuxX
+19	než	J,-------------	AuxC
+20	zmíněná	AAFS1----1A----	Atr
+21	tříměsíční	AAFS1----1A----	Atr
+22	lhůta	NNFS1-----A----	Sb
+23	uplyne	VB-S---3P-AA---	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9407-040-p11s1
+1	Stejný	AAIS1----1A----	Atr
+2	název	NNIS1-----A----	ExD
+
+cmpr9407-040-p12s1
+1	Naše	PSHS1-P1-------	Atr
+2	firma	NNFS1-----A----	Sb
+3	byla	VpQW---XR-AA---	Pred
+4	zapsána	VsQW---XX-AP---	Pnom
+5	v	RR--6----------	AuxP
+6	obchodním	AAIS6----1A----	Atr
+7	rejstříku	NNIS6-----A----	Adv
+8	v	RR--6----------	AuxP
+9	roce	NNIS6-----A---1	Adv
+10	1991	C=-------------	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9407-040-p12s2
+1	Nyní	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	dozvěděl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	u	RR--2----------	AuxP
+8	stejného	AAIS2----1A----	Atr
+9	soudu	NNIS2-----A----	Adv
+10	byla	VpQW---XR-AA---	Obj
+11	v	RR--6----------	AuxP
+12	obchodním	AAIS6----1A----	Atr
+13	rejstříku	NNIS6-----A----	Adv
+14	zapsána	VsQW---XX-AP---	Pnom
+15	pod	RR--7----------	AuxP
+16	stejným	AAIS7----1A----	Atr
+17	názvem	NNIS7-----A----	Adv
+18	jiná	AAFS1----1A----	Atr
+19	firma	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+cmpr9407-040-p12s3
+1	V	RR--6----------	AuxP
+2	porovnání	NNNS6-----A----	Adv
+3	předmětu	NNIS2-----A----	Atr
+4	podnikání	NNNS2-----A----	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	minimálně	Dg-------1A----	AuxZ
+7	dvě	ClHP1----------	Atr
+8	činnosti	NNFP1-----A----	Sb
+9	obou	ClXP2----------	Atr
+10	firem	NNFP2-----A----	Atr
+11	totožné	AAFP1----1A----	Pnom
+12	.	Z:-------------	AuxK
+
+cmpr9407-040-p12s4
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	přípustné	AANS1----1A----	Pnom
+4	?	Z:-------------	AuxK
+
+cmpr9407-040-p12s5
+1	Jak	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	máme	VB-P---1P-AA---	Pred
+4	zachovat	Vf--------A----	Obj
+5	,	Z:-------------	AuxX
+6	pokud	J,-------------	AuxC
+7	později	Dg-------2A----	Adv
+8	zaregistrovaná	AAFS1----1A----	Atr
+9	firma	NNFS1-----A----	Sb
+10	svůj	P8IS4----------	Atr
+11	název	NNIS4-----A----	Obj
+12	nezmění	VB-S---3P-NA---	Adv
+13	?	Z:-------------	AuxK
+
+cmpr9407-040-p13s1
+1	M	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	J	NNMXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	,	Z:-------------	ExD
+6	Brno	NNNS1-----A----	ExD
+
+cmpr9407-040-p14s1
+1	Obchodní	AANS1----1A----	Atr
+2	jméno	NNNS1-----A----	Sb
+3	firmy	NNFS2-----A----	Atr
+4	nesmí	VB-S---3P-NA---	Pred
+5	být	Vf--------A----	Obj
+6	zaměnitelné	AANS1----1A----	Pnom
+7	s	RR--7----------	AuxP
+8	obchodním	AANS7----1A----	Atr
+9	jménem	NNNS7-----A----	Obj
+10	jiného	AAMS2----1A----	Atr
+11	podnikatele	NNMS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9407-040-p14s2
+1	U	RR--2----------	AuxP
+2	právnické	AAFS2----1A----	Atr
+3	osoby	NNFS2-----A----	Adv
+4	postačí	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	odlišení	NNNS3-----A----	Adv
+7	od	RR--2----------	AuxP
+8	obchodního	AANS2----1A----	Atr
+9	jména	NNNS2-----A----	Atr
+10	jiné	AAFS2----1A----	Atr
+11	právnické	AAFS2----1A----	Atr
+12	osoby	NNFS2-----A----	Atr
+13	uvedení	NNNS1-----A----	Sb
+14	jiného	AANS2----1A----	Atr
+15	sídla	NNNS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	jestliže	J,-------------	AuxC
+18	tyto	PDFP1----------	Atr
+19	osoby	NNFP1-----A----	Sb
+20	nepodnikají	VB-P---3P-NA---	Adv
+21	v	RR--6----------	AuxP
+22	tomtéž	PDZS6----------	Atr
+23	oboru	NNIS6-----A----	Adv
+24	nebo	J^-------------	Coord
+25	v	RR--6----------	AuxP
+26	oborech	NNIP6-----A----	Adv
+27	zaměnitelných	AAIP6----1A----	Atr
+28	při	RR--6----------	AuxP
+29	hospodářské	AAFS6----1A----	Atr
+30	soutěži	NNFS6-----A----	Adv
+31	.	Z:-------------	AuxK
+
+cmpr9407-040-p14s3
+1	U	RR--2----------	AuxP
+2	fyzických	AAFP2----1A----	Atr
+3	osob	NNFP2-----A----	Adv
+4	postačí	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	odlišení	NNNS3-----A----	Adv
+7	uvedení	NNNS1-----A----	Sb
+8	jiného	AANS2----1A----	Atr
+9	místa	NNNS2-----A----	Atr
+10	podnikání	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9407-040-p14s4
+1	Z	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	plyne	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	firma	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	byla	VpQW---XR-AA---	Atr
+10	zapsaná	AAFS1----1A----	Pnom
+11	do	RR--2----------	AuxP
+12	obchodního	AAIS2----1A----	Atr
+13	rejstříku	NNIS2-----A----	Adv
+14	později	Dg-------2A----	Adv
+15	,	Z:-------------	AuxX
+16	nesmí	VB-S---3P-NA---	Sb
+17	používat	Vf--------A----	Obj
+18	téhož	PDZS2----------	Atr
+19	obchodního	AANS2----1A----	Atr
+20	jména	NNNS2-----A----	Obj
+21	,	Z:-------------	AuxX
+22	neboť	J^-------------	Coord
+23	předmět	NNIS1-----A----	Sb
+24	činnosti	NNFS2-----A----	Atr
+25	je	VB-S---3P-AA---	Sb
+26	částečně	Dg-------1A----	Adv
+27	shodný	AAIS1----1A----	Pnom
+28	.	Z:-------------	AuxK
+
+cmpr9407-040-p15s1
+1	Podle	RR--2----------	AuxP
+2	obchodního	AAIS2----1A----	Atr
+3	zákoníku	NNIS2-----A----	Adv
+4	ten	PDYS1----------	Sb
+5	,	Z:-------------	AuxX
+6	kdo	PKM-1----------	Sb
+7	byl	VpYS---XR-AA---	Atr
+8	dotčen	VsYS---XX-AP---	Pnom
+9	na	RR--6----------	AuxP
+10	svých	P8XP6----------	Atr
+11	právech	NNNP6-----A----	Obj
+12	neoprávněným	AANS7----1N----	Atr
+13	užíváním	NNNS7-----A----	Adv
+14	obchodního	AANS2----1A----	Atr
+15	jména	NNNS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	může	VB-S---3P-AA---	Pred
+18	se	P7-X4----------	AuxT
+19	proti	RR--3----------	AuxP
+20	neoprávněnému	AAMS3----1N----	Atr
+21	uživateli	NNMS3-----A----	Adv
+22	domáhat	Vf--------A----	Obj
+23	,	Z:-------------	AuxX
+24	aby	J,-------------	AuxC
+25	se	P7-X4----------	AuxT
+26	takového	PDZS2----------	Atr
+27	jednání	NNNS2-----A----	Obj
+28	zdržel	VpYS---XR-AA---	Obj
+29	a	J^-------------	Coord
+30	odstranil	VpYS---XR-AA---	Obj
+31	závadný	AAIS4----1A----	Atr
+32	stav	NNIS4-----A----	Obj
+33	.	Z:-------------	AuxK
+
+cmpr9407-040-p15s2
+1	Dále	Dg-------2A---1	Adv
+2	může	VB-S---3P-AA---	Pred
+3	požadovat	Vf--------A----	Obj
+4	přiměřené	AANS4----1A----	Atr
+5	zadostiučinění	NNNS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	které	P4NS1----------	Sb
+8	může	VB-S---3P-AA---	Atr
+9	být	Vf--------A----	AuxV
+10	poskytnuto	VsNS---XX-AP---	Obj
+11	i	J^-------------	AuxZ
+12	v	RR--6----------	AuxP
+13	penězích	NNIP6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9407-040-p15s3
+1	Z	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	vyplývá	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	můžete	VB-P---2P-AA---	Sb
+8	obrátit	Vf--------A----	Obj
+9	na	RR--4----------	AuxP
+10	soud	NNIS4-----A----	Adv
+11	a	J^-------------	Coord
+12	požádat	Vf--------A----	Obj
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	dotyčné	AAFS3----1A----	Atr
+16	firmě	NNFS3-----A----	Obj
+17	bylo	VpNS---XR-AA---	AuxV
+18	uloženo	VsNS---XX-AP---	Obj
+19	zdržet	Vf--------A----	Sb
+20	se	P7-X4----------	AuxT
+21	používání	NNNS2-----A----	Obj
+22	svého	P8ZS2----------	Atr
+23	obchodního	AANS2----1A----	Atr
+24	jména	NNNS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	tedy	Db-------------	Apos
+27	svoje	P8NS4----------	Atr
+28	obchodní	AANS4----1A----	Atr
+29	jméno	NNNS4-----A----	Obj
+30	nahradit	Vf--------A----	Sb
+31	jménem	NNNS7-----A----	Obj
+32	jiným	AANS7----1A----	Atr
+33	.	Z:-------------	AuxK
+
+cmpr9407-040-p16s1
+1	Náhrada	NNFS1-----A----	ExD
+2	škody	NNFS2-----A----	Atr
+
+cmpr9407-040-p17s1
+1	Zaměstnávám	VB-S---1P-AA---	Pred
+2	řadu	NNFS4-----A----	Obj
+3	pomocných	AAMP2----1A----	Atr
+4	dělníků	NNMP2-----A----	Atr
+5	a	J^-------------	Coord
+6	před	RR--7----------	AuxP
+7	nedávnem	NNNS7-----A----	Adv
+8	došlo	VpNS---XR-AA---	Pred
+9	k	RR--3----------	AuxP
+10	tomu	PDZS3----------	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	dva	ClYP1----------	Sb
+14	z	RR--2----------	AuxP
+15	nich	P5XP2--3-------	Atr
+16	se	P7-X4----------	AuxT
+17	navzájem	Db-------------	Adv
+18	poprali	VpMP---XR-AA---	Atr
+19	a	J^-------------	Coord
+20	způsobili	VpMP---XR-AA---	Atr
+21	si	P7-X3----------	Obj
+22	zranění	NNNS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+cmpr9407-040-p17s2
+1	Protože	J,-------------	AuxC
+2	jsou	VB-P---3P-AA---	Adv
+3	oba	ClYP1----------	Sb
+4	zdravotně	Dg-------1A----	Adv
+5	pojištěni	VsMP---XX-AP---	Pnom
+6	,	Z:-------------	AuxX
+7	byli	VpMP---XR-AA---	AuxV
+8	ošetřeni	VsMP---XX-AP---	Pred
+9	a	J^-------------	AuxY
+10	já	PP-S1--1-------	Sb
+11	jsem	VB-S---1P-AA---	AuxV
+12	proto	J^-------------	Coord
+13	předpokládal	VpYS---XR-AA---	Pred
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	celá	AAFS1----1A----	Atr
+17	záležitost	NNFS1-----A----	Sb
+18	skončila	VpQW---XR-AA---	Obj
+19	.	Z:-------------	AuxK
+
+cmpr9407-040-p17s3
+1	Nyní	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	dozvěděl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	zdravotnická	AAFS1----1A----	Atr
+8	pojišťovna	NNFS1-----A----	Sb
+9	na	RR--6----------	AuxP
+10	nich	P5XP6--3-------	Obj
+11	vyžaduje	VB-S---3P-AA---	Obj
+12	náhradu	NNFS4-----A----	Obj
+13	škody	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	která	P4FS1----------	Sb
+16	jí	PPFS3--3-------	Adv
+17	vznikla	VpQW---XR-AA--1	Atr
+18	v	RR--6----------	AuxP
+19	důsledku	NNIS6-----A----	AuxP
+20	toho	PDZS2----------	Adv
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	musela	VpQW---XR-AA---	Atr
+24	financovat	Vf--------A----	Obj
+25	ošetření	NNNS4-----A----	Obj
+26	pracovníků	NNMP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9407-040-p17s4
+1	Postupuje	VB-S---3P-AA---	Pred
+2	správně	Dg-------1A----	Adv
+3	?	Z:-------------	AuxK
+
+cmpr9407-040-p18s1
+1	J	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	N	NNMXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	,	Z:-------------	ExD
+6	Praha	NNFS1-----A----	ExD
+
+cmpr9407-040-p19s1
+1	Zdravotní	AAFS1----1A----	Atr
+2	pojišťovna	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	nárok	NNIS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	náhradu	NNFS4-----A----	Atr
+7	škody	NNFS2-----A----	Atr
+8	vůči	RR--3----------	AuxP
+9	třetím	CrFP3----------	Atr
+10	osobám	NNFP3-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jestliže	J,-------------	AuxC
+13	vynaložené	AAIP1----1A----	Atr
+14	náklady	NNIP1-----A----	ExD
+15	na	RR--4----------	AuxP
+16	péči	NNFS4-----A----	Atr
+17	plně	Dg-------1A----	Adv
+18	nebo	J^-------------	Coord
+19	částečně	Dg-------1A----	Adv
+20	hrazenou	AAFS4----1A----	Atr
+21	zdravotním	AANS7----1A----	Atr
+22	pojištěním	NNNS7-----A----	Adv
+23	,	Z:-------------	AuxX
+24	v	RR--6----------	AuxP
+25	důsledku	NNIS6-----A----	AuxP
+26	jejich	PSXXXXP3-------	Atr
+27	zaviněného	AANS2----1A----	Atr
+28	protiprávního	AANS2----1A----	Atr
+29	jednání	NNNS2-----A----	ExD
+30	vůči	RR--3----------	AuxP
+31	osobám	NNFP3-----A----	Atr
+32	účastným	AAFP3----1A----	Atr
+33	zdravotního	AANS2----1A----	Atr
+34	pojištění	NNNS2-----A----	Obj
+35	.	Z:-------------	AuxK
+
+cmpr9407-040-p19s2
+1	Z	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	zřejmé	AANS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	daném	AAIS6----1A----	Atr
+9	případě	NNIS6-----A----	Adv
+10	může	VB-S---3P-AA---	Sb
+11	pojišťovna	NNFS1-----A----	Sb
+12	požadovat	Vf--------A----	Obj
+13	na	RR--6----------	AuxP
+14	tom	PDZS6----------	Obj
+15	,	Z:-------------	AuxX
+16	kdo	PKM-1----------	Sb
+17	způsobil	VpYS---XR-AA---	Atr
+18	někomu	PZM-3----------	Obj
+19	jinému	AAMS3----1A----	Atr
+20	zranění	NNNS4-----A----	Obj
+21	,	Z:-------------	AuxX
+22	náhradu	NNFS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+cmpr9407-040-p20s1
+1	Placení	NNNS1-----A----	ExD
+2	vyšetření	NNNS2-----A----	Atr
+
+cmpr9407-040-p21s1
+1	Hlásím	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	Obj
+3	ke	RV--3----------	AuxP
+4	studiu	NNNS3-----A----	Adv
+5	na	RR--6----------	AuxP
+6	vysoké	AAFS6----1A----	Atr
+7	škole	NNFS6-----A----	Atr
+8	a	J^-------------	Coord
+9	součástí	NNFS7-----A----	Pnom
+10	přihlášky	NNFS2-----A----	Atr
+11	je	VB-S---3P-AA---	Pred
+12	i	J^-------------	AuxZ
+13	vyjádření	NNNS1-----A----	Sb
+14	lékaře	NNMS2-----A----	Atr
+15	o	RR--6----------	AuxP
+16	tom	PDZS6----------	Atr
+17	,	Z:-------------	AuxX
+18	zda	J,-------------	AuxC
+19	jsem	VB-S---1P-AA---	Atr
+20	ze	RV--2----------	AuxP
+21	zdravotních	AAIP2----1A----	Atr
+22	důvodů	NNIP2-----A----	Adv
+23	způsobilý	AAMS1----1A----	Pnom
+24	ke	RV--3----------	AuxP
+25	studiu	NNNS3-----A----	Obj
+26	.	Z:-------------	AuxK
+
+cmpr9407-040-p21s2
+1	Zajímalo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	mne	PP-S4--1-------	Obj
+4	,	Z:-------------	AuxX
+5	jestli	J,-------------	AuxC
+6	toto	PDNS4----------	Atr
+7	vyšetření	NNNS4-----A----	Obj
+8	budu	VB-S---1F-AA---	AuxV
+9	muset	Vf--------A----	Sb
+10	hradit	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	nebo	J^-------------	Coord
+13	je	VB-S---3P-AA---	Sb
+14	kryto	VsNS---XX-AP---	Pnom
+15	všeobecným	AANS7----1A----	Atr
+16	zdravotním	AANS7----1A----	Atr
+17	pojištěním	NNNS7-----A----	Adv
+18	?	Z:-------------	AuxK
+
+cmpr9407-040-p22s1
+1	J	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Š	NNMXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	,	Z:-------------	ExD
+6	České	AAFP1----1A----	Atr
+7	Budějovice	NNFP1-----A----	ExD
+
+cmpr9407-040-p23s1
+1	Podle	RR--2----------	AuxP
+2	zákona	NNIS2-----A----	Adv
+3	o	RR--6----------	AuxP
+4	všeobecném	AANS6----1A----	Atr
+5	zdravotním	AANS6----1A----	Atr
+6	pojištění	NNNS6-----A----	Atr
+7	péče	NNFS1-----A----	Sb
+8	plně	Dg-------1A----	Adv
+9	nebo	J^-------------	Coord
+10	částečně	Dg-------1A----	Adv
+11	hrazená	AAFS1----1A----	Atr
+12	zdravotním	AANS7----1A----	Atr
+13	pojištěním	NNNS7-----A----	Adv
+14	nezahrnuje	VB-S---3P-NA---	Pred
+15	vyšetření	NNNS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	prohlídky	NNFP4-----A----	Obj
+18	a	J^-------------	Coord
+19	jiné	AAIP4----1A----	Atr
+20	výkony	NNIP4-----A----	Obj
+21	provedené	AAIP4----1A----	Atr
+22	v	RR--6----------	AuxP
+23	osobním	AAIS6----1A----	Atr
+24	zájmu	NNIS6-----A----	Adv
+25	fyzických	AAFP2----1A----	Atr
+26	osob	NNFP2-----A----	Atr
+27	nebo	J^-------------	Coord
+28	v	RR--6----------	AuxP
+29	zájmu	NNIS6-----A----	Adv
+30	právnických	AAFP2----1A----	Atr
+31	osob	NNFP2-----A----	Atr
+32	,	Z:-------------	AuxX
+33	které	P4FP1----------	Sb
+34	nesledují	VB-P---3P-NA---	Atr
+35	léčebný	AAIS4----1A----	Atr
+36	účel	NNIS4-----A----	Obj
+37	.	Z:-------------	AuxK
+
+cmpr9407-040-p23s2
+1	To	PDNS1----------	Sb
+2	znamená	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vyšetření	NNNS4-----A----	Obj
+6	lékařem	NNMS7-----A----	Atr
+7	budete	VB-P---2F-AA---	AuxV
+8	muset	Vf--------A----	Obj
+9	v	RR--6----------	AuxP
+10	tomto	PDZS6----------	Atr
+11	případě	NNIS6-----A----	Adv
+12	hradit	Vf--------A----	Obj
+13	ze	RV--2----------	AuxP
+14	svého	P8ZS2----------	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9407-040-p24s1
+1	JUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	PhDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Oldřich	NNMS1-----A----	Atr
+6	Choděra	NNMS1-----A----	ExD
+
+cmpr9407-040-p25s1
+1	Odpovědi	NNFP4-----A----	Obj
+2	připravila	VpQW---XR-AA---	Pred
+3	:	Z:-------------	AuxG
+4	Advokátní	AAFS1----1A----	Atr
+5	a	J^-------------	Coord
+6	komerčněprávní	AAFS1----1A----	Atr
+7	kancelář	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	Národní	AAFS1----1A----	Atr
+10	25	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	Praha	NNFS1-----A----	Atr
+13	1	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	tel	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	+	Z:-------------	Coord
+18	FAX	NNIS1-----A----	Atr
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	02	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	242	C=-------------	Atr
+24	27845	C=-------------	Atr
+25	.	Z:-------------	AuxK
+

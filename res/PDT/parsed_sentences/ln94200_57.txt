@@ -1,0 +1,133 @@
+ln94200-57-p1s1
+1	Svobodná	AAFS1----1A----	Atr
+2	Evropa	NNFS1-----A----	ExD
+3	definitivně	Dg-------1A----	ExD
+4	do	RR--2----------	AuxP
+5	Prahy	NNFS2-----A----	ExD
+
+ln94200-57-p2s1A
+1	New	AAXXX----1A----	Atr
+2	York	NNIS1-----A----	ExD
+3	-	Z:-------------	AuxK
+
+ln94200-57-p2s1B
+1	Americká	AAFS1----1A----	Atr
+2	vláda	NNFS1-----A----	Sb
+3	a	J^-------------	Coord
+4	Kongres	NNIS1-----A----	Sb
+5	včera	Db-------------	Adv
+6	s	RR--7----------	AuxP
+7	definitivní	AAFS7----1A----	Atr
+8	platností	NNFS7-----A----	Adv
+9	schválily	VpTP---XR-AA---	Pred
+10	přesun	NNIS4-----A----	Obj
+11	rozhlasových	AAFP2----1A----	Atr
+12	stanic	NNFP2-----A----	Atr
+13	Svobodná	AAFS1----1A----	Atr
+14	Evropa	NNFS1-----A----	Atr
+15	a	J^-------------	Coord
+16	Svoboda	NNFS1-----A----	Atr
+17	do	RR--2----------	AuxP
+18	Prahy	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94200-57-p2s2
+1	Potvrdil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	výkonný	AAMS1----1A----	Atr
+4	ředitel	NNMS1-----A----	Atr
+5	americké	AAFS2----1A----	Atr
+6	Rady	NNFS2-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	mezinárodní	AANS4----1A----	Atr
+9	vysílání	NNNS4-----A----	Atr
+10	R	NNMXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	McBride	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94200-57-p2s3
+1	Z	RR--2----------	AuxP
+2	pohledu	NNIS2-----A----	Adv
+3	Washingtonu	NNIS2-----A----	Atr
+4	byly	VpTP---XR-AA---	AuxV
+5	všechny	PLFP1----------	Atr
+6	náležitosti	NNFP1-----A----	Sb
+7	vyřízeny	VsTP---XX-AP---	Pred
+8	.	Z:-------------	AuxK
+
+ln94200-57-p2s4
+1	Nyní	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	na	RR--6----------	AuxP
+4	řadě	NNFS6-----A----	Adv
+5	vedení	NNNS1-----A----	Sb
+6	rozhlasových	AAFP2----1A----	Atr
+7	stanic	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4NS1----------	Sb
+10	má	VB-S---3P-AA---	Atr
+11	vejít	Vf--------A----	Obj
+12	ve	RV--4----------	AuxP
+13	styk	NNIS4-----A----	Obj
+14	s	RR--7----------	AuxP
+15	příslušnými	AAIP7----1A----	Atr
+16	českými	AAIP7----1A----	Atr
+17	úřady	NNIP7-----A----	Atr
+18	a	J^-------------	Coord
+19	sjednat	Vf--------A----	Obj
+20	podmínky	NNFP4-----A----	Obj
+21	nájmu	NNIS2-----A----	Atr
+22	budovy	NNFS2-----A----	Atr
+23	bývalého	AAIS2----1A----	Atr
+24	federálního	AAIS2----1A----	Atr
+25	parlamentu	NNIS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	začít	Vf--------A----	Obj
+28	budovat	Vf--------A----	Obj
+29	studia	NNNP4-----A----	Obj
+30	a	J^-------------	Coord
+31	rádia	NNNP4-----A----	Obj
+32	přestěhovat	Vf--------A----	Obj
+33	.	Z:-------------	AuxK
+
+ln94200-57-p2s5
+1	Podle	RR--2----------	AuxP
+2	McBrida	NNMS2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	mělo	VpNS---XR-AA---	Pred
+5	být	Vf--------A----	Obj
+6	veškeré	PLNS1----------	Atr
+7	vysílání	NNNS1-----A----	Sb
+8	a	J^-------------	Coord
+9	naprostá	AAFS1----1A----	Atr
+10	většina	NNFS1-----A----	Sb
+11	činnosti	NNFS2-----A----	Atr
+12	rádií	NNNP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Praze	NNFS6-----A----	Adv
+15	do	RR--2----------	AuxP
+16	června	NNIS2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94200-57-p2s6
+1	Kongres	NNIS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	stěhování	NNNS4-----A----	Adv
+4	určil	VpYS---XR-AA---	Pred
+5	částku	NNFS4-----A----	Obj
+6	19	C=-------------	Atr
+7	miliónů	NNIP2-----A----	Atr
+8	dolarů	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	na	RR--4----------	AuxP
+12	zahraniční	AANS4----1A----	Atr
+13	vysílání	NNNS4-----A----	ExD
+14	celkem	Db-------------	AuxZ
+15	asi	TT-------------	AuxZ
+16	230	C=-------------	ExD
+17	miliónů	NNIP2-----A----	Atr
+18	dolarů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+

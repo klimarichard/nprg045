@@ -1,0 +1,188 @@
+mf920925-114-p1s1A
+1	Šéf	NNMS1-----A----	Sb
+2	bývalé	AAFS2----1A----	Atr
+3	tajné	AAFS2----1A----	Atr
+4	služby	NNFS2-----A----	Atr
+5	NDR	NNFXX-----A---8	Atr
+6	byl	VpYS---XR-AA---	AuxV
+7	obžalován	VsYS---XX-AP---	Pred
+8	z	RR--2----------	AuxP
+9	vlastizrady	NNFS2-----A----	Obj
+
+mf920925-114-p1s1B
+1	HROZÍ	VB-S---3P-AA---	Pred
+2	MU	PHZS3--3-------	Obj
+3	AŽ	TT-------------	AuxZ
+4	PATNÁCT	Cn-S1----------	Sb
+5	LET	NNNP2-----A----	Atr
+6	VĚZENÍ	NNNS2-----A----	Atr
+
+mf920925-114-p2s1
+1	Berlín	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920925-114-p2s2
+1	Šéf	NNMS1-----A----	Atr
+2	bývalé	AAFS2----1A----	Atr
+3	východoněmecké	AAFS2----1A----	Atr
+4	tajné	AAFS2----1A----	Atr
+5	služby	NNFS2-----A----	Atr
+6	Markus	NNMS1-----A----	Atr
+7	Wolf	NNMS1-----A----	Sb
+8	byl	VpYS---XR-AA---	AuxV
+9	obžalován	VsYS---XX-AP---	Pred
+10	z	RR--2----------	AuxP
+11	vlastizrady	NNFS2-----A----	Obj
+12	.	Z:-------------	AuxK
+
+mf920925-114-p2s3
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ve	RV--6----------	AuxP
+5	svém	P8ZS6----------	Atr
+6	úřadě	NNIS6-----A----	Adv
+7	v	RR--6----------	AuxP
+8	Karlsruhe	NNNXX-----A----	AtrAdv
+9	spolkový	AAMS1----1A----	Atr
+10	prokurátor	NNMS1-----A----	Atr
+11	Alexandr	NNMS1-----A----	Atr
+12	von	RR--X----------	Atr
+13	Stahl	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf920925-114-p3s1
+1	Wolf	NNMS1-----A----	Sb
+2	(	Z:-------------	ExD
+3	69	C=-------------	ExD
+4	)	Z:-------------	ExD
+5	byl	VpYS---XR-AA---	AuxV
+6	obviněn	VsYS---XX-AP---	Pred
+7	z	RR--2----------	AuxP
+8	toho	PDZS2----------	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	řídil	VpYS---XR-AA---	Atr
+12	činnost	NNFS4-----A----	Obj
+13	nejméně	Dg-------3A----	AuxZ
+14	12	C=-------------	Atr
+15	agentů	NNMP2-----A----	Atr
+16	pracujících	AGMP2-----A----	Atr
+17	proti	RR--3----------	AuxP
+18	Bonnu	NNIS3-----A----	Adv
+19	.	Z:-------------	AuxK
+
+mf920925-114-p3s2
+1	Jedním	ClZS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	byl	VpYS---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	špión	NNMS1-----A----	Atr
+7	Günter	NNMS1-----A----	Atr
+8	Guillaume	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	pracoval	VpYS---XR-AA---	Atr
+12	jako	J,-------------	AuxY
+13	poradce	NNMS1-----A----	Atv
+14	bývalého	AAMS2----1A----	Atr
+15	západoněmeckého	AAMS2----1A----	Atr
+16	kancléře	NNMS2-----A----	Atr
+17	Willyho	NNMS2-----A----	Atr
+18	Brandta	NNMS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920925-114-p4s1
+1	Kvůli	RR--3----------	AuxP
+2	skandálu	NNIS3-----A----	Adv
+3	kolem	RR--2----------	AuxP
+4	tohoto	PDZS2----------	Atr
+5	případu	NNIS2-----A----	Atr
+6	musel	VpYS---XR-AA---	Pred
+7	Brandt	NNMS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	roce	NNIS6-----A---1	Adv
+10	1974	C=-------------	Atr
+11	odstoupit	Vf--------A----	Obj
+12	.	Z:-------------	AuxK
+
+mf920925-114-p5s1
+1	Legendární	AAMS1----1A----	Atr
+2	šéf	NNMS1-----A----	Sb
+3	tajné	AAFS2----1A----	Atr
+4	služby	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	považované	AAFS2----1A----	Atr
+7	za	RR--4----------	AuxP
+8	nejlepší	AAFS4----3A----	Obj
+9	v	RR--6----------	AuxP
+10	komunistickém	AAIS6----1A----	Atr
+11	světě	NNIS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	byl	VpYS---XR-AA---	AuxV
+14	rovněž	Db-------------	Adv
+15	obviněn	VsYS---XX-AP---	Pred
+16	z	RR--2----------	AuxP
+17	úplatkářství	NNNS2-----A----	Obj
+18	.	Z:-------------	AuxK
+
+mf920925-114-p6s1
+1	Wolf	NNMS1-----A----	Sb
+2	po	RR--6----------	AuxP
+3	sjednocení	NNNS6-----A----	Adv
+4	Německa	NNNS2-----A----	Atr
+5	uprchl	VpYS---XR-AA--1	Pred
+6	do	RR--2----------	AuxP
+7	Moskvy	NNFS2-----A----	Adv
+8	a	J^-------------	Coord
+9	později	Dg-------2A----	Adv
+10	se	P7-X4----------	AuxT
+11	vrátil	VpYS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+mf920925-114-p6s2
+1	Při	RR--6----------	AuxP
+2	návratu	NNIS6-----A----	Adv
+3	byl	VpYS---XR-AA---	AuxV
+4	přesně	Dg-------1A----	AuxZ
+5	před	RR--7----------	AuxP
+6	rokem	NNIS7-----A----	Adv
+7	(	Z:-------------	Apos
+8	24	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	9	C=-------------	Adv
+11	.	Z:-------------	AuxG
+12	1991	C=-------------	Atr
+13	)	Z:-------------	AuxG
+14	zatčen	VsYS---XX-AP---	Pred
+15	.	Z:-------------	AuxK
+
+mf920925-114-p7s1
+1	Bude	VB-S---3F-AA---	AuxV
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	Wolf	NNMS1-----A----	Sb
+5	usvědčen	VsYS---XX-AP---	Adv
+6	,	Z:-------------	AuxX
+7	hrozí	VB-S---3P-AA---	Pred
+8	mu	PHZS3--3-------	Obj
+9	trest	NNIS1-----A----	Sb
+10	odnětí	NNNS2-----A----	Atr
+11	svobody	NNFS2-----A----	Atr
+12	až	TT-------------	AuxZ
+13	na	RR--4----------	AuxP
+14	15	C=-------------	Atr
+15	let	NNNP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920925-114-p7s2
+1	Datum	NNNS1-----A----	Sb
+2	soudního	AAIS2----1A----	Atr
+3	procesu	NNIS2-----A----	Atr
+4	ale	J^-------------	AuxY
+5	zatím	Db-------------	Adv
+6	nebylo	VpNS---XR-NA---	AuxV
+7	oznámeno	VsNS---XX-AP---	Pred
+8	.	Z:-------------	AuxK
+

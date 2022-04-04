@@ -1,0 +1,275 @@
+ln95045-023-p1s1
+1	Lodníci	NNMP1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	přijdou	VB-P---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	více	Ca--4----------	Obj
+6	peněz	NNIP2-----A----	Atr
+7	než	J,-------------	AuxC
+8	železničáři	NNMP1-----A----	ExD
+
+ln95045-023-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-023-p2s1B
+1	Průměrná	AAFS1----1A----	Atr
+2	měsíční	AAFS1----1A----	Atr
+3	mzda	NNFS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	dopravě	NNFS6-----A----	AtrAdv
+6	dosáhla	VpQW---XR-AA---	Pred
+7	loni	Db------------1	Adv
+8	v	RR--6----------	AuxP
+9	prosinci	NNIS6-----A----	Adv
+10	7777	C=-------------	Atr
+11	korun	NNFP2-----A----	Obj
+12	,	Z:-------------	Coord
+13	což	PE--1----------	Sb
+14	bylo	VpNS---XR-AA---	Pred
+15	o	RR--4----------	AuxP
+16	19.1	C=-------------	Adv
+17	procenta	NNNS2-----A----	Atr
+18	více	Dg-------2A----	Adv
+19	než	J,-------------	AuxC
+20	o	RR--4----------	AuxP
+21	rok	NNIS4-----A----	Adv
+22	dříve	Dg-------2A----	ExD
+23	.	Z:-------------	AuxK
+
+ln95045-023-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	Český	AAIS1----1A----	Atr
+4	statistický	AAIS1----1A----	Atr
+5	úřad	NNIS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+ln95045-023-p3s1
+1	Nejvíce	Dg-------3A----	Adv
+2	si	P7-X3----------	Adv
+3	vydělali	VpMP---XR-AA---	Pred
+4	lodníci	NNMP1-----A----	Sb
+5	na	RR--6----------	AuxP
+6	řekách	NNFP6-----A----	Adv
+7	(	Z:-------------	AuxG
+8	8504	C=-------------	Obj
+9	Kč	NNFXX-----A----	Atr
+10	)	Z:-------------	AuxG
+11	,	Z:-------------	Coord
+12	po	RR--6----------	AuxP
+13	nich	P5XP6--3-------	Adv
+14	následovali	VpMP---XR-AA---	Pred
+15	železničáři	NNMP1-----A----	Sb
+16	(	Z:-------------	ExD
+17	7973	C=-------------	ExD
+18	Kč	NNFXX-----A----	Atr
+19	)	Z:-------------	ExD
+20	a	J^-------------	Coord
+21	dále	Db------------1	ExD
+22	lidi	NNMP1-----A----	ExD
+23	v	RR--6----------	AuxP
+24	silniční	AAFS6----1A----	Atr
+25	ČSAD	NNFXX-----A---8	Atr
+26	(	Z:-------------	ExD
+27	7277	C=-------------	ExD
+28	Kč	NNFXX-----A----	Atr
+29	)	Z:-------------	ExD
+30	.	Z:-------------	AuxK
+
+ln95045-023-p3s2
+1	Dopraváci	NNMP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	soukromém	AAIS6----1A----	Atr
+4	sektoru	NNIS6-----A----	Atr
+5	brali	VpMP---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	průměru	NNIS6-----A----	Adv
+8	o	RR--4----------	AuxP
+9	něco	PZ--4----------	Adv
+10	málo	NNNS4-----A----	Atr
+11	více	Dg-------2A----	Obj
+12	(	Z:-------------	ExD
+13	7344	C=-------------	ExD
+14	Kč	NNFXX-----A----	Atr
+15	)	Z:-------------	ExD
+16	než	J,-------------	AuxC
+17	jejich	PSXXXXP3-------	Atr
+18	kolegové	NNMP1-----A----	ExD
+19	ve	RV--6----------	AuxP
+20	státních	AAIP6----1A----	Atr
+21	podnicích	NNIP6-----A----	Atr
+22	(	Z:-------------	ExD
+23	7296	C=-------------	ExD
+24	Kč	NNFXX-----A----	Atr
+25	)	Z:-------------	ExD
+26	.	Z:-------------	AuxK
+
+ln95045-023-p4s1
+1	Statisticky	Dg-------1A----	Adv
+2	sledovaná	AAFS1----1A----	Atr
+3	průměrná	AAFS1----1A----	Atr
+4	měsíční	AAFS1----1A----	Atr
+5	mzda	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	průmyslu	NNIS6-----A----	Atr
+8	činila	VpQW---XR-AA---	Pred
+9	loni	Db------------1	Adv
+10	v	RR--6----------	AuxP
+11	prosinci	NNIS6-----A----	Adv
+12	7781	C=-------------	Obj
+13	korun	NNFP2-----A----	Atr
+14	a	J^-------------	Coord
+15	ve	RV--6----------	AuxP
+16	stavebnictví	NNNS6-----A----	ExD
+17	8925	C=-------------	ExD
+18	Kč	NNFXX-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95045-023-p4s2
+1	V	RR--6----------	AuxP
+2	prvním	CrIS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	šlo	VpNS---XR-AA---	Pred
+5	o	RR--4----------	AuxP
+6	meziroční	AAIS4----1A----	Atr
+7	nárůst	NNIS4-----A----	Obj
+8	o	RR--4----------	AuxP
+9	16.5	C=-------------	Atr
+10	procenta	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	ve	RV--6----------	AuxP
+13	druhém	CrIS6----------	ExD
+14	o	RR--4----------	AuxP
+15	15.8	C=-------------	ExD
+16	procenta	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95045-023-p5s1
+1	Jak	J,-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	zjistili	VpMP---XR-AA---	Adv
+4	z	RR--2----------	AuxP
+5	porovnání	NNNS2-----A----	Adv
+6	ukazatelů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	vývoj	NNIS1-----A----	Sb
+9	mezd	NNFP2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	dopravě	NNFS6-----A----	Atr
+12	neodpovídá	VB-S---3P-NA---	Pred
+13	výkonům	NNIP3-----A----	Obj
+14	(	Z:-------------	ExD
+15	tuny	NNFP1-----A----	ExD
+16	krát	J*-------------	Coord
+17	kilometry	NNIP1-----A----	ExD
+18	)	Z:-------------	ExD
+19	jednotlivých	AAIP2----1A----	Atr
+20	oborů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-023-p5s2
+1	V	RR--6----------	AuxP
+2	říční	AAFS6----1A----	Atr
+3	dopravě	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	roce	NNIS6-----A---1	Adv
+7	1994	C=-------------	Atr
+8	snížil	VpYS---XR-AA---	Pred
+9	výkon	NNIS1-----A----	Sb
+10	ve	RV--6----------	AuxP
+11	srovnání	NNNS6-----A----	AuxP
+12	s	RR--7----------	AuxP
+13	předchozím	AAIS7----1A----	Atr
+14	rokem	NNIS7-----A----	Adv
+15	o	RR--4----------	AuxP
+16	6.1	C=-------------	Adv
+17	procenta	NNNS2-----A----	Atr
+18	a	J^-------------	Coord
+19	na	RR--6----------	AuxP
+20	železnici	NNFS6-----A----	ExD
+21	o	RR--4----------	AuxP
+22	4.7	C=-------------	ExD
+23	procenta	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95045-023-p5s3
+1	Ve	RV--6----------	AuxP
+2	veřejné	AAFS6----1A----	Atr
+3	silniční	AAFS6----1A----	Atr
+4	dopravě	NNFS6-----A----	Adv
+5	naopak	Db-------------	Adv
+6	výkon	NNIS1-----A----	Sb
+7	vzrostl	VpYS---XR-AA---	Pred
+8	o	RR--4----------	AuxP
+9	30.7	C=-------------	Adv
+10	procenta	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95045-023-p5s4
+1	To	PDNS1----------	Sb
+2	ovšem	J^-------------	Coord
+3	neznamená	VB-S---3P-NA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	příslušné	AAIP1----1A----	Atr
+7	podniky	NNIP1-----A----	Sb
+8	nemohou	VB-P---3P-NA--1	Obj
+9	v	RR--6----------	AuxP
+10	důsledku	NNIS6-----A----	AuxP
+11	úspory	NNFS2-----A----	Adv
+12	nákladů	NNIP2-----A----	Atr
+13	nebo	J^-------------	Coord
+14	růstu	NNIS2-----A----	Adv
+15	cen	NNFP2-----A----	Atr
+16	zvyšovat	Vf--------A----	Obj
+17	mzdy	NNFP4-----A----	Obj
+18	svých	P8XP2----------	Atr
+19	pracovníků	NNMP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-023-p6s1
+1	Celková	AAFS1----1A----	Atr
+2	průmyslová	AAFS1----1A----	Atr
+3	produkce	NNFS1-----A----	Sb
+4	včetně	RR--2----------	AuxP
+5	malých	AAIP2----1A----	Atr
+6	podniků	NNIP2-----A----	Atr
+7	a	J^-------------	Coord
+8	živnostníků	NNMP2-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	podle	RR--2----------	AuxP
+11	odhadu	NNIS2-----A----	Adv
+12	Českého	AAIS2----1A----	Atr
+13	statistického	AAIS2----1A----	Atr
+14	úřadu	NNIS2-----A----	Atr
+15	loni	Db------------1	Adv
+16	zvýšila	VpQW---XR-AA---	Pred
+17	o	RR--4----------	AuxP
+18	2.3	C=-------------	Adv
+19	procenta	NNNS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	zatímco	J,-------------	AuxC
+22	v	RR--6----------	AuxP
+23	podnicích	NNIP6-----A----	Adv
+24	s	RR--7----------	AuxP
+25	25	C=-------------	Atr
+26	a	J^-------------	Coord
+27	více	Dg-------2A----	Atr
+28	zaměstnanci	NNMP7-----A----	Atr
+29	stagnovala	VpQW---XR-AA---	Adv
+30	.	Z:-------------	AuxK
+
+ln95045-023-p6s2
+1	Ve	RV--6----------	AuxP
+2	stavebnictví	NNNS6-----A----	Adv
+3	činily	VpTP---XR-AA---	Pred
+4	obdobné	AAIP1----1A----	Atr
+5	ukazatele	NNIP1-----A----	Sb
+6	7.5	C=-------------	Obj
+7	a	J^-------------	Coord
+8	6	C=-------------	Obj
+9	procent	NNNP2-----A----	Atr
+10	.	Z:-------------	AuxK
+

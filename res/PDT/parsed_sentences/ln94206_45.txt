@@ -1,0 +1,292 @@
+ln94206-45-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln94206-45-p2s1
+1	Na	RR--4----------	AuxP
+2	přízemní	AAIS4----1A----	Atr
+3	letecký	AAIS4----1A----	Atr
+4	den	NNIS4-----A----	Adv
+5	při	RR--6----------	AuxP
+6	příležitosti	NNFS6-----A----	AuxP
+7	otevření	NNNS2-----A----	Atr
+8	Pilot	AAXXX----1A----	Atr
+9	klubu	NNIS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Kněževsi	NNFS6-----A----	Atr
+12	u	RR--2----------	AuxP
+13	Prahy	NNFS2-----A----	Atr
+14	zve	VB-S---3P-AA---	Pred
+15	v	RR--4----------	AuxP
+16	sobotu	NNFS4-----A----	Adv
+17	10	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	září	NNNS2-----A----	Atr
+20	od	RR--2----------	AuxP
+21	10	C=-------------	ExD
+22	do	RR--2----------	AuxP
+23	13	C=-------------	Atr
+24	hodin	NNFP2-----A----	Adv
+25	Blesk	AAXXX----1A----	Atr
+26	magazín	NNIS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+ln94206-45-p2s2
+1	Můžete	VB-P---2P-AA---	Pred
+2	mj	Db------------8	Adv
+3	.	Z:-------------	AuxG
+4	zhlédnout	Vf--------A----	Obj
+5	módní	AAFS4----1A----	Atr
+6	přehlídku	NNFS4-----A----	Obj
+7	,	Z:-------------	Coord
+8	autosalon	NNIS4-----A----	Obj
+9	a	J^-------------	Coord
+10	zúčastnit	Vf--------A----	Obj
+11	se	P7-X4----------	AuxT
+12	několika	Ca--2----------	Atr
+13	soutěží	NNFP2-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94206-45-p3s1
+1	Soukromá	AAFS1----1A----	Atr
+2	speciální	AAFS1----1A----	Atr
+3	škola	NNFS1-----A----	Sb
+4	pro	RR--4----------	AuxP
+5	tělesně	Dg-------1A----	Adv
+6	postižené	AAMP4----1A----	Atr
+7	v	RR--6----------	AuxP
+8	českobudějovickém	AANS6----1A----	Atr
+9	Dětském	AANS6----1A----	Atr
+10	centru	NNNS6-----A----	Atr
+11	Arpida	NNFS1-----A----	Atr
+12	zahájila	VpQW---XR-AA---	Pred
+13	včera	Db-------------	Adv
+14	svůj	P8IS4----------	Atr
+15	první	CrIS4----------	Atr
+16	školní	AAIS4----1A----	Atr
+17	rok	NNIS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln94206-45-p3s2
+1	Zároveň	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	rozšiřuje	VB-S---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	další	AAFS4----1A----	Atr
+6	třídu	NNFS4-----A----	Adv
+7	i	J^-------------	AuxZ
+8	mateřská	AAFS1----1A----	Atr
+9	škola	NNFS1-----A----	Sb
+10	pro	RR--4----------	AuxP
+11	handicapované	AAFP4----1A----	Atr
+12	děti	NNFP4-----A----	Atr
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	zde	Db-------------	Adv
+16	byla	VpQW---XR-AA---	AuxV
+17	otevřena	VsQW---XX-AP---	Atr
+18	v	RR--6----------	AuxP
+19	únoru	NNIS6-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94206-45-p4s1
+1	Gymnázium	NNNS1-----A----	Sb
+2	Mensy	NNFS2-----A----	Atr
+3	ČR	NNFXX-----A---8	Atr
+4	pro	RR--4----------	AuxP
+5	intelektově	Dg-------1A----	Adv
+6	výrazně	Dg-------1A----	Adv
+7	nadprůměrné	AAFP4----1A----	Atr
+8	děti	NNFP4-----A----	Atr
+9	včera	Db-------------	Adv
+10	zahájilo	VpNS---XR-AA---	Pred
+11	výuku	NNFS4-----A----	Obj
+12	na	RR--6----------	AuxP
+13	nádvoří	NNNS6-----A----	Adv
+14	Pražského	AAIS2----1A----	Atr
+15	hradu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94206-45-p4s2
+1	Studenti	NNMP1-----A----	Sb
+2	se	RV--7----------	AuxP
+3	svými	P8XP7----------	Atr
+4	učiteli	NNMP7-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	tak	Db-------------	Adv
+7	rozhodli	VpMP---XR-AA--1	Pred
+8	upozornit	Vf--------A----	Obj
+9	na	RR--4----------	AuxP
+10	to	PDNS4----------	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	nemají	VB-P---3P-NA---	Atr
+14	budovu	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	kde	Db-------------	Adv
+17	by	Vc-------------	AuxV
+18	se	P7-X4----------	AuxT
+19	mohli	VpMP---XR-AA---	Atr
+20	učit	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94206-45-p5s1
+1	Dobré	AAFP1----1A----	Atr
+2	znalosti	NNFP1-----A----	Sb
+3	a	J^-------------	Coord
+4	obsáhlé	AANS4----1A----	Atr
+5	vědění	NNNS1-----A----	Sb
+6	mají	VB-P---3P-AA---	Pred
+7	častěji	Dg-------2A----	Adv
+8	větší	AAIS4----2A----	Atr
+9	význam	NNIS4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	ženy	NNFP4-----A----	Atr
+12	než	J,-------------	AuxC
+13	pro	RR--4----------	AuxP
+14	muže	NNMP4-----A----	ExD
+15	.	Z:-------------	AuxK
+
+ln94206-45-p5s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	výzkumu	NNIS2-----A----	Obj
+5	Institutu	NNIS2-----A----	Atr
+6	dětí	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	mládeže	NNFS2-----A----	Atr
+9	ministerstva	NNNS2-----A----	Atr
+10	školství	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	ve	RV--6----------	AuxP
+13	kterém	P4ZS6----------	Adv
+14	bylo	VpNS---XR-AA---	AuxV
+15	dotázáno	VsNS---XX-AP---	Atr
+16	758	C=-------------	Sb
+17	mladých	AAMP2----1A----	Atr
+18	lidí	NNMP2-----A----	Atr
+19	ve	RV--6----------	AuxP
+20	věku	NNIS6-----A----	Atr
+21	mezi	RR--7----------	AuxP
+22	15	C=-------------	Atr
+23	a	J^-------------	Coord
+24	29	C=-------------	Atr
+25	lety	NNNP7-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94206-45-p6s1A
+1	Oprava	NNFS1-----A----	ExD
+
+ln94206-45-p6s1B
+1	Ve	RV--6----------	AuxP
+2	včerejších	AAFP6----1A----	Atr
+3	LN	NNFPX-----A---8	Adv
+4	v	RR--6----------	AuxP
+5	článku	NNIS6-----A----	Adv
+6	Pro	RR--4----------	AuxP
+7	peníze	NNIP4-----A----	Adv
+8	se	P7-X4----------	AuxR
+9	bude	VB-S---3F-AA---	AuxV
+10	chodit	Vf--------A----	Atr
+11	na	RR--4----------	AuxP
+12	poštu	NNFS4-----A----	Adv
+13	jsme	VB-P---1P-AA---	AuxV
+14	omylem	NNIS7-----A----	Adv
+15	uveřejnili	VpMP---XR-AA---	Pred
+16	některé	PZFP4----------	Atr
+17	chybné	AAFP4----1A----	Atr
+18	informace	NNFP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94206-45-p6s2
+1	Text	NNIS1-----A----	Sb
+2	měl	VpYS---XR-AA---	Pred
+3	znít	Vf--------A----	Obj
+4	:	Z:-------------	AuxG
+5	Pošta	NNFS1-----A----	Sb
+6	problém	NNIS4-----A----	Obj
+7	front	NNFP2-----A----	Atr
+8	u	RR--2----------	AuxP
+9	přepážek	NNFP2-----A----	Atr
+10	řeší	VB-S---3P-AA---	Adv
+11	výrazným	AANS7----1A----	Atr
+12	zvýšením	NNNS7-----A----	Adv
+13	platů	NNIP2-----A----	Atr
+14	vybraných	AAFP2----1A----	Atr
+15	skupin	NNFP2-----A----	Atr
+16	provozních	AAMP2----1A----	Atr
+17	zaměstnanců	NNMP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	ke	RV--3----------	AuxP
+20	kterému	P4ZS3----------	Obj
+21	došlo	VpNS---XR-AA---	Atr
+22	k	RR--3----------	AuxP
+23	1	C=-------------	Atr
+24	.	Z:-------------	AuxG
+25	7	C=-------------	Adv
+26	.	Z:-------------	AuxG
+27	t	PDXXX---------8	Atr
+28	.	Z:-------------	AuxG
+29	r	NNIXX-----A---8	Atr
+30	.	Z:-------------	AuxG
+
+ln94206-45-p6s3
+1	Prostředky	NNIP4-----A----	Obj
+2	zvýšení	NNNS2-----A----	Atr
+3	platů	NNIP2-----A----	Atr
+4	pošta	NNFS1-----A----	Sb
+5	získá	VB-S---3P-AA---	Pred
+6	úsporou	NNFS7-----A----	Adv
+7	v	RR--6----------	AuxP
+8	ostatních	AAFP6----1A----	Atr
+9	nákladových	AAFP6----1A----	Atr
+10	položkách	NNFP6-----A----	Atr
+11	a	J^-------------	Coord
+12	zvýšením	NNNS7-----A----	Adv
+13	tržeb	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+15	.	Z:-------------	AuxK
+16	.	Z:-------------	AuxK
+
+ln94206-45-p6s4
+1	Platy	NNIP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	důchody	NNIP1-----A----	Sb
+4	ani	J^-------------	Coord
+5	poukázky	NNFP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	které	P4FP1----------	Sb
+8	přesáhnou	VB-P---3P-AA---	Atr
+9	limit	NNIS4-----A----	Obj
+10	5000	C=-------------	Atr
+11	Kč	NNFXX-----A----	Atr
+12	,	Z:-------------	AuxX
+13	se	P7-X4----------	AuxR
+14	ode	RV--2----------	AuxP
+15	dneška	NNIS2-----A----	Adv
+16	nebudou	VB-P---3F-NA---	AuxV
+17	doručovat	Vf--------A----	Pred
+18	do	RR--2----------	AuxP
+19	bytů	NNIP2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94206-45-p6s5
+1	Adresát	NNMS1-----A----	Sb
+2	si	P7-X3----------	Adv
+3	je	PPXP4--3-------	Obj
+4	bude	VB-S---3F-AA---	AuxV
+5	muset	Vf--------A----	Pred
+6	vyzvednout	Vf--------A----	Obj
+7	na	RR--6----------	AuxP
+8	poště	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln94206-45-p6s6
+1	Toto	PDNS1----------	Atr
+2	opatření	NNNS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	netýká	VB-S---3P-NA---	Pred
+5	oblasti	NNFS2-----A----	Obj
+6	Prahy	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+

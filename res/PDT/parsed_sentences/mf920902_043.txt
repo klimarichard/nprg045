@@ -1,0 +1,148 @@
+mf920902-043-p1s1
+1	Novela	NNFS1-----A----	ExD
+2	vyhlášky	NNFS2-----A----	Atr
+3	o	RR--6----------	AuxP
+4	katalyzátorech	NNIP6-----A----	Atr
+
+mf920902-043-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	sob	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920902-043-p2s2
+1	Takzvaná	AAFS1----1A----	Atr
+2	katalyzátorová	AAFS1----1A----	Atr
+3	vyhláška	NNFS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	má	VB-S---3P-AA---	Atr
+7	v	RR--6----------	AuxP
+8	Praze	NNFS6-----A----	Adv
+9	začít	Vf--------A----	Obj
+10	platit	Vf--------A----	Obj
+11	od	RR--2----------	AuxP
+12	1	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	října	NNIS2-----A----	Adv
+15	letošního	AAIS2----1A----	Atr
+16	roku	NNIS2-----A---1	Atr
+17	,	Z:-------------	AuxX
+18	by	Vc-------------	AuxV
+19	měla	VpQW---XR-AA---	Pred
+20	být	Vf--------A----	AuxV
+21	-	Z:-------------	AuxG
+22	pokud	J,-------------	AuxC
+23	změny	NNFP4-----A----	Obj
+24	včas	Db-------------	Adv
+25	schválí	VB-S---3P-AA---	Adv
+26	rada	NNFS1-----A----	Sb
+27	městského	AANS2----1A----	Atr
+28	zastupitelstva	NNNS2-----A----	Atr
+29	-	Z:-------------	AuxG
+30	ještě	Db-------------	AuxZ
+31	před	RR--7----------	AuxP
+32	tímto	PDZS7----------	Atr
+33	datem	NNNS7-----A----	Adv
+34	novelizována	VsQW---XX-AP---	Obj
+35	.	Z:-------------	AuxK
+
+mf920902-043-p2s3
+1	Na	RR--6----------	AuxP
+2	včerejším	AANS6----1A----	Atr
+3	zasedání	NNNS6-----A----	Adv
+4	pracovní	AAFS2----1A----	Atr
+5	skupiny	NNFS2-----A----	Atr
+6	magistrátu	NNIS2-----A----	Atr
+7	byl	VpYS---XR-AA---	AuxV
+8	formulován	VsYS---XX-AP---	Pred
+9	návrh	NNIS1-----A----	Sb
+10	nového	AANS2----1A----	Atr
+11	znění	NNNS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	podle	RR--2----------	AuxP
+14	něhož	P9ZS2----------	Adv
+15	se	P7-X4----------	AuxR
+16	vnitřní	AAFS1----1A----	Atr
+17	zóna	NNFS1-----A----	Sb
+18	vymezená	AAFS1----1A----	Atr
+19	magistrálou	NNFS7-----A----	Adv
+20	,	Z:-------------	AuxX
+21	nábřežím	NNNS7-----A----	Adv
+22	a	J^-------------	Coord
+23	ulicemi	NNFP7-----A----	Adv
+24	Žitnou	AAFS7----1A----	Atr
+25	a	J^-------------	Coord
+26	Resslovou	AUFS7M---------	Atr
+27	nebude	VB-S---3F-NA---	AuxV
+28	ustavovat	Vf--------A----	Atr
+29	.	Z:-------------	AuxK
+
+mf920902-043-p2s4
+1	Zde	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	byly	VpTP---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	podle	RR--2----------	AuxP
+6	dosavadního	AAIS2----1A----	Atr
+7	návrhu	NNIS2-----A----	Adv
+8	,	Z:-------------	AuxX
+9	na	RR--4----------	AuxP
+10	vybavenost	NNFS4-----A----	Atr
+11	vozidel	NNNP2-----A----	Atr
+12	katalyzátory	NNIP7-----A----	Atr
+13	téměř	Db-------------	AuxZ
+14	nereálné	AAIP1----1N----	Atr
+15	požadavky	NNIP1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+mf920902-043-p2s5
+1	Navrhuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	zrušit	Vf--------A----	Sb
+4	i	J^-------------	AuxZ
+5	odstavec	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	má	VB-S---3P-AA---	Atr
+9	do	RR--2----------	AuxP
+10	vyhlášky	NNFS2-----A----	Adv
+11	zahrnout	Vf--------A----	Obj
+12	kromě	RR--2----------	AuxP
+13	právnických	AAFP2----1A----	Atr
+14	osob	NNFP2-----A----	Adv
+15	také	Db-------------	AuxZ
+16	fyzické	AAFP4----1A----	Atr
+17	osoby	NNFP4-----A----	Obj
+18	během	RR--2----------	AuxP
+19	příštího	AAIS2----1A----	Atr
+20	roku	NNIS2-----A---1	Adv
+21	.	Z:-------------	AuxK
+
+mf920902-043-p2s6
+1	Plnění	NNNS1-----A----	Sb
+2	limitů	NNIP2-----A----	Atr
+3	kouřivosti	NNFS2-----A----	Atr
+4	naftových	AAIP2----1A----	Atr
+5	motorů	NNIP2-----A----	Atr
+6	má	VB-S---3P-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	kontrolováno	VsNS---XX-AP---	Obj
+9	podle	RR--2----------	AuxP
+10	nové	AAFS2----1A----	Atr
+11	přesné	AAFS2----1A----	Atr
+12	metodiky	NNFS2-----A----	Adv
+13	.	Z:-------------	AuxK
+
+mf920902-043-p2s7
+1	Návrh	NNIS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	předložen	VsYS---XX-AP---	Pred
+4	k	RR--3----------	AuxP
+5	vyjádření	NNNS3-----A----	Adv
+6	starostům	NNMP3-----A----	Obj
+7	městských	AAFP2----1A----	Atr
+8	částí	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+

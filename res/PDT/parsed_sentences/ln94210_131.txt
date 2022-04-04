@@ -1,0 +1,523 @@
+ln94210-131-p1s1
+1	Evropská	AAFS1----1A----	Atr
+2	kvalifikace	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	rozjíždí	VB-S---3P-AA---	Pred
+
+ln94210-131-p2s1A
+1	Dnes	Db-------------	ExD
+2	další	AAFP1----1A----	Atr
+3	úvodní	AAFP1----1A----	Atr
+4	zastávky	NNFP1-----A----	ExD
+5	na	RR--6----------	AuxP
+6	cestě	NNFS6-----A----	Atr
+7	k	RR--3----------	AuxP
+8	fotbalovému	AANS3----1A----	Atr
+9	ME	NNNXX-----A---8	Atr
+10	1996	C=-------------	Atr
+11	v	RR--6----------	AuxP
+12	Anglii	NNFS6-----A----	Atr
+
+ln94210-131-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94210-131-p2s1C
+1	Po	RR--6----------	AuxP
+2	čtyřech	ClXP6----------	Atr
+3	předehrávkách	NNFP6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	dnes	Db-------------	Adv
+6	rozjede	VB-S---3P-AA---	Pred
+7	kvalifikace	NNFS1-----A----	Sb
+8	pro	RR--4----------	AuxP
+9	fotbalové	AANS4----1A----	Atr
+10	ME	NNNXX-----A---8	Atr
+11	v	RR--6----------	AuxP
+12	Anglii	NNFS6-----A----	Atr
+13	na	RR--4----------	AuxP
+14	plné	AAFP4----1A----	Atr
+15	obrátky	NNFP4-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94210-131-p3s1
+1	Obhájce	NNMS1-----A----	Sb
+2	titulu	NNIS2-----A----	Atr
+3	nemá	VB-S---3P-NA---	Pred
+4	na	RR--4----------	AuxP
+5	rozdíl	NNIS4-----A----	AuxP
+6	od	RR--2----------	AuxP
+7	MS	NNNXX-----A---8	Adv
+8	postup	NNIS4-----A----	Obj
+9	předem	Db-------------	Adv
+10	zajištěn	VsYS---XX-AP---	Atv
+11	a	J^-------------	Coord
+12	Dány	NNMP4-----A----	Obj
+13	čeká	VB-S---3P-AA---	Pred
+14	na	RR--4----------	AuxP
+15	úvod	NNIS4-----A----	Adv
+16	náročná	AAFS1----1A----	Atr
+17	prověrka	NNFS1-----A----	Sb
+18	ve	RV--6----------	AuxP
+19	Skopji	NNFS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94210-131-p3s2
+1	Vždyť	J^-------------	Coord
+2	v	RR--6----------	AuxP
+3	makedonském	AAIS6----1A----	Atr
+4	dresu	NNIS6-----A---1	Adv
+5	by	Vc-------------	AuxV
+6	se	P7-X4----------	AuxT
+7	měl	VpYS---XR-AA---	Pred
+8	objevit	Vf--------A----	Obj
+9	i	J^-------------	AuxZ
+10	někdejší	AAMS1----1A----	Atr
+11	majitel	NNMS1-----A----	Atr
+12	Zlaté	AAFS2----1A----	Atr
+13	kopačky	NNFS2-----A----	Atr
+14	a	J^-------------	Coord
+15	v	RR--6----------	AuxP
+16	současné	AAFS6----1A----	Atr
+17	době	NNFS6-----A----	Atr
+18	hráč	NNMS1-----A----	Atr
+19	Interu	NNIS2-----A----	Atr
+20	Milán	NNMS1-----A----	Atr
+21	Pančev	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln94210-131-p4s1
+1	Z	RR--2----------	AuxP
+2	hlediska	NNNS2-----A----	AuxP
+3	českého	AAIS2----1A----	Atr
+4	fotbalu	NNIS2-----A----	Adv
+5	bude	VB-S---3F-AA---	AuxV
+6	hlavní	AAFS1----1A----	Atr
+7	pozornost	NNFS1-----A----	Sb
+8	upřena	VsQW---XX-AP---	Pred
+9	na	RR--4----------	AuxP
+10	další	AANS4----1A----	Atr
+11	utkání	NNNS4-----A----	Adv
+12	páté	CrFS2----------	Atr
+13	skupiny	NNFS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Luxemburgu	NNIS6-----A----	Atr
+16	a	J^-------------	Coord
+17	Oslu	NNNS6-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-131-p4s2
+1	Norský	AAMS1----1A----	Atr
+2	trenér	NNMS1-----A----	Atr
+3	Olsen	NNMS1-----A----	Sb
+4	vzal	VpYS---XR-AA---	Pred
+5	pro	RR--4----------	AuxP
+6	zápas	NNIS4-----A----	Adv
+7	s	RR--7----------	AuxP
+8	Běloruskem	NNNS7-----A----	Atr
+9	za	RR--4----------	AuxP
+10	základ	NNIS4-----A----	Obj
+11	kádr	NNIS4-----A----	Obj
+12	z	RR--2----------	AuxP
+13	MS	NNNXX-----A---8	Atr
+14	,	Z:-------------	AuxX
+15	v	RR--6----------	AuxP
+16	němž	P9ZS6----------	Adv
+17	však	J^-------------	AuxY
+18	už	Db-------------	Adv
+19	schází	VB-S---3P-AA---	Atr
+20	libero	NNNS1-----A----	Atr
+21	Bratseth	NNMS1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	který	P4YS1----------	Sb
+24	ukončil	VpYS---XR-AA---	Atr
+25	kariéru	NNFS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+ln94210-131-p4s3
+1	O	RR--6----------	AuxP
+2	běloruském	AAIS6----1A----	Atr
+3	fotbalu	NNIS6-----A---1	Atr
+4	podrobnější	AAFP1----2A----	Atr
+5	informace	NNFP1-----A----	Sb
+6	scházejí	VB-P---3P-AA---	Pred
+7	,	Z:-------------	Coord
+8	v	RR--6----------	AuxP
+9	poslední	AAFS6----1A----	Atr
+10	době	NNFS6-----A----	Adv
+11	se	P7-X4----------	AuxT
+12	objevila	VpQW---XR-AA---	Pred
+13	jen	TT-------------	AuxZ
+14	zpráva	NNFS1-----A----	Sb
+15	o	RR--6----------	AuxP
+16	dopingu	NNIS6-----A----	Atr
+17	reprezentačního	AAMS2----1A----	Atr
+18	obránce	NNMS2-----A----	Atr
+19	Bělkeviče	NNMS2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	pohárovém	AANS6----1A----	Atr
+22	utkání	NNNS6-----A----	Atr
+23	Dynama	NNNS2-----A----	Atr
+24	Minsk	NNIS1-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94210-131-p4s4
+1	Víc	Dg-------2A---1	Obj
+2	o	RR--6----------	AuxP
+3	obou	ClXP6----------	Atr
+4	soupeřích	NNMP6-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	jistě	Dg-------1A----	Adv
+7	po	RR--6----------	AuxP
+8	svém	P8ZS6----------	Atr
+9	návratu	NNIS6-----A----	Adv
+10	z	RR--2----------	AuxP
+11	Osla	NNNS2-----A----	Atr
+12	vědět	Vf--------A----	Pred
+13	Václav	NNMS1-----A----	Atr
+14	Ježek	NNMS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	zamířil	VpYS---XR-AA---	Atr
+18	na	RR--4----------	AuxP
+19	sever	NNIS4-----A----	Adv
+20	jako	J,-------------	AuxY
+21	pozorovatel	NNMS1-----A----	Atv
+22	.	Z:-------------	AuxK
+
+ln94210-131-p5s1
+1	S	RR--7----------	AuxP
+2	oranžovým	AAIS7----1A----	Atr
+3	dresem	NNIS7-----A----	Obj
+4	Nizozemska	NNNS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	po	RR--6----------	AuxP
+7	MS	NNNXX-----A---8	Adv
+8	rozloučily	VpTP---XR-AA---	Pred
+9	dlouholeté	AAFP1----1A----	Atr
+10	opory	NNFP1-----A----	Sb
+11	-	Z:-------------	Apos
+12	Rijkaard	NNMS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	R	NNMXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	Koeman	NNMS1-----A----	Sb
+17	a	J^-------------	Coord
+18	Wouters	NNMS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	Gullit	NNMS1-----A----	Sb
+21	pokračuje	VB-S---3P-AA---	Pred
+22	v	RR--6----------	AuxP
+23	bojkotu	NNIS6-----A----	Obj
+24	reprezentace	NNFS2-----A----	Atr
+25	,	Z:-------------	Coord
+26	na	RR--6----------	AuxP
+27	marodce	NNFS6-----A----	Adv
+28	jsou	VB-P---3P-AA---	Pred
+29	nejen	TT-------------	AuxZ
+30	dlouhodobě	Dg-------1A----	Adv
+31	zraněný	AAMS1----1A----	Atr
+32	van	RR--X----------	Atr
+33	Basten	NNMS1-----A----	Sb
+34	,	Z:-------------	AuxX
+35	ale	J^-------------	Coord
+36	i	J^-------------	AuxZ
+37	Bergkamp	NNMS1-----A----	Sb
+38	a	J^-------------	Coord
+39	Taument	NNMS1-----A----	Sb
+40	.	Z:-------------	AuxK
+
+ln94210-131-p5s2
+1	Přesto	Dg-------1A----	Coord
+2	by	Vc-------------	AuxV
+3	pro	RR--4----------	AuxP
+4	svěřence	NNMP4-----A----	Adv
+5	trenéra	NNMS2-----A----	Atr
+6	Advocaata	NNMS2-----A----	Atr
+7	nemělo	VpNS---XR-NA---	Pred
+8	být	Vf--------A----	Obj
+9	Lucembursko	NNNS1-----A----	Sb
+10	vážnější	AAFS7----2A----	Atr
+11	překážkou	NNFS7-----A----	Pnom
+12	.	Z:-------------	AuxK
+
+ln94210-131-p6s1
+1	Belgičanům	NNMP3-----A----	Obj
+2	bude	VB-S---3F-AA---	AuxV
+3	v	RR--6----------	AuxP
+4	zápase	NNIS6-----A----	Adv
+5	s	RR--7----------	AuxP
+6	Arménií	NNFS7-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Bruselu	NNIS6-----A----	AtrAdv
+9	chybět	Vf--------A----	Pred
+10	tvůrce	NNMS1-----A----	Atr
+11	hry	NNFS2-----A----	Atr
+12	Scifo	NNMS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	má	VB-S---3P-AA---	Atr
+16	bolestivě	Dg-------1A----	Adv
+17	naražená	AANP4----1A----	Atv
+18	žebra	NNNP4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	vyloučen	VsYS---XX-AP---	Pnom
+22	je	VB-S---3P-AA---	Pred
+23	i	J^-------------	AuxZ
+24	start	NNIS1-----A----	Sb
+25	Grüna	NNMS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	jehož	PJMS4----------	Obj
+28	postihl	VpYS---XR-AA--1	Atr
+29	zánět	NNIS1-----A----	Sb
+30	achillovky	NNFS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94210-131-p6s2
+1	Jeho	PSXXXZS3-------	Atr
+2	místo	NNNS4-----A----	Obj
+3	libera	NNNS2-----A----	Atr
+4	zaujme	VB-S---3P-AA---	Pred
+5	veterán	NNMS1-----A----	Atr
+6	De	RR--1----------	Atr
+7	Wilde	NNMS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	se	P7-X4----------	AuxT
+11	v	RR--6----------	AuxP
+12	36	C=-------------	Atr
+13	letech	NNNP6-----A----	Adv
+14	dočkal	VpYS---XR-AA---	Atr
+15	zahraničního	AANS2----1A----	Atr
+16	angažmá	NNNXX-----A----	Obj
+17	v	RR--6----------	AuxP
+18	Marseille	NNNXX-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94210-131-p6s3
+1	Trenér	NNMS1-----A----	Atr
+2	van	RR--X----------	Atr
+3	Himst	NNMS1-----A----	Sb
+4	uzavřel	VpYS---XR-AA---	Pred
+5	smír	NNIS4-----A----	Obj
+6	s	RR--7----------	AuxP
+7	útočníkem	NNMS7-----A----	Atr
+8	Oliveirou	NNMS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	tak	J^-------------	AuxY
+12	se	P7-X4----------	AuxT
+13	naturalizovaný	AAMS1----1A----	Atr
+14	Brazilec	NNMS1-----A----	Sb
+15	vrací	VB-S---3P-AA---	Pred
+16	do	RR--2----------	AuxP
+17	útoku	NNIS2-----A----	Adv
+18	na	RR--4----------	AuxP
+19	místo	NNNS4-----A----	Adv
+20	Nilise	NNMS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94210-131-p7s1
+1	Největší	AAFS4----3A----	Atr
+2	hvězdu	NNFS4-----A----	Obj
+3	budou	VB-P---3F-AA---	AuxV
+4	postrádat	Vf--------A----	Pred
+5	i	J^-------------	AuxZ
+6	Rumuni	NNMP1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	bukurešťském	AANS6----1A----	Atr
+9	utkání	NNNS6-----A----	Adv
+10	s	RR--7----------	AuxP
+11	Ázerbájdžánem	NNIS7-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94210-131-p7s2
+1	Pro	RR--4----------	AuxP
+2	kapitána	NNMS4-----A----	Atr
+3	Hagiho	NNMS4-----A----	Adv
+4	začal	VpYS---XR-AA---	Pred
+5	pobyt	NNIS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	Barceloně	NNFS6-----A----	Atr
+8	svalovým	AANS7----1A----	Atr
+9	zraněním	NNNS7-----A----	Adv
+10	,	Z:-------------	Coord
+11	stále	Db-------------	Adv
+12	chybí	VB-S---3P-AA---	Pred
+13	i	J^-------------	AuxZ
+14	Sabau	NNMS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	by	Vc-------------	AuxV
+18	jeho	PSXXXZS3-------	Atr
+19	roli	NNFS4-----A----	Obj
+20	mohl	VpYS---XR-AA---	Atr
+21	převzít	Vf--------A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94210-131-p7s3
+1	Po	RR--6----------	AuxP
+2	dvou	ClXP6----------	Atr
+3	letech	NNNP6-----A----	Adv
+4	dostává	VB-S---3P-AA---	Pred
+5	znovu	Db-------------	Adv
+6	příležitost	NNFS4-----A----	Obj
+7	Timofte	NNMS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94210-131-p8s1
+1	Kapitán	NNMS1-----A----	Atr
+2	squadry	NNFS2-----A----	Atr
+3	azzurry	AAFS2----1A----	Atr
+4	Baresi	NNMS1-----A----	Sb
+5	se	P7-X4----------	Obj
+6	znovu	Db-------------	Adv
+7	nechal	VpYS---XR-AA---	Pred
+8	přemluvit	Vf--------A----	Obj
+9	a	J^-------------	Coord
+10	svůj	P8IS4----------	Atr
+11	odchod	NNIS4-----A----	Obj
+12	z	RR--2----------	AuxP
+13	reprezentace	NNFS2-----A----	Atr
+14	už	Db-------------	AuxZ
+15	podruhé	Cv-------------	Adv
+16	odložil	VpYS---XR-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln94210-131-p8s2
+1	Ze	RV--2----------	AuxP
+2	stříbrného	AAIS2----1A----	Atr
+3	týmu	NNIS2-----A----	Adv
+4	z	RR--2----------	AuxP
+5	MS	NNNXX-----A---8	Atr
+6	tak	J^-------------	Adv
+7	bude	VB-S---3F-AA---	AuxV
+8	ve	RV--6----------	AuxP
+9	slovinském	AAIS6----1A----	Atr
+10	Mariboru	NNIS6-----A----	Adv
+11	chybět	Vf--------A----	Pred
+12	jen	TT-------------	AuxZ
+13	zraněný	AAMS1----1A----	Atr
+14	obránce	NNMS1-----A----	Atr
+15	Maldini	NNMS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	jehož	PJZS2----------	Atr
+18	místo	NNNS4-----A----	Obj
+19	by	Vc-------------	AuxV
+20	měl	VpYS---XR-AA---	Atr
+21	zaujmout	Vf--------A----	Obj
+22	klubový	AAMS1----1A----	Atr
+23	kolega	NNMS1-----A----	Atr
+24	z	RR--2----------	AuxP
+25	AC	NNIXX-----A---8	Atr
+26	Milán	NNIS1-----A----	Atr
+27	Panucci	NNMS1-----A----	Sb
+28	.	Z:-------------	AuxK
+
+ln94210-131-p9s1
+1	Ani	J^-------------	AuxZ
+2	Švédové	NNMP1-----A----	Sb
+3	nebudou	VB-P---3F-NA---	Pred
+4	v	RR--6----------	AuxP
+5	Reykjavíku	NNIS6-----A----	Adv
+6	kompletní	AAMP1----1A----	Pnom
+7	.	Z:-------------	AuxK
+
+ln94210-131-p9s2
+1	Rekordman	NNMS1-----A----	Atr
+2	mezi	RR--7----------	AuxP
+3	tyčemi	NNFP7-----A----	Atr
+4	Ravelli	NNMS1-----A----	Sb
+5	si	P7-X3----------	Adv
+6	v	RR--6----------	AuxP
+7	posledním	AANS6----1A----	Atr
+8	ligovém	AANS6----1A----	Atr
+9	utkání	NNNS6-----A----	Adv
+10	pochroumal	VpYS---XR-AA---	Pred
+11	rameno	NNNS4-----A----	Obj
+12	a	J^-------------	Coord
+13	do	RR--2----------	AuxP
+14	branky	NNFS2-----A----	Adv
+15	bude	VB-S---3F-AA---	AuxV
+16	muset	Vf--------A----	Pred
+17	Eriksson	NNMS1-----A----	Sb
+18	z	RR--2----------	AuxP
+19	Norrköpingu	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94210-131-p10s1
+1	Dnešní	AAIS1----1A----	Atr
+2	program	NNIS1-----A----	ExD
+3	kvalifikace	NNFS2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	ME	NNNXX-----A---8	Atr
+6	-	Z:-------------	Coord
+7	skupina	NNFS1-----A----	ExD
+8	1	C=-------------	Atr
+9	:	Z:-------------	Apos
+10	Rumunsko	NNNS1-----A----	ExD
+11	-	Z:-------------	Coord
+12	Ázerbajdžán	NNIS1-----A----	ExD
+13	,	Z:-------------	Coord
+14	Slovensko	NNNS1-----A----	ExD
+15	-	Z:-------------	Coord
+16	Francie	NNFS1-----A----	ExD
+17	.	Z:-------------	AuxK
+
+ln94210-131-p10s2
+1	Skupina	NNFS1-----A----	ExD
+2	2	C=-------------	Atr
+3	:	Z:-------------	Apos
+4	Makedonie	NNFS1-----A----	ExD
+5	-	Z:-------------	Coord
+6	Dánsko	NNNS1-----A----	ExD
+7	,	Z:-------------	AuxX
+8	Kypr	NNIS1-----A----	ExD
+9	-	Z:-------------	Coord
+10	Španělsko	NNNS1-----A----	ExD
+11	,	Z:-------------	Coord
+12	Belgie	NNFS1-----A----	ExD
+13	-	Z:-------------	Coord
+14	Arménie	NNFS1-----A----	ExD
+15	.	Z:-------------	AuxK
+
+ln94210-131-p10s3
+1	Skupina	NNFS1-----A----	ExD
+2	3	C=-------------	Atr
+3	:	Z:-------------	Apos
+4	Maďarsko	NNNS1-----A----	ExD
+5	-	Z:-------------	Coord
+6	Turecko	NNNS1-----A----	ExD
+7	,	Z:-------------	Coord
+8	Island	NNIS1-----A----	ExD
+9	-	Z:-------------	Coord
+10	Švédsko	NNNS1-----A----	ExD
+11	.	Z:-------------	AuxK
+
+ln94210-131-p10s4
+1	Skupina	NNFS1-----A----	ExD
+2	4	C=-------------	Atr
+3	:	Z:-------------	Apos
+4	Ukrajina	NNFS1-----A----	ExD
+5	-	Z:-------------	Coord
+6	Litva	NNFS1-----A----	ExD
+7	,	Z:-------------	Coord
+8	Slovinsko	NNNS1-----A----	ExD
+9	-	Z:-------------	Coord
+10	Itálie	NNFS1-----A----	ExD
+11	.	Z:-------------	AuxK
+
+ln94210-131-p10s5
+1	Skupina	NNFS1-----A----	ExD
+2	5	C=-------------	Atr
+3	:	Z:-------------	Apos
+4	Lucembursko	NNNS1-----A----	ExD
+5	-	Z:-------------	Coord
+6	Nizozemsko	NNNS1-----A----	ExD
+7	,	Z:-------------	Coord
+8	Norsko	NNNS1-----A----	ExD
+9	-	Z:-------------	Coord
+10	Bělorusko	NNNS1-----A----	ExD
+11	.	Z:-------------	AuxK
+

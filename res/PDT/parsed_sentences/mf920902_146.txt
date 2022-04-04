@@ -1,0 +1,235 @@
+mf920902-146-p1s1A
+1	Jihoafrická	AAFS1----1A----	Atr
+2	ekonomika	NNFS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	depresi	NNFS6-----A----	ExD
+
+mf920902-146-p1s1B
+1	POLITICKÁ	AAFS1----1A----	Atr
+2	NEJISTOTA	NNFS1-----A----	ExD
+3	A	J^-------------	Coord
+4	KRIZE	NNFS1-----A----	ExD
+5	HOSPODÁŘSTVÍ	NNNS2-----A----	Atr
+
+mf920902-146-p2s1
+1	Po	RR--6----------	AuxP
+2	dlouhém	AANS6----1A----	Atr
+3	období	NNNS6-----A----	Adv
+4	neustálého	AAIS2----1N----	Atr
+5	růstu	NNIS2-----A----	Atr
+6	cen	NNFP2-----A----	Atr
+7	akcií	NNFP2-----A----	Atr
+8	zaznamenává	VB-S---3P-AA---	Pred
+9	johannesburská	AAFS1----1A----	Atr
+10	burza	NNFS1-----A----	Sb
+11	v	RR--6----------	AuxP
+12	těchto	PDXP6----------	Atr
+13	dnech	NNIP6-----A----	Adv
+14	dlouho	Dg-------1A----	Adv
+15	předvídaný	AAIS4----1A----	Atr
+16	pokles	NNIS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+mf920902-146-p2s2
+1	Politické	AAFP1----1A----	Atr
+2	nejistoty	NNFP1-----A----	Sb
+3	a	J^-------------	Coord
+4	hospodářská	AAFS1----1A----	Atr
+5	stagnace	NNFS1-----A----	Sb
+6	způsobily	VpTP---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	celkový	AAIS1----1A----	Atr
+10	index	NNIS1-----A----	Sb
+11	klesl	VpYS---XR-AA--1	Obj
+12	o	RR--4----------	AuxP
+13	17	C=-------------	Obj
+14	procent	NNNP2-----A----	Atr
+15	(	Z:-------------	ExD
+16	z	RR--2----------	AuxP
+17	vrcholu	NNIS2-----A----	ExD
+18	3749	C=-------------	Atr
+19	v	RR--6----------	AuxP
+20	červnu	NNIS6-----A----	Atr
+21	1992	C=-------------	Atr
+22	na	RR--4----------	AuxP
+23	3126	C=-------------	ExD
+24	v	RR--6----------	AuxP
+25	posledním	AAIS6----1A----	Atr
+26	týdnu	NNIS6-----A----	ExD
+27	srpna	NNIS2-----A----	Atr
+28	)	Z:-------------	ExD
+29	.	Z:-------------	AuxK
+
+mf920902-146-p2s3
+1	Průmyslová	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	klesla	VpQW---XR-AA--1	Pred
+4	o	RR--4----------	AuxP
+5	plných	AANP2----1A----	Atr
+6	14	C=-------------	Obj
+7	procent	NNNP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf920902-146-p3s1
+1	Několik	Ca--1----------	Sb
+2	posledních	AAIP2----1A----	Atr
+3	měsíců	NNIP2-----A----	Atr
+4	nedávalo	VpNS---XR-NA---	Pred
+5	důvod	NNIS4-----A----	Obj
+6	ke	RV--3----------	AuxP
+7	zvláštní	AAFS3----1A----	Atr
+8	důvěře	NNFS3-----A----	Atr
+9	v	RR--4----------	AuxP
+10	hospodářství	NNNS4-----A----	Atr
+11	JAR	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920902-146-p3s2
+1	Politická	AAFS1----1A----	Atr
+2	stagnace	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	květnové	AANS1----1A----	Atr
+5	opuštění	NNNS1-----A----	Sb
+6	debat	NNFP2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	ústavě	NNFS6-----A----	Atr
+9	,	Z:-------------	AuxX
+10	masakr	NNIS1-----A----	Sb
+11	v	RR--6----------	AuxP
+12	Boipatongu	NNIS6-----A----	Atr
+13	uprostřed	Db-------------	AuxP
+14	června	NNIS2-----A----	Atr
+15	a	J^-------------	Coord
+16	nedávné	AAFP1----1N----	Atr
+17	masové	AAFP1----1A----	Atr
+18	akce	NNFP1-----A----	Sb
+19	Afrického	AAIS2----1A----	Atr
+20	národního	AAIS2----1A----	Atr
+21	kongresu	NNIS2-----A----	Atr
+22	s	RR--7----------	AuxP
+23	odbory	NNIP7-----A----	Atr
+24	COSATU	NNXXX-----A----	Atr
+25	a	J^-------------	Coord
+26	Komunistické	AAFS2----1A----	Atr
+27	strany	NNFS2-----A----	Atr
+28	Jižní	AAFS2----1A----	Atr
+29	Afriky	NNFS2-----A----	Atr
+30	zahnaly	VpTP---XR-AA---	Pred
+31	zemi	NNFS4-----A----	Obj
+32	do	RR--2----------	AuxP
+33	nejhorší	AAFS2----3A----	Atr
+34	politické	AAFS2----1A----	Atr
+35	krize	NNFS2-----A----	Adv
+36	od	RR--2----------	AuxP
+37	doby	NNFS2-----A----	Atr
+38	propuštění	NNNS2-----A----	Atr
+39	Nelsona	NNMS2-----A----	Atr
+40	Mandely	NNMS2-----A----	Atr
+41	z	RR--2----------	AuxP
+42	vězení	NNNS2-----A----	Atr
+43	v	RR--6----------	AuxP
+44	únoru	NNIS6-----A----	Atr
+45	1990	C=-------------	Atr
+46	.	Z:-------------	AuxK
+
+mf920902-146-p3s3
+1	Ruku	NNFS4-----A----	Adv
+2	v	RR--6----------	AuxP
+3	ruce	NNFS6-----A----	Atr
+4	kráčí	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	krize	NNFS1-----A----	Sb
+7	ekonomická	AAFS1----1A----	Atr
+8	.	Z:-------------	AuxK
+
+mf920902-146-p3s4
+1	Hospodářství	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	depresi	NNFS6-----A----	Adv
+5	a	J^-------------	Coord
+6	již	Db-------------	AuxZ
+7	od	RR--2----------	AuxP
+8	června	NNIS2-----A----	Adv
+9	jihoafričtí	AAMP1----1A----	Atr
+10	národohospodáři	NNMP1-----A----	Sb
+11	nepochybují	VB-P---3P-NA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	stagnace	NNFS1-----A----	Sb
+15	ekonomiky	NNFS2-----A----	Atr
+16	potrvá	VB-S---3P-AA---	Obj
+17	.	Z:-------------	AuxK
+
+mf920902-146-p3s5
+1	Navíc	Db-------------	Adv
+2	letos	Db-------------	Adv
+3	bylo	VpNS---XR-AA---	Pred
+4	nejhorší	AANS1----3A----	Atr
+5	sucho	NNNS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	tomto	PDZS6----------	Atr
+8	století	NNNS6-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf920902-146-p3s6
+1	Podniky	NNIP1-----A----	Sb
+2	potvrzují	VB-P---3P-AA---	Pred
+3	předpovědi	NNFP4-----A----	Obj
+4	expertů	NNMP2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+mf920902-146-p3s7
+1	Příkladem	NNIS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	oznámení	NNNS1-----A----	Sb
+4	přední	AAFS2----1A----	Atr
+5	firmy	NNFS2-----A----	Atr
+6	de	RR--1----------	Atr
+7	Beers	NNXXX-----A----	Atr
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	kontroluje	VB-S---3P-AA---	Atr
+11	světový	AAIS4----1A----	Atr
+12	trh	NNIS4-----A----	Obj
+13	diamantů	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	"	Z:-------------	AuxG
+17	podstatné	AANS1----1A----	Atr
+18	snížení	NNNS1-----A----	Sb
+19	dividendy	NNFS2-----A----	Atr
+20	je	VB-S---3P-AA---	Atr
+21	nejvýše	Dg-------3A---1	Adv
+22	pravděpodobné	AANS1----1A----	Pnom
+23	"	Z:-------------	AuxG
+24	.	Z:-------------	AuxK
+
+mf920902-146-p3s8
+1	Je	VB-S---3P-AA---	Pred
+2	mnohaletou	AAFS7----1A----	Atr
+3	pravdou	NNFS7-----A----	Pnom
+4	na	RR--6----------	AuxP
+5	johannesburské	AAFS6----1A----	Atr
+6	burze	NNFS6-----A----	AdvAtr
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	když	J,-------------	AuxC
+10	firma	NNFS1-----A----	Sb
+11	tohoto	PDZS2----------	Atr
+12	kalibru	NNIS2-----A----	Atr
+13	kýchne	VB-S---3P-AA---	Adv
+14	,	Z:-------------	AuxX
+15	ostatní	AAIP1----1A----	Atr
+16	podniky	NNIP1-----A----	Sb
+17	dostanou	VB-P---3P-AA---	Sb
+18	rýmu	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf920902-146-p3s9
+1	KAREL	NNMS1-----A----	Atr
+2	SMRČKA	NNMS1-----A----	ExD
+3	,	Z:-------------	ExD
+4	Pretoria	NNFS1-----A----	ExD
+

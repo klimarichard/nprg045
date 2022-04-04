@@ -1,0 +1,97 @@
+cmpr9416-031-p2s1
+1	Oskar	NNMS1-----A----	ExD
+
+cmpr9416-031-p3s1
+1	Firmě	NNFS3-----A----	ExD
+2	Reo	NNNS1-----A----	Atr
+3	Amos	NNIS1-----A----	Atr
+4	za	RR--4----------	AuxP
+5	širokou	AAFS4----1A----	Atr
+6	nabídku	NNFS4-----A----	ExD
+7	potřeb	NNFP2-----A----	Atr
+8	pro	RR--4----------	AuxP
+9	likvidaci	NNFS4-----A----	Atr
+10	ropných	AAFP2----1A----	Atr
+11	havárií	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	mezi	RR--4----------	AuxP
+14	něž	P9XP4----------	Adv
+15	patří	VB-P---3P-AA---	Atr
+16	různé	AAIP1----1A----	Atr
+17	druhy	NNIP1-----A----	Sb
+18	rychletuhnoucích	AAIP2----1A----	Atr
+19	tmelů	NNIP2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	rychloucpávek	NNFP2-----A----	Atr
+22	nebo	J^-------------	Coord
+23	absorbérů	NNIP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9416-031-p3s2
+1	Odběratelé	NNMP1-----A----	Sb
+2	projevují	VB-P---3P-AA---	Pred
+3	velký	AAIS4----1A----	Atr
+4	zájem	NNIS4-----A----	Obj
+5	hlavně	Dg-------1A----	AuxZ
+6	o	RR--4----------	AuxP
+7	obaly	NNIP1-----A----	Atr
+8	na	RR--4----------	AuxP
+9	poškozené	AAIP4----1A----	Atr
+10	sudy	NNIP4-----A----	Atr
+11	nebo	J^-------------	Coord
+12	záchytné	AAFP4----1A----	Atr
+13	palety	NNFP4-----A----	Atr
+14	pod	RR--4----------	AuxP
+15	sudy	NNIP4-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9416-031-p3s3
+1	Firma	NNFS1-----A----	Sb
+2	se	P7-X4----------	Obj
+3	prosazuje	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	pružností	NNFS7-----A----	Adv
+6	dodávek	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9416-031-p4s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Reo	NNNS1-----A----	ExD
+4	Amos	NNIS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	s	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	r	NNNS7-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	o	AANS7----1A---8	Atr
+11	.	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	Žofínská	AAFS1----1A----	Atr
+14	12	C=-------------	Atr
+15	,	Z:-------------	AuxX
+16	702	C=-------------	Atr
+17	00	C=-------------	Atr
+18	Ostrava	NNFS1-----A----	Atr
+19	1	C=-------------	Atr
+20	,	Z:-------------	AuxX
+21	tel	NNIXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	:	Z:-------------	AuxG
+24	(	Z:-------------	AuxG
+25	069	C=-------------	Atr
+26	)	Z:-------------	AuxG
+27	23	C=-------------	Atr
+28	48	C=-------------	Atr
+29	05	C=-------------	Atr
+30	,	Z:-------------	Coord
+31	FAX	NNIS1-----A----	Atr
+32	:	Z:-------------	AuxG
+33	(	Z:-------------	AuxG
+34	069	C=-------------	Atr
+35	)	Z:-------------	AuxG
+36	23	C=-------------	Atr
+37	55	C=-------------	Atr
+38	26	C=-------------	Atr
+39	.	Z:-------------	AuxK
+

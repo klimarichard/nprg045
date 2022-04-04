@@ -1,0 +1,154 @@
+ln94207-124-p1s1
+1	Ruská	AAFS1----1A----	Atr
+2	loď	NNFS1-----A----	Sb
+3	spojena	VsQW---XX-AP---	Pred
+4	s	RR--7----------	AuxP
+5	komplexem	NNIS7-----A----	Obj
+6	Mir	NNIS1-----A----	Atr
+
+ln94207-124-p2s1A
+1	Moskva	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94207-124-p2s1B
+1	Ruská	AAFS1----1A----	Atr
+2	nákladní	AAFS1----1A----	Atr
+3	loď	NNFS1-----A----	Sb
+4	Progress	NNIS1-----A----	Atr
+5	M	NNNXX-----A----	Atr
+6	-	Z:-------------	AuxG
+7	24	C=-------------	Atr
+8	se	P7-X4----------	Obj
+9	včera	Db-------------	Adv
+10	spojila	VpQW---XR-AA---	Pred
+11	s	RR--7----------	AuxP
+12	orbitálním	AAIS7----1A----	Atr
+13	komplexem	NNIS7-----A----	Obj
+14	Mir	NNIS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94207-124-p2s2
+1	Šlo	VpNS---XR-AA---	Pred
+2	o	RR--4----------	AuxP
+3	třetí	CrIS4----------	Atr
+4	pokus	NNIS4-----A----	Obj
+5	po	RR--6----------	AuxP
+6	dvou	ClXP6----------	Atr
+7	neúspěšných	AAIP6----1N----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4IP1----------	Sb
+10	ohrozily	VpTP---XR-AA---	Atr
+11	ruský	AAIS4----1A----	Atr
+12	kosmický	AAIS4----1A----	Atr
+13	program	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	protože	J,-------------	AuxC
+16	Progress	NNIS1-----A----	Sb
+17	M	NNNXX-----A----	Atr
+18	-	Z:-------------	AuxG
+19	24	C=-------------	Atr
+20	přiváží	VB-S---3P-AA---	Adv
+21	na	RR--4----------	AuxP
+22	oběžnou	AAFS4----1A----	Atr
+23	dráhu	NNFS4-----A----	Adv
+24	životně	Dg-------1A----	Adv
+25	důležité	AAFP4----1A----	Atr
+26	zásoby	NNFP4-----A----	Obj
+27	a	J^-------------	Coord
+28	zařízení	NNNP4-----A----	Obj
+29	pro	RR--4----------	AuxP
+30	další	AAIP4----1A----	Atr
+31	vědecké	AAIP4----1A----	Atr
+32	výzkumy	NNIP4-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94207-124-p2s3
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	předchozích	AAIP2----1A----	Atr
+5	pokusů	NNIP2-----A----	Adv
+6	se	P7-X4----------	AuxT
+7	tentokrát	Db-------------	Adv
+8	nákladní	AAFS1----1A----	Atr
+9	loď	NNFS1-----A----	Sb
+10	nepřibližovala	VpQW---XR-NA---	Pred
+11	v	RR--6----------	AuxP
+12	automatickém	AAIS6----1A----	Atr
+13	režimu	NNIS6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	řídil	VpYS---XR-AA---	Pred
+17	ji	PPFS4--3-------	Obj
+18	velitel	NNMS1-----A----	Atr
+19	posádky	NNFS2-----A----	Atr
+20	stanice	NNFS2-----A----	Atr
+21	Mir	NNIS1-----A----	Atr
+22	Jurij	NNMS1-----A----	Atr
+23	Malenčenko	NNMS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln94207-124-p2s4
+1	Rozhodnutí	NNNS1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	ručním	AANS6----1A----	Atr
+4	navádění	NNNS6-----A----	Atr
+5	padlo	VpNS---XR-AA--1	Pred
+6	ve	RV--4----------	AuxP
+7	čtvrtek	NNIS4-----A----	Adv
+8	na	RR--6----------	AuxP
+9	zasedání	NNNS6-----A----	Adv
+10	speciální	AAFS2----1A----	Atr
+11	komise	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	když	J,-------------	AuxC
+14	dva	ClYP1----------	Atr
+15	marné	AAIP1----1A----	Atr
+16	pokusy	NNIP1-----A----	Sb
+17	o	RR--4----------	AuxP
+18	spojení	NNNS4-----A----	Atr
+19	vyčerpaly	VpTP---XR-AA---	Adv
+20	zásoby	NNFP4-----A----	Obj
+21	paliva	NNNS2-----A----	Atr
+22	nákladní	AAFS2----1A----	Atr
+23	lodě	NNFS2-----A----	Atr
+24	na	RR--4----------	AuxP
+25	kritickou	AAFS4----1A----	Atr
+26	hranici	NNFS4-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln94207-124-p2s5
+1	Komplex	NNIS1-----A----	Sb
+2	Mir	NNIS1-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	oběžné	AAFS6----1A----	Atr
+6	dráze	NNFS6-----A----	Adv
+7	už	Db-------------	AuxZ
+8	osmý	CrIS4----------	Atr
+9	rok	NNIS4-----A----	Adv
+10	a	J^-------------	Coord
+11	zatím	Db-------------	Adv
+12	nikdy	Db-------------	Adv
+13	nezůstal	VpYS---XR-NA---	Pred
+14	bez	RR--2----------	AuxP
+15	posádky	NNFS2-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94207-124-p3s1
+1	Více	Dg-------2A----	ExD
+2	na	RR--6----------	AuxP
+3	straně	NNFS6-----A----	ExD
+4	6	C=-------------	Atr
+5	-	Z:-------------	Apos
+6	Progress	NNIS1-----A----	ExD
+7	M	NNNXX-----A----	Atr
+8	-	Z:-------------	AuxG
+9	24	C=-------------	Atr
+10	:	Z:-------------	Coord
+11	potřetí	Cv-------------	ExD
+12	a	J^-------------	Coord
+13	na	RR--4----------	AuxP
+14	poslední	AAFS4----1A----	Atr
+15	chvíli	NNFS4-----A----	ExD
+

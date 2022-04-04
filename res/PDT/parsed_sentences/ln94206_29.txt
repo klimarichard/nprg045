@@ -1,0 +1,134 @@
+ln94206-29-p1s1
+1	Dům	NNIS1-----A----	ExD
+2	za	RR--4----------	AuxP
+3	tři	ClXP4----------	Atr
+4	miliony	NNIP4-----A----	Atr
+5	do	RR--2----------	AuxP
+6	Liberce	NNIS2-----A----	ExD
+
+ln94206-29-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	teb	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94206-29-p2s1B
+1	První	CrFS4----------	Atr
+2	cenu	NNFS4-----A----	Obj
+3	soutěže	NNFS2-----A----	Atr
+4	LN	NNFPX-----A---8	Atr
+5	Zápisník	NNIS1-----A----	Atr
+6	akcionáře	NNMS2-----A----	Atr
+7	,	Z:-------------	Apos
+8	luxusní	AAIS4----1A----	Atr
+9	domek	NNIS4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	hodnotě	NNFS6-----A----	Atr
+12	3000000	C=-------------	Atr
+13	korun	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	vyhrál	VpYS---XR-AA---	Pred
+16	invalidní	AAMS1----1A----	Atr
+17	důchodce	NNMS1-----A----	Atr
+18	ing	NNMXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	Vladimír	NNMS1-----A----	Atr
+21	Duda	NNMS1-----A----	Sb
+22	z	RR--2----------	AuxP
+23	Liberce	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94206-29-p2s2
+1	Pan	NNMS1-----A----	Atr
+2	Duda	NNMS1-----A----	Sb
+3	bydlí	VB-S---3P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	manželkou	NNFS7-----A----	Adv
+6	v	RR--6----------	AuxP
+7	panelovém	AAIS6----1A----	Atr
+8	domě	NNIS6-----A----	Adv
+9	na	RR--6----------	AuxP
+10	sídlišti	NNNS6-----A----	AtrAdv
+11	.	Z:-------------	AuxK
+
+ln94206-29-p2s3
+1	Když	J,-------------	AuxC
+2	jsme	VB-P---1P-AA---	AuxV
+3	mu	PHZS3--3-------	Obj
+4	přijeli	VpMP---XR-AA---	Adv
+5	oznámit	Vf--------A----	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	vyhrál	VpYS---XR-AA---	Obj
+9	,	Z:-------------	AuxX
+10	myslel	VpYS---XR-AA---	Pred
+11	si	P7-X3----------	AuxT
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	jde	VB-S---3P-AA---	Obj
+15	o	RR--4----------	AuxP
+16	žert	NNIS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln94206-29-p2s4
+1	Přiznal	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	není	VB-S---3P-NA---	Obj
+5	typ	NNIS1-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	by	Vc-------------	AuxV
+9	skupoval	VpYS---XR-AA---	Atr
+10	všechny	PLYP4----------	Atr
+11	losy	NNIP4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94206-29-p2s5
+1	LN	NNFPX-----A---8	Obj
+2	čte	VB-S---3P-AA---	Pred
+3	pravidelně	Dg-------1A----	Adv
+4	,	Z:-------------	AuxX
+5	a	J^-------------	Coord
+6	proto	J^-------------	AuxY
+7	se	P7-X4----------	AuxT
+8	rozhodl	VpYS---XR-AA--1	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	hru	NNFS4-----A----	Obj
+12	vyzkouší	VB-S---3P-AA---	Obj
+13	.	Z:-------------	AuxK
+
+ln94206-29-p2s6
+1	Domek	NNIS4-----A----	Obj
+2	od	RR--2----------	AuxP
+3	firmy	NNFS2-----A----	Atr
+4	Indopol	NNIS1-----A----	Atr
+5	si	P7-X3----------	Adv
+6	pravděpodobně	Dg-------1A----	AuxY
+7	nechá	VB-S---3P-AA---	Pred
+8	postavit	Vf--------A----	Obj
+9	v	RR--6----------	AuxP
+10	okolí	NNNS6-----A----	Adv
+11	Liberce	NNIS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	aby	J,-------------	AuxC
+14	ho	PHZS4--3-------	Obj
+15	mohli	VpMP---XR-AA---	Adv
+16	užívat	Vf--------A----	Obj
+17	také	Db-------------	Adv
+18	jeho	PSXXXZS3-------	Atr
+19	dva	ClYP1----------	Atr
+20	synové	NNMP1-----A----	Sb
+21	s	RR--7----------	AuxP
+22	rodinami	NNFP7-----A----	AtrAdv
+23	.	Z:-------------	AuxK
+
+ln94206-29-p3s1
+1	Seznam	NNIS1-----A----	ExD
+2	výherců	NNMP2-----A----	Atr
+3	na	RR--6----------	AuxP
+4	straně	NNFS6-----A----	ExD
+5	13	C=-------------	Atr
+

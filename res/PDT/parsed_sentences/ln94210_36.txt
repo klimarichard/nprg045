@@ -1,0 +1,122 @@
+ln94210-36-p1s1
+1	Peer	NNMS1-----A----	Atr
+2	programy	NNIP1-----A----	ExD
+3	pro	RR--4----------	AuxP
+4	školáky	NNMP4-----A----	Atr
+
+ln94210-36-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pech	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94210-36-p2s1B
+1	Karel	NNMS1-----A----	Atr
+2	Nešpor	NNMS1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	psychiatrické	AAFS2----1A----	Atr
+5	léčebny	NNFS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Atr
+8	-	Z:-------------	AuxG
+9	Bohnicích	NNFP6-----A----	Atr
+10	je	VB-S---3P-AA---	Pred
+11	autorem	NNMS7-----A----	Pnom
+12	projektu	NNIS2-----A----	Atr
+13	tzv	AAXXX----1A---8	Atr
+14	.	Z:-------------	AuxG
+15	peer	NNMS1-----A----	Atr
+16	programů	NNIP2-----A----	Atr
+17	zaměřeného	AAIS2----1A----	Atr
+18	na	RR--4----------	AuxP
+19	žáky	NNMP4-----A----	Obj
+20	sedmých	CrFP2----------	Atr
+21	tříd	NNFP2-----A----	Atr
+22	základních	AAFP2----1A----	Atr
+23	škol	NNFP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	který	P4YS1----------	Sb
+26	by	Vc-------------	AuxV
+27	měl	VpYS---XR-AA---	Atr
+28	vést	Vf--------A----	Obj
+29	k	RR--3----------	AuxP
+30	prevenci	NNFS3-----A----	Obj
+31	drogové	AAFS2----1A----	Atr
+32	závislosti	NNFS2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94210-36-p2s2
+1	Děti	NNFP1-----A----	Sb
+2	budou	VB-P---3F-AA---	AuxV
+3	pod	RR--7----------	AuxP
+4	dohledem	NNIS7-----A----	Adv
+5	vyškoleného	AAIS2----1A----	Atr
+6	personálu	NNIS2-----A----	Atr
+7	diskutovat	Vf--------A----	Pred
+8	o	RR--6----------	AuxP
+9	problematice	NNFS6-----A----	Obj
+10	návykových	AAFP2----1A----	Atr
+11	látek	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94210-36-p2s3
+1	Karel	NNMS1-----A----	Atr
+2	Nešpor	NNMS1-----A----	Sb
+3	řekl	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	odděluje	VB-S---3P-AA---	Obj
+7	závislost	NNFS4-----A----	Obj
+8	na	RR--6----------	AuxP
+9	tabáku	NNIS6-----A----	Atr
+10	,	Z:-------------	Coord
+11	alkoholu	NNIS6-----A----	Atr
+12	či	J^-------------	Coord
+13	na	RR--6----------	AuxP
+14	drogách	NNFP6-----A----	Atr
+15	z	RR--2----------	AuxP
+16	hlediska	NNNS2-----A----	Adv
+17	právního	AANS2----1A----	Atr
+18	,	Z:-------------	AuxX
+19	nikoli	Db------------1	AuxZ
+20	však	J^-------------	Coord
+21	zdravotního	AANS2----1A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94210-36-p2s4
+1	Podle	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	cílem	NNIS7-----A----	Pnom
+5	projektu	NNIS2-----A----	Atr
+6	ovlivnit	Vf--------A----	Sb
+7	nerozhodné	AAFP4----1N----	Atr
+8	děti	NNFP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94210-36-p2s5
+1	Připustil	VpYS---XR-AA---	Pred
+2	však	J^-------------	Coord
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	na	RR--4----------	AuxP
+6	ty	PDFP4----------	Atr
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	již	Db-------------	Adv
+10	mají	VB-P---3P-AA---	Atr
+11	zkušenost	NNFS4-----A----	Obj
+12	s	RR--7----------	AuxP
+13	nějakou	PZFS7----------	Atr
+14	drogou	NNFS7-----A----	Atr
+15	,	Z:-------------	AuxX
+16	peer	NNMS1-----A----	Atr
+17	programy	NNIP1-----A----	Sb
+18	zřejmě	Dg-------1A----	AuxY
+19	velký	AAIS4----1A----	Atr
+20	vliv	NNIS4-----A----	Obj
+21	mít	Vf--------A----	Obj
+22	nebudou	VB-P---3F-NA---	AuxV
+23	.	Z:-------------	AuxK
+

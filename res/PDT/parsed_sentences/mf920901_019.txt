@@ -1,0 +1,83 @@
+mf920901-019-p1s1
+1	SPOLANA	NNFS1-----A----	Sb
+2	,	Z:-------------	Apos
+3	akciová	AAFS1----1A----	Atr
+4	společnost	NNFS1-----A----	Sb
+5	Neratovice	NNFP1-----A----	Atr
+6	přijme	VB-S---3P-AA---	Pred
+7	:	Z:-------------	AuxG
+8	-	Z:-------------	AuxG
+9	zedníky	NNMP4-----A----	Obj
+10	-	Z:-------------	AuxG
+11	truhláře	NNMP4-----A----	Obj
+12	-	Z:-------------	AuxG
+13	šamotáře	NNMP4-----A----	Obj
+14	-	Z:-------------	AuxG
+15	pokrývače	NNMP4-----A----	Obj
+16	-	Z:-------------	AuxG
+17	tesaře	NNMP4-----A----	Obj
+18	-	Z:-------------	AuxG
+19	kys	AAXXX----1A---8	Atr
+20	.	Z:-------------	AuxG
+21	izolatéry	NNMP4-----A----	Obj
+22	-	Z:-------------	AuxG
+23	dělníky	NNMP4-----A----	Obj
+24	chem	AAXXX----1A---8	Atr
+25	.	Z:-------------	AuxG
+26	výroby	NNFS2-----A----	Atr
+27	(	Z:-------------	ExD
+28	směny	NNFP1-----A----	ExD
+29	)	Z:-------------	ExD
+30	-	Z:-------------	AuxG
+31	manipulační	AAMP4----1A----	Atr
+32	dělníky	NNMP4-----A----	Obj
+33	(	Z:-------------	ExD
+34	řidičský	AAIS1----1A----	Atr
+35	průkaz	NNIS1-----A----	ExD
+36	)	Z:-------------	ExD
+37	-	Z:-------------	AuxG
+38	posunovače	NNMP4-----A----	Obj
+39	s	RR--7----------	AuxP
+40	praxí	NNFS7-----A----	Atr
+41	-	Z:-------------	AuxG
+42	chemiky	NNMP4-----A----	Obj
+43	(	Z:-------------	ExD
+44	muže	NNMP4-----A----	ExD
+45	)	Z:-------------	ExD
+46	-	Z:-------------	Coord
+47	požárníky	NNMP4-----A----	Obj
+
+mf920901-019-p2s1
+1	Dobré	AANS1----1A----	Atr
+2	autobusové	AANS1----1A----	Atr
+3	spojení	NNNS1-----A----	ExD
+4	z	RR--2----------	AuxP
+5	Prahy	NNFS2-----A----	Atr
+6	-	Z:-------------	AuxG
+7	Holešovic	NNFP2-----A----	Atr
+
+mf920901-019-p3s1
+1	Bližší	AAFP4----2A----	Atr
+2	informace	NNFP4-----A----	Obj
+3	podá	VB-S---3P-AA---	Pred
+4	osobní	AANS1----1A----	Atr
+5	oddělení	NNNS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+mf920901-019-p4s1
+1	Tel	NNIXX-----A---8	ExD
+2	.	Z:-------------	AuxG
+3	:	Z:-------------	AuxG
+4	0206	C=-------------	Atr
+5	/	Z:-------------	AuxG
+6	66	C=-------------	Atr
+7	22	C=-------------	Atr
+8	15	C=-------------	Atr
+9	,	Z:-------------	Coord
+10	66	C=-------------	Atr
+11	35	C=-------------	Atr
+12	37	C=-------------	Atr
+
+mf920901-019-p5s1
+1	4402	C=-------------	ExD
+

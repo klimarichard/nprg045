@@ -1,0 +1,187 @@
+ln94204-6-p1s1
+1	Pražský	AAIS1----1A----	Atr
+2	hotel	NNIS1-----A----	Sb
+3	Mozart	NNMS1-----A----	Atr
+4	bude	VB-S---3F-AA---	AuxV
+5	mít	Vf--------A----	Pred
+6	vlastní	AAFS4----1A----	Atr
+7	lanovku	NNFS4-----A----	Obj
+
+ln94204-6-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94204-6-p2s1B
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	na	RR--6----------	AuxP
+4	Smíchově	NNIS6-----A----	Adv
+5	nedaleko	RR--2----------	AuxP
+6	Bertramky	NNFS2-----A----	Adv
+7	bude	VB-S---3F-AA---	AuxV
+8	stát	Vf--------A----	Pred
+9	nový	AAIS1----1A----	Atr
+10	čtyřhvězdičkový	AAIS1----1A----	Atr
+11	hotel	NNIS1-----A----	Sb
+12	švýcarské	AAFS2----1A----	Atr
+13	společnosti	NNFS2-----A----	Atr
+14	Mövenpick	NNIS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94204-6-p3s1
+1	Pražský	AAMS1----1A----	Atr
+2	radní	NNMS1-----A----	Atr
+3	Michael	NNMS1-----A----	Atr
+4	Hvížďala	NNMS1-----A----	Sb
+5	informoval	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	hotel	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	bude	VB-S---3F-AA---	AuxV
+12	vybaven	VsYS---XX-AP---	Atr
+13	440	C=-------------	Atr
+14	lůžky	NNNP7-----A----	Obj
+15	,	Z:-------------	AuxX
+16	budou	VB-P---3F-AA---	AuxV
+17	tvořit	Vf--------A----	Obj
+18	dvě	ClHP1----------	Atr
+19	od	RR--2----------	AuxP
+20	sebe	P6-X2----------	Obj
+21	oddělené	AAFP1----1A----	Atr
+22	části	NNFP1-----A----	Sb
+23	-	Z:-------------	Apos
+24	spodní	AAFS1----1A----	Atr
+25	část	NNFS1-----A----	Sb
+26	v	RR--6----------	AuxP
+27	Plzeňské	AAFS6----1A----	Atr
+28	ulici	NNFS6-----A----	Atr
+29	a	J^-------------	Coord
+30	na	RR--6----------	AuxP
+31	rohu	NNIS6-----A----	Atr
+32	Mozartovy	AUFS2M---------	Atr
+33	a	J^-------------	Coord
+34	Duškovy	AUFS2M---------	Atr
+35	ulice	NNFS2-----A----	Atr
+36	,	Z:-------------	AuxX
+37	která	P4FS1----------	Sb
+38	ponese	VB-S---3F-AA---	Atr
+39	název	NNIS4-----A----	Obj
+40	Mozart	NNMS1-----A----	Atr
+41	,	Z:-------------	AuxX
+42	a	J^-------------	Coord
+43	horní	AAIS1----1A----	Atr
+44	atriový	AAIS1----1A----	Atr
+45	hotel	NNIS1-----A----	Sb
+46	Mrázovka	NNFS1-----A----	Atr
+47	,	Z:-------------	AuxX
+48	který	P4YS1----------	Sb
+49	bude	VB-S---3F-AA---	AuxV
+50	vystavěn	VsYS---XX-AP---	Atr
+51	v	RR--6----------	AuxP
+52	klidném	AANS6----1A----	Atr
+53	prostředí	NNNS6-----A----	Adv
+54	na	RR--6----------	AuxP
+55	kopci	NNIS6-----A----	Atr
+56	téhož	PDZS2----------	Atr
+57	jména	NNNS2-----A----	Atr
+58	.	Z:-------------	AuxK
+
+ln94204-6-p4s1
+1	Spodní	AAFS1----1A----	Atr
+2	budova	NNFS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	sloužit	Vf--------A----	Pred
+5	i	J^-------------	AuxZ
+6	jako	J,-------------	AuxY
+7	protihluková	AAFS1----1A----	Atr
+8	ochrana	NNFS1-----A----	Obj
+9	oblasti	NNFS2-----A----	Atr
+10	Mrázovka	NNFS1-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94204-6-p4s2
+1	Obě	ClHP1----------	Atr
+2	budovy	NNFP1-----A----	Sb
+3	budou	VB-P---3F-AA---	AuxV
+4	spojeny	VsTP---XX-AP---	Pred
+5	šikmým	AAIS7----1A----	Atr
+6	výtahem	NNIS7-----A----	Adv
+7	s	RR--7----------	AuxP
+8	prosklenou	AAFS7----1A----	Atr
+9	kabinou	NNFS7-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94204-6-p4s3
+1	Vznikne	VB-S---3P-AA---	Pred
+2	tak	Db-------------	Adv
+3	jakási	PZFS1----------	Atr
+4	lanovka	NNFS1-----A----	Sb
+5	o	RR--6----------	AuxP
+6	délce	NNFS6-----A----	Atr
+7	zhruba	Db-------------	AuxZ
+8	100	C=-------------	Atr
+9	metrů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94204-6-p5s1
+1	Toto	PDNS1----------	Atr
+2	netradiční	AANS1----1N----	Atr
+3	řešení	NNNS1-----A----	Sb
+4	je	VB-S---3P-AA---	Obj
+5	součástí	NNFS7-----A----	Pnom
+6	obchodní	AAFS2----1A----	Atr
+7	politiky	NNFS2-----A----	Atr
+8	společnosti	NNFS2-----A----	Atr
+9	Mövenpick	NNIS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	která	P4FS1----------	Sb
+12	klade	VB-S---3P-AA---	Atr
+13	při	RR--6----------	AuxP
+14	svém	P8ZS6----------	Atr
+15	podnikání	NNNS6-----A----	Adv
+16	důraz	NNIS4-----A----	Obj
+17	především	Db-------------	AuxZ
+18	na	RR--4----------	AuxP
+19	mnohostrannost	NNFS4-----A----	AtrObj
+20	a	J^-------------	Coord
+21	originalitu	NNFS4-----A----	AtrObj
+22	,	Z:-------------	AuxX
+23	prohlásil	VpYS---XR-AA---	Pred
+24	M	NNMXX-----A---8	Atr
+25	.	Z:-------------	AuxG
+26	Hvížďala	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+ln94204-6-p6s1
+1	Mövenpick	NNIS1-----A----	Sb
+2	provozuje	VB-S---3P-AA---	Pred
+3	několik	Ca--4----------	Obj
+4	desítek	NNFP2-----A----	Atr
+5	hotelů	NNIP2-----A----	Atr
+6	nejen	TT-------------	AuxZ
+7	v	RR--6----------	AuxP
+8	Evropě	NNFS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	i	J^-------------	AuxZ
+12	v	RR--6----------	AuxP
+13	Asii	NNFS6-----A----	Adv
+14	a	J^-------------	Coord
+15	Africe	NNFS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94204-6-p6s2
+1	Kromě	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	známý	AAIS1----1A----	Pnom
+5	i	J^-------------	AuxZ
+6	jako	J,-------------	AuxY
+7	obchodní	AAFS1----1A----	Atr
+8	a	J^-------------	Coord
+9	potravinářská	AAFS1----1A----	Atr
+10	firma	NNFS1-----A----	AtvV
+11	.	Z:-------------	AuxK
+

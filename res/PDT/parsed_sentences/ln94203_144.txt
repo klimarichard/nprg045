@@ -1,0 +1,126 @@
+ln94203-144-p1s1
+1	IPB	NNFXX-----A---8	Sb
+2	snižuje	VB-S---3P-AA---	Pred
+3	úrokové	AAFP4----1A----	Atr
+4	sazby	NNFP4-----A----	Obj
+
+ln94203-144-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94203-144-p2s1B
+1	O	RR--4----------	AuxP
+2	0.4	C=-------------	Adv
+3	procenta	NNNS2-----A----	Atr
+4	snižuje	VB-S---3P-AA---	Pred
+5	od	RR--2----------	AuxP
+6	1	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	září	NNNS2-----A----	Adv
+9	Investiční	AAFS1----1A----	Atr
+10	a	J^-------------	Coord
+11	poštovní	AAFS1----1A----	Atr
+12	banka	NNFS1-----A----	Sb
+13	úrokové	AAFP4----1A----	Atr
+14	sazby	NNFP4-----A----	Obj
+15	krátkodobých	AAIP2----1A----	Atr
+16	,	Z:-------------	AuxX
+17	střednědobých	AAIP2----1A----	Atr
+18	,	Z:-------------	AuxX
+19	dlouhodobých	AAIP2----1A----	Atr
+20	a	J^-------------	Coord
+21	eskontních	AAIP2----1A----	Atr
+22	úvěrů	NNIP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94203-144-p2s2
+1	Sazba	NNFS1-----A----	Sb
+2	Prime	AAXXX----1A----	Atr
+3	rate	NNIXX-----A----	Atr
+4	klesá	VB-S---3P-AA---	Pred
+5	o	RR--4----------	AuxP
+6	jeden	ClIS4----------	Atr
+7	procentní	AAIS4----1A----	Atr
+8	bod	NNIS4-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln94203-144-p2s3
+1	Úročení	NNNS1-----A----	Sb
+2	vkladů	NNIP2-----A----	Atr
+3	se	P7-X4----------	AuxR
+4	zároveň	Db-------------	Adv
+5	snižuje	VB-S---3P-AA---	Pred
+6	o	RR--4----------	AuxP
+7	0.5	C=-------------	Adv
+8	až	J^-------------	Coord
+9	1	C=-------------	Adv
+10	%	Z:-------------	Atr
+11	.	Z:-------------	AuxK
+
+ln94203-144-p2s4
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ze	RV--2----------	AuxP
+4	včerejší	AAFS2----1A----	Atr
+5	informace	NNFS2-----A----	Obj
+6	IPB	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxK
+
+ln94203-144-p3s1
+1	Nové	AAIP4----1A----	Atr
+2	krátkodobé	AAIP4----1A----	Atr
+3	úvěry	NNIP4-----A----	Obj
+4	bude	VB-S---3F-AA---	AuxV
+5	IPB	NNFXX-----A---8	Sb
+6	poskytovat	Vf--------A----	Pred
+7	za	RR--4----------	AuxP
+8	minimální	AAIS4----1A----	Atr
+9	úrok	NNIS4-----A----	Adv
+10	11.5	C=-------------	Atr
+11	%	Z:-------------	Atr
+12	,	Z:-------------	AuxX
+13	střednědobé	AAIP4----1A----	ExD
+14	od	RR--2----------	AuxP
+15	12.5	C=-------------	ExD
+16	%	Z:-------------	Atr
+17	,	Z:-------------	AuxX
+18	dlouhodobé	AAIP4----1A----	ExD
+19	od	RR--2----------	AuxP
+20	14	C=-------------	ExD
+21	%	Z:-------------	Atr
+22	a	J^-------------	Coord
+23	eskontní	AAIP4----1A----	ExD
+24	od	RR--2----------	AuxP
+25	11.5	C=-------------	ExD
+26	%	Z:-------------	Atr
+27	.	Z:-------------	AuxK
+
+ln94203-144-p3s2
+1	Prime	AAXXX----1A----	Atr
+2	rate	NNIXX-----A----	Sb
+3	klesla	VpQW---XR-AA--1	Pred
+4	na	RR--4----------	AuxP
+5	10.45	C=-------------	Obj
+6	procenta	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94203-144-p3s3
+1	Základní	AAFS1----1A----	Atr
+2	úroková	AAFS1----1A----	Atr
+3	sazba	NNFS1-----A----	Sb
+4	IPB	NNFXX-----A---8	Atr
+5	zůstává	VB-S---3P-AA---	Pred
+6	na	RR--6----------	AuxP
+7	14.5	C=-------------	Atr
+8	procentech	NNNP6-----A----	Adv
+9	,	Z:-------------	Coord
+10	nezměněna	VsQW---XX-NP---	Obj
+11	zůstává	VB-S---3P-AA---	Pred
+12	15	C=-------------	Adv
+13	procentní	AAFS1----1A----	Atr
+14	základní	AAFS1----1A----	Atr
+15	sazba	NNFS1-----A----	Sb
+16	poštovní	AAFS2----1A----	Atr
+17	divize	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+

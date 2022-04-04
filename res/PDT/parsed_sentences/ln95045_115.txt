@@ -1,0 +1,124 @@
+ln95045-115-p1s1
+1	Japonsko	NNNS1-----A----	Sb
+2	vybuduje	VB-S---3P-AA---	Pred
+3	informační	AAFS4----1A----	Atr
+4	síť	NNFS4-----A----	Obj
+
+ln95045-115-p2s1A
+1	Tokio	NNNS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-115-p2s1B
+1	Japonsko	NNNS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	rámci	NNIS6-----A----	AuxP
+4	programu	NNIS2-----A----	Adv
+5	podpory	NNFS2-----A----	Atr
+6	telekomunikační	AAFS2----1A----	Atr
+7	infrastruktury	NNFS2-----A----	Atr
+8	vybuduje	VB-S---3P-AA---	Pred
+9	do	RR--2----------	AuxP
+10	roku	NNIS2-----A---1	Adv
+11	2010	C=-------------	Atr
+12	celonárodní	AAFS4----1A----	Atr
+13	informační	AAFS4----1A----	Atr
+14	síť	NNFS4-----A----	Obj
+15	z	RR--2----------	AuxP
+16	optických	AANP2----1A----	Atr
+17	vláken	NNNP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95045-115-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	akčního	AAIS2----1A----	Atr
+5	programu	NNIS2-----A----	Obj
+6	rozvoje	NNIS2-----A----	Atr
+7	"	Z:-------------	AuxG
+8	informační	AAFS2----1A----	Atr
+9	společnosti	NNFS2-----A----	Atr
+10	"	Z:-------------	AuxG
+11	,	Z:-------------	AuxX
+12	který	P4IS4----------	Obj
+13	v	RR--4----------	AuxP
+14	úterý	NNNS4-----A----	Adv
+15	schválila	VpQW---XR-AA---	Atr
+16	japonská	AAFS1----1A----	Atr
+17	vláda	NNFS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95045-115-p3s1
+1	Podle	RR--2----------	AuxP
+2	tohoto	PDZS2----------	Atr
+3	programu	NNIS2-----A----	Adv
+4	bude	VB-S---3F-AA---	AuxV
+5	vláda	NNFS1-----A----	Sb
+6	do	RR--2----------	AuxP
+7	roku	NNIS2-----A---1	Adv
+8	2000	C=-------------	Atr
+9	subvencovat	Vf--------A----	Pred
+10	firmy	NNFP4-----A----	Obj
+11	budující	AGFP4-----A----	Atr
+12	celojaponskou	AAFS4----1A----	Atr
+13	informační	AAFS4----1A----	Atr
+14	síť	NNFS4-----A----	Obj
+15	z	RR--2----------	AuxP
+16	optických	AANP2----1A----	Atr
+17	vláken	NNNP2-----A----	Atr
+18	,	Z:-------------	Coord
+19	tato	PDFS1----------	Atr
+20	"	Z:-------------	AuxG
+21	informační	AAFS1----1A----	Atr
+22	dálnice	NNFS1-----A----	Sb
+23	"	Z:-------------	AuxG
+24	pak	Db-------------	Adv
+25	bude	VB-S---3F-AA---	AuxV
+26	postavena	VsQW---XX-AP---	Pred
+27	do	RR--2----------	AuxP
+28	roku	NNIS2-----A---1	Adv
+29	2010	C=-------------	Atr
+30	.	Z:-------------	AuxK
+
+ln95045-115-p3s2
+1	Vláda	NNFS1-----A----	Sb
+2	rovněž	Db-------------	Adv
+3	podpoří	VB-S---3P-AA---	Pred
+4	komputerizaci	NNFS4-----A----	Obj
+5	veřejných	AAFP2----1A----	Atr
+6	institucí	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	jako	J,-------------	AuxC
+9	jsou	VB-P---3P-AA---	Atr
+10	knihovny	NNFP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	nemocnice	NNFP1-----A----	Sb
+13	a	J^-------------	Coord
+14	vládní	AAFP1----1A----	Atr
+15	agentury	NNFP1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95045-115-p3s3
+1	Bude	VB-S---3F-AA---	AuxV
+2	také	Db-------------	Adv
+3	pokračovat	Vf--------A----	Pred
+4	v	RR--6----------	AuxP
+5	úsilí	NNNS6-----A----	Obj
+6	o	RR--4----------	AuxP
+7	vybudování	NNNS4-----A----	Atr
+8	satelitního	AAIS2----1A----	Atr
+9	telekomunikačního	AAIS2----1A----	Atr
+10	systému	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jehož	PJZS2----------	Atr
+13	úkolem	NNIS7-----A----	Pnom
+14	by	Vc-------------	AuxV
+15	bylo	VpNS---XR-AA---	Atr
+16	shromažďování	NNNS1-----A----	Sb
+17	informací	NNFP2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	případě	NNIS6-----A----	AuxP
+20	živelních	AAFP2----1A----	Atr
+21	pohrom	NNFP2-----A----	Adv
+22	.	Z:-------------	AuxK
+

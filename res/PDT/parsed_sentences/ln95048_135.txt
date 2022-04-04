@@ -1,0 +1,220 @@
+ln95048-135-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln95048-135-p2s1
+1	Příjem	NNIS4-----A----	Obj
+2	předběžných	AAFP2----1A----	Atr
+3	nabídek	NNFP2-----A----	Atr
+4	uchazečů	NNMP2-----A----	Atr
+5	o	RR--4----------	AuxP
+6	27	C=-------------	Atr
+7	%	Z:-------------	Atr
+8	akcií	NNFP2-----A----	Atr
+9	SPT	NNIXX-----A---8	Atr
+10	Telecom	NNIS1-----A----	Atr
+11	uzavřelo	VpNS---XR-AA---	Pred
+12	včera	Db-------------	Adv
+13	Ministerstvo	NNNS1-----A----	Sb
+14	hospodářství	NNNS2-----A----	Atr
+15	ČR	NNFXX-----A---8	Atr
+16	.	Z:-------------	AuxK
+
+ln95048-135-p2s2
+1	Nabídky	NNFP4-----A----	Obj
+2	předložilo	VpNS---XR-AA---	Pred
+3	pět	Cn-S1----------	Sb
+4	firem	NNFP2-----A----	Atr
+5	-	Z:-------------	AuxG
+6	italská	AAFS1----1A----	ExD
+7	STET	NNIS1-----A----	ExD
+8	International	NNXXX-----A---1	Atr
+9	a	J^-------------	Coord
+10	dánská	AAFS1----1A----	ExD
+11	Tele	AAXXX----1A----	ExD
+12	Danmark	NNIS1-----A----	Atr
+13	A	AAXXX----1A---8	Atr
+14	/	Z:-------------	AuxG
+15	S	NNXXX-----A---8	Atr
+16	samostatně	Dg-------1A----	ExD
+17	,	Z:-------------	Coord
+18	ostatní	AAMP1----1A----	Atr
+19	uchazeči	NNMP1-----A----	Sb
+20	vytvořili	VpMP---XR-AA---	Pred
+21	spojení	NNNS4-----A----	Obj
+22	:	Z:-------------	Apos
+23	TELFAR	NNXXX-----A---8	ExD
+24	,	Z:-------------	AuxX
+25	B	AAXXX----1A---8	Atr
+26	.	Z:-------------	AuxG
+27	V	NNXXX-----A---8	Atr
+28	.	Z:-------------	AuxG
+29	(	Z:-------------	Apos
+30	France	AAXXX----1A----	Atr
+31	Telecom	NNIS1-----A----	ExD
+32	+	Z:-------------	Coord
+33	Bell	NNMS1-----A----	Atr
+34	Atlantic	NNIS1-----A----	ExD
+35	)	Z:-------------	AuxG
+36	,	Z:-------------	AuxX
+37	TelSource	NNXXX-----A----	ExD
+38	N	AAXXX----1A---8	Atr
+39	.	Z:-------------	AuxG
+40	V	NNXXX-----A---8	Atr
+41	.	Z:-------------	AuxG
+42	(	Z:-------------	Apos
+43	PTT	NNXXX-----A---8	Atr
+44	Netherlands	NNXXX-----A----	ExD
+45	+	Z:-------------	AuxG
+46	Swiss	AAXXX----1A----	Atr
+47	Telecom	NNIS1-----A----	ExD
+48	+	Z:-------------	Coord
+49	AT	NNIXX-----A---8	ExD
+50	&	Z:-------------	Coord
+51	T	NNIXX-----A---8	ExD
+52	)	Z:-------------	AuxG
+53	a	J^-------------	Coord
+54	ČeTel	NNIS1-----A----	ExD
+55	(	Z:-------------	Apos
+56	Deutsche	AAXXX----1A----	Atr
+57	Telekom	NNIS1-----A----	ExD
+58	+	Z:-------------	Coord
+59	Ameritech	NNIS1-----A----	ExD
+60	)	Z:-------------	AuxG
+61	.	Z:-------------	AuxK
+
+ln95048-135-p2s5
+1	Vyhodnocení	NNNS1-----A----	Sb
+2	nabídek	NNFP2-----A----	Atr
+3	potrvá	VB-S---3P-AA---	Pred
+4	asi	TT-------------	AuxZ
+5	měsíc	NNIS4-----A----	Adv
+6	.	Z:-------------	AuxK
+
+ln95048-135-p3s1
+1	Do	RR--2----------	AuxP
+2	vazby	NNFS2-----A----	Adv
+3	vzal	VpYS---XR-AA---	Pred
+4	včera	Db-------------	Adv
+5	soudce	NNMS1-----A----	Sb
+6	Okresního	AAIS2----1A----	Atr
+7	soudu	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Českých	AAFP6----1A----	Atr
+10	Budějovicích	NNFP6-----A----	Atr
+11	Ludmilu	NNFS4-----A----	Atr
+12	S	NNFXX-----A---8	Obj
+13	.	Z:-------------	AuxG
+14	z	RR--2----------	AuxP
+15	Litoměřicka	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95048-135-p3s2
+1	Byla	VpQW---XR-AA---	AuxV
+2	obviněna	VsQW---XX-AP---	Pred
+3	z	RR--2----------	AuxP
+4	trestného	AAIS2----1A----	Atr
+5	činu	NNIS2-----A----	Obj
+6	padělání	NNNS2-----A----	Atr
+7	a	J^-------------	Coord
+8	pozměňování	NNNS2-----A----	Atr
+9	peněz	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95048-135-p3s3
+1	Žena	NNFS1-----A----	Sb
+2	měla	VpQW---XR-AA---	Pred
+3	v	RR--6----------	AuxP
+4	obchodech	NNIP6-----A----	Adv
+5	zejména	Db-------------	AuxZ
+6	v	RR--6----------	AuxP
+7	jižních	AAFP6----1A----	Atr
+8	a	J^-------------	Coord
+9	severních	AAFP6----1A----	Atr
+10	Čechách	NNFP6-----A----	Atr
+11	platit	Vf--------A----	Obj
+12	při	RR--6----------	AuxP
+13	drobných	AAIP6----1A----	Atr
+14	nákupech	NNIP6-----A----	Adv
+15	tisícikorunovými	AAFP7----1A----	Atr
+16	bankovkami	NNFP7-----A----	Adv
+17	,	Z:-------------	AuxX
+18	o	RR--6----------	AuxP
+19	nichž	P9XP6----------	Obj
+20	věděla	VpQW---XR-AA---	Atr
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	jsou	VB-P---3P-AA---	Obj
+24	padělané	AAFP1----1A----	Pnom
+25	.	Z:-------------	AuxK
+
+ln95048-135-p3s4
+1	Vypátrali	VpMP---XR-AA---	Pred
+2	ji	PPFS4--3-------	Obj
+3	společně	Dg-------1A----	Adv
+4	jihočeští	AAMP1----1A----	Atr
+5	a	J^-------------	Coord
+6	severočeští	AAMP1----1A----	Atr
+7	kriminalisté	NNMP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95048-135-p4s1
+1	Při	RR--6----------	AuxP
+2	letošní	AAFS6----1A----	Atr
+3	květnové	AAFS6----1A----	Atr
+4	návštěvě	NNFS6-----A----	Adv
+5	papeže	NNMS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Olomouci	NNFS6-----A----	Atr
+8	bude	VB-S---3F-AA---	AuxV
+9	spolu	Db-------------	AuxP
+10	s	RR--7----------	AuxP
+11	Janem	NNMS7-----A----	Atr
+12	Sarkandrem	NNMS7-----A----	Adv
+13	se	RV--7----------	AuxP
+14	vší	PLFS7----------	Atr
+15	pravděpodobností	NNFS7-----A----	Adv
+16	svatořečena	VsQW---XX-AP---	Pred
+17	i	J^-------------	AuxZ
+18	blahoslavená	AAFS1----1A----	Atr
+19	Zdislava	NNFS1-----A----	Sb
+20	z	RR--2----------	AuxP
+21	Lemberka	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95048-135-p4s2
+1	Ta	PDFS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	známa	ACQW------A----	Pnom
+4	tím	PDZS7----------	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	"	Z:-------------	AuxG
+8	konala	VpQW---XR-AA---	Atr
+9	uzdravování	NNNS4-----A----	Obj
+10	"	Z:-------------	AuxG
+11	a	J^-------------	Coord
+12	pomáhala	VpQW---XR-AA---	Atr
+13	trpícím	AGMP3-----A----	Obj
+14	v	RR--6----------	AuxP
+15	Jablonném	NNNS6-----A----	AtrAdv
+16	v	RR--6----------	AuxP
+17	Podještědí	NNNS6-----A----	Atr
+18	v	RR--6----------	AuxP
+19	1	C=-------------	Atr
+20	.	Z:-------------	AuxG
+21	polovině	NNFS6-----A----	Adv
+22	13	C=-------------	Atr
+23	.	Z:-------------	AuxG
+24	století	NNNS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95048-135-p4s3
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	řekl	VpYS---XR-AA---	Pred
+4	královéhradecký	AAMS1----1A----	Atr
+5	sídelní	AAMS1----1A----	Atr
+6	biskup	NNMS1-----A----	Atr
+7	Otčenášek	NNMS1-----A----	Sb
+8	.	Z:-------------	AuxK
+

@@ -1,0 +1,190 @@
+mf930713-047-p1s1
+1	Jeden	ClYS1----------	Sb
+2	z	RR--2----------	AuxP
+3	kandidátů	NNMP2-----A----	Atr
+4	na	RR--4----------	AuxP
+5	funkci	NNFS4-----A----	Obj
+6	ústavního	AAMS2----1A----	Atr
+7	soudce	NNMS2-----A----	Atr
+8	rezignoval	VpYS---XR-AA---	Pred
+
+mf930713-047-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	ben	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	čtk	NNFXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930713-047-p2s1B
+1	Na	RR--4----------	AuxP
+2	svou	P8FS4---------1	Atr
+3	kandidaturu	NNFS4-----A----	Obj
+4	soudce	NNMS2-----A----	Atr
+5	Ústavního	AAIS2----1A----	Atr
+6	soudu	NNIS2-----A----	Atr
+7	rezignoval	VpYS---XR-AA---	Pred
+8	JUDr	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Pavel	NNMS1-----A----	Atr
+11	Mates	NNIS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+mf930713-047-p2s2
+1	Tiskový	AAIS1----1A----	Atr
+2	odbor	NNIS1-----A----	Sb
+3	Kanceláře	NNFS2-----A----	Atr
+4	prezidenta	NNMS2-----A----	Atr
+5	republiky	NNFS2-----A----	Atr
+6	včera	Db-------------	Adv
+7	oznámil	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	Pavel	NNMS1-----A----	Atr
+11	Mates	NNIS1-----A----	Sb
+12	zaslal	VpYS---XR-AA---	Obj
+13	dopis	NNIS4-----A----	Obj
+14	s	RR--7----------	AuxP
+15	rezignací	NNFS7-----A----	Atr
+16	Václavu	NNMS3-----A---1	Atr
+17	Havlovi	NNMS3-----A----	Obj
+18	.	Z:-------------	AuxK
+
+mf930713-047-p2s3
+1	Prezident	NNMS1-----A----	Atr
+2	Havel	NNMS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	soudce	NNMS4-----A----	Obj
+5	jmenovat	Vf--------A----	Obj
+6	do	RR--2----------	AuxP
+7	funkcí	NNFP2-----A----	Adv
+8	již	Db-------------	AuxZ
+9	tento	PDIS4----------	Atr
+10	čtvrtek	NNIS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf930713-047-p2s4
+1	Pavel	NNMS1-----A----	Atr
+2	Mates	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	působící	AGMS1-----A----	Atr
+5	na	RR--6----------	AuxP
+6	Právnické	AAFS6----1A----	Atr
+7	fakultě	NNFS6-----A----	Adv
+8	Masarykovy	AUFS2M---------	Atr
+9	univerzity	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Brně	NNNS6-----A----	AtrAdv
+12	,	Z:-------------	AuxX
+13	byl	VpYS---XR-AA---	Pred
+14	jedním	ClZS7----------	Pnom
+15	ze	RV--2----------	AuxP
+16	třinácti	Cn-P2----------	Atr
+17	soudců	NNMP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	s	RR--7----------	AuxP
+20	jejichž	P1XXXXP3-------	Atr
+21	jmenováním	NNNS7-----A----	AdvAtr
+22	do	RR--2----------	AuxP
+23	funkce	NNFS2-----A----	Atr
+24	vyslovila	VpQW---XR-AA---	Atr
+25	minulý	AAIS4----1A----	Atr
+26	týden	NNIS4-----A----	Adv
+27	souhlas	NNIS4-----A----	Obj
+28	sněmovna	NNFS1-----A----	Sb
+29	parlamentu	NNIS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+mf930713-047-p2s5
+1	Pavel	NNMS1-----A----	Atr
+2	Mates	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	podle	RR--2----------	AuxP
+5	vlastního	AANS2----1A----	Atr
+6	vyjádření	NNNS2-----A----	Adv
+7	nachází	VB-S---3P-AA---	Pred
+8	ve	RV--6----------	AuxP
+9	špatném	AAIS6----1A----	Atr
+10	psychickém	AAIS6----1A----	Atr
+11	stavu	NNIS6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+mf930713-047-p2s6
+1	Odmítl	VpYS---XR-AA--1	Pred
+2	proto	J^-------------	Adv
+3	včera	Db-------------	Adv
+4	odpovědět	Vf--------A----	Obj
+5	na	RR--4----------	AuxP
+6	dotazy	NNIP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	proč	Db-------------	Adv
+9	rezignoval	VpYS---XR-AA---	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-047-p2s7
+1	Důvody	NNIP4-----A----	Obj
+2	svého	P8ZS2----------	Atr
+3	kroku	NNIS2-----A----	Atr
+4	sdělil	VpYS---XR-AA---	Pred
+5	pracovníkům	NNMP3-----A----	Obj
+6	Kanceláře	NNFS2-----A----	Atr
+7	prezidenta	NNMS2-----A----	Atr
+8	republiky	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf930713-047-p2s8
+1	Podle	RR--2----------	AuxP
+2	prezidentova	AUMS2M---------	Atr
+3	mluvčího	NNMS2-----A----	Atr
+4	Ladislava	NNMS2-----A----	Atr
+5	Špačka	NNMS2-----A----	Adv
+6	jsou	VB-P---3P-AA---	Pred
+7	tyto	PDIP1----------	Atr
+8	důvody	NNIP1-----A----	Sb
+9	soukromé	AAIP1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+mf930713-047-p2s9
+1	Prezident	NNMS1-----A----	Sb
+2	ani	J^-------------	Coord
+3	jeho	PSXXXZS3-------	Atr
+4	kancelář	NNFS1-----A----	Sb
+5	je	PPXP4--3-------	Obj
+6	nebudou	VB-P---3F-NA---	AuxV
+7	posuzovat	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	řekl	VpYS---XR-AA---	Pred
+10	Špaček	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+mf930713-047-p2s10
+1	Prezidentův	AUMS1M---------	Atr
+2	mluvčí	NNMS1-----A----	Sb
+3	také	Db-------------	Adv
+4	odmítl	VpYS---XR-AA--1	Pred
+5	potvrdit	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	Matesova	AUFS1M---------	Atr
+9	rezignace	NNFS1-----A----	Sb
+10	je	VB-S---3P-AA---	Obj
+11	důsledkem	NNIS7-----A----	Pnom
+12	sobotního	AAIS2----1A----	Atr
+13	článku	NNIS2-----A----	Atr
+14	Českého	AAIS2----1A----	Atr
+15	deníku	NNIS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	který	P4YS1----------	Sb
+18	zveřejnil	VpYS---XR-AA---	AtrAtr
+19	úryvky	NNIP4-----A----	Obj
+20	z	RR--2----------	AuxP
+21	Matesových	AUFP2M---------	Atr
+22	prací	NNFP2-----A----	Atr
+23	z	RR--2----------	AuxP
+24	let	NNNP2-----A----	Atr
+25	1978	C=-------------	Atr
+26	a	J^-------------	Coord
+27	1981	C=-------------	Atr
+28	.	Z:-------------	AuxK
+

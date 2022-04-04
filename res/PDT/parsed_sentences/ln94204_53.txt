@@ -1,0 +1,363 @@
+ln94204-53-p1s1
+1	Vina	NNFS1-----A----	Sb
+2	ředitele	NNMS2-----A----	Atr
+3	drah	NNFP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	sporná	AAFS1----1A----	Pnom
+
+ln94204-53-p2s1A
+1	Státní	AANS1----1A----	Atr
+2	zastupitelství	NNNS1-----A----	Sb
+3	posuzuje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	zda	J,-------------	AuxC
+6	obžalovat	Vf--------A----	Obj
+7	E	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Šípa	NNMS4-----A----	Obj
+
+ln94204-53-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jap	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-53-p2s1C
+1	Generální	AAMS1----1A----	Atr
+2	ředitel	NNMS1-----A----	Atr
+3	Českých	AAFP2----1A----	Atr
+4	drah	NNFP2-----A----	Atr
+5	Emanuel	NNMS1-----A----	Atr
+6	Šíp	NNMS1-----A----	Sb
+7	zatím	Db-------------	Adv
+8	neobdržel	VpYS---XR-NA---	Pred
+9	žádné	PWNS4----------	Atr
+10	oznámení	NNNS4-----A----	Obj
+11	o	RR--6----------	AuxP
+12	tom	PDZS6----------	Atr
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	by	Vc-------------	AuxV
+16	byl	VpYS---XR-AA---	AuxV
+17	obžalován	VsYS---XX-AP---	Atr
+18	v	RR--6----------	AuxP
+19	souvislosti	NNFS6-----A----	AuxP
+20	se	RV--7----------	AuxP
+21	svým	P8ZS7----------	Atr
+22	jednáním	NNNS7-----A----	Adv
+23	před	RR--7----------	AuxP
+24	loni	Db------------1	Adv
+25	připravovanou	AAFS7----1A----	Atr
+26	stávkou	NNFS7-----A----	Atr
+27	železničářů	NNMP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94204-53-p2s2
+1	Nehodlá	VB-S---3P-NA---	Pred
+2	se	P7-X4----------	AuxT
+3	tedy	Db-------------	AuxY
+4	vyjadřovat	Vf--------A----	Obj
+5	k	RR--3----------	AuxP
+6	informaci	NNFS3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	podle	RR--2----------	AuxP
+9	níž	P9FS2----------	Adv
+10	pražský	AAIS1----1A----	Atr
+11	úřad	NNIS1-----A----	Sb
+12	vyšetřování	NNNS2-----A----	Atr
+13	dokončil	VpYS---XR-AA---	Atr
+14	v	RR--6----------	AuxP
+15	této	PDFS6----------	Atr
+16	věci	NNFS6-----A----	Adv
+17	šetření	NNNS4-----A----	Obj
+18	a	J^-------------	Coord
+19	předal	VpYS---XR-AA---	Atr
+20	spis	NNIS4-----A----	Obj
+21	městskému	AANS3----1A----	Atr
+22	státnímu	AANS3----1A----	Atr
+23	zastupitelství	NNNS3-----A----	Obj
+24	s	RR--7----------	AuxP
+25	návrhem	NNIS7-----A----	Adv
+26	na	RR--4----------	AuxP
+27	podání	NNNS4-----A----	Atr
+28	obžaloby	NNFS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94204-53-p3s1
+1	Podnět	NNIS4-----A----	Obj
+2	k	RR--3----------	AuxP
+3	trestnímu	AANS3----1A----	Atr
+4	stíhání	NNNS3-----A----	Atr
+5	generálního	AAMS2----1A----	Atr
+6	ředitele	NNMS2-----A----	Atr
+7	podalo	VpNS---XR-AA---	Pred
+8	právní	AANS1----1A----	Atr
+9	oddělení	NNNS1-----A----	Sb
+10	Odborového	AANS2----1A----	Atr
+11	sdružení	NNNS2-----A----	Atr
+12	železničářů	NNMP2-----A----	Atr
+13	(	Z:-------------	Apos
+14	OSŽ	NNNXX-----A---8	Atr
+15	)	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	protože	J,-------------	AuxC
+18	považovalo	VpNS---XR-AA---	Adv
+19	ředitelův	AUIS4M---------	Atr
+20	postup	NNIS4-----A----	Obj
+21	proti	RR--3----------	AuxP
+22	stávce	NNFS3-----A----	Atr
+23	připravované	AAFS3----1A----	Atr
+24	tímto	PDZS7----------	Atr
+25	sdružením	NNNS7-----A----	Obj
+26	za	RR--4----------	AuxP
+27	nezákonný	AAIS4----1N----	Obj
+28	.	Z:-------------	AuxK
+
+ln94204-53-p3s2
+1	Odboráři	NNMP1-----A----	Sb
+2	obvinili	VpMP---XR-AA---	Pred
+3	E	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Šípa	NNMS4-----A----	Obj
+6	z	RR--2----------	AuxP
+7	porušení	NNNS2-----A----	Obj
+8	pracovněprávních	AAIP2----1A----	Atr
+9	předpisů	NNIP2-----A----	Atr
+10	a	J^-------------	Coord
+11	z	RR--2----------	AuxP
+12	nabádání	NNNS2-----A----	Obj
+13	k	RR--3----------	AuxP
+14	nezákonnému	AAIS3----1N----	Atr
+15	postupu	NNIS3-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94204-53-p3s3
+1	Toho	PDZS2----------	Obj
+2	se	P7-X4----------	AuxT
+3	měl	VpYS---XR-AA---	Pred
+4	dopustit	Vf--------A----	Obj
+5	tím	PDZS7----------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	železničářům	NNMP3-----A----	Obj
+9	,	Z:-------------	AuxX
+10	kteří	P4MP1----------	Sb
+11	se	P7-X4----------	AuxT
+12	chtěli	VpMP---XR-AA---	Atr
+13	stávky	NNFS2-----A----	Obj
+14	zúčastnit	Vf--------A----	Obj
+15	,	Z:-------------	AuxX
+16	pohrozil	VpYS---XR-AA---	Atr
+17	výpovědí	NNFS7-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94204-53-p3s4
+1	Přednostům	NNMP3-----A----	Obj
+2	železničních	AANP2----1A----	Atr
+3	pracovišť	NNNP2-----A----	Atr
+4	Šíp	NNMS1-----A----	Sb
+5	rozkazem	NNIS7-----A----	Adv
+6	nařídil	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	proti	RR--3----------	AuxP
+10	stávkujícím	AGMP3-----A----	Atr
+11	zaměstnancům	NNMP3-----A----	Obj
+12	postupovali	VpMP---XR-AA---	Obj
+13	jako	J,-------------	AuxC
+14	proti	RR--3----------	AuxP
+15	narušitelům	NNMP3-----A----	ExD
+16	pracovní	AAFS2----1A----	Atr
+17	kázně	NNFS2-----A----	Atr
+18	a	J^-------------	Coord
+19	absentérům	NNMP3-----A----	ExD
+20	.	Z:-------------	AuxK
+
+ln94204-53-p3s5
+1	Rozhodnutí	NNNS1-----A----	Sb
+2	státního	AANS2----1A----	Atr
+3	zastupitelství	NNNS2-----A----	Atr
+4	o	RR--6----------	AuxP
+5	Šípově	AUIS6M---------	Atr
+6	spisu	NNIS6-----A---1	Atr
+7	by	Vc-------------	AuxV
+8	mělo	VpNS---XR-AA---	Pred
+9	padnout	Vf--------A----	Obj
+10	do	RR--2----------	AuxP
+11	měsíce	NNIS2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94204-53-p4s1
+1	Stávka	NNFS1-----A----	Sb
+2	byla	VpQW---XR-AA---	AuxV
+3	vyhlášena	VsQW---XX-AP---	Pred
+4	poté	Db-------------	Adv
+5	,	Z:-------------	AuxX
+6	co	J,-------------	AuxC
+7	ministr	NNMS1-----A----	Sb
+8	dopravy	NNFS2-----A----	Atr
+9	vydal	VpYS---XR-AA---	Adv
+10	nový	AAIS4----1A----	Atr
+11	tarif	NNIS4-----A----	Obj
+12	upravující	AGIS4-----A----	Atr
+13	ceny	NNFP4-----A----	Obj
+14	jízdného	NNNS2-----A----	Atr
+15	pro	RR--4----------	AuxP
+16	zaměstnance	NNMP4-----A----	Atr
+17	ČD	NNFPX-----A----	Atr
+18	a	J^-------------	Coord
+19	jejich	PSXXXXP3-------	Atr
+20	rodinné	AAMP4----1A----	Atr
+21	příslušníky	NNMP4-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94204-53-p4s2
+1	Zaměstnanci	NNMP1-----A----	Sb
+2	mají	VB-P---3P-AA---	Pred
+3	právo	NNNS4-----A----	Obj
+4	stávkovat	Vf--------A----	Atr
+5	pouze	Db-------------	AuxZ
+6	v	RR--6----------	AuxP
+7	případě	NNIS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	důvod	NNIS1-----A----	Sb
+12	stávky	NNFS2-----A----	Atr
+13	týká	VB-S---3P-AA---	Atr
+14	uzavření	NNNS2-----A----	Obj
+15	kolektivní	AAFS2----1A----	Atr
+16	smlouvy	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94204-53-p4s3
+1	Jiný	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	Sb
+3	stanovící	AGIS1-----A----	Atr
+4	pravidla	NNNP4-----A----	Obj
+5	stávky	NNFS2-----A----	Atr
+6	neexistuje	VB-S---3P-NA---	Pred
+7	.	Z:-------------	AuxK
+
+ln94204-53-p4s4
+1	Tarif	NNIS1-----A----	Sb
+2	však	J^-------------	Coord
+3	není	VB-S---3P-NA---	Pred
+4	předmětem	NNIS7-----A----	Pnom
+5	kolektivního	AANS2----1A----	Atr
+6	vyjednávání	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94204-53-p4s5
+1	Kdyby	J,-------------	AuxC
+2	se	P7-X4----------	AuxR
+3	uskutečnila	VpQW---XR-AA---	Adv
+4	,	Z:-------------	AuxX
+5	šlo	VpNS---XR-AA---	Obj
+6	by	Vc-------------	AuxV
+7	o	RR--4----------	AuxP
+8	stávku	NNFS4-----A----	Obj
+9	zákonem	NNIS7-----A----	Adv
+10	neupravenou	AAFS4----1N----	Atr
+11	,	Z:-------------	AuxX
+12	přestože	J,-------------	AuxC
+13	ústavní	AAFS1----1A----	Atr
+14	listina	NNFS1-----A----	Sb
+15	právo	NNNS4-----A----	Obj
+16	na	RR--4----------	AuxP
+17	stávku	NNFS4-----A----	Atr
+18	zaručuje	VB-S---3P-AA---	Adv
+19	,	Z:-------------	AuxX
+20	řekl	VpYS---XR-AA---	Pred
+21	už	Db-------------	AuxZ
+22	před	RR--7----------	AuxP
+23	časem	NNIS7-----A----	Adv
+24	LN	NNFPX-----A---8	Obj
+25	Jan	NNMS1-----A----	Atr
+26	Kostečka	NNMS1-----A----	Sb
+27	z	RR--2----------	AuxP
+28	Ústavu	NNIS2-----A----	Atr
+29	státu	NNIS2-----A----	Atr
+30	a	J^-------------	Coord
+31	práva	NNNS2-----A----	Atr
+32	Akademie	NNFS2-----A----	Atr
+33	věd	NNFP2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94204-53-p4s6
+1	Postup	NNIS1-----A----	Sb
+2	E	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Šípa	NNMS2-----A----	Atr
+5	proti	RR--3----------	AuxP
+6	stávkujícím	AGMP3-----A----	Atr
+7	zaměstnancům	NNMP3-----A----	Atr
+8	podle	RR--2----------	AuxP
+9	něj	P5ZS2--3-------	Adv
+10	nezákonný	AAIS1----1N----	Pnom
+11	nebyl	VpYS---XR-NA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94204-53-p4s7
+1	Ředitelovo	AUNS4M---------	Atr
+2	upozornění	NNNS4-----A----	Obj
+3	zaměstnanců	NNMP2-----A----	Atr
+4	na	RR--4----------	AuxP
+5	možnost	NNFS4-----A----	Atr
+6	výpovědi	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	případě	NNIS6-----A----	AtrAtr
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	poruší	VB-P---3P-AA---	Atr
+12	pracovněprávní	AAIP4----1A----	Atr
+13	předpisy	NNIP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	bych	Vc-S---1-------	AuxV
+16	viděl	VpYS---XR-AA---	Pred
+17	spíš	Dg-------2A----	Adv
+18	jako	J,-------------	AuxY
+19	plus	NNIS4-----A----	Atv
+20	.	Z:-------------	AuxK
+
+ln94204-53-p4s8
+1	Zákoník	NNIS1-----A----	Sb
+2	práce	NNFS2-----A----	Atr
+3	totiž	Db-------------	AuxY
+4	dává	VB-S---3P-AA---	Obj
+5	najevo	Db-------------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	zaměstnavatel	NNMS1-----A----	Sb
+9	by	Vc-------------	AuxV
+10	měl	VpYS---XR-AA---	Obj
+11	zaměstnance	NNMP4-----A----	Obj
+12	na	RR--4----------	AuxP
+13	chování	NNNS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	které	P4NS4----------	Obj
+16	pokládá	VB-S---3P-AA---	Atr
+17	za	RR--4----------	AuxP
+18	porušení	NNNS4-----A----	Obj
+19	pracovněprávních	AAIP2----1A----	Atr
+20	předpisů	NNIP2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	upozornit	Vf--------A----	Obj
+23	předtím	Db-------------	Adv
+24	,	Z:-------------	AuxX
+25	než	J,-------------	AuxC
+26	jim	PPXP3--3-------	Obj
+27	dá	VB-S---3P-AA---	Adv
+28	ze	RV--2----------	AuxP
+29	stejného	AAIS2----1A----	Atr
+30	důvodu	NNIS2-----A----	Adv
+31	výpověď	NNFS4-----A----	Obj
+32	,	Z:-------------	AuxX
+33	domnívá	VB-S---3P-AA---	Pred
+34	se	P7-X4----------	AuxT
+35	J	NNMXX-----A---8	Atr
+36	.	Z:-------------	AuxG
+37	Kostečka	NNMS1-----A----	Sb
+38	.	Z:-------------	AuxK
+

@@ -1,0 +1,240 @@
+ln94208-148-p1s1
+1	Nezájem	NNIS1-----A----	ExD
+2	o	RR--4----------	AuxP
+3	malého	AAMS4----1A----	Atr
+4	investora	NNMS4-----A----	Atr
+
+ln94208-148-p2s1
+1	Jednou	ClFS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	bolestí	NNFP2-----A----	Atr
+4	rodícího	AGIS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	českého	AAIS2----1A----	Atr
+7	kapitálového	AAIS2----1A----	Atr
+8	trhu	NNIS2-----A----	Atr
+9	je	VB-S---3P-AA---	Pred
+10	nedostatek	NNIS1-----A----	Sb
+11	informací	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94208-148-p2s2
+1	Dostatečnou	AAFS4----1A----	Atr
+2	vypovídací	AAFS4----1A----	Atr
+3	schopnost	NNFS4-----A----	Obj
+4	nemají	VB-P---3P-NA---	Pred
+5	prospekty	NNIP1-----A----	Sb
+6	emitenta	NNMS2-----A----	Atr
+7	jednotlivých	AAFP2----1A----	Atr
+8	firem	NNFP2-----A----	Atr
+9	ani	J^-------------	Coord
+10	statuty	NNIP1-----A----	Sb
+11	fondů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94208-148-p3s1
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	zahraničí	NNNS2-----A----	Adv
+5	nemají	VB-P---3P-NA---	Pred
+6	navíc	Db-------------	Adv
+7	podniky	NNIP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	banky	NNFP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	fondy	NNIP1-----A----	Sb
+12	ani	J^-------------	Coord
+13	jiné	AAFP1----1A----	Atr
+14	instituce	NNFP1-----A----	Sb
+15	povinnost	NNFS4-----A----	Obj
+16	uvádět	Vf--------A----	Atr
+17	,	Z:-------------	AuxX
+18	když	J,-------------	AuxC
+19	jejich	PSXXXXP3-------	Atr
+20	podíl	NNIS1-----A----	Sb
+21	na	RR--6----------	AuxP
+22	určité	AAFS6----1A----	Atr
+23	firmě	NNFS6-----A----	Atr
+24	překročí	VB-S---3P-AA---	Obj
+25	určité	AANS4----1A----	Atr
+26	,	Z:-------------	Coord
+27	zákonem	NNIS7-----A----	Adv
+28	předem	Db-------------	Adv
+29	stanovené	AANS4----1A----	Atr
+30	procento	NNNS4-----A----	Obj
+31	.	Z:-------------	AuxK
+
+ln94208-148-p3s2
+1	Podle	RR--2----------	AuxP
+2	informace	NNFS2-----A----	Adv
+3	Jiřího	NNMS2-----A----	Atr
+4	Béra	NNMS2-----A----	Atr
+5	z	RR--2----------	AuxP
+6	Burzy	NNFS2-----A----	Atr
+7	cenných	AAIP2----1A----	Atr
+8	papírů	NNIP2-----A----	Atr
+9	Praha	NNFS1-----A----	Atr
+10	jde	VB-S---3P-AA---	Pred
+11	v	RR--6----------	AuxP
+12	zahraničí	NNNS6-----A----	Adv
+13	zpravidla	Db-------------	Adv
+14	o	RR--4----------	AuxP
+15	desetinový	AAIS4----1A----	Atr
+16	podíl	NNIS4-----A----	Obj
+17	na	RR--6----------	AuxP
+18	společnosti	NNFS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94208-148-p4s1
+1	Tato	PDFS1----------	Atr
+2	ohlašovací	AAFS1----1A----	Atr
+3	povinnost	NNFS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	jednotlivých	AAFP6----1A----	Atr
+7	vyspělých	AAFP6----1A----	Atr
+8	zemích	NNFP6-----A----	Adv
+9	rozdílná	AAFS1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+ln94208-148-p4s2
+1	V	RR--6----------	AuxP
+2	Japonsku	NNNS6-----A----	Adv
+3	musí	VB-S---3P-AA---	Pred
+4	například	Db-------------	AuxY
+5	investor	NNMS1-----A----	Sb
+6	oznámit	Vf--------A----	Obj
+7	již	Db-------------	AuxZ
+8	dosažení	NNNS4-----A----	Obj
+9	pětiprocentního	AAIS2----1A----	Atr
+10	podílu	NNIS2-----A----	Atr
+11	na	RR--6----------	AuxP
+12	firmě	NNFS6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94208-148-p4s3
+1	Informovat	Vf--------A----	Obj
+2	musí	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	o	RR--6----------	AuxP
+5	tom	PDZS6----------	Obj
+6	,	Z:-------------	AuxX
+7	když	J,-------------	AuxC
+8	se	P7-X4----------	AuxR
+9	jeho	PSXXXZS3-------	Atr
+10	podíl	NNIS1-----A----	Sb
+11	ve	RV--6----------	AuxP
+12	firmě	NNFS6-----A----	Atr
+13	zvýší	VB-S---3P-AA---	Atr
+14	na	RR--4----------	AuxP
+15	deset	Cn-S4----------	Obj
+16	,	Z:-------------	AuxX
+17	patnáct	Cn-S4----------	Obj
+18	,	Z:-------------	AuxX
+19	dvacet	Cn-S4----------	Obj
+20	nebo	J^-------------	Coord
+21	více	Dg-------2A----	Obj
+22	procent	NNNP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94208-148-p5s1
+1	Připravuje	VB-S---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	se	P7-X4----------	AuxT
+5	investor	NNMS1-----A----	Sb
+6	na	RR--4----------	AuxP
+7	převzetí	NNNS4-----A----	Adv
+8	nadpolovičního	AAIS2----1A----	Atr
+9	podílu	NNIS2-----A----	Atr
+10	ve	RV--6----------	AuxP
+11	společnosti	NNFS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	musí	VB-S---3P-AA---	Pred
+14	tento	PDIS4----------	Atr
+15	krok	NNIS4-----A----	Obj
+16	ohlásit	Vf--------A----	Obj
+17	předem	Db-------------	Adv
+18	a	J^-------------	Coord
+19	s	RR--7----------	AuxP
+20	dostatečným	AAIS7----1A----	Atr
+21	předstihem	NNIS7-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln94208-148-p5s2
+1	Podle	RR--2----------	AuxP
+2	zákona	NNIS2-----A----	Adv
+3	o	RR--6----------	AuxP
+4	ochraně	NNFS6-----A----	Atr
+5	drobného	AAMS2----1A----	Atr
+6	investora	NNMS2-----A----	Atr
+7	má	VB-S---3P-AA---	Pred
+8	přitom	Db-------------	Adv
+9	ve	RV--6----------	AuxP
+10	vyspělých	AAFP6----1A----	Atr
+11	zemích	NNFP6-----A----	Adv
+12	občan	NNMS1-----A----	Sb
+13	právo	NNNS4-----A----	Obj
+14	prodat	Vf--------A----	Atr
+15	své	P8FP4---------1	Atr
+16	akcie	NNFP4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	a	J^-------------	AuxY
+19	to	PDNS4----------	AuxY
+20	za	RR--4----------	AuxP
+21	tržní	AAFS4----1A----	Atr
+22	cenu	NNFS4-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94208-148-p5s3
+1	Předpokládá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	totiž	Db-------------	AuxY
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	majoritní	AAMS1----1A----	Atr
+7	majitel	NNMS1-----A----	Sb
+8	bude	VB-S---3F-AA---	AuxV
+9	mít	Vf--------A----	Sb
+10	jiné	AAIP4----1A----	Atr
+11	záměry	NNIP4-----A----	Obj
+12	než	J,-------------	AuxC
+13	drobný	AAMS1----1A----	Atr
+14	investor	NNMS1-----A----	ExD
+15	.	Z:-------------	AuxK
+
+ln94208-148-p5s4A
+1	Může	VB-S---3P-AA---	Pred
+2	tedy	Db-------------	AuxY
+3	například	Db-------------	AuxY
+4	po	RR--4----------	AuxP
+5	řadu	NNFS4-----A----	Adv
+6	let	NNNP2-----A----	Atr
+7	předpokládané	AAIP4----1A----	Atr
+8	zisky	NNIP4-----A----	Obj
+9	investovat	Vf--------A----	Obj
+10	zpět	Db-------------	Adv
+11	do	RR--2----------	AuxP
+12	výroby	NNFS2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	takže	J,-------------	AuxC
+15	výplata	NNFS1-----A----	Sb
+16	dividend	NNFP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	kterou	P4FS4----------	Obj
+19	preferuje	VB-S---3P-AA---	Atr
+20	většina	NNFS1-----A----	Sb
+21	drobných	AAMP2----1A----	Atr
+22	investorů	NNMP2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	nepřipadá	VB-S---3P-NA---	Adv
+25	v	RR--4----------	AuxP
+26	úvahu	NNFS4-----A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94208-148-p5s4B
+1	(	Z:-------------	ExD
+2	ma	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

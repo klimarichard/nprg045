@@ -1,0 +1,679 @@
+lnd91301-077-p1s1
+1	ROZHOVOR	NNIS1-----A----	ExD
+2	S	RR--7----------	AuxP
+3	ČESKÝM	AAMS7----1A----	Atr
+4	MALÍŘEM	NNMS7-----A----	Atr
+5	A	J^-------------	Coord
+6	VÝTVARNÍKEM	NNMS7-----A----	Atr
+7	PAŘÍŽSKÉ	AAFS2----1A----	Atr
+8	REVUE	NNFS2-----A----	Atr
+9	K	NNXXX-----A---8	Atr
+10	ROMANEM	NNMS7-----A----	Atr
+11	KAMEŠEM	NNMS7-----A----	Atr
+
+lnd91301-077-p2s1
+1	Vybral	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	si	P7-X3----------	Adv
+4	Paříž	NNFS4-----A----	Obj
+
+lnd91301-077-p3s1
+1	Romana	NNMS2-----A----	Atr
+2	Kameše	NNMS4-----A----	Obj
+3	jsem	VB-S---1P-AA---	AuxV
+4	našla	VpQW---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	malé	AAFS6----1A----	Atr
+7	tiskárně	NNFS6-----A----	Adv
+8	v	RR--6----------	AuxP
+9	Belleville	NNNXX-----A----	AtrAdv
+10	,	Z:-------------	AuxX
+11	kde	Db-------------	Adv
+12	kontroloval	VpYS---XR-AA---	Atr
+13	soutisk	NNIS4-----A----	Obj
+14	barev	NNFP2-----A----	Atr
+15	na	RR--6----------	AuxP
+16	plakátu	NNIS6-----A---1	AtrAtr
+17	Jiřího	NNMS2-----A----	Atr
+18	Koláře	NNMS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd91301-077-p3s2
+1	Poblíž	RR--2----------	AuxP
+2	tiskárny	NNFS2-----A----	Adv
+3	bydlí	VB-S---3P-AA---	Pred
+4	spisovatel	NNMS1-----A----	Atr
+5	Lubomír	NNMS1-----A----	Atr
+6	Martínek	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	a	J^-------------	Coord
+9	tak	Db-------------	AuxY
+10	jsme	VB-P---1P-AA---	AuxV
+11	šli	VpMP---XR-AA---	Pred
+12	ve	RV--6----------	AuxP
+13	třech	ClXP6----------	Adv
+14	na	RR--4----------	AuxP
+15	pivo	NNNS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd91301-077-p3s3
+1	Nejdříve	Dg-------3A----	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	probrali	VpMP---XR-AA---	Pred
+4	pařížské	AAIP4----1A----	Atr
+5	drby	NNIP4-----A----	Obj
+6	o	RR--6----------	AuxP
+7	Lidových	AAFP6----1A----	Atr
+8	a	J^-------------	Coord
+9	Literárních	AAFP6----1A----	Atr
+10	novinách	NNFP6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd91301-077-p3s4
+1	Ty	PDIP1----------	Sb
+2	nám	PP-P3--1-------	Adv
+3	ale	J^-------------	Coord
+4	nevydržely	VpTP---XR-NA---	Pred
+5	moc	Db-------------	Adv
+6	dlouhou	AAFS4----1A----	Atr
+7	dobu	NNFS4-----A----	Adv
+8	.	Z:-------------	AuxK
+
+lnd91301-077-p4s1
+1	Pane	NNMS5-----A----	Atr
+2	Kameši	NNMS5-----A----	ExD
+3	,	Z:-------------	AuxX
+4	ve	RV--6----------	AuxP
+5	výtvarném	AAIS6----1A----	Atr
+6	okruhu	NNIS6-----A----	Adv
+7	Revue	NNFS2-----A----	Atr
+8	K	NNXXX-----A---8	Atr
+9	patříte	VB-P---2P-AA---	Pred
+10	k	RR--3----------	AuxP
+11	nejznámějším	AANP3----3A----	Atr
+12	jménům	NNNP3-----A----	Adv
+13	.	Z:-------------	AuxK
+
+lnd91301-077-p4s2
+1	Ve	RV--6----------	AuxP
+2	Francii	NNFS6-----A----	Adv
+3	ani	J^-------------	Coord
+4	jiné	AAFS6----1A----	Atr
+5	zemi	NNFS6-----A----	Adv
+6	však	J^-------------	Coord
+7	příliš	Db-------------	Adv
+8	nevystavujete	VB-P---2P-NA---	Pred
+9	a	J^-------------	Coord
+10	neprodáváte	VB-P---2P-NA---	Pred
+11	.	Z:-------------	AuxK
+
+lnd91301-077-p4s3
+1	Jaká	P4FS1----------	Pnom
+2	byla	VpQW---XR-AA---	Pred
+3	vaše	PSHS1-P2-------	Atr
+4	cesta	NNFS1-----A----	Sb
+5	osamělého	AAMS2----1A----	Atr
+6	běžce	NNMS2-----A----	Atr
+7	od	RR--2----------	AuxP
+8	začátku	NNIS2-----A----	AtrAdv
+9	emigrace	NNFS2-----A----	Atr
+10	až	TT-------------	AuxZ
+11	k	RR--3----------	AuxP
+12	Revue	NNFS3-----A----	AtrAdv
+13	K	NNXXX-----A---8	Atr
+14	?	Z:-------------	AuxK
+
+lnd91301-077-p5s1
+1	Po	RR--6----------	AuxP
+2	neúspěšných	AAIP6----1N----	Atr
+3	pokusech	NNIP6-----A----	Adv
+4	o	RR--4----------	AuxP
+5	přijetí	NNNS4-----A----	Atr
+6	na	RR--4----------	AuxP
+7	pražské	AAFP4----1A----	Atr
+8	umělecké	AAFP4----1A----	Atr
+9	školy	NNFP4-----A----	Atr
+10	jsem	VB-S---1P-AA---	AuxV
+11	v	RR--6----------	AuxP
+12	roce	NNIS6-----A---1	Adv
+13	1973	C=-------------	Atr
+14	poslal	VpYS---XR-AA---	Pred
+15	na	RR--4----------	AuxP
+16	akademii	NNFS4-----A----	Adv
+17	do	RR--2----------	AuxP
+18	Paříže	NNFS2-----A----	Adv
+19	fotky	NNFP4-----A----	Obj
+20	svých	P8XP2----------	Atr
+21	obrazů	NNIP2-----A----	Atr
+22	a	J^-------------	Coord
+23	tam	Db-------------	Adv
+24	mě	PH-S4--1-------	Obj
+25	na	RR--6----------	AuxP
+26	základě	NNIS6-----A----	AuxP
+27	prohlášení	NNNS2-----A----	Adv
+28	,	Z:-------------	AuxX
+29	že	J,-------------	AuxC
+30	to	PDNS1----------	Sb
+31	jsou	VB-P---3P-AA---	Atr
+32	skutečně	Dg-------1A----	Adv
+33	mé	PSFP1-S1------1	Atr
+34	práce	NNFP1-----A----	Pnom
+35	,	Z:-------------	AuxX
+36	přijali	VpMP---XR-AA---	Pred
+37	.	Z:-------------	AuxK
+
+lnd91301-077-p5s2
+1	Francouzský	AAIS1----1A----	Atr
+2	institut	NNIS1-----A----	Sb
+3	potvrdil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	je	VB-S---3P-AA---	Obj
+7	možné	AANS1----1A----	Pnom
+8	získat	Vf--------A----	Sb
+9	stipendium	NNNS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	Češi	NNMP1-----A----	Sb
+13	prý	TT-------------	AuxY
+14	mě	PH-S4--1-------	Obj
+15	nepustí	VB-P---3P-NA---	Obj
+16	.	Z:-------------	AuxK
+
+lnd91301-077-p5s3
+1	Rozhodl	VpYS---XR-AA--1	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	uteču	VB-S---1P-AA---	Obj
+7	.	Z:-------------	AuxK
+
+lnd91301-077-p5s4
+1	Zvolil	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	komplikovanou	AAFS4----1A----	Atr
+4	a	J^-------------	Coord
+5	tehdy	Db-------------	Adv
+6	jedinou	AAFS4----1A----	Atr
+7	možnou	AAFS4----1A----	Atr
+8	cestu	NNFS4-----A----	Obj
+9	přes	RR--4----------	AuxP
+10	Burgas	NNIS4-----A----	Atr
+11	do	RR--2----------	AuxP
+12	Turecka	NNNS2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	pak	Db-------------	ExD
+15	do	RR--2----------	AuxP
+16	Říma	NNIS2-----A----	ExD
+17	,	Z:-------------	AuxX
+18	a	J^-------------	Coord
+19	přes	RR--4----------	AuxP
+20	Švýcarsko	NNNS4-----A----	ExD
+21	do	RR--2----------	AuxP
+22	Paříže	NNFS2-----A----	ExD
+23	.	Z:-------------	AuxK
+
+lnd91301-077-p5s5
+1	Zpočátku	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	dostával	VpYS---XR-AA---	Pred
+4	stipendium	NNNS4-----A----	Obj
+5	od	RR--2----------	AuxP
+6	organizace	NNFS2-----A----	ObjAtr
+7	Francouzská	AAFS1----1A----	Atr
+8	univerzitní	AAFS1----1A----	Atr
+9	výpomoc	NNFS1-----A----	Atr
+10	,	Z:-------------	Coord
+11	později	Dg-------2A----	ExD
+12	od	RR--2----------	AuxP
+13	školy	NNFS2-----A----	ExD
+14	.	Z:-------------	AuxK
+
+lnd91301-077-p5s6
+1	Studoval	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	čtyři	ClXP4----------	Atr
+4	roky	NNIP4-----A----	Adv
+5	a	J^-------------	Coord
+6	potom	Db-------------	ExD
+7	ještě	Db-------------	AuxZ
+8	s	RR--7----------	AuxP
+9	přestávkami	NNFP7-----A----	ExD
+10	architekturu	NNFS4-----A----	ExD
+11	.	Z:-------------	AuxK
+
+lnd91301-077-p5s7
+1	Bydlel	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	v	RR--6----------	AuxP
+4	malém	AAIS6----1A----	Atr
+5	podkrovním	AAIS6----1A----	Atr
+6	pokojíku	NNIS6-----A----	Adv
+7	v	RR--6----------	AuxP
+8	Louvre	NNIXX-----A----	AtrAdv
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	jsem	VB-S---1P-AA---	AuxV
+12	mohl	VpYS---XR-AA---	Atr
+13	malovat	Vf--------A----	Obj
+14	jen	TT-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	menších	AAIP6----2A----	Atr
+17	formátech	NNIP6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+lnd91301-077-p5s8
+1	Před	RR--7----------	AuxP
+2	6	C=-------------	Atr
+3	lety	NNNP7-----A----	Adv
+4	jsem	VB-S---1P-AA---	AuxV
+5	dostal	VpYS---XR-AA---	Pred
+6	od	RR--2----------	AuxP
+7	ministerstva	NNNS2-----A----	Adv
+8	kultury	NNFS2-----A----	Atr
+9	velmi	Db-------------	Adv
+10	dobrý	AAIS4----1A----	Atr
+11	ateliér	NNIS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	kde	Db-------------	Adv
+14	nyní	Db-------------	Adv
+15	pracuji	VB-S---1P-AA--1	Atr
+16	.	Z:-------------	AuxK
+
+lnd91301-077-p5s9
+1	Je	VB-S---3P-AA---	Pred
+2	pravda	NNFS1-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	moc	Db-------------	Adv
+6	nevystavuji	VB-S---1P-NA--1	Sb
+7	a	J^-------------	Coord
+8	samozřejmě	Dg-------1A----	Adv
+9	také	Db-------------	AuxZ
+10	neprodávám	VB-S---1P-NA---	Sb
+11	(	Z:-------------	AuxG
+12	první	CrFS4----------	Atr
+13	samostatnou	AAFS4----1A----	Atr
+14	výstavu	NNFS4-----A----	Obj
+15	jsem	VB-S---1P-AA---	AuxV
+16	měl	VpYS---XR-AA---	Pred
+17	na	RR--4----------	AuxP
+18	podzim	NNIS4-----A----	Adv
+19	letošního	AAIS2----1A----	Atr
+20	roku	NNIS2-----A---1	Adv
+21	v	RR--6----------	AuxP
+22	Besanconu	NNIS6-----A---1	Adv
+23	)	Z:-------------	AuxG
+24	.	Z:-------------	AuxK
+
+lnd91301-077-p5s10
+1	Celá	AANP1----1A----	Atr
+2	80	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	léta	NNNP1-----A---2	Sb
+5	byla	VpQW---XR-AA---	AuxV
+6	poznamenána	VsQW---XX-AP---	Pred
+7	postexpresionismem	NNIS7-----A----	Obj
+8	;	Z:-------------	AuxK
+
+lnd91301-077-p5s11
+1	do	RR--2----------	AuxP
+2	tohoto	PDZS2----------	Atr
+3	trendu	NNIS2-----A----	Adv
+4	jsem	VB-S---1P-AA---	AuxV
+5	se	P7-X4----------	Obj
+6	nemohl	VpYS---XR-NA---	Pred
+7	začlenit	Vf--------A----	Obj
+8	.	Z:-------------	AuxK
+
+lnd91301-077-p5s12
+1	Teď	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	cesta	NNFS1-----A----	Sb
+4	zdá	VB-S---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	otevřenější	AAFS1----2A----	Pnom
+7	-	Z:-------------	Coord
+8	měl	VpYS---XR-AA---	Pred
+9	bych	Vc-S---1-------	AuxV
+10	mít	Vf--------A----	Obj
+11	příští	AAIS4----1A----	Atr
+12	rok	NNIS4-----A----	Adv
+13	výstavu	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd91301-077-p5s13
+1	Na	RR--6----------	AuxP
+2	obrazech	NNIP6-----A----	Obj
+3	pracuji	VB-S---1P-AA--1	Pred
+4	ve	RV--6----------	AuxP
+5	vrstvách	NNFP6-----A----	Adv
+6	po	RR--4----------	AuxP
+7	několik	Ca--4----------	Adv
+8	let	NNNP2-----A----	Atr
+9	a	J^-------------	Coord
+10	jsem	VB-S---1P-AA---	Pred
+11	vlastně	Db-------------	Adv
+12	rád	ACYS------A----	AtvV
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	jich	PPXP2--3-------	Atr
+16	mám	VB-S---1P-AA---	Adv
+17	v	RR--6----------	AuxP
+18	ateliéru	NNIS6-----A----	Adv
+19	tolik	Db-------------	Obj
+20	.	Z:-------------	AuxK
+
+lnd91301-077-p6s1
+1	Čím	PQ--7----------	Obj
+2	se	P7-X4----------	Obj
+3	tedy	Db-------------	AuxY
+4	živíte	VB-P---2P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	když	J,-------------	AuxC
+7	i	J^-------------	AuxZ
+8	speciálně	Dg-------1A----	Adv
+9	graficky	Dg-------1A----	Adv
+10	upravované	AAFP4----1A----	Atr
+11	knížky	NNFP4-----A----	Obj
+12	pro	RR--4----------	AuxP
+13	ediční	AAFS4----1A----	Atr
+14	řadu	NNFS4-----A----	Atr
+15	K	NNXXX-----A---8	Atr
+16	děláte	VB-P---2P-AA---	Adv
+17	zadarmo	Db-------------	Adv
+18	?	Z:-------------	AuxK
+
+lnd91301-077-p7s1
+1	Pan	NNMS1-----A----	Atr
+2	Kolář	NNMS1-----A----	Sb
+3	mi	PH-S3--1-------	Obj
+4	platí	VB-S---3P-AA---	Pred
+5	za	RR--4----------	AuxP
+6	to	PDNS4----------	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	mu	PHZS3--3-------	Adv
+10	čtyři	ClXP4----------	Atr
+11	odpoledne	NNNP4-----A----	Adv
+12	v	RR--6----------	AuxP
+13	týdnu	NNIS6-----A----	Atr
+14	dělám	VB-S---1P-AA---	Atr
+15	tlumočníka	NNMS4-----A----	Obj
+16	a	J^-------------	Coord
+17	pomáhám	VB-S---1P-AA---	Atr
+18	se	P7-X4----------	AuxT
+19	starat	Vf--------A----	Obj
+20	o	RR--4----------	AuxP
+21	jeho	PSXXXZS3-------	Atr
+22	záležitosti	NNFP4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd91301-077-p7s2
+1	V	RR--6----------	AuxP
+2	posledních	AANP6----1A----	Atr
+3	třech	ClXP6----------	Atr
+4	letech	NNNP6-----A----	Adv
+5	jsem	VB-S---1P-AA---	AuxV
+6	spolupracoval	VpYS---XR-AA---	Pred
+7	s	RR--7----------	AuxP
+8	Vladimírem	NNMS7-----A----	Atr
+9	Škodou	NNMS7-----A----	Adv
+10	na	RR--6----------	AuxP
+11	dvou	ClXP6----------	Atr
+12	realizacích	NNFP6-----A----	Obj
+13	a	J^-------------	Coord
+14	na	RR--6----------	AuxP
+15	několika	Ca--6----------	Atr
+16	soutěžích	NNFP6-----A----	Obj
+17	.	Z:-------------	AuxK
+
+lnd91301-077-p7s3
+1	Knížky	NNFP1-----A----	Sb
+2	edice	NNFS2-----A----	Atr
+3	Revue	NNFS1-----A----	Atr
+4	K	NNXXX-----A---8	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	pro	RR--4----------	AuxP
+7	mě	PH-S4--1-------	Adv
+8	experimentem	NNIS7-----A----	Pnom
+9	a	J^-------------	Coord
+10	jejich	PSXXXXP3-------	Atr
+11	výroba	NNFS1-----A----	Sb
+12	je	VB-S---3P-AA---	Pred
+13	už	Db-------------	AuxZ
+14	sama	PLFS1----------	Atv
+15	o	RR--6----------	AuxP
+16	sobě	P6-X6----------	Atr
+17	velmi	Db-------------	Adv
+18	nákladná	AAFS1----1A----	Pnom
+19	.	Z:-------------	AuxK
+
+lnd91301-077-p7s4
+1	Zvláštní	AAFS4----1A----	Atr
+2	grafickou	AAFS4----1A----	Atr
+3	podobu	NNFS4-----A----	Obj
+4	jim	PPXP3--3-------	Obj
+5	dávám	VB-S---1P-AA---	Pred
+6	improvizačním	AAIS7----1A----	Atr
+7	podtiskem	NNIS7-----A----	Adv
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	vznikne	VB-S---3P-AA---	Atr
+11	přetiskem	NNIS7-----A----	Adv
+12	použitých	AAFP2----1A----	Atr
+13	ofsetových	AAFP2----1A----	Atr
+14	desek	NNFP2-----A----	Atr
+15	a	J^-------------	Coord
+16	netradičním	AANS7----1N----	Atr
+17	použitím	NNNS7-----A----	Adv
+18	barev	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd91301-077-p7s5
+1	Teprve	Db-------------	Adv
+2	poté	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	co	J,-------------	AuxC
+5	vznikne	VB-S---3P-AA---	Adv
+6	grafika	NNFS1-----A----	Sb
+7	knížky	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	hledáme	VB-P---1P-AA---	Pred
+10	pro	RR--4----------	AuxP
+11	ni	P5FS4--3-------	Adv
+12	vhodný	AAIS4----1A----	Atr
+13	text	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd91301-077-p7s6
+1	Poslední	AANS4----1A----	Atr
+2	číslo	NNNS4-----A----	Obj
+3	Revue	NNFS2-----A----	Atr
+4	K	NNXXX-----A---8	Atr
+5	jsem	VB-S---1P-AA---	AuxV
+6	připravoval	VpYS---XR-AA---	Pred
+7	celý	AAIS4----1A----	Atr
+8	rok	NNIS4-----A----	Adv
+9	.	Z:-------------	AuxK
+
+lnd91301-077-p7s7
+1	Jedná	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	o	RR--4----------	AuxP
+4	soupis	NNIS4-----A----	Obj
+5	realizací	NNFP2-----A----	Atr
+6	českých	AAMP2----1A----	Atr
+7	sochařů	NNMP2-----A----	Atr
+8	žijících	AGMP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	cizině	NNFS6-----A----	Adv
+11	.	Z:-------------	AuxK
+
+lnd91301-077-p8s1
+1	Některé	PZFP1----------	Atr
+2	ženy	NNFP1-----A----	Sb
+3	tvrdí	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	chtěly	VpTP---XR-AA---	Obj
+8	být	Vf--------A----	Obj
+9	bohaté	AAFP1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	mohly	VpTP---XR-AA---	Adv
+13	podporovat	Vf--------A----	Obj
+14	umělce	NNMP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd91301-077-p9s1
+1	Pokud	J,-------------	AuxC
+2	takovou	PDFS4----------	Atr
+3	ženu	NNFS4-----A----	Obj
+4	potkáte	VB-P---2P-AA---	Adv
+5	,	Z:-------------	AuxX
+6	můžete	VB-P---2P-AA---	Pred
+7	ji	PPFS4--3-------	Obj
+8	za	RR--7----------	AuxP
+9	mnou	PP-S7--1-------	Adv
+10	poslat	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+
+lnd91301-077-p9s2
+1	Myslím	VB-S---1P-AA---	Pred
+2	ovšem	J^-------------	AuxY
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	bych	Vc-S---1-------	AuxV
+6	víc	Dg-------2A---1	Adv
+7	než	J,-------------	AuxC
+8	mecenáše	NNMP4-----A----	Adv
+9	potřeboval	VpYS---XR-AA---	Obj
+10	galerii	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	která	P4FS1----------	Sb
+13	by	Vc-------------	AuxV
+14	se	P7-X4----------	AuxT
+15	o	RR--4----------	AuxP
+16	mou	PSFS4-S1------1	Atr
+17	práci	NNFS4-----A----	Obj
+18	dokázala	VpQW---XR-AA---	Atr
+19	profesionálně	Dg-------1A----	Adv
+20	starat	Vf--------A----	Obj
+21	,	Z:-------------	AuxX
+22	ale	J^-------------	Coord
+23	ani	J^-------------	AuxZ
+24	v	RR--6----------	AuxP
+25	tom	PDZS6----------	Atr
+26	případě	NNIS6-----A----	Adv
+27	bych	Vc-S---1-------	AuxV
+28	nebyl	VpYS---XR-NA---	Obj
+29	zcela	Db-------------	Adv
+30	bez	RR--2----------	AuxP
+31	materiálních	AAFP2----1A----	Atr
+32	starostí	NNFP2-----A----	Adv
+33	.	Z:-------------	AuxK
+
+lnd91301-077-p10s1
+1	Přemýšlel	VpYS---XR-AA---	Pred
+2	jste	VB-P---2P-AA---	AuxV
+3	někdy	Db-------------	Adv
+4	o	RR--6----------	AuxP
+5	návratu	NNIS6-----A----	Obj
+6	do	RR--2----------	AuxP
+7	Československa	NNNS2-----A----	Atr
+8	?	Z:-------------	AuxK
+
+lnd91301-077-p11s1
+1	Nenapadlo	VpNS---XR-NA--1	Pred
+2	mě	PH-S4--1-------	Obj
+3	to	PDNS1----------	Sb
+4	ani	J^-------------	AuxZ
+5	po	RR--6----------	AuxP
+6	revoluci	NNFS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	protože	J,-------------	AuxC
+9	já	PP-S1--1-------	Sb
+10	jsem	VB-S---1P-AA---	AuxV
+11	chtěl	VpYS---XR-AA---	Adv
+12	vždycky	Db-------------	Adv
+13	žít	Vf--------A----	Obj
+14	v	RR--6----------	AuxP
+15	Paříži	NNFS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+lnd91301-077-p11s2
+1	Rád	ACYS------A----	AtvV
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	ale	J^-------------	Coord
+5	setkal	VpYS---XR-AA---	Pred
+6	s	RR--7----------	AuxP
+7	některými	PZXP7----------	Atr
+8	přáteli	NNMP7-----A----	Obj
+9	a	J^-------------	Coord
+10	poznal	VpYS---XR-AA---	Pred
+11	dalších	AAMP2----1A----	Atr
+12	pár	ClXP2----------	Obj
+13	lidí	NNMP2-----A----	Atr
+14	kolem	RR--2----------	AuxP
+15	Artfora	NNNS2-----A----	Atr
+16	a	J^-------------	Coord
+17	galerie	NNFS2-----A----	Atr
+18	Opatov	NNIS1-----A----	Atr
+19	,	Z:-------------	AuxX
+20	kde	Db-------------	Adv
+21	jsem	VB-S---1P-AA---	AuxV
+22	měl	VpYS---XR-AA---	Atr
+23	na	RR--4----------	AuxP
+24	podzim	NNIS4-----A----	Adv
+25	1990	C=-------------	Atr
+26	malou	AAFS4----1A----	Atr
+27	expozici	NNFS4-----A----	Obj
+28	.	Z:-------------	AuxK
+
+lnd91301-077-p11s3
+1	Asi	TT-------------	AuxZ
+2	za	RR--4----------	AuxP
+3	rok	NNIS4-----A----	Adv
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxR
+6	měla	VpQW---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	Praze	NNFS6-----A----	Adv
+9	uskutečnit	Vf--------A----	Obj
+10	výstava	NNFS1-----A----	Sb
+11	výtvarníků	NNMP2-----A----	Atr
+12	z	RR--2----------	AuxP
+13	okruhu	NNIS2-----A----	Atr
+14	Revue	NNFS2-----A----	Atr
+15	K	NNXXX-----A---8	Atr
+16	a	J^-------------	Coord
+17	jejich	PSXXXXP3-------	Atr
+18	francouzských	AAMP2----1A----	Atr
+19	kolegů	NNMP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd91301-077-p11s4
+1	Doufám	VB-S---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	se	P7-X4----------	AuxT
+5	to	PDNS1----------	Sb
+6	podaří	VB-S---3P-AA---	Obj
+7	.	Z:-------------	AuxK
+
+lnd91301-077-p12s1
+1	LENKA	NNFS1-----A----	Atr
+2	LINDAUROVÁ	NNFS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	Paříž	NNFS1-----A----	ExD
+
+lnd91301-077-p13s1
+1	Foto	NNNS1-----A----	ExD
+2	autorka	NNFS1-----A----	ExD
+3	a	J^-------------	Coord
+4	archív	NNIS1-----A----	ExD
+

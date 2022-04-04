@@ -1,0 +1,389 @@
+ln95049-100-p1s1
+1	Do	RR--2----------	AuxP
+2	nemocnice	NNFS2-----A----	ExD
+3	s	RR--7----------	AuxP
+4	peněženkou	NNFS7-----A----	ExD
+
+ln95049-100-p2s1
+1	Je	VB-S---3P-AA---	Pred
+2	uvažovaný	AAIS1----1A----	Atr
+3	pětapadesátikorunový	AAIS1----1A----	Atr
+4	poplatek	NNIS1-----A----	Sb
+5	za	RR--4----------	AuxP
+6	denní	AAIS4----1A----	Atr
+7	pobyt	NNIS4-----A----	Atr
+8	na	RR--6----------	AuxP
+9	nemocničním	AANS6----1A----	Atr
+10	lůžku	NNNS6-----A----	Atr
+11	přiměřený	AAIS1----1A----	Pnom
+12	?	Z:-------------	AuxK
+
+ln95049-100-p2s2
+1	Má	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	vůbec	Db-------------	AuxZ
+4	za	RR--4----------	AuxP
+5	tyto	PDFP4----------	Atr
+6	služby	NNFP4-----A----	Obj
+7	platit	Vf--------A----	Sb
+8	?	Z:-------------	AuxK
+
+ln95049-100-p3s1
+1	Jiří	NNMS1-----A----	Atr
+2	Vlach	NNMS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	ODS	NNFXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	,	Z:-------------	Apos
+7	místopředseda	NNMS1-----A----	ExD
+8	parlamentu	NNIS2-----A----	Atr
+9	:	Z:-------------	AuxG
+10	Určitě	Dg-------1A----	Adv
+11	se	P7-X4----------	AuxR
+12	má	VB-S---3P-AA---	ExD
+13	platit	Vf--------A----	Sb
+14	,	Z:-------------	Coord
+15	o	RR--6----------	AuxP
+16	tom	PDZS6----------	Obj
+17	mě	PH-S4--1-------	Obj
+18	přesvědčily	VpTP---XR-AA---	ExD
+19	i	J^-------------	AuxZ
+20	debaty	NNFP1-----A----	Sb
+21	s	RR--7----------	AuxP
+22	poctivými	AAMP7----1A----	Atr
+23	důchodci	NNMP7-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95049-100-p3s2
+1	Nikdo	PWM-1----------	Sb
+2	doma	Db-------------	Adv
+3	nežije	VB-S---3P-NA---	Pred
+4	zadarmo	Db-------------	Adv
+5	a	J^-------------	Coord
+6	když	J,-------------	AuxC
+7	užívá	VB-S---3P-AA---	Adv
+8	tzv	AAXXX----1A---8	Atr
+9	.	Z:-------------	AuxG
+10	hotelové	AAFP4----1A----	Atr
+11	služby	NNFP4-----A----	Obj
+12	nemocnice	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	myslím	VB-S---1P-AA---	Pred
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	je	VB-S---3P-AA---	Obj
+18	placení	NNNS1-----A----	Sb
+19	na	RR--6----------	AuxP
+20	místě	NNNS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln95049-100-p3s3
+1	Samozřejmě	Dg-------1A----	AuxY
+2	bude	VB-S---3F-AA---	Pred
+3	třeba	ACNS------A----	Pnom
+4	zvážit	Vf--------A----	Sb
+5	,	Z:-------------	AuxX
+6	jak	Db-------------	Adv
+7	se	P7-X4----------	AuxT
+8	postavit	Vf--------A----	Obj
+9	k	RR--3----------	AuxP
+10	sociálně	Dg-------1A----	Adv
+11	nejslabším	AAFP3----3A----	Atr
+12	vrstvám	NNFP3-----A----	Adv
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	já	PP-S1--1-------	Sb
+16	osobně	Dg-------1A----	Adv
+17	bych	Vc-S---1-------	AuxV
+18	respektoval	VpYS---XR-AA---	Pred
+19	i	J^-------------	AuxZ
+20	zahraniční	AAIS4----1A----	Atr
+21	model	NNIS4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	podle	RR--2----------	AuxP
+24	něhož	P9ZS2----------	Adv
+25	se	P7-X4----------	AuxR
+26	neplatí	VB-S---3P-NA---	Atr
+27	jen	TT-------------	AuxZ
+28	za	RR--4----------	AuxP
+29	prvních	CrIP2----------	Atr
+30	čtrnáct	Cn-S4----------	Obj
+31	dnů	NNIP2-----A----	Atr
+32	v	RR--6----------	AuxP
+33	nemocnici	NNFS6-----A----	Atr
+34	,	Z:-------------	AuxX
+35	ale	J^-------------	Coord
+36	za	RR--4----------	AuxP
+37	osmadvacet	Cn-S4----------	ExD
+38	.	Z:-------------	AuxK
+
+ln95049-100-p3s4
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	docela	Db-------------	Adv
+4	fér	Db-------------	Atr
+5	opatření	NNNS1-----A----	Pnom
+6	.	Z:-------------	AuxK
+
+ln95049-100-p3s5
+1	Eva	NNFS1-----A----	Atr
+2	Fischerová	NNFS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	ČSSD	NNFXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	,	Z:-------------	Apos
+7	poslankyně	NNFS1-----A----	ExD
+8	:	Z:-------------	AuxG
+9	Já	PP-S1--1-------	Sb
+10	bych	Vc-S---1-------	AuxV
+11	neřekla	VpQW---XR-NA---	ExD
+12	,	Z:-------------	AuxX
+13	jestli	J,-------------	AuxC
+14	je	VB-S---3P-AA---	Obj
+15	55	C=-------------	Sb
+16	korun	NNFP2-----A----	Atr
+17	moc	Ca--X----------	Pnom
+18	nebo	J^-------------	Coord
+19	málo	Ca--1----------	Pnom
+20	či	J^-------------	Coord
+21	jestli	J,-------------	AuxC
+22	to	PDNS1----------	Sb
+23	odpovídá	VB-S---3P-AA---	Obj
+24	.	Z:-------------	AuxK
+
+ln95049-100-p3s6
+1	Poplatek	NNIS1-----A----	Sb
+2	nemá	VB-S---3P-NA---	Pred
+3	v	RR--6----------	AuxP
+4	našich	PSXP6-P1-------	Atr
+5	poměrech	NNIP6-----A----	Adv
+6	co	PQ--4----------	Obj
+7	dělat	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	protože	J,-------------	AuxC
+10	podle	RR--2----------	AuxP
+11	Listiny	NNFS2-----A----	Adv
+12	základních	AANP2----1A----	Atr
+13	práv	NNNP2-----A----	Atr
+14	a	J^-------------	Coord
+15	svobod	NNFP2-----A----	Atr
+16	má	VB-S---3P-AA---	Adv
+17	pacient	NNMS1-----A----	Sb
+18	právo	NNNS4-----A----	Obj
+19	na	RR--4----------	AuxP
+20	bezplatnou	AAFS4----1A----	Atr
+21	léčebnou	AAFS4----1A----	Atr
+22	péči	NNFS4-----A----	Atr
+23	,	Z:-------------	AuxX
+24	hrazenou	AAFS4----1A----	Atr
+25	ze	RV--2----------	AuxP
+26	zdravotního	AANS2----1A----	Atr
+27	pojištění	NNNS2-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln95049-100-p3s7
+1	Jistě	Dg-------1A----	AuxY
+2	,	Z:-------------	AuxX
+3	všechno	PLNS1----------	Sb
+4	se	P7-X4----------	AuxR
+5	dá	VB-S---3P-AA---	Pred
+6	obejít	Vf--------A----	Obj
+7	a	J^-------------	Coord
+8	lze	VB-S---3P-AA---	Pred
+9	říci	Vf--------A---1	Sb
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	stravné	NNNS1-----A----	Sb
+13	není	VB-S---3P-NA---	Obj
+14	součást	NNFS1-----A----	Pnom
+15	léčebné	AAFS2----1A----	Atr
+16	péče	NNFS2-----A----	Atr
+17	a	J^-------------	Coord
+18	že	J,-------------	AuxC
+19	to	PDNS1----------	Sb
+20	je	VB-S---3P-AA---	Obj
+21	hotelový	AAIS1----1A----	Atr
+22	poplatek	NNIS1-----A----	Pnom
+23	.	Z:-------------	AuxK
+
+ln95049-100-p3s8
+1	Jak	Db-------------	Adv
+2	však	J^-------------	Coord
+3	budete	VB-P---2F-AA---	AuxV
+4	účtovat	Vf--------A----	Pred
+5	stravné	NNNS4-----A----	Obj
+6	pacientovi	NNMS3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	prakticky	Dg-------1A----	Adv
+10	nejí	VB-S---3P-NA---	Atr
+11	,	Z:-------------	AuxX
+12	protože	J,-------------	AuxC
+13	leží	VB-S---3P-AA---	Adv
+14	na	RR--6----------	AuxP
+15	onkologickém	AANS6----1A----	Atr
+16	oddělení	NNNS6-----A----	Adv
+17	a	J^-------------	Coord
+18	končí	VB-S---3P-AA---	Adv
+19	?	Z:-------------	AuxK
+
+ln95049-100-p3s9
+1	Jak	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	s	RR--7----------	AuxP
+4	tím	PDZS7----------	Obj
+5	eticky	Dg-------1A----	Adv
+6	vypořádat	Vf--------A----	Pred
+7	?	Z:-------------	AuxK
+
+ln95049-100-p3s10
+1	Přitom	Db-------------	Adv
+2	jinde	Db-------------	Adv
+3	nám	PP-P3--1-------	Obj
+4	uniká	VB-S---3P-AA---	Pred
+5	daleko	Dg-------1A----	Adv
+6	víc	Dg-------2A---1	Sb
+7	peněz	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95049-100-p3s11
+1	Milena	NNFS1-----A----	Atr
+2	Veselovská	NNFS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	jednasemdesátiletá	AAFS1----1A----	Atr
+5	důchodkyně	NNFS1-----A----	ExD
+6	:	Z:-------------	AuxG
+7	Je	VB-S---3P-AA---	ExD
+8	to	PDNS1----------	Sb
+9	dost	Dg-------1A----	Pnom
+10	peněz	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	doma	Db-------------	Adv
+14	stejně	Dg-------1A----	Adv
+15	musím	VB-S---1P-AA---	ExD
+16	jíst	Vf--------A----	Obj
+17	,	Z:-------------	Coord
+18	denně	Dg-------1A----	Adv
+19	s	RR--7----------	AuxP
+20	manželem	NNMS7-----A----	Adv
+21	tu	PDFS4----------	Atr
+22	stovku	NNFS4-----A----	Obj
+23	za	RR--4----------	AuxP
+24	jídlo	NNNS4-----A----	Adv
+25	utratíme	VB-P---1P-AA---	ExD
+26	.	Z:-------------	AuxK
+
+ln95049-100-p3s12
+1	Copak	TT-------------	AuxY
+2	když	J,-------------	AuxC
+3	půjde	VB-S---3F-AA---	Adv
+4	do	RR--2----------	AuxP
+5	nemocnice	NNFS2-----A----	Adv
+6	on	PPYS1--3-------	Sb
+7	,	Z:-------------	AuxX
+8	tak	Db-------------	Adv
+9	já	PP-S1--1-------	Sb
+10	se	P7-X4----------	AuxT
+11	uskrovním	VB-S---1P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	obráceně	Dg-------1A----	ExD
+15	?	Z:-------------	AuxK
+
+ln95049-100-p3s13
+1	Nevím	VB-S---1P-NA---	Pred
+2	.	Z:-------------	AuxK
+
+ln95049-100-p3s14
+1	Ještě	Db-------------	AuxZ
+2	že	J,-------------	AuxC
+3	by	Vc-------------	AuxV
+4	to	PDNS1----------	Sb
+5	bylo	VpNS---XR-AA---	Adv
+6	jenom	TT-------------	AuxZ
+7	prvních	CrIP2----------	Atr
+8	čtrnáct	Cn-S4----------	Pnom
+9	dnů	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	to	PDNS4----------	Obj
+12	bychom	Vc-P---1-------	AuxV
+13	snad	Db-------------	AuxY
+14	unesli	VpMP---XR-AA---	Pred
+15	.	Z:-------------	AuxK
+
+ln95049-100-p3s15
+1	Anna	NNFS1-----A----	Atr
+2	Horelová	NNFS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	devětasedmdesátiletá	AAFS1----1A----	Atr
+5	důchodkyně	NNFS1-----A----	ExD
+6	:	Z:-------------	AuxG
+7	Kdyby	J,-------------	AuxC
+8	jídlo	NNNS1-----A----	Sb
+9	stálo	VpNS---XR-AA---	Adv
+10	za	RR--4----------	AuxP
+11	to	PDNS4----------	Obj
+12	,	Z:-------------	AuxX
+13	tak	Db-------------	Adv
+14	by	Vc-------------	AuxV
+15	to	PDNS1----------	Sb
+16	nebylo	VpNS---XR-NA---	ExD
+17	moc	Ca--X----------	Pnom
+18	peněz	NNIP2-----A----	Atr
+19	a	J^-------------	Coord
+20	byla	VpQW---XR-AA---	ExD
+21	bych	Vc-S---1-------	AuxV
+22	ochotná	AAFS1----1A----	Pnom
+23	je	PPXP4--3-------	Obj
+24	platit	Vf--------A----	Obj
+25	.	Z:-------------	AuxK
+
+ln95049-100-p3s16
+1	František	NNMS1-----A----	Atr
+2	Hořejší	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	pětašedesátiletý	AAMS1----1A----	Atr
+5	důchodce	NNMS1-----A----	ExD
+6	:	Z:-------------	AuxG
+7	Nevím	VB-S---1P-NA---	ExD
+8	,	Z:-------------	AuxX
+9	jestli	J,-------------	AuxC
+10	je	VB-S---3P-AA---	Obj
+11	ten	PDYS1----------	Atr
+12	poplatek	NNIS1-----A----	Sb
+13	málo	NNNS1-----A----	Pnom
+14	nebo	J^-------------	Coord
+15	moc	Ca--X----------	Pnom
+16	.	Z:-------------	AuxK
+
+ln95049-100-p3s17
+1	Ale	J^-------------	Coord
+2	odmítám	VB-S---1P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	aby	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	za	RR--4----------	AuxP
+7	mne	PP-S4--1-------	Adv
+8	bouřilo	VpNS---XR-AA---	Obj
+9	nějaké	PZNS1----------	Atr
+10	Hnutí	NNNS1-----A----	Sb
+11	důchodců	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95049-100-p3s18
+1	Já	PP-S1--1-------	Sb
+2	na	RR--4----------	AuxP
+3	to	PDNS4----------	Adv
+4	mám	VB-S---1P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	abych	J,-S---1-------	AuxC
+7	si	P7-X3----------	Adv
+8	čtrnáct	Cn-S4----------	Obj
+9	dnů	NNIP2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	nemocnici	NNFS6-----A----	Atr
+12	mohl	VpYS---XR-AA---	Atr
+13	zaplatit	Vf--------A----	Obj
+14	.	Z:-------------	AuxK
+

@@ -1,0 +1,502 @@
+ln94206-143-p1s1
+1	Spotřební	AANP1----1A----	Atr
+2	družstva	NNNP1-----A----	Sb
+3	věří	VB-P---3P-AA---	Pred
+4	velkoobchodu	NNIS3-----A----	Obj
+
+ln94206-143-p2s1
+1	Hlavním	AAIS7----1A----	Atr
+2	problémem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	vysoké	AANS1----1A----	Atr
+5	úvěrové	AANS1----1A----	Atr
+6	zatížení	NNNS1-----A----	Sb
+7	;	Z:-------------	AuxK
+
+ln94206-143-p2s2A
+1	Maloobchodní	AAIS1----1A----	Atr
+2	obrat	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	stabilizoval	VpYS---XR-AA---	Pred
+
+ln94206-143-p2s2B
+1	Dana	NNFS1-----A----	Atr
+2	Rybáková	NNFS1-----A----	ExD
+
+ln94206-143-p2s2C
+1	V	RR--6----------	AuxP
+2	České	AAFS6----1A----	Atr
+3	republice	NNFS6-----A----	Adv
+4	působí	VB-S---3P-AA---	Pred
+5	73	C=-------------	Sb
+6	spotřebních	AANP2----1A----	Atr
+7	družstev	NNNP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94206-143-p2s3
+1	Jejich	PSXXXXP3-------	Atr
+2	rozhodující	AGFS7-----A----	Atr
+3	činností	NNFS7-----A----	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	maloobchodní	AAIS1----1A----	Atr
+6	prodej	NNIS1-----A----	Sb
+7	potravin	NNFP2-----A----	Atr
+8	a	J^-------------	Coord
+9	průmyslového	AANS2----1A----	Atr
+10	zboží	NNNS2-----A----	Atr
+11	denní	AAFS2----1A----	Atr
+12	potřeby	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	velkoobchod	NNIS1-----A----	Sb
+15	,	Z:-------------	Coord
+16	potravinářská	AAFS1----1A----	Atr
+17	výroba	NNFS1-----A----	Sb
+18	a	J^-------------	Coord
+19	v	RR--6----------	AuxP
+20	omezené	AAFS6----1A----	Atr
+21	míře	NNFS6-----A----	ExD
+22	veřejné	AANS1----1A----	Atr
+23	stravování	NNNS1-----A----	ExD
+24	.	Z:-------------	AuxK
+
+ln94206-143-p2s4
+1	Na	RR--6----------	AuxP
+2	celkovém	AAIS6----1A----	Atr
+3	maloobchodním	AAIS6----1A----	Atr
+4	prodeji	NNIS6-----A----	Obj
+5	v	RR--6----------	AuxP
+6	ČR	NNFXX-----A---8	Atr
+7	se	P7-X4----------	AuxT
+8	podílejí	VB-P---3P-AA---	Pred
+9	5.5	C=-------------	Atr
+10	procenty	NNNP7-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94206-143-p3s1
+1	Spotřební	AANP1----1A----	Atr
+2	družstva	NNNP1-----A----	Sb
+3	podnikají	VB-P---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	téměř	Db-------------	AuxZ
+6	5.5	C=-------------	Atr
+7	tisíci	NNIS6-----A----	Adv
+8	maloobchodních	AAFP2----1A----	Atr
+9	prodejen	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	129	C=-------------	Atr
+12	provozovnách	NNFP6-----A----	Adv
+13	veřejného	AANS2----1A----	Atr
+14	stravování	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94206-143-p3s2
+1	Prodejny	NNFP1-----A----	Sb
+2	zaznamenaly	VpTP---XR-AA---	Pred
+3	v	RR--6----------	AuxP
+4	prvním	CrNS6----------	Atr
+5	pololetí	NNNS6-----A----	Adv
+6	letošního	AAIS2----1A----	Atr
+7	roku	NNIS2-----A---1	Atr
+8	obrat	NNIS4-----A----	Obj
+9	přes	RR--4----------	AuxP
+10	10	C=-------------	Adv
+11	mld	NNFXX-----A---8	Atr
+12	,	Z:-------------	Coord
+13	restaurace	NNFP1-----A----	Sb
+14	dosáhly	VpTP---XR-AA---	Pred
+15	asi	TT-------------	AuxZ
+16	179	C=-------------	Atr
+17	mil	NNIXX-----A---8	Obj
+18	.	Z:-------------	AuxG
+19	korun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94206-143-p3s3
+1	Více	Dg-------2A----	Obj
+2	než	J,-------------	AuxC
+3	2.8	C=-------------	Adv
+4	tisíce	NNIS2-----A----	Atr
+5	prodejen	NNFP2-----A----	Atr
+6	a	J^-------------	Coord
+7	přes	RR--4----------	AuxP
+8	tisíc	NNIS4-----A----	Obj
+9	restauračních	AANP2----1A----	Atr
+10	zařízení	NNNP2-----A----	Atr
+11	pronajímají	VB-P---3P-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94206-143-p4s1
+1	V	RR--6----------	AuxP
+2	letech	NNNP6-----A----	Adv
+3	1991	C=-------------	Atr
+4	až	J^-------------	Coord
+5	1993	C=-------------	Atr
+6	celkový	AAIS1----1A----	Atr
+7	maloobchodní	AAIS1----1A----	Atr
+8	prodej	NNIS1-----A----	Sb
+9	spotřebních	AANP2----1A----	Atr
+10	družstev	NNNP2-----A----	Atr
+11	klesal	VpYS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94206-143-p4s2
+1	Letos	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	podle	RR--2----------	AuxP
+4	vyjádření	NNNS2-----A----	Adv
+5	předsedy	NNMS2-----A----	Atr
+6	Svazu	NNIS2-----A----	Atr
+7	českých	AANP2----1A----	Atr
+8	a	J^-------------	Coord
+9	moravských	AANP2----1A----	Atr
+10	spotřebních	AANP2----1A----	Atr
+11	družstev	NNNP2-----A----	Atr
+12	Petra	NNMS2-----A----	Atr
+13	Brožka	NNMS2-----A----	Atr
+14	pro	RR--4----------	AuxP
+15	náš	PSIS4-P1-------	Atr
+16	list	NNIS4-----A----	Atr
+17	maloobchodní	AAIS1----1A----	Atr
+18	obrat	NNIS1-----A----	Sb
+19	stabilizoval	VpYS---XR-AA---	Pred
+20	.	Z:-------------	AuxK
+
+ln94206-143-p5s1A
+1	Investice	NNFP1-----A----	ExD
+2	hlavně	Dg-------1A----	AuxZ
+3	do	RR--2----------	AuxP
+4	obchodní	AAFS2----1A----	Atr
+5	sítě	NNFS2-----A----	Atr
+
+ln94206-143-p5s1B
+1	Spotřební	AANP1----1A----	Atr
+2	družstva	NNNP1-----A----	Sb
+3	věnují	VB-P---3P-AA---	Pred
+4	velkou	AAFS4----1A----	Atr
+5	pozornost	NNFS4-----A----	Obj
+6	restrukturalizaci	NNFS3-----A----	Obj
+7	obchodní	AAFS2----1A----	Atr
+8	sítě	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94206-143-p5s2
+1	Do	RR--2----------	AuxP
+2	této	PDFS2----------	Atr
+3	oblasti	NNFS2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	mělo	VpNS---XR-AA---	Pred
+6	také	Db-------------	Adv
+7	plynout	Vf--------A----	Obj
+8	nejvíce	Dg-------3A----	Sb
+9	investic	NNFP2-----A---1	Atr
+10	.	Z:-------------	AuxK
+
+ln94206-143-p5s3
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	dřívější	AAFS2----2A----	Atr
+5	téměř	Db-------------	AuxZ
+6	stoprocentní	AAFS2----1A----	Atr
+7	orientace	NNFS2-----A----	Adv
+8	na	RR--4----------	AuxP
+9	menší	AAFP4----2A----	Atr
+10	provozní	AAFP4----1A----	Atr
+11	jednotky	NNFP4-----A----	Atr
+12	na	RR--6----------	AuxP
+13	venkově	NNIS6-----A----	Atr
+14	se	P7-X4----------	AuxT
+15	nyní	Db-------------	Adv
+16	zaměřují	VB-P---3P-AA---	Pred
+17	na	RR--4----------	AuxP
+18	výstavbu	NNFS4-----A----	Obj
+19	a	J^-------------	Coord
+20	odkup	NNIS4-----A----	Obj
+21	velkých	AAIP2----1A----	Atr
+22	supermarketů	NNIP2-----A----	Atr
+23	a	J^-------------	Coord
+24	diskontních	AAFP2----1A----	Atr
+25	prodejen	NNFP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	a	J^-------------	AuxY
+28	to	PDNS4----------	AuxY
+29	především	Db-------------	AuxZ
+30	ve	RV--6----------	AuxP
+31	větších	AAFP6----2A----	Atr
+32	aglomeracích	NNFP6-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94206-143-p6s1
+1	Komerční	AAFS7----1A----	Atr
+2	strategií	NNFS7-----A----	Pnom
+3	spotřebních	AANP2----1A----	Atr
+4	družstev	NNNP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	nových	AAFP6----1A----	Atr
+7	podmínkách	NNFP6-----A----	Atr
+8	je	VB-S---3P-AA---	Pred
+9	postupná	AAFS1----1A----	Atr
+10	stabilizace	NNFS1-----A----	Sb
+11	a	J^-------------	Coord
+12	rozvoj	NNIS1-----A----	Sb
+13	velkoobchodní	AAFS2----1A----	Atr
+14	sítě	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94206-143-p6s2
+1	Velkoobchod	NNIS4-----A----	Obj
+2	provozuje	VB-S---3P-AA---	Pred
+3	většina	NNFS1-----A----	Sb
+4	družstev	NNNP2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+ln94206-143-p6s3
+1	Pokles	NNIS1-----A----	Sb
+2	výkonů	NNIP2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	této	PDFS6----------	Atr
+5	oblasti	NNFS6-----A----	AtrAtr
+6	podnikání	NNNS2-----A----	Atr
+7	nebyl	VpYS---XR-NA---	Pred
+8	v	RR--6----------	AuxP
+9	uplynulých	AANP6----1A----	Atr
+10	třech	ClXP6----------	Atr
+11	letech	NNNP6-----A----	Adv
+12	tak	Db-------------	Adv
+13	výrazný	AAIS1----1A----	Pnom
+14	jako	J,-------------	AuxC
+15	u	RR--2----------	AuxP
+16	maloobchodu	NNIS2-----A----	ExD
+17	,	Z:-------------	AuxX
+18	protože	J,-------------	AuxC
+19	zboží	NNNS4-----A----	Obj
+20	z	RR--2----------	AuxP
+21	velkoobchodů	NNIP2-----A----	AtrAdv
+22	odebírali	VpMP---XR-AA---	Adv
+23	soukromí	AAMP1----1A----	Atr
+24	podnikatelé	NNMP1-----A----	Sb
+25	pro	RR--4----------	AuxP
+26	své	P8FP4---------1	Atr
+27	prodejny	NNFP4-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln94206-143-p7s1
+1	V	RR--6----------	AuxP
+2	současnosti	NNFS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	rovněž	Db-------------	Adv
+5	rozvíjí	VB-S---3P-AA---	Pred
+6	forma	NNFS1-----A----	Sb
+7	samoobslužného	AAIS2----1A----	Atr
+8	velkoobchodu	NNIS2-----A----	Atr
+9	cash	NNIXX-----A----	Atr
+10	and	J^-------------	Atr
+11	carry	NNIXX-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94206-143-p7s2
+1	V	RR--6----------	AuxP
+2	letošním	AAIS6----1A----	Atr
+3	roce	NNIS6-----A---1	Adv
+4	rozšiřují	VB-P---3P-AA---	Pred
+5	některá	PZNP1----------	Atr
+6	družstva	NNNP1-----A----	Sb
+7	svou	P8FS4---------1	Atr
+8	činnost	NNFS4-----A----	Obj
+9	o	RR--4----------	AuxP
+10	velkoobchod	NNIS4-----A----	Adv
+11	ovocem	NNNS7-----A----	Atr
+12	a	J^-------------	Coord
+13	zeleninou	NNFS7-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94206-143-p8s1
+1	Nezanedbatelným	AAIS7----1N----	Atr
+2	problémem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	obnova	NNFS1-----A----	Sb
+5	chladírenské	AAFS2----1A----	Atr
+6	techniky	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94206-143-p8s2
+1	Tu	PDFS4----------	Obj
+2	družstva	NNNP1-----A----	Sb
+3	potřebují	VB-P---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	podstatě	NNFS6-----A----	Adv
+6	v	RR--6----------	AuxP
+7	celé	AAFS6----1A----	Atr
+8	šíři	NNFS6-----A----	Adv
+9	své	P8FS2---------1	Atr
+10	činnosti	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94206-143-p8s3
+1	Svaz	NNIS1-----A----	Sb
+2	vypsal	VpYS---XR-AA---	Pred
+3	výběrové	AANS4----1A----	Atr
+4	řízení	NNNS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	dodavatele	NNMS4-----A----	Atr
+7	této	PDFS2----------	Atr
+8	techniky	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94206-143-p8s4
+1	Investice	NNFP1-----A----	Sb
+2	vložené	AAFP1----1A----	Atr
+3	do	RR--2----------	AuxP
+4	moderního	AANS2----1A----	Atr
+5	chladicího	AANS2----1A----	Atr
+6	zařízení	NNNS2-----A----	Adv
+7	by	Vc-------------	AuxV
+8	se	P7-X4----------	AuxT
+9	měly	VpTP---XR-AA---	Pred
+10	kladně	Dg-------1A----	Adv
+11	odrazit	Vf--------A----	Obj
+12	v	RR--6----------	AuxP
+13	nákladech	NNIP6-----A----	Adv
+14	jednotlivých	AANP2----1A----	Atr
+15	družstev	NNNP2-----A----	Atr
+16	díky	RR--3----------	AuxP
+17	menší	AAFS3----2A----	Atr
+18	energetické	AAFS3----1A----	Atr
+19	náročnosti	NNFS3-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94206-143-p9s1A
+1	Slevy	NNFP1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	členy	NNMP4-----A----	Atr
+
+ln94206-143-p9s1B
+1	Spotřební	AANP1----1A----	Atr
+2	družstva	NNNP1-----A----	Sb
+3	poskytují	VB-P---3P-AA---	Pred
+4	svým	P8XP3----------	Atr
+5	členům	NNMP3-----A----	Obj
+6	výhody	NNFP4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln94206-143-p9s2
+1	Nejčastěji	Dg-------3A----	Adv
+2	jsou	VB-P---3P-AA---	Pred
+3	to	PDNS1----------	Sb
+4	slevy	NNFP1-----A----	Pnom
+5	na	RR--4----------	AuxP
+6	zboží	NNNS4-----A----	Atr
+7	v	RR--6----------	AuxP
+8	rozmezí	NNNS6-----A----	Atr
+9	0.5	C=-------------	Atr
+10	až	J^-------------	Coord
+11	2	C=-------------	Atr
+12	procenta	NNNP1-----A----	Atr
+13	z	RR--2----------	AuxP
+14	ceny	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94206-143-p9s3
+1	Jsou	VB-P---3P-AA---	AuxV
+2	vázány	VsTP---XX-AP---	Pred
+3	na	RR--4----------	AuxP
+4	objem	NNIS4-----A----	Obj
+5	nákupu	NNIS2-----A----	Atr
+6	evidovaný	AAIS4----1A----	Atr
+7	v	RR--6----------	AuxP
+8	nákupních	AAFP6----1A----	Atr
+9	knížkách	NNFP6-----A----	Adv
+10	nebo	J^-------------	Coord
+11	na	RR--4----------	AuxP
+12	předložení	NNNS4-----A----	Obj
+13	kupónu	NNIS2-----A----	Atr
+14	při	RR--6----------	AuxP
+15	koupi	NNFS6-----A----	Atr
+16	zboží	NNNS2-----A----	Atr
+17	určité	AAFS2----1A----	Atr
+18	hodnoty	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94206-143-p9s4
+1	Dále	Db------------1	Adv
+2	jsou	VB-P---3P-AA---	Pred
+3	to	PDNS1----------	Sb
+4	sezónní	AAFP1----1A----	Atr
+5	slevy	NNFP1-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	slosování	NNNS1-----A----	Pnom
+8	nákupních	AAFP2----1A----	Atr
+9	knížek	NNFP2-----A----	Atr
+10	,	Z:-------------	Coord
+11	členských	AAFP2----1A----	Atr
+12	knížek	NNFP2-----A----	Atr
+13	apod	Db------------8	Coord
+14	.	Z:-------------	AuxG
+
+ln94206-143-p9s5
+1	Nižší	AAFP1----2A----	Atr
+2	ceny	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	účtují	VB-P---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	při	RR--6----------	AuxP
+7	poskytování	NNNS6-----A----	Adv
+8	služeb	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94206-143-p9s6
+1	Spotřební	AANP1----1A----	Atr
+2	družstva	NNNP1-----A----	Sb
+3	prošla	VpQW---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	uplynulých	AANP6----1A----	Atr
+6	třech	ClXP6----------	Atr
+7	letech	NNNP6-----A----	Adv
+8	výraznými	AAFP7----1A----	Atr
+9	změnami	NNFP7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94206-143-p9s7
+1	Výrazně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	změnily	VpTP---XR-AA---	Pred
+4	i	J^-------------	AuxZ
+5	ekonomické	AAFP1----1A----	Atr
+6	podmínky	NNFP1-----A----	Sb
+7	jejich	PSXXXXP3-------	Atr
+8	fungování	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94206-143-p9s8
+1	Rozhodujícím	AGIS7-----A----	Atr
+2	problémem	NNIS7-----A----	Pnom
+3	spotřebních	AANP2----1A----	Atr
+4	družstev	NNNP2-----A----	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	zatím	Db-------------	Adv
+7	podle	RR--2----------	AuxP
+8	P	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Brožka	NNMS2-----A----	Adv
+11	nepříznivé	AAIP1----1N----	Atr
+12	hospodářské	AAIP1----1A----	Atr
+13	výsledky	NNIP1-----A----	Sb
+14	ovlivněné	AAIP1----1A----	Atr
+15	především	Db-------------	AuxZ
+16	vysokým	AANS7----1A----	Atr
+17	úvěrovým	AANS7----1A----	Atr
+18	zatížením	NNNS7-----A----	Obj
+19	,	Z:-------------	AuxX
+20	i	J^-------------	AuxY
+21	když	J,-------------	AuxC
+22	letošní	AAFS1----1A----	Atr
+23	situace	NNFS1-----A----	Sb
+24	se	P7-X4----------	AuxT
+25	ve	RV--6----------	AuxP
+26	srovnání	NNNS6-----A----	AuxP
+27	s	RR--7----------	AuxP
+28	loňským	AAIS7----1A----	Atr
+29	rokem	NNIS7-----A----	Adv
+30	zlepšila	VpQW---XR-AA---	Adv
+31	.	Z:-------------	AuxK
+

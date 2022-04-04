@@ -1,0 +1,414 @@
+lnd94103-081-p1s1
+1	Státní	AAIS1----1A----	Atr
+2	podnik	NNIS1-----A----	Sb
+3	Dental	NNIS1-----A----	Atr
+4	zvýšil	VpYS---XR-AA---	Pred
+5	výrobu	NNFS4-----A----	Obj
+6	o	RR--4----------	AuxP
+7	18.2	C=-------------	Adv
+8	procenta	NNNS2-----A----	Atr
+
+lnd94103-081-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94103-081-p1s3
+1	Bilanční	AAIS1----1A----	Atr
+2	zisk	NNIS1-----A----	Sb
+3	státního	AAIS2----1A----	Atr
+4	podniku	NNIS2-----A----	Atr
+5	Dental	NNIS1-----A----	Atr
+6	v	RR--6----------	AuxP
+7	loňském	AAIS6----1A----	Atr
+8	roce	NNIS6-----A---1	Adv
+9	přesáhl	VpYS---XR-AA---	Pred
+10	86	C=-------------	Obj
+11	milionů	NNIP2-----A----	Atr
+12	korun	NNFP2-----A----	Atr
+13	při	RR--6----------	AuxP
+14	celkových	AAIP6----1A----	Atr
+15	nákladech	NNIP6-----A----	Adv
+16	asi	TT-------------	AuxZ
+17	181	C=-------------	Atr
+18	milion	NNIS1-----A----	Atr
+19	korun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd94103-081-p1s4
+1	Informovala	VpQW---XR-AA---	Pred
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	ekonomická	AAFS1----1A----	Atr
+5	náměstkyně	NNFS1-----A----	Atr
+6	podniku	NNIS2-----A----	Atr
+7	Ema	NNFS1-----A----	Atr
+8	Kodešová	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+lnd94103-081-p1s5
+1	Výroba	NNFS1-----A----	Sb
+2	zboží	NNNS2-----A----	Atr
+3	vzrostla	VpQW---XR-AA---	Pred
+4	o	RR--4----------	AuxP
+5	18.4	C=-------------	Adv
+6	procenta	NNNS2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	zhruba	Db-------------	AuxZ
+9	178	C=-------------	Adv
+10	milionů	NNIP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	celkový	AAIS1----1A----	Atr
+14	loňský	AAIS1----1A----	Atr
+15	odbyt	NNIS1-----A----	Sb
+16	zboží	NNNS2-----A----	Atr
+17	byl	VpYS---XR-AA---	Pred
+18	téměř	Db-------------	AuxZ
+19	250	C=-------------	Pnom
+20	milionů	NNIP2-----A----	Atr
+21	korun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd94103-081-p1s6
+1	Hodnota	NNFS1-----A----	Sb
+2	exportu	NNIS2-----A----	Atr
+3	činila	VpQW---XR-AA---	Pred
+4	přes	RR--4----------	AuxP
+5	85	C=-------------	Obj
+6	milionů	NNIP2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	,	Z:-------------	Coord
+9	z	RR--2----------	AuxP
+10	toho	PDZS2----------	Adv
+11	na	RR--4----------	AuxP
+12	Slovensko	NNNS4-----A----	Adv
+13	Dental	NNIS1-----A----	Sb
+14	vyvezl	VpYS---XR-AA---	Pred
+15	zboží	NNNS4-----A----	Obj
+16	za	RR--4----------	AuxP
+17	necelých	AAIP2----1N----	Atr
+18	57	C=-------------	Atr
+19	milionů	NNIP2-----A----	Atr
+20	korun	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94103-081-p1s7
+1	Pohledávky	NNFP1-----A----	Sb
+2	u	RR--2----------	AuxP
+3	odběratelů	NNMP2-----A----	Atr
+4	dosahovaly	VpTP---XR-AA---	Pred
+5	na	RR--6----------	AuxP
+6	konci	NNIS6-----A----	Adv
+7	loňského	AAIS2----1A----	Atr
+8	roku	NNIS2-----A---1	Atr
+9	zhruba	Db-------------	AuxZ
+10	73	C=-------------	Atr
+11	milionů	NNIP2-----A----	Obj
+12	korun	NNFP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	z	RR--2----------	AuxP
+15	toho	PDZS2----------	ExD
+16	po	RR--6----------	AuxP
+17	lhůtě	NNFS6-----A----	ExD
+18	splatnosti	NNFS2-----A----	Atr
+19	asi	TT-------------	AuxZ
+20	57	C=-------------	Atr
+21	milionů	NNIP2-----A----	ExD
+22	.	Z:-------------	AuxK
+
+lnd94103-081-p1s8
+1	Závazky	NNIP1-----A----	Sb
+2	firmy	NNFS2-----A----	Atr
+3	byly	VpTP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	tomtéž	PDZS6----------	Atr
+6	období	NNNS6-----A----	Adv
+7	zhruba	Db-------------	AuxZ
+8	pět	Cn-S1----------	Pnom
+9	milionů	NNIP2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94103-081-p1s9
+1	K	RR--3----------	AuxP
+2	prvnímu	CrIS3----------	Atr
+3	lednu	NNIS3-----A----	Adv
+4	letošního	AAIS2----1A----	Atr
+5	roku	NNIS2-----A---1	Atr
+6	vznikla	VpQW---XR-AA--1	Pred
+7	ze	RV--2----------	AuxP
+8	státního	AAIS2----1A----	Atr
+9	podniku	NNIS2-----A----	Adv
+10	akciová	AAFS1----1A----	Atr
+11	společnost	NNFS1-----A----	Sb
+12	Dental	NNIS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94103-081-p1s10
+1	Základní	AANS1----1A----	Atr
+2	jmění	NNNS1-----A----	Sb
+3	společnosti	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	173402	C=-------------	Atr
+6	milionu	NNIS2-----A----	Pnom
+7	korun	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+lnd94103-081-p1s11
+1	Účetní	AAFS1----1A----	Atr
+2	hodnota	NNFS1-----A----	Sb
+3	majetku	NNIS2-----A----	Atr
+4	byla	VpQW---XR-AA---	AuxV
+5	vyčíslena	VsQW---XX-AP---	Pred
+6	na	RR--4----------	AuxP
+7	195.6	C=-------------	Adv
+8	milionu	NNIS2-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94103-081-p1s12
+1	Pro	RR--4----------	AuxP
+2	druhou	CrFS4----------	Atr
+3	vlnu	NNFS4-----A----	Adv
+4	kuponové	AAFS2----1A----	Atr
+5	privatizace	NNFS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	určeno	VsNS---XX-AP---	Pnom
+8	39883	C=-------------	Sb
+9	kusů	NNIP2-----A----	Atr
+10	akcií	NNFP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	což	PE--1----------	Sb
+13	je	VB-S---3P-AA---	Pred
+14	23	C=-------------	Atr
+15	procenta	NNNP1-----A----	Pnom
+16	všech	PLXP2----------	Atr
+17	akcií	NNFP2-----A----	Atr
+18	společnosti	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94103-081-p1s13
+1	Další	AAFP1----1A----	Atr
+2	akcie	NNFP1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měly	VpTP---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	rozděleny	VsTP---XX-AP---	Obj
+7	podle	RR--2----------	AuxP
+8	E	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Kodešové	NNFS2-----A----	Adv
+11	takto	Db-------------	Adv
+12	:	Z:-------------	Apos
+13	51	C=-------------	Atr
+14	procent	NNNP2-----A----	Obj
+15	by	Vc-------------	AuxV
+16	měl	VpYS---XR-AA---	Adv
+17	získat	Vf--------A----	Obj
+18	Denfos	NNIS1-----A----	Sb
+19	s	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	r	NNNS7-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	o	AANS7----1A---8	Atr
+24	.	Z:-------------	AuxG
+25	,	Z:-------------	AuxX
+26	deset	Cn-S4----------	ExD
+27	procent	NNNP2-----A----	Atr
+28	Jan	NNMS1-----A----	Atr
+29	Klička	NNMS1-----A----	ExD
+30	,	Z:-------------	AuxX
+31	deset	Cn-S4----------	ExD
+32	procent	NNNP2-----A----	Atr
+33	zdravotní	AAFS1----1A----	Atr
+34	pojišťovna	NNFS1-----A----	ExD
+35	,	Z:-------------	AuxX
+36	dvě	ClHP1----------	Atr
+37	procenta	NNNP1-----A----	Sb
+38	by	Vc-------------	AuxV
+39	měla	VpQW---XR-AA---	Adv
+40	připadnout	Vf--------A----	Obj
+41	na	RR--4----------	AuxP
+42	zaměstnanecké	AAFP4----1A----	Atr
+43	akcie	NNFP4-----A----	Adv
+44	a	J^-------------	Coord
+45	zbytek	NNIS1-----A----	Sb
+46	bude	VB-S---3F-AA---	AuxV
+47	náležet	Vf--------A----	Adv
+48	RIF	NNIS3-----A----	Obj
+49	a	J^-------------	Coord
+50	NIF	NNIXX-----A---8	Obj
+51	.	Z:-------------	AuxK
+
+lnd94103-081-p1s14
+1	Hodnota	NNFS1-----A----	Sb
+2	loňských	AAFP2----1A----	Atr
+3	reklamací	NNFP2-----A----	Atr
+4	státního	AAIS2----1A----	Atr
+5	podniku	NNIS2-----A----	Atr
+6	Dental	NNIS1-----A----	Atr
+7	byla	VpQW---XR-AA---	Pred
+8	zhruba	Db-------------	AuxZ
+9	201000	C=-------------	Pnom
+10	korun	NNFP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	což	PE--1----------	Sb
+13	představovalo	VpNS---XR-AA---	Pred
+14	0.11	C=-------------	Obj
+15	procenta	NNNS2-----A----	Atr
+16	z	RR--2----------	AuxP
+17	celkového	AAIS2----1A----	Atr
+18	objemu	NNIS2-----A----	Atr
+19	výroby	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd94103-081-p1s15
+1	Úvěry	NNIP1-----A----	Sb
+2	podniku	NNIS2-----A----	Atr
+3	na	RR--6----------	AuxP
+4	konci	NNIS6-----A----	AtrAdv
+5	roku	NNIS2-----A---1	Atr
+6	1993	C=-------------	Atr
+7	přesahovaly	VpTP---XR-AA---	Pred
+8	43	C=-------------	Obj
+9	milionů	NNIP2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94103-081-p1s16
+1	Proti	RR--3----------	AuxP
+2	předešlému	AAIS3----1A----	Atr
+3	roku	NNIS3-----A----	Adv
+4	však	J^-------------	Coord
+5	podnik	NNIS1-----A----	Sb
+6	úvěrové	AANS4----1A----	Atr
+7	zatížení	NNNS4-----A----	Obj
+8	snížil	VpYS---XR-AA---	Pred
+9	o	RR--4----------	AuxP
+10	více	Dg-------2A----	Adv
+11	než	J,-------------	AuxC
+12	22	C=-------------	Adv
+13	milionů	NNIP2-----A----	Atr
+14	korun	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94103-081-p1s17
+1	V	RR--6----------	AuxP
+2	současnosti	NNFS6-----A----	Adv
+3	má	VB-S---3P-AA---	Pred
+4	společnost	NNFS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	pražském	AAIS6----1A----	Atr
+7	provozu	NNIS6-----A---1	Adv
+8	i	J^-------------	Coord
+9	v	RR--6----------	AuxP
+10	jičínském	AAIS6----1A----	Atr
+11	závodě	NNIS6-----A----	Adv
+12	450	C=-------------	Obj
+13	zaměstnanců	NNMP2-----A----	Atr
+14	,	Z:-------------	Coord
+15	z	RR--2----------	AuxP
+16	toho	PDZS2----------	Adv
+17	je	VB-S---3P-AA---	Pred
+18	304	C=-------------	Sb
+19	osob	NNFP2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	dělnických	AAFP6----1A----	Atr
+22	profesích	NNFP6-----A----	Adv
+23	,	Z:-------------	AuxX
+24	141	C=-------------	Atr
+25	osoba	NNFS1-----A----	ExD
+26	v	RR--6----------	AuxP
+27	administrativě	NNFS6-----A----	ExD
+28	a	J^-------------	Coord
+29	pět	Cn-S1----------	ExD
+30	pracovníků	NNMP2-----A----	Atr
+31	vedení	NNNS2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+lnd94103-081-p1s18
+1	Průměrný	AAIS1----1A----	Atr
+2	plat	NNIS1-----A----	Sb
+3	dělníka	NNMS2-----A----	Atr
+4	byl	VpYS---XR-AA---	Pred
+5	vloni	Db-------------	Adv
+6	5070	C=-------------	Pnom
+7	korun	NNFP2-----A----	Atr
+8	a	J^-------------	Coord
+9	pracovníka	NNMS2-----A----	ExD
+10	v	RR--6----------	AuxP
+11	administrativě	NNFS6-----A----	Atr
+12	7632	C=-------------	ExD
+13	korun	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94103-081-p1s19
+1	Celkové	AAIP1----1A----	Atr
+2	mzdové	AAIP1----1A----	Atr
+3	náklady	NNIP1-----A----	Sb
+4	podniku	NNIS2-----A----	Atr
+5	dosáhly	VpTP---XR-AA---	Pred
+6	vloni	Db-------------	Adv
+7	výše	NNFS2-----A----	Obj
+8	necelých	AAIP2----1N----	Atr
+9	31	C=-------------	Atr
+10	milionů	NNIP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd94103-081-p1s20
+1	Dental	NNIS1-----A----	Sb
+2	a	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	s	NNFXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	se	P7-X4----------	AuxT
+7	specializuje	VB-S---3P-AA---	Pred
+8	na	RR--4----------	AuxP
+9	výrobu	NNFS4-----A----	Obj
+10	dentálních	AAIP2----1A----	Atr
+11	přípravků	NNIP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	umělých	AAIP2----1A----	Atr
+14	zubů	NNIP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	dezinfekčních	AAIP2----1A----	Atr
+17	prostředků	NNIP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	kosmetiky	NNFS2-----A----	Atr
+20	a	J^-------------	Coord
+21	technických	AAIP2----1A----	Atr
+22	materiálů	NNIP2-----A----	Atr
+23	pro	RR--4----------	AuxP
+24	průmyslové	AAIP4----1A----	Atr
+25	účely	NNIP4-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd94103-081-p1s21
+1	Vloni	Db-------------	Adv
+2	zaznamenala	VpQW---XR-AA---	Pred
+3	největší	AAIS4----3A----	Atr
+4	pokles	NNIS4-----A----	Obj
+5	výroba	NNFS1-----A----	Sb
+6	pryskyřic	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	Calcidentu	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Repinu	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	aerosolů	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	vosků	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94103-081-p1s22
+1	Naopak	Db-------------	Adv
+2	nárůst	NNIS4-----A----	Obj
+3	vykázala	VpQW---XR-AA---	Pred
+4	výroba	NNFS1-----A----	Sb
+5	kompozit	NNNP2-----A----	Atr
+6	a	J^-------------	Coord
+7	umělých	AAIP2----1A----	Atr
+8	zubů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+

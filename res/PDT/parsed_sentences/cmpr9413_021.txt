@@ -1,0 +1,435 @@
+cmpr9413-021-p1s1
+1	knihy	NNFP1-----A----	ExD
+2	5	C=-------------	Atr
+
+cmpr9413-021-p2s1
+1	Knihy	NNFP1-----A----	ExD
+
+cmpr9413-021-p3s1
+1	Daň	NNFS1-----A----	ExD
+2	z	RR--2----------	AuxP
+3	nemovitostí	NNFP2-----A----	Atr
+4	a	J^-------------	Coord
+5	daňové	AANS1----1A----	Atr
+6	přiznání	NNNS1-----A----	ExD
+
+cmpr9413-021-p4s1
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1993	C=-------------	Atr
+4	byla	VpQW---XR-AA---	AuxV
+5	podána	VsQW---XX-AP---	Pred
+6	první	CrNP1----------	Atr
+7	daňová	AANP1----1A----	Atr
+8	přiznání	NNNP1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9413-021-p4s2
+1	Souběžně	Dg-------1A----	Adv
+2	s	RR--7----------	AuxP
+3	tím	PDZS7----------	Adv
+4	se	P7-X4----------	AuxR
+5	získávaly	VpTP---XR-AA---	Pred
+6	i	J^-------------	AuxY
+7	první	CrFP1----------	Atr
+8	zkušenosti	NNFP1-----A----	Sb
+9	z	RR--2----------	AuxP
+10	praxe	NNFS2-----A----	AdvAtr
+11	.	Z:-------------	AuxK
+
+cmpr9413-021-p4s3
+1	Ty	PDFP1----------	Sb
+2	ukázaly	VpTP---XR-AA---	Pred
+3	potřebu	NNFS4-----A----	Obj
+4	novelizovat	Vf--------A----	Atr
+5	některá	PZNP4----------	Atr
+6	ustanovení	NNNP4-----A----	Obj
+7	zákona	NNIS2-----A----	Atr
+8	a	J^-------------	Coord
+9	formulovat	Vf--------A----	Atr
+10	tak	Db-------------	Adv
+11	některé	PZNS4----------	Atr
+12	ustanovení	NNNS4-----A----	Obj
+13	zákona	NNIS2-----A----	Atr
+14	jednoznačněji	Dg-------2A----	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9413-021-p4s4
+1	Kromě	RR--2----------	AuxP
+2	legislativně	Dg-------1A----	Adv
+3	technických	AAFP2----1A----	Atr
+4	změn	NNFP2-----A----	Adv
+5	došlo	VpNS---XR-AA---	Pred
+6	i	J^-------------	AuxZ
+7	k	RR--3----------	AuxP
+8	věcným	AAFP3----1A----	Atr
+9	změnám	NNFP3-----A----	Obj
+10	,	Z:-------------	AuxX
+11	které	P4FP1----------	Sb
+12	znamenají	VB-P---3P-AA---	Atr
+13	zejména	Db-------------	AuxZ
+14	posílení	NNNS4-----A----	Obj
+15	pravomocí	NNFP2-----A----	Atr
+16	obcí	NNFP2-----A----	Atr
+17	při	RR--6----------	AuxP
+18	určení	NNNS6-----A----	AtrAtr
+19	sazeb	NNFP2-----A----	Atr
+20	daně	NNFS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	úpravy	NNFS2-----A----	Atr
+23	v	RR--6----------	AuxP
+24	osvobození	NNNS6-----A----	Atr
+25	od	RR--2----------	AuxP
+26	daně	NNFS2-----A----	Atr
+27	,	Z:-------------	AuxX
+28	zrušení	NNNS2-----A----	Atr
+29	úlev	NNFP2-----A----	Atr
+30	a	J^-------------	Coord
+31	zjednodušení	NNNS2-----A----	Atr
+32	postupu	NNIS2-----A----	Atr
+33	oznamování	NNNS2-----A----	Atr
+34	změn	NNFP2-----A----	Atr
+35	týkajících	AGFP2-----A----	Atr
+36	se	P7-X4----------	AuxT
+37	předmětu	NNIS2-----A----	Obj
+38	daně	NNFS2-----A----	Atr
+39	,	Z:-------------	AuxX
+40	finančním	AAIP3----1A----	Atr
+41	úřadům	NNIP3-----A----	Atr
+42	.	Z:-------------	AuxK
+
+cmpr9413-021-p4s5
+1	Pomoci	Vf--------A---1	Obj
+2	poplatníkům	NNMP3-----A----	Obj
+3	daně	NNFS2-----A----	Atr
+4	z	RR--2----------	AuxP
+5	nemovitostí	NNFP2-----A----	Adv
+6	orientovat	Vf--------A----	Adv
+7	se	P7-X4----------	AuxT
+8	v	RR--6----------	AuxP
+9	těchto	PDXP6----------	Atr
+10	změnách	NNFP6-----A----	Adv
+11	chce	VB-S---3P-AA---	Pred
+12	brožura	NNFS1-----A----	Sb
+13	Daň	NNFS1-----A----	Atr
+14	z	RR--2----------	AuxP
+15	nemovitostí	NNFP2-----A----	Atr
+16	a	J^-------------	Coord
+17	daňové	AANS1----1A----	Atr
+18	přiznání	NNNS1-----A----	Atr
+19	,	Z:-------------	AuxX
+20	kterou	P4FS4----------	Obj
+21	vydalo	VpNS---XR-AA---	Atr
+22	jihlavské	AANS1----1A----	Atr
+23	Nakladatelství	NNNS1-----A----	Sb
+24	Vilímek	NNMS1-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9413-021-p5s1
+1	Vedle	RR--2----------	AuxP
+2	přehledu	NNIS2-----A----	Adv
+3	nejdůležitějších	AAFP2----3A----	Atr
+4	změn	NNFP2-----A----	Atr
+5	uvádí	VB-S---3P-AA---	Pred
+6	úplné	AANS4----1A----	Atr
+7	znění	NNNS4-----A----	Obj
+8	zákona	NNIS2-----A----	Atr
+9	o	RR--6----------	AuxP
+10	dani	NNFS6-----A----	Atr
+11	z	RR--2----------	AuxP
+12	nemovitostí	NNFP2-----A----	Atr
+13	se	RV--7----------	AuxP
+14	změnami	NNFP7-----A----	Atr
+15	a	J^-------------	Coord
+16	doplňky	NNIP7-----A----	Atr
+17	provedenými	AAIP7----1A----	Atr
+18	zákonem	NNIS7-----A----	Adv
+19	č	NNNXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	315	C=-------------	Atr
+22	/	Z:-------------	AuxG
+23	1993	C=-------------	Atr
+24	Sb	NNFXX-----A---8	Atr
+25	.	Z:-------------	AuxG
+26	(	Z:-------------	Coord
+27	přičemž	J,-------------	Adv
+28	změny	NNFP1-----A----	Sb
+29	a	J^-------------	Coord
+30	doplňky	NNIP1-----A----	Sb
+31	jsou	VB-P---3P-AA---	AuxV
+32	vyznačeny	VsTP---XX-AP---	Pred
+33	tučným	AANS7----1A----	Atr
+34	písmem	NNNS7-----A----	Adv
+35	)	Z:-------------	AuxG
+36	,	Z:-------------	Coord
+37	přináší	VB-S---3P-AA---	Pred
+38	rovněž	Db-------------	Adv
+39	příklady	NNIP4-----A----	Obj
+40	vyplnění	NNNS2-----A----	Atr
+41	daňového	AANS2----1A----	Atr
+42	přiznání	NNNS2-----A----	Atr
+43	.	Z:-------------	AuxK
+
+cmpr9413-021-p6s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Nakladatelství	NNNS1-----A----	ExD
+4	Vilímek	NNMS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	Brtnická	AAFS1----1A----	Atr
+7	25	C=-------------	Atr
+8	,	Z:-------------	AuxX
+9	586	C=-------------	Atr
+10	01	C=-------------	Atr
+11	Jihlava	NNFS1-----A----	Atr
+12	,	Z:-------------	AuxX
+13	tel	NNIXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	+	Z:-------------	Coord
+16	FAX	NNIS1-----A----	Atr
+17	:	Z:-------------	AuxG
+18	(	Z:-------------	AuxG
+19	066	C=-------------	Atr
+20	)	Z:-------------	AuxG
+21	257	C=-------------	Atr
+22	42	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9413-021-p7s1
+1	Mýtus	NNIS1-----A----	ExD
+2	japonského	AAIS2----1A----	Atr
+3	managementu	NNIS2-----A----	Atr
+
+cmpr9413-021-p8s1
+1	Japonský	AAIS1----1A----	Atr
+2	hospodářský	AAIS1----1A----	Atr
+3	zázrak	NNIS1-----A----	Sb
+4	a	J^-------------	Coord
+5	s	RR--7----------	AuxP
+6	ním	P5ZS7--3-------	Adv
+7	spojený	AAIS1----1A----	Atr
+8	způsob	NNIS1-----A----	Sb
+9	řízení	NNNS2-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	stal	VpYS---XR-AA---	Pred
+12	na	RR--4----------	AuxP
+13	dlouhá	AANP4----1A----	Atr
+14	léta	NNNP4-----A---2	Adv
+15	předmětem	NNIS7-----A----	Obj
+16	světového	AAIS2----1A----	Atr
+17	zájmu	NNIS2-----A----	Atr
+18	,	Z:-------------	Coord
+19	současně	Dg-------1A----	Adv
+20	se	P7-X4----------	AuxR
+21	vytvořil	VpYS---XR-AA---	Pred
+22	i	J^-------------	AuxZ
+23	určitý	AAIS1----1A----	Atr
+24	mýtus	NNIS1-----A----	Sb
+25	o	RR--6----------	AuxP
+26	japonské	AAFS6----1A----	Atr
+27	téměř	Db-------------	AuxZ
+28	neporazitelnosti	NNFS6-----A----	Atr
+29	v	RR--6----------	AuxP
+30	hospodářské	AAFS6----1A----	Atr
+31	soutěži	NNFS6-----A----	Atr
+32	.	Z:-------------	AuxK
+
+cmpr9413-021-p8s2
+1	Jon	NNMS1-----A----	Atr
+2	Woronoff	NNMS1-----A----	Sb
+3	,	Z:-------------	Apos
+4	autor	NNMS1-----A----	Sb
+5	knihy	NNFS2-----A----	Atr
+6	Mýtus	NNIS1-----A----	Atr
+7	japonského	AAIS2----1A----	Atr
+8	managementu	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	se	P7-X4----------	AuxT
+11	tento	PDIS4----------	Atr
+12	mýtus	NNIS4-----A----	Obj
+13	snaží	VB-S---3P-AA---	Pred
+14	postavit	Vf--------A----	Obj
+15	do	RR--2----------	AuxP
+16	reálného	AANS2----1A----	Atr
+17	světla	NNNS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+cmpr9413-021-p8s3
+1	Rozebírá	VB-S---3P-AA---	Pred
+2	přednosti	NNFP4-----A----	Obj
+3	i	J^-------------	Coord
+4	slabiny	NNFP4-----A----	Obj
+5	japonského	AAIS2----1A----	Atr
+6	managementu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9413-021-p8s4
+1	Cíl	NNIS4-----A----	Obj
+2	své	P8FS2---------1	Atr
+3	knihy	NNFS2-----A----	Atr
+4	vyjádřil	VpYS---XR-AA---	Pred
+5	zcela	Db-------------	Adv
+6	jasně	Dg-------1A----	Adv
+7	již	Db-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	předmluvě	NNFS6-----A----	Adv
+10	:	Z:-------------	Apos
+11	Poznání	NNNS1-----A----	Sb
+12	odvrácené	AAFS2----1A----	Atr
+13	strany	NNFS2-----A----	Atr
+14	japonského	AAIS2----1A----	Atr
+15	managementu	NNIS2-----A----	Atr
+16	má	VB-S---3P-AA---	Adv
+17	mnohé	AAFP4----1A----	Atr
+18	výhody	NNFP4-----A----	Obj
+19	pro	RR--4----------	AuxP
+20	praktického	AAMS4----1A----	Atr
+21	podnikatele	NNMS4-----A----	AtrAdv
+22	,	Z:-------------	AuxX
+23	na	RR--4----------	AuxP
+24	rozdíl	NNIS4-----A----	AuxP
+25	od	RR--2----------	AuxP
+26	vědce	NNMS2-----A----	Adv
+27	nebo	J^-------------	Coord
+28	studenta	NNMS2-----A----	Adv
+29	,	Z:-------------	AuxX
+30	zabývajícího	AGMS2-----A----	Atr
+31	se	P7-X4----------	AuxT
+32	japonskými	AAFP7----1A----	Atr
+33	zvyklostmi	NNFP7-----A----	Obj
+34	.	Z:-------------	AuxK
+
+cmpr9413-021-p8s5
+1	Trochu	Db-------------	Adv
+2	totiž	Db-------------	AuxY
+3	snižuje	VB-S---3P-AA---	Pred
+4	auru	NNFS4-----A----	Obj
+5	neporazitelnosti	NNFS2-----A----	Atr
+6	japonských	AAFP2----1A----	Atr
+7	společností	NNFP2-----A----	Atr
+8	a	J^-------------	Coord
+9	japonské	AAMP4----1A----	Atr
+10	manažery	NNMP4-----A----	Obj
+11	staví	VB-S---3P-AA---	Pred
+12	na	RR--6----------	AuxP
+13	žebříčku	NNIS6-----A----	Adv
+14	také	Db-------------	Adv
+15	poněkud	Db-------------	Adv
+16	níže	Dg-------2A---1	Adv
+17	.	Z:-------------	AuxK
+
+cmpr9413-021-p8s6
+1	Na	RR--6----------	AuxP
+2	druhé	CrFS6----------	Atr
+3	straně	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	zahraničním	AAMP3----1A----	Atr
+6	podnikatelům	NNMP3-----A----	Obj
+7	rozhodně	Dg-------1A----	Adv
+8	nevyplácí	VB-S---3P-NA---	Pred
+9	Japonce	NNMP4-----A----	Obj
+10	podceňovat	Vf--------A----	Sb
+11	a	J^-------------	Coord
+12	vystavovat	Vf--------A----	Sb
+13	se	P7-X4----------	Obj
+14	tak	Db-------------	Adv
+15	nebezpečí	NNNS3-----A----	Obj
+16	.	Z:-------------	AuxK
+17	.	Z:-------------	AuxK
+18	.	Z:-------------	AuxK
+
+cmpr9413-021-p8s7
+1	Zahraniční	AAFP1----1A----	Atr
+2	společnosti	NNFP1-----A----	Sb
+3	a	J^-------------	Coord
+4	manažeři	NNMP1-----A----	Sb
+5	musí	VB-P---3P-AA--1	Pred
+6	umět	Vf--------A----	Obj
+7	dělat	Vf--------A----	Obj
+8	něco	PZ--4----------	Obj
+9	lépe	Dg-------2A----	Adv
+10	než	J,-------------	AuxC
+11	Japonci	NNMP1-----A----	ExD
+12	.	Z:-------------	AuxK
+
+cmpr9413-021-p8s8A
+1	A	J^-------------	Coord
+2	zde	Db-------------	Adv
+3	právě	Db-------------	AuxZ
+4	docházíme	VB-P---1P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	nutnosti	NNFS3-----A----	Obj
+7	poznání	NNNS2-----A----	Atr
+8	jejich	PSXXXXP3-------	Atr
+9	slabých	AAFP2----1A----	Atr
+10	stránek	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+12	.	Z:-------------	AuxK
+13	.	Z:-------------	AuxK
+
+cmpr9413-021-p8s8B
+1	jedinou	AAFS7----1A----	Atr
+2	nadějí	NNFS7-----A----	Pnom
+3	pro	RR--4----------	AuxP
+4	zahraniční	AAMP4----1A----	Atr
+5	podnikatele	NNMP4-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	co	Db-------------	Adv
+8	nejpečlivěji	Dg-------3A----	Adv
+9	studovat	Vf--------A----	Sb
+10	Japonce	NNMP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	sestavit	Vf--------A----	Sb
+13	co	Db-------------	Adv
+14	nejpřesnější	AAIS4----3A----	Atr
+15	inventář	NNIS4-----A----	Obj
+16	jejich	PSXXXXP3-------	Atr
+17	slabých	AAIP2----1A----	Atr
+18	bodů	NNIP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	tak	Db-------------	Adv
+22	,	Z:-------------	AuxX
+23	krátce	Dg-------1A----	Adv
+24	řečeno	VsNS---XX-AP---	ExD
+25	,	Z:-------------	AuxX
+26	"	Z:-------------	AuxG
+27	poznat	Vf--------A----	Sb
+28	svého	P8MS4----------	Atr
+29	nepřítele	NNMS4-----A----	Obj
+30	"	Z:-------------	AuxG
+31	.	Z:-------------	AuxK
+
+cmpr9413-021-p8s9
+1	Pak	Db-------------	Adv
+2	můžete	VB-P---2P-AA---	Pred
+3	využít	Vf--------A----	Obj
+4	slabých	AAFP2----1A----	Atr
+5	stránek	NNFP2-----A----	Obj
+6	v	RR--6----------	AuxP
+7	kombinaci	NNFS6-----A----	Adv
+8	se	RV--7----------	AuxP
+9	svými	P8XP7----------	ExD
+10	silnými	AAFP7----1A----	ExD
+11	k	RR--3----------	AuxP
+12	tomu	PDZS3----------	Adv
+13	,	Z:-------------	AuxX
+14	abyste	J,-P---2-------	AuxC
+15	zvítězili	VpMP---XR-AA---	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9413-021-p9s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Victoria	AAXXX----1A----	ExD
+4	Publishing	NNNXX-----A----	Atr
+5	,	Z:-------------	AuxX
+6	Klimentská	AAFS1----1A----	Atr
+7	30	C=-------------	Atr
+8	,	Z:-------------	AuxX
+9	110	C=-------------	Atr
+10	00	C=-------------	Atr
+11	Praha	NNFS1-----A----	Atr
+12	1	C=-------------	Atr
+13	.	Z:-------------	AuxK
+

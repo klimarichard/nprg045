@@ -1,0 +1,595 @@
+cmpr9415-047-p2s1
+1	Podnikání	NNNS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	éteru	NNIS6-----A----	Atr
+
+cmpr9415-047-p3s1
+1	České	AAFP1----1A----	Atr
+2	radiokomunikace	NNFP1-----A----	Sb
+3	hledají	VB-P---3P-AA---	Pred
+4	silného	AAMS4----1A----	Atr
+5	zahraničního	AAMS4----1A----	Atr
+6	partnera	NNMS4-----A----	Obj
+
+cmpr9415-047-p4s1
+1	Moderní	AAFS1----1A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	požaduje	VB-S---3P-AA---	Pred
+4	stále	Dg-------1A----	Adv
+5	více	Dg-------2A----	Obj
+6	přesných	AAFP2----1A----	Atr
+7	a	J^-------------	Coord
+8	pohotových	AAFP2----1A----	Atr
+9	informací	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9415-047-p4s2
+1	Jejich	PSXXXXP3-------	Atr
+2	přenos	NNIS4-----A----	Obj
+3	vzduchem	NNIS7-----A----	Atr
+4	,	Z:-------------	AuxX
+5	ať	TT-------------	AuxY
+6	jde	VB-S---3P-AA---	Pred
+7	o	RR--4----------	AuxP
+8	televizní	AAIS4----1A----	Atr
+9	,	Z:-------------	Coord
+10	rozhlasový	AAIS4----1A----	Atr
+11	signál	NNIS4-----A----	Obj
+12	nebo	J^-------------	Coord
+13	digitální	AANP4----1A----	Atr
+14	data	NNNP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	zajišťují	VB-P---3P-AA---	Pred
+17	České	AAFP1----1A----	Atr
+18	radiokomunikace	NNFP1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+cmpr9415-047-p8s1
+1	Téměř	Db-------------	Adv
+2	tři	ClXP1----------	Atr
+3	čtvrtiny	CyFP1----------	Sb
+4	tržeb	NNFP2-----A----	Atr
+5	akciové	AAFS2----1A----	Atr
+6	společnosti	NNFS2-----A----	Atr
+7	pocházejí	VB-P---3P-AA---	Pred
+8	z	RR--2----------	AuxP
+9	provozu	NNIS2-----A----	Adv
+10	televizních	AAIP2----1A----	Atr
+11	a	J^-------------	Coord
+12	rozhlasových	AAIP2----1A----	Atr
+13	vysílačů	NNIP2-----A----	Atr
+14	a	J^-------------	Coord
+15	distribuce	NNFS2-----A----	Adv
+16	signálu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9415-047-p8s2
+1	V	RR--6----------	AuxP
+2	budoucnu	NNNS6-----A----	Adv
+3	by	Vc-------------	AuxV
+4	však	J^-------------	Coord
+5	měly	VpTP---XR-AA---	Pred
+6	tvořit	Vf--------A----	Obj
+7	stále	Dg-------1A----	Adv
+8	větší	AAIS4----2A----	Atr
+9	podíl	NNIS4-----A----	Obj
+10	nové	AAFP1----1A----	Atr
+11	podnikatelské	AAFP1----1A----	Atr
+12	aktivity	NNFP1-----A----	Sb
+13	-	Z:-------------	Apos
+14	družicové	AAFP1----1A----	Atr
+15	služby	NNFP1-----A----	Sb
+16	a	J^-------------	Coord
+17	provozování	NNNS1-----A----	Sb
+18	mobilních	AAIP2----1A----	Atr
+19	telefonů	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9415-047-p9s1
+1	Pro	RR--4----------	AuxP
+2	dobrý	AAIS4----1A----	Atr
+3	příjem	NNIS4-----A----	ExD
+
+cmpr9415-047-p10s1
+1	České	AAFP1----1A----	Atr
+2	radiokomunikace	NNFP1-----A----	Sb
+3	musí	VB-P---3P-AA--1	Pred
+4	v	RR--6----------	AuxP
+5	tomto	PDZS6----------	Atr
+6	roce	NNIS6-----A---1	Adv
+7	rychle	Dg-------1A----	Adv
+8	splatit	Vf--------A----	Obj
+9	dluh	NNIS4-----A----	Obj
+10	televizním	AAMP3----1A----	Atr
+11	divákům	NNMP3-----A----	AtrObj
+12	.	Z:-------------	AuxK
+
+cmpr9415-047-p10s2
+1	Jejich	PSXXXXP3-------	Atr
+2	vysílače	NNIP1-----A----	Sb
+3	dosud	Db-------------	Adv
+4	pokrývají	VB-P---3P-AA---	Pred
+5	signálem	NNIS7-----A----	Adv
+6	programu	NNIS2-----A----	Atr
+7	ČT	NNFXX-----A---8	Atr
+8	2	C=-------------	Atr
+9	méně	Dg-------2A----	Obj
+10	než	J,-------------	AuxC
+11	polovinu	NNFS4-----A----	Adv
+12	území	NNNS2-----A----	Atr
+13	republiky	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9415-047-p10s3
+1	Na	RR--6----------	AuxP
+2	moravsko	A2--------A----	Atr
+3	-	Z:-------------	Coord
+4	slovenském	AANS6----1A----	Atr
+5	pomezí	NNNS6-----A----	Adv
+6	je	VB-S---3P-AA---	Pred
+7	řada	NNFS1-----A----	Sb
+8	míst	NNNP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	nezachytí	VB-P---3P-NA---	Atr
+12	ani	J^-------------	AuxZ
+13	první	CrIS4----------	Atr
+14	program	NNIS4-----A----	Obj
+15	České	AAFS2----1A----	Atr
+16	televize	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9415-047-p10s4
+1	Do	RR--2----------	AuxP
+2	rozdělení	NNNS2-----A----	Adv
+3	federace	NNFS2-----A----	Atr
+4	totiž	Db-------------	AuxY
+5	signál	NNIS4-----A----	Obj
+6	zajišťovaly	VpTP---XR-AA---	Pred
+7	vysílače	NNIP1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	SR	NNFXX-----A---8	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9415-047-p11s1
+1	Česká	AAFS1----1A----	Atr
+2	televize	NNFS1-----A----	Sb
+3	žádá	VB-S---3P-AA---	Pred
+4	urychlenou	AAFS4----1A----	Atr
+5	výstavbu	NNFS4-----A----	Obj
+6	nových	AAIP2----1A----	Atr
+7	vysílačů	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9415-047-p11s2
+1	Naše	PSHS1-P1-------	Atr
+2	společnost	NNFS1-----A----	Sb
+3	může	VB-S---3P-AA---	Pred
+4	úkol	NNIS4-----A----	Obj
+5	splnit	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	chybějí	VB-P---3P-AA---	Pred
+9	nám	PP-P3--1-------	Obj
+10	peníze	NNIP1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+cmpr9415-047-p11s3
+1	Letos	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	výstavba	NNFS1-----A----	Sb
+4	technického	AANS2----1A----	Atr
+5	zařízení	NNNS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	sedmi	Cn-P6----------	Atr
+8	lokalitách	NNFP6-----A----	Atr
+9	stála	VpQW---XR-AA---	Pred
+10	120	C=-------------	Obj
+11	milionů	NNIP2-----A----	Atr
+12	korun	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	můžeme	VB-P---1P-AA---	Pred
+16	uvolnit	Vf--------A----	Obj
+17	jen	TT-------------	AuxZ
+18	80	C=-------------	Obj
+19	milionů	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9415-047-p11s4
+1	Proto	J^-------------	Adv
+2	o	RR--6----------	AuxP
+3	finančním	AANS6----1A----	Atr
+4	zabezpečení	NNNS6-----A----	Obj
+5	jednáme	VB-P---1P-AA---	Obj
+6	s	RR--7----------	AuxP
+7	Českou	AAFS7----1A----	Atr
+8	televizí	NNFS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	uvádí	VB-S---3P-AA---	Pred
+11	ekonomický	AAMS1----1A----	Atr
+12	ředitel	NNMS1-----A----	Atr
+13	Českých	AAFP2----1A----	Atr
+14	radiokomunikací	NNFP2-----A----	Atr
+15	Miroslav	NNMS1-----A----	Atr
+16	Čuřín	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+cmpr9415-047-p11s5
+1	Dalších	AAIP2----1A----	Atr
+2	62	C=-------------	Obj
+3	milionů	NNIP2-----A----	Atr
+4	korun	NNFP2-----A----	Atr
+5	si	P7-X3----------	AuxT
+6	vyžádá	VB-S---3P-AA---	Pred
+7	výstavba	NNFS1-----A----	Sb
+8	vysílačů	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	převaděčů	NNIP2-----A----	Atr
+11	signálu	NNIS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	pohraničí	NNNS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9415-047-p12s1
+1	Skuliny	NNFP1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	trhu	NNIS6-----A----	Atr
+
+cmpr9415-047-p13s1
+1	Televize	NNFS1-----A----	Sb
+2	dává	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	další	AAFP4----1A----	Atr
+5	příležitosti	NNFP4-----A----	Obj
+6	k	RR--3----------	AuxP
+7	podnikání	NNNS3-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9415-047-p13s2
+1	Zatím	Db-------------	Adv
+2	v	RR--6----------	AuxP
+3	ČR	NNFXX-----A---8	Adv
+4	nikdo	PWM-1----------	Sb
+5	neodpověděl	VpYS---XR-NA---	Pred
+6	Českým	AAFP3----1A----	Atr
+7	radiokomunikacím	NNFP3-----A----	Obj
+8	na	RR--4----------	AuxP
+9	nabídku	NNFS4-----A----	Obj
+10	využít	Vf--------A----	Atr
+11	satelitního	AANS2----1A----	Atr
+12	vysílání	NNNS2-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9415-047-p13s3
+1	Akciová	AAFS1----1A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	investovala	VpQW---XR-AA---	Pred
+4	značné	AAIP4----1A----	Atr
+5	prostředky	NNIP4-----A----	Obj
+6	do	RR--2----------	AuxP
+7	kosmického	AANS2----1A----	Atr
+8	radiokomunikačního	AANS2----1A----	Atr
+9	centra	NNNS2-----A----	Adv
+10	v	RR--6----------	AuxP
+11	Sedlci	NNIS6-----A----	Atr
+12	-	Z:-------------	AuxG
+13	Prčici	NNFS6-----A----	Atr
+14	a	J^-------------	Coord
+15	nabízí	VB-S---3P-AA---	Pred
+16	zákazníkům	NNMP3-----A----	Obj
+17	nové	AAFP4----1A----	Atr
+18	družicové	AAFP4----1A----	Atr
+19	služby	NNFP4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+cmpr9415-047-p13s4A
+1	Nemusí	VB-S---3P-NA---	Pred
+2	však	J^-------------	Coord
+3	jít	Vf--------A----	Obj
+4	pouze	Db-------------	AuxZ
+5	o	RR--4----------	AuxP
+6	příjem	NNIS4-----A----	Obj
+7	a	J^-------------	Coord
+8	distribuci	NNFS4-----A----	Obj
+9	signálu	NNIS2-----A----	Atr
+10	z	RR--2----------	AuxP
+11	telekomunikačních	AAIP2----1A----	Atr
+12	satelitů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	například	Db-------------	AuxY
+16	o	RR--4----------	AuxP
+17	přenos	NNIS4-----A----	Obj
+18	dat	NNNP2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	systému	NNIS6-----A----	Atr
+21	V	NNNXX-----A----	Atr
+22	-	Z:-------------	Coord
+23	SAT	NNXXX-----A---8	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9415-047-p13s4B
+1	Některé	PZFP1----------	Atr
+2	banky	NNFP1-----A----	Sb
+3	už	Db-------------	Adv
+4	projevily	VpTP---XR-AA---	Pred
+5	zájem	NNIS4-----A----	Obj
+6	o	RR--4----------	AuxP
+7	toto	PDNS4----------	Atr
+8	bezdrátové	AANS4----1A----	Atr
+9	spojení	NNNS4-----A----	Atr
+10	,	Z:-------------	AuxX
+11	které	P4NS1----------	Sb
+12	umožňuje	VB-S---3P-AA---	Atr
+13	výměnu	NNFS4-----A----	Obj
+14	digitálních	AANP2----1A----	Atr
+15	dat	NNNP2-----A----	Atr
+16	mezi	RR--7----------	AuxP
+17	svými	P8XP7----------	Atr
+18	pobočkami	NNFP7-----A----	Atr
+19	i	J^-------------	Coord
+20	s	RR--7----------	AuxP
+21	ostatním	AAIS7----1A----	Atr
+22	světem	NNIS7-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9415-047-p14s1
+1	Marketingové	AAFP1----1A----	Atr
+2	studie	NNFP1-----A----	Sb
+3	vypovídají	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	zatímco	J,-------------	AuxC
+7	trh	NNIS1-----A----	Sb
+8	s	RR--7----------	AuxP
+9	rozhlasovým	AAIS7----1A----	Atr
+10	signálem	NNIS7-----A----	Atr
+11	už	Db-------------	Adv
+12	je	VB-S---3P-AA---	Adv
+13	po	RR--6----------	AuxP
+14	bouřlivém	AAIS6----1A----	Atr
+15	rozvoji	NNIS6-----A----	Adv
+16	soukromých	AAFP2----1A----	Atr
+17	stanic	NNFP2-----A----	Atr
+18	nasycen	VsYS---XX-AP---	Pnom
+19	,	Z:-------------	AuxX
+20	nevyužité	AAFP4----1N----	Atr
+21	možnosti	NNFP4-----A----	Obj
+22	stále	Dg-------1A----	Adv
+23	má	VB-S---3P-AA---	Obj
+24	televize	NNFS1-----A----	Sb
+25	zejména	Db-------------	AuxZ
+26	při	RR--6----------	AuxP
+27	regionálním	AANS6----1A----	Atr
+28	a	J^-------------	Coord
+29	lokálním	AANS6----1A----	Atr
+30	vysílání	NNNS6-----A----	Adv
+31	.	Z:-------------	AuxK
+
+cmpr9415-047-p14s2
+1	České	AAFP1----1A----	Atr
+2	radiokomunikace	NNFP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	připraveny	VsTP---XX-AP---	Pnom
+5	poskytnout	Vf--------A----	Obj
+6	novým	AAIP3----1A----	Atr
+7	subjektům	NNIP3-----A----	Obj
+8	veškerý	PLIS4----------	Atr
+9	servis	NNIS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9415-047-p15s1
+1	Konkurence	NNFS1-----A----	ExD
+2	Eurotelu	NNIS2-----A----	Atr
+
+cmpr9415-047-p16s1
+1	Budoucí	AAIS4----1A----	Atr
+2	rozvoj	NNIS4-----A----	Obj
+3	vidí	VB-S---3P-AA---	Pred
+4	firma	NNFS1-----A----	Sb
+5	především	Db-------------	AuxZ
+6	v	RR--6----------	AuxP
+7	poskytování	NNNS6-----A----	Adv
+8	radiotelefonických	AAFP2----1A----	Atr
+9	služeb	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9415-047-p16s2
+1	Chce	VB-S---3P-AA---	Pred
+2	vytvořit	Vf--------A----	Obj
+3	Eurotelu	NNIS3-----A----	Adv
+4	konkurenční	AAFS4----1A----	Atr
+5	síť	NNFS4-----A----	Obj
+6	pro	RR--4----------	AuxP
+7	provoz	NNIS4-----A----	Atr
+8	mobilních	AAIP2----1A----	Atr
+9	telefonů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9415-047-p16s3
+1	V	RR--4----------	AuxP
+2	její	PSIS4FS3-------	Atr
+3	prospěch	NNIS4-----A----	Adv
+4	hovoří	VB-S---3P-AA---	Pred
+5	zvolené	AANS1----1A----	Atr
+6	kmitočtové	AANS1----1A----	Atr
+7	pásmo	NNNS1-----A----	Sb
+8	900	C=-------------	Atr
+9	megahertzů	NNIP2-----A----	Atr
+10	(	Z:-------------	AuxG
+11	Eurotel	NNIS1-----A----	Sb
+12	používá	VB-S---3P-AA---	Pred
+13	450	C=-------------	Obj
+14	MHz	NNIXX-----A---8	Atr
+15	)	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	které	P4NS1----------	Sb
+18	by	Vc-------------	AuxV
+19	umožnilo	VpNS---XR-AA---	Atr
+20	telefonní	AANS4----1A----	Atr
+21	spojení	NNNS4-----A----	Obj
+22	i	J^-------------	AuxY
+23	mimo	RR--4----------	AuxP
+24	území	NNNS4-----A----	AtrAdv
+25	ČR	NNFXX-----A---8	Atr
+26	.	Z:-------------	AuxK
+
+cmpr9415-047-p16s4
+1	České	AAFP1----1A----	Atr
+2	radiokomunikace	NNFP1-----A----	Sb
+3	mohou	VB-P---3P-AA--1	Pred
+4	také	Db-------------	Adv
+5	využít	Vf--------A----	Obj
+6	už	Db-------------	Adv
+7	vybudovanou	AAFS4----1A----	Atr
+8	síť	NNFS4-----A----	Obj
+9	vlastních	AAIP2----1A----	Atr
+10	vysílačů	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9415-047-p16s5
+1	Společnost	NNFS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	však	J^-------------	Coord
+4	uvědomuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	mnohomiliardová	AAFS1----1A----	Atr
+8	investice	NNFS1-----A----	Sb
+9	je	VB-S---3P-AA---	Obj
+10	nad	RR--4----------	AuxP
+11	její	PSXP4FS3-------	Atr
+12	současné	AAFP4----1A----	Atr
+13	možnosti	NNFP4-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9415-047-p16s6
+1	Proto	J^-------------	Coord
+2	musí	VB-S---3P-AA---	Pred
+3	najít	Vf--------A----	Obj
+4	kapitálově	Dg-------1A----	Adv
+5	silného	AAMS4----1A----	Atr
+6	zahraničního	AAMS4----1A----	Atr
+7	partnera	NNMS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	kromě	RR--2----------	AuxP
+11	peněz	NNIP2-----A----	Adv
+12	přinese	VB-S---3P-AA---	Atr
+13	i	J^-------------	AuxZ
+14	vyspělé	AANS4----1A----	Atr
+15	know	NNNXX-----A----	Obj
+16	-	Z:-------------	Coord
+17	how	NNNXX-----A----	Obj
+18	.	Z:-------------	AuxK
+
+cmpr9415-047-p17s1
+1	Chceme	VB-P---1P-AA---	Pred
+2	jít	Vf--------A----	Obj
+3	do	RR--2----------	AuxP
+4	velké	AAFS2----1A----	Atr
+5	věci	NNFS2-----A----	Adv
+6	.	Z:-------------	AuxK
+
+cmpr9415-047-p17s2
+1	Nesledujeme	VB-P---1P-NA---	Obj
+2	tím	PDZS7----------	Obj
+3	jen	TT-------------	AuxZ
+4	mimořádný	AAIS4----1A----	Atr
+5	zisk	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	především	Db-------------	AuxZ
+9	vytvoření	NNNS4-----A----	Obj
+10	konkurenčního	AANS2----1A----	Atr
+11	prostředí	NNNS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	které	P4NS1----------	Sb
+14	bude	VB-S---3F-AA---	AuxV
+15	mít	Vf--------A----	Atr
+16	vliv	NNIS4-----A----	Obj
+17	na	RR--4----------	AuxP
+18	kvalitu	NNFS4-----A----	Atr
+19	a	J^-------------	Coord
+20	cenu	NNFS4-----A----	Atr
+21	poskytovaných	AAFP2----1A----	Atr
+22	radiotelefonických	AAFP2----1A----	Atr
+23	služeb	NNFP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	vysvětluje	VB-S---3P-AA---	Pred
+26	Miroslav	NNMS1-----A----	Atr
+27	Čuřín	NNMS1-----A----	Sb
+28	.	Z:-------------	AuxK
+
+cmpr9415-047-p18s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	České	AAFP1----1A----	Atr
+4	radiokomunikace	NNFP1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	a	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	s	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	,	Z:-------------	AuxX
+11	Olšanská	AAFS1----1A----	Atr
+12	3	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	130	C=-------------	Atr
+15	55	C=-------------	Atr
+16	Praha	NNFS1-----A----	Atr
+17	3	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	tel	NNIXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	:	Z:-------------	AuxG
+22	(	Z:-------------	AuxG
+23	02	C=-------------	Atr
+24	)	Z:-------------	AuxG
+25	691	C=-------------	Atr
+26	9267	C=-------------	Atr
+27	,	Z:-------------	AuxX
+28	FAX	NNIS1-----A----	Atr
+29	:	Z:-------------	AuxG
+30	(	Z:-------------	AuxG
+31	02	C=-------------	Atr
+32	)	Z:-------------	AuxG
+33	691	C=-------------	Atr
+34	9292	C=-------------	Atr
+35	.	Z:-------------	AuxK
+
+cmpr9415-047-p19s1
+1	Údaje	NNIP1-----A----	ExD
+2	o	RR--6----------	AuxP
+3	a	AAXXX----1A---8	Atr
+4	.	Z:-------------	AuxG
+5	s	NNFXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	České	AAFP1----1A----	Atr
+8	radiokomunikace	NNFP1-----A----	Atr
+
+cmpr9415-047-p21s1
+1	Výkony	NNIP1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	v	RR--6----------	AuxP
+4	tis	NNIXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Kč	NNFXX-----A---8	Atr
+7	)	Z:-------------	AuxG
+8	866401949699976963	C=-------------	ExD
+
+cmpr9415-047-p22s1
+1	Zisk	NNIS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	v	RR--6----------	AuxP
+4	tis	NNIXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Kč	NNFXX-----A---8	Atr
+7	)	Z:-------------	AuxG
+8	252137225077115628	C=-------------	ExD
+
+cmpr9415-047-p23s1
+1	Pracovníci	NNMP1-----A----	ExD
+2	314248230	C=-------------	Atr
+

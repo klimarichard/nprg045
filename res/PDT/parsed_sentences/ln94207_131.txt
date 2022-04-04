@@ -1,0 +1,130 @@
+ln94207-131-p1s1
+1	Neregulované	AAFP1----1N----	Atr
+2	mzdy	NNFP1-----A----	Sb
+3	stály	VpTP---XR-AA---	Pred
+4	firmy	NNFP4-----A----	Obj
+5	miliony	NNIP4-----A----	Obj
+
+ln94207-131-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	hm	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94207-131-p2s1B
+1	Kontrolu	NNFS4-----A----	Obj
+2	dodržování	NNNS2-----A----	Atr
+3	regulace	NNFS2-----A----	Atr
+4	mezd	NNFP2-----A----	Atr
+5	u	RR--2----------	AuxP
+6	2370	C=-------------	Atr
+7	zaměstnavatelů	NNMP2-----A----	AtrAdv
+8	provedly	VpTP---XR-AA---	Pred
+9	úřady	NNIP1-----A----	Sb
+10	práce	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	1	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	pololetí	NNNS6-----A----	Adv
+15	letošního	AAIS2----1A----	Atr
+16	roku	NNIS2-----A---1	Atr
+17	.	Z:-------------	AuxK
+
+ln94207-131-p2s2
+1	Loni	Db------------1	Adv
+2	ve	RV--6----------	AuxP
+3	stejném	AANS6----1A----	Atr
+4	období	NNNS6-----A----	Adv
+5	jich	PPXP2--3-------	Atr
+6	bylo	VpNS---XR-AA---	Pred
+7	pouze	Db-------------	AuxZ
+8	413	C=-------------	Sb
+9	.	Z:-------------	AuxK
+
+ln94207-131-p2s3
+1	Ministr	NNMS1-----A----	Atr
+2	práce	NNFS2-----A----	Atr
+3	a	J^-------------	Coord
+4	sociálních	AAFP2----1A----	Atr
+5	věcí	NNFP2-----A----	Atr
+6	Jindřich	NNMS1-----A----	Atr
+7	Vodička	NNMS1-----A----	Sb
+8	včera	Db-------------	Adv
+9	také	Db-------------	Adv
+10	uvedl	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	o	RR--4----------	AuxP
+14	zmírnění	NNNS4-----A----	Obj
+15	vládního	AAIS2----1A----	Atr
+16	předpisu	NNIS2-----A----	Atr
+17	o	RR--6----------	AuxP
+18	regulaci	NNFS6-----A----	Atr
+19	požádalo	VpNS---XR-AA---	Obj
+20	pro	RR--4----------	AuxP
+21	své	P8FP4---------1	Atr
+22	firmy	NNFP4-----A----	Adv
+23	letos	Db-------------	Adv
+24	v	RR--6----------	AuxP
+25	1	C=-------------	Atr
+26	.	Z:-------------	AuxG
+27	pololetí	NNNS6-----A----	Adv
+28	504	C=-------------	Sb
+29	zaměstnavatelů	NNMP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94207-131-p2s4
+1	Žádosti	NNFP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	AuxV
+3	postupně	Dg-------1A----	Adv
+4	projednávány	VsTP---XX-AP---	Obj
+5	v	RR--6----------	AuxP
+6	komisi	NNFS6-----A----	Adv
+7	a	J^-------------	Coord
+8	jsou	VB-P---3P-AA---	Adv
+9	-	Z:-------------	AuxG
+10	li	TT-------------	AuxC
+11	zdůvodněny	VsTP---XX-AP---	Pnom
+12	,	Z:-------------	AuxX
+13	tak	J^-------------	Adv
+14	je	VB-S---3P-AA---	AuxV
+15	většině	NNFS3-----A----	Obj
+16	z	RR--2----------	AuxP
+17	nich	P5XP2--3-------	Atr
+18	vyhověno	VsNS---XX-AP---	Obj
+19	,	Z:-------------	AuxX
+20	řekl	VpYS---XR-AA---	Pred
+21	ministr	NNMS1-----A----	Atr
+22	Jindřich	NNMS1-----A----	Atr
+23	Vodička	NNMS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln94207-131-p2s5
+1	Uvedl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	od	RR--2----------	AuxP
+5	počátku	NNIS2-----A----	Adv
+6	vyhlášení	NNNS2-----A----	Atr
+7	tohoto	PDZS2----------	Atr
+8	vládního	AANS2----1A----	Atr
+9	opatření	NNNS2-----A----	Atr
+10	do	RR--2----------	AuxP
+11	30	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	června	NNIS2-----A----	Adv
+14	letošního	AAIS2----1A----	Atr
+15	roku	NNIS2-----A---1	Atr
+16	zaplatili	VpMP---XR-AA---	Obj
+17	zaměstnavatelé	NNMP1-----A----	Sb
+18	za	RR--4----------	AuxP
+19	jeho	PSXXXZS3-------	Atr
+20	nedodržení	NNNS4-----N----	Obj
+21	celkem	Db-------------	AuxZ
+22	přes	RR--4----------	AuxP
+23	121	C=-------------	Obj
+24	milionů	NNIP2-----A----	Atr
+25	korun	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+

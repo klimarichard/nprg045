@@ -1,0 +1,207 @@
+cmpr9410-009-p3s1
+1	|	Z:-------------	ExD
+2	Daňový	AAMS1----1A----	Atr
+3	poradce	NNMS1-----A----	ExD
+4	|	Z:-------------	AuxK
+
+cmpr9410-009-p5s1
+1	Trápí	VB-P---3P-AA---	Pred
+2	vás	PP-P4--2-------	Obj
+3	daně	NNFP1-----A----	Sb
+4	?	Z:-------------	AuxK
+
+cmpr9410-009-p5s2
+1	Nevíte	VB-P---2P-NA---	Pred
+2	,	Z:-------------	AuxX
+3	co	PQ--4----------	Obj
+4	kam	Db-------------	Adv
+5	započítat	Vf--------A----	Obj
+6	?	Z:-------------	AuxK
+
+cmpr9410-009-p5s3
+1	Zdá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	vám	PP-P3--2-------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	finanční	AAIS1----1A----	Atr
+7	úřad	NNIS1-----A----	Sb
+8	nepostupoval	VpYS---XR-NA---	Sb
+9	správně	Dg-------1A----	Adv
+10	?	Z:-------------	AuxK
+
+cmpr9410-009-p5s4
+1	Jsou	VB-P---3P-AA---	Pred
+2	vám	PP-P3--2-------	Obj
+3	nejasná	AANP1----1N----	Pnom
+4	některá	PZNP1----------	Atr
+5	ustanovení	NNNP1-----A----	Sb
+6	daňových	AAIP2----1A----	Atr
+7	zákonů	NNIP2-----A----	Atr
+8	?	Z:-------------	AuxK
+
+cmpr9410-009-p5s5
+1	Je	VB-S---3P-AA---	Pred
+2	tu	Db------------1	Adv
+3	pro	RR--4----------	AuxP
+4	vás	PP-P4--2-------	Adv
+5	připravena	VsQW---XX-AP---	Pnom
+6	rubrika	NNFS1-----A----	Sb
+7	Daňový	AAMS1----1A----	Atr
+8	poradce	NNMS1-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9410-009-p5s6
+1	Vaše	PSXP4-P2-------	Atr
+2	dotazy	NNIP4-----A----	Obj
+3	čekáme	VB-P---1P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	adrese	NNFS6-----A----	Adv
+6	Českomoravského	AAIS2----1A----	Atr
+7	profitu	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9410-009-p6s1
+1	Silniční	AAFS1----1A----	Atr
+2	daň	NNFS1-----A----	ExD
+
+cmpr9410-009-p7s1
+1	Máme	VB-P---1P-AA---	Pred
+2	zaměstnance	NNMP4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	které	P4YP4----------	Obj
+5	občas	Db-------------	Adv
+6	vysíláme	VB-P---1P-AA---	Atr
+7	na	RR--4----------	AuxP
+8	služební	AAFS4----1A----	Atr
+9	cestu	NNFS4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9410-009-p7s2
+1	Protože	J,-------------	AuxC
+2	je	VB-S---3P-AA---	Adv
+3	ale	J^-------------	Coord
+4	v	RR--6----------	AuxP
+5	naší	PSFS6-P1-------	Atr
+6	firmě	NNFS6-----A----	Adv
+7	několikanásobně	Dg-------1A----	Adv
+8	více	Dg-------2A----	Sb
+9	zaměstnanců	NNMP2-----A----	Atr
+10	než	J,-------------	AuxC
+11	služebních	AANP2----1A----	Atr
+12	vozidel	NNNP2-----A----	ExD
+13	,	Z:-------------	AuxX
+14	musí	VB-P---3P-AA--1	Pred
+15	v	RR--6----------	AuxP
+16	případě	NNIS6-----A----	Adv
+17	nouze	NNFS2-----A----	Atr
+18	jet	Vf--------A----	Obj
+19	vlastním	AANS7----1A----	Atr
+20	autem	NNNS7-----A----	Adv
+21	.	Z:-------------	AuxK
+
+cmpr9410-009-p7s3
+1	Tím	PDZS7----------	Atr
+2	pádem	NNIS7-----A----	Adv
+3	máme	VB-P---1P-AA---	Pred
+4	problém	NNIS4-----A----	Obj
+5	se	RV--7----------	AuxP
+6	silniční	AAFS7----1A----	Atr
+7	daní	NNFS7-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9410-009-p7s4
+1	Víme	VB-P---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	jste	VB-P---2P-AA---	AuxV
+5	na	RR--4----------	AuxP
+6	podobný	AAIS4----1A----	Atr
+7	dotaz	NNIS4-----A----	Obj
+8	již	Db-------------	Adv
+9	odpovídal	VpYS---XR-AA---	Obj
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	nevíme	VB-P---1P-NA---	Pred
+13	,	Z:-------------	AuxX
+14	zda	J,-------------	AuxC
+15	činnost	NNFS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	kterou	P4FS7----------	Obj
+18	se	P7-X4----------	AuxT
+19	zabýváme	VB-P---1P-AA---	Atr
+20	,	Z:-------------	AuxX
+21	spadá	VB-S---3P-AA---	Obj
+22	do	RR--2----------	AuxP
+23	vámi	PP-P7--2-------	Obj
+24	uváděných	AAIP2----1A----	Atr
+25	příkladů	NNIP2-----A----	Adv
+26	.	Z:-------------	AuxK
+
+cmpr9410-009-p8s1
+1	Váš	PSIS4-P2-------	Atr
+2	problém	NNIS4-----A----	Obj
+3	vyřešila	VpQW---XR-AA---	Pred
+4	prosincová	AAFS1----1A----	Atr
+5	novela	NNFS1-----A----	Sb
+6	silniční	AAFS2----1A----	Atr
+7	daně	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ve	RV--6----------	AuxP
+10	které	P4FS6----------	Adv
+11	bylo	VpNS---XR-AA---	AuxV
+12	zrušeno	VsNS---XX-AP---	Atr
+13	osvobození	NNNS1-----A----	Sb
+14	od	RR--2----------	AuxP
+15	silniční	AAFS2----1A----	Atr
+16	daně	NNFS2-----A----	Atr
+17	zaměstnaneckých	AANP2----1A----	Atr
+18	vozidel	NNNP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-009-p8s2
+1	Za	RR--4----------	AuxP
+2	vozidla	NNNP4-----A----	Obj
+3	zaměstnanců	NNMP2-----A----	Atr
+4	užívaná	AANP4----1A----	Atr
+5	pro	RR--4----------	AuxP
+6	pracovní	AAIP4----1A----	Atr
+7	účely	NNIP4-----A----	Adv
+8	platí	VB-S---3P-AA---	Pred
+9	silniční	AAFS4----1A----	Atr
+10	daň	NNFS4-----A----	Obj
+11	zaměstnavatel	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+cmpr9410-009-p9s1
+1	Jiří	NNMS1-----A----	Atr
+2	Gebarowský	NNMS1-----A----	ExD
+
+cmpr9410-009-p10s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	J	NNMXX-----A---8	ExD
+4	&	Z:-------------	Coord
+5	G	NNMXX-----A---8	ExD
+6	,	Z:-------------	AuxX
+7	daňové	AANS1----1A----	Atr
+8	poradenství	NNNS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Norská	AAFS1----1A----	Atr
+11	12	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	101	C=-------------	Atr
+14	00	C=-------------	Atr
+15	Praha	NNFS1-----A----	Atr
+16	10	C=-------------	Atr
+17	,	Z:-------------	AuxX
+18	tel	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	:	Z:-------------	AuxG
+21	(	Z:-------------	AuxG
+22	02	C=-------------	Atr
+23	)	Z:-------------	AuxG
+24	73	C=-------------	Atr
+25	89	C=-------------	Atr
+26	59	C=-------------	Atr
+

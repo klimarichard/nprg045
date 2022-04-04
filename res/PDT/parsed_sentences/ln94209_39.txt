@@ -1,0 +1,251 @@
+ln94209-39-p1s1
+1	Mladík	NNMS1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	vraždil	VpYS---XR-AA---	Atr
+5	ze	RV--2----------	AuxP
+6	msty	NNFS2-----A----	Adv
+7	,	Z:-------------	AuxX
+8	před	RR--7----------	AuxP
+9	soudem	NNIS7-----A----	ExD
+
+ln94209-39-p2s1A
+1	Soudní	AAFS1----1A----	Atr
+2	síň	NNFS1-----A----	ExD
+
+ln94209-39-p2s1B
+1	Plzeň	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	vet	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94209-39-p2s1C
+1	Pro	RR--4----------	AuxP
+2	trestné	AAIP4----1A----	Atr
+3	činy	NNIP4-----A----	Adv
+4	vraždy	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	porušování	NNNS2-----A----	Atr
+7	dopravní	AAFS2----1A----	Atr
+8	svobody	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	krádeže	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	neoprávněného	AANS2----1N----	Atr
+13	užívání	NNNS2-----A----	Atr
+14	cizí	AAFS2----1A----	Atr
+15	věci	NNFS2-----A----	Atr
+16	stanul	VpYS---XR-AA---	Pred
+17	včera	Db-------------	Adv
+18	před	RR--7----------	AuxP
+19	Krajským	AAIS7----1A----	Atr
+20	soudem	NNIS7-----A----	Adv
+21	v	RR--6----------	AuxP
+22	Plzni	NNFS6-----A----	Atr
+23	devatenáctiletý	AAMS1----1A----	Atr
+24	Jindřich	NNMS1-----A----	Atr
+25	S	NNMXX-----A---8	Sb
+26	.	Z:-------------	AuxG
+27	z	RR--2----------	AuxP
+28	Holýšova	NNIS2-----A----	Atr
+29	na	RR--6----------	AuxP
+30	Domažlicku	NNNS6-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94209-39-p2s2
+1	Byl	VpYS---XR-AA---	AuxV
+2	obviněn	VsYS---XX-AP---	Pred
+3	z	RR--2----------	AuxP
+4	toho	PDZS2----------	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	vnikl	VpYS---XR-AA--1	Atr
+8	do	RR--2----------	AuxP
+9	bytu	NNIS2-----A----	Adv
+10	šestačtyřicetiletého	AAMS2----1A----	Atr
+11	Bořka	NNMS2-----A----	Atr
+12	H	NNMXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	z	RR--2----------	AuxP
+15	Domažlic	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94209-39-p2s3
+1	Odnesl	VpYS---XR-AA---	Pred
+2	si	P7-X3----------	Adv
+3	video	NNNS4-----A----	Obj
+4	s	RR--7----------	AuxP
+5	kazetami	NNFP7-----A----	Atr
+6	za	RR--4----------	AuxP
+7	23000	C=-------------	AtrAtr
+8	korun	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94209-39-p2s4
+1	Na	RR--4----------	AuxP
+2	místo	NNNS4-----A----	Adv
+3	činu	NNIS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	však	J^-------------	Coord
+6	vrátil	VpYS---XR-AA---	Pred
+7	ještě	Db-------------	AuxZ
+8	jednou	Cv-------------	Adv
+9	.	Z:-------------	AuxK
+
+ln94209-39-p2s5
+1	Bořka	NNMS4-----A----	Atr
+2	H	NNMXX-----A---8	Obj
+3	.	Z:-------------	AuxG
+4	tentokrát	Db-------------	Adv
+5	udeřil	VpYS---XR-AA---	Pred
+6	dvakrát	Cv-------------	Adv
+7	sekyrou	NNFS7-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94209-39-p2s6
+1	Zraněním	NNNP3-----A----	Obj
+2	,	Z:-------------	AuxX
+3	která	P4NP4----------	Obj
+4	mu	PHZS3--3-------	Obj
+5	způsobil	VpYS---XR-AA---	Atr
+6	na	RR--6----------	AuxP
+7	hlavě	NNFS6-----A----	Adv
+8	a	J^-------------	Coord
+9	páteři	NNFS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	napadený	AAMS1----1A----	Sb
+12	za	RR--4----------	AuxP
+13	několik	Ca--4----------	Adv
+14	dnů	NNIP2-----A----	Atr
+15	podlehl	VpYS---XR-AA--1	Pred
+16	.	Z:-------------	AuxK
+
+ln94209-39-p2s7
+1	Obžalovaný	AAMS1----1A----	Sb
+2	si	P7-X3----------	Adv
+3	pak	Db-------------	Adv
+4	z	RR--2----------	AuxP
+5	bytu	NNIS2-----A----	Adv
+6	vzal	VpYS---XR-AA---	Pred
+7	ještě	Db-------------	AuxZ
+8	klíčky	NNIP4-----A----	Obj
+9	od	RR--2----------	AuxP
+10	jeho	PSXXXZS3-------	Atr
+11	citroenu	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	odjel	VpYS---XR-AA---	Pred
+14	.	Z:-------------	AuxK
+
+ln94209-39-p2s8
+1	Podle	RR--2----------	AuxP
+2	výpovědi	NNFS2-----A----	Adv
+3	obžalovaného	AAMS2----1A----	Atr
+4	do	RR--2----------	AuxP
+5	bytu	NNIS2-----A----	Adv
+6	násilím	NNNS7-----A----	Adv
+7	nevnikl	VpYS---XR-NA--1	Pred
+8	.	Z:-------------	AuxK
+
+ln94209-39-p2s9
+1	Přišel	VpYS---XR-AA---	Pred
+2	si	P7-X3----------	Adv
+3	údajně	Dg-------1A----	Adv
+4	jen	TT-------------	AuxZ
+5	vyzvednout	Vf--------A----	Adv
+6	svůj	P8IS4----------	Atr
+7	televizor	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	který	P4IS4----------	Obj
+10	si	P7-X3----------	Adv
+11	u	RR--2----------	AuxP
+12	Bořka	NNMS2-----A----	Atr
+13	H	NNMXX-----A---8	Adv
+14	.	Z:-------------	AuxG
+15	dříve	Dg-------2A----	Adv
+16	uschoval	VpYS---XR-AA---	Atr
+17	.	Z:-------------	AuxK
+
+ln94209-39-p2s10
+1	Ten	PDYS1----------	Sb
+2	už	Db-------------	Adv
+3	ho	PHZS4--3-------	Obj
+4	však	J^-------------	Coord
+5	neměl	VpYS---XR-NA---	Pred
+6	.	Z:-------------	AuxK
+
+ln94209-39-p2s11
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	přípravného	AANS2----1A----	Atr
+5	řízení	NNNS2-----A----	Adv
+6	Jindřich	NNMS1-----A----	Atr
+7	S	NNMXX-----A---8	Sb
+8	.	Z:-------------	AuxG
+9	před	RR--7----------	AuxP
+10	soudem	NNIS7-----A----	Adv
+11	poprvé	Cv-------------	Adv
+12	uvedl	VpYS---XR-AA---	Pred
+13	skutečnost	NNFS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	ho	PHZS4--3-------	Obj
+17	majitel	NNMS1-----A----	Sb
+18	bytu	NNIS2-----A----	Atr
+19	osahával	VpYS---XR-AA---	Atr
+20	,	Z:-------------	AuxX
+21	svlékal	VpYS---XR-AA---	Atr
+22	a	J^-------------	Coord
+23	pohlavně	Dg-------1A----	Adv
+24	zneužil	VpYS---XR-AA---	Atr
+25	.	Z:-------------	AuxK
+
+ln94209-39-p2s12
+1	Proto	J^-------------	Coord
+2	na	RR--4----------	AuxP
+3	něj	P5ZS4--3-------	Obj
+4	zaútočil	VpYS---XR-AA---	Pred
+5	sekyrou	NNFS7-----A----	Obj
+6	.	Z:-------------	AuxK
+
+ln94209-39-p2s13
+1	Dříve	Dg-------2A----	Adv
+2	se	P7-X4----------	AuxT
+3	o	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	nezmínil	VpYS---XR-NA---	Pred
+6	prý	TT-------------	AuxY
+7	ze	RV--2----------	AuxP
+8	studu	NNIS2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln94209-39-p2s14
+1	Státní	AAFS1----1A----	Atr
+2	zástupkyně	NNFS1-----A----	Sb
+3	požaduje	VB-S---3P-AA---	Pred
+4	trest	NNIS4-----A----	Obj
+5	odnětí	NNNS2-----A----	Atr
+6	svobody	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	rozmezí	NNNS6-----A----	Atr
+9	od	RR--2----------	AuxP
+10	12	C=-------------	ExD
+11	do	RR--2----------	AuxP
+12	15	C=-------------	Atr
+13	let	NNNP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	nikoliv	Db-------------	AuxZ
+16	však	J^-------------	Coord
+17	výjimečný	AAIS4----1A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94209-39-p2s15
+1	Dnes	Db-------------	Adv
+2	pokračuje	VB-S---3P-AA---	Pred
+3	hlavní	AANS1----1A----	Atr
+4	líčení	NNNS1-----A----	Sb
+5	výslechem	NNIS7-----A----	Adv
+6	svědků	NNMP2-----A----	Atr
+7	.	Z:-------------	AuxK
+

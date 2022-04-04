@@ -1,0 +1,276 @@
+ln95042-089-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln95042-089-p2s1
+1	Neúroda	NNFS1-----A----	Sb
+2	brambor	NNFP2-----A----	Atr
+3	postihla	VpQW---XR-AA--1	Pred
+4	i	J^-------------	AuxZ
+5	Německo	NNNS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+ln95042-089-p2s2
+1	Tamní	AAMP1----1A----	Atr
+2	zemědělci	NNMP1-----A----	Sb
+3	loni	Db------------1	Adv
+4	sklidili	VpMP---XR-AA---	Pred
+5	jen	TT-------------	AuxZ
+6	9.25	C=-------------	Obj
+7	miliónu	NNIS2-----A----	Atr
+8	tun	NNFP2-----A----	Atr
+9	brambor	NNFP2-----A----	Atr
+10	ve	RV--6----------	AuxP
+11	srovnání	NNNS6-----A----	AuxP
+12	s	RR--7----------	AuxP
+13	12.26	C=-------------	Adv
+14	miliónu	NNIS2-----A----	Atr
+15	tun	NNFP2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	roce	NNIS6-----A---1	Atr
+18	1993	C=-------------	Atr
+19	.	Z:-------------	AuxK
+
+ln95042-089-p2s3
+1	Za	RR--4----------	AuxP
+2	2.5	C=-------------	Obj
+3	kg	NNIXX-----A---8	Atr
+4	brambor	NNFP2-----A----	Atr
+5	nyní	Db-------------	Adv
+6	zákazníci	NNMP1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	Německu	NNNS6-----A----	AtrAdv
+9	zaplatí	VB-P---3P-AA---	Pred
+10	3.58	C=-------------	Obj
+11	DEM	NNFXX-----A---8	Atr
+12	,	Z:-------------	AuxX
+13	zatímco	J,-------------	AuxC
+14	před	RR--7----------	AuxP
+15	rokem	NNIS7-----A----	Adv
+16	to	PDNS1----------	Sb
+17	bylo	VpNS---XR-AA---	Adv
+18	jen	TT-------------	AuxZ
+19	2.07	C=-------------	Pnom
+20	DEM	NNFXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+ln95042-089-p3s1
+1	Kvóty	NNFP4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	dovoz	NNIS4-----A----	Atr
+4	sladu	NNIS2-----A----	Atr
+5	z	RR--2----------	AuxP
+6	České	AAFS2----1A----	Atr
+7	republiky	NNFS2-----A----	AtrAtr
+8	a	J^-------------	Coord
+9	Slovenska	NNNS2-----A----	AtrAtr
+10	o	RR--4----------	AuxP
+11	1070	C=-------------	Adv
+12	tun	NNFP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	sezóně	NNFS6-----A----	Adv
+15	1994	C=-------------	Atr
+16	/	Z:-------------	Coord
+17	95	C=-------------	Atr
+18	a	J^-------------	Coord
+19	o	RR--4----------	AuxP
+20	430	C=-------------	Adv
+21	tun	NNFP2-----A----	Atr
+22	v	RR--6----------	AuxP
+23	sezóně	NNFS6-----A----	Adv
+24	1995	C=-------------	Atr
+25	/	Z:-------------	Coord
+26	96	C=-------------	Atr
+27	zvýšila	VpQW---XR-AA---	Pred
+28	Evropská	AAFS1----1A----	Atr
+29	unie	NNFS1-----A----	Sb
+30	.	Z:-------------	AuxK
+
+ln95042-089-p4s1
+1	Austrálie	NNFS1-----A----	Sb
+2	předstihla	VpQW---XR-AA--1	Pred
+3	Kubu	NNFS4-----A----	Obj
+4	a	J^-------------	Coord
+5	je	VB-S---3P-AA---	Pred
+6	největším	AAMS7----3A----	Atr
+7	světovým	AAMS7----1A----	Atr
+8	vývozcem	NNMS7-----A----	Pnom
+9	cukru	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95042-089-p4s2
+1	V	RR--6----------	AuxP
+2	sezóně	NNFS6-----A----	Adv
+3	1994	C=-------------	Atr
+4	/	Z:-------------	Coord
+5	95	C=-------------	Atr
+6	vypěstovala	VpQW---XR-AA---	Pred
+7	rekordních	AAFP2----1A----	Atr
+8	pět	Cn-S4----------	Obj
+9	mil	NNIXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	tun	NNFP2-----A----	Atr
+12	surového	AAIS2----1A----	Atr
+13	cukru	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95042-089-p5s1
+1	Spotřeba	NNFS1-----A----	Sb
+2	elektřiny	NNFS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	ČR	NNFXX-----A---8	AtrAdv
+5	činila	VpQW---XR-AA---	Pred
+6	loni	Db------------1	Adv
+7	58260	C=-------------	Obj
+8	GWh	NNFXX-----A---8	Atr
+9	,	Z:-------------	Coord
+10	což	PE--1----------	Sb
+11	znamená	VB-S---3P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	poprvé	Cv-------------	Adv
+15	od	RR--2----------	AuxP
+16	roku	NNIS2-----A---1	Adv
+17	1989	C=-------------	Atr
+18	nebyl	VpYS---XR-NA---	AuxV
+19	zaznamenán	VsYS---XX-AP---	Obj
+20	její	PSZS1FS3-------	Atr
+21	pokles	NNIS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln95042-089-p5s2
+1	Spotřeba	NNFS1-----A----	Sb
+2	elektřiny	NNFS2-----A----	Atr
+3	byla	VpQW---XR-AA---	Pred
+4	loni	Db------------1	Adv
+5	zhruba	Db-------------	AuxZ
+6	o	RR--4----------	AuxP
+7	1500	C=-------------	Adv
+8	GWh	NNFXX-----A---8	Atr
+9	vyšší	AAFS1----2A----	Pnom
+10	než	J,-------------	AuxC
+11	v	RR--6----------	AuxP
+12	roce	NNIS6-----A---1	ExD
+13	1993	C=-------------	Atr
+14	,	Z:-------------	Coord
+15	to	PDNS1----------	Sb
+16	je	VB-S---3P-AA---	Pred
+17	asi	TT-------------	AuxZ
+18	o	RR--4----------	AuxP
+19	2.64	C=-------------	Adv
+20	procenta	NNNS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95042-089-p6s1
+1	Investiční	AAIS1----1A----	Atr
+2	fond	NNIS1-----A----	Sb
+3	Spořitelní	AAIS1----1A----	Atr
+4	privatizační	AAIS1----1A----	Atr
+5	dosáhl	VpYS---XR-AA---	Pred
+6	za	RR--4----------	AuxP
+7	rok	NNIS4-----A----	Adv
+8	1994	C=-------------	Atr
+9	zisk	NNIS4-----A----	Obj
+10	po	RR--6----------	AuxP
+11	zdanění	NNNS6-----A----	Atr
+12	na	RR--6----------	AuxP
+13	úrovni	NNFS6-----A----	AuxP
+14	700	C=-------------	Atr
+15	mil	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95042-089-p6s2
+1	Představenstvo	NNNS1-----A----	Sb
+2	proto	J^-------------	Coord
+3	navrhne	VB-S---3P-AA---	Pred
+4	vyplatit	Vf--------A----	Obj
+5	dividendu	NNFS4-----A----	Obj
+6	ve	RV--6----------	AuxP
+7	výši	NNFS6-----A----	Atr
+8	26	C=-------------	Atr
+9	Kč	NNFXX-----A----	Atr
+10	netto	TT-------------	Atr
+11	na	RR--4----------	AuxP
+12	jednu	ClFS4----------	Atr
+13	akcii	NNFS4-----A----	Atr
+14	,	Z:-------------	AuxX
+15	tj	J^------------8	Apos
+16	.	Z:-------------	AuxG
+17	520	C=-------------	Atr
+18	Kč	NNFXX-----A----	Atr
+19	na	RR--4----------	AuxP
+20	jednu	ClFS4----------	Atr
+21	kupónovou	AAFS4----1A----	Atr
+22	knížku	NNFS4-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95042-089-p6s3
+1	SPAS	NNIXX-----A---8	Sb
+2	,	Z:-------------	AuxX
+3	jemuž	PJZS3----------	Obj
+4	svěřilo	VpNS---XR-AA---	Atr
+5	své	P8YP4---------1	Atr
+6	body	NNIP4-----A----	Obj
+7	více	Dg-------2A----	Sb
+8	než	J,-------------	AuxC
+9	milión	NNIS1-----A----	Adv
+10	diků	NNMP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	je	VB-S---3P-AA---	Pred
+13	nejsilnějším	AAIS7----3A----	Atr
+14	fondem	NNIS7-----A----	Pnom
+15	první	CrFS2----------	Atr
+16	vlny	NNFS2-----A----	Atr
+17	kupónové	AAFS2----1A----	Atr
+18	privatizace	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95042-089-p7s1
+1	Největší	AAMS1----3A----	Atr
+2	americký	AAMS1----1A----	Atr
+3	provozovatel	NNMS1-----A----	Atr
+4	dálkových	AAFP2----1A----	Atr
+5	telefonních	AAFP2----1A----	Atr
+6	služeb	NNFP2-----A----	Atr
+7	AT	NNIXX-----A---8	Sb
+8	&	Z:-------------	Coord
+9	T	NNIXX-----A---8	Sb
+10	snížil	VpYS---XR-AA---	Pred
+11	své	P8FP4---------1	Atr
+12	telefonní	AAFP4----1A----	Atr
+13	sazby	NNFP4-----A----	Obj
+14	o	RR--4----------	AuxP
+15	25	C=-------------	Adv
+16	%	Z:-------------	Atr
+17	v	RR--6----------	AuxP
+18	úsilí	NNNS6-----A----	Adv
+19	získat	Vf--------A----	Atr
+20	zpět	Db-------------	Adv
+21	zákazníky	NNMP4-----A----	Obj
+22	odlákané	AAMP4----1A----	Atr
+23	konkurencí	NNFS7-----A----	Obj
+24	MCI	NNXXX-----A---8	Atr
+25	a	J^-------------	Coord
+26	Sprintu	NNIS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95042-089-p7s2
+1	Akcie	NNFP1-----A----	Sb
+2	AT	NNIXX-----A---8	Atr
+3	&	Z:-------------	Coord
+4	T	NNIXX-----A---8	Atr
+5	po	RR--6----------	AuxP
+6	oznámení	NNNS6-----A----	Adv
+7	prudce	Dg-------1A----	Adv
+8	oslabily	VpTP---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	obavách	NNFP6-----A----	Adv
+11	investorů	NNMP2-----A----	Atr
+12	z	RR--2----------	AuxP
+13	vlivu	NNIS2-----A----	Atr
+14	zlevnění	NNNS2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	příjmy	NNIP4-----A----	Atr
+17	.	Z:-------------	AuxK
+

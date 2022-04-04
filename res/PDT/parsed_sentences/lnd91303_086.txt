@@ -1,0 +1,117 @@
+lnd91303-086-p1s1
+1	LOPRAIS	NNMS1-----A----	ExD
+2	VE	RV--6----------	AuxP
+3	ČTVRTÉ	CrFS6----------	Atr
+4	ETAPĚ	NNFS6-----A----	ExD
+5	NA	RR--6----------	AuxP
+6	DRUHÉM	CrNS6----------	Atr
+7	MÍSTĚ	NNNS6-----A----	ExD
+
+lnd91303-086-p2s1
+1	Auriol	NNMS1-----A----	Sb
+2	vede	VB-S---3P-AA---	Pred
+3	"	Z:-------------	AuxG
+4	Dakar	NNIS4-----A----	Obj
+5	"	Z:-------------	AuxG
+
+lnd91303-086-p3s1
+1	TUMU	NNNXX-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-086-p4s1
+1	Čtvrtou	CrFS4----------	Atr
+2	etapu	NNFS4-----A----	Obj
+3	Rallye	NNFXX-----A----	Atr
+4	Paříž	NNFS1-----A----	Atr
+5	-	Z:-------------	Coord
+6	Kapské	AANS1----1A----	Atr
+7	Město	NNNS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	dlouhou	AAFS4----1A----	Atr
+10	520	C=-------------	Adv
+11	km	NNIXX-----A---8	Atr
+12	s	RR--7----------	AuxP
+13	cílem	NNIS7-----A----	Atr
+14	v	RR--6----------	AuxP
+15	městě	NNNS6-----A----	Atr
+16	Tumu	NNNXX-----A----	Atr
+17	,	Z:-------------	ExD
+18	stále	Dg-------1A----	ExD
+19	ještě	Db-------------	ExD
+20	na	RR--6----------	AuxP
+21	území	NNNS6-----A----	ExD
+22	Libye	NNFS2-----A----	Atr
+23	,	Z:-------------	ExD
+24	vyhrál	VpYS---XR-AA---	Pred
+25	Francouz	NNMS1-----A----	Atr
+26	Hubert	NNMS1-----A----	Atr
+27	Auriol	NNMS1-----A----	Sb
+28	na	RR--6----------	AuxP
+29	voze	NNIS6-----A----	Adv
+30	Micubiši	NNNXX-----A----	Atr
+31	a	J^-------------	Coord
+32	postoupil	VpYS---XR-AA---	Pred
+33	tak	Db-------------	Adv
+34	do	RR--2----------	AuxP
+35	čela	NNNS2-----A----	Adv
+36	celkové	AAFS2----1A----	Atr
+37	klasifikace	NNFS2-----A----	Atr
+38	.	Z:-------------	AuxK
+
+lnd91303-086-p4s2
+1	Mezi	RR--7----------	AuxP
+2	motocyklisty	NNMP7-----A----	Adv
+3	byl	VpYS---XR-AA---	Pred
+4	nejrychlejší	AAMS1----3A----	Pnom
+5	Francouz	NNMS1-----A----	Atr
+6	Peterhansel	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	na	RR--4----------	AuxP
+9	vedoucí	AGFS4-----A----	Atr
+10	pozici	NNFS4-----A----	Obj
+11	Itala	NNMS2-----A----	Atr
+12	Petriho	NNMS2-----A----	Atr
+13	to	PDNS1----------	Sb
+14	však	J^-------------	Coord
+15	nic	PW--4----------	Obj
+16	nezměnilo	VpNS---XR-NA---	Pred
+17	.	Z:-------------	AuxK
+
+lnd91303-086-p4s3
+1	Výborně	Dg-------1A----	Adv
+2	si	P7-X3----------	AuxT
+3	vedly	VpTP---XR-AA---	Pred
+4	naše	PSIP1-P1-------	Atr
+5	kamióny	NNIP1-----A----	Sb
+6	:	Z:-------------	Apos
+7	Loprais	NNMS1-----A----	Sb
+8	na	RR--6----------	AuxP
+9	Tatře	NNFS6-----A----	Atr
+10	dojel	VpYS---XR-AA---	Pred
+11	na	RR--6----------	AuxP
+12	druhém	CrNS6----------	Atr
+13	místě	NNNS6-----A----	Adv
+14	(	Z:-------------	AuxG
+15	celkově	Dg-------1A----	Adv
+16	třetí	CrMS1----------	ExD
+17	)	Z:-------------	AuxG
+18	,	Z:-------------	Coord
+19	Buchtyár	NNMS1-----A----	Sb
+20	skončil	VpYS---XR-AA---	Pred
+21	pátý	CrMS1----------	Adv
+22	.	Z:-------------	AuxK
+
+lnd91303-086-p4s4
+1	Loprais	NNMS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	celkovou	AAFS4----1A----	Atr
+4	ztrátu	NNFS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	Peliniho	NNMS4-----A----	Atr
+7	56	C=-------------	Atr
+8	minut	NNFP2-----A----	Atr
+9	a	J^-------------	Coord
+10	16	C=-------------	Atr
+11	sekund	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+

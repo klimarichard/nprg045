@@ -1,0 +1,772 @@
+cmpr9406-028-p2s1
+1	Rekondice	NNFS1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	manažery	NNMP4-----A----	Atr
+
+cmpr9406-028-p3s1
+1	Netradiční	AAFS1----1N----	Atr
+2	součást	NNFS1-----A----	ExD
+3	výuky	NNFS2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	Ekonomické	AAFS6----1A----	Atr
+6	fakultě	NNFS6-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Chebu	NNIS6-----A----	Atr
+
+cmpr9406-028-p4s1
+1	Řídící	AGMP1-----A----	Atr
+2	pracovníci	NNMP1-----A----	Sb
+3	a	J^-------------	Coord
+4	podnikatelé	NNMP1-----A----	Sb
+5	pracují	VB-P---3P-AA---	Pred
+6	pod	RR--7----------	AuxP
+7	velikým	AAIS7----1A----	Atr
+8	psychickým	AAIS7----1A----	Atr
+9	tlakem	NNIS7-----A----	Adv
+10	a	J^-------------	Coord
+11	často	Dg-------1A----	ExD
+12	s	RR--7----------	AuxP
+13	časovým	AANS7----1A----	Atr
+14	nasazením	NNNS7-----A----	ExD
+15	,	Z:-------------	AuxX
+16	které	P4NS1----------	Sb
+17	sahá	VB-S---3P-AA---	Atr
+18	k	RR--3----------	AuxP
+19	hranici	NNFS3-----A----	Adv
+20	lidských	AAFP2----1A----	Atr
+21	možností	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9406-028-p4s2
+1	Je	VB-S---3P-AA---	Pred
+2	nanejvýš	Db-------------	Adv
+3	nutné	AANS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	si	P7-X3----------	AuxT
+7	uvědomili	VpMP---XR-AA---	Sb
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	s	RR--7----------	AuxP
+11	podobným	AANS7----1A----	Atr
+12	nasazením	NNNS7-----A----	Adv
+13	bez	RR--2----------	AuxP
+14	lepší	AAFS2----2A----	Atr
+15	organizace	NNFS2-----A----	Atr
+16	práce	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	odpočinku	NNIS2-----A----	Atr
+19	a	J^-------------	Coord
+20	péče	NNFS2-----A----	Atr
+21	o	RR--4----------	AuxP
+22	zdraví	NNNS4-----A----	Atr
+23	nikdo	PWM-1----------	Sb
+24	nevydrží	VB-S---3P-NA---	Obj
+25	věčně	Dg-------1A----	Adv
+26	.	Z:-------------	AuxK
+
+cmpr9406-028-p4s3
+1	Spolu	Db-------------	AuxP
+2	s	RR--7----------	AuxP
+3	psychickým	AANS7----1A----	Atr
+4	zhroucením	NNNS7-----A----	Adv
+5	a	J^-------------	Coord
+6	dalšími	AAFP7----1A----	Atr
+7	zdravotními	AAFP7----1A----	Atr
+8	potížemi	NNFP7-----A----	Adv
+9	může	VB-S---3P-AA---	Pred
+10	přijít	Vf--------A----	Obj
+11	i	J^-------------	AuxZ
+12	rozpad	NNIS1-----A----	Sb
+13	rodiny	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	stejně	Dg-------1A----	Adv
+16	jako	J,-------------	AuxC
+17	vlastní	AAFS2----1A----	Atr
+18	firmy	NNFS2-----A----	ExD
+19	.	Z:-------------	AuxK
+
+cmpr9406-028-p5s1
+1	Jaké	P4FP1----------	Atr
+2	nemoci	NNFP1-----A----	Sb
+3	nejvíce	Dg-------3A----	Adv
+4	postihují	VB-P---3P-AA---	Obj
+5	manažery	NNMP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	ukazuje	VB-S---3P-AA---	Pred
+8	výzkum	NNIS1-----A----	Sb
+9	Institutu	NNIS2-----A----	Atr
+10	pro	RR--4----------	AuxP
+11	pracovní	AAFS4----1A----	Atr
+12	a	J^-------------	Coord
+13	sociální	AAFS4----1A----	Atr
+14	hygienu	NNFS4-----A----	Atr
+15	v	RR--6----------	AuxP
+16	Karlsruhe	NNNXX-----A----	AtrAtr
+17	.	Z:-------------	AuxK
+
+cmpr9406-028-p5s2
+1	Lékařskými	AAFP7----1A----	Atr
+2	prohlídkami	NNFP7-----A----	Adv
+3	prošlo	VpNS---XR-AA---	Pred
+4	3500	C=-------------	Sb
+5	řídících	AGMP2-----A----	Atr
+6	pracovníků	NNMP2-----A----	Atr
+7	německého	AANS2----1A----	Atr
+8	hospodářství	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9406-028-p5s3
+1	Vegetativními	AAFP7----1A----	Atr
+2	potížemi	NNFP7-----A----	Obj
+3	,	Z:-------------	AuxX
+4	především	Db-------------	AuxZ
+5	srdce	NNNS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	trávícího	AGNS2-----A----	Atr
+8	ústrojí	NNNS2-----A----	Atr
+9	a	J^-------------	Coord
+10	krevního	AAIS2----1A----	Atr
+11	oběhu	NNIS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	trpí	VB-P---3P-AA---	Pred
+14	85	C=-------------	Sb
+15	%	Z:-------------	Atr
+16	,	Z:-------------	AuxX
+17	poruchami	NNFP7-----A----	ExD
+18	tukové	AAFS2----1A----	Atr
+19	a	J^-------------	Coord
+20	látkové	AAFS2----1A----	Atr
+21	výměny	NNFS2-----A----	Atr
+22	75	C=-------------	ExD
+23	%	Z:-------------	Atr
+24	,	Z:-------------	AuxX
+25	nemocemi	NNFP7-----A----	ExD
+26	páteře	NNFS2-----A----	Atr
+27	a	J^-------------	Coord
+28	pohybového	AANS2----1A----	Atr
+29	ústrojí	NNNS2-----A----	Atr
+30	73	C=-------------	ExD
+31	%	Z:-------------	Atr
+32	a	J^-------------	Coord
+33	nadváhou	NNFS7-----A----	ExD
+34	38	C=-------------	ExD
+35	%	Z:-------------	Atr
+36	manažerů	NNMP2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+cmpr9406-028-p5s4
+1	U	RR--2----------	AuxP
+2	25	C=-------------	Atr
+3	%	Z:-------------	Adv
+4	byly	VpTP---XR-AA---	AuxV
+5	zjištěny	VsTP---XX-AP---	Pred
+6	škody	NNFP1-----A----	Sb
+7	způsobené	AAFP1----1A----	Atr
+8	kouřením	NNNS7-----A----	Adv
+9	a	J^-------------	Coord
+10	15	C=-------------	Sb
+11	%	Z:-------------	Atr
+12	mělo	VpNS---XR-AA---	Pred
+13	vysoký	AAIS4----1A----	Atr
+14	krevní	AAIS4----1A----	Atr
+15	tlak	NNIS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9406-028-p5s5
+1	Na	RR--4----------	AuxP
+2	selhání	NNNS4-----A----	Adv
+3	srdce	NNNS2-----A----	Atr
+4	umírá	VB-S---3P-AA---	Pred
+5	celá	AAFS1----1A----	Atr
+6	polovina	NNFS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+cmpr9406-028-p6s1
+1	Většina	NNFS1-----A----	Sb
+2	těchto	PDXP2----------	Atr
+3	nemocí	NNFP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	psychicky	Dg-------1A----	Adv
+6	podmíněna	VsQW---XX-AP---	Pnom
+7	.	Z:-------------	AuxK
+
+cmpr9406-028-p6s2
+1	V	RR--6----------	AuxP
+2	této	PDFS6----------	Atr
+3	souvislosti	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	mluví	VB-S---3P-AA---	Pred
+6	o	RR--6----------	AuxP
+7	problémech	NNIP6-----A----	Obj
+8	,	Z:-------------	AuxX
+9	jako	J,-------------	AuxC
+10	je	VB-S---3P-AA---	Atr
+11	permanentní	AANS1----1A----	Atr
+12	osamění	NNNS1-----A----	Sb
+13	řídícího	AGMS2-----A----	Atr
+14	pracovníka	NNMS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	vražedný	AAIS1----1A----	Atr
+17	tlak	NNIS1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	pod	RR--7----------	AuxP
+20	kterým	P4ZS7----------	Adv
+21	pracuje	VB-S---3P-AA---	Atr
+22	střední	AAIS1----1A----	Atr
+23	management	NNIS1-----A----	Sb
+24	,	Z:-------------	AuxX
+25	či	J^-------------	Coord
+26	manažerský	AAIS1----1A----	Atr
+27	syndrom	NNIS1-----A----	Sb
+28	postihující	AGIS1-----A----	Atr
+29	vedoucí	AGMP4-----A----	Atr
+30	pracovníky	NNMP4-----A----	Obj
+31	,	Z:-------------	AuxX
+32	podnikatele	NNMP4-----A----	Obj
+33	,	Z:-------------	AuxX
+34	ale	J^-------------	Coord
+35	také	Db-------------	AuxZ
+36	učitele	NNMP4-----A----	Obj
+37	,	Z:-------------	AuxX
+38	lékaře	NNMP4-----A----	Obj
+39	a	J^-------------	Coord
+40	jiné	AAFP4----1A----	Atr
+41	profese	NNFP4-----A----	Obj
+42	.	Z:-------------	AuxK
+
+cmpr9406-028-p6s3
+1	Tito	PDMP1----------	Atr
+2	lidé	NNMP1-----A---1	Sb
+3	si	P7-X3----------	AuxT
+4	často	Dg-------1A----	Adv
+5	v	RR--6----------	AuxP
+6	tomto	PDZS6----------	Atr
+7	okamžiku	NNIS6-----A----	Adv
+8	nepřipouštějí	VB-P---3P-NA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	jejich	PSXXXXP3-------	Atr
+12	fyzické	AAFP1----1A----	Atr
+13	obtíže	NNFP1-----A----	Sb
+14	jsou	VB-P---3P-AA---	Obj
+15	duševního	AAIS2----1A----	Atr
+16	charakteru	NNIS2-----A----	Pnom
+17	a	J^-------------	Coord
+18	nepřipouštějí	VB-P---3P-NA---	Pred
+19	adekvátní	AAFS4----1A----	Atr
+20	terapii	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9406-028-p6s4
+1	Nejhorším	AAIS7----3A----	Atr
+2	únikem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	pak	Db-------------	Adv
+5	alkohol	NNIS1-----A----	Sb
+6	nebo	J^-------------	Coord
+7	prášky	NNIP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+cmpr9406-028-p7s1
+1	Péče	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	vyplatí	VB-S---3P-AA---	Pred
+
+cmpr9406-028-p8s1
+1	V	RR--6----------	AuxP
+2	prevenci	NNFS6-----A----	Adv
+3	musí	VB-P---3P-AA--1	Pred
+4	podnikatelé	NNMP1-----A----	Sb
+5	a	J^-------------	Coord
+6	manažeři	NNMP1-----A----	Sb
+7	především	Db-------------	AuxZ
+8	upravit	Vf--------A----	Obj
+9	svůj	P8IS4----------	Atr
+10	životní	AAIS4----1A----	Atr
+11	styl	NNIS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	lépe	Dg-------2A----	Adv
+14	organizovat	Vf--------A----	Obj
+15	práci	NNFS4-----A----	Obj
+16	a	J^-------------	Coord
+17	odpočinek	NNIS4-----A----	Obj
+18	a	J^-------------	Coord
+19	nechat	Vf--------A----	Obj
+20	dostatečný	AAIS4----1A----	Atr
+21	prostor	NNIS4-----A----	Obj
+22	pro	RR--4----------	AuxP
+23	záliby	NNFP4-----A----	Atr
+24	apod	Db------------8	Obj
+25	.	Z:-------------	AuxG
+
+cmpr9406-028-p8s2
+1	Pozornost	NNFS4-----A----	Obj
+2	musí	VB-P---3P-AA--1	Pred
+3	věnovat	Vf--------A----	Obj
+4	svému	P8ZS3----------	Atr
+5	životnímu	AANS3----1A----	Atr
+6	prostředí	NNNS3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	vyvážit	Vf--------A----	Obj
+9	stravu	NNFS4-----A----	Obj
+10	,	Z:-------------	Coord
+11	přijímat	Vf--------A----	Obj
+12	dostatek	NNIS4-----A----	Obj
+13	vitamínů	NNIP2-----A----	Atr
+14	a	J^-------------	Coord
+15	minerálů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9406-028-p8s3
+1	Zvláštní	AAFS4----1A----	Atr
+2	pozornost	NNFS4-----A----	Obj
+3	je	VB-S---3P-AA---	Pred
+4	třeba	Db-------------	Pnom
+5	věnovat	Vf--------A----	Sb
+6	pohybu	NNIS3-----A----	Obj
+7	a	J^-------------	Coord
+8	protistresovým	AAFP3----1A----	Atr
+9	technikám	NNFP3-----A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9406-028-p9s1
+1	Péče	NNFS1-----A----	Sb
+2	o	RR--4----------	AuxP
+3	řídící	AGMP4-----A----	Atr
+4	pracovníky	NNMP4-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	sice	Db-------------	AuxY
+7	nákladná	AAFS1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	,	Z:-------------	AuxX
+11	jak	Db-------------	Adv
+12	ukazují	VB-P---3P-AA---	Pred
+13	výsledky	NNIP1-----A----	Sb
+14	z	RR--2----------	AuxP
+15	USA	NNIPX-----A----	Atr
+16	i	J^-------------	Coord
+17	Německa	NNNS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	nezbytná	AAFS1----1N----	Pnom
+20	a	J^-------------	Coord
+21	hlavně	Dg-------1A----	AuxZ
+22	se	P7-X4----------	AuxT
+23	vyplatí	VB-S---3P-AA---	Pred
+24	.	Z:-------------	AuxK
+
+cmpr9406-028-p10s1
+1	Výzkumy	NNIP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	USA	NNIPX-----A----	AtrAdv
+4	dokázaly	VpTP---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	firmě	NNFS3-----A----	Obj
+8	se	P7-X4----------	AuxT
+9	vyplatí	VB-S---3P-AA---	Obj
+10	pečovat	Vf--------A----	Sb
+11	o	RR--4----------	AuxP
+12	zdraví	NNNS4-----A----	Obj
+13	svých	P8XP2----------	Atr
+14	zaměstnanců	NNMP2-----A----	Atr
+15	preventivními	AAFP7----1A----	Atr
+16	prohlídkami	NNFP7-----A----	Adv
+17	,	Z:-------------	AuxX
+18	relaxačními	AAIP7----1A----	Atr
+19	pobyty	NNIP7-----A----	Adv
+20	i	J^-------------	Coord
+21	organizováním	NNNS7-----A----	Adv
+22	fitness	AAXXX----1A----	Atr
+23	programů	NNIP2-----A----	Atr
+24	pro	RR--4----------	AuxP
+25	zaměstnance	NNMS4-----A----	Atr
+26	i	J^-------------	Coord
+27	jeho	PSXXXZS3-------	Atr
+28	rodinu	NNFS4-----A----	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9406-028-p10s2
+1	Dobrý	AAMS1----1A----	Atr
+2	manažer	NNMS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	zdravý	AAMS1----1A----	Atr
+5	manažer	NNMS1-----A----	Pnom
+6	.	Z:-------------	AuxK
+
+cmpr9406-028-p10s3
+1	Díky	RR--3----------	AuxP
+2	americkému	AAIS3----1A----	Atr
+3	systému	NNIS3-----A----	Adv
+4	pojištění	NNNS2-----A----	Atr
+5	ušetří	VB-P---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	USA	NNIPX-----A----	Adv
+8	firmy	NNFP1-----A----	Sb
+9	snížením	NNNS7-----A----	Adv
+10	pracovní	AAFS2----1A----	Atr
+11	neschopnosti	NNFS2-----A----	Atr
+12	na	RR--6----------	AuxP
+13	nemocenském	NNNS6-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9406-028-p10s4
+1	A	J^-------------	Coord
+2	hlavně	Dg-------1A----	AuxZ
+3	je	VB-S---3P-AA---	Pred
+4	dokázáno	VsNS---XX-AP---	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	aktivní	AAMS1----1A----	Atr
+8	fit	AAXXX----1A----	Atr
+9	-	Z:-------------	AuxG
+10	manažer	NNMS1-----A----	Sb
+11	je	VB-S---3P-AA---	Sb
+12	i	J^-------------	AuxZ
+13	produktivnější	AAMS1----2A----	Pnom
+14	.	Z:-------------	AuxK
+
+cmpr9406-028-p11s1
+1	Udělat	Vf--------A----	Pred
+2	si	P7-X3----------	Adv
+3	čas	NNIS4-----A----	Obj
+
+cmpr9406-028-p12s1
+1	Výsledky	NNIP1-----A----	Sb
+2	výzkumů	NNIP2-----A----	Atr
+3	a	J^-------------	Coord
+4	uvedená	AANP1----1A----	Atr
+5	fakta	NNNP1-----A----	Sb
+6	nás	PP-P4--1-------	Obj
+7	přivedly	VpTP---XR-AA---	Pred
+8	k	RR--3----------	AuxP
+9	názoru	NNIS3-----A----	Adv
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	je	VB-S---3P-AA---	Atr
+13	nutné	AANS1----1A----	Pnom
+14	již	Db-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	přípravě	NNFS6-----A----	Adv
+17	budoucích	AAMP2----1A----	Atr
+18	manažerů	NNMP2-----A----	Atr
+19	na	RR--6----------	AuxP
+20	vysoké	AAFS6----1A----	Atr
+21	škole	NNFS6-----A----	Atr
+22	věnovat	Vf--------A----	Sb
+23	pozornost	NNFS4-----A----	Obj
+24	organizaci	NNFS3-----A----	Obj
+25	jejich	PSXXXXP3-------	Atr
+26	práce	NNFS2-----A----	Atr
+27	,	Z:-------------	AuxX
+28	seznámit	Vf--------A----	Sb
+29	je	PPXP4--3-------	Obj
+30	s	RR--7----------	AuxP
+31	poznatky	NNIP7-----A----	Obj
+32	o	RR--6----------	AuxP
+33	životním	AAIS6----1A----	Atr
+34	stylu	NNIS6-----A----	Atr
+35	,	Z:-------------	AuxX
+36	zdravé	AAFS6----1A----	Atr
+37	výživě	NNFS6-----A----	Atr
+38	,	Z:-------------	Coord
+39	pohybovém	AAIS6----1A----	Atr
+40	režimu	NNIS6-----A----	Atr
+41	,	Z:-------------	AuxX
+42	zdraví	NNNS6-----A----	Atr
+43	,	Z:-------------	AuxX
+44	a	J^-------------	Coord
+45	naučit	Vf--------A----	Sb
+46	je	PPXP4--3-------	Obj
+47	sestavit	Vf--------A----	Obj
+48	si	P7-X3----------	Adv
+49	kondiční	AAIS4----1A----	Atr
+50	plán	NNIS4-----A----	Obj
+51	a	J^-------------	Coord
+52	zvládnout	Vf--------A----	Obj
+53	základní	AAFP4----1A----	Atr
+54	protistresové	AAFP4----1A----	Atr
+55	techniky	NNFP4-----A----	Obj
+56	.	Z:-------------	AuxK
+
+cmpr9406-028-p12s2
+1	Proto	J^-------------	Coord
+2	je	VB-S---3P-AA---	Pred
+3	do	RR--2----------	AuxP
+4	bakalářského	AANS2----1A----	Atr
+5	studia	NNNS2-----A----	Adv
+6	na	RR--6----------	AuxP
+7	Ekonomické	AAFS6----1A----	Atr
+8	fakultě	NNFS6-----A----	Atr
+9	v	RR--6----------	AuxP
+10	Chebu	NNIS6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	v	RR--6----------	AuxP
+13	oboru	NNIS6-----A----	Atr
+14	ekonomika	NNFS1-----A----	Atr
+15	terciární	AAFS2----1A----	Atr
+16	sféry	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	zařazen	VsYS---XX-AP---	Pnom
+19	doporučený	AAIS1----1A----	Atr
+20	výběrový	AAIS1----1A----	Atr
+21	předmět	NNIS1-----A----	Sb
+22	rekondice	NNFS1-----A----	Atr
+23	pro	RR--4----------	AuxP
+24	manažery	NNMP4-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9406-028-p13s1
+1	Jsou	VB-P---3P-AA---	Pred
+2	rozděleny	VsTP---XX-AP---	Pnom
+3	do	RR--2----------	AuxP
+4	tří	ClXP2----------	Atr
+5	navazujících	AGFP2-----A----	Atr
+6	částí	NNFP2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9406-028-p13s2
+1	V	RR--6----------	AuxP
+2	první	CrFS6----------	ExD
+3	převládají	VB-P---3P-AA---	Pred
+4	diagnostika	NNFS1-----A----	Sb
+5	a	J^-------------	Coord
+6	průpravná	AANP1----1A----	Atr
+7	cvičení	NNNP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+cmpr9406-028-p13s3
+1	V	RR--6----------	AuxP
+2	druhé	CrFS6----------	ExD
+3	studenti	NNMP1-----A----	Sb
+4	zvládnou	VB-P---3P-AA---	Pred
+5	základní	AAIS4----1A----	Atr
+6	stupeň	NNIS4-----A----	Obj
+7	autogenního	AAIS2----1A----	Atr
+8	tréninku	NNIS2-----A----	Atr
+9	,	Z:-------------	Coord
+10	dechová	AANP4----1A----	Atr
+11	cvičení	NNNP4-----A----	Obj
+12	,	Z:-------------	Coord
+13	seznámí	VB-P---3P-AA---	Pred
+14	se	P7-X4----------	Obj
+15	s	RR--7----------	AuxP
+16	jógou	NNFS7-----A----	Obj
+17	a	J^-------------	Coord
+18	celou	AAFS7----1A----	Atr
+19	řadou	NNFS7-----A----	Obj
+20	drobných	AAFP2----1A----	Atr
+21	technik	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9406-028-p13s4
+1	Třetí	CrFS1----------	Atr
+2	část	NNFS1-----A----	Sb
+3	prohlubuje	VB-S---3P-AA---	Pred
+4	a	J^-------------	Coord
+5	upevňuje	VB-S---3P-AA---	Pred
+6	naučené	AANS4----1A----	Obj
+7	.	Z:-------------	AuxK
+
+cmpr9406-028-p13s5
+1	Mimo	RR--4----------	AuxP
+2	jiné	AANS4----1A----	Adv
+3	se	P7-X4----------	Obj
+4	studenti	NNMP1-----A----	Sb
+5	seznámí	VB-P---3P-AA---	Pred
+6	se	RV--7----------	AuxP
+7	Silvovou	AUFS7M---------	Atr
+8	metodou	NNFS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	čínským	AANS7----1A----	Atr
+11	cvičením	NNNS7-----A----	Obj
+12	čchi	AAXXX----1A----	Atr
+13	-	Z:-------------	AuxG
+14	kung	NNIS1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	akupresurou	NNFS7-----A----	Obj
+17	,	Z:-------------	AuxX
+18	automasáží	NNFS7-----A----	Obj
+19	a	J^-------------	Coord
+20	dalšími	AAFP7----1A----	Atr
+21	drobnými	AAFP7----1A----	Atr
+22	technikami	NNFP7-----A----	Obj
+23	použitelnými	AAFP7----1A----	Atr
+24	při	RR--6----------	AuxP
+25	upevnění	NNNS6-----A----	Adv
+26	zdraví	NNNS2-----A----	Atr
+27	a	J^-------------	Coord
+28	v	RR--6----------	AuxP
+29	boji	NNIS6-----A----	Adv
+30	proti	RR--3----------	AuxP
+31	stresu	NNIS3-----A----	Atr
+32	.	Z:-------------	AuxK
+
+cmpr9406-028-p13s6
+1	Testováno	VsNS---XX-AP---	Pred
+2	je	VB-S---3P-AA---	AuxV
+3	též	Db-------------	AuxZ
+4	srdce	NNNS1-----A----	Sb
+5	a	J^-------------	Coord
+6	oběhový	AAIS1----1A----	Atr
+7	systém	NNIS1-----A----	Sb
+8	a	J^-------------	Coord
+9	studenti	NNMP1-----A----	Sb
+10	jsou	VB-P---3P-AA---	Pred
+11	seznámeni	VsMP---XX-AP---	Pnom
+12	se	RV--7----------	AuxP
+13	základními	AAFP7----1A----	Atr
+14	zásadami	NNFP7-----A----	Obj
+15	jejich	PSXXXXP3-------	Atr
+16	tréninku	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9406-028-p13s7
+1	V	RR--6----------	AuxP
+2	celém	AAIS6----1A----	Atr
+3	kurzu	NNIS6-----A---1	Adv
+4	je	VB-S---3P-AA---	AuxV
+5	využívána	VsQW---XX-AP---	Pred
+6	relaxační	AAFS1----1A----	Atr
+7	hudba	NNFS1-----A----	Sb
+8	a	J^-------------	Coord
+9	v	RR--6----------	AuxP
+10	závěru	NNIS6-----A----	Adv
+11	dojde	VB-S---3P-AA---	Pred
+12	i	J^-------------	AuxZ
+13	na	RR--4----------	AuxP
+14	meditační	AAFS4----1A----	Atr
+15	techniku	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9406-028-p14s1
+1	Podnikatelé	NNMP1-----A----	Sb
+2	a	J^-------------	Coord
+3	manažeři	NNMP1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	musí	VB-P---3P-AA--1	Pred
+6	zamyslet	Vf--------A----	Sb
+7	nad	RR--7----------	AuxP
+8	svým	P8ZS7----------	Atr
+9	pracovním	AANS7----1A----	Atr
+10	zatížením	NNNS7-----A----	Obj
+11	a	J^-------------	Coord
+12	svým	P8ZS7----------	Atr
+13	zdravím	NNNS7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9406-028-p14s2
+1	Pokud	J,-------------	AuxC
+2	chtějí	VB-P---3P-AA---	Adv
+3	začít	Vf--------A----	Obj
+4	sami	PLMP1----------	AtvV
+5	,	Z:-------------	AuxX
+6	lze	VB-S---3P-AA---	Pred
+7	doporučit	Vf--------A----	Sb
+8	publikaci	NNFS4-----A----	Obj
+9	Sám	PLYS1----------	ExD
+10	sobě	P6-X3----------	ExD
+11	psychologem	NNMS7-----A----	ExD
+12	.	Z:-------------	AuxK
+
+cmpr9406-028-p14s3
+1	Ještě	Db-------------	AuxZ
+2	lepší	AANS1----2A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	však	J^-------------	Coord
+5	navštívit	Vf--------A----	Sb
+6	odborně	Dg-------1A----	Adv
+7	vedený	AAIS4----1A----	Atr
+8	relaxační	AAIS4----1A----	Atr
+9	kurz	NNIS4-----A----	Obj
+10	a	J^-------------	Coord
+11	na	RR--6----------	AuxP
+12	základě	NNIS6-----A----	AuxP
+13	získaných	AAIP2----1A----	Atr
+14	poznatků	NNIP2-----A----	Adv
+15	využívat	Vf--------A----	Sb
+16	naučené	AAFP4----1A----	Atr
+17	techniky	NNFP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+cmpr9406-028-p14s4
+1	Žádoucí	AANS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	zorganizovat	Vf--------A----	Sb
+4	si	P7-X3----------	Adv
+5	týdenní	AAIS4----1A----	Atr
+6	plán	NNIS4-----A----	Obj
+7	tak	Db-------------	Adv
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	do	RR--2----------	AuxP
+12	něj	P5ZS2--3-------	Adv
+13	vešel	VpYS---XR-AA---	Adv
+14	i	J^-------------	AuxZ
+15	kondiční	AAIS1----1A----	Atr
+16	program	NNIS1-----A----	Sb
+17	s	RR--7----------	AuxP
+18	aktivní	AAFS7----1A----	Atr
+19	formou	NNFS7-----A----	Atr
+20	a	J^-------------	Coord
+21	relaxačními	AAFP7----1A----	Atr
+22	technikami	NNFP7-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9406-028-p15s1
+1	Ludvík	NNMS1-----A----	Atr
+2	Eger	NNMS1-----A----	ExD
+
+cmpr9406-028-p17s1
+1	|	Z:-------------	AuxG
+2	Kontakt	NNIS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Ekonomická	AAFS1----1A----	Atr
+5	fakulta	NNFS1-----A----	ExD
+6	v	RR--6----------	AuxP
+7	Chebu	NNIS6-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Hradební	AAFS1----1A----	Atr
+10	22	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	350	C=-------------	Atr
+13	01	C=-------------	Atr
+14	Cheb	NNIS1-----A----	Atr
+15	.	Z:-------------	AuxK
+16	|	Z:-------------	AuxG
+
+cmpr9406-028-p19s1
+1	Text	NNIS1-----A----	ExD
+2	k	RR--3----------	AuxP
+3	foto	NNNXX-----A----	Atr
+4	:	Z:-------------	AuxK
+
+cmpr9406-028-p20s1A
+1	PODNIKATELSKÝ	AAIS1----1A----	Atr
+2	KOLOTOČ	NNIS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+cmpr9406-028-p20s1B
+1	Obrovské	AANS1----1A----	Atr
+2	psychické	AANS1----1A----	Atr
+3	zatížení	NNNS1-----A----	Sb
+4	a	J^-------------	Coord
+5	stres	NNIS1-----A----	Sb
+6	mohou	VB-P---3P-AA--1	Pred
+7	manažera	NNMS4-----A----	Obj
+8	přivést	Vf--------A----	Obj
+9	mimo	RR--4----------	AuxP
+10	hru	NNFS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9406-028-p20s2
+1	Prevencí	NNFS7-----A----	Adv
+2	se	P7-X4----------	AuxT
+3	lze	VB-S---3P-AA---	Pred
+4	takovým	PDXP3----------	Atr
+5	následkům	NNIP3-----A----	Obj
+6	bránit	Vf--------A----	Sb
+7	.	Z:-------------	AuxK
+

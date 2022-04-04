@@ -1,0 +1,141 @@
+ln94209-34-p1s1
+1	Hádky	NNFP1-----A----	ExD
+2	motivem	NNIS7-----A----	ExD
+3	vraždy	NNFS2-----A----	Atr
+
+ln94209-34-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	luč	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94209-34-p2s1B
+1	Kuchyňským	AAIS7----1A----	Atr
+2	nožem	NNIS7-----A----	Obj
+3	ubodal	VpYS---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	noci	NNFS6-----A----	Adv
+6	z	RR--2----------	AuxP
+7	neděle	NNFS2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	pondělí	NNNS4-----A----	Atr
+10	třiačtyřicetiletý	AAMS1----1A----	Atr
+11	J	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	S	NNMXX-----A---8	Sb
+14	.	Z:-------------	AuxG
+15	v	RR--6----------	AuxP
+16	kuchyni	NNFS6-----A----	Adv
+17	bytu	NNIS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	Pekařské	AAFS6----1A----	Atr
+20	ulici	NNFS6-----A----	Atr
+21	svou	P8FS4---------1	Atr
+22	o	RR--4----------	AuxP
+23	jedenáct	Cn-S4----------	Adv
+24	let	NNNP2-----A----	Atr
+25	mladší	AAFS4----2A----	Atr
+26	manželku	NNFS4-----A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94209-34-p2s2
+1	LN	NNFPX-----A---8	Obj
+2	to	PDNS4----------	Obj
+3	sdělil	VpYS---XR-AA---	Pred
+4	vyšetřovatel	NNMS1-----A----	Sb
+5	Krajského	AAIS2----1A----	Atr
+6	úřadu	NNIS2-----A----	Atr
+7	vyšetřování	NNNS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94209-34-p2s3
+1	Motivem	NNIS7-----A----	Pnom
+2	činu	NNIS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	který	P4IS4----------	Obj
+5	pachatel	NNMS1-----A----	Sb
+6	sám	PLYS1----------	Atv
+7	ohlásil	VpYS---XR-AA---	Atr
+8	,	Z:-------------	AuxX
+9	byly	VpTP---XR-AA---	Pred
+10	déletrvající	AAFP1----1A----	Atr
+11	manželské	AAFP1----1A----	Atr
+12	neshody	NNFP1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94209-34-p3s1
+1	Policejní	AAFS1----1A----	Atr
+2	hlídka	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	která	P4FS1----------	Sb
+5	se	P7-X4----------	AuxT
+6	na	RR--4----------	AuxP
+7	místo	NNNS4-----A----	Adv
+8	činu	NNIS2-----A----	Atr
+9	vzápětí	Db-------------	Adv
+10	po	RR--6----------	AuxP
+11	ohlášení	NNNS6-----A----	Adv
+12	dostavila	VpQW---XR-AA---	Atr
+13	,	Z:-------------	AuxX
+14	našla	VpQW---XR-AA---	Pred
+15	J	NNMXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	S	NNMXX-----A---8	Obj
+18	.	Z:-------------	AuxG
+19	,	Z:-------------	AuxX
+20	krvácejícího	AGMS4-----A----	Atr
+21	z	RR--2----------	AuxP
+22	předloktí	NNNS2-----A----	Adv
+23	levé	AAFS2----1A----	Atr
+24	ruky	NNFS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	na	RR--6----------	AuxP
+27	schodech	NNIP6-----A----	Adv
+28	domu	NNIS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94209-34-p3s2
+1	Muž	NNMS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	si	P7-X3----------	Obj
+5	hlubokou	AAFS4----1A----	Atr
+6	bodnou	AAFS4----1A----	Atr
+7	ránu	NNFS4-----A----	Obj
+8	vražedným	AAIS7----1A----	Atr
+9	nástrojem	NNIS7-----A----	Obj
+10	způsobil	VpYS---XR-AA---	Atr
+11	sám	PLYS1----------	Atv
+12	,	Z:-------------	AuxX
+13	byl	VpYS---XR-AA---	AuxV
+14	hospitalizován	VsYS---XX-AP---	Pred
+15	v	RR--6----------	AuxP
+16	nemocnici	NNFS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94209-34-p3s3
+1	Obvinění	NNNS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	trestného	AAIS2----1A----	Atr
+4	činu	NNIS2-----A----	Atr
+5	vraždy	NNFS2-----A----	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	vzneseno	VsNS---XX-AP---	Pred
+8	poté	Db-------------	Adv
+9	,	Z:-------------	AuxX
+10	co	J,-------------	AuxC
+11	bude	VB-S---3F-AA---	Adv
+12	J	NNMXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	S	NNMXX-----A---8	Sb
+15	.	Z:-------------	AuxG
+16	schopen	ACYS------A----	Pnom
+17	transportu	NNIS2-----A----	Obj
+18	do	RR--2----------	AuxP
+19	vězeňské	AAFS2----1A----	Atr
+20	nemocnice	NNFS2-----A----	Atr
+21	a	J^-------------	Coord
+22	výslechu	NNIS2-----A----	Obj
+23	.	Z:-------------	AuxK
+

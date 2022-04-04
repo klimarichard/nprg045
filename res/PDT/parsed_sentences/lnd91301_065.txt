@@ -1,0 +1,546 @@
+lnd91301-065-p1s1A
+1	V	RR--6----------	AuxP
+2	BĚLEHRADU	NNIS6-----A---1	Adv
+3	SE	P7-X4----------	AuxR
+4	PŘIPRAVUJE	VB-S---3P-AA---	Pred
+5	VELKOSRBSKO	NNNS1-----A----	Sb
+6	o	Z:-------------	AuxK
+
+lnd91301-065-p1s1B
+1	VANCE	NNMS1-----A----	Sb
+2	SE	P7-X4----------	AuxT
+3	VRACÍ	VB-S---3P-AA---	Pred
+4	POZÍTŘÍ	Db-------------	Adv
+
+lnd91301-065-p2s1
+1	Noc	NNFS1-----A----	ExD
+2	strávená	AAFS1----1A----	Atr
+3	ve	RV--6----------	AuxP
+4	sklepeních	NNNP6-----A----	Adv
+
+lnd91301-065-p3s1A
+1	ZÁHŘEB	NNIS1-----A----	ExD
+2	/	Z:-------------	AuxG
+3	BĚLEHRAD	NNIS1-----A----	ExD
+4	/	Z:-------------	Coord
+5	NEW	AAXXX----1A----	Atr
+6	YORK	NNMS1-----A----	ExD
+7	-	Z:-------------	AuxK
+
+lnd91301-065-p3s1B
+1	Podle	RR--2----------	AuxP
+2	záhřebského	AAIS2----1A----	Atr
+3	rozhlasu	NNIS2-----A----	Adv
+4	dopadlo	VpNS---XR-AA--1	Pred
+5	na	RR--4----------	AuxP
+6	chorvatský	AAIS4----1A----	Atr
+7	Karlovac	NNIS4-----A----	Adv
+8	v	RR--6----------	AuxP
+9	noci	NNFS6-----A----	Adv
+10	na	RR--4----------	AuxP
+11	pátek	NNIS4-----A----	Atr
+12	okolo	RR--2----------	AuxP
+13	500	C=-------------	Sb
+14	dělostřeleckých	AAIP2----1A----	Atr
+15	granátů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91301-065-p3s2
+1	Obyvatelstvo	NNNS1-----A----	Sb
+2	bylo	VpNS---XR-AA---	Pred
+3	nuceno	VsNS---XX-AP---	Pnom
+4	vyhledat	Vf--------A----	Obj
+5	úkryty	NNIP4-----A----	Obj
+6	ve	RV--6----------	AuxP
+7	sklepeních	NNNP6-----A----	Adv
+8	svých	P8XP2----------	Atr
+9	domů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd91301-065-p3s3
+1	Karlovac	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	průmyslové	AANS1----1A----	Atr
+4	město	NNNS1-----A----	Pnom
+5	vystavěné	AANS1----1A----	Atr
+6	v	RR--6----------	AuxP
+7	barokním	AAIS6----1A----	Atr
+8	slohu	NNIS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+lnd91301-065-p3s4
+1	Leží	VB-S---3P-AA---	Pred
+2	55	C=-------------	Adv
+3	kilometrů	NNIP2-----A----	Atr
+4	jihozápadně	Dg-------1A----	Adv
+5	Záhřebu	NNIS2-----A----	Adv
+6	na	RR--6----------	AuxP
+7	okraji	NNIS6-----A----	Adv
+8	jedné	ClFS2----------	Atr
+9	z	RR--2----------	AuxP
+10	částí	NNFP2-----A----	Atr
+11	chorvatského	AANS2----1A----	Atr
+12	území	NNNS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	na	RR--4----------	AuxP
+15	něž	P9NS4----------	Atr
+16	si	P7-X3----------	Adv
+17	činí	VB-P---3P-AA---	Atr
+18	nárok	NNIS4-----A----	Obj
+19	srbští	AAMP1----1A----	Atr
+20	extremisté	NNMP1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+lnd91301-065-p4s1
+1	Záhřebský	AAIS1----1A----	Atr
+2	rozhlas	NNIS1-----A----	Sb
+3	dále	Dg-------2A---1	Adv
+4	uvedl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	dělostřelecké	AANS1----1A----	Atr
+8	ostřelování	NNNS1-----A----	Sb
+9	Karlovace	NNIS2-----A----	Atr
+10	poškodilo	VpNS---XR-AA---	Obj
+11	obytné	AAIP4----1A----	Atr
+12	domy	NNIP4-----A----	Obj
+13	a	J^-------------	Coord
+14	důležité	AAIP4----1A----	Atr
+15	objekty	NNIP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd91301-065-p4s2
+1	Podle	RR--2----------	AuxP
+2	stejného	AAIS2----1A----	Atr
+3	zdroje	NNIS2-----A----	Adv
+4	byly	VpTP---XR-AA---	Pred
+5	cílem	NNIS7-----A----	Pnom
+6	nočního	AAIS2----1A----	Atr
+7	dělostřeleckého	AAIS2----1A----	Atr
+8	útoku	NNIS2-----A----	Atr
+9	také	Db-------------	AuxZ
+10	vesnice	NNFP1-----A----	Sb
+11	v	RR--6----------	AuxP
+12	okolí	NNNS6-----A----	Atr
+13	Karlovace	NNIS2-----A----	Atr
+14	a	J^-------------	Coord
+15	východochorvatské	AANS1----1A----	Atr
+16	město	NNNS1-----A----	Sb
+17	Osijek	NNIS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd91301-065-p4s3
+1	V	RR--6----------	AuxP
+2	Osijeku	NNIS6-----A----	Adv
+3	přišel	VpYS---XR-AA---	Pred
+4	o	RR--4----------	AuxP
+5	život	NNIS4-----A----	Obj
+6	údajně	Dg-------1A----	Adv
+7	jeden	ClYS1----------	Atr
+8	člověk	NNMS1-----A----	Sb
+9	a	J^-------------	Coord
+10	další	AAFP1----1A----	Atr
+11	dvě	ClHP1----------	Atr
+12	osoby	NNFP1-----A----	Sb
+13	byly	VpTP---XR-AA---	AuxV
+14	zraněny	VsTP---XX-AP---	Pred
+15	.	Z:-------------	AuxK
+
+lnd91301-065-p5s1
+1	Srby	NNMP7-----A----	Obj
+2	ovládané	AANS1----1A----	Atr
+3	politické	AANS1----1A----	Atr
+4	vedení	NNNS1-----A----	Sb
+5	SFRJ	NNFXX-----A---8	Atr
+6	mezitím	Db-------------	Adv
+7	intenzívně	Dg-------1A----	Adv
+8	pracuje	VB-S---3P-AA---	Pred
+9	na	RR--6----------	AuxP
+10	konvenci	NNFS6-----A----	Obj
+11	,	Z:-------------	AuxX
+12	jejímž	P1ZS7FS3-------	Atr
+13	přijetím	NNNS7-----A----	Adv
+14	by	Vc-------------	AuxV
+15	měla	VpQW---XR-AA---	Atr
+16	být	Vf--------A----	AuxV
+17	vyhlášena	VsQW---XX-AP---	Obj
+18	"	Z:-------------	AuxG
+19	nová	AAFS1----1A----	Atr
+20	"	Z:-------------	AuxG
+21	Jugoslávie	NNFS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+lnd91301-065-p5s2
+1	Podle	RR--2----------	AuxP
+2	agentury	NNFS2-----A----	Adv
+3	Tanjug	NNIS1-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	okleštěné	AANS1----1A----	Atr
+6	předsednictvo	NNNS1-----A----	Sb
+7	SFRJ	NNFXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	vedení	NNNS1-----A----	Sb
+10	parlamentu	NNIS2-----A----	Atr
+11	a	J^-------------	Coord
+12	zástupci	NNMP1-----A----	Sb
+13	jedenácti	Cn-P2----------	Atr
+14	prosrbsky	Dg-------1A----	Adv
+15	orientovaných	AAFP2----1A----	Atr
+16	politických	AAFP2----1A----	Atr
+17	stran	NNFP2-----A----	Atr
+18	ve	RV--4----------	AuxP
+19	čtvrtek	NNIS4-----A----	Adv
+20	dohodli	VpMP---XR-AA--1	Pred
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	příslušná	AAFS1----1A----	Atr
+24	schůzka	NNFS1-----A----	Sb
+25	se	P7-X4----------	AuxR
+26	uskuteční	VB-S---3P-AA---	Obj
+27	již	Db-------------	AuxZ
+28	3	C=-------------	Atr
+29	.	Z:-------------	AuxG
+30	ledna	NNIS2-----A----	Adv
+31	v	RR--6----------	AuxP
+32	Bělehradu	NNIS6-----A---1	Adv
+33	.	Z:-------------	AuxK
+
+lnd91301-065-p5s3
+1	Pozváni	VsMP---XX-AP---	Pred
+2	byli	VpMP---XR-AA---	AuxV
+3	zástupci	NNMP1-----A----	Sb
+4	všech	PLXP2----------	Atr
+5	politických	AAFP2----1A----	Atr
+6	sil	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kterým	P4XP3----------	Obj
+9	"	Z:-------------	AuxG
+10	záleží	VB-S---3P-AA---	Atr
+11	na	RR--6----------	AuxP
+12	udržení	NNNS6-----A----	Obj
+13	Jugoslávie	NNFS2-----A----	Atr
+14	"	Z:-------------	AuxG
+15	.	Z:-------------	AuxK
+
+lnd91301-065-p5s4
+1	Místopředseda	NNMS1-----A----	Atr
+2	předsednictva	NNNS2-----A----	Atr
+3	SFRJ	NNFXX-----A---8	Atr
+4	Branko	NNMS1-----A----	Atr
+5	Kostič	NNMS1-----A----	Sb
+6	minulý	AAIS4----1A----	Atr
+7	týden	NNIS4-----A----	Adv
+8	prohlásil	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	"	Z:-------------	AuxG
+12	budoucí	AAFS1----1A----	Atr
+13	"	Z:-------------	AuxG
+14	Jugoslávie	NNFS1-----A----	Sb
+15	by	Vc-------------	AuxV
+16	mohla	VpQW---XR-AA---	Obj
+17	zahrnovat	Vf--------A----	Obj
+18	Srbsko	NNNS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	Černou	AAFS4----1A----	Atr
+21	Horu	NNFS4-----A----	Obj
+22	a	J^-------------	Coord
+23	také	Db-------------	AuxZ
+24	oblasti	NNFP4-----A----	Obj
+25	Chorvatska	NNNS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	Bosny	NNFS2-----A----	Atr
+28	a	J^-------------	Coord
+29	Hercegoviny	NNFS2-----A----	Atr
+30	,	Z:-------------	AuxX
+31	v	RR--6----------	AuxP
+32	nichž	P9XP6----------	Adv
+33	srbské	AAFP1----1A----	Atr
+34	národnostní	AAFP1----1A----	Atr
+35	menšiny	NNFP1-----A----	Sb
+36	vyhlásily	VpTP---XR-AA---	Atr
+37	autonomii	NNFS4-----A----	Obj
+38	.	Z:-------------	AuxK
+
+lnd91301-065-p6s1
+1	Finanční	AAMP1----1A----	Atr
+2	odborníci	NNMP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Bělehradě	NNIS6-----A----	AtrAdv
+5	odhadli	VpMP---XR-AA--1	Pred
+6	dosavadní	AAFP4----1A----	Atr
+7	ztráty	NNFP4-----A----	Obj
+8	vyplývající	AGFP4-----A----	Atr
+9	z	RR--2----------	AuxP
+10	občanské	AAFS2----1A----	Atr
+11	války	NNFS2-----A----	Obj
+12	na	RR--4----------	AuxP
+13	30	C=-------------	Obj
+14	miliard	NNFP2-----A----	Atr
+15	dolarů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91301-065-p6s2
+1	Jak	Db-------------	Adv
+2	napsal	VpYS---XR-AA---	Pred
+3	list	NNIS1-----A----	Sb
+4	Politika	NNFS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	tato	PDFS1----------	Atr
+7	suma	NNFS1-----A----	Sb
+8	zahrnuje	VB-S---3P-AA---	Pred
+9	přímé	AAFP4----1A----	Atr
+10	i	J^-------------	Coord
+11	nepřímé	AAFP4----1N----	Atr
+12	škody	NNFP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+lnd91301-065-p6s3
+1	V	RR--6----------	AuxP
+2	minulých	AAIP6----1A----	Atr
+3	týdnech	NNIP6-----A----	Adv
+4	obdrželo	VpNS---XR-AA---	Pred
+5	jugoslávské	AANS1----1A----	Atr
+6	ministerstvo	NNNS1-----A----	Sb
+7	spravedlnosti	NNFS2-----A----	Atr
+8	již	Db-------------	AuxZ
+9	první	CrFP4----------	Atr
+10	žádosti	NNFP4-----A----	Obj
+11	o	RR--4----------	AuxP
+12	odškodné	NNNS4-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd91301-065-p6s4
+1	Ty	PDFP1----------	Sb
+2	však	J^-------------	AuxY
+3	zatím	Db-------------	Adv
+4	"	Z:-------------	AuxG
+5	vzhledem	RF-------------	AuxP
+6	ke	RV--3----------	AuxP
+7	komplexnosti	NNFS3-----A----	Adv
+8	problémů	NNIP2-----A----	Atr
+9	"	Z:-------------	AuxG
+10	nemohly	VpTP---XR-NA---	Obj
+11	být	Vf--------A----	AuxV
+12	zpracovány	VsTP---XX-AP---	Obj
+13	,	Z:-------------	AuxX
+14	uvedl	VpYS---XR-AA---	Pred
+15	jugoslávský	AAIS1----1A----	Atr
+16	deník	NNIS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+lnd91301-065-p7s1
+1	Vedení	NNNS1-----A----	Sb
+2	jugoslávské	AAFS2----1A----	Atr
+3	armády	NNFS2-----A----	Atr
+4	obvinilo	VpNS---XR-AA---	Pred
+5	Maďarsko	NNNS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	na	RR--6----------	AuxP
+9	svém	P8ZS6----------	Atr
+10	území	NNNS6-----A----	Adv
+11	umožňuje	VB-S---3P-AA---	Obj
+12	chorvatským	AAFP3----1A----	Atr
+13	jednotkám	NNFP3-----A----	Obj
+14	přípravu	NNFS4-----A----	Obj
+15	k	RR--3----------	AuxP
+16	bojovým	AAFP3----1A----	Atr
+17	operacím	NNFP3-----A----	Atr
+18	proti	RR--3----------	AuxP
+19	srbským	AAMP3----1A----	Atr
+20	dobrovolníkům	NNMP3-----A----	Atr
+21	a	J^-------------	Coord
+22	útvarům	NNIP3-----A----	Atr
+23	federálních	AANP2----1A----	Atr
+24	vojsk	NNNP2-----A----	Atr
+25	SFRJ	NNFXX-----A---8	Atr
+26	.	Z:-------------	AuxK
+
+lnd91301-065-p7s2
+1	Bělehradský	AAIS1----1A----	Atr
+2	deník	NNIS1-----A----	Sb
+3	BORBA	NNFS1-----A----	Atr
+4	včera	Db-------------	Adv
+5	citoval	VpYS---XR-AA---	Pred
+6	vysokého	AAMS4----1A----	Atr
+7	jugoslávského	AAMS4----1A----	Atr
+8	vojenského	AAMS4----1A----	Atr
+9	činitele	NNMS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	prohlásil	VpYS---XR-AA---	Atr
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	Maďaři	NNMP1-----A----	Sb
+16	otevřeně	Dg-------1A----	Adv
+17	podporují	VB-P---3P-AA---	Obj
+18	Chorvaty	NNMP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+lnd91301-065-p7s3
+1	Tento	PDYS1----------	Atr
+2	nejmenovaný	NNMS1-----A----	Atr
+3	důstojník	NNMS1-----A----	Sb
+4	dále	Dg-------2A---1	Adv
+5	uvedl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	"	Z:-------------	AuxG
+9	chorvatské	AAFP1----1A----	Atr
+10	jednotky	NNFP1-----A----	Sb
+11	byly	VpTP---XR-AA---	AuxV
+12	spatřeny	VsTP---XX-AP---	Obj
+13	na	RR--6----------	AuxP
+14	odvrácené	AAFS6----1A----	Atr
+15	straně	NNFS6-----A----	Adv
+16	maďarské	AAFS2----1A----	Atr
+17	hranice	NNFS2-----A----	Atr
+18	"	Z:-------------	AuxG
+19	.	Z:-------------	AuxK
+
+lnd91301-065-p7s4
+1	Budapešť	NNFS1-----A----	Sb
+2	podle	RR--2----------	AuxP
+3	jeho	PSXXXZS3-------	Atr
+4	slov	NNNP2-----A----	Adv
+5	"	Z:-------------	AuxG
+6	dovoluje	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	chorvatské	AAIP1----1A----	Atr
+10	svazky	NNIP1-----A----	Sb
+11	pronikaly	VpTP---XR-AA---	Obj
+12	přes	RR--4----------	AuxP
+13	maďarské	AANS4----1A----	Atr
+14	území	NNNS4-----A----	Adv
+15	do	RR--2----------	AuxP
+16	oblastí	NNFP2-----A----	Adv
+17	kontrolovaných	AAFP2----1A----	Atr
+18	jugoslávskou	AAFS7----1A----	Atr
+19	armádou	NNFS7-----A----	Obj
+20	"	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+lnd91301-065-p8s1
+1	Zvláštní	AAMS1----1A----	Atr
+2	emisar	NNMS1-----A----	Atr
+3	generálního	AAMS2----1A----	Atr
+4	tajemníka	NNMS2-----A----	Atr
+5	OSN	NNFXX-----A---8	Atr
+6	Cyrus	NNMS1-----A----	Atr
+7	Vance	NNMS1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	v	RR--4----------	AuxP
+10	pondělí	NNNS4-----A----	Adv
+11	vrátí	VB-S---3P-AA---	Pred
+12	do	RR--2----------	AuxP
+13	Jugoslávie	NNFS2-----A----	Adv
+14	,	Z:-------------	AuxX
+15	aby	J,-------------	AuxC
+16	se	P7-X4----------	AuxT
+17	zde	Db-------------	Adv
+18	znovu	Db-------------	Adv
+19	pokusil	VpYS---XR-AA---	Adv
+20	připravit	Vf--------A----	Obj
+21	půdu	NNFS4-----A----	Obj
+22	pro	RR--4----------	AuxP
+23	rozmístění	NNNS4-----A----	AtrAdv
+24	jednotek	NNFP2-----A----	Atr
+25	OSN	NNFXX-----A---8	Atr
+26	.	Z:-------------	AuxK
+
+lnd91301-065-p8s2
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	osobně	Dg-------1A----	Adv
+4	ve	RV--4----------	AuxP
+5	čtvrtek	NNIS4-----A----	Adv
+6	novinářům	NNMP3-----A----	Obj
+7	v	RR--6----------	AuxP
+8	New	AAXXX----1A----	Atr
+9	Yorku	NNMS6-----A---1	Adv
+10	.	Z:-------------	AuxK
+
+lnd91301-065-p8s3
+1	Zároveň	Db-------------	Adv
+2	však	J^-------------	Coord
+3	vyjádřil	VpYS---XR-AA---	Pred
+4	málo	Ca--2---------1	Obj
+5	optimismu	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	pokud	J,-------------	AuxC
+8	jde	VB-S---3P-AA---	AdvAtr
+9	o	RR--4----------	AuxP
+10	úspěch	NNIS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+lnd91301-065-p8s4
+1	Na	RR--4----------	AuxP
+2	dotaz	NNIS4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	svou	P8FS4---------1	Atr
+6	cestu	NNFS4-----A----	Obj
+7	považuje	VB-S---3P-AA---	Atr
+8	za	RR--4----------	AuxP
+9	poslední	AAFS4----1A----	Atr
+10	šanci	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	neodpověděl	VpYS---XR-NA---	Pred
+13	přímo	Dg-------1A----	Adv
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	naznačil	VpYS---XR-AA---	Pred
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	se	P7-X4----------	AuxT
+20	vše	PLNS1---------1	Sb
+21	nevyvíjí	VB-S---3P-NA---	Obj
+22	příznivě	Dg-------1A----	Adv
+23	.	Z:-------------	AuxK
+
+lnd91301-065-p8s5
+1	Konstatoval	VpYS---XR-AA---	Pred
+2	rovněž	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	německé	AANS1----1A----	Atr
+6	uznání	NNNS1-----A----	Sb
+7	Chorvatska	NNNS2-----A----	Atr
+8	a	J^-------------	Coord
+9	Slovinska	NNNS2-----A----	Atr
+10	celé	AAFS3----1A----	Atr
+11	záležitosti	NNFS3-----A----	Obj
+12	neprospělo	VpNS---XR-NA---	Obj
+13	.	Z:-------------	AuxK
+
+lnd91301-065-p9s1
+1	Podle	RR--2----------	AuxP
+2	zdrojů	NNIP2-----A----	Adv
+3	OSN	NNFXX-----A---8	Atr
+4	Vance	NNMS1-----A----	Sb
+5	v	RR--4----------	AuxP
+6	neděli	NNFS4-----A----	Adv
+7	zavítá	VB-S---3P-AA---	Pred
+8	do	RR--2----------	AuxP
+9	Lisabonu	NNIS2-----A----	Adv
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	od	RR--2----------	AuxP
+13	1	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	ledna	NNIS2-----A----	Adv
+16	předsedá	VB-S---3P-AA---	Atr
+17	Evropským	AANP3----1A----	Atr
+18	společenstvím	NNNP3-----A----	Obj
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	v	RR--4----------	AuxP
+22	pondělí	NNNS4-----A----	Adv
+23	odtud	Db-------------	Adv
+24	odcestuje	VB-S---3P-AA---	Pred
+25	do	RR--2----------	AuxP
+26	Jugoslávie	NNFS2-----A----	Adv
+27	.	Z:-------------	AuxK
+

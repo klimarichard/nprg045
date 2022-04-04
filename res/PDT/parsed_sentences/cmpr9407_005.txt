@@ -1,0 +1,375 @@
+cmpr9407-005-p3s1
+1	|	Z:-------------	ExD
+2	Rady	NNFP1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	telefon	NNIS4-----A----	Atr
+5	|	Z:-------------	AuxK
+
+cmpr9407-005-p5s1
+1	Potřebujete	VB-P---2P-AA---	Pred
+2	rychle	Dg-------1A----	Adv
+3	poradit	Vf--------A----	Obj
+4	?	Z:-------------	AuxK
+
+cmpr9407-005-p5s2
+1	Zvedněte	Vi-P---2--A----	Pred
+2	telefon	NNIS4-----A----	Obj
+3	a	J^-------------	Coord
+4	zavolejte	Vi-P---2--A----	Pred
+5	.	Z:-------------	AuxK
+
+cmpr9407-005-p5s3
+1	Váš	PSIS4-P2-------	Atr
+2	obecně	Dg-------1A----	Adv
+3	platný	AAIS4----1A----	Atr
+4	dotaz	NNIS4-----A----	Obj
+5	je	VB-S---3P-AA---	Pred
+6	připraven	VsYS---XX-AP---	Pnom
+7	zodpovědět	Vf--------A----	Obj
+8	spolupracovník	NNMS1-----A----	Sb
+9	Profitu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9407-005-p5s4
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	nedovoláte	VB-P---2P-NA---	Atr
+7	přes	RR--4----------	AuxP
+8	den	NNIS4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	vytočte	Vi-P---2--A----	Pred
+11	číslo	NNNS4-----A----	Obj
+12	ve	RV--6----------	AuxP
+13	večerních	AAFP6----1A----	Atr
+14	nebo	J^-------------	Coord
+15	nočních	AAFP6----1A----	Atr
+16	hodinách	NNFP6-----A----	Adv
+17	a	J^-------------	Coord
+18	svůj	P8IS4----------	Atr
+19	dotaz	NNIS4-----A----	Obj
+20	namluvte	Vi-P---2--A----	Pred
+21	na	RR--4----------	AuxP
+22	telefonní	AAIS4----1A----	Atr
+23	záznamník	NNIS4-----A----	Adv
+24	.	Z:-------------	AuxK
+
+cmpr9407-005-p5s5
+1	Nejzajímavější	AAIP4----3A----	Atr
+2	dotazy	NNIP4-----A----	Obj
+3	najdete	VB-P---2P-AA---	Pred
+4	zodpovězené	AAIP4----1A----	Atv
+5	pravidelně	Dg-------1A----	Adv
+6	na	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	stránce	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9407-005-p6s1
+1	Žaloba	NNFS1-----A----	ExD
+2	za	RR--4----------	AuxP
+3	špatné	AAFP4----1A----	Atr
+4	informace	NNFP4-----A----	Atr
+
+cmpr9407-005-p7s1
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1968	C=-------------	Atr
+4	jsem	VB-S---1P-AA---	AuxV
+5	zůstala	VpQW---XR-AA---	Pred
+6	se	RV--7----------	AuxP
+7	synem	NNMS7-----A----	Adv
+8	v	RR--6----------	AuxP
+9	zahraničí	NNNS6-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9407-005-p7s2
+1	Při	RR--6----------	AuxP
+2	návštěvě	NNFS6-----A----	Adv
+3	konzulátu	NNIS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Kolíně	NNIS6-----A----	Atr
+6	nad	RR--7----------	AuxP
+7	Rýnem	NNIS7-----A----	Atr
+8	po	RR--6----------	AuxP
+9	mně	PP-S6--1-------	Adv
+10	chtěli	VpMP---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	abych	J,-S---1-------	AuxC
+13	se	P7-X4----------	AuxT
+14	zřekla	VpQW---XR-AA--1	Obj
+15	československého	AANS2----1A----	Atr
+16	občanství	NNNS2-----A----	Obj
+17	a	J^-------------	Coord
+18	upravila	VpQW---XR-AA---	Obj
+19	svůj	P8IS4----------	Atr
+20	vztah	NNIS4-----A----	Obj
+21	k	RR--3----------	AuxP
+22	ČSSR	NNFXX-----A---8	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9407-005-p7s3
+1	Zaplatila	VpQW---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	poplatky	NNIP4-----A----	Obj
+4	za	RR--4----------	AuxP
+5	střední	AAFS4----1A----	Atr
+6	školu	NNFS4-----A----	Atr
+7	,	Z:-------------	AuxX
+8	občanství	NNNS1-----A----	Sb
+9	mi	PH-S3--1-------	Obj
+10	však	J^-------------	Coord
+11	zůstalo	VpNS---XR-AA---	Pred
+12	zachováno	VsNS---XX-AP---	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9407-005-p7s4
+1	Přesto	Dg-------1A----	Adv
+2	mi	PH-S3--1-------	Adv
+3	v	RR--6----------	AuxP
+4	ČR	NNFXX-----A---8	Adv
+5	propadla	VpQW---XR-AA--1	Pred
+6	polovina	NNFS1-----A----	Sb
+7	rodinného	AAIS2----1A----	Atr
+8	domku	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9407-005-p7s5
+1	Nežádala	VpQW---XR-NA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	o	RR--4----------	AuxP
+4	něj	P5ZS4--3-------	Obj
+5	,	Z:-------------	AuxX
+6	neboť	J^-------------	Coord
+7	jsem	VB-S---1P-AA---	AuxV
+8	měla	VpQW---XR-AA---	Pred
+9	podle	RR--2----------	AuxP
+10	dokladů	NNIP2-----A----	Adv
+11	trvalé	AANS4----1A----	Atr
+12	bydliště	NNNS4-----A----	Obj
+13	v	RR--6----------	AuxP
+14	SRN	NNFXX-----A---8	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9407-005-p7s6
+1	Nyní	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	dozvěděla	VpQW---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	jsem	VB-S---1P-AA---	AuxV
+8	o	RR--4----------	AuxP
+9	restituci	NNFS4-----A----	Obj
+10	mohla	VpQW---XR-AA---	Obj
+11	žádat	Vf--------A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9407-005-p7s7
+1	Lhůta	NNFS1-----A----	Sb
+2	k	RR--3----------	AuxP
+3	uplynutí	NNNS3-----A----	Atr
+4	nároku	NNIS2-----A----	Atr
+5	však	J^-------------	Coord
+6	uplynula	VpQW---XR-AA---	Pred
+7	.	Z:-------------	AuxK
+
+cmpr9407-005-p7s8
+1	Mohu	VB-S---1P-AA--1	Pred
+2	někoho	PZM-4----------	Obj
+3	žalovat	Vf--------A----	Obj
+4	?	Z:-------------	AuxK
+
+cmpr9407-005-p7s9
+1	Mám	VB-S---1P-AA---	Pred
+2	naději	NNFS4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	nápravu	NNFS4-----A----	Atr
+5	?	Z:-------------	AuxK
+
+cmpr9407-005-p8s1
+1	Dopis	NNIS1-----A----	ExD
+2	č	NNNXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	2223	C=-------------	Atr
+
+cmpr9407-005-p9s1
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	jste	VB-P---2P-AA---	AuxV
+7	setrvala	VpQW---XR-AA---	Atr
+8	bez	RR--2----------	AuxP
+9	souhlasu	NNIS2-----A----	Adv
+10	československých	AAIP2----1A----	Atr
+11	úřadů	NNIP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	zahraničí	NNNS6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	byla	VpQW---XR-AA---	AuxV
+16	jste	VB-P---2P-AA---	AuxV
+17	buď	J^-------------	AuxY
+18	odsouzena	VsQW---XX-AP---	Pred
+19	pro	RR--4----------	AuxP
+20	trestný	AAIS4----1A----	Atr
+21	čin	NNIS4-----A----	Adv
+22	nedovoleného	AANS2----1N----	Atr
+23	opuštění	NNNS2-----A----	Atr
+24	republiky	NNFS2-----A----	Atr
+25	mimo	RR--4----------	AuxP
+26	jiné	AANS4----1A----	Adv
+27	k	RR--3----------	AuxP
+28	trestu	NNIS3-----A----	Obj
+29	propadnutí	NNNS2-----A----	Atr
+30	majetku	NNIS2-----A----	Atr
+31	,	Z:-------------	AuxX
+32	anebo	J^-------------	Coord
+33	váš	PSYS1-P2-------	Atr
+34	majetek	NNIS1-----A----	Sb
+35	přešel	VpYS---XR-AA---	Pred
+36	do	RR--2----------	AuxP
+37	vlastnictví	NNNS2-----A----	Adv
+38	státu	NNIS2-----A----	Atr
+39	na	RR--6----------	AuxP
+40	základě	NNIS6-----A----	AuxP
+41	dnes	Db-------------	Adv
+42	již	Db-------------	Adv
+43	zrušeného	AANS2----1A----	Atr
+44	ustanovení	NNNS2-----A----	Adv
+45	občanského	AAIS2----1A----	Atr
+46	zákoníku	NNIS2-----A----	Atr
+47	.	Z:-------------	AuxK
+
+cmpr9407-005-p9s2
+1	V	RR--6----------	AuxP
+2	každém	AAIS6----1A----	Atr
+3	případě	NNIS6-----A----	Adv
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxT
+6	na	RR--4----------	AuxP
+7	vás	PP-P4--2-------	Obj
+8	vztahoval	VpYS---XR-AA---	Pred
+9	zákon	NNIS1-----A----	Sb
+10	o	RR--6----------	AuxP
+11	mimosoudních	AAFP6----1A----	Atr
+12	rehabilitacích	NNFP6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9407-005-p10s1
+1	Abyste	J,-P---2-------	AuxC
+2	tento	PDIS4----------	Atr
+3	nárok	NNIS4-----A----	Obj
+4	mohla	VpQW---XR-AA---	Adv
+5	s	RR--7----------	AuxP
+6	úspěchem	NNIS7-----A----	Adv
+7	ve	RV--6----------	AuxP
+8	stanovené	AAFS6----1A----	Atr
+9	lhůtě	NNFS6-----A----	Adv
+10	uplatnit	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	bylo	VpNS---XR-AA---	Pred
+13	by	Vc-------------	AuxV
+14	třeba	Db-------------	Pnom
+15	,	Z:-------------	AuxX
+16	abyste	J,-P---2-------	AuxC
+17	byla	VpQW---XR-AA---	Sb
+18	nejen	TT-------------	AuxZ
+19	československou	AAFS7----1A----	Atr
+20	,	Z:-------------	AuxX
+21	a	J^-------------	Coord
+22	později	Dg-------2A----	Adv
+23	českou	AAFS7----1A----	Atr
+24	občankou	NNFS7-----A----	Pnom
+25	,	Z:-------------	AuxX
+26	ale	J^-------------	Coord
+27	měla	VpQW---XR-AA---	Sb
+28	i	J^-------------	AuxZ
+29	trvalý	AAIS4----1A----	Atr
+30	pobyt	NNIS4-----A----	Obj
+31	na	RR--6----------	AuxP
+32	území	NNNS6-----A----	Adv
+33	ČR	NNFXX-----A---8	Atr
+34	.	Z:-------------	AuxK
+
+cmpr9407-005-p10s2
+1	Jak	Db-------------	Adv
+2	vyplývá	VB-S---3P-AA---	Pred
+3	z	RR--2----------	AuxP
+4	vašeho	PSZS2-P2-------	Atr
+5	dopisu	NNIS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	podmínku	NNFS4-----A----	Obj
+8	občanství	NNNS2-----A----	Atr
+9	jste	VB-P---2P-AA---	AuxV
+10	sice	Db-------------	AuxY
+11	splňovala	VpQW---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	podmínku	NNFS4-----A----	Obj
+14	bydliště	NNNS2-----A----	Atr
+15	však	J^-------------	Coord
+16	ne	TT-------------	AuxZ
+17	.	Z:-------------	AuxK
+
+cmpr9407-005-p10s3
+1	Z	RR--2----------	AuxP
+2	tohoto	PDZS2----------	Atr
+3	důvodu	NNIS2-----A----	Adv
+4	jste	VB-P---2P-AA---	AuxV
+5	nebyla	VpQW---XR-NA---	Pred
+6	oprávněnou	AAFS7----1A----	Atr
+7	osobou	NNFS7-----A----	Pnom
+8	.	Z:-------------	AuxK
+
+cmpr9407-005-p11s1
+1	Za	RR--4----------	AuxP
+2	neoprávněné	AAFP4----1N----	Atr
+3	nebo	J^-------------	Coord
+4	nepřesné	AAFP4----1N----	Atr
+5	informace	NNFP4-----A----	Adv
+6	v	RR--6----------	AuxP
+7	současné	AAFS6----1A----	Atr
+8	době	NNFS6-----A----	Adv
+9	nikoho	PWM-4----------	Obj
+10	žalovat	Vf--------A----	Obj
+11	nemůžete	VB-P---2P-NA---	Pred
+12	.	Z:-------------	AuxK
+
+cmpr9407-005-p12s1
+1	JUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	PhDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Oldřich	NNMS1-----A----	Atr
+6	Choděra	NNMS1-----A----	ExD
+
+cmpr9407-005-p13s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Advokátní	AAFS1----1A----	Atr
+4	a	J^-------------	Coord
+5	komerčně	Dg-------1A----	Adv
+6	právní	AAFS1----1A----	Atr
+7	kancelář	NNFS1-----A----	ExD
+8	,	Z:-------------	AuxX
+9	Národní	AAFS1----1A----	Atr
+10	25	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	Praha	NNFS1-----A----	Atr
+13	1	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	tel	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	+	Z:-------------	Coord
+18	FAX	NNIS1-----A----	Atr
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	02	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	242	C=-------------	Atr
+24	27845	C=-------------	Atr
+25	.	Z:-------------	AuxK
+

@@ -1,0 +1,727 @@
+vesm9211-025-p1s1
+1	HELVETICA	NNFS1-----A----	ExD
+2	PLTČ	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxK
+
+vesm9211-025-p2s1
+1	ALTERNATIVY	NNFP1-----A----	ExD
+2	UKONČENÍ	NNNS2-----A----	Atr
+3	PALIVOVÉHO	AAIS2----1A----	Atr
+4	CYKLU	NNIS2-----A----	Atr
+
+vesm9211-025-p3s1
+1	a	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	PŘÍMÉ	AANS1----1A----	Atr
+4	ULOŽENÍ	NNNS1-----A----	Sb
+5	-	Z:-------------	Pred
+6	OTEVŘENÝ	AAIS1----1A----	Atr
+7	CYKLUS	NNIS1-----A----	Pnom
+
+vesm9211-025-p4s1
+1	-	Z:-------------	ExD
+2	chlazení	NNNS1-----A----	ExD
+3	paliva	NNNS2-----A----	Atr
+4	po	RR--4----------	AuxP
+5	dobu	NNFS4-----A----	Atr
+6	3	C=-------------	Atr
+7	-	Z:-------------	Coord
+8	5	C=-------------	Atr
+9	let	NNNP2-----A----	Atr
+10	po	RR--6----------	AuxP
+11	vyjmutí	NNNS6-----A----	Atr
+12	z	RR--2----------	AuxP
+13	reaktoru	NNIS2-----A----	Atr
+
+vesm9211-025-p5s1
+1	-	Z:-------------	ExD
+2	transport	NNIS1-----A----	ExD
+3	do	RR--2----------	AuxP
+4	meziskladu	NNIS2-----A----	Atr
+
+vesm9211-025-p6s1
+1	-	Z:-------------	ExD
+2	dochlazování	NNNS1-----A----	ExD
+3	a	J^-------------	Coord
+4	snižování	NNNS1-----A----	ExD
+5	aktivity	NNFS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	meziskladu	NNIS6-----A----	Atr
+8	po	RR--4----------	AuxP
+9	dobu	NNFS4-----A----	Atr
+10	40	C=-------------	Atr
+11	let	NNNP2-----A----	Atr
+
+vesm9211-025-p7s1
+1	-	Z:-------------	ExD
+2	transport	NNIS1-----A----	ExD
+3	do	RR--2----------	AuxP
+4	lokality	NNFS2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	definitivní	AANS4----1A----	Atr
+7	uložení	NNNS4-----A----	AtrAtr
+
+vesm9211-025-p8s1
+1	-	Z:-------------	ExD
+2	úprava	NNFS1-----A----	ExD
+3	paliva	NNNS2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	přímé	AANS4----1A----	Atr
+6	uložení	NNNS4-----A----	AtrAtr
+
+vesm9211-025-p9s1
+1	-	Z:-------------	ExD
+2	konsolidace	NNFS1-----A----	ExD
+3	paliva	NNNS2-----A----	Atr
+4	(	Z:-------------	AuxG
+5	možná	Db-------------	Atr
+6	)	Z:-------------	AuxG
+
+vesm9211-025-p10s1
+1	-	Z:-------------	ExD
+2	umístění	NNNS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	úložišti	NNNS6-----A----	Atr
+
+vesm9211-025-p11s1
+1	-	Z:-------------	ExD
+2	definitivní	AANS1----1A----	Atr
+3	usazení	NNNS1-----A----	ExD
+
+vesm9211-025-p12s1
+1	DŮVODY	NNIP1-----A----	ExD
+2	PRO	RR--4----------	ExD
+3	A	J^-------------	Coord
+4	PROTI	RR--3----------	AuxP
+5	PŘÍMÉMU	AANS3----1A----	Atr
+6	ULOŽENÍ	NNNS3-----A----	Atr
+
+vesm9211-025-p13s1
+1	Pro	RR--4----------	ExD
+2	:	Z:-------------	AuxK
+
+vesm9211-025-p14s1
+1	-	Z:-------------	ExD
+2	nízké	AAIP1----1A----	Atr
+3	okamžité	AAIP1----1A----	Atr
+4	investiční	AAIP1----1A----	Atr
+5	náklady	NNIP1-----A----	ExD
+6	pro	RR--4----------	AuxP
+7	mezisklad	NNIS4-----A----	Atr
+
+vesm9211-025-p15s1
+1	-	Z:-------------	ExD
+2	okamžité	AANS1----1A----	Atr
+3	získání	NNNS1-----A----	ExD
+4	času	NNIS2-----A----	Atr
+5	za	RR--4----------	AuxP
+6	nízkou	AAFS4----1A----	Atr
+7	cenu	NNFS4-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	s	RR--7----------	AuxP
+11	pozdější	AAFS7----2A----	Atr
+12	perspektivou	NNFS7-----A----	Atr
+13	na	RR--4----------	AuxP
+14	nákladnější	AANS4----2A----	Atr
+15	řešení	NNNS4-----A----	Atr
+
+vesm9211-025-p16s1
+1	-	Z:-------------	ExD
+2	minimalizace	NNFS1-----A----	ExD
+3	objemu	NNIS2-----A----	Atr
+4	radioaktivních	AAIP2----1A----	Atr
+5	odpadů	NNIP2-----A----	Atr
+6	oddělených	AAIP2----1A----	Atr
+7	od	RR--2----------	AuxP
+8	paliva	NNNS2-----A----	Adv
+
+vesm9211-025-p17s1
+1	-	Z:-------------	AuxG
+2	většina	NNFS1-----A----	Sb
+3	nákladů	NNIP2-----A----	Atr
+4	je	VB-S---3P-AA---	AuxV
+5	vynaložena	VsQW---XX-AP---	Pred
+6	v	RR--6----------	AuxP
+7	Československu	NNNS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	tedy	Db-------------	Adv
+10	bez	RR--2----------	AuxP
+11	nároků	NNIP2-----A----	Adv
+12	na	RR--4----------	AuxP
+13	placení	NNNS4-----A----	Atr
+14	ve	RV--6----------	AuxP
+15	tvrdé	AAFS6----1A----	Atr
+16	měně	NNFS6-----A----	Atr
+
+vesm9211-025-p18s1
+1	-	Z:-------------	ExD
+2	redukované	AAIP1----1A----	Atr
+3	požadavky	NNIP1-----A----	ExD
+4	na	RR--4----------	AuxP
+5	transport	NNIS4-----A----	Atr
+
+vesm9211-025-p19s1
+1	-	Z:-------------	AuxG
+2	plutonium	NNNS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	pohromadě	Db-------------	Adv
+5	se	RV--7----------	AuxP
+6	štěpnými	AAIP7----1A----	Atr
+7	produkty	NNIP7-----A----	Adv
+8	,	Z:-------------	AuxX
+9	a	J^-------------	Coord
+10	tedy	Db-------------	AuxY
+11	ve	RV--6----------	AuxP
+12	formě	NNFS6-----A----	Adv
+13	rezistentní	AAFS6----1A----	Atr
+14	proti	RR--3----------	AuxP
+15	teroristům	NNMP3-----A----	Adv
+
+vesm9211-025-p20s1
+1	-	Z:-------------	ExD
+2	10	C=-------------	ExD
+3	-	Z:-------------	Coord
+4	25	C=-------------	ExD
+5	%	Z:-------------	Atr
+6	úspory	NNFP1-----A----	Atr
+7	nákladů	NNIP2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	palivový	AAIS4----1A----	Atr
+10	cyklus	NNIS4-----A----	Atr
+11	(	Z:-------------	AuxG
+12	2	C=-------------	ExD
+13	-	Z:-------------	Coord
+14	5	C=-------------	ExD
+15	%	Z:-------------	Atr
+16	z	RR--2----------	AuxP
+17	provozních	AAIP2----1A----	Atr
+18	nákladů	NNIP2-----A----	Atr
+19	)	Z:-------------	AuxG
+
+vesm9211-025-p21s1
+1	Proti	RR--3----------	ExD
+2	:	Z:-------------	AuxK
+
+vesm9211-025-p22s1
+1	-	Z:-------------	AuxG
+2	uložená	AANP1----1A----	Atr
+3	paliva	NNNP1-----A----	Sb
+4	jsou	VB-P---3P-AA---	Pred
+5	se	RV--7----------	AuxP
+6	svým	P8ZS7----------	Atr
+7	energetickým	AAIS7----1A----	Atr
+8	obsahem	NNIS7-----A----	Atr
+9	ztracena	VsQW---XX-AP---	Pnom
+10	,	Z:-------------	AuxX
+11	neboť	J^-------------	Coord
+12	přímé	AANS1----1A----	Atr
+13	uložení	NNNS1-----A----	Sb
+14	znehodnocuje	VB-S---3P-AA---	Pred
+15	potenciální	AAIP4----1A----	Atr
+16	zdroje	NNIP4-----A----	Obj
+17	energie	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	totiž	Db-------------	Apos
+20	uran	NNIS4-----A----	Obj
+21	a	J^-------------	Coord
+22	plutonium	NNNS4-----A----	Obj
+
+vesm9211-025-p23s1
+1	-	Z:-------------	AuxG
+2	reziduální	AAFP1----1A----	Atr
+3	investice	NNFP1-----A----	Sb
+4	do	RR--2----------	AuxP
+5	paliva	NNNS2-----A----	Atr
+6	se	P7-X4----------	AuxR
+7	odepisují	VB-P---3P-AA---	Pred
+
+vesm9211-025-p24s1
+1	-	Z:-------------	ExD
+2	provozně	Dg-------1A----	Adv
+3	neověřená	AAFS1----1N----	Atr
+4	technologie	NNFS1-----A----	ExD
+
+vesm9211-025-p25s1
+1	-	Z:-------------	ExD
+2	nutnost	NNFS1-----A----	ExD
+3	skladovat	Vf--------A----	Atr
+4	ohromné	AAIP4----1A----	Atr
+5	objemy	NNIP4-----A----	Obj
+6	vyhořelého	AANS2----1A----	Atr
+7	paliva	NNNS2-----A----	Atr
+8	(	Z:-------------	AuxG
+9	V	RR--6----------	AuxP
+10	Československu	NNNS6-----A----	ExD
+11	5000	C=-------------	Atr
+12	tun	NNFP2-----A----	Atr
+13	uranu	NNIS2-----A----	Atr
+14	do	RR--2----------	AuxP
+15	r	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	2015	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	tj	J^------------8	Apos
+20	.	Z:-------------	AuxG
+21	30000	C=-------------	Atr
+22	palivových	AAFP2----1A----	Atr
+23	kazet	NNFP2-----A----	Atr
+24	,	Z:-------------	Coord
+25	objem	NNIS1-----A----	ExD
+26	asi	TT-------------	AuxZ
+27	2500	C=-------------	Atr
+28	m	NNIXX-----A---8	Atr
+29	3	C=-------------	Atr
+30	)	Z:-------------	AuxG
+
+vesm9211-025-p26s1
+1	-	Z:-------------	AuxG
+2	nechrání	VB-S---3P-NA---	Pred
+3	před	RR--7----------	AuxP
+4	změnami	NNFP7-----A----	Adv
+5	cen	NNFP2-----A----	Atr
+6	uranu	NNIS2-----A----	Atr
+
+vesm9211-025-p27s1
+1	-	Z:-------------	AuxG
+2	provozovateli	NNMS3-----A----	Obj
+3	jaderné	AAFS2----1A----	Atr
+4	elektrárny	NNFS2-----A----	Atr
+5	přibývá	VB-S---3P-AA---	Pred
+6	starost	NNFS1-----A----	Sb
+7	o	RR--4----------	AuxP
+8	dlouhodobé	AANS4----1A----	Atr
+9	skladování	NNNS4-----A----	Atr
+
+vesm9211-025-p28s1
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	pět	Cn-S1----------	Sb
+6	zemí	NNFP2-----A----	Atr
+7	,	Z:-------------	Apos
+8	USA	NNIPX-----A----	Sb
+9	,	Z:-------------	AuxX
+10	Kanada	NNFS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	Finsko	NNNS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	Španělsko	NNNS1-----A----	Sb
+15	a	J^-------------	Coord
+16	Švédsko	NNNS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	závislých	AAFP2----1A----	Atr
+19	na	RR--6----------	AuxP
+20	přímém	AANS6----1A----	Atr
+21	uložení	NNNS6-----A----	Obj
+22	.	Z:-------------	AuxK
+
+vesm9211-025-p28s2
+1	Těchto	PDXP2----------	Atr
+2	pět	Cn-S1----------	Sb
+3	zemí	NNFP2-----A----	Atr
+4	provozuje	VB-S---3P-AA---	Pred
+5	40	C=-------------	Obj
+6	%	Z:-------------	Atr
+7	kapacity	NNFS2-----A----	Atr
+8	jaderných	AAIP2----1A----	Atr
+9	zdrojů	NNIP2-----A----	Atr
+10	elektrické	AAFS2----1A----	Atr
+11	energie	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+vesm9211-025-p29s1
+1	b	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	RECYKLOVÁNÍ	NNNS1-----A----	Sb
+4	-	Z:-------------	Pred
+5	UZAVŘENÝ	AAIS1----1A----	Atr
+6	CYKLUS	NNIS1-----A----	Pnom
+
+vesm9211-025-p30s1
+1	-	Z:-------------	ExD
+2	chlazení	NNNS1-----A----	ExD
+3	paliva	NNNS2-----A----	Atr
+4	po	RR--4----------	AuxP
+5	dobu	NNFS4-----A----	Atr
+6	3	C=-------------	Atr
+7	-	Z:-------------	Coord
+8	5	C=-------------	Atr
+9	let	NNNP2-----A----	Atr
+10	po	RR--6----------	AuxP
+11	vyjmutí	NNNS6-----A----	Atr
+12	z	RR--2----------	AuxP
+13	reaktoru	NNIS2-----A----	Atr
+
+vesm9211-025-p31s1
+1	-	Z:-------------	ExD
+2	transport	NNIS1-----A----	ExD
+3	do	RR--2----------	AuxP
+4	meziskladu	NNIS2-----A----	Atr
+5	nebo	J^-------------	Coord
+6	do	RR--2----------	AuxP
+7	přepracovacího	AAIS2----1A----	Atr
+8	závodu	NNIS2-----A----	Atr
+
+vesm9211-025-p32s1
+1	pro	RR--4----------	AuxP
+2	skladování	NNNS4-----A----	ExD
+3	řádově	Dg-------1A----	Adv
+4	desetileté	AANS4----1A----	Atr
+
+vesm9211-025-p33s1
+1	-	Z:-------------	ExD
+2	oddělení	NNNS1-----A----	ExD
+3	paliva	NNNS2-----A----	Atr
+4	od	RR--2----------	AuxP
+5	povlaku	NNIS2-----A----	Atr
+6	a	J^-------------	Coord
+7	konstrukčního	AAIS2----1A----	Atr
+8	materiálu	NNIS2-----A----	Atr
+
+vesm9211-025-p34s1
+1	-	Z:-------------	ExD
+2	přepracování	NNNS1-----A----	ExD
+
+vesm9211-025-p35s1
+1	-	Z:-------------	ExD
+2	návrat	NNIS1-----A----	ExD
+3	vysoceaktivních	AAIP2----1A----	Atr
+4	radioaktivních	AAIP2----1A----	Atr
+5	odpadů	NNIP2-----A----	Atr
+6	do	RR--2----------	AuxP
+7	země	NNFS2-----A----	Atr
+8	jejich	PSXXXXP3-------	Atr
+9	vzniku	NNIS2-----A----	Atr
+10	dva	ClYP4----------	Atr
+11	roky	NNIP4-----A----	Atr
+12	po	RR--6----------	AuxP
+13	přepracování	NNNS6-----A----	Atr
+
+vesm9211-025-p36s1
+1	-	Z:-------------	ExD
+2	znovuvyužití	NNNS1-----A----	ExD
+3	recyklovaného	AAIS2----1A----	Atr
+4	uranu	NNIS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	má	VB-S---3P-AA---	Atr
+8	zbytkové	AANS4----1A----	Atr
+9	obohacení	NNNS4-----A----	Obj
+
+vesm9211-025-p37s1
+1	-	Z:-------------	ExD
+2	další	AANS1----1A----	Atr
+3	využití	NNNS1-----A----	ExD
+4	plutonia	NNNS2-----A----	Atr
+5	s	RR--7----------	AuxP
+6	65	C=-------------	Atr
+7	%	Z:-------------	AuxG
+8	obsahem	NNIS7-----A----	Atr
+9	štěpitelných	AAIP2----1A----	Atr
+10	materiálů	NNIP2-----A----	Atr
+
+vesm9211-025-p38s1
+1	-	Z:-------------	ExD
+2	výroba	NNFS1-----A----	ExD
+3	čerstvého	AANS2----1A----	Atr
+4	paliva	NNNS2-----A----	Atr
+
+vesm9211-025-p39s1
+1	Důvody	NNIP1-----A----	ExD
+2	pro	RR--4----------	ExD
+3	a	J^-------------	Coord
+4	proti	RR--3----------	AuxP
+5	recyklování	NNNS3-----A----	Atr
+
+vesm9211-025-p40s1
+1	Pro	RR--4----------	ExD
+2	:	Z:-------------	AuxK
+
+vesm9211-025-p41s1
+1	-	Z:-------------	ExD
+2	dlouhodobě	Dg-------1A----	Adv
+3	prověřená	AAFS1----1A----	Atr
+4	technologie	NNFS1-----A----	ExD
+
+vesm9211-025-p42s1
+1	-	Z:-------------	AuxG
+2	v	RR--6----------	AuxP
+3	zemi	NNFS6-----A----	Adv
+4	vzniku	NNIS2-----A----	Atr
+5	nevznikají	VB-P---3P-NA---	Pred
+6	jiné	AAIP1----1A----	Atr
+7	nároky	NNIP1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	zařízení	NNNS4-----A----	Atr
+10	s	RR--7----------	AuxP
+11	výjimkou	NNFS7-----A----	AuxP
+12	skladů	NNIP2-----A----	Adv
+13	na	RR--4----------	AuxP
+14	vitrifikované	AAIP4----1A----	Atr
+15	odpady	NNIP4-----A----	Atr
+16	(	Z:-------------	AuxG
+17	v	RR--6----------	AuxP
+18	případě	NNIS6-----A----	Adv
+19	ČR	NNFXX-----A---8	Atr
+20	a	J^-------------	Coord
+21	SR	NNFXX-----A---8	Atr
+22	nutné	AANS1----1A----	Atr
+23	až	TT-------------	AuxZ
+24	po	RR--6----------	AuxP
+25	r	NNIXX-----A---8	Adv
+26	.	Z:-------------	AuxG
+27	2005	C=-------------	Atr
+28	)	Z:-------------	AuxG
+
+vesm9211-025-p43s1
+1	-	Z:-------------	AuxG
+2	společnost	NNFS1-----A----	Sb
+3	zabezpečující	AGFS1-----A----	Atr
+4	přepracování	NNNS4-----A----	Obj
+5	přebírá	VB-S---3P-AA---	Pred
+6	rizika	NNNP4-----A----	Obj
+7	a	J^-------------	Coord
+8	řeší	VB-S---3P-AA---	Pred
+9	problémy	NNIP4-----A----	Obj
+10	s	RR--7----------	AuxP
+11	ochranou	NNFS7-----A----	Atr
+12	životního	AANS2----1A----	Atr
+13	prostředí	NNNS2-----A----	Atr
+14	za	RR--4----------	AuxP
+15	pevné	AAFP4----1A----	Atr
+16	ceny	NNFP4-----A----	Adv
+
+vesm9211-025-p44s1
+1	-	Z:-------------	AuxG
+2	servis	NNIS1-----A----	Sb
+3	"	Z:-------------	AuxG
+4	na	RR--4----------	AuxP
+5	klíč	NNIS4-----A----	Atr
+6	"	Z:-------------	AuxG
+7	nevyžaduje	VB-S---3P-NA---	Pred
+8	žádné	PWFP4----------	Atr
+9	další	AAFP4----1A----	Atr
+10	investice	NNFP4-----A----	Obj
+11	v	RR--6----------	AuxP
+12	zemi	NNFS6-----A----	AtrAdv
+13	vzniku	NNIS2-----A----	Atr
+14	vyhořelého	AANS2----1A----	Atr
+15	paliva	NNNS2-----A----	Atr
+
+vesm9211-025-p45s1
+1	-	Z:-------------	AuxG
+2	zpožděné	AAFP1----1A----	Atr
+3	platby	NNFP1-----A----	Sb
+4	redukují	VB-P---3P-AA---	Pred
+5	okamžité	AAIP4----1A----	Atr
+6	požadavky	NNIP4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	cizí	AAFS4----1A----	Atr
+9	měnu	NNFS4-----A----	Atr
+
+vesm9211-025-p46s1
+1	-	Z:-------------	ExD
+2	získání	NNNS1-----A----	ExD
+3	další	AAFS2----1A----	Atr
+4	energie	NNFS2-----A----	Atr
+5	:	Z:-------------	AuxG
+6	20	C=-------------	Atr
+7	%	Z:-------------	Atr
+8	z	RR--2----------	AuxP
+9	uranu	NNIS2-----A----	Atr
+10	a	J^-------------	Coord
+11	15	C=-------------	Atr
+12	%	Z:-------------	Atr
+13	z	RR--2----------	AuxP
+14	plutonia	NNNS2-----A----	Atr
+
+vesm9211-025-p47s1
+1	-	Z:-------------	ExD
+2	ochrana	NNFS1-----A----	ExD
+3	proti	RR--3----------	AuxP
+4	proměnným	AAFP3----1A----	Atr
+5	cenám	NNFP3-----A----	Atr
+6	uranu	NNIS2-----A----	Atr
+
+vesm9211-025-p48s1
+1	Proti	RR--3----------	ExD
+2	:	Z:-------------	AuxK
+
+vesm9211-025-p49s1
+1	-	Z:-------------	AuxG
+2	rozhodnutí	NNNS4-----A----	Obj
+3	o	RR--6----------	AuxP
+4	přepracování	NNNS6-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	nutné	AANS1----1A----	Pnom
+7	vykonat	Vf--------A----	Sb
+8	v	RR--6----------	AuxP
+9	krátké	AAFS6----1A----	Atr
+10	době	NNFS6-----A----	Adv
+11	;	Z:-------------	AuxK
+
+vesm9211-025-p49s2
+1	v	RR--6----------	AuxP
+2	současnosti	NNFS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	tedy	Db-------------	AuxY
+5	rozhoduje	VB-S---3P-AA---	Pred
+6	o	RR--6----------	AuxP
+7	náhradě	NNFS6-----A----	Obj
+8	nákladů	NNIP2-----A----	Atr
+9	ve	RV--6----------	AuxP
+10	vzdálenější	AAFS6----2A----	Atr
+11	budoucnosti	NNFS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	proto	J^-------------	AuxY
+15	s	RR--7----------	AuxP
+16	vyšší	AAFS7----2A----	Atr
+17	mírou	NNFS7-----A---1	ExD
+18	nejistot	NNFP2-----A----	Atr
+
+vesm9211-025-p50s1
+1	-	Z:-------------	AuxG
+2	recyklování	NNNS1-----A----	Sb
+3	plutonia	NNNS2-----A----	Atr
+4	může	VB-S---3P-AA---	Pred
+5	požadovat	Vf--------A----	Obj
+6	projektové	AAFP4----1A----	Atr
+7	změny	NNFP4-----A----	Obj
+
+vesm9211-025-p51s1
+1	-	Z:-------------	AuxG
+2	náklady	NNIP1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	palivo	NNNS4-----A----	Atr
+5	MOX	NNXXX-----A---8	Atr
+6	nejsou	VB-P---3P-NA---	Pred
+7	ještě	Db-------------	Adv
+8	přesně	Dg-------1A----	Adv
+9	známé	AAIP1----1A----	Pnom
+
+vesm9211-025-p52s1
+1	-	Z:-------------	AuxG
+2	v	RR--6----------	AuxP
+3	nejbližší	AAFS6----3A----	Atr
+4	době	NNFS6-----A----	Adv
+5	vyžaduje	VB-S---3P-AA---	Pred
+6	souhlas	NNIS4-----A----	Obj
+7	vlády	NNFS2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	návratem	NNIS7-----A----	Atr
+10	vysoceaktivních	AAIP2----1A----	Atr
+11	odpadů	NNIP2-----A----	Atr
+12	po	RR--6----------	AuxP
+13	r	NNIXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	2005	C=-------------	Atr
+
+vesm9211-025-p53s1
+1	-	Z:-------------	ExD
+2	nutnost	NNFS1-----A----	ExD
+3	vyčíslit	Vf--------A----	Atr
+4	náklady	NNIP4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	transport	NNIS4-----A----	Atr
+7	přes	RR--4----------	AuxP
+8	jiné	AAFP4----1A----	Atr
+9	země	NNFP4-----A----	Atr
+10	a	J^-------------	Coord
+11	smluvně	Dg-------1A----	Adv
+12	ho	PHZS4--3-------	Obj
+13	zajistit	Vf--------A----	Atr
+
+vesm9211-025-p54s1
+1	rok	NNIS1-----A----	ExD
+2	1992	C=-------------	Atr
+3	1995	C=-------------	Atr
+4	2000	C=-------------	Atr
+5	2005	C=-------------	Atr
+6	2100	C=-------------	Atr
+7	2115	C=-------------	Atr
+
+vesm9211-025-p57s1
+1	Tab	NNFXX-----A----	ExD
+2	.	Z:-------------	AuxG
+3	hromadění	NNNS2-----A----	Atr
+4	vyhořelého	AANS2----1A----	Atr
+5	paliva	NNNS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Československu	NNNS6-----A----	AtrAtr
+
+vesm9211-025-p58s1
+1	Jedna	ClFS1----------	Atr
+2	třetina	CyFS1----------	Sb
+3	vyhořelého	AANS2----1A----	Atr
+4	paliva	NNNS2-----A----	Atr
+5	z	RR--2----------	AuxP
+6	VVER	NNIXX-----A---8	Atr
+7	440	C=-------------	Atr
+8	vznikne	VB-S---3P-AA---	Pred
+9	v	RR--6----------	AuxP
+10	Dukovanech	NNIP6-----A----	Adv
+11	,	Z:-------------	Coord
+12	ostatní	AANS1----1A----	ExD
+13	na	RR--6----------	AuxP
+14	Slovensku	NNNS6-----A----	ExD
+15	.	Z:-------------	AuxK
+
+vesm9211-025-p58s2
+1	Lze	VB-S---3P-AA---	Pred
+2	předpokládat	Vf--------A----	Sb
+3	snížení	NNNS4-----A----	Obj
+4	celkového	AANS2----1A----	Atr
+5	množství	NNNS2-----A----	Atr
+6	vzhledem	RF-------------	AuxP
+7	k	RR--3----------	AuxP
+8	očekávanému	AANS3----1A----	Atr
+9	zvýšení	NNNS3-----A----	AtrAdv
+10	vyhoření	NNNS2-----A----	Atr
+11	po	RR--6----------	AuxP
+12	modernizaci	NNFS6-----A----	AdvAtr
+13	VVER	NNIXX-----A---8	Atr
+14	440	C=-------------	Atr
+15	i	J^-------------	Coord
+16	VVER	NNIXX-----A---8	Atr
+17	1000	C=-------------	Atr
+18	.	Z:-------------	AuxK
+
+vesm9211-025-p58s3
+1	Radioaktivita	NNFS1-----A----	Sb
+2	vztažená	AAFS1----1A----	Atr
+3	na	RR--4----------	AuxP
+4	jednotku	NNFS4-----A----	Obj
+5	vyrobeného	AANS2----1A----	Atr
+6	množství	NNNS2-----A----	Atr
+7	energie	NNFS2-----A----	Atr
+8	klesá	VB-S---3P-AA---	Pred
+9	s	RR--7----------	AuxP
+10	vyhořením	NNNS7-----A----	Adv
+11	.	Z:-------------	AuxK
+
+vesm9211-025-p58s4
+1	Nicméně	J^-------------	AuxY
+2	se	RV--7----------	AuxP
+3	současným	AANS7----1A----	Atr
+4	palivem	NNNS7-----A----	Adv
+5	je	VB-S---3P-AA---	Pred
+6	do	RR--2----------	AuxP
+7	r	NNIXX-----A---8	Adv
+8	.	Z:-------------	AuxG
+9	2015	C=-------------	Atr
+10	množství	NNNS1-----A----	Sb
+11	vyhořelého	AANS2----1A----	Atr
+12	paliva	NNNS2-----A----	Atr
+13	řádově	Dg-------1A----	Adv
+14	5000	C=-------------	Adv
+15	tun	NNFP2-----A----	Atr
+16	uranu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9211-025-p59s1
+1	PETR	NNMS1-----A----	Atr
+2	OTČENÁŠEK	NNMS1-----A----	ExD
+

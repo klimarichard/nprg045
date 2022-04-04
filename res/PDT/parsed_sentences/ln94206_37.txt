@@ -1,0 +1,117 @@
+ln94206-37-p1s1
+1	Kočárník	NNMS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	Obchod	NNIS1-----A----	ExD
+4	se	RV--7----------	AuxP
+5	SR	NNFXX-----A---8	Atr
+6	za	RR--4----------	AuxP
+7	tvrdé	AAFP4----1A----	Atr
+8	měny	NNFP4-----A----	Atr
+
+ln94206-37-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-37-p2s1B
+1	Česká	AAFS1----1A----	Atr
+2	republika	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	ale	J^-------------	Coord
+5	ani	J^-------------	AuxZ
+6	Slovensko	NNNS1-----A----	Sb
+7	nemají	VB-P---3P-NA---	Pred
+8	ekonomický	AAIS4----1A----	Atr
+9	důvod	NNIS4-----A----	Obj
+10	provádět	Vf--------A----	Atr
+11	nyní	Db-------------	Adv
+12	kurzové	AAFP4----1A----	Atr
+13	změny	NNFP4-----A----	Obj
+14	svých	P8XP2----------	Atr
+15	měn	NNFP2-----A----	Atr
+16	vůči	RR--3----------	AuxP
+17	ECU	NNNXX-----A---8	Adv
+18	v	RR--6----------	AuxP
+19	clearingovém	AANS6----1A----	Atr
+20	zúčtování	NNNS6-----A----	Adv
+21	vzájemného	AAIS2----1A----	Atr
+22	obchodu	NNIS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94206-37-p2s2
+1	Takové	PDFP1----------	Atr
+2	změny	NNFP1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	mohly	VpTP---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	v	RR--6----------	AuxP
+7	zahraničí	NNNS6-----A----	Adv
+8	nesprávně	Dg-------1N----	Adv
+9	pochopeny	VsTP---XX-AP---	Obj
+10	.	Z:-------------	AuxK
+
+ln94206-37-p2s3
+1	Proto	J^-------------	Coord
+2	je	VB-S---3P-AA---	Pred
+3	třeba	ACNS------A----	Pnom
+4	ve	RV--6----------	AuxP
+5	vzájemném	AANS6----1A----	Atr
+6	účtování	NNNS6-----A----	Adv
+7	postoupit	Vf--------A----	Sb
+8	za	RR--4----------	AuxP
+9	rámec	NNIS4-----A----	Adv
+10	platební	AAFS2----1A----	Atr
+11	smlouvy	NNFS2-----A----	Atr
+12	,	Z:-------------	Apos
+13	k	RR--3----------	AuxP
+14	platbám	NNFP3-----A----	Adv
+15	ve	RV--6----------	AuxP
+16	volně	Dg-------1A----	Adv
+17	směnitelných	AAFP6----1A----	Atr
+18	měnách	NNFP6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94206-37-p2s4
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ministr	NNMS1-----A----	Atr
+5	financí	NNFP2-----A----	Atr
+6	ČR	NNFXX-----A---8	Atr
+7	Ivan	NNMS1-----A----	Atr
+8	Kočárník	NNMS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94206-37-p2s5
+1	Konstatoval	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	je	VB-S---3P-AA---	Obj
+5	třeba	ACNS------A----	Pnom
+6	se	P7-X4----------	AuxT
+7	v	RR--6----------	AuxP
+8	zúčtování	NNNS6-----A----	Adv
+9	přizpůsobit	Vf--------A----	Sb
+10	nynějšímu	AAIS3----1A----	Atr
+11	stavu	NNIS3-----A----	Obj
+12	zahraničního	AAIS2----1A----	Atr
+13	obchodu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94206-37-p2s6
+1	Odmítl	VpYS---XR-AA--1	Pred
+2	znevýhodnit	Vf--------A----	Obj
+3	české	AAMP4----1A----	Atr
+4	vývozce	NNMP4-----A----	Obj
+5	proti	RR--3----------	AuxP
+6	exportérům	NNMP3-----A----	Adv
+7	ze	RV--2----------	AuxP
+8	třetích	CrFP2----------	Atr
+9	zemí	NNFP2-----A----	Atr
+10	úpravou	NNFS7-----A----	Adv
+11	kurzu	NNIS2-----A----	Atr
+12	české	AAFS2----1A----	Atr
+13	koruny	NNFS2-----A----	Atr
+14	vůči	RR--3----------	AuxP
+15	ECU	NNNXX-----A---8	Atr
+16	.	Z:-------------	AuxK
+

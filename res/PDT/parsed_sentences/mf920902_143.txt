@@ -1,0 +1,292 @@
+mf920902-143-p1s1
+1	Tádžická	AAFS1----1A----	Atr
+2	vláda	NNFS1-----A----	Sb
+3	jedná	VB-S---3P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	opozicí	NNFS7-----A----	Obj
+6	,	Z:-------------	Coord
+7	prezident	NNMS1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	ukrývá	VB-S---3P-AA---	Pred
+10	v	RR--6----------	AuxP
+11	kasárnách	NNFP6-----A----	Adv
+
+mf920902-143-p2s1
+1	Dušanbe	NNNXX-----A----	ExD
+2	-	Z:-------------	Coord
+3	Tádžická	AAFS1----1A----	Atr
+4	opozice	NNFS1-----A----	Sb
+5	začala	VpQW---XR-AA---	Pred
+6	včera	Db-------------	Adv
+7	dopoledne	Db-------------	Adv
+8	v	RR--6----------	AuxP
+9	Dušanbe	NNNXX-----A----	Adv
+10	jednat	Vf--------A----	Obj
+11	s	RR--7----------	AuxP
+12	republikovými	AAMP7----1A----	Atr
+13	činiteli	NNMP7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+mf920902-143-p2s2
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	podle	RR--2----------	AuxP
+4	agentury	NNFS2-----A----	Adv
+5	AP	NNFXX-----A----	Atr
+6	představitel	NNMS1-----A----	Sb
+7	tádžického	AAIS2----1A----	Atr
+8	zastupitelského	AAIS2----1A----	Atr
+9	úřadu	NNIS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Moskvě	NNFS6-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+mf920902-143-p2s3
+1	Jednání	NNNS1-----A----	Sb
+2	bylo	VpNS---XR-AA---	AuxV
+3	zahájeno	VsNS---XX-AP---	Pred
+4	po	RR--6----------	AuxP
+5	propuštění	NNNS6-----A----	Adv
+6	prvního	CrMS2----------	Atr
+7	náměstka	NNMS2-----A----	Atr
+8	předsedy	NNMS2-----A----	Atr
+9	republikové	AAFS2----1A----	Atr
+10	vlády	NNFS2-----A----	Atr
+11	Džamšeda	NNMS2-----A----	Atr
+12	Karimova	NNMS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	kterého	P4MS4----------	Obj
+15	opoziční	AAFP1----1A----	Atr
+16	síly	NNFP1-----A----	Sb
+17	společně	Dg-------1A----	AuxP
+18	s	RR--7----------	AuxP
+19	33	C=-------------	Atr
+20	vládními	AAMP7----1A----	Atr
+21	činiteli	NNMP7-----A----	Adv
+22	zajaly	VpTP---XR-AA---	Atr
+23	jako	J,-------------	AuxY
+24	rukojmí	NNNS4-----A----	Atv
+25	při	RR--6----------	AuxP
+26	pondělním	AAIS6----1A----	Atr
+27	útoku	NNIS6-----A----	Adv
+28	na	RR--4----------	AuxP
+29	prezidentský	AAIS4----1A----	Atr
+30	palác	NNIS4-----A----	Atr
+31	.	Z:-------------	AuxK
+
+mf920902-143-p3s1
+1	Rukojmí	NNMP1-----A----	Sb
+2	byli	VpMP---XR-AA---	AuxV
+3	odvezeni	VsMP---XX-AP---	Pred
+4	na	RR--4----------	AuxP
+5	neznámé	AANS4----1N----	Atr
+6	místo	NNNS4-----A----	Adv
+7	.	Z:-------------	AuxK
+
+mf920902-143-p3s2
+1	Opoziční	AAFP1----1A----	Atr
+2	síly	NNFP1-----A----	Sb
+3	oznámily	VpTP---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	je	PPXP4--3-------	Obj
+7	nepropustí	VB-P---3P-NA---	Obj
+8	,	Z:-------------	AuxX
+9	dokud	J,-------------	Adv
+10	s	RR--7----------	AuxP
+11	nimi	P5XP7--3-------	Obj
+12	vláda	NNFS1-----A----	Sb
+13	nezačne	VB-S---3P-NA---	Adv
+14	vyjednávat	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+mf920902-143-p4s1
+1	Karimov	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	podle	RR--2----------	AuxP
+4	agentury	NNFS2-----A----	Adv
+5	AP	NNFXX-----A----	Atr
+6	včera	Db-------------	Adv
+7	dopoledne	Db-------------	Adv
+8	vrátil	VpYS---XR-AA---	Pred
+9	do	RR--2----------	AuxP
+10	prezidentského	AAIS2----1A----	Atr
+11	paláce	NNIS2-----A----	Adv
+12	a	J^-------------	Coord
+13	společně	Dg-------1A----	AuxP
+14	s	RR--7----------	AuxP
+15	předsedou	NNMS7-----A----	Atr
+16	republikového	AAIS2----1A----	Atr
+17	parlamentu	NNIS2-----A----	Atr
+18	Akbarem	NNMS7-----A----	Atr
+19	Iskandarovem	NNMS7-----A----	Adv
+20	zahájil	VpYS---XR-AA---	Pred
+21	s	RR--7----------	AuxP
+22	opozicí	NNFS7-----A----	Adv
+23	rozhovory	NNIP4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+mf920902-143-p5s1
+1	Prezident	NNMS1-----A----	Atr
+2	Nabijev	NNMS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	údajně	Dg-------1A----	Adv
+5	ukrývá	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	nedaleké	AAFS6----1N----	Atr
+8	budově	NNFS6-----A----	Adv
+9	kasáren	NNFP2-----A----	Atr
+10	někdejší	AAFS2----1A----	Atr
+11	sovětské	AAFS2----1A----	Atr
+12	armády	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920902-143-p6s1
+1	Opozice	NNFS1-----A----	Sb
+2	mj	Db------------8	Adv
+3	.	Z:-------------	AuxG
+4	rovněž	Db-------------	Adv
+5	požadovala	VpQW---XR-AA---	Pred
+6	propuštění	NNNS4-----A----	Obj
+7	generála	NNMS2-----A----	Atr
+8	Nurul	NNMXX-----A----	Atr
+9	-	Z:-------------	AuxG
+10	lobekova	NNMS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	byl	VpYS---XR-AA---	AuxV
+14	zatčen	VsYS---XX-AP---	Atr
+15	pro	RR--4----------	AuxP
+16	podezření	NNNS4-----A----	Adv
+17	z	RR--2----------	AuxP
+18	účasti	NNFS2-----A----	Atr
+19	na	RR--6----------	AuxP
+20	atentátu	NNIS6-----A---1	Atr
+21	proti	RR--3----------	AuxP
+22	tádžickému	AAMS3----1A----	Atr
+23	generálnímu	AAMS3----1A----	Atr
+24	prokurátorovi	NNMS3-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf920902-143-p7s1
+1	Atentát	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	k	RR--3----------	AuxP
+4	němuž	P9ZS3----------	Obj
+5	došlo	VpNS---XR-AA---	Atr
+6	před	RR--7----------	AuxP
+7	týdnem	NNIS7-----A----	Adv
+8	,	Z:-------------	AuxX
+9	se	P7-X4----------	AuxT
+10	stal	VpYS---XR-AA---	Pred
+11	impulsem	NNIS7-----A----	Obj
+12	k	RR--3----------	AuxP
+13	novému	AANS3----1A----	Atr
+14	zostření	NNNS3-----A----	Atr
+15	situace	NNFS2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	Tádžikistánu	NNIS6-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920902-143-p7s2
+1	Nabijevovi	AUMP1M---------	Atr
+2	stoupenci	NNMP1-----A----	Sb
+3	obvinili	VpMP---XR-AA---	Pred
+4	z	RR--2----------	AuxP
+5	atentátu	NNIS2-----A----	Obj
+6	opozici	NNFS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+mf920902-143-p7s3
+1	Ta	PDFS1----------	Sb
+2	tvrdila	VpQW---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vraždu	NNFS4-----A----	Obj
+6	zorganizoval	VpYS---XR-AA---	Obj
+7	sám	PLYS1----------	Atv
+8	Nabijev	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	získal	VpYS---XR-AA---	Adv
+12	záminku	NNFS4-----A----	Obj
+13	k	RR--3----------	AuxP
+14	zásahu	NNIS3-----A----	Atr
+15	proti	RR--3----------	AuxP
+16	opozičním	AAFP3----1A----	Atr
+17	silám	NNFP3-----A----	Atr
+18	,	Z:-------------	AuxX
+19	nebo	J^-------------	Coord
+20	že	J,-------------	AuxC
+21	jde	VB-S---3P-AA---	Obj
+22	o	RR--4----------	AuxP
+23	vyřizování	NNNS4-----A----	Obj
+24	účtů	NNIP2-----A----	Atr
+25	mezi	RR--7----------	AuxP
+26	vládnoucími	AGIP7-----A----	Atr
+27	klany	NNIP7-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf920902-143-p8s1
+1	Představitelé	NNMP1-----A----	Sb
+2	opozice	NNFS2-----A----	Atr
+3	vytýkali	VpMP---XR-AA---	Pred
+4	Nabijevovi	NNMS3-----A----	Obj
+5	také	Db-------------	Adv
+6	jeho	PSXXXZS3-------	Atr
+7	úzké	AAFP4----1A----	Atr
+8	vazby	NNFP4-----A----	Obj
+9	s	RR--7----------	AuxP
+10	někdejší	AAFS7----1A----	Atr
+11	sovětskou	AAFS7----1A----	Atr
+12	armádou	NNFS7-----A----	Atr
+13	,	Z:-------------	AuxX
+14	jež	PJFS1----------	Sb
+15	je	VB-S---3P-AA---	Atr
+16	pod	RR--7----------	AuxP
+17	ruskou	AAFS7----1A----	Atr
+18	jurisdikcí	NNFS7-----A----	Adv
+19	.	Z:-------------	AuxK
+
+mf920902-143-p8s2
+1	Vyslovovali	VpMP---XR-AA---	Pred
+2	podezření	NNNS4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	Nabijev	NNMS1-----A----	Sb
+6	hledá	VB-S---3P-AA---	Atr
+7	u	RR--2----------	AuxP
+8	vojáků	NNMP2-----A----	Adv
+9	pomoc	NNFS4-----A----	Obj
+10	proti	RR--3----------	AuxP
+11	svým	P8XP3----------	Atr
+12	odpůrcům	NNMP3-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920902-143-p9s1
+1	Velitel	NNMS1-----A----	Sb
+2	motostřelecké	AAFS2----1A----	Atr
+3	divize	NNFS2-----A----	Atr
+4	dislokované	AAFS2----1A----	Atr
+5	v	RR--6----------	AuxP
+6	Dušanbe	NNNXX-----A----	Adv
+7	obvinil	VpYS---XR-AA---	Pred
+8	letos	Db-------------	Adv
+9	na	RR--6----------	AuxP
+10	jaře	NNNS6-----A----	Adv
+11	Nabijeva	NNMS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	se	P7-X4----------	AuxT
+15	několikrát	Co-------------	Adv
+16	snažil	VpYS---XR-AA---	Obj
+17	donutit	Vf--------A----	Obj
+18	armádu	NNFS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	aby	J,-------------	AuxC
+21	proti	RR--3----------	AuxP
+22	opozici	NNFS3-----A----	Obj
+23	zasáhla	VpQW---XR-AA---	Obj
+24	silou	NNFS7-----A----	Adv
+25	.	Z:-------------	AuxK
+

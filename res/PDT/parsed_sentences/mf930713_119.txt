@@ -1,0 +1,135 @@
+mf930713-119-p1s1
+1	Ve	RV--6----------	AuxP
+2	Francii	NNFS6-----A----	ExD
+3	dražší	AAIS1----2A----	Atr
+4	benzín	NNIS1-----A----	ExD
+
+mf930713-119-p2s1A
+1	Paříž	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930713-119-p2s1B
+1	Motoristé	NNMP1-----A----	Sb
+2	zaplatí	VB-P---3P-AA---	Pred
+3	ve	RV--6----------	AuxP
+4	Francii	NNFS6-----A----	Adv
+5	od	RR--2----------	AuxP
+6	včerejška	NNIS2-----A----	Adv
+7	za	RR--4----------	AuxP
+8	litr	NNIS4-----A----	Obj
+9	benzínu	NNIS2-----A----	Atr
+10	o	RR--4----------	AuxP
+11	0.33	C=-------------	Adv
+12	franku	NNIS2-----A----	Atr
+13	(	Z:-------------	Apos
+14	1.80	C=-------------	Adv
+15	Kč	NNFXX-----A----	Atr
+16	)	Z:-------------	AuxG
+17	více	Dg-------2A----	Obj
+18	.	Z:-------------	AuxK
+
+mf930713-119-p2s2
+1	Francouzská	AAFS1----1A----	Atr
+2	vláda	NNFS1-----A----	Sb
+3	totiž	Db-------------	AuxY
+4	zvýšila	VpQW---XR-AA---	Pred
+5	daň	NNFS4-----A----	Obj
+6	z	RR--2----------	AuxP
+7	pohonných	AAFP2----1A----	Atr
+8	hmot	NNFP2-----A----	Atr
+9	ze	RV--2----------	AuxP
+10	77.8	C=-------------	ExD
+11	na	RR--4----------	AuxP
+12	79.8	C=-------------	Obj
+13	procenta	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930713-119-p2s3
+1	Litr	NNIS1-----A----	Sb
+2	olovnatého	AAIS2----1A----	Atr
+3	benzínu	NNIS2-----A----	Atr
+4	(	Z:-------------	AuxG
+5	95	C=-------------	Atr
+6	oktanů	NNIP2-----A----	Atr
+7	)	Z:-------------	AuxG
+8	bude	VB-S---3F-AA---	AuxV
+9	stát	Vf--------A----	Pred
+10	okolo	RR--2----------	AuxP
+11	šesti	Cn-P2----------	Atr
+12	franků	NNIP2-----A----	Obj
+13	(	Z:-------------	Apos
+14	asi	TT-------------	AuxZ
+15	32.40	C=-------------	Obj
+16	Kč	NNFXX-----A----	Atr
+17	)	Z:-------------	AuxG
+18	,	Z:-------------	Coord
+19	stejné	AANS1----1A----	Atr
+20	množství	NNNS1-----A----	ExD
+21	bezolovnatého	AAIS2----1A----	Atr
+22	benzínu	NNIS2-----A----	Atr
+23	v	RR--6----------	AuxP
+24	průměru	NNIS6-----A----	ExD
+25	5.5	C=-------------	ExD
+26	franku	NNIS2-----A----	Atr
+27	(	Z:-------------	Apos
+28	asi	TT-------------	AuxZ
+29	30.50	C=-------------	ExD
+30	Kč	NNFXX-----A----	Atr
+31	)	Z:-------------	AuxG
+32	.	Z:-------------	AuxK
+
+mf930713-119-p2s4
+1	Motorová	AAFS1----1A----	Atr
+2	nafta	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	být	Vf--------A----	Obj
+5	zdražena	VsQW---XX-AP---	Pnom
+6	21	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	srpna	NNIS2-----A----	Adv
+9	a	J^-------------	Coord
+10	bude	VB-S---3F-AA---	AuxV
+11	se	P7-X4----------	AuxR
+12	prodávat	Vf--------A----	Pred
+13	asi	TT-------------	AuxZ
+14	za	RR--4----------	AuxP
+15	4.3	C=-------------	Adv
+16	franku	NNIS2-----A----	Atr
+17	(	Z:-------------	Apos
+18	asi	TT-------------	AuxZ
+19	23.40	C=-------------	Adv
+20	Kč	NNFXX-----A----	Atr
+21	)	Z:-------------	AuxG
+22	.	Z:-------------	AuxK
+
+mf930713-119-p3s1
+1	Ve	RV--6----------	AuxP
+2	Francii	NNFS6-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	pohonné	AAFP1----1A----	Atr
+5	hmoty	NNFP1-----A----	Sb
+6	levnější	AAFP1----2A----	Pnom
+7	u	RR--2----------	AuxP
+8	čerpacích	AAFP2----1A----	Atr
+9	stanic	NNFP2-----A----	Adv
+10	méně	Dg-------2A----	Adv
+11	známých	AAFP2----1A----	Atr
+12	firem	NNFP2-----A----	Atr
+13	(	Z:-------------	Apos
+14	Antar	NNIS1-----A----	Atr
+15	,	Z:-------------	Coord
+16	Avia	NNFS1-----A----	Atr
+17	)	Z:-------------	AuxG
+18	než	J,-------------	AuxC
+19	u	RR--2----------	AuxP
+20	proslulých	AAFP2----1A----	Atr
+21	společností	NNFP2-----A----	ExD
+22	(	Z:-------------	Apos
+23	Shell	NNIS1-----A----	ExD
+24	,	Z:-------------	AuxX
+25	Esso	NNNS1-----A----	ExD
+26	,	Z:-------------	Coord
+27	Total	NNIS1-----A----	ExD
+28	)	Z:-------------	AuxG
+29	.	Z:-------------	AuxK
+

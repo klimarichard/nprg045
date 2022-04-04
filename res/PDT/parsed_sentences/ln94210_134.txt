@@ -1,0 +1,327 @@
+ln94210-134-p1s1
+1	Tržní	AANS1----1A----	Atr
+2	chování	NNNS1-----A----	Sb
+3	banky	NNFS2-----A----	Atr
+4	připravilo	VpNS---XR-AA---	Pred
+5	stát	NNIS4-----A----	Obj
+6	o	RR--4----------	AuxP
+7	nemovitosti	NNFP4-----A----	Obj
+
+ln94210-134-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	il	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94210-134-p2s1B
+1	Způsob	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	jakým	P4ZS7----------	Adv
+4	Státní	AANS1----1A----	Atr
+5	pedagogické	AANS1----1A----	Atr
+6	nakladatelství	NNNS1-----A----	Sb
+7	(	Z:-------------	Apos
+8	n	AAXXX----1A---8	Atr
+9	.	Z:-------------	AuxG
+10	p	NNIXX-----A---8	Sb
+11	.	Z:-------------	AuxG
+12	SPN	NNNXX-----A---8	Atr
+13	)	Z:-------------	AuxG
+14	přišlo	VpNS---XR-AA---	Atr
+15	o	RR--4----------	AuxP
+16	své	P8FP4---------1	Atr
+17	nemovitosti	NNFP4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	je	VB-S---3P-AA---	Pred
+20	ojedinělý	AAIS1----1A----	Pnom
+21	.	Z:-------------	AuxK
+
+ln94210-134-p2s3
+1	Ekonomický	AAMS1----1A----	Atr
+2	ředitel	NNMS1-----A----	Atr
+3	podniku	NNIS2-----A----	Atr
+4	M	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Burdátš	NNMS1-----A----	Sb
+7	a	J^-------------	Coord
+8	podnikatel	NNMS1-----A----	Atr
+9	F	NNMXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	Talián	NNMS1-----A----	Sb
+12	využili	VpMP---XR-AA---	Pred
+13	díru	NNFS4-----A----	Obj
+14	v	RR--6----------	AuxP
+15	zákoně	NNIS6-----A----	Atr
+16	o	RR--6----------	AuxP
+17	velké	AAFS6----1A----	Atr
+18	privatizaci	NNFS6-----A----	Atr
+19	,	Z:-------------	AuxX
+20	který	P4YS1----------	Sb
+21	povoluje	VB-S---3P-AA---	Atr
+22	zastavit	Vf--------A----	Obj
+23	majetek	NNIS4-----A----	Obj
+24	státního	AAIS2----1A----	Atr
+25	podniku	NNIS2-----A----	Atr
+26	v	RR--6----------	AuxP
+27	procesu	NNIS6-----A---1	Adv
+28	privatizace	NNFS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94210-134-p3s1
+1	Budovy	NNFP1-----A----	Sb
+2	n	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	p	NNIXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	SPN	NNNXX-----A---8	Atr
+7	byly	VpTP---XR-AA---	Pred
+8	v	RR--6----------	AuxP
+9	zástavě	NNFS6-----A----	Adv
+10	u	RR--2----------	AuxP
+11	Komerční	AAFS2----1A----	Atr
+12	banky	NNFS2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	kterými	P4XP7----------	Adv
+15	podnik	NNIS1-----A----	Sb
+16	ručil	VpYS---XR-AA---	Atr
+17	za	RR--4----------	AuxP
+18	40	C=-------------	Atr
+19	mil	AAIS4----1A----	Atr
+20	.	Z:-------------	AuxG
+21	úvěr	NNIS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94210-134-p3s3
+1	Zástavní	AAFS1----1A----	Atr
+2	smlouva	NNFS1-----A----	Sb
+3	mezi	RR--7----------	AuxP
+4	KB	NNFXX-----A---8	Atr
+5	a	J^-------------	Coord
+6	n	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	p	NNIXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	SPN	NNNXX-----A---8	Atr
+11	neumožňovala	VpQW---XR-NA---	Pred
+12	převést	Vf--------A----	Obj
+13	zástavní	AANS4----1A----	Atr
+14	právo	NNNS4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	kohokoliv	PZM-4----------	Obj
+17	jiného	AAMS4----1A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-134-p3s5
+1	M	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Burdátš	NNMS1-----A----	Sb
+4	však	J^-------------	Coord
+5	podepsal	VpYS---XR-AA---	Pred
+6	dodatek	NNIS4-----A----	Obj
+7	k	RR--3----------	AuxP
+8	zástavní	AAFS3----1A----	Atr
+9	smlouvě	NNFS3-----A----	Atr
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	tuto	PDFS4----------	Atr
+13	podmínku	NNFS4-----A----	Obj
+14	ruší	VB-S---3P-AA---	Atr
+15	.	Z:-------------	AuxK
+
+ln94210-134-p3s6
+1	Zástavu	NNFS4-----A----	Obj
+2	převádí	VB-S---3P-AA---	Pred
+3	následně	Dg-------1A----	Adv
+4	KB	NNFXX-----A---8	Sb
+5	na	RR--4----------	AuxP
+6	Taliána	NNMS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	jelikož	J,-------------	AuxC
+9	ten	PDYS1----------	Sb
+10	se	P7-X4----------	AuxT
+11	zavázal	VpYS---XR-AA---	Adv
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	dluh	NNIS4-----A----	Obj
+15	nakladatelství	NNNS2-----A----	Atr
+16	u	RR--2----------	AuxP
+17	banky	NNFS2-----A----	Adv
+18	vyrovná	VB-S---3P-AA---	Obj
+19	.	Z:-------------	AuxK
+
+ln94210-134-p3s7
+1	Tím	PDZS7----------	Adv
+2	KB	NNFXX-----A---8	Sb
+3	od	RR--2----------	AuxP
+4	zástavní	AAFS2----1A----	Atr
+5	smlouvy	NNFS2-----A----	Obj
+6	odstoupila	VpQW---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	budovy	NNFP1-----A----	Sb
+9	však	J^-------------	Coord
+10	nadále	Db-------------	Adv
+11	patří	VB-P---3P-AA---	Pred
+12	n	AAXXX----1A---8	Atr
+13	.	Z:-------------	AuxG
+14	p	NNIXX-----A---8	Obj
+15	.	Z:-------------	AuxG
+16	SPN	NNNXX-----A---8	Atr
+17	,	Z:-------------	AuxX
+18	ale	J^-------------	Coord
+19	40	C=-------------	Obj
+20	mil	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	už	Db-------------	Adv
+23	dluží	VB-S---3P-AA---	Pred
+24	Taliánovi	NNMS3-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln94210-134-p3s9
+1	Ten	PDYS1----------	Sb
+2	chtěl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	aby	J,-------------	AuxC
+5	podnik	NNIS1-----A----	Sb
+6	celou	AAFS4----1A----	Atr
+7	částku	NNFS4-----A----	Obj
+8	okamžitě	Dg-------1A----	Adv
+9	uhradil	VpYS---XR-AA---	Obj
+10	.	Z:-------------	AuxK
+
+ln94210-134-p3s10
+1	Jelikož	J,-------------	AuxC
+2	n	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	p	NNIXX-----A---8	Sb
+5	.	Z:-------------	AuxG
+6	SPN	NNNXX-----A---8	Atr
+7	peníze	NNIP4-----A----	Obj
+8	neměl	VpYS---XR-NA---	Adv
+9	,	Z:-------------	AuxX
+10	Talián	NNMS1-----A----	Sb
+11	získal	VpYS---XR-AA---	Pred
+12	plnou	AAFS4----1A----	Atr
+13	moc	NNFS4-----A----	Obj
+14	od	RR--2----------	AuxP
+15	Burdátše	NNMS2-----A----	Obj
+16	,	Z:-------------	AuxX
+17	aby	J,-------------	AuxC
+18	budovy	NNFP4-----A----	Obj
+19	mohl	VpYS---XR-AA---	Adv
+20	prodat	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94210-134-p3s12
+1	Vzápětí	Db-------------	Adv
+2	budovy	NNFP4-----A----	Obj
+3	prodal	VpYS---XR-AA---	Pred
+4	a	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	s	NNFXX-----A---8	Obj
+7	.	Z:-------------	AuxG
+8	SPN	NNNXX-----A---8	Atr
+9	-	Z:-------------	Apos
+10	pedagogické	AANS1----1A----	Atr
+11	nakladatelství	NNNS1-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kde	Db-------------	Adv
+14	je	VB-S---3P-AA---	Atr
+15	podílníkem	NNMS7-----A----	Pnom
+16	,	Z:-------------	AuxX
+17	za	RR--4----------	AuxP
+18	37	C=-------------	Adv
+19	mil	NNIXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	Kč	NNFXX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94210-134-p3s15
+1	Díra	NNFS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	zákoně	NNIS6-----A----	Atr
+4	vznikla	VpQW---XR-AA--1	Pred
+5	z	RR--2----------	AuxP
+6	důvodu	NNIS2-----A----	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	banky	NNFP1-----A----	Sb
+10	nechtěly	VpTP---XR-NA---	Atr
+11	půjčovat	Vf--------A----	Obj
+12	bez	RR--2----------	AuxP
+13	zástavy	NNFS2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94210-134-p3s16
+1	Tvůrci	NNMP1-----A----	Sb
+2	zákona	NNIS2-----A----	Atr
+3	však	J^-------------	Coord
+4	upozornili	VpMP---XR-AA---	Pred
+5	peněžní	AAIP4----1A----	Atr
+6	ústavy	NNIP4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	to	PDNS4----------	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	zástavy	NNFP4-----A----	Obj
+12	stejně	Dg-------1A----	Adv
+13	nebudou	VB-P---3F-NA---	AuxV
+14	moci	Vf--------A----	Atr
+15	vymáhat	Vf--------A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94210-134-p3s17
+1	Hrozilo	VpNS---XR-AA---	Pred
+2	totiž	Db-------------	AuxY
+3	(	Z:-------------	AuxG
+4	jak	J,-------------	Adv
+5	se	P7-X4----------	AuxT
+6	to	PDNS1----------	Sb
+7	stalo	VpNS---XR-AA---	Pred
+8	v	RR--6----------	AuxP
+9	případě	NNIS6-----A----	AuxP
+10	n	AAXXX----1A---8	Atr
+11	.	Z:-------------	AuxG
+12	p	NNIXX-----A---8	Adv
+13	.	Z:-------------	AuxG
+14	SPN	NNNXX-----A---8	Atr
+15	)	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	banky	NNFP1-----A----	Sb
+19	začnou	VB-P---3P-AA---	Sb
+20	bez	RR--2----------	AuxP
+21	skrupulí	NNFP2-----A----	Adv
+22	převádět	Vf--------A----	Obj
+23	zástavní	AANP4----1A----	Atr
+24	práva	NNNP4-----A----	Obj
+25	na	RR--4----------	AuxP
+26	kohokoliv	PZM-4----------	Obj
+27	,	Z:-------------	AuxX
+28	kdo	PKM-1----------	Sb
+29	jim	PPXP3--3-------	Obj
+30	může	VB-S---3P-AA---	Atr
+31	vypůjčené	AAIP4----1A----	Atr
+32	peníze	NNIP4-----A----	Obj
+33	vrátit	Vf--------A----	Obj
+34	.	Z:-------------	AuxK
+
+ln94210-134-p3s19
+1	Kroky	NNIP4-----A----	Obj
+2	KB	NNFXX-----A---8	Atr
+3	v	RR--6----------	AuxP
+4	případě	NNIS6-----A----	AuxP
+5	budov	NNFP2-----A----	Atr
+6	n	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	p	NNIXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	SPN	NNNXX-----A---8	Atr
+11	považuje	VB-S---3P-AA---	Pred
+12	R	NNMXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	Češka	NNMS1-----A----	Sb
+15	za	RR--4----------	AuxP
+16	bezprecedentní	AAIP4----1A----	Obj
+17	.	Z:-------------	AuxK
+

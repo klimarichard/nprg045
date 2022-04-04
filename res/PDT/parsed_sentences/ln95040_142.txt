@@ -1,0 +1,332 @@
+ln95040-142-p1s1
+1	Moravcova	AUFS1M---------	Atr
+2	banka	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	mluvčího	NNMS2-----A----	Adv
+6	ČNB	NNFXX-----A---8	Atr
+7	výjimkou	NNFS7-----A----	Pnom
+
+ln95040-142-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95040-142-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-142-p3s1B
+1	Na	RR--6----------	AuxP
+2	české	AAFS6----1A----	Atr
+3	bankovní	AAFS6----1A----	Atr
+4	scéně	NNFS6-----A----	Adv
+5	se	P7-X4----------	AuxR
+6	s	RR--7----------	AuxP
+7	významnými	AAIP7----1A----	Atr
+8	či	J^-------------	Coord
+9	majoritními	AAIP7----1A----	Atr
+10	podíly	NNIP7-----A----	Obj
+11	peněžních	AAIP2----1A----	Atr
+12	ústavů	NNIP2-----A----	Atr
+13	neobchoduje	VB-S---3P-NA---	Pred
+14	.	Z:-------------	AuxK
+
+ln95040-142-p3s2
+1	Výjimkou	NNFS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	případ	NNIS1-----A----	Sb
+4	Kreditní	AAFS2----1A----	Atr
+5	a	J^-------------	Coord
+6	průmyslové	AAFS2----1A----	Atr
+7	banky	NNFS2-----A----	Atr
+8	(	Z:-------------	Apos
+9	původně	Dg-------1A----	Atr
+10	Ekobanky	NNFS2-----A----	Atr
+11	)	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	na	RR--6----------	AuxP
+15	přelomu	NNIS6-----A----	Adv
+16	let	NNNP2-----A----	Atr
+17	1991	C=-------------	Atr
+18	a	J^-------------	Coord
+19	1992	C=-------------	Atr
+20	změnila	VpQW---XR-AA---	Atr
+21	vlastníka	NNMS4-----A----	Obj
+22	celkem	Db-------------	AuxZ
+23	třikrát	Cv-------------	Adv
+24	.	Z:-------------	AuxK
+
+ln95040-142-p3s3
+1	LN	NNFPX-----A---8	Obj
+2	to	PDNS4----------	Obj
+3	sdělil	VpYS---XR-AA---	Pred
+4	Martin	NNMS1-----A----	Atr
+5	Švehla	NNMS1-----A----	Sb
+6	,	Z:-------------	Apos
+7	mluvčí	NNMS1-----A----	Sb
+8	centrální	AAFS2----1A----	Atr
+9	České	AAFS2----1A----	Atr
+10	národní	AAFS2----1A----	Atr
+11	banky	NNFS2-----A----	Atr
+12	(	Z:-------------	Apos
+13	ČNB	NNFXX-----A---8	Atr
+14	)	Z:-------------	AuxG
+15	.	Z:-------------	AuxK
+
+ln95040-142-p4s1
+1	Bankovní	AAFS1----1A----	Atr
+2	právní	AAFS1----1A----	Atr
+3	norma	NNFS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	do	RR--2----------	AuxP
+6	roku	NNIS2-----A---1	Adv
+7	1992	C=-------------	Atr
+8	o	RR--4----------	AuxP
+9	přesuny	NNIP4-----A----	Obj
+10	majetku	NNIS2-----A----	Atr
+11	jednotlivých	AAFP2----1A----	Atr
+12	peněžních	AAFP2----1A----	Atr
+13	institucí	NNFP2-----A----	Atr
+14	-	Z:-------------	AuxG
+15	tedy	Db-------------	Apos
+16	o	RR--4----------	AuxP
+17	zásadní	AAFP4----1A----	Atr
+18	změny	NNFP4-----A----	Obj
+19	hlavních	AAMP2----1A----	Atr
+20	a	J^-------------	Coord
+21	významných	AAMP2----1A----	Atr
+22	akcionářů	NNMP2-----A----	Atr
+23	-	Z:-------------	AuxG
+24	vůbec	Db-------------	AuxZ
+25	nestarala	VpQW---XR-NA---	Pred
+26	.	Z:-------------	AuxK
+
+ln95040-142-p4s2
+1	Od	RR--2----------	AuxP
+2	1	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	února	NNIS2-----A---1	Adv
+5	1992	C=-------------	Atr
+6	došlo	VpNS---XR-AA---	Pred
+7	ke	RV--3----------	AuxP
+8	změně	NNFS3-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95040-142-p4s3
+1	Zákon	NNIS1-----A----	Sb
+2	stanovil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	k	RR--3----------	AuxP
+6	převodu	NNIS3-----A----	Adv
+7	více	Dg-------2A----	AuxZ
+8	než	J,-------------	AuxY
+9	patnáctiprocentního	AAIS2----1A----	Atr
+10	podílu	NNIS2-----A----	Atr
+11	základního	AANS2----1A----	Atr
+12	jmění	NNNS2-----A----	Atr
+13	banky	NNFS2-----A----	Atr
+14	"	Z:-------------	AuxG
+15	provedeného	AAIS2----1A----	Atr
+16	v	RR--6----------	AuxP
+17	jedné	ClFS6----------	Atr
+18	nebo	J^-------------	Coord
+19	několika	Ca--6----------	Atr
+20	operacích	NNFP6-----A----	Adv
+21	na	RR--4----------	AuxP
+22	jakoukoli	PZFS4---------1	Atr
+23	jednu	ClFS4----------	Atr
+24	osobu	NNFS4-----A----	Adv
+25	nebo	J^-------------	Coord
+26	více	Dg-------2A----	Adv
+27	osob	NNFP2-----A----	Atr
+28	jednajících	AGFP2-----A----	Atr
+29	ve	RV--6----------	AuxP
+30	shodě	NNFS6-----A----	Adv
+31	"	Z:-------------	AuxG
+32	je	VB-S---3P-AA---	Obj
+33	třeba	ACNS------A----	Pnom
+34	získat	Vf--------A----	Sb
+35	souhlas	NNIS4-----A----	Obj
+36	ČNB	NNFXX-----A---8	Atr
+37	.	Z:-------------	AuxK
+
+ln95040-142-p5s1
+1	Od	RR--2----------	AuxP
+2	stejného	AANS2----1A----	Atr
+3	data	NNNS2-----A----	Adv
+4	(	Z:-------------	Apos
+5	1	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	2	C=-------------	Adv
+8	.	Z:-------------	AuxG
+9	1992	C=-------------	Atr
+10	)	Z:-------------	AuxG
+11	má	VB-S---3P-AA---	Pred
+12	centrální	AAFS1----1A----	Atr
+13	banka	NNFS1-----A----	Sb
+14	také	Db-------------	Adv
+15	možnost	NNFS4-----A----	Obj
+16	zkoumat	Vf--------A----	Atr
+17	původ	NNIS4-----A----	Obj
+18	kapitálu	NNIS2-----A----	Atr
+19	vkládaného	AAIS2----1A----	Atr
+20	do	RR--2----------	AuxP
+21	banky	NNFS2-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95040-142-p5s2
+1	"	Z:-------------	AuxG
+2	Schopnost	NNFS1-----A----	Sb
+3	jednotlivých	AAMP2----1A----	Atr
+4	zakladatelů	NNMP2-----A----	Atr
+5	složit	Vf--------A----	Atr
+6	požadovanou	AAFS4----1A----	Atr
+7	částku	NNFS4-----A----	Obj
+8	kapitálu	NNIS2-----A----	Atr
+9	je	VB-S---3P-AA---	AuxV
+10	posuzována	VsQW---XX-AP---	Obj
+11	podle	RR--2----------	AuxP
+12	jejich	PSXXXXP3-------	Atr
+13	ekonomické	AAFS2----1A----	Atr
+14	situace	NNFS2-----A----	Adv
+15	,	Z:-------------	AuxX
+16	doložené	AAFS2----1A----	Atr
+17	aktuálními	AAIP7----1A----	Atr
+18	výkazy	NNIP7-----A----	Obj
+19	,	Z:-------------	AuxX
+20	auditorskými	AAFP7----1A----	Atr
+21	zprávami	NNFP7-----A----	Obj
+22	,	Z:-------------	AuxX
+23	případně	Dg-------1A----	Coord
+24	i	J^-------------	AuxZ
+25	dalšími	AAFP7----1A----	Atr
+26	informacemi	NNFP7-----A----	Obj
+27	,	Z:-------------	AuxX
+28	které	P4FP4----------	Obj
+29	si	P7-X3----------	AuxT
+30	k	RR--3----------	AuxP
+31	tomu	PDZS3----------	Adv
+32	ČNB	NNFXX-----A---8	Sb
+33	vyžádá	VB-S---3P-AA---	Atr
+34	,	Z:-------------	AuxX
+35	"	Z:-------------	AuxG
+36	uvádí	VB-S---3P-AA---	Pred
+37	Švehla	NNMS1-----A----	Sb
+38	.	Z:-------------	AuxK
+
+ln95040-142-p6s1
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	dnes	Db-------------	Adv
+4	platný	AAIS1----1A----	Atr
+5	zákon	NNIS1-----A----	Sb
+6	o	RR--6----------	AuxP
+7	bankách	NNFP6-----A----	Atr
+8	zakotvuje	VB-S---3P-AA---	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	bankovní	AAFP4----1A----	Atr
+12	licence	NNFP4-----A----	Obj
+13	vydává	VB-S---3P-AA---	Obj
+14	ČNB	NNFXX-----A---8	Sb
+15	,	Z:-------------	AuxX
+16	dá	VB-S---3P-AA---	Pred
+17	se	P7-X4----------	AuxR
+18	tato	PDFS1----------	Atr
+19	norma	NNFS1-----A----	Sb
+20	poměrně	Dg-------1A----	Adv
+21	jednoduše	Dg-------1A----	Adv
+22	obejít	Vf--------A----	Obj
+23	.	Z:-------------	AuxK
+
+ln95040-142-p6s2
+1	Stačí	VB-S---3P-AA---	Pred
+2	si	P7-X3----------	Obj
+3	banku	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	i	J^-------------	AuxZ
+6	s	RR--7----------	AuxP
+7	licencí	NNFS7-----A----	Adv
+8	,	Z:-------------	AuxX
+9	koupit	Vf--------A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95040-142-p6s3
+1	Bankovní	AAIS1----1A----	Atr
+2	dohled	NNIS1-----A----	Sb
+3	centrální	AAFS2----1A----	Atr
+4	banky	NNFS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	takovém	PDZS6----------	Atr
+7	případě	NNIS6-----A----	Adv
+8	nemá	VB-S---3P-NA---	Pred
+9	šanci	NNFS4-----A----	Obj
+10	prověřit	Vf--------A----	Atr
+11	původ	NNIS4-----A----	Obj
+12	peněz	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	občanskou	AAFS4----1A----	Atr
+15	bezúhonnost	NNFS4-----A----	Obj
+16	ani	J^-------------	Coord
+17	odbornou	AAFS4----1A----	Atr
+18	způsobilost	NNFS4-----A----	Obj
+19	členů	NNMP2-----A----	Atr
+20	managementu	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95040-142-p7s1
+1	Popsaným	AAIS7----1A----	Atr
+2	způsobem	NNIS7-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	k	RR--3----------	AuxP
+5	bance	NNFS3-----A----	Adv
+6	a	J^-------------	Coord
+7	bankovní	AAFS3----1A----	Atr
+8	licenci	NNFS3-----A----	Adv
+9	dostal	VpYS---XR-AA---	Pred
+10	i	J^-------------	AuxZ
+11	poslední	AAMS1----1A----	Atr
+12	z	RR--2----------	AuxP
+13	majitelů	NNMP2-----A----	Atr
+14	Kreditní	AAFS2----1A----	Atr
+15	a	J^-------------	Coord
+16	průmyslové	AAFS2----1A----	Atr
+17	banky	NNFS2-----A----	Atr
+18	Antonín	NNMS1-----A----	Atr
+19	Moravec	NNMS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln95040-142-p7s2
+1	Kvůli	RR--3----------	AuxP
+2	špatnému	AANS3----1A----	Atr
+3	hospodaření	NNNS3-----A----	Adv
+4	uvalila	VpQW---XR-AA---	Pred
+5	centrální	AAFS1----1A----	Atr
+6	banka	NNFS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	září	NNNS6-----A----	Adv
+9	1993	C=-------------	Atr
+10	na	RR--4----------	AuxP
+11	jeho	PSXXXZS3-------	Atr
+12	peněžní	AAIS4----1A----	Atr
+13	ústav	NNIS4-----A----	Adv
+14	nucenou	AAFS4----1A----	Atr
+15	správu	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95040-142-p7s3
+1	Moravec	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	od	RR--2----------	AuxP
+4	prosince	NNIS2-----A----	Adv
+5	1994	C=-------------	Atr
+6	ve	RV--6----------	AuxP
+7	vyšetřovací	AAFS6----1A----	Atr
+8	vazbě	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+

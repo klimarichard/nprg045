@@ -1,0 +1,222 @@
+mf930713-117-p1s1
+1	Zápočty	NNIP1-----A----	ExD
+2	mezi	RR--7----------	AuxP
+3	podniky	NNIP7-----A----	Atr
+4	úspěšné	AAIP1----1A----	ExD
+
+mf930713-117-p2s1B
+1	Úspěchem	NNIS7-----A----	Adv
+2	skončil	VpYS---XR-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	včerejšího	AANS2----1A----	Atr
+5	vyjádření	NNNS2-----A----	Adv
+6	ministra	NNMS2-----A----	Atr
+7	průmyslu	NNIS2-----A----	Atr
+8	Vladimíra	NNMS2-----A----	Adv
+9	Dlouhého	NNMS2-----A----	Atr
+10	dvouměsíční	AAIS1----1A----	Atr
+11	cyklus	NNIS1-----A----	Sb
+12	zápočtů	NNIP2-----A----	Atr
+13	závazků	NNIP2-----A----	Atr
+14	a	J^-------------	Coord
+15	pohledávek	NNFP2-----A----	Atr
+16	českých	AAIP2----1A----	Atr
+17	a	J^-------------	Coord
+18	slovenských	AAIP2----1A----	Atr
+19	podniků	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf930713-117-p2s2
+1	Do	RR--2----------	AuxP
+2	operace	NNFS2-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	zapojilo	VpNS---XR-AA---	Pred
+5	4952	C=-------------	Sb
+6	firem	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+mf930713-117-p2s3
+1	Celková	AAFS1----1A----	Atr
+2	suma	NNFS1-----A----	Sb
+3	započtených	AAIP2----1A----	Atr
+4	závazků	NNIP2-----A----	Atr
+5	a	J^-------------	Coord
+6	pohledávek	NNFP2-----A----	Atr
+7	činila	VpQW---XR-AA---	Pred
+8	28.6	C=-------------	Obj
+9	miliardy	NNFS2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	z	RR--2----------	AuxP
+13	toho	PDZS2----------	Adv
+14	v	RR--6----------	AuxP
+15	České	AAFS6----1A----	Atr
+16	republice	NNFS6-----A----	Adv
+17	byly	VpTP---XR-AA---	AuxV
+18	započteny	VsTP---XX-AP---	Pred
+19	pohledávky	NNFP1-----A----	Sb
+20	a	J^-------------	Coord
+21	závazky	NNIP1-----A----	Sb
+22	za	RR--4----------	AuxP
+23	20.5	C=-------------	Atr
+24	miliardy	NNFS2-----A----	Atr
+25	korun	NNFP2-----A----	Atr
+26	a	J^-------------	Coord
+27	na	RR--6----------	AuxP
+28	Slovensku	NNNS6-----A----	ExD
+29	za	RR--4----------	AuxP
+30	8.1	C=-------------	ExD
+31	miliardy	NNFS2-----A----	Atr
+32	korun	NNFP2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+mf930713-117-p2s4
+1	Celková	AAFS1----1A----	Atr
+2	platební	AAFS1----1A----	Atr
+3	neschopnost	NNFS1-----A----	Sb
+4	podniků	NNIP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	ČR	NNFXX-----A---8	AtrAdv
+7	se	P7-X4----------	AuxT
+8	tak	Db-------------	Adv
+9	snížila	VpQW---XR-AA---	Pred
+10	o	RR--4----------	AuxP
+11	10.3	C=-------------	Adv
+12	miliardy	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	v	RR--6----------	AuxP
+15	SR	NNFXX-----A---8	ExD
+16	o	RR--4----------	AuxP
+17	čtyři	ClXP4----------	Atr
+18	miliardy	NNFP4-----A----	ExD
+19	korun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf930713-117-p3s1
+1	"	Z:-------------	AuxG
+2	Jestliže	J,-------------	AuxC
+3	se	P7-X4----------	AuxT
+4	z	RR--2----------	AuxP
+5	celkového	AAIS2----1A----	Atr
+6	objemu	NNIS2-----A----	Atr
+7	zhruba	Db-------------	AuxZ
+8	68	C=-------------	Atr
+9	miliard	NNFP2-----A----	Atr
+10	druhotné	AAFS2----1A----	Atr
+11	platební	AAFS2----1A----	Atr
+12	neschopnosti	NNFS2-----A----	Atr
+13	podařilo	VpNS---XR-AA---	Adv
+14	téměř	Db-------------	AuxZ
+15	čtvrtinu	CyFS4----------	Obj
+16	odbourat	Vf--------A----	Sb
+17	,	Z:-------------	AuxX
+18	považuji	VB-S---1P-AA--1	Obj
+19	to	PDNS4----------	Obj
+20	za	RR--4----------	AuxP
+21	úspěch	NNIS4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	"	Z:-------------	AuxG
+24	řekl	VpYS---XR-AA---	Pred
+25	Vladimír	NNMS1-----A----	Atr
+26	Dlouhý	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+mf930713-117-p3s2
+1	"	Z:-------------	AuxG
+2	Přes	RR--4----------	AuxP
+3	deset	Cn-S4----------	Sb
+4	miliard	NNFP2-----A----	Atr
+5	korun	NNFP2-----A----	Atr
+6	snížené	AAFS2----1A----	Atr
+7	platební	AAFS2----1A----	Atr
+8	neschopnosti	NNFS2-----A----	Atr
+9	představuje	VB-S---3P-AA---	Obj
+10	procento	NNNS4-----A----	Obj
+11	úspěšnosti	NNFS2-----A----	Atr
+12	u	RR--2----------	AuxP
+13	českých	AAIP2----1A----	Atr
+14	podniků	NNIP2-----A----	Atr
+15	22.3	C=-------------	Atr
+16	procenta	NNNS2-----A----	Atr
+17	ze	RV--2----------	AuxP
+18	46.1	C=-------------	Atr
+19	miliardy	NNFS2-----A----	Atr
+20	korun	NNFP2-----A----	Atr
+21	potvrzených	AAIP2----1A----	Atr
+22	závazků	NNIP2-----A----	Atr
+23	,	Z:-------------	Coord
+24	což	PE--1----------	Sb
+25	byl	VpYS---XR-AA---	Obj
+26	maximálně	Dg-------1A----	Adv
+27	dosažitelný	AAIS1----1A----	Atr
+28	efekt	NNIS1-----A----	Pnom
+29	,	Z:-------------	AuxX
+30	"	Z:-------------	AuxG
+31	dodal	VpYS---XR-AA---	Pred
+32	.	Z:-------------	AuxK
+
+mf930713-117-p3s3
+1	V	RR--6----------	AuxP
+2	SR	NNFXX-----A---8	Adv
+3	činila	VpQW---XR-AA---	Pred
+4	úspěšnost	NNFS1-----A----	Sb
+5	18.3	C=-------------	Obj
+6	procenta	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+mf930713-117-p4s1
+1	V	RR--6----------	AuxP
+2	ČR	NNFXX-----A---8	Adv
+3	se	P7-X4----------	AuxT
+4	do	RR--2----------	AuxP
+5	akce	NNFS2-----A----	Adv
+6	zapojilo	VpNS---XR-AA---	Pred
+7	3297	C=-------------	Sb
+8	podniků	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	to	PDNS1----------	AuxY
+11	znamená	VB-S---3P-AA---	Apos
+12	téměř	Db-------------	AuxZ
+13	tři	ClXP1----------	Atr
+14	procenta	NNNP1-----A----	Sb
+15	ze	RV--2----------	AuxP
+16	112	C=-------------	Atr
+17	tisíc	ClXS2----------	Atr
+18	subjektů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf930713-117-p4s2
+1	Tyto	PDFP1----------	Atr
+2	firmy	NNFP1-----A----	Sb
+3	vložily	VpTP---XR-AA---	Pred
+4	do	RR--2----------	AuxP
+5	zápočtů	NNIP2-----A----	Adv
+6	závazky	NNIP4-----A----	Obj
+7	za	RR--4----------	AuxP
+8	75	C=-------------	Atr
+9	miliard	NNFP2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930713-117-p4s3
+1	Z	RR--2----------	AuxP
+2	původně	Dg-------1A----	Adv
+3	vyčleněných	AAIP2----1A----	Atr
+4	prostředků	NNIP2-----A----	Adv
+5	českým	AAIS7----1A----	Atr
+6	Fondem	NNIS7-----A----	Obj
+7	národního	AAIS2----1A----	Atr
+8	majetku	NNIS2-----A----	Atr
+9	ve	RV--6----------	AuxP
+10	výši	NNFS6-----A----	Atr
+11	miliardy	NNFS2-----A----	Atr
+12	korun	NNFP2-----A----	Atr
+13	bylo	VpNS---XR-AA---	AuxV
+14	pro	RR--4----------	AuxP
+15	uskutečnění	NNNS4-----A----	Adv
+16	operace	NNFS2-----A----	Atr
+17	použito	VsNS---XX-AP---	Pred
+18	586	C=-------------	Sb
+19	milionů	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+

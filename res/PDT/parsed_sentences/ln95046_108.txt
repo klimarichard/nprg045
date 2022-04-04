@@ -1,0 +1,408 @@
+ln95046-108-p1s1
+1	Neplatičům	NNMP3-----A----	Adv
+2	SCP	NNNXX-----A---8	Sb
+3	nezruší	VB-S---3P-NA---	Pred
+4	účet	NNIS4-----A----	Obj
+
+ln95046-108-p2s1A
+1	Kdo	PKM-1----------	Sb
+2	nepožaduje	VB-S---3P-NA---	Sb
+3	nadstandardní	AAFP4----1A----	Atr
+4	služby	NNFP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	může	VB-S---3P-AA---	Pred
+7	se	RV--7----------	AuxP
+8	zaplacením	NNNS7-----A----	Obj
+9	poplatku	NNIS2-----A----	Atr
+10	otálet	Vf--------A----	Obj
+
+ln95046-108-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-108-p2s1C
+1	Celkem	Db-------------	AuxZ
+2	devět	Cn-S4----------	Obj
+3	nadstandardních	AAFP2----1A----	Atr
+4	služeb	NNFP2-----A----	Atr
+5	odmítá	VB-S---3P-AA---	Pred
+6	poskytovat	Vf--------A----	Obj
+7	Středisko	NNNS1-----A----	Sb
+8	cenných	AAIP2----1A----	Atr
+9	papírů	NNIP2-----A----	Atr
+10	(	Z:-------------	Apos
+11	SCP	NNNXX-----A---8	Sb
+12	)	Z:-------------	AuxG
+13	těm	PDXP3----------	Obj
+14	,	Z:-------------	AuxX
+15	kteří	P4MP1----------	Sb
+16	nezaplatili	VpMP---XR-NA---	Atr
+17	roční	AAIS4----1A----	Atr
+18	poplatek	NNIS4-----A----	Obj
+19	za	RR--4----------	AuxP
+20	vedení	NNNS4-----A----	Atr
+21	účtu	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95046-108-p2s2
+1	Nejběžnější	AAFS1----3A----	Pnom
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Adv
+4	je	VB-S---3P-AA---	Pred
+5	zrušení	NNNS1-----A----	Sb
+6	účtu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95046-108-p3s1
+1	SCP	NNNXX-----A---8	Sb
+2	rozeslalo	VpNS---XR-AA---	Pred
+3	akcionářům	NNMP3-----A----	Obj
+4	spolu	Db-------------	AuxP
+5	s	RR--7----------	AuxP
+6	výpisy	NNIP7-----A----	Adv
+7	složenku	NNFS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	41	C=-------------	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95046-108-p3s2
+1	Z	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	30	C=-------------	Obj
+4	korun	NNFP2-----A----	Atr
+5	činí	VB-S---3P-AA---	Pred
+6	poplatek	NNIS1-----A----	Sb
+7	za	RR--4----------	AuxP
+8	vedení	NNNS4-----A----	Atr
+9	účtu	NNIS2-----A----	Atr
+10	a	J^-------------	Coord
+11	11	C=-------------	ExD
+12	korun	NNFP2-----A----	Atr
+13	poštovné	NNNS1-----A----	ExD
+14	.	Z:-------------	AuxK
+
+ln95046-108-p3s3
+1	"	Z:-------------	AuxG
+2	Slušní	AAMP1----1A----	Atr
+3	lidé	NNMP1-----A---1	Sb
+4	zaplatí	VB-P---3P-AA---	Obj
+5	,	Z:-------------	AuxX
+6	"	Z:-------------	AuxG
+7	domnívá	VB-S---3P-AA---	Pred
+8	se	P7-X4----------	AuxT
+9	vedoucí	NNMS1-----A----	Atr
+10	sekce	NNFS2-----A----	Atr
+11	SCP	NNNXX-----A---8	Atr
+12	Jaroslav	NNMS1-----A----	Atr
+13	Houštecký	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln95046-108-p3s4
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1994	C=-------------	Atr
+4	neuhradila	VpQW---XR-NA---	Pred
+5	poplatek	NNIS4-----A----	Obj
+6	zhruba	Db-------------	AuxZ
+7	čtvrtina	CyFS1----------	Sb
+8	majitelů	NNMP2-----A----	Atr
+9	účtů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95046-108-p4s1
+1	Dosud	Db-------------	Adv
+2	neexistuje	VB-S---3P-NA---	Pred
+3	právní	AAIS1----1A----	Atr
+4	předpis	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	by	Vc-------------	AuxV
+8	donutil	VpYS---XR-AA---	Atr
+9	majitele	NNMP4-----A----	Obj
+10	účtů	NNIP2-----A----	Atr
+11	poplatek	NNIS4-----A----	Obj
+12	uhradit	Vf--------A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95046-108-p4s2
+1	Změnu	NNFS4-----A----	Obj
+2	by	Vc-------------	AuxV
+3	měla	VpQW---XR-AA---	Pred
+4	přinést	Vf--------A----	Obj
+5	novela	NNFS1-----A----	Sb
+6	zákona	NNIS2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	cenných	AAIP6----1A----	Atr
+9	papírech	NNIP6-----A----	Atr
+10	,	Z:-------------	AuxX
+11	kterou	P4FS4----------	Obj
+12	chystá	VB-S---3P-AA---	Atr
+13	ministerstvo	NNNS1-----A----	Sb
+14	financí	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-108-p4s3
+1	Od	RR--2----------	AuxP
+2	září	NNNS2-----A----	Adv
+3	loňského	AAIS2----1A----	Atr
+4	roku	NNIS2-----A---1	Atr
+5	SCP	NNNXX-----A---8	Sb
+6	trestá	VB-S---3P-AA---	Pred
+7	neplatiče	NNMP4-----A----	Obj
+8	tím	PDZS7----------	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	jim	PPXP3--3-------	Obj
+12	neposkytuje	VB-S---3P-NA---	Sb
+13	služby	NNFP4-----A----	Obj
+14	nad	RR--4----------	AuxP
+15	rámec	NNIS4-----A----	Atr
+16	zákona	NNIS2-----A----	Atr
+17	o	RR--6----------	AuxP
+18	cenných	AAIP6----1A----	Atr
+19	papírech	NNIP6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95046-108-p4s4
+1	Kromě	RR--2----------	AuxP
+2	zrušení	NNNS2-----A----	Adv
+3	účtu	NNIS2-----A----	Atr
+4	jde	VB-S---3P-AA---	Pred
+5	zejména	Db-------------	AuxZ
+6	o	RR--4----------	AuxP
+7	služby	NNFP4-----A----	Obj
+8	spojené	AAFP4----1A----	Atr
+9	s	RR--7----------	AuxP
+10	blokací	NNFS7-----A----	Obj
+11	účtu	NNIS2-----A----	Atr
+12	,	Z:-------------	Coord
+13	dispozičním	AANS7----1A----	Atr
+14	právem	NNNS7-----A----	Obj
+15	a	J^-------------	Coord
+16	vyhledávání	NNNS4-----A----	Obj
+17	v	RR--6----------	AuxP
+18	archívu	NNIS6-----A---1	Atr
+19	.	Z:-------------	AuxK
+
+ln95046-108-p5s1
+1	Zablokování	NNNS4-----A----	Obj
+2	účtu	NNIS2-----A----	Atr
+3	využívají	VB-P---3P-AA---	Pred
+4	zpravidla	Db-------------	Adv
+5	občané	NNMP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	kteří	P4MP1----------	Sb
+8	ztratili	VpMP---XR-AA---	Atr
+9	osobní	AAIP4----1A----	Atr
+10	dokumenty	NNIP4-----A----	Obj
+11	a	J^-------------	Coord
+12	obávají	VB-P---3P-AA---	Atr
+13	se	P7-X4----------	AuxT
+14	manipulace	NNFS2-----A----	Obj
+15	s	RR--7----------	AuxP
+16	účtem	NNIS7-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95046-108-p5s2
+1	Další	AAFS7----1A----	Atr
+2	nadstandardní	AAFS7----1A----	Atr
+3	službou	NNFS7-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	kterou	P4FS4----------	Obj
+6	SCP	NNNXX-----A---8	Sb
+7	odmítá	VB-S---3P-AA---	Atr
+8	neplatičům	NNMP3-----A----	Adv
+9	,	Z:-------------	AuxX
+10	je	VB-S---3P-AA---	Pred
+11	zaregistrovat	Vf--------A----	Sb
+12	osobu	NNFS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	již	PJFS4----------	Obj
+15	majitel	NNMS1-----A----	Sb
+16	pověřil	VpYS---XR-AA---	Atr
+17	disponovat	Vf--------A----	Obj
+18	s	RR--7----------	AuxP
+19	účtem	NNIS7-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln95046-108-p5s3
+1	Kdo	PKM-1----------	Sb
+2	neuhradí	VB-S---3P-NA---	Sb
+3	poplatek	NNIS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	nemůže	VB-S---3P-NA---	Pred
+6	počítat	Vf--------A----	Obj
+7	ani	J^-------------	AuxZ
+8	s	RR--7----------	AuxP
+9	tím	PDZS7----------	Obj
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	s	RR--7----------	AuxP
+13	ním	P5ZS7--3-------	Obj
+14	bude	VB-S---3F-AA---	AuxV
+15	SCP	NNNXX-----A---8	Sb
+16	komunikovat	Vf--------A----	Atr
+17	mimo	RR--4----------	AuxP
+18	jeho	PSXXXZS3-------	Atr
+19	trvalé	AANS4----1A----	Atr
+20	bydliště	NNNS4-----A----	Adv
+21	,	Z:-------------	Coord
+22	což	PE--1----------	Sb
+23	má	VB-S---3P-AA---	Atr
+24	význam	NNIS4-----A----	Obj
+25	například	Db-------------	AuxZ
+26	při	RR--6----------	AuxP
+27	dlouhodobém	AAIS6----1A----	Atr
+28	pobytu	NNIS6-----A---1	Adv
+29	v	RR--6----------	AuxP
+30	cizině	NNFS6-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95046-108-p6s1
+1	Pokud	J,-------------	AuxC
+2	majitel	NNMS1-----A----	Sb
+3	účtu	NNIS2-----A----	Atr
+4	od	RR--2----------	AuxP
+5	SCP	NNNXX-----A---8	Obj
+6	nepožaduje	VB-S---3P-NA---	Adv
+7	nadstandardní	AAFS4----1A----	Atr
+8	službu	NNFS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	může	VB-S---3P-AA---	Pred
+11	podle	RR--2----------	AuxP
+12	současných	AAFP2----1A----	Atr
+13	platných	AAFP2----1A----	Atr
+14	norem	NNFP2-----A----	Adv
+15	se	RV--7----------	AuxP
+16	zaplacením	NNNS7-----A----	Obj
+17	poplatku	NNIS2-----A----	Atr
+18	otálet	Vf--------A----	Obj
+19	.	Z:-------------	AuxK
+
+ln95046-108-p6s2
+1	Stačí	VB-S---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	když	J,-------------	AuxC
+4	doklad	NNIS4-----A----	Obj
+5	o	RR--6----------	AuxP
+6	úhradě	NNFS6-----A----	Atr
+7	poplatku	NNIS2-----A----	Atr
+8	(	Z:-------------	Apos
+9	útržek	NNIS4-----A----	Obj
+10	složenky	NNFS2-----A----	Atr
+11	)	Z:-------------	AuxG
+12	předloží	VB-S---3P-AA---	Sb
+13	až	TT-------------	AuxZ
+14	společně	Dg-------1A----	AuxP
+15	s	RR--7----------	AuxP
+16	požadavkem	NNIS7-----A----	Adv
+17	na	RR--4----------	AuxP
+18	službu	NNFS4-----A----	Atr
+19	u	RR--2----------	AuxP
+20	přepážky	NNFS2-----A----	Adv
+21	SCP	NNNXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+
+ln95046-108-p7s1
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	přichází	VB-S---3P-AA---	Pred
+5	do	RR--2----------	AuxP
+6	centrály	NNFS2-----A----	Adv
+7	SCP	NNNXX-----A---8	Atr
+8	až	TT-------------	AuxZ
+9	500	C=-------------	Sb
+10	dopisů	NNIP2-----A----	Atr
+11	denně	Dg-------1A----	Adv
+12	.	Z:-------------	AuxK
+
+ln95046-108-p7s2
+1	Lidé	NNMP1-----A---1	Sb
+2	většinou	Db-------------	Adv
+3	žádají	VB-P---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	zrušení	NNNS4-----A----	Obj
+6	účtu	NNIS2-----A----	Atr
+7	nebo	J^-------------	Coord
+8	hlásí	VB-P---3P-AA---	Pred
+9	změnu	NNFS4-----A----	Obj
+10	osobních	AAIP2----1A----	Atr
+11	údajů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95046-108-p7s3
+1	"	Z:-------------	AuxG
+2	To	PDNS1----------	Sb
+3	je	VB-S---3P-AA---	Obj
+4	nesprávný	AAIS1----1N----	Atr
+5	postup	NNIS1-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	"	Z:-------------	AuxG
+8	řekl	VpYS---XR-AA---	Pred
+9	J	NNMXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	Houštecký	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln95046-108-p7s4
+1	Podle	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	nutné	AANS1----1A----	Pnom
+5	formality	NNFP4-----A----	Obj
+6	i	J^-------------	Coord
+7	manipulaci	NNFS4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	účtem	NNIS7-----A----	Atr
+10	vyřídit	Vf--------A----	Sb
+11	osobně	Dg-------1A----	Adv
+12	nebo	J^-------------	Coord
+13	prostřednictvím	NNNS7-----A----	AuxP
+14	zplnomocněného	AAMS2----1A----	Atr
+15	zástupce	NNMS2-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95046-108-p8s1
+1	Při	RR--6----------	AuxP
+2	kontaktu	NNIS6-----A----	Adv
+3	s	RR--7----------	AuxP
+4	SCP	NNNXX-----A---8	Atr
+5	je	VB-S---3P-AA---	Pred
+6	třeba	ACNS------A----	Pnom
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	majitel	NNMS1-----A----	Sb
+10	znal	VpYS---XR-AA---	Sb
+11	registrační	AANS4----1A----	Atr
+12	číslo	NNNS4-----A----	Obj
+13	účtu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95046-108-p8s2
+1	Vyhledání	NNNS1-----A----	Sb
+2	čísla	NNNS2-----A----	Atr
+3	stojí	VB-S---3P-AA---	Pred
+4	sto	NNNS4-----A----	Obj
+5	korun	NNFP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	takže	J,-------------	AuxC
+8	např	Db------------8	AuxZ
+9	.	Z:-------------	AuxG
+10	zrušení	NNNS1-----A----	Sb
+11	účtu	NNIS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	které	P4NS1----------	Sb
+14	je	VB-S---3P-AA---	Atr
+15	po	RR--6----------	AuxP
+16	zaplacení	NNNS6-----A----	Adv
+17	ročního	AAIS2----1A----	Atr
+18	poplatku	NNIS2-----A----	Atr
+19	zdarma	Db-------------	Adv
+20	,	Z:-------------	AuxX
+21	se	P7-X4----------	AuxT
+22	může	VB-S---3P-AA---	Adv
+23	prodražit	Vf--------A----	Obj
+24	.	Z:-------------	AuxK
+

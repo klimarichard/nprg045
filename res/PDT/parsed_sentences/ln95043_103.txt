@@ -1,0 +1,111 @@
+ln95043-103-p1s1
+1	Stavebníci	NNMP1-----A----	Sb
+2	mají	VB-P---3P-AA---	Pred
+3	nové	AANS4----1A----	Atr
+4	centrum	NNNS4-----A----	Obj
+5	informací	NNFP2-----A----	Atr
+
+ln95043-103-p2s1A
+1	Hradec	NNIS1-----A----	ExD
+2	Králové	NNFS2-----A----	Atr
+3	-	Z:-------------	AuxK
+
+ln95043-103-p2s1B
+1	Vzorkovnu	NNFS4-----A----	Obj
+2	stavebních	AAIP2----1A----	Atr
+3	materiálů	NNIP2-----A----	Atr
+4	a	J^-------------	Coord
+5	výrobků	NNIP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	by	Vc-------------	AuxV
+9	podpořila	VpQW---XR-AA---	Atr
+10	pracovní	AAFP4----1A----	Atr
+11	a	J^-------------	Coord
+12	informační	AAFP4----1A----	Atr
+13	podmínky	NNFP4-----A----	Obj
+14	pro	RR--4----------	AuxP
+15	projektanty	NNMP4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	dodavatele	NNMP4-----A----	Atr
+18	,	Z:-------------	AuxX
+19	investory	NNMP4-----A----	Atr
+20	i	J^-------------	Coord
+21	stavařskou	AAFS4----1A----	Atr
+22	veřejnost	NNFS4-----A----	Atr
+23	,	Z:-------------	AuxX
+24	otevře	VB-S---3P-AA---	Pred
+25	22	C=-------------	Atr
+26	.	Z:-------------	AuxG
+27	února	NNIS2-----A---1	Adv
+28	v	RR--6----------	AuxP
+29	Hradci	NNIS6-----A----	Adv
+30	Králové	NNFS2-----A----	Atr
+31	společnost	NNFS1-----A----	Sb
+32	Hradecké	AANS1----1A----	Atr
+33	stavební	AANS1----1A----	Atr
+34	centrum	NNNS1-----A----	Atr
+35	.	Z:-------------	AuxK
+
+ln95043-103-p3s1
+1	Své	P8FP4---------1	Atr
+2	expozice	NNFP4-----A----	Obj
+3	ve	RV--6----------	AuxP
+4	vzorkovně	NNFS6-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	mít	Vf--------A----	Pred
+7	okolo	RR--2----------	AuxP
+8	60	C=-------------	Atr
+9	stavebních	AAFP2----1A----	Atr
+10	firem	NNFP2-----A----	Sb
+11	,	Z:-------------	Apos
+12	výrobců	NNMP2-----A----	Sb
+13	stavebních	AAFP2----1A----	Atr
+14	hmot	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	stavebních	AAIP2----1A----	Atr
+17	materiálů	NNIP2-----A----	Atr
+18	a	J^-------------	Coord
+19	doplňků	NNIP2-----A----	Atr
+20	z	RR--2----------	AuxP
+21	celé	AAFS2----1A----	Atr
+22	České	AAFS2----1A----	Atr
+23	republiky	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95043-103-p3s2
+1	Vzorkovna	NNFS1-----A----	Sb
+2	byla	VpQW---XR-AA---	AuxV
+3	připravena	VsQW---XX-AP---	Pred
+4	ve	RV--6----------	AuxP
+5	spolupráci	NNFS6-----A----	AuxP
+6	s	RR--7----------	AuxP
+7	nadací	NNFS7-----A----	Adv
+8	ABF	NNXXX-----A---8	Atr
+9	Praha	NNFS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	která	P4FS1----------	Sb
+12	je	VB-S---3P-AA---	Atr
+13	jedním	ClZS7----------	Pnom
+14	z	RR--2----------	AuxP
+15	garantů	NNMP2-----A----	Atr
+16	informační	AAFS2----1A----	Atr
+17	činnosti	NNFS2-----A----	Atr
+18	ve	RV--6----------	AuxP
+19	stavebnictví	NNNS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95043-103-p4s1
+1	Současně	Dg-------1A----	Adv
+2	se	RV--7----------	AuxP
+3	zahájením	NNNS7-----A----	Adv
+4	provozu	NNIS2-----A----	Atr
+5	vzorkovny	NNFS2-----A----	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	otevřeno	VsNS---XX-AP---	Pred
+8	i	J^-------------	AuxZ
+9	Informační	AANS1----1A----	Atr
+10	centrum	NNNS1-----A----	Sb
+11	stavařů	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+

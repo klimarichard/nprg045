@@ -1,0 +1,2340 @@
+ln94203-85-p1s1
+1	Co	PQ--4----------	Obj
+2	nám	PP-P3--1-------	Obj
+3	chce	VB-S---3P-AA---	Pred
+4	příroda	NNFS1-----A----	Sb
+5	dát	Vf--------A----	Obj
+6	alergiemi	NNFP7-----A----	Adv
+7	najevo	Db-------------	Adv
+
+ln94203-85-p2s1A
+1	Radka	NNFS1-----A----	Atr
+2	Pechová	NNFS1-----A----	ExD
+
+ln94203-85-p2s1B
+1	Hysterie	NNFS1-----A----	ExD
+2	systému	NNIS2-----A----	Atr
+3	obranyschopnosti	NNFS2-----A----	Atr
+
+ln94203-85-p2s1C
+1	Alergie	NNFS1-----A----	Sb
+2	není	VB-S---3P-NA---	Pred
+3	nemoc	NNFS1-----A----	Pnom
+4	,	Z:-------------	Coord
+5	je	VB-S---3P-AA---	Pred
+6	to	PDNS1----------	Sb
+7	stav	NNIS1-----A----	Pnom
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	člověk	NNMS1-----A----	Sb
+11	reaguje	VB-S---3P-AA---	Atr
+12	jinak	Db-------------	Adv
+13	,	Z:-------------	AuxX
+14	než	J,-------------	AuxC
+15	je	VB-S---3P-AA---	Adv
+16	běžné	AANS1----1A----	Pnom
+17	.	Z:-------------	AuxK
+
+ln94203-85-p2s2
+1	Název	NNIS1-----A----	Sb
+2	vznikl	VpYS---XR-AA--1	Pred
+3	z	RR--2----------	AuxP
+4	řeckého	AANS2----1A----	Atr
+5	all	Db-------------	Obj
+6	-	Z:-------------	Apos
+7	jinak	Db-------------	Obj
+8	a	J^-------------	Coord
+9	ergein	Vf--------A----	Obj
+10	-	Z:-------------	Apos
+11	reagovat	Vf--------A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94203-85-p2s3
+1	Skutečně	Dg-------1A----	Adv
+2	vážné	AANS1----1A----	Pnom
+3	by	Vc-------------	AuxV
+4	bylo	VpNS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	kdyby	J,-------------	AuxC
+7	organismus	NNIS1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	zevní	AAIS4----1A----	Atr
+10	podnět	NNIS4-----A----	Obj
+11	nereagoval	VpYS---XR-NA---	Sb
+12	.	Z:-------------	AuxK
+13	.	Z:-------------	AuxK
+14	.	Z:-------------	AuxK
+
+ln94203-85-p2s4
+1	Alergie	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	tak	Db-------------	Adv
+4	trochu	Db-------------	Adv
+5	hysterie	NNFS1-----A----	Pnom
+6	systému	NNIS2-----A----	Atr
+7	obranyschopnosti	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94203-85-p3s1
+1	(	Z:-------------	ExD
+2	Výňatek	NNIS1-----A----	ExD
+3	z	RR--2----------	AuxP
+4	publikace	NNFS2-----A----	Atr
+5	Víme	VB-P---1P-AA---	Atr
+6	si	P7-X3----------	Adv
+7	rady	NNFS2-----A----	Obj
+8	s	RR--7----------	AuxP
+9	alergií	NNFS7-----A----	Adv
+10	,	Z:-------------	AuxX
+11	kterou	P4FS4----------	Obj
+12	vydala	VpQW---XR-AA---	Atr
+13	vzdělávací	AAFS1----1A----	Atr
+14	agentura	NNFS1-----A----	Sb
+15	ERASMUS	NNIS1-----A----	Atr
+16	ve	RV--6----------	AuxP
+17	spolupráci	NNFS6-----A----	Adv
+18	se	RV--7----------	AuxP
+19	Státním	AAIS7----1A----	Atr
+20	zdravotním	AAIS7----1A----	Atr
+21	ústavem	NNIS7-----A----	Atr
+22	,	Z:-------------	ExD
+23	Praha	NNFS1-----A----	ExD
+24	1993	C=-------------	Atr
+25	)	Z:-------------	ExD
+26	Rozkvetlým	AANS7----1A----	Atr
+27	městem	NNNS7-----A----	Adv
+28	chodí	VB-P---3P-AA---	Pred
+29	kýchající	AGMP1-----A----	Atr
+30	lidé	NNMP1-----A---1	Sb
+31	s	RR--7----------	AuxP
+32	červenými	AAIP7----1A----	Atr
+33	nosy	NNIP7-----A----	Atr
+34	,	Z:-------------	Coord
+35	oteklýma	AAFD7----1A----	Atr
+36	očima	NNFD7-----A----	Atr
+37	,	Z:-------------	AuxX
+38	plnýma	AAFD7----1A----	Atr
+39	slz	NNFP2-----A----	Obj
+40	,	Z:-------------	AuxX
+41	a	J^-------------	Coord
+42	z	RR--2----------	AuxP
+43	kapes	NNFP2-----A----	Adv
+44	jim	PPXP3--3-------	Adv
+45	vypadávají	VB-P---3P-AA---	Pred
+46	papírové	AAIP1----1A----	Atr
+47	kapesníky	NNIP1-----A----	Sb
+48	.	Z:-------------	AuxK
+
+ln94203-85-p3s2
+1	Děti	NNFP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	čekárnách	NNFP6-----A----	Adv
+4	u	RR--2----------	AuxP
+5	lékařů	NNMP2-----A----	AtrAdv
+6	astmaticky	Dg-------1A----	Adv
+7	pokašlávají	VB-P---3P-AA---	Pred
+8	a	J^-------------	Coord
+9	rodiče	NNMP1-----A----	Sb
+10	se	P7-X4----------	AuxT
+11	ptají	VB-P---3P-AA---	Pred
+12	:	Z:-------------	AuxG
+13	Nebude	VB-S---3F-NA---	Obj
+14	z	RR--2----------	AuxP
+15	něj	P5ZS2--3-------	Obj
+16	alergik	NNMS1-----A----	Sb
+17	?	Z:-------------	AuxK
+
+ln94203-85-p4s1
+1	Lidský	AAIS1----1A----	Atr
+2	organismus	NNIS1-----A----	Sb
+3	neustále	Dg-------1A----	Adv
+4	přichází	VB-S---3P-AA---	Pred
+5	do	RR--2----------	AuxP
+6	styku	NNIS2-----A----	Adv
+7	s	RR--7----------	AuxP
+8	látkami	NNFP7-----A----	Atr
+9	vnějšího	AANS2----1A----	Atr
+10	prostředí	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	reaguje	VB-S---3P-AA---	Pred
+13	na	RR--4----------	AuxP
+14	ně	P5XP4--3-------	Obj
+15	.	Z:-------------	AuxK
+
+ln94203-85-p4s2
+1	Setkání	NNNS1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	antigenem	NNIS7-----A----	Atr
+4	vyvolává	VB-S---3P-AA---	Pred
+5	tvorbu	NNFS4-----A----	Obj
+6	obranné	AAFS2----1A----	Atr
+7	látky	NNFS2-----A----	Atr
+8	-	Z:-------------	Apos
+9	protilátky	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-85-p4s3
+1	Způsobí	VB-S---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	antigen	NNIS1-----A----	Sb
+5	neúměrnou	AAFS4----1N----	Atr
+6	-	Z:-------------	AuxG
+7	alergickou	AAFS4----1A----	Atr
+8	-	Z:-------------	AuxG
+9	reakci	NNFS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	nazýváme	VB-P---1P-AA---	Pred
+12	jej	PPZS4--3------2	Obj
+13	alergenem	NNIS7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94203-85-p4s4A
+1	V	RR--6----------	AuxP
+2	těle	NNNS6-----A----	Adv
+3	alergického	AAMS2----1A----	Atr
+4	člověka	NNMS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	po	RR--6----------	AuxP
+7	styku	NNIS6-----A----	Adv
+8	s	RR--7----------	AuxP
+9	alergenem	NNIS7-----A----	Atr
+10	začínají	VB-P---3P-AA---	Pred
+11	uvolňovat	Vf--------A----	Obj
+12	látky	NNFP1-----A----	Sb
+13	vedoucí	AGFP1-----A----	Atr
+14	ke	RV--3----------	AuxP
+15	klinickým	AAIP3----1A----	Atr
+16	projevům	NNIP3-----A----	Adv
+17	alergie	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94203-85-p4s4B
+1	MUDr	NNFXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Hana	NNFS1-----A----	Atr
+4	Drahoňovská	NNFS1-----A----	Sb
+5	z	RR--2----------	AuxP
+6	Národní	AAFS2----1A----	Atr
+7	referenční	AAFS2----1A----	Atr
+8	laboratoře	NNFS2-----A----	Atr
+9	pro	RR--4----------	AuxP
+10	faktory	NNIP4-----A----	Atr
+11	vnitřního	AANS2----1A----	Atr
+12	prostředí	NNNS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	se	P7-X4----------	AuxT
+16	zabývá	VB-S---3P-AA---	Atr
+17	alergiemi	NNFP7-----A----	Obj
+18	z	RR--2----------	AuxP
+19	hlediska	NNNS2-----A----	AuxP
+20	prevence	NNFS2-----A----	Adv
+21	,	Z:-------------	AuxX
+22	říká	VB-S---3P-AA---	Pred
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	alergie	NNFP1-----A----	Sb
+26	jsou	VB-P---3P-AA---	Obj
+27	hlavně	Dg-------1A----	Adv
+28	nemocemi	NNFP7-----A----	Pnom
+29	z	RR--2----------	AuxP
+30	prostředí	NNNS2-----A----	Atr
+31	,	Z:-------------	AuxX
+32	v	RR--6----------	AuxP
+33	němž	P9ZS6----------	Adv
+34	žijeme	VB-P---1P-AA---	Atr
+35	.	Z:-------------	AuxK
+
+ln94203-85-p4s5
+1	Může	VB-S---3P-AA---	Pred
+2	je	PPXP4--3-------	Obj
+3	vyvolávat	Vf--------A----	Obj
+4	prach	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	roztoči	NNMP1-----A----	Sb
+7	nebo	J^-------------	Coord
+8	třeba	Db-------------	AuxZ
+9	peří	NNNS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94203-85-p4s6
+1	Všechny	PLFP1----------	Atr
+2	tyto	PDFP1----------	Atr
+3	složky	NNFP1-----A----	Sb
+4	jsou	VB-P---3P-AA---	Pred
+5	běžnou	AAFS7----1A----	Atr
+6	součástí	NNFS7-----A----	Pnom
+7	našich	PSXP2-P1-------	Atr
+8	bytů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94203-85-p4s7
+1	Převážná	AAFS1----1A----	Atr
+2	většina	NNFS1-----A----	Sb
+3	alergií	NNFP2-----A----	Atr
+4	je	VB-S---3P-AA---	AuxV
+5	způsobena	VsQW---XX-AP---	Pred
+6	přírodními	AAFP7----1A----	Atr
+7	látkami	NNFP7-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94203-85-p5s1A
+1	Neviditelní	AAMP1----1N----	Atr
+2	spolubydlící	NNMP1-----A----	ExD
+
+ln94203-85-p5s1B
+1	Prvním	CrIS7----------	Atr
+2	alergenem	NNIS7-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	se	RV--7----------	AuxP
+5	kterým	P4ZS7----------	Obj
+6	se	P7-X4----------	AuxT
+7	dítě	NNNS1-----A----	Sb
+8	setká	VB-S---3P-AA---	Atr
+9	,	Z:-------------	AuxX
+10	je	VB-S---3P-AA---	Pred
+11	prach	NNIS1-----A----	Sb
+12	a	J^-------------	Coord
+13	bytoví	AAMP1----1A----	Atr
+14	roztoči	NNMP1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94203-85-p5s2
+1	Prach	NNIS1-----A----	Sb
+2	obsahuje	VB-S---3P-AA---	Pred
+3	různě	Dg-------1A----	Adv
+4	velké	AAFP4----1A----	Atr
+5	částice	NNFP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	některé	PZFP4----------	ExD
+8	vzniklé	AAFP4----1A----	Atr
+9	přímo	Dg-------1A----	AuxZ
+10	v	RR--6----------	AuxP
+11	bytě	NNIS6-----A----	Adv
+12	,	Z:-------------	Coord
+13	jiné	AAFP1----1A----	Sb
+14	se	P7-X4----------	AuxT
+15	tam	Db-------------	Adv
+16	dostanou	VB-P---3P-AA---	Pred
+17	zvenku	Db-------------	Adv
+18	-	Z:-------------	Apos
+19	částečky	NNFP4-----A----	Obj
+20	peří	NNNS2-----A----	Atr
+21	z	RR--2----------	AuxP
+22	lůžkovin	NNFP2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	vlákna	NNNP4-----A----	Obj
+25	z	RR--2----------	AuxP
+26	koberců	NNIP2-----A----	Atr
+27	,	Z:-------------	AuxX
+28	lupy	NNIP4-----A----	Obj
+29	,	Z:-------------	AuxX
+30	zbytky	NNIP4-----A----	Obj
+31	pokožky	NNFS2-----A----	Atr
+32	,	Z:-------------	Coord
+33	hmyzu	NNIS2-----A----	Atr
+34	,	Z:-------------	AuxX
+35	spory	NNFP4-----A----	Obj
+36	plísní	NNFP2-----A----	Atr
+37	,	Z:-------------	AuxX
+38	zbytky	NNIP4-----A----	Obj
+39	zvířecí	AAFS2----1A----	Atr
+40	srsti	NNFS2-----A----	Atr
+41	nebo	J^-------------	Coord
+42	zvířecích	AAIP2----1A----	Atr
+43	výměšků	NNIP2-----A----	Atr
+44	,	Z:-------------	AuxX
+45	bakterie	NNFP4-----A----	Obj
+46	,	Z:-------------	AuxX
+47	popílek	NNIS4-----A----	Obj
+48	,	Z:-------------	AuxX
+49	saze	NNFP4-----A----	Obj
+50	a	J^-------------	Coord
+51	chemické	AAFP1----1A----	Atr
+52	látky	NNFP4-----A----	Obj
+53	z	RR--2----------	AuxP
+54	průmyslu	NNIS2-----A----	Atr
+55	.	Z:-------------	AuxK
+
+ln94203-85-p5s3
+1	Největším	AANS7----3A----	Atr
+2	nebezpečím	NNNS7-----A----	Pnom
+3	jsou	VB-P---3P-AA---	Pred
+4	jeho	PSXXXZS3-------	Atr
+5	nejmenší	AAFP1----3A----	Atr
+6	částice	NNFP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	se	P7-X4----------	AuxT
+10	mohou	VB-P---3P-AA--1	Atr
+11	dostat	Vf--------A----	Obj
+12	až	TT-------------	AuxZ
+13	do	RR--2----------	AuxP
+14	plic	NNFP2-----A----	Adv
+15	a	J^-------------	Coord
+16	tam	Db-------------	Adv
+17	vyvolat	Vf--------A----	Obj
+18	onemocnění	NNNS4-----A----	Obj
+19	nebo	J^-------------	Coord
+20	astmatický	AAIS4----1A----	Atr
+21	záchvat	NNIS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94203-85-p5s4
+1	Zásobárnou	NNFS7-----A----	Pnom
+2	prachu	NNIS2-----A----	Atr
+3	jsou	VB-P---3P-AA---	Pred
+4	zejména	Db-------------	AuxZ
+5	všechny	PLFP1----------	Atr
+6	bytové	AAFP1----1A----	Atr
+7	textilie	NNFP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94203-85-p6s1
+1	Roztoči	NNMP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	členovci	NNMP1-----A----	Pnom
+4	patřící	AGMP1-----A----	Atr
+5	mezi	RR--4----------	AuxP
+6	pavoukovce	NNMP4-----A----	Adv
+7	a	J^-------------	Coord
+8	jsou	VB-P---3P-AA---	Pred
+9	pouhým	AANS7----1A----	Atr
+10	okem	NNNS7-----A----	Adv
+11	neviditelní	AAMP1----1N----	Pnom
+12	.	Z:-------------	AuxK
+
+ln94203-85-p6s2
+1	Jejich	PSXXXXP3-------	Atr
+2	přítomnost	NNFS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	domácnostech	NNFP6-----A----	Atr
+5	rozhodně	Dg-------1A----	AuxY
+6	nenaznačuje	VB-S---3P-NA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	jde	VB-S---3P-AA---	Obj
+10	o	RR--4----------	AuxP
+11	domácnosti	NNFP4-----A----	Obj
+12	zanedbané	AAFP4----1A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94203-85-p6s3
+1	Parazitují	VB-P---3P-AA---	Pred
+2	na	RR--6----------	AuxP
+3	živočiších	NNMP6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	množí	VB-P---3P-AA---	Pred
+6	se	P7-X4----------	AuxT
+7	například	Db-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	hnízdech	NNNP6-----A----	Adv
+10	ptáků	NNMP2-----A----	Atr
+11	a	J^-------------	Coord
+12	hlodavců	NNMP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	v	RR--6----------	AuxP
+15	kurnících	NNIP6-----A----	Adv
+16	,	Z:-------------	Coord
+17	jiné	AAIP1----1A----	Atr
+18	druhy	NNIP1-----A----	Sb
+19	se	P7-X4----------	Obj
+20	živí	VB-P---3P-AA---	Pred
+21	například	Db-------------	AuxZ
+22	odumřelou	AAFS7----1A----	Atr
+23	lidskou	AAFS7----1A----	Atr
+24	pokožkou	NNFS7-----A----	Obj
+25	,	Z:-------------	AuxX
+26	proto	J^-------------	Coord
+27	jich	PPXP2--3-------	Atr
+28	žije	VB-S---3P-AA---	Pred
+29	mnoho	Ca--1----------	Sb
+30	zejména	Db-------------	AuxZ
+31	v	RR--6----------	AuxP
+32	nohou	NNFP6-----A----	Adv
+33	postele	NNFS2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94203-85-p6s4
+1	Naštěstí	Db-------------	Adv
+2	nemají	VB-P---3P-NA---	Pred
+3	dlouhý	AAIS4----1A----	Atr
+4	život	NNIS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	i	J^-------------	AuxZ
+8	částečky	NNFP1-----A----	Sb
+9	jejich	PSXXXXP3-------	Atr
+10	těl	NNNP2-----A----	Atr
+11	působí	VB-P---3P-AA---	Pred
+12	jako	J,-------------	AuxY
+13	alergeny	NNIP1-----A----	Atv
+14	.	Z:-------------	AuxK
+
+ln94203-85-p6s5
+1	Bytové	AANS1----1A----	Atr
+2	prostředí	NNNS1-----A----	Sb
+3	vede	VB-S---3P-AA---	Obj
+4	u	RR--2----------	AuxP
+5	alergických	AAFP2----1A----	Atr
+6	dětí	NNFP2-----A----	Adv
+7	k	RR--3----------	AuxP
+8	celoročním	AAFP3----1A----	Atr
+9	alergiím	NNFP3-----A----	Adv
+10	,	Z:-------------	Coord
+11	naproti	RR--3----------	AuxP
+12	tomu	PDZS3----------	Adv
+13	alergie	NNFP1-----A----	Sb
+14	vyvolané	AAFP1----1A----	Atr
+15	například	Db-------------	AuxZ
+16	pylem	NNIS7-----A----	Obj
+17	jsou	VB-P---3P-AA---	Obj
+18	alergiemi	NNFP7-----A----	Pnom
+19	dočasnými	AAFP7----1A----	Atr
+20	,	Z:-------------	AuxX
+21	říká	VB-S---3P-AA---	Pred
+22	Hana	NNFS1-----A----	Atr
+23	Drahoňovská	NNFS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln94203-85-p7s1A
+1	Alergie	NNFS1-----A----	ExD
+2	inhalační	AAFS1----1A----	Atr
+3	a	J^-------------	Coord
+4	bakteriální	AAFS1----1A----	Atr
+
+ln94203-85-p7s1B
+1	Alergie	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	může	VB-S---3P-AA---	Pred
+4	projevit	Vf--------A----	Obj
+5	mnoha	Ca--7----------	Atr
+6	způsoby	NNIP7-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94203-85-p7s1C
+1	MUDr	NNFXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Tamara	NNFS1-----A----	Atr
+4	Svobodová	NNFS1-----A----	Sb
+5	z	RR--2----------	AuxP
+6	dětské	AAFS2----1A----	Atr
+7	kliniky	NNFS2-----A----	Atr
+8	Vinohradské	AAFS2----1A----	Atr
+9	nemocnice	NNFS2-----A----	Atr
+10	říká	VB-S---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	v	RR--6----------	AuxP
+14	alergologii	NNFS6-----A----	Adv
+15	neexistuje	VB-S---3P-NA---	Obj
+16	schéma	NNNS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	podle	RR--2----------	AuxP
+19	něhož	P9ZS2----------	Adv
+20	by	Vc-------------	AuxV
+21	mohl	VpYS---XR-AA---	Atr
+22	lékař	NNMS1-----A----	Sb
+23	postupovat	Vf--------A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94203-85-p7s2
+1	U	RR--2----------	AuxP
+2	každého	AAMS2----1A----	Adv
+3	se	P7-X4----------	AuxT
+4	projevuje	VB-S---3P-AA---	Pred
+5	trochu	Db-------------	Adv
+6	jinak	Db-------------	Adv
+7	.	Z:-------------	AuxK
+
+ln94203-85-p7s3
+1	Také	Db-------------	AuxZ
+2	proto	J^-------------	Adv
+3	musí	VB-S---3P-AA---	Pred
+4	být	Vf--------A----	AuxV
+5	léčba	NNFS1-----A----	Sb
+6	ušita	VsQW---XX-AP---	Obj
+7	každému	AANS3----1A----	Atr
+8	dítěti	NNNS3-----A----	Adv
+9	na	RR--4----------	AuxP
+10	tělo	NNNS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94203-85-p7s4
+1	Alergie	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	může	VB-S---3P-AA---	Pred
+4	objevit	Vf--------A----	Obj
+5	jako	J,-------------	AuxY
+6	astma	NNNS1-----A----	Atv
+7	bronchiale	NNFS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	alergická	AAFS1----1A----	Atr
+10	rýma	NNFS1-----A----	Atv
+11	,	Z:-------------	AuxX
+12	alergický	AAIS1----1A----	Atr
+13	zánět	NNIS1-----A----	Atv
+14	spojivek	NNFP2-----A----	Atr
+15	,	Z:-------------	Coord
+16	atopický	AAIS1----1A----	Atr
+17	ekzém	NNIS1-----A----	Atv
+18	a	J^-------------	AuxY
+19	nebo	J^-------------	Coord
+20	jako	J,-------------	AuxY
+21	alergický	AAIS1----1A----	Atr
+22	otok	NNIS1-----A----	Atv
+23	třeba	Db-------------	AuxZ
+24	po	RR--6----------	AuxP
+25	antibiotiku	NNNS6-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94203-85-p7s5
+1	Tento	PDYS1----------	Atr
+2	poslední	AAIS1----1A----	Atr
+3	projev	NNIS1-----A----	Sb
+4	patří	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	pylové	AAFS3----1A----	Atr
+7	alergii	NNFS3-----A----	Obj
+8	,	Z:-------------	Coord
+9	postiženému	AAMS3----1A----	Adv
+10	oteče	VB-S---3P-AA---	Pred
+11	okolí	NNNS1-----A----	Sb
+12	očí	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	obličej	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94203-85-p8s1
+1	Prvním	CrIS7----------	Atr
+2	příznakem	NNIS7-----A----	Pnom
+3	alergie	NNFS2-----A----	Atr
+4	u	RR--2----------	AuxP
+5	malých	AAFP2----1A----	Atr
+6	dětí	NNFP2-----A----	AtrAtr
+7	je	VB-S---3P-AA---	Pred
+8	často	Dg-------1A----	Adv
+9	mírná	AAFS1----1A----	Atr
+10	forma	NNFS1-----A----	Sb
+11	ekzému	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94203-85-p8s2
+1	Varující	AGNS1-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	přidá	VB-S---3P-AA---	Sb
+5	-	Z:-------------	AuxG
+6	li	TT-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	zánět	NNIS1-----A----	Sb
+9	průdušek	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-85-p8s3
+1	Doktorka	NNFS1-----A----	Atr
+2	Svobodová	NNFS1-----A----	Sb
+3	doporučuje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	tomto	PDZS6----------	Atr
+8	případě	NNIS6-----A----	Adv
+9	bylo	VpNS---XR-AA---	AuxV
+10	provedeno	VsNS---XX-AP---	Obj
+11	alergologické	AANS1----1A----	Atr
+12	vyšetření	NNNS1-----A----	Sb
+13	dítěte	NNNS2-----A----	Atr
+14	,	Z:-------------	Coord
+15	terapii	NNFS4-----A----	Obj
+16	je	VB-S---3P-AA---	Pred
+17	nutno	ACNS------A----	Pnom
+18	zahájit	Vf--------A----	Sb
+19	včas	Db-------------	Adv
+20	.	Z:-------------	AuxK
+
+ln94203-85-p8s4
+1	Nejméně	Dg-------3A----	Adv
+2	příznivou	AAFS4----1A----	Atr
+3	prognózu	NNFS4-----A----	Obj
+4	má	VB-S---3P-AA---	Pred
+5	právě	Db-------------	AuxZ
+6	ekzém	NNIS1-----A----	Sb
+7	ve	RV--6----------	AuxP
+8	spojení	NNNS6-----A----	AuxP
+9	s	RR--7----------	AuxP
+10	alergickým	AANS7----1A----	Atr
+11	postižením	NNNS7-----A----	AtrAdv
+12	horních	AAFP2----1A----	Atr
+13	cest	NNFP2-----A----	Atr
+14	dýchacích	AAFP2----1A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94203-85-p8s5
+1	Snažíme	VB-P---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	vyšetřit	Vf--------A----	Obj
+4	celkový	AAIS4----1A----	Atr
+5	stav	NNIS4-----A----	Obj
+6	imunitního	AAIS2----1A----	Atr
+7	systému	NNIS2-----A----	Atr
+8	včetně	RR--2----------	AuxP
+9	výtěrů	NNIP2-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94203-85-p8s6
+1	Těchto	PDXP2----------	Atr
+2	metod	NNFP2-----A----	Atr
+3	však	J^-------------	AuxY
+4	není	VB-S---3P-NA---	Obj
+5	mnoho	Ca--1----------	Sb
+6	,	Z:-------------	AuxX
+7	říká	VB-S---3P-AA---	Pred
+8	Tamara	NNFS1-----A----	Atr
+9	Svobodová	NNFS1-----A----	Sb
+10	a	J^-------------	Coord
+11	dodává	VB-S---3P-AA---	Pred
+12	:	Z:-------------	AuxG
+13	Zaměřujeme	VB-P---1P-AA---	Obj
+14	se	P7-X4----------	AuxT
+15	na	RR--4----------	AuxP
+16	mechanismy	NNIP4-----A----	Obj
+17	protilátkové	AAFS2----1A----	Atr
+18	imunity	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94203-85-p8s7
+1	Můžeme	VB-P---1P-AA---	Pred
+2	rozlišit	Vf--------A----	Obj
+3	dvě	ClHP4----------	Atr
+4	formy	NNFP4-----A----	Obj
+5	alergie	NNFS2-----A----	Atr
+6	-	Z:-------------	Apos
+7	inhalační	AAFS4----1A----	ExD
+8	,	Z:-------------	AuxX
+9	způsobenou	AAFS4----1A----	ExD
+10	pyly	NNIP7-----A----	Obj
+11	,	Z:-------------	AuxX
+12	prachy	NNIP7-----A----	Obj
+13	,	Z:-------------	AuxX
+14	peřím	NNNS7-----A----	Obj
+15	,	Z:-------------	AuxX
+16	plísněmi	NNFP7-----A----	Obj
+17	či	J^-------------	Coord
+18	roztoči	NNMP7-----A----	Obj
+19	,	Z:-------------	AuxX
+20	která	P4FS1----------	Sb
+21	se	P7-X4----------	AuxR
+22	dá	VB-S---3P-AA---	ExD
+23	vyšetřit	Vf--------A----	Obj
+24	metodou	NNFS7-----A----	Adv
+25	protilátek	NNFP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	a	J^-------------	Coord
+28	bakteriální	AAFS4----1A----	ExD
+29	,	Z:-------------	AuxX
+30	kterou	P4FS4----------	Obj
+31	je	VB-S---3P-AA---	ExD
+32	nutno	ACNS------A----	Pnom
+33	testovat	Vf--------A----	Sb
+34	vpichy	NNIP7-----A----	Adv
+35	do	RR--2----------	AuxP
+36	kůže	NNFS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln94203-85-p8s8
+1	Toto	PDNS1----------	Atr
+2	vyšetření	NNNS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	velmi	Db-------------	Adv
+5	nepříjemné	AANS1----1N----	Pnom
+6	zejména	Db-------------	AuxZ
+7	pro	RR--4----------	AuxP
+8	malé	AAFP4----1A----	Atr
+9	děti	NNFP4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94203-85-p9s1
+1	Cílem	NNIS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	zjistit	Vf--------A----	Sb
+4	reakce	NNFP4-----A----	Obj
+5	při	RR--6----------	AuxP
+6	očkování	NNNS6-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94203-85-p9s2
+1	Součástí	NNFS7-----A----	Pnom
+2	každého	AANS2----1A----	Atr
+3	alergologického	AANS2----1A----	Atr
+4	testování	NNNS2-----A----	Atr
+5	organismu	NNIS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	i	J^-------------	AuxZ
+8	provádění	NNNS1-----A----	Sb
+9	pečlivé	AAFS2----1A----	Atr
+10	anamnézy	NNFS2-----A----	Atr
+11	rodinných	AAMP2----1A----	Atr
+12	příslušníků	NNMP2-----A----	Atr
+13	a	J^-------------	Coord
+14	zaměřuje	VB-S---3P-AA---	Pred
+15	se	P7-X4----------	AuxR
+16	také	Db-------------	Adv
+17	na	RR--4----------	AuxP
+18	prostředí	NNNS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	v	RR--6----------	AuxP
+21	němž	P9ZS6----------	Adv
+22	dítě	NNNS1-----A----	Sb
+23	žije	VB-S---3P-AA---	Atr
+24	,	Z:-------------	AuxX
+25	a	J^-------------	Coord
+26	na	RR--4----------	AuxP
+27	prodělaná	AANP4----1A----	Atr
+28	onemocnění	NNNP4-----A----	Obj
+29	a	J^-------------	Coord
+30	jejich	PSXXXXP3-------	Atr
+31	průběh	NNIS4-----A----	Obj
+32	.	Z:-------------	AuxK
+
+ln94203-85-p9s3
+1	Je	VB-S---3P-AA---	Pred
+2	třeba	ACNS------A----	Pnom
+3	zaměřit	Vf--------A----	Sb
+4	se	P7-X4----------	AuxT
+5	i	J^-------------	AuxZ
+6	na	RR--4----------	AuxP
+7	přecitlivělost	NNFS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	bílkoviny	NNFP4-----A----	Atr
+10	,	Z:-------------	Coord
+11	na	RR--6----------	AuxP
+12	vzniku	NNIS6-----A----	Atr
+13	alergií	NNFP2-----A----	Atr
+14	může	VB-S---3P-AA---	Pred
+15	mít	Vf--------A----	Obj
+16	podíl	NNIS4-----A----	Obj
+17	i	J^-------------	AuxZ
+18	kravské	AANS1----1A----	Atr
+19	mléko	NNNS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94203-85-p10s1
+1	Alergie	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	velmi	Db-------------	Adv
+4	individuální	AANS1----1A----	Atr
+5	onemocnění	NNNS1-----A----	Pnom
+6	a	J^-------------	Coord
+7	u	RR--2----------	AuxP
+8	každého	AANS2----1A----	Atr
+9	dítěte	NNNS2-----A----	Adv
+10	se	P7-X4----------	AuxT
+11	projevuje	VB-S---3P-AA---	Pred
+12	trošku	Db-------------	Adv
+13	jinak	Db-------------	Adv
+14	.	Z:-------------	AuxK
+
+ln94203-85-p10s2
+1	Dá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	říci	Vf--------A---1	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	má	VB-S---3P-AA---	Adv
+7	-	Z:-------------	AuxG
+8	li	TT-------------	AuxC
+9	dítě	NNNS1-----A----	Sb
+10	při	RR--6----------	AuxP
+11	alergickém	AAIS6----1A----	Atr
+12	stavu	NNIS6-----A----	Adv
+13	teploty	NNFP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	jde	VB-S---3P-AA---	Obj
+16	o	RR--4----------	AuxP
+17	alergii	NNFS4-----A----	Obj
+18	bakteriální	AAFS4----1A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94203-85-p10s3
+1	Inhalační	AAFS1----1A----	Atr
+2	forma	NNFS1-----A----	Sb
+3	většinou	Db-------------	Adv
+4	teplotou	NNFS7-----A----	Obj
+5	provázena	VsQW---XX-AP---	Obj
+6	není	VB-S---3P-NA---	AuxV
+7	,	Z:-------------	AuxX
+8	konstatuje	VB-S---3P-AA---	Pred
+9	Tamara	NNFS1-----A----	Atr
+10	Svobodová	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94203-85-p10s4
+1	Ani	J^-------------	AuxZ
+2	to	PDNS1----------	Sb
+3	však	J^-------------	Coord
+4	není	VB-S---3P-NA---	Pred
+5	měřítkem	NNNS7-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	protože	J,-------------	AuxC
+8	astmatický	AAIS1----1A----	Atr
+9	záchvat	NNIS1-----A----	Sb
+10	může	VB-S---3P-AA---	Adv
+11	nastat	Vf--------A----	Obj
+12	při	RR--6----------	AuxP
+13	souběžně	Dg-------1A----	Adv
+14	probíhající	AGFS6-----A----	Atr
+15	infekci	NNFS6-----A----	Adv
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	sama	PLFS1----------	Atv
+19	je	VB-S---3P-AA---	AuxV
+20	doprovázena	VsQW---XX-AP---	Atr
+21	horečkou	NNFS7-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94203-85-p10s5A
+1	Za	RR--4----------	AuxP
+2	průběh	NNIS4-----A----	Obj
+3	inhalační	AAFS2----1A----	Atr
+4	formy	NNFS2-----A----	Atr
+5	alergie	NNFS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	zodpovědný	AAIS1----1A----	Pnom
+8	imunoglobulin	NNIS1-----A----	Sb
+9	E	NNNXX-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-85-p10s5B
+1	Většinou	Db-------------	Adv
+2	platí	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	čím	PQ--7----------	Adv
+6	je	VB-S---3P-AA---	Atr
+7	ho	PHZS2--3-------	Atr
+8	víc	Dg-------2A---1	Sb
+9	,	Z:-------------	AuxX
+10	tím	PDZS7----------	Adv
+11	je	VB-S---3P-AA---	Sb
+12	alergie	NNFS1-----A----	Sb
+13	výraznější	AAFS1----2A----	Pnom
+14	.	Z:-------------	AuxK
+
+ln94203-85-p10s6A
+1	Někdy	Db-------------	Adv
+2	však	J^-------------	Coord
+3	může	VB-S---3P-AA---	Pred
+4	být	Vf--------A----	Obj
+5	alergie	NNFS1-----A----	Sb
+6	velice	Db-------------	Adv
+7	úporná	AAFS1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	a	J^-------------	Coord
+10	přitom	Db-------------	Adv
+11	je	VB-S---3P-AA---	AuxV
+12	naměřena	VsQW---XX-AP---	Pred
+13	velice	Db-------------	Adv
+14	nízká	AAFS1----1A----	Atr
+15	hladina	NNFS1-----A----	Sb
+16	imunoglobulinu	NNIS2-----A----	Atr
+17	E	NNNXX-----A----	Atr
+18	.	Z:-------------	AuxG
+
+ln94203-85-p10s6B
+1	Uvádí	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	v	RR--6----------	AuxP
+6	populaci	NNFS6-----A----	Adv
+7	je	VB-S---3P-AA---	Sb
+8	až	TT-------------	AuxZ
+9	20	C=-------------	Sb
+10	procent	NNNP2-----A----	Atr
+11	dětí	NNFP2-----A----	Atr
+12	astmatických	AAFP2----1A----	Atr
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	jak	Db-------------	Adv
+16	upozorňuje	VB-S---3P-AA---	Pred
+17	doktorka	NNFS1-----A----	Atr
+18	Svobodová	NNFS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	alergie	NNFS1-----A----	Sb
+21	neznamená	VB-S---3P-NA---	Pred
+22	vždy	Db-------------	Adv
+23	astma	NNNS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94203-85-p10s7
+1	I	J^-------------	AuxZ
+2	proto	J^-------------	Adv
+3	se	P7-X4----------	AuxT
+4	liší	VB-P---3P-AA---	Pred
+5	pramen	NNIS4-----A----	Adv
+6	od	RR--2----------	AuxP
+7	pramene	NNIS2-----A----	Atr
+8	údaje	NNIP1-----A----	Sb
+9	o	RR--6----------	AuxP
+10	počtu	NNIS6-----A----	Atr
+11	alergiků	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94203-85-p11s1A
+1	Ne	TT-------------	AuxZ
+2	každý	AAMS1----1A----	Atr
+3	astmatik	NNMS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	alergik	NNMS1-----A----	Pnom
+
+ln94203-85-p11s1B
+1	První	CrIP4----------	Atr
+2	příznaky	NNIP4-----A----	Obj
+3	alergie	NNFS2-----A----	Atr
+4	obvykle	Dg-------1A----	Adv
+5	zpozorují	VB-P---3P-AA---	Obj
+6	rodiče	NNMP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	někdy	Db-------------	Adv
+9	přijdou	VB-P---3P-AA---	Obj
+10	pozdě	Dg-------1A----	Adv
+11	,	Z:-------------	Coord
+12	jindy	Db-------------	Adv
+13	chodí	VB-P---3P-AA---	Obj
+14	s	RR--7----------	AuxP
+15	každým	AANS7----1A----	Atr
+16	kýchnutím	NNNS7-----A----	Adv
+17	,	Z:-------------	AuxX
+18	říká	VB-S---3P-AA---	Pred
+19	Tamara	NNFS1-----A----	Atr
+20	Svobodová	NNFS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+ln94203-85-p11s2
+1	Usuzovat	Vf--------A----	Sb
+2	o	RR--6----------	AuxP
+3	malém	AANS6----1A----	Atr
+4	dítěti	NNNS6-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	je	VB-S---3P-AA---	Obj
+8	astmatikem	NNMS7-----A----	Pnom
+9	,	Z:-------------	AuxX
+10	lze	VB-S---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	pokud	J,-------------	AuxC
+13	trpí	VB-S---3P-AA---	Adv
+14	častějšími	AAIP7----2A----	Atr
+15	záněty	NNIP7-----A----	Obj
+16	průdušek	NNFP2-----A----	Atr
+17	s	RR--7----------	AuxP
+18	teplotou	NNFS7-----A----	Atr
+19	,	Z:-------------	AuxX
+20	ke	RV--3----------	AuxP
+21	kterým	P4XP3----------	Adv
+22	se	P7-X4----------	AuxT
+23	přidává	VB-S---3P-AA---	Atr
+24	rýma	NNFS1-----A----	Sb
+25	,	Z:-------------	AuxX
+26	a	J^-------------	Coord
+27	dítě	NNNS1-----A----	Sb
+28	je	VB-S---3P-AA---	Adv
+29	dušné	AANS1----1A----	Pnom
+30	,	Z:-------------	AuxX
+31	ačkoli	J,------------1	AuxC
+32	teplota	NNFS1-----A----	Sb
+33	již	Db-------------	Adv
+34	ustoupila	VpQW---XR-AA---	Adv
+35	.	Z:-------------	AuxK
+
+ln94203-85-p11s3
+1	Stává	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	dítěti	NNNS3-----A----	Obj
+7	je	VB-S---3P-AA---	AuxV
+8	přišita	VsQW---XX-AP---	Sb
+9	diagnóza	NNFS1-----A----	Sb
+10	astma	NNNS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	a	J^-------------	Coord
+13	zapomíná	VB-S---3P-AA---	Pred
+14	se	P7-X4----------	AuxR
+15	na	RR--4----------	AuxP
+16	to	PDNS4----------	Obj
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	děti	NNFP1-----A----	Sb
+20	mají	VB-P---3P-AA---	Atr
+21	úzké	AAFP4----1A----	Atr
+22	dýchací	AAFP4----1A----	Atr
+23	cesty	NNFP4-----A----	Obj
+24	a	J^-------------	Coord
+25	jinou	AAFS4----1A----	Atr
+26	svalovinu	NNFS4-----A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94203-85-p11s4
+1	Zatímco	J,-------------	AuxC
+2	u	RR--2----------	AuxP
+3	dospělých	NNMP2-----A----	Adv
+4	dojde	VB-S---3P-AA---	Adv
+5	při	RR--6----------	AuxP
+6	kašli	NNIS6-----A----	Adv
+7	k	RR--3----------	AuxP
+8	pouhému	AANS3----1A----	Atr
+9	stáhnutí	NNNS3-----A----	Obj
+10	svalů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	dětské	AAFP1----1A----	Atr
+13	dýchací	AAFP1----1A----	Atr
+14	cesty	NNFP1-----A----	Sb
+15	se	P7-X4----------	AuxR
+16	zalijí	VB-P---3P-AA--1	Pred
+17	hlenem	NNIS7-----A----	Adv
+18	a	J^-------------	Coord
+19	vypadá	VB-S---3P-AA---	Pred
+20	to	PDNS1----------	Sb
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	dítě	NNNS1-----A----	Sb
+24	má	VB-S---3P-AA---	Adv
+25	astmatický	AAIS4----1A----	Atr
+26	záchvat	NNIS4-----A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94203-85-p11s5
+1	Když	J,-------------	AuxC
+2	pak	Db-------------	Adv
+3	povyroste	VB-S---3P-AA---	Adv
+4	,	Z:-------------	AuxX
+5	ukáže	VB-S---3P-AA---	Obj
+6	se	P7-X4----------	AuxR
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	to	PDNS1----------	Sb
+10	nemusí	VB-S---3P-NA---	Sb
+11	být	Vf--------A----	Obj
+12	astma	NNNS1-----A----	Pnom
+13	bronchiale	NNFS1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	příznaky	NNIP1-----A----	Sb
+17	zmizí	VB-P---3P-AA---	Obj
+18	,	Z:-------------	AuxX
+19	říká	VB-S---3P-AA---	Pred
+20	Tamara	NNFS1-----A----	Sb
+21	Svobodová	NNFS1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94203-85-p12s1A
+1	Na	RR--4----------	AuxP
+2	kočky	NNFP4-----A----	ExD
+3	pozor	NNIS4-----A----	ExD
+
+ln94203-85-p12s1B
+1	Zatímco	J,-------------	AuxC
+2	astma	NNNS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	které	P4NS1----------	Sb
+5	zdravotní	AAIS4----1A----	Atr
+6	stav	NNIS4-----A----	Obj
+7	člověka	NNMS2-----A----	Atr
+8	ohrožuje	VB-S---3P-AA---	Atr
+9	více	Dg-------2A----	Adv
+10	,	Z:-------------	AuxX
+11	bývá	VB-S---3P-AA---	AuxV
+12	vyprovokováno	VsNS---XX-AP---	Adv
+13	bytovými	AAIP7----1A----	Atr
+14	alergeny	NNIP7-----A----	Obj
+15	,	Z:-------------	AuxX
+16	alergické	AAFP1----1A----	Atr
+17	rýmy	NNFP1-----A----	Sb
+18	jsou	VB-P---3P-AA---	Pred
+19	reakcí	NNFS7-----A----	Pnom
+20	organismu	NNIS2-----A----	Atr
+21	na	RR--4----------	AuxP
+22	venkovní	AAIP4----1A----	Atr
+23	pyly	NNIP4-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94203-85-p12s2
+1	Zde	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	důležité	AANS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	testy	NNIP1-----A----	Sb
+7	zjistily	VpTP---XR-AA---	Sb
+8	,	Z:-------------	AuxX
+9	na	RR--4----------	AuxP
+10	které	P4YP4----------	Atr
+11	pyly	NNIP4-----A----	Adv
+12	je	VB-S---3P-AA---	Obj
+13	dítě	NNNS1-----A----	Sb
+14	alergické	AANS1----1A----	Pnom
+15	-	Z:-------------	Coord
+16	ve	RV--6----------	AuxP
+17	vegetačním	AANS6----1A----	Atr
+18	období	NNNS6-----A----	Adv
+19	,	Z:-------------	AuxX
+20	kdy	Db-------------	Adv
+21	tyto	PDFP1----------	Atr
+22	rostliny	NNFP1-----A----	Sb
+23	kvetou	VB-P---3P-AA---	Atr
+24	,	Z:-------------	AuxX
+25	by	Vc-------------	AuxV
+26	dítě	NNNS1-----A----	Sb
+27	nemělo	VpNS---XR-NA---	Pred
+28	zbytečně	Dg-------1A----	Adv
+29	chodit	Vf--------A----	Obj
+30	ven	Db-------------	Adv
+31	.	Z:-------------	AuxK
+
+ln94203-85-p12s3
+1	Nejhorší	AANS1----3A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	pro	RR--4----------	AuxP
+4	ně	P5NS4--3-------	Adv
+5	doba	NNFS1-----A----	Sb
+6	prvního	CrNS2----------	Atr
+7	kvetení	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	tedy	Db-------------	Apos
+10	duben	NNIS1-----A----	Sb
+11	až	J^-------------	Coord
+12	květen	NNIS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94203-85-p12s4
+1	Alergikům	NNMP3-----A----	Obj
+2	by	Vc-------------	AuxV
+3	pomohla	VpQW---XR-AA---	Pred
+4	větší	AAFS1----2A----	Atr
+5	údržba	NNFS1-----A----	Sb
+6	městské	AAFS2----1A----	Atr
+7	zeleně	NNFS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	tráva	NNFS1-----A----	Sb
+10	by	Vc-------------	AuxV
+11	měla	VpQW---XR-AA---	Pred
+12	být	Vf--------A----	Obj
+13	včas	Db-------------	Adv
+14	posekaná	AAFS1----1A----	Pnom
+15	.	Z:-------------	AuxK
+
+ln94203-85-p12s5
+1	Nepříjemné	AAFP1----1N----	Pnom
+2	jsou	VB-P---3P-AA---	Obj
+3	také	Db-------------	AuxZ
+4	zarostlé	AAFP1----1A----	Atr
+5	skládky	NNFP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	tvrdí	VB-S---3P-AA---	Pred
+8	Hana	NNFS1-----A----	Atr
+9	Drahoňovská	NNFS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94203-85-p12s6
+1	Každý	AAMS1----1A----	Atr
+2	alergik	NNMS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	ke	RV--3----------	AuxP
+5	všem	PLXP3----------	Atr
+6	látkám	NNFP3-----A----	Adv
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	ho	PHZS4--3-------	Obj
+10	obklopují	VB-P---3P-AA---	Atr
+11	,	Z:-------------	AuxX
+12	citlivější	AAMS1----2A----	Pnom
+13	.	Z:-------------	AuxK
+
+ln94203-85-p12s7
+1	Lze	VB-S---3P-AA---	Pred
+2	proto	J^-------------	Coord
+3	očekávat	Vf--------A----	Sb
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	k	RR--3----------	AuxP
+7	původním	AAIP3----1A----	Atr
+8	alergickým	AAIP3----1A----	Atr
+9	projevům	NNIP3-----A----	Obj
+10	se	P7-X4----------	AuxT
+11	budou	VB-P---3F-AA---	AuxV
+12	přidávat	Vf--------A----	Obj
+13	další	AAIP1----1A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94203-85-p12s8
+1	Má	VB-S---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	někdo	PZM-1----------	Sb
+5	alergii	NNFS4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	srst	NNFS4-----A----	Atr
+8	,	Z:-------------	AuxX
+9	bude	VB-S---3F-AA---	AuxV
+10	časem	NNIS7-----A----	Adv
+11	nejspíše	Dg-------3A---1	Adv
+12	podobně	Dg-------1A----	Adv
+13	reagovat	Vf--------A----	Obj
+14	i	J^-------------	AuxZ
+15	na	RR--4----------	AuxP
+16	setkání	NNNS4-----A----	Obj
+17	s	RR--7----------	AuxP
+18	peřím	NNNS7-----A----	Atr
+19	či	J^-------------	Coord
+20	pyly	NNIP7-----A----	Atr
+21	,	Z:-------------	AuxX
+22	říká	VB-S---3P-AA---	Pred
+23	Hana	NNFS1-----A----	Atr
+24	Drahoňovská	NNFS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln94203-85-p12s9
+1	Například	Db-------------	AuxY
+2	velmi	Db-------------	Adv
+3	silným	AAIS7----1A----	Atr
+4	alergenem	NNIS7-----A----	Pnom
+5	je	VB-S---3P-AA---	Pred
+6	kočka	NNFS1-----A----	Sb
+7	,	Z:-------------	Coord
+8	její	PSFSXFS3-------	Atr
+9	přítomnost	NNFS1-----A----	Sb
+10	na	RR--4----------	AuxP
+11	dítě	NNNS4-----A----	Obj
+12	působí	VB-S---3P-AA---	Pred
+13	ještě	Db-------------	AuxZ
+14	mnoho	Ca--4----------	Adv
+15	týdnů	NNIP2-----A----	Atr
+16	po	RR--6----------	AuxP
+17	tom	PDZS6----------	Adv
+18	,	Z:-------------	AuxX
+19	co	J,-------------	AuxC
+20	kočka	NNFS1-----A----	Sb
+21	místnost	NNFS4-----A----	Obj
+22	opustila	VpQW---XR-AA---	Adv
+23	.	Z:-------------	AuxK
+
+ln94203-85-p13s1
+1	Chemické	AAFP1----1A----	Atr
+2	látky	NNFP1-----A----	Sb
+3	nezpůsobují	VB-P---3P-NA---	Pred
+4	klasické	AAFP4----1A----	Atr
+5	alergie	NNFP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	citlivého	AAMS4----1A----	Atr
+9	člověka	NNMS4-----A----	Obj
+10	dráždí	VB-P---3P-AA---	Pred
+11	.	Z:-------------	AuxK
+
+ln94203-85-p13s2
+1	Nevyvolávají	VB-P---3P-NA---	Pred
+2	sice	Db-------------	AuxY
+3	astmatické	AAIP4----1A----	Atr
+4	záchvaty	NNIP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	mají	VB-P---3P-AA---	Pred
+8	na	RR--4----------	AuxP
+9	ně	P5XP4--3-------	Atr
+10	podpůrný	AAIS4----1A----	Atr
+11	vliv	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94203-85-p14s1
+1	Mnoho	Ca--1----------	Sb
+2	rodičů	NNMP2-----A----	Atr
+3	alergických	AAFP2----1A----	Atr
+4	dětí	NNFP2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	domnívá	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	jim	PPXP3--3-------	Obj
+10	prospěje	VB-S---3P-AA---	Obj
+11	,	Z:-------------	AuxX
+12	když	J,-------------	AuxC
+13	je	PPXP4--3-------	Obj
+14	z	RR--2----------	AuxP
+15	městských	AAIP2----1A----	Atr
+16	bytů	NNIP2-----A----	Adv
+17	odvážejí	VB-P---3P-AA---	Sb
+18	na	RR--4----------	AuxP
+19	venkovské	AAFP4----1A----	Atr
+20	chalupy	NNFP4-----A----	Adv
+21	,	Z:-------------	AuxX
+22	ale	J^-------------	Coord
+23	jak	Db-------------	Adv
+24	říká	VB-S---3P-AA---	Pred
+25	Hana	NNFS1-----A----	Atr
+26	Drahoňovská	NNFS1-----A----	Sb
+27	,	Z:-------------	AuxX
+28	není	VB-S---3P-NA---	Pred
+29	to	PDNS1----------	Sb
+30	pravda	NNFS1-----A----	Pnom
+31	.	Z:-------------	AuxK
+
+ln94203-85-p14s2
+1	Pro	RR--4----------	AuxP
+2	děti	NNFP4-----A----	Adv
+3	představuje	VB-S---3P-AA---	Pred
+4	zbytečnou	AAFS4----1A----	Atr
+5	zátěž	NNFS4-----A----	Obj
+6	už	Db-------------	AuxZ
+7	cesta	NNFS1-----A----	Sb
+8	,	Z:-------------	Coord
+9	navíc	Db-------------	Adv
+10	na	RR--6----------	AuxP
+11	venkově	NNIS6-----A----	Adv
+12	je	VB-S---3P-AA---	Pred
+13	plno	Db-------------	Sb
+14	alergenů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94203-85-p14s3
+1	Mohou	VB-P---3P-AA--1	Pred
+2	jimi	PPXP7--3-------	Pnom
+3	být	Vf--------A----	Obj
+4	jak	Db-------------	AuxY
+5	pyly	NNIP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	tak	Db-------------	Coord
+8	roztoči	NNMP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	přenášení	AAMP1----1A----	Atr
+11	venkovskými	AANP7----1A----	Atr
+12	zvířaty	NNNP7-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94203-85-p14s4
+1	Odborníci	NNMP1-----A----	Sb
+2	naopak	Db-------------	Adv
+3	doporučují	VB-P---3P-AA---	Pred
+4	chalupu	NNFS4-----A----	Obj
+5	v	RR--6----------	AuxP
+6	době	NNFS6-----A----	AdvAtr
+7	kvetení	NNNS2-----A----	Atr
+8	vynechat	Vf--------A----	Obj
+9	úplně	Dg-------1A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94203-85-p15s1A
+1	Máme	VB-P---1P-AA---	Pred
+2	doma	Db-------------	Adv
+3	alergické	AANS4----1A----	Atr
+4	dítě	NNNS4-----A----	Obj
+
+ln94203-85-p15s1B
+1	Léčba	NNFS1-----A----	Sb
+2	alergií	NNFP2-----A----	Atr
+3	nespočívá	VB-S---3P-NA---	Pred
+4	jenom	TT-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	terapii	NNFS6-----A----	Obj
+7	,	Z:-------------	Coord
+8	jde	VB-S---3P-AA---	Pred
+9	o	RR--4----------	AuxP
+10	otázku	NNFS4-----A----	Obj
+11	celého	AAIS2----1A----	Atr
+12	životního	AAIS2----1A----	Atr
+13	stylu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94203-85-p15s2
+1	Je	VB-S---3P-AA---	Obj
+2	třeba	ACNS------A----	Pnom
+3	upravit	Vf--------A----	Sb
+4	vnitřní	AANS4----1A----	Atr
+5	prostředí	NNNS4-----A----	Obj
+6	bytů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	v	RR--6----------	AuxP
+9	nichž	P9XP6----------	Adv
+10	se	RV--7----------	AuxP
+11	svými	P8XP7----------	Atr
+12	alergickými	AAFP7----1A----	Atr
+13	dětmi	NNFP7-----A----	Adv
+14	bydlíme	VB-P---1P-AA---	Atr
+15	,	Z:-------------	AuxX
+16	změnit	Vf--------A----	Sb
+17	jídelníček	NNIS4-----A----	Obj
+18	,	Z:-------------	Coord
+19	změnit	Vf--------A----	Sb
+20	životní	AAIS4----1A----	Atr
+21	styl	NNIS4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	doporučuje	VB-S---3P-AA---	Pred
+24	Hana	NNFS1-----A----	Atr
+25	Drahoňovská	NNFS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+ln94203-85-p15s3
+1	Strava	NNFS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	Obj
+4	co	Db-------------	Adv
+5	nejpestřejší	AAFS1----3A----	Pnom
+6	,	Z:-------------	Coord
+7	bez	RR--2----------	AuxP
+8	alergenů	NNIP2-----A----	ExD
+9	.	Z:-------------	AuxK
+
+ln94203-85-p15s4
+1	Vyloučit	Vf--------A----	Sb
+2	dítě	NNNS4-----A----	Obj
+3	z	RR--2----------	AuxP
+4	prostředí	NNNS2-----A----	Adv
+5	s	RR--7----------	AuxP
+6	alergeny	NNIP7-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	nemyslitelné	AANS1----1N----	Pnom
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	v	RR--6----------	AuxP
+12	bytech	NNIP6-----A----	Adv
+13	je	VB-S---3P-AA---	Pred
+14	nutný	AAIS1----1A----	Pnom
+15	častější	AAIS1----2A----	Atr
+16	úklid	NNIS1-----A----	Sb
+17	,	Z:-------------	Coord
+18	veškeré	PLNS4----------	Atr
+19	čištění	NNNS4-----A----	Obj
+20	je	VB-S---3P-AA---	Pred
+21	vhodné	AANS1----1A----	Pnom
+22	provádět	Vf--------A----	Sb
+23	mokrou	AAFS7----1A----	Atr
+24	cestou	NNFS7-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln94203-85-p15s5
+1	V	RR--6----------	AuxP
+2	bytě	NNIS6-----A----	Adv
+3	nemají	VB-P---3P-NA---	Pred
+4	být	Vf--------A----	Obj
+5	žádné	PWFP1----------	Atr
+6	zbytečné	AAFP1----1A----	Atr
+7	dečky	NNFP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	přehozy	NNIP1-----A----	Sb
+10	a	J^-------------	Coord
+11	podobné	AAIP1----1A----	Atr
+12	lapače	NNIP1-----A----	Sb
+13	prachu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94203-85-p15s6
+1	Doporučují	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	i	J^-------------	AuxZ
+4	dezinfekční	AAIP1----1A----	Atr
+5	prostředky	NNIP1-----A----	Sb
+6	proti	RR--3----------	AuxP
+7	roztočům	NNMP3-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kterých	P4XP2----------	Atr
+10	je	VB-S---3P-AA---	Atr
+11	nejvíce	Dg-------3A----	Sb
+12	v	RR--6----------	AuxP
+13	kobercích	NNIP6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	matracích	NNFP6-----A----	Adv
+16	,	Z:-------------	Coord
+17	čalounění	NNNS6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94203-85-p15s7
+1	Důležitá	AAFS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	častá	AAFS1----1A----	Atr
+4	výměna	NNFS1-----A----	Sb
+5	ložního	AANS2----1A----	Atr
+6	prádla	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94203-85-p15s8
+1	Textilie	NNFP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	bytě	NNIS6-----A----	Atr
+4	by	Vc-------------	AuxV
+5	měly	VpTP---XR-AA---	Pred
+6	být	Vf--------A----	Obj
+7	schopné	AAFP1----1A----	Pnom
+8	praní	NNNS2-----A----	Obj
+9	ve	RV--6----------	AuxP
+10	vodě	NNFS6-----A----	Atr
+11	teplé	AAFS6----1A----	Atr
+12	minimálně	Dg-------1A----	AuxZ
+13	60	C=-------------	Adv
+14	stupňů	NNIP2-----A----	Atr
+15	Celsia	NNMS2-----A----	Atr
+16	,	Z:-------------	Coord
+17	roztoči	NNMP1-----A----	Sb
+18	hynou	VB-P---3P-AA---	Pred
+19	při	RR--6----------	AuxP
+20	54	C=-------------	Atr
+21	stupních	NNIP6-----A----	Adv
+22	Celsia	NNMS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94203-85-p15s9
+1	Bezpéřová	AANP1----1A----	Atr
+2	lůžka	NNNP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	lepší	AANP1----2A----	Pnom
+5	než	J,-------------	AuxC
+6	péřová	AANP1----1A----	ExD
+7	.	Z:-------------	AuxK
+
+ln94203-85-p15s10
+1	Rodina	NNFS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	měla	VpQW---XR-AA---	Pred
+5	vyvarovat	Vf--------A----	Obj
+6	používání	NNNS2-----A----	Obj
+7	čistě	Dg-------1A----	Adv
+8	přírodních	AAIP2----1A----	Atr
+9	materiálů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-85-p15s11
+1	Klima	NNNS4-----A----	Obj
+2	v	RR--6----------	AuxP
+3	bytě	NNIS6-----A----	Atr
+4	může	VB-S---3P-AA---	Pred
+5	ovlivnit	Vf--------A----	Obj
+6	také	Db-------------	AuxZ
+7	vhodný	AAIS1----1A----	Atr
+8	výběr	NNIS1-----A----	Sb
+9	čisticích	AAIP2----1A----	Atr
+10	prostředků	NNIP2-----A----	Atr
+11	a	J^-------------	Coord
+12	vodní	AAIP1----1A----	Atr
+13	osvěžovače	NNIP1-----A----	Sb
+14	vzduchu	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94203-85-p15s12
+1	Suchý	AAIS1----1A----	Atr
+2	a	J^-------------	Coord
+3	teplý	AAIS1----1A----	Atr
+4	vzduch	NNIS1-----A----	Sb
+5	přetopených	AAIP2----1A----	Atr
+6	bytů	NNIP2-----A----	Atr
+7	svědčí	VB-S---3P-AA---	Pred
+8	roztočům	NNMP3-----A----	Obj
+9	a	J^-------------	Coord
+10	hůře	Dg-------2A---1	Adv
+11	se	P7-X4----------	AuxR
+12	v	RR--6----------	AuxP
+13	něm	P5ZS6--3-------	Adv
+14	dýchá	VB-S---3P-AA---	Pred
+15	.	Z:-------------	AuxK
+
+ln94203-85-p15s13
+1	V	RR--6----------	AuxP
+2	bytech	NNIP6-----A----	Adv
+3	alergiků	NNMP2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxR
+6	mělo	VpNS---XR-AA---	Pred
+7	méně	Dg-------2A----	Adv
+8	větrat	Vf--------A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94203-85-p16s1A
+1	Alergik	NNMS1-----A----	Sb
+2	není	VB-S---3P-NA---	Pred
+3	princezna	NNFS1-----A----	Pnom
+4	na	RR--6----------	AuxP
+5	hrášku	NNIS6-----A----	Atr
+
+ln94203-85-p16s1B
+1	V	RR--6----------	AuxP
+2	nedávné	AAFS6----1N----	Atr
+3	době	NNFS6-----A----	Adv
+4	prováděla	VpQW---XR-AA---	Pred
+5	Hana	NNFS1-----A----	Atr
+6	Drahoňovská	NNFS1-----A----	Sb
+7	výzkum	NNIS4-----A----	Obj
+8	zaměřený	AAIS4----1A----	Atr
+9	na	RR--4----------	AuxP
+10	situaci	NNFS4-----A----	Obj
+11	v	RR--6----------	AuxP
+12	bytech	NNIP6-----A----	Atr
+13	alergických	AAFP2----1A----	Atr
+14	dětí	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94203-85-p16s2
+1	Zjistila	VpQW---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	celkově	Dg-------1A----	Adv
+6	jsou	VB-P---3P-AA---	Obj
+7	tyto	PDIP1----------	Atr
+8	byty	NNIP1-----A----	Sb
+9	lepší	AAIP1----2A----	Pnom
+10	než	J,-------------	AuxC
+11	ostatní	AAIP1----1A----	ExD
+12	.	Z:-------------	AuxK
+
+ln94203-85-p16s3
+1	Bývají	VB-P---3P-AA---	Obj
+2	například	Db-------------	AuxY
+3	uklizenější	AAIP1----2A----	Pnom
+4	,	Z:-------------	AuxX
+5	říká	VB-S---3P-AA---	Pred
+6	.	Z:-------------	AuxK
+
+ln94203-85-p16s4
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	pořádku	NNIS6-----A----	Adv
+5	.	Z:-------------	AuxK
+
+ln94203-85-p16s5
+1	O	RR--4----------	AuxP
+2	děti	NNFP4-----A----	Obj
+3	alergické	AAFP4----1A----	Atr
+4	je	VB-S---3P-AA---	AuxV
+5	pečováno	VsNS---XX-AP---	Pred
+6	více	Dg-------2A----	Adv
+7	než	J,-------------	AuxC
+8	o	RR--4----------	AuxP
+9	jejich	PSXXXXP3-------	Atr
+10	protějšky	NNIP4-----A----	ExD
+11	touto	PDFS7----------	Atr
+12	civilizační	AAFS7----1A----	Atr
+13	chorobou	NNFS7-----A----	Obj
+14	nepostižené	AAIP4----1N----	Atr
+15	.	Z:-------------	AuxK
+
+ln94203-85-p16s6
+1	Rodiče	NNMP1-----A----	Sb
+2	to	PDNS4----------	Obj
+3	někdy	Db-------------	Adv
+4	přehánějí	VB-P---3P-AA---	Obj
+5	,	Z:-------------	AuxX
+6	míní	VB-S---3P-AA---	Pred
+7	Hana	NNFS1-----A----	Atr
+8	Drahoňovská	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94203-85-p16s7
+1	Své	P8FP4---------1	Atr
+2	děti	NNFP4-----A----	Obj
+3	pak	Db-------------	Adv
+4	zbytečně	Dg-------1A----	Adv
+5	překrmují	VB-P---3P-AA---	Pred
+6	a	J^-------------	Coord
+7	byty	NNIP1-----A----	Sb
+8	bývají	VB-P---3P-AA---	Pred
+9	přetopené	AAIP1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	ačkoliv	J,-------------	AuxC
+12	optimální	AAFS1----1A----	Atr
+13	teplota	NNFS1-----A----	Sb
+14	pro	RR--4----------	AuxP
+15	alergika	NNMS4-----A----	Atr
+16	je	VB-S---3P-AA---	Adv
+17	20	C=-------------	Pnom
+18	stupňů	NNIP2-----A----	Atr
+19	Celsia	NNMS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94203-85-p16s8
+1	Dítě	NNNS1-----A----	Sb
+2	potřebuje	VB-S---3P-AA---	Pred
+3	celkové	AANS4----1A----	Atr
+4	otužování	NNNS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	byla	VpQW---XR-AA---	AuxV
+8	posílena	VsQW---XX-AP---	Adv
+9	jeho	PSXXXZS3-------	Atr
+10	imunitní	AAFS1----1A----	Atr
+11	soustava	NNFS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94203-85-p16s9
+1	Zajímavé	AANS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	více	Dg-------2A----	Obj
+6	alergických	AAFP2----1A----	Atr
+7	dětí	NNFP2-----A----	Atr
+8	mají	VB-P---3P-AA---	Sb
+9	matky	NNFP1-----A----	Sb
+10	vysokoškolačky	NNFP1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	zřejmě	Dg-------1A----	AuxY
+13	proto	Db-------------	Adv
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	svým	P8XP3----------	Atr
+17	dětem	NNFP3-----A----	Obj
+18	poskytují	VB-P---3P-AA---	Adv
+19	větší	AAFS4----2A----	Atr
+20	péči	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94203-85-p16s10
+1	Formaldehyd	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	o	RR--6----------	AuxP
+4	němž	P9ZS6----------	Obj
+5	se	P7-X4----------	AuxT
+6	odborníci	NNMP1-----A----	Sb
+7	domnívají	VB-P---3P-AA---	Atr
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	by	Vc-------------	AuxV
+11	také	Db-------------	Adv
+12	mohl	VpYS---XR-AA---	Obj
+13	podporovat	Vf--------A----	Obj
+14	vznik	NNIS4-----A----	Obj
+15	alergií	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	v	RR--6----------	AuxP
+18	bytech	NNIP6-----A----	Adv
+19	zaznamenán	VsYS---XX-AP---	Pred
+20	nebyl	VpYS---XR-NA---	AuxV
+21	.	Z:-------------	AuxK
+
+ln94203-85-p16s11
+1	Nevyskytovalo	VpNS---XR-NA---	Pred
+2	se	P7-X4----------	AuxT
+3	ani	J^-------------	AuxZ
+4	více	Dg-------2A----	Sb
+5	plísní	NNFP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln94203-85-p16s12
+1	Dotazníkem	NNIS7-----A----	Adv
+2	bylo	VpNS---XR-AA---	AuxV
+3	ve	RV--6----------	AuxP
+4	vybraných	AAFP6----1A----	Atr
+5	rodinách	NNFP6-----A----	Adv
+6	zjištěno	VsNS---XX-AP---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	s	RR--7----------	AuxP
+10	věkem	NNIS7-----A----	Adv
+11	dítěte	NNNS2-----A----	Atr
+12	péče	NNFS1-----A----	Sb
+13	o	RR--4----------	AuxP
+14	byt	NNIS4-----A----	Atr
+15	klesá	VB-S---3P-AA---	Sb
+16	.	Z:-------------	AuxK
+
+ln94203-85-p17s1
+1	Hana	NNFS1-----A----	Atr
+2	Drahoňovská	NNFS1-----A----	Sb
+3	nepovažuje	VB-S---3P-NA---	Pred
+4	za	RR--4----------	AuxP
+5	moudré	AANS4----1A----	Obj
+6	vylučovat	Vf--------A----	Obj
+7	děti	NNFP4-----A----	Obj
+8	zbytečně	Dg-------1A----	Adv
+9	z	RR--2----------	AuxP
+10	kolektivů	NNIP2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94203-85-p17s2
+1	Dostatek	NNIS1-----A----	Sb
+2	pohybu	NNIS2-----A----	Atr
+3	a	J^-------------	Coord
+4	zdravá	AAFS1----1A----	Atr
+5	výživa	NNFS1-----A----	Sb
+6	jim	PPXP3--3-------	Obj
+7	naopak	Db-------------	Adv
+8	prospějí	VB-P---3P-AA--1	Pred
+9	.	Z:-------------	AuxK
+
+ln94203-85-p17s3
+1	Alergické	AANS1----1A----	Atr
+2	dítě	NNNS1-----A----	Sb
+3	nepotřebuje	VB-S---3P-NA---	Obj
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	bylo	VpNS---XR-AA---	AuxV
+7	chováno	VsNS---XX-AP---	Obj
+8	jako	J,-------------	AuxC
+9	v	RR--6----------	AuxP
+10	bavlnce	NNFS6-----A----	ExD
+11	,	Z:-------------	AuxX
+12	tvrdí	VB-S---3P-AA---	Pred
+13	Hana	NNFS1-----A----	Atr
+14	Drahoňovská	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94203-85-p18s1
+1	Na	RR--4----------	AuxP
+2	druhou	CrFS4----------	Atr
+3	stranu	NNFS4-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	ukázalo	VpNS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	i	J^-------------	AuxZ
+9	v	RR--6----------	AuxP
+10	bytech	NNIP6-----A----	Adv
+11	astmatických	AAFP2----1A----	Atr
+12	dětí	NNFP2-----A----	Atr
+13	jsou	VB-P---3P-AA---	Sb
+14	kočky	NNFP1-----A----	Sb
+15	nebo	J^-------------	Coord
+16	že	J,-------------	AuxC
+17	tam	Db-------------	Adv
+18	rodiče	NNMP1-----A----	Sb
+19	kouří	VB-P---3P-AA---	Sb
+20	.	Z:-------------	AuxK
+
+ln94203-85-p18s2
+1	Produktem	NNIS7-----A----	Pnom
+2	kouření	NNNS2-----A----	Atr
+3	sice	Db-------------	AuxY
+4	není	VB-S---3P-NA---	Pred
+5	žádný	PWYS1----------	Atr
+6	alergen	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	kouř	NNIS1-----A----	Sb
+10	dráždí	VB-S---3P-AA---	Pred
+11	oči	NNFP4-----A----	Obj
+12	a	J^-------------	Coord
+13	sliznice	NNFP4-----A----	Obj
+14	dýchacích	AAFP2----1A----	Atr
+15	cest	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94203-85-p18s3
+1	Přesto	Dg-------1A----	Coord
+2	kouří	VB-S---3P-AA---	Pred
+3	asi	TT-------------	AuxZ
+4	30	C=-------------	Sb
+5	až	J^-------------	Coord
+6	40	C=-------------	Sb
+7	procent	NNNP2-----A----	Atr
+8	rodičů	NNMP2-----A----	Atr
+9	alergiků	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-85-p18s4
+1	Jiní	AAMP1----1A----	Atr
+2	rodiče	NNMP1-----A----	Sb
+3	zase	Db-------------	Adv
+4	ve	RV--6----------	AuxP
+5	všem	PLZS6----------	Adv
+6	spoléhají	VB-P---3P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	lékaře	NNMS4-----A----	Obj
+9	a	J^-------------	Coord
+10	čekají	VB-P---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	co	PQ--4----------	Obj
+13	jejich	PSXXXXP3-------	Atr
+14	dítěti	NNNS3-----A----	Obj
+15	předepíše	VB-S---3P-AA---	Obj
+16	.	Z:-------------	AuxK
+
+ln94203-85-p18s5
+1	Přitom	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	musí	VB-S---3P-AA---	Obj
+4	každý	AAMS1----1A----	Sb
+5	sám	PLYS1----------	Atv
+6	starat	Vf--------A----	Obj
+7	o	RR--4----------	AuxP
+8	své	P8NS4---------1	Atr
+9	zdraví	NNNS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	dodává	VB-S---3P-AA---	Pred
+12	Hana	NNFS1-----A----	Atr
+13	Drahoňovská	NNFS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94203-85-p19s1
+1	Budou	VB-P---3F-AA---	Pred
+2	ze	RV--2----------	AuxP
+3	všech	PLXP2----------	Adv
+4	alergici	NNMP1-----A----	Sb
+5	?	Z:-------------	AuxK
+
+ln94203-85-p20s1
+1	Alergií	NNFP2-----A----	Sb
+2	všude	Db-------------	Adv
+3	ve	RV--6----------	AuxP
+4	světě	NNIS6-----A----	Adv
+5	přibývá	VB-S---3P-AA---	Pred
+6	.	Z:-------------	AuxK
+
+ln94203-85-p20s2
+1	Odborníci	NNMP1-----A----	Sb
+2	vedou	VB-P---3P-AA---	Pred
+3	spory	NNIP4-----A----	Obj
+4	o	RR--6----------	AuxP
+5	tom	PDZS6----------	Atr
+6	,	Z:-------------	AuxX
+7	co	PQ--1----------	Sb
+8	je	VB-S---3P-AA---	Atr
+9	jejich	PSXXXXP3-------	Atr
+10	skutečnou	AAFS7----1A----	Atr
+11	příčinou	NNFS7-----A----	Pnom
+12	.	Z:-------------	AuxK
+
+ln94203-85-p20s3
+1	Mnozí	AAMP1----1A----	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	se	P7-X4----------	AuxT
+5	domnívají	VB-P---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	tělo	NNNS1-----A----	Sb
+9	alergika	NNMS2-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	touto	PDFS7----------	Atr
+12	reakcí	NNFS7-----A----	Adv
+13	něčemu	PZ--3----------	Obj
+14	brání	VB-S---3P-AA---	Obj
+15	,	Z:-------------	Coord
+16	možná	Db-------------	ExD
+17	nějaké	PZFS3----------	Atr
+18	další	AAFS3----1A----	Atr
+19	,	Z:-------------	Coord
+20	horší	AAFS3----2A----	Atr
+21	infekci	NNFS3-----A----	ExD
+22	.	Z:-------------	AuxK
+
+ln94203-85-p20s4
+1	Vědci	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	zabývají	VB-P---3P-AA---	Pred
+4	také	Db-------------	AuxZ
+5	dědičností	NNFS7-----A----	Obj
+6	alergie	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94203-85-p20s5
+1	Zdá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jde	VB-S---3P-AA---	Sb
+6	i	J^-------------	AuxZ
+7	o	RR--4----------	AuxP
+8	záležitost	NNFS4-----A----	Obj
+9	genetickou	AAFS4----1A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-85-p20s6
+1	Přenáší	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	zřejmě	Dg-------1A----	AuxY
+4	přes	RR--4----------	AuxP
+5	matku	NNFS4-----A----	Adv
+6	a	J^-------------	Coord
+7	přes	RR--4----------	AuxP
+8	jednu	ClFS4----------	Atr
+9	generaci	NNFS4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94203-85-p20s7
+1	Vinen	ACYS------A----	Pnom
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	být	Vf--------A----	Obj
+5	11	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	chromozom	NNIS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94203-85-p20s8
+1	Jsou	VB-P---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	rodiče	NNMP1-----A----	Sb
+5	alergici	NNMP1-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	existuje	VB-S---3P-AA---	Pred
+8	velká	AAFS1----1A----	Atr
+9	pravděpodobnost	NNFS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	jejich	PSXXXXP3-------	Atr
+13	dítě	NNNS1-----A----	Sb
+14	nebude	VB-S---3F-NA---	Atr
+15	jiné	AANS1----1A----	Pnom
+16	.	Z:-------------	AuxK
+
+ln94203-85-p20s9
+1	Kromě	RR--2----------	AuxP
+2	dědičnosti	NNFS2-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	na	RR--6----------	AuxP
+5	vzniku	NNIS6-----A----	Obj
+6	alergií	NNFP2-----A----	Atr
+7	stejnou	AAFS7----1A----	Atr
+8	měrou	NNFS7-----A----	Adv
+9	podílí	VB-S---3P-AA---	Pred
+10	i	J^-------------	AuxZ
+11	vliv	NNIS1-----A----	Sb
+12	prostředí	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94203-85-p20s10
+1	Počet	NNIS1-----A----	Sb
+2	alergických	AAFP2----1A----	Atr
+3	dětí	NNFP2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	liší	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	podle	RR--2----------	AuxP
+8	toho	PDZS2----------	Adv
+9	,	Z:-------------	AuxX
+10	v	RR--6----------	AuxP
+11	jakém	P4ZS6----------	Atr
+12	ročním	AANS6----1A----	Atr
+13	období	NNNS6-----A----	Adv
+14	se	P7-X4----------	AuxT
+15	narodily	VpTP---XR-AA---	Atr
+16	.	Z:-------------	AuxK
+
+ln94203-85-p20s11
+1	Nejvíce	Dg-------3A----	Sb
+2	alergiků	NNMP2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	mezi	RR--7----------	AuxP
+5	narozenými	AAFP7----1A----	Adv
+6	od	RR--2----------	AuxP
+7	dubna	NNIS2-----A----	Adv
+8	do	RR--2----------	AuxP
+9	června	NNIS2-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94203-85-p21s1
+1	U	RR--2----------	AuxP
+2	nás	PP-P2--1-------	Adv
+3	je	VB-S---3P-AA---	AuxV
+4	stoupající	AGIS1-----A----	Atr
+5	počet	NNIS1-----A----	Sb
+6	alergií	NNFP2-----A----	Atr
+7	spojován	VsYS---XX-AP---	Pred
+8	se	RV--7----------	AuxP
+9	znečištěním	NNNS7-----A----	Obj
+10	ovzduší	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	jak	Db-------------	Adv
+14	podotýká	VB-S---3P-AA---	Pred
+15	Hana	NNFS1-----A----	Atr
+16	Drahoňovská	NNFS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	to	PDNS1----------	Sb
+19	se	P7-X4----------	AuxT
+20	pojí	VB-S---3P-AA---	Pred
+21	především	Db-------------	AuxZ
+22	s	RR--7----------	AuxP
+23	nealergickým	AANS7----1N----	Atr
+24	onemocněním	NNNS7-----A----	Obj
+25	horních	AAFP2----1A----	Atr
+26	cest	NNFP2-----A----	Atr
+27	dýchacích	AAFP2----1A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94203-85-p21s2
+1	Alergie	NNFP4-----A----	Obj
+2	považuje	VB-S---3P-AA---	Pred
+3	doktorka	NNFS1-----A----	Atr
+4	Drahoňovská	NNFS1-----A----	Sb
+5	spíše	Dg-------2A---1	Adv
+6	za	RR--4----------	AuxP
+7	otázku	NNFS4-----A----	Obj
+8	vnitřního	AANS2----1A----	Atr
+9	prostředí	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-85-p21s3
+1	Poukazuje	VB-S---3P-AA---	Pred
+2	na	RR--4----------	AuxP
+3	výsledky	NNIP4-----A----	Obj
+4	nedávného	AAIS2----1N----	Atr
+5	výzkumu	NNIS2-----A----	Atr
+6	německých	AAMP2----1A----	Atr
+7	vědců	NNMP2-----A----	AtrAtr
+8	,	Z:-------------	AuxX
+9	kteří	P4MP1----------	Sb
+10	zjistili	VpMP---XR-AA---	Atr
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	více	Dg-------2A----	Sb
+14	alergiků	NNMP2-----A----	Atr
+15	žije	VB-S---3P-AA---	Obj
+16	v	RR--6----------	AuxP
+17	ekologicky	Dg-------1A----	Adv
+18	čistším	AAIS6----2A----	Atr
+19	Mnichově	NNIS6-----A----	Adv
+20	než	J,-------------	AuxC
+21	v	RR--6----------	AuxP
+22	uhelných	AAFP6----1A----	Atr
+23	pánvích	NNFP6-----A----	ExD
+24	severního	AANS2----1A----	Atr
+25	Německa	NNNS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94203-85-p21s4
+1	Zdá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	alergie	NNFP1-----A----	Sb
+6	jsou	VB-P---3P-AA---	Sb
+7	nemocí	NNFS7-----A----	Pnom
+8	přecitlivělého	AAMS2----1A----	Atr
+9	západního	AAMS2----1A----	Atr
+10	člověka	NNMS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	protože	J,-------------	AuxC
+13	jeho	PSXXXZS3-------	Atr
+14	životní	AAIS1----1A----	Atr
+15	styl	NNIS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	vzdalující	AGIS1-----A----	Atr
+18	se	P7-X4----------	AuxT
+19	přírodě	NNFS3-----A----	Obj
+20	,	Z:-------------	AuxX
+21	vede	VB-S---3P-AA---	Adv
+22	ke	RV--3----------	AuxP
+23	zpohodlnění	NNNS3-----A----	Adv
+24	.	Z:-------------	AuxK
+
+ln94203-85-p21s5
+1	Avšak	J^-------------	Coord
+2	špatné	AAFP1----1A----	Atr
+3	rozptylové	AAFP1----1A----	Atr
+4	podmínky	NNFP1-----A----	Sb
+5	a	J^-------------	Coord
+6	znečištění	NNNS1-----A----	Sb
+7	ovzduší	NNNS2-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	také	Db-------------	Adv
+10	podpisují	VB-P---3P-AA---	Pred
+11	na	RR--6----------	AuxP
+12	množství	NNNS6-----A----	Adv
+13	stoupajících	AGFP2-----A----	Atr
+14	alergií	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	porušují	VB-P---3P-AA---	Pred
+17	sliznice	NNFP4-----A----	Obj
+18	a	J^-------------	Coord
+19	umožňují	VB-P---3P-AA---	Pred
+20	snazší	AAIS4----2A----	Atr
+21	průnik	NNIS4-----A----	Obj
+22	alergenů	NNIP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94203-85-p21s6
+1	I	J^-------------	Coord
+2	proto	J^-------------	AuxY
+3	patří	VB-S---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	nejpostiženějším	AAFP3----3A----	Atr
+6	oblastem	NNFP3-----A----	Obj
+7	České	AAFS2----1A----	Atr
+8	republiky	NNFS2-----A----	Atr
+9	Praha	NNFS1-----A----	Sb
+10	a	J^-------------	Coord
+11	severní	AAFP1----1A----	Atr
+12	Čechy	NNFP1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94203-85-p22s1
+1	Co	PQ--4----------	Obj
+2	nám	PP-P3--1-------	Obj
+3	chce	VB-S---3P-AA---	Obj
+4	příroda	NNFS1-----A----	Sb
+5	dát	Vf--------A----	Obj
+6	alergiemi	NNFP7-----A----	Adv
+7	najevo	Db-------------	Adv
+8	?	Z:-------------	AuxK
+9	ptá	VB-S---3P-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	Hana	NNFS1-----A----	Atr
+12	Drahoňovská	NNFS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94203-85-p23s1A
+1	Jedním	ClZS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	nejsilnějších	AAIP2----3A----	Atr
+4	vlivů	NNIP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	které	P4IP1----------	Sb
+7	vznik	NNIS4-----A----	Obj
+8	alergických	AAFP2----1A----	Atr
+9	reakcí	NNFP2-----A----	Atr
+10	podmiňují	VB-P---3P-AA---	Atr
+11	,	Z:-------------	AuxX
+12	je	VB-S---3P-AA---	Pred
+13	stres	NNIS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	duševní	AAFS1----1A----	Atr
+16	nepohoda	NNFS1-----A----	Sb
+17	,	Z:-------------	Coord
+18	strádání	NNNS1-----A----	Sb
+19	.	Z:-------------	AuxG
+20	.	Z:-------------	AuxG
+21	.	Z:-------------	AuxG
+
+ln94203-85-p23s1B
+1	Ten	PDYS1----------	Sb
+2	,	Z:-------------	AuxX
+3	kdo	PKM-1----------	Sb
+4	si	P7-X3----------	Obj
+5	alergickým	AAIS7----1A----	Atr
+6	stavem	NNIS7-----A----	Adv
+7	svým	P8ZS7----------	Atr
+8	nebo	J^-------------	Coord
+9	svého	P8ZS2----------	Atr
+10	dítěte	NNNS2-----A----	Atr
+11	nedá	VB-S---3P-NA---	Atr
+12	zkazit	Vf--------A----	Obj
+13	dobrou	AAFS4----1A----	Atr
+14	náladu	NNFS4-----A----	Obj
+15	a	J^-------------	Coord
+16	narušit	Vf--------A----	Obj
+17	rodinnou	AAFS4----1A----	Atr
+18	pohodu	NNFS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	ví	VB-S---3P-AA---	Pred
+21	si	P7-X3----------	Adv
+22	rady	NNFS2-----A----	Obj
+23	s	RR--7----------	AuxP
+24	alergií	NNFS7-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln94203-85-p24s1
+1	(	Z:-------------	AuxG
+2	Víme	VB-P---1P-AA---	ExD
+3	si	P7-X3----------	Adv
+4	rady	NNFS2-----A----	Obj
+5	s	RR--7----------	AuxP
+6	alergií	NNFS7-----A----	Adv
+7	,	Z:-------------	Coord
+8	ERASMUS	NNIS1-----A----	ExD
+9	1993	C=-------------	ExD
+10	)	Z:-------------	AuxG
+

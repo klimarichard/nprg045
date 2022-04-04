@@ -1,0 +1,553 @@
+ln95049-133-p1s1
+1	Děti	NNFP1-----A----	ExD
+2	jako	J,-------------	AuxC
+3	dělová	AAFS1----1A----	Atr
+4	koule	NNFS1-----A----	Atr
+
+ln95049-133-p2s1A
+1	Sedačky	NNFP1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	nezletilé	AAMP4----1N----	Atr
+4	nejsou	VB-P---3P-NA---	Pred
+5	u	RR--2----------	AuxP
+6	nás	PP-P2--1-------	Adv
+7	povinné	AAFP1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	přesto	Dg-------1A----	AuxY
+11	potřebné	AAFP1----1A----	Pnom
+
+ln95049-133-p2s1B
+1	Nejohroženějšími	AAFP7----3A----	Atr
+2	bytostmi	NNFP7-----A----	Pnom
+3	v	RR--6----------	AuxP
+4	silniční	AAFS6----1A----	Atr
+5	dopravě	NNFS6-----A----	Adv
+6	jsou	VB-P---3P-AA---	Pred
+7	děti	NNFP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95049-133-p2s2
+1	Ročně	Dg-------1A----	Adv
+2	jich	PPXP2--3-------	Atr
+3	je	VB-S---3P-AA---	Pred
+4	při	RR--6----------	AuxP
+5	autonehodách	NNFP6-----A----	Adv
+6	v	RR--6----------	AuxP
+7	Evropě	NNFS6-----A----	Atr
+8	zraněno	VsNS---XX-AP---	Pnom
+9	80000	C=-------------	Sb
+10	,	Z:-------------	Coord
+11	z	RR--2----------	AuxP
+12	toho	PDZS2----------	Atr
+13	tisíc	NNIS1-----A----	Sb
+14	zemře	VB-S---3P-AA---	Pred
+15	.	Z:-------------	AuxK
+
+ln95049-133-p2s3
+1	Bilance	NNFS1-----A----	ExD
+2	o	RR--4----------	AuxP
+3	to	PDNS4----------	Adv
+4	smutnější	AAFS1----2A----	Atr
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	mnoho	Ca--1----------	Sb
+8	dětí	NNFP2-----A----	Atr
+9	mohlo	VpNS---XR-AA---	Atr
+10	být	Vf--------A----	AuxV
+11	ušetřeno	VsNS---XX-AP---	Obj
+12	bolesti	NNFS2-----A----	Obj
+13	a	J^-------------	Coord
+14	velký	AAIS1----1A----	Atr
+15	počet	NNIS1-----A----	Sb
+16	nemusel	VpYS---XR-NA---	Atr
+17	zahynout	Vf--------A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95049-133-p2s4
+1	Stačilo	VpNS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	aby	J,-------------	AuxC
+4	byly	VpTP---XR-AA---	AuxV
+5	připoutány	VsTP---XX-AP---	Sb
+6	.	Z:-------------	AuxK
+
+ln95049-133-p2s5
+1	Náraz	NNIS1-----A----	Sb
+2	při	RR--6----------	AuxP
+3	rychlosti	NNFS6-----A----	Atr
+4	30	C=-------------	Atr
+5	km	NNIXX-----A---8	Atr
+6	/	Z:-------------	AuxG
+7	h	NNFXX-----A---8	Atr
+8	odpovídá	VB-S---3P-AA---	Pred
+9	pádu	NNIS3-----A----	Obj
+10	z	RR--2----------	AuxP
+11	prvního	CrNS2----------	Atr
+12	patra	NNNS2-----A----	Atr
+13	a	J^-------------	Coord
+14	při	RR--6----------	AuxP
+15	padesátikilometrové	AAFS6----1A----	Atr
+16	rychlosti	NNFS6-----A----	ExD
+17	z	RR--2----------	AuxP
+18	desetimetrové	AAFS2----1A----	Atr
+19	výšky	NNFS2-----A----	ExD
+20	.	Z:-------------	AuxK
+
+ln95049-133-p2s6
+1	Vézt	Vf--------A----	Atr
+2	malé	AANS4----1A----	Atr
+3	dítě	NNNS4-----A----	Obj
+4	bez	RR--2----------	AuxP
+5	sedačky	NNFS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	případně	Dg-------1A----	Coord
+8	větší	AANS4----2A----	ExD
+9	bez	RR--2----------	AuxP
+10	připoutání	NNNS2-----A----	ExD
+11	,	Z:-------------	AuxX
+12	to	PDNS1----------	Sb
+13	je	VB-S---3P-AA---	Pred
+14	stejné	AANS1----1A----	Pnom
+15	,	Z:-------------	AuxX
+16	jako	J,-------------	AuxC
+17	nechat	Vf--------A----	Adv
+18	je	PPNS4--3-------	Obj
+19	hrát	Vf--------A----	Adv
+20	na	RR--6----------	AuxP
+21	balkónu	NNIS6-----A---1	Adv
+22	bez	RR--2----------	AuxP
+23	zábradlí	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95049-133-p2s7
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	AuxP
+3	nehody	NNFS2-----A----	Adv
+4	dítě	NNNS1-----A----	Sb
+5	stojící	AGNS1-----A----	Atr
+6	či	J^-------------	Coord
+7	sedící	AGNS1-----A----	Atr
+8	na	RR--6----------	AuxP
+9	oblíbeném	AANS6----1A----	Atr
+10	místě	NNNS6-----A----	Adv
+11	mezi	RR--7----------	AuxP
+12	zadními	AANP7----1A----	Atr
+13	sedadly	NNNP7-----A----	Atr
+14	je	VB-S---3P-AA---	AuxV
+15	jako	J,-------------	AuxC
+16	dělová	AAFS1----1A----	Atr
+17	koule	NNFS1-----A----	ExD
+18	vystřeleno	VsNS---XX-AP---	Pred
+19	skrz	RR--4----------	AuxP
+20	přední	AANS4----1A----	Atr
+21	sklo	NNNS4-----A----	Adv
+22	před	RR--4----------	AuxP
+23	vozidlo	NNNS4-----A----	Adv
+24	.	Z:-------------	AuxK
+
+ln95049-133-p3s1
+1	Ve	RV--6----------	AuxP
+2	vyspělých	AAFP6----1A----	Atr
+3	evropských	AAFP6----1A----	Atr
+4	zemích	NNFP6-----A----	Adv
+5	je	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	pravidlech	NNNP6-----A----	Adv
+8	silničního	AAIS2----1A----	Atr
+9	provozu	NNIS2-----A----	Atr
+10	předepsáno	VsNS---XX-AP---	Pnom
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	každé	AANS1----1A----	Atr
+14	dítě	NNNS1-----A----	Sb
+15	musí	VB-S---3P-AA---	Sb
+16	být	Vf--------A----	Obj
+17	upoutáno	VsNS---XX-AP---	Pnom
+18	některým	PZZS7----------	Atr
+19	schváleným	AANS7----1A----	Atr
+20	zadržovacím	AANS7----1A----	Atr
+21	zařízením	NNNS7-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95049-133-p3s2
+1	Ty	PDNP1---------5	Sb
+2	se	P7-X4----------	AuxT
+3	liší	VB-P---3P-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	věku	NNIS2-----A----	Adv
+6	dítěte	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95049-133-p4s1
+1	Pro	RR--4----------	AuxP
+2	děti	NNFP4-----A----	Adv
+3	do	RR--2----------	AuxP
+4	čtyř	ClXP2----------	Atr
+5	let	NNNP2-----A----	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	vzhledem	RF-------------	AuxP
+8	k	RR--3----------	AuxP
+9	relativně	Dg-------1A----	Adv
+10	větší	AAFS3----2A----	Atr
+11	váze	NNFS3-----A----	Adv
+12	hlavy	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	menší	AAFS3----2A----	Atr
+15	odolnosti	NNFS3-----A----	Adv
+16	krku	NNIS2-----A----	Atr
+17	nejvhodnější	AAFP1----3A----	Pnom
+18	sedačky	NNFP1-----A----	Sb
+19	zády	NNNP7-----A----	Atr
+20	ke	RV--3----------	AuxP
+21	směru	NNIS3-----A----	Atr
+22	jízdy	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95049-133-p4s2
+1	Pro	RR--4----------	AuxP
+2	větší	AAFP4----2A----	Atr
+3	děti	NNFP4-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	zase	Db-------------	Adv
+6	potřebné	AAFP1----1A----	Pnom
+7	speciální	AAFP1----1A----	Atr
+8	podložky	NNFP1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln95049-133-p4s3
+1	Normální	AAIS1----1A----	Atr
+2	bezpečnostní	AAIS1----1A----	Atr
+3	pás	NNIS1-----A----	Sb
+4	totiž	Db-------------	AuxY
+5	dítě	NNNS4-----A----	Obj
+6	pod	RR--4----------	AuxP
+7	12	C=-------------	Atr
+8	-	Z:-------------	Coord
+9	13	C=-------------	Atr
+10	let	NNNP2-----A----	Atr
+11	mnohdy	Db-------------	Adv
+12	neuchrání	VB-S---3P-NA---	Pred
+13	.	Z:-------------	AuxK
+
+ln95049-133-p4s4
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	neukončenému	AAIS3----1N----	Atr
+4	vývoji	NNIS3-----A----	Adv
+5	pánve	NNFS2-----A----	Atr
+6	má	VB-S---3P-AA---	Pred
+7	pás	NNIS1-----A----	Sb
+8	po	RR--6----------	AuxP
+9	nárazu	NNIS6-----A---1	Adv
+10	tendenci	NNFS4-----A----	Obj
+11	posunout	Vf--------A----	Atr
+12	se	P7-X4----------	AuxT
+13	vzhůru	Db-------------	Adv
+14	a	J^-------------	Coord
+15	po	RR--6----------	AuxP
+16	zaříznutí	NNNS6-----A----	Adv
+17	do	RR--2----------	AuxP
+18	břicha	NNNS2-----A----	Atr
+19	následují	VB-P---3P-AA---	Pred
+20	poranění	NNNP1-----A----	Sb
+21	jater	NNNP2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	sleziny	NNFS2-----A----	Atr
+24	i	J^-------------	Coord
+25	střev	NNNP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95049-133-p5s1
+1	Řešením	NNNS7-----A----	Pnom
+2	není	VB-S---3P-NA---	Pred
+3	jen	TT-------------	AuxZ
+4	koupě	NNFS1-----A----	Sb
+5	sedačky	NNFS2-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	děti	NNFP4-----A----	Atr
+8	a	J^-------------	Coord
+9	její	PSZS1FS3-------	Atr
+10	důsledné	AANS1----1A----	Atr
+11	užívání	NNNS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln95049-133-p5s2
+1	Odborníci	NNMP1-----A----	Sb
+2	upozorňují	VB-P---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	nezbytné	AANS1----1N----	Pnom
+6	je	VB-S---3P-AA---	Obj
+7	vybrat	Vf--------A----	Sb
+8	správný	AAIS4----1A----	Atr
+9	typ	NNIS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95049-133-p5s3
+1	Nejjistější	AANS1----3A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	koupit	Vf--------A----	Sb
+4	si	P7-X3----------	Obj
+5	výrobcem	NNMS7-----A----	Obj
+6	automobilu	NNIS2-----A----	Atr
+7	doporučený	AAIS4----1A----	Atr
+8	model	NNIS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95049-133-p5s4
+1	Ten	PDYS1----------	Sb
+2	bývá	VB-S---3P-AA---	AuxV
+3	totiž	Db-------------	AuxY
+4	vyzkoušen	VsYS---XX-AP---	Pred
+5	a	J^-------------	Coord
+6	homologován	VsYS---XX-AP---	Pred
+7	pro	RR--4----------	AuxP
+8	vaše	PSNS4-P2-------	Atr
+9	vozidlo	NNNS4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95049-133-p5s5
+1	Pro	RR--4----------	AuxP
+2	dobrou	AAFS4----1A----	Atr
+3	účinnost	NNFS4-----A----	Adv
+4	ostatních	AAIP2----1A----	ExD
+5	je	VB-S---3P-AA---	Pred
+6	třeba	ACNS------A----	Pnom
+7	se	P7-X4----------	AuxT
+8	řídit	Vf--------A----	Sb
+9	doporučením	NNNS7-----A----	Obj
+10	výrobců	NNMP2-----A----	Atr
+11	a	J^-------------	Coord
+12	pečlivě	Dg-------1A----	Adv
+13	dodržovat	Vf--------A----	Sb
+14	i	J^-------------	AuxZ
+15	návod	NNIS4-----A----	Obj
+16	k	RR--3----------	AuxP
+17	použití	NNNS3-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95049-133-p6s1
+1	U	RR--2----------	AuxP
+2	nás	PP-P2--1-------	Adv
+3	zatím	Db-------------	Adv
+4	nejsou	VB-P---3P-NA---	Pred
+5	speciální	AAFP1----1A----	Atr
+6	sedačky	NNFP1-----A----	Sb
+7	pro	RR--4----------	AuxP
+8	dítě	NNNS4-----A----	Atr
+9	předepsány	VsTP---XX-AP---	Pnom
+10	.	Z:-------------	AuxK
+
+ln95049-133-p6s2
+1	Záleží	VB-S---3P-AA---	Pred
+2	tedy	Db-------------	AuxY
+3	na	RR--6----------	AuxP
+4	pocitu	NNIS6-----A----	Obj
+5	odpovědnosti	NNFS2-----A----	Atr
+6	k	RR--3----------	AuxP
+7	vlastním	AAFP3----1A----	Atr
+8	dětem	NNFP3-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95049-133-p6s3
+1	Je	VB-S---3P-AA---	Pred
+2	tu	Db------------1	Adv
+3	však	J^-------------	Coord
+4	jeden	ClYS1----------	Atr
+5	paradox	NNIS1-----A----	Sb
+6	:	Z:-------------	AuxG
+7	pokud	J,-------------	AuxC
+8	si	P7-X3----------	Obj
+9	nějaký	PZYS1----------	Atr
+10	majitel	NNMS1-----A----	Sb
+11	pro	RR--4----------	AuxP
+12	malé	AANS4----1A----	Atr
+13	dítě	NNNS4-----A----	AdvAtr
+14	opatří	VB-S---3P-AA---	Adv
+15	ve	RV--6----------	AuxP
+16	Skandinávii	NNFS6-----A----	Adv
+17	hojně	Dg-------1A----	Adv
+18	používanou	AAFS4----1A----	Atr
+19	a	J^-------------	Coord
+20	doporučovanou	AAFS4----1A----	Atr
+21	sedačku	NNFS4-----A----	Obj
+22	zády	NNNP7-----A----	Atr
+23	ke	RV--3----------	AuxP
+24	směru	NNIS3-----A----	Atr
+25	jízdy	NNFS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	která	P4FS1----------	Sb
+28	se	P7-X4----------	AuxR
+29	montuje	VB-S---3P-AA---	Atr
+30	na	RR--4----------	AuxP
+31	místo	NNNS4-----A----	Adv
+32	spolujezdce	NNMS2-----A----	Atr
+33	vpředu	Db-------------	Atr
+34	,	Z:-------------	AuxX
+35	tak	Db-------------	Adv
+36	poruší	VB-S---3P-AA---	Atr
+37	naše	PSXP4-P1-------	Atr
+38	předpisy	NNIP4-----A----	Obj
+39	.	Z:-------------	AuxK
+
+ln95049-133-p6s4
+1	Ty	PDIP1----------	Sb
+2	nedovolují	VB-P---3P-NA---	Pred
+3	jízdu	NNFS4-----A----	Obj
+4	dítěte	NNNS2-----A----	Atr
+5	pod	RR--4----------	AuxP
+6	15	C=-------------	Atr
+7	let	NNNP2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	předním	AANS6----1A----	Atr
+10	sedadle	NNNS6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95049-133-p6s5
+1	Severští	AAMP1----1A----	Atr
+2	odborníci	NNMP1-----A----	Sb
+3	mají	VB-P---3P-AA---	Pred
+4	však	J^-------------	Coord
+5	pro	RR--4----------	AuxP
+6	takovéto	PDNS4----------	Atr
+7	umístění	NNNS4-----A----	Atr
+8	miminek	NNNP2-----A----	Atr
+9	a	J^-------------	Coord
+10	batolat	NNNP2-----A----	Atr
+11	řadu	NNFS4-----A----	Obj
+12	důvodů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	mezi	RR--4----------	AuxP
+15	které	P4YP4----------	Adv
+16	patří	VB-S---3P-AA---	Atr
+17	například	Db-------------	AuxZ
+18	bezproblémová	AAFS1----1A----	Atr
+19	komunikace	NNFS1-----A----	Sb
+20	řidiče	NNMS2-----A----	Atr
+21	(	Z:-------------	ExD
+22	většinou	Db-------------	ExD
+23	matky	NNFS2-----A----	ExD
+24	)	Z:-------------	ExD
+25	s	RR--7----------	AuxP
+26	dítětem	NNNS7-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95049-133-p6s6
+1	Francouzský	AAIS1----1A----	Atr
+2	Renault	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	se	P7-X4----------	AuxT
+6	věnuje	VB-S---3P-AA---	Atr
+7	této	PDFS3----------	Atr
+8	oblasti	NNFS3-----A----	Obj
+9	velice	Db-------------	Adv
+10	důkladně	Dg-------1A----	Adv
+11	,	Z:-------------	AuxX
+12	řeší	VB-S---3P-AA---	Pred
+13	kontakt	NNIS4-----A----	Obj
+14	řidiče	NNMS2-----A----	Atr
+15	s	RR--7----------	AuxP
+16	malým	AANS7----1A----	Atr
+17	dítětem	NNNS7-----A----	Atr
+18	na	RR--6----------	AuxP
+19	zadním	AANS6----1A----	Atr
+20	sedadle	NNNS6-----A----	Atr
+21	soustavou	NNFS7-----A----	Adv
+22	zrcadel	NNNP2-----A----	Atr
+23	!	Z:-------------	AuxK
+
+ln95049-133-p6s7
+1	Tato	PDFS1----------	Atr
+2	automobilka	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	kompletní	AAFS4----1A----	Atr
+5	paletu	NNFS4-----A----	Obj
+6	sedaček	NNFP2-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	děti	NNFP4-----A----	Atr
+9	všech	PLXP2----------	Atr
+10	kategorií	NNFP2-----A----	Atr
+11	i	J^-------------	Coord
+12	váhy	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95049-133-p7s1
+1	Prvním	CrIS7----------	Atr
+2	úkolem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	přesvědčit	Vf--------A----	Sb
+5	sebe	P6-X4----------	Obj
+6	a	J^-------------	Coord
+7	dát	Vf--------A----	Sb
+8	přednost	NNFS4-----A----	Obj
+9	koupi	NNFS3-----A----	Obj
+10	sedačky	NNFS2-----A----	Atr
+11	před	RR--7----------	AuxP
+12	různými	AANP7----1A----	Atr
+13	kosmetickými	AANP7----1A----	Atr
+14	vylepšeními	NNNP7-----A----	Atr
+15	vozu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95049-133-p7s2
+1	Druhým	CrIS7----------	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	donutit	Vf--------A----	Sb
+4	děti	NNFP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	se	P7-X4----------	Obj
+8	v	RR--6----------	AuxP
+9	autě	NNNS6-----A----	Adv
+10	připoutaly	VpTP---XR-AA---	Obj
+11	a	J^-------------	Coord
+12	zůstaly	VpTP---XR-AA---	Obj
+13	tak	Db-------------	Adv
+14	po	RR--4----------	AuxP
+15	celou	AAFS4----1A----	Atr
+16	dobu	NNFS4-----A----	Adv
+17	jízdy	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95049-133-p7s3
+1	Nemělo	VpNS---XR-NA---	Pred
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	také	Db-------------	Adv
+5	zapomínat	Vf--------A----	Sb
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	zatímco	J,-------------	AuxC
+9	u	RR--2----------	AuxP
+10	nás	PP-P2--1-------	Adv
+11	je	VB-S---3P-AA---	Adv
+12	tato	PDFS1----------	Atr
+13	věc	NNFS1-----A----	Sb
+14	otázkou	NNFS7-----A----	Pnom
+15	dobrovolnosti	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	v	RR--6----------	AuxP
+18	okolních	AAIP6----1A----	Atr
+19	západních	AAIP6----1A----	Atr
+20	státech	NNIP6-----A----	Adv
+21	jsou	VB-P---3P-AA---	Obj
+22	sedačky	NNFP1-----A----	Sb
+23	pro	RR--4----------	AuxP
+24	děti	NNFP4-----A----	Atr
+25	předepsané	AAFP1----1A----	Pnom
+26	a	J^-------------	Coord
+27	tudíž	J^-------------	AuxY
+28	povinné	AAFP1----1A----	Pnom
+29	i	J^-------------	AuxZ
+30	pro	RR--4----------	AuxP
+31	zahraniční	AAMP4----1A----	Atr
+32	návštěvníky	NNMP4-----A----	Adv
+33	.	Z:-------------	AuxK
+
+ln95049-133-p7s4
+1	Včetně	RR--2----------	AuxP
+2	českých	AAMP2----1A----	ExD
+3	.	Z:-------------	AuxK
+

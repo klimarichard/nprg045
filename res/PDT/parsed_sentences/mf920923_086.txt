@@ -1,0 +1,152 @@
+mf920923-086-p1s1
+1	jak	Db-------------	Adv
+2	bude	VB-S---3F-AA---	Pred
+3	?	Z:-------------	AuxK
+
+mf920923-086-p2s1A
+1	POČASÍ	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf920923-086-p2s1B
+1	V	RR--6----------	AuxP
+2	ČR	NNFXX-----A---8	Adv
+3	bude	VB-S---3F-AA---	Pred
+4	polojasno	Dg-------1A----	Adv
+5	,	Z:-------------	Coord
+6	ráno	Db-------------	ExD
+7	ojediněle	Dg-------1A----	ExD
+8	mlhy	NNFP1-----A----	ExD
+9	.	Z:-------------	AuxK
+
+mf920923-086-p2s2
+1	Ranní	AAFP1----1A----	Atr
+2	teploty	NNFP1-----A----	ExD
+3	13	C=-------------	ExD
+4	až	J^-------------	Coord
+5	9	C=-------------	ExD
+6	,	Z:-------------	Coord
+7	nejvyšší	AAFP1----3A----	Atr
+8	denní	AAFP1----1A----	ExD
+9	22	C=-------------	ExD
+10	až	J^-------------	Coord
+11	24	C=-------------	ExD
+12	stupňů	NNIP2-----A----	Atr
+13	Celsia	NNMS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920923-086-p2s3
+1	(	Z:-------------	ExD
+2	Na	RR--6----------	AuxP
+3	Slovensku	NNNS6-----A----	ExD
+4	jasno	Dg-------1A----	ExD
+5	až	J^-------------	Coord
+6	polojasno	Dg-------1A----	ExD
+7	.	Z:-------------	AuxK
+
+mf920923-086-p2s4
+1	Ranní	AAFP1----1A----	Atr
+2	teploty	NNFP1-----A----	ExD
+3	8	C=-------------	ExD
+4	až	J^-------------	Coord
+5	4	C=-------------	ExD
+6	,	Z:-------------	Coord
+7	denní	AAFP1----1A----	ExD
+8	21	C=-------------	ExD
+9	až	J^-------------	Coord
+10	25	C=-------------	ExD
+11	stupňů	NNIP2-----A----	Atr
+12	Celsia	NNMS2-----A----	Atr
+13	.	Z:-------------	AuxK
+14	)	Z:-------------	AuxG
+
+mf920923-086-p3s1
+1	Ve	RV--4----------	AuxP
+2	čtvrtek	NNIS4-----A----	Adv
+3	Slunce	NNNS1-----A----	Sb
+4	vychází	VB-S---3P-AA---	Pred
+5	v	RR--4----------	AuxP
+6	06	C=-------------	Adv
+7	:	Z:-------------	Coord
+8	49	C=-------------	Adv
+9	a	J^-------------	Coord
+10	zapadá	VB-S---3P-AA---	Pred
+11	v	RR--4----------	AuxP
+12	18	C=-------------	Adv
+13	:	Z:-------------	Coord
+14	53	C=-------------	Adv
+15	.	Z:-------------	AuxK
+
+mf920923-086-p3s2
+1	Měsíc	NNIS1-----A----	Sb
+2	vychází	VB-S---3P-AA---	Pred
+3	ve	RV--4----------	AuxP
+4	čtvrtek	NNIS4-----A----	Adv
+5	v	RR--4----------	AuxP
+6	04	C=-------------	Adv
+7	:	Z:-------------	Coord
+8	05	C=-------------	Adv
+9	a	J^-------------	Coord
+10	zapadá	VB-S---3P-AA---	Pred
+11	v	RR--4----------	AuxP
+12	17	C=-------------	Adv
+13	:	Z:-------------	Coord
+14	33	C=-------------	Adv
+15	.	Z:-------------	AuxK
+
+mf920923-086-p4s1A
+1	REKORDY	NNIP1-----A----	ExD
+2	DNE	NNIS2-----A----	Atr
+3	:	Z:-------------	AuxK
+
+mf920923-086-p4s1B
+1	Nejvyšší	AAFS4----3A----	Atr
+2	teplotu	NNFS4-----A----	Obj
+3	28.1	C=-------------	Atr
+4	stupně	NNIS2-----A----	Atr
+5	Celsia	NNMS2-----A----	Atr
+6	naměřili	VpMP---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	roce	NNIS6-----A---1	Adv
+9	1987	C=-------------	Atr
+10	,	Z:-------------	Coord
+11	nejnižší	AAFS4----3A----	ExD
+12	2.3	C=-------------	Atr
+13	v	RR--6----------	AuxP
+14	roce	NNIS6-----A---1	ExD
+15	1876	C=-------------	Atr
+16	.	Z:-------------	AuxK
+
+mf920923-086-p4s2
+1	Dlouhodobý	AAIS1----1A----	Atr
+2	teplotní	AAIS1----1A----	Atr
+3	normál	NNIS1-----A----	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	13.8	C=-------------	Sb
+6	stupňů	NNIP2-----A----	Atr
+7	Celsia	NNMS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf920923-086-p5s1A
+1	SLUNEČNÍ	AAFS1----1A----	Atr
+2	AKTIVITA	NNFS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+mf920923-086-p5s1B
+1	Erupční	AAFS1----1A----	Atr
+2	aktivita	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	slabá	AAFS1----1A----	Pnom
+5	,	Z:-------------	Coord
+6	geomag	AAXXX----1A----	Atr
+7	.	Z:-------------	AuxG
+8	pole	NNNS1-----A----	ExD
+9	porušené	AANS1----1A----	ExD
+10	.	Z:-------------	AuxK
+
+mf920923-086-p6s1
+1	TURISTICKÉ	AAFP1----1A----	Atr
+2	OBLASTI	NNFP1-----A----	ExD
+3	:	Z:-------------	ExD
+4	Londýn	NNIS1-----A----	ExD
+5	-	Z:-------------	AuxK
+

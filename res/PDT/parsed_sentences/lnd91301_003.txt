@@ -1,0 +1,981 @@
+lnd91301-003-p1s1
+1	VYMŘELI	VpMP---XR-AA---	Pred
+2	U	RR--2----------	AuxP
+3	NÁS	PP-P2--1-------	Adv
+4	LASKAVÍ	AAMP1----1A----	Atr
+5	KAPITALISTÉ	NNMP1-----A----	Sb
+6	?	Z:-------------	AuxK
+
+lnd91301-003-p2s1
+1	Džungle	NNFS1-----A----	ExD
+2	pod	RR--7----------	AuxP
+3	jednou	ClFS7----------	Atr
+4	střechou	NNFS7-----A----	Atr
+
+lnd91301-003-p3s1
+1	Těžký	AAIS1----1A----	Atr
+2	život	NNIS1-----A----	ExD
+3	majitele	NNMS2-----A----	Atr
+4	,	Z:-------------	Coord
+5	těžký	AAIS1----1A----	Atr
+6	život	NNIS1-----A----	ExD
+7	nájemníka	NNMS2-----A----	Atr
+8	-	Z:-------------	Coord
+9	tak	Db-------------	Adv
+10	nějak	Db-------------	Adv
+11	by	Vc-------------	AuxV
+12	bylo	VpNS---XR-AA---	Pred
+13	možné	AANS1----1A----	Pnom
+14	charakterizovat	Vf--------A----	Sb
+15	stav	NNIS4-----A----	Obj
+16	několik	Ca--4----------	Adv
+17	měsíců	NNIP2-----A----	Adv
+18	poté	Db-------------	Adv
+19	,	Z:-------------	AuxX
+20	co	J,-------------	AuxC
+21	vstoupil	VpYS---XR-AA---	Adv
+22	v	RR--4----------	AuxP
+23	platnost	NNFS4-----A----	Adv
+24	restituční	AAIS1----1A----	Atr
+25	zákon	NNIS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+lnd91301-003-p3s2
+1	Domy	NNIP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	AuxV
+3	vraceny	VsTP---XX-AP---	Pred
+4	často	Dg-------1A----	Adv
+5	v	RR--6----------	AuxP
+6	žalostném	AAIS6----1A----	Atr
+7	stavu	NNIS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	zákon	NNIS1-----A----	Sb
+10	dbá	VB-S---3P-AA---	Pred
+11	na	RR--4----------	AuxP
+12	ochranu	NNFS4-----A----	Obj
+13	nájemníků	NNMP2-----A----	Atr
+14	snad	Db-------------	Adv
+15	až	TT-------------	AuxZ
+16	příliš	Db-------------	Adv
+17	,	Z:-------------	AuxX
+18	zvýšení	NNNS1-----A----	Sb
+19	nájemného	NNNS2-----A----	Atr
+20	na	RR--4----------	AuxP
+21	sebe	P6-X4----------	Obj
+22	nechá	VB-S---3P-AA---	Pred
+23	ještě	Db-------------	AuxZ
+24	půl	NNFS4-----A----	Adv
+25	roku	NNIS2-----A---1	Atr
+26	čekat	Vf--------A----	Obj
+27	,	Z:-------------	Coord
+28	trh	NNIS1-----A----	Sb
+29	s	RR--7----------	AuxP
+30	byty	NNIP7-----A----	Atr
+31	je	VB-S---3P-AA---	Pred
+32	zatím	Db-------------	Adv
+33	iluzí	NNFS7-----A----	Pnom
+34	.	Z:-------------	AuxK
+
+lnd91301-003-p3s3
+1	Majitel	NNMS1-----A----	Sb
+2	nevidí	VB-S---3P-NA---	Pred
+3	východisko	NNNS4-----A----	Obj
+4	a	J^-------------	Coord
+5	začne	VB-S---3P-AA---	Pred
+6	jednat	Vf--------A----	Obj
+7	po	RR--6----------	AuxP
+8	svém	P8ZS6----------	Adv
+9	.	Z:-------------	AuxK
+
+lnd91301-003-p4s1
+1	BEZMOCNÝ	AAIS1----1A----	Atr
+2	ÚŘAD	NNIS1-----A----	ExD
+
+lnd91301-003-p5s1
+1	Od	RR--2----------	AuxP
+2	léta	NNNS2-----A----	Adv
+3	jsme	VB-P---1P-AA---	AuxV
+4	měli	VpMP---XR-AA---	Obj
+5	několik	Ca--4----------	Obj
+6	desítek	NNFP2-----A----	Atr
+7	případů	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	se	P7-X4----------	AuxT
+11	domácí	AAMP1----1A----	Sb
+12	pokoušejí	VB-P---3P-AA---	Atr
+13	omezit	Vf--------A----	Obj
+14	práva	NNNP4-----A----	Obj
+15	občanů	NNMP2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	užívání	NNNS6-----A----	Atr
+18	jejich	PSXXXXP3-------	Atr
+19	bytu	NNIS2-----A----	Atr
+20	tím	PDZS7----------	Adv
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	uzavírají	VB-P---3P-AA---	Atr
+24	přívod	NNIS4-----A----	Obj
+25	vody	NNFS2-----A----	Atr
+26	a	J^-------------	Coord
+27	tepla	NNNS2-----A----	Atr
+28	,	Z:-------------	Coord
+29	někde	Db-------------	Adv
+30	se	P7-X4----------	AuxT
+31	dokonce	Db-------------	Adv
+32	pokoušejí	VB-P---3P-AA---	Atr
+33	z	RR--2----------	AuxP
+34	důvodů	NNIP2-----A----	Adv
+35	údajné	AAFS2----1A----	Atr
+36	havárie	NNFS2-----A----	Atr
+37	zavřít	Vf--------A----	Obj
+38	přívod	NNIS4-----A----	Obj
+39	elektřiny	NNFS2-----A----	Atr
+40	-	Z:-------------	AuxG
+41	sdělil	VpYS---XR-AA---	Pred
+42	nám	PP-P3--1-------	Obj
+43	Jiří	NNMS1-----A----	Atr
+44	Pánek	NNMS1-----A----	Sb
+45	,	Z:-------------	Apos
+46	vedoucí	AGMS1-----A----	Sb
+47	bytového	AAIS2----1A----	Atr
+48	odboru	NNIS2-----A----	Atr
+49	Městského	AAIS2----1A----	Atr
+50	úřadu	NNIS2-----A----	Atr
+51	Prahy	NNFS2-----A----	Atr
+52	1	C=-------------	Atr
+53	,	Z:-------------	AuxX
+54	tedy	Db-------------	Apos
+55	centra	NNNS2-----A----	Atr
+56	hlavního	AANS2----1A----	Atr
+57	města	NNNS2-----A----	Atr
+58	.	Z:-------------	AuxK
+
+lnd91301-003-p5s2
+1	A	J^-------------	Coord
+2	to	PDNS1----------	AuxO
+3	se	P7-X4----------	AuxT
+4	na	RR--4----------	AuxP
+5	nás	PP-P4--1-------	Adv
+6	zdaleka	Db-------------	Adv
+7	neobracejí	VB-P---3P-NA---	Pred
+8	všichni	PLMP1----------	Atr
+9	postižení	NNNP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+lnd91301-003-p5s3
+1	Někteří	PZMP1----------	Sb
+2	prostě	Dg-------1A----	AuxY
+3	rezignují	VB-P---3P-AA---	Pred
+4	a	J^-------------	Coord
+5	jiní	AAMP1----1A----	Sb
+6	se	P7-X4----------	AuxT
+7	obracejí	VB-P---3P-AA---	Pred
+8	přímo	Dg-------1A----	Adv
+9	k	RR--3----------	AuxP
+10	soudu	NNIS3-----A----	Adv
+11	.	Z:-------------	AuxK
+
+lnd91301-003-p5s4
+1	Úřad	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	povinen	ACYS------A----	Pnom
+4	hájit	Vf--------A----	Obj
+5	zájmy	NNIP4-----A----	Obj
+6	občanů	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	nemá	VB-S---3P-NA---	Pred
+10	k	RR--3----------	AuxP
+11	tomu	PDZS3----------	AtrAdv
+12	žádné	PWYP4----------	Atr
+13	prostředky	NNIP4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd91301-003-p5s5
+1	Může	VB-S---3P-AA---	Pred
+2	předvolat	Vf--------A----	Obj
+3	majitele	NNMS4-----A----	Obj
+4	a	J^-------------	Coord
+5	upozornit	Vf--------A----	Obj
+6	ho	PHZS4--3-------	Obj
+7	na	RR--4----------	AuxP
+8	jeho	PSXXXZS3-------	Atr
+9	povinnosti	NNFP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+lnd91301-003-p5s6
+1	Z	RR--2----------	AuxP
+2	jejich	PSXXXXP3-------	Atr
+3	neplnění	NNNS2-----N----	Obj
+4	však	J^-------------	Coord
+5	nevyplývá	VB-S---3P-NA---	Pred
+6	žádná	PWFS1----------	Atr
+7	sankce	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+lnd91301-003-p5s7
+1	A	J^-------------	Coord
+2	obrátí	VB-S---3P-AA---	Pred
+3	-	Z:-------------	AuxG
+4	li	TT-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	občan	NNMS1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	soud	NNIS4-----A----	Obj
+9	?	Z:-------------	AuxK
+
+lnd91301-003-p5s8
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	podobné	AANS1----1A----	Pnom
+4	.	Z:-------------	AuxK
+
+lnd91301-003-p5s9
+1	Soud	NNIS1-----A----	Sb
+2	nařídí	VB-S---3P-AA---	Pred
+3	majiteli	NNMS3-----A----	Obj
+4	domu	NNIS2-----A----	Atr
+5	plnění	NNNS4-----A----	Obj
+6	povinností	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	nemá	VB-S---3P-NA---	Pred
+10	možnost	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	jak	Db-------------	AuxC
+13	ho	PHZS4--3-------	Obj
+14	k	RR--3----------	AuxP
+15	tomu	PDZS3----------	Obj
+16	přinutit	Vf--------A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd91301-003-p5s10
+1	Přikáže	VB-S---3P-AA---	Pred
+2	mu	PHZS3--3-------	Obj
+3	topit	Vf--------A----	Obj
+4	.	Z:-------------	AuxK
+
+lnd91301-003-p5s11
+1	Majitel	NNMS1-----A----	Sb
+2	nezatopí	VB-S---3P-NA---	Pred
+3	.	Z:-------------	AuxK
+
+lnd91301-003-p5s12
+1	Soud	NNIS1-----A----	Sb
+2	nařídí	VB-S---3P-AA---	Pred
+3	výkon	NNIS4-----A----	Obj
+4	rozhodnutí	NNNS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	někdo	PZM-1----------	Sb
+7	tedy	Db-------------	Coord
+8	z	RR--2----------	AuxP
+9	moci	NNFS2-----A----	Adv
+10	úřední	AAFS2----1A----	Atr
+11	přijde	VB-S---3P-AA---	Pred
+12	a	J^-------------	Coord
+13	zatopí	VB-S---3P-AA---	Pred
+14	.	Z:-------------	AuxK
+
+lnd91301-003-p5s13
+1	Majitel	NNMS1-----A----	Sb
+2	to	PDNS4----------	Obj
+3	nechá	VB-S---3P-AA---	Pred
+4	vyhasnout	Vf--------A----	Obj
+5	a	J^-------------	Coord
+6	celý	AAIS1----1A----	Atr
+7	kolotoč	NNIS1-----A----	Sb
+8	začíná	VB-S---3P-AA---	Pred
+9	znovu	Db-------------	Adv
+10	.	Z:-------------	AuxK
+
+lnd91301-003-p5s14
+1	Není	VB-S---3P-NA---	Pred
+2	způsob	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	AuxC
+5	majitele	NNMS4-----A----	Obj
+6	postihnout	Vf--------A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd91301-003-p6s1
+1	Z	RR--2----------	AuxP
+2	CENTRA	NNNS2-----A----	ExD
+3	MĚSTA	NNNS2-----A----	Atr
+4	NA	RR--4----------	AuxP
+5	SÍDLIŠTĚ	NNNS4-----A----	ExD
+
+lnd91301-003-p7s1
+1	Od	RR--2----------	AuxP
+2	J	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Pánka	NNMS2-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	dále	Db------------1	Adv
+7	dozvídáme	VB-P---1P-AA---	Pred
+8	o	RR--6----------	AuxP
+9	případech	NNIP6-----A----	Obj
+10	,	Z:-------------	AuxX
+11	kdy	Db-------------	Adv
+12	se	P7-X4----------	AuxT
+13	domácí	AAMP1----1A----	Sb
+14	pokoušejí	VB-P---3P-AA---	Atr
+15	vyklidit	Vf--------A----	Obj
+16	celé	AAIP4----1A----	Atr
+17	domy	NNIP4-----A----	Obj
+18	za	RR--7----------	AuxP
+19	účelem	NNIS7-----A----	AuxP
+20	rekonstrukce	NNFS2-----A----	Adv
+21	.	Z:-------------	AuxK
+
+lnd91301-003-p7s2
+1	Jen	TT-------------	AuxZ
+2	na	RR--6----------	AuxP
+3	Praze	NNFS6-----A----	Adv
+4	1	C=-------------	Atr
+5	je	VB-S---3P-AA---	Pred
+6	to	PDNS1----------	Sb
+7	30	C=-------------	Pnom
+8	objektů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd91301-003-p7s3
+1	Majitelé	NNMP1-----A----	Sb
+2	přinesou	VB-P---3P-AA---	Pred
+3	posudky	NNIP4-----A----	Obj
+4	soudních	AAMP2----1A----	Atr
+5	znalců	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	konstrukce	NNFS1-----A----	Sb
+9	nezaručuje	VB-S---3P-NA---	Atr
+10	bezpečnost	NNFS4-----A----	Obj
+11	obyvatel	NNMS1-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd91301-003-p7s4
+1	Od	RR--2----------	AuxP
+2	magistrátu	NNIS2-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	podařilo	VpNS---XR-AA---	Pred
+5	získat	Vf--------A----	Sb
+6	pro	RR--4----------	AuxP
+7	všechny	PLYP4----------	Atr
+8	postižené	AAMP4----1A----	ObjAtr
+9	náhradní	AAIP4----1A----	Atr
+10	byty	NNIP4-----A----	Obj
+11	na	RR--6----------	AuxP
+12	sídlištích	NNNP6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd91301-003-p7s5
+1	Kolik	C?--1----------	Sb
+2	však	J^-------------	Coord
+3	z	RR--2----------	AuxP
+4	těchto	PDXP2----------	Atr
+5	případů	NNIP2-----A----	Atr
+6	bylo	VpNS---XR-AA---	Pred
+7	vskutku	Db-------------	Adv
+8	havarijních	AAIP2----1A----	Pnom
+9	?	Z:-------------	AuxK
+
+lnd91301-003-p7s6
+1	J	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Pánek	NNMS1-----A----	Sb
+4	by	Vc-------------	AuxV
+5	prý	TT-------------	AuxY
+6	majitelům	NNMP3-----A----	Obj
+7	do	RR--2----------	AuxP
+8	svědomí	NNNS2-----A----	Adv
+9	nerad	ACYS------N----	Atv
+10	sahal	VpYS---XR-AA---	Pred
+11	.	Z:-------------	AuxK
+
+lnd91301-003-p7s7
+1	Po	RR--6----------	AuxP
+2	rekonstrukci	NNFS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	byty	NNIP1-----A----	Sb
+5	do	RR--2----------	AuxP
+6	objektu	NNIS2-----A----	Adv
+7	samozřejmě	Dg-------1A----	Adv
+8	nevrátí	VB-P---3P-NA---	Pred
+9	.	Z:-------------	AuxK
+
+lnd91301-003-p7s8
+1	Tento	PDYS1----------	Atr
+2	způsob	NNIS1-----A----	Sb
+3	vyklízení	NNNS2-----A----	Atr
+4	nájemníků	NNMP2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	velmi	Db-------------	Adv
+7	rozmáhá	VB-S---3P-AA---	Pred
+8	.	Z:-------------	AuxK
+
+lnd91301-003-p7s9
+1	Lidé	NNMP1-----A---1	Sb
+2	,	Z:-------------	AuxX
+3	zapsáni	VsMP---XX-AP---	Atr
+4	dlouhá	AANP4----1A----	Atr
+5	léta	NNNP4-----A---2	Adv
+6	v	RR--6----------	AuxP
+7	pořadnících	NNIP6-----A----	Adv
+8	někdejších	AAIP2----1A----	Atr
+9	národních	AAIP2----1A----	Atr
+10	výborů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	tím	PDZS7----------	Adv
+13	ztrácejí	VB-P---3P-AA---	Pred
+14	šanci	NNFS4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	byt	NNIS4-----A----	Atr
+17	úplně	Dg-------1A----	Adv
+18	.	Z:-------------	AuxK
+
+lnd91301-003-p8s1
+1	CO	PQ--4----------	ExD
+2	DÁL	Db-------------	ExD
+3	?	Z:-------------	AuxK
+
+lnd91301-003-p9s1
+1	"	Z:-------------	AuxG
+2	Přimlouval	VpYS---XR-AA---	Pred
+3	bych	Vc-S---1-------	AuxV
+4	se	P7-X4----------	AuxT
+5	za	RR--4----------	AuxP
+6	vyhlášku	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	by	Vc-------------	AuxV
+10	dočasně	Dg-------1A----	Adv
+11	vztah	NNIS4-----A----	Obj
+12	mezi	RR--7----------	AuxP
+13	majitelem	NNMS7-----A----	Atr
+14	a	J^-------------	Coord
+15	nájemníkem	NNMS7-----A----	Atr
+16	jasně	Dg-------1A----	Adv
+17	řešila	VpQW---XR-AA---	Atr
+18	a	J^-------------	Coord
+19	dala	VpQW---XR-AA---	Atr
+20	i	J^-------------	AuxZ
+21	obecním	AAIP3----1A----	Atr
+22	úřadům	NNIP3-----A----	Obj
+23	pravomoc	NNFS4-----A----	Obj
+24	postihnout	Vf--------A----	Atr
+25	majitele	NNMS4-----A----	Obj
+26	,	Z:-------------	AuxX
+27	neplní	VB-S---3P-NA---	Adv
+28	-	Z:-------------	AuxG
+29	li	TT-------------	AuxC
+30	své	P8FP4---------1	Atr
+31	povinnosti	NNFP4-----A----	Obj
+32	,	Z:-------------	AuxX
+33	protože	J,-------------	AuxC
+34	mnohdy	Db-------------	Adv
+35	jde	VB-S---3P-AA---	Adv
+36	skutečně	Dg-------1A----	Adv
+37	o	RR--4----------	AuxP
+38	případy	NNIP4-----A----	Obj
+39	drastické	AAIP4----1A----	Atr
+40	.	Z:-------------	AuxK
+
+lnd91301-003-p9s2
+1	Denně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	setkávám	VB-S---1P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	lidmi	NNMP7-----A----	Obj
+6	v	RR--6----------	AuxP
+7	zoufalých	AAFP6----1A----	Atr
+8	situacích	NNFP6-----A----	AtrAdv
+9	.	Z:-------------	AuxK
+
+lnd91301-003-p9s3A
+1	Nevím	VB-S---1P-NA---	Pred
+2	ale	J^-------------	Coord
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	parlament	NNIS1-----A----	Sb
+6	považuje	VB-S---3P-AA---	Obj
+7	tuto	PDFS4----------	Atr
+8	otázku	NNFS4-----A----	Obj
+9	za	RR--4----------	AuxP
+10	natolik	Db-------------	Adv
+11	důležitou	AAFS4----1A----	Obj
+12	,	Z:-------------	AuxX
+13	aby	J,-------------	AuxC
+14	se	P7-X4----------	AuxT
+15	jí	PPFS7--3-------	Obj
+16	vůbec	Db-------------	Adv
+17	zabýval	VpYS---XR-AA---	Adv
+18	.	Z:-------------	AuxK
+19	"	Z:-------------	AuxG
+
+lnd91301-003-p9s3B
+1	Tolik	Ca--4----------	ExD
+2	vedoucí	NNMS1-----A----	ExD
+3	bytového	AAIS2----1A----	Atr
+4	odboru	NNIS2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+lnd91301-003-p10s1
+1	CO	PQ--4----------	ExD
+2	NA	RR--4----------	AuxP
+3	TO	PDNS4----------	ExD
+4	PARLAMENT	NNIS1-----A----	ExD
+5	?	Z:-------------	AuxK
+
+lnd91301-003-p10s2
+1	Při	RR--6----------	AuxP
+2	bližším	AANS6----2A----	Atr
+3	ohledání	NNNS6-----A----	Adv
+4	jsme	VB-P---1P-AA---	AuxV
+5	zjistili	VpMP---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	pro	RR--4----------	AuxP
+9	mnohé	AAMP4----1A----	Atr
+10	poslance	NNMP4-----A----	Obj
+11	není	VB-S---3P-NA---	Obj
+12	tento	PDYS1----------	Atr
+13	problém	NNIS1-----A----	Sb
+14	dostatečně	Dg-------1A----	Adv
+15	atraktivní	AAIS1----1A----	Pnom
+16	a	J^-------------	Coord
+17	navíc	Db-------------	Adv
+18	ho	PHZS4--3-------	Obj
+19	před	RR--7----------	AuxP
+20	volbami	NNFP7-----A----	Adv
+21	považují	VB-P---3P-AA---	Obj
+22	za	RR--4----------	AuxP
+23	poněkud	Db-------------	Adv
+24	ožehavý	AAIS4----1A----	Obj
+25	.	Z:-------------	AuxK
+
+lnd91301-003-p10s3
+1	Jeden	ClYS1----------	Atr
+2	poslanec	NNMS1-----A----	Sb
+3	prohlásil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	pokud	J,-------------	AuxC
+7	majitel	NNMS1-----A----	Sb
+8	potřebuje	VB-S---3P-AA---	Adv
+9	v	RR--6----------	AuxP
+10	objektu	NNIS6-----A----	Adv
+11	byt	NNIS4-----A----	Obj
+12	pro	RR--4----------	AuxP
+13	své	P8FP4---------1	Atr
+14	děti	NNFP4-----A----	Adv
+15	,	Z:-------------	AuxX
+16	pak	Db-------------	Adv
+17	vlastně	Dg-------1A----	Adv
+18	účel	NNIS1-----A----	Sb
+19	světí	VB-S---3P-AA---	Obj
+20	prostředky	NNIP4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+lnd91301-003-p10s4
+1	Po	RR--6----------	AuxP
+2	delším	AANS6----2A----	Atr
+3	pátrání	NNNS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	nám	PP-P3--1-------	Obj
+6	podařilo	VpNS---XR-AA---	Pred
+7	objevit	Vf--------A----	Sb
+8	bytovou	AAFS4----1A----	Atr
+9	komisi	NNFS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	složenou	AAFS4----1A----	Atr
+12	z	RR--2----------	AuxP
+13	J	NNMXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Vilda	NNMS2-----A----	Adv
+16	a	J^-------------	Coord
+17	M	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	Čejkové	NNFS2-----A----	Adv
+20	z	RR--2----------	AuxP
+21	FS	NNNXX-----A---8	Atr
+22	a	J^-------------	Coord
+23	F	NNMXX-----A---8	Atr
+24	.	Z:-------------	AuxG
+25	Nerada	NNMS2-----A----	Adv
+26	a	J^-------------	Coord
+27	D	NNFXX-----A---8	Atr
+28	.	Z:-------------	AuxG
+29	Kolářové	NNFS2-----A----	Adv
+30	z	RR--2----------	AuxP
+31	ČNR	NNFXX-----A---8	Atr
+32	.	Z:-------------	AuxK
+
+lnd91301-003-p10s5
+1	Komise	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	o	RR--6----------	AuxP
+4	situaci	NNFS6-----A----	Obj
+5	v	RR--6----------	AuxP
+6	terénu	NNIS6-----A---1	Atr
+7	informována	VsQW---XX-AP---	Pnom
+8	dobře	Dg-------1A----	Adv
+9	,	Z:-------------	Coord
+10	Daniela	NNFS1-----A----	Atr
+11	Kolářová	NNFS1-----A----	Sb
+12	interpelovala	VpQW---XR-AA---	Pred
+13	dokonce	Db-------------	AuxZ
+14	v	RR--6----------	AuxP
+15	této	PDFS6----------	Atr
+16	otázce	NNFS6-----A----	Adv
+17	českou	AAFS4----1A----	Atr
+18	vládu	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+lnd91301-003-p11s1
+1	SLOVO	NNNS1-----A----	ExD
+2	ŽENY	NNFS2-----A----	Atr
+
+lnd91301-003-p12s1
+1	D	NNFXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Kolářová	NNFS1-----A----	Sb
+4	:	Z:-------------	Pred
+5	Tím	PDZS7----------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	není	VB-S---3P-NA---	Atr
+9	dostatečná	AAFS1----1A----	Atr
+10	legislativa	NNFS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	začala	VpQW---XR-AA---	Obj
+13	zoufalá	AAFS1----1A----	Atr
+14	kalvárie	NNFS1-----A----	Sb
+15	,	Z:-------------	Coord
+16	mnozí	AAMP1----1A----	Atr
+17	majitelé	NNMP1-----A----	Sb
+18	se	P7-X4----------	AuxT
+19	chovají	VB-P---3P-AA---	Obj
+20	tzv	Db------------8	Adv
+21	.	Z:-------------	AuxG
+22	tržně	Dg-------1A----	Adv
+23	,	Z:-------------	AuxX
+24	to	PDNS1----------	Sb
+25	však	J^-------------	Coord
+26	znamená	VB-S---3P-AA---	Obj
+27	,	Z:-------------	AuxX
+28	že	J,-------------	AuxC
+29	v	RR--6----------	AuxP
+30	praxi	NNFS6-----A----	Adv
+31	jednají	VB-P---3P-AA---	Obj
+32	podle	RR--2----------	AuxP
+33	zásady	NNFS2-----A----	Adv
+34	"	Z:-------------	AuxG
+35	co	PQ--1----------	Sb
+36	není	VB-S---3P-NA---	Sb
+37	zakázáno	VsNS---XX-AP---	Pnom
+38	,	Z:-------------	AuxX
+39	je	VB-S---3P-AA---	Atr
+40	dovoleno	VsNS---XX-AP---	Pnom
+41	"	Z:-------------	AuxG
+42	a	J^-------------	Coord
+43	pak	Db-------------	Adv
+44	vzniká	VB-S---3P-AA---	Obj
+45	morální	AAFS1----1A----	Atr
+46	džungle	NNFS1-----A----	Sb
+47	.	Z:-------------	AuxK
+
+lnd91301-003-p12s2
+1	Vztahy	NNIP4-----A----	Obj
+2	,	Z:-------------	AuxX
+3	práva	NNNP4-----A----	Obj
+4	a	J^-------------	Coord
+5	povinnosti	NNFP4-----A----	Obj
+6	na	RR--6----------	AuxP
+7	obou	ClXP6----------	Atr
+8	stranách	NNFP6-----A----	Atr
+9	nutno	ACNS------A----	Pred
+10	upravit	Vf--------A----	Sb
+11	do	RR--2----------	AuxP
+12	zákonné	AAFS2----1A----	Atr
+13	normy	NNFS2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+lnd91301-003-p12s3
+1	Situace	NNFS1-----A----	Sb
+2	včetně	Db-------------	AuxP
+3	trhu	NNIS2-----A----	Adv
+4	s	RR--7----------	AuxP
+5	byty	NNIP7-----A----	Atr
+6	se	P7-X4----------	AuxR
+7	bude	VB-S---3F-AA---	AuxV
+8	podle	RR--2----------	AuxP
+9	mne	PP-S2--1-------	Adv
+10	normalizovat	Vf--------A----	Pred
+11	ve	RV--6----------	AuxP
+12	velkých	AANP6----1A----	Atr
+13	městech	NNNP6-----A----	Adv
+14	až	TT-------------	AuxZ
+15	za	RR--4----------	AuxP
+16	10	C=-------------	Adv
+17	-	Z:-------------	Coord
+18	15	C=-------------	Adv
+19	let	NNNP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd91301-003-p12s4
+1	Na	RR--4----------	AuxP
+2	toto	PDNS4----------	Atr
+3	přechodné	AANS4----1A----	Atr
+4	období	NNNS4-----A----	Adv
+5	musíme	VB-P---1P-AA---	Pred
+6	vytvořit	Vf--------A----	Obj
+7	legislativu	NNFS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+lnd91301-003-p12s5
+1	Snažíme	VB-P---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	tlačit	Vf--------A----	Obj
+4	na	RR--4----------	AuxP
+5	vládu	NNFS4-----A----	Adv
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	legislativním	AANS7----1A----	Atr
+9	opatřením	NNNS7-----A----	Adv
+10	učinila	VpQW---XR-AA---	Adv
+11	konec	NNIS4-----A----	Obj
+12	situaci	NNFS3-----A----	Atr
+13	,	Z:-------------	AuxX
+14	v	RR--6----------	AuxP
+15	níž	P9FS6----------	Adv
+16	se	P7-X4----------	AuxT
+17	zejména	Db-------------	AuxZ
+18	staří	AAMP1----1A----	Atr
+19	lidé	NNMP1-----A---1	Sb
+20	dostávají	VB-P---3P-AA---	Atr
+21	do	RR--2----------	AuxP
+22	stavů	NNIP2-----A----	Adv
+23	bezmoci	NNFS2-----A----	Atr
+24	a	J^-------------	Coord
+25	strašlivé	AAFS2----1A----	Atr
+26	úzkosti	NNFS2-----A----	Atr
+27	,	Z:-------------	AuxX
+28	kdy	Db-------------	Adv
+29	šikanu	NNFS4-----A----	Obj
+30	ze	RV--2----------	AuxP
+31	strany	NNFS2-----A----	Atr
+32	majitelů	NNMP2-----A----	Atr
+33	chtějí	VB-P---3P-AA---	Atr
+34	řešit	Vf--------A----	Obj
+35	třeba	Db-------------	AuxZ
+36	i	J^-------------	AuxZ
+37	sebevraždou	NNFS7-----A----	Adv
+38	.	Z:-------------	AuxK
+
+lnd91301-003-p13s1
+1	Navrhujeme	VB-P---1P-AA---	Pred
+2	např	Db------------8	Adv
+3	.	Z:-------------	AuxG
+4	pro	RR--4----------	AuxP
+5	majitele	NNMP4-----A----	ObjAtr
+6	domů	NNIP2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	15	C=-------------	Atr
+9	let	NNNP2-----A----	Atr
+10	osvobození	NNNS4-----A----	Obj
+11	od	RR--2----------	AuxP
+12	daně	NNFS2-----A----	Atr
+13	z	RR--2----------	AuxP
+14	nemovitosti	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd91301-003-p13s2
+1	Chtěli	VpMP---XR-AA---	Pred
+2	bychom	Vc-P---1-------	AuxV
+3	,	Z:-------------	AuxX
+4	aby	J,-------------	AuxC
+5	se	P7-X4----------	AuxR
+6	do	RR--2----------	AuxP
+7	ceny	NNFS2-----A----	Adv
+8	nájemného	NNNS2-----A----	Atr
+9	promítlo	VpNS---XR-AA--1	Obj
+10	ohodnocení	NNNS1-----A----	Sb
+11	polohy	NNFS2-----A----	Atr
+12	pozemků	NNIP2-----A----	Atr
+13	-	Z:-------------	AuxG
+14	to	PDNS1----------	Sb
+15	by	Vc-------------	AuxV
+16	byl	VpYS---XR-AA---	Pred
+17	další	AAIS1----1A----	Atr
+18	krok	NNIS1-----A----	Pnom
+19	k	RR--3----------	AuxP
+20	trhu	NNIS3-----A----	Atr
+21	s	RR--7----------	AuxP
+22	byty	NNIP7-----A----	Atr
+23	.	Z:-------------	AuxK
+
+lnd91301-003-p13s3
+1	Pracuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	na	RR--6----------	AuxP
+4	zákonu	NNIS6-----A----	Obj
+5	o	RR--6----------	AuxP
+6	prodeji	NNIS6-----A----	Atr
+7	bytů	NNIP2-----A----	Atr
+8	do	RR--2----------	AuxP
+9	osobního	AANS2----1A----	Atr
+10	vlastnictví	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd91301-003-p13s4
+1	Chceme	VB-P---1P-AA---	Pred
+2	působit	Vf--------A----	Obj
+3	na	RR--4----------	AuxP
+4	obce	NNFP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	měly	VpTP---XR-AA---	Adv
+8	v	RR--6----------	AuxP
+9	rezervě	NNFS6-----A----	Adv
+10	vždy	Db-------------	Adv
+11	nějaký	PZIS4----------	Atr
+12	ten	PDIS4----------	Atr
+13	sociální	AAIS4----1A----	Atr
+14	byt	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd91301-003-p13s5
+1	Majitele	NNMS4-----A----	Obj
+2	domu	NNIS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	by	Vc-------------	AuxV
+6	jeden	ClIS4----------	ExD
+7	dva	ClYP4----------	ExD
+8	byty	NNIP4-----A----	Obj
+9	ve	RV--6----------	AuxP
+10	svém	P8ZS6----------	Atr
+11	objektu	NNIS6-----A----	Adv
+12	postavil	VpYS---XR-AA---	Atr
+13	jako	J,-------------	AuxY
+14	bezbariérové	AAIP4----1A----	Atv
+15	či	J^-------------	Coord
+16	sociální	AAIP4----1A----	Atv
+17	,	Z:-------------	AuxX
+18	by	Vc-------------	AuxV
+19	obec	NNFS1-----A----	Sb
+20	natolik	Db-------------	Adv
+21	zvýhodnila	VpQW---XR-AA---	Pred
+22	na	RR--6----------	AuxP
+23	daních	NNFP6-----A----	Adv
+24	,	Z:-------------	AuxX
+25	že	J,-------------	AuxC
+26	by	Vc-------------	AuxV
+27	se	P7-X4----------	AuxT
+28	mu	PHZS3--3-------	Obj
+29	to	PDNS1----------	Sb
+30	vyplatilo	VpNS---XR-AA---	Adv
+31	-	Z:-------------	Coord
+32	je	VB-S---3P-AA---	Pred
+33	to	PDNS1----------	Sb
+34	rozhodně	Dg-------1A----	Adv
+35	lepší	AAIS1----2A----	Atr
+36	způsob	NNIS1-----A----	Pnom
+37	než	J,-------------	AuxC
+38	sociální	AANP1----1A----	Atr
+39	ghetta	NNNP1-----A----	ExD
+40	,	Z:-------------	AuxX
+41	kde	Db-------------	Adv
+42	bují	VB-S---3P-AA---	Atr
+43	kriminalita	NNFS1-----A----	Sb
+44	.	Z:-------------	AuxK
+
+lnd91301-003-p13s6
+1	Chceme	VB-P---1P-AA---	Pred
+2	udělat	Vf--------A----	Obj
+3	všechno	PLNS4----------	Obj
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	se	P7-X4----------	AuxR
+7	přechodné	AANS1----1A----	Atr
+8	období	NNNS1-----A----	Sb
+9	zkrátilo	VpNS---XR-AA---	Adv
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	majitelé	NNMP1-----A----	Sb
+13	nemuseli	VpMP---XR-NA---	Adv
+14	jednat	Vf--------A----	Obj
+15	zběsile	Dg-------1A----	Adv
+16	a	J^-------------	Coord
+17	aby	J,-------------	AuxC
+18	se	P7-X4----------	AuxT
+19	nájemníci	NNMP1-----A----	Sb
+20	nedostávali	VpMP---XR-NA---	Adv
+21	do	RR--2----------	AuxP
+22	neřešitelných	AAFP2----1N----	Atr
+23	situací	NNFP2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+lnd91301-003-p14s1A
+1	P	RR--X---------8	ExD
+2	.	Z:-------------	ExD
+3	S	NNNXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+
+lnd91301-003-p14s1B
+1	Nechtěli	VpMP---XR-NA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	tímto	PDZS7----------	Adv
+4	vzbudit	Vf--------A----	Obj
+5	dojem	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	všichni	PLMP1----------	Atr
+9	noví	AAMP1----1A----	Atr
+10	majitelé	NNMP1-----A----	Sb
+11	domů	NNIP2-----A----	Atr
+12	jsou	VB-P---3P-AA---	Atr
+13	bez	RR--2----------	AuxP
+14	skrupulí	NNFP2-----A----	Adv
+15	.	Z:-------------	AuxK
+
+lnd91301-003-p14s2
+1	I	J^-------------	AuxZ
+2	sociální	AAFS1----1A----	Atr
+3	pracovnice	NNFS1-----A----	Sb
+4	z	RR--2----------	AuxP
+5	prvního	CrIS2----------	Atr
+6	pražského	AAIS2----1A----	Atr
+7	obvodu	NNIS2-----A----	Atr
+8	nám	PP-P3--1-------	Obj
+9	s	RR--7----------	AuxP
+10	potěšením	NNNS7-----A----	Adv
+11	vyprávěla	VpQW---XR-AA---	Pred
+12	o	RR--6----------	AuxP
+13	majitelích	NNMP6-----A----	Obj
+14	,	Z:-------------	AuxX
+15	kteří	P4MP1----------	Sb
+16	spolu	Db-------------	AuxP
+17	s	RR--7----------	AuxP
+18	domem	NNIS7-----A----	Adv
+19	přejali	VpMP---XR-AA---	Atr
+20	zodpovědnost	NNFS4-----A----	Obj
+21	za	RR--4----------	AuxP
+22	osud	NNIS4-----A----	Atr
+23	jeho	PSXXXZS3-------	Atr
+24	stařičkých	AAMP2----1A----	Atr
+25	nájemníků	NNMP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd91301-003-p14s3
+1	S	RR--7----------	AuxP
+2	potěšením	NNNS7-----A----	Adv
+3	jsme	VB-P---1P-AA---	AuxV
+4	ji	PPFS4--3-------	Obj
+5	vyslechli	VpMP---XR-AA--1	Pred
+6	.	Z:-------------	AuxK
+
+lnd91301-003-p15s1
+1	EVA	NNFS1-----A----	Atr
+2	MARTÍNKOVÁ	NNFS1-----A----	ExD
+

@@ -1,0 +1,360 @@
+vesm9212-052-p1s1
+1	Zprava	Db-------------	Adv
+2	doleva	Db-------------	Adv
+3	a	J^-------------	Coord
+4	obráceně	Dg-------1A----	Adv
+
+vesm9212-052-p2s1
+1	Zprava	Db-------------	Adv
+2	doleva	Db-------------	Adv
+3	a	J^-------------	Coord
+4	obráceně	Dg-------1A----	Adv
+5	přenáší	VB-S---3P-AA---	Pred
+6	informace	NNFP4-----A----	Obj
+7	mezi	RR--7----------	AuxP
+8	mozkovými	AAFP7----1A----	Atr
+9	hemisférami	NNFP7-----A----	Adv
+10	asi	TT-------------	AuxZ
+11	200	C=-------------	Sb
+12	miliónů	NNIP2-----A----	Atr
+13	nervových	AANP2----1A----	Atr
+14	vláken	NNNP2-----A----	Atr
+15	svorového	AANS2----1A----	Atr
+16	tělesa	NNNS2-----A----	Atr
+17	(	Z:-------------	Apos
+18	corpus	NNIS1-----A----	Atr
+19	callosum	AAIS1----1A----	Atr
+20	)	Z:-------------	AuxG
+21	,	Z:-------------	AuxX
+22	které	P4NS1----------	Sb
+23	je	VB-S---3P-AA---	Atr
+24	mezi	RR--7----------	AuxP
+25	nimi	P5XP7--3-------	Adv
+26	rozepjato	VsNS---XX-AP---	Pnom
+27	jako	J,-------------	AuxC
+28	velký	AAIS1----1A----	Atr
+29	vějíř	NNIS1-----A----	Adv
+30	dobře	Dg-------1A----	Adv
+31	patrný	AAIS1----1A----	Atr
+32	při	RR--6----------	AuxP
+33	pohledu	NNIS6-----A----	Adv
+34	na	RR--4----------	AuxP
+35	mozek	NNIS4-----A----	Atr
+36	shora	Db-------------	Atr
+37	.	Z:-------------	AuxK
+
+vesm9212-052-p2s2
+1	Svorové	AANS1----1A----	Atr
+2	těleso	NNNS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	největší	AANS1----3A----	Pnom
+5	z	RR--2----------	AuxP
+6	několika	Ca--2----------	Atr
+7	typů	NNIP2-----A----	Adv
+8	takových	PDXP2----------	Atr
+9	spojek	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+vesm9212-052-p2s3
+1	Jeho	PSXXXZS3-------	Atr
+2	operativní	AANS1----1A----	Atr
+3	protětí	NNNS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	které	P4NS1----------	Sb
+6	se	P7-X4----------	AuxR
+7	dělá	VB-S---3P-AA---	Atr
+8	pro	RR--4----------	AuxP
+9	některé	PZYP4----------	Atr
+10	jinak	Db-------------	Adv
+11	neléčitelné	AAIP4----1N----	Atr
+12	typy	NNIP4-----A----	Adv
+13	epilepsie	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	způsobuje	VB-S---3P-AA---	Pred
+16	spolu	Db-------------	AuxP
+17	s	RR--7----------	AuxP
+18	protětím	NNNS7-----A----	Adv
+19	dalších	AAFP2----1A----	Atr
+20	spojek	NNFP2-----A----	Atr
+21	"	Z:-------------	AuxG
+22	syndrom	NNIS4-----A----	Obj
+23	rozštěpeného	AAIS2----1A----	Atr
+24	mozku	NNIS2-----A----	Atr
+25	"	Z:-------------	AuxG
+26	(	Z:-------------	Apos
+27	split	AAXXX----1A----	Atr
+28	brain	AAXXX----1A----	Atr
+29	syndrom	NNIXX-----A----	Obj
+30	)	Z:-------------	AuxG
+31	,	Z:-------------	AuxX
+32	za	RR--4----------	AuxP
+33	jehož	PJZS2----------	Atr
+34	výzkum	NNIS4-----A----	Adv
+35	dostal	VpYS---XR-AA---	Atr
+36	R	NNMXX-----A---8	Atr
+37	.	Z:-------------	AuxG
+38	W	NNMXX-----A---8	Atr
+39	.	Z:-------------	AuxG
+40	Sperry	NNMS1-----A----	Sb
+41	Nobelovu	AUFS4M---------	Atr
+42	cenu	NNFS4-----A----	Obj
+43	,	Z:-------------	AuxX
+44	protože	J,-------------	AuxC
+45	jím	PPZS7--3-------	Adv
+46	dokázal	VpYS---XR-AA---	Adv
+47	funkční	AAFS4----1A----	Atr
+48	specializaci	NNFS4-----A----	Obj
+49	hemisfér	NNFP2-----A----	Atr
+50	.	Z:-------------	AuxK
+
+vesm9212-052-p2s4
+1	Jinými	AANP7----1A----	Atr
+2	slovy	NNNP7-----A----	ExD
+3	-	Z:-------------	Apos
+4	pravá	AAFS1----1A----	Atr
+5	a	J^-------------	Coord
+6	levá	AAFS1----1A----	Atr
+7	mozková	AAFS1----1A----	Atr
+8	hemisféra	NNFS1-----A----	Sb
+9	sice	Db-------------	AuxY
+10	trvale	Dg-------1A----	Adv
+11	spolupracují	VB-P---3P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	přesto	Dg-------1A----	Adv
+15	jsou	VB-P---3P-AA---	Pred
+16	v	RR--6----------	AuxP
+17	mnohých	AAIP6----1A----	Atr
+18	ohledech	NNIP6-----A----	Adv
+19	"	Z:-------------	AuxG
+20	každá	AAFS1----1A----	Sb
+21	na	RR--4----------	AuxP
+22	něco	PZ--4----------	Adv
+23	jiného	AANS2----1A----	Atr
+24	"	Z:-------------	AuxG
+25	.	Z:-------------	AuxK
+
+vesm9212-052-p2s5
+1	Například	Db-------------	AuxZ
+2	řečové	AAFP1----1A----	Atr
+3	funkce	NNFP1-----A----	Sb
+4	jsou	VB-P---3P-AA---	Pred
+5	u	RR--2----------	AuxP
+6	naprosté	AAFS2----1A----	Atr
+7	většiny	NNFS2-----A----	Adv
+8	lidí	NNMP2-----A----	Atr
+9	vázány	VsTP---XX-AP---	Pnom
+10	více	Dg-------2A----	Adv
+11	na	RR--4----------	AuxP
+12	levou	AAFS4----1A----	Atr
+13	mozkovou	AAFS4----1A----	Atr
+14	hemisféru	NNFS4-----A----	Obj
+15	než	J,-------------	AuxC
+16	na	RR--4----------	AuxP
+17	pravou	AAFS4----1A----	ExD
+18	.	Z:-------------	AuxK
+
+vesm9212-052-p3s1
+1	Vzácně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	svorové	AANS1----1A----	Atr
+4	těleso	NNNS1-----A----	Sb
+5	nevyvine	VB-S---3P-NA---	Pred
+6	.	Z:-------------	AuxK
+
+vesm9212-052-p3s2
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	stav	NNIS1-----A----	Pnom
+4	obyčejně	Dg-------1A----	Adv
+5	doprovázený	AAIS1----1A----	Atr
+6	dalšími	AAFP7----1A----	Atr
+7	nervovými	AAFP7----1A----	Atr
+8	a	J^-------------	Coord
+9	psychickými	AAFP7----1A----	Atr
+10	poruchami	NNFP7-----A----	Obj
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	někdy	Db-------------	Adv
+14	mají	VB-P---3P-AA---	Pred
+15	lidé	NNMP1-----A---1	Sb
+16	,	Z:-------------	AuxX
+17	kteří	P4MP1----------	Sb
+18	přišli	VpMP---XR-AA---	Atr
+19	na	RR--4----------	AuxP
+20	svět	NNIS4-----A----	Adv
+21	bez	RR--2----------	AuxP
+22	svorového	AANS2----1A----	Atr
+23	tělesa	NNNS2-----A----	Adv
+24	,	Z:-------------	AuxX
+25	inteligenci	NNFS4-----A----	Obj
+26	zcela	Db-------------	Adv
+27	normální	AAFS4----1A----	Atr
+28	.	Z:-------------	AuxK
+
+vesm9212-052-p3s3
+1	Na	RR--4----------	AuxP
+2	jejich	PSXXXXP3-------	Atr
+3	vývojový	AAIS4----1A----	Atr
+4	defekt	NNIS4-----A----	Obj
+5	se	P7-X4----------	AuxR
+6	pak	Db-------------	Adv
+7	přijde	VB-S---3P-AA---	Pred
+8	náhodou	Db-------------	Adv
+9	-	Z:-------------	AuxG
+10	užitím	NNNS7-----A----	Adv
+11	zobrazovacích	AAFP2----1A----	Atr
+12	metod	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	když	J,-------------	AuxC
+15	jsou	VB-P---3P-AA---	AuxV
+16	jimi	PPXP7--3-------	Adv
+17	vyšetřeni	VsMP---XX-AP---	Adv
+18	třeba	Db-------------	AuxZ
+19	po	RR--6----------	AuxP
+20	úrazu	NNIS6-----A---1	Adv
+21	hlavy	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+vesm9212-052-p3s4
+1	Jak	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	u	RR--2----------	AuxP
+4	těchto	PDXP2----------	Atr
+5	lidí	NNMP2-----A----	Adv
+6	přenášejí	VB-P---3P-AA---	Pred
+7	informace	NNFP1-----A----	Sb
+8	mezi	RR--7----------	AuxP
+9	mozkovými	AAFP7----1A----	Atr
+10	hemisférami	NNFP7-----A----	Adv
+11	?	Z:-------------	AuxK
+
+vesm9212-052-p4s1
+1	Náhoda	NNFS1-----A----	Sb
+2	nalezla	VpQW---XR-AA---	Pred
+3	dva	ClYP4----------	Atr
+4	takové	PDMP4----------	Atr
+5	pacienty	NNMP4-----A----	Obj
+6	(	Z:-------------	ExD
+7	Arch	NNIPX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Neurol	NNFSX-----A---8	ExD
+10	.	Z:-------------	AuxG
+11	49	C=-------------	ExD
+12	,	Z:-------------	AuxX
+13	271	C=-------------	ExD
+14	,	Z:-------------	Coord
+15	1992	C=-------------	ExD
+16	)	Z:-------------	ExD
+17	.	Z:-------------	AuxK
+
+vesm9212-052-p4s4
+1	Jeden	ClYS1----------	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	měl	VpYS---XR-AA---	Pred
+5	nevyvinuté	AANS4----1N----	Atr
+6	svorové	AANS4----1A----	Atr
+7	těleso	NNNS4-----A----	Obj
+8	a	J^-------------	Coord
+9	nevyvinutou	AAFS4----1N----	Atr
+10	další	AAFS4----1A----	Atr
+11	,	Z:-------------	AuxX
+12	dosti	Dg-------1A---3	Adv
+13	mohutnou	AAFS4----1A----	Atr
+14	spojku	NNFS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+vesm9212-052-p4s5
+1	Druhý	CrMS1----------	Sb
+2	neměl	VpYS---XR-NA---	Pred
+3	vyvinuto	VsNS---XX-AP---	Atv
+4	jen	TT-------------	AuxZ
+5	svorové	AANS4----1A----	Atr
+6	těleso	NNNS4-----A----	Obj
+7	-	Z:-------------	AuxG
+8	takže	J,-------------	AuxC
+9	bylo	VpNS---XR-AA---	Adv
+10	možné	AANS1----1A----	Pnom
+11	dobře	Dg-------1A----	Adv
+12	porovnávat	Vf--------A----	Sb
+13	.	Z:-------------	AuxK
+
+vesm9212-052-p4s6
+1	U	RR--2----------	AuxP
+2	chlapce	NNMS2-----A----	Adv
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	neměl	VpYS---XR-NA---	Atr
+6	vyvinuty	VsTP---XX-AP---	Atv
+7	obě	ClHP4----------	Atr
+8	spojky	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	byly	VpTP---XR-AA---	AuxV
+11	zjištěny	VsTP---XX-AP---	Pred
+12	lehké	AAFP1----1A----	Atr
+13	poruchy	NNFP1-----A----	Sb
+14	přenosu	NNIS2-----A----	Atr
+15	zrakových	AAFP2----1A----	Atr
+16	a	J^-------------	Coord
+17	dotykových	AAFP2----1A----	Atr
+18	informací	NNFP2-----A----	Atr
+19	z	RR--2----------	AuxP
+20	jedné	ClFS2----------	Atr
+21	hemisféry	NNFS2-----A----	Atr
+22	do	RR--2----------	AuxP
+23	druhé	CrFS2----------	ExD
+24	.	Z:-------------	AuxK
+
+vesm9212-052-p4s7
+1	Druhý	CrMS1----------	Atr
+2	chlapec	NNMS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	s	RR--7----------	AuxP
+5	uchovanou	AAFS7----1A----	Atr
+6	alespoň	Db-------------	AuxZ
+7	druhou	CrFS7----------	Atr
+8	spojkou	NNFS7-----A----	Atr
+9	(	Z:-------------	AuxG
+10	měl	VpYS---XR-AA---	Pred
+11	ji	PPFS4--3-------	Obj
+12	vyvinutou	AAFS4----1A----	Atv
+13	nadměrně	Dg-------1A----	Adv
+14	)	Z:-------------	AuxG
+15	,	Z:-------------	AuxX
+16	poruchy	NNFP4-----A----	Obj
+17	těchto	PDXP2----------	Atr
+18	přesunů	NNIP2-----A----	Atr
+19	neměl	VpYS---XR-NA---	Pred
+20	.	Z:-------------	AuxK
+
+vesm9212-052-p5s1
+1	Nevyvinuté	AANS4----1N----	Atr
+2	svorové	AANS4----1A----	Atr
+3	těleso	NNNS4-----A----	Obj
+4	tedy	Db-------------	Coord
+5	dokáží	VB-P---3P-AA--1	Pred
+6	nahradit	Vf--------A----	Obj
+7	jiné	AAFP1----1A----	Atr
+8	spojky	NNFP1-----A----	Sb
+9	mezi	RR--7----------	AuxP
+10	hemisférami	NNFP7-----A----	Atr
+11	a	J^-------------	Coord
+12	pravděpodobně	Dg-------1A----	ExD
+13	i	J^-------------	AuxZ
+14	další	AAIP1----1A----	Atr
+15	,	Z:-------------	AuxX
+16	méně	Dg-------2A----	Adv
+17	známé	AAIP1----1A----	Atr
+18	mechanismy	NNIP1-----A----	ExD
+19	.	Z:-------------	AuxK
+
+vesm9212-052-p6s1
+1	František	NNMS1-----A----	Atr
+2	Koukolík	NNMS1-----A----	ExD
+
+vesm9212-052-p7s1
+1	61	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	34	C=-------------	ExD
+

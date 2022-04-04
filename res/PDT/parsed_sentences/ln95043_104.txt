@@ -1,0 +1,480 @@
+ln95043-104-p1s1
+1	Hotelových	AAFP2----1A----	Atr
+2	kapacit	NNFP2-----A----	Sb
+3	stále	Db-------------	Adv
+4	přibývá	VB-S---3P-AA---	Pred
+5	(	Z:-------------	AuxG
+6	Některá	PZNP1----------	Atr
+7	ubytovací	AANP1----1A----	Atr
+8	zařízení	NNNP1-----A----	Sb
+9	zlevňují	VB-P---3P-AA---	Pred
+10	mimo	RR--4----------	AuxP
+11	sezónu	NNFS4-----A----	Adv
+12	až	TT-------------	AuxZ
+13	na	RR--4----------	AuxP
+14	hranici	NNFS4-----A----	Adv
+15	nákladů	NNIP2-----A----	Atr
+16	)	Z:-------------	AuxG
+
+ln95043-104-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95043-104-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95043-104-p3s1B
+1	Ceny	NNFP1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	ubytování	NNNS4-----A----	Atr
+4	v	RR--6----------	AuxP
+5	českých	AAIP6----1A----	Atr
+6	hotelích	NNIP6-----A---1	Atr
+7	loni	Db------------1	Adv
+8	i	J^-------------	AuxZ
+9	přes	RR--4----------	AuxP
+10	rostoucí	AGFS4-----A----	Atr
+11	nabídku	NNFS4-----A----	Adv
+12	počtu	NNIS2-----A----	Atr
+13	lůžek	NNNP2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	sezóně	NNFS6-----A----	Adv
+16	nepoklesly	VpTP---XR-NA--1	Pred
+17	.	Z:-------------	AuxK
+
+ln95043-104-p4s1
+1	Podle	RR--2----------	AuxP
+2	mínění	NNNS2-----A----	Adv
+3	členů	NNMP2-----A----	Atr
+4	Národní	AAFS2----1A----	Atr
+5	federace	NNFS2-----A----	Atr
+6	hotelů	NNIP2-----A----	Atr
+7	a	J^-------------	Coord
+8	restaurací	NNFP2-----A----	Atr
+9	ČR	NNFXX-----A---8	Atr
+10	se	P7-X4----------	AuxT
+11	nesnížily	VpTP---XR-NA---	Pred
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	Adv
+14	ani	J^-------------	Coord
+15	v	RR--6----------	AuxP
+16	jiných	AAFP6----1A----	Atr
+17	evropských	AAFP6----1A----	Atr
+18	metropolích	NNFP6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln95043-104-p4s2
+1	Spolehlivější	AAIP1----2A----	Atr
+2	statistické	AAIP1----1A----	Atr
+3	údaje	NNIP1-----A----	Sb
+4	z	RR--2----------	AuxP
+5	oblasti	NNFS2-----A----	Atr
+6	cestovního	AAIS2----1A----	Atr
+7	ruchu	NNIS2-----A----	Atr
+8	ale	J^-------------	Coord
+9	chybějí	VB-P---3P-AA---	Pred
+10	a	J^-------------	AuxY
+11	hoteliéři	NNMP1-----A----	Sb
+12	mohou	VB-P---3P-AA--1	Pred
+13	proto	J^-------------	Coord
+14	stěží	Db-------------	Adv
+15	vývoj	NNIS4-----A----	Obj
+16	na	RR--6----------	AuxP
+17	tuzemském	AAIS6----1A----	Atr
+18	trhu	NNIS6-----A----	Atr
+19	odhadovat	Vf--------A----	Obj
+20	.	Z:-------------	AuxK
+
+ln95043-104-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	ubytování	NNNS2-----A----	Atr
+3	mimo	RR--4----------	AuxP
+4	hlavní	AAFS4----1A----	Atr
+5	sezónu	NNFS4-----A----	Atr
+6	klesá	VB-S---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	levnějších	AAIP6----2A----	Atr
+9	hotelech	NNIP6-----A----	Adv
+10	až	TT-------------	AuxZ
+11	na	RR--4----------	AuxP
+12	hranici	NNFS4-----A----	Adv
+13	nákladů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95043-104-p5s2
+1	V	RR--6----------	AuxP
+2	sezóně	NNFS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	podle	RR--2----------	AuxP
+5	pražských	AAMP2----1A----	Atr
+6	hoteliérů	NNMP2-----A----	Adv
+7	ceny	NNFP1-----A----	Sb
+8	tohoto	PDZS2----------	Atr
+9	vyhledávaného	AANS2----1A----	Atr
+10	levnějšího	AANS2----2A----	Atr
+11	ubytování	NNNS2-----A----	Atr
+12	naopak	Db-------------	Adv
+13	podstatně	Dg-------1A----	Adv
+14	zvýší	VB-P---3P-AA---	Pred
+15	.	Z:-------------	AuxK
+
+ln95043-104-p6s1
+1	Společnost	NNFS1-----A----	Sb
+2	Suzop	NNXXX-----A----	Atr
+3	například	Db-------------	AuxY
+4	nabízí	VB-S---3P-AA---	Pred
+5	dvouhvězdičkové	AAIP4----1A----	Atr
+6	pokoje	NNIP4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	době	NNFS6-----A----	Adv
+9	velmi	Db-------------	Adv
+10	nízké	AAFS2----1A----	Atr
+11	poptávky	NNFS2-----A----	Atr
+12	od	RR--2----------	AuxP
+13	ledna	NNIS2-----A----	Atr
+14	až	TT-------------	AuxZ
+15	do	RR--2----------	AuxP
+16	poloviny	NNFS2-----A----	Atr
+17	března	NNIS2-----A----	Atr
+18	a	J^-------------	Coord
+19	v	RR--6----------	AuxP
+20	prosinci	NNIS6-----A----	ExD
+21	cizincům	NNMP3-----A----	ExD
+22	za	RR--4----------	AuxP
+23	650	C=-------------	ExD
+24	korun	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95043-104-p6s2
+1	Mimo	RR--4----------	AuxP
+2	sezónu	NNFS4-----A----	Adv
+3	v	RR--6----------	AuxP
+4	listopadu	NNIS6-----A----	Adv
+5	a	J^-------------	Coord
+6	od	RR--2----------	AuxP
+7	června	NNIS2-----A----	Adv
+8	do	RR--2----------	AuxP
+9	poloviny	NNFS2-----A----	Adv
+10	srpna	NNIS2-----A----	Atr
+11	stojí	VB-P---3P-AA---	Pred
+12	929	C=-------------	Obj
+13	korun	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95043-104-p6s3
+1	V	RR--6----------	AuxP
+2	době	NNFS6-----A----	Adv
+3	největší	AAFS2----3A----	Atr
+4	poptávky	NNFS2-----A----	Atr
+5	přijde	VB-S---3P-AA---	Pred
+6	přespání	NNNS1-----A----	Sb
+7	včetně	RR--2----------	AuxP
+8	snídaně	NNFS2-----A----	Atr
+9	u	RR--2----------	AuxP
+10	této	PDFS2----------	Atr
+11	největší	AAFS2----3A----	Atr
+12	hotelové	AAFS2----1A----	Atr
+13	společnosti	NNFS2-----A----	Adv
+14	v	RR--6----------	AuxP
+15	Praze	NNFS6-----A----	Adv
+16	na	RR--4----------	AuxP
+17	1094	C=-------------	Obj
+18	Kč	NNFXX-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95043-104-p6s4
+1	Čechy	NNMP4-----A----	Obj
+2	stojí	VB-S---3P-AA---	Pred
+3	dvoulůžkový	AAIS1----1A----	Atr
+4	pokoj	NNIS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	hotelech	NNIP6-----A----	Atr
+7	Rhea	NNFS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Luna	NNFS1-----A----	Atr
+10	a	J^-------------	Coord
+11	Sol	NNNXX-----A----	Atr
+12	celoročně	Dg-------1A----	Adv
+13	444	C=-------------	Obj
+14	korun	NNFP2-----A----	Atr
+15	,	Z:-------------	Coord
+16	což	PE--1----------	Sb
+17	vychází	VB-S---3P-AA---	Pred
+18	podstatně	Dg-------1A----	Adv
+19	levněji	Dg-------2A----	Adv
+20	než	J,-------------	AuxC
+21	v	RR--6----------	AuxP
+22	pražských	AAIP6----1A----	Atr
+23	pensionech	NNIP6-----A----	ExD
+24	.	Z:-------------	AuxK
+
+ln95043-104-p7s1
+1	Na	RR--6----------	AuxP
+2	druhé	CrFS6----------	Atr
+3	straně	NNFS6-----A----	Adv
+4	přenocování	NNNS1-----A----	Sb
+5	ve	RV--6----------	AuxP
+6	čtyřhvězdičkovém	AAIS6----1A----	Atr
+7	hotelu	NNIS6-----A----	Atr
+8	Penta	NNXXX-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	se	P7-X4----------	AuxT
+12	orientuje	VB-S---3P-AA---	Atr
+13	na	RR--4----------	AuxP
+14	obchodníky	NNMP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	přijde	VB-S---3P-AA---	Pred
+17	nyní	Db-------------	Adv
+18	zákazníka	NNMS4-----A----	Obj
+19	v	RR--6----------	AuxP
+20	jednolůžkovém	AAIS6----1A----	Atr
+21	pokoji	NNIS6-----A----	Adv
+22	na	RR--4----------	AuxP
+23	5600	C=-------------	Obj
+24	korun	NNFP2-----A----	Atr
+25	,	Z:-------------	Coord
+26	dvojlůžkovém	AAIS6----1A----	ExD
+27	5900	C=-------------	ExD
+28	korun	NNFP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95043-104-p7s2
+1	Tříhvězdičkový	AAIS1----1A----	Atr
+2	hotel	NNIS1-----A----	Sb
+3	Černigov	NNMS1-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Hradci	NNIS6-----A----	Atr
+6	Králové	NNFS2-----A----	Atr
+7	nabízí	VB-S---3P-AA---	Pred
+8	po	RR--6----------	AuxP
+9	zvýšení	NNNS6-----A----	Adv
+10	cen	NNFP2-----A----	Atr
+11	od	RR--2----------	AuxP
+12	loňského	AAIS2----1A----	Atr
+13	října	NNIS2-----A----	Atr
+14	dvoulůžkový	AAIS4----1A----	Atr
+15	pokoj	NNIS4-----A----	Obj
+16	včetně	RR--2----------	AuxP
+17	snídaně	NNFS2-----A----	Adv
+18	za	RR--4----------	AuxP
+19	880	C=-------------	Adv
+20	korun	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95043-104-p7s3
+1	Zahraniční	AAMP1----1A----	Atr
+2	hosté	NNMP1-----A----	Sb
+3	musí	VB-P---3P-AA--1	Pred
+4	za	RR--4----------	AuxP
+5	stejný	AAIS4----1A----	Atr
+6	pokoj	NNIS4-----A----	Obj
+7	připlatit	Vf--------A----	Obj
+8	ještě	Db-------------	AuxZ
+9	1010	C=-------------	Obj
+10	Kč	NNFXX-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95043-104-p8s1
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	se	P7-X4----------	AuxT
+4	podle	RR--2----------	AuxP
+5	ředitele	NNMS2-----A----	Atr
+6	pražského	AAIS2----1A----	Atr
+7	hotelu	NNIS2-----A----	Atr
+8	Inter	A2--------A----	Atr
+9	-	Z:-------------	AuxG
+10	Continental	NNIS1-----A----	Atr
+11	Ivana	NNMS2-----A----	Atr
+12	Hlinky	NNMS2-----A----	Adv
+13	zostřil	VpYS---XR-AA---	Adv
+14	boj	NNIS1-----A----	Sb
+15	o	RR--4----------	AuxP
+16	zákazníka	NNMS4-----A----	Atr
+17	,	Z:-------------	AuxX
+18	ceny	NNFP1-----A----	Sb
+19	se	P7-X4----------	AuxT
+20	nesnížily	VpTP---XR-NA---	Pred
+21	,	Z:-------------	AuxX
+22	ale	J^-------------	Coord
+23	spíše	Dg-------2A---1	Adv
+24	mírně	Dg-------1A----	Adv
+25	vzrostly	VpTP---XR-AA---	Pred
+26	.	Z:-------------	AuxK
+
+ln95043-104-p8s2
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	slov	NNNP2-----A----	Adv
+4	sice	Db-------------	AuxY
+5	hotely	NNIP1-----A----	Sb
+6	rostou	VB-P---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	Praze	NNFS6-----A----	Adv
+9	jako	J,-------------	AuxC
+10	houby	NNFP1-----A----	ExD
+11	po	RR--6----------	AuxP
+12	dešti	NNIS6-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	těžko	Db-------------	Adv
+16	lze	VB-S---3P-AA---	Pred
+17	tvrdit	Vf--------A----	Sb
+18	,	Z:-------------	AuxX
+19	že	J,-------------	AuxC
+20	těch	PDXP2----------	Atr
+21	dobrých	AAIP2----1A----	Atr
+22	je	VB-S---3P-AA---	Obj
+23	už	Db-------------	Adv
+24	moc	Db-------------	Sb
+25	.	Z:-------------	AuxK
+
+ln95043-104-p9s1
+1	Nejdražší	AAIP1----3A----	Atr
+2	zahraniční	AAIP1----1A----	Atr
+3	hotely	NNIP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	kde	Db-------------	Adv
+6	přespávají	VB-P---3P-AA---	Atr
+7	většinou	Db-------------	Adv
+8	obchodníci	NNMP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	jsou	VB-P---3P-AA---	Pred
+11	podle	RR--2----------	AuxP
+12	zahraničních	AAIP2----1A----	Atr
+13	materiálů	NNIP2-----A----	Adv
+14	v	RR--6----------	AuxP
+15	Tokiu	NNNS6-----A----	Adv
+16	,	Z:-------------	AuxX
+17	kde	Db-------------	Adv
+18	jedna	ClFS1----------	Atr
+19	noc	NNFS1-----A----	Sb
+20	stojí	VB-S---3P-AA---	Atr
+21	v	RR--6----------	AuxP
+22	přepočtu	NNIS6-----A----	Adv
+23	průměrně	Dg-------1A----	Adv
+24	401	C=-------------	Obj
+25	marek	NNFP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	v	RR--6----------	AuxP
+28	New	AAXXX----1A----	Atr
+29	Yorku	NNIS6-----A----	ExD
+30	303	C=-------------	ExD
+31	marek	NNFP2-----A----	Atr
+32	,	Z:-------------	AuxX
+33	Curychu	NNIS6-----A----	ExD
+34	296	C=-------------	ExD
+35	marek	NNFP2-----A----	Atr
+36	a	J^-------------	AuxY
+37	v	RR--6----------	AuxP
+38	Paříži	NNFS6-----A----	ExD
+39	257	C=-------------	ExD
+40	marek	NNFP2-----A----	Atr
+41	a	J^-------------	Coord
+42	ve	RV--6----------	AuxP
+43	Washingtonu	NNIS6-----A---1	ExD
+44	266	C=-------------	ExD
+45	DEM	NNFXX-----A---8	Atr
+46	.	Z:-------------	AuxK
+
+ln95043-104-p10s1
+1	Přestože	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	návštěvnost	NNFS1-----A----	Sb
+4	České	AAFS2----1A----	Atr
+5	republiky	NNFS2-----A----	Atr
+6	proti	RR--3----------	AuxP
+7	světovému	AAIS3----1A----	Atr
+8	průměru	NNIS3-----A----	Adv
+9	zvyšuje	VB-S---3P-AA---	Adv
+10	rychleji	Dg-------2A----	Adv
+11	,	Z:-------------	AuxX
+12	počet	NNIS1-----A----	Sb
+13	ubytovaných	AAMP2----1A----	Atr
+14	hostů	NNMP2-----A----	Atr
+15	je	VB-S---3P-AA---	Pred
+16	podle	RR--2----------	AuxP
+17	statistiky	NNFS2-----A----	Adv
+18	nízký	AAIS1----1A----	Pnom
+19	.	Z:-------------	AuxK
+
+ln95043-104-p10s2
+1	V	RR--6----------	AuxP
+2	loňském	AAIS6----1A----	Atr
+3	roce	NNIS6-----A---1	Adv
+4	k	RR--3----------	AuxP
+5	nám	PP-P3--1-------	Adv
+6	přijelo	VpNS---XR-AA---	Pred
+7	101	C=-------------	Sb
+8	miliónů	NNIP2-----A----	Atr
+9	návštěvníků	NNMP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	z	RR--2----------	AuxP
+12	nichž	P9XP2----------	Atr
+13	lze	VB-S---3P-AA---	Atr
+14	odhadem	NNIS7-----A----	Adv
+15	jen	TT-------------	AuxZ
+16	asi	TT-------------	AuxZ
+17	17	C=-------------	Obj
+18	miliónů	NNIP2-----A----	Atr
+19	považovat	Vf--------A----	Sb
+20	za	RR--4----------	AuxP
+21	skutečné	AAMP4----1A----	Atr
+22	turisty	NNMP4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln95043-104-p10s3
+1	Přitom	Db-------------	Adv
+2	počet	NNIS1-----A----	Sb
+3	hotelových	AAMP2----1A----	Atr
+4	hostů	NNMP2-----A----	Atr
+5	byl	VpYS---XR-AA---	Pred
+6	mnohonásobně	Dg-------1A----	Adv
+7	nižší	AAIS1----2A----	Pnom
+8	.	Z:-------------	AuxK
+
+ln95043-104-p10s4
+1	Nejvíce	Dg-------3A----	Sb
+2	turistů	NNMP2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	tradičně	Dg-------1A----	Adv
+5	ubytovalo	VpNS---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln95043-104-p11s1
+1	Příjmy	NNIP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	turistiky	NNFS2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	pro	RR--4----------	AuxP
+6	naši	PSFS4-P1-------	Atr
+7	ekonomiku	NNFS4-----A----	Adv
+8	stále	Db-------------	Adv
+9	významnější	AAIS1----2A----	Pnom
+10	.	Z:-------------	AuxK
+
+ln95043-104-p11s2
+1	Jen	TT-------------	AuxZ
+2	za	RR--4----------	AuxP
+3	poslední	AAIP4----1A----	Atr
+4	čtyři	ClXP4----------	Atr
+5	roky	NNIP4-----A----	Adv
+6	trojnásobně	Dg-------1A----	Adv
+7	vzrostly	VpTP---XR-AA---	Pred
+8	a	J^-------------	Coord
+9	za	RR--4----------	AuxP
+10	loňský	AAIS4----1A----	Atr
+11	rok	NNIS4-----A----	Adv
+12	představují	VB-P---3P-AA---	Pred
+13	dvě	ClHP4----------	Atr
+14	miliardy	NNFP4-----A----	Obj
+15	dolarů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+

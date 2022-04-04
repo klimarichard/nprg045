@@ -1,0 +1,131 @@
+mf920923-081-p1s1A
+1	Chovanci	NNMP1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	útěku	NNIS6-----A----	Atr
+
+mf920923-081-p1s1B
+1	Znojmo	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jh	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920923-081-p1s1C
+1	Od	RR--2----------	AuxP
+2	noci	NNFS2-----A----	Adv
+3	na	RR--4----------	AuxP
+4	pondělí	NNNS4-----A----	Atr
+5	jihomoravští	AAMP1----1A----	Atr
+6	policisté	NNMP1-----A----	Sb
+7	pátrají	VB-P---3P-AA---	Pred
+8	po	RR--6----------	AuxP
+9	skupině	NNFS6-----A----	Obj
+10	osmi	Cn-P2----------	Atr
+11	mladíků	NNMP2-----A----	Atr
+12	od	RR--2----------	AuxP
+13	15	C=-------------	ExD
+14	do	RR--2----------	AuxP
+15	17	C=-------------	Atr
+16	let	NNNP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	kteří	P4MP1----------	Sb
+19	uprchli	VpMP---XR-AA--1	Atr
+20	z	RR--2----------	AuxP
+21	Výchovného	AAIS2----1A----	Atr
+22	ústavu	NNIS2-----A----	Adv
+23	mládeže	NNFS2-----A----	Atr
+24	ve	RV--6----------	AuxP
+25	Višnové	NNFS6-----A----	Atr
+26	na	RR--6----------	AuxP
+27	Znojemsku	NNNS6-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf920923-081-p1s2
+1	Chovanci	NNMP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	umístěni	VsMP---XX-AP---	Atr
+4	v	RR--6----------	AuxP
+5	ústavu	NNIS6-----A---1	Adv
+6	rozhodnutím	NNNS7-----A----	Adv
+7	soudu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	před	RR--7----------	AuxP
+10	nočním	AAIS7----1A----	Atr
+11	útěkem	NNIS7-----A----	Adv
+12	sebrali	VpMP---XR-AA---	Pred
+13	vychovateli	NNMS3-----A----	Obj
+14	klíče	NNIP4-----A----	Obj
+15	od	RR--2----------	AuxP
+16	izolace	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920923-081-p1s3
+1	Muže	NNMS4-----A----	Obj
+2	zamkli	VpMP---XR-AA--1	Pred
+3	v	RR--6----------	AuxP
+4	místnosti	NNFS6-----A----	Adv
+5	,	Z:-------------	AuxX
+6	vykradli	VpMP---XR-AA---	Pred
+7	šatnu	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	vypáčili	VpMP---XR-AA---	Pred
+10	trezor	NNIS4-----A----	Obj
+11	a	J^-------------	Coord
+12	po	RR--6----------	AuxP
+13	neúspěšném	AAIS6----1N----	Atr
+14	pokusu	NNIS6-----A---1	Adv
+15	odcizit	Vf--------A----	Atr
+16	služební	AAIS4----1A----	Atr
+17	vůz	NNIS4-----A----	Obj
+18	po	RR--6----------	AuxP
+19	sobě	P6-X6----------	Adv
+20	zanechali	VpMP---XR-AA---	Pred
+21	škodu	NNFS4-----A----	Obj
+22	12300	C=-------------	Atr
+23	Kčs	NNFXX-----A---8	Atr
+24	.	Z:-------------	AuxK
+
+mf920923-081-p1s4
+1	Tři	ClXP1----------	Sb
+2	z	RR--2----------	AuxP
+3	unikajících	AGMP2-----A----	Atr
+4	mladíků	NNMP2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	o	RR--4----------	AuxP
+7	útěk	NNIS4-----A----	Obj
+8	pokusili	VpMP---XR-AA---	Pred
+9	už	Db-------------	AuxZ
+10	v	RR--4----------	AuxP
+11	pátek	NNIS4-----A----	Adv
+12	večer	Db-------------	Adv
+13	přes	RR--4----------	AuxP
+14	vybouranou	AAFS4----1A----	Atr
+15	stěnu	NNFS4-----A----	Adv
+16	ze	RV--2----------	AuxP
+17	skleněných	AAFP2----1A----	Atr
+18	cihel	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920923-081-p1s5
+1	Protože	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	před	RR--7----------	AuxP
+4	pobytem	NNIS7-----A----	Adv
+5	v	RR--6----------	AuxP
+6	ústavu	NNIS6-----A---1	Atr
+7	dopustili	VpMP---XR-AA---	Adv
+8	krádeží	NNFP2-----A----	Obj
+9	aut	NNNP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	policisté	NNMP1-----A----	Sb
+12	nevylučují	VB-P---3P-NA---	Pred
+13	další	AAFS4----1A----	Atr
+14	trestnou	AAFS4----1A----	Atr
+15	činnost	NNFS4-----A----	Obj
+16	a	J^-------------	Coord
+17	žádají	VB-P---3P-AA---	Pred
+18	veřejnost	NNFS4-----A----	Obj
+19	o	RR--4----------	AuxP
+20	pomoc	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+

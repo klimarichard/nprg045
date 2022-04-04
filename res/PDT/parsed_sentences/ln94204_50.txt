@@ -1,0 +1,190 @@
+ln94204-50-p1s1
+1	Bude	VB-S---3F-AA---	AuxV
+2	se	P7-X4----------	AuxT
+3	vrchní	AAIS1----1A----	Atr
+4	soud	NNIS1-----A----	Sb
+5	zabývat	Vf--------A----	Pred
+6	Wallisem	NNMS7-----A----	Obj
+7	?	Z:-------------	AuxK
+
+ln94204-50-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94204-50-p2s1B
+1	Návrh	NNIS4-----A----	Obj
+2	stížnosti	NNFS2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	porušení	NNNS4-----A----	Atr
+5	zákona	NNIS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	trestní	AAFS6----1A----	Atr
+8	věci	NNFS6-----A----	Atr
+9	proti	RR--3----------	AuxP
+10	Václavu	NNMS3-----A---1	Atr
+11	Wallisovi	NNMS3-----A---1	Atr
+12	včera	Db-------------	Adv
+13	předložil	VpYS---XR-AA---	Pred
+14	vrchní	AAMS1----1A----	Atr
+15	státní	AAMS1----1A----	Atr
+16	zástupce	NNMS1-----A----	Atr
+17	Libor	NNMS1-----A----	Atr
+18	Grygárek	NNMS1-----A----	Sb
+19	ministru	NNMS3-----A---1	Atr
+20	spravedlnosti	NNFS2-----A----	Atr
+21	Jiřímu	NNMS3-----A----	Atr
+22	Novákovi	NNMS3-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94204-50-p2s2
+1	Stížnost	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	pokud	J,-------------	AuxC
+4	ji	PPFS4--3-------	Obj
+5	ministr	NNMS1-----A----	Sb
+6	podá	VB-S---3P-AA---	Adv
+7	,	Z:-------------	AuxX
+8	napadne	VB-S---3P-AA---	Pred
+9	rozhodnutí	NNNS4-----A----	Obj
+10	Krajského	AAIS2----1A----	Atr
+11	soudu	NNIS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Plzni	NNFS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	který	P4YS1----------	Sb
+16	věc	NNFS4-----A----	Obj
+17	vrátil	VpYS---XR-AA---	Atr
+18	státnímu	AAMS3----1A----	Atr
+19	zástupci	NNMS3-----A----	Obj
+20	k	RR--3----------	AuxP
+21	došetření	NNNS3-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln94204-50-p2s3
+1	Grygárek	NNMS1-----A----	Sb
+2	to	PDNS4----------	Obj
+3	uvedl	VpYS---XR-AA---	Pred
+4	včera	Db-------------	Adv
+5	.	Z:-------------	AuxK
+
+ln94204-50-p2s4
+1	Zastupitelství	NNNS1-----A----	Sb
+2	podle	RR--2----------	AuxP
+3	něj	P5ZS2--3-------	Adv
+4	shledává	VB-S---3P-AA---	Pred
+5	nezákonným	AANS7----1N----	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	odvolací	AAIS1----1A----	Atr
+9	Krajský	AAIS1----1A----	Atr
+10	soud	NNIS1-----A----	Sb
+11	vrátil	VpYS---XR-AA---	Obj
+12	věc	NNFS4-----A----	Obj
+13	do	RR--2----------	AuxP
+14	přípravného	AANS2----1A----	Atr
+15	řízení	NNNS2-----A----	Adv
+16	(	Z:-------------	AuxG
+17	státnímu	AAMS3----1A----	Atr
+18	zástupci	NNMS3-----A----	Obj
+19	k	RR--3----------	AuxP
+20	došetření	NNNS3-----A----	Adv
+21	)	Z:-------------	AuxG
+22	za	RR--2----------	AuxP
+23	situace	NNFS2-----A----	Adv
+24	,	Z:-------------	AuxX
+25	která	P4FS1----------	Sb
+26	je	VB-S---3P-AA---	Atr
+27	zralá	AAFS1----1A----	Pnom
+28	k	RR--3----------	AuxP
+29	rozhodnutí	NNNS3-----A----	Adv
+30	.	Z:-------------	AuxK
+
+ln94204-50-p2s5
+1	Nezákonnost	NNFS4-----N----	Obj
+2	spatřuje	VB-S---3P-AA---	Obj
+3	zastupitelství	NNNS1-----A----	Sb
+4	i	J^-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	tom	PDZS6----------	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	soud	NNIS1-----A----	Sb
+10	špatně	Dg-------1A----	Adv
+11	zhodnotil	VpYS---XR-AA---	Atr
+12	právní	AAFS4----1A----	Atr
+13	kvalifikaci	NNFS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	pokud	J,-------------	AuxC
+16	tvrdí	VB-S---3P-AA---	Adv
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	Wallis	NNMS1-----A----	Sb
+20	při	RR--6----------	AuxP
+21	páchání	NNNS6-----A----	Adv
+22	trestné	AAFS2----1A----	Atr
+23	činnosti	NNFS2-----A----	Atr
+24	nebyl	VpYS---XR-NA---	Obj
+25	veřejným	AAMS7----1A----	Atr
+26	činitelem	NNMS7-----A----	Pnom
+27	,	Z:-------------	AuxX
+28	uvedl	VpYS---XR-AA---	Pred
+29	Grygárek	NNMS1-----A----	Sb
+30	.	Z:-------------	AuxK
+
+ln94204-50-p3s1
+1	Pokud	J,-------------	AuxC
+2	ministr	NNMS1-----A----	Sb
+3	stížnost	NNFS4-----A----	Obj
+4	podá	VB-S---3P-AA---	Adv
+5	,	Z:-------------	AuxX
+6	bude	VB-S---3F-AA---	AuxV
+7	o	RR--6----------	AuxP
+8	ní	P5FS6--3-------	Obj
+9	rozhodovat	Vf--------A----	Pred
+10	Vrchní	AAIS1----1A----	Atr
+11	soud	NNIS1-----A----	Sb
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94204-50-p3s2
+1	Ten	PDYS1----------	Sb
+2	buď	J^-------------	AuxY
+3	rozhodnutí	NNNS4-----A----	Obj
+4	Krajského	AAIS2----1A----	Atr
+5	soudu	NNIS2-----A----	Atr
+6	potvrdí	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	nebo	J^-------------	Coord
+9	usnesení	NNNS4-----A----	Obj
+10	či	J^-------------	Coord
+11	jeho	PSXXXZS3-------	Atr
+12	část	NNFS4-----A----	Obj
+13	zruší	VB-S---3P-AA---	Pred
+14	a	J^-------------	Coord
+15	Krajskému	AAIS3----1A----	Atr
+16	soudu	NNIS3-----A----	Obj
+17	může	VB-S---3P-AA---	Pred
+18	nařídit	Vf--------A----	Obj
+19	,	Z:-------------	AuxX
+20	aby	J,-------------	AuxC
+21	ve	RV--6----------	AuxP
+22	věci	NNFS6-----A----	Adv
+23	znovu	Db-------------	Adv
+24	jednal	VpYS---XR-AA---	Obj
+25	a	J^-------------	Coord
+26	rozhodl	VpYS---XR-AA--1	Obj
+27	.	Z:-------------	AuxK
+
+ln94204-50-p3s3
+1	Vrchní	AAIS1----1A----	Atr
+2	soud	NNIS1-----A----	Sb
+3	také	Db-------------	Adv
+4	může	VB-S---3P-AA---	Pred
+5	věc	NNFS4-----A----	Obj
+6	vrátit	Vf--------A----	Obj
+7	soudu	NNIS3-----A----	Obj
+8	prvního	CrIS2----------	Atr
+9	stupně	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+

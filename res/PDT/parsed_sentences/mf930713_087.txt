@@ -1,0 +1,310 @@
+mf930713-087-p1s1
+1	Seba	NNFS1-----A----	Sb
+2	Tanvald	NNIS1-----A----	Atr
+3	přerušila	VpQW---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	pět	Cn-S4----------	Adv
+6	týdnů	NNIP2-----A----	Atr
+7	výrobu	NNFS4-----A----	Obj
+8	textilu	NNIS2-----A----	Atr
+
+mf930713-087-p2s1A
+1	Tanvald	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ouš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-087-p2s1B
+1	Přádelny	NNFP1-----A----	Sb
+2	a	J^-------------	Coord
+3	tkalcovny	NNFP1-----A----	Sb
+4	,	Z:-------------	Apos
+5	státní	AAIS1----1A----	Atr
+6	podnik	NNIS1-----A----	Sb
+7	Seba	NNFS1-----A----	Atr
+8	Tanvald	NNIS1-----A----	Atr
+9	přestaly	VpTP---XR-AA---	Pred
+10	včera	Db-------------	Adv
+11	pracovat	Vf--------A----	Obj
+12	,	Z:-------------	AuxX
+13	protože	J,-------------	AuxC
+14	o	RR--4----------	AuxP
+15	textil	NNIS4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	který	P4YS1----------	Sb
+18	se	P7-X4----------	AuxR
+19	tu	Db------------1	Adv
+20	vyrábí	VB-S---3P-AA---	Atr
+21	,	Z:-------------	AuxX
+22	není	VB-S---3P-NA---	Adv
+23	zájem	NNIS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+mf930713-087-p2s2
+1	Továrna	NNFS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měla	VpQW---XR-AA---	Pred
+4	zůstat	Vf--------A----	Obj
+5	zavřena	VsQW---XX-AP---	Obj
+6	pět	Cn-S4----------	Adv
+7	týdnů	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930713-087-p3s1
+1	Seba	NNFS1-----A----	Sb
+2	zaměstnává	VB-S---3P-AA---	Pred
+3	2700	C=-------------	Obj
+4	lidí	NNMP2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+mf930713-087-p3s2
+1	Dělníci	NNMP1-----A----	Sb
+2	nastoupí	VB-P---3P-AA---	Pred
+3	nejprve	Db-------------	Adv
+4	na	RR--4----------	AuxP
+5	třítýdenní	AAFS4----1A----	Atr
+6	dovolenou	NNFS4-----A----	Adv
+7	,	Z:-------------	AuxX
+8	čtvrtý	CrIS4----------	Atr
+9	týden	NNIS4-----A----	Adv
+10	dostanou	VB-P---3P-AA---	Pred
+11	sto	NNNS4-----A----	Obj
+12	procent	NNNP2-----A----	Atr
+13	platu	NNIS2-----A----	Atr
+14	a	J^-------------	Coord
+15	pátý	CrIS4----------	ExD
+16	šedesát	Cn-S4----------	ExD
+17	procent	NNNP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf930713-087-p3s3
+1	Výluku	NNFS4-----A----	Obj
+2	zavinil	VpYS---XR-AA---	Pred
+3	pokles	NNIS1-----A----	Sb
+4	zájmu	NNIS2-----A----	Atr
+5	zákazníků	NNMP2-----A----	Atr
+6	o	RR--4----------	AuxP
+7	tkaniny	NNFP4-----A----	Atr
+8	Seba	NNFS1-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf930713-087-p3s4
+1	Někteří	PZMP1----------	Sb
+2	dokonce	Db-------------	AuxZ
+3	zrušili	VpMP---XR-AA---	Pred
+4	dříve	Dg-------2A----	Adv
+5	podepsané	AAFP4----1A----	Atr
+6	smlouvy	NNFP4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+mf930713-087-p3s5
+1	Největší	AAMS1----3A----	Atr
+2	partner	NNMS1-----A----	Atr
+3	Centrotex	NNIS1-----A----	Sb
+4	snížil	VpYS---XR-AA---	Pred
+5	poptávku	NNFS4-----A----	Obj
+6	o	RR--4----------	AuxP
+7	700	C=-------------	Adv
+8	tisíc	ClXS2----------	Atr
+9	metrů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-087-p3s6
+1	Sebě	NNFS3-----A----	Adv
+2	leží	VB-S---3P-AA---	Pred
+3	ve	RV--6----------	AuxP
+4	skladech	NNIP6-----A----	Adv
+5	milion	NNIS1-----A----	Sb
+6	tři	ClXP1----------	Atr
+7	sta	NNNP1-----A----	Atr
+8	tisíc	ClXS2----------	Atr
+9	metrů	NNIP2-----A----	Atr
+10	sypkovin	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	plášťovin	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	klotů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf930713-087-p3s7
+1	Jde	VB-S---3P-AA---	Pred
+2	přibližně	Dg-------1A----	Adv
+3	o	RR--4----------	AuxP
+4	měsíční	AAFS4----1A----	Atr
+5	produkci	NNFS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+mf930713-087-p4s1
+1	Podle	RR--2----------	AuxP
+2	vedoucího	NNMS2-----A----	Adv
+3	výroby	NNFS2-----A----	Atr
+4	Miloše	NNMS2-----A----	Adv
+5	Přiklopila	NNMS2-----A----	Adv
+6	má	VB-S---3P-AA---	Pred
+7	Seba	NNFS1-----A----	Sb
+8	rozpracovanou	AAFS4----1A----	AtvV
+9	celou	AAFS4----1A----	Atr
+10	řadu	NNFS4-----A----	Obj
+11	zakázek	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf930713-087-p4s2
+1	Zákazníci	NNMP1-----A----	Sb
+2	však	J^-------------	Coord
+3	vyvíjejí	VB-P---3P-AA---	Pred
+4	velký	AAIS4----1A----	Atr
+5	tlak	NNIS4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	snižování	NNNS4-----A----	Atr
+8	cen	NNFP2-----A----	Atr
+9	tkanin	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-087-p4s3
+1	Snaží	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	Sebu	NNFS4-----A----	Obj
+4	přimět	Vf--------A----	Obj
+5	k	RR--3----------	AuxP
+6	nabídkám	NNFP3-----A----	Obj
+7	pohybujícím	AGFP3-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	pod	RR--7----------	AuxP
+10	hladinou	NNFS7-----A----	Adv
+11	současných	AAIP2----1A----	Atr
+12	výrobních	AAIP2----1A----	Atr
+13	nákladů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930713-087-p4s4
+1	Zároveň	Db-------------	Adv
+2	v	RR--6----------	AuxP
+3	nejedné	CwFS6----------	Atr
+4	prodejně	NNFS6-----A----	Adv
+5	se	P7-X4----------	AuxR
+6	látky	NNFP1-----A----	Sb
+7	ze	RV--2----------	AuxP
+8	Seby	NNFS2-----A----	Atr
+9	prodávají	VB-P---3P-AA---	Pred
+10	i	J^-------------	AuxZ
+11	se	RV--7----------	AuxP
+12	stoprocentním	AAIS7----1A----	Atr
+13	rabatem	NNIS7-----A----	Adv
+14	.	Z:-------------	AuxK
+
+mf930713-087-p4s5
+1	Velkou	AAFS4----1A----	Atr
+2	konkurenci	NNFS4-----A----	Obj
+3	představují	VB-P---3P-AA---	Pred
+4	pro	RR--4----------	AuxP
+5	severočeskou	AAFS4----1A----	Atr
+6	textilku	NNFS4-----A----	Adv
+7	státem	NNIS7-----A----	Obj
+8	dotované	AAFP1----1A----	Atr
+9	východoasijské	AAFP1----1A----	Atr
+10	firmy	NNFP1-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf930713-087-p4s6
+1	Své	P8NS4---------1	Atr
+2	zboží	NNNS4-----A----	Obj
+3	nabízejí	VB-P---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	dvacet	Cn-S4----------	Adv
+6	procent	NNNP2-----A----	Atr
+7	levněji	Dg-------2A----	Adv
+8	než	J,-------------	AuxC
+9	Seba	NNFS1-----A----	ExD
+10	.	Z:-------------	AuxK
+
+mf930713-087-p5s1
+1	Zatímco	J,-------------	AuxC
+2	v	RR--6----------	AuxP
+3	roce	NNIS6-----A---1	Adv
+4	1990	C=-------------	Atr
+5	Seba	NNFS1-----A----	Sb
+6	vyrobila	VpQW---XR-AA---	Adv
+7	téměř	Db-------------	AuxZ
+8	dvacet	Cn-S4----------	Obj
+9	milionů	NNIP2-----A----	Atr
+10	metrů	NNIP2-----A----	Atr
+11	látek	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	letos	Db-------------	Adv
+14	vedení	NNNS1-----A----	Sb
+15	předpokládá	VB-S---3P-AA---	Pred
+16	12	C=-------------	Obj
+17	až	J^-------------	Coord
+18	14	C=-------------	Obj
+19	milionů	NNIP2-----A----	Atr
+20	metrů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf930713-087-p5s2
+1	Miloš	NNMS1-----A----	Atr
+2	Přiklopil	NNMS1-----A----	Sb
+3	vidí	VB-S---3P-AA---	Pred
+4	jedinou	AAFS4----1A----	Atr
+5	šanci	NNFS4-----A----	Obj
+6	tanvaldského	AAIS2----1A----	Atr
+7	podniku	NNIS2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	přežití	NNNS4-----A----	Atr
+10	ve	RV--6----------	AuxP
+11	snižování	NNNS6-----A----	Adv
+12	vlastních	AAIP2----1A----	Atr
+13	nákladů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930713-087-p6s1
+1	Privatizační	AAIS1----1A----	Atr
+2	projekt	NNIS1-----A----	Sb
+3	počítá	VB-S---3P-AA---	Pred
+4	se	RV--7----------	AuxP
+5	zmenšením	NNNS7-----A----	Obj
+6	Seby	NNFS2-----A----	Atr
+7	ze	RV--2----------	AuxP
+8	současných	AAFP2----1A----	ExD
+9	deseti	Cn-P2----------	Atr
+10	na	RR--4----------	AuxP
+11	šest	Cn-S4----------	Atr
+12	továren	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf930713-087-p6s2
+1	Dvě	ClHP1----------	ExD
+2	si	P7-X3----------	AuxO
+3	podaly	VpTP---XR-AA---	Pred
+4	samostatné	AAIP4----1A----	Atr
+5	projekty	NNIP4-----A----	Obj
+6	a	J^-------------	Coord
+7	dvě	ClHP4----------	ExD
+8	podnik	NNIS1-----A----	Sb
+9	navrhl	VpYS---XR-AA--1	Pred
+10	do	RR--2----------	AuxP
+11	veřejné	AAFS2----1A----	Atr
+12	soutěže	NNFS2-----A----	Adv
+13	.	Z:-------------	AuxK
+
+mf930713-087-p6s4
+1	Po	RR--6----------	AuxP
+2	privatizaci	NNFS6-----A----	Adv
+3	zavede	VB-S---3P-AA---	Pred
+4	Seba	NNFS1-----A----	Sb
+5	ve	RV--6----------	AuxP
+6	svých	P8XP6----------	Atr
+7	továrnách	NNFP6-----A----	Adv
+8	zpřísněný	AAIS4----1A----	Atr
+9	provoz	NNIS4-----A----	Obj
+10	a	J^-------------	Coord
+11	stroje	NNIP1-----A----	Sb
+12	se	P7-X4----------	AuxT
+13	nezastaví	VB-P---3P-NA---	Pred
+14	ani	J^-------------	AuxZ
+15	o	RR--6----------	AuxP
+16	sobotách	NNFP6-----A----	Adv
+17	a	J^-------------	Coord
+18	nedělích	NNFP6-----A----	Adv
+19	.	Z:-------------	AuxK
+

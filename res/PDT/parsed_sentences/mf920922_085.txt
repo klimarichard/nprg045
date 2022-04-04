@@ -1,0 +1,205 @@
+mf920922-085-p1s1A
+1	Vláda	NNFS1-----A----	Sb
+2	navrhuje	VB-S---3P-AA---	Pred
+3	"	Z:-------------	AuxG
+4	premiérský	AAIS4----1A----	Atr
+5	systém	NNIS4-----A----	Obj
+6	"	Z:-------------	AuxG
+
+mf920922-085-p1s1B
+1	POSLANEC	NNMS1-----A----	Atr
+2	JIŘÍ	NNMS1-----A----	Atr
+3	PAYNE	NNMS1-----A----	ExD
+4	(	Z:-------------	ExD
+5	ODS	NNFXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	O	RR--6----------	AuxP
+8	ČESKÉ	AAFS6----1A----	Atr
+9	ÚSTAVĚ	NNFS6-----A----	ExD
+
+mf920922-085-p2s1
+1	Na	RR--6----------	AuxP
+2	pátečním	AANS6----1A----	Atr
+3	jednání	NNNS6-----A----	Adv
+4	projevila	VpQW---XR-AA---	Pred
+5	komise	NNFS1-----A----	Sb
+6	ČNR	NNFXX-----A---8	Atr
+7	pro	RR--4----------	AuxP
+8	přípravu	NNFS4-----A----	Atr
+9	ústavy	NNFS2-----A----	Atr
+10	zásadní	AAIS4----1A----	Atr
+11	nesouhlas	NNIS4-----A----	Obj
+12	s	RR--7----------	AuxP
+13	vládním	AAIS7----1A----	Atr
+14	návrhem	NNIS7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920922-085-p2s2
+1	Co	PQ--4----------	Obj
+2	považujete	VB-P---2P-AA---	Pred
+3	za	RR--4----------	AuxP
+4	jeho	PSXXXZS3-------	Atr
+5	základní	AAFS4----1A----	Atr
+6	chybu	NNFS4-----A----	Obj
+7	?	Z:-------------	AuxK
+
+mf920922-085-p2s3
+1	"	Z:-------------	AuxG
+2	Principiální	AAFS7----1A----	Atr
+3	otázkou	NNFS7-----A----	Pnom
+4	ústavy	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	vyváženost	NNFS1-----A----	Sb
+7	jednotlivých	AAFP2----1A----	Atr
+8	složek	NNFP2-----A----	Atr
+9	moci	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf920922-085-p2s4A
+1	Vládní	AAIS1----1A----	Atr
+2	návrh	NNIS1-----A----	Sb
+3	předpokládá	VB-S---3P-AA---	Pred
+4	výrazně	Dg-------1A----	Adv
+5	premiérský	AAIS4----1A----	Atr
+6	systém	NNIS4-----A----	Obj
+7	-	Z:-------------	Coord
+8	ostatní	AAFP1----1A----	Atr
+9	složky	NNFP1-----A----	Sb
+10	moci	NNFS2-----A----	Atr
+11	jsou	VB-P---3P-AA---	Pred
+12	mu	PHZS3--3-------	Obj
+13	více	Dg-------2A----	Adv
+14	či	J^-------------	Coord
+15	méně	Dg-------2A----	Adv
+16	podřízeny	VsTP---XX-AP---	Pnom
+17	.	Z:-------------	AuxK
+
+mf920922-085-p2s4B
+1	"	Z:-------------	ExD
+2	V	RR--6----------	AuxP
+3	čem	PQ--6----------	ExD
+4	konkrétně	Dg-------1A----	ExD
+5	?	Z:-------------	AuxK
+
+mf920922-085-p2s5
+1	"	Z:-------------	AuxG
+2	Premiér	NNMS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	právo	NNNS4-----A----	Obj
+5	odvolávat	Vf--------A----	Atr
+6	ministry	NNMP4-----A----	Obj
+7	,	Z:-------------	Coord
+8	na	RR--6----------	AuxP
+9	druhé	CrFS6----------	Atr
+10	straně	NNFS6-----A----	Adv
+11	může	VB-S---3P-AA---	Pred
+12	odmítnout	Vf--------A----	Obj
+13	jejich	PSXXXXP3-------	Atr
+14	demisi	NNFS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+mf920922-085-p2s6
+1	Zatímco	J,-------------	AuxC
+2	prezident	NNMS1-----A----	Sb
+3	je	VB-S---3P-AA---	Adv
+4	odpovědný	AAMS1----1A----	Pnom
+5	parlamentu	NNIS3-----A----	Obj
+6	alespoň	Db-------------	AuxZ
+7	za	RR--4----------	AuxP
+8	vlastizradu	NNFS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	vláda	NNFS1-----A----	Sb
+11	a	J^-------------	Coord
+12	premiér	NNMS1-----A----	Sb
+13	nemají	VB-P---3P-NA---	Pred
+14	žádnou	PWFS4----------	Atr
+15	zákonnou	AAFS4----1A----	Atr
+16	odpovědnost	NNFS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+mf920922-085-p2s7
+1	Právo	NNNS4-----A----	Obj
+2	rozpustit	Vf--------A----	Atr
+3	poslaneckou	AAFS4----1A----	Atr
+4	sněmovnu	NNFS4-----A----	Obj
+5	má	VB-S---3P-AA---	Pred
+6	sice	Db-------------	AuxY
+7	prezident	NNMS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	jedině	Dg-------1A----	AuxZ
+11	se	RV--7----------	AuxP
+12	souhlasem	NNIS7-----A----	ExD
+13	premiéra	NNMS2-----A----	Atr
+14	-	Z:-------------	Coord
+15	obdobný	AAIS1----1A----	Atr
+16	princip	NNIS1-----A----	Sb
+17	je	VB-S---3P-AA---	Pred
+18	v	RR--6----------	AuxP
+19	podstatě	NNFS6-----A----	Adv
+20	u	RR--2----------	AuxP
+21	všech	PLXP2----------	Atr
+22	prezidentských	AAFP2----1A----	Atr
+23	pravomocí	NNFP2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+mf920922-085-p2s8
+1	Vláda	NNFS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	podle	RR--2----------	AuxP
+4	svého	P8ZS2----------	Atr
+5	návrhu	NNIS2-----A----	Adv
+6	dokonce	Db-------------	Adv
+7	měla	VpQW---XR-AA---	Pred
+8	vliv	NNIS4-----A----	Obj
+9	i	J^-------------	AuxZ
+10	na	RR--4----------	AuxP
+11	ústavní	AAIS4----1A----	Atr
+12	soud	NNIS4-----A----	Atr
+13	,	Z:-------------	AuxX
+14	jehož	PJZS2----------	Atr
+15	třetinu	CyFS4----------	Obj
+16	by	Vc-------------	AuxV
+17	jmenovala	VpQW---XR-AA---	Atr
+18	.	Z:-------------	AuxK
+
+mf920922-085-p2s9
+1	Tato	PDNP1----------	Atr
+2	opatření	NNNP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	spočívající	AGNP1-----A----	Atr
+5	v	RR--6----------	AuxP
+6	posílení	NNNS6-----A----	Obj
+7	výkonné	AAFS2----1A----	Atr
+8	moci	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	jsou	VB-P---3P-AA---	Pred
+11	namístě	Db-------------	Adv
+12	v	RR--6----------	AuxP
+13	krizových	AAFP6----1A----	Atr
+14	situacích	NNFP6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+mf920922-085-p2s10
+1	Otázkou	NNFS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	jsou	VB-P---3P-AA---	Sb
+6	právně	Dg-------1A----	Adv
+7	zakotveny	VsTP---XX-AP---	Pnom
+8	i	J^-------------	AuxZ
+9	ochranné	AAIP1----1A----	Atr
+10	mechanismy	NNIP1-----A----	Sb
+11	parlamentní	AAFS2----1A----	Atr
+12	kontroly	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920922-085-p2s11
+1	Ty	PDIP4----------	ExD
+2	vládní	AAFS1----1A----	Atr
+3	verze	NNFS1-----A----	Sb
+4	postrádá	VB-S---3P-AA---	Pred
+5	.	Z:-------------	AuxK
+6	"	Z:-------------	AuxG
+

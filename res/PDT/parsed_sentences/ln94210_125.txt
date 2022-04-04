@@ -1,0 +1,163 @@
+ln94210-125-p1s1
+1	Puma	NNFS1-----A----	Sb
+2	chce	VB-S---3P-AA---	Pred
+3	vrátit	Vf--------A----	Obj
+4	fotbal	NNIS4-----A----	Obj
+5	do	RR--2----------	AuxP
+6	ulic	NNFP2-----A----	Adv
+
+ln94210-125-p2s1A
+1	Ostrava	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	šv	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	sn	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94210-125-p2s1B
+1	Na	RR--4----------	AuxP
+2	300	C=-------------	Obj
+3	tisíc	ClXS2----------	Atr
+4	marek	NNFP2-----A----	Atr
+5	ročně	Dg-------1A----	AtrAdv
+6	přinese	VB-S---3P-AA---	Pred
+7	Českomoravskému	AAIS3----1A----	Atr
+8	fotbalovému	AAIS3----1A----	Atr
+9	svazu	NNIS3-----A----	Obj
+10	smlouva	NNFS1-----A----	Sb
+11	s	RR--7----------	AuxP
+12	firmou	NNFS7-----A----	Atr
+13	Puma	NNFS1-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94210-125-p2s2
+1	Ta	PDFS1----------	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	do	RR--2----------	AuxP
+4	ME	NNNXX-----A---8	Adv
+5	1996	C=-------------	Atr
+6	s	RR--7----------	AuxP
+7	opcí	NNFS7-----A----	Adv
+8	na	RR--4----------	AuxP
+9	další	AAIP4----1A----	Atr
+10	dva	ClYP4----------	Atr
+11	roky	NNIP4-----A----	Atr
+12	dodávat	Vf--------A----	Pred
+13	českým	AAIP3----1A----	Atr
+14	reprezentačním	AAIP3----1A----	Atr
+15	týmům	NNIP3-----A----	Obj
+16	počínaje	VeYS------A----	AuxP
+17	výběrem	NNIS7-----A----	Atr
+18	do	RR--2----------	AuxP
+19	18	C=-------------	Atr
+20	let	NNNP2-----A----	Atr
+21	a	J^-------------	Coord
+22	konče	VeYS------A----	AuxP
+23	áčkem	NNNS7-----A----	Atr
+24	sportovní	AANS4----1A----	Atr
+25	oblečení	NNNS4-----A----	Obj
+26	,	Z:-------------	AuxX
+27	obutí	NNNS4-----A----	Obj
+28	i	J^-------------	Coord
+29	míče	NNIP4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln94210-125-p2s3
+1	Problémy	NNIP1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	kopačkami	NNFP7-----A----	Atr
+4	,	Z:-------------	AuxX
+5	na	RR--4----------	AuxP
+6	jejichž	P1XXXXP3-------	Atr
+7	kvalitu	NNFS4-----A----	Obj
+8	si	P7-X3----------	AuxT
+9	někteří	PZMP1----------	Atr
+10	hráči	NNMP1-----A----	Sb
+11	stěžovali	VpMP---XR-AA---	Atr
+12	,	Z:-------------	AuxX
+13	se	P7-X4----------	AuxR
+14	budou	VB-P---3F-AA---	AuxV
+15	řešit	Vf--------A----	Pred
+16	individuálně	Dg-------1A----	Adv
+17	-	Z:-------------	Coord
+18	např	Db------------8	AuxZ
+19	.	Z:-------------	AuxG
+20	Kubíkovi	NNMS3-----A----	Adv
+21	a	J^-------------	Coord
+22	Šmejkalovi	NNMS3-----A----	Adv
+23	se	P7-X4----------	AuxR
+24	ušijí	VB-P---3P-AA--1	Pred
+25	boty	NNFP1-----A----	Sb
+26	na	RR--4----------	AuxP
+27	míru	NNFS4-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94210-125-p2s4
+1	Manažer	NNMS1-----A----	Atr
+2	Pumy	NNFS2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	východní	AAFS4----1A----	Atr
+5	Evropu	NNFS4-----A----	Atr
+6	Jürgen	NNMS1-----A----	Atr
+7	Hennig	NNMS1-----A----	Sb
+8	zároveň	Db-------------	Adv
+9	oznámil	VpYS---XR-AA---	Pred
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	po	RR--6----------	AuxP
+13	vzoru	NNIS6-----A----	Adv
+14	Německa	NNNS2-----A----	Atr
+15	bude	VB-S---3F-AA---	AuxV
+16	firma	NNFS1-----A----	Sb
+17	v	RR--6----------	AuxP
+18	našich	PSXP6-P1-------	Atr
+19	městech	NNNP6-----A----	Adv
+20	pořádat	Vf--------A----	Obj
+21	pouliční	AAIP4----1A----	Atr
+22	fotbalové	AAIP4----1A----	Atr
+23	turnaje	NNIP4-----A----	Obj
+24	dětí	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94210-125-p2s5
+1	První	CrIS1----------	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	měl	VpYS---XR-AA---	Pred
+5	včera	Db-------------	Adv
+6	premiéru	NNFS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	Ostravě	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln94210-125-p2s6
+1	Fotbalový	AAIS1----1A----	Atr
+2	svaz	NNIS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	turnaje	NNIP4-----A----	Obj
+5	zajišťovat	Vf--------A----	Pred
+6	technicky	Dg-------1A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94210-125-p2s7
+1	Cílem	NNIS7-----A----	Pnom
+2	této	PDFS2----------	Atr
+3	akce	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Obj
+5	vrátit	Vf--------A----	Sb
+6	fotbal	NNIS4-----A----	Obj
+7	do	RR--2----------	AuxP
+8	ulic	NNFP2-----A----	Adv
+9	a	J^-------------	Coord
+10	na	RR--4----------	AuxP
+11	sídliště	NNNP4-----A----	Adv
+12	,	Z:-------------	AuxX
+13	uvedl	VpYS---XR-AA---	Pred
+14	generální	AAMS1----1A----	Atr
+15	sekretář	NNMS1-----A----	Atr
+16	ČMFS	NNIXX-----A---8	Atr
+17	Rudolf	NNMS1-----A----	Atr
+18	Baťa	NNMS1-----A----	Sb
+19	.	Z:-------------	AuxK
+

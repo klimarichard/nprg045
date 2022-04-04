@@ -1,0 +1,210 @@
+mf930709-022-p1s1
+1	Zákaz	NNIS1-----A----	ExD
+2	freonů	NNIP2-----A----	Atr
+3	do	RR--2----------	AuxP
+4	roku	NNIS2-----A---1	Atr
+5	1996	C=-------------	Atr
+
+mf930709-022-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	li	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-022-p2s1B
+1	Výroba	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	dovoz	NNIS1-----A----	Sb
+4	a	J^-------------	Coord
+5	užívání	NNNS1-----A----	Sb
+6	látek	NNFP2-----A----	Atr
+7	ničících	AGFP2-----A----	Atr
+8	ozón	NNIS4-----A----	Obj
+9	bude	VB-S---3F-AA---	Pred
+10	v	RR--6----------	AuxP
+11	České	AAFS6----1A----	Atr
+12	republice	NNFS6-----A----	Adv
+13	úplně	Dg-------1A----	Adv
+14	zakázána	VsQW---XX-AP---	Pnom
+15	od	RR--2----------	AuxP
+16	1	C=-------------	Atr
+17	.	Z:-------------	AuxG
+18	ledna	NNIS2-----A----	Adv
+19	1996	C=-------------	Atr
+20	.	Z:-------------	AuxK
+
+mf930709-022-p2s2
+1	Již	Db-------------	AuxZ
+2	od	RR--2----------	AuxP
+3	počátku	NNIS2-----A----	Adv
+4	příštího	AAIS2----1A----	Atr
+5	roku	NNIS2-----A---1	Atr
+6	bude	VB-S---3F-AA---	Pred
+7	zakázán	VsYS---XX-AP---	Pnom
+8	dovoz	NNIS1-----A----	Sb
+9	výrobků	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	v	RR--6----------	AuxP
+12	nichž	P9XP6----------	Adv
+13	jsou	VB-P---3P-AA---	Atr
+14	tyto	PDFP1----------	Atr
+15	látky	NNFP1-----A----	Sb
+16	obsaženy	VsTP---XX-AP---	Pnom
+17	.	Z:-------------	AuxK
+
+mf930709-022-p3s1
+1	Dovoz	NNIS1-----A----	Sb
+2	sprejů	NNIP2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	obsahujících	AGIP2-----A----	Atr
+5	freony	NNIP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	má	VB-S---3P-AA---	Pred
+8	skončit	Vf--------A----	Obj
+9	dnem	NNIS7-----A----	Adv
+10	nabytí	NNNS2-----A----	Atr
+11	účinnosti	NNFS2-----A----	Atr
+12	zákona	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	který	P4IS4----------	Obj
+15	včera	Db-------------	Adv
+16	přijal	VpYS---XR-AA---	Atr
+17	parlament	NNIS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+mf930709-022-p3s2
+1	Nejškodlivější	AAFP1----3A----	Sb
+2	z	RR--2----------	AuxP
+3	látek	NNFP2-----A----	Atr
+4	způsobujících	AGFP2-----A----	Atr
+5	ozónovou	AAFS4----1A----	Atr
+6	díru	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	tzv	AAXXX----1A---8	Apos
+9	.	Z:-------------	AuxG
+10	halony	NNIP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	budou	VB-P---3F-AA---	Pred
+13	zakázány	VsTP---XX-AP---	Pnom
+14	od	RR--2----------	AuxP
+15	1	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	ledna	NNIS2-----A----	Adv
+18	1994	C=-------------	Atr
+19	.	Z:-------------	AuxK
+
+mf930709-022-p4s1
+1	Výrobky	NNIP1-----A----	Sb
+2	obsahující	AGIP1-----A----	Atr
+3	freony	NNIP4-----A----	Obj
+4	budou	VB-P---3F-AA---	AuxV
+5	podle	RR--2----------	AuxP
+6	zákona	NNIS2-----A----	Adv
+7	muset	Vf--------A----	Pred
+8	být	Vf--------A----	AuxV
+9	zřetelně	Dg-------1A----	Adv
+10	opatřeny	VsTP---XX-AP---	Obj
+11	textem	NNIS7-----A----	Obj
+12	"	Z:-------------	AuxG
+13	Výrobek	NNIS1-----A----	Sb
+14	obsahuje	VB-S---3P-AA---	Atr
+15	látky	NNFP4-----A----	Obj
+16	ničící	AGFP4-----A----	Atr
+17	ozónovou	AAFS4----1A----	Atr
+18	vrstvu	NNFS4-----A----	Obj
+19	Země	NNFS2-----A----	Atr
+20	"	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+mf930709-022-p4s2
+1	Výrobci	NNMP1-----A----	Sb
+2	nebo	J^-------------	Coord
+3	dovozci	NNMP1-----A----	Sb
+4	budou	VB-P---3F-AA---	Pred
+5	zatím	Db-------------	Adv
+6	povinni	ACMP------A----	Pnom
+7	platit	Vf--------A----	Obj
+8	za	RR--4----------	AuxP
+9	každý	AAIS4----1A----	Atr
+10	kilogram	NNIS4-----A----	Obj
+11	látek	NNFP2-----A----	Atr
+12	ničících	AGFP2-----A----	Atr
+13	ozón	NNIS4-----A----	Obj
+14	100	C=-------------	Obj
+15	korun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930709-022-p4s3
+1	Pokuta	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	porušení	NNNS4-----A----	Atr
+4	zákona	NNIS2-----A----	Atr
+5	činí	VB-S---3P-AA---	Pred
+6	2500	C=-------------	Obj
+7	až	J^-------------	Coord
+8	500000	C=-------------	Obj
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930709-022-p4s4
+1	Ministr	NNMS1-----A----	Atr
+2	průmyslu	NNIS2-----A----	Atr
+3	Vladimír	NNMS1-----A----	Atr
+4	Dlouhý	NNMS1-----A----	Sb
+5	vyjádřil	VpYS---XR-AA---	Pred
+6	obavy	NNFP4-----A----	Obj
+7	z	RR--2----------	AuxP
+8	dopadu	NNIS2-----A----	Atr
+9	zákona	NNIS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	některé	PZYP4----------	Atr
+12	podniky	NNIP4-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf930709-022-p4s5
+1	Upozornil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	po	RR--6----------	AuxP
+5	zákazu	NNIS6-----A---1	Adv
+6	freonů	NNIP2-----A----	Atr
+7	bude	VB-S---3F-AA---	Obj
+8	v	RR--6----------	AuxP
+9	republice	NNFS6-----A----	Adv
+10	kolem	RR--2----------	AuxP
+11	250	C=-------------	Atr
+12	tisíc	ClXS2----------	Sb
+13	neopravitelných	AAFP2----1N----	Atr
+14	chladniček	NNFP2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	hodnotě	NNFS6-----A----	Atr
+17	kolem	RR--2----------	AuxP
+18	dvou	ClXP2----------	Atr
+19	a	J^-------------	Coord
+20	půl	ClXS2----------	Atr
+21	miliardy	NNFS2-----A----	Atr
+22	korun	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf930709-022-p5s1
+1	Pro	RR--4----------	AuxP
+2	zákon	NNIS4-----A----	Obj
+3	hlasovalo	VpNS---XR-AA---	Pred
+4	141	C=-------------	Sb
+5	poslanců	NNMP2-----A----	Atr
+6	z	RR--2----------	AuxP
+7	dvousetčlenné	AAFS2----1A----	Atr
+8	sněmovny	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf930709-022-p5s2
+1	K	RR--3----------	AuxP
+2	zákazu	NNIS3-----A----	Obj
+3	je	VB-S---3P-AA---	Pred
+4	ČR	NNFXX-----A---8	Sb
+5	vázána	VsQW---XX-AP---	Pnom
+6	mezinárodními	AAFP7----1A----	Atr
+7	dohodami	NNFP7-----A----	Adv
+8	.	Z:-------------	AuxK
+

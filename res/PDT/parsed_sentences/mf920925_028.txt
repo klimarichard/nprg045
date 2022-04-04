@@ -1,0 +1,542 @@
+mf920925-028-p1s1
+1	Podivný	AAIS1----1A----	Atr
+2	obchod	NNIS1-----A----	ExD
+3	s	RR--7----------	AuxP
+4	levným	AAIS7----1A----	Atr
+5	vozem	NNIS7-----A----	Atr
+
+mf920925-028-p2s1
+1	Je	VB-S---3P-AA---	Pred
+2	možné	AANS1----1A----	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	Auto	NNNS1-----A----	Sb
+6	Delta	NNFS1-----A----	Atr
+7	vozy	NNIP4-----A----	Atr
+8	už	Db-------------	Adv
+9	testuje	VB-S---3P-AA---	Sb
+10	pro	RR--4----------	AuxP
+11	homologaci	NNFS4-----A----	Adv
+12	sama	PLFS1----------	Atv
+13	?	Z:-------------	AuxK
+
+mf920925-028-p2s2
+1	"	Z:-------------	AuxG
+2	Ano	TT-------------	ExD
+3	,	Z:-------------	ExD
+4	ale	J^-------------	Coord
+5	patrně	Dg-------1A----	AuxY
+6	bychom	Vc-P---1-------	AuxV
+7	o	RR--6----------	AuxP
+8	tom	PDZS6----------	Obj
+9	věděli	VpMP---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+mf920925-028-p2s3
+1	Žadatelé	NNMP1-----A----	Sb
+2	o	RR--4----------	AuxP
+3	homologaci	NNFS4-----A----	Atr
+4	s	RR--7----------	AuxP
+5	námi	PP-P7--1-------	Obj
+6	obvykle	Dg-------1A----	Adv
+7	nejprve	Db-------------	Adv
+8	konzultují	VB-P---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	jak	Db-------------	Adv
+11	se	P7-X4----------	Obj
+12	mají	VB-P---3P-AA---	Obj
+13	na	RR--4----------	AuxP
+14	schválení	NNNS4-----A----	Adv
+15	vozu	NNIS2-----A----	Atr
+16	připravit	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+mf920925-028-p2s4
+1	Denně	Dg-------1A----	Adv
+2	jsme	VB-P---1P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	kontaktu	NNIS6-----A----	Adv
+5	i	J^-------------	AuxZ
+6	se	RV--7----------	AuxP
+7	zkušebnami	NNFP7-----A----	Atr
+8	vozů	NNIP2-----A----	Atr
+9	-	Z:-------------	Coord
+10	o	RR--6----------	AuxP
+11	Deltě	NNFS6-----A----	Obj
+12	jsme	VB-P---1P-AA---	AuxV
+13	neslyšeli	VpMP---XR-NA---	Pred
+14	.	Z:-------------	AuxK
+
+mf920925-028-p2s5
+1	Podle	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	,	Z:-------------	AuxX
+4	co	PQ--4----------	Obj
+5	já	PP-S1--1-------	Sb
+6	o	RR--6----------	AuxP
+7	vozu	NNIS6-----A---1	Obj
+8	vím	VB-S---1P-AA---	Atr
+9	,	Z:-------------	AuxX
+10	by	Vc-------------	AuxV
+11	hlavním	AANS7----1A----	Atr
+12	úskalím	NNNS7-----A----	Pnom
+13	homologace	NNFS2-----A----	Atr
+14	byl	VpYS---XR-AA---	Pred
+15	motor	NNIS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+mf920925-028-p2s6A
+1	A	J^-------------	Coord
+2	automobily	NNIP1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	Indie	NNFS2-----A----	Atr
+5	podle	RR--2----------	AuxP
+6	mých	PSXP2-S1-------	Atr
+7	zkušeností	NNFP2-----A----	Adv
+8	neodpovídají	VB-P---3P-NA---	Pred
+9	snad	Db-------------	AuxZ
+10	jediné	AAFS3----1A----	Atr
+11	evropské	AAFS3----1A----	Atr
+12	normě	NNFS3-----A----	Obj
+13	.	Z:-------------	AuxK
+
+mf920925-028-p2s6B
+1	"	Z:-------------	AuxG
+2	Od	RR--2----------	AuxP
+3	října	NNIS2-----A----	Adv
+4	začnou	VB-P---3P-AA---	Pred
+5	platit	Vf--------A----	Obj
+6	přísné	AAIP1----1A----	Atr
+7	limity	NNIP1-----A----	Sb
+8	emisí	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4YP4----------	Obj
+11	lze	VB-S---3P-AA---	Atr
+12	podle	RR--2----------	AuxP
+13	názoru	NNIS2-----A----	Adv
+14	odborníků	NNMP2-----A----	Atr
+15	splnit	Vf--------A----	Sb
+16	jen	TT-------------	Atr
+17	třícestnými	AAIP7----1A----	Atr
+18	řízenými	AAIP7----1A----	Atr
+19	katalyzátory	NNIP7-----A----	Adv
+20	.	Z:-------------	AuxK
+
+mf920925-028-p2s7
+1	Zda	J,-------------	AuxC
+2	je	PPXP4--3-------	Obj
+3	Delta	NNFS1-----A----	Sb
+4	99	C=-------------	Atr
+5	má	VB-S---3P-AA---	Obj
+6	,	Z:-------------	AuxX
+7	jsme	VB-P---1P-AA---	AuxV
+8	nezjistili	VpMP---XR-NA---	Pred
+9	.	Z:-------------	AuxK
+
+mf920925-028-p2s8
+1	Představitel	NNMS1-----A----	Sb
+2	Auto	NNNS1-----A----	Atr
+3	Delty	NNFS2-----A----	Atr
+4	jen	TT-------------	AuxZ
+5	sdělil	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	"	Z:-------------	AuxG
+9	vůz	NNIS1-----A----	Sb
+10	je	VB-S---3P-AA---	Obj
+11	katalyzován	VsYS---XX-AP---	Pnom
+12	"	Z:-------------	AuxG
+13	.	Z:-------------	AuxK
+
+mf920925-028-p2s9
+1	Problémem	NNIS7-----A----	Pnom
+2	může	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	Obj
+4	i	J^-------------	AuxZ
+5	pravostranné	AANS1----1A----	Atr
+6	řízení	NNNS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	které	P4NS4----------	Obj
+9	má	VB-S---3P-AA---	Atr
+10	vystavený	AAIS1----1A----	Atr
+11	exponát	NNIS1-----A----	Sb
+12	Delty	NNFS2-----A----	Atr
+13	99	C=-------------	Atr
+14	.	Z:-------------	AuxK
+
+mf920925-028-p2s10
+1	Prodejci	NNMP1-----A----	Sb
+2	ale	J^-------------	Coord
+3	tvrdí	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	importovat	Vf--------A----	Obj
+7	se	P7-X4----------	AuxR
+8	budou	VB-P---3F-AA---	AuxV
+9	jen	TT-------------	AuxZ
+10	vozy	NNIP1-----A----	Sb
+11	s	RR--7----------	AuxP
+12	volantem	NNIS7-----A----	Atr
+13	vlevo	Db-------------	Atr
+14	.	Z:-------------	AuxK
+
+mf920925-028-p2s11
+1	Servis	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	údajně	Dg-------1A----	Adv
+4	zajištěn	VsYS---XX-AP---	Pnom
+5	smlouvami	NNFP7-----A----	Adv
+6	s	RR--7----------	AuxP
+7	autocentry	NNNP7-----A----	Atr
+8	ve	RV--6----------	AuxP
+9	všech	PLXP6----------	Atr
+10	krajských	AANP6----1A----	Atr
+11	městech	NNNP6-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+mf920925-028-p2s12
+1	Jak	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	ovšem	J^-------------	AuxY
+4	včera	Db-------------	Adv
+5	ověřili	VpMP---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	ani	J^-------------	AuxY
+8	v	RR--6----------	AuxP
+9	největším	AAIS6----3A----	Atr
+10	servisu	NNIS6-----A---1	Adv
+11	Mototechny	NNFS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Ústí	NNNS6-----A----	Atr
+14	nad	RR--7----------	AuxP
+15	Labem	NNNS7-----A----	Atr
+16	,	Z:-------------	AuxX
+17	ani	J^-------------	Coord
+18	v	RR--6----------	AuxP
+19	českobudějovických	AAIP6----1A----	Atr
+20	a	J^-------------	Coord
+21	brněnských	AAIP6----1A----	Atr
+22	servisech	NNIP6-----A----	Adv
+23	o	RR--6----------	AuxP
+24	Auto	NNNS1-----A----	Atr
+25	Deltě	NNFS6-----A----	Obj
+26	nevědí	VB-P---3P-NA--1	Pred
+27	.	Z:-------------	AuxK
+
+mf920925-028-p2s13
+1	Investice	NNFS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	zapsání	NNNS4-----A----	Atr
+4	do	RR--2----------	AuxP
+5	pořadníku	NNIS2-----A----	Atr
+6	tedy	Db-------------	AuxY
+7	nemusí	VB-S---3P-NA---	Pred
+8	být	Vf--------A----	Obj
+9	nejšťastnější	AAFS1----3A----	Pnom
+10	.	Z:-------------	AuxK
+
+mf920925-028-p2s14
+1	Zájemce	NNMS1-----A----	Sb
+2	o	RR--4----------	AuxP
+3	koupi	NNFS4-----A----	Atr
+4	Delty	NNFS2-----A----	Atr
+5	99	C=-------------	Atr
+6	musí	VB-S---3P-AA---	Pred
+7	totiž	Db-------------	AuxY
+8	zaplatit	Vf--------A----	Obj
+9	vinkulační	AAFS4----1A----	Atr
+10	částku	NNFS4-----A----	Obj
+11	50000	C=-------------	Atr
+12	korun	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	k	RR--3----------	AuxP
+15	tomu	PDZS3----------	ExD
+16	ještě	Db-------------	AuxZ
+17	1020	C=-------------	Atr
+18	korun	NNFP2-----A----	Atr
+19	manipulační	AAIS4----1A----	Atr
+20	poplatek	NNIS4-----A----	ExD
+21	.	Z:-------------	AuxK
+
+mf920925-028-p2s15
+1	Zákazník	NNMS1-----A----	Sb
+2	složí	VB-S---3P-AA---	Pred
+3	tento	PDIS4----------	Atr
+4	obnos	NNIS4-----A----	Obj
+5	u	RR--2----------	AuxP
+6	Československé	AAFS2----1A----	Atr
+7	obchodní	AAFS2----1A----	Atr
+8	banky	NNFS2-----A----	Adv
+9	v	RR--6----------	AuxP
+10	Liberci	NNIS6-----A----	AtrAdv
+11	.	Z:-------------	AuxK
+
+mf920925-028-p2s16
+1	Fotokopii	NNFS4-----A----	Obj
+2	potvrzení	NNNS2-----A----	Atr
+3	(	Z:-------------	AuxG
+4	nebo	J^-------------	Coord
+5	útržku	NNIS2-----A----	Atr
+6	složenky	NNFS2-----A----	Atr
+7	)	Z:-------------	AuxG
+8	zašle	VB-S---3P-AA---	Pred
+9	poštou	NNFS7-----A----	Adv
+10	na	RR--4----------	AuxP
+11	adresu	NNFS4-----A----	Adv
+12	společnosti	NNFS2-----A----	Atr
+13	nebo	J^-------------	Coord
+14	zanese	VB-S---3P-AA---	Pred
+15	k	RR--3----------	AuxP
+16	firemnímu	AAIS3----1A----	Atr
+17	stánku	NNIS3-----A----	Adv
+18	na	RR--6----------	AuxP
+19	Motor	NNIS1-----A----	AtrAdv
+20	Show	NNFXX-----A----	AtrAdv
+21	.	Z:-------------	AuxK
+
+mf920925-028-p2s17
+1	Za	RR--4----------	AuxP
+2	to	PDNS4----------	Obj
+3	poštou	NNFS7-----A----	Adv
+4	obdrží	VB-S---3P-AA---	Pred
+5	potvrzení	NNNS4-----A----	Obj
+6	Auto	NNNS1-----A----	Atr
+7	Delty	NNFS2-----A----	Atr
+8	o	RR--6----------	AuxP
+9	zaplacení	NNNS6-----A----	Atr
+10	vinkulace	NNFS2-----A----	Atr
+11	(	Z:-------------	Apos
+12	v	RR--6----------	AuxP
+13	podstatě	NNFS6-----A----	Atr
+14	opce	NNFS2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	přednostní	AAIS4----1A----	Atr
+17	nákup	NNIS4-----A----	Atr
+18	vozu	NNIS2-----A----	Atr
+19	)	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+mf920925-028-p2s18
+1	Formuláře	NNIP1-----A----	Sb
+2	potvrzení	NNNP2-----A----	Atr
+3	jsou	VB-P---3P-AA---	Pred
+4	očíslovány	VsTP---XX-AP---	Pnom
+5	a	J^-------------	Coord
+6	slouží	VB-P---3P-AA---	Pred
+7	zároveň	Db-------------	Adv
+8	jako	J,-------------	AuxY
+9	pořadová	AANP1----1A----	Atr
+10	čísla	NNNP1-----A----	AtvV
+11	kupců	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920925-028-p2s19
+1	Na	RR--4----------	AuxP
+2	formulář	NNIS4-----A----	Adv
+3	však	J^-------------	AuxY
+4	Auto	NNNS1-----A----	Sb
+5	Delta	NNFS1-----A----	Atr
+6	nedává	VB-S---3P-NA---	Pred
+7	žádné	PWNS4----------	Atr
+8	razítko	NNNS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+mf920925-028-p2s20
+1	"	Z:-------------	AuxG
+2	Kolik	C?--1----------	Sb
+3	lidí	NNMP2-----A----	Atr
+4	do	RR--2----------	AuxP
+5	této	PDFS2----------	Atr
+6	chvíle	NNFS2-----A----	Adv
+7	složilo	VpNS---XR-AA---	Obj
+8	na	RR--4----------	AuxP
+9	naše	PSNS4-P1-------	Atr
+10	konto	NNNS4-----A----	Adv
+11	peníze	NNIP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	nevíme	VB-P---1P-NA---	Obj
+14	,	Z:-------------	Coord
+15	to	PDNS4----------	Obj
+16	vědí	VB-P---3P-AA--1	Obj
+17	v	RR--6----------	AuxP
+18	bance	NNFS6-----A----	Adv
+19	,	Z:-------------	AuxX
+20	"	Z:-------------	AuxG
+21	řekl	VpYS---XR-AA---	Pred
+22	nám	PP-P3--1-------	Obj
+23	nejmenovaný	AAMS1----1N----	Atr
+24	představitel	NNMS1-----A----	Sb
+25	Auto	NNNS1-----A----	Atr
+26	Delty	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf920925-028-p2s21
+1	První	CrFP1----------	Atr
+2	Delty	NNFP1-----A----	Sb
+3	99	C=-------------	Atr
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxR
+6	měly	VpTP---XR-AA---	Pred
+7	prodávat	Vf--------A----	Obj
+8	během	RR--2----------	AuxP
+9	prvního	CrNS2----------	Atr
+10	pololetí	NNNS2-----A----	Adv
+11	příštího	AAIS2----1A----	Atr
+12	roku	NNIS2-----A---1	Atr
+13	.	Z:-------------	AuxK
+
+mf920925-028-p2s22
+1	V	RR--6----------	AuxP
+2	podstatě	NNFS6-----A----	Adv
+3	to	PDNS1----------	Sb
+4	znamená	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	lidé	NNMP1-----A---1	Sb
+8	zapisující	AGMP1-----A----	Atr
+9	se	P7-X4----------	Obj
+10	do	RR--2----------	AuxP
+11	pořadníku	NNIS2-----A----	Adv
+12	,	Z:-------------	AuxX
+13	dají	VB-P---3P-AA---	Obj
+14	Auto	NNNS1-----A----	Atr
+15	Deltě	NNFS3-----A----	Obj
+16	na	RR--4----------	AuxP
+17	více	Dg-------2A----	Adv
+18	než	J,-------------	AuxC
+19	půl	NNFS4-----A----	Adv
+20	roku	NNIS2-----A---1	Atr
+21	k	RR--3----------	AuxP
+22	dispozici	NNFS3-----A----	Adv
+23	své	P8YP4---------1	Atr
+24	peníze	NNIP4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+mf920925-028-p2s23A
+1	Někteří	PZMP1----------	Atr
+2	pracovníci	NNMP1-----A----	Sb
+3	společnosti	NNFS2-----A----	Atr
+4	zákazníkům	NNMP3-----A----	Obj
+5	na	RR--6----------	AuxP
+6	Motor	NNIS1-----A----	Atr
+7	Show	NNFXX-----A----	Adv
+8	tvrdí	VB-P---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	uložená	AAFS1----1A----	Atr
+12	záloha	NNFS1-----A----	Sb
+13	"	Z:-------------	AuxG
+14	je	VB-S---3P-AA---	AuxV
+15	pro	RR--4----------	AuxP
+16	případ	NNIS4-----A----	Adv
+17	znehodnocení	NNNS2-----A----	Atr
+18	koruny	NNFS2-----A----	Atr
+19	kryta	VsQW---XX-AP---	Obj
+20	dolary	NNIP7-----A----	Adv
+21	.	Z:-------------	AuxK
+22	"	Z:-------------	AuxG
+
+mf920925-028-p2s23B
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	vzhledem	RF-------------	AuxP
+4	k	RR--3----------	AuxP
+5	současnému	AAIS3----1A----	Atr
+6	právnímu	AAIS3----1A----	Atr
+7	stavu	NNIS3-----A----	Adv
+8	neodůvodnitelné	AANS1----1N----	Pnom
+9	.	Z:-------------	AuxK
+
+mf920925-028-p2s24
+1	Podle	RR--2----------	AuxP
+2	našich	PSXP2-P1-------	Atr
+3	předpisů	NNIP2-----A----	Adv
+4	právnická	AAFS1----1A----	Atr
+5	osoba	NNFS1-----A----	Sb
+6	nemůže	VB-S---3P-NA---	Pred
+7	vlastnit	Vf--------A----	Obj
+8	devizové	AANS4----1A----	Atr
+9	konto	NNNS4-----A----	Obj
+10	či	J^-------------	Coord
+11	devizovou	AAFS4----1A----	Atr
+12	hotovost	NNFS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+mf920925-028-p2s25A
+1	Nám	PP-P3--1-------	Obj
+2	však	J^-------------	Coord
+3	včera	Db-------------	Adv
+4	jiný	AAMS1----1A----	Atr
+5	představitel	NNMS1-----A----	Sb
+6	Auto	NNNS1-----A----	Atr
+7	Delty	NNFS2-----A----	Atr
+8	sdělil	VpYS---XR-AA---	Pred
+9	:	Z:-------------	AuxG
+10	"	Z:-------------	AuxG
+11	O	RR--6----------	AuxP
+12	žádném	PWZS6----------	Atr
+13	dolarovém	AANS6----1A----	Atr
+14	krytí	NNNS6-----A----	Obj
+15	nevím	VB-S---1P-NA---	Obj
+16	,	Z:-------------	Coord
+17	žádné	PWNS1----------	Sb
+18	neexistuje	VB-S---3P-NA---	Obj
+19	.	Z:-------------	AuxK
+20	"	Z:-------------	AuxG
+
+mf920925-028-p2s25B
+1	Uvažujme	Vi-P---1--A----	Pred
+2	situaci	NNFS4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vinkulační	AAFS4----1A----	Atr
+6	částku	NNFS4-----A----	Obj
+7	složí	VB-S---3P-AA---	Atr
+8	deset	Cn-S1----------	Sb
+9	tisíc	ClXS2----------	Atr
+10	zájemců	NNMP2-----A----	Atr
+11	o	RR--4----------	AuxP
+12	levný	AAIS4----1A----	Atr
+13	vůz	NNIS4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920925-028-p2s26
+1	Auto	NNNS1-----A----	Sb
+2	Delta	NNFS1-----A----	Atr
+3	tak	Db-------------	Adv
+4	na	RR--4----------	AuxP
+5	několik	Ca--4----------	Adv
+6	měsíců	NNIP2-----A----	Atr
+7	získá	VB-S---3P-AA---	Pred
+8	k	RR--3----------	AuxP
+9	volnému	AANS3----1A----	Atr
+10	disponování	NNNS3-----A----	Adv
+11	sumu	NNFS4-----A----	Obj
+12	půl	NNFS1-----A----	Atr
+13	miliardy	NNFS2-----A----	Atr
+14	korun	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920925-028-p2s27
+1	Při	RR--6----------	AuxP
+2	současných	AAFP6----1A----	Atr
+3	úrokových	AAFP6----1A----	Atr
+4	mírách	NNFP6-----A----	Adv
+5	může	VB-S---3P-AA---	Pred
+6	tato	PDFS1----------	Atr
+7	částka	NNFS1-----A----	Sb
+8	uložená	AAFS1----1A----	Atr
+9	pouze	Db-------------	AuxZ
+10	do	RR--2----------	AuxP
+11	krátkodobých	AAIP2----1A----	Atr
+12	cenných	AAIP2----1A----	Atr
+13	papírů	NNIP2-----A----	Adv
+14	vynést	Vf--------A----	Obj
+15	čistý	AAIS4----1A----	Atr
+16	zisk	NNIS4-----A----	Obj
+17	přes	RR--4----------	AuxP
+18	11	C=-------------	Atr
+19	miliónů	NNIP2-----A----	Atr
+20	korun	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+

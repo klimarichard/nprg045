@@ -1,0 +1,202 @@
+ln94202-17-p1s1
+1	Oživení	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	znatelnější	AANS1----2A----	Pnom
+4	v	RR--6----------	AuxP
+5	USA	NNIPX-----A----	Adv
+6	než	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	zemích	NNFP6-----A----	ExD
+9	Evropské	AAFS2----1A----	Atr
+10	unie	NNFS2-----A----	Atr
+
+ln94202-17-p2s1
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1994	C=-------------	Atr
+4	dochází	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	mírnému	AANS3----1A----	Atr
+7	oživení	NNNS3-----A----	Obj
+8	světové	AAFS2----1A----	Atr
+9	ekonomiky	NNFS2-----A----	Atr
+10	a	J^-------------	Coord
+11	světového	AAIS2----1A----	Atr
+12	obchodu	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94202-17-p2s2
+1	Toto	PDNS1----------	Atr
+2	oživení	NNNS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	prozatím	Db-------------	Adv
+5	více	Dg-------2A----	Adv
+6	znatelné	AANS1----1A----	Pnom
+7	v	RR--6----------	AuxP
+8	USA	NNIPX-----A----	Adv
+9	a	J^-------------	Coord
+10	některých	PZXP6----------	Atr
+11	východoasijských	AAFP6----1A----	Atr
+12	zemích	NNFP6-----A----	Adv
+13	(	Z:-------------	ExD
+14	s	RR--7----------	AuxP
+15	výjimkou	NNFS7-----A----	AuxP
+16	Japonska	NNNS2-----A----	ExD
+17	)	Z:-------------	ExD
+18	než	J,-------------	AuxC
+19	v	RR--6----------	AuxP
+20	evropských	AAFP6----1A----	Atr
+21	zemích	NNFP6-----A----	ExD
+22	OECD	NNFXX-----A---8	Atr
+23	.	Z:-------------	AuxK
+
+ln94202-17-p2s3
+1	Uvádí	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	to	PDNS1----------	Sb
+4	v	RR--6----------	AuxP
+5	analýze	NNFS6-----A----	Adv
+6	Komerční	AAFS2----1A----	Atr
+7	banky	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kterou	P4FS4----------	Obj
+10	jsme	VB-P---1P-AA---	AuxV
+11	dostali	VpMP---XR-AA---	Atr
+12	minulý	AAIS4----1A----	Atr
+13	týden	NNIS4-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94202-17-p3s1
+1	K	RR--3----------	AuxP
+2	postupnému	AANS3----1A----	Atr
+3	oživení	NNNS3-----A----	Obj
+4	ekonomiky	NNFS2-----A----	Atr
+5	dochází	VB-S---3P-AA---	Pred
+6	též	Db-------------	Adv
+7	v	RR--6----------	AuxP
+8	zemích	NNFP6-----A----	Adv
+9	Evropské	AAFS2----1A----	Atr
+10	unie	NNFS2-----A----	Atr
+11	,	Z:-------------	Apos
+12	hlavního	AAMS2----1A----	Atr
+13	obchodního	AAMS2----1A----	Atr
+14	partnera	NNMS2-----A----	Atr
+15	ČR	NNFXX-----A---8	Atr
+16	.	Z:-------------	AuxK
+
+ln94202-17-p3s2
+1	Poslední	AAFP1----1A----	Atr
+2	informace	NNFP1-----A----	Sb
+3	potvrzují	VB-P---3P-AA---	Pred
+4	nastartování	NNNS4-----A----	Obj
+5	ekonomické	AAFS2----1A----	Atr
+6	aktivity	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	SRN	NNFXX-----A---8	AtrAtr
+9	(	Z:-------------	AuxG
+10	původní	AAIS1----1A----	Atr
+11	odhad	NNIS1-----A----	Sb
+12	růstu	NNIS2-----A----	Atr
+13	HDP	NNIXX-----A---8	Atr
+14	1.0	C=-------------	Atr
+15	%	Z:-------------	Atr
+16	byl	VpYS---XR-AA---	AuxV
+17	zvýšen	VsYS---XX-AP---	Pred
+18	na	RR--4----------	AuxP
+19	1.5	C=-------------	Obj
+20	%	Z:-------------	Atr
+21	)	Z:-------------	AuxG
+22	.	Z:-------------	AuxK
+
+ln94202-17-p4s1
+1	Maďarsko	NNNS1-----A----	Sb
+2	a	J^-------------	Coord
+3	Slovensko	NNNS1-----A----	Sb
+4	očekává	VB-S---3P-AA---	Pred
+5	stagnaci	NNFS4-----A----	Obj
+6	HDP	NNIXX-----A---8	Atr
+7	,	Z:-------------	Coord
+8	Polsko	NNNS1-----A----	ExD
+9	pokračující	AGIS4-----A----	Atr
+10	růst	NNIS4-----A----	ExD
+11	.	Z:-------------	AuxK
+
+ln94202-17-p4s2
+1	Bilance	NNFS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	ostatních	AAFP6----1A----	Atr
+4	transformujících	AGFP6-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	ekonomikách	NNFP6-----A----	Atr
+7	nenasvědčuje	VB-S---3P-NA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	v	RR--6----------	AuxP
+11	roce	NNIS6-----A---1	Adv
+12	1994	C=-------------	Atr
+13	dojde	VB-S---3P-AA---	Obj
+14	k	RR--3----------	AuxP
+15	obnovení	NNNS3-----A----	Obj
+16	jejich	PSXXXXP3-------	Atr
+17	růstu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94202-17-p5s1
+1	Celkově	Dg-------1A----	Adv
+2	lze	VB-S---3P-AA---	Pred
+3	konstatovat	Vf--------A----	Sb
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	vnější	AAFP1----1A----	Atr
+7	podmínky	NNFP1-----A----	Sb
+8	budou	VB-P---3F-AA---	AuxV
+9	působit	Vf--------A----	Obj
+10	na	RR--4----------	AuxP
+11	českou	AAFS4----1A----	Atr
+12	ekonomiku	NNFS4-----A----	Obj
+13	mírně	Dg-------1A----	Adv
+14	příznivěji	Dg-------2A----	Adv
+15	ve	RV--6----------	AuxP
+16	srovnání	NNNS6-----A----	AuxP
+17	s	RR--7----------	AuxP
+18	rokem	NNIS7-----A----	ExD
+19	1993	C=-------------	Atr
+20	.	Z:-------------	AuxK
+
+ln94202-17-p5s2
+1	Nejsou	VB-P---3P-NA---	Pred
+2	pravděpodobné	AAIP1----1A----	Pnom
+3	žádné	PWIP1----------	Atr
+4	vnější	AAIP1----1A----	Atr
+5	šoky	NNIP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	jež	PJIP1----------	Sb
+8	by	Vc-------------	AuxV
+9	negativně	Dg-------1A----	Adv
+10	ovlivnily	VpTP---XR-AA---	Atr
+11	domácí	AAFS4----1A----	Atr
+12	ekonomiku	NNFS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94202-17-p6s1
+1	Přetrvávajícím	AGNS7-----A----	Atr
+2	rizikem	NNNS7-----A----	Pnom
+3	jsou	VB-P---3P-AA---	Pred
+4	pokračující	AGFP1-----A----	Atr
+5	snahy	NNFP1-----A----	Sb
+6	-	Z:-------------	ExD
+7	přes	RR--4----------	AuxP
+8	uzavřená	AANP4----1A----	Atr
+9	jednání	NNNP4-----A----	ExD
+10	GATT	NNFXX-----A---8	Atr
+11	-	Z:-------------	ExD
+12	o	RR--4----------	AuxP
+13	obchodní	AAIS4----1A----	Atr
+14	protekcionismus	NNIS4-----A----	Atr
+15	,	Z:-------------	AuxX
+16	prosazovaný	AAIS4----1A----	Atr
+17	zejména	Db-------------	AuxZ
+18	netarifními	AAIP7----1N----	Atr
+19	nástroji	NNIP7-----A----	Adv
+20	.	Z:-------------	AuxK
+

@@ -1,0 +1,783 @@
+ln94205-6-p1s1
+1	Šedesátá	CrNP1----------	Atr
+2	léta	NNNP1-----A---2	ExD
+3	-	Z:-------------	Coord
+4	výpočetní	AANP1----1A----	Atr
+5	střediska	NNNP1-----A----	ExD
+
+ln94205-6-p2s1A
+1	Z	RR--2----------	AuxP
+2	historie	NNFS2-----A----	ExD
+3	výpočetní	AAFS2----1A----	Atr
+4	techniky	NNFS2-----A----	Atr
+5	(	Z:-------------	ExD
+6	2	C=-------------	ExD
+7	)	Z:-------------	ExD
+
+ln94205-6-p2s1B
+1	Petr	NNMS1-----A----	Atr
+2	Koubský	NNMS1-----A----	ExD
+
+ln94205-6-p2s1C
+1	Počítače	NNIP1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	tradičně	Dg-------1A----	Adv
+4	klasifikují	VB-P---3P-AA---	Pred
+5	podle	RR--2----------	AuxP
+6	generací	NNFP2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94205-6-p2s2
+1	V	RR--6----------	AuxP
+2	první	CrFS6----------	Atr
+3	generaci	NNFS6-----A----	Adv
+4	(	Z:-------------	AuxG
+5	zhruba	Db-------------	AuxZ
+6	do	RR--2----------	AuxP
+7	roku	NNIS2-----A---1	Atr
+8	1956	C=-------------	Atr
+9	)	Z:-------------	AuxG
+10	se	P7-X4----------	AuxR
+11	jako	J,-------------	AuxY
+12	stavební	AAIS1----1A----	Atr
+13	prvek	NNIS1-----A----	Atv
+14	používaly	VpTP---XR-AA---	Pred
+15	elektronky	NNFP1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	které	P4FP1----------	Sb
+18	byly	VpTP---XR-AA---	AuxV
+19	u	RR--2----------	AuxP
+20	druhé	CrFS2----------	Atr
+21	generace	NNFS2-----A----	Adv
+22	nahrazeny	VsTP---XX-AP---	Atr
+23	tranzistory	NNIP7-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94205-6-p2s3
+1	Geniální	AAIS1----1A----	Atr
+2	vynález	NNIS1-----A----	Sb
+3	integrovaného	AAIS2----1A----	Atr
+4	obvodu	NNIS2-----A----	Atr
+5	neboli	J^-------------	Apos
+6	čipu	NNIS2-----A----	Atr
+7	-	Z:-------------	Apos
+8	miniaturní	AAFS2----1A----	Atr
+9	,	Z:-------------	Coord
+10	velmi	Db-------------	Adv
+11	komplexní	AAFS2----1A----	Atr
+12	elektronické	AAFS2----1A----	Atr
+13	součástky	NNFS2-----A----	Atr
+14	-	Z:-------------	AuxG
+15	byl	VpYS---XR-AA---	AuxV
+16	v	RR--6----------	AuxP
+17	konstrukci	NNFS6-----A----	Adv
+18	počítače	NNIS2-----A----	Atr
+19	poprvé	Cv-------------	Adv
+20	využit	VsYS---XX-AP---	Pred
+21	firmou	NNFS7-----A----	Obj
+22	IBM	NNFXX-----A---8	Atr
+23	,	Z:-------------	AuxX
+24	a	J^-------------	AuxY
+25	to	PDNS4----------	AuxY
+26	u	RR--2----------	AuxP
+27	počítačové	AAFS2----1A----	Atr
+28	řady	NNFS2-----A----	Adv
+29	System	NNIS1-----A----	Atr
+30	/	Z:-------------	AuxG
+31	360	C=-------------	Atr
+32	,	Z:-------------	AuxX
+33	uvedené	AAFS2----1A----	Atr
+34	na	RR--4----------	AuxP
+35	trh	NNIS4-----A----	Adv
+36	v	RR--6----------	AuxP
+37	dubnu	NNIS6-----A----	Adv
+38	1964	C=-------------	Atr
+39	.	Z:-------------	AuxK
+
+ln94205-6-p2s4
+1	IBM	NNFXX-----A---8	Sb
+2	System	NNIS1-----A----	Atr
+3	/	Z:-------------	AuxG
+4	360	C=-------------	Atr
+5	zahájila	VpQW---XR-AA---	Pred
+6	třetí	CrFS4----------	Atr
+7	generaci	NNFS4-----A----	Obj
+8	a	J^-------------	Coord
+9	tím	PDZS7----------	ExD
+10	novověk	NNIS4-----A----	ExD
+11	počítačové	AAFS2----1A----	Atr
+12	éry	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94205-6-p3s1
+1	V	RR--6----------	AuxP
+2	60	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	letech	NNNP6-----A----	Adv
+5	byl	VpYS---XR-AA---	Pred
+6	i	J^-------------	AuxZ
+7	ten	PDYS1----------	Atr
+8	nejmodernější	AAIS1----3A----	Atr
+9	počítač	NNIS1-----A----	Sb
+10	velmi	Db-------------	Adv
+11	komplikovaným	AANS7----1A----	Atr
+12	zařízením	NNNS7-----A----	Pnom
+13	,	Z:-------------	AuxX
+14	které	P4NS1----------	Sb
+15	potřebovalo	VpNS---XR-AA---	Atr
+16	ke	RV--3----------	AuxP
+17	svému	P8ZS3----------	Atr
+18	provozu	NNIS3-----A----	Adv
+19	buď	J^-------------	AuxY
+20	samostatnou	AAFS4----1A----	Atr
+21	budovu	NNFS4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	nebo	J^-------------	Coord
+24	alespoň	Db-------------	AuxZ
+25	několik	Ca--4----------	Obj
+26	vyhrazených	AAFP2----1A----	Atr
+27	prostor	NNFP2-----A----	Atr
+28	se	RV--7----------	AuxP
+29	speciálními	AAIP7----1A----	Atr
+30	nároky	NNIP7-----A----	Atr
+31	na	RR--4----------	AuxP
+32	čistotu	NNFS4-----A----	Atr
+33	,	Z:-------------	AuxX
+34	kabeláž	NNFS4-----A----	Atr
+35	,	Z:-------------	AuxX
+36	klimatizaci	NNFS4-----A----	Atr
+37	apod	Db------------8	Coord
+38	.	Z:-------------	AuxG
+
+ln94205-6-p3s2
+1	O	RR--4----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	chod	NNIS4-----A----	Obj
+4	se	P7-X4----------	AuxT
+5	musel	VpYS---XR-AA---	Pred
+6	starat	Vf--------A----	Obj
+7	tým	NNIS1-----A----	Sb
+8	odborníků	NNMP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	většinou	Db-------------	Adv
+11	úzce	Dg-------1A----	Adv
+12	specializovaných	AAMP2----1A----	Atr
+13	na	RR--4----------	AuxP
+14	konkrétní	AAIS4----1A----	Atr
+15	stroj	NNIS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94205-6-p3s3
+1	Náklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	pořízení	NNNS4-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	vyčíslovaly	VpTP---XR-AA---	Pred
+6	pěti	Cn-P7----------	Atr
+7	-	Z:-------------	AuxG
+8	až	J^-------------	Coord
+9	šesticifernou	AAFS7----1A----	Atr
+10	sumou	NNFS7-----A----	Adv
+11	v	RR--6----------	AuxP
+12	dolarech	NNIP6-----A----	Atr
+13	;	Z:-------------	AuxK
+
+ln94205-6-p3s4
+1	a	J^-------------	Coord
+2	to	PDNS4----------	AuxO
+3	měl	VpYS---XR-AA---	Pred
+4	dolar	NNIS1-----A----	Sb
+5	podstatně	Dg-------1A----	Adv
+6	vyšší	AAFS4----2A----	Atr
+7	hodnotu	NNFS4-----A----	Obj
+8	než	J,-------------	AuxC
+9	dnes	Db-------------	ExD
+10	.	Z:-------------	AuxK
+
+ln94205-6-p3s5
+1	Přesto	Dg-------1A----	Coord
+2	poptávka	NNFS1-----A----	Sb
+3	neustále	Dg-------1A----	Adv
+4	rostla	VpQW---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	neboť	J^-------------	Coord
+7	při	RR--6----------	AuxP
+8	správné	AAFS6----1A----	Atr
+9	organizaci	NNFS6-----A----	Adv
+10	práce	NNFS2-----A----	Atr
+11	se	P7-X4----------	AuxT
+12	investice	NNFS1-----A----	Sb
+13	do	RR--2----------	AuxP
+14	výpočetní	AAFS2----1A----	Atr
+15	techniky	NNFS2-----A----	Atr
+16	již	Db-------------	AuxZ
+17	tehdy	Db-------------	Adv
+18	byla	VpQW---XR-AA---	Pred
+19	schopna	ACQW------A----	Pnom
+20	velmi	Db-------------	Adv
+21	rychle	Dg-------1A----	Adv
+22	vrátit	Vf--------A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94205-6-p3s6
+1	Trhu	NNIS3-----A----	Obj
+2	dominovala	VpQW---XR-AA---	Pred
+3	IBM	NNFXX-----A---8	Sb
+4	,	Z:-------------	Coord
+5	k	RR--3----------	AuxP
+6	dalším	AAMP3----1A----	Atr
+7	výrazným	AAMP3----1A----	Atr
+8	výrobcům	NNMP3-----A----	Obj
+9	patřily	VpTP---XR-AA---	Pred
+10	společnosti	NNFP1-----A----	Sb
+11	CDC	NNIXX-----A----	Atr
+12	,	Z:-------------	Coord
+13	RCA	NNFXX-----A----	Atr
+14	,	Z:-------------	Coord
+15	o	RR--4----------	AuxP
+16	něco	PZ--4----------	Adv
+17	později	Dg-------2A----	ExD
+18	Burroughs	NNMS1-----A----	ExD
+19	,	Z:-------------	AuxX
+20	Amdahl	NNIS1-----A----	ExD
+21	a	J^-------------	Coord
+22	Cray	AAXXX----1A----	Atr
+23	Research	NNISX-----A----	ExD
+24	.	Z:-------------	AuxK
+
+ln94205-6-p3s7
+1	IBM	NNFXX-----A---8	Sb
+2	vyráběla	VpQW---XR-AA---	Pred
+3	od	RR--2----------	AuxP
+4	roku	NNIS2-----A---1	Adv
+5	1971	C=-------------	Atr
+6	řadu	NNFS4-----A----	Obj
+7	System	NNIS1-----A----	Atr
+8	/	Z:-------------	AuxG
+9	370	C=-------------	Atr
+10	,	Z:-------------	Coord
+11	od	RR--2----------	AuxP
+12	roku	NNIS2-----A---1	ExD
+13	1980	C=-------------	Atr
+14	pak	Db-------------	ExD
+15	řadu	NNFS4-----A----	ExD
+16	43	C=-------------	Atr
+17	;	Z:-------------	AuxK
+
+ln94205-6-p3s8
+1	vesměs	Db-------------	Adv
+2	jde	VB-S---3P-AA---	Pred
+3	o	RR--4----------	AuxP
+4	modernizaci	NNFS4-----A----	Obj
+5	původní	AAFS2----1A----	Atr
+6	řady	NNFS2-----A----	Atr
+7	360	C=-------------	Atr
+8	.	Z:-------------	AuxK
+
+ln94205-6-p4s1
+1	Vysoké	AAFS3----1A----	Atr
+2	ceně	NNFS3-----A----	Obj
+3	a	J^-------------	Coord
+4	specifickým	AAIP3----1A----	Atr
+5	provozním	AAIP3----1A----	Atr
+6	nárokům	NNIP3-----A----	Obj
+7	počítačů	NNIP2-----A----	Atr
+8	odpovídala	VpQW---XR-AA---	Pred
+9	organizace	NNFS1-----A----	Sb
+10	práce	NNFS2-----A----	Atr
+11	kolem	RR--2----------	AuxP
+12	nich	P5XP2--3-------	AtrAtr
+13	;	Z:-------------	AuxK
+
+ln94205-6-p4s2
+1	jejím	PSZS7FS3-------	Atr
+2	typickým	AAIS7----1A----	Atr
+3	výrazem	NNIS7-----A----	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	výpočetní	AANS1----1A----	Atr
+6	středisko	NNNS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+ln94205-6-p4s3
+1	Srdcem	NNNS7-----A----	Pnom
+2	střediska	NNNS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	sál	NNIS1-----A----	Sb
+5	počítače	NNIS2-----A----	Atr
+6	-	Z:-------------	Apos
+7	místnost	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	v	RR--6----------	AuxP
+10	níž	P9FS6----------	Adv
+11	se	P7-X4----------	AuxT
+12	nachází	VB-S---3P-AA---	Atr
+13	vlastní	AAIS1----1A----	Atr
+14	stroj	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94205-6-p4s4
+1	Do	RR--2----------	AuxP
+2	sálu	NNIS2-----A----	Adv
+3	mají	VB-P---3P-AA---	Pred
+4	přístup	NNIS4-----A----	Obj
+5	jenom	TT-------------	AuxZ
+6	pracovníci	NNMP1-----A----	Sb
+7	spojení	AAMP1----1A----	Atr
+8	s	RR--7----------	AuxP
+9	bezprostřední	AAFS7----1A----	Atr
+10	obsluhou	NNFS7-----A----	Obj
+11	počítače	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94205-6-p4s5
+1	Ve	RV--6----------	AuxP
+2	středisku	NNNS6-----A----	Adv
+3	pracuje	VB-S---3P-AA---	Pred
+4	obvykle	Dg-------1A----	Adv
+5	několik	Ca--1----------	Sb
+6	desítek	NNFP2-----A----	Atr
+7	lidí	NNMP2-----A----	Atr
+8	,	Z:-------------	Apos
+9	specialistů	NNMP2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	různé	AAIP4----1A----	Atr
+12	aspekty	NNIP4-----A----	Atr
+13	činnosti	NNFS2-----A----	Atr
+14	počítače	NNIS2-----A----	Atr
+15	:	Z:-------------	Apos
+16	operátoři	NNMP1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	technici	NNMP1-----A----	Sb
+19	počítače	NNIS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	technici	NNMP1-----A----	Sb
+22	periférií	NNFP2-----A----	Atr
+23	,	Z:-------------	Coord
+24	systémoví	AAMP1----1A----	Atr
+25	a	J^-------------	Coord
+26	aplikační	AAMP1----1A----	Atr
+27	programátoři	NNMP1-----A----	Sb
+28	.	Z:-------------	AuxK
+29	.	Z:-------------	AuxK
+30	.	Z:-------------	AuxK
+
+ln94205-6-p4s6
+1	Vlastní	AAMP1----1A----	Atr
+2	uživatelé	NNMP1-----A----	Sb
+3	počítače	NNIS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	na	RR--6----------	AuxP
+7	něm	P5ZS6--3-------	Adv
+8	chtějí	VB-P---3P-AA---	Atr
+9	řešit	Vf--------A----	Obj
+10	své	P8FP4---------1	Atr
+11	konkrétní	AAFP4----1A----	Atr
+12	úlohy	NNFP4-----A----	Obj
+13	-	Z:-------------	AuxG
+14	například	Db-------------	Apos
+15	výpočet	NNIS4-----A----	Obj
+16	mezd	NNFP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	vědecké	AAIP4----1A----	Atr
+19	výpočty	NNIP4-----A----	Obj
+20	apod	Db------------8	Coord
+21	.	Z:-------------	AuxG
+22	-	Z:-------------	AuxG
+23	komunikují	VB-P---3P-AA---	Pred
+24	pouze	Db-------------	AuxZ
+25	s	RR--7----------	AuxP
+26	obsluhou	NNFS7-----A----	Obj
+27	stroje	NNIS2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	a	J^-------------	AuxY
+30	to	PDNS4----------	AuxY
+31	přesně	Dg-------1A----	Adv
+32	vymezeným	AAIS7----1A----	Atr
+33	způsobem	NNIS7-----A----	Adv
+34	.	Z:-------------	AuxK
+
+ln94205-6-p4s7
+1	Samotný	AAIS4----1A----	Atr
+2	počítač	NNIS4-----A----	Obj
+3	většina	NNFS1-----A----	Sb
+4	uživatelů	NNMP2-----A----	Atr
+5	vůbec	Db-------------	AuxZ
+6	nikdy	Db-------------	Adv
+7	nespatří	VB-S---3P-NA---	Pred
+8	.	Z:-------------	AuxK
+
+ln94205-6-p5s1
+1	Všimněte	Vi-P---2--A----	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jsem	VB-S---1P-AA---	AuxV
+6	zničehonic	Db-------------	Adv
+7	přešel	VpYS---XR-AA---	Obj
+8	do	RR--2----------	AuxP
+9	mluvnického	AAIS2----1A----	Atr
+10	času	NNIS2-----A----	Adv
+11	přítomného	AAIS2----1A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94205-6-p5s2
+1	To	PDNS1----------	Sb
+2	má	VB-S---3P-AA---	Pred
+3	svůj	P8IS4----------	Atr
+4	důvod	NNIS4-----A----	Obj
+5	;	Z:-------------	AuxK
+
+ln94205-6-p5s3
+1	výpočetní	AANP1----1A----	Atr
+2	střediska	NNNP1-----A----	Sb
+3	klasického	AAIS2----1A----	Atr
+4	typu	NNIS2-----A----	Atr
+5	dosud	Db-------------	Adv
+6	existují	VB-P---3P-AA---	Pred
+7	a	J^-------------	Coord
+8	dlouho	Dg-------1A----	Adv
+9	ještě	Db-------------	Adv
+10	existovat	Vf--------A----	Pred
+11	budou	VB-P---3F-AA---	AuxV
+12	.	Z:-------------	AuxK
+
+ln94205-6-p5s4
+1	Zatímco	J,-------------	AuxC
+2	v	RR--6----------	AuxP
+3	60	C=-------------	Atr
+4	.	Z:-------------	AuxG
+5	a	J^-------------	Coord
+6	70	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	letech	NNNP6-----A----	Adv
+9	neexistovaly	VpTP---XR-NA---	Adv
+10	počítače	NNIP1-----A----	Sb
+11	mimo	RR--4----------	AuxP
+12	výpočetní	AANP4----1A----	Atr
+13	střediska	NNNP4-----A----	Adv
+14	,	Z:-------------	AuxX
+15	dnes	Db-------------	Adv
+16	jsou	VB-P---3P-AA---	Pred
+17	tato	PDNP1----------	Atr
+18	střediska	NNNP1-----A----	Sb
+19	poměrně	Dg-------1A----	Adv
+20	ojedinělá	AANP1----1A----	Pnom
+21	.	Z:-------------	AuxK
+
+ln94205-6-p5s5
+1	U	RR--2----------	AuxP
+2	nás	PP-P2--1-------	Adv
+3	jsou	VB-P---3P-AA---	AuxV
+4	často	Dg-------1A----	Adv
+5	považována	VsQW---XX-AP---	Pred
+6	za	RR--4----------	AuxP
+7	přežitek	NNIS4-----A----	Obj
+8	socialismu	NNIS2-----A----	Atr
+9	,	Z:-------------	Coord
+10	což	PE--1----------	Sb
+11	je	VB-S---3P-AA---	Pred
+12	absolutní	AAIS1----1A----	Atr
+13	nesmysl	NNIS1-----A----	Pnom
+14	.	Z:-------------	AuxK
+
+ln94205-6-p5s6
+1	Pro	RR--4----------	AuxP
+2	některé	PZYP4----------	Atr
+3	druhy	NNIP4-----A----	Adv
+4	dat	NNNP2-----A----	Atr
+5	a	J^-------------	Coord
+6	způsoby	NNIP4-----A----	Adv
+7	jejich	PSXXXXP3-------	Atr
+8	zpracování	NNNS2-----A----	Atr
+9	jsou	VB-P---3P-AA---	Pred
+10	střediskové	AAIP1----1A----	Atr
+11	počítače	NNIP1-----A----	Sb
+12	(	Z:-------------	ExD
+13	angl	Db------------8	ExD
+14	.	Z:-------------	AuxG
+15	mainframe	NNIS1-----A----	ExD
+16	)	Z:-------------	ExD
+17	-	Z:-------------	AuxG
+18	a	J^-------------	Coord
+19	celá	AAFS1----1A----	Atr
+20	organizace	NNFS1-----A----	Sb
+21	práce	NNFS2-----A----	Atr
+22	kolem	RR--2----------	AuxP
+23	nich	P5XP2--3-------	AtrAtr
+24	-	Z:-------------	AuxG
+25	dosud	Db-------------	Adv
+26	tím	PDZS7----------	Atr
+27	nejvhodnějším	AAIS7----3A----	Atr
+28	známým	AAIS7----1A----	Atr
+29	prostředkem	NNIS7-----A----	Pnom
+30	.	Z:-------------	AuxK
+
+ln94205-6-p6s1
+1	V	RR--6----------	AuxP
+2	mnoha	Ca--6----------	Atr
+3	jiných	AAIP6----1A----	Atr
+4	případech	NNIP6-----A----	Adv
+5	tomu	PDZS3----------	Sb
+6	tak	Db-------------	Adv
+7	ovšem	J^-------------	Coord
+8	není	VB-S---3P-NA---	Pred
+9	.	Z:-------------	AuxK
+
+ln94205-6-p6s2
+1	Kromě	RR--2----------	AuxP
+2	počítače	NNIS2-----A----	Adv
+3	ve	RV--6----------	AuxP
+4	středisku	NNNS6-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	trh	NNIS1-----A----	Sb
+7	dožadoval	VpYS---XR-AA---	Pred
+8	počítače	NNIS2-----A----	Obj
+9	pro	RR--4----------	AuxP
+10	jednoho	ClMS4----------	Atr
+11	člověka	NNMS4-----A----	Atr
+12	-	Z:-------------	Apos
+13	levnějšího	AAIS2----2A----	Atr
+14	stroje	NNIS2-----A----	Obj
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	by	Vc-------------	AuxV
+18	byl	VpYS---XR-AA---	Atr
+19	dost	Dg-------1A----	Adv
+20	malý	AAIS1----1A----	Pnom
+21	a	J^-------------	Coord
+22	dost	Dg-------1A----	Adv
+23	jednoduchý	AAIS1----1A----	Pnom
+24	,	Z:-------------	AuxX
+25	aby	J,-------------	AuxC
+26	jej	PPZS4--3------2	Obj
+27	mohl	VpYS---XR-AA---	Adv
+28	obsluhovat	Vf--------A----	Obj
+29	jediný	AAMS1----1A----	Atr
+30	člověk	NNMS1-----A----	Sb
+31	a	J^-------------	Coord
+32	navíc	Db-------------	ExD
+33	nespecialista	NNMS1-----N----	ExD
+34	.	Z:-------------	AuxK
+
+ln94205-6-p6s3
+1	Částečné	AANS4----1A----	Atr
+2	řešení	NNNS4-----A----	Obj
+3	nabídly	VpTP---XR-AA--1	Pred
+4	koncem	NNIS7-----A----	AuxP
+5	60	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	let	NNNP2-----A----	Adv
+8	společnosti	NNFP1-----A----	Sb
+9	DEC	NNFXX-----A----	Atr
+10	a	J^-------------	Coord
+11	Hewlett	NNMS1-----A----	Atr
+12	-	Z:-------------	Coord
+13	Packard	NNIS1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4FP1----------	Sb
+16	zavedly	VpTP---XR-AA---	Atr
+17	novou	AAFS4----1A----	Atr
+18	kategorii	NNFS4-----A----	Obj
+19	tzv	AAXXX----1A---8	Atr
+20	.	Z:-------------	AuxG
+21	minipočítačů	NNIP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94205-6-p6s4
+1	K	RR--3----------	AuxP
+2	jejich	PSXXXXP3-------	Atr
+3	obsluze	NNFS3-----A----	Adv
+4	skutečně	Dg-------1A----	Adv
+5	stačil	VpYS---XR-AA---	Pred
+6	jediný	AAMS1----1A----	Atr
+7	člověk	NNMS1-----A----	Sb
+8	;	Z:-------------	AuxK
+
+ln94205-6-p6s5
+1	jeho	PSXXXZS3-------	Atr
+2	kvalifikace	NNFS1-----A----	Sb
+3	však	J^-------------	Coord
+4	nadále	Db-------------	Adv
+5	musela	VpQW---XR-AA---	Pred
+6	být	Vf--------A----	Obj
+7	poměrně	Dg-------1A----	Adv
+8	značná	AAFS1----1A----	Pnom
+9	,	Z:-------------	Coord
+10	počítač	NNIS1-----A----	Sb
+11	byl	VpYS---XR-AA---	AuxV
+12	stále	Db-------------	Adv
+13	tvořen	VsYS---XX-AP---	Pred
+14	několika	Ca--7----------	Atr
+15	rozměrnými	AAFP7----1A----	Atr
+16	plechovými	AAFP7----1A----	Atr
+17	skříněmi	NNFP7-----A----	Obj
+18	a	J^-------------	Coord
+19	jeho	PSXXXZS3-------	Atr
+20	cena	NNFS1-----A----	Sb
+21	byla	VpQW---XR-AA---	Pred
+22	nejméně	Dg-------3A----	AuxZ
+23	desetinásobkem	NNIS7-----A----	Pnom
+24	ceny	NNFS2-----A----	Atr
+25	kvalitního	AANS2----1A----	Atr
+26	osobního	AANS2----1A----	Atr
+27	auta	NNNS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94205-6-p6s6
+1	Pro	RR--4----------	AuxP
+2	soukromou	AAFS4----1A----	Atr
+3	osobu	NNFS4-----A----	ExD
+4	nemyslitelná	AAFS1----1N----	Atr
+5	věc	NNFS1-----A----	ExD
+6	.	Z:-------------	AuxK
+
+ln94205-6-p6s7
+1	Podstatným	AAIS7----1A----	Atr
+2	přínosem	NNIS7-----A----	Pnom
+3	minipočítačů	NNIP2-----A----	Atr
+4	bylo	VpNS---XR-AA---	Pred
+5	ovšem	TT-------------	Coord
+6	to	PDNS1----------	Sb
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	zavedly	VpTP---XR-AA---	Atr
+10	do	RR--2----------	AuxP
+11	všeobecného	AANS2----1A----	Atr
+12	používání	NNNS2-----A----	Adv
+13	obrazovkový	AAIS4----1A----	Atr
+14	terminál	NNIS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	tedy	Db-------------	Apos
+17	obrazovku	NNFS4-----A----	Obj
+18	spojenou	AAFS4----1A----	Atr
+19	s	RR--7----------	AuxP
+20	klávesnicí	NNFS7-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94205-6-p6s8
+1	Hovořím	VB-S---1P-AA---	Pred
+2	hlavně	Dg-------1A----	AuxZ
+3	o	RR--6----------	AuxP
+4	dění	NNNS6-----A----	Obj
+5	v	RR--6----------	AuxP
+6	USA	NNIPX-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4IP1----------	Sb
+9	byly	VpTP---XR-AA---	Atr
+10	a	J^-------------	Coord
+11	jsou	VB-P---3P-AA---	Atr
+12	centrem	NNNS7-----A----	Pnom
+13	počítačového	AAIS2----1A----	Atr
+14	světa	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94205-6-p6s9
+1	U	RR--2----------	AuxP
+2	nás	PP-P2--1-------	Adv
+3	na	RR--6----------	AuxP
+4	Východě	NNIS6-----A----	Adv
+5	procházel	VpYS---XR-AA---	Pred
+6	vývoj	NNIS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	podstatě	NNFS6-----A----	Adv
+9	shodnými	AANP7----1A----	Atr
+10	stadii	NNNP7-----A----	Adv
+11	,	Z:-------------	AuxX
+12	ovšem	J^-------------	Coord
+13	s	RR--7----------	AuxP
+14	několikaletým	AANS7----1A----	Atr
+15	a	J^-------------	Coord
+16	stále	Db-------------	Adv
+17	rostoucím	AGNS7-----A----	Atr
+18	zpožděním	NNNS7-----A----	ExD
+19	.	Z:-------------	AuxK
+
+ln94205-6-p6s10
+1	V	RR--6----------	AuxP
+2	60	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	a	J^-------------	Coord
+5	70	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	letech	NNNP6-----A----	Adv
+8	u	RR--2----------	AuxP
+9	nás	PP-P2--1-------	Adv
+10	vzniklo	VpNS---XR-AA--1	Pred
+11	postupně	Dg-------1A----	Adv
+12	několik	Ca--1----------	Sb
+13	výrobních	AAIP2----1A----	Atr
+14	závodů	NNIP2-----A----	Atr
+15	zaměřených	AAIP2----1A----	Atr
+16	na	RR--4----------	AuxP
+17	produkci	NNFS4-----A----	Obj
+18	systémů	NNIP2-----A----	Atr
+19	JSEP	NNIXX-----A---8	Atr
+20	a	J^-------------	Coord
+21	SMEP	NNIXX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94205-6-p6s11
+1	Šlo	VpNS---XR-AA---	Pred
+2	o	RR--4----------	AuxP
+3	počítačové	AAFP4----1A----	Atr
+4	řady	NNFP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	jejichž	P1XXXXP3-------	Atr
+7	výroba	NNFS1-----A----	Sb
+8	jednotlivých	AAIP2----1A----	Atr
+9	členů	NNIP2-----A----	Atr
+10	-	Z:-------------	AuxG
+11	a	J^-------------	Coord
+12	často	Dg-------1A----	ExD
+13	i	J^-------------	AuxZ
+14	jednotlivých	AAFP2----1A----	Atr
+15	součástí	NNFP2-----A----	ExD
+16	-	Z:-------------	AuxG
+17	byla	VpQW---XR-AA---	AuxV
+18	rozdělena	VsQW---XX-AP---	Atr
+19	mezi	RR--4----------	AuxP
+20	země	NNFP4-----A----	Adv
+21	RVHP	NNFXX-----A---8	Atr
+22	podle	RR--2----------	AuxP
+23	lokálních	AAFP2----1A----	Atr
+24	technologických	AAFP2----1A----	Atr
+25	možností	NNFP2-----A----	Adv
+26	.	Z:-------------	AuxK
+
+ln94205-6-p6s12
+1	Konstrukčně	Dg-------1A----	Adv
+2	šlo	VpNS---XR-AA---	Pred
+3	o	RR--4----------	AuxP
+4	repliky	NNFP4-----A----	Obj
+5	počítačů	NNIP2-----A----	Atr
+6	IBM	NNFXX-----A---8	Atr
+7	360	C=-------------	Atr
+8	,	Z:-------------	ExD
+9	později	Dg-------2A----	ExD
+10	370	C=-------------	ExD
+11	a	J^-------------	Coord
+12	4341	C=-------------	ExD
+13	(	Z:-------------	Apos
+14	řada	NNFS1-----A----	ExD
+15	JSEP	NNIXX-----A---8	Atr
+16	-	Z:-------------	AuxG
+17	mainframe	NNIS1-----A----	Atr
+18	)	Z:-------------	AuxG
+19	a	J^-------------	Coord
+20	počítačů	NNIP2-----A----	Atr
+21	HP	NNIXX-----A----	Atr
+22	1000	C=-------------	Atr
+23	(	Z:-------------	ExD
+24	později	Dg-------2A----	ExD
+25	i	J^-------------	AuxZ
+26	jiných	AAIP2----1A----	Atr
+27	strojů	NNIP2-----A----	ExD
+28	-	Z:-------------	AuxG
+29	řada	NNFS1-----A----	ExD
+30	SMEP	NNIXX-----A----	Atr
+31	,	Z:-------------	Coord
+32	minipočítače	NNIP1-----A----	ExD
+33	)	Z:-------------	ExD
+34	.	Z:-------------	AuxK
+

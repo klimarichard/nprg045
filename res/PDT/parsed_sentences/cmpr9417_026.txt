@@ -1,0 +1,207 @@
+cmpr9417-026-p2s1
+1	OSKAR	NNMS1-----A----	ExD
+
+cmpr9417-026-p3s1
+1	Za	RR--4----------	AuxP
+2	mimořádný	AAIS4----1A----	Atr
+3	výkon	NNIS4-----A----	ExD
+
+cmpr9417-026-p4s1
+1	Firmě	NNFS3-----A----	ExD
+2	Fortex	NNIS1-----A----	Atr
+3	za	RR--4----------	AuxP
+4	výrobu	NNFS4-----A----	ExD
+5	a	J^-------------	Coord
+6	dodávky	NNFP4-----A----	ExD
+7	kontejnerových	AAIP2----1A----	Atr
+8	vozíků	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	přepravních	AAFP2----1A----	Atr
+11	palet	NNFP2-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	přepravu	NNFS4-----A----	Atr
+14	různého	AANS2----1A----	Atr
+15	zboží	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9417-026-p4s2
+1	Vozíky	NNIP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	z	RR--2----------	AuxP
+4	recyklovatelného	AAIS2----1A----	Atr
+5	materiálu	NNIS2-----A----	Adv
+6	.	Z:-------------	AuxK
+
+cmpr9417-026-p4s3
+1	Design	NNIS1-----A----	Sb
+2	i	J^-------------	Coord
+3	povrchová	AAFS1----1A----	Atr
+4	úprava	NNFS1-----A----	Sb
+5	výrobků	NNIP2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	kvalitní	AAFS1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	takže	J,-------------	AuxC
+10	většina	NNFS1-----A----	Sb
+11	produkce	NNFS2-----A----	Atr
+12	směřuje	VB-S---3P-AA---	Adv
+13	na	RR--4----------	AuxP
+14	export	NNIS4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9417-026-p5s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Fortex	NNIS1-----A----	ExD
+4	,	Z:-------------	AuxX
+5	Jílová	AAFS1----1A----	Atr
+6	1	C=-------------	Atr
+7	,	Z:-------------	AuxX
+8	787	C=-------------	Atr
+9	92	C=-------------	Atr
+10	Šumperk	NNIS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	tel	NNIXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	:	Z:-------------	AuxG
+15	(	Z:-------------	AuxG
+16	0649	C=-------------	Atr
+17	)	Z:-------------	AuxG
+18	49	C=-------------	Atr
+19	93	C=-------------	Atr
+20	-	Z:-------------	AuxG
+21	8	C=-------------	Atr
+22	,	Z:-------------	AuxX
+23	FAX	NNIS1-----A----	Atr
+24	:	Z:-------------	AuxG
+25	(	Z:-------------	AuxG
+26	0649	C=-------------	Atr
+27	)	Z:-------------	AuxG
+28	50	C=-------------	Atr
+29	70	C=-------------	Atr
+30	.	Z:-------------	AuxK
+
+cmpr9417-026-p6s1
+1	OSKAR	NNMS1-----A----	ExD
+
+cmpr9417-026-p7s1
+1	Za	RR--4----------	AuxP
+2	mimořádný	AAIS4----1A----	Atr
+3	výkon	NNIS4-----A----	ExD
+
+cmpr9417-026-p8s1
+1	Firmě	NNFS3-----A----	ExD
+2	DBV	AAXXX----1A---8	Atr
+3	Cycles	NNIPX-----A----	Atr
+4	za	RR--4----------	AuxP
+5	výrobu	NNFS4-----A----	ExD
+6	a	J^-------------	Coord
+7	prodej	NNIS4-----A----	ExD
+8	velké	AAFS2----1A----	Atr
+9	škály	NNFS2-----A----	Atr
+10	jízdních	AANP2----1A----	Atr
+11	kol	NNNP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	hlavně	Dg-------1A----	AuxZ
+14	dětských	AANP2----1A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9417-026-p8s2
+1	Po	RR--6----------	AuxP
+2	třech	ClXP6----------	Atr
+3	letech	NNNP6-----A----	Adv
+4	existence	NNFS2-----A----	Atr
+5	firmy	NNFS2-----A----	Atr
+6	jde	VB-S---3P-AA---	Pred
+7	80	C=-------------	Sb
+8	%	Z:-------------	Atr
+9	objemu	NNIS2-----A----	Atr
+10	výroby	NNFS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	export	NNIS4-----A----	Adv
+13	a	J^-------------	Coord
+14	zájem	NNIS1-----A----	Sb
+15	odběratelů	NNMP2-----A----	Atr
+16	stále	Dg-------1A----	Adv
+17	vysoce	Db-------------	Adv
+18	převyšuje	VB-S---3P-AA---	Pred
+19	firemní	AAFP4----1A----	Atr
+20	možnosti	NNFP4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9417-026-p8s3
+1	Firma	NNFS1-----A----	Sb
+2	dokáže	VB-S---3P-AA---	Pred
+3	dokonale	Dg-------1A----	Adv
+4	vystihnout	Vf--------A----	Obj
+5	požadavky	NNIP4-----A----	Obj
+6	uživatelů	NNMP2-----A----	Atr
+7	a	J^-------------	Coord
+8	plně	Dg-------1A----	Adv
+9	se	P7-X4----------	Obj
+10	jim	PPXP3--3-------	Obj
+11	přizpůsobuje	VB-S---3P-AA---	Pred
+12	.	Z:-------------	AuxK
+
+cmpr9417-026-p9s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	DBV	AAXXX----1A---8	ExD
+4	Cycles	NNIPX-----A----	Atr
+5	,	Z:-------------	AuxX
+6	s	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	r	NNNS7-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	o	AANS7----1A---8	Atr
+11	.	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	Šumavská	AAFS1----1A----	Atr
+14	2	C=-------------	Atr
+15	,	Z:-------------	AuxX
+16	787	C=-------------	Atr
+17	01	C=-------------	Atr
+18	Šumperk	NNIS1-----A----	Atr
+19	,	Z:-------------	AuxX
+20	tel	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	:	Z:-------------	AuxG
+23	(	Z:-------------	AuxG
+24	0649	C=-------------	Atr
+25	)	Z:-------------	AuxG
+26	64	C=-------------	Atr
+27	13	C=-------------	Atr
+28	,	Z:-------------	AuxX
+29	FAX	NNIS1-----A----	Atr
+30	:	Z:-------------	AuxG
+31	(	Z:-------------	AuxG
+32	0649	C=-------------	Atr
+33	)	Z:-------------	AuxG
+34	64	C=-------------	Atr
+35	11	C=-------------	Atr
+
+cmpr9417-026-p10s1
+1	OSKAR	NNMS1-----A----	ExD
+
+cmpr9417-026-p11s1
+1	Za	RR--4----------	AuxP
+2	mimořádný	AAIS4----1A----	Atr
+3	výkon	NNIS4-----A----	ExD
+
+cmpr9417-026-p12s1
+1	Seliku	NNNS3-----A----	ExD
+2	za	RR--4----------	AuxP
+3	dodávky	NNFP4-----A----	Atr
+4	těstovin	NNFP2-----A----	Atr
+5	vysoké	AAFS2----1A----	Atr
+6	kvality	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	jsou	VB-P---3P-AA---	AuxV
+10	vyráběny	VsTP---XX-AP---	Atr
+11	na	RR--6----------	AuxP
+12	nejmodernějším	AANS6----3A----	Atr
+13	italském	AANS6----1A----	Atr
+14	zařízení	NNNS6-----A----	Adv
+15	.	Z:-------------	AuxK
+

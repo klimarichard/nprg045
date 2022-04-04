@@ -1,0 +1,141 @@
+ln95047-075-p1s1
+1	Willy	NNMS1-----A----	Atr
+2	Claes	NNMS1-----A----	ExD
+3	zapojen	VsYS---XX-AP---	ExD
+4	do	RR--2----------	AuxP
+5	korupční	AAFS2----1A----	Atr
+6	aféry	NNFS2-----A----	ExD
+
+ln95047-075-p2s1A
+1	Brusel	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-075-p2s1B
+1	Své	P8NS4---------1	Atr
+2	spojení	NNNS4-----A----	Obj
+3	s	RR--7----------	AuxP
+4	korupční	AAFS7----1A----	Atr
+5	aférou	NNFS7-----A----	Atr
+6	,	Z:-------------	AuxX
+7	týkající	AGFS7-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	nákupu	NNIS2-----A----	Obj
+10	vrtulníků	NNIP2-----A----	Atr
+11	od	RR--2----------	AuxP
+12	italské	AAFS2----1A----	Atr
+13	firmy	NNFS2-----A----	Atr
+14	Agusta	NNFS1-----A----	Atr
+15	pro	RR--4----------	AuxP
+16	belgickou	AAFS4----1A----	Atr
+17	armádu	NNFS4-----A----	Atr
+18	v	RR--6----------	AuxP
+19	roce	NNIS6-----A---1	Atr
+20	1988	C=-------------	Atr
+21	,	Z:-------------	AuxX
+22	poprvé	Cv-------------	Adv
+23	přiznal	VpYS---XR-AA---	Pred
+24	generální	AAMS1----1A----	Atr
+25	tajemník	NNMS1-----A----	Atr
+26	NATO	NNNXX-----A---8	Atr
+27	Willy	NNMS1-----A----	Atr
+28	Claes	NNMS1-----A----	Sb
+29	.	Z:-------------	AuxK
+
+ln95047-075-p2s2
+1	Dosud	Db-------------	Adv
+2	stále	Db-------------	Adv
+3	tvrdil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	s	RR--7----------	AuxP
+7	aférou	NNFS7-----A----	Obj
+8	nemá	VB-S---3P-NA---	Obj
+9	nic	PW--4----------	Obj
+10	společného	AANS2----1A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95047-075-p2s3
+1	Někdejší	AAMS1----1A----	Atr
+2	belgický	AAMS1----1A----	Atr
+3	ministr	NNMS1-----A----	Atr
+4	hospodářství	NNNS2-----A----	Atr
+5	za	RR--4----------	AuxP
+6	vlámské	AAMP4----1A----	Atr
+7	socialisty	NNMP4-----A----	Atr
+8	Willy	NNMS1-----A----	Atr
+9	Claes	NNMS1-----A----	Sb
+10	až	TT-------------	AuxZ
+11	do	RR--2----------	AuxP
+12	středy	NNFS2-----A----	Adv
+13	tvrdil	VpYS---XR-AA---	Pred
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	s	RR--7----------	AuxP
+17	bývalým	AAMS7----1A----	Atr
+18	pokladníkem	NNMS7-----A----	Obj
+19	své	P8FS2---------1	Atr
+20	strany	NNFS2-----A----	Atr
+21	nikdy	Db-------------	Adv
+22	o	RR--6----------	AuxP
+23	případu	NNIS6-----A---1	Obj
+24	Agusta	NNFS1-----A----	Atr
+25	nehovořil	VpYS---XR-NA---	Obj
+26	.	Z:-------------	AuxK
+
+ln95047-075-p2s4
+1	Podle	RR--2----------	AuxP
+2	včerejšího	AAIS2----1A----	Atr
+3	listu	NNIS2-----A----	Adv
+4	La	AAFSX----1A----	Atr
+5	Libre	NNIS1-----A----	Atr
+6	Belgique	AAXXX----1A----	Atr
+7	však	J^-------------	Coord
+8	před	RR--7----------	AuxP
+9	vyšetřovateli	NNMP7-----A----	Adv
+10	vypověděl	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	právě	Db-------------	AuxZ
+14	pokladník	NNMS1-----A----	Sb
+15	jemu	PPZS3--3-------	Obj
+16	a	J^-------------	AuxY
+17	také	Db-------------	AuxZ
+18	tehdejšímu	AAMS3----1A----	Atr
+19	předsedovi	NNMS3-----A----	Atr
+20	vlámské	AAFS2----1A----	Atr
+21	Socialistické	AAFS2----1A----	Atr
+22	strany	NNFS2-----A----	Atr
+23	Franckovi	NNMS3-----A----	Atr
+24	Vandenbrouckemu	NNMS3-----A----	Obj
+25	a	J^-------------	Coord
+26	ministru	NNMS3-----A---1	Atr
+27	vnitra	NNNS2-----A----	Atr
+28	Louisi	NNMS3-----A----	Atr
+29	Tobbackovi	NNMS3-----A----	Obj
+30	řekl	VpYS---XR-AA---	Obj
+31	,	Z:-------------	AuxX
+32	že	J,-------------	AuxC
+33	firma	NNFS1-----A----	Sb
+34	Agusta	NNFS1-----A----	Atr
+35	by	Vc-------------	AuxV
+36	chtěla	VpQW---XR-AA---	Obj
+37	poskytnout	Vf--------A----	Obj
+38	vlámským	AAMP3----1A----	Atr
+39	socialistům	NNMP3-----A----	Obj
+40	"	Z:-------------	AuxG
+41	dar	NNIS4-----A----	Obj
+42	"	Z:-------------	AuxG
+43	.	Z:-------------	AuxK
+
+ln95047-075-p2s5
+1	Všichni	PLMP1----------	Sb
+2	tři	ClXP1----------	Atr
+3	tento	PDIS4----------	Atr
+4	návrh	NNIS4-----A----	Obj
+5	kategoricky	Dg-------1A----	Adv
+6	odmítli	VpMP---XR-AA--1	Obj
+7	,	Z:-------------	AuxX
+8	tvrdí	VB-S---3P-AA---	Pred
+9	Claes	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+

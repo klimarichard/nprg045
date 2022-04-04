@@ -1,0 +1,60 @@
+ln94210-140-p1s1
+1	Přeprava	NNFS1-----A----	Sb
+2	klesla	VpQW---XR-AA--1	Pred
+
+ln94210-140-p2s1
+1	Železniční	AAFS1----1A----	Atr
+2	doprava	NNFS1-----A----	Sb
+3	přepravila	VpQW---XR-AA---	Pred
+4	letos	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	červenci	NNIS6-----A----	Adv
+7	8059	C=-------------	Obj
+8	milionů	NNIP2-----A----	Atr
+9	tun	NNFP2-----A----	Atr
+10	zboží	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94210-140-p2s2
+1	Proti	RR--3----------	AuxP
+2	stejnému	AANS3----1A----	Atr
+3	období	NNNS3-----A----	Adv
+4	loni	Db------------1	Atr
+5	to	PDNS1----------	Sb
+6	představovalo	VpNS---XR-AA---	Pred
+7	pokles	NNIS4-----A----	Obj
+8	o	RR--4----------	AuxP
+9	3.9	C=-------------	Atr
+10	%	Z:-------------	Atr
+11	.	Z:-------------	AuxK
+
+ln94210-140-p2s3
+1	Nakládka	NNFS1-----A----	Sb
+2	byla	VpQW---XR-AA---	Pred
+3	nižší	AAFS1----2A----	Pnom
+4	o	RR--4----------	AuxP
+5	12.4	C=-------------	Adv
+6	%	Z:-------------	Atr
+7	.	Z:-------------	AuxK
+
+ln94210-140-p2s4
+1	Rovněž	Db-------------	AuxZ
+2	o	RR--4----------	AuxP
+3	1.2	C=-------------	Adv
+4	%	Z:-------------	Atr
+5	na	RR--4----------	AuxP
+6	451000	C=-------------	Obj
+7	tun	NNFP2-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	snížil	VpYS---XR-AA---	Pred
+10	v	RR--6----------	AuxP
+11	témže	PDZS6----------	Atr
+12	období	NNNS6-----A----	Adv
+13	proti	RR--3----------	AuxP
+14	červenci	NNIS3-----A----	Adv
+15	1993	C=-------------	Atr
+16	objem	NNIS1-----A----	Sb
+17	říční	AAFS2----1A----	Atr
+18	dopravy	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+

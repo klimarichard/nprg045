@@ -1,0 +1,137 @@
+mf930713-136-p1s1
+1	Záchrana	NNFS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	vodě	NNFS6-----A----	Atr
+
+mf930713-136-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	kar	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-136-p2s1B
+1	Stanice	NNFS1-----A----	Sb
+2	první	CrFS2----------	Atr
+3	pomoci	NNFS2-----A----	Atr
+4	vodní	AAFS2----1A----	Atr
+5	záchranné	AAFS2----1A----	Atr
+6	služby	NNFS2-----A----	Atr
+7	funguje	VB-S---3P-AA---	Pred
+8	od	RR--2----------	AuxP
+9	začátku	NNIS2-----A----	Adv
+10	měsíce	NNIS2-----A----	Atr
+11	na	RR--6----------	AuxP
+12	Brněnské	AAFS6----1A----	Atr
+13	přehradě	NNFS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+mf930713-136-p2s2
+1	Městský	AAIS1----1A----	Atr
+2	výbor	NNIS1-----A----	Sb
+3	Červeného	AAIS2----1A----	Atr
+4	kříže	NNIS2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	ni	P5FS4--3-------	Adv
+7	získal	VpYS---XR-AA---	Pred
+8	chatu	NNFS4-----A----	Obj
+9	na	RR--6----------	AuxP
+10	Kozí	AAFS6----1A----	Atr
+11	horce	NNFS6-----A----	Adv
+12	od	RR--2----------	AuxP
+13	Jihomoravských	AAIP2----1A----	Atr
+14	dřevařských	AAIP2----1A----	Atr
+15	závodů	NNIP2-----A----	Adv
+16	za	RR--4----------	AuxP
+17	třetinovou	AAFS4----1A----	Atr
+18	cenu	NNFS4-----A----	Adv
+19	.	Z:-------------	AuxK
+
+mf930713-136-p2s3
+1	Na	RR--6----------	AuxP
+2	vodě	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	dispozici	NNFS3-----A----	Adv
+6	motorový	AAIS1----1A----	Atr
+7	člun	NNIS1-----A----	Sb
+8	Ibis	NNMS1-----A----	Atr
+9	II	C}-------------	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-136-p2s4
+1	Záchranáři	NNMP1-----A----	Sb
+2	vylepšili	VpMP---XR-AA---	Pred
+3	vybavení	NNNS4-----A----	Obj
+4	z	RR--2----------	AuxP
+5	dotace	NNFS2-----A----	Adv
+6	pražského	AAIS2----1A----	Atr
+7	ČČK	NNIXX-----A---8	Atr
+8	o	RR--4----------	AuxP
+9	vakuová	AANP4----1A----	Atr
+10	nosítka	NNNP4-----A----	Adv
+11	a	J^-------------	Coord
+12	vakuové	AAFP4----1A----	Atr
+13	dlahy	NNFP4-----A----	Adv
+14	na	RR--4----------	AuxP
+15	končetiny	NNFP4-----A----	Atr
+16	,	Z:-------------	Coord
+17	zakoupen	VsYS---XX-AP---	Pnom
+18	byl	VpYS---XR-AA---	Pred
+19	také	Db-------------	Adv
+20	kyslíkový	AAIS1----1A----	Atr
+21	dýchací	AAIS1----1A----	Atr
+22	přístroj	NNIS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+mf930713-136-p2s5
+1	Na	RR--6----------	AuxP
+2	Kozí	AAFS6----1A----	Atr
+3	horce	NNFS6-----A----	Adv
+4	se	P7-X4----------	Obj
+5	v	RR--6----------	AuxP
+6	týdenních	AAIP6----1A----	Atr
+7	cyklech	NNIP6-----A----	Adv
+8	střídá	VB-S---3P-AA---	Pred
+9	ve	RV--6----------	AuxP
+10	službě	NNFS6-----A----	Adv
+11	trojice	NNFS1-----A----	Sb
+12	kvalifikovaných	AAMP2----1A----	Atr
+13	dobrovolných	AAMP2----1A----	Atr
+14	pracovníků	NNMP2-----A----	Atr
+15	ČČK	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxK
+
+mf930713-136-p2s6
+1	Podle	RR--2----------	AuxP
+2	Evy	NNFS2-----A----	Atr
+3	Vaňharové	NNFS2-----A----	Adv
+4	z	RR--2----------	AuxP
+5	městského	AAIS2----1A----	Atr
+6	výboru	NNIS2-----A----	Atr
+7	však	J^-------------	AuxY
+8	městská	AAFS1----1A----	Atr
+9	část	NNFS1-----A----	Sb
+10	Bystrc	NNFS1-----A----	Atr
+11	ani	J^-------------	Coord
+12	magistrát	NNIS1-----A----	Sb
+13	zatím	Db-------------	Adv
+14	neposkytl	VpYS---XR-NA--1	Pred
+15	slíbené	AAFP4----1A----	Atr
+16	finance	NNFP4-----A----	Obj
+17	na	RR--4----------	AuxP
+18	benzín	NNIS4-----A----	Atr
+19	,	Z:-------------	AuxX
+20	takže	J,-------------	AuxC
+21	služby	NNFP1-----A----	Sb
+22	vodních	AAMP2----1A----	Atr
+23	záchranářů	NNMP2-----A----	Atr
+24	dosud	Db-------------	Adv
+25	nejsou	VB-P---3P-NA---	AuxV
+26	zabezpečeny	VsTP---XX-AP---	Adv
+27	na	RR--4----------	AuxP
+28	celou	AAFS4----1A----	Atr
+29	letní	AAFS4----1A----	Atr
+30	sezónu	NNFS4-----A----	Adv
+31	.	Z:-------------	AuxK
+

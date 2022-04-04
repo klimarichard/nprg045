@@ -1,0 +1,405 @@
+lnd91301-062-p1s1
+1	Australský	AAMS1----1A----	Atr
+2	premiér	NNMS1-----A----	Atr
+3	Paul	NNMS1-----A----	Atr
+4	Keating	NNMS1-----A----	Sb
+5	provedl	VpYS---XR-AA---	Pred
+6	změny	NNFP4-----A----	Obj
+7	ve	RV--6----------	AuxP
+8	vládě	NNFS6-----A----	AtrAdv
+9	.	Z:-------------	AuxK
+
+lnd91301-062-p1s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	jejich	PSXXXXP3-------	Atr
+5	cílem	NNIS7-----A----	Pnom
+6	je	VB-S---3P-AA---	Obj
+7	urychlit	Vf--------A----	Sb
+8	oživování	NNNS4-----A----	Obj
+9	národního	AANS2----1A----	Atr
+10	hospodářství	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	co	Db-------------	Adv
+13	nejrychleji	Dg-------3A----	Adv
+14	snížit	Vf--------A----	Sb
+15	nezaměstnanost	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd91301-062-p1s3
+1	Změny	NNFP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	týkají	VB-P---3P-AA---	Pred
+4	vedení	NNNS2-----A----	Obj
+5	ministerstev	NNNP2-----A----	Atr
+6	financí	NNFP2-----A----	Atr
+7	,	Z:-------------	Coord
+8	státního	AAIS2----1A----	Atr
+9	pokladu	NNIS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	zřízení	NNNS2-----A----	Obj
+12	ministerstva	NNNS2-----A----	Atr
+13	cestovního	AAIS2----1A----	Atr
+14	ruchu	NNIS2-----A----	Atr
+15	a	J^-------------	Coord
+16	dalších	AAIP2----1A----	Atr
+17	resortů	NNIP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd91301-062-p2s1
+1	S	RR--7----------	AuxP
+2	rychlejším	AANS7----2A----	Atr
+3	odbavováním	NNNS7-----A----	Obj
+4	cestujících	AGMP2-----A----	Atr
+5	na	RR--6----------	AuxP
+6	hranicích	NNFP6-----A----	Atr
+7	Německa	NNNS2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	Československem	NNNS7-----A----	Atr
+10	a	J^-------------	Coord
+11	Polskem	NNNS7-----A----	Atr
+12	počítá	VB-S---3P-AA---	Pred
+13	už	Db-------------	AuxZ
+14	v	RR--6----------	AuxP
+15	příštím	AAIS6----1A----	Atr
+16	roce	NNIS6-----A---1	Adv
+17	spolkový	AAMS1----1A----	Atr
+18	ministr	NNMS1-----A----	Atr
+19	vnitra	NNNS2-----A----	Atr
+20	Rudolf	NNMS1-----A----	Atr
+21	Seiters	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+lnd91301-062-p2s2
+1	Přispěje	VB-S---3P-AA---	Pred
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Obj
+4	rozšíření	NNNS1-----A----	Sb
+5	silnic	NNFP2-----A----	Atr
+6	vedoucích	AGFP2-----A----	Atr
+7	k	RR--3----------	AuxP
+8	hraničním	AAIP3----1A----	Atr
+9	přechodům	NNIP3-----A----	Adv
+10	na	RR--4----------	AuxP
+11	čtyři	ClXP4----------	Atr
+12	pruhy	NNIP4-----A----	Atr
+13	a	J^-------------	Coord
+14	zvýšení	NNNS1-----A----	Sb
+15	počtu	NNIS2-----A----	Atr
+16	pracovníků	NNMP2-----A----	Atr
+17	pasové	AAFS2----1A----	Atr
+18	a	J^-------------	Coord
+19	celní	AAFS2----1A----	Atr
+20	kontroly	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd91301-062-p3s1
+1	Hongkongský	AAMS1----1A----	Atr
+2	disident	NNMS1-----A----	Atr
+3	Lao	NNMS1-----A----	Sb
+4	Šan	NNMS1-----A----	Atr
+5	-	Z:-------------	AuxG
+6	čching	NNMS1-----A----	Atr
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	byl	VpYS---XR-AA---	AuxV
+10	uvězněn	VsYS---XX-AP---	Atr
+11	před	RR--7----------	AuxP
+12	deseti	Cn-P7----------	Atr
+13	lety	NNNP7-----A----	Adv
+14	v	RR--6----------	AuxP
+15	jižní	AAFS6----1A----	Atr
+16	Číně	NNFS6-----A----	Adv
+17	za	RR--4----------	AuxP
+18	protirevoluční	AAFS4----1A----	Atr
+19	činnost	NNFS4-----A----	Adv
+20	,	Z:-------------	AuxX
+21	byl	VpYS---XR-AA---	AuxV
+22	propuštěn	VsYS---XX-AP---	Pred
+23	a	J^-------------	Coord
+24	vrátil	VpYS---XR-AA---	Pred
+25	se	P7-X4----------	AuxT
+26	do	RR--2----------	AuxP
+27	Hongkongu	NNIS2-----A----	Adv
+28	.	Z:-------------	AuxK
+
+lnd91301-062-p3s2
+1	Po	RR--6----------	AuxP
+2	příjezdu	NNIS6-----A---1	Adv
+3	prohlásil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	podmínky	NNFP1-----A----	Sb
+7	ve	RV--6----------	AuxP
+8	vězení	NNNS6-----A----	Atr
+9	"	Z:-------------	AuxG
+10	nebyly	VpTP---XR-NA---	Obj
+11	špatné	AAFP1----1A----	Pnom
+12	"	Z:-------------	AuxG
+13	:	Z:-------------	Coord
+14	vykonával	VpYS---XR-AA---	Obj
+15	jednoduché	AAFP4----1A----	Atr
+16	práce	NNFP4-----A----	Obj
+17	a	J^-------------	Coord
+18	občas	Db-------------	Adv
+19	cvičil	VpYS---XR-AA---	Obj
+20	.	Z:-------------	AuxK
+
+lnd91301-062-p3s3
+1	Mohl	VpYS---XR-AA---	Pred
+2	si	P7-X3----------	Adv
+3	také	Db-------------	AuxZ
+4	vařit	Vf--------A----	Obj
+5	vlastní	AANP4----1A----	Atr
+6	jídla	NNNP4-----A----	Obj
+7	a	J^-------------	Coord
+8	číst	Vf--------A----	Obj
+9	oficiální	AAIS4----1A----	Atr
+10	čínský	AAIS4----1A----	Atr
+11	deník	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+lnd91301-062-p4s1
+1	Stovky	NNFP1-----A----	Sb
+2	lidí	NNMP2-----A----	Atr
+3	zavítaly	VpTP---XR-AA---	Pred
+4	o	RR--6----------	AuxP
+5	vánocích	NNFP6-----A----	Adv
+6	ke	RV--3----------	AuxP
+7	hrobům	NNIP3-----A----	Adv
+8	bývalého	AAMS2----1A----	Atr
+9	komunistického	AAMS2----1A----	Atr
+10	diktátora	NNMS2-----A----	Atr
+11	Rumunska	NNNS2-----A----	Atr
+12	Nicolae	NNMXX-----A----	Atr
+13	Ceaušeska	NNMS2-----A----	Atr
+14	a	J^-------------	Coord
+15	jeho	PSXXXZS3-------	Atr
+16	manželky	NNFS2-----A----	Atr
+17	Eleny	NNFS2-----A----	Atr
+18	na	RR--6----------	AuxP
+19	hřbitově	NNIS6-----A----	Atr
+20	Ghencea	NNFS1-----A----	Atr
+21	v	RR--6----------	AuxP
+22	Bukurešti	NNFS6-----A----	Atr
+23	.	Z:-------------	AuxK
+
+lnd91301-062-p4s2
+1	Mezi	RR--7----------	AuxP
+2	diktátorovými	AUMP7M---------	Atr
+3	ctiteli	NNMP7-----A----	Adv
+4	byli	VpMP---XR-AA---	Pred
+5	jak	J^-------------	AuxY
+6	staří	NNMP1-----A----	Atr
+7	,	Z:-------------	AuxX
+8	tak	Db-------------	Coord
+9	mladí	AAMP1----1A----	Atr
+10	lidé	NNMP1-----A---1	Sb
+11	.	Z:-------------	AuxK
+
+lnd91301-062-p4s3
+1	Všichni	PLMP1----------	Sb
+2	si	P7-X3----------	AuxT
+3	souhlasně	Dg-------1A----	Adv
+4	stěžovali	VpMP---XR-AA---	Pred
+5	na	RR--4----------	AuxP
+6	stále	Dg-------1A----	Adv
+7	těžší	AAFP4----2A----	Atr
+8	životní	AAFP4----1A----	Atr
+9	podmínky	NNFP4-----A----	Obj
+10	,	Z:-------------	Coord
+11	především	Db-------------	AuxZ
+12	na	RR--4----------	AuxP
+13	rostoucí	AGFP4-----A----	Atr
+14	ceny	NNFP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd91301-062-p5s1
+1	Spojené	AAIP1----1A----	Atr
+2	státy	NNIP1-----A----	Sb
+3	opustí	VB-P---3P-AA---	Pred
+4	svou	P8FS4---------1	Atr
+5	poslední	AAFS4----1A----	Atr
+6	vojenskou	AAFS4----1A----	Atr
+7	základnu	NNFS4-----A----	Obj
+8	na	RR--6----------	AuxP
+9	Filipínách	NNFP6-----A----	Atr
+10	do	RR--2----------	AuxP
+11	jednoho	ClZS2----------	Atr
+12	roku	NNIS2-----A---1	Adv
+13	.	Z:-------------	AuxK
+
+lnd91301-062-p5s2
+1	Oznámili	VpMP---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	oficiální	AAMP1----1A----	Atr
+5	činitelé	NNMP1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	Manile	NNFS6-----A----	AdvAtr
+8	po	RR--6----------	AuxP
+9	závěrečných	AAIP6----1A----	Atr
+10	filipínsko	A2--------A----	Atr
+11	-	Z:-------------	Coord
+12	amerických	AAIP6----1A----	Atr
+13	rozhovorech	NNIP6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	při	RR--6----------	AuxP
+16	nichž	P9XP6----------	Adv
+17	strany	NNFP1-----A----	Sb
+18	nedospěly	VpTP---XR-NA---	Atr
+19	k	RR--3----------	AuxP
+20	dohodě	NNFS3-----A----	Obj
+21	o	RR--6----------	AuxP
+22	tříleté	AAFS6----1A----	Atr
+23	lhůtě	NNFS6-----A----	Atr
+24	,	Z:-------------	AuxX
+25	navrhované	AAFS6----1A----	Atr
+26	filipínskou	AAFS7----1A----	Atr
+27	stranou	NNFS7-----A----	Obj
+28	.	Z:-------------	AuxK
+
+lnd91301-062-p6s1
+1	Do	RR--2----------	AuxP
+2	Izraele	NNIS2-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	letos	Db-------------	Adv
+5	přistěhovalo	VpNS---XR-AA---	Obj
+6	z	RR--2----------	AuxP
+7	bývalého	AAIS2----1A----	Atr
+8	SSSR	NNIXX-----A---8	Adv
+9	jen	TT-------------	AuxZ
+10	140000	C=-------------	Sb
+11	Židů	NNMP2-----A----	Atr
+12	oproti	RR--3----------	AuxP
+13	očekávaným	AAMP3----1A----	Atr
+14	400000	C=-------------	Adv
+15	,	Z:-------------	AuxX
+16	oznámil	VpYS---XR-AA---	Pred
+17	izraelský	AAMS1----1A----	Atr
+18	ministr	NNMS1-----A----	Atr
+19	přistěhovalectví	NNNS2-----A----	Atr
+20	J	NNMXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	Perec	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+lnd91301-062-p6s2
+1	Ve	RV--6----------	AuxP
+2	srovnání	NNNS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	předcházejícím	AGIS7-----A----	Atr
+5	rokem	NNIS7-----A----	Adv
+6	je	VB-S---3P-AA---	Obj
+7	to	PDNS1----------	Sb
+8	pouhých	AANP2----1A----	Atr
+9	23	C=-------------	Obj
+10	procent	NNNP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	uvedl	VpYS---XR-AA---	Pred
+13	.	Z:-------------	AuxK
+
+lnd91301-062-p6s3
+1	Informoval	VpYS---XR-AA---	Pred
+2	dále	Dg-------2A---1	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	letos	Db-------------	Adv
+6	Izrael	NNIS1-----A----	Sb
+7	přijal	VpYS---XR-AA---	Obj
+8	na	RR--4----------	AuxP
+9	20000	C=-------------	Obj
+10	imigrantů	NNMP2-----A----	Atr
+11	z	RR--2----------	AuxP
+12	Etiopie	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd91301-062-p7s1
+1	Sedm	Cn-S1----------	Sb
+2	lidí	NNMP2-----A----	Atr
+3	bylo	VpNS---XR-AA---	AuxV
+4	zabito	VsNS---XX-AP---	Pred
+5	v	RR--6----------	AuxP
+6	bojích	NNIP6-----A----	Adv
+7	mezi	RR--7----------	AuxP
+8	znepřátelenými	AAFP7----1A----	Atr
+9	černošskými	AAFP7----1A----	Atr
+10	frakcemi	NNFP7-----A----	Atr
+11	v	RR--6----------	AuxP
+12	bantustanu	NNIS6-----A---1	AtrAdv
+13	Ciskei	NNXXX-----A----	Atr
+14	a	J^-------------	Coord
+15	u	RR--2----------	AuxP
+16	Johannesburgu	NNIS2-----A----	AtrAdv
+17	.	Z:-------------	AuxK
+
+lnd91301-062-p7s2
+1	Oznámily	VpTP---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	policejní	AAIP1----1A----	Atr
+4	zdroje	NNIP1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+lnd91301-062-p7s3
+1	Podle	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	došlo	VpNS---XR-AA---	Pred
+4	k	RR--3----------	AuxP
+5	ozbrojeným	AAFP3----1A----	Atr
+6	šarvátkám	NNFP3-----A----	Obj
+7	mezi	RR--7----------	AuxP
+8	stoupenci	NNMP7-----A----	Atr
+9	Afrického	AAIS2----1A----	Atr
+10	národního	AAIS2----1A----	Atr
+11	kongresu	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	ciskejské	NNFS2-----A----	Atr
+14	vlády	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	podporuje	VB-S---3P-AA---	Atr
+18	hnutí	NNNS4-----A----	Obj
+19	Inkatha	NNFS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd91301-062-p8s1
+1	Bývalý	AAMS1----1A----	Atr
+2	východoněmecký	AAMS1----1A----	Atr
+3	nejvyšší	AAMS1----3A----	Atr
+4	představitel	NNMS1-----A----	Atr
+5	Erich	NNMS1-----A----	Atr
+6	Honecker	NNMS1-----A----	Sb
+7	strávil	VpYS---XR-AA---	Pred
+8	v	RR--6----------	AuxP
+9	rezidenci	NNFS6-----A----	Adv
+10	chilského	AAMS2----1A----	Atr
+11	velvyslance	NNMS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Moskvě	NNFS6-----A----	AtrAtr
+14	vánoční	AAIP4----1A----	Atr
+15	svátky	NNIP4-----A----	Obj
+16	a	J^-------------	Coord
+17	podle	RR--2----------	AuxP
+18	všeho	PLZS2----------	Adv
+19	zde	Db-------------	Adv
+20	přivítá	VB-S---3P-AA---	Pred
+21	i	J^-------------	AuxZ
+22	příchod	NNIS4-----A----	Obj
+23	nového	AAIS2----1A----	Atr
+24	roku	NNIS2-----A---1	Atr
+25	.	Z:-------------	AuxK
+
+lnd91301-062-p8s2
+1	Sdělili	VpMP---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	pracovníci	NNMP1-----A----	Sb
+5	chilského	AAIS2----1A----	Atr
+6	zastupitelského	AAIS2----1A----	Atr
+7	úřadu	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	ruské	AAFS6----1A----	Atr
+10	metropoli	NNFS6-----A----	Atr
+11	.	Z:-------------	AuxK
+

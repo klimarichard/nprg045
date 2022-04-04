@@ -1,0 +1,781 @@
+ln94210-74-p1s1
+1	Komerční	AAFS1----1A----	Atr
+2	banka	NNFS1-----A----	Sb
+3	bojuje	VB-S---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	důvěru	NNFS4-----A----	Obj
+
+ln94210-74-p2s1A
+1	Ondřej	NNMS1-----A----	Atr
+2	Lér	NNMS1-----A----	ExD
+
+ln94210-74-p2s1B
+1	Případ	NNIS1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	vypovězením	NNNS7-----A----	Atr
+4	vkladů	NNIP2-----A----	Atr
+5	s	RR--7----------	AuxP
+6	pevným	AAIS7----1A----	Atr
+7	vysokým	AAIS7----1A----	Atr
+8	úrokem	NNIS7-----A----	Atr
+9	a	J^-------------	Coord
+10	roční	AAFS7----1A----	Atr
+11	výpovědní	AAFS7----1A----	Atr
+12	lhůtou	NNFS7-----A----	Atr
+13	u	RR--2----------	AuxP
+14	Komerční	AAFS2----1A----	Atr
+15	banky	NNFS2-----A----	AtrAtr
+16	vyvolal	VpYS---XR-AA---	Pred
+17	nevoli	NNFS4-----A----	Obj
+18	veřejnosti	NNFS2-----A----	Atr
+19	a	J^-------------	Coord
+20	přinejmenším	Db-------------	AuxZ
+21	rozpaky	NNIP4-----A----	Obj
+22	v	RR--6----------	AuxP
+23	některých	PZXP6----------	Atr
+24	odborných	AAIP6----1A----	Atr
+25	a	J^-------------	Coord
+26	politických	AAIP6----1A----	Atr
+27	kruzích	NNIP6-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94210-74-p2s2
+1	Občan	NNMS1-----A----	Sb
+2	-	Z:-------------	Apos
+3	vkladatel	NNMS1-----A----	Sb
+4	byl	VpYS---XR-AA---	AuxV
+5	uveden	VsYS---XX-AP---	Pred
+6	v	RR--4----------	AuxP
+7	omyl	NNIS4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	i	J^-------------	AuxY
+10	když	J,-------------	AuxC
+11	asi	TT-------------	AuxZ
+12	ne	TT-------------	AuxZ
+13	záměrně	Dg-------1A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94210-74-p2s3
+1	Viníkem	NNMS7-----A----	Pnom
+2	přitom	Db-------------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	naše	PSHS1-P1-------	Atr
+5	největší	AAFS1----3A----	Atr
+6	a	J^-------------	Coord
+7	nejzkušenější	AAFS1----3A----	Atr
+8	banka	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94210-74-p2s4
+1	Jemné	AANS1----1A----	Atr
+2	psychologické	AANS1----1A----	Atr
+3	předivo	NNNS1-----A----	Sb
+4	finančních	AAIP2----1A----	Atr
+5	vztahů	NNIP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	v	RR--6----------	AuxP
+8	nichž	P9XP6----------	Adv
+9	důvěra	NNFS1-----A----	Sb
+10	vždy	Db-------------	Adv
+11	hraje	VB-S---3P-AA---	Atr
+12	primární	AAFS4----1A----	Atr
+13	roli	NNFS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	tak	Db-------------	Adv
+16	bylo	VpNS---XR-AA---	AuxV
+17	letos	Db-------------	Adv
+18	již	Db-------------	AuxZ
+19	poněkolikáté	Db-------------	Adv
+20	natrženo	VsNS---XX-AP---	Pred
+21	.	Z:-------------	AuxK
+
+ln94210-74-p3s1
+1	Co	PQ--1----------	Sb
+2	se	P7-X4----------	AuxT
+3	vlastně	Db-------------	AuxY
+4	stalo	VpNS---XR-AA---	Pred
+5	?	Z:-------------	AuxK
+
+ln94210-74-p3s2
+1	V	RR--6----------	AuxP
+2	letech	NNNP6-----A----	Adv
+3	1990	C=-------------	Atr
+4	-	Z:-------------	Coord
+5	1991	C=-------------	Atr
+6	,	Z:-------------	AuxX
+7	kdy	Db-------------	Adv
+8	měly	VpTP---XR-AA---	Atr
+9	všechny	PLFP1----------	Atr
+10	banky	NNFP1-----A----	Sb
+11	s	RR--7----------	AuxP
+12	výjimkou	NNFS7-----A----	Atr
+13	České	AAFS2----1A----	Atr
+14	spořitelny	NNFS2-----A----	Atr
+15	málo	Ca--4----------	Obj
+16	primárních	AAIP2----1A----	Atr
+17	finančních	AAIP2----1A----	Atr
+18	zdrojů	NNIP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	tedy	Db-------------	Apos
+21	vkladů	NNIP2-----A----	Atr
+22	od	RR--2----------	AuxP
+23	obyvatelstva	NNNS2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	přišel	VpYS---XR-AA---	Pred
+26	náš	PSYS1-P1-------	Atr
+27	největší	AAIS1----3A----	Atr
+28	finanční	AAIS1----1A----	Atr
+29	ústav	NNIS1-----A----	Sb
+30	s	RR--7----------	AuxP
+31	lákavou	AAFS7----1A----	Atr
+32	nabídkou	NNFS7-----A----	Adv
+33	.	Z:-------------	AuxK
+
+ln94210-74-p3s3
+1	Nazývala	VpQW---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	termínovaný	AAIS1----1A----	Atr
+4	vklad	NNIS1-----A----	Obj
+5	s	RR--7----------	AuxP
+6	pevnou	AAFS7----1A----	Atr
+7	úrokovou	AAFS7----1A----	Atr
+8	sazbou	NNFS7-----A----	Atr
+9	a	J^-------------	Coord
+10	roční	AAFS7----1A----	Atr
+11	výpovědní	AAFS7----1A----	Atr
+12	lhůtou	NNFS7-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94210-74-p4s1
+1	Dnes	Db-------------	Adv
+2	,	Z:-------------	Apos
+3	po	RR--6----------	AuxP
+4	několika	Ca--6----------	Atr
+5	letech	NNNP6-----A----	Adv
+6	rozvoje	NNIS2-----A----	Atr
+7	tržní	AAFS2----1A----	Atr
+8	ekonomiky	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	jsme	VB-P---1P-AA---	Pred
+11	už	Db-------------	Adv
+12	všichni	PLMP1----------	Sb
+13	chytří	AAMP1----1A----	Pnom
+14	a	J^-------------	Coord
+15	víme	VB-P---1P-AA---	Pred
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	termínovaný	AAIS1----1A----	Atr
+19	vklad	NNIS1-----A----	Sb
+20	je	VB-S---3P-AA---	Obj
+21	nástrojem	NNIS7-----A----	Pnom
+22	,	Z:-------------	AuxX
+23	jenž	PJYS1----------	Sb
+24	má	VB-S---3P-AA---	Atr
+25	bance	NNFS3-----A----	Obj
+26	zajistit	Vf--------A----	Obj
+27	spolehlivé	AAIP4----1A----	Atr
+28	střednědobé	AAIP4----1A----	Atr
+29	zdroje	NNIP4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln94210-74-p4s2
+1	Jeho	PSXXXZS3-------	Atr
+2	délka	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	obvykle	Dg-------1A----	Adv
+5	pohybuje	VB-S---3P-AA---	Pred
+6	až	TT-------------	AuxZ
+7	do	RR--2----------	AuxP
+8	pěti	Cn-P2----------	Atr
+9	let	NNNP2-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94210-74-p4s3
+1	Během	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	se	P7-X4----------	AuxT
+4	ekonomické	AAFP1----1A----	Atr
+5	podmínky	NNFP1-----A----	Sb
+6	mohou	VB-P---3P-AA--1	Pred
+7	radikálně	Dg-------1A----	Adv
+8	změnit	Vf--------A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94210-74-p4s4
+1	Inflace	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	která	P4FS1----------	Sb
+4	znehodnocuje	VB-S---3P-AA---	Atr
+5	vklady	NNIP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	může	VB-S---3P-AA---	Pred
+8	prudce	Dg-------1A----	Adv
+9	stoupnout	Vf--------A----	Obj
+10	i	J^-------------	Coord
+11	klesnout	Vf--------A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94210-74-p4s5
+1	Vábničkou	NNFS7-----A----	Pnom
+2	pro	RR--4----------	AuxP
+3	vkladatele	NNMP4-----A----	Atr
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	má	VB-S---3P-AA---	Atr
+7	zmírnit	Vf--------A----	Obj
+8	jeho	PSXXXZS3-------	Atr
+9	obavy	NNFP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	je	VB-S---3P-AA---	Pred
+12	vyšší	AAIS1----2A----	Atr
+13	úrok	NNIS1-----A----	Sb
+14	než	J,-------------	AuxC
+15	v	RR--6----------	AuxP
+16	případě	NNIS6-----A----	AuxP
+17	jiných	AAIP2----1A----	Atr
+18	vkladů	NNIP2-----A----	ExD
+19	.	Z:-------------	AuxK
+
+ln94210-74-p4s6
+1	Jako	J,-------------	AuxY
+2	odstrašující	AGIS1-----A----	Atr
+3	prvek	NNIS1-----A----	Atv
+4	působí	VB-S---3P-AA---	Pred
+5	faktor	NNIS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	na	RR--4----------	AuxP
+9	termínovaný	AAIS4----1A----	Atr
+10	vklad	NNIS4-----A----	Adv
+11	nelze	VB-S---3P-NA---	Atr
+12	pod	RR--7----------	AuxP
+13	peněžitou	AAFS7----1A----	Atr
+14	sankcí	NNFS7-----A----	Adv
+15	po	RR--4----------	AuxP
+16	dohodnutou	AAFS4----1A----	Atr
+17	dobu	NNFS4-----A----	Adv
+18	sáhnout	Vf--------A----	Sb
+19	.	Z:-------------	AuxK
+
+ln94210-74-p4s7
+1	Jestliže	J,-------------	AuxC
+2	mi	PH-S3--1-------	Obj
+3	banka	NNFS1-----A----	Sb
+4	zaručí	VB-S---3P-AA---	Adv
+5	ročně	Dg-------1A----	Adv
+6	14	C=-------------	Obj
+7	až	J^-------------	Coord
+8	18	C=-------------	Obj
+9	procent	NNNP2-----A----	Atr
+10	,	Z:-------------	Coord
+11	což	PE--1----------	Sb
+12	je	VB-S---3P-AA---	Adv
+13	náš	PSYS1-P1-------	Atr
+14	případ	NNIS1-----A----	Pnom
+15	,	Z:-------------	AuxX
+16	při	RR--6----------	AuxP
+17	vyšší	AAFS6----2A----	Atr
+18	inflaci	NNFS6-----A----	Adv
+19	ztrácím	VB-S---1P-AA---	Pred
+20	,	Z:-------------	AuxX
+21	a	J^-------------	Coord
+22	naopak	Db-------------	ExD
+23	.	Z:-------------	AuxK
+
+ln94210-74-p4s8
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	svobodný	AAIS1----1A----	Atr
+4	hazard	NNIS1-----A----	Pnom
+5	obou	ClXP2----------	Atr
+6	stran	NNFP2-----A----	Atr
+7	s	RR--7----------	AuxP
+8	penězi	NNIP7-----A----	Atr
+9	a	J^-------------	Coord
+10	odhady	NNIP7-----A----	Atr
+11	ekonomického	AAIS2----1A----	Atr
+12	vývoje	NNIS2-----A----	Atr
+13	za	RR--2----------	AuxP
+14	přesně	Dg-------1A----	Adv
+15	stanovených	AAFP2----1A----	Atr
+16	podmínek	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94210-74-p5s1
+1	Komerční	AAFS1----1A----	Atr
+2	banka	NNFS1-----A----	Sb
+3	však	J^-------------	Coord
+4	šla	VpQW---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	důsledku	NNIS6-----A----	AuxP
+7	konkurence	NNFS2-----A----	Adv
+8	o	RR--4----------	AuxP
+9	něco	PZ--4----------	Adv
+10	dále	Dg-------2A---1	Adv
+11	,	Z:-------------	AuxX
+12	než	J,-------------	AuxC
+13	je	VB-S---3P-AA---	Adv
+14	obvyklé	AANS1----1A----	Pnom
+15	.	Z:-------------	AuxK
+
+ln94210-74-p5s2
+1	Atraktivnost	NNFS4-----A----	Obj
+2	svého	P8ZS2----------	Atr
+3	produktu	NNIS2-----A----	Atr
+4	zvýšila	VpQW---XR-AA---	Pred
+5	ustanovením	NNNS7-----A----	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	vkladatel	NNMS1-----A----	Sb
+9	může	VB-S---3P-AA---	Atr
+10	podat	Vf--------A----	Obj
+11	v	RR--6----------	AuxP
+12	ročním	AAIS6----1A----	Atr
+13	předstihu	NNIS6-----A----	Adv
+14	výpověď	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	aniž	J,-------------	AuxC
+17	by	Vc-------------	AuxV
+18	byl	VpYS---XR-AA---	AuxV
+19	penalizován	VsYS---XX-AP---	Adv
+20	.	Z:-------------	AuxK
+
+ln94210-74-p5s3
+1	Ten	PDYS1----------	Sb
+2	tak	Db-------------	Adv
+3	mohl	VpYS---XR-AA---	Pred
+4	při	RR--6----------	AuxP
+5	nečekaně	Dg-------1A----	Adv
+6	vysoké	AAFS6----1A----	Atr
+7	inflaci	NNFS6-----A----	Adv
+8	z	RR--2----------	AuxP
+9	vkladu	NNIS2-----A----	Adv
+10	vycouvat	Vf--------A----	Obj
+11	bez	RR--2----------	AuxP
+12	nezhojitelných	AAIP2----1N----	Atr
+13	šrámů	NNIP2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94210-74-p5s4
+1	Dalším	AANS7----1A----	Atr
+2	lákadlem	NNNS7-----A----	Pnom
+3	byla	VpQW---XR-AA---	Pred
+4	časová	AAFS1----1A----	Atr
+5	neohraničenost	NNFS1-----N----	Sb
+6	vkladu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	v	RR--6----------	AuxP
+9	tomto	PDZS6----------	Atr
+10	případě	NNIS6-----A----	Adv
+11	zcela	Db-------------	Adv
+12	absurdně	Dg-------1A----	Adv
+13	nazvaného	AAIS2----1A----	Atr
+14	termínovaný	AAIS1----1A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94210-74-p5s5
+1	Tak	Db-------------	Adv
+2	to	PDNS1----------	Sb
+3	stojí	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	příslušných	AAFP6----1A----	Atr
+6	smlouvách	NNFP6-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94210-74-p5s6
+1	Na	RR--6----------	AuxP
+2	věci	NNFS6-----A----	Adv
+3	nic	PW--4----------	Obj
+4	nemění	VB-S---3P-NA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	slovo	NNNS1-----A----	Sb
+8	termínovaný	AAIS1----1A----	Atr
+9	se	P7-X4----------	AuxT
+10	podle	RR--2----------	AuxP
+11	úřední	AAFS2----1A----	Atr
+12	interpretace	NNFS2-----A----	Adv
+13	banky	NNFS2-----A----	Atr
+14	vztahuje	VB-S---3P-AA---	Sb
+15	v	RR--6----------	AuxP
+16	tomto	PDZS6----------	Atr
+17	případě	NNIS6-----A----	Adv
+18	k	RR--3----------	AuxP
+19	roční	AAFS3----1A----	Atr
+20	výpovědní	AAFS3----1A----	Atr
+21	lhůtě	NNFS3-----A----	Obj
+22	,	Z:-------------	AuxX
+23	a	J^-------------	Coord
+24	ne	TT-------------	AuxZ
+25	k	RR--3----------	AuxP
+26	době	NNFS3-----A----	Obj
+27	trvání	NNNS2-----A----	Atr
+28	vkladu	NNIS2-----A----	Atr
+29	,	Z:-------------	AuxX
+30	jak	Db-------------	Adv
+31	to	PDNS4----------	Obj
+32	spíše	Dg-------2A---1	Adv
+33	chápe	VB-S---3P-AA---	Pred
+34	laická	AAFS1----1A----	Atr
+35	veřejnost	NNFS1-----A----	Sb
+36	.	Z:-------------	AuxK
+
+ln94210-74-p5s7
+1	O	RR--6----------	AuxP
+2	možnosti	NNFS6-----A----	Obj
+3	vypovědět	Vf--------A----	Atr
+4	vklad	NNIS4-----A----	Obj
+5	ze	RV--2----------	AuxP
+6	strany	NNFS2-----A----	AuxP
+7	KB	NNFXX-----A---8	Adv
+8	z	RR--2----------	AuxP
+9	ekonomických	AAIP2----1A----	Atr
+10	důvodů	NNIP2-----A----	Adv
+11	se	P7-X4----------	AuxR
+12	v	RR--6----------	AuxP
+13	příslušných	AAFP6----1A----	Atr
+14	smlouvách	NNFP6-----A----	Adv
+15	vůbec	Db-------------	AuxZ
+16	nic	PW--1----------	Sb
+17	nepíše	VB-S---3P-NA---	Pred
+18	ani	J^-------------	Coord
+19	nenaznačuje	VB-S---3P-NA---	Pred
+20	.	Z:-------------	AuxK
+
+ln94210-74-p6s1
+1	Přeskočme	Vi-P---1--A----	Pred
+2	ale	J^-------------	Coord
+3	do	RR--2----------	AuxP
+4	letošního	AAIS2----1A----	Atr
+5	roku	NNIS2-----A---1	Adv
+6	,	Z:-------------	AuxX
+7	o	RR--6----------	AuxP
+8	němž	P9ZS6----------	Obj
+9	se	P7-X4----------	AuxR
+10	říká	VB-S---3P-AA---	Atr
+11	-	Z:-------------	AuxG
+12	a	J^-------------	Coord
+13	vývoj	NNIS1-----A----	Sb
+14	to	PDNS4----------	Obj
+15	potvrzuje	VB-S---3P-AA---	Pred
+16	-	Z:-------------	AuxG
+17	že	J,-------------	AuxC
+18	bude	VB-S---3F-AA---	AuxV
+19	charakterizován	VsYS---XX-AP---	Sb
+20	inflací	NNFS7-----A----	Obj
+21	pod	RR--4----------	AuxP
+22	10	C=-------------	Atr
+23	procent	NNNP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94210-74-p6s2
+1	Úředníci	NNMP1-----A----	Sb
+2	KB	NNFXX-----A---8	Atr
+3	zbystřili	VpMP---XR-AA---	Pred
+4	a	J^-------------	Coord
+5	již	Db-------------	AuxZ
+6	v	RR--6----------	AuxP
+7	březnu	NNIS6-----A----	Adv
+8	podstatně	Dg-------1A----	Adv
+9	omezili	VpMP---XR-AA---	Pred
+10	možnosti	NNFP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	jak	Db-------------	Adv
+13	na	RR--4----------	AuxP
+14	uvedené	AAIP4----1A----	Atr
+15	vklady	NNIP4-----A----	Adv
+16	s	RR--7----------	AuxP
+17	pevným	AAIS7----1A----	Atr
+18	vysokým	AAIS7----1A----	Atr
+19	úrokem	NNIS7-----A----	Atr
+20	přihodit	Vf--------A----	Atr
+21	další	AAIP4----1A----	Atr
+22	peníze	NNIP4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94210-74-p6s3
+1	O	RR--6----------	AuxP
+2	tom	PDZS6----------	Obj
+3	se	P7-X4----------	AuxR
+4	dosud	Db-------------	Adv
+5	nepsalo	VpNS---XR-NA---	Pred
+6	,	Z:-------------	AuxX
+7	i	J^-------------	AuxY
+8	když	J,-------------	AuxC
+9	i	J^-------------	AuxZ
+10	tento	PDYS1----------	Atr
+11	krok	NNIS1-----A----	Sb
+12	už	Db-------------	Adv
+13	porušoval	VpYS---XR-AA---	Adv
+14	příslušné	AAFP4----1A----	Atr
+15	smlouvy	NNFP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94210-74-p7s1
+1	Koncem	NNIS7-----A----	AuxP
+2	srpna	NNIS2-----A----	Adv
+3	šla	VpQW---XR-AA---	Pred
+4	banka	NNFS1-----A----	Sb
+5	ještě	Db-------------	AuxZ
+6	dále	Dg-------2A---1	Adv
+7	:	Z:-------------	Coord
+8	ohlásila	VpQW---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	vypoví	VB-S---3P-AA---	Obj
+12	všechny	PLYP4----------	Atr
+13	speciální	AAIP4----1A----	Atr
+14	vklady	NNIP4-----A----	Obj
+15	s	RR--7----------	AuxP
+16	roční	AAFS7----1A----	Atr
+17	výpovědní	AAFS7----1A----	Atr
+18	lhůtou	NNFS7-----A----	Atr
+19	a	J^-------------	Coord
+20	pevnou	AAFS7----1A----	Atr
+21	sazbou	NNFS7-----A----	Atr
+22	s	RR--7----------	AuxP
+23	platností	NNFS7-----A----	Atr
+24	k	RR--3----------	AuxP
+25	31	C=-------------	Atr
+26	.	Z:-------------	AuxG
+27	prosinci	NNIS3-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94210-74-p7s2
+1	KB	NNFXX-----A---8	Sb
+2	neměla	VpQW---XR-NA---	Pred
+3	jiné	AANS4----1A----	Atr
+4	čistě	Dg-------1A----	Adv
+5	ekonomicky	Dg-------1A----	Adv
+6	rozumné	AANS4----1A----	Atr
+7	východisko	NNNS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	to	PDNS1----------	Sb
+11	je	VB-S---3P-AA---	Pred
+12	její	PSZS1FS3-------	Atr
+13	problém	NNIS1-----A----	Pnom
+14	a	J^-------------	Coord
+15	její	PSFSXFS3-------	Atr
+16	chyba	NNFS1-----A----	Pnom
+17	,	Z:-------------	AuxX
+18	které	P4FS2----------	Obj
+19	se	P7-X4----------	AuxT
+20	dopustila	VpQW---XR-AA---	Atr
+21	při	RR--6----------	AuxP
+22	formulaci	NNFS6-----A----	Adv
+23	smlouvy	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94210-74-p7s3A
+1	Dodejme	Vi-P---1--A----	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	ještě	Db-------------	AuxZ
+5	25	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	srpna	NNIS2-----A----	Adv
+8	představitelé	NNMP1-----A----	Sb
+9	banky	NNFS2-----A----	Atr
+10	nevěděli	VpMP---XR-NA---	Obj
+11	,	Z:-------------	AuxX
+12	čí	P4FS1----------	Atr
+13	výpověď	NNFS1-----A----	Sb
+14	by	Vc-------------	AuxV
+15	platila	VpQW---XR-AA---	Obj
+16	při	RR--6----------	AuxP
+17	souběhu	NNIS6-----A----	Adv
+18	výpovědí	NNFP2-----A----	Atr
+19	od	RR--2----------	AuxP
+20	KB	NNFXX-----A---8	Atr
+21	a	J^-------------	Coord
+22	klienta	NNMS2-----A----	Atr
+
+ln94210-74-p7s3B
+1	Faul	NNIS1-----A----	Sb
+2	byl	VpYS---XR-AA---	Pred
+3	v	RR--6----------	AuxP
+4	tom	PDZS6----------	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	Komerční	AAFS1----1A----	Atr
+8	banka	NNFS1-----A----	Sb
+9	se	P7-X4----------	AuxT
+10	nyní	Db-------------	Adv
+11	ohání	VB-S---3P-AA---	Atr
+12	paragrafem	NNIS7-----A----	Obj
+13	z	RR--2----------	AuxP
+14	Občanského	AAIS2----1A----	Atr
+15	zákoníku	NNIS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	který	P4YS1----------	Sb
+18	existuje	VB-S---3P-AA---	Atr
+19	,	Z:-------------	AuxX
+20	ale	J^-------------	Coord
+21	na	RR--4----------	AuxP
+22	nějž	P9ZS4---------1	Obj
+23	zapomněla	VpQW---XR-AA---	Atr
+24	upozornit	Vf--------A----	Obj
+25	-	Z:-------------	AuxG
+26	na	RR--4----------	AuxP
+27	rozdíl	NNIS4-----A----	AuxP
+28	od	RR--2----------	AuxP
+29	jiných	AAIP2----1A----	Atr
+30	paragrafů	NNIP2-----A----	Adv
+31	-	Z:-------------	AuxG
+32	při	RR--6----------	AuxP
+33	koncipování	NNNS6-----A----	Adv
+34	zmíněných	AAFP2----1A----	Atr
+35	smluv	NNFP2-----A----	Atr
+36	.	Z:-------------	AuxK
+
+ln94210-74-p7s4
+1	Je	VB-S---3P-AA---	Pred
+2	skutečně	Dg-------1A----	Adv
+3	pravda	NNFS1-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	časově	Dg-------1A----	Adv
+7	neomezená	AAFS1----1N----	Atr
+8	smlouva	NNFS1-----A----	Sb
+9	je	VB-S---3P-AA---	Sb
+10	podle	RR--2----------	AuxP
+11	občanského	AAIS2----1A----	Atr
+12	zákoníku	NNIS2-----A----	Adv
+13	vypověditelná	AAFS1----1A----	Pnom
+14	.	Z:-------------	AuxK
+
+ln94210-74-p7s5
+1	Právní	AAFS4----1A----	Atr
+2	i	J^-------------	Coord
+3	odbornou	AAFS4----1A----	Atr
+4	neznalost	NNFS4-----N----	Obj
+5	úředníků	NNMP2-----A----	Atr
+6	KB	NNFXX-----A---8	Atr
+7	dosvědčily	VpTP---XR-AA---	Pred
+8	opožděná	AAFS1----1A----	Atr
+9	konzultace	NNFS1-----A----	Sb
+10	u	RR--2----------	AuxP
+11	soukromé	AAFS2----1A----	Atr
+12	právnické	AAFS2----1A----	Atr
+13	firmy	NNFS2-----A----	Atr
+14	napojené	AAFS2----1A----	Atr
+15	na	RR--4----------	AuxP
+16	úctyhodnou	AAFS4----1A----	Atr
+17	právnickou	AAFS4----1A----	Atr
+18	fakultu	NNFS4-----A----	Obj
+19	Univerzity	NNFS2-----A----	Atr
+20	Karlovy	AUFS2M---------	Atr
+21	i	J^-------------	AuxY
+22	doložitelné	AAFP1----1A----	Atr
+23	zmatené	AAFP1----1A----	Atr
+24	informace	NNFP1-----A----	Sb
+25	pro	RR--4----------	AuxP
+26	tisk	NNIS4-----A----	Atr
+27	a	J^-------------	Coord
+28	několik	Ca--1----------	Sb
+29	výroků	NNIP2-----A----	Atr
+30	typu	NNIS2-----A----	Atr
+31	nevím	VB-S---1P-NA---	Atr
+32	v	RR--6----------	AuxP
+33	průběhu	NNIS6-----A----	AuxP
+34	aféry	NNFS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+ln94210-74-p8s1
+1	Postiženo	VsNS---XX-AP---	Pnom
+2	bylo	VpNS---XR-AA---	Pred
+3	více	Dg-------2A----	Sb
+4	než	J,-------------	AuxC
+5	osm	Cn-S1----------	Adv
+6	tisíc	ClXS2----------	Atr
+7	klientů	NNMP2-----A----	Atr
+8	se	RV--7----------	AuxP
+9	souhrnným	AAIS7----1A----	Atr
+10	vkladem	NNIS7-----A----	Atr
+11	kolem	RR--2----------	AuxP
+12	půl	ClXS2----------	Atr
+13	miliardy	NNFS2-----A----	Atr
+14	korun	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94210-74-p8s2
+1	Z	RR--2----------	AuxP
+2	hlediska	NNNS2-----A----	AuxP
+3	KB	NNFXX-----A---8	Adv
+4	i	J^-------------	Coord
+5	vývoje	NNIS2-----A----	Adv
+6	českého	AANS2----1A----	Atr
+7	bankovnictví	NNNS2-----A----	Atr
+8	jde	VB-S---3P-AA---	Pred
+9	o	RR--4----------	AuxP
+10	zanedbatelné	AANS4----1A----	Atr
+11	množství	NNNS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94210-74-p8s3
+1	Závěr	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	nicméně	J^-------------	AuxY
+4	jednoznačný	AAIS1----1A----	Pnom
+5	.	Z:-------------	AuxK
+
+ln94210-74-p8s4
+1	Občan	NNMS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	tržní	AAFS6----1A----	Atr
+4	ekonomice	NNFS6-----A----	Atr
+5	musí	VB-S---3P-AA---	Pred
+6	vždy	Db-------------	Adv
+7	spoléhat	Vf--------A----	Obj
+8	sám	PLYS1----------	Atv
+9	na	RR--4----------	AuxP
+10	sebe	P6-X4----------	Obj
+11	nebo	J^-------------	Coord
+12	na	RR--4----------	AuxP
+13	své	P8YP4---------1	Atr
+14	placené	AAMP4----1A----	Atr
+15	poradce	NNMP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94210-74-p8s5
+1	Poslední	AAFS7----1A----	Atr
+2	institucí	NNFS7-----A----	Pnom
+3	v	RR--6----------	AuxP
+4	každém	AAIS6----1A----	Atr
+5	sporu	NNIS6-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	soud	NNIS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94210-74-p8s6
+1	Český	AAIS1----1A----	Atr
+2	bankovní	AAIS1----1A----	Atr
+3	sektor	NNIS1-----A----	Sb
+4	už	Db-------------	Adv
+5	není	VB-S---3P-NA---	Pred
+6	mírumilovnou	AAFS7----1A----	Atr
+7	ovečkou	NNFS7-----A----	Pnom
+8	pasenou	AAFS7----1A----	Atr
+9	státem	NNIS7-----A----	Obj
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	po	RR--6----------	AuxP
+13	poslední	AAFS6----1A----	Atr
+14	aféře	NNFS6-----A----	ExD
+15	v	RR--6----------	AuxP
+16	KB	NNFXX-----A---8	Atr
+17	a	J^-------------	Coord
+18	několika	Ca--6----------	Atr
+19	bankrotech	NNIP6-----A----	ExD
+20	a	J^-------------	Coord
+21	bankovních	AAFP6----1A----	Atr
+22	fúzích	NNFP6-----A----	ExD
+23	stejně	Dg-------1A----	Adv
+24	chybujícím	AGNS7-----A----	Atr
+25	odvětvím	NNNS7-----A----	ExD
+26	jako	J,-------------	AuxC
+27	kterékoli	PZNS1---------1	ExD
+28	jiné	AANS1----1A----	ExD
+29	.	Z:-------------	AuxK
+

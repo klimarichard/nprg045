@@ -1,0 +1,434 @@
+ln94203-5-p1s1
+1	Nepodstatný	AAIS1----1N----	Atr
+2	pokles	NNIS1-----A----	Sb
+3	objemu	NNIS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	slibný	AAIS1----1A----	Pnom
+
+ln94203-5-p2s1A
+1	Na	RR--6----------	AuxP
+2	kotovaném	AAIS6----1A----	Atr
+3	trhu	NNIS6-----A----	Adv
+4	jasně	Dg-------1A----	Adv
+5	převládly	VpTP---XR-AA--1	Pred
+6	akcie	NNFP1-----A----	Sb
+7	s	RR--7----------	AuxP
+8	rostoucí	AGFS7-----A----	Atr
+9	cenou	NNFS7-----A----	Atr
+10	,	Z:-------------	AuxX
+11	index	NNIS1-----A----	Sb
+12	však	J^-------------	Coord
+13	klesl	VpYS---XR-AA--1	Pred
+
+ln94203-5-p2s1B
+1	Michal	NNMS1-----A----	Atr
+2	Achremenko	NNMS1-----A----	ExD
+
+ln94203-5-p2s1C
+1	Ze	RV--2----------	AuxP
+2	24	C=-------------	Atr
+3	titulů	NNIP2-----A----	Atr
+4	obchodovaných	AAIP2----1A----	Atr
+5	na	RR--6----------	AuxP
+6	trhu	NNIS6-----A----	Adv
+7	kotovaných	AAFP2----1A----	Atr
+8	akcií	NNFP2-----A----	Atr
+9	14	C=-------------	Sb
+10	včera	Db-------------	Adv
+11	vzrostlo	VpNS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	šest	Cn-S1----------	Sb
+14	zůstalo	VpNS---XR-AA---	Pred
+15	beze	RV--2----------	AuxP
+16	změn	NNFP2-----A----	Adv
+17	a	J^-------------	Coord
+18	ceny	NNFP1-----A----	Sb
+19	pouze	Db-------------	AuxZ
+20	čtyř	ClXP2----------	Atr
+21	klesly	VpTP---XR-AA--1	Pred
+22	.	Z:-------------	AuxK
+
+ln94203-5-p2s2
+1	Přesto	Dg-------1A----	Adv
+2	však	J^-------------	Coord
+3	index	NNIS1-----A----	Sb
+4	burzy	NNFS2-----A----	Atr
+5	PX	NNXXX-----A---8	Atr
+6	50	C=-------------	Atr
+7	v	RR--4----------	AuxP
+8	pondělí	NNNS4-----A----	Adv
+9	oslabil	VpYS---XR-AA---	Pred
+10	o	RR--4----------	AuxP
+11	0.65	C=-------------	Adv
+12	%	Z:-------------	Atr
+13	na	RR--4----------	AuxP
+14	717.1	C=-------------	Adv
+15	bodu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94203-5-p3s1
+1	Nejradostnější	AAFS7----3A----	Atr
+2	zprávou	NNFS7-----A----	Pnom
+3	pro	RR--4----------	AuxP
+4	investorskou	AAFS4----1A----	Atr
+5	veřejnost	NNFS4-----A----	AtrAdv
+6	,	Z:-------------	AuxX
+7	i	J^-------------	Coord
+8	pro	RR--4----------	AuxP
+9	burzu	NNFS4-----A----	AtrAdv
+10	samotnou	AAFS4----1A----	Atr
+11	,	Z:-------------	AuxX
+12	je	VB-S---3P-AA---	Pred
+13	fakt	NNIS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	včerejší	AAIS1----1A----	Atr
+17	objem	NNIS1-----A----	Sb
+18	obchodu	NNIS2-----A----	Atr
+19	dosáhl	VpYS---XR-AA---	Atr
+20	230203	C=-------------	Atr
+21	mil	NNIXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	Kč	NNFXX-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94203-5-p3s3
+1	Byl	VpYS---XR-AA---	Pred
+2	sice	Db-------------	AuxY
+3	o	RR--4----------	AuxP
+4	téměř	Db-------------	AuxZ
+5	35	C=-------------	Adv
+6	miliónů	NNIP2-----A----	Atr
+7	nižší	AAIS1----2A----	Pnom
+8	než	J,-------------	AuxC
+9	v	RR--4----------	AuxP
+10	pátek	NNIS4-----A----	ExD
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	zároveň	Db-------------	Adv
+14	o	RR--4----------	AuxP
+15	více	Dg-------2A----	Adv
+16	než	J,-------------	AuxC
+17	76	C=-------------	Adv
+18	miliónů	NNIP2-----A----	Atr
+19	vyšší	AAIS1----2A----	Pnom
+20	než	J,-------------	AuxC
+21	v	RR--4----------	AuxP
+22	pondělí	NNNS4-----A----	ExD
+23	minulý	AAIS4----1A----	Atr
+24	týden	NNIS4-----A----	ExD
+25	.	Z:-------------	AuxK
+
+ln94203-5-p3s4
+1	To	PDNS1----------	Sb
+2	dává	VB-S---3P-AA---	Pred
+3	určitou	AAFS4----1A----	Atr
+4	naději	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	obchodování	NNNS1-----A----	Sb
+8	na	RR--6----------	AuxP
+9	burze	NNFS6-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	začíná	VB-S---3P-AA---	Atr
+12	vzpamatovávat	Vf--------A----	Obj
+13	z	RR--2----------	AuxP
+14	letní	AAFS2----1A----	Atr
+15	letargie	NNFS2-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94203-5-p3s5
+1	Pokles	NNIS1-----A----	Sb
+2	indexu	NNIS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	naopak	Db-------------	Adv
+5	více	Dg-------2A----	Adv
+6	méně	Dg-------2A----	Adv
+7	zanedbatelný	AAIS1----1A----	Pnom
+8	.	Z:-------------	AuxK
+
+ln94203-5-p4s1
+1	Největší	AAIS4----3A----	Atr
+2	růst	NNIS4-----A----	Obj
+3	cen	NNFP2-----A----	Atr
+4	zaznamenaly	VpTP---XR-AA---	Pred
+5	včera	Db-------------	Adv
+6	akcie	NNFP1-----A----	Sb
+7	České	AAFS2----1A----	Atr
+8	zbrojovky	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4FP1----------	Sb
+11	zpevnily	VpTP---XR-AA---	Atr
+12	o	RR--4----------	AuxP
+13	8.47	C=-------------	Adv
+14	%	Z:-------------	Atr
+15	na	RR--4----------	AuxP
+16	3200	C=-------------	Adv
+17	Kč	NNFXX-----A----	Atr
+18	z	RR--2----------	AuxP
+19	pátečních	AAFP2----1A----	Atr
+20	2950	C=-------------	Adv
+21	.	Z:-------------	AuxK
+
+ln94203-5-p4s2
+1	U	RR--2----------	AuxP
+2	tohoto	PDZS2----------	Atr
+3	podniku	NNIS2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	však	J^-------------	Coord
+6	růst	NNIS1-----A----	Sb
+7	cen	NNFP2-----A----	Atr
+8	neměl	VpYS---XR-NA---	Pred
+9	nikoho	PWM-4----------	Obj
+10	překvapit	Vf--------A----	Obj
+11	,	Z:-------------	Coord
+12	spíše	Dg-------2A---1	Adv
+13	naopak	Db-------------	ExD
+14	.	Z:-------------	AuxK
+
+ln94203-5-p5s1
+1	Největší	AAIS4----3A----	Atr
+2	pokles	NNIS4-----A----	Obj
+3	cen	NNFP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	o	RR--4----------	AuxP
+6	7.84	C=-------------	Atr
+7	%	Z:-------------	Atr
+8	,	Z:-------------	AuxX
+9	měly	VpTP---XR-AA---	Pred
+10	včera	Db-------------	Adv
+11	akcie	NNFP1-----A----	Sb
+12	IF	NNIXX-----A---8	Atr
+13	Bohatství	NNNS1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4FP1----------	Sb
+16	klesly	VpTP---XR-AA--1	Atr
+17	z	RR--2----------	AuxP
+18	1020	C=-------------	ExD
+19	na	RR--4----------	AuxP
+20	940	C=-------------	Adv
+21	Kč	NNFXX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94203-5-p5s2
+1	Tady	Db-------------	Adv
+2	není	VB-S---3P-NA---	Pred
+3	jednoznačný	AAIS1----1A----	Atr
+4	úsudek	NNIS1-----A----	Sb
+5	na	RR--6----------	AuxP
+6	místě	NNNS6-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94203-5-p5s3
+1	Je	VB-S---3P-AA---	Pred
+2	zřetelně	Dg-------1A----	Adv
+3	vidět	Vf--------A----	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	ceny	NNFP1-----A----	Sb
+7	akcií	NNFP2-----A----	Atr
+8	investičních	AAIP2----1A----	Atr
+9	fondů	NNIP2-----A----	Atr
+10	si	P7-X3----------	Adv
+11	ještě	Db-------------	Adv
+12	nenašly	VpTP---XR-NA---	Sb
+13	svůj	P8IS4----------	Atr
+14	rovnovážný	AAIS4----1A----	Atr
+15	stav	NNIS4-----A----	Obj
+16	a	J^-------------	Coord
+17	jen	TT-------------	AuxZ
+18	velmi	Db-------------	Adv
+19	těžko	Db-------------	ExD
+20	tvrdit	Vf--------A----	ExD
+21	,	Z:-------------	AuxX
+22	kde	Db-------------	Adv
+23	by	Vc-------------	AuxV
+24	se	P7-X4----------	AuxT
+25	měly	VpTP---XR-AA---	Obj
+26	pohybovat	Vf--------A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94203-5-p5s4
+1	Podle	RR--2----------	AuxP
+2	studie	NNFS2-----A----	Adv
+3	BH	AAXXX----1A---8	Atr
+4	Securities	NNFPX-----A----	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	akcie	NNFP1-----A----	Sb
+7	fondů	NNIP2-----A----	Atr
+8	stále	Db-------------	Adv
+9	ještě	Db-------------	Adv
+10	o	RR--4----------	AuxP
+11	20	C=-------------	Adv
+12	až	J^-------------	Coord
+13	80	C=-------------	Adv
+14	%	Z:-------------	Atr
+15	podhodnoceny	VsTP---XX-AP---	Pnom
+16	,	Z:-------------	Coord
+17	otázkou	NNFS7-----A----	Pnom
+18	je	VB-S---3P-AA---	Pred
+19	,	Z:-------------	AuxX
+20	jak	Db-------------	Adv
+21	dlouho	Dg-------1A----	Adv
+22	jim	PPXP3--3-------	Obj
+23	bude	VB-S---3F-AA---	AuxV
+24	vzestup	NNIS1-----A----	Sb
+25	na	RR--4----------	AuxP
+26	skutečnou	AAFS4----1A----	Atr
+27	tržní	AAFS4----1A----	Atr
+28	hodnotu	NNFS4-----A----	Atr
+29	trvat	Vf--------A----	Sb
+30	,	Z:-------------	AuxX
+31	nebo	J^-------------	Coord
+32	zda	J,-------------	AuxC
+33	je	VB-S---3P-AA---	Sb
+34	vůbec	Db-------------	Adv
+35	tak	Db-------------	Adv
+36	vysoká	AAFS1----1A----	Pnom
+37	v	RR--6----------	AuxP
+38	očích	NNFP6-----A----	Adv
+39	českých	AAMP2----1A----	Atr
+40	investorů	NNMP2-----A----	Atr
+41	.	Z:-------------	AuxK
+
+ln94203-5-p6s1
+1	Přímé	AAIP1----1A----	Atr
+2	obchody	NNIP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	odehrály	VpTP---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	objemu	NNIS6-----A----	Adv
+7	150119	C=-------------	Atr
+8	mil	NNIXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Kč	NNFXX-----A----	Atr
+11	s	RR--7----------	AuxP
+12	deseti	Cn-P7----------	Atr
+13	emisemi	NNFP7-----A----	Adv
+14	cenných	AAIP2----1A----	Atr
+15	papírů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94203-5-p6s3
+1	Tentokrát	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	neobjevilo	VpNS---XR-NA---	Pred
+4	žádné	PWNS1----------	Atr
+5	překvapení	NNNS1-----A----	Sb
+6	,	Z:-------------	Coord
+7	snad	Db-------------	AuxY
+8	jen	TT-------------	AuxZ
+9	to	PDNS1----------	Sb
+10	stojí	VB-S---3P-AA---	Pred
+11	za	RR--4----------	AuxP
+12	zaznamenání	NNNS4-----A----	Adv
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	se	P7-X4----------	AuxT
+16	mezi	RR--7----------	AuxP
+17	nimi	P5XP7--3-------	Adv
+18	objevily	VpTP---XR-AA---	Atr
+19	akcie	NNFP1-----A----	Sb
+20	Teplotechny	NNFS2-----A----	Atr
+21	Ostrava	NNFS1-----A----	Atr
+22	v	RR--6----------	AuxP
+23	objemu	NNIS6-----A----	Adv
+24	2466	C=-------------	Atr
+25	mil	NNIXX-----A---8	Atr
+26	.	Z:-------------	AuxG
+27	Kč	NNFXX-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94203-5-p6s5
+1	Nejobchodovanějšími	AAFP7----3A----	Pnom
+2	byly	VpTP---XR-AA---	Pred
+3	v	RR--6----------	AuxP
+4	objemu	NNIS6-----A----	Adv
+5	přes	RR--4----------	AuxP
+6	42	C=-------------	Atr
+7	miliónů	NNIP2-----A----	Atr
+8	akcie	NNFP1-----A----	Sb
+9	ČEZ	NNIPX-----A---8	Atr
+10	za	RR--4----------	AuxP
+11	poněkud	Db-------------	Adv
+12	vyšší	AAFS4----2A----	Atr
+13	cenu	NNFS4-----A----	Adv
+14	než	J,-------------	AuxC
+15	v	RR--6----------	AuxP
+16	automatickém	AAIS6----1A----	Atr
+17	obchodním	AAIS6----1A----	Atr
+18	systému	NNIS6-----A----	ExD
+19	.	Z:-------------	AuxK
+
+ln94203-5-p6s6
+1	Rozdíl	NNIS1-----A----	Sb
+2	činil	VpYS---XR-AA---	Pred
+3	ve	RV--4----------	AuxP
+4	prospěch	NNIS4-----A----	AuxP
+5	přímých	AAIP2----1A----	Atr
+6	obchodů	NNIP2-----A----	Adv
+7	63	C=-------------	Obj
+8	korun	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94203-5-p7s1
+1	Neúnavný	AAIS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	zájem	NNIS1-----A----	Sb
+4	o	RR--4----------	AuxP
+5	akcie	NNFP4-----A----	Atr
+6	ČEZ	NNIPX-----A---8	Atr
+7	i	J^-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	přímých	AAIP6----1A----	Atr
+10	obchodech	NNIP6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	kde	Db-------------	Adv
+13	se	P7-X4----------	AuxT
+14	,	Z:-------------	AuxX
+15	co	Db-------------	AuxP
+16	do	RR--2----------	AuxP
+17	objemu	NNIS2-----A----	Adv
+18	,	Z:-------------	AuxX
+19	umístily	VpTP---XR-AA---	Atr
+20	s	RR--7----------	AuxP
+21	15837	C=-------------	Atr
+22	mil	NNIXX-----A---8	Adv
+23	.	Z:-------------	AuxG
+24	Kč	NNFXX-----A----	Atr
+25	na	RR--6----------	AuxP
+26	prvním	CrNS6----------	Atr
+27	místě	NNNS6-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln94203-5-p8s1
+1	Na	RR--6----------	AuxP
+2	druhém	CrNS6----------	Atr
+3	místě	NNNS6-----A----	Adv
+4	žebříčku	NNIS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	umístily	VpTP---XR-AA---	Pred
+7	už	Db-------------	Adv
+8	zmíněné	AAFP1----1A----	Atr
+9	akcie	NNFP1-----A----	Sb
+10	České	AAFS2----1A----	Atr
+11	Zbrojovky	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94203-5-p8s2
+1	Následuje	VB-S---3P-AA---	Pred
+2	HIF	NNIXX-----A---8	Sb
+3	Dividendový	AAIS1----1A----	Atr
+4	v	RR--6----------	AuxP
+5	objemu	NNIS6-----A----	Adv
+6	3850	C=-------------	Atr
+7	mil	NNIXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Kč	NNFXX-----A----	Atr
+10	v	RR--6----------	AuxP
+11	kurzu	NNIS6-----A---1	Adv
+12	660	C=-------------	Atr
+13	za	RR--4----------	AuxP
+14	akcii	NNFS4-----A----	Atr
+15	.	Z:-------------	AuxK
+

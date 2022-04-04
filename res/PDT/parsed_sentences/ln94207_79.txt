@@ -1,0 +1,3187 @@
+ln94207-79-p1s1
+1	Berlín	NNIS1-----A----	ExD
+2	-	Z:-------------	Coord
+3	vznětlivý	AAIS1----1A----	Atr
+4	článek	NNIS1-----A----	ExD
+5	německé	AAFS2----1A----	Atr
+6	jednoty	NNFS2-----A----	Atr
+
+ln94207-79-p2s1
+1	Lidi	NNMP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	Východu	NNIS2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Obj
+5	směšní	AAMP1----1A----	Pnom
+6	,	Z:-------------	Coord
+7	poznáš	VB-S---2P-AA---	Obj
+8	je	PPXP4--3-------	Obj
+9	na	RR--4----------	AuxP
+10	první	CrIS4----------	Atr
+11	pohled	NNIS4-----A----	Adv
+12	,	Z:-------------	AuxX
+13	říká	VB-S---3P-AA---	Pred
+14	Západoberlíňan	NNMS1-----A----	Atr
+15	Martin	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94207-79-p3s1A
+1	Kamila	NNFS1-----A----	Atr
+2	Pojslová	NNFS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	Berlín	NNIS1-----A----	ExD
+
+ln94207-79-p3s1B
+1	GRAF	NNIS1-----A----	ExD
+
+ln94207-79-p3s1C
+1	Rok	NNIS4-----A----	Adv
+2	poté	Db-------------	Atr
+3	,	Z:-------------	AuxX
+4	co	J,-------------	AuxC
+5	v	RR--6----------	AuxP
+6	listopadu	NNIS6-----A----	Adv
+7	1989	C=-------------	Atr
+8	padla	VpQW---XR-AA--1	Atr
+9	berlínská	AAFS1----1A----	Atr
+10	zeď	NNFS1-----A----	Sb
+11	,	Z:-------------	Apos
+12	v	RR--6----------	AuxP
+13	době	NNFS6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	kdy	Db-------------	Adv
+16	vstoupila	VpQW---XR-AA---	Atr
+17	v	RR--4----------	AuxP
+18	platnost	NNFS4-----A----	Obj
+19	smlouva	NNFS1-----A----	Sb
+20	o	RR--6----------	AuxP
+21	německém	AANS6----1A----	Atr
+22	sjednocení	NNNS6-----A----	Atr
+23	,	Z:-------------	AuxX
+24	se	P7-X4----------	AuxT
+25	v	RR--6----------	AuxP
+26	Berliner	AAXXX----1A----	Atr
+27	Zeitung	NNFPX-----A----	Adv
+28	poprvé	Cv-------------	Adv
+29	objevila	VpQW---XR-AA---	Pred
+30	karikatura	NNFS1-----A----	Sb
+31	,	Z:-------------	AuxX
+32	která	P4FS1----------	Sb
+33	se	P7-X4----------	AuxT
+34	pro	RR--4----------	AuxP
+35	pozdější	AAFS4----2A----	Atr
+36	dobu	NNFS4-----A----	Adv
+37	stala	VpQW---XR-AA---	Atr
+38	zaklínadlem	NNNS7-----A----	Obj
+39	:	Z:-------------	AuxK
+
+ln94207-79-p3s1D
+1	Zeď	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Obj
+3	sice	Db-------------	AuxY
+4	pryč	Db-------------	Adv
+5	,	Z:-------------	AuxX
+6	oznamovala	VpQW---XR-AA---	Pred
+7	kresba	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	zanechala	VpQW---XR-AA---	Obj
+11	za	RR--7----------	AuxP
+12	sebou	P6-X7----------	Adv
+13	rozšklebený	AAIS4----1A----	Atr
+14	kráter	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94207-79-p3s2
+1	Kráter	NNIS4-----A----	ExD
+2	mezi	RR--7----------	AuxP
+3	německým	AAIS7----1A----	Atr
+4	západem	NNIS7-----A----	Atr
+5	a	J^-------------	Coord
+6	východem	NNIS7-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94207-79-p3s3
+1	Po	RR--6----------	AuxP
+2	letošních	AAFP6----1A----	Atr
+3	volbách	NNFP6-----A----	Adv
+4	do	RR--2----------	AuxP
+5	Evropského	AAIS2----1A----	Atr
+6	parlamentu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kdy	Db-------------	Adv
+9	ve	RV--6----------	AuxP
+10	východním	AAIS6----1A----	Atr
+11	Berlíně	NNIS6-----A----	Adv
+12	s	RR--7----------	AuxP
+13	nečekanou	AAFS7----1N----	Atr
+14	převahou	NNFS7-----A----	Adv
+15	zvítězila	VpQW---XR-AA---	Atr
+16	postkomunistická	AAFS1----1A----	Atr
+17	PDS	NNFXX-----A---8	Sb
+18	,	Z:-------------	AuxX
+19	německý	AAIS1----1A----	Atr
+20	tisk	NNIS1-----A----	Sb
+21	prohlásil	VpYS---XR-AA---	Pred
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	se	P7-X4----------	AuxR
+25	tato	PDFS1----------	Atr
+26	propast	NNFS1-----A----	Sb
+27	ještě	Db-------------	Adv
+28	prohloubila	VpQW---XR-AA---	Obj
+29	.	Z:-------------	AuxK
+
+ln94207-79-p4s1A
+1	Ti	PDMP1----------	Sb
+2	,	Z:-------------	AuxX
+3	co	P4XXX----------	Sb
+4	v	RR--6----------	AuxP
+5	Berlíně	NNIS6-----A----	Adv
+6	nepíší	VB-P---3P-NA--1	Atr
+7	články	NNIP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	svoje	P8XP4----------	Atr
+11	vlastní	AAIP4----1A----	Atr
+12	životy	NNIP4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	mohou	VB-P---3P-AA--1	Pred
+15	oponovat	Vf--------A----	Obj
+16	významnými	AAFP7----1A----	Atr
+17	drobnostmi	NNFP7-----A----	Adv
+18	:	Z:-------------	AuxK
+
+ln94207-79-p4s1B
+1	Že	J,-------------	AuxC
+2	S	NNXXX-----A---8	Atr
+3	-	Z:-------------	AuxG
+4	Bahn	NNIS1-----A----	Sb
+5	šinoucí	AGIS1-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	brzy	Dg-------1A----	Adv
+8	ráno	Db-------------	Adv
+9	z	RR--2----------	AuxP
+10	Alexanderplatzu	NNIS2-----A----	Adv
+11	dál	Dg-------2A----	Adv
+12	západním	AAIS7----1A----	Atr
+13	směrem	NNIS7-----A----	Adv
+14	(	Z:-------------	AuxG
+15	a	J^-------------	Coord
+16	naopak	Db-------------	Adv
+17	)	Z:-------------	AuxG
+18	kolíbá	VB-S---3P-AA---	Pred
+19	mačkanici	NNFS4-----A----	Obj
+20	pracantů	NNMP2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	kterým	P4XP3----------	Adv
+23	tato	PDFS1----------	Atr
+24	trasa	NNFS1-----A----	Sb
+25	po	RR--6----------	AuxP
+26	čtyřech	ClXP6----------	Atr
+27	letech	NNNP6-----A----	Adv
+28	přijde	VB-S---3P-AA---	Atr
+29	samozřejmá	AAFS1----1A----	Obj
+30	.	Z:-------------	AuxK
+
+ln94207-79-p4s2
+1	Že	J,-------------	AuxC
+2	mnohé	AAFP4----1A----	Atr
+3	východní	AAFP4----1A----	Atr
+4	ulice	NNFP4-----A----	Obj
+5	rozeznáte	VB-P---2P-AA---	Pred
+6	od	RR--2----------	AuxP
+7	západních	AAFP2----1A----	ExD
+8	právě	Db-------------	AuxZ
+9	jen	TT-------------	AuxZ
+10	podle	RR--2----------	AuxP
+11	polohy	NNFS2-----A----	Adv
+12	v	RR--6----------	AuxP
+13	plánku	NNIS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94207-79-p5s1
+1	Jak	J,-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	to	PDNS1----------	Sb
+4	s	RR--7----------	AuxP
+5	propastí	NNFS7-----A----	Adv
+6	doopravdy	Db-------------	Adv
+7	-	Z:-------------	Coord
+8	jestli	J,-------------	AuxC
+9	je	VB-S---3P-AA---	Obj
+10	a	J^-------------	Coord
+11	kolik	C?--4----------	Adv
+12	měří	VB-S---3P-AA---	Obj
+13	-	Z:-------------	AuxG
+14	vědí	VB-P---3P-AA--1	Pred
+15	přesně	Dg-------1A----	Adv
+16	snad	Db-------------	AuxY
+17	jen	TT-------------	AuxZ
+18	andělé	NNMP1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	které	P4YP4----------	Obj
+21	na	RR--6----------	AuxP
+22	berlínském	AANS6----1A----	Atr
+23	nebi	NNNS6-----A----	Adv
+24	v	RR--6----------	AuxP
+25	roce	NNIS6-----A---1	Adv
+26	1987	C=-------------	Atr
+27	odhalil	VpYS---XR-AA---	Atr
+28	ve	RV--6----------	AuxP
+29	svém	P8ZS6----------	Atr
+30	filmu	NNIS6-----A----	Adv
+31	Nebe	NNNS1-----A----	Atr
+32	nad	RR--7----------	AuxP
+33	Berlínem	NNIS7-----A----	Atr
+34	režisér	NNMS1-----A----	Atr
+35	Wim	NNMS1-----A----	Atr
+36	Wenders	NNMS1-----A----	Sb
+37	.	Z:-------------	AuxK
+
+ln94207-79-p6s1
+1	V	RR--6----------	AuxP
+2	Berlíně	NNIS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	bourá	VB-S---3P-AA---	Pred
+5	a	J^-------------	Coord
+6	staví	VB-S---3P-AA---	Pred
+7	.	Z:-------------	AuxK
+
+ln94207-79-p6s2
+1	Zatímco	J,-------------	AuxC
+2	potulný	AAMS1----1A----	Atr
+3	Ital	NNMS1-----A----	Sb
+4	si	P7-X3----------	AuxT
+5	sípavým	AAIS7----1A----	Atr
+6	hlasem	NNIS7-----A----	Adv
+7	říká	VB-S---3P-AA---	Adv
+8	klidně	Dg-------1A----	Adv
+9	o	RR--4----------	AuxP
+10	celých	AAFP2----1A----	Atr
+11	60	C=-------------	Obj
+12	marek	NNFP2-----A----	Atr
+13	za	RR--4----------	AuxP
+14	jakoby	Db-------------	AuxZ
+15	poslední	AAIP4----1A----	Atr
+16	kusy	NNIP4-----A----	Atr
+17	pomalované	AAFS2----1A----	Atr
+18	berlínské	AAFS2----1A----	Atr
+19	zdi	NNFS2-----A----	Atr
+20	,	Z:-------------	Coord
+21	zatímco	J,-------------	AuxC
+22	squateři	NNMP1-----A----	Sb
+23	-	Z:-------------	Apos
+24	děvčata	NNNP1-----A----	Sb
+25	a	J^-------------	Coord
+26	chlapci	NNMP1-----A----	Sb
+27	,	Z:-------------	AuxX
+28	kteří	P4MP1----------	Sb
+29	svobodomyslně	Dg-------1A----	Adv
+30	obsadili	VpMP---XR-AA---	Atr
+31	téměř	Db-------------	AuxZ
+32	stovku	NNFS4-----A----	Obj
+33	východoberlínských	AAIP2----1A----	Atr
+34	domů	NNIP2-----A----	Atr
+35	-	Z:-------------	AuxG
+36	stříkají	VB-P---3P-AA---	Adv
+37	více	Dg-------2A----	Obj
+38	červené	AAFS2----1A----	ExD
+39	na	RR--4----------	AuxP
+40	šedou	AAFS4----1A----	Atr
+41	omítku	NNFS4-----A----	Adv
+42	a	J^-------------	Coord
+43	zlořečí	VB-P---3P-AA---	Adv
+44	konzumu	NNIS3-----A----	Obj
+45	,	Z:-------------	AuxX
+46	v	RR--6----------	AuxP
+47	Berlíně	NNIS6-----A----	Adv
+48	se	P7-X4----------	AuxR
+49	bourá	VB-S---3P-AA---	Pred
+50	a	J^-------------	Coord
+51	staví	VB-S---3P-AA---	Pred
+52	.	Z:-------------	AuxK
+
+ln94207-79-p7s1
+1	Sbíječky	NNFP1-----A----	Sb
+2	a	J^-------------	Coord
+3	majzlíky	NNIP1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	berlínských	AAFP6----1A----	Atr
+6	ulicích	NNFP6-----A----	Adv
+7	tepají	VB-P---3P-AA---	Pred
+8	dějiny	NNFP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94207-79-p7s2
+1	Ra	II-------------	ExD
+2	-	Z:-------------	AuxG
+3	ta	II-------------	ExD
+4	-	Z:-------------	Coord
+5	ta	II-------------	ExD
+6	.	Z:-------------	AuxK
+
+ln94207-79-p8s1
+1	Rozbíjejí	VB-P---3P-AA---	Pred
+2	staré	AAFP4----1A----	Atr
+3	silnice	NNFP4-----A----	Obj
+4	a	J^-------------	Coord
+5	domy	NNIP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	jako	J,-------------	AuxC
+8	by	Vc-------------	AuxV
+9	chtěly	VpTP---XR-AA---	Adv
+10	staronové	AANS4----1A----	Atr
+11	německé	AANS4----1A----	Atr
+12	hlavní	AANS4----1A----	Atr
+13	město	NNNS4-----A----	Obj
+14	odčarovat	Vf--------A----	Obj
+15	ze	RV--2----------	AuxP
+16	zakletí	NNNS2-----A----	Adv
+17	Hitlerových	AUIP2M---------	Atr
+18	,	Z:-------------	AuxX
+19	Pieckových	AUIP2M---------	Atr
+20	,	Z:-------------	AuxX
+21	Ulbrichtových	AUIP2M---------	Atr
+22	a	J^-------------	Coord
+23	Honeckerových	AUIP2M---------	Atr
+24	časů	NNIP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94207-79-p8s2
+1	Plány	NNIP1-----A----	Sb
+2	výstavby	NNFS2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	potřeby	NNFP4-----A----	Atr
+5	Spolkového	AAIS2----1A----	Atr
+6	sněmu	NNIS2-----A----	Atr
+7	a	J^-------------	Coord
+8	vlády	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	má	VB-S---3P-AA---	Atr
+12	do	RR--2----------	AuxP
+13	tříapůlmilionové	AAFS2----1A----	Atr
+14	metropole	NNFS2-----A----	Adv
+15	přesídlit	Vf--------A----	Obj
+16	do	RR--2----------	AuxP
+17	konce	NNIS2-----A----	Adv
+18	tisíciletí	NNNS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	jsou	VB-P---3P-AA---	Pred
+21	velkolepé	AAIP1----1A----	Pnom
+22	.	Z:-------------	AuxK
+
+ln94207-79-p8s3
+1	Noviny	NNFP1-----A----	Sb
+2	Berliner	AAXXX----1A----	Atr
+3	Zeitung	NNFPX-----A----	Atr
+4	napočítaly	VpTP---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	půlce	NNFS6-----A----	Adv
+7	srpna	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	berlínském	AANS6----1A----	Atr
+10	centru	NNNS6-----A----	Adv
+11	200	C=-------------	Obj
+12	stavenišť	NNNP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94207-79-p9s1
+1	Starosta	NNMS1-----A----	Atr
+2	Eberhard	NNMS1-----A----	Atr
+3	Diepgen	NNMS1-----A----	Sb
+4	přiřkl	VpYS---XR-AA--1	Pred
+5	svému	P8ZS3----------	Atr
+6	městu	NNNS3-----A----	Obj
+7	přídomek	NNIS4-----A----	Obj
+8	Werkstatt	NNIXX-----A----	Atr
+9	der	AAXXX----1A----	Atr
+10	deutschen	AAXXX----1A----	Atr
+11	Einheit	NNFXX-----A----	Atr
+12	-	Z:-------------	AuxG
+13	tedy	Db-------------	Apos
+14	dílna	NNFS1-----A----	Atr
+15	nebo	J^-------------	Coord
+16	možná	Db-------------	ExD
+17	ještě	Db-------------	Adv
+18	lépe	Dg-------2A----	ExD
+19	zkušebna	NNFS1-----A----	Atr
+20	německé	AAFS2----1A----	Atr
+21	jednoty	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94207-79-p10s1
+1	Berlín	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	se	RV--7----------	AuxP
+4	svou	P8FS7---------1	Atr
+5	západní	AAFS7----1A----	Atr
+6	a	J^-------------	Coord
+7	východní	AAFS7----1A----	Atr
+8	částí	NNFS7-----A----	Adv
+9	opravdu	Db-------------	Adv
+10	jakýmsi	PZZS7----------	Atr
+11	Německem	NNNS7-----A----	Pnom
+12	v	RR--6----------	AuxP
+13	malém	AANS6----1A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94207-79-p10s2
+1	Stejně	Dg-------1A----	Adv
+2	jako	J,-------------	AuxC
+3	dřív	Dg-------2A---2	Adv
+4	polopaticky	Dg-------1A----	Adv
+5	znázorňoval	VpYS---XR-AA---	Adv
+6	rozdělení	NNNS4-----A----	Obj
+7	národa	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	i	J^-------------	AuxZ
+11	světa	NNIS2-----A----	Atr
+12	do	RR--2----------	AuxP
+13	nepřátelských	AAIP2----1N----	Atr
+14	a	J^-------------	Coord
+15	navzájem	Db-------------	Adv
+16	si	P7-X3----------	Obj
+17	neznámých	AAIP2----1N----	Atr
+18	bloků	NNIP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	je	VB-S---3P-AA---	Pred
+21	teď	Db-------------	Adv
+22	přesvědčivou	AAFS7----1A----	Atr
+23	ukázkou	NNFS7-----A----	Pnom
+24	jeho	PSXXXZS3-------	Atr
+25	mnohdy	Db-------------	Adv
+26	ne	TT-------------	AuxZ
+27	bezbolestného	AANS2----1A----	Atr
+28	spojování	NNNS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94207-79-p10s3
+1	Autoři	NNMP1-----A----	Sb
+2	průvodců	NNMP2-----A----	Atr
+3	píší	VB-P---3P-AA--1	Pred
+4	o	RR--6----------	AuxP
+5	fascinujícím	AGNS6-----A----	Atr
+6	místě	NNNS6-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	si	P7-X3----------	AuxT
+10	každý	AAMS1----1A----	Sb
+11	může	VB-S---3P-AA---	Atr
+12	osahat	Vf--------A----	Obj
+13	prolínání	NNNS4-----A----	Obj
+14	Východu	NNIS2-----A----	Atr
+15	a	J^-------------	Coord
+16	Západu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94207-79-p10s4
+1	Jako	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	vykřikovali	VpMP---XR-AA---	Pred
+4	:	Z:-------------	AuxG
+5	Ještě	Db-------------	AuxZ
+6	ne	TT-------------	ExD
+7	na	RR--6----------	AuxP
+8	světové	AAFS6----1A----	Atr
+9	úrovni	NNFS6-----A----	ExD
+10	,	Z:-------------	AuxX
+11	a	J^-------------	Coord
+12	právě	Db-------------	AuxZ
+13	proto	J^-------------	ExD
+14	tak	Db-------------	Adv
+15	rozkošně	Dg-------1A----	Adv
+16	živoucí	AANS1----1A----	ExD
+17	.	Z:-------------	AuxK
+
+ln94207-79-p11s1
+1	V	RR--6----------	AuxP
+2	Berlíně	NNIS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	bourá	VB-S---3P-AA---	Pred
+5	a	J^-------------	Coord
+6	staví	VB-S---3P-AA---	Pred
+7	.	Z:-------------	AuxK
+
+ln94207-79-p11s2
+1	Porážejí	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	mnohé	AAIP1----1A----	Atr
+4	lidské	AAIP1----1A----	Atr
+5	osudy	NNIP1-----A----	Sb
+6	a	J^-------------	Coord
+7	rodí	VB-P---3P-AA---	Pred
+8	se	P7-X4----------	AuxT
+9	nové	AAIP1----1A----	ExD
+10	.	Z:-------------	AuxK
+
+ln94207-79-p11s3
+1	Pokud	J,-------------	AuxC
+2	je	VB-S---3P-AA---	Adv
+3	Berlín	NNIS1-----A----	Sb
+4	opravdu	Db-------------	Adv
+5	dílnou	NNFS7-----A----	Pnom
+6	německé	AAFS2----1A----	Atr
+7	jednoty	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	zdá	VB-S---3P-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	se	P7-X4----------	AuxT
+14	Němci	NNMP1-----A----	Sb
+15	rozhodli	VpMP---XR-AA--1	Sb
+16	do	RR--2----------	AuxP
+17	lepší	AAFS2----2A----	Atr
+18	budoucnosti	NNFS2-----A----	Adv
+19	prostavět	Vf--------A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94207-79-p12s1
+1	Jako	J,-------------	AuxC
+2	třeba	Db-------------	AuxZ
+3	Ralf	NNMS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+ln94207-79-p13s1A
+1	Ralf	NNMS1-----A----	Sb
+2	staví	VB-S---3P-AA---	Pred
+3	a	J^-------------	Coord
+4	kupuje	VB-S---3P-AA---	Pred
+
+ln94207-79-p13s1B
+1	Osmačtyřicetiletý	AAMS1----1A----	Atr
+2	stavební	AAMS1----1A----	Atr
+3	dělník	NNMS1-----A----	Sb
+4	,	Z:-------------	Apos
+5	Východoberlíňan	NNMS1-----A----	Atr
+6	Ralf	NNMS1-----A----	Atr
+7	Schmidt	NNMS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	již	Db-------------	Adv
+10	zažil	VpYS---XR-AA---	Pred
+11	mnohé	AANS4----1A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94207-79-p13s2
+1	Jako	J,-------------	AuxY
+2	dvacetiletý	AAMS1----1A----	AtvV
+3	koncem	NNIS7-----A----	AuxP
+4	šedesátých	CrNP2----------	Atr
+5	let	NNNP2-----A----	Adv
+6	pomáhal	VpYS---XR-AA---	Pred
+7	při	RR--6----------	AuxP
+8	dokončovacích	AAFP6----1A----	Atr
+9	pracích	NNFP6-----A----	Adv
+10	na	RR--6----------	AuxP
+11	stavbě	NNFS6-----A----	Atr
+12	televizní	AAFS2----1A----	Atr
+13	věže	NNFS2-----A----	Atr
+14	na	RR--6----------	AuxP
+15	Alexanderplatzu	NNIS6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94207-79-p13s3
+1	Pamatuje	VB-S---3P-AA---	Pred
+2	velmi	Db-------------	Adv
+3	dobře	Dg-------1A----	Adv
+4	na	RR--4----------	AuxP
+5	zděšení	NNNS4-----A----	Obj
+6	Ulbrichtova	AUIS2M---------	Atr
+7	režimu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	když	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	do	RR--2----------	AuxP
+12	kopule	NNFS2-----A----	Adv
+13	věže	NNFS2-----A----	Atr
+14	poprvé	Cv-------------	Adv
+15	opřelo	VpNS---XR-AA---	Atr
+16	slunce	NNNS1-----A----	Sb
+17	a	J^-------------	Coord
+18	vykouzlilo	VpNS---XR-AA---	Atr
+19	na	RR--6----------	AuxP
+20	stříbřitém	AAIS6----1A----	Atr
+21	plechu	NNIS6-----A----	Adv
+22	nepřehlédnutelný	AAIS4----1N----	Atr
+23	zlatý	AAIS4----1A----	Atr
+24	kříž	NNIS4-----A----	Obj
+25	nad	RR--7----------	AuxP
+26	Berlínem	NNIS7-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94207-79-p13s4
+1	Před	RR--7----------	AuxP
+2	čtyřmi	ClXP7----------	Atr
+3	lety	NNNP7-----A----	Adv
+4	Ralfa	NNMS4-----A----	Obj
+5	zaměstnávala	VpQW---XR-AA---	Pred
+6	firma	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	pomáhala	VpQW---XR-AA---	Atr
+10	bundeswehru	NNIS3-----A----	Obj
+11	demontovat	Vf--------A----	Obj
+12	Berlínskou	AAFS4----1A----	Atr
+13	zeď	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94207-79-p13s5
+1	Betonové	AAIP1----1A----	Atr
+2	díly	NNIP1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	pak	Db-------------	Adv
+5	zužitkovaly	VpTP---XR-AA---	Pred
+6	při	RR--6----------	AuxP
+7	stavbě	NNFS6-----A----	Adv
+8	silnic	NNFP2-----A----	Atr
+9	mezi	RR--7----------	AuxP
+10	západním	AAIS7----1A----	Atr
+11	a	J^-------------	Coord
+12	východním	AAIS7----1A----	Atr
+13	Berlínem	NNIS7-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94207-79-p13s6
+1	Rozhodnuto	VsNS---XX-AP---	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	o	RR--6----------	AuxP
+5	Ralfově	AUFS6M---------	Atr
+6	příští	AAFS6----1A----	Atr
+7	štaci	NNFS6-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94207-79-p13s7
+1	Bude	VB-S---3F-AA---	AuxV
+2	zvelebovat	Vf--------A----	Pred
+3	Potsdamer	AAXXX----1A----	Atr
+4	Platz	NNIXX-----A----	Obj
+5	,	Z:-------------	Apos
+6	nynější	AAFS4----1A----	Atr
+7	planinu	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	kterou	P4FS4----------	Obj
+10	protínala	VpQW---XR-AA---	Atr
+11	Zeď	NNFS1-----A----	Sb
+12	a	J^-------------	Coord
+13	která	P4FS1----------	Sb
+14	prý	TT-------------	AuxY
+15	byla	VpQW---XR-AA---	Atr
+16	ve	RV--6----------	AuxP
+17	30	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	letech	NNNP6-----A----	Adv
+20	nejrušnějším	AANS7----3A----	Atr
+21	místem	NNNS7-----A----	Pnom
+22	Evropy	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94207-79-p14s1A
+1	Ralf	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	pyšný	AAMS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	si	P7-X3----------	Adv
+7	vybral	VpYS---XR-AA---	Adv
+8	tak	Db-------------	Adv
+9	šikovné	AANS4----1A----	Atr
+10	povolání	NNNS4-----A----	Obj
+11	:	Z:-------------	AuxK
+
+ln94207-79-p14s1B
+1	Zedníci	NNMP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Obj
+3	teď	Db-------------	Adv
+4	velmi	Db-------------	Adv
+5	potřební	AAMP1----1A----	Pnom
+6	,	Z:-------------	AuxX
+7	říká	VB-S---3P-AA---	Pred
+8	.	Z:-------------	AuxK
+
+ln94207-79-p14s2
+1	S	RR--7----------	AuxP
+2	čím	PQ--7----------	Obj
+3	se	P7-X4----------	AuxT
+4	však	J^-------------	Coord
+5	ještě	Db-------------	Adv
+6	nevyrovnal	VpYS---XR-NA---	Sb
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Pred
+9	fakt	NNIS1-----A----	Pnom
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	jako	J,-------------	AuxY
+13	Východoberlíňan	NNMS1-----A----	AtvV
+14	vydělá	VB-S---3P-AA---	Atr
+15	měsíčně	Dg-------1A----	Adv
+16	kolem	RR--2----------	AuxP
+17	3000	C=-------------	Atr
+18	DM	NNFXX-----A---8	Adv
+19	,	Z:-------------	AuxX
+20	tedy	Db-------------	Apos
+21	skoro	Db-------------	AuxZ
+22	o	RR--4----------	AuxP
+23	tisíc	NNIS4-----A----	Adv
+24	méně	Dg-------2A----	Adv
+25	než	J,-------------	AuxC
+26	dělník	NNMS1-----A----	ExD
+27	v	RR--6----------	AuxP
+28	západní	AAFS6----1A----	Atr
+29	části	NNFS6-----A----	Atr
+30	města	NNNS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94207-79-p14s3
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Obj
+3	pro	RR--4----------	AuxP
+4	mě	PH-S4--1-------	Adv
+5	důkaz	NNIS1-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	město	NNNS1-----A----	Sb
+9	ještě	Db-------------	Adv
+10	není	VB-S---3P-NA---	Atr
+11	úplně	Dg-------1A----	Adv
+12	spojené	AANS1----1A----	Pnom
+13	,	Z:-------------	AuxX
+14	dodává	VB-S---3P-AA---	Pred
+15	s	RR--7----------	AuxP
+16	jistou	AAFS7----1A----	Atr
+17	dávkou	NNFS7-----A----	Adv
+18	hořkosti	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94207-79-p14s4
+1	Stejné	AANS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	to	PDNS1----------	Sb
+4	i	J^-------------	AuxZ
+5	s	RR--7----------	AuxP
+6	řidiči	NNMP7-----A----	Adv
+7	metra	NNNS2-----A----	Atr
+8	a	J^-------------	Coord
+9	S	NNXXX-----A---8	Atr
+10	-	Z:-------------	AuxG
+11	Bahnu	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94207-79-p14s5
+1	Ti	PDMP1----------	Sb
+2	,	Z:-------------	AuxX
+3	co	P4XXX----------	Sb
+4	mají	VB-P---3P-AA---	Atr
+5	depo	NNNS4-----A----	Obj
+6	ve	RV--6----------	AuxP
+7	východní	AAFS6----1A----	Atr
+8	části	NNFS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	dostávají	VB-P---3P-AA---	Pred
+11	80	C=-------------	Obj
+12	procent	NNNP2-----A----	Atr
+13	mzdy	NNFS2-----A----	Atr
+14	západních	AAMP2----1A----	Atr
+15	řidičů	NNMP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94207-79-p14s6
+1	To	PDNS1----------	Adv
+2	přece	Db-------------	AuxY
+3	není	VB-S---3P-NA---	Pred
+4	rovnost	NNFS1-----A----	Pnom
+5	,	Z:-------------	AuxG
+6	že	J,-------------	AuxO
+7	?	Z:-------------	AuxK
+
+ln94207-79-p15s1
+1	Příjmy	NNIP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	díky	RR--3----------	AuxP
+4	lepším	AAIP3----2A----	Atr
+5	hospodářským	AAIP3----1A----	Atr
+6	výsledkům	NNIP3-----A----	Adv
+7	v	RR--6----------	AuxP
+8	západní	AAFS6----1A----	Atr
+9	části	NNFS6-----A----	Adv
+10	vyšší	AAIP1----2A----	Pnom
+11	.	Z:-------------	AuxK
+
+ln94207-79-p15s2
+1	Krácení	NNNS4-----A----	Obj
+2	platů	NNIP2-----A----	Atr
+3	východním	AAMP3----1A----	Atr
+4	zaměstnancům	NNMP3-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	veřejných	AAFP6----1A----	Atr
+7	službách	NNFP6-----A----	Atr
+8	zaštiťuje	VB-S---3P-AA---	Pred
+9	odborová	AAFS1----1A----	Atr
+10	smlouva	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94207-79-p16s1
+1	Ralf	NNMS1-----A----	Sb
+2	přiznává	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jinak	Db-------------	Adv
+6	nemá	VB-S---3P-NA---	Obj
+7	důvod	NNIS4-----A----	Obj
+8	si	P7-X3----------	AuxT
+9	stěžovat	Vf--------A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94207-79-p16s2
+1	Koupil	VpYS---XR-AA---	Pred
+2	si	P7-X3----------	Obj
+3	hned	Db-------------	AuxZ
+4	v	RR--6----------	AuxP
+5	prvním	CrIS6----------	Atr
+6	roce	NNIS6-----A---1	Adv
+7	znovusjednocení	NNNS2-----A----	Atr
+8	zánovní	AAIS4----1A----	Atr
+9	Opel	NNIS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	s	RR--7----------	AuxP
+12	nímž	P9ZS7----------	Adv
+13	jezdí	VB-S---3P-AA---	Atr
+14	každý	AAIS4----1A----	Atr
+15	pátek	NNIS4-----A----	Adv
+16	na	RR--4----------	AuxP
+17	velký	AAIS4----1A----	Atr
+18	nákup	NNIS4-----A----	Adv
+19	do	RR--2----------	AuxP
+20	supermarketu	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94207-79-p16s3
+1	Letos	Db-------------	Adv
+2	v	RR--6----------	AuxP
+3	červenci	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	deset	Cn-S4----------	Adv
+6	dnů	NNIP2-----A----	Atr
+7	slunil	VpYS---XR-AA---	Pred
+8	na	RR--6----------	AuxP
+9	italských	AAFP6----1A----	Atr
+10	plážích	NNFP6-----A----	Adv
+11	a	J^-------------	Coord
+12	navštívil	VpYS---XR-AA---	Pred
+13	Benátky	NNFP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	které	P4FP4----------	Obj
+16	znal	VpYS---XR-AA---	Atr
+17	dříve	Dg-------2A----	Adv
+18	jen	TT-------------	AuxZ
+19	z	RR--2----------	AuxP
+20	filmů	NNIP2-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln94207-79-p17s1A
+1	Přízrak	NNIS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	východě	NNIS6-----A----	Atr
+
+ln94207-79-p17s1B
+1	V	RR--6----------	AuxP
+2	Lichtenbergu	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	nejlidnatějším	AAIS6----3A----	Atr
+5	z	RR--2----------	AuxP
+6	východoberlínských	AAIP2----1A----	Atr
+7	obvodů	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	žije	VB-S---3P-AA---	Atr
+11	vedle	RR--2----------	AuxP
+12	Ralfa	NNMS2-----A----	Atr
+13	Schmidta	NNMS2-----A----	Adv
+14	170000	C=-------------	Sb
+15	dalších	AAMP2----1A----	Atr
+16	spolkových	AAMP2----1A----	Atr
+17	občanů	NNMP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	přebývá	VB-S---3P-AA---	Pred
+20	podle	RR--2----------	AuxP
+21	všeho	PLZS2----------	Adv
+22	také	Db-------------	Adv
+23	jeden	ClYS1----------	Atr
+24	přízrak	NNIS1-----A----	Sb
+25	.	Z:-------------	AuxK
+26	.	Z:-------------	AuxK
+27	.	Z:-------------	AuxK
+
+ln94207-79-p17s2
+1	Když	J,-------------	AuxC
+2	vezmeme	VB-P---1P-AA---	Adv
+3	vážně	Dg-------1A----	Adv
+4	názor	NNIS4-----A----	Obj
+5	někdejšího	AAMS2----1A----	Atr
+6	šéfredaktora	NNMS2-----A----	Atr
+7	Německého	AAIS2----1A----	Atr
+8	rozhlasu	NNIS2-----A----	Atr
+9	Bernarda	NNMS2-----A----	Atr
+10	Wördehoffa	NNMS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	v	RR--6----------	AuxP
+14	prestižním	AAIS6----1A----	Atr
+15	týdeníku	NNIS6-----A----	Adv
+16	Die	AAXXX----1A----	Atr
+17	Zeit	NNIXX-----A----	Atr
+18	po	RR--6----------	AuxP
+19	volbách	NNFP6-----A----	Adv
+20	do	RR--2----------	AuxP
+21	Evropského	AAIS2----1A----	Atr
+22	parlamentu	NNIS2-----A----	Atr
+23	napsal	VpYS---XR-AA---	Atr
+24	,	Z:-------------	AuxX
+25	že	J,-------------	AuxC
+26	Německem	NNNS7-----A----	Adv
+27	obchází	VB-S---3P-AA---	Obj
+28	přízrak	NNIS1-----A----	Sb
+29	v	RR--6----------	AuxP
+30	podobě	NNFS6-----A----	AuxP
+31	PDS	NNFXX-----A---8	Atr
+32	(	Z:-------------	Apos
+33	Strany	NNFS2-----A----	Atr
+34	demokratického	AAIS2----1A----	Atr
+35	socialismu	NNIS2-----A---1	Atr
+36	)	Z:-------------	AuxG
+37	,	Z:-------------	AuxX
+38	pak	Db-------------	Adv
+39	je	VB-S---3P-AA---	Pred
+40	nanejvýš	Db-------------	Adv
+41	pravděpodobné	AANS1----1A----	Pnom
+42	,	Z:-------------	AuxX
+43	že	J,-------------	AuxC
+44	zjevení	NNNS1-----A----	Sb
+45	přespává	VB-S---3P-AA---	Sb
+46	někde	Db-------------	Adv
+47	na	RR--6----------	AuxP
+48	východě	NNIS6-----A----	Adv
+49	Berlína	NNIS2-----A----	Atr
+50	.	Z:-------------	AuxK
+
+ln94207-79-p18s1
+1	Následovnice	NNFS1-----A----	Sb
+2	komunistické	AAFS2----1A----	Atr
+3	SED	NNFXX-----A---8	Atr
+4	si	P7-X3----------	Obj
+5	při	RR--6----------	AuxP
+6	zmíněných	AAFP6----1A----	Atr
+7	volbách	NNFP6-----A----	Adv
+8	v	RR--6----------	AuxP
+9	Lichtenbergu	NNIS6-----A----	Atr
+10	připsala	VpQW---XR-AA---	Pred
+11	44.6	C=-------------	Obj
+12	%	Z:-------------	Atr
+13	,	Z:-------------	AuxX
+14	v	RR--6----------	AuxP
+15	sousedním	AAIS6----1A----	Atr
+16	Marzahnu	NNIS6-----A----	ExD
+17	45.7	C=-------------	ExD
+18	%	Z:-------------	Atr
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	v	RR--6----------	AuxP
+22	Hohenschönhausenu	NNIS6-----A----	ExD
+23	dokonce	Db-------------	AuxZ
+24	46.3	C=-------------	ExD
+25	%	Z:-------------	Atr
+26	.	Z:-------------	AuxK
+
+ln94207-79-p18s2
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	těmto	PDXP3----------	Atr
+4	výsledkům	NNIP3-----A----	Obj
+5	nelze	VB-S---3P-NA---	Adv
+6	přikládat	Vf--------A----	Sb
+7	přílišnou	AAFS4----1A----	Atr
+8	váhu	NNFS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	protože	J,-------------	AuxC
+11	účast	NNFS1-----A----	Sb
+12	voličů	NNMP2-----A----	Atr
+13	je	VB-S---3P-AA---	Adv
+14	nižší	AAFS1----2A----	Pnom
+15	než	J,-------------	AuxC
+16	při	RR--6----------	AuxP
+17	volbách	NNFP6-----A----	ExD
+18	do	RR--2----------	AuxP
+19	Spolkového	AAIS2----1A----	Atr
+20	sněmu	NNIS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	je	VB-S---3P-AA---	Pred
+23	podle	RR--2----------	AuxP
+24	starosty	NNMS2-----A----	Atr
+25	Lichtenbergu	NNIS2-----A----	Atr
+26	Gottfrieda	NNMS2-----A----	Atr
+27	Muchy	NNMS2-----A----	Adv
+28	evidentní	AANS1----1A----	Pnom
+29	,	Z:-------------	AuxX
+30	že	J,-------------	AuxC
+31	role	NNFS1-----A----	Sb
+32	populistické	AAFS2----1A----	Atr
+33	PDS	NNFXX-----A---8	Atr
+34	ve	RV--6----------	AuxP
+35	východní	AAFS6----1A----	Atr
+36	části	NNFS6-----A----	AdvAtr
+37	Berlína	NNIS2-----A----	Atr
+38	vzrostla	VpQW---XR-AA---	Sb
+39	.	Z:-------------	AuxK
+
+ln94207-79-p19s1
+1	Nyní	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	PDS	NNFXX-----A---8	Sb
+4	zdá	VB-S---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	prostornou	AAFS7----1A----	Atr
+7	platformou	NNFS7-----A----	Pnom
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	se	P7-X4----------	AuxT
+11	střetávají	VB-P---3P-AA---	Atr
+12	jak	J^-------------	AuxY
+13	zatvrzelí	AAMP1----1A----	Atr
+14	komunisté	NNMP1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	oplakávající	AGMP1-----A----	Atr
+17	staré	AAIP4----1A----	Atr
+18	pořádky	NNIP4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	tak	J^-------------	Coord
+21	čistí	AAMP1----1A----	Atr
+22	oportunisté	NNMP1-----A----	Sb
+23	,	Z:-------------	AuxX
+24	stavějící	AGMP1-----A----	Atr
+25	se	P7-X4----------	AuxT
+26	proti	RR--3----------	AuxP
+27	konkrétním	AAIP3----1A----	Atr
+28	důsledkům	NNIP3-----A----	Obj
+29	sjednocení	NNNS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94207-79-p19s2
+1	V	RR--6----------	AuxP
+2	neposlední	AAFS6----1N----	Atr
+3	řadě	NNFS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	strana	NNFS1-----A----	Sb
+6	útočištěm	NNNS7-----A----	Pnom
+7	mladých	AAMP2----1A----	Atr
+8	levičáků	NNMP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	blízkých	AAMP2----1A----	Atr
+11	hnutí	NNNS3-----A----	Obj
+12	punk	NNIS1-----A----	Atr
+13	,	Z:-------------	Coord
+14	zavrhujících	AGMP2-----A----	Atr
+15	společenství	NNNS4-----A----	Obj
+16	konzumu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94207-79-p19s3
+1	To	PDNS4----------	Obj
+2	vše	PLNS4---------1	Atr
+3	zastřešuje	VB-S---3P-AA---	Pred
+4	postava	NNFS1-----A----	Sb
+5	předsedy	NNMS2-----A----	Atr
+6	PDS	NNFXX-----A---8	Atr
+7	Georga	NNMS2-----A----	Atr
+8	Gysiho	NNMS2-----A----	Atr
+9	,	Z:-------------	Apos
+10	vtipného	AAMS2----1A----	Atr
+11	,	Z:-------------	Coord
+12	šarmantního	AAMS2----1A----	Atr
+13	člověka	NNMS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94207-79-p20s1A
+1	Joachim	NNMS1-----A----	Sb
+2	psal	VpYS---XR-AA---	Pred
+3	a	J^-------------	Coord
+4	nepíše	VB-S---3P-NA---	Pred
+
+ln94207-79-p20s1B
+1	Bývalý	AAMS1----1A----	Atr
+2	redaktor	NNMS1-----A----	Atr
+3	jednoho	ClZS2----------	Atr
+4	východoberlínského	AAIS2----1A----	Atr
+5	vědeckého	AAIS2----1A----	Atr
+6	časopisu	NNIS2-----A----	Atr
+7	Joachim	NNMS1-----A----	Atr
+8	Pampel	NNMS1-----A----	Sb
+9	(	Z:-------------	ExD
+10	52	C=-------------	ExD
+11	let	NNNP2-----A----	Atr
+12	)	Z:-------------	ExD
+13	PDS	NNFXX-----A---8	Obj
+14	nejen	TT-------------	AuxZ
+15	volil	VpYS---XR-AA---	Pred
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	dokonce	Db-------------	AuxZ
+19	do	RR--2----------	AuxP
+20	ní	P5FS2--3-------	Adv
+21	vstoupil	VpYS---XR-AA---	Pred
+22	.	Z:-------------	AuxK
+
+ln94207-79-p20s2
+1	Zalíbilo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	mu	PHZS3--3-------	Obj
+4	zjevně	Dg-------1A----	Adv
+5	jedno	ClNS1----------	Sb
+6	z	RR--2----------	AuxP
+7	jejích	PSXP2FS3-------	Atr
+8	hesel	NNNP2-----A----	Atr
+9	:	Z:-------------	AuxG
+10	S	RR--7----------	AuxP
+11	námi	PP-P7--1-------	Adv
+12	nestojíte	VB-P---2P-NA---	Atr
+13	v	RR--6----------	AuxP
+14	dešti	NNIS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94207-79-p20s3
+1	PDS	NNFXX-----A---8	Sb
+2	otevřela	VpQW---XR-AA---	Pred
+3	deštník	NNIS4-----A----	Obj
+4	zcela	Db-------------	Adv
+5	všem	PLXP3----------	Adv
+6	,	Z:-------------	Coord
+7	na	RR--4----------	AuxP
+8	rozdíl	NNIS4-----A----	AuxP
+9	od	RR--2----------	AuxP
+10	ostatních	AAFP2----1A----	Atr
+11	stran	NNFP2-----A----	Adv
+12	,	Z:-------------	AuxX
+13	které	P4FP1----------	Sb
+14	občany	NNMP4-----A----	Obj
+15	až	TT-------------	AuxZ
+16	příliš	Db-------------	Adv
+17	spojené	AAMP4----1A----	Atr
+18	s	RR--7----------	AuxP
+19	bývalým	AAIS7----1A----	Atr
+20	režimem	NNIS7-----A----	Obj
+21	NDR	NNFXX-----A---8	Atr
+22	nepřijaly	VpTP---XR-NA---	Atr
+23	.	Z:-------------	AuxK
+
+ln94207-79-p21s1
+1	Spočítat	Vf--------A----	Obj
+2	si	P7-X3----------	Adv
+3	daně	NNFP4-----A----	Obj
+4	a	J^-------------	Coord
+5	zorientovat	Vf--------A----	Obj
+6	se	P7-X4----------	AuxT
+7	v	RR--6----------	AuxP
+8	současném	AAIS6----1A----	Atr
+9	právním	AAIS6----1A----	Atr
+10	systému	NNIS6-----A----	Adv
+11	-	Z:-------------	Coord
+12	kdepak	Db-------------	ExD
+13	,	Z:-------------	ExD
+14	to	PDNS4----------	Obj
+15	už	Db-------------	Adv
+16	se	P7-X4----------	AuxT
+17	lidé	NNMP1-----A---1	Sb
+18	jako	J,-------------	Apos
+19	já	PP-S1--1-------	Sb
+20	nebo	J^-------------	Coord
+21	ještě	Db-------------	AuxZ
+22	starší	AAMP1----2A----	ExD
+23	,	Z:-------------	AuxX
+24	nikdy	Db-------------	Adv
+25	nenaučí	VB-P---3P-NA---	Obj
+26	,	Z:-------------	AuxX
+27	prohlašuje	VB-S---3P-AA---	Pred
+28	Joachim	NNMS1-----A----	Sb
+29	.	Z:-------------	AuxK
+
+ln94207-79-p21s2
+1	Dřív	Dg-------2A---2	Adv
+2	to	PDNS1----------	Sb
+3	bylo	VpNS---XR-AA---	Pred
+4	tak	Db-------------	Adv
+5	jednoduché	AANS1----1A----	Pnom
+6	,	Z:-------------	Coord
+7	tak	Db-------------	Adv
+8	průhledné	AANS1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	zato	J,-------------	Coord
+11	dnes	Db-------------	ExD
+12	.	Z:-------------	AuxG
+13	.	Z:-------------	AuxG
+14	.	Z:-------------	AuxG
+15	ech	NNNP2-----A----	ExD
+16	,	Z:-------------	AuxX
+17	škoda	NNFS1-----A----	ExD
+18	mluvit	Vf--------A----	Pred
+19	.	Z:-------------	AuxK
+
+ln94207-79-p22s1
+1	Ne	TT-------------	ExD
+2	,	Z:-------------	ExD
+3	není	VB-S---3P-NA---	Pred
+4	nenávistným	AAMS7----1A----	Atr
+5	nepřítelem	NNMS7-----A----	Pnom
+6	jednotného	AANS2----1A----	Atr
+7	Německa	NNNS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94207-79-p22s2
+1	Je	VB-S---3P-AA---	Pred
+2	šťasten	ACYS------A----	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jeho	PSXXXZS3-------	Atr
+6	syn	NNMS1-----A----	Sb
+7	studuje	VB-S---3P-AA---	Adv
+8	medicínu	NNFS4-----A----	Obj
+9	v	RR--6----------	AuxP
+10	západním	AAIS6----1A----	Atr
+11	Berlíně	NNIS6-----A----	Adv
+12	a	J^-------------	Coord
+13	dcery	NNFP1-----A----	Sb
+14	,	Z:-------------	Apos
+15	zdravotní	AAFP1----1A----	Atr
+16	sestry	NNFP1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	dobře	Dg-------1A----	Adv
+19	vydělávají	VB-P---3P-AA---	Adv
+20	tamtéž	Db-------------	Adv
+21	.	Z:-------------	AuxK
+
+ln94207-79-p22s3
+1	Má	VB-S---3P-AA---	Pred
+2	spíše	Dg-------2A---1	Adv
+3	pocit	NNIS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	jeho	PSXXXZS3-------	Atr
+7	život	NNIS4-----A----	Obj
+8	napsal	VpYS---XR-AA---	Atr
+9	nějaký	PZYS1----------	Atr
+10	špatný	AAMS1----1A----	Atr
+11	básník	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94207-79-p22s4
+1	Časopis	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	v	RR--6----------	AuxP
+4	němž	P9ZS6----------	Adv
+5	pracoval	VpYS---XR-AA---	Atr
+6	,	Z:-------------	AuxX
+7	zanikl	VpYS---XR-AA--1	Pred
+8	.	Z:-------------	AuxK
+
+ln94207-79-p22s5
+1	Pozoruje	VB-S---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	jeho	PSXXXZS3-------	Atr
+5	odbornost	NNFS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	byla	VpQW---XR-AA---	Atr
+9	pro	RR--4----------	AuxP
+10	východní	AAIS4----1A----	Atr
+11	vědecko	A2--------A----	Atr
+12	-	Z:-------------	Coord
+13	technický	AAIS4----1A----	Atr
+14	trh	NNIS4-----A----	Adv
+15	dostačující	AGFS1-----A----	Pnom
+16	,	Z:-------------	AuxX
+17	je	VB-S---3P-AA---	Obj
+18	v	RR--6----------	AuxP
+19	západních	AAFP6----1A----	Atr
+20	podmínkách	NNFP6-----A----	Adv
+21	směšně	Dg-------1A----	Adv
+22	mělká	AAFS1----1A----	Pnom
+23	.	Z:-------------	AuxK
+
+ln94207-79-p22s6
+1	Ti	PDMP1----------	Sb
+2	,	Z:-------------	AuxX
+3	co	P4XXX----------	Sb
+4	mají	VB-P---3P-AA---	Atr
+5	práci	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	si	P7-X3----------	AuxT
+8	užívají	VB-P---3P-AA---	Pred
+9	konzum	NNIS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94207-79-p22s7
+1	Ti	PDMP1----------	Sb
+2	,	Z:-------------	AuxX
+3	co	P4XXX----------	Sb
+4	ji	PPFS4--3-------	Obj
+5	nemají	VB-P---3P-NA---	Atr
+6	,	Z:-------------	AuxX
+7	se	P7-X4----------	AuxT
+8	užírají	VB-P---3P-AA---	Obj
+9	nečinností	NNFS7-----N----	Adv
+10	a	J^-------------	Coord
+11	pocitem	NNIS7-----A----	Adv
+12	nepotřebnosti	NNFS2-----N----	Atr
+13	,	Z:-------------	AuxX
+14	dodává	VB-S---3P-AA---	Pred
+15	.	Z:-------------	AuxK
+
+ln94207-79-p23s1
+1	Kam	Db-------------	Adv
+2	teď	Db-------------	Adv
+3	mám	VB-S---1P-AA---	Obj
+4	jít	Vf--------A----	Obj
+5	,	Z:-------------	AuxX
+6	když	J,-------------	AuxC
+7	je	VB-S---3P-AA---	Adv
+8	taková	PDFS1----------	Atr
+9	nezaměstnanost	NNFS1-----A----	Sb
+10	a	J^-------------	Coord
+11	já	PP-S1--1-------	Sb
+12	vlastně	Db-------------	AuxY
+13	nic	PW--4----------	Obj
+14	neumím	VB-S---1P-NA---	Adv
+15	,	Z:-------------	AuxX
+16	ptá	VB-S---3P-AA---	Pred
+17	se	P7-X4----------	AuxT
+18	nejen	TT-------------	AuxZ
+19	řečnicky	Dg-------1A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94207-79-p23s2
+1	Schoval	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	tedy	Db-------------	AuxY
+4	pod	RR--4----------	AuxP
+5	deštník	NNIS4-----A----	Adv
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	má	VB-S---3P-AA---	Atr
+9	na	RR--6----------	AuxP
+10	špici	NNFS6-----A----	Adv
+11	bodák	NNIS4-----A----	Obj
+12	a	J^-------------	Coord
+13	v	RR--6----------	AuxP
+14	pozadí	NNNS6-----A----	ExD
+15	zatím	Db-------------	Adv
+16	umně	Dg-------1A----	Adv
+17	skrytou	AAFS4----1A----	Atr
+18	touhu	NNFS4-----A----	ExD
+19	něco	PZ--4----------	Obj
+20	málo	Dg-------1A----	Atr
+21	zestátňovat	Vf--------A----	Atr
+22	,	Z:-------------	AuxX
+23	jak	Db-------------	Adv
+24	se	P7-X4----------	AuxR
+25	hlásá	VB-S---3P-AA---	Pred
+26	v	RR--6----------	AuxP
+27	tezích	NNFP6-----A----	Adv
+28	PDS	NNFXX-----A---8	Atr
+29	.	Z:-------------	AuxK
+
+ln94207-79-p24s1A
+1	Nevědí	VB-P---3P-NA--1	Pred
+2	,	Z:-------------	AuxX
+3	co	PQ--4----------	Obj
+4	očekávali	VpMP---XR-AA---	Obj
+
+ln94207-79-p24s1B
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	prostě	Dg-------1A----	AuxY
+4	zcela	Db-------------	Adv
+5	jasné	AANS1----1A----	Pnom
+6	a	J^-------------	Coord
+7	proklamace	NNFP1-----A----	Sb
+8	zůstanou	VB-P---3P-AA---	Pred
+9	jen	TT-------------	AuxZ
+10	proklamacemi	NNFP7-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln94207-79-p24s2
+1	Po	RR--6----------	AuxP
+2	čtyřiceti	Cn-P6----------	Atr
+3	letech	NNNP6-----A----	Adv
+4	odlišného	AAIS2----1A----	Atr
+5	vývoje	NNIS2-----A----	Atr
+6	není	VB-S---3P-NA---	Obj
+7	možné	AANS1----1A----	Pnom
+8	očekávat	Vf--------A----	Sb
+9	naprostý	AAIS4----1A----	Atr
+10	soulad	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	říká	VB-S---3P-AA---	Pred
+13	starosta	NNMS1-----A----	Atr
+14	Lichtenbergu	NNIS2-----A----	Atr
+15	Gottfried	NNMS1-----A----	Atr
+16	Mucha	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+ln94207-79-p24s3
+1	Funkci	NNFS4-----A----	Obj
+2	zastává	VB-S---3P-AA---	Pred
+3	jako	J,-------------	AuxY
+4	zástupce	NNMS1-----A----	AtvV
+5	Zelených	AAMP2----1A----	Atr
+6	již	Db-------------	AuxZ
+7	od	RR--2----------	AuxP
+8	roku	NNIS2-----A---1	Adv
+9	1990	C=-------------	Atr
+10	.	Z:-------------	AuxK
+
+ln94207-79-p24s4
+1	Psychiatr	NNMS1-----A----	Sb
+2	,	Z:-------------	Apos
+3	někdejší	AAMS1----1A----	Atr
+4	mluvčí	NNMS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	roce	NNIS6-----A---1	Adv
+7	1989	C=-------------	Atr
+8	se	P7-X4----------	AuxT
+9	zrodivšího	AMNS2-----A----	Atr
+10	disidentského	AANS2----1A----	Atr
+11	Neues	AAXXX----1A----	Atr
+12	Forum	NNNXX-----A----	Atr
+13	,	Z:-------------	AuxX
+14	je	VB-S---3P-AA---	Pred
+15	svižný	AAMS1----1A----	Atr
+16	,	Z:-------------	AuxX
+17	elegantní	AAMS1----1A----	Atr
+18	a	J^-------------	Coord
+19	vnímavě	Dg-------1A----	Adv
+20	působící	AGMS1-----A----	Atr
+21	člověk	NNMS1-----A----	Pnom
+22	.	Z:-------------	AuxK
+
+ln94207-79-p25s1
+1	Myslím	VB-S---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	lidé	NNMP1-----A---1	Sb
+5	vlastně	Db-------------	AuxY
+6	ani	J^-------------	AuxZ
+7	nevědí	VB-P---3P-NA--1	Obj
+8	,	Z:-------------	AuxX
+9	co	PQ--4----------	Obj
+10	očekávali	VpMP---XR-AA---	Obj
+11	.	Z:-------------	AuxK
+
+ln94207-79-p25s2
+1	Chtěli	VpMP---XR-AA---	Obj
+2	svobodu	NNFS4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	chtěli	VpMP---XR-AA---	Obj
+5	v	RR--6----------	AuxP
+6	ruce	NNFS6-----A----	Adv
+7	potěžkávat	Vf--------A----	Obj
+8	tvrdou	AAFS4----1A----	Atr
+9	marku	NNFS4-----A----	Obj
+10	,	Z:-------------	Coord
+11	chtěli	VpMP---XR-AA---	Obj
+12	rychlé	AANS4----1A----	Atr
+13	sjednocení	NNNS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	jako	J,-------------	AuxC
+17	by	Vc-------------	AuxV
+18	si	P7-X3----------	AuxT
+19	neuvědomovali	VpMP---XR-NA---	ExD
+20	,	Z:-------------	AuxX
+21	co	PQ--4----------	Obj
+22	to	PDNS1----------	Sb
+23	bude	VB-S---3F-AA---	AuxV
+24	znamenat	Vf--------A----	Obj
+25	,	Z:-------------	AuxX
+26	tvrdí	VB-S---3P-AA---	Pred
+27	starosta	NNMS1-----A----	Atr
+28	Mucha	NNMS1-----A----	Sb
+29	.	Z:-------------	AuxK
+
+ln94207-79-p26s1
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	AuxP
+3	Lichtenbergu	NNIS2-----A----	Adv
+4	,	Z:-------------	Apos
+5	čtvrti	NNFS2-----A---1	Adv
+6	,	Z:-------------	AuxX
+7	jež	PJFS1----------	Sb
+8	zahrnuje	VB-S---3P-AA---	Atr
+9	sídlo	NNNS4-----A----	Obj
+10	bývalé	AAFS2----1A----	Atr
+11	tajné	AAFS2----1A----	Atr
+12	služby	NNFS2-----A----	Atr
+13	Stasi	NNFXX-----A---8	Atr
+14	a	J^-------------	Coord
+15	kde	Db-------------	Adv
+16	bydlí	VB-S---3P-AA---	Atr
+17	řada	NNFS1-----A----	Sb
+18	lidí	NNMP2-----A----	Atr
+19	z	RR--2----------	AuxP
+20	někdejších	AANP2----1A----	Atr
+21	východoněmeckých	AANP2----1A----	Atr
+22	ministerstev	NNNP2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	kteří	P4MP1----------	Sb
+25	se	P7-X4----------	AuxT
+26	náhle	Dg-------1A----	Adv
+27	octli	VpMP---XR-AA--1	Atr
+28	v	RR--6----------	AuxP
+29	novém	AAIS6----1A----	Atr
+30	státě	NNIS6-----A----	Adv
+31	zcela	Db-------------	Adv
+32	nepotřební	AAMP1----1N----	Atv
+33	,	Z:-------------	AuxX
+34	to	PDNS1----------	Sb
+35	znamená	VB-S---3P-AA---	Pred
+36	více	Dg-------2A----	Obj
+37	než	J,-------------	AuxC
+38	patnáctiprocentní	AAFS4----1A----	Atr
+39	nezaměstnanost	NNFS4-----A----	ExD
+40	typickou	AAFS4----1A----	Atr
+41	pro	RR--4----------	AuxP
+42	nové	AAFP4----1A----	Atr
+43	spolkové	AAFP4----1A----	Atr
+44	země	NNFP4-----A----	Obj
+45	.	Z:-------------	AuxK
+
+ln94207-79-p26s2
+1	Z	RR--2----------	AuxP
+2	někdejších	AAMP2----1A----	Atr
+3	20000	C=-------------	Atr
+4	pracovníků	NNMP2-----A----	Adv
+5	lichtenberského	AAIS2----1A----	Atr
+6	podniku	NNIS2-----A----	Atr
+7	Elektrokohle	NNIXX-----A----	Atr
+8	jich	PPXP2--3-------	Atr
+9	po	RR--6----------	AuxP
+10	privatizaci	NNFS6-----A----	Adv
+11	západoněmeckým	AAIS7----1A----	Atr
+12	managementem	NNIS7-----A----	Atr
+13	zbylo	VpNS---XR-AA---	Pred
+14	2.5	C=-------------	Sb
+15	tisíce	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94207-79-p27s1A
+1	Jeden	ClYS1----------	Sb
+2	ze	RV--2----------	AuxP
+3	zaměstnanců	NNMP2-----A----	Atr
+4	hovoří	VB-S---3P-AA---	Pred
+5	o	RR--6----------	AuxP
+6	nadutosti	NNFS6-----A----	Obj
+7	západních	AAMP2----1A----	Atr
+8	manažerů	NNMP2-----A----	Atr
+9	:	Z:-------------	AuxK
+
+ln94207-79-p27s1B
+1	Přišli	VpMP---XR-AA---	Pred
+2	sem	Db-------------	Adv
+3	s	RR--7----------	AuxP
+4	koženými	AAIP7----1A----	Atr
+5	výrazy	NNIP7-----A----	Adv
+6	a	J^-------------	Coord
+7	pohlíželi	VpMP---XR-AA---	Pred
+8	na	RR--4----------	AuxP
+9	nás	PP-P4--1-------	Adv
+10	jako	J,-------------	AuxC
+11	na	RR--4----------	AuxP
+12	zvláštní	AAFP4----1A----	Atr
+13	bytosti	NNFP4-----A----	ExD
+14	,	Z:-------------	AuxX
+15	kterým	P4XP3----------	Obj
+16	není	VB-S---3P-NA---	Atr
+17	radno	ACNS------A----	Pnom
+18	důvěřovat	Vf--------A----	Sb
+19	.	Z:-------------	AuxK
+
+ln94207-79-p27s2
+1	Sami	PLMP1----------	AtvV
+2	tomu	PDZS3----------	Obj
+3	přitom	Db-------------	Adv
+4	houbelec	II-------------	Adv
+5	rozuměli	VpMP---XR-AA---	Pred
+6	.	Z:-------------	AuxK
+
+ln94207-79-p28s1
+1	Někteří	PZMP1----------	Atr
+2	pozorovatelé	NNMP1-----A----	Sb
+3	tvrdí	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	nezaměstnanost	NNFS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	této	PDFS6----------	Atr
+9	čtvrti	NNFS6-----A----	Atr
+10	je	VB-S---3P-AA---	Obj
+11	ve	RV--6----------	AuxP
+12	skutečnosti	NNFS6-----A----	Adv
+13	daleko	Dg-------1A----	Adv
+14	větší	AAFS1----2A----	Pnom
+15	,	Z:-------------	AuxX
+16	neboť	J^-------------	Coord
+17	prý	TT-------------	AuxY
+18	do	RR--2----------	AuxP
+19	statistik	NNFP2-----A----	Adv
+20	nejsou	VB-P---3P-NA---	AuxV
+21	uváděny	VsTP---XX-AP---	Obj
+22	ženy	NNFP1-----A----	Sb
+23	,	Z:-------------	AuxX
+24	které	P4FP1----------	Sb
+25	se	P7-X4----------	AuxT
+26	po	RR--6----------	AuxP
+27	propuštění	NNNS6-----A----	Adv
+28	dostaly	VpTP---XR-AA---	Atr
+29	do	RR--2----------	AuxP
+30	kategorie	NNFS2-----A----	Adv
+31	žen	NNFP2-----A----	Atr
+32	v	RR--6----------	AuxP
+33	domácnosti	NNFS6-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94207-79-p28s2
+1	Čísla	NNNP1-----A----	Sb
+2	údajně	Dg-------1A----	Adv
+3	nezahrnují	VB-P---3P-NA---	Pred
+4	ani	J^-------------	AuxZ
+5	nezaměstnané	NNMP4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	tzv	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	předpenzijním	AAIS6----1A----	Atr
+10	věku	NNIS6-----A----	Adv
+11	55	C=-------------	Atr
+12	-	Z:-------------	Coord
+13	60	C=-------------	Atr
+14	let	NNNP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94207-79-p29s1A
+1	Lidé	NNMP1-----A---1	Sb
+2	z	RR--2----------	AuxP
+3	PDS	NNFXX-----A---8	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	prostě	Dg-------1A----	AuxY
+6	všude	Db-------------	Adv
+
+ln94207-79-p29s1B
+1	Pro	RR--4----------	AuxP
+2	všechny	PLYP4----------	Adv
+3	,	Z:-------------	AuxX
+4	kteří	P4MP1----------	Sb
+5	mají	VB-P---3P-AA---	Atr
+6	důvod	NNIS4-----A----	Obj
+7	k	RR--3----------	AuxP
+8	nespokojenosti	NNFS3-----N----	Atr
+9	,	Z:-------------	AuxX
+10	je	VB-S---3P-AA---	Pred
+11	zde	Db-------------	Adv
+12	PDS	NNFXX-----A---8	Sb
+13	,	Z:-------------	Apos
+14	čistá	AAFS1----1A----	Atr
+15	opozice	NNFS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	nenese	VB-S---3P-NA---	Atr
+19	žádnou	PWFS4----------	Atr
+20	zodpovědnost	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94207-79-p29s2
+1	Lidé	NNMP1-----A---1	Sb
+2	od	RR--2----------	AuxP
+3	PDS	NNFXX-----A---8	Atr
+4	v	RR--6----------	AuxP
+5	konkrétních	AAIP6----1A----	Atr
+6	případech	NNIP6-----A----	Adv
+7	vystupují	VB-P---3P-AA---	Obj
+8	jako	J,-------------	AuxY
+9	angažované	AANS1----1A----	Atr
+10	občanské	AANS1----1A----	Atr
+11	hnutí	NNNS1-----A----	AtvV
+12	a	J^-------------	Coord
+13	jsou	VB-P---3P-AA---	Obj
+14	u	RR--2----------	AuxP
+15	všeho	PLZS2----------	Adv
+16	první	CrMP1----------	Pnom
+17	,	Z:-------------	AuxX
+18	říká	VB-S---3P-AA---	Pred
+19	starosta	NNMS1-----A----	Atr
+20	Mucha	NNMS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+ln94207-79-p29s3
+1	Berou	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	za	RR--4----------	AuxP
+4	větší	AAIS4----2A----	Atr
+5	počet	NNIS4-----A----	Obj
+6	parkovacích	AANP2----1A----	Atr
+7	míst	NNNP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	za	RR--4----------	AuxP
+10	výši	NNFS4-----A----	Obj
+11	nájemného	NNNS2-----A----	Atr
+12	,	Z:-------------	Coord
+13	za	RR--4----------	AuxP
+14	postavení	NNNS4-----A----	Obj
+15	důchodců	NNMP2-----A----	Atr
+16	a	J^-------------	Coord
+17	nezaměstnaných	NNMP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94207-79-p29s4
+1	Dokonce	Db-------------	AuxZ
+2	založili	VpMP---XR-AA---	Pred
+3	i	J^-------------	AuxZ
+4	svaz	NNIS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	podporu	NNFS4-----A----	Atr
+7	podnikatelů	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94207-79-p29s5
+1	Jsou	VB-P---3P-AA---	Pred
+2	prostě	Dg-------1A----	AuxY
+3	všude	Db-------------	Adv
+4	.	Z:-------------	AuxK
+
+ln94207-79-p30s1
+1	Starosta	NNMS1-----A----	Atr
+2	Mucha	NNMS1-----A----	Sb
+3	popírá	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	to	PDNS1----------	Sb
+8	znamenalo	VpNS---XR-AA---	Obj
+9	sebekritiku	NNFS4-----A----	Obj
+10	radnice	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94207-79-p30s2
+1	Vždyť	J^-------------	Coord
+2	ta	PDFS1----------	Sb
+3	plní	VB-S---3P-AA---	Pred
+4	pouze	Db-------------	AuxZ
+5	funkci	NNFS4-----A----	Obj
+6	zprostředkovatele	NNMS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94207-79-p30s3
+1	O	RR--6----------	AuxP
+2	tom	PDZS6----------	Obj
+3	,	Z:-------------	AuxX
+4	kam	Db-------------	Adv
+5	poplynou	VB-P---3P-AA---	Atr
+6	výdaje	NNIP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	rozhoduje	VB-S---3P-AA---	Pred
+9	berlínský	AAIS1----1A----	Atr
+10	senát	NNIS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94207-79-p30s4
+1	Lichtenberg	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	jako	J,-------------	AuxC
+4	každý	AAIS1----1A----	ExD
+5	jiný	AAIS1----1A----	Atr
+6	obvod	NNIS1-----A----	ExD
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Pred
+9	pověřen	VsYS---XX-AP---	Pnom
+10	jen	TT-------------	AuxZ
+11	správou	NNFS7-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94207-79-p31s1
+1	Naroubovali	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	se	P7-X4----------	Obj
+4	na	RR--4----------	AuxP
+5	strukturu	NNFS4-----A----	Adv
+6	Západu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94207-79-p31s2
+1	Nejsme	VB-P---1P-NA---	Pred
+2	na	RR--4----------	AuxP
+3	ni	P5FS4--3-------	Obj
+4	zvyklí	AAMP1----1A----	Pnom
+5	a	J^-------------	Coord
+6	vycházíme	VB-P---1P-AA---	Pred
+7	z	RR--2----------	AuxP
+8	toho	PDZS2----------	Atr
+9	pokusu	NNIS2-----A----	Obj
+10	-	Z:-------------	AuxG
+11	jako	J,-------------	AuxY
+12	hloupější	AAMP1----2A----	AtvV
+13	.	Z:-------------	AuxK
+
+ln94207-79-p31s3
+1	Ne	TT-------------	ExD
+2	,	Z:-------------	AuxX
+3	to	PDNS4----------	ExD
+4	ne	TT-------------	ExD
+5	,	Z:-------------	Coord
+6	řekněme	Vi-P---1--A----	Pred
+7	nevzdělanější	AAMP1----2N----	ExD
+8	,	Z:-------------	Coord
+9	méně	Dg-------2A----	Adv
+10	poučení	AAMP1----1A----	ExD
+11	.	Z:-------------	AuxK
+
+ln94207-79-p31s4
+1	Teprve	Db-------------	AuxZ
+2	nyní	Db-------------	Adv
+3	si	P7-X3----------	AuxT
+4	osvojujeme	VB-P---1P-AA---	Obj
+5	mechanismy	NNIP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	které	P4YP4----------	Obj
+8	západní	AANS1----1A----	Atr
+9	Německo	NNNS1-----A----	Sb
+10	rutinně	Dg-------1A----	Adv
+11	používá	VB-S---3P-AA---	Atr
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	to	PDNS1----------	Sb
+15	nás	PP-P4--1-------	Obj
+16	zatím	Db-------------	Adv
+17	odděluje	VB-S---3P-AA---	Obj
+18	,	Z:-------------	AuxX
+19	domnívá	VB-S---3P-AA---	Pred
+20	se	P7-X4----------	AuxT
+21	starosta	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln94207-79-p32s1
+1	Achtung	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	baby	NNFXX-----A----	ExD
+4	!	Z:-------------	AuxK
+
+ln94207-79-p32s2A
+1	Divní	AAMP1----1A----	Atr
+2	lidé	NNMP1-----A---1	ExD
+
+ln94207-79-p32s2B
+1	Značné	AANS4----1A----	Atr
+2	překvapení	NNNS4-----A----	Obj
+3	přinesl	VpYS---XR-AA---	Pred
+4	jeden	ClYS1----------	Sb
+5	z	RR--2----------	AuxP
+6	posledních	AAIP2----1A----	Atr
+7	výtisků	NNIP2-----A----	Atr
+8	hamburského	AAIS2----1A----	Atr
+9	časopisu	NNIS2-----A----	Atr
+10	Der	AAXXX----1A----	Atr
+11	Spiegel	NNIXX-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94207-79-p32s3
+1	Nevyvolal	VpYS---XR-NA---	Pred
+2	ho	PHZS4--3-------	Obj
+3	ani	J^-------------	AuxZ
+4	tak	Db-------------	AuxY
+5	titulní	AAIS1----1A----	Atr
+6	článek	NNIS1-----A----	Sb
+7	západoněmeckého	AAMS2----1A----	Atr
+8	dramatika	NNMS2-----A----	Atr
+9	Klause	NNMS2-----A----	Atr
+10	Pohla	NNMS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	svérázně	Dg-------1A----	Adv
+14	líčí	VB-S---3P-AA---	Atr
+15	svá	P8NP4---------1	Atr
+16	setkání	NNNP4-----A----	Obj
+17	s	RR--7----------	AuxP
+18	Berlínem	NNIS7-----A----	Atr
+19	a	J^-------------	Coord
+20	zaznamenává	VB-S---3P-AA---	Atr
+21	směšné	AANS4----1A----	Atr
+22	podivínství	NNNS4-----A----	Obj
+23	i	J^-------------	Coord
+24	jinakost	NNFS4-----A----	Obj
+25	východní	AAFS2----1A----	Atr
+26	části	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94207-79-p32s4
+1	(	Z:-------------	ExD
+2	Dost	Dg-------1A----	Adv
+3	možná	Db-------------	ExD
+4	proto	Db-------------	ExD
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	dramatik	NNMS1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	právě	Db-------------	Adv
+10	vrací	VB-S---3P-AA---	ExD
+11	z	RR--2----------	AuxP
+12	dvouletého	AAIS2----1A----	Atr
+13	pobytu	NNIS2-----A----	Adv
+14	v	RR--6----------	AuxP
+15	New	AAXXX----1A----	Atr
+16	Yorku	NNIS6-----A----	Atr
+17	,	Z:-------------	AuxX
+18	zatímco	J,-------------	AuxC
+19	východní	AAIS1----1A----	Atr
+20	Berlín	NNIS1-----A----	Sb
+21	putuje	VB-S---3P-AA---	Adv
+22	ze	RV--2----------	AuxP
+23	socialismu	NNIS2-----A---1	Adv
+24	.	Z:-------------	AuxK
+
+ln94207-79-p32s5
+1	Lépe	Dg-------2A----	Adv
+2	by	Vc-------------	AuxV
+3	možná	Db-------------	AuxY
+4	nevyvázl	VpYS---XR-NA--1	Pred
+5	ani	J^-------------	AuxZ
+6	Dortmund	NNIS1-----A----	Sb
+7	nebo	J^-------------	Coord
+8	Norimberk	NNIS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	kdyby	J,-------------	AuxC
+11	zrovna	Db-------------	Adv
+12	líčení	NNNS1-----A----	Sb
+13	jeho	PSXXXZS3-------	Atr
+14	lidiček	NNFP2-----A----	Atr
+15	bylo	VpNS---XR-AA---	Adv
+16	v	RR--6----------	AuxP
+17	módě	NNFS6-----A----	Adv
+18	.	Z:-------------	AuxK
+19	)	Z:-------------	AuxG
+
+ln94207-79-p32s6
+1	Ono	PDNS4----------	Atr
+2	překvapení	NNNS4-----A----	Obj
+3	si	P7-X3----------	AuxT
+4	vysloužily	VpTP---XR-AA---	Pred
+5	údaje	NNIP1-----A----	Sb
+6	agentury	NNFS2-----A----	Atr
+7	EMNID	NNFXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	pořízené	AAIP1----1A----	Atr
+10	na	RR--4----------	AuxP
+11	objednávku	NNFS4-----A----	Adv
+12	časopisu	NNIS2-----A----	Atr
+13	Der	AAXXX----1A----	Atr
+14	Spiegel	NNIXX-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94207-79-p32s7
+1	Podle	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	se	P7-X4----------	AuxT
+4	71	C=-------------	Sb
+5	procent	NNNP2-----A----	Atr
+6	východních	AAMP2----1A----	Atr
+7	Němců	NNMP2-----A----	Atr
+8	domnívá	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	socialismus	NNIS1-----A---1	Sb
+12	byl	VpYS---XR-AA---	Obj
+13	dobrá	AAFS1----1A----	Atr
+14	věc	NNFS1-----A----	Pnom
+15	,	Z:-------------	Coord
+16	jenom	TT-------------	AuxZ
+17	prý	TT-------------	AuxY
+18	v	RR--6----------	AuxP
+19	časech	NNIP6-----A----	Adv
+20	NDR	NNFXX-----A---8	Atr
+21	chyběli	VpMP---XR-AA---	Obj
+22	správní	AAMP1----1A----	Atr
+23	politici	NNMP1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln94207-79-p32s8
+1	Jako	J,-------------	AuxY
+2	systém	NNIS1-----A----	Obj
+3	předurčený	AAIS1----1A----	Atr
+4	ke	RV--3----------	AuxP
+5	ztroskotání	NNNS3-----A----	Obj
+6	se	P7-X4----------	AuxT
+7	socialismus	NNIS1-----A---1	Sb
+8	jeví	VB-S---3P-AA---	Pred
+9	21	C=-------------	Atr
+10	procentům	NNNP3-----A----	Obj
+11	,	Z:-------------	Coord
+12	osm	Cn-S1----------	ExD
+13	neví	VB-S---3P-NA---	Pred
+14	.	Z:-------------	AuxK
+
+ln94207-79-p33s1
+1	Je	VB-S---3P-AA---	Obj
+2	to	PDNS1----------	Sb
+3	biologický	AAIS1----1A----	Atr
+4	problém	NNIS1-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	odpovídá	VB-S---3P-AA---	Pred
+7	Gottfried	NNMS1-----A----	Atr
+8	Mucha	NNMS1-----A----	Sb
+9	na	RR--4----------	AuxP
+10	otázku	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	kdy	Db-------------	Adv
+13	se	P7-X4----------	AuxR
+14	podle	RR--2----------	AuxP
+15	něho	P5ZS2--3------1	Adv
+16	přestane	VB-S---3P-AA---	Atr
+17	mluvit	Vf--------A----	Obj
+18	o	RR--6----------	AuxP
+19	různosti	NNFS6-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94207-79-p33s2
+1	Bude	VB-S---3F-AA---	AuxV
+2	to	PDNS1----------	Sb
+3	znít	Vf--------A----	Pred
+4	možná	Db-------------	AuxY
+5	krutě	Dg-------1A----	Adv
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	propast	NNFS1-----A----	Sb
+9	po	RR--6----------	AuxP
+10	berlínské	AAFS6----1A----	Atr
+11	zdi	NNFS6-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	zacelí	VB-S---3P-AA---	Pred
+14	,	Z:-------------	AuxX
+15	až	J,-------------	AuxC
+16	vymřou	VB-P---3P-AA---	Adv
+17	lidé	NNMP1-----A---1	Sb
+18	navyklí	AAMP1----1A----	Atr
+19	na	RR--4----------	AuxP
+20	socialistické	AAIP4----1A----	Atr
+21	pořádky	NNIP4-----A----	Obj
+22	a	J^-------------	Coord
+23	morálku	NNFS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94207-79-p34s1A
+1	Zamítnutý	AAMS1----1A----	Atr
+2	prezident	NNMS1-----A----	ExD
+
+ln94207-79-p34s1B
+1	Východní	AAFP1----1A----	Atr
+2	spolkové	AAFP1----1A----	Atr
+3	země	NNFP1-----A----	Sb
+4	měly	VpTP---XR-AA---	Pred
+5	při	RR--6----------	AuxP
+6	letošních	AAFP6----1A----	Atr
+7	prezidentských	AAFP6----1A----	Atr
+8	volbách	NNFP6-----A----	Adv
+9	také	Db-------------	Adv
+10	svého	P8MS4----------	Atr
+11	zástupce	NNMS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94207-79-p34s2
+1	Profesor	NNMS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	oboru	NNIS6-----A----	AuxP
+4	genetiky	NNFS2-----A----	Atr
+5	,	Z:-------------	Apos
+6	Berlíňan	NNMS1-----A----	Atr
+7	Jens	NNMS1-----A----	Atr
+8	Reich	NNMS1-----A----	Sb
+9	vstupoval	VpYS---XR-AA---	Pred
+10	do	RR--2----------	AuxP
+11	voleb	NNFP2-----A----	Adv
+12	jako	J,-------------	AuxY
+13	nadstranický	AAMS1----1A----	Atr
+14	kandidát	NNMS1-----A----	Atv
+15	,	Z:-------------	Apos
+16	muž	NNMS1-----A----	Atv
+17	z	RR--2----------	AuxP
+18	Východu	NNIS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	zajímající	AGMS1-----A----	Atr
+21	se	P7-X4----------	AuxT
+22	o	RR--4----------	AuxP
+23	globální	AAIP4----1A----	Atr
+24	problémy	NNIP4-----A----	Obj
+25	civilizace	NNFS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94207-79-p34s3
+1	Komentátoři	NNMP1-----A----	Sb
+2	jeho	PSXXXZS3-------	Atr
+3	pojetí	NNNS4-----A----	Obj
+4	politiky	NNFS2-----A----	Atr
+5	přirovnávají	VB-P---3P-AA---	Pred
+6	k	RR--3----------	AuxP
+7	Václavu	NNMS3-----A---1	Atr
+8	Havlovi	NNMS3-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94207-79-p35s1
+1	Ve	RV--6----------	AuxP
+2	Spolkovém	AAIS6----1A----	Atr
+3	sněmu	NNIS6-----A----	Adv
+4	si	P7-X3----------	AuxT
+5	Jens	NNMS1-----A----	Atr
+6	Reich	NNMS1-----A----	Sb
+7	připadal	VpYS---XR-AA---	Pred
+8	jako	J,-------------	AuxY
+9	cizinec	NNMS1-----A----	Obj
+10	,	Z:-------------	AuxX
+11	jak	Db-------------	Adv
+12	se	P7-X4----------	AuxT
+13	později	Dg-------2A----	Adv
+14	přiznal	VpYS---XR-AA---	Pred
+15	v	RR--6----------	AuxP
+16	tisku	NNIS6-----A----	Adv
+17	poté	Db-------------	Adv
+18	,	Z:-------------	AuxX
+19	co	J,-------------	AuxC
+20	po	RR--6----------	AuxP
+21	prvním	CrNS6----------	Atr
+22	kole	NNNS6-----A----	Adv
+23	stáhl	VpYS---XR-AA---	Adv
+24	kandidaturu	NNFS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln94207-79-p35s2
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	jsem	VB-S---1P-AA---	AuxV
+4	neměl	VpYS---XR-NA---	Adv
+5	šanci	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	je	VB-S---3P-AA---	ExD
+8	dobré	AANS1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	byl	VpYS---XR-AA---	Sb
+12	východoněmecký	AAMS1----1A----	Atr
+13	kandidát	NNMS1-----A----	Sb
+14	vůbec	Db-------------	AuxZ
+15	při	RR--6----------	AuxP
+16	tom	PDZS6----------	Adv
+17	jako	J,-------------	AuxY
+18	další	AAFS1----1A----	Atr
+19	alternativa	NNFS1-----A----	Atv
+20	,	Z:-------------	Coord
+21	zamýšlí	VB-S---3P-AA---	Pred
+22	se	P7-X4----------	AuxT
+23	Jens	NNMS1-----A----	Atr
+24	Reich	NNMS1-----A----	Sb
+25	nad	RR--7----------	AuxP
+26	svým	P8ZS7----------	Atr
+27	neúspěchem	NNIS7-----A----	Obj
+28	.	Z:-------------	AuxK
+
+ln94207-79-p36s1
+1	Současné	AAIP4----1A----	Atr
+2	německo	A2--------A----	Atr
+3	-	Z:-------------	Coord
+4	německé	AAIP4----1A----	Atr
+5	vztahy	NNIP4-----A----	Obj
+6	vidí	VB-S---3P-AA---	Pred
+7	jako	J,-------------	AuxY
+8	komplikovaný	AAIS4----1A----	Atr
+9	problém	NNIS4-----A----	Atv
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	má	VB-S---3P-AA---	Atr
+13	své	P8YP4---------1	Atr
+14	kořeny	NNIP4-----A----	Obj
+15	v	RR--6----------	AuxP
+16	období	NNNS6-----A----	Adv
+17	těsně	Dg-------1A----	Atr
+18	po	RR--6----------	AuxP
+19	druhé	CrFS6----------	Atr
+20	světové	AAFS6----1A----	Atr
+21	válce	NNFS6-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln94207-79-p36s2
+1	Ekonomické	AAIP1----1A----	Atr
+2	rozdíly	NNIP1-----A----	Sb
+3	,	Z:-------------	Apos
+4	to	PDNS1----------	Sb
+5	je	VB-S---3P-AA---	Pred
+6	to	PDNS1----------	Pnom
+7	první	CrNS1----------	Atr
+8	,	Z:-------------	AuxX
+9	co	PQ--1----------	Sb
+10	lidem	NNMP3-----A----	Adv
+11	vytane	VB-S---3P-AA---	Atr
+12	na	RR--6----------	AuxP
+13	mysli	NNFS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94207-79-p36s3
+1	Je	VB-S---3P-AA---	Pred
+2	však	J^-------------	Coord
+3	evidentní	AANS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	základem	NNIS7-----A----	Pnom
+7	německo	A2--------A----	Atr
+8	-	Z:-------------	Coord
+9	německého	AAIS2----1A----	Atr
+10	problému	NNIS2-----A----	Atr
+11	je	VB-S---3P-AA---	Sb
+12	rozdíl	NNIS1-----A----	Sb
+13	mentalit	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94207-79-p36s4
+1	Pro	RR--4----------	AuxP
+2	budoucí	AAIS4----1A----	Atr
+3	vývoj	NNIS4-----A----	Adv
+4	je	VB-S---3P-AA---	Obj
+5	velmi	Db-------------	Adv
+6	důležité	AANS1----1A----	Pnom
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	se	P7-X4----------	AuxR
+10	vžité	AAIP1----1A----	Atr
+11	náhledy	NNIP1-----A----	Sb
+12	na	RR--4----------	AuxP
+13	věc	NNFS4-----A----	Atr
+14	neregenerovaly	VpTP---XR-NA---	Sb
+15	,	Z:-------------	AuxX
+16	říká	VB-S---3P-AA---	Pred
+17	Jens	NNMS1-----A----	Atr
+18	Reich	NNMS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+ln94207-79-p37s1
+1	Myslí	VB-S---3P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	je	VB-S---3P-AA---	Obj
+6	zatím	Db-------------	Adv
+7	příliš	Db-------------	Adv
+8	brzy	Dg-------1A----	Adv
+9	předpovídat	Vf--------A----	Sb
+10	,	Z:-------------	AuxX
+11	jak	Db-------------	ExD
+12	a	J^-------------	Coord
+13	kdy	Db-------------	Adv
+14	se	P7-X4----------	AuxR
+15	rozdíly	NNIP1-----A----	Sb
+16	setřou	VB-P---3P-AA---	Obj
+17	.	Z:-------------	AuxK
+
+ln94207-79-p37s2
+1	Vymření	NNNS1-----A----	Sb
+2	generací	NNFP2-----A----	Atr
+3	podle	RR--2----------	AuxP
+4	něj	P5ZS2--3-------	Adv
+5	není	VB-S---3P-NA---	Pred
+6	konečnou	AAFS7----1A----	Atr
+7	odpovědí	NNFS7-----A----	Pnom
+8	.	Z:-------------	AuxK
+
+ln94207-79-p37s3
+1	Není	VB-S---3P-NA---	Pred
+2	totiž	Db-------------	AuxY
+3	jisté	AANS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	se	P7-X4----------	AuxT
+7	trendy	NNIP1-----A----	Sb
+8	související	AGIP1-----A----	Atr
+9	se	RV--7----------	AuxP
+10	sjednocením	NNNS7-----A----	Obj
+11	promítnou	VB-P---3P-AA---	Sb
+12	na	RR--4----------	AuxP
+13	dorůstající	AGFP4-----A----	Atr
+14	generace	NNFP4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94207-79-p37s4
+1	Zda	J,-------------	AuxC
+2	se	P7-X4----------	AuxR
+3	budou	VB-P---3F-AA---	AuxV
+4	obnovovat	Vf--------A----	Pred
+5	,	Z:-------------	AuxX
+6	jako	J,-------------	AuxC
+7	například	Db-------------	AuxZ
+8	při	RR--6----------	AuxP
+9	etnických	AAIP6----1A----	Atr
+10	konfliktech	NNIP6-----A----	ExD
+11	,	Z:-------------	AuxX
+12	nebo	J^-------------	Coord
+13	zda	J,-------------	AuxC
+14	je	PPXP4--3-------	Obj
+15	čas	NNIS1-----A----	Sb
+16	zcela	Db-------------	Adv
+17	odvane	VB-S---3P-AA---	Pred
+18	.	Z:-------------	AuxK
+
+ln94207-79-p38s1
+1	Znám	VB-S---1P-AA---	Pred
+2	mladé	AAMP4----1A----	Atr
+3	lidi	NNMP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	to	PDNS4----------	Obj
+7	jako	J,-------------	AuxY
+8	věčný	AAIS4----1A----	Atr
+9	problém	NNIS4-----A----	Atv
+10	necítí	VB-P---3P-NA---	Atr
+11	.	Z:-------------	AuxK
+
+ln94207-79-p38s2
+1	Jsou	VB-P---3P-AA---	Obj
+2	však	J^-------------	Coord
+3	i	J^-------------	AuxZ
+4	tací	PDMP1----------	Sb
+5	,	Z:-------------	AuxX
+6	kteří	P4MP1----------	Sb
+7	si	P7-X3----------	Adv
+8	pocit	NNIS4-----A----	Obj
+9	NDR	AAXXX----1A---8	Atr
+10	-	Z:-------------	AuxG
+11	generace	NNFS2-----A----	Atr
+12	záměrně	Dg-------1A----	Adv
+13	pěstují	VB-P---3P-AA---	Atr
+14	,	Z:-------------	AuxX
+15	dodává	VB-S---3P-AA---	Pred
+16	profesor	NNMS1-----A----	Atr
+17	Reich	NNMS1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	který	P4YS1----------	Sb
+20	se	P7-X4----------	AuxT
+21	v	RR--6----------	AuxP
+22	nejbližších	AANP6----3A----	Atr
+23	letech	NNNP6-----A----	Adv
+24	nechce	VB-S---3P-NA---	Atr
+25	věnovat	Vf--------A----	Obj
+26	politice	NNFS3-----A----	Obj
+27	,	Z:-------------	AuxX
+28	nýbrž	J^-------------	Coord
+29	molekulární	AAFS3----1A----	Atr
+30	medicíně	NNFS3-----A----	Obj
+31	na	RR--6----------	AuxP
+32	Humboldtově	AUFS6M---------	Atr
+33	univerzitě	NNFS6-----A----	AtrAdv
+34	.	Z:-------------	AuxK
+
+ln94207-79-p39s1A
+1	Město	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	total	Db-------------	Adv
+
+ln94207-79-p39s1B
+1	Stejně	Dg-------1A----	Adv
+2	jako	J,-------------	AuxC
+3	byl	VpYS---XR-AA---	Adv
+4	východní	AAIS1----1A----	Atr
+5	Berlín	NNIS1-----A----	Sb
+6	se	RV--7----------	AuxP
+7	svými	P8XP7----------	Atr
+8	zrušenými	AAFP7----1A----	Atr
+9	institucemi	NNFP7-----A----	Atr
+10	,	Z:-------------	AuxX
+11	ministerstvy	NNNP7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	někdejší	AAFS7----1A----	Atr
+15	centrálou	NNFS7-----A----	Atr
+16	Stasi	NNFXX-----A---8	Atr
+17	více	Dg-------2A----	AuxZ
+18	než	J,-------------	AuxY
+19	pouhým	AANS7----1A----	Atr
+20	typickým	AANS7----1A----	Atr
+21	územím	NNNS7-----A----	Pnom
+22	někdejší	AAFS2----1A----	Atr
+23	NDR	NNFXX-----A---8	Atr
+24	,	Z:-------------	AuxX
+25	měl	VpYS---XR-AA---	Pred
+26	i	J^-------------	AuxZ
+27	Západní	AAIS1----1A----	Atr
+28	Berlín	NNIS1-----A----	Sb
+29	,	Z:-------------	AuxX
+30	coby	J,-------------	AuxY
+31	ostrůvek	NNIS1-----A----	Atv
+32	demokracie	NNFS2-----A----	Atr
+33	ve	RV--6----------	AuxP
+34	východním	AANS6----1A----	Atr
+35	moři	NNNS6-----A----	Atr
+36	,	Z:-------------	AuxX
+37	jisté	AAFP4----1A----	Atr
+38	výsady	NNFP4-----A----	Obj
+39	.	Z:-------------	AuxK
+
+ln94207-79-p39s2A
+1	Učitel	NNMS1-----A----	Atr
+2	Hartmut	NNMS1-----A----	Atr
+3	Kieser	NNMS1-----A----	Sb
+4	(	Z:-------------	ExD
+5	42	C=-------------	ExD
+6	let	NNNP2-----A----	Atr
+7	)	Z:-------------	ExD
+8	vysvětluje	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	to	PDNS4----------	Obj
+12	německá	AAFS1----1A----	Atr
+13	jednota	NNFS1-----A----	Sb
+14	má	VB-S---3P-AA---	Obj
+15	v	RR--6----------	AuxP
+16	Berlíně	NNIS6-----A----	Adv
+17	svízelné	AANS4----1A----	Atv
+18	:	Z:-------------	AuxK
+
+ln94207-79-p39s2B
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	zeď	NNFS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	jedenašedesátém	CrIS6----------	ExD
+6	znamenala	VpQW---XR-AA---	Adv
+7	šok	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	udělali	VpMP---XR-AA---	Pred
+10	jsme	VB-P---1P-AA---	AuxV
+11	si	P7-X3----------	Adv
+12	Západní	AAIS4----1A----	Atr
+13	Berlín	NNIS4-----A----	Obj
+14	příjemným	AAIS7----1A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94207-79-p39s3
+1	Mnozí	AAMP1----1A----	Atr
+2	Západoberlíňané	NNMP1-----A----	Sb
+3	si	P7-X3----------	Adv
+4	pochvalovali	VpMP---XR-AA---	Pred
+5	odloučení	NNNS4-----A----	Obj
+6	od	RR--2----------	AuxP
+7	spolkových	AAFP2----1A----	Atr
+8	zemí	NNFP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	od	RR--2----------	AuxP
+11	Wessis	NNMPX-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Bonnu	NNIS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	jak	Db-------------	Adv
+16	jim	PPXP3--3-------	Obj
+17	říkali	VpMP---XR-AA---	Atr
+18	.	Z:-------------	AuxK
+
+ln94207-79-p39s4
+1	Přivykli	VpMP---XR-AA--1	Pred
+2	spojenecké	AAFS3----1A----	Atr
+3	podpoře	NNFS3-----A----	Obj
+4	a	J^-------------	Coord
+5	ochraně	NNFS3-----A----	Obj
+6	.	Z:-------------	AuxK
+
+ln94207-79-p39s5
+1	Z	RR--2----------	AuxP
+2	pádu	NNIS2-----A----	Obj
+3	zdi	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	sice	Db-------------	AuxY
+6	zaradovali	VpMP---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	ne	TT-------------	Atr
+10	každý	AAMS1----1A----	Sb
+11	se	P7-X4----------	AuxT
+12	zatím	Db-------------	Adv
+13	naučil	VpYS---XR-AA---	Pred
+14	vstřícně	Dg-------1A----	Adv
+15	vyjít	Vf--------A----	Obj
+16	ze	RV--2----------	AuxP
+17	svého	P8ZS2----------	Atr
+18	uzamčení	NNNS2-----A----	Adv
+19	,	Z:-------------	Coord
+20	bez	RR--2----------	AuxP
+21	sentimentu	NNIS2-----A----	Adv
+22	pohřbít	Vf--------A----	Obj
+23	dosavadní	AAFS4----1A----	Atr
+24	výjimečnost	NNFS4-----A----	Obj
+25	města	NNNS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94207-79-p39s6
+1	Někteří	PZMP1----------	Atr
+2	lidé	NNMP1-----A---1	Sb
+3	navíc	Db-------------	Adv
+4	neradi	ACMP------N----	Atv
+5	slyší	VB-P---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	do	RR--2----------	AuxP
+9	nových	AAFP2----1A----	Atr
+10	zemí	NNFP2-----A----	Adv
+11	plyne	VB-S---3P-AA---	Obj
+12	ročně	Dg-------1A----	Adv
+13	150	C=-------------	Sb
+14	mld	NNFXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	marek	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94207-79-p40s1
+1	Martin	NNMS1-----A----	Atr
+2	Holz	NNMS1-----A----	Sb
+3	,	Z:-------------	Apos
+4	osmadvacetiletý	AAMS1----1A----	Atr
+5	medik	NNMS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	je	VB-S---3P-AA---	Pred
+8	rodilý	AAMS1----1A----	Atr
+9	Západoberlíňan	NNMS1-----A----	Pnom
+10	.	Z:-------------	AuxK
+
+ln94207-79-p40s2
+1	Na	RR--4----------	AuxP
+2	otázku	NNFS4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	cítí	VB-S---3P-AA---	Atr
+6	město	NNNS4-----A----	Obj
+7	i	J^-------------	AuxZ
+8	po	RR--6----------	AuxP
+9	téměř	Db-------------	AuxZ
+10	pěti	Cn-P6----------	Atr
+11	letech	NNNP6-----A----	Adv
+12	od	RR--2----------	AuxP
+13	pádu	NNIS2-----A----	Atr
+14	zdi	NNFS2-----A----	Atr
+15	jako	J,-------------	AuxY
+16	rozdělené	AANS4----1A----	Obj
+17	,	Z:-------------	AuxX
+18	odpovídá	VB-S---3P-AA---	Pred
+19	:	Z:-------------	AuxG
+20	Total	Db-------------	ExD
+21	!	Z:-------------	AuxK
+
+ln94207-79-p40s3A
+1	Nemyslí	VB-S---3P-NA---	Pred
+2	to	PDNS4----------	Obj
+3	zle	Dg-------1A----	Adv
+
+ln94207-79-p40s3B
+1	Do	RR--2----------	AuxP
+2	východní	AAFS2----1A----	Atr
+3	části	NNFS2-----A----	Adv
+4	jezdí	VB-S---3P-AA---	Pred
+5	jenom	TT-------------	AuxZ
+6	díky	RR--3----------	AuxP
+7	tomu	PDZS3----------	Adv
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	tam	Db-------------	Adv
+11	rodiče	NNMP1-----A----	Sb
+12	koupili	VpMP---XR-AA---	Atr
+13	v	RR--6----------	AuxP
+14	loděnici	NNFS6-----A----	Adv
+15	nějaký	PZIS4----------	Atr
+16	prám	NNIS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln94207-79-p40s4
+1	Má	VB-S---3P-AA---	Pred
+2	rád	ACYS------A----	AtvV
+3	chlápky	NNMP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	v	RR--6----------	AuxP
+7	poklidu	NNIS6-----A----	Adv
+8	místo	RR--2----------	AuxP
+9	natírání	NNNS2-----A----	Adv
+10	lodí	NNFP2-----A----	Atr
+11	popíjejí	VB-P---3P-AA---	Atr
+12	pivo	NNNS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94207-79-p40s5
+1	Bere	VB-S---3P-AA---	Pred
+2	to	PDNS4----------	Obj
+3	jako	J,-------------	AuxY
+4	osvěžení	NNNS4-----A----	Atv
+5	od	RR--2----------	AuxP
+6	západního	AAIS2----1A----	Atr
+7	pragmatismu	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94207-79-p41s1
+1	Lidé	NNMP1-----A---1	Sb
+2	z	RR--2----------	AuxP
+3	východu	NNIS2-----A----	Atr
+4	mu	PHZS3--3-------	Adv
+5	mnohdy	Db-------------	Adv
+6	připadají	VB-P---3P-AA---	Pred
+7	směšní	AAMP1----1A----	Obj
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	prý	TT-------------	AuxY
+11	to	PDNS4----------	Obj
+12	nemyslí	VB-S---3P-NA---	Pred
+13	zle	Dg-------1A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94207-79-p41s2
+1	Hned	Db-------------	Adv
+2	je	PPXP4--3-------	Obj
+3	poznáš	VB-S---2P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	podle	RR--2----------	AuxP
+6	účesu	NNIS2-----A----	Adv
+7	,	Z:-------------	Coord
+8	mluvy	NNFS2-----A----	Adv
+9	,	Z:-------------	Coord
+10	z	RR--2----------	AuxP
+11	pohybů	NNIP2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94207-79-p41s3
+1	A	J^-------------	Coord
+2	hlavně	Dg-------1A----	AuxZ
+3	jsou	VB-P---3P-AA---	Pred
+4	pořád	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	úžasu	NNIS6-----A---1	Adv
+7	.	Z:-------------	AuxK
+
+ln94207-79-p41s4
+1	Kolektivně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	diví	VB-P---3P-AA---	Pred
+4	a	J^-------------	Coord
+5	ukazují	VB-P---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	co	PQ--4----------	Obj
+8	si	P7-X3----------	Adv
+9	nakoupili	VpMP---XR-AA---	Obj
+10	.	Z:-------------	AuxK
+
+ln94207-79-p41s5A
+1	Zdá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	ho	PHZS4--3-------	Obj
+6	téma	NNNS1-----A----	Sb
+7	velmi	Db-------------	Adv
+8	baví	VB-S---3P-AA---	Sb
+9	:	Z:-------------	AuxK
+
+ln94207-79-p41s5B
+1	Jednou	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	viděl	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	jak	J,-------------	AuxC
+6	si	P7-X3----------	Obj
+7	jeden	ClYS1----------	Atr
+8	muž	NNMS1-----A----	Sb
+9	koupil	VpYS---XR-AA---	Obj
+10	nafukovací	AAFS4----1A----	Atr
+11	matraci	NNFS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94207-79-p41s6
+1	Stála	VpQW---XR-AA---	Pred
+2	15	C=-------------	Adv
+3	marek	NNFP2-----A----	Atr
+4	a	J^-------------	Coord
+5	byla	VpQW---XR-AA---	Pred
+6	na	RR--4----------	AuxP
+7	první	CrIS4----------	Atr
+8	pohled	NNIS4-----A----	Adv
+9	strašná	AAFS1----1A----	Pnom
+10	,	Z:-------------	Coord
+11	nekvalitní	AAFS1----1N----	Pnom
+12	.	Z:-------------	AuxK
+
+ln94207-79-p41s7
+1	On	PPYS1--3-------	Sb
+2	na	RR--4----------	AuxP
+3	to	PDNS4----------	Obj
+4	ale	J^-------------	Coord
+5	vůbec	Db-------------	AuxZ
+6	nedbal	VpYS---XR-NA---	Pred
+7	a	J^-------------	Coord
+8	honosil	VpYS---XR-AA---	Pred
+9	se	P7-X4----------	AuxT
+10	,	Z:-------------	AuxX
+11	jak	Db-------------	Adv
+12	levně	Dg-------1A----	Adv
+13	pořídil	VpYS---XR-AA---	Obj
+14	matraci	NNFS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94207-79-p41s8
+1	To	PDNS1----------	Sb
+2	přece	Db-------------	Adv
+3	není	VB-S---3P-NA---	Pred
+4	žádné	PWNS1----------	Atr
+5	vítězství	NNNS1-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	oni	PPMP1--3-------	Sb
+9	to	PDNS4----------	Obj
+10	ještě	Db-------------	Adv
+11	nechápou	VB-P---3P-NA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94207-79-p42s1
+1	Ze	RV--2----------	AuxP
+2	sjednocení	NNNS2-----A----	Atr
+3	má	VB-S---3P-AA---	Pred
+4	osobně	Dg-------1A----	Adv
+5	radost	NNFS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+ln94207-79-p42s2
+1	Myslí	VB-S---3P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	to	PDNS1----------	Sb
+6	je	VB-S---3P-AA---	Obj
+7	pro	RR--4----------	AuxP
+8	východní	AAMP4----1A----	Atr
+9	Němce	NNMP4-----A----	Adv
+10	dobré	AANS1----1A----	Pnom
+11	,	Z:-------------	AuxX
+12	i	J^-------------	AuxY
+13	když	J,-------------	AuxC
+14	uznává	VB-S---3P-AA---	Adv
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	byli	VpMP---XR-AA---	AuxV
+18	hozeni	VsMP---XX-AP---	Obj
+19	do	RR--2----------	AuxP
+20	studené	AAFS2----1A----	Atr
+21	vody	NNFS2-----A----	Adv
+22	a	J^-------------	Coord
+23	že	J,-------------	AuxC
+24	se	P7-X4----------	AuxT
+25	v	RR--6----------	AuxP
+26	ní	P5FS6--3-------	Adv
+27	mnozí	AAMP1----1A----	Sb
+28	topí	VB-P---3P-AA---	Obj
+29	.	Z:-------------	AuxK
+
+ln94207-79-p42s3
+1	Očekává	VB-S---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	nové	AAFP1----1A----	Atr
+5	spolkové	AAFP1----1A----	Atr
+6	země	NNFP1-----A----	Sb
+7	posílí	VB-P---3P-AA---	Obj
+8	ve	RV--6----------	AuxP
+9	starém	AANS6----1A----	Atr
+10	Německu	NNNS6-----A----	Adv
+11	sociální	AANS4----1A----	Atr
+12	cítění	NNNS4-----A----	Obj
+13	,	Z:-------------	Coord
+14	což	PE--1----------	Sb
+15	je	VB-S---3P-AA---	Obj
+16	prý	TT-------------	AuxY
+17	správné	AANS1----1A----	Pnom
+18	.	Z:-------------	AuxK
+
+ln94207-79-p42s4
+1	Ve	RV--6----------	AuxP
+2	svém	P8ZS6----------	Atr
+3	prostorném	AAIS6----1A----	Atr
+4	bytě	NNIS6-----A----	Adv
+5	působí	VB-S---3P-AA---	Pred
+6	student	NNMS1-----A----	Atr
+7	Martin	NNMS1-----A----	Sb
+8	velmi	Db-------------	Adv
+9	vyrovnaně	Dg-------1A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94207-79-p42s5
+1	S	RR--7----------	AuxP
+2	kamarády	NNMP7-----A----	Adv
+3	právě	Db-------------	Adv
+4	probírá	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	by	Vc-------------	AuxV
+8	bylo	VpNS---XR-AA---	Obj
+9	nadmíru	Db-------------	Adv
+10	skandální	AANS1----1A----	Pnom
+11	,	Z:-------------	AuxX
+12	kdyby	J,-------------	AuxC
+13	zelenina	NNFS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	kterou	P4FS4----------	Obj
+16	pojídají	VB-P---3P-AA---	Atr
+17	,	Z:-------------	AuxX
+18	obsahovala	VpQW---XR-AA---	Sb
+19	látky	NNFP4-----A----	Obj
+20	podporující	AGFP4-----A----	Atr
+21	rakovinu	NNFS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94207-79-p43s1A
+1	Konzum	NNIS1-----A----	Sb
+2	mne	PP-S4--1-------	Obj
+3	už	Db-------------	Adv
+4	spolkl	VpYS---XR-AA--1	Pred
+
+ln94207-79-p43s1B
+1	Florian	NNMS1-----A----	Sb
+2	,	Z:-------------	Apos
+3	33	C=-------------	Atr
+4	letý	AAMS1----1A----	Atr
+5	technik	NNMS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	jednom	ClZS6----------	Atr
+8	západoberlínském	AANS6----1A----	Atr
+9	nahrávacím	AANS6----1A----	Atr
+10	studiu	NNNS6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	radí	VB-S---3P-AA---	Pred
+13	spoluobčanům	NNMP3-----A----	Obj
+14	z	RR--2----------	AuxP
+15	východních	AAFP2----1A----	Atr
+16	čtvrtí	NNFP2-----A----	Atr
+17	jediné	AANS4----1A----	Obj
+18	:	Z:-------------	Apos
+19	Nenechte	Vi-P---2--N----	Obj
+20	se	P7-X4----------	Obj
+21	spolknout	Vf--------A----	Obj
+22	západním	AAIS7----1A----	Atr
+23	konzumem	NNIS7-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94207-79-p43s2
+1	Dříve	Dg-------2A----	Adv
+2	neznámou	AAFS7----1N----	Atr
+3	částí	NNFS7-----A----	Obj
+4	města	NNNS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	doslova	Db-------------	Adv
+7	okouzlen	VsYS---XX-AP---	Pnom
+8	.	Z:-------------	AuxK
+
+ln94207-79-p43s3
+1	Duchovním	AANS7----1A----	Atr
+2	klimatem	NNNS7-----A----	ExD
+3	,	Z:-------------	Coord
+4	neokázalými	AAIP7----1N----	Atr
+5	hudebními	AAIP7----1A----	Atr
+6	kluby	NNIP7-----A----	ExD
+7	,	Z:-------------	Coord
+8	líbí	VB-S---3P-AA---	Pred
+9	se	P7-X4----------	AuxT
+10	mu	PHZS3--3-------	Obj
+11	dokonce	Db-------------	AuxZ
+12	i	J^-------------	AuxZ
+13	panelová	AAFS1----1A----	Atr
+14	architektura	NNFS1-----A----	Sb
+15	kolem	RR--2----------	AuxP
+16	televizní	AAFS2----1A----	Atr
+17	věže	NNFS2-----A----	Atr
+18	na	RR--6----------	AuxP
+19	Alexanderplatzu	NNIS6-----A----	Atr
+20	,	Z:-------------	AuxX
+21	neboť	J^-------------	Coord
+22	je	VB-S---3P-AA---	Pred
+23	prý	TT-------------	AuxY
+24	kosmická	AAFS1----1A----	Pnom
+25	.	Z:-------------	AuxK
+
+ln94207-79-p43s4
+1	Ale	J^-------------	Coord
+2	jo	TT-------------	ExD
+3	,	Z:-------------	ExD
+4	bydlel	VpYS---XR-AA---	Obj
+5	bych	Vc-S---1-------	AuxV
+6	tam	Db-------------	Adv
+7	,	Z:-------------	AuxX
+8	říká	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	byty	NNIP1-----A----	Sb
+12	nejsou	VB-P---3P-NA---	Pred
+13	moc	Db-------------	Adv
+14	dobré	AAIP1----1A----	Pnom
+15	,	Z:-------------	AuxX
+16	nejsou	VB-P---3P-NA---	Pred
+17	pohodlně	Dg-------1A----	Adv
+18	vybavené	AAIP1----1A----	Pnom
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	hlavně	Dg-------1A----	AuxZ
+22	nemají	VB-P---3P-NA---	Pred
+23	telefon	NNIS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94207-79-p44s1
+1	-	Z:-------------	AuxG
+2	Ale	J^-------------	Coord
+3	k	RR--3----------	AuxP
+4	čemu	PQ--3----------	ExD
+5	pěkný	AAIS4----1A----	Atr
+6	byt	NNIS4-----A----	ExD
+7	?	Z:-------------	AuxK
+
+ln94207-79-p44s2
+1	Vždyť	J^-------------	Coord
+2	právě	Db-------------	AuxZ
+3	bez	RR--2----------	AuxP
+4	něj	P5ZS2--3-------	Adv
+5	je	VB-S---3P-AA---	Pred
+6	to	PDNS1----------	Sb
+7	pohádkové	AANS1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	romantika	NNFS1-----A----	ExD
+10	,	Z:-------------	Coord
+11	přeci	Db------------1	ExD
+12	stop	NNNXX-----A----	ExD
+13	konzumu	NNIS3-----A----	Atr
+14	.	Z:-------------	AuxK
+15	.	Z:-------------	AuxK
+16	.	Z:-------------	AuxK
+
+ln94207-79-p45s1
+1	Mě	PH-S4--1-------	Obj
+2	už	Db-------------	Adv
+3	konzum	NNIS1-----A----	Sb
+4	asi	TT-------------	AuxY
+5	spolkl	VpYS---XR-AA--1	Pred
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+
+ln94207-79-p45s2
+1	Vypadá	VB-S---3P-AA---	Pred
+2	dírami	NNFP7-----A----	Adv
+3	přes	RR--4----------	AuxP
+4	rozervané	AAIP4----1A----	Atr
+5	džíny	NNIP4-----A----	Atr
+6	velmi	Db-------------	Adv
+7	rozechvěle	Dg-------1A----	Adv
+8	,	Z:-------------	AuxX
+9	asi	TT-------------	AuxZ
+10	jako	J,-------------	AuxC
+11	novinář	NNMS1-----A----	Atr
+12	Joachim	NNMS1-----A----	ExD
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	tvrdil	VpYS---XR-AA---	Atr
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	pro	RR--4----------	AuxP
+19	něj	P5ZS4--3-------	Adv
+20	už	Db-------------	Adv
+21	slunce	NNNS1-----A----	Sb
+22	v	RR--6----------	AuxP
+23	Berlíně	NNIS6-----A----	Adv
+24	nesvítí	VB-S---3P-NA---	Obj
+25	.	Z:-------------	AuxK
+
+ln94207-79-p46s1A
+1	Pocit	NNIS1-----A----	Obj
+2	ukřivděnosti	NNFS2-----A----	Atr
+3	se	P7-X4----------	AuxR
+4	nedá	VB-S---3P-NA---	Pred
+5	vyčíslit	Vf--------A----	Sb
+
+ln94207-79-p46s1B
+1	Profesor	NNMS1-----A----	Atr
+2	Reich	NNMS1-----A----	Sb
+3	měl	VpYS---XR-AA---	Pred
+4	bezpochyby	Db-------------	Adv
+5	pravdu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	když	J,-------------	AuxC
+8	se	P7-X4----------	AuxT
+9	zmínil	VpYS---XR-AA---	Adv
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	Němce	NNMP4-----A----	Obj
+13	odděluje	VB-S---3P-AA---	Obj
+14	rozdílná	AAFS1----1A----	Atr
+15	mentalita	NNFS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94207-79-p46s2
+1	Myslel	VpYS---XR-AA---	Pred
+2	tím	PDZS7----------	Adv
+3	návyky	NNIP4-----A----	Obj
+4	lidí	NNMP2-----A----	Atr
+5	vzešlých	AAMP2----1A----	Atr
+6	ze	RV--2----------	AuxP
+7	dvou	ClXP2----------	Atr
+8	odlišných	AAIP2----1A----	Atr
+9	režimů	NNIP2-----A----	Obj
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	se	P7-X4----------	AuxT
+13	znovu	Db-------------	Adv
+14	setkali	VpMP---XR-AA---	Atr
+15	v	RR--6----------	AuxP
+16	jednom	ClZS6----------	Atr
+17	státě	NNIS6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94207-79-p46s3
+1	V	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	směru	NNIS6-----A----	Adv
+4	vypovídá	VB-S---3P-AA---	Pred
+5	o	RR--6----------	AuxP
+6	měnícím	AGIS6-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	trendu	NNIS6-----A----	Obj
+9	poslední	AAIS1----1A----	Atr
+10	výzkum	NNIS1-----A----	Sb
+11	veřejného	AANS2----1A----	Atr
+12	mínění	NNNS2-----A----	Atr
+13	agentury	NNFS2-----A----	Atr
+14	Emnid	NNFXX-----A---8	Atr
+15	,	Z:-------------	AuxX
+16	podle	RR--2----------	AuxP
+17	něhož	P9ZS2----------	Adv
+18	se	P7-X4----------	AuxT
+19	východním	AAMS7----1A----	Atr
+20	Němcem	NNMS7-----A----	Pnom
+21	cítí	VB-S---3P-AA---	Atr
+22	být	Vf--------A----	Obj
+23	už	Db-------------	AuxZ
+24	jen	TT-------------	AuxZ
+25	36	C=-------------	Sb
+26	%	Z:-------------	Atr
+27	dotázaných	AAMP2----1A----	Atr
+28	občanů	NNMP2-----A----	Atr
+29	nových	AAFP2----1A----	Atr
+30	spolkových	AAFP2----1A----	Atr
+31	zemí	NNFP2-----A----	Atr
+32	,	Z:-------------	AuxX
+33	oproti	RR--3----------	AuxP
+34	61	C=-------------	Atr
+35	%	Z:-------------	Adv
+36	v	RR--6----------	AuxP
+37	roce	NNIS6-----A---1	Atr
+38	1992	C=-------------	Atr
+39	.	Z:-------------	AuxK
+
+ln94207-79-p46s4
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	za	RR--4----------	AuxP
+4	dva	ClYP4----------	Atr
+5	roky	NNIP4-----A----	Adv
+6	výrazný	AAIS1----1A----	Atr
+7	posun	NNIS1-----A----	Pnom
+8	,	Z:-------------	AuxX
+9	třebaže	J,-------------	AuxC
+10	pocit	NNIS1-----A----	Sb
+11	ukřivděnosti	NNFS2-----A----	Atr
+12	je	VB-S---3P-AA---	Adv
+13	procenty	NNNP7-----A----	Adv
+14	nevyčíslitelný	AAIS1----1N----	Pnom
+15	.	Z:-------------	AuxK
+
+ln94207-79-p47s1
+1	Zazní	VB-S---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	však	J^-------------	Coord
+5	otázka	NNFS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	zda	J,-------------	AuxC
+8	se	P7-X4----------	AuxT
+9	sžilo	VpNS---XR-AA---	Atr
+10	rozdělené	AANS1----1A----	Atr
+11	město	NNNS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	jediná	AAFS1----1A----	Atr
+14	odpověď	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	je	VB-S---3P-AA---	Atr
+18	dovolena	VsQW---XX-AP---	Pnom
+19	s	RR--7----------	AuxP
+20	ohledem	NNIS7-----A----	AuxP
+21	na	RR--4----------	AuxP
+22	vševědoucí	AAMP4----1A----	Atr
+23	berlínské	AAMP4----1A----	Atr
+24	anděly	NNMP4-----A----	Adv
+25	,	Z:-------------	AuxX
+26	pak	Db-------------	Adv
+27	bude	VB-S---3F-AA---	Pred
+28	:	Z:-------------	AuxG
+29	Ano	TT-------------	ExD
+30	jistě	Dg-------1A----	ExD
+31	,	Z:-------------	Coord
+32	tak	Db-------------	ExD
+33	,	Z:-------------	AuxX
+34	jako	J,-------------	AuxC
+35	je	VB-S---3P-AA---	Adv
+36	Berlín	NNIS1-----A----	Sb
+37	sourodý	AAIS1----1A----	Pnom
+38	ve	RV--6----------	AuxP
+39	své	P8FS6---------1	Atr
+40	nesourodosti	NNFS6-----N----	Adv
+41	.	Z:-------------	AuxK
+
+ln94207-79-p47s2
+1	Tak	Db-------------	ExD
+2	,	Z:-------------	AuxX
+3	jako	J,-------------	AuxC
+4	se	P7-X4----------	AuxT
+5	už	Db-------------	Adv
+6	navždy	Db-------------	Adv
+7	bude	VB-S---3F-AA---	AuxV
+8	lišit	Vf--------A----	Adv
+9	výstavná	AAFS1----1A----	Atr
+10	západoberlínská	AAFS1----1A----	Atr
+11	třída	NNFS1-----A----	Sb
+12	Kurfürstendamm	NNIXX-----A----	Atr
+13	od	RR--2----------	AuxP
+14	chladně	Dg-------1A----	Adv
+15	prefabrikované	AAFS2----1A----	Atr
+16	Karl	AAXXX----1A----	Atr
+17	-	Z:-------------	AuxG
+18	Marx	AAXXX----1A----	Atr
+19	-	Z:-------------	AuxG
+20	Allee	NNFXX-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94207-79-p47s3
+1	Nezůstane	VB-S---3P-NA---	Pred
+2	jen	TT-------------	AuxZ
+3	zkušebnou	NNFS7-----A----	Obj
+4	či	J^-------------	Coord
+5	dílnou	NNFS7-----A----	Obj
+6	německé	AAFS2----1A----	Atr
+7	jednoty	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	nýbrž	J^-------------	Coord
+10	nadlouho	Db-------------	ExD
+11	jejím	PSZS7FS3-------	Atr
+12	nejvznětlivějším	AAIS7----3A----	Atr
+13	článkem	NNIS7-----A----	ExD
+14	.	Z:-------------	AuxK
+
+ln94207-79-p48s1
+1	Foto	NNNS1-----A----	ExD
+2	autorka	NNFS1-----A----	ExD
+

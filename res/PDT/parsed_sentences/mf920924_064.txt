@@ -1,0 +1,83 @@
+mf920924-064-p1s1
+1	Řetěz	NNIS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	dálnici	NNFS6-----A----	Atr
+
+mf920924-064-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	peo	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920924-064-p2s2
+1	Nevěnování	NNNS1-----N----	Sb
+2	řidičské	AAFS2----1A----	Atr
+3	pozornosti	NNFS2-----A----	Atr
+4	provozu	NNIS3-----A----	Atr
+5	v	RR--6----------	AuxP
+6	úseku	NNIS6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	je	VB-S---3P-AA---	AuxV
+10	provoz	NNIS1-----A----	Sb
+11	na	RR--6----------	AuxP
+12	dálnici	NNFS6-----A----	Atr
+13	D	C}-------------	Atr
+14	-	Z:-------------	AuxG
+15	1	C=-------------	Atr
+16	převeden	VsYS---XX-AP---	Atr
+17	do	RR--2----------	AuxP
+18	jednoho	ClZS2----------	Atr
+19	směru	NNIS2-----A----	Adv
+20	,	Z:-------------	AuxX
+21	mělo	VpNS---XR-AA---	Pred
+22	včera	Db-------------	Adv
+23	před	RR--7----------	AuxP
+24	půl	ClXS7----------	Adv
+25	devátou	CrFS7----------	Atr
+26	ráno	Db-------------	Atr
+27	za	RR--4----------	AuxP
+28	následek	NNIS4-----A----	Adv
+29	řetězový	AAIS4----1A----	Atr
+30	střet	NNIS4-----A----	Obj
+31	pěti	Cn-P2----------	Atr
+32	osobních	AAIP2----1A----	Atr
+33	vozů	NNIP2-----A----	Atr
+34	na	RR--6----------	AuxP
+35	14	C=-------------	Atr
+36	.	Z:-------------	AuxG
+37	kilometru	NNIS6-----A----	Atr
+38	.	Z:-------------	AuxK
+
+mf920924-064-p2s3
+1	Nehoda	NNFS1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	celkovou	AAFS7----1A----	Atr
+4	škodou	NNFS7-----A----	Atr
+5	27	C=-------------	Atr
+6	tisíc	ClXS2----------	Atr
+7	korun	NNFP2-----A----	Atr
+8	zkomplikovala	VpQW---XR-AA---	Pred
+9	už	Db-------------	AuxZ
+10	tak	Db-------------	Adv
+11	vážnou	AAFS4----1A----	Atr
+12	dopravní	AAFS4----1A----	Atr
+13	situaci	NNFS4-----A----	Obj
+14	na	RR--4----------	AuxP
+15	dvacet	Cn-S4----------	Adv
+16	minut	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920924-064-p2s4
+1	Dva	ClYP1----------	Atr
+2	zjištění	AAMP1----1A----	Atr
+3	viníci	NNMP1-----A----	Sb
+4	byli	VpMP---XR-AA---	AuxV
+5	pokutováni	VsMP---XX-AP---	Pred
+6	po	RR--6----------	AuxP
+7	pěti	Cn-P6----------	Atr
+8	stech	ClXP6---------1	Obj
+9	korunách	NNFP6-----A----	Atr
+10	.	Z:-------------	AuxK
+

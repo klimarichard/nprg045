@@ -1,0 +1,149 @@
+lnd94101-004-p1s1
+1	Homolka	NNFS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	trestný	AAIS1----1A----	Atr
+4	čin	NNIS1-----A----	Sb
+5	nebyl	VpYS---XR-NA---	AuxV
+6	spáchán	VsYS---XX-AP---	Pred
+
+lnd94101-004-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ria	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94101-004-p1s3
+1	Úřad	NNIS1-----A----	Sb
+2	vyšetřování	NNNS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Atr
+5	5	C=-------------	Atr
+6	nedospěl	VpYS---XR-NA---	Pred
+7	k	RR--3----------	AuxP
+8	závěru	NNIS3-----A----	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	by	Vc-------------	AuxV
+12	v	RR--6----------	AuxP
+13	případě	NNIS6-----A----	Adv
+14	zraněného	AAMS2----1A----	Atr
+15	člena	NNMS2-----A----	Atr
+16	prezidentovy	AUFS2M---------	Atr
+17	ochranky	NNFS2-----A----	Atr
+18	J	NNMXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	F	NNMXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	spáchal	VpYS---XR-AA---	Atr
+23	lékař	NNMS1-----A----	Sb
+24	z	RR--2----------	AuxP
+25	nemocnice	NNFS2-----A----	Atr
+26	Na	RR--6----------	AuxP
+27	Homolce	NNFS6-----A----	Atr
+28	trestný	AAIS4----1A----	Atr
+29	čin	NNIS4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+lnd94101-004-p1s4
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ředitel	NNMS1-----A----	Atr
+5	úřadu	NNIS2-----A----	Atr
+6	major	NNMS1-----A----	Atr
+7	Josef	NNMS1-----A----	Atr
+8	Kašper	NNMS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+lnd94101-004-p1s5
+1	Vyšetřování	NNNS1-----A----	Sb
+2	však	J^-------------	Coord
+3	ještě	Db-------------	Adv
+4	definitivně	Dg-------1A----	Adv
+5	neskončilo	VpNS---XR-NA---	Pred
+6	.	Z:-------------	AuxK
+
+lnd94101-004-p1s6
+1	Podle	RR--2----------	AuxP
+2	Kašpera	NNMS2-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	prokázalo	VpNS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	pacient	NNMS1-----A----	Sb
+8	nečekal	VpYS---XR-NA---	Sb
+9	na	RR--6----------	AuxP
+10	chodbě	NNFS6-----A----	Adv
+11	Homolky	NNFS2-----A----	Atr
+12	déle	Dg-------2A----	Adv
+13	než	J,-------------	AuxC
+14	30	C=-------------	Adv
+15	minut	NNFP2-----A----	Atr
+16	a	J^-------------	Coord
+17	lékař	NNMS1-----A----	Sb
+18	na	RR--6----------	AuxP
+19	příjmu	NNIS6-----A----	Atr
+20	se	P7-X4----------	AuxT
+21	mezitím	Db-------------	Adv
+22	snažil	VpYS---XR-AA---	Sb
+23	sehnat	Vf--------A----	Obj
+24	dýchací	AAIS4----1A----	Atr
+25	přístroj	NNIS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+lnd94101-004-p1s7
+1	Přestože	J,-------------	AuxC
+2	trestní	AANS1----1A----	Atr
+3	oznámení	NNNS1-----A----	Sb
+4	nevyústilo	VpNS---XR-NA---	Adv
+5	ve	RV--4----------	AuxP
+6	stíhání	NNNS4-----A----	Adv
+7	konkrétní	AAFS2----1A----	Atr
+8	osoby	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	měla	VpQW---XR-AA---	Pred
+11	podle	RR--2----------	AuxP
+12	Kašpera	NNMS2-----A----	Adv
+13	Hradní	AAFS1----1A----	Atr
+14	policie	NNFS1-----A----	Sb
+15	povinnost	NNFS4-----A----	Obj
+16	oznámení	NNNS4-----A----	Obj
+17	podat	Vf--------A----	Atr
+18	,	Z:-------------	AuxX
+19	pokud	J,-------------	AuxC
+20	měla	VpQW---XR-AA---	Adv
+21	podezření	NNNS4-----A----	Obj
+22	na	RR--4----------	AuxP
+23	trestný	AAIS4----1A----	Atr
+24	čin	NNIS4-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd94101-004-p1s8
+1	Naopak	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	Obj
+4	vystavila	VpQW---XR-AA---	Pred
+5	nebezpečí	NNNS3-----A----	Obj
+6	,	Z:-------------	AuxX
+7	kdyby	J,-------------	AuxC
+8	nic	PW--4----------	Obj
+9	neoznámila	VpQW---XR-NA---	Adv
+10	a	J^-------------	Coord
+11	dodatečně	Dg-------1A----	Adv
+12	se	P7-X4----------	AuxR
+13	ukázalo	VpNS---XR-AA---	Adv
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	vše	PLNS1---------1	Sb
+17	v	RR--6----------	AuxP
+18	pořádku	NNIS6-----A----	Adv
+19	nebylo	VpNS---XR-NA---	Sb
+20	.	Z:-------------	AuxK
+
+lnd94101-004-p1s9
+1	Více	Dg-------2A----	ExD
+2	na	RR--6----------	AuxP
+3	straně	NNFS6-----A----	ExD
+4	2	C=-------------	Atr
+

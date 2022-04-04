@@ -1,0 +1,189 @@
+mf920925-118-p1s1
+1	Demise	NNFS1-----A----	ExD
+2	ministra	NNMS2-----A----	Atr
+3	Davida	NNMS2-----A----	Atr
+4	Mellora	NNMS2-----A----	Atr
+5	DALŠÍ	AAIS1----1A----	Atr
+6	SKANDÁL	NNIS1-----A----	ExD
+7	VE	RV--6----------	AuxP
+8	VELKÉ	AAFS6----1A----	Atr
+9	BRITÁNII	NNFS6-----A----	Atr
+
+mf920925-118-p2s1
+1	Londýn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920925-118-p2s2
+1	Na	RR--4----------	AuxP
+2	úřad	NNIS4-----A----	Obj
+3	ministra	NNMS2-----A----	Atr
+4	národního	AANS2----1A----	Atr
+5	dědictví	NNNS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	kabinetu	NNIS6-----A---1	Atr
+8	britského	AAMS2----1A----	Atr
+9	premiéra	NNMS2-----A----	Atr
+10	Johna	NNMS2-----A----	Atr
+11	Majora	NNMS2-----A----	Atr
+12	rezignoval	VpYS---XR-AA---	Pred
+13	včera	Db-------------	Adv
+14	večer	Db-------------	Adv
+15	David	NNMS1-----A----	Atr
+16	Mellor	NNMS1-----A----	ExD
+17	(	Z:-------------	ExD
+18	43	C=-------------	Atr
+19	)	Z:-------------	ExD
+20	.	Z:-------------	AuxK
+
+mf920925-118-p3s1
+1	V	RR--6----------	AuxP
+2	posledních	AAIP6----1A----	Atr
+3	dnech	NNIP6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	dostal	VpYS---XR-AA---	Pred
+6	pod	RR--4----------	AuxP
+7	mimořádný	AAIS4----1A----	Atr
+8	tlak	NNIS4-----A----	Adv
+9	britských	AAIP2----1A----	Atr
+10	sdělovacích	AAIP2----1A----	Atr
+11	prostředků	NNIP2-----A----	Atr
+12	za	RR--4----------	AuxP
+13	to	PDNS4----------	Adv
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	strávil	VpYS---XR-AA---	Atr
+17	dovolenou	NNFS4-----A----	Obj
+18	ve	RV--6----------	AuxP
+19	společnosti	NNFS6-----A----	Adv
+20	dcery	NNFS2-----A----	Atr
+21	jednoho	ClZS2----------	Atr
+22	z	RR--2----------	AuxP
+23	vysokých	AAMP2----1A----	Atr
+24	představitelů	NNMP2-----A----	Atr
+25	Organizace	NNFS2-----A----	Atr
+26	pro	RR--4----------	AuxP
+27	osvobození	NNNS4-----A----	Atr
+28	Palestiny	NNFS2-----A----	Atr
+29	,	Z:-------------	AuxX
+30	která	P4FS1----------	Sb
+31	jeho	PSXXXZS3-------	Atr
+32	rodině	NNFS3-----A----	Obj
+33	zaplatila	VpQW---XR-AA---	Atr
+34	letenky	NNFP4-----A----	Obj
+35	.	Z:-------------	AuxK
+
+mf920925-118-p4s1
+1	Podle	RR--2----------	AuxP
+2	pravidel	NNNP2-----A----	Adv
+3	závazných	AANP2----1A----	Atr
+4	pro	RR--4----------	AuxP
+5	členy	NNMP4-----A----	Adv
+6	vlády	NNFS2-----A----	Atr
+7	nesmí	VB-S---3P-NA---	Pred
+8	ministr	NNMS1-----A----	Sb
+9	přijmout	Vf--------A----	Obj
+10	dar	NNIS4-----A----	Obj
+11	nebo	J^-------------	Coord
+12	službu	NNFS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	by	Vc-------------	AuxV
+16	ho	PHZS4--3-------	Obj
+17	mohla	VpQW---XR-AA---	Atr
+18	jakkoliv	Db-------------	Adv
+19	zavazovat	Vf--------A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920925-118-p4s2
+1	Ministr	NNMS1-----A----	Sb
+2	však	J^-------------	AuxY
+3	prohlásil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	má	VB-S---3P-AA---	Obj
+7	čisté	AANS4----1A----	Atv
+8	svědomí	NNNS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+mf920925-118-p4s3
+1	V	RR--6----------	AuxP
+2	rozhovoru	NNIS6-----A----	Adv
+3	pro	RR--4----------	AuxP
+4	BBC	NNFXX-----A---8	Atr
+5	se	P7-X4----------	AuxT
+6	ohradil	VpYS---XR-AA---	Pred
+7	proti	RR--3----------	AuxP
+8	tomu	PDZS3----------	Adv
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	o	RR--6----------	AuxP
+12	složení	NNNS6-----A----	Obj
+13	vlády	NNFS2-----A----	Atr
+14	rozhodovali	VpMP---XR-AA---	Adv
+15	vydavatelé	NNMP1-----A----	Sb
+16	bulvárních	AAIP2----1A----	Atr
+17	listů	NNIP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	kteří	P4MP1----------	Sb
+20	věnovali	VpMP---XR-AA---	Atr
+21	jeho	PSXXXZS3-------	Atr
+22	soukromému	AAIS3----1A----	Atr
+23	životu	NNIS3-----A----	Obj
+24	vytrvalou	AAFS4----1A----	Atr
+25	pozornost	NNFS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+mf920925-118-p5s1
+1	Problémy	NNIP1-----A----	Sb
+2	Davida	NNMS2-----A----	Atr
+3	Mellora	NNMS2-----A----	Atr
+4	propukly	VpTP---XR-AA--1	Pred
+5	v	RR--6----------	AuxP
+6	červenci	NNIS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	kdy	Db-------------	Adv
+9	jeden	ClYS1----------	Sb
+10	z	RR--2----------	AuxP
+11	britských	AAIP2----1A----	Atr
+12	nedělníků	NNIP2-----A----	Atr
+13	odhalil	VpYS---XR-AA---	Atr
+14	ministrovu	AUFS4M---------	Atr
+15	milostnou	AAFS4----1A----	Atr
+16	aféru	NNFS4-----A----	Obj
+17	s	RR--7----------	AuxP
+18	herečkou	NNFS7-----A----	Atr
+19	Antoniou	NNFS7-----A----	Atr
+20	de	RR--1----------	Atr
+21	Sancha	NNFXX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf920925-118-p5s2
+1	David	NNMS1-----A----	Atr
+2	Mellor	NNMS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	ženatý	AAMS1----1A----	Pnom
+5	a	J^-------------	Coord
+6	má	VB-S---3P-AA---	Pred
+7	dva	ClYP4----------	Atr
+8	syny	NNMP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+mf920925-118-p5s3
+1	Je	VB-S---3P-AA---	Pred
+2	prvním	CrMS7----------	Pnom
+3	z	RR--2----------	AuxP
+4	členů	NNMP2-----A----	Atr
+5	britského	AAIS2----1A----	Atr
+6	kabinetu	NNIS2-----A----	Atr
+7	ustaveného	AAIS2----1A----	Atr
+8	po	RR--6----------	AuxP
+9	dubnových	AAFP6----1A----	Atr
+10	parlamentních	AAFP6----1A----	Atr
+11	volbách	NNFP6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	odstoupil	VpYS---XR-AA---	Atr
+15	z	RR--2----------	AuxP
+16	funkce	NNFS2-----A----	Adv
+17	.	Z:-------------	AuxK
+

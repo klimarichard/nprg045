@@ -1,0 +1,309 @@
+ln94200-154-p1s1
+1	Výsledkový	AAIS1----1A----	Atr
+2	servis	NNIS1-----A----	ExD
+
+ln94200-154-p2s1
+1	Cyklistika	NNFS1-----A----	ExD
+2	MS	NNNXX-----A---8	ExD
+3	v	RR--6----------	AuxP
+4	Catanii	NNFS6-----A----	Atr
+5	-	Z:-------------	Coord
+6	časovka	NNFS1-----A----	ExD
+7	žen	NNFP2-----A----	Atr
+8	(	Z:-------------	ExD
+9	29.6	C=-------------	ExD
+10	km	NNIXX-----A---8	Atr
+11	)	Z:-------------	ExD
+12	:	Z:-------------	ExD
+
+ln94200-154-p3s1A
+1	Fotbal	NNIS1-----A----	ExD
+
+ln94200-154-p3s1B
+1	Předkolo	NNNS1-----A----	ExD
+2	PVP	NNIXX-----A---8	Atr
+
+ln94200-154-p3s1C
+1	(	Z:-------------	AuxG
+2	výsledek	NNIS1-----A----	ExD
+3	prvního	CrIS2----------	Atr
+4	zápasu	NNIS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	závorce	NNFS6-----A----	ExD
+7	,	Z:-------------	Coord
+8	tučně	Dg-------1A----	Adv
+9	vytištěná	AANP1----1A----	Atr
+10	mužstva	NNNP1-----A----	Sb
+11	postupují	VB-P---3P-AA---	Pred
+12	)	Z:-------------	AuxG
+
+ln94200-154-p3s3
+1	Předkolo	NNNS1-----A----	ExD
+2	Poháru	NNIS2-----A----	Atr
+3	UEFA	NNFXX-----A---8	Atr
+4	.	Z:-------------	AuxK
+
+ln94200-154-p5s1
+1	Německá	AAFS1----1A----	Atr
+2	liga	NNFS1-----A----	ExD
+3	-	Z:-------------	AuxK
+
+ln94200-154-p6s1
+1	Benfica	NNFS1-----A----	ExD
+2	Lisabon	NNIS1-----A----	Atr
+3	-	Z:-------------	Coord
+4	FC	NNIXX-----A---8	Atr
+5	Porto	NNNS1-----A----	ExD
+6	1	C=-------------	ExD
+7	:	Z:-------------	Coord
+8	1	C=-------------	ExD
+9	(	Z:-------------	AuxG
+10	0	C=-------------	ExD
+11	:	Z:-------------	Coord
+12	0	C=-------------	ExD
+13	)	Z:-------------	AuxG
+14	,	Z:-------------	Coord
+15	první	CrIS1----------	Atr
+16	zápas	NNIS1-----A----	ExD
+17	portugalského	AAIS2----1A----	Atr
+18	superpoháru	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94200-154-p6s2
+1	Branky	NNFP1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	77	C=-------------	ExD
+4	.	Z:-------------	AuxG
+5	Paneira	NNMS1-----A----	ExD
+6	-	Z:-------------	Coord
+7	75	C=-------------	ExD
+8	.	Z:-------------	AuxG
+9	Filipe	NNMS1-----A----	ExD
+10	.	Z:-------------	AuxK
+
+ln94200-154-p7s1A
+1	Hokej	NNIS1-----A----	ExD
+
+ln94200-154-p7s1B
+1	Vyzývací	AAIS1----1A----	Atr
+2	pohár	NNIS1-----A----	ExD
+3	'	Z:-------------	AuxG
+4	94	C=-------------	Atr
+5	-	Z:-------------	Coord
+6	finále	NNNS1-----A----	ExD
+7	:	Z:-------------	AuxG
+8	Tivali	NNNS1-----A----	ExD
+9	Minsk	NNIS1-----A----	Atr
+10	-	Z:-------------	Coord
+11	Dukla	NNFS1-----A----	ExD
+12	Trenčín	NNIS1-----A----	Atr
+13	4	C=-------------	ExD
+14	:	Z:-------------	Coord
+15	2	C=-------------	ExD
+16	(	Z:-------------	AuxG
+17	2	C=-------------	ExD
+18	:	Z:-------------	Coord
+19	0	C=-------------	ExD
+20	,	Z:-------------	AuxX
+21	2	C=-------------	ExD
+22	:	Z:-------------	Coord
+23	0	C=-------------	ExD
+24	,	Z:-------------	Coord
+25	0	C=-------------	ExD
+26	:	Z:-------------	Coord
+27	2	C=-------------	ExD
+28	)	Z:-------------	AuxG
+29	,	Z:-------------	Coord
+30	branky	NNFP1-----A----	ExD
+31	:	Z:-------------	AuxG
+32	Skabelka	NNMS1-----A----	ExD
+33	2	C=-------------	ExD
+34	,	Z:-------------	AuxX
+35	Pankov	NNMS1-----A----	ExD
+36	,	Z:-------------	Coord
+37	Taranovskij	NNMS1-----A----	ExD
+38	-	Z:-------------	Coord
+39	Madový	NNMS1-----A----	ExD
+40	,	Z:-------------	Coord
+41	Panvkovček	NNMS1-----A----	ExD
+42	.	Z:-------------	AuxK
+
+ln94200-154-p11s1A
+1	Dostihy	NNIP1-----A----	ExD
+
+ln94200-154-p11s1B
+1	Klusácké	AAIP1----1A----	Atr
+2	závody	NNIP1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Chuchli	NNFS6-----A----	Atr
+5	-	Z:-------------	AuxK
+
+ln94200-154-p11s3
+1	Jerusalém	AAXXX----1A----	Atr
+2	Star	NNFXX-----A----	ExD
+3	,	Z:-------------	AuxX
+4	3	C=-------------	Atr
+5	.	Z:-------------	AuxK
+
+ln94200-154-p11s4
+1	Lamia	NNFS1-----A----	Atr
+2	Vin	NNFXX-----A----	ExD
+3	.	Z:-------------	AuxK
+
+ln94200-154-p11s7
+1	Sperry	NNMS1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	3	C=-------------	Atr
+4	.	Z:-------------	AuxK
+
+ln94200-154-p11s8
+1	Solvar	NNMS1-----A----	ExD
+2	.	Z:-------------	AuxK
+
+ln94200-154-p11s11
+1	Bonan	NNMS1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	3	C=-------------	Atr
+4	.	Z:-------------	AuxK
+
+ln94200-154-p11s12
+1	Sab	NNMS1-----A----	ExD
+2	Skal	NNMXX-----A----	Atr
+3	.	Z:-------------	AuxK
+
+ln94200-154-p11s15
+1	Jamaica	NNFS1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	3	C=-------------	Atr
+4	.	Z:-------------	AuxK
+
+ln94200-154-p11s16
+1	Sperry	NNMS1-----A----	ExD
+2	.	Z:-------------	AuxK
+
+ln94200-154-p11s19
+1	Pamela	NNFS1-----A----	ExD
+2	Äs	NNFXX-----A----	Atr
+3	,	Z:-------------	AuxX
+4	3	C=-------------	Atr
+5	.	Z:-------------	AuxK
+
+ln94200-154-p11s20
+1	Sine	AAXXX----1A----	Atr
+2	Aspera	NNFXX-----A----	ExD
+3	.	Z:-------------	AuxK
+
+ln94200-154-p11s23
+1	Epigon	NNMS1-----A----	ExD
+2	Sund	NNMS1-----A----	Atr
+3	,	Z:-------------	AuxX
+4	3	C=-------------	Atr
+5	.	Z:-------------	AuxK
+
+ln94200-154-p11s24
+1	Roger	NNMS1-----A----	ExD
+2	.	Z:-------------	AuxK
+
+ln94200-154-p11s27
+1	Ilina	NNFS1-----A----	Atr
+2	Girl	NNFXX-----A----	ExD
+3	,	Z:-------------	AuxX
+4	3	C=-------------	Atr
+5	.	Z:-------------	AuxK
+
+ln94200-154-p11s28
+1	Luk	NNIS1-----A----	ExD
+2	.	Z:-------------	AuxK
+
+ln94200-154-p12s1
+1	Kolik	C?--4----------	Adv
+2	jste	VB-P---2P-AA---	AuxV
+3	vyhráli	VpMP---XR-AA---	Pred
+4	?	Z:-------------	AuxK
+
+ln94200-154-p13s1
+1	35	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	týden	NNIS1-----A----	ExD
+4	-	Z:-------------	Coord
+5	Super	AAXXX----1A----	ExD
+6	49	C=-------------	Atr
+7	:	Z:-------------	AuxG
+8	V	RR--6----------	AuxP
+9	I	C}-------------	Atr
+10	.	Z:-------------	AuxG
+11	pořadí	NNNS6-----A----	ExD
+12	1	C=-------------	Atr
+13	výhra	NNFS1-----A----	ExD
+14	5927906	C=-------------	Atr
+15	Kč	NNFXX-----A----	Atr
+16	,	Z:-------------	AuxX
+17	ve	RV--6----------	AuxP
+18	II	C}-------------	Adv
+19	.	Z:-------------	AuxG
+20	je	VB-S---3P-AA---	Pred
+21	6	C=-------------	Sb
+22	výher	NNFP2-----A----	Atr
+23	36111	C=-------------	Atr
+24	Kč	NNFXX-----A----	Atr
+25	,	Z:-------------	AuxX
+26	ve	RV--6----------	AuxP
+27	III	C}-------------	Adv
+28	.	Z:-------------	AuxG
+29	je	VB-S---3P-AA---	Pred
+30	531	C=-------------	Sb
+31	výher	NNFP2-----A----	Atr
+32	500	C=-------------	Atr
+33	Kč	NNFXX-----A----	Atr
+34	a	J^-------------	Coord
+35	ve	RV--6----------	AuxP
+36	IV	C}-------------	Adv
+37	.	Z:-------------	AuxG
+38	je	VB-S---3P-AA---	Pred
+39	8045	C=-------------	Sb
+40	výher	NNFP2-----A----	Atr
+41	50	C=-------------	Atr
+42	Kč	NNFXX-----A----	Atr
+43	.	Z:-------------	AuxK
+
+ln94200-154-p13s2
+1	Šance	NNFS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	V	RR--6----------	AuxP
+4	I	C}-------------	Atr
+5	.	Z:-------------	AuxG
+6	a	J^-------------	Coord
+7	II	C}-------------	Atr
+8	.	Z:-------------	AuxG
+9	pořadí	NNNS6-----A----	Adv
+10	není	VB-S---3P-NA---	Pred
+11	výhra	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	ve	RV--6----------	AuxP
+14	III	C}-------------	ExD
+15	.	Z:-------------	AuxG
+16	je	VB-S---3P-AA---	Pred
+17	1	C=-------------	Atr
+18	výhra	NNFS1-----A----	Sb
+19	10000	C=-------------	Atr
+20	Kč	NNFXX-----A----	Atr
+21	,	Z:-------------	AuxX
+22	ve	RV--6----------	AuxP
+23	IV	C}-------------	ExD
+24	.	Z:-------------	AuxG
+25	je	VB-S---3P-AA---	Pred
+26	26	C=-------------	Sb
+27	výher	NNFP2-----A----	Atr
+28	1000	C=-------------	Atr
+29	Kč	NNFXX-----A----	Atr
+30	a	J^-------------	Coord
+31	v	RR--6----------	AuxP
+32	V	C}-------------	ExD
+33	.	Z:-------------	AuxG
+34	je	VB-S---3P-AA---	Pred
+35	299	C=-------------	Sb
+36	výher	NNFP2-----A----	Atr
+37	100	C=-------------	Atr
+38	Kč	NNFXX-----A----	Atr
+39	.	Z:-------------	AuxK
+

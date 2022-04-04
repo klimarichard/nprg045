@@ -1,0 +1,156 @@
+ln95043-107-p1s1
+1	Těžba	NNFS1-----A----	Sb
+2	ropy	NNFS2-----A----	Atr
+3	vzrostla	VpQW---XR-AA---	Pred
+
+ln95043-107-p2s1A
+1	Hamburg	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95043-107-p2s1B
+1	Světová	AAFS1----1A----	Atr
+2	těžba	NNFS1-----A----	Sb
+3	ropy	NNFS2-----A----	Atr
+4	dosáhla	VpQW---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	loňském	AAIS6----1A----	Atr
+7	roce	NNIS6-----A---1	Adv
+8	3.2	C=-------------	Obj
+9	miliardy	NNFS2-----A----	Atr
+10	tun	NNFP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	což	PE--1----------	Sb
+13	je	VB-S---3P-AA---	Pred
+14	o	RR--4----------	AuxP
+15	1.1	C=-------------	Adv
+16	procenta	NNNS2-----A----	Atr
+17	více	Dg-------2A----	Pnom
+18	než	J,-------------	AuxC
+19	v	RR--6----------	AuxP
+20	předchozím	AAIS6----1A----	Atr
+21	roce	NNIS6-----A---1	ExD
+22	.	Z:-------------	AuxK
+
+ln95043-107-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	údajů	NNIP2-----A----	Obj
+5	Ropné	AAFS2----1A----	Atr
+6	informační	AAFS2----1A----	Atr
+7	služby	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95043-107-p3s1
+1	Největší	AAIS4----3A----	Atr
+2	podíl	NNIS4-----A----	Obj
+3	na	RR--6----------	AuxP
+4	tomto	PDZS6----------	Atr
+5	zvýšení	NNNS6-----A----	Atr
+6	má	VB-S---3P-AA---	Pred
+7	Británie	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	těžba	NNFS1-----A----	Sb
+11	ropy	NNFS2-----A----	Atr
+12	vzrostla	VpQW---XR-AA---	Atr
+13	o	RR--4----------	AuxP
+14	27	C=-------------	Adv
+15	procent	NNNP2-----A----	Atr
+16	a	J^-------------	Coord
+17	činila	VpQW---XR-AA---	Atr
+18	126	C=-------------	Obj
+19	miliónů	NNIP2-----A----	Atr
+20	tun	NNFP2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	a	J^-------------	Coord
+23	Norsko	NNNS1-----A----	Sb
+24	,	Z:-------------	AuxX
+25	kde	Db-------------	Adv
+26	se	P7-X4----------	AuxR
+27	loni	Db------------1	Adv
+28	vytěžilo	VpNS---XR-AA---	Atr
+29	131	C=-------------	Sb
+30	miliónů	NNIP2-----A----	Atr
+31	tun	NNFP2-----A----	Atr
+32	ropy	NNFS2-----A----	Atr
+33	,	Z:-------------	Coord
+34	což	PE--1----------	Sb
+35	je	VB-S---3P-AA---	Atr
+36	o	RR--4----------	AuxP
+37	14	C=-------------	Adv
+38	procent	NNNP2-----A----	Atr
+39	více	Dg-------2A----	Pnom
+40	než	J,-------------	AuxC
+41	v	RR--6----------	AuxP
+42	roce	NNIS6-----A---1	ExD
+43	1993	C=-------------	Atr
+44	.	Z:-------------	AuxK
+
+ln95043-107-p3s2
+1	Produkce	NNFS1-----A----	Sb
+2	ropy	NNFS2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	zvýšila	VpQW---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	v	RR--6----------	AuxP
+7	Argentině	NNFS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	Indii	NNFS6-----A----	Adv
+10	a	J^-------------	Coord
+11	Jemenu	NNIS6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln95043-107-p4s1
+1	Těžba	NNFS1-----A----	Sb
+2	ropy	NNFS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	Rusku	NNNS6-----A----	AtrAdv
+5	naopak	Db-------------	Adv
+6	poklesla	VpQW---XR-AA--1	Pred
+7	o	RR--4----------	AuxP
+8	8.8	C=-------------	Adv
+9	procenta	NNNS2-----A----	Atr
+10	a	J^-------------	Coord
+11	dosáhla	VpQW---XR-AA---	Pred
+12	výše	NNFS2-----A----	Obj
+13	311	C=-------------	Atr
+14	miliónů	NNIP2-----A----	Atr
+15	tun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95043-107-p4s2
+1	Rusko	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	tak	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	produkci	NNFS6-----A----	Adv
+6	ropy	NNFS2-----A----	Atr
+7	dostalo	VpNS---XR-AA---	Pred
+8	na	RR--4----------	AuxP
+9	třetí	CrNS4----------	Atr
+10	místo	NNNS4-----A----	Adv
+11	za	RR--4----------	AuxP
+12	Saúdskou	AAFS4----1A----	Atr
+13	Arábii	NNFS4-----A----	Adv
+14	a	J^-------------	Coord
+15	Spojené	AAIP4----1A----	Atr
+16	státy	NNIP4-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln95043-107-p4s3
+1	Dále	Db------------1	Adv
+2	následuje	VB-S---3P-AA---	Pred
+3	Irán	NNIS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	Mexiko	NNNS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	Čína	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	Norsko	NNNS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	Venezuela	NNFS1-----A----	Sb
+12	a	J^-------------	Coord
+13	Británie	NNFS1-----A----	Sb
+14	.	Z:-------------	AuxK
+

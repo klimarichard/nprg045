@@ -1,0 +1,469 @@
+ln95041-123-p1s1
+1	Vojenské	AAFP1----1A----	Atr
+2	stavby	NNFP1-----A----	Sb
+3	čekají	VB-P---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	stabilizaci	NNFS4-----A----	Obj
+6	(	Z:-------------	AuxG
+7	Stamiliónovým	NNMP3-----A----	Atr
+8	dotacím	NNFP3-----A----	Atr
+9	je	VB-S---3P-AA---	Pred
+10	konec	NNIS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95041-123-p1s2
+1	Příštích	AANP2----1A----	Atr
+2	pět	Cn-S4----------	Adv
+3	let	NNNP2-----A----	Atr
+4	nelze	VB-S---3P-NA---	Pred
+5	očekávat	Vf--------A----	Sb
+6	dividendy	NNFP4-----A----	Obj
+7	)	Z:-------------	AuxG
+
+ln95041-123-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95041-123-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-123-p3s1B
+1	Vojenské	AAFP1----1A----	Atr
+2	stavby	NNFP1-----A----	Sb
+3	dosáhly	VpTP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	loňském	AAIS6----1A----	Atr
+6	roce	NNIS6-----A---1	Adv
+7	obratu	NNIS2-----A----	Adv
+8	6.7	C=-------------	Atr
+9	miliardy	NNFS2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95041-123-p3s2
+1	Čistý	AAIS1----1A----	Atr
+2	zisk	NNIS1-----A----	Sb
+3	společnosti	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	více	Dg-------2A----	Pnom
+6	než	J,-------------	AuxC
+7	30	C=-------------	Adv
+8	miliónů	NNIP2-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95041-123-p3s3
+1	Relativně	Dg-------1A----	Adv
+2	malý	AAIS1----1A----	Atr
+3	zisk	NNIS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	poměru	NNIS6-----A----	AuxP
+6	k	RR--3----------	AuxP
+7	obratu	NNIS3-----A----	Adv
+8	je	VB-S---3P-AA---	Pred
+9	podle	RR--2----------	AuxP
+10	generálního	AAMS2----1A----	Atr
+11	ředitele	NNMS2-----A----	Atr
+12	Jaroslava	NNMS2-----A----	Atr
+13	Roušala	NNMS2-----A----	Adv
+14	dán	VsYS---XX-AP---	Pnom
+15	současnou	AAFS7----1A----	Atr
+16	velmi	Db-------------	Adv
+17	nízkou	AAFS7----1A----	Atr
+18	mírou	NNFS7-----A---1	Obj
+19	rentability	NNFS2-----A----	Atr
+20	ve	RV--6----------	AuxP
+21	stavebnictví	NNNS6-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95041-123-p4s1
+1	Podle	RR--2----------	AuxP
+2	dohody	NNFS2-----A----	Adv
+3	s	RR--7----------	AuxP
+4	vedením	NNNS7-----A----	Atr
+5	společnosti	NNFS2-----A----	Atr
+6	Charouz	NNMS1-----A----	Atr
+7	Holding	NNIS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	je	VB-S---3P-AA---	Atr
+11	vlastníkem	NNMS7-----A----	Pnom
+12	40	C=-------------	Atr
+13	procent	NNNP2-----A----	Atr
+14	akcií	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	nebude	VB-S---3F-NA---	AuxV
+17	v	RR--6----------	AuxP
+18	příštích	AANP6----1A----	Atr
+19	pěti	Cn-P6----------	Atr
+20	letech	NNNP6-----A----	Adv
+21	navrhována	VsQW---XX-AP---	Pred
+22	správní	AAFS3----1A----	Atr
+23	radě	NNFS3-----A----	Obj
+24	výplata	NNFS1-----A----	Sb
+25	dividend	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95041-123-p4s2
+1	Dalšími	AAMP7----1A----	Atr
+2	vlastníky	NNMP7-----A----	Pnom
+3	akcií	NNFP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	které	P4FP1----------	Sb
+6	byly	VpTP---XR-AA---	AuxV
+7	rozprodány	VsTP---XX-AP---	Atr
+8	ve	RV--6----------	AuxP
+9	druhé	CrFS6----------	Atr
+10	vlně	NNFS6-----A----	Adv
+11	kupónové	AAFS2----1A----	Atr
+12	privatizace	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	jsou	VB-P---3P-AA---	Pred
+15	převážně	Dg-------1A----	Adv
+16	fondy	NNIP1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+ln95041-123-p4s3
+1	Z	RR--2----------	AuxP
+2	celkového	AAIS2----1A----	Atr
+3	počtu	NNIS2-----A----	Atr
+4	1.2	C=-------------	Atr
+5	miliónu	NNIS2-----A----	Atr
+6	akcií	NNFP2-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	pouze	Db-------------	AuxZ
+9	zhruba	Db-------------	AuxZ
+10	5000	C=-------------	Sb
+11	ve	RV--6----------	AuxP
+12	vlastnictví	NNNS6-----A----	Adv
+13	DIKů	NNMP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95041-123-p4s4
+1	Ředitel	NNMS1-----A----	Atr
+2	Roušal	NNMS1-----A----	Sb
+3	předpokládá	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	potrvá	VB-S---3P-AA---	Obj
+7	minimálně	Dg-------1A----	AuxZ
+8	jeden	ClIS4----------	Atr
+9	rok	NNIS4-----A----	Adv
+10	,	Z:-------------	AuxX
+11	než	J,-------------	AuxC
+12	dojde	VB-S---3P-AA---	Adv
+13	ke	RV--3----------	AuxP
+14	stabilizaci	NNFS3-----A----	Obj
+15	vlastníků	NNMP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95041-123-p5s1
+1	Základní	AAIS1----1A----	Atr
+2	majetek	NNIS1-----A----	Sb
+3	Vojenských	AAFP2----1A----	Atr
+4	staveb	NNFP2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	1.197	C=-------------	Pnom
+7	miliardy	NNFS2-----A----	Atr
+8	korun	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95041-123-p5s2
+1	Počet	NNIS1-----A----	Sb
+2	zaměstnanců	NNMP2-----A----	Atr
+3	klesl	VpYS---XR-AA--1	Pred
+4	z	RR--2----------	AuxP
+5	původních	AAMP2----1A----	Atr
+6	15000	C=-------------	Obj
+7	na	RR--4----------	AuxP
+8	7000	C=-------------	Obj
+9	.	Z:-------------	AuxK
+
+ln95041-123-p5s3
+1	Společnost	NNFS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	22	C=-------------	Obj
+4	odštěpných	AAIP2----1A----	Atr
+5	závodů	NNIP2-----A----	Atr
+6	s	RR--7----------	AuxP
+7	celorepublikovou	AAFS7----1A----	Atr
+8	působností	NNFS7-----A----	Atr
+9	a	J^-------------	Coord
+10	je	VB-S---3P-AA---	Pred
+11	největší	AAFS7----3A----	Atr
+12	stavební	AAFS7----1A----	Atr
+13	firmou	NNFS7-----A----	Pnom
+14	v	RR--6----------	AuxP
+15	republice	NNFS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95041-123-p5s4
+1	Na	RR--6----------	AuxP
+2	celkové	AAFS6----1A----	Atr
+3	stavební	AAFS6----1A----	Atr
+4	produkci	NNFS6-----A----	Obj
+5	se	P7-X4----------	AuxT
+6	podílí	VB-S---3P-AA---	Pred
+7	pěti	Cn-P7----------	Atr
+8	procenty	NNNP7-----A----	Adv
+9	a	J^-------------	Coord
+10	v	RR--6----------	AuxP
+11	objemu	NNIS6-----A----	Adv
+12	výkonů	NNIP2-----A----	Atr
+13	je	VB-S---3P-AA---	Pred
+14	v	RR--6----------	AuxP
+15	ČR	NNFXX-----A---8	Adv
+16	na	RR--6----------	AuxP
+17	25	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	místě	NNNS6-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95041-123-p6s1
+1	Vojenské	AAFP1----1A----	Atr
+2	stavby	NNFP1-----A----	Sb
+3	vznikly	VpTP---XR-AA--1	Pred
+4	v	RR--6----------	AuxP
+5	50	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	letech	NNNP6-----A----	Adv
+8	ze	RV--2----------	AuxP
+9	znárodněné	AAFS2----1A----	Atr
+10	firmy	NNFS2-----A----	Obj
+11	Posista	NNFS1-----A----	Atr
+12	a	J^-------------	Coord
+13	dalších	AAFP2----1A----	Atr
+14	menších	AAFP2----2A----	Atr
+15	stavebních	AAFP2----1A----	Atr
+16	firem	NNFP2-----A----	Obj
+17	pod	RR--7----------	AuxP
+18	správou	NNFS7-----A----	Atr
+19	ministerstva	NNNS2-----A----	Atr
+20	obrany	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95041-123-p6s2
+1	Pro	RR--4----------	AuxP
+2	federální	AANS4----1A----	Atr
+3	ministerstvo	NNNS4-----A----	Adv
+4	obrany	NNFS2-----A----	Atr
+5	pracovaly	VpTP---XR-AA---	Pred
+6	prakticky	Dg-------1A----	ExD
+7	až	TT-------------	AuxZ
+8	do	RR--2----------	AuxP
+9	rozpadu	NNIS2-----A----	Adv
+10	federace	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95041-123-p6s3
+1	Po	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1990	C=-------------	Atr
+4	ustal	VpYS---XR-AA---	Pred
+5	veškerý	PLYS1----------	Atr
+6	zájem	NNIS1-----A----	Sb
+7	o	RR--4----------	AuxP
+8	stavební	AAFP4----1A----	Atr
+9	práce	NNFP4-----A----	Atr
+10	pro	RR--4----------	AuxP
+11	armádu	NNFS4-----A----	Atr
+12	(	Z:-------------	ExD
+13	pokles	NNIS1-----A----	ExD
+14	zakázek	NNFP2-----A----	Atr
+15	ze	RV--2----------	AuxP
+16	75	C=-------------	Atr
+17	procent	NNNP2-----A----	Atr
+18	na	RR--4----------	AuxP
+19	pět	Cn-S4----------	Atr
+20	procent	NNNP2-----A----	Atr
+21	)	Z:-------------	ExD
+22	a	J^-------------	Coord
+23	společnost	NNFS1-----A----	Sb
+24	se	P7-X4----------	AuxT
+25	musela	VpQW---XR-AA---	Pred
+26	přeorientovat	Vf--------A----	Obj
+27	na	RR--4----------	AuxP
+28	civilní	AAIS4----1A----	Atr
+29	sektor	NNIS4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln95041-123-p6s4
+1	S	RR--7----------	AuxP
+2	tím	PDZS7----------	Obj
+3	souviselo	VpNS---XR-AA---	Pred
+4	i	J^-------------	AuxZ
+5	zrušení	NNNS1-----A----	Sb
+6	dotací	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	kryly	VpTP---XR-AA---	Atr
+10	každoroční	AAFS4----1A----	Atr
+11	ztrátu	NNFS4-----A----	Obj
+12	zhruba	Db-------------	Adv
+13	sto	ClXP2----------	Atr
+14	miliónů	NNIP2-----A----	Atr
+15	korun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95041-123-p6s5
+1	Změnou	NNFS7-----A----	Adv
+2	koncernového	AANS2----1A----	Atr
+3	uspořádání	NNNS2-----A----	Atr
+4	a	J^-------------	Coord
+5	odchodem	NNIS7-----A----	Adv
+6	vojáků	NNMP2-----A----	Atr
+7	základní	AAFS2----1A----	Atr
+8	služby	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	branců	NNMP2-----A----	Atr
+11	se	P7-X4----------	AuxR
+12	maximálně	Dg-------1A----	Adv
+13	zhospodárnil	VpYS---XR-AA---	Pred
+14	provoz	NNIS1-----A----	Sb
+15	a	J^-------------	Coord
+16	společnost	NNFS1-----A----	Sb
+17	začala	VpQW---XR-AA---	Pred
+18	být	Vf--------A----	Obj
+19	zisková	AAFS1----1A----	Pnom
+20	a	J^-------------	Coord
+21	prudce	Dg-------1A----	Adv
+22	rostla	VpQW---XR-AA---	Pred
+23	její	PSFSXFS3-------	Atr
+24	výkonnost	NNFS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln95041-123-p6s6
+1	Jako	J,-------------	AuxC
+2	většina	NNFS1-----A----	ExD
+3	společností	NNFP2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	podle	RR--2----------	AuxP
+6	slov	NNNP2-----A----	Adv
+7	ředitele	NNMS2-----A----	Atr
+8	Roušala	NNMS2-----A----	Atr
+9	potýkají	VB-P---3P-AA---	Pred
+10	i	J^-------------	AuxZ
+11	Vojenské	AAFP1----1A----	Atr
+12	stavby	NNFP1-----A----	Sb
+13	s	RR--7----------	AuxP
+14	platební	AAFS7----1A----	Atr
+15	neschopností	NNFS7-----A----	Obj
+16	partnerů	NNMP2-----A----	Atr
+17	a	J^-------------	Coord
+18	s	RR--7----------	AuxP
+19	nechutí	NNFS7-----A----	Obj
+20	platit	Vf--------A----	Atr
+21	hlavně	Dg-------1A----	AuxZ
+22	u	RR--2----------	AuxP
+23	zahraničních	AAMP2----1A----	Atr
+24	partnerů	NNMP2-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln95041-123-p7s1
+1	Vojenské	AAFP1----1A----	Atr
+2	stavby	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	chtějí	VB-P---3P-AA---	Pred
+5	uplatnit	Vf--------A----	Obj
+6	i	J^-------------	AuxZ
+7	na	RR--6----------	AuxP
+8	zahraničním	AAIS6----1A----	Atr
+9	trhu	NNIS6-----A----	Obj
+10	a	J^-------------	Coord
+11	jejich	PSXXXXP3-------	Atr
+12	aktivity	NNFP1-----A----	Sb
+13	směřují	VB-P---3P-AA---	Pred
+14	především	Db-------------	AuxZ
+15	do	RR--2----------	AuxP
+16	arabského	AAIS2----1A----	Atr
+17	světa	NNIS2-----A----	Adv
+18	a	J^-------------	Coord
+19	do	RR--2----------	AuxP
+20	pobaltských	AAFP2----1A----	Atr
+21	republik	NNFP2-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95041-123-p7s2
+1	Na	RR--6----------	AuxP
+2	tuzemském	AAIS6----1A----	Atr
+3	trhu	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	orientovaly	VpTP---XR-AA---	Pred
+6	především	Db-------------	AuxZ
+7	na	RR--4----------	AuxP
+8	solventní	AAMP4----1A----	Atr
+9	investory	NNMP4-----A----	Obj
+10	z	RR--2----------	AuxP
+11	řad	NNFP2-----A----	AuxP
+12	finančních	AAFP2----1A----	Atr
+13	institucí	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	energetických	AAFP2----1A----	Atr
+16	společností	NNFP2-----A----	Atr
+17	(	Z:-------------	ExD
+18	odsíření	NNNS1-----A----	ExD
+19	elektrárny	NNFS2-----A----	Atr
+20	Prunéřov	NNIS1-----A----	Atr
+21	)	Z:-------------	ExD
+22	a	J^-------------	Coord
+23	významných	AAFP2----1A----	Atr
+24	společností	NNFP2-----A----	Atr
+25	(	Z:-------------	ExD
+26	výstavba	NNFS1-----A----	ExD
+27	nové	AAFS2----1A----	Atr
+28	haly	NNFS2-----A----	Atr
+29	pro	RR--4----------	AuxP
+30	Škodu	NNFS4-----A----	Atr
+31	Mladá	AAFS1----1A----	Atr
+32	Boleslav	NNFS1-----A----	Atr
+33	)	Z:-------------	ExD
+34	.	Z:-------------	AuxK
+
+ln95041-123-p7s3
+1	Vojenské	AAFP1----1A----	Atr
+2	stavby	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	chtějí	VB-P---3P-AA---	Pred
+5	zúčastnit	Vf--------A----	Obj
+6	i	J^-------------	AuxZ
+7	výběrových	AANP2----1A----	Atr
+8	řízení	NNNP2-----A----	Obj
+9	na	RR--4----------	AuxP
+10	výstavbu	NNFS4-----A----	Atr
+11	železničního	AAIS2----1A----	Atr
+12	koridoru	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	letiště	NNNS2-----A----	Atr
+15	Ruzyně	NNFS1-----A----	Atr
+16	a	J^-------------	Coord
+17	dálničního	AAIS2----1A----	Atr
+18	okruhu	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95041-123-p7s4
+1	Zahájena	VsQW---XX-AP---	Pred
+2	bude	VB-S---3F-AA---	AuxV
+3	i	J^-------------	AuxZ
+4	výstavba	NNFS1-----A----	Sb
+5	bytového	AAIS2----1A----	Atr
+6	fondu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95041-123-p7s5
+1	Pro	RR--4----------	AuxP
+2	společnost	NNFS4-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	významná	AAFS1----1A----	Pnom
+5	i	J^-------------	AuxZ
+6	výstavba	NNFS1-----A----	Sb
+7	zdravotnických	AANP2----1A----	Atr
+8	zařízení	NNNP2-----A----	Atr
+9	a	J^-------------	Coord
+10	rekonstrukce	NNFS1-----A----	Sb
+11	věznic	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+

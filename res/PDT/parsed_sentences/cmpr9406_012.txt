@@ -1,0 +1,97 @@
+cmpr9406-012-p2s1
+1	Číslo	NNNS1-----A----	ExD
+2	týdne	NNIS2-----A----	Atr
+
+cmpr9406-012-p3s1
+1	Západoevropský	AAIS1----1A----	Atr
+2	trh	NNIS1-----A----	Sb
+3	s	RR--7----------	AuxP
+4	automobily	NNIP7-----A----	Atr
+5	prožil	VpYS---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	minulém	AAIS6----1A----	Atr
+8	roce	NNIS6-----A---1	Adv
+9	černou	AAFS4----1A----	Atr
+10	sérii	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9406-012-p3s2
+1	V	RR--6----------	AuxP
+2	období	NNNS6-----A----	Adv
+3	měsíců	NNIP2-----A----	Atr
+4	leden	NNIS1-----A----	Atr
+5	-	Z:-------------	Coord
+6	listopad	NNIS1-----A----	Atr
+7	1993	C=-------------	Atr
+8	pouze	Db-------------	AuxZ
+9	jediná	AAFS1----1A----	Sb
+10	z	RR--2----------	AuxP
+11	evropských	AAFP2----1A----	Atr
+12	značek	NNFP2-----A----	Atr
+13	a	J^-------------	AuxY
+14	to	PDNS1----------	Apos
+15	Škoda	NNFS1-----A----	Sb
+16	zvýšila	VpQW---XR-AA---	Pred
+17	svůj	P8IS4----------	Atr
+18	prodej	NNIS4-----A----	Obj
+19	-	Z:-------------	AuxG
+20	o	RR--4----------	AuxP
+21	5.2	C=-------------	Obj
+22	%	Z:-------------	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9406-012-p3s3
+1	Škoda	NNFS1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	západoevropském	AAIS6----1A----	Atr
+4	trhu	NNIS6-----A----	Adv
+5	prodala	VpQW---XR-AA---	Pred
+6	48000	C=-------------	Obj
+7	aut	NNNP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	to	PDNS1----------	Sb
+11	je	VB-S---3P-AA---	Pred
+12	také	Db-------------	Adv
+13	absolutně	Dg-------1A----	Adv
+14	nejméně	Dg-------3A----	Pnom
+15	ve	RV--6----------	AuxP
+16	srovnání	NNNS6-----A----	AuxP
+17	s	RR--7----------	AuxP
+18	ostatními	AAMP7----1A----	ExD
+19	.	Z:-------------	AuxK
+
+cmpr9406-012-p3s4
+1	Poměrný	AAIS1----1A----	Atr
+2	pokles	NNIS1-----A----	Sb
+3	prodeje	NNIS2-----A----	Atr
+4	evropských	AAMP2----1A----	Atr
+5	výrobců	NNMP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	roce	NNIS6-----A---1	Atr
+8	1993	C=-------------	Atr
+9	je	VB-S---3P-AA---	Pred
+10	zatím	Db-------------	Adv
+11	nevídaný	AAIS1----1N----	Pnom
+12	.	Z:-------------	AuxK
+
+cmpr9406-012-p3s6
+1	Japonské	AAFP1----1A----	Atr
+2	automobilky	NNFP1-----A----	Sb
+3	prodaly	VpTP---XR-AA---	Pred
+4	celkem	Db-------------	Adv
+5	na	RR--6----------	AuxP
+6	západoevropském	AAIS6----1A----	Atr
+7	trhu	NNIS6-----A----	Adv
+8	1312000	C=-------------	Obj
+9	aut	NNNP2-----A----	Atr
+10	a	J^-------------	Coord
+11	jejich	PSXXXXP3-------	Atr
+12	celkový	AAIS1----1A----	Atr
+13	pokles	NNIS1-----A----	Sb
+14	prodeje	NNIS2-----A----	Atr
+15	byl	VpYS---XR-AA---	Pred
+16	11.7	C=-------------	Pnom
+17	procenta	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+

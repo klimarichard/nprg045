@@ -1,0 +1,155 @@
+ln94206-26-p1s1
+1	Nový	AAMS1----1A----	Atr
+2	většinový	AAMS1----1A----	Atr
+3	vlastník	NNMS1-----A----	ExD
+4	v	RR--6----------	AuxP
+5	punčochách	NNFP6-----A----	Atr
+
+ln94206-26-p2s1A
+1	Varnsdorf	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-26-p2s1B
+1	Brněnská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	I	AAXXX----1A---8	Atr
+4	.	Z:-------------	AuxG
+5	I	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	T	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	E	AAXXX----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	se	P7-X4----------	AuxT
+12	stala	VpQW---XR-AA---	Pred
+13	s	RR--7----------	AuxP
+14	52	C=-------------	Atr
+15	procenty	NNNP7-----A----	Adv
+16	akcií	NNFP2-----A----	Atr
+17	majoritním	AAMS7----1A----	Atr
+18	vlastníkem	NNMS7-----A----	Obj
+19	akciové	AAFS2----1A----	Atr
+20	společnosti	NNFS2-----A----	Atr
+21	Elite	NNFSX-----A----	Atr
+22	Varnsdorf	NNIS1-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94206-26-p2s2A
+1	Podle	RR--2----------	AuxP
+2	ředitele	NNMS2-----A----	Atr
+3	Elite	NNFSX-----A----	Atr
+4	Varnsdorf	NNIS1-----A----	Atr
+5	Erharta	NNMS2-----A----	Atr
+6	Mahnela	NNMS2-----A----	Adv
+7	se	P7-X4----------	AuxR
+8	na	RR--6----------	AuxP
+9	základě	NNIS6-----A----	AuxP
+10	rozhodnutí	NNNP2-----A----	Adv
+11	vlády	NNFS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	současné	AAFS6----1A----	Atr
+14	době	NNFS6-----A----	Adv
+15	uzavírá	VB-S---3P-AA---	Pred
+16	smlouva	NNFS1-----A----	Sb
+17	mezi	RR--7----------	AuxP
+18	Fondem	NNIS7-----A----	Atr
+19	národního	AAIS2----1A----	Atr
+20	majetku	NNIS2-----A----	Atr
+21	a	J^-------------	Coord
+22	I	AAXXX----1A---8	Atr
+23	.	Z:-------------	AuxG
+24	I	AAXXX----1A---8	Atr
+25	.	Z:-------------	AuxG
+26	T	AAXXX----1A---8	Atr
+27	.	Z:-------------	AuxG
+28	E	AAXXX----1A---8	Atr
+29	.	Z:-------------	AuxG
+
+ln94206-26-p2s2B
+1	Tato	PDFS1----------	Atr
+2	společnost	NNFS1-----A----	Sb
+3	vlastní	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	další	AAIS4----1A----	Atr
+6	varnsdorfský	AAIS4----1A----	Atr
+7	podnik	NNIS4-----A----	Obj
+8	,	Z:-------------	Apos
+9	firmu	NNFS4-----A----	Obj
+10	TOS	NNIXX-----A---8	Atr
+11	.	Z:-------------	AuxK
+
+ln94206-26-p3s1
+1	Elite	NNFSX-----A----	Sb
+2	Varnsdorf	NNIS1-----A----	Atr
+3	,	Z:-------------	AuxX
+4	která	P4FS1----------	Sb
+5	vyrábí	VB-S---3P-AA---	Atr
+6	standardní	AAIS4----1A----	Atr
+7	sortiment	NNIS4-----A----	Obj
+8	jemného	AANS2----1A----	Atr
+9	punčochového	AANS2----1A----	Atr
+10	zboží	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	je	VB-S---3P-AA---	Pred
+13	zařazena	VsQW---XX-AP---	Pnom
+14	do	RR--2----------	AuxP
+15	druhé	CrFS2----------	Atr
+16	vlny	NNFS2-----A----	Adv
+17	kuponové	AAFS2----1A----	Atr
+18	privatizace	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94206-26-p3s2
+1	Pro	RR--4----------	AuxP
+2	ni	P5FS4--3-------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	určeno	VsNS---XX-AP---	Pnom
+5	39	C=-------------	Sb
+6	procent	NNNP2-----A----	Atr
+7	akcií	NNFP2-----A----	Atr
+8	podniku	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94206-26-p3s3
+1	Zmíněných	AAFP2----1A----	Atr
+2	52	C=-------------	Obj
+3	procent	NNNP2-----A----	Atr
+4	akcií	NNFP2-----A----	Atr
+5	představuje	VB-S---3P-AA---	Pred
+6	přímý	AAIS1----1A----	Atr
+7	prodej	NNIS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	pět	Cn-S4----------	Obj
+10	procent	NNNP2-----A----	Atr
+11	tvoří	VB-P---3P-AA---	Pred
+12	zaměstnanecké	AAFP1----1A----	Atr
+13	akcie	NNFP1-----A----	Sb
+14	,	Z:-------------	Coord
+15	zbytek	NNIS1-----A----	Sb
+16	je	VB-S---3P-AA---	Pred
+17	určen	VsYS---XX-AP---	Pnom
+18	pro	RR--4----------	AuxP
+19	tzv	AAXXX----1A---8	Atr
+20	.	Z:-------------	AuxG
+21	povinné	AAIP4----1A----	Atr
+22	fondy	NNIP4-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94206-26-p3s4
+1	Ve	RV--6----------	AuxP
+2	3	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	kole	NNNS6-----A----	Adv
+5	II	C}-------------	Atr
+6	.	Z:-------------	AuxG
+7	vlny	NNFS2-----A----	Atr
+8	byla	VpQW---XR-AA---	Pred
+9	společnost	NNFS1-----A----	Sb
+10	Elite	NNFSX-----A----	Atr
+11	v	RR--6----------	AuxP
+12	převisu	NNIS6-----A---1	Adv
+13	asi	TT-------------	AuxZ
+14	200	C=-------------	Atr
+15	procent	NNNP2-----A----	Atr
+16	.	Z:-------------	AuxK
+

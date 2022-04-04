@@ -1,0 +1,455 @@
+lnd94101-011-p1s1A
+1	Strany	NNFP1-----A----	ExD
+2	a	J^-------------	Coord
+3	peníze	NNIP1-----A----	ExD
+
+lnd94101-011-p1s1B
+1	Marek	NNMS1-----A----	Atr
+2	Stoniš	NNMS1-----A----	ExD
+
+lnd94101-011-p1s1C
+1	Měly	VpTP---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	politické	AAFP1----1A----	Atr
+4	strany	NNFP1-----A----	Sb
+5	získávat	Vf--------A----	Obj
+6	finanční	AAIP4----1A----	Atr
+7	prostředky	NNIP4-----A----	Obj
+8	pouze	Db-------------	AuxZ
+9	z	RR--2----------	AuxP
+10	členských	AAIP2----1A----	Atr
+11	příspěvků	NNIP2-----A----	Obj
+12	a	J^-------------	Coord
+13	darů	NNIP2-----A----	Obj
+14	sponzorů	NNMP2-----A----	Atr
+15	?	Z:-------------	AuxK
+
+lnd94101-011-p1s2
+1	Nebo	J^-------------	Coord
+2	má	VB-S---3P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	jejich	PSXXXXP3-------	Atr
+5	činnost	NNFS4-----A----	Obj
+6	přispívat	Vf--------A----	Obj
+7	ze	RV--2----------	AuxP
+8	svých	P8XP2----------	Atr
+9	daní	NNFP2-----A----	Obj
+10	rovněž	Db-------------	AuxZ
+11	občan	NNMS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	tedy	Db-------------	Coord
+14	stát	NNIS1-----A----	Sb
+15	?	Z:-------------	AuxK
+
+lnd94101-011-p1s3
+1	Na	RR--4----------	AuxP
+2	tyto	PDFP4----------	Atr
+3	otázky	NNFP4-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	minulých	AAIP6----1A----	Atr
+7	dnech	NNIP6-----A----	Adv
+8	snažila	VpQW---XR-AA---	Pred
+9	najít	Vf--------A----	Obj
+10	odpověď	NNFS4-----A----	Obj
+11	vláda	NNFS1-----A----	Sb
+12	a	J^-------------	Coord
+13	následně	Dg-------1A----	ExD
+14	i	J^-------------	AuxZ
+15	poslanci	NNMP1-----A----	ExD
+16	českého	AAIS2----1A----	Atr
+17	sněmu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94101-011-p1s4
+1	Klausův	AUIS1M---------	Atr
+2	kabinet	NNIS1-----A----	Sb
+3	ve	RV--4----------	AuxP
+4	středu	NNFS4-----A----	Adv
+5	dospěl	VpYS---XR-AA---	Pred
+6	k	RR--3----------	AuxP
+7	názoru	NNIS3-----A----	Obj
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	finanční	AAFS1----1A----	Atr
+11	odluka	NNFS1-----A----	Sb
+12	stran	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	hnutí	NNNP2-----A----	Atr
+15	od	RR--2----------	AuxP
+16	státu	NNIS2-----A----	Atr
+17	by	Vc-------------	AuxV
+18	mohla	VpQW---XR-AA---	Atr
+19	přispět	Vf--------A----	Obj
+20	k	RR--3----------	AuxP
+21	lepšímu	AANS3----2A----	Atr
+22	fungování	NNNS3-----A----	Obj
+23	českého	AAIS2----1A----	Atr
+24	politického	AAIS2----1A----	Atr
+25	systému	NNIS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd94101-011-p1s5
+1	Poslanci	NNMP1-----A----	Sb
+2	však	J^-------------	Coord
+3	včera	Db-------------	Adv
+4	vpodvečer	Db-------------	Adv
+5	schválili	VpMP---XR-AA---	Pred
+6	zákon	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	podle	RR--2----------	AuxP
+9	něhož	P9ZS2----------	Adv
+10	každá	AAFS1----1A----	Atr
+11	strana	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	ve	RV--6----------	AuxP
+15	volbách	NNFP6-----A----	Adv
+16	překročí	VB-S---3P-AA---	Atr
+17	tříprocentní	AAFS4----1A----	Atr
+18	hranici	NNFS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	získá	VB-S---3P-AA---	Atr
+21	z	RR--2----------	AuxP
+22	rozpočtu	NNIS2-----A----	Adv
+23	třímilionový	AAIS4----1A----	Atr
+24	příspěvek	NNIS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+lnd94101-011-p1s6
+1	A	J^-------------	Coord
+2	za	RR--4----------	AuxP
+3	každého	AAMS4----1A----	Atr
+4	poslance	NNMS4-----A----	ExD
+5	v	RR--6----------	AuxP
+6	parlamentu	NNIS6-----A---1	Atr
+7	ještě	Db-------------	ExD
+8	půl	NNFS4-----A----	ExD
+9	milionu	NNIS2-----A----	Atr
+10	navrch	Db-------------	ExD
+11	.	Z:-------------	AuxK
+
+lnd94101-011-p1s7
+1	Obě	ClHP1----------	Atr
+2	koncepce	NNFP1-----A----	Sb
+3	-	Z:-------------	AuxG
+4	vládní	AAFS1----1A----	Atr
+5	i	J^-------------	Coord
+6	parlamentem	NNIS7-----A----	Obj
+7	nakonec	Db-------------	Adv
+8	přijatá	AAFS1----1A----	Atr
+9	-	Z:-------------	AuxG
+10	mají	VB-P---3P-AA---	Pred
+11	nesporné	AAIP4----1N----	Atr
+12	klady	NNIP4-----A----	Obj
+13	i	J^-------------	Coord
+14	svá	P8NP4---------1	Atr
+15	úskalí	NNNP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd94101-011-p1s8
+1	Představme	Vi-P---1--A----	Pred
+2	si	P7-X3----------	AuxT
+3	situaci	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	by	Vc-------------	AuxV
+7	naše	PSHP1-P1-------	Atr
+8	politické	AAFP1----1A----	Atr
+9	strany	NNFP1-----A----	Sb
+10	začaly	VpTP---XR-AA---	Atr
+11	žít	Vf--------A----	Obj
+12	prakticky	Dg-------1A----	Adv
+13	pouze	Db-------------	AuxZ
+14	z	RR--2----------	AuxP
+15	toho	PDZS2----------	Adv
+16	,	Z:-------------	AuxX
+17	co	PQ--4----------	Obj
+18	získají	VB-P---3P-AA---	Atr
+19	od	RR--2----------	AuxP
+20	potenciálních	AAMP2----1A----	Atr
+21	sponzorů	NNMP2-----A----	Obj
+22	či	J^-------------	Coord
+23	dárců	NNMP2-----A----	Obj
+24	.	Z:-------------	AuxK
+
+lnd94101-011-p1s9
+1	Naše	PSHS1-P1-------	Atr
+2	politická	AAFS1----1A----	Atr
+3	scéna	NNFS1-----A----	Sb
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxT
+6	vzápětí	Db-------------	Adv
+7	asi	TT-------------	AuxY
+8	stala	VpQW---XR-AA---	Pred
+9	nepřehlednou	AAFS7----1N----	Atr
+10	džunglí	NNFS7-----A----	Obj
+11	,	Z:-------------	AuxX
+12	kde	Db-------------	Adv
+13	by	Vc-------------	AuxV
+14	strany	NNFP1-----A----	Sb
+15	byly	VpTP---XR-AA---	Atr
+16	pouhými	AAFP7----1A----	Atr
+17	převodovými	AAFP7----1A----	Atr
+18	pákami	NNFP7-----A----	Pnom
+19	jednotlivých	AAFP2----1A----	Atr
+20	firem	NNFP2-----A----	Atr
+21	přispívajících	AGFP2-----A----	Atr
+22	do	RR--2----------	AuxP
+23	jejich	PSXXXXP3-------	Atr
+24	pokladen	NNFP2-----A----	Obj
+25	.	Z:-------------	AuxK
+
+lnd94101-011-p1s10
+1	Navíc	Db-------------	Adv
+2	ve	RV--6----------	AuxP
+3	chvíli	NNFS6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	by	Vc-------------	AuxV
+7	stát	NNIS1-----A----	Sb
+8	skutečně	Dg-------1A----	Adv
+9	přestal	VpYS---XR-AA---	Atr
+10	přispívat	Vf--------A----	Obj
+11	politickým	AAFP3----1A----	Atr
+12	stranám	NNFP3-----A----	Obj
+13	,	Z:-------------	AuxX
+14	automaticky	Dg-------1A----	Adv
+15	by	Vc-------------	AuxV
+16	se	P7-X4----------	Obj
+17	zbavil	VpYS---XR-AA---	Pred
+18	možnosti	NNFS2-----A----	Obj
+19	kontrolovat	Vf--------A----	Atr
+20	jejich	PSXXXXP3-------	Atr
+21	hospodaření	NNNS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+lnd94101-011-p1s11
+1	Na	RR--4----------	AuxP
+2	druhou	CrFS4----------	Atr
+3	stranu	NNFS4-----A----	Adv
+4	ovšem	J^-------------	Adv
+5	nikdo	PWM-1----------	Sb
+6	nemůže	VB-S---3P-NA---	Pred
+7	zaručit	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	ve	RV--6----------	AuxP
+11	chvíli	NNFS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	kdy	Db-------------	Adv
+14	byl	VpYS---XR-AA---	AuxV
+15	zachován	VsYS---XX-AP---	Atr
+16	státní	AAIS1----1A----	Atr
+17	penězovod	NNIS1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	nebudou	VB-P---3F-NA---	AuxV
+20	strany	NNFP1-----A----	Sb
+21	i	J^-------------	AuxZ
+22	nadále	Db-------------	Adv
+23	shánět	Vf--------A----	Obj
+24	peníze	NNIP4-----A----	Obj
+25	bez	RR--2----------	AuxP
+26	ohledu	NNIS2-----A----	AuxP
+27	na	RR--4----------	AuxP
+28	jejich	PSXXXXP3-------	Atr
+29	původ	NNIS4-----A----	Adv
+30	.	Z:-------------	AuxK
+
+lnd94101-011-p1s12
+1	Čemuž	PE--3----------	Obj
+2	může	VB-S---3P-AA---	Pred
+3	zabránit	Vf--------A----	Obj
+4	pouze	Db-------------	AuxZ
+5	účinná	AAFS1----1A----	Atr
+6	kontrola	NNFS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+lnd94101-011-p1s13
+1	Lobbování	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	sice	Db-------------	AuxY
+4	legitimní	AAFS7----1A----	Atr
+5	součástí	NNFS7-----A----	Pnom
+6	politiky	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	musí	VB-S---3P-AA---	Pred
+10	mít	Vf--------A----	Obj
+11	svá	P8NP4---------1	Atr
+12	jasná	AANP4----1A----	Atr
+13	pravidla	NNNP4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd94101-011-p1s14
+1	Ta	PDNP1----------	Sb
+2	u	RR--2----------	AuxP
+3	nás	PP-P2--1-------	Adv
+4	stále	Dg-------1A----	Adv
+5	chybějí	VB-P---3P-AA---	Pred
+6	.	Z:-------------	AuxK
+
+lnd94101-011-p1s15
+1	V	RR--6----------	AuxP
+2	okamžiku	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	kdy	Db-------------	Adv
+5	záleží	VB-S---3P-AA---	Atr
+6	pouze	Db-------------	AuxZ
+7	na	RR--6----------	AuxP
+8	dobré	AAFS6----1A----	Atr
+9	vůli	NNFS6-----A----	Obj
+10	našich	PSXP2-P1-------	Atr
+11	stran	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	zda	J,-------------	AuxC
+14	své	P8YP4---------1	Atr
+15	mecenáše	NNMP4-----A----	Obj
+16	zveřejní	VB-P---3P-AA---	Sb
+17	či	J^-------------	Coord
+18	nikoliv	Db-------------	Sb
+19	,	Z:-------------	AuxX
+20	je	VB-S---3P-AA---	Pred
+21	jasné	AANS1----1A----	Pnom
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	málokterá	PZFS1----------	Sb
+25	z	RR--2----------	AuxP
+26	nich	P5XP2--3-------	Atr
+27	to	PDNS4----------	Obj
+28	udělá	VB-S---3P-AA---	Obj
+29	.	Z:-------------	AuxK
+
+lnd94101-011-p1s16
+1	Což	PE--4----------	Obj
+2	dokládá	VB-S---3P-AA---	Pred
+3	praxe	NNFS1-----A----	Sb
+4	.	Z:-------------	AuxK
+
+lnd94101-011-p1s17
+1	Odluka	NNFS1-----A----	Sb
+2	stran	NNFP2-----A----	Atr
+3	od	RR--2----------	AuxP
+4	státu	NNIS2-----A----	Atr
+5	mohla	VpQW---XR-AA---	Pred
+6	mít	Vf--------A----	Obj
+7	jediný	AAIS4----1A----	Atr
+8	pozitivní	AAIS4----1A----	Atr
+9	efekt	NNIS4-----A----	Obj
+10	-	Z:-------------	Coord
+11	voliči	NNMP1-----A----	Sb
+12	pravice	NNFS2-----A----	Atr
+13	už	Db-------------	Adv
+14	by	Vc-------------	AuxV
+15	nemuseli	VpMP---XR-NA---	Pred
+16	ze	RV--2----------	AuxP
+17	svých	P8XP2----------	Atr
+18	daní	NNFP2-----A----	Obj
+19	financovat	Vf--------A----	Obj
+20	například	Db-------------	Adv
+21	komunistickou	AAFS4----1A----	Atr
+22	stranu	NNFS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd94101-011-p1s18
+1	A	J^-------------	Coord
+2	naopak	Db-------------	ExD
+3	.	Z:-------------	AuxK
+
+lnd94101-011-p1s19
+1	Ovšem	J^-------------	ExD
+2	za	RR--4----------	AuxP
+3	cenu	NNFS4-----A----	ExD
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	některé	PZFP1----------	Atr
+7	opoziční	AAFP1----1A----	Atr
+8	strany	NNFP1-----A----	Sb
+9	by	Vc-------------	AuxV
+10	tak	Db-------------	Adv
+11	kvůli	RR--3----------	AuxP
+12	finančním	AAFP3----1A----	Atr
+13	potížím	NNFP3-----A----	Adv
+14	pravděpodobně	Dg-------1A----	Adv
+15	musely	VpTP---XR-AA---	Atr
+16	ukončit	Vf--------A----	Obj
+17	svou	P8FS4---------1	Atr
+18	činnost	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+lnd94101-011-p1s20
+1	Logicky	Dg-------1A----	ExD
+2	-	Z:-------------	Coord
+3	sponzoři	NNMP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	by	Vc-------------	AuxV
+7	pak	Db-------------	Adv
+8	byli	VpMP---XR-AA---	Atr
+9	jediným	AAIS7----1A----	Atr
+10	zdrojem	NNIS7-----A----	Pnom
+11	stranických	AAFP2----1A----	Atr
+12	financí	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	se	P7-X4----------	AuxT
+15	zákonitě	Dg-------1A----	Adv
+16	shlukují	VB-P---3P-AA---	Pred
+17	kolem	RR--2----------	AuxP
+18	těch	PDXP2----------	Atr
+19	stran	NNFP2-----A----	Adv
+20	,	Z:-------------	AuxX
+21	které	P4FP1----------	Sb
+22	jsou	VB-P---3P-AA---	Atr
+23	u	RR--2----------	AuxP
+24	moci	NNFS2-----A----	Adv
+25	.	Z:-------------	AuxK
+
+lnd94101-011-p1s21
+1	Poslanci	NNMP1-----A----	Sb
+2	tedy	Db-------------	Coord
+3	rozhodli	VpMP---XR-AA--1	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	stát	NNIS1-----A----	Sb
+7	bude	VB-S---3F-AA---	AuxV
+8	i	J^-------------	AuxZ
+9	nadále	Db-------------	Adv
+10	přispívat	Vf--------A----	Obj
+11	do	RR--2----------	AuxP
+12	stranických	AAFP2----1A----	Atr
+13	pokladen	NNFP2-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd94101-011-p1s22
+1	Dodejme	Vi-P---1--A----	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	přijatý	AAIS1----1A----	Atr
+5	zákon	NNIS1-----A----	Sb
+6	nemůže	VB-S---3P-NA---	Obj
+7	být	Vf--------A----	Obj
+8	dokonalým	AANS7----1A----	Atr
+9	řešením	NNNS7-----A----	Pnom
+10	vztahu	NNIS2-----A----	Atr
+11	stát	NNIS1-----A----	Atr
+12	-	Z:-------------	Coord
+13	politická	AAFS1----1A----	Atr
+14	strana	NNFS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94101-011-p1s23
+1	Tento	PDYS1----------	Atr
+2	vztah	NNIS1-----A----	Sb
+3	totiž	Db-------------	Adv
+4	není	VB-S---3P-NA---	AuxV
+5	k	RR--3----------	AuxP
+6	úplné	AAFS3----1A----	Atr
+7	spokojenosti	NNFS3-----A----	Adv
+8	vyřešen	VsYS---XX-AP---	Pred
+9	v	RR--6----------	AuxP
+10	žádné	PWFS6----------	Atr
+11	zemi	NNFS6-----A----	Adv
+12	na	RR--6----------	AuxP
+13	světě	NNIS6-----A----	Atr
+14	.	Z:-------------	AuxK
+

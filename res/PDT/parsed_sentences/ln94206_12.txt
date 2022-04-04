@@ -1,0 +1,139 @@
+ln94206-12-p1s1
+1	První	CrMP1----------	Atr
+2	soukromí	AAMP1----1A----	Atr
+3	nábytkářští	AAMP1----1A----	Atr
+4	učni	NNMP1-----A----	ExD
+
+ln94206-12-p2s1A
+1	Koryčany	NNIP1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-12-p2s1B
+1	První	CrNS4----------	Atr
+2	české	AANS4----1A----	Atr
+3	soukromé	AANS4----1A----	Atr
+4	nábytkářské	AANS4----1A----	Atr
+5	učiliště	NNNS4-----A----	Obj
+6	otevřela	VpQW---XR-AA---	Pred
+7	ve	RV--4----------	AuxP
+8	středu	NNFS4-----A----	Adv
+9	v	RR--6----------	AuxP
+10	Koryčanech	NNIP6-----A----	Adv
+11	na	RR--6----------	AuxP
+12	Kroměřížsku	NNNS6-----A----	Atr
+13	společnost	NNFS1-----A----	Sb
+14	Koryna	NNFS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94206-12-p2s2
+1	Výrobce	NNMS1-----A----	Sb
+2	kuchyní	NNFP2-----A----	Atr
+3	,	Z:-------------	Coord
+4	kancelářského	AAIS2----1A----	Atr
+5	a	J^-------------	Coord
+6	lékařského	AAIS2----1A----	Atr
+7	nábytku	NNIS2-----A----	Atr
+8	přijal	VpYS---XR-AA---	Pred
+9	do	RR--2----------	AuxP
+10	1	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	ročníku	NNIS2-----A----	Adv
+13	tříletého	AANS2----1A----	Atr
+14	studia	NNNS2-----A----	Atr
+15	24	C=-------------	Obj
+16	žáků	NNMP2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	oboru	NNIS6-----A----	Atr
+19	truhlář	NNMS1-----A----	Atr
+20	-	Z:-------------	Coord
+21	nábytkář	NNMS1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94206-12-p3s1
+1	V	RR--6----------	AuxP
+2	Koryně	NNFS6-----A----	Adv
+3	si	P7-X3----------	AuxO
+4	spočítali	VpMP---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	sponzorování	NNNS1-----A----	Sb
+8	učňů	NNMP2-----A----	Atr
+9	ve	RV--6----------	AuxP
+10	vlastním	AANS6----1A----	Atr
+11	zařízení	NNNS6-----A----	Atr
+12	je	VB-S---3P-AA---	Obj
+13	levnější	AANS1----2A----	Pnom
+14	než	J,-------------	AuxC
+15	jinde	Db-------------	ExD
+16	(	Z:-------------	AuxG
+17	tj	J^------------8	Apos
+18	.	Z:-------------	AuxG
+19	zhruba	Db-------------	AuxZ
+20	50000	C=-------------	Pnom
+21	Kč	NNFXX-----A----	Atr
+22	ročně	Dg-------1A----	Atr
+23	)	Z:-------------	AuxG
+24	.	Z:-------------	AuxK
+
+ln94206-12-p3s2
+1	Část	NNFS4-----A----	Obj
+2	nákladů	NNIP2-----A----	Atr
+3	hradí	VB-S---3P-AA---	Pred
+4	ministerstvo	NNNS1-----A----	Sb
+5	hospodářství	NNNS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln94206-12-p3s3
+1	Předběžně	Dg-------1A----	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	již	Db-------------	Adv
+5	dohodli	VpMP---XR-AA--1	Obj
+6	se	RV--7----------	AuxP
+7	Střední	AAFS7----1A----	Atr
+8	průmyslovou	AAFS7----1A----	Atr
+9	školou	NNFS7-----A----	Obj
+10	dřevařskou	AAFS7----1A----	Atr
+11	v	RR--6----------	AuxP
+12	Bystřici	NNFS6-----A----	Atr
+13	pod	RR--7----------	AuxP
+14	Hostýnem	NNIS7-----A----	Atr
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	na	RR--4----------	AuxP
+18	ni	P5FS4--3-------	Adv
+19	naši	PSMP1-P1-------	Atr
+20	nejlepší	AAMP1----3A----	Atr
+21	posluchači	NNMP1-----A----	Sb
+22	mohou	VB-P---3P-AA--1	Obj
+23	po	RR--6----------	AuxP
+24	druhém	CrIS6----------	Atr
+25	roce	NNIS6-----A---1	Adv
+26	přestoupit	Vf--------A----	Obj
+27	,	Z:-------------	AuxX
+28	uvedl	VpYS---XR-AA---	Pred
+29	ředitel	NNMS1-----A----	Atr
+30	učiliště	NNNS2-----A----	Atr
+31	Vladimír	NNMS1-----A----	Atr
+32	Plaček	NNMS1-----A----	Sb
+33	.	Z:-------------	AuxK
+
+ln94206-12-p4s1
+1	V	RR--6----------	AuxP
+2	osnovách	NNFP6-----A----	Adv
+3	učiliště	NNNS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	vedle	RR--2----------	AuxP
+6	běžných	AAIP2----1A----	Atr
+7	všeobecných	AAIP2----1A----	Atr
+8	a	J^-------------	Coord
+9	odborných	AAIP2----1A----	Atr
+10	dřevařských	AAIP2----1A----	Atr
+11	předmětů	NNIP2-----A----	Adv
+12	i	J^-------------	AuxZ
+13	němčina	NNFS1-----A----	Sb
+14	a	J^-------------	Coord
+15	základy	NNIP1-----A----	Sb
+16	ekologie	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+

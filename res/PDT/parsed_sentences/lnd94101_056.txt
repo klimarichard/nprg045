@@ -1,0 +1,251 @@
+lnd94101-056-p1s1
+1	Kongres	NNIS1-----A----	ExD
+2	USA	NNIPX-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	zrušení	NNNS4-----A----	ExD
+5	embarga	NNNS2-----A----	Atr
+6	na	RR--4----------	AuxP
+7	dovoz	NNIS4-----A----	Atr
+8	zbraní	NNFP2-----A----	Atr
+9	do	RR--2----------	AuxP
+10	Bosny	NNFS2-----A----	Atr
+
+lnd94101-056-p1s2
+1	Washington	NNIS1-----A----	ExD
+2	/	Z:-------------	Coord
+3	Sarajevo	NNNS1-----A----	ExD
+4	-	Z:-------------	AuxK
+
+lnd94101-056-p1s3
+1	Obě	ClHP1----------	Atr
+2	sněmovny	NNFP1-----A----	Sb
+3	amerického	AAIS2----1A----	Atr
+4	Kongresu	NNIS2-----A----	Atr
+5	schválily	VpTP---XR-AA---	Pred
+6	rezoluci	NNFS4-----A----	Obj
+7	vyzývající	AGFS4-----A----	Atr
+8	ke	RV--3----------	AuxP
+9	zrušení	NNNS3-----A----	Obj
+10	zbrojního	AANS2----1A----	Atr
+11	embarga	NNNS2-----A----	Atr
+12	vůči	RR--3----------	AuxP
+13	Bosně	NNFS3-----A----	Atr
+14	,	Z:-------------	AuxX
+15	aby	J,-------------	AuxC
+16	tak	Db-------------	Adv
+17	Muslimové	NNMP1-----A----	Sb
+18	získali	VpMP---XR-AA---	Adv
+19	možnost	NNFS4-----A----	Obj
+20	se	P7-X4----------	Obj
+21	sami	PLMP1----------	Adv
+22	bránit	Vf--------A----	Atr
+23	proti	RR--3----------	AuxP
+24	Srbům	NNMP3-----A----	Obj
+25	.	Z:-------------	AuxK
+
+lnd94101-056-p1s4
+1	Rezoluce	NNFS1-----A----	Sb
+2	vybízí	VB-S---3P-AA---	Pred
+3	americkou	AAFS4----1A----	Atr
+4	vládu	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	zrušila	VpQW---XR-AA---	Obj
+8	jednostranně	Dg-------1A----	Atr
+9	zbrojní	AANS4----1A----	Atr
+10	embargo	NNNS4-----A----	Obj
+11	uvalené	AANS4----1A----	Atr
+12	na	RR--4----------	AuxP
+13	Bosnu	NNFS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	nenutí	VB-S---3P-NA---	Pred
+17	ji	PPFS4--3-------	Obj
+18	,	Z:-------------	AuxX
+19	aby	J,-------------	AuxC
+20	dodávala	VpQW---XR-AA---	Obj
+21	bosenským	AAMP3----1A----	Atr
+22	Muslimům	NNMP3-----A----	Obj
+23	zbraně	NNFP4-----A----	Atr
+24	.	Z:-------------	AuxK
+
+lnd94101-056-p1s5
+1	Návrh	NNIS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	předán	VsYS---XX-AP---	Pred
+4	prezidentu	NNMS3-----A---1	Atr
+5	Billu	NNMS3-----A---1	Atr
+6	Clintonovi	NNMS3-----A----	Obj
+7	k	RR--3----------	AuxP
+8	podpisu	NNIS3-----A----	Adv
+9	.	Z:-------------	AuxK
+
+lnd94101-056-p1s6
+1	Armáda	NNFS1-----A----	Sb
+2	bosenských	AAMP2----1A----	Atr
+3	Srbů	NNMP2-----A----	Atr
+4	nerespektuje	VB-S---3P-NA---	Pred
+5	dvacetikilometrovou	AAFS4----1A----	Atr
+6	zónu	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kterou	P4FS4----------	Obj
+9	NATO	NNNS1-----A----	Sb
+10	vyhradilo	VpNS---XR-AA---	Atr
+11	kolem	RR--2----------	AuxP
+12	Sarajeva	NNNS2-----A----	Adv
+13	a	J^-------------	Coord
+14	východobosenské	AAFS2----1A----	Atr
+15	enklávy	NNFS2-----A----	Adv
+16	Goražde	NNNXX-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd94101-056-p1s7
+1	Nerespektuje	VB-S---3P-NA---	Pred
+2	ani	J^-------------	AuxZ
+3	tříkilometrové	AANS4----1A----	Atr
+4	pásmo	NNNS4-----A----	Obj
+5	kolem	RR--2----------	AuxP
+6	Goražde	NNNXX-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	se	P7-X4----------	AuxT
+10	stále	Dg-------1A----	Adv
+11	ještě	Db-------------	Adv
+12	vyskytují	VB-P---3P-AA---	Atr
+13	srbští	AAMP1----1A----	Atr
+14	ozbrojenci	NNMP1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+lnd94101-056-p1s8
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	dvacetikilometrové	AAFS6----1A----	Atr
+4	zóně	NNFS6-----A----	Adv
+5	kolem	RR--2----------	AuxP
+6	Sarajeva	NNNS2-----A----	Atr
+7	bylo	VpNS---XR-AA---	AuxV
+8	odhaleno	VsNS---XX-AP---	Obj
+9	několik	Ca--1----------	Sb
+10	těžkých	AAFP2----1A----	Atr
+11	zbraní	NNFP2-----A----	Atr
+12	,	Z:-------------	Apos
+13	nejméně	Dg-------3A----	Adv
+14	deset	Cn-S1----------	Sb
+15	,	Z:-------------	AuxX
+16	"	Z:-------------	AuxG
+17	prohlásil	VpYS---XR-AA---	Pred
+18	mluvčí	NNMS1-----A----	Atr
+19	UNPROFOR	NNFXX-----A---8	Atr
+20	v	RR--6----------	AuxP
+21	Bosně	NNFS6-----A----	Atr
+22	Eric	NNMS1-----A----	Atr
+23	Chaperon	NNMS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+lnd94101-056-p1s9
+1	Podle	RR--2----------	AuxP
+2	Chaperona	NNMS2-----A----	Adv
+3	není	VB-S---3P-NA---	Pred
+4	ani	J^-------------	AuxZ
+5	jedna	ClFS1----------	Sb
+6	ze	RV--2----------	AuxP
+7	dvou	ClXP2----------	Atr
+8	zón	NNFP2-----A----	Atr
+9	kolem	RR--2----------	AuxP
+10	Goražde	NNNXX-----A----	Atr
+11	plně	Dg-------1A----	Adv
+12	respektována	VsQW---XX-AP---	Pnom
+13	tak	Db-------------	AuxY
+14	,	Z:-------------	AuxX
+15	jak	Db-------------	Adv
+16	to	PDNS4----------	Obj
+17	stanovilo	VpNS---XR-AA---	Adv
+18	ultimátum	NNNS1-----A----	Sb
+19	NATO	NNNXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+lnd94101-056-p1s10
+1	V	RR--6----------	AuxP
+2	dvacetikilometrovém	AANS6----1A----	Atr
+3	pásmu	NNNS6-----A----	Adv
+4	kolem	RR--2----------	AuxP
+5	Goražde	NNNXX-----A----	Atr
+6	byla	VpQW---XR-AA---	AuxV
+7	ve	RV--4----------	AuxP
+8	čtvrtek	NNIS4-----A----	Adv
+9	lokalizována	VsQW---XX-AP---	Pred
+10	tři	ClXP1----------	Atr
+11	srbská	AANP1----1A----	Atr
+12	děla	NNNP1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+lnd94101-056-p1s11
+1	Město	NNNS1-----A----	Sb
+2	Goražde	NNNXX-----A----	Atr
+3	ve	RV--6----------	AuxP
+4	východní	AAFS6----1A----	Atr
+5	Bosně	NNFS6-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	stalo	VpNS---XR-AA---	Pred
+8	"	Z:-------------	AuxG
+9	skutečným	AANS7----1A----	Atr
+10	ghettem	NNNS7-----A----	Obj
+11	"	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	kde	Db-------------	Adv
+14	je	VB-S---3P-AA---	Atr
+15	třeba	ACNS------A----	Pnom
+16	v	RR--6----------	AuxP
+17	létě	NNNS6-----A----	Adv
+18	očekávat	Vf--------A----	Sb
+19	vážné	AAIP4----1A----	Atr
+20	zdravotní	AAIP4----1A----	Atr
+21	problémy	NNIP4-----A----	Obj
+22	vzhledem	RF-------------	AuxP
+23	k	RR--3----------	AuxP
+24	tomu	PDZS3----------	Adv
+25	,	Z:-------------	AuxX
+26	že	J,-------------	AuxC
+27	jediná	AAFS1----1A----	Atr
+28	čistička	NNFS1-----A----	Sb
+29	vody	NNFS2-----A----	Atr
+30	byla	VpQW---XR-AA---	AuxV
+31	zničena	VsQW---XX-AP---	Atr
+32	.	Z:-------------	AuxK
+
+lnd94101-056-p1s12
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	pracovník	NNMS1-----A----	Atr
+4	Dětského	AAIS2----1A----	Atr
+5	fondu	NNIS2-----A----	Atr
+6	OSN	NNFXX-----A---8	Atr
+7	(	Z:-------------	Apos
+8	UNICEF	NNIXX-----A---8	Atr
+9	)	Z:-------------	AuxG
+10	Ryan	NNMS1-----A----	Atr
+11	Grist	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+lnd94101-056-p1s13
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	slov	NNNP2-----A----	Adv
+4	zbyly	VpTP---XR-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	městě	NNNS6-----A----	Adv
+7	jen	TT-------------	AuxZ
+8	dva	ClYP1----------	Atr
+9	zdroje	NNIP1-----A----	Sb
+10	pitné	AAFS2----1A----	Atr
+11	vody	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kde	Db-------------	Adv
+14	lidé	NNMP1-----A---1	Sb
+15	musejí	VB-P---3P-AA---	Atr
+16	stát	Vf--------A----	Obj
+17	dlouho	Dg-------1A----	Adv
+18	ve	RV--6----------	AuxP
+19	frontě	NNFS6-----A----	Adv
+20	.	Z:-------------	AuxK
+

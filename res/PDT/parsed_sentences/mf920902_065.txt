@@ -1,0 +1,50 @@
+mf920902-065-p1s1
+1	Vlajka	NNFS1-----A----	ExD
+2	zdarma	Db-------------	ExD
+
+mf920902-065-p2s1
+1	Účastníci	NNMP1-----A----	Sb
+2	zájezdu	NNIS2-----A----	Atr
+3	pořádaného	AAIS2----1A----	Atr
+4	fotbalisty	NNMP7-----A----	Obj
+5	Boby	NNNXX-----A----	Atr
+6	Brno	NNNS1-----A----	Atr
+7	na	RR--4----------	AuxP
+8	nedělní	AANS4----1A----	Atr
+9	ligové	AANS4----1A----	Atr
+10	utkání	NNNS4-----A----	Atr
+11	do	RR--2----------	AuxP
+12	Trnavy	NNFS2-----A----	Atr
+13	obdrží	VB-P---3P-AA---	Pred
+14	zdarma	Db-------------	Adv
+15	klubovou	AAFS4----1A----	Atr
+16	vlajku	NNFS4-----A----	Obj
+17	v	RR--6----------	AuxP
+18	hodnotě	NNFS6-----A----	Atr
+19	200	C=-------------	Atr
+20	Kčs	NNFXX-----A---8	Atr
+21	!	Z:-------------	AuxK
+
+mf920902-065-p2s2
+1	Cena	NNFS1-----A----	Sb
+2	zájezdu	NNIS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	přitom	Db-------------	Adv
+5	pouhých	AAFP2----1A----	Atr
+6	75	C=-------------	Pnom
+7	Kčs	NNFXX-----A---8	Atr
+8	.	Z:-------------	AuxK
+
+mf920902-065-p2s3
+1	Zájemci	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	mohou	VB-P---3P-AA--1	Pred
+4	hlásit	Vf--------A----	Obj
+5	v	RR--6----------	AuxP
+6	CK	NNFXX-----A---8	Adv
+7	Jedotour	NNFXX-----A----	Atr
+8	v	RR--6----------	AuxP
+9	OD	NNIXX-----A---8	Adv
+10	Prior	NNIS1-----A----	Atr
+11	.	Z:-------------	AuxK
+

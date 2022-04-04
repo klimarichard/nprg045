@@ -1,0 +1,142 @@
+ln95047-131-p1s1
+1	Teplárny	NNFP4-----A----	Obj
+2	Brno	NNNS1-----A----	Atr
+3	vybaví	VB-S---3P-AA---	Pred
+4	americká	AAFS1----1A----	Atr
+5	firma	NNFS1-----A----	Sb
+6	Honeywell	NNIS1-----A----	Atr
+
+ln95047-131-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-131-p2s1B
+1	Americký	AAIS1----1A----	Atr
+2	koncern	NNIS1-----A----	Sb
+3	Honeywell	NNIS1-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	stal	VpYS---XR-AA---	Pred
+6	na	RR--6----------	AuxP
+7	základě	NNIS6-----A----	AuxP
+8	výběrového	AANS2----1A----	Atr
+9	řízení	NNNS2-----A----	Adv
+10	dodavatelem	NNMS7-----A----	Obj
+11	řídicího	AAIS2----1A----	Atr
+12	systému	NNIS2-----A----	Atr
+13	pro	RR--4----------	AuxP
+14	akciovou	AAFS4----1A----	Atr
+15	společnost	NNFS4-----A----	Atr
+16	Teplárny	NNFP1-----A----	Atr
+17	Brno	NNNS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95047-131-p2s2
+1	Na	RR--6----------	AuxP
+2	včerejší	AAFS6----1A----	Atr
+3	tiskové	AAFS6----1A----	Atr
+4	besedě	NNFS6-----A----	Adv
+5	o	RR--6----------	AuxP
+6	tom	PDZS6----------	Obj
+7	informovali	VpMP---XR-AA---	Pred
+8	generální	AAMS1----1A----	Atr
+9	ředitel	NNMS1-----A----	Atr
+10	Tepláren	NNFP2-----A----	Atr
+11	Brno	NNNS1-----A----	Atr
+12	Jaroslav	NNMS1-----A----	Atr
+13	Vlk	NNMS1-----A----	Sb
+14	a	J^-------------	Coord
+15	zástupce	NNMS1-----A----	Atr
+16	české	AAFS2----1A----	Atr
+17	afilace	NNFS2-----A----	Atr
+18	firmy	NNFS2-----A----	Atr
+19	Honeywell	NNIS1-----A----	Atr
+20	Ladislav	NNMS1-----A----	Atr
+21	Haškovec	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln95047-131-p2s3
+1	Systém	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	založen	VsYS---XX-AP---	Pnom
+4	na	RR--6----------	AuxP
+5	průběžném	AANS6----1A----	Atr
+6	snímání	NNNS6-----A----	Obj
+7	informací	NNFP2-----A----	Atr
+8	o	RR--6----------	AuxP
+9	stavu	NNIS6-----A----	Atr
+10	na	RR--6----------	AuxP
+11	jednotlivých	AAIP6----1A----	Atr
+12	teplárenských	AAIP6----1A----	Atr
+13	zdrojích	NNIP6-----A----	Atr
+14	,	Z:-------------	Coord
+15	výstupech	NNIP6-----A----	Atr
+16	z	RR--2----------	AuxP
+17	nich	P5XP2--3-------	Atr
+18	a	J^-------------	Coord
+19	o	RR--6----------	AuxP
+20	situaci	NNFS6-----A----	Atr
+21	na	RR--6----------	AuxP
+22	vybraných	AANP6----1A----	Atr
+23	místech	NNNP6-----A----	Atr
+24	tepelných	AAFP2----1A----	Atr
+25	a	J^-------------	Coord
+26	parních	AAFP2----1A----	Atr
+27	sítí	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95047-131-p2s4
+1	Vybudování	NNNS1-----A----	Sb
+2	tohoto	PDZS2----------	Atr
+3	systému	NNIS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	by	Vc-------------	AuxV
+7	měl	VpYS---XR-AA---	Atr
+8	výrazně	Dg-------1A----	Adv
+9	zvýšit	Vf--------A----	Obj
+10	účinnost	NNFS4-----A----	Obj
+11	kotlů	NNIP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	je	VB-S---3P-AA---	Pred
+14	rozloženo	VsNS---XX-AP---	Pnom
+15	na	RR--4----------	AuxP
+16	zhruba	Db-------------	AuxZ
+17	deset	Cn-S4----------	Adv
+18	let	NNNP2-----A----	Atr
+19	a	J^-------------	Coord
+20	jeho	PSXXXZS3-------	Atr
+21	cena	NNFS1-----A----	Sb
+22	bude	VB-S---3F-AA---	Pred
+23	od	RR--2----------	AuxP
+24	80	C=-------------	ExD
+25	do	RR--2----------	AuxP
+26	100	C=-------------	Atr
+27	miliónů	NNIP2-----A----	Adv
+28	korun	NNFP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95047-131-p3s1
+1	Zařízeními	NNNP7-----A----	Obj
+2	firmy	NNFS2-----A----	Atr
+3	Honeywell	NNIS1-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	ČR	NNFXX-----A---8	Adv
+7	vybaveny	VsTP---XX-AP---	Pnom
+8	kromě	RR--2----------	AuxP
+9	jiných	AAFP2----1A----	ExD
+10	společnosti	NNFP1-----A----	Sb
+11	Bohemia	NNFXX-----A----	Atr
+12	Glass	NNIS1-----A----	Atr
+13	Poděbrady	NNIP1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	Chemopetrol	NNIS1-----A----	Atr
+16	Litvínov	NNIS1-----A----	Atr
+17	,	Z:-------------	AuxX
+18	Kaučuk	NNIS1-----A----	Atr
+19	Kralupy	NNIP1-----A----	Atr
+20	a	J^-------------	Coord
+21	Spolana	NNFS1-----A----	Atr
+22	Neratovice	NNFP1-----A----	Atr
+23	.	Z:-------------	AuxK
+

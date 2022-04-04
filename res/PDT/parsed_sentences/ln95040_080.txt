@@ -1,0 +1,248 @@
+ln95040-080-p1s1
+1	Automobilový	AAIS1----1A----	Atr
+2	boom	NNIS1-----A----	ExD
+3	ve	RV--6----------	AuxP
+4	Francii	NNFS6-----A----	Atr
+
+ln95040-080-p2s1A
+1	Brusel	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-080-p2s1B
+1	Odbyt	NNIS1-----A----	Sb
+2	osobních	AAIP2----1A----	Atr
+3	vozů	NNIP2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	západní	AAFS6----1A----	Atr
+6	Evropě	NNFS6-----A----	Atr
+7	byl	VpYS---XR-AA---	Pred
+8	podle	RR--2----------	AuxP
+9	sdružení	NNNS2-----A----	Adv
+10	evropských	AAMP2----1A----	Atr
+11	automobilových	AAMP2----1A----	Atr
+12	výrobců	NNMP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	lednu	NNIS6-----A----	Adv
+15	o	RR--4----------	AuxP
+16	3.7	C=-------------	Adv
+17	procenta	NNNS2-----A----	Atr
+18	vyšší	AAIS1----2A----	Pnom
+19	než	J,-------------	AuxC
+20	ve	RV--6----------	AuxP
+21	stejném	AAIS6----1A----	Atr
+22	měsíci	NNIS6-----A----	ExD
+23	loňského	AAIS2----1A----	Atr
+24	roku	NNIS2-----A---1	Atr
+25	.	Z:-------------	AuxK
+
+ln95040-080-p2s2
+1	Počet	NNIS1-----A----	Sb
+2	nových	AAFP2----1A----	Atr
+3	registrací	NNFP2-----A----	Atr
+4	automobilů	NNIP2-----A----	Atr
+5	dosáhl	VpYS---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	lednu	NNIS6-----A----	Adv
+8	1.085	C=-------------	Atr
+9	miliónu	NNIS2-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95040-080-p2s3
+1	Největší	AAIS4----3A----	Atr
+2	vzmach	NNIS4-----A----	Obj
+3	zaznamenal	VpYS---XR-AA---	Pred
+4	odbyt	NNIS1-----A----	Sb
+5	automobilů	NNIP2-----A----	Atr
+6	ve	RV--6----------	AuxP
+7	Francii	NNFS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	došlo	VpNS---XR-AA---	Atr
+11	k	RR--3----------	AuxP
+12	růstu	NNIS3-----A----	Obj
+13	odbytu	NNIS2-----A----	Atr
+14	o	RR--4----------	AuxP
+15	20.7	C=-------------	Atr
+16	procenta	NNNS2-----A----	Atr
+17	na	RR--4----------	AuxP
+18	155900	C=-------------	Atr
+19	.	Z:-------------	AuxK
+
+ln95040-080-p2s4
+1	V	RR--6----------	AuxP
+2	Itálii	NNFS6-----A----	Adv
+3	vzrostl	VpYS---XR-AA---	Pred
+4	prodej	NNIS1-----A----	Sb
+5	nových	AANP2----1A----	Atr
+6	aut	NNNP2-----A----	Atr
+7	o	RR--4----------	AuxP
+8	7.7	C=-------------	Adv
+9	procenta	NNNS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	205000	C=-------------	Adv
+12	vozů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95040-080-p2s5
+1	Naproti	RR--3----------	AuxP
+2	tomu	PDZS3----------	Adv
+3	v	RR--6----------	AuxP
+4	Německu	NNNS6-----A----	Adv
+5	odbyt	NNIS1-----A----	Sb
+6	klesl	VpYS---XR-AA--1	Pred
+7	o	RR--4----------	AuxP
+8	1.7	C=-------------	Adv
+9	procenta	NNNS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	245000	C=-------------	Obj
+12	vozů	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	v	RR--6----------	AuxP
+15	Británii	NNFS6-----A----	Adv
+16	se	P7-X4----------	AuxT
+17	snížil	VpYS---XR-AA---	Pred
+18	o	RR--4----------	AuxP
+19	3.7	C=-------------	Adv
+20	procenta	NNNS2-----A----	Atr
+21	na	RR--4----------	AuxP
+22	191200	C=-------------	Obj
+23	vozů	NNIP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95040-080-p3s1
+1	Největší	AAIS4----3A----	Atr
+2	podíl	NNIS4-----A----	Obj
+3	na	RR--6----------	AuxP
+4	trhu	NNIS6-----A----	Atr
+5	osobních	AAIP2----1A----	Atr
+6	vozů	NNIP2-----A----	Atr
+7	si	P7-X3----------	AuxT
+8	v	RR--6----------	AuxP
+9	Evropě	NNFS6-----A----	Adv
+10	uchovala	VpQW---XR-AA---	Pred
+11	skupina	NNFS1-----A----	Sb
+12	Volkswagen	NNIS1-----A----	Atr
+13	se	RV--7----------	AuxP
+14	14.2	C=-------------	Adv
+15	procenta	NNNS2-----A----	Atr
+16	trhu	NNIS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	i	J^-------------	AuxY
+19	když	J,-------------	AuxC
+20	ztratila	VpQW---XR-AA---	Adv
+21	z	RR--2----------	AuxP
+22	15.6	C=-------------	Adv
+23	procenta	NNNS2-----A----	Atr
+24	v	RR--6----------	AuxP
+25	lednu	NNIS6-----A----	AtrAdv
+26	1994	C=-------------	Atr
+27	.	Z:-------------	AuxK
+
+ln95040-080-p3s2
+1	Počet	NNIS1-----A----	Sb
+2	nových	AAFP2----1A----	Atr
+3	registrací	NNFP2-----A----	Atr
+4	vozů	NNIP2-----A----	Atr
+5	skupiny	NNFS2-----A----	Atr
+6	VW	NNIXX-----A----	Atr
+7	klesl	VpYS---XR-AA--1	Pred
+8	o	RR--4----------	AuxP
+9	5.7	C=-------------	Adv
+10	%	Z:-------------	Atr
+11	na	RR--4----------	AuxP
+12	154300	C=-------------	Obj
+13	.	Z:-------------	AuxK
+
+ln95040-080-p4s1
+1	Svůj	P8IS4----------	Atr
+2	podíl	NNIS4-----A----	Obj
+3	na	RR--6----------	AuxP
+4	trhu	NNIS6-----A----	Atr
+5	zvýšil	VpYS---XR-AA---	Pred
+6	ze	RV--2----------	AuxP
+7	12	C=-------------	ExD
+8	na	RR--4----------	AuxP
+9	13	C=-------------	Obj
+10	procent	NNNP2-----A----	Atr
+11	Fiat	NNIS1-----A----	Sb
+12	a	J^-------------	Coord
+13	ze	RV--2----------	AuxP
+14	12	C=-------------	ExD
+15	na	RR--4----------	AuxP
+16	12.8	C=-------------	ExD
+17	procenta	NNNS2-----A----	Atr
+18	Ford	NNIS1-----A----	ExD
+19	.	Z:-------------	AuxK
+
+ln95040-080-p4s2
+1	O	RR--4----------	AuxP
+2	jeden	ClIS4----------	Atr
+3	procentní	AAIS4----1A----	Atr
+4	bod	NNIS4-----A----	Adv
+5	na	RR--4----------	AuxP
+6	10.7	C=-------------	Adv
+7	procenta	NNNS2-----A----	Atr
+8	vzrostl	VpYS---XR-AA---	Pred
+9	podíl	NNIS1-----A----	Sb
+10	Renaultu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95040-080-p4s3
+1	Podíl	NNIS1-----A----	Sb
+2	GM	NNFXX-----A----	Atr
+3	klesl	VpYS---XR-AA--1	Pred
+4	ze	RV--2----------	AuxP
+5	13.2	C=-------------	ExD
+6	na	RR--4----------	AuxP
+7	12.8	C=-------------	Obj
+8	procenta	NNNS2-----A----	Atr
+9	a	J^-------------	Coord
+10	podíl	NNIS1-----A----	Sb
+11	japonských	AAFP2----1A----	Atr
+12	automobilek	NNFP2-----A----	Atr
+13	se	P7-X4----------	AuxT
+14	snížil	VpYS---XR-AA---	Pred
+15	z	RR--2----------	AuxP
+16	10.9	C=-------------	ExD
+17	na	RR--4----------	AuxP
+18	10.2	C=-------------	Obj
+19	procenta	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95040-080-p5s1
+1	Největší	AAIS4----3A----	Atr
+2	absolutní	AAIS4----1A----	Atr
+3	pokles	NNIS4-----A----	Obj
+4	odbytu	NNIS2-----A----	Atr
+5	zaznamenal	VpYS---XR-AA---	Pred
+6	Mercedes	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	u	RR--2----------	AuxP
+9	jehož	P1XXXZS3-------	Atr
+10	automobilů	NNIP2-----A----	Adv
+11	došlo	VpNS---XR-AA---	Atr
+12	ke	RV--3----------	AuxP
+13	snížení	NNNS3-----A----	Obj
+14	počtu	NNIS2-----A----	Atr
+15	registrací	NNFP2-----A----	Adv
+16	o	RR--4----------	AuxP
+17	14.6	C=-------------	Atr
+18	procenta	NNNS2-----A----	Atr
+19	na	RR--4----------	AuxP
+20	37500	C=-------------	Atr
+21	.	Z:-------------	AuxK
+
+ln95040-080-p5s2
+1	Podíl	NNIS1-----A----	Sb
+2	Mercedesu	NNIS2-----A----	Atr
+3	na	RR--6----------	AuxP
+4	trhu	NNIS6-----A----	Atr
+5	tak	Db-------------	Adv
+6	klesl	VpYS---XR-AA--1	Pred
+7	ze	RV--2----------	AuxP
+8	4.2	C=-------------	ExD
+9	na	RR--4----------	AuxP
+10	3.5	C=-------------	Obj
+11	procenta	NNNS2-----A----	Atr
+12	.	Z:-------------	AuxK
+

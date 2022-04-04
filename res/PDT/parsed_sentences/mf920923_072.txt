@@ -1,0 +1,111 @@
+mf920923-072-p1s1
+1	Pokles	NNIS1-----A----	ExD
+2	kriminality	NNFS2-----A----	Atr
+
+mf920923-072-p2s1A
+1	Ústí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Labem	NNNS7-----A----	Atr
+4	(	Z:-------------	ExD
+5	hv	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+mf920923-072-p2s1B
+1	Policejní	AAFP1----1A----	Atr
+2	razie	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	při	RR--6----------	AuxP
+5	kterých	P4XP6----------	Adv
+6	v	RR--6----------	AuxP
+7	uplynulých	AAIP6----1A----	Atr
+8	třech	ClXP6----------	Atr
+9	týdnech	NNIP6-----A----	Adv
+10	bylo	VpNS---XR-AA---	AuxV
+11	nad	RR--4----------	AuxP
+12	rámec	NNIS4-----A----	Adv
+13	běžné	AAFS2----1A----	Atr
+14	služby	NNFS2-----A----	Atr
+15	nasazeno	VsNS---XX-AP---	Atr
+16	v	RR--6----------	AuxP
+17	severních	AAFP6----1A----	Atr
+18	Čechách	NNFP6-----A----	Adv
+19	1570	C=-------------	Sb
+20	policistů	NNMP2-----A----	Atr
+21	a	J^-------------	Coord
+22	zjištěno	VsNS---XX-AP---	Atr
+23	71	C=-------------	Sb
+24	trestných	AAIP2----1A----	Atr
+25	činů	NNIP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	785	C=-------------	Sb
+28	přestupků	NNIP2-----A----	Atr
+29	a	J^-------------	Coord
+30	třináct	Cn-S1----------	Sb
+31	hledaných	AAFP2----1A----	Atr
+32	osob	NNFP2-----A----	Atr
+33	,	Z:-------------	AuxX
+34	přinesly	VpTP---XR-AA---	Pred
+35	v	RR--6----------	AuxP
+36	kraji	NNIS6-----A----	Adv
+37	pokles	NNIS4-----A----	Obj
+38	uliční	AAFS2----1A----	Atr
+39	kriminality	NNFS2-----A----	Atr
+40	.	Z:-------------	AuxK
+
+mf920923-072-p2s2
+1	Jak	Db-------------	Adv
+2	včera	Db-------------	Adv
+3	uvedl	VpYS---XR-AA---	Pred
+4	mluvčí	NNMS1-----A----	Atr
+5	severočeské	AAFS2----1A----	Atr
+6	správy	NNFS2-----A----	Atr
+7	Policie	NNFS2-----A----	Atr
+8	ČR	NNFXX-----A---8	Atr
+9	Jiří	NNMS1-----A----	Atr
+10	Pávek	NNMS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	akce	NNFP1-----A----	Sb
+13	budou	VB-P---3F-AA---	AuxV
+14	nadále	Db-------------	Adv
+15	pokračovat	Vf--------A----	Pred
+16	.	Z:-------------	AuxK
+
+mf920923-072-p2s3
+1	Cílem	NNIS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	eliminovat	Vf--------A----	Sb
+4	největší	AAIS4----3A----	Atr
+5	meziroční	AAIS4----1A----	Atr
+6	nárůst	NNIS4-----A----	Obj
+7	trestné	AAFS2----1A----	Atr
+8	činnosti	NNFS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	Čechách	NNFP6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	která	P4FS1----------	Sb
+13	v	RR--6----------	AuxP
+14	kraji	NNIS6-----A----	Adv
+15	stoupla	VpQW---XR-AA--1	Atr
+16	takřka	Db-------------	AuxZ
+17	o	RR--4----------	AuxP
+18	třetinu	CyFS4----------	Adv
+19	.	Z:-------------	AuxK
+
+mf920923-072-p3s1
+1	V	RR--6----------	AuxP
+2	uplynulém	AAIS6----1A----	Atr
+3	víkendu	NNIS6-----A----	Adv
+4	tu	Db------------1	Adv
+5	došlo	VpNS---XR-AA---	Pred
+6	ke	RV--3----------	AuxP
+7	144	C=-------------	Atr
+8	krádežím	NNFP3-----A----	Adv
+9	vloupáním	NNNS7-----A----	Atr
+10	se	RV--7----------	AuxP
+11	škodou	NNFS7-----A----	Atr
+12	2.6	C=-------------	Atr
+13	milióny	NNIP1-----A----	Atr
+14	Kčs	NNFXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+

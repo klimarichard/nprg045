@@ -1,0 +1,181 @@
+lnd94101-029-p1s1
+1	V	RR--4----------	AuxP
+2	neděli	NNFS4-----A----	ExD
+3	asi	TT-------------	ExD
+4	fronty	NNFP1-----A----	ExD
+5	kamionů	NNIP2-----A----	Atr
+6	na	RR--6----------	AuxP
+7	hranici	NNFS6-----A----	ExD
+
+lnd94101-029-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94101-029-p1s3
+1	Pokud	J,-------------	AuxC
+2	budou	VB-P---3F-AA---	AuxV
+3	řidiči	NNMP1-----A----	Sb
+4	kamionů	NNIP2-----A----	Atr
+5	chtít	Vf--------A----	Adv
+6	vjet	Vf--------A----	Obj
+7	na	RR--4----------	AuxP
+8	odstavná	AANP4----1A----	Atr
+9	parkoviště	NNNP4-----A----	Adv
+10	před	RR--7----------	AuxP
+11	hraničními	AAIP7----1A----	Atr
+12	přechody	NNIP7-----A----	Atr
+13	Folmava	NNFS1-----A----	Atr
+14	a	J^-------------	Coord
+15	Rozvadov	NNIS1-----A----	Atr
+16	a	J^-------------	Coord
+17	jejich	PSXXXXP3-------	Atr
+18	čekání	NNNS1-----A----	Sb
+19	na	RR--6----------	AuxP
+20	parkovišti	NNNS6-----A----	AtrAdv
+21	přesáhne	VB-S---3P-AA---	Adv
+22	půl	NNFS4-----A----	Obj
+23	hodiny	NNFS2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	budou	VB-P---3F-AA---	AuxV
+26	nuceni	VsMP---XX-AP---	Pred
+27	od	RR--2----------	AuxP
+28	zítřejšího	AAIS2----1A----	Atr
+29	večera	NNIS2-----A---1	Adv
+30	zaplatit	Vf--------A----	Obj
+31	paušální	AAIS4----1A----	Atr
+32	poplatek	NNIS4-----A----	Obj
+33	350	C=-------------	Atr
+34	korun	NNFP2-----A----	Atr
+35	za	RR--4----------	AuxP
+36	kamion	NNIS4-----A----	Atr
+37	.	Z:-------------	AuxK
+
+lnd94101-029-p1s4
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	řekl	VpYS---XR-AA---	Pred
+4	zástupce	NNMS1-----A----	Atr
+5	provozovatele	NNMS2-----A----	Atr
+6	odstavných	AANP2----1A----	Atr
+7	parkovišť	NNNP2-----A----	Atr
+8	Petr	NNMS1-----A----	Atr
+9	Krejčí	NNMS1-----A----	Sb
+10	s	RR--7----------	AuxP
+11	tím	PDZS7----------	Adv
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	toto	PDNS4----------	Atr
+15	pro	RR--4----------	AuxP
+16	něj	P5ZS4--3-------	Adv
+17	překvapující	AGNS4-----A----	Atr
+18	řešení	NNNS4-----A----	Obj
+19	odsouhlasily	VpTP---XR-AA---	Atr
+20	zainteresované	AAFP1----1A----	Atr
+21	strany	NNFP1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	tedy	Db-------------	Coord
+24	i	J^-------------	AuxZ
+25	autodopravci	NNMP1-----A----	Sb
+26	,	Z:-------------	AuxX
+27	při	RR--6----------	AuxP
+28	čtvrtečním	AANS6----1A----	Atr
+29	jednání	NNNS6-----A----	Adv
+30	na	RR--6----------	AuxP
+31	Ministerstvu	NNNS6-----A----	Atr
+32	dopravy	NNFS2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+lnd94101-029-p1s5
+1	Krejčí	NNMS1-----A----	Sb
+2	také	Db-------------	AuxZ
+3	řekl	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	v	RR--4----------	AuxP
+7	neděli	NNFS4-----A----	Adv
+8	očekává	VB-S---3P-AA---	Obj
+9	opět	Db-------------	Adv
+10	dlouhé	AAFP4----1A----	Atr
+11	fronty	NNFP4-----A----	Obj
+12	kamionů	NNIP2-----A----	Atr
+13	před	RR--7----------	AuxP
+14	zmíněnými	AAIP7----1A----	Atr
+15	hraničními	AAIP7----1A----	Atr
+16	přechody	NNIP7-----A----	AdvAtr
+17	.	Z:-------------	AuxK
+
+lnd94101-029-p1s6
+1	Ze	RV--2----------	AuxP
+2	včerejší	AAFS2----1A----	Atr
+3	informace	NNFS2-----A----	Obj
+4	mluvčího	NNMS2-----A----	Atr
+5	Generálního	AANS2----1A----	Atr
+6	ředitelství	NNNS2-----A----	Atr
+7	cel	NNNP2-----A----	Atr
+8	Karla	NNMS2-----A----	Atr
+9	Thieleho	NNMS2-----A----	Atr
+10	vyplývá	VB-S---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	od	RR--2----------	AuxP
+14	nedělního	AAIS2----1A----	Atr
+15	večera	NNIS2-----A---1	Adv
+16	budou	VB-P---3F-AA---	AuxV
+17	vozidlům	NNNP3-----A----	Obj
+18	na	RR--6----------	AuxP
+19	odstavných	AANP6----1A----	Atr
+20	parkovištích	NNNP6-----A----	AtrAdv
+21	před	RR--7----------	AuxP
+22	výstupními	AAIP7----1A----	Atr
+23	celními	AAIP7----1A----	Atr
+24	úřady	NNIP7-----A----	AtrAdv
+25	po	RR--6----------	AuxP
+26	zaplacení	NNNS6-----A----	Adv
+27	příslušného	AAIS2----1A----	Atr
+28	poplatku	NNIS2-----A----	Atr
+29	přiděleny	VsTP---XX-AP---	Obj
+30	různobarevné	AAFP1----1A----	Atr
+31	karty	NNFP1-----A----	Sb
+32	.	Z:-------------	AuxK
+
+lnd94101-029-p1s7
+1	Tím	PDZS7----------	Adv
+2	celníci	NNMP1-----A----	Sb
+3	určí	VB-P---3P-AA---	Pred
+4	pořadí	NNNS4-----A----	Obj
+5	průjezdu	NNIS2-----A----	Atr
+6	přechodem	NNIS7-----A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd94101-029-p1s8
+1	Vozidla	NNNP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	která	P4NP1----------	Sb
+4	přejedou	VB-P---3P-AA---	Atr
+5	přes	RR--4----------	AuxP
+6	záchytná	AANP4----1A----	Atr
+7	parkoviště	NNNP4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	budou	VB-P---3F-AA---	AuxV
+10	zvýhodněna	VsQW---XX-AP---	Pred
+11	.	Z:-------------	AuxK
+
+lnd94101-029-p1s9
+1	Pokud	J,-------------	AuxC
+2	někdo	PZM-1----------	Sb
+3	parkovištěm	NNNS7-----A----	Obj
+4	neprojede	VB-S---3P-NA---	Adv
+5	a	J^-------------	Coord
+6	nepodřídí	VB-S---3P-NA---	Adv
+7	se	P7-X4----------	AuxR
+8	zmíněné	AAFS3----1A----	Atr
+9	regulaci	NNFS3-----A----	Obj
+10	,	Z:-------------	AuxX
+11	může	VB-S---3P-AA---	Pred
+12	si	P7-X3----------	Adv
+13	celní	AANS4----1A----	Atr
+14	odbavení	NNNS4-----A----	Obj
+15	sjednat	Vf--------A----	Obj
+16	individuálně	Dg-------1A----	Adv
+17	.	Z:-------------	AuxK
+

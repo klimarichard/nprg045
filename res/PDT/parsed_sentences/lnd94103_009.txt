@@ -1,0 +1,361 @@
+lnd94103-009-p1s1
+1	Věřitelé	NNMP1-----A----	Sb
+2	Bohemie	NNFS2-----A----	Atr
+3	požadují	VB-P---3P-AA---	Pred
+4	zřízení	NNNS4-----A----	Obj
+5	parlamentní	AAFS2----1A----	Atr
+6	komise	NNFS2-----A----	Atr
+
+lnd94103-009-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ip	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94103-009-p1s3
+1	Z	RR--2----------	AuxP
+2	obchodu	NNIS2-----A----	Adv
+3	s	RR--7----------	AuxP
+4	garancemi	NNFP7-----A----	Atr
+5	získala	VpQW---XR-AA---	Pred
+6	Banka	NNFS1-----A----	Sb
+7	Bohemia	NNFXX-----A----	Atr
+8	4	C=-------------	Atr
+9	miliony	NNIP4-----A----	Obj
+10	dolarů	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94103-009-p1s4
+1	Do	RR--2----------	AuxP
+2	banky	NNFS2-----A----	Adv
+3	je	PPXP4--3-------	Obj
+4	uložila	VpQW---XR-AA---	Pred
+5	firma	NNFS1-----A----	Sb
+6	Keetley	NNFXX-----A----	Atr
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	zprostředkovala	VpQW---XR-AA---	Atr
+10	jejich	PSXXXXP3-------	Atr
+11	prodej	NNIS4-----A----	Obj
+12	americké	AAFS3----1A----	Atr
+13	církevní	AAFS3----1A----	Atr
+14	organizaci	NNFS3-----A----	Obj
+15	NCCC	NNXXX-----A---8	Atr
+16	.	Z:-------------	AuxK
+
+lnd94103-009-p1s5
+1	Nominální	AAFS1----1A----	Atr
+2	hodnota	NNFS1-----A----	Sb
+3	obchodovaných	AAFP2----1A----	Atr
+4	garancí	NNFP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	tomto	PDZS6----------	Atr
+7	konkrétním	AAIS6----1A----	Atr
+8	případě	NNIS6-----A----	Adv
+9	činila	VpQW---XR-AA---	Pred
+10	13.2	C=-------------	Obj
+11	mil	NNIXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	dolarů	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	NCCC	NNXXX-----A---8	Sb
+16	však	J^-------------	Coord
+17	zaplatila	VpQW---XR-AA---	Pred
+18	pouze	Db-------------	AuxZ
+19	7.9	C=-------------	Obj
+20	mil	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+lnd94103-009-p1s6
+1	Na	RR--6----------	AuxP
+2	tiskové	AAFS6----1A----	Atr
+3	konferenci	NNFS6-----A----	Adv
+4	neformální	AAFS2----1N----	Atr
+5	skupiny	NNFS2-----A----	Atr
+6	věřitelů	NNMP2-----A----	Atr
+7	Bohemie	NNFS2-----A----	Atr
+8	to	PDNS4----------	Obj
+9	včera	Db-------------	Adv
+10	řekl	VpYS---XR-AA---	Pred
+11	bývalý	AAMS1----1A----	Atr
+12	poslanec	NNMS1-----A----	Atr
+13	FS	NNNXX-----A---8	Atr
+14	Jiří	NNMS1-----A----	Atr
+15	Svoboda	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+lnd94103-009-p1s7
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	slov	NNNP2-----A----	Adv
+4	půl	NNFS4-----A----	Obj
+5	milionu	NNIS2-----A----	Atr
+6	dolarů	NNIP2-----A----	Atr
+7	převedla	VpQW---XR-AA---	Pred
+8	Keetley	NNFXX-----A----	Sb
+9	na	RR--4----------	AuxP
+10	konto	NNNS4-----A----	Adv
+11	společnosti	NNFS2-----A----	Atr
+12	Anglo	AAXXX----1A----	Atr
+13	Czech	AAXXX----1A----	Atr
+14	Trading	NNIXX-----A----	Atr
+15	,	Z:-------------	AuxX
+16	odkud	Db-------------	Adv
+17	tuto	PDFS4----------	Atr
+18	částku	NNFS4-----A----	Obj
+19	převedl	VpYS---XR-AA---	Atr
+20	bývalý	AAMS1----1A----	Atr
+21	viceprezident	NNMS1-----A----	Atr
+22	Bohemie	NNFS2-----A----	Atr
+23	Jiří	NNMS1-----A----	Atr
+24	Čadek	NNMS1-----A----	Sb
+25	na	RR--4----------	AuxP
+26	účet	NNIS4-----A----	Adv
+27	vlastní	AAFS2----1A----	Atr
+28	firmy	NNFS2-----A----	Atr
+29	SAOP	NNNXX-----A----	Atr
+30	.	Z:-------------	AuxK
+
+lnd94103-009-p1s8
+1	Tuto	PDFS4----------	Atr
+2	informaci	NNFS4-----A----	Obj
+3	přinesl	VpYS---XR-AA---	Pred
+4	mj	Db------------8	Adv
+5	.	Z:-------------	AuxG
+6	ve	RV--6----------	AuxP
+7	svém	P8ZS6----------	Atr
+8	předposledním	AANS6----1A----	Atr
+9	čísle	NNNS6-----A----	Adv
+10	týdeník	NNIS1-----A----	Sb
+11	Respekt	NNIS1-----A----	Atr
+12	a	J^-------------	Coord
+13	LN	NNFPX-----A---8	Obj
+14	ji	PPFS4--3-------	Obj
+15	potvrdil	VpYS---XR-AA---	Pred
+16	i	J^-------------	AuxY
+17	další	AAIS1----1A----	Atr
+18	nezávislý	AAIS1----1N----	Atr
+19	zdroj	NNIS1-----A----	Sb
+20	z	RR--2----------	AuxP
+21	okolí	NNNS2-----A----	Atr
+22	Bohemie	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+lnd94103-009-p1s9
+1	Člen	NNMS1-----A----	Atr
+2	bankovní	AAFS2----1A----	Atr
+3	rady	NNFS2-----A----	Atr
+4	ČNB	NNFXX-----A---8	Atr
+5	Ota	NNMS1-----A----	Atr
+6	Kaftan	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	odpovídá	VB-S---3P-AA---	Atr
+10	v	RR--6----------	AuxP
+11	centrální	AAFS6----1A----	Atr
+12	bance	NNFS6-----A----	Adv
+13	za	RR--4----------	AuxP
+14	úsek	NNIS4-----A----	Obj
+15	bankovního	AAIS2----1A----	Atr
+16	dohledu	NNIS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	nedávno	Db-------------	Adv
+19	řekl	VpYS---XR-AA---	Pred
+20	,	Z:-------------	AuxX
+21	že	J,-------------	AuxC
+22	Bohemia	NNFXX-----A----	Sb
+23	"	Z:-------------	AuxG
+24	neviděla	VpQW---XR-NA---	Obj
+25	z	RR--2----------	AuxP
+26	celé	AAFS2----1A----	Atr
+27	operace	NNFS2-----A----	Adv
+28	ani	J^-------------	AuxZ
+29	cent	NNIS4-----A----	Obj
+30	"	Z:-------------	AuxG
+31	.	Z:-------------	AuxK
+
+lnd94103-009-p1s10
+1	Podle	RR--2----------	AuxP
+2	J	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Svobody	NNMS2-----A----	Adv
+5	neformální	AAFS1----1N----	Atr
+6	skupina	NNFS1-----A----	Sb
+7	věřitelů	NNMP2-----A----	Atr
+8	Bohemie	NNFS2-----A----	Atr
+9	požaduje	VB-S---3P-AA---	Pred
+10	pro	RR--4----------	AuxP
+11	objasnění	NNNS4-----A----	Adv
+12	celého	AAIS2----1A----	Atr
+13	případu	NNIS2-----A----	Atr
+14	ustavení	NNNS4-----A----	Obj
+15	parlamentní	AAFS2----1A----	Atr
+16	vyšetřovací	AAFS2----1A----	Atr
+17	komise	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94103-009-p1s11
+1	Jak	Db-------------	Adv
+2	včera	Db-------------	Adv
+3	uvedl	VpYS---XR-AA---	Pred
+4	právní	AAMS1----1A----	Atr
+5	poradce	NNMS1-----A----	Atr
+6	věřitelů	NNMP2-----A----	Atr
+7	Josef	NNMS1-----A----	Atr
+8	Mečl	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	nemohla	VpQW---XR-NA---	Pred
+11	samotná	AAFS1----1A----	Atr
+12	záležitost	NNFS1-----A----	Sb
+13	vydaných	AAFP2----1A----	Atr
+14	garancí	NNFP2-----A----	Atr
+15	bez	RR--2----------	AuxP
+16	neobratných	AAIP2----1N----	Atr
+17	kroků	NNIP2-----A----	Adv
+18	ČNB	NNFXX-----A---8	Atr
+19	likviditu	NNFS4-----A----	Obj
+20	Bohemie	NNFS2-----A----	Atr
+21	ovlivnit	Vf--------A----	Obj
+22	.	Z:-------------	AuxK
+
+lnd94103-009-p1s12
+1	Svoboda	NNMS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	obvinil	VpYS---XR-AA---	Pred
+4	ČNB	NNFXX-----A---8	Obj
+5	z	RR--2----------	AuxP
+6	toho	PDZS2----------	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	velké	AAMP4----1A----	Atr
+10	klienty	NNMP4-----A----	Obj
+11	Bohemie	NNFS2-----A----	Atr
+12	o	RR--6----------	AuxP
+13	připravovaných	AAIP6----1A----	Atr
+14	krocích	NNIP6-----A----	Obj
+15	předem	Db-------------	Adv
+16	informovala	VpQW---XR-AA---	Atr
+17	.	Z:-------------	AuxK
+
+lnd94103-009-p1s13
+1	Jako	J,-------------	AuxY
+2	příklad	NNIS4-----A----	Atv
+3	uvedl	VpYS---XR-AA---	Pred
+4	Českou	AAFS4----1A----	Atr
+5	spořitelnu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	v	RR--6----------	AuxP
+9	době	NNFS6-----A----	Adv
+10	nucené	AAFS2----1A----	Atr
+11	správy	NNFS2-----A----	Atr
+12	údajně	Dg-------1A----	Adv
+13	zablokovala	VpQW---XR-AA---	Atr
+14	svůj	P8IS4----------	Atr
+15	vklad	NNIS4-----A----	Obj
+16	v	RR--6----------	AuxP
+17	Bohemii	NNFS6-----A----	Atr
+18	ve	RV--6----------	AuxP
+19	výši	NNFS6-----A----	Atr
+20	téměř	Db-------------	AuxZ
+21	1	C=-------------	Atr
+22	mld	NNFXX-----A---8	Atr
+23	.	Z:-------------	AuxG
+24	korun	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd94103-009-p1s14
+1	Mluvčí	NNMS1-----A----	Atr
+2	České	AAFS2----1A----	Atr
+3	spořitelny	NNFS2-----A----	Atr
+4	Pavel	NNMS1-----A----	Atr
+5	Jiroušek	NNMS1-----A----	Sb
+6	nám	PP-P3--1-------	Obj
+7	tuto	PDFS4----------	Atr
+8	informaci	NNFS4-----A----	Obj
+9	ani	J^-------------	AuxY
+10	nepotvrdil	VpYS---XR-NA---	Pred
+11	,	Z:-------------	AuxX
+12	ani	J^-------------	Coord
+13	nevyvrátil	VpYS---XR-NA---	Pred
+14	.	Z:-------------	AuxK
+
+lnd94103-009-p1s15
+1	Jiří	NNMS1-----A----	Atr
+2	Svoboda	NNMS1-----A----	Sb
+3	rovněž	Db-------------	Adv
+4	vyjádřil	VpYS---XR-AA---	Pred
+5	údiv	NNIS4-----A----	Obj
+6	nad	RR--7----------	AuxP
+7	tím	PDZS7----------	Atr
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	na	RR--4----------	AuxP
+11	autora	NNMS4-----A----	Atr
+12	celé	AAFS2----1A----	Atr
+13	operace	NNFS2-----A----	Atr
+14	s	RR--7----------	AuxP
+15	garancemi	NNFP7-----A----	Atr
+16	J	NNMXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	Čadka	NNMS4-----A----	Obj
+19	nebyla	VpQW---XR-NA---	AuxV
+20	dosud	Db-------------	Adv
+21	uvalena	VsQW---XX-AP---	Atr
+22	vazba	NNFS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+lnd94103-009-p1s16
+1	Podle	RR--2----------	AuxP
+2	informací	NNFP2-----A----	Adv
+3	,	Z:-------------	AuxX
+4	které	P4FP4----------	Obj
+5	mají	VB-P---3P-AA---	Atr
+6	LN	NNFPX-----A---8	Sb
+7	k	RR--3----------	AuxP
+8	dispozici	NNFS3-----A----	Obj
+9	,	Z:-------------	AuxX
+10	případ	NNIS4-----A----	Obj
+11	stále	Dg-------1A----	Adv
+12	šetří	VB-S---3P-AA---	Pred
+13	policie	NNFS1-----A----	Sb
+14	a	J^-------------	Coord
+15	spis	NNIS1-----A----	Sb
+16	dosud	Db-------------	Adv
+17	nebyl	VpYS---XR-NA---	AuxV
+18	předán	VsYS---XX-AP---	Pred
+19	vyšetřovateli	NNMS3-----A----	Obj
+20	.	Z:-------------	AuxK
+
+lnd94103-009-p1s17
+1	Jak	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	již	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	LN	NNFPX-----A---8	Adv
+6	informovali	VpMP---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	budou	VB-P---3F-AA---	AuxV
+9	moci	Vf--------A----	Pred
+10	klienti	NNMP1-----A----	Sb
+11	Bohemie	NNFS2-----A----	Atr
+12	převést	Vf--------A----	Obj
+13	své	P8YP4---------1	Atr
+14	vklady	NNIP4-----A----	Obj
+15	do	RR--2----------	AuxP
+16	Československé	AAFS2----1A----	Atr
+17	obchodní	AAFS2----1A----	Atr
+18	banky	NNFS2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+lnd94103-009-p1s18
+1	Bližší	AAFP4----2A----	Atr
+2	informace	NNFP4-----A----	Obj
+3	sdělí	VB-S---3P-AA---	Pred
+4	ČSOB	NNFXX-----A---8	Sb
+5	pravděpodobně	Dg-------1A----	Adv
+6	ve	RV--4----------	AuxP
+7	středu	NNFS4-----A----	Adv
+8	.	Z:-------------	AuxK
+

@@ -1,0 +1,182 @@
+lnd94101-059-p1s1
+1	Britští	AAMP1----1A----	Atr
+2	poslanci	NNMP1-----A----	ExD
+3	pro	RR--4----------	AuxP
+4	sankce	NNFP4-----A----	ExD
+5	proti	RR--3----------	AuxP
+6	Íránu	NNIS3-----A----	Atr
+
+lnd94101-059-p1s2
+1	Londýn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94101-059-p1s3
+1	Poslanci	NNMP1-----A----	Sb
+2	britského	AAIS2----1A----	Atr
+3	parlamentu	NNIS2-----A----	Atr
+4	vyzvali	VpMP---XR-AA---	Pred
+5	vládu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	prosadila	VpQW---XR-AA---	Obj
+9	ekonomické	AAFP4----1A----	Atr
+10	sankce	NNFP4-----A----	Obj
+11	vůči	RR--3----------	AuxP
+12	Íránu	NNIS3-----A----	Atr
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	údajně	Dg-------1A----	Adv
+16	financuje	VB-S---3P-AA---	Atr
+17	Irskou	AAFS4----1A----	Atr
+18	republikánskou	AAFS4----1A----	Atr
+19	armádu	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+lnd94101-059-p1s4
+1	Zprávy	NNFP4-----A----	Obj
+2	o	RR--6----------	AuxP
+3	kontaktech	NNIP6-----A----	Atr
+4	íránské	AAFS2----1A----	Atr
+5	špionážní	AAFS2----1A----	Atr
+6	služby	NNFS2-----A----	Atr
+7	se	RV--7----------	AuxP
+8	"	Z:-------------	AuxG
+9	zásobovacími	AAMP7----1A----	Atr
+10	důstojníky	NNMP7-----A----	Atr
+11	"	Z:-------------	AuxG
+12	IRA	NNFXX-----A---8	Atr
+13	potvrdila	VpQW---XR-AA---	Pred
+14	britská	AAFS1----1A----	Atr
+15	kontrarozvědka	NNFS1-----A----	Sb
+16	MI	NNFXX-----A---8	Atr
+17	6	C=-------------	Atr
+18	.	Z:-------------	AuxK
+
+lnd94101-059-p1s5
+1	Íránský	AAMS1----1A----	Atr
+2	chargé	NNMXX-----A----	Atr
+3	d	NNNXX-----A----	Atr
+4	'	Z:-------------	AuxG
+5	affaires	NNNPX-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Londýně	NNIS6-----A----	Atr
+8	G	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Ansárí	NNMS1-----A----	Sb
+11	však	J^-------------	AuxY
+12	kontakty	NNIP4-----A----	Obj
+13	popřel	VpYS---XR-AA---	Pred
+14	a	J^-------------	Coord
+15	zdůraznil	VpYS---XR-AA---	Pred
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	jeho	PSXXXZS3-------	Atr
+19	země	NNFS1-----A----	Sb
+20	odsuzuje	VB-S---3P-AA---	Obj
+21	jakoukoli	PZFS4---------1	Atr
+22	formu	NNFS4-----A----	Obj
+23	terorismu	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+lnd94101-059-p1s6
+1	Podle	RR--2----------	AuxP
+2	britských	AAMP2----1A----	Atr
+3	vojenských	AAMP2----1A----	Atr
+4	expertů	NNMP2-----A----	Adv
+5	trvají	VB-P---3P-AA---	Pred
+6	vztahy	NNIP1-----A----	Sb
+7	mezi	RR--7----------	AuxP
+8	Íránem	NNIS7-----A----	Atr
+9	a	J^-------------	Coord
+10	severoirskou	AAFS7----1A----	Atr
+11	stranou	NNFS7-----A----	Atr
+12	Sinn	NNFXX-----A----	Atr
+13	Fein	NNFXX-----A----	Atr
+14	,	Z:-------------	AuxX
+15	považovanou	AAFS7----1A----	Atr
+16	za	RR--4----------	AuxP
+17	mluvčí	NNFS4-----A----	Obj
+18	IRA	NNFXX-----A---8	Atr
+19	,	Z:-------------	AuxX
+20	již	Db-------------	AuxZ
+21	od	RR--2----------	AuxP
+22	počátku	NNIS2-----A----	Adv
+23	osmdesátých	CrNP2----------	Atr
+24	let	NNNP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd94101-059-p1s7
+1	V	RR--6----------	AuxP
+2	říjnu	NNIS6-----A----	Adv
+3	1986	C=-------------	Atr
+4	nabídlo	VpNS---XR-AA--1	Pred
+5	íránské	AANS1----1A----	Atr
+6	velvyslanectví	NNNS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	Haagu	NNIS6-----A----	AtrAdv
+9	azyl	NNIS4-----A----	Obj
+10	dvěma	ClXP3----------	Atr
+11	vězňům	NNMP3-----A----	Obj
+12	IRA	NNFXX-----A---8	Atr
+13	,	Z:-------------	AuxX
+14	kteří	P4MP1----------	Sb
+15	unikli	VpMP---XR-AA--1	Atr
+16	z	RR--2----------	AuxP
+17	vězení	NNNS2-----A----	Adv
+18	v	RR--6----------	AuxP
+19	Belfastu	NNIS6-----A----	AtrAdv
+20	.	Z:-------------	AuxK
+
+lnd94101-059-p1s8
+1	Předseda	NNMS1-----A----	Atr
+2	Sinn	NNFXX-----A----	Atr
+3	Fein	NNFXX-----A----	Atr
+4	Gerry	NNMS1-----A----	Atr
+5	Adams	NNMS1-----A----	Sb
+6	navštívil	VpYS---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	roce	NNIS6-----A---1	Adv
+9	1987	C=-------------	Atr
+10	konferenci	NNFS4-----A----	Obj
+11	v	RR--6----------	AuxP
+12	Teheránu	NNIS6-----A----	AtrAdv
+13	.	Z:-------------	AuxK
+
+lnd94101-059-p1s9
+1	Důkazy	NNIP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4YP4----------	Obj
+4	má	VB-S---3P-AA---	Atr
+5	britská	AAFS1----1A----	Atr
+6	špionážní	AAFS1----1A----	Atr
+7	služba	NNFS1-----A----	Sb
+8	k	RR--3----------	AuxP
+9	dispozici	NNFS3-----A----	Adv
+10	,	Z:-------------	AuxX
+11	údajně	Dg-------1A----	Adv
+12	zahrnují	VB-P---3P-AA---	Pred
+13	magnetofonové	AAIP4----1A----	Atr
+14	záznamy	NNIP4-----A----	Obj
+15	telefonických	AAIP2----1A----	Atr
+16	rozhovorů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd94101-059-p1s10
+1	Teherán	NNIS1-----A----	Sb
+2	podporuje	VB-S---3P-AA---	Pred
+3	také	Db-------------	AuxZ
+4	řecké	AAMP4----1A----	Atr
+5	teroristy	NNMP4-----A----	Obj
+6	ze	RV--2----------	AuxP
+7	skupiny	NNFS2-----A----	Atr
+8	17	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	listopadu	NNIS2-----A----	Atr
+11	a	J^-------------	Coord
+12	baskické	AAMP4----1A----	Atr
+13	separatisty	NNMP4-----A----	Obj
+14	z	RR--2----------	AuxP
+15	hnutí	NNNS2-----A----	Atr
+16	ETA	NNFXX-----A---8	Atr
+17	.	Z:-------------	AuxK
+

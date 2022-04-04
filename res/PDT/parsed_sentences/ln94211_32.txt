@@ -1,0 +1,56 @@
+ln94211-32-p1s1
+1	Auta	NNNP1-----A----	Sb
+2	ohrožují	VB-P---3P-AA---	Pred
+3	klidný	AAIS4----1A----	Atr
+4	spánek	NNIS4-----A----	Obj
+
+ln94211-32-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94211-32-p2s1B
+1	Provoz	NNIS1-----A----	Sb
+2	osobních	AAIP2----1A----	Atr
+3	automobilů	NNIP2-----A----	Atr
+4	ruší	VB-S---3P-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	spánku	NNIS6-----A----	Adv
+7	22	C=-------------	Obj
+8	procent	NNNP2-----A----	Atr
+9	obyvatel	NNMS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	hluk	NNIS1-----A----	Sb
+12	nákladních	AANP2----1A----	Atr
+13	vozidel	NNNP2-----A----	Atr
+14	budí	VB-S---3P-AA---	Pred
+15	20	C=-------------	Obj
+16	procent	NNNP2-----A----	Atr
+17	občanů	NNMP2-----A----	Atr
+18	a	J^-------------	Coord
+19	také	Db-------------	AuxZ
+20	sousedi	NNMP1-----A---1	Sb
+21	nenechají	VB-P---3P-NA---	Pred
+22	spát	Vf--------A----	Obj
+23	20	C=-------------	Obj
+24	procent	NNNP2-----A----	Atr
+25	populace	NNFS2-----A----	Atr
+26	v	RR--6----------	AuxP
+27	České	AAFS6----1A----	Atr
+28	republice	NNFS6-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94211-32-p2s2
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	výsledků	NNIP2-----A----	Obj
+5	průzkumu	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	který	P4IS4----------	Obj
+8	v	RR--6----------	AuxP
+9	srpnu	NNIS6-----A----	Adv
+10	uskutečnila	VpQW---XR-AA---	Atr
+11	agentura	NNFS1-----A----	Sb
+12	AISA	NNFXX-----A---8	Atr
+13	.	Z:-------------	AuxK
+

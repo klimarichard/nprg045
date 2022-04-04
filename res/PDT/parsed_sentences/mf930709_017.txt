@@ -1,0 +1,166 @@
+mf930709-017-p1s1
+1	Liberec	NNIS1-----A----	Sb
+2	musí	VB-S---3P-AA---	Pred
+3	stavět	Vf--------A----	Obj
+4	nemocnici	NNFS4-----A----	Obj
+
+mf930709-017-p2s1A
+1	Liberec	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ouš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-017-p2s1B
+1	Liberecká	AAFS1----1A----	Atr
+2	nemocnice	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	ani	J^-------------	AuxZ
+5	při	RR--6----------	AuxP
+6	rekonstrukci	NNFS6-----A----	Adv
+7	nemůže	VB-S---3P-NA---	Pred
+8	stát	Vf--------A----	Obj
+9	moderním	AANS7----1A----	Atr
+10	zdravotnickým	AANS7----1A----	Atr
+11	zařízením	NNNS7-----A----	Obj
+12	.	Z:-------------	AuxK
+
+mf930709-017-p2s2
+1	Vedení	NNNS1-----A----	Sb
+2	nemocnice	NNFS2-----A----	Atr
+3	proto	J^-------------	Coord
+4	prosazuje	VB-S---3P-AA---	Pred
+5	stavbu	NNFS4-----A----	Obj
+6	nového	AAIS2----1A----	Atr
+7	areálu	NNIS2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	kraji	NNIS6-----A----	AtrAdv
+10	města	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-017-p2s3
+1	Nemocnice	NNFS1-----A----	Sb
+2	totiž	Db-------------	AuxY
+3	leží	VB-S---3P-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	středu	NNIS6-----A----	Adv
+6	města	NNNS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	stavbě	NNFS3-----A----	Obj
+10	nových	AAFP2----1A----	Atr
+11	budov	NNFP2-----A----	Atr
+12	brání	VB-S---3P-AA---	Atr
+13	hustá	AAFS1----1A----	Atr
+14	bytová	AAFS1----1A----	Atr
+15	zástavba	NNFS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+mf930709-017-p2s4
+1	Podle	RR--2----------	AuxP
+2	technického	AAMS2----1A----	Atr
+3	ředitele	NNMS2-----A----	Atr
+4	nemocnice	NNFS2-----A----	Atr
+5	Milana	NNMS2-----A----	Atr
+6	Trpišovského	NNMS2-----A----	Adv
+7	by	Vc-------------	AuxV
+8	nový	AAIS1----1A----	Atr
+9	areál	NNIS1-----A----	Sb
+10	s	RR--7----------	AuxP
+11	800	C=-------------	Atr
+12	lůžky	NNNP7-----A----	Atr
+13	stál	VpYS---XR-AA---	Pred
+14	zhruba	Db-------------	AuxZ
+15	na	RR--4----------	AuxP
+16	1.5	C=-------------	Adv
+17	miliardy	NNFS2-----A----	Atr
+18	korun	NNFP2-----A----	Atr
+19	,	Z:-------------	Coord
+20	přibližně	Dg-------1A----	Adv
+21	stejně	Dg-------1A----	Adv
+22	by	Vc-------------	AuxV
+23	stálo	VpNS---XR-AA---	Pred
+24	vybavení	NNNS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+mf930709-017-p3s1
+1	Zda	J,-------------	AuxC
+2	se	P7-X4----------	AuxR
+3	nemocnice	NNFS1-----A----	Sb
+4	bude	VB-S---3F-AA---	AuxV
+5	stavět	Vf--------A----	Adv
+6	,	Z:-------------	AuxX
+7	záleží	VB-S---3P-AA---	Pred
+8	na	RR--6----------	AuxP
+9	dohodě	NNFS6-----A----	Obj
+10	mezi	RR--7----------	AuxP
+11	libereckou	AAFS7----1A----	Atr
+12	samosprávou	NNFS7-----A----	Atr
+13	a	J^-------------	Coord
+14	státní	AAFS7----1A----	Atr
+15	správou	NNFS7-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930709-017-p3s2
+1	Rozhodnutí	NNNS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	mělo	VpNS---XR-AA---	Pred
+4	padnout	Vf--------A----	Obj
+5	do	RR--2----------	AuxP
+6	roka	NNIS2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+mf930709-017-p4s1
+1	Městu	NNNS3-----A----	Obj
+2	patří	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	nemocnici	NNFS6-----A----	Adv
+5	70	C=-------------	Sb
+6	procent	NNNP2-----A----	Atr
+7	budov	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930709-017-p4s2
+1	V	RR--6----------	AuxP
+2	opuštěných	AAFP6----1A----	Atr
+3	starých	AAFP6----1A----	Atr
+4	budovách	NNFP6-----A----	Adv
+5	by	Vc-------------	AuxV
+6	se	P7-X4----------	AuxR
+7	vzhledem	RF-------------	AuxP
+8	k	RR--3----------	AuxP
+9	poloze	NNFS3-----A----	Adv
+10	v	RR--6----------	AuxP
+11	centru	NNNS6-----A----	Atr
+12	města	NNNS2-----A----	Atr
+13	dalo	VpNS---XR-AA---	Pred
+14	podnikat	Vf--------A----	Sb
+15	.	Z:-------------	AuxK
+
+mf930709-017-p4s3
+1	Příjmy	NNIP1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	pak	Db-------------	Adv
+4	přispěly	VpTP---XR-AA---	Pred
+5	k	RR--3----------	AuxP
+6	placení	NNNS3-----A----	Obj
+7	prací	NNFP2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	nové	AAFS6----1A----	Atr
+10	nemocnici	NNFS6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-017-p4s4
+1	Podle	RR--2----------	AuxP
+2	Milana	NNMS2-----A----	Atr
+3	Trpišovského	NNMS2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxR
+6	stavba	NNFS1-----A----	Sb
+7	mohla	VpQW---XR-AA---	Pred
+8	dokončit	Vf--------A----	Obj
+9	během	RR--2----------	AuxP
+10	pěti	Cn-P2----------	Atr
+11	let	NNNP2-----A----	Adv
+12	.	Z:-------------	AuxK
+

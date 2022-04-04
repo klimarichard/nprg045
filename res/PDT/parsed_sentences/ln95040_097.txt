@@ -1,0 +1,512 @@
+ln95040-097-p1s1
+1	Parlament	NNIS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	ohrožení	NNNS6-----A----	Atr
+4	?	Z:-------------	AuxK
+
+ln95040-097-p2s1
+1	Výlučnou	AAFS4----1A----	Atr
+2	pravomoc	NNFS4-----A----	Obj
+3	přijímat	Vf--------A----	Atr
+4	zákony	NNIP4-----A----	Obj
+5	nebo	J^-------------	Coord
+6	akty	NNIP4-----A----	Obj
+7	s	RR--7----------	AuxP
+8	právní	AAFS7----1A----	Atr
+9	silou	NNFS7-----A----	Atr
+10	zákona	NNIS2-----A----	Atr
+11	má	VB-S---3P-AA---	Pred
+12	v	RR--6----------	AuxP
+13	ČR	NNFXX-----A---8	Adv
+14	podle	RR--2----------	AuxP
+15	ústavy	NNFS2-----A----	Adv
+16	jen	TT-------------	AuxZ
+17	parlament	NNIS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95040-097-p2s2
+1	Existují	VB-P---3P-AA---	Pred
+2	však	J^-------------	Coord
+3	situace	NNFP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	by	Vc-------------	AuxV
+7	taková	PDFS1----------	Atr
+8	monopolní	AAFS1----1A----	Atr
+9	působnost	NNFS1-----A----	Sb
+10	mohla	VpQW---XR-AA---	Atr
+11	vést	Vf--------A----	Obj
+12	přímo	Dg-------1A----	AuxZ
+13	k	RR--3----------	AuxP
+14	ohrožení	NNNS3-----A----	Adv
+15	státu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95040-097-p2s3
+1	Překážkou	NNFS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	hlavně	Dg-------1A----	AuxZ
+4	měsíční	AAIS1----1A----	Atr
+5	(	Z:-------------	AuxG
+6	nebo	J^-------------	Coord
+7	i	J^-------------	AuxZ
+8	delší	AAIS1----2A----	Atr
+9	)	Z:-------------	AuxG
+10	interval	NNIS1-----A----	Sb
+11	mezi	RR--7----------	AuxP
+12	jednotlivými	AANP7----1A----	Atr
+13	zasedáními	NNNP7-----A----	Atr
+14	zákonodárného	AAIS2----1A----	Atr
+15	sboru	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95040-097-p2s4
+1	Taková	PDFS1----------	Atr
+2	prodleva	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	některých	PZXP6----------	Atr
+7	zásadních	AAIP6----1A----	Atr
+8	okamžicích	NNIP6-----A----	Adv
+9	mohla	VpQW---XR-AA---	Pred
+10	stát	Vf--------A----	Obj
+11	osudnou	AAFS7----1A----	Obj
+12	.	Z:-------------	AuxK
+
+ln95040-097-p2s5
+1	A	J^-------------	Coord
+2	svolávat	Vf--------A----	Sb
+3	urychleně	Dg-------1A----	Adv
+4	poslance	NNMP4-----A----	Obj
+5	ze	RV--2----------	AuxP
+6	všech	PLXP2----------	Atr
+7	koutů	NNIP2-----A----	Adv
+8	republiky	NNFS2-----A----	Atr
+9	by	Vc-------------	AuxV
+10	za	RR--2----------	AuxP
+11	mimořádného	AAIS2----1A----	Atr
+12	stavu	NNIS2-----A----	Adv
+13	nemuselo	VpNS---XR-NA---	Pred
+14	být	Vf--------A----	Obj
+15	jednoduché	AANS1----1A----	Pnom
+16	.	Z:-------------	AuxK
+
+ln95040-097-p3s1
+1	Sáhnout	Vf--------A----	Sb
+2	poslancům	NNMP3-----A----	Obj
+3	na	RR--4----------	AuxP
+4	jejich	PSXXXXP3-------	Atr
+5	výsadní	AANS4----1A----	Atr
+6	postavení	NNNS4-----A----	Obj
+7	je	VB-S---3P-AA---	Pred
+8	vždy	Db-------------	Adv
+9	věc	NNFS1-----A----	Pnom
+10	ožehavá	AAFS1----1A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95040-097-p3s2
+1	Značnou	AAFS4----1A----	Atr
+2	nevoli	NNFS4-----A----	Obj
+3	vzbudil	VpYS---XR-AA---	Pred
+4	již	Db-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	říjnu	NNIS6-----A----	Adv
+7	vládou	NNFS7-----A----	Obj
+8	schválený	AAIS1----1A----	Atr
+9	návrh	NNIS1-----A----	Sb
+10	zásad	NNFP2-----A----	Atr
+11	ústavního	AAIS2----1A----	Atr
+12	zákona	NNIS2-----A----	Atr
+13	o	RR--6----------	AuxP
+14	obraně	NNFS6-----A----	Atr
+15	ČR	NNFXX-----A---8	Atr
+16	,	Z:-------------	AuxX
+17	podle	RR--2----------	AuxP
+18	něhož	P9ZS2----------	Adv
+19	stav	NNIS4-----A----	Obj
+20	ohrožení	NNNS2-----A----	Atr
+21	vyhlašuje	VB-S---3P-AA---	Atr
+22	a	J^-------------	Coord
+23	odvolává	VB-S---3P-AA---	Atr
+24	vláda	NNFS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln95040-097-p3s3
+1	Ovšem	J^-------------	Coord
+2	pouze	Db-------------	AuxZ
+3	v	RR--6----------	AuxP
+4	případě	NNIS6-----A----	ExD
+5	,	Z:-------------	AuxX
+6	kdy	Db-------------	Adv
+7	by	Vc-------------	AuxV
+8	svrchovanost	NNFS1-----A----	Sb
+9	či	J^-------------	Coord
+10	celistvost	NNFS1-----A----	Sb
+11	státu	NNIS2-----A----	Atr
+12	byla	VpQW---XR-AA---	AuxV
+13	ohrožena	VsQW---XX-AP---	Atr
+14	bezprostředně	Dg-------1A----	Adv
+15	a	J^-------------	Coord
+16	schůzi	NNFS3-----A----	Obj
+17	parlamentu	NNIS2-----A----	Atr
+18	by	Vc-------------	AuxV
+19	bránily	VpTP---XR-AA---	Atr
+20	nepřekonatelné	AAFP1----1N----	Atr
+21	překážky	NNFP1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	nebo	J^-------------	Coord
+24	by	Vc-------------	AuxV
+25	tento	PDYS1----------	Atr
+26	orgán	NNIS1-----A----	Sb
+27	nebyl	VpYS---XR-NA---	Atr
+28	schopen	ACYS------A----	Pnom
+29	usnášení	NNNS2-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln95040-097-p3s4
+1	Řada	NNFS1-----A----	Sb
+2	poslanců	NNMP2-----A----	Atr
+3	byla	VpQW---XR-AA---	AuxV
+4	tímto	PDZS7----------	Atr
+5	návrhem	NNIS7-----A----	Adv
+6	pobouřena	VsQW---XX-AP---	Pred
+7	,	Z:-------------	Coord
+8	byl	VpYS---XR-AA---	AuxV
+9	dokonce	Db-------------	AuxZ
+10	označen	VsYS---XX-AP---	Pred
+11	za	RR--4----------	AuxP
+12	"	Z:-------------	AuxG
+13	výsměch	NNIS4-----A----	Obj
+14	parlamentní	AAFS3----1A----	Atr
+15	demokracii	NNFS3-----A----	Atr
+16	"	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+ln95040-097-p4s1
+1	V	RR--6----------	AuxP
+2	dohledné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	chystá	VB-S---3P-AA---	Pred
+5	vláda	NNFS1-----A----	Sb
+6	další	AAIS4----1A----	Atr
+7	podobný	AAIS4----1A----	Atr
+8	zákon	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	by	Vc-------------	AuxV
+12	měl	VpYS---XR-AA---	Atr
+13	ČR	NNFXX-----A---8	Obj
+14	umožnit	Vf--------A----	Obj
+15	bezprostředně	Dg-------1A----	Adv
+16	realizovat	Vf--------A----	Obj
+17	závažná	AANP4----1A----	Atr
+18	rozhodnutí	NNNP4-----A----	Obj
+19	Rady	NNFS2-----A----	Atr
+20	bezpečnosti	NNFS2-----A----	Atr
+21	OSN	NNFXX-----A---8	Atr
+22	,	Z:-------------	AuxX
+23	týkající	AGNP4-----A----	Atr
+24	se	P7-X4----------	AuxT
+25	zajištění	NNNS2-----A----	Obj
+26	míru	NNIS2-----A----	Atr
+27	a	J^-------------	Coord
+28	bezpečnosti	NNFS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95040-097-p4s2
+1	Dnes	Db-------------	Adv
+2	totiž	Db-------------	AuxY
+3	u	RR--2----------	AuxP
+4	nás	PP-P2--1-------	Adv
+5	není	VB-S---3P-NA---	Pred
+6	možné	AANS1----1A----	Pnom
+7	takové	PDIP4----------	Atr
+8	verdikty	NNIP4-----A----	Obj
+9	rychle	Dg-------1A----	Adv
+10	uskutečňovat	Vf--------A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95040-097-p4s3
+1	Překážkou	NNFS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	právě	Db-------------	AuxZ
+4	délka	NNFS1-----A----	Sb
+5	legislativního	AAIS2----1A----	Atr
+6	procesu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95040-097-p4s4
+1	Od	RR--2----------	AuxP
+2	vypracování	NNNS2-----A----	Adv
+3	návrhu	NNIS2-----A----	Atr
+4	zákona	NNIS2-----A----	Atr
+5	až	TT-------------	AuxZ
+6	k	RR--3----------	AuxP
+7	jeho	PSXXXZS3-------	Atr
+8	podepsání	NNNS3-----A----	Adv
+9	prezidentem	NNMS7-----A----	Atr
+10	uběhnou	VB-P---3P-AA---	Pred
+11	měsíce	NNIP1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln95040-097-p4s5
+1	Na	RR--4----------	AuxP
+2	závažná	AANP4----1A----	Atr
+3	rozhodnutí	NNNP4-----A----	Obj
+4	Rady	NNFS2-----A----	Atr
+5	bezpečnosti	NNFS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	ale	J^-------------	Coord
+8	třeba	ACNS------A----	Pnom
+9	reagovat	Vf--------A----	Sb
+10	ve	RV--6----------	AuxP
+11	dnech	NNIP6-----A----	Adv
+12	,	Z:-------------	Coord
+13	maximálně	Dg-------1A----	AuxZ
+14	týdnech	NNIP6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95040-097-p4s6
+1	Rychleji	Dg-------2A----	Adv
+2	to	PDNS1----------	Sb
+3	lze	VB-S---3P-AA---	Pred
+4	sice	Db-------------	AuxY
+5	i	J^-------------	AuxZ
+6	u	RR--2----------	AuxP
+7	nás	PP-P2--1-------	Adv
+8	,	Z:-------------	AuxX
+9	ovšem	J^-------------	Coord
+10	pouze	Db-------------	AuxZ
+11	při	RR--6----------	AuxP
+12	rozpuštění	NNNS6-----A----	ExD
+13	Poslanecké	AAFS2----1A----	Atr
+14	sněmovny	NNFS2-----A----	Atr
+15	:	Z:-------------	Coord
+16	v	RR--6----------	AuxP
+17	takovém	PDZS6----------	Atr
+18	případě	NNIS6-----A----	Adv
+19	přijímá	VB-S---3P-AA---	Pred
+20	zákony	NNIP4-----A----	Obj
+21	pouze	Db-------------	AuxZ
+22	Senát	NNIS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln95040-097-p4s7
+1	Ten	PDYS1----------	Sb
+2	ale	J^-------------	Coord
+3	zatím	Db-------------	Adv
+4	neexistuje	VB-S---3P-NA---	Pred
+5	.	Z:-------------	AuxK
+
+ln95040-097-p5s1
+1	Věc	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	zjevně	Dg-------1A----	Adv
+4	zralá	AAFS1----1A----	Pnom
+5	k	RR--3----------	AuxP
+6	řešení	NNNS3-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln95040-097-p5s2
+1	Nabízejí	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	dvě	ClHP1----------	Atr
+4	cesty	NNFP1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+ln95040-097-p5s3
+1	Podle	RR--2----------	AuxP
+2	první	CrFS2----------	Adv
+3	by	Vc-------------	AuxV
+4	rozhodnutí	NNNP4-----A----	Obj
+5	s	RR--7----------	AuxP
+6	mocí	NNFS7-----A----	Atr
+7	zákona	NNIS2-----A----	Atr
+8	byla	VpQW---XR-AA---	AuxV
+9	oprávněna	VsQW---XX-AP---	Pred
+10	přijímat	Vf--------A----	Obj
+11	vláda	NNFS1-----A----	Sb
+12	a	J^-------------	Coord
+13	parlament	NNIS1-----A----	Sb
+14	by	Vc-------------	AuxV
+15	je	PPXP4--3-------	Obj
+16	schvaloval	VpYS---XR-AA---	Pred
+17	dodatečně	Dg-------1A----	Adv
+18	na	RR--6----------	AuxP
+19	nejbližším	AANS6----3A----	Atr
+20	zasedání	NNNS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln95040-097-p5s4
+1	Problém	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	ale	J^-------------	Coord
+4	nastal	VpYS---XR-AA---	Pred
+5	se	RV--7----------	AuxP
+6	zákonem	NNIS7-----A----	Obj
+7	,	Z:-------------	AuxX
+8	s	RR--7----------	AuxP
+9	kterým	P4ZS7----------	Obj
+10	by	Vc-------------	AuxV
+11	potom	Db-------------	Adv
+12	zákonodárci	NNMP1-----A----	Sb
+13	nesouhlasili	VpMP---XR-NA---	Atr
+14	.	Z:-------------	AuxK
+
+ln95040-097-p5s5
+1	Druhá	CrFS1----------	Atr
+2	možnost	NNFS1-----A----	Pnom
+3	by	Vc-------------	AuxV
+4	byla	VpQW---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	jednacím	AAIS6----1A----	Atr
+7	řádu	NNIS6-----A----	Adv
+8	parlamentu	NNIS2-----A----	Atr
+9	přesně	Dg-------1A----	Adv
+10	vymezit	Vf--------A----	Sb
+11	situace	NNFP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	kdy	Db-------------	Adv
+14	by	Vc-------------	AuxV
+15	se	P7-X4----------	AuxR
+16	legislativní	AAIS1----1A----	Atr
+17	proces	NNIS1-----A----	Sb
+18	mohl	VpYS---XR-AA---	Atr
+19	zredukovat	Vf--------A----	Obj
+20	na	RR--4----------	AuxP
+21	jeden	ClIS4----------	Atr
+22	den	NNIS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln95040-097-p5s6
+1	Zde	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	bylo	VpNS---XR-AA---	Pred
+4	ale	J^-------------	Coord
+5	třeba	ACNS------A----	Pnom
+6	zkrátit	Vf--------A----	Sb
+7	nebo	J^-------------	Coord
+8	zrušit	Vf--------A----	Sb
+9	třicetidenní	AAFS4----1A----	Atr
+10	lhůtu	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	kterou	P4FS4----------	Obj
+13	má	VB-S---3P-AA---	Atr
+14	mít	Vf--------A----	Obj
+15	Senát	NNIS1-----A----	Sb
+16	na	RR--4----------	AuxP
+17	vyjádření	NNNS4-----A----	Adv
+18	se	P7-X4----------	Atr
+19	ke	RV--3----------	AuxP
+20	každému	AAIS3----1A----	Atr
+21	zákonu	NNIS3-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95040-097-p6s1
+1	Obě	ClHP1----------	Atr
+2	cesty	NNFP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	"	Z:-------------	AuxG
+5	nepříjemné	AAFP1----1N----	Pnom
+6	"	Z:-------------	AuxG
+7	,	Z:-------------	AuxX
+8	neboť	J^-------------	Coord
+9	jedna	ClFS1----------	Sb
+10	i	J^-------------	Coord
+11	druhá	CrFS1----------	Sb
+12	zasahují	VB-P---3P-AA---	Pred
+13	do	RR--2----------	AuxP
+14	ústavy	NNFS2-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95040-097-p6s2
+1	K	RR--3----------	AuxP
+2	prosazení	NNNS3-----A----	Adv
+3	jakékoli	PZFS2---------1	Atr
+4	úpravy	NNFS2-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	vláda	NNFS1-----A----	Sb
+7	potřebovat	Vf--------A----	Pred
+8	dvoutřetinovou	AAFS4----1A----	Atr
+9	většinu	NNFS4-----A----	Obj
+10	sněmovny	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95040-097-p6s3
+1	Opozici	NNFS3-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	přitom	Db-------------	Adv
+4	nelze	VB-S---3P-NA---	Pred
+5	divit	Vf--------A----	Sb
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	omezování	NNNS4-----A----	Obj
+9	pravomocí	NNFP2-----A----	Atr
+10	parlamentu	NNIS2-----A----	Atr
+11	odmítá	VB-S---3P-AA---	Adv
+12	.	Z:-------------	AuxK
+
+ln95040-097-p6s4
+1	Dá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	tedy	Db-------------	AuxY
+4	ve	RV--6----------	AuxP
+5	sněmovně	NNFS6-----A----	Adv
+6	očekávat	Vf--------A----	Obj
+7	těžké	AANS1----1A----	Atr
+8	klání	NNNS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln95040-097-p6s5
+1	Vždyť	J^-------------	Coord
+2	ústava	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	vzhledem	RF-------------	AuxP
+5	k	RR--3----------	AuxP
+6	těžkostem	NNFP3-----A----	Adv
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	provázely	VpTP---XR-AA---	Atr
+10	její	PSNS4FS3-------	Atr
+11	přijetí	NNNS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	pro	RR--4----------	AuxP
+14	mnohé	AAMP4----1A----	Adv
+15	textem	NNIS7-----A----	Pnom
+16	takřka	Db-------------	AuxZ
+17	posvátným	AAIS7----1A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95040-097-p6s6
+1	Jakékoli	PZIP1---------1	Atr
+2	zásahy	NNIP1-----A----	Sb
+3	do	RR--2----------	AuxP
+4	ní	P5FS2--3-------	Atr
+5	jsou	VB-P---3P-AA---	AuxV
+6	vždy	Db-------------	Adv
+7	přijímány	VsTP---XX-AP---	Pred
+8	se	RV--7----------	AuxP
+9	značnou	AAFS7----1A----	Atr
+10	nelibostí	NNFS7-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln95040-097-p6s7
+1	Ať	J,-------------	AuxY
+2	již	Db-------------	AuxY
+3	šlo	VpNS---XR-AA---	Pred
+4	o	RR--4----------	AuxP
+5	snahu	NNFS4-----A----	Obj
+6	vypustit	Vf--------A----	Atr
+7	Senát	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	zakotvit	Vf--------A----	Atr
+10	povinně	Dg-------1A----	Adv
+11	vyrovnaný	AAIS4----1A----	Atr
+12	rozpočet	NNIS4-----A----	Obj
+13	nebo	J^-------------	Coord
+14	omezit	Vf--------A----	Atr
+15	poslaneckou	AAFS4----1A----	Atr
+16	imunitu	NNFS4-----A----	Obj
+17	.	Z:-------------	AuxK
+

@@ -1,0 +1,127 @@
+ln95046-117-p1s1
+1	Kontejnery	NNIP1-----A----	Sb
+2	plují	VB-P---3P-AA--1	Pred
+3	po	RR--6----------	AuxP
+4	Labi	NNNS6-----A----	Adv
+
+ln95046-117-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-117-p2s1B
+1	Pod	RR--7----------	AuxP
+2	názvem	NNIS7-----A----	Adv
+3	Labe	NNNS1-----A----	Atr
+4	/	Z:-------------	Coord
+5	Elbe	NNNXX-----A---2	Atr
+6	Container	NNIS1-----A----	Atr
+7	Line	VB-S---3P-AA---	Atr
+8	budou	VB-P---3F-AA---	AuxV
+9	od	RR--2----------	AuxP
+10	1	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	března	NNIS2-----A----	Adv
+13	provozovat	Vf--------A----	Pred
+14	říční	AAFS4----1A----	Atr
+15	přepravu	NNFS4-----A----	Obj
+16	kontejnerů	NNIP2-----A----	Atr
+17	na	RR--6----------	AuxP
+18	trase	NNFS6-----A----	Adv
+19	Praha	NNFS1-----A----	Atr
+20	-	Z:-------------	AuxG
+21	Hamburk	NNIS1-----A----	Atr
+22	-	Z:-------------	Coord
+23	Praha	NNFS1-----A----	Atr
+24	firmy	NNFP1-----A----	Sb
+25	Československá	AAFS1----1A----	Atr
+26	plavba	NNFS1-----A----	Atr
+27	labská	AAFS1----1A----	Atr
+28	a	J^-------------	Coord
+29	Deutsche	AAXXX----1A----	Atr
+30	Binnereederei	NNFXX-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95046-117-p3s1
+1	Připraveny	VsTP---XX-AP---	Pnom
+2	jsou	VB-P---3P-AA---	Pred
+3	pravidelné	AAIP1----1A----	Atr
+4	týdenní	AAIP1----1A----	Atr
+5	odjezdy	NNIP1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	Prahy	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	Hamburku	NNIS2-----A----	Atr
+10	podle	RR--2----------	AuxP
+11	pevného	AAIS2----1A----	Atr
+12	jízdního	AAIS2----1A----	Atr
+13	řádu	NNIS2-----A----	AtrAdv
+14	s	RR--7----------	AuxP
+15	dobou	NNFS7-----A----	Atr
+16	přepravy	NNFS2-----A----	Atr
+17	osm	Cn-S4----------	Atr
+18	dnů	NNIP2-----A----	Atr
+19	po	RR--6----------	AuxP
+20	proudu	NNIS6-----A----	Atr
+21	řeky	NNFS2-----A----	Atr
+22	a	J^-------------	Coord
+23	11	C=-------------	Atr
+24	dnů	NNIP2-----A----	Atr
+25	proti	RR--3----------	AuxP
+26	proudu	NNIS3-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95046-117-p4s1
+1	Labe	NNNS1-----A----	Sb
+2	/	Z:-------------	Coord
+3	Elbe	NNNXX-----A---2	Atr
+4	Container	NNIS1-----A----	Atr
+5	Line	NNFSX-----A----	Sb
+6	bude	VB-S---3F-AA---	AuxV
+7	nabízet	Vf--------A----	Pred
+8	komplexní	AAFS4----1A----	Atr
+9	službu	NNFS4-----A----	Obj
+10	od	RR--2----------	AuxP
+11	zabezpečování	NNNS2-----A----	Atr
+12	překladní	AAFS2----1A----	Atr
+13	činnosti	NNFS2-----A----	Atr
+14	až	TT-------------	AuxZ
+15	po	RR--4----------	AuxP
+16	organizování	NNNS4-----A----	Atr
+17	rozvozu	NNIS2-----A----	Atr
+18	kontejnerů	NNIP2-----A----	Atr
+19	k	RR--3----------	AuxP
+20	zákazníkovi	NNMS3-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95046-117-p5s1
+1	ČPL	NNFXX-----A---8	Sb
+2	je	VB-S---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	svého	P8ZS2----------	Atr
+5	prohlášení	NNNS2-----A----	Adv
+6	přesvědčena	VsQW---XX-AP---	Pnom
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	toto	PDNS1----------	Atr
+10	nové	AANS1----1A----	Atr
+11	přepravní	AANS1----1A----	Atr
+12	společenství	NNNS1-----A----	Sb
+13	bude	VB-S---3F-AA---	Obj
+14	zárukou	NNFS7-----A----	Pnom
+15	opětného	AANS2----1A----	Atr
+16	zvýšení	NNNS2-----A----	Atr
+17	zájmu	NNIS2-----A----	Atr
+18	o	RR--4----------	AuxP
+19	vodní	AAFS4----1A----	Atr
+20	přepravu	NNFS4-----A----	Atr
+21	za	RR--2----------	AuxP
+22	předpokladu	NNIS2-----A----	Adv
+23	zvýšené	AAFS2----1A----	Atr
+24	akviziční	AAFS2----1A----	Atr
+25	činnosti	NNFS2-----A----	Atr
+26	zejména	Db-------------	AuxZ
+27	na	RR--6----------	AuxP
+28	území	NNNS6-----A----	Atr
+29	Německa	NNNS2-----A----	Atr
+30	.	Z:-------------	AuxK
+

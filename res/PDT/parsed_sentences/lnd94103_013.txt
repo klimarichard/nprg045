@@ -1,0 +1,211 @@
+lnd94103-013-p1s1
+1	Taxikáři	NNMP1-----A----	Sb
+2	chtějí	VB-P---3P-AA---	Pred
+3	hlídače	NNMP4-----A----	Obj
+
+lnd94103-013-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	kva	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94103-013-p1s3
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	bylo	VpNS---XR-AA---	AuxV
+4	k	RR--3----------	AuxP
+5	začátku	NNIS3-----A----	Adv
+6	letošního	AAIS2----1A----	Atr
+7	března	NNIS2-----A----	Atr
+8	vydáno	VsNS---XX-AP---	Pred
+9	na	RR--4----------	AuxP
+10	tři	ClXP4----------	Atr
+11	tisíce	NNIP4-----A----	Sb
+12	taxikářských	AAFP2----1A----	Atr
+13	koncesí	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	na	RR--4----------	AuxP
+16	které	P4FP4----------	Adv
+17	jezdí	VB-S---3P-AA---	Atr
+18	přes	RR--4----------	AuxP
+19	pět	Cn-S4----------	Sb
+20	tisíc	ClXS2----------	Atr
+21	vozů	NNIP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd94103-013-p1s4
+1	Za	RR--4----------	AuxP
+2	rok	NNIS4-----A----	Adv
+3	úřady	NNIP1-----A----	Sb
+4	odebraly	VpTP---XR-AA---	Pred
+5	jen	TT-------------	AuxZ
+6	4	C=-------------	Atr
+7	koncesní	AAFP4----1A----	Atr
+8	listiny	NNFP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+lnd94103-013-p1s5
+1	Celkem	Db-------------	Atr
+2	35	C=-------------	Obj
+3	koncesí	NNFP2-----A----	Atr
+4	však	J^-------------	Coord
+5	pro	RR--4----------	AuxP
+6	různé	AAIP4----1A----	Atr
+7	přestupky	NNIP4-----A----	Adv
+8	neobnovily	VpTP---XR-NA---	Pred
+9	.	Z:-------------	AuxK
+
+lnd94103-013-p1s6
+1	Z	RR--2----------	AuxP
+2	více	Dg-------2A----	Atr
+3	než	J,-------------	AuxC
+4	dvou	ClXP2----------	Atr
+5	milionů	NNIP2-----A----	Adv
+6	korun	NNFP2-----A----	Adv
+7	,	Z:-------------	AuxX
+8	které	P4YP4----------	Obj
+9	loni	Db------------1	Adv
+10	uložily	VpTP---XR-AA---	Atr
+11	živnostenské	AAIP1----1A----	Atr
+12	odbory	NNIP1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	odbory	NNIP1-----A----	Sb
+15	dopravy	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	odbory	NNIP1-----A----	Sb
+18	místních	AAIP2----1A----	Atr
+19	příjmů	NNIP2-----A----	Atr
+20	a	J^-------------	Coord
+21	cen	NNFP2-----A----	Atr
+22	a	J^-------------	Coord
+23	městská	AAFS1----1A----	Atr
+24	policie	NNFS1-----A----	Sb
+25	,	Z:-------------	AuxX
+26	zaplatili	VpMP---XR-AA---	Pred
+27	přistižení	AAMP1----1A----	Atr
+28	taxikáři	NNMP1-----A----	Sb
+29	zatím	Db-------------	Adv
+30	jen	TT-------------	AuxZ
+31	čtvrtinu	CyFS4----------	Obj
+32	.	Z:-------------	AuxK
+
+lnd94103-013-p1s7
+1	Cech	NNIS1-----A----	Sb
+2	taxi	NNNXX-----A----	Atr
+3	a	J^-------------	Coord
+4	další	AAFP1----1A----	Atr
+5	profesní	AAFP1----1A----	Atr
+6	organizace	NNFP1-----A----	Sb
+7	protestují	VB-P---3P-AA---	Pred
+8	proti	RR--3----------	AuxP
+9	zavedení	NNNS3-----A----	Obj
+10	poplatků	NNIP2-----A----	Atr
+11	za	RR--4----------	AuxP
+12	používání	NNNS4-----A----	Atr
+13	stanovišť	NNNP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94103-013-p1s8
+1	Jejich	PSXXXXP3-------	Atr
+2	představitelé	NNMP1-----A----	Sb
+3	argumentují	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	je	VB-S---3P-AA---	Obj
+7	nesmyslné	AANS1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	taxikáři	NNMP1-----A----	Sb
+11	platili	VpMP---XR-AA---	Sb
+12	až	TT-------------	AuxZ
+13	6000	C=-------------	Obj
+14	Kč	NNFXX-----A----	Atr
+15	ročně	Dg-------1A----	AtrAdv
+16	a	J^-------------	Coord
+17	přitom	Db-------------	Adv
+18	se	P7-X4----------	AuxT
+19	na	RR--4----------	AuxP
+20	atraktivnější	AANP4----2A----	Atr
+21	místa	NNNP4-----A----	Adv
+22	okupovaná	AANP4----1A----	Atr
+23	taxikářskou	AAFS7----1A----	Atr
+24	mafií	NNFS7-----A----	Obj
+25	většina	NNFS1-----A----	Sb
+26	z	RR--2----------	AuxP
+27	nich	P5XP2--3-------	Atr
+28	vůbec	Db-------------	AuxZ
+29	nedostala	VpQW---XR-NA---	Sb
+30	.	Z:-------------	AuxK
+
+lnd94103-013-p1s9
+1	Navrhují	VB-P---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	aby	J,-------------	AuxC
+4	byla	VpQW---XR-AA---	Obj
+5	stanoviště	NNNP1-----A----	Sb
+6	hlídaná	AANP1----1A----	Pnom
+7	a	J^-------------	Coord
+8	za	RR--4----------	AuxP
+9	jejich	PSXXXXP3-------	Atr
+10	využití	NNNS4-----A----	Adv
+11	aby	J,-------------	AuxC
+12	se	P7-X4----------	AuxR
+13	platilo	VpNS---XR-AA---	Obj
+14	přímo	Dg-------1A----	Adv
+15	na	RR--6----------	AuxP
+16	místě	NNNS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+lnd94103-013-p1s10
+1	Zástupci	NNMP1-----A----	Sb
+2	pražského	AAIS2----1A----	Atr
+3	magistrátu	NNIS2-----A----	Atr
+4	však	J^-------------	Coord
+5	nevěří	VB-P---3P-NA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	by	Vc-------------	AuxV
+9	se	P7-X4----------	AuxR
+10	hlídači	NNMP1-----A----	Sb
+11	nedali	VpMP---XR-NA---	Obj
+12	zkorumpovat	Vf--------A----	Obj
+13	.	Z:-------------	AuxK
+
+lnd94103-013-p1s11
+1	Sázejí	VB-P---3P-AA---	Pred
+2	spíše	Dg-------2A---1	Adv
+3	na	RR--4----------	AuxP
+4	zpřísnění	NNNS4-----A----	Obj
+5	podmínek	NNFP2-----A----	Atr
+6	při	RR--6----------	AuxP
+7	udělování	NNNS6-----A----	Atr
+8	a	J^-------------	Coord
+9	obnovování	NNNS6-----A----	Atr
+10	koncesí	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94103-013-p1s12
+1	Regulaci	NNFS4-----A----	Obj
+2	počtu	NNIS2-----A----	Atr
+3	pražských	AAIP2----1A----	Atr
+4	taxíků	NNIP2-----A----	Atr
+5	na	RR--4----------	AuxP
+6	tři	ClXP4----------	Atr
+7	a	J^-------------	Coord
+8	půl	NNFS4-----A----	Atr
+9	až	J^-------------	Coord
+10	čtyři	ClXP4----------	Atr
+11	tisíce	NNIP4-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kterou	P4FS4----------	Obj
+14	žádají	VB-P---3P-AA---	Atr
+15	taxíkářské	AAFP1----1A----	Atr
+16	organizace	NNFP1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	však	J^-------------	Coord
+19	uměle	Dg-------1A----	Adv
+20	zavádět	Vf--------A----	Obj
+21	nechtějí	VB-P---3P-NA---	Pred
+22	.	Z:-------------	AuxK
+

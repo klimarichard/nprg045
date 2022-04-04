@@ -1,0 +1,117 @@
+mf930709-048-p1s1
+1	Polsko	NNNS1-----A----	Sb
+2	nevylučuje	VB-S---3P-NA---	Pred
+3	devalvaci	NNFS4-----A----	Obj
+4	měny	NNFS2-----A----	Atr
+
+mf930709-048-p2s1A
+1	Varšava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930709-048-p2s1B
+1	Polská	AAFS1----1A----	Atr
+2	národní	AAFS1----1A----	Atr
+3	banka	NNFS1-----A----	Sb
+4	nevylučuje	VB-S---3P-NA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	bude	VB-S---3F-AA---	AuxV
+8	muset	Vf--------A----	Obj
+9	devalvovat	Vf--------A----	Obj
+10	měnu	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+mf930709-048-p2s2
+1	Varšavský	AAIS1----1A----	Atr
+2	tisk	NNIS1-----A----	Sb
+3	včera	Db-------------	Adv
+4	citoval	VpYS---XR-AA---	Pred
+5	prezidentku	NNFS4-----A----	Atr
+6	centrálního	AAIS2----1A----	Atr
+7	peněžního	AAIS2----1A----	Atr
+8	ústavu	NNIS2-----A----	Atr
+9	Polska	NNNS2-----A----	Atr
+10	Hannu	NNFS4-----A----	Atr
+11	Gronkiewiczovou	NNFS4-----A----	Atr
+12	-	Z:-------------	AuxG
+13	Waltzovou	AAFS4----1A----	Obj
+14	,	Z:-------------	AuxX
+15	podle	RR--2----------	AuxP
+16	níž	P9FS2----------	Adv
+17	"	Z:-------------	AuxG
+18	je	VB-S---3P-AA---	Atr
+19	dnes	Db-------------	Adv
+20	nutné	AANS1----1A----	Pnom
+21	uvažovat	Vf--------A----	Sb
+22	o	RR--6----------	AuxP
+23	možnosti	NNFS6-----A----	Obj
+24	náhlé	AAFS2----1A----	Atr
+25	devalvace	NNFS2-----A----	Atr
+26	"	Z:-------------	AuxG
+27	zlotého	NNIS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf930709-048-p2s3
+1	Ústřední	AAFS1----1A----	Atr
+2	banka	NNFS1-----A----	Sb
+3	takové	PDNS4----------	Atr
+4	opatření	NNNS4-----A----	Obj
+5	zatím	Db-------------	Adv
+6	ještě	Db-------------	Adv
+7	neplánuje	VB-S---3P-NA---	Pred
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	však	J^-------------	Coord
+11	nutné	AANS1----1A----	Pnom
+12	"	Z:-------------	AuxG
+13	seznámit	Vf--------A----	Sb
+14	s	RR--7----------	AuxP
+15	tímto	PDZS7----------	Atr
+16	záměrem	NNIS7-----A----	Obj
+17	obyvatelstvo	NNNS4-----A----	Obj
+18	"	Z:-------------	AuxG
+19	.	Z:-------------	AuxK
+
+mf930709-048-p2s4
+1	Devalvace	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	nicméně	J^-------------	AuxY
+4	až	TT-------------	AuxZ
+5	posledním	AAIS7----1A----	Atr
+6	krokem	NNIS7-----A----	Pnom
+7	pro	RR--4----------	AuxP
+8	případ	NNIS4-----A----	AdvAtr
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	by	Vc-------------	AuxV
+12	se	P7-X4----------	AuxT
+13	nepodařilo	VpNS---XR-NA---	Atr
+14	vylepšit	Vf--------A----	Sb
+15	obchodní	AAFS4----1A----	Atr
+16	bilanci	NNFS4-----A----	Obj
+17	se	RV--7----------	AuxP
+18	zahraničím	NNNS7-----A----	Atr
+19	,	Z:-------------	AuxX
+20	kde	Db-------------	Adv
+21	Polsko	NNNS1-----A----	Sb
+22	vykazuje	VB-S---3P-AA---	Atr
+23	schodek	NNIS4-----A----	Obj
+24	1.18	C=-------------	Atr
+25	miliardy	NNFS2-----A----	Atr
+26	dolaru	NNIS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf930709-048-p2s5
+1	Kurs	NNIS1-----A----	Sb
+2	zlotého	NNIS2-----A----	Atr
+3	k	RR--3----------	AuxP
+4	dolaru	NNIS3-----A----	Atr
+5	byl	VpYS---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	červnu	NNIS6-----A----	Adv
+8	přibližně	Dg-------1A----	AuxZ
+9	17000	C=-------------	Pnom
+10	ku	RV--3---------1	AuxP
+11	jedné	ClFS3----------	Atr
+12	.	Z:-------------	AuxK
+

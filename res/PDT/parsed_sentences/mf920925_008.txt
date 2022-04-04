@@ -1,0 +1,183 @@
+mf920925-008-p1s1
+1	Úspěšný	AAIS1----1A----	Atr
+2	VW	NNIXX-----A----	ExD
+
+mf920925-008-p2s1
+1	Celkový	AAIS1----1A----	Atr
+2	odbyt	NNIS1-----A----	Sb
+3	německého	AAIS2----1A----	Atr
+4	automobilového	AAIS2----1A----	Atr
+5	koncernu	NNIS2-----A----	Atr
+6	Volkswagen	NNIS1-----A----	Atr
+7	včetně	RR--2----------	AuxP
+8	podílu	NNIS2-----A----	Atr
+9	mladoboleslavské	AAFS2----1A----	Atr
+10	Škodovky	NNFS2-----A----	Atr
+11	se	P7-X4----------	AuxR
+12	za	RR--4----------	AuxP
+13	prvních	CrIP2----------	Atr
+14	osm	Cn-S4----------	Adv
+15	měsíců	NNIP2-----A----	Atr
+16	letošního	AAIS2----1A----	Atr
+17	roku	NNIS2-----A---1	Atr
+18	zvýšil	VpYS---XR-AA---	Pred
+19	proti	RR--3----------	AuxP
+20	stejnému	AANS3----1A----	Atr
+21	období	NNNS3-----A----	Adv
+22	1991	C=-------------	Atr
+23	o	RR--4----------	AuxP
+24	2.8	C=-------------	Obj
+25	procenta	NNNS2-----A----	Atr
+26	-	Z:-------------	Apos
+27	na	RR--4----------	AuxP
+28	2.38	C=-------------	Obj
+29	miliónu	NNIS2-----A----	Atr
+30	vozidel	NNNP2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+mf920925-008-p2s2
+1	Z	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	na	RR--4----------	AuxP
+4	západní	AAFS4----1A----	Atr
+5	Evropu	NNFS4-----A----	Adv
+6	připadlo	VpNS---XR-AA--1	Pred
+7	1.77	C=-------------	Sb
+8	miliónu	NNIS2-----A----	Atr
+9	automobilů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf920925-008-p2s3
+1	Jistý	AAIS4----1A----	Atr
+2	pokles	NNIS4-----A----	Obj
+3	odbytu	NNIS2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	domácím	AAIS6----1A----	Atr
+6	trhu	NNIS6-----A----	Atr
+7	a	J^-------------	Coord
+8	v	RR--6----------	AuxP
+9	USA	NNIPX-----A----	Atr
+10	vyrovnala	VpQW---XR-AA---	Pred
+11	automobilka	NNFS1-----A----	Sb
+12	Volkswagen	NNIS1-----A----	Atr
+13	zvýšeným	AAIS7----1A----	Atr
+14	prodejem	NNIS7-----A----	Adv
+15	svých	P8XP2----------	Atr
+16	vozů	NNIP2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	Argentině	NNFS6-----A----	Atr
+19	,	Z:-------------	AuxX
+20	Brazílii	NNFS6-----A----	Atr
+21	a	J^-------------	Coord
+22	Číně	NNFS6-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf920925-008-p2s4
+1	Jak	Db-------------	Adv
+2	napsal	VpYS---XR-AA---	Pred
+3	německý	AAIS1----1A----	Atr
+4	list	NNIS1-----A----	Sb
+5	Handelsblatt	NNIXX-----A----	Atr
+6	,	Z:-------------	AuxX
+7	chce	VB-S---3P-AA---	Pred
+8	Škoda	NNFS1-----A----	Sb
+9	letos	Db-------------	Adv
+10	rozšířit	Vf--------A----	Obj
+11	svůj	P8IS4----------	Atr
+12	odbyt	NNIS4-----A----	Obj
+13	na	RR--4----------	AuxP
+14	200000	C=-------------	Adv
+15	vozů	NNIP2-----A----	Atr
+16	typu	NNIS2-----A----	Atr
+17	Favorit	NNIS1-----A----	Atr
+18	a	J^-------------	Coord
+19	Forman	NNIS1-----A----	Atr
+20	proti	RR--3----------	AuxP
+21	plánovaným	AAIP3----1A----	Atr
+22	180000	C=-------------	Adv
+23	.	Z:-------------	AuxK
+
+mf920925-008-p2s5
+1	VW	NNFXX-----A----	Sb
+2	zvýší	VB-S---3P-AA---	Pred
+3	do	RR--2----------	AuxP
+4	roku	NNIS2-----A---1	Adv
+5	1995	C=-------------	Atr
+6	svůj	P8IS4----------	Atr
+7	podíl	NNIS4-----A----	Obj
+8	ve	RV--6----------	AuxP
+9	Škodě	NNFS6-----A----	Atr
+10	z	RR--2----------	AuxP
+11	dnešních	AANP2----1A----	Atr
+12	31	C=-------------	Atr
+13	procent	NNNP2-----A----	Obj
+14	na	RR--4----------	AuxP
+15	70	C=-------------	Obj
+16	procent	NNNP2-----A----	Atr
+17	a	J^-------------	Coord
+18	během	RR--2----------	AuxP
+19	příštích	AANP2----1A----	Atr
+20	šesti	Cn-P2----------	Atr
+21	let	NNNP2-----A----	Adv
+22	má	VB-S---3P-AA---	Pred
+23	investovat	Vf--------A----	Obj
+24	asi	TT-------------	AuxZ
+25	devět	Cn-S4----------	Obj
+26	miliard	NNFP2-----A----	Atr
+27	marek	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf920925-008-p2s6
+1	Výrobní	AAFS1----1A----	Atr
+2	kapacita	NNFS1-----A----	Sb
+3	závodu	NNIS2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxR
+6	pak	Db-------------	Adv
+7	měla	VpQW---XR-AA---	Pred
+8	zvýšit	Vf--------A----	Obj
+9	na	RR--4----------	AuxP
+10	400000	C=-------------	Obj
+11	vozidel	NNNP2-----A----	Atr
+12	ročně	Dg-------1A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920925-008-p2s7
+1	List	NNIS1-----A----	Sb
+2	připomněl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	zatímco	J,-------------	AuxC
+6	loni	Db------------1	Adv
+7	zaznamenal	VpYS---XR-AA---	Adv
+8	mladoboleslavský	AAIS1----1A----	Atr
+9	podnik	NNIS1-----A----	Sb
+10	ztrátu	NNFS4-----A----	Obj
+11	853	C=-------------	Atr
+12	miliónů	NNIP2-----A----	Atr
+13	korun	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	letos	Db-------------	Adv
+16	poprvé	Cv-------------	Adv
+17	bude	VB-S---3F-AA---	AuxV
+18	mít	Vf--------A----	Obj
+19	zisk	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920925-008-p2s8
+1	Doma	Db-------------	Adv
+2	počítá	VB-S---3P-AA---	Pred
+3	s	RR--7----------	AuxP
+4	odbytem	NNIS7-----A----	Obj
+5	80000	C=-------------	Atr
+6	vozů	NNIP2-----A----	Atr
+7	a	J^-------------	Coord
+8	do	RR--2----------	AuxP
+9	Německa	NNNS2-----A----	Adv
+10	vyveze	VB-S---3P-AA---	Pred
+11	30000	C=-------------	Obj
+12	favoritů	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	formanů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+

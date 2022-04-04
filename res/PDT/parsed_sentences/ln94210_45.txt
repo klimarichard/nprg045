@@ -1,0 +1,139 @@
+ln94210-45-p1s1
+1	Povolen	VsYS---XX-AP---	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	další	AAIS1----1A----	Atr
+4	penzijní	AAIS1----1A----	Atr
+5	fond	NNIS1-----A----	Sb
+
+ln94210-45-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94210-45-p2s1B
+1	Česká	AAFS1----1A----	Atr
+2	pojišťovna	NNFS1-----A----	Sb
+3	jako	J,-------------	AuxY
+4	zakladatel	NNMS1-----A----	Atv
+5	Penzijního	AAIS2----1A----	Atr
+6	fondu	NNIS2-----A----	Atr
+7	České	AAFS2----1A----	Atr
+8	pojišťovny	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	a	AAXXX----1A---8	Atr
+11	.	Z:-------------	AuxG
+12	s	NNFXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	,	Z:-------------	AuxX
+15	převzala	VpQW---XR-AA---	Pred
+16	povolení	NNNS4-----A----	Obj
+17	ministerstva	NNNS2-----A----	Atr
+18	financí	NNFP2-----A----	Atr
+19	k	RR--3----------	AuxP
+20	založení	NNNS3-----A----	Atr
+21	a	J^-------------	Coord
+22	činnosti	NNFS3-----A----	Atr
+23	fondu	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94210-45-p2s2
+1	Nabízí	VB-S---3P-AA---	Pred
+2	čtyři	ClXP4----------	Atr
+3	druhy	NNIP4-----A----	Obj
+4	penzí	NNFP2-----A----	Atr
+5	se	RV--7----------	AuxP
+6	státním	AAIS7----1A----	Atr
+7	příspěvkem	NNIS7-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94210-45-p2s3
+1	Na	RR--4----------	AuxP
+2	starobní	AAFS4----1A----	ExD
+3	je	VB-S---3P-AA---	Pred
+4	nárok	NNIS1-----A----	Sb
+5	nejdříve	Dg-------3A----	Adv
+6	po	RR--6----------	AuxP
+7	pěti	Cn-P6----------	Atr
+8	letech	NNNP6-----A----	Adv
+9	placení	NNNS2-----A----	Atr
+10	příspěvku	NNIS2-----A----	Atr
+11	a	J^-------------	Coord
+12	za	RR--2----------	AuxP
+13	podmínky	NNFS2-----A----	Adv
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	účastník	NNMS1-----A----	Sb
+17	dosáhne	VB-S---3P-AA---	Atr
+18	věku	NNIS2-----A----	Obj
+19	nejméně	Dg-------3A----	AuxZ
+20	50	C=-------------	Atr
+21	let	NNNP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94210-45-p2s4
+1	Výsluhová	AAFS1----1A----	Atr
+2	penze	NNFS1-----A----	Sb
+3	s	RR--7----------	AuxP
+4	vyššími	AAFP7----2A----	Atr
+5	částkami	NNFP7-----A----	Atr
+6	výplat	NNFP2-----A----	Atr
+7	se	P7-X4----------	AuxR
+8	vyplácí	VB-S---3P-AA---	Pred
+9	po	RR--6----------	AuxP
+10	patnácti	Cn-P6----------	Atr
+11	letech	NNNP6-----A----	Adv
+12	řádně	Dg-------1A----	Adv
+13	placeného	AAIS2----1A----	Atr
+14	příspěvku	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94210-45-p2s5
+1	Dále	Db------------1	Adv
+2	fond	NNIS1-----A----	Sb
+3	nabízí	VB-S---3P-AA---	Pred
+4	invalidní	AAFP4----1A----	Atr
+5	penze	NNFP4-----A----	Obj
+6	po	RR--6----------	AuxP
+7	pěti	Cn-P6----------	Atr
+8	letech	NNNP6-----A----	AtrAdv
+9	připojištění	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94210-45-p2s6
+1	Pro	RR--4----------	AuxP
+2	klienty	NNMP4-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	připravena	VsQW---XX-AP---	Pnom
+5	i	J^-------------	AuxZ
+6	pozůstalostní	AAFS1----1A----	Atr
+7	penze	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94210-45-p2s7
+1	Na	RR--4----------	AuxP
+2	tu	PDFS4----------	Atr
+3	vznikne	VB-S---3P-AA---	Pred
+4	nárok	NNIS1-----A----	Sb
+5	po	RR--6----------	AuxP
+6	jednom	ClZS6----------	Atr
+7	roce	NNIS6-----A---1	Adv
+8	od	RR--2----------	AuxP
+9	uzavření	NNNS2-----A----	Atr
+10	smlouvy	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94210-45-p2s8
+1	Připojištění	NNNS4-----A----	Obj
+2	bude	VB-S---3F-AA---	Pred
+3	možno	ACNS------A----	Pnom
+4	sjednat	Vf--------A----	Sb
+5	ve	RV--6----------	AuxP
+6	všech	PLXP6----------	Atr
+7	občanských	AAFP6----1A----	Atr
+8	pobočkách	NNFP6-----A----	Adv
+9	České	AAFS2----1A----	Atr
+10	pojišťovny	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	průběhu	NNIS6-----A----	AuxP
+13	října	NNIS2-----A----	Adv
+14	.	Z:-------------	AuxK
+

@@ -1,0 +1,534 @@
+cmpr9415-017-p2s1
+1	štoček	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	CHTĚLI	VpMP---XR-AA---	Pred
+4	JSTE	VB-P---2P-AA---	AuxV
+5	VĚDĚT	Vf--------A----	Obj
+
+cmpr9415-017-p3s1
+1	O	RR--6----------	AuxP
+2	odpočtu	NNIS6-----A----	ExD
+3	DPH	NNFXX-----A---8	Atr
+
+cmpr9415-017-p4s1
+1	Podle	RR--2----------	AuxP
+2	novely	NNFS2-----A----	Adv
+3	zákona	NNIS2-----A----	Atr
+4	o	RR--6----------	AuxP
+5	dani	NNFS6-----A----	Atr
+6	z	RR--2----------	AuxP
+7	přidané	AAFS2----1A----	Atr
+8	hodnoty	NNFS2-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	letos	Db-------------	Adv
+11	stanu	VB-S---1P-AA---	Pred
+12	plátcem	NNMS7-----A----	Obj
+13	daně	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9415-017-p4s2
+1	Jak	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	to	PDNS1----------	Sb
+4	s	RR--7----------	AuxP
+5	daní	NNFS7-----A----	Adv
+6	u	RR--2----------	AuxP
+7	zboží	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4NS4----------	Obj
+10	mám	VB-S---1P-AA---	Atr
+11	v	RR--6----------	AuxP
+12	zásobě	NNFS6-----A----	Adv
+13	?	Z:-------------	AuxK
+
+cmpr9415-017-p5s1
+1	Jindřich	NNMS1-----A----	Atr
+2	Chramosta	NNMS1-----A----	ExD
+3	,	Z:-------------	ExD
+4	Jičín	NNIS1-----A----	ExD
+
+cmpr9415-017-p6s1
+1	Datum	NNNS4-----A----	Obj
+2	,	Z:-------------	AuxX
+3	od	RR--2----------	AuxP
+4	kdy	Db-------------	Adv
+5	jste	VB-P---2P-AA---	Atr
+6	plátcem	NNMS7-----A----	Pnom
+7	DPH	NNFXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	uvedl	VpYS---XR-AA---	Pred
+10	nebo	J^-------------	Coord
+11	uvede	VB-S---3P-AA---	Pred
+12	finanční	AAIS1----1A----	Atr
+13	úřad	NNIS1-----A----	Sb
+14	na	RR--6----------	AuxP
+15	osvědčení	NNNS6-----A----	Adv
+16	o	RR--6----------	AuxP
+17	registraci	NNFS6-----A----	Atr
+18	(	Z:-------------	AuxG
+19	kdy	Db-------------	Adv
+20	a	J^-------------	Coord
+21	jak	Db-------------	Adv
+22	se	P7-X4----------	Obj
+23	máte	VB-P---2P-AA---	Obj
+24	registrovat	Vf--------A----	Obj
+25	a	J^-------------	Coord
+26	jak	Db-------------	Adv
+27	se	P7-X4----------	AuxR
+28	určuje	VB-S---3P-AA---	Obj
+29	zdaňovací	AANS1----1A----	Atr
+30	období	NNNS1-----A----	Sb
+31	,	Z:-------------	AuxX
+32	zveřejnil	VpYS---XR-AA---	Pred
+33	Profit	NNIS1-----A----	Sb
+34	číslo	NNNS1-----A----	Atr
+35	14	C=-------------	Atr
+36	v	RR--6----------	AuxP
+37	článku	NNIS6-----A----	Adv
+38	O	RR--6----------	AuxP
+39	placení	NNNS6-----A----	Atr
+40	DPH	NNFXX-----A---8	Atr
+41	)	Z:-------------	AuxG
+42	.	Z:-------------	AuxK
+
+cmpr9415-017-p6s2
+1	Ve	RV--6----------	AuxP
+2	svém	P8ZS6----------	Atr
+3	prvním	CrNS6----------	Atr
+4	daňovém	AANS6----1A----	Atr
+5	přiznání	NNNS6-----A----	Adv
+6	můžete	VB-P---2P-AA---	Pred
+7	uplatnit	Vf--------A----	Obj
+8	odpočet	NNIS4-----A----	Obj
+9	dříve	Dg-------2A----	Adv
+10	zaplacené	AAFS2----1A----	Atr
+11	daně	NNFS2-----A----	Atr
+12	váznoucí	AGFS2-----A----	Atr
+13	na	RR--6----------	AuxP
+14	zboží	NNNS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	které	P4NS4----------	Obj
+17	máte	VB-P---2P-AA---	Atr
+18	na	RR--6----------	AuxP
+19	skladu	NNIS6-----A---1	Adv
+20	ke	RV--3----------	AuxP
+21	zmíněnému	AANS3----1A----	Atr
+22	datu	NNNS3-----A----	Adv
+23	(	Z:-------------	ExD
+24	§	NNIXX-----A---1	ExD
+25	5	C=-------------	Atr
+26	odstavec	NNIS1-----A----	ExD
+27	7	C=-------------	Atr
+28	zákona	NNIS2-----A----	Atr
+29	číslo	NNNS1-----A----	Atr
+30	588	C=-------------	Atr
+31	/	Z:-------------	Coord
+32	1992	C=-------------	Atr
+33	Sb	NNFXX-----A---8	Atr
+34	.	Z:-------------	AuxG
+35	,	Z:-------------	Coord
+36	ve	RV--6----------	AuxP
+37	znění	NNNS6-----A----	ExD
+38	pozdějších	AAIP2----2A----	Atr
+39	předpisů	NNIP2-----A----	Atr
+40	)	Z:-------------	ExD
+41	.	Z:-------------	AuxK
+
+cmpr9415-017-p6s3
+1	Pro	RR--4----------	AuxP
+2	uplatnění	NNNS4-----A----	Adv
+3	odpočtu	NNIS2-----A----	Atr
+4	platí	VB-P---3P-AA---	Pred
+5	následující	AGFP1-----A----	Atr
+6	podmínky	NNFP1-----A----	Sb
+7	:	Z:-------------	AuxK
+
+cmpr9415-017-p7s1
+1	1	C=-------------	ExD
+2	.	Z:-------------	ExD
+3	Inventura	NNFS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+cmpr9415-017-p7s2
+1	Před	RR--7----------	AuxP
+2	datem	NNNS7-----A----	Adv
+3	,	Z:-------------	AuxX
+4	od	RR--2----------	AuxP
+5	něhož	P9ZS2----------	Adv
+6	se	P7-X4----------	AuxT
+7	stanete	VB-P---2P-AA---	Atr
+8	plátcem	NNMS7-----A----	Obj
+9	DPH	NNFXX-----A---8	Atr
+10	,	Z:-------------	AuxX
+11	musíte	VB-P---2P-AA---	Pred
+12	uskutečnit	Vf--------A----	Obj
+13	inventuru	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9415-017-p7s3
+1	Ze	RV--2----------	AuxP
+2	zásob	NNFP2-----A----	Adv
+3	takto	Db-------------	Adv
+4	ověřených	AAFP2----1A----	Atr
+5	vyčleníte	VB-P---2P-AA---	Pred
+6	:	Z:-------------	AuxK
+
+cmpr9415-017-p8s1
+1	a	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	Zboží	NNNS4-----A----	ExD
+4	nakoupené	AANS4----1A----	Atr
+5	dříve	Dg-------2A----	Adv
+6	než	J,-------------	AuxC
+7	před	RR--7----------	AuxP
+8	rokem	NNIS7-----A----	Adv
+9	,	Z:-------------	AuxK
+
+cmpr9415-017-p9s1
+1	b	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	zboží	NNNS4-----A----	ExD
+4	nakoupené	AANS4----1A----	Atr
+5	od	RR--2----------	AuxP
+6	neplátců	NNMP2-----A----	Adv
+7	DPH	NNFXX-----A---8	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9415-017-p10s2
+1	2	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Úplné	AAIP1----1A----	Atr
+4	doklady	NNIP1-----A----	ExD
+5	.	Z:-------------	AuxK
+
+cmpr9415-017-p10s3
+1	U	RR--2----------	AuxP
+2	zbývajících	AGFP2-----A----	Atr
+3	položek	NNFP2-----A----	Adv
+4	pak	Db-------------	Adv
+5	sečtete	VB-P---2P-AA---	Pred
+6	zaplacenou	AAFS4----1A----	Atr
+7	daň	NNFS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+cmpr9415-017-p10s4
+1	Daňové	AAIP1----1A----	Atr
+2	doklady	NNIP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	ze	RV--2----------	AuxP
+5	kterých	P4XP2----------	Adv
+6	budete	VB-P---2F-AA---	AuxV
+7	daň	NNFS4-----A----	Obj
+8	zjišťovat	Vf--------A----	Atr
+9	,	Z:-------------	AuxX
+10	musí	VB-P---3P-AA--1	Pred
+11	obsahovat	Vf--------A----	Obj
+12	(	Z:-------------	ExD
+13	§	NNIXX-----A---1	ExD
+14	12	C=-------------	Atr
+15	citovaného	AAIS2----1A----	Atr
+16	zákona	NNIS2-----A----	Atr
+17	)	Z:-------------	ExD
+18	:	Z:-------------	AuxK
+
+cmpr9415-017-p11s1
+1	-	Z:-------------	AuxG
+2	Údaje	NNIP4-----A----	ExD
+3	o	RR--6----------	AuxP
+4	dodavateli	NNMS6-----A----	Atr
+5	-	Z:-------------	Apos
+6	jeho	PSXXXZS3-------	Atr
+7	obchodní	AANS4----1A----	Atr
+8	jméno	NNNS4-----A----	ExD
+9	,	Z:-------------	AuxX
+10	sídlo	NNNS4-----A----	ExD
+11	a	J^-------------	Coord
+12	místo	NNNS4-----A----	ExD
+13	podnikání	NNNS2-----A----	Atr
+14	,	Z:-------------	Coord
+15	daňové	AANS4----1A----	Atr
+16	identifikační	AANS4----1A----	Atr
+17	číslo	NNNS4-----A----	ExD
+18	,	Z:-------------	AuxK
+
+cmpr9415-017-p12s1
+1	-	Z:-------------	AuxG
+2	stejné	AAIP4----1A----	Atr
+3	údaje	NNIP4-----A----	ExD
+4	o	RR--6----------	AuxP
+5	vaší	PSFS6-P2-------	Atr
+6	firmě	NNFS6-----A----	Atr
+7	,	Z:-------------	AuxK
+
+cmpr9415-017-p13s1
+1	-	Z:-------------	AuxG
+2	pořadové	AANS4----1A----	Atr
+3	číslo	NNNS4-----A----	ExD
+4	dokladu	NNIS2-----A----	Atr
+5	,	Z:-------------	AuxK
+
+cmpr9415-017-p14s1
+1	-	Z:-------------	AuxG
+2	název	NNIS4-----A----	ExD
+3	a	J^-------------	Coord
+4	množství	NNNS4-----A----	ExD
+5	zboží	NNNS2-----A----	Atr
+6	,	Z:-------------	AuxK
+
+cmpr9415-017-p15s1
+1	-	Z:-------------	AuxG
+2	datum	NNNS4-----A----	ExD
+3	vystavení	NNNS2-----A----	Atr
+4	dokladu	NNIS2-----A----	Atr
+5	,	Z:-------------	AuxK
+
+cmpr9415-017-p16s1
+1	-	Z:-------------	AuxG
+2	datum	NNNS4-----A----	ExD
+3	platby	NNFS2-----A----	Atr
+4	,	Z:-------------	AuxK
+
+cmpr9415-017-p17s1
+1	-	Z:-------------	AuxG
+2	cenu	NNFS4-----A----	ExD
+3	bez	RR--2----------	AuxP
+4	daně	NNFS2-----A----	Atr
+5	celkem	Db-------------	ExD
+6	,	Z:-------------	AuxK
+
+cmpr9415-017-p18s1
+1	-	Z:-------------	AuxG
+2	sazbu	NNFS4-----A----	ExD
+3	daně	NNFS2-----A----	Atr
+4	,	Z:-------------	AuxK
+
+cmpr9415-017-p19s1
+1	-	Z:-------------	AuxG
+2	výši	NNFS4-----A----	ExD
+3	daně	NNFS2-----A----	Atr
+4	celkem	Db-------------	ExD
+5	.	Z:-------------	AuxK
+
+cmpr9415-017-p20s1
+1	Doklady	NNIP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	na	RR--6----------	AuxP
+4	nichž	P9XP6----------	Adv
+5	některé	PZIP1----------	Atr
+6	údaje	NNIP1-----A----	Sb
+7	chybí	VB-P---3P-AA--1	Atr
+8	,	Z:-------------	AuxX
+9	a	J^-------------	Coord
+10	není	VB-S---3P-NA---	Atr
+11	možné	AANS1----1A----	Pnom
+12	je	PPXP4--3-------	Obj
+13	dodatečně	Dg-------1A----	Adv
+14	doplnit	Vf--------A----	Sb
+15	,	Z:-------------	AuxX
+16	nemusí	VB-P---3P-NA--1	Pred
+17	být	Vf--------A----	AuxV
+18	finančním	AAIS7----1A----	Atr
+19	úřadem	NNIS7-----A----	Obj
+20	uznány	VsTP---XX-AP---	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9415-017-p21s1
+1	U	RR--2----------	AuxP
+2	zjednodušených	AAIP2----1A----	Atr
+3	daňových	AAIP2----1A----	Atr
+4	dokladů	NNIP2-----A----	Adv
+5	(	Z:-------------	Apos
+6	účtenka	NNFS1-----A----	Adv
+7	za	RR--4----------	AuxP
+8	hotové	AAIP4----1A----	Atr
+9	)	Z:-------------	AuxG
+10	si	P7-X3----------	Adv
+11	výši	NNFS4-----A----	Obj
+12	zaplacené	AAFS2----1A----	Atr
+13	daně	NNFS2-----A----	Atr
+14	můžete	VB-P---2P-AA---	Pred
+15	vypočítat	Vf--------A----	Obj
+16	sám	PLYS1----------	AtvV
+17	.	Z:-------------	AuxK
+
+cmpr9415-017-p22s2
+1	3	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Odpočet	NNIS4-----A----	Obj
+4	uplatníte	VB-P---2P-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	svém	P8ZS6----------	Atr
+7	prvním	CrNS6----------	Atr
+8	přiznání	NNNS6-----A----	Adv
+9	DPH	NNFXX-----A---8	Atr
+10	(	Z:-------------	ExD
+11	§	NNIXX-----A---1	ExD
+12	19	C=-------------	Atr
+13	citovaného	AAIS2----1A----	Atr
+14	zákona	NNIS2-----A----	Atr
+15	)	Z:-------------	ExD
+16	.	Z:-------------	AuxK
+
+cmpr9415-017-p23s1
+1	Součet	NNIS4-----A----	Obj
+2	dříve	Dg-------2A----	Adv
+3	zaplacených	AAFP2----1A----	Atr
+4	daní	NNFP2-----A----	Atr
+5	váznoucích	AGFP2-----A----	Atr
+6	na	RR--6----------	AuxP
+7	zboží	NNNS6-----A----	Adv
+8	(	Z:-------------	AuxG
+9	koupeném	AANS6----1A----	Atr
+10	ne	TT-------------	AuxZ
+11	déle	Dg-------2A----	Adv
+12	jak	Db-------------	AuxC
+13	před	RR--7----------	AuxP
+14	rokem	NNIS7-----A----	ExD
+15	od	RR--2----------	AuxP
+16	plátců	NNMP2-----A----	Adv
+17	DPH	NNFXX-----A---8	Atr
+18	)	Z:-------------	AuxG
+19	uvedete	VB-P---2P-AA---	Pred
+20	jednou	ClFS7----------	Atr
+21	částkou	NNFS7-----A----	Adv
+22	.	Z:-------------	AuxK
+
+cmpr9415-017-p23s2
+1	Příslušnou	AAFS4----1A----	Atr
+2	rubriku	NNFS4-----A----	Obj
+3	najdete	VB-P---2P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	2	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	straně	NNFS6-----A----	Adv
+8	tiskopisu	NNIS2-----A----	Atr
+9	přiznání	NNNS2-----A----	Atr
+10	označenou	AAFS4----1A----	Atv
+11	jako	J,-------------	AuxY
+12	položka	NNFS1-----A----	Obj
+13	2	C=-------------	Atr
+14	-	Z:-------------	Apos
+15	Odpočet	NNIS1-----A----	Obj
+16	při	RR--6----------	AuxP
+17	změně	NNFS6-----A----	Atr
+18	režimu	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9415-017-p24s1
+1	Finanční	AAIS1----1A----	Atr
+2	úřad	NNIS1-----A----	Sb
+3	vám	PP-P3--2-------	Obj
+4	částku	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	kterou	P4FS4----------	Obj
+7	uplatňujete	VB-P---2P-AA---	Atr
+8	jako	J,-------------	AuxC
+9	odpočet	NNIS4-----A----	Adv
+10	daně	NNFS2-----A----	Atr
+11	poukáže	VB-S---3P-AA---	Pred
+12	do	RR--2----------	AuxP
+13	30	C=-------------	Atr
+14	dnů	NNIP2-----A----	Adv
+15	na	RR--4----------	AuxP
+16	váš	PSIS4-P2-------	Atr
+17	účet	NNIS4-----A----	Adv
+18	u	RR--2----------	AuxP
+19	peněžního	AAIS2----1A----	Atr
+20	ústavu	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9415-017-p25s2
+1	4	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Doklady	NNIP1-----A----	Sb
+4	k	RR--3----------	AuxP
+5	odpočtu	NNIS3-----A----	Atr
+6	se	P7-X4----------	AuxR
+7	k	RR--3----------	AuxP
+8	přiznání	NNNS3-----A----	Adv
+9	nepřikládají	VB-P---3P-NA---	Pred
+10	.	Z:-------------	AuxK
+
+cmpr9415-017-p25s3
+1	Musíte	VB-P---2P-AA---	Pred
+2	je	PPXP4--3-------	Obj
+3	však	J^-------------	Coord
+4	uchovávat	Vf--------A----	Obj
+5	pro	RR--4----------	AuxP
+6	případ	NNIS4-----A----	Adv
+7	kontroly	NNFS2-----A----	Atr
+8	po	RR--4----------	AuxP
+9	dobu	NNFS4-----A----	Adv
+10	10	C=-------------	Atr
+11	let	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9415-017-p26s1
+1	*	Z:-------------	ExD
+2	*	Z:-------------	ExD
+3	*	Z:-------------	ExD
+
+cmpr9415-017-p27s1
+1	Upozornění	NNNS1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	závěr	NNIS4-----A----	Atr
+4	.	Z:-------------	AuxK
+
+cmpr9415-017-p27s2
+1	Celá	AAFS1----1A----	Atr
+2	částka	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	kterou	P4FS4----------	Obj
+5	vám	PP-P3--2-------	Obj
+6	finanční	AAIS1----1A----	Atr
+7	úřad	NNIS1-----A----	Sb
+8	z	RR--2----------	AuxP
+9	titulu	NNIS2-----A----	AuxP
+10	odpočtu	NNIS2-----A----	Adv
+11	daně	NNFS2-----A----	Atr
+12	vrátí	VB-S---3P-AA---	Atr
+13	,	Z:-------------	AuxX
+14	je	VB-S---3P-AA---	Pred
+15	zdanitelným	AAIS7----1A----	Atr
+16	příjmem	NNIS7-----A----	Pnom
+17	(	Z:-------------	ExD
+18	zákon	NNIS1-----A----	ExD
+19	o	RR--6----------	AuxP
+20	dani	NNFS6-----A----	Atr
+21	z	RR--2----------	AuxP
+22	příjmu	NNIS2-----A----	Atr
+23	číslo	NNNS1-----A----	Atr
+24	586	C=-------------	Atr
+25	/	Z:-------------	Coord
+26	1992	C=-------------	Atr
+27	Sb	NNFXX-----A---8	Atr
+28	.	Z:-------------	AuxG
+29	,	Z:-------------	Coord
+30	ve	RV--6----------	AuxP
+31	znění	NNNS6-----A----	ExD
+32	pozdějších	AAIP2----2A----	Atr
+33	předpisů	NNIP2-----A----	Atr
+34	)	Z:-------------	ExD
+35	.	Z:-------------	AuxK
+
+cmpr9415-017-p27s3
+1	Ke	RV--3----------	AuxP
+2	zdanění	NNNS3-----A----	Adv
+3	ji	PPFS4--3-------	Obj
+4	přiznáte	VB-P---2P-AA---	Pred
+5	formou	NNFS7-----A----	Adv
+6	dodatečného	AANS2----1A----	Atr
+7	daňového	AANS2----1A----	Atr
+8	přiznání	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9415-017-p28s1
+1	Oldřich	NNMS1-----A----	Atr
+2	Krejčí	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	finanční	AAIS1----1A----	Atr
+5	úřad	NNIS1-----A----	ExD
+6	Praha	NNFS1-----A----	Atr
+7	-	Z:-------------	AuxG
+8	západ	NNIS1-----A----	Atr
+

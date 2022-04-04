@@ -1,0 +1,114 @@
+lnd94101-024-p1s1
+1	ČSA	NNFPX-----A---8	ExD
+2	:	Z:-------------	Coord
+3	větší	AAFP4----2A----	Atr
+4	kompetence	NNFP4-----A----	ExD
+5	pro	RR--4----------	AuxP
+6	valnou	AAFS4----1A----	Atr
+7	hromadu	NNFS4-----A----	ExD
+
+lnd94101-024-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mrk	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94101-024-p1s3
+1	Větší	AAFP4----2A----	Atr
+2	kompetence	NNFP4-----A----	Obj
+3	si	P7-X3----------	Adv
+4	odhlasovala	VpQW---XR-AA---	Pred
+5	včerejší	AAFS1----1A----	Atr
+6	valná	AAFS1----1A----	Atr
+7	hromada	NNFS1-----A----	Sb
+8	Československých	AAFP2----1A----	Atr
+9	aerolinií	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	která	P4FS1----------	Sb
+12	proběhla	VpQW---XR-AA--1	Atr
+13	poprvé	Cv-------------	Adv
+14	za	RR--2----------	AuxP
+15	účasti	NNFS2-----A----	Adv
+16	nového	AAMS2----1A----	Atr
+17	akcionáře	NNMS2-----A----	Atr
+18	-	Z:-------------	Apos
+19	Konsolidační	AAFS2----1A----	Atr
+20	banky	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94101-024-p1s4
+1	Otázka	NNFS1-----A----	Sb
+2	kompetencí	NNFP2-----A----	Atr
+3	valné	AAFS2----1A----	Atr
+4	hromady	NNFS2-----A----	Atr
+5	byla	VpQW---XR-AA---	Pred
+6	donedávna	Db-------------	Adv
+7	jedním	ClZS7----------	Pnom
+8	ze	RV--2----------	AuxP
+9	sporných	AAIP2----1A----	Atr
+10	bodů	NNIP2-----A----	Atr
+11	mezi	RR--7----------	AuxP
+12	českým	AAMS7----1A----	Atr
+13	akcionářem	NNMS7-----A----	Adv
+14	a	J^-------------	Coord
+15	Air	NNISX-----A----	Adv
+16	France	AAXXX----1A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd94101-024-p1s5
+1	Podle	RR--2----------	AuxP
+2	sdělení	NNNS2-----A----	Adv
+3	ředitele	NNMS2-----A----	Atr
+4	odboru	NNIS2-----A----	Atr
+5	vnějších	AAIP2----1A----	Atr
+6	vztahů	NNIP2-----A----	Atr
+7	ČSA	NNFPX-----A---8	Atr
+8	Miloše	NNMS2-----A----	Atr
+9	Adámka	NNMS2-----A----	Atr
+10	širší	AAFP1----2A----	Atr
+11	pravomoci	NNFP1-----A----	Sb
+12	valné	AAFS2----1A----	Atr
+13	hromady	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	zakotvené	AAFP1----1A----	Atr
+16	v	RR--6----------	AuxP
+17	nových	AAFP6----1A----	Atr
+18	stanovách	NNFP6-----A----	Adv
+19	společnosti	NNFS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	umožní	VB-P---3P-AA---	Pred
+22	akcionářům	NNMP3-----A----	Obj
+23	mj	Db------------8	Adv
+24	.	Z:-------------	AuxG
+25	zadání	NNNS4-----A----	Obj
+26	,	Z:-------------	AuxX
+27	schválení	NNNS4-----A----	Obj
+28	a	J^-------------	Coord
+29	kontrolu	NNFS4-----A----	Obj
+30	restrukturalizačního	AAIS2----1A----	Atr
+31	projektu	NNIS2-----A----	Atr
+32	ČSA	NNFPX-----A---8	Atr
+33	,	Z:-------------	AuxX
+34	který	P4IS4----------	Obj
+35	zpracuje	VB-S---3P-AA---	Atr
+36	představenstvo	NNNS1-----A----	Sb
+37	spolu	Db-------------	Adv
+38	s	RR--7----------	AuxP
+39	vedením	NNNS7-----A----	Adv
+40	podniku	NNIS2-----A----	Atr
+41	.	Z:-------------	AuxK
+
+lnd94101-024-p1s6
+1	Projekt	NNIS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	předložen	VsYS---XX-AP---	Pred
+4	na	RR--6----------	AuxP
+5	příští	AAFS6----1A----	Atr
+6	valné	AAFS6----1A----	Atr
+7	hromadě	NNFS6-----A----	Adv
+8	10	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	června	NNIS2-----A----	Adv
+11	.	Z:-------------	AuxK
+

@@ -1,0 +1,214 @@
+ln94200-99-p1s1
+1	Zákaz	NNIS1-----A----	Sb
+2	vstupu	NNIS2-----A----	Atr
+3	do	RR--2----------	AuxP
+4	některých	PZXP2----------	Atr
+5	severočeských	AAIP2----1A----	Atr
+6	lesů	NNIP2-----A----	Atr
+7	zrušen	VsYS---XX-AP---	ExD
+
+ln94200-99-p2s1A
+1	Česká	AAFS1----1A----	Atr
+2	Lípa	NNFS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	Liberec	NNIS1-----A----	ExD
+5	(	Z:-------------	ExD
+6	mag	NNXXX-----A---8	ExD
+7	)	Z:-------------	ExD
+8	-	Z:-------------	AuxK
+
+ln94200-99-p2s1B
+1	Zákaz	NNIS1-----A----	Sb
+2	vstupů	NNIP2-----A----	Atr
+3	do	RR--2----------	AuxP
+4	lesů	NNIP2-----A----	Atr
+5	na	RR--6----------	AuxP
+6	Liberecku	NNNS6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	platil	VpYS---XR-AA---	Atr
+10	celý	AAIS4----1A----	Atr
+11	měsíc	NNIS4-----A----	Adv
+12	,	Z:-------------	AuxX
+13	byl	VpYS---XR-AA---	AuxV
+14	v	RR--6----------	AuxP
+15	těchto	PDXP6----------	Atr
+16	dnech	NNIP6-----A----	Adv
+17	zrušen	VsYS---XX-AP---	Pred
+18	.	Z:-------------	AuxK
+
+ln94200-99-p2s2
+1	Znovu	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	může	VB-S---3P-AA---	Pred
+4	do	RR--2----------	AuxP
+5	lesa	NNIS2-----A----	Adv
+6	i	J^-------------	AuxZ
+7	na	RR--6----------	AuxP
+8	Českolipsku	NNNS6-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	původně	Dg-------1A----	Adv
+12	vyhlásil	VpYS---XR-AA---	Atr
+13	Okresní	AAIS1----1A----	Atr
+14	úřad	NNIS1-----A----	Sb
+15	zákaz	NNIS4-----A----	Obj
+16	vstupu	NNIS2-----A----	Atr
+17	do	RR--2----------	AuxP
+18	lesa	NNIS2-----A----	Atr
+19	na	RR--4----------	AuxP
+20	celý	AAIS4----1A----	Atr
+21	srpen	NNIS4-----A----	Adv
+22	,	Z:-------------	AuxX
+23	ale	J^-------------	Coord
+24	minulý	AAIS4----1A----	Atr
+25	týden	NNIS4-----A----	Adv
+26	nařízení	NNNS4-----A----	Obj
+27	odvolal	VpYS---XR-AA---	Atr
+28	.	Z:-------------	AuxK
+
+ln94200-99-p2s3
+1	Zdá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	akutní	AANS1----1A----	Atr
+6	nebezpečí	NNNS1-----A----	Sb
+7	lesních	AAIP2----1A----	Atr
+8	požárů	NNIP2-----A----	Atr
+9	je	VB-S---3P-AA---	Sb
+10	zažehnáno	VsNS---XX-AP---	Pnom
+11	.	Z:-------------	AuxK
+
+ln94200-99-p2s4
+1	Léto	NNNS1-----A----	Sb
+2	ještě	Db-------------	Adv
+3	není	VB-S---3P-NA---	Pred
+4	u	RR--2----------	AuxP
+5	konce	NNIS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	i	J^-------------	AuxZ
+9	tak	Db-------------	Adv
+10	se	P7-X4----------	AuxR
+11	letošní	AAIS1----1A----	Atr
+12	rok	NNIS1-----A----	Sb
+13	zapíše	VB-S---3P-AA---	Pred
+14	k	RR--3----------	AuxP
+15	rekordním	AAIP3----1A----	ExD
+16	.	Z:-------------	AuxK
+
+ln94200-99-p3s1
+1	Jak	Db-------------	Adv
+2	nás	PP-P4--1-------	Obj
+3	informoval	VpYS---XR-AA---	Pred
+4	V	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Formánek	NNMS1-----A----	Sb
+7	,	Z:-------------	Apos
+8	zástupce	NNMS1-----A----	Sb
+9	náčelníka	NNMS2-----A----	Atr
+10	Správy	NNFS2-----A----	Atr
+11	sborů	NNIP2-----A----	Atr
+12	požární	AAFS2----1A----	Atr
+13	ochrany	NNFS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	České	AAFS6----1A----	Atr
+16	Lípě	NNFS6-----A----	AtrAtr
+17	,	Z:-------------	AuxX
+18	jen	TT-------------	AuxZ
+19	v	RR--6----------	AuxP
+20	tomto	PDZS6----------	Atr
+21	okrese	NNIS6-----A----	Adv
+22	vyjeli	VpMP---XR-AA---	Pred
+23	požárníci	NNMP1-----A----	Sb
+24	v	RR--6----------	AuxP
+25	době	NNFS6-----A----	Adv
+26	od	RR--2----------	AuxP
+27	1	C=-------------	Atr
+28	.	Z:-------------	AuxG
+29	července	NNIS2-----A----	Atr
+30	do	RR--2----------	AuxP
+31	15	C=-------------	Atr
+32	.	Z:-------------	AuxG
+33	srpna	NNIS2-----A----	Atr
+34	k	RR--3----------	AuxP
+35	91	C=-------------	Atr
+36	.	Z:-------------	AuxG
+37	požárům	NNIP3-----A----	Adv
+38	.	Z:-------------	AuxK
+
+ln94200-99-p3s2
+1	Zraněny	VsTP---XX-AP---	Pnom
+2	byly	VpTP---XR-AA---	Pred
+3	tři	ClXP1----------	Atr
+4	osoby	NNFP1-----A----	Sb
+5	,	Z:-------------	Apos
+6	jedna	ClFS1----------	ExD
+7	civilní	AAFS1----1A----	ExD
+8	a	J^-------------	Coord
+9	dva	ClYP1----------	Atr
+10	hasiči	NNMP1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94200-99-p3s3
+1	Lesních	AAIP2----1A----	Atr
+2	požárů	NNIP2-----A----	Atr
+3	bylo	VpNS---XR-AA---	Pred
+4	z	RR--2----------	AuxP
+5	tohoto	PDZS2----------	Atr
+6	počtu	NNIS2-----A----	Atr
+7	56	C=-------------	Sb
+8	.	Z:-------------	AuxK
+
+ln94200-99-p3s4
+1	Největší	AAIS1----3A----	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Adv
+4	byl	VpYS---XR-AA---	Pred
+5	první	CrIS4----------	Atr
+6	srpnový	AAIS4----1A----	Atr
+7	den	NNIS4-----A----	Adv
+8	u	RR--2----------	AuxP
+9	obce	NNFS2-----A----	Adv
+10	Dubá	NNFS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	kdy	Db-------------	Adv
+13	vinou	NNFS7-----A----	Adv
+14	zavřeného	AANS2----1A----	Atr
+15	ložiska	NNNS2-----A----	Atr
+16	kombajnu	NNIS2-----A----	Atr
+17	vznikl	VpYS---XR-AA--1	Atr
+18	požár	NNIS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	který	P4IS4----------	Obj
+21	osmnáct	Cn-S1----------	Sb
+22	požárních	AAIP2----1A----	Atr
+23	sborů	NNIP2-----A----	Atr
+24	likvidovalo	VpNS---XR-AA---	Atr
+25	čtyřiadvacet	Cn-S4----------	Adv
+26	hodin	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94200-99-p3s5
+1	Shořelo	VpNS---XR-AA---	Pred
+2	při	RR--6----------	AuxP
+3	něm	P5ZS6--3-------	Adv
+4	4.5	C=-------------	Sb
+5	ha	NNIXX-----A---8	Atr
+6	jarního	AAIS2----1A----	Atr
+7	ječmene	NNIS2-----A----	Atr
+8	a	J^-------------	Coord
+9	přes	RR--4----------	AuxP
+10	11	C=-------------	Sb
+11	ha	NNIXX-----A---8	Atr
+12	lesa	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94200-99-p3s6
+1	Škoda	NNFS1-----A----	Sb
+2	představovala	VpQW---XR-AA---	Pred
+3	900000	C=-------------	Obj
+4	korun	NNFP2-----A----	Atr
+5	.	Z:-------------	AuxK
+

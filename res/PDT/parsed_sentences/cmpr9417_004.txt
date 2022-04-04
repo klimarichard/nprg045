@@ -1,0 +1,233 @@
+cmpr9417-004-p3s1
+1	|	Z:-------------	ExD
+2	Rady	NNFP1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	telefon	NNIS4-----A----	Atr
+5	|	Z:-------------	ExD
+
+cmpr9417-004-p5s5
+1	Nejzajímavější	AAIP4----3A----	Atr
+2	dotazy	NNIP4-----A----	Obj
+3	najdete	VB-P---2P-AA---	Pred
+4	zodpovězené	AAIP4----1A----	Atr
+5	pravidelně	Dg-------1A----	Adv
+6	na	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	stránce	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9417-004-p6s1
+1	Pravomoci	NNFP1-----A----	ExD
+2	policie	NNFS2-----A----	Atr
+
+cmpr9417-004-p7s1
+1	Jako	J,-------------	AuxY
+2	podnikatel	NNMS1-----A----	AtvV
+3	jsem	VB-S---1P-AA---	AuxV
+4	byl	VpYS---XR-AA---	Pred
+5	předvolán	VsYS---XX-AP---	Pnom
+6	na	RR--4----------	AuxP
+7	policii	NNFS4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	abych	J,-S---1-------	AuxC
+10	poskytl	VpYS---XR-AA--1	Adv
+11	určité	AAFP4----1A----	Atr
+12	informace	NNFP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9417-004-p7s2
+1	Zajímalo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	mne	PP-S4--1-------	Obj
+4	,	Z:-------------	AuxX
+5	jestli	J,-------------	AuxC
+6	jsem	VB-S---1P-AA---	Sb
+7	povinen	ACYS------A----	Pnom
+8	tyto	PDFP4----------	Atr
+9	informace	NNFP4-----A----	Obj
+10	poskytovat	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9417-004-p8s1
+1	Dopis	NNIS1-----A----	ExD
+2	č	NNNXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	312	C=-------------	Atr
+
+cmpr9417-004-p9s1
+1	Policista	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	oprávněn	VsYS---XX-AP---	Pnom
+4	požadovat	Vf--------A----	Obj
+5	potřebná	AANP4----1A----	Atr
+6	vysvětlení	NNNP4-----A----	Obj
+7	od	RR--2----------	AuxP
+8	osoby	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	může	VB-S---3P-AA---	Atr
+12	přispět	Vf--------A----	Obj
+13	k	RR--3----------	AuxP
+14	objasnění	NNNS3-----A----	Obj
+15	skutečností	NNFP2-----A----	Atr
+16	důležitých	AAFP2----1A----	Atr
+17	pro	RR--4----------	AuxP
+18	odhalení	NNNS4-----A----	Adv
+19	trestného	AAIS2----1A----	Atr
+20	činu	NNIS2-----A----	Atr
+21	nebo	J^-------------	Coord
+22	přestupku	NNIS2-----A----	Atr
+23	a	J^-------------	Coord
+24	jejich	PSXXXXP3-------	Atr
+25	pachatele	NNMS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	jakož	J,-------------	AuxY
+28	i	J^-------------	Coord
+29	pro	RR--4----------	AuxP
+30	vypátrání	NNNS4-----A----	Adv
+31	hledaných	AAFP2----1A----	Atr
+32	nebo	J^-------------	Coord
+33	pohřešovaných	AAFP2----1A----	Atr
+34	osob	NNFP2-----A----	Atr
+35	a	J^-------------	Coord
+36	věcí	NNFP2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+cmpr9417-004-p9s2
+1	V	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	může	VB-S---3P-AA---	Pred
+5	policista	NNMS1-----A----	Sb
+6	osobu	NNFS4-----A----	Obj
+7	vyzvat	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	ve	RV--4----------	AuxP
+12	stanovenou	AAFS4----1A----	Atr
+13	dobu	NNFS4-----A----	Adv
+14	dostavila	VpQW---XR-AA---	Obj
+15	na	RR--4----------	AuxP
+16	určené	AANS4----1A----	Atr
+17	místo	NNNS4-----A----	Adv
+18	k	RR--3----------	AuxP
+19	sepsání	NNNS3-----A----	Adv
+20	protokolu	NNIS2-----A----	Atr
+21	o	RR--6----------	AuxP
+22	podávání	NNNS6-----A----	Atr
+23	vysvětlení	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9417-004-p9s3
+1	Při	RR--6----------	AuxP
+2	odhalování	NNNS6-----A----	Adv
+3	závažné	AAFS2----1A----	Atr
+4	trestné	AAFS2----1A----	Atr
+5	činnosti	NNFS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	tato	PDFS1----------	Atr
+8	osoba	NNFS1-----A----	Sb
+9	povinna	ACQW------A----	Pnom
+10	vyhovět	Vf--------A----	Obj
+11	ihned	Db-------------	Adv
+12	.	Z:-------------	AuxK
+
+cmpr9417-004-p10s1
+1	Vysvětlení	NNNS4-----A----	Obj
+2	může	VB-S---3P-AA---	Pred
+3	odepřít	Vf--------A----	Obj
+4	pouze	Db-------------	AuxZ
+5	ten	PDYS1----------	Sb
+6	,	Z:-------------	AuxX
+7	kdo	PKM-1----------	Sb
+8	by	Vc-------------	AuxV
+9	mohl	VpYS---XR-AA---	Atr
+10	způsobit	Vf--------A----	Obj
+11	sobě	P6-X3----------	Obj
+12	,	Z:-------------	AuxX
+13	svému	P8ZS3----------	Atr
+14	příbuznému	NNMS3-----A----	Obj
+15	v	RR--6----------	AuxP
+16	pokolení	NNNS6-----A----	Atr
+17	přímém	AANS6----1A----	Atr
+18	,	Z:-------------	AuxX
+19	sourozenci	NNMS3-----A----	Obj
+20	,	Z:-------------	AuxX
+21	osvojiteli	NNMS3-----A----	Obj
+22	,	Z:-------------	AuxX
+23	osvojenci	NNMS3-----A----	Obj
+24	,	Z:-------------	AuxX
+25	manželu	NNMS3-----A---1	Obj
+26	nebo	J^-------------	Coord
+27	druhu	NNMS3-----A---1	Obj
+28	nebo	J^-------------	Coord
+29	jiným	AAFP3----1A----	Atr
+30	osobám	NNFP3-----A----	Obj
+31	v	RR--6----------	AuxP
+32	poměru	NNIS6-----A----	Atr
+33	rodinném	AAIS6----1A----	Atr
+34	nebo	J^-------------	Coord
+35	obdobném	AAIS6----1A----	Atr
+36	nebezpečí	NNNS4-----A----	Obj
+37	trestního	AANS2----1A----	Atr
+38	stíhání	NNNS2-----A----	Atr
+39	nebo	J^-------------	Coord
+40	nebezpečí	NNNS4-----A----	Obj
+41	trestního	AANS2----1A----	Atr
+42	stíhání	NNNS2-----A----	Atr
+43	za	RR--4----------	AuxP
+44	přestupek	NNIS4-----A----	Atr
+45	.	Z:-------------	AuxK
+
+cmpr9417-004-p10s2
+1	Vysvětlení	NNNS1-----A----	Sb
+2	rovněž	Db-------------	Adv
+3	nesmí	VB-S---3P-NA---	Pred
+4	být	Vf--------A----	AuxV
+5	požadováno	VsNS---XX-AP---	Obj
+6	na	RR--6----------	AuxP
+7	tom	PDZS6----------	Obj
+8	,	Z:-------------	AuxX
+9	kdo	PKM-1----------	Sb
+10	má	VB-S---3P-AA---	Atr
+11	zákonem	NNIS7-----A----	Adv
+12	uloženou	AAFS4----1A----	Atr
+13	povinnost	NNFS4-----A----	Obj
+14	mlčenlivosti	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9417-004-p11s1
+1	JUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	PhDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Oldřich	NNMS1-----A----	Atr
+6	Choděra	NNMS1-----A----	ExD
+
+cmpr9417-004-p12s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Advokátní	AAFS1----1A----	Atr
+4	a	J^-------------	Coord
+5	komerčně	Dg-------1A----	Adv
+6	právní	AAFS1----1A----	Atr
+7	kancelář	NNFS1-----A----	ExD
+8	,	Z:-------------	AuxX
+9	Národní	AAFS1----1A----	Atr
+10	25	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	Praha	NNFS1-----A----	Atr
+13	1	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	tel	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	+	Z:-------------	Coord
+18	FAX	NNIS1-----A----	Atr
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	02	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	242	C=-------------	Atr
+24	27845	C=-------------	Atr
+

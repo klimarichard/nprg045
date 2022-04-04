@@ -1,0 +1,334 @@
+ln95040-125-p1s1
+1	Metro	NNNS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	zúžené	AANS4----1A----	Atr
+4	hrdlo	NNNS4-----A----	Obj
+
+ln95040-125-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-125-p2s1B
+1	Provoz	NNIS1-----A----	Sb
+2	jedné	ClFS2----------	Atr
+3	z	RR--2----------	AuxP
+4	nejfrekventovanějších	AAFP2----3A----	Atr
+5	stanic	NNFP2-----A----	Atr
+6	pražského	AANS2----1A----	Atr
+7	metra	NNNS2-----A----	Atr
+8	-	Z:-------------	Apos
+9	I	NNMXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	P	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	Pavlova	NNMS2-----A----	Atr
+14	-	Z:-------------	AuxG
+15	je	VB-S---3P-AA---	Pred
+16	od	RR--2----------	AuxP
+17	včerejška	NNIS2-----A----	Adv
+18	omezen	VsYS---XX-AP---	Pnom
+19	.	Z:-------------	AuxK
+
+ln95040-125-p2s2
+1	Téměř	Db-------------	AuxZ
+2	až	TT-------------	AuxZ
+3	do	RR--2----------	AuxP
+4	Vánoc	NNFP2-----A----	Adv
+5	se	P7-X4----------	AuxR
+6	tu	Db------------1	Adv
+7	budou	VB-P---3F-AA---	AuxV
+8	vyměňovat	Vf--------A----	Pred
+9	eskalátory	NNIP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95040-125-p3s1
+1	Namísto	RR--2----------	AuxP
+2	tří	ClXP2----------	Atr
+3	pohyblivých	AANP2----1A----	Atr
+4	schodišť	NNNP2-----A----	Adv
+5	mají	VB-P---3P-AA---	Pred
+6	být	Vf--------A----	Obj
+7	po	RR--4----------	AuxP
+8	celou	AAFS4----1A----	Atr
+9	dobu	NNFS4-----A----	Adv
+10	k	RR--3----------	AuxP
+11	dispozici	NNFS3-----A----	Adv
+12	vždycky	Db-------------	Adv
+13	jen	TT-------------	AuxZ
+14	dvě	ClHP1----------	Sb
+15	.	Z:-------------	AuxK
+
+ln95040-125-p3s2
+1	Na	RR--6----------	AuxP
+2	tak	Db-------------	Adv
+3	exponovaném	AANS6----1A----	Atr
+4	místě	NNNS6-----A----	Adv
+5	bude	VB-S---3F-AA---	Pred
+6	zúžení	NNNS1-----A----	Sb
+7	hrdla	NNNS2-----A----	Atr
+8	citelné	AANS1----1A----	Pnom
+9	.	Z:-------------	AuxK
+
+ln95040-125-p3s3
+1	Podle	RR--2----------	AuxP
+2	odborníků	NNMP2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	akce	NNFS1-----A----	Sb
+5	po	RR--6----------	AuxP
+6	letech	NNNP6-----A----	Adv
+7	provozu	NNIS2-----A----	Atr
+8	nevyhnutelná	AAFS1----1N----	Pnom
+9	,	Z:-------------	AuxX
+10	někteří	PZMP1----------	Atr
+11	Pražané	NNMP1-----A----	Sb
+12	ji	PPFS4--3-------	Obj
+13	však	J^-------------	Coord
+14	považují	VB-P---3P-AA---	Pred
+15	za	RR--4----------	AuxP
+16	zbytečně	Dg-------1A----	Adv
+17	dlouhou	AAFS4----1A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95040-125-p3s4
+1	Copak	TT-------------	AuxY
+2	je	VB-S---3P-AA---	Obj
+3	výměna	NNFS1-----A----	Sb
+4	eskalátorů	NNIP2-----A----	Atr
+5	opravdu	Db-------------	Adv
+6	tak	Db-------------	Adv
+7	složitá	AAFS1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	je	VB-S---3P-AA---	Adv
+11	na	RR--4----------	AuxP
+12	ni	P5FS4--3-------	Adv
+13	třeba	ACNS------A----	Pnom
+14	deseti	Cn-P2----------	Atr
+15	měsíců	NNIP2-----A----	Sb
+16	?	Z:-------------	AuxK
+17	ptají	VB-P---3P-AA---	Pred
+18	se	P7-X4----------	AuxT
+19	lidé	NNMP1-----A---1	Sb
+20	.	Z:-------------	AuxK
+
+ln95040-125-p3s6
+1	Ing	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Vaněk	NNMS1-----A----	Sb
+4	z	RR--2----------	AuxP
+5	DP	NNIXX-----A---8	Atr
+6	Metro	NNNS1-----A----	Atr
+7	tvrdí	VB-S---3P-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	je	VB-S---3P-AA---	Obj
+11	.	Z:-------------	AuxK
+
+ln95040-125-p3s7
+1	Nejde	VB-S---3P-NA---	Pred
+2	prý	TT-------------	AuxY
+3	jen	TT-------------	AuxZ
+4	o	RR--4----------	AuxP
+5	výměnu	NNFS4-----A----	Obj
+6	schodů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	také	Db-------------	AuxZ
+10	o	RR--4----------	AuxP
+11	nemalé	AAFP4----1N----	Atr
+12	stavební	AAFP4----1A----	Atr
+13	úpravy	NNFP4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln95040-125-p3s8
+1	Namísto	RR--2----------	AuxP
+2	dosavadních	AANP2----1A----	Atr
+3	tří	ClXP2----------	Atr
+4	ramen	NNNP2-----A----	Adv
+5	eskalátoru	NNIS2-----A----	Atr
+6	tu	Db------------1	Adv
+7	totiž	Db-------------	AuxY
+8	budou	VB-P---3F-AA---	Pred
+9	čtyři	ClXP1----------	Sb
+10	.	Z:-------------	AuxK
+
+ln95040-125-p3s9
+1	Ani	J^-------------	AuxZ
+2	dopravní	AAMS1----1A----	Atr
+3	ředitel	NNMS1-----A----	Atr
+4	DP	NNIXX-----A---8	Atr
+5	Petr	NNMS1-----A----	Atr
+6	Blažek	NNMS1-----A----	Sb
+7	si	P7-X3----------	AuxT
+8	nemyslí	VB-S---3P-NA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	je	VB-S---3P-AA---	Obj
+12	doba	NNFS1-----A----	Sb
+13	nepřiměřeně	Dg-------1N----	Adv
+14	dlouhá	AAFS1----1A----	Pnom
+15	:	Z:-------------	Coord
+16	"	Z:-------------	AuxG
+17	Jsme	VB-P---1P-AA---	ExD
+18	rádi	ACMP------A----	Pnom
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	to	PDNS1----------	Sb
+22	bude	VB-S---3F-AA---	AuxV
+23	probíhat	Vf--------A----	Obj
+24	za	RR--2----------	AuxP
+25	provozu	NNIS2-----A----	Adv
+26	.	Z:-------------	AuxK
+
+ln95040-125-p3s10
+1	Původně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	totiž	Db-------------	AuxY
+4	ozývaly	VpTP---XR-AA---	Pred
+5	hlasy	NNIP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	bez	RR--2----------	AuxP
+9	uzavření	NNNS2-----A----	Obj
+10	stanice	NNFS2-----A----	Atr
+11	se	P7-X4----------	AuxT
+12	celá	AAFS1----1A----	Atr
+13	věc	NNFS1-----A----	Sb
+14	obejde	VB-S---3P-AA---	Obj
+15	jen	TT-------------	AuxZ
+16	velmi	Db-------------	Adv
+17	těžko	Db-------------	Adv
+18	.	Z:-------------	AuxK
+19	"	Z:-------------	AuxG
+
+ln95040-125-p3s11
+1	Podle	RR--2----------	AuxP
+2	P	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Blažka	NNMS2-----A----	Adv
+5	proběhl	VpYS---XR-AA--1	Pred
+6	první	CrIS1----------	Atr
+7	den	NNIS1-----A----	Sb
+8	klidně	Dg-------1A----	Adv
+9	.	Z:-------------	AuxK
+
+ln95040-125-p3s12
+1	"	Z:-------------	AuxG
+2	Díky	RR--3----------	AuxP
+3	naší	PSFS3-P1-------	Atr
+4	informační	AAFS3----1A----	Atr
+5	kampani	NNFS3-----A----	Adv
+6	se	P7-X4----------	AuxT
+7	část	NNFS1-----A----	Sb
+8	cestujících	AGMP2-----A----	Atr
+9	stanici	NNFS3-----A----	Obj
+10	vyhnula	VpQW---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	takže	J,-------------	AuxC
+13	provoz	NNIS1-----A----	Sb
+14	byl	VpYS---XR-AA---	Adv
+15	menší	AAIS1----2A----	Pnom
+16	než	J,-------------	AuxC
+17	obvykle	Dg-------1A----	ExD
+18	.	Z:-------------	AuxK
+
+ln95040-125-p3s13
+1	Byli	VpMP---XR-AA---	Pred
+2	bychom	Vc-P---1-------	AuxV
+3	rádi	ACMP------A----	Pnom
+4	,	Z:-------------	AuxX
+5	kdyby	J,-------------	AuxC
+6	občané	NNMP1-----A----	Sb
+7	nadále	Db-------------	Adv
+8	hledali	VpMP---XR-AA---	Obj
+9	i	J^-------------	AuxZ
+10	jiné	AAFP4----1A----	Atr
+11	cesty	NNFP4-----A----	Obj
+12	pro	RR--4----------	AuxP
+13	své	P8YP4---------1	Atr
+14	přestupy	NNIP4-----A----	Atr
+15	.	Z:-------------	AuxK
+16	"	Z:-------------	AuxG
+
+ln95040-125-p3s14
+1	Ve	RV--6----------	AuxP
+2	stanici	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	teď	Db-------------	Adv
+5	k	RR--3----------	AuxP
+6	dispozici	NNFS3-----A----	Adv
+7	ještě	Db-------------	AuxZ
+8	jedno	ClNS1----------	Atr
+9	nouzové	AANS1----1A----	Atr
+10	schodiště	NNNS1-----A----	Sb
+11	pro	RR--4----------	AuxP
+12	pěší	AAMP4----1A----	Atr
+13	,	Z:-------------	AuxX
+14	které	P4NS1----------	Sb
+15	vede	VB-S---3P-AA---	Atr
+16	přímo	Dg-------1A----	AuxZ
+17	z	RR--2----------	AuxP
+18	nástupiště	NNNS2-----A----	Adv
+19	do	RR--2----------	AuxP
+20	Rumunské	AAFS2----1A----	Atr
+21	ulice	NNFS2-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95040-125-p3s15
+1	Dopravní	AAMS1----1A----	Atr
+2	ředitel	NNMS1-----A----	Sb
+3	si	P7-X3----------	AuxT
+4	myslí	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	by	Vc-------------	AuxV
+8	to	PDNS1----------	Sb
+9	mělo	VpNS---XR-AA---	Obj
+10	pomoci	Vf--------A---1	Obj
+11	.	Z:-------------	AuxK
+
+ln95040-125-p3s16
+1	"	Z:-------------	AuxG
+2	Kdyby	J,-------------	AuxC
+3	stanice	NNFS1-----A----	Sb
+4	začala	VpQW---XR-AA---	Adv
+5	praskat	Vf--------A----	Obj
+6	ve	RV--6----------	AuxP
+7	švech	NNIP6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	máme	VB-P---1P-AA---	Obj
+10	připravena	VsQW---XX-AP---	Atv
+11	další	AANP4----1A----	Atr
+12	řešení	NNNP4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	"	Z:-------------	AuxG
+15	říká	VB-S---3P-AA---	Pred
+16	.	Z:-------------	AuxK
+
+ln95040-125-p3s17
+1	Jedním	ClZS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	je	VB-S---3P-AA---	Pred
+5	uzavření	NNNS1-----A----	Sb
+6	vstupu	NNIS2-----A----	Atr
+7	s	RR--7----------	AuxP
+8	tím	PDZS7----------	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	by	Vc-------------	AuxV
+12	zůstal	VpYS---XR-AA---	Atr
+13	jen	TT-------------	AuxZ
+14	výstup	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95040-125-p3s18
+1	Uzavření	NNNS1-----A----	Sb
+2	celé	AAFS2----1A----	Atr
+3	stanice	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	až	TT-------------	AuxZ
+6	krajní	AAFS7----1A----	Atr
+7	alternativou	NNFS7-----A----	Pnom
+8	.	Z:-------------	AuxK
+

@@ -1,0 +1,221 @@
+ln95046-093-p1s1
+1	Parlamentní	AANS1----1A----	Atr
+2	vyšetřování	NNNS1-----A----	Sb
+3	činnosti	NNFS2-----A----	Atr
+4	kontrarozvědky	NNFS2-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	pokračovat	Vf--------A----	Pred
+
+ln95046-093-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-093-p2s1B
+1	Ačkoli	J,------------1	AuxC
+2	parlamentní	AAIS1----1A----	Atr
+3	orgán	NNIS1-----A----	Sb
+4	pro	RR--4----------	AuxP
+5	kontrolu	NNFS4-----A----	Atr
+6	Bezpečnostní	AAFS2----1A----	Atr
+7	informační	AAFS2----1A----	Atr
+8	služby	NNFS2-----A----	Atr
+9	před	RR--7----------	AuxP
+10	týdnem	NNIS7-----A----	Adv
+11	ukončil	VpYS---XR-AA---	Adv
+12	vyšetřování	NNNS4-----A----	Obj
+13	podnětů	NNIP2-----A----	Atr
+14	ODA	NNFXX-----A---8	Atr
+15	vůči	RR--3----------	AuxP
+16	kontrarozvědce	NNFS3-----A----	Atr
+17	a	J^-------------	Coord
+18	konstatoval	VpYS---XR-AA---	Adv
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	BIS	NNFXX-----A---8	Sb
+22	neporušila	VpQW---XR-NA---	Obj
+23	zákon	NNIS4-----A----	Obj
+24	,	Z:-------------	AuxX
+25	šetření	NNNS1-----A----	Sb
+26	de	RR--1----------	Atr
+27	facto	NNNXX-----A----	Adv
+28	pokračuje	VB-S---3P-AA---	Pred
+29	dál	Db-------------	Adv
+30	.	Z:-------------	AuxK
+
+ln95046-093-p3s1
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	připustil	VpYS---XR-AA---	Pred
+4	člen	NNMS1-----A----	Atr
+5	komise	NNFS2-----A----	Atr
+6	poslanec	NNMS1-----A----	Atr
+7	Pavel	NNMS1-----A----	Atr
+8	Severa	NNMS1-----A----	Sb
+9	(	Z:-------------	AuxG
+10	KDU	NNFXX-----A---8	ExD
+11	-	Z:-------------	Coord
+12	ČSL	NNFXX-----A---8	ExD
+13	)	Z:-------------	AuxG
+14	po	RR--6----------	AuxP
+15	schůzi	NNFS6-----A----	Adv
+16	orgánu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95046-093-p3s2
+1	Komise	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	shodla	VpQW---XR-AA--1	Pred
+4	na	RR--6----------	AuxP
+5	tom	PDZS6----------	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	dokončí	VB-S---3P-AA---	Atr
+9	šetření	NNNP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	která	P4NP1----------	Sb
+12	ještě	Db-------------	Adv
+13	provedena	VsQW---XX-AP---	Atr
+14	nebyla	VpQW---XR-NA---	AuxV
+15	,	Z:-------------	AuxX
+16	jako	J,-------------	AuxY
+17	například	Db-------------	Apos
+18	porovnání	NNNS1-----A----	Obj
+19	zprávy	NNFS2-----A----	Atr
+20	o	RR--6----------	AuxP
+21	extremismu	NNIS6-----A----	Atr
+22	s	RR--7----------	AuxP
+23	vysvětlením	NNNS7-----A----	Atr
+24	ředitele	NNMS2-----A----	Atr
+25	BIS	NNFXX-----A---8	Atr
+26	Stanislava	NNMS2-----A----	Atr
+27	Devátého	NNMS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95046-093-p3s3
+1	Stále	Db-------------	Adv
+2	prý	TT-------------	AuxY
+3	jde	VB-S---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	to	PDNS4----------	Obj
+6	,	Z:-------------	AuxX
+7	zda	J,-------------	AuxC
+8	tajná	AAFS1----1A----	Atr
+9	služba	NNFS1-----A----	Sb
+10	veškeré	PLYP4----------	Atr
+11	údaje	NNIP4-----A----	Obj
+12	mohla	VpQW---XR-AA---	Atr
+13	získat	Vf--------A----	Obj
+14	z	RR--2----------	AuxP
+15	otevřených	AAIP2----1A----	Atr
+16	zdrojů	NNIP2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln95046-093-p3s4
+1	Před	RR--4----------	AuxP
+2	komisi	NNFS4-----A----	Adv
+3	budou	VB-P---3F-AA---	AuxV
+4	pozváni	VsMP---XX-AP---	Pred
+5	lidé	NNMP1-----A---1	Sb
+6	,	Z:-------------	AuxX
+7	jejichž	P1XXXXP3-------	Atr
+8	slyšení	NNNS4-----A----	Obj
+9	navrhl	VpYS---XR-AA--1	Atr
+10	předseda	NNMS1-----A----	Atr
+11	ODA	NNFXX-----A---8	Atr
+12	Jan	NNMS1-----A----	Atr
+13	Kalvoda	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln95046-093-p3s5
+1	Pozván	VsYS---XX-AP---	Pred
+2	bude	VB-S---3F-AA---	AuxV
+3	i	J^-------------	AuxZ
+4	bývalý	AAMS1----1A----	Atr
+5	pracovník	NNMS1-----A----	Atr
+6	BIS	NNFXX-----A---8	Atr
+7	Michal	NNMS1-----A----	Atr
+8	Čelechovský	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	o	RR--4----------	AuxP
+12	to	PDNS4----------	Obj
+13	sám	PLYS1----------	Atv
+14	požádal	VpYS---XR-AA---	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-093-p3s6
+1	Severa	NNMS1-----A----	Sb
+2	sice	Db-------------	AuxY
+3	nepředpokládá	VB-S---3P-NA---	Pred
+4	revokaci	NNFS4-----A----	Obj
+5	již	Db-------------	Adv
+6	přijatých	AANP2----1A----	Atr
+7	usnesení	NNNP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	případné	AAFP4----1A----	Atr
+11	nové	AAFP4----1A----	Atr
+12	skutečnosti	NNFP4-----A----	Obj
+13	by	Vc-------------	AuxV
+14	měla	VpQW---XR-AA---	Pred
+15	obsahovat	Vf--------A----	Obj
+16	zpráva	NNFS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	kterou	P4FS4----------	Obj
+19	chce	VB-S---3P-AA---	Atr
+20	komise	NNFS1-----A----	Sb
+21	předložit	Vf--------A----	Obj
+22	sněmovně	NNFS3-----A----	Obj
+23	na	RR--6----------	AuxP
+24	březnové	AAFS6----1A----	Atr
+25	schůzi	NNFS6-----A----	Adv
+26	.	Z:-------------	AuxK
+
+ln95046-093-p3s7
+1	Členové	NNMP1-----A----	Sb
+2	komise	NNFS2-----A----	Atr
+3	si	P7-X3----------	Obj
+4	včera	Db-------------	Adv
+5	rozdělili	VpMP---XR-AA---	Pred
+6	úkoly	NNIP4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	příští	AAIP4----1A----	Atr
+9	dny	NNIP4-----A----	Atr
+10	a	J^-------------	Coord
+11	k	RR--3----------	AuxP
+12	dalšímu	AANS3----1A----	Atr
+13	jednání	NNNS3-----A----	Adv
+14	se	P7-X4----------	AuxT
+15	sejdou	VB-P---3P-AA---	Pred
+16	8	C=-------------	Atr
+17	.	Z:-------------	AuxG
+18	března	NNIS2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln95046-093-p3s8
+1	Poslanec	NNMS1-----A----	Atr
+2	Ivan	NNMS1-----A----	Atr
+3	Mašek	NNMS1-----A----	Sb
+4	(	Z:-------------	ExD
+5	ODA	NNFXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	novinářům	NNMP3-----A----	Obj
+8	řekl	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	trval	VpYS---XR-AA---	Obj
+12	na	RR--6----------	AuxP
+13	všech	PLXP6----------	Atr
+14	kontrolních	AAIP6----1A----	Atr
+15	úkonech	NNIP6-----A----	Obj
+16	,	Z:-------------	AuxX
+17	které	P4IP1----------	Sb
+18	byly	VpTP---XR-AA---	AuxV
+19	navrženy	VsTP---XX-AP---	Atr
+20	při	RR--6----------	AuxP
+21	projednávání	NNNS6-----A----	Adv
+22	podnětu	NNIS2-----A----	Atr
+23	jeho	PSXXXZS3-------	Atr
+24	strany	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+

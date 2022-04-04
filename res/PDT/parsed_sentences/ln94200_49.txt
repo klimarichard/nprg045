@@ -1,0 +1,714 @@
+ln94200-49-p1s1
+1	Sběrné	AAFP1----1A----	Atr
+2	suroviny	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	chovají	VB-P---3P-AA---	Pred
+5	podle	RR--2----------	AuxP
+6	poptávky	NNFS2-----A----	Adv
+
+ln94200-49-p2s1A
+1	Příčinou	NNFS7-----A----	Pnom
+2	nulového	AAIS2----1A----	Atr
+3	zájmu	NNIS2-----A----	Atr
+4	o	RR--4----------	AuxP
+5	starý	AAIS4----1A----	Atr
+6	papír	NNIS4-----A----	Atr
+7	a	J^-------------	Coord
+8	nízkých	AAFP2----1A----	Atr
+9	cen	NNFP2-----A----	Atr
+10	za	RR--4----------	AuxP
+11	něj	P5ZS4--3-------	Atr
+12	byla	VpQW---XR-AA---	Pred
+13	hospodářská	AAFS1----1A----	Atr
+14	recese	NNFS1-----A----	Sb
+15	v	RR--6----------	AuxP
+16	západních	AAFP6----1A----	Atr
+17	zemích	NNFP6-----A----	Atr
+
+ln94200-49-p2s1B
+1	Michal	NNMS1-----A----	Atr
+2	Achremenko	NNMS1-----A----	ExD
+
+ln94200-49-p2s1C
+1	Odpady	NNIP1-----A----	Sb
+2	vznikaly	VpTP---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	vznikají	VB-P---3P-AA---	Pred
+5	a	J^-------------	Coord
+6	budou	VB-P---3F-AA---	Pred
+7	tu	Db------------1	Adv
+8	s	RR--7----------	AuxP
+9	námi	PP-P7--1-------	Adv
+10	stále	Db-------------	Adv
+11	.	Z:-------------	AuxK
+
+ln94200-49-p2s2
+1	Nejméně	Dg-------3A----	AuxZ
+2	30	C=-------------	Obj
+3	procent	NNNP2-----A----	Atr
+4	použitých	AAIP2----1A----	Atr
+5	materiálů	NNIP2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	možné	AANS1----1A----	Pnom
+8	nějakým	PZZS7----------	Atr
+9	způsobem	NNIS7-----A----	Adv
+10	vrátit	Vf--------A----	Sb
+11	zpět	Db-------------	Adv
+12	do	RR--2----------	AuxP
+13	oběhu	NNIS2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94200-49-p2s3
+1	Kouzlo	NNNS1-----A----	Sb
+2	recyklace	NNFS2-----A----	Atr
+3	spočívá	VB-S---3P-AA---	Pred
+4	nejenom	Db-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	úspoře	NNFS6-----A----	Adv
+7	výchozí	AAFS2----1A----	Atr
+8	suroviny	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	také	Db-------------	AuxZ
+12	ve	RV--6----------	AuxP
+13	zmenšování	NNNS6-----A----	Adv
+14	objemu	NNIS2-----A----	Atr
+15	odpadu	NNIS2-----A----	Atr
+16	na	RR--6----------	AuxP
+17	skládkách	NNFP6-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94200-49-p2s4
+1	Samozřejmě	Dg-------1A----	AuxY
+2	jde	VB-S---3P-AA---	Pred
+3	také	Db-------------	AuxZ
+4	o	RR--4----------	AuxP
+5	ceny	NNFP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	které	P4FP1----------	Sb
+8	v	RR--6----------	AuxP
+9	případě	NNIS6-----A----	Adv
+10	starého	AAIS2----1A----	Atr
+11	papíru	NNIS2-----A----	Atr
+12	naštěstí	Db-------------	Adv
+13	zase	Db-------------	Adv
+14	vzrostly	VpTP---XR-AA---	Atr
+15	.	Z:-------------	AuxK
+
+ln94200-49-p3s1
+1	Nejtypičtějším	AAIS7----3A----	Atr
+2	a	J^-------------	Coord
+3	nejčastějším	AAIS7----3A----	Atr
+4	odpadem	NNIS7-----A----	Pnom
+5	je	VB-S---3P-AA---	Pred
+6	papír	NNIS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+ln94200-49-p3s2
+1	Bylo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	nošením	NNNS7-----A----	Pnom
+4	sov	NNFP2-----A----	Atr
+5	do	RR--2----------	AuxP
+6	Atén	NNFP2-----A----	Atr
+7	vykládat	Vf--------A----	Sb
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	sbíráním	NNNS7-----A----	Adv
+11	starého	AAIS2----1A----	Atr
+12	papíru	NNIS2-----A----	Atr
+13	šetříme	VB-P---1P-AA---	Obj
+14	naše	PSXP4-P1-------	Atr
+15	lesy	NNIP4-----A----	Obj
+16	,	Z:-------------	Coord
+17	nicméně	J^-------------	AuxY
+18	je	VB-S---3P-AA---	Pred
+19	to	PDNS1----------	Sb
+20	přece	Db-------------	AuxY
+21	jenom	TT-------------	AuxY
+22	tak	Db-------------	Adv
+23	.	Z:-------------	AuxK
+
+ln94200-49-p3s3
+1	A	J^-------------	AuxY
+2	to	PDNS1----------	AuxY
+3	i	J^-------------	AuxZ
+4	přesto	Dg-------1A----	ExD
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	nedávný	AAIS1----1N----	Atr
+8	nezájem	NNIS1-----A----	Sb
+9	o	RR--4----------	AuxP
+10	tuto	PDFS4----------	Atr
+11	komoditu	NNFS4-----A----	Atr
+12	mohl	VpYS---XR-AA---	ExD
+13	vyvolávat	Vf--------A----	Obj
+14	dojem	NNIS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	lesů	NNIP2-----A----	Atr
+18	máme	VB-P---1P-AA---	Atr
+19	nadbytek	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94200-49-p4s1
+1	V	RR--6----------	AuxP
+2	pozadí	NNNS6-----A----	Adv
+3	tohoto	PDZS2----------	Atr
+4	stavu	NNIS2-----A----	Atr
+5	byla	VpQW---XR-AA---	Pred
+6	světová	AAFS1----1A----	Atr
+7	hospodářská	AAFS1----1A----	Atr
+8	recese	NNFS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	se	P7-X4----------	AuxT
+12	podepsala	VpQW---XR-AA---	Atr
+13	na	RR--6----------	AuxP
+14	snížení	NNNS6-----A----	Adv
+15	poptávky	NNFS2-----A----	Atr
+16	po	RR--6----------	AuxP
+17	papíru	NNIS6-----A---1	Atr
+18	v	RR--6----------	AuxP
+19	západoevropských	AAFP6----1A----	Atr
+20	zemích	NNFP6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94200-49-p4s2
+1	A	J^-------------	Coord
+2	tak	Db-------------	Adv
+3	ho	PHZS4--3-------	Obj
+4	Západ	NNIS1-----A----	Sb
+5	vozil	VpYS---XR-AA---	Pred
+6	na	RR--4----------	AuxP
+7	Východ	NNIS4-----A----	Adv
+8	a	J^-------------	Coord
+9	ještě	Db-------------	Adv
+10	za	RR--4----------	AuxP
+11	to	PDNS4----------	Obj
+12	odběratelům	NNMP3-----A----	Obj
+13	platil	VpYS---XR-AA---	Pred
+14	.	Z:-------------	AuxK
+
+ln94200-49-p4s3
+1	Zpracovatelské	AAIP1----1A----	Atr
+2	podniky	NNIP1-----A----	Sb
+3	získaly	VpTP---XR-AA---	Pred
+4	levnou	AAFS4----1A----	Atr
+5	a	J^-------------	Coord
+6	kvalitnější	AAFS4----2A----	Atr
+7	surovinu	NNFS4-----A----	Obj
+8	ze	RV--2----------	AuxP
+9	zahraničí	NNNS2-----A----	AdvAtr
+10	,	Z:-------------	AuxX
+11	zatímco	J,-------------	AuxC
+12	náš	PSYS1-P1-------	Atr
+13	papír	NNIS1-----A----	Sb
+14	plnil	VpYS---XR-AA---	Adv
+15	popelnice	NNFP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94200-49-p5s1
+1	Hromosvodem	NNIS7-----A----	Obj
+2	stížností	NNFP2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	stala	VpQW---XR-AA---	Pred
+5	akciová	AAFS1----1A----	Atr
+6	společnost	NNFS1-----A----	Sb
+7	Sběrné	AAFP1----1A----	Atr
+8	suroviny	NNFP1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	a	J^-------------	AuxY
+11	to	PDNS4----------	AuxY
+12	přesto	Dg-------1A----	Adv
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	už	Db-------------	Adv
+16	dávno	Dg-------1A----	Adv
+17	nemá	VB-S---3P-NA---	Adv
+18	ani	J^-------------	AuxY
+19	monopolní	AANS4----1A----	Atr
+20	,	Z:-------------	AuxX
+21	ani	J^-------------	Coord
+22	dominantní	AANS4----1A----	Atr
+23	postavení	NNNS4-----A----	Obj
+24	na	RR--6----------	AuxP
+25	trhu	NNIS6-----A----	Atr
+26	druhotných	AAFP2----1A----	Atr
+27	surovin	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94200-49-p5s2
+1	Kritika	NNFS1-----A----	Sb
+2	byla	VpQW---XR-AA---	Pred
+3	neoprávněná	AAFS1----1N----	Pnom
+4	.	Z:-------------	AuxK
+
+ln94200-49-p5s3
+1	Tento	PDYS1----------	Atr
+2	podnik	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	LN	NNFPX-----A---8	Obj
+6	informoval	VpYS---XR-AA---	Pred
+7	jeho	PSXXXZS3-------	Atr
+8	ředitel	NNMS1-----A----	Atr
+9	Jiří	NNMS1-----A----	Atr
+10	Volek	NNMS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	reguluje	VB-S---3P-AA---	Pred
+13	sběrovou	AAFS4----1A----	Atr
+14	politiku	NNFS4-----A----	Obj
+15	podle	RR--2----------	AuxP
+16	požadavku	NNIS2-----A----	Adv
+17	odběratelů	NNMP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	protože	J,-------------	AuxC
+20	z	RR--2----------	AuxP
+21	finančních	AAIP2----1A----	Atr
+22	důvodů	NNIP2-----A----	Adv
+23	není	VB-S---3P-NA---	Adv
+24	schopen	ACYS------A----	Pnom
+25	papír	NNIS4-----A----	Obj
+26	vykupovat	Vf--------A----	Obj
+27	na	RR--4----------	AuxP
+28	sklad	NNIS4-----A----	Adv
+29	.	Z:-------------	AuxK
+
+ln94200-49-p5s4
+1	Důkazem	NNIS7-----A----	Pnom
+2	toho	PDZS2----------	Atr
+3	je	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	jakmile	J,-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	projevila	VpQW---XR-AA---	Adv
+9	poptávka	NNFS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	výkupní	AAFS1----1A----	Atr
+12	cena	NNFS1-----A----	Sb
+13	se	P7-X4----------	AuxT
+14	rapidně	Dg-------1A----	Adv
+15	zvýšila	VpQW---XR-AA---	Sb
+16	-	Z:-------------	AuxG
+17	u	RR--2----------	AuxP
+18	lepenky	NNFS2-----A----	Adv
+19	,	Z:-------------	AuxX
+20	která	P4FS1----------	Sb
+21	se	P7-X4----------	AuxR
+22	před	RR--7----------	AuxP
+23	časem	NNIS7-----A----	Adv
+24	nebrala	VpQW---XR-NA---	Atr
+25	ani	J^-------------	AuxZ
+26	zadarmo	Db-------------	Adv
+27	,	Z:-------------	AuxX
+28	dokonce	Db-------------	AuxZ
+29	na	RR--4----------	AuxP
+30	1.40	C=-------------	Obj
+31	Kč	NNFXX-----A----	Atr
+32	za	RR--4----------	AuxP
+33	kilogram	NNIS4-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94200-49-p6s1
+1	Do	RR--2----------	AuxP
+2	roku	NNIS2-----A---1	Adv
+3	1989	C=-------------	Atr
+4	měl	VpYS---XR-AA---	Pred
+5	tehdy	Db-------------	Adv
+6	státní	AAIS1----1A----	Atr
+7	podnik	NNIS1-----A----	Sb
+8	Sběrné	AAFP1----1A----	Atr
+9	suroviny	NNFP1-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Praze	NNFS6-----A----	Adv
+12	135	C=-------------	Obj
+13	sběren	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	navíc	Db-------------	Adv
+16	rovnoměrně	Dg-------1A----	Adv
+17	rozložených	AAFP2----1A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94200-49-p6s2
+1	Po	RR--6----------	AuxP
+2	restituční	AAFS6----1A----	Atr
+3	smršti	NNFS6-----A----	Adv
+4	jich	PPXP2--3-------	Atr
+5	zbylo	VpNS---XR-AA---	Pred
+6	pouze	Db-------------	AuxZ
+7	47	C=-------------	Sb
+8	,	Z:-------------	AuxX
+9	rozmístěných	AAFP2----1A----	Atr
+10	velmi	Db-------------	Adv
+11	nešťastně	Dg-------1N----	Adv
+12	.	Z:-------------	AuxK
+
+ln94200-49-p7s1
+1	Asi	TT-------------	AuxZ
+2	třetina	CyFS1----------	Sb
+3	starého	AAIS2----1A----	Atr
+4	papíru	NNIS2-----A----	Atr
+5	údajně	Dg-------1A----	Adv
+6	končí	VB-S---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	popelnicích	NNFP6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln94200-49-p7s2
+1	Lidé	NNMP1-----A---1	Sb
+2	to	PDNS4----------	AuxO
+3	mají	VB-P---3P-AA---	Pred
+4	do	RR--2----------	AuxP
+5	sběren	NNFP2-----A----	Adv
+6	daleko	Dg-------1A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94200-49-p7s3
+1	Nad	RR--7----------	AuxP
+2	mnohými	AAFP7----1A----	Atr
+3	restituovanými	AAFP7----1A----	Atr
+4	sběrnami	NNFP7-----A----	Adv
+5	dosud	Db-------------	Adv
+6	visí	VB-S---3P-AA---	ExD
+7	stará	AAFS1----1A----	Atr
+8	firma	NNFS1-----A----	Sb
+9	,	Z:-------------	Coord
+10	což	PE--1----------	Sb
+11	budí	VB-S---3P-AA---	Pred
+12	dojem	NNIS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	sběrna	NNFS1-----A----	Sb
+16	je	VB-S---3P-AA---	Atr
+17	zavřená	AAFS1----1A----	Pnom
+18	z	RR--2----------	AuxP
+19	vůle	NNFS2-----A----	Adv
+20	Sběrných	AAFP2----1A----	Atr
+21	surovin	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94200-49-p8s1
+1	Situace	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	řeší	VB-S---3P-AA---	Pred
+4	tak	Db-------------	Adv
+5	jako	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	ostatních	AAFP6----1A----	Atr
+8	zemích	NNFP6-----A----	ExD
+9	.	Z:-------------	AuxK
+
+ln94200-49-p8s2
+1	Separovaným	AAIS7----1A----	Atr
+2	sběrem	NNIS7-----A----	ExD
+3	do	RR--2----------	AuxP
+4	kontejnerů	NNIP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	ačkoliv	J,-------------	AuxC
+7	je	VB-S---3P-AA---	ExD
+8	to	PDNS1----------	Sb
+9	poměrně	Dg-------1A----	Adv
+10	drahá	AAFS1----1A----	Atr
+11	záležitost	NNFS1-----A----	Pnom
+12	.	Z:-------------	AuxK
+
+ln94200-49-p8s3
+1	Kovový	AAIS1----1A----	Atr
+2	kontejner	NNIS1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	papír	NNIS4-----A----	Atr
+5	o	RR--6----------	AuxP
+6	obsahu	NNIS6-----A----	Atr
+7	3.2	C=-------------	Atr
+8	kubíku	NNIS2-----A----	Atr
+9	je	VB-S---3P-AA---	Pred
+10	výrobkem	NNIS7-----A----	Pnom
+11	německé	AAFS2----1A----	Atr
+12	firmy	NNFS2-----A----	Atr
+13	Schäfer	NNMS1-----A----	Atr
+14	a	J^-------------	Coord
+15	stojí	VB-S---3P-AA---	Pred
+16	okolo	RR--2----------	AuxP
+17	25	C=-------------	Adv
+18	tisíc	ClXS2----------	Atr
+19	korun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94200-49-p8s4
+1	Zvonové	AAIP1----1A----	Atr
+2	kontejnery	NNIP1-----A----	Sb
+3	Sběrných	AAFP2----1A----	Atr
+4	surovin	NNFP2-----A----	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	od	RR--2----------	AuxP
+7	zlínské	AAFS2----1A----	Atr
+8	firmy	NNFS2-----A----	Adv
+9	Reflex	NNIS1-----A----	Atr
+10	a	J^-------------	Coord
+11	stojí	VB-P---3P-AA---	Pred
+12	až	TT-------------	AuxZ
+13	13	C=-------------	Adv
+14	tisíc	ClXS2----------	Atr
+15	.	Z:-------------	AuxK
+
+ln94200-49-p8s5
+1	Kontejnerů	NNIP2-----A----	Atr
+2	na	RR--4----------	AuxP
+3	papír	NNIS4-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	Praze	NNFS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	Sběrné	AAFP1----1A----	Atr
+10	suroviny	NNFP1-----A----	Sb
+11	působí	VB-P---3P-AA---	Atr
+12	,	Z:-------------	AuxX
+13	185	C=-------------	Sb
+14	a	J^-------------	Coord
+15	těch	PDXP2----------	ExD
+16	druhých	CrIP2----------	ExD
+17	1350	C=-------------	ExD
+18	,	Z:-------------	Coord
+19	přičemž	J,-------------	Adv
+20	tato	PDNP1----------	Atr
+21	čísla	NNNP1-----A----	Sb
+22	nejsou	VB-P---3P-NA---	Pred
+23	konečná	AANP1----1A----	Pnom
+24	.	Z:-------------	AuxK
+
+ln94200-49-p8s6
+1	Nejde	VB-S---3P-NA---	Pred
+2	však	J^-------------	Coord
+3	jen	TT-------------	AuxZ
+4	o	RR--4----------	AuxP
+5	to	PDNS4----------	Obj
+6	,	Z:-------------	AuxX
+7	mít	Vf--------A----	Atr
+8	co	Db-------------	Adv
+9	nejvíce	Dg-------3A----	Obj
+10	kontejnerů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	i	J^-------------	AuxZ
+14	navazující	AGFS4-----A----	Atr
+15	technologii	NNFS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	to	PDNS1----------	AuxY
+18	jest	VB-S---3P-AA--2	Apos
+19	automobily	NNIP4-----A----	Obj
+20	na	RR--4----------	AuxP
+21	odvoz	NNIS4-----A----	Atr
+22	a	J^-------------	Coord
+23	třídicí	AAFS4----1A----	Atr
+24	linku	NNFS4-----A----	Obj
+25	,	Z:-------------	AuxX
+26	která	P4FS1----------	Sb
+27	se	P7-X4----------	AuxR
+28	buduje	VB-S---3P-AA---	Atr
+29	nákladem	NNIS7-----A----	Adv
+30	17	C=-------------	Atr
+31	mil	NNIXX-----A---8	Atr
+32	.	Z:-------------	AuxG
+33	Kč	NNFXX-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94200-49-p9s1
+1	Velkým	AAIS7----1A----	Atr
+2	problémem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	Jiřího	NNMS2-----A----	Atr
+6	Bočka	NNMS2-----A----	Adv
+7	,	Z:-------------	Apos
+8	vedoucího	NNMS2-----A----	Adv
+9	oddělení	NNNS2-----A----	Atr
+10	výroby	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	ekologie	NNFS2-----A----	Atr
+13	Sběrných	AAFP2----1A----	Atr
+14	surovin	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	zařazení	NNNS1-----A----	Sb
+17	tohoto	PDZS2----------	Atr
+18	podniku	NNIS2-----A----	Atr
+19	až	TT-------------	AuxZ
+20	do	RR--2----------	AuxP
+21	druhé	CrFS2----------	Atr
+22	vlny	NNFS2-----A----	Atr
+23	kuponové	AAFS2----1A----	Atr
+24	privatizace	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94200-49-p9s2
+1	To	PDNS1----------	Sb
+2	oddálilo	VpNS---XR-AA---	Pred
+3	vstup	NNIS4-----A----	Obj
+4	partnera	NNMS2-----A----	Atr
+5	ochotného	AAMS2----1A----	Atr
+6	investovat	Vf--------A----	Obj
+7	do	RR--2----------	AuxP
+8	dalšího	AAIS2----1A----	Atr
+9	rozvoje	NNIS2-----A----	Adv
+10	firmy	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94200-49-p10s1
+1	Pozice	NNFS1-----A----	Sb
+2	Sběrných	AAFP2----1A----	Atr
+3	surovin	NNFP2-----A----	Atr
+4	byla	VpQW---XR-AA---	AuxV
+5	značně	Dg-------1A----	Adv
+6	oslabena	VsQW---XX-AP---	Pred
+7	vstupem	NNIS7-----A----	Obj
+8	soukromých	AAFP2----1A----	Atr
+9	společností	NNFP2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	trh	NNIS4-----A----	Atr
+12	,	Z:-------------	Coord
+13	což	PE--1----------	Sb
+14	se	P7-X4----------	AuxT
+15	projevilo	VpNS---XR-AA---	Pred
+16	i	J^-------------	AuxZ
+17	v	RR--6----------	AuxP
+18	poklesu	NNIS6-----A----	Adv
+19	zisku	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94200-49-p10s2
+1	Omezila	VpQW---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	tak	Db-------------	Adv
+4	možnost	NNFS1-----A----	Sb
+5	investovat	Vf--------A----	Atr
+6	do	RR--2----------	AuxP
+7	dalších	AAFP2----1A----	Atr
+8	souběžných	AAFP2----1A----	Atr
+9	aktivit	NNFP2-----A----	Adv
+10	,	Z:-------------	AuxX
+11	které	P4FP1----------	Sb
+12	jsou	VB-P---3P-AA---	Atr
+13	nutné	AAFP1----1A----	Pnom
+14	v	RR--6----------	AuxP
+15	prostředí	NNNS6-----A----	Adv
+16	tržní	AAFS2----1A----	Atr
+17	ekonomiky	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94200-49-p10s3
+1	Na	RR--6----------	AuxP
+2	pražských	AAFP6----1A----	Atr
+3	ulicích	NNFP6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	objevují	VB-P---3P-AA---	Pred
+6	kontejnery	NNIP1-----A----	Sb
+7	jiných	AAFP2----1A----	Atr
+8	firem	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	mnohdy	Db-------------	Adv
+11	i	J^-------------	AuxZ
+12	mimopražských	AAFP2----1A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94200-49-p10s4
+1	Konkurenti	NNMP1-----A----	Sb
+2	sami	PLMP1----------	Atv
+3	o	RR--6----------	AuxP
+4	sobě	P6-X6----------	Atr
+5	Sběrné	AAFP4----1A----	Atr
+6	suroviny	NNFP4-----A----	Obj
+7	netrápí	VB-P---3P-NA---	Pred
+8	;	Z:-------------	AuxK
+
+ln94200-49-p10s5
+1	jde	VB-S---3P-AA---	Pred
+2	spíše	Dg-------2A---1	Adv
+3	o	RR--4----------	AuxP
+4	fakt	NNIS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	často	Dg-------1A----	Adv
+8	vyzobávají	VB-P---3P-AA---	Atr
+9	jenom	TT-------------	AuxZ
+10	rozinky	NNFP4-----A----	Obj
+11	v	RR--6----------	AuxP
+12	podobě	NNFS6-----A----	Atr
+13	lukrativního	AAIS2----1A----	Atr
+14	odpadu	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94200-49-p10s6
+1	Sběrným	AAFP3----1A----	Atr
+2	surovinám	NNFP3-----A----	Obj
+3	tak	Db-------------	Adv
+4	zbývají	VB-P---3P-AA---	Pred
+5	takové	PDFP1----------	Atr
+6	lahůdky	NNFP1-----A----	Sb
+7	jako	J,-------------	AuxC
+8	autobaterie	NNFP1-----A----	ExD
+9	a	J^-------------	Coord
+10	různé	AAIP1----1A----	Atr
+11	fotochemické	AAIP1----1A----	Atr
+12	roztoky	NNIP1-----A----	ExD
+13	.	Z:-------------	AuxK
+
+ln94200-49-p10s7
+1	Podle	RR--2----------	AuxP
+2	vedení	NNNS2-----A----	Adv
+3	podniku	NNIS2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	na	RR--4----------	AuxP
+6	tyto	PDFP4----------	Atr
+7	otázky	NNFP4-----A----	Obj
+8	měl	VpYS---XR-AA---	Pred
+9	pamatovat	Vf--------A----	Obj
+10	zákon	NNIS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94200-49-p10s8
+1	Když	J,-------------	AuxC
+2	vykupovat	Vf--------A----	ExD
+3	,	Z:-------------	AuxX
+4	tak	Db-------------	ExD
+5	tedy	Db-------------	ExD
+6	všechno	PLNS4----------	ExD
+7	.	Z:-------------	AuxK
+
+ln94200-49-p11s1
+1	Cílem	NNIS7-----A----	Pnom
+2	Sběrných	AAFP2----1A----	Atr
+3	surovin	NNFP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	vybudovat	Vf--------A----	Sb
+6	hustou	AAFS4----1A----	Atr
+7	síť	NNFS4-----A----	Obj
+8	kontejnerů	NNIP2-----A----	Atr
+9	tak	Db-------------	Adv
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	se	P7-X4----------	AuxT
+13	občan	NNMS1-----A----	Sb
+14	mohl	VpYS---XR-AA---	Adv
+15	odpadu	NNIS2-----A----	Obj
+16	zbavit	Vf--------A----	Obj
+17	pohodlně	Dg-------1A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94200-49-p11s2
+1	U	RR--2----------	AuxP
+2	cen	NNFP2-----A----	Adv
+3	za	RR--4----------	AuxP
+4	starý	AAIS4----1A----	Atr
+5	papír	NNIS4-----A----	Atr
+6	si	P7-X3----------	AuxT
+7	budeme	VB-P---1F-AA---	AuxV
+8	muset	Vf--------A----	Pred
+9	zvyknout	Vf--------A----	Obj
+10	na	RR--4----------	AuxP
+11	rozhodující	AGIS4-----A----	Atr
+12	vliv	NNIS4-----A----	Obj
+13	trhu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+

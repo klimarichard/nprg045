@@ -1,0 +1,173 @@
+ln94206-135-p1s1
+1	Náhrada	NNFS1-----A----	ExD
+2	za	RR--4----------	AuxP
+3	lustrační	AANP4----1A----	Atr
+4	osvědčení	NNNP4-----A----	Atr
+5	?	Z:-------------	AuxK
+
+ln94206-135-p2s1A
+1	Ústí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Bečvou	NNFS7-----A----	Atr
+4	(	Z:-------------	ExD
+5	Agentura	NNFS1-----A----	ExD
+6	Wild	NNMS1-----A----	Atr
+7	Duck	NNIS1-----A----	Atr
+8	)	Z:-------------	ExD
+9	-	Z:-------------	AuxK
+
+ln94206-135-p2s1B
+1	Povzbuzena	VsQW---XX-AP---	Atv
+2	velkým	AAIS7----1A----	Atr
+3	ohlasem	NNIS7-----A----	Adv
+4	svých	P8XP2----------	Atr
+5	předchozích	AAIP2----1A----	Atr
+6	výzkumů	NNIP2-----A----	Atr
+7	provedla	VpQW---XR-AA---	Pred
+8	nyní	Db-------------	Adv
+9	agentura	NNFS1-----A----	Sb
+10	NEOBLBA	NNFS1-----A----	Atr
+11	nový	AAIS4----1A----	Atr
+12	mimořádně	Dg-------1A----	Adv
+13	originální	AAIS4----1A----	Atr
+14	výzkum	NNIS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	v	RR--6----------	AuxP
+17	němž	P9ZS6----------	Adv
+18	zkoumala	VpQW---XR-AA---	Atr
+19	závislost	NNFS4-----A----	Obj
+20	politického	AANS2----1A----	Atr
+21	přesvědčení	NNNS2-----A----	Atr
+22	na	RR--6----------	AuxP
+23	geologickém	AAIS6----1A----	Atr
+24	útvaru	NNIS6-----A----	Atr
+25	,	Z:-------------	AuxX
+26	v	RR--6----------	AuxP
+27	němž	P9ZS6----------	Adv
+28	se	P7-X4----------	AuxT
+29	nacházelo	VpNS---XR-AA---	Atr
+30	rodiště	NNNS1-----A----	Sb
+31	zkoumaných	AAFP2----1A----	Atr
+32	osob	NNFP2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94206-135-p2s2
+1	Zjistila	VpQW---XR-AA---	Pred
+2	například	Db-------------	AuxY
+3	významnou	AAFS4----1A----	Atr
+4	souvislost	NNFS4-----A----	Obj
+5	mezi	RR--7----------	AuxP
+6	vodorovně	Dg-------1A----	Adv
+7	zdenudovanou	AAFS7----1A----	Atr
+8	podlohou	NNFS7-----A----	Atr
+9	v	RR--6----------	AuxP
+10	místě	NNNS6-----A----	Atr
+11	rodiště	NNNS2-----A----	Atr
+12	a	J^-------------	Coord
+13	následným	AANS7----1A----	Atr
+14	členstvím	NNNS7-----A----	Atr
+15	v	RR--6----------	AuxP
+16	KSČM	NNFXX-----A---8	Atr
+17	(	Z:-------------	ExD
+18	57	C=-------------	ExD
+19	%	Z:-------------	Atr
+20	)	Z:-------------	ExD
+21	.	Z:-------------	AuxK
+
+ln94206-135-p2s3
+1	Naopak	Db-------------	Adv
+2	49	C=-------------	Sb
+3	%	Z:-------------	Atr
+4	členů	NNMP2-----A----	Atr
+5	ODA	NNFXX-----A---8	Atr
+6	spadá	VB-S---3P-AA---	Pred
+7	svým	P8ZS7----------	Atr
+8	rodištěm	NNNS7-----A----	Adv
+9	do	RR--2----------	AuxP
+10	mladé	AAFS2----1A----	Atr
+11	formace	NNFS2-----A----	Adv
+12	Českého	AAIS2----1A----	Atr
+13	masivu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94206-135-p2s4
+1	Pro	RR--4----------	AuxP
+2	stoupence	NNMP4-----A----	Adv
+3	ODS	NNFXX-----A---8	Atr
+4	je	VB-S---3P-AA---	Pred
+5	pak	Db-------------	Adv
+6	příznačný	AAIS1----1A----	Pnom
+7	výskyt	NNIS1-----A----	Sb
+8	drobů	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	břidlic	NNFP2-----A----	Atr
+11	barrandiensko	A2--------A----	Atr
+12	-	Z:-------------	Coord
+13	železnohorské	AAFS2----1A----	Atr
+14	zóny	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94206-135-p3s1
+1	Nejmenovaný	AAMS1----1N----	Atr
+2	pracovník	NNMS1-----A----	Sb
+3	NEOBLBY	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	nezvratně	Dg-------1A----	Adv
+6	přesvědčen	VsYS---XX-AP---	Pnom
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	by	Vc-------------	AuxV
+10	se	P7-X4----------	AuxR
+11	daly	VpTP---XR-AA---	Obj
+12	nalézt	Vf--------A----	Obj
+13	obdobné	AAFP1----1A----	Atr
+14	závislosti	NNFP1-----A----	Sb
+15	i	J^-------------	AuxZ
+16	mezi	RR--7----------	AuxP
+17	jinými	AAFP7----1A----	Atr
+18	aktivitami	NNFP7-----A----	Adv
+19	a	J^-------------	Coord
+20	geologickým	AAIS7----1A----	Atr
+21	útvarem	NNIS7-----A----	Adv
+22	v	RR--6----------	AuxP
+23	rodném	AANS6----1A----	Atr
+24	místě	NNNS6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94206-135-p3s2
+1	Nadhodil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	například	Db-------------	AuxZ
+5	značně	Dg-------1A----	Adv
+6	nespolehlivé	AANS4----1N----	Adv
+7	lustrační	AANS4----1A----	Atr
+8	osvědčení	NNNS4-----A----	Obj
+9	by	Vc-------------	AuxV
+10	bylo	VpNS---XR-AA---	Obj
+11	možno	ACNS------A----	Pnom
+12	nahradit	Vf--------A----	Sb
+13	dokladem	NNIS7-----A----	Obj
+14	o	RR--6----------	AuxP
+15	geologickém	AAIS6----1A----	Atr
+16	útvaru	NNIS6-----A----	Atr
+17	rodiště	NNNS2-----A----	Atr
+18	lustrované	AAFS2----1A----	Atr
+19	osoby	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94206-135-p3s3
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	záznamů	NNIP2-----A----	Adv
+5	StB	NNFXX-----A---8	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	totiž	Db-------------	AuxY
+8	geologické	AAIP1----1A----	Atr
+9	poměry	NNIP1-----A----	Sb
+10	daleko	Dg-------1A----	Adv
+11	obtížněji	Dg-------2A----	Adv
+12	falšovatelné	AAIP1----1A----	Pnom
+13	.	Z:-------------	AuxK
+

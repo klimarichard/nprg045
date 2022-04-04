@@ -1,0 +1,179 @@
+ln95048-108-p1s1
+1	Bělorusko	NNNS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	zastavení	NNNS1-----A----	ExD
+4	likvidace	NNFS2-----A----	Atr
+5	arzenálů	NNIP2-----A----	Atr
+
+ln95048-108-p2s1A
+1	Moskva	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95048-108-p2s1B
+1	Běloruský	AAMS1----1A----	Atr
+2	prezident	NNMS1-----A----	Atr
+3	Alexandr	NNMS1-----A----	Atr
+4	Lukašenko	NNMS1-----A----	Sb
+5	nařídil	VpYS---XR-AA---	Pred
+6	pozastavit	Vf--------A----	Obj
+7	likvidaci	NNFS4-----A----	Obj
+8	vojenské	AAFS2----1A----	Atr
+9	techniky	NNFS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	území	NNNS6-----A----	AdvAtr
+12	republiky	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95048-108-p2s2
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	v	RR--6----------	AuxP
+4	Minsku	NNIS6-----A----	Adv
+5	na	RR--6----------	AuxP
+6	čtvrtečním	AAIS6----1A----	Atr
+7	slavnostním	AAIS6----1A----	Atr
+8	večeru	NNIS6-----A----	Adv
+9	k	RR--3----------	AuxP
+10	oslavám	NNFP3-----A----	Atr
+11	Dne	NNIS2-----A----	Atr
+12	obránců	NNMP2-----A----	Atr
+13	vlasti	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95048-108-p2s3
+1	Opatření	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	týká	VB-S---3P-AA---	Pred
+4	tanků	NNIP2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	letadel	NNNP2-----A----	Obj
+7	,	Z:-------------	AuxX
+8	obrněných	AAIP2----1A----	Atr
+9	transportérů	NNIP2-----A----	Obj
+10	a	J^-------------	Coord
+11	bojových	AANP2----1A----	Atr
+12	vozidel	NNNP2-----A----	Obj
+13	pěchoty	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95048-108-p2s4
+1	Podle	RR--2----------	AuxP
+2	Lukašenka	NNMS2-----A----	Adv
+3	prý	TT-------------	AuxY
+4	byl	VpYS---XR-AA---	AuxV
+5	tento	PDYS1----------	Atr
+6	krok	NNIS1-----A----	Sb
+7	vyvolán	VsYS---XX-AP---	Pred
+8	ani	J^-------------	AuxZ
+9	ne	TT-------------	AuxZ
+10	tak	Db-------------	Adv
+11	nedostatkem	NNIS7-----A----	Adv
+12	finančních	AAIP2----1A----	Atr
+13	prostředků	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	jako	J,-------------	AuxC
+16	spíše	Dg-------2A---1	ExD
+17	"	Z:-------------	AuxG
+18	patrným	AANS7----1A----	Atr
+19	porušováním	NNNS7-----A----	ExD
+20	vytvořené	AAFS2----1A----	Atr
+21	rovnováhy	NNFS2-----A----	Atr
+22	sil	NNFP2-----A----	Atr
+23	ve	RV--6----------	AuxP
+24	světě	NNIS6-----A----	AtrAtr
+25	"	Z:-------------	AuxG
+26	.	Z:-------------	AuxK
+
+ln95048-108-p2s5
+1	Agentura	NNFS1-----A----	Sb
+2	Interfax	NNIS1-----A----	Atr
+3	soudí	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	prezident	NNMS1-----A----	Sb
+7	měl	VpYS---XR-AA---	Obj
+8	na	RR--6----------	AuxP
+9	mysli	NNFS6-----A----	Obj
+10	přání	NNNS4-----A----	Obj
+11	východoevropských	AAFP2----1A----	Atr
+12	zemí	NNFP2-----A----	Atr
+13	vstoupit	Vf--------A----	Atr
+14	do	RR--2----------	AuxP
+15	Severoatlantické	AAFS2----1A----	Atr
+16	aliance	NNFS2-----A----	Adv
+17	,	Z:-------------	Coord
+18	což	PE--1----------	Sb
+19	by	Vc-------------	AuxV
+20	pro	RR--4----------	AuxP
+21	Bělorusko	NNNS4-----A----	Adv
+22	znamenalo	VpNS---XR-AA---	Pred
+23	bezprostřední	AANS4----1A----	Atr
+24	sousedství	NNNS4-----A----	Obj
+25	s	RR--7----------	AuxP
+26	NATO	NNNXX-----A---8	Atr
+27	.	Z:-------------	AuxK
+
+ln95048-108-p3s1
+1	Lukašenko	NNMS1-----A----	Sb
+2	také	Db-------------	Adv
+3	řekl	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	má	VB-S---3P-AA---	Obj
+7	pochybnosti	NNFP4-----A----	Obj
+8	o	RR--6----------	AuxP
+9	dosud	Db-------------	Adv
+10	deklarovaném	AAIS6----1A----	Atr
+11	neutrálním	AAIS6----1A----	Atr
+12	statusu	NNIS6-----A---1	Atr
+13	Běloruska	NNNS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	uvedl	VpYS---XR-AA---	Pred
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	je	VB-S---3P-AA---	Obj
+19	pro	RR--4----------	AuxP
+20	nový	AAIS4----1A----	Atr
+21	systém	NNIS4-----A----	Adv
+22	národní	AAFS2----1A----	Atr
+23	bezpečnosti	NNFS2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	a	J^-------------	Coord
+26	oznámil	VpYS---XR-AA---	Pred
+27	,	Z:-------------	AuxX
+28	že	J,-------------	AuxC
+29	ustavil	VpYS---XR-AA---	Obj
+30	"	Z:-------------	AuxG
+31	pracovní	AAFS4----1A----	Atr
+32	skupinu	NNFS4-----A----	Obj
+33	pro	RR--4----------	AuxP
+34	vytvoření	NNNS4-----A----	Atr
+35	nové	AAFS2----1A----	Atr
+36	vojenské	AAFS2----1A----	Atr
+37	doktríny	NNFS2-----A----	Atr
+38	Běloruska	NNNS2-----A----	Atr
+39	"	Z:-------------	AuxG
+40	.	Z:-------------	AuxK
+
+ln95048-108-p3s2
+1	Přitom	Db-------------	Adv
+2	ujistil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	v	RR--6----------	AuxP
+6	souladu	NNIS6-----A----	AuxP
+7	s	RR--7----------	AuxP
+8	republikovou	AAFS7----1A----	Atr
+9	legislativou	NNFS7-----A----	Adv
+10	"	Z:-------------	AuxG
+11	žádný	PWYS1----------	Atr
+12	běloruský	AAMS1----1A----	Atr
+13	voják	NNMS1-----A----	Sb
+14	nebude	VB-S---3F-NA---	AuxV
+15	bojovat	Vf--------A----	Obj
+16	za	RR--7----------	AuxP
+17	hranicemi	NNFP7-----A----	Adv
+18	Běloruska	NNNS2-----A----	Atr
+19	"	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+

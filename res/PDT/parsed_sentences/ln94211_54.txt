@@ -1,0 +1,162 @@
+ln94211-54-p1s1
+1	Okresní	AAFP1----1A----	Atr
+2	privatizační	AAFP1----1A----	Atr
+3	komise	NNFP1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	přežily	VpTP---XR-AA---	Pred
+
+ln94211-54-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	haš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94211-54-p2s1B
+1	Novelu	NNFS4-----A----	Obj
+2	zákona	NNIS2-----A----	Atr
+3	o	RR--6----------	AuxP
+4	malé	AAFS6----1A----	Atr
+5	privatizaci	NNFS6-----A----	AtrAtr
+6	včera	Db-------------	Adv
+7	sněmovně	NNFS3-----A----	Obj
+8	doporučil	VpYS---XR-AA---	Pred
+9	schválit	Vf--------A----	Obj
+10	rozpočtový	AAIS1----1A----	Atr
+11	výbor	NNIS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94211-54-p2s2
+1	Podle	RR--2----------	AuxP
+2	předsedy	NNMS2-----A----	Atr
+3	výboru	NNIS2-----A----	Atr
+4	Tomáše	NNMS2-----A----	Atr
+5	Ježka	NNMS2-----A----	Adv
+6	(	Z:-------------	ExD
+7	ODA	NNFXX-----A---8	ExD
+8	)	Z:-------------	ExD
+9	je	VB-S---3P-AA---	Pred
+10	podstatou	NNFS7-----A----	Pnom
+11	novely	NNFS2-----A----	Atr
+12	zrušení	NNNS1-----A----	Sb
+13	okresních	AAFP2----1A----	Atr
+14	privatizačních	AAFP2----1A----	Atr
+15	komisí	NNFP2-----A----	Atr
+16	k	RR--3----------	AuxP
+17	31	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	prosinci	NNIS3-----A----	Atr
+20	1994	C=-------------	Atr
+21	,	Z:-------------	AuxX
+22	protože	J,-------------	AuxC
+23	malá	AAFS1----1A----	Atr
+24	privatizace	NNFS1-----A----	Sb
+25	již	Db-------------	Adv
+26	skončila	VpQW---XR-AA---	Adv
+27	.	Z:-------------	AuxK
+
+ln94211-54-p2s3
+1	Ježek	NNMS1-----A----	Sb
+2	rovněž	Db-------------	Adv
+3	řekl	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	nejlepší	AAMP1----3A----	Atr
+7	pracovníci	NNMP1-----A----	Sb
+8	komisí	NNFP2-----A----	Atr
+9	mohou	VB-P---3P-AA--1	Obj
+10	být	Vf--------A----	AuxV
+11	využiti	VsMP---XX-AP---	Obj
+12	pro	RR--4----------	AuxP
+13	dražby	NNFP4-----A----	Adv
+14	při	RR--6----------	AuxP
+15	velké	AAFS6----1A----	Atr
+16	privatizaci	NNFS6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94211-54-p2s4
+1	Členové	NNMP1-----A----	Sb
+2	výboru	NNIS2-----A----	Atr
+3	rovněž	Db-------------	Adv
+4	schválili	VpMP---XR-AA---	Pred
+5	návrh	NNIS4-----A----	Obj
+6	zákona	NNIS2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	státních	AAFP6----1A----	Atr
+9	zakázkách	NNFP6-----A----	Atr
+10	,	Z:-------------	AuxX
+11	ovšem	J^-------------	Coord
+12	nepodpořili	VpMP---XR-NA---	Pred
+13	návrh	NNIS4-----A----	Obj
+14	poslance	NNMS2-----A----	Atr
+15	Oty	NNMS2-----A----	Atr
+16	Fejfara	NNMS2-----A----	Atr
+17	(	Z:-------------	ExD
+18	ODS	NNFXX-----A---8	ExD
+19	)	Z:-------------	ExD
+20	novelizovat	Vf--------A----	Atr
+21	zákon	NNIS4-----A----	Obj
+22	o	RR--6----------	AuxP
+23	rozpočtových	AANP6----1A----	Atr
+24	pravidlech	NNNP6-----A----	Atr
+25	státu	NNIS2-----A----	Atr
+26	a	J^-------------	Coord
+27	obcí	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94211-54-p2s5
+1	Zatímco	J,-------------	AuxC
+2	dnes	Db-------------	Adv
+3	je	VB-S---3P-AA---	AuxV
+4	výnos	NNIS1-----A----	Sb
+5	daně	NNFS2-----A----	Atr
+6	z	RR--2----------	AuxP
+7	příjmů	NNIP2-----A----	Atr
+8	právnických	AAFP2----1A----	Atr
+9	osob	NNFP2-----A----	Atr
+10	přerozdělován	VsYS---XX-AP---	Adv
+11	centrálně	Dg-------1A----	Adv
+12	,	Z:-------------	AuxX
+13	v	RR--6----------	AuxP
+14	budoucnosti	NNFS6-----A----	Adv
+15	by	Vc-------------	AuxV
+16	jej	PPZS4--3------2	Obj
+17	měly	VpTP---XR-AA---	Pred
+18	podle	RR--2----------	AuxP
+19	Fejfara	NNMS2-----A----	Adv
+20	získávat	Vf--------A----	Obj
+21	přímo	Dg-------1A----	AuxZ
+22	obce	NNFP1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln94211-54-p2s6
+1	Podle	RR--2----------	AuxP
+2	Petra	NNMS2-----A----	Atr
+3	Brodského	NNMS2-----A----	Adv
+4	(	Z:-------------	ExD
+5	ODS	NNFXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	by	Vc-------------	AuxV
+8	tím	PDZS7----------	Adv
+9	však	J^-------------	Coord
+10	mohly	VpTP---XR-AA---	Pred
+11	být	Vf--------A----	AuxV
+12	poškozeny	VsTP---XX-AP---	Obj
+13	obce	NNFP1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	na	RR--6----------	AuxP
+16	jejichž	P1XXXXP3-------	Atr
+17	území	NNNS6-----A----	Adv
+18	není	VB-S---3P-NA---	Atr
+19	žádný	PWYS1----------	Atr
+20	velký	AAMS1----1A----	Atr
+21	podnikatel	NNMS1-----A----	Sb
+22	a	J^-------------	Coord
+23	které	P4FP1----------	Sb
+24	jsou	VB-P---3P-AA---	Atr
+25	na	RR--4----------	AuxP
+26	státní	AANS4----1A----	Atr
+27	přerozdělování	NNNS4-----A----	Obj
+28	odkázány	VsTP---XX-AP---	Pnom
+29	.	Z:-------------	AuxK
+

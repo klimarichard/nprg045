@@ -1,0 +1,422 @@
+lnd94101-103-p1s1A
+1	Fotbalová	AAFS1----1A----	Atr
+2	neděle	NNFS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Atr
+
+lnd94101-103-p1s1B
+1	Spartu	NNFS4-----A----	Obj
+2	čeká	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	Č	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	Budějovicích	NNFP6-----A----	Adv
+7	vyprodaná	AAFS1----1A----	Atr
+8	tribuna	NNFS1-----A----	Sb
+
+lnd94101-103-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94101-103-p1s3
+1	Čtyřiadvacáté	CrNS1----------	Atr
+2	kolo	NNNS1-----A----	Sb
+3	fotbalové	AAFS2----1A----	Atr
+4	ligy	NNFS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	až	TT-------------	AuxZ
+7	na	RR--4----------	AuxP
+8	dnešní	AAIS4----1A----	Atr
+9	televizní	AAIS4----1A----	Atr
+10	zápas	NNIS4-----A----	Adv
+11	Liberec	NNIS1-----A----	Atr
+12	-	Z:-------------	Coord
+13	Cheb	NNIS1-----A----	Atr
+14	odehraje	VB-S---3P-AA---	Pred
+15	celé	AANS1----1A----	Atv
+16	zítra	Db-------------	Adv
+17	a	J^-------------	Coord
+18	Praha	NNFS1-----A----	Sb
+19	uvidí	VB-S---3P-AA---	Pred
+20	hned	Db-------------	AuxZ
+21	tři	ClXP4----------	Atr
+22	zápasy	NNIP4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd94101-103-p1s5
+1	Největší	AAFS7----3A----	Atr
+2	událostí	NNFS7-----A----	Pnom
+3	však	J^-------------	AuxY
+4	bude	VB-S---3F-AA---	Pred
+5	zápas	NNIS1-----A----	Sb
+6	vedoucí	AGFS2-----A----	Atr
+7	Sparty	NNFS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Českých	AAFP6----1A----	Atr
+10	Budějovicích	NNFP6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94101-103-p1s6
+1	Tribuna	NNFS1-----A----	Sb
+2	byla	VpQW---XR-AA---	Pred
+3	vyprodána	VsQW---XX-AP---	Pnom
+4	už	Db-------------	AuxZ
+5	v	RR--4----------	AuxP
+6	pondělí	NNNS4-----A----	Adv
+7	a	J^-------------	Coord
+8	pořadatelé	NNMP1-----A----	Sb
+9	při	RR--6----------	AuxP
+10	pěkném	AANS6----1A----	Atr
+11	počasí	NNNS6-----A----	Adv
+12	očekávají	VB-P---3P-AA---	Pred
+13	na	RR--4----------	AuxP
+14	deset	Cn-S4----------	Atr
+15	tisíc	NNIS4-----A----	Obj
+16	fanoušků	NNMP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd94101-103-p1s7
+1	Č	AAXXX----1A---8	Atr
+2	.	Z:-------------	AuxG
+3	Budějovicím	NNFP3-----A----	Obj
+4	budou	VB-P---3F-AA---	AuxV
+5	chybět	Vf--------A----	Pred
+6	potrestané	AAFP1----1A----	Atr
+7	opory	NNFP1-----A----	Sb
+8	středové	AAFS2----1A----	Atr
+9	řady	NNFS2-----A----	Atr
+10	Poborský	NNMS1-----A----	Atr
+11	a	J^-------------	Coord
+12	Povišer	NNMS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94101-103-p1s8
+1	Ani	J^-------------	AuxZ
+2	Sparta	NNFS1-----A----	Sb
+3	se	P7-X4----------	Obj
+4	nepředstaví	VB-S---3P-NA---	Pred
+5	kompletní	AAFS1----1A----	Atv
+6	.	Z:-------------	AuxK
+
+lnd94101-103-p1s9
+1	Za	RR--4----------	AuxP
+2	karty	NNFP4-----A----	Adv
+3	bude	VB-S---3F-AA---	AuxV
+4	chybět	Vf--------A----	Pred
+5	Novotný	NNMS1-----A----	Sb
+6	a	J^-------------	Coord
+7	o	RR--6----------	AuxP
+8	tom	PDZS6----------	Obj
+9	,	Z:-------------	AuxX
+10	zda	J,-------------	AuxC
+11	nastoupí	VB-S---3P-AA---	Atr
+12	Chovanec	NNMS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	rozhodne	VB-S---3P-AA---	Pred
+15	lékař	NNMS1-----A----	Sb
+16	až	TT-------------	AuxZ
+17	po	RR--6----------	AuxP
+18	dnešním	AAIS6----1A----	Atr
+19	tréninku	NNIS6-----A----	Adv
+20	.	Z:-------------	AuxK
+
+lnd94101-103-p1s10
+1	Na	RR--6----------	AuxP
+2	marodce	NNFS6-----A----	Adv
+3	zůstává	VB-S---3P-AA---	Pred
+4	Horňák	NNMS1-----A----	Sb
+5	,	Z:-------------	Coord
+6	uzdravený	AAMS1----1A----	Atr
+7	Svoboda	NNMS1-----A----	Sb
+8	by	Vc-------------	AuxV
+9	měl	VpYS---XR-AA---	Pred
+10	zatím	Db-------------	Adv
+11	zůstat	Vf--------A----	Obj
+12	jen	TT-------------	AuxZ
+13	na	RR--6----------	AuxP
+14	lavičce	NNFS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+lnd94101-103-p1s11
+1	Na	RR--6----------	AuxP
+2	TV	NNFXX-----A---8	Adv
+3	Nova	NNFS1-----A----	Atr
+4	uvidíme	VB-P---1P-AA---	Pred
+5	souboj	NNIS4-----A----	Obj
+6	dvou	ClXP2----------	Atr
+7	nejlepších	AAMP2----3A----	Atr
+8	nováčků	NNMP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd94101-103-p1s12
+1	Liberec	NNIS1-----A----	Sb
+2	si	P7-X3----------	Adv
+3	sice	Db-------------	AuxY
+4	na	RR--4----------	AuxP
+5	podzim	NNIS4-----A----	Adv
+6	odvezl	VpYS---XR-AA---	Pred
+7	z	RR--2----------	AuxP
+8	Chebu	NNIS2-----A----	Adv
+9	oba	ClYP4----------	Atr
+10	body	NNIP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	Západočeši	NNMP1-----A----	Sb
+14	pod	RR--7----------	AuxP
+15	vedením	NNNS7-----A----	AdvAtr
+16	trenéra	NNMS2-----A----	Atr
+17	Bokši	NNMP1-----A----	Atr
+18	ještě	Db-------------	Adv
+19	neprohráli	VpMP---XR-NA---	Pred
+20	.	Z:-------------	AuxK
+
+lnd94101-103-p1s13
+1	Domácím	AAMP3----1A----	Obj
+2	bude	VB-S---3F-AA---	AuxV
+3	chybět	Vf--------A----	Pred
+4	distancovaný	AAMS1----1A----	Atr
+5	Janáček	NNMS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+lnd94101-103-p1s14
+1	Po	RR--6----------	AuxP
+2	ligovém	AAIS6----1A----	Atr
+3	neúspěchu	NNIS6-----A----	Adv
+4	se	RV--7----------	AuxP
+5	Žižkovem	NNIS7-----A----	Atr
+6	a	J^-------------	Coord
+7	pohárovém	AAIS6----1A----	ExD
+8	na	RR--6----------	AuxP
+9	Slavii	NNFS6-----A----	ExD
+10	se	P7-X4----------	AuxT
+11	chce	VB-S---3P-AA---	Pred
+12	Olomouc	NNFS1-----A----	Sb
+13	Praze	NNFS3-----A----	Obj
+14	pomstít	Vf--------A----	Obj
+15	na	RR--6----------	AuxP
+16	Dukle	NNFS6-----A----	Adv
+17	,	Z:-------------	AuxX
+18	které	P4FS3----------	Obj
+19	bude	VB-S---3F-AA---	AuxV
+20	chybět	Vf--------A----	Atr
+21	nejlepší	AAMS1----3A----	Atr
+22	hráč	NNMS1-----A----	Sb
+23	,	Z:-------------	Apos
+24	útočník	NNMS1-----A----	Atr
+25	Němec	NNMS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+lnd94101-103-p1s15
+1	Zlín	NNIS1-----A----	Sb
+2	přivítá	VB-S---3P-AA---	Pred
+3	Ostravu	NNFS4-----A----	Obj
+4	stále	Dg-------1A----	Adv
+5	bez	RR--2----------	AuxP
+6	Klhůfka	NNMS2-----A----	Adv
+7	,	Z:-------------	AuxX
+8	Dostála	NNMS2-----A----	Adv
+9	a	J^-------------	Coord
+10	Švacha	NNMS2-----A----	Adv
+11	,	Z:-------------	AuxX
+12	ke	RV--3----------	AuxP
+13	kterým	P4XP3----------	Obj
+14	přibudou	VB-P---3P-AA---	Atr
+15	potrestaní	AAMP1----1A----	Atr
+16	Krejčí	NNMS1-----A----	Sb
+17	a	J^-------------	Coord
+18	Klejch	NNMS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+lnd94101-103-p1s16
+1	Baníku	NNIS3-----A----	Obj
+2	bude	VB-S---3F-AA---	AuxV
+3	chybět	Vf--------A----	Pred
+4	znovu	Db-------------	Adv
+5	zraněný	AAMS1----1A----	Atr
+6	Poštulka	NNMS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+lnd94101-103-p1s17
+1	Plzeň	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	která	P4FS1----------	Sb
+4	si	P7-X3----------	Obj
+5	v	RR--4----------	AuxP
+6	úterý	NNNS4-----A----	Adv
+7	v	RR--6----------	AuxP
+8	poháru	NNIS6-----A----	Adv
+9	udělala	VpQW---XR-AA---	Atr
+10	ostudu	NNFS4-----A----	Obj
+11	zařazením	NNNS7-----A----	Adv
+12	osmi	Cn-P2----------	Atr
+13	náhradníků	NNMP2-----A----	Obj
+14	,	Z:-------------	AuxX
+15	přivítá	VB-S---3P-AA---	Pred
+16	Drnovice	NNFP4-----A----	Obj
+17	opět	Db-------------	Adv
+18	v	RR--6----------	AuxP
+19	plné	AAFS6----1A----	Atr
+20	síle	NNFS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+lnd94101-103-p1s18
+1	V	RR--6----------	AuxP
+2	dresu	NNIS6-----A---1	Adv
+3	hostí	NNMP2-----A---1	Atr
+4	se	P7-X4----------	AuxT
+5	zřejmě	Dg-------1A----	AuxY
+6	po	RR--6----------	AuxP
+7	osmiměsíční	AAFS6----1A----	Atr
+8	přestávce	NNFS6-----A----	Adv
+9	objeví	VB-S---3P-AA---	Pred
+10	Baránek	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+lnd94101-103-p1s19
+1	Vítkovice	NNFP1-----A----	Sb
+2	mají	VB-P---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	utkání	NNNS6-----A----	Adv
+5	s	RR--7----------	AuxP
+6	Hradcem	NNIS7-----A----	Atr
+7	zřejmě	Dg-------1A----	AuxZ
+8	poslední	AAFS4----1A----	Atr
+9	příležitost	NNFS4-----A----	Obj
+10	uchovat	Vf--------A----	Atr
+11	si	P7-X3----------	Adv
+12	naději	NNFS4-----A----	Obj
+13	na	RR--4----------	AuxP
+14	záchranu	NNFS4-----A----	Atr
+15	,	Z:-------------	AuxX
+16	chybět	Vf--------A----	Pred
+17	jim	PPXP3--3-------	Obj
+18	však	J^-------------	Coord
+19	budou	VB-P---3F-AA---	AuxV
+20	Kraut	NNMS1-----A----	Sb
+21	(	Z:-------------	ExD
+22	kotník	NNIS1-----A----	ExD
+23	)	Z:-------------	ExD
+24	a	J^-------------	Coord
+25	Basta	NNMS1-----A----	Sb
+26	(	Z:-------------	ExD
+27	třísla	NNNP1-----A----	ExD
+28	)	Z:-------------	ExD
+29	.	Z:-------------	AuxK
+
+lnd94101-103-p1s20
+1	Kolo	NNNS4-----A----	Obj
+2	zítra	Db-------------	Adv
+3	večer	Db-------------	Adv
+4	uzavře	VB-S---3P-AA---	Pred
+5	večerní	AAIS1----1A----	Atr
+6	duel	NNIS1-----A----	Sb
+7	Slavie	NNFS2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	Brnem	NNNS7-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94101-103-p1s21
+1	Vedle	RR--2----------	AuxP
+2	množství	NNNS2-----A----	Adv
+3	zraněných	AAMP2----1A----	Atr
+4	budou	VB-P---3F-AA---	AuxV
+5	domácí	AAMP1----1A----	Sb
+6	postrádat	Vf--------A----	Pred
+7	i	J^-------------	AuxZ
+8	potrestané	AANS4----1A----	Atr
+9	trio	NNNS4-----A----	Obj
+10	Rusnák	NNMS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	Lerch	NNMS1-----A----	Atr
+13	a	J^-------------	Coord
+14	Novotný	NNMS1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	a	J^-------------	Coord
+17	tak	Db-------------	AuxY
+18	opět	Db-------------	Adv
+19	dostanou	VB-P---3P-AA---	Pred
+20	příležitost	NNFS4-----A----	Obj
+21	hráči	NNMP1-----A----	Sb
+22	z	RR--2----------	AuxP
+23	béčka	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+lnd94101-103-p1s22
+1	Hostům	NNMP3-----A----	Obj
+2	bude	VB-S---3F-AA---	AuxV
+3	vedle	RR--2----------	AuxP
+4	dlouhodobě	Dg-------1A----	Adv
+5	zraněných	AAMP2----1A----	Atr
+6	Janšty	NNMS2-----A----	Adv
+7	,	Z:-------------	AuxX
+8	Šmída	NNMS2-----A----	Adv
+9	a	J^-------------	Coord
+10	R	NNMXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	Veselého	NNMS2-----A----	Adv
+13	chybět	Vf--------A----	Pred
+14	i	J^-------------	AuxZ
+15	nejlepší	AAMS1----3A----	Atr
+16	střelec	NNMS1-----A----	Atr
+17	Wagner	NNMS1-----A----	Sb
+18	(	Z:-------------	ExD
+19	čtyři	ClXP1----------	Atr
+20	žluté	AAFP1----1A----	Atr
+21	karty	NNFP1-----A----	ExD
+22	)	Z:-------------	ExD
+23	.	Z:-------------	AuxK
+
+lnd94101-103-p1s23
+1	Program	NNIS1-----A----	ExD
+2	24	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	kola	NNNS2-----A----	Atr
+5	-	Z:-------------	Coord
+6	sobota	NNFS1-----A----	ExD
+7	,	Z:-------------	Coord
+8	14.05	C=-------------	ExD
+9	:	Z:-------------	AuxG
+10	Liberec	NNIS1-----A----	ExD
+11	-	Z:-------------	Coord
+12	Cheb	NNIS1-----A----	ExD
+13	,	Z:-------------	Coord
+14	neděle	NNFS1-----A----	ExD
+15	10.15	C=-------------	ExD
+16	:	Z:-------------	AuxG
+17	Žižkov	NNIS1-----A----	ExD
+18	-	Z:-------------	Coord
+19	Bohemians	NNFSX-----A----	ExD
+20	,	Z:-------------	Coord
+21	15.30	C=-------------	ExD
+22	:	Z:-------------	AuxG
+23	Zlín	NNIS1-----A----	ExD
+24	-	Z:-------------	Coord
+25	Ostrava	NNFS1-----A----	ExD
+26	,	Z:-------------	AuxX
+27	Č	AAXXX----1A---8	Atr
+28	.	Z:-------------	AuxG
+29	Budějovice	NNFP1-----A----	ExD
+30	-	Z:-------------	Coord
+31	Sparta	NNFS1-----A----	ExD
+32	,	Z:-------------	AuxX
+33	Plzeň	NNFS1-----A----	ExD
+34	-	Z:-------------	Coord
+35	Drnovice	NNFP1-----A----	ExD
+36	,	Z:-------------	AuxX
+37	Vítkovice	NNFP1-----A----	ExD
+38	-	Z:-------------	Coord
+39	Hradec	NNIS1-----A----	ExD
+40	Kr	NNFS2-----A---8	Atr
+41	.	Z:-------------	AuxG
+42	,	Z:-------------	Coord
+43	Dukla	NNFS1-----A----	ExD
+44	-	Z:-------------	Coord
+45	Olomouc	NNFS1-----A----	ExD
+46	,	Z:-------------	Coord
+47	18.30	C=-------------	ExD
+48	:	Z:-------------	AuxG
+49	Slavia	NNFS1-----A---1	ExD
+50	-	Z:-------------	Coord
+51	Brno	NNNS1-----A----	ExD
+52	.	Z:-------------	AuxK
+

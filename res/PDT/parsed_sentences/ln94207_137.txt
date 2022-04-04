@@ -1,0 +1,209 @@
+ln94207-137-p1s1
+1	Hlavní	AANS1----1A----	Atr
+2	město	NNNS1-----A----	Sb
+3	potřebuje	VB-S---3P-AA---	Pred
+4	další	AANS4----1A----	Atr
+5	podlaží	NNNS4-----A----	Obj
+
+ln94207-137-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	kva	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94207-137-p2s1B
+1	Pražská	AAFS1----1A----	Atr
+2	ulice	NNFS1-----A----	Sb
+3	Na	RR--6----------	AuxP
+4	Příkopě	NNIS6-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	mít	Vf--------A----	Pred
+7	možná	Db-------------	AuxY
+8	dvě	ClHP4----------	Atr
+9	podlaží	NNNP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94207-137-p2s2
+1	Sdružení	NNNS1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	optimalizaci	NNFS4-----A----	Atr
+4	dopravní	AAFS2----1A----	Atr
+5	obsluhy	NNFS2-----A----	Atr
+6	prověřuje	VB-S---3P-AA---	Pred
+7	eventualitu	NNFS4-----A----	Obj
+8	podtunelování	NNNS2-----A----	Atr
+9	této	PDFS2----------	Atr
+10	komunikace	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	samém	PLZS6----------	Atr
+13	centru	NNNS6-----A----	AtrAtr
+14	metropole	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94207-137-p3s1
+1	Banky	NNFP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4FP1----------	Sb
+4	zde	Db-------------	Adv
+5	sídlí	VB-P---3P-AA---	Atr
+6	,	Z:-------------	AuxX
+7	neodmítají	VB-P---3P-NA---	Pred
+8	údajně	Dg-------1A----	Adv
+9	finanční	AAFS4----1A----	Atr
+10	účast	NNFS4-----A----	Obj
+11	na	RR--6----------	AuxP
+12	takovém	PDZS6----------	Atr
+13	projektu	NNIS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	neboť	J^-------------	Coord
+16	střed	NNIS1-----A----	Sb
+17	města	NNNS2-----A----	Atr
+18	je	VB-S---3P-AA---	Pred
+19	dnes	Db-------------	Adv
+20	přehlcen	VsYS---XX-AP---	Pnom
+21	dopravou	NNFS7-----A----	Obj
+22	a	J^-------------	Coord
+23	využití	NNNS1-----A----	Sb
+24	objektů	NNIP2-----A----	Atr
+25	je	VB-S---3P-AA---	Pred
+26	tak	J^-------------	Adv
+27	omezeno	VsNS---XX-AP---	Pnom
+28	.	Z:-------------	AuxK
+
+ln94207-137-p3s2
+1	Pro	RR--4----------	AuxP
+2	banky	NNFP4-----A----	Adv
+3	by	Vc-------------	AuxV
+4	bylo	VpNS---XR-AA---	Pred
+5	rovněž	Db-------------	Adv
+6	výhodnější	AANS1----2A----	Pnom
+7	manipulovat	Vf--------A----	Sb
+8	s	RR--7----------	AuxP
+9	převáženými	AAIP7----1A----	Atr
+10	penězi	NNIP7-----A----	Obj
+11	pod	RR--7----------	AuxP
+12	zemí	NNFS7-----A----	Adv
+13	než	J,-------------	AuxC
+14	na	RR--6----------	AuxP
+15	povrchu	NNIS6-----A----	ExD
+16	.	Z:-------------	AuxK
+
+ln94207-137-p4s1
+1	V	RR--6----------	AuxP
+2	bezprostředním	AANS6----1A----	Atr
+3	okolí	NNNS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	stejně	Dg-------1A----	Adv
+6	počítá	VB-S---3P-AA---	Pred
+7	s	RR--7----------	AuxP
+8	výstavbou	NNFS7-----A----	Obj
+9	podzemních	AAFP2----1A----	Atr
+10	garáží	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	například	Db-------------	AuxZ
+13	pod	RR--7----------	AuxP
+14	víceúčelovou	AAFS7----1A----	Atr
+15	budovou	NNFS7-----A----	Atr
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	se	P7-X4----------	AuxR
+19	má	VB-S---3P-AA---	Atr
+20	začít	Vf--------A----	Obj
+21	v	RR--6----------	AuxP
+22	nejbližší	AAFS6----3A----	Atr
+23	době	NNFS6-----A----	Adv
+24	stavět	Vf--------A----	Obj
+25	v	RR--6----------	AuxP
+26	proluce	NNFS6-----A----	Adv
+27	Myslbek	NNMS1-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94207-137-p4s2
+1	Tunel	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	znamenal	VpYS---XR-AA---	Pred
+4	příjezdovou	AAFS4----1A----	Atr
+5	cestu	NNFS4-----A----	Obj
+6	k	RR--3----------	AuxP
+7	nim	P5XP3--3-------	Atr
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	v	RR--6----------	AuxP
+11	případě	NNIS6-----A----	AuxP
+12	jeho	PSXXXZS3-------	Atr
+13	vyústění	NNNS2-----A----	ExD
+14	na	RR--4----------	AuxP
+15	náměstí	NNNS4-----A----	Atr
+16	Republiky	NNFS2-----A----	Atr
+17	i	J^-------------	AuxZ
+18	zvýšení	NNNS4-----A----	ExD
+19	celkové	AAFS2----1A----	Atr
+20	průjezdní	AAFS2----1A----	Atr
+21	kapacity	NNFS2-----A----	Atr
+22	centra	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94207-137-p4s3
+1	O	RR--6----------	AuxP
+2	tunelování	NNNS6-----A----	Obj
+3	se	P7-X4----------	AuxR
+4	uvažuje	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	na	RR--6----------	AuxP
+7	dalším	AANS6----1A----	Atr
+8	místě	NNNS6-----A----	Adv
+9	Prahy	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	a	J^-------------	AuxY
+12	to	PDNS4----------	AuxY
+13	na	RR--6----------	AuxP
+14	nábřeží	NNNS6-----A----	Adv
+15	mezi	RR--7----------	AuxP
+16	Národním	AANS7----1A----	Atr
+17	divadlem	NNNS7-----A----	Atr
+18	a	J^-------------	Coord
+19	Právnickou	AAFS7----1A----	Atr
+20	fakultou	NNFS7-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94207-137-p4s4
+1	Veliká	AAFS1----1A----	Atr
+2	frekvence	NNFS1-----A----	Sb
+3	automobilů	NNIP2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	této	PDFS6----------	Atr
+6	trase	NNFS6-----A----	Atr
+7	protínající	AGFS6-----A----	Atr
+8	pražskou	AAFS4----1A----	Atr
+9	památkovou	AAFS4----1A----	Atr
+10	rezervaci	NNFS4-----A----	Obj
+11	je	VB-S---3P-AA---	Pred
+12	silnou	AAFS7----1A----	Atr
+13	zátěží	NNFS7-----A----	Pnom
+14	pro	RR--4----------	AuxP
+15	životní	AANS4----1A----	Atr
+16	prostředí	NNNS4-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94207-137-p4s5
+1	Komunikace	NNFS1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	úrovni	NNFS6-----A----	AuxP
+4	vltavského	AANS2----1A----	Atr
+5	dna	NNNS2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	nejen	TT-------------	AuxZ
+8	zrychlila	VpQW---XR-AA---	Pred
+9	průjezd	NNIS4-----A----	Obj
+10	Prahou	NNFS7-----A----	Atr
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	pomohla	VpQW---XR-AA---	Pred
+14	by	Vc-------------	AuxV
+15	také	Db-------------	Adv
+16	vrátit	Vf--------A----	Obj
+17	nábřeží	NNNS4-----A----	Obj
+18	chodcům	NNMP3-----A----	Obj
+19	.	Z:-------------	AuxK
+

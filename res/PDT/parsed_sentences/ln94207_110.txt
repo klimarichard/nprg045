@@ -1,0 +1,131 @@
+ln94207-110-p1s1
+1	Z	RR--2----------	AuxP
+2	nových	AAIP2----1A----	Atr
+3	časopisů	NNIP2-----A----	ExD
+
+ln94207-110-p2s1
+1	Revue	NNFS1-----A----	ExD
+2	fotografie	NNFS2-----A----	Atr
+3	2	C=-------------	Atr
+4	/	Z:-------------	AuxG
+5	94	C=-------------	Atr
+6	(	Z:-------------	AuxG
+7	vydavatel	NNMS1-----A----	Atr
+8	Pavel	NNMS1-----A----	Atr
+9	Pechatý	NNMS1-----A----	ExD
+10	,	Z:-------------	AuxX
+11	64	C=-------------	ExD
+12	stran	NNFP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	cena	NNFS1-----A----	ExD
+15	40	C=-------------	ExD
+16	korun	NNFP2-----A----	Atr
+17	)	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+ln94207-110-p3s1
+1	Téma	NNNS4-----A----	Obj
+2	druhého	CrNS2----------	Atr
+3	čísla	NNNS2-----A----	Atr
+4	Revue	NNFS2-----A----	Atr
+5	fotografie	NNFS2-----A----	Atr
+6	(	Z:-------------	AuxG
+7	vychází	VB-S---3P-AA---	Atr
+8	šestkrát	Cv-------------	Adv
+9	ročně	Dg-------1A----	Adv
+10	)	Z:-------------	AuxG
+11	předznamenává	VB-S---3P-AA---	Pred
+12	úvodní	AAIS1----1A----	Atr
+13	článek	NNIS1-----A----	Sb
+14	Zkoumání	NNNS1-----A----	Atr
+15	možného	AANS2----1A----	Atr
+16	o	RR--6----------	AuxP
+17	žurnalistické	AAFS6----1A----	Atr
+18	fotografii	NNFS6-----A----	AtrAtr
+19	.	Z:-------------	AuxK
+
+ln94207-110-p3s2
+1	V	RR--6----------	AuxP
+2	rubrice	NNFS6-----A----	Adv
+3	Výstava	NNFS1-----A----	Atr
+4	představuje	VB-S---3P-AA---	Pred
+5	časopis	NNIS1-----A----	Obj
+6	maďarského	AAMS4----1A----	Atr
+7	fotografa	NNMS4-----A----	Atr
+8	André	NNMSX-----A----	Atr
+9	Kertésze	NNMS4-----A----	Atr
+10	,	Z:-------------	Apos
+11	pionýra	NNMS4-----A----	Atr
+12	žurnalistické	AAFS2----1A----	Atr
+13	fotografie	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94207-110-p3s3
+1	V	RR--6----------	AuxP
+2	Galerii	NNFS6-----A----	Adv
+3	zaujal	VpYS---XR-AA---	Pred
+4	místo	NNNS4-----A----	Obj
+5	Lubomír	NNMS1-----A----	Atr
+6	Kotek	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	donedávna	Db-------------	Adv
+10	působil	VpYS---XR-AA---	Atr
+11	také	Db-------------	Adv
+12	v	RR--6----------	AuxP
+13	Lidových	AAFP6----1A----	Atr
+14	novinách	NNFP6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94207-110-p3s4
+1	S	RR--7----------	AuxP
+2	Danou	NNFS7-----A----	Atr
+3	Kyndrovou	NNFS7-----A----	Obj
+4	,	Z:-------------	Apos
+5	autorkou	NNFS7-----A----	Obj
+6	sociální	AAFS2----1A----	Atr
+7	fotografie	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	hovoří	VB-S---3P-AA---	Pred
+10	Karel	NNMS1-----A----	Atr
+11	Oujezdský	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94207-110-p3s5
+1	V	RR--6----------	AuxP
+2	technické	AAFS6----1A----	Atr
+3	části	NNFS6-----A----	Adv
+4	magazínu	NNIS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	mimo	RR--4----------	AuxP
+7	jiné	AANS4----1A----	Adv
+8	anketa	NNFS1-----A----	Sb
+9	o	RR--6----------	AuxP
+10	tom	PDZS6----------	Atr
+11	,	Z:-------------	AuxX
+12	s	RR--7----------	AuxP
+13	jakým	P4ZS7----------	Atr
+14	technickým	AANS7----1A----	Atr
+15	vybavením	NNNS7-----A----	Adv
+16	se	P7-X4----------	AuxR
+17	fotografuje	VB-S---3P-AA---	Atr
+18	v	RR--6----------	AuxP
+19	našem	PSZS6-P1-------	Atr
+20	tisku	NNIS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln94207-110-p3s6
+1	Nechybí	VB-S---3P-NA---	Pred
+2	ani	J^-------------	AuxZ
+3	pohled	NNIS1-----A----	Sb
+4	do	RR--2----------	AuxP
+5	historie	NNFS2-----A----	Atr
+6	fotografického	AANS2----1A----	Atr
+7	média	NNNS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94207-110-p3s7
+1	(	Z:-------------	ExD
+2	lin	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

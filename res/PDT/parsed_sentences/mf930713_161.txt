@@ -1,0 +1,425 @@
+mf930713-161-p1s1
+1	Syn	NNMS1-----A----	Sb
+2	ředitele	NNMS2-----A----	Atr
+3	Městské	AAFS2----1A----	Atr
+4	policie	NNFS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Ostravě	NNFS6-----A----	Atr
+7	prodává	VB-S---3P-AA---	Pred
+8	"	Z:-------------	AuxG
+9	pirátské	AAFP4----1A----	Atr
+10	"	Z:-------------	AuxG
+11	kazety	NNFP4-----A----	Obj
+
+mf930713-161-p2s1A
+1	Ostrava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930713-161-p2s1B
+1	Syn	NNMS1-----A----	Atr
+2	ředitele	NNMS2-----A----	Atr
+3	Městské	AAFS2----1A----	Atr
+4	policie	NNFS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Ostravě	NNFS6-----A----	Atr
+7	Karla	NNMS2-----A----	Atr
+8	Kose	NNMS2-----A----	Atr
+9	Petr	NNMS1-----A----	Sb
+10	prodává	VB-S---3P-AA---	Pred
+11	v	RR--6----------	AuxP
+12	centru	NNNS6-----A----	Adv
+13	města	NNNS2-----A----	Atr
+14	na	RR--6----------	AuxP
+15	Masarykově	AUNS6M---------	Atr
+16	náměstí	NNNS6-----A----	Adv
+17	"	Z:-------------	AuxG
+18	pirátské	AAFP4----1A----	Atr
+19	"	Z:-------------	AuxG
+20	magnetofonové	AAFP4----1A----	Atr
+21	kazety	NNFP4-----A----	Obj
+22	s	RR--7----------	AuxP
+23	nahrávkami	NNFP7-----A----	Atr
+24	světových	AAFP2----1A----	Atr
+25	hvězd	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+mf930713-161-p2s2
+1	"	Z:-------------	AuxG
+2	Když	J,-------------	AuxC
+3	jsem	VB-S---1P-AA---	AuxV
+4	za	RR--7----------	AuxP
+5	ním	P5ZS7--3-------	Adv
+6	zašel	VpYS---XR-AA---	Adv
+7	s	RR--7----------	AuxP
+8	tím	PDZS7----------	Adv
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	přestal	VpYS---XR-AA---	Atr
+12	pirátské	AAFP4----1A----	Atr
+13	kazety	NNFP4-----A----	Obj
+14	prodávat	Vf--------A----	Obj
+15	,	Z:-------------	AuxX
+16	řekl	VpYS---XR-AA---	Adv
+17	mi	PH-S3--1-------	Obj
+18	,	Z:-------------	AuxX
+19	že	J,-------------	AuxC
+20	doprodá	VB-S---3P-AA---	Obj
+21	zbytek	NNIS4-----A----	Obj
+22	zboží	NNNS2-----A----	Atr
+23	a	J^-------------	Coord
+24	nechá	VB-S---3P-AA---	Obj
+25	toho	PDZS2----------	Obj
+26	,	Z:-------------	AuxX
+27	"	Z:-------------	AuxG
+28	zlobí	VB-S---3P-AA---	Pred
+29	se	P7-X4----------	AuxT
+30	spolumajitel	NNMS1-----A----	Atr
+31	obchodu	NNIS2-----A----	Atr
+32	Music	AAXXX----1A----	Atr
+33	Forum	NNNS1-----A----	Atr
+34	Dalibor	NNMS1-----A----	Atr
+35	Ondruch	NNMS1-----A----	Sb
+36	.	Z:-------------	AuxK
+
+mf930713-161-p2s3
+1	Jeho	PSXXXZS3-------	Atr
+2	prodejna	NNFS1-----A----	Sb
+3	stojí	VB-S---3P-AA---	Pred
+4	několik	Ca--4----------	Adv
+5	desítek	NNFP2-----A----	Atr
+6	metrů	NNIP2-----A----	Atr
+7	od	RR--2----------	AuxP
+8	stolku	NNIS2-----A----	Atr
+9	Petra	NNMS2-----A----	Atr
+10	Kose	NNMS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930713-161-p2s4
+1	"	Z:-------------	AuxG
+2	Spolu	Db-------------	AuxP
+3	s	RR--7----------	AuxP
+4	dalšími	AAMP7----1A----	Atr
+5	obchodníky	NNMP7-----A----	Adv
+6	prodáváme	VB-P---1P-AA---	Pred
+7	poctivě	Dg-------1A----	Adv
+8	jen	TT-------------	Atr
+9	originály	NNIP4-----A----	Obj
+10	,	Z:-------------	Coord
+11	odvádíme	VB-P---1P-AA---	Pred
+12	daně	NNFP4-----A----	Obj
+13	a	J^-------------	Coord
+14	on	PPYS1--3-------	Sb
+15	se	P7-X4----------	AuxT
+16	nám	PP-P3--1-------	Obj
+17	na	RR--6----------	AuxP
+18	ulici	NNFS6-----A----	Adv
+19	směje	VB-S---3P-AA---	Pred
+20	.	Z:-------------	AuxK
+21	"	Z:-------------	AuxG
+
+mf930713-161-p2s5
+1	Když	J,-------------	AuxC
+2	Petr	NNMS1-----A----	Atr
+3	Kos	NNMS1-----A----	Sb
+4	nabízel	VpYS---XR-AA---	Adv
+5	magnetofonové	AAIP4----1A----	Atr
+6	duplikáty	NNIP4-----A----	Obj
+7	dále	Db------------1	Adv
+8	,	Z:-------------	AuxX
+9	zašel	VpYS---XR-AA---	Pred
+10	Dalibor	NNMS1-----A----	Atr
+11	Ondruch	NNMS1-----A----	Sb
+12	na	RR--4----------	AuxP
+13	stanici	NNFS4-----A----	Adv
+14	městské	AAFS2----1A----	Atr
+15	policie	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	před	RR--7----------	AuxP
+18	kterou	P4FS7----------	Adv
+19	ředitelův	AUMS1M---------	Atr
+20	syn	NNMS1-----A----	Sb
+21	prodává	VB-S---3P-AA---	Atr
+22	.	Z:-------------	AuxK
+
+mf930713-161-p2s6
+1	Strážníci	NNMP1-----A----	Sb
+2	za	RR--7----------	AuxP
+3	pouličním	AAMS7----1A----	Atr
+4	prodavačem	NNMS7-----A----	Adv
+5	zašli	VpMP---XR-AA---	Pred
+6	,	Z:-------------	Coord
+7	zjistili	VpMP---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	povolení	NNNS4-----A----	Obj
+11	k	RR--3----------	AuxP
+12	pouličnímu	AAIS3----1A----	Atr
+13	prodeji	NNIS3-----A----	Atr
+14	od	RR--2----------	AuxP
+15	magistrátu	NNIS2-----A----	AtrAdv
+16	má	VB-S---3P-AA---	Obj
+17	,	Z:-------------	Coord
+18	dodací	AAIP1----1A----	Atr
+19	doklady	NNIP1-----A----	Sb
+20	od	RR--2----------	AuxP
+21	firmy	NNFS2-----A----	Atr
+22	Carmen	NNFXX-----A----	Atr
+23	,	Z:-------------	AuxX
+24	jejíž	P1XP4FS3-------	Atr
+25	výrobky	NNIP4-----A----	Obj
+26	oficiálně	Dg-------1A----	Adv
+27	prodává	VB-S---3P-AA---	Atr
+28	,	Z:-------------	AuxX
+29	byly	VpTP---XR-AA---	Obj
+30	také	Db-------------	Adv
+31	v	RR--6----------	AuxP
+32	pořádku	NNIS6-----A----	Adv
+33	.	Z:-------------	AuxK
+
+mf930713-161-p2s7
+1	To	PDNS1----------	Sb
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	prodává	VB-S---3P-AA---	Atr
+5	"	Z:-------------	AuxG
+6	černé	AAFP4----1A----	Atr
+7	"	Z:-------------	AuxG
+8	kazety	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	prý	TT-------------	AuxY
+11	není	VB-S---3P-NA---	Pred
+12	v	RR--6----------	AuxP
+13	jejich	PSXXXXP3-------	Atr
+14	kompetenci	NNFS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+mf930713-161-p2s8
+1	Dalibor	NNMS1-----A----	Atr
+2	Ondruch	NNMS1-----A----	Sb
+3	tedy	Db-------------	AuxY
+4	navštívil	VpYS---XR-AA---	Pred
+5	okrsek	NNIS4-----A----	Obj
+6	české	AAFS2----1A----	Atr
+7	policie	NNFS2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	nedaleké	AAFS6----1N----	Atr
+10	Masné	AAFS6----1A----	Atr
+11	ulici	NNFS6-----A----	AtrAtr
+12	.	Z:-------------	AuxK
+
+mf930713-161-p2s9
+1	Sloužící	AGMS1-----A----	Atr
+2	nadporučík	NNMS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	nad	RR--7----------	AuxP
+5	stížností	NNFS7-----A----	Obj
+6	jen	TT-------------	AuxZ
+7	pousmál	VpYS---XR-AA---	Pred
+8	.	Z:-------------	AuxK
+
+mf930713-161-p2s10
+1	"	Z:-------------	AuxG
+2	To	PDNS4----------	Obj
+3	máte	VB-P---2P-AA---	Pred
+4	těžké	AANS4----1A----	Atv
+5	,	Z:-------------	Coord
+6	mladému	NNMS3-----A----	Obj
+7	to	PDNS4----------	Obj
+8	beztak	Db-------------	Adv
+9	"	Z:-------------	AuxG
+10	obšlápnul	VpYS---XR-AA---	Pred
+11	"	Z:-------------	AuxG
+12	táta	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+14	"	Z:-------------	AuxG
+
+mf930713-161-p2s11
+1	V	RR--6----------	AuxP
+2	Ostravě	NNFS6-----A----	Adv
+3	dnes	Db-------------	Adv
+4	téměř	Db-------------	AuxZ
+5	nepotkáte	VB-P---2P-NA---	Pred
+6	prodejce	NNMS4-----A----	Obj
+7	pirátských	AAFP2----1A----	Atr
+8	nahrávek	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf930713-161-p2s12
+1	Četné	AAIP1----1A----	Atr
+2	zátahy	NNIP1-----A----	Sb
+3	policistů	NNMP2-----A----	Atr
+4	jim	PPXP3--3-------	Obj
+5	nahnaly	VpTP---XR-AA---	Pred
+6	hrůzu	NNFS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+mf930713-161-p2s13
+1	Dokonce	Db-------------	AuxZ
+2	ani	J^-------------	AuxZ
+3	na	RR--6----------	AuxP
+4	tzv	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	velké	AAFS6----1A----	Atr
+7	burze	NNFS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	byla	VpQW---XR-AA---	Atr
+11	donedávna	Db-------------	Adv
+12	těmito	PDXP7----------	Atr
+13	výrobky	NNIP7-----A----	Obj
+14	přesycena	VsQW---XX-AP---	Pnom
+15	,	Z:-------------	AuxX
+16	"	Z:-------------	AuxG
+17	černou	AAFS4----1A----	Atr
+18	"	Z:-------------	AuxG
+19	kazetu	NNFS4-----A----	Obj
+20	nekoupíte	VB-P---2P-NA---	Pred
+21	.	Z:-------------	AuxK
+
+mf930713-161-p2s14
+1	Kolegyně	NNFS1-----A----	Sb
+2	Dalibora	NNMS2-----A----	Atr
+3	Ondrucha	NNMS2-----A----	Atr
+4	z	RR--2----------	AuxP
+5	Nového	AAIS2----1A----	Atr
+6	Jičína	NNIS2-----A----	Atr
+7	dostala	VpQW---XR-AA---	Pred
+8	za	RR--4----------	AuxP
+9	prodej	NNIS4-----A----	Obj
+10	"	Z:-------------	AuxG
+11	pirátských	AAFP2----1A----	Atr
+12	"	Z:-------------	AuxG
+13	kazet	NNFP2-----A----	Atr
+14	pokutu	NNFS4-----A----	Obj
+15	15	C=-------------	Atr
+16	tisíc	ClXS2----------	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf930713-161-p2s15
+1	Obchodník	NNMS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	Rožnova	NNIS2-----A----	Atr
+4	pod	RR--7----------	AuxP
+5	Radhoštěm	NNIS7-----A----	Atr
+6	skončil	VpYS---XR-AA---	Pred
+7	ze	RV--2----------	AuxP
+8	stejného	AAIS2----1A----	Atr
+9	důvodu	NNIS2-----A----	Adv
+10	u	RR--2----------	AuxP
+11	soudu	NNIS2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+mf930713-161-p2s16
+1	"	Z:-------------	AuxG
+2	Nám	PP-P3--1-------	Obj
+3	překupníci	NNMP1-----A----	Sb
+4	polské	AAFP4----1A----	Atr
+5	kazety	NNFP4-----A----	Obj
+6	nabízejí	VB-P---3P-AA---	Pred
+7	taky	Db-------------	Adv
+8	,	Z:-------------	AuxX
+9	za	RR--4----------	AuxP
+10	15	C=-------------	Adv
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf930713-161-p2s17
+1	Strach	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	nám	PP-P3--1-------	Obj
+4	i	J^-------------	Coord
+5	jiným	AAMP3----1A----	Atr
+6	obchodníkům	NNMP3-----A----	Obj
+7	ve	RV--6----------	AuxP
+8	městě	NNNS6-----A----	Atr
+9	ale	J^-------------	Coord
+10	nedovolil	VpYS---XR-NA---	Pred
+11	dát	Vf--------A----	Obj
+12	je	PPXP4--3-------	Obj
+13	na	RR--4----------	AuxP
+14	pulty	NNIP4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+mf930713-161-p2s18
+1	Mladý	AAMS1----1A----	Atr
+2	Kos	NNMS1-----A----	Sb
+3	je	PPXP4--3-------	Obj
+4	prodává	VB-S---3P-AA---	Pred
+5	za	RR--4----------	AuxP
+6	osm	Cn-S4----------	Adv
+7	pětek	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930713-161-p2s19
+1	Samozřejmě	Dg-------1A----	AuxY
+2	je	VB-S---3P-AA---	Pred
+3	u	RR--2----------	AuxP
+4	něj	P5ZS2--3-------	Adv
+5	pořád	Db-------------	Adv
+6	plno	Db-------------	Pnom
+7	.	Z:-------------	AuxK
+
+mf930713-161-p2s20
+1	Originální	AAFP1----1A----	Atr
+2	kazety	NNFP1-----A----	Sb
+3	stojí	VB-P---3P-AA---	Obj
+4	až	TT-------------	AuxZ
+5	220	C=-------------	Obj
+6	,	Z:-------------	AuxX
+7	"	Z:-------------	AuxG
+8	říká	VB-S---3P-AA---	Pred
+9	Dalibor	NNMS1-----A----	Atr
+10	Ondruch	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+mf930713-161-p2s21
+1	"	Z:-------------	AuxG
+2	To	PDNS1----------	Sb
+3	jsou	VB-P---3P-AA---	ExD
+4	duplikáty	NNIP1-----A----	Pnom
+5	dělané	AAIP1----1A----	Atr
+6	v	RR--6----------	AuxP
+7	Polsku	NNNS6-----A----	Adv
+8	,	Z:-------------	Coord
+9	"	Z:-------------	AuxG
+10	směje	VB-S---3P-AA---	Pred
+11	se	P7-X4----------	AuxT
+12	na	RR--4----------	AuxP
+13	nás	PP-P4--1-------	Adv
+14	Petr	NNMS1-----A----	Atr
+15	Kos	NNMS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	když	J,-------------	AuxC
+18	si	P7-X3----------	Obj
+19	od	RR--2----------	AuxP
+20	něj	P5ZS2--3-------	Adv
+21	chceme	VB-P---1P-AA---	Adv
+22	koupit	Vf--------A----	Obj
+23	kazetu	NNFS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+mf930713-161-p2s22
+1	Na	RR--4----------	AuxP
+2	dotaz	NNIS4-----A----	Adv
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	nebojí	VB-S---3P-NA---	Atr
+7	prodávat	Vf--------A----	Obj
+8	pirátské	AAFP4----1A----	Atr
+9	nahrávky	NNFP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	nám	PP-P3--1-------	Obj
+12	řekl	VpYS---XR-AA---	Pred
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	ne	TT-------------	ExD
+16	,	Z:-------------	Coord
+17	že	J,-------------	AuxC
+18	má	VB-S---3P-AA---	Obj
+19	na	RR--4----------	AuxP
+20	všechno	PLNS4----------	AdvAtr
+21	papíry	NNIP4-----A----	Obj
+22	.	Z:-------------	AuxK
+

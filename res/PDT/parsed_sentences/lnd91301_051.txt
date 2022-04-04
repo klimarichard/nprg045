@@ -1,0 +1,147 @@
+lnd91301-051-p1s1
+1	Za	RR--4----------	AuxP
+2	žádnou	PWFS4----------	Atr
+3	Velkou	AAFS4----1A----	Atr
+4	cenu	NNFS4-----A----	ExD
+
+lnd91301-051-p2s1
+1	Rada	NNFS1-----A----	Sb
+2	města	NNNS2-----A----	Atr
+3	Brna	NNNS2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	svém	P8ZS6----------	Atr
+6	42	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	zasedání	NNNS6-----A----	Adv
+9	projednala	VpQW---XR-AA---	Pred
+10	privatizační	AAIS4----1A----	Atr
+11	projekt	NNIS4-----A----	Obj
+12	areálu	NNIS2-----A----	Atr
+13	Velké	AAFS2----1A----	Atr
+14	ceny	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	jejímž	P1ZS7FS3-------	Atr
+17	provozovatelem	NNMS7-----A----	Pnom
+18	je	VB-S---3P-AA---	Atr
+19	Automotoklub	NNIS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+lnd91301-051-p2s2
+1	Po	RR--6----------	AuxP
+2	důkladné	AAFS6----1A----	Atr
+3	diskusi	NNFS6-----A----	Adv
+4	rada	NNFS1-----A----	Sb
+5	propásla	VpQW---XR-AA---	Pred
+6	zákonnou	AAFS4----1A----	Atr
+7	možnost	NNFS4-----A----	Obj
+8	požádat	Vf--------A----	Atr
+9	o	RR--4----------	AuxP
+10	pozemky	NNIP4-----A----	Obj
+11	ve	RV--6----------	AuxP
+12	vlastnictví	NNNS6-----A----	Atr
+13	státu	NNIS2-----A----	Atr
+14	(	Z:-------------	ExD
+15	většina	NNFS1-----A----	ExD
+16	areálu	NNIS2-----A----	Atr
+17	)	Z:-------------	ExD
+18	a	J^-------------	Coord
+19	převést	Vf--------A----	Atr
+20	je	PPXP4--3-------	Obj
+21	do	RR--2----------	AuxP
+22	vlastnictví	NNNS2-----A----	Adv
+23	obce	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+lnd91301-051-p2s3
+1	Automotoklub	NNIS1-----A----	Sb
+2	tak	Db-------------	Adv
+3	dostal	VpYS---XR-AA---	Pred
+4	šanci	NNFS4-----A----	Obj
+5	vykoupit	Vf--------A----	Atr
+6	-	Z:-------------	ExD
+7	městu	NNNS3-----A----	Adv
+8	před	RR--7----------	AuxP
+9	nosem	NNIS7-----A----	Adv
+10	-	Z:-------------	ExD
+11	všechny	PLYP4----------	Atr
+12	pozemky	NNIP4-----A----	Obj
+13	Grand	NNMS1-----A----	Atr
+14	Prix	NNFXX-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd91301-051-p3s1
+1	Tato	PDFS1----------	Atr
+2	skutečnost	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	rozporu	NNIS6-----A----	Adv
+6	s	RR--7----------	AuxP
+7	rozhodnutím	NNNS7-----A----	Atr
+8	pléna	NNNS2-----A----	Atr
+9	NVmB	NNIXX-----A---8	Atr
+10	z	RR--2----------	AuxP
+11	listopadu	NNIS2-----A----	Atr
+12	1990	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	které	P4NS1----------	Sb
+15	městu	NNNS3-----A----	Obj
+16	ukládá	VB-S---3P-AA---	Atr
+17	prověřit	Vf--------A----	Obj
+18	majetkoprávní	AAIP4----1A----	Atr
+19	vztahy	NNIP4-----A----	Obj
+20	v	RR--6----------	AuxP
+21	areálu	NNIS6-----A---1	Atr
+22	AMK	NNIXX-----A---8	Atr
+23	a	J^-------------	Coord
+24	zajistit	Vf--------A----	Obj
+25	co	Db-------------	Adv
+26	největší	AAIS4----3A----	Atr
+27	vliv	NNIS4-----A----	Obj
+28	Brna	NNNS2-----A----	Atr
+29	na	RR--4----------	AuxP
+30	jeho	PSXXXZS3-------	Atr
+31	provoz	NNIS4-----A----	Atr
+32	.	Z:-------------	AuxK
+
+lnd91301-051-p3s2
+1	Stavební	AANS1----1A----	Atr
+2	povolení	NNNS1-----A----	Sb
+3	ukládá	VB-S---3P-AA---	Pred
+4	dodržovat	Vf--------A----	Obj
+5	hladinu	NNFS4-----A----	Obj
+6	hluku	NNIS2-----A----	Atr
+7	65	C=-------------	Atr
+8	decibelů	NNIP2-----A----	Atr
+9	na	RR--6----------	AuxP
+10	hranicích	NNFP6-----A----	Adv
+11	areálu	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd91301-051-p3s3
+1	Tato	PDFS1----------	Atr
+2	hladina	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	AuxV
+4	překračována	VsQW---XX-AP---	Pred
+5	prakticky	Dg-------1A----	Adv
+6	při	RR--6----------	AuxP
+7	každém	AAIS6----1A----	Atr
+8	závodě	NNIS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+lnd91301-051-p3s4
+1	Jak	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	možné	AANS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	městský	AAMS1----1A----	Atr
+7	hygienik	NNMS1-----A----	Sb
+8	toto	PDNS4----------	Atr
+9	překračování	NNNS4-----A----	Obj
+10	toleruje	VB-S---3P-AA---	Sb
+11	?	Z:-------------	AuxK
+
+lnd91301-051-p4s1
+1	MOJMÍR	NNMS1-----A----	Atr
+2	VLAŠÍN	NNMS1-----A----	ExD
+

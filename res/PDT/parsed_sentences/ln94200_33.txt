@@ -1,0 +1,118 @@
+ln94200-33-p1s1
+1	Informační	AANS1----1A----	Atr
+2	středisko	NNNS1-----A----	Sb
+3	podpoří	VB-S---3P-AA---	Pred
+4	export	NNIS4-----A----	Obj
+
+ln94200-33-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94200-33-p2s1B
+1	Při	RR--6----------	AuxP
+2	obchodní	AAFS6----1A----	Atr
+3	divizi	NNFS6-----A----	Adv
+4	Ministerstva	NNNS2-----A----	Atr
+5	průmyslu	NNIS2-----A----	Atr
+6	a	J^-------------	Coord
+7	obchodu	NNIS2-----A----	Atr
+8	ČR	NNFXX-----A---8	Atr
+9	bylo	VpNS---XR-AA---	AuxV
+10	zřízeno	VsNS---XX-AP---	Pred
+11	informační	AANS1----1A----	Atr
+12	centrum	NNNS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94200-33-p2s2
+1	Zaměří	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	na	RR--4----------	AuxP
+4	zjišťování	NNNS4-----A----	Adv
+5	a	J^-------------	Coord
+6	poskytování	NNNS4-----A----	Adv
+7	informačních	AAFP2----1A----	Atr
+8	služeb	NNFP2-----A----	Atr
+9	teritoriálního	AAIS2----1A----	Atr
+10	a	J^-------------	Coord
+11	komoditního	AAIS2----1A----	Atr
+12	charakteru	NNIS2-----A----	Atr
+13	z	RR--2----------	AuxP
+14	oblasti	NNFS2-----A----	Atr
+15	obchodní	AAFS2----1A----	Atr
+16	i	J^-------------	Coord
+17	legislativní	AAFS2----1A----	Atr
+18	,	Z:-------------	AuxX
+19	a	J^-------------	AuxY
+20	to	PDNS4----------	AuxY
+21	jak	Db-------------	AuxY
+22	tuzemské	AAFS2----1A----	Atr
+23	,	Z:-------------	AuxX
+24	tak	Db-------------	Coord
+25	zahraniční	AAFS2----1A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94200-33-p3s1
+1	Centrum	NNNS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	shromažďovat	Vf--------A----	Pred
+4	a	J^-------------	Coord
+5	distribuovat	Vf--------A----	Pred
+6	informace	NNFP4-----A----	Obj
+7	o	RR--6----------	AuxP
+8	tendrech	NNIP6-----A----	Atr
+9	a	J^-------------	Coord
+10	státních	AAFP6----1A----	Atr
+11	zakázkách	NNFP6-----A----	Atr
+12	doma	Db-------------	Atr
+13	i	J^-------------	Coord
+14	v	RR--6----------	AuxP
+15	zahraničí	NNNS6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94200-33-p3s2
+1	V	RR--6----------	AuxP
+2	této	PDFS6----------	Atr
+3	oblasti	NNFS6-----A----	Adv
+4	již	Db-------------	AuxY
+5	ministerstvo	NNNS1-----A----	Sb
+6	navázalo	VpNS---XR-AA---	Pred
+7	potřebné	AAIP4----1A----	Atr
+8	kontakty	NNIP4-----A----	Obj
+9	s	RR--7----------	AuxP
+10	hlavními	AAFP7----1A----	Atr
+11	institucemi	NNFP7-----A----	AtrObj
+12	rozvojového	AAIS2----1A----	Atr
+13	charakteru	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	jako	J,-------------	AuxC
+16	je	VB-S---3P-AA---	Atr
+17	např	Db------------8	AuxZ
+18	.	Z:-------------	AuxG
+19	Evropská	AAFS1----1A----	Atr
+20	banka	NNFS1-----A----	Sb
+21	pro	RR--4----------	AuxP
+22	obnovu	NNFS4-----A----	Atr
+23	a	J^-------------	Coord
+24	rozvoj	NNIS4-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94200-33-p3s3
+1	Ministerstvo	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	ve	RV--6----------	AuxP
+4	vybraných	AAIP6----1A----	Atr
+5	případech	NNIP6-----A----	Adv
+6	hodlá	VB-S---3P-AA---	Pred
+7	podílet	Vf--------A----	Obj
+8	také	Db-------------	AuxZ
+9	na	RR--6----------	AuxP
+10	činnosti	NNFS6-----A----	Obj
+11	českých	AANP2----1A----	Atr
+12	center	NNNP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	která	P4NP4----------	Obj
+15	zřizuje	VB-S---3P-AA---	Atr
+16	ministerstvo	NNNS1-----A----	Sb
+17	zahraničí	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+

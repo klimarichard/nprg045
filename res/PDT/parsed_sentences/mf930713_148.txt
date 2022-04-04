@@ -1,0 +1,306 @@
+mf930713-148-p1s1
+1	Estonsko	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	zákon	NNIS1-----A----	Sb
+4	o	RR--6----------	AuxP
+5	cizincích	NNMP6-----A----	Atr
+6	podepsán	VsYS---XX-AP---	Pred
+
+mf930713-148-p2s1A
+1	Tallinn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930713-148-p2s1B
+1	Estonský	AAMS1----1A----	Atr
+2	prezident	NNMS1-----A----	Atr
+3	Lennart	NNMS1-----A----	Atr
+4	Meri	NNMS1-----A----	Sb
+5	včera	Db-------------	Adv
+6	podepsal	VpYS---XR-AA---	Pred
+7	zákon	NNIS4-----A----	Obj
+8	o	RR--6----------	AuxP
+9	cizincích	NNMP6-----A----	Atr
+10	,	Z:-------------	AuxX
+11	jehož	P1XXXZS3-------	Atr
+12	nedávné	AANS1----1N----	Atr
+13	schválení	NNNS1-----A----	Sb
+14	parlamentem	NNIS7-----A----	Atr
+15	vyhrotilo	VpNS---XR-AA---	Atr
+16	vztahy	NNIP4-----A----	Obj
+17	mezi	RR--7----------	AuxP
+18	Moskvou	NNFS7-----A----	Atr
+19	a	J^-------------	Coord
+20	Tallinnem	NNIS7-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf930713-148-p2s2
+1	Zákon	NNIS1-----A----	Sb
+2	tak	Db-------------	Adv
+3	vstoupil	VpYS---XR-AA---	Pred
+4	v	RR--4----------	AuxP
+5	platnost	NNFS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+mf930713-148-p3s1
+1	Zákon	NNIS1-----A----	Sb
+2	mimo	RR--4----------	AuxP
+3	jiné	AANS4----1A----	Adv
+4	předpokládá	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	ti	PDMP1----------	Atr
+8	obyvatelé	NNMP1-----A----	Sb
+9	Estonska	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	do	RR--2----------	AuxP
+13	dvou	ClXP2----------	Atr
+14	let	NNNP2-----A----	Adv
+15	nepožádají	VB-P---3P-NA---	Atr
+16	o	RR--4----------	AuxP
+17	státní	AANS4----1A----	Atr
+18	občanství	NNNS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	nebo	J^-------------	Coord
+21	nesplní	VB-P---3P-NA---	Atr
+22	podmínky	NNFP4-----A----	Obj
+23	jeho	PSXXXZS3-------	Atr
+24	nabytí	NNNS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	budou	VB-P---3F-AA---	AuxV
+27	považováni	VsMP---XX-AP---	Obj
+28	za	RR--4----------	AuxP
+29	cizince	NNMP4-----A----	Obj
+30	a	J^-------------	Coord
+31	budou	VB-P---3F-AA---	AuxV
+32	muset	Vf--------A----	Obj
+33	mít	Vf--------A----	Obj
+34	povolení	NNNS4-----A----	Obj
+35	k	RR--3----------	AuxP
+36	pobytu	NNIS3-----A----	Atr
+37	.	Z:-------------	AuxK
+
+mf930713-148-p3s2
+1	Občanství	NNNS4-----A----	Obj
+2	republiky	NNFS2-----A----	Atr
+3	automaticky	Dg-------1A----	Adv
+4	získali	VpMP---XR-AA---	Pred
+5	pouze	Db-------------	AuxZ
+6	ti	PDMP1----------	Atr
+7	obyvatelé	NNMP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	kteří	P4MP1----------	Sb
+10	byli	VpMP---XR-AA---	Atr
+11	občany	NNMP7-----A----	Pnom
+12	nezávislého	AANS2----1N----	Atr
+13	Estonska	NNNS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	roce	NNIS6-----A---1	Adv
+16	1940	C=-------------	Atr
+17	,	Z:-------------	AuxX
+18	a	J^-------------	Coord
+19	jejich	PSXXXXP3-------	Atr
+20	přímí	AAMP1----1A----	Atr
+21	potomci	NNMP1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+mf930713-148-p3s3
+1	Rusové	NNMP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	kteří	P4MP1----------	Sb
+4	přišli	VpMP---XR-AA---	Atr
+5	do	RR--2----------	AuxP
+6	republiky	NNFS2-----A----	Adv
+7	v	RR--6----------	AuxP
+8	50	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	až	J^-------------	Coord
+11	70	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	letech	NNNP6-----A----	Adv
+14	a	J^-------------	Coord
+15	tvoří	VB-P---3P-AA---	Atr
+16	dnes	Db-------------	Adv
+17	třetinu	CyFS4----------	Obj
+18	z	RR--2----------	AuxP
+19	1.6	C=-------------	Atr
+20	milionu	NNIS2-----A----	Atr
+21	obyvatel	NNMS1-----A----	Atr
+22	,	Z:-------------	AuxX
+23	musejí	VB-P---3P-AA---	Pred
+24	tudíž	J^-------------	Adv
+25	o	RR--4----------	AuxP
+26	občanství	NNNS4-----A----	Obj
+27	žádat	Vf--------A----	Obj
+28	.	Z:-------------	AuxK
+
+mf930713-148-p4s1
+1	Prezident	NNMS1-----A----	Atr
+2	Meri	NNMS1-----A----	Sb
+3	na	RR--6----------	AuxP
+4	tiskové	AAFS6----1A----	Atr
+5	konferenci	NNFS6-----A----	Adv
+6	podle	RR--2----------	AuxP
+7	agentury	NNFS2-----A----	Adv
+8	Interfax	NNIS1-----A----	Atr
+9	usoudil	VpYS---XR-AA---	Pred
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	zákon	NNIS1-----A----	Sb
+13	vyhovuje	VB-S---3P-AA---	Obj
+14	evropskému	AAIS3----1A----	Atr
+15	právnímu	AAIS3----1A----	Atr
+16	systému	NNIS3-----A----	Obj
+17	.	Z:-------------	AuxK
+
+mf930713-148-p4s2
+1	Estonsko	NNNS1-----A----	Sb
+2	vychází	VB-S---3P-AA---	Pred
+3	z	RR--2----------	AuxP
+4	principu	NNIS2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	je	VB-S---3P-AA---	Atr
+8	pokračovatelem	NNMS7-----A----	Pnom
+9	předválečné	AAFS2----1A----	Atr
+10	Estonské	AAFS2----1A----	Atr
+11	republiky	NNFS2-----A----	Atr
+12	a	J^-------------	Coord
+13	že	J,-------------	AuxC
+14	50	C=-------------	Sb
+15	let	NNNP2-----A----	Atr
+16	Estonské	AAFS2----1A----	Atr
+17	SSR	NNFXX-----A---8	Atr
+18	bylo	VpNS---XR-AA---	Atr
+19	obdobím	NNNS7-----A----	Pnom
+20	okupace	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf930713-148-p5s1
+1	Rusko	NNNS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	přijetí	NNNS4-----A----	Obj
+4	zákona	NNIS2-----A----	Atr
+5	před	RR--7----------	AuxP
+6	několika	Ca--7----------	Atr
+7	týdny	NNIP7-----A----	Adv
+8	reagovalo	VpNS---XR-AA---	Pred
+9	velmi	Db-------------	Adv
+10	hněvivě	Dg-------1A----	Adv
+11	.	Z:-------------	AuxK
+
+mf930713-148-p5s2
+1	Prezident	NNMS1-----A----	Atr
+2	Jelcin	NNMS1-----A----	Sb
+3	jej	PPZS4--3------2	Obj
+4	označil	VpYS---XR-AA---	Pred
+5	za	RR--4----------	AuxP
+6	diskriminační	AAIS4----1A----	Obj
+7	a	J^-------------	Coord
+8	obvinil	VpYS---XR-AA---	Pred
+9	estonské	AAIP4----1A----	Atr
+10	úřady	NNIP4-----A----	Obj
+11	z	RR--2----------	AuxP
+12	praktik	NNFP2-----A----	Obj
+13	apartheidu	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	segregace	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	etnické	AAFS2----1A----	Atr
+18	očisty	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf930713-148-p5s3
+1	Ruský	AAIS1----1A----	Atr
+2	parlament	NNIS1-----A----	Sb
+3	rozhodl	VpYS---XR-AA--1	Pred
+4	zastavit	Vf--------A----	Obj
+5	stahování	NNNS4-----A----	Obj
+6	zbytků	NNIP2-----A----	Atr
+7	bývalých	AANP2----1A----	Atr
+8	sovětských	AANP2----1A----	Atr
+9	vojsk	NNNP2-----A----	Atr
+10	z	RR--2----------	AuxP
+11	Estonska	NNNS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf930713-148-p6s1
+1	Odborníci	NNMP1-----A----	Sb
+2	KBSE	NNFXX-----A---8	Atr
+3	a	J^-------------	Coord
+4	Rady	NNFS2-----A----	Atr
+5	Evropy	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	na	RR--4----------	AuxP
+8	něž	P9XP4----------	Obj
+9	se	P7-X4----------	AuxT
+10	Tallinn	NNIS1-----A----	Sb
+11	obrátil	VpYS---XR-AA---	Atr
+12	s	RR--7----------	AuxP
+13	žádostí	NNFS7-----A----	Adv
+14	o	RR--4----------	AuxP
+15	expertizu	NNFS4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	dospěli	VpMP---XR-AA---	Pred
+18	k	RR--3----------	AuxP
+19	závěru	NNIS3-----A----	Obj
+20	,	Z:-------------	AuxX
+21	že	J,-------------	AuxC
+22	zákon	NNIS1-----A----	Sb
+23	je	VB-S---3P-AA---	Obj
+24	všeobecně	Dg-------1A----	Adv
+25	v	RR--6----------	AuxP
+26	souladu	NNIS6-----A----	Adv
+27	s	RR--7----------	AuxP
+28	normami	NNFP7-----A----	Atr
+29	dodržování	NNNS2-----A----	Atr
+30	lidských	AANP2----1A----	Atr
+31	práv	NNNP2-----A----	Atr
+32	,	Z:-------------	AuxX
+33	může	VB-S---3P-AA---	Obj
+34	však	J^-------------	Coord
+35	vyvolat	Vf--------A----	Obj
+36	národnostní	AANS4----1A----	Atr
+37	napětí	NNNS4-----A----	Obj
+38	.	Z:-------------	AuxK
+
+mf930713-148-p6s2
+1	Doporučili	VpMP---XR-AA---	Pred
+2	v	RR--6----------	AuxP
+3	něm	P5ZS6--3-------	Adv
+4	některé	PZFP4----------	Atr
+5	změny	NNFP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	o	RR--6----------	AuxP
+8	nichž	P9XP6----------	Obj
+9	minulý	AAIS4----1A----	Atr
+10	týden	NNIS4-----A----	Adv
+11	jednalo	VpNS---XR-AA---	Atr
+12	narychlo	Db-------------	Adv
+13	svolané	AANS1----1A----	Atr
+14	mimořádné	AANS1----1A----	Atr
+15	zasedání	NNNS1-----A----	Sb
+16	Státního	AANS2----1A----	Atr
+17	shromáždění	NNNS2-----A----	Atr
+18	(	Z:-------------	Apos
+19	parlamentu	NNIS2-----A----	Atr
+20	)	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+mf930713-148-p6s3
+1	Úpravy	NNFP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4FP4----------	Obj
+4	schválilo	VpNS---XR-AA---	Atr
+5	,	Z:-------------	AuxX
+6	byly	VpTP---XR-AA---	Pred
+7	jen	TT-------------	AuxZ
+8	kosmetické	AAFP1----1A----	Pnom
+9	a	J^-------------	Coord
+10	na	RR--6----------	AuxP
+11	podstatě	NNFS6-----A----	Adv
+12	zákona	NNIS2-----A----	Atr
+13	nic	PW--4----------	Obj
+14	nezměnily	VpTP---XR-NA---	Pred
+15	.	Z:-------------	AuxK
+

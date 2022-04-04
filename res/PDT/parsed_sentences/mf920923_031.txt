@@ -1,0 +1,81 @@
+mf920923-031-p1s1
+1	R	NNNXX-----A----	Atr
+2	.	Z:-------------	AuxG
+3	V	NNNXX-----A----	ExD
+4	.	Z:-------------	AuxG
+
+mf920923-031-p2s1
+1	HLAVNÍHO	AAMS4----1A----	Atr
+2	ÚČETNÍHO	NNMS4-----A----	ExD
+
+mf920923-031-p3s1
+1	Přenechám	VB-S---1P-AA---	Pred
+2	500	C=-------------	Obj
+3	m	NNIXX-----A---8	Atr
+4	2	C=-------------	Atr
+5	zastavěné	AAFS2----1A----	Atr
+6	plochy	NNFS2-----A----	Atr
+
+mf920923-031-p4s1
+1	Prodám	VB-S---1P-AA---	Pred
+2	býv	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	zem	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	usedlost	NNFS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	Olomouci	NNFS6-----A----	Atr
+9	-	Z:-------------	AuxG
+10	3800	C=-------------	ExD
+11	m	NNIXX-----A---8	Atr
+12	2	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	hosp	AAXXX----1A---8	Atr
+15	.	Z:-------------	AuxG
+16	budovy	NNFP1-----A----	ExD
+17	,	Z:-------------	Coord
+18	ideální	AANS1----1A----	Atr
+19	umístění	NNNS1-----A----	ExD
+20	u	RR--2----------	AuxP
+21	hlavní	AAFS2----1A----	Atr
+22	cesty	NNFS2-----A----	Atr
+23	č	NNNXX-----A---8	Atr
+24	.	Z:-------------	AuxG
+25	55	C=-------------	Atr
+
+mf920923-031-p10s1
+1	Tel	NNIXX-----A---8	ExD
+2	.	Z:-------------	AuxG
+3	:	Z:-------------	AuxG
+4	068	C=-------------	Atr
+5	/	Z:-------------	AuxG
+6	312	C=-------------	Atr
+7	95	C=-------------	Atr
+
+mf920923-031-p12s1
+1	Šance	NNFS1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	podnikatele	NNMP4-----A----	Atr
+4	!	Z:-------------	AuxK
+
+mf920923-031-p15s1
+1	Peněžní	AAIS1----1A----	Atr
+2	ústav	NNIS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	centru	NNNS6-----A----	Atr
+5	Prahy	NNFS2-----A----	Atr
+
+mf920923-031-p16s1
+1	programátory	NNMP4-----A----	ExD
+2	se	RV--7----------	AuxP
+3	znalostmi	NNFP7-----A----	Atr
+4	výpočetní	AAFS2----1A----	Atr
+5	techniky	NNFS2-----A----	Atr
+6	,	Z:-------------	Coord
+7	turbo	AAXXX----1A----	Atr
+8	pascalu	NNIS2-----A----	Atr
+9	a	J^-------------	Coord
+10	částečnou	AAFS7----1A----	Atr
+11	znalostí	NNFS7-----A----	Atr
+12	angličtiny	NNFS2-----A----	Atr
+

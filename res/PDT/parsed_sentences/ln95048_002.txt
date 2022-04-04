@@ -1,0 +1,655 @@
+ln95048-002-p1s1
+1	Projednávání	NNNS1-----A----	Sb
+2	zákona	NNIS2-----A----	Atr
+3	o	RR--6----------	AuxP
+4	dluhopisech	NNIP6-----A----	Atr
+5	odloženo	VsNS---XX-AP---	Pred
+
+ln95048-002-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95048-002-p2s1B
+1	Vláda	NNFS1-----A----	Sb
+2	nyní	Db-------------	Adv
+3	zapracovává	VB-S---3P-AA---	Pred
+4	do	RR--2----------	AuxP
+5	svého	P8ZS2----------	Atr
+6	návrhu	NNIS2-----A----	Adv
+7	novely	NNFS2-----A----	Atr
+8	zákona	NNIS2-----A----	Atr
+9	o	RR--6----------	AuxP
+10	dluhopisech	NNIP6-----A----	Atr
+11	možnost	NNFS4-----A----	Obj
+12	krytí	NNNS2-----A----	Atr
+13	hypotečních	AAIP2----1A----	Atr
+14	zástavních	AAIP2----1A----	Atr
+15	úvěrů	NNIP2-----A----	Atr
+16	také	Db-------------	AuxZ
+17	zástavním	AANS7----1A----	Atr
+18	právem	NNNS7-----A----	Atr
+19	k	RR--3----------	AuxP
+20	budované	AAFS3----1A----	Atr
+21	nemovitosti	NNFS3-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95048-002-p2s2
+1	Uložil	VpYS---XR-AA---	Pred
+2	jí	PPFS3--3-------	Obj
+3	to	PDNS4----------	Obj
+4	při	RR--6----------	AuxP
+5	čtvrtečním	AANS6----1A----	Atr
+6	projednávání	NNNS6-----A----	Adv
+7	vládního	AAIS2----1A----	Atr
+8	návrhu	NNIS2-----A----	Atr
+9	parlamentní	AAIS1----1A----	Atr
+10	rozpočtový	AAIS1----1A----	Atr
+11	výbor	NNIS1-----A----	Sb
+12	a	J^-------------	Coord
+13	jednání	NNNS4-----A----	Obj
+14	o	RR--6----------	AuxP
+15	novele	NNFS6-----A----	Atr
+16	přerušil	VpYS---XR-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln95048-002-p2s3
+1	Podle	RR--2----------	AuxP
+2	předloženého	AAIS2----1A----	Atr
+3	textu	NNIS2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	totiž	Db-------------	AuxY
+6	nebylo	VpNS---XR-NA---	Pred
+7	možno	ACNS------A----	Pnom
+8	poskytovat	Vf--------A----	Sb
+9	hypoteční	AAIP4----1A----	Atr
+10	úvěry	NNIP4-----A----	Obj
+11	občanům	NNMP3-----A----	Obj
+12	,	Z:-------------	AuxX
+13	kteří	P4MP1----------	Sb
+14	žádnou	PWFS4----------	Atr
+15	nemovitost	NNFS4-----A----	Obj
+16	nevlastní	VB-P---3P-NA---	Atr
+17	.	Z:-------------	AuxK
+
+ln95048-002-p3s1
+1	Při	RR--6----------	AuxP
+2	realizaci	NNFS6-----A----	Adv
+3	zákona	NNIS2-----A----	Atr
+4	bude	VB-S---3F-AA---	AuxV
+5	záležet	Vf--------A----	Obj
+6	na	RR--6----------	AuxP
+7	tom	PDZS6----------	Obj
+8	,	Z:-------------	AuxX
+9	zda	J,-------------	ExD
+10	a	J^-------------	Coord
+11	v	RR--6----------	AuxP
+12	jaké	P4FS6----------	Atr
+13	formě	NNFS6-----A----	Adv
+14	se	P7-X4----------	AuxT
+15	bude	VB-S---3F-AA---	AuxV
+16	na	RR--6----------	AuxP
+17	podpoře	NNFS6-----A----	Obj
+18	hypotečních	AAIP2----1A----	Atr
+19	úvěrů	NNIP2-----A----	Atr
+20	podílet	Vf--------A----	Atr
+21	stát	NNIS1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	uvedl	VpYS---XR-AA---	Pred
+24	náměstek	NNMS1-----A----	Atr
+25	ministra	NNMS2-----A----	Atr
+26	financí	NNFP2-----A----	Atr
+27	Vladimír	NNMS1-----A----	Atr
+28	Rudlovčák	NNMS1-----A----	Sb
+29	,	Z:-------------	AuxX
+30	který	P4YS1----------	Sb
+31	novelu	NNFS4-----A----	Obj
+32	v	RR--6----------	AuxP
+33	parlamentu	NNIS6-----A---1	Adv
+34	zdůvodňoval	VpYS---XR-AA---	Atr
+35	.	Z:-------------	AuxK
+
+ln95048-002-p3s2
+1	Novela	NNFS1-----A----	Sb
+2	zákona	NNIS2-----A----	Atr
+3	o	RR--6----------	AuxP
+4	daních	NNFP6-----A----	Atr
+5	z	RR--2----------	AuxP
+6	příjmů	NNIP2-----A----	Atr
+7	osvobodila	VpQW---XR-AA---	Obj
+8	úrokové	AAIP4----1A----	Atr
+9	výnosy	NNIP4-----A----	Obj
+10	z	RR--2----------	AuxP
+11	hypotečních	AAIP2----1A----	Atr
+12	zástavních	AAIP2----1A----	Atr
+13	listů	NNIP2-----A----	Atr
+14	od	RR--2----------	AuxP
+15	této	PDFS2----------	Atr
+16	daně	NNFS2-----A----	Obj
+17	,	Z:-------------	AuxX
+18	připomněl	VpYS---XR-AA---	Pred
+19	.	Z:-------------	AuxK
+
+ln95048-002-p3s3
+1	Dodal	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	případná	AAFS1----1A----	Atr
+5	další	AAFS1----1A----	Atr
+6	forma	NNFS1-----A----	Sb
+7	státní	AAFS2----1A----	Atr
+8	podpory	NNFS2-----A----	Atr
+9	se	P7-X4----------	AuxR
+10	bude	VB-S---3F-AA---	AuxV
+11	moci	Vf--------A----	Obj
+12	zvažovat	Vf--------A----	Obj
+13	při	RR--6----------	AuxP
+14	formování	NNNS6-----A----	Adv
+15	koncepce	NNFS2-----A----	Atr
+16	účasti	NNFS2-----A----	Atr
+17	státu	NNIS2-----A----	Atr
+18	na	RR--6----------	AuxP
+19	podpoře	NNFS6-----A----	Atr
+20	bytové	AAFS2----1A----	Atr
+21	výstavby	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95048-002-p4s1
+1	Účastník	NNMS1-----A----	Sb
+2	druhé	CrFS2----------	Atr
+3	vlny	NNFS2-----A----	Atr
+4	kupónové	AAFS2----1A----	Atr
+5	privatizace	NNFS2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	ve	RV--4----------	AuxP
+8	středu	NNFS4-----A----	Adv
+9	1	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	března	NNIS2-----A----	Atr
+12	stane	VB-S---3P-AA---	Pred
+13	skutečným	AAMS7----1A----	Atr
+14	akcionářem	NNMS7-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95048-002-p4s2
+1	V	RR--6----------	AuxP
+2	té	PDFS6----------	Atr
+3	době	NNFS6-----A----	Adv
+4	už	Db-------------	Adv
+5	bude	VB-S---3F-AA---	AuxV
+6	mít	Vf--------A----	Pred
+7	na	RR--6----------	AuxP
+8	svém	P8ZS6----------	Atr
+9	účtu	NNIS6-----A----	Adv
+10	ve	RV--6----------	AuxP
+11	Středisku	NNNS6-----A----	AtrAdv
+12	cenných	AAIP2----1A----	Atr
+13	papírů	NNIP2-----A----	Atr
+14	připsány	VsTP---XX-AP---	Atv
+15	akcie	NNFP4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	které	P4FP4----------	Obj
+18	získal	VpYS---XR-AA---	Atr
+19	v	RR--6----------	AuxP
+20	objednávkových	AANP6----1A----	Atr
+21	kolech	NNNP6-----A----	Adv
+22	druhé	CrFS2----------	Atr
+23	vlny	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95048-002-p4s3
+1	Se	RV--7----------	AuxP
+2	svým	P8ZS7----------	Atr
+3	majetkem	NNIS7-----A----	Obj
+4	může	VB-S---3P-AA---	Pred
+5	volně	Dg-------1A----	Adv
+6	nakládat	Vf--------A----	Obj
+7	.	Z:-------------	AuxK
+
+ln95048-002-p4s4
+1	Akcie	NNFP4-----A----	Obj
+2	může	VB-S---3P-AA---	Pred
+3	darovat	Vf--------A----	Obj
+4	nebo	J^-------------	Coord
+5	prodat	Vf--------A----	Obj
+6	.	Z:-------------	AuxK
+
+ln95048-002-p4s5
+1	Koupit	Vf--------A----	Sb
+2	či	J^-------------	Coord
+3	prodat	Vf--------A----	Sb
+4	akcie	NNFP4-----A----	Obj
+5	z	RR--2----------	AuxP
+6	druhé	CrFS2----------	Atr
+7	vlny	NNFS2-----A----	Atr
+8	kupónové	AAFS2----1A----	Atr
+9	privatizace	NNFS2-----A----	Atr
+10	lze	VB-S---3P-AA---	Pred
+11	přímo	Dg-------1A----	AuxZ
+12	u	RR--2----------	AuxP
+13	přepážky	NNFS2-----A----	Adv
+14	SCP	NNNXX-----A---8	Atr
+15	,	Z:-------------	Coord
+16	v	RR--6----------	AuxP
+17	průběžné	AAFS6----1A----	Atr
+18	aukci	NNFS6-----A----	Adv
+19	RM	AAXXX----1A---8	Atr
+20	-	Z:-------------	AuxG
+21	S	NNNXX-----A----	Atr
+22	nebo	J^-------------	Coord
+23	prostřednictvím	NNNS7-----A----	AuxP
+24	makléřské	AAFS2----1A----	Atr
+25	firmy	NNFS2-----A----	ExD
+26	na	RR--6----------	AuxP
+27	burze	NNFS6-----A----	ExD
+28	cenných	AAIP2----1A----	Atr
+29	papírů	NNIP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln95048-002-p5s1
+1	Do	RR--2----------	AuxP
+2	průběžné	AAFS2----1A----	Atr
+3	aukce	NNFS2-----A----	Adv
+4	RM	AAXXX----1A---8	Atr
+5	-	Z:-------------	AuxG
+6	S	NNNXX-----A----	AuxP
+7	se	P7-X4----------	AuxT
+8	obchodní	AAIS1----1A----	Atr
+9	pokyn	NNIS1-----A----	Sb
+10	dostane	VB-S---3P-AA---	Pred
+11	zhruba	Db-------------	AuxZ
+12	třetí	CrIS4----------	Atr
+13	den	NNIS4-----A----	Adv
+14	z	RR--2----------	AuxP
+15	běžné	AAFS2----1A----	Atr
+16	podatelny	NNFS2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln95048-002-p5s2
+1	Kdo	PKM-1----------	Sb
+2	chce	VB-S---3P-AA---	Sb
+3	obchodovat	Vf--------A----	Obj
+4	hned	Db-------------	AuxZ
+5	ve	RV--4----------	AuxP
+6	středu	NNFS4-----A----	Adv
+7	1	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	března	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	měl	VpYS---XR-AA---	Pred
+12	by	Vc-------------	AuxV
+13	tedy	Db-------------	AuxY
+14	svůj	P8IS4----------	Atr
+15	pokyn	NNIS4-----A----	Obj
+16	podat	Vf--------A----	Obj
+17	nejpozději	Dg-------3A----	Adv
+18	v	RR--4----------	AuxP
+19	pondělí	NNNS4-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95048-002-p5s3
+1	Na	RR--4----------	AuxP
+2	obchodní	AANS4----1A----	Atr
+3	místo	NNNS4-----A----	Adv
+4	RM	AAXXX----1A---8	Atr
+5	-	Z:-------------	AuxG
+6	S	NNNXX-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	nejlépe	Dg-------3A----	Adv
+9	dostavit	Vf--------A----	Sb
+10	se	P7-X4----------	AuxT
+11	osobně	Dg-------1A----	Adv
+12	s	RR--7----------	AuxP
+13	platným	AAIS7----1A----	Atr
+14	občanským	AAIS7----1A----	Atr
+15	průkazem	NNIS7-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95048-002-p5s4
+1	Podáním	NNNS7-----A----	Adv
+2	obchodního	AAIS2----1A----	Atr
+3	pokynu	NNIS2-----A----	Atr
+4	můžeme	VB-P---1P-AA---	Pred
+5	někoho	PZM-4----------	Obj
+6	pověřit	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	je	VB-S---3P-AA---	Pred
+10	nutné	AANS1----1A----	Pnom
+11	ho	PHZS4--3-------	Obj
+12	vybavit	Vf--------A----	Sb
+13	notářsky	Dg-------1A----	Adv
+14	ověřenou	AAFS7----1A----	Atr
+15	plnou	AAFS7----1A----	Atr
+16	mocí	NNFS7-----A----	Obj
+17	k	RR--3----------	AuxP
+18	tomuto	PDZS3----------	Atr
+19	úkonu	NNIS3-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95048-002-p5s5
+1	Je	VB-S---3P-AA---	Pred
+2	třeba	ACNS------A----	Pnom
+3	také	Db-------------	Adv
+4	znát	Vf--------A----	Sb
+5	kromě	RR--2----------	AuxP
+6	rodného	AANS2----1A----	Atr
+7	čísla	NNNS2-----A----	Adv
+8	i	J^-------------	AuxZ
+9	číslo	NNNS4-----A----	Obj
+10	kupónové	AAFS2----1A----	Atr
+11	knížky	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95048-002-p6s1
+1	Při	RR--6----------	AuxP
+2	vyplňování	NNNS6-----A----	Adv
+3	formuláře	NNIS2-----A----	Atr
+4	k	RR--3----------	AuxP
+5	prodeji	NNIS3-----A----	Atr
+6	není	VB-S---3P-NA---	Pred
+7	nutné	AANS1----1A----	Pnom
+8	prokazovat	Vf--------A----	Sb
+9	vlastnictví	NNNS4-----A----	Obj
+10	cenného	AAIS2----1A----	Atr
+11	papíru	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95048-002-p6s2
+1	Před	RR--7----------	AuxP
+2	zařazením	NNNS7-----A----	Adv
+3	do	RR--2----------	AuxP
+4	průběžné	AAFS2----1A----	Atr
+5	aukce	NNFS2-----A----	Atr
+6	si	P7-X3----------	Adv
+7	RM	AAXXX----1A---8	Atr
+8	-	Z:-------------	AuxG
+9	S	NNNXX-----A----	Sb
+10	ověřuje	VB-S---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	klient	NNMS1-----A----	Sb
+14	skutečně	Dg-------1A----	Adv
+15	má	VB-S---3P-AA---	Obj
+16	akcie	NNFP4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	které	P4FP4----------	Obj
+19	hodlá	VB-S---3P-AA---	Atr
+20	prodat	Vf--------A----	Obj
+21	,	Z:-------------	AuxX
+22	na	RR--6----------	AuxP
+23	svém	P8ZS6----------	Atr
+24	účtu	NNIS6-----A----	Adv
+25	v	RR--6----------	AuxP
+26	SCP	NNNXX-----A---8	Atr
+27	.	Z:-------------	AuxK
+
+ln95048-002-p6s3
+1	Kdo	PKM-1----------	Sb
+2	chce	VB-S---3P-AA---	Sb
+3	přes	RR--4----------	AuxP
+4	RM	AAXXX----1A---8	Atr
+5	-	Z:-------------	AuxG
+6	S	NNNXX-----A----	Adv
+7	akcie	NNFP4-----A----	Obj
+8	nakupovat	Vf--------A----	Obj
+9	,	Z:-------------	AuxX
+10	musí	VB-S---3P-AA---	Pred
+11	nejdříve	Dg-------3A----	Adv
+12	složit	Vf--------A----	Obj
+13	dostatečnou	AAFS4----1A----	Atr
+14	hotovost	NNFS4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	tzv	AAXXX----1A---8	Atr
+17	.	Z:-------------	AuxG
+18	JUMBO	AAXXX----1A----	Atr
+19	účet	NNIS4-----A----	Adv
+20	u	RR--2----------	AuxP
+21	Investiční	AAFS2----1A----	Atr
+22	a	J^-------------	Coord
+23	poštovní	AAFS2----1A----	Atr
+24	banky	NNFS2-----A----	AtrAdv
+25	.	Z:-------------	AuxK
+
+ln95048-002-p7s1
+1	Na	RR--6----------	AuxP
+2	burze	NNFS6-----A----	Adv
+3	může	VB-S---3P-AA---	Pred
+4	drobný	AAMS1----1A----	Atr
+5	investor	NNMS1-----A----	Sb
+6	obchodovat	Vf--------A----	Obj
+7	pouze	Db-------------	AuxZ
+8	přes	RR--4----------	AuxP
+9	makléře	NNMS4-----A----	Adv
+10	,	Z:-------------	AuxX
+11	jehož	P1XXXZS3-------	Atr
+12	výběru	NNIS3-----A----	Obj
+13	je	VB-S---3P-AA---	Atr
+14	potřebné	AANS1----1A----	Pnom
+15	věnovat	Vf--------A----	Sb
+16	jisté	AANS4----1A----	Atr
+17	úsilí	NNNS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95048-002-p7s2
+1	Rozsah	NNIS1-----A----	Sb
+2	služeb	NNFP2-----A----	Atr
+3	a	J^-------------	Coord
+4	jejich	PSXXXXP3-------	Atr
+5	ceny	NNFP1-----A----	Sb
+6	se	P7-X4----------	AuxT
+7	dost	Dg-------1A----	Adv
+8	liší	VB-P---3P-AA---	Pred
+9	.	Z:-------------	AuxK
+
+ln95048-002-p8s1
+1	Před	RR--7----------	AuxP
+2	nákupem	NNIS7-----A----	Adv
+3	či	J^-------------	Coord
+4	prodejem	NNIS7-----A----	Adv
+5	akcií	NNFP2-----A----	Atr
+6	makléřská	AAFS1----1A----	Atr
+7	firma	NNFS1-----A----	Sb
+8	sepíše	VB-S---3P-AA---	Pred
+9	se	RV--7----------	AuxP
+10	zájemcem	NNMS7-----A----	Adv
+11	tzv	AAXXX----1A---8	Atr
+12	.	Z:-------------	AuxG
+13	komisionářskou	AAFS4----1A----	Atr
+14	smlouvu	NNFS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95048-002-p8s2
+1	Ve	RV--6----------	AuxP
+2	zpravidla	Db-------------	Adv
+3	jednoduchém	AAIS6----1A----	Atr
+4	formuláři	NNIS6-----A----	Adv
+5	klient	NNMS1-----A----	Sb
+6	vyplní	VB-S---3P-AA---	Pred
+7	základní	AAIP4----1A----	Atr
+8	osobní	AAIP4----1A----	Atr
+9	údaje	NNIP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	ISIN	NNIXX-----A---8	Obj
+12	a	J^-------------	Coord
+13	název	NNIS4-----A----	Obj
+14	cenného	AAIS2----1A----	Atr
+15	papíru	NNIS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	počet	NNIS4-----A----	Obj
+18	kusů	NNIP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	cenu	NNFS4-----A----	Obj
+21	apod	Db------------8	Coord
+22	.	Z:-------------	AuxG
+
+ln95048-002-p9s1
+1	Makléřská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	posléze	Db-------------	Adv
+4	blokuje	VB-S---3P-AA---	Pred
+5	pohyb	NNIS4-----A----	Obj
+6	cenného	AAIS2----1A----	Atr
+7	papíru	NNIS2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	zákazníkově	AUIS6M---------	Atr
+10	účtu	NNIS6-----A----	AtrAdv
+11	v	RR--6----------	AuxP
+12	SCP	NNNXX-----A---8	Atr
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	jej	PPZS4--3------2	Obj
+16	nemohl	VpYS---XR-NA---	Adv
+17	prodat	Vf--------A----	Obj
+18	vícekrát	Co-------------	Adv
+19	.	Z:-------------	AuxK
+
+ln95048-002-p9s2
+1	Současně	Dg-------1A----	Adv
+2	burza	NNFS1-----A----	Sb
+3	zablokuje	VB-S---3P-AA---	Pred
+4	cenný	AAIS4----1A----	Atr
+5	papír	NNIS4-----A----	Obj
+6	pro	RR--4----------	AuxP
+7	prodej	NNIS4-----A----	AdvAtr
+8	na	RR--6----------	AuxP
+9	jiném	AAIS6----1A----	Atr
+10	trhu	NNIS6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95048-002-p10s1
+1	Všechny	PLFP1----------	Atr
+2	tyto	PDFP1----------	Atr
+3	formality	NNFP1-----A----	Sb
+4	způsobí	VB-P---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	akcie	NNFS1-----A----	Sb
+9	dostane	VB-S---3P-AA---	Obj
+10	na	RR--4----------	AuxP
+11	centrální	AAIS4----1A----	Atr
+12	trh	NNIS4-----A----	Adv
+13	burzy	NNFS2-----A----	Atr
+14	asi	TT-------------	AuxZ
+15	tak	Db-------------	AuxZ
+16	třetí	CrIS4----------	Atr
+17	den	NNIS4-----A----	Adv
+18	od	RR--2----------	AuxP
+19	uzavření	NNNS2-----A----	Atr
+20	komisionářské	AAFS2----1A----	Atr
+21	smlouvy	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95048-002-p10s2
+1	Podle	RR--2----------	AuxP
+2	Radky	NNFS2-----A----	Atr
+3	Andresové	NNFS2-----A----	Adv
+4	z	RR--2----------	AuxP
+5	Bankovního	AAIS2----1A----	Atr
+6	domu	NNIS2-----A----	Atr
+7	Skala	NNMS1-----A----	Atr
+8	budou	VB-P---3F-AA---	AuxV
+9	emise	NNFP1-----A----	Sb
+10	z	RR--2----------	AuxP
+11	druhé	CrFS2----------	Atr
+12	vlny	NNFS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	držení	NNNS6-----A----	Adv
+15	drobných	AAMP2----1A----	Atr
+16	investorů	NNMP2-----A----	Atr
+17	obchodovány	VsTP---XX-AP---	Pred
+18	na	RR--6----------	AuxP
+19	burze	NNFS6-----A----	Adv
+20	nejdříve	Dg-------3A----	Adv
+21	v	RR--4----------	AuxP
+22	pátek	NNIS4-----A----	Adv
+23	3	C=-------------	Atr
+24	.	Z:-------------	AuxG
+25	března	NNIS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95048-002-p11s1
+1	Většina	NNFS1-----A----	Sb
+2	makléřských	AAIP2----1A----	Atr
+3	domů	NNIP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	které	P4IP1----------	Sb
+6	poskytují	VB-P---3P-AA---	Atr
+7	služby	NNFP4-----A----	Obj
+8	individuálním	AAMP3----1A----	Atr
+9	investorům	NNMP3-----A----	Obj
+10	,	Z:-------------	AuxX
+11	umožňuje	VB-S---3P-AA---	Pred
+12	to	PDNS4----------	Obj
+13	,	Z:-------------	AuxX
+14	co	PQ--1----------	Sb
+15	se	P7-X4----------	AuxT
+16	v	RR--6----------	AuxP
+17	Harvardské	AAFS6----1A----	Atr
+18	burzovní	AAFS6----1A----	Atr
+19	společnosti	NNFS6-----A----	Adv
+20	nazývá	VB-S---3P-AA---	Atr
+21	osobní	AAIS1----1A----	Atr
+22	klientský	AAIS1----1A----	Atr
+23	účet	NNIS1-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln95048-002-p11s2
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	vlastně	Db-------------	AuxY
+4	smlouva	NNFS1-----A----	Pnom
+5	o	RR--6----------	AuxP
+6	trvalé	AAFS6----1A----	Atr
+7	správě	NNFS6-----A----	Atr
+8	osobního	AANS2----1A----	Atr
+9	portfolia	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95048-002-p11s3
+1	Makléřská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	podstatě	NNFS6-----A----	Adv
+5	trvale	Dg-------1A----	Adv
+6	blokuje	VB-S---3P-AA---	Pred
+7	účet	NNIS4-----A----	Obj
+8	klienta	NNMS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	SCP	NNNXX-----A---8	AtrAdv
+11	pro	RR--4----------	AuxP
+12	jiné	AAIP4----1A----	Atr
+13	obchody	NNIP4-----A----	Adv
+14	a	J^-------------	Coord
+15	prodává	VB-S---3P-AA---	Pred
+16	a	J^-------------	Coord
+17	nakupuje	VB-S---3P-AA---	Pred
+18	cenné	AAIP4----1A----	Atr
+19	papíry	NNIP4-----A----	Obj
+20	podle	RR--2----------	AuxP
+21	jeho	PSXXXZS3-------	Atr
+22	pokynů	NNIP2-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln95048-002-p11s4
+1	V	RR--6----------	AuxP
+2	takovém	PDZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	zpravidla	Db-------------	Adv
+5	stačí	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	když	J,-------------	AuxC
+8	zákazník	NNMS1-----A----	Sb
+9	svého	P8MS4----------	Atr
+10	makléře	NNMS4-----A----	Obj
+11	zplnomocní	VB-S---3P-AA---	Sb
+12	k	RR--3----------	AuxP
+13	obchodování	NNNS3-----A----	Adv
+14	i	J^-------------	AuxZ
+15	s	RR--7----------	AuxP
+16	emisemi	NNFP7-----A----	Atr
+17	z	RR--2----------	AuxP
+18	druhé	CrFS2----------	Atr
+19	vlny	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+

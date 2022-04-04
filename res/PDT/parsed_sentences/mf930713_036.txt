@@ -1,0 +1,86 @@
+mf930713-036-p1s1
+1	Polský	AAMS1----1A----	Atr
+2	pašerák	NNMS1-----A----	Sb
+3	zboží	NNNS4-----A----	Obj
+4	neprovezl	VpYS---XR-NA---	Pred
+
+mf930713-036-p2s1A
+1	Liberec	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ouš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-036-p2s1B
+1	Polského	AAMS4----1A----	Atr
+2	pašeráka	NNMS4-----A----	Obj
+3	i	J^-------------	AuxZ
+4	s	RR--7----------	AuxP
+5	kontrabandem	NNIS7-----A----	Adv
+6	za	RR--4----------	AuxP
+7	téměř	Db-------------	AuxZ
+8	300	C=-------------	Atr
+9	tisíc	ClXS2----------	Atr
+10	korun	NNFP2-----A----	Atr
+11	dopadli	VpMP---XR-AA--1	Pred
+12	celníci	NNMP1-----A----	Sb
+13	z	RR--2----------	AuxP
+14	Habartic	NNFP2-----A----	Atr
+15	na	RR--6----------	AuxP
+16	Liberecku	NNNS6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-036-p2s2
+1	Vozidla	NNNS2-----A----	Obj
+2	naditého	AANS2----1A----	Atr
+3	spotřební	AAFS7----1A----	Atr
+4	elektronikou	NNFS7-----A----	Adv
+5	si	P7-X3----------	AuxT
+6	povšiml	VpYS---XR-AA--1	Pred
+7	pohraniční	AAMS1----1A----	Atr
+8	policista	NNMS1-----A----	Sb
+9	na	RR--6----------	AuxP
+10	parkovišti	NNNS6-----A----	Adv
+11	ve	RV--6----------	AuxP
+12	Frýdlantě	NNIS6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf930713-036-p2s3
+1	Přivolaní	AAMP1----1A----	Atr
+2	celníci	NNMP1-----A----	Sb
+3	zjistili	VpMP---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	zboží	NNNS4-----A----	Obj
+7	provezl	VpYS---XR-AA---	Obj
+8	podloudně	Dg-------1A----	Adv
+9	z	RR--2----------	AuxP
+10	Německa	NNNS2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf930713-036-p2s4
+1	Při	RR--6----------	AuxP
+2	vjezdu	NNIS6-----A---1	Adv
+3	do	RR--2----------	AuxP
+4	naší	PSFS2-P1-------	Atr
+5	republiky	NNFS2-----A----	Atr
+6	ho	PHZS4--3-------	Obj
+7	nepřihlásil	VpYS---XR-NA---	Pred
+8	celnímu	AAIS3----1A----	Atr
+9	dohledu	NNIS3-----A----	Adv
+10	a	J^-------------	Coord
+11	nezaplatil	VpYS---XR-NA---	Pred
+12	celní	AAIS4----1A----	Atr
+13	dluh	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+mf930713-036-p2s5
+1	Cílovou	AAFS7----1A----	Atr
+2	stanicí	NNFS7-----A----	Pnom
+3	spotřební	AAFS2----1A----	Atr
+4	elektroniky	NNFS2-----A----	Atr
+5	mělo	VpNS---XR-AA---	Pred
+6	být	Vf--------A----	Obj
+7	Polsko	NNNS1-----A----	Sb
+8	.	Z:-------------	AuxK
+

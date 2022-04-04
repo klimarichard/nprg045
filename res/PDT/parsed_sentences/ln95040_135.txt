@@ -1,0 +1,137 @@
+ln95040-135-p1s1
+1	Zásahová	AAFS1----1A----	Atr
+2	jednotka	NNFS1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	opilce	NNMP4-----A----	Atr
+5	na	RR--6----------	AuxP
+6	záchytce	NNFS6-----A----	ExD
+
+ln95040-135-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95040-135-p3s1A
+1	České	AAFP1----1A----	Atr
+2	Budějovice	NNFP1-----A----	ExD
+3	-	Z:-------------	AuxK
+
+ln95040-135-p3s1B
+1	Až	TT-------------	AuxZ
+2	zásahová	AAFS1----1A----	Atr
+3	jednotka	NNFS1-----A----	Sb
+4	policie	NNFS2-----A----	Atr
+5	zastavila	VpQW---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	noci	NNFS6-----A----	Adv
+8	na	RR--4----------	AuxP
+9	včerejšek	NNIS4-----A----	Atr
+10	pětadvacetiletého	AAMS4----1A----	Atr
+11	Pavla	NNMS4-----A----	Atr
+12	P	NNMXX-----A---8	Obj
+13	.	Z:-------------	AuxG
+14	v	RR--6----------	AuxP
+15	pustošení	NNNS6-----A----	Adv
+16	záchytné	AAFS2----1A----	Atr
+17	protialkoholní	AAFS2----1A----	Atr
+18	stanice	NNFS2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	Českých	AAFP6----1A----	Atr
+21	Budějovicích	NNFP6-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95040-135-p3s3
+1	Příslušníci	NNMP1-----A----	Sb
+2	zásahové	AAFS2----1A----	Atr
+3	jednotky	NNFS2-----A----	Atr
+4	ho	PHZS4--3-------	Obj
+5	pořezaného	AAMS4----1A----	Atv
+6	od	RR--2----------	AuxP
+7	skel	NNNP2-----A----	Adv
+8	odvezli	VpMP---XR-AA---	Pred
+9	na	RR--4----------	AuxP
+10	chirurgii	NNFS4-----A----	Adv
+11	,	Z:-------------	AuxX
+12	odkud	Db-------------	Adv
+13	ho	PHZS4--3-------	Obj
+14	po	RR--6----------	AuxP
+15	ošetření	NNNS6-----A----	Adv
+16	dopravili	VpMP---XR-AA---	Atr
+17	zpět	Db-------------	Adv
+18	na	RR--4----------	AuxP
+19	záchytku	NNFS4-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95040-135-p3s4
+1	Pavel	NNMS1-----A----	Atr
+2	P	NNMXX-----A---8	Sb
+3	.	Z:-------------	AuxG
+4	si	P7-X3----------	Adv
+5	chtěl	VpYS---XR-AA---	Pred
+6	v	RR--4----------	AuxP
+7	úterý	NNNS4-----A----	Adv
+8	večer	Db-------------	Adv
+9	odnést	Vf--------A----	Obj
+10	bez	RR--2----------	AuxP
+11	placení	NNNS2-----A----	Adv
+12	láhev	NNFS4-----A----	Obj
+13	vína	NNNS2-----A----	Atr
+14	z	RR--2----------	AuxP
+15	místního	AAIS2----1A----	Atr
+16	Prioru	NNIS2-----A----	Adv
+17	,	Z:-------------	AuxX
+18	ale	J^-------------	Coord
+19	jeho	PSXXXZS3-------	Atr
+20	záměr	NNIS4-----A----	Obj
+21	mu	PHZS3--3-------	Obj
+22	zmařila	VpQW---XR-AA---	Pred
+23	jedna	ClFS1----------	Sb
+24	z	RR--2----------	AuxP
+25	prodavaček	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95040-135-p3s5
+1	Když	J,-------------	AuxC
+2	odcházela	VpQW---XR-AA---	Adv
+3	ze	RV--2----------	AuxP
+4	zaměstnání	NNNS2-----A----	Adv
+5	,	Z:-------------	AuxX
+6	stál	VpYS---XR-AA---	Pred
+7	Pavel	NNMS1-----A----	Atr
+8	P	NNMXX-----A---8	Sb
+9	.	Z:-------------	AuxG
+10	před	RR--7----------	AuxP
+11	prodejnou	NNFS7-----A----	Adv
+12	s	RR--7----------	AuxP
+13	nožem	NNIS7-----A----	Adv
+14	a	J^-------------	Coord
+15	křičel	VpYS---XR-AA---	Pred
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	ji	PPFS4--3-------	Obj
+19	zabije	VB-S---3P-AA---	Obj
+20	.	Z:-------------	AuxK
+
+ln95040-135-p3s6
+1	Zasáhnout	Vf--------A----	Obj
+2	proti	RR--3----------	AuxP
+3	němu	P5ZS3--3-------	Adv
+4	museli	VpMP---XR-AA---	Pred
+5	pracovníci	NNMP1-----A----	Sb
+6	bezpečnostní	AAFS2----1A----	Atr
+7	agentury	NNFS2-----A----	Atr
+8	zajišťující	AGFS2-----A----	Atr
+9	ostrahu	NNFS4-----A----	Obj
+10	obchodního	AAIS2----1A----	Atr
+11	domu	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	poté	Db-------------	Adv
+14	ho	PHZS4--3-------	Obj
+15	policisté	NNMP1-----A----	Sb
+16	převezli	VpMP---XR-AA---	Pred
+17	na	RR--4----------	AuxP
+18	záchytku	NNFS4-----A----	Adv
+19	.	Z:-------------	AuxK
+

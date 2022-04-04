@@ -1,0 +1,137 @@
+lnd91301-106-p1s1
+1	Ministři	NNMP1-----A----	Sb
+2	váhali	VpMP---XR-AA---	Pred
+
+lnd91301-106-p2s1
+1	ŘÍM	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91301-106-p3s1
+1	Italský	AAMS1----1A----	Atr
+2	prezident	NNMS1-----A----	Atr
+3	Francesco	NNMS1-----A----	Atr
+4	Cossiga	NNMS1-----A----	Sb
+5	přijal	VpYS---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	paláci	NNIS6-----A----	Adv
+8	Quirinale	NNNXX-----A----	Atr
+9	o	RR--6----------	AuxP
+10	vánocích	NNFP6-----A----	Adv
+11	svého	P8MS4----------	Atr
+12	dvojníka	NNMS4-----A----	Atr
+13	Manlia	NNMS4-----A----	Atr
+14	Doviho	NNMS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	ho	PHZS4--3-------	Obj
+18	zobrazuje	VB-S---3P-AA---	Atr
+19	v	RR--6----------	AuxP
+20	pravidelném	AAIS6----1A----	Atr
+21	kabaretním	AAIS6----1A----	Atr
+22	pořadu	NNIS6-----A----	Adv
+23	italské	AAFS2----1A----	Atr
+24	televize	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd91301-106-p3s2
+1	Dovi	NNMS1-----A----	Sb
+2	pochopitelně	Dg-------1A----	Adv
+3	přišel	VpYS---XR-AA---	Pred
+4	"	Z:-------------	AuxG
+5	v	RR--6----------	AuxP
+6	civilu	NNMS6-----A---1	Adv
+7	"	Z:-------------	AuxG
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	ho	PHZS4--3-------	Obj
+11	prezidentská	AAFS1----1A----	Atr
+12	stráž	NNFS1-----A----	Sb
+13	vůbec	Db-------------	Adv
+14	pustila	VpQW---XR-AA---	Adv
+15	dovnitř	Db-------------	Adv
+16	,	Z:-------------	AuxX
+17	když	J,-------------	AuxC
+18	jeden	ClYS1----------	Atr
+19	prezident	NNMS1-----A----	Sb
+20	už	Db-------------	Adv
+21	tam	Db-------------	Adv
+22	byl	VpYS---XR-AA---	Adv
+23	.	Z:-------------	AuxK
+
+lnd91301-106-p3s3
+1	Teprve	Db-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	paláci	NNIS6-----A----	Adv
+4	si	P7-X3----------	Obj
+5	nasadil	VpYS---XR-AA---	Pred
+6	paruku	NNFS4-----A----	Obj
+7	a	J^-------------	Coord
+8	s	RR--7----------	AuxP
+9	pomocí	NNFS7-----A----	Adv
+10	maskéra	NNMS2-----A----	Atr
+11	se	P7-X4----------	AuxT
+12	změnil	VpYS---XR-AA---	Pred
+13	v	RR--4----------	AuxP
+14	Cossigu	NNMS4-----A----	Obj
+15	č	NNNXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	2	C=-------------	Atr
+18	.	Z:-------------	AuxK
+
+lnd91301-106-p3s4
+1	Oba	ClYP1----------	Atr
+2	muži	NNMP1-----A----	Sb
+3	setrvali	VpMP---XR-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	dvacetiminutovém	AAIS6----1A----	Atr
+6	rozhovoru	NNIS6-----A----	Obj
+7	,	Z:-------------	AuxX
+8	ve	RV--6----------	AuxP
+9	kterém	P4ZS6----------	Adv
+10	prezident	NNMS1-----A----	Sb
+11	ocenil	VpYS---XR-AA---	Atr
+12	herecký	AAIS4----1A----	Atr
+13	výkon	NNIS4-----A----	Obj
+14	svého	P8ZS2----------	Atr
+15	imitátora	NNMS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91301-106-p3s5
+1	Ještě	Db-------------	AuxZ
+2	než	J,-------------	AuxC
+3	se	P7-X4----------	AuxT
+4	rozloučili	VpMP---XR-AA---	Adv
+5	,	Z:-------------	AuxX
+6	přišli	VpMP---XR-AA---	Pred
+7	do	RR--2----------	AuxP
+8	Quirinale	NNNXX-----A----	Adv
+9	na	RR--4----------	AuxP
+10	pracovní	AAFS4----1A----	Atr
+11	poradu	NNFS4-----A----	Adv
+12	ministr	NNMS1-----A----	Atr
+13	obrany	NNFS2-----A----	Atr
+14	Rognoni	NNMS1-----A----	Sb
+15	a	J^-------------	Coord
+16	ministr	NNMS1-----A----	Atr
+17	vnitra	NNNS2-----A----	Atr
+18	Scoti	NNMS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	dalo	VpNS---XR-AA---	Pred
+22	prý	TT-------------	AuxY
+23	jim	PPXP3--3-------	Obj
+24	dost	Dg-------1A----	Obj
+25	práce	NNFS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	aby	J,-------------	AuxC
+28	poznali	VpMP---XR-AA---	Sb
+29	,	Z:-------------	AuxX
+30	který	P4YS1----------	Sb
+31	z	RR--2----------	AuxP
+32	obou	ClXP2----------	Atr
+33	prezidentů	NNMP2-----A----	Atr
+34	je	VB-S---3P-AA---	Obj
+35	ten	PDYS1----------	Atr
+36	pravý	AAMS1----1A----	Pnom
+37	.	Z:-------------	AuxK
+

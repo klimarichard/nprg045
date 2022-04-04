@@ -1,0 +1,825 @@
+mf920922-103-p1s1C
+1	Ratifikační	AANS1----1A----	Atr
+2	referendum	NNNS1-----A----	ExD
+3	ano	TT-------------	ExD
+
+mf920922-103-p1s1B
+1	MILAN	NNMS1-----A----	Atr
+2	ČIČ	NNMS1-----A----	Sb
+3	(	Z:-------------	ExD
+4	HZDS	NNNXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	:	Z:-------------	Pred
+7	MŮŽE	VB-S---3P-AA---	Obj
+8	NASTAT	Vf--------A----	Obj
+9	PROCES	NNIS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	KTERÝ	P4IS4----------	Obj
+12	NIKDO	PWM-1----------	Sb
+13	ÚSTAVNĚ	Dg-------1A----	Adv
+14	NEZVLÁDNE	VB-S---3P-NA---	Atr
+
+mf920922-103-p2s1
+1	Jako	J,-------------	AuxY
+2	místopředseda	NNMS1-----A----	AtvV
+3	federální	AAFS2----1A----	Atr
+4	vlády	NNFS2-----A----	Atr
+5	jste	VB-P---2P-AA---	AuxV
+6	odůvodňoval	VpYS---XR-AA---	Pred
+7	návrh	NNIS4-----A----	Obj
+8	zákona	NNIS2-----A----	Atr
+9	o	RR--6----------	AuxP
+10	způsobech	NNIP6-----A----	Atr
+11	zániku	NNIS2-----A----	Atr
+12	federace	NNFS2-----A----	Atr
+13	prakticky	Dg-------1A----	AuxZ
+14	ve	RV--6----------	AuxP
+15	všech	PLXP6----------	Atr
+16	parlamentních	AAIP6----1A----	Atr
+17	výborech	NNIP6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+mf920922-103-p2s2
+1	Znáte	VB-P---2P-AA---	Pred
+2	tedy	Db-------------	AuxY
+3	i	J^-------------	AuxZ
+4	postoje	NNIP4-----A----	Obj
+5	a	J^-------------	Coord
+6	argumenty	NNIP4-----A----	Obj
+7	jednotlivých	AANP2----1A----	Atr
+8	politických	AANP2----1A----	Atr
+9	uskupení	NNNP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf920922-103-p2s3
+1	Jakou	P4FS4----------	Atr
+2	dáváte	VB-P---2P-AA---	Pred
+3	zákonu	NNIS3-----A----	Obj
+4	naději	NNFS4-----A----	Obj
+5	?	Z:-------------	AuxK
+
+mf920922-103-p2s4
+1	"	Z:-------------	AuxG
+2	Podle	RR--2----------	AuxP
+3	diskuse	NNFS2-----A----	Adv
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	zazněla	VpQW---XR-AA---	Atr
+7	v	RR--6----------	AuxP
+8	jednotlivých	AAIP6----1A----	Atr
+9	výborech	NNIP6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	to	PDNS1----------	Sb
+12	vypadalo	VpNS---XR-AA---	Pred
+13	velmi	Db-------------	AuxZ
+14	problematicky	Dg-------1A----	Adv
+15	.	Z:-------------	AuxK
+
+mf920922-103-p2s5
+1	Ale	J^-------------	Coord
+2	nakonec	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	po	RR--6----------	AuxP
+5	vysvětlení	NNNS6-----A----	Adv
+6	některých	PZXP2----------	Atr
+7	problémů	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	i	J^-------------	AuxZ
+10	v	RR--6----------	AuxP
+11	těch	PDXP6----------	Atr
+12	výborech	NNIP6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	kde	Db-------------	Adv
+15	se	P7-X4----------	AuxT
+16	návrh	NNIS1-----A----	Sb
+17	zdál	VpYS---XR-AA---	Atr
+18	být	Vf--------A----	Obj
+19	úplně	Dg-------1A----	Adv
+20	neprůchodný	AAIS1----1N----	Pnom
+21	,	Z:-------------	AuxX
+22	byl	VpYS---XR-AA---	AuxV
+23	odhlasován	VsYS---XX-AP---	Pred
+24	.	Z:-------------	AuxK
+
+mf920922-103-p2s6
+1	Ve	RV--6----------	AuxP
+2	výborech	NNIP6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	ovšem	J^-------------	AuxY
+5	hlasuje	VB-S---3P-AA---	Pred
+6	nadpoloviční	AAFS7----1A----	Atr
+7	většinou	NNFS7-----A----	Adv
+8	,	Z:-------------	Coord
+9	ve	RV--6----------	AuxP
+10	sněmovnách	NNFP6-----A----	Adv
+11	pak	Db-------------	Adv
+12	návrh	NNIS1-----A----	Sb
+13	tohoto	PDZS2----------	Atr
+14	ústavního	AAIS2----1A----	Atr
+15	zákona	NNIS2-----A----	Atr
+16	potřebuje	VB-S---3P-AA---	Pred
+17	třípětinový	AAIS4----1A----	Atr
+18	souhlas	NNIS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	který	P4IS4----------	Obj
+21	ovšem	J^-------------	AuxY
+22	vládní	AAFP1----1A----	Atr
+23	strany	NNFP1-----A----	Sb
+24	nemají	VB-P---3P-NA---	Atr
+25	.	Z:-------------	AuxK
+
+mf920922-103-p2s7
+1	"	Z:-------------	AuxG
+2	Stále	Db-------------	Adv
+3	si	P7-X3----------	AuxT
+4	myslím	VB-S---1P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	všem	PLXP3----------	Atr
+8	poslancům	NNMP3-----A----	Obj
+9	,	Z:-------------	AuxX
+10	až	TT-------------	AuxP
+11	na	RR--4----------	AuxP
+12	výjimky	NNFP4-----A----	Adv
+13	,	Z:-------------	AuxX
+14	bude	VB-S---3F-AA---	AuxV
+15	záležet	Vf--------A----	Obj
+16	na	RR--6----------	AuxP
+17	tom	PDZS6----------	Obj
+18	,	Z:-------------	AuxX
+19	aby	J,-------------	AuxC
+20	se	P7-X4----------	AuxR
+21	zabezpečil	VpYS---XR-AA---	Atr
+22	eventuální	AAIS1----1A----	Atr
+23	zánik	NNIS1-----A----	Sb
+24	federace	NNFS2-----A----	Atr
+25	ústavním	AAIS7----1A----	Atr
+26	způsobem	NNIS7-----A----	Adv
+27	.	Z:-------------	AuxK
+
+mf920922-103-p2s8A
+1	Nám	PP-P3--1-------	Obj
+2	mimořádně	Dg-------1A----	Adv
+3	záleží	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	tom	PDZS6----------	Obj
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	se	P7-X4----------	AuxR
+9	nedramatizovala	VpQW---XR-NA---	Atr
+10	situace	NNFS1-----A----	Sb
+11	,	Z:-------------	Coord
+12	aby	J,-------------	AuxC
+13	se	P7-X4----------	AuxR
+14	nerozvíjely	VpTP---XR-NA---	Atr
+15	právní	AAFP1----1A----	Atr
+16	teorie	NNFP1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	které	P4FP1----------	Sb
+19	bazírují	VB-P---3P-AA---	Atr
+20	výlučně	Dg-------1A----	AuxZ
+21	na	RR--6----------	AuxP
+22	referendu	NNNS6-----A----	Obj
+23	.	Z:-------------	AuxK
+24	"	Z:-------------	AuxG
+
+mf920922-103-p2s8B
+1	Musíte	VB-P---2P-AA---	Pred
+2	ovšem	J^-------------	AuxY
+3	počítat	Vf--------A----	Obj
+4	i	J^-------------	AuxZ
+5	s	RR--7----------	AuxP
+6	tím	PDZS7----------	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	parlament	NNIS1-----A----	Sb
+10	návrh	NNIS4-----A----	Obj
+11	zákona	NNIS2-----A----	Atr
+12	neschválí	VB-S---3P-NA---	Atr
+13	.	Z:-------------	AuxK
+
+mf920922-103-p2s9
+1	"	Z:-------------	AuxG
+2	Bylo	VpNS---XR-AA---	Pred
+3	by	Vc-------------	AuxV
+4	to	PDNS1----------	Sb
+5	na	RR--4----------	AuxP
+6	škodu	NNFS4-----A----	Adv
+7	věci	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf920922-103-p2s10
+1	Vystavujeme	VB-P---1P-AA---	Pred
+2	se	P7-X4----------	Obj
+3	nebezpečí	NNNS3-----A----	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	může	VB-S---3P-AA---	Atr
+7	dojít	Vf--------A----	Obj
+8	ke	RV--3----------	AuxP
+9	kolapsu	NNIS3-----A----	Obj
+10	samotného	AANS2----1A----	Atr
+11	FS	NNNXX-----A---8	Atr
+12	,	Z:-------------	Coord
+13	k	RR--3----------	AuxP
+14	určité	AAFS3----1A----	Atr
+15	krizi	NNFS3-----A----	Obj
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	povede	VB-S---3P-AA---	Atr
+19	eventuálně	Dg-------1A----	Adv
+20	i	J^-------------	AuxZ
+21	ke	RV--3----------	AuxP
+22	krizi	NNFS3-----A----	Adv
+23	vládní	AAFS3----1A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920922-103-p2s11A
+1	Potom	Db-------------	Adv
+2	může	VB-S---3P-AA---	Pred
+3	nastat	Vf--------A----	Obj
+4	takový	PDYS1----------	Atr
+5	proces	NNIS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	který	P4IS4----------	Obj
+8	už	Db-------------	Adv
+9	nikdo	PWM-1----------	Sb
+10	ústavně	Dg-------1A----	Adv
+11	nezvládne	VB-S---3P-NA---	Atr
+12	.	Z:-------------	AuxK
+13	"	Z:-------------	AuxG
+
+mf920922-103-p2s11B
+1	Co	PQ--1----------	Sb
+2	by	Vc-------------	AuxV
+3	pak	Db-------------	Adv
+4	následovalo	VpNS---XR-AA---	Pred
+5	?	Z:-------------	AuxK
+
+mf920922-103-p2s12A
+1	"	Z:-------------	AuxG
+2	Obával	VpYS---XR-AA---	Pred
+3	bych	Vc-S---1-------	AuxV
+4	se	P7-X4----------	AuxT
+5	dalšího	AAIS2----1A----	Atr
+6	vývoje	NNIS2-----A----	Obj
+7	.	Z:-------------	AuxK
+8	"	Z:-------------	AuxG
+
+mf920922-103-p2s12B
+1	Vy	PP-P1--2-------	Sb
+2	osobně	Dg-------1A----	Atr
+3	však	J^-------------	Coord
+4	předpokládáte	VB-P---2P-AA---	Pred
+5	rozpuštění	NNNS4-----A----	Atr
+6	federace	NNFS2-----A----	Obj
+7	spíše	Dg-------2A---1	Adv
+8	dohodou	NNFS7-----A----	Adv
+9	národních	AAFP2----1A----	Atr
+10	rad	NNFP2-----A----	Atr
+11	než	J,-------------	AuxC
+12	prostřednictvím	NNNS7-----A----	ExD
+13	FS	NNNXX-----A---8	Atr
+14	.	Z:-------------	AuxK
+
+mf920922-103-p2s13
+1	"	Z:-------------	AuxG
+2	Považuji	VB-S---1P-AA--1	Pred
+3	to	PDNS4----------	Obj
+4	za	RR--4----------	AuxP
+5	nejschůdnější	AAFS4----3A----	Atr
+6	cestu	NNFS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+mf920922-103-p2s14
+1	Samotné	AANS1----1A----	Atr
+2	referendum	NNNS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	problematické	AANS1----1A----	Pnom
+5	z	RR--2----------	AuxP
+6	více	Dg-------2A----	Atr
+7	důvodů	NNIP2-----A----	Adv
+8	.	Z:-------------	AuxK
+
+mf920922-103-p2s15
+1	Na	RR--6----------	AuxP
+2	druhé	CrFS6----------	Atr
+3	straně	NNFS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	oprávněným	AAIS7----1A----	Atr
+6	požadavkem	NNIS7-----A----	Pnom
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	byl	VpYS---XR-AA---	AuxV
+10	novelizován	VsYS---XX-AP---	Sb
+11	ústavní	AAIS1----1A----	Atr
+12	zákon	NNIS1-----A----	Sb
+13	o	RR--6----------	AuxP
+14	referendu	NNNS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920922-103-p2s16
+1	Kromě	RR--2----------	AuxP
+2	jiného	AANS2----1A----	ExD
+3	i	J^-------------	AuxZ
+4	proto	Db-------------	ExD
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	ústavní	AAIS1----1A----	Atr
+8	zákon	NNIS1-----A----	Sb
+9	o	RR--6----------	AuxP
+10	způsobech	NNIP6-----A----	Atr
+11	zániku	NNIS2-----A----	Atr
+12	federace	NNFS2-----A----	Atr
+13	upravuje	VB-S---3P-AA---	ExD
+14	rozdělení	NNNS4-----A----	Obj
+15	federace	NNFS2-----A----	Atr
+16	referendem	NNNS7-----A----	Atr
+17	jako	J,-------------	AuxY
+18	jednu	ClFS4----------	Atv
+19	ze	RV--2----------	AuxP
+20	čtyř	ClXP2----------	Atr
+21	možností	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf920922-103-p2s17A
+1	A	J^-------------	Coord
+2	stávající	AAIS1----1A----	Atr
+3	zákon	NNIS1-----A----	Sb
+4	o	RR--6----------	AuxP
+5	referendu	NNNS6-----A----	Atr
+6	hovoří	VB-S---3P-AA---	Pred
+7	o	RR--6----------	AuxP
+8	rozdělení	NNNS6-----A----	Obj
+9	federace	NNFS2-----A----	Atr
+10	'	Z:-------------	AuxG
+11	jen	TT-------------	AuxZ
+12	'	Z:-------------	AuxG
+13	na	RR--6----------	AuxP
+14	základě	NNIS6-----A----	AuxP
+15	výsledků	NNIP2-----A----	AtrAdv
+16	referenda	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+18	"	Z:-------------	AuxG
+
+mf920922-103-p2s17B
+1	Nicméně	J^-------------	Coord
+2	dohoda	NNFS1-----A----	Sb
+3	národních	AAFP2----1A----	Atr
+4	rad	NNFP2-----A----	Atr
+5	není	VB-S---3P-NA---	Pred
+6	právně	Dg-------1A----	Adv
+7	vůbec	Db-------------	Adv
+8	specifikována	VsQW---XX-AP---	Pnom
+9	.	Z:-------------	AuxK
+
+mf920922-103-p2s18
+1	To	PDNS4----------	Obj
+2	by	Vc-------------	AuxV
+3	si	P7-X3----------	Adv
+4	upravily	VpTP---XR-AA---	Pred
+5	národní	AAFP1----1A----	Atr
+6	rady	NNFP1-----A----	Sb
+7	samy	PLFP1----------	Atv
+8	?	Z:-------------	AuxK
+
+mf920922-103-p2s19
+1	"	Z:-------------	AuxG
+2	Není	VB-S---3P-NA---	Pred
+3	jednoduché	AANS1----1A----	Pnom
+4	nyní	Db-------------	Adv
+5	formulovat	Vf--------A----	Sb
+6	všechny	PLFP4----------	Atr
+7	procedurální	AAFP4----1A----	Atr
+8	náležitosti	NNFP4-----A----	Obj
+9	pro	RR--4----------	AuxP
+10	národní	AAFP4----1A----	Atr
+11	rady	NNFP4-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+mf920922-103-p2s20
+1	Zřejmě	Dg-------1A----	AuxY
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	jednalo	VpNS---XR-AA---	Pred
+5	o	RR--6----------	AuxP
+6	těchto	PDXP6----------	Atr
+7	věcech	NNFP6-----A----	Obj
+8	i	J^-------------	AuxZ
+9	politicky	Dg-------1A----	Adv
+10	.	Z:-------------	AuxK
+
+mf920922-103-p2s21A
+1	Národní	AAFP1----1A----	Atr
+2	rady	NNFP1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	mohly	VpTP---XR-AA---	Pred
+5	potom	Db-------------	Adv
+6	přijmout	Vf--------A----	Obj
+7	svá	P8NP4---------1	Atr
+8	právně	Dg-------1A----	Adv
+9	legitimní	AANP4----1A----	Atr
+10	kritéria	NNNP4-----A----	Obj
+11	pro	RR--4----------	AuxP
+12	uzavření	NNNS4-----A----	AtrAdv
+13	takové	PDFS2----------	Atr
+14	dohody	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+16	"	Z:-------------	AuxG
+
+mf920922-103-p2s21B
+1	Ve	RV--6----------	AuxP
+2	výborech	NNIP6-----A----	Adv
+3	však	J^-------------	Coord
+4	někteří	PZMP1----------	Atr
+5	poslanci	NNMP1-----A----	Sb
+6	upozorňovali	VpMP---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	zákon	NNIS1-----A----	Sb
+10	o	RR--6----------	AuxP
+11	způsobech	NNIP6-----A----	Atr
+12	zániku	NNIS2-----A----	Atr
+13	federace	NNFS2-----A----	Atr
+14	je	VB-S---3P-AA---	Obj
+15	nadbytečný	AAIS1----1A----	Pnom
+16	,	Z:-------------	AuxX
+17	když	J,-------------	AuxC
+18	slovenská	AAFS1----1A----	Atr
+19	ústava	NNFS1-----A----	Sb
+20	v	RR--6----------	AuxP
+21	článku	NNIS6-----A----	Adv
+22	7	C=-------------	Atr
+23	praví	VB-S---3P-AA---	Adv
+24	,	Z:-------------	AuxX
+25	že	J,-------------	AuxC
+26	Slovensko	NNNS1-----A----	Sb
+27	může	VB-S---3P-AA---	Obj
+28	vystoupit	Vf--------A----	Obj
+29	ze	RV--2----------	AuxP
+30	státního	AAIS2----1A----	Atr
+31	svazku	NNIS2-----A----	Adv
+32	,	Z:-------------	AuxX
+33	a	J^-------------	Coord
+34	toto	PDNS4----------	Atr
+35	právo	NNNS4-----A----	Obj
+36	nelze	VB-S---3P-NA---	Obj
+37	omezit	Vf--------A----	Sb
+38	.	Z:-------------	AuxK
+
+mf920922-103-p2s22
+1	"	Z:-------------	AuxG
+2	Návrh	NNIS1-----A----	Sb
+3	zákona	NNIS2-----A----	Atr
+4	o	RR--6----------	AuxP
+5	způsobech	NNIP6-----A----	Atr
+6	zániku	NNIS2-----A----	Atr
+7	nijak	Db-------------	Adv
+8	právo	NNNS4-----A----	Obj
+9	Slovenska	NNNS2-----A----	Atr
+10	vystoupit	Vf--------A----	Atr
+11	ze	RV--2----------	AuxP
+12	svazku	NNIS2-----A----	Adv
+13	neomezuje	VB-S---3P-NA---	Pred
+14	.	Z:-------------	AuxK
+
+mf920922-103-p2s23
+1	Taková	PDFS1----------	Atr
+2	interpretace	NNFS1-----A----	Sb
+3	zmíněného	AAIS2----1A----	Atr
+4	článku	NNIS2-----A----	Atr
+5	ústavy	NNFS2-----A----	Atr
+6	není	VB-S---3P-NA---	Pred
+7	pravdivá	AAFS1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	protože	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	vztahuje	VB-S---3P-AA---	Adv
+12	pouze	Db-------------	AuxZ
+13	na	RR--4----------	AuxP
+14	vystoupení	NNNS4-----A----	Obj
+15	Slovenské	AAFS2----1A----	Atr
+16	republiky	NNFS2-----A----	Atr
+17	ze	RV--2----------	AuxP
+18	svazku	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920922-103-p2s24A
+1	Slovensko	NNNS1-----A----	Sb
+2	však	J^-------------	Coord
+3	z	RR--2----------	AuxP
+4	federace	NNFS2-----A----	Adv
+5	nevystupuje	VB-S---3P-NA---	Pred
+6	.	Z:-------------	AuxK
+7	"	Z:-------------	AuxG
+
+mf920922-103-p2s24B
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	tedy	Db-------------	AuxY
+4	byla	VpQW---XR-AA---	AuxV
+5	uzavřena	VsQW---XX-AP---	Adv
+6	dohoda	NNFS1-----A----	Sb
+7	národních	AAFP2----1A----	Atr
+8	rad	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	podporoval	VpYS---XR-AA---	Pred
+11	byste	Vc-P---2-------	AuxV
+12	myšlenku	NNFS4-----A----	Obj
+13	ratifikačního	AANS2----1A----	Atr
+14	referenda	NNNS2-----A----	Atr
+15	?	Z:-------------	AuxK
+
+mf920922-103-p2s25A
+1	"	Z:-------------	AuxG
+2	Samozřejmě	Dg-------1A----	ExD
+3	.	Z:-------------	AuxK
+4	"	Z:-------------	AuxG
+
+mf920922-103-p2s25B
+1	A	J^-------------	AuxY
+2	pokud	J,-------------	AuxC
+3	by	Vc-------------	AuxV
+4	občané	NNMP1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	takovém	PDZS6----------	Atr
+7	referendu	NNNS6-----A----	Adv
+8	řekli	VpMP---XR-AA---	Adv
+9	"	Z:-------------	AuxG
+10	ne	TT-------------	Obj
+11	"	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	domníváte	VB-P---2P-AA---	Pred
+14	se	P7-X4----------	AuxT
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	lze	VB-S---3P-AA---	Obj
+18	proces	NNIS4-----A----	Obj
+19	rozpadu	NNIS2-----A----	Atr
+20	federace	NNFS2-----A----	Atr
+21	obrátit	Vf--------A----	Sb
+22	zpět	Db-------------	Adv
+23	ke	RV--3----------	AuxP
+24	konstituci	NNFS3-----A----	Adv
+25	nějakého	PZZS2----------	Atr
+26	společného	AAIS2----1A----	Atr
+27	svazku	NNIS2-----A----	Atr
+28	?	Z:-------------	AuxK
+
+mf920922-103-p2s26A
+1	"	Z:-------------	AuxG
+2	Nešlo	VpNS---XR-NA---	Pred
+3	by	Vc-------------	AuxV
+4	o	RR--4----------	AuxP
+5	zpětný	AAIS4----1A----	Atr
+6	proces	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	protože	J,-------------	AuxC
+9	platnost	NNFS1-----A----	Sb
+10	dohody	NNFS2-----A----	Atr
+11	by	Vc-------------	AuxV
+12	byla	VpQW---XR-AA---	AuxV
+13	podmíněna	VsQW---XX-AP---	Adv
+14	právě	Db-------------	AuxZ
+15	ratifikací	NNFS7-----A----	Adv
+16	referendem	NNNS7-----A----	Atr
+17	.	Z:-------------	AuxK
+18	"	Z:-------------	AuxG
+
+mf920922-103-p2s26B
+1	Nyní	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	však	J^-------------	Coord
+4	měl	VpYS---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	schválen	VsYS---XX-AP---	Obj
+7	nový	AAIS1----1A----	Atr
+8	kompetenční	AAIS1----1A----	Atr
+9	zákon	NNIS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	opět	Db-------------	Adv
+13	zeslabuje	VB-S---3P-AA---	Atr
+14	federaci	NNFS4-----A----	Obj
+15	a	J^-------------	Coord
+16	posiluje	VB-S---3P-AA---	Atr
+17	republiky	NNFP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+mf920922-103-p2s27
+1	To	PDNS1----------	Sb
+2	znamená	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	po	RR--6----------	AuxP
+6	nepřijetí	NNNS6-----N----	Adv
+7	dohody	NNFS2-----A----	Atr
+8	národních	AAFP2----1A----	Atr
+9	rad	NNFP2-----A----	Atr
+10	referendem	NNNS7-----A----	Atr
+11	by	Vc-------------	AuxV
+12	republiky	NNFP1-----A----	Sb
+13	existovaly	VpTP---XR-AA---	Obj
+14	v	RR--6----------	AuxP
+15	nějaké	PZFS6----------	Atr
+16	volnější	AAFS6----2A----	Atr
+17	federaci	NNFS6-----A----	Adv
+18	?	Z:-------------	AuxK
+
+mf920922-103-p2s28
+1	"	Z:-------------	AuxG
+2	HZDS	NNNXX-----A---8	Sb
+3	předkládalo	VpNS---XR-AA---	Pred
+4	návrh	NNIS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	konfederaci	NNFS4-----A----	Adv
+7	.	Z:-------------	AuxK
+
+mf920922-103-p2s29
+1	Samozřejmě	Dg-------1A----	AuxY
+2	konfederaci	NNFS4-----A----	ExD
+3	úplně	Dg-------1A----	Adv
+4	nového	AAIS2----1A----	Atr
+5	typu	NNIS2-----A----	Atr
+6	,	Z:-------------	Coord
+7	ne	TT-------------	ExD
+8	tak	Db-------------	Adv
+9	,	Z:-------------	AuxX
+10	jak	Db-------------	Adv
+11	je	VB-S---3P-AA---	Adv
+12	známá	AAFS1----1A----	Pnom
+13	z	RR--2----------	AuxP
+14	historie	NNFS2-----A----	Adv
+15	a	J^-------------	Coord
+16	z	RR--2----------	AuxP
+17	dějin	NNFP2-----A----	Adv
+18	státu	NNIS2-----A----	Atr
+19	a	J^-------------	Coord
+20	práva	NNNS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920922-103-p2s30
+1	Prosazujeme	VB-P---1P-AA---	Pred
+2	formu	NNFS4-----A----	Obj
+3	spolužití	NNNS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	které	P4NS1----------	Sb
+6	by	Vc-------------	AuxV
+7	respektovalo	VpNS---XR-AA---	Atr
+8	suverenitu	NNFS4-----A----	Obj
+9	republik	NNFP2-----A----	Atr
+10	i	J^-------------	AuxZ
+11	v	RR--6----------	AuxP
+12	mezinárodněprávních	AAIP6----1A----	Atr
+13	vztazích	NNIP6-----A----	AtrAdv
+14	,	Z:-------------	AuxX
+15	s	RR--7----------	AuxP
+16	tím	PDZS7----------	Adv
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	chceme	VB-P---1P-AA---	Atr
+20	současně	Dg-------1A----	Adv
+21	kooperovat	Vf--------A----	Obj
+22	,	Z:-------------	Coord
+23	spolužít	Vf--------A----	Obj
+24	s	RR--7----------	AuxP
+25	ČR	NNFXX-----A---8	Adv
+26	v	RR--6----------	AuxP
+27	podobě	NNFS6-----A----	Adv
+28	,	Z:-------------	AuxX
+29	kterou	P4FS4----------	Obj
+30	si	P7-X3----------	Adv
+31	dohodneme	VB-P---1P-AA---	Atr
+32	.	Z:-------------	AuxK
+
+mf920922-103-p2s31
+1	Nevidím	VB-S---1P-NA---	Pred
+2	důvod	NNIS4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	aby	J,-------------	AuxC
+5	například	Db-------------	AuxY
+6	nebyla	VpQW---XR-NA---	Atr
+7	celní	AAFS1----1A----	Atr
+8	unie	NNFS1-----A----	Sb
+9	mezi	RR--7----------	AuxP
+10	těmito	PDXP7----------	Atr
+11	dvěma	ClFD7----------	Atr
+12	republikami	NNFP7-----A----	Atr
+13	,	Z:-------------	Coord
+14	aby	J,-------------	AuxC
+15	tu	Db------------1	Adv
+16	nebyla	VpQW---XR-NA---	Atr
+17	měnová	AAFS1----1A----	Atr
+18	unie	NNFS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+mf920922-103-p2s32A
+1	Bohužel	TT-------------	AuxY
+2	,	Z:-------------	AuxX
+3	někteří	PZMP1----------	Atr
+4	čeští	AAMP1----1A----	Atr
+5	politici	NNMP1-----A----	Sb
+6	hovoří	VB-P---3P-AA---	Pred
+7	sice	Db-------------	AuxY
+8	o	RR--6----------	AuxP
+9	unii	NNFS6-----A----	Obj
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	má	VB-S---3P-AA---	Pred
+13	to	PDNS1----------	Sb
+14	být	Vf--------A----	Obj
+15	nějaká	PZFS1----------	Atr
+16	prapodivná	AAFS1----1A----	Atr
+17	unie	NNFS1-----A----	Pnom
+18	,	Z:-------------	AuxX
+19	protože	J,-------------	AuxC
+20	se	P7-X4----------	AuxR
+21	předpokládá	VB-S---3P-AA---	Adv
+22	znovu	Db-------------	Adv
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	by	Vc-------------	AuxV
+26	celnice	NNFP1-----A----	Sb
+27	existovaly	VpTP---XR-AA---	Sb
+28	mezi	RR--7----------	AuxP
+29	hranicemi	NNFP7-----A----	Adv
+30	jedné	ClFS2----------	Atr
+31	a	J^-------------	Coord
+32	druhé	CrFS2----------	Atr
+33	republiky	NNFS2-----A----	Atr
+34	.	Z:-------------	AuxK
+35	"	Z:-------------	AuxG
+
+mf920922-103-p2s32B
+1	Existují	VB-P---3P-AA---	Pred
+2	ale	J^-------------	Coord
+3	obavy	NNFP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	po	RR--6----------	AuxP
+7	přijetí	NNNS6-----A----	Adv
+8	kompetenční	AAFS2----1A----	Atr
+9	novely	NNFS2-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	federace	NNFS1-----A----	Sb
+12	zbaví	VB-S---3P-AA---	Atr
+13	řady	NNFS2-----A----	Obj
+14	nezbytných	AAFP2----1N----	Atr
+15	pravomocí	NNFP2-----A----	Atr
+16	a	J^-------------	Coord
+17	nastoupený	AAIS1----1A----	Atr
+18	proces	NNIS1-----A----	Sb
+19	dělení	NNNS2-----A----	Atr
+20	ČSFR	NNFXX-----A---8	Atr
+21	se	P7-X4----------	AuxT
+22	zastaví	VB-S---3P-AA---	Atr
+23	na	RR--6----------	AuxP
+24	jakémsi	PZZS6----------	Atr
+25	státu	NNIS6-----A---1	Adv
+26	-	Z:-------------	Coord
+27	nestátu	NNIS6-----N----	Adv
+28	,	Z:-------------	AuxX
+29	protože	J,-------------	AuxC
+30	FS	NNNXX-----A---8	Sb
+31	poté	Db-------------	Adv
+32	neodhlasuje	VB-S---3P-NA---	Adv
+33	zákon	NNIS4-----A----	Obj
+34	o	RR--6----------	AuxP
+35	způsobech	NNIP6-----A----	Atr
+36	zániku	NNIS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+mf920922-103-p2s33
+1	"	Z:-------------	AuxG
+2	Kompetenční	AAFS1----1A----	Atr
+3	novela	NNFS1-----A----	Sb
+4	na	RR--6----------	AuxP
+5	věci	NNFS6-----A----	Adv
+6	nic	PW--4----------	Obj
+7	nemění	VB-S---3P-NA---	Pred
+8	.	Z:-------------	AuxK
+
+mf920922-103-p2s34
+1	Naznačené	AAFP1----1A----	Atr
+2	obavy	NNFP1-----A----	Sb
+3	nejsou	VB-P---3P-NA---	Pred
+4	opodstatněné	AAFP1----1A----	Pnom
+5	.	Z:-------------	AuxK
+6	"	Z:-------------	AuxG
+
+mf920922-103-p3s1
+1	Ptala	VpQW---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	JANA	NNFS1-----A----	Atr
+4	BENDOVÁ	NNFS1-----A----	Sb
+
+mf920922-103-p4s1
+1	FOTO	NNNXX-----A----	ExD
+2	:	Z:-------------	ExD
+3	MAFA	NNFS1-----A----	ExD
+4	-	Z:-------------	AuxK
+
+mf920922-103-p4s2
+1	HERBERT	NNMS1-----A----	Atr
+2	SLAVÍK	NNMS1-----A----	ExD
+

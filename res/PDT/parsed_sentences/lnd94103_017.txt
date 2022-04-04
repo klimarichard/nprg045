@@ -1,0 +1,159 @@
+lnd94103-017-p1s1
+1	Budou	VB-P---3F-AA---	Pred
+2	antibiotika	NNNP1-----A----	Sb
+3	ještě	Db-------------	Adv
+4	účinná	AANP1----1A----	Pnom
+5	?	Z:-------------	AuxK
+
+lnd94103-017-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ria	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94103-017-p1s3
+1	Uspokojení	NNNS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	objevu	NNIS2-----A----	Atr
+4	penicilinu	NNIS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	znamenal	VpYS---XR-AA---	AtrAtr
+8	zvrat	NNIS4-----A----	Obj
+9	v	RR--6----------	AuxP
+10	léčbě	NNFS6-----A----	Atr
+11	infekčních	AAFP2----1A----	Atr
+12	chorob	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	je	VB-S---3P-AA---	Pred
+15	zřejmě	Dg-------1A----	Adv
+16	v	RR--6----------	AuxP
+17	koncích	NNIP6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+lnd94103-017-p1s4
+1	Odborníci	NNMP1-----A----	Sb
+2	stále	Dg-------1A----	Adv
+3	častěji	Dg-------2A----	Adv
+4	-	Z:-------------	AuxG
+5	naposledy	Db-------------	Adv
+6	na	RR--6----------	AuxP
+7	pražské	AAFS6----1A----	Atr
+8	mezinárodní	AAFS6----1A----	Atr
+9	konferenci	NNFS6-----A----	Adv
+10	o	RR--6----------	AuxP
+11	infekcích	NNFP6-----A----	Atr
+12	-	Z:-------------	AuxG
+13	upozorňují	VB-P---3P-AA---	Pred
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	mnohé	AAFP1----1A----	Atr
+17	bakterie	NNFP1-----A----	Sb
+18	začínají	VB-P---3P-AA---	Obj
+19	být	Vf--------A----	Obj
+20	vůči	RR--3----------	AuxP
+21	většině	NNFS3-----A----	Obj
+22	antibiotik	NNNP2-----A----	Atr
+23	odolné	AAFP1----1A----	Pnom
+24	.	Z:-------------	AuxK
+
+lnd94103-017-p1s5
+1	Podle	RR--2----------	AuxP
+2	dr	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	A	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Tomasze	NNMS2-----A----	Adv
+7	z	RR--2----------	AuxP
+8	USA	NNIPX-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	blížíme	VB-P---1P-AA---	Pred
+11	ke	RV--3----------	AuxP
+12	konci	NNIS3-----A----	Adv
+13	antibiotikové	AAFS2----1A----	Atr
+14	éry	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94103-017-p1s6
+1	V	RR--6----------	AuxP
+2	USA	NNIPX-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	např	Db------------8	AuxY
+5	.	Z:-------------	AuxG
+6	penicilin	NNIS1-----A----	Sb
+7	neúčinný	AAIS1----1N----	Pnom
+8	asi	TT-------------	AuxZ
+9	ve	RV--6----------	AuxP
+10	třech	ClXP6----------	Atr
+11	procentech	NNNP6-----A----	Adv
+12	případů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	před	RR--7----------	AuxP
+15	třemi	ClXP7----------	Atr
+16	roky	NNIP7-----A----	Adv
+17	to	PDNS1----------	Sb
+18	však	J^-------------	Coord
+19	bylo	VpNS---XR-AA---	Pred
+20	pouze	Db-------------	AuxZ
+21	0.02	C=-------------	Pnom
+22	%	Z:-------------	Atr
+23	.	Z:-------------	AuxK
+
+lnd94103-017-p1s7
+1	Existují	VB-P---3P-AA---	Pred
+2	už	Db-------------	Adv
+3	takové	PDFP1----------	Atr
+4	bakterie	NNFP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	které	P4FP4----------	Obj
+7	nezničí	VB-S---3P-NA---	Atr
+8	žádné	PWNS1----------	Atr
+9	antibiotikum	NNNS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+lnd94103-017-p1s8
+1	Přitom	Db-------------	Adv
+2	bakterie	NNFP1-----A----	Sb
+3	mají	VB-P---3P-AA---	Pred
+4	dobré	AAFP4----1A----	Atr
+5	schopnosti	NNFP4-----A----	Obj
+6	předávat	Vf--------A----	Atr
+7	si	P7-X3----------	Obj
+8	mezi	RR--7----------	AuxP
+9	sebou	P6-X7----------	Adv
+10	informace	NNFP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	jak	Db-------------	Adv
+13	měnit	Vf--------A----	Atr
+14	svou	P8FS4---------1	Atr
+15	podobu	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd94103-017-p1s9
+1	Odborníci	NNMP1-----A----	Sb
+2	vysvětlují	VB-P---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	bakterie	NNFP1-----A----	Sb
+6	zřejmě	Dg-------1A----	AuxY
+7	začaly	VpTP---XR-AA---	Obj
+8	bojovat	Vf--------A----	Obj
+9	o	RR--4----------	AuxP
+10	přežití	NNNS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+lnd94103-017-p1s10
+1	Varují	VB-P---3P-AA---	Pred
+2	též	Db-------------	Adv
+3	před	RR--7----------	AuxP
+4	nadměrným	AANS7----1A----	Atr
+5	používáním	NNNS7-----A----	Obj
+6	antibiotik	NNNP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4NS1----------	Sb
+9	obranyschopnost	NNFS4-----A----	Obj
+10	organismu	NNIS2-----A----	Atr
+11	snižuje	VB-S---3P-AA---	Atr
+12	.	Z:-------------	AuxK
+

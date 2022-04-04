@@ -1,0 +1,397 @@
+ln95046-009-p1s1
+1	Mathé	NNMS1-----A----	Sb
+2	požaduje	VB-S---3P-AA---	Pred
+3	od	RR--2----------	AuxP
+4	Novy	NNFS2-----A----	Obj
+5	opravu	NNFS4-----A----	Obj
+6	,	Z:-------------	Coord
+7	Železný	NNMS1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	nebojí	VB-S---3P-NA---	Pred
+10	soudního	AAIS2----1A----	Atr
+11	sporu	NNIS2-----A----	Obj
+
+ln95046-009-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-009-p2s1B
+1	Nevraživost	NNFS1-----A----	Sb
+2	televizních	AAMP2----1A----	Atr
+3	ředitelů	NNMP2-----A----	Atr
+4	hrozí	VB-S---3P-AA---	Pred
+5	přerůst	Vf--------A----	Obj
+6	v	RR--4----------	AuxP
+7	soudní	AAIS4----1A----	Atr
+8	spor	NNIS4-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln95046-009-p2s2
+1	Svědčí	VB-S---3P-AA---	Pred
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	výměna	NNFS1-----A----	Sb
+5	otevřených	AAIP2----1A----	Atr
+6	dopisů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	se	P7-X4----------	AuxR
+10	mezi	RR--7----------	AuxP
+11	Ivem	NNMS7-----A----	Atr
+12	Mathé	NNMXX-----A----	Adv
+13	z	RR--2----------	AuxP
+14	České	AAFS2----1A----	Atr
+15	televize	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	Vladimírem	NNMS7-----A----	Atr
+18	Železným	NNMS7-----A----	Adv
+19	z	RR--2----------	AuxP
+20	TV	NNFXX-----A---8	Adv
+21	Nova	NNFS1-----A----	Atr
+22	uskutečnila	VpQW---XR-AA---	Atr
+23	v	RR--6----------	AuxP
+24	posledních	AAIP6----1A----	Atr
+25	dnech	NNIP6-----A----	Adv
+26	.	Z:-------------	AuxK
+
+ln95046-009-p3s1
+1	Ve	RV--6----------	AuxP
+2	svém	P8ZS6----------	Atr
+3	dopise	NNIS6-----A----	Adv
+4	požádal	VpYS---XR-AA---	Pred
+5	ředitel	NNMS1-----A----	Atr
+6	Mathé	NNMS1-----A----	Sb
+7	Železného	NNMS4-----A----	Obj
+8	o	RR--4----------	AuxP
+9	uveřejnění	NNNS4-----A----	Obj
+10	opravy	NNFS2-----A----	Atr
+11	týkající	AGFS2-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	údajů	NNIP2-----A----	Obj
+14	,	Z:-------------	AuxX
+15	které	P4YP4----------	Obj
+16	odvysílala	VpQW---XR-AA---	Atr
+17	TV	NNFXX-----A---8	Sb
+18	Nova	NNFS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95046-009-p3s2
+1	Podle	RR--2----------	AuxP
+2	Iva	NNMS2-----A----	Atr
+3	Mathé	NNMSX-----A----	Adv
+4	mj	Db------------8	Adv
+5	.	Z:-------------	AuxG
+6	uvedla	VpQW---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	ČT	NNFXX-----A---8	Sb
+10	nemá	VB-S---3P-NA---	Obj
+11	nedostatek	NNIS4-----A----	Obj
+12	financí	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	že	J,-------------	AuxC
+16	s	RR--7----------	AuxP
+17	nimi	P5XP7--3-------	Adv
+18	nenakládá	VB-S---3P-NA---	Obj
+19	hospodárně	Dg-------1A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95046-009-p3s3
+1	V	RR--6----------	AuxP
+2	reportáži	NNFS6-----A----	Adv
+3	TV	NNFXX-----A---8	Atr
+4	Nova	NNFS1-----A----	Atr
+5	bylo	VpNS---XR-AA---	Pred
+6	dále	Db------------1	Adv
+7	podle	RR--2----------	AuxP
+8	I	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Mathé	NNMSX-----A----	Adv
+11	uvedeno	VsNS---XX-AP---	Pnom
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	výrobu	NNFS4-----A----	Obj
+15	vlastních	AAIP2----1A----	Atr
+16	pořadů	NNIP2-----A----	Atr
+17	ČT	NNFXX-----A---8	Sb
+18	snižuje	VB-S---3P-AA---	Sb
+19	.	Z:-------------	AuxK
+
+ln95046-009-p3s4
+1	Mathé	NNMS1-----A----	Sb
+2	namítá	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	ČT	NNFXX-----A---8	Sb
+6	v	RR--6----------	AuxP
+7	roce	NNIS6-----A---1	Adv
+8	1994	C=-------------	Atr
+9	vyrobila	VpQW---XR-AA---	Obj
+10	více	Dg-------2A----	Obj
+11	než	J,-------------	AuxC
+12	v	RR--6----------	AuxP
+13	roce	NNIS6-----A---1	ExD
+14	1993	C=-------------	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-009-p3s5
+1	V	RR--6----------	AuxP
+2	reportáži	NNFS6-----A----	Adv
+3	také	Db-------------	Adv
+4	měla	VpQW---XR-AA---	Pred
+5	být	Vf--------A----	Obj
+6	uvedena	VsQW---XX-AP---	Pnom
+7	informace	NNFS1-----A----	Sb
+8	o	RR--6----------	AuxP
+9	"	Z:-------------	AuxG
+10	zvýšených	AAIP6----1A----	Atr
+11	nákladech	NNIP6-----A----	Atr
+12	"	Z:-------------	AuxG
+13	ČT	NNFXX-----A---8	Atr
+14	.	Z:-------------	AuxK
+
+ln95046-009-p3s6
+1	Mathé	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	ohrazuje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	nárůst	NNIS1-----A----	Sb
+7	neexistuje	VB-S---3P-NA---	Obj
+8	.	Z:-------------	AuxK
+
+ln95046-009-p3s7
+1	"	Z:-------------	AuxG
+2	Rozpočet	NNIS1-----A----	Sb
+3	ČT	NNFXX-----A---8	Atr
+4	činí	VB-S---3P-AA---	Obj
+5	zhruba	Db-------------	AuxZ
+6	3.1	C=-------------	Obj
+7	mld	NNFXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Kč	NNFXX-----A----	Atr
+10	,	Z:-------------	Coord
+11	což	PE--1----------	Sb
+12	je	VB-S---3P-AA---	Obj
+13	pouhý	AAIS1----1A----	Atr
+14	dvojnásobek	NNIS1-----A----	Pnom
+15	rozpočtu	NNIS2-----A----	Atr
+16	TV	NNFXX-----A---8	Atr
+17	Nova	NNFS1-----A----	Atr
+18	,	Z:-------------	AuxX
+19	"	Z:-------------	AuxG
+20	uvádí	VB-S---3P-AA---	Pred
+21	.	Z:-------------	AuxK
+
+ln95046-009-p3s9
+1	V	RR--6----------	AuxP
+2	pořadu	NNIS6-----A----	Adv
+3	Volejte	Vi-P---2--A----	Atr
+4	řediteli	NNMS3-----A----	Obj
+5	měl	VpYS---XR-AA---	Pred
+6	Železný	NNMS1-----A----	Sb
+7	podle	RR--2----------	AuxP
+8	Iva	NNMS2-----A----	Atr
+9	Mathé	NNMSX-----A----	Adv
+10	uvést	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	americká	AAFS1----1A----	Atr
+14	produkce	NNFS1-----A----	Sb
+15	tvoří	VB-S---3P-AA---	Obj
+16	37	C=-------------	Obj
+17	%	Z:-------------	Atr
+18	vysílání	NNNS2-----A----	Atr
+19	ČT	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+ln95046-009-p3s10
+1	Ta	PDFS1----------	Sb
+2	prý	TT-------------	AuxY
+3	však	J^-------------	Coord
+4	představovala	VpQW---XR-AA---	Pred
+5	pouhých	AANP2----1A----	Atr
+6	11	C=-------------	Obj
+7	%	Z:-------------	Atr
+8	.	Z:-------------	AuxK
+
+ln95046-009-p3s11
+1	"	Z:-------------	AuxG
+2	Nedovedu	VB-S---1P-NA---	Obj
+3	si	P7-X3----------	Obj
+4	vysvětlit	Vf--------A----	Obj
+5	uvedené	AAFP4----1A----	Atr
+6	dezinformace	NNFP4-----A----	Obj
+7	jinak	Db-------------	Adv
+8	než	J,-------------	AuxC
+9	jako	J,-------------	AuxC
+10	zjevnou	AAFS4----1A----	Atr
+11	lež	NNFS4-----A----	ExD
+12	,	Z:-------------	AuxX
+13	"	Z:-------------	AuxG
+14	píše	VB-S---3P-AA---	Pred
+15	Mathé	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95046-009-p4s1
+1	Včera	Db-------------	Adv
+2	na	RR--4----------	AuxP
+3	dopis	NNIS4-----A----	Obj
+4	reagoval	VpYS---XR-AA---	Pred
+5	prohlášením	NNNS7-----A----	Adv
+6	ředitel	NNMS1-----A----	Atr
+7	Železný	NNMS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95046-009-p4s2
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	pořadu	NNIS6-----A----	Adv
+4	Volejte	Vi-P---2--A----	Atr
+5	řediteli	NNMS3-----A----	Obj
+6	byl	VpYS---XR-AA---	AuxV
+7	výslovně	Dg-------1A----	Adv
+8	a	J^-------------	Coord
+9	s	RR--7----------	AuxP
+10	výhradou	NNFS7-----A----	Adv
+11	citován	VsYS---XX-AP---	Pred
+12	údaj	NNIS1-----A----	Sb
+13	z	RR--2----------	AuxP
+14	tisku	NNIS2-----A----	Atr
+15	,	Z:-------------	Coord
+16	dokonce	Db-------------	AuxZ
+17	o	RR--6----------	AuxP
+18	korektnosti	NNFS6-----A----	Atr
+19	číselného	AAIS2----1A----	Atr
+20	údaje	NNIS2-----A----	Atr
+21	byla	VpQW---XR-AA---	AuxV
+22	vyjádřena	VsQW---XX-AP---	Pred
+23	pochybnost	NNFS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln95046-009-p4s3
+1	Oprava	NNFS1-----A----	Sb
+2	sdělení	NNNS2-----A----	Atr
+3	tedy	Db-------------	AuxY
+4	přináleží	VB-S---3P-AA---	Obj
+5	tisku	NNIS3-----A----	Obj
+6	,	Z:-------------	AuxX
+7	"	Z:-------------	AuxG
+8	uvedl	VpYS---XR-AA---	Pred
+9	Železný	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95046-009-p4s4
+1	Veškeré	PLIP1----------	Atr
+2	údaje	NNIP1-----A----	Sb
+3	byly	VpTP---XR-AA---	AuxV
+4	čerpány	VsTP---XX-AP---	Obj
+5	z	RR--2----------	AuxP
+6	tiskové	AAFS2----1A----	Atr
+7	konference	NNFS2-----A----	Adv
+8	ČT	NNFXX-----A---8	Atr
+9	nebo	J^-------------	Coord
+10	jiných	AAIP2----1A----	Atr
+11	autorizovaných	AAIP2----1A----	Atr
+12	zdrojů	NNIP2-----A----	Adv
+13	ČT	NNFXX-----A---8	Atr
+14	,	Z:-------------	AuxX
+15	říká	VB-S---3P-AA---	Pred
+16	ředitel	NNMS1-----A----	Sb
+17	TV	NNFXX-----A---8	Atr
+18	Nova	NNFS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95046-009-p4s5
+1	Citace	NNFS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	pořadů	NNIP2-----A----	Atr
+4	TV	NNFXX-----A---8	Atr
+5	Nova	NNFS1-----A----	Atr
+6	nebyly	VpTP---XR-NA---	AuxV
+7	podle	RR--2----------	AuxP
+8	Železného	NNMS2-----A----	Adv
+9	ani	J^-------------	AuxZ
+10	v	RR--6----------	AuxP
+11	jednom	ClZS6----------	Atr
+12	případě	NNIS6-----A----	Adv
+13	proneseny	VsTP---XX-AP---	Pred
+14	tak	Db-------------	Adv
+15	,	Z:-------------	AuxX
+16	jak	Db-------------	Adv
+17	jsou	VB-P---3P-AA---	AuxV
+18	uváděny	VsTP---XX-AP---	Adv
+19	v	RR--6----------	AuxP
+20	dopise	NNIS6-----A----	Adv
+21	I	NNMXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	Mathé	NNMXX-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95046-009-p4s6
+1	"	Z:-------------	AuxG
+2	Mathé	NNMS1-----A----	Sb
+3	naopak	Db-------------	Adv
+4	využil	VpYS---XR-AA---	Pred
+5	příležitosti	NNFS2-----A----	Obj
+6	k	RR--3----------	AuxP
+7	uvedení	NNNS3-----A----	Adv
+8	mylných	AAIP2----1A----	Atr
+9	údajů	NNIP2-----A----	Atr
+10	a	J^-------------	Coord
+11	tvrzení	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95046-009-p4s7
+1	Uvítáme	VB-P---1P-AA---	Obj
+2	proto	J^-------------	Coord
+3	případné	AANS4----1A----	Atr
+4	soudní	AANS4----1A----	Atr
+5	vymáhání	NNNS4-----A----	Obj
+6	tiskové	AAFS2----1A----	Atr
+7	opravy	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	"	Z:-------------	AuxG
+10	prohlásil	VpYS---XR-AA---	Pred
+11	šéf	NNMS1-----A----	Sb
+12	Novy	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95046-009-p4s8
+1	Železný	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	také	Db-------------	Adv
+4	ohrazuje	VB-S---3P-AA---	Pred
+5	proti	RR--3----------	AuxP
+6	srovnání	NNNS3-----A----	Obj
+7	rozpočtů	NNIP2-----A----	Atr
+8	ČT	NNFXX-----A---8	Atr
+9	a	J^-------------	Coord
+10	TV	NNFXX-----A---8	Atr
+11	Nova	NNFS1-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95046-009-p4s9
+1	Z	RR--2----------	AuxP
+2	daňového	AANS2----1A----	Atr
+3	přiznání	NNNS2-----A----	Obj
+4	podle	RR--2----------	AuxP
+5	Železného	NNMS2-----A----	Adv
+6	plyne	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	rozpočet	NNIS1-----A----	Sb
+10	TV	NNFXX-----A---8	Atr
+11	Nova	NNFS1-----A----	Atr
+12	je	VB-S---3P-AA---	Sb
+13	jen	TT-------------	AuxZ
+14	kdesi	Db-------------	Adv
+15	mezi	RR--7----------	AuxP
+16	třetinou	CyFS7----------	Adv
+17	a	J^-------------	Coord
+18	čtvrtinou	CyFS7----------	Adv
+19	rozpočtu	NNIS2-----A----	Atr
+20	ČT	NNFXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+

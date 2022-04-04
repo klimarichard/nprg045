@@ -1,0 +1,124 @@
+ln95045-122-p1s1
+1	Zabavený	AAIS1----1A----	Atr
+2	hotel	NNIS1-----A----	Sb
+3	Ohře	NNFS1-----A----	Atr
+4	jde	VB-S---3P-AA---	Pred
+5	do	RR--2----------	AuxP
+6	dražby	NNFS2-----A----	Adv
+
+ln95045-122-p2s1A
+1	Sokolov	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-122-p2s1B
+1	Finanční	AAIS1----1A----	Atr
+2	úřad	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Sokolově	NNIS6-----A----	Atr
+5	hodlá	VB-S---3P-AA---	Pred
+6	v	RR--4----------	AuxP
+7	úterý	NNNS4-----A----	Adv
+8	28	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	února	NNIS2-----A---1	AtrAdv
+11	vydražit	Vf--------A----	Obj
+12	místní	AAIS4----1A----	Atr
+13	hotel	NNIS4-----A----	Obj
+14	Ohře	NNFS1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	který	P4IS4----------	Obj
+17	zabavil	VpYS---XR-AA---	Atr
+18	uvězněnému	AAMS3----1A----	Atr
+19	podnikateli	NNMS3-----A----	Atr
+20	Karlu	NNMS3-----A---1	Atr
+21	Haisovi	NNMS3-----A---1	Obj
+22	,	Z:-------------	AuxX
+23	a	J^-------------	Coord
+24	získat	Vf--------A----	Obj
+25	takto	Db-------------	Adv
+26	dlužné	AAFP4----1A----	Atr
+27	daně	NNFP4-----A----	Obj
+28	.	Z:-------------	AuxK
+
+ln95045-122-p3s1
+1	Odhadní	AAFS1----1A----	Atr
+2	a	J^-------------	Coord
+3	současně	Dg-------1A----	Adv
+4	vyvolávací	AAFS1----1A----	Atr
+5	cena	NNFS1-----A----	Sb
+6	hotelu	NNIS2-----A----	Atr
+7	včetně	RR--2----------	AuxP
+8	příslušenství	NNNS2-----A----	Atr
+9	a	J^-------------	Coord
+10	pozemku	NNIS2-----A----	Atr
+11	je	VB-S---3P-AA---	Pred
+12	stanovena	VsQW---XX-AP---	Pnom
+13	na	RR--4----------	AuxP
+14	17.6	C=-------------	Obj
+15	mil	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95045-122-p3s2
+1	Podmínkou	NNFS7-----A----	Pnom
+2	účasti	NNFS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	dražbě	NNFS6-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	složení	NNNS1-----A----	Sb
+7	dražební	AAFS2----1A----	Atr
+8	jistoty	NNFS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	poloviční	AAFS6----1A----	Atr
+11	výši	NNFS6-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95045-122-p4s1
+1	Šestipodlažní	AAIS1----1A----	Atr
+2	hotel	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	centru	NNNS6-----A----	Atr
+5	okresního	AANS2----1A----	Atr
+6	města	NNNS2-----A----	Atr
+7	má	VB-S---3P-AA---	Pred
+8	kapacitu	NNFS4-----A----	Obj
+9	220	C=-------------	Atr
+10	lůžek	NNNP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	restauraci	NNFS4-----A----	Obj
+13	pro	RR--4----------	AuxP
+14	60	C=-------------	Atr
+15	hostů	NNMP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	dva	ClYP4----------	Atr
+18	salónky	NNIP4-----A----	Obj
+19	s	RR--7----------	AuxP
+20	50	C=-------------	Atr
+21	místy	NNNP7-----A----	Atr
+22	,	Z:-------------	AuxX
+23	cukrárnu	NNFS4-----A----	Obj
+24	pro	RR--4----------	AuxP
+25	40	C=-------------	Atr
+26	návštěvníků	NNMP2-----A----	Atr
+27	a	J^-------------	Coord
+28	letní	AAFS4----1A----	Atr
+29	terasu	NNFS4-----A----	Obj
+30	se	RV--7----------	AuxP
+31	stejnou	AAFS7----1A----	Atr
+32	kapacitou	NNFS7-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln95045-122-p4s2
+1	Byl	VpYS---XR-AA---	AuxV
+2	postaven	VsYS---XX-AP---	Pred
+3	před	RR--7----------	AuxP
+4	jedenačtyřiceti	Cn-P7----------	Atr
+5	lety	NNNP7-----A----	Adv
+6	a	J^-------------	Coord
+7	životnost	NNFS4-----A----	Obj
+8	má	VB-S---3P-AA---	Pred
+9	sto	NNNS4-----A----	Atr
+10	let	NNNP2-----A----	Atr
+11	.	Z:-------------	AuxK
+

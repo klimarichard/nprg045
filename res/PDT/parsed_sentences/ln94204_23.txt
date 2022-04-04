@@ -1,0 +1,85 @@
+ln94204-23-p1s1
+1	Žádný	PWYS1----------	Atr
+2	obchod	NNIS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	Plodinové	AAFS6----1A----	Atr
+5	burze	NNFS6-----A----	ExD
+
+ln94204-23-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jak	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-23-p2s1B
+1	Žádný	PWYS1----------	Atr
+2	obchod	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	neuskutečnil	VpYS---XR-NA---	Pred
+5	během	RR--2----------	AuxP
+6	včerejšího	AANS2----1A----	Atr
+7	burzovního	AANS2----1A----	Atr
+8	shromáždění	NNNS2-----A----	Adv
+9	na	RR--6----------	AuxP
+10	Plodinové	AAFS6----1A----	Atr
+11	burze	NNFS6-----A----	Atr
+12	Brno	NNNS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-23-p2s2
+1	U	RR--2----------	AuxP
+2	potravinářské	AAFS2----1A----	Atr
+3	pšenice	NNFS2-----A----	Adv
+4	a	J^-------------	Coord
+5	krmného	AAIS2----1A----	Atr
+6	hrachu	NNIS2-----A----	Adv
+7	byl	VpYS---XR-AA---	Pred
+8	příčinou	NNFS7-----A----	Pnom
+9	značný	AAIS1----1A----	Atr
+10	cenový	AAIS1----1A----	Atr
+11	rozdíl	NNIS1-----A----	Sb
+12	mezi	RR--7----------	AuxP
+13	nabídkou	NNFS7-----A----	Atr
+14	koupě	NNFS2-----A----	Atr
+15	(	Z:-------------	ExD
+16	průměrná	AAFS1----1A----	Atr
+17	cena	NNFS1-----A----	ExD
+18	2600	C=-------------	Atr
+19	Kč	NNFXX-----A----	Atr
+20	)	Z:-------------	ExD
+21	a	J^-------------	Coord
+22	nabídkou	NNFS7-----A----	Atr
+23	prodeje	NNIS2-----A----	Atr
+24	(	Z:-------------	ExD
+25	průměrná	AAFS1----1A----	Atr
+26	cena	NNFS1-----A----	ExD
+27	3070	C=-------------	Atr
+28	Kč	NNFXX-----A----	Atr
+29	)	Z:-------------	ExD
+30	,	Z:-------------	Coord
+31	u	RR--2----------	AuxP
+32	ostatních	AAFP2----1A----	Atr
+33	komodit	NNFP2-----A----	Adv
+34	byla	VpQW---XR-AA---	AuxV
+35	zaznamenána	VsQW---XX-AP---	Pred
+36	pouze	Db-------------	AuxZ
+37	nabídka	NNFS1-----A----	Sb
+38	koupě	NNFS2-----A----	Atr
+39	nebo	J^-------------	Coord
+40	nabídka	NNFS1-----A----	Sb
+41	prodeje	NNIS2-----A----	Atr
+42	.	Z:-------------	AuxK
+
+ln94204-23-p2s3
+1	Další	AANS1----1A----	Atr
+2	burzovní	AANS1----1A----	Atr
+3	shromáždění	NNNS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	bude	VB-S---3F-AA---	AuxV
+6	konat	Vf--------A----	Pred
+7	13	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	září	NNNS2-----A----	Adv
+10	.	Z:-------------	AuxK
+

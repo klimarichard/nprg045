@@ -1,0 +1,235 @@
+mf930709-018-p1s1
+1	Nemocnice	NNFS1-----A----	Sb
+2	Milosrdných	AAMP2----1A----	Atr
+3	bratří	NNMP2-----A---1	Atr
+4	začíná	VB-S---3P-AA---	Pred
+5	hospodařit	Vf--------A----	Obj
+6	samostatně	Dg-------1A----	Adv
+
+mf930709-018-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	kar	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-018-p2s1B
+1	Nemocnice	NNFS1-----A----	Sb
+2	Milosrdných	AAMP2----1A----	Atr
+3	bratří	NNMP2-----A---1	Atr
+4	má	VB-S---3P-AA---	Pred
+5	od	RR--2----------	AuxP
+6	počátku	NNIS2-----A----	Adv
+7	tohoto	PDZS2----------	Atr
+8	měsíce	NNIS2-----A----	Atr
+9	právní	AAFS4----1A----	Atr
+10	subjektivitu	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+mf930709-018-p2s2A
+1	Dosud	Db-------------	Adv
+2	nemocnice	NNFS1-----A----	Sb
+3	fungovala	VpQW---XR-AA---	Pred
+4	jako	J,-------------	AuxY
+5	součást	NNFS1-----A----	Atv
+6	Sdružení	NNNS2-----A----	Atr
+7	zdravotnických	AANP2----1A----	Atr
+8	zařízení	NNNP2-----A----	Atr
+9	I	C}-------------	Atr
+10	.	Z:-------------	AuxK
+
+mf930709-018-p2s2B
+1	Do	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	rozpočtu	NNIS2-----A----	Adv
+4	přispívala	VpQW---XR-AA---	Pred
+5	54	C=-------------	Atr
+6	procenty	NNNP7-----A----	Adv
+7	,	Z:-------------	AuxX
+8	ačkoliv	J,-------------	AuxC
+9	zde	Db-------------	Adv
+10	pracovala	VpQW---XR-AA---	Adv
+11	pouze	Db-------------	AuxZ
+12	třetina	CyFS1----------	Sb
+13	zaměstnanců	NNMP2-----A----	Atr
+14	sdružení	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf930709-018-p2s3
+1	Řád	NNIS1-----A----	Sb
+2	Milosrdných	AAMP2----1A----	Atr
+3	bratří	NNMP2-----A---1	Atr
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	o	RR--4----------	AuxP
+7	osamostatnění	NNNS4-----A----	Obj
+8	nemocnice	NNFS2-----A----	Atr
+9	usiluje	VB-S---3P-AA---	Atr
+10	už	Db-------------	AuxZ
+11	přes	RR--4----------	AuxP
+12	rok	NNIS4-----A----	Adv
+13	,	Z:-------------	AuxX
+14	očekává	VB-S---3P-AA---	Pred
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	se	P7-X4----------	AuxR
+18	mu	PHZS3--3-------	Obj
+19	nyní	Db-------------	Adv
+20	vrátí	VB-S---3P-AA---	Obj
+21	většina	NNFS1-----A----	Sb
+22	budov	NNFP2-----A----	Atr
+23	nemocničního	AAIS2----1A----	Atr
+24	komplexu	NNIS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf930709-018-p2s5
+1	Z	RR--2----------	AuxP
+2	restituce	NNFS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	však	J^-------------	Coord
+5	například	Db-------------	AuxY
+6	vyňata	VsQW---XX-AP---	Pnom
+7	Léčebna	NNFS1-----A----	Sb
+8	pro	RR--4----------	AuxP
+9	dlouhodobě	Dg-------1A----	Adv
+10	nemocné	AAMP4----1A----	Atr
+11	,	Z:-------------	AuxX
+12	která	P4FS1----------	Sb
+13	byla	VpQW---XR-AA---	AuxV
+14	ke	RV--3----------	AuxP
+15	starým	AAFP3----1A----	Atr
+16	budovám	NNFP3-----A----	Adv
+17	nemocnice	NNFS2-----A----	Atr
+18	přistavěna	VsQW---XX-AP---	Atr
+19	v	RR--6----------	AuxP
+20	osmdesátých	CrNP6----------	Atr
+21	letech	NNNP6-----A----	Adv
+22	.	Z:-------------	AuxK
+
+mf930709-018-p2s6
+1	Léčebna	NNFS1-----A----	Sb
+2	dlouhodobě	Dg-------1A----	Adv
+3	nemocných	AAMP2----1A----	Atr
+4	a	J^-------------	Coord
+5	zbytek	NNIS1-----A----	Sb
+6	areálu	NNIS2-----A----	Atr
+7	jsou	VB-P---3P-AA---	AuxV
+8	financovány	VsTP---XX-AP---	Pred
+9	z	RR--2----------	AuxP
+10	různých	AAIP2----1A----	Atr
+11	zdrojů	NNIP2-----A----	Obj
+12	.	Z:-------------	AuxK
+
+mf930709-018-p2s7
+1	Provoz	NNIS4-----A----	Obj
+2	léčebny	NNFS2-----A----	Atr
+3	hradí	VB-S---3P-AA---	Pred
+4	město	NNNS1-----A----	Sb
+5	,	Z:-------------	Coord
+6	partnerem	NNMS7-----A----	Pnom
+7	nemocnice	NNFS2-----A----	Atr
+8	je	VB-S---3P-AA---	Pred
+9	zdravotní	AAFS1----1A----	Atr
+10	pojišťovna	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+mf930709-018-p2s8
+1	Oběma	ClXP3----------	Atr
+2	zařízením	NNNP3-----A----	Obj
+3	s	RR--7----------	AuxP
+4	celkovou	AAFS7----1A----	Atr
+5	kapacitou	NNFS7-----A----	Atr
+6	490	C=-------------	Atr
+7	lůžek	NNNP2-----A----	Atr
+8	přispívá	VB-S---3P-AA---	Pred
+9	církevní	AAFS1----1A----	Atr
+10	Nadace	NNFS1-----A----	Sb
+11	J	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	Dobrovského	NNMS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	podporovaná	AAFS1----1A----	Atr
+16	Milosrdnými	AAMP7----1A----	Atr
+17	bratry	NNMP7-----A----	Obj
+18	z	RR--2----------	AuxP
+19	Rakouska	NNNS2-----A----	Atr
+20	a	J^-------------	Coord
+21	Bavorska	NNNS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf930709-018-p2s9
+1	Z	RR--2----------	AuxP
+2	konta	NNNS2-----A----	Adv
+3	nadace	NNFS2-----A----	Atr
+4	byly	VpTP---XR-AA---	AuxV
+5	už	Db-------------	Adv
+6	investovány	VsTP---XX-AP---	Pred
+7	tři	ClXP1----------	Atr
+8	miliony	NNIP1-----A----	Sb
+9	na	RR--4----------	AuxP
+10	koupi	NNFS4-----A----	Adv
+11	lékařských	AAIP2----1A----	Atr
+12	přístrojů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf930709-018-p2s10
+1	Podle	RR--2----------	AuxP
+2	provinciála	NNMS2-----A----	Atr
+3	Milosrdných	AAMP2----1A----	Atr
+4	bratří	NNMP2-----A---1	Atr
+5	Stanislava	NNMS2-----A----	Atr
+6	Fialy	NNMS2-----A----	Adv
+7	bude	VB-S---3F-AA---	AuxV
+8	nemocnice	NNFS1-----A----	Sb
+9	spravovaná	AAFS1----1A----	Atr
+10	řádem	NNIS7-----A----	Obj
+11	nadále	Db-------------	Adv
+12	sloužit	Vf--------A----	Pred
+13	městu	NNNS3-----A----	Obj
+14	.	Z:-------------	AuxK
+
+mf930709-018-p2s11
+1	Bratři	NNMP1-----A----	Sb
+2	chtějí	VB-P---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	duchu	NNMS6-----A---1	Adv
+5	tradiční	AAFS2----1A----	Atr
+6	úrovně	NNFS2-----A----	Atr
+7	svých	P8XP2----------	Atr
+8	zařízení	NNNP2-----A----	Atr
+9	po	RR--6----------	AuxP
+10	převzetí	NNNS6-----A----	Adv
+11	nemocnice	NNFS2-----A----	Atr
+12	zlepšit	Vf--------A----	Obj
+13	ošetřovatelskou	AAFS4----1A----	Atr
+14	péči	NNFS4-----A----	Obj
+15	a	J^-------------	Coord
+16	odbornost	NNFS4-----A----	Obj
+17	personálu	NNIS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	nemíní	VB-P---3P-NA---	Pred
+20	však	J^-------------	Coord
+21	současné	AAMP4----1A----	Atr
+22	zaměstnance	NNMP4-----A----	Obj
+23	nemocnice	NNFS2-----A----	Atr
+24	propouštět	Vf--------A----	Obj
+25	.	Z:-------------	AuxK
+
+mf930709-018-p2s13
+1	Řád	NNIS1-----A----	Sb
+2	dosud	Db-------------	Adv
+3	čeká	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	restituci	NNFS4-----A----	Obj
+6	všech	PLXP2----------	Atr
+7	sedmi	Cn-P2----------	Atr
+8	nemocnic	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4FP4----------	Obj
+11	má	VB-S---3P-AA---	Atr
+12	na	RR--6----------	AuxP
+13	území	NNNS6-----A----	Adv
+14	České	AAFS2----1A----	Atr
+15	republiky	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+

@@ -1,0 +1,418 @@
+ln94209-28-p1s1
+1	Státní	AAFP1----1A----	Atr
+2	zakázky	NNFP1-----A----	ExD
+3	a	J^-------------	Coord
+4	výběr	NNIS1-----A----	ExD
+5	firem	NNFP2-----A----	Atr
+
+ln94209-28-p2s1A
+1	Podle	RR--2----------	AuxP
+2	některých	PZXP2----------	Atr
+3	poslanců	NNMP2-----A----	Adv
+4	není	VB-S---3P-NA---	Pred
+5	nutná	AAFS1----1A----	Pnom
+6	kontrola	NNFS1-----A----	Sb
+7	ze	RV--2----------	AuxP
+8	strany	NNFS2-----A----	AuxP
+9	parlamentu	NNIS2-----A----	Atr
+
+ln94209-28-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	haš	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	če	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94209-28-p2s1C
+1	Poslanci	NNMP1-----A----	Sb
+2	koaličních	AAFP2----1A----	Atr
+3	stran	NNFP2-----A----	Atr
+4	nepovažují	VB-P---3P-NA---	Pred
+5	za	RR--4----------	AuxP
+6	nutné	AANS4----1A----	Obj
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	zadávání	NNNS4-----A----	Obj
+10	státních	AAFP2----1A----	Atr
+11	zakázek	NNFP2-----A----	Atr
+12	jednotlivým	AAFP3----1A----	Atr
+13	firmám	NNFP3-----A----	Atr
+14	kontroloval	VpYS---XR-AA---	Obj
+15	parlament	NNIS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94209-28-p2s2
+1	Nepočítá	VB-S---3P-NA---	Pred
+2	s	RR--7----------	AuxP
+3	tím	PDZS7----------	Obj
+4	ani	J^-------------	AuxZ
+5	vládní	AAFS1----1A----	Atr
+6	předloha	NNFS1-----A----	Sb
+7	zákona	NNIS2-----A----	Atr
+8	o	RR--6----------	AuxP
+9	zadávání	NNNS6-----A----	Atr
+10	veřejných	AAFP2----1A----	Atr
+11	zakázek	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kterou	P4FS4----------	Obj
+14	začnou	VB-P---3P-AA---	Atr
+15	výbory	NNIP1-----A----	Sb
+16	projednávat	Vf--------A----	Obj
+17	tento	PDIS4----------	Atr
+18	týden	NNIS4-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln94209-28-p3s1
+1	Člen	NNMS1-----A----	Atr
+2	rozpočtového	AAIS2----1A----	Atr
+3	výboru	NNIS2-----A----	Atr
+4	Tomáš	NNMS1-----A----	Atr
+5	Páv	NNMS1-----A----	Sb
+6	(	Z:-------------	ExD
+7	ODS	NNFXX-----A---8	ExD
+8	)	Z:-------------	ExD
+9	LN	NNFPX-----A---8	Obj
+10	řekl	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	není	VB-S---3P-NA---	Obj
+14	možné	AANS1----1A----	Pnom
+15	srovnávat	Vf--------A----	Sb
+16	náš	PSIS4-P1-------	Atr
+17	systém	NNIS4-----A----	Obj
+18	zadávání	NNNS2-----A----	Atr
+19	státních	AAFP2----1A----	Atr
+20	zakázek	NNFP2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	za	RR--4----------	AuxP
+23	něž	P9XP4----------	Obj
+24	odpovídají	VB-P---3P-AA---	Atr
+25	výhradně	Dg-------1A----	Adv
+26	ministerstva	NNNP1-----A----	Sb
+27	,	Z:-------------	AuxX
+28	se	RV--7----------	AuxP
+29	systémem	NNIS7-----A----	Obj
+30	americkým	AAIS7----1A----	Atr
+31	,	Z:-------------	AuxX
+32	kde	Db-------------	Adv
+33	o	RR--6----------	AuxP
+34	každé	AAFS6----1A----	Atr
+35	zakázce	NNFS6-----A----	Obj
+36	rozhoduje	VB-S---3P-AA---	Atr
+37	Kongres	NNIS1-----A----	Sb
+38	.	Z:-------------	AuxK
+
+ln94209-28-p3s2
+1	Náš	PSYS1-P1-------	Atr
+2	rozpočet	NNIS1-----A----	Sb
+3	uvolňuje	VB-S---3P-AA---	Pred
+4	finance	NNFP4-----A----	Obj
+5	globálně	Dg-------1A----	Adv
+6	pro	RR--4----------	AuxP
+7	jednotlivé	AAIP4----1A----	Atr
+8	resorty	NNIP4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	zatímco	J,-------------	AuxC
+11	v	RR--6----------	AuxP
+12	USA	NNIPX-----A----	Adv
+13	Kongres	NNIS1-----A----	Sb
+14	peníze	NNIP4-----A----	Obj
+15	uvolňuje	VB-S---3P-AA---	Adv
+16	na	RR--4----------	AuxP
+17	každou	AAFS4----1A----	Atr
+18	akci	NNFS4-----A----	Adv
+19	zvlášť	Db-------------	Adv
+20	.	Z:-------------	AuxK
+
+ln94209-28-p3s3
+1	Mají	VB-P---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	tedy	Db-------------	AuxY
+5	naše	PSHP1-P1-------	Atr
+6	ministerstva	NNNP1-----A----	Sb
+7	pravomoc	NNFS4-----A----	Obj
+8	svobodně	Dg-------1A----	Adv
+9	nakládat	Vf--------A----	Atr
+10	s	RR--7----------	AuxP
+11	prostředky	NNIP7-----A----	Obj
+12	,	Z:-------------	AuxX
+13	jež	PJXP4----------	Obj
+14	jim	PPXP3--3-------	Obj
+15	parlament	NNIS1-----A----	Sb
+16	vyčleňuje	VB-S---3P-AA---	Atr
+17	ze	RV--2----------	AuxP
+18	státního	AAIS2----1A----	Atr
+19	rozpočtu	NNIS2-----A----	Adv
+20	,	Z:-------------	AuxX
+21	musejí	VB-P---3P-AA---	Pred
+22	podle	RR--2----------	AuxP
+23	Páva	NNMS2-----A----	Adv
+24	odpovídat	Vf--------A----	Obj
+25	sama	PLNP1----------	AtvV
+26	i	J^-------------	AuxZ
+27	za	RR--4----------	AuxP
+28	výběr	NNIS4-----A----	Obj
+29	podniků	NNIP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94209-28-p3s4
+1	Kontrola	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	potom	Db-------------	Adv
+4	zabezpečena	VsQW---XX-AP---	Pnom
+5	zpětně	Dg-------1A----	Adv
+6	prostřednictvím	NNNS7-----A----	AuxP
+7	Nejvyššího	AAIS2----3A----	Atr
+8	kontrolního	AAIS2----1A----	Atr
+9	úřadu	NNIS2-----A----	Adv
+10	a	J^-------------	Coord
+11	rozpočtového	AAIS2----1A----	Atr
+12	výboru	NNIS2-----A----	Adv
+13	sněmovny	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94209-28-p3s5
+1	Na	RR--4----------	AuxP
+2	dotaz	NNIS4-----A----	Adv
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	by	Vc-------------	AuxV
+6	aplikace	NNFS1-----A----	Sb
+7	amerického	AAIS2----1A----	Atr
+8	systému	NNIS2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	naše	PSXP4-P1-------	Atr
+11	podmínky	NNFP4-----A----	Atr
+12	odstranila	VpQW---XR-AA---	Atr
+13	nebezpečí	NNNS4-----A----	Obj
+14	korupce	NNFS2-----A----	Atr
+15	státních	AAMP2----1A----	Atr
+16	úředníků	NNMP2-----A----	Atr
+17	při	RR--6----------	AuxP
+18	výběru	NNIS6-----A----	AtrAtr
+19	firem	NNFP2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	Páv	NNMS1-----A----	Sb
+22	řekl	VpYS---XR-AA---	Pred
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	nikoli	Db------------1	ExD
+26	.	Z:-------------	AuxK
+
+ln94209-28-p3s6
+1	Nemyslím	VB-S---1P-NA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	jsou	VB-P---3P-AA---	Obj
+5	poslanci	NNMP1-----A----	Sb
+6	natolik	Db-------------	Adv
+7	kvalifikovaní	AAMP1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	byli	VpMP---XR-AA---	Adv
+11	schopni	ACMP------A----	Pnom
+12	takové	PDFP4----------	Atr
+13	záležitosti	NNFP4-----A----	Obj
+14	posuzovat	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94209-28-p3s7
+1	Pro	RR--4----------	AuxP
+2	naše	PSXP4-P1-------	Atr
+3	podmínky	NNFP4-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	podle	RR--2----------	AuxP
+6	něho	P5ZS2--3------1	Adv
+7	současný	AAIS1----1A----	Atr
+8	způsob	NNIS1-----A----	Sb
+9	hodí	VB-S---3P-AA---	Pred
+10	lépe	Dg-------2A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94209-28-p3s8
+1	Ke	RV--3----------	AuxP
+2	korupci	NNFS3-----A----	Adv
+3	státních	AAMP2----1A----	Atr
+4	úředníků	NNMP2-----A----	Atr
+5	poslanec	NNMS1-----A----	Sb
+6	uvedl	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	to	PDNS4----------	Obj
+10	udělají	VB-P---3P-AA---	Obj
+11	jenom	TT-------------	AuxZ
+12	jednou	Cv-------------	Adv
+13	.	Z:-------------	AuxK
+
+ln94209-28-p3s9
+1	I	J^-------------	AuxZ
+2	za	RR--4----------	AuxP
+3	to	PDNS4----------	Obj
+4	odpovídají	VB-P---3P-AA---	Pred
+5	jednotliví	AAMP1----1A----	Atr
+6	ministři	NNMP1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+ln94209-28-p3s10
+1	Pávovi	NNMS3-----A----	Obj
+2	prý	TT-------------	AuxY
+3	spíše	Dg-------2A---1	Adv
+4	vadí	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	ministerstva	NNNP1-----A----	Sb
+8	si	P7-X3----------	AuxT
+9	na	RR--4----------	AuxP
+10	tuto	PDFS4----------	Atr
+11	hru	NNFS4-----A----	Obj
+12	zatím	Db-------------	Adv
+13	nezvykla	VpQW---XR-NA--1	Sb
+14	.	Z:-------------	AuxK
+
+ln94209-28-p3s11
+1	Vždy	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	snaží	VB-P---3P-AA---	Obj
+4	omluvit	Vf--------A----	Obj
+5	pochybení	NNNP4-----A----	Obj
+6	svých	P8XP2----------	Atr
+7	úředníků	NNMP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	místo	J,-------------	AuxP
+10	aby	J,-------------	AuxC
+11	z	RR--2----------	AuxP
+12	toho	PDZS2----------	Obj
+13	vyvozovala	VpQW---XR-AA---	Adv
+14	konkrétní	AAIP4----1A----	Atr
+15	důsledky	NNIP4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	řekl	VpYS---XR-AA---	Pred
+18	.	Z:-------------	AuxK
+
+ln94209-28-p3s12
+1	Podotkl	VpYS---XR-AA--1	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	je	VB-S---3P-AA---	Obj
+5	věcí	NNFS7-----A----	Pnom
+6	parlamentu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	přitvrdil	VpYS---XR-AA---	Sb
+10	svůj	P8IS4----------	Atr
+11	postup	NNIS4-----A----	Obj
+12	vůči	RR--3----------	AuxP
+13	těm	PDXP3----------	Atr
+14	resortům	NNIP3-----A----	Atr
+15	,	Z:-------------	AuxX
+16	které	P4IP1----------	Sb
+17	znevažují	VB-P---3P-AA---	Atr
+18	závěry	NNIP4-----A----	Obj
+19	Nejvyššího	AAIS2----3A----	Atr
+20	kontrolního	AAIS2----1A----	Atr
+21	úřadu	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94209-28-p4s1
+1	Místopředseda	NNMS1-----A----	Atr
+2	sněmovny	NNFS2-----A----	Atr
+3	Karel	NNMS1-----A----	Atr
+4	Ledvinka	NNMS1-----A----	Sb
+5	(	Z:-------------	ExD
+6	ODA	NNFXX-----A---8	ExD
+7	)	Z:-------------	ExD
+8	považuje	VB-S---3P-AA---	Pred
+9	za	RR--4----------	AuxP
+10	dostatečné	AANS4----1A----	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	parlament	NNIS1-----A----	Sb
+14	sleduje	VB-S---3P-AA---	Obj
+15	zadávání	NNNS4-----A----	Obj
+16	státních	AAFP2----1A----	Atr
+17	zakázek	NNFP2-----A----	Atr
+18	formou	NNFS7-----A----	AuxP
+19	kontroly	NNFS2-----A----	Adv
+20	rozpočtové	AAFS2----1A----	Atr
+21	kapitoly	NNFS2-----A----	Atr
+22	všeobecná	AAFS1----1A----	Atr
+23	pokladní	AAFS1----1A----	Atr
+24	správa	NNFS1-----A----	Atr
+25	,	Z:-------------	AuxX
+26	do	RR--2----------	AuxP
+27	níž	P9FS2----------	Adv
+28	tyto	PDFP1----------	Atr
+29	zakázky	NNFP1-----A----	Sb
+30	spadají	VB-P---3P-AA---	Atr
+31	.	Z:-------------	AuxK
+
+ln94209-28-p5s1
+1	Podle	RR--2----------	AuxP
+2	předsedy	NNMS2-----A----	Atr
+3	klubu	NNIS2-----A----	Atr
+4	LB	NNIXX-----A---8	Atr
+5	Jaroslava	NNMS2-----A----	Atr
+6	Ortmana	NNMS2-----A----	Adv
+7	nestačí	VB-S---3P-NA---	Pred
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	zakázky	NNFP4-----A----	Obj
+11	vybírala	VpQW---XR-AA---	Sb
+12	ministerstva	NNNP1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94209-28-p5s2
+1	Vedle	RR--2----------	AuxP
+2	NKÚ	NNIXX-----A---8	Adv
+3	by	Vc-------------	AuxV
+4	měl	VpYS---XR-AA---	Pred
+5	výběr	NNIS4-----A----	Obj
+6	firem	NNFP2-----A----	Atr
+7	kontrolovat	Vf--------A----	Obj
+8	i	J^-------------	AuxZ
+9	příslušný	AAIS1----1A----	Atr
+10	parlamentní	AAIS1----1A----	Atr
+11	výbor	NNIS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94209-28-p5s3
+1	Nesmí	VB-S---3P-NA---	Obj
+2	se	P7-X4----------	AuxT
+3	stát	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	opakovala	VpQW---XR-AA---	Sb
+8	kauza	NNFS1-----A----	Sb
+9	Lotynka	NNFS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	zdůraznil	VpYS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94209-28-p5s4
+1	Ortman	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	domnívá	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	státní	AAFP4----1A----	Atr
+7	zakázky	NNFP4-----A----	Obj
+8	by	Vc-------------	AuxV
+9	v	RR--6----------	AuxP
+10	zájmu	NNIS6-----A----	AuxP
+11	omezení	NNNS2-----A----	Adv
+12	lokální	AAFS2----1A----	Atr
+13	nezaměstnanosti	NNFS2-----A----	Atr
+14	měly	VpTP---XR-AA---	Obj
+15	v	RR--6----------	AuxP
+16	budoucnu	NNNS6-----A----	Adv
+17	zadávat	Vf--------A----	Obj
+18	i	J^-------------	AuxZ
+19	vyšší	AAIP1----2A----	Atr
+20	územněsprávní	AAIP1----1A----	Atr
+21	celky	NNIP1-----A----	Sb
+22	.	Z:-------------	AuxK
+

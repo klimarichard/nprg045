@@ -1,0 +1,276 @@
+ln94210-37-p1s1
+1	Nová	AAFS1----1A----	Atr
+2	zdravotní	AAFS1----1A----	Atr
+3	pojišťovna	NNFS1-----A----	Sb
+4	upřednostňuje	VB-S---3P-AA---	Pred
+5	prevenci	NNFS4-----A----	Obj
+
+ln94210-37-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pech	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94210-37-p2s1B
+1	Prevence	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	léčba	NNFS1-----A----	Sb
+4	urgentních	AAIP2----1A----	Atr
+5	stavů	NNIP2-----A----	Atr
+6	a	J^-------------	Coord
+7	rekondiční	AAFS1----1A----	Atr
+8	i	J^-------------	Coord
+9	rehabilitační	AAFS1----1A----	Atr
+10	péče	NNFS1-----A----	Sb
+11	jsou	VB-P---3P-AA---	Pred
+12	základem	NNIS7-----A----	Pnom
+13	medicínského	AAIS2----1A----	Atr
+14	programu	NNIS2-----A----	Atr
+15	České	AAFS2----1A----	Atr
+16	národní	AAFS2----1A----	Atr
+17	zdravotní	AAFS2----1A----	Atr
+18	pojišťovny	NNFS2-----A----	Atr
+19	(	Z:-------------	Apos
+20	ČNZP	NNFXX-----A---8	Atr
+21	)	Z:-------------	AuxG
+22	,	Z:-------------	AuxX
+23	která	P4FS1----------	Sb
+24	v	RR--6----------	AuxP
+25	září	NNNS6-----A----	Adv
+26	oficiálně	Dg-------1A----	Adv
+27	zahájila	VpQW---XR-AA---	Atr
+28	svou	P8FS4---------1	Atr
+29	činnost	NNFS4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln94210-37-p2s2
+1	Její	PSZS1FS3-------	Atr
+2	ředitel	NNMS1-----A----	Atr
+3	Jiří	NNMS1-----A----	Atr
+4	Bek	NNMS1-----A----	Sb
+5	řekl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	pojišťovna	NNFS1-----A----	Sb
+9	nabízí	VB-S---3P-AA---	Obj
+10	svým	P8XP3----------	Atr
+11	klientům	NNMP3-----A----	Obj
+12	princip	NNIS4-----A----	Obj
+13	individuálního	AAIS2----1A----	Atr
+14	účtu	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94210-37-p2s3
+1	Vždy	Db-------------	Adv
+2	v	RR--6----------	AuxP
+3	lednu	NNIS6-----A----	Adv
+4	jim	PPXP3--3-------	Obj
+5	zašle	VB-S---3P-AA---	Pred
+6	celkové	AANS4----1A----	Atr
+7	vyúčtování	NNNS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94210-37-p2s4
+1	Podle	RR--2----------	AuxP
+2	Pavla	NNMS2-----A----	Atr
+3	Zacha	NNMS2-----A----	Adv
+4	z	RR--2----------	AuxP
+5	ČNZP	NNFXX-----A---8	Atr
+6	mají	VB-P---3P-AA---	Pred
+7	prevenci	NNFS4-----A----	Obj
+8	ve	RV--6----------	AuxP
+9	svém	P8ZS6----------	Atr
+10	programu	NNIS6-----A----	Adv
+11	všechny	PLFP1----------	Atr
+12	pojišťovny	NNFP1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	málokdo	PZM-1----------	Sb
+16	v	RR--6----------	AuxP
+17	posledních	AANP6----1A----	Atr
+18	letech	NNNP6-----A----	Adv
+19	absolvoval	VpYS---XR-AA---	Pred
+20	skutečně	Dg-------1A----	Adv
+21	důkladné	AANS4----1A----	Atr
+22	preventivní	AANS4----1A----	Atr
+23	vyšetření	NNNS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94210-37-p2s5
+1	Přitom	Db-------------	Adv
+2	například	Db-------------	AuxZ
+3	většinu	NNFS4-----A----	Obj
+4	zhoubných	AAIP2----1A----	Atr
+5	nádorů	NNIP2-----A----	Atr
+6	lze	VB-S---3P-AA---	Pred
+7	při	RR--6----------	AuxP
+8	včasném	AANS6----1A----	Atr
+9	podchycení	NNNS6-----A----	Adv
+10	léčit	Vf--------A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94210-37-p2s6
+1	Nová	AAFS1----1A----	Atr
+2	pojišťovna	NNFS1-----A----	Sb
+3	chce	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	její	PSXP1FS3-------	Atr
+7	klienti	NNMP1-----A----	Sb
+8	preventivní	AAFP4----1A----	Atr
+9	prohlídky	NNFP4-----A----	Obj
+10	pravidelně	Dg-------1A----	Adv
+11	absolvovali	VpMP---XR-AA---	Obj
+12	.	Z:-------------	AuxK
+
+ln94210-37-p2s7
+1	ČNZP	NNFXX-----A---8	Sb
+2	nenabízí	VB-S---3P-NA---	Pred
+3	tzv	AAXXX----1A---8	Atr
+4	.	Z:-------------	AuxG
+5	nadstandardy	NNIP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	nechává	VB-S---3P-AA---	Pred
+9	na	RR--6----------	AuxP
+10	svých	P8XP6----------	Atr
+11	pojištěncích	NNMP6-----A----	Obj
+12	,	Z:-------------	AuxX
+13	aby	J,-------------	AuxC
+14	se	P7-X4----------	AuxT
+15	sami	PLMP1----------	AtvV
+16	rozhodli	VpMP---XR-AA--1	Obj
+17	pro	RR--4----------	AuxP
+18	výkon	NNIS4-----A----	Adv
+19	nad	RR--4----------	AuxP
+20	rámec	NNIS4-----A----	Atr
+21	běžné	AAFS2----1A----	Atr
+22	péče	NNFS2-----A----	Atr
+23	na	RR--6----------	AuxP
+24	základě	NNIS6-----A----	AuxP
+25	svého	P8ZS2----------	Atr
+26	účtu	NNIS2-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln94210-37-p2s8
+1	ČNZP	NNFXX-----A---8	Sb
+2	spolupracuje	VB-S---3P-AA---	Pred
+3	s	RR--7----------	AuxP
+4	Podnikem	NNIS7-----A----	Obj
+5	výpočetní	AAFS2----1A----	Atr
+6	techniky	NNFS2-----A----	Atr
+7	a	J^-------------	Coord
+8	má	VB-S---3P-AA---	Pred
+9	přes	RR--4----------	AuxP
+10	350	C=-------------	Obj
+11	poboček	NNFP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	místech	NNNP6-----A----	AtrAdv
+14	,	Z:-------------	AuxX
+15	kde	Db-------------	Adv
+16	probíhala	VpQW---XR-AA---	Atr
+17	kuponová	AAFS1----1A----	Atr
+18	privatizace	NNFS1-----A----	Sb
+19	a	J^-------------	Coord
+20	kde	Db-------------	Adv
+21	je	VB-S---3P-AA---	Atr
+22	RM	AAXXX----1A---8	Atr
+23	-	Z:-------------	AuxG
+24	Systém	NNIS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln94210-37-p2s9
+1	Funkční	AAFS1----1A----	Atr
+2	počítačová	AAFS1----1A----	Atr
+3	síť	NNFS1-----A----	Sb
+4	umožňuje	VB-S---3P-AA---	Pred
+5	vytvořit	Vf--------A----	Obj
+6	databázi	NNFS4-----A----	Obj
+7	všech	PLXP2----------	Atr
+8	pacientů	NNMP2-----A----	Atr
+9	a	J^-------------	Coord
+10	provedených	AAIP2----1A----	Atr
+11	výkonů	NNIP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	údaje	NNIP4-----A----	Obj
+14	v	RR--6----------	AuxP
+15	ní	P5FS6--3-------	Atr
+16	bude	VB-S---3F-AA---	Pred
+17	možné	AANS1----1A----	Pnom
+18	kdykoli	Db------------1	Adv
+19	zkontrolovat	Vf--------A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94210-37-p2s10
+1	Pojištěnci	NNMP1-----A----	Sb
+2	budou	VB-P---3F-AA---	AuxV
+3	mít	Vf--------A----	Pred
+4	karty	NNFP4-----A----	Obj
+5	s	RR--7----------	AuxP
+6	čárkovým	AAIS7----1A----	Atr
+7	kódem	NNIS7-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP1----------	Sb
+10	by	Vc-------------	AuxV
+11	ve	RV--6----------	AuxP
+12	spojení	NNNS6-----A----	AuxP
+13	s	RR--7----------	AuxP
+14	databází	NNFS7-----A----	Adv
+15	měly	VpTP---XR-AA---	Atr
+16	lékaři	NNMS3-----A----	Obj
+17	například	Db-------------	AuxZ
+18	v	RR--6----------	AuxP
+19	sanitce	NNFS6-----A----	Adv
+20	podat	Vf--------A----	Obj
+21	informace	NNFP4-----A----	Obj
+22	o	RR--6----------	AuxP
+23	pacientově	AUIS6M---------	Atr
+24	stavu	NNIS6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94210-37-p2s11
+1	LN	NNFPX-----A---8	Sb
+2	se	P7-X4----------	AuxT
+3	zajímaly	VpTP---XR-AA---	Pred
+4	o	RR--4----------	AuxP
+5	názor	NNIS4-----A----	Obj
+6	ministra	NNMS2-----A----	Atr
+7	zdravotnictví	NNNS2-----A----	Atr
+8	Luďka	NNMS2-----A----	Atr
+9	Rubáše	NNMS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	novou	AAFS4----1A----	Atr
+12	pojišťovnu	NNFS4-----A----	Atr
+13	a	J^-------------	Coord
+14	jí	PPFS7--3-------	Obj
+15	nabízený	AAIS4----1A----	Atr
+16	princip	NNIS4-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94210-37-p2s12
+1	Tento	PDYS1----------	Atr
+2	princip	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Obj
+4	mi	PH-S3--1-------	Obj
+5	v	RR--6----------	AuxP
+6	zásadě	NNFS6-----A----	Adv
+7	sympatický	AAIS1----1A----	Pnom
+8	a	J^-------------	Coord
+9	je	VB-S---3P-AA---	Obj
+10	podobný	AAIS1----1A----	Pnom
+11	určitým	AAIP3----1A----	Atr
+12	trendům	NNIP3-----A----	Obj
+13	směřujícím	AGIP3-----A----	Atr
+14	k	RR--3----------	AuxP
+15	osobní	AAFS3----1A----	Atr
+16	odpovědnosti	NNFS3-----A----	Adv
+17	,	Z:-------------	AuxX
+18	kterou	P4FS4----------	Obj
+19	prosazuje	VB-S---3P-AA---	Atr
+20	ministerstvo	NNNS1-----A----	Sb
+21	zdravotnictví	NNNS2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	uvedl	VpYS---XR-AA---	Pred
+24	.	Z:-------------	AuxK
+

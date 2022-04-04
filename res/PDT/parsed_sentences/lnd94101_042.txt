@@ -1,0 +1,334 @@
+lnd94101-042-p1s1A
+1	Czernin	NNMS1-----A----	Sb
+2	usiluje	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	Čechách	NNFP6-----A----	Adv
+5	o	RR--4----------	AuxP
+6	miliardovou	AAFS4----1A----	Atr
+7	restituci	NNFS4-----A----	Obj
+
+lnd94101-042-p1s1B
+1	Konec	NNIS1-----A----	ExD
+2	podtitulku	NNIS2-----A----	Atr
+
+lnd94101-042-p1s2
+1	Plzeň	NNFS1-----A----	ExD
+2	,	Z:-------------	Coord
+3	Praha	NNFS1-----A----	ExD
+4	(	Z:-------------	ExD
+5	vet	NNXXX-----A---8	ExD
+6	,	Z:-------------	Coord
+7	js	NNXXX-----A---8	ExD
+8	)	Z:-------------	ExD
+9	-	Z:-------------	AuxK
+
+lnd94101-042-p1s3
+1	O	RR--4----------	AuxP
+2	navrácení	NNNS4-----A----	Obj
+3	zhruba	Db-------------	Adv
+4	třiceti	Cn-P2----------	Atr
+5	panství	NNNP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	zámků	NNIP2-----A----	Atr
+8	a	J^-------------	Coord
+9	statků	NNIP2-----A----	Atr
+10	i	J^-------------	AuxZ
+11	s	RR--7----------	AuxP
+12	polnostmi	NNFP7-----A----	Atr
+13	,	Z:-------------	AuxX
+14	lesy	NNIP7-----A----	Atr
+15	a	J^-------------	Coord
+16	rybníky	NNIP7-----A----	Atr
+17	v	RR--6----------	AuxP
+18	západních	AAFP6----1A----	Atr
+19	,	Z:-------------	AuxX
+20	severních	AAFP6----1A----	Atr
+21	a	J^-------------	Coord
+22	jižních	AAFP6----1A----	Atr
+23	Čechách	NNFP6-----A----	Atr
+24	usiluje	VB-S---3P-AA---	Pred
+25	potomek	NNMS1-----A----	Atr
+26	bývalé	AAFS2----1A----	Atr
+27	české	AAFS2----1A----	Atr
+28	šlechty	NNFS2-----A----	Atr
+29	,	Z:-------------	AuxX
+30	nyní	Db-------------	Atr
+31	rakousko	A2--------A----	Atr
+32	-	Z:-------------	Coord
+33	český	AAMS1----1A----	Atr
+34	občan	NNMS1-----A----	Atr
+35	Rudolf	NNMS1-----A----	Atr
+36	Czernin	NNMS1-----A----	Sb
+37	.	Z:-------------	AuxK
+
+lnd94101-042-p1s4
+1	Cena	NNFS1-----A----	Sb
+2	tohoto	PDZS2----------	Atr
+3	majetku	NNIS2-----A----	Atr
+4	převyšuje	VB-S---3P-AA---	Pred
+5	miliardu	NNFS4-----A----	Obj
+6	korun	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd94101-042-p1s5
+1	Podle	RR--2----------	AuxP
+2	pracovníků	NNMP2-----A----	Adv
+3	památkového	AAIS2----1A----	Atr
+4	ústavu	NNIS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Plzni	NNFS6-----A----	Atr
+7	však	J^-------------	AuxY
+8	Rudolfův	AUMS1M---------	Atr
+9	otec	NNMS1-----A----	Sb
+10	Evžen	NNMS1-----A----	Atr
+11	spolupracoval	VpYS---XR-AA---	Pred
+12	s	RR--7----------	AuxP
+13	fašisty	NNMP7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd94101-042-p1s6
+1	Nelze	VB-S---3P-NA---	Pred
+2	ho	PHZS4--3-------	Obj
+3	proto	J^-------------	Coord
+4	ztotožňovat	Vf--------A----	Sb
+5	s	RR--7----------	AuxP
+6	jeho	PSXXXZS3-------	Atr
+7	bratrem	NNMS7-----A----	Atr
+8	Rudolfem	NNMS7-----A----	Atr
+9	Černínem	NNMS7-----A----	Obj
+10	.	Z:-------------	AuxK
+
+lnd94101-042-p1s7
+1	Ten	PDYS1----------	Sb
+2	jediný	AAMS1----1A----	Atr
+3	nekolaboroval	VpYS---XR-NA---	Pred
+4	a	J^-------------	Coord
+5	neponěmčil	VpYS---XR-NA---	Pred
+6	si	P7-X3----------	AuxO
+7	ani	J^-------------	AuxZ
+8	své	P8NS4---------1	Atr
+9	české	AANS4----1A----	Atr
+10	příjmení	NNNS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+lnd94101-042-p1s8
+1	Oprávněnost	NNFS1-----A----	Sb
+2	konfiskace	NNFS2-----A----	Atr
+3	černínského	AAIS2----1A----	Atr
+4	majetku	NNIS2-----A----	Atr
+5	na	RR--6----------	AuxP
+6	základě	NNIS6-----A----	Atr
+7	Benešových	AUIP2M---------	Atr
+8	dekretů	NNIP2-----A----	Atr
+9	je	VB-S---3P-AA---	Pred
+10	podle	RR--2----------	AuxP
+11	odborníků	NNMP2-----A----	Adv
+12	nesporná	AAFS1----1N----	Pnom
+13	.	Z:-------------	AuxK
+
+lnd94101-042-p1s9
+1	Pozemkový	AAIS1----1A----	Atr
+2	úřad	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Domažlicích	NNFP6-----A----	Atr
+5	restituční	AANS4----1A----	Atr
+6	řízení	NNNS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	tomto	PDZS6----------	Atr
+9	případě	NNIS6-----A----	AtrAdv
+10	pozastavil	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	neboť	J^-------------	Coord
+13	dědic	NNMS1-----A----	Sb
+14	dosud	Db-------------	Adv
+15	nepodal	VpYS---XR-NA---	Pred
+16	přesný	AAIS4----1A----	Atr
+17	výpis	NNIS4-----A----	Obj
+18	všech	PLXP2----------	Atr
+19	požadovaných	AAFP2----1A----	Atr
+20	nemovitostí	NNFP2-----A----	Atr
+21	i	J^-------------	Coord
+22	movitostí	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+lnd94101-042-p1s10
+1	Czernin	NNMS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	rád	ACYS------A----	Atv
+4	dostal	VpYS---XR-AA---	Pred
+5	zpět	Db-------------	Adv
+6	mj	Db------------8	Adv
+7	.	Z:-------------	AuxG
+8	v	RR--6----------	AuxP
+9	západních	AAFP6----1A----	Atr
+10	Čechách	NNFP6-----A----	Adv
+11	Svrčovec	NNIS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	Chudenice	NNFP4-----A----	Obj
+14	,	Z:-------------	Coord
+15	vodní	AAIS4----1A----	Atr
+16	hrad	NNIS4-----A----	Obj
+17	Švihov	NNIS4-----A----	Atr
+18	atd	Db------------8	Obj
+19	.	Z:-------------	AuxG
+20	,	Z:-------------	Coord
+21	v	RR--6----------	AuxP
+22	jižních	AAFP6----1A----	Atr
+23	Čechách	NNFP6-----A----	ExD
+24	kromě	RR--2----------	AuxP
+25	jiného	AANS2----1A----	ExD
+26	panství	NNNS4-----A----	ExD
+27	Jindřichův	AUIS4M---------	Atr
+28	Hradec	NNIS4-----A----	Atr
+29	se	RV--7----------	AuxP
+30	zámkem	NNIS7-----A----	Atr
+31	,	Z:-------------	AuxX
+32	vlastní	AAFS7----1A----	Atr
+33	elektrárnou	NNFS7-----A----	Atr
+34	a	J^-------------	Coord
+35	pivovarem	NNIS7-----A----	Atr
+36	.	Z:-------------	AuxK
+
+lnd94101-042-p1s11
+1	Památkáři	NNMP1-----A----	Sb
+2	upozorňují	VB-P---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	na	RR--4----------	AuxP
+5	to	PDNS4----------	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	například	Db-------------	Adv
+9	statek	NNIS1-----A----	Sb
+10	Poleň	NNFS1-----A----	Atr
+11	u	RR--2----------	AuxP
+12	Chudenic	NNFP2-----A----	Atr
+13	tomuto	PDZS3----------	Atr
+14	rodu	NNIS3-----A----	Obj
+15	nepatří	VB-S---3P-NA---	Atr
+16	už	Db-------------	AuxZ
+17	od	RR--2----------	AuxP
+18	roku	NNIS2-----A---1	Adv
+19	1918	C=-------------	Atr
+20	.	Z:-------------	AuxK
+
+lnd94101-042-p1s12
+1	Neradi	ACMP------N----	AtvV
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	také	Db-------------	AuxZ
+5	loučili	VpMP---XR-AA---	Pred
+6	se	RV--7----------	AuxP
+7	Švihovem	NNIS7-----A----	Obj
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	byl	VpYS---XR-AA---	AuxV
+11	restaurován	VsYS---XX-AP---	Atr
+12	za	RR--4----------	AuxP
+13	miliony	NNIP4-----A----	Adv
+14	korun	NNFP2-----A----	Atr
+15	z	RR--2----------	AuxP
+16	kapes	NNFP2-----A----	AtrAdv
+17	daňových	AAMP2----1A----	Atr
+18	poplatníků	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94101-042-p1s13
+1	V	RR--6----------	AuxP
+2	posledních	AAIP6----1A----	Atr
+3	měsících	NNIP6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	intenzivně	Dg-------1A----	Adv
+6	diskutovalo	VpNS---XR-AA---	Pred
+7	o	RR--6----------	AuxP
+8	restitucích	NNFP6-----A----	Obj
+9	majetku	NNIS2-----A----	Atr
+10	Karlu	NNMS3-----A---1	Atr
+11	Des	NNMXX-----A----	Atr
+12	Fours	NNMXX-----A----	Atr
+13	Walderode	NNMS1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	který	P4YS1----------	Sb
+16	získal	VpYS---XR-AA---	Atr
+17	89	C=-------------	Obj
+18	hektarů	NNIP2-----A----	Atr
+19	lesů	NNIP2-----A----	Atr
+20	na	RR--6----------	AuxP
+21	Semilsku	NNNS6-----A----	AtrAdv
+22	v	RR--6----------	AuxP
+23	polovině	NNFS6-----A----	Adv
+24	roku	NNIS2-----A---1	Atr
+25	1993	C=-------------	Atr
+26	.	Z:-------------	AuxK
+
+lnd94101-042-p1s14
+1	Ministerstvo	NNNS1-----A----	Sb
+2	vnitra	NNNS2-----A----	Atr
+3	ČR	NNFXX-----A---8	Atr
+4	udělilo	VpNS---XR-AA---	Pred
+5	státní	AANS4----1A----	Atr
+6	občanství	NNNS4-----A----	Obj
+7	Walderodemu	NNMS3-----A----	Obj
+8	na	RR--6----------	AuxP
+9	základě	NNIS6-----A----	AuxP
+10	zákona	NNIS2-----A----	Adv
+11	z	RR--2----------	AuxP
+12	roku	NNIS2-----A---1	Atr
+13	1969	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	"	Z:-------------	AuxG
+16	protože	J,-------------	AuxC
+17	byl	VpYS---XR-AA---	Adv
+18	po	RR--6----------	AuxP
+19	válce	NNFS6-----A----	Adv
+20	československým	AAMS7----1A----	Atr
+21	státním	AAMS7----1A----	Atr
+22	občanem	NNMS7-----A----	Pnom
+23	a	J^-------------	Coord
+24	měl	VpYS---XR-AA---	Adv
+25	poválečné	AANS4----1A----	Atr
+26	osvědčení	NNNS4-----A----	Obj
+27	o	RR--6----------	AuxP
+28	národní	AAFS6----1A----	Atr
+29	spolehlivosti	NNFS6-----A----	Atr
+30	"	Z:-------------	AuxG
+31	.	Z:-------------	AuxK
+
+lnd94101-042-p1s15
+1	Generální	AAFS1----1A----	Atr
+2	prokuratura	NNFS1-----A----	Sb
+3	ČR	NNFXX-----A---8	Atr
+4	protestovala	VpQW---XR-AA---	Pred
+5	u	RR--2----------	AuxP
+6	ministra	NNMS2-----A----	Adv
+7	vnitra	NNNS2-----A----	Atr
+8	proti	RR--3----------	AuxP
+9	tomu	PDZS3----------	Atr
+10	rozhodnutí	NNNS3-----A----	Obj
+11	v	RR--6----------	AuxP
+12	prosinci	NNIS6-----A----	Adv
+13	1993	C=-------------	Atr
+14	především	Db-------------	Adv
+15	proto	Db-------------	Adv
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	Walderode	NNMS1-----A----	Sb
+19	byl	VpYS---XR-AA---	Adv
+20	za	RR--2----------	AuxP
+21	války	NNFS2-----A----	Adv
+22	členem	NNMS7-----A----	Pnom
+23	Henleinovy	AUFS2M---------	Atr
+24	strany	NNFS2-----A----	Atr
+25	a	J^-------------	Coord
+26	sloužil	VpYS---XR-AA---	Adv
+27	ve	RV--6----------	AuxP
+28	wehrmachtu	NNIS6-----A----	Adv
+29	.	Z:-------------	AuxK
+
+lnd94101-042-p1s16
+1	Ministr	NNMS1-----A----	Atr
+2	Jan	NNMS1-----A----	Atr
+3	Ruml	NNMS1-----A----	Sb
+4	protestu	NNIS3-----A----	Obj
+5	nevyhověl	VpYS---XR-NA---	Pred
+6	.	Z:-------------	AuxK
+

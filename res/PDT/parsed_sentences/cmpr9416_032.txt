@@ -1,0 +1,99 @@
+cmpr9416-032-p2s1
+1	OSKAR	NNMS1-----A----	ExD
+
+cmpr9416-032-p3s1
+1	Za	RR--4----------	AuxP
+2	mimořádný	AAIS4----1A----	Atr
+3	výkon	NNIS4-----A----	ExD
+
+cmpr9416-032-p4s1
+1	Soukromému	AAIS3----1A----	Atr
+2	stavebnímu	AAIS3----1A----	Atr
+3	podniku	NNIS3-----A----	ExD
+4	Stavoexpres	NNIS1-----A----	Atr
+5	za	RR--4----------	AuxP
+6	výrobu	NNFS4-----A----	ExD
+7	a	J^-------------	Coord
+8	prodej	NNIS4-----A----	ExD
+9	lehkých	AAFP2----1A----	Atr
+10	otočných	AAFP2----1A----	Atr
+11	stavebních	AAFP2----1A----	Atr
+12	plošin	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	jimiž	PJXP7----------	Adv
+15	lze	VB-S---3P-AA---	Atr
+16	přepravovat	Vf--------A----	Sb
+17	materiály	NNIP4-----A----	Obj
+18	do	RR--2----------	AuxP
+19	výše	NNFS2-----A----	Adv
+20	30	C=-------------	Atr
+21	m	NNIXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9416-032-p4s2
+1	Mají	VB-P---3P-AA---	Pred
+2	velmi	Db-------------	Adv
+3	jednoduchou	AAFS4----1A----	Atr
+4	konstrukci	NNFS4-----A----	Obj
+5	a	J^-------------	Coord
+6	lze	VB-S---3P-AA---	Pred
+7	je	PPXP4--3-------	Obj
+8	rychle	Dg-------1A----	Adv
+9	kotvit	Vf--------A----	Sb
+10	k	RR--3----------	AuxP
+11	lešení	NNNS3-----A----	Adv
+12	nebo	J^-------------	Coord
+13	různým	AAIP3----1A----	Atr
+14	prvkům	NNIP3-----A----	Adv
+15	stavby	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9416-032-p4s3
+1	Podstatná	AAFS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	jejich	PSXXXXP3-------	Atr
+5	dlouhá	AAFS1----1A----	Atr
+6	životnost	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	protože	J,-------------	AuxC
+9	konstrukce	NNFS1-----A----	Sb
+10	je	VB-S---3P-AA---	Adv
+11	pozinkovaná	AAFS1----1A----	Pnom
+12	.	Z:-------------	AuxK
+
+cmpr9416-032-p5s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Stavoexpres	NNIS1-----A----	ExD
+4	-	Z:-------------	Apos
+5	Josef	NNMS1-----A----	Atr
+6	Brindzák	NNMS1-----A----	ExD
+7	a	J^-------------	Coord
+8	synové	NNMP1-----A----	ExD
+9	,	Z:-------------	AuxX
+10	Žitavská	AAFS1----1A----	Atr
+11	50	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	460	C=-------------	Atr
+14	11	C=-------------	Atr
+15	Liberec	NNIS1-----A----	Atr
+16	II	C}-------------	Atr
+17	,	Z:-------------	AuxX
+18	tel	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	:	Z:-------------	AuxG
+21	(	Z:-------------	AuxG
+22	048	C=-------------	Atr
+23	)	Z:-------------	AuxG
+24	248	C=-------------	Atr
+25	03	C=-------------	Atr
+26	,	Z:-------------	Coord
+27	FAX	NNIS1-----A----	Atr
+28	:	Z:-------------	AuxG
+29	(	Z:-------------	AuxG
+30	048	C=-------------	Atr
+31	)	Z:-------------	AuxG
+32	297	C=-------------	Atr
+33	65	C=-------------	Atr
+

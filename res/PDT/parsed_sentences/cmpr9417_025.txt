@@ -1,0 +1,162 @@
+cmpr9417-025-p2s1
+1	OSKAR	NNMS1-----A----	ExD
+
+cmpr9417-025-p3s1
+1	Za	RR--4----------	AuxP
+2	mimořádný	AAIS4----1A----	Atr
+3	výkon	NNIS4-----A----	ExD
+
+cmpr9417-025-p4s1
+1	Firmě	NNFS3-----A----	ExD
+2	Talpa	NNFXX-----A----	Atr
+3	-	Z:-------------	Coord
+4	PTV	NNXXX-----A---8	Atr
+5	za	RR--4----------	AuxP
+6	bezvýkopové	AANS4----1A----	Atr
+7	pokládání	NNNS4-----A----	ExD
+8	kabelů	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	potrubí	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4NS4----------	Obj
+13	zajišťuje	VB-S---3P-AA---	Atr
+14	americkým	AANS7----1A----	Atr
+15	zařízením	NNNS7-----A----	Adv
+16	Flow	NNFXX-----A----	Atr
+17	Mole	NNXXX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9417-025-p4s2
+1	Zemní	AAFP1----1A----	Atr
+2	práce	NNFP1-----A----	Sb
+3	tohoto	PDZS2----------	Atr
+4	druhu	NNIS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	uplatňují	VB-P---3P-AA---	Pred
+7	při	RR--6----------	AuxP
+8	vrtání	NNNS6-----A----	Adv
+9	pod	RR--7----------	AuxP
+10	silnicemi	NNFP7-----A----	Atr
+11	,	Z:-------------	Coord
+12	železničními	AAFP7----1A----	Atr
+13	tratěmi	NNFP7-----A----	Atr
+14	nebo	J^-------------	Coord
+15	i	J^-------------	AuxY
+16	v	RR--6----------	AuxP
+17	centrech	NNNP6-----A----	Atr
+18	měst	NNNP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9417-025-p4s3
+1	Firma	NNFS1-----A----	Sb
+2	atak	NNIS1-----A----	Atr
+3	významně	Dg-------1A----	Adv
+4	šetří	VB-S---3P-AA---	Pred
+5	životní	AANS4----1A----	Atr
+6	prostředí	NNNS4-----A----	Obj
+7	měst	NNNP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	protože	J,-------------	AuxC
+10	odpadá	VB-S---3P-AA---	Adv
+11	klasické	AANS1----1A----	Atr
+12	rozkopávání	NNNS1-----A----	Sb
+13	ulic	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9417-025-p5s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Talpa	NNFXX-----A----	ExD
+4	-	Z:-------------	Apos
+5	PTV	NNXXX-----A---8	ExD
+6	,	Z:-------------	AuxX
+7	Lihovarská	AAFS1----1A----	Atr
+8	10	C=-------------	Atr
+9	,	Z:-------------	AuxX
+10	716	C=-------------	Atr
+11	03	C=-------------	Atr
+12	Ostrava	NNFS1-----A----	Atr
+13	-	Z:-------------	AuxG
+14	Radvanice	NNFP1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	tel	NNIXX-----A---8	Atr
+17	/	Z:-------------	Coord
+18	FAX	NNIS1-----A----	Atr
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	069	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	24	C=-------------	Atr
+24	73363	C=-------------	Atr
+
+cmpr9417-025-p6s1
+1	Firmě	NNFS3-----A----	ExD
+2	Mavet	NNIS1-----A----	Atr
+3	za	RR--4----------	AuxP
+4	vývoj	NNIS4-----A----	ExD
+5	a	J^-------------	Coord
+6	výrobu	NNFS4-----A----	ExD
+7	jednoúčelových	AAIP2----1A----	Atr
+8	strojů	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	plnicích	AANP2----1A----	Atr
+11	zařízení	NNNP2-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	prášky	NNIP4-----A----	Atr
+14	,	Z:-------------	Coord
+15	kašovité	AAFP4----1A----	Atr
+16	a	J^-------------	Coord
+17	pastovité	AAFP4----1A----	Atr
+18	hmoty	NNFP4-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9417-025-p6s2
+1	S	RR--7----------	AuxP
+2	firemními	AAIP7----1A----	Atr
+3	produkty	NNIP7-----A----	Obj
+4	se	P7-X4----------	AuxT
+5	lze	VB-S---3P-AA---	Pred
+6	setkat	Vf--------A----	Sb
+7	v	RR--6----------	AuxP
+8	potravinářském	AAIS6----1A----	Atr
+9	,	Z:-------------	AuxX
+10	kosmetickém	AAIS6----1A----	Atr
+11	nebo	J^-------------	Coord
+12	chemickém	AAIS6----1A----	Atr
+13	průmyslu	NNIS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9417-025-p6s4
+1	Kromě	RR--2----------	AuxP
+2	kvality	NNFS2-----A----	Adv
+3	zpracování	NNNS2-----A----	Atr
+4	zaslouží	VB-S---3P-AA---	Pred
+5	ocenění	NNNS4-----A----	Obj
+6	i	J^-------------	AuxZ
+7	dobrý	AAIS1----1A----	Atr
+8	servis	NNIS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9417-025-p7s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Mavet	NNIS1-----A----	ExD
+4	,	Z:-------------	AuxX
+5	Lidická	AAFS1----1A----	Atr
+6	576	C=-------------	Atr
+7	,	Z:-------------	AuxX
+8	552	C=-------------	Atr
+9	03	C=-------------	Atr
+10	Česká	AAFS1----1A----	Atr
+11	Skalice	NNFS1-----A----	Atr
+12	,	Z:-------------	AuxX
+13	tel	NNIXX-----A---8	Atr
+14	/	Z:-------------	Coord
+15	FAX	NNIS1-----A----	Atr
+16	:	Z:-------------	AuxG
+17	(	Z:-------------	AuxG
+18	0441	C=-------------	Atr
+19	)	Z:-------------	AuxG
+20	52070	C=-------------	Atr
+21	.	Z:-------------	AuxK
+

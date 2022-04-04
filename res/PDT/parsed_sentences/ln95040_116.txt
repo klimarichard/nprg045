@@ -1,0 +1,205 @@
+ln95040-116-p1s1
+1	Jiřího	NNMS2-----A----	Atr
+2	Nováka	NNMS2-----A----	ExD
+3	(	Z:-------------	ExD
+4	ODS	NNFXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	,	Z:-------------	AuxX
+7	ministra	NNMS2-----A----	Atr
+8	spravedlnosti	NNFS2-----A----	Atr
+
+ln95040-116-p2s1
+1	Soudci	NNMP1-----A----	Sb
+2	Obvodního	AAIS2----1A----	Atr
+3	soudu	NNIS2-----A----	Atr
+4	Prahy	NNFS2-----A----	Atr
+5	1	C=-------------	Atr
+6	vyjádřili	VpMP---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	otevřeném	AAIS6----1A----	Atr
+9	dopise	NNIS6-----A----	Adv
+10	obavu	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	nedostatečné	AANS1----1N----	Atr
+14	oddělení	NNNS1-----A----	Sb
+15	moci	NNFS2-----A----	Atr
+16	výkonné	AAFS2----1A----	Atr
+17	a	J^-------------	Coord
+18	soudní	AAFS2----1A----	Atr
+19	ohrožuje	VB-S---3P-AA---	Atr
+20	nezávislost	NNFS4-----N----	Obj
+21	soudců	NNMP2-----A----	Atr
+22	v	RR--6----------	AuxP
+23	ČR	NNFXX-----A---8	AtrAdv
+24	.	Z:-------------	AuxK
+
+ln95040-116-p2s2
+1	Jaký	P4YS1----------	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	váš	PSYS1-P2-------	Atr
+4	názor	NNIS1-----A----	Sb
+5	?	Z:-------------	AuxK
+
+ln95040-116-p3s1
+1	Někteří	PZMP1----------	Atr
+2	soudci	NNMP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	zvláště	Db-------------	Adv
+5	citliví	AAMP1----1A----	Pnom
+6	na	RR--4----------	AuxP
+7	činnost	NNFS4-----A----	Obj
+8	ministerstva	NNNS2-----A----	Atr
+9	spravedlnosti	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95040-116-p3s2
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	trochu	Db-------------	Adv
+4	letitý	AAIS1----1A----	Atr
+5	spor	NNIS1-----A----	Pnom
+6	některých	PZXP2----------	Atr
+7	členů	NNMP2-----A----	Atr
+8	tzv	AAXXX----1A---8	Atr
+9	.	Z:-------------	AuxG
+10	soudcovské	AAFS2----1A----	Atr
+11	unie	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	se	P7-X4----------	Obj
+15	prezentuje	VB-S---3P-AA---	Atr
+16	na	RR--4----------	AuxP
+17	můj	PSIS4-S1-------	Atr
+18	vkus	NNIS4-----A----	Adv
+19	trochu	Db-------------	Adv
+20	militantnějším	AAIS7----2A----	Atr
+21	způsobem	NNIS7-----A----	Adv
+22	než	J,-------------	AuxC
+23	ostatní	AAMP1----1A----	Atr
+24	soudci	NNMP1-----A----	ExD
+25	.	Z:-------------	AuxK
+
+ln95040-116-p3s3
+1	Snahou	NNFS7-----A----	Pnom
+2	představitelů	NNMP2-----A----	Atr
+3	unie	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	vznikla	VpQW---XR-AA--1	Sb
+8	jakási	PZFS1----------	Atr
+9	nejvyšší	AAFS1----3A----	Atr
+10	soudcovská	AAFS1----1A----	Atr
+11	rada	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	bude	VB-S---3F-AA---	AuxV
+15	složena	VsQW---XX-AP---	Atr
+16	ze	RV--2----------	AuxP
+17	soudců	NNMP2-----A----	Obj
+18	a	J^-------------	Coord
+19	která	P4FS1----------	Sb
+20	bude	VB-S---3F-AA---	AuxV
+21	vykonávat	Vf--------A----	Atr
+22	prakticky	Dg-------1A----	Adv
+23	veškeré	PLFP4----------	Atr
+24	pravomoci	NNFP4-----A----	Obj
+25	,	Z:-------------	AuxX
+26	které	P4FP4----------	Obj
+27	má	VB-S---3P-AA---	Atr
+28	dnes	Db-------------	Adv
+29	ministerstvo	NNNS1-----A----	Sb
+30	spravedlnosti	NNFS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95040-116-p3s4
+1	My	PP-P1--1-------	Sb
+2	neodmítáme	VB-P---1P-NA---	Pred
+3	samosprávu	NNFS4-----A----	Obj
+4	soudců	NNMP2-----A----	Atr
+5	jako	J,-------------	AuxY
+6	takovou	PDFS4----------	Atv
+7	,	Z:-------------	Coord
+8	zvažujeme	VB-P---1P-AA---	Pred
+9	například	Db-------------	AuxZ
+10	zřizování	NNNS4-----A----	Obj
+11	určitých	AAIP2----1A----	Atr
+12	personálních	AAIP2----1A----	Atr
+13	senátů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95040-116-p3s5
+1	Ale	J^-------------	Coord
+2	já	PP-S1--1-------	Sb
+3	v	RR--6----------	AuxP
+4	zásadě	NNFS6-----A----	Adv
+5	odmítám	VB-S---1P-AA---	Pred
+6	řešení	NNNS4-----A----	Obj
+7	podle	RR--2----------	AuxP
+8	unie	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95040-116-p3s6
+1	Nejen	TT-------------	AuxZ
+2	proto	J^-------------	ExD
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	by	Vc-------------	AuxV
+6	vyžadovalo	VpNS---XR-AA---	ExD
+7	změnu	NNFS4-----A----	Obj
+8	ústavy	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	ani	J^-------------	AuxZ
+12	v	RR--6----------	AuxP
+13	zemích	NNFP6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	kde	Db-------------	Adv
+16	takové	PDFP1----------	Atr
+17	nejvyšší	AAFP1----3A----	Atr
+18	soudcovské	AAFP1----1A----	Atr
+19	rady	NNFP1-----A----	Sb
+20	řídí	VB-P---3P-AA---	Atr
+21	justici	NNFS4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	není	VB-S---3P-NA---	Pred
+24	toto	PDNS1----------	Atr
+25	řešení	NNNS1-----A----	Sb
+26	vždy	Db-------------	Adv
+27	ideální	AANS1----1A----	Pnom
+28	.	Z:-------------	AuxK
+
+ln95040-116-p3s7
+1	Jedná	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	o	RR--4----------	AuxP
+4	země	NNFP4-----A----	Obj
+5	jako	J,-------------	AuxC
+6	Francie	NNFS1-----A----	ExD
+7	,	Z:-------------	AuxX
+8	Španělsko	NNNS1-----A----	ExD
+9	nebo	J^-------------	Coord
+10	Albánie	NNFS1-----A----	ExD
+11	.	Z:-------------	AuxK
+
+ln95040-116-p3s8
+1	I	J^-------------	AuxZ
+2	ve	RV--6----------	AuxP
+3	Francii	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	v	RR--6----------	AuxP
+6	poslední	AAFS6----1A----	Atr
+7	době	NNFS6-----A----	Adv
+8	velmi	Db-------------	Adv
+9	diskutuje	VB-S---3P-AA---	Pred
+10	o	RR--6----------	AuxP
+11	tom	PDZS6----------	Obj
+12	,	Z:-------------	AuxX
+13	zda	J,-------------	AuxC
+14	je	VB-S---3P-AA---	Atr
+15	tento	PDYS1----------	Atr
+16	systém	NNIS1-----A----	Sb
+17	správný	AAIS1----1A----	Pnom
+18	.	Z:-------------	AuxK
+

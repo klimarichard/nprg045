@@ -1,0 +1,160 @@
+ln94208-2-p1s1
+1	Dražší	AANP1----2A----	Atr
+2	auta	NNNP1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Americe	NNFS6-----A----	Atr
+
+ln94208-2-p2s1A
+1	Detroit	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94208-2-p2s1B
+1	Celkové	AAIP1----1A----	Atr
+2	náklady	NNIP1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	pořízení	NNNS4-----A----	Atr
+5	průměrného	AAIS2----1A----	Atr
+6	nového	AAIS2----1A----	Atr
+7	automobilu	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	USA	NNIPX-----A----	Atr
+10	vzrostly	VpTP---XR-AA---	Pred
+11	v	RR--6----------	AuxP
+12	druhém	CrNS6----------	Atr
+13	čtvrtletí	NNNS6-----A----	Adv
+14	tohoto	PDZS2----------	Atr
+15	roku	NNIS2-----A---1	Atr
+16	na	RR--4----------	AuxP
+17	nové	AANS4----1A----	Atr
+18	maximum	NNNS4-----A----	Obj
+19	22136	C=-------------	Atr
+20	dolarů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94208-2-p2s2
+1	Podle	RR--2----------	AuxP
+2	studie	NNFS2-----A----	Adv
+3	ekonoma	NNMS2-----A----	Atr
+4	Davida	NNMS2-----A----	Atr
+5	L	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Littmanna	NNMS2-----A----	Atr
+8	pracovala	VpQW---XR-AA---	Pred
+9	rodina	NNFS1-----A----	Sb
+10	s	RR--7----------	AuxP
+11	průměrným	AAIS7----1A----	Atr
+12	příjmem	NNIS7-----A----	Atr
+13	37336	C=-------------	Atr
+14	dolarů	NNIP2-----A----	Atr
+15	ročně	Dg-------1A----	Atr
+16	na	RR--4----------	AuxP
+17	koupi	NNFS4-----A----	Obj
+18	nového	AAIS2----1A----	Atr
+19	automobilu	NNIS2-----A----	Atr
+20	30.8	C=-------------	Adv
+21	týdne	NNIS2-----A----	Atr
+22	oproti	RR--3----------	AuxP
+23	30.3	C=-------------	Adv
+24	týdne	NNIS2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	prvním	CrNS6----------	Atr
+27	čtvrtletí	NNNS6-----A----	Adv
+28	,	Z:-------------	AuxX
+29	kdy	Db-------------	Adv
+30	náklady	NNIP1-----A----	Sb
+31	na	RR--4----------	AuxP
+32	pořízení	NNNS4-----A----	Atr
+33	automobilu	NNIS2-----A----	Atr
+34	činily	VpTP---XR-AA---	Atr
+35	21453	C=-------------	Obj
+36	USD	NNIXX-----A---8	Atr
+37	.	Z:-------------	AuxK
+
+ln94208-2-p3s1
+1	Littmann	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	domnívá	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	růst	NNIS1-----A----	Sb
+7	prodeje	NNIS2-----A----	Atr
+8	nových	AANP2----1A----	Atr
+9	osobních	AANP2----1A----	Atr
+10	i	J^-------------	Coord
+11	užitkových	AANP2----1A----	Atr
+12	vozidel	NNNP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	USA	NNIPX-----A----	AtrAtr
+15	bude	VB-S---3F-AA---	AuxV
+16	letos	Db-------------	Adv
+17	pokračovat	Vf--------A----	Obj
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	již	Db-------------	AuxZ
+21	pomalejším	AANS7----2A----	Atr
+22	tempem	NNNS7-----A----	ExD
+23	.	Z:-------------	AuxK
+
+ln94208-2-p3s2
+1	Růst	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	bude	VB-S---3F-AA---	AuxV
+4	nyní	Db-------------	Adv
+5	týkat	Vf--------A----	Pred
+6	převážně	Dg-------1A----	Adv
+7	užitkových	AANP2----1A----	Atr
+8	vozidel	NNNP2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln94208-2-p3s3
+1	Mnoho	Ca--1----------	Sb
+2	kupců	NNMP2-----A----	Atr
+3	přesunulo	VpNS---XR-AA---	Pred
+4	pozornost	NNFS4-----A----	Obj
+5	právě	Db-------------	AuxZ
+6	na	RR--4----------	AuxP
+7	tato	PDNP4----------	Atr
+8	vozidla	NNNP4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	vzhledem	RF-------------	AuxP
+11	k	RR--3----------	AuxP
+12	jejich	PSXXXXP3-------	Atr
+13	vyšší	AAFS3----2A----	Atr
+14	relativní	AAFS3----1A----	Atr
+15	hodnotě	NNFS3-----A----	Adv
+16	a	J^-------------	Coord
+17	nižším	AAIP3----2A----	Atr
+18	nákladům	NNIP3-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln94208-2-p3s4
+1	Vláda	NNFS1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	užitková	AANP4----1A----	Atr
+4	vozidla	NNNP4-----A----	Adv
+5	stanovila	VpQW---XR-AA---	Pred
+6	méně	Dg-------2A----	Obj
+7	požadavků	NNIP2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	zlepšení	NNNS4-----A----	Atr
+10	kontroly	NNFS2-----A----	Atr
+11	zplodin	NNFP2-----A----	Atr
+12	než	J,-------------	AuxC
+13	u	RR--2----------	AuxP
+14	osobních	AANP2----1A----	Atr
+15	aut	NNNP2-----A----	ExD
+16	.	Z:-------------	AuxK
+
+ln94208-2-p3s5
+1	Na	RR--4----------	AuxP
+2	růst	NNIS4-----A----	Atr
+3	jejich	PSXXXXP3-------	Atr
+4	odbytu	NNIS2-----A----	Atr
+5	má	VB-S---3P-AA---	Pred
+6	příznivý	AAIS4----1A----	Atr
+7	vliv	NNIS4-----A----	Obj
+8	i	J^-------------	AuxZ
+9	ekonomická	AAFS1----1A----	Atr
+10	konjunktura	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+

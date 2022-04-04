@@ -1,0 +1,166 @@
+ln94208-142-p1s1
+1	Stálá	AAFS1----1A----	Atr
+2	struktura	NNFS1-----A----	ExD
+3	vývozu	NNIS2-----A----	Atr
+
+ln94208-142-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	gap	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94208-142-p2s1B
+1	V	RR--6----------	AuxP
+2	obchodní	AAFS6----1A----	Atr
+3	bilanci	NNFS6-----A----	Adv
+4	si	P7-X3----------	Adv
+5	ještě	Db-------------	AuxZ
+6	letos	Db-------------	Adv
+7	ČR	NNFXX-----A---8	Sb
+8	udržuje	VB-S---3P-AA---	Pred
+9	stejně	Dg-------1A----	Adv
+10	jako	J,-------------	AuxC
+11	v	RR--6----------	AuxP
+12	předchozím	AAIS6----1A----	Atr
+13	roce	NNIS6-----A---1	ExD
+14	aktivní	AANS4----1A----	Atr
+15	saldo	NNNS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94208-142-p2s2
+1	Podle	RR--2----------	AuxP
+2	náměstka	NNMS2-----A----	Atr
+3	ministra	NNMS2-----A----	Atr
+4	průmyslu	NNIS2-----A----	Atr
+5	a	J^-------------	Coord
+6	obchodu	NNIS2-----A----	Atr
+7	Miroslava	NNMS2-----A----	Atr
+8	Somola	NNMS2-----A----	Adv
+9	činil	VpYS---XR-AA---	Pred
+10	v	RR--6----------	AuxP
+11	letošním	AANS6----1A----	Atr
+12	prvním	CrNS6----------	Atr
+13	pololetí	NNNS6-----A----	Adv
+14	český	AAIS1----1A----	Atr
+15	vývoz	NNIS1-----A----	Sb
+16	219.7	C=-------------	Obj
+17	miliardy	NNFS2-----A----	Atr
+18	Kč	NNFXX-----A----	Atr
+19	a	J^-------------	Coord
+20	dovoz	NNIS1-----A----	ExD
+21	201.8	C=-------------	ExD
+22	miliardy	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94208-142-p2s3
+1	Největším	AAMS7----3A----	Atr
+2	obchodním	AAMS7----1A----	Atr
+3	partnerem	NNMS7-----A----	Obj
+4	ČR	NNFXX-----A---8	Atr
+5	zůstává	VB-S---3P-AA---	Pred
+6	Německo	NNNS1-----A----	Sb
+7	(	Z:-------------	AuxG
+8	28.7	C=-------------	ExD
+9	%	Z:-------------	Atr
+10	celkového	AAIS2----1A----	Atr
+11	vývozu	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	24.1	C=-------------	ExD
+14	%	Z:-------------	Atr
+15	dovozu	NNIS2-----A----	Atr
+16	)	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+ln94208-142-p2s4
+1	Dalšími	AAMP7----1A----	Pnom
+2	v	RR--6----------	AuxP
+3	pořadí	NNNS6-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	Slovensko	NNNS1-----A----	Sb
+6	(	Z:-------------	AuxG
+7	15.8	C=-------------	ExD
+8	a	J^-------------	Coord
+9	16.3	C=-------------	ExD
+10	%	Z:-------------	Atr
+11	)	Z:-------------	AuxG
+12	a	J^-------------	Coord
+13	Rakousko	NNNS1-----A----	Sb
+14	(	Z:-------------	AuxG
+15	15.4	C=-------------	ExD
+16	,	Z:-------------	AuxX
+17	resp	Db------------8	Apos
+18	.	Z:-------------	AuxG
+19	14.3	C=-------------	ExD
+20	%	Z:-------------	Atr
+21	)	Z:-------------	AuxG
+22	.	Z:-------------	AuxK
+
+ln94208-142-p3s1
+1	Struktura	NNFS1-----A----	Sb
+2	českého	AAIS2----1A----	Atr
+3	exportu	NNIS2-----A----	Atr
+4	zůstává	VB-S---3P-AA---	Pred
+5	stejná	AAFS1----1A----	Obj
+6	jako	J,-------------	AuxC
+7	loni	Db------------1	ExD
+8	,	Z:-------------	Coord
+9	to	PDNS1----------	Sb
+10	znamená	VB-S---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	30	C=-------------	Sb
+14	%	Z:-------------	Atr
+15	se	P7-X4----------	AuxT
+16	na	RR--6----------	AuxP
+17	něm	P5ZS6--3-------	Obj
+18	podílí	VB-P---3P-AA--1	Obj
+19	výrobky	NNIP1-----A----	Adv
+20	z	RR--2----------	AuxP
+21	kůže	NNFS2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	dřeva	NNNS2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	gumy	NNFS2-----A----	Atr
+26	a	J^-------------	Coord
+27	papíru	NNIS2-----A----	Atr
+28	společně	Dg-------1A----	AuxP
+29	s	RR--7----------	AuxP
+30	vývozem	NNIS7-----A----	Adv
+31	oceli	NNFS2-----A---1	Atr
+32	a	J^-------------	Coord
+33	cementu	NNIS2-----A----	Atr
+34	(	Z:-------------	ExD
+35	loni	Db------------1	ExD
+36	31.9	C=-------------	ExD
+37	%	Z:-------------	Atr
+38	)	Z:-------------	ExD
+39	.	Z:-------------	AuxK
+
+ln94208-142-p3s2
+1	Vývoz	NNIS1-----A----	Sb
+2	strojního	AANS2----1A----	Atr
+3	a	J^-------------	Coord
+4	dopravního	AANS2----1A----	Atr
+5	zařízení	NNNS2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	na	RR--6----------	AuxP
+8	celkovém	AAIS6----1A----	Atr
+9	objemu	NNIS6-----A----	Obj
+10	podílí	VB-S---3P-AA---	Pred
+11	27.1	C=-------------	Adv
+12	%	Z:-------------	Atr
+13	po	RR--6----------	AuxP
+14	loňských	AANP2----1A----	Atr
+15	27.8	C=-------------	Adv
+16	%	Z:-------------	Atr
+17	a	J^-------------	Coord
+18	průmyslové	AAIP1----1A----	Atr
+19	výrobky	NNIP1-----A----	ExD
+20	13.8	C=-------------	ExD
+21	%	Z:-------------	Atr
+22	po	RR--6----------	AuxP
+23	12.5	C=-------------	ExD
+24	%	Z:-------------	Atr
+25	.	Z:-------------	AuxK
+

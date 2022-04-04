@@ -1,0 +1,985 @@
+cmpr9417-005-p2s1
+1	Chemie	NNFS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	startovní	AAFS6----1A----	Atr
+4	čáře	NNFS6-----A----	Atr
+
+cmpr9417-005-p3s1
+1	Dokážeme	VB-P---1P-AA---	Pred
+2	racionálně	Dg-------1A----	Adv
+3	využít	Vf--------A----	Obj
+4	naši	PSFS4-P1-------	Atr
+5	velkotonážní	AAFS4----1A----	Atr
+6	výrobu	NNFS4-----A----	Obj
+7	?	Z:-------------	AuxK
+
+cmpr9417-005-p4s1
+1	Z	RR--2----------	AuxP
+2	celkové	AAFS2----1A----	Atr
+3	nabídky	NNFS2-----A----	Adv
+4	pro	RR--4----------	AuxP
+5	2	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	vlnu	NNFS4-----A----	Atr
+8	připadá	VB-S---3P-AA---	Pred
+9	12.6	C=-------------	Sb
+10	%	Z:-------------	Atr
+11	t	PDNS1---------8	AuxY
+12	.	Z:-------------	AuxG
+13	j	VB-S---3P-AA--8	Apos
+14	.	Z:-------------	AuxG
+15	téměř	Db-------------	Adv
+16	20	C=-------------	Sb
+17	mld	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	Kč	NNFXX-----A----	Atr
+20	.	Z:-------------	AuxG
+21	na	RR--4----------	AuxP
+22	společnosti	NNFP4-----A----	Adv
+23	z	RR--2----------	AuxP
+24	odvětví	NNNS2-----A----	Atr
+25	chemického	AAIS2----1A----	Atr
+26	průmyslu	NNIS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9417-005-p4s2
+1	Jsou	VB-P---3P-AA---	AuxV
+2	nabízeny	VsTP---XX-AP---	Pred
+3	akcie	NNFP1-----A----	Sb
+4	celkem	Db-------------	Atr
+5	29	C=-------------	Atr
+6	společností	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9417-005-p4s3
+1	V	RR--6----------	AuxP
+2	první	CrFS6----------	Atr
+3	vlně	NNFS6-----A----	Adv
+4	bylo	VpNS---XR-AA---	AuxV
+5	privatizováno	VsNS---XX-AP---	Pred
+6	13	C=-------------	Sb
+7	podniků	NNIP2-----A----	Atr
+8	,	Z:-------------	Coord
+9	neprodané	AAFP1----1N----	Atr
+10	akcie	NNFP1-----A----	Sb
+11	osmi	Cn-P2----------	Atr
+12	podniků	NNIP2-----A----	Atr
+13	jsou	VB-P---3P-AA---	AuxV
+14	nabízeny	VsTP---XX-AP---	Pred
+15	i	J^-------------	AuxZ
+16	ve	RV--6----------	AuxP
+17	vlně	NNFS6-----A----	Adv
+18	druhé	CrFS6----------	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9417-005-p5s1
+1	Chemický	AAIS1----1A----	Atr
+2	průmysl	NNIS1-----A----	Sb
+3	patří	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	našich	PSXP6-P1-------	Atr
+6	zemích	NNFP6-----A----	Adv
+7	k	RR--3----------	AuxP
+8	tradičním	AANP3----1A----	Atr
+9	odvětvím	NNNP3-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9417-005-p5s2
+1	Na	RR--6----------	AuxP
+2	obratu	NNIS6-----A----	Adv
+3	průmyslového	AAIS2----1A----	Atr
+4	komplexu	NNIS2-----A----	Atr
+5	ČR	NNFXX-----A---8	Atr
+6	se	P7-X4----------	AuxT
+7	podílí	VB-S---3P-AA---	Pred
+8	zhruba	Db-------------	AuxZ
+9	10	C=-------------	Sb
+10	%	Z:-------------	Atr
+11	,	Z:-------------	Coord
+12	na	RR--6----------	AuxP
+13	vývozu	NNIS6-----A----	ExD
+14	25	C=-------------	ExD
+15	%	Z:-------------	Atr
+16	,	Z:-------------	AuxX
+17	a	J^-------------	Coord
+18	cca	Db-------------	AuxZ
+19	6	C=-------------	ExD
+20	%	Z:-------------	Atr
+21	na	RR--6----------	AuxP
+22	počtu	NNIS6-----A----	ExD
+23	pracovníků	NNMP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9417-005-p5s3
+1	Jeho	PSXXXZS3-------	Atr
+2	postavení	NNNS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	národním	AANS6----1A----	Atr
+5	hospodářství	NNNS6-----A----	Atr
+6	odpovídá	VB-S---3P-AA---	Pred
+7	menším	AAFP3----2A----	Atr
+8	západoevropským	AAFP3----1A----	Atr
+9	ekonomikám	NNFP3-----A----	Obj
+10	,	Z:-------------	Coord
+11	zapojení	NNNS1-----A----	Sb
+12	do	RR--2----------	AuxP
+13	mezinárodního	AAIS2----1A----	Atr
+14	obchodu	NNIS2-----A----	Atr
+15	je	VB-S---3P-AA---	Pred
+16	však	J^-------------	Coord
+17	i	J^-------------	AuxZ
+18	přes	RR--4----------	AuxP
+19	vysoký	AAIS4----1A----	Atr
+20	podíl	NNIS4-----A----	Adv
+21	na	RR--6----------	AuxP
+22	vývozu	NNIS6-----A----	Atr
+23	nižší	AANS1----2A----	Pnom
+24	.	Z:-------------	AuxK
+
+cmpr9417-005-p5s4
+1	Ve	RV--6----------	AuxP
+2	srovnání	NNNS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	minulostí	NNFS7-----A----	Adv
+5	došlo	VpNS---XR-AA---	Pred
+6	k	RR--3----------	AuxP
+7	poklesu	NNIS3-----A----	Obj
+8	výroby	NNFS2-----A----	Atr
+9	i	J^-------------	Coord
+10	zisku	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9417-005-p5s5
+1	Recese	NNFS1-----A----	ExD
+2	venku	Db-------------	Atr
+3	,	Z:-------------	Coord
+4	útlum	NNIS1-----A----	ExD
+5	doma	Db-------------	Atr
+
+cmpr9417-005-p6s1
+1	Příčinou	NNFS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	snížení	NNNS1-----A----	Sb
+4	cen	NNFP2-----A----	Atr
+5	chemických	AAIP2----1A----	Atr
+6	výrobků	NNIP2-----A----	Atr
+7	způsobené	AANS1----1A----	Atr
+8	hlubokou	AAFS7----1A----	Atr
+9	recesí	NNFS7-----A----	Adv
+10	západoevropského	AAIS2----1A----	Atr
+11	automobilového	AAIS2----1A----	Atr
+12	,	Z:-------------	AuxX
+13	textilního	AAIS2----1A----	Atr
+14	a	J^-------------	Coord
+15	elektrotechnického	AAIS2----1A----	Atr
+16	průmyslu	NNIS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	na	RR--6----------	AuxP
+19	nichž	P9XP6----------	Adv
+20	je	VB-S---3P-AA---	Atr
+21	odbyt	NNIS1-----A----	Sb
+22	výrobků	NNIP2-----A----	Atr
+23	chemického	AAIS2----1A----	Atr
+24	průmyslu	NNIS2-----A----	Atr
+25	silně	Dg-------1A----	Adv
+26	závislý	AAIS1----1A----	Pnom
+27	.	Z:-------------	AuxK
+
+cmpr9417-005-p6s2
+1	Z	RR--2----------	AuxP
+2	domácích	AAFP2----1A----	Atr
+3	příčin	NNFP2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	to	PDNS1----------	Pnom
+6	útlum	NNIS1-----A----	Sb
+7	našeho	PSZS2-P1-------	Atr
+8	strojírenství	NNNS2-----A----	Atr
+9	a	J^-------------	Coord
+10	zemědělství	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9417-005-p6s3
+1	Proti	RR--3----------	AuxP
+2	evropským	AAMP3----1A----	Atr
+3	konkurentům	NNMP3-----A----	Adv
+4	máme	VB-P---1P-AA---	Pred
+5	výhodu	NNFS4-----A----	Obj
+6	levné	AAFS2----1A----	Atr
+7	a	J^-------------	Coord
+8	při	RR--6----------	AuxP
+9	tom	PDZS6----------	Adv
+10	kvalifikované	AAFS2----1A----	Atr
+11	pracovní	AAFS2----1A----	Atr
+12	síly	NNFS2-----A----	Atr
+13	,	Z:-------------	Coord
+14	nevýhodou	NNFS7-----A----	Pnom
+15	jsou	VB-P---3P-AA---	Pred
+16	nadměrné	AAFP1----1A----	Atr
+17	kapacity	NNFP1-----A----	Sb
+18	budované	AAFP1----1A----	Atr
+19	v	RR--6----------	AuxP
+20	minulosti	NNFS6-----A----	Adv
+21	pro	RR--4----------	AuxP
+22	trh	NNIS4-----A----	Adv
+23	bývalé	AAFS2----1A----	Atr
+24	RVHP	NNFXX-----A---8	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9417-005-p6s4
+1	Toto	PDNS1----------	Sb
+2	,	Z:-------------	AuxX
+3	spolu	Db-------------	AuxP
+4	s	RR--7----------	AuxP
+5	často	Dg-------1A----	Adv
+6	zastaralými	AAFP7----1A----	Atr
+7	a	J^-------------	Coord
+8	energeticky	Dg-------1A----	Adv
+9	náročnými	AAFP7----1A----	Atr
+10	výrobními	AAFP7----1A----	Atr
+11	technologiemi	NNFP7-----A----	Adv
+12	,	Z:-------------	AuxX
+13	zvyšuje	VB-S---3P-AA---	Pred
+14	fixní	AAIP4----1A----	Atr
+15	náklady	NNIP4-----A----	Obj
+16	produkce	NNFS2-----A----	Atr
+17	a	J^-------------	Coord
+18	tím	PDZS7----------	Adv
+19	snižuje	VB-S---3P-AA---	Pred
+20	celkové	AAIP4----1A----	Atr
+21	zisky	NNIP4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+cmpr9417-005-p6s5
+1	Výrobní	AAFS1----1A----	Atr
+2	základna	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	AuxV
+4	charakterizována	VsQW---XX-AP---	Pred
+5	širokým	AANS7----1A----	Atr
+6	spektrem	NNNS7-----A----	Obj
+7	technologií	NNFP2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	různém	AAIS6----1A----	Atr
+10	stupni	NNIS6-----A----	Atr
+11	technické	AAFS2----1A----	Atr
+12	úrovně	NNFS2-----A----	Atr
+13	od	RR--2----------	AuxP
+14	moderních	AAFP2----1A----	Atr
+15	technologií	NNFP2-----A----	Atr
+16	petrochemických	AAFP2----1A----	Atr
+17	a	J^-------------	Coord
+18	rafinerských	AAFP2----1A----	Atr
+19	výrob	NNFP2-----A----	Atr
+20	,	Z:-------------	Coord
+21	až	TT-------------	AuxZ
+22	po	RR--4----------	AuxP
+23	značně	Dg-------1A----	Adv
+24	zastaralé	AAFP4----1A----	Atr
+25	kapacity	NNFP4-----A----	Atr
+26	v	RR--6----------	AuxP
+27	oborech	NNIP6-----A----	Atr
+28	anorganické	AAFS2----1A----	Atr
+29	chemie	NNFS2-----A----	Atr
+30	a	J^-------------	Coord
+31	průmyslových	AANP2----1A----	Atr
+32	hnojiv	NNNP2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+cmpr9417-005-p7s1
+1	Petrochemie	NNFS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	čele	NNNS6-----A----	ExD
+
+cmpr9417-005-p8s1
+1	Pro	RR--4----------	AuxP
+2	analýzu	NNFS4-----A----	Adv
+3	není	VB-S---3P-NA---	Pred
+4	možné	AANS1----1A----	Pnom
+5	chemický	AAIS4----1A----	Atr
+6	průmysl	NNIS4-----A----	Obj
+7	pojímat	Vf--------A----	Sb
+8	jako	J,-------------	AuxY
+9	jediné	AANS4----1A----	Atr
+10	odvětví	NNNS4-----A----	Atv
+11	,	Z:-------------	Coord
+12	tvoří	VB-P---3P-AA---	Pred
+13	jej	PPZS4--3------2	Obj
+14	typové	AAFP1----1A----	Atr
+15	skupiny	NNFP1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	jejichž	P1XXXXP3-------	Atr
+18	výrobní	AAFP1----1A----	Atr
+19	podmínky	NNFP1-----A----	Sb
+20	a	J^-------------	Coord
+21	podmínky	NNFP1-----A----	Sb
+22	pro	RR--4----------	AuxP
+23	uplatnění	NNNS4-----A----	Atr
+24	na	RR--6----------	AuxP
+25	trhu	NNIS6-----A----	Atr
+26	se	P7-X4----------	AuxT
+27	výrazně	Dg-------1A----	Adv
+28	liší	VB-P---3P-AA---	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9417-005-p9s1
+1	Rafinersko	A2--------A----	Atr
+2	-	Z:-------------	Coord
+3	petrochemický	AAIS1----1A----	Atr
+4	komplex	NNIS1-----A----	Sb
+5	je	VB-S---3P-AA---	Pred
+6	strategickým	AAIS7----1A----	Atr
+7	oborem	NNIS7-----A----	Pnom
+8	našeho	PSZS2-P1-------	Atr
+9	hospodářství	NNNS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	jedná	VB-S---3P-AA---	Pred
+12	se	P7-X4----------	AuxT
+13	o	RR--4----------	AuxP
+14	moderní	AAIP4----1A----	Atr
+15	a	J^-------------	Coord
+16	investičně	Dg-------1A----	Adv
+17	náročné	AAIP4----1A----	Atr
+18	celky	NNIP4-----A----	Obj
+19	pořízené	AAIP4----1A----	Atr
+20	v	RR--6----------	AuxP
+21	poměrně	Dg-------1A----	Adv
+22	nedávné	AAFS6----1N----	Atr
+23	době	NNFS6-----A----	Adv
+24	.	Z:-------------	AuxK
+
+cmpr9417-005-p9s2
+1	O	RR--4----------	AuxP
+2	případný	AAIS4----1A----	Atr
+3	vstup	NNIS4-----A----	Obj
+4	do	RR--2----------	AuxP
+5	rafinerských	AAIP2----1A----	Atr
+6	provozů	NNIP2-----A----	Atr
+7	Chemopetrolu	NNIS2-----A----	Atr
+8	Litvínov	NNIS1-----A----	Atr
+9	a	J^-------------	Coord
+10	Kaučuku	NNIS2-----A----	Atr
+11	Kralupy	NNIP1-----A----	Atr
+12	usilují	VB-P---3P-AA---	Pred
+13	některé	PZIP1----------	Atr
+14	zahraniční	AAIP1----1A----	Atr
+15	subjekty	NNIP1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	jednání	NNNP1-----A----	Sb
+18	nejsou	VB-P---3P-NA---	Pred
+19	však	J^-------------	Coord
+20	dosud	Db-------------	Adv
+21	uzavřena	VsQW---XX-AP---	Pnom
+22	.	Z:-------------	AuxK
+
+cmpr9417-005-p9s3
+1	Perspektivy	NNFP4-----A----	Obj
+2	komplexu	NNIS2-----A----	Atr
+3	lze	VB-S---3P-AA---	Pred
+4	považovat	Vf--------A----	Sb
+5	za	RR--4----------	AuxP
+6	celkem	Db-------------	Adv
+7	dobré	AAFP4----1A----	Obj
+8	,	Z:-------------	Coord
+9	je	VB-S---3P-AA---	Pred
+10	však	J^-------------	Coord
+11	nutno	ACNS------A----	Pnom
+12	počítat	Vf--------A----	Sb
+13	s	RR--7----------	AuxP
+14	restrukturalizací	NNFS7-----A----	Obj
+15	,	Z:-------------	AuxX
+16	modernizací	NNFS7-----A----	Obj
+17	a	J^-------------	Coord
+18	ekologickými	AAFP7----1A----	Atr
+19	investicemi	NNFP7-----A----	Obj
+20	.	Z:-------------	AuxK
+
+cmpr9417-005-p9s4
+1	Na	RR--4----------	AuxP
+2	vybudovanou	AAFS4----1A----	Atr
+3	petrochemickou	AAFS4----1A----	Atr
+4	a	J^-------------	Coord
+5	koksochemickou	AAFS4----1A----	Atr
+6	základnu	NNFS4-----A----	Obj
+7	úzce	Dg-------1A----	Adv
+8	navazuje	VB-S---3P-AA---	Pred
+9	základní	AAFS1----1A----	Atr
+10	organická	AAFS1----1A----	Atr
+11	výroba	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	zpracování	NNNS1-----A----	Sb
+14	kaučuku	NNIS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	gumárenský	AAIS1----1A----	Atr
+17	průmysl	NNIS1-----A----	Sb
+18	a	J^-------------	Coord
+19	zpracování	NNNS1-----A----	Sb
+20	plastů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9417-005-p9s5
+1	Prosperita	NNFS1-----A----	Sb
+2	posledních	AAIP2----1A----	Atr
+3	tří	ClXP2----------	Atr
+4	oborů	NNIP2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	závislá	AAFS1----1A----	Pnom
+7	na	RR--6----------	AuxP
+8	vývoji	NNIS6-----A----	Obj
+9	odbytu	NNIS2-----A----	Atr
+10	dnes	Db-------------	Adv
+11	převážně	Dg-------1A----	Adv
+12	stagnujících	AGIP2-----A----	Atr
+13	strojírenských	AAIP2----1A----	Atr
+14	oborů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9417-005-p9s6
+1	Gumárenský	AAIS1----1A----	Atr
+2	průmysl	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	závislý	AAIS1----1A----	Pnom
+5	především	Db-------------	AuxZ
+6	na	RR--6----------	AuxP
+7	automobilovém	AAIS6----1A----	Atr
+8	průmyslu	NNIS6-----A----	Obj
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	je	VB-S---3P-AA---	Atr
+12	hlavním	AAMS7----1A----	Atr
+13	odběratelem	NNMS7-----A----	Pnom
+14	gumárenské	AAFS2----1A----	Atr
+15	produkce	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9417-005-p10s1
+1	Export	NNIS1-----A----	ExD
+2	základní	AAFS2----1A----	Atr
+3	anorganiky	NNFS2-----A----	Atr
+
+cmpr9417-005-p11s1
+1	Další	AAFS7----1A----	Atr
+2	významnou	AAFS7----1A----	Atr
+3	skupinou	NNFS7-----A----	Pnom
+4	výrob	NNFP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	které	P4FP1----------	Sb
+7	mají	VB-P---3P-AA---	Atr
+8	v	RR--6----------	AuxP
+9	našich	PSXP6-P1-------	Atr
+10	zemích	NNFP6-----A----	Adv
+11	dlouholetou	AAFS4----1A----	Atr
+12	tradici	NNFS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	je	VB-S---3P-AA---	Pred
+15	základní	AAFS1----1A----	Atr
+16	anorganika	NNFS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	která	P4FS1----------	Sb
+19	zahrnuje	VB-S---3P-AA---	Atr
+20	výrobu	NNFS4-----A----	Obj
+21	kyselin	NNFP2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	louhů	NNIP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	solí	NNFP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	hnojiv	NNNP2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	syntetických	AAFP2----1A----	Atr
+30	pryskyřic	NNFP2-----A----	Atr
+31	,	Z:-------------	AuxX
+32	barev	NNFP2-----A----	Atr
+33	a	J^-------------	Coord
+34	laků	NNIP2-----A----	Atr
+35	a	J^-------------	Coord
+36	dalších	AAIP2----1A----	Atr
+37	výrobků	NNIP2-----A----	Atr
+38	a	J^-------------	Coord
+39	polotovarů	NNIP2-----A----	Atr
+40	.	Z:-------------	AuxK
+
+cmpr9417-005-p11s2
+1	Tyto	PDFP1----------	Atr
+2	výroby	NNFP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	umístěny	VsTP---XX-AP---	Pnom
+5	v	RR--6----------	AuxP
+6	následujících	AGIP6-----A----	Atr
+7	podnicích	NNIP6-----A----	Adv
+8	:	Z:-------------	AuxG
+9	Spolana	NNFS1-----A----	Atr
+10	Neratovice	NNFP1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	Fosfa	NNFS1-----A----	Atr
+13	Poštorná	NNFS1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	Lovochemie	NNFS1-----A----	Atr
+16	Lovosice	NNFP1-----A----	Atr
+17	,	Z:-------------	AuxX
+18	Synthesia	NNFS1-----A---1	Atr
+19	Pardubice	NNFP1-----A----	Atr
+20	,	Z:-------------	AuxX
+21	Moravské	AAIP1----1A----	Atr
+22	chemické	AAIP1----1A----	Atr
+23	závody	NNIP1-----A----	Atr
+24	Ostrava	NNFS1-----A----	Atr
+25	,	Z:-------------	AuxX
+26	Spolek	NNIS1-----A----	Atr
+27	pro	RR--4----------	AuxP
+28	chemickou	AAFS4----1A----	Atr
+29	a	J^-------------	Coord
+30	hutní	AAFS4----1A----	Atr
+31	výrobu	NNFS4-----A----	Atr
+32	Ústí	NNNS1-----A----	Atr
+33	n	RR--7---------8	AuxP
+34	.	Z:-------------	AuxG
+35	L	NNNS7-----A---8	Atr
+36	.	Z:-------------	AuxG
+37	,	Z:-------------	AuxX
+38	Precheza	NNFS1-----A----	Atr
+39	Přerov	NNIS1-----A----	Atr
+40	,	Z:-------------	AuxX
+41	Colorlak	NNIS1-----A----	Atr
+42	Uherské	AANS1----1A----	Atr
+43	Hradiště	NNNS1-----A----	Atr
+44	a	J^-------------	Coord
+45	Chemopetrol	NNIS1-----A----	Atr
+46	Litvínov	NNIS1-----A----	Atr
+47	.	Z:-------------	AuxK
+
+cmpr9417-005-p11s3
+1	Naše	PSHP1-P1-------	Atr
+2	chemičky	NNFP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	zaměřeny	VsTP---XX-AP---	Pnom
+5	převážně	Dg-------1A----	Adv
+6	na	RR--4----------	AuxP
+7	velkotonážní	AAFP4----1A----	Atr
+8	výroby	NNFP4-----A----	Obj
+9	s	RR--7----------	AuxP
+10	malým	AAIS7----1A----	Atr
+11	podílem	NNIS7-----A----	Atr
+12	lidské	AAFS2----1A----	Atr
+13	práce	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9417-005-p11s4
+1	Většina	NNFS1-----A----	Sb
+2	firem	NNFP2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	úspěšně	Dg-------1A----	Adv
+5	vyrovnala	VpQW---XR-AA---	Pred
+6	se	RV--7----------	AuxP
+7	ztrátou	NNFS7-----A----	Obj
+8	východních	AAIP2----1A----	Atr
+9	trhů	NNIP2-----A----	Atr
+10	a	J^-------------	Coord
+11	část	NNFS4-----A----	Obj
+12	své	P8FS2---------1	Atr
+13	produkce	NNFS2-----A----	Atr
+14	exportuje	VB-S---3P-AA---	Pred
+15	na	RR--4----------	AuxP
+16	západní	AAIP4----1A----	Atr
+17	trhy	NNIP4-----A----	Adv
+18	a	J^-------------	Coord
+19	trhy	NNIP4-----A----	Adv
+20	rozvojových	AAFP2----1A----	Atr
+21	zemí	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9417-005-p12s1
+1	Kvalifikovaná	AAFS1----1A----	Atr
+2	chemie	NNFS1-----A----	ExD
+3	módou	NNFS7-----A----	ExD
+
+cmpr9417-005-p13s1
+1	Česká	AAFS1----1A----	Atr
+2	republika	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	odkázána	VsQW---XX-AP---	Pnom
+5	na	RR--4----------	AuxP
+6	dovoz	NNIS4-----A----	Obj
+7	ropy	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	dalších	AAFP2----1A----	Atr
+10	strategických	AAFP2----1A----	Atr
+11	surovin	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9417-005-p13s2
+1	Z	RR--2----------	AuxP
+2	těchto	PDXP2----------	Atr
+3	důvodů	NNIP2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	v	RR--6----------	AuxP
+6	blízké	AAFS6----1A----	Atr
+7	budoucnosti	NNFS6-----A----	Adv
+8	mělo	VpNS---XR-AA---	Pred
+9	dojít	Vf--------A----	Obj
+10	k	RR--3----------	AuxP
+11	výraznějšímu	AAIS3----2A----	Atr
+12	rozvoji	NNIS3-----A----	Obj
+13	třetí	CrFS2----------	Atr
+14	skupiny	NNFS2-----A----	Atr
+15	výrob	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	souhrnně	Dg-------1A----	Adv
+18	nazývaných	AAFP2----1A----	Atr
+19	kvalifikovaná	AAFS1----1A----	Atr
+20	chemie	NNFS1-----A----	Adv
+21	.	Z:-------------	AuxK
+
+cmpr9417-005-p13s3
+1	Tyto	PDFP1----------	Atr
+2	výroby	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	vyznačují	VB-P---3P-AA---	Pred
+5	vysokým	AAIS7----1A----	Atr
+6	stupněm	NNIS7-----A----	Obj
+7	zpracování	NNNS2-----A----	Atr
+8	základních	AAFP2----1A----	Atr
+9	surovin	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	vysokým	AAIS7----1A----	Atr
+12	podílem	NNIS7-----A----	Obj
+13	kvalifikované	AAFS2----1A----	Atr
+14	práce	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9417-005-p13s4
+1	Jedná	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	o	RR--4----------	AuxP
+4	výrobu	NNFS4-----A----	Obj
+5	organických	AANP2----1A----	Atr
+6	barviv	NNNP2-----A----	Atr
+7	a	J^-------------	Coord
+8	pigmentů	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	pesticidů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	insekticidů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	biofaktorů	NNIP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	diagnostik	NNFP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	farmaceutických	AAFP2----1A----	Atr
+19	substancí	NNFP2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	léčiv	NNNP2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	dezinfekčních	AAIP2----1A----	Atr
+24	prostředků	NNIP2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	čistých	AAFP2----1A----	Atr
+27	chemikálií	NNFP2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	pomocných	AAIP2----1A----	Atr
+30	průmyslových	AAIP2----1A----	Atr
+31	přípravků	NNIP2-----A----	Atr
+32	,	Z:-------------	AuxX
+33	potravinářských	AAFP2----1A----	Atr
+34	přísad	NNFP2-----A----	Atr
+35	a	J^-------------	Coord
+36	umělých	AANP2----1A----	Atr
+37	sladidel	NNNP2-----A----	Atr
+38	,	Z:-------------	AuxX
+39	kosmetiky	NNFS2-----A----	Atr
+40	a	J^-------------	Coord
+41	dalších	AAIP2----1A----	Atr
+42	výrobků	NNIP2-----A----	Atr
+43	.	Z:-------------	AuxK
+
+cmpr9417-005-p13s5
+1	Nadprůměrných	AAIP2----1A----	Atr
+2	zisků	NNIP2-----A----	Obj
+3	mohou	VB-P---3P-AA--1	Pred
+4	dosahovat	Vf--------A----	Obj
+5	zejména	Db-------------	AuxZ
+6	farmaceutické	AAFP1----1A----	Atr
+7	firmy	NNFP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	neboť	J^-------------	Coord
+10	se	P7-X4----------	AuxT
+11	jedná	VB-S---3P-AA---	Pred
+12	o	RR--4----------	AuxP
+13	jediné	AANS4----1A----	Atr
+14	odvětví	NNNS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	ve	RV--6----------	AuxP
+17	kterém	P4ZS6----------	Adv
+18	v	RR--6----------	AuxP
+19	posledních	AANP6----1A----	Atr
+20	čtyřech	ClXP6----------	Atr
+21	letech	NNNP6-----A----	Adv
+22	nedošlo	VpNS---XR-NA---	Atr
+23	k	RR--3----------	AuxP
+24	podstatnému	AAIS3----1A----	Atr
+25	poklesu	NNIS3-----A----	Obj
+26	výroby	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9417-005-p13s6
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	zahraničních	AAMP2----1A----	Atr
+5	výrobců	NNMP2-----A----	Adv
+6	nepatří	VB-P---3P-NA---	Pred
+7	tyto	PDFP1----------	Atr
+8	firmy	NNFP1-----A----	Sb
+9	mezi	RR--4----------	AuxP
+10	průmyslové	AAMP4----1A----	Atr
+11	giganty	NNMP4-----A----	Adv
+12	,	Z:-------------	Coord
+13	jedná	VB-S---3P-AA---	Pred
+14	se	P7-X4----------	AuxT
+15	spíše	Dg-------2A---1	Adv
+16	o	RR--4----------	AuxP
+17	menší	AAIP4----2A----	Atr
+18	a	J^-------------	Coord
+19	střední	AAIP4----1A----	Atr
+20	podniky	NNIP4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9417-005-p13s7
+1	Pro	RR--4----------	AuxP
+2	export	NNIS4-----A----	Adv
+3	léčiv	NNNP2-----A----	Atr
+4	na	RR--4----------	AuxP
+5	západní	AAIP4----1A----	Atr
+6	trhy	NNIP4-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	třeba	ACNS------A----	Pnom
+9	předkládat	Vf--------A----	Sb
+10	k	RR--3----------	AuxP
+11	výrobku	NNIS3-----A----	Adv
+12	certifikát	NNIS4-----A----	Obj
+13	"	Z:-------------	AuxG
+14	správné	AAFS2----1A----	Atr
+15	výrobní	AAFS2----1A----	Atr
+16	praxe	NNFS2-----A----	Atr
+17	"	Z:-------------	AuxG
+18	(	Z:-------------	Apos
+19	GMP	NNXXX-----A----	Atr
+20	)	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+cmpr9417-005-p13s8
+1	Získání	NNNS1-----A----	Sb
+2	certifikátu	NNIS2-----A----	Atr
+3	je	VB-S---3P-AA---	AuxV
+4	podmíněno	VsNS---XX-AP---	Pred
+5	řadou	NNFS7-----A----	Obj
+6	doplňkových	AAFP2----1A----	Atr
+7	investic	NNFP2-----A---1	Atr
+8	,	Z:-------------	Coord
+9	dále	Dg-------2A---1	ExD
+10	pak	Db-------------	ExD
+11	zavedením	NNNS7-----A----	ExD
+12	velkého	AANS2----1A----	Atr
+13	množství	NNNS2-----A----	Atr
+14	pracovních	AANP2----1A----	Atr
+15	a	J^-------------	Coord
+16	organizačních	AANP2----1A----	Atr
+17	opatření	NNNP2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	technologickém	AAIS6----1A----	Atr
+20	procesu	NNIS6-----A---1	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9417-005-p14s1
+1	Většina	NNFS1-----A----	Sb
+2	závodů	NNIP2-----A----	Atr
+3	chemického	AAIS2----1A----	Atr
+4	průmyslu	NNIS2-----A----	Atr
+5	má	VB-S---3P-AA---	Pred
+6	kombinovaný	AAIS4----1A----	Atr
+7	výrobní	AAIS4----1A----	Atr
+8	program	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	zahrnující	AGIS4-----A----	Atr
+11	několik	Ca--4----------	Obj
+12	oborů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9417-005-p14s2
+1	Značná	AAFS1----1A----	Atr
+2	diverzifikace	NNFS1-----A----	Sb
+3	výrobního	AAIS2----1A----	Atr
+4	programu	NNIS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	situaci	NNFS6-----A----	Adv
+8	transformace	NNFS2-----A----	Atr
+9	hospodářství	NNNS2-----A----	Atr
+10	výhodou	NNFS7-----A----	Pnom
+11	,	Z:-------------	AuxX
+12	neboť	J^-------------	Coord
+13	jsou	VB-P---3P-AA---	AuxV
+14	tak	Db-------------	Adv
+15	snadno	Dg-------1A----	Adv
+16	vyrovnávány	VsTP---XX-AP---	Pred
+17	výkyvy	NNIP1-----A----	Sb
+18	trhu	NNIS2-----A----	Atr
+19	u	RR--2----------	AuxP
+20	jednotlivých	AAFP2----1A----	Atr
+21	výrobkových	AAFP2----1A----	Atr
+22	skupin	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9417-005-p15s1
+1	Fatra	NNFS1-----A----	ExD
+2	nejdražší	AAFS1----3A----	Atr
+
+cmpr9417-005-p16s1
+1	Při	RR--6----------	AuxP
+2	zahájení	NNNS6-----A----	Adv
+3	obchodování	NNNS2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	Burze	NNFS6-----A----	Atr
+6	cenných	AAIP2----1A----	Atr
+7	papírů	NNIP2-----A----	Atr
+8	Praha	NNFS1-----A----	Atr
+9	v	RR--6----------	AuxP
+10	červnu	NNIS6-----A----	AtrAdv
+11	1993	C=-------------	Atr
+12	činila	VpQW---XR-AA---	Pred
+13	průměrná	AAFS1----1A----	Atr
+14	cena	NNFS1-----A----	Sb
+15	akcií	NNFP2-----A----	Atr
+16	chemických	AAIP2----1A----	Atr
+17	podniků	NNIP2-----A----	Atr
+18	1182	C=-------------	Obj
+19	Kč	NNFXX-----A----	Atr
+20	.	Z:-------------	AuxG
+21	při	RR--6----------	AuxP
+22	průměrné	AAFS6----1A----	Atr
+23	ceně	NNFS6-----A----	Adv
+24	všech	PLXP2----------	Atr
+25	akcií	NNFP2-----A----	Atr
+26	1174	C=-------------	Atr
+27	Kč	NNFXX-----A----	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9417-005-p16s2
+1	Po	RR--6----------	AuxP
+2	počátečním	AAIS6----1A----	Atr
+3	poklesu	NNIS6-----A----	Adv
+4	kurzy	NNIP1-----A----	Sb
+5	akcií	NNFP2-----A----	Atr
+6	chemických	AAIP2----1A----	Atr
+7	podniků	NNIP2-----A----	Atr
+8	postupně	Dg-------1A----	Adv
+9	stoupaly	VpTP---XR-AA---	Pred
+10	,	Z:-------------	Coord
+11	vrcholu	NNIS2-----A----	Obj
+12	bylo	VpNS---XR-AA---	Pred
+13	dosaženo	VsNS---XX-AP---	Pnom
+14	14.3	C=-------------	Adv
+15	.	Z:-------------	AuxG
+16	1994	C=-------------	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9417-005-p16s3
+1	Trend	NNIS1-----A----	Sb
+2	růstu	NNIS2-----A----	Atr
+3	i	J^-------------	Coord
+4	poklesu	NNIS2-----A----	Atr
+5	jejich	PSXXXXP3-------	Atr
+6	cen	NNFP2-----A----	Atr
+7	kopíruje	VB-S---3P-AA---	Pred
+8	trend	NNIS4-----A----	Obj
+9	celkového	AAIS2----1A----	Atr
+10	trhu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9417-005-p16s4
+1	K	RR--3----------	AuxP
+2	31.3	C=-------------	Adv
+3	.	Z:-------------	AuxG
+4	1994	C=-------------	Atr
+5	byla	VpQW---XR-AA---	Pred
+6	průměrná	AAFS1----1A----	Atr
+7	hodnota	NNFS1-----A----	Sb
+8	všech	PLXP2----------	Atr
+9	akcií	NNFP2-----A----	Atr
+10	1392	C=-------------	Pnom
+11	Kč	NNFXX-----A----	Atr
+12	,	Z:-------------	Coord
+13	průměrná	AAFS1----1A----	Atr
+14	cena	NNFS1-----A----	ExD
+15	akcií	NNFP2-----A----	Atr
+16	chemických	AAIP2----1A----	Atr
+17	podniků	NNIP2-----A----	Atr
+18	1215	C=-------------	ExD
+19	Kč	NNFXX-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9417-005-p16s5
+1	Nejvyšší	AAFS2----3A----	Atr
+2	ceny	NNFS2-----A----	Obj
+3	dosahují	VB-P---3P-AA---	Pred
+4	kotované	AAFP1----1A----	Atr
+5	akcie	NNFP1-----A----	Sb
+6	Fatry	NNFS2-----A----	Atr
+7	4200	C=-------------	Obj
+8	Kč	NNFXX-----A----	Atr
+9	,	Z:-------------	Coord
+10	nejnižší	AAFS4----3A----	ExD
+11	akcie	NNFP1-----A----	ExD
+12	Tonasa	NNNS2-----A----	Atr
+13	a	J^-------------	Coord
+14	Lučebních	AAIP2----1A----	Atr
+15	závodů	NNIP2-----A----	Atr
+16	Kolín	NNIS1-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9417-005-p17s1
+1	Jiřina	NNFS1-----A----	Atr
+2	Haaszová	NNFS1-----A----	ExD
+3	,	Z:-------------	AuxK
+
+cmpr9417-005-p18s1
+1	Ladislav	NNMS1-----A----	Atr
+2	Mráček	NNMS1-----A----	ExD
+
+cmpr9417-005-p19s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Spořitelní	AAFS1----1A----	Atr
+4	investiční	AAFS1----1A----	Atr
+5	společnost	NNFS1-----A----	ExD
+6	,	Z:-------------	AuxX
+7	a	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	s	NNFXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	,	Z:-------------	AuxX
+12	Řásnovka	NNFS1-----A----	Atr
+13	12	C=-------------	Atr
+14	,	Z:-------------	AuxK
+
+cmpr9417-005-p20s1
+1	110	C=-------------	Atr
+2	15	C=-------------	Atr
+3	Praha	NNFS1-----A----	ExD
+4	1	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	tel	NNIXX-----A---8	ExD
+7	:	Z:-------------	AuxG
+8	(	Z:-------------	AuxG
+9	02	C=-------------	Atr
+10	)	Z:-------------	AuxG
+11	248103	C=-------------	Atr
+12	31	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	FAX	NNIS1-----A----	ExD
+15	:	Z:-------------	AuxG
+16	(	Z:-------------	AuxG
+17	02	C=-------------	Atr
+18	)	Z:-------------	AuxG
+19	231	C=-------------	Atr
+20	77	C=-------------	Atr
+21	89	C=-------------	Atr
+

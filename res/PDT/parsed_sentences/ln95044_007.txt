@@ -1,0 +1,130 @@
+ln95044-007-p1s1
+1	Výroba	NNFS1-----A----	Sb
+2	loni	Db------------1	Adv
+3	vzrostla	VpQW---XR-AA---	Pred
+
+ln95044-007-p2s1A
+1	GRAF	NNIS1-----A----	ExD
+
+ln95044-007-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-007-p2s1C
+1	Loni	Db------------1	Adv
+2	se	P7-X4----------	AuxT
+3	zvýšila	VpQW---XR-AA---	Pred
+4	celková	AAFS1----1A----	Atr
+5	průmyslová	AAFS1----1A----	Atr
+6	výroba	NNFS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	České	AAFS6----1A----	Atr
+9	republice	NNFS6-----A----	AtrAdv
+10	o	RR--4----------	AuxP
+11	2.3	C=-------------	Adv
+12	procenta	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95044-007-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	konečných	AAIP2----1A----	Atr
+5	výsledků	NNIP2-----A----	Obj
+6	Českého	AAIS2----1A----	Atr
+7	statistického	AAIS2----1A----	Atr
+8	úřadu	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95044-007-p3s1
+1	V	RR--6----------	AuxP
+2	podnicích	NNIP6-----A----	Adv
+3	s	RR--7----------	AuxP
+4	25	C=-------------	Atr
+5	a	J^-------------	Coord
+6	více	Dg-------2A----	Atr
+7	zaměstnanci	NNMP7-----A----	Atr
+8	dosáhla	VpQW---XR-AA---	Pred
+9	výroba	NNFS1-----A----	Sb
+10	zboží	NNNS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	běžných	AAFP6----1A----	Atr
+13	cenách	NNFP6-----A----	Adv
+14	vloni	Db-------------	Adv
+15	896.4	C=-------------	Obj
+16	miliardy	NNFS2-----A----	Atr
+17	korun	NNFP2-----A----	Atr
+18	a	J^-------------	Coord
+19	v	RR--6----------	AuxP
+20	roce	NNIS6-----A---1	ExD
+21	předcházejícím	AGIS6-----A----	Atr
+22	853.6	C=-------------	ExD
+23	miliardy	NNFS2-----A----	Atr
+24	Kč	NNFXX-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95044-007-p3s2
+1	Ve	RV--6----------	AuxP
+2	srovnatelných	AAFP6----1A----	Atr
+3	cenách	NNFP6-----A----	Adv
+4	k	RR--3----------	AuxP
+5	1	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	lednu	NNIS3-----A----	Atr
+8	1989	C=-------------	Atr
+9	to	PDNS1----------	Sb
+10	v	RR--6----------	AuxP
+11	obou	ClXP6----------	Atr
+12	letech	NNNP6-----A----	Adv
+13	představuje	VB-S---3P-AA---	Pred
+14	necelých	AAFP2----1N----	Atr
+15	425	C=-------------	Obj
+16	miliard	NNFP2-----A----	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95044-007-p4s1
+1	Průměrná	AAFS1----1A----	Atr
+2	měsíční	AAFS1----1A----	Atr
+3	mzda	NNFS1-----A----	Sb
+4	pracovníků	NNMP2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	v	RR--6----------	AuxP
+7	průmyslových	AAIP6----1A----	Atr
+8	podnicích	NNIP6-----A----	Adv
+9	proti	RR--3----------	AuxP
+10	roku	NNIS3-----A----	Adv
+11	1993	C=-------------	Atr
+12	zvýšila	VpQW---XR-AA---	Pred
+13	o	RR--4----------	AuxP
+14	15.7	C=-------------	Adv
+15	procentního	AAIS2----1A----	Atr
+16	bodu	NNIS2-----A----	Atr
+17	a	J^-------------	Coord
+18	dosáhla	VpQW---XR-AA---	Pred
+19	6904	C=-------------	Atr
+20	korun	NNFP2-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln95044-007-p4s2
+1	Podniky	NNIP1-----A----	Sb
+2	zaměstnávaly	VpTP---XR-AA---	Pred
+3	celkem	Db-------------	AuxZ
+4	1340600	C=-------------	Obj
+5	lidí	NNMP2-----A----	Atr
+6	,	Z:-------------	Coord
+7	což	PE--1----------	Sb
+8	ve	RV--6----------	AuxP
+9	srovnání	NNNS6-----A----	AuxP
+10	se	RV--7----------	AuxP
+11	stejným	AANS7----1A----	Atr
+12	obdobím	NNNS7-----A----	Adv
+13	roku	NNIS2-----A---1	Atr
+14	1993	C=-------------	Atr
+15	znamená	VB-S---3P-AA---	Pred
+16	pokles	NNIS4-----A----	Obj
+17	o	RR--4----------	AuxP
+18	4.9	C=-------------	Atr
+19	procenta	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+

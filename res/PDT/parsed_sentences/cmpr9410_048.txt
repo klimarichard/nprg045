@@ -1,0 +1,587 @@
+cmpr9410-048-p2s1
+1	Cena	NNFS1-----A----	ExD
+2	tepla	NNNS2-----A----	Atr
+3	:	Z:-------------	AuxK
+
+cmpr9410-048-p3s1
+1	Ještě	Db-------------	Adv
+2	nás	PP-P4--1-------	Obj
+3	zahřeje	VB-S---3P-AA---	Pred
+
+cmpr9410-048-p4s1
+1	Z	RR--2----------	AuxP
+2	osidel	NNNP2-----A----	Adv
+3	dodavatelů	NNMP2-----A----	Atr
+4	zatím	Db-------------	Adv
+5	spotřebitel	NNMS1-----A----	Sb
+6	nikam	Db-------------	Adv
+7	neunikne	VB-S---3P-NA---	Pred
+
+cmpr9410-048-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	tepla	NNNS2-----A----	Atr
+3	stoupala	VpQW---XR-AA---	Pred
+4	od	RR--2----------	AuxP
+5	roku	NNIS2-----A---1	Adv
+6	1991	C=-------------	Atr
+7	přímo	Dg-------1A----	AuxZ
+8	drasticky	Dg-------1A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9410-048-p5s2
+1	Do	RR--2----------	AuxP
+2	30	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	4	C=-------------	Adv
+5	.	Z:-------------	AuxG
+6	1991	C=-------------	Atr
+7	platil	VpYS---XR-AA---	Pred
+8	nájemník	NNMS1-----A----	Sb
+9	21	C=-------------	Obj
+10	Kč	NNFXX-----A----	Atr
+11	za	RR--4----------	AuxP
+12	gigajoul	NNIS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9410-048-p5s3
+1	Do	RR--2----------	AuxP
+2	konce	NNIS2-----A----	ExD
+3	následujícího	AGIS2-----A----	Atr
+4	roku	NNIS2-----A---1	Atr
+5	již	Db-------------	AuxZ
+6	89	C=-------------	ExD
+7	Kč	NNFXX-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9410-048-p5s4
+1	Od	RR--2----------	AuxP
+2	1	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	ledna	NNIS2-----A----	Adv
+5	1993	C=-------------	Atr
+6	bylo	VpNS---XR-AA---	Pred
+7	za	RR--4----------	AuxP
+8	m	NNIXX-----A---8	Obj
+9	2	C=-------------	Atr
+10	nutné	AANS1----1A----	Pnom
+11	platit	Vf--------A----	Sb
+12	137	C=-------------	Obj
+13	Kč	NNFXX-----A----	Atr
+14	u	RR--2----------	AuxP
+15	neměřených	AAFP2----1N----	Atr
+16	dodávek	NNFP2-----A----	Adv
+17	,	Z:-------------	Coord
+18	u	RR--2----------	AuxP
+19	dodávek	NNFP2-----A----	ExD
+20	měřených	AAFP2----1A----	Atr
+21	na	RR--6----------	AuxP
+22	vstupu	NNIS6-----A----	Adv
+23	do	RR--2----------	AuxP
+24	objektu	NNIS2-----A----	Atr
+25	120	C=-------------	ExD
+26	Kč	NNFXX-----A----	Atr
+27	/	Z:-------------	AuxG
+28	GJ	NNIXX-----A---8	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9410-048-p6s1
+1	Jaromír	NNMS1-----A----	Atr
+2	Složil	NNMS1-----A----	ExD
+
+cmpr9410-048-p7s1
+1	Kruh	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	uzavřen	VsYS---XX-AP---	Pnom
+4	.	Z:-------------	AuxK
+
+cmpr9410-048-p7s2
+1	Ceny	NNFP1-----A----	Sb
+2	tepla	NNNS2-----A----	Atr
+3	rostou	VB-P---3P-AA---	Pred
+4	dále	Db------------1	Adv
+5	.	Z:-------------	AuxK
+
+cmpr9410-048-p7s3
+1	Nájemník	NNMS1-----A----	Sb
+2	hře	NNFS3-----A----	Obj
+3	s	RR--7----------	AuxP
+4	cenami	NNFP7-----A----	Atr
+5	jen	TT-------------	AuxZ
+6	přihlíží	VB-S---3P-AA---	Pred
+7	.	Z:-------------	AuxK
+
+cmpr9410-048-p7s4
+1	Ve	RV--6----------	AuxP
+2	hře	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	stát	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	výrobce	NNMS1-----A----	Sb
+7	tepla	NNNS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	jeho	PSXXXZS3-------	Atr
+10	dodavatel	NNMS1-----A----	Sb
+11	a	J^-------------	Coord
+12	v	RR--6----------	AuxP
+13	pozadí	NNNS6-----A----	ExD
+14	spotřebitel	NNMS1-----A----	ExD
+15	.	Z:-------------	AuxK
+
+cmpr9410-048-p8s1
+1	Nutná	AAFS1----1A----	Atr
+2	změna	NNFS1-----A----	ExD
+
+cmpr9410-048-p9s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	teplo	NNNS4-----A----	Atr
+4	patří	VB-S---3P-AA---	Pred
+5	do	RR--2----------	AuxP
+6	kategorie	NNFS2-----A----	Adv
+7	cen	NNFP2-----A----	Atr
+8	regulovaných	AAFP2----1A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9410-048-p9s2
+1	Dobrotivý	AAIS1----1A----	Atr
+2	stát	NNIS1-----A----	Sb
+3	snad	Db-------------	AuxY
+4	spotřebitele	NNMP4-----A----	Obj
+5	tepla	NNNS2-----A----	Atr
+6	regulací	NNFS7-----A----	Adv
+7	ceny	NNFS2-----A----	Atr
+8	chrání	VB-S---3P-AA---	Pred
+9	?	Z:-------------	AuxK
+
+cmpr9410-048-p9s3
+1	Nebuďte	Vi-P---2--N----	Pred
+2	naivní	AAMP1----1A----	Pnom
+3	.	Z:-------------	AuxK
+
+cmpr9410-048-p9s4
+1	V	RR--6----------	AuxP
+2	Bytovém	AANS6----1A----	Atr
+3	družstvu	NNNS6-----A----	Adv
+4	v	RR--6----------	AuxP
+5	Ostravě	NNFS6-----A----	Atr
+6	-	Z:-------------	AuxG
+7	Porubě	NNFS6-----A----	Atr
+8	mají	VB-P---3P-AA---	Pred
+9	spočteno	VsNS---XX-AP---	Obj
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	v	RR--6----------	AuxP
+13	roce	NNIS6-----A---1	Adv
+14	1993	C=-------------	Atr
+15	cena	NNFS1-----A----	Sb
+16	za	RR--4----------	AuxP
+17	teplo	NNNS4-----A----	Atr
+18	a	J^-------------	Coord
+19	teplou	AAFS4----1A----	Atr
+20	vodu	NNFS4-----A----	Atr
+21	vycházela	VpQW---XR-AA---	Obj
+22	v	RR--6----------	AuxP
+23	průměru	NNIS6-----A----	Adv
+24	na	RR--4----------	AuxP
+25	byt	NNIS4-----A----	Adv
+26	a	J^-------------	Coord
+27	rok	NNIS4-----A----	Adv
+28	na	RR--4----------	AuxP
+29	12	C=-------------	Adv
+30	tisíc	ClXS2----------	Atr
+31	korun	NNFP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+cmpr9410-048-p9s5
+1	Průměrný	AAIS1----1A----	Atr
+2	plat	NNIS1-----A----	Sb
+3	ve	RV--6----------	AuxP
+4	státě	NNIS6-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	přitom	Db-------------	Adv
+7	blížil	VpYS---XR-AA---	Pred
+8	šesti	Cn-P3----------	Atr
+9	tisícům	NNIP3-----A----	Obj
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9410-048-p9s6
+1	Dva	ClYP4----------	Atr
+2	měsíce	NNIP4-----A----	Adv
+3	v	RR--6----------	AuxP
+4	roce	NNIS6-----A---1	Atr
+5	tam	Db-------------	Adv
+6	lidé	NNMP1-----A---1	Sb
+7	dělali	VpMP---XR-AA---	Pred
+8	jen	TT-------------	AuxZ
+9	na	RR--4----------	AuxP
+10	teplo	NNNS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9410-048-p9s7
+1	Na	RR--6----------	AuxP
+2	jiných	AANP6----1A----	Atr
+3	místech	NNNP6-----A----	Adv
+4	to	PDNS1----------	Sb
+5	není	VB-S---3P-NA---	Pred
+6	jiné	AANS1----1A----	Pnom
+7	.	Z:-------------	AuxK
+
+cmpr9410-048-p9s8
+1	Stát	NNIS1-----A----	Sb
+2	drží	VB-S---3P-AA---	Pred
+3	cenu	NNFS4-----A----	Obj
+4	tepla	NNNS2-----A----	Atr
+5	na	RR--6----------	AuxP
+6	uzdě	NNFS6-----A----	Adv
+7	a	J^-------------	Coord
+8	musí	VB-S---3P-AA---	Pred
+9	ji	PPFS4--3-------	Obj
+10	ještě	Db-------------	AuxZ
+11	dotovat	Vf--------A----	Obj
+12	,	Z:-------------	AuxX
+13	protože	J,-------------	AuxC
+14	jeho	PSXXXZS3-------	Atr
+15	cena	NNFS1-----A----	Sb
+16	zdaleka	Db-------------	Adv
+17	neodpovídá	VB-S---3P-NA---	Adv
+18	nákladům	NNIP3-----A----	Obj
+19	.	Z:-------------	AuxK
+
+cmpr9410-048-p9s9
+1	Dotace	NNFP1-----A----	Sb
+2	jdou	VB-P---3P-AA---	Pred
+3	ze	RV--2----------	AuxP
+4	státního	AAIS2----1A----	Atr
+5	rozpočtu	NNIS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	takže	J,-------------	AuxC
+8	na	RR--4----------	AuxP
+9	tyto	PDIP4----------	Atr
+10	příspěvky	NNIP4-----A----	Obj
+11	na	RR--4----------	AuxP
+12	teplo	NNNS4-----A----	Atr
+13	přispíváme	VB-P---1P-AA---	Adv
+14	každý	AAMS1----1A----	Sb
+15	.	Z:-------------	AuxK
+
+cmpr9410-048-p11s1
+1	Cenové	AAIP1----1A----	Atr
+2	skoky	NNIP1-----A----	ExD
+
+cmpr9410-048-p12s1
+1	Regulovaných	AAFP2----1A----	Atr
+2	cen	NNFP2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	týkajících	AGFP2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	přímo	Dg-------1A----	AuxZ
+7	domácností	NNFP2-----A----	Obj
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	okolo	RR--2----------	AuxP
+11	16	C=-------------	Atr
+12	%	Z:-------------	Sb
+13	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s2
+1	Je	VB-S---3P-AA---	Pred
+2	nutné	AANS1----1A----	Pnom
+3	přiznat	Vf--------A----	Sb
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	nebýt	Vf--------N----	Adv
+7	regulace	NNFS2-----A----	Sb
+8	cen	NNFP2-----A----	Atr
+9	tepla	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	mnozí	AAMP1----1A----	Atr
+12	jeho	PSXXXZS3-------	Atr
+13	výrobci	NNMP1-----A----	Sb
+14	by	Vc-------------	AuxV
+15	už	Db-------------	Adv
+16	jistě	Dg-------1A----	AuxY
+17	neexistovali	VpMP---XR-NA---	Obj
+18	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s3
+1	Ale	J^-------------	Coord
+2	také	Db-------------	AuxZ
+3	mnozí	AAMP1----1A----	Atr
+4	odběratelé	NNMP1-----A----	Sb
+5	by	Vc-------------	AuxV
+6	neměli	VpMP---XR-NA---	Pred
+7	na	RR--4----------	AuxP
+8	zaplacení	NNNS4-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s4
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	totiž	Db-------------	AuxY
+5	cena	NNFS1-----A----	Sb
+6	za	RR--4----------	AuxP
+7	teplo	NNNS4-----A----	Atr
+8	uvolnila	VpQW---XR-AA---	Adv
+9	naráz	Db-------------	Adv
+10	,	Z:-------------	AuxX
+11	mohla	VpQW---XR-AA---	Pred
+12	by	Vc-------------	AuxV
+13	klidně	Dg-------1A----	Adv
+14	v	RR--6----------	AuxP
+15	některých	PZXP6----------	Atr
+16	místech	NNNP6-----A----	Adv
+17	vyskočit	Vf--------A----	Obj
+18	i	J^-------------	AuxZ
+19	o	RR--4----------	AuxP
+20	100	C=-------------	Adv
+21	%	Z:-------------	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s5
+1	Náklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	výrobu	NNFS4-----A----	Atr
+4	tepla	NNNS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	pohybují	VB-P---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	průměru	NNIS6-----A----	Adv
+9	okolo	RR--2----------	AuxP
+10	200	C=-------------	Atr
+11	Kč	NNFXX-----A----	Adv
+12	za	RR--4----------	AuxP
+13	gigajoul	NNIS4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s6
+1	Ale	J^-------------	Coord
+2	jsou	VB-P---3P-AA---	Pred
+3	výrobci	NNMP1-----A----	Sb
+4	tepla	NNNS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	kteří	P4MP1----------	Sb
+7	je	PPNS4--3-------	Obj
+8	vyrobí	VB-P---3P-AA---	Atr
+9	za	RR--4----------	AuxP
+10	100	C=-------------	Adv
+11	Kč	NNFXX-----A----	Atr
+12	,	Z:-------------	Coord
+13	jiní	AAMP1----1A----	ExD
+14	naopak	Db-------------	ExD
+15	až	TT-------------	AuxZ
+16	za	RR--4----------	AuxP
+17	400	C=-------------	ExD
+18	Kč	NNFXX-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s7
+1	Proto	J^-------------	Coord
+2	je	VB-S---3P-AA---	Pred
+3	nutno	ACNS------A----	Pnom
+4	regulovat	Vf--------A----	Sb
+5	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s8
+1	Zde	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	ale	J^-------------	Coord
+4	paradox	NNIS1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s9
+1	Právě	Db-------------	AuxZ
+2	regulované	AAFP1----1A----	Atr
+3	ceny	NNFP1-----A----	Sb
+4	rostou	VB-P---3P-AA---	Pred
+5	pohříchu	Db-------------	Adv
+6	téměř	Db-------------	AuxZ
+7	nejrychleji	Dg-------3A----	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s10
+1	Stát	NNIS1-----A----	Sb
+2	regulací	NNFS7-----A----	Adv
+3	do	RR--2----------	AuxP
+4	určité	AAFS2----1A----	Atr
+5	míry	NNFS2-----A----	Adv
+6	nahrává	VB-S---3P-AA---	Pred
+7	výrobcům	NNMP3-----A----	Obj
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	si	P7-X3----------	Obj
+11	své	P8YP4---------1	Atr
+12	vysoké	AAIP4----1A----	Atr
+13	náklady	NNIP4-----A----	Obj
+14	na	RR--4----------	AuxP
+15	výrobu	NNFS4-----A----	Atr
+16	zdůvodnili	VpMP---XR-AA---	Adv
+17	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s11
+1	Ale	J^-------------	Coord
+2	také	Db-------------	AuxZ
+3	jim	PPXP3--3-------	Obj
+4	doposud	Db-------------	Adv
+5	nedal	VpYS---XR-NA---	Pred
+6	příliš	Db-------------	Obj
+7	možností	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	mohli	VpMP---XR-AA---	Adv
+11	s	RR--7----------	AuxP
+12	vysokými	AAIP7----1A----	Atr
+13	náklady	NNIP7-----A----	Obj
+14	něco	PZ--4----------	Obj
+15	dělat	Vf--------A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s12
+1	Stát	NNIS1-----A----	Sb
+2	ceny	NNFP4-----A----	Obj
+3	schválí	VB-S---3P-AA---	Pred
+4	poté	Db-------------	Adv
+5	,	Z:-------------	AuxX
+6	co	J,-------------	AuxC
+7	je	PPXP4--3-------	Obj
+8	prověří	VB-S---3P-AA---	Adv
+9	a	J^-------------	Coord
+10	promíchá	VB-S---3P-AA---	Adv
+11	ve	RV--6----------	AuxP
+12	spotřebním	AAIS6----1A----	Atr
+13	koši	NNIS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s13
+1	O	RR--6----------	AuxP
+2	tržní	AAFS6----1A----	Atr
+3	ceně	NNFS6-----A----	Obj
+4	za	RR--4----------	AuxP
+5	teplo	NNNS4-----A----	Atr
+6	si	P7-X3----------	AuxT
+7	můžeme	VB-P---1P-AA---	Pred
+8	zatím	Db-------------	Adv
+9	nechat	Vf--------A----	Obj
+10	zdát	Vf--------A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s14
+1	Regulovaná	AAFS1----1A----	Atr
+2	cena	NNFS1-----A----	Sb
+3	většinou	NNFS7-----A----	Adv
+4	znamená	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	vlk	NNMS1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	nažral	VpYS---XR-AA---	Obj
+10	a	J^-------------	Coord
+11	koza	NNFS1-----A----	Sb
+12	zůstala	VpQW---XR-AA---	Obj
+13	celá	AAFS1----1A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s15
+1	Nebohý	AAMS1----1A----	Atr
+2	spotřebitel	NNMS1-----A----	Sb
+3	nemá	VB-S---3P-NA---	Pred
+4	ve	RV--6----------	AuxP
+5	svém	P8ZS6----------	Atr
+6	bytě	NNIS6-----A----	Adv
+7	na	RR--4----------	AuxP
+8	vybranou	AAFS4----1A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s16
+1	Musí	VB-S---3P-AA---	Pred
+2	platit	Vf--------A----	Obj
+3	,	Z:-------------	AuxX
+4	protože	J,-------------	AuxC
+5	více	Dg-------2A----	Sb
+6	trubek	NNFP2-----A----	Atr
+7	s	RR--7----------	AuxP
+8	teplem	NNNS7-----A----	Atr
+9	od	RR--2----------	AuxP
+10	různých	AAMP2----1A----	Atr
+11	dodavatelů	NNMP2-----A----	Atr
+12	do	RR--2----------	AuxP
+13	domu	NNIS2-----A----	Adv
+14	nevede	VB-S---3P-NA---	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s17
+1	Chtěl	VpYS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	spotřebu	NNFS4-----A----	Obj
+4	tepla	NNNS2-----A----	Atr
+5	přesně	Dg-------1A----	Adv
+6	měřit	Vf--------A----	Obj
+7	a	J^-------------	Coord
+8	také	Db-------------	AuxZ
+9	šetřit	Vf--------A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9410-048-p12s18
+1	Ale	J^-------------	Coord
+2	i	J^-------------	AuxZ
+3	tyto	PDFP1----------	Atr
+4	snahy	NNFP1-----A----	Sb
+5	o	RR--4----------	AuxP
+6	snížení	NNNS4-----A----	Atr
+7	poplatků	NNIP2-----A----	Atr
+8	za	RR--4----------	AuxP
+9	teplo	NNNS4-----A----	Atr
+10	jsou	VB-P---3P-AA---	Pred
+11	často	Dg-------1A----	Adv
+12	iluzorní	AAFP1----1A----	Pnom
+13	,	Z:-------------	Coord
+14	nejsou	VB-P---3P-NA---	Pred
+15	všespasitelné	AAFP1----1A----	Pnom
+16	.	Z:-------------	AuxK
+
+cmpr9410-048-p13s1
+1	Čtěte	Vi-P---2--A----	Pred
+2	na	RR--6----------	AuxP
+3	straně	NNFS6-----A----	Adv
+4	12	C=-------------	Atr
+5	-	Z:-------------	Coord
+6	13	C=-------------	Atr
+7	:	Z:-------------	AuxG
+8	Samotné	AANS1----1A----	Atr
+9	měření	NNNS1-----A----	Sb
+10	spotřeby	NNFS2-----A----	Atr
+11	tepla	NNNS2-----A----	Atr
+12	peněženku	NNFS4-----A----	Obj
+13	nespasí	VB-S---3P-NA---	Obj
+
+cmpr9410-048-p14s1A
+1	Foto	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9410-048-p14s1B
+1	ČTE	VB-S---3P-AA---	Pred
+2	BURZOVNÍ	AAFP4----1A----	Atr
+3	ZPRÁVY	NNFP4-----A----	Obj
+4	:	Z:-------------	AuxK
+
+cmpr9410-048-p14s1C
+1	Někdy	Db-------------	Adv
+2	jsou	VB-P---3P-AA---	Pred
+3	málo	Dg-------1A----	Adv
+4	potěšitelné	AAFP1----1A----	Pnom
+5	.	Z:-------------	AuxK
+
+cmpr9410-048-p14s2
+1	Podobné	AANS1----1A----	Pnom
+2	to	PDNS1----------	Sb
+3	bude	VB-S---3F-AA---	Pred
+4	po	RR--4----------	AuxP
+5	nějakou	PZFS4----------	Atr
+6	dobu	NNFS4-----A----	Adv
+7	s	RR--7----------	AuxP
+8	cenami	NNFP7-----A----	Obj
+9	za	RR--4----------	AuxP
+10	teplo	NNNS4-----A----	Atr
+11	.	Z:-------------	AuxK
+

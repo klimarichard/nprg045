@@ -1,0 +1,105 @@
+ln94211-41-p1s1
+1	Výstava	NNFS1-----A----	ExD
+2	Dětí	NNFP2-----A----	Atr
+3	Země	NNFS2-----A----	Atr
+4	o	RR--6----------	AuxP
+5	jaderném	AAIS6----1A----	Atr
+6	odpadu	NNIS6-----A----	Atr
+
+ln94211-41-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94211-41-p2s1B
+1	Výstavba	NNFS1-----A----	Sb
+2	meziskladu	NNIS2-----A----	Atr
+3	vyhořelého	AANS2----1A----	Atr
+4	jaderného	AANS2----1A----	Atr
+5	paliva	NNNS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	námětem	NNIS7-----A----	Pnom
+8	putovní	AAFS2----1A----	Atr
+9	výstavy	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	pořádané	AAFS2----1A----	Atr
+12	ekologickým	AANS7----1A----	Atr
+13	hnutím	NNNS7-----A----	Obj
+14	Děti	NNFP1-----A----	Atr
+15	Země	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94211-41-p2s2
+1	Expozice	NNFS1-----A----	Sb
+2	seznamuje	VB-S---3P-AA---	Pred
+3	s	RR--7----------	AuxP
+4	argumenty	NNIP7-----A----	Obj
+5	ČEZ	NNIPX-----A---8	Atr
+6	a	J^-------------	Coord
+7	s	RR--7----------	AuxP
+8	protiargumenty	NNIP7-----A----	Obj
+9	k	RR--3----------	AuxP
+10	nim	P5XP3--3-------	Atr
+11	.	Z:-------------	AuxK
+
+ln94211-41-p2s3
+1	Výstava	NNFS1-----A----	Sb
+2	byla	VpQW---XR-AA---	AuxV
+3	zahájena	VsQW---XX-AP---	Pred
+4	včera	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	Třešti	NNFS6-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94211-41-p2s4
+1	Zítra	Db-------------	Adv
+2	poputuje	VB-S---3P-AA---	Pred
+3	do	RR--2----------	AuxP
+4	Batelova	NNIS2-----A----	Adv
+5	,	Z:-------------	AuxX
+6	poté	Db-------------	ExD
+7	do	RR--2----------	AuxP
+8	Tábora	NNIS2-----A---1	ExD
+9	(	Z:-------------	ExD
+10	11	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	9	C=-------------	ExD
+13	.	Z:-------------	AuxG
+14	)	Z:-------------	ExD
+15	,	Z:-------------	AuxX
+16	Mladé	AAFS2----1A----	Atr
+17	Vožice	NNFS2-----A----	ExD
+18	(	Z:-------------	ExD
+19	13	C=-------------	Atr
+20	.	Z:-------------	AuxG
+21	9	C=-------------	ExD
+22	.	Z:-------------	AuxG
+23	)	Z:-------------	ExD
+24	,	Z:-------------	AuxX
+25	Horažďovic	NNFP2-----A----	ExD
+26	(	Z:-------------	ExD
+27	15	C=-------------	Atr
+28	.	Z:-------------	AuxG
+29	9	C=-------------	ExD
+30	.	Z:-------------	AuxG
+31	)	Z:-------------	ExD
+32	,	Z:-------------	Coord
+33	Nepomuku	NNIS2-----A----	ExD
+34	(	Z:-------------	ExD
+35	19	C=-------------	Atr
+36	.	Z:-------------	AuxG
+37	9	C=-------------	ExD
+38	.	Z:-------------	AuxG
+39	)	Z:-------------	ExD
+40	a	J^-------------	Coord
+41	na	RR--4----------	AuxP
+42	závěr	NNIS4-----A----	ExD
+43	do	RR--2----------	AuxP
+44	Prahy	NNFS2-----A----	ExD
+45	(	Z:-------------	ExD
+46	21	C=-------------	Atr
+47	.	Z:-------------	AuxG
+48	9	C=-------------	ExD
+49	.	Z:-------------	AuxG
+50	)	Z:-------------	ExD
+51	.	Z:-------------	AuxK
+

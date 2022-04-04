@@ -1,0 +1,173 @@
+ln95045-103-p1s1
+1	Důvěra	NNFS1-----A----	Sb
+2	občanů	NNMP2-----A----	Atr
+3	v	RR--4----------	AuxP
+4	prezidenta	NNMS4-----A----	Atr
+5	roste	VB-S---3P-AA---	Pred
+6	,	Z:-------------	Coord
+7	v	RR--4----------	AuxP
+8	premiéra	NNMS4-----A----	ExD
+9	silně	Dg-------1A----	Adv
+10	klesá	VB-S---3P-AA---	Pred
+
+ln95045-103-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-103-p2s1B
+1	Prezident	NNMS1-----A----	Atr
+2	Václav	NNMS1-----A----	Atr
+3	Havel	NNMS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	těší	VB-S---3P-AA---	Pred
+6	důvěře	NNFS3-----A----	Obj
+7	75	C=-------------	Atr
+8	procent	NNNP2-----A----	Atr
+9	občanů	NNMP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	zatímco	J,-------------	AuxC
+12	důvěra	NNFS1-----A----	Sb
+13	v	RR--4----------	AuxP
+14	premiéra	NNMS4-----A----	Atr
+15	Václava	NNMS4-----A----	Atr
+16	Klause	NNMS4-----A----	Atr
+17	klesla	VpQW---XR-AA--1	Adv
+18	na	RR--4----------	AuxP
+19	54	C=-------------	Obj
+20	procent	NNNP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-103-p2s2
+1	Před	RR--7----------	AuxP
+2	rokem	NNIS7-----A----	Adv
+3	měli	VpMP---XR-AA---	Pred
+4	oba	ClYP1----------	Atr
+5	představitelé	NNMP1-----A----	Sb
+6	přibližně	Dg-------1A----	Adv
+7	stejné	AAFP4----1A----	Atr
+8	sedmdesátiprocentní	AAFP4----1A----	Atr
+9	preference	NNFP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95045-103-p3s1
+1	Středisko	NNNS1-----A----	Sb
+2	empirických	AAIP2----1A----	Atr
+3	výzkumů	NNIP2-----A----	Atr
+4	(	Z:-------------	Apos
+5	STEM	NNXXX-----A---8	Sb
+6	)	Z:-------------	AuxG
+7	dospělo	VpNS---XR-AA---	Pred
+8	k	RR--3----------	AuxP
+9	těmto	PDXP3----------	Atr
+10	údajům	NNIP3-----A----	Obj
+11	na	RR--6----------	AuxP
+12	základě	NNIS6-----A----	AuxP
+13	únorového	AANS2----1A----	Atr
+14	šetření	NNNS2-----A----	Adv
+15	mezi	RR--7----------	AuxP
+16	1617	C=-------------	Atr
+17	respondenty	NNMP7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95045-103-p3s2
+1	Při	RR--6----------	AuxP
+2	posuzování	NNNS6-----A----	Adv
+3	premiéra	NNMS2-----A----	Atr
+4	Klause	NNMS2-----A----	Atr
+5	bere	VB-S---3P-AA---	Pred
+6	veřejnost	NNFS1-----A----	Sb
+7	patrně	Dg-------1A----	AuxY
+8	v	RR--4----------	AuxP
+9	úvahu	NNFS4-----A----	Obj
+10	i	J^-------------	AuxZ
+11	jeho	PSXXXZS3-------	Atr
+12	odpovědnost	NNFS4-----A----	Obj
+13	za	RR--4----------	AuxP
+14	činnost	NNFS4-----A----	Atr
+15	celého	AAIS2----1A----	Atr
+16	kabinetu	NNIS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	případně	Dg-------1A----	Coord
+19	jednotlivých	AAIP2----1A----	Atr
+20	resortů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-103-p3s3
+1	Dlouhodobé	AAIP1----1A----	Atr
+2	výsledky	NNIP1-----A----	Sb
+3	STEM	NNXXX-----A---8	Atr
+4	totiž	Db-------------	AuxY
+5	ukazují	VB-P---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	vždy	Db-------------	Adv
+9	,	Z:-------------	AuxX
+10	když	J,-------------	AuxC
+11	klesala	VpQW---XR-AA---	Adv
+12	důvěra	NNFS1-----A----	Sb
+13	ve	RV--4----------	AuxP
+14	vládu	NNFS4-----A----	Atr
+15	,	Z:-------------	AuxX
+16	klesala	VpQW---XR-AA---	Obj
+17	i	J^-------------	AuxZ
+18	důvěra	NNFS1-----A----	Sb
+19	v	RR--4----------	AuxP
+20	premiéra	NNMS4-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-103-p4s1
+1	Nyní	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	pouze	Db-------------	AuxZ
+4	o	RR--4----------	AuxP
+5	něco	PZ--4----------	Adv
+6	více	Dg-------2A----	Sb
+7	než	J,-------------	AuxC
+8	polovina	NNFS1-----A----	Adv
+9	dotázaných	AAMP2----1A----	Atr
+10	občanů	NNMP2-----A----	Atr
+11	přesvědčena	VsQW---XX-AP---	Pnom
+12	o	RR--6----------	AuxP
+13	dobré	AAFS6----1A----	Atr
+14	práci	NNFS6-----A----	Obj
+15	vlády	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	jen	TT-------------	AuxZ
+18	38	C=-------------	Sb
+19	procent	NNNP2-----A----	Atr
+20	respondentů	NNMP2-----A----	Atr
+21	hodnotí	VB-S---3P-AA---	Pred
+22	pozitivně	Dg-------1A----	Adv
+23	práci	NNFS4-----A----	Obj
+24	parlamentu	NNIS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95045-103-p4s2
+1	STEM	NNXXX-----A---8	Sb
+2	ve	RV--6----------	AuxP
+3	svých	P8XP6----------	Atr
+4	šetřeních	NNNP6-----A----	Adv
+5	zaznamenal	VpYS---XR-AA---	Pred
+6	během	RR--2----------	AuxP
+7	posledních	AAIP2----1A----	Atr
+8	měsíců	NNIP2-----A----	Adv
+9	celkový	AAIS4----1A----	Atr
+10	pokles	NNIS4-----A----	Obj
+11	důvěry	NNFS2-----A----	Atr
+12	v	RR--4----------	AuxP
+13	politické	AAFP4----1A----	Atr
+14	instituce	NNFP4-----A----	Atr
+15	,	Z:-------------	Coord
+16	přičemž	J,-------------	Adv
+17	jedinou	AAFS4----1A----	Atr
+18	výjimku	NNFS4-----A----	Obj
+19	představuje	VB-S---3P-AA---	Pred
+20	prezident	NNMS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+ln95045-103-p4s3
+1	Více	Dg-------2A----	ExD
+2	na	RR--6----------	AuxP
+3	straně	NNFS6-----A----	ExD
+4	3	C=-------------	Atr
+

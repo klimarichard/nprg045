@@ -1,0 +1,104 @@
+mf920901-079-p1s1
+1	Havárie	NNFS1-----A----	ExD
+2	kvůli	RR--3----------	AuxP
+3	vose	NNFS3-----A----	Atr
+
+mf920901-079-p2s1A
+1	Jablonec	NNIS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Nisou	NNFS7-----A----	Atr
+4	(	Z:-------------	ExD
+5	ouš	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+mf920901-079-p2s1B
+1	Vosa	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	která	P4FS1----------	Sb
+4	vletěla	VpQW---XR-AA---	Atr
+5	do	RR--2----------	AuxP
+6	auta	NNNS2-----A----	Adv
+7	a	J^-------------	Coord
+8	zaútočila	VpQW---XR-AA---	Atr
+9	na	RR--4----------	AuxP
+10	řidiče	NNMS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	byla	VpQW---XR-AA---	Pred
+13	příčinou	NNFS7-----A----	Pnom
+14	těžké	AAFS2----1A----	Atr
+15	dopravní	AAFS2----1A----	Atr
+16	nehody	NNFS2-----A----	Atr
+17	na	RR--6----------	AuxP
+18	mezinárodní	AAFS6----1A----	Atr
+19	silnici	NNFS6-----A----	Atr
+20	E	NNFXX-----A---8	Atr
+21	-	Z:-------------	AuxG
+22	65	C=-------------	Atr
+23	v	RR--6----------	AuxP
+24	Plavech	NNIP6-----A----	Atr
+25	(	Z:-------------	AuxG
+26	psali	VpMP---XR-AA---	Pred
+27	jsme	VB-P---1P-AA---	AuxV
+28	o	RR--6----------	AuxP
+29	ní	P5FS6--3-------	Obj
+30	31	C=-------------	Atr
+31	.	Z:-------------	AuxG
+32	8	C=-------------	Adv
+33	.	Z:-------------	AuxG
+34	92	C=-------------	Atr
+35	)	Z:-------------	AuxG
+36	.	Z:-------------	AuxK
+
+mf920901-079-p2s2
+1	Pozornost	NNFS4-----A----	Obj
+2	řidiče	NNMS2-----A----	Atr
+3	J	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	B	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	z	RR--2----------	AuxP
+8	Desné	NNFS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	J	AAXXX----1A---8	Atr
+11	.	Z:-------------	AuxG
+12	h	NNNXX-----A----	Atr
+13	.	Z:-------------	AuxG
+14	rozptýlila	VpQW---XR-AA---	Pred
+15	natolik	Db-------------	Adv
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	vjel	VpYS---XR-AA---	Adv
+19	do	RR--2----------	AuxP
+20	protisměru	NNIS2-----A----	Adv
+21	a	J^-------------	Coord
+22	střetl	VpYS---XR-AA--1	Adv
+23	se	P7-X4----------	AuxT
+24	tam	Db-------------	Adv
+25	s	RR--7----------	AuxP
+26	projíždějícím	AGNS7-----A----	Atr
+27	vozidlem	NNNS7-----A----	Obj
+28	.	Z:-------------	AuxK
+
+mf920901-079-p2s3
+1	Při	RR--6----------	AuxP
+2	tragické	AAFS6----1A----	Atr
+3	srážce	NNFS6-----A----	Adv
+4	dvou	ClXP2----------	Atr
+5	škodovek	NNFP2-----A----	Atr
+6	přišel	VpYS---XR-AA---	Pred
+7	o	RR--4----------	AuxP
+8	život	NNIS4-----A----	Obj
+9	40	C=-------------	Adv
+10	letý	AAMS1----1A----	Atr
+11	muž	NNMS1-----A----	Sb
+12	z	RR--2----------	AuxP
+13	Prahy	NNFS2-----A----	Atr
+14	a	J^-------------	Coord
+15	dalších	AAMP2----1A----	Atr
+16	devět	Cn-S1----------	Sb
+17	lidí	NNMP2-----A----	Atr
+18	bylo	VpNS---XR-AA---	AuxV
+19	zraněno	VsNS---XX-AP---	Pred
+20	.	Z:-------------	AuxK
+

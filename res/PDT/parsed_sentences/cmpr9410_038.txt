@@ -1,0 +1,207 @@
+cmpr9410-038-p2s1
+1	záhlaví	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Osobní	AAFP1----1A----	Atr
+4	investice	NNFP1-----A----	ExD
+
+cmpr9410-038-p3s1
+1	Příklady	NNIP1-----A----	ExD
+2	cen	NNFP2-----A----	Atr
+3	prací	NNFP2-----A----	Atr
+4	restaurátorů	NNMP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Kč	NNFXX-----A----	Atr
+
+cmpr9410-038-p4s1
+1	Vyčištění	NNNS1-----A----	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9410-038-p5s1
+1	menší	AAIS1----2A----	Atr
+2	obrázek	NNIS1-----A----	Sb
+3	:	Z:-------------	Pred
+4	1000	C=-------------	Obj
+
+cmpr9410-038-p6s1
+1	větší	AAIS1----2A----	Atr
+2	obrázek	NNIS1-----A----	Sb
+3	:	Z:-------------	Pred
+4	2000	C=-------------	Obj
+
+cmpr9410-038-p7s1
+1	Zpevnění	NNNS1-----A----	ExD
+2	malby	NNFS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	doplnění	NNNS1-----A----	ExD
+5	poškozených	AANP2----1A----	Atr
+6	míst	NNNP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	retušování	NNNS1-----A----	ExD
+9	,	Z:-------------	Coord
+10	povrchová	AAFS1----1A----	Atr
+11	konzervace	NNFS1-----A----	ExD
+12	.	Z:-------------	AuxK
+
+cmpr9410-038-p9s1
+1	menší	AAIS1----2A----	Atr
+2	obrázek	NNIS1-----A----	Sb
+3	:	Z:-------------	Pred
+4	2000	C=-------------	Obj
+
+cmpr9410-038-p10s1
+1	větší	AAIS1----2A----	Atr
+2	obrázek	NNIS1-----A----	Sb
+3	:	Z:-------------	Pred
+4	4000	C=-------------	Obj
+
+cmpr9410-038-p11s1
+1	Oprava	NNFS1-----A----	ExD
+2	protrženého	AANS2----1A----	Atr
+3	plátna	NNNS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	rozklížené	AAFS2----1A----	Atr
+6	či	J^-------------	Coord
+7	červotočem	NNMS7-----A----	Obj
+8	prožrané	AAFS2----1A----	Atr
+9	desky	NNFS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	plesnivého	AAIS2----1A----	Atr
+12	kartonu	NNIS2-----A----	Atr
+13	,	Z:-------------	Coord
+14	nové	AANS1----1A----	Atr
+15	nažehlení	NNNS1-----A----	ExD
+16	plátna	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-038-p12s1
+1	menší	AAIS1----2A----	Atr
+2	obrázek	NNIS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	5	C=-------------	ExD
+5	-	Z:-------------	Coord
+6	7	C=-------------	ExD
+7	tis	NNIXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+
+cmpr9410-038-p13s1
+1	větší	AAIS1----2A----	Atr
+2	obrázek	NNIS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	10	C=-------------	ExD
+5	-	Z:-------------	Coord
+6	20	C=-------------	ExD
+7	tis	NNIXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+
+cmpr9410-038-p14s1
+1	Restaurátoři	NNMP1-----A----	Sb
+2	mohou	VB-P---3P-AA--1	Pred
+3	mít	Vf--------A----	Obj
+4	licenci	NNFS4-----A----	Obj
+5	A	NNNXX-----A----	Atr
+6	-	Z:-------------	Apos
+7	pro	RR--4----------	AuxP
+8	závěsné	AAIP4----1A----	Atr
+9	a	J^-------------	Coord
+10	nástěnné	AAIP4----1A----	Atr
+11	obrazy	NNIP4-----A----	Atr
+12	a	J^-------------	Coord
+13	fresky	NNFP4-----A----	Atr
+14	,	Z:-------------	AuxX
+15	licenci	NNFS4-----A----	Obj
+16	B	NNNXX-----A----	Atr
+17	pro	RR--4----------	AuxP
+18	plastiky	NNFP4-----A----	Atr
+19	a	J^-------------	Coord
+20	licenci	NNFS4-----A----	Obj
+21	C	NNNXX-----A----	Atr
+22	pro	RR--4----------	AuxP
+23	umělecko	A2--------A----	Atr
+24	-	Z:-------------	Coord
+25	řemeslné	AAFP4----1A----	Atr
+26	věci	NNFP4-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9410-038-p14s2A
+1	Našeho	PSMS4-P1-------	Atr
+2	čtenáře	NNMS4-----A----	Obj
+3	bude	VB-S---3F-AA---	AuxV
+4	zajímat	Vf--------A----	Pred
+5	licence	NNFS1-----A----	Sb
+6	A	NNNXX-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9410-038-p14s2B
+1	Doporučujeme	VB-P---1P-AA---	Pred
+2	informovat	Vf--------A----	Obj
+3	se	P7-X4----------	AuxT
+4	v	RR--6----------	AuxP
+5	Pražském	AAIS6----1A----	Atr
+6	ústavu	NNIS6-----A---1	Adv
+7	památkové	AAFS2----1A----	Atr
+8	péče	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kdo	PKM-1----------	Sb
+11	by	Vc-------------	AuxV
+12	byl	VpYS---XR-AA---	Obj
+13	vhodný	AAMS1----1A----	Pnom
+14	i	J^-------------	AuxZ
+15	svou	P8FS7---------1	Atr
+16	specializací	NNFS7-----A----	Adv
+17	v	RR--6----------	AuxP
+18	rámci	NNIS6-----A----	AuxP
+19	licence	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9410-038-p14s3
+1	Vynikající	AGMS1-----A----	Atr
+2	odborník	NNMS1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	fresky	NNFP4-----A----	Atr
+5	může	VB-S---3P-AA---	Pred
+6	mít	Vf--------A----	Obj
+7	tendenci	NNFS4-----A----	Obj
+8	nadsazovat	Vf--------A----	Atr
+9	barvy	NNFP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9410-038-p14s4
+1	U	RR--2----------	AuxP
+2	fresek	NNFP2-----A----	Adv
+3	je	VB-S---3P-AA---	Obj
+4	to	PDNS1----------	Sb
+5	žádoucí	AANS1----1A----	Pnom
+6	,	Z:-------------	AuxX
+7	protože	J,-------------	AuxC
+8	od	RR--2----------	AuxP
+9	nich	P5XP2--3-------	AtrAdv
+10	máte	VB-P---2P-AA---	Adv
+11	větší	AAIS4----2A----	Atr
+12	odstup	NNIS4-----A----	Obj
+13	,	Z:-------------	Coord
+14	obrázku	NNIS3-----A----	Obj
+15	,	Z:-------------	AuxX
+16	na	RR--4----------	AuxP
+17	který	P4IS4----------	Adv
+18	se	P7-X4----------	AuxT
+19	díváte	VB-P---2P-AA---	Atr
+20	ze	RV--2----------	AuxP
+21	dvou	ClXP2----------	Atr
+22	metrů	NNIP2-----A----	Adv
+23	,	Z:-------------	AuxX
+24	by	Vc-------------	AuxV
+25	to	PDNS1----------	Sb
+26	naopak	Db-------------	Adv
+27	mohlo	VpNS---XR-AA---	Obj
+28	uškodit	Vf--------A----	Obj
+29	,	Z:-------------	AuxX
+30	říká	VB-S---3P-AA---	Pred
+31	Michael	NNMS1-----A----	Atr
+32	Zachař	NNMS1-----A----	Sb
+33	z	RR--2----------	AuxP
+34	Pražského	AAIS2----1A----	Atr
+35	ústavu	NNIS2-----A----	Atr
+36	památkové	AAFS2----1A----	Atr
+37	péče	NNFS2-----A----	Atr
+38	.	Z:-------------	AuxK
+

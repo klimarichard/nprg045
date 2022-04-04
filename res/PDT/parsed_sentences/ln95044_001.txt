@@ -1,0 +1,160 @@
+ln95044-001-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln95044-001-p2s1
+1	Univerzální	AAIS1----1A----	Atr
+2	penzijní	AAIS1----1A----	Atr
+3	fond	NNIS1-----A----	Sb
+4	Everest	NNIS1-----A----	Atr
+5	a	J^-------------	Coord
+6	penzijní	AAIS1----1A----	Atr
+7	fond	NNIS1-----A----	Sb
+8	Certum	NNIS1-----A----	Atr
+9	dostaly	VpTP---XR-AA---	Pred
+10	od	RR--2----------	AuxP
+11	ministerstva	NNNS2-----A----	Obj
+12	financí	NNFP2-----A----	Atr
+13	povolení	NNNS4-----A----	Obj
+14	ke	RV--3----------	AuxP
+15	vzniku	NNIS3-----A----	Atr
+16	a	J^-------------	Coord
+17	činnosti	NNFS3-----A----	Atr
+18	k	RR--3----------	AuxP
+19	20	C=-------------	Atr
+20	.	Z:-------------	AuxG
+21	únoru	NNIS3-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95044-001-p3s1
+1	Příjmy	NNIP1-----A----	Sb
+2	Maďarska	NNNS2-----A----	Atr
+3	z	RR--2----------	AuxP
+4	mezinárodního	AAIS2----1A----	Atr
+5	cestovního	AAIS2----1A----	Atr
+6	ruchu	NNIS2-----A----	Atr
+7	dosáhly	VpTP---XR-AA---	Pred
+8	loni	Db------------1	Adv
+9	1.4	C=-------------	Obj
+10	miliardy	NNFS2-----A----	Atr
+11	dolarů	NNIP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	což	PE--1----------	Sb
+14	je	VB-S---3P-AA---	Pred
+15	o	RR--4----------	AuxP
+16	21	C=-------------	Adv
+17	procent	NNNP2-----A----	Atr
+18	více	Dg-------2A----	Pnom
+19	než	J,-------------	AuxC
+20	v	RR--6----------	AuxP
+21	roce	NNIS6-----A---1	ExD
+22	1993	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+ln95044-001-p3s2
+1	Výše	NNFS1-----A----	Sb
+2	čistého	AAIS2----1A----	Atr
+3	zisku	NNIS2-----A----	Atr
+4	činí	VB-S---3P-AA---	Pred
+5	600	C=-------------	Obj
+6	miliónů	NNIP2-----A----	Atr
+7	dolarů	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95044-001-p4s1
+1	Zvýšení	NNNS1-----A----	Sb
+2	platu	NNIS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	pro	RR--4----------	AuxP
+5	šest	Cn-S4----------	Adv
+6	z	RR--2----------	AuxP
+7	deseti	Cn-P2----------	Atr
+8	Francouzů	NNMP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	současnosti	NNFS6-----A----	Adv
+11	absolutní	AAFS7----1A----	Atr
+12	prioritou	NNFS7-----A----	Pnom
+13	.	Z:-------------	AuxK
+
+ln95044-001-p4s2
+1	Většina	NNFS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	je	VB-S---3P-AA---	Pred
+5	dokonce	Db-------------	AuxZ
+6	rozhodnuta	VsQW---XX-AP---	Pnom
+7	vyjít	Vf--------A----	Obj
+8	na	RR--4----------	AuxP
+9	podporu	NNFS4-----A----	Adv
+10	svých	P8XP2----------	Atr
+11	mzdových	AAIP2----1A----	Atr
+12	požadavků	NNIP2-----A----	Atr
+13	do	RR--2----------	AuxP
+14	ulic	NNFP2-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95044-001-p5s1
+1	Průmyslová	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Itálii	NNFS6-----A----	Atr
+5	po	RR--6----------	AuxP
+6	poklesu	NNIS6-----A----	Adv
+7	o	RR--4----------	AuxP
+8	2.8	C=-------------	Atr
+9	procenta	NNNS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	roce	NNIS6-----A---1	Atr
+12	1993	C=-------------	Atr
+13	se	P7-X4----------	AuxT
+14	za	RR--4----------	AuxP
+15	celý	AAIS4----1A----	Atr
+16	loňský	AAIS4----1A----	Atr
+17	rok	NNIS4-----A----	Adv
+18	zvýšila	VpQW---XR-AA---	Pred
+19	o	RR--4----------	AuxP
+20	4.9	C=-------------	Adv
+21	%	Z:-------------	Atr
+22	.	Z:-------------	AuxK
+
+ln95044-001-p6s1
+1	Dramatický	AAIS1----1A----	Atr
+2	hospodářský	AAIS1----1A----	Atr
+3	pokles	NNIS4-----A----	Obj
+4	"	Z:-------------	AuxG
+5	zbytku	NNIS2-----A----	Atr
+6	"	Z:-------------	AuxG
+7	Jugoslávie	NNFS2-----A----	Atr
+8	(	Z:-------------	AuxG
+9	Srbsko	NNNS1-----A----	ExD
+10	a	J^-------------	Coord
+11	Černá	AAFS1----1A----	Atr
+12	Hora	NNFS1-----A----	ExD
+13	)	Z:-------------	AuxG
+14	se	P7-X4----------	AuxT
+15	navzdory	Db-------------	AuxP
+16	sankcím	NNFP3-----A----	Adv
+17	OSN	NNFXX-----A---8	Atr
+18	v	RR--6----------	AuxP
+19	roce	NNIS6-----A---1	Adv
+20	1994	C=-------------	Atr
+21	podařilo	VpNS---XR-AA---	Pred
+22	zastavit	Vf--------A----	Sb
+23	.	Z:-------------	AuxK
+
+ln95044-001-p6s2
+1	Průmyslový	AAIS1----1A----	Atr
+2	sektor	NNIS1-----A----	Sb
+3	zaznamenal	VpYS---XR-AA---	Pred
+4	vloni	Db-------------	Adv
+5	nárůst	NNIS4-----A----	Obj
+6	o	RR--4----------	AuxP
+7	30	C=-------------	Atr
+8	%	Z:-------------	Atr
+9	,	Z:-------------	Coord
+10	zemědělská	AAFS1----1A----	Atr
+11	výroba	NNFS1-----A----	ExD
+12	o	RR--4----------	AuxP
+13	4	C=-------------	Atr
+14	%	Z:-------------	ExD
+15	.	Z:-------------	AuxK
+

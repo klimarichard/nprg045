@@ -1,0 +1,783 @@
+ln94204-138-p1s1
+1	Náboženská	AAFS1----1A----	Atr
+2	studená	AAFS1----1A----	Atr
+3	válka	NNFS1-----A----	ExD
+
+ln94204-138-p2s1A
+1	Polsko	NNNS1-----A----	ExD
+
+ln94204-138-p2s1B
+1	Artur	NNMS1-----A----	Atr
+2	Domoslawski	NNMS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	Gazeta	NNFS1-----A----	Atr
+5	Wyborcza	AAXXX----1A----	ExD
+
+ln94204-138-p2s1C
+1	Biskupové	NNMP1-----A----	Sb
+2	tvrdí	VB-P---3P-AA---	Pred
+3	:	Z:-------------	AuxG
+4	Vrací	VB-S---3P-AA---	Obj
+5	se	P7-X4----------	AuxT
+6	starý	AAIS1----1A----	Atr
+7	systém	NNIS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94204-138-p2s2
+1	Vládnoucí	AGFS1-----A----	Atr
+2	levice	NNFS1-----A----	Sb
+3	odpovídá	VB-S---3P-AA---	Pred
+4	:	Z:-------------	AuxG
+5	Církev	NNFS1-----A----	Sb
+6	si	P7-X3----------	AuxT
+7	nedokáže	VB-S---3P-NA---	Obj
+8	zvyknout	Vf--------A----	Obj
+9	v	RR--6----------	AuxP
+10	demokratickém	AAIS6----1A----	Atr
+11	státě	NNIS6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94204-138-p3s1
+1	Už	Db-------------	AuxZ
+2	několik	Ca--4----------	Adv
+3	měsíců	NNIP2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	tak	J^-------------	Adv
+6	v	RR--6----------	AuxP
+7	Polsku	NNNS6-----A----	Adv
+8	vyhrocují	VB-P---3P-AA---	Pred
+9	vztahy	NNIP1-----A----	Sb
+10	mezi	RR--7----------	AuxP
+11	vládnoucím	AGNS7-----A----	Atr
+12	seskupením	NNNS7-----A----	Atr
+13	a	J^-------------	Coord
+14	hierarchií	NNFS7-----A----	Atr
+15	katolické	AAFS2----1A----	Atr
+16	církve	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94204-138-p4s1
+1	Především	Db-------------	AuxZ
+2	postkomunistická	AAFS1----1A----	Atr
+3	levice	NNFS1-----A----	Sb
+4	prosazovala	VpQW---XR-AA---	Pred
+5	před	RR--7----------	AuxP
+6	časem	NNIS7-----A----	Adv
+7	v	RR--6----------	AuxP
+8	Sejmu	NNIS6-----A----	Adv
+9	pro	RR--4----------	AuxP
+10	církev	NNFS4-----A----	Adv
+11	zcela	Db-------------	Adv
+12	nepřijatelnou	AAFS4----1N----	Atr
+13	novelu	NNFS4-----A----	Obj
+14	zákona	NNIS2-----A----	Atr
+15	o	RR--6----------	AuxP
+16	umělém	AANS6----1A----	Atr
+17	přerušení	NNNS6-----A----	Atr
+18	těhotenství	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94204-138-p4s2
+1	Poslanci	NNMP1-----A----	Sb
+2	vládnoucí	AGFS2-----A----	Atr
+3	levice	NNFS2-----A----	Atr
+4	totiž	Db-------------	AuxY
+5	chtějí	VB-P---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	byl	VpYS---XR-AA---	Obj
+9	potrat	NNIS1-----A----	Sb
+10	možný	AAIS1----1A----	Pnom
+11	i	J^-------------	AuxZ
+12	ze	RV--2----------	AuxP
+13	sociálních	AAIP2----1A----	Atr
+14	důvodů	NNIP2-----A----	Adv
+15	,	Z:-------------	AuxX
+16	například	Db-------------	AuxZ
+17	v	RR--6----------	AuxP
+18	tíživé	AAFS6----1A----	Atr
+19	finanční	AAFS6----1A----	Atr
+20	situaci	NNFS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln94204-138-p4s3
+1	Zákon	NNIS4-----A----	Obj
+2	nakonec	Db-------------	Adv
+3	vetoval	VpYS---XR-AA---	Pred
+4	prezident	NNMS1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+ln94204-138-p4s4
+1	Roznětkou	NNFS7-----A----	Obj
+2	konfliktu	NNIS2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	stala	VpQW---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	situace	NNFS1-----A----	Sb
+7	okolo	RR--2----------	AuxP
+8	konkordátu	NNIS2-----A----	Atr
+9	mezi	RR--7----------	AuxP
+10	Polskem	NNNS7-----A----	Atr
+11	a	J^-------------	Coord
+12	Svatou	AAFS7----1A----	Atr
+13	stolicí	NNFS7-----A----	Atr
+14	,	Z:-------------	AuxX
+15	který	P4IS4----------	Obj
+16	vyjednala	VpQW---XR-AA---	Atr
+17	už	Db-------------	AuxZ
+18	postsolidaritní	AAFS1----1A----	Atr
+19	vláda	NNFS1-----A----	Sb
+20	Hanny	NNFS2-----A----	Atr
+21	Suchocké	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94204-138-p4s5
+1	Svaz	NNIS1-----A----	Sb
+2	demokratické	AAFS2----1A----	Atr
+3	levice	NNFS2-----A----	Atr
+4	(	Z:-------------	Apos
+5	seskupení	NNNS1-----A----	Sb
+6	postkomunistické	AAFS2----1A----	Atr
+7	levice	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4NS1----------	Sb
+10	má	VB-S---3P-AA---	Atr
+11	v	RR--6----------	AuxP
+12	současnosti	NNFS6-----A----	Adv
+13	nejpočetnější	AANS4----3A----	Atr
+14	zastoupení	NNNS4-----A----	Obj
+15	v	RR--6----------	AuxP
+16	parlamentu	NNIS6-----A---1	Adv
+17	)	Z:-------------	AuxG
+18	ohlásil	VpYS---XR-AA---	Pred
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	případná	AAFS1----1A----	Atr
+22	ratifikace	NNFS1-----A----	Sb
+23	se	P7-X4----------	AuxR
+24	odkládá	VB-S---3P-AA---	Obj
+25	až	TT-------------	AuxZ
+26	do	RR--2----------	AuxP
+27	doby	NNFS2-----A----	Adv
+28	,	Z:-------------	AuxX
+29	než	J,-------------	AuxC
+30	bude	VB-S---3F-AA---	AuxV
+31	schválena	VsQW---XX-AP---	Adv
+32	nová	AAFS1----1A----	Atr
+33	ústava	NNFS1-----A----	Sb
+34	,	Z:-------------	AuxX
+35	tedy	Db-------------	Apos
+36	přinejmenším	Db-------------	AuxZ
+37	do	RR--2----------	AuxP
+38	poloviny	NNFS2-----A----	Adv
+39	příštího	AAIS2----1A----	Atr
+40	roku	NNIS2-----A---1	Atr
+41	.	Z:-------------	AuxK
+
+ln94204-138-p4s6
+1	Konkordát	NNIS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	totiž	Db-------------	AuxY
+4	podle	RR--2----------	AuxP
+5	levice	NNFS2-----A----	Adv
+6	mnoho	Ca--4----------	Obj
+7	právních	AAFP2----1A----	Atr
+8	vad	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	jeho	PSXXXZS3-------	Atr
+11	články	NNIP1-----A----	Sb
+12	(	Z:-------------	AuxG
+13	například	Db-------------	Apos
+14	vyučování	NNNS1-----A----	Sb
+15	náboženství	NNNS2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	mateřských	AAFP6----1A----	Atr
+18	školách	NNFP6-----A----	Atr
+19	)	Z:-------------	AuxG
+20	zavádějí	VB-P---3P-AA---	Pred
+21	nadvládu	NNFS4-----A----	Obj
+22	jednoho	ClZS2----------	Atr
+23	světového	AAIS2----1A----	Atr
+24	názoru	NNIS2-----A----	Atr
+25	atd	Db------------8	Coord
+26	.	Z:-------------	AuxG
+
+ln94204-138-p4s7
+1	Přičemž	J,-------------	Adv
+2	oprávněnost	NNFS4-----A----	Obj
+3	těchto	PDXP2----------	Atr
+4	argumentů	NNIP2-----A----	Atr
+5	uznávají	VB-P---3P-AA---	Pred
+6	nejen	TT-------------	AuxZ
+7	politikové	NNMP1-----A---1	Sb
+8	SLD	NNIXX-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94204-138-p5s1
+1	Jenže	J^-------------	Coord
+2	bezprostřední	AAFS7----1A----	Atr
+3	příčinou	NNFS7-----A----	Pnom
+4	toho	PDZS2----------	Atr
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	potraty	NNIP1-----A----	Sb
+8	a	J^-------------	Coord
+9	konkordát	NNIS1-----A----	Sb
+10	přišly	VpTP---XR-AA---	Atr
+11	na	RR--4----------	AuxP
+12	pořad	NNIS4-----A----	Adv
+13	dne	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	byly	VpTP---XR-AA---	Pred
+16	červnové	AAFP1----1A----	Atr
+17	komunální	AAFP1----1A----	Atr
+18	volby	NNFP1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+ln94204-138-p5s2
+1	Vůdcové	NNMP1-----A---1	Sb
+2	levice	NNFS2-----A----	Atr
+3	totiž	Db-------------	AuxY
+4	kalkulovali	VpMP---XR-AA---	Pred
+5	s	RR--7----------	AuxP
+6	tím	PDZS7----------	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	proticírkevnost	NNFS1-----A----	Sb
+10	bude	VB-S---3F-AA---	Atr
+11	před	RR--7----------	AuxP
+12	volbami	NNFP7-----A----	Adv
+13	důležitým	AAIS7----1A----	Atr
+14	momentem	NNIS7-----A----	Pnom
+15	zprůhlednění	NNNS2-----A----	Atr
+16	ideologické	AAFS2----1A----	Atr
+17	identifikace	NNFS2-----A----	Atr
+18	jejich	PSXXXXP3-------	Atr
+19	voličů	NNMP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94204-138-p6s1
+1	V	RR--6----------	AuxP
+2	odpovědi	NNFS6-----A----	Adv
+3	na	RR--4----------	AuxP
+4	počínání	NNNS4-----A----	Atr
+5	levice	NNFS2-----A----	Atr
+6	bouchli	VpMP---XR-AA--1	Pred
+7	biskupové	NNMP1-----A----	Sb
+8	před	RR--7----------	AuxP
+9	komunálními	AAFP7----1A----	Atr
+10	volbami	NNFP7-----A----	Adv
+11	pěstí	NNFS7-----A----	Adv
+12	do	RR--2----------	AuxP
+13	stolu	NNIS2-----A----	Adv
+14	:	Z:-------------	Coord
+15	Vrací	VB-S---3P-AA---	ExD
+16	se	P7-X4----------	AuxT
+17	starý	AAIS1----1A----	Atr
+18	totalitní	AAIS1----1A----	Atr
+19	systém	NNIS1-----A----	Sb
+20	!	Z:-------------	AuxK
+
+ln94204-138-p6s2
+1	A	J^-------------	Coord
+2	nepřímo	Dg-------1N----	Adv
+3	tak	J^-------------	Adv
+4	vyzvali	VpMP---XR-AA---	Pred
+5	k	RR--3----------	AuxP
+6	odevzdání	NNNS3-----A----	Adv
+7	hlasů	NNIP2-----A----	Atr
+8	opozici	NNFS3-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94204-138-p6s3
+1	Ostrost	NNFS1-----A----	Sb
+2	jejich	PSXXXXP3-------	Atr
+3	reakce	NNFS2-----A----	Atr
+4	znamenala	VpQW---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	alespoň	Db-------------	AuxZ
+7	pro	RR--4----------	AuxP
+8	mnoho	Ca--4----------	Adv
+9	politiků	NNMP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	velké	AANS4----1A----	Atr
+12	překvapení	NNNS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94204-138-p6s4
+1	Vždyť	J^-------------	Coord
+2	v	RR--6----------	AuxP
+3	postoji	NNIS6-----A----	Adv
+4	církevní	AAFS2----1A----	Atr
+5	hierarchie	NNFS2-----A----	Atr
+6	ke	RV--3----------	AuxP
+7	světu	NNIS3-----A----	Atr
+8	politiky	NNFS2-----A----	Atr
+9	bylo	VpNS---XR-AA---	Pred
+10	v	RR--6----------	AuxP
+11	posledních	AANP6----1A----	Atr
+12	letech	NNNP6-----A----	Adv
+13	možno	ACNS------A----	Pnom
+14	pozorovat	Vf--------A----	Sb
+15	vývoj	NNIS4-----A----	Obj
+16	směrem	NNIS7-----A----	Atr
+17	,	Z:-------------	AuxX
+18	který	P4YS1----------	Sb
+19	měl	VpYS---XR-AA---	Atr
+20	k	RR--3----------	AuxP
+21	radikalismu	NNIS3-----A----	Adv
+22	daleko	Dg-------1A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94204-138-p7s1A
+1	Od	RR--2----------	AuxP
+2	radikalismu	NNIS2-----A----	ExD
+3	k	RR--3----------	AuxP
+4	umírněnosti	NNFS3-----A----	ExD
+5	a	J^-------------	Coord
+6	naopak	Db-------------	ExD
+
+ln94204-138-p7s1B
+1	Polský	AAIS1----1A----	Atr
+2	episkopát	NNIS1-----A----	Sb
+3	nikdy	Db-------------	Adv
+4	netvrdil	VpYS---XR-NA---	Pred
+5	:	Z:-------------	AuxG
+6	Katolíci	NNMP1-----A----	ExD
+7	,	Z:-------------	ExD
+8	musíte	VB-P---2P-AA---	Obj
+9	volit	Vf--------A----	Obj
+10	tu	PDFS4----------	Atr
+11	a	J^-------------	Coord
+12	tu	PDFS4----------	Atr
+13	stranu	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94204-138-p7s2
+1	Přesto	Dg-------1A----	Coord
+2	v	RR--6----------	AuxP
+3	prvních	CrFP6----------	Atr
+4	zcela	Db-------------	Adv
+5	svobodných	AAFP6----1A----	Atr
+6	parlamentních	AAFP6----1A----	Atr
+7	volbách	NNFP6-----A----	Adv
+8	v	RR--6----------	AuxP
+9	roce	NNIS6-----A---1	Atr
+10	1991	C=-------------	Atr
+11	byli	VpMP---XR-AA---	Pred
+12	duchovní	AAMP1----1A----	Sb
+13	zjevně	Dg-------1A----	Adv
+14	nakloněni	VsMP---XX-AP---	Pnom
+15	především	Db-------------	AuxZ
+16	Volební	AAFS3----1A----	Atr
+17	katolické	AAFS3----1A----	Atr
+18	akci	NNFS3-----A----	Obj
+19	(	Z:-------------	AuxG
+20	pod	RR--7----------	AuxP
+21	tímto	PDZS7----------	Atr
+22	názvem	NNIS7-----A----	Adv
+23	vystoupila	VpQW---XR-AA---	Pred
+24	jedna	ClFS1----------	Sb
+25	z	RR--2----------	AuxP
+26	hlavních	AAFP2----1A----	Atr
+27	pravicových	AAFP2----1A----	Atr
+28	stran	NNFP2-----A----	Atr
+29	,	Z:-------------	Apos
+30	Křesťanskonárodní	AANS1----1A----	Atr
+31	sjednocení	NNNS1-----A----	Sb
+32	,	Z:-------------	AuxX
+33	které	P4NS1----------	Sb
+34	v	RR--6----------	AuxP
+35	současném	AAIS6----1A----	Atr
+36	parlamentu	NNIS6-----A---1	Adv
+37	nemá	VB-S---3P-NA---	Atr
+38	zastoupení	NNNS4-----A----	Obj
+39	)	Z:-------------	AuxG
+40	.	Z:-------------	AuxK
+
+ln94204-138-p7s3
+1	O	RR--4----------	AuxP
+2	dva	ClYP4----------	Atr
+3	roky	NNIP4-----A----	Adv
+4	později	Dg-------2A----	Adv
+5	-	Z:-------------	Apos
+6	před	RR--7----------	AuxP
+7	loňskými	AAFP7----1A----	Atr
+8	parlamentními	AAFP7----1A----	Atr
+9	volbami	NNFP7-----A----	Adv
+10	-	Z:-------------	AuxG
+11	biskupové	NNMP1-----A----	Sb
+12	vystupovali	VpMP---XR-AA---	Pred
+13	už	Db-------------	Adv
+14	mnohem	Db-------------	Adv
+15	zdrženlivěji	Dg-------2A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94204-138-p7s4
+1	Důvodů	NNIP2-----A----	Atr
+2	bylo	VpNS---XR-AA---	Pred
+3	několik	Ca--1----------	Sb
+4	,	Z:-------------	AuxX
+5	například	Db-------------	Apos
+6	slabost	NNFS1-----A----	Sb
+7	stran	NNFP2-----A----	Atr
+8	podporovaných	AAFP2----1A----	Atr
+9	církví	NNFS7-----A----	Obj
+10	,	Z:-------------	Coord
+11	pokles	NNIS1-----A----	Sb
+12	důvěry	NNFS2-----A----	Atr
+13	k	RR--3----------	AuxP
+14	duchovním	NNMP3-----A----	Atr
+15	.	Z:-------------	AuxK
+16	.	Z:-------------	AuxK
+17	.	Z:-------------	AuxK
+
+ln94204-138-p7s5
+1	Biskupové	NNMP1-----A----	Sb
+2	asi	TT-------------	AuxY
+3	také	Db-------------	Adv
+4	pochopili	VpMP---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	spravování	NNNS1-----A----	Sb
+8	duší	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	jak	Db-------------	Adv
+11	tomu	PDZS3----------	Sb
+12	bylo	VpNS---XR-AA---	Pred
+13	v	RR--6----------	AuxP
+14	období	NNNS6-----A----	AuxP
+15	komunismu	NNIS2-----A----	Adv
+16	,	Z:-------------	AuxX
+17	není	VB-S---3P-NA---	Obj
+18	v	RR--6----------	AuxP
+19	demokratické	AAFS6----1A----	Atr
+20	a	J^-------------	Coord
+21	pluralistické	AAFS6----1A----	Atr
+22	společnosti	NNFS6-----A----	Adv
+23	jednoduše	Dg-------1A----	Adv
+24	možné	AANS1----1A----	Pnom
+25	.	Z:-------------	AuxK
+
+ln94204-138-p8s1
+1	Z	RR--2----------	AuxP
+2	čeho	PQ--2----------	Obj
+3	tedy	Db-------------	AuxY
+4	vyplynula	VpQW---XR-AA---	Pred
+5	nynější	AAFS1----1A----	Atr
+6	ostrá	AAFS1----1A----	Atr
+7	reakce	NNFS1-----A----	Sb
+8	biskupů	NNMP2-----A----	Atr
+9	?	Z:-------------	AuxK
+
+ln94204-138-p8s2
+1	Zcela	Db-------------	Adv
+2	zřejmý	AAIS1----1A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	neoblomný	AAIS1----1A----	Atr
+5	postoj	NNIS1-----A----	Sb
+6	k	RR--3----------	AuxP
+7	potratům	NNIP3-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94204-138-p8s3
+1	Otázka	NNFS1-----A----	Sb
+2	konkordátu	NNIS2-----A----	Atr
+3	byla	VpQW---XR-AA---	AuxV
+4	zase	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	církvi	NNFS6-----A----	Adv
+7	chápána	VsQW---XX-AP---	Pred
+8	jako	J,-------------	AuxY
+9	věc	NNFS1-----A----	Atv
+10	cti	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94204-138-p8s4
+1	Odložení	NNNS4-----A----	Obj
+2	jeho	PSXXXZS3-------	Atr
+3	ratifikace	NNFS2-----A----	Atr
+4	si	P7-X3----------	AuxT
+5	hierarchie	NNFS1-----A----	Sb
+6	vykládá	VB-S---3P-AA---	Pred
+7	jako	J,-------------	AuxY
+8	políček	NNIS4-----A----	Atv
+9	polskému	AAMS3----1A----	Atr
+10	papeži	NNMS3-----A----	Atr
+11	od	RR--2----------	AuxP
+12	polského	AAIS2----1A----	Atr
+13	parlamentu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94204-138-p8s5
+1	A	J^-------------	Coord
+2	dále	Db------------1	ExD
+3	?	Z:-------------	AuxK
+
+ln94204-138-p8s6
+1	Hierarchie	NNFS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	určitě	Dg-------1A----	Adv
+4	uvědomuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	zemi	NNFS6-----A----	Adv
+9	vládnou	VB-P---3P-AA---	Obj
+10	dědicové	NNMP1-----A---1	Sb
+11	lidového	AANS2----1A----	Atr
+12	Polska	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-138-p8s7
+1	Nyní	Db-------------	Adv
+2	už	Db-------------	Adv
+3	není	VB-S---3P-NA---	Pred
+4	důvod	NNIS1-----A----	Sb
+5	se	P7-X4----------	Obj
+6	při	RR--6----------	AuxP
+7	kritice	NNFS6-----A----	Adv
+8	vlády	NNFS2-----A----	Atr
+9	brzdit	Vf--------A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94204-138-p9s1A
+1	Biskupové	NNMP1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	válečné	AAFS6----1A----	Atr
+4	stezce	NNFS6-----A----	Atr
+
+ln94204-138-p9s1B
+1	Biskupové	NNMP1-----A----	Sb
+2	proto	J^-------------	Coord
+3	vstoupili	VpMP---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	válečnou	AAFS4----1A----	Atr
+6	stezku	NNFS4-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94204-138-p9s2
+1	O	RR--6----------	AuxP
+2	vlastních	AAIP6----1A----	Atr
+3	postojích	NNIP6-----A----	Obj
+4	-	Z:-------------	AuxG
+5	politických	AAIP6----1A----	Atr
+6	i	J^-------------	Coord
+7	nepolitických	AAIP6----1N----	Atr
+8	-	Z:-------------	AuxG
+9	však	J^-------------	Coord
+10	nebudou	VB-P---3F-NA---	AuxV
+11	rozhodovat	Vf--------A----	Pred
+12	sami	PLMP1----------	AtvV
+13	.	Z:-------------	AuxK
+
+ln94204-138-p9s3
+1	Budou	VB-P---3F-AA---	AuxV
+2	tak	Db-------------	Adv
+3	či	J^-------------	Coord
+4	onak	Db-------------	Adv
+5	determinováni	VsMP---XX-AP---	Pred
+6	situací	NNFS7-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln94204-138-p10s1
+1	Parlament	NNIS1-----A----	Sb
+2	rozšířil	VpYS---XR-AA---	Pred
+3	zákon	NNIS4-----A----	Obj
+4	o	RR--6----------	AuxP
+5	přerušení	NNNS6-----A----	Atr
+6	těhotenství	NNNS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	prezident	NNMS1-----A----	Sb
+10	ho	PHZS4--3-------	Obj
+11	vetoval	VpYS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94204-138-p10s2
+1	Je	VB-S---3P-AA---	Pred
+2	málo	Dg-------1A----	Adv
+3	pravděpodobné	AANS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	se	P7-X4----------	AuxT
+8	poslancům	NNMP3-----A----	Obj
+9	podařilo	VpNS---XR-AA---	Sb
+10	jeho	PSXXXZS3-------	Atr
+11	veto	NNNS4-----A----	Obj
+12	zrušit	Vf--------A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94204-138-p10s3
+1	Kdyby	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	to	PDNS1----------	Sb
+4	však	J^-------------	Coord
+5	povedlo	VpNS---XR-AA---	Adv
+6	,	Z:-------------	AuxX
+7	boj	NNIS1-----A----	Sb
+8	o	RR--4----------	AuxP
+9	životy	NNIP4-----A----	Atr
+10	nenarozených	AAMP2----1N----	ExD
+11	by	Vc-------------	AuxV
+12	se	P7-X4----------	AuxT
+13	stal	VpYS---XR-AA---	Pred
+14	jedním	ClZS7----------	Obj
+15	z	RR--2----------	AuxP
+16	hlavních	AAIP2----1A----	Atr
+17	námětů	NNIP2-----A----	Atr
+18	prezidentské	AAFS2----1A----	Atr
+19	kampaně	NNFS2-----A----	Atr
+20	Lecha	NNMS2-----A----	Atr
+21	Walesy	NNMS2-----A----	Atr
+22	v	RR--6----------	AuxP
+23	budoucím	AAIS6----1A----	Atr
+24	roce	NNIS6-----A---1	AtrAdv
+25	,	Z:-------------	AuxX
+26	a	J^-------------	Coord
+27	nejen	TT-------------	AuxZ
+28	jeho	PSXXXZS3-------	Atr
+29	.	Z:-------------	AuxK
+
+ln94204-138-p10s4
+1	Vysloví	VB-S---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	se	P7-X4----------	AuxT
+5	hierarchie	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	záležitosti	NNFS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	bude	VB-S---3F-AA---	AuxV
+11	chtíc	VeHS------A----	AuxY
+12	nechtíc	VeHS------N----	AtvV
+13	podporovat	Vf--------A----	Pred
+14	odpůrce	NNMP4-----A----	Obj
+15	rozšířeného	AAIS2----1A----	Atr
+16	zákona	NNIS2-----A----	Atr
+17	o	RR--6----------	AuxP
+18	potratech	NNIP6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94204-138-p10s5
+1	Když	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	poslancům	NNMP3-----A----	Obj
+5	nepodaří	VB-S---3P-NA---	Adv
+6	zrušit	Vf--------A----	Sb
+7	veto	NNNS4-----A----	Obj
+8	prezidenta	NNMS2-----A----	Atr
+9	Walesy	NNMS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	potom	Db-------------	Adv
+12	se	P7-X4----------	AuxT
+13	snaha	NNFS1-----A----	Sb
+14	prosadit	Vf--------A----	Atr
+15	rozšíření	NNNS4-----A----	Obj
+16	potratového	AAIS2----1A----	Atr
+17	zákona	NNIS2-----A----	Atr
+18	ve	RV--6----------	AuxP
+19	jménu	NNNS6-----A---1	AuxP
+20	práva	NNNS2-----A----	Adv
+21	žen	NNFP2-----A----	Atr
+22	a	J^-------------	Coord
+23	rodin	NNFP2-----A----	Atr
+24	v	RR--6----------	AuxP
+25	těžké	AAFS6----1A----	Atr
+26	materiální	AAFS6----1A----	Atr
+27	situaci	NNFS6-----A----	Atr
+28	může	VB-S---3P-AA---	Pred
+29	stát	Vf--------A----	Obj
+30	v	RR--6----------	AuxP
+31	prezidentské	AAFS6----1A----	Atr
+32	předvolební	AAFS6----1A----	Atr
+33	kampani	NNFS6-----A----	Adv
+34	zbraní	NNFS7-----A----	Obj
+35	postkomunistické	AAFS2----1A----	Atr
+36	levice	NNFS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln94204-138-p10s6
+1	V	RR--6----------	AuxP
+2	takové	PDFS6----------	Atr
+3	situaci	NNFS6-----A----	Adv
+4	si	P7-X3----------	AuxT
+5	lze	VB-S---3P-AA---	Pred
+6	jen	TT-------------	AuxZ
+7	těžko	Db-------------	Adv
+8	představit	Vf--------A----	Sb
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	by	Vc-------------	AuxV
+12	biskupové	NNMP1-----A----	Sb
+13	zůstali	VpMP---XR-AA---	Obj
+14	neutrální	AAMP1----1A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94204-138-p10s7
+1	Podobně	Dg-------1A----	Adv
+2	tomu	PDZS3----------	Sb
+3	je	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	s	RR--7----------	AuxP
+6	konkordátem	NNIS7-----A----	Adv
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	bude	VB-S---3F-AA---	AuxV
+10	do	RR--2----------	AuxP
+11	prezidentských	AAFP2----1A----	Atr
+12	voleb	NNFP2-----A----	Adv
+13	jen	TT-------------	AuxZ
+14	těžko	Db-------------	Adv
+15	ratifikován	VsYS---XX-AP---	Atr
+16	.	Z:-------------	AuxK
+
+ln94204-138-p10s8
+1	A	J^-------------	Coord
+2	nikdo	PWM-1----------	Sb
+3	neočekává	VB-S---3P-NA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	biskupové	NNMP1-----A----	Sb
+7	zůstanou	VB-P---3P-AA---	Obj
+8	lhostejní	AAMP1----1A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94204-138-p10s9
+1	Církev	NNFS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	přeje	VB-S---3P-AA---	Obj
+4	mír	NNIS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	nemá	VB-S---3P-NA---	Obj
+8	strach	NNIS4-----A----	Obj
+9	z	RR--2----------	AuxP
+10	boje	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	prohlásil	VpYS---XR-AA---	Pred
+13	nedávno	Db-------------	Adv
+14	polský	AAMS1----1A----	Atr
+15	primas	NNMS1-----A----	Atr
+16	kardinál	NNMS1-----A----	Atr
+17	Józef	NNMS1-----A----	Atr
+18	Glemp	NNMS1-----A----	Sb
+19	,	Z:-------------	Coord
+20	což	PE--1----------	Sb
+21	mělo	VpNS---XR-AA---	Pred
+22	být	Vf--------A----	Obj
+23	memento	NNNS1-----A----	Pnom
+24	politikům	NNMP3-----A----	Atr
+25	i	J^-------------	Coord
+26	voličům	NNMP3-----A----	Atr
+27	pro	RR--4----------	AuxP
+28	prezidentskou	AAFS4----1A----	Atr
+29	kampaň	NNFS4-----A----	Atr
+30	v	RR--6----------	AuxP
+31	příštím	AAIS6----1A----	Atr
+32	roce	NNIS6-----A---1	Atr
+33	.	Z:-------------	AuxK
+

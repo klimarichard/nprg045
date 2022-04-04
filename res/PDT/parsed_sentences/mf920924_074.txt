@@ -1,0 +1,181 @@
+mf920924-074-p1s1
+1	Cukr	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	káva	NNFS1-----A----	ExD
+
+mf920924-074-p2s1
+1	kde	Db-------------	Adv
+2	a	J^-------------	Coord
+3	za	RR--4----------	AuxP
+4	kolik	C?--4----------	Adv
+
+mf920924-074-p3s1A
+1	Cukr	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	káva	NNFS1-----A----	ExD
+
+mf920924-074-p3s1B
+1	Navštívili	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	státní	AAFP4----1A----	Atr
+4	i	J^-------------	Coord
+5	soukromé	AAFP4----1A----	Atr
+6	prodejny	NNFP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	abychom	J,-P---1-------	AuxC
+9	zjistili	VpMP---XR-AA---	Adv
+10	ceny	NNFP4-----A----	Obj
+11	jednoho	ClZS2----------	Atr
+12	kilogramu	NNIS2-----A----	Atr
+13	kostkového	AAIS2----1A----	Atr
+14	cukru	NNIS2-----A----	Atr
+15	a	J^-------------	Coord
+16	75	C=-------------	Atr
+17	gramů	NNIP2-----A----	Atr
+18	zrnkové	AAFS2----1A----	Atr
+19	kávy	NNFS2-----A----	Atr
+20	Standart	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920924-074-p3s2
+1	Ostrava	NNFS1-----A----	Atr
+2	-	Z:-------------	AuxG
+3	Vítkovice	NNFP1-----A----	Atr
+4	,	Z:-------------	AuxX
+5	ulice	NNFS1-----A----	Atr
+6	Zengrova	AUFS1M---------	Atr
+7	,	Z:-------------	AuxX
+8	soukromá	AAFS1----1A----	Atr
+9	firma	NNFS1-----A----	ExD
+10	potravin	NNFP2-----A----	Atr
+11	Marka	NNFS1-----A----	Atr
+12	:	Z:-------------	AuxG
+13	cukr	NNIS1-----A----	ExD
+14	17.30	C=-------------	ExD
+15	Kčs	NNFXX-----A---8	Atr
+16	,	Z:-------------	Coord
+17	káva	NNFS1-----A----	ExD
+18	14.50	C=-------------	ExD
+19	Kčs	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+mf920924-074-p3s3
+1	Valašské	AANS1----1A----	Atr
+2	Meziříčí	NNNS1-----A----	Atr
+3	,	Z:-------------	AuxX
+4	ulice	NNFS1-----A----	Atr
+5	Sokolská	AAFS1----1A----	Atr
+6	,	Z:-------------	AuxX
+7	prodejna	NNFS1-----A----	ExD
+8	Pramen	NNIS1-----A----	Atr
+9	:	Z:-------------	AuxG
+10	cukr	NNIS1-----A----	ExD
+11	17.80	C=-------------	ExD
+12	Kčs	NNFXX-----A---8	Atr
+13	,	Z:-------------	Coord
+14	káva	NNFS1-----A----	ExD
+15	13.20	C=-------------	ExD
+16	Kčs	NNFXX-----A---8	Atr
+17	.	Z:-------------	AuxK
+
+mf920924-074-p3s4
+1	Šumperk	NNIS1-----A----	Atr
+2	,	Z:-------------	AuxX
+3	ulice	NNFS1-----A----	Atr
+4	Revoluční	AAFS1----1A----	Atr
+5	,	Z:-------------	AuxX
+6	Potraviny	NNFP1-----A----	ExD
+7	Moravanka	NNFS1-----A----	Atr
+8	:	Z:-------------	AuxG
+9	cukr	NNIS1-----A----	ExD
+10	17.80	C=-------------	ExD
+11	,	Z:-------------	Coord
+12	káva	NNFS1-----A----	ExD
+13	14.40	C=-------------	ExD
+14	Kčs	NNFXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+
+mf920924-074-p3s5
+1	Vsetín	NNIS1-----A----	Atr
+2	,	Z:-------------	AuxX
+3	Horní	AANS1----1A----	Atr
+4	náměstí	NNNS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	soukromá	AAFS1----1A----	Atr
+7	firma	NNFS1-----A----	ExD
+8	koloniál	NNIS1-----A----	Atr
+9	Bambuch	NNMS1-----A----	Atr
+10	:	Z:-------------	AuxG
+11	cukr	NNIS1-----A----	ExD
+12	17.80	C=-------------	ExD
+13	Kčs	NNFXX-----A---8	Atr
+14	,	Z:-------------	Coord
+15	káva	NNFS1-----A----	ExD
+16	14	C=-------------	ExD
+17	Kčs	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+
+mf920924-074-p3s6
+1	Bruntál	NNIS1-----A----	Atr
+2	,	Z:-------------	AuxX
+3	ulice	NNFS1-----A----	Atr
+4	Cihelní	AAFS1----1A----	Atr
+5	,	Z:-------------	AuxX
+6	prodejna	NNFS1-----A----	ExD
+7	Pramen	NNIS1-----A----	Atr
+8	:	Z:-------------	AuxG
+9	cukr	NNIS1-----A----	ExD
+10	17.80	C=-------------	ExD
+11	Kčs	NNFXX-----A---8	Atr
+12	,	Z:-------------	Coord
+13	káva	NNFS1-----A----	ExD
+14	14.40	C=-------------	ExD
+15	Kčs	NNFXX-----A---8	Atr
+16	.	Z:-------------	AuxK
+
+mf920924-074-p3s7
+1	Karviná	NNFS1-----A----	Atr
+2	-	Z:-------------	AuxG
+3	Fryštát	NNIS1-----A----	Atr
+4	,	Z:-------------	AuxX
+5	ulice	NNFS1-----A----	Atr
+6	Markova	AUFS1M---------	Atr
+7	,	Z:-------------	AuxX
+8	soukromá	AAFS1----1A----	Atr
+9	firma	NNFS1-----A----	ExD
+10	potravin	NNFP2-----A----	Atr
+11	Valora	NNFS1-----A----	Atr
+12	:	Z:-------------	AuxG
+13	cukr	NNIS1-----A----	ExD
+14	18.20	C=-------------	ExD
+15	Kčs	NNFXX-----A---8	Atr
+16	,	Z:-------------	Coord
+17	káva	NNFS1-----A----	ExD
+18	14.50	C=-------------	ExD
+19	Kčs	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+mf920924-074-p3s8
+1	Příště	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	zaměříme	VB-P---1P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	jiné	AANS4----1A----	Atr
+6	zboží	NNNS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+mf920924-074-p3s9
+1	Můžete	VB-P---2P-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	navrhnout	Vf--------A----	Obj
+4	potraviny	NNFP4-----A----	Obj
+5	a	J^-------------	Coord
+6	prodejny	NNFP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	jejichž	P1XXXXP3-------	Atr
+9	cenové	AAFP1----1A----	Atr
+10	relace	NNFP1-----A----	Sb
+11	vás	PP-P4--2-------	Obj
+12	zajímají	VB-P---3P-AA---	Atr
+13	.	Z:-------------	AuxK
+

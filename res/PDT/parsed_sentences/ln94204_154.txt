@@ -1,0 +1,165 @@
+ln94204-154-p1s1
+1	Devizy	NNFP1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	vzestupu	NNIS6-----A----	ExD
+
+ln94204-154-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94204-154-p2s1B
+1	Devizové	AAFP1----1A----	Atr
+2	rezervy	NNFP1-----A----	Sb
+3	české	AAFS2----1A----	Atr
+4	bankovní	AAFS2----1A----	Atr
+5	soustavy	NNFS2-----A----	Atr
+6	činily	VpTP---XR-AA---	Pred
+7	koncem	NNIS7-----A----	AuxP
+8	července	NNIS2-----A----	Adv
+9	7.8	C=-------------	Obj
+10	miliardy	NNFS2-----A----	Atr
+11	dolarů	NNIP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	z	RR--2----------	AuxP
+14	toho	PDZS2----------	Adv
+15	rezervy	NNFP1-----A----	Sb
+16	České	AAFS2----1A----	Atr
+17	národní	AAFS2----1A----	Atr
+18	banky	NNFS2-----A----	Atr
+19	dosahovaly	VpTP---XR-AA---	Pred
+20	5.4	C=-------------	Obj
+21	miliardy	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94204-154-p3s1
+1	Rezervy	NNFP1-----A----	Sb
+2	celé	AAFS2----1A----	Atr
+3	bankovní	AAFS2----1A----	Atr
+4	soustavy	NNFS2-----A----	Atr
+5	stouply	VpTP---XR-AA--1	Pred
+6	během	RR--2----------	AuxP
+7	července	NNIS2-----A----	Adv
+8	o	RR--4----------	AuxP
+9	100	C=-------------	Adv
+10	miliónů	NNIP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	od	RR--2----------	AuxP
+13	května	NNIS2-----A----	Adv
+14	činí	VB-S---3P-AA---	Pred
+15	tento	PDYS1----------	Atr
+16	vzestup	NNIS1-----A----	Sb
+17	600	C=-------------	Obj
+18	milionů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94204-154-p3s2
+1	Rezervy	NNFP1-----A----	Sb
+2	ČNB	NNFXX-----A---8	Atr
+3	se	P7-X4----------	AuxT
+4	během	RR--2----------	AuxP
+5	července	NNIS2-----A----	Adv
+6	zvýšily	VpTP---XR-AA---	Pred
+7	o	RR--4----------	AuxP
+8	200	C=-------------	Adv
+9	miliónů	NNIP2-----A----	Atr
+10	,	Z:-------------	Coord
+11	od	RR--2----------	AuxP
+12	května	NNIS2-----A----	Adv
+13	to	PDNS1----------	Sb
+14	představuje	VB-S---3P-AA---	Pred
+15	růst	NNIS4-----A----	Obj
+16	600	C=-------------	Atr
+17	miliónů	NNIP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-154-p4s1
+1	Běžný	AAIS1----1A----	Atr
+2	účet	NNIS1-----A----	Sb
+3	platební	AAFS2----1A----	Atr
+4	bilance	NNFS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	konvertibilních	AAFP6----1A----	Atr
+7	měnách	NNFP6-----A----	Atr
+8	zaznamenal	VpYS---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	pololetí	NNNS6-----A----	Adv
+11	saldo	NNNS4-----A----	Obj
+12	663.5	C=-------------	Atr
+13	miliónu	NNIS2-----A----	Atr
+14	dolarů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94204-154-p5s1
+1	Udržuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	rozdíl	NNIS1-----A----	Sb
+4	mezi	RR--7----------	AuxP
+5	nárůstem	NNIS7-----A----	Atr
+6	úvěrů	NNIP2-----A----	Atr
+7	a	J^-------------	Coord
+8	vkladů	NNIP2-----A----	Atr
+9	obchodních	AAFP2----1A----	Atr
+10	bank	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94204-154-p5s2
+1	Od	RR--2----------	AuxP
+2	počátku	NNIS2-----A----	Adv
+3	roku	NNIS2-----A---1	Atr
+4	se	P7-X4----------	AuxT
+5	rozrostly	VpTP---XR-AA---	Pred
+6	o	RR--4----------	AuxP
+7	8.4	C=-------------	Adv
+8	,	Z:-------------	AuxX
+9	resp	Db------------8	Apos
+10	.	Z:-------------	AuxG
+11	6.7	C=-------------	Adv
+12	procenta	NNNS2-----A----	Atr
+13	(	Z:-------------	AuxG
+14	do	RR--2----------	AuxP
+15	konce	NNIS2-----A----	Adv
+16	pololetí	NNNS2-----A----	Atr
+17	to	PDNS1----------	Sb
+18	bylo	VpNS---XR-AA---	Pred
+19	7.4	C=-------------	Pnom
+20	,	Z:-------------	AuxX
+21	resp	Db------------8	Apos
+22	.	Z:-------------	AuxG
+23	5.6	C=-------------	Pnom
+24	procenta	NNNS2-----A----	Atr
+25	)	Z:-------------	AuxG
+26	.	Z:-------------	AuxK
+
+ln94204-154-p5s3
+1	Prudce	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	zvýšily	VpTP---XR-AA---	Pred
+4	mezibankovní	AAFP1----1A----	Atr
+5	úrokové	AAFP1----1A----	Atr
+6	míry	NNFP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	a	J^-------------	AuxY
+9	to	PDNS4----------	AuxY
+10	týdenní	AAFP1----1A----	ExD
+11	z	RR--2----------	AuxP
+12	červnových	AAFP2----1A----	Atr
+13	6.05	C=-------------	ExD
+14	na	RR--4----------	AuxP
+15	7.53	C=-------------	ExD
+16	procenta	NNNS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	tříměsíční	AAFP1----1A----	ExD
+19	z	RR--2----------	AuxP
+20	6.98	C=-------------	ExD
+21	na	RR--4----------	AuxP
+22	7.97	C=-------------	ExD
+23	procenta	NNNS2-----A----	Atr
+24	a	J^-------------	Coord
+25	půlroční	AAFP1----1A----	ExD
+26	z	RR--2----------	AuxP
+27	7.28	C=-------------	ExD
+28	na	RR--4----------	AuxP
+29	8.04	C=-------------	ExD
+30	procenta	NNNS2-----A----	Atr
+31	.	Z:-------------	AuxK
+

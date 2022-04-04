@@ -1,0 +1,237 @@
+lnd94103-011-p1s1
+1	Jaké	P4NS1----------	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	pracoviště	NNNS1-----A----	Sb
+4	,	Z:-------------	Coord
+5	takové	PDIP4----------	Pnom
+6	jsou	VB-P---3P-AA---	Pred
+7	produkty	NNIP1-----A----	Sb
+
+lnd94103-011-p1s2
+1	Liberec	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mag	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94103-011-p1s3
+1	Za	RR--4----------	AuxP
+2	první	CrNS4----------	Atr
+3	čtvrtletí	NNNS4-----A----	Adv
+4	letošního	AAIS2----1A----	Atr
+5	roku	NNIS2-----A---1	Atr
+6	vyšetřili	VpMP---XR-AA---	Pred
+7	veterináři	NNMP1-----A----	Sb
+8	na	RR--6----------	AuxP
+9	Liberecku	NNNS6-----A----	Adv
+10	a	J^-------------	Coord
+11	Jablonecku	NNNS6-----A----	Adv
+12	řadu	NNFS4-----A----	Obj
+13	potravin	NNFP2-----A----	Atr
+14	živočišného	AAIS2----1A----	Atr
+15	původu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd94103-011-p1s4
+1	Z	RR--2----------	AuxP
+2	313	C=-------------	Atr
+3	vzorků	NNIP2-----A----	Adv
+4	masa	NNNS2-----A----	Atr
+5	a	J^-------------	Coord
+6	masných	AAIP2----1A----	Atr
+7	výrobků	NNIP2-----A----	Atr
+8	nevyhovovalo	VpNS---XR-NA---	Pred
+9	26	C=-------------	Sb
+10	(	Z:-------------	AuxG
+11	kontaminovaných	AAIP2----1A----	Atr
+12	především	Db-------------	AuxZ
+13	bakteriemi	NNFP7-----A----	Adv
+14	a	J^-------------	Coord
+15	plísněmi	NNFP7-----A----	Adv
+16	)	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+lnd94103-011-p1s5
+1	Při	RR--6----------	AuxP
+2	kontrole	NNFS6-----A----	Adv
+3	mléka	NNNS2-----A----	Atr
+4	a	J^-------------	Coord
+5	mléčných	AAIP2----1A----	Atr
+6	produktů	NNIP2-----A----	Atr
+7	nevyhovoval	VpYS---XR-NA---	Pred
+8	zhruba	Db-------------	AuxZ
+9	každý	AAIS1----1A----	ExD
+10	čtvrtý	CrIS1----------	ExD
+11	.	Z:-------------	AuxK
+
+lnd94103-011-p1s6
+1	Týkalo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	to	PDNS1----------	Sb
+4	hlavně	Dg-------1A----	AuxZ
+5	tvrdých	AAIP2----1A----	Atr
+6	sýrů	NNIP2-----A----	Obj
+7	z	RR--2----------	AuxP
+8	Příšovic	NNFP2-----A----	Atr
+9	a	J^-------------	Coord
+10	výrobků	NNIP2-----A----	Obj
+11	soukromé	AAFS2----1A----	Atr
+12	mlékárny	NNFS2-----A----	Atr
+13	ve	RV--6----------	AuxP
+14	Frýdlantě	NNIS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94103-011-p1s7
+1	Obsahovaly	VpTP---XR-AA---	Pred
+2	vysoký	AAIS4----1A----	Atr
+3	počet	NNIS4-----A----	Obj
+4	nežádoucích	AAFP2----1N----	Atr
+5	bakterií	NNFP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+lnd94103-011-p1s8
+1	Při	RR--6----------	AuxP
+2	kontrolách	NNFP6-----A----	Adv
+3	dopadly	VpTP---XR-AA--1	Pred
+4	nejlépe	Dg-------3A----	Adv
+5	drůbež	NNFS1-----A----	Sb
+6	a	J^-------------	Coord
+7	výrobky	NNIP1-----A----	Sb
+8	z	RR--2----------	AuxP
+9	ní	P5FS2--3-------	Atr
+10	.	Z:-------------	AuxK
+
+lnd94103-011-p1s9
+1	Všechny	PLIP1----------	Atr
+2	vzorky	NNIP1-----A----	Sb
+3	byly	VpTP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	pořádku	NNIS6-----A----	Adv
+6	.	Z:-------------	AuxK
+
+lnd94103-011-p1s10
+1	Také	Db-------------	AuxZ
+2	vejce	NNNP1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	velkochovů	NNIP2-----A----	Atr
+5	byla	VpQW---XR-AA---	AuxV
+6	hodnocena	VsQW---XX-AP---	Pred
+7	příznivě	Dg-------1A----	Adv
+8	.	Z:-------------	AuxK
+
+lnd94103-011-p1s11
+1	Podle	RR--2----------	AuxP
+2	slov	NNNP2-----A----	Adv
+3	ředitele	NNMS2-----A----	Atr
+4	Okresní	AAFS2----1A----	Atr
+5	veterinární	AAFS2----1A----	Atr
+6	správy	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Liberci	NNIS6-----A----	Atr
+9	přicházejí	VB-P---3P-AA---	Pred
+10	veterináři	NNMP1-----A----	Sb
+11	na	RR--4----------	AuxP
+12	nejzávažnější	AAIP4----3A----	Atr
+13	prohřešky	NNIP4-----A----	Obj
+14	při	RR--6----------	AuxP
+15	kontrole	NNFS6-----A----	Adv
+16	stěrů	NNIP2-----A----	Atr
+17	pracovního	AANS2----1A----	Atr
+18	prostředí	NNNS2-----A----	Atr
+19	a	J^-------------	Coord
+20	pracovníků	NNMP2-----A----	Atr
+21	samotných	AAMP2----1A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd94103-011-p1s12
+1	Celá	AAFS1----1A----	Atr
+2	třetina	CyFS1----------	Sb
+3	stěrů	NNIP2-----A----	Atr
+4	byla	VpQW---XR-AA---	Pred
+5	nevyhovující	AGFS1-----N----	Pnom
+6	.	Z:-------------	AuxK
+
+lnd94103-011-p1s13
+1	Ukazuje	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	na	RR--4----------	AuxP
+4	nedostatečnou	AAFS4----1N----	Atr
+5	úroveň	NNFS4-----A----	Obj
+6	provozní	AAFS2----1A----	Atr
+7	hygieny	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	se	P7-X4----------	AuxR
+11	sice	Db-------------	AuxY
+12	poslední	AAFS7----1A----	Atr
+13	dobou	NNFS7-----A----	Adv
+14	poněkud	Db-------------	Adv
+15	zlepšila	VpQW---XR-AA---	Atr
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	stále	Dg-------1A----	Adv
+19	přetrvává	VB-S---3P-AA---	Atr
+20	spíše	Dg-------2A---1	Adv
+21	přezíravý	AAIS1----1A----	Atr
+22	postoj	NNIS1-----A----	Sb
+23	k	RR--3----------	AuxP
+24	ní	P5FS3--3-------	Atr
+25	.	Z:-------------	AuxK
+
+lnd94103-011-p1s14
+1	"	Z:-------------	AuxG
+2	Přitom	Db-------------	Adv
+3	je	VB-S---3P-AA---	Obj
+4	to	PDNS1----------	Sb
+5	nejlacinější	AAFS1----3A----	Atr
+6	cesta	NNFS1-----A----	Pnom
+7	,	Z:-------------	AuxX
+8	jak	Db-------------	Adv
+9	výrobky	NNIP4-----A----	Obj
+10	zkvalitnit	Vf--------A----	Atr
+11	,	Z:-------------	AuxX
+12	"	Z:-------------	AuxG
+13	řekl	VpYS---XR-AA---	Pred
+14	Josef	NNMS1-----A----	Atr
+15	Král	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+lnd94103-011-p1s15
+1	Za	RR--4----------	AuxP
+2	přestupek	NNIS4-----A----	Adv
+3	může	VB-S---3P-AA---	Pred
+4	veterinární	AAFS1----1A----	Atr
+5	správa	NNFS1-----A----	Sb
+6	navrhnout	Vf--------A----	Obj
+7	soukromé	AAFS3----1A----	Atr
+8	osobě	NNFS3-----A----	Obj
+9	pokutu	NNFS4-----A----	Obj
+10	do	RR--2----------	AuxP
+11	výše	NNFS2-----A----	Atr
+12	5	C=-------------	Atr
+13	až	J^-------------	Coord
+14	10	C=-------------	Atr
+15	tisíc	ClXS2----------	Atr
+16	,	Z:-------------	Coord
+17	organizaci	NNFS3-----A----	ExD
+18	200	C=-------------	Atr
+19	až	J^-------------	Coord
+20	400	C=-------------	Atr
+21	tisíc	ClXS2----------	ExD
+22	korun	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+lnd94103-011-p1s16
+1	Za	RR--4----------	AuxP
+2	první	CrIP4----------	Atr
+3	měsíce	NNIP4-----A----	Adv
+4	letošního	AAIS2----1A----	Atr
+5	roku	NNIS2-----A---1	Atr
+6	byly	VpTP---XR-AA---	AuxV
+7	uděleny	VsTP---XX-AP---	Pred
+8	pouze	Db-------------	AuxZ
+9	dvě	ClHP1----------	Atr
+10	drobné	AAFP1----1A----	Atr
+11	pokuty	NNFP1-----A----	Sb
+12	.	Z:-------------	AuxK
+

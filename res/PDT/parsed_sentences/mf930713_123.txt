@@ -1,0 +1,74 @@
+mf930713-123-p1s1
+1	Nová	AAFS1----1A----	Atr
+2	banka	NNFS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Rusku	NNNS6-----A----	Atr
+
+mf930713-123-p2s1A
+1	Moskva	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930713-123-p2s1B
+1	V	RR--6----------	AuxP
+2	Rusku	NNNS6-----A----	Adv
+3	by	Vc-------------	AuxV
+4	měla	VpQW---XR-AA---	Pred
+5	vzniknout	Vf--------A----	Obj
+6	Exportní	AAFS1----1A----	Atr
+7	a	J^-------------	Coord
+8	importní	AAFS1----1A----	Atr
+9	banka	NNFS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	která	P4FS1----------	Sb
+12	bude	VB-S---3F-AA---	AuxV
+13	financovat	Vf--------A----	Atr
+14	zahraniční	AAIS4----1A----	Atr
+15	obchod	NNIS4-----A----	Obj
+16	a	J^-------------	Coord
+17	stimulovat	Vf--------A----	Atr
+18	export	NNIS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf930713-123-p2s2
+1	Má	VB-S---3P-AA---	Pred
+2	mít	Vf--------A----	Obj
+3	základní	AAIS4----1A----	Atr
+4	kapitál	NNIS4-----A----	Obj
+5	50	C=-------------	Atr
+6	milionů	NNIP2-----A----	Atr
+7	USD	NNIXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	není	VB-S---3P-NA---	Pred
+10	však	J^-------------	Coord
+11	zatím	Db-------------	Adv
+12	jasné	AANS1----1A----	Pnom
+13	,	Z:-------------	AuxX
+14	kdo	PKM-1----------	Sb
+15	jí	PPFS3--3-------	Obj
+16	ho	PHZS4--3-------	Obj
+17	poskytne	VB-S---3P-AA---	Sb
+18	.	Z:-------------	AuxK
+
+mf930713-123-p2s3
+1	Převzít	Vf--------A----	Obj
+2	by	Vc-------------	AuxV
+3	měla	VpQW---XR-AA---	Pred
+4	většinu	NNFS4-----A----	Obj
+5	povinností	NNFP2-----A----	Atr
+6	bývalé	AAFS2----1A----	Atr
+7	sovětské	AAFS2----1A----	Atr
+8	Vněšekonombank	NNFXX-----A----	Atr
+9	,	Z:-------------	AuxX
+10	jejíž	P1FSXFS3-------	Atr
+11	činnost	NNFS1-----A----	Sb
+12	byla	VpQW---XR-AA---	AuxV
+13	omezena	VsQW---XX-AP---	Atr
+14	na	RR--4----------	AuxP
+15	obsluhu	NNFS4-----A----	Adv
+16	ruského	AAIS2----1A----	Atr
+17	zahraničního	AAIS2----1A----	Atr
+18	a	J^-------------	Coord
+19	domácího	AAIS2----1A----	Atr
+20	dluhu	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+

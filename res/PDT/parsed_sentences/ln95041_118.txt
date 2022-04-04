@@ -1,0 +1,237 @@
+ln95041-118-p1s1
+1	Dostihový	AAIS1----1A----	Atr
+2	spolek	NNIS1-----A----	Sb
+3	Pardubice	NNFP1-----A----	Atr
+4	upisuje	VB-S---3P-AA---	Pred
+5	do	RR--2----------	AuxP
+6	konce	NNIS2-----A----	Adv
+7	února	NNIS2-----A---1	Atr
+8	akcie	NNFP4-----A----	Obj
+
+ln95041-118-p2s1A
+1	Pardubice	NNFP1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-118-p2s1B
+1	Do	RR--2----------	AuxP
+2	konce	NNIS2-----A----	Adv
+3	února	NNIS2-----A---1	Atr
+4	si	P7-X3----------	Obj
+5	může	VB-S---3P-AA---	Pred
+6	veřejnost	NNFS1-----A----	Sb
+7	koupit	Vf--------A----	Obj
+8	přibližně	Dg-------1A----	AuxZ
+9	1000	C=-------------	Obj
+10	akcií	NNFP2-----A----	Atr
+11	akciové	AAFS2----1A----	Atr
+12	společnosti	NNFS2-----A----	Atr
+13	Dostihový	AAIS1----1A----	Atr
+14	spolek	NNIS1-----A----	Atr
+15	Pardubice	NNFP1-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4FP1----------	Sb
+18	jsou	VB-P---3P-AA---	Atr
+19	součástí	NNFS7-----A----	Pnom
+20	nové	AAFS2----1A----	Atr
+21	emise	NNFS2-----A----	Atr
+22	akcií	NNFP2-----A----	Atr
+23	spolku	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95041-118-p3s1
+1	Lednová	AAFS1----1A----	Atr
+2	valná	AAFS1----1A----	Atr
+3	hromada	NNFS1-----A----	Sb
+4	Dostihového	AAIS2----1A----	Atr
+5	spolku	NNIS2-----A----	Atr
+6	rozhodla	VpQW---XR-AA--1	Pred
+7	o	RR--6----------	AuxP
+8	zvýšení	NNNS6-----A----	Obj
+9	svého	P8ZS2----------	Atr
+10	základního	AANS2----1A----	Atr
+11	jmění	NNNS2-----A----	Atr
+12	o	RR--4----------	AuxP
+13	2.5	C=-------------	Atr
+14	miliónu	NNIS2-----A----	Atr
+15	korun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95041-118-p3s2
+1	Současní	AAMP1----1A----	Atr
+2	akcionáři	NNMP1-----A----	Sb
+3	upsali	VpMP---XR-AA---	Pred
+4	jen	TT-------------	AuxZ
+5	asi	TT-------------	AuxZ
+6	1500	C=-------------	Obj
+7	z	RR--2----------	AuxP
+8	2500	C=-------------	Atr
+9	akcií	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95041-118-p3s3
+1	Cena	NNFS1-----A----	Sb
+2	akcie	NNFS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	jejíž	P1FSXFS3-------	Atr
+5	nominální	AAFS1----1A----	Atr
+6	hodnota	NNFS1-----A----	Sb
+7	činí	VB-S---3P-AA---	Atr
+8	1000	C=-------------	Obj
+9	korun	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	byla	VpQW---XR-AA---	AuxV
+12	pro	RR--4----------	AuxP
+13	veřejnost	NNFS4-----A----	Adv
+14	stanovena	VsQW---XX-AP---	Pred
+15	na	RR--4----------	AuxP
+16	1300	C=-------------	Adv
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95041-118-p4s1
+1	Upisování	NNNS1-----A----	Sb
+2	akcií	NNFP2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	podle	RR--2----------	AuxP
+5	mluvčí	NNFS2-----A----	Adv
+6	spolku	NNIS2-----A----	Atr
+7	stává	VB-S---3P-AA---	Pred
+8	"	Z:-------------	AuxG
+9	příležitostí	NNFS7-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	patrioty	NNMP4-----A----	Atr
+12	dostihového	AAIS2----1A----	Atr
+13	sportu	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kteří	P4MP1----------	Sb
+16	tak	Db-------------	Adv
+17	mohou	VB-P---3P-AA--1	Atr
+18	podpořit	Vf--------A----	Obj
+19	stoletou	AAFS4----1A----	Atr
+20	tradici	NNFS4-----A----	Obj
+21	dostihů	NNIP2-----A----	Atr
+22	na	RR--6----------	AuxP
+23	pardubickém	AANS6----1A----	Atr
+24	závodišti	NNNS6-----A----	AtrAtr
+25	.	Z:-------------	AuxK
+26	"	Z:-------------	AuxG
+
+ln95041-118-p4s2
+1	Upisování	NNNS1-----A----	Sb
+2	akcií	NNFP2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	možné	AANS1----1A----	Pnom
+5	v	RR--6----------	AuxP
+6	sídle	NNNS6-----A----	Adv
+7	Dostihového	AAIS2----1A----	Atr
+8	spolku	NNIS2-----A----	Atr
+9	,	Z:-------------	Apos
+10	pardubickém	AAIS6----1A----	Atr
+11	obchodním	AAIS6----1A----	Atr
+12	domě	NNIS6-----A----	Adv
+13	K	AAXXX----1A---8	Atr
+14	Mart	NNMS1-----A----	Atr
+15	a	J^-------------	Coord
+16	v	RR--6----------	AuxP
+17	pražské	AAFS6----1A----	Atr
+18	kanceláři	NNFS6-----A----	Adv
+19	firmy	NNFS2-----A----	Atr
+20	Korag	NNIS1-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95041-118-p5s1
+1	Základní	AANS1----1A----	Atr
+2	jmění	NNNS1-----A----	Sb
+3	spolku	NNIS2-----A----	Atr
+4	po	RR--6----------	AuxP
+5	navýšení	NNNS6-----A----	Adv
+6	bude	VB-S---3F-AA---	AuxV
+7	činit	Vf--------A----	Pred
+8	7.22	C=-------------	Obj
+9	miliónu	NNIS2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95041-118-p5s2
+1	Hlavním	AAIS7----1A----	Atr
+2	důvodem	NNIS7-----A----	Pnom
+3	emise	NNFS2-----A----	Atr
+4	akcií	NNFP2-----A----	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	investice	NNFP1-----A----	Sb
+7	do	RR--2----------	AuxP
+8	pardubického	AANS2----1A----	Atr
+9	závodiště	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	které	P4FP1----------	Sb
+12	dosáhly	VpTP---XR-AA---	Atr
+13	deseti	Cn-P2----------	Atr
+14	miliónů	NNIP2-----A----	Obj
+15	korun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95041-118-p6s1
+1	Akciová	AAFS1----1A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	Dostihový	AAIS1----1A----	Atr
+4	spolek	NNIS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	je	VB-S---3P-AA---	Atr
+8	nájemcem	NNMS7-----A----	Pnom
+9	závodiště	NNNS2-----A----	Atr
+10	od	RR--2----------	AuxP
+11	města	NNNS2-----A----	Atr
+12	Pardubice	NNFP1-----A----	Atr
+13	,	Z:-------------	AuxX
+14	byla	VpQW---XR-AA---	AuxV
+15	založena	VsQW---XX-AP---	Pred
+16	na	RR--6----------	AuxP
+17	konci	NNIS6-----A----	Adv
+18	roku	NNIS2-----A---1	Atr
+19	1992	C=-------------	Atr
+20	.	Z:-------------	AuxK
+
+ln95041-118-p6s2
+1	Město	NNNS1-----A----	Sb
+2	Pardubice	NNFP1-----A----	Atr
+3	do	RR--2----------	AuxP
+4	společnosti	NNFS2-----A----	Adv
+5	vstoupilo	VpNS---XR-AA---	Pred
+6	začátkem	NNIS7-----A----	AuxP
+7	roku	NNIS2-----A---1	Adv
+8	1993	C=-------------	Atr
+9	,	Z:-------------	Coord
+10	přičemž	J,-------------	Adv
+11	svůj	P8IS4----------	Atr
+12	podíl	NNIS4-----A----	Obj
+13	splatilo	VpNS---XR-AA---	Pred
+14	nájemným	NNNS7-----A----	Adv
+15	ze	RV--2----------	AuxP
+16	závodiště	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95041-118-p6s3
+1	S	RR--7----------	AuxP
+2	30	C=-------------	Atr
+3	procenty	NNNP7-----A----	Adv
+4	akcií	NNFP2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	zároveň	Db-------------	Adv
+7	stalo	VpNS---XR-AA---	Pred
+8	největším	AAMS7----3A----	Atr
+9	akcionářem	NNMS7-----A----	Obj
+10	a	J^-------------	Coord
+11	svůj	P8IS4----------	Atr
+12	podíl	NNIS4-----A----	Obj
+13	si	P7-X3----------	Adv
+14	podle	RR--2----------	AuxP
+15	náměstkyně	NNFS2-----A----	Atr
+16	pardubického	AAMS2----1A----	Atr
+17	primátora	NNMS2-----A----	Atr
+18	Hany	NNFS2-----A----	Atr
+19	Demlové	NNFS2-----A----	Adv
+20	hodlá	VB-S---3P-AA---	Pred
+21	držet	Vf--------A----	Obj
+22	.	Z:-------------	AuxK
+

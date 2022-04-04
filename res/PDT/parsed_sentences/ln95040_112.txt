@@ -1,0 +1,224 @@
+ln95040-112-p1s1
+1	Vláda	NNFS1-----A----	Sb
+2	chce	VB-S---3P-AA---	Pred
+3	posílit	Vf--------A----	Obj
+4	vliv	NNIS4-----A----	Obj
+5	státu	NNIS2-----A----	Atr
+6	na	RR--4----------	AuxP
+7	advokátní	AAFP4----1A----	Atr
+8	komory	NNFP4-----A----	Atr
+
+ln95040-112-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-112-p2s1B
+1	Ve	RV--6----------	AuxP
+2	vládě	NNFS6-----A----	Adv
+3	převládá	VB-S---3P-AA---	Pred
+4	názor	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	vliv	NNIS1-----A----	Sb
+8	státu	NNIS2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	činnost	NNFS4-----A----	Atr
+11	advokátních	AAFP2----1A----	Atr
+12	komor	NNFP2-----A----	Atr
+13	by	Vc-------------	AuxV
+14	měl	VpYS---XR-AA---	Atr
+15	být	Vf--------A----	Obj
+16	posílen	VsYS---XX-AP---	Pnom
+17	.	Z:-------------	AuxK
+
+ln95040-112-p2s2
+1	Ministr	NNMS1-----A----	Atr
+2	spravedlnosti	NNFS2-----A----	Atr
+3	Jiří	NNMS1-----A----	Atr
+4	Novák	NNMS1-----A----	Sb
+5	(	Z:-------------	ExD
+6	ODS	NNFXX-----A---8	ExD
+7	)	Z:-------------	ExD
+8	řekl	VpYS---XR-AA---	Pred
+9	LN	NNFPX-----A---8	Obj
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	se	P7-X4----------	AuxT
+13	tento	PDYS1----------	Atr
+14	názor	NNIS1-----A----	Sb
+15	projevil	VpYS---XR-AA---	Obj
+16	při	RR--6----------	AuxP
+17	nedávném	AANS6----1N----	Atr
+18	projednávání	NNNS6-----A----	Adv
+19	návrhu	NNIS2-----A----	Atr
+20	zákona	NNIS2-----A----	Atr
+21	o	RR--6----------	AuxP
+22	advokacii	NNFS6-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95040-112-p3s1
+1	Zatím	Db-------------	Adv
+2	o	RR--6----------	AuxP
+3	přijetí	NNNS6-----A----	Obj
+4	adeptů	NNMP2-----A----	Atr
+5	advokacie	NNFS2-----A----	Atr
+6	rozhoduje	VB-S---3P-AA---	Pred
+7	advokátní	AAFS1----1A----	Atr
+8	komora	NNFS1-----A----	Sb
+9	a	J^-------------	Coord
+10	ta	PDFS1----------	Sb
+11	také	Db-------------	Adv
+12	vede	VB-S---3P-AA---	Pred
+13	jejich	PSXXXXP3-------	Atr
+14	seznam	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95040-112-p3s2
+1	Vláda	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	nyní	Db-------------	Adv
+5	přiklání	VB-S---3P-AA---	Pred
+6	k	RR--3----------	AuxP
+7	názoru	NNIS3-----A----	Adv
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	by	Vc-------------	AuxV
+11	seznam	NNIS4-----A----	Obj
+12	mělo	VpNS---XR-AA---	Atr
+13	vést	Vf--------A----	Obj
+14	ministerstvo	NNNS1-----A----	Sb
+15	spravedlnosti	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	že	J,-------------	AuxC
+18	advokáty	NNMP4-----A----	Obj
+19	by	Vc-------------	AuxV
+20	měl	VpYS---XR-AA---	Atr
+21	na	RR--4----------	AuxP
+22	návrh	NNIS4-----A----	Adv
+23	komory	NNFS2-----A----	Atr
+24	jmenovat	Vf--------A----	Obj
+25	ministr	NNMS1-----A----	Sb
+26	spravedlnosti	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95040-112-p3s3
+1	"	Z:-------------	AuxG
+2	Podmínky	NNFP1-----A----	Sb
+3	přijímacích	AAFP2----1A----	Atr
+4	zkoušek	NNFP2-----A----	Atr
+5	do	RR--2----------	AuxP
+6	advokátní	AAFS2----1A----	Atr
+7	komory	NNFS2-----A----	Atr
+8	by	Vc-------------	AuxV
+9	měly	VpTP---XR-AA---	Obj
+10	být	Vf--------A----	AuxV
+11	stanoveny	VsTP---XX-AP---	Obj
+12	zákonem	NNIS7-----A----	Adv
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	každý	AAMS1----1A----	Atr
+16	občan	NNMS1-----A----	Sb
+17	měl	VpYS---XR-AA---	Adv
+18	jistotu	NNFS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	mu	PHZS3--3-------	Obj
+22	nebudou	VB-P---3F-NA---	AuxV
+23	kladeny	VsTP---XX-AP---	Atr
+24	překážky	NNFP1-----A----	Sb
+25	formou	NNFS7-----A----	Adv
+26	profesních	AAIP2----1A----	Atr
+27	předpisů	NNIP2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	"	Z:-------------	AuxG
+30	uvedl	VpYS---XR-AA---	Pred
+31	ministr	NNMS1-----A----	Sb
+32	.	Z:-------------	AuxK
+
+ln95040-112-p3s4
+1	Ministři	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	v	RR--6----------	AuxP
+4	diskusi	NNFS6-----A----	Adv
+5	o	RR--6----------	AuxP
+6	návrhu	NNIS6-----A----	Atr
+7	zákona	NNIS2-----A----	Atr
+8	shodli	VpMP---XR-AA--1	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	by	Vc-------------	AuxV
+12	stát	NNIS1-----A----	Sb
+13	měl	VpYS---XR-AA---	Obj
+14	mít	Vf--------A----	Obj
+15	právo	NNNS4-----A----	Obj
+16	veta	NNNS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	aby	J,-------------	AuxC
+19	mohl	VpYS---XR-AA---	Adv
+20	ve	RV--6----------	AuxP
+21	sporných	AAIP6----1A----	Atr
+22	případech	NNIP6-----A----	Adv
+23	zasahovat	Vf--------A----	Obj
+24	do	RR--2----------	AuxP
+25	rozhodování	NNNS2-----A----	Adv
+26	o	RR--6----------	AuxP
+27	advokátech	NNMP6-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95040-112-p3s5
+1	Ministr	NNMS1-----A----	Atr
+2	Novák	NNMS1-----A----	Sb
+3	řekl	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	brání	VB-S---3P-AA---	Obj
+8	tomu	PDZS3----------	Obj
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	ministerstvo	NNNS1-----A----	Sb
+12	spravedlnosti	NNFS2-----A----	Atr
+13	rozhodovalo	VpNS---XR-AA---	Atr
+14	ze	RV--2----------	AuxP
+15	zákona	NNIS2-----A----	Adv
+16	o	RR--6----------	AuxP
+17	odebrání	NNNS6-----A----	Obj
+18	licence	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95040-112-p3s6
+1	Předkládaná	AAFS1----1A----	Atr
+2	úprava	NNFS1-----A----	Sb
+3	zákona	NNIS2-----A----	Atr
+4	zajišťuje	VB-S---3P-AA---	Pred
+5	ministrovi	NNMS3-----A----	Obj
+6	spravedlnosti	NNFS2-----A----	Atr
+7	právo	NNNS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	proti	RR--3----------	AuxP
+11	advokátovi	NNMS3-----A----	Adv
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	poruší	VB-S---3P-AA---	Atr
+15	své	P8FP4---------1	Atr
+16	povinnosti	NNFP4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	mohl	VpYS---XR-AA---	Atr
+19	nařídit	Vf--------A----	Obj
+20	kárné	AANS4----1A----	Atr
+21	řízení	NNNS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln95040-112-p3s7
+1	Ministerstvo	NNNS1-----A----	Sb
+2	nyní	Db-------------	Adv
+3	připomínky	NNFP4-----A----	Obj
+4	vlády	NNFS2-----A----	Atr
+5	zapracovává	VB-S---3P-AA---	Pred
+6	do	RR--2----------	AuxP
+7	návrhu	NNIS2-----A----	Adv
+8	zákona	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+

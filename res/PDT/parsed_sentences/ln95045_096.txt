@@ -1,0 +1,126 @@
+ln95045-096-p1s1
+1	Kamióny	NNIP1-----A----	Sb
+2	blokovaly	VpTP---XR-AA---	Pred
+3	silnici	NNFS4-----A----	Obj
+4	u	RR--2----------	AuxP
+5	hranice	NNFS2-----A----	AdvAtr
+
+ln95045-096-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-096-p2s1B
+1	Asi	TT-------------	AuxZ
+2	na	RR--4----------	AuxP
+3	čtyři	ClXP4----------	Atr
+4	hodiny	NNFP4-----A----	Adv
+5	zablokovali	VpMP---XR-AA---	Pred
+6	včera	Db-------------	Adv
+7	řidiči	NNMP1-----A----	Sb
+8	kamiónů	NNIP2-----A----	Atr
+9	poblíž	RR--2----------	AuxP
+10	obce	NNFS2-----A----	Adv
+11	Draženov	NNIS1-----A----	Atr
+12	silnici	NNFS4-----A----	Obj
+13	vedoucí	AGFS4-----A----	Atr
+14	k	RR--3----------	AuxP
+15	hraničnímu	AAIS3----1A----	Atr
+16	přechodu	NNIS3-----A----	Adv
+17	Folmava	NNFS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95045-096-p2s2
+1	Přáli	VpMP---XR-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	okamžité	AANS4----1A----	Atr
+4	jednání	NNNS4-----A----	Obj
+5	s	RR--7----------	AuxP
+6	vedením	NNNS7-----A----	Atr
+7	celnice	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	policií	NNFS7-----A----	Atr
+10	a	J^-------------	Coord
+11	okresním	AAIS7----1A----	Atr
+12	úřadem	NNIS7-----A----	Atr
+13	,	Z:-------------	AuxX
+14	na	RR--6----------	AuxP
+15	kterém	P4ZS6----------	Adv
+16	pak	Db-------------	Adv
+17	předložili	VpMP---XR-AA---	Atr
+18	devět	Cn-S4----------	Obj
+19	požadavků	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-096-p2s3
+1	Podle	RR--2----------	AuxP
+2	policejních	AAFP2----1A----	Atr
+3	informací	NNFP2-----A----	Adv
+4	žádali	VpMP---XR-AA---	Pred
+5	přednostní	AANS4----1A----	Atr
+6	odbavování	NNNS4-----A----	Obj
+7	vozidel	NNNP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	která	P4NP1----------	Sb
+10	nečekají	VB-P---3P-NA---	Atr
+11	na	RR--4----------	AuxP
+12	vyřízení	NNNS4-----A----	Obj
+13	spedice	NNFS2-----A----	Atr
+14	,	Z:-------------	Coord
+15	umožnění	NNNS4-----A----	Obj
+16	vyřizování	NNNS2-----A----	Atr
+17	dokladů	NNIP2-----A----	Atr
+18	na	RR--6----------	AuxP
+19	německé	AAFS6----1A----	Atr
+20	straně	NNFS6-----A----	Atr
+21	ještě	Db-------------	AuxZ
+22	před	RR--7----------	AuxP
+23	odbavením	NNNS7-----A----	Atr
+24	na	RR--6----------	AuxP
+25	české	AAFS6----1A----	Atr
+26	celnici	NNFS6-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95045-096-p2s4
+1	Dále	Db------------1	Adv
+2	pak	Db-------------	Adv
+3	mj	Db------------8	Adv
+4	.	Z:-------------	AuxG
+5	požadovali	VpMP---XR-AA---	Pred
+6	zamezení	NNNS4-----A----	Obj
+7	předjíždění	NNNS3-----A----	Atr
+8	avií	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4FP1----------	Sb
+11	jsou	VB-P---3P-AA---	AuxV
+12	odbavovány	VsTP---XX-AP---	Atr
+13	spolu	Db-------------	AuxP
+14	s	RR--7----------	AuxP
+15	osobní	AAFS7----1A----	Atr
+16	dopravou	NNFS7-----A----	Adv
+17	,	Z:-------------	AuxX
+18	a	J^-------------	Coord
+19	poukazovali	VpMP---XR-AA---	Pred
+20	na	RR--4----------	AuxP
+21	nespolupráci	NNFS4-----A----	Obj
+22	mezi	RR--7----------	AuxP
+23	celníky	NNMP7-----A----	Atr
+24	a	J^-------------	Coord
+25	policisty	NNMP7-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95045-096-p2s5
+1	Silnici	NNFS4-----A----	Obj
+2	,	Z:-------------	AuxX
+3	kterou	P4FS4----------	Obj
+4	zablokovali	VpMP---XR-AA---	Atr
+5	zhruba	Db-------------	AuxZ
+6	v	RR--4----------	AuxP
+7	10.00	C=-------------	Adv
+8	,	Z:-------------	AuxX
+9	uvolnili	VpMP---XR-AA---	Pred
+10	po	RR--6----------	AuxP
+11	jednání	NNNS6-----A----	Adv
+12	ve	RV--4----------	AuxP
+13	14.00	C=-------------	Adv
+14	.	Z:-------------	AuxK
+

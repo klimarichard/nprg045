@@ -1,0 +1,139 @@
+mf920901-039-p1s1
+1	Majetek	NNIS1-----A----	ExD
+2	z	RR--2----------	AuxP
+3	Moravy	NNFS2-----A----	Atr
+4	na	RR--4----------	AuxP
+5	Slovensko	NNNS4-----A----	ExD
+6	?	Z:-------------	AuxK
+
+mf920901-039-p2s1
+1	Slušovice	NNFP1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920901-039-p2s2
+1	Zisk	NNIS1-----A----	Sb
+2	vytvořený	AAIS1----1A----	Atr
+3	DAK	NNXXX-----A---8	Obj
+4	Mova	NNFS1-----A----	Atr
+5	Bratislava	NNFS1-----A----	Atr
+6	v	RR--6----------	AuxP
+7	České	AAFS6----1A----	Atr
+8	republice	NNFS6-----A----	Adv
+9	může	VB-S---3P-AA---	Pred
+10	podle	RR--2----------	AuxP
+11	předsedy	NNMS2-----A----	Atr
+12	družstevního	AAIS2----1A----	Atr
+13	agrokombinátu	NNIS2-----A----	Atr
+14	Slušovice	NNFP1-----A----	Atr
+15	Vladimíra	NNMS2-----A----	Atr
+16	Pečírky	NNMS2-----A----	Adv
+17	nejen	TT-------------	AuxZ
+18	odcházet	Vf--------A----	Obj
+19	na	RR--4----------	AuxP
+20	Slovensko	NNNS4-----A----	Adv
+21	,	Z:-------------	AuxX
+22	ale	J^-------------	Coord
+23	dokonce	Db-------------	AuxZ
+24	pouhým	AANS7----1A----	Atr
+25	formálním	AANS7----1A----	Atr
+26	rozhodnutím	NNNS7-----A----	Adv
+27	může	VB-S---3P-AA---	Obj
+28	přijít	Vf--------A----	Obj
+29	jedna	ClFS1----------	Atr
+30	republika	NNFS1-----A----	Sb
+31	o	RR--4----------	AuxP
+32	majetek	NNIS4-----A----	Obj
+33	na	RR--6----------	AuxP
+34	vlastním	AANS6----1A----	Atr
+35	území	NNNS6-----A----	Atr
+36	.	Z:-------------	AuxK
+
+mf920901-039-p2s3
+1	"	Z:-------------	AuxG
+2	DAK	NNXXX-----A---8	Sb
+3	MOVA	NNFS1-----A----	Atr
+4	má	VB-S---3P-AA---	Pred
+5	symbolické	AANS4----1A----	Atr
+6	sídlo	NNNS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	Bratislavě	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+mf920901-039-p2s4
+1	Pracuje	VB-S---3P-AA---	Obj
+2	tam	Db-------------	Adv
+3	15	C=-------------	Sb
+4	lidí	NNMP2-----A----	Atr
+5	,	Z:-------------	Coord
+6	jinak	Db-------------	Adv
+7	veškerý	PLYS1----------	Atr
+8	majetek	NNIS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	včetně	Db-------------	AuxP
+11	pracovníků	NNMP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	je	VB-S---3P-AA---	Obj
+14	v	RR--6----------	AuxP
+15	České	AAFS6----1A----	Atr
+16	republice	NNFS6-----A----	Adv
+17	a	J^-------------	Coord
+18	tam	Db-------------	Adv
+19	vzniká	VB-S---3P-AA---	Obj
+20	zisk	NNIS1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	"	Z:-------------	AuxG
+23	uvedl	VpYS---XR-AA---	Pred
+24	Vladimír	NNMS1-----A----	Atr
+25	Pečírka	NNMS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+mf920901-039-p2s5
+1	MOVA	NNFS1-----A----	Sb
+2	i	J^-------------	Coord
+3	Start	NNIS1-----A----	Sb
+4	si	P7-X3----------	Adv
+5	podle	RR--2----------	AuxP
+6	jeho	PSXXXZS3-------	Atr
+7	slov	NNNP2-----A----	Adv
+8	v	RR--6----------	AuxP
+9	případě	NNIS6-----A----	Adv
+10	rozdělení	NNNS2-----A----	Atr
+11	ČSFR	NNFXX-----A---8	Atr
+12	jistě	Dg-------1A----	Adv
+13	budou	VB-P---3F-AA---	AuxV
+14	činit	Vf--------A----	Pred
+15	nárok	NNIS4-----A----	Obj
+16	na	RR--4----------	AuxP
+17	majetek	NNIS4-----A----	Atr
+18	v	RR--6----------	AuxP
+19	České	AAFS6----1A----	Atr
+20	republice	NNFS6-----A----	Atr
+21	,	Z:-------------	AuxX
+22	ovšem	J^-------------	Coord
+23	k	RR--3----------	AuxP
+24	odvodům	NNIP3-----A----	Obj
+25	,	Z:-------------	AuxX
+26	daním	NNFP3-----A----	Obj
+27	a	J^-------------	Coord
+28	podobně	Dg-------1A----	Obj
+29	se	P7-X4----------	AuxT
+30	tam	Db-------------	Adv
+31	hlásit	Vf--------A----	Pred
+32	nebudou	VB-P---3F-NA---	AuxV
+33	.	Z:-------------	AuxK
+
+mf920901-039-p2s6
+1	Vladimír	NNMS1-----A----	Atr
+2	Pečírka	NNMS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	rozhodl	VpYS---XR-AA--1	Pred
+5	informovat	Vf--------A----	Obj
+6	o	RR--6----------	AuxP
+7	tom	PDZS6----------	Obj
+8	českého	AAMS4----1A----	Atr
+9	ministra	NNMS4-----A----	Atr
+10	financí	NNFP2-----A----	Atr
+11	Ivana	NNMS4-----A----	Atr
+12	Kočárníka	NNMS4-----A----	Obj
+13	.	Z:-------------	AuxK
+

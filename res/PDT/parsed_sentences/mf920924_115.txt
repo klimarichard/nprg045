@@ -1,0 +1,232 @@
+mf920924-115-p1s1
+1	poznámka	NNFS1-----A----	ExD
+
+mf920924-115-p2s1A
+1	CESTA	NNFS1-----A----	ExD
+2	K	RR--3----------	AuxP
+3	ČESKÉ	AAFS3----1A----	Atr
+4	POJIŠŤOVNĚ	NNFS3-----A----	Atr
+
+mf920924-115-p2s1B
+1	Včerejší	AAFS1----1A----	Atr
+2	pražská	AAFS1----1A----	Atr
+3	schůzka	NNFS1-----A----	Sb
+4	poslanců	NNMP2-----A----	Atr
+5	republikových	AAIP2----1A----	Atr
+6	parlamentů	NNIP2-----A----	Atr
+7	za	RR--4----------	AuxP
+8	ČSSD	NNFXX-----A---8	Atr
+9	,	Z:-------------	AuxX
+10	HSDSMS	NNNXX-----A---8	Atr
+11	,	Z:-------------	AuxX
+12	LSU	NNFXX-----A---8	Atr
+13	a	J^-------------	Coord
+14	SDL	NNFXX-----A---8	Atr
+15	ukázala	VpQW---XR-AA---	Pred
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	proces	NNIS1-----A----	Sb
+19	dělení	NNNS2-----A----	Atr
+20	ČSFR	NNFXX-----A---8	Atr
+21	nebude	VB-S---3F-NA---	Obj
+22	zřejmě	Dg-------1A----	AuxY
+23	tak	Db-------------	Adv
+24	hladký	AAIS1----1A----	Pnom
+25	,	Z:-------------	AuxX
+26	jak	Db-------------	AuxC
+27	se	P7-X4----------	AuxT
+28	jeví	VB-S---3P-AA---	Adv
+29	pozorovatelům	NNMP3-----A----	Obj
+30	jednání	NNNP2-----A----	Atr
+31	mezi	RR--7----------	AuxP
+32	ODS	NNFXX-----A---8	Atr
+33	a	J^-------------	Coord
+34	HZDS	NNNXX-----A---8	Atr
+35	.	Z:-------------	AuxK
+
+mf920924-115-p2s2
+1	Podle	RR--2----------	AuxP
+2	předsedy	NNMS2-----A----	Atr
+3	klubu	NNIS2-----A----	Atr
+4	SDL	NNFXX-----A---8	Atr
+5	v	RR--6----------	AuxP
+6	SNR	NNFXX-----A---8	Atr
+7	Milana	NNMS2-----A----	Atr
+8	Ftáčnika	NNMS2-----A----	Adv
+9	se	P7-X4----------	AuxT
+10	představitelé	NNMP1-----A----	Sb
+11	jmenovaných	AAFP2----1A----	Atr
+12	stran	NNFP2-----A----	Atr
+13	rozhodli	VpMP---XR-AA--1	Pred
+14	iniciovat	Vf--------A----	Obj
+15	činnost	NNFS4-----A----	Obj
+16	komisí	NNFP2-----A----	Atr
+17	národních	AAFP2----1A----	Atr
+18	rad	NNFP2-----A----	Atr
+19	pro	RR--4----------	AuxP
+20	vzájemné	AANS4----1A----	Atr
+21	jednání	NNNS4-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf920924-115-p2s3
+1	Ty	PDFP1----------	Sb
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	měly	VpTP---XR-AA---	Pred
+5	zabývat	Vf--------A----	Obj
+6	především	Db-------------	AuxZ
+7	dohodou	NNFS7-----A----	Obj
+8	o	RR--6----------	AuxP
+9	budoucím	AANS6----1A----	Atr
+10	soužití	NNNS6-----A----	Atr
+11	České	AAFS2----1A----	Atr
+12	a	J^-------------	Coord
+13	Slovenské	AAFS2----1A----	Atr
+14	republiky	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920924-115-p2s4
+1	Strany	NNFP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	shodly	VpTP---XR-AA--1	Pred
+4	na	RR--6----------	AuxP
+5	vytvoření	NNNS6-----A----	Obj
+6	společných	AAFP2----1A----	Atr
+7	expertních	AAFP2----1A----	Atr
+8	skupin	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4FP1----------	Sb
+11	by	Vc-------------	AuxV
+12	měly	VpTP---XR-AA---	Atr
+13	na	RR--6----------	AuxP
+14	základech	NNIP6-----A----	Adv
+15	takových	PDXP2----------	Atr
+16	dohod	NNFP2-----A----	Atr
+17	pracovat	Vf--------A----	Obj
+18	samy	PLFP1----------	Atv
+19	.	Z:-------------	AuxK
+
+mf920924-115-p2s5
+1	"	Z:-------------	AuxG
+2	Pracovně	Dg-------1A----	Adv
+3	jsme	VB-P---1P-AA---	AuxV
+4	hovořili	VpMP---XR-AA---	Obj
+5	o	RR--6----------	AuxP
+6	tom	PDZS6----------	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	bychom	Vc-P---1-------	AuxV
+10	mohli	VpMP---XR-AA---	Atr
+11	vycházet	Vf--------A----	Obj
+12	z	RR--2----------	AuxP
+13	dohod	NNFP2-----A----	Obj
+14	o	RR--6----------	AuxP
+15	evropské	AAFS6----1A----	Atr
+16	unii	NNFS6-----A----	Atr
+17	z	RR--2----------	AuxP
+18	Maastrichtu	NNIS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	"	Z:-------------	AuxG
+21	řekl	VpYS---XR-AA---	Pred
+22	Milan	NNMS1-----A----	Atr
+23	Ftáčnik	NNMS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+mf920924-115-p2s6
+1	Pokud	J,-------------	AuxC
+2	včerejší	AANS1----1A----	Atr
+3	nalezení	NNNS1-----A----	Sb
+4	společné	AAFS2----1A----	Atr
+5	řeči	NNFS2-----A----	Atr
+6	mezi	RR--7----------	AuxP
+7	částí	NNFS7-----A----	Atr
+8	české	AAFS2----1A----	Atr
+9	opozice	NNFS2-----A----	Atr
+10	a	J^-------------	Coord
+11	SDL	NNFXX-----A---8	Atr
+12	bude	VB-S---3F-AA---	Adv
+13	trvalejší	AANS1----2A----	Pnom
+14	,	Z:-------------	AuxX
+15	vážně	Dg-------1A----	Adv
+16	zkomplikuje	VB-S---3P-AA---	Pred
+17	případné	AANS4----1A----	Atr
+18	dělení	NNNS4-----A----	Obj
+19	ČSFR	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+mf920924-115-p2s7
+1	Z	RR--2----------	AuxP
+2	hlediska	NNNS2-----A----	AuxP
+3	širších	AAFP2----2A----	Atr
+4	geo	A2--------A----	Atr
+5	-	Z:-------------	AuxG
+6	politických	AAFP2----1A----	Atr
+7	souvislostí	NNFP2-----A----	Adv
+8	to	PDNS1----------	Sb
+9	rozhodně	Dg-------1A----	Adv
+10	není	VB-S---3P-NA---	Pred
+11	zavrženíhodný	AAIS1----1A----	Atr
+12	trend	NNIS1-----A----	Pnom
+13	.	Z:-------------	AuxK
+
+mf920924-115-p2s8
+1	Problém	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	tom	PDZS6----------	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	nahrává	VB-S---3P-AA---	Atr
+8	záměrům	NNIP3-----A----	Obj
+9	Vladimíra	NNMS2-----A----	Atr
+10	Mečiara	NNMS2-----A----	Atr
+11	udržet	Vf--------A----	Atr
+12	pohromadě	Db-------------	Adv
+13	rozvolněnou	AAFS4----1A----	Atr
+14	federaci	NNFS4-----A----	Obj
+15	a	J^-------------	Coord
+16	naplnit	Vf--------A----	Atr
+17	slova	NNNP4-----A----	Obj
+18	o	RR--6----------	AuxP
+19	samostatném	AANS6----1A----	Atr
+20	Slovensku	NNNS6-----A----	Atr
+21	s	RR--7----------	AuxP
+22	českou	AAFS7----1A----	Atr
+23	pojišťovnou	NNFS7-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920924-115-p2s9
+1	I	J^-------------	AuxZ
+2	to	PDNS1----------	Sb
+3	by	Vc-------------	AuxV
+4	bylo	VpNS---XR-AA---	Pred
+5	za	RR--2----------	AuxP
+6	určitých	AAFP2----1A----	Atr
+7	okolností	NNFP2-----A----	Adv
+8	akceptovatelné	AANS1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	partnerem	NNMS7-----A----	Pnom
+12	by	Vc-------------	AuxV
+13	musela	VpQW---XR-AA---	Pred
+14	být	Vf--------A----	Obj
+15	jiná	AAFS1----1A----	Atr
+16	politická	AAFS1----1A----	Atr
+17	reprezentace	NNFS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+mf920924-115-p2s10
+1	Nikoli	Db------------1	AuxZ
+2	ta	PDFS1----------	ExD
+3	,	Z:-------------	AuxX
+4	která	P4FS1----------	Sb
+5	vysílá	VB-S---3P-AA---	Atr
+6	jasné	AAIP4----1A----	Atr
+7	signály	NNIP4-----A----	Obj
+8	o	RR--6----------	AuxP
+9	svérázném	AAIS6----1A----	Atr
+10	přístupu	NNIS6-----A----	Atr
+11	k	RR--3----------	AuxP
+12	demokracii	NNFS3-----A----	Atr
+13	.	Z:-------------	AuxK
+

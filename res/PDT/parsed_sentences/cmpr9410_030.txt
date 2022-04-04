@@ -1,0 +1,77 @@
+cmpr9410-030-p2s1
+1	Oskar	NNMS1-----A----	ExD
+
+cmpr9410-030-p3s1
+1	Firmě	NNFS3-----A----	ExD
+2	Pučálka	NNFS1-----A----	Atr
+3	,	Z:-------------	ExD
+4	za	RR--4----------	AuxP
+5	bezplatnou	AAFS4----1A----	Atr
+6	instalaci	NNFS4-----A----	ExD
+7	speciální	AAFS2----1A----	Atr
+8	protisluneční	AAFS2----1A----	Atr
+9	fólie	NNFS2-----A----	Atr
+10	Solarmax	NNIS1-----A----	Atr
+11	na	RR--4----------	AuxP
+12	oddělení	NNNS4-----A----	Atr
+13	transplantační	AAFS2----1A----	Atr
+14	jednotky	NNFS2-----A----	Atr
+15	kostní	AAFS2----1A----	Atr
+16	dřeně	NNFS2-----A----	Atr
+17	hematologického	AANS2----1A----	Atr
+18	oddělení	NNNS2-----A----	Atr
+19	II	C}-------------	Atr
+20	.	Z:-------------	AuxG
+21	dětské	AAFS2----1A----	Atr
+22	kliniky	NNFS2-----A----	Atr
+23	fakultní	AAFS2----1A----	Atr
+24	nemocnice	NNFS2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	Motole	NNIS6-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9410-030-p3s2
+1	Tato	PDFS1----------	Atr
+2	fólie	NNFS1-----A----	Sb
+3	výrazně	Dg-------1A----	Adv
+4	zlepšuje	VB-S---3P-AA---	Pred
+5	prostředí	NNNS4-----A----	Obj
+6	dětským	AAMP3----1A----	Atr
+7	pacientům	NNMP3-----A----	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9410-030-p3s3
+1	Hodnota	NNFS1-----A----	Sb
+2	odvedeného	AANS2----1A----	Atr
+3	díla	NNNS2-----A----	Atr
+4	dosáhla	VpQW---XR-AA---	Pred
+5	téměř	Db-------------	AuxZ
+6	100000	C=-------------	Atr
+7	korun	NNFP2-----A----	Obj
+8	.	Z:-------------	AuxK
+
+cmpr9410-030-p4s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Firma	NNFS1-----A----	ExD
+4	Pučálka	NNFS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	Malkovského	NNMS2-----A----	Atr
+7	584	C=-------------	Atr
+8	,	Z:-------------	AuxX
+9	190	C=-------------	Atr
+10	00	C=-------------	Atr
+11	Praha	NNFS1-----A----	Atr
+12	9	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	tel	NNIXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	+	Z:-------------	Coord
+17	FAX	NNIS1-----A----	Atr
+18	:	Z:-------------	AuxG
+19	(	Z:-------------	AuxG
+20	02	C=-------------	Atr
+21	)	Z:-------------	AuxG
+22	895292	C=-------------	Atr
+23	.	Z:-------------	AuxK
+

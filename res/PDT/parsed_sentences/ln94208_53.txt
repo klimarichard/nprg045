@@ -1,0 +1,103 @@
+ln94208-53-p1s1
+1	KDS	NNFXX-----A---8	ExD
+2	pro	RR--4----------	AuxP
+3	demonopolizaci	NNFS4-----A----	ExD
+4	telekomunikací	NNFP2-----A----	Atr
+
+ln94208-53-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln94208-53-p2s1B
+1	Těrlicko	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mot	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94208-53-p2s1C
+1	KDS	NNFXX-----A---8	Sb
+2	je	VB-S---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	předsedy	NNMS2-----A----	Atr
+5	Ivana	NNMS2-----A----	Atr
+6	Pilipa	NNMS2-----A----	Adv
+7	rozhodnuta	VsQW---XX-AP---	Pnom
+8	rázněji	Dg-------2A----	Adv
+9	vystupovat	Vf--------A----	Obj
+10	při	RR--6----------	AuxP
+11	demonopolizaci	NNFS6-----A----	Adv
+12	telekomunikací	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	usilovat	Vf--------A----	Obj
+15	o	RR--4----------	AuxP
+16	jejich	PSXXXXP3-------	Atr
+17	převedení	NNNS4-----A----	Obj
+18	pod	RR--4----------	AuxP
+19	ministerstvo	NNNS4-----A----	Atr
+20	dopravy	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94208-53-p2s2
+1	Na	RR--6----------	AuxP
+2	schůzce	NNFS6-----A----	Adv
+3	koaličních	AAFP2----1A----	Atr
+4	stran	NNFP2-----A----	Atr
+5	vznese	VB-S---3P-AA---	Pred
+6	KDS	NNFXX-----A---8	Sb
+7	požadavek	NNIS4-----A----	Obj
+8	rychlejšího	AAIS2----2A----	Atr
+9	vstupu	NNIS2-----A----	Atr
+10	soukromých	AAFP2----1A----	Atr
+11	společností	NNFP2-----A----	Atr
+12	do	RR--2----------	AuxP
+13	místních	AAFP2----1A----	Atr
+14	telefonních	AAFP2----1A----	Atr
+15	sítí	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94208-53-p2s3
+1	V	RR--6----------	AuxP
+2	obecních	AAFP6----1A----	Atr
+3	volbách	NNFP6-----A----	Adv
+4	bude	VB-S---3F-AA---	AuxV
+5	strana	NNFS1-----A----	Sb
+6	samostatně	Dg-------1A----	Adv
+7	kandidovat	Vf--------A----	Pred
+8	ve	RV--6----------	AuxP
+9	všech	PLXP6----------	Atr
+10	bývalých	AANP6----1A----	Atr
+11	krajských	AANP6----1A----	Atr
+12	městech	NNNP6-----A----	Adv
+13	a	J^-------------	Coord
+14	asi	TT-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	60	C=-------------	Atr
+17	procentech	NNNP6-----A----	Adv
+18	okresních	AANP2----1A----	Atr
+19	měst	NNNP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94208-53-p2s4
+1	Na	RR--6----------	AuxP
+2	zasedání	NNNS6-----A----	Adv
+3	republikového	AAIS2----1A----	Atr
+4	zastupitelského	AAIS2----1A----	Atr
+5	výboru	NNIS2-----A----	Atr
+6	KDS	NNFXX-----A---8	Atr
+7	v	RR--6----------	AuxP
+8	Těrlicku	NNNS6-----A----	Atr
+9	na	RR--6----------	AuxP
+10	Karvinsku	NNNS6-----A----	Atr
+11	nevyloučil	VpYS---XR-NA---	Pred
+12	Pilip	NNMS1-----A----	Sb
+13	uzavírání	NNNS4-----A----	Obj
+14	koalic	NNFP2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	menších	AANP6----2A----	Atr
+17	městech	NNNP6-----A----	Atr
+18	a	J^-------------	Coord
+19	obcích	NNFP6-----A----	Atr
+20	.	Z:-------------	AuxK
+

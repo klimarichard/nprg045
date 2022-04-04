@@ -1,0 +1,160 @@
+cmpr9416-004-p3s1
+1	|	Z:-------------	ExD
+2	Rady	NNFP1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	telefon	NNIS4-----A----	Atr
+5	|	Z:-------------	ExD
+
+cmpr9416-004-p6s1
+1	Nekázeň	NNFS1-----A----	ExD
+2	pracovníků	NNMP2-----A----	Atr
+
+cmpr9416-004-p7s1
+1	Jak	Db-------------	Adv
+2	lze	VB-S---3P-AA---	Pred
+3	postupovat	Vf--------A----	Sb
+4	proti	RR--3----------	AuxP
+5	nekázni	NNFS3-----A----	Adv
+6	pracovníků	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kterým	P4XP3----------	Obj
+9	jsem	VB-S---1P-AA---	AuxV
+10	nařídil	VpYS---XR-AA---	Atr
+11	delší	AAFS4----2A----	Atr
+12	pracovní	AAFS4----1A----	Atr
+13	dobu	NNFS4-----A----	Obj
+14	k	RR--3----------	AuxP
+15	plnění	NNNS3-----A----	Atr
+16	mimořádných	AAIP2----1A----	Atr
+17	úkolů	NNIP2-----A----	Atr
+18	a	J^-------------	Coord
+19	řada	NNFS1-----A----	Sb
+20	pracovníků	NNMP2-----A----	Atr
+21	se	P7-X4----------	AuxT
+22	na	RR--4----------	AuxP
+23	tuto	PDFS4----------	Atr
+24	směnu	NNFS4-----A----	Adv
+25	vůbec	Db-------------	AuxZ
+26	nedostavila	VpQW---XR-NA---	Atr
+27	?	Z:-------------	AuxK
+
+cmpr9416-004-p7s2
+1	Lze	VB-S---3P-AA---	Pred
+2	považovat	Vf--------A----	Sb
+3	toto	PDNS4----------	Atr
+4	porušení	NNNS4-----A----	Obj
+5	pracovní	AAFS2----1A----	Atr
+6	kázně	NNFS2-----A----	Atr
+7	jako	J,-------------	AuxY
+8	absenci	NNFS4-----A----	Atv
+9	a	J^-------------	Coord
+10	jakým	P4ZS7----------	Atr
+11	způsobem	NNIS7-----A----	Adv
+12	lze	VB-S---3P-AA---	Pred
+13	tento	PDIS4----------	Atr
+14	problém	NNIS4-----A----	Obj
+15	s	RR--7----------	AuxP
+16	pracovníky	NNMP7-----A----	Adv
+17	řešit	Vf--------A----	Sb
+18	?	Z:-------------	AuxK
+
+cmpr9416-004-p8s1
+1	P	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	H	NNMXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	,	Z:-------------	AuxX
+6	Olomouc	NNFS1-----A----	Atr
+
+cmpr9416-004-p9s1
+1	Nejdříve	Dg-------3A----	Adv
+2	je	VB-S---3P-AA---	Pred
+3	třeba	Db-------------	Pnom
+4	zjistit	Vf--------A----	Sb
+5	,	Z:-------------	AuxX
+6	zda	J,-------------	AuxC
+7	jste	VB-P---2P-AA---	AuxV
+8	nařídil	VpYS---XR-AA---	Obj
+9	delší	AAFS4----2A----	Atr
+10	pracovní	AAFS4----1A----	Atr
+11	dobu	NNFS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	tedy	Db-------------	Apos
+14	práci	NNFS4-----A----	Obj
+15	přesčas	Db-------------	Atr
+16	v	RR--6----------	AuxP
+17	souladu	NNIS6-----A----	AuxP
+18	s	RR--7----------	AuxP
+19	platným	AAIS7----1A----	Atr
+20	právním	AAIS7----1A----	Atr
+21	řádem	NNIS7-----A----	Adv
+22	.	Z:-------------	AuxK
+
+cmpr9416-004-p9s2
+1	Pokud	J,-------------	AuxC
+2	ano	TT-------------	ExD
+3	,	Z:-------------	AuxX
+4	můžete	VB-P---2P-AA---	Pred
+5	pracovníky	NNMP4-----A----	Obj
+6	postihnout	Vf--------A----	Obj
+7	buď	J^-------------	AuxY
+8	podle	RR--2----------	AuxP
+9	paragrafu	NNIS2-----A----	Adv
+10	46	C=-------------	Atr
+11	nebo	J^-------------	Coord
+12	paragrafu	NNIS2-----A----	Adv
+13	53	C=-------------	Atr
+14	zákoníku	NNIS2-----A----	Atr
+15	práce	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	a	J^-------------	AuxY
+18	to	PDNS1----------	AuxY
+19	samozřejmě	Dg-------1A----	AuxY
+20	s	RR--7----------	AuxP
+21	ohledem	NNIS7-----A----	AuxP
+22	na	RR--4----------	AuxP
+23	závažnost	NNFS4-----A----	Adv
+24	porušení	NNNS2-----A----	Atr
+25	pracovní	AAFS2----1A----	Atr
+26	kázně	NNFS2-----A----	Atr
+27	a	J^-------------	Coord
+28	splnění	NNNS2-----A----	Adv
+29	dalších	AAFP2----1A----	Atr
+30	zákonných	AAFP2----1A----	Atr
+31	podmínek	NNFP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+cmpr9416-004-p10s1
+1	JUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	PhDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Oldřich	NNMS1-----A----	Atr
+6	Choděra	NNMS1-----A----	ExD
+
+cmpr9416-004-p11s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Advokátní	AAFS1----1A----	Atr
+4	a	J^-------------	Coord
+5	komerčně	Dg-------1A----	Adv
+6	právní	AAFS1----1A----	Atr
+7	kancelář	NNFS1-----A----	ExD
+8	,	Z:-------------	AuxX
+9	Národní	AAFS1----1A----	Atr
+10	25	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	Praha	NNFS1-----A----	Atr
+13	1	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	tel	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	+	Z:-------------	Coord
+18	FAX	NNIS1-----A----	Atr
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	02	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	242	C=-------------	Atr
+24	27845	C=-------------	Atr
+

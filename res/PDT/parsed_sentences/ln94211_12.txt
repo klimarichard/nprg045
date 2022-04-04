@@ -1,0 +1,162 @@
+ln94211-12-p1s1
+1	Úspornější	AAIP1----2A----	Atr
+2	tahače	NNIP1-----A----	ExD
+3	Četransu	NNIS2-----A----	Atr
+
+ln94211-12-p2s1A
+1	Ústí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Labem	NNNS7-----A----	Atr
+4	-	Z:-------------	AuxK
+
+ln94211-12-p2s1B
+1	Modernizovat	Vf--------A----	Obj
+2	svůj	P8IS4----------	Atr
+3	vozový	AAIS4----1A----	Atr
+4	park	NNIS4-----A----	Obj
+5	začíná	VB-S---3P-AA---	Pred
+6	Četrans	NNIS1-----A----	Sb
+7	Ústí	NNNS1-----A----	Atr
+8	nad	RR--7----------	AuxP
+9	Labem	NNNS7-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94211-12-p2s2
+1	Jak	J,-------------	Adv
+2	včera	Db-------------	Adv
+3	sdělil	VpYS---XR-AA---	Pred
+4	tiskový	AAMS1----1A----	Atr
+5	mluvčí	NNMS1-----A----	Atr
+6	Antonín	NNMS1-----A----	Atr
+7	Dohnal	NNMS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	do	RR--2----------	AuxP
+10	konce	NNIS2-----A----	Adv
+11	letošního	AAIS2----1A----	Atr
+12	roku	NNIS2-----A---1	Atr
+13	hodlá	VB-S---3P-AA---	Pred
+14	nakoupit	Vf--------A----	Obj
+15	31	C=-------------	Obj
+16	tahačů	NNIP2-----A----	Atr
+17	návěsů	NNIP2-----A----	Atr
+18	od	RR--2----------	AuxP
+19	nizozemské	AAFS2----1A----	Atr
+20	firmy	NNFS2-----A----	Obj
+21	DAF	NNIXX-----A---8	Atr
+22	a	J^-------------	Coord
+23	20	C=-------------	ExD
+24	tahačů	NNIP2-----A----	Atr
+25	od	RR--2----------	AuxP
+26	rakouské	AAFS2----1A----	Atr
+27	firmy	NNFS2-----A----	ExD
+28	Stayer	NNIS1-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94211-12-p3s1
+1	Četrans	NNIS1-----A----	Sb
+2	oslovil	VpYS---XR-AA---	Pred
+3	sedm	Cn-S4----------	Obj
+4	velkých	AAMP2----1A----	Atr
+5	evropských	AAMP2----1A----	Atr
+6	výrobců	NNMP2-----A----	Atr
+7	nákladních	AAIP2----1A----	Atr
+8	automobilů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94211-12-p3s2
+1	Kromě	RR--2----------	AuxP
+2	špičkových	AAIP2----1A----	Atr
+3	výrobků	NNIP2-----A----	Adv
+4	od	RR--2----------	AuxP
+5	nich	P5XP2--3-------	Obj
+6	žádal	VpYS---XR-AA---	Pred
+7	spoluúčast	NNFS4-----A----	Obj
+8	při	RR--6----------	AuxP
+9	zprostředkování	NNNS6-----A----	Atr
+10	zahraničního	AAIS2----1A----	Atr
+11	úvěru	NNIS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	protože	J,-------------	AuxC
+14	úroky	NNIP1-----A----	Sb
+15	v	RR--6----------	AuxP
+16	českých	AAIP6----1A----	Atr
+17	peněžních	AAIP6----1A----	Atr
+18	ústavech	NNIP6-----A----	Atr
+19	jsou	VB-P---3P-AA---	Adv
+20	nevýhodné	AAIP1----1N----	Pnom
+21	.	Z:-------------	AuxK
+
+ln94211-12-p3s3
+1	Nakonec	Db-------------	Adv
+2	získal	VpYS---XR-AA---	Pred
+3	v	RR--6----------	AuxP
+4	zahraničí	NNNS6-----A----	Adv
+5	úvěr	NNIS4-----A----	Obj
+6	ve	RV--6----------	AuxP
+7	výši	NNFS6-----A----	Atr
+8	96	C=-------------	Atr
+9	milionů	NNIP2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	zbývajících	AGFP2-----A----	Atr
+13	17	C=-------------	Obj
+14	milionů	NNIP2-----A----	Atr
+15	korun	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4YP4----------	Obj
+18	potřebuje	VB-S---3P-AA---	Atr
+19	k	RR--3----------	AuxP
+20	uzavření	NNNS3-----A----	Adv
+21	kontraktu	NNIS2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	zaplatí	VB-S---3P-AA---	Pred
+24	v	RR--6----------	AuxP
+25	hotovosti	NNFS6-----A----	Adv
+26	.	Z:-------------	AuxK
+
+ln94211-12-p3s4
+1	Automobilky	NNFP1-----A----	Sb
+2	DAF	NNIXX-----A---8	Atr
+3	a	J^-------------	Coord
+4	Stayer	NNIS1-----A----	Atr
+5	umožnily	VpTP---XR-AA---	Pred
+6	firmě	NNFS3-----A----	Obj
+7	Četrans	NNIS1-----A----	Atr
+8	zajištění	NNNS4-----A----	Obj
+9	servisu	NNIS2-----A----	Atr
+10	vozů	NNIP2-----A----	Atr
+11	podle	RR--2----------	AuxP
+12	svých	P8XP2----------	Atr
+13	zvyklostí	NNFP2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94211-12-p3s5
+1	Všechny	PLIP1----------	Atr
+2	nakoupené	AAIP1----1A----	Atr
+3	automobily	NNIP1-----A----	Sb
+4	budou	VB-P---3F-AA---	AuxV
+5	splňovat	Vf--------A----	Pred
+6	přísné	AAFP4----1A----	Atr
+7	normy	NNFP4-----A----	Obj
+8	Evropské	AAFS2----1A----	Atr
+9	unie	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94211-12-p3s6
+1	Budou	VB-P---3F-AA---	AuxV
+2	vybaveny	VsTP---XX-AP---	Pred
+3	i	J^-------------	AuxZ
+4	omezovači	NNIP7-----A----	Obj
+5	rychlosti	NNFS2-----A----	Atr
+6	jízdy	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4IP1----------	Sb
+9	nedovolí	VB-P---3P-NA---	Atr
+10	překročit	Vf--------A----	Obj
+11	rychlost	NNFS4-----A----	Obj
+12	90	C=-------------	Atr
+13	kilometrů	NNIP2-----A----	Atr
+14	za	RR--4----------	AuxP
+15	hodinu	NNFS4-----A----	Atr
+16	.	Z:-------------	AuxK
+

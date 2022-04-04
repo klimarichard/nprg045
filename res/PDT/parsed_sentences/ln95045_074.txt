@@ -1,0 +1,340 @@
+ln95045-074-p1s1
+1	Rozpory	NNIP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	obvinění	NNNS6-----A----	Atr
+4	Tomáše	NNMS2-----A----	Atr
+5	Vodičky	NNMS2-----A----	Atr
+6	trvají	VB-P---3P-AA---	Pred
+
+ln95045-074-p2s1A
+1	Soudní	AAFS1----1A----	Atr
+2	síň	NNFS1-----A----	ExD
+
+ln95045-074-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-074-p2s1C
+1	Městský	AAIS1----1A----	Atr
+2	soud	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Atr
+5	projednával	VpYS---XR-AA---	Pred
+6	včera	Db-------------	Adv
+7	obnovené	AANS4----1A----	Atr
+8	řízení	NNNS4-----A----	Obj
+9	v	RR--6----------	AuxP
+10	kauze	NNFS6-----A----	Atr
+11	Tomáše	NNMS2-----A----	Atr
+12	Vodičky	NNMS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	je	VB-S---3P-AA---	AuxV
+16	obžalován	VsYS---XX-AP---	Atr
+17	z	RR--2----------	AuxP
+18	dvojnásobného	AANS2----1A----	Atr
+19	loupežného	AANS2----1A----	Atr
+20	přepadení	NNNS2-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln95045-074-p3s1
+1	Vodička	NNMS1-----A----	Sb
+2	měl	VpYS---XR-AA---	Pred
+3	v	RR--6----------	AuxP
+4	prosinci	NNIS6-----A----	Adv
+5	1992	C=-------------	Atr
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Adv
+8	4	C=-------------	Atr
+9	přepadnout	Vf--------A----	Obj
+10	společně	Dg-------1A----	AuxP
+11	s	RR--7----------	AuxP
+12	neznámým	AAMS7----1N----	Atr
+13	spolupachatelem	NNMS7-----A----	Adv
+14	jednu	ClFS4----------	Atr
+15	listonošku	NNFS4-----A----	Obj
+16	a	J^-------------	Coord
+17	v	RR--6----------	AuxP
+18	únoru	NNIS6-----A----	ExD
+19	1993	C=-------------	Atr
+20	sám	PLYS1----------	ExD
+21	druhou	CrFS4----------	ExD
+22	.	Z:-------------	AuxK
+
+ln95045-074-p3s2
+1	Ztráta	NNFS1-----A----	Sb
+2	pošty	NNFS2-----A----	Atr
+3	činila	VpQW---XR-AA---	Pred
+4	celkem	Db-------------	Adv
+5	na	RR--4----------	AuxP
+6	sto	NNNS4-----A----	Obj
+7	padesát	Cn-S4----------	Atr
+8	tisíc	ClXS2----------	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95045-074-p3s3
+1	Vodičku	NNMS4-----A----	Obj
+2	tento	PDYS1----------	Atr
+3	soud	NNIS1-----A----	Sb
+4	již	Db-------------	AuxZ
+5	loni	Db------------1	Adv
+6	odsoudil	VpYS---XR-AA---	Pred
+7	na	RR--4----------	AuxP
+8	sedm	Cn-S4----------	Adv
+9	let	NNNP2-----A----	Atr
+10	odnětí	NNNS2-----A----	Atr
+11	svobody	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	odvolací	AAFS1----1A----	Atr
+15	instance	NNFS1-----A----	Sb
+16	rozsudek	NNIS4-----A----	Obj
+17	zrušila	VpQW---XR-AA---	Pred
+18	pro	RR--4----------	AuxP
+19	nesrovnalosti	NNFP4-----A----	Adv
+20	v	RR--6----------	AuxP
+21	průběhu	NNIS6-----A----	AuxP
+22	vyšetřování	NNNS2-----A----	Atr
+23	a	J^-------------	Coord
+24	vrátila	VpQW---XR-AA---	Pred
+25	věc	NNFS4-----A----	Obj
+26	k	RR--3----------	AuxP
+27	došetření	NNNS3-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln95045-074-p4s1
+1	Při	RR--6----------	AuxP
+2	včerejším	AANS6----1A----	Atr
+3	líčení	NNNS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	potvrdilo	VpNS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	jedna	ClFS1----------	Sb
+9	z	RR--2----------	AuxP
+10	doručovatelek	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	která	P4FS1----------	Sb
+13	jako	J,-------------	AuxY
+14	jediná	AAFS1----1A----	Atv
+15	Vodičku	NNMS4-----A----	Obj
+16	identifikovala	VpQW---XR-AA---	Atr
+17	,	Z:-------------	AuxX
+18	se	P7-X4----------	AuxT
+19	mýlila	VpQW---XR-AA---	Sb
+20	v	RR--6----------	AuxP
+21	popise	NNIS6-----A----	Adv
+22	jeho	PSXXXZS3-------	Atr
+23	bundy	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95045-074-p4s2
+1	Soud	NNIS1-----A----	Sb
+2	totiž	Db-------------	AuxY
+3	včera	Db-------------	Adv
+4	dostal	VpYS---XR-AA---	Pred
+5	k	RR--3----------	AuxP
+6	dispozici	NNFS3-----A----	Adv
+7	bundu	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	v	RR--6----------	AuxP
+10	které	P4FS6----------	Adv
+11	byl	VpYS---XR-AA---	AuxV
+12	obžalovaný	AAMS1----1A----	Sb
+13	zatčen	VsYS---XX-AP---	Atr
+14	.	Z:-------------	AuxK
+
+ln95045-074-p4s3
+1	Bundu	NNFS4-----A----	Obj
+2	pachatele	NNMS2-----A----	Atr
+3	však	J^-------------	Coord
+4	přepadená	AAFS1----1A----	Sb
+5	popsala	VpQW---XR-AA---	Pred
+6	odlišně	Dg-------1A----	Adv
+7	,	Z:-------------	Apos
+8	s	RR--7----------	AuxP
+9	jiným	AAIS7----1A----	Atr
+10	límcem	NNIS7-----A----	Adv
+11	a	J^-------------	Coord
+12	s	RR--7----------	AuxP
+13	označením	NNNS7-----A----	Adv
+14	na	RR--6----------	AuxP
+15	zádech	NNNP6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95045-074-p4s4
+1	Soud	NNIS1-----A----	Sb
+2	vyslechl	VpYS---XR-AA--1	Pred
+3	i	J^-------------	AuxZ
+4	dva	ClYP4----------	Atr
+5	policisty	NNMP4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+ln95045-074-p4s5
+1	Psovod	NNMS1-----A----	Sb
+2	uvedl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	stopu	NNFS4-----A----	Obj
+6	pachatele	NNMS2-----A----	Atr
+7	ztratil	VpYS---XR-AA---	Obj
+8	a	J^-------------	Coord
+9	potom	Db-------------	Adv
+10	vyhledal	VpYS---XR-AA---	Obj
+11	jinou	AAFS4----1A----	ExD
+12	.	Z:-------------	AuxK
+
+ln95045-074-p4s6
+1	Jiní	AAMP1----1A----	Atr
+2	policisté	NNMP1-----A----	Sb
+3	zadrželi	VpMP---XR-AA---	Pred
+4	obžalovaného	AAMS4----1A----	Obj
+5	podle	RR--2----------	AuxP
+6	popisu	NNIS2-----A----	Adv
+7	na	RR--6----------	AuxP
+8	stanici	NNFS6-----A----	Adv
+9	autobusu	NNIS2-----A----	Atr
+10	a	J^-------------	Coord
+11	psovod	NNMS1-----A----	Sb
+12	se	P7-X4----------	AuxT
+13	ho	PHZS4--3-------	Obj
+14	ani	J^-------------	AuxZ
+15	nepokusil	VpYS---XR-NA---	Pred
+16	se	RV--7----------	AuxP
+17	psem	NNMS7-----A----	Adv
+18	identifikovat	Vf--------A----	Obj
+19	,	Z:-------------	AuxX
+20	protože	J,-------------	AuxC
+21	"	Z:-------------	AuxG
+22	k	RR--3----------	AuxP
+23	tomu	PDZS3----------	Adv
+24	nebyly	VpTP---XR-NA---	Adv
+25	podmínky	NNFP1-----A----	Sb
+26	"	Z:-------------	AuxG
+27	.	Z:-------------	AuxK
+
+ln95045-074-p4s7
+1	Druhý	CrMS1----------	Atr
+2	policista	NNMS1-----A----	Sb
+3	podrobně	Dg-------1A----	Adv
+4	popsal	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	jak	Db-------------	Adv
+7	policie	NNFS1-----A----	Sb
+8	postupuje	VB-S---3P-AA---	Obj
+9	při	RR--6----------	AuxP
+10	identifikaci	NNFS6-----A----	Adv
+11	pachových	AAFP2----1A----	Atr
+12	stop	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95045-074-p4s8
+1	Touto	PDFS7----------	Atr
+2	metodou	NNFS7-----A----	Adv
+3	policejní	AAMP1----1A----	Atr
+4	psi	NNMP1-----A----	Sb
+5	určili	VpMP---XR-AA---	Pred
+6	ve	RV--6----------	AuxP
+7	dvou	ClXP6----------	Atr
+8	případech	NNIP6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	pachy	NNIP1-----A----	Sb
+12	pocházející	AGIP1-----A----	Atr
+13	z	RR--2----------	AuxP
+14	místa	NNNS2-----A----	Adv
+15	dvou	ClXP2----------	Atr
+16	loupeží	NNFP2-----A----	Atr
+17	patřily	VpTP---XR-AA---	Obj
+18	obžalovanému	AAMS3----1A----	Obj
+19	.	Z:-------------	AuxK
+
+ln95045-074-p4s9
+1	Soud	NNIS1-----A----	Sb
+2	prvního	CrIS2----------	Atr
+3	stupně	NNIS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	opíral	VpYS---XR-AA---	Pred
+6	o	RR--4----------	AuxP
+7	tyto	PDFP4----------	Atr
+8	pachové	AAFP4----1A----	Atr
+9	zkoušky	NNFP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	když	J,-------------	AuxC
+12	Vodičku	NNMS4-----A----	Obj
+13	odsoudil	VpYS---XR-AA---	Adv
+14	.	Z:-------------	AuxK
+
+ln95045-074-p5s1
+1	Senát	NNIS1-----A----	Sb
+2	minulý	AAIS4----1A----	Atr
+3	týden	NNIS4-----A----	Adv
+4	vyslechl	VpYS---XR-AA--1	Pred
+5	jednoho	ClMS4----------	Obj
+6	z	RR--2----------	AuxP
+7	nejdůležitějších	AAMP2----3A----	Atr
+8	svědků	NNMP2-----A----	Atr
+9	únorového	AANS2----1A----	Atr
+10	přepadení	NNNS2-----A----	Atr
+11	-	Z:-------------	Apos
+12	cyklistu	NNMS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	jel	VpYS---XR-AA---	Atr
+16	náhodou	Db-------------	Adv
+17	kolem	RR--2----------	AuxP
+18	místa	NNNS2-----A----	Adv
+19	činu	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-074-p5s2
+1	Ten	PDYS1----------	Sb
+2	spatřil	VpYS---XR-AA---	Pred
+3	"	Z:-------------	AuxG
+4	na	RR--4----------	AuxP
+5	setinu	CyFS4----------	Adv
+6	vteřiny	NNFS2-----A----	Atr
+7	"	Z:-------------	AuxG
+8	pachatele	NNMS4-----A----	Obj
+9	loupeže	NNFS2-----A----	Atr
+10	utíkat	Vf--------A----	Atv
+11	z	RR--2----------	AuxP
+12	místa	NNNS2-----A----	Adv
+13	činu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95045-074-p5s3
+1	Později	Dg-------2A----	Adv
+2	ho	PHZS4--3-------	Obj
+3	zahlédl	VpYS---XR-AA--1	Pred
+4	na	RR--6----------	AuxP
+5	jiném	AANS6----1A----	Atr
+6	místě	NNNS6-----A----	Adv
+7	a	J^-------------	Coord
+8	upozornil	VpYS---XR-AA---	Pred
+9	na	RR--4----------	AuxP
+10	něj	P5ZS4--3-------	Obj
+11	policii	NNFS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln95045-074-p5s4
+1	Tento	PDYS1----------	Atr
+2	svědek	NNMS1-----A----	Sb
+3	původně	Dg-------1A----	Adv
+4	na	RR--4----------	AuxP
+5	dálku	NNFS4-----A----	Adv
+6	potvrdil	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	Vodička	NNMS1-----A----	Sb
+10	je	VB-S---3P-AA---	Obj
+11	pachatel	NNMS1-----A----	Pnom
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	nyní	Db-------------	Adv
+15	si	P7-X3----------	AuxT
+16	nebyl	VpYS---XR-NA---	Pred
+17	jist	ACYS------A----	Pnom
+18	.	Z:-------------	AuxK
+

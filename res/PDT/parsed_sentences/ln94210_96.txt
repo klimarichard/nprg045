@@ -1,0 +1,536 @@
+ln94210-96-p1s1
+1	Nevyvratitelný	AAIS1----1N----	Atr
+2	stav	NNIS1-----A----	ExD
+3	ducha	NNMS2-----A----	Atr
+
+ln94210-96-p2s1A
+1	Recenze	NNFS1-----A----	ExD
+
+ln94210-96-p2s1B
+1	VÝSTAVY	NNFP1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Jméno	NNNS1-----A----	Sb
+4	ČESTMÍRA	NNMS2-----A----	Atr
+5	KAFKY	NNMS2-----A----	Atr
+6	(	Z:-------------	AuxG
+7	1922	C=-------------	ExD
+8	-	Z:-------------	Coord
+9	1988	C=-------------	ExD
+10	)	Z:-------------	AuxG
+11	patří	VB-S---3P-AA---	Pred
+12	k	RR--3----------	AuxP
+13	nejvýznamnějším	AANP3----3A----	Obj
+14	v	RR--6----------	AuxP
+15	českém	AANS6----1A----	Atr
+16	moderním	AANS6----1A----	Atr
+17	umění	NNNS6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94210-96-p2s2
+1	V	RR--6----------	AuxP
+2	sedmdesátých	CrNP6----------	Atr
+3	a	J^-------------	Coord
+4	osmdesátých	CrNP6----------	Atr
+5	letech	NNNP6-----A----	Adv
+6	však	J^-------------	Coord
+7	v	RR--6----------	AuxP
+8	Praze	NNFS6-----A----	Adv
+9	téměř	Db-------------	AuxZ
+10	nevystavoval	VpYS---XR-NA---	Pred
+11	,	Z:-------------	Coord
+12	jeho	PSXXXZS3-------	Atr
+13	dílčí	AAFP1----1A----	Atr
+14	výstavy	NNFP1-----A----	Sb
+15	se	P7-X4----------	AuxT
+16	konaly	VpTP---XR-AA---	Pred
+17	spíš	Dg-------2A----	Adv
+18	mimo	RR--4----------	AuxP
+19	centrum	NNNS4-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94210-96-p2s3
+1	Kafkovu	AUFS4M---------	Atr
+2	první	CrFS4----------	Atr
+3	velkou	AAFS4----1A----	Atr
+4	retrospektivní	AAFS4----1A----	Atr
+5	přehlídku	NNFS4-----A----	Obj
+6	otevřela	VpQW---XR-AA---	Pred
+7	minulý	AAIS4----1A----	Atr
+8	týden	NNIS4-----A----	Adv
+9	Národní	AAFS1----1A----	Atr
+10	galerie	NNFS1-----A----	Sb
+11	ve	RV--6----------	AuxP
+12	Valdštejnské	AAFS6----1A----	Atr
+13	jízdárně	NNFS6-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Praze	NNFS6-----A----	AtrAdv
+16	.	Z:-------------	AuxK
+
+ln94210-96-p3s1
+1	Čestmír	NNMS1-----A----	Atr
+2	Kafka	NNMS1-----A----	Sb
+3	byl	VpYS---XR-AA---	Pred
+4	umělec	NNMS1-----A----	Pnom
+5	renesančního	AAIS2----1A----	Atr
+6	typu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94210-96-p3s2
+1	Vzdělaný	AAMS1----1A----	ExD
+2	,	Z:-------------	AuxX
+3	inteligentní	AAMS1----1A----	ExD
+4	,	Z:-------------	AuxX
+5	otevřený	AAMS1----1A----	ExD
+6	a	J^-------------	Coord
+7	zvědavý	AAMS1----1A----	ExD
+8	.	Z:-------------	AuxK
+
+ln94210-96-p3s3
+1	Zároveň	Db-------------	ExD
+2	tvůrce	NNMS1-----A----	ExD
+3	zodpovědný	AAMS1----1A----	Atr
+4	:	Z:-------------	Coord
+5	Stáhnout	Vf--------A----	Pred
+6	k	RR--3----------	AuxP
+7	zemi	NNFS3-----A----	Adv
+8	všechny	PLFP4----------	Atr
+9	'	Z:-------------	AuxG
+10	velké	AAFP4----1A----	Atr
+11	teorie	NNFP4-----A----	Obj
+12	'	Z:-------------	AuxG
+13	a	J^-------------	Coord
+14	'	Z:-------------	AuxG
+15	vznešené	AAIP4----1A----	Atr
+16	záměry	NNIP4-----A----	Obj
+17	'	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+ln94210-96-p3s4
+1	Položit	Vf--------A----	Pred
+2	samozřejmé	AANS4----1A----	Obj
+3	a	J^-------------	Coord
+4	každodenní	AANS4----1A----	Obj
+5	do	RR--2----------	AuxP
+6	ohniska	NNNS2-----A----	Adv
+7	života	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94210-96-p3s5
+1	Ve	RV--6----------	AuxP
+2	válečných	AANP6----1A----	Atr
+3	letech	NNNP6-----A----	Adv
+4	studoval	VpYS---XR-AA---	Pred
+5	na	RR--6----------	AuxP
+6	zlínské	AAFS6----1A----	Atr
+7	Škole	NNFS6-----A----	Adv
+8	umění	NNNS2-----A----	Obj
+9	a	J^-------------	Coord
+10	rok	NNIS4-----A----	Adv
+11	byl	VpYS---XR-AA---	Pred
+12	totálně	Dg-------1A----	Adv
+13	nasazen	VsYS---XX-AP---	Pnom
+14	.	Z:-------------	AuxK
+
+ln94210-96-p3s6
+1	Po	RR--6----------	AuxP
+2	válce	NNFS6-----A----	Adv
+3	odešel	VpYS---XR-AA---	Pred
+4	do	RR--2----------	AuxP
+5	Prahy	NNFS2-----A----	Adv
+6	a	J^-------------	Coord
+7	stal	VpYS---XR-AA---	Pred
+8	se	P7-X4----------	AuxT
+9	žákem	NNMS7-----A----	Obj
+10	Emila	NNMS2-----A----	Atr
+11	Filly	NNMS2-----A----	Atr
+12	na	RR--6----------	AuxP
+13	Vysoké	AAFS6----1A----	Atr
+14	škole	NNFS6-----A----	AtrAdv
+15	uměleckoprůmyslové	AAFS6----1A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94210-96-p3s7
+1	Tam	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	setkal	VpYS---XR-AA---	Pred
+4	s	RR--7----------	AuxP
+5	vrstevníky	NNMP7-----A----	Obj
+6	,	Z:-------------	AuxX
+7	se	RV--7----------	AuxP
+8	kterými	P4XP7----------	Adv
+9	v	RR--6----------	AuxP
+10	roce	NNIS6-----A---1	Adv
+11	1954	C=-------------	Atr
+12	založil	VpYS---XR-AA---	Atr
+13	skupinu	NNFS4-----A----	Obj
+14	Trasa	NNFS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94210-96-p3s8
+1	Trasa	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	spjata	ACQW------A----	Pnom
+4	již	Db-------------	AuxZ
+5	s	RR--7----------	AuxP
+6	Kafkovou	AUFS7M---------	Atr
+7	malířskou	AAFS7----1A----	Atr
+8	tvorbou	NNFS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	jeho	PSXXXZS3-------	Atr
+11	počátky	NNIP1-----A----	Sb
+12	však	J^-------------	Coord
+13	patřily	VpTP---XR-AA---	Pred
+14	kresbě	NNFS3-----A----	Obj
+15	a	J^-------------	Coord
+16	grafice	NNFS3-----A----	Obj
+17	ovlivněné	AAFS3----1A----	Atr
+18	surrealismem	NNIS7-----A---1	Obj
+19	.	Z:-------------	AuxK
+
+ln94210-96-p3s9
+1	Tyto	PDFP1----------	Atr
+2	kresby	NNFP1-----A----	Sb
+3	ze	RV--2----------	AuxP
+4	čtyřicátých	CrNP2----------	Atr
+5	let	NNNP2-----A----	Atr
+6	tvoří	VB-P---3P-AA---	Pred
+7	první	CrFS4----------	Atr
+8	část	NNFS4-----A----	Obj
+9	retrospektivní	AAFS2----1A----	Atr
+10	výstavy	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94210-96-p4s1
+1	Chronologické	AANS1----1A----	Atr
+2	uspořádání	NNNS1-----A----	Sb
+3	expozice	NNFS2-----A----	Atr
+4	vyhovuje	VB-S---3P-AA---	Pred
+5	Kafkovu	AUIS3M---------	Atr
+6	tvůrčímu	AAIS3----1A----	Atr
+7	typu	NNIS3-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94210-96-p4s2
+1	Člověk	NNMS1-----A----	Pnom
+2	moderní	AAFS2----1A----	Atr
+3	doby	NNFS2-----A----	Atr
+4	uvědomující	AGMS1-----A----	Atr
+5	si	P7-X3----------	AuxT
+6	její	PSFSXFS3-------	Atr
+7	krizi	NNFS4-----A----	Obj
+8	i	J^-------------	Coord
+9	ošidnost	NNFS4-----A----	Obj
+10	jejích	PSXP2FS3-------	Atr
+11	mýtů	NNIP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	člověk	NNMS1-----A----	Pnom
+14	rozpoznávající	AGMS1-----A----	Atr
+15	jedinou	AAFS4----1A----	Atr
+16	schůdnou	AAFS4----1A----	Atr
+17	cestu	NNFS4-----A----	Obj
+18	životní	AAFS4----1A----	Atr
+19	i	J^-------------	Coord
+20	uměleckou	AAFS4----1A----	Atr
+21	,	Z:-------------	Apos
+22	takové	PDNS1----------	Pnom
+23	je	VB-S---3P-AA---	Pred
+24	Kafkovo	AUNS1M---------	Atr
+25	ustrojení	NNNS1-----A----	Sb
+26	:	Z:-------------	Coord
+27	naučit	Vf--------A----	Pred
+28	se	P7-X4----------	AuxT
+29	zabloudit	Vf--------A----	Obj
+30	sám	PLYS1----------	AtvV
+31	v	RR--6----------	AuxP
+32	sobě	P6-X6----------	Adv
+33	,	Z:-------------	AuxX
+34	setkat	Vf--------A----	Pred
+35	se	P7-X4----------	AuxT
+36	tam	Db-------------	Adv
+37	a	J^-------------	Coord
+38	vynést	Vf--------A----	Pred
+39	na	RR--4----------	AuxP
+40	světlo	NNNS4-----A----	Adv
+41	vlastní	AAIS4----1A----	Atr
+42	osobní	AAIS4----1A----	Atr
+43	mýtus	NNIS4-----A----	Obj
+44	a	J^-------------	Coord
+45	jím	PPZS7--3-------	Adv
+46	sdělit	Vf--------A----	Pred
+47	poselství	NNNS4-----A----	Obj
+48	,	Z:-------------	AuxX
+49	v	RR--6----------	AuxP
+50	naději	NNFS6-----A----	Adv
+51	,	Z:-------------	AuxX
+52	že	J,-------------	AuxC
+53	i	J^-------------	AuxY
+54	když	J,-------------	AuxC
+55	nebude	VB-S---3F-NA---	AuxV
+56	sdíleno	VsNS---XX-AP---	Adv
+57	všemi	PLXP7----------	Obj
+58	,	Z:-------------	AuxX
+59	bude	VB-S---3F-AA---	Atr
+60	schopno	ACNS------A----	Pnom
+61	oslovit	Vf--------A----	Obj
+62	alespoň	Db-------------	AuxZ
+63	některé	PZYP4----------	Obj
+64	.	Z:-------------	AuxK
+
+ln94210-96-p4s3
+1	Expozice	NNFS1-----A----	Sb
+2	vede	VB-S---3P-AA---	Pred
+3	diváka	NNMS4-----A----	Obj
+4	umělcovým	AUIS7M---------	Atr
+5	vnitřním	AAIS7----1A----	Atr
+6	labyrintem	NNIS7-----A----	Adv
+7	;	Z:-------------	AuxK
+
+ln94210-96-p4s4
+1	dokládá	VB-S---3P-AA---	Pred
+2	jeho	PSXXXZS3-------	Atr
+3	uvažování	NNNS4-----A----	Obj
+4	o	RR--6----------	AuxP
+5	tvorbě	NNFS6-----A----	Atr
+6	,	Z:-------------	AuxX
+7	jeho	PSXXXZS3-------	Atr
+8	přístup	NNIS4-----A----	Obj
+9	k	RR--3----------	AuxP
+10	materiálům	NNIP3-----A----	Atr
+11	(	Z:-------------	Apos
+12	pokušení	NNNS4-----A----	Obj
+13	hmotou	NNFS7-----A----	Atr
+14	)	Z:-------------	AuxG
+15	,	Z:-------------	Coord
+16	nadhled	NNIS4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	s	RR--7----------	AuxP
+19	nímž	P9ZS7----------	Adv
+20	je	PPXP4--3-------	Obj
+21	výtvarně	Dg-------1A----	Adv
+22	zpracovával	VpYS---XR-AA---	Atr
+23	.	Z:-------------	AuxK
+
+ln94210-96-p4s5
+1	Kafka	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	vždy	Db-------------	Adv
+4	snažil	VpYS---XR-AA---	Pred
+5	o	RR--4----------	AuxP
+6	co	Db-------------	Adv
+7	nejpregnantnější	AANS4----3A----	Atr
+8	vyjádření	NNNS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94210-96-p4s6
+1	Nejde	VB-S---3P-NA---	Pred
+2	o	RR--4----------	AuxP
+3	brilantní	AAFS4----1A----	Atr
+4	formu	NNFS4-----A----	Obj
+5	estétství	NNNS2-----A----	Atr
+6	,	Z:-------------	Coord
+7	byl	VpYS---XR-AA---	Pred
+8	příliš	Db-------------	Adv
+9	zodpovědný	AAMS1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	než	J,-------------	AuxC
+12	aby	J,-------------	AuxC
+13	spekuloval	VpYS---XR-AA---	Adv
+14	.	Z:-------------	AuxK
+
+ln94210-96-p4s7
+1	Na	RR--6----------	AuxP
+2	druhé	CrFS6----------	Atr
+3	straně	NNFS6-----A----	Adv
+4	však	J^-------------	Coord
+5	jeho	PSXXXZS3-------	Atr
+6	naturelu	NNIS3-----A----	Obj
+7	odpovídá	VB-S---3P-AA---	Pred
+8	samozřejmá	AAFS1----1A----	Atr
+9	výtvarná	AAFS1----1A----	Atr
+10	kultivovanost	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94210-96-p4s8
+1	Vidíme	VB-P---1P-AA---	Pred
+2	ji	PPFS4--3-------	Obj
+3	na	RR--6----------	AuxP
+4	obrazech	NNIP6-----A----	Adv
+5	měst	NNNP2-----A----	Atr
+6	z	RR--2----------	AuxP
+7	padesátých	CrNP2----------	Atr
+8	let	NNNP2-----A----	Atr
+9	i	J^-------------	Coord
+10	na	RR--6----------	AuxP
+11	šedých	AAIP6----1A----	Atr
+12	a	J^-------------	Coord
+13	černých	AAIP6----1A----	Atr
+14	obrazech	NNIP6-----A----	Adv
+15	z	RR--2----------	AuxP
+16	let	NNNP2-----A----	Atr
+17	šedesátých	CrNP2----------	Atr
+18	,	Z:-------------	AuxX
+19	postupem	NNIS7-----A----	AuxP
+20	doby	NNFS2-----A----	Adv
+21	stále	Db-------------	Adv
+22	abstraktnějších	AAIP2----2A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94210-96-p4s9
+1	Ani	J^-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	době	NNFS6-----A----	Adv
+4	informelu	NNIS2-----A----	Atr
+5	Kafka	NNMS1-----A----	Sb
+6	nepodléhá	VB-S---3P-NA---	Pred
+7	svodům	NNIP3-----A----	Obj
+8	formální	AAFS2----1A----	Atr
+9	hry	NNFS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	v	RR--6----------	AuxP
+12	jeho	PSXXXZS3-------	Atr
+13	tvůrčím	AAIS6----1A----	Atr
+14	postupu	NNIS6-----A----	Adv
+15	má	VB-S---3P-AA---	Pred
+16	důležitou	AAFS4----1A----	Atr
+17	roli	NNFS4-----A----	Obj
+18	racionalita	NNFS1-----A----	Sb
+19	a	J^-------------	Coord
+20	jistý	AAIS1----1A----	Atr
+21	perfekcionismus	NNIS1-----A---1	Sb
+22	.	Z:-------------	AuxK
+
+ln94210-96-p4s10
+1	Následují	VB-P---3P-AA---	Pred
+2	cykly	NNIP1-----A----	Sb
+3	bílých	AAIP2----1A----	Atr
+4	obrazů	NNIP2-----A----	Atr
+5	;	Z:-------------	AuxK
+
+ln94210-96-p4s11
+1	v	RR--6----------	AuxP
+2	nich	P5XP6--3-------	Adv
+3	má	VB-S---3P-AA---	Pred
+4	velký	AAIS4----1A----	Atr
+5	význam	NNIS4-----A----	Obj
+6	grafický	AAIS1----1A----	Atr
+7	znak	NNIS1-----A----	Sb
+8	i	J^-------------	Coord
+9	nelyričnost	NNFS1-----N----	Sb
+10	daná	AAFS1----1A----	Atr
+11	minimem	NNNS7-----A----	Adv
+12	použitých	AAFP2----1A----	Atr
+13	barev	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94210-96-p4s12
+1	O	RR--6----------	AuxP
+2	Kafkově	AUIS6M---------	Atr
+3	vztahu	NNIS6-----A----	Obj
+4	k	RR--3----------	AuxP
+5	hmotě	NNFS3-----A----	Atr
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	jej	PPZS4--3------2	Obj
+9	pokouší	VB-S---3P-AA---	Atr
+10	v	RR--6----------	AuxP
+11	každodenním	AAIS6----1A----	Atr
+12	životě	NNIS6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	hovoří	VB-P---3P-AA---	Pred
+15	spojovačky	NNFP1-----A----	Sb
+16	z	RR--2----------	AuxP
+17	různých	AAIP2----1A----	Atr
+18	materiálů	NNIP2-----A----	Atr
+19	či	J^-------------	Coord
+20	cyklus	NNIS1-----A----	Sb
+21	Hmoty	NNFP1-----A----	Atr
+22	(	Z:-------------	Apos
+23	asambláže	NNFP1-----A----	Atr
+24	ze	RV--2----------	AuxP
+25	sena	NNNS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	trávy	NNFS2-----A----	Atr
+28	,	Z:-------------	Coord
+29	popele	NNIS2-----A----	Atr
+30	na	RR--6----------	AuxP
+31	skládané	AAFS6----1A----	Atr
+32	vatě	NNFS6-----A----	Atr
+33	)	Z:-------------	AuxG
+34	.	Z:-------------	AuxK
+
+ln94210-96-p5s1
+1	Čestmír	NNMS1-----A----	Atr
+2	Kafka	NNMS1-----A----	Sb
+3	zemřel	VpYS---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	roce	NNIS6-----A---1	Adv
+6	1988	C=-------------	Atr
+7	-	Z:-------------	AuxG
+8	ještě	Db-------------	AuxZ
+9	v	RR--6----------	AuxP
+10	letech	NNNP6-----A----	Adv
+11	beznadějných	AANP6----1A----	Atr
+12	,	Z:-------------	AuxX
+13	po	RR--6----------	AuxP
+14	zkušenosti	NNFS6-----A----	Adv
+15	osamělého	AAMS2----1A----	Atr
+16	běžce	NNMS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94210-96-p5s2
+1	Jeho	PSXXXZS3-------	Atr
+2	retrospektiva	NNFS1-----A----	Sb
+3	přináší	VB-S---3P-AA---	Pred
+4	důkaz	NNIS4-----A----	Obj
+5	o	RR--6----------	AuxP
+6	silném	AAMS6----1A----	Atr
+7	tvůrčím	AAMS6----1A----	Atr
+8	duchu	NNMS6-----A---1	Atr
+9	.	Z:-------------	AuxK
+
+ln94210-96-p5s3A
+1	Lenka	NNFS1-----A----	Atr
+2	Lindaurová	NNFS1-----A----	ExD
+
+ln94210-96-p5s3B
+1	Čestmír	NNMS1-----A----	Atr
+2	Kafka	NNMS1-----A----	ExD
+3	.	Z:-------------	AuxK
+
+ln94210-96-p5s4
+1	Obrazy	NNIP1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	kresby	NNFP1-----A----	ExD
+4	,	Z:-------------	AuxX
+5	koláže	NNFP1-----A----	ExD
+6	,	Z:-------------	Coord
+7	asambláže	NNFP1-----A----	ExD
+8	1943	C=-------------	ExD
+9	-	Z:-------------	Coord
+10	1988	C=-------------	ExD
+11	.	Z:-------------	AuxK
+
+ln94210-96-p5s5
+1	Kurátor	NNMS1-----A----	Atr
+2	Karel	NNMS1-----A----	Atr
+3	Miler	NNMS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+ln94210-96-p5s6
+1	Národní	AAFS1----1A----	Atr
+2	galerie	NNFS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	Valdštejnská	AAFS1----1A----	Atr
+5	jízdárna	NNFS1-----A----	ExD
+6	.	Z:-------------	AuxK
+
+ln94210-96-p5s7
+1	1	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	září	NNNS2-----A----	ExD
+4	-	Z:-------------	Coord
+5	13	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	listopadu	NNIS2-----A----	ExD
+8	.	Z:-------------	AuxK
+

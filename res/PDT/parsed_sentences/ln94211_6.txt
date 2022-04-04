@@ -1,0 +1,178 @@
+ln94211-6-p1s1
+1	Cestovní	AAFS1----1A----	Atr
+2	kancelář	NNFS1-----A----	ExD
+3	s	RR--7----------	AuxP
+4	vlastním	AAIS7----1A----	Atr
+5	hotelem	NNIS7-----A----	Atr
+
+ln94211-6-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94211-6-p2s1B
+1	Loňský	AAIS1----1A----	Atr
+2	hospodářský	AAIS1----1A----	Atr
+3	výsledek	NNIS1-----A----	Sb
+4	cestovní	AAFS2----1A----	Atr
+5	kanceláře	NNFS2-----A----	Atr
+6	OK	AAXXX----1A---8	Atr
+7	-	Z:-------------	AuxG
+8	Tours	NNFPX-----A----	Atr
+9	činil	VpYS---XR-AA---	Pred
+10	7.7	C=-------------	Obj
+11	milionu	NNIS2-----A----	Atr
+12	korun	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94211-6-p2s2
+1	Tržby	NNFP1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	prodej	NNIS4-----A----	Atr
+4	byly	VpTP---XR-AA---	Pred
+5	219.84	C=-------------	Pnom
+6	milionu	NNIS2-----A----	Atr
+7	Kč	NNFXX-----A----	Atr
+8	,	Z:-------------	AuxX
+9	zatímco	J,-------------	AuxC
+10	v	RR--6----------	AuxP
+11	prvním	CrNS6----------	Atr
+12	pololetí	NNNS6-----A----	ExD
+13	letošního	AAIS2----1A----	Atr
+14	roku	NNIS2-----A---1	Atr
+15	již	Db-------------	AuxZ
+16	137	C=-------------	ExD
+17	milionů	NNIP2-----A----	Atr
+18	korun	NNFP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	jak	Db-------------	Adv
+21	uvedl	VpYS---XR-AA---	Pred
+22	předseda	NNMS1-----A----	Atr
+23	správní	AAFS2----1A----	Atr
+24	rady	NNFS2-----A----	Atr
+25	Pavel	NNMS1-----A----	Atr
+26	Trejtnar	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+ln94211-6-p3s1
+1	Hlavní	AAFS7----1A----	Atr
+2	činností	NNFS7-----A----	Pnom
+3	cestovní	AAFS2----1A----	Atr
+4	kanceláře	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	kde	Db-------------	Adv
+7	31	C=-------------	Obj
+8	%	Z:-------------	Atr
+9	vlastní	VB-S---3P-AA---	Atr
+10	finská	AAFS1----1A----	Atr
+11	cestovní	AAFS1----1A----	Atr
+12	kancelář	NNFS1-----A----	Sb
+13	OK	AAXXX----1A---8	Atr
+14	-	Z:-------------	AuxG
+15	Matkat	NNFXX-----A----	Atr
+16	,	Z:-------------	AuxX
+17	je	VB-S---3P-AA---	Pred
+18	aktivní	AAIS1----1A----	Atr
+19	cestovní	AAIS1----1A----	Atr
+20	ruch	NNIS1-----A----	Sb
+21	(	Z:-------------	ExD
+22	zhruba	Db-------------	AuxZ
+23	85	C=-------------	ExD
+24	%	Z:-------------	Atr
+25	)	Z:-------------	ExD
+26	.	Z:-------------	AuxK
+
+ln94211-6-p3s2
+1	Doplňkovou	AAFS7----1A----	Atr
+2	činností	NNFS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	prodej	NNIS1-----A----	Sb
+5	letenek	NNFP2-----A----	Atr
+6	(	Z:-------------	ExD
+7	asi	TT-------------	AuxZ
+8	15	C=-------------	ExD
+9	%	Z:-------------	Atr
+10	)	Z:-------------	ExD
+11	.	Z:-------------	AuxK
+
+ln94211-6-p3s3
+1	Největší	AAIS4----3A----	Atr
+2	počet	NNIS4-----A----	Obj
+3	klientů	NNMP2-----A----	Atr
+4	tvoří	VB-P---3P-AA---	Pred
+5	turisté	NNMP1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	Finska	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Španělska	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	Dánska	NNNS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	Francie	NNFS2-----A----	Atr
+14	a	J^-------------	Coord
+15	USA	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxK
+
+ln94211-6-p3s4
+1	OK	AAXXX----1A---8	Atr
+2	-	Z:-------------	AuxG
+3	Tours	NNIPX-----A----	Sb
+4	připravuje	VB-S---3P-AA---	Pred
+5	pobyty	NNIP4-----A----	Obj
+6	turistů	NNMP2-----A----	Atr
+7	z	RR--2----------	AuxP
+8	Dálného	AAIS2----1A----	Atr
+9	východu	NNIS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	mj	Db------------8	Adv
+12	.	Z:-------------	AuxG
+13	Tchaj	AAXXX----1A----	Atr
+14	-	Z:-------------	AuxG
+15	wanu	NNIXX-----A----	Atr
+16	a	J^-------------	Coord
+17	Japonska	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94211-6-p4s1
+1	Od	RR--2----------	AuxP
+2	července	NNIS2-----A----	Adv
+3	má	VB-S---3P-AA---	Pred
+4	cestovní	AAFS1----1A----	Atr
+5	kancelář	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	provozu	NNIS6-----A---1	Adv
+8	vlastní	AAIS4----1A----	Atr
+9	rodinný	AAIS4----1A----	Atr
+10	hotel	NNIS4-----A----	Obj
+11	Orion	NNIS1-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	AtrAdv
+14	s	RR--7----------	AuxP
+15	kapacitou	NNFS7-----A----	Atr
+16	31	C=-------------	Atr
+17	lůžek	NNNP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94211-6-p4s2
+1	Současná	AAFS1----1A----	Atr
+2	obsazenost	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	zhruba	Db-------------	AuxZ
+5	75	C=-------------	Pnom
+6	procent	NNNP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94211-6-p4s3
+1	Loni	Db------------1	Adv
+2	přicestovalo	VpNS---XR-AA---	Pred
+3	prostřednictvím	NNNS7-----A----	AuxP
+4	této	PDFS2----------	Atr
+5	kanceláře	NNFS2-----A----	Adv
+6	do	RR--2----------	AuxP
+7	ČR	NNFXX-----A---8	Adv
+8	více	Dg-------2A----	Sb
+9	než	J,-------------	AuxC
+10	28	C=-------------	Adv
+11	tisíc	ClXS2----------	Atr
+12	osob	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+

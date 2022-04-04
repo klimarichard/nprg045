@@ -1,0 +1,196 @@
+ln94210-13-p1s1
+1	CSIC	NNFXX-----A---8	Sb
+2	navyšuje	VB-S---3P-AA---	Pred
+3	jmění	NNNS4-----A----	Obj
+
+ln94210-13-p2s1
+1	Česká	AAFS1----1A----	Atr
+2	a	J^-------------	Coord
+3	slovenská	AAFS1----1A----	Atr
+4	investiční	AAFS1----1A----	Atr
+5	korporace	NNFS1-----A----	Sb
+6	(	Z:-------------	Apos
+7	CSIC	NNFXX-----A---8	Sb
+8	)	Z:-------------	AuxG
+9	,	Z:-------------	Coord
+10	londýnský	AAIS1----1A----	Atr
+11	investiční	AAIS1----1A----	Atr
+12	fond	NNIS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	hodlá	VB-S---3P-AA---	Pred
+15	zvýšit	Vf--------A----	Obj
+16	svůj	P8IS4----------	Atr
+17	kapitál	NNIS4-----A----	Obj
+18	o	RR--4----------	AuxP
+19	dalších	AAIP2----1A----	Atr
+20	25	C=-------------	Adv
+21	mil	NNIXX-----A---8	Adv
+22	.	Z:-------------	AuxG
+23	USD	NNIXX-----A---8	Atr
+24	prostřednictvím	NNNS7-----A----	AuxP
+25	emise	NNFS2-----A----	Adv
+26	akcií	NNFP2-----A----	Atr
+27	a	J^-------------	Coord
+28	opčních	AAIP2----1A----	Atr
+29	listů	NNIP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94210-13-p2s3
+1	Právo	NNNS4-----A----	Obj
+2	k	RR--3----------	AuxP
+3	jejich	PSXXXXP3-------	Atr
+4	nákupu	NNIS3-----A----	Atr
+5	mají	VB-P---3P-AA---	Pred
+6	současní	AAMP1----1A----	Atr
+7	i	J^-------------	Coord
+8	noví	AAMP1----1A----	Atr
+9	akcionáři	NNMP1-----A----	Sb
+10	fondu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94210-13-p3s1
+1	CSIC	NNFXX-----A---8	Sb
+2	se	P7-X4----------	AuxT
+3	specializuje	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	podporu	NNFS4-----A----	Obj
+6	investic	NNFP2-----A---1	Atr
+7	v	RR--6----------	AuxP
+8	České	AAFS6----1A----	Atr
+9	a	J^-------------	Coord
+10	Slovenské	AAFS6----1A----	Atr
+11	republice	NNFS6-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+ln94210-13-p4s1
+1	Dodatečná	AAFS1----1A----	Atr
+2	nabídka	NNFS1-----A----	Sb
+3	obsahuje	VB-S---3P-AA---	Pred
+4	340	C=-------------	Obj
+5	tisíc	ClXS2----------	Atr
+6	jednotek	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	každá	AAFS1----1A----	ExD
+9	se	P7-X4----------	AuxT
+10	skládá	VB-S---3P-AA---	Pred
+11	ze	RV--2----------	AuxP
+12	sedmi	Cn-P2----------	Atr
+13	akcií	NNFP2-----A----	Obj
+14	a	J^-------------	Coord
+15	jednoho	ClZS2----------	Atr
+16	opčního	AAIS2----1A----	Atr
+17	listu	NNIS2-----A----	Obj
+18	,	Z:-------------	Coord
+19	přičemž	J,-------------	Adv
+20	cena	NNFS1-----A----	Sb
+21	jednotky	NNFS2-----A----	Atr
+22	činí	VB-S---3P-AA---	Pred
+23	73.50	C=-------------	Obj
+24	USD	NNIXX-----A---8	Atr
+25	.	Z:-------------	AuxK
+
+ln94210-13-p5s1
+1	Fond	NNIS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	založen	VsYS---XX-AP---	Pred
+4	počátkem	NNIS7-----A----	AuxP
+5	tohoto	PDZS2----------	Atr
+6	roku	NNIS2-----A---1	Adv
+7	a	J^-------------	Coord
+8	zprostředkoval	VpYS---XR-AA---	Pred
+9	dosud	Db-------------	Adv
+10	investice	NNFP4-----A----	Obj
+11	v	RR--6----------	AuxP
+12	celkové	AAFS6----1A----	Atr
+13	hodnotě	NNFS6-----A----	Atr
+14	30	C=-------------	Atr
+15	mil	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	USD	NNIXX-----A---8	Atr
+18	,	Z:-------------	AuxX
+19	z	RR--2----------	AuxP
+20	nichž	P9XP2----------	Atr
+21	více	Dg-------2A----	Sb
+22	než	J,-------------	AuxC
+23	90	C=-------------	Adv
+24	%	Z:-------------	Atr
+25	bylo	VpNS---XR-AA---	AuxV
+26	umístěno	VsNS---XX-AP---	Atr
+27	v	RR--6----------	AuxP
+28	ČR	NNFXX-----A---8	Adv
+29	.	Z:-------------	AuxK
+
+ln94210-13-p6s1
+1	Jak	J,-------------	Adv
+2	uvádí	VB-S---3P-AA---	Pred
+3	britský	AAIS1----1A----	Atr
+4	Financial	AAXXX----1A----	Atr
+5	Times	NNIPX-----A----	Sb
+6	,	Z:-------------	AuxX
+7	zvýšení	NNNS1-----A----	Sb
+8	podílu	NNIS2-----A----	Atr
+9	Slovenska	NNNS2-----A----	Atr
+10	není	VB-S---3P-NA---	Pred
+11	vyloučeno	VsNS---XX-AP---	Pnom
+12	,	Z:-------------	AuxX
+13	ovšem	J^-------------	Coord
+14	představitelé	NNMP1-----A----	Sb
+15	fondu	NNIS2-----A----	Atr
+16	očekávají	VB-P---3P-AA---	Pred
+17	výsledky	NNIP4-----A----	Obj
+18	podzimních	AAFP2----1A----	Atr
+19	parlamentních	AAFP2----1A----	Atr
+20	voleb	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94210-13-p7s1
+1	Fond	NNIS1-----A----	Sb
+2	investuje	VB-S---3P-AA---	Pred
+3	do	RR--2----------	AuxP
+4	nákupu	NNIS2-----A----	Adv
+5	kotovaných	AAFP2----1A----	Atr
+6	i	J^-------------	Coord
+7	nekotovaných	AAFP2----1N----	Atr
+8	akcií	NNFP2-----A----	Atr
+9	a	J^-------------	Coord
+10	do	RR--2----------	AuxP
+11	společných	AAIP2----1A----	Atr
+12	podniků	NNIP2-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln94210-13-p7s2
+1	Ve	RV--6----------	AuxP
+2	svém	P8ZS6----------	Atr
+3	portfoliu	NNNS6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	jehož	PJZS2----------	Atr
+6	hodnota	NNFS1-----A----	Sb
+7	nyní	Db-------------	Adv
+8	dosahuje	VB-S---3P-AA---	Atr
+9	35	C=-------------	Atr
+10	mil	NNIXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	USD	NNIXX-----A---8	Obj
+13	,	Z:-------------	AuxX
+14	má	VB-S---3P-AA---	Pred
+15	i	J^-------------	AuxZ
+16	podíl	NNIS4-----A----	Obj
+17	na	RR--6----------	AuxP
+18	23	C=-------------	Atr
+19	milionové	AAFS6----1A----	Atr
+20	investici	NNFS6-----A----	Atr
+21	British	AAXXX----1A----	Atr
+22	Petroleum	NNNXX-----A----	Atr
+23	do	RR--2----------	AuxP
+24	maloobchodní	AAFS2----1A----	Atr
+25	sítě	NNFS2-----A----	Atr
+26	čerpadel	NNNP2-----A----	Atr
+27	v	RR--6----------	AuxP
+28	ČR	NNFXX-----A---8	Atr
+29	.	Z:-------------	AuxK
+
+ln94210-13-p7s3
+1	(	Z:-------------	ExD
+2	am	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

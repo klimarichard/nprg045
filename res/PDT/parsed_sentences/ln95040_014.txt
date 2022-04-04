@@ -1,0 +1,111 @@
+ln95040-014-p1s1
+1	Čalfovi	AUMP1M---------	ExD
+2	ve	RV--6----------	AuxP
+3	službách	NNFP6-----A----	AuxP
+4	Chemapolu	NNIS2-----A----	Atr
+
+ln95040-014-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-014-p2s1B
+1	Bývalý	AAMS1----1A----	Atr
+2	premiér	NNMS1-----A----	Atr
+3	ČSFR	NNFXX-----A---8	Atr
+4	Marián	NNMS1-----A----	Atr
+5	Čalfa	NNMS1-----A----	Sb
+6	a	J^-------------	Coord
+7	jeho	PSXXXZS3-------	Atr
+8	manželka	NNFS1-----A----	Sb
+9	zastupují	VB-P---3P-AA---	Pred
+10	akcionáře	NNMP4-----A----	Obj
+11	společnosti	NNFS2-----A----	Atr
+12	Chemapol	NNIS1-----A----	Atr
+13	Group	NNFXX-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95040-014-p2s2
+1	Čalfa	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	údajně	Dg-------1A----	Adv
+4	právním	AAMS7----1A----	Atr
+5	poradcem	NNMS7-----A----	Pnom
+6	,	Z:-------------	Coord
+7	jeho	PSXXXZS3-------	Atr
+8	žena	NNFS1-----A----	Atr
+9	Jiřina	NNFS1-----A----	Sb
+10	je	VB-S---3P-AA---	Pred
+11	v	RR--6----------	AuxP
+12	dozorčí	AAFS6----1A----	Atr
+13	radě	NNFS6-----A----	Adv
+14	společnosti	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95040-014-p3s1
+1	Podnik	NNIS4-----A----	Obj
+2	zastupoval	VpYS---XR-AA---	Pred
+3	Čalfa	NNMS1-----A----	Atr
+4	poprvé	Cv-------------	Adv
+5	na	RR--6----------	AuxP
+6	valné	AAFS6----1A----	Atr
+7	hromadě	NNFS6-----A----	Adv
+8	začátkem	NNIS7-----A----	AuxP
+9	února	NNIS2-----A---1	AdvAtr
+10	při	RR--6----------	AuxP
+11	sporu	NNIS6-----A----	Adv
+12	Chemapolu	NNIS2-----A----	Atr
+13	s	RR--7----------	AuxP
+14	jeho	PSXXXZS3-------	Atr
+15	největším	AAMS7----3A----	Atr
+16	akcionářem	NNMS7-----A----	Atr
+17	Chemopetrolem	NNIS7-----A----	Atr
+18	Litvínov	NNIS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95040-014-p3s2
+1	Chemopetrol	NNIS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	za	RR--4----------	AuxP
+4	to	PDNS4----------	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	Chemapol	NNIS1-----A----	Sb
+8	vydal	VpYS---XR-AA---	Obj
+9	20	C=-------------	Obj
+10	tisíc	ClXS2----------	Atr
+11	akcií	NNFP2-----A----	Atr
+12	svým	P8XP3----------	Atr
+13	zaměstnancům	NNMP3-----A----	Obj
+14	,	Z:-------------	Apos
+15	zejména	Db-------------	AuxZ
+16	členům	NNMP3-----A----	Obj
+17	managementu	NNIS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	protiprávně	Dg-------1A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95040-014-p3s3
+1	Chemapol	NNIS1-----A----	Sb
+2	toto	PDNS4----------	Atr
+3	nařčení	NNNS4-----A----	Obj
+4	odmítá	VB-S---3P-AA---	Pred
+5	.	Z:-------------	AuxK
+
+ln95040-014-p3s4
+1	Bývalý	AAMS1----1A----	Atr
+2	premiér	NNMS1-----A----	Sb
+3	stejně	Dg-------1A----	Adv
+4	jako	J,-------------	AuxC
+5	Chemapol	NNIS1-----A----	ExD
+6	rovněž	Db-------------	Adv
+7	podporuje	VB-S---3P-AA---	Pred
+8	privatizaci	NNFS4-----A----	Obj
+9	dvou	ClXP2----------	Atr
+10	českých	AAFP2----1A----	Atr
+11	rafinerií	NNFP2-----A----	Atr
+12	tzv	AAXXX----1A---8	Atr
+13	.	Z:-------------	AuxG
+14	českou	AAFS7----1A----	Atr
+15	cestou	NNFS7-----A----	Atr
+16	.	Z:-------------	AuxK
+

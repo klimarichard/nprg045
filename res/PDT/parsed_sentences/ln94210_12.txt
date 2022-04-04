@@ -1,0 +1,143 @@
+ln94210-12-p1s1
+1	Seznam	NNIS1-----A----	ExD
+2	členů	NNMP2-----A----	Atr
+3	Asociace	NNFS2-----A----	Atr
+4	realitních	AAFP2----1A----	Atr
+5	kanceláří	NNFP2-----A----	Atr
+6	Čech	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	Moravy	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	Slezska	NNNS2-----A----	Atr
+
+ln94210-12-p2s1
+1	V	RR--6----------	AuxP
+2	České	AAFS6----1A----	Atr
+3	republice	NNFS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	registrováno	VsNS---XX-AP---	Pnom
+6	okolo	RR--2----------	AuxP
+7	300	C=-------------	Atr
+8	tisíc	ClXS2----------	Adv
+9	živností	NNFP2-----A----	Atr
+10	se	RV--7----------	AuxP
+11	zaměřením	NNNS7-----A----	Atr
+12	na	RR--4----------	AuxP
+13	poskytování	NNNS4-----A----	Atr
+14	realitních	AAFP2----1A----	Atr
+15	služeb	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94210-12-p2s2
+1	Z	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Atr
+3	jsou	VB-P---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	trhu	NNIS6-----A----	Adv
+6	viditelné	AAIP1----1A----	Pnom
+7	asi	TT-------------	AuxZ
+8	3000	C=-------------	Sb
+9	.	Z:-------------	AuxK
+
+ln94210-12-p2s3
+1	Největším	AANS7----3A----	Atr
+2	profesním	AANS7----1A----	Atr
+3	seskupením	NNNS7-----A----	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	Asociace	NNFS1-----A----	Sb
+6	realitních	AAFP2----1A----	Atr
+7	kanceláří	NNFP2-----A----	Atr
+8	Čech	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Moravy	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	Slezska	NNNS2-----A----	Atr
+13	(	Z:-------------	Apos
+14	ARK	NNFXX-----A---8	Atr
+15	ČMS	NNFXX-----A---8	Sb
+16	)	Z:-------------	AuxG
+17	,	Z:-------------	AuxX
+18	která	P4FS1----------	Sb
+19	má	VB-S---3P-AA---	Atr
+20	zhruba	Db-------------	AuxZ
+21	240	C=-------------	Obj
+22	členů	NNMP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94210-12-p2s4
+1	Asociace	NNFS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	pro	RR--4----------	AuxP
+4	své	P8YP4---------1	Atr
+5	členy	NNMP4-----A----	Obj
+6	závazné	AAIP4----1A----	Atr
+7	dokumenty	NNIP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	jako	J,-------------	AuxY
+10	jsou	VB-P---3P-AA---	Apos
+11	stanovy	NNFP1-----A----	Obj
+12	a	J^-------------	Coord
+13	provozní	AAIS1----1A----	Atr
+14	řád	NNIS1-----A----	Obj
+15	,	Z:-------------	AuxX
+16	upravující	AGIS1-----A----	Atr
+17	vztahy	NNIP4-----A----	Obj
+18	mezi	RR--7----------	AuxP
+19	realitními	AAFP7----1A----	Atr
+20	kancelářemi	NNFP7-----A----	Atr
+21	a	J^-------------	Coord
+22	jejich	PSXXXXP3-------	Atr
+23	klienty	NNMP7-----A----	Atr
+24	(	Z:-------------	AuxG
+25	např	Db------------8	AuxZ
+26	.	Z:-------------	AuxG
+27	doporučená	AAFS1----1A----	Atr
+28	sazba	NNFS1-----A----	Sb
+29	provize	NNFS2-----A----	Atr
+30	je	VB-S---3P-AA---	Pred
+31	3	C=-------------	Pnom
+32	-	Z:-------------	Coord
+33	6	C=-------------	Pnom
+34	procent	NNNP2-----A----	Atr
+35	z	RR--2----------	AuxP
+36	prodejní	AAFS2----1A----	Atr
+37	ceny	NNFS2-----A----	Atr
+38	)	Z:-------------	AuxG
+39	,	Z:-------------	AuxX
+40	a	J^-------------	Coord
+41	dále	Db------------1	ExD
+42	pravidla	NNNP1-----A----	ExD
+43	soutěže	NNFS2-----A----	Atr
+44	a	J^-------------	Coord
+45	pravidla	NNNP1-----A----	ExD
+46	obchodní	AAFS2----1A----	Atr
+47	spolupráce	NNFS2-----A----	Atr
+48	.	Z:-------------	AuxK
+
+ln94210-12-p2s5
+1	Uveřejňujeme	VB-P---1P-AA---	Pred
+2	aktuální	AAIS4----1A----	Atr
+3	seznam	NNIS4-----A----	Obj
+4	členů	NNMP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	který	P4IS4----------	Obj
+7	nám	PP-P3--1-------	Obj
+8	asociace	NNFS1-----A----	Sb
+9	poskytla	VpQW---XR-AA--1	Atr
+10	.	Z:-------------	AuxK
+
+ln94210-12-p2s6
+1	Pražské	AAFP4----1A----	Atr
+2	firmy	NNFP4-----A----	Sb
+3	LN	NNFPX-----A---8	Adv
+4	ověřily	VpTP---XR-AA---	Pred
+5	a	J^-------------	Coord
+6	provedly	VpTP---XR-AA---	Pred
+7	aktualizaci	NNFS4-----A----	Obj
+8	údajů	NNIP2-----A----	Atr
+9	k	RR--3----------	AuxP
+10	2	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	září	NNNS3-----A----	Atr
+13	.	Z:-------------	AuxK
+

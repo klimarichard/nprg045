@@ -1,0 +1,166 @@
+lnd94105-082-p1s11
+1	Klienti	NNMP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	kteří	P4MP1----------	Sb
+4	budou	VB-P---3F-AA---	AuxV
+5	chtít	Vf--------A----	Atr
+6	převést	Vf--------A----	Obj
+7	termínovaný	AAIS4----1A----	Atr
+8	vklad	NNIS4-----A----	Obj
+9	před	RR--7----------	AuxP
+10	dobou	NNFS7-----A----	Adv
+11	jeho	PSXXXZS3-------	Atr
+12	splatnosti	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	si	P7-X3----------	Adv
+15	musí	VB-P---3P-AA--1	Pred
+16	u	RR--2----------	AuxP
+17	ČSOB	NNFXX-----A---8	Adv
+18	založit	Vf--------A----	Obj
+19	termínový	AAIS4----1A----	Atr
+20	účet	NNIS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+lnd94105-082-p1s12
+1	Ten	PDYS1----------	Sb
+2	bude	VB-S---3F-AA---	Pred
+3	od	RR--2----------	AuxP
+4	okamžiku	NNIS2-----A----	Adv
+5	jeho	PSXXXZS3-------	Atr
+6	převzetí	NNNS2-----A----	Atr
+7	do	RR--2----------	AuxP
+8	doby	NNFS2-----A----	Adv
+9	splatnosti	NNFS2-----A----	Atr
+10	úročen	VsYS---XX-AP---	Pnom
+11	podle	RR--2----------	AuxP
+12	úrokových	AAFP2----1A----	Atr
+13	sazeb	NNFP2-----A----	Adv
+14	ČSOB	NNFXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+
+lnd94105-082-p1s13
+1	Také	Db-------------	AuxZ
+2	tento	PDIS4----------	Atr
+3	vklad	NNIS4-----A----	Obj
+4	nelze	VB-S---3P-NA---	Pred
+5	před	RR--7----------	AuxP
+6	jeho	PSXXXZS3-------	Atr
+7	splatností	NNFS7-----A----	Adv
+8	vyplatit	Vf--------A----	Sb
+9	ani	J^-------------	Coord
+10	převést	Vf--------A----	Sb
+11	na	RR--4----------	AuxP
+12	jinou	AAFS4----1A----	Atr
+13	banku	NNFS4-----A----	Adv
+14	.	Z:-------------	AuxK
+
+lnd94105-082-p1s14
+1	Majitelé	NNMP1-----A----	Sb
+2	běžných	AAIP2----1A----	Atr
+3	účtů	NNIP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	certifikátů	NNIP2-----A----	Atr
+6	a	J^-------------	Coord
+7	termínových	AAIP2----1A----	Atr
+8	vkladů	NNIP2-----A----	Atr
+9	po	RR--6----------	AuxP
+10	době	NNFS6-----A----	Atr
+11	splatnosti	NNFS2-----A----	Atr
+12	si	P7-X3----------	Adv
+13	mohou	VB-P---3P-AA--1	Pred
+14	založit	Vf--------A----	Obj
+15	bezplatně	Dg-------1A----	Adv
+16	účet	NNIS4-----A----	Obj
+17	u	RR--2----------	AuxP
+18	ČSOB	NNFXX-----A---8	AtrAdv
+19	nebo	J^-------------	Coord
+20	celý	AAIS4----1A----	Atr
+21	zůstatek	NNIS4-----A----	Obj
+22	převést	Vf--------A----	Obj
+23	na	RR--4----------	AuxP
+24	jinou	AAFS4----1A----	Atr
+25	banku	NNFS4-----A----	Adv
+26	.	Z:-------------	AuxK
+
+lnd94105-082-p1s15
+1	Klient	NNMS1-----A----	Sb
+2	si	P7-X3----------	Adv
+3	také	Db-------------	Adv
+4	může	VB-S---3P-AA---	Pred
+5	nechat	Vf--------A----	Obj
+6	od	RR--2----------	AuxP
+7	ČSOB	NNFXX-----A---8	Adv
+8	vyplatit	Vf--------A----	Obj
+9	vklad	NNIS4-----A----	Obj
+10	(	Z:-------------	AuxG
+11	nebo	J^-------------	Coord
+12	jeho	PSXXXZS3-------	Atr
+13	část	NNFS4-----A----	Obj
+14	)	Z:-------------	AuxG
+15	až	TT-------------	AuxZ
+16	do	RR--2----------	AuxP
+17	výše	NNFS2-----A----	Atr
+18	500	C=-------------	Atr
+19	tisíc	ClXS2----------	Atr
+20	korun	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94105-082-p1s16
+1	Na	RR--4----------	AuxP
+2	zbytkovou	AAFS4----1A----	Atr
+3	částku	NNFS4-----A----	Adv
+4	vystaví	VB-S---3P-AA---	Pred
+5	ČSOB	NNFXX-----A---8	Sb
+6	poukázku	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	je	VB-S---3P-AA---	Atr
+10	splatná	AAFS1----1A----	Pnom
+11	v	RR--6----------	AuxP
+12	její	PSFSXFS3-------	Atr
+13	příslušné	AAFS6----1A----	Atr
+14	pobočce	NNFS6-----A----	Adv
+15	nejdříve	Dg-------3A----	Adv
+16	za	RR--4----------	AuxP
+17	dva	ClYP4----------	Atr
+18	pracovní	AAIP4----1A----	Atr
+19	dny	NNIP4-----A----	Adv
+20	.	Z:-------------	AuxK
+
+lnd94105-082-p1s17
+1	O	RR--6----------	AuxP
+2	celé	AAFS6----1A----	Atr
+3	operaci	NNFS6-----A----	Obj
+4	budou	VB-P---3F-AA---	Pred
+5	klienti	NNMP1-----A----	Sb
+6	Bohemie	NNFS2-----A----	Atr
+7	podrobně	Dg-------1A----	Adv
+8	informováni	VsMP---XX-AP---	Pnom
+9	dopisem	NNIS7-----A----	Adv
+10	BB	NNFXX-----A---8	Atr
+11	a	J^-------------	Coord
+12	na	RR--6----------	AuxP
+13	jejích	PSXP6FS3-------	Atr
+14	pobočkách	NNFP6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+lnd94105-082-p1s18
+1	Nezbytným	AAIS7----1N----	Atr
+2	dokladem	NNIS7-----A----	Pnom
+3	pro	RR--4----------	AuxP
+4	celou	AAFS4----1A----	Atr
+5	operaci	NNFS4-----A----	Adv
+6	je	VB-S---3P-AA---	Pred
+7	občanský	AAIS1----1A----	Atr
+8	průkaz	NNIS1-----A----	Sb
+9	,	Z:-------------	Coord
+10	případně	Dg-------1A----	ExD
+11	živnostenský	AAIS1----1A----	Atr
+12	list	NNIS1-----A----	ExD
+13	či	J^-------------	Coord
+14	výpis	NNIS1-----A----	ExD
+15	z	RR--2----------	AuxP
+16	obchodního	AAIS2----1A----	Atr
+17	rejstříku	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+

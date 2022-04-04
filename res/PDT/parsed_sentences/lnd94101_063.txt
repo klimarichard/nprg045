@@ -1,0 +1,121 @@
+lnd94101-063-p1s1
+1	Reforma	NNFS1-----A----	ExD
+2	americké	AAFS2----1A----	Atr
+3	kontrašpionáže	NNFS2-----A----	Atr
+
+lnd94101-063-p1s2
+1	Washington	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94101-063-p1s3
+1	Ředitel	NNMS1-----A----	Atr
+2	CIA	NNFXX-----A---8	Atr
+3	James	NNMS1-----A----	Atr
+4	Woolsey	NNMS1-----A----	Sb
+5	včera	Db-------------	Adv
+6	oznámil	VpYS---XR-AA---	Pred
+7	projekt	NNIS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	reformu	NNFS4-----A----	Atr
+10	struktury	NNFS2-----A----	Atr
+11	americké	AAFS2----1A----	Atr
+12	kontrašpionáže	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94101-063-p1s4
+1	Podnětem	NNIS7-----A----	Pnom
+2	k	RR--3----------	AuxP
+3	tomuto	PDZS3----------	Atr
+4	kroku	NNIS3-----A----	Atr
+5	byl	VpYS---XR-AA---	Pred
+6	"	Z:-------------	AuxG
+7	případ	NNIS1-----A----	Sb
+8	Ames	NNMS1-----A----	Atr
+9	"	Z:-------------	AuxG
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	před	RR--7----------	AuxP
+13	nedávnem	NNNS7-----A----	Adv
+14	otřásl	VpYS---XR-AA---	Atr
+15	výzvědnými	AAFP7----1A----	Atr
+16	službami	NNFP7-----A----	Obj
+17	USA	NNIPX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94101-063-p1s5
+1	V	RR--6----------	AuxP
+2	přednášce	NNFS6-----A----	Adv
+3	před	RR--7----------	AuxP
+4	Americkou	AAFS7----1A----	Atr
+5	soudní	AAFS7----1A----	Atr
+6	asociací	NNFS7-----A----	AtrAdv
+7	ve	RV--6----------	AuxP
+8	Washingtonu	NNIS6-----A---1	AtrAdv
+9	Woolsey	NNMS1-----A----	Sb
+10	naznačil	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	uvedený	AAIS1----1A----	Atr
+14	návrh	NNIS1-----A----	Sb
+15	je	VB-S---3P-AA---	Obj
+16	založen	VsYS---XX-AP---	Pnom
+17	na	RR--6----------	AuxP
+18	vytvoření	NNNS6-----A----	Obj
+19	pracovní	AAFS2----1A----	Atr
+20	skupiny	NNFS2-----A----	Atr
+21	složené	AAFS2----1A----	Atr
+22	ze	RV--2----------	AuxP
+23	zástupců	NNMP2-----A----	Obj
+24	Ústřední	AAFS2----1A----	Atr
+25	zpravodajské	AAFS2----1A----	Atr
+26	služby	NNFS2-----A----	Atr
+27	(	Z:-------------	Apos
+28	CIA	NNFXX-----A---8	Atr
+29	)	Z:-------------	AuxG
+30	,	Z:-------------	AuxX
+31	Federálního	AAIS2----1A----	Atr
+32	vyšetřovacího	AAIS2----1A----	Atr
+33	úřadu	NNIS2-----A----	Atr
+34	,	Z:-------------	AuxX
+35	ministerstva	NNNS2-----A----	Atr
+36	spravedlnosti	NNFS2-----A----	Atr
+37	a	J^-------------	Coord
+38	Bílého	AAIS2----1A----	Atr
+39	domu	NNIS2-----A----	Atr
+40	.	Z:-------------	AuxK
+
+lnd94101-063-p1s6
+1	"	Z:-------------	AuxG
+2	Představitelé	NNMP1-----A----	Sb
+3	různých	AAFP2----1A----	Atr
+4	agentur	NNFP2-----A----	Atr
+5	a	J^-------------	Coord
+6	organizací	NNFP2-----A----	Atr
+7	ze	RV--2----------	AuxP
+8	sektoru	NNIS2-----A----	Atr
+9	výzvědných	AAFP2----1A----	Atr
+10	služeb	NNFP2-----A----	Atr
+11	budou	VB-P---3F-AA---	AuxV
+12	spolupracovat	Vf--------A----	Adv
+13	pod	RR--7----------	AuxP
+14	vedením	NNNS7-----A----	Adv
+15	Rady	NNFS2-----A----	Atr
+16	národní	AAFS2----1A----	Atr
+17	bezpečnosti	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	"	Z:-------------	AuxG
+20	upřesnil	VpYS---XR-AA---	Pred
+21	ředitel	NNMS1-----A----	Sb
+22	CIA	NNFXX-----A---8	Atr
+23	podstatu	NNFS4-----A----	Obj
+24	návrhu	NNIS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	který	P4IS4----------	Obj
+27	má	VB-S---3P-AA---	Atr
+28	předložit	Vf--------A----	Obj
+29	budoucí	AAIS4----1A----	Atr
+30	týden	NNIS4-----A----	Adv
+31	americkému	AAIS3----1A----	Atr
+32	Kongresu	NNIS3-----A----	Obj
+33	.	Z:-------------	AuxK
+

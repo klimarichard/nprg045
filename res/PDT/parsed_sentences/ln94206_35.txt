@@ -1,0 +1,256 @@
+ln94206-35-p1s1
+1	Lotynka	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	věcí	NNFS7-----A----	Pnom
+4	ministerstva	NNNS2-----A----	Atr
+5	kultury	NNFS2-----A----	Atr
+
+ln94206-35-p2s1A
+1	Podle	RR--2----------	AuxP
+2	ministra	NNMS2-----A----	Adv
+3	financí	NNFP2-----A----	Atr
+4	byly	VpTP---XR-AA---	AuxV
+5	loterie	NNFP1-----A----	Sb
+6	Sazky	NNFS2-----A----	Atr
+7	povoleny	VsTP---XX-AP---	Pred
+8	v	RR--6----------	AuxP
+9	souladu	NNIS6-----A----	AuxP
+10	se	RV--7----------	AuxP
+11	zákonem	NNIS7-----A----	Adv
+
+ln94206-35-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jap	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94206-35-p2s1C
+1	Řešení	NNNS1-----A----	Sb
+2	záležitostí	NNFP2-----A----	Atr
+3	kolem	RR--2----------	AuxP
+4	České	AAFS2----1A----	Atr
+5	lotynky	NNFS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	především	Db-------------	Adv
+8	věcí	NNFS7-----A----	Pnom
+9	ministerstva	NNNS2-----A----	Atr
+10	kultury	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94206-35-p2s2
+1	Po	RR--6----------	AuxP
+2	své	P8FS6---------1	Atr
+3	včerejší	AAFS6----1A----	Atr
+4	schůzce	NNFS6-----A----	Adv
+5	s	RR--7----------	AuxP
+6	ministrem	NNMS7-----A----	Atr
+7	kultury	NNFS2-----A----	Atr
+8	Pavlem	NNMS7-----A----	Atr
+9	Tigridem	NNMS7-----A----	Atr
+10	to	PDNS4----------	Obj
+11	řekl	VpYS---XR-AA---	Pred
+12	ministr	NNMS1-----A----	Atr
+13	financí	NNFP2-----A----	Atr
+14	Ivan	NNMS1-----A----	Atr
+15	Kočárník	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94206-35-p3s1
+1	Ministr	NNMS1-----A----	Atr
+2	Tigrid	NNMS1-----A----	Sb
+3	si	P7-X3----------	Adv
+4	z	RR--2----------	AuxP
+5	jednání	NNNS2-----A----	Adv
+6	odnáší	VB-S---3P-AA---	Pred
+7	několik	Ca--4----------	Obj
+8	alternativ	NNFP2-----A----	Atr
+9	řešení	NNNS2-----A----	Atr
+10	situace	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4FP4----------	Obj
+13	hodlá	VB-S---3P-AA---	Atr
+14	ministerstvo	NNNS1-----A----	Sb
+15	kultury	NNFS2-----A----	Atr
+16	projednat	Vf--------A----	Obj
+17	dnes	Db-------------	Adv
+18	.	Z:-------------	AuxK
+
+ln94206-35-p3s2
+1	P	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Tigrid	NNMS1-----A----	Sb
+4	včera	Db-------------	Adv
+5	uvedl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	vidí	VB-S---3P-AA---	Obj
+9	čtyři	ClXP4----------	Atr
+10	možnosti	NNFP4-----A----	Obj
+11	řešení	NNNS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94206-35-p4s1
+1	Jak	J,-------------	Adv
+2	dále	Db------------1	Adv
+3	sdělil	VpYS---XR-AA---	Pred
+4	Kočárník	NNMS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	ministři	NNMP1-----A----	Sb
+7	přímo	Dg-------1A----	Adv
+8	nehovořili	VpMP---XR-NA---	Pred
+9	ani	J^-------------	AuxZ
+10	o	RR--6----------	AuxP
+11	výhradách	NNFP6-----A----	Obj
+12	ministerstva	NNNS2-----A----	Atr
+13	kultury	NNFS2-----A----	Atr
+14	a	J^-------------	Coord
+15	firmy	NNFS2-----A----	Atr
+16	K	AAXXX----1A---8	Atr
+17	.	Z:-------------	AuxG
+18	J	AAXXX----1A---8	Atr
+19	.	Z:-------------	AuxG
+20	D	AAXXX----1A---8	Atr
+21	.	Z:-------------	AuxG
+22	(	Z:-------------	AuxG
+23	která	P4FS1----------	Sb
+24	Českou	AAFS4----1A----	Atr
+25	lotynku	NNFS4-----A----	Obj
+26	pro	RR--4----------	AuxP
+27	Státní	AAIS4----1A----	Atr
+28	fond	NNIS4-----A----	Adv
+29	kultury	NNFS2-----A----	Atr
+30	provozuje	VB-S---3P-AA---	Atr
+31	)	Z:-------------	AuxG
+32	k	RR--3----------	AuxP
+33	existenci	NNFS3-----A----	Atr
+34	podobné	AAFS2----1A----	Atr
+35	loterie	NNFS2-----A----	Atr
+36	spravované	AAFS2----1A----	Atr
+37	společností	NNFS7-----A----	Obj
+38	Sazka	NNFS1-----A----	Atr
+39	.	Z:-------------	AuxK
+
+ln94206-35-p4s3
+1	Podle	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	neodpovídá	VB-S---3P-NA---	Pred
+4	existence	NNFS1-----A----	Sb
+5	dvou	ClXP2----------	Atr
+6	číselných	AAFP2----1A----	Atr
+7	loterií	NNFP2-----A----	Atr
+8	zákonu	NNIS3-----A----	Obj
+9	o	RR--6----------	AuxP
+10	loteriích	NNFP6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	údajně	Dg-------1A----	Adv
+14	provozování	NNNS4-----A----	Obj
+15	jiné	AAFS2----1A----	ExD
+16	než	J,-------------	AuxC
+17	jediné	AAFS2----1A----	Atr
+18	státní	AAFS2----1A----	Atr
+19	loterie	NNFS2-----A----	ExD
+20	vylučuje	VB-S---3P-AA---	Atr
+21	.	Z:-------------	AuxK
+
+ln94206-35-p4s4
+1	Na	RR--6----------	AuxP
+2	setkání	NNNS6-----A----	Adv
+3	to	PDNS1----------	Sb
+4	zaznělo	VpNS---XR-AA---	Obj
+5	jakoby	Db-------------	AuxY
+6	mimoděk	Db-------------	Adv
+7	,	Z:-------------	AuxX
+8	uvedl	VpYS---XR-AA---	Pred
+9	Kočárník	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94206-35-p4s5
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	vyjádření	NNNS2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	ministerstvo	NNNS1-----A----	Sb
+6	financí	NNFP2-----A----	Atr
+7	přesvědčeno	VsNS---XX-AP---	Pnom
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	tento	PDYS1----------	Atr
+11	výklad	NNIS1-----A----	Sb
+12	uvedeného	AAIS2----1A----	Atr
+13	zákona	NNIS2-----A----	Atr
+14	je	VB-S---3P-AA---	Obj
+15	chybný	AAIS1----1A----	Pnom
+16	a	J^-------------	Coord
+17	na	RR--6----------	AuxP
+18	trhu	NNIS6-----A----	Adv
+19	vedle	RR--2----------	AuxP
+20	sebe	P6-X2----------	Adv
+21	může	VB-S---3P-AA---	Obj
+22	existovat	Vf--------A----	Obj
+23	více	Dg-------2A----	Sb
+24	loterií	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94206-35-p5s1
+1	Společnost	NNFS1-----A----	Sb
+2	K	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	J	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	D	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	trvá	VB-S---3P-AA---	Pred
+9	na	RR--6----------	AuxP
+10	tom	PDZS6----------	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	loterie	NNFP1-----A----	Sb
+14	Sazky	NNFS2-----A----	Atr
+15	jsou	VB-P---3P-AA---	Atr
+16	nezákonné	AAFP1----1N----	Pnom
+17	.	Z:-------------	AuxK
+
+ln94206-35-p5s2A
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	řekl	VpYS---XR-AA---	Pred
+4	Petr	NNMS1-----A----	Atr
+5	Havlík	NNMS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	K	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	J	AAXXX----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	D	AAXXX----1A---8	Atr
+12	.	Z:-------------	AuxG
+
+ln94206-35-p5s2B
+1	Uvedl	VpYS---XR-AA---	Pred
+2	také	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	Lotynka	NNFS1-----A----	Sb
+6	získá	VB-S---3P-AA---	Obj
+7	kapitálového	AAMS4----1A----	Atr
+8	partnera	NNMS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	kterým	P4ZS7----------	Pnom
+11	podle	RR--2----------	AuxP
+12	něj	P5ZS2--3-------	Adv
+13	bude	VB-S---3F-AA---	Atr
+14	nejmenovaná	AAFS1----1N----	Atr
+15	největší	AAFS1----3A----	Atr
+16	státní	AAFS1----1A----	Atr
+17	evropská	AAFS1----1A----	Atr
+18	loterijní	AAFS1----1A----	Atr
+19	společnost	NNFS1-----A----	Sb
+20	s	RR--7----------	AuxP
+21	ročním	AAIS7----1A----	Atr
+22	obratem	NNIS7-----A----	Atr
+23	150	C=-------------	Atr
+24	miliard	NNFP2-----A----	Atr
+25	korun	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+

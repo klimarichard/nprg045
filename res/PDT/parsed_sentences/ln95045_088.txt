@@ -1,0 +1,156 @@
+ln95045-088-p1s1
+1	Další	AANS1----1A----	Atr
+2	jednání	NNNS1-----A----	Sb
+3	komise	NNFS2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	BIS	NNFXX-----A---8	Atr
+6	se	P7-X4----------	AuxR
+7	uskuteční	VB-S---3P-AA---	Pred
+8	možná	Db-------------	AuxY
+9	již	Db-------------	AuxZ
+10	dnes	Db-------------	Adv
+
+ln95045-088-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-088-p2s1B
+1	Další	AANS1----1A----	Atr
+2	jednání	NNNS1-----A----	Sb
+3	parlamentního	AAIS2----1A----	Atr
+4	orgánu	NNIS2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	kontrolu	NNFS4-----A----	Atr
+7	činnosti	NNFS2-----A----	Atr
+8	Bezpečnostní	AAFS2----1A----	Atr
+9	informační	AAFS2----1A----	Atr
+10	služby	NNFS2-----A----	Atr
+11	(	Z:-------------	Apos
+12	BIS	NNFXX-----A---8	Atr
+13	)	Z:-------------	AuxG
+14	by	Vc-------------	AuxV
+15	se	P7-X4----------	AuxR
+16	mohlo	VpNS---XR-AA---	Pred
+17	uskutečnit	Vf--------A----	Obj
+18	již	Db-------------	AuxZ
+19	dnes	Db-------------	Adv
+20	.	Z:-------------	AuxK
+
+ln95045-088-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	předběžné	AAFS2----1A----	Atr
+5	dohody	NNFS2-----A----	Obj
+6	jeho	PSXXXZS3-------	Atr
+7	členů	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95045-088-p2s3
+1	O	RR--6----------	AuxP
+2	jednání	NNNS6-----A----	Obj
+3	se	P7-X4----------	AuxR
+4	však	J^-------------	Coord
+5	definitivně	Dg-------1A----	Adv
+6	rozhodne	VB-S---3P-AA---	Pred
+7	přímo	Dg-------1A----	AuxZ
+8	dnes	Db-------------	Adv
+9	,	Z:-------------	AuxX
+10	kdy	Db-------------	Adv
+11	budou	VB-P---3F-AA---	AuxV
+12	členové	NNMP1-----A----	Sb
+13	orgánu	NNIS2-----A----	Atr
+14	přítomni	ACMP------A----	Adv
+15	v	RR--6----------	AuxP
+16	budově	NNFS6-----A----	Adv
+17	Poslanecké	AAFS2----1A----	Atr
+18	sněmovny	NNFS2-----A----	Atr
+19	na	RR--6----------	AuxP
+20	jednání	NNNS6-----A----	Adv
+21	svých	P8XP2----------	Atr
+22	"	Z:-------------	AuxG
+23	mateřských	AAIP2----1A----	Atr
+24	"	Z:-------------	AuxG
+25	parlamentních	AAIP2----1A----	Atr
+26	výborů	NNIP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95045-088-p3s1
+1	Dnešní	AANS4----1A----	Atr
+2	jednání	NNNS4-----A----	Obj
+3	komise	NNFS2-----A----	Atr
+4	nevyloučili	VpMP---XR-NA---	Pred
+5	jeho	PSXXXZS3-------	Atr
+6	členové	NNMP1-----A----	Atr
+7	Ivan	NNMS1-----A----	Atr
+8	Mašek	NNMS1-----A----	Sb
+9	(	Z:-------------	ExD
+10	ODA	NNFXX-----A---8	ExD
+11	)	Z:-------------	ExD
+12	,	Z:-------------	AuxX
+13	Pavel	NNMS1-----A----	Atr
+14	Severa	NNMS1-----A----	Sb
+15	(	Z:-------------	AuxG
+16	KDU	NNFXX-----A---8	ExD
+17	-	Z:-------------	Coord
+18	ČSL	NNFXX-----A---8	ExD
+19	)	Z:-------------	AuxG
+20	a	J^-------------	Coord
+21	Jan	NNMS1-----A----	Atr
+22	Klas	NNMS1-----A----	Sb
+23	(	Z:-------------	ExD
+24	ODS	NNFXX-----A---8	ExD
+25	)	Z:-------------	ExD
+26	.	Z:-------------	AuxK
+
+ln95045-088-p3s2
+1	Podle	RR--2----------	AuxP
+2	Maška	NNMS2-----A----	Adv
+3	však	J^-------------	Coord
+4	zatím	Db-------------	Adv
+5	není	VB-S---3P-NA---	Pred
+6	stanoven	VsYS---XX-AP---	Pnom
+7	oficiální	AAIS1----1A----	Atr
+8	program	NNIS1-----A----	Sb
+9	eventuálního	AANS2----1A----	Atr
+10	zasedání	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95045-088-p4s1
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	zatím	Db-------------	Adv
+4	není	VB-S---3P-NA---	Adv
+5	zcela	Db-------------	Adv
+6	jasné	AANS1----1A----	Pnom
+7	,	Z:-------------	AuxX
+8	čím	PQ--7----------	Obj
+9	by	Vc-------------	AuxV
+10	se	P7-X4----------	AuxT
+11	poslanci	NNMP1-----A----	Sb
+12	měli	VpMP---XR-AA---	Sb
+13	dnes	Db-------------	Adv
+14	zabývat	Vf--------A----	Obj
+15	,	Z:-------------	AuxX
+16	Severa	NNMS1-----A----	Sb
+17	řekl	VpYS---XR-AA---	Pred
+18	,	Z:-------------	AuxX
+19	že	J,-------------	AuxC
+20	podle	RR--2----------	AuxP
+21	jeho	PSXXXZS3-------	Atr
+22	názoru	NNIS2-----A----	Adv
+23	by	Vc-------------	AuxV
+24	se	P7-X4----------	AuxR
+25	mělo	VpNS---XR-AA---	Obj
+26	pokračovat	Vf--------A----	Obj
+27	ve	RV--6----------	AuxP
+28	studiu	NNNS6-----A----	Obj
+29	materiálů	NNIP2-----A----	Atr
+30	,	Z:-------------	AuxX
+31	které	P4YP4----------	Obj
+32	poslanci	NNMP1-----A----	Sb
+33	zatím	Db-------------	Adv
+34	nestačili	VpMP---XR-NA---	Atr
+35	prostudovat	Vf--------A----	Obj
+36	.	Z:-------------	AuxK
+

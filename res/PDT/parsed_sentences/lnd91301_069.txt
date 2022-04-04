@@ -1,0 +1,133 @@
+lnd91301-069-p1s1
+1	ÚSTUPEK	NNIS1-----A----	ExD
+2	ARMÉNIE	NNFS2-----A----	Atr
+
+lnd91301-069-p2s1
+1	Stačí	VB-S---3P-AA---	Pred
+2	autonomie	NNFS1-----A----	Sb
+
+lnd91301-069-p3s1
+1	MOSKVA	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91301-069-p4s1
+1	Arménie	NNFS1-----A----	Sb
+2	hodlá	VB-S---3P-AA---	Pred
+3	upustit	Vf--------A----	Obj
+4	od	RR--2----------	AuxP
+5	požadavku	NNIS2-----A----	Obj
+6	na	RR--4----------	AuxP
+7	připojení	NNNS4-----A----	Atr
+8	Náhorního	AAIS2----1A----	Atr
+9	Karabachu	NNIS2-----A----	Atr
+10	,	Z:-------------	Apos
+11	arménské	AAFS2----1A----	Atr
+12	enklávy	NNFS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Ázerbájdžánu	NNIS6-----A----	Atr
+15	,	Z:-------------	AuxX
+16	k	RR--3----------	AuxP
+17	vlastnímu	AANS3----1A----	Atr
+18	území	NNNS3-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd91301-069-p4s2
+1	Prohlásil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	v	RR--6----------	AuxP
+4	Jerevanu	NNIS6-----A----	Adv
+5	arménský	AAMS1----1A----	Atr
+6	prezident	NNMS1-----A----	Sb
+7	Levon	NNMS1-----A----	Atr
+8	Ter	NNIS1-----A----	Atr
+9	-	Z:-------------	Apos
+10	Petrosjan	NNMS1-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd91301-069-p4s3
+1	Řekl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	obyvatelstvo	NNNS1-----A----	Sb
+5	Karabachu	NNIS2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	se	P7-X4----------	AuxT
+8	spokojilo	VpNS---XR-AA---	Obj
+9	i	J^-------------	AuxZ
+10	se	RV--7----------	AuxP
+11	statusem	NNIS7-----A----	Obj
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	je	VB-S---3P-AA---	Atr
+15	přiznáván	VsYS---XX-AP---	Pnom
+16	autonomním	AAFP3----1A----	Atr
+17	oblastem	NNFP3-----A----	Obj
+18	v	RR--6----------	AuxP
+19	Ruské	AAFS6----1A----	Atr
+20	federaci	NNFS6-----A----	AtrAdv
+21	.	Z:-------------	AuxK
+
+lnd91301-069-p4s4
+1	Náhorní	AAIS4----1A----	Atr
+2	Karabach	NNIS4-----A----	Obj
+3	ve	RV--4----------	AuxP
+4	čtvrtek	NNIS4-----A----	Adv
+5	opustily	VpTP---XR-AA---	Pred
+6	poslední	AAFP1----1A----	Atr
+7	jednotky	NNFP1-----A----	Sb
+8	vojsk	NNNP2-----A----	Atr
+9	někdejšího	AANS2----1A----	Atr
+10	svazového	AANS2----1A----	Atr
+11	ministerstva	NNNS2-----A----	Atr
+12	vnitra	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd91301-069-p4s5
+1	Představitelé	NNMP1-----A----	Sb
+2	Karabachu	NNIS2-----A----	Atr
+3	dali	VpMP---XR-AA---	Pred
+4	najevo	Db-------------	Adv
+5	rozpaky	NNIP4-----A----	Obj
+6	nad	RR--7----------	AuxP
+7	odsunem	NNIS7-----A----	Atr
+8	"	Z:-------------	AuxG
+9	svazových	AAMP2----1A----	Atr
+10	"	Z:-------------	AuxG
+11	vojáků	NNMP2-----A----	Atr
+12	a	J^-------------	Coord
+13	vyjadřují	VB-P---3P-AA---	Pred
+14	obavy	NNFP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	jejich	PSXXXXP3-------	Atr
+18	oblast	NNFS1-----A----	Sb
+19	se	P7-X4----------	AuxT
+20	stane	VB-S---3P-AA---	Atr
+21	terčem	NNIS7-----A----	Obj
+22	soustředěného	AAIS2----1A----	Atr
+23	náporu	NNIS2-----A----	Atr
+24	ázerbájdžánských	AAFP2----1A----	Atr
+25	bojových	AAFP2----1A----	Atr
+26	skupin	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+lnd91301-069-p4s6
+1	Podle	RR--2----------	AuxP
+2	nezávislých	AAIP2----1N----	Atr
+3	zdrojů	NNIP2-----A----	Adv
+4	pokračují	VB-P---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	karabašském	AANS6----1A----	Atr
+7	správním	AANS6----1A----	Atr
+8	středisku	NNNS6-----A----	Atr
+9	Stěpanakertu	NNIS6-----A----	Adv
+10	i	J^-------------	Coord
+11	v	RR--6----------	AuxP
+12	dalších	AANP6----1A----	Atr
+13	místech	NNNP6-----A----	Adv
+14	Náhorního	AAIS2----1A----	Atr
+15	Karabachu	NNIS2-----A----	Atr
+16	časté	AAFP1----1A----	Atr
+17	přestřelky	NNFP1-----A----	Sb
+18	.	Z:-------------	AuxK
+

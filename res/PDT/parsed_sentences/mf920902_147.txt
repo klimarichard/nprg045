@@ -1,0 +1,164 @@
+mf920902-147-p1s1
+1	HAVÁRIE	NNFS1-----A----	ExD
+2	V	RR--6----------	AuxP
+3	BUŠI	NNFS6-----A----	Atr
+4	.	Z:-------------	AuxK
+
+mf920902-147-p1s2
+1	Letadlo	NNNS1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	41	C=-------------	Atr
+4	novináři	NNMP7-----A----	Atr
+5	na	RR--6----------	AuxP
+6	palubě	NNFS6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4NS1----------	Sb
+9	mířilo	VpNS---XR-AA---	Atr
+10	do	RR--2----------	AuxP
+11	Jižní	AAFS2----1A----	Atr
+12	Afriky	NNFS2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	včera	Db-------------	Adv
+15	havarovalo	VpNS---XR-AA---	Pred
+16	v	RR--6----------	AuxP
+17	jihoangolském	AAIS6----1A----	Atr
+18	buši	NNFS6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+mf920902-147-p1s3
+1	Tři	ClXP1----------	Atr
+2	členové	NNMP1-----A----	Sb
+3	posádky	NNFS2-----A----	Atr
+4	zahynuli	VpMP---XR-AA---	Pred
+5	.	Z:-------------	AuxK
+
+mf920902-147-p2s1
+1	RUSKÉ	AAFP1----1A----	Atr
+2	LODĚ	NNFP1-----A----	ExD
+3	DO	RR--2----------	AuxP
+4	ZÁLIVU	NNIS2-----A----	ExD
+5	.	Z:-------------	AuxK
+
+mf920902-147-p2s2
+1	Dvě	ClHP1----------	Atr
+2	ruská	AANP1----1A----	Atr
+3	vojenská	AANP1----1A----	Atr
+4	plavidla	NNNP1-----A----	Sb
+5	se	P7-X4----------	Obj
+6	připravují	VB-P---3P-AA---	Pred
+7	k	RR--3----------	AuxP
+8	vyplutí	NNNS3-----A----	Adv
+9	do	RR--2----------	AuxP
+10	Perského	AAIS2----1A----	Atr
+11	zálivu	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920902-147-p2s3
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	náčelník	NNMS1-----A----	Atr
+4	generálního	AAIS2----1A----	Atr
+5	štábu	NNIS2-----A----	Atr
+6	ruských	AAFP2----1A----	Atr
+7	ozbrojených	AAFP2----1A----	Atr
+8	sil	NNFP2-----A----	Atr
+9	generálplukovník	NNMS1-----A----	Atr
+10	Dubynin	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+mf920902-147-p2s4
+1	V	RR--6----------	AuxP
+2	Perském	AAIS6----1A----	Atr
+3	zálivu	NNIS6-----A----	Adv
+4	se	P7-X4----------	Obj
+5	zapojí	VB-P---3P-AA---	Pred
+6	do	RR--2----------	AuxP
+7	mise	NNFS2-----A----	Adv
+8	mezinárodních	AAFP2----1A----	Atr
+9	mírových	AAFP2----1A----	Atr
+10	sil	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf920902-147-p3s1
+1	VÝBUCH	NNIS1-----A----	ExD
+2	NA	RR--6----------	AuxP
+3	TRŽIŠTI	NNNS6-----A----	Atr
+4	.	Z:-------------	AuxK
+
+mf920902-147-p3s2
+1	Nejméně	Dg-------3A----	AuxZ
+2	22	C=-------------	Sb
+3	mrtvých	AAMP2----1A----	Atr
+4	a	J^-------------	Coord
+5	40	C=-------------	Sb
+6	raněných	AAMP2----1A----	Atr
+7	si	P7-X3----------	AuxT
+8	vyžádal	VpYS---XR-AA---	Pred
+9	výbuch	NNIS1-----A----	Sb
+10	nálože	NNFS2-----A----	Atr
+11	na	RR--6----------	AuxP
+12	tržišti	NNNS6-----A----	AtrAdv
+13	ve	RV--6----------	AuxP
+14	vesnici	NNFS6-----A----	Atr
+15	Sainthamarathu	NNNS1-----A----	Atr
+16	na	RR--6----------	AuxP
+17	východě	NNIS6-----A----	Atr
+18	Srí	AAFXX----1A----	Atr
+19	Lanky	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf920902-147-p3s3
+1	Nálož	NNFS1-----A----	Sb
+2	byla	VpQW---XR-AA---	AuxV
+3	umístěna	VsQW---XX-AP---	Pred
+4	v	RR--6----------	AuxP
+5	plechovce	NNFS6-----A----	Adv
+6	připevněné	AAFS6----1A----	Atr
+7	ke	RV--3----------	AuxP
+8	kolu	NNNS3-----A----	Adv
+9	.	Z:-------------	AuxK
+
+mf920902-147-p3s4A
+1	Nastražili	VpMP---XR-AA---	Pred
+2	ji	PPFS4--3-------	Obj
+3	zřejmě	Dg-------1A----	AuxZ
+4	příslušníci	NNMP1-----A----	Sb
+5	organizace	NNFS2-----A----	Atr
+6	Tygři	NNMP1-----A----	Atr
+7	osvobození	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	bojuje	VB-S---3P-AA---	Atr
+11	za	RR--4----------	AuxP
+12	vytvoření	NNNS4-----A----	Obj
+13	samostatného	AAIS2----1A----	Atr
+14	tamilského	AAIS2----1A----	Atr
+15	státu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920902-147-p3s4B
+1	ŘIDIČI	NNMP1-----A----	Sb
+2	PROTESTUJÍ	VB-P---3P-AA---	Pred
+3	.	Z:-------------	AuxK
+
+mf920902-147-p3s5
+1	Tisíce	NNIP1-----A----	Sb
+2	španělských	AAMP2----1A----	Atr
+3	řidičů	NNMP2-----A----	Atr
+4	nákladních	AAIP2----1A----	Atr
+5	automobilů	NNIP2-----A----	Atr
+6	zahájily	VpTP---XR-AA---	Pred
+7	včera	Db-------------	Adv
+8	stávku	NNFS4-----A----	Obj
+9	na	RR--4----------	AuxP
+10	protest	NNIS4-----A----	Atr
+11	proti	RR--3----------	AuxP
+12	"	Z:-------------	AuxG
+13	neodpovídající	AGFS3-----N----	Atr
+14	vládní	AAFS3----1A----	Atr
+15	podpoře	NNFS3-----A----	Atr
+16	sektoru	NNIS2-----A----	Atr
+17	dopravy	NNFS2-----A----	Atr
+18	"	Z:-------------	AuxG
+19	.	Z:-------------	AuxK
+

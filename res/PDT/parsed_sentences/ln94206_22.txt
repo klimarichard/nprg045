@@ -1,0 +1,121 @@
+ln94206-22-p1s1
+1	Libovější	AANP1----2A----	Atr
+2	prasata	NNNP1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	domácí	AAIS4----1A----	Atr
+5	trh	NNIS4-----A----	ExD
+
+ln94206-22-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	škr	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94206-22-p2s1B
+1	Ustavení	NNNS4-----A----	Obj
+2	konsorcia	NNNS2-----A----	Atr
+3	osmi	Cn-P2----------	Atr
+4	chovatelských	AAFP2----1A----	Atr
+5	,	Z:-------------	AuxX
+6	zpracovatelských	AAFP2----1A----	Atr
+7	a	J^-------------	Coord
+8	obchodních	AAFP2----1A----	Atr
+9	firem	NNFP2-----A----	Atr
+10	Hysus	NNIS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4NS1----------	Sb
+13	chce	VB-S---3P-AA---	Atr
+14	vyšlechtit	Vf--------A----	Obj
+15	na	RR--6----------	AuxP
+16	Vysočině	NNFS6-----A----	Adv
+17	prase	NNNS4-----A----	Obj
+18	s	RR--7----------	AuxP
+19	větším	AAIS7----2A----	Atr
+20	podílem	NNIS7-----A----	Atr
+21	libového	AANS2----1A----	Atr
+22	masa	NNNS2-----A----	Atr
+23	s	RR--7----------	AuxP
+24	lepší	AAFS7----2A----	Atr
+25	vůní	NNFS7-----A----	Atr
+26	a	J^-------------	Coord
+27	barvou	NNFS7-----A----	Atr
+28	,	Z:-------------	AuxX
+29	povolilo	VpNS---XR-AA---	Pred
+30	ministerstvo	NNNS1-----A----	Sb
+31	pro	RR--4----------	AuxP
+32	hospodářskou	AAFS4----1A----	Atr
+33	soutěž	NNFS4-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94206-22-p2s2
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	tiskový	AAMS1----1A----	Atr
+4	mluvčí	NNMS1-----A----	Atr
+5	ministerstva	NNNS2-----A----	Atr
+6	Jaromír	NNMS1-----A----	Atr
+7	Blažke	NNMS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94206-22-p3s1
+1	Jak	J,-------------	Adv
+2	uvedl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	cílem	NNIS7-----A----	Pnom
+5	sdružení	NNNS2-----A----	Atr
+6	není	VB-S---3P-NA---	Pred
+7	snaha	NNFS1-----A----	Sb
+8	omezit	Vf--------A----	Atr
+9	přístup	NNIS4-----A----	Obj
+10	na	RR--4----------	AuxP
+11	trh	NNIS4-----A----	Atr
+12	ostatním	AAMP3----1A----	Atr
+13	konkurentům	NNMP3-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94206-22-p3s2
+1	Členy	NNMP7-----A----	Pnom
+2	konsorcia	NNNS2-----A----	Atr
+3	jsou	VB-P---3P-AA---	Pred
+4	např	Db------------8	AuxZ
+5	.	Z:-------------	AuxG
+6	firma	NNFS1-----A----	Sb
+7	Kostelecké	AAFP1----1A----	Atr
+8	uzeniny	NNFP1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Agrofarm	NNIS1-----A----	Atr
+11	a	J^-------------	Coord
+12	Agrovysočina	NNFS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94206-22-p3s3
+1	Podíl	NNIS1-----A----	Sb
+2	libového	AANS2----1A----	Atr
+3	masa	NNNS2-----A----	Atr
+4	u	RR--2----------	AuxP
+5	prasat	NNNP2-----A----	Atr
+6	chovaných	AANP2----1A----	Atr
+7	v	RR--6----------	AuxP
+8	ČR	NNFXX-----A---8	Adv
+9	činí	VB-S---3P-AA---	Pred
+10	45	C=-------------	Obj
+11	až	J^-------------	Coord
+12	50	C=-------------	Obj
+13	procent	NNNP2-----A----	Atr
+14	při	RR--6----------	AuxP
+15	porážkové	AAFS6----1A----	Atr
+16	hmotnosti	NNFS6-----A----	Adv
+17	110	C=-------------	Atr
+18	až	J^-------------	Coord
+19	120	C=-------------	Atr
+20	kg	NNIXX-----A---8	Atr
+21	,	Z:-------------	AuxX
+22	zatímco	J,-------------	AuxC
+23	jinde	Db-------------	Adv
+24	dosahuje	VB-S---3P-AA---	Adv
+25	až	TT-------------	AuxZ
+26	55	C=-------------	Atr
+27	procent	NNNP2-----A----	Obj
+28	.	Z:-------------	AuxK
+

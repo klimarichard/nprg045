@@ -1,0 +1,185 @@
+cmpr9415-009-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	3	C=-------------	Atr
+
+cmpr9415-009-p2s1
+1	Kancelář	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	Rekrea	NNFS1-----A----	Atr
+
+cmpr9415-009-p3s1
+1	Oblast	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	ČR	NNFXX-----A---8	ExD
+4	-	Z:-------------	Coord
+5	Jeseníky	NNIP1-----A----	ExD
+
+cmpr9415-009-p4s1
+1	Ubytovací	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Penzion	NNIS1-----A----	ExD
+5	Brněnka	NNFS1-----A----	Atr
+
+cmpr9415-009-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	osobu	NNFS4-----A----	Atr
+4	Kč	NNFXX-----A----	Atr
+5	:	Z:-------------	Pred
+6	1890	C=-------------	Pnom
+
+cmpr9415-009-p6s1
+1	Dítě	NNNS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	Do	RR--2----------	AuxP
+4	7	C=-------------	Atr
+5	let	NNNP2-----A----	ExD
+6	zdarma	Db-------------	ExD
+7	pobyt	NNIS1-----A----	ExD
+8	i	J^-------------	Coord
+9	strava	NNFS1-----A----	ExD
+
+cmpr9415-009-p7s1
+1	Stravování	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	V	RR--6----------	AuxP
+4	ceně	NNFS6-----A----	Adv
+5	pobytu	NNIS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	záloha	NNFS1-----A----	Sb
+8	60	C=-------------	Atr
+9	Kč	NNFXX-----A----	Atr
+10	na	RR--4----------	AuxP
+11	den	NNIS4-----A----	Atr
+
+cmpr9415-009-p8s1
+1	Doprava	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Vlastní	AAFS1----1A----	ExD
+4	,	Z:-------------	AuxX
+5	autobus	NNIS1-----A----	ExD
+6	Branná	NNFS1-----A----	Atr
+7	,	Z:-------------	Coord
+8	vlak	NNIS1-----A----	ExD
+9	Ostružná	NNFS1-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9415-009-p9s1
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Penzion	NNIS1-----A----	Sb
+4	leží	VB-S---3P-AA---	Pred
+5	asi	TT-------------	AuxZ
+6	2.5	C=-------------	Adv
+7	km	NNIXX-----A---8	Atr
+8	od	RR--2----------	AuxP
+9	Branné	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	okrese	NNIS6-----A----	Adv
+12	Šumperk	NNIS1-----A----	Atr
+13	v	RR--6----------	AuxP
+14	klidné	AAFS6----1A----	Atr
+15	krajině	NNFS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+cmpr9415-009-p9s2
+1	Možnost	NNFS1-----A----	ExD
+2	výletů	NNIP2-----A----	Atr
+3	do	RR--2----------	AuxP
+4	Ramzové	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	Ostružné	NNFS2-----A----	Atr
+7	,	Z:-------------	Coord
+8	Lázní	NNFP2-----A----	Atr
+9	Jeseník	NNIS1-----A----	Atr
+10	a	J^-------------	Coord
+11	turistiky	NNFS2-----A----	Atr
+12	na	RR--6----------	AuxP
+13	hřebenu	NNIS6-----A----	Atr
+14	Hrubého	AAIS2----1A----	Atr
+15	Jeseníku	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9415-009-p9s3
+1	Šerák	NNIS1-----A----	Sb
+2	-	Z:-------------	Pred
+3	1353	C=-------------	Pnom
+4	m	NNIXX-----A---8	Atr
+5	n	RR--7---------8	AuxP
+6	.	Z:-------------	AuxG
+7	m	NNNS7-----A----	Atr
+8	.	Z:-------------	Coord
+9	,	Z:-------------	AuxX
+10	Keprník	NNIS1-----A----	Sb
+11	-	Z:-------------	Pred
+12	1423	C=-------------	Pnom
+13	m	NNIXX-----A---8	Atr
+14	n	RR--7---------8	AuxP
+15	.	Z:-------------	AuxG
+16	m	NNNS7-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9415-009-p9s4
+1	Ubytování	NNNS1-----A----	ExD
+2	ve	RV--6----------	AuxP
+3	tří	AAIP6----1A----	ExD
+4	,	Z:-------------	AuxX
+5	čtyř	AAIP6----1A----	ExD
+6	a	J^-------------	Coord
+7	pětilůžkových	AAIP6----1A----	Atr
+8	pokojích	NNIP6-----A----	Atr
+9	s	RR--7----------	AuxP
+10	vlastním	AANS7----1A----	Atr
+11	sociálním	AANS7----1A----	Atr
+12	zařízením	NNNS7-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9415-009-p9s5
+1	Barevná	AAFS1----1A----	Atr
+2	TV	NNFXX-----A---8	ExD
+3	se	RV--7----------	AuxP
+4	satelitním	AAIS7----1A----	Atr
+5	příjmem	NNIS7-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9415-009-p9s6
+1	V	RR--6----------	AuxP
+2	penzionu	NNIS6-----A---1	Adv
+3	je	VB-S---3P-AA---	Pred
+4	stylová	AAFS1----1A----	Atr
+5	vinárna	NNFS1-----A----	Sb
+6	a	J^-------------	Coord
+7	dobře	Dg-------1A----	Adv
+8	vybavený	AAIS1----1A----	Atr
+9	bar	NNIS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+cmpr9415-009-p9s7
+1	U	RR--2----------	AuxP
+2	penzionu	NNIS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	bazén	NNIS1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+cmpr9415-009-p9s8A
+1	U	RR--2----------	AuxP
+2	vchodu	NNIS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	nutno	ACNS------A----	Pnom
+5	se	P7-X4----------	Obj
+6	přezouvat	Vf--------A----	Sb
+7	.	Z:-------------	AuxK
+
+cmpr9415-009-p9s8B
+1	Je	VB-S---3P-AA---	Pred
+2	možno	ACNS------A----	Pnom
+3	dohodnout	Vf--------A----	Sb
+4	s	RR--7----------	AuxP
+5	vedením	NNNS7-----A----	Obj
+6	penzionu	NNIS2-----A----	Atr
+7	odvoz	NNIS4-----A----	Obj
+8	zavazadel	NNNP2-----A----	Atr
+9	.	Z:-------------	AuxK
+

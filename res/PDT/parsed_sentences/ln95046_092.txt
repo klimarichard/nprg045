@@ -1,0 +1,202 @@
+ln95046-092-p1s1
+1	Vláda	NNFS1-----A----	Sb
+2	odmítla	VpQW---XR-AA--1	Pred
+3	poslanecké	AAIP4----1A----	Atr
+4	návrhy	NNIP4-----A----	Obj
+5	zásad	NNFP2-----A----	Atr
+6	zákona	NNIS2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	referendu	NNNS6-----A----	Atr
+
+ln95046-092-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-092-p2s1B
+1	Vláda	NNFS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	odmítla	VpQW---XR-AA--1	Pred
+4	tři	ClXP4----------	Atr
+5	návrhy	NNIP4-----A----	Obj
+6	zásad	NNFP2-----A----	Atr
+7	zákona	NNIS2-----A----	Atr
+8	o	RR--6----------	AuxP
+9	referendu	NNNS6-----A----	Atr
+10	poslanců	NNMP2-----A----	Atr
+11	ČMUS	NNFXX-----A---8	Atr
+12	,	Z:-------------	AuxX
+13	LB	NNIXX-----A---8	Atr
+14	a	J^-------------	Coord
+15	ČSSD	NNFXX-----A---8	Atr
+16	.	Z:-------------	AuxK
+
+ln95046-092-p3s1
+1	Zamítnutí	NNNS4-----A----	Obj
+2	odůvodnil	VpYS---XR-AA---	Pred
+3	premiér	NNMS1-----A----	Atr
+4	V	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Klaus	NNMS1-----A----	Sb
+7	tím	PDZS7----------	Adv
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	návrhy	NNIP1-----A----	Sb
+11	jsou	VB-P---3P-AA---	Atr
+12	v	RR--6----------	AuxP
+13	rozporu	NNIS6-----A----	AuxP
+14	s	RR--7----------	AuxP
+15	ústavou	NNFS7-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95046-092-p3s2
+1	Znamenaly	VpTP---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	porušení	NNNS4-----A----	Obj
+4	principu	NNIS2-----A----	Atr
+5	zastupitelské	AAFS2----1A----	Atr
+6	demokracie	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	ČR	NNFXX-----A---8	AtrAtr
+9	či	J^-------------	Coord
+10	jeho	PSXXXZS3-------	Atr
+11	nahrazení	NNNS4-----A----	Obj
+12	přímou	AAFS7----1A----	Atr
+13	demokracií	NNFS7-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95046-092-p3s3
+1	Referendem	NNNS7-----A----	Adv
+2	by	Vc-------------	AuxV
+3	v	RR--6----------	AuxP
+4	tomto	PDZS6----------	Atr
+5	pojetí	NNNS6-----A----	Adv
+6	bylo	VpNS---XR-AA---	Pred
+7	možno	ACNS------A----	Pnom
+8	například	Db-------------	AuxY
+9	měnit	Vf--------A----	Sb
+10	zákony	NNIP4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95046-092-p3s4
+1	Premiér	NNMS1-----A----	Sb
+2	zdůraznil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	referendum	NNNS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	které	P4NS1----------	Sb
+8	by	Vc-------------	AuxV
+9	se	P7-X4----------	AuxT
+10	týkalo	VpNS---XR-AA---	Atr
+11	konkrétní	AAFS2----1A----	Atr
+12	věci	NNFS2-----A----	Obj
+13	,	Z:-------------	AuxX
+14	je	VB-S---3P-AA---	Obj
+15	v	RR--6----------	AuxP
+16	ústavě	NNFS6-----A----	Adv
+17	zakotveno	VsNS---XX-AP---	Pnom
+18	,	Z:-------------	AuxX
+19	a	J^-------------	Coord
+20	proto	J^-------------	AuxY
+21	je	VB-S---3P-AA---	Obj
+22	speciální	AAIS1----1A----	Atr
+23	zákon	NNIS1-----A----	Sb
+24	zbytečný	AAIS1----1A----	Pnom
+25	.	Z:-------------	AuxK
+
+ln95046-092-p3s5
+1	Vláda	NNFS1-----A----	Sb
+2	rovněž	Db-------------	Adv
+3	zamítla	VpQW---XR-AA--1	Pred
+4	dva	ClYP4----------	Atr
+5	poslanecké	AAIP4----1A----	Atr
+6	návrhy	NNIP4-----A----	Obj
+7	zásad	NNFP2-----A----	Atr
+8	zákonů	NNIP2-----A----	Atr
+9	o	RR--6----------	AuxP
+10	státních	AAIP6----1A----	Atr
+11	svátcích	NNIP6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	které	P4IP1----------	Sb
+14	počítají	VB-P---3P-AA---	Atr
+15	se	RV--7----------	AuxP
+16	zvýšením	NNNS7-----A----	Obj
+17	počtu	NNIS2-----A----	Atr
+18	svátků	NNIP2-----A----	Atr
+19	z	RR--2----------	AuxP
+20	dnešních	AAIP2----1A----	Atr
+21	deseti	Cn-P2----------	Atr
+22	na	RR--4----------	AuxP
+23	12	C=-------------	Atr
+24	,	Z:-------------	AuxX
+25	resp	Db------------8	Coord
+26	.	Z:-------------	AuxG
+27	13	C=-------------	Atr
+28	.	Z:-------------	AuxK
+
+ln95046-092-p3s6
+1	Podle	RR--2----------	AuxP
+2	Klause	NNMS2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	dnešní	AAIS1----1A----	Atr
+5	počet	NNIS1-----A----	Sb
+6	svátků	NNIP2-----A----	Atr
+7	neměl	VpYS---XR-NA---	Pred
+8	být	Vf--------A----	Obj
+9	konečný	AAIS1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	dnes	Db-------------	Adv
+12	bychom	Vc-P---1-------	AuxV
+13	se	P7-X4----------	AuxT
+14	prý	TT-------------	AuxY
+15	ale	J^-------------	Coord
+16	měli	VpMP---XR-AA---	Pred
+17	snažit	Vf--------A----	Obj
+18	přiblížit	Vf--------A----	Obj
+19	Evropě	NNFS3-----A----	Obj
+20	něčím	PZ--7----------	Adv
+21	jiným	AANS7----1A----	Atr
+22	než	J,-------------	AuxC
+23	počtem	NNIS7-----A----	ExD
+24	svátků	NNIP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95046-092-p4s1
+1	Vláda	NNFS1-----A----	Sb
+2	schválila	VpQW---XR-AA---	Pred
+3	i	J^-------------	AuxZ
+4	návrh	NNIS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	obeslání	NNNS4-----A----	Atr
+7	světového	AAIS2----1A----	Atr
+8	summitu	NNIS2-----A----	Atr
+9	pro	RR--4----------	AuxP
+10	sociální	AAIS4----1A----	Atr
+11	rozvoj	NNIS4-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Kodani	NNFS6-----A----	Atr
+14	v	RR--6----------	AuxP
+15	březnu	NNIS6-----A----	AtrAdv
+16	tohoto	PDZS2----------	Atr
+17	roku	NNIS2-----A---1	Atr
+18	.	Z:-------------	AuxK
+
+ln95046-092-p4s2
+1	K	RR--3----------	AuxP
+2	nezařazení	NNNS3-----N----	Adv
+3	zástupce	NNMS2-----A----	Atr
+4	odborů	NNIP2-----A----	Atr
+5	Klaus	NNMS1-----A----	Sb
+6	řekl	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	jde	VB-S---3P-AA---	Obj
+10	o	RR--4----------	AuxP
+11	delegaci	NNFS4-----A----	Obj
+12	vlády	NNFS2-----A----	Atr
+13	,	Z:-------------	Coord
+14	nikoli	Db------------1	AuxZ
+15	různých	AAFP2----1A----	Atr
+16	organizací	NNFP2-----A----	Obj
+17	.	Z:-------------	AuxK
+

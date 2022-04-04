@@ -1,0 +1,130 @@
+mf920902-145-p1s1
+1	Velký	AAIS1----1A----	Atr
+2	lesní	AAIS1----1A----	Atr
+3	požár	NNIS1-----A----	Sb
+4	byl	VpYS---XR-AA---	AuxV
+5	lokalizován	VsYS---XX-AP---	Pred
+
+mf920902-145-p2s1
+1	POLSKO	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf920902-145-p3s1
+1	Velký	AAIS1----1A----	Atr
+2	lesní	AAIS1----1A----	Atr
+3	požár	NNIS1-----A----	Sb
+4	byl	VpYS---XR-AA---	AuxV
+5	lokalizován	VsYS---XX-AP---	Pred
+
+mf920902-145-p4s1
+1	Varšava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920902-145-p4s2
+1	Největší	AAIS4----3A----	Atr
+2	evropský	AAIS4----1A----	Atr
+3	lesní	AAIS4----1A----	Atr
+4	požár	NNIS4-----A----	Obj
+5	z	RR--2----------	AuxP
+6	posledního	AANS2----1A----	Atr
+7	období	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	celý	AAIS4----1A----	Atr
+11	minulý	AAIS4----1A----	Atr
+12	týden	NNIS4-----A----	Adv
+13	řádil	VpYS---XR-AA---	Atr
+14	v	RR--6----------	AuxP
+15	Katovickém	AANS6----1A----	Atr
+16	vojvodství	NNNS6-----A----	Adv
+17	na	RR--6----------	AuxP
+18	jihu	NNIS6-----A----	AtrAdv
+19	Polska	NNNS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	se	P7-X4----------	AuxT
+22	polským	AAMP3----1A----	Atr
+23	hasičům	NNMP3-----A----	Obj
+24	a	J^-------------	Coord
+25	vojákům	NNMP3-----A----	Obj
+26	podařilo	VpNS---XR-AA---	Pred
+27	včera	Db-------------	Adv
+28	dostat	Vf--------A----	Sb
+29	pod	RR--4----------	AuxP
+30	kontrolu	NNFS4-----A----	Adv
+31	.	Z:-------------	AuxK
+
+mf920902-145-p4s3
+1	Požár	NNIS1-----A----	Sb
+2	zničil	VpYS---XR-AA---	Pred
+3	na	RR--4----------	AuxP
+4	deset	Cn-S4----------	Obj
+5	tisíc	ClXS2----------	Atr
+6	hektarů	NNIP2-----A----	Atr
+7	lesů	NNIP2-----A----	Atr
+8	západně	Dg-------1A----	AtrAdv
+9	od	RR--2----------	AuxP
+10	města	NNNS2-----A----	Atr
+11	Katovice	NNFP1-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920902-145-p4s4
+1	Při	RR--6----------	AuxP
+2	hašení	NNNS6-----A----	Adv
+3	požáru	NNIS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	jehož	PJZS2----------	Obj
+6	se	P7-X4----------	AuxT
+7	zúčastnilo	VpNS---XR-AA---	Atr
+8	na	RR--4----------	AuxP
+9	8000	C=-------------	Sb
+10	hasičů	NNMP2-----A----	Atr
+11	a	J^-------------	Coord
+12	vojáků	NNMP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	přes	RR--4----------	AuxP
+15	600	C=-------------	Sb
+16	požárnických	AANP2----1A----	Atr
+17	vozidel	NNNP2-----A----	Atr
+18	,	Z:-------------	Coord
+19	dále	Db------------1	ExD
+20	22	C=-------------	ExD
+21	letadel	NNNP2-----A----	Atr
+22	a	J^-------------	Coord
+23	i	J^-------------	AuxZ
+24	desítka	NNFS1-----A----	ExD
+25	tanků	NNIP2-----A----	Atr
+26	polské	AAFS2----1A----	Atr
+27	armády	NNFS2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	zahynulo	VpNS---XR-AA---	Pred
+30	pět	Cn-S1----------	Sb
+31	lidí	NNMP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+mf920902-145-p4s5
+1	Desítky	NNFP1-----A----	Sb
+2	osob	NNFP2-----A----	Atr
+3	utrpěly	VpTP---XR-AA---	Pred
+4	zranění	NNNP4-----A----	Obj
+5	a	J^-------------	Coord
+6	stovky	NNFP1-----A----	Sb
+7	lidí	NNMP2-----A----	Atr
+8	musely	VpTP---XR-AA---	Pred
+9	být	Vf--------A----	AuxV
+10	vystěhovány	VsTP---XX-AP---	Obj
+11	ze	RV--2----------	AuxP
+12	svých	P8XP2----------	Atr
+13	domovů	NNIP2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+mf920902-145-p4s6
+1	Požáry	NNIP1-----A----	Sb
+2	letos	Db-------------	Adv
+3	v	RR--6----------	AuxP
+4	Polsku	NNNS6-----A----	Adv
+5	zničily	VpTP---XR-AA---	Pred
+6	40000	C=-------------	Obj
+7	hektarů	NNIP2-----A----	Atr
+8	lesů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+

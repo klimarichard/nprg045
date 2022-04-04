@@ -1,0 +1,323 @@
+ln95047-134-p1s1
+1	Kursy	NNIP1-----A----	ExD
+2	*	Z:-------------	Coord
+3	Semináře	NNIP1-----A----	ExD
+
+ln95047-134-p2s1
+1	Programy	NNIP1-----A----	ExD
+2	podpory	NNFS2-----A----	Atr
+3	malého	AANS2----1A----	Atr
+4	a	J^-------------	Coord
+5	středního	AANS2----1A----	Atr
+6	podnikání	NNNS2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	rok	NNIS4-----A----	Atr
+9	1995	C=-------------	Atr
+10	-	Z:-------------	Coord
+11	seminář	NNIS1-----A----	Sb
+12	poskytne	VB-S---3P-AA---	Pred
+13	informace	NNFP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	jak	Db-------------	Adv
+16	získat	Vf--------A----	Atr
+17	státní	AAIS4----1A----	Atr
+18	finanční	AAIS4----1A----	Atr
+19	příspěvek	NNIS4-----A----	Obj
+20	pro	RR--4----------	AuxP
+21	rozvoj	NNIS4-----A----	Atr
+22	firmy	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95047-134-p2s2
+1	Příjemci	NNMP7-----A----	Pnom
+2	podpory	NNFS2-----A----	Atr
+3	mohou	VB-P---3P-AA--1	Pred
+4	být	Vf--------A----	Obj
+5	podnikatelé	NNMP1-----A----	Sb
+6	především	Db-------------	AuxZ
+7	ve	RV--6----------	AuxP
+8	firmách	NNFP6-----A----	Atr
+9	do	RR--2----------	AuxP
+10	24	C=-------------	Atr
+11	zaměstnanců	NNMP2-----A----	Atr
+12	(	Z:-------------	ExD
+13	u	RR--2----------	AuxP
+14	příspěvku	NNIS2-----A----	ExD
+15	na	RR--4----------	AuxP
+16	úhradu	NNFS4-----A----	Atr
+17	úroků	NNIP2-----A----	Atr
+18	)	Z:-------------	ExD
+19	a	J^-------------	Coord
+20	ve	RV--6----------	AuxP
+21	firmách	NNFP6-----A----	Atr
+22	do	RR--2----------	AuxP
+23	500	C=-------------	Atr
+24	zaměstnanců	NNMP2-----A----	Atr
+25	(	Z:-------------	ExD
+26	při	RR--6----------	AuxP
+27	poskytování	NNNS6-----A----	ExD
+28	cenově	Dg-------1A----	Adv
+29	zvýhodněných	AAFP2----1A----	Atr
+30	bankovních	AAFP2----1A----	Atr
+31	záruk	NNFP2-----A----	Atr
+32	)	Z:-------------	ExD
+33	.	Z:-------------	AuxK
+
+ln95047-134-p2s3
+1	Zvláštní	AAIP1----1A----	Atr
+2	programy	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	vyhlášeny	VsTP---XX-AP---	Pnom
+5	pro	RR--4----------	AuxP
+6	rozvoj	NNIS4-----A----	Adv
+7	podnikání	NNNS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	regionech	NNIP6-----A----	Atr
+10	a	J^-------------	Coord
+11	v	RR--6----------	AuxP
+12	městských	AAFP6----1A----	Atr
+13	památkových	AAFP6----1A----	Atr
+14	rezervacích	NNFP6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95047-134-p2s4
+1	Termín	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	místo	NNNS1-----A----	ExD
+4	konání	NNNS2-----A----	Atr
+5	:	Z:-------------	Apos
+6	8	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	března	NNIS2-----A----	ExD
+9	v	RR--6----------	AuxP
+10	Ústí	NNNS6-----A----	ExD
+11	nad	RR--7----------	AuxP
+12	Labem	NNNS7-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95047-134-p2s5
+1	Připravuje	VB-S---3P-AA---	Pred
+2	:	Z:-------------	AuxG
+3	Dům	NNIS1-----A----	Sb
+4	techniky	NNFS2-----A----	Atr
+5	Ústí	NNNS1-----A----	Atr
+6	,	Z:-------------	AuxX
+7	Veleslavínova	AUFS1M---------	Atr
+8	14	C=-------------	Atr
+9	,	Z:-------------	AuxX
+10	400	C=-------------	Atr
+11	11	C=-------------	Atr
+12	Ústí	NNNS1-----A----	Atr
+13	nad	RR--7----------	AuxP
+14	Labem	NNNS7-----A----	Atr
+15	,	Z:-------------	AuxX
+16	tel	NNIXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	:	Z:-------------	AuxG
+19	047	C=-------------	Atr
+20	/	Z:-------------	AuxG
+21	42247	C=-------------	Atr
+22	,	Z:-------------	AuxX
+23	fax	NNIS1-----A----	Atr
+24	:	Z:-------------	AuxG
+25	047	C=-------------	Atr
+26	/	Z:-------------	AuxG
+27	46234	C=-------------	Atr
+28	.	Z:-------------	AuxK
+
+ln95047-134-p2s6
+1	Kurs	NNIS1-----A----	ExD
+2	obchodního	AANS2----1A----	Atr
+3	jednání	NNNS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	oblasti	NNFS6-----A----	AuxP
+6	marketingu	NNIS2-----A----	Atr
+7	a	J^-------------	Coord
+8	prodeje	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95047-134-p2s7
+1	Účastníci	NNMP1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	osvojí	VB-P---3P-AA---	Pred
+4	metody	NNFP4-----A----	Obj
+5	moderního	AAIS2----1A----	Atr
+6	prodeje	NNIS2-----A----	Atr
+7	,	Z:-------------	Coord
+8	komunikační	AAFP4----1A----	Atr
+9	techniky	NNFP4-----A----	Obj
+10	vyjednávání	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	získají	VB-P---3P-AA---	Pred
+13	praktické	AAFP4----1A----	Atr
+14	zkušenosti	NNFP4-----A----	Obj
+15	ve	RV--6----------	AuxP
+16	vedení	NNNS6-----A----	Atr
+17	obchodních	AANP2----1A----	Atr
+18	jednání	NNNP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95047-134-p2s8
+1	Termín	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	místo	NNNS1-----A----	ExD
+4	konání	NNNS2-----A----	Atr
+5	:	Z:-------------	Apos
+6	1	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	3	C=-------------	ExD
+9	.	Z:-------------	AuxG
+10	v	RR--6----------	AuxP
+11	Praze	NNFS6-----A----	ExD
+12	.	Z:-------------	AuxK
+
+ln95047-134-p2s9
+1	Připravuje	VB-S---3P-AA---	Pred
+2	:	Z:-------------	AuxG
+3	Kredo	NNNS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	Milíčova	AUFS1M---------	Atr
+6	13	C=-------------	Atr
+7	,	Z:-------------	AuxX
+8	Praha	NNFS1-----A----	Atr
+9	3	C=-------------	Atr
+10	,	Z:-------------	AuxX
+11	tel	NNIXX-----A---8	Atr
+12	:	Z:-------------	AuxG
+13	(	Z:-------------	AuxG
+14	02	C=-------------	Atr
+15	)	Z:-------------	AuxG
+16	271004	C=-------------	Atr
+17	,	Z:-------------	Coord
+18	(	Z:-------------	AuxG
+19	02	C=-------------	Atr
+20	)	Z:-------------	AuxG
+21	24091606	C=-------------	Atr
+22	,	Z:-------------	AuxX
+23	fax	NNIS1-----A----	Atr
+24	:	Z:-------------	AuxG
+25	(	Z:-------------	AuxG
+26	02	C=-------------	Atr
+27	)	Z:-------------	AuxG
+28	6279337	C=-------------	Atr
+29	,	Z:-------------	Coord
+30	(	Z:-------------	AuxG
+31	02	C=-------------	Atr
+32	)	Z:-------------	AuxG
+33	24222140	C=-------------	Atr
+34	.	Z:-------------	AuxK
+
+ln95047-134-p2s10
+1	Aktuální	AAFP1----1A----	Atr
+2	otázky	NNFP1-----A----	ExD
+3	daně	NNFS2-----A----	Atr
+4	z	RR--2----------	AuxP
+5	příjmu	NNIS2-----A----	Atr
+6	fyzických	AAFP2----1A----	Atr
+7	osob	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Aktuální	AAFP1----1A----	Atr
+10	otázky	NNFP1-----A----	ExD
+11	daně	NNFS2-----A----	Atr
+12	z	RR--2----------	AuxP
+13	příjmu	NNIS2-----A----	Atr
+14	právnických	AAFP2----1A----	Atr
+15	osob	NNFP2-----A----	Atr
+16	,	Z:-------------	Coord
+17	Aktuální	AAFP1----1A----	Atr
+18	otázky	NNFP1-----A----	ExD
+19	DPH	NNFXX-----A---8	Atr
+20	-	Z:-------------	Apos
+21	tři	ClXP1----------	Atr
+22	jednodenní	AAIP1----1A----	Atr
+23	semináře	NNIP1-----A----	ExD
+24	,	Z:-------------	AuxX
+25	které	P4IP1----------	Sb
+26	přiblíží	VB-P---3P-AA---	Atr
+27	současný	AAIS4----1A----	Atr
+28	stav	NNIS4-----A----	Obj
+29	daňové	AAFS2----1A----	Atr
+30	soustavy	NNFS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95047-134-p2s11
+1	Termín	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	místo	NNNS1-----A----	ExD
+4	konání	NNNS2-----A----	Atr
+5	:	Z:-------------	AuxG
+6	6	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	,	Z:-------------	AuxX
+9	7	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	a	J^-------------	Coord
+12	8	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	3	C=-------------	ExD
+15	.	Z:-------------	AuxK
+
+ln95047-134-p2s12
+1	Připravuje	VB-S---3P-AA---	Pred
+2	:	Z:-------------	AuxG
+3	Kredo	NNNS1-----A----	Sb
+4	.	Z:-------------	AuxK
+
+ln95047-134-p2s13
+1	Účtování	NNNS1-----A----	ExD
+2	účetních	AAIP2----1A----	Atr
+3	případů	NNIP2-----A----	Atr
+4	.	Z:-------------	AuxK
+
+ln95047-134-p2s14
+1	Termín	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	místo	NNNS1-----A----	ExD
+4	konání	NNNS2-----A----	Atr
+5	:	Z:-------------	Apos
+6	2	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	3	C=-------------	ExD
+9	.	Z:-------------	AuxG
+10	v	RR--6----------	AuxP
+11	Praze	NNFS6-----A----	ExD
+12	.	Z:-------------	AuxK
+
+ln95047-134-p2s15
+1	Připravuje	VB-S---3P-AA---	Pred
+2	:	Z:-------------	AuxG
+3	Kredo	NNNS1-----A----	Sb
+4	.	Z:-------------	AuxK
+
+ln95047-134-p2s16
+1	Podvojné	AANS1----1A----	Atr
+2	účetnictví	NNNS1-----A----	ExD
+3	-	Z:-------------	Apos
+4	sedmnáctidenní	AAIS1----1A----	Atr
+5	rekvalifikační	AAIS1----1A----	Atr
+6	kurs	NNIS1-----A----	ExD
+7	.	Z:-------------	AuxK
+
+ln95047-134-p2s17
+1	Termín	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	místo	NNNS1-----A----	ExD
+4	konání	NNNS2-----A----	Atr
+5	:	Z:-------------	Apos
+6	6	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	-	Z:-------------	Coord
+9	22	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	3	C=-------------	ExD
+12	.	Z:-------------	AuxG
+13	v	RR--6----------	AuxP
+14	Praze	NNFS6-----A----	ExD
+15	.	Z:-------------	AuxK
+
+ln95047-134-p2s19
+1	Připravuje	VB-S---3P-AA---	Pred
+2	:	Z:-------------	AuxG
+3	Kredo	NNNS1-----A----	Sb
+4	.	Z:-------------	AuxK
+

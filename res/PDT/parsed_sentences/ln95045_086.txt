@@ -1,0 +1,167 @@
+ln95045-086-p1s1
+1	ODA	NNFXX-----A---8	ExD
+2	k	RR--3----------	AuxP
+3	návrhu	NNIS3-----A----	ExD
+4	zákona	NNIS2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	střetu	NNIS6-----A----	Atr
+7	zájmů	NNIP2-----A----	Atr
+
+ln95045-086-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln95045-086-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-086-p2s1C
+1	Součástí	NNFS7-----A----	Pnom
+2	zákona	NNIS2-----A----	Atr
+3	o	RR--6----------	AuxP
+4	střetu	NNIS6-----A----	Atr
+5	zájmů	NNIP2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	mělo	VpNS---XR-AA---	Pred
+8	být	Vf--------A----	Obj
+9	i	J^-------------	AuxZ
+10	ustanovení	NNNS1-----A----	Sb
+11	zakazující	AGNS1-----A----	Atr
+12	členům	NNMP3-----A----	Obj
+13	parlamentních	AAIP2----1A----	Atr
+14	kontrolních	AAIP2----1A----	Atr
+15	orgánů	NNIP2-----A----	Atr
+16	stát	Vf--------A----	Obj
+17	se	P7-X4----------	AuxT
+18	po	RR--4----------	AuxP
+19	dobu	NNFS4-----A----	Adv
+20	pěti	Cn-P2----------	Atr
+21	let	NNNP2-----A----	Atr
+22	od	RR--2----------	AuxP
+23	ukončení	NNNS2-----A----	Atr
+24	mandátu	NNIS2-----A----	Atr
+25	pracovníky	NNMP7-----A----	Obj
+26	kontrolovaných	AAFP2----1A----	Atr
+27	institucí	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95045-086-p2s2
+1	Podle	RR--2----------	AuxP
+2	poslance	NNMS2-----A----	Atr
+3	Oldřicha	NNMS2-----A----	Atr
+4	Kužílka	NNMS2-----A----	Adv
+5	(	Z:-------------	ExD
+6	ODA	NNFXX-----A---8	ExD
+7	)	Z:-------------	ExD
+8	to	PDNS4----------	Obj
+9	hodlá	VB-S---3P-AA---	Pred
+10	prosazovat	Vf--------A----	Obj
+11	poslanecký	AAIS1----1A----	Atr
+12	klub	NNIS1-----A----	Sb
+13	jeho	PSXXXZS3-------	Atr
+14	strany	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95045-086-p3s1
+1	Jako	J,-------------	AuxY
+2	příklad	NNIS4-----A----	Atv
+3	uvedl	VpYS---XR-AA---	Pred
+4	komisi	NNFS4-----A----	Obj
+5	pro	RR--4----------	AuxP
+6	kontrolu	NNFS4-----A----	Atr
+7	Bezpečnostní	AAFS2----1A----	Atr
+8	informační	AAFS2----1A----	Atr
+9	služby	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95045-086-p3s2
+1	Navrhované	AANS1----1A----	Atr
+2	opatření	NNNS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	však	J^-------------	Coord
+5	podle	RR--2----------	AuxP
+6	Kužílka	NNMS2-----A----	Adv
+7	nemá	VB-S---3P-NA---	Pred
+8	týkat	Vf--------A----	Obj
+9	"	Z:-------------	AuxG
+10	šéfovství	NNNS2-----A----	Obj
+11	"	Z:-------------	AuxG
+12	v	RR--6----------	AuxP
+13	jmenovaných	AAFP6----1A----	Atr
+14	organizacích	NNFP6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95045-086-p3s3
+1	Zatímco	J,-------------	AuxC
+2	příslib	NNIS1-----A----	Sb
+3	zapojení	NNNS2-----A----	Atr
+4	poslance	NNMS2-----A----	Atr
+5	do	RR--2----------	AuxP
+6	řad	NNFP2-----A----	Atr
+7	např	Db------------8	AuxZ
+8	.	Z:-------------	AuxG
+9	BIS	NNFXX-----A---8	Atr
+10	po	RR--6----------	AuxP
+11	skončení	NNNS6-----A----	Atr
+12	volebního	AANS2----1A----	Atr
+13	období	NNNS2-----A----	Atr
+14	může	VB-S---3P-AA---	Adv
+15	vést	Vf--------A----	Adv
+16	ke	RV--3----------	AuxP
+17	snížení	NNNS3-----A----	Adv
+18	jeho	PSXXXZS3-------	Atr
+19	kontrolní	AAFS2----1A----	Atr
+20	aktivity	NNFS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	nabídka	NNFS1-----A----	Sb
+23	vedoucí	AGFS2-----A----	Atr
+24	pozice	NNFS2-----A----	Atr
+25	jej	PPZS4--3------2	Obj
+26	bude	VB-S---3F-AA---	AuxV
+27	naopak	Db-------------	Adv
+28	ke	RV--3----------	AuxP
+29	kontrole	NNFS3-----A----	Adv
+30	stimulovat	Vf--------A----	Adv
+31	,	Z:-------------	AuxX
+32	vysvětlil	VpYS---XR-AA---	Pred
+33	poslanec	NNMS1-----A----	Sb
+34	.	Z:-------------	AuxK
+
+ln95045-086-p3s4
+1	Důvodem	NNIS7-----A----	Pnom
+2	navrhovaného	AANS2----1A----	Atr
+3	opatření	NNNS2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	podle	RR--2----------	AuxP
+6	něj	P5ZS2--3-------	Adv
+7	jednak	J^-------------	AuxY
+8	prevence	NNFS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	jednak	J^-------------	Coord
+11	negativní	AAFP1----1A----	Atr
+12	zkušenosti	NNFP1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln95045-086-p3s5
+1	Dodal	VpYS---XR-AA---	Pred
+2	však	J^-------------	Coord
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	neví	VB-S---3P-NA---	Obj
+6	o	RR--6----------	AuxP
+7	nikom	PWM-6----------	Obj
+8	,	Z:-------------	AuxX
+9	kdo	PKM-1----------	Sb
+10	z	RR--2----------	AuxP
+11	komise	NNFS2-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	kontrolu	NNFS4-----A----	Atr
+14	BIS	NNFXX-----A---8	Atr
+15	by	Vc-------------	AuxV
+16	chtěl	VpYS---XR-AA---	Atr
+17	dělat	Vf--------A----	Obj
+18	v	RR--6----------	AuxP
+19	kontrarozvědce	NNFS6-----A----	Adv
+20	.	Z:-------------	AuxK
+

@@ -1,0 +1,271 @@
+ln94207-15-p1s1
+1	Cena	NNFS1-----A----	ExD
+2	života	NNIS2-----A----	Atr
+
+ln94207-15-p2s1A
+1	Komentář	NNIS1-----A----	ExD
+
+ln94207-15-p2s1B
+1	Petr	NNMS1-----A----	Atr
+2	Tomíček	NNMS1-----A----	ExD
+
+ln94207-15-p2s1C
+1	Jakub	NNMS1-----A----	Sb
+2	leží	VB-S---3P-AA---	Pred
+3	na	RR--6----------	AuxP
+4	dětské	AAFS6----1A----	Atr
+5	klinice	NNFS6-----A----	Adv
+6	Fakultní	AAFS2----1A----	Atr
+7	nemocnice	NNFS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Olomouci	NNFS6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94207-15-p2s2
+1	Lékaři	NNMP1-----A----	Sb
+2	Jakuba	NNMS4-----A----	Obj
+3	připravují	VB-P---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	nepříbuzenskou	AAFS4----1N----	Atr
+6	transplantaci	NNFS4-----A----	Obj
+7	kostní	AAFS2----1A----	Atr
+8	dřeně	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94207-15-p2s3
+1	Jakub	NNMS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	operován	VsYS---XX-AP---	Pred
+4	v	RR--6----------	AuxP
+5	Anglii	NNFS6-----A----	Adv
+6	.	Z:-------------	AuxK
+
+ln94207-15-p2s4
+1	Jakub	NNMS1-----A----	Sb
+2	nemá	VB-S---3P-NA---	Pred
+3	jinou	AAFS4----1A----	Atr
+4	možnost	NNFS4-----A----	Obj
+5	,	Z:-------------	Coord
+6	jeho	PSXXXZS3-------	Atr
+7	rodina	NNFS1-----A----	Sb
+8	potřebuje	VB-S---3P-AA---	Pred
+9	k	RR--3----------	AuxP
+10	zaplacení	NNNS3-----A----	Adv
+11	nákladů	NNIP2-----A----	Atr
+12	na	RR--4----------	AuxP
+13	operaci	NNFS4-----A----	Atr
+14	shromáždit	Vf--------A----	Obj
+15	5	C=-------------	Obj
+16	milionů	NNIP2-----A----	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94207-15-p2s5
+1	Jakub	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	odkázán	VsYS---XX-AP---	Pnom
+4	na	RR--4----------	AuxP
+5	pomoc	NNFS4-----A----	Obj
+6	a	J^-------------	Coord
+7	ochotu	NNFS4-----A----	Obj
+8	nás	PP-P2--1-------	Atr
+9	,	Z:-------------	Apos
+10	řadových	AAMP2----1A----	Atr
+11	občanů	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94207-15-p2s6
+1	O	RR--4----------	AuxP
+2	nemocného	NNMS4-----A----	Atr
+3	člověka	NNMS4-----A----	Obj
+4	se	P7-X4----------	AuxT
+5	tedy	Db-------------	AuxY
+6	nepostará	VB-S---3P-NA---	Pred
+7	stát	NNIS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	rozhodující	AGFS1-----A----	Pnom
+11	je	VB-S---3P-AA---	Pred
+12	v	RR--6----------	AuxP
+13	daném	AAIS6----1A----	Atr
+14	případě	NNIS6-----A----	Adv
+15	šikovnost	NNFS1-----A----	Sb
+16	rodiny	NNFS2-----A----	Atr
+17	a	J^-------------	Coord
+18	známých	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94207-15-p2s7
+1	Rychlost	NNFS1-----A----	ExD
+2	s	RR--7----------	AuxP
+3	jakou	P4FS7----------	Adv
+4	zřídí	VB-P---3P-AA---	Atr
+5	bankovní	AANS4----1A----	Atr
+6	konto	NNNS4-----A----	Obj
+7	a	J^-------------	Coord
+8	zveřejní	VB-P---3P-AA---	Atr
+9	jeho	PSXXXZS3-------	Atr
+10	číselný	AAIS4----1A----	Atr
+11	kód	NNIS4-----A----	Obj
+12	v	RR--6----------	AuxP
+13	tisku	NNIS6-----A----	Adv
+14	s	RR--7----------	AuxP
+15	žádostí	NNFS7-----A----	Adv
+16	o	RR--4----------	AuxP
+17	příspěvek	NNIS4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94207-15-p2s8
+1	To	PDNS1----------	Sb
+2	věc	NNFS4-----A----	Obj
+3	vyřeší	VB-S---3P-AA---	Pred
+4	(	Z:-------------	AuxG
+5	nebo	J^-------------	Coord
+6	také	Db-------------	Adv
+7	nevyřeší	VB-S---3P-NA---	Pred
+8	)	Z:-------------	AuxG
+9	pouze	Db-------------	AuxZ
+10	v	RR--6----------	AuxP
+11	daném	AAIS6----1A----	Atr
+12	konkrétním	AAIS6----1A----	Atr
+13	případě	NNIS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94207-15-p2s9
+1	Veřejnost	NNFS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	na	RR--4----------	AuxP
+4	podobné	AAFP4----1A----	Atr
+5	výzvy	NNFP4-----A----	Obj
+6	již	Db-------------	Adv
+7	zvykla	VpQW---XR-AA--1	Pred
+8	.	Z:-------------	AuxK
+
+ln94207-15-p2s10
+1	Většinou	Db-------------	Adv
+2	ochotně	Dg-------1A----	Adv
+3	pomáhá	VB-S---3P-AA---	Pred
+4	.	Z:-------------	AuxK
+
+ln94207-15-p2s11
+1	Někdy	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	peníze	NNIP1-----A----	Sb
+4	shromažďují	VB-P---3P-AA---	Pred
+5	pomalu	Db-------------	Adv
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	přece	Db-------------	Adv
+9	.	Z:-------------	AuxK
+
+ln94207-15-p2s12
+1	Žádné	PWNS1----------	Atr
+2	-	Z:-------------	AuxG
+3	ale	J^-------------	Atr
+4	přece	Db-------------	Sb
+5	-	Z:-------------	AuxG
+6	tu	Db------------1	Adv
+7	však	J^-------------	Coord
+8	neplatí	VB-S---3P-NA---	Pred
+9	.	Z:-------------	AuxK
+
+ln94207-15-p2s13
+1	Nemoc	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	potvora	NNFS1-----A----	Pnom
+4	,	Z:-------------	Coord
+5	každým	AAIS7----1A----	Atr
+6	dnem	NNIS7-----A----	Adv
+7	se	P7-X4----------	AuxT
+8	obvykle	Dg-------1A----	Adv
+9	zhoršuje	VB-S---3P-AA---	Pred
+10	.	Z:-------------	AuxK
+
+ln94207-15-p2s14
+1	Řešení	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	několikrát	Co-------------	Adv
+4	hledalo	VpNS---XR-AA---	Pred
+5	na	RR--6----------	AuxP
+6	těch	PDXP6----------	Atr
+7	nejvyšších	AANP6----3A----	Atr
+8	místech	NNNP6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln94207-15-p2s15
+1	Je	VB-S---3P-AA---	Pred
+2	absurdní	AANS1----1A----	Pnom
+3	obracet	Vf--------A----	Sb
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	podobné	AAFS6----1A----	Atr
+7	záležitosti	NNFS6-----A----	Adv
+8	na	RR--4----------	AuxP
+9	široké	AAFP4----1A----	Atr
+10	vrstvy	NNFP4-----A----	Obj
+11	obyvatelstva	NNNS2-----A----	Atr
+12	bez	RR--2----------	AuxP
+13	možnosti	NNFS2-----A----	Adv
+14	záchrany	NNFS2-----A----	Atr
+15	ze	RV--2----------	AuxP
+16	strany	NNFS2-----A----	AuxP
+17	státu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94207-15-p2s16
+1	Diskuse	NNFP1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	zřízení	NNNS6-----A----	Atr
+4	zvláštního	AANS2----1A----	Atr
+5	konta	NNNS2-----A----	Atr
+6	při	RR--6----------	AuxP
+7	ministerstvu	NNNS6-----A----	Atr
+8	zdravotnictví	NNNS2-----A----	Atr
+9	se	P7-X4----------	AuxR
+10	vedly	VpTP---XR-AA---	Pred
+11	mnohokrát	Co-------------	Adv
+12	.	Z:-------------	AuxK
+
+ln94207-15-p2s17
+1	Řeči	NNFP1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	vedou	VB-P---3P-AA---	Pred
+4	a	J^-------------	Coord
+5	voda	NNFS1-----A----	ExD
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+9	.	Z:-------------	AuxK
+
+ln94207-15-p2s18
+1	Možná	Db-------------	ExD
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	v	RR--6----------	AuxP
+5	tomto	PDZS6----------	Atr
+6	okamžiku	NNIS6-----A----	Adv
+7	lékaře	NNMS4-----A----	Obj
+8	navštívil	VpYS---XR-AA---	ExD
+9	další	AAMS1----1A----	Atr
+10	těžce	Dg-------1A----	Adv
+11	nemocný	AAMS1----1A----	Atr
+12	pacient	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94207-15-p2s19
+1	Člověk	NNMS1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	kterého	P4MS4----------	Obj
+4	bude	VB-S---3F-AA---	AuxV
+5	muset	Vf--------A----	Atr
+6	-	Z:-------------	AuxG
+7	za	RR--4----------	AuxP
+8	devizový	AAIS4----1A----	Atr
+9	peníz	NNIS4-----A----	Adv
+10	-	Z:-------------	AuxG
+11	zachraňovat	Vf--------A----	Obj
+12	tým	NNIS1-----A----	Sb
+13	zahraničních	AAMP2----1A----	Atr
+14	specialistů	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+

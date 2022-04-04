@@ -1,0 +1,225 @@
+ln95045-102-p1s1
+1	Splácení	NNNS1-----A----	Sb
+2	školného	NNNS2-----A----	Atr
+3	nebude	VB-S---3F-NA---	Pred
+4	podle	RR--2----------	AuxP
+5	výpočtů	NNIP2-----A----	Adv
+6	bolestivé	AANS1----1A----	Pnom
+
+ln95045-102-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-102-p2s1B
+1	Běžná	AAFS1----1A----	Atr
+2	měsíční	AAFS1----1A----	Atr
+3	splátka	NNFS1-----A----	Sb
+4	na	RR--4----------	AuxP
+5	školné	NNNS4-----A----	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	pravděpodobně	Dg-------1A----	AuxY
+8	odpovídat	Vf--------A----	Pred
+9	dnešním	AAFP3----1A----	Atr
+10	220	C=-------------	Atr
+11	a	J^-------------	Coord
+12	později	Dg-------2A----	ExD
+13	dokonce	Db-------------	AuxZ
+14	100	C=-------------	ExD
+15	korunám	NNFP3-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95045-102-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	modelového	AAIS2----1A----	Atr
+5	výpočtu	NNIS2-----A----	Obj
+6	,	Z:-------------	AuxX
+7	který	P4IS4----------	Obj
+8	včera	Db-------------	Adv
+9	novinářům	NNMP3-----A----	Obj
+10	poskytlo	VpNS---XR-AA--1	Atr
+11	vedení	NNNS1-----A----	Sb
+12	ministerstva	NNNS2-----A----	Atr
+13	školství	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95045-102-p2s3
+1	Na	RR--6----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	základě	NNIS6-----A----	Adv
+4	si	P7-X3----------	Adv
+5	lze	VB-S---3P-AA---	Pred
+6	udělat	Vf--------A----	Sb
+7	představu	NNFS4-----A----	Obj
+8	o	RR--6----------	AuxP
+9	finančním	AANS6----1A----	Atr
+10	zatížení	NNNS6-----A----	Atr
+11	vysokoškoláka	NNMS2-----A----	Atr
+12	eventuálním	AANS7----1A----	Atr
+13	školným	NNNS7-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95045-102-p3s1
+1	Model	NNIS1-----A----	Sb
+2	počítá	VB-S---3P-AA---	Pred
+3	s	RR--7----------	AuxP
+4	nadprůměrným	AAIS7----1A----	Atr
+5	poplatkem	NNIS7-----A----	Obj
+6	8000	C=-------------	Atr
+7	Kč	NNFXX-----A----	Atr
+8	ročně	Dg-------1A----	Atr
+9	a	J^-------------	Coord
+10	předpokládá	VB-S---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	si	P7-X3----------	Adv
+14	student	NNMS1-----A----	Sb
+15	v	RR--6----------	AuxP
+16	bance	NNFS6-----A----	Adv
+17	půjčí	VB-S---3P-AA---	Obj
+18	polovinu	NNFS4-----A----	Obj
+19	této	PDFS2----------	Atr
+20	částky	NNFS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	protože	J,-------------	AuxC
+23	druhou	CrFS4----------	ExD
+24	si	P7-X3----------	Adv
+25	vydělá	VB-S---3P-AA---	Adv
+26	na	RR--6----------	AuxP
+27	prázdninové	AAFS6----1A----	Atr
+28	brigádě	NNFS6-----A----	Adv
+29	.	Z:-------------	AuxK
+
+ln95045-102-p3s2
+1	Dluh	NNIS4-----A----	Obj
+2	začne	VB-S---3P-AA---	Pred
+3	splácet	Vf--------A----	Obj
+4	dva	ClYP4----------	Atr
+5	roky	NNIP4-----A----	Adv
+6	po	RR--6----------	AuxP
+7	absolvování	NNNS6-----A----	Atr
+8	pětiletého	AANS2----1A----	Atr
+9	studia	NNNS2-----A----	Atr
+10	a	J^-------------	Coord
+11	bude	VB-S---3F-AA---	AuxV
+12	jej	PPZS4--3------2	Obj
+13	umořovat	Vf--------A----	Pred
+14	celkem	Db-------------	AuxZ
+15	osm	Cn-S4----------	Adv
+16	let	NNNP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95045-102-p3s3
+1	Kalkuluje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	s	RR--7----------	AuxP
+4	10	C=-------------	Adv
+5	%	Z:-------------	Atr
+6	inflací	NNFS7-----A----	Obj
+7	,	Z:-------------	AuxX
+8	10	C=-------------	Adv
+9	%	Z:-------------	Atr
+10	ročním	AAIS7----1A----	Atr
+11	nárůstem	NNIS7-----A----	Obj
+12	platu	NNIS2-----A----	Atr
+13	a	J^-------------	Coord
+14	12.5	C=-------------	Adv
+15	%	Z:-------------	Atr
+16	úrokem	NNIS7-----A----	Obj
+17	na	RR--4----------	AuxP
+18	půjčku	NNFS4-----A----	Atr
+19	od	RR--2----------	AuxP
+20	banky	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-102-p3s4
+1	Dále	Db------------1	ExD
+2	s	RR--7----------	AuxP
+3	platovým	AANS7----1A----	Atr
+4	zařazením	NNNS7-----A----	ExD
+5	v	RR--6----------	AuxP
+6	prvním	CrIS6----------	Atr
+7	stupni	NNIS6-----A----	Atr
+8	9	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	platové	AAFS2----1A----	Atr
+11	třídy	NNFS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	prvním	CrIS6----------	Atr
+14	roce	NNIS6-----A---1	Atr
+15	splácení	NNNS2-----A----	Atr
+16	a	J^-------------	Coord
+17	10	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	třídou	NNFS7-----A----	ExD
+20	v	RR--6----------	AuxP
+21	posledním	AAIS6----1A----	Atr
+22	roce	NNIS6-----A---1	Atr
+23	.	Z:-------------	AuxK
+
+ln95045-102-p4s1
+1	Podle	RR--2----------	AuxP
+2	modelového	AAIS2----1A----	Atr
+3	výpočtu	NNIS2-----A----	Adv
+4	bude	VB-S---3F-AA---	Pred
+5	výsledná	AAFS1----1A----	Atr
+6	měsíční	AAFS1----1A----	Atr
+7	splátka	NNFS1-----A----	Sb
+8	425	C=-------------	Pnom
+9	Kč	NNFXX-----A----	Atr
+10	,	Z:-------------	Coord
+11	což	PE--1----------	Sb
+12	by	Vc-------------	AuxV
+13	mělo	VpNS---XR-AA---	Pred
+14	představovat	Vf--------A----	Obj
+15	4.3	C=-------------	Atr
+16	%	Z:-------------	Obj
+17	platu	NNIS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	prvním	CrIS6----------	Atr
+20	roce	NNIS6-----A---1	Atr
+21	splácení	NNNS2-----A----	Atr
+22	a	J^-------------	Coord
+23	1.6	C=-------------	Atr
+24	%	Z:-------------	Obj
+25	platu	NNIS2-----A----	Atr
+26	v	RR--6----------	AuxP
+27	posledním	AAIS6----1A----	Atr
+28	roce	NNIS6-----A---1	Atr
+29	.	Z:-------------	AuxK
+
+ln95045-102-p4s2
+1	Vztaženo	VsNS---XX-AP---	Atv
+2	k	RR--3----------	AuxP
+3	současné	AAFS3----1A----	Atr
+4	výši	NNFS3-----A----	Adv
+5	platu	NNIS2-----A----	Atr
+6	začínajícího	AGMS2-----A----	Atr
+7	absolventa	NNMS2-----A----	Atr
+8	vysoké	AAFS2----1A----	Atr
+9	školy	NNFS2-----A----	Atr
+10	to	PDNS1----------	Sb
+11	odpovídá	VB-S---3P-AA---	Pred
+12	dnešní	AAFS3----1A----	Atr
+13	měsíční	AAFS3----1A----	Atr
+14	splátce	NNFS3-----A----	Obj
+15	220	C=-------------	Atr
+16	Kč	NNFXX-----A----	Atr
+17	na	RR--6----------	AuxP
+18	počátku	NNIS6-----A----	Atr
+19	splácení	NNNS2-----A----	Atr
+20	a	J^-------------	Coord
+21	100	C=-------------	Atr
+22	Kč	NNFXX-----A----	Atr
+23	na	RR--6----------	AuxP
+24	konci	NNIS6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95045-102-p4s3
+1	Další	AAFP1----1A----	Atr
+2	informace	NNFP1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	straně	NNFS6-----A----	Atr
+5	2	C=-------------	Atr
+

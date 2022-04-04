@@ -1,0 +1,125 @@
+ln95043-058-p1s1
+1	Uhořelý	AAMS1----1A----	Atr
+2	muž	NNMS1-----A----	Sb
+3	zemřel	VpYS---XR-AA---	Pred
+4	násilnou	AAFS7----1A----	Atr
+5	smrtí	NNFS7-----A----	Adv
+
+ln95043-058-p2s1A
+1	Ústí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Labem	NNNS7-----A----	Atr
+4	-	Z:-------------	AuxK
+
+ln95043-058-p2s1B
+1	Severočeská	AAFS1----1A----	Atr
+2	policie	NNFS1-----A----	Sb
+3	naléhavě	Dg-------1A----	Adv
+4	žádá	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	souvislosti	NNFS6-----A----	AuxP
+7	s	RR--7----------	AuxP
+8	nálezem	NNIS7-----A----	Adv
+9	ohořelého	AANS2----1A----	Atr
+10	těla	NNNS2-----A----	Atr
+11	neznámého	AAMS2----1N----	Atr
+12	muže	NNMS2-----A----	Atr
+13	poblíž	Db-------------	AuxP
+14	Mikulova	NNIS2-----A----	Atr
+15	na	RR--6----------	AuxP
+16	Teplicku	NNNS6-----A----	Atr
+17	o	RR--4----------	AuxP
+18	pomoc	NNFS4-----A----	Obj
+19	posádku	NNFS4-----A----	Obj
+20	vozidla	NNNS2-----A----	Atr
+21	značky	NNFS2-----A----	Atr
+22	Škoda	NNFS1-----A----	Atr
+23	Garde	NNNXX-----A----	Atr
+24	tmavé	AAFS2----1A----	Atr
+25	barvy	NNFS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	snad	Db-------------	AuxZ
+28	červené	AAFS2----1A----	Atr
+29	,	Z:-------------	AuxX
+30	která	P4FS1----------	Sb
+31	projížděla	VpQW---XR-AA---	Atr
+32	kolem	RR--2----------	AuxP
+33	hořící	AGFS2-----A----	Atr
+34	škodovky	NNFS2-----A----	Adv
+35	.	Z:-------------	AuxK
+
+ln95043-058-p2s2
+1	Zmíněná	AAFS1----1A----	Atr
+2	posádka	NNFS1-----A----	Sb
+3	nahlásila	VpQW---XR-AA---	Pred
+4	požár	NNIS4-----A----	Obj
+5	zaměstnancům	NNMP3-----A----	Obj
+6	horské	AAFS2----1A----	Atr
+7	chaty	NNFS2-----A----	Atr
+8	Bendlovka	NNFS1-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95043-058-p2s3
+1	Po	RR--6----------	AuxP
+2	uhašení	NNNS6-----A----	Adv
+3	požáru	NNIS2-----A----	Atr
+4	byla	VpQW---XR-AA---	AuxV
+5	v	RR--6----------	AuxP
+6	autě	NNNS6-----A----	Adv
+7	objevena	VsQW---XX-AP---	Pred
+8	mrtvola	NNFS1-----A----	Sb
+9	neznámého	AAMS2----1N----	Atr
+10	muže	NNMS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95043-058-p2s4
+1	Soudní	AAFS1----1A----	Atr
+2	pitva	NNFS1-----A----	Sb
+3	prokázala	VpQW---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	muž	NNMS1-----A----	Sb
+7	zemřel	VpYS---XR-AA---	Obj
+8	násilnou	AAFS7----1A----	Atr
+9	smrtí	NNFS7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95043-058-p2s5
+1	Policie	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	obrací	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	všechny	PLYP4----------	Atr
+6	občany	NNMP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kteří	P4MP1----------	Sb
+9	se	P7-X4----------	AuxT
+10	v	RR--6----------	AuxP
+11	době	NNFS6-----A----	Adv
+12	od	RR--2----------	AuxP
+13	19	C=-------------	ExD
+14	do	RR--2----------	AuxP
+15	20	C=-------------	Atr
+16	hodin	NNFP2-----A----	Atr
+17	14	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	února	NNIS2-----A---1	Adv
+20	pohybovali	VpMP---XR-AA---	Atr
+21	u	RR--2----------	AuxP
+22	odbočky	NNFS2-----A----	Adv
+23	k	RR--3----------	AuxP
+24	horské	AAFS3----1A----	Atr
+25	chatě	NNFS3-----A----	Atr
+26	Vitiška	NNFS1-----A----	Atr
+27	mezi	RR--7----------	AuxP
+28	obcemi	NNFP7-----A----	Atr
+29	Mikulov	NNIS1-----A----	Atr
+30	a	J^-------------	Coord
+31	Nové	AANS1----1A----	Atr
+32	Město	NNNS1-----A----	Atr
+33	,	Z:-------------	AuxX
+34	aby	J,-------------	AuxC
+35	poskytli	VpMP---XR-AA--1	Adv
+36	svědectví	NNNS4-----A----	Obj
+37	.	Z:-------------	AuxK
+

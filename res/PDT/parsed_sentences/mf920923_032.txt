@@ -1,0 +1,148 @@
+mf920923-032-p1s1
+1	Delta	NNFS1-----A----	Sb
+2	99	C=-------------	Atr
+3	chyběla	VpQW---XR-AA---	Pred
+
+mf920923-032-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	brp	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920923-032-p2s2
+1	Mezinárodní	AAFS1----1A----	Atr
+2	prodejní	AAFS1----1A----	Atr
+3	a	J^-------------	Coord
+4	kontaktní	AAFS1----1A----	Atr
+5	výstava	NNFS1-----A----	Sb
+6	automobilů	NNIP2-----A----	Atr
+7	Motor	NNIS1-----A----	Atr
+8	Show	NNFXX-----A----	Atr
+9	'	Z:-------------	AuxG
+10	92	C=-------------	Atr
+11	začne	VB-S---3P-AA---	Pred
+12	dnes	Db-------------	Adv
+13	v	RR--6----------	AuxP
+14	pražském	AAIS6----1A----	Atr
+15	Paláci	NNIS6-----A----	Adv
+16	kultury	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920923-032-p2s3
+1	Salón	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4IS4----------	Obj
+4	pořádají	VB-P---3P-AA---	Atr
+5	londýnská	AAFS1----1A----	Atr
+6	firma	NNFS1-----A----	Sb
+7	International	NNXXX-----A---1	Atr
+8	Trade	NNIXX-----A----	Atr
+9	and	J^-------------	Coord
+10	Exibitions	NNFPX-----A----	Atr
+11	Ltd	AAXXX----1A---8	Atr
+12	ve	RV--6----------	AuxP
+13	spolupráci	NNFS6-----A----	AtrAdv
+14	s	RR--7----------	AuxP
+15	pražskou	AAFS7----1A----	Atr
+16	firmou	NNFS7-----A----	Atr
+17	CS	AAXXX----1A---8	Atr
+18	Crossland	NNIXX-----A----	Atr
+19	s	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	r	NNNS7-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	o	AANS7----1A---8	Atr
+24	.	Z:-------------	AuxG
+25	,	Z:-------------	AuxX
+26	představí	VB-S---3P-AA---	Pred
+27	poprvé	Cv-------------	Adv
+28	v	RR--6----------	AuxP
+29	Československu	NNNS6-----A----	Adv
+30	supersportovní	AAFS4----1A----	Atr
+31	verzi	NNFS4-----A----	Obj
+32	Chevroletu	NNIS2-----A----	Atr
+33	Corvette	NNFXX-----A----	Atr
+34	.	Z:-------------	AuxK
+
+mf920923-032-p2s4
+1	Lahůdkou	NNFS7-----A----	Pnom
+2	bude	VB-S---3F-AA---	Pred
+3	také	Db-------------	Adv
+4	vylepšený	AAIS1----1A----	Atr
+5	Mercedes	NNIS1-----A----	Sb
+6	AMG	NNNXX-----A----	Atr
+7	500	C=-------------	Atr
+8	SL	NNNXX-----A----	Atr
+9	6.0	C=-------------	Atr
+10	.	Z:-------------	AuxK
+
+mf920923-032-p2s5
+1	Oba	ClYP4----------	Atr
+2	modely	NNIP4-----A----	Obj
+3	vystavuje	VB-S---3P-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	své	P8FS6---------1	Atr
+6	expozici	NNFS6-----A----	Adv
+7	naše	PSHS1-P1-------	Atr
+8	společnost	NNFS1-----A----	Sb
+9	Beso	NNNS1-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf920923-032-p2s6
+1	Z	RR--2----------	AuxP
+2	domácích	AAFP2----1A----	Atr
+3	firem	NNFP2-----A----	Adv
+4	představí	VB-S---3P-AA---	Pred
+5	novinku	NNFS4-----A----	Obj
+6	mladoboleslavská	AAFS1----1A----	Atr
+7	Škoda	NNFS1-----A----	Sb
+8	:	Z:-------------	Apos
+9	pick	AAXXX----1A----	Obj
+10	-	Z:-------------	AuxG
+11	up	NNIS1-----A----	Atr
+12	s	RR--7----------	AuxP
+13	chladicí	AAFS7----1A----	Atr
+14	skříní	NNFS7-----A----	Atr
+15	opavské	AAFS2----1A----	Atr
+16	továrny	NNFS2-----A----	Atr
+17	Atrei	NNMS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920923-032-p2s7
+1	Naopak	Db-------------	Adv
+2	velmi	Db-------------	Adv
+3	očekávaný	AAIS1----1A----	Atr
+4	model	NNIS1-----A----	Sb
+5	Delta	NNFS1-----A----	Atr
+6	99	C=-------------	Atr
+7	liberecké	AAFS2----1A----	Atr
+8	společnosti	NNFS2-----A----	Atr
+9	Auto	NNNS1-----A----	Atr
+10	Delta	NNFS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	by	Vc-------------	AuxV
+14	měl	VpYS---XR-AA---	Atr
+15	stát	Vf--------A----	Obj
+16	méně	Dg-------2A----	Adv
+17	než	J,-------------	AuxC
+18	sto	NNNS4-----A----	Adv
+19	tisíc	ClXS2----------	Atr
+20	korun	NNFP2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	se	P7-X4----------	AuxT
+23	do	RR--2----------	AuxP
+24	včerejška	NNIS2-----A----	Adv
+25	v	RR--6----------	AuxP
+26	Paláci	NNIS6-----A----	Adv
+27	kultury	NNFS2-----A----	Atr
+28	neobjevil	VpYS---XR-NA---	Pred
+29	,	Z:-------------	Coord
+30	snad	Db-------------	AuxY
+31	by	Vc-------------	AuxV
+32	měl	VpYS---XR-AA---	Pred
+33	dorazit	Vf--------A----	Obj
+34	dnes	Db-------------	Adv
+35	.	Z:-------------	AuxK
+

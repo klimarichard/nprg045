@@ -1,0 +1,263 @@
+ln95047-125-p1s1
+1	Výkonnost	NNFS1-----A----	Sb
+2	počítačů	NNIP2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	zvýší	VB-S---3P-AA---	Pred
+
+ln95047-125-p2s1A
+1	Digital	NNIS1-----A----	Sb
+2	míří	VB-S---3P-AA---	Pred
+3	mezi	RR--4----------	AuxP
+4	pět	Cn-S4----------	Adv
+5	prvních	CrMP2----------	Atr
+6	výrobců	NNMP2-----A----	Atr
+7	PC	NNNXX-----A---8	Atr
+8	.	Z:-------------	AuxK
+
+ln95047-125-p2s1B
+1	Jednoduchá	AAFS1----1A----	Atr
+2	výměna	NNFS1-----A----	ExD
+3	procesoru	NNIS2-----A----	Atr
+
+ln95047-125-p2s1C
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-125-p2s1D
+1	Kompletní	AAFS4----1A----	Atr
+2	nabídku	NNFS4-----A----	Obj
+3	osobních	AAIP2----1A----	Atr
+4	počítačů	NNIP2-----A----	Atr
+5	od	RR--2----------	AuxP
+6	notebooků	NNIP2-----A----	Atr
+7	přes	RR--4----------	AuxP
+8	stolní	AAIP4----1A----	Atr
+9	modely	NNIP4-----A----	Atr
+10	až	TT-------------	AuxZ
+11	po	RR--4----------	AuxP
+12	víceprocesorové	AAIP4----1A----	Atr
+13	servery	NNIP4-----A----	Atr
+14	včera	Db-------------	Adv
+15	v	RR--6----------	AuxP
+16	Praze	NNFS6-----A----	Adv
+17	představila	VpQW---XR-AA---	Pred
+18	Digital	NNIS1-----A----	Atr
+19	Equipment	NNIXX-----A----	Atr
+20	Corporation	NNFXX-----A----	Sb
+21	,	Z:-------------	Apos
+22	třetí	CrMS1----------	Atr
+23	největší	AAMS1----3A----	Atr
+24	výrobce	NNMS1-----A----	Sb
+25	počítačů	NNIP2-----A----	Atr
+26	v	RR--6----------	AuxP
+27	USA	NNIPX-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln95047-125-p3s1
+1	Mezi	RR--7----------	AuxP
+2	stolními	AAIP7----1A----	Atr
+3	modely	NNIP7-----A----	Adv
+4	vzbudil	VpYS---XR-AA---	Pred
+5	pozornost	NNFS4-----A----	Obj
+6	Celebris	NNIS1-----A----	Sb
+7	XL	C}-------------	Atr
+8	.	Z:-------------	AuxK
+
+ln95047-125-p3s2
+1	Nemá	VB-S---3P-NA---	Pred
+2	totiž	Db-------------	AuxY
+3	procesor	NNIS4-----A----	Obj
+4	na	RR--6----------	AuxP
+5	základní	AAFS6----1A----	Atr
+6	desce	NNFS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	jako	J,-------------	AuxC
+9	je	VB-S---3P-AA---	Adv
+10	obvyklé	AANS1----1A----	Pnom
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	na	RR--6----------	AuxP
+14	samostatné	AAFS6----1A----	Atr
+15	"	Z:-------------	AuxG
+16	dceřiné	AAFS6----1A----	Atr
+17	"	Z:-------------	AuxG
+18	kartě	NNFS6-----A----	ExD
+19	.	Z:-------------	AuxK
+
+ln95047-125-p3s3
+1	Její	PSFSXFS3-------	Atr
+2	jednoduchou	AAFS7----1A----	Atr
+3	výměnou	NNFS7-----A----	Adv
+4	lze	VB-S---3P-AA---	Pred
+5	měnit	Vf--------A----	Sb
+6	procesory	NNIP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	a	J^-------------	Coord
+9	tak	Db-------------	AuxY
+10	podle	RR--2----------	AuxP
+11	rostoucích	AGFP2-----A----	Atr
+12	výpočetních	AAFP2----1A----	Atr
+13	potřeb	NNFP2-----A----	Adv
+14	zvyšovat	Vf--------A----	Pred
+15	výkonnost	NNFS4-----A----	Obj
+16	počítače	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95047-125-p3s4
+1	Svůj	P8IS4----------	Atr
+2	nejvýkonnější	AAIS4----3A----	Atr
+3	server	NNIS4-----A----	Obj
+4	Prioris	NNIS1-----A----	Atr
+5	XL	C}-------------	Atr
+6	navrhla	VpQW---XR-AA--1	Pred
+7	firma	NNFS1-----A----	Sb
+8	Digital	NNIS1-----A----	Atr
+9	s	RR--7----------	AuxP
+10	ohledem	NNIS7-----A----	AuxP
+11	na	RR--4----------	AuxP
+12	bezpečnost	NNFS4-----A----	Adv
+13	dat	NNNP2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	systému	NNIS6-----A----	Atr
+16	při	RR--6----------	AuxP
+17	vysokém	AAIS6----1A----	Atr
+18	výkonu	NNIS6-----A----	Atr
+19	stroje	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95047-125-p3s5
+1	Podle	RR--2----------	AuxP
+2	potřeb	NNFP2-----A----	Adv
+3	lze	VB-S---3P-AA---	Pred
+4	server	NNIS4-----A----	Obj
+5	vybavit	Vf--------A----	Sb
+6	jedním	ClZS7----------	Atr
+7	a	J^-------------	Coord
+8	čtyřmi	ClXP7----------	Atr
+9	procesory	NNIP7-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95047-125-p4s1
+1	K	RR--3----------	AuxP
+2	tomu	PDZS3----------	Obj
+3	nejlepšímu	AANS3----3A----	Atr
+4	,	Z:-------------	AuxX
+5	co	PQ--1----------	Sb
+6	je	VB-S---3P-AA---	Atr
+7	dnes	Db-------------	Adv
+8	k	RR--3----------	AuxP
+9	dispozici	NNFS3-----A----	Adv
+10	v	RR--6----------	AuxP
+11	kategorii	NNFS6-----A----	Adv
+12	notebook	NNIS1-----A----	Atr
+13	,	Z:-------------	AuxX
+14	patří	VB-S---3P-AA---	Pred
+15	HiNote	NNIXX-----A----	Sb
+16	Ultra	AAXXX----1A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95047-125-p4s2
+1	Díky	RR--3----------	AuxP
+2	infračerveným	AANP3----1A----	Atr
+3	čidlům	NNNP3-----A----	Adv
+4	může	VB-S---3P-AA---	Pred
+5	bezdrátově	Dg-------1A----	Adv
+6	komunikovat	Vf--------A----	Obj
+7	s	RR--7----------	AuxP
+8	dalšími	AAIP7----1A----	Atr
+9	počítači	NNIP7-----A----	Obj
+10	nebo	J^-------------	Coord
+11	tiskárnami	NNFP7-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln95047-125-p4s3
+1	Odnímatelná	AAFS1----1A----	Atr
+2	disketová	AAFS1----1A----	Atr
+3	mechanika	NNFS1-----A----	Sb
+4	dovoluje	VB-S---3P-AA---	Pred
+5	snížit	Vf--------A----	Obj
+6	hmotnost	NNFS4-----A----	Obj
+7	až	TT-------------	AuxZ
+8	na	RR--4----------	AuxP
+9	1.6	C=-------------	Obj
+10	kg	NNIXX-----A---8	Atr
+11	.	Z:-------------	AuxK
+
+ln95047-125-p5s1
+1	Samostatně	Dg-------1A----	Adv
+2	působící	AGFS1-----A----	Atr
+3	Divize	NNFS1-----A----	Sb
+4	osobních	AAIP2----1A----	Atr
+5	počítačů	NNIP2-----A----	Atr
+6	Digital	NNIS1-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	co	Db-------------	AuxP
+9	do	RR--2----------	AuxP
+10	počtu	NNIS2-----A----	Adv
+11	prodaných	AAIP2----1A----	Atr
+12	kusů	NNIP2-----A----	Atr
+13	i	J^-------------	Coord
+14	obratu	NNIS2-----A----	Adv
+15	v	RR--6----------	AuxP
+16	roce	NNIS6-----A---1	Atr
+17	1994	C=-------------	Atr
+18	celosvětově	Dg-------1A----	Adv
+19	propracovala	VpQW---XR-AA---	Pred
+20	na	RR--4----------	AuxP
+21	desáté	CrNS4----------	Atr
+22	místo	NNNS4-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln95047-125-p5s2
+1	Pro	RR--4----------	AuxP
+2	letošní	AAIS4----1A----	Atr
+3	rok	NNIS4-----A----	Adv
+4	si	P7-X3----------	Obj
+5	klade	VB-S---3P-AA---	Pred
+6	za	RR--4----------	AuxP
+7	cíl	NNIS4-----A----	Obj
+8	umístit	Vf--------A----	Obj
+9	se	P7-X4----------	AuxT
+10	mezi	RR--7----------	AuxP
+11	prvními	CrMP7----------	Atr
+12	pěti	Cn-P7----------	Atr
+13	výrobci	NNMP7-----A----	Adv
+14	na	RR--6----------	AuxP
+15	světě	NNIS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95047-125-p6s1
+1	V	RR--6----------	AuxP
+2	České	AAFS6----1A----	Atr
+3	republice	NNFS6-----A----	Adv
+4	a	J^-------------	Coord
+5	na	RR--6----------	AuxP
+6	Slovensku	NNNS6-----A----	Adv
+7	začala	VpQW---XR-AA---	Pred
+8	tato	PDFS1----------	Atr
+9	divize	NNFS1-----A----	Sb
+10	v	RR--6----------	AuxP
+11	roce	NNIS6-----A---1	Adv
+12	1994	C=-------------	Atr
+13	budovat	Vf--------A----	Obj
+14	síť	NNFS4-----A----	Obj
+15	vždy	Db-------------	Atr
+16	deseti	Cn-P2----------	Atr
+17	autorizovaných	AAMP2----1A----	Atr
+18	partnerů	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95047-125-p6s2
+1	V	RR--6----------	AuxP
+2	příštím	AAIS6----1A----	Atr
+3	fiskálním	AAIS6----1A----	Atr
+4	roce	NNIS6-----A---1	Adv
+5	hodlá	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	těchto	PDXP6----------	Atr
+8	zemích	NNFP6-----A----	Adv
+9	alespoň	Db-------------	AuxZ
+10	zdvojnásobit	Vf--------A----	Obj
+11	prodej	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+

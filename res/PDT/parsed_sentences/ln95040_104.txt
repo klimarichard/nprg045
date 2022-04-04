@@ -1,0 +1,137 @@
+ln95040-104-p1s1
+1	Gaensel	NNMS1-----A----	Sb
+2	vyhrál	VpYS---XR-AA---	Pred
+3	spor	NNIS4-----A----	Obj
+4	s	RR--7----------	AuxP
+5	okresním	AAIS7----1A----	Atr
+6	úřadem	NNIS7-----A----	Atr
+
+ln95040-104-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-104-p2s1B
+1	Hledač	NNMS1-----A----	Atr
+2	štěchovického	AAIS2----1A----	Atr
+3	pokladu	NNIS2-----A----	Atr
+4	Helmut	NNMS1-----A----	Atr
+5	Gaensel	NNMS1-----A----	Sb
+6	včera	Db-------------	Adv
+7	vyhrál	VpYS---XR-AA---	Pred
+8	spor	NNIS4-----A----	Obj
+9	s	RR--7----------	AuxP
+10	Okresním	AAIS7----1A----	Atr
+11	úřadem	NNIS7-----A----	Atr
+12	Praha	NNFS1-----A----	Atr
+13	-	Z:-------------	AuxG
+14	západ	NNIS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95040-104-p2s2
+1	Obvodní	AAIS1----1A----	Atr
+2	soud	NNIS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	Prahu	NNFS4-----A----	Atr
+5	2	C=-------------	Atr
+6	rozhodl	VpYS---XR-AA--1	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	odstoupení	NNNS1-----A----	Sb
+10	od	RR--2----------	AuxP
+11	smlouvy	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kterou	P4FS4----------	Obj
+14	úřad	NNIS1-----A----	Sb
+15	s	RR--7----------	AuxP
+16	Gaenselem	NNMS7-----A----	Obj
+17	uzavřel	VpYS---XR-AA---	Atr
+18	,	Z:-------------	AuxX
+19	je	VB-S---3P-AA---	Obj
+20	neplatné	AANS1----1N----	Pnom
+21	.	Z:-------------	AuxK
+
+ln95040-104-p3s1
+1	Okresní	AAIS1----1A----	Atr
+2	úřad	NNIS1-----A----	Sb
+3	odstoupil	VpYS---XR-AA---	Pred
+4	od	RR--2----------	AuxP
+5	smlouvy	NNFS2-----A----	Obj
+6	uzavřené	AAFS2----1A----	Atr
+7	s	RR--7----------	AuxP
+8	Gaenselem	NNMS7-----A----	Obj
+9	v	RR--6----------	AuxP
+10	srpnu	NNIS6-----A----	Adv
+11	1993	C=-------------	Atr
+12	a	J^-------------	Coord
+13	Gaensel	NNMS1-----A----	Sb
+14	musel	VpYS---XR-AA---	Pred
+15	přerušit	Vf--------A----	Obj
+16	veškeré	PLFP4----------	Atr
+17	práce	NNFP4-----A----	Obj
+18	do	RR--2----------	AuxP
+19	června	NNIS2-----A----	Adv
+20	1994	C=-------------	Atr
+21	.	Z:-------------	AuxK
+
+ln95040-104-p3s2
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	slov	NNNP2-----A----	Adv
+4	mu	PHZS3--3-------	Adv
+5	vznikla	VpQW---XR-AA--1	Pred
+6	škoda	NNFS1-----A----	Sb
+7	daleko	Dg-------1A----	Adv
+8	převyšující	AGFS1-----A----	Atr
+9	jeden	ClIS4----------	Atr
+10	milión	NNIS4-----A----	Obj
+11	korun	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	je	VB-S---3P-AA---	Atr
+15	jako	J,-------------	AuxY
+16	penále	NNNS1-----A----	Atv
+17	ve	RV--6----------	AuxP
+18	smlouvě	NNFS6-----A----	Adv
+19	při	RR--6----------	AuxP
+20	jejím	PSZS6FS3-------	Atr
+21	neplnění	NNNS6-----N----	Adv
+22	zakotven	VsYS---XX-AP---	Pnom
+23	.	Z:-------------	AuxK
+
+ln95040-104-p3s3
+1	Gaenselův	AUMS1M---------	Atr
+2	právní	AAMS1----1A----	Atr
+3	zástupce	NNMS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	domnívá	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	okresní	AAIS1----1A----	Atr
+9	úřad	NNIS1-----A----	Sb
+10	od	RR--2----------	AuxP
+11	smlouvy	NNFS2-----A----	Obj
+12	ustoupil	VpYS---XR-AA---	Obj
+13	na	RR--4----------	AuxP
+14	doporučení	NNNS4-----A----	Adv
+15	ministerstva	NNNS2-----A----	Atr
+16	vnitra	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95040-104-p4s1
+1	Soud	NNIS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	dospěl	VpYS---XR-AA---	Pred
+4	k	RR--3----------	AuxP
+5	závěru	NNIS3-----A----	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	odstoupení	NNNS1-----A----	Sb
+9	od	RR--2----------	AuxP
+10	smlouvy	NNFS2-----A----	Atr
+11	bylo	VpNS---XR-AA---	Atr
+12	neplatné	AANS1----1N----	Pnom
+13	a	J^-------------	Coord
+14	formálně	Dg-------1A----	Adv
+15	chybné	AANS1----1A----	Pnom
+16	.	Z:-------------	AuxK
+

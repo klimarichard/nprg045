@@ -1,0 +1,276 @@
+ln94202-89-p1s1
+1	Kolářovy	AUIP1M---------	Atr
+2	spisy	NNIP1-----A----	Sb
+3	budou	VB-P---3F-AA---	AuxV
+4	pokračovat	Vf--------A----	Pred
+
+ln94202-89-p2s1
+1	Dílo	NNNS1-----A----	Sb
+2	Jiřího	NNMS2-----A----	Atr
+3	Koláře	NNMS2-----A----	Atr
+4	(	Z:-------------	ExD
+5	1914	C=-------------	ExD
+6	)	Z:-------------	ExD
+7	je	VB-S---3P-AA---	Pred
+8	vedle	RR--2----------	AuxP
+9	Spisů	NNIP2-----A----	Adv
+10	Josefa	NNMS2-----A----	Atr
+11	Škvoreckého	NNMS2-----A----	Atr
+12	dalším	AAIS7----1A----	Pnom
+13	z	RR--2----------	AuxP
+14	významných	AAIP2----1A----	Atr
+15	edičních	AAIP2----1A----	Atr
+16	projektů	NNIP2-----A----	Atr
+17	tonoucího	AGIS2-----A----	Atr
+18	Odeonu	NNIS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	jehož	PJZS2----------	Atr
+21	pokračování	NNNS2-----A----	Adv
+22	se	P7-X4----------	AuxT
+23	ujme	VB-S---3P-AA---	Atr
+24	jiné	AANS1----1A----	Atr
+25	nakladatelství	NNNS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+ln94202-89-p2s2
+1	Odeon	NNIS1-----A----	Sb
+2	dosud	Db-------------	Adv
+3	v	RR--6----------	AuxP
+4	rámci	NNIS6-----A----	Adv
+5	Kolářova	AUNS2M---------	Atr
+6	Díla	NNNS2-----A----	Atr
+7	vydal	VpYS---XR-AA---	Pred
+8	svazky	NNIP4-----A----	Obj
+9	označené	AAIP4----1A----	Atr
+10	pořadovými	AANP7----1A----	Atr
+11	čísly	NNNP7-----A----	Adv
+12	1	C=-------------	Atr
+13	a	J^-------------	Coord
+14	3	C=-------------	Atr
+15	(	Z:-------------	AuxG
+16	1992	C=-------------	Atr
+17	,	Z:-------------	Coord
+18	1993	C=-------------	Atr
+19	)	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+ln94202-89-p2s3
+1	Český	AAMS1----1A----	Atr
+2	spisovatel	NNMS1-----A----	Sb
+3	,	Z:-------------	Apos
+4	mimo	RR--4----------	AuxP
+5	jiné	AANS4----1A----	ExD
+6	editor	NNMS1-----A----	Sb
+7	klíčové	AAFS2----1A----	Atr
+8	básníkovy	AUFS2M---------	Atr
+9	sbírky	NNFS2-----A----	Atr
+10	Prométheova	AUNP1M---------	Atr
+11	játra	NNNP1-----A----	Atr
+12	(	Z:-------------	AuxG
+13	1990	C=-------------	ExD
+14	,	Z:-------------	Coord
+15	původní	AANS1----1A----	Atr
+16	vydání	NNNS1-----A----	Sb
+17	v	RR--6----------	AuxP
+18	roce	NNIS6-----A---1	AtrAdv
+19	1970	C=-------------	Atr
+20	zabaveno	VsNS---XX-AP---	ExD
+21	)	Z:-------------	AuxG
+22	,	Z:-------------	AuxX
+23	hodlá	VB-S---3P-AA---	Pred
+24	na	RR--4----------	AuxP
+25	projekt	NNIS4-----A----	Obj
+26	v	RR--6----------	AuxP
+27	grafickém	AANS6----1A----	Atr
+28	řešení	NNNS6-----A----	Atr
+29	Vladimíra	NNMS2-----A----	Atr
+30	Nárožníka	NNMS2-----A----	Atr
+31	navázat	Vf--------A----	Sb
+32	.	Z:-------------	AuxK
+
+ln94202-89-p2s4
+1	Další	AAFS7----1A----	Atr
+2	knihou	NNFS7-----A----	Obj
+3	souboru	NNIS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	stane	VB-S---3P-AA---	Pred
+6	jedna	ClFS1----------	Sb
+7	z	RR--2----------	AuxP
+8	nejoriginálnějších	AAFP2----3A----	Atr
+9	básnických	AAFP2----1A----	Atr
+10	sbírek	NNFP2-----A----	Atr
+11	letošního	AAMS2----1A----	Atr
+12	jubilanta	NNMS2-----A----	Atr
+13	-	Z:-------------	Apos
+14	Básně	NNFP1-----A----	Sb
+15	ticha	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94202-89-p3s1
+1	Nakladatelství	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	rozhodlo	VpNS---XR-AA--1	Pred
+4	Básním	NNFP3-----A----	Obj
+5	ticha	NNNS2-----A----	Atr
+6	věnovat	Vf--------A----	Obj
+7	samostatný	AAIS4----1A----	Atr
+8	svazek	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	neboť	J^-------------	Coord
+11	tvoří	VB-P---3P-AA---	Pred
+12	důležité	AANS4----1A----	Atr
+13	rozhraní	NNNS4-----A----	Obj
+14	dvou	ClXP2----------	Atr
+15	etap	NNFP2-----A----	Atr
+16	Kolářovy	AUFS2M---------	Atr
+17	tvorby	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	kdy	Db-------------	Adv
+20	se	P7-X4----------	AuxT
+21	loučil	VpYS---XR-AA---	Atr
+22	s	RR--7----------	AuxP
+23	verbální	AAFS7----1A----	Atr
+24	poezií	NNFS7-----A----	Obj
+25	a	J^-------------	Coord
+26	začínal	VpYS---XR-AA---	Atr
+27	se	P7-X4----------	AuxT
+28	obracet	Vf--------A----	Obj
+29	k	RR--3----------	AuxP
+30	projevům	NNIP3-----A----	Adv
+31	výtvarným	AAIP3----1A----	Atr
+32	.	Z:-------------	AuxK
+
+ln94202-89-p3s2
+1	Práci	NNFS4-----A----	Obj
+2	charakterizuje	VB-S---3P-AA---	Pred
+3	osobité	AANS1----1A----	Atr
+4	setkávání	NNNS1-----A----	Sb
+5	obou	ClXP2----------	Atr
+6	složek	NNFP2-----A----	Atr
+7	umělcova	AUIS2M---------	Atr
+8	talentu	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94202-89-p3s3
+1	Básně	NNFP1-----A----	Sb
+2	ticha	NNNS2-----A----	Atr
+3	z	RR--2----------	AuxP
+4	let	NNNP2-----A----	Atr
+5	1959	C=-------------	Atr
+6	-	Z:-------------	Coord
+7	60	C=-------------	Atr
+8	měly	VpTP---XR-AA---	Pred
+9	vyjít	Vf--------A----	Obj
+10	v	RR--6----------	AuxP
+11	tehdejším	AAMS6----1A----	Atr
+12	Československém	AAMS6----1A----	Atr
+13	spisovateli	NNMS6-----A----	Adv
+14	také	Db-------------	Adv
+15	už	Db-------------	AuxZ
+16	v	RR--6----------	AuxP
+17	roce	NNIS6-----A---1	Adv
+18	1970	C=-------------	Atr
+19	,	Z:-------------	AuxX
+20	sazba	NNFS1-----A----	Sb
+21	však	J^-------------	Coord
+22	byla	VpQW---XR-AA---	AuxV
+23	rozmetána	VsQW---XX-AP---	Pred
+24	.	Z:-------------	AuxK
+
+ln94202-89-p3s4
+1	Francouzský	AAIS4----1A----	Atr
+2	překlad	NNIS4-----A----	Obj
+3	s	RR--7----------	AuxP
+4	titulem	NNIS7-----A----	Atr
+5	Poemes	NNFPX-----A----	Atr
+6	du	RR--X----------	Atr
+7	silence	NNNXX-----A----	Atr
+8	vydalo	VpNS---XR-AA---	Pred
+9	pařížské	AANS1----1A----	Atr
+10	Editions	NNFPX-----A----	Atr
+11	de	RR--1----------	Atr
+12	la	AAFSX----1A----	Atr
+13	Différence	NNFXX-----A----	Sb
+14	v	RR--6----------	AuxP
+15	roce	NNIS6-----A---1	Adv
+16	1988	C=-------------	Atr
+17	.	Z:-------------	AuxK
+
+ln94202-89-p3s5
+1	Tyto	PDFP1----------	Atr
+2	verze	NNFP1-----A----	Sb
+3	stejně	Dg-------1A----	Adv
+4	jako	J,-------------	AuxC
+5	nynější	AAFS1----1A----	ExD
+6	chystaná	AAFS1----1A----	ExD
+7	nejsou	VB-P---3P-NA---	Pred
+8	ovšem	J^-------------	AuxY
+9	identické	AAFP1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	neboť	J^-------------	Coord
+12	jejich	PSXXXXP3-------	Atr
+13	konečná	AAFS1----1A----	Atr
+14	podoba	NNFS1-----A----	Sb
+15	vždy	Db-------------	Adv
+16	vznikala	VpQW---XR-AA---	Pred
+17	za	RR--2----------	AuxP
+18	korekcí	NNFP2-----A----	Adv
+19	samotného	AAMS2----1A----	Atr
+20	autora	NNMS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94202-89-p4s1
+1	Básně	NNFP1-----A----	Sb
+2	ticha	NNNS2-----A----	Atr
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxT
+5	na	RR--6----------	AuxP
+6	knižním	AAIS6----1A----	Atr
+7	trhu	NNIS6-----A----	Adv
+8	měly	VpTP---XR-AA---	Pred
+9	objevit	Vf--------A----	Obj
+10	v	RR--6----------	AuxP
+11	půli	NNFS6-----A----	Adv
+12	října	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94202-89-p4s2
+1	Současně	Dg-------1A----	Adv
+2	s	RR--7----------	AuxP
+3	nimi	P5XP7--3-------	Obj
+4	Český	AAMS1----1A----	Atr
+5	spisovatel	NNMS1-----A----	Sb
+6	vydá	VB-S---3P-AA---	Pred
+7	také	Db-------------	Adv
+8	monografii	NNFS4-----A----	Obj
+9	Vladimíra	NNMS2-----A----	Atr
+10	Karfíka	NNMS2-----A----	Atr
+11	Jiří	NNMS1-----A----	Atr
+12	Kolář	NNMS1-----A----	Atr
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	analyzuje	VB-S---3P-AA---	Atr
+16	umělcovu	AUFS4M---------	Atr
+17	básnickou	AAFS4----1A----	Atr
+18	tvorbu	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94202-89-p4s3
+1	Další	AAIS1----1A----	Atr
+2	svazek	NNIS1-----A----	Sb
+3	Díla	NNNS2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxT
+6	měl	VpYS---XR-AA---	Pred
+7	soustředit	Vf--------A----	Obj
+8	na	RR--4----------	AuxP
+9	Kolářovu	AUFS4M---------	Atr
+10	tvorbu	NNFS4-----A----	Obj
+11	dramatickou	AAFS4----1A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94202-89-p4s4
+1	(	Z:-------------	ExD
+2	šek	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

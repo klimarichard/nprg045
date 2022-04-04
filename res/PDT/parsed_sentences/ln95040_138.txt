@@ -1,0 +1,393 @@
+ln95040-138-p1s1
+1	Manželka	NNFS1-----A----	Sb
+2	československého	AAMS2----1A----	Atr
+3	rozvědčíka	NNMS2-----A----	Atr
+4	milión	NNIS4-----A----	Obj
+5	nedostane	VB-S---3P-NA---	Pred
+
+ln95040-138-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95040-138-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-138-p3s1B
+1	Žena	NNFS1-----A----	Atr
+2	bývalého	AAMS2----1A----	Atr
+3	československého	AAMS2----1A----	Atr
+4	rozvědčíka	NNMS2-----A----	Atr
+5	Hana	NNFS1-----A----	Atr
+6	Koecherová	NNFS1-----A----	Sb
+7	neobhájila	VpQW---XR-NA---	Pred
+8	včera	Db-------------	Adv
+9	u	RR--2----------	AuxP
+10	Městského	AAIS2----1A----	Atr
+11	soudu	NNIS2-----A----	Adv
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	Atr
+14	své	P8NS4---------1	Atr
+15	stanovisko	NNNS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	nepracovala	VpQW---XR-NA---	Atr
+19	se	RV--7----------	AuxP
+20	svým	P8ZS7----------	Atr
+21	mužem	NNMS7-----A----	Adv
+22	pro	RR--4----------	AuxP
+23	KGB	NNFXX-----A---8	Adv
+24	.	Z:-------------	AuxK
+
+ln95040-138-p4s1
+1	Prohrála	VpQW---XR-AA---	Pred
+2	tak	Db-------------	Adv
+3	spor	NNIS4-----A----	Obj
+4	na	RR--4----------	AuxP
+5	ochranu	NNFS4-----A----	Atr
+6	osobnosti	NNFS2-----A----	Atr
+7	s	RR--7----------	AuxP
+8	týdeníkem	NNIS7-----A----	AtrAdv
+9	Prognosis	NNIXX-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95040-138-p4s2
+1	Agent	NNMS1-----A----	Atr
+2	československé	AAFS2----1A----	Atr
+3	rozvědky	NNFS2-----A----	Atr
+4	Karel	NNMS1-----A----	Atr
+5	Koecher	NNMS1-----A----	Sb
+6	byl	VpYS---XR-AA---	AuxV
+7	nasazen	VsYS---XX-AP---	Pred
+8	do	RR--2----------	AuxP
+9	CIA	NNFXX-----A---8	Adv
+10	a	J^-------------	Coord
+11	po	RR--6----------	AuxP
+12	svém	P8ZS6----------	Atr
+13	zatčení	NNNS6-----A----	Adv
+14	byl	VpYS---XR-AA---	AuxV
+15	v	RR--6----------	AuxP
+16	roce	NNIS6-----A---1	Adv
+17	1986	C=-------------	Atr
+18	jako	J,-------------	AuxY
+19	jeden	ClYS1----------	AtvV
+20	z	RR--2----------	AuxP
+21	pěti	Cn-P2----------	Atr
+22	špionů	NNMP2-----A----	Atr
+23	vyměněn	VsYS---XX-AP---	Pred
+24	za	RR--4----------	AuxP
+25	sovětského	AAMS4----1A----	Atr
+26	disidenta	NNMS4-----A----	Atr
+27	Anatolije	NNMS4-----A----	Atr
+28	Ščaranského	NNMS4-----A----	Obj
+29	a	J^-------------	Coord
+30	další	AAMP4----1A----	Atr
+31	vězně	NNMP4-----A----	Obj
+32	z	RR--2----------	AuxP
+33	východního	AAIS2----1A----	Atr
+34	bloku	NNIS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+ln95040-138-p5s1
+1	Koecherová	NNFS1-----A----	Sb
+2	zažalovala	VpQW---XR-AA---	Pred
+3	vydavatele	NNMS4-----A----	Obj
+4	Prognosis	NNIXX-----A----	Atr
+5	za	RR--4----------	AuxP
+6	článek	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	v	RR--6----------	AuxP
+9	kterém	P4ZS6----------	Adv
+10	autor	NNMS1-----A----	Sb
+11	uvedl	VpYS---XR-AA---	Atr
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	se	RV--7----------	AuxP
+15	svým	P8ZS7----------	Atr
+16	manželem	NNMS7-----A----	Adv
+17	pracovala	VpQW---XR-AA---	Obj
+18	pro	RR--4----------	AuxP
+19	sovětský	AAIS4----1A----	Atr
+20	KGB	NNFXX-----A---8	Adv
+21	,	Z:-------------	Coord
+22	že	J,-------------	AuxC
+23	byla	VpQW---XR-AA---	AuxV
+24	v	RR--6----------	AuxP
+25	USA	NNIPX-----A----	Adv
+26	odsouzena	VsQW---XX-AP---	Obj
+27	a	J^-------------	Coord
+28	vyměněna	VsQW---XX-AP---	Obj
+29	za	RR--4----------	AuxP
+30	Ščaranského	NNMS4-----A----	Obj
+31	.	Z:-------------	AuxK
+
+ln95040-138-p5s2
+1	Text	NNIS4-----A----	Obj
+2	publicisty	NNMS2-----A----	Atr
+3	Egona	NNMS2-----A----	Obj
+4	Lánského	NNMS2-----A----	Atr
+5	zveřejnil	VpYS---XR-AA---	Pred
+6	týdeník	NNIS1-----A----	Sb
+7	loni	Db------------1	Adv
+8	v	RR--6----------	AuxP
+9	březnu	NNIS6-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95040-138-p5s3
+1	Koecherová	NNFS1-----A----	Sb
+2	prohlásila	VpQW---XR-AA---	Pred
+3	toto	PDNS4----------	Atr
+4	tvrzení	NNNS4-----A----	Obj
+5	za	RR--4----------	AuxP
+6	nepravdivé	AANS4----1N----	Obj
+7	,	Z:-------------	Coord
+8	požadovala	VpQW---XR-AA---	Pred
+9	otištění	NNNS4-----A----	Obj
+10	omluvy	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	milión	NNIS4-----A----	Obj
+13	korun	NNFP2-----A----	Atr
+14	odškodnění	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95040-138-p5s4
+1	Odškodnění	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	mělo	VpNS---XR-AA---	Pred
+4	rovnat	Vf--------A----	Obj
+5	pětinásobku	NNIS3-----A----	Obj
+6	jejího	PSZS2FS3-------	Atr
+7	ročního	AAIS2----1A----	Atr
+8	platu	NNIS2-----A----	Atr
+9	za	RR--4----------	AuxP
+10	práci	NNFS4-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	britskou	AAFS4----1A----	Atr
+13	ambasádu	NNFS4-----A----	Atr
+14	,	Z:-------------	AuxX
+15	již	Db-------------	Obj
+16	musela	VpQW---XR-AA---	Atr
+17	údajně	Dg-------1A----	Adv
+18	v	RR--6----------	AuxP
+19	souvislosti	NNFS6-----A----	AuxP
+20	s	RR--7----------	AuxP
+21	článkem	NNIS7-----A----	Adv
+22	zanechat	Vf--------A----	Obj
+23	.	Z:-------------	AuxK
+
+ln95040-138-p5s5
+1	Koecherová	NNFS1-----A----	Sb
+2	podle	RR--2----------	AuxP
+3	lustračního	AANS2----1A----	Atr
+4	osvědčení	NNNS2-----A----	Adv
+5	nebyla	VpQW---XR-NA---	Pred
+6	spolupracovníkem	NNMS7-----A----	Pnom
+7	ani	J^-------------	Coord
+8	pracovníkem	NNMS7-----A----	Pnom
+9	StB	NNFXX-----A---8	Atr
+10	.	Z:-------------	AuxK
+
+ln95040-138-p5s6
+1	V	RR--6----------	AuxP
+2	USA	NNIPX-----A----	Adv
+3	byla	VpQW---XR-AA---	AuxV
+4	odsouzena	VsQW---XX-AP---	Pred
+5	k	RR--3----------	AuxP
+6	osmnácti	Cn-P3----------	Atr
+7	měsícům	NNIP3-----A----	Obj
+8	vězení	NNNS2-----A----	Atr
+9	za	RR--4----------	AuxP
+10	pohrdání	NNNS4-----A----	Obj
+11	soudem	NNIS7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	protože	J,-------------	AuxC
+14	odmítla	VpQW---XR-AA--1	Adv
+15	svědčit	Vf--------A----	Obj
+16	proti	RR--3----------	AuxP
+17	manželovi	NNMS3-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95040-138-p6s1
+1	Soudkyně	NNFS1-----A----	Sb
+2	zamítla	VpQW---XR-AA--1	Pred
+3	její	PSFSXFS3-------	Atr
+4	žalobu	NNFS4-----A----	Obj
+5	s	RR--7----------	AuxP
+6	tím	PDZS7----------	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	žalované	AANS1----1A----	Atr
+10	tvrzení	NNNS1-----A----	Sb
+11	je	VB-S---3P-AA---	Atr
+12	až	TT-------------	AuxZ
+13	na	RR--4----------	AuxP
+14	drobné	AAFP4----1A----	Atr
+15	nepřesnosti	NNFP4-----A----	Adv
+16	pravdivé	AANS1----1A----	Pnom
+17	.	Z:-------------	AuxK
+
+ln95040-138-p6s2
+1	Vycházela	VpQW---XR-AA---	Pred
+2	přitom	Db-------------	Adv
+3	z	RR--2----------	AuxP
+4	dokumentů	NNIP2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	které	P4YP4----------	Obj
+7	soudu	NNIS3-----A----	Obj
+8	poskytl	VpYS---XR-AA--1	Atr
+9	Úřad	NNIS1-----A----	Sb
+10	pro	RR--4----------	AuxP
+11	dokumentaci	NNFS4-----A----	Atr
+12	a	J^-------------	Coord
+13	vyšetřování	NNNS4-----A----	Atr
+14	zločinů	NNIP2-----A----	Atr
+15	komunismu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95040-138-p6s3
+1	Ty	PDIP1----------	Sb
+2	byly	VpTP---XR-AA---	AuxV
+3	jako	J,-------------	AuxY
+4	tajné	AAIP1----1A----	Atv
+5	projednávány	VsTP---XX-AP---	Pred
+6	v	RR--4----------	AuxP
+7	úterý	NNNS4-----A----	Adv
+8	s	RR--7----------	AuxP
+9	vyloučením	NNNS7-----A----	Adv
+10	veřejnosti	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95040-138-p6s4
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	roce	NNIS6-----A---1	Adv
+8	1965	C=-------------	Atr
+9	manželé	NNMP1-----A----	Sb
+10	Koecherovi	AUMP1M---------	Atr
+11	dostali	VpMP---XR-AA---	Sb
+12	za	RR--4----------	AuxP
+13	úkol	NNIS4-----A----	Obj
+14	proniknout	Vf--------A----	Obj
+15	do	RR--2----------	AuxP
+16	CIA	NNFXX-----A---8	Adv
+17	,	Z:-------------	AuxX
+18	a	J^-------------	Coord
+19	byli	VpMP---XR-AA---	AuxV
+20	k	RR--3----------	AuxP
+21	tomu	PDZS3----------	Adv
+22	vyškoleni	VsMP---XX-AP---	Sb
+23	.	Z:-------------	AuxK
+
+ln95040-138-p6s5
+1	Koecherová	NNFS1-----A----	Sb
+2	měla	VpQW---XR-AA---	Pred
+3	pracovat	Vf--------A----	Obj
+4	jako	J,-------------	AuxY
+5	spojka	NNFS1-----A----	Atv
+6	.	Z:-------------	AuxK
+
+ln95040-138-p6s6
+1	Informace	NNFP4-----A----	Obj
+2	získané	AAFP4----1A----	Atr
+3	v	RR--6----------	AuxP
+4	CIA	NNFXX-----A---8	Adv
+5	využívala	VpQW---XR-AA---	Pred
+6	i	J^-------------	AuxZ
+7	KGB	NNFXX-----A---8	Sb
+8	.	Z:-------------	AuxK
+
+ln95040-138-p6s7
+1	Soudkyně	NNFS1-----A----	Sb
+2	dále	Db------------1	Adv
+3	řekla	VpQW---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	autor	NNMS1-----A----	Sb
+7	článku	NNIS2-----A----	Atr
+8	nenapsal	VpYS---XR-NA---	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	by	Vc-------------	AuxV
+12	Koecherová	NNFS1-----A----	Sb
+13	byla	VpQW---XR-AA---	AuxV
+14	odsouzena	VsQW---XX-AP---	Obj
+15	za	RR--4----------	AuxP
+16	špionáž	NNFS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln95040-138-p6s8
+1	Je	VB-S---3P-AA---	Obj
+2	doloženo	VsNS---XX-AP---	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	faktické	AAFS2----1A----	Atr
+6	výměny	NNFS2-----A----	Obj
+7	osob	NNFP2-----A----	Atr
+8	mezi	RR--7----------	AuxP
+9	USA	NNIPX-----A----	Atr
+10	a	J^-------------	Coord
+11	SSSR	NNIXX-----A---8	Atr
+12	se	P7-X4----------	AuxT
+13	však	J^-------------	AuxY
+14	účastnila	VpQW---XR-AA---	Sb
+15	,	Z:-------------	AuxX
+16	uvedla	VpQW---XR-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln95040-138-p6s9
+1	Rozsudek	NNIS1-----A----	Sb
+2	není	VB-S---3P-NA---	Pred
+3	zatím	Db-------------	Adv
+4	pravomocný	AAIS1----1A----	Pnom
+5	.	Z:-------------	AuxK
+
+ln95040-138-p7s1
+1	Koecherovi	AUMP1M---------	Sb
+2	se	P7-X4----------	AuxT
+3	přistěhovali	VpMP---XR-AA---	Pred
+4	do	RR--2----------	AuxP
+5	USA	NNIPX-----A----	Adv
+6	v	RR--6----------	AuxP
+7	roce	NNIS6-----A---1	Adv
+8	1965	C=-------------	Atr
+9	a	J^-------------	Coord
+10	jako	J,-------------	AuxY
+11	političtí	AAMP1----1A----	Atr
+12	uprchlíci	NNMP1-----A----	Atv
+13	získali	VpMP---XR-AA---	Pred
+14	americké	AANS4----1A----	Atr
+15	státní	AANS4----1A----	Atr
+16	občanství	NNNS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln95040-138-p7s2
+1	Kocher	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	zatčen	VsYS---XX-AP---	Pred
+4	v	RR--6----------	AuxP
+5	roce	NNIS6-----A---1	Adv
+6	1984	C=-------------	Atr
+7	a	J^-------------	Coord
+8	obviněn	VsYS---XX-AP---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	v	RR--6----------	AuxP
+12	letech	NNNP6-----A----	Adv
+13	1973	C=-------------	Atr
+14	až	J^-------------	Coord
+15	1977	C=-------------	Atr
+16	předával	VpYS---XR-AA---	Obj
+17	tajné	AAIP4----1A----	Atr
+18	materiály	NNIP4-----A----	Obj
+19	CIA	NNFXX-----A---8	Atr
+20	československé	AAFS3----1A----	Atr
+21	rozvědce	NNFS3-----A----	Obj
+22	.	Z:-------------	AuxK
+

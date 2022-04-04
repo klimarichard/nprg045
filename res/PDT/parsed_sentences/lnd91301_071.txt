@@ -1,0 +1,73 @@
+lnd91301-071-p1s1
+1	VÝBUCH	NNIS1-----A----	ExD
+2	PO	RR--6----------	AuxP
+3	PŘÍMĚŘÍ	NNNS6-----A----	Atr
+
+lnd91301-071-p2s1
+1	Střelba	NNFS1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	soud	NNIS4-----A----	Atr
+
+lnd91301-071-p3s1
+1	BELFAST	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91301-071-p4s1
+1	Pouze	Db-------------	AuxZ
+2	tři	ClXP4----------	Atr
+3	minuty	NNFP4-----A----	Adv
+4	po	RR--6----------	AuxP
+5	konci	NNIS6-----A----	Atr
+6	ohlášeného	AANS2----1A----	Atr
+7	"	Z:-------------	AuxG
+8	vánočního	AANS2----1A----	Atr
+9	příměří	NNNS2-----A----	Atr
+10	"	Z:-------------	AuxG
+11	vybuchla	VpQW---XR-AA--1	Pred
+12	včera	Db-------------	Adv
+13	na	RR--6----------	AuxP
+14	trati	NNFS6-----A----	Adv
+15	Belfast	NNIS1-----A----	Atr
+16	-	Z:-------------	Coord
+17	Dublin	NNIS1-----A----	Atr
+18	bomba	NNFS1-----A----	Sb
+19	Irské	AAFS2----1A----	Atr
+20	republikánské	AAFS2----1A----	Atr
+21	armády	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd91301-071-p4s2
+1	V	RR--6----------	AuxP
+2	Belfastu	NNIS6-----A----	Adv
+3	ve	RV--4----------	AuxP
+4	stejnou	AAFS4----1A----	Atr
+5	dobu	NNFS4-----A----	Adv
+6	ostřeloval	VpYS---XR-AA---	Pred
+7	příslušník	NNMS1-----A----	Sb
+8	IRA	NNMS2-----A----	Atr
+9	budovu	NNFS4-----A----	Obj
+10	Nejvyššího	AAIS2----3A----	Atr
+11	soudu	NNIS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	je	VB-S---3P-AA---	Atr
+15	častým	AAIS7----1A----	Atr
+16	cílem	NNIS7-----A----	Pnom
+17	útoků	NNIP2-----A----	Atr
+18	této	PDFS2----------	Atr
+19	teroristické	AAFS2----1A----	Atr
+20	skupiny	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd91301-071-p4s3
+1	Podle	RR--2----------	AuxP
+2	údajů	NNIP2-----A----	Adv
+3	policie	NNFS2-----A----	Atr
+4	nebyl	VpYS---XR-NA---	AuxV
+5	v	RR--6----------	AuxP
+6	obou	ClXP6----------	Atr
+7	případech	NNIP6-----A----	Adv
+8	nikdo	PWM-1----------	Sb
+9	zraněn	VsYS---XX-AP---	Pred
+10	.	Z:-------------	AuxK
+

@@ -1,0 +1,97 @@
+cmpr9416-030-p2s1
+1	OSKAR	NNMS1-----A----	ExD
+
+cmpr9416-030-p3s1
+1	Za	RR--4----------	AuxP
+2	mimořádný	AAIS4----1A----	Atr
+3	výkon	NNIS4-----A----	ExD
+
+cmpr9416-030-p4s1
+1	Firmě	NNFS3-----A----	ExD
+2	Fornax	NNIS1-----A----	Atr
+3	za	RR--4----------	AuxP
+4	výrobu	NNFS4-----A----	ExD
+5	tepelně	Dg-------1A----	Adv
+6	izolačních	AAIP2----1A----	Atr
+7	panelů	NNIP2-----A----	Atr
+8	Ternax	NNIS1-----A----	Atr
+9	a	J^-------------	Coord
+10	jejich	PSXXXXP3-------	Atr
+11	instalace	NNFP4-----A----	Atr
+12	systémem	NNIS7-----A----	Atr
+13	TIS	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9416-030-p4s2
+1	Panely	NNIP1-----A----	Sb
+2	patří	VB-P---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	předložených	AAIP2----1A----	Atr
+5	atestů	NNIP2-----A----	Adv
+6	i	J^-------------	Coord
+7	vyjádření	NNNS2-----A----	Adv
+8	Státní	AAFS2----1A----	Atr
+9	energetické	AAFS2----1A----	Atr
+10	inspekce	NNFS2-----A----	Atr
+11	ke	RV--3----------	AuxP
+12	kvalitním	AAIP3----1A----	Atr
+13	výrobkům	NNIP3-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9416-030-p4s3
+1	Použití	NNNS1-----A----	Sb
+2	panelů	NNIP2-----A----	Atr
+3	při	RR--6----------	AuxP
+4	izolacích	NNFP6-----A----	Atr
+5	stěn	NNFP2-----A----	Atr
+6	a	J^-------------	Coord
+7	střech	NNFP2-----A----	Atr
+8	objektů	NNIP2-----A----	Atr
+9	znamená	VB-S---3P-AA---	Pred
+10	vysoké	AAFP4----1A----	Atr
+11	úspory	NNFP4-----A----	Obj
+12	nákladů	NNIP2-----A----	Atr
+13	na	RR--4----------	AuxP
+14	vytápění	NNNS4-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9416-030-p5s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Fornax	NNFS1-----A----	ExD
+4	,	Z:-------------	AuxX
+5	s	NNFXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	r	NNNS7-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	o	AANS7----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	,	Z:-------------	AuxX
+12	696	C=-------------	Atr
+13	71	C=-------------	Atr
+14	Blatnička	NNFS1-----A----	Atr
+15	č	NNNXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	174	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	tel	NNIXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	:	Z:-------------	AuxG
+22	(	Z:-------------	AuxG
+23	0631	C=-------------	Atr
+24	)	Z:-------------	AuxG
+25	94	C=-------------	Atr
+26	29	C=-------------	Atr
+27	07	C=-------------	Atr
+28	,	Z:-------------	Coord
+29	tel	NNIXX-----A---8	Atr
+30	/	Z:-------------	Coord
+31	FAX	NNIS1-----A----	Atr
+32	:	Z:-------------	AuxG
+33	(	Z:-------------	AuxG
+34	0631	C=-------------	Atr
+35	)	Z:-------------	AuxG
+36	95	C=-------------	Atr
+37	26	C=-------------	Atr
+38	50	C=-------------	Atr
+

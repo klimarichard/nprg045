@@ -1,0 +1,127 @@
+ln94202-38-p1s1
+1	Nebudou	VB-P---3F-NA---	AuxV
+2	bydlet	Vf--------A----	Pred
+3	bez	RR--2----------	AuxP
+4	placení	NNNS2-----A----	Adv
+
+ln94202-38-p2s1A
+1	Jihlava	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ld	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94202-38-p2s1B
+1	Jihlavská	AAFS1----1A----	Atr
+2	radnice	NNFS1-----A----	Sb
+3	hodlá	VB-S---3P-AA---	Pred
+4	rázně	Dg-------1A----	Adv
+5	řešit	Vf--------A----	Obj
+6	problém	NNIS4-----A----	Obj
+7	neplatičů	NNMP2-----A----	Atr
+8	nájemného	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94202-38-p2s2
+1	Město	NNNS1-----A----	Sb
+2	jich	PPXP2--3-------	Atr
+3	eviduje	VB-S---3P-AA---	Pred
+4	už	Db-------------	Adv
+5	176	C=-------------	Obj
+6	a	J^-------------	Coord
+7	jejich	PSXXXXP3-------	Atr
+8	dluh	NNIS1-----A----	Sb
+9	se	P7-X4----------	AuxT
+10	vyšplhal	VpYS---XR-AA---	Pred
+11	na	RR--4----------	AuxP
+12	více	Dg-------2A----	Adv
+13	než	J,-------------	AuxC
+14	půl	NNFS4-----A----	Adv
+15	milionu	NNIS2-----A----	Atr
+16	Kč	NNFXX-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94202-38-p2s3
+1	V	RR--6----------	AuxP
+2	okrajové	AAFS6----1A----	Atr
+3	části	NNFS6-----A----	Adv
+4	Jihlavy	NNFS2-----A----	Atr
+5	budou	VB-P---3F-AA---	AuxV
+6	adaptovány	VsTP---XX-AP---	Pred
+7	dvě	ClHP1----------	Atr
+8	budovy	NNFP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	v	RR--6----------	AuxP
+11	nichž	P9XP6----------	Adv
+12	vznikne	VB-S---3P-AA---	Atr
+13	20	C=-------------	Sb
+14	tzv	AAXXX----1A---8	Atr
+15	.	Z:-------------	AuxG
+16	holobytů	NNIP2-----A----	Atr
+17	pro	RR--4----------	AuxP
+18	dlužníky	NNMP4-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94202-38-p2s4
+1	Půjde	VB-S---3F-AA---	Pred
+2	o	RR--4----------	AuxP
+3	místnosti	NNFP4-----A----	Obj
+4	s	RR--7----------	AuxP
+5	rozlohou	NNFS7-----A----	Atr
+6	do	RR--2----------	AuxP
+7	20	C=-------------	Atr
+8	metrů	NNIP2-----A----	Atr
+9	čtverečních	AAIP2----1A----	Atr
+10	s	RR--7----------	AuxP
+11	betonovou	AAFS7----1A----	Atr
+12	podlahou	NNFS7-----A----	Atr
+13	,	Z:-------------	Coord
+14	kovovými	AAFP7----1A----	Atr
+15	okenicemi	NNFP7-----A----	Atr
+16	i	J^-------------	Coord
+17	zárubněmi	NNFP7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94202-38-p2s5
+1	Velmi	Db-------------	Adv
+2	skromné	AANS1----1A----	Pnom
+3	bude	VB-S---3F-AA---	Pred
+4	také	Db-------------	AuxZ
+5	sociální	AANS1----1A----	Atr
+6	zázemí	NNNS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+ln94202-38-p2s6
+1	Má	VB-S---3P-AA---	Pred
+2	je	PPNS4--3-------	Obj
+3	tvořit	Vf--------A----	Obj
+4	společná	AAFS1----1A----	Atr
+5	umývárna	NNFS1-----A----	Sb
+6	a	J^-------------	Coord
+7	WC	NNNXX-----A---8	Sb
+8	.	Z:-------------	AuxK
+
+ln94202-38-p2s7
+1	Podle	RR--2----------	AuxP
+2	sdělení	NNNS2-----A----	Adv
+3	zástupce	NNMS2-----A----	Atr
+4	starosty	NNMS2-----A----	Atr
+5	ing	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Josefa	NNMS2-----A----	Atr
+8	Ježka	NNMS2-----A----	Atr
+9	soudnímu	AANS3----1A----	Atr
+10	vystěhování	NNNS3-----A----	Obj
+11	dlužníků	NNMP2-----A----	Atr
+12	a	J^-------------	Coord
+13	sociálně	Dg-------1A----	Adv
+14	nepřizpůsobivých	AAFP2----1N----	Atr
+15	rodin	NNFP2-----A----	Atr
+16	bude	VB-S---3F-AA---	AuxV
+17	nejprve	Db-------------	Adv
+18	předcházet	Vf--------A----	Pred
+19	možnost	NNFS1-----A----	Sb
+20	úhrady	NNFS2-----A----	Atr
+21	pohledávky	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+

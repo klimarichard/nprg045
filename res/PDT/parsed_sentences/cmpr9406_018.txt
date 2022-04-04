@@ -1,0 +1,153 @@
+cmpr9406-018-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	2	C=-------------	Atr
+
+cmpr9406-018-p2s1
+1	Výrobce	NNMS1-----A----	ExD
+2	-	Z:-------------	Coord
+3	typ	NNIS1-----A----	ExD
+4	:	Z:-------------	AuxG
+5	RICOH	NNIS1-----A----	Atr
+6	FAX	NNIS1-----A----	Atr
+7	PF	NNXXX-----A---8	Atr
+8	-	Z:-------------	AuxG
+9	1	C=-------------	Atr
+
+cmpr9406-018-p3s1
+1	Způsob	NNIS1-----A----	ExD
+2	tisku	NNIS2-----A----	Atr
+3	:	Z:-------------	Apos
+4	TZ	NNIXX-----A---8	ExD
+
+cmpr9406-018-p4s1
+1	Přenosová	AAFS1----1A----	Atr
+2	rychlost	NNFS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	(	Z:-------------	AuxG
+5	A	NNFXX-----A---8	Atr
+6	4	C=-------------	Atr
+7	/	Z:-------------	AuxG
+8	sec	NNFXX-----A---8	Atr
+9	)	Z:-------------	AuxG
+10	34	C=-------------	ExD
+
+cmpr9406-018-p6s1
+1	Rozměry	NNIP1-----A----	Sb
+2	:	Z:-------------	Pred
+3	(	Z:-------------	ExD
+4	mm	NNIXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	277	C=-------------	Pnom
+7	x	J*-------------	AuxG
+8	180	C=-------------	Pnom
+9	x	J*-------------	Coord
+10	57	C=-------------	Pnom
+
+cmpr9406-018-p7s1
+1	Cena	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	(	Z:-------------	AuxG
+4	Kč	NNFXX-----A----	Atr
+5	)	Z:-------------	AuxG
+6	65	C=-------------	ExD
+7	067	C=-------------	Atr
+
+cmpr9406-018-p8s1A
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9406-018-p8s1B
+1	Kufříkový	AAIS1----1A----	Atr
+2	fax	NNIS1-----A----	ExD
+3	upravený	AAIS1----1A----	Atr
+4	na	RR--4----------	AuxP
+5	použití	NNNS4-----A----	Adv
+6	s	RR--7----------	AuxP
+7	mobilním	AAIS7----1A----	Atr
+8	telefonem	NNIS7-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9406-018-p8s2
+1	Tomu	PDZS3----------	Obj
+2	odpovídá	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	jeho	PSXXXZS3-------	Atr
+5	hmotnost	NNFS1-----A----	Sb
+6	2.5	C=-------------	Atr
+7	kg	NNIXX-----A---8	Atr
+8	včetně	Db-------------	AuxP
+9	baterie	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9406-018-p8s3
+1	Funkční	AAFP1----1A----	Atr
+2	vlastnosti	NNFP1-----A----	ExD
+3	obdobné	AAFP1----1A----	ExD
+4	jako	J,-------------	AuxC
+5	u	RR--2----------	AuxP
+6	běžných	AAIP2----1A----	Atr
+7	stolních	AAIP2----1A----	Atr
+8	faxů	NNIP2-----A----	ExD
+9	.	Z:-------------	AuxK
+
+cmpr9406-018-p8s4
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	mobilní	AAIS1----1A----	Atr
+6	telefon	NNIS1-----A----	Sb
+7	je	VB-S---3P-AA---	Atr
+8	použitelný	AAIS1----1A----	Pnom
+9	i	J^-------------	AuxZ
+10	mimo	RR--4----------	AuxP
+11	auto	NNNS4-----A----	Adv
+12	,	Z:-------------	AuxX
+13	pak	Db-------------	Adv
+14	je	VB-S---3P-AA---	Pred
+15	fax	NNIS1-----A----	Sb
+16	PF	NNXXX-----A---8	Atr
+17	-	Z:-------------	AuxG
+18	1	C=-------------	Atr
+19	použitelný	AAIS1----1A----	Pnom
+20	také	Db-------------	Adv
+21	.	Z:-------------	AuxK
+
+cmpr9406-018-p9s1A
+1	Shrnutí	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9406-018-p9s1B
+1	Přístroj	NNIS1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	umožňuje	VB-S---3P-AA---	Atr
+5	i	J^-------------	AuxZ
+6	během	RR--2----------	AuxP
+7	jízdy	NNFS2-----A----	Adv
+8	v	RR--6----------	AuxP
+9	autě	NNNS6-----A----	Atr
+10	přijímat	Vf--------A----	Obj
+11	a	J^-------------	Coord
+12	vysílat	Vf--------A----	Obj
+13	faxové	AAFP4----1A----	Atr
+14	zprávy	NNFP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9406-018-p9s2
+1	Ocení	VB-P---3P-AA---	Pred
+2	ho	PHZS4--3-------	Obj
+3	zřejmě	Dg-------1A----	AuxY
+4	podnikatelé	NNMP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	vybaveni	VsMP---XX-AP---	Atr
+7	mobilním	AAIS7----1A----	Atr
+8	telefonem	NNIS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	kteří	P4MP1----------	Sb
+11	hodně	Dg-------1A----	Adv
+12	cestují	VB-P---3P-AA---	Atr
+13	autem	NNNS7-----A----	Adv
+14	.	Z:-------------	AuxK
+

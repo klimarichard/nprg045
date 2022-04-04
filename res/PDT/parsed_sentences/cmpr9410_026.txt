@@ -1,0 +1,127 @@
+cmpr9410-026-p2s1
+1	Neurologie	NNFS1-----A----	Sb
+2	prosí	VB-S---3P-AA---	Pred
+
+cmpr9410-026-p3s1
+1	Dětská	AAFS1----1A----	Atr
+2	neurologie	NNFS1-----A----	Sb
+3	ve	RV--6----------	AuxP
+4	fakultní	AAFS6----1A----	Atr
+5	nemocnici	NNFS6-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Atr
+8	je	VB-S---3P-AA---	Pred
+9	dosti	Dg-------1A---3	Adv
+10	vzácné	AANS1----1A----	Atr
+11	specializované	AANS1----1A----	Atr
+12	lékařské	AANS1----1A----	Atr
+13	pracoviště	NNNS1-----A----	Pnom
+14	.	Z:-------------	AuxK
+
+cmpr9410-026-p4s1
+1	Léčí	VB-S---3P-AA---	Pred
+2	z	RR--2----------	AuxP
+3	celé	AAFS2----1A----	Atr
+4	ČR	NNFXX-----A---8	Atr
+5	2	C=-------------	Atr
+6	-	Z:-------------	Coord
+7	15	C=-------------	Adv
+8	leté	AAFP4----1A----	Atr
+9	děti	NNFP4-----A----	Obj
+10	s	RR--7----------	AuxP
+11	poškozením	NNNS7-----A----	Atr
+12	mozku	NNIS2-----A----	Atr
+13	a	J^-------------	Coord
+14	míchy	NNFS2-----A----	Atr
+15	,	Z:-------------	Coord
+16	vrozenými	AAFP7----1A----	Atr
+17	vývojovými	AAFP7----1A----	Atr
+18	anomáliemi	NNFP7-----A----	Atr
+19	,	Z:-------------	AuxX
+20	po	RR--6----------	AuxP
+21	mozkové	AAFS6----1A----	Atr
+22	obrně	NNFS6-----A----	Atr
+23	,	Z:-------------	Coord
+24	s	RR--7----------	AuxP
+25	degenerací	NNFS7-----A----	Atr
+26	svalů	NNIP2-----A----	Atr
+27	,	Z:-------------	Coord
+28	mozkovou	AAFS7----1A----	Atr
+29	obrnou	NNFS7-----A----	Atr
+30	a	J^-------------	Coord
+31	s	RR--7----------	AuxP
+32	epilepsií	NNFS7-----A----	Atr
+33	.	Z:-------------	AuxK
+
+cmpr9410-026-p4s2
+1	Takové	PDFP1----------	Atr
+2	choroby	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	léčí	VB-P---3P-AA---	Pred
+5	dlouhodobě	Dg-------1A----	Adv
+6	,	Z:-------------	Coord
+7	často	Dg-------1A----	ExD
+8	s	RR--7----------	AuxP
+9	pobytem	NNIS7-----A----	ExD
+10	na	RR--6----------	AuxP
+11	lůžkovém	AANS6----1A----	Atr
+12	oddělení	NNNS6-----A----	Atr
+13	,	Z:-------------	Coord
+14	léčba	NNFS1-----A----	Sb
+15	je	VB-S---3P-AA---	Pred
+16	spojena	VsQW---XX-AP---	Pnom
+17	se	RV--7----------	AuxP
+18	školní	AAFS7----1A----	Atr
+19	výukou	NNFS7-----A----	Obj
+20	.	Z:-------------	AuxK
+
+cmpr9410-026-p4s3
+1	Protože	J,-------------	AuxC
+2	prostředí	NNNS1-----A----	Sb
+3	dětské	AAFS2----1A----	Atr
+4	neurologie	NNFS2-----A----	Atr
+5	není	VB-S---3P-NA---	Adv
+6	příliš	Db-------------	Adv
+7	radostné	AANS1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	usilují	VB-P---3P-AA---	Pred
+10	tamní	AAMP1----1A----	Atr
+11	lékaři	NNMP1-----A----	Sb
+12	o	RR--4----------	AuxP
+13	jeho	PSXXXZS3-------	Atr
+14	vylepšení	NNNS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9410-026-p4s4
+1	K	RR--3----------	AuxP
+2	tomu	PDZS3----------	Adv
+3	založili	VpMP---XR-AA---	Pred
+4	konto	NNNS4-----A----	Obj
+5	v	RR--6----------	AuxP
+6	Komerční	AAFS6----1A----	Atr
+7	bance	NNFS6-----A----	AdvAtr
+8	-	Z:-------------	AuxG
+9	Praha	NNFS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	č	NNNXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	35	C=-------------	Atr
+14	-	Z:-------------	AuxG
+15	24035	C=-------------	Atr
+16	-	Z:-------------	AuxG
+17	021	C=-------------	Atr
+18	/	Z:-------------	AuxG
+19	0100	C=-------------	Atr
+20	,	Z:-------------	Coord
+21	variabilní	AAIS1----1A----	Atr
+22	symbol	NNIS1-----A----	Atr
+23	918026	C=-------------	Atr
+24	a	J^-------------	Coord
+25	přivítají	VB-P---3P-AA---	Pred
+26	sponzorskou	AAFS4----1A----	Atr
+27	účast	NNFS4-----A----	Obj
+28	v	RR--6----------	AuxP
+29	jakékoli	PZFS6---------1	Atr
+30	výši	NNFS6-----A----	Atr
+31	.	Z:-------------	AuxK
+

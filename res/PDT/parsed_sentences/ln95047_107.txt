@@ -1,0 +1,234 @@
+ln95047-107-p1s1
+1	Chráněným	AAFP3----1A----	Atr
+2	dílnám	NNFP3-----A----	Obj
+3	by	Vc-------------	AuxV
+4	pomohly	VpTP---XR-AA---	Pred
+5	státní	AAFP1----1A----	Atr
+6	zakázky	NNFP1-----A----	Sb
+
+ln95047-107-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-107-p2s1B
+1	Chráněné	AAFP4----1A----	Atr
+2	dílny	NNFP4-----A----	Obj
+3	by	Vc-------------	AuxV
+4	mohly	VpTP---XR-AA---	Pred
+5	před	RR--7----------	AuxP
+6	zánikem	NNIS7-----A----	Obj
+7	zachránit	Vf--------A----	Obj
+8	státní	AAFP1----1A----	Atr
+9	zakázky	NNFP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95047-107-p2s2
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	LN	NNFPX-----A---8	Obj
+4	řekl	VpYS---XR-AA---	Pred
+5	předseda	NNMS1-----A----	Atr
+6	výrobního	AANS2----1A----	Atr
+7	družstva	NNNS2-----A----	Atr
+8	invalidů	NNMP2-----A----	Atr
+9	DIPRA	NNFXX-----A---8	Atr
+10	Petr	NNMS1-----A----	Atr
+11	Pálek	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln95047-107-p3s1
+1	Družstvo	NNNS1-----A----	Sb
+2	zaměstnává	VB-S---3P-AA---	Pred
+3	asi	TT-------------	AuxZ
+4	200	C=-------------	Obj
+5	zaměstnanců	NNMP2-----A----	Atr
+6	,	Z:-------------	ExD
+7	z	RR--2----------	AuxP
+8	toho	PDZS2----------	ExD
+9	přibližně	Dg-------1A----	AuxZ
+10	sedmdesát	Cn-S4----------	ExD
+11	procent	NNNP2-----A----	Atr
+12	zdravotně	Dg-------1A----	Adv
+13	postižených	AAMP2----1A----	ExD
+14	.	Z:-------------	AuxK
+
+ln95047-107-p3s2
+1	V	RR--6----------	AuxP
+2	dílnách	NNFP6-----A----	Adv
+3	zde	Db-------------	Adv
+4	vyrábějí	VB-P---3P-AA---	Pred
+5	kabely	NNIP4-----A----	Obj
+6	do	RR--2----------	AuxP
+7	automobilů	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	těsnění	NNNP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	globusy	NNIP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	kartóny	NNIP4-----A----	Obj
+14	a	J^-------------	Coord
+15	výrobky	NNIP4-----A----	Obj
+16	z	RR--2----------	AuxP
+17	plexiskla	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95047-107-p3s3
+1	Práce	NNFS2-----A----	Atr
+2	pro	RR--4----------	AuxP
+3	těžce	Dg-------1A----	Adv
+4	zdravotně	Dg-------1A----	Adv
+5	postižené	AAMP4----1A----	Atr
+6	v	RR--6----------	AuxP
+7	chráněných	AAFP6----1A----	Atr
+8	dílnách	NNFP6-----A----	Atr
+9	je	VB-S---3P-AA---	Pred
+10	nyní	Db-------------	Adv
+11	podle	RR--2----------	AuxP
+12	Petra	NNMS2-----A----	Atr
+13	Pálka	NNMS2-----A----	Adv
+14	zoufalý	AAIS1----1A----	Atr
+15	nedostatek	NNIS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95047-107-p3s4
+1	Na	RR--6----------	AuxP
+2	konci	NNIS6-----A----	Adv
+3	minulého	AAIS2----1A----	Atr
+4	roku	NNIS2-----A---1	Atr
+5	,	Z:-------------	AuxX
+6	kdy	Db-------------	Adv
+7	automobilka	NNFS1-----A----	Sb
+8	Škoda	NNFS1-----A----	Atr
+9	Mladá	AAFS1----1A----	Atr
+10	Boleslav	NNFS1-----A----	Atr
+11	zahajovala	VpQW---XR-AA---	Atr
+12	výrobu	NNFS4-----A----	Obj
+13	Felicie	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	neměla	VpQW---XR-NA---	Pred
+16	DIPRA	NNFXX-----A---8	Sb
+17	dostatek	NNIS4-----A----	Obj
+18	zakázek	NNFP2-----A----	Atr
+19	pro	RR--4----------	AuxP
+20	dílnu	NNFS4-----A----	Atr
+21	s	RR--7----------	AuxP
+22	třiceti	Cn-P7----------	Atr
+23	pracovníky	NNMP7-----A----	Atr
+24	,	Z:-------------	AuxX
+25	kde	Db-------------	Adv
+26	se	P7-X4----------	AuxR
+27	vyráběly	VpTP---XR-AA---	Atr
+28	kabely	NNIP1-----A----	Sb
+29	do	RR--2----------	AuxP
+30	škodovek	NNFP2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95047-107-p3s5
+1	Aby	J,-------------	AuxC
+2	Petr	NNMS1-----A----	Atr
+3	Pálek	NNMS1-----A----	Sb
+4	nemusel	VpYS---XR-NA---	Adv
+5	propustit	Vf--------A----	Obj
+6	zdravotně	Dg-------1A----	Adv
+7	postižené	AAMP4----1A----	ExD
+8	,	Z:-------------	AuxX
+9	požádal	VpYS---XR-AA---	Pred
+10	o	RR--4----------	AuxP
+11	statut	NNIS4-----A----	Obj
+12	chráněné	AAFS2----1A----	Atr
+13	dílny	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95047-107-p3s6
+1	Od	RR--2----------	AuxP
+2	ředitele	NNMS2-----A----	Obj
+3	Úřadu	NNIS2-----A----	Atr
+4	práce	NNFS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Praze	NNFS6-----A----	Atr
+7	5	C=-------------	Atr
+8	se	P7-X4----------	AuxT
+9	ale	J^-------------	Coord
+10	dozvěděl	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	na	RR--4----------	AuxP
+14	nové	AAFP4----1A----	Atr
+15	dílny	NNFP4-----A----	Adv
+16	v	RR--6----------	AuxP
+17	Praze	NNFS6-----A----	Atr
+18	nejsou	VB-P---3P-NA---	Obj
+19	finance	NNFP1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln95047-107-p3s7
+1	V	RR--6----------	AuxP
+2	hlavním	AANS6----1A----	Atr
+3	městě	NNNS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	nízká	AAFS1----1A----	Atr
+6	nezaměstnanost	NNFS1-----A----	Sb
+7	a	J^-------------	Coord
+8	zdravotně	Dg-------1A----	Adv
+9	postižení	AAMP1----1A----	Sb
+10	většinou	Db-------------	Adv
+11	v	RR--6----------	AuxP
+12	evidenci	NNFS6-----A----	Adv
+13	nezaměstnaných	NNMP2-----A----	Atr
+14	nefigurují	VB-P---3P-NA---	Pred
+15	,	Z:-------------	AuxX
+16	protože	J,-------------	AuxC
+17	pobírají	VB-P---3P-AA---	Adv
+18	invalidní	AAIS4----1A----	Atr
+19	důchod	NNIS4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	případně	Dg-------1A----	Coord
+22	sociální	AAFP4----1A----	Atr
+23	dávky	NNFP4-----A----	Obj
+24	odborů	NNIP2-----A----	Atr
+25	sociální	AAFS2----1A----	Atr
+26	péče	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95047-107-p4s1
+1	Jana	NNFS1-----A----	Atr
+2	Filáčková	NNFS1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	ministerstva	NNNS2-----A----	Atr
+5	práce	NNFS2-----A----	Atr
+6	připomíná	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	pro	RR--4----------	AuxP
+10	těžce	Dg-------1A----	Adv
+11	postižené	AAMP4----1A----	Adv
+12	zřizují	VB-P---3P-AA---	Obj
+13	nestátní	AAFP1----1N----	Atr
+14	organizace	NNFP1-----A----	Sb
+15	stacionáře	NNIP4-----A----	Obj
+16	a	J^-------------	Coord
+17	"	Z:-------------	AuxG
+18	školy	NNFP4-----A----	Obj
+19	dovedností	NNFP2-----A----	Atr
+20	"	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+ln95047-107-p4s2
+1	V	RR--6----------	AuxP
+2	republice	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	jich	PPXP2--3-------	Atr
+5	kolem	RR--2----------	AuxP
+6	třicítky	NNFS2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln95047-107-p4s3
+1	Kvalitní	AAIP4----1A----	Atr
+2	projekty	NNIP4-----A----	Obj
+3	ministerstvo	NNNS1-----A----	Sb
+4	dotuje	VB-S---3P-AA---	Pred
+5	ze	RV--2----------	AuxP
+6	70	C=-------------	Atr
+7	procent	NNNP2-----A----	Adv
+8	.	Z:-------------	AuxK
+

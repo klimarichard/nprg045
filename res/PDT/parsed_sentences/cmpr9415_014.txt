@@ -1,0 +1,208 @@
+cmpr9415-014-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	8	C=-------------	Atr
+
+cmpr9415-014-p2s1
+1	Kancelář	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Incentive	AAXXX----1A----	Atr
+4	Travel	NNFP2-----A----	ExD
+
+cmpr9415-014-p3s1
+1	Oblast	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Itálie	NNFS1-----A----	ExD
+4	-	Z:-------------	Coord
+5	Lido	NNNS1-----A----	ExD
+6	di	RR--X----------	AuxP
+7	Jesolo	NNNS1-----A----	Atr
+
+cmpr9415-014-p4s1
+1	Ubytovací	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Hotel	NNIS1-----A----	ExD
+5	Sant	NNFP2-----A----	Atr
+6	Ambrogio	NNNS1-----A----	Atr
+7	*	Z:-------------	AuxG
+8	*	Z:-------------	AuxG
+9	*	Z:-------------	AuxG
+
+cmpr9415-014-p5s1
+1	Cena	NNFS1-----A----	ExD
+2	za	RR--4----------	AuxP
+3	osobu	NNFS4-----A----	Atr
+4	Kč	NNFXX-----A----	Atr
+5	:	Z:-------------	Coord
+6	Květen	NNIS1-----A----	ExD
+7	1994	C=-------------	Atr
+8	-	Z:-------------	Coord
+9	4490	C=-------------	ExD
+
+cmpr9415-014-p6s1
+1	Dítě	NNNS1-----A----	ExD
+2	Kč	NNFXX-----A----	Atr
+3	:	Z:-------------	Coord
+4	Do	RR--2----------	AuxP
+5	12	C=-------------	Atr
+6	let	NNNP2-----A----	ExD
+7	sleva	NNFS1-----A----	ExD
+8	10	C=-------------	Atr
+9	%	Z:-------------	Atr
+
+cmpr9415-014-p7s1
+1	Stravování	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Snídaně	NNFP1-----A----	ExD
+4	,	Z:-------------	Coord
+5	doplatek	NNIS1-----A----	ExD
+6	na	RR--4----------	AuxP
+7	polopenzi	NNFS4-----A----	Atr
+8	1500	C=-------------	Atr
+9	Kč	NNFXX-----A----	Atr
+10	za	RR--4----------	AuxP
+11	týden	NNIS4-----A----	Atr
+
+cmpr9415-014-p8s1
+1	Doprava	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Vlastní	AAFS1----1A----	ExD
+
+cmpr9415-014-p9s1
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Hotel	NNIS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	umístěn	VsYS---XX-AP---	Pnom
+6	v	RR--6----------	AuxP
+7	oblasti	NNFS6-----A----	Adv
+8	Lido	NNNS1-----A----	Atr
+9	di	RR--X----------	AuxP
+10	Jesolo	NNNS1-----A----	Atr
+11	,	Z:-------------	Apos
+12	na	RR--6----------	AuxP
+13	severu	NNIS6-----A----	Adv
+14	Itálie	NNFS2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	Benátské	AAFS6----1A----	Atr
+17	laguně	NNFS6-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s2
+1	Je	VB-S---3P-AA---	Pred
+2	zde	Db-------------	Adv
+3	15	C=-------------	Adv
+4	km	NNIXX-----A---8	Atr
+5	dlouhá	AAFS1----1A----	Atr
+6	písečná	AAFS1----1A----	Atr
+7	pláž	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	se	P7-X4----------	AuxT
+11	mírně	Dg-------1A----	Adv
+12	svažuje	VB-S---3P-AA---	Atr
+13	do	RR--2----------	AuxP
+14	moře	NNNS2-----A----	Adv
+15	,	Z:-------------	Coord
+16	což	PE--1----------	Sb
+17	je	VB-S---3P-AA---	Pred
+18	vhodné	AANS1----1A----	Pnom
+19	zejména	Db-------------	AuxZ
+20	pro	RR--4----------	AuxP
+21	rodiny	NNFP4-----A----	Adv
+22	s	RR--7----------	AuxP
+23	malými	AAFP7----1A----	Atr
+24	dětmi	NNFP7-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s3
+1	Hotel	NNIS1-----A----	Sb
+2	leží	VB-S---3P-AA---	Pred
+3	cca	Db-------------	AuxZ
+4	80	C=-------------	Adv
+5	m	NNIXX-----A---8	Atr
+6	od	RR--2----------	AuxP
+7	pláže	NNFS2-----A----	Atr
+8	vyhrazené	AAFS2----1A----	Atr
+9	jen	TT-------------	AuxZ
+10	hotelovým	AAMP3----1A----	Atr
+11	hostům	NNMP3-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s4
+1	Na	RR--6----------	AuxP
+2	pláži	NNFS6-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	bezplatně	Dg-------1A----	Adv
+5	k	RR--3----------	AuxP
+6	dispozici	NNFS3-----A----	Adv
+7	lehátka	NNNP1-----A----	Sb
+8	a	J^-------------	Coord
+9	slunečníky	NNIP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s5
+1	Vlastní	AAIS1----1A----	Atr
+2	bazén	NNIS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	terase	NNFS6-----A----	Atr
+5	hotelu	NNIS2-----A----	Atr
+6	s	RR--7----------	AuxP
+7	barem	NNIS7-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s6
+1	Klimatizovaná	AAFS1----1A----	Atr
+2	jídelna	NNFS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	světlá	AAFS1----1A----	Atr
+5	místnost	NNFS1-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	snídaně	NNFP4-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s7
+1	Pokoje	NNIP1-----A----	ExD
+2	se	RV--7----------	AuxP
+3	sprchou	NNFS7-----A----	Atr
+4	,	Z:-------------	AuxX
+5	WC	NNNXX-----A---8	Atr
+6	a	J^-------------	Coord
+7	telefonem	NNIS7-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s8
+1	V	RR--6----------	AuxP
+2	ceně	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	jen	TT-------------	AuxZ
+5	snídaně	NNFS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s9
+1	Za	RR--4----------	AuxP
+2	doplatek	NNIS4-----A----	ExD
+3	večeře	NNFS1-----A----	ExD
+4	nebo	J^-------------	Coord
+5	oběd	NNIS1-----A----	ExD
+6	podle	RR--2----------	AuxP
+7	jídelního	AAIS2----1A----	Atr
+8	lístku	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s10
+1	Kuchyně	NNFS1-----A---1	ExD
+2	italská	AAFS1----1A----	Atr
+3	,	Z:-------------	AuxX
+4	německá	AAFS1----1A----	Atr
+5	a	J^-------------	Coord
+6	mezinárodní	AAFS1----1A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9415-014-p9s11
+1	Parkoviště	NNNS1-----A----	ExD
+2	u	RR--2----------	AuxP
+3	hotelu	NNIS2-----A----	Atr
+4	.	Z:-------------	AuxK
+

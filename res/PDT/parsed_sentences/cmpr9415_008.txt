@@ -1,0 +1,175 @@
+cmpr9415-008-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	2	C=-------------	Atr
+
+cmpr9415-008-p2s1
+1	Kancelář	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	Springer	NNMS1-----A----	Atr
+4	Reisen	NNIS1-----A----	Atr
+
+cmpr9415-008-p3s1
+1	Oblast	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Rakousko	NNNS1-----A----	ExD
+4	-	Z:-------------	Apos
+5	Tyroly	NNIP1-----A----	ExD
+
+cmpr9415-008-p4s1
+1	Ubytovací	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Selský	AAIS1----1A----	Atr
+5	statek	NNIS1-----A----	ExD
+
+cmpr9415-008-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	osobu	NNFS4-----A----	Atr
+4	Kč	NNFXX-----A----	Atr
+5	:	Z:-------------	Pred
+6	4378	C=-------------	Pnom
+
+cmpr9415-008-p6s1
+1	Dítě	NNNS1-----A----	Sb
+2	Kč	NNFXX-----A----	Atr
+3	:	Z:-------------	Pred
+4	1744	C=-------------	Pnom
+
+cmpr9415-008-p7s1
+1	Stravování	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Jen	TT-------------	AuxZ
+4	snídaně	NNFP1-----A----	ExD
+
+cmpr9415-008-p8s1
+1	Doprava	NNFS1-----A----	Sb
+2	:	Z:-------------	Pred
+3	Vlastní	AAFS1----1A----	Pnom
+
+cmpr9415-008-p9s1
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Pobyt	NNIS1-----A----	ExD
+4	v	RR--6----------	AuxP
+5	selském	AAIS6----1A----	Atr
+6	statku	NNIS6-----A----	Atr
+7	,	Z:-------------	Coord
+8	konkrétní	AANS1----1A----	Atr
+9	místo	NNNS1-----A----	Sb
+10	a	J^-------------	Coord
+11	termín	NNIS1-----A----	Sb
+12	pobytu	NNIS2-----A----	Atr
+13	jsou	VB-P---3P-AA---	AuxV
+14	sjednávány	VsTP---XX-AP---	Pred
+15	podle	RR--2----------	AuxP
+16	přání	NNNS2-----A----	Adv
+17	klienta	NNMS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9415-008-p9s2
+1	Statky	NNIP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	umístěny	VsTP---XX-AP---	Pnom
+4	v	RR--6----------	AuxP
+5	podhůří	NNNS6-----A----	Adv
+6	Alp	NNFP2-----A----	Atr
+7	,	Z:-------------	Apos
+8	v	RR--6----------	AuxP
+9	údolí	NNNS6-----A----	Adv
+10	řeky	NNFS2-----A----	Atr
+11	Inn	NNIS1-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9415-008-p9s3
+1	V	RR--6----------	AuxP
+2	okolí	NNNS6-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	možnosti	NNFP1-----A----	Sb
+5	běžné	AAFS2----1A----	Atr
+6	i	J^-------------	Coord
+7	horské	AAFS2----1A----	Atr
+8	turistiky	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9415-008-p9s4
+1	Pobyt	NNIS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	klidném	AANS6----1A----	Atr
+4	prostředí	NNNS6-----A----	Atr
+5	mimo	RR--4----------	AuxP
+6	ruch	NNIS4-----A----	Atr
+7	hotelů	NNIP2-----A----	Atr
+8	,	Z:-------------	Apos
+9	v	RR--6----------	AuxP
+10	domech	NNIP6-----A----	Atr
+11	s	RR--7----------	AuxP
+12	tradiční	AAFS7----1A----	Atr
+13	tyrolskou	AAFS7----1A----	Atr
+14	pohostinností	NNFS7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9415-008-p9s5
+1	V	RR--6----------	AuxP
+2	ceně	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	ubytování	NNNS1-----A----	Sb
+5	na	RR--4----------	AuxP
+6	sedm	Cn-S4----------	Atr
+7	dní	NNIP2-----A---1	Atr
+8	s	RR--7----------	AuxP
+9	bohatou	AAFS7----1A----	Atr
+10	selskou	AAFS7----1A----	Atr
+11	snídaní	NNFS7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	uvítací	AAIS1----1A----	Atr
+14	přípitek	NNIS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	malý	AAIS1----1A----	Atr
+17	dárek	NNIS1-----A----	Sb
+18	a	J^-------------	Coord
+19	pobytová	AAFS1----1A----	Atr
+20	taxa	NNFS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+cmpr9415-008-p9s6
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	AuxP
+3	zájmu	NNIS2-----A----	Adv
+4	o	RR--4----------	AuxP
+5	pokoj	NNIS4-----A----	Atr
+6	bez	RR--2----------	AuxP
+7	vlastního	AANS2----1A----	Atr
+8	příslušenství	NNNS2-----A----	Atr
+9	(	Z:-------------	ExD
+10	sprcha	NNFS1-----A----	ExD
+11	a	J^-------------	Coord
+12	WC	NNNXX-----A---8	ExD
+13	na	RR--6----------	AuxP
+14	chodbě	NNFS6-----A----	ExD
+15	)	Z:-------------	ExD
+16	by	Vc-------------	AuxV
+17	cena	NNFS1-----A----	Sb
+18	za	RR--4----------	AuxP
+19	dospělého	NNMS4-----A----	Atr
+20	činila	VpQW---XR-AA---	Pred
+21	3180	C=-------------	Obj
+22	Kč	NNFXX-----A----	Atr
+23	a	J^-------------	Coord
+24	za	RR--4----------	AuxP
+25	dítě	NNNS4-----A----	ExD
+26	1265	C=-------------	ExD
+27	Kč	NNFXX-----A----	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9415-008-p9s7
+1	Je	VB-S---3P-AA---	Pred
+2	možno	ACNS------A----	Pnom
+3	dohodnout	Vf--------A----	Sb
+4	rozšíření	NNNS4-----A----	Obj
+5	stravování	NNNS2-----A----	Atr
+6	na	RR--4----------	AuxP
+7	polopenzi	NNFS4-----A----	Atr
+8	.	Z:-------------	AuxK
+

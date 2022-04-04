@@ -1,0 +1,54 @@
+ln94204-69-p1s1
+1	Pistole	NNFS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	nemocnici	NNFS6-----A----	Atr
+
+ln94204-69-p2s1A
+1	Plzeň	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	vet	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-69-p2s1B
+1	V	RR--6----------	AuxP
+2	plzeňské	AAFS6----1A----	Atr
+3	nemocnici	NNFS6-----A----	Adv
+4	MUDr	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Mulače	NNMS2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	stala	VpQW---XR-AA---	Pred
+9	obětí	NNFS7-----A----	Obj
+10	loupežného	AANS2----1A----	Atr
+11	přepadení	NNNS2-----A----	Atr
+12	prodavačka	NNFS1-----A----	Sb
+13	tamějšího	AAIS2----1A----	Atr
+14	bufetu	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94204-69-p2s2
+1	Jeden	ClYS1----------	Sb
+2	ze	RV--2----------	AuxP
+3	zlodějů	NNMP2-----A----	Atr
+4	ženu	NNFS4-----A----	Obj
+5	ohrožoval	VpYS---XR-AA---	Pred
+6	pistolí	NNFS7-----A----	Adv
+7	a	J^-------------	Coord
+8	druhý	CrMS1----------	Sb
+9	inkasoval	VpYS---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+ln94204-69-p2s3
+1	Prodavačka	NNFS1-----A----	Sb
+2	jim	PPXP3--3-------	Obj
+3	musela	VpQW---XR-AA---	Pred
+4	vydat	Vf--------A----	Obj
+5	8400	C=-------------	Obj
+6	korun	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	45	C=-------------	Obj
+9	kartonů	NNIP2-----A----	Atr
+10	cigaret	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+

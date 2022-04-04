@@ -1,0 +1,213 @@
+cmpr9406-025-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	9	C=-------------	Atr
+
+cmpr9406-025-p2s1
+1	Výrobce	NNMS1-----A----	ExD
+2	-	Z:-------------	Coord
+3	typ	NNIS1-----A----	ExD
+4	:	Z:-------------	AuxG
+5	MURATEC	NNIS1-----A----	Atr
+6	M	NNXXX-----A---8	Atr
+7	700	C=-------------	Atr
+
+cmpr9406-025-p3s1
+1	Způsob	NNIS1-----A----	ExD
+2	tisku	NNIS2-----A----	Atr
+3	:	Z:-------------	Apos
+4	TZ	NNIXX-----A---8	ExD
+
+cmpr9406-025-p4s1
+1	Přenosová	AAFS1----1A----	Atr
+2	rychlost	NNFS1-----A----	ExD
+3	(	Z:-------------	AuxG
+4	A	NNFXX-----A---8	Atr
+5	4	C=-------------	Atr
+6	/	Z:-------------	AuxG
+7	s	NNFXX-----A---1	Atr
+8	)	Z:-------------	AuxG
+9	:	Z:-------------	ExD
+10	.	Z:-------------	AuxK
+
+cmpr9406-025-p5s1
+1	Samoopravný	AAIS1----1A----	Atr
+2	režim	NNIS1-----A----	ExD
+3	(	Z:-------------	Apos
+4	ECM	NNIXX-----A---8	ExD
+5	)	Z:-------------	AuxG
+6	:	Z:-------------	Coord
+7	ne	TT-------------	ExD
+
+cmpr9406-025-p6s1
+1	Rozměry	NNIP1-----A----	Sb
+2	(	Z:-------------	ExD
+3	mm	NNIXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	:	Z:-------------	Pred
+6	283	C=-------------	Pnom
+7	x	J*-------------	AuxG
+8	182	C=-------------	Pnom
+9	x	J*-------------	Coord
+10	98	C=-------------	Pnom
+
+cmpr9406-025-p7s1
+1	Cena	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	Kč	NNFXX-----A----	Atr
+4	)	Z:-------------	AuxG
+5	:	Z:-------------	Apos
+6	21500	C=-------------	ExD
+
+cmpr9406-025-p8s1A
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9406-025-p8s1B
+1	Fax	NNIS1-----A----	ExD
+2	kombinovaný	AAIS1----1A----	Atr
+3	s	RR--7----------	AuxP
+4	telefonem	NNIS7-----A----	Obj
+5	a	J^-------------	Coord
+6	s	RR--7----------	AuxP
+7	možností	NNFS7-----A----	Obj
+8	připojení	NNNS2-----A----	Atr
+9	telefonního	AAIS2----1A----	Atr
+10	záznamníku	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-025-p8s2
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	zvednete	VB-P---2P-AA---	Atr
+6	sluchátko	NNNS4-----A----	Obj
+7	před	RR--7----------	AuxP
+8	devátým	CrNS7----------	Atr
+9	zazvoněním	NNNS7-----A----	Adv
+10	,	Z:-------------	AuxX
+11	automaticky	Dg-------1A----	Adv
+12	přepne	VB-S---3P-AA---	Pred
+13	na	RR--4----------	AuxP
+14	telefon	NNIS4-----A----	Adv
+15	,	Z:-------------	Coord
+16	jinak	Db-------------	Adv
+17	je	VB-S---3P-AA---	Pred
+18	zapnutý	AAIS1----1A----	Pnom
+19	fax	NNIS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+cmpr9406-025-p8s3
+1	Ve	RV--6----------	AuxP
+2	vaší	PSFS6-P2-------	Atr
+3	nepřítomnosti	NNFS6-----N----	Adv
+4	příchozímu	AANS3----1A----	Atr
+5	telefonnímu	AANS3----1A----	Atr
+6	spojení	NNNS3-----A----	Obj
+7	oznámí	VB-S---3P-AA---	Pred
+8	vaši	PSFS4-P2-------	Atr
+9	nepřítomnost	NNFS4-----N----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9406-025-p8s4
+1	20	C=-------------	ExD
+2	předvolených	AANP2----1A----	Atr
+3	čísel	NNNP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	z	RR--2----------	AuxP
+6	toho	PDZS2----------	ExD
+7	5	C=-------------	ExD
+8	na	RR--4----------	AuxP
+9	jednotlačítkovou	AAFS4----1A----	Atr
+10	volbu	NNFS4-----A----	ExD
+11	,	Z:-------------	Coord
+12	zbytek	NNIS1-----A----	ExD
+13	na	RR--4----------	AuxP
+14	zkrácenou	AAFS4----1A----	Atr
+15	volbu	NNFS4-----A----	ExD
+16	.	Z:-------------	AuxK
+
+cmpr9406-025-p8s5
+1	Manuální	AANS1----1A----	Atr
+2	jednotlačítkové	AANS1----1A----	Atr
+3	opakování	NNNS1-----A----	ExD
+4	posledního	AANS2----1A----	Atr
+5	voleného	AANS2----1A----	Atr
+6	čísla	NNNS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9406-025-p8s6A
+1	Možnost	NNFS1-----A----	ExD
+2	připojení	NNNS2-----A----	Atr
+3	druhého	CrIS2----------	Atr
+4	telefonu	NNIS2-----A----	Atr
+5	a	J^-------------	Coord
+6	zapnutí	NNNS2-----A----	Atr
+7	faxu	NNIS2-----A----	Atr
+8	i	J^-------------	AuxZ
+9	z	RR--2----------	AuxP
+10	tohoto	PDZS2----------	Atr
+11	přístroje	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9406-025-p8s6B
+1	16	C=-------------	ExD
+2	stupňů	NNIP2-----A----	Atr
+3	šedi	NNFS2-----A----	Atr
+4	a	J^-------------	Coord
+5	dva	ClYP1----------	Atr
+6	stupně	NNIP1-----A----	ExD
+7	rozlišení	NNNS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9406-025-p8s7
+1	Tisk	NNIS1-----A----	ExD
+2	hlavičky	NNFS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	22	C=-------------	Atr
+5	znaků	NNIP2-----A----	Atr
+6	a	J^-------------	Coord
+7	20	C=-------------	Atr
+8	čísel	NNNP2-----A----	Atr
+9	k	RR--3----------	AuxP
+10	identifikaci	NNFS3-----A----	Atr
+11	odesílatele	NNMS2-----A----	Atr
+12	a	J^-------------	Coord
+13	příjemce	NNMS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9406-025-p8s8
+1	Automatický	AAIS1----1A----	Atr
+2	tisk	NNIS1-----A----	ExD
+3	potvrzení	NNNS2-----A----	Atr
+4	o	RR--6----------	AuxP
+5	spojení	NNNS6-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9406-025-p9s1A
+1	Shrnutí	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9406-025-p9s1B
+1	Přístroj	NNIS1-----A----	ExD
+2	velmi	Db-------------	Adv
+3	účelně	Dg-------1A----	Adv
+4	vybavený	AAIS1----1A----	Atr
+5	funkcemi	NNFP7-----A----	Obj
+6	,	Z:-------------	AuxX
+7	užitečnými	AAFP7----1A----	Atr
+8	v	RR--6----------	AuxP
+9	provozu	NNIS6-----A---1	Adv
+10	menších	AAFP2----2A----	Atr
+11	kanceláří	NNFP2-----A----	Atr
+12	nebo	J^-------------	Coord
+13	pro	RR--4----------	AuxP
+14	podnikatele	NNMS4-----A----	Adv
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	má	VB-S---3P-AA---	Atr
+18	kancelář	NNFS4-----A----	Obj
+19	doma	Db-------------	Adv
+20	.	Z:-------------	AuxK
+

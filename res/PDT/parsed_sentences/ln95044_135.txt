@@ -1,0 +1,155 @@
+ln95044-135-p1s1
+1	Změny	NNFP1-----A----	ExD
+2	ve	RV--6----------	AuxP
+3	Zbrojovce	NNFS6-----A----	Atr
+4	Vsetín	NNIS1-----A----	Atr
+
+ln95044-135-p2s1A
+1	Vsetín	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-135-p2s1B
+1	Mimořádná	AAFS1----1A----	Atr
+2	valná	AAFS1----1A----	Atr
+3	hromada	NNFS1-----A----	Sb
+4	Zbrojovka	NNFS1-----A----	Atr
+5	Vsetín	NNIS1-----A----	Atr
+6	,	Z:-------------	AuxX
+7	svolaná	AAFS1----1A----	Atr
+8	na	RR--6----------	AuxP
+9	základě	NNIS6-----A----	AuxP
+10	písemné	AAFS2----1A----	Atr
+11	žádosti	NNFS2-----A----	Adv
+12	11.5	C=-------------	Atr
+13	procenta	NNNS2-----A----	Atr
+14	akcionářů	NNMP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	se	P7-X4----------	AuxR
+17	včera	Db-------------	Adv
+18	uskutečnila	VpQW---XR-AA---	Pred
+19	ve	RV--6----------	AuxP
+20	Vsetíně	NNIS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln95044-135-p2s2
+1	Akcionáři	NNMP1-----A----	Sb
+2	schválili	VpMP---XR-AA---	Pred
+3	změnu	NNFS4-----A----	Obj
+4	stanov	NNFP2-----A----	Atr
+5	společnosti	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	odvolali	VpMP---XR-AA---	Pred
+8	dosavadní	AAFS4----1A----	Atr
+9	dozorčí	AAFS4----1A----	Atr
+10	radu	NNFS4-----A----	Obj
+11	a	J^-------------	Coord
+12	přijali	VpMP---XR-AA---	Pred
+13	rezignaci	NNFS4-----A----	Obj
+14	představenstva	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95044-135-p2s3
+1	Podle	RR--2----------	AuxP
+2	změněných	AAFP2----1A----	Atr
+3	stanov	NNFP2-----A----	Adv
+4	dochází	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	omezení	NNNS3-----A----	Obj
+7	pravomocí	NNFP2-----A----	Atr
+8	dozorčí	AAFS2----1A----	Atr
+9	rady	NNFS2-----A----	Atr
+10	pouze	Db-------------	AuxZ
+11	na	RR--4----------	AuxP
+12	kontrolní	AAFP4----1A----	Atr
+13	funkce	NNFP4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95044-135-p3s1
+1	Valná	AAFS1----1A----	Atr
+2	hromada	NNFS1-----A----	Sb
+3	rozhodla	VpQW---XR-AA--1	Pred
+4	rozšířit	Vf--------A----	Obj
+5	předmět	NNIS4-----A----	Obj
+6	podnikání	NNNS2-----A----	Atr
+7	akciové	AAFS2----1A----	Atr
+8	společnosti	NNFS2-----A----	Atr
+9	o	RR--4----------	AuxP
+10	vývoz	NNIS4-----A----	Adv
+11	zbraní	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95044-135-p3s2
+1	Nové	AANS1----1A----	Atr
+2	představenstvo	NNNS1-----A----	Sb
+3	po	RR--6----------	AuxP
+4	skončení	NNNS6-----A----	Adv
+5	valné	AAFS2----1A----	Atr
+6	hromady	NNFS2-----A----	Atr
+7	zvolilo	VpNS---XR-AA---	Pred
+8	svým	P8ZS7----------	Atr
+9	předsedou	NNMS7-----A----	Obj
+10	ing	NNMXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	Pavla	NNMS4-----A----	Atr
+13	Novosada	NNMS4-----A----	Obj
+14	,	Z:-------------	Apos
+15	technického	AAMS4----1A----	Atr
+16	ředitele	NNMS4-----A----	Obj
+17	ZPS	NNIPX-----A---8	Atr
+18	Zlín	NNIS1-----A----	Atr
+19	,	Z:-------------	AuxX
+20	který	P4YS1----------	Sb
+21	zastupuje	VB-S---3P-AA---	Atr
+22	První	CrIS4----------	Atr
+23	privatizační	AAIS4----1A----	Atr
+24	fond	NNIS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln95044-135-p3s3
+1	Představenstvo	NNNS1-----A----	Sb
+2	přijalo	VpNS---XR-AA---	Pred
+3	rezignaci	NNFS4-----A----	Obj
+4	generálního	AAMS2----1A----	Atr
+5	ředitele	NNMS2-----A----	Atr
+6	Zbrojovky	NNFS2-----A----	Atr
+7	Vsetín	NNIS1-----A----	Atr
+8	ing	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Karla	NNMS2-----A----	Atr
+11	Dančáka	NNMS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95044-135-p3s4
+1	O	RR--6----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	nástupci	NNMS6-----A----	Obj
+4	ve	RV--6----------	AuxP
+5	funkci	NNFS6-----A----	Atr
+6	však	J^-------------	Coord
+7	rozhodne	VB-S---3P-AA---	Pred
+8	až	TT-------------	AuxZ
+9	na	RR--6----------	AuxP
+10	svém	P8ZS6----------	Atr
+11	příštím	AANS6----1A----	Atr
+12	zasedání	NNNS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln95044-135-p3s5
+1	Jak	J,-------------	Adv
+2	řekl	VpYS---XR-AA---	Pred
+3	LN	NNFPX-----A---8	Obj
+4	odstupující	AGMS1-----A----	Atr
+5	ředitel	NNMS1-----A----	Atr
+6	Dančák	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	odbyt	NNIS1-----A----	Sb
+9	výrobků	NNIP2-----A----	Atr
+10	Zbrojovky	NNFS2-----A----	Atr
+11	Vsetín	NNIS1-----A----	Atr
+12	je	VB-S---3P-AA---	Pred
+13	na	RR--4----------	AuxP
+14	letošní	AAIS4----1A----	Atr
+15	rok	NNIS4-----A----	Adv
+16	zajištěn	VsYS---XX-AP---	Pnom
+17	.	Z:-------------	AuxK
+

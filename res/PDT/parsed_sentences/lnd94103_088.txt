@@ -1,0 +1,953 @@
+lnd94103-088-p1s1A
+1	Zakřiknutý	AAMS1----1A----	Atr
+2	zemědělec	NNMS1-----A----	Sb
+3	nemá	VB-S---3P-NA---	Pred
+4	šanci	NNFS4-----A----	Obj
+
+lnd94103-088-p1s1B
+1	Švýcarští	AAMP1----1A----	Atr
+2	farmáři	NNMP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	učí	VB-P---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	obchodníky	NNMP7-----A----	Pnom
+7	i	J^-------------	Coord
+8	reklamními	AAMP7----1A----	Atr
+9	manažery	NNMP7-----A----	Pnom
+
+lnd94103-088-p1s1C
+1	Konec	NNIS1-----A----	ExD
+2	podtitulku	NNIS2-----A----	Atr
+
+lnd94103-088-p1s1D
+1	Synek	NNMS1-----A----	Sb
+2	ze	RV--2----------	AuxP
+3	statku	NNIS2-----A----	Atr
+4	musí	VB-S---3P-AA---	Pred
+5	získat	Vf--------A----	Obj
+6	sebevědomí	NNNS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+lnd94103-088-p1s2
+1	Zakřiknutý	AAMS1----1A----	Atr
+2	zemědělec	NNMS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	se	P7-X4----------	AuxT
+6	mlčenlivě	Dg-------1A----	Adv
+7	stará	VB-S---3P-AA---	Atr
+8	jen	TT-------------	AuxZ
+9	o	RR--4----------	AuxP
+10	svou	P8FS4---------1	Atr
+11	práci	NNFS4-----A----	Obj
+12	na	RR--6----------	AuxP
+13	farmě	NNFS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	nebude	VB-S---3F-NA---	AuxV
+16	mít	Vf--------A----	Pred
+17	zřejmě	Dg-------1A----	AuxY
+18	v	RR--6----------	AuxP
+19	budoucnosti	NNFS6-----A----	Adv
+20	šanci	NNFS4-----A----	Obj
+21	úspěšně	Dg-------1A----	Adv
+22	hospodařit	Vf--------A----	Atr
+23	.	Z:-------------	AuxK
+
+lnd94103-088-p1s3
+1	Rolník	NNMS1-----A----	Sb
+2	musí	VB-S---3P-AA---	Pred
+3	vědět	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	si	P7-X3----------	Adv
+7	zákazníka	NNMS4-----A----	Obj
+8	získat	Vf--------A----	Obj
+9	.	Z:-------------	AuxK
+
+lnd94103-088-p1s4
+1	Musí	VB-S---3P-AA---	Pred
+2	ovládat	Vf--------A----	Obj
+3	umění	NNNS4-----A----	Obj
+4	nabízet	Vf--------A----	Atr
+5	své	P8YP4---------1	Atr
+6	výrobky	NNIP4-----A----	Obj
+7	přímo	Dg-------1A----	Adv
+8	ze	RV--2----------	AuxP
+9	dvora	NNIS2-----A----	Adv
+10	třeba	Db-------------	AuxZ
+11	turistovi	NNMS3-----A----	Obj
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	projde	VB-S---3P-AA---	Atr
+15	okolo	Db-------------	Adv
+16	.	Z:-------------	AuxK
+
+lnd94103-088-p1s5
+1	Kvalita	NNFS1-----A----	Sb
+2	zemědělských	AAIP2----1A----	Atr
+3	produktů	NNIP2-----A----	Atr
+4	už	Db-------------	Adv
+5	sama	PLFS1----------	Atv
+6	o	RR--6----------	AuxP
+7	sobě	P6-X6----------	Atr
+8	nestačí	VB-S---3P-NA---	Pred
+9	.	Z:-------------	AuxK
+
+lnd94103-088-p1s6
+1	Statkáři	NNMP1-----A----	Sb
+2	a	J^-------------	Coord
+3	farmáři	NNMP1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	brzy	Dg-------1A----	Adv
+6	neobejdou	VB-P---3P-NA---	Pred
+7	bez	RR--2----------	AuxP
+8	vlastní	AAFS2----1A----	Atr
+9	reklamy	NNFS2-----A----	Obj
+10	,	Z:-------------	Coord
+11	bez	RR--2----------	AuxP
+12	nápadité	AAFS2----1A----	Atr
+13	vedlejší	AAFS2----1A----	Atr
+14	činnosti	NNFS2-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd94103-088-p1s7C
+1	Ivana	NNFS1-----A----	Atr
+2	Kněžínková	NNFS1-----A----	ExD
+
+lnd94103-088-p1s7B
+1	"	Z:-------------	AuxG
+2	Tohle	PDNS4----------	Obj
+3	všechno	PLNS4----------	Atr
+4	se	P7-X4----------	AuxT
+5	snažíme	VB-P---1P-AA---	Obj
+6	naše	PSXP4-P1-------	Atr
+7	studenty	NNMP4-----A----	Obj
+8	naučit	Vf--------A----	Obj
+9	,	Z:-------------	AuxX
+10	"	Z:-------------	AuxG
+11	vysvětloval	VpYS---XR-AA---	Pred
+12	nám	PP-P3--1-------	Obj
+13	Carl	NNMS1-----A----	Atr
+14	Brandenburger	NNMS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	působí	VB-S---3P-AA---	Atr
+18	na	RR--6----------	AuxP
+19	zemědělské	AAFS6----1A----	Atr
+20	škole	NNFS6-----A----	Adv
+21	Plantahof	NNIS1-----A----	Atr
+22	ve	RV--6----------	AuxP
+23	švýcarském	AAIS6----1A----	Atr
+24	kantonu	NNIS6-----A---1	AtrAdv
+25	Graubünden	NNIS1-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd94103-088-p1s8
+1	Není	VB-S---3P-NA---	Pred
+2	divu	NNIS2-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	škola	NNFS1-----A----	Sb
+6	si	P7-X3----------	Adv
+7	určila	VpQW---XR-AA---	Sb
+8	takový	PDIS4----------	Atr
+9	cíl	NNIS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+lnd94103-088-p1s9
+1	Donedávna	Db-------------	Adv
+2	neměla	VpQW---XR-NA---	Pred
+3	o	RR--4----------	AuxP
+4	studenty	NNMP4-----A----	Atr
+5	nouzi	NNFS4-----A----	Obj
+6	,	Z:-------------	Coord
+7	především	Db-------------	AuxZ
+8	to	PDNS1----------	Pnom
+9	byli	VpMP---XR-AA---	Pred
+10	synové	NNMP1-----A----	Sb
+11	ze	RV--2----------	AuxP
+12	statků	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	farem	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	které	P4YP4----------	Obj
+17	sem	Db-------------	Adv
+18	posílali	VpMP---XR-AA---	Atr
+19	jejich	PSXXXXP3-------	Atr
+20	tátové	NNMP1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	aby	J,-------------	AuxC
+23	jejich	PSXXXXP3-------	Atr
+24	potomci	NNMP1-----A----	Sb
+25	posbírali	VpMP---XR-AA---	Adv
+26	nějaké	PZFP4----------	Atr
+27	vědomosti	NNFP4-----A----	Obj
+28	,	Z:-------------	AuxX
+29	než	J,-------------	AuxC
+30	převezmou	VB-P---3P-AA---	Adv
+31	rodinný	AAIS4----1A----	Atr
+32	majetek	NNIS4-----A----	Obj
+33	a	J^-------------	Coord
+34	začnou	VB-P---3P-AA---	Adv
+35	na	RR--6----------	AuxP
+36	něm	P5ZS6--3-------	Adv
+37	sami	PLMP1----------	AtvV
+38	hospodařit	Vf--------A----	Obj
+39	.	Z:-------------	AuxK
+
+lnd94103-088-p1s10
+1	Teď	Db-------------	Adv
+2	však	J^-------------	Coord
+3	děti	NNFP1-----A----	Sb
+4	zemědělců	NNMP2-----A----	Atr
+5	přestávají	VB-P---3P-AA---	Pred
+6	mít	Vf--------A----	Obj
+7	zájem	NNIS4-----A----	Obj
+8	následovat	Vf--------A----	Atr
+9	své	P8YP4---------1	Atr
+10	rodiče	NNMP4-----A----	Obj
+11	,	Z:-------------	Coord
+12	v	RR--6----------	AuxP
+13	práci	NNFS6-----A----	Adv
+14	na	RR--6----------	AuxP
+15	statku	NNIS6-----A----	Atr
+16	nevidí	VB-P---3P-NA---	Pred
+17	svou	P8FS4---------1	Atr
+18	budoucnost	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+lnd94103-088-p1s11
+1	Švýcaři	NNMP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	sice	Db-------------	AuxY
+4	stále	Dg-------1A----	Adv
+5	ještě	Db-------------	Adv
+6	hrdí	AAMP1----1A----	Pnom
+7	na	RR--4----------	AuxP
+8	své	P8NS4---------1	Atr
+9	zemědělství	NNNS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	které	P4NS1----------	Sb
+12	bylo	VpNS---XR-AA---	AuxV
+13	doposud	Db-------------	Adv
+14	chráněno	VsNS---XX-AP---	Atr
+15	například	Db-------------	AuxZ
+16	dovozními	AAFP7----1A----	Atr
+17	bariérami	NNFP7-----A----	Obj
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	problémy	NNIP1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	jež	PJIP1----------	Sb
+23	trápí	VB-P---3P-AA---	Atr
+24	jejich	PSXXXXP3-------	Atr
+25	kolegy	NNMP4-----A----	Obj
+26	v	RR--6----------	AuxP
+27	okolních	AAIP6----1A----	Atr
+28	státech	NNIP6-----A----	AtrAdv
+29	,	Z:-------------	AuxX
+30	už	Db-------------	Adv
+31	doléhají	VB-P---3P-AA---	Pred
+32	i	J^-------------	AuxZ
+33	sem	Db-------------	Adv
+34	.	Z:-------------	AuxK
+
+lnd94103-088-p1s12C
+1	Ohrožené	AAFP1----1A----	Atr
+2	rodinné	AAFP1----1A----	Atr
+3	tradice	NNFP1-----A----	ExD
+
+lnd94103-088-p1s12B
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	současnosti	NNFS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	našem	PSZS6-P1-------	Atr
+7	kantonu	NNIS6-----A---1	Adv
+8	3000	C=-------------	Sb
+9	rolníků	NNMP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	jejich	PSXXXXP3-------	Atr
+13	děti	NNFP1-----A----	Sb
+14	už	Db-------------	Adv
+15	se	P7-X4----------	AuxT
+16	o	RR--4----------	AuxP
+17	studium	NNNS4-----A----	Obj
+18	na	RR--6----------	AuxP
+19	naší	PSFS6-P1-------	Atr
+20	škole	NNFS6-----A----	Atr
+21	příliš	Db-------------	Adv
+22	nezajímají	VB-P---3P-NA---	Pred
+23	.	Z:-------------	AuxK
+
+lnd94103-088-p1s13
+1	V	RR--6----------	AuxP
+2	současnosti	NNFS6-----A----	Adv
+3	máme	VB-P---1P-AA---	Pred
+4	z	RR--2----------	AuxP
+5	kantonu	NNIS2-----A----	Adv
+6	Graubunden	NNIS1-----A----	Atr
+7	jen	TT-------------	AuxZ
+8	45	C=-------------	Obj
+9	studentů	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94103-088-p1s14
+1	Dalších	AAMP2----1A----	Atr
+2	60	C=-------------	Sb
+3	je	VB-S---3P-AA---	Pred
+4	z	RR--2----------	AuxP
+5	dalších	AAIP2----1A----	Atr
+6	kantonů	NNIP2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+lnd94103-088-p1s15
+1	Zemědělské	AAFP1----1A----	Atr
+2	farmy	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	budou	VB-P---3F-AA---	AuxV
+5	muset	Vf--------A----	Pred
+6	redukovat	Vf--------A----	Obj
+7	nebo	J^-------------	Coord
+8	ti	PDMP1----------	Sb
+9	,	Z:-------------	AuxX
+10	kteří	P4MP1----------	Sb
+11	v	RR--6----------	AuxP
+12	nich	P5XP6--3-------	Adv
+13	budou	VB-P---3F-AA---	AuxV
+14	pracovat	Vf--------A----	Atr
+15	,	Z:-------------	AuxX
+16	musejí	VB-P---3P-AA---	Pred
+17	přijít	Vf--------A----	Obj
+18	odjinud	Db-------------	Adv
+19	.	Z:-------------	AuxK
+
+lnd94103-088-p1s16
+1	Rodinné	AAFP1----1A----	Atr
+2	tradice	NNFP1-----A----	Sb
+3	začínají	VB-P---3P-AA---	Obj
+4	mít	Vf--------A----	Obj
+5	povážlivé	AAFP4----1A----	Atr
+6	trhliny	NNFP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	"	Z:-------------	AuxG
+9	domnívá	VB-S---3P-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	Carl	NNMS1-----A----	Atr
+12	Brandenburger	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+lnd94103-088-p1s17
+1	Škola	NNFS1-----A----	Sb
+2	poskytuje	VB-S---3P-AA---	Pred
+3	základní	AANS4----1A----	Atr
+4	zemědělské	AANS4----1A----	Atr
+5	vzdělání	NNNS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+lnd94103-088-p1s18
+1	Po	RR--4----------	AuxP
+2	dobu	NNFS4-----A----	Adv
+3	dvou	ClXP2----------	Atr
+4	let	NNNP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	době	NNFS6-----A----	Adv
+7	sezonních	AAFP2----1A----	Atr
+8	prací	NNFP2-----A----	Atr
+9	ji	PPFS4--3-------	Obj
+10	navštěvují	VB-P---3P-AA---	Pred
+11	synkové	NNMP1-----A---1	Sb
+12	ze	RV--2----------	AuxP
+13	statků	NNIP2-----A----	Atr
+14	jednou	ClFS7----------	Adv
+15	týdně	Db-------------	Adv
+16	,	Z:-------------	Coord
+17	v	RR--6----------	AuxP
+18	dalších	AAIP6----1A----	Atr
+19	dnech	NNIP6-----A----	Adv
+20	pomáhají	VB-P---3P-AA---	Pred
+21	otci	NNMS3-----A----	Obj
+22	na	RR--6----------	AuxP
+23	farmě	NNFS6-----A----	Adv
+24	.	Z:-------------	AuxK
+
+lnd94103-088-p1s19
+1	Od	RR--2----------	AuxP
+2	konce	NNIS2-----A----	Adv
+3	října	NNIS2-----A----	Atr
+4	do	RR--2----------	AuxP
+5	konce	NNIS2-----A----	Adv
+6	března	NNIS2-----A----	Atr
+7	absolvují	VB-P---3P-AA---	Pred
+8	zimní	AAIS4----1A----	Atr
+9	semestr	NNIS4-----A----	Obj
+10	spojený	AAIS4----1A----	Atr
+11	s	RR--7----------	AuxP
+12	pobytem	NNIS7-----A----	Obj
+13	ve	RV--6----------	AuxP
+14	školním	AAIS6----1A----	Atr
+15	internátu	NNIS6-----A---1	Atr
+16	.	Z:-------------	AuxK
+
+lnd94103-088-p1s20
+1	Vedle	RR--2----------	AuxP
+2	povinných	AAIP2----1A----	Atr
+3	odborných	AAIP2----1A----	Atr
+4	a	J^-------------	Coord
+5	všeobecných	AAIP2----1A----	Atr
+6	předmětů	NNIP2-----A----	Adv
+7	si	P7-X3----------	AuxT
+8	mohou	VB-P---3P-AA--1	Pred
+9	vybrat	Vf--------A----	Obj
+10	i	J^-------------	AuxZ
+11	mezi	RR--7----------	AuxP
+12	volitelnými	AAIP7----1A----	ExD
+13	,	Z:-------------	AuxX
+14	například	Db-------------	AuxY
+15	chov	NNIS4-----A----	Obj
+16	koní	NNMP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	pěstování	NNNS4-----A----	Obj
+19	bobulovin	NNFP2-----A----	Atr
+20	nebo	J^-------------	Coord
+21	třeba	Db-------------	AuxZ
+22	biozemědělství	NNNS4-----A----	Obj
+23	,	Z:-------------	AuxX
+24	jež	PJNS1----------	Sb
+25	využívá	VB-S---3P-AA---	Atr
+26	pouze	Db-------------	AuxZ
+27	ekologické	AAIP4----1A----	Atr
+28	postupy	NNIP4-----A----	Obj
+29	.	Z:-------------	AuxK
+
+lnd94103-088-p1s21
+1	Velký	AAIS1----1A----	Atr
+2	význam	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	tu	Db------------1	Adv
+5	přisuzuje	VB-S---3P-AA---	Pred
+6	praxi	NNFS3-----A----	Obj
+7	v	RR--6----------	AuxP
+8	přilehlém	AAIS6----1A----	Atr
+9	školním	AAIS6----1A----	Atr
+10	zemědělském	AAIS6----1A----	Atr
+11	podniku	NNIS6-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd94103-088-p1s22
+1	Zajímavou	AAFS7----1A----	Atr
+2	novinkou	NNFS7-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	která	P4FS1----------	Sb
+5	sleduje	VB-S---3P-AA---	Atr
+6	cíl	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	o	RR--6----------	AuxP
+9	němž	P9ZS6----------	Obj
+10	jsme	VB-P---1P-AA---	AuxV
+11	hovořili	VpMP---XR-AA---	Atr
+12	na	RR--6----------	AuxP
+13	začátku	NNIS6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	je	VB-S---3P-AA---	Pred
+16	projekt	NNIS1-----A----	Sb
+17	Zemědělství	NNNS1-----A----	Atr
+18	a	J^-------------	Coord
+19	turismus	NNIS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd94103-088-p1s23
+1	Studenti	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	učí	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	navazovat	Vf--------A----	Obj
+7	kontakt	NNIS4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	turisty	NNMP7-----A----	AtrAdv
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	přijdou	VB-P---3P-AA---	Atr
+13	do	RR--2----------	AuxP
+14	jejich	PSXXXXP3-------	Atr
+15	kraje	NNIS2-----A----	Adv
+16	,	Z:-------------	Coord
+17	učí	VB-P---3P-AA---	Pred
+18	se	P7-X4----------	AuxT
+19	prodávat	Vf--------A----	Obj
+20	mléko	NNNS4-----A----	Obj
+21	a	J^-------------	Coord
+22	mléčné	AAIP4----1A----	Atr
+23	výrobky	NNIP4-----A----	Obj
+24	přímo	Dg-------1A----	Adv
+25	ze	RV--2----------	AuxP
+26	dvora	NNIS2-----A----	Adv
+27	.	Z:-------------	AuxK
+
+lnd94103-088-p1s24
+1	Zákazníka	NNMS4-----A----	Obj
+2	by	Vc-------------	AuxV
+3	přitom	Db-------------	Adv
+4	měl	VpYS---XR-AA---	Pred
+5	zemědělec	NNMS1-----A----	Sb
+6	seznámit	Vf--------A----	Obj
+7	také	Db-------------	AuxZ
+8	s	RR--7----------	AuxP
+9	tím	PDZS7----------	Obj
+10	,	Z:-------------	AuxX
+11	jak	Db-------------	Adv
+12	se	P7-X4----------	AuxR
+13	na	RR--6----------	AuxP
+14	farmě	NNFS6-----A----	Adv
+15	pracuje	VB-S---3P-AA---	Atr
+16	,	Z:-------------	AuxX
+17	jaká	P4NP1----------	Atr
+18	jsou	VB-P---3P-AA---	AuxV
+19	v	RR--6----------	AuxP
+20	ní	P5FS6--3-------	Adv
+21	chována	VsQW---XX-AP---	Atr
+22	zvířata	NNNP1-----A----	Sb
+23	,	Z:-------------	Coord
+24	co	PQ--1----------	Sb
+25	se	P7-X4----------	AuxR
+26	na	RR--6----------	AuxP
+27	jejích	PSXP6FS3-------	Atr
+28	pozemcích	NNIP6-----A----	Adv
+29	pěstuje	VB-S---3P-AA---	Atr
+30	atd	Db------------8	Atr
+31	.	Z:-------------	AuxG
+
+lnd94103-088-p1s25
+1	Studenti	NNMP1-----A----	Sb
+2	i	J^-------------	Coord
+3	jejich	PSXXXXP3-------	Atr
+4	rodiče	NNMP1-----A----	Sb
+5	byli	VpMP---XR-AA---	Pred
+6	na	RR--6----------	AuxP
+7	začátku	NNIS6-----A----	Adv
+8	k	RR--3----------	AuxP
+9	projektu	NNIS3-----A----	Adv
+10	skeptičtí	AAMP1----1A----	Pnom
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	po	RR--6----------	AuxP
+14	jeho	PSXXXZS3-------	Atr
+15	vyhodnocení	NNNS6-----A----	Adv
+16	se	P7-X4----------	AuxR
+17	ukázalo	VpNS---XR-AA---	Pred
+18	,	Z:-------------	AuxX
+19	že	J,-------------	AuxC
+20	přinesl	VpYS---XR-AA---	Sb
+21	dobré	AAIP4----1A----	Atr
+22	výsledky	NNIP4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd94103-088-p1s26A
+1	Otcové	NNMP1-----A---1	ExD
+2	v	RR--6----------	AuxP
+3	učebnách	NNFP6-----A----	Atr
+4	místo	RR--2----------	AuxP
+5	synů	NNMP2-----A----	ExD
+
+lnd94103-088-p1s26B
+1	Jeden	ClYS1----------	Sb
+2	týden	NNIS1-----A----	Atr
+3	v	RR--6----------	AuxP
+4	zimním	AAIS6----1A----	Atr
+5	semestru	NNIS6-----A----	Atr
+6	je	VB-S---3P-AA---	AuxV
+7	věnován	VsYS---XX-AP---	Pred
+8	už	Db-------------	Adv
+9	osvědčené	AAFS3----1A----	Atr
+10	výměně	NNFS3-----A----	Obj
+11	.	Z:-------------	AuxK
+
+lnd94103-088-p1s27
+1	Do	RR--2----------	AuxP
+2	učeben	NNFP2-----A----	Adv
+3	zasednou	VB-P---3P-AA---	Pred
+4	otcové	NNMP1-----A---1	Sb
+5	místo	RR--2----------	AuxP
+6	svých	P8XP2----------	Atr
+7	synů	NNMP2-----A----	Adv
+8	,	Z:-------------	AuxX
+9	kteří	P4MP1----------	Sb
+10	odjedou	VB-P---3P-AA---	Atr
+11	domů	Db-------------	Adv
+12	a	J^-------------	Coord
+13	starají	VB-P---3P-AA---	Atr
+14	se	P7-X4----------	AuxT
+15	o	RR--4----------	AuxP
+16	statek	NNIS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+lnd94103-088-p1s28
+1	"	Z:-------------	AuxG
+2	Musejí	VB-P---3P-AA---	Pred
+3	si	P7-X3----------	Obj
+4	se	RV--7----------	AuxP
+5	vším	PLZS7----------	Obj
+6	sami	PLMP1----------	AtvV
+7	poradit	Vf--------A----	Obj
+8	,	Z:-------------	Coord
+9	třeba	Db-------------	AuxZ
+10	i	J^-------------	AuxZ
+11	se	RV--7----------	AuxP
+12	vzteklým	AAMS7----1A----	Atr
+13	býkem	NNMS7-----A----	ExD
+14	.	Z:-------------	AuxK
+
+lnd94103-088-p1s29
+1	Taková	PDFS1----------	Atr
+2	praxe	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	nezaplacení	NNNS3-----N----	Adv
+6	.	Z:-------------	AuxK
+
+lnd94103-088-p1s30
+1	Tátové	NNMP1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	zase	Db-------------	Adv
+4	ve	RV--6----------	AuxP
+5	škole	NNFS6-----A----	Adv
+6	poslechnou	VB-P---3P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	vlastní	AAFP4----1A----	Atr
+9	uši	NNFP4-----A----	Adv
+10	,	Z:-------------	AuxX
+11	co	PQ--4----------	Obj
+12	učíme	VB-P---1P-AA---	Obj
+13	jejich	PSXXXXP3-------	Atr
+14	syny	NNMP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd94103-088-p1s31
+1	Jeden	ClYS1----------	Atr
+2	den	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	AuxV
+4	věnován	VsYS---XX-AP---	Pred
+5	diskusi	NNFS3-----A----	Obj
+6	starších	AAMP2----2A----	Atr
+7	s	RR--7----------	AuxP
+8	mladými	AAMP7----1A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd94103-088-p1s32
+1	Děti	NNFP1-----A----	Sb
+2	těchto	PDXP2----------	Atr
+3	otců	NNMP2-----A----	Atr
+4	však	J^-------------	Coord
+5	na	RR--6----------	AuxP
+6	ní	P5FS6--3-------	Adv
+7	nebývají	VB-P---3P-NA---	Obj
+8	,	Z:-------------	AuxX
+9	musejí	VB-P---3P-AA---	Adv
+10	doma	Db-------------	Adv
+11	dojit	Vf--------A----	Obj
+12	,	Z:-------------	AuxX
+13	"	Z:-------------	AuxG
+14	dodává	VB-S---3P-AA---	Pred
+15	Carl	NNMS1-----A----	Atr
+16	Branderburger	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+lnd94103-088-p1s33
+1	Základní	AAFS1----1A----	Atr
+2	zemědělská	AAFS1----1A----	Atr
+3	výuka	NNFS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	zdarma	Db-------------	Adv
+6	.	Z:-------------	AuxK
+
+lnd94103-088-p1s34
+1	Ubytování	NNNS4-----A----	Obj
+2	a	J^-------------	Coord
+3	stravu	NNFS4-----A----	Obj
+4	si	P7-X3----------	Adv
+5	studenti	NNMP1-----A----	Sb
+6	platí	VB-P---3P-AA---	Pred
+7	.	Z:-------------	AuxK
+
+lnd94103-088-p1s35
+1	Mzdy	NNFP1-----A----	Sb
+2	učitelů	NNMP2-----A----	Atr
+3	jsou	VB-P---3P-AA---	AuxV
+4	z	RR--2----------	AuxP
+5	35	C=-------------	Atr
+6	procent	NNNP2-----A----	Adv
+7	hrazeny	VsTP---XX-AP---	Pred
+8	z	RR--2----------	AuxP
+9	federálního	AAIS2----1A----	Atr
+10	rozpočtu	NNIS2-----A----	Adv
+11	,	Z:-------------	Coord
+12	zbývající	AGFS4-----A----	Atr
+13	část	NNFS4-----A----	Obj
+14	doplácí	VB-S---3P-AA---	Pred
+15	kanton	NNIS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+lnd94103-088-p1s36
+1	Zdrojem	NNIS7-----A----	Pnom
+2	zisku	NNIS2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	školu	NNFS4-----A----	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	zimní	AAIP1----1A----	Atr
+7	kurzy	NNIP1-----A----	Sb
+8	pro	RR--4----------	AuxP
+9	starší	AAMP4----2A----	Atr
+10	rolníky	NNMP4-----A----	Atr
+11	,	Z:-------------	AuxX
+12	od	RR--2----------	AuxP
+13	několikadenních	AAIP2----1A----	Atr
+14	až	TT-------------	AuxZ
+15	po	RR--4----------	AuxP
+16	semestrální	AAIP4----1A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd94103-088-p1s37
+1	Zatím	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	o	RR--4----------	AuxP
+4	ně	P5XP4--3-------	Atr
+5	stále	Dg-------1A----	Adv
+6	velký	AAIS1----1A----	Atr
+7	zájem	NNIS1-----A----	Sb
+8	,	Z:-------------	Coord
+9	okamžitě	Dg-------1A----	Adv
+10	po	RR--6----------	AuxP
+11	vyhlášení	NNNS6-----A----	Adv
+12	jsou	VB-P---3P-AA---	Pred
+13	obsazené	AAIP1----1A----	Pnom
+14	.	Z:-------------	AuxK
+
+lnd94103-088-p1s38
+1	Zaměřují	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	například	Db-------------	AuxY
+4	na	RR--4----------	AuxP
+5	organizaci	NNFS4-----A----	Obj
+6	cestovního	AAIS2----1A----	Atr
+7	ruchu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	provoz	NNIS4-----A----	Obj
+10	horské	AAFS2----1A----	Atr
+11	dráhy	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	výrobu	NNFS4-----A----	Obj
+14	sýrů	NNIP2-----A----	Atr
+15	různými	AAFP7----1A----	Atr
+16	technologiemi	NNFP7-----A----	Atr
+17	,	Z:-------------	AuxX
+18	biozemědělství	NNNS4-----A----	Obj
+19	,	Z:-------------	Coord
+20	zacházení	NNNS4-----A----	Obj
+21	s	RR--7----------	AuxP
+22	koňmi	NNMP7-----A----	Atr
+23	.	Z:-------------	AuxK
+
+lnd94103-088-p1s39
+1	V	RR--6----------	AuxP
+2	kurzu	NNIS6-----A---1	Adv
+3	pro	RR--4----------	AuxP
+4	zelináře	NNMP4-----A----	Atr
+5	přednáší	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	specialista	NNMS1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	reklamu	NNFS4-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94103-088-p1s40
+1	Nechybí	VB-S---3P-NA---	Pred
+2	ani	J^-------------	AuxZ
+3	kurz	NNIS1-----A----	Sb
+4	pro	RR--4----------	AuxP
+5	ty	PDMP4----------	Atr
+6	,	Z:-------------	AuxX
+7	kteří	P4MP1----------	Sb
+8	se	P7-X4----------	AuxT
+9	chtějí	VB-P---3P-AA---	Atr
+10	podílet	Vf--------A----	Obj
+11	na	RR--6----------	AuxP
+12	správě	NNFS6-----A----	Obj
+13	obce	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94103-088-p1s41
+1	Je	VB-S---3P-AA---	Pred
+2	důležité	AANS1----1A----	Pnom
+3	,	Z:-------------	AuxX
+4	aby	J,-------------	AuxC
+5	byli	VpMP---XR-AA---	Sb
+6	schopni	ACMP------A----	Pnom
+7	zastávat	Vf--------A----	Obj
+8	funkce	NNFP4-----A----	Obj
+9	v	RR--6----------	AuxP
+10	tržních	AAFP6----1A----	Atr
+11	strukturách	NNFP6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	například	Db-------------	Apos
+14	v	RR--6----------	AuxP
+15	družstvech	NNNP6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	která	P4NP4----------	Obj
+18	si	P7-X3----------	Adv
+19	farmáři	NNMP1-----A----	Sb
+20	zakládají	VB-P---3P-AA---	Atr
+21	.	Z:-------------	AuxK
+
+lnd94103-088-p1s42
+1	Místo	RR--2----------	AuxP
+2	výuky	NNFS2-----A----	ExD
+3	poradenství	NNNS1-----A----	ExD
+4	?	Z:-------------	AuxK
+
+lnd94103-088-p1s43
+1	Na	RR--4----------	AuxP
+2	poradenství	NNNS4-----A----	Obj
+3	a	J^-------------	Coord
+4	vzdělávání	NNNS4-----A----	Obj
+5	dospělých	AAMP2----1A----	Atr
+6	rolníků	NNMP2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	stále	Dg-------1A----	Adv
+9	více	Dg-------2A----	Adv
+10	soustřeďují	VB-P---3P-AA---	Pred
+11	i	J^-------------	AuxZ
+12	ostatní	AAFP1----1A----	Atr
+13	zemědělské	AAFP1----1A----	Atr
+14	školy	NNFP1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	které	P4FP1----------	Sb
+17	existují	VB-P---3P-AA---	Atr
+18	ve	RV--6----------	AuxP
+19	všech	PLXP6----------	Atr
+20	kantonech	NNIP6-----A----	Adv
+21	a	J^-------------	Coord
+22	které	P4FP1----------	Sb
+23	se	P7-X4----------	AuxT
+24	také	Db-------------	Adv
+25	začínají	VB-P---3P-AA---	Atr
+26	potýkat	Vf--------A----	Obj
+27	s	RR--7----------	AuxP
+28	úbytkem	NNIS7-----A----	Obj
+29	uchazečů	NNMP2-----A----	Atr
+30	o	RR--4----------	AuxP
+31	studium	NNNS4-----A----	Atr
+32	.	Z:-------------	AuxK
+
+lnd94103-088-p1s44
+1	V	RR--6----------	AuxP
+2	curyšském	AAIS6----1A----	Atr
+3	kantonu	NNIS6-----A---1	Adv
+4	musela	VpQW---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	už	Db-------------	Adv
+7	jedna	ClFS1----------	Sb
+8	z	RR--2----------	AuxP
+9	pěti	Cn-P2----------	Atr
+10	zemědělských	AAFP2----1A----	Atr
+11	škol	NNFP2-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	nedostatek	NNIS4-----A----	Adv
+14	studentů	NNMP2-----A----	Atr
+15	uzavřena	VsQW---XX-AP---	Obj
+16	,	Z:-------------	Coord
+17	v	RR--6----------	AuxP
+18	dalších	AAFP6----1A----	ExD
+19	jsou	VB-P---3P-AA---	AuxV
+20	rušeny	VsTP---XX-AP---	Pred
+21	některé	PZIP1----------	Atr
+22	učební	AAIP1----1A----	Atr
+23	obory	NNIP1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+lnd94103-088-p1s45
+1	Zájem	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4IS4----------	Obj
+4	projevují	VB-P---3P-AA---	Atr
+5	rolníci	NNMP1-----A----	Sb
+6	o	RR--4----------	AuxP
+7	zmíněné	AAIP4----1A----	Atr
+8	kurzy	NNIP4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	potvrzuje	VB-S---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	hledají	VB-P---3P-AA---	Obj
+14	cesty	NNFP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	jak	Db-------------	Adv
+17	předejít	Vf--------A----	Atr
+18	problémům	NNIP3-----A----	Obj
+19	,	Z:-------------	AuxX
+20	jež	PJIP1----------	Sb
+21	se	P7-X4----------	AuxT
+22	rýsují	VB-P---3P-AA---	Atr
+23	i	J^-------------	AuxZ
+24	ve	RV--6----------	AuxP
+25	švýcarském	AANS6----1A----	Atr
+26	zemědělství	NNNS6-----A----	Adv
+27	.	Z:-------------	AuxK
+
+lnd94103-088-p1s46
+1	Na	RR--4----------	AuxP
+2	tuto	PDFS4----------	Atr
+3	cestu	NNFS4-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	nasměrováváni	VsMP---XX-AP---	Pnom
+6	i	J^-------------	AuxZ
+7	studenti	NNMP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+lnd94103-088-p1s47
+1	A	J^-------------	Coord
+2	monitory	NNIP1-----A----	Sb
+3	umístěné	AAIP1----1A----	Atr
+4	na	RR--6----------	AuxP
+5	chodbách	NNFP6-----A----	Adv
+6	školy	NNFS2-----A----	Atr
+7	Plantahof	NNIS1-----A----	Atr
+8	neustále	Dg-------1A----	Adv
+9	nabízejí	VB-P---3P-AA---	Pred
+10	informace	NNFP4-----A----	Obj
+11	o	RR--6----------	AuxP
+12	aktuální	AAFS6----1A----	Atr
+13	meteorologické	AAFS6----1A----	Atr
+14	situaci	NNFS6-----A----	Atr
+15	v	RR--6----------	AuxP
+16	různých	AAFP6----1A----	Atr
+17	částech	NNFP6-----A----	Atr
+18	světa	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94103-088-p1s48
+1	To	PDNS4----------	ExD
+2	prý	TT-------------	AuxY
+3	aby	J,-------------	AuxC
+4	si	P7-X3----------	AuxT
+5	všichni	PLMP1----------	Sb
+6	uvědomili	VpMP---XR-AA---	Adv
+7	svou	P8FS4---------1	Atr
+8	souvislost	NNFS4-----A----	Obj
+9	s	RR--7----------	AuxP
+10	přírodou	NNFS7-----A----	Atr
+11	celé	AAFS2----1A----	Atr
+12	planety	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	nepřemýšleli	VpMP---XR-NA---	Adv
+15	o	RR--6----------	AuxP
+16	všem	PLZS6----------	Obj
+17	jen	TT-------------	AuxZ
+18	z	RR--2----------	AuxP
+19	úzkého	AAIS2----1A----	Atr
+20	regionálního	AAIS2----1A----	Atr
+21	pohledu	NNIS2-----A----	Adv
+22	.	Z:-------------	AuxK
+

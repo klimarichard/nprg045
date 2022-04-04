@@ -1,0 +1,103 @@
+ln94203-12-p1s1
+1	Škodě	NNFS3-----A----	Obj
+2	pomohl	VpYS---XR-AA---	Pred
+3	leasing	NNIS1-----A----	Sb
+4	k	RR--3----------	AuxP
+5	úspěchu	NNIS3-----A----	Adv
+
+ln94203-12-p2s1A
+1	Mladá	AAFS1----1A----	Atr
+2	Boleslav	NNFS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	ma	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+ln94203-12-p2s1B
+1	V	RR--6----------	AuxP
+2	České	AAFS6----1A----	Atr
+3	republice	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	v	RR--6----------	AuxP
+6	srpnu	NNIS6-----A----	Adv
+7	prodalo	VpNS---XR-AA---	Pred
+8	6539	C=-------------	Sb
+9	vozů	NNIP2-----A----	Atr
+10	Škoda	NNFS1-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94203-12-p2s2
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	o	RR--4----------	AuxP
+4	48	C=-------------	Adv
+5	%	Z:-------------	Atr
+6	více	Dg-------2A----	Adv
+7	než	J,-------------	AuxC
+8	4391	C=-------------	ExD
+9	automobilů	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	které	P4YP4----------	Obj
+12	Škoda	NNFS1-----A----	Sb
+13	,	Z:-------------	Apos
+14	automobilová	AAFS1----1A----	Atr
+15	a	AAXXX----1A---8	Atr
+16	.	Z:-------------	AuxG
+17	s	NNFXX-----A---8	Sb
+18	.	Z:-------------	AuxG
+19	,	Z:-------------	AuxX
+20	prodala	VpQW---XR-AA---	Atr
+21	ve	RV--6----------	AuxP
+22	stejném	AANS6----1A----	Atr
+23	období	NNNS6-----A----	Adv
+24	loňského	AAIS2----1A----	Atr
+25	roku	NNIS2-----A---1	Atr
+26	.	Z:-------------	AuxK
+
+ln94203-12-p3s1
+1	Podle	RR--2----------	AuxP
+2	mladoboleslavské	AAFS2----1A----	Atr
+3	Škody	NNFS2-----A----	Adv
+4	přispěla	VpQW---XR-AA---	Pred
+5	k	RR--3----------	AuxP
+6	tomuto	PDZS3----------	Atr
+7	úspěchu	NNIS3-----A----	Obj
+8	finanční	AAFS1----1A----	Atr
+9	společnost	NNFS1-----A----	Sb
+10	ŠkoFIN	NNIS1-----A----	Atr
+11	s	RR--7----------	AuxP
+12	leasingem	NNIS7-----A----	AtrAdv
+13	s	RR--7----------	AuxP
+14	nulovým	AAIS7----1A----	Atr
+15	úrokem	NNIS7-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94203-12-p3s2
+1	Favority	NNIP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	jichž	PJXP2----------	Obj
+4	se	P7-X4----------	AuxT
+5	výhoda	NNFS1-----A----	Sb
+6	týkala	VpQW---XR-AA---	Atr
+7	,	Z:-------------	AuxX
+8	byly	VpTP---XR-AA---	AuxV
+9	vyprodány	VsTP---XX-AP---	Pred
+10	během	RR--2----------	AuxP
+11	tří	ClXP2----------	Atr
+12	týdnů	NNIP2-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln94203-12-p3s3
+1	Letos	Db-------------	Adv
+2	má	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	Obj
+4	prodej	NNIS1-----A----	Sb
+5	automobilů	NNIP2-----A----	Atr
+6	Škoda	NNFS1-----A----	Atr
+7	v	RR--6----------	AuxP
+8	ČR	NNFXX-----A---8	AtrAdv
+9	stejný	AAIS1----1A----	Pnom
+10	jako	J,-------------	AuxC
+11	loni	Db------------1	ExD
+12	.	Z:-------------	AuxK
+

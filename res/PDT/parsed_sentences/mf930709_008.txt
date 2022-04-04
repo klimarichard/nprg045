@@ -1,0 +1,235 @@
+mf930709-008-p1s1
+1	Ruml	NNMS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	Běžný	AAIS1----1A----	Atr
+4	hraniční	AAIS1----1A----	Atr
+5	režim	NNIS1-----A----	ExD
+6	se	RV--7----------	AuxP
+7	SR	NNFXX-----A---8	Atr
+8	po	RR--6----------	AuxP
+9	20	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	červenci	NNIS6-----A----	Atr
+
+mf930709-008-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	km	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	čtk	NNFXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930709-008-p2s1B
+1	Běžný	AAIS4----1A----	Atr
+2	pohraniční	AAIS4----1A----	Atr
+3	režim	NNIS4-----A----	Obj
+4	na	RR--6----------	AuxP
+5	hranici	NNFS6-----A----	AtrAdv
+6	se	RV--7----------	AuxP
+7	Slovenskem	NNNS7-----A----	Atr
+8	zavede	VB-S---3P-AA---	Pred
+9	Česká	AAFS1----1A----	Atr
+10	republika	NNFS1-----A----	Sb
+11	po	RR--6----------	AuxP
+12	20	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	červenci	NNIS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+mf930709-008-p2s2
+1	Ministr	NNMS1-----A----	Atr
+2	vnitra	NNNS2-----A----	Atr
+3	Jan	NNMS1-----A----	Atr
+4	Ruml	NNMS1-----A----	Sb
+5	včera	Db-------------	Adv
+6	řekl	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	připravená	AANP1----1A----	Atr
+10	opatření	NNNP1-----A----	Sb
+11	na	RR--6----------	AuxP
+12	hranici	NNFS6-----A----	AtrAdv
+13	začnou	VB-P---3P-AA---	Obj
+14	platit	Vf--------A----	Obj
+15	,	Z:-------------	AuxX
+16	ať	J,-------------	AuxC
+17	už	Db-------------	AuxY
+18	se	P7-X4----------	AuxT
+19	politické	AAFP1----1A----	Atr
+20	reprezentace	NNFP1-----A----	Sb
+21	dohodnou	VB-P---3P-AA---	Adv
+22	nebo	J^-------------	Coord
+23	nedohodnou	VB-P---3P-NA---	Adv
+24	.	Z:-------------	AuxK
+
+mf930709-008-p3s1
+1	Ruml	NNMS1-----A----	Sb
+2	uvedl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	po	RR--6----------	AuxP
+6	celé	AAFS6----1A----	Atr
+7	délce	NNFS6-----A----	Adv
+8	hranice	NNFS2-----A----	Atr
+9	bude	VB-S---3F-AA---	AuxV
+10	hlídkovat	Vf--------A----	Obj
+11	pohraniční	AAFS1----1A----	Atr
+12	policie	NNFS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	posílená	AAFS1----1A----	Atr
+15	290	C=-------------	Atr
+16	vojáky	NNMP7-----A----	Obj
+17	základní	AAFS2----1A----	Atr
+18	služby	NNFS2-----A----	Atr
+19	beze	RV--2----------	AuxP
+20	zbraně	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf930709-008-p3s2
+1	Cizinecká	AAFS1----1A----	Atr
+2	policie	NNFS1-----A----	Sb
+3	na	RR--6----------	AuxP
+4	hraničních	AAIP6----1A----	Atr
+5	přechodech	NNIP6-----A----	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	sledovat	Vf--------A----	Pred
+8	pohyb	NNIS4-----A----	Obj
+9	cizinců	NNMP2-----A----	Atr
+10	z	RR--2----------	AuxP
+11	třetích	CrFP2----------	Atr
+12	zemí	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	nežádoucí	AAFP4----1N----	Atr
+15	osoby	NNFP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+mf930709-008-p3s3
+1	Rovněž	Db-------------	Adv
+2	bude	VB-S---3F-AA---	AuxV
+3	hlídat	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	zda	J,-------------	AuxC
+6	jsou	VB-P---3P-AA---	Obj
+7	příchozí	AAMP1----1A----	Sb
+8	vybaveni	VsMP---XX-AP---	Pnom
+9	platnými	AANP7----1A----	Atr
+10	vízy	NNNP7-----A----	Obj
+11	a	J^-------------	Coord
+12	zda	J,-------------	AuxC
+13	splňují	VB-P---3P-AA---	Obj
+14	podmínky	NNFP4-----A----	Obj
+15	pro	RR--4----------	AuxP
+16	vstup	NNIS4-----A----	Atr
+17	na	RR--4----------	AuxP
+18	naše	PSNS4-P1-------	Atr
+19	území	NNNS4-----A----	Atr
+20	,	Z:-------------	AuxX
+21	řekl	VpYS---XR-AA---	Pred
+22	Ruml	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+mf930709-008-p4s1
+1	Česko	A2--------A----	Atr
+2	-	Z:-------------	Coord
+3	slovenská	AAFS1----1A----	Atr
+4	rozhraničovací	AAFS1----1A----	Atr
+5	komise	NNFS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	jednala	VpQW---XR-AA---	Atr
+9	v	RR--6----------	AuxP
+10	Praze	NNFS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	včera	Db-------------	Adv
+13	podpořila	VpQW---XR-AA---	Pred
+14	návrh	NNIS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	předpokládá	VB-S---3P-AA---	Atr
+18	přeložení	NNNS4-----A----	Obj
+19	nynějšího	AAIS2----1A----	Atr
+20	průběhu	NNIS2-----A----	Atr
+21	administrativní	AAFS2----1A----	Atr
+22	hranice	NNFS2-----A----	Atr
+23	do	RR--2----------	AuxP
+24	osy	NNFS2-----A----	Atr
+25	regulovaného	AAIS2----1A----	Atr
+26	toku	NNIS2-----A----	Atr
+27	Moravy	NNFS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf930709-008-p4s2
+1	Předseda	NNMS1-----A----	Atr
+2	české	AAFS2----1A----	Atr
+3	delegace	NNFS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	komisi	NNFS6-----A----	Atr
+6	Jiří	NNMS1-----A----	Atr
+7	Pešek	NNMS1-----A----	Sb
+8	uvedl	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	obě	ClHP1----------	Atr
+12	strany	NNFP1-----A----	Sb
+13	by	Vc-------------	AuxV
+14	tak	Db-------------	Adv
+15	měly	VpTP---XR-AA---	Obj
+16	rovnocenný	AAIS4----1A----	Atr
+17	přístup	NNIS4-----A----	Obj
+18	k	RR--3----------	AuxP
+19	vodě	NNFS3-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf930709-008-p4s3
+1	Podle	RR--2----------	AuxP
+2	současné	AAFS2----1A----	Atr
+3	administrativní	AAFS2----1A----	Atr
+4	hranice	NNFS2-----A----	Adv
+5	protéká	VB-S---3P-AA---	Pred
+6	Morava	NNFS1-----A----	Sb
+7	střídavě	Dg-------1A----	Adv
+8	Českou	AAFS7----1A----	Atr
+9	republikou	NNFS7-----A----	Adv
+10	i	J^-------------	Coord
+11	Slovenskem	NNNS7-----A----	Adv
+12	.	Z:-------------	AuxK
+
+mf930709-008-p5s1
+1	Zástupkyně	NNFS1-----A----	Atr
+2	předsedy	NNMS2-----A----	Atr
+3	slovenské	AAFS2----1A----	Atr
+4	delegace	NNFS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	komisi	NNFS6-----A----	Atr
+7	Ivica	NNFS1-----A----	Atr
+8	Brestovanská	NNFS1-----A----	Sb
+9	nám	PP-P3--1-------	Obj
+10	řekla	VpQW---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	dosavadní	AAFS1----1A----	Atr
+14	hranice	NNFS1-----A----	Sb
+15	by	Vc-------------	AuxV
+16	se	P7-X4----------	AuxR
+17	měla	VpQW---XR-AA---	Obj
+18	zkrátit	Vf--------A----	Obj
+19	na	RR--4----------	AuxP
+20	230	C=-------------	Obj
+21	až	J^-------------	Coord
+22	250	C=-------------	Obj
+23	kilometrů	NNIP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf930709-008-p5s2
+1	Komise	NNFS1-----A----	Sb
+2	uvažuje	VB-S---3P-AA---	Pred
+3	až	TT-------------	AuxZ
+4	o	RR--6----------	AuxP
+5	16	C=-------------	Atr
+6	možnostech	NNFP6-----A----	Obj
+7	změny	NNFS2-----A----	Atr
+8	průběhu	NNIS2-----A----	Atr
+9	hranice	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+

@@ -1,0 +1,108 @@
+lnd91303-018-p1s1
+1	PLÁNY	NNIP1-----A----	ExD
+2	VÝSTAVIŠTĚ	NNNS2-----A----	Atr
+
+lnd91303-018-p2s1
+1	Bez	RR--2----------	AuxP
+2	dotací	NNFP2-----A----	ExD
+
+lnd91303-018-p3s1
+1	PRAHA	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-018-p4s1
+1	Po	RR--6----------	AuxP
+2	ukončení	NNNS6-----A----	Adv
+3	činnosti	NNFS2-----A----	Atr
+4	Společnosti	NNFS2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	Všeobecnou	AAFS4----1A----	Atr
+7	čs	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	výstavu	NNFS4-----A----	Atr
+10	přibude	VB-S---3P-AA---	Pred
+11	pražskému	AANS3----1A----	Atr
+12	Výstavišti	NNNS3-----A----	Obj
+13	asi	TT-------------	AuxZ
+14	1100	C=-------------	Obj
+15	metrů	NNIP2-----A----	Atr
+16	čtverečních	AAIP2----1A----	Atr
+17	výstavní	AAFS2----1A----	Atr
+18	plochy	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd91303-018-p4s2
+1	Kromě	RR--2----------	AuxP
+2	staveb	NNFP2-----A----	Adv
+3	dočasného	AAIS2----1A----	Atr
+4	charakteru	NNIS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	jež	PJFP1----------	Sb
+7	budou	VB-P---3F-AA---	AuxV
+8	v	RR--6----------	AuxP
+9	nejbližší	AAFS6----3A----	Atr
+10	době	NNFS6-----A----	Adv
+11	odstraněny	VsTP---XX-AP---	Atr
+12	,	Z:-------------	AuxX
+13	má	VB-S---3P-AA---	Pred
+14	být	Vf--------A----	AuxV
+15	zbourán	VsYS---XX-AP---	Obj
+16	i	J^-------------	AuxZ
+17	Bruselský	AAIS1----1A----	Atr
+18	pavilón	NNIS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	postižený	AAIS1----1A----	Atr
+21	říjnovým	AAIS7----1A----	Atr
+22	požárem	NNIS7-----A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd91303-018-p4s3
+1	Výstaviště	NNNS1-----A----	Sb
+2	donedávna	Db-------------	Adv
+3	pobíralo	VpNS---XR-AA---	Pred
+4	dotaci	NNFS4-----A----	Obj
+5	40	C=-------------	Atr
+6	miliónů	NNIP2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	,	Z:-------------	Coord
+9	v	RR--6----------	AuxP
+10	příštím	AAIS6----1A----	Atr
+11	roce	NNIS6-----A---1	Adv
+12	počítá	VB-S---3P-AA---	Pred
+13	naopak	Db-------------	Adv
+14	se	RV--7----------	AuxP
+15	ziskem	NNIS7-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd91303-018-p4s4
+1	Hlavním	AAIS7----1A----	Atr
+2	zdrojem	NNIS7-----A----	Pnom
+3	příjmů	NNIP2-----A----	Obj
+4	bude	VB-S---3F-AA---	Pred
+5	pronájem	NNIS1-----A----	Sb
+6	výstavních	AAFP2----1A----	Atr
+7	a	J^-------------	Coord
+8	prodejních	AAFP2----1A----	Atr
+9	ploch	NNFP2-----A----	Atr
+10	,	Z:-------------	Coord
+11	přičemž	J,-------------	Adv
+12	průměrná	AAFS1----1A----	Atr
+13	cena	NNFS1-----A----	Sb
+14	za	RR--4----------	AuxP
+15	metr	NNIS4-----A----	Atr
+16	čtvereční	AAIS4----1A----	Atr
+17	je	VB-S---3P-AA---	Pred
+18	40	C=-------------	Pnom
+19	korun	NNFP2-----A----	Atr
+20	na	RR--4----------	AuxP
+21	den	NNIS4-----A----	Adv
+22	pro	RR--4----------	AuxP
+23	tuzemské	AAFP4----1A----	Obj
+24	a	J^-------------	Coord
+25	75	C=-------------	ExD
+26	korun	NNFP2-----A----	Atr
+27	pro	RR--4----------	AuxP
+28	zahraniční	AAFP4----1A----	Atr
+29	firmy	NNFP4-----A----	ExD
+30	.	Z:-------------	AuxK
+

@@ -1,0 +1,671 @@
+cmpr9410-004-p2s1
+1	O	RR--6----------	AuxP
+2	schvalování	NNNS6-----A----	ExD
+3	počítačů	NNIP2-----A----	Atr
+
+cmpr9410-004-p3s1
+1	Prodávám	VB-S---1P-AA---	Pred
+2	elektroniku	NNFS4-----A----	Obj
+3	a	J^-------------	Coord
+4	potřeboval	VpYS---XR-AA---	Pred
+5	bych	Vc-S---1-------	AuxV
+6	vědět	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	zda	J,-------------	AuxC
+9	povinnému	AANS3----1A----	Atr
+10	schvalování	NNNS3-----A----	Obj
+11	podléhají	VB-P---3P-AA---	Obj
+12	i	J^-------------	AuxZ
+13	periferní	AANP1----1A----	Atr
+14	zařízení	NNNP1-----A----	Sb
+15	k	RR--3----------	AuxP
+16	počítačům	NNIP3-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-004-p4s1
+1	František	NNMS1-----A----	Atr
+2	Doucek	NNMS1-----A----	ExD
+3	,	Z:-------------	ExD
+4	Plzeň	NNFS1-----A----	ExD
+
+cmpr9410-004-p5s1
+1	Schvalování	NNNS1-----A----	Sb
+2	výrobků	NNIP2-----A----	Atr
+3	před	RR--7----------	AuxP
+4	jejich	PSXXXXP3-------	Atr
+5	uvedením	NNNS7-----A----	Atr
+6	na	RR--4----------	AuxP
+7	trh	NNIS4-----A----	Atr
+8	je	VB-S---3P-AA---	Pred
+9	upraveno	VsNS---XX-AP---	Pnom
+10	zákonem	NNIS7-----A----	Adv
+11	číslo	NNNS1-----A----	Atr
+12	30	C=-------------	Atr
+13	/	Z:-------------	AuxG
+14	1968	C=-------------	Atr
+15	Sb	NNFXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	ve	RV--6----------	AuxP
+18	znění	NNNS6-----A----	Adv
+19	pozdějších	AAIP2----2A----	Atr
+20	předpisů	NNIP2-----A----	Atr
+21	(	Z:-------------	Apos
+22	zákony	NNIP1-----A----	Adv
+23	číslo	NNNS1-----A----	Atr
+24	54	C=-------------	Atr
+25	/	Z:-------------	AuxG
+26	1987	C=-------------	Atr
+27	Sb	NNFXX-----A---8	Atr
+28	.	Z:-------------	AuxG
+29	,	Z:-------------	AuxX
+30	194	C=-------------	Atr
+31	/	Z:-------------	AuxG
+32	1988	C=-------------	Atr
+33	Sb	NNFXX-----A---8	Atr
+34	.	Z:-------------	AuxG
+35	a	J^-------------	Coord
+36	479	C=-------------	Atr
+37	/	Z:-------------	AuxG
+38	1992	C=-------------	Atr
+39	Sb	NNFXX-----A---8	Atr
+40	.	Z:-------------	AuxG
+41	)	Z:-------------	AuxG
+42	.	Z:-------------	AuxK
+
+cmpr9410-004-p5s2
+1	Obor	NNIS1-----A----	Sb
+2	výpočetní	AAFS2----1A----	Atr
+3	techniky	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	ke	RV--3----------	AuxP
+6	schvalování	NNNS3-----A----	Adv
+7	vyhlášen	VsYS---XX-AP---	Pnom
+8	celý	AAIS1----1A----	Atv
+9	s	RR--7----------	AuxP
+10	omezením	NNNS7-----A----	Adv
+11	daným	AANS7----1A----	Atr
+12	velikostí	NNFS7-----A----	Adv
+13	napájecího	AANS2----1A----	Atr
+14	napětí	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9410-004-p6s1A
+1	Co	PQ--1----------	Sb
+2	se	P7-X4----------	AuxR
+3	schvaluje	VB-S---3P-AA---	Pred
+4	:	Z:-------------	AuxK
+
+cmpr9410-004-p6s1B
+1	Schválení	NNNS3-----A----	Obj
+2	podléhají	VB-P---3P-AA---	Pred
+3	výrobky	NNIP1-----A----	Sb
+4	napájené	AAIP1----1A----	Atr
+5	ze	RV--2----------	AuxP
+6	zdroje	NNIS2-----A----	Adv
+7	(	Z:-------------	Apos
+8	sítě	NNFS2-----A----	Adv
+9	)	Z:-------------	AuxG
+10	o	RR--6----------	AuxP
+11	napětí	NNNS6-----A----	Atr
+12	50	C=-------------	Atr
+13	V	NNIXX-----A---8	Atr
+14	až	J^-------------	Coord
+15	380	C=-------------	Atr
+16	V	NNIXX-----A---8	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-004-p6s2
+1	Vztahuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	to	PDNS1----------	Sb
+4	na	RR--4----------	AuxP
+5	počítače	NNIP4-----A----	Obj
+6	napájené	AAIP4----1A----	Atr
+7	ze	RV--2----------	AuxP
+8	sítě	NNFS2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	monitory	NNIP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	tiskárny	NNFP4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	plottery	NNIP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	scannery	NNIP4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	zdroje	NNIP4-----A----	Obj
+19	k	RR--3----------	AuxP
+20	laptopům	NNIP3-----A----	Atr
+21	,	Z:-------------	Coord
+22	notebookům	NNIP3-----A----	Atr
+23	a	J^-------------	Coord
+24	podobně	Dg-------1A----	Obj
+25	.	Z:-------------	AuxK
+
+cmpr9410-004-p6s3
+1	Schvalování	NNNS3-----A----	Obj
+2	nepodléhají	VB-P---3P-NA---	Pred
+3	klávesnice	NNFP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	myši	NNFP1-----A----	Sb
+6	a	J^-------------	Coord
+7	ostatní	AANS1----1A----	Atr
+8	příslušenství	NNNS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	které	P4NS1----------	Sb
+11	není	VB-S---3P-NA---	AuxV
+12	napájeno	VsNS---XX-AP---	Atr
+13	napětím	NNNS7-----A----	Obj
+14	alespoň	Db-------------	AuxZ
+15	50	C=-------------	Atr
+16	V	NNIXX-----A---8	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-004-p7s1A
+1	Bezpečnostní	AAFP1----1A----	Atr
+2	zkoušky	NNFP1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+cmpr9410-004-p7s1B
+1	Při	RR--6----------	AuxP
+2	schvalování	NNNS6-----A----	Adv
+3	je	VB-S---3P-AA---	AuxV
+4	posuzována	VsQW---XX-AP---	Pred
+5	bezpečnost	NNFS1-----A----	Sb
+6	podle	RR--2----------	AuxP
+7	ČSN	NNFXX-----A---8	Adv
+8	369060	C=-------------	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	odpovídá	VB-S---3P-AA---	Atr
+12	mezinárodní	AAFS3----1A----	Atr
+13	normě	NNFS3-----A----	Obj
+14	IEC	NNFXX-----A----	Atr
+15	950	C=-------------	Atr
+16	a	J^-------------	Coord
+17	dále	Db------------1	AuxY
+18	zda	J,-------------	AuxC
+19	zařízení	NNNS1-----A----	Sb
+20	není	VB-S---3P-NA---	ExD
+21	zdrojem	NNIS7-----A----	Pnom
+22	rušení	NNNS2-----A----	Atr
+23	provozu	NNIS2-----A----	Atr
+24	radiokomunikací	NNFP2-----A----	Atr
+25	(	Z:-------------	AuxG
+26	odrušení	NNNS1-----A----	Sb
+27	přístroje	NNIS2-----A----	Atr
+28	musí	VB-S---3P-AA---	Pred
+29	odpovídat	Vf--------A----	Obj
+30	stupni	NNIS3-----A----	Obj
+31	RO	NNXXX-----A---8	Atr
+32	2	C=-------------	Atr
+33	podle	RR--2----------	AuxP
+34	ČSN	NNFXX-----A---8	Adv
+35	3452860	C=-------------	Atr
+36	)	Z:-------------	AuxG
+37	.	Z:-------------	AuxK
+
+cmpr9410-004-p7s2
+1	Do	RR--2----------	AuxP
+2	zkoušek	NNFP2-----A----	Adv
+3	musí	VB-S---3P-AA---	Pred
+4	být	Vf--------A----	AuxV
+5	se	RV--7----------	AuxP
+6	zdrojem	NNIS7-----A----	Adv
+7	předložen	VsYS---XX-AP---	Obj
+8	i	J^-------------	AuxZ
+9	příslušný	AAIS1----1A----	Atr
+10	počítač	NNIS1-----A----	Sb
+11	(	Z:-------------	Apos
+12	laptop	NNIS1-----A----	Sb
+13	a	J^-------------	Coord
+14	podobně	Dg-------1A----	Sb
+15	)	Z:-------------	AuxG
+16	.	Z:-------------	AuxK
+
+cmpr9410-004-p7s3
+1	Bezpečnostní	AAFP1----1A----	Atr
+2	zkoušky	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	provádějí	VB-P---3P-AA---	Pred
+5	jen	TT-------------	AuxZ
+6	na	RR--6----------	AuxP
+7	zdroji	NNIS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	odrušení	NNNS1-----A----	Sb
+11	se	P7-X4----------	AuxR
+12	měří	VB-S---3P-AA---	Pred
+13	na	RR--6----------	AuxP
+14	kombinaci	NNFS6-----A----	Adv
+15	zdroj	NNIS1-----A----	Atr
+16	-	Z:-------------	Coord
+17	počítač	NNIS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9410-004-p8s1A
+1	Přihlašování	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9410-004-p8s1B
+1	K	RR--3----------	AuxP
+2	přihlášení	NNNS3-----A----	Adv
+3	výrobků	NNIP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	třeba	ACNS------A----	Pnom
+6	formulář	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	který	P4IS4----------	Obj
+9	vydává	VB-S---3P-AA---	Atr
+10	i	J^-------------	AuxZ
+11	na	RR--4----------	AuxP
+12	telefonické	AANS4----1A----	Atr
+13	požádání	NNNS4-----A----	Adv
+14	zakázkové	AANS1----1A----	Atr
+15	oddělení	NNNS1-----A----	Sb
+16	Elektrotechnického	AAIS2----1A----	Atr
+17	zkušebního	AAIS2----1A----	Atr
+18	ústavu	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-004-p8s2
+1	Ke	RV--3----------	AuxP
+2	zkouškám	NNFP3-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	nutné	AANS1----1A----	Pnom
+5	předložit	Vf--------A----	Sb
+6	:	Z:-------------	AuxK
+
+cmpr9410-004-p9s1
+1	Přihlášku	NNFS4-----A----	ExD
+2	-	Z:-------------	AuxG
+3	ve	RV--6----------	AuxP
+4	3	C=-------------	Atr
+5	stejnopisech	NNIP6-----A----	Atr
+6	,	Z:-------------	Coord
+7	správně	Dg-------1A----	Adv
+8	vyplněnou	AAFS4----1A----	Atr
+9	a	J^-------------	Coord
+10	podepsanou	AAFS4----1A----	Atr
+11	na	RR--6----------	AuxP
+12	obou	ClXP6----------	Atr
+13	stranách	NNFP6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9410-004-p10s1
+1	Vzorek	NNIS4-----A----	ExD
+2	výrobku	NNIS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	provozuschopném	AAIS6----1A----	Atr
+5	stavu	NNIS6-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9410-004-p10s2
+1	Pokud	J,-------------	AuxC
+2	je	VB-S---3P-AA---	Adv
+3	k	RR--3----------	AuxP
+4	provozu	NNIS3-----A----	Adv
+5	nutné	AANS1----1A----	Pnom
+6	i	J^-------------	AuxZ
+7	příslušenství	NNNS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	předkládá	VB-S---3P-AA---	Pred
+10	se	P7-X4----------	AuxR
+11	i	J^-------------	AuxZ
+12	toto	PDNS1----------	Atr
+13	příslušenství	NNNS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+cmpr9410-004-p11s1
+1	Schéma	NNNS4-----A----	ExD
+2	zapojení	NNNS2-----A----	Atr
+3	zejména	Db-------------	AuxZ
+4	u	RR--2----------	AuxP
+5	zdrojových	AAFP2----1A----	Atr
+6	jednotek	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9410-004-p11s2
+1	U	RR--2----------	AuxP
+2	zahraničních	AAIP2----1A----	Atr
+3	výrobků	NNIP2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	vhodné	AANS1----1A----	Pnom
+6	předložit	Vf--------A----	Sb
+7	celý	AAIS4----1A----	Atr
+8	servisní	AAIS4----1A----	Atr
+9	návod	NNIS4-----A----	Obj
+10	(	Z:-------------	Apos
+11	servisní	AAIS4----1A----	Atr
+12	Manual	NNIXX-----A----	Obj
+13	)	Z:-------------	AuxG
+14	.	Z:-------------	AuxK
+
+cmpr9410-004-p12s1
+1	Návod	NNIS4-----A----	ExD
+2	k	RR--3----------	AuxP
+3	obsluze	NNFS3-----A----	Atr
+4	v	RR--6----------	AuxP
+5	češtině	NNFS6-----A----	Atr
+6	,	Z:-------------	AuxX
+7	případně	Dg-------1A----	Coord
+8	i	J^-------------	AuxZ
+9	jeho	PSXXXZS3-------	Atr
+10	originál	NNIS4-----A----	ExD
+11	v	RR--6----------	AuxP
+12	angličtině	NNFS6-----A----	Atr
+13	nebo	J^-------------	Coord
+14	němčině	NNFS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9410-004-p13s1
+1	Specifikaci	NNFS4-----A----	ExD
+2	izolačních	AAIP2----1A----	Atr
+3	materiálů	NNIP2-----A----	Atr
+4	z	RR--2----------	AuxP
+5	hlediska	NNNS2-----A----	AuxP
+6	hořlavosti	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	to	PDNS1----------	AuxY
+9	je	VB-S---3P-AA---	Apos
+10	název	NNIS4-----A----	ExD
+11	jejich	PSXXXXP3-------	Atr
+12	výrobce	NNMS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	typ	NNIS4-----A----	ExD
+15	materiálu	NNIS2-----A----	Atr
+16	a	J^-------------	Coord
+17	třídu	NNFS4-----A----	ExD
+18	hořlavosti	NNFS2-----A----	Atr
+19	(	Z:-------------	AuxG
+20	jde	VB-S---3P-AA---	Pred
+21	o	RR--4----------	AuxP
+22	kryty	NNIP4-----A----	Obj
+23	,	Z:-------------	AuxX
+24	desky	NNFP4-----A----	Obj
+25	plošných	AAIP2----1A----	Atr
+26	spojů	NNIP2-----A----	Atr
+27	a	J^-------------	Coord
+28	podobně	Dg-------1A----	Obj
+29	)	Z:-------------	AuxG
+30	.	Z:-------------	AuxK
+
+cmpr9410-004-p14s1
+1	Navíjecí	AAIS4----1A----	Atr
+2	předpis	NNIS4-----A----	ExD
+3	transformátoru	NNIS2-----A----	Atr
+4	,	Z:-------------	Coord
+5	u	RR--2----------	AuxP
+6	spínaných	AAIP2----1A----	Atr
+7	zdrojů	NNIP2-----A----	ExD
+8	všech	PLXP2----------	Atr
+9	transformátorů	NNIP2-----A----	ExD
+10	,	Z:-------------	AuxX
+11	s	RR--7----------	AuxP
+12	udáním	NNNS7-----A----	Atr
+13	jejich	PSXXXXP3-------	Atr
+14	tepelné	AAFS2----1A----	Atr
+15	třídy	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9410-004-p14s2
+1	(	Z:-------------	AuxG
+2	Není	VB-S---3P-NA---	Adv
+3	-	Z:-------------	AuxG
+4	li	TT-------------	AuxC
+5	tato	PDFS1----------	Atr
+6	informace	NNFS1-----A----	Sb
+7	k	RR--3----------	AuxP
+8	dispozici	NNFS3-----A----	Adv
+9	,	Z:-------------	AuxX
+10	musí	VB-S---3P-AA---	Pred
+11	zkušebna	NNFS1-----A----	Sb
+12	transformátor	NNIS4-----A----	Obj
+13	rozebrat	Vf--------A----	Obj
+14	a	J^-------------	Coord
+15	při	RR--6----------	AuxP
+16	posuzování	NNNS6-----A----	Adv
+17	oteplení	NNNS2-----A----	Atr
+18	předpokládá	VB-S---3P-AA---	Pred
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	transformátor	NNIS1-----A----	Sb
+22	má	VB-S---3P-AA---	Obj
+23	nejnižší	AAFS4----3A----	Atr
+24	tepelnou	AAFS4----1A----	Atr
+25	třídu	NNFS4-----A----	Obj
+26	.	Z:-------------	AuxK
+27	)	Z:-------------	AuxG
+
+cmpr9410-004-p15s1
+1	Typové	AANS4----1A----	Atr
+2	osvědčení	NNNS4-----A----	ExD
+3	o	RR--6----------	AuxP
+4	odrušení	NNNS6-----A----	Atr
+5	vydané	AANS1----1A----	Atr
+6	Testcomem	NNIS7-----A----	Obj
+7	,	Z:-------------	AuxX
+8	Praha	NNFS1-----A----	Atr
+9	(	Z:-------------	AuxG
+10	pokud	J,-------------	AuxC
+11	je	VB-S---3P-AA---	Adv
+12	k	RR--3----------	AuxP
+13	dispozici	NNFS3-----A----	Adv
+14	)	Z:-------------	AuxG
+15	.	Z:-------------	AuxK
+
+cmpr9410-004-p16s1
+1	Zahraniční	AAIP1----1A----	Atr
+2	certifikáty	NNIP1-----A----	Sb
+3	u	RR--2----------	AuxP
+4	nás	PP-P2--1-------	Adv
+5	neplatí	VB-P---3P-NA---	Pred
+6	.	Z:-------------	AuxK
+
+cmpr9410-004-p16s2
+1	Pokud	J,-------------	AuxC
+2	ale	J^-------------	Coord
+3	žadatel	NNMS1-----A----	Sb
+4	předloží	VB-S---3P-AA---	Adv
+5	certifikáty	NNIP4-----A----	Obj
+6	CB	NNXXX-----A---8	Atr
+7	nebo	J^-------------	Coord
+8	CCA	NNXXX-----A---8	Atr
+9	s	RR--7----------	AuxP
+10	úplným	AAIS7----1A----	Atr
+11	protokolem	NNIS7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	lze	VB-S---3P-AA---	Pred
+14	schvalovací	AANS4----1A----	Atr
+15	řízení	NNNS4-----A----	Obj
+16	zjednodušit	Vf--------A----	Sb
+17	a	J^-------------	Coord
+18	zkrátit	Vf--------A----	Sb
+19	.	Z:-------------	AuxK
+
+cmpr9410-004-p17s1
+1	Doba	NNFS1-----A----	Sb
+2	úplné	AAFS2----1A----	Atr
+3	zkoušky	NNFS2-----A----	Atr
+4	nepřekračuje	VB-S---3P-NA---	Pred
+5	v	RR--6----------	AuxP
+6	současnosti	NNFS6-----A----	Adv
+7	3	C=-------------	Atr
+8	měsíce	NNIP4-----A----	Obj
+9	(	Z:-------------	AuxG
+10	pokud	J,-------------	AuxC
+11	přihlašovatel	NNMS1-----A----	Sb
+12	předloží	VB-S---3P-AA---	Adv
+13	všechny	PLYP4----------	Atr
+14	podklady	NNIP4-----A----	Obj
+15	)	Z:-------------	AuxG
+16	.	Z:-------------	AuxK
+
+cmpr9410-004-p18s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	zkoušku	NNFS4-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	řídí	VB-S---3P-AA---	Pred
+6	složitostí	NNFS7-----A----	Obj
+7	zkoušeného	AAIS2----1A----	Atr
+8	výrobku	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9410-004-p18s2
+1	U	RR--2----------	AuxP
+2	výpočetní	AAFS2----1A----	Atr
+3	techniky	NNFS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	pohybuje	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	rozmezí	NNNS6-----A----	Adv
+8	od	RR--2----------	AuxP
+9	8000	C=-------------	Atr
+10	Kč	NNFXX-----A----	Atr
+11	do	RR--2----------	AuxP
+12	16000	C=-------------	Atr
+13	Kč	NNFXX-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9410-004-p19s1
+1	Řízení	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	ukončeno	VsNS---XX-AP---	Pnom
+4	vydáním	NNNS7-----A----	Adv
+5	Rozhodnutí	NNNS2-----A----	Atr
+6	o	RR--6----------	AuxP
+7	schválení	NNNS6-----A----	Atr
+8	či	J^-------------	Coord
+9	neschválení	NNNS6-----N----	Atr
+10	výrobku	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9410-004-p19s2
+1	Rozhodnutí	NNNS1-----A----	Sb
+2	uvádí	VB-S---3P-AA---	Pred
+3	:	Z:-------------	AuxG
+4	Druh	NNIS4-----A----	Obj
+5	výrobku	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	na	RR--4----------	AuxP
+8	jaký	P4IS4----------	Atr
+9	typ	NNIS4-----A----	Obj
+10	se	P7-X4----------	AuxT
+11	vztahuje	VB-S---3P-AA---	Obj
+12	,	Z:-------------	AuxX
+13	kdy	Db-------------	Adv
+14	bylo	VpNS---XR-AA---	AuxV
+15	vydáno	VsNS---XX-AP---	Obj
+16	,	Z:-------------	AuxX
+17	do	RR--2----------	AuxP
+18	kdy	Db-------------	Adv
+19	platí	VB-S---3P-AA---	Obj
+20	a	J^-------------	Coord
+21	především	Db-------------	AuxZ
+22	kým	PKM-7----------	Obj
+23	a	J^-------------	Coord
+24	pro	RR--4----------	AuxP
+25	koho	PKM-4----------	Obj
+26	bylo	VpNS---XR-AA---	AuxV
+27	vydáno	VsNS---XX-AP---	Obj
+28	.	Z:-------------	AuxK
+
+cmpr9410-004-p19s3
+1	Rozhodnutí	NNNS1-----A----	Sb
+2	není	VB-S---3P-NA---	Pred
+3	přenosné	AANS1----1A----	Pnom
+4	,	Z:-------------	Coord
+5	každý	AAMS1----1A----	Atr
+6	výrobce	NNMS1-----A----	Sb
+7	nebo	J^-------------	Coord
+8	dovozce	NNMS1-----A----	Sb
+9	musí	VB-S---3P-AA---	Pred
+10	mít	Vf--------A----	Obj
+11	rozhodnutí	NNNS4-----A----	Obj
+12	vystavené	AANS4----1A----	Atr
+13	na	RR--4----------	AuxP
+14	sebe	P6-X4----------	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9410-004-p20s1
+1	Rada	NNFS1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	závěr	NNIS4-----A----	Atr
+4	:	Z:-------------	AuxG
+5	Nejjednodušším	AAIS7----3A----	Atr
+6	způsobem	NNIS7-----A----	Pnom
+7	,	Z:-------------	AuxX
+8	jak	Db-------------	Adv
+9	se	P7-X4----------	AuxT
+10	obchodník	NNMS1-----A----	Sb
+11	může	VB-S---3P-AA---	Atr
+12	přesvědčit	Vf--------A----	Obj
+13	,	Z:-------------	AuxX
+14	zda	J,-------------	AuxC
+15	výrobek	NNIS1-----A----	Sb
+16	byl	VpYS---XR-AA---	AuxV
+17	schválen	VsYS---XX-AP---	Obj
+18	,	Z:-------------	AuxX
+19	je	VB-S---3P-AA---	Atr
+20	dát	Vf--------A----	Sb
+21	si	P7-X3----------	Obj
+22	předložit	Vf--------A----	Obj
+23	kopii	NNFS4-----A----	Obj
+24	Rozhodnutí	NNNS2-----A----	Atr
+25	o	RR--6----------	AuxP
+26	schválení	NNNS6-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9410-004-p21s1
+1	František	NNMS1-----A----	Atr
+2	Homolka	NNMS1-----A----	ExD
+3	,	Z:-------------	ExD
+4	Elektrotechnický	AAIS1----1A----	Atr
+5	zkušební	AAIS1----1A----	Atr
+6	ústav	NNIS1-----A----	ExD
+7	,	Z:-------------	AuxX
+8	Praha	NNFS1-----A----	Atr
+
+cmpr9410-004-p22s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Elektrotechnický	AAIS1----1A----	Atr
+4	zkušební	AAIS1----1A----	Atr
+5	ústav	NNIS1-----A----	ExD
+6	,	Z:-------------	AuxX
+7	státní	AAFS1----1A----	Atr
+8	zkušebna	NNFS1-----A----	Atr
+9	201	C=-------------	Atr
+10	,	Z:-------------	AuxX
+11	Pod	RR--7----------	AuxP
+12	lisem	NNIS7-----A----	Atr
+13	129	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	171	C=-------------	Atr
+16	02	C=-------------	Atr
+17	Praha	NNFS1-----A----	Atr
+18	8	C=-------------	Atr
+19	-	Z:-------------	AuxG
+20	Troja	NNFS1-----A----	Atr
+21	,	Z:-------------	AuxX
+22	tel	NNIXX-----A---8	Atr
+23	.	Z:-------------	AuxG
+24	:	Z:-------------	AuxG
+25	(	Z:-------------	AuxG
+26	02	C=-------------	Atr
+27	)	Z:-------------	AuxG
+28	664102	C=-------------	Atr
+29	33	C=-------------	Atr
+30	,	Z:-------------	Coord
+31	FAX	NNIS1-----A----	Atr
+32	:	Z:-------------	AuxG
+33	(	Z:-------------	AuxG
+34	02	C=-------------	Atr
+35	)	Z:-------------	AuxG
+36	664100	C=-------------	Atr
+37	37	C=-------------	Atr
+38	,	Z:-------------	Coord
+39	664100	C=-------------	Atr
+40	70	C=-------------	Atr
+41	.	Z:-------------	AuxK
+

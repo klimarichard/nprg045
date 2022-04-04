@@ -1,0 +1,133 @@
+lnd94101-009-p1s1A
+1	Komise	NNFS1-----A----	Sb
+2	spokojena	ACQW------A----	Pred
+3	s	RR--7----------	AuxP
+4	volbami	NNFP7-----A----	Obj
+5	v	RR--6----------	AuxP
+6	JAR	NNNP6-----A----	Atr
+
+lnd94101-009-p1s1B
+1	Johannesburg	NNIS1-----A----	ExD
+2	/	Z:-------------	Coord
+3	Pretoria	NNFS1-----A----	ExD
+4	-	Z:-------------	AuxK
+
+lnd94101-009-p1s1C
+1	Předseda	NNMS1-----A----	Atr
+2	Nezávislé	AAFS2----1N----	Atr
+3	volební	AAFS2----1A----	Atr
+4	komise	NNFS2-----A----	Atr
+5	(	Z:-------------	Apos
+6	IEC	NNFXX-----A---8	Atr
+7	)	Z:-------------	AuxG
+8	Johann	NNMS1-----A----	Atr
+9	Kriegler	NNMS1-----A----	Sb
+10	včera	Db-------------	Adv
+11	oznámil	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	není	VB-S---3P-NA---	Obj
+15	důvodu	NNIS2-----A----	Pnom
+16	,	Z:-------------	AuxX
+17	proč	Db-------------	Adv
+18	neoznačit	Vf--------N----	Atr
+19	první	CrFP4----------	Atr
+20	mnohorasové	AAFP4----1A----	Atr
+21	volby	NNFP4-----A----	Obj
+22	v	RR--6----------	AuxP
+23	JAR	NNFXX-----A---8	Atr
+24	za	RR--4----------	AuxP
+25	svobodné	AAFP4----1A----	Obj
+26	a	J^-------------	Coord
+27	spravedlivé	AAFP4----1A----	Obj
+28	.	Z:-------------	AuxK
+
+lnd94101-009-p1s2
+1	Svůj	P8IS4----------	Atr
+2	postoj	NNIS4-----A----	Obj
+3	tlumočil	VpYS---XR-AA---	Pred
+4	po	RR--6----------	AuxP
+5	schůzce	NNFS6-----A----	Adv
+6	s	RR--7----------	AuxP
+7	prezidentem	NNMS7-----A----	Atr
+8	Frederikem	NNMS7-----A----	Atr
+9	de	RR--1----------	Atr
+10	Klerkem	NNMS7-----A----	Atr
+11	a	J^-------------	Coord
+12	šéfem	NNMS7-----A----	Atr
+13	Afrického	AAIS2----1A----	Atr
+14	národního	AAIS2----1A----	Atr
+15	kongresu	NNIS2-----A----	Atr
+16	(	Z:-------------	Apos
+17	ANC	NNIXX-----A---8	Atr
+18	)	Z:-------------	AuxG
+19	Nelsonem	NNMS7-----A----	Atr
+20	Mandelou	NNMS7-----A----	Atr
+21	,	Z:-------------	AuxX
+22	které	P4YP4----------	Obj
+23	informoval	VpYS---XR-AA---	Atr
+24	o	RR--6----------	AuxP
+25	prodloužení	NNNS6-----A----	Obj
+26	voleb	NNFP2-----A----	Atr
+27	v	RR--6----------	AuxP
+28	šesti	Cn-P6----------	Atr
+29	oblastech	NNFP6-----A----	Atr
+30	.	Z:-------------	AuxK
+
+lnd94101-009-p1s3
+1	Bez	RR--2----------	AuxP
+2	ohledu	NNIS2-----A----	AuxP
+3	na	RR--4----------	AuxP
+4	několik	Ca--4----------	Atr
+5	pumových	AAIP2----1A----	Atr
+6	útoků	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	připisovaných	AAIP2----1A----	Atr
+9	bělošské	AAFS3----1A----	Atr
+10	ultrapravici	NNFS3-----A----	Obj
+11	,	Z:-------------	AuxX
+12	byly	VpTP---XR-AA---	Obj
+13	historické	AAFP1----1A----	Atr
+14	volby	NNFP1-----A----	Sb
+15	překvapivě	Dg-------1A----	Adv
+16	klidné	AAFP1----1A----	Pnom
+17	,	Z:-------------	AuxX
+18	napsala	VpQW---XR-AA---	Pred
+19	včera	Db-------------	Adv
+20	agentura	NNFS1-----A----	Sb
+21	Reuter	NNMS1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd94101-009-p1s4
+1	V	RR--6----------	AuxP
+2	zemi	NNFS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	kde	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	politických	AANP6----1A----	Atr
+7	nepokojích	NNIP6-----A----	Adv
+8	v	RR--6----------	AuxP
+9	posledních	AANP6----1A----	Atr
+10	čtyřech	ClXP6----------	Atr
+11	letech	NNNP6-----A----	Adv
+12	zahynulo	VpNS---XR-AA---	Atr
+13	15000	C=-------------	Sb
+14	lidí	NNMP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	počet	NNIS1-----A----	Sb
+17	obětí	NNFP2-----A----	Atr
+18	volebního	AANS2----1A----	Atr
+19	násilí	NNNS2-----A----	Atr
+20	k	RR--3----------	AuxP
+21	dnešku	NNIS3-----A----	Adv
+22	činil	VpYS---XR-AA---	Pred
+23	jen	TT-------------	Adv
+24	34	C=-------------	Obj
+25	.	Z:-------------	AuxK
+
+lnd94101-009-p1s5
+1	Pokračování	NNNS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	poslední	AAFS6----1A----	Atr
+4	straně	NNFS6-----A----	ExD
+

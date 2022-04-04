@@ -1,0 +1,464 @@
+cmpr9413-018-p2s1
+1	Štoček	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Náš	PSYS1-P1-------	Atr
+4	obchodní	AAMS1----1A----	Atr
+5	partner	NNMS1-----A----	ExD
+
+cmpr9413-018-p3s1
+1	Kanada	NNFS1-----A----	ExD
+
+cmpr9413-018-p4s1
+1	Obchodní	AAIP1----1A----	Atr
+2	vztahy	NNIP1-----A----	Sb
+3	mezi	RR--7----------	AuxP
+4	Českou	AAFS7----1A----	Atr
+5	republikou	NNFS7-----A----	Atr
+6	a	J^-------------	Coord
+7	Kanadou	NNFS7-----A----	Atr
+8	patřily	VpTP---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	minulosti	NNFS6-----A----	Adv
+11	v	RR--6----------	AuxP
+12	porovnání	NNNS6-----A----	AuxP
+13	k	RR--3----------	AuxP
+14	ostatním	AAFP3----1A----	Atr
+15	průmyslově	Dg-------1A----	Adv
+16	vyspělým	AAFP3----1A----	Atr
+17	zemím	NNFP3-----A----	Adv
+18	k	RR--3----------	AuxP
+19	okrajovým	AAIP3----1A----	ExD
+20	.	Z:-------------	AuxK
+
+cmpr9413-018-p4s2
+1	Například	Db-------------	AuxZ
+2	kanadský	AAIS1----1A----	Atr
+3	vývoz	NNIS1-----A----	Sb
+4	do	RR--2----------	AuxP
+5	ČSSR	NNFXX-----A---8	Atr
+6	se	P7-X4----------	AuxT
+7	pohyboval	VpYS---XR-AA---	Pred
+8	kolem	RR--2----------	AuxP
+9	15	C=-------------	Atr
+10	milionů	NNIP2-----A----	Adv
+11	dolarů	NNIP2-----A----	Atr
+12	ročně	Dg-------1A----	Adv
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	v	RR--6----------	AuxP
+16	posledních	AANP6----1A----	Atr
+17	2	C=-------------	Atr
+18	-	Z:-------------	Coord
+19	3	C=-------------	Atr
+20	letech	NNNP6-----A----	Adv
+21	se	P7-X4----------	AuxT
+22	několikanásobně	Dg-------1A----	Adv
+23	zvýšil	VpYS---XR-AA---	Pred
+24	.	Z:-------------	AuxK
+
+cmpr9413-018-p4s3
+1	Loni	Db------------1	Adv
+2	přesáhla	VpQW---XR-AA---	Pred
+3	vzájemná	AAFS1----1A----	Atr
+4	výměna	NNFS1-----A----	Sb
+5	120	C=-------------	Obj
+6	milionů	NNIP2-----A----	Atr
+7	dolarů	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	když	J,-------------	AuxC
+10	kanadský	AAIS1----1A----	Atr
+11	vývoz	NNIS1-----A----	Sb
+12	převýšil	VpYS---XR-AA---	Adv
+13	dovoz	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9413-018-p4s4
+1	Hlavní	AAFP4----1A----	Atr
+2	položky	NNFP4-----A----	Obj
+3	kanadského	AAIS2----1A----	Atr
+4	exportu	NNIS2-----A----	Atr
+5	tvořily	VpTP---XR-AA---	Pred
+6	letouny	NNIP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	vrtulníky	NNIP1-----A----	Sb
+9	a	J^-------------	Coord
+10	výpočetní	AAFS1----1A----	Atr
+11	technika	NNFS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+cmpr9413-018-p4s5
+1	Z	RR--2----------	AuxP
+2	české	AAFS2----1A----	Atr
+3	strany	NNFS2-----A----	Adv
+4	to	PDNS1----------	Pnom
+5	byly	VpTP---XR-AA---	Pred
+6	zejména	Db-------------	AuxZ
+7	stroje	NNIP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	potraviny	NNFP1-----A----	Sb
+10	a	J^-------------	Coord
+11	textil	NNIS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+cmpr9413-018-p4s6
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	kanadského	AAIS2----1A----	ExD
+5	měl	VpYS---XR-AA---	Pred
+6	český	AAIS1----1A----	Atr
+7	vývoz	NNIS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	minulých	AANP6----1A----	Atr
+10	dvou	ClXP6----------	Atr
+11	-	Z:-------------	Coord
+12	třech	ClXP6----------	Atr
+13	letech	NNNP6-----A----	Adv
+14	klesající	AGFS4-----A----	Atr
+15	tendenci	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9413-018-p5s1
+1	Investice	NNFS1-----A----	ExD
+
+cmpr9413-018-p6s1
+1	Kanadské	AAFP1----1A----	Atr
+2	společnosti	NNFP1-----A----	Sb
+3	začaly	VpTP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	ČR	NNFXX-----A---8	Adv
+6	více	Dg-------2A----	Adv
+7	investovat	Vf--------A----	Obj
+8	od	RR--2----------	AuxP
+9	léta	NNNS2-----A----	Adv
+10	loňského	AAIS2----1A----	Atr
+11	roku	NNIS2-----A---1	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9413-018-p6s2
+1	Doposud	Db-------------	Adv
+2	bylo	VpNS---XR-AA---	AuxV
+3	vytvořeno	VsNS---XX-AP---	Pred
+4	více	Dg-------2A----	Sb
+5	než	J,-------------	AuxC
+6	sto	NNNS1-----A----	Adv
+7	-	Z:-------------	AuxG
+8	především	Db-------------	AuxZ
+9	menších	AANP2----2A----	Atr
+10	joint	AAIXX----1A----	Atr
+11	ventures	NNXPX-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9413-018-p6s3
+1	Nejvýznamnější	AAFP1----3A----	Atr
+2	investice	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	pohybují	VB-P---3P-AA---	Pred
+5	kolem	RR--2----------	AuxP
+6	10	C=-------------	Atr
+7	milionů	NNIP2-----A----	Adv
+8	dolarů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9413-018-p6s4
+1	Nejaktivnější	AAMS1----3A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	zatím	Db-------------	Adv
+4	Tomáš	NNMS1-----A----	Atr
+5	Baťa	NNMS1-----A----	Sb
+6	ve	RV--6----------	AuxP
+7	výrobě	NNFS6-----A----	Adv
+8	a	J^-------------	Coord
+9	prodeji	NNIS6-----A----	Adv
+10	bot	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9413-018-p6s5
+1	Další	AAFS1----1A----	Atr
+2	spolupráce	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	rozvíjí	VB-S---3P-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	výstavbě	NNFS6-----A----	Adv
+7	hotelů	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	při	RR--6----------	AuxP
+10	rozšiřování	NNNS6-----A----	Adv
+11	a	J^-------------	Coord
+12	modernizaci	NNFS6-----A----	Adv
+13	pražského	AANS2----1A----	Atr
+14	letiště	NNNS2-----A----	Atr
+15	a	J^-------------	Coord
+16	v	RR--6----------	AuxP
+17	oblasti	NNFS6-----A----	AuxP
+18	služeb	NNFP2-----A----	Atr
+19	,	Z:-------------	Apos
+20	například	Db-------------	AuxZ
+21	právního	AANS2----1A----	Atr
+22	poradenství	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9413-018-p6s6
+1	Do	RR--2----------	AuxP
+2	budoucnosti	NNFS2-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	očekávají	VB-P---3P-AA---	Pred
+5	mj	Db------------8	Adv
+6	.	Z:-------------	AuxG
+7	kanadské	AAFP1----1A----	Atr
+8	investice	NNFP1-----A----	Sb
+9	do	RR--2----------	AuxP
+10	strojírenské	AAFS2----1A----	Atr
+11	výroby	NNFS2-----A----	Atr
+12	s	RR--7----------	AuxP
+13	cílem	NNIS7-----A----	Adv
+14	využít	Vf--------A----	Atr
+15	místní	AAFS4----1A----	Atr
+16	levnější	AAFS4----2A----	Atr
+17	pracovní	AAFS4----1A----	Atr
+18	sílu	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+cmpr9413-018-p7s1
+1	Služby	NNFP1-----A----	ExD
+
+cmpr9413-018-p8s1
+1	Hlavním	AAIS7----1A----	Atr
+2	úkolem	NNIS7-----A----	Pnom
+3	obchodního	AANS2----1A----	Atr
+4	oddělení	NNNS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	podpora	NNFS1-----A----	Sb
+7	kanadského	AAIS2----1A----	Atr
+8	vývozu	NNIS2-----A----	Atr
+9	a	J^-------------	Coord
+10	investic	NNFP2-----A---1	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9413-018-p8s2
+1	Kromě	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	poskytuje	VB-S---3P-AA---	Pred
+4	služby	NNFP4-----A----	Obj
+5	také	Db-------------	AuxZ
+6	českým	AAFP3----1A----	Atr
+7	firmám	NNFP3-----A----	Obj
+8	,	Z:-------------	AuxX
+9	které	P4FP1----------	Sb
+10	mají	VB-P---3P-AA---	Atr
+11	vážný	AAIS4----1A----	Atr
+12	zájem	NNIS4-----A----	Obj
+13	o	RR--4----------	AuxP
+14	vývoz	NNIS4-----A----	Atr
+15	do	RR--2----------	AuxP
+16	Kanady	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	nebo	J^-------------	Coord
+19	o	RR--4----------	AuxP
+20	společné	AAFP4----1A----	Atr
+21	investice	NNFP4-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9413-018-p8s3
+1	Zprostředkuje	VB-S---3P-AA---	Pred
+2	například	Db-------------	AuxY
+3	spojení	NNNS4-----A----	Obj
+4	s	RR--7----------	AuxP
+5	kanadským	AAIS7----1A----	Atr
+6	Úřadem	NNIS7-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	zjednodušení	NNNS4-----A----	Atr
+9	obchodu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	pořádá	VB-S---3P-AA---	Atr
+13	mj	Db------------8	Adv
+14	.	Z:-------------	AuxG
+15	semináře	NNIP4-----A----	Obj
+16	o	RR--6----------	AuxP
+17	možnostech	NNFP6-----A----	Atr
+18	obchodování	NNNS2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	Kanadě	NNFS6-----A----	AtrAtr
+21	.	Z:-------------	AuxK
+
+cmpr9413-018-p8s4
+1	Úřad	NNIS1-----A----	Sb
+2	rovněž	Db-------------	Adv
+3	posuzuje	VB-S---3P-AA---	Pred
+4	dotazníky	NNIP4-----A----	Obj
+5	se	RV--7----------	AuxP
+6	žádostmi	NNFP7-----A----	Atr
+7	zahraničních	AAMP2----1A----	Atr
+8	výrobců	NNMP2-----A----	Atr
+9	o	RR--4----------	AuxP
+10	vývoz	NNIS4-----A----	Atr
+11	nových	AAIP2----1A----	Atr
+12	výrobků	NNIP2-----A----	Atr
+13	do	RR--2----------	AuxP
+14	Kanady	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9413-018-p8s5
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	úřad	NNIS1-----A----	Sb
+6	usoudí	VB-S---3P-AA---	Atr
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	má	VB-S---3P-AA---	Obj
+10	výrobek	NNIS1-----A----	Sb
+11	na	RR--6----------	AuxP
+12	kanadském	AAIS6----1A----	Atr
+13	trhu	NNIS6-----A----	Adv
+14	šanci	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	informuje	VB-S---3P-AA---	Pred
+17	o	RR--6----------	AuxP
+18	tom	PDZS6----------	Obj
+19	v	RR--6----------	AuxP
+20	odborném	AAIS6----1A----	Atr
+21	bulletinu	NNIS6-----A----	Adv
+22	,	Z:-------------	AuxX
+23	který	P4YS1----------	Sb
+24	je	VB-S---3P-AA---	AuxV
+25	rozesílán	VsYS---XX-AP---	Atr
+26	3000	C=-------------	Obj
+27	kanadských	AAMP2----1A----	Atr
+28	dovozců	NNMP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9413-018-p8s6
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	rovněž	Db-------------	Adv
+4	působí	VB-S---3P-AA---	Pred
+5	kancelář	NNFS1-----A----	Sb
+6	pro	RR--4----------	AuxP
+7	podporu	NNFS4-----A----	Atr
+8	rozvoje	NNIS2-----A----	Atr
+9	spolupráce	NNFS2-----A----	Atr
+10	mezi	RR--7----------	AuxP
+11	ČR	NNFXX-----A---8	Atr
+12	a	J^-------------	Coord
+13	provincií	NNFS7-----A----	Atr
+14	Québec	NNIS1-----A---1	Atr
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	usiluje	VB-S---3P-AA---	Atr
+18	o	RR--4----------	AuxP
+19	posílení	NNNS4-----A----	Obj
+20	obchodních	AAIP2----1A----	Atr
+21	a	J^-------------	Coord
+22	výrobních	AAIP2----1A----	Atr
+23	vztahů	NNIP2-----A----	Atr
+24	s	RR--7----------	AuxP
+25	touto	PDFS7----------	Atr
+26	francouzsky	Dg-------1A----	Adv
+27	mluvící	AGFS7-----A----	Atr
+28	provincií	NNFS7-----A----	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9413-018-p9s1
+1	Doklady	NNIP1-----A----	ExD
+
+cmpr9413-018-p10s1
+1	Ke	RV--3----------	AuxP
+2	krátkodobé	AAFS3----1A----	Atr
+3	návštěvě	NNFS3-----A----	Adv
+4	Kanady	NNFS2-----A----	Atr
+5	potřebuje	VB-S---3P-AA---	Pred
+6	občan	NNMS1-----A----	Sb
+7	ČR	NNFXX-----A---8	Atr
+8	platný	AAIS4----1A----	Atr
+9	cestovní	AAIS4----1A----	Atr
+10	pas	NNIS4-----A----	Obj
+11	a	J^-------------	Coord
+12	vizum	NNNS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9413-018-p10s2
+1	Základem	NNIS7-----A----	Pnom
+2	pro	RR--4----------	AuxP
+3	získání	NNNS4-----A----	Atr
+4	pracovního	AANS2----1A----	Atr
+5	povolení	NNNS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	potvrzení	NNNS1-----A----	Sb
+8	kanadské	AAFS2----1A----	Atr
+9	společnosti	NNFS2-----A----	Atr
+10	o	RR--6----------	AuxP
+11	tom	PDZS6----------	Atr
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	konkrétního	AAMS4----1A----	Atr
+15	cizince	NNMS4-----A----	Obj
+16	zaměstná	VB-S---3P-AA---	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9413-018-p10s3
+1	O	RR--6----------	AuxP
+2	každém	AAIS6----1A----	Atr
+3	případu	NNIS6-----A---1	Obj
+4	rozhoduje	VB-S---3P-AA---	Pred
+5	ministerstvo	NNNS1-----A----	Sb
+6	pro	RR--4----------	AuxP
+7	imigraci	NNFS4-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9413-018-p10s4
+1	Posuzování	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	nyní	Db-------------	Adv
+4	poměrně	Dg-------1A----	Adv
+5	přísné	AANS1----1A----	Pnom
+6	,	Z:-------------	AuxX
+7	protože	J,-------------	AuxC
+8	míra	NNFS1-----A----	Sb
+9	nezaměstnanosti	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Kanadě	NNFS6-----A----	AdvAtr
+12	přesáhla	VpQW---XR-AA---	Adv
+13	11	C=-------------	Obj
+14	%	Z:-------------	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9413-018-p11s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Kanadské	AANS1----1A----	Atr
+4	velvyslanectví	NNNS1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	Obchodní	AANS1----1A----	Atr
+7	oddělení	NNNS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Na	RR--6----------	AuxP
+10	Petynce	NNFS6-----A----	Atr
+11	120	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	169	C=-------------	Atr
+14	00	C=-------------	Atr
+15	Praha	NNFS1-----A----	Atr
+16	6	C=-------------	Atr
+17	,	Z:-------------	AuxX
+18	tel	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	:	Z:-------------	AuxG
+21	(	Z:-------------	AuxG
+22	02	C=-------------	Atr
+23	)	Z:-------------	AuxG
+24	35	C=-------------	Atr
+25	79662	C=-------------	Atr
+26	,	Z:-------------	AuxX
+27	FAX	NNIS1-----A----	Atr
+28	:	Z:-------------	AuxG
+29	(	Z:-------------	AuxG
+30	02	C=-------------	Atr
+31	)	Z:-------------	AuxG
+32	35	C=-------------	Atr
+33	54	C=-------------	Atr
+34	76	C=-------------	Atr
+35	.	Z:-------------	AuxK
+

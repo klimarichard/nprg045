@@ -1,0 +1,271 @@
+lnd94105-076-p1s1
+1	Největší	AAFS1----3A----	Atr
+2	česká	AAFS1----1A----	Atr
+3	veletržní	AAFS1----1A----	Atr
+4	účast	NNFS1-----A----	ExD
+5	v	RR--6----------	AuxP
+6	zahraničí	NNNS6-----A----	Atr
+7	se	RV--7----------	AuxP
+8	státní	AAFS7----1A----	Atr
+9	podporou	NNFS7-----A----	Atr
+
+lnd94105-076-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ge	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94105-076-p1s3
+1	Finanční	AAFS4----1A----	Atr
+2	nebo	J^-------------	Coord
+3	materiálovou	AAFS4----1A----	Atr
+4	podporu	NNFS4-----A----	Obj
+5	poskytuje	VB-S---3P-AA---	Pred
+6	ministerstvo	NNNS1-----A----	Sb
+7	průmyslu	NNIS2-----A----	Atr
+8	a	J^-------------	Coord
+9	obchodu	NNIS2-----A----	Atr
+10	(	Z:-------------	Apos
+11	MPO	NNNXX-----A---8	Sb
+12	)	Z:-------------	AuxG
+13	v	RR--6----------	AuxP
+14	rámci	NNIS6-----A----	AuxP
+15	své	P8FS2---------1	Atr
+16	proexportní	AAFS2----1A----	Atr
+17	politiky	NNFS2-----A----	Adv
+18	podnikům	NNIP3-----A----	Obj
+19	,	Z:-------------	AuxX
+20	které	P4IP1----------	Sb
+21	se	P7-X4----------	AuxT
+22	účastní	VB-P---3P-AA---	Atr
+23	některých	PZXP2----------	Atr
+24	zahraničních	AAIP2----1A----	Atr
+25	veletrhů	NNIP2-----A----	Obj
+26	.	Z:-------------	AuxK
+
+lnd94105-076-p1s4
+1	Podle	RR--2----------	AuxP
+2	informace	NNFS2-----A----	Adv
+3	z	RR--2----------	AuxP
+4	MPO	NNNXX-----A---8	Atr
+5	musí	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	těchto	PDXP6----------	Atr
+8	případech	NNIP6-----A----	Adv
+9	jít	Vf--------A----	Obj
+10	o	RR--4----------	AuxP
+11	oficiální	AAFS4----1A----	Atr
+12	českou	AAFS4----1A----	Atr
+13	expozici	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd94105-076-p1s5
+1	Ministerstvo	NNNS1-----A----	Sb
+2	někdy	Db-------------	Adv
+3	přispívá	VB-S---3P-AA---	Pred
+4	úhradou	NNFS7-----A----	Adv
+5	poloviny	NNFS2-----A----	Atr
+6	nájemného	NNNS2-----A----	Atr
+7	za	RR--4----------	AuxP
+8	výstavní	AAFS4----1A----	Atr
+9	plochu	NNFS4-----A----	Atr
+10	,	Z:-------------	AuxX
+11	financuje	VB-S---3P-AA---	Pred
+12	propagaci	NNFS4-----A----	Obj
+13	,	Z:-------------	Coord
+14	katalog	NNIS4-----A----	Sb
+15	nebo	J^-------------	Coord
+16	hradí	VB-S---3P-AA---	Pred
+17	zřízení	NNNS4-----A----	Obj
+18	společného	AAIS2----1A----	Atr
+19	stánku	NNIS2-----A----	Atr
+20	se	RV--7----------	AuxP
+21	zázemím	NNNS7-----A----	Atr
+22	pro	RR--4----------	AuxP
+23	všechny	PLYP4----------	Atr
+24	české	AAMP4----1A----	Atr
+25	vystavovatele	NNMP4-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd94105-076-p1s6
+1	Přesto	Dg-------1A----	Adv
+2	byl	VpYS---XR-AA---	Pred
+3	ještě	Db-------------	AuxZ
+4	loni	Db------------1	Adv
+5	zájem	NNIS1-----A----	Sb
+6	českých	AAIP2----1A----	Atr
+7	podniků	NNIP2-----A----	Atr
+8	o	RR--4----------	AuxP
+9	účast	NNFS4-----A----	Atr
+10	na	RR--6----------	AuxP
+11	zahraničních	AAIP6----1A----	Atr
+12	veletrzích	NNIP6-----A----	Atr
+13	a	J^-------------	Coord
+14	výstavách	NNFP6-----A----	Atr
+15	poměrně	Dg-------1A----	Adv
+16	malý	AAIS1----1A----	Pnom
+17	,	Z:-------------	Coord
+18	letos	Db-------------	Adv
+19	se	P7-X4----------	AuxT
+20	situace	NNFS1-----A----	Sb
+21	poněkud	Db-------------	Adv
+22	mění	VB-S---3P-AA---	Pred
+23	.	Z:-------------	AuxK
+
+lnd94105-076-p1s7
+1	Jen	TT-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	SRN	NNFXX-----A---8	Adv
+4	již	Db-------------	AuxZ
+5	letos	Db-------------	Adv
+6	byly	VpTP---XR-AA---	Pred
+7	české	AAFP1----1A----	Atr
+8	expozice	NNFP1-----A----	Sb
+9	s	RR--7----------	AuxP
+10	podporou	NNFS7-----A----	Atr
+11	MPO	NNNXX-----A---8	Atr
+12	na	RR--6----------	AuxP
+13	třech	ClXP6----------	Atr
+14	významných	AAIP6----1A----	Atr
+15	veletrzích	NNIP6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+lnd94105-076-p1s8
+1	Ministerstvo	NNNS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	tyto	PDFP4----------	Atr
+5	akce	NNFP4-----A----	Adv
+6	asi	TT-------------	AuxZ
+7	72	C=-------------	Atr
+8	mil	NNIXX-----A---8	Obj
+9	.	Z:-------------	AuxG
+10	korun	NNFP2-----A----	Atr
+11	ročně	Dg-------1A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd94105-076-p1s9
+1	Největší	AAFS7----3A----	Atr
+2	letošní	AAFS7----1A----	Atr
+3	oficiální	AAFS7----1A----	Atr
+4	českou	AAFS7----1A----	Atr
+5	výstavní	AAFS7----1A----	Atr
+6	akcí	NNFS7-----A----	Pnom
+7	je	VB-S---3P-AA---	Pred
+8	účast	NNFS1-----A----	Sb
+9	padesáti	Cn-P2----------	Atr
+10	českých	AAIP2----1A----	Atr
+11	podniků	NNIP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	bank	NNFP2-----A----	Atr
+14	a	J^-------------	Coord
+15	institucí	NNFP2-----A----	Atr
+16	na	RR--6----------	AuxP
+17	veletrhu	NNIS6-----A----	Atr
+18	CEETEX	NNFXX-----A---8	Atr
+19	(	Z:-------------	Apos
+20	Central	AAXXX----1A---8	Atr
+21	and	J^-------------	Atr
+22	Eastern	AAXXX----1A----	Atr
+23	European	AAXXX----1A----	Atr
+24	Technology	AAXXX----1A----	Atr
+25	and	J^-------------	Atr
+26	Investment	AAXXX----1A----	Atr
+27	Exhibition	NNFXX-----A----	Atr
+28	)	Z:-------------	AuxG
+29	v	RR--6----------	AuxP
+30	Londýně	NNIS6-----A----	Atr
+31	,	Z:-------------	AuxX
+32	který	P4YS1----------	Sb
+33	se	P7-X4----------	AuxR
+34	uskuteční	VB-S---3P-AA---	Atr
+35	9	C=-------------	Atr
+36	.	Z:-------------	AuxG
+37	-	Z:-------------	Coord
+38	12	C=-------------	Atr
+39	.	Z:-------------	AuxG
+40	května	NNIS2-----A----	Adv
+41	.	Z:-------------	AuxK
+
+lnd94105-076-p1s10
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	odborný	AAIS4----1A----	Atr
+4	veletrh	NNIS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	kde	Db-------------	Adv
+7	se	P7-X4----------	Obj
+8	představí	VB-S---3P-AA---	Atr
+9	tisícovka	NNFS1-----A----	Sb
+10	podniků	NNIP2-----A----	Atr
+11	z	RR--2----------	AuxP
+12	26	C=-------------	Atr
+13	zemí	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	především	Db-------------	AuxZ
+16	střední	AAFS2----1A----	Atr
+17	a	J^-------------	Coord
+18	východní	AAFS2----1A----	Atr
+19	Evropy	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd94105-076-p1s11
+1	Více	Dg-------2A----	Sb
+2	než	J,-------------	AuxC
+3	polovina	NNFS1-----A----	Adv
+4	firem	NNFP2-----A----	Atr
+5	pochází	VB-S---3P-AA---	Pred
+6	z	RR--2----------	AuxP
+7	Ruska	NNNS2-----A----	Adv
+8	.	Z:-------------	AuxK
+
+lnd94105-076-p1s12
+1	Ze	RV--2----------	AuxP
+2	Slovenska	NNNS2-----A----	Adv
+3	bude	VB-S---3F-AA---	Pred
+4	v	RR--6----------	AuxP
+5	Londýně	NNIS6-----A----	Adv
+6	27	C=-------------	Sb
+7	podniků	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+lnd94105-076-p1s13
+1	Agentura	NNFS1-----A----	Sb
+2	Pro	RR--X----------	Atr
+3	Market	NNIS1-----A----	Atr
+4	připravila	VpQW---XR-AA---	Pred
+5	kvalitní	AAIS4----1A----	Atr
+6	katalog	NNIS4-----A----	Obj
+7	českých	AAMP2----1A----	Atr
+8	vystavovatelů	NNMP2-----A----	Atr
+9	a	J^-------------	Coord
+10	organizuje	VB-S---3P-AA---	Pred
+11	na	RR--6----------	AuxP
+12	místě	NNNS6-----A----	Adv
+13	tiskovou	AAFS4----1A----	Atr
+14	konferenci	NNFS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd94105-076-p1s14
+1	Mezi	RR--7----------	AuxP
+2	českými	AAMP7----1A----	Atr
+3	vystavovateli	NNMP7-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	dvě	ClHP1----------	Atr
+7	banky	NNFP1-----A----	Sb
+8	-	Z:-------------	Apos
+9	Komerční	AAFS1----1A----	ExD
+10	a	J^-------------	Coord
+11	Ekoagrobanka	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	Pražská	AAFS1----1A----	Atr
+14	burza	NNFS1-----A----	Sb
+15	cenných	AAIP2----1A----	Atr
+16	papírů	NNIP2-----A----	Atr
+17	a	J^-------------	Coord
+18	RM	NNIXX-----A---8	Atr
+19	Systém	NNIS1-----A----	Sb
+20	.	Z:-------------	AuxK
+

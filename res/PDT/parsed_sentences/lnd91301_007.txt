@@ -1,0 +1,104 @@
+lnd91301-007-p1s1
+1	Komu	PKM-3----------	ExD
+2	příspěvek	NNIS4-----A----	ExD
+
+lnd91301-007-p2s1
+1	PRAHA	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91301-007-p3s1
+1	Nárok	NNIS4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	státní	AAIS4----1A----	Atr
+4	vyrovnávací	AAIS4----1A----	Atr
+5	příspěvek	NNIS4-----A----	Atr
+6	mají	VB-P---3P-AA---	Pred
+7	od	RR--2----------	AuxP
+8	1	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	ledna	NNIS2-----A----	Adv
+11	1992	C=-------------	Atr
+12	pouze	Db-------------	AuxZ
+13	příjemci	NNMP1-----A----	Sb
+14	důchodů	NNIP2-----A----	Atr
+15	z	RR--2----------	AuxP
+16	důchodového	AANS2----1A----	Atr
+17	zabezpečení	NNNS2-----A----	Atr
+18	a	J^-------------	Coord
+19	nezaopatřené	AAFP1----1N----	Atr
+20	děti	NNFP1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	a	J^-------------	AuxY
+23	to	PDNS4----------	AuxY
+24	ve	RV--6----------	AuxP
+25	výši	NNFS6-----A----	Atr
+26	220	C=-------------	Atr
+27	korun	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+lnd91301-007-p3s2
+1	Osoby	NNFP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4FP1----------	Sb
+4	pobírají	VB-P---3P-AA---	Atr
+5	rodičovský	AAIS4----1A----	Atr
+6	příspěvek	NNIS4-----A----	Obj
+7	podle	RR--2----------	AuxP
+8	zákona	NNIS2-----A----	Adv
+9	o	RR--6----------	AuxP
+10	rodičovském	AAIS6----1A----	Atr
+11	příspěvku	NNIS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	mají	VB-P---3P-AA---	Pred
+14	nárok	NNIS4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	příspěvek	NNIS4-----A----	Atr
+17	140	C=-------------	Atr
+18	korun	NNFP2-----A----	Atr
+19	měsíčně	Dg-------1A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd91301-007-p3s3
+1	Všichni	PLMP1----------	Sb
+2	však	J^-------------	Coord
+3	musejí	VB-P---3P-AA---	Pred
+4	mít	Vf--------A----	Obj
+5	trvalý	AAIS4----1A----	Atr
+6	pobyt	NNIS4-----A----	Obj
+7	na	RR--6----------	AuxP
+8	území	NNNS6-----A----	Atr
+9	Československa	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd91301-007-p3s4
+1	Současně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxR
+3	ruší	VB-S---3P-AA---	Pred
+4	poskytování	NNNS1-----A----	Sb
+5	státního	AAIS2----1A----	Atr
+6	vyrovnávacího	AAIS2----1A----	Atr
+7	příspěvku	NNIS2-----A----	Atr
+8	ve	RV--6----------	AuxP
+9	výši	NNFS6-----A----	Atr
+10	140	C=-------------	Atr
+11	korun	NNFP2-----A----	Atr
+12	měsíčně	Dg-------1A----	Atr
+13	ostatním	AAFP3----1A----	Atr
+14	osobám	NNFP3-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd91301-007-p3s5
+1	Změna	NNFS1-----A----	Sb
+2	vychází	VB-S---3P-AA---	Pred
+3	ze	RV--2----------	AuxP
+4	schváleného	AAIS2----1A----	Atr
+5	zákona	NNIS2-----A----	Adv
+6	o	RR--6----------	AuxP
+7	státním	AAIS6----1A----	Atr
+8	rozpočtu	NNIS6-----A----	Atr
+9	federace	NNFS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	rok	NNIS4-----A----	Atr
+12	1992	C=-------------	Atr
+13	.	Z:-------------	AuxK
+

@@ -1,0 +1,499 @@
+cmpr9416-043-p2s1
+1	Tradiční	AANS1----1A----	ExD
+2	a	J^-------------	Coord
+3	výnosné	AANS1----1A----	ExD
+
+cmpr9416-043-p3s1
+1	Odvětví	NNNS1-----A----	Sb
+2	skla	NNNS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	keramiky	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	bižuterie	NNFS2-----A----	Atr
+7	láká	VB-S---3P-AA---	Pred
+8	domácí	AAMP4----1A----	Atr
+9	i	J^-------------	Coord
+10	zahraniční	AAMP4----1A----	Atr
+11	investory	NNMP4-----A----	Obj
+
+cmpr9416-043-p4s1
+1	Na	RR--6----------	AuxP
+2	této	PDFS6----------	Atr
+3	stránce	NNFS6-----A----	Adv
+4	vám	PP-P3--2-------	Obj
+5	představujeme	VB-P---1P-AA---	Pred
+6	jednotlivé	AAIP4----1A----	Atr
+7	obory	NNIP4-----A----	Obj
+8	národního	AANS2----1A----	Atr
+9	hospodářství	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	které	P4IP1----------	Sb
+12	vstupují	VB-P---3P-AA---	Atr
+13	do	RR--2----------	AuxP
+14	2	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	vlny	NNFS2-----A----	Adv
+17	kuponové	AAFS2----1A----	Atr
+18	privatizace	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9416-043-p5s1
+1	Výroba	NNFS1-----A----	Sb
+2	skla	NNNS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	keramiky	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	bižuterie	NNFS2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	podílí	VB-S---3P-AA---	Pred
+9	na	RR--6----------	AuxP
+10	průmyslové	AAFS6----1A----	Atr
+11	výrobě	NNFS6-----A----	Obj
+12	ČR	NNFXX-----A---8	Atr
+13	zhruba	Db-------------	AuxZ
+14	2.5	C=-------------	Adv
+15	procenty	NNNP7-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9416-043-p5s2
+1	Výhodou	NNFS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	domácí	AAFS1----1A----	Atr
+4	základní	AAFS1----1A----	Atr
+5	surovina	NNFS1-----A----	Sb
+6	a	J^-------------	Coord
+7	bohaté	AAFP1----1A----	Atr
+8	výrobní	AAFP1----1A----	Atr
+9	zkušenosti	NNFP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+cmpr9416-043-p6s1
+1	Výhodná	AAFS1----1A----	Atr
+2	startovní	AAFS1----1A----	Atr
+3	pozice	NNFS1-----A----	ExD
+
+cmpr9416-043-p7s1
+1	K	RR--3----------	AuxP
+2	základním	AAIP3----1A----	Atr
+3	oborům	NNIP3-----A----	Obj
+4	patří	VB-S---3P-AA---	Pred
+5	výroba	NNFS1-----A----	Sb
+6	užitkového	AANS2----1A----	Atr
+7	skla	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	představuje	VB-S---3P-AA---	Atr
+11	čtvrtinu	CyFS4----------	Obj
+12	celkového	AANS2----1A----	Atr
+13	odvětví	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9416-043-p7s2
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	strojně	Dg-------1A----	Adv
+4	zpracované	AANS4----1A----	Atr
+5	užitkové	AANS4----1A----	Atr
+6	sklo	NNNS4-----A----	Obj
+7	a	J^-------------	Coord
+8	luxusní	AAIP4----1A----	Atr
+9	výrobky	NNIP4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	uměleckém	AANS6----1A----	Atr
+12	provedení	NNNS6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9416-043-p7s3
+1	K	RR--3----------	AuxP
+2	dalším	AAIP3----1A----	Atr
+3	oborům	NNIP3-----A----	Obj
+4	patří	VB-S---3P-AA---	Pred
+5	výroba	NNFS1-----A----	Sb
+6	osvětlovacího	AANS2----1A----	Atr
+7	skla	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	plochého	AANS2----1A----	Atr
+10	skla	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	obalového	AANS2----1A----	Atr
+13	a	J^-------------	Coord
+14	konzervárenského	AANS2----1A----	Atr
+15	skla	NNNS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	skleněných	AANP2----1A----	Atr
+18	vláken	NNNP2-----A----	Atr
+19	pro	RR--4----------	AuxP
+20	textilní	AANS4----1A----	Atr
+21	a	J^-------------	Coord
+22	elektroizolační	AANS4----1A----	Atr
+23	použití	NNNS4-----A----	Atr
+24	a	J^-------------	Coord
+25	technického	AANS2----1A----	Atr
+26	skla	NNNS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+cmpr9416-043-p7s4
+1	Dalším	AAIS7----1A----	Atr
+2	tradičním	AAIS7----1A----	Atr
+3	oborem	NNIS7-----A----	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	výroba	NNFS1-----A----	Sb
+6	užitkového	AAIS2----1A----	Atr
+7	a	J^-------------	Coord
+8	ozdobného	AAIS2----1A----	Atr
+9	porcelánu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9416-043-p7s5
+1	Jedním	ClZS7----------	Pnom
+2	ze	RV--2----------	AuxP
+3	základních	AAIP2----1A----	Atr
+4	oborů	NNIP2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	bižuterní	AAFS1----1A----	Atr
+7	výroba	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+cmpr9416-043-p8s1
+1	Ve	RV--6----------	AuxP
+2	srovnání	NNNS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	většinou	NNFS7-----A----	Adv
+5	ostatních	AANP2----1A----	Atr
+6	odvětví	NNNP2-----A----	Atr
+7	byl	VpYS---XR-AA---	AuxV
+8	sklářský	AAIS1----1A----	Atr
+9	,	Z:-------------	AuxX
+10	keramický	AAIS1----1A----	Atr
+11	a	J^-------------	Coord
+12	bižuterní	AAIS1----1A----	Atr
+13	průmysl	NNIS1-----A----	Sb
+14	v	RR--6----------	AuxP
+15	mnohem	Db-------------	Adv
+16	menší	AAFS6----2A----	Atr
+17	míře	NNFS6-----A----	Adv
+18	negativně	Dg-------1A----	Adv
+19	ovlivněn	VsYS---XX-AP---	Pred
+20	ekonomickou	AAFS7----1A----	Atr
+21	transformací	NNFS7-----A----	Obj
+22	a	J^-------------	Coord
+23	vnějšími	AAIP7----1A----	Atr
+24	vlivy	NNIP7-----A----	Obj
+25	.	Z:-------------	AuxK
+
+cmpr9416-043-p8s2
+1	Celková	AAFS1----1A----	Atr
+2	zadluženost	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	výrazně	Dg-------1A----	Adv
+5	nižší	AAFS1----2A----	Pnom
+6	než	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	ostatním	AAIS6----1A----	Atr
+9	průmyslu	NNIS6-----A----	ExD
+10	.	Z:-------------	AuxK
+
+cmpr9416-043-p8s3
+1	Dalším	AAIS7----1A----	Atr
+2	pozitivním	AAIS7----1A----	Atr
+3	rysem	NNIS7-----A----	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	nadprůměrná	AAFS1----1A----	Atr
+6	rentabilita	NNFS1-----A----	Sb
+7	i	J^-------------	Coord
+8	stále	Dg-------1A----	Adv
+9	rostoucí	AGFS1-----A----	Atr
+10	exportní	AAFS1----1A----	Atr
+11	schopnost	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	je	VB-S---3P-AA---	Atr
+15	nyní	Db-------------	Adv
+16	zhruba	Db-------------	Adv
+17	dvojnásobná	AAFS1----1A----	Pnom
+18	oproti	RR--3----------	AuxP
+19	průměru	NNIS3-----A----	Adv
+20	v	RR--6----------	AuxP
+21	ČR	NNFXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9416-043-p8s4
+1	Některé	PZFP1----------	Atr
+2	firmy	NNFP1-----A----	Sb
+3	tohoto	PDZS2----------	Atr
+4	oboru	NNIS2-----A----	Atr
+5	vyvážejí	VB-P---3P-AA---	Pred
+6	až	TT-------------	AuxZ
+7	80	C=-------------	Obj
+8	%	Z:-------------	Atr
+9	své	P8FS2---------1	Atr
+10	produkce	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9416-043-p8s5
+1	Export	NNIS1-----A----	Sb
+2	při	RR--6----------	AuxP
+3	stabilitě	NNFS6-----A----	AtrAdv
+4	kurzu	NNIS2-----A----	Atr
+5	koruny	NNFS2-----A----	Atr
+6	však	J^-------------	Coord
+7	působí	VB-S---3P-AA---	Pred
+8	negativně	Dg-------1A----	Adv
+9	na	RR--4----------	AuxP
+10	rentabilitu	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	protože	J,-------------	AuxC
+13	růst	NNIS1-----A----	Sb
+14	cen	NNFP2-----A----	Atr
+15	tuzemských	AAIP2----1A----	Atr
+16	výrobních	AAIP2----1A----	Atr
+17	vstupů	NNIP2-----A----	Atr
+18	je	VB-S---3P-AA---	Adv
+19	rychlejší	AAIS1----2A----	Pnom
+20	než	J,-------------	AuxC
+21	případný	AAIS1----1A----	Atr
+22	vzestup	NNIS1-----A----	ExD
+23	exportních	AAFP2----1A----	Atr
+24	cen	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9416-043-p9s1
+1	Velká	AAFS1----1A----	Atr
+2	poptávka	NNFS1-----A----	ExD
+
+cmpr9416-043-p10s1
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	je	VB-S---3P-AA---	AuxV
+5	ekonomika	NNFS1-----A----	Sb
+6	většiny	NNFS2-----A----	Atr
+7	podniků	NNIP2-----A----	Atr
+8	odvětví	NNNS2-----A----	Atr
+9	stabilizována	VsQW---XX-AP---	Pred
+10	zejména	Db-------------	AuxZ
+11	ve	RV--6----------	AuxP
+12	výrobě	NNFS6-----A----	Adv
+13	a	J^-------------	Coord
+14	odbytu	NNIS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	klesá	VB-S---3P-AA---	Pred
+17	i	J^-------------	AuxZ
+18	platební	AAFS1----1A----	Atr
+19	neschopnost	NNFS1-----A----	Sb
+20	a	J^-------------	Coord
+21	roste	VB-S---3P-AA---	Pred
+22	produktivita	NNFS1-----A----	Sb
+23	práce	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9416-043-p10s2
+1	Do	RR--2----------	AuxP
+2	odvětví	NNNS2-----A----	Adv
+3	vstoupili	VpMP---XR-AA---	Pred
+4	zástupci	NNMP1-----A----	Sb
+5	zahraničních	AAMP2----1A----	Atr
+6	výrobců	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kteří	P4MP1----------	Sb
+9	finančně	Dg-------1A----	Adv
+10	a	J^-------------	Coord
+11	technologicky	Dg-------1A----	Adv
+12	výrazně	Dg-------1A----	Adv
+13	posílili	VpMP---XR-AA---	Atr
+14	postavení	NNNS4-----A----	Obj
+15	českých	AAFP2----1A----	Atr
+16	společností	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9416-043-p10s3
+1	Privatizaci	NNFS4-----A----	Obj
+2	odvětví	NNNS2-----A----	Atr
+3	charakterizuje	VB-S---3P-AA---	Pred
+4	také	Db-------------	Adv
+5	mnoho	Ca--1----------	Sb
+6	přímých	AAIP2----1A----	Atr
+7	prodejů	NNIP2-----A----	Atr
+8	tuzemcům	NNMP3-----A----	Atr
+9	a	J^-------------	Coord
+10	restitucí	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9416-043-p11s1
+1	Do	RR--2----------	AuxP
+2	první	CrFS2----------	Atr
+3	vlny	NNFS2-----A----	Adv
+4	kuponové	AAFS2----1A----	Atr
+5	privatizace	NNFS2-----A----	Atr
+6	byl	VpYS---XR-AA---	AuxV
+7	zařazen	VsYS---XX-AP---	Pred
+8	majetek	NNIS1-----A----	Sb
+9	v	RR--6----------	AuxP
+10	celkové	AAFS6----1A----	Atr
+11	hodnotě	NNFS6-----A----	Atr
+12	cca	Db-------------	AuxZ
+13	6.5	C=-------------	Atr
+14	miliardy	NNFS2-----A----	Atr
+15	Kč	NNFXX-----A----	Atr
+16	a	J^-------------	Coord
+17	do	RR--2----------	AuxP
+18	druhé	CrFS2----------	Atr
+19	vlny	NNFS2-----A----	ExD
+20	za	RR--4----------	AuxP
+21	necelé	AAFP4----1N----	Atr
+22	3	C=-------------	Atr
+23	miliardy	NNFP4-----A----	ExD
+24	,	Z:-------------	Coord
+25	což	PE--1----------	Sb
+26	představuje	VB-S---3P-AA---	Pred
+27	zhruba	Db-------------	AuxZ
+28	dvě	ClHP4----------	Atr
+29	procenta	NNNP4-----A----	Obj
+30	z	RR--2----------	AuxP
+31	celkové	AAFS2----1A----	Atr
+32	nabídky	NNFS2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+cmpr9416-043-p11s2
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	části	NNFP4-----A----	Obj
+4	Karlovarského	AAIS2----1A----	Atr
+5	porcelánu	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	Sklo	NNNS4-----A----	Obj
+8	Bohemia	NNFXX-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Crystalex	NNIS4-----A----	Obj
+11	a	J^-------------	Coord
+12	některé	PZFP4----------	Atr
+13	akcie	NNFP4-----A----	Obj
+14	z	RR--2----------	AuxP
+15	první	CrFS2----------	Atr
+16	vlny	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	například	Db-------------	Apos
+19	Sklo	NNNS1-----A----	Atr
+20	Unionu	NNIS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	Vertexu	NNIS2-----A----	Atr
+23	a	J^-------------	Coord
+24	dalších	AAIP2----1A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9416-043-p12s1
+1	Perspektivnost	NNFS1-----A----	Sb
+2	a	J^-------------	Coord
+3	rentabilita	NNFS1-----A----	Sb
+4	odvětví	NNNS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	projevila	VpQW---XR-AA---	Pred
+7	ve	RV--6----------	AuxP
+8	vysoké	AAFS6----1A----	Atr
+9	poptávce	NNFS6-----A----	Adv
+10	a	J^-------------	Coord
+11	tržní	AAFS6----1A----	Atr
+12	ceně	NNFS6-----A----	Adv
+13	akcií	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9416-043-p12s2
+1	Po	RR--6----------	AuxP
+2	počátečním	AAIS6----1A----	Atr
+3	poklesu	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	dostavil	VpYS---XR-AA---	Pred
+6	stálý	AAIS1----1A----	Atr
+7	vzestup	NNIS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	je	VB-S---3P-AA---	Atr
+11	proti	RR--3----------	AuxP
+12	celkovému	AAIS3----1A----	Atr
+13	průměru	NNIS3-----A----	Adv
+14	výrazně	Dg-------1A----	Adv
+15	strmější	AAIS1----2A----	Pnom
+16	.	Z:-------------	AuxK
+
+cmpr9416-043-p12s3
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	dá	VB-S---3P-AA---	Pred
+6	předpokládat	Vf--------A----	Obj
+7	relativní	AAFS1----1A----	Atr
+8	stabilizace	NNFS1-----A----	Sb
+9	a	J^-------------	Coord
+10	z	RR--2----------	AuxP
+11	dlouhodobějšího	AANS2----2A----	Atr
+12	hlediska	NNNS2-----A----	ExD
+13	mírný	AAIS1----1A----	Atr
+14	vzestup	NNIS1-----A----	ExD
+15	při	RR--6----------	AuxP
+16	relativně	Dg-------1A----	Adv
+17	vysokém	AAIS6----1A----	Atr
+18	cenovém	AAIS6----1A----	Atr
+19	rozptylu	NNIS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9416-043-p12s4
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	dáno	VsNS---XX-AP---	Pnom
+4	rozdílnou	AAFS7----1A----	Atr
+5	ekonomickou	AAFS7----1A----	Atr
+6	situací	NNFS7-----A----	Adv
+7	jednotlivých	AAIP2----1A----	Atr
+8	podniků	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	zájmem	NNIS7-----A----	Adv
+11	zahraničních	AAMP2----1A----	Atr
+12	investorů	NNMP2-----A----	Atr
+13	a	J^-------------	Coord
+14	schopností	NNFS7-----A----	Adv
+15	vyplácet	Vf--------A----	Atr
+16	dividendy	NNFP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9416-043-p13s1
+1	Přemysl	NNMS1-----A----	Atr
+2	Skočdopol	NNMS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	Tomáš	NNMS1-----A----	Atr
+5	Fuks	NNMS1-----A----	ExD
+
+cmpr9416-043-p14s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Spořitelní	AAFS1----1A----	Atr
+4	investiční	AAFS1----1A----	Atr
+5	společnost	NNFS1-----A----	ExD
+6	,	Z:-------------	AuxX
+7	Řásnovka	NNFS1-----A----	Atr
+8	12	C=-------------	Atr
+9	,	Z:-------------	AuxX
+10	110	C=-------------	Atr
+11	15	C=-------------	Atr
+12	Praha	NNFS1-----A----	Atr
+13	1	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	tel	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	:	Z:-------------	AuxG
+18	(	Z:-------------	AuxG
+19	02	C=-------------	Atr
+20	)	Z:-------------	AuxG
+21	248103	C=-------------	Atr
+22	31	C=-------------	Atr
+23	,	Z:-------------	Coord
+24	FAX	NNIS1-----A----	Atr
+25	:	Z:-------------	AuxG
+26	(	Z:-------------	AuxG
+27	02	C=-------------	Atr
+28	)	Z:-------------	AuxG
+29	231	C=-------------	Atr
+30	78	C=-------------	Atr
+31	16	C=-------------	Atr
+32	.	Z:-------------	AuxK
+

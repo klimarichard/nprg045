@@ -1,0 +1,207 @@
+lnd91301-057-p2s1B
+1	V	RR--6----------	AuxP
+2	Tbilisi	NNNXX-----A----	Adv
+3	hoří	VB-P---3P-AA---	Pred
+4	budovy	NNFP1-----A----	Sb
+
+lnd91301-057-p3s1B
+1	TBILISI	NNNXX-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91301-057-p4s1B
+1	Nové	AAIP1----1A----	Atr
+2	boje	NNIP1-----A----	Sb
+3	vypukly	VpTP---XR-AA--1	Pred
+4	v	RR--6----------	AuxP
+5	noci	NNFS6-----A----	Adv
+6	na	RR--4----------	AuxP
+7	pátek	NNIS4-----A----	Atr
+8	v	RR--6----------	AuxP
+9	okolí	NNNS6-----A----	Adv
+10	parlamentu	NNIS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Tbilisi	NNNXX-----A----	AtrAdv
+13	,	Z:-------------	AuxX
+14	kde	Db-------------	Adv
+15	se	P7-X4----------	Obj
+16	v	RR--6----------	AuxP
+17	podzemním	AAIS6----1A----	Atr
+18	bunkru	NNIS6-----A----	Adv
+19	skrývá	VB-S---3P-AA---	Atr
+20	gruzínský	AAMS1----1A----	Atr
+21	prezident	NNMS1-----A----	Atr
+22	Zviad	NNMS1-----A----	Atr
+23	Gamsachurdia	NNMS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+lnd91301-057-p4s2B
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	zpravodaj	NNMS1-----A----	Sb
+4	agentury	NNFS2-----A----	Atr
+5	AFP	NNFXX-----A---8	Atr
+6	z	RR--2----------	AuxP
+7	gruzínského	AANS2----1A----	Atr
+8	hlavního	AANS2----1A----	Atr
+9	města	NNNS2-----A----	AtrAdv
+10	.	Z:-------------	AuxK
+
+lnd91301-057-p5s1B
+1	Obnovení	NNNS1-----A----	Sb
+2	bojů	NNIP2-----A----	Atr
+3	znamená	VB-S---3P-AA---	Pred
+4	konec	NNIS4-----A----	Obj
+5	příměří	NNNS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	které	P4NS4----------	Obj
+8	ve	RV--4----------	AuxP
+9	čtvrtek	NNIS4-----A----	Adv
+10	uzavřeli	VpMP---XR-AA---	Atr
+11	prezidentovi	AUMP1M---------	Atr
+12	stoupenci	NNMP1-----A----	Sb
+13	a	J^-------------	Coord
+14	jeho	PSXXXZS3-------	Atr
+15	odpůrci	NNMP1-----A----	Sb
+16	usilující	AGMP1-----A----	Atr
+17	o	RR--4----------	AuxP
+18	prezidentovu	AUFS4M---------	Atr
+19	demisi	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+lnd91301-057-p5s2B
+1	Kolem	RR--2----------	AuxP
+2	parlamentu	NNIS2-----A----	Adv
+3	opět	Db-------------	Adv
+4	hřměla	VpQW---XR-AA---	Pred
+5	dělostřelecká	AAFS1----1A----	Atr
+6	palba	NNFS1-----A----	Sb
+7	a	J^-------------	Coord
+8	přinejmenším	Db-------------	Adv
+9	část	NNFS1-----A----	Sb
+10	gruzínské	AAFS2----1A----	Atr
+11	metropole	NNFS2-----A----	Atr
+12	čítající	AGFS2-----A----	AtrAtr
+13	1.2	C=-------------	Obj
+14	miliónu	NNIS2-----A----	Atr
+15	obyvatel	NNMS1-----A----	Atr
+16	se	P7-X4----------	AuxR
+17	ponořila	VpQW---XR-AA---	Pred
+18	do	RR--2----------	AuxP
+19	tmy	NNFS2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+lnd91301-057-p5s3B
+1	I	J^-------------	AuxZ
+2	během	RR--2----------	AuxP
+3	včerejšího	AAIS2----1A----	Atr
+4	dne	NNIS2-----A----	Adv
+5	se	P7-X4----------	AuxR
+6	v	RR--6----------	AuxP
+7	Tbilisi	NNNXX-----A----	Adv
+8	střílelo	VpNS---XR-AA---	Pred
+9	.	Z:-------------	AuxK
+
+lnd91301-057-p5s4
+1	Četné	AAFP1----1A----	Atr
+2	budovy	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	ocitly	VpTP---XR-AA--1	Pred
+5	v	RR--6----------	AuxP
+6	plamenech	NNIP6-----A----	Adv
+7	.	Z:-------------	AuxK
+
+lnd91301-057-p5s5
+1	Ozbrojené	AAIP1----1A----	Atr
+2	střety	NNIP1-----A----	Sb
+3	si	P7-X3----------	Adv
+4	vyžádaly	VpTP---XR-AA---	Pred
+5	nejméně	Dg-------3A----	Adv
+6	42	C=-------------	Obj
+7	mrtvých	AAMP2----1A----	Atr
+8	a	J^-------------	Coord
+9	desítky	NNFP4-----A----	Obj
+10	zraněných	AAMP2----1A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd91301-057-p6s1B
+1	Příslušníci	NNMP1-----A----	Sb
+2	opoziční	AAFS2----1A----	Atr
+3	Národní	AAFS2----1A----	Atr
+4	gardy	NNFS2-----A----	Atr
+5	obsadili	VpMP---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	noci	NNFS6-----A----	Adv
+8	ze	RV--2----------	AuxP
+9	čtvrtka	NNIS2-----A---1	AtrAdv
+10	na	RR--4----------	AuxP
+11	pátek	NNIS4-----A----	AtrAdv
+12	sídlo	NNNS4-----A----	Obj
+13	gruzínské	AAFS2----1A----	Atr
+14	tajné	AAFS2----1A----	Atr
+15	policie	NNFS2-----A----	Atr
+16	KGB	NNFXX-----A---8	Atr
+17	.	Z:-------------	AuxK
+
+lnd91301-057-p6s2B
+1	Při	RR--6----------	AuxP
+2	akci	NNFS6-----A----	Adv
+3	bylo	VpNS---XR-AA---	AuxV
+4	osvobozeno	VsNS---XX-AP---	Pred
+5	několik	Ca--1----------	Sb
+6	politických	AAMP2----1A----	Atr
+7	vězňů	NNMP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	mezi	RR--7----------	AuxP
+10	nimi	P5XP7--3-------	Atr
+11	i	J^-------------	AuxZ
+12	jeden	ClYS1----------	Atr
+13	z	RR--2----------	AuxP
+14	hlavních	AAMP2----1A----	Atr
+15	předáků	NNMP2-----A----	Atr
+16	opozice	NNFS2-----A----	Atr
+17	Georgij	NNMS1-----A----	Atr
+18	Čanturija	NNMS1-----A----	ExD
+19	,	Z:-------------	AuxX
+20	který	P4YS1----------	Sb
+21	byl	VpYS---XR-AA---	AuxV
+22	zatčen	VsYS---XX-AP---	Atr
+23	na	RR--4----------	AuxP
+24	pokyn	NNIS4-----A----	Adv
+25	prezidenta	NNMS2-----A----	Atr
+26	Zviada	NNMS1-----A----	Atr
+27	Gamsachurdii	NNMS2-----A----	Atr
+28	letos	Db-------------	Adv
+29	v	RR--6----------	AuxP
+30	říjnu	NNIS6-----A----	Adv
+31	.	Z:-------------	AuxK
+
+lnd91301-057-p7s1B
+1	52	C=-------------	Adv
+2	letý	AAMS1----1A----	Atr
+3	gruzínský	AAMS1----1A----	Atr
+4	prezident	NNMS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	zvolený	AAMS1----1A----	Atr
+7	letos	Db-------------	Adv
+8	v	RR--6----------	AuxP
+9	květnu	NNIS6-----A----	Adv
+10	ve	RV--6----------	AuxP
+11	všelidových	AAFP6----1A----	Atr
+12	volbách	NNFP6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	odmítá	VB-S---3P-AA---	Pred
+15	požadavky	NNIP4-----A----	Obj
+16	opozice	NNFS2-----A----	Atr
+17	na	RR--4----------	AuxP
+18	svou	P8FS4---------1	Atr
+19	demisi	NNFS4-----A----	Atr
+20	a	J^-------------	Coord
+21	své	P8YP4---------1	Atr
+22	oponenty	NNMP4-----A----	Obj
+23	označuje	VB-S---3P-AA---	Pred
+24	za	RR--4----------	AuxP
+25	"	Z:-------------	AuxG
+26	zločince	NNMP4-----A----	Obj
+27	"	Z:-------------	AuxG
+28	.	Z:-------------	AuxK
+

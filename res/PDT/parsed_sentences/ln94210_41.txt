@@ -1,0 +1,129 @@
+ln94210-41-p1s1
+1	Rybám	NNFP3-----A----	Adv
+2	ve	RV--6----------	AuxP
+3	Svatavě	NNFS6-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	asi	TT-------------	AuxY
+6	ucpaly	VpTP---XR-AA---	Pred
+7	žábry	NNFP1-----A----	Sb
+
+ln94210-41-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94210-41-p2s1B
+1	Množství	NNNS1-----A----	Sb
+2	ryb	NNFP2-----A----	Atr
+3	uhynulo	VpNS---XR-AA---	Pred
+4	v	RR--4----------	AuxP
+5	tyto	PDIP4----------	Atr
+6	dny	NNIP4-----A----	Adv
+7	u	RR--2----------	AuxP
+8	Kraslic	NNFP2-----A----	Adv
+9	na	RR--6----------	AuxP
+10	Sokolovsku	NNNS6-----A----	Atr
+11	v	RR--6----------	AuxP
+12	řece	NNFS6-----A----	Adv
+13	Svatavě	NNFS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	která	P4FS1----------	Sb
+16	do	RR--2----------	AuxP
+17	České	AAFS2----1A----	Atr
+18	republiky	NNFS2-----A----	Adv
+19	přitéká	VB-S---3P-AA---	Atr
+20	ze	RV--2----------	AuxP
+21	Spolkové	AAFS2----1A----	Atr
+22	republiky	NNFS2-----A----	Adv
+23	Německo	NNNS1-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94210-41-p2s2
+1	Hlavní	AAFS1----1A----	Atr
+2	správa	NNFS1-----A----	Sb
+3	Sboru	NNIS2-----A----	Atr
+4	požární	AAFS2----1A----	Atr
+5	ochrany	NNFS2-----A----	Atr
+6	ministerstva	NNNS2-----A----	Atr
+7	vnitra	NNNS2-----A----	Atr
+8	při	RR--6----------	AuxP
+9	vyšetřování	NNNS6-----A----	Adv
+10	zjistila	VpQW---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	nejmenovaná	AAFS1----1N----	Atr
+14	německá	AAFS1----1A----	Atr
+15	firma	NNFS1-----A----	Sb
+16	provádí	VB-S---3P-AA---	Obj
+17	na	RR--6----------	AuxP
+18	území	NNNS6-----A----	Adv
+19	SRN	NNFXX-----A---8	Atr
+20	pod	RR--7----------	AuxP
+21	silnicí	NNFS7-----A----	Adv
+22	průraz	NNIS4-----A----	Obj
+23	pomocí	RR--2----------	AuxP
+24	vody	NNFS2-----A----	Adv
+25	,	Z:-------------	Coord
+26	čímž	PE--7----------	Adv
+27	se	P7-X4----------	AuxT
+28	do	RR--2----------	AuxP
+29	řeky	NNFS2-----A----	Adv
+30	dostaly	VpTP---XR-AA---	Obj
+31	nečistoty	NNFP1-----A----	Sb
+32	.	Z:-------------	AuxK
+
+ln94210-41-p2s3
+1	Odborníci	NNMP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	Povodí	NNNS2-----A----	Atr
+4	Ohře	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	hygienici	NNMP1-----A----	Sb
+7	nyní	Db-------------	Adv
+8	odebírají	VB-P---3P-AA---	Pred
+9	další	AAIP4----1A----	Atr
+10	vzorky	NNIP4-----A----	Obj
+11	a	J^-------------	Coord
+12	zjišťují	VB-P---3P-AA---	Pred
+13	rozsah	NNIS4-----A----	Obj
+14	škod	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94210-41-p2s4
+1	Domnívají	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	úhyn	NNIS4-----A----	Obj
+6	ryb	NNFP2-----A----	Atr
+7	nezpůsobily	VpTP---XR-NA---	Obj
+8	toxické	AAFP1----1A----	Atr
+9	látky	NNFP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	že	J,-------------	AuxC
+13	příčinou	NNFS7-----A----	Pnom
+14	jejich	PSXXXXP3-------	Atr
+15	smrti	NNFS2-----A----	Atr
+16	bylo	VpNS---XR-AA---	Obj
+17	pravděpodobně	Dg-------1A----	AuxY
+18	ucpání	NNNS1-----A----	Sb
+19	žaber	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94210-41-p2s5
+1	Hasiči	NNMP1-----A----	Sb
+2	odebrali	VpMP---XR-AA---	Pred
+3	vzorky	NNIP4-----A----	Obj
+4	vody	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	prověřili	VpMP---XR-AA---	Pred
+7	všechny	PLYP4----------	Atr
+8	přítoky	NNIP4-----A----	Obj
+9	řeky	NNFS2-----A----	Atr
+10	Svatavy	NNFS2-----A----	Atr
+11	i	J^-------------	AuxZ
+12	na	RR--6----------	AuxP
+13	německém	AANS6----1A----	Atr
+14	území	NNNS6-----A----	Adv
+15	.	Z:-------------	AuxK
+

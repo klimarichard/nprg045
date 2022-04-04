@@ -1,0 +1,317 @@
+ln94204-71-p1s1
+1	Pátrání	NNNS1-----A----	Sb
+2	po	RR--6----------	AuxP
+3	pachatelích	NNMP6-----A----	Atr
+4	vražedného	AAIS2----1A----	Atr
+5	útoku	NNIS2-----A----	Atr
+6	prošetřuje	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	zda	J,-------------	AuxC
+9	taxikář	NNMS1-----A----	Sb
+10	není	VB-S---3P-NA---	Obj
+11	ve	RV--6----------	AuxP
+12	spojení	NNNS6-----A----	AuxP
+13	s	RR--7----------	AuxP
+14	podezřelými	AAMP7----1A----	Adv
+
+ln94204-71-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	luč	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-71-p2s1B
+1	Brněnští	AAMP1----1A----	Atr
+2	kriminalisté	NNMP1-----A----	Sb
+3	pátrají	VB-P---3P-AA---	Pred
+4	po	RR--6----------	AuxP
+5	dvou	ClXP6----------	Atr
+6	mladých	AAMP6----1A----	Atr
+7	mužích	NNMP6-----A----	Obj
+8	důvodně	Dg-------1A----	Adv
+9	podezřelých	AAMP6----1A----	Atr
+10	z	RR--2----------	AuxP
+11	útoku	NNIS2-----A----	Adv
+12	na	RR--4----------	AuxP
+13	německého	AAMS4----1A----	Atr
+14	státního	AAMS4----1A----	Atr
+15	občana	NNMS4-----A----	Atr
+16	Matthiase	NNMS4-----A----	Atr
+17	Wernera	NNMS4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-71-p2s2
+1	Osmatřicetiletý	AAMS1----1A----	Atr
+2	M	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Werner	NNMS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	utrpěl	VpYS---XR-AA---	Atr
+8	těžké	AANS4----1A----	Atr
+9	poranění	NNNS4-----A----	Obj
+10	mozku	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	leží	VB-S---3P-AA---	Pred
+13	v	RR--6----------	AuxP
+14	kritickém	AAIS6----1A----	Atr
+15	stavu	NNIS6-----A----	Adv
+16	na	RR--6----------	AuxP
+17	neurochirurgickém	AANS6----1A----	Atr
+18	oddělení	NNNS6-----A----	Adv
+19	nemocnice	NNFS2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	Brně	NNNS6-----A----	Atr
+22	-	Z:-------------	AuxG
+23	Bohunicích	NNFP6-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94204-71-p3s1
+1	K	RR--3----------	AuxP
+2	incidentu	NNIS3-----A----	Obj
+3	došlo	VpNS---XR-AA---	Pred
+4	21	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	srpna	NNIS2-----A----	Adv
+7	ráno	Db-------------	Adv
+8	na	RR--6----------	AuxP
+9	Konečného	NNMS2-----A----	Atr
+10	náměstí	NNNS6-----A----	Adv
+11	v	RR--6----------	AuxP
+12	Brně	NNNS6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-71-p3s2
+1	Němec	NNMS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	jedoucí	AGMS1-----A----	Atr
+4	s	RR--7----------	AuxP
+5	přítelem	NNMS7-----A----	Adv
+6	v	RR--6----------	AuxP
+7	černém	AAIS6----1A----	Atr
+8	mercedesu	NNIS6-----A---1	Adv
+9	,	Z:-------------	AuxX
+10	nedal	VpYS---XR-NA---	Pred
+11	přednost	NNFS4-----A----	Obj
+12	v	RR--6----------	AuxP
+13	jízdě	NNFS6-----A----	Atr
+14	a	J^-------------	Coord
+15	narazil	VpYS---XR-AA---	Pred
+16	do	RR--2----------	AuxP
+17	vozu	NNIS2-----A----	Adv
+18	taxislužby	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94204-71-p3s3
+1	Po	RR--6----------	AuxP
+2	chvíli	NNFS6-----A----	Adv
+3	na	RR--4----------	AuxP
+4	místo	NNNS4-----A----	Adv
+5	přijeli	VpMP---XR-AA---	Pred
+6	jiným	AAIS7----1A----	Atr
+7	automobilem	NNIS7-----A----	Adv
+8	dva	ClYP1----------	Atr
+9	muži	NNMP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	M	NNMXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	Wernera	NNMS4-----A----	Obj
+15	ztloukli	VpMP---XR-AA---	Atr
+16	baseballovou	AAFS7----1A----	Atr
+17	pálkou	NNFS7-----A----	Adv
+18	do	RR--2----------	AuxP
+19	hlavy	NNFS2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94204-71-p3s4
+1	Jak	J,-------------	Adv
+2	řekl	VpYS---XR-AA---	Pred
+3	tiskový	AAMS1----1A----	Atr
+4	mluvčí	NNMS1-----A----	Atr
+5	brněnské	AAFS2----1A----	Atr
+6	policie	NNFS2-----A----	Atr
+7	Z	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Lubas	NNMS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	policie	NNFS1-----A----	Sb
+12	mj	Db------------8	Adv
+13	.	Z:-------------	AuxG
+14	zjišťuje	VB-S---3P-AA---	Pred
+15	,	Z:-------------	AuxX
+16	zda	J,-------------	AuxC
+17	mezi	RR--7----------	AuxP
+18	taxikářem	NNMS7-----A----	Adv
+19	a	J^-------------	Coord
+20	násilníky	NNMP7-----A----	Adv
+21	existuje	VB-S---3P-AA---	Obj
+22	nějaký	PZYS1----------	Atr
+23	bližší	AAIS1----2A----	Atr
+24	vztah	NNIS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln94204-71-p3s5
+1	Němec	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	v	RR--6----------	AuxP
+4	bezvědomí	NNNS6-----A----	Adv
+5	převezen	VsYS---XX-AP---	Pred
+6	do	RR--2----------	AuxP
+7	nemocnice	NNFS2-----A----	Adv
+8	,	Z:-------------	Coord
+9	jeho	PSXXXZS3-------	Atr
+10	přítel	NNMS1-----A----	Sb
+11	vyvázl	VpYS---XR-AA--1	Pred
+12	bez	RR--2----------	AuxP
+13	zranění	NNNS2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94204-71-p3s6
+1	Z	RR--2----------	AuxP
+2	mercedesu	NNIS2-----A----	Adv
+3	zmizel	VpYS---XR-AA---	Pred
+4	větší	AAIS1----2A----	Atr
+5	obnos	NNIS1-----A----	Sb
+6	marek	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94204-71-p4s1
+1	Z	RR--2----------	AuxP
+2	násilného	AAIS2----1A----	Atr
+3	trestného	AAIS2----1A----	Atr
+4	činu	NNIS2-----A----	Adv
+5	jsou	VB-P---3P-AA---	Pred
+6	důvodně	Dg-------1A----	Adv
+7	podezřelí	AAMP1----1A----	Pnom
+8	dva	ClYP1----------	Atr
+9	soukromí	AAMP1----1A----	Atr
+10	podnikatelé	NNMP1-----A----	Sb
+11	z	RR--2----------	AuxP
+12	Brna	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-71-p4s2
+1	Dvaadvacetiletý	AAMS1----1A----	Atr
+2	Richard	NNMS1-----A----	Atr
+3	Beránek	NNMS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	byl	VpYS---XR-AA---	AuxV
+7	v	RR--6----------	AuxP
+8	minulosti	NNFS6-----A----	Adv
+9	několikrát	Co-------------	Adv
+10	trestán	VsYS---XX-AP---	Atr
+11	pro	RR--4----------	AuxP
+12	násilnou	AAFS4----1A----	Atr
+13	trestnou	AAFS4----1A----	Atr
+14	činnost	NNFS4-----A----	Adv
+15	,	Z:-------------	AuxX
+16	je	VB-S---3P-AA---	Pred
+17	170	C=-------------	Adv
+18	-	Z:-------------	Coord
+19	175	C=-------------	Adv
+20	cm	NNIXX-----A---8	Atr
+21	vysoký	AAMS1----1A----	Pnom
+22	,	Z:-------------	Coord
+23	zavalitější	AAFS2----2A----	Atr
+24	postavy	NNFS2-----A----	Pnom
+25	a	J^-------------	Coord
+26	má	VB-S---3P-AA---	Pred
+27	krátké	AAIP4----1A----	Atr
+28	tmavší	AAIP4----2A----	Atr
+29	vlasy	NNIP4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln94204-71-p4s3
+1	Pětadvacetiletý	AAMS1----1A----	Atr
+2	Miroslav	NNMS1-----A----	Atr
+3	Náhončík	NNMS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	175	C=-------------	Adv
+6	-	Z:-------------	Coord
+7	180	C=-------------	Adv
+8	cm	NNIXX-----A---8	Atr
+9	vysoký	AAMS1----1A----	Pnom
+10	,	Z:-------------	Coord
+11	zavalité	AAFS2----1A----	Atr
+12	postavy	NNFS2-----A----	Pnom
+13	a	J^-------------	Coord
+14	má	VB-S---3P-AA---	Pred
+15	nakrátko	Db-------------	Adv
+16	ostříhané	AAIP4----1A----	Atr
+17	špinavě	Dg-------1A----	Adv
+18	blond	AAXXX----1A----	Atr
+19	vlasy	NNIP4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94204-71-p4s4
+1	S	RR--7----------	AuxP
+2	největší	AAFS7----3A----	Atr
+3	pravděpodobností	NNFS7-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	ozbrojen	VsYS---XX-AP---	Pnom
+6	pistolí	NNFS7-----A----	Adv
+7	ráže	NNFS2-----A----	Atr
+8	9	C=-------------	Atr
+9	mm	NNIXX-----A---8	Atr
+10	,	Z:-------------	AuxX
+11	kterou	P4FS4----------	Obj
+12	legálně	Dg-------1A----	Adv
+13	vlastní	VB-S---3P-AA---	Atr
+14	.	Z:-------------	AuxK
+
+ln94204-71-p4s5
+1	Muži	NNMP1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	mohli	VpMP---XR-AA---	Pred
+5	pohybovat	Vf--------A----	Obj
+6	v	RR--6----------	AuxP
+7	červeném	AAIS6----1A----	Atr
+8	automobilu	NNIS6-----A----	Adv
+9	Favorit	NNIS1-----A----	Atr
+10	se	RV--7----------	AuxP
+11	státní	AAFS7----1A----	Atr
+12	poznávací	AAFS7----1A----	Atr
+13	značkou	NNFS7-----A----	Atr
+14	BMV	NNXXX-----A---8	Atr
+15	31	C=-------------	Atr
+16	79	C=-------------	Atr
+17	.	Z:-------------	AuxK
+
+ln94204-71-p4s6
+1	Policisté	NNMP1-----A----	Sb
+2	nevylučují	VB-P---3P-NA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jeden	ClYS1----------	Sb
+6	z	RR--2----------	AuxP
+7	podezřelých	AAMP2----1A----	Atr
+8	vycestoval	VpYS---XR-AA---	Obj
+9	na	RR--4----------	AuxP
+10	území	NNNS4-----A----	Adv
+11	sousedního	AAIS2----1A----	Atr
+12	státu	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-71-p4s7
+1	Jakékoli	PZFP4---------1	Atr
+2	informace	NNFP4-----A----	Obj
+3	o	RR--6----------	AuxP
+4	hledaných	AAMP6----1A----	Atr
+5	mužích	NNMP6-----A----	Atr
+6	mohou	VB-P---3P-AA--1	Pred
+7	občané	NNMP1-----A----	Sb
+8	sdělit	Vf--------A----	Obj
+9	na	RR--6----------	AuxP
+10	nejbližším	AANS6----3A----	Atr
+11	policejním	AANS6----1A----	Atr
+12	oddělení	NNNS6-----A----	Adv
+13	nebo	J^-------------	Coord
+14	na	RR--6----------	AuxP
+15	lince	NNFS6-----A----	Adv
+16	158	C=-------------	Atr
+17	.	Z:-------------	AuxK
+

@@ -1,0 +1,269 @@
+cmpr9415-015-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	9	C=-------------	Atr
+
+cmpr9415-015-p2s1
+1	Kancelář	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Firotour	NNIS1-----A----	ExD
+
+cmpr9415-015-p3s1
+1	Oblast	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Velký	AAIS1----1A----	Atr
+4	okruh	NNIS1-----A----	ExD
+5	Norskem	NNNS7-----A----	Atr
+
+cmpr9415-015-p4s1
+1	Ubytovací	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	5	C=-------------	Adv
+5	x	J*-------------	AuxG
+6	různé	AANS1----1A----	ExD
+
+cmpr9415-015-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	osobu	NNFS4-----A----	Atr
+4	Kč	NNFXX-----A----	Atr
+5	:	Z:-------------	Pred
+6	7890	C=-------------	Pnom
+7	(	Z:-------------	AuxG
+8	9	C=-------------	Adv
+9	dní	NNIP2-----A---1	Atr
+10	)	Z:-------------	AuxG
+
+cmpr9415-015-p6s1
+1	Dítě	NNNS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	Není	VB-S---3P-NA---	Pred
+4	vhodné	AANS1----1A----	Pnom
+5	pro	RR--4----------	AuxP
+6	děti	NNFP4-----A----	Adv
+7	do	RR--2----------	AuxP
+8	15	C=-------------	Atr
+9	let	NNNP2-----A----	Atr
+
+cmpr9415-015-p7s1
+1	Stravování	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	5	C=-------------	ExD
+4	snídaní	NNFP2-----A----	Atr
+
+cmpr9415-015-p8s1
+1	Doprava	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Autokar	NNIS1-----A----	ExD
+
+cmpr9415-015-p9s1
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Poznávací	AAIS1----1A----	Atr
+4	zájezd	NNIS1-----A----	ExD
+5	do	RR--2----------	AuxP
+6	Norska	NNNS2-----A----	Atr
+7	neporušenou	AAFS7----1N----	Atr
+8	severskou	AAFS7----1A----	Atr
+9	krajinou	NNFS7-----A----	Atr
+10	,	Z:-------------	AuxX
+11	jakou	P4FS4----------	Obj
+12	bychom	Vc-P---1-------	AuxV
+13	marně	Dg-------1A----	Adv
+14	hledali	VpMP---XR-AA---	Atr
+15	v	RR--6----------	AuxP
+16	celé	AAFS6----1A----	Atr
+17	Evropě	NNFS6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+cmpr9415-015-p9s2
+1	Některá	PZNP1----------	Atr
+2	místa	NNNP1-----A----	Sb
+3	na	RR--6----------	AuxP
+4	trase	NNFS6-----A----	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	přístupná	AANP1----1A----	Pnom
+7	jen	TT-------------	Atr
+8	během	RR--2----------	AuxP
+9	severského	AANS2----1A----	Atr
+10	léta	NNNS2-----A----	Adv
+11	,	Z:-------------	AuxX
+12	tj	J^------------8	Apos
+13	.	Z:-------------	AuxG
+14	od	RR--2----------	AuxP
+15	května	NNIS2-----A----	Adv
+16	do	RR--2----------	AuxP
+17	září	NNNS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+cmpr9415-015-p9s3
+1	V	RR--6----------	AuxP
+2	plánu	NNIS6-----A----	Adv
+3	zájezdu	NNIS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	také	Db-------------	AuxZ
+6	prohlídka	NNFS1-----A----	Sb
+7	některých	PZXP2----------	Atr
+8	měst	NNNP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	například	Db-------------	Apos
+11	Bergenu	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	Osla	NNNS2-----A----	Atr
+14	,	Z:-------------	Coord
+15	projíždí	VB-S---3P-AA---	Pred
+16	se	P7-X4----------	AuxR
+17	Lillehammerem	NNIS7-----A----	Adv
+18	.	Z:-------------	AuxK
+
+cmpr9415-015-p9s4
+1	Naše	PSHS1-P1-------	Atr
+2	cena	NNFS1-----A----	Sb
+3	platí	VB-S---3P-AA---	Pred
+4	jen	TT-------------	AuxZ
+5	pro	RR--4----------	AuxP
+6	turnusy	NNIP4-----A----	Adv
+7	,	Z:-------------	AuxX
+8	které	P4IP1----------	Sb
+9	odjíždějí	VB-P---3P-AA---	Atr
+10	27	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	5	C=-------------	Adv
+13	.	Z:-------------	AuxG
+14	a	J^-------------	Coord
+15	6	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	6	C=-------------	Adv
+18	,	Z:-------------	Coord
+19	později	Dg-------2A----	Adv
+20	je	VB-S---3P-AA---	Pred
+21	vyšší	AAFS1----2A----	Pnom
+22	.	Z:-------------	AuxK
+
+cmpr9415-015-p9s5
+1	Pro	RR--4----------	AuxP
+2	menší	AAFP4----2A----	Atr
+3	děti	NNFP4-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	zájezd	NNIS1-----A----	Sb
+6	příliš	Db-------------	Adv
+7	namáhavý	AAIS1----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	a	J^-------------	Coord
+10	proto	J^-------------	AuxY
+11	nejsou	VB-P---3P-NA---	AuxV
+12	ani	J^-------------	AuxZ
+13	poskytovány	VsTP---XX-AP---	Pred
+14	slevy	NNFP1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+cmpr9415-015-p9s6
+1	Během	RR--2----------	AuxP
+2	zájezdu	NNIS2-----A----	Adv
+3	je	VB-S---3P-AA---	AuxV
+4	počítáno	VsNS---XX-AP---	Pred
+5	5	C=-------------	Adv
+6	x	J*-------------	AuxG
+7	s	RR--7----------	AuxP
+8	ubytováním	NNNS7-----A----	Obj
+9	ve	RV--6----------	AuxP
+10	čtyřlůžkových	AAIP6----1A----	Atr
+11	pokojích	NNIP6-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9415-015-p9s7
+1	Sociální	AANP1----1A----	Atr
+2	zařízení	NNNP1-----A----	Sb
+3	a	J^-------------	Coord
+4	sprchy	NNFP1-----A----	Sb
+5	podle	RR--2----------	AuxP
+6	místa	NNNS2-----A----	Adv
+7	ubytování	NNNS2-----A----	Atr
+8	jsou	VB-P---3P-AA---	Pred
+9	buď	J^-------------	AuxY
+10	společné	AAFP1----1A----	Pnom
+11	na	RR--6----------	AuxP
+12	chodbách	NNFP6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	nebo	J^-------------	Coord
+15	také	Db-------------	AuxZ
+16	v	RR--6----------	AuxP
+17	pokojích	NNIP6-----A----	ExD
+18	.	Z:-------------	AuxK
+
+cmpr9415-015-p9s8
+1	Pořadatel	NNMS1-----A----	Sb
+2	doporučuje	VB-S---3P-AA---	Pred
+3	vzít	Vf--------A----	Obj
+4	sebou	P6-X7----------	Adv
+5	vlastní	AANS4----1A----	Atr
+6	ložní	AANS4----1A----	Atr
+7	prádlo	NNNS4-----A----	Obj
+8	nebo	J^-------------	Coord
+9	za	RR--4----------	AuxP
+10	820	C=-------------	Adv
+11	Kč	NNFXX-----A----	Atr
+12	prodá	VB-S---3P-AA---	Pred
+13	povlečení	NNNS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9415-015-p10s1
+1	Doporučuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	dokoupit	Vf--------A----	Sb
+4	večeře	NNFP4-----A----	Obj
+5	za	RR--4----------	AuxP
+6	1500	C=-------------	Atr
+7	Kč	NNFXX-----A----	Atr
+8	na	RR--4----------	AuxP
+9	osobu	NNFS4-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9415-015-p11s1
+1	Zájezd	NNIS4-----A----	Obj
+2	doprovází	VB-S---3P-AA---	Pred
+3	průvodce	NNMS1-----A----	Sb
+4	.	Z:-------------	AuxK
+
+cmpr9415-015-p11s2
+1	V	RR--6----------	AuxP
+2	ceně	NNFS6-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	zahrnuty	VsTP---XX-AP---	Pnom
+5	poplatky	NNIP1-----A----	Sb
+6	za	RR--4----------	AuxP
+7	převozy	NNIP4-----A----	Atr
+8	trajekty	NNIP7-----A----	Atr
+9	mezi	RR--7----------	AuxP
+10	SRN	NNFXX-----A---8	Atr
+11	,	Z:-------------	AuxX
+12	Dánskem	NNNS7-----A----	Atr
+13	,	Z:-------------	Coord
+14	Švédskem	NNNS7-----A----	Atr
+15	a	J^-------------	Coord
+16	trajekty	NNIP7-----A----	Atr
+17	v	RR--6----------	AuxP
+18	Norsku	NNNS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9415-015-p11s3
+1	Šestý	CrIS4----------	Atr
+2	den	NNIS4-----A----	Adv
+3	zájezdu	NNIS2-----A----	Atr
+4	je	VB-S---3P-AA---	AuxV
+5	plánován	VsYS---XX-AP---	Pred
+6	výjezd	NNIS1-----A----	Sb
+7	lanovkou	NNFS7-----A----	Atr
+8	na	RR--4----------	AuxP
+9	horu	NNFS4-----A----	Atr
+10	Dalsniba	NNFS1-----A----	Atr
+11	,	Z:-------------	Coord
+12	což	PE--1----------	Sb
+13	je	VB-S---3P-AA---	Pred
+14	rovněž	Db-------------	Adv
+15	započteno	VsNS---XX-AP---	Pnom
+16	v	RR--6----------	AuxP
+17	ceně	NNFS6-----A----	Adv
+18	.	Z:-------------	AuxK
+

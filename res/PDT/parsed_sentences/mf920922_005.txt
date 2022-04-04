@@ -1,0 +1,204 @@
+mf920922-005-p1s1C
+1	Boj	NNIS1-----A----	ExD
+2	o	RR--4----------	AuxP
+3	dálnici	NNFS4-----A----	Atr
+
+mf920922-005-p1s1B
+1	NOVÉ	AAFP1----1A----	Atr
+2	KOMUNIKACE	NNFP1-----A----	ExD
+3	NA	RR--6----------	AuxP
+4	ROZHRANÍ	NNNS6-----A----	Atr
+5	TŘÍ	ClXP2----------	Atr
+6	REPUBLIK	NNFP2-----A----	Atr
+
+mf920922-005-p2s1
+1	Český	AAIS1----1A----	Atr
+2	Těšín	NNIS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	mý	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+mf920922-005-p2s2
+1	Podporu	NNFS4-----A----	Obj
+2	vybudování	NNNS3-----A----	Atr
+3	čtyřproudových	AAFP2----1A----	Atr
+4	rychlostních	AAFP2----1A----	Atr
+5	komunikací	NNFP2-----A----	Atr
+6	směrem	NNIS7-----A----	Atr
+7	do	RR--2----------	AuxP
+8	Polska	NNNS2-----A----	Atr
+9	přes	RR--4----------	AuxP
+10	Český	AAIS4----1A----	Atr
+11	Těšín	NNIS4-----A----	Atr
+12	ze	RV--2----------	AuxP
+13	směru	NNIS2-----A----	Atr
+14	od	RR--2----------	AuxP
+15	Nového	AAIS2----1A----	Atr
+16	Jičína	NNIS2-----A----	Atr
+17	a	J^-------------	Coord
+18	od	RR--2----------	AuxP
+19	Čadce	NNFS2-----A----	Atr
+20	vyslovili	VpMP---XR-AA---	Pred
+21	včera	Db-------------	Adv
+22	zástupci	NNMP1-----A----	Sb
+23	dvaceti	Cn-P2----------	Atr
+24	pěti	Cn-P2----------	Atr
+25	měst	NNNP2-----A----	Atr
+26	a	J^-------------	Coord
+27	obcí	NNFP2-----A----	Atr
+28	z	RR--2----------	AuxP
+29	oblasti	NNFS2-----A----	Atr
+30	těchto	PDXP2----------	Atr
+31	uvažovaných	AAFP2----1A----	Atr
+32	komunikací	NNFP2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+mf920922-005-p2s3
+1	Z	RR--2----------	AuxP
+2	navrženého	AANS2----1A----	Atr
+3	stanoviska	NNNS2-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	vypustilo	VpNS---XR-AA---	Pred
+6	zpochybnění	NNNS1-----A----	Sb
+7	plánované	AAFS2----1A----	Atr
+8	dálnice	NNFS2-----A----	Atr
+9	D	NNNXX-----A----	Atr
+10	47	C=-------------	Atr
+11	od	RR--2----------	AuxP
+12	Nového	AAIS2----1A----	Atr
+13	Jičína	NNIS2-----A----	Atr
+14	přes	RR--4----------	AuxP
+15	Ostravu	NNFS4-----A----	Atr
+16	a	J^-------------	Coord
+17	Bohumín	NNIS4-----A----	Atr
+18	do	RR--2----------	AuxP
+19	Polska	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf920922-005-p2s4
+1	"	Z:-------------	AuxG
+2	Nedělejme	Vi-P---1--N----	Obj
+3	akce	NNFP4-----A----	Obj
+4	proti	RR--3----------	AuxP
+5	D	NNNXX-----A----	Atr
+6	47	C=-------------	Atr
+7	,	Z:-------------	Coord
+8	udělejme	Vi-P---1--A----	Obj
+9	vše	PLNS4---------1	Obj
+10	pro	RR--4----------	AuxP
+11	to	PDNS4----------	Adv
+12	,	Z:-------------	AuxX
+13	aby	J,-------------	AuxC
+14	už	Db-------------	AuxZ
+15	vypracovaný	AAIS1----1A----	Atr
+16	projekt	NNIS1-----A----	Sb
+17	byl	VpYS---XR-AA---	Atr
+18	co	Db-------------	Adv
+19	nejdříve	Dg-------3A----	Adv
+20	průchodný	AAIS1----1A----	Pnom
+21	,	Z:-------------	AuxX
+22	"	Z:-------------	AuxG
+23	řekl	VpYS---XR-AA---	Pred
+24	přednosta	NNMS1-----A----	Atr
+25	Okresního	AAIS2----1A----	Atr
+26	úřadu	NNIS2-----A----	Atr
+27	v	RR--6----------	AuxP
+28	Karviné	NNFS6-----A----	Atr
+29	Jan	NNMS1-----A----	Atr
+30	Weber	NNMS1-----A----	Sb
+31	.	Z:-------------	AuxK
+
+mf920922-005-p2s5
+1	Zástupci	NNMP1-----A----	Sb
+2	projekčního	AAIS2----1A----	Atr
+3	ústavu	NNIS2-----A----	Atr
+4	upozornili	VpMP---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	případě	NNIS6-----A----	AuxP
+9	požadavku	NNIS2-----A----	Adv
+10	na	RR--4----------	AuxP
+11	dálnici	NNFS4-----A----	Atr
+12	musí	VB-P---3P-AA--1	Obj
+13	změnit	Vf--------A----	Obj
+14	celou	AAFS4----1A----	Atr
+15	trasu	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+mf920922-005-p2s6
+1	V	RR--6----------	AuxP
+2	diskusi	NNFS6-----A----	Adv
+3	taky	Db-------------	Adv
+4	padl	VpYS---XR-AA--1	Pred
+5	argument	NNIS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	Bohumín	NNIS1-----A----	Sb
+9	dálnici	NNFS4-----A----	Obj
+10	D	NNNXX-----A----	Atr
+11	47	C=-------------	Atr
+12	nechce	VB-S---3P-NA---	Atr
+13	.	Z:-------------	AuxK
+
+mf920922-005-p2s7
+1	K	RR--3----------	AuxP
+2	tomu	PDZS3----------	Adv
+3	včera	Db-------------	Adv
+4	starosta	NNMS1-----A----	Atr
+5	Bohumína	NNIS2-----A----	Atr
+6	Antonín	NNMS1-----A----	Atr
+7	Štverka	NNMS1-----A----	Sb
+8	uvedl	VpYS---XR-AA---	Pred
+9	:	Z:-------------	AuxG
+10	"	Z:-------------	AuxG
+11	Zastupitelstvo	NNNS1-----A----	Sb
+12	si	P7-X3----------	AuxT
+13	uvědomuje	VB-S---3P-AA---	Obj
+14	potřebu	NNFS4-----A----	Obj
+15	dálnice	NNFS2-----A----	Atr
+16	,	Z:-------------	Coord
+17	nesouhlasíme	VB-P---1P-NA---	Obj
+18	pouze	Db-------------	AuxZ
+19	se	RV--7----------	AuxP
+20	zatím	Db-------------	Adv
+21	navrženými	AAFP7----1A----	Atr
+22	variantami	NNFP7-----A----	Obj
+23	průtahu	NNIS2-----A----	Atr
+24	městem	NNNS7-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf920922-005-p2s8
+1	Poslední	AAFS7----1A----	Atr
+2	zajímavou	AAFS7----1A----	Atr
+3	variantou	NNFS7-----A----	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	obchvat	NNIS1-----A----	Sb
+6	jihem	NNIS7-----A----	Atr
+7	s	RR--7----------	AuxP
+8	kilometrovým	AAIS7----1A----	Atr
+9	tunelem	NNIS7-----A----	Atr
+10	pod	RR--7----------	AuxP
+11	části	NNFS7-----A----	Atr
+12	Záblatí	NNNS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920922-005-p2s9
+1	Za	RR--4----------	AuxP
+2	celou	AAFS4----1A----	Atr
+3	dobu	NNFS4-----A----	Adv
+4	jednání	NNNS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Českém	AAIS6----1A----	Atr
+7	Těšíně	NNIS6-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	neobjevil	VpYS---XR-NA---	Pred
+10	jediný	AAIS1----1A----	Atr
+11	hlas	NNIS1-----A----	Sb
+12	zpochybňující	AGIS1-----A----	Atr
+13	potřebu	NNFS4-----A----	Obj
+14	nových	AAFP2----1A----	Atr
+15	silnic	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+

@@ -1,0 +1,501 @@
+cmpr9413-008-p2s1
+1	NA	RR--6----------	AuxP
+2	CHYBÁCH	NNFP6-----A----	Adv
+3	SE	P7-X4----------	Obj
+4	ČLOVĚK	NNMS1-----A----	Sb
+5	UČÍ	VB-S---3P-AA---	Pred
+
+cmpr9413-008-p3s1
+1	Dobrá	AAFS1----1A----	Atr
+2	rada	NNFS1-----A----	ExD
+3	drahá	AAFS1----1A----	ExD
+
+cmpr9413-008-p4s1
+1	Moje	PSHS1-S1-------	Atr
+2	firma	NNFS1-----A----	Sb
+3	vyrobila	VpQW---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	zakázku	NNFS4-----A----	Adv
+6	zboží	NNNS4-----A----	Obj
+7	pro	RR--4----------	AuxP
+8	zákazníka	NNMS4-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	se	P7-X4----------	AuxT
+12	jevil	VpYS---XR-AA---	Atr
+13	jako	J,-------------	AuxY
+14	solidní	AAMS1----1A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9413-008-p4s2
+1	Po	RR--4----------	AuxP
+2	dva	ClYP4----------	Atr
+3	roky	NNIP4-----A----	Adv
+4	vždy	Db-------------	Adv
+5	platil	VpYS---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	době	NNFS6-----A----	Adv
+8	splatnosti	NNFS2-----A----	Atr
+9	faktury	NNFS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	ani	J^-------------	AuxZ
+12	při	RR--6----------	AuxP
+13	odběru	NNIS6-----A----	Adv
+14	zboží	NNNS2-----A----	Atr
+15	se	P7-X4----------	AuxT
+16	nevyskytly	VpTP---XR-NA--1	Pred
+17	žádné	PWIP1----------	Atr
+18	problémy	NNIP1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+cmpr9413-008-p4s3
+1	Vždy	Db-------------	Adv
+2	šlo	VpNS---XR-AA---	Pred
+3	o	RR--4----------	AuxP
+4	menší	AAFP4----2A----	Atr
+5	zakázky	NNFP4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	hodnotě	NNFS6-----A----	Atr
+8	okolo	RR--2----------	AuxP
+9	30	C=-------------	Atr
+10	tisíc	ClXS2----------	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9413-008-p4s4
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	této	PDFS3----------	Atr
+4	dobré	AAFS3----1A----	Atr
+5	zkušenosti	NNFS3-----A----	Adv
+6	jsme	VB-P---1P-AA---	AuxV
+7	celkem	Db-------------	AuxZ
+8	bez	RR--2----------	AuxP
+9	obav	NNFP2-----A----	Adv
+10	přijali	VpMP---XR-AA---	Pred
+11	od	RR--2----------	AuxP
+12	téhož	PDZS2----------	Atr
+13	zákazníka	NNMS2-----A----	Obj
+14	objednávku	NNFS4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	zboží	NNNS4-----A----	Atr
+17	za	RR--4----------	AuxP
+18	více	Dg-------2A----	Atr
+19	než	J,-------------	AuxC
+20	čtvrt	NNFS4-----A----	Adv
+21	milionu	NNIS2-----A----	Atr
+22	korun	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9413-008-p4s5
+1	A	J^-------------	Coord
+2	tady	Db-------------	Adv
+3	začaly	VpTP---XR-AA---	Pred
+4	potíže	NNFP1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s1
+1	Odběratel	NNMS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	době	NNFS6-----A----	Adv
+4	splatnosti	NNFS2-----A----	Atr
+5	faktury	NNFS2-----A----	Atr
+6	za	RR--4----------	AuxP
+7	zboží	NNNS4-----A----	AtrAdv
+8	vystavil	VpYS---XR-AA---	Pred
+9	šek	NNIS4-----A----	Obj
+10	do	RR--2----------	AuxP
+11	banky	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	ale	J^-------------	AuxY
+15	nebyl	VpYS---XR-NA---	Atr
+16	krytý	AAIS1----1A----	Pnom
+17	hotovostí	NNFS7-----A----	Obj
+18	na	RR--6----------	AuxP
+19	jeho	PSXXXZS3-------	Atr
+20	účtu	NNIS6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s2
+1	Domluva	NNFS1-----A----	Sb
+2	se	RV--7----------	AuxP
+3	zákazníkem	NNMS7-----A----	Atr
+4	byla	VpQW---XR-AA---	Pred
+5	velmi	Db-------------	Adv
+6	ztížená	AAFS1----1A----	Pnom
+7	,	Z:-------------	AuxX
+8	protože	J,-------------	AuxC
+9	jsme	VB-P---1P-AA---	AuxV
+10	znali	VpMP---XR-AA---	Adv
+11	pouze	Db-------------	AuxZ
+12	P	AAXXX----1A---8	Atr
+13	.	Z:-------------	AuxG
+14	O	NNIXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	Box	NNIXX-----A----	Obj
+17	této	PDFS2----------	Atr
+18	zprostředkovatelské	AAFS2----1A----	Atr
+19	firmy	NNFS2-----A----	Atr
+20	,	Z:-------------	Coord
+21	nikoli	Db------------1	AuxZ
+22	její	PSFSXFS3-------	Atr
+23	adresu	NNFS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s3
+1	Předtím	Db-------------	Adv
+2	,	Z:-------------	Apos
+3	při	RR--6----------	AuxP
+4	přijímání	NNNS6-----A----	Adv
+5	zakázek	NNFP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	jsme	VB-P---1P-AA---	AuxV
+8	se	RV--7----------	AuxP
+9	zástupci	NNMP7-----A----	Obj
+10	firmy	NNFS2-----A----	Atr
+11	jednali	VpMP---XR-AA---	Pred
+12	osobně	Dg-------1A----	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s4
+1	Na	RR--4----------	AuxP
+2	naše	PSXP4-P1-------	Atr
+3	dopisy	NNIP4-----A----	Obj
+4	firma	NNFS1-----A----	Sb
+5	dlouho	Dg-------1A----	Adv
+6	neodpovídala	VpQW---XR-NA---	Pred
+7	,	Z:-------------	Coord
+8	až	TT-------------	AuxZ
+9	po	RR--6----------	AuxP
+10	několika	Ca--6----------	Atr
+11	urgencích	NNFP6-----A----	Adv
+12	vystavila	VpQW---XR-AA---	Pred
+13	nový	AAIS4----1A----	Atr
+14	šek	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s5
+1	Ten	PDYS1----------	Sb
+2	však	J^-------------	Coord
+3	byl	VpYS---XR-AA---	Pred
+4	opět	Db-------------	Adv
+5	nekrytý	AAIS1----1N----	Pnom
+6	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s6
+1	Od	RR--2----------	AuxP
+2	té	PDFS2----------	Atr
+3	doby	NNFS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	odmlčela	VpQW---XR-AA---	Pred
+6	,	Z:-------------	Coord
+7	až	TT-------------	AuxP
+8	na	RR--4----------	AuxP
+9	pohrůžku	NNFS4-----A----	Adv
+10	soudním	AANS7----1A----	Atr
+11	projednáním	NNNS7-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	dostavil	VpYS---XR-AA---	Pred
+14	právní	AAMS1----1A----	Atr
+15	zástupce	NNMS1-----A----	Sb
+16	firmy	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s7
+1	Vysvětloval	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	jeho	PSXXXZS3-------	Atr
+5	klient	NNMS1-----A----	Sb
+6	utrpěl	VpYS---XR-AA---	Obj
+7	velké	AAFP4----1A----	Atr
+8	ztráty	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	momentálně	Dg-------1A----	Adv
+12	není	VB-S---3P-NA---	Obj
+13	schopen	ACYS------A----	Pnom
+14	platit	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s8
+1	Po	RR--6----------	AuxP
+2	termínu	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	na	RR--6----------	AuxP
+5	kterém	P4ZS6----------	Obj
+6	jsme	VB-P---1P-AA---	AuxV
+7	se	P7-X4----------	AuxT
+8	dohodli	VpMP---XR-AA--1	Atr
+9	,	Z:-------------	AuxX
+10	platba	NNFS1-----A----	Sb
+11	zase	Db-------------	Adv
+12	nepřišla	VpQW---XR-NA---	Pred
+13	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s9
+1	Napsali	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	novou	AAFS4----1A----	Atr
+4	urgenci	NNFS4-----A----	Obj
+5	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s10
+1	Poté	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	dostavili	VpMP---XR-AA---	Pred
+4	jiní	AAMP1----1A----	Atr
+5	zástupci	NNMP1-----A----	Sb
+6	inkriminované	AAFS2----1A----	Atr
+7	firmy	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	žádali	VpMP---XR-AA---	Pred
+10	,	Z:-------------	AuxX
+11	abychom	J,-P---1-------	AuxC
+12	dali	VpMP---XR-AA---	Obj
+13	pokoj	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	dluh	NNIS1-----A----	Sb
+17	bude	VB-S---3F-AA---	AuxV
+18	určitě	Dg-------1A----	Adv
+19	uhražen	VsYS---XX-AP---	Adv
+20	,	Z:-------------	AuxX
+21	jakmile	J,-------------	AuxC
+22	budou	VB-P---3F-AA---	Adv
+23	k	RR--3----------	AuxP
+24	dispozici	NNFS3-----A----	Adv
+25	prostředky	NNIP1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+cmpr9413-008-p5s11
+1	Budeme	VB-P---1F-AA---	AuxV
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	otravovat	Vf--------A----	Adv
+5	,	Z:-------------	AuxX
+6	může	VB-S---3P-AA---	Pred
+7	se	P7-X4----------	AuxT
+8	stát	Vf--------A----	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	náš	PSYS1-P1-------	Atr
+12	podnik	NNIS1-----A----	Sb
+13	vyhoří	VB-S---3P-AA---	Sb
+14	,	Z:-------------	AuxX
+15	nebo	J^-------------	Coord
+16	dokonce	Db-------------	AuxZ
+17	dojde	VB-S---3P-AA---	Sb
+18	k	RR--3----------	AuxP
+19	újmě	NNFS3-----A----	Obj
+20	na	RR--6----------	AuxP
+21	zdraví	NNNS6-----A----	Atr
+22	či	J^-------------	Coord
+23	životě	NNIS6-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9413-008-p6s1
+1	Od	RR--2----------	AuxP
+2	té	PDFS2----------	Atr
+3	doby	NNFS2-----A----	Adv
+4	uplynulo	VpNS---XR-AA---	Pred
+5	již	Db-------------	AuxZ
+6	několik	Ca--1----------	Sb
+7	měsíců	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	zaplacení	NNNS4-----A----	Obj
+11	dlužné	AAFS2----1A----	Atr
+12	částky	NNFS2-----A----	Atr
+13	se	P7-X4----------	AuxT
+14	neodvažujeme	VB-P---1P-NA---	Pred
+15	znovu	Db-------------	Adv
+16	urgovat	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9413-008-p6s2
+1	Přitom	Db-------------	Adv
+2	jen	TT-------------	AuxZ
+3	za	RR--4----------	AuxP
+4	materiál	NNIS4-----A----	Obj
+5	pro	RR--4----------	AuxP
+6	uvedenou	AAFS4----1A----	Atr
+7	zakázku	NNFS4-----A----	Atr
+8	jsme	VB-P---1P-AA---	AuxV
+9	vynaložili	VpMP---XR-AA---	Pred
+10	přes	RR--4----------	AuxP
+11	150	C=-------------	Obj
+12	tisíc	ClXS2----------	Atr
+13	korun	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9413-008-p6s3
+1	Abychom	J,-P---1-------	AuxC
+2	mohli	VpMP---XR-AA---	Adv
+3	v	RR--6----------	AuxP
+4	práci	NNFS6-----A----	Adv
+5	pokračovat	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	museli	VpMP---XR-AA---	Pred
+8	jsme	VB-P---1P-AA---	AuxV
+9	si	P7-X3----------	Adv
+10	vzít	Vf--------A----	Obj
+11	úvěr	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9413-008-p6s4
+1	Pokud	J,-------------	AuxC
+2	nezískáme	VB-P---1P-NA---	Adv
+3	dlužné	AAIP4----1A----	Atr
+4	peníze	NNIP4-----A----	Obj
+5	zpět	Db-------------	Adv
+6	,	Z:-------------	AuxX
+7	hrozí	VB-S---3P-AA---	Pred
+8	nám	PP-P3--1-------	Obj
+9	bankrot	NNIS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+cmpr9413-008-p7s1
+1	Poučení	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9413-008-p8s1
+1	*	Z:-------------	AuxG
+2	Při	RR--6----------	AuxP
+3	větších	AAFP6----2A----	Atr
+4	zakázkách	NNFP6-----A----	Adv
+5	požadovat	Vf--------A----	Pred
+6	od	RR--2----------	AuxP
+7	zákazníka	NNMS2-----A----	Obj
+8	složení	NNNS4-----A----	Obj
+9	zálohy	NNFS2-----A----	Atr
+10	předem	Db-------------	AtrAdv
+11	.	Z:-------------	AuxK
+
+cmpr9413-008-p9s1
+1	*	Z:-------------	AuxG
+2	Firmy	NNFP4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	které	P4FP1----------	Sb
+5	nejsou	VB-P---3P-NA---	Atr
+6	ochotny	ACTP------A----	Pnom
+7	uvádět	Vf--------A----	Obj
+8	svou	P8FS4---------1	Atr
+9	celou	AAFS4----1A----	Atr
+10	adresu	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	jen	TT-------------	AuxZ
+14	P	AAXXX----1A---8	Atr
+15	.	Z:-------------	AuxG
+16	O	NNIXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	Box	NNIXX-----A----	Obj
+19	,	Z:-------------	AuxX
+20	raději	Dg-------2A----	Adv
+21	jako	J,-------------	AuxY
+22	obchodní	AAMP4----1A----	Atr
+23	partnery	NNMP4-----A----	Atv
+24	nebrat	Vf--------N----	Pred
+25	.	Z:-------------	AuxK
+
+cmpr9413-008-p9s2
+1	Když	J,-------------	AuxC
+2	už	Db-------------	Adv
+3	ano	TT-------------	ExD
+4	,	Z:-------------	AuxX
+5	tak	Db-------------	ExD
+6	s	RR--7----------	AuxP
+7	maximální	AAFS7----1A----	Atr
+8	opatrností	NNFS7-----A----	ExD
+9	.	Z:-------------	AuxK
+
+cmpr9413-008-p10s1
+1	*	Z:-------------	AuxG
+2	Nedat	Vf--------N----	Pred
+3	na	RR--4----------	AuxP
+4	první	CrIS4----------	Atr
+5	dojem	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	jakým	P4ZS7----------	Adv
+8	na	RR--4----------	AuxP
+9	nás	PP-P4--1-------	Obj
+10	zákazník	NNMS1-----A----	Sb
+11	působí	VB-S---3P-AA---	Atr
+12	a	J^-------------	Coord
+13	pokusit	Vf--------A----	Pred
+14	se	P7-X4----------	AuxT
+15	zjistit	Vf--------A----	Obj
+16	o	RR--6----------	AuxP
+17	něm	P5ZS6--3-------	Obj
+18	něco	PZ--4----------	Obj
+19	víc	Dg-------2A---1	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9413-008-p11s1
+1	F	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	V	NNMXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	,	Z:-------------	ExD
+6	střední	AAFP1----1A----	Atr
+7	Čechy	NNFP1-----A----	ExD
+
+cmpr9413-008-p12s1
+1	Příspěvek	NNIS1-----A----	Sb
+2	zařazený	AAIS1----1A----	Atr
+3	do	RR--2----------	AuxP
+4	této	PDFS2----------	Atr
+5	rubriky	NNFS2-----A----	Adv
+6	-	Z:-------------	AuxG
+7	pojednávající	AGIS1-----A----	Atr
+8	o	RR--6----------	AuxP
+9	konkrétních	AAFP6----1A----	Atr
+10	chybách	NNFP6-----A----	Obj
+11	podnikatelů	NNMP2-----A----	Atr
+12	-	Z:-------------	AuxG
+13	je	VB-S---3P-AA---	Pred
+14	běžně	Dg-------1A----	Adv
+15	honorován	VsYS---XX-AP---	Pnom
+16	a	J^-------------	Coord
+17	navíc	Db-------------	Adv
+18	zhodnocen	VsYS---XX-AP---	Pnom
+19	prémií	NNFS7-----A----	Adv
+20	100	C=-------------	Atr
+21	Kč	NNFXX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9413-008-p12s2
+1	Bude	VB-S---3F-AA---	AuxV
+2	také	Db-------------	Adv
+3	zařazen	VsYS---XX-AP---	Pred
+4	do	RR--2----------	AuxP
+5	čtvrtletního	AANS2----1A----	Atr
+6	slosování	NNNS2-----A----	Obj
+7	o	RR--4----------	AuxP
+8	3000	C=-------------	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9413-008-p12s3
+1	Pište	Vi-P---2--A----	Pred
+2	nám	PP-P3--1-------	Obj
+3	o	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	,	Z:-------------	AuxX
+6	jaké	P4FS2----------	Atr
+7	chyby	NNFS2-----A----	Obj
+8	jste	VB-P---2P-AA---	AuxV
+9	se	P7-X4----------	AuxT
+10	při	RR--6----------	AuxP
+11	podnikání	NNNS6-----A----	Adv
+12	dopustili	VpMP---XR-AA---	Atr
+13	a	J^-------------	Coord
+14	jaké	P4NS1----------	Atr
+15	z	RR--2----------	AuxP
+16	toho	PDZS2----------	Adv
+17	plyne	VB-S---3P-AA---	Atr
+18	poučení	NNNS1-----A----	Sb
+19	.	Z:-------------	AuxK
+

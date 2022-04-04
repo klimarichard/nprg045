@@ -1,0 +1,253 @@
+ln94209-11-p1s1
+1	Konference	NNFS1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	populaci	NNFS6-----A----	Atr
+4	zahájena	VsQW---XX-AP---	Pred
+
+ln94209-11-p2s1A
+1	Káhira	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94209-11-p2s1B
+1	Za	RR--2----------	AuxP
+2	přísných	AANP2----1A----	Atr
+3	bezpečnostních	AANP2----1A----	Atr
+4	opatření	NNNP2-----A----	Adv
+5	včera	Db-------------	Adv
+6	začala	VpQW---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	Káhiře	NNFS6-----A----	Adv
+9	mezinárodní	AAFS1----1A----	Atr
+10	Konference	NNFS1-----A----	Sb
+11	OSN	NNFXX-----A---8	Atr
+12	o	RR--6----------	AuxP
+13	populaci	NNFS6-----A----	Atr
+14	a	J^-------------	Coord
+15	rozvoji	NNIS6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	potrvá	VB-S---3F-AA---	Atr
+19	do	RR--2----------	AuxP
+20	13	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	září	NNNS2-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94209-11-p2s2
+1	Konference	NNFS2-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	účastní	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	3500	C=-------------	Sb
+6	členů	NNMP2-----A----	Atr
+7	vládních	AAFP2----1A----	Atr
+8	delegací	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94209-11-p2s3
+1	Delegaci	NNFS4-----A----	Obj
+2	ČR	NNFXX-----A---8	Atr
+3	vede	VB-S---3P-AA---	Pred
+4	ministr	NNMS1-----A----	Atr
+5	pověřený	AAMS1----1A----	Atr
+6	řízením	NNNS7-----A----	Obj
+7	Úřadu	NNIS2-----A----	Atr
+8	vlády	NNFS2-----A----	Atr
+9	Igor	NNMS1-----A----	Atr
+10	Němec	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94209-11-p3s1
+1	Souběžně	Dg-------1A----	Adv
+2	s	RR--7----------	AuxP
+3	konferencí	NNFS7-----A----	Adv
+4	jednají	VB-P---3P-AA---	Pred
+5	zástupci	NNMP1-----A----	Sb
+6	nevládních	AAFP2----1N----	Atr
+7	organizací	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kterých	P4XP2----------	Atr
+10	se	P7-X4----------	AuxT
+11	do	RR--2----------	AuxP
+12	Káhiry	NNFS2-----A----	Adv
+13	sjelo	VpNS---XR-AA---	Atr
+14	na	RR--4----------	AuxP
+15	5000	C=-------------	Sb
+16	.	Z:-------------	AuxK
+
+ln94209-11-p3s2
+1	Průběh	NNIS4-----A----	Obj
+2	debat	NNFP2-----A----	Atr
+3	sleduje	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	3800	C=-------------	Sb
+6	novinářů	NNMP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94209-11-p4s1
+1	Konferenci	NNFS4-----A----	Obj
+2	zahájila	VpQW---XR-AA---	Pred
+3	její	PSFSXFS3-------	Atr
+4	generální	AAFS1----1A----	Atr
+5	tajemnice	NNFS1-----A----	Atr
+6	Náfis	NNFXX-----A----	Atr
+7	Sádiková	NNFS1-----A----	Sb
+8	a	J^-------------	Coord
+9	poté	Db-------------	Adv
+10	pronesl	VpYS---XR-AA---	Pred
+11	zahajovací	AAIS4----1A----	Atr
+12	projev	NNIS4-----A----	Obj
+13	její	PSZS1FS3-------	Atr
+14	předseda	NNMS1-----A----	Atr
+15	,	Z:-------------	Coord
+16	egyptský	AAMS1----1A----	Atr
+17	prezident	NNMS1-----A----	Atr
+18	Husní	NNMS1-----A----	Atr
+19	Mubarak	NNMS1-----A----	Sb
+20	,	Z:-------------	AuxX
+21	který	P4YS1----------	Sb
+22	připomněl	VpYS---XR-AA---	Atr
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	účastníci	NNMP1-----A----	Sb
+26	jsou	VB-P---3P-AA---	Obj
+27	lidé	NNMP1-----A---1	Pnom
+28	z	RR--2----------	AuxP
+29	různých	AAFP2----1A----	Atr
+30	zemí	NNFP2-----A----	Atr
+31	a	J^-------------	Coord
+32	kultur	NNFP2-----A----	Atr
+33	,	Z:-------------	AuxX
+34	které	P4FP4----------	Obj
+35	je	VB-S---3P-AA---	AtrAtr
+36	nutno	ACNS------A----	Pnom
+37	respektovat	Vf--------A----	Sb
+38	.	Z:-------------	AuxK
+
+ln94209-11-p5s1
+1	Generální	AAMS1----1A----	Atr
+2	tajemník	NNMS1-----A----	Atr
+3	OSN	NNFXX-----A---8	Atr
+4	Butrus	NNMS1-----A----	Atr
+5	Butrus	NNMS1-----A----	Atr
+6	-	Z:-------------	AuxG
+7	Ghálí	NNMS1-----A----	Sb
+8	označil	VpYS---XR-AA---	Pred
+9	fórum	NNNS4-----A----	Obj
+10	za	RR--4----------	AuxP
+11	kritický	AAIS4----1A----	Atr
+12	bod	NNIS4-----A----	Obj
+13	pro	RR--4----------	AuxP
+14	veškerou	PLFS4----------	Atr
+15	populační	AAFS4----1A----	Atr
+16	problematiku	NNFS4-----A----	Atr
+17	a	J^-------------	Coord
+18	podaří	VB-S---3P-AA---	Adv
+19	-	Z:-------------	AuxG
+20	li	TT-------------	AuxC
+21	se	P7-X4----------	AuxT
+22	konferenci	NNFS3-----A----	Obj
+23	schválit	Vf--------A----	Sb
+24	připravený	AAIS4----1A----	Atr
+25	program	NNIS4-----A----	Obj
+26	,	Z:-------------	AuxX
+27	učiní	VB-S---3P-AA---	ExD
+28	velký	AAIS4----1A----	Atr
+29	krok	NNIS4-----A----	Obj
+30	kupředu	Db-------------	Atr
+31	.	Z:-------------	AuxK
+
+ln94209-11-p6s1
+1	Americký	AAMS1----1A----	Atr
+2	viceprezident	NNMS1-----A----	Atr
+3	Albert	NNMS1-----A----	Atr
+4	Gore	NNMS1-----A----	Sb
+5	ve	RV--6----------	AuxP
+6	svém	P8ZS6----------	Atr
+7	projevu	NNIS6-----A----	Adv
+8	slíbil	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	USA	NNIPX-----A----	Sb
+12	nebudou	VB-P---3F-NA---	AuxV
+13	na	RR--6----------	AuxP
+14	konferenci	NNFS6-----A----	Adv
+15	usilovat	Vf--------A----	Obj
+16	o	RR--4----------	AuxP
+17	to	PDNS4----------	Obj
+18	,	Z:-------------	AuxX
+19	aby	J,-------------	AuxC
+20	se	P7-X4----------	AuxT
+21	z	RR--2----------	AuxP
+22	interrupce	NNFS2-----A----	Obj
+23	stala	VpQW---XR-AA---	Atr
+24	metoda	NNFS1-----A----	Sb
+25	kontroly	NNFS2-----A----	Atr
+26	porodnosti	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94209-11-p7s1
+1	Pákistánská	AAFS1----1A----	Atr
+2	premiérka	NNFS1-----A----	Atr
+3	Bénazír	NNFXX-----A----	Atr
+4	Bhuttová	NNFS1-----A----	Sb
+5	vyzvala	VpQW---XR-AA---	Pred
+6	delegáty	NNMP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	nepřijímali	VpMP---XR-NA---	Adv
+10	opatření	NNNP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	která	P4NP1----------	Sb
+13	mohou	VB-P---3P-AA--1	Atr
+14	vyvolat	Vf--------A----	Obj
+15	kontroverzní	AAFP4----1A----	Atr
+16	nálady	NNFP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln94209-11-p7s2
+1	Svět	NNIS1-----A----	Sb
+2	potřebuje	VB-S---3P-AA---	Obj
+3	konsenzus	NNIS4-----A----	Obj
+4	,	Z:-------------	Coord
+5	nepotřebuje	VB-S---3P-NA---	Obj
+6	srážku	NNFS4-----A----	Obj
+7	kultur	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	dodala	VpQW---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+ln94209-11-p8s1
+1	Potlesk	NNIS4-----A----	Obj
+2	sklidil	VpYS---XR-AA---	Pred
+3	projev	NNIS1-----A----	Sb
+4	norské	AAFS2----1A----	Atr
+5	premiérky	NNFS2-----A----	Atr
+6	Gro	NNFXX-----A----	Atr
+7	Harlemové	NNFS2-----A----	Atr
+8	Brundtlandové	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	v	RR--6----------	AuxP
+11	němž	P9ZS6----------	Adv
+12	se	P7-X4----------	AuxT
+13	soustředila	VpQW---XR-AA---	Atr
+14	na	RR--4----------	AuxP
+15	problémy	NNIP4-----A----	Obj
+16	rovnoprávnosti	NNFS2-----A----	Atr
+17	žen	NNFP2-----A----	Atr
+18	ve	RV--6----------	AuxP
+19	světě	NNIS6-----A----	Atr
+20	jako	J,-------------	AuxY
+21	prostředku	NNIS2-----A----	Atv
+22	ke	RV--3----------	AuxP
+23	snížení	NNNS3-----A----	Atr
+24	růstu	NNIS2-----A----	Atr
+25	populace	NNFS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94209-11-p9s1
+1	Více	Dg-------2A----	ExD
+2	na	RR--6----------	AuxP
+3	straně	NNFS6-----A----	ExD
+4	6	C=-------------	Atr
+

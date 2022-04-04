@@ -1,0 +1,1209 @@
+ln95048-028-p1s1
+1	Bible	NNFS1-----A----	ExD
+2	-	Z:-------------	Apos
+3	postavy	NNFP1-----A----	ExD
+4	a	J^-------------	Coord
+5	příběhy	NNIP1-----A----	ExD
+
+ln95048-028-p2s1
+1	Z	RR--2----------	AuxP
+2	knihy	NNFS2-----A----	Obj
+3	Elie	NNMSX-----A----	Atr
+4	Wiesela	NNMS2-----A----	Atr
+5	Kniha	NNFS1-----A----	Atr
+6	Bible	NNFS1-----A----	Atr
+7	-	Z:-------------	Apos
+8	postavy	NNFP1-----A----	Atr
+9	a	J^-------------	Coord
+10	příběhy	NNIP1-----A----	Atr
+11	(	Z:-------------	AuxG
+12	vydal	VpYS---XR-AA---	Pred
+13	Sefer	NNIS1-----A----	Sb
+14	)	Z:-------------	AuxG
+15	vznikla	VpQW---XR-AA--1	Pred
+16	uspořádáním	NNNS7-----A----	Adv
+17	původních	AAFP2----1A----	Atr
+18	přednášek	NNFP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	které	P4FP4----------	Obj
+21	Elie	NNMS1-----A----	Atr
+22	Wiesel	NNMS1-----A----	Sb
+23	(	Z:-------------	ExD
+24	1928	C=-------------	ExD
+25	)	Z:-------------	ExD
+26	,	Z:-------------	AuxX
+27	laureát	NNMS1-----A----	Sb
+28	Nobelovy	AUFS2M---------	Atr
+29	ceny	NNFS2-----A----	Atr
+30	za	RR--4----------	AuxP
+31	mír	NNIS4-----A----	Atr
+32	,	Z:-------------	Apos
+33	americký	AAMS1----1A----	Atr
+34	spisovatel	NNMS1-----A----	Sb
+35	a	J^-------------	Coord
+36	náboženský	AAMS1----1A----	Atr
+37	myslitel	NNMS1-----A----	Sb
+38	rumunského	AAIS2----1A----	Atr
+39	původu	NNIS2-----A----	Atr
+40	píšící	AGMS1-----A----	Atr
+41	ve	RV--6----------	AuxP
+42	francouzštině	NNFS6-----A----	Adv
+43	,	Z:-------------	AuxX
+44	proslovil	VpYS---XR-AA---	Atr
+45	na	RR--6----------	AuxP
+46	Sorbonně	NNFS6-----A----	Adv
+47	a	J^-------------	Coord
+48	na	RR--6----------	AuxP
+49	několika	Ca--6----------	Atr
+50	amerických	AAFP6----1A----	Atr
+51	univerzitách	NNFP6-----A----	Adv
+52	.	Z:-------------	AuxK
+
+ln95048-028-p2s2
+1	Přemýšlí	VB-S---3P-AA---	Pred
+2	v	RR--6----------	AuxP
+3	nich	P5XP6--3-------	Adv
+4	o	RR--6----------	AuxP
+5	klíčových	AAFP6----1A----	Atr
+6	postavách	NNFP6-----A----	Obj
+7	Starého	AAIS2----1A----	Atr
+8	zákona	NNIS2-----A----	Atr
+9	(	Z:-------------	AuxG
+10	Adam	NNMS1-----A----	ExD
+11	,	Z:-------------	AuxX
+12	Kain	NNMS1-----A----	ExD
+13	a	J^-------------	Coord
+14	Ábel	NNMS1-----A----	ExD
+15	,	Z:-------------	AuxX
+16	Izák	NNMS1-----A----	ExD
+17	,	Z:-------------	AuxX
+18	Jákob	NNMS1-----A----	ExD
+19	,	Z:-------------	AuxX
+20	Josef	NNMS1-----A----	ExD
+21	,	Z:-------------	AuxX
+22	Mojžíš	NNMS1-----A----	ExD
+23	,	Z:-------------	Coord
+24	Job	NNMS1-----A----	ExD
+25	)	Z:-------------	AuxG
+26	jako	J,-------------	AuxY
+27	člověk	NNMS1-----A----	AtvV
+28	konce	NNIS2-----A----	Atr
+29	dvacátého	CrNS2----------	Atr
+30	století	NNNS2-----A----	Atr
+31	,	Z:-------------	Coord
+32	konfrontuje	VB-S---3P-AA---	Pred
+33	jejich	PSXXXXP3-------	Atr
+34	příběhy	NNIP4-----A----	Obj
+35	se	RV--7----------	AuxP
+36	svým	P8ZS7----------	Atr
+37	osudem	NNIS7-----A----	Obj
+38	,	Z:-------------	Coord
+39	se	RV--7----------	AuxP
+40	zkušeností	NNFS7-----A----	Obj
+41	člověka	NNMS2-----A----	Atr
+42	,	Z:-------------	AuxX
+43	jenž	PJYS1----------	Sb
+44	přežil	VpYS---XR-AA---	Atr
+45	Osvětim	NNFS4-----A----	Obj
+46	,	Z:-------------	AuxX
+47	"	Z:-------------	AuxG
+48	neboť	J^-------------	Coord
+49	židovské	AAFP1----1A----	Atr
+50	dějiny	NNFP1-----A----	Sb
+51	se	P7-X4----------	AuxT
+52	odehrávají	VB-P---3P-AA---	Pred
+53	v	RR--6----------	AuxP
+54	přítomnosti	NNFS6-----A----	Adv
+55	"	Z:-------------	AuxG
+56	.	Z:-------------	AuxK
+
+ln95048-028-p2s3
+1	Náročný	AAIS4----1A----	Atr
+2	text	NNIS4-----A----	Obj
+3	přeložila	VpQW---XR-AA---	Pred
+4	z	RR--2----------	AuxP
+5	francouzštiny	NNFS2-----A----	Adv
+6	Alena	NNFS1-----A----	Atr
+7	Bláhová	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95048-028-p2s4
+1	Jako	J,-------------	AuxY
+2	dítě	NNNS1-----A----	AtvV
+3	jsem	VB-S---1P-AA---	AuxV
+4	čítával	VpYS---XR-AA---	Pred
+5	tyto	PDIP4----------	Atr
+6	biblické	AAIP4----1A----	Atr
+7	příběhy	NNIP4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	okouzlením	NNNS7-----A----	Adv
+10	,	Z:-------------	AuxX
+11	jež	PJNS1----------	Sb
+12	se	P7-X4----------	AuxT
+13	mísilo	VpNS---XR-AA---	Atr
+14	s	RR--7----------	AuxP
+15	úzkostí	NNFS7-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95048-028-p2s5
+1	Představoval	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	si	P7-X3----------	AuxT
+4	Izáka	NNMS4-----A----	Obj
+5	na	RR--6----------	AuxP
+6	oltáři	NNIS6-----A----	Adv
+7	a	J^-------------	Coord
+8	plakal	VpYS---XR-AA---	Pred
+9	jsem	VB-S---1P-AA---	AuxV
+10	.	Z:-------------	AuxK
+
+ln95048-028-p2s6
+1	Viděl	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	Josefa	NNMS4-----A----	Obj
+4	,	Z:-------------	Apos
+5	vládce	NNMS4-----A----	Obj
+6	Egypta	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	a	J^-------------	Coord
+9	smál	VpYS---XR-AA---	Pred
+10	jsem	VB-S---1P-AA---	AuxV
+11	se	P7-X4----------	AuxT
+12	.	Z:-------------	AuxK
+
+ln95048-028-p2s7
+1	Proč	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	k	RR--3----------	AuxP
+4	nim	P5XP3--3-------	Adv
+5	vracet	Vf--------A----	Pred
+6	?	Z:-------------	AuxK
+
+ln95048-028-p2s8
+1	Je	VB-S---3P-AA---	Pred
+2	na	RR--6----------	AuxP
+3	vypravěči	NNMS6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	to	PDNS4----------	Obj
+7	vysvětlil	VpYS---XR-AA---	Sb
+8	.	Z:-------------	AuxK
+
+ln95048-028-p3s1
+1	Jelikož	J,-------------	AuxC
+2	je	VB-S---3P-AA---	Adv
+3	více	Dg-------2A----	Adv
+4	žákem	NNMS7-----A----	Pnom
+5	nežli	J,-------------	AuxC
+6	čímkoli	PZ--7---------1	ExD
+7	jiným	AANS7----1A----	Atr
+8	,	Z:-------------	AuxX
+9	nebude	VB-S---3F-NA---	Pred
+10	jeho	PSXXXZS3-------	Atr
+11	cílem	NNIS7-----A----	Pnom
+12	historická	AAFS1----1A----	Atr
+13	exegeze	NNFS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	nýbrž	J^-------------	Coord
+16	obnovení	NNNS1-----A----	Sb
+17	živého	AAIS2----1A----	Atr
+18	vztahu	NNIS2-----A----	Atr
+19	ke	RV--3----------	AuxP
+20	vzdáleným	AAFP3----1A----	Atr
+21	,	Z:-------------	AuxX
+22	zároveň	Db-------------	Adv
+23	však	J^-------------	Coord
+24	skrytě	Dg-------1A----	Adv
+25	přítomným	AAFP3----1A----	Atr
+26	postavám	NNFP3-----A----	Atr
+27	,	Z:-------------	AuxX
+28	jež	PJFP1----------	Sb
+29	utvářely	VpTP---XR-AA---	Atr
+30	jeho	PSXXXZS3-------	Atr
+31	bytost	NNFS4-----A----	Obj
+32	.	Z:-------------	AuxK
+
+ln95048-028-p3s2
+1	Bude	VB-S---3F-AA---	AuxV
+2	se	P7-X4----------	AuxT
+3	snažit	Vf--------A----	Pred
+4	rekonstruovat	Vf--------A----	Obj
+5	jejich	PSXXXXP3-------	Atr
+6	portréty	NNIP4-----A----	Obj
+7	na	RR--6----------	AuxP
+8	základě	NNIS6-----A----	AuxP
+9	biblických	AAIP2----1A----	Atr
+10	a	J^-------------	Coord
+11	midrašických	AAIP2----1A----	Atr
+12	textů	NNIP2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	je	PPXP4--3-------	Obj
+16	posléze	Db-------------	Adv
+17	přesadil	VpYS---XR-AA---	Adv
+18	do	RR--2----------	AuxP
+19	přítomnosti	NNFS2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95048-028-p4s1A
+1	Obětování	NNNS1-----A----	ExD
+2	Izáka	NNMS2-----A----	Atr
+3	příběh	NNIS1-----A----	ExD
+4	přeživšího	AMMS2-----A----	Atr
+
+ln95048-028-p4s1B
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	matoucí	AGIS1-----A----	Atr
+4	příběh	NNIS1-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	v	RR--6----------	AuxP
+7	němž	P9ZS6----------	Adv
+8	vládne	VB-S---3P-AA---	Atr
+9	strach	NNIS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95048-028-p4s2
+1	Strach	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	víra	NNFS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+ln95048-028-p4s3
+1	Strach	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	výzva	NNFS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+ln95048-028-p4s4
+1	Strach	NNIS1-----A----	ExD
+2	a	J^-------------	Coord
+3	smích	NNIS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+ln95048-028-p5s1
+1	V	RR--6----------	AuxP
+2	celé	AAFS6----1A----	Atr
+3	své	P8FS6---------1	Atr
+4	hrůze	NNFS6-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	tento	PDYS1----------	Atr
+7	příběh	NNIS1-----A----	Sb
+8	stal	VpYS---XR-AA---	Pred
+9	zdrojem	NNIS7-----A----	Obj
+10	útěchy	NNFS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	všechny	PLYP4----------	Atr
+13	,	Z:-------------	AuxX
+14	kteří	P4MP1----------	Sb
+15	ho	PHZS4--3-------	Obj
+16	přijali	VpMP---XR-AA---	Atr
+17	za	RR--4----------	AuxP
+18	svůj	P8IS4----------	Obj
+19	a	J^-------------	Coord
+20	předávají	VB-P---3P-AA---	Atr
+21	ho	PHZS4--3-------	Obj
+22	dále	Db------------1	Adv
+23	,	Z:-------------	AuxX
+24	vtiskujíce	VeXP------A----	AtvV
+25	do	RR--2----------	AuxP
+26	něj	P5ZS2--3-------	Adv
+27	svou	P8FS4---------1	Atr
+28	vlastní	AAFS4----1A----	Atr
+29	zkušenost	NNFS4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln95048-028-p6s1
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	příběh	NNIS1-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	v	RR--6----------	AuxP
+6	němž	P9ZS6----------	Adv
+7	je	VB-S---3P-AA---	Atr
+8	obsažen	VsYS---XX-AP---	Pnom
+9	židovský	AAIS1----1A----	Atr
+10	osud	NNIS1-----A----	Sb
+11	v	RR--6----------	AuxP
+12	celé	AAFS6----1A----	Atr
+13	své	P8FS6---------1	Atr
+14	úplnosti	NNFS6-----A----	AtrAdv
+15	,	Z:-------------	AuxX
+16	stejně	Dg-------1A----	Adv
+17	jako	J,-------------	AuxC
+18	plamen	NNIS1-----A----	Sb
+19	obsahuje	VB-S---3P-AA---	Adv
+20	jiskru	NNFS4-----A----	Obj
+21	,	Z:-------------	AuxX
+22	z	RR--2----------	AuxP
+23	níž	P9FS2----------	Obj
+24	se	P7-X4----------	AuxT
+25	rozhořel	VpYS---XR-AA---	Atr
+26	.	Z:-------------	AuxK
+
+ln95048-028-p6s2
+1	Najdeme	VB-P---1P-AA---	Pred
+2	v	RR--6----------	AuxP
+3	něm	P5ZS6--3-------	Adv
+4	všechna	PLNP4----------	Atr
+5	velká	AANP4----1A----	Atr
+6	témata	NNNP4-----A----	Obj
+7	,	Z:-------------	Coord
+8	všechny	PLFP4----------	Atr
+9	vášně	NNFP4-----A----	Obj
+10	a	J^-------------	Coord
+11	všechny	PLYP4----------	Atr
+12	neustále	Dg-------1A----	Adv
+13	se	P7-X4----------	AuxT
+14	vracející	AGIP4-----A----	Atr
+15	motivy	NNIP4-----A----	Obj
+16	dobrodružství	NNNS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	zvaného	AANS2----1A----	Atr
+19	judaismus	NNIS1-----A----	Adv
+20	:	Z:-------------	Apos
+21	úzkost	NNFS4-----A----	Obj
+22	člověka	NNMS2-----A----	Atr
+23	tváří	NNFS7-----A----	ExD
+24	v	RR--4----------	AuxP
+25	tvář	NNFS4-----A----	ExD
+26	Bohu	NNMS3-----A----	ExD
+27	,	Z:-------------	AuxX
+28	jeho	PSXXXZS3-------	Atr
+29	hledání	NNNS4-----A----	Obj
+30	čistoty	NNFS2-----A----	Atr
+31	a	J^-------------	Coord
+32	smyslu	NNIS2-----A----	Atr
+33	,	Z:-------------	AuxX
+34	jeho	PSXXXZS3-------	Atr
+35	rozpolcenost	NNFS4-----A----	Obj
+36	mezi	RR--7----------	AuxP
+37	absolutní	AAFS7----1A----	Atr
+38	vírou	NNFS7-----A----	Atr
+39	a	J^-------------	Coord
+40	absolutní	AAFS7----1A----	Atr
+41	spravedlností	NNFS7-----A----	Atr
+42	,	Z:-------------	Coord
+43	mezi	RR--7----------	AuxP
+44	potřebou	NNFS7-----A----	Atr
+45	poslouchat	Vf--------A----	Atr
+46	Boha	NNMS4-----A----	Obj
+47	a	J^-------------	Coord
+48	potřebou	NNFS7-----A----	Atr
+49	neposlouchat	Vf--------N----	Atr
+50	,	Z:-------------	AuxX
+51	žízeň	NNFS4-----A----	Obj
+52	po	RR--6----------	AuxP
+53	svobodě	NNFS6-----A----	Atr
+54	a	J^-------------	Coord
+55	žízeň	NNFS4-----A----	Obj
+56	po	RR--6----------	AuxP
+57	oběti	NNFS6-----A----	Atr
+58	,	Z:-------------	Coord
+59	touhu	NNFS4-----A----	Obj
+60	ospravedlnit	Vf--------A----	Atr
+61	naději	NNFS4-----A----	Obj
+62	či	J^-------------	Coord
+63	beznaděj	NNFS4-----A----	Obj
+64	slovem	NNNS7-----A----	Adv
+65	a	J^-------------	Coord
+66	tichem	NNNS7-----A----	Adv
+67	,	Z:-------------	Coord
+68	stejným	AANS7----1A----	Atr
+69	slovem	NNNS7-----A----	Adv
+70	a	J^-------------	Coord
+71	stejným	AANS7----1A----	Atr
+72	tichem	NNNS7-----A----	Adv
+73	.	Z:-------------	AuxK
+
+ln95048-028-p6s3
+1	Je	VB-S---3P-AA---	Pred
+2	zde	Db-------------	Adv
+3	vše	PLNS1---------1	Sb
+4	.	Z:-------------	AuxK
+
+ln95048-028-p7s1
+1	Již	Db-------------	AuxZ
+2	sama	PLFS1----------	Atv
+3	forma	NNFS1-----A----	Sb
+4	tohoto	PDZS2----------	Atr
+5	příběhu	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	přísná	AAFS1----1A----	Atr
+8	a	J^-------------	Coord
+9	silná	AAFS1----1A----	Atr
+10	,	Z:-------------	AuxX
+11	nemající	AGFS1-----N----	Atr
+12	v	RR--6----------	AuxP
+13	Knize	NNFS6-----A----	Adv
+14	knih	NNFP2-----A----	Atr
+15	obdoby	NNFS2-----A----	Obj
+16	,	Z:-------------	AuxX
+17	nám	PP-P3--1-------	Adv
+18	bere	VB-S---3P-AA---	Pred
+19	dech	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln95048-028-p7s2
+1	Každé	AANS1----1A----	Atr
+2	jeho	PSXXXZS3-------	Atr
+3	slovo	NNNS1-----A----	Sb
+4	zvučí	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	nekonečnu	NNNS6-----A---1	Adv
+7	,	Z:-------------	AuxX
+8	vyvolává	VB-S---3P-AA---	Pred
+9	konflikty	NNIP4-----A----	Obj
+10	a	J^-------------	Coord
+11	dramata	NNNP4-----A----	Obj
+12	a	J^-------------	Coord
+13	odhaluje	VB-S---3P-AA---	Pred
+14	celé	AANS4----1A----	Atr
+15	okolí	NNNS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	opírajíc	VeHS------A----	Atv
+18	se	P7-X4----------	AuxT
+19	přitom	Db-------------	Adv
+20	o	RR--4----------	AuxP
+21	minulost	NNFS4-----A----	Obj
+22	a	J^-------------	Coord
+23	pokračujíc	VeHS------A----	Atv
+24	do	RR--2----------	AuxP
+25	budoucnosti	NNFS2-----A----	Adv
+26	,	Z:-------------	AuxX
+27	aby	J,-------------	AuxC
+28	nakonec	Db-------------	Adv
+29	vyvrcholilo	VpNS---XR-AA---	Adv
+30	v	RR--6----------	AuxP
+31	teatrální	AAFS6----1A----	Atr
+32	scéně	NNFS6-----A----	Adv
+33	,	Z:-------------	AuxX
+34	jež	PJFS1----------	Sb
+35	obdařuje	VB-S---3P-AA---	Atr
+36	postavy	NNFP4-----A----	Obj
+37	jinou	AAFS7----1A----	Atr
+38	lidskou	AAFS7----1A----	Atr
+39	dimenzí	NNFS7-----A----	Obj
+40	,	Z:-------------	Coord
+41	jiným	AAIS7----1A----	Atr
+42	rozměrem	NNIS7-----A----	Obj
+43	.	Z:-------------	AuxK
+
+ln95048-028-p7s3
+1	Situace	NNFS1-----A----	Sb
+2	obtěžkaná	AAFS1----1A----	Atr
+3	metafyzickými	AAFP7----1A----	Atr
+4	otázkami	NNFP7-----A----	Obj
+5	však	J^-------------	Coord
+6	zůstává	VB-S---3P-AA---	Pred
+7	každým	AAIS7----1A----	Atr
+8	coulem	NNIS7-----A----	Adv
+9	skutečná	AAFS1----1A----	Obj
+10	,	Z:-------------	Coord
+11	palčivě	Dg-------1A----	Adv
+12	aktuální	AAFS1----1A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95048-028-p8s1
+1	Tento	PDYS1----------	Atr
+2	prastarý	AAIS1----1A----	Atr
+3	příběh	NNIS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	stále	Db-------------	Adv
+6	naším	PSZS7-P1-------	Atr
+7	příběhem	NNIS7-----A----	Pnom
+8	a	J^-------------	Coord
+9	zůstane	VB-S---3P-AA---	Pred
+10	jím	PPZS7--3-------	Obj
+11	v	RR--6----------	AuxP
+12	tom	PDZS6----------	Atr
+13	nejdůvěrnějším	AAIS6----3A----	Atr
+14	smyslu	NNIS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95048-028-p8s2
+1	Každý	AAMS1----1A----	Sb
+2	z	RR--2----------	AuxP
+3	nás	PP-P2--1-------	Atr
+4	je	VB-S---3P-AA---	Pred
+5	povolán	VsYS---XX-AP---	Pnom
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	v	RR--6----------	AuxP
+9	něm	P5ZS6--3-------	Adv
+10	sehrál	VpYS---XR-AA---	Obj
+11	svoji	P8FS4----------	Atr
+12	roli	NNFS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95048-028-p8s3
+1	Jakou	P4FS4----------	ExD
+2	?	Z:-------------	AuxK
+
+ln95048-028-p8s4
+1	Jsme	VB-P---1P-AA---	Pred
+2	Abraham	NNMS1-----A----	Pnom
+3	nebo	J^-------------	Coord
+4	Izák	NNMS1-----A----	Pnom
+5	?	Z:-------------	AuxK
+
+ln95048-028-p8s5
+1	Jsme	VB-P---1P-AA---	Pred
+2	Jákob	NNMS1-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	to	PDNS1----------	AuxY
+5	znamená	VB-S---3P-AA---	Apos
+6	Izrael	NNIS4-----A----	Pnom
+7	.	Z:-------------	AuxK
+
+ln95048-028-p8s6
+1	A	J^-------------	Coord
+2	Izrael	NNIS1-----A----	Sb
+3	začíná	VB-S---3P-AA---	Pred
+4	Abrahamem	NNMS7-----A----	Adv
+5	.	Z:-------------	AuxK
+
+ln95048-028-p9s1
+1	Jednoho	ClZS2----------	Atr
+2	dne	NNIS2-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	však	J^-------------	Coord
+5	Bůh	NNMS1-----A----	Sb
+6	rozhodne	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	Abrahama	NNMS4-----A----	Obj
+10	vyzkouší	VB-S---3P-AA---	Obj
+11	podesáté	Cv-------------	Adv
+12	a	J^-------------	Coord
+13	naposled	Db-------------	Adv
+14	:	Z:-------------	Coord
+15	Vezmi	Vi-S---2--A----	ExD
+16	svého	P8MS4----------	Atr
+17	syna	NNMS4-----A----	Obj
+18	a	J^-------------	Coord
+19	přines	Vi-S---2--A----	ExD
+20	mi	PH-S3--1-------	Obj
+21	jej	PPZS4--3------2	Obj
+22	za	RR--4----------	AuxP
+23	oběť	NNFS4-----A----	Atv
+24	.	Z:-------------	AuxK
+
+ln95048-028-p9s2
+1	Užívá	VB-S---3P-AA---	Pred
+2	přitom	Db-------------	Adv
+3	výrazu	NNIS2-----A----	Obj
+4	ola	NNXXX-----A----	Atr
+5	,	Z:-------------	Coord
+6	což	PE--1----------	Sb
+7	znamená	VB-S---3P-AA---	Pred
+8	oběť	NNFS4-----A----	Obj
+9	,	Z:-------------	Apos
+10	holocaust	NNIS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95048-028-p9s3
+1	A	J^-------------	Coord
+2	Abraham	NNMS1-----A----	Sb
+3	poslechne	VB-S---3P-AA---	Pred
+4	.	Z:-------------	AuxK
+
+ln95048-028-p9s4
+1	Bez	RR--2----------	AuxP
+2	řečí	NNFP2-----A----	ExD
+3	.	Z:-------------	AuxK
+
+ln95048-028-p9s5
+1	Aniž	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	pokoušel	VpYS---XR-AA---	Adv
+5	pochopit	Vf--------A----	Obj
+6	,	Z:-------------	Coord
+7	smlouvat	Vf--------A----	Obj
+8	.	Z:-------------	AuxK
+
+ln95048-028-p9s6
+1	Bez	RR--2----------	AuxP
+2	jediného	AANS2----1A----	Atr
+3	slova	NNNS2-----A----	ExD
+4	,	Z:-------------	Coord
+5	bez	RR--2----------	AuxP
+6	jediné	AAFS2----1A----	Atr
+7	slzy	NNFS2-----A----	ExD
+8	.	Z:-------------	AuxK
+
+ln95048-028-p9s7
+1	Nikomu	PWM-3----------	Obj
+2	se	P7-X4----------	AuxT
+3	nesvěří	VB-S---3P-NA---	Pred
+4	,	Z:-------------	AuxX
+5	ani	J^-------------	Apos
+6	své	P8FS3---------1	Atr
+7	ženě	NNFS3-----A----	Atr
+8	Sáře	NNFS3-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95048-028-p9s8
+1	Prostě	Dg-------1A----	AuxY
+2	jen	TT-------------	AuxZ
+3	vyčká	VB-S---3P-AA---	Pred
+4	následujícího	AGNS2-----A----	Atr
+5	rána	NNNS2-----A----	Obj
+6	,	Z:-------------	AuxX
+7	a	J^-------------	Coord
+8	zatímco	J,-------------	AuxC
+9	Sára	NNFS1-----A----	Sb
+10	ještě	Db-------------	Adv
+11	spí	VB-S---3P-AA---	Adv
+12	,	Z:-------------	AuxX
+13	zapřáhne	VB-S---3P-AA---	Pred
+14	osla	NNMS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95048-028-p9s9
+1	Se	RV--7----------	AuxP
+2	synem	NNMS7-----A----	Adv
+3	a	J^-------------	Coord
+4	v	RR--6----------	AuxP
+5	doprovodu	NNIS6-----A----	Adv
+6	dvou	ClXP2----------	Atr
+7	sluhů	NNMP2-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	vydává	VB-S---3P-AA---	Pred
+10	na	RR--4----------	AuxP
+11	cestu	NNFS4-----A----	Adv
+12	k	RR--3----------	AuxP
+13	hoře	NNFS3-----A----	Atr
+14	Moria	NNFXX-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95048-028-p9s10
+1	A	J^-------------	Coord
+2	pak	Db-------------	Adv
+3	,	Z:-------------	Apos
+4	po	RR--6----------	AuxP
+5	třídenním	AANS6----1A----	Atr
+6	putování	NNNS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	jež	PJNS1----------	Sb
+9	podle	RR--2----------	AuxP
+10	Kierkegaarda	NNMS2-----A----	Adv
+11	trvalo	VpNS---XR-AA---	Atr
+12	déle	Dg-------2A----	Adv
+13	nežli	J,-------------	AuxC
+14	oněch	PDXP2----------	Atr
+15	čtyři	ClXP4----------	Atr
+16	tisíce	NNIP4-----A----	Adv
+17	let	NNNP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	které	P4IP1----------	Sb
+20	nás	PP-P4--1-------	Obj
+21	od	RR--2----------	AuxP
+22	události	NNFS2-----A----	Obj
+23	dělí	VB-P---3P-AA---	Atr
+24	-	Z:-------------	AuxG
+25	zanechávají	VB-P---3P-AA---	Pred
+26	otec	NNMS1-----A----	Sb
+27	se	RV--7----------	AuxP
+28	synem	NNMS7-----A----	Adv
+29	sluhy	NNMP4-----A----	Obj
+30	i	J^-------------	Coord
+31	osla	NNMS4-----A----	Obj
+32	na	RR--6----------	AuxP
+33	úpatí	NNNS6-----A----	Adv
+34	a	J^-------------	Coord
+35	vydávají	VB-P---3P-AA---	Pred
+36	se	P7-X4----------	AuxT
+37	na	RR--4----------	AuxP
+38	cestu	NNFS4-----A----	Adv
+39	k	RR--3----------	AuxP
+40	vrcholku	NNIS3-----A----	Atr
+41	hory	NNFS2-----A----	Atr
+42	.	Z:-------------	AuxK
+
+ln95048-028-p9s11
+1	Tam	Db-------------	Adv
+2	vztyčují	VB-P---3P-AA---	Pred
+3	oltář	NNIS4-----A----	Obj
+4	a	J^-------------	Coord
+5	připravují	VB-P---3P-AA---	Pred
+6	rituální	AAFS4----1A----	Atr
+7	scénu	NNFS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln95048-028-p9s12
+1	Vše	PLNS1---------1	Sb
+2	je	VB-S---3P-AA---	Pred
+3	po	RR--6----------	AuxP
+4	ruce	NNFS6-----A----	Adv
+5	:	Z:-------------	Apos
+6	dřevo	NNNS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	nůž	NNIS1-----A----	Sb
+9	,	Z:-------------	Coord
+10	oheň	NNIS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95048-028-p9s13
+1	Obětující	AGMS1-----A----	Sb
+2	i	J^-------------	Coord
+3	oběť	NNFS1-----A----	Sb
+4	si	P7-X3----------	Obj
+5	dlouho	Dg-------1A----	Adv
+6	hledí	VB-P---3P-AA---	Pred
+7	do	RR--2----------	AuxP
+8	očí	NNFP2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln95048-028-p9s14
+1	Na	RR--4----------	AuxP
+2	okamžik	NNIS4-----A----	Adv
+3	zatají	VB-S---3P-AA---	Pred
+4	celé	AANS1----1A----	Atr
+5	Stvoření	NNNS1-----A----	Sb
+6	dech	NNIS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln95048-028-p9s15
+1	Jeden	ClYS1----------	Atr
+2	a	J^-------------	Coord
+3	týž	PDYS1----------	Atr
+4	strach	NNIS1-----A----	Sb
+5	zachvátí	VB-S---3P-AA---	Pred
+6	otce	NNMS4-----A----	Obj
+7	i	J^-------------	Coord
+8	syna	NNMS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95048-028-p9s16
+1	Midraš	NNIS1-----A----	Sb
+2	nám	PP-P3--1-------	Obj
+3	popisuje	VB-S---3P-AA---	Pred
+4	strach	NNIS4-----A----	Obj
+5	Izákův	AUIS4M---------	Atr
+6	:	Z:-------------	AuxG
+7	položen	VsYS---XX-AP---	AtvV
+8	na	RR--6----------	AuxP
+9	oltáři	NNIS6-----A----	Adv
+10	se	RV--7----------	AuxP
+11	zavázanýma	AAFD7----1A----	Atr
+12	rukama	NNFD7-----A----	Adv
+13	i	J^-------------	Coord
+14	nohama	NNFD7-----A----	Adv
+15	,	Z:-------------	AuxX
+16	vidí	VB-S---3P-AA---	Adv
+17	Izák	NNMS1-----A----	Sb
+18	jeruzalémský	AAIS4----1A----	Atr
+19	Chrám	NNIS4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	jak	J,-------------	Adv
+22	se	P7-X4----------	AuxT
+23	bortí	VB-S---3P-AA---	Atv
+24	a	J^-------------	Coord
+25	znovu	Db-------------	Adv
+26	povstává	VB-S---3P-AA---	Atv
+27	:	Z:-------------	AuxG
+28	a	J^-------------	Coord
+29	v	RR--6----------	AuxP
+30	okamžiku	NNIS6-----A----	Adv
+31	nejvyšší	AAFS2----3A----	Atr
+32	zkoušky	NNFS2-----A----	Atr
+33	Izák	NNMS1-----A----	Sb
+34	pochopí	VB-S---3P-AA---	Adv
+35	,	Z:-------------	AuxX
+36	že	J,-------------	AuxC
+37	to	PDNS1----------	Sb
+38	,	Z:-------------	AuxX
+39	co	PQ--1----------	Sb
+40	se	P7-X4----------	AuxT
+41	děje	VB-S---3P-AA---	Atr
+42	jemu	PPZS3--3-------	Obj
+43	,	Z:-------------	AuxX
+44	se	P7-X4----------	AuxT
+45	přihodí	VB-S---3P-AA---	Obj
+46	i	J^-------------	AuxZ
+47	jiným	AAMP3----1A----	Obj
+48	;	Z:-------------	Coord
+
+ln95048-028-p9s17
+1	že	J,-------------	AuxC
+2	tento	PDYS1----------	Atr
+3	příběh	NNIS1-----A----	Sb
+4	nikdy	Db-------------	Adv
+5	neskončí	VB-S---3P-NA---	Obj
+6	,	Z:-------------	Coord
+7	jeho	PSXXXZS3-------	Atr
+8	děti	NNFP1-----A----	Sb
+9	ho	PHZS4--3-------	Obj
+10	budou	VB-P---3F-AA---	AuxV
+11	prodělávat	Vf--------A----	Obj
+12	i	J^-------------	AuxZ
+13	v	RR--6----------	AuxP
+14	budoucnu	NNNS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95048-028-p9s18
+1	Nikdy	Db-------------	Adv
+2	nebudou	VB-P---3F-NA---	AuxV
+3	ušetřeny	VsTP---XX-AP---	Pred
+4	utrpení	NNNS2-----A----	Obj
+5	.	Z:-------------	AuxK
+
+ln95048-028-p9s19
+1	Otcova	AUFS1M---------	Atr
+2	úzkost	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	naopak	Db-------------	Adv
+5	netýká	VB-S---3P-NA---	Pred
+6	budoucnosti	NNFS2-----A----	Obj
+7	;	Z:-------------	AuxK
+
+ln95048-028-p9s20
+1	bude	VB-S---3F-AA---	AuxV
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	muset	Vf--------A----	Adv
+5	obětovat	Vf--------A----	Obj
+6	syna	NNMS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	poslechl	VpYS---XR-AA--1	Adv
+10	Boha	NNMS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	bude	VB-S---3F-AA---	AuxV
+13	muset	Vf--------A----	Pred
+14	obětovat	Vf--------A----	Obj
+15	i	J^-------------	AuxZ
+16	své	P8NS4---------1	Atr
+17	vědění	NNNS4-----A----	Obj
+18	o	RR--6----------	AuxP
+19	Bohu	NNMS6-----A----	Atr
+20	a	J^-------------	Coord
+21	svoji	P8FS4----------	Atr
+22	víru	NNFS4-----A----	Obj
+23	v	RR--4----------	AuxP
+24	něj	P5ZS4--3-------	Atr
+25	.	Z:-------------	AuxK
+
+ln95048-028-p9s21
+1	Jestliže	J,-------------	AuxC
+2	Izák	NNMS1-----A----	Sb
+3	zemře	VB-S---3P-AA---	Adv
+4	,	Z:-------------	AuxX
+5	komu	PKM-3----------	Obj
+6	otec	NNMS1-----A----	Sb
+7	předá	VB-S---3P-AA---	Pred
+8	tuto	PDFS4----------	Atr
+9	víru	NNFS4-----A----	Obj
+10	,	Z:-------------	Coord
+11	toto	PDNS4----------	Atr
+12	poznání	NNNS4-----A----	Obj
+13	?	Z:-------------	AuxK
+
+ln95048-028-p9s22
+1	Izákův	AUIS1M---------	Atr
+2	konec	NNIS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	znamenal	VpYS---XR-AA---	Pred
+5	konec	NNIS4-----A----	Obj
+6	neuvěřitelného	AANS2----1N----	Atr
+7	dobrodružství	NNNS2-----A----	Atr
+8	:	Z:-------------	Coord
+9	ten	PDYS1----------	Sb
+10	,	Z:-------------	AuxX
+11	kdo	PKM-1----------	Sb
+12	byl	VpYS---XR-AA---	Atr
+13	první	CrMS1----------	Pnom
+14	,	Z:-------------	AuxX
+15	by	Vc-------------	AuxV
+16	byl	VpYS---XR-AA---	Pred
+17	zároveň	Db-------------	Adv
+18	i	J^-------------	AuxZ
+19	poslední	AAMS1----1A----	Pnom
+20	.	Z:-------------	AuxK
+
+ln95048-028-p9s23
+1	Sotva	Db-------------	Adv
+2	existuje	VB-S---3P-AA---	Pred
+3	hlubší	AAFS1----2A----	Atr
+4	a	J^-------------	Coord
+5	ničivější	AAFS1----2A----	Atr
+6	úzkost	NNFS1-----A----	Sb
+7	:	Z:-------------	Coord
+8	Žil	VpYS---XR-AA---	Pred
+9	jsem	VB-S---1P-AA---	AuxV
+10	,	Z:-------------	AuxX
+11	trpěl	VpYS---XR-AA---	Pred
+12	a	J^-------------	Coord
+13	způsobil	VpYS---XR-AA---	Pred
+14	utrpení	NNNS4-----A----	Obj
+15	zbytečně	Dg-------1A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95048-028-p10s1
+1	Stal	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	zázrak	NNIS1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+ln95048-028-p10s2
+1	Smrt	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	poražena	VsQW---XX-AP---	Pnom
+4	,	Z:-------------	Coord
+5	osud	NNIS1-----A----	Sb
+6	se	P7-X4----------	AuxT
+7	naplnil	VpYS---XR-AA---	Pred
+8	.	Z:-------------	AuxK
+
+ln95048-028-p10s3
+1	Řez	NNIS1-----A----	Sb
+2	nožem	NNIS7-----A----	Atr
+3	,	Z:-------------	AuxX
+4	jenž	PJYS1----------	Sb
+5	hrozil	VpYS---XR-AA---	Atr
+6	odříznout	Vf--------A----	Obj
+7	nit	NNFS4-----A----	Obj
+8	rodu	NNIS2-----A----	Atr
+9	-	Z:-------------	AuxG
+10	a	J^-------------	Coord
+11	zabránit	Vf--------A----	Obj
+12	zrození	NNNS3-----A----	Obj
+13	Izraele	NNIS2-----A----	Atr
+14	-	Z:-------------	AuxG
+15	je	VB-S---3P-AA---	AuxV
+16	zadržen	VsYS---XX-AP---	Pred
+17	,	Z:-------------	Coord
+18	zrušen	VsYS---XX-AP---	Pred
+19	.	Z:-------------	AuxK
+
+ln95048-028-p11s1
+1	Rozřešilo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	tím	PDZS7----------	Adv
+4	i	J^-------------	AuxZ
+5	tajemství	NNNS1-----A----	Sb
+6	?	Z:-------------	AuxK
+
+ln95048-028-p11s2
+1	Právě	Db-------------	AuxZ
+2	naopak	Db-------------	ExD
+3	.	Z:-------------	AuxK
+
+ln95048-028-p11s3
+1	Z	RR--2----------	AuxP
+2	četby	NNFS2-----A----	Adv
+3	midrašické	AAFS2----1A----	Atr
+4	literatury	NNFS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	zdá	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	je	VB-S---3P-AA---	Sb
+10	ještě	Db-------------	AuxZ
+11	palčivější	AANS1----2A----	Pnom
+12	.	Z:-------------	AuxK
+
+ln95048-028-p11s4
+1	A	J^-------------	Coord
+2	ještě	Db-------------	AuxZ
+3	více	Dg-------2A----	Adv
+4	zneklidňuje	VB-S---3P-AA---	Pred
+5	.	Z:-------------	AuxK
+
+ln95048-028-p12s1
+1	Připusťme	Vi-P---1--A----	Pred
+2	na	RR--4----------	AuxP
+3	okamžik	NNIS4-----A----	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	Bůh	NNMS1-----A----	Sb
+7	chtěl	VpYS---XR-AA---	Obj
+8	potrestat	Vf--------A----	Obj
+9	provinivšího	AMMS4-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	otce	NNMS4-----A----	Obj
+12	;	Z:-------------	AuxK
+
+ln95048-028-p12s2
+1	proč	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	však	J^-------------	Coord
+4	ukládal	VpYS---XR-AA---	Pred
+5	horší	AAIS4----2A----	Atr
+6	-	Z:-------------	AuxG
+7	a	J^-------------	Coord
+8	nejvyšší	AAIS4----3A----	Atr
+9	-	Z:-------------	AuxG
+10	trest	NNIS4-----A----	Obj
+11	synovi	NNMS3-----A----	Obj
+12	?	Z:-------------	AuxK
+
+ln95048-028-p12s3
+1	Proč	Db-------------	Adv
+2	mu	PHZS3--3-------	Obj
+3	Abrahám	NNMS1-----A----	Sb
+4	tuto	PDFS4----------	Atr
+5	otázku	NNFS4-----A----	Obj
+6	nepoložil	VpYS---XR-NA---	Pred
+7	-	Z:-------------	Coord
+8	právě	Db-------------	AuxZ
+9	on	PPYS1--3-------	ExD
+10	,	Z:-------------	AuxX
+11	jenž	PJYS1----------	Sb
+12	si	P7-X3----------	AuxT
+13	dovolil	VpYS---XR-AA---	Atr
+14	odporovat	Vf--------A----	Obj
+15	Bohu	NNMS3-----A----	Obj
+16	ve	RV--6----------	AuxP
+17	věci	NNFS6-----A----	AuxP
+18	Sodomy	NNFS2-----A----	Adv
+19	a	J^-------------	Coord
+20	Gomory	NNFS2-----A----	Adv
+21	!	Z:-------------	AuxK
+
+ln95048-028-p12s4
+1	Podle	RR--2----------	AuxP
+2	midraše	NNIS2-----A----	Adv
+3	znal	VpYS---XR-AA---	Pred
+4	a	J^-------------	Coord
+5	dodržoval	VpYS---XR-AA---	Pred
+6	zákony	NNIP4-----A----	Obj
+7	a	J^-------------	Coord
+8	přikázání	NNNP4-----A----	Obj
+9	Tóry	NNFS2-----A----	Atr
+10	;	Z:-------------	AuxK
+
+ln95048-028-p12s5
+1	nevěděl	VpYS---XR-NA---	Pred
+2	tedy	Db-------------	AuxY
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	svým	P8ZS7----------	Atr
+6	činem	NNIS7-----A----	Adv
+7	zabije	VB-S---3P-AA---	Obj
+8	a	J^-------------	Coord
+9	zmrzačí	VB-S---3P-AA---	Obj
+10	samotný	AAIS4----1A----	Atr
+11	obraz	NNIS4-----A----	Obj
+12	boží	AAIS4----1A----	Atr
+13	?	Z:-------------	AuxK
+
+ln95048-028-p12s6
+1	Nevěděl	VpYS---XR-NA---	Pred
+2	snad	Db-------------	AuxY
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	je	VB-S---3P-AA---	Obj
+6	lépe	Dg-------2A----	Adv
+7	zemřít	Vf--------A----	Sb
+8	než	J,-------------	AuxC
+9	zabít	Vf--------A----	ExD
+10	?	Z:-------------	AuxK
+
+ln95048-028-p12s7
+1	Nevěděl	VpYS---XR-NA---	Pred
+2	-	Z:-------------	AuxG
+3	on	PPYS1--3-------	Sb
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	věděl	VpYS---XR-AA---	Atr
+7	všechno	PLNS4----------	Obj
+8	-	Z:-------------	AuxG
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	v	RR--6----------	AuxP
+12	židovské	AAFS6----1A----	Atr
+13	tradici	NNFS6-----A----	Adv
+14	je	VB-S---3P-AA---	Obj
+15	Bůh	NNMS1-----A----	Sb
+16	povinen	ACYS------A----	Pnom
+17	dodržovat	Vf--------A----	Obj
+18	svůj	P8IS4----------	Atr
+19	vlastní	AAIS4----1A----	Atr
+20	Zákon	NNIS4-----A----	Obj
+21	včetně	RR--2----------	AuxP
+22	toho	PDZS2----------	Adv
+23	nejnaléhavějšího	AAIS2----3A----	Atr
+24	ze	RV--2----------	AuxP
+25	všech	PLXP2----------	Adv
+26	:	Z:-------------	Apos
+27	Nezabiješ	VB-S---2P-NA---	Adv
+28	!	Z:-------------	AuxK
+
+ln95048-028-p12s8
+1	Nebo	J^-------------	Coord
+2	si	P7-X3----------	AuxT
+3	snad	Db-------------	AuxY
+4	máme	VB-P---1P-AA---	Pred
+5	představovat	Vf--------A----	Obj
+6	nějakou	PZFS4----------	Atr
+7	lidštější	AAFS4----2A----	Atr
+8	motivaci	NNFS4-----A----	Obj
+9	podivného	AANS2----1A----	Atr
+10	Abrahamova	AUNS2M---------	Atr
+11	počínání	NNNS2-----A----	Atr
+12	?	Z:-------------	AuxK
+
+ln95048-028-p12s9
+1	Nepřiznaný	AAIS1----1N----	Atr
+2	otcův	AUIS1M---------	Atr
+3	odpor	NNIS1-----A----	ExD
+4	vůči	RR--3----------	AuxP
+5	synovi	NNMS3-----A----	Atr
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	ho	PHZS4--3-------	Obj
+9	má	VB-S---3P-AA---	Atr
+10	přežít	Vf--------A----	Obj
+11	?	Z:-------------	AuxK
+
+ln95048-028-p12s10
+1	Nebo	J^-------------	Coord
+2	potřebu	NNFS4-----A----	ExD
+3	člověka	NNMS2-----A----	Atr
+4	zabíjet	Vf--------A----	Atr
+5	to	PDNS4----------	Obj
+6	,	Z:-------------	AuxX
+7	co	PQ--4----------	Obj
+8	miluje	VB-S---3P-AA---	Atr
+9	?	Z:-------------	AuxK
+
+ln95048-028-p13s1
+1	Otázky	NNFP1-----A----	Sb
+2	tryskající	AGFP1-----A----	Atr
+3	z	RR--2----------	AuxP
+4	této	PDFS2----------	Atr
+5	neproniknutelné	AAFS2----1N----	Atr
+6	události	NNFS2-----A----	Adv
+7	z	RR--2----------	AuxP
+8	ní	P5FS2--3-------	Obj
+9	činí	VB-P---3P-AA---	Pred
+10	jedno	ClNS4----------	Obj
+11	z	RR--2----------	AuxP
+12	největších	AANP2----3A----	Atr
+13	tajemství	NNNP2-----A----	Atr
+14	naší	PSFS2-P1-------	Atr
+15	historie	NNFS2-----A----	Atr
+16	;	Z:-------------	AuxK
+
+ln95048-028-p13s2
+1	a	J^-------------	Coord
+2	toto	PDNS1----------	Atr
+3	tajemství	NNNS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	tak	Db-------------	Adv
+6	obsáhlé	AANS1----1A----	Pnom
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	přesahuje	VB-S---3P-AA---	Adv
+10	nejen	TT-------------	AuxZ
+11	fakta	NNNP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	nýbrž	J^-------------	Coord
+14	i	J^-------------	AuxZ
+15	jména	NNNP4-----A----	Obj
+16	.	Z:-------------	AuxK
+

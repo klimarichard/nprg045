@@ -1,0 +1,235 @@
+ln94204-1-p1s1
+1	Holešovická	AAFS1----1A----	Atr
+2	tržnice	NNFS1-----A----	ExD
+3	do	RR--2----------	AuxP
+4	nájmu	NNIS2-----A----	ExD
+
+ln94204-1-p2s1
+1	Na	RR--4----------	AuxP
+2	správu	NNFS4-----A----	Adv
+3	a	J^-------------	Coord
+4	obchodní	AANS4----1A----	Atr
+5	využití	NNNS4-----A----	Adv
+6	pražské	AAFS2----1A----	Atr
+7	tržnice	NNFS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Holešovicích	NNFP6-----A----	Atr
+10	byla	VpQW---XR-AA---	AuxV
+11	vypsána	VsQW---XX-AP---	Pred
+12	veřejná	AAFS1----1A----	Atr
+13	obchodní	AAFS1----1A----	Atr
+14	soutěž	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94204-1-p2s2
+1	Zájemci	NNMP1-----A----	Sb
+2	musejí	VB-P---3P-AA---	Pred
+3	své	P8FP4---------1	Atr
+4	nabídky	NNFP4-----A----	Obj
+5	odevzdat	Vf--------A----	Obj
+6	na	RR--6----------	AuxP
+7	pražském	AAIS6----1A----	Atr
+8	magistrátě	NNIS6-----A----	Adv
+9	ráno	Db-------------	Adv
+10	5	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	září	NNNS2-----A----	Adv
+13	v	RR--6----------	AuxP
+14	zapečetěných	AAFP6----1A----	Atr
+15	obálkách	NNFP6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94204-1-p2s3
+1	Do	RR--2----------	AuxP
+2	třiceti	Cn-P2----------	Atr
+3	dnů	NNIP2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	rada	NNFS1-----A----	Sb
+6	pražského	AANS2----1A----	Atr
+7	zastupitelstva	NNNS2-----A----	Atr
+8	měla	VpQW---XR-AA---	Pred
+9	rozhodnout	Vf--------A----	Obj
+10	o	RR--6----------	AuxP
+11	vítězi	NNMS6-----A----	Obj
+12	soutěže	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-1-p2s4
+1	Uvádí	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	to	PDNS1----------	Sb
+4	v	RR--6----------	AuxP
+5	podmínkách	NNFP6-----A----	Adv
+6	výběrového	AANS2----1A----	Atr
+7	řízení	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP4----------	Obj
+10	magistrát	NNIS1-----A----	Sb
+11	zveřejnil	VpYS---XR-AA---	Atr
+12	v	RR--6----------	AuxP
+13	těchto	PDXP6----------	Atr
+14	dnech	NNIP6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94204-1-p3s1
+1	Povinností	NNFS7-----A----	Pnom
+2	budoucího	AAMS2----1A----	Atr
+3	nájemce	NNMS2-----A----	Atr
+4	tohoto	PDZS2----------	Atr
+5	areálu	NNIS2-----A----	Atr
+6	o	RR--6----------	AuxP
+7	rozloze	NNFS6-----A----	Atr
+8	103	C=-------------	Atr
+9	tisíc	ClXS2----------	Atr
+10	metrů	NNIP2-----A----	Atr
+11	čtverečních	AAIP2----1A----	Atr
+12	bude	VB-S---3F-AA---	Pred
+13	mj	Db------------8	Adv
+14	.	Z:-------------	AuxG
+15	péče	NNFS1-----A----	Sb
+16	o	RR--4----------	AuxP
+17	všechny	PLFP4----------	Atr
+18	nemovitosti	NNFP4-----A----	Atr
+19	včetně	RR--2----------	AuxP
+20	jejich	PSXXXXP3-------	Atr
+21	údržby	NNFS2-----A----	Atr
+22	a	J^-------------	Coord
+23	oprav	NNFP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94204-1-p3s2
+1	Nájemce	NNMS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	také	Db-------------	Adv
+4	muset	Vf--------A----	Pred
+5	vyřešit	Vf--------A----	Obj
+6	podmínky	NNFP4-----A----	Obj
+7	parkování	NNNS2-----A----	Atr
+8	pro	RR--4----------	AuxP
+9	návštěvníky	NNMP4-----A----	Atr
+10	tržnice	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	splnit	Vf--------A----	Obj
+13	podmínky	NNFP4-----A----	Obj
+14	Pražského	AAIS2----1A----	Atr
+15	ústavu	NNIS2-----A----	Atr
+16	památkové	AAFS2----1A----	Atr
+17	péče	NNFS2-----A----	Atr
+18	při	RR--6----------	AuxP
+19	úpravách	NNFP6-----A----	Atr
+20	objektů	NNIP2-----A----	Atr
+21	vzhledem	RF-------------	AuxP
+22	k	RR--3----------	AuxP
+23	tomu	PDZS3----------	Adv
+24	,	Z:-------------	AuxX
+25	že	J,-------------	AuxC
+26	jde	VB-S---3P-AA---	Atr
+27	o	RR--4----------	AuxP
+28	kulturní	AAFS4----1A----	Atr
+29	památku	NNFS4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+ln94204-1-p4s1
+1	Hlavní	AANS1----1A----	Atr
+2	město	NNNS1-----A----	Sb
+3	přitom	Db-------------	Adv
+4	počítá	VB-S---3P-AA---	Pred
+5	se	RV--7----------	AuxP
+6	zachováním	NNNS7-----A----	Obj
+7	charakteru	NNIS2-----A----	Atr
+8	holešovické	AAFS2----1A----	Atr
+9	tržnice	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94204-1-p4s2
+1	Délka	NNFS1-----A----	Sb
+2	nájmu	NNIS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	stanovena	VsQW---XX-AP---	Pnom
+5	na	RR--4----------	AuxP
+6	20	C=-------------	Adv
+7	let	NNNP2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	možností	NNFS7-----A----	Adv
+10	dalšího	AAIS2----1A----	Atr
+11	pronájmu	NNIS2-----A----	Atr
+12	na	RR--4----------	AuxP
+13	10	C=-------------	Atr
+14	let	NNNP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	a	J^-------------	AuxY
+17	to	PDNS4----------	AuxY
+18	třikrát	Cv-------------	Atr
+19	po	RR--6----------	AuxP
+20	sobě	P6-X6----------	Adv
+21	.	Z:-------------	AuxK
+
+ln94204-1-p4s3
+1	Po	RR--4----------	AuxP
+2	dobu	NNFS4-----A----	Adv
+3	prvních	CrNP2----------	Atr
+4	pěti	Cn-P2----------	Atr
+5	let	NNNP2-----A----	Atr
+6	požaduje	VB-S---3P-AA---	Pred
+7	radnice	NNFS1-----A----	Sb
+8	úhradu	NNFS4-----A----	Obj
+9	ve	RV--6----------	AuxP
+10	výši	NNFS6-----A----	Atr
+11	65	C=-------------	Atr
+12	milionů	NNIP2-----A----	Atr
+13	korun	NNFP2-----A----	Atr
+14	,	Z:-------------	Coord
+15	v	RR--6----------	AuxP
+16	dalších	AANP6----1A----	ExD
+17	pak	Db-------------	ExD
+18	procento	NNNS4-----A----	ExD
+19	z	RR--2----------	AuxP
+20	tržeb	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94204-1-p5s1
+1	Důležité	AANS1----1A----	Pnom
+2	bude	VB-S---3F-AA---	Pred
+3	sladit	Vf--------A----	Sb
+4	koncepčně	Dg-------1A----	Adv
+5	rozvoj	NNIS4-----A----	Obj
+6	tržnice	NNFS2-----A----	Atr
+7	se	RV--7----------	AuxP
+8	sousedními	AAIP7----1A----	Atr
+9	pozemky	NNIP7-----A----	Obj
+10	mezi	RR--7----------	AuxP
+11	nádražím	NNNS7-----A----	Atr
+12	Holešovice	NNFP1-----A----	Atr
+13	a	J^-------------	Coord
+14	Bubny	NNNP7-----A----	Atr
+15	,	Z:-------------	AuxX
+16	kde	Db-------------	Adv
+17	je	VB-S---3P-AA---	Atr
+18	největší	AAIS1----3A----	Atr
+19	nezastavěný	AAIS1----1N----	Atr
+20	prostor	NNIS1-----A----	Sb
+21	v	RR--6----------	AuxP
+22	oblasti	NNFS6-----A----	AuxP
+23	rozšířeného	AANS2----1A----	Atr
+24	centra	NNNS2-----A----	Adv
+25	Prahy	NNFS2-----A----	Atr
+26	a	J^-------------	Coord
+27	kde	Db-------------	Adv
+28	by	Vc-------------	AuxV
+29	v	RR--6----------	AuxP
+30	budoucnu	NNNS6-----A----	Adv
+31	mělo	VpNS---XR-AA---	Atr
+32	vzniknout	Vf--------A----	Obj
+33	moderní	AANS1----1A----	Atr
+34	centrum	NNNS1-----A----	Sb
+35	hlavního	AANS2----1A----	Atr
+36	města	NNNS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln94204-1-p5s2
+1	(	Z:-------------	AuxG
+2	av	NNXXX-----A---8	ExD
+3	,	Z:-------------	Coord
+4	čtk	NNFXX-----A---8	ExD
+5	)	Z:-------------	AuxG
+

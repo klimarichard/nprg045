@@ -1,0 +1,354 @@
+ln95045-111-p1s1
+1	Hutní	AAIS1----1A----	Atr
+2	boom	NNIS1-----A----	Sb
+3	posiluje	VB-S---3P-AA---	Pred
+4	trh	NNIS4-----A----	Obj
+5	koksu	NNIS2-----A----	Atr
+
+ln95045-111-p2s1A
+1	Komparativní	AAFP1----1A----	Atr
+2	výhody	NNFP1-----A----	Sb
+3	českého	AANS2----1A----	Atr
+4	hutnictví	NNNS2-----A----	Atr
+5	budou	VB-P---3F-AA---	AuxV
+6	trvat	Vf--------A----	Pred
+7	až	TT-------------	AuxZ
+8	do	RR--2----------	AuxP
+9	roku	NNIS2-----A---1	Adv
+10	2000	C=-------------	Atr
+
+ln95045-111-p2s1B
+1	Ostrava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-111-p2s1C
+1	Výrobní	AAFP1----1A----	Atr
+2	kapacity	NNFP1-----A----	Sb
+3	Ostravsko	A2--------A----	Atr
+4	-	Z:-------------	Coord
+5	karvinských	AAFP2----1A----	Atr
+6	koksoven	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	jsou	VB-P---3P-AA---	Atr
+10	dceřinou	AAFS7----1A----	Atr
+11	společností	NNFS7-----A----	Pnom
+12	OKD	NNIPX-----A---8	Atr
+13	,	Z:-------------	AuxX
+14	jsou	VB-P---3P-AA---	Pred
+15	pro	RR--4----------	AuxP
+16	letošní	AAIS4----1A----	Atr
+17	rok	NNIS4-----A----	Adv
+18	zcela	Db-------------	Adv
+19	vytíženy	VsTP---XX-AP---	Pnom
+20	.	Z:-------------	AuxK
+
+ln95045-111-p2s2
+1	Podle	RR--2----------	AuxP
+2	ředitele	NNMS2-----A----	Atr
+3	OKK	NNFPX-----A---8	Atr
+4	ing	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Vítězslava	NNMS2-----A----	Atr
+7	Hladíka	NNMS2-----A----	Adv
+8	poptávka	NNFS1-----A----	Sb
+9	převyšuje	VB-S---3P-AA---	Pred
+10	výrobní	AAFP4----1A----	Atr
+11	možnosti	NNFP4-----A----	Obj
+12	o	RR--4----------	AuxP
+13	20	C=-------------	Adv
+14	procent	NNNP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95045-111-p2s3
+1	Letošní	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	dosáhne	VB-S---3P-AA---	Pred
+4	1.35	C=-------------	Obj
+5	miliónu	NNIS2-----A----	Atr
+6	tun	NNFP2-----A----	Atr
+7	koksu	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95045-111-p2s4
+1	Přibližně	Dg-------1A----	Adv
+2	stejné	AANS4----1A----	Atr
+3	množství	NNNS4-----A----	Obj
+4	vyrobí	VB-S---3P-AA---	Pred
+5	koksovna	NNFS1-----A----	Sb
+6	Nové	AAFP1----1A----	Atr
+7	hutě	NNFP1-----A----	Atr
+8	,	Z:-------------	Coord
+9	Třinecké	AAFP1----1A----	Atr
+10	železárny	NNFP1-----A----	Sb
+11	vyprodukují	VB-P---3P-AA---	Pred
+12	asi	TT-------------	AuxZ
+13	700000	C=-------------	Obj
+14	tun	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95045-111-p3s1
+1	Podle	RR--2----------	AuxP
+2	aktualizované	AAFS2----1A----	Atr
+3	energetické	AAFS2----1A----	Atr
+4	politiky	NNFS2-----A----	Adv
+5	,	Z:-------------	AuxX
+6	kterou	P4FS4----------	Obj
+7	však	J^-------------	AuxY
+8	ještě	Db-------------	Adv
+9	vláda	NNFS1-----A----	Sb
+10	neschválila	VpQW---XR-NA---	Atr
+11	,	Z:-------------	AuxX
+12	bude	VB-S---3F-AA---	AuxV
+13	v	RR--6----------	AuxP
+14	roce	NNIS6-----A---1	Adv
+15	2000	C=-------------	Atr
+16	spotřeba	NNFS1-----A----	Sb
+17	koksu	NNIS2-----A----	Atr
+18	činit	Vf--------A----	Pred
+19	minimálně	Dg-------1A----	AuxZ
+20	3.2	C=-------------	Obj
+21	miliónu	NNIS2-----A----	Atr
+22	tun	NNFP2-----A----	Atr
+23	,	Z:-------------	Coord
+24	maximálně	Dg-------1A----	AuxZ
+25	4.1	C=-------------	Obj
+26	miliónu	NNIS2-----A----	Atr
+27	tun	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95045-111-p3s2
+1	Trh	NNIS1-----A----	Sb
+2	koksu	NNIS2-----A----	Atr
+3	těží	VB-S---3P-AA---	Pred
+4	ze	RV--2----------	AuxP
+5	stávající	AAFS2----1A----	Atr
+6	prosperity	NNFS2-----A----	Obj
+7	hutí	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95045-111-p3s3
+1	Ministr	NNMS1-----A----	Atr
+2	průmyslu	NNIS2-----A----	Atr
+3	a	J^-------------	Coord
+4	obchodu	NNIS2-----A----	Atr
+5	Vladimír	NNMS1-----A----	Atr
+6	Dlouhý	NNMS1-----A----	Sb
+7	minulý	AAIS4----1A----	Atr
+8	týden	NNIS4-----A----	Adv
+9	v	RR--6----------	AuxP
+10	Ostravě	NNFS6-----A----	Adv
+11	řekl	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	komparativní	AAFP1----1A----	Atr
+15	výhody	NNFP1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	které	P4FP4----------	Obj
+18	české	AANS1----1A----	Atr
+19	hutnictví	NNNS1-----A----	Sb
+20	má	VB-S---3P-AA---	Atr
+21	ze	RV--2----------	AuxP
+22	směnného	AAIS2----1A----	Atr
+23	kursu	NNIS2-----A----	Adv
+24	koruny	NNFS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	skončí	VB-P---3P-AA---	Obj
+27	do	RR--2----------	AuxP
+28	roku	NNIS2-----A---1	Adv
+29	2000	C=-------------	Atr
+30	.	Z:-------------	AuxK
+
+ln95045-111-p3s4
+1	Podle	RR--2----------	AuxP
+2	něho	P5ZS2--3------1	Adv
+3	by	Vc-------------	AuxV
+4	do	RR--2----------	AuxP
+5	té	PDFS2----------	Atr
+6	doby	NNFS2-----A----	Adv
+7	mělo	VpNS---XR-AA---	Pred
+8	být	Vf--------A----	AuxV
+9	rozhodnuto	VsNS---XX-AP---	Obj
+10	o	RR--6----------	AuxP
+11	perspektivách	NNFP6-----A----	Obj
+12	koksárenství	NNNS2-----A----	Atr
+13	,	Z:-------------	Coord
+14	zejména	Db-------------	AuxZ
+15	o	RR--6----------	AuxP
+16	nákladech	NNIP6-----A----	Obj
+17	na	RR--4----------	AuxP
+18	ekologizaci	NNFS4-----A----	Atr
+19	koksoven	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-111-p4s1
+1	Osmiletý	AAIS1----1A----	Atr
+2	"	Z:-------------	AuxG
+3	byznysplán	NNIS1-----A----	Sb
+4	"	Z:-------------	AuxG
+5	OKK	NNFPX-----A---8	Atr
+6	by	Vc-------------	AuxV
+7	měl	VpYS---XR-AA---	Pred
+8	být	Vf--------A----	AuxV
+9	koncem	NNIS7-----A----	AuxP
+10	tisíciletí	NNNS2-----A----	Adv
+11	realizován	VsYS---XX-AP---	Obj
+12	nákladem	NNIS7-----A----	Adv
+13	asi	TT-------------	AuxZ
+14	1.4	C=-------------	Atr
+15	miliardy	NNFS2-----A----	Atr
+16	Kč	NNFXX-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95045-111-p4s2
+1	Již	Db-------------	AuxZ
+2	nyní	Db-------------	Adv
+3	bylo	VpNS---XR-AA---	AuxV
+4	investováno	VsNS---XX-AP---	Pred
+5	více	Dg-------2A----	Sb
+6	než	J,-------------	AuxC
+7	300	C=-------------	Adv
+8	miliónů	NNIP2-----A----	Atr
+9	Kč	NNFXX-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95045-111-p4s3
+1	Pořízeny	VsTP---XX-AP---	Obj
+2	mají	VB-P---3P-AA---	Pred
+3	být	Vf--------A----	AuxV
+4	německé	AAFP1----1A----	Atr
+5	technologie	NNFP1-----A----	Sb
+6	firem	NNFP2-----A----	Atr
+7	Krupp	NNMS1-----A----	Atr
+8	a	J^-------------	Coord
+9	Thyssen	NNIS1-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95045-111-p4s4
+1	Hrozba	NNFS1-----A----	Sb
+2	uzavření	NNNS2-----A----	Atr
+3	dvou	ClXP2----------	Atr
+4	koksoven	NNFP2-----A----	Atr
+5	společnosti	NNFS2-----A----	Atr
+6	OKK	NNFPX-----A---8	Atr
+7	v	RR--6----------	AuxP
+8	Ostravě	NNFS6-----A----	AtrAtr
+9	byla	VpQW---XR-AA---	AuxV
+10	zažehnána	VsQW---XX-AP---	Pred
+11	.	Z:-------------	AuxK
+
+ln95045-111-p4s5
+1	Před	RR--7----------	AuxP
+2	podpisem	NNIS7-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	dohoda	NNFS1-----A----	Sb
+5	s	RR--7----------	AuxP
+6	městem	NNNS7-----A----	Atr
+7	o	RR--6----------	AuxP
+8	provozování	NNNS6-----A----	Atr
+9	koksovny	NNFS2-----A----	Atr
+10	Šverma	NNMS1-----A----	Atr
+11	do	RR--2----------	AuxP
+12	roku	NNIS2-----A---1	Atr
+13	2005	C=-------------	Atr
+14	a	J^-------------	Coord
+15	Svoboda	NNFS1-----A----	ExD
+16	do	RR--2----------	AuxP
+17	roku	NNIS2-----A---1	ExD
+18	2009	C=-------------	Atr
+19	.	Z:-------------	AuxK
+
+ln95045-111-p4s6
+1	Podle	RR--2----------	AuxP
+2	ředitele	NNMS2-----A----	Atr
+3	Hladíka	NNMS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	tak	Db-------------	Adv
+6	otevřela	VpQW---XR-AA---	Pred
+7	další	AAFS1----1A----	Atr
+8	perspektiva	NNFS1-----A----	Sb
+9	rozvoje	NNIS2-----A----	Atr
+10	pro	RR--4----------	AuxP
+11	odběratele	NNMP4-----A----	Atr
+12	produktů	NNIP2-----A----	Atr
+13	koksárenské	AAFS2----1A----	Atr
+14	chemie	NNFS2-----A----	Atr
+15	a	J^-------------	Coord
+16	následných	AAMP2----1A----	Atr
+17	zpracovatelů	NNMP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95045-111-p4s7
+1	Mezi	RR--7----------	AuxP
+2	nimi	P5XP7--3-------	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	Deza	NNFS1-----A----	Sb
+5	Valašské	AANS1----1A----	Atr
+6	Meziříčí	NNNS1-----A----	Atr
+7	,	Z:-------------	AuxX
+8	Gumárny	NNFP1-----A----	Sb
+9	Zubří	NNNS1-----A----	Atr
+10	a	J^-------------	Coord
+11	Synthesia	NNFS1-----A---1	Sb
+12	Semtín	NNIS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95045-111-p4s8
+1	Otevřena	VsQW---XX-AP---	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	možnost	NNFS1-----A----	Sb
+5	znovu	Db-------------	Adv
+6	vyrábět	Vf--------A----	Atr
+7	vodík	NNIS4-----A----	Obj
+8	z	RR--2----------	AuxP
+9	koksárenského	AAIS2----1A----	Atr
+10	plynu	NNIS2-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95045-111-p4s9
+1	Moravské	AAIP1----1A----	Atr
+2	chemické	AAIP1----1A----	Atr
+3	závody	NNIP1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	Ostravě	NNFS6-----A----	Atr
+6	totiž	Db-------------	AuxY
+7	na	RR--4----------	AuxP
+8	ohlášené	AANS4----1A----	Atr
+9	snížení	NNNS4-----A----	Obj
+10	a	J^-------------	Coord
+11	následné	AANS4----1A----	Atr
+12	zastavení	NNNS4-----A----	Obj
+13	výroby	NNFS2-----A----	Atr
+14	koksu	NNIS2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	Ostravě	NNFS6-----A----	AtrAtr
+17	reagovaly	VpTP---XR-AA---	Pred
+18	instalováním	NNNS7-----A----	Adv
+19	technologie	NNFS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	která	P4FS1----------	Sb
+22	vodík	NNIS4-----A----	Obj
+23	získává	VB-S---3P-AA---	Atr
+24	ze	RV--2----------	AuxP
+25	zemního	AAIS2----1A----	Atr
+26	plynu	NNIS2-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln95045-111-p4s10
+1	Vysoce	Db-------------	Adv
+2	zisková	AAFS1----1A----	Pnom
+3	by	Vc-------------	AuxV
+4	v	RR--6----------	AuxP
+5	OKK	NNFPX-----A---8	Adv
+6	mohla	VpQW---XR-AA---	Pred
+7	být	Vf--------A----	Obj
+8	i	J^-------------	AuxZ
+9	uvažovaná	AAFS1----1A----	Atr
+10	výroba	NNFS1-----A----	Sb
+11	sorbentu	NNIS2-----A----	Atr
+12	-	Z:-------------	Apos
+13	aktivního	AANS2----1A----	Atr
+14	uhlí	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+

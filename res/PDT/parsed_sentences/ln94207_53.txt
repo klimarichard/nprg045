@@ -1,0 +1,120 @@
+ln94207-53-p1s1
+1	Tenisový	AAIS1----1A----	Atr
+2	svaz	NNIS1-----A----	Sb
+3	vypověděl	VpYS---XR-AA---	Pred
+4	Teleaxis	NNIS4-----A----	Obj
+
+ln94207-53-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94207-53-p2s1B
+1	Český	AAIS1----1A----	Atr
+2	tenisový	AAIS1----1A----	Atr
+3	svaz	NNIS1-----A----	Sb
+4	vypověděl	VpYS---XR-AA---	Pred
+5	smlouvu	NNFS4-----A----	Obj
+6	o	RR--6----------	AuxP
+7	udělení	NNNS6-----A----	Atr
+8	výhradních	AANP2----1A----	Atr
+9	marketinkových	AANP2----1A----	Atr
+10	práv	NNNP2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	pořádání	NNNS4-----A----	Atr
+13	sportovních	AAFP2----1A----	Atr
+14	tenisových	AAFP2----1A----	Atr
+15	akcí	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	uzavřenou	AAFS4----1A----	Atr
+18	s	RR--7----------	AuxP
+19	obchodní	AAFS7----1A----	Atr
+20	společností	NNFS7-----A----	Obj
+21	Teleaxis	NNIS1-----A----	Atr
+22	Holding	NNIS1-----A----	Atr
+23	Vídeň	NNFS1-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94207-53-p2s2
+1	Právním	AANS7----1A----	Atr
+2	zastupováním	NNNS7-----A----	Obj
+3	v	RR--6----------	AuxP
+4	této	PDFS6----------	Atr
+5	záležitosti	NNFS6-----A----	Atr
+6	pověřil	VpYS---XR-AA---	Pred
+7	pražskou	AAFS4----1A----	Atr
+8	advokátní	AAFS4----1A----	Atr
+9	kancelář	NNFS4-----A----	Obj
+10	JUDr	NNMXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	Pavla	NNMS2-----A----	Atr
+13	Rychetského	NNMS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94207-53-p2s3
+1	Spor	NNIS1-----A----	Sb
+2	mezi	RR--7----------	AuxP
+3	oběma	ClXP7----------	Atr
+4	smluvními	AAMP7----1A----	Atr
+5	partnery	NNMP7-----A----	Atr
+6	tak	Db-------------	Adv
+7	vstoupil	VpYS---XR-AA---	Pred
+8	do	RR--2----------	AuxP
+9	nové	AAFS2----1A----	Atr
+10	fáze	NNFS2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94207-53-p2s4
+1	Předseda	NNMS1-----A----	Atr
+2	ČTS	NNIXX-----A---8	Atr
+3	Jan	NNMS1-----A----	Atr
+4	Kodeš	NNMS1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	bezprostředně	Dg-------1A----	Adv
+7	po	RR--6----------	AuxP
+8	turnaji	NNIS6-----A----	Adv
+9	Škoda	NNFS1-----A----	Atr
+10	Czech	AAXXX----1A----	Atr
+11	Open	AAXXX----1A----	Atr
+12	vyjádřil	VpYS---XR-AA---	Pred
+13	velmi	Db-------------	Adv
+14	kriticky	Dg-------1A----	Adv
+15	ke	RV--3----------	AuxP
+16	vzájemné	AAFS3----1A----	Atr
+17	spolupráci	NNFS3-----A----	Obj
+18	a	J^-------------	Coord
+19	označil	VpYS---XR-AA---	Pred
+20	smlouvu	NNFS4-----A----	Obj
+21	za	RR--4----------	AuxP
+22	velmi	Db-------------	Adv
+23	nevýhodnou	AAFS4----1N----	Obj
+24	pro	RR--4----------	AuxP
+25	tenisový	AAIS4----1A----	Atr
+26	svaz	NNIS4-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln94207-53-p2s5
+1	Teleaxis	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	cítil	VpYS---XR-AA---	Pred
+4	jeho	PSXXXZS3-------	Atr
+5	výroky	NNIP7-----A----	Obj
+6	poškozen	VsYS---XX-AP---	Obj
+7	a	J^-------------	Coord
+8	jeho	PSXXXZS3-------	Atr
+9	představitelé	NNMP1-----A----	Sb
+10	uvedli	VpMP---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	hodlají	VB-P---3P-AA---	Obj
+14	Kodeše	NNMS4-----A----	Obj
+15	žalovat	Vf--------A----	Obj
+16	o	RR--4----------	AuxP
+17	náhradu	NNFS4-----A----	Obj
+18	škody	NNFS2-----A----	Atr
+19	ve	RV--6----------	AuxP
+20	výši	NNFS6-----A----	Atr
+21	24	C=-------------	Atr
+22	miliónů	NNIP2-----A----	Atr
+23	dolarů	NNIP2-----A----	Atr
+24	.	Z:-------------	AuxK
+

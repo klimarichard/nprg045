@@ -1,0 +1,182 @@
+lnd94103-072-p1s1
+1	Pokles	NNIS1-----A----	ExD
+2	sazeb	NNFP2-----A----	Atr
+3	na	RR--6----------	AuxP
+4	mezibankovním	AAIS6----1A----	Atr
+5	trhu	NNIS6-----A----	Atr
+
+lnd94103-072-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94103-072-p1s3
+1	Obavy	NNFP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	budoucnosti	NNFS2-----A----	Atr
+4	malých	AAFP2----1A----	Atr
+5	českých	AAFP2----1A----	Atr
+6	bank	NNFP2-----A----	Atr
+7	vyvolávají	VB-P---3P-AA---	Pred
+8	přebytek	NNIS4-----A----	Obj
+9	likvidity	NNFS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	mezibankovním	AAIS6----1A----	Atr
+12	trhu	NNIS6-----A----	AtrAdv
+13	,	Z:-------------	Coord
+14	což	PE--1----------	Sb
+15	tlačí	VB-S---3P-AA---	Pred
+16	úrokové	AAFP4----1A----	Atr
+17	sazby	NNFP4-----A----	Obj
+18	PRIBOR	NNFXX-----A---8	Atr
+19	(	Z:-------------	Apos
+20	pražské	AAFP1----1A----	Atr
+21	mezibankovní	AAFP1----1A----	Atr
+22	nabízené	AAFP1----1A----	Atr
+23	sazby	NNFP4-----A----	Atr
+24	)	Z:-------------	AuxG
+25	dolů	Db-------------	Adv
+26	.	Z:-------------	AuxK
+
+lnd94103-072-p1s4
+1	Podle	RR--2----------	AuxP
+2	bankovních	AAMP2----1A----	Atr
+3	dealerů	NNMP2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	však	J^-------------	Coord
+6	budou	VB-P---3F-AA---	AuxV
+7	sazby	NNFP1-----A----	Sb
+8	tento	PDIS4----------	Atr
+9	týden	NNIS4-----A----	Adv
+10	po	RR--6----------	AuxP
+11	prudkém	AAIS6----1A----	Atr
+12	poklesu	NNIS6-----A----	Atr
+13	v	RR--6----------	AuxP
+14	minulém	AAIS6----1A----	Atr
+15	týdnu	NNIS6-----A----	Atr
+16	snažit	Vf--------A----	Pred
+17	o	RR--4----------	AuxP
+18	získání	NNNS4-----A----	Obj
+19	půdy	NNFS2-----A----	Atr
+20	pod	RR--7----------	AuxP
+21	nohama	NNFD7-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd94103-072-p1s5
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	pondělní	AAFS2----1A----	Atr
+5	zprávy	NNFS2-----A----	Adv
+6	agentury	NNFS2-----A----	Atr
+7	Reuter	NNMS1-----A----	Atr
+8	.	Z:-------------	AuxK
+
+lnd94103-072-p1s6
+1	Jednodenní	AAFP1----1A----	Atr
+2	sazby	NNFP1-----A----	Sb
+3	PRIBOR	NNFXX-----A---8	Atr
+4	v	RR--4----------	AuxP
+5	pondělí	NNNS4-----A----	Adv
+6	vzrostly	VpTP---XR-AA---	Pred
+7	na	RR--4----------	AuxP
+8	5.61	C=-------------	Adv
+9	procenta	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	když	J,-------------	AuxC
+12	v	RR--4----------	AuxP
+13	pátek	NNIS4-----A----	Adv
+14	spadly	VpTP---XR-AA--1	Adv
+15	na	RR--4----------	AuxP
+16	3.68	C=-------------	Adv
+17	procenta	NNNS2-----A----	Atr
+18	z	RR--2----------	AuxP
+19	9.62	C=-------------	Adv
+20	procenta	NNNS2-----A----	Atr
+21	v	RR--4----------	AuxP
+22	pondělí	NNNS4-----A----	Atr
+23	minulého	AAIS2----1A----	Atr
+24	týdne	NNIS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd94103-072-p1s7
+1	Dealeři	NNMP1-----A----	Sb
+2	tento	PDIS4----------	Atr
+3	týden	NNIS4-----A----	Adv
+4	očekávají	VB-P---3P-AA---	Pred
+5	pohyb	NNIS4-----A----	Obj
+6	této	PDFS2----------	Atr
+7	sazby	NNFS2-----A----	Atr
+8	mezi	RR--7----------	AuxP
+9	pěti	Cn-P7----------	Atr
+10	a	J^-------------	Coord
+11	šesti	Cn-P7----------	Atr
+12	procenty	NNNP7-----A----	AtrAdv
+13	.	Z:-------------	AuxK
+
+lnd94103-072-p1s8
+1	Dalším	AAIS7----1A----	Atr
+2	faktorem	NNIS7-----A----	Pnom
+3	přebytku	NNIS2-----A----	Atr
+4	likvidity	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	přísnější	AAFS1----2A----	Atr
+7	úvěrová	AAFS1----1A----	Atr
+8	politika	NNFS1-----A----	Sb
+9	bank	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	díky	RR--3----------	AuxP
+12	níž	P9FS3----------	Adv
+13	zůstává	VB-S---3P-AA---	Atr
+14	bankám	NNFP3-----A----	Obj
+15	více	Dg-------2A----	Sb
+16	prostředků	NNIP2-----A----	Atr
+17	než	J,-------------	AuxC
+18	obvykle	Dg-------1A----	ExD
+19	.	Z:-------------	AuxK
+
+lnd94103-072-p1s9
+1	Podle	RR--2----------	AuxP
+2	Pavla	NNMS2-----A----	Atr
+3	Křivonožky	NNMS2-----A----	Adv
+4	,	Z:-------------	AuxX
+5	hlavního	AAMS2----1A----	Atr
+6	dealera	NNMS2-----A----	Atr
+7	Raiffeisenbank	NNFXX-----A----	Atr
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	na	RR--6----------	AuxP
+11	trhu	NNIS6-----A----	Adv
+12	nyní	Db-------------	Adv
+13	hodně	Dg-------1A----	Sb
+14	peněz	NNIP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	které	P4IP1----------	Sb
+17	by	Vc-------------	AuxV
+18	za	RR--2----------	AuxP
+19	normálních	AAFP2----1A----	Atr
+20	okolností	NNFP2-----A----	Adv
+21	byly	VpTP---XR-AA---	Atr
+22	u	RR--2----------	AuxP
+23	malých	AAFP2----1A----	Atr
+24	bank	NNFP2-----A----	Adv
+25	.	Z:-------------	AuxK
+
+lnd94103-072-p1s10
+1	Podle	RR--2----------	AuxP
+2	analytiků	NNMP2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	ČR	NNFXX-----A---8	Adv
+6	již	Db-------------	Adv
+7	přebytek	NNIS1-----A----	Sb
+8	bank	NNFP2-----A----	Atr
+9	a	J^-------------	Coord
+10	několik	Ca--1----------	Sb
+11	menších	AAFP2----2A----	Atr
+12	institucí	NNFP2-----A----	Atr
+13	zřejmě	Dg-------1A----	AuxY
+14	bude	VB-S---3F-AA---	AuxV
+15	muset	Vf--------A----	Pred
+16	fúzovat	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+

@@ -1,0 +1,237 @@
+mf930709-104-p1s1
+1	Nositel	NNMS1-----A----	Sb
+2	Čestné	AAFS2----1A----	Atr
+3	legie	NNFS2-----A----	Atr
+4	obdržel	VpYS---XR-AA---	Pred
+5	pozitivní	AANS4----1A----	Atr
+6	lustrační	AANS4----1A----	Atr
+7	osvědčení	NNNS4-----A----	Obj
+
+mf930709-104-p2s1
+1	Zástupkyně	NNFS1-----A----	Atr
+2	mluvčího	NNMS2-----A----	Atr
+3	ministra	NNMS2-----A----	Atr
+4	vnitra	NNNS2-----A----	Atr
+5	Beata	NNFS1-----A----	Atr
+6	Berníková	NNFS1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	náš	PSIS4-P1-------	Atr
+9	dotaz	NNIS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	zda	J,-------------	AuxC
+12	může	VB-S---3P-AA---	Atr
+13	potvrdit	Vf--------A----	Obj
+14	pozitivní	AAFS4----1A----	Atr
+15	lustraci	NNFS4-----A----	Obj
+16	profesora	NNMS2-----A----	Atr
+17	Svobody	NNMS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	odpověděla	VpQW---XR-AA---	Pred
+20	,	Z:-------------	AuxX
+21	že	J,-------------	AuxC
+22	takové	PDFP4----------	Atr
+23	informace	NNFP4-----A----	Obj
+24	ministerstvo	NNNS1-----A----	Sb
+25	neposkytuje	VB-S---3P-NA---	Obj
+26	.	Z:-------------	AuxK
+
+mf930709-104-p2s2
+1	Lustrační	AANP1----1A----	Atr
+2	osvědčení	NNNP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	AuxV
+4	žadatelům	NNMP3-----A----	Obj
+5	zasílána	VsQW---XX-AP---	Pred
+6	do	RR--2----------	AuxP
+7	vlastních	AAFP2----1A----	Atr
+8	rukou	NNFP2-----A----	Adv
+9	a	J^-------------	Coord
+10	ti	PDMP1----------	Sb
+11	je	PPXP4--3-------	Obj
+12	předkládají	VB-P---3P-AA---	Pred
+13	svým	P8XP3----------	Atr
+14	nadřízeným	NNMP3-----A----	Obj
+15	.	Z:-------------	AuxK
+
+mf930709-104-p2s3
+1	Ministerstvo	NNNS1-----A----	Sb
+2	je	PPXP4--3-------	Obj
+3	vydává	VB-S---3P-AA---	Pred
+4	pouze	Db-------------	AuxZ
+5	na	RR--6----------	AuxP
+6	základě	NNIS6-----A----	AuxP
+7	registrů	NNIP2-----A----	Adv
+8	svazků	NNIP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	kategorií	NNFS7-----A----	Obj
+11	B	NNNXX-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	v	RR--6----------	AuxP
+14	případě	NNIS6-----A----	AuxP
+15	odvolání	NNNS2-----A----	Adv
+16	pozitivně	Dg-------1A----	Adv
+17	vylustrovaného	AAMS2----1A----	Atr
+18	žadatele	NNMS2-----A----	Atr
+19	zabývá	VB-S---3P-AA---	Pred
+20	soud	NNIS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+mf930709-104-p3s1
+1	Profesor	NNMS1-----A----	Atr
+2	Svoboda	NNMS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	právě	Db-------------	Adv
+6	působí	VB-S---3P-AA---	Atr
+7	v	RR--6----------	AuxP
+8	Itálii	NNFS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	nám	PP-P3--1-------	Obj
+11	v	RR--6----------	AuxP
+12	telefonickém	AAIS6----1A----	Atr
+13	rozhovoru	NNIS6-----A----	Adv
+14	svou	P8FS4---------1	Atr
+15	pozitivní	AAFS4----1A----	Atr
+16	lustraci	NNFS4-----A----	Obj
+17	potvrdil	VpYS---XR-AA---	Pred
+18	,	Z:-------------	AuxX
+19	řekl	VpYS---XR-AA---	Pred
+20	však	J^-------------	Coord
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	nijak	Db-------------	Adv
+24	nesouvisí	VB-S---3P-NA---	Obj
+25	s	RR--7----------	AuxP
+26	jeho	PSXXXZS3-------	Atr
+27	rezignací	NNFS7-----A----	Obj
+28	na	RR--4----------	AuxP
+29	funkci	NNFS4-----A----	Atr
+30	ředitele	NNMS2-----A----	Atr
+31	Laterny	NNFS2-----A----	Atr
+32	magiky	NNFS2-----A----	Atr
+33	ze	RV--2----------	AuxP
+34	dne	NNIS2-----A----	Atr
+35	30	C=-------------	Atr
+36	.	Z:-------------	AuxG
+37	května	NNIS2-----A----	Atr
+38	;	Z:-------------	AuxK
+
+mf930709-104-p3s2
+1	administrativní	AANS4----1A----	Atr
+2	místo	NNNS4-----A----	Obj
+3	prý	TT-------------	AuxY
+4	nikdy	Db-------------	Adv
+5	nechtěl	VpYS---XR-NA---	Pred
+6	zastávat	Vf--------A----	Obj
+7	,	Z:-------------	Coord
+8	hodlal	VpYS---XR-AA---	Pred
+9	zůstat	Vf--------A----	Obj
+10	uměleckým	AAMS7----1A----	Atr
+11	šéfem	NNMS7-----A----	Obj
+12	.	Z:-------------	AuxK
+
+mf930709-104-p3s3
+1	"	Z:-------------	AuxG
+2	Mám	VB-S---1P-AA---	Pred
+3	čisté	AANS4----1A----	Atr
+4	svědomí	NNNS4-----A----	Obj
+5	.	Z:-------------	AuxK
+
+mf930709-104-p3s4
+1	Samozřejmě	Dg-------1A----	AuxY
+2	kolem	RR--2----------	AuxP
+3	mě	PH-S2--1-------	Adv
+4	kroužila	VpQW---XR-AA---	Pred
+5	spousta	NNFS1-----A----	Sb
+6	lidí	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	bral	VpYS---XR-AA---	Pred
+10	jsem	VB-S---1P-AA---	AuxV
+11	to	PDNS4----------	Obj
+12	tak	Db-------------	Adv
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	jsem	VB-S---1P-AA---	Adv
+16	hlídané	AANS1----1A----	Atr
+17	zvíře	NNNS1-----A----	Pnom
+18	,	Z:-------------	AuxX
+19	protože	J,-------------	AuxC
+20	jsem	VB-S---1P-AA---	AuxV
+21	jezdil	VpYS---XR-AA---	Adv
+22	každý	AAIS4----1A----	Atr
+23	týden	NNIS4-----A----	Adv
+24	někam	Db-------------	Adv
+25	.	Z:-------------	AuxK
+
+mf930709-104-p3s6
+1	Nikdy	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	nic	PW--4----------	Obj
+4	nepodepsal	VpYS---XR-NA---	Pred
+5	.	Z:-------------	AuxK
+
+mf930709-104-p3s7
+1	Nerad	ACYS------N----	AtvV
+2	bych	Vc-S---1-------	AuxV
+3	po	RR--6----------	AuxP
+4	padesáti	Cn-P6----------	Atr
+5	letech	NNNP6-----A----	Adv
+6	práce	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Národním	AANS6----1A----	Atr
+9	divadle	NNNS6-----A----	Atr
+10	a	J^-------------	Coord
+11	v	RR--6----------	AuxP
+12	Laterně	NNFS6-----A----	Atr
+13	magice	NNFS6-----A----	Atr
+14	odcházel	VpYS---XR-AA---	Obj
+15	s	RR--7----------	AuxP
+16	tímto	PDZS7----------	Atr
+17	označením	NNNS7-----A----	Adv
+18	,	Z:-------------	AuxX
+19	proto	J^-------------	Coord
+20	jsem	VB-S---1P-AA---	AuxV
+21	se	P7-X4----------	AuxT
+22	prostřednictvím	NNNS7-----A----	AuxP
+23	právního	AAMS2----1A----	Atr
+24	zástupce	NNMS2-----A----	Adv
+25	obrátil	VpYS---XR-AA---	Obj
+26	na	RR--4----------	AuxP
+27	soud	NNIS4-----A----	Obj
+28	,	Z:-------------	AuxX
+29	"	Z:-------------	AuxG
+30	řekl	VpYS---XR-AA---	Pred
+31	J	NNMXX-----A---8	Atr
+32	.	Z:-------------	AuxG
+33	Svoboda	NNMS1-----A----	Sb
+34	.	Z:-------------	AuxK
+
+mf930709-104-p3s8
+1	První	CrNS1----------	Atr
+2	soudní	AANS1----1A----	Atr
+3	stání	NNNS1-----A----	Sb
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxT
+6	mělo	VpNS---XR-AA---	Pred
+7	konat	Vf--------A----	Obj
+8	koncem	NNIS7-----A----	AuxP
+9	července	NNIS2-----A----	Adv
+10	.	Z:-------------	AuxK
+
+mf930709-104-p4s1
+1	Řád	NNIS4-----A----	Obj
+2	Čestné	AAFS2----1A----	Atr
+3	legie	NNFS2-----A----	Atr
+4	mimo	RR--4----------	AuxP
+5	jiné	AAMP4----1A----	Adv
+6	obdrželi	VpMP---XR-AA---	Pred
+7	Václav	NNMS1-----A----	Atr
+8	Havel	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	Pavel	NNMS1-----A----	Atr
+11	Tigrid	NNMS1-----A----	Sb
+12	a	J^-------------	Coord
+13	Milan	NNMS1-----A----	Atr
+14	Kundera	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+

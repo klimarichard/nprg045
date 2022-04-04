@@ -1,0 +1,125 @@
+ln95044-113-p1s1
+1	Opět	Db-------------	ExD
+2	liška	NNFS1-----A----	ExD
+3	se	RV--7----------	AuxP
+4	vzteklinou	NNFS7-----A----	Atr
+
+ln95044-113-p2s1A
+1	Hradec	NNIS1-----A----	ExD
+2	Králové	NNFS2-----A----	Atr
+3	-	Z:-------------	AuxK
+
+ln95044-113-p2s1B
+1	Lišku	NNFS4-----A----	Obj
+2	se	RV--7----------	AuxP
+3	vzteklinou	NNFS7-----A----	Atr
+4	zaregistrovala	VpQW---XR-AA---	Pred
+5	po	RR--6----------	AuxP
+6	15	C=-------------	Atr
+7	letech	NNNP6-----A----	Adv
+8	v	RR--6----------	AuxP
+9	minulém	AAIS6----1A----	Atr
+10	týdnu	NNIS6-----A----	Adv
+11	královéhradecká	AAFS1----1A----	Atr
+12	Okresní	AAFS1----1A----	Atr
+13	veterinární	AAFS1----1A----	Atr
+14	správa	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95044-113-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	její	PSZS1FS3-------	Atr
+4	ředitel	NNMS1-----A----	Atr
+5	Hartmann	NNMS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+ln95044-113-p2s3
+1	Podle	RR--2----------	AuxP
+2	něho	P5ZS2--3------1	Adv
+3	byla	VpQW---XR-AA---	AuxV
+4	liška	NNFS1-----A----	Sb
+5	střelena	VsQW---XX-AP---	Pred
+6	14	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	února	NNIS2-----A---1	Adv
+9	v	RR--6----------	AuxP
+10	katastru	NNIS6-----A----	Adv
+11	obce	NNFS2-----A----	Atr
+12	Běleč	NNFS1-----A----	Atr
+13	nad	RR--7----------	AuxP
+14	Orlicí	NNFS7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95044-113-p2s4
+1	Myslivec	NNMS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	ji	PPFS4--3-------	Obj
+5	ulovil	VpYS---XR-AA---	Atr
+6	,	Z:-------------	AuxX
+7	byl	VpYS---XR-AA---	AuxV
+8	vyšetřen	VsYS---XX-AP---	Pred
+9	na	RR--6----------	AuxP
+10	infekční	AAFS6----1A----	Atr
+11	klinice	NNFS6-----A----	Adv
+12	královéhradecké	AAFS2----1A----	Atr
+13	fakultní	AAFS2----1A----	Atr
+14	nemocnice	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95044-113-p2s5
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	dodržel	VpYS---XR-AA---	Atr
+7	příslušné	AAFP4----1A----	Atr
+8	zásady	NNFP4-----A----	Obj
+9	při	RR--6----------	AuxP
+10	manipulaci	NNFS6-----A----	AtrAdv
+11	s	RR--7----------	AuxP
+12	liškou	NNFS7-----A----	Atr
+13	,	Z:-------------	AuxX
+14	nemusel	VpYS---XR-NA---	Pred
+15	být	Vf--------A----	AuxV
+16	hospitalizován	VsYS---XX-AP---	Obj
+17	.	Z:-------------	AuxK
+
+ln95044-113-p2s6
+1	V	RR--6----------	AuxP
+2	uvedené	AAFS6----1A----	Atr
+3	lokalitě	NNFS6-----A----	AtrAdv
+4	vydal	VpYS---XR-AA---	Pred
+5	ředitel	NNMS1-----A----	Sb
+6	veterinární	AAFS2----1A----	Atr
+7	správy	NNFS2-----A----	Atr
+8	mimořádná	AANP4----1A----	Atr
+9	opatření	NNNP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95044-113-p2s7
+1	Provedeno	VsNS---XX-AP---	Pred
+2	bude	VB-S---3F-AA---	AuxV
+3	ochranné	AANS1----1A----	Atr
+4	očkování	NNNS1-----A----	Sb
+5	psů	NNMP2-----A----	Atr
+6	proti	RR--3----------	AuxP
+7	vzteklině	NNFS3-----A----	Atr
+8	,	Z:-------------	AuxX
+9	jarní	AAFS1----1A----	Atr
+10	vakcinace	NNFS1-----A----	Sb
+11	lišek	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	označení	NNNS1-----A----	Sb
+14	přístupových	AAFP2----1A----	Atr
+15	lesních	AAFP2----1A----	Atr
+16	cest	NNFP2-----A----	Atr
+17	tabulkami	NNFP7-----A----	Atr
+18	upozorňujícími	AGFP7-----A----	Atr
+19	na	RR--4----------	AuxP
+20	možné	AANS4----1A----	Atr
+21	nebezpečí	NNNS4-----A----	Obj
+22	.	Z:-------------	AuxK
+

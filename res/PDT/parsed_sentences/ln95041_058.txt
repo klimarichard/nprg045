@@ -1,0 +1,353 @@
+ln95041-058-p1s1
+1	Jelcin	NNMS1-----A----	Sb
+2	:	Z:-------------	Pred
+3	Nemáme	VB-P---1P-NA---	Obj
+4	temné	AAIP4----1A----	Atr
+5	úmysly	NNIP4-----A----	Obj
+
+ln95041-058-p2s1A
+1	Vladimir	NNMS1-----A----	Atr
+2	Žirinovskij	NNMS1-----A----	Sb
+3	předpovídá	VB-S---3P-AA---	Pred
+4	příchod	NNIS4-----A----	Obj
+5	vojenské	AAFS2----1A----	Atr
+6	diktatury	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Rusku	NNNS6-----A----	Atr
+
+ln95041-058-p2s1B
+1	Ruský	AAMS1----1A----	Atr
+2	prezident	NNMS1-----A----	Atr
+3	Boris	NNMS1-----A----	Atr
+4	Jelcin	NNMS1-----A----	Sb
+5	ve	RV--6----------	AuxP
+6	svém	P8ZS6----------	Atr
+7	včerejším	AAIS6----1A----	Atr
+8	projevu	NNIS6-----A----	Adv
+9	před	RR--7----------	AuxP
+10	oběma	ClFD7----------	Atr
+11	sněmovnami	NNFP7-----A----	AtrAdv
+12	parlamentu	NNIS2-----A----	Atr
+13	obvinil	VpYS---XR-AA---	Pred
+14	jisté	AAIP4----1A----	Atr
+15	západní	AAIP4----1A----	Atr
+16	kruhy	NNIP4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	chtějí	VB-P---3P-AA---	Obj
+20	rozšířením	NNNS7-----A----	Adv
+21	NATO	NNNXX-----A---8	Atr
+22	vytěsnit	Vf--------A----	Obj
+23	Rusko	NNNS4-----A----	Obj
+24	jako	J,-------------	AuxY
+25	nebezpečného	AAMS4----1N----	Atr
+26	konkurenta	NNMS4-----A----	Atv
+27	ze	RV--2----------	AuxP
+28	světové	AAFS2----1A----	Atr
+29	scény	NNFS2-----A----	Adv
+30	.	Z:-------------	AuxK
+
+ln95041-058-p2s2
+1	Prohlásil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	malé	AAFP4----1A----	Atr
+5	evropské	AAFP4----1A----	Atr
+6	země	NNFP4-----A----	Obj
+7	není	VB-S---3P-NA---	Obj
+8	třeba	ACNS------A----	Pnom
+9	chránit	Vf--------A----	Sb
+10	před	RR--7----------	AuxP
+11	"	Z:-------------	AuxG
+12	temnými	AAIP7----1A----	Atr
+13	úmysly	NNIP7-----A----	Obj
+14	Moskvy	NNFS2-----A----	Atr
+15	"	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	protože	J,-------------	AuxC
+18	žádné	PWIP1----------	Atr
+19	takové	PDIP1----------	Atr
+20	úmysly	NNIP1-----A----	Sb
+21	neexistují	VB-P---3P-NA---	Adv
+22	.	Z:-------------	AuxK
+
+ln95041-058-p3s1
+1	Armádě	NNFS3-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	Boris	NNMS1-----A----	Atr
+4	Jelcin	NNMS1-----A----	Sb
+5	podrobně	Dg-------1A----	Adv
+6	věnoval	VpYS---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	souvislosti	NNFS6-----A----	AuxP
+9	s	RR--7----------	AuxP
+10	válkou	NNFS7-----A----	Adv
+11	v	RR--6----------	AuxP
+12	Čečensku	NNNS6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95041-058-p3s2
+1	Pochválil	VpYS---XR-AA---	Pred
+2	ruské	AAMP4----1A----	Atr
+3	vojáky	NNMP4-----A----	Obj
+4	bojující	AGMP4-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Čečensku	NNNS6-----A----	Adv
+7	za	RR--4----------	AuxP
+8	to	PDNS4----------	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	zde	Db-------------	Adv
+12	projevují	VB-P---3P-AA---	Atr
+13	své	P8FP4---------1	Atr
+14	nejlepší	AAFP4----3A----	Atr
+15	vlastnosti	NNFP4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95041-058-p3s3
+1	"	Z:-------------	AuxG
+2	Ne	TT-------------	AuxZ
+3	ruští	AAMP1----1A----	Atr
+4	vojáci	NNMP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	Čečenci	NNMP1-----A----	Sb
+8	střílejí	VB-P---3P-AA---	Obj
+9	skryti	VsMP---XX-AP---	Atv
+10	za	RR--7----------	AuxP
+11	zády	NNNP7-----A----	Adv
+12	žen	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	dětí	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	které	P4FP4----------	Obj
+17	používají	VB-P---3P-AA---	Atr
+18	jako	J,-------------	AuxY
+19	živý	AAIS4----1A----	Atr
+20	štít	NNIS4-----A----	Atv
+21	,	Z:-------------	AuxX
+22	"	Z:-------------	AuxG
+23	uvedl	VpYS---XR-AA---	Pred
+24	.	Z:-------------	AuxK
+
+ln95041-058-p4s1
+1	Šéf	NNMS1-----A----	Atr
+2	parlamentní	AAFS2----1A----	Atr
+3	frakce	NNFS2-----A----	Atr
+4	Ruská	AAFS1----1A----	Atr
+5	Volba	NNFS1-----A----	Atr
+6	Jegor	NNMS1-----A----	Atr
+7	Gajdar	NNMS1-----A----	Sb
+8	vyjádřil	VpYS---XR-AA---	Pred
+9	zklamání	NNNS4-----A----	Obj
+10	nad	RR--7----------	AuxP
+11	tím	PDZS7----------	Atr
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	Jelcin	NNMS1-----A----	Sb
+15	nedokázal	VpYS---XR-NA---	Atr
+16	odsoudit	Vf--------A----	Obj
+17	násilné	AANS4----1A----	Atr
+18	řešení	NNNS4-----A----	Obj
+19	čečenské	AAFS2----1A----	Atr
+20	krize	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95041-058-p4s2
+1	Ministr	NNMS1-----A----	Atr
+2	obrany	NNFS2-----A----	Atr
+3	Pavel	NNMS1-----A----	Atr
+4	Gračov	NNMS1-----A----	Sb
+5	naopak	Db-------------	Adv
+6	vyslovil	VpYS---XR-AA---	Pred
+7	spokojenost	NNFS4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	hodnocením	NNNS7-----A----	Atr
+10	armády	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95041-058-p4s3
+1	"	Z:-------------	AuxG
+2	Armádu	NNFS4-----A----	Obj
+3	není	VB-S---3P-NA---	Obj
+4	v	RR--6----------	AuxP
+5	souvislosti	NNFS6-----A----	AuxP
+6	s	RR--7----------	AuxP
+7	Čečenskem	NNNS7-----A----	Adv
+8	za	RR--4----------	AuxP
+9	co	PQ--4----------	Obj
+10	kritizovat	Vf--------A----	Sb
+11	,	Z:-------------	AuxX
+12	"	Z:-------------	AuxG
+13	řekl	VpYS---XR-AA---	Pred
+14	Gračov	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95041-058-p5s1
+1	Vladimir	NNMS1-----A----	Atr
+2	Žirinovskij	NNMS1-----A----	Sb
+3	,	Z:-------------	Apos
+4	šéf	NNMS1-----A----	Sb
+5	liberálních	AAMP2----1A----	Atr
+6	demokratů	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	zhodnotil	VpYS---XR-AA---	Pred
+9	příslib	NNIS4-----A----	Obj
+10	prezidenta	NNMS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	parlamentní	AAFP1----1A----	Atr
+14	i	J^-------------	Coord
+15	prezidentské	AAFP1----1A----	Atr
+16	volby	NNFP1-----A----	Sb
+17	se	P7-X4----------	AuxR
+18	v	RR--6----------	AuxP
+19	Rusku	NNNS6-----A----	Adv
+20	uskuteční	VB-P---3P-AA---	Atr
+21	podle	RR--2----------	AuxP
+22	plánu	NNIS2-----A----	Adv
+23	,	Z:-------------	AuxX
+24	slovy	NNNP7-----A----	Adv
+25	:	Z:-------------	AuxG
+26	"	Z:-------------	AuxG
+27	Stejně	Dg-------1A----	AuxY
+28	tu	Db------------1	Adv
+29	bude	VB-S---3F-AA---	Atr
+30	během	RR--2----------	AuxP
+31	několika	Ca--2----------	Atr
+32	měsíců	NNIP2-----A----	Adv
+33	vojenská	AAFS1----1A----	Atr
+34	diktatura	NNFS1-----A----	Sb
+35	,	Z:-------------	AuxX
+36	takže	J,-------------	AuxC
+37	jaké	P4FP1----------	Atr
+38	volby	NNFP1-----A----	ExD
+39	.	Z:-------------	AuxK
+40	"	Z:-------------	AuxG
+
+ln95041-058-p5s2
+1	"	Z:-------------	AuxG
+2	Byla	VpQW---XR-AA---	Obj
+3	to	PDNS1----------	Sb
+4	řeč	NNFS1-----A----	Pnom
+5	o	RR--6----------	AuxP
+6	ničem	PW--6----------	Atr
+7	,	Z:-------------	AuxX
+8	"	Z:-------------	AuxG
+9	prohlásil	VpYS---XR-AA---	Pred
+10	včera	Db-------------	Adv
+11	v	RR--6----------	AuxP
+12	reakci	NNFS6-----A----	Adv
+13	na	RR--4----------	AuxP
+14	Jelcinův	AUIS4M---------	Atr
+15	projev	NNIS4-----A----	Atr
+16	šéf	NNMS1-----A----	Atr
+17	ruských	AAMP2----1A----	Atr
+18	komunistů	NNMP2-----A----	Atr
+19	G	NNMXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	Zjuganov	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln95041-058-p6s1
+1	Přes	RR--4----------	AuxP
+2	800	C=-------------	Sb
+3	posluchačů	NNMP2-----A----	Atr
+4	vyslechlo	VpNS---XR-AA--1	Pred
+5	pouze	Db-------------	AuxZ
+6	část	NNFS4-----A----	Obj
+7	obsáhlého	AAIS2----1A----	Atr
+8	textu	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	byl	VpYS---XR-AA---	AuxV
+12	poslancům	NNMP3-----A----	Obj
+13	rozdán	VsYS---XX-AP---	Atr
+14	v	RR--6----------	AuxP
+15	písemné	AAFS6----1A----	Atr
+16	formě	NNFS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln95041-058-p6s2
+1	Jeho	PSXXXZS3-------	Atr
+2	ekonomická	AAFS1----1A----	Atr
+3	část	NNFS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	týká	VB-S---3P-AA---	Pred
+6	především	Db-------------	AuxZ
+7	finanční	AAFS2----1A----	Atr
+8	politiky	NNFS2-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95041-058-p6s3
+1	B	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Jelcin	NNMS1-----A----	Sb
+4	pokládá	VB-S---3P-AA---	Pred
+5	stabilizaci	NNFS4-----A----	Obj
+6	rublu	NNIS2-----A----	Atr
+7	za	RR--4----------	AuxP
+8	jeden	ClIS4----------	Obj
+9	z	RR--2----------	AuxP
+10	hlavních	AAIP2----1A----	Atr
+11	úkolů	NNIP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	roce	NNIS6-----A---1	Atr
+14	1995	C=-------------	Atr
+15	.	Z:-------------	AuxK
+
+ln95041-058-p6s4
+1	Potvrdil	VpYS---XR-AA---	Pred
+2	nutnost	NNFS4-----A----	Obj
+3	státní	AAFS2----1A----	Atr
+4	podpory	NNFS2-----A----	Atr
+5	zemědělství	NNNS2-----A----	Atr
+6	a	J^-------------	Coord
+7	obranného	AAIS2----1A----	Atr
+8	průmyslu	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95041-058-p6s5
+1	Mírná	AAFS1----1A----	Atr
+2	kritika	NNFS1-----A----	Sb
+3	zazněla	VpQW---XR-AA---	Pred
+4	z	RR--2----------	AuxP
+5	úst	NNNP2-----A----	Adv
+6	prezidenta	NNMS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	když	J,-------------	AuxC
+9	hovořil	VpYS---XR-AA---	Adv
+10	o	RR--6----------	AuxP
+11	sociální	AAFS6----1A----	Atr
+12	politice	NNFS6-----A----	Obj
+13	:	Z:-------------	Coord
+14	"	Z:-------------	AuxG
+15	Ceny	NNFP1-----A----	Sb
+16	zboží	NNNS2-----A----	Atr
+17	dosáhly	VpTP---XR-AA---	ExD
+18	světové	AAFS2----1A----	Atr
+19	úrovně	NNFS2-----A----	Obj
+20	,	Z:-------------	AuxX
+21	ale	J^-------------	Coord
+22	platy	NNIP1-----A----	Sb
+23	jsou	VB-P---3P-AA---	ExD
+24	mizivé	AAIP1----1A----	Pnom
+25	.	Z:-------------	AuxK
+26	"	Z:-------------	AuxG
+
+ln95041-058-p6s6
+1	Dodal	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	lidé	NNMP1-----A---1	Sb
+5	musejí	VB-P---3P-AA---	Obj
+6	mít	Vf--------A----	Obj
+7	právo	NNNS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	práci	NNFS4-----A----	Atr
+10	a	J^-------------	Coord
+11	ochranu	NNFS4-----A----	Atr
+12	před	RR--7----------	AuxP
+13	nezaměstnaností	NNFS7-----A----	Atr
+14	.	Z:-------------	AuxK
+

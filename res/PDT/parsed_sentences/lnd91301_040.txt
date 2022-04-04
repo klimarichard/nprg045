@@ -1,0 +1,258 @@
+lnd91301-040-p1s1
+1	PRVNÍ	CrNS1----------	Atr
+2	POLOLETÍ	NNNS1-----A----	ExD
+3	SOUKROMÉHO	AANS2----1A----	Atr
+4	GYMNÁZIA	NNNS2-----A----	Atr
+
+lnd91301-040-p2s1A
+1	První	CrFP1----------	Atr
+2	vánoce	NNFP1-----A----	ExD
+3	BRNO	NNNS1-----A----	ExD
+4	(	Z:-------------	ExD
+5	mlp	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+lnd91301-040-p2s1B
+1	První	CrFP4----------	Atr
+2	vánoce	NNFP4-----A----	Obj
+3	oslavili	VpMP---XR-AA---	Pred
+4	studenti	NNMP1-----A----	Sb
+5	a	J^-------------	Coord
+6	učitelé	NNMP1-----A----	Sb
+7	na	RR--6----------	AuxP
+8	lužáneckém	AANS6----1A----	Atr
+9	soukromém	AANS6----1A----	Atr
+10	gymnáziu	NNNS6-----A----	Adv
+11	v	RR--6----------	AuxP
+12	Brně	NNNS6-----A----	AtrAdv
+13	.	Z:-------------	AuxK
+
+lnd91301-040-p2s2
+1	První	CrIS1----------	Atr
+2	školní	AAIS1----1A----	Atr
+3	rok	NNIS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	sice	Db-------------	Adv
+6	ještě	Db-------------	AuxZ
+7	nepřehoupl	VpYS---XR-NA--1	Pred
+8	ani	J^-------------	AuxZ
+9	do	RR--2----------	AuxP
+10	druhého	CrNS2----------	Atr
+11	pololetí	NNNS2-----A----	Adv
+12	,	Z:-------------	Coord
+13	majitel	NNMS1-----A----	Atr
+14	a	J^-------------	Coord
+15	ředitel	NNMS1-----A----	Atr
+16	školy	NNFS2-----A----	Atr
+17	Petr	NNMS1-----A----	Atr
+18	Holeček	NNMS1-----A----	Sb
+19	se	P7-X4----------	AuxT
+20	musí	VB-S---3P-AA---	Pred
+21	na	RR--6----------	AuxP
+22	prahu	NNIS6-----A----	Adv
+23	nového	AAIS2----1A----	Atr
+24	kalendářního	AAIS2----1A----	Atr
+25	roku	NNIS2-----A---1	Atr
+26	zabývat	Vf--------A----	Obj
+27	i	J^-------------	AuxZ
+28	budoucností	NNFS7-----A----	Obj
+29	zdánlivě	Dg-------1A----	Adv
+30	vzdálenou	AAFS7----1A----	Atr
+31	.	Z:-------------	AuxK
+
+lnd91301-040-p2s3
+1	Když	J,-------------	AuxC
+2	jsme	VB-P---1P-AA---	AuxV
+3	spolu	Db-------------	Adv
+4	hovořili	VpMP---XR-AA---	Adv
+5	v	RR--6----------	AuxP
+6	září	NNNS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	zmínil	VpYS---XR-AA---	Pred
+9	jste	VB-P---2P-AA---	AuxV
+10	se	P7-X4----------	AuxT
+11	o	RR--6----------	AuxP
+12	problému	NNIS6-----A----	Obj
+13	s	RR--7----------	AuxP
+14	nedostatečnými	AAIP7----1N----	Atr
+15	vyučovacími	AAIP7----1A----	Atr
+16	prostory	NNIP7-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd91301-040-p3s1
+1	"	Z:-------------	AuxG
+2	Řešení	NNNS4-----A----	Obj
+3	tohoto	PDZS2----------	Atr
+4	problému	NNIS2-----A----	Atr
+5	samozřejmě	Dg-------1A----	Adv
+6	neodkládáme	VB-P---1P-NA---	Pred
+7	,	Z:-------------	Coord
+8	v	RR--4----------	AuxP
+9	úvahu	NNFS4-----A----	Obj
+10	připadá	VB-S---3P-AA---	Pred
+11	několik	Ca--1----------	Sb
+12	variant	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	bylo	VpNS---XR-AA---	Pred
+16	by	Vc-------------	AuxV
+17	předčasné	AANS1----1A----	Pnom
+18	kteroukoli	PZFS4---------1	Obj
+19	z	RR--2----------	AuxP
+20	nich	P5XP2--3-------	Atr
+21	považovat	Vf--------A----	Sb
+22	za	RR--4----------	AuxP
+23	definitivní	AAFS4----1A----	Obj
+24	.	Z:-------------	AuxK
+
+lnd91301-040-p3s2
+1	Každopádně	Db-------------	Adv
+2	příští	AAIS4----1A----	Atr
+3	rok	NNIS4-----A----	Adv
+4	otevřeme	VB-P---1P-AA---	Pred
+5	tři	ClXP4----------	Atr
+6	až	J^-------------	Coord
+7	čtyři	ClXP4----------	Atr
+8	třídy	NNFP4-----A----	Obj
+9	prvního	CrIS2----------	Atr
+10	ročníku	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	bohužel	TT-------------	Adv
+13	za	RR--4----------	AuxP
+14	školné	NNNS4-----A----	Adv
+15	zvýšené	AANS4----1A----	Atr
+16	o	RR--4----------	AuxP
+17	sto	ClXP4----------	Adv
+18	korun	NNFP2-----A----	Atr
+19	za	RR--4----------	AuxP
+20	měsíc	NNIS4-----A----	Atr
+21	.	Z:-------------	AuxK
+22	"	Z:-------------	AuxG
+
+lnd91301-040-p4s1
+1	Vaše	PSHP1-P2-------	Atr
+2	gymnázium	NNNS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	od	RR--2----------	AuxP
+5	ostatních	AAFP2----1A----	Atr
+6	středních	AAFP2----1A----	Atr
+7	škol	NNFP2-----A----	Obj
+8	výrazně	Dg-------1A----	Adv
+9	liší	VB-S---3P-AA---	Pred
+10	v	RR--6----------	AuxP
+11	proporcích	NNFP6-----A----	Adv
+12	týdenního	AAIS2----1A----	Atr
+13	rozvrhu	NNIS2-----A----	Atr
+14	hodin	NNFP2-----A----	Atr
+15	,	Z:-------------	Coord
+16	v	RR--6----------	AuxP
+17	obsahu	NNIS6-----A----	Adv
+18	i	J^-------------	Coord
+19	vyučovacích	AAFP6----1A----	Atr
+20	formách	NNFP6-----A----	Adv
+21	jednotlivých	AAIP2----1A----	Atr
+22	předmětů	NNIP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+lnd91301-040-p4s2
+1	Jak	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	žáci	NNMP1-----A----	Sb
+4	s	RR--7----------	AuxP
+5	těmito	PDXP7----------	Atr
+6	"	Z:-------------	AuxG
+7	zvláštnostmi	NNFP7-----A----	Obj
+8	"	Z:-------------	AuxG
+9	vyrovnávají	VB-P---3P-AA---	Pred
+10	?	Z:-------------	AuxK
+
+lnd91301-040-p5s1
+1	"	Z:-------------	AuxG
+2	Využívat	Vf--------A----	Sb
+3	,	Z:-------------	AuxX
+4	a	J^-------------	Coord
+5	přitom	Db-------------	Adv
+6	nezneužívat	Vf--------N----	Sb
+7	nabízený	AAIS4----1A----	Atr
+8	prostor	NNIS4-----A----	Obj
+9	svobody	NNFS2-----A----	Atr
+10	je	VB-S---3P-AA---	Pred
+11	pro	RR--4----------	AuxP
+12	naše	PSXP4-P1-------	Atr
+13	studenty	NNMP4-----A----	Obj
+14	samozřejmě	Dg-------1A----	Adv
+15	obtížné	AANS1----1A----	Pnom
+16	.	Z:-------------	AuxK
+
+lnd91301-040-p5s2
+1	Určitých	AAIP2----1A----	Atr
+2	negativních	AAIP2----1A----	Atr
+3	návyků	NNIP2-----A----	Obj
+4	ze	RV--2----------	AuxP
+5	základních	AAFP2----1A----	Atr
+6	škol	NNFP2-----A----	Atr
+7	nejsou	VB-P---3P-NA---	Pred
+8	schopni	ACMP------A----	Pnom
+9	zbavit	Vf--------A----	Obj
+10	se	P7-X4----------	Obj
+11	ze	RV--2----------	AuxP
+12	dne	NNIS2-----A----	Adv
+13	na	RR--4----------	AuxP
+14	den	NNIS4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+lnd91301-040-p5s3
+1	Pomáháme	VB-P---1P-AA---	Pred
+2	jim	PPXP3--3-------	Obj
+3	v	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	,	Z:-------------	AuxX
+6	jak	Db-------------	Adv
+7	nejlépe	Dg-------3A----	Adv
+8	umíme	VB-P---1P-AA---	Adv
+9	.	Z:-------------	AuxK
+
+lnd91301-040-p5s4
+1	Vydáváme	VB-P---1P-AA---	Pred
+2	pro	RR--4----------	AuxP
+3	studenty	NNMP4-----A----	Obj
+4	časopis	NNIS4-----A----	Obj
+5	,	Z:-------------	Coord
+6	zveme	VB-P---1P-AA---	Pred
+7	sem	Db-------------	Adv
+8	na	RR--4----------	AuxP
+9	besedy	NNFP4-----A----	Adv
+10	pozoruhodné	AAFP4----1A----	Atr
+11	a	J^-------------	Coord
+12	zdánlivě	Dg-------1A----	Adv
+13	nedostupné	AAFP4----1N----	Atr
+14	osobnosti	NNFP4-----A----	Obj
+15	(	Z:-------------	AuxG
+16	na	RR--4----------	AuxP
+17	podzim	NNIS4-----A----	Adv
+18	zde	Db-------------	Adv
+19	byl	VpYS---XR-AA---	Pred
+20	Zdeněk	NNMS1-----A----	Atr
+21	Svěrák	NNMS1-----A----	Sb
+22	)	Z:-------------	AuxG
+23	.	Z:-------------	AuxK
+
+lnd91301-040-p5s5
+1	Poslední	AAIS1----1A----	Atr
+2	předvánoční	AAIS1----1A----	Atr
+3	den	NNIS1-----A----	Sb
+4	byl	VpYS---XR-AA---	Pred
+5	prakticky	Dg-------1A----	Adv
+6	zcela	Db-------------	Adv
+7	v	RR--6----------	AuxP
+8	režii	NNFS6-----A----	Adv
+9	studentů	NNMP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	a	J^-------------	Coord
+12	nedopadlo	VpNS---XR-NA--1	Pred
+13	to	PDNS1----------	Sb
+14	špatně	Dg-------1A----	Adv
+15	.	Z:-------------	AuxK
+16	"	Z:-------------	AuxG
+

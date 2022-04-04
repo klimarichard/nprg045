@@ -1,0 +1,252 @@
+cmpr9415-011-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	5	C=-------------	Atr
+
+cmpr9415-011-p2s1
+1	Kancelář	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	PROG	NNIS1-----A----	Atr
+
+cmpr9415-011-p3s1
+1	Oblast	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Turecko	NNNS1-----A----	ExD
+4	-	Z:-------------	AuxG
+5	Bodrum	NNIS1-----A----	ExD
+6	-	Z:-------------	Coord
+7	Bitez	NNIS1-----A----	ExD
+
+cmpr9415-011-p4s1
+1	Ubytovací	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Hotel	NNIS1-----A----	ExD
+5	Bitez	AAXXX----1A----	Atr
+6	Han	NNFP2-----A----	Atr
+7	*	Z:-------------	AuxG
+8	*	Z:-------------	AuxG
+9	*	Z:-------------	AuxG
+
+cmpr9415-011-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	osobu	NNFS4-----A----	Atr
+4	Kč	NNFXX-----A----	Atr
+5	:	Z:-------------	Pred
+6	11890	C=-------------	Pnom
+
+cmpr9415-011-p6s1
+1	Dítě	NNNS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	Od	RR--2----------	AuxP
+4	1	C=-------------	ExD
+5	do	RR--2----------	AuxP
+6	2	C=-------------	Atr
+7	let	NNNP2-----A----	ExD
+8	zdarma	Db-------------	ExD
+9	,	Z:-------------	Coord
+10	od	RR--2----------	AuxP
+11	3	C=-------------	ExD
+12	do	RR--2----------	AuxP
+13	12	C=-------------	Atr
+14	let	NNNP2-----A----	ExD
+15	25	C=-------------	Atr
+16	%	Z:-------------	AuxG
+17	sleva	NNFS1-----A----	ExD
+18	.	Z:-------------	AuxK
+
+cmpr9415-011-p7s1
+1	Stravování	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Polopenze	NNFS1-----A----	ExD
+4	.	Z:-------------	AuxK
+
+cmpr9415-011-p8s1
+1	Doprava	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Letecky	Dg-------1A----	ExD
+4	z	RR--2----------	AuxP
+5	Prahy	NNFS2-----A----	Adv
+6	21	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	5	C=-------------	Adv
+9	.	Z:-------------	AuxG
+10	1994	C=-------------	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9415-011-p9s1
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Bodrum	NNIS1-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	rozkládá	VB-S---3P-AA---	Pred
+6	na	RR--6----------	AuxP
+7	místě	NNNS6-----A----	Adv
+8	antického	AANS2----1A----	Atr
+9	města	NNNS2-----A----	Atr
+10	Halikarnass	NNIS1-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9415-011-p9s2
+1	Ve	RV--6----------	AuxP
+2	městě	NNNS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	hrobka	NNFS1-----A----	Sb
+5	krále	NNMS2-----A----	Atr
+6	Mausola	NNMS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	středověký	AAIS1----1A----	Atr
+9	hrad	NNIS1-----A----	Sb
+10	a	J^-------------	Coord
+11	další	AAFP1----1A----	Atr
+12	středověké	AAFP1----1A----	Atr
+13	stavby	NNFP1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+cmpr9415-011-p9s3
+1	Má	VB-S---3P-AA---	Pred
+2	množství	NNNS4-----A----	Obj
+3	restaurací	NNFP2-----A----	Atr
+4	a	J^-------------	Coord
+5	malých	AAIP2----1A----	Atr
+6	krámků	NNIP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9415-011-p10s1
+1	Pláže	NNFP1-----A----	Sb
+2	Bitez	NNIS1-----A----	Atr
+3	,	Z:-------------	AuxX
+4	kde	Db-------------	Adv
+5	stojí	VB-S---3P-AA---	Atr
+6	hotel	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	jsou	VB-P---3P-AA---	Pred
+9	od	RR--2----------	AuxP
+10	Bodrumu	NNIS2-----A----	Adv
+11	vzdáleny	VsTP---XX-AP---	Pnom
+12	asi	TT-------------	AuxZ
+13	5	C=-------------	Adv
+14	km	NNIXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9415-011-p10s2
+1	Stálé	AANS4----1A----	Atr
+2	spojení	NNNS4-----A----	Obj
+3	obstarávají	VB-P---3P-AA---	Pred
+4	mikrobusy	NNIP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	které	P4IP1----------	Sb
+7	zastaví	VB-P---3P-AA---	Atr
+8	na	RR--4----------	AuxP
+9	znamení	NNNS4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9415-011-p10s3
+1	Na	RR--6----------	AuxP
+2	pláži	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	pronájem	NNIS1-----A----	Sb
+5	sportovních	AAFP2----1A----	Atr
+6	potřeb	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9415-011-p10s4
+1	Lze	VB-S---3P-AA---	Pred
+2	absolvovat	Vf--------A----	Sb
+3	také	Db-------------	AuxZ
+4	mezinárodní	AAIS4----1A----	Atr
+5	potápěčský	AAIS4----1A----	Atr
+6	kurs	NNIS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+cmpr9415-011-p11s1
+1	Z	RR--2----------	AuxP
+2	hotelu	NNIS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	pláž	NNFS4-----A----	Adv
+6	30	C=-------------	Sb
+7	m	NNIXX-----A---8	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9415-011-p11s2
+1	Jednopatrová	AAFS1----1A----	Atr
+2	budova	NNFS1-----A----	ExD
+3	s	RR--7----------	AuxP
+4	bazénem	NNIS7-----A----	Atr
+5	a	J^-------------	Coord
+6	brouzdalištěm	NNNS7-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	děti	NNFP4-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9415-011-p11s3
+1	K	RR--3----------	AuxP
+2	dispozici	NNFS3-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	restaurace	NNFS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	dva	ClYP1----------	Atr
+7	bary	NNIP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	hala	NNFS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	turecké	AAFP1----1A----	Atr
+12	lázně	NNFP1-----A----	Sb
+13	a	J^-------------	Coord
+14	sauna	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+cmpr9415-011-p12s1
+1	Polopenze	NNFS1-----A----	ExD
+2	,	Z:-------------	Apos
+3	snídaně	NNFP1-----A----	ExD
+4	formou	NNFS7-----A----	Atr
+5	švédského	AAIS2----1A----	Atr
+6	stolu	NNIS2-----A----	Atr
+7	a	J^-------------	Coord
+8	večeře	NNFP1-----A----	ExD
+9	s	RR--7----------	AuxP
+10	jedním	ClZS7----------	Atr
+11	teplým	AANS7----1A----	Atr
+12	jídlem	NNNS7-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9415-011-p12s2
+1	Příplatek	NNIS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	plnou	AAFS4----1A----	Atr
+4	penzi	NNFS4-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	možný	AAIS1----1A----	Pnom
+7	až	TT-------------	AuxZ
+8	na	RR--6----------	AuxP
+9	místě	NNNS6-----A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9415-011-p13s1
+1	V	RR--6----------	AuxP
+2	ceně	NNFS6-----A----	Adv
+3	není	VB-S---3P-NA---	Pred
+4	započten	VsYS---XX-AP---	Pnom
+5	poplatek	NNIS1-----A----	Sb
+6	za	RR--4----------	AuxP
+7	vizum	NNNS4-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4NS1----------	Sb
+10	se	P7-X4----------	AuxR
+11	vystavuje	VB-S---3P-AA---	Atr
+12	po	RR--6----------	AuxP
+13	příletu	NNIS6-----A----	Adv
+14	na	RR--6----------	AuxP
+15	letišti	NNNS6-----A----	Adv
+16	a	J^-------------	Coord
+17	stojí	VB-S---3P-AA---	Atr
+18	10	C=-------------	Adv
+19	USD	NNIXX-----A---8	Atr
+20	nebo	J^-------------	Coord
+21	20	C=-------------	Adv
+22	DEM	NNFXX-----A---8	Atr
+23	.	Z:-------------	AuxK
+

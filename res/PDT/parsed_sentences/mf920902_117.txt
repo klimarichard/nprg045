@@ -1,0 +1,176 @@
+mf920902-117-p1s1
+1	Mongolské	AAFP1----1A----	Atr
+2	šičky	NNFP1-----A----	ExD
+3	ve	RV--6----------	AuxP
+4	Svitu	NNIS6-----A---1	ExD
+
+mf920902-117-p2s1
+1	Zlín	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	do	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920902-117-p2s2
+1	Dvě	ClHP4----------	Atr
+2	stovky	NNFP4-----A----	Obj
+3	zapracovaných	AAFP2----1A----	Atr
+4	šiček	NNFP2-----A----	Atr
+5	z	RR--2----------	AuxP
+6	Mongolska	NNNS2-----A----	Atr
+7	bude	VB-S---3F-AA---	AuxV
+8	zaměstnávat	Vf--------A----	Pred
+9	a	AAXXX----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	s	NNFXX-----A---8	Sb
+12	.	Z:-------------	AuxG
+13	Svit	NNIS1-----A----	Atr
+14	Zlín	NNIS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920902-117-p2s4
+1	Podle	RR--2----------	AuxP
+2	právě	Db-------------	Adv
+3	podepsané	AAFS2----1A----	Atr
+4	smlouvy	NNFS2-----A----	Adv
+5	s	RR--7----------	AuxP
+6	ředitelem	NNMS7-----A----	Atr
+7	podniku	NNIS2-----A----	Atr
+8	Gutal	NNIS1-----A----	Atr
+9	z	RR--2----------	AuxP
+10	Ulánbátaru	NNIS2-----A----	AtrAtr
+11	by	Vc-------------	AuxV
+12	měly	VpTP---XR-AA---	Pred
+13	nastoupit	Vf--------A----	Obj
+14	už	Db-------------	AuxZ
+15	15	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	října	NNIS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+mf920902-117-p2s5
+1	Mimo	RR--4----------	AuxP
+2	to	PDNS4----------	Adv
+3	Svit	NNIS1-----A----	Sb
+4	jedná	VB-S---3P-AA---	Pred
+5	ještě	Db-------------	AuxZ
+6	s	RR--7----------	AuxP
+7	pražskou	AAFS7----1A----	Atr
+8	Polytechnou	NNFS7-----A----	Obj
+9	o	RR--6----------	AuxP
+10	zprostředkování	NNNS6-----A----	Obj
+11	další	AAFS2----1A----	Atr
+12	stovky	NNFS2-----A----	Atr
+13	šiček	NNFP2-----A----	Atr
+14	z	RR--2----------	AuxP
+15	Ukrajiny	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920902-117-p2s6
+1	Poslední	AAMP1----1A----	Atr
+2	zahraniční	AAMP1----1A----	Atr
+3	dělníci	NNMP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	ve	RV--6----------	AuxP
+7	Zlíně	NNIS6-----A----	Adv
+8	vyráběli	VpMP---XR-AA---	Atr
+9	boty	NNFP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	se	P7-X4----------	AuxT
+12	vraceli	VpMP---XR-AA---	Pred
+13	domů	Db-------------	Adv
+14	v	RR--6----------	AuxP
+15	únoru	NNIS6-----A----	Adv
+16	letošního	AAIS2----1A----	Atr
+17	roku	NNIS2-----A---1	Atr
+18	.	Z:-------------	AuxK
+
+mf920902-117-p2s7
+1	Naprostý	AAIS1----1A----	Atr
+2	nezájem	NNIS1-----A----	Sb
+3	žen	NNFP2-----A----	Atr
+4	ze	RV--2----------	AuxP
+5	zlínského	AAIS2----1A----	Atr
+6	okresu	NNIS2-----A----	Atr
+7	i	J^-------------	Coord
+8	spádových	AAFP2----1A----	Atr
+9	oblastí	NNFP2-----A----	Atr
+10	ale	J^-------------	Coord
+11	znamenal	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	Svitu	NNIS3-----A----	Obj
+15	dnes	Db-------------	Adv
+16	chybí	VB-S---3P-AA---	Obj
+17	minimálně	Dg-------1A----	AuxZ
+18	350	C=-------------	Sb
+19	-	Z:-------------	Coord
+20	400	C=-------------	Sb
+21	šiček	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf920902-117-p2s8
+1	Ženy	NNFP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	Mongolska	NNNS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	z	RR--2----------	AuxP
+6	nichž	P9XP2----------	Adv
+7	mnohé	AAFP1----1A----	Sb
+8	ve	RV--6----------	AuxP
+9	Zlíně	NNIS6-----A----	Adv
+10	už	Db-------------	AuxZ
+11	před	RR--7----------	AuxP
+12	lety	NNNP7-----A----	Adv
+13	pracovaly	VpTP---XR-AA---	Atr
+14	,	Z:-------------	AuxX
+15	budou	VB-P---3F-AA---	AuxV
+16	mít	Vf--------A----	Pred
+17	smlouvy	NNFP4-----A----	Obj
+18	minimálně	Dg-------1A----	AuxZ
+19	na	RR--4----------	AuxP
+20	půl	NNFS4-----A----	AdvAtr
+21	roku	NNIS2-----A---1	Atr
+22	,	Z:-------------	Coord
+23	maximálně	Dg-------1A----	AuxZ
+24	na	RR--4----------	AuxP
+25	rok	NNIS4-----A----	AdvAtr
+26	.	Z:-------------	AuxK
+
+mf920902-117-p2s9
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	ovšem	J^-------------	AuxY
+4	u	RR--2----------	AuxP
+5	nás	PP-P2--1-------	Adv
+6	nečekaně	Dg-------1N----	Adv
+7	stoupl	VpYS---XR-AA--1	Adv
+8	zájem	NNIS1-----A----	Sb
+9	o	RR--4----------	AuxP
+10	tuto	PDFS4----------	Atr
+11	profesi	NNFS4-----A----	Atr
+12	,	Z:-------------	AuxX
+13	v	RR--6----------	AuxP
+14	níž	P9FS6----------	Adv
+15	si	P7-X3----------	Adv
+16	při	RR--6----------	AuxP
+17	plnění	NNNS6-----A----	Adv
+18	základní	AAFS2----1A----	Atr
+19	normy	NNFS2-----A----	Atr
+20	lze	VB-S---3P-AA---	Atr
+21	vydělat	Vf--------A----	Sb
+22	3500	C=-------------	Obj
+23	až	J^-------------	Coord
+24	4000	C=-------------	Obj
+25	korun	NNFP2-----A----	Atr
+26	měsíčně	Dg-------1A----	Adv
+27	,	Z:-------------	AuxX
+28	lze	VB-S---3P-AA---	Pred
+29	smlouvy	NNFP4-----A----	Obj
+30	se	RV--7----------	AuxP
+31	zahraničními	AAFP7----1A----	Atr
+32	dělnicemi	NNFP7-----A----	Atr
+33	vypovědět	Vf--------A----	Sb
+34	.	Z:-------------	AuxK
+

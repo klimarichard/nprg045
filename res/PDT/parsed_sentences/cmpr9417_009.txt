@@ -1,0 +1,222 @@
+cmpr9417-009-p3s1
+1	|	Z:-------------	ExD
+2	Daňový	AAMS1----1A----	Atr
+3	poradce	NNMS1-----A----	ExD
+4	|	Z:-------------	ExD
+
+cmpr9417-009-p6s1
+1	Odklad	NNIS1-----A----	ExD
+2	daně	NNFS2-----A----	Atr
+
+cmpr9417-009-p7s1
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1992	C=-------------	Atr
+4	jsem	VB-S---1P-AA---	AuxV
+5	začal	VpYS---XR-AA---	Pred
+6	podnikat	Vf--------A----	Obj
+7	na	RR--6----------	AuxP
+8	základě	NNIS6-----A----	AuxP
+9	koncesované	AAFS2----1A----	Atr
+10	živnosti	NNFS2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9417-009-p7s2
+1	V	RR--6----------	AuxP
+2	daňovém	AANS6----1A----	Atr
+3	přiznání	NNNS6-----A----	Adv
+4	za	RR--4----------	AuxP
+5	rok	NNIS4-----A----	Atr
+6	1992	C=-------------	Atr
+7	jsem	VB-S---1P-AA---	AuxV
+8	požádal	VpYS---XR-AA---	Pred
+9	o	RR--4----------	AuxP
+10	60	C=-------------	Adv
+11	%	Z:-------------	Atr
+12	odklad	NNIS4-----A----	Obj
+13	placení	NNNS2-----A----	Atr
+14	daně	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9417-009-p7s3
+1	Až	TT-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	prosinci	NNIS6-----A----	Adv
+4	1993	C=-------------	Atr
+5	jsem	VB-S---1P-AA---	AuxV
+6	obdržel	VpYS---XR-AA---	Pred
+7	platební	AAIS4----1A----	Atr
+8	výměr	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	podle	RR--2----------	AuxP
+11	něhož	P9ZS2----------	Adv
+12	se	P7-X4----------	AuxR
+13	mi	PH-S3--1-------	Obj
+14	uznává	VB-S---3P-AA---	Atr
+15	jen	TT-------------	AuxZ
+16	20	C=-------------	Adv
+17	%	Z:-------------	Atr
+18	odklad	NNIS1-----A----	Sb
+19	daně	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9417-009-p7s4
+1	Bylo	VpNS---XR-AA---	AuxV
+2	mi	PH-S3--1-------	Obj
+3	sděleno	VsNS---XX-AP---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	roce	NNIS6-----A---1	Adv
+8	1990	C=-------------	Atr
+9	a	J^-------------	Coord
+10	1991	C=-------------	Atr
+11	jsem	VB-S---1P-AA---	AuxV
+12	podal	VpYS---XR-AA---	Sb
+13	přiznání	NNNS4-----A----	Obj
+14	za	RR--4----------	AuxP
+15	příjem	NNIS4-----A----	Atr
+16	z	RR--2----------	AuxP
+17	ubytování	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9417-009-p7s5
+1	Domnívám	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	hlavním	AAIS7----1A----	Atr
+6	důvodem	NNIS7-----A----	Pnom
+7	k	RR--3----------	AuxP
+8	poskytnutí	NNNS3-----A----	Atr
+9	odkladu	NNIS2-----A----	Atr
+10	daně	NNFS2-----A----	Atr
+11	bylo	VpNS---XR-AA---	Obj
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	podnikatelská	AAFS1----1A----	Atr
+15	činnost	NNFS1-----A----	Sb
+16	je	VB-S---3P-AA---	Sb
+17	hlavním	AANS7----1A----	Atr
+18	zaměstnáním	NNNS7-----A----	Pnom
+19	.	Z:-------------	AuxK
+
+cmpr9417-009-p7s6
+1	Celý	AAIS4----1A----	Atr
+2	rok	NNIS4-----A----	Adv
+3	jsem	VB-S---1P-AA---	AuxV
+4	žil	VpYS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	domnění	NNNS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	odklad	NNIS1-----A----	Sb
+10	je	VB-S---3P-AA---	Atr
+11	v	RR--6----------	AuxP
+12	pořádku	NNIS6-----A----	Adv
+13	a	J^-------------	Coord
+14	částku	NNFS4-----A----	Obj
+15	odložené	AAFS2----1A----	Atr
+16	daně	NNFS2-----A----	Atr
+17	jsem	VB-S---1P-AA---	AuxV
+18	proinvestoval	VpYS---XR-AA---	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9417-009-p8s1
+1	Ivan	NNMS1-----A----	Atr
+2	Pečev	NNMS1-----A----	ExD
+3	,	Z:-------------	ExD
+4	Liberec	NNIS1-----A----	ExD
+
+cmpr9417-009-p9s1
+1	Nárok	NNIS4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	odklad	NNIS4-----A----	Atr
+4	placení	NNNS2-----A----	Atr
+5	daně	NNFS2-----A----	Atr
+6	ve	RV--6----------	AuxP
+7	výši	NNFS6-----A----	Atr
+8	60	C=-------------	Atr
+9	%	Z:-------------	Atr
+10	nemáte	VB-P---2P-NA---	Pred
+11	v	RR--6----------	AuxP
+12	žádném	PWZS6----------	Atr
+13	případě	NNIS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9417-009-p10s1
+1	Pokud	J,-------------	AuxC
+2	jste	VB-P---2P-AA---	AuxV
+3	v	RR--6----------	AuxP
+4	roce	NNIS6-----A---1	Adv
+5	1990	C=-------------	Atr
+6	podal	VpYS---XR-AA---	Adv
+7	daňové	AANS4----1A----	Atr
+8	přiznání	NNNS4-----A----	Obj
+9	podle	RR--2----------	AuxP
+10	tehdy	Db-------------	Adv
+11	nového	AAIS2----1A----	Atr
+12	zákona	NNIS2-----A----	Adv
+13	č	NNNXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	389	C=-------------	Atr
+16	/	Z:-------------	AuxG
+17	1990	C=-------------	Atr
+18	Sb	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	o	RR--6----------	AuxP
+21	dani	NNFS6-----A----	Atr
+22	z	RR--2----------	AuxP
+23	příjmu	NNIS2-----A----	Atr
+24	obyvatelstva	NNNS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	tzn	VB-S---3P-AA--8	Apos
+27	.	Z:-------------	AuxG
+28	na	RR--6----------	AuxP
+29	"	Z:-------------	AuxG
+30	novém	AAIS6----1A----	Atr
+31	"	Z:-------------	AuxG
+32	formuláři	NNIS6-----A----	Adv
+33	,	Z:-------------	AuxX
+34	má	VB-S---3P-AA---	Pred
+35	finanční	AAIS1----1A----	Atr
+36	úřad	NNIS1-----A----	Sb
+37	pravdu	NNFS4-----A----	Obj
+38	,	Z:-------------	AuxX
+39	pokud	J,-------------	AuxC
+40	jste	VB-P---2P-AA---	AuxV
+41	nesplnil	VpYS---XR-NA---	Adv
+42	podmínky	NNFP4-----A----	Obj
+43	podle	RR--2----------	AuxP
+44	třetího	CrIS2----------	Atr
+45	odstavce	NNIS2-----A----	AtrAdv
+46	.	Z:-------------	AuxK
+
+cmpr9417-009-p13s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Jiří	NNMS1-----A----	Atr
+4	Gebarowský	NNMS1-----A----	ExD
+5	,	Z:-------------	Apos
+6	daňové	AANS1----1A----	Atr
+7	poradenství	NNNS1-----A----	ExD
+8	,	Z:-------------	AuxX
+9	Norská	AAFS1----1A----	Atr
+10	12	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	101	C=-------------	Atr
+13	00	C=-------------	Atr
+14	Praha	NNFS1-----A----	Atr
+15	10	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	tel	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	02	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	73	C=-------------	Atr
+24	89	C=-------------	Atr
+25	59	C=-------------	Atr
+26	.	Z:-------------	AuxK
+

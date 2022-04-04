@@ -1,0 +1,122 @@
+mf920922-038-p1s1
+1	Tramvaje	NNFP1-----A----	ExD
+2	omezeně	Dg-------1A----	ExD
+
+mf920922-038-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	sob	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920922-038-p2s2
+1	Kvůli	RR--3----------	AuxP
+2	výměně	NNFS3-----A----	Adv
+3	tramvajových	AAIP2----1A----	Atr
+4	panelů	NNIP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	pražské	AAFS6----1A----	Atr
+7	Moskevské	AAFS6----1A----	Atr
+8	ulici	NNFS6-----A----	AtrAtr
+9	ode	RV--2----------	AuxP
+10	dneška	NNIS2-----A----	Adv
+11	do	RR--2----------	AuxP
+12	9	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	10	C=-------------	Adv
+15	.	Z:-------------	AuxG
+16	večer	Db-------------	Adv
+17	dochází	VB-S---3P-AA---	Pred
+18	v	RR--6----------	AuxP
+19	oblasti	NNFS6-----A----	Adv
+20	Vinohrad	NNIP2-----A----	Atr
+21	a	J^-------------	Coord
+22	Vršovic	NNFP2-----A----	Atr
+23	ke	RV--3----------	AuxP
+24	změnám	NNFP3-----A----	Obj
+25	v	RR--6----------	AuxP
+26	tramvajové	AAFS6----1A----	Atr
+27	dopravě	NNFS6-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf920922-038-p2s3
+1	Týká	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	linek	NNFP2-----A----	Obj
+4	4	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	6	C=-------------	Atr
+7	,	Z:-------------	AuxX
+8	22	C=-------------	Atr
+9	,	Z:-------------	Coord
+10	57	C=-------------	Atr
+11	.	Z:-------------	AuxK
+
+mf920922-038-p2s4
+1	V	RR--6----------	AuxP
+2	úseku	NNIS6-----A----	Adv
+3	I	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	P	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Pavlova	NNMS2-----A----	Atr
+8	-	Z:-------------	AuxG
+9	Náměstí	NNNS1-----A----	Atr
+10	míru	NNIS2-----A----	Atr
+11	-	Z:-------------	AuxG
+12	Ruská	AAFS1----1A----	Atr
+13	-	Z:-------------	Coord
+14	Čechovo	AUNS1M---------	Atr
+15	náměstí	NNNS1-----A----	Atr
+16	bude	VB-S---3F-AA---	AuxV
+17	jezdit	Vf--------A----	Pred
+18	náhradní	AAFS1----1A----	Atr
+19	autobusová	AAFS1----1A----	Atr
+20	doprava	NNFS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+mf920922-038-p2s5
+1	Jestliže	J,-------------	AuxC
+2	cestující	AGMS1-----A----	Sb
+3	musí	VB-P---3P-AA--1	Adv
+4	náhradou	NNFS7-----A----	Adv
+5	za	RR--4----------	AuxP
+6	přerušené	AANS4----1A----	Atr
+7	dopravní	AANS4----1A----	Atr
+8	spojení	NNNS4-----A----	Atr
+9	použít	Vf--------A----	Obj
+10	více	Dg-------2A----	Obj
+11	dopravních	AAIP2----1A----	Atr
+12	prostředků	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	pak	Db-------------	Adv
+15	stále	Db-------------	Adv
+16	platí	VB-S---3P-AA---	Pred
+17	jízdenka	NNFS1-----A----	Sb
+18	z	RR--2----------	AuxP
+19	prvního	CrIS2----------	Atr
+20	prostředku	NNIS2-----A----	Atr
+21	i	J^-------------	AuxZ
+22	na	RR--6----------	AuxP
+23	ostatních	AAFP6----1A----	Atr
+24	linkách	NNFP6-----A----	Adv
+25	.	Z:-------------	AuxK
+
+mf920922-038-p2s6
+1	Při	RR--6----------	AuxP
+2	prvním	CrIS6----------	Atr
+3	přestupu	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	jízdenka	NNFS1-----A----	Sb
+6	označí	VB-S---3P-AA---	Pred
+7	na	RR--6----------	AuxP
+8	opačném	AAIS6----1A----	Atr
+9	konci	NNIS6-----A----	Adv
+10	,	Z:-------------	Coord
+11	při	RR--6----------	AuxP
+12	dalším	AAIS6----1A----	ExD
+13	se	P7-X4----------	AuxR
+14	již	Db-------------	Adv
+15	neoznačuje	VB-S---3P-NA---	Pred
+16	.	Z:-------------	AuxK
+

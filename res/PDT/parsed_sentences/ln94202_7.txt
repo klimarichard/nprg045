@@ -1,0 +1,222 @@
+ln94202-7-p1s1
+1	Produkce	NNFS1-----A----	Sb
+2	klesla	VpQW---XR-AA--1	Pred
+3	,	Z:-------------	Coord
+4	vývoz	NNIS1-----A----	Sb
+5	stoupl	VpYS---XR-AA--1	Pred
+
+ln94202-7-p2s1A
+1	Tokio	NNNS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94202-7-p2s1B
+1	Produkce	NNFS1-----A----	Sb
+2	dvou	ClXP2----------	Atr
+3	největších	AAFP2----3A----	Atr
+4	japonských	AAFP2----1A----	Atr
+5	automobilek	NNFP2-----A----	Atr
+6	Toyota	NNFS1-----A----	Atr
+7	a	J^-------------	Coord
+8	Nissan	NNIS1-----A----	Atr
+9	v	RR--6----------	AuxP
+10	červenci	NNIS6-----A----	Adv
+11	poklesla	VpQW---XR-AA--1	Pred
+12	,	Z:-------------	AuxX
+13	vývoz	NNIS1-----A----	Sb
+14	jejich	PSXXXXP3-------	Atr
+15	automobilů	NNIP2-----A----	Atr
+16	se	P7-X4----------	AuxT
+17	však	J^-------------	Coord
+18	zvýšil	VpYS---XR-AA---	Pred
+19	.	Z:-------------	AuxK
+
+ln94202-7-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	posledních	AAFP2----1A----	Atr
+5	zpráv	NNFP2-----A----	Adv
+6	obou	ClXP2----------	Atr
+7	společností	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94202-7-p3s1
+1	Domácí	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	Toyoty	NNFS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	červenci	NNIS6-----A----	AtrAdv
+6	v	RR--6----------	AuxP
+7	meziročním	AANS6----1A----	Atr
+8	srovnání	NNNS6-----A----	Adv
+9	poklesla	VpQW---XR-AA--1	Pred
+10	o	RR--4----------	AuxP
+11	3.3	C=-------------	Adv
+12	procenta	NNNS2-----A----	Atr
+13	na	RR--4----------	AuxP
+14	313813	C=-------------	Obj
+15	vozů	NNIP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	když	J,-------------	AuxC
+18	v	RR--6----------	AuxP
+19	předešlém	AAIS6----1A----	Atr
+20	měsíci	NNIS6-----A----	Adv
+21	automobilka	NNFS1-----A----	Sb
+22	zaznamenala	VpQW---XR-AA---	Adv
+23	svůj	P8IS4----------	Atr
+24	první	CrIS4----------	Atr
+25	nárůst	NNIS4-----A----	Obj
+26	po	RR--6----------	AuxP
+27	13	C=-------------	Atr
+28	měsících	NNIP6-----A----	AtrAdv
+29	.	Z:-------------	AuxK
+
+ln94202-7-p3s2
+1	Zámořská	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	však	J^-------------	AuxY
+4	stoupla	VpQW---XR-AA--1	Pred
+5	o	RR--4----------	AuxP
+6	18	C=-------------	Adv
+7	procent	NNNP2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	85166	C=-------------	Obj
+10	vozů	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94202-7-p4s1
+1	Export	NNIS1-----A----	Sb
+2	Toyoty	NNFS2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	v	RR--6----------	AuxP
+5	červenci	NNIS6-----A----	Adv
+6	zvýšil	VpYS---XR-AA---	Pred
+7	o	RR--4----------	AuxP
+8	8.1	C=-------------	Adv
+9	procenta	NNNS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	139739	C=-------------	Obj
+12	vozů	NNIP2-----A----	Atr
+13	díky	RR--3----------	AuxP
+14	nárůstu	NNIS3-----A----	Adv
+15	vývozu	NNIS2-----A----	Atr
+16	do	RR--2----------	AuxP
+17	Severní	AAFS2----1A----	Atr
+18	Ameriky	NNFS2-----A----	Atr
+19	a	J^-------------	Coord
+20	Oceánie	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94202-7-p4s2
+1	Domácí	AAIS1----1A----	Atr
+2	odbyt	NNIS1-----A----	Sb
+3	vzrostl	VpYS---XR-AA---	Pred
+4	o	RR--4----------	AuxP
+5	0.3	C=-------------	Adv
+6	procenta	NNNS2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	204423	C=-------------	Obj
+9	vozů	NNIP2-----A----	Atr
+10	s	RR--7----------	AuxP
+11	podporou	NNFS7-----A----	Adv
+12	poptávky	NNFS2-----A----	Atr
+13	po	RR--6----------	AuxP
+14	luxusních	AAIP6----1A----	Atr
+15	typech	NNIP6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94202-7-p5s1
+1	Produkce	NNFS1-----A----	Sb
+2	Nissanu	NNIS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	posledním	AAIS6----1A----	Atr
+5	měsíci	NNIS6-----A----	AtrAdv
+6	prudce	Dg-------1A----	Adv
+7	poklesla	VpQW---XR-AA--1	Pred
+8	o	RR--4----------	AuxP
+9	17.7	C=-------------	Adv
+10	procenta	NNNS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	139407	C=-------------	Obj
+13	vozů	NNIP2-----A----	Atr
+14	a	J^-------------	Coord
+15	červenec	NNIS1-----A----	Sb
+16	tak	Db-------------	Adv
+17	byl	VpYS---XR-AA---	Pred
+18	25	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	měsícem	NNIS7-----A----	Pnom
+21	nepřetržitého	AAIS2----1A----	Atr
+22	poklesu	NNIS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94202-7-p5s2
+1	V	RR--6----------	AuxP
+2	zahraničí	NNNS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	však	J^-------------	AuxY
+5	vyrobilo	VpNS---XR-AA---	Pred
+6	72666	C=-------------	Sb
+7	vozů	NNIP2-----A----	Atr
+8	Nissan	NNIS1-----A----	Atr
+9	,	Z:-------------	Coord
+10	což	PE--1----------	Sb
+11	představovalo	VpNS---XR-AA---	Pred
+12	nárůst	NNIS4-----A----	Obj
+13	o	RR--4----------	AuxP
+14	1.7	C=-------------	Atr
+15	procenta	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94202-7-p6s1
+1	Vývoz	NNIS1-----A----	Sb
+2	aut	NNNP2-----A----	Atr
+3	Nissan	NNIS1-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	červenci	NNIS6-----A----	Adv
+7	zvýšil	VpYS---XR-AA---	Pred
+8	o	RR--4----------	AuxP
+9	13.4	C=-------------	Adv
+10	procenta	NNNS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	63981	C=-------------	Obj
+13	vozů	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	když	J,-------------	AuxC
+16	v	RR--6----------	AuxP
+17	červnu	NNIS6-----A----	Adv
+18	automobilka	NNFS1-----A----	Sb
+19	zaznamenala	VpQW---XR-AA---	Adv
+20	svůj	P8IS4----------	Atr
+21	první	CrIS4----------	Atr
+22	růst	NNIS4-----A----	Obj
+23	exportu	NNIS2-----A----	Atr
+24	po	RR--6----------	AuxP
+25	23	C=-------------	Atr
+26	měsících	NNIP6-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln94202-7-p6s2
+1	Prodej	NNIS1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	domácí	AAFS6----1A----	Atr
+4	půdě	NNFS6-----A----	Atr
+5	však	J^-------------	Coord
+6	dále	Db------------1	Adv
+7	klesal	VpYS---XR-AA---	Pred
+8	již	Db-------------	AuxZ
+9	desátý	CrIS4----------	Atr
+10	měsíc	NNIS4-----A----	Adv
+11	za	RR--7----------	AuxP
+12	sebou	P6-X7----------	Atv
+13	,	Z:-------------	Coord
+14	tentokrát	Db-------------	ExD
+15	o	RR--4----------	AuxP
+16	6.4	C=-------------	ExD
+17	procenta	NNNS2-----A----	Atr
+18	na	RR--4----------	AuxP
+19	112436	C=-------------	ExD
+20	vozů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+

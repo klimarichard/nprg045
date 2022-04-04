@@ -1,0 +1,211 @@
+lnd94104-008-p1s1A
+1	Špatnou	AAFS4----1A----	Atr
+2	banku	NNFS4-----A----	Obj
+3	nikdo	PWM-1----------	Sb
+4	nepozná	VB-S---3P-NA---	Pred
+
+lnd94104-008-p1s1B
+1	ČNB	NNFXX-----A---8	Sb
+2	chystá	VB-S---3P-AA---	Pred
+3	nová	AANP4----1A----	Atr
+4	kontrolní	AANP4----1A----	Atr
+5	opatření	NNNP4-----A----	Obj
+
+lnd94104-008-p1s1C
+1	Konec	NNIS1-----A----	ExD
+2	podtitulku	NNIS2-----A----	Atr
+
+lnd94104-008-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ol	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94104-008-p1s3
+1	Obyčejný	AAMS1----1A----	Atr
+2	občan	NNMS1-----A----	Sb
+3	nemá	VB-S---3P-NA---	Pred
+4	téměř	Db-------------	AuxZ
+5	žádnou	PWFS4----------	Atr
+6	šanci	NNFS4-----A----	Obj
+7	zjistit	Vf--------A----	Atr
+8	v	RR--6----------	AuxP
+9	dostatečném	AAIS6----1A----	Atr
+10	předstihu	NNIS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	banka	NNFS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	v	RR--6----------	AuxP
+16	níž	P9FS6----------	Adv
+17	má	VB-S---3P-AA---	Atr
+18	uloženy	VsTP---XX-AP---	Atv
+19	peníze	NNIP4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	si	P7-X3----------	AuxT
+22	vede	VB-S---3P-AA---	Obj
+23	špatně	Dg-------1A----	Adv
+24	a	J^-------------	Coord
+25	čekají	VB-P---3P-AA---	Obj
+26	ji	PPFS4--3-------	Obj
+27	potíže	NNFP1-----A----	Sb
+28	při	RR--6----------	AuxP
+29	vyrovnávání	NNNS6-----A----	AdvAtr
+30	závazků	NNIP2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+lnd94104-008-p1s4
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ze	RV--2----------	AuxP
+4	semináře	NNIS2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	který	P4IS4----------	Obj
+7	včera	Db-------------	Adv
+8	uspořádala	VpQW---XR-AA---	Atr
+9	v	RR--6----------	AuxP
+10	Řeži	NNFS6-----A----	Adv
+11	u	RR--2----------	AuxP
+12	Prahy	NNFS2-----A----	Atr
+13	Česká	AAFS1----1A----	Atr
+14	národní	AAFS1----1A----	Atr
+15	banka	NNFS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+lnd94104-008-p1s5
+1	O	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Kaftan	NNMS1-----A----	Sb
+4	,	Z:-------------	Apos
+5	člen	NNMS1-----A----	Sb
+6	bankovní	AAFS2----1A----	Atr
+7	rady	NNFS2-----A----	Atr
+8	ČNB	NNFXX-----A---8	Atr
+9	pověřený	AAMS1----1A----	Atr
+10	řízením	NNNS7-----A----	Obj
+11	bankovního	AAIS2----1A----	Atr
+12	dohledu	NNIS2-----A----	Atr
+13	přiznal	VpYS---XR-AA---	Pred
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	v	RR--6----------	AuxP
+17	praxi	NNFS6-----A----	Adv
+18	dohledu	NNIS2-----A----	Atr
+19	byla	VpQW---XR-AA---	Obj
+20	v	RR--6----------	AuxP
+21	poslední	AAFS6----1A----	Atr
+22	době	NNFS6-----A----	Adv
+23	slabá	AANP1----1A----	Atr
+24	místa	NNNP1-----A----	Sb
+25	,	Z:-------------	Coord
+26	což	PE--4----------	Obj
+27	potvrdila	VpQW---XR-AA---	Pred
+28	i	J^-------------	AuxZ
+29	kauza	NNFS1-----A----	Sb
+30	Banky	NNFS2-----A----	Atr
+31	Bohemia	NNFXX-----A----	Atr
+32	.	Z:-------------	AuxK
+
+lnd94104-008-p1s6
+1	Ty	PDFP4----------	Obj
+2	by	Vc-------------	AuxV
+3	měla	VpQW---XR-AA---	Pred
+4	řešit	Vf--------A----	Obj
+5	i	J^-------------	AuxZ
+6	nedávná	AAFS1----1N----	Atr
+7	reorganizace	NNFS1-----A----	Sb
+8	bankovního	AAIS2----1A----	Atr
+9	dohledu	NNIS2-----A----	Atr
+10	ČNB	NNFXX-----A---8	Atr
+11	.	Z:-------------	AuxK
+
+lnd94104-008-p1s7
+1	Dalším	AAIS7----1A----	Atr
+2	problémem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	nedostatečná	AAFS1----1N----	Atr
+5	standardizace	NNFS1-----A----	Sb
+6	ověřování	NNNS2-----A----	Atr
+7	účetních	AAIP2----1A----	Atr
+8	výkazů	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	tak	J^-------------	AuxY
+12	mohou	VB-P---3P-AA--1	Pred
+13	být	Vf--------A----	AuxV
+14	některá	PZNP1----------	Atr
+15	důležitá	AANP1----1A----	Atr
+16	čísla	NNNP1-----A----	Sb
+17	vykládána	VsQW---XX-AP---	Obj
+18	různým	AAIS7----1A----	Atr
+19	způsobem	NNIS7-----A----	Adv
+20	.	Z:-------------	AuxK
+
+lnd94104-008-p1s8
+1	Jak	J,-------------	Adv
+2	řekl	VpYS---XR-AA---	Pred
+3	O	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Kaftan	NNMS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	velké	AAFP1----1A----	Atr
+8	banky	NNFP1-----A----	Sb
+9	již	Db-------------	Adv
+10	nemají	VB-P---3P-NA---	Pred
+11	žádné	PWYP4----------	Atr
+12	problémy	NNIP4-----A----	Obj
+13	se	RV--7----------	AuxP
+14	špatnými	AAIP7----1A----	Atr
+15	úvěry	NNIP7-----A----	Atr
+16	z	RR--2----------	AuxP
+17	minulosti	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94104-008-p1s9
+1	Ukazatelem	NNIS7-----A----	Pnom
+2	důvěryhodnosti	NNFS2-----A----	Atr
+3	může	VB-S---3P-AA---	Pred
+4	být	Vf--------A----	Obj
+5	tzv	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	kapitálová	AAFS1----1A----	Atr
+8	přiměřenost	NNFS1-----A----	Sb
+9	blízká	AAFS1----1A----	Atr
+10	osmi	Cn-P3----------	Atr
+11	procentům	NNNP3-----A----	Obj
+12	,	Z:-------------	AuxX
+13	vypočítaná	AAFS1----1A----	Atr
+14	jako	J,-------------	AuxC
+15	poměr	NNIS1-----A----	ExD
+16	kapitálu	NNIS2-----A----	Atr
+17	k	RR--3----------	AuxP
+18	rizikovým	AANP3----1A----	Atr
+19	aktivům	NNNP3-----A----	Atr
+20	a	J^-------------	Coord
+21	ověřená	AAFS1----1A----	Atr
+22	podle	RR--2----------	AuxP
+23	západních	AAIP2----1A----	Atr
+24	standardů	NNIP2-----A----	Adv
+25	.	Z:-------------	AuxK
+
+lnd94104-008-p1s10
+1	Nadcházející	AGIP4-----A----	Atr
+2	problémy	NNIP4-----A----	Obj
+3	může	VB-S---3P-AA---	Pred
+4	signalizovat	Vf--------A----	Obj
+5	i	J^-------------	AuxZ
+6	vyhlášené	AANS1----1A----	Atr
+7	opatření	NNNS1-----A----	Sb
+8	bankovního	AAIS2----1A----	Atr
+9	dohledu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	které	P4NS1----------	Sb
+12	nemusí	VB-S---3P-NA---	Atr
+13	mít	Vf--------A----	Obj
+14	vždy	Db-------------	Adv
+15	podobu	NNFS4-----A----	Obj
+16	nucené	AAFS2----1A----	Atr
+17	správy	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+

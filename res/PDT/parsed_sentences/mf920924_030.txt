@@ -1,0 +1,110 @@
+mf920924-030-p1s1
+1	Venezuela	NNFS1-----A----	ExD
+2	a	J^-------------	Coord
+3	OPEC	NNIXX-----A---8	ExD
+
+mf920924-030-p2s1
+1	Venezuela	NNFS1-----A----	Sb
+2	zůstane	VB-S---3P-AA---	Pred
+3	členem	NNMS7-----A----	Adv
+4	OPEC	NNIXX-----A---8	Atr
+5	,	Z:-------------	AuxX
+6	navzdory	Db-------------	AuxP
+7	velkému	AAIS3----1A----	Atr
+8	vlivu	NNIS3-----A----	Adv
+9	organizace	NNFS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	rozpočet	NNIS4-----A----	Atr
+12	a	J^-------------	Coord
+13	ekonomiku	NNFS4-----A----	Atr
+14	země	NNFS2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	důsledku	NNIS6-----A----	AuxP
+17	přidělování	NNNS2-----A----	Adv
+18	těžebních	AAFP2----1A----	Atr
+19	kvót	NNFP2-----A----	Atr
+20	ropy	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920924-030-p2s2
+1	Vyšší	AAFS1----2A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	ropy	NNFS2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	přitom	Db-------------	Adv
+6	dovolila	VpQW---XR-AA---	Pred
+7	významně	Dg-------1A----	Adv
+8	zlepšit	Vf--------A----	Obj
+9	hospodářskou	AAFS4----1A----	Atr
+10	situaci	NNFS4-----A----	Obj
+11	země	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920924-030-p2s3
+1	Prohlásil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	v	RR--4----------	AuxP
+4	úterý	NNNS4-----A----	Adv
+5	venezuelský	AAMS1----1A----	Atr
+6	prezident	NNMS1-----A----	Atr
+7	Carlos	NNMS1-----A----	Atr
+8	Andres	NNMS1-----A----	Atr
+9	Perez	NNMS1-----A----	Sb
+10	v	RR--6----------	AuxP
+11	reakci	NNFS6-----A----	Adv
+12	na	RR--4----------	AuxP
+13	rozhodnutí	NNNS4-----A----	Atr
+14	Ekvádoru	NNIS2-----A----	Atr
+15	vystoupit	Vf--------A----	Atr
+16	z	RR--2----------	AuxP
+17	OPEC	NNIXX-----A---8	Adv
+18	.	Z:-------------	AuxK
+
+mf920924-030-p2s4
+1	Příjmy	NNIP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	těžby	NNFS2-----A----	Atr
+4	ropy	NNFS2-----A----	Atr
+5	tvoří	VB-P---3P-AA---	Pred
+6	80	C=-------------	Obj
+7	procent	NNNP2-----A----	Atr
+8	veškerých	PLXP2----------	Atr
+9	státních	AAIP2----1A----	Atr
+10	příjmů	NNIP2-----A----	Atr
+11	Venezuely	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920924-030-p2s5
+1	Na	RR--6----------	AuxP
+2	posledním	AANS6----1A----	Atr
+3	zasedání	NNNS6-----A----	Adv
+4	OPEC	NNIXX-----A---8	Atr
+5	v	RR--6----------	AuxP
+6	Ženevě	NNFS6-----A----	Atr
+7	Venezuela	NNFS1-----A----	Sb
+8	obdržela	VpQW---XR-AA---	Pred
+9	pro	RR--4----------	AuxP
+10	čtvrté	CrNS4----------	Atr
+11	čtvrtletí	NNNS4-----A----	Adv
+12	1992	C=-------------	Atr
+13	těžební	AAFS4----1A----	Atr
+14	kvótu	NNFS4-----A----	Obj
+15	ve	RV--6----------	AuxP
+16	výši	NNFS6-----A----	Atr
+17	2363	C=-------------	Atr
+18	mil	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	barelů	NNIP2-----A----	Atr
+21	ropy	NNFS2-----A----	Atr
+22	denně	Dg-------1A----	Adv
+23	(	Z:-------------	AuxG
+24	doposud	Db-------------	ExD
+25	2147	C=-------------	ExD
+26	mil	NNIXX-----A---8	Atr
+27	.	Z:-------------	AuxG
+28	barelů	NNIP2-----A----	Atr
+29	ropy	NNFS2-----A----	Atr
+30	denně	Dg-------1A----	Adv
+31	)	Z:-------------	AuxG
+32	.	Z:-------------	AuxK
+

@@ -1,0 +1,180 @@
+ln94210-39-p1s1
+1	Mladí	AAMP1----1A----	Atr
+2	lidé	NNMP1-----A---1	Sb
+3	nechodí	VB-P---3P-NA---	Pred
+4	do	RR--2----------	AuxP
+5	divadel	NNNP2-----A----	Adv
+6	často	Dg-------1A----	Adv
+
+ln94210-39-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94210-39-p2s1B
+1	Návštěvy	NNFP1-----A----	Sb
+2	kin	NNNP2-----A----	Atr
+3	a	J^-------------	Coord
+4	divadel	NNNP2-----A----	Atr
+5	patří	VB-P---3P-AA---	Pred
+6	mezi	RR--4----------	AuxP
+7	méně	Dg-------2A----	Adv
+8	časté	AAFP4----1A----	Atr
+9	aktivity	NNFP4-----A----	Adv
+10	mladých	AAMP2----1A----	Atr
+11	lidí	NNMP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	České	AAFS6----1A----	Atr
+14	republice	NNFS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94210-39-p2s2
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	únorového	AAIS2----1A----	Atr
+5	a	J^-------------	Coord
+6	květnového	AAIS2----1A----	Atr
+7	výzkumu	NNIS2-----A----	Adv
+8	Institutu	NNIS2-----A----	Atr
+9	dětí	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	mládeže	NNFS2-----A----	Atr
+12	ministerstva	NNNS2-----A----	Atr
+13	školství	NNNS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	mládeže	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	tělovýchovy	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	který	P4YS1----------	Sb
+20	pracoval	VpYS---XR-AA---	Atr
+21	s	RR--7----------	AuxP
+22	758	C=-------------	Atr
+23	respondenty	NNMP7-----A----	Obj
+24	ve	RV--6----------	AuxP
+25	věku	NNIS6-----A----	Atr
+26	15	C=-------------	Atr
+27	až	J^-------------	Coord
+28	29	C=-------------	Atr
+29	let	NNNP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94210-39-p2s3
+1	Do	RR--2----------	AuxP
+2	divadla	NNNS2-----A----	Adv
+3	vůbec	Db-------------	AuxZ
+4	nechodí	VB-S---3P-NA---	Pred
+5	46	C=-------------	Sb
+6	procent	NNNP2-----A----	Atr
+7	mladých	AAMP2----1A----	Atr
+8	lidí	NNMP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	do	RR--2----------	AuxP
+11	kina	NNNS2-----A----	ExD
+12	12	C=-------------	ExD
+13	procent	NNNP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94210-39-p2s4
+1	Oproti	RR--3----------	AuxP
+2	tomu	PDZS3----------	Adv
+3	alespoň	Db-------------	AuxZ
+4	jednou	Cv-------------	Adv
+5	týdně	Db-------------	Adv
+6	navštíví	VB-S---3P-AA---	Pred
+7	divadlo	NNNS4-----A----	Obj
+8	1	C=-------------	Atr
+9	procento	NNNS1-----A----	Sb
+10	populace	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	tomto	PDZS6----------	Atr
+13	věku	NNIS6-----A----	Atr
+14	,	Z:-------------	Coord
+15	do	RR--2----------	AuxP
+16	kina	NNNS2-----A----	Adv
+17	se	P7-X4----------	AuxT
+18	takto	Db-------------	Adv
+19	často	Dg-------1A----	Adv
+20	vypraví	VB-S---3P-AA---	Pred
+21	17	C=-------------	Sb
+22	mladých	AAMP2----1A----	Atr
+23	ze	RV--2----------	AuxP
+24	sta	NNNS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94210-39-p2s5
+1	Nejčastěji	Dg-------3A----	Adv
+2	ze	RV--2----------	AuxP
+3	všech	PLXP2----------	Atr
+4	sledovaných	AAFP2----1A----	Atr
+5	skupin	NNFP2-----A----	Adv
+6	chodí	VB-P---3P-AA---	Pred
+7	do	RR--2----------	AuxP
+8	kina	NNNS2-----A----	Adv
+9	dívky	NNFP1-----A----	Sb
+10	ve	RV--6----------	AuxP
+11	věku	NNIS6-----A----	Atr
+12	od	RR--2----------	AuxP
+13	18	C=-------------	ExD
+14	do	RR--2----------	AuxP
+15	22	C=-------------	Atr
+16	let	NNNP2-----A----	Atr
+17	,	Z:-------------	Coord
+18	naopak	Db-------------	Adv
+19	ženy	NNFP1-----A----	Sb
+20	ve	RV--6----------	AuxP
+21	věku	NNIS6-----A----	Atr
+22	od	RR--2----------	AuxP
+23	27	C=-------------	ExD
+24	do	RR--2----------	AuxP
+25	29	C=-------------	Atr
+26	let	NNNP2-----A----	Atr
+27	do	RR--2----------	AuxP
+28	kina	NNNS2-----A----	Adv
+29	zajdou	VB-P---3P-AA---	Pred
+30	méně	Dg-------2A----	Adv
+31	často	Dg-------1A----	Adv
+32	než	J,-------------	AuxC
+33	stejně	Dg-------1A----	Adv
+34	staří	AAMP1----1A----	Atr
+35	muži	NNMP1-----A----	ExD
+36	.	Z:-------------	AuxK
+
+ln94210-39-p2s6
+1	Návštěvníky	NNMP7-----A----	Pnom
+2	divadel	NNNP2-----A----	Atr
+3	jsou	VB-P---3P-AA---	Pred
+4	pravidelně	Dg-------1A----	Adv
+5	dívky	NNFP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	svobodné	AAFP1----1A----	Atr
+8	ženy	NNFP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	středoškolští	AAMP1----1A----	Atr
+11	i	J^-------------	Coord
+12	vysokoškolští	AAMP1----1A----	Atr
+13	studenti	NNMP1-----A----	Sb
+14	a	J^-------------	Coord
+15	studentky	NNFP1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln94210-39-p2s7
+1	Institut	NNIS1-----A----	Sb
+2	sleduje	VB-S---3P-AA---	Pred
+3	kolem	RR--2----------	AuxP
+4	50	C=-------------	Atr
+5	způsobů	NNIP2-----A----	Obj
+6	trávení	NNNS2-----A----	Atr
+7	volného	AAIS2----1A----	Atr
+8	času	NNIS2-----A----	Atr
+9	,	Z:-------------	Coord
+10	divadlo	NNNS1-----A----	Sb
+11	a	J^-------------	Coord
+12	kino	NNNS1-----A----	Sb
+13	se	P7-X4----------	AuxT
+14	umísťují	VB-P---3P-AA---	Pred
+15	na	RR--6----------	AuxP
+16	konci	NNIS6-----A----	Adv
+17	žebříčku	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+

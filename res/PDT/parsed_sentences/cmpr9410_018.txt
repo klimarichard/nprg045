@@ -1,0 +1,717 @@
+cmpr9410-018-p1s1
+1	Servis	NNIS1-----A----	ExD
+2	kuponové	AAFS2----1A----	Atr
+3	privatizace	NNFS2-----A----	Atr
+
+cmpr9410-018-p2s1
+1	Méně	Dg-------2A----	Adv
+2	výnosný	AAIS1----1A----	Atr
+3	cestovní	AAIS1----1A----	Atr
+4	ruch	NNIS1-----A----	ExD
+
+cmpr9410-018-p3s1
+1	Hotelových	AAFP2----1A----	Atr
+2	kapacit	NNFP2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	mnohem	Db-------------	Adv
+5	víc	Dg-------2A---1	Sb
+6	než	J,-------------	AuxC
+7	současná	AAFS1----1A----	Atr
+8	poptávka	NNFS1-----A----	ExD
+
+cmpr9410-018-p4s1
+1	Na	RR--6----------	AuxP
+2	této	PDFS6----------	Atr
+3	stránce	NNFS6-----A----	Adv
+4	vám	PP-P3--2-------	Obj
+5	budeme	VB-P---1F-AA---	AuxV
+6	v	RR--6----------	AuxP
+7	průběhu	NNIS6-----A----	AuxP
+8	2	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	vlny	NNFS2-----A----	Adv
+11	kuponové	AAFS2----1A----	Atr
+12	privatizace	NNFS2-----A----	Atr
+13	představovat	Vf--------A----	Pred
+14	jednotlivé	AAIP4----1A----	Atr
+15	obory	NNIP4-----A----	Obj
+16	národního	AANS2----1A----	Atr
+17	hospodářství	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9410-018-p4s2
+1	Z	RR--2----------	AuxP
+2	předpokládaného	AAIS2----1A----	Atr
+3	seznamu	NNIS2-----A----	Adv
+4	podniků	NNIP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	které	P4IP1----------	Sb
+7	mají	VB-P---3P-AA---	Atr
+8	být	Vf--------A----	AuxV
+9	nabídnuty	VsTP---XX-AP---	Obj
+10	k	RR--3----------	AuxP
+11	investování	NNNS3-----A----	Adv
+12	,	Z:-------------	AuxX
+13	vybíráme	VB-P---1P-AA---	Pred
+14	jednoho	ClMS4----------	Atr
+15	typického	AAMS4----1A----	Atr
+16	představitele	NNMS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9410-018-p5s1
+1	Akcie	NNFP1-----A----	Sb
+2	20	C=-------------	Atr
+3	hotelů	NNIP2-----A----	Atr
+4	a	J^-------------	Coord
+5	19	C=-------------	Atr
+6	lázní	NNFP2-----A----	Atr
+7	patřily	VpTP---XR-AA---	Pred
+8	v	RR--6----------	AuxP
+9	první	CrFS6----------	Atr
+10	vlně	NNFS6-----A----	Adv
+11	privatizace	NNFS2-----A----	Atr
+12	k	RR--3----------	AuxP
+13	nejatraktivnějším	AAFP3----3A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9410-018-p5s2
+1	Bylo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	v	RR--6----------	AuxP
+4	době	NNFS6-----A----	Adv
+5	,	Z:-------------	AuxX
+6	kdy	Db-------------	Adv
+7	se	P7-X4----------	AuxT
+8	nebývale	Dg-------1A----	Adv
+9	zvýšil	VpYS---XR-AA---	Atr
+10	zájem	NNIS1-----A----	Sb
+11	zahraničních	AAMP2----1A----	Atr
+12	turistů	NNMP2-----A----	Atr
+13	a	J^-------------	Coord
+14	podnikatelů	NNMP2-----A----	Atr
+15	o	RR--4----------	AuxP
+16	návštěvu	NNFS4-----A----	Atr
+17	České	AAFS2----1A----	Atr
+18	republiky	NNFS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	především	Db-------------	AuxZ
+21	Prahy	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9410-018-p5s3
+1	Ekonomické	AAIP1----1A----	Atr
+2	údaje	NNIP1-----A----	Sb
+3	za	RR--4----------	AuxP
+4	léta	NNNP4-----A---2	Atr
+5	1989	C=-------------	Atr
+6	-	Z:-------------	Coord
+7	1991	C=-------------	Atr
+8	vypovídaly	VpTP---XR-AA---	Pred
+9	velmi	Db-------------	Adv
+10	optimisticky	Dg-------1A----	Adv
+11	o	RR--6----------	AuxP
+12	hospodářských	AAIP6----1A----	Atr
+13	výsledcích	NNIP6-----A----	Obj
+14	a	J^-------------	Coord
+15	vyústily	VpTP---XR-AA---	Pred
+16	ve	RV--4----------	AuxP
+17	značný	AAIS4----1A----	Atr
+18	zájem	NNIS4-----A----	Obj
+19	diků	NNMP2-----A----	Atr
+20	o	RR--4----------	AuxP
+21	investování	NNNS4-----A----	Atr
+22	do	RR--2----------	AuxP
+23	těchto	PDXP2----------	Atr
+24	oborů	NNIP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9410-018-p5s4
+1	Velké	AAIP1----1A----	Atr
+2	fondy	NNIP1-----A----	Sb
+3	byly	VpTP---XR-AA---	Pred
+4	při	RR--6----------	AuxP
+5	umísťování	NNNS6-----A----	Adv
+6	svěřených	AAIP2----1A----	Atr
+7	bodů	NNIP2-----A----	Atr
+8	většinou	Db-------------	Adv
+9	zdrženlivější	AAIP1----2A----	Pnom
+10	.	Z:-------------	AuxK
+
+cmpr9410-018-p5s5
+1	Bezesporu	Db-------------	ExD
+2	i	J^-------------	AuxZ
+3	proto	Db-------------	ExD
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	poměrně	Dg-------1A----	Adv
+7	malé	AAIP1----1A----	Atr
+8	balíky	NNIP1-----A----	Sb
+9	akcií	NNFP2-----A----	Atr
+10	způsobovaly	VpTP---XR-AA---	ExD
+11	při	RR--6----------	AuxP
+12	velkém	AAIS6----1A----	Atr
+13	zájmu	NNIS6-----A----	Adv
+14	diků	NNMP2-----A----	Atr
+15	převahu	NNFS4-----A----	Obj
+16	poptávky	NNFS2-----A----	Atr
+17	a	J^-------------	Coord
+18	neúměrné	AANS4----1N----	Atr
+19	zdražování	NNNS4-----A----	Obj
+20	akcií	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9410-018-p6s1
+1	Skromnější	AAFS1----2A----	Atr
+2	nabídka	NNFS1-----A----	ExD
+
+cmpr9410-018-p7s1
+1	Nabídka	NNFS1-----A----	Sb
+2	akcií	NNFP2-----A----	Atr
+3	společností	NNFP2-----A----	Atr
+4	z	RR--2----------	AuxP
+5	oboru	NNIS2-----A----	Atr
+6	cestovního	AAIS2----1A----	Atr
+7	ruchu	NNIS2-----A----	Atr
+8	bude	VB-S---3F-AA---	Pred
+9	pro	RR--4----------	AuxP
+10	kuponové	AAMP4----1A----	Atr
+11	investory	NNMP4-----A----	Adv
+12	ve	RV--6----------	AuxP
+13	druhé	CrFS6----------	Atr
+14	vlně	NNFS6-----A----	Adv
+15	podstatně	Dg-------1A----	Adv
+16	skromnější	AAFS1----2A----	Pnom
+17	.	Z:-------------	AuxK
+
+cmpr9410-018-p7s2
+1	Podle	RR--2----------	AuxP
+2	předběžných	AAFP2----1A----	Atr
+3	informací	NNFP2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	zájemci	NNMP1-----A----	Sb
+6	měli	VpMP---XR-AA---	Pred
+7	mít	Vf--------A----	Obj
+8	možnost	NNFS4-----A----	Obj
+9	investovat	Vf--------A----	Atr
+10	do	RR--2----------	AuxP
+11	15	C=-------------	Atr
+12	podniků	NNIP2-----A----	Adv
+13	(	Z:-------------	AuxG
+14	včetně	RR--2----------	AuxP
+15	zbylých	AAFP2----1A----	Atr
+16	akcií	NNFP2-----A----	Adv
+17	z	RR--2----------	AuxP
+18	první	CrFS2----------	Atr
+19	vlny	NNFS2-----A----	Atr
+20	)	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+cmpr9410-018-p7s3
+1	Mezi	RR--4----------	AuxP
+2	největší	AAIP4----3A----	Atr
+3	balíky	NNIP4-----A----	Adv
+4	patří	VB-P---3P-AA---	Pred
+5	opět	Db-------------	Adv
+6	akcie	NNFP1-----A----	Sb
+7	pražských	AAIP2----1A----	Atr
+8	hotelů	NNIP2-----A----	Atr
+9	Forum	NNNS1-----A----	Atr
+10	a	J^-------------	Coord
+11	Panorama	NNFS1-----A----	Atr
+12	,	Z:-------------	AuxX
+13	hotelů	NNIP2-----A----	Atr
+14	a	J^-------------	Coord
+15	restaurací	NNFP2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	Mostě	NNIS6-----A----	Atr
+18	a	J^-------------	Coord
+19	Karlových	AUIP6M---------	Atr
+20	Varech	NNIP6-----A----	Atr
+21	,	Z:-------------	Coord
+22	cestovní	AAFS2----1A----	Atr
+23	kanceláře	NNFS2-----A----	Atr
+24	Čedok	NNIS1-----A----	Atr
+25	a	J^-------------	Coord
+26	lázní	NNFP2-----A----	Atr
+27	Bohdaneč	NNFS1-----A----	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9410-018-p7s4
+1	V	RR--6----------	AuxP
+2	nominální	AAFS6----1A----	Atr
+3	hodnotě	NNFS6-----A----	Adv
+4	představuje	VB-S---3P-AA---	Pred
+5	úhrnná	AAFS1----1A----	Atr
+6	nabídka	NNFS1-----A----	Sb
+7	akcií	NNFP2-----A----	Atr
+8	jen	TT-------------	AuxZ
+9	1.5	C=-------------	Obj
+10	mld	NNFXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	Kč	NNFXX-----A----	ExD
+13	,	Z:-------------	Apos
+14	ani	J^-------------	AuxZ
+15	ne	TT-------------	AuxZ
+16	procento	NNNS4-----A----	Obj
+17	z	RR--2----------	AuxP
+18	celkové	AAFS2----1A----	Atr
+19	nabídky	NNFS2-----A----	Atr
+20	pro	RR--4----------	AuxP
+21	druhou	CrFS4----------	Atr
+22	vlnu	NNFS4-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9410-018-p8s1
+1	Hotelů	NNIP2-----A----	ExD
+2	nadbytek	NNIS1-----A----	ExD
+
+cmpr9410-018-p9s1
+1	Více	Dg-------2A----	Adv
+2	než	J,-------------	AuxC
+3	rok	NNIS4-----A----	Adv
+4	po	RR--6----------	AuxP
+5	ukončení	NNNS6-----A----	Atr
+6	první	CrFS2----------	Atr
+7	vlny	NNFS2-----A----	Atr
+8	kuponové	AAFS2----1A----	Atr
+9	privatizace	NNFS2-----A----	Atr
+10	a	J^-------------	Coord
+11	půl	NNFS4-----A----	Adv
+12	roku	NNIS2-----A---1	Atr
+13	po	RR--6----------	AuxP
+14	začátku	NNIS6-----A----	Atr
+15	obchodování	NNNS2-----A----	Atr
+16	akciemi	NNFP7-----A----	Atr
+17	na	RR--6----------	AuxP
+18	českém	AAIS6----1A----	Atr
+19	kapitálovém	AAIS6----1A----	Atr
+20	trhu	NNIS6-----A----	Atr
+21	je	VB-S---3P-AA---	Pred
+22	jasné	AANS1----1A----	Pnom
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	původní	AAFP4----1A----	Atr
+26	představy	NNFP4-----A----	Obj
+27	o	RR--6----------	AuxP
+28	výnosnosti	NNFS6-----A----	Atr
+29	tohoto	PDZS2----------	Atr
+30	odvětví	NNNS2-----A----	Atr
+31	je	VB-S---3P-AA---	Sb
+32	třeba	ACNS------A----	Pnom
+33	opravit	Vf--------A----	Sb
+34	.	Z:-------------	AuxK
+
+cmpr9410-018-p9s2
+1	Tvorbu	NNFS4-----A----	Obj
+2	zisku	NNIS2-----A----	Atr
+3	omezuje	VB-S---3P-AA---	Pred
+4	vysoká	AAFS1----1A----	Atr
+5	daň	NNFS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	přidané	AAFS2----1A----	Atr
+8	hodnoty	NNFS2-----A----	Atr
+9	na	RR--6----------	AuxP
+10	výstupech	NNIP6-----A----	AtrAdv
+11	,	Z:-------------	AuxX
+12	zatímco	J,-------------	AuxC
+13	značná	AAFS1----1A----	Atr
+14	část	NNFS1-----A----	Sb
+15	vstupů	NNIP2-----A----	Atr
+16	je	VB-S---3P-AA---	Adv
+17	zatížena	VsQW---XX-AP---	Pnom
+18	minimální	AAFS7----1A----	Atr
+19	sazbou	NNFS7-----A----	Obj
+20	odpočitatelné	AAFS2----1A----	Atr
+21	daně	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9410-018-p9s3
+1	Ubytovací	AAFP1----1A----	Atr
+2	kapacity	NNFP1-----A----	Sb
+3	pražských	AAIP2----1A----	Atr
+4	interhotelů	NNIP2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	během	RR--2----------	AuxP
+7	posledních	AANP2----1A----	Atr
+8	tří	ClXP2----------	Atr
+9	let	NNNP2-----A----	Adv
+10	zhruba	Db-------------	Adv
+11	zdvojnásobily	VpTP---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+cmpr9410-018-p9s4
+1	Řada	NNFS1-----A----	Sb
+2	hotelů	NNIP2-----A----	Atr
+3	zaznamenala	VpQW---XR-AA---	Pred
+4	pokles	NNIS4-----A----	Obj
+5	využití	NNNS2-----A----	Atr
+6	lůžkové	AAFS2----1A----	Atr
+7	kapacity	NNFS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	do	RR--2----------	AuxP
+10	jisté	AAFS2----1A----	Atr
+11	míry	NNFS2-----A----	ExD
+12	proto	Db-------------	ExD
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	již	Db-------------	Atr
+16	od	RR--2----------	AuxP
+17	roku	NNIS2-----A---1	Adv
+18	1992	C=-------------	Atr
+19	přistupovaly	VpTP---XR-AA---	ExD
+20	k	RR--3----------	AuxP
+21	rozsáhlé	AAFS3----1A----	Atr
+22	obnově	NNFS3-----A----	Adv
+23	a	J^-------------	Coord
+24	modernizaci	NNFS3-----A----	Adv
+25	.	Z:-------------	AuxK
+
+cmpr9410-018-p10s1
+1	Problémy	NNIP1-----A----	ExD
+2	lázní	NNFP2-----A----	Atr
+
+cmpr9410-018-p11s1
+1	Systémové	AAFP1----1A----	Atr
+2	změny	NNFP1-----A----	Sb
+3	ovlivnily	VpTP---XR-AA---	Pred
+4	také	Db-------------	Adv
+5	ekonomické	AAIP4----1A----	Atr
+6	výsledky	NNIP4-----A----	Obj
+7	lázeňských	AAFP2----1A----	Atr
+8	společností	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9410-018-p11s2
+1	Rok	NNIS1-----A----	Sb
+2	1993	C=-------------	Atr
+3	byl	VpYS---XR-AA---	Pred
+4	specifický	AAIS1----1A----	Pnom
+5	přechodem	NNIS7-----A----	Obj
+6	na	RR--4----------	AuxP
+7	nový	AAIS4----1A----	Atr
+8	způsob	NNIS4-----A----	Atr
+9	úhrady	NNFS2-----A----	Atr
+10	lázeňské	AAFS2----1A----	Atr
+11	péče	NNFS2-----A----	Atr
+12	nemocenskými	AAFP7----1A----	Atr
+13	pojišťovnami	NNFP7-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9410-018-p11s3
+1	Špatná	AAFS1----1A----	Atr
+2	situace	NNFS1-----A----	Sb
+3	vznikla	VpQW---XR-AA--1	Pred
+4	na	RR--6----------	AuxP
+5	počátku	NNIS6-----A----	Adv
+6	roku	NNIS2-----A---1	Atr
+7	,	Z:-------------	AuxX
+8	kdy	Db-------------	Adv
+9	lékaři	NNMP1-----A----	Sb
+10	nebyli	VpMP---XR-NA---	AuxV
+11	dostatečným	AAIS7----1A----	Atr
+12	způsobem	NNIS7-----A----	Adv
+13	motivováni	VsMP---XX-AP---	Atr
+14	na	RR--6----------	AuxP
+15	vydávání	NNNS6-----A----	Adv
+16	lázeňských	AAIP2----1A----	Atr
+17	poukazů	NNIP2-----A----	Atr
+18	pacientům	NNMP3-----A----	Atr
+19	a	J^-------------	Coord
+20	probíhala	VpQW---XR-AA---	Atr
+21	jednání	NNNP1-----A----	Sb
+22	o	RR--6----------	AuxP
+23	výši	NNFS6-----A----	Atr
+24	úhrady	NNFS2-----A----	Atr
+25	léčebných	AAIP2----1A----	Atr
+26	pobytů	NNIP2-----A----	Atr
+27	se	RV--7----------	AuxP
+28	zdravotní	AAFS7----1A----	Atr
+29	pojišťovnou	NNFS7-----A----	Atr
+30	.	Z:-------------	AuxK
+
+cmpr9410-018-p11s4
+1	Zbývající	AGFS1-----A----	Atr
+2	část	NNFS1-----A----	Sb
+3	klientely	NNFS2-----A----	Atr
+4	reprezentovaná	AAFS1----1A----	Atr
+5	tzv	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	samoplátci	NNMP7-----A----	Obj
+8	nebo	J^-------------	Coord
+9	zahraničními	AAMP7----1A----	Atr
+10	hosty	NNMP7-----A----	Obj
+11	využívá	VB-S---3P-AA---	Pred
+12	lázeňská	AANP4----1A----	Atr
+13	střediska	NNNP4-----A----	Obj
+14	velmi	Db-------------	Adv
+15	nerovnoměrně	Dg-------1N----	Adv
+16	.	Z:-------------	AuxK
+
+cmpr9410-018-p11s5
+1	Navíc	Db-------------	Adv
+2	komerční	AANS4----1A----	Atr
+3	využití	NNNS4-----A----	Obj
+4	lázeňských	AAFP2----1A----	Atr
+5	kapacit	NNFP2-----A----	Atr
+6	doprovázejí	VB-P---3P-AA---	Pred
+7	podobné	AAIP1----1A----	Atr
+8	problémy	NNIP1-----A----	Sb
+9	jako	J,-------------	AuxC
+10	u	RR--2----------	AuxP
+11	hotelů	NNIP2-----A----	ExD
+12	.	Z:-------------	AuxK
+
+cmpr9410-018-p12s1
+1	Naděje	NNFP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	nesplnily	VpTP---XR-NA---	Pred
+
+cmpr9410-018-p13s1
+1	Hotely	NNIP4-----A----	Obj
+2	,	Z:-------------	ExD
+3	a	J^-------------	Coord
+4	ještě	Db-------------	ExD
+5	více	Dg-------2A----	ExD
+6	lázně	NNFP4-----A----	ExD
+7	,	Z:-------------	ExD
+8	čeká	VB-S---3P-AA---	Pred
+9	nezbytná	AAFS1----1N----	Atr
+10	obnova	NNFS1-----A----	Sb
+11	stavebních	AAFP2----1A----	Atr
+12	částí	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	vnitřního	AANS2----1A----	Atr
+15	vybavení	NNNS2-----A----	Atr
+16	-	Z:-------------	Apos
+17	lůžkových	AAFP2----1A----	Atr
+18	a	J^-------------	Coord
+19	stravovacích	AAFP2----1A----	Atr
+20	kapacit	NNFP2-----A----	Atr
+21	i	J^-------------	Coord
+22	samotných	AAIP2----1A----	Atr
+23	balneoprovozů	NNIP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9410-018-p13s2
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	hotelů	NNIP2-----A----	Adv
+5	nemohly	VpTP---XR-NA---	Pred
+6	lázně	NNFP1-----A----	Sb
+7	využívat	Vf--------A----	Obj
+8	značného	AAIS2----1A----	Atr
+9	zisku	NNIS2-----A----	Obj
+10	vytvořeného	AAIS2----1A----	Atr
+11	v	RR--6----------	AuxP
+12	předchozích	AANP6----1A----	Atr
+13	dvou	ClXP6----------	Atr
+14	letech	NNNP6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9410-018-p13s3
+1	Uvedené	AAIP1----1A----	Atr
+2	vlivy	NNIP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	odrazily	VpTP---XR-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	zhoršení	NNNS6-----A----	Adv
+7	hospodářských	AAIP2----1A----	Atr
+8	výsledků	NNIP2-----A----	Atr
+9	celého	AANS2----1A----	Atr
+10	odvětví	NNNS2-----A----	Atr
+11	cestovního	AAIS2----1A----	Atr
+12	ruchu	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9410-018-p13s4
+1	Dividendu	NNFS4-----A----	Obj
+2	vyplatily	VpTP---XR-AA---	Pred
+3	některé	PZIP1----------	Atr
+4	ziskové	AAIP1----1A----	Atr
+5	hotely	NNIP1-----A----	Sb
+6	zcela	Db-------------	Adv
+7	výjimečně	Dg-------1A----	Adv
+8	(	Z:-------------	ExD
+9	za	RR--4----------	AuxP
+10	rok	NNIS4-----A----	ExD
+11	1992	C=-------------	Atr
+12	pražský	AAIS1----1A----	Atr
+13	hotel	NNIS1-----A----	ExD
+14	Jalta	NNFS1-----A----	Atr
+15	a	J^-------------	Coord
+16	IH	NNIXX-----A---8	ExD
+17	Golf	NNIS1-----A----	Atr
+18	Mariánské	AAFP1----1A----	Atr
+19	lázně	NNFP1-----A----	Atr
+20	)	Z:-------------	AuxG
+21	,	Z:-------------	Coord
+22	z	RR--2----------	AuxP
+23	lázeňských	AAFP2----1A----	Atr
+24	společností	NNFP2-----A----	ExD
+25	ani	J^-------------	AuxZ
+26	jedna	ClFS1----------	ExD
+27	.	Z:-------------	AuxK
+
+cmpr9410-018-p14s1
+1	Pokles	NNIS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	kapitálovém	AAIS6----1A----	Atr
+4	trhu	NNIS6-----A----	Atr
+
+cmpr9410-018-p15s1
+1	Vývoj	NNIS1-----A----	Sb
+2	kurzů	NNIP2-----A----	Atr
+3	akcií	NNFP2-----A----	Atr
+4	hotelů	NNIP2-----A----	Atr
+5	i	J^-------------	Coord
+6	lázeňských	AANP2----1A----	Atr
+7	zařízení	NNNP2-----A----	Atr
+8	je	VB-S---3P-AA---	Pred
+9	zatím	Db-------------	Adv
+10	příznivější	AAIS1----2A----	Pnom
+11	v	RR--6----------	AuxP
+12	RM	AAXXX----1A---8	Atr
+13	systému	NNIS6-----A----	Adv
+14	než	J,-------------	AuxC
+15	na	RR--6----------	AuxP
+16	burze	NNFS6-----A----	ExD
+17	.	Z:-------------	AuxK
+
+cmpr9410-018-p15s2
+1	Počáteční	AAFS1----1A----	Atr
+2	cenová	AAFS1----1A----	Atr
+3	úroveň	NNFS1-----A----	Sb
+4	daná	AAFS1----1A----	Atr
+5	poptávkou	NNFS7-----A----	Adv
+6	z	RR--2----------	AuxP
+7	první	CrFS2----------	Atr
+8	vlny	NNFS2-----A----	Atr
+9	byla	VpQW---XR-AA---	Pred
+10	dlouhodobě	Dg-------1A----	Adv
+11	neudržitelná	AAFS1----1N----	Pnom
+12	.	Z:-------------	AuxK
+
+cmpr9410-018-p15s3A
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	dáno	VsNS---XX-AP---	Pnom
+4	především	Db-------------	AuxZ
+5	minimální	AAFS7----1A----	Atr
+6	poptávkou	NNFS7-----A----	Adv
+7	,	Z:-------------	AuxX
+8	neboť	J^-------------	Coord
+9	kapitál	NNIS1-----A----	Sb
+10	operující	AGIS1-----A----	Atr
+11	na	RR--6----------	AuxP
+12	burze	NNFS6-----A----	Adv
+13	se	P7-X4----------	AuxT
+14	zatím	Db-------------	Adv
+15	zaměřuje	VB-S---3P-AA---	Pred
+16	především	Db-------------	AuxZ
+17	na	RR--4----------	AuxP
+18	velké	AAIP4----1A----	Atr
+19	balíky	NNIP4-----A----	Obj
+20	akcií	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9410-018-p15s3B
+1	Většina	NNFS1-----A----	Sb
+2	lázeňských	AAFP2----1A----	Atr
+3	společností	NNFP2-----A----	Atr
+4	nabízí	VB-S---3P-AA---	Pred
+5	pro	RR--4----------	AuxP
+6	obchodování	NNNS4-----A----	Adv
+7	nezajímavé	AANS4----1N----	Atr
+8	množství	NNNS4-----A----	Obj
+9	kapitálu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	protože	J,-------------	AuxC
+12	akcie	NNFP1-----A----	Sb
+13	jsou	VB-P---3P-AA---	Adv
+14	rozptýleny	VsTP---XX-AP---	Pnom
+15	mezi	RR--4----------	AuxP
+16	vysoký	AAIS4----1A----	Atr
+17	počet	NNIS4-----A----	Adv
+18	majitelů	NNMP2-----A----	Atr
+19	(	Z:-------------	AuxG
+20	u	RR--2----------	AuxP
+21	některých	PZXP2----------	Atr
+22	lázeňských	AAFP2----1A----	Atr
+23	společností	NNFP2-----A----	Adv
+24	jsou	VB-P---3P-AA---	Pred
+25	vlastníky	NNMP7-----A----	Pnom
+26	převážně	Dg-------1A----	Adv
+27	jednotlivci	NNMP1-----A----	Sb
+28	)	Z:-------------	AuxG
+29	.	Z:-------------	AuxK
+
+cmpr9410-018-p16s1
+1	Drobný	AAMS1----1A----	Atr
+2	investor	NNMS1-----A----	Sb
+3	musí	VB-S---3P-AA---	Pred
+4	počítat	Vf--------A----	Obj
+5	s	RR--7----------	AuxP
+6	tím	PDZS7----------	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	bude	VB-S---3F-AA---	Atr
+10	pravděpodobně	Dg-------1A----	AuxY
+11	převaha	NNFS1-----A----	Sb
+12	poptávky	NNFS2-----A----	Atr
+13	nad	RR--7----------	AuxP
+14	nabídkou	NNFS7-----A----	Atr
+15	a	J^-------------	Coord
+16	že	J,-------------	AuxC
+17	získané	AAFP1----1A----	Atr
+18	akcie	NNFP1-----A----	Sb
+19	budou	VB-P---3F-AA---	Atr
+20	dosti	Dg-------1A---3	Adv
+21	drahé	AAFP1----1A----	Pnom
+22	.	Z:-------------	AuxK
+
+cmpr9410-018-p17s1
+1	Jan	NNMS1-----A----	Atr
+2	Peterka	NNMS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	Věra	NNFS1-----A----	Atr
+5	Havlíková	NNFS1-----A----	ExD
+
+cmpr9410-018-p18s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Spořitelní	AAFS1----1A----	Atr
+4	investiční	AAFS1----1A----	Atr
+5	společnost	NNFS1-----A----	ExD
+6	,	Z:-------------	AuxX
+7	a	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	s	NNFXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	,	Z:-------------	AuxX
+12	Řásnovka	NNFS1-----A----	Atr
+13	12	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	110	C=-------------	Atr
+16	15	C=-------------	Atr
+17	Praha	NNFS1-----A----	Atr
+18	1	C=-------------	Atr
+19	,	Z:-------------	AuxX
+20	tel	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	:	Z:-------------	AuxG
+23	(	Z:-------------	AuxG
+24	02	C=-------------	Atr
+25	)	Z:-------------	AuxG
+26	248103	C=-------------	Atr
+27	31	C=-------------	Atr
+28	,	Z:-------------	Coord
+29	FAX	NNIS1-----A----	Atr
+30	:	Z:-------------	AuxG
+31	(	Z:-------------	AuxG
+32	02	C=-------------	Atr
+33	)	Z:-------------	AuxG
+34	231	C=-------------	Atr
+35	7789	C=-------------	Atr
+36	.	Z:-------------	AuxK
+

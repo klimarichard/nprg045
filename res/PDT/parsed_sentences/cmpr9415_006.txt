@@ -1,0 +1,203 @@
+cmpr9415-006-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	1	C=-------------	Atr
+
+cmpr9415-006-p2s1
+1	Kancelář	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	Čedok	NNIS1-----A----	Atr
+
+cmpr9415-006-p3s1
+1	Oblast	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	ČR	NNFXX-----A---8	ExD
+4	-	Z:-------------	Apos
+5	Šumava	NNFS1-----A----	ExD
+6	-	Z:-------------	Coord
+7	Srní	NNNS1-----A----	ExD
+
+cmpr9415-006-p4s1
+1	Ubytovací	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Hotel	NNIS1-----A----	ExD
+5	Šumava	NNFS1-----A----	Atr
+
+cmpr9415-006-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	osobu	NNFS4-----A----	Atr
+4	:	Z:-------------	Pred
+5	2330	C=-------------	Pnom
+
+cmpr9415-006-p6s1
+1	Dítě	NNNS1-----A----	Sb
+2	4	C=-------------	Atr
+3	-	Z:-------------	Coord
+4	10	C=-------------	Atr
+5	let	NNNP2-----A----	Atr
+6	:	Z:-------------	Pred
+7	1640	C=-------------	Pnom
+
+cmpr9415-006-p7s1
+1	Stravování	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Polopenze	NNFS1-----A----	ExD
+4	na	RR--4----------	AuxP
+5	poukázky	NNFP4-----A----	Atr
+
+cmpr9415-006-p8s1
+1	Doprava	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Autobusem	NNIS7-----A----	ExD
+4	ze	RV--2----------	AuxP
+5	Sušice	NNFS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9415-006-p8s2
+1	Při	RR--6----------	AuxP
+2	použití	NNNS6-----A----	Adv
+3	vlastního	AANS2----1A----	Atr
+4	auta	NNNS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	možné	AANS1----1A----	Pnom
+7	parkování	NNNS1-----A----	Sb
+8	před	RR--7----------	AuxP
+9	hotelem	NNIS7-----A----	Atr
+10	nebo	J^-------------	Coord
+11	v	RR--6----------	AuxP
+12	hotelové	AAFS6----1A----	Atr
+13	garáži	NNFS6-----A----	Atr
+14	za	RR--4----------	AuxP
+15	poplatek	NNIS4-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9415-006-p9s1
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Obec	NNFS1-----A----	Sb
+4	Srní	NNNS1-----A----	Atr
+5	leží	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	centru	NNNS6-----A----	Adv
+8	Šumavského	AAIS2----1A----	Atr
+9	národního	AAIS2----1A----	Atr
+10	parku	NNIS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	nadmořské	AAFS6----1A----	Atr
+13	výšce	NNFS6-----A----	Atr
+14	865	C=-------------	Atr
+15	m	NNIXX-----A---8	Atr
+16	n	RR--7---------8	AuxP
+17	.	Z:-------------	AuxG
+18	m	NNNXX-----A---8	Atr
+19	,	Z:-------------	Apos
+20	25	C=-------------	Adv
+21	km	NNIXX-----A---8	Atr
+22	od	RR--2----------	AuxP
+23	Sušice	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9415-006-p9s2
+1	Je	VB-S---3P-AA---	Pred
+2	v	RR--6----------	AuxP
+3	ekologicky	Dg-------1A----	Adv
+4	nejčistší	AAFS6----3A----	Atr
+5	oblasti	NNFS6-----A----	Adv
+6	ČR	NNFXX-----A---8	Atr
+7	,	Z:-------------	AuxX
+8	s	RR--7----------	AuxP
+9	nepoškozenou	AAFS7----1N----	Atr
+10	přírodou	NNFS7-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9415-006-p9s3
+1	Oblast	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	vhodná	AAFS1----1A----	Pnom
+4	pro	RR--4----------	AuxP
+5	turistiku	NNFS4-----A----	Obj
+6	a	J^-------------	Coord
+7	houbaření	NNNS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+cmpr9415-006-p9s4
+1	Hotel	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	umístěn	VsYS---XX-AP---	Pnom
+4	ve	RV--6----------	AuxP
+5	středu	NNIS6-----A----	Adv
+6	obce	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9415-006-p9s5
+1	Koupání	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	možné	AANS1----1A----	Pnom
+4	v	RR--6----------	AuxP
+5	bazénu	NNIS6-----A---1	Adv
+6	vedlejšího	AAIS2----1A----	Atr
+7	hotelu	NNIS2-----A----	Atr
+8	Srní	NNNS1-----A----	Atr
+9	za	RR--4----------	AuxP
+10	poplatek	NNIS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9415-006-p10s1
+1	Ubytování	NNNS1-----A----	ExD
+2	ve	RV--6----------	AuxP
+3	dvoulůžkových	AAIP6----1A----	Atr
+4	pokojích	NNIP6-----A----	Atr
+5	se	RV--7----------	AuxP
+6	sprchou	NNFS7-----A----	Atr
+7	a	J^-------------	Coord
+8	WC	NNNXX-----A---8	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9415-006-p10s2
+1	K	RR--3----------	AuxP
+2	dispozici	NNFS3-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	půjčovna	NNFS1-----A----	Sb
+5	horských	AANP2----1A----	Atr
+6	kol	NNNP2-----A----	Atr
+7	a	J^-------------	Coord
+8	sportovních	AAFP2----1A----	Atr
+9	potřeb	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9415-006-p10s3
+1	U	RR--2----------	AuxP
+2	hotelu	NNIS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	hřiště	NNNS1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+cmpr9415-006-p10s4
+1	Je	VB-S---3P-AA---	Pred
+2	možno	ACNS------A----	Pnom
+3	si	P7-X3----------	Adv
+4	zapůjčit	Vf--------A----	Sb
+5	televizor	NNIS4-----A----	Obj
+6	a	J^-------------	Coord
+7	masážní	AAIS4----1A----	Atr
+8	stroj	NNIS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9415-006-p10s5
+1	Možný	AAIS1----1A----	Atr
+2	pobyt	NNIS1-----A----	ExD
+3	se	RV--7----------	AuxP
+4	psem	NNMS7-----A----	Atr
+5	.	Z:-------------	AuxK
+
+cmpr9415-006-p10s6
+1	Hostům	NNMP3-----A----	Adv
+2	je	VB-S---3P-AA---	Pred
+3	k	RR--3----------	AuxP
+4	dispozici	NNFS3-----A----	Adv
+5	také	Db-------------	AuxZ
+6	vinárna	NNFS1-----A----	Sb
+7	.	Z:-------------	AuxK
+

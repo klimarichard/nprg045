@@ -1,0 +1,96 @@
+cmpr9407-011-p1s1
+1	20400	C=-------------	ExD
+2	,	Z:-------------	AuxX
+3	nebo	J^-------------	Coord
+4	21600	C=-------------	ExD
+5	?	Z:-------------	AuxK
+
+cmpr9407-011-p2s1
+1	V	RR--6----------	AuxP
+2	Profitu	NNIS6-----A----	Adv
+3	rádce	NNMS2-----A----	Atr
+4	č	NNNXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	6	C=-------------	Atr
+7	v	RR--6----------	AuxP
+8	návodu	NNIS6-----A---1	Adv
+9	na	RR--4----------	AuxP
+10	vyplnění	NNNS4-----A----	Atr
+11	daňového	AANS2----1A----	Atr
+12	přiznání	NNNP4-----A----	Atr
+13	uvádíte	VB-P---2P-AA---	Pred
+14	jako	J,-------------	AuxY
+15	nezdanitelnou	AAFS4----1N----	Atr
+16	částku	NNFS4-----A----	Atv
+17	daně	NNFS2-----A----	Atr
+18	20400	C=-------------	Obj
+19	korun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9407-011-p2s2
+1	Podle	RR--2----------	AuxP
+2	nedávné	AAFS2----1N----	Atr
+3	novely	NNFS2-----A----	Adv
+4	zákona	NNIS2-----A----	Atr
+5	však	J^-------------	Coord
+6	byla	VpQW---XR-AA---	AuxV
+7	zvýšena	VsQW---XX-AP---	Adv
+8	na	RR--4----------	AuxP
+9	21600	C=-------------	Obj
+10	korun	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	upozornilo	VpNS---XR-AA---	Pred
+13	nás	PP-P4--1-------	Obj
+14	několik	Ca--1----------	Sb
+15	čtenářů	NNMP2-----A----	Atr
+16	na	RR--4----------	AuxP
+17	údajnou	AAFS4----1A----	Atr
+18	chybu	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+cmpr9407-011-p2s3
+1	Mýlili	VpMP---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	oni	PPMP1--3-------	Sb
+5	.	Z:-------------	AuxK
+
+cmpr9407-011-p2s4
+1	Protože	J,-------------	AuxC
+2	podobně	Dg-------1A----	Adv
+3	uvažovali	VpMP---XR-AA---	Adv
+4	možná	Db-------------	AuxY
+5	i	J^-------------	AuxZ
+6	další	AANP1----1A----	Sb
+7	,	Z:-------------	AuxX
+8	připomínáme	VB-P---1P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	částku	NNFS4-----A----	Obj
+12	21600	C=-------------	Atr
+13	korun	NNFP2-----A----	Atr
+14	mohou	VB-P---3P-AA--1	Obj
+15	daňoví	AAMP1----1A----	Atr
+16	poplatníci	NNMP1-----A----	Sb
+17	uplatnit	Vf--------A----	Obj
+18	až	TT-------------	AuxZ
+19	v	RR--6----------	AuxP
+20	roce	NNIS6-----A---1	Adv
+21	1995	C=-------------	Atr
+22	při	RR--6----------	AuxP
+23	vyplňování	NNNS6-----A----	Adv
+24	daňového	AANS2----1A----	Atr
+25	přiznání	NNNS2-----A----	Atr
+26	za	RR--4----------	AuxP
+27	rok	NNIS4-----A----	Atr
+28	1994	C=-------------	Atr
+29	,	Z:-------------	AuxX
+30	ale	J^-------------	Coord
+31	za	RR--4----------	AuxP
+32	rok	NNIS4-----A----	Adv
+33	1993	C=-------------	Atr
+34	platí	VB-P---3P-AA---	Obj
+35	20400	C=-------------	Obj
+36	korun	NNFP2-----A----	Atr
+37	.	Z:-------------	AuxK
+

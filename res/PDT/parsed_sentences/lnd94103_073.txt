@@ -1,0 +1,156 @@
+lnd94103-073-p1s1
+1	Bundesbanka	NNFS1-----A----	ExD
+2	proti	RR--3----------	AuxP
+3	padělatelům	NNMP3-----A----	ExD
+4	peněz	NNIP2-----A----	Atr
+
+lnd94103-073-p1s2
+1	Bonn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd94103-073-p1s3
+1	Stále	Dg-------1A----	Adv
+2	rafinovanějšími	AAFP7----2A----	Atr
+3	metodami	NNFP7-----A----	Adv
+4	chce	VB-S---3P-AA---	Pred
+5	německá	AAFS1----1A----	Atr
+6	Bundesbanka	NNFS1-----A----	Sb
+7	zkomplikovat	Vf--------A----	Obj
+8	život	NNIS4-----A----	Obj
+9	padělatelům	NNMP3-----A----	Obj
+10	peněz	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94103-073-p1s4
+1	Nyní	Db-------------	Adv
+2	experti	NNMP1-----A---1	Sb
+3	zkoušejí	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	zda	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	bylo	VpNS---XR-AA---	Obj
+8	možné	AANS1----1A----	Pnom
+9	příští	AAFS4----1A----	Atr
+10	generaci	NNFS4-----A----	Obj
+11	bankovek	NNFP2-----A----	Atr
+12	vybavit	Vf--------A----	Sb
+13	"	Z:-------------	AuxG
+14	hýbacími	AAIP7----1A----	Atr
+15	obrázky	NNIP7-----A----	Obj
+16	"	Z:-------------	AuxG
+17	neboli	J^-------------	Coord
+18	kinegramy	NNIP7-----A----	Obj
+19	.	Z:-------------	AuxK
+
+lnd94103-073-p1s5
+1	Optický	AAIS1----1A----	Atr
+2	efekt	NNIS1-----A----	Sb
+3	může	VB-S---3P-AA---	Obj
+4	podstatně	Dg-------1A----	Adv
+5	zvýšit	Vf--------A----	Obj
+6	bezpečnost	NNFS4-----A----	Obj
+7	platidel	NNNP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	uvádí	VB-S---3P-AA---	Pred
+10	ředitel	NNMS1-----A----	Sb
+11	peněžního	AAIS2----1A----	Atr
+12	emisního	AAIS2----1A----	Atr
+13	ústavu	NNIS2-----A----	Atr
+14	Deutsche	AAXXX----1A----	Atr
+15	Bundesbank	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd94103-073-p1s6
+1	Hlavním	AAIS7----1A----	Atr
+2	problémem	NNIS7-----A----	Pnom
+3	jsou	VB-P---3P-AA---	Pred
+4	však	J^-------------	Coord
+5	vysoké	AAIP1----1A----	Atr
+6	náklady	NNIP1-----A----	Sb
+7	a	J^-------------	Coord
+8	komplikovaný	AAIS1----1A----	Atr
+9	výrobní	AAIS1----1A----	Atr
+10	postup	NNIS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+lnd94103-073-p1s7
+1	Výroba	NNFS1-----A----	Sb
+2	jedné	ClFS2----------	Atr
+3	tisícimarkové	AAFS2----1A----	Atr
+4	bankovky	NNFS2-----A----	Atr
+5	nyní	Db-------------	Adv
+6	stojí	VB-S---3P-AA---	Pred
+7	25	C=-------------	Obj
+8	feniků	NNIP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	přičemž	J,-------------	Adv
+11	dodatečná	AAFS1----1A----	Atr
+12	částka	NNFS1-----A----	Sb
+13	tří	ClXP2----------	Atr
+14	až	J^-------------	Coord
+15	pěti	Cn-P2----------	Atr
+16	feniků	NNIP2-----A----	Atr
+17	za	RR--4----------	AuxP
+18	kinegram	NNIS4-----A----	Atr
+19	je	VB-S---3P-AA---	AuxV
+20	odborníky	NNMP7-----A----	Obj
+21	považována	VsQW---XX-AP---	Pred
+22	za	RR--4----------	AuxP
+23	vysokou	AAFS4----1A----	Obj
+24	.	Z:-------------	AuxK
+
+lnd94103-073-p1s8
+1	Bundesbanka	NNFS1-----A----	Sb
+2	loni	Db------------1	Adv
+3	registrovala	VpQW---XR-AA---	Pred
+4	téměř	Db-------------	AuxZ
+5	42000	C=-------------	Obj
+6	falešných	AAFP2----1A----	Atr
+7	bankovek	NNFP2-----A----	Atr
+8	a	J^-------------	Coord
+9	s	RR--7----------	AuxP
+10	tím	PDZS7----------	Obj
+11	související	AGFS4-----A----	Atr
+12	škodu	NNFS4-----A----	Obj
+13	5.7	C=-------------	Atr
+14	milionu	NNIS2-----A----	Atr
+15	marek	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd94103-073-p1s9
+1	Ještě	Db-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	roce	NNIS6-----A---1	Adv
+4	1989	C=-------------	Atr
+5	bylo	VpNS---XR-AA---	AuxV
+6	objeveno	VsNS---XX-AP---	Pred
+7	jen	TT-------------	AuxZ
+8	kolem	RR--2----------	AuxP
+9	3400	C=-------------	Sb
+10	padělků	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94103-073-p1s10A
+1	Šířením	NNNS7-----A----	Adv
+2	barevných	AAIP2----1A----	Atr
+3	kopírovacích	AAIP2----1A----	Atr
+4	přístrojů	NNIP2-----A----	Atr
+5	však	J^-------------	Coord
+6	nastala	VpQW---XR-AA---	Pred
+7	exploze	NNFS1-----A----	Sb
+8	falšovaných	AAIP2----1A----	Atr
+9	papírových	AAIP2----1A----	Atr
+10	peněz	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94103-073-p1s10B
+1	80	C=-------------	Adv
+2	procentním	AAIS7----1A----	Atr
+3	podílem	NNIS7-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	nejfrekventovanějším	AAIS7----3A----	Atr
+6	padělkem	NNIS7-----A----	Pnom
+7	stomarková	AAFS1----1A----	Atr
+8	bankovka	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+

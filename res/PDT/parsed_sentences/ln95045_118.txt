@@ -1,0 +1,125 @@
+ln95045-118-p1s1
+1	Táborský	AAIS1----1A----	Atr
+2	finanční	AAIS1----1A----	Atr
+3	úřad	NNIS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	trpělivý	AAIS1----1A----	Pnom
+
+ln95045-118-p2s1A
+1	Tábor	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-118-p2s1B
+1	Ačkoli	J,------------1	AuxC
+2	přiznání	NNNP1-----A----	Sb
+3	k	RR--3----------	AuxP
+4	dani	NNFS3-----A----	Atr
+5	z	RR--2----------	AuxP
+6	nemovitostí	NNFP2-----A----	Atr
+7	měla	VpQW---XR-AA---	Adv
+8	být	Vf--------A----	AuxV
+9	odevzdána	VsQW---XX-AP---	Obj
+10	do	RR--2----------	AuxP
+11	31	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	ledna	NNIS2-----A----	Adv
+14	,	Z:-------------	AuxX
+15	občané	NNMP1-----A----	Sb
+16	je	PPXP4--3-------	Obj
+17	doručují	VB-P---3P-AA---	Pred
+18	Finančnímu	AAIS3----1A----	Atr
+19	úřadu	NNIS3-----A----	Obj
+20	v	RR--6----------	AuxP
+21	Táboře	NNIS6-----A----	Atr
+22	ještě	Db-------------	AuxZ
+23	v	RR--6----------	AuxP
+24	únoru	NNIS6-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln95045-118-p2s2
+1	Jak	Db-------------	Adv
+2	sdělila	VpQW---XR-AA---	Pred
+3	ředitelka	NNFS1-----A----	Atr
+4	táborského	AAIS2----1A----	Atr
+5	úřadu	NNIS2-----A----	Atr
+6	M	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Syrová	NNFS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	pokutami	NNFP7-----A----	Adv
+11	zatím	Db-------------	Adv
+12	tyto	PDMP4----------	Atr
+13	občany	NNMP4-----A----	Obj
+14	nepostihují	VB-P---3P-NA---	Pred
+15	.	Z:-------------	AuxK
+
+ln95045-118-p3s1
+1	Mezi	RR--7----------	AuxP
+2	zapomnětlivci	NNMP7-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	řada	NNFS1-----A----	Sb
+6	občanů	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kteří	P4MP1----------	Sb
+9	mohli	VpMP---XR-AA---	Atr
+10	mít	Vf--------A----	Obj
+11	nárok	NNIS4-----A----	Obj
+12	na	RR--4----------	AuxP
+13	osvobození	NNNS4-----A----	Atr
+14	,	Z:-------------	AuxX
+15	popřípadě	Db-------------	Coord
+16	slevu	NNFS4-----A----	Atr
+17	na	RR--6----------	AuxP
+18	dani	NNFS6-----A----	Atr
+19	z	RR--2----------	AuxP
+20	nemovitosti	NNFS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	pokud	J,-------------	AuxC
+23	si	P7-X3----------	Adv
+24	přebudovali	VpMP---XR-AA---	Adv
+25	vytápění	NNNS4-----A----	Obj
+26	na	RR--4----------	AuxP
+27	ekologicky	Dg-------1A----	Adv
+28	čisté	AANS4----1A----	Adv
+29	.	Z:-------------	AuxK
+
+ln95045-118-p3s2
+1	Jestliže	J,-------------	AuxC
+2	však	J^-------------	AuxY
+3	nedodrželi	VpMP---XR-NA---	Adv
+4	termín	NNIS4-----A----	Obj
+5	přiznání	NNNS2-----A----	Atr
+6	daně	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ztratili	VpMP---XR-AA---	Pred
+9	na	RR--4----------	AuxP
+10	osvobození	NNNS4-----A----	Atr
+11	či	J^-------------	Coord
+12	slevu	NNFS4-----A----	Atr
+13	nárok	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln95045-118-p4s1
+1	"	Z:-------------	AuxG
+2	Ještě	Db-------------	AuxZ
+3	krátký	AAIS4----1A----	Atr
+4	čas	NNIS4-----A----	Adv
+5	budeme	VB-P---1F-AA---	AuxV
+6	nedodržení	NNNS4-----N----	Obj
+7	termínu	NNIS2-----A----	Atr
+8	přiznání	NNNS2-----A----	Atr
+9	tolerovat	Vf--------A----	Obj
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	už	Db-------------	AuxZ
+13	dlouho	Dg-------1A----	ExD
+14	ne	TT-------------	ExD
+15	,	Z:-------------	AuxX
+16	"	Z:-------------	AuxG
+17	dodala	VpQW---XR-AA---	Pred
+18	M	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	Syrová	NNFS1-----A----	Sb
+21	.	Z:-------------	AuxK
+

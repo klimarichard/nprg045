@@ -1,0 +1,142 @@
+ln94200-69-p1s1
+1	Většina	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	pro	RR--4----------	AuxP
+4	dostavbu	NNFS4-----A----	Adv
+5	Temelína	NNIS2-----A----	Atr
+
+ln94200-69-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94200-69-p2s1B
+1	Pro	RR--4----------	AuxP
+2	dostavbu	NNFS4-----A----	Adv
+3	jaderné	AAFS2----1A----	Atr
+4	elektrárny	NNFS2-----A----	Atr
+5	Temelín	NNIS1-----A----	Atr
+6	a	J^-------------	Coord
+7	pro	RR--4----------	AuxP
+8	její	PSNS4FS3-------	Atr
+9	uvedení	NNNS4-----A----	Adv
+10	do	RR--2----------	AuxP
+11	provozu	NNIS2-----A----	Atr
+12	by	Vc-------------	AuxV
+13	v	RR--6----------	AuxP
+14	případném	AANS6----1A----	Atr
+15	referendu	NNNS6-----A----	Adv
+16	hlasovalo	VpNS---XR-AA---	Pred
+17	šedesát	Cn-S1----------	Sb
+18	procent	NNNP2-----A----	Atr
+19	lidí	NNMP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94200-69-p2s2
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	průzkumu	NNIS2-----A----	Adv
+5	veřejného	AANS2----1A----	Atr
+6	mínění	NNNS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	který	P4IS4----------	Obj
+9	v	RR--6----------	AuxP
+10	červenci	NNIS6-----A----	Adv
+11	uskutečnila	VpQW---XR-AA---	Atr
+12	společnost	NNFS1-----A----	Sb
+13	AISA	NNFS1-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94200-69-p2s3
+1	Proti	RR--3----------	AuxP
+2	dostavbě	NNFS3-----A----	Adv
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	případném	AANS6----1A----	Atr
+7	referendu	NNNS6-----A----	Adv
+8	vyslovilo	VpNS---XR-AA---	Pred
+9	23	C=-------------	Sb
+10	procent	NNNP2-----A----	Atr
+11	lidí	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94200-69-p2s4
+1	Poměr	NNIS1-----A----	Sb
+2	příznivců	NNMP2-----A----	Atr
+3	a	J^-------------	Coord
+4	odpůrců	NNMP2-----A----	Atr
+5	Temelína	NNIS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	tedy	Db-------------	AuxY
+8	2.5	C=-------------	Pnom
+9	:	Z:-------------	AuxG
+10	1	C=-------------	Atr
+11	.	Z:-------------	AuxK
+
+ln94200-69-p2s5
+1	Více	Dg-------2A----	Sb
+2	než	J,-------------	AuxC
+3	jedna	ClFS1----------	Atr
+4	polovina	NNFS1-----A----	Adv
+5	obyvatel	NNMS1-----A----	Atr
+6	České	AAFS2----1A----	Atr
+7	republiky	NNFS2-----A----	Atr
+8	,	Z:-------------	Apos
+9	60	C=-------------	Sb
+10	procent	NNNP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	souhlasí	VB-S---3P-AA---	Pred
+13	s	RR--7----------	AuxP
+14	využitím	NNNS7-----A----	Obj
+15	jaderné	AAFS2----1A----	Atr
+16	energie	NNFS2-----A----	Atr
+17	formou	NNFS7-----A----	Atr
+18	jaderných	AAFP2----1A----	Atr
+19	elektráren	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94200-69-p2s6
+1	Nesouhlas	NNIS4-----A----	Obj
+2	vyslovila	VpQW---XR-AA---	Pred
+3	jedna	ClFS1----------	Atr
+4	třetina	CyFS1----------	Sb
+5	,	Z:-------------	AuxX
+6	resp	Db------------8	Apos
+7	.	Z:-------------	AuxG
+8	35	C=-------------	Sb
+9	procent	NNNP2-----A----	Atr
+10	dotázaných	AAMP2----1A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94200-69-p2s7
+1	Pět	Cn-S1----------	Sb
+2	procent	NNNP2-----A----	Atr
+3	neví	VB-S---3P-NA---	Pred
+4	.	Z:-------------	AuxK
+
+ln94200-69-p2s8
+1	Výzkum	NNIS1-----A----	Sb
+2	ukázal	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	s	RR--7----------	AuxP
+6	využitím	NNNS7-----A----	Obj
+7	jaderné	AAFS2----1A----	Atr
+8	energie	NNFS2-----A----	Atr
+9	rozhodně	Dg-------1A----	Adv
+10	souhlasí	VB-S---3P-AA---	Obj
+11	23	C=-------------	Sb
+12	procent	NNNP2-----A----	Atr
+13	obyvatel	NNMS1-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94200-69-p2s9
+1	Rozhodný	AAIS4----1A----	Atr
+2	nesouhlas	NNIS4-----A----	Obj
+3	vyslovilo	VpNS---XR-AA---	Pred
+4	14	C=-------------	Sb
+5	procent	NNNP2-----A----	Atr
+6	respondentů	NNMP2-----A----	Atr
+7	.	Z:-------------	AuxK
+

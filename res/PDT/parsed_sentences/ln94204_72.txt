@@ -1,0 +1,139 @@
+ln94204-72-p1s1
+1	Vlastenci	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	odvolají	VB-P---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	soudu	NNIS3-----A----	Adv
+
+ln94204-72-p2s1A
+1	Soudní	AAFS1----1A----	Atr
+2	síň	NNFS1-----A----	ExD
+
+ln94204-72-p2s1B
+1	Cheb	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	vet	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-72-p2s1C
+1	Proti	RR--3----------	AuxP
+2	rozhodnutí	NNNS3-----A----	Obj
+3	chebských	AAMP2----1A----	Atr
+4	radních	NNMP2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	zákazu	NNIS6-----A---1	Atr
+7	Vlastenecké	AAFS2----1A----	Atr
+8	manifestace	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	se	P7-X4----------	AuxR
+12	měla	VpQW---XR-AA---	Atr
+13	uskutečnit	Vf--------A----	Obj
+14	24	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	9	C=-------------	Adv
+17	.	Z:-------------	AuxG
+18	na	RR--6----------	AuxP
+19	náměstí	NNNS6-----A----	Adv
+20	Krále	NNMS2-----A----	Atr
+21	Jiřího	NNMS2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	se	P7-X4----------	AuxT
+24	hodlá	VB-S---3P-AA---	Pred
+25	organizátor	NNMS1-----A----	Sb
+26	Klub	NNIS1-----A----	Atr
+27	českého	AANS2----1A----	Atr
+28	pohraničí	NNNS2-----A----	Atr
+29	odvolat	Vf--------A----	Obj
+30	k	RR--3----------	AuxP
+31	soudu	NNIS3-----A----	Adv
+32	.	Z:-------------	AuxK
+
+ln94204-72-p3s1
+1	Členové	NNMP1-----A----	Sb
+2	klubu	NNIS2-----A----	Atr
+3	popírají	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	měli	VpMP---XR-AA---	Obj
+8	v	RR--6----------	AuxP
+9	úmyslu	NNIS6-----A---1	Obj
+10	omezovat	Vf--------A----	Obj
+11	práva	NNNP4-----A----	Obj
+12	občanů	NNMP2-----A----	Atr
+13	pro	RR--4----------	AuxP
+14	jejich	PSXXXXP3-------	Atr
+15	národnost	NNFS4-----A----	Adv
+16	nebo	J^-------------	Coord
+17	rozněcovat	Vf--------A----	Obj
+18	z	RR--2----------	AuxP
+19	těchto	PDXP2----------	Atr
+20	důvodů	NNIP2-----A----	Adv
+21	nesnášenlivost	NNFS4-----N----	Obj
+22	.	Z:-------------	AuxK
+
+ln94204-72-p3s2
+1	Jejich	PSXXXXP3-------	Atr
+2	záměrem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	dát	Vf--------A----	Sb
+5	veřejně	Dg-------1A----	Adv
+6	slovo	NNNS4-----A----	Obj
+7	těm	PDXP3----------	Obj
+8	,	Z:-------------	AuxX
+9	kteří	P4MP1----------	Sb
+10	odmítají	VB-P---3P-AA---	Atr
+11	měnit	Vf--------A----	Obj
+12	výsledky	NNIP4-----A----	Obj
+13	druhé	CrFS2----------	Atr
+14	světové	AAFS2----1A----	Atr
+15	války	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94204-72-p3s3
+1	Podle	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	byl	VpYS---XR-AA---	Pred
+4	odsun	NNIS1-----A----	Sb
+5	sudetských	AAMP2----1A----	Atr
+6	Němců	NNMP2-----A----	Atr
+7	trestem	NNIS7-----A----	Pnom
+8	za	RR--4----------	AuxP
+9	jejich	PSXXXXP3-------	Atr
+10	zradu	NNFS4-----A----	Atr
+11	a	J^-------------	Coord
+12	podíl	NNIS4-----A----	Atr
+13	na	RR--6----------	AuxP
+14	rozbití	NNNS6-----A----	Atr
+15	Československa	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94204-72-p3s4
+1	Antifašisty	NNMP4-----A----	Obj
+2	,	Z:-------------	AuxX
+3	jak	Db-------------	Adv
+4	uvádějí	VB-P---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	nikdo	PWM-1----------	Sb
+7	nevyháněl	VpYS---XR-NA---	Pred
+8	.	Z:-------------	AuxK
+
+ln94204-72-p3s5
+1	Připravované	AAFS3----1A----	Atr
+2	akci	NNFS3-----A----	Obj
+3	dává	VB-S---3P-AA---	Pred
+4	klub	NNIS1-----A----	Sb
+5	motto	NNNS4-----A----	Obj
+6	:	Z:-------------	AuxG
+7	Již	Db-------------	AuxZ
+8	nikdy	Db-------------	ExD
+9	Mnichov	NNIS4-----A----	ExD
+10	,	Z:-------------	Coord
+11	Cheb	NNIS1-----A----	Sb
+12	musí	VB-S---3P-AA---	Atr
+13	zůstat	Vf--------A----	Obj
+14	českým	AAIS7----1A----	Obj
+15	.	Z:-------------	AuxK
+

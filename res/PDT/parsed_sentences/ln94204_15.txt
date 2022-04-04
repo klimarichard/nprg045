@@ -1,0 +1,220 @@
+ln94204-15-p1s1
+1	Kořenné	AAFP1----1A----	Atr
+2	směsi	NNFP1-----A----	ExD
+3	pro	RR--4----------	AuxP
+4	dietáře	NNMP4-----A----	Atr
+
+ln94204-15-p2s1A
+1	České	AAFP1----1A----	Atr
+2	Budějovice	NNFP1-----A----	ExD
+3	-	Z:-------------	AuxK
+
+ln94204-15-p2s1B
+1	Jako	J,-------------	AuxY
+2	jediná	AAFS1----1A----	Atv
+3	ve	RV--6----------	AuxP
+4	střední	AAFS6----1A----	Atr
+5	Evropě	NNFS6-----A----	Adv
+6	vyrábí	VB-S---3P-AA---	Pred
+7	společnost	NNFS1-----A----	Sb
+8	Em	NNFP2-----A----	Atr
+9	Arko	NNNS1-----A----	Atr
+10	z	RR--2----------	AuxP
+11	Varnsdorfu	NNIS2-----A----	Atr
+12	kořenné	AAFP4----1A----	Atr
+13	směsi	NNFP4-----A----	Obj
+14	pro	RR--4----------	AuxP
+15	zákazníky	NNMP4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	kteří	P4MP1----------	Sb
+18	drží	VB-P---3P-AA---	Atr
+19	dietu	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94204-15-p2s2
+1	Ředitel	NNMS1-----A----	Atr
+2	podniku	NNIS2-----A----	Atr
+3	Michal	NNMS1-----A----	Atr
+4	Šorm	NNMS1-----A----	Sb
+5	včera	Db-------------	Adv
+6	na	RR--6----------	AuxP
+7	agrosalonu	NNIS6-----A---1	Adv
+8	Země	NNFS1-----A----	Atr
+9	živitelka	NNFS1-----A----	Atr
+10	uvedl	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	společnost	NNFS1-----A----	Sb
+14	tyto	PDFP4----------	Atr
+15	směsi	NNFP4-----A----	Obj
+16	vyrábí	VB-S---3P-AA---	Obj
+17	v	RR--6----------	AuxP
+18	osmi	Cn-P6----------	Atr
+19	druzích	NNIP6-----A----	Adv
+20	s	RR--7----------	AuxP
+21	vyznačením	NNNS7-----A----	Atr
+22	čísel	NNNP2-----A----	Atr
+23	jednotlivých	AAFP2----1A----	Atr
+24	diet	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94204-15-p3s1
+1	Roční	AAIS1----1A----	Atr
+2	obrat	NNIS1-----A----	Sb
+3	společnosti	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	pohybuje	VB-S---3P-AA---	Pred
+6	kolem	RR--2----------	AuxP
+7	750	C=-------------	Atr
+8	milionů	NNIP2-----A----	Adv
+9	korun	NNFP2-----A----	Atr
+10	ročně	Dg-------1A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94204-15-p3s2
+1	Em	NNFP2-----A----	Atr
+2	Arko	NNNS1-----A----	Sb
+3	zaměstnává	VB-S---3P-AA---	Pred
+4	zhruba	Db-------------	AuxZ
+5	250	C=-------------	Obj
+6	pracovníků	NNMP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94204-15-p3s3
+1	Přibližně	Dg-------1A----	AuxZ
+2	polovina	NNFS1-----A----	Sb
+3	její	PSFSXFS3-------	Atr
+4	roční	AAFS2----1A----	Atr
+5	produkce	NNFS2-----A----	Atr
+6	směřuje	VB-S---3P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	export	NNIS4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	především	Db-------------	AuxZ
+11	na	RR--4----------	AuxP
+12	Slovensko	NNNS4-----A----	Adv
+13	a	J^-------------	Coord
+14	na	RR--4----------	AuxP
+15	trhy	NNIP4-----A----	Adv
+16	východní	AAFS2----1A----	Atr
+17	Evropy	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-15-p3s4
+1	Společnost	NNFS1-----A----	Sb
+2	nemá	VB-S---3P-NA---	Pred
+3	žádné	PWYP4----------	Atr
+4	závazky	NNIP4-----A----	Obj
+5	po	RR--6----------	AuxP
+6	lhůtě	NNFS6-----A----	AtrAdv
+7	splatnosti	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94204-15-p3s5
+1	Naopak	Db-------------	Adv
+2	její	PSXP1FS3-------	Atr
+3	pohledávky	NNFP1-----A----	Sb
+4	u	RR--2----------	AuxP
+5	odběratelů	NNMP2-----A----	Atr
+6	činí	VB-P---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	současnosti	NNFS6-----A----	Adv
+9	zhruba	Db-------------	AuxZ
+10	milion	NNIS4-----A----	Obj
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94204-15-p4s1
+1	Od	RR--2----------	AuxP
+2	1	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	září	NNNS2-----A----	Adv
+5	zavádí	VB-S---3P-AA---	Pred
+6	firma	NNFS1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	tuzemský	AAIS4----1A----	Atr
+9	trh	NNIS4-----A----	Adv
+10	novou	AAFS4----1A----	Atr
+11	obalovou	AAFS4----1A----	Atr
+12	řadu	NNFS4-----A----	Obj
+13	svých	P8XP2----------	Atr
+14	výrobků	NNIP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	především	Db-------------	AuxZ
+17	suchých	AAIP2----1A----	Atr
+18	plodů	NNIP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	jako	J,-------------	AuxY
+21	jsou	VB-P---3P-AA---	Apos
+22	lískové	AAIP1----1A----	Atr
+23	oříšky	NNIP1-----A----	Atr
+24	,	Z:-------------	AuxX
+25	mandle	NNFP1-----A----	Atr
+26	,	Z:-------------	AuxX
+27	kokos	NNIS1-----A----	Atr
+28	nebo	J^-------------	Coord
+29	oříšky	NNIP1-----A----	Atr
+30	kešu	NNNXX-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94204-15-p4s2
+1	Tento	PDYS1----------	Atr
+2	sortiment	NNIS1-----A----	Sb
+3	také	Db-------------	Adv
+4	tvoří	VB-S---3P-AA---	Pred
+5	hlavní	AAFS4----1A----	Atr
+6	část	NNFS4-----A----	Obj
+7	produkce	NNFS2-----A----	Atr
+8	společnosti	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94204-15-p4s3
+1	Jeho	PSXXXZS3-------	Atr
+2	významnou	AAFS4----1A----	Atr
+3	součást	NNFS4-----A----	Obj
+4	představuje	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	koření	NNNS1-----A----	Sb
+7	a	J^-------------	Coord
+8	káva	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94204-15-p4s4
+1	Celkový	AAIS1----1A----	Atr
+2	počet	NNIS1-----A----	Sb
+3	výrobků	NNIP2-----A----	Atr
+4	firmy	NNFS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	pohybuje	VB-S---3P-AA---	Pred
+7	mezi	RR--7----------	AuxP
+8	150	C=-------------	Atr
+9	až	J^-------------	Coord
+10	160	C=-------------	Atr
+11	druhy	NNIP7-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94204-15-p5s1
+1	Zhruba	Db-------------	AuxZ
+2	polovinu	NNFS4-----A----	Obj
+3	surovin	NNFP2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	své	P8YP4---------1	Atr
+6	výrobky	NNIP4-----A----	Atr
+7	nakupuje	VB-S---3P-AA---	Pred
+8	společnost	NNFS1-----A----	Sb
+9	vlastními	AAFP7----1A----	Atr
+10	silami	NNFP7-----A----	Adv
+11	od	RR--2----------	AuxP
+12	pěstitelů	NNMP2-----A----	Obj
+13	a	J^-------------	Coord
+14	druhou	CrFS4----------	Atr
+15	polovinu	NNFS4-----A----	Obj
+16	nakupuje	VB-S---3P-AA---	Pred
+17	od	RR--2----------	AuxP
+18	dodavatelů	NNMP2-----A----	Obj
+19	,	Z:-------------	AuxX
+20	například	Db-------------	AuxZ
+21	z	RR--2----------	AuxP
+22	Nizozemí	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+

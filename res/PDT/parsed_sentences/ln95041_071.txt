@@ -1,0 +1,415 @@
+ln95041-071-p1s1
+1	V	RR--6----------	AuxP
+2	některých	PZXP6----------	Atr
+3	taxících	NNIP6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	automaticky	Dg-------1A----	Adv
+6	mění	VB-P---3P-AA---	Pred
+7	sazby	NNFP1-----A----	Sb
+8	za	RR--4----------	AuxP
+9	kilometr	NNIS4-----A----	Atr
+10	podle	RR--2----------	AuxP
+11	rychlosti	NNFS2-----A----	Adv
+
+ln95041-071-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95041-071-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-071-p3s1B
+1	Pražští	AAMP1----1A----	Atr
+2	taxikáři	NNMP1-----A----	Sb
+3	zaplatili	VpMP---XR-AA---	Pred
+4	na	RR--6----------	AuxP
+5	pokutách	NNFP6-----A----	Adv
+6	loni	Db------------1	Adv
+7	do	RR--2----------	AuxP
+8	konce	NNIS2-----A----	Adv
+9	listopadu	NNIS2-----A----	Atr
+10	ve	RV--6----------	AuxP
+11	správním	AANS6----1A----	Atr
+12	i	J^-------------	Coord
+13	blokovém	AANS6----1A----	Atr
+14	řízení	NNNS6-----A----	Adv
+15	přes	RR--4----------	AuxP
+16	dva	ClYP4----------	Atr
+17	milióny	NNIP4-----A----	Obj
+18	korun	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95041-071-p3s2
+1	Na	RR--4----------	AuxP
+2	každou	AAFS4----1A----	Atr
+3	kontrolu	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	již	PJFS4----------	Obj
+6	provádějí	VB-P---3P-AA---	Atr
+7	zástupci	NNMP1-----A----	Sb
+8	nejrůznějších	AAFP2----3A----	Atr
+9	institucí	NNFP2-----A----	Atr
+10	od	RR--2----------	AuxP
+11	živnostenského	AAIS2----1A----	Atr
+12	odboru	NNIS2-----A----	Atr
+13	magistrátu	NNIS2-----A----	Atr
+14	po	RR--4----------	AuxP
+15	městskou	AAFS4----1A----	Atr
+16	policii	NNFS4-----A----	Atr
+17	,	Z:-------------	AuxX
+18	připadá	VB-S---3P-AA---	Pred
+19	necelých	AAFP2----1N----	Atr
+20	dva	ClYP1----------	Atr
+21	tisíce	NNIP1-----A----	Sb
+22	korun	NNFP2-----A----	Atr
+23	pokuty	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95041-071-p4s1
+1	Naprostá	AAFS1----1A----	Atr
+2	většina	NNFS1-----A----	Sb
+3	pražských	AAMP2----1A----	Atr
+4	taxikářů	NNMP2-----A----	Atr
+5	své	P8YP4---------1	Atr
+6	zákazníky	NNMP4-----A----	Obj
+7	okrádá	VB-S---3P-AA---	Pred
+8	,	Z:-------------	AuxX
+9	zejména	Db-------------	AuxZ
+10	pokud	J,-------------	AuxC
+11	vezou	VB-P---3P-AA---	Adv
+12	cizince	NNMP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95041-071-p4s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	mimo	RR--4----------	AuxP
+4	jiné	AANS4----1A----	Adv
+5	z	RR--2----------	AuxP
+6	výsledků	NNIP2-----A----	Obj
+7	kontrol	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP4----------	Obj
+10	v	RR--6----------	AuxP
+11	loňském	AAIS6----1A----	Atr
+12	roce	NNIS6-----A---1	Adv
+13	uskutečnil	VpYS---XR-AA---	Atr
+14	magistrát	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95041-071-p4s3
+1	"	Z:-------------	AuxG
+2	Někteří	PZMP1----------	Atr
+3	taxikáři	NNMP1-----A----	Sb
+4	si	P7-X3----------	Adv
+5	upravují	VB-P---3P-AA---	Pred
+6	taxametry	NNIP4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln95041-071-p4s4
+1	Při	RR--6----------	AuxP
+2	určité	AAFS6----1A----	Atr
+3	rychlosti	NNFS6-----A----	Adv
+4	jízdy	NNFS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	například	Db-------------	AuxY
+7	změní	VB-S---3P-AA---	Obj
+8	sazba	NNFS1-----A----	Sb
+9	ze	RV--2----------	AuxP
+10	základní	AAFS2----1A----	ExD
+11	dvanáctikorunové	AAFS2----1A----	ExD
+12	třeba	Db-------------	AuxZ
+13	na	RR--4----------	AuxP
+14	třicet	Cn-S4----------	Obj
+15	korun	NNFP2-----A----	Atr
+16	za	RR--4----------	AuxP
+17	kilometr	NNIS4-----A----	Atr
+18	,	Z:-------------	AuxX
+19	aniž	J,-------------	AuxC
+20	by	Vc-------------	AuxV
+21	si	P7-X3----------	AuxT
+22	zákazník	NNMS1-----A----	Sb
+23	čehokoli	PZ--2---------1	Obj
+24	všimnul	VpYS---XR-AA---	Adv
+25	,	Z:-------------	AuxX
+26	"	Z:-------------	AuxG
+27	uvedl	VpYS---XR-AA---	Pred
+28	Mgr	NNMXX-----A---8	Atr
+29	.	Z:-------------	AuxG
+30	Šídlo	NNMS1-----A----	Sb
+31	ze	RV--2----------	AuxP
+32	živnostenského	AAIS2----1A----	Atr
+33	odboru	NNIS2-----A----	Atr
+34	pražského	AAIS2----1A----	Atr
+35	magistrátu	NNIS2-----A----	Atr
+36	.	Z:-------------	AuxK
+
+ln95041-071-p4s6
+1	Často	Dg-------1A----	Adv
+2	podle	RR--2----------	AuxP
+3	něj	P5ZS2--3-------	Adv
+4	vyjíždějí	VB-P---3P-AA---	Pred
+5	taxikáři	NNMP1-----A----	Sb
+6	ze	RV--2----------	AuxP
+7	stanovišť	NNNP2-----A----	Adv
+8	bez	RR--2----------	AuxP
+9	zapnutých	AAIP2----1A----	Atr
+10	taxametrů	NNIP2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln95041-071-p4s7
+1	Když	J,-------------	AuxC
+2	dojedou	VB-P---3P-AA---	Adv
+3	na	RR--4----------	AuxP
+4	místo	NNNS4-----A----	Adv
+5	určené	AANS4----1A----	Atr
+6	zákazníkem	NNMS7-----A----	Obj
+7	,	Z:-------------	AuxX
+8	vydávají	VB-P---3P-AA---	Pred
+9	stvrzenky	NNFP4-----A----	Obj
+10	s	RR--7----------	AuxP
+11	chybějícími	AGIP7-----A----	Atr
+12	či	J^-------------	Coord
+13	falešnými	AAIP7----1A----	Atr
+14	údaji	NNIP7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95041-071-p4s8
+1	Falšují	VB-P---3P-AA---	Pred
+2	vše	PLNS4---------1	Obj
+3	,	Z:-------------	AuxX
+4	poznávací	AAFS7----1A----	Atr
+5	značkou	NNFS7-----A----	Obj
+6	počínaje	VeYS------A----	ExD
+7	a	J^-------------	Coord
+8	podpisem	NNIS7-----A----	Obj
+9	konče	VeYS------A----	ExD
+10	.	Z:-------------	AuxK
+
+ln95041-071-p4s9
+1	Také	Db-------------	AuxZ
+2	na	RR--4----------	AuxP
+3	stvrzenky	NNFP4-----A----	Adv
+4	píší	VB-P---3P-AA--1	Pred
+5	částky	NNFP4-----A----	Obj
+6	nižší	AAFP4----2A----	Atr
+7	,	Z:-------------	AuxX
+8	než	J,-------------	AuxC
+9	které	P4FP4----------	Obj
+10	zákazník	NNMS1-----A----	Sb
+11	zaplatil	VpYS---XR-AA---	Adv
+12	.	Z:-------------	AuxK
+
+ln95041-071-p4s10
+1	Za	RR--4----------	AuxP
+2	závažnější	AANS4----2A----	Atr
+3	porušení	NNNS4-----A----	Obj
+4	podmínek	NNFP2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	provozování	NNNS4-----A----	Atr
+7	taxislužby	NNFS2-----A----	Atr
+8	vyplývajících	AGFP2-----A----	Atr
+9	z	RR--2----------	AuxP
+10	různých	AAFP2----1A----	Atr
+11	právních	AAFP2----1A----	Atr
+12	norem	NNFP2-----A----	Obj
+13	považuje	VB-S---3P-AA---	Pred
+14	vedoucí	NNFS1-----A----	Atr
+15	živnostenského	AAIS2----1A----	Atr
+16	odboru	NNIS2-----A----	Atr
+17	magistrátu	NNIS2-----A----	Atr
+18	E	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	Novaková	NNFS1-----A----	Sb
+21	také	Db-------------	AuxZ
+22	užívání	NNNS4-----A----	Obj
+23	stanoviště	NNNS2-----A----	Atr
+24	bez	RR--2----------	AuxP
+25	řádně	Dg-------1A----	Adv
+26	zaplacených	AAIP2----1A----	Atr
+27	ročních	AAIP2----1A----	Atr
+28	poplatků	NNIP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95041-071-p4s11
+1	Ty	PDIP1----------	Sb
+2	podle	RR--2----------	AuxP
+3	umístění	NNNS2-----A----	Adv
+4	stanoviště	NNNS2-----A----	Atr
+5	dosahují	VB-P---3P-AA---	Pred
+6	až	TT-------------	AuxZ
+7	šesti	Cn-P2----------	Atr
+8	tisíc	ClXS2----------	Obj
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95041-071-p4s12
+1	Mnozí	AAMP1----1A----	Atr
+2	taxikáři	NNMP1-----A----	Sb
+3	však	J^-------------	Coord
+4	platit	Vf--------A----	Obj
+5	nechtějí	VB-P---3P-NA---	Pred
+6	.	Z:-------------	AuxK
+
+ln95041-071-p4s13
+1	"	Z:-------------	AuxG
+2	I	J^-------------	AuxY
+3	kdybych	J,-S---1-------	AuxC
+4	dal	VpYS---XR-AA---	Adv
+5	třeba	Db-------------	AuxZ
+6	padesát	Cn-S4----------	Obj
+7	tisíc	ClXS2----------	Atr
+8	,	Z:-------------	AuxX
+9	stejně	Dg-------1A----	AuxY
+10	bych	Vc-S---1-------	AuxV
+11	se	P7-X4----------	AuxT
+12	nikam	Db-------------	Adv
+13	nepostavil	VpYS---XR-NA---	Pred
+14	.	Z:-------------	AuxK
+
+ln95041-071-p4s14
+1	Nechci	VB-S---1P-NA---	Obj
+2	přijít	Vf--------A----	Obj
+3	o	RR--4----------	AuxP
+4	auto	NNNS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	"	Z:-------------	AuxG
+7	řekl	VpYS---XR-AA---	Pred
+8	LN	NNFPX-----A---8	Obj
+9	jeden	ClYS1----------	Sb
+10	z	RR--2----------	AuxP
+11	neplatičů	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95041-071-p5s1
+1	Menší	AAIP1----2A----	Atr
+2	nedostatky	NNIP1-----A----	Sb
+3	například	Db-------------	AuxZ
+4	v	RR--6----------	AuxP
+5	nekompletním	AANS6----1N----	Atr
+6	označení	NNNS6-----A----	Atr
+7	vozidla	NNNS2-----A----	Atr
+8	se	P7-X4----------	AuxR
+9	řeší	VB-P---3P-AA---	Pred
+10	buď	J^-------------	AuxY
+11	blokovou	AAFS7----1A----	Atr
+12	pokutou	NNFS7-----A----	Adv
+13	,	Z:-------------	AuxX
+14	nebo	J^-------------	Coord
+15	upozorněním	NNNS7-----A----	Adv
+16	a	J^-------------	Coord
+17	poskytnutím	NNNS7-----A----	Adv
+18	určité	AAFS2----1A----	Atr
+19	doby	NNFS2-----A----	Atr
+20	na	RR--4----------	AuxP
+21	jejich	PSXXXXP3-------	Atr
+22	odstranění	NNNS4-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95041-071-p5s2
+1	Když	J,-------------	AuxC
+2	však	J^-------------	AuxY
+3	taxikář	NNMS1-----A----	Sb
+4	hrubě	Dg-------1A----	Adv
+5	poruší	VB-S---3P-AA---	Adv
+6	podmínky	NNFP4-----A----	Obj
+7	dané	AAFP4----1A----	Atr
+8	právními	AAFP7----1A----	Atr
+9	normami	NNFP7-----A----	Adv
+10	,	Z:-------------	AuxX
+11	může	VB-S---3P-AA---	Pred
+12	podle	RR--2----------	AuxP
+13	E	NNFXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Novakové	NNFS2-----A----	Adv
+16	dojít	Vf--------A----	Obj
+17	k	RR--3----------	AuxP
+18	odebrání	NNNS3-----A----	Obj
+19	koncese	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95041-071-p5s3
+1	Tomu	PDZS3----------	Obj
+2	však	J^-------------	Coord
+3	předchází	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	několikaměsíční	AANS1----1A----	Atr
+6	správní	AANS1----1A----	Atr
+7	řízení	NNNS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95041-071-p5s4
+1	Taxikář	NNMS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	možnost	NNFS4-----A----	Obj
+5	se	P7-X4----------	AuxT
+6	po	RR--6----------	AuxP
+7	vyslovení	NNNS6-----A----	Adv
+8	verdiktu	NNIS2-----A----	Atr
+9	odvolat	Vf--------A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95041-071-p5s5
+1	Po	RR--4----------	AuxP
+2	celou	AAFS4----1A----	Atr
+3	dobu	NNFS4-----A----	Adv
+4	řízení	NNNS2-----A----	Atr
+5	smí	VB-S---3P-AA---	Pred
+6	jezdit	Vf--------A----	Obj
+7	dál	Db-------------	Adv
+8	.	Z:-------------	AuxK
+
+ln95041-071-p5s6
+1	Je	VB-S---3P-AA---	Pred
+2	možné	AANS1----1A----	Pnom
+3	odebrat	Vf--------A----	Sb
+4	mu	PHZS3--3-------	Obj
+5	koncesní	AAFS4----1A----	Atr
+6	listinu	NNFS4-----A----	Obj
+7	či	J^-------------	Coord
+8	pozastavit	Vf--------A----	Sb
+9	platnost	NNFS4-----A----	Obj
+10	živnostenského	AANS2----1A----	Atr
+11	oprávnění	NNNS2-----A----	Atr
+12	okamžitě	Dg-------1A----	Adv
+13	při	RR--6----------	AuxP
+14	kontrole	NNFS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95041-071-p5s7
+1	To	PDNS4----------	Obj
+2	smí	VB-S---3P-AA---	Pred
+3	však	J^-------------	Coord
+4	udělat	Vf--------A----	Obj
+5	jen	TT-------------	AuxZ
+6	úřad	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	listiny	NNFP4-----A----	Obj
+10	vydal	VpYS---XR-AA---	Atr
+11	.	Z:-------------	AuxK
+
+ln95041-071-p5s8
+1	Pravděpodobnost	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	pracovník	NNMS1-----A----	Sb
+5	úřadu	NNIS2-----A----	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	kontrolovat	Vf--------A----	Atr
+8	právě	Db-------------	AuxZ
+9	"	Z:-------------	AuxG
+10	svého	P8MS4----------	Atr
+11	"	Z:-------------	AuxG
+12	taxikáře	NNMS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	je	VB-S---3P-AA---	Pred
+15	však	J^-------------	Coord
+16	malá	AAFS1----1A----	Pnom
+17	.	Z:-------------	AuxK
+

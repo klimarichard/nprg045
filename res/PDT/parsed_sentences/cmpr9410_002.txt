@@ -1,0 +1,711 @@
+cmpr9410-002-p2s1
+1	Úpadku	NNIS3-----A----	Obj
+2	zabránili	VpMP---XR-AA---	Pred
+3	výkonem	NNIS7-----A----	Adv
+
+cmpr9410-002-p3s1A
+1	Milionový	AAIS1----1A----	Atr
+2	podraz	NNIS1-----A----	ExD
+3	způsobený	AAIS1----1A----	Atr
+4	partnerem	NNMS7-----A----	Obj
+5	*	Z:-------------	AuxK
+
+cmpr9410-002-p3s1B
+1	A	AAXXX----1A---8	Atr
+2	O	AAXXX----1A---8	Atr
+3	Travel	NNFS1-----A----	Sb
+4	se	P7-X4----------	AuxR
+5	srazit	Vf--------A----	Obj
+6	nedala	VpQW---XR-NA---	Pred
+
+cmpr9410-002-p4s1
+1	Ubytování	NNNS4-----A----	Obj
+2	v	RR--6----------	AuxP
+3	předních	AAIP6----1A----	Atr
+4	pražských	AAIP6----1A----	Atr
+5	hotelech	NNIP6-----A----	Atr
+6	zajišťovala	VpQW---XR-AA---	Pred
+7	pražská	AAFS1----1A----	Atr
+8	agentura	NNFS1-----A----	Sb
+9	Alfa	NNFS1-----A----	Atr
+10	Omega	NNFS1-----A----	Atr
+11	Travel	NNFS1-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	pobytové	AAIP4----1A----	Atr
+14	zájezdy	NNIP4-----A----	Atr
+15	německé	AAFS2----1A----	Atr
+16	cestovní	AAFS2----1A----	Atr
+17	kanceláře	NNFS2-----A----	Atr
+18	Norma	NNFS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-002-p4s2
+1	Po	RR--6----------	AuxP
+2	několika	Ca--6----------	Atr
+3	akcích	NNFP6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	které	P4FP1----------	Sb
+6	proběhly	VpTP---XR-AA--1	Atr
+7	ke	RV--3----------	AuxP
+8	spokojenosti	NNFS3-----A----	Adv
+9	všech	PLXP2----------	Atr
+10	zúčastněných	AAFP2----1A----	Atr
+11	stran	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	přišla	VpQW---XR-AA---	Pred
+14	rána	NNFS1-----A----	Sb
+15	do	RR--2----------	AuxP
+16	zad	NNNP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-002-p4s3
+1	Třímilionovou	AAFS4----1A----	Atr
+2	pohledávku	NNFS4-----A----	Obj
+3	za	RR--4----------	AuxP
+4	pobyt	NNIS4-----A----	Atr
+5	více	Dg-------2A----	Atr
+6	jak	Db-------------	AuxC
+7	stovky	NNFS2-----A----	Adv
+8	turistů	NNMP2-----A----	Atr
+9	uhradil	VpYS---XR-AA---	Pred
+10	partner	NNMS1-----A----	Sb
+11	nekrytými	AAFP7----1N----	Atr
+12	směnkami	NNFP7-----A----	Adv
+13	a	J^-------------	Coord
+14	zmizel	VpYS---XR-AA---	Pred
+15	někde	Db-------------	Adv
+16	za	RR--7----------	AuxP
+17	mořem	NNNS7-----A----	Adv
+18	.	Z:-------------	AuxK
+
+cmpr9410-002-p4s4
+1	Agentura	NNFS1-----A----	Sb
+2	AOT	NNFXX-----A---8	Atr
+3	se	P7-X4----------	AuxT
+4	rázem	NNIS7-----A----	Adv
+5	ocitla	VpQW---XR-AA--1	Pred
+6	před	RR--7----------	AuxP
+7	bankrotem	NNIS7-----A----	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9410-002-p5s1
+1	Vítězslav	NNMS1-----A----	Atr
+2	Boukal	NNMS1-----A----	ExD
+
+cmpr9410-002-p6s1
+1	Třímilionová	AAFS1----1A----	Atr
+2	loupež	NNFS1-----A----	Sb
+3	způsobila	VpQW---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	příznivá	AAFS1----1A----	Atr
+8	platební	AAFS1----1A----	Atr
+9	bilance	NNFS1-----A----	Sb
+10	rázem	NNIS7-----A----	Adv
+11	změnila	VpQW---XR-AA---	Obj
+12	v	RR--4----------	AuxP
+13	hluboké	AANS4----1A----	Atr
+14	zadlužení	NNNS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9410-002-p7s1
+1	Postižených	AAFP2----1A----	Atr
+2	cestovek	NNFP2-----A----	Atr
+3	bylo	VpNS---XR-AA---	Obj
+4	víc	Dg-------2A---1	Sb
+5	,	Z:-------------	Coord
+6	dvě	ClHP1----------	Sb
+7	z	RR--2----------	AuxP
+8	nich	P5XP2--3-------	Atr
+9	udělaly	VpTP---XR-AA---	Obj
+10	bankrot	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	vyprávěla	VpQW---XR-AA---	Pred
+13	nám	PP-P3--1-------	Obj
+14	Ludmila	NNFS1-----A----	Atr
+15	Janočková	NNFS1-----A----	Sb
+16	,	Z:-------------	Apos
+17	majitelka	NNFS1-----A----	Sb
+18	agentury	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-002-p7s2
+1	Na	RR--4----------	AuxP
+2	krach	NNIS4-----A----	Adv
+3	to	PDNS1----------	Sb
+4	vypadalo	VpNS---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	u	RR--2----------	AuxP
+7	nás	PP-P2--1-------	Adv
+8	,	Z:-------------	AuxX
+9	odešlo	VpNS---XR-AA---	Pred
+10	mi	PH-S3--1-------	Adv
+11	proto	J^-------------	Coord
+12	několik	Ca--1----------	Sb
+13	šikovných	AAMP2----1A----	Atr
+14	spolupracovníků	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9410-002-p7s3
+1	Musela	VpQW---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	zříci	Vf--------A---1	Obj
+5	výhodné	AAFS2----1A----	Atr
+6	prodejní	AAFS2----1A----	Atr
+7	kanceláře	NNFS2-----A----	Obj
+8	v	RR--6----------	AuxP
+9	Kotvě	NNFS6-----A----	Atr
+10	a	J^-------------	Coord
+11	rychle	Dg-------1A----	Adv
+12	hledat	Vf--------A----	Pred
+13	způsob	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	jak	Db-------------	Adv
+16	firmu	NNFS4-----A----	Obj
+17	zachránit	Vf--------A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9410-002-p8s1
+1	Turistika	NNFS1-----A----	ExD
+2	vinná	AAFS1----1A----	Atr
+3	i	J^-------------	Coord
+4	jiná	AAFS1----1A----	Atr
+
+cmpr9410-002-p9s1
+1	Nejrychlejší	AAFS7----3A----	Atr
+2	cestou	NNFS7-----A----	Pnom
+3	by	Vc-------------	AuxV
+4	byl	VpYS---XR-AA---	Pred
+5	překlenovací	AAIS1----1A----	Atr
+6	úvěr	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	banky	NNFP1-----A----	Sb
+10	zpravidla	Db-------------	Adv
+11	na	RR--4----------	AuxP
+12	úhradu	NNFS4-----A----	Adv
+13	dluhů	NNIP2-----A----	Atr
+14	nepůjčují	VB-P---3P-NA---	Pred
+15	.	Z:-------------	AuxK
+
+cmpr9410-002-p9s2A
+1	(	Z:-------------	AuxG
+2	Vlastní	AAIS1----1A----	Atr
+3	domek	NNIS1-----A----	Sb
+4	byl	VpYS---XR-AA---	Pred
+5	zastaven	VsYS---XX-AP---	Pnom
+6	už	Db-------------	AuxZ
+7	dříve	Dg-------2A----	Adv
+8	ke	RV--3----------	AuxP
+9	krytí	NNNS3-----A----	Adv
+10	půjčky	NNFS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	rozjezd	NNIS4-----A----	Atr
+13	kanceláře	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+15	)	Z:-------------	AuxG
+
+cmpr9410-002-p9s2B
+1	Nenadálou	AAFS4----1N----	Atr
+2	finanční	AAFS4----1A----	Atr
+3	krizi	NNFS4-----A----	Obj
+4	musela	VpQW---XR-AA---	Pred
+5	podnikatelka	NNFS1-----A----	Sb
+6	řešit	Vf--------A----	Obj
+7	jiným	AAIS7----1A----	Atr
+8	způsobem	NNIS7-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9410-002-p10s1
+1	Především	Db-------------	AuxZ
+2	informovala	VpQW---XR-AA---	Pred
+3	své	P8YP4---------1	Atr
+4	věřitele	NNMP4-----A----	Obj
+5	(	Z:-------------	AuxG
+6	jen	TT-------------	AuxZ
+7	hotelům	NNIP3-----A----	Obj
+8	dlužila	VpQW---XR-AA---	Pred
+9	půl	NNFS4-----A----	Adv
+10	druhého	CrIS2----------	Atr
+11	milionu	NNIS2-----A----	Atr
+12	)	Z:-------------	AuxG
+13	o	RR--6----------	AuxP
+14	nastalé	AAFS6----1A----	Atr
+15	situaci	NNFS6-----A----	Obj
+16	a	J^-------------	Coord
+17	požádala	VpQW---XR-AA---	Pred
+18	je	PPXP4--3-------	Obj
+19	o	RR--4----------	AuxP
+20	poshovění	NNNS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9410-002-p10s2
+1	Pokud	J,-------------	AuxC
+2	nechtěli	VpMP---XR-NA---	Adv
+3	nebo	J^-------------	Coord
+4	nemohli	VpMP---XR-NA---	Adv
+5	odklad	NNIS4-----A----	Obj
+6	platby	NNFS2-----A----	Atr
+7	povolit	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	použila	VpQW---XR-AA---	Pred
+10	k	RR--3----------	AuxP
+11	úhradám	NNFP3-----A----	Adv
+12	zálohy	NNFP4-----A----	Obj
+13	vybrané	AAFP4----1A----	Atr
+14	na	RR--4----------	AuxP
+15	připravené	AAIP4----1A----	Atr
+16	zájezdy	NNIP4-----A----	Adv
+17	.	Z:-------------	AuxK
+
+cmpr9410-002-p10s3
+1	Něco	PZ--4----------	Obj
+2	málo	NNNS4-----A----	Atr
+3	zaplatila	VpQW---XR-AA---	Pred
+4	i	J^-------------	AuxZ
+5	z	RR--2----------	AuxP
+6	osobních	AAFP2----1A----	Atr
+7	půjček	NNFP2-----A----	Adv
+8	poskytnutých	AAFP2----1A----	Atr
+9	příbuznými	NNMP7-----A----	Obj
+10	a	J^-------------	Coord
+11	přáteli	NNMP7-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9410-002-p11s1
+1	Hlavní	AAFS4----1A----	Atr
+2	pomoc	NNFS4-----A----	Obj
+3	ale	J^-------------	Coord
+4	nacházela	VpQW---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	dalších	AAFP6----1A----	Atr
+7	obchodních	AAFP6----1A----	Atr
+8	aktivitách	NNFP6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9410-002-p12s1
+1	Až	TT-------------	AuxZ
+2	dosud	Db-------------	Adv
+3	se	P7-X4----------	AuxT
+4	u	RR--2----------	AuxP
+5	domácí	AAFS2----1A----	Atr
+6	turistiky	NNFS2-----A----	Adv
+7	zaměřovala	VpQW---XR-AA---	Pred
+8	Alfa	NNFS1-----A----	Atr
+9	Omega	NNFS1-----A----	Atr
+10	Travel	NNFS1-----A----	Sb
+11	na	RR--4----------	AuxP
+12	náročnější	AAFS4----2A----	Atr
+13	klientelu	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9410-002-p12s2
+1	Tomu	PDZS3----------	Obj
+2	odpovídala	VpQW---XR-AA---	Pred
+3	cílová	AANP1----1A----	Atr
+4	místa	NNNP1-----A----	Sb
+5	-	Z:-------------	Apos
+6	Kypr	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	Kréta	NNFS1-----A----	Sb
+9	,	Z:-------------	Coord
+10	Malta	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+cmpr9410-002-p12s3
+1	S	RR--7----------	AuxP
+2	leteckou	AAFS7----1A----	Atr
+3	dopravou	NNFS7-----A----	ExD
+4	,	Z:-------------	AuxX
+5	hotely	NNIP7-----A----	ExD
+6	přinejmenším	Db-------------	AuxZ
+7	tříhvězdičkovými	AAIP7----1A----	Atr
+8	a	J^-------------	Coord
+9	kvalitním	AAIS7----1A----	Atr
+10	servisem	NNIS7-----A----	ExD
+11	.	Z:-------------	AuxK
+
+cmpr9410-002-p12s4
+1	Úroveň	NNFS4-----A----	Obj
+2	ubytování	NNNS2-----A----	Atr
+3	i	J^-------------	Coord
+4	stravování	NNNS2-----A----	Atr
+5	si	P7-X3----------	Adv
+6	před	RR--7----------	AuxP
+7	uzavřením	NNNS7-----A----	Adv
+8	smlouvy	NNFS2-----A----	Atr
+9	většinou	Db-------------	Adv
+10	ověřovala	VpQW---XR-AA---	Pred
+11	majitelka	NNFS1-----A----	Atr
+12	firmy	NNFS2-----A----	Atr
+13	Ludmila	NNFS1-----A----	Atr
+14	Janočková	NNFS1-----A----	Sb
+15	v	RR--6----------	AuxP
+16	zahraničí	NNNS6-----A----	Adv
+17	osobně	Dg-------1A----	Adv
+18	.	Z:-------------	AuxK
+
+cmpr9410-002-p13s1
+1	Agentura	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	věnovala	VpQW---XR-AA---	Pred
+4	i	J^-------------	AuxZ
+5	incommingu	NNIS3-----A----	Obj
+6	-	Z:-------------	Apos
+7	službám	NNFP3-----A----	Obj
+8	poskytovaným	AAFP3----1A----	Atr
+9	cizím	AAMP3----1A----	Atr
+10	turistům	NNMP3-----A----	Obj
+11	u	RR--2----------	AuxP
+12	nás	PP-P2--1-------	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9410-002-p13s2
+1	Organizování	NNNS1-----A----	Sb
+2	oboustranné	AAFS2----1A----	Atr
+3	turistiky	NNFS2-----A----	Atr
+4	-	Z:-------------	AuxG
+5	aktivní	AAFS2----1A----	Atr
+6	i	J^-------------	Coord
+7	pasivní	AAFS2----1A----	Atr
+8	-	Z:-------------	AuxG
+9	má	VB-S---3P-AA---	Obj
+10	některé	PZFP4----------	Atr
+11	výhody	NNFP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	řekla	VpQW---XR-AA---	Pred
+14	nám	PP-P3--1-------	Obj
+15	k	RR--3----------	AuxP
+16	tomu	PDZS3----------	Adv
+17	majitelka	NNFS1-----A----	Sb
+18	agentury	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-002-p13s3
+1	Umožňuje	VB-S---3P-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	například	Db-------------	AuxY
+4	stanovit	Vf--------A----	Obj
+5	příznivější	AAFP4----2A----	Atr
+6	ceny	NNFP4-----A----	Obj
+7	pro	RR--4----------	AuxP
+8	domácí	AAMP4----1A----	Atr
+9	klienty	NNMP4-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9410-002-p14s1
+1	Při	RR--6----------	AuxP
+2	řešení	NNNS6-----A----	Adv
+3	krize	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	A	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	O	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	Travel	NNFS1-----A----	Sb
+10	zaměřila	VpQW---XR-AA---	Pred
+11	na	RR--4----------	AuxP
+12	pohotové	AANS4----1A----	Atr
+13	zajišťování	NNNS4-----A----	Obj
+14	a	J^-------------	Coord
+15	prodej	NNIS4-----A----	Obj
+16	nových	AAIP2----1A----	Atr
+17	zájezdů	NNIP2-----A----	Atr
+18	a	J^-------------	Coord
+19	pobytů	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9410-002-p14s2
+1	Začala	VpQW---XR-AA---	Pred
+2	experimentovat	Vf--------A----	Obj
+3	s	RR--7----------	AuxP
+4	nabídkou	NNFS7-----A----	Obj
+5	zajímavých	AAFP2----1A----	Atr
+6	akcí	NNFP2-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	domácí	AAMP4----1A----	Atr
+9	i	J^-------------	Coord
+10	cizí	AAMP4----1A----	Atr
+11	turisty	NNMP4-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9410-002-p14s3
+1	U	RR--2----------	AuxP
+2	incommingu	NNIS2-----A----	Adv
+3	šlo	VpNS---XR-AA---	Pred
+4	zpravidla	Db-------------	Adv
+5	o	RR--4----------	AuxP
+6	obohacení	NNNS4-----A----	Obj
+7	pobytu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	plánovaného	AAIS2----1A----	Atr
+10	původně	Dg-------1A----	Adv
+11	jen	TT-------------	AuxZ
+12	do	RR--2----------	AuxP
+13	Prahy	NNFS2-----A----	Adv
+14	,	Z:-------------	AuxX
+15	či	J^-------------	Coord
+16	do	RR--2----------	AuxP
+17	některého	PZZS2----------	Atr
+18	lázeňského	AANS2----1A----	Atr
+19	města	NNNS2-----A----	Adv
+20	tématickými	AAIP7----1A----	Atr
+21	,	Z:-------------	AuxX
+22	i	J^-------------	Coord
+23	vícedenními	AAIP7----1A----	Atr
+24	zájezdy	NNIP7-----A----	Atr
+25	:	Z:-------------	AuxG
+26	S	RR--7----------	AuxP
+27	loveckou	AAFS7----1A----	Atr
+28	tématikou	NNFS7-----A----	Atr
+29	,	Z:-------------	AuxX
+30	sportovním	AAIS7----1A----	Atr
+31	programem	NNIS7-----A----	Atr
+32	,	Z:-------------	Coord
+33	romantickým	AANS7----1A----	Atr
+34	putováním	NNNS7-----A----	Atr
+35	po	RR--6----------	AuxP
+36	hradech	NNIP6-----A----	Atr
+37	i	J^-------------	Coord
+38	zámcích	NNIP6-----A----	Atr
+39	,	Z:-------------	AuxX
+40	ale	J^-------------	Coord
+41	třeba	Db-------------	AuxZ
+42	i	J^-------------	AuxZ
+43	za	RR--7----------	AuxP
+44	poznáním	NNNS7-----A----	Atr
+45	moravských	AAIP2----1A----	Atr
+46	vinných	AAIP2----1A----	Atr
+47	sklepů	NNIP2-----A----	Atr
+48	,	Z:-------------	AuxX
+49	nebo	J^-------------	Coord
+50	zase	Db-------------	AuxZ
+51	českých	AAIP2----1A----	Atr
+52	pivovarů	NNIP2-----A----	Atr
+53	.	Z:-------------	AuxK
+
+cmpr9410-002-p14s4
+1	Ukázalo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vhodným	AAIS7----1A----	Atr
+6	způsobem	NNIS7-----A----	Adv
+7	naservírovaný	AAIS1----1A----	Atr
+8	dobrý	AAIS1----1A----	Atr
+9	nápad	NNIS1-----A----	Sb
+10	je	VB-S---3P-AA---	Sb
+11	lepší	AAIS1----2A----	Pnom
+12	než	J,-------------	AuxC
+13	jakákoliv	PZFS1----------	Atr
+14	půjčka	NNFS1-----A----	ExD
+15	.	Z:-------------	AuxK
+
+cmpr9410-002-p15s1
+1	Pestrá	AAFS1----1A----	Atr
+2	nabídka	NNFS1-----A----	ExD
+
+cmpr9410-002-p16s1
+1	Pro	RR--4----------	AuxP
+2	domácí	AAIS4----1A----	Atr
+3	trh	NNIS4-----A----	Obj
+4	začala	VpQW---XR-AA---	Pred
+5	kancelář	NNFS1-----A----	Sb
+6	vydávat	Vf--------A----	Obj
+7	nové	AAIP4----1A----	Atr
+8	katalogové	AAIP4----1A----	Atr
+9	listy	NNIP4-----A----	Obj
+10	jednotlivě	Dg-------1A----	Adv
+11	a	J^-------------	Coord
+12	postupně	Dg-------1A----	Adv
+13	,	Z:-------------	AuxX
+14	tak	Db-------------	Adv
+15	jak	Db-------------	Adv
+16	se	P7-X4----------	AuxT
+17	akce	NNFP4-----A----	Obj
+18	dařilo	VpNS---XR-AA---	Adv
+19	organizovat	Vf--------A----	Sb
+20	.	Z:-------------	AuxK
+
+cmpr9410-002-p16s2
+1	Objevil	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	v	RR--6----------	AuxP
+4	nich	P5XP6--3-------	Adv
+5	Jadran	NNIS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	letoviska	NNNP1-----A----	Sb
+8	italská	AANP1----1A----	Atr
+9	,	Z:-------------	AuxX
+10	španělská	AANP1----1A----	Atr
+11	,	Z:-------------	Coord
+12	řecká	AANP1----1A----	Atr
+13	,	Z:-------------	AuxX
+14	Rudé	AANS1----1A----	Atr
+15	Moře	NNNS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	třeba	Db-------------	AuxZ
+19	i	J^-------------	AuxZ
+20	jména	NNNP1-----A----	Sb
+21	ze	RV--2----------	AuxP
+22	Severní	AAFS2----1A----	Atr
+23	i	J^-------------	Coord
+24	Jižní	AAFS2----1A----	Atr
+25	Ameriky	NNFS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+cmpr9410-002-p17s1
+1	Agentura	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	přizpůsobila	VpQW---XR-AA---	Pred
+4	rychle	Dg-------1A----	Adv
+5	se	P7-X4----------	AuxT
+6	měnící	AGFS3-----A----	Atr
+7	poptávce	NNFS3-----A----	Obj
+8	a	J^-------------	Coord
+9	organizuje	VB-S---3P-AA---	Pred
+10	i	J^-------------	AuxZ
+11	turistiku	NNFS4-----A----	Obj
+12	individuální	AAFS4----1A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9410-002-p17s2
+1	Reagovala	VpQW---XR-AA---	Pred
+2	na	RR--4----------	AuxP
+3	snížení	NNNS4-----A----	Obj
+4	zájmu	NNIS2-----A----	Atr
+5	o	RR--4----------	AuxP
+6	skupinové	AAIP4----1A----	Atr
+7	zájezdy	NNIP4-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9410-002-p17s3
+1	Kromě	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	nyní	Db-------------	Adv
+4	s	RR--7----------	AuxP
+5	několikadenními	AAIP7----1A----	Atr
+6	odstupy	NNIP7-----A----	Adv
+7	vypravuje	VB-S---3P-AA---	Pred
+8	do	RR--2----------	AuxP
+9	zahraničí	NNNS2-----A----	Adv
+10	malé	AAFP4----1A----	Atr
+11	skupinky	NNFP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	třeba	Db-------------	AuxZ
+14	po	RR--6----------	AuxP
+15	čtyřech	ClXP6----------	Atr
+16	lidech	NNMP6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-002-p18s1
+1	Počet	NNIS1-----A----	Sb
+2	zákazníků	NNMP2-----A----	Atr
+3	vzrostl	VpYS---XR-AA---	Pred
+4	díky	RR--3----------	AuxP
+5	všem	PLXP3----------	Atr
+6	těmto	PDXP3----------	Atr
+7	opatřením	NNNP3-----A----	Adv
+8	na	RR--4----------	AuxP
+9	dvojnásobek	NNIS4-----A----	Obj
+10	a	J^-------------	Coord
+11	úměrně	Dg-------1A----	Adv
+12	tomu	PDZS3----------	Adv
+13	se	P7-X4----------	AuxT
+14	zlepšila	VpQW---XR-AA---	Pred
+15	i	J^-------------	AuxZ
+16	možnost	NNFS1-----A----	Sb
+17	likvidovat	Vf--------A----	Atr
+18	následky	NNIP4-----A----	Obj
+19	třímilionové	AAFS2----1A----	Atr
+20	loupeže	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9410-002-p18s2
+1	O	RR--6----------	AuxP
+2	tom	PDZS6----------	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	situace	NNFS1-----A----	Sb
+6	agentury	NNFS2-----A----	Atr
+7	Alfa	NNFS1-----A----	Atr
+8	Omega	NNFS1-----A----	Atr
+9	Travel	NNFS1-----A----	Atr
+10	je	VB-S---3P-AA---	Atr
+11	dobrá	AAFS1----1A----	Pnom
+12	,	Z:-------------	AuxX
+13	svědčí	VB-S---3P-AA---	Pred
+14	i	J^-------------	AuxZ
+15	její	PSFSXFS3-------	Atr
+16	nová	AAFS1----1A----	Atr
+17	reprezentační	AAFS1----1A----	Atr
+18	prodejna	NNFS1-----A----	Sb
+19	v	RR--6----------	AuxP
+20	podchodu	NNIS6-----A---1	Atr
+21	na	RR--6----------	AuxP
+22	pražském	AAIS6----1A----	Atr
+23	Zlatém	AAIS6----1A----	Atr
+24	kříži	NNIS6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9410-002-p19s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Alfa	NNFS1-----A----	Atr
+4	Omega	NNFS1-----A----	Atr
+5	Travel	NNFP2-----A----	ExD
+6	,	Z:-------------	AuxX
+7	Týnská	AAFS1----1A----	Atr
+8	ulička	NNFS1-----A----	Atr
+9	10	C=-------------	Atr
+10	,	Z:-------------	AuxX
+11	110	C=-------------	Atr
+12	00	C=-------------	Atr
+13	Praha	NNFS1-----A----	Atr
+14	1	C=-------------	Atr
+15	,	Z:-------------	AuxX
+16	tel	NNIXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	:	Z:-------------	AuxG
+19	(	Z:-------------	AuxG
+20	02	C=-------------	Atr
+21	)	Z:-------------	AuxG
+22	232	C=-------------	Atr
+23	67	C=-------------	Atr
+24	64	C=-------------	Atr
+25	,	Z:-------------	Coord
+26	232	C=-------------	Atr
+27	37	C=-------------	Atr
+28	66	C=-------------	Atr
+29	,	Z:-------------	Coord
+30	FAX	NNIS1-----A----	Atr
+31	:	Z:-------------	AuxG
+32	(	Z:-------------	AuxG
+33	02	C=-------------	Atr
+34	)	Z:-------------	AuxG
+35	231	C=-------------	Atr
+36	46	C=-------------	Atr
+37	30	C=-------------	Atr
+38	.	Z:-------------	AuxK
+
+cmpr9410-002-p21s1
+1	Firma	NNFS1-----A----	Sb
+2	Alfa	NNFS1-----A----	Atr
+3	Omega	NNFS1-----A----	Atr
+4	Travel	NNFP2-----A----	Atr
+5	byla	VpQW---XR-AA---	AuxV
+6	za	RR--4----------	AuxP
+7	zásluhy	NNFP4-----A----	Adv
+8	o	RR--4----------	AuxP
+9	rozvoj	NNIS4-----A----	Atr
+10	cestovního	AAIS2----1A----	Atr
+11	ruchu	NNIS2-----A----	Atr
+12	oceněna	VsQW---XX-AP---	Pred
+13	Cenou	NNFS7-----A----	Adv
+14	roku	NNIS2-----A---1	Atr
+15	1993	C=-------------	Atr
+16	.	Z:-------------	AuxK
+

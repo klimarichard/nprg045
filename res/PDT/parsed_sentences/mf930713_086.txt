@@ -1,0 +1,245 @@
+mf930713-086-p2s1
+1	Vojáci	NNMP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	základní	AAFS6----1A----	Atr
+4	službě	NNFS6-----A----	Atr
+5	musejí	VB-P---3P-AA---	Pred
+6	opět	Db-------------	Adv
+7	chodit	Vf--------A----	Obj
+8	na	RR--4----------	AuxP
+9	vycházky	NNFP4-----A----	Adv
+10	ve	RV--6----------	AuxP
+11	stejnokrojích	NNIP6-----A----	Adv
+
+mf930713-086-p2s2A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	jkl	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	jh	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930713-086-p2s2B
+1	Vojáci	NNMP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	základní	AAFS6----1A----	Atr
+4	službě	NNFS6-----A----	Atr
+5	budou	VB-P---3F-AA---	AuxV
+6	muset	Vf--------A----	Pred
+7	od	RR--2----------	AuxP
+8	29	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	července	NNIS2-----A----	Adv
+11	chodit	Vf--------A----	Obj
+12	na	RR--4----------	AuxP
+13	vycházky	NNFP4-----A----	Adv
+14	opět	Db-------------	Adv
+15	ve	RV--6----------	AuxP
+16	stejnokroji	NNIS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+mf930713-086-p2s3
+1	Civilní	AAIS4----1A----	Atr
+2	oděv	NNIS4-----A----	Obj
+3	smějí	VB-P---3P-AA---	Pred
+4	nosit	Vf--------A----	Obj
+5	jen	TT-------------	AuxZ
+6	na	RR--6----------	AuxP
+7	dovolené	NNFS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	a	J^-------------	AuxY
+10	to	PDNS1----------	AuxY
+11	ještě	Db-------------	AuxZ
+12	se	RV--7----------	AuxP
+13	souhlasem	NNIS7-----A----	Adv
+14	velitele	NNMS2-----A----	Atr
+15	útvaru	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930713-086-p2s4
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	rozkazu	NNIS2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	který	P4IS4----------	Obj
+7	podepsal	VpYS---XR-AA---	Atr
+8	prezident	NNMS1-----A----	Sb
+9	republiky	NNFS2-----A----	Atr
+10	jako	J,-------------	AuxY
+11	vrchní	AAMS1----1A----	Atr
+12	velitel	NNMS1-----A----	Atv
+13	ozbrojených	AAFP2----1A----	Atr
+14	sil	NNFP2-----A----	Atr
+15	a	J^-------------	Coord
+16	který	P4YS1----------	Sb
+17	doplňuje	VB-S---3P-AA---	Atr
+18	základní	AAIS4----1A----	Atr
+19	řád	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf930713-086-p2s5
+1	Povinnost	NNFS1-----A----	Sb
+2	nosit	Vf--------A----	Atr
+3	stejnokroj	NNIS4-----A----	Obj
+4	i	J^-------------	AuxZ
+5	na	RR--6----------	AuxP
+6	vycházce	NNFS6-----A----	Adv
+7	se	P7-X4----------	AuxT
+8	netýká	VB-S---3P-NA---	Pred
+9	vojáků	NNMP2-----A----	Obj
+10	v	RR--6----------	AuxP
+11	záloze	NNFS6-----A----	Atr
+12	povolaných	AAMP2----1A----	Atr
+13	na	RR--4----------	AuxP
+14	cvičení	NNNS4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+mf930713-086-p2s6
+1	Podněty	NNIP4-----A----	Obj
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Atr
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	vojáci	NNMP1-----A----	Sb
+7	na	RR--6----------	AuxP
+8	vycházce	NNFS6-----A----	Atr
+9	opět	Db-------------	Adv
+10	chodili	VpMP---XR-AA---	Atr
+11	v	RR--6----------	AuxP
+12	uniformách	NNFP6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	dávali	VpMP---XR-AA---	Pred
+15	ministerstvu	NNNS3-----A----	Obj
+16	obrany	NNFS2-----A----	Atr
+17	zástupci	NNMP1-----A----	Sb
+18	měst	NNNP2-----A----	Atr
+19	a	J^-------------	Coord
+20	obcí	NNFP2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	kde	Db-------------	Adv
+23	vojenské	AAIP1----1A----	Atr
+24	útvary	NNIP1-----A----	Sb
+25	sídlí	VB-P---3P-AA---	Atr
+26	,	Z:-------------	AuxX
+27	a	J^-------------	Coord
+28	také	Db-------------	AuxZ
+29	Vojenská	AAFS1----1A----	Atr
+30	policie	NNFS1-----A----	Sb
+31	.	Z:-------------	AuxK
+
+mf930713-086-p2s7
+1	Vojáci	NNMP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	civilu	NNMS6-----A---1	Atr
+4	totiž	Db-------------	AuxY
+5	mnohdy	Db-------------	Adv
+6	využívali	VpMP---XR-AA---	Pred
+7	anonymity	NNFS2-----A----	Obj
+8	davu	NNIS2-----A----	Atr
+9	k	RR--3----------	AuxP
+10	výtržnostem	NNFP3-----A----	Obj
+11	.	Z:-------------	AuxK
+
+mf930713-086-p2s8
+1	Představitelé	NNMP1-----A----	Sb
+2	Vojenské	AAFS2----1A----	Atr
+3	policie	NNFS2-----A----	Atr
+4	uváděli	VpMP---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	mohou	VB-P---3P-AA--1	Obj
+8	zasahovat	Vf--------A----	Obj
+9	jen	TT-------------	AuxZ
+10	proti	RR--3----------	AuxP
+11	vojákům	NNMP3-----A----	Adv
+12	v	RR--6----------	AuxP
+13	uniformě	NNFS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930713-086-p2s9
+1	Městský	AAIS1----1A----	Atr
+2	úřad	NNIS1-----A----	Sb
+3	ve	RV--6----------	AuxP
+4	Vyškově	NNIS6-----A----	Atr
+5	například	Db-------------	AuxY
+6	dosud	Db-------------	Adv
+7	řeší	VB-S---3P-AA---	Pred
+8	následky	NNIP4-----A----	Obj
+9	výtržnosti	NNFS2-----A----	Atr
+10	z	RR--2----------	AuxP
+11	konce	NNIS2-----A----	Atr
+12	června	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	kdy	Db-------------	Adv
+15	vojáci	NNMP1-----A----	Sb
+16	při	RR--6----------	AuxP
+17	oslavě	NNFS6-----A----	Adv
+18	zkrácení	NNNS2-----A----	Atr
+19	základní	AAFS2----1A----	Atr
+20	služby	NNFS2-----A----	Atr
+21	na	RR--4----------	AuxP
+22	12	C=-------------	Atr
+23	měsíců	NNIP2-----A----	Atr
+24	povalili	VpMP---XR-AA---	Atr
+25	a	J^-------------	Coord
+26	zdemolovali	VpMP---XR-AA---	Atr
+27	jedinou	AAFS4----1A----	Atr
+28	telefonní	AAFS4----1A----	Atr
+29	budku	NNFS4-----A----	Obj
+30	na	RR--6----------	AuxP
+31	náměstí	NNNS6-----A----	Atr
+32	v	RR--6----------	AuxP
+33	Dědicích	NNMP6-----A----	AtrAtr
+34	a	J^-------------	Coord
+35	poškodili	VpMP---XR-AA---	Atr
+36	vzácnou	AAFS4----1A----	Atr
+37	sakuru	NNFS4-----A----	Obj
+38	.	Z:-------------	AuxK
+
+mf930713-086-p2s11
+1	Podobné	AAIP4----1A----	Atr
+2	problémy	NNIP4-----A----	Obj
+3	měla	VpQW---XR-AA---	Pred
+4	nedávno	Db-------------	Adv
+5	i	J^-------------	AuxZ
+6	pardubická	AAFS1----1A----	Atr
+7	radnice	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+mf930713-086-p2s12
+1	Místní	AAMP1----1A----	Atr
+2	obyvatelé	NNMP1-----A----	Sb
+3	si	P7-X3----------	Adv
+4	dokonce	Db-------------	AuxZ
+5	chtěli	VpMP---XR-AA---	Pred
+6	založit	Vf--------A----	Obj
+7	jakési	PZYP4----------	Atr
+8	oddíly	NNIP4-----A----	Obj
+9	domobrany	NNFS2-----A----	Atr
+10	proti	RR--3----------	AuxP
+11	vandalům	NNMP3-----A----	AtrAtr
+12	.	Z:-------------	AuxK
+
+mf930713-086-p2s13
+1	Chodit	Vf--------A----	Obj
+2	na	RR--4----------	AuxP
+3	vycházky	NNFP4-----A----	Adv
+4	v	RR--6----------	AuxP
+5	civilních	AAIP6----1A----	Atr
+6	šatech	NNIP6-----A----	Adv
+7	vojákům	NNMP3-----A----	Obj
+8	umožnila	VpQW---XR-AA---	Pred
+9	polistopadová	AAFS1----1A----	Atr
+10	novela	NNFS1-----A----	Sb
+11	branného	AAIS2----1A----	Atr
+12	zákona	NNIS2-----A----	Atr
+13	a	J^-------------	Coord
+14	snahy	NNFP1-----A----	Sb
+15	o	RR--4----------	AuxP
+16	humanizaci	NNFS4-----A----	Atr
+17	vojenské	AAFS2----1A----	Atr
+18	služby	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+

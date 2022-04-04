@@ -1,0 +1,237 @@
+mf920925-098-p1s1
+1	Výhry	NNFP1-----A----	ExD
+2	loterie	NNFS2-----A----	Atr
+
+mf920925-098-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920925-098-p2s2A
+1	(	Z:-------------	ExD
+2	Slosování	NNNS1-----A----	ExD
+3	24	C=-------------	Atr
+4	.	Z:-------------	AuxG
+5	září	NNNS2-----A----	Atr
+6	1992	C=-------------	Atr
+7	v	RR--6----------	AuxP
+8	Topoľčiankách	NNFP6-----A----	Atr
+9	.	Z:-------------	AuxK
+10	)	Z:-------------	ExD
+
+mf920925-098-p2s2B
+1	Prémie	NNFS1-----A----	Sb
+2	1000000	C=-------------	Atr
+3	Kčs	NNFXX-----A---8	Atr
+4	připadá	VB-S---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	los	NNIS4-----A----	Obj
+7	série	NNFS1-----A----	Atr
+8	a	J^-------------	Coord
+9	číslo	NNNS1-----A----	Atr
+10	:	Z:-------------	AuxG
+11	K	NNNXX-----A----	Atr
+12	-	Z:-------------	Coord
+13	020	C=-------------	Atr
+14	611	C=-------------	Atr
+15	.	Z:-------------	AuxK
+
+mf920925-098-p2s2C
+1	2	C=-------------	Atr
+2	výhry	NNFP1-----A----	Sb
+3	po	RR--6----------	AuxP
+4	100000	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	-	Z:-------------	AuxG
+7	Kčs	NNFXX-----A---8	Atr
+8	připadají	VB-P---3P-AA---	Pred
+9	na	RR--4----------	AuxP
+10	losy	NNIP4-----A----	Obj
+11	těchto	PDXP2----------	Atr
+12	sérií	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	čísel	NNNP2-----A----	Atr
+15	:	Z:-------------	AuxG
+16	B	NNNXX-----A----	Atr
+17	-	Z:-------------	Coord
+18	034	C=-------------	Atr
+19	185	C=-------------	Atr
+20	,	Z:-------------	Coord
+21	D	NNNXX-----A----	Atr
+22	-	Z:-------------	Coord
+23	068	C=-------------	Atr
+24	947	C=-------------	Atr
+25	;	Z:-------------	AuxK
+
+mf920925-098-p2s3
+1	4	C=-------------	Atr
+2	výhry	NNFP1-----A----	Sb
+3	po	RR--6----------	AuxP
+4	50000	C=-------------	Atr
+5	Kčs	NNFXX-----A---8	Atr
+6	připadají	VB-P---3P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	losy	NNIP4-----A----	Obj
+9	A	NNNXX-----A----	Atr
+10	-	Z:-------------	Coord
+11	055	C=-------------	Atr
+12	953	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	A	NNNXX-----A----	Atr
+15	-	Z:-------------	Coord
+16	071	C=-------------	Atr
+17	728	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	D	NNNXX-----A----	Atr
+20	-	Z:-------------	Coord
+21	011	C=-------------	Atr
+22	627	C=-------------	Atr
+23	,	Z:-------------	Coord
+24	K	NNNXX-----A----	Atr
+25	-	Z:-------------	Coord
+26	085	C=-------------	Atr
+27	329	C=-------------	Atr
+28	;	Z:-------------	AuxK
+
+mf920925-098-p2s4
+1	8	C=-------------	Sb
+2	výher	NNFP2-----A----	Atr
+3	po	RR--6----------	AuxP
+4	10000	C=-------------	Atr
+5	Kčs	NNFXX-----A---8	Atr
+6	připadá	VB-S---3P-AA---	Pred
+7	ve	RV--6----------	AuxP
+8	všech	PLXP6----------	Atr
+9	sériích	NNFP6-----A----	Adv
+10	na	RR--4----------	AuxP
+11	číslo	NNNS4-----A----	Obj
+12	losu	NNIS2-----A----	Atr
+13	:	Z:-------------	AuxG
+14	53094	C=-------------	Atr
+15	;	Z:-------------	AuxK
+
+mf920925-098-p2s5
+1	16	C=-------------	Sb
+2	výher	NNFP2-----A----	Atr
+3	po	RR--6----------	AuxP
+4	5000	C=-------------	Atr
+5	Kčs	NNFXX-----A---8	Atr
+6	připadá	VB-S---3P-AA---	Pred
+7	ve	RV--6----------	AuxP
+8	všech	PLXP6----------	Atr
+9	sériích	NNFP6-----A----	Adv
+10	na	RR--4----------	AuxP
+11	čísla	NNNP4-----A----	Adv
+12	losů	NNMP2-----A----	Atr
+13	:	Z:-------------	AuxG
+14	48381	C=-------------	Atr
+15	,	Z:-------------	Coord
+16	76705	C=-------------	Atr
+17	;	Z:-------------	AuxK
+
+mf920925-098-p2s6
+1	80	C=-------------	Sb
+2	výher	NNFP2-----A----	Atr
+3	po	RR--6----------	AuxP
+4	1000	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	-	Z:-------------	AuxG
+7	Kčs	NNFXX-----A---8	Atr
+8	připadá	VB-S---3P-AA---	Pred
+9	na	RR--4----------	AuxP
+10	losy	NNIP4-----A----	Obj
+11	končící	AGIP4-----A----	Atr
+12	čtyřčíslím	NNNS7-----A----	Adv
+13	5549	C=-------------	Atr
+14	;	Z:-------------	AuxK
+
+mf920925-098-p2s7
+1	3200	C=-------------	Sb
+2	výher	NNFP2-----A----	Atr
+3	po	RR--6----------	AuxP
+4	100	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	-	Z:-------------	AuxG
+7	Kčs	NNFXX-----A---8	Atr
+8	připadá	VB-S---3P-AA---	Pred
+9	na	RR--4----------	AuxP
+10	losy	NNIP4-----A----	Obj
+11	končící	AGIP4-----A----	Atr
+12	trojčíslím	NNNS7-----A----	Adv
+13	408	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	437	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	601	C=-------------	Atr
+18	,	Z:-------------	Coord
+19	627	C=-------------	Atr
+20	;	Z:-------------	AuxK
+
+mf920925-098-p2s8
+1	8000	C=-------------	Sb
+2	výher	NNFP2-----A----	Atr
+3	po	RR--6----------	AuxP
+4	50	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	-	Z:-------------	AuxG
+7	Kčs	NNFXX-----A---8	Atr
+8	připadá	VB-S---3P-AA---	Pred
+9	na	RR--4----------	AuxP
+10	losy	NNIP4-----A----	Obj
+11	končící	AGIP4-----A----	Atr
+12	dvojčíslím	NNNS7-----A----	Adv
+13	58	C=-------------	Atr
+14	;	Z:-------------	AuxK
+
+mf920925-098-p2s9
+1	32000	C=-------------	Sb
+2	výher	NNFP2-----A----	Atr
+3	po	RR--6----------	AuxP
+4	20	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	-	Z:-------------	AuxG
+7	Kčs	NNFXX-----A---8	Atr
+8	připadá	VB-S---3P-AA---	Pred
+9	na	RR--4----------	AuxP
+10	losy	NNIP4-----A----	Obj
+11	končící	AGIP4-----A----	Atr
+12	dvojčíslím	NNNS7-----A----	Adv
+13	09	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	38	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	69	C=-------------	Atr
+18	,	Z:-------------	Coord
+19	93	C=-------------	Atr
+20	;	Z:-------------	AuxK
+
+mf920925-098-p2s10
+1	160000	C=-------------	Sb
+2	výher	NNFP2-----A----	Atr
+3	po	RR--6----------	AuxP
+4	10	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	-	Z:-------------	AuxG
+7	Kčs	NNFXX-----A---8	Atr
+8	připadá	VB-S---3P-AA---	Pred
+9	na	RR--4----------	AuxP
+10	losy	NNIP4-----A----	Obj
+11	končící	AGIP4-----A----	Atr
+12	číslicemi	NNFP7-----A----	Adv
+13	5	C=-------------	Atr
+14	a	J^-------------	Coord
+15	9	C=-------------	Atr
+16	.	Z:-------------	AuxK
+
+mf920925-098-p2s11
+1	Příští	AANS1----1A----	Atr
+2	slosování	NNNS1-----A----	Sb
+3	ČSLO	NNFXX-----A---8	Atr
+4	bude	VB-S---3F-AA---	Pred
+5	22	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	října	NNIS2-----A----	Adv
+8	1992	C=-------------	Atr
+9	v	RR--6----------	AuxP
+10	Plzni	NNFS6-----A----	Adv
+11	.	Z:-------------	AuxK
+

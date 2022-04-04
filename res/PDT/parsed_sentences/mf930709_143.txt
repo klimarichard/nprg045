@@ -1,0 +1,78 @@
+mf930709-143-p1s1
+1	Orgány	NNIP1-----A----	ExD
+2	chlapce	NNMS2-----A----	Atr
+3	ze	RV--2----------	AuxP
+4	Slovenska	NNNS2-----A----	Atr
+5	pěti	Cn-P3----------	Atr
+6	pacientům	NNMP3-----A----	ExD
+
+mf930709-143-p2s1A
+1	Řím	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930709-143-p2s1B
+1	Tělesné	AAIP1----1A----	Atr
+2	orgány	NNIP1-----A----	Sb
+3	dvanáctiletého	AAMS2----1A----	Atr
+4	slovenského	AAMS2----1A----	Atr
+5	chlapce	NNMS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	ve	RV--4----------	AuxP
+9	středu	NNFS4-----A----	Adv
+10	zemřel	VpYS---XR-AA---	Atr
+11	jako	J,-------------	AuxY
+12	čtvrtá	CrFS1----------	Atr
+13	oběť	NNFS1-----A----	Atv
+14	nedělní	AAFS2----1A----	Atr
+15	nehody	NNFS2-----A----	Atr
+16	autobusu	NNIS2-----A----	Atr
+17	se	RV--7----------	AuxP
+18	slovenskými	AAMP7----1A----	Atr
+19	turisty	NNMP7-----A----	Atr
+20	u	RR--2----------	AuxP
+21	italského	AANS2----1A----	Atr
+22	Arezza	NNNS2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	byly	VpTP---XR-AA---	AuxV
+25	nebo	J^-------------	Coord
+26	budou	VB-P---3F-AA---	AuxV
+27	transplantovány	VsTP---XX-AP---	Pred
+28	pěti	Cn-P3----------	Atr
+29	italským	AAMP3----1A----	Atr
+30	pacientům	NNMP3-----A----	Obj
+31	.	Z:-------------	AuxK
+
+mf930709-143-p3s1
+1	K	RR--3----------	AuxP
+2	transplantaci	NNFS3-----A----	Adv
+3	byly	VpTP---XR-AA---	AuxV
+4	nebo	J^-------------	Coord
+5	budou	VB-P---3F-AA---	AuxV
+6	použity	VsTP---XX-AP---	Pred
+7	srdce	NNNS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	játra	NNNP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	ledviny	NNFP1-----A----	Sb
+12	a	J^-------------	Coord
+13	slinivka	NNFS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf930709-143-p3s2
+1	Tyto	PDIP1----------	Atr
+2	orgány	NNIP1-----A----	Sb
+3	byly	VpTP---XR-AA---	AuxV
+4	dopraveny	VsTP---XX-AP---	Pred
+5	do	RR--2----------	AuxP
+6	nemocnic	NNFP2-----A----	Adv
+7	v	RR--6----------	AuxP
+8	Padově	NNFS6-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Římě	NNIS6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	Pise	NNFS6-----A----	Atr
+13	a	J^-------------	Coord
+14	Miláně	NNIS6-----A----	Atr
+15	.	Z:-------------	AuxK
+

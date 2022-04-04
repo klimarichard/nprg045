@@ -1,0 +1,332 @@
+cmpr9406-011-p2s1
+1	NA	RR--6----------	AuxP
+2	CHYBÁCH	NNFP6-----A----	Adv
+3	SE	P7-X4----------	Obj
+4	ČLOVĚK	NNMS1-----A----	Sb
+5	UČÍ	VB-S---3P-AA---	Pred
+
+cmpr9406-011-p3s1
+1	Cenné	AAIP1----1A----	Atr
+2	papíry	NNIP1-----A----	ExD
+3	bez	RR--2----------	AuxP
+4	lesku	NNIS2-----A----	Atr
+
+cmpr9406-011-p4s1
+1	Na	RR--6----------	AuxP
+2	základě	NNIS6-----A----	AuxP
+3	reklamy	NNFS2-----A----	Adv
+4	jsem	VB-S---1P-AA---	AuxV
+5	v	RR--6----------	AuxP
+6	listopadu	NNIS6-----A----	Adv
+7	1992	C=-------------	Atr
+8	zakoupil	VpYS---XR-AA---	Pred
+9	dvě	ClHP4----------	Atr
+10	akcie	NNFP4-----A----	Obj
+11	jedné	ClFS2----------	Atr
+12	investiční	AAFS2----1A----	Atr
+13	společnosti	NNFS2-----A----	Atr
+14	(	Z:-------------	AuxG
+15	ČNIS	NNFXX-----A----	Atr
+16	)	Z:-------------	AuxG
+17	v	RR--6----------	AuxP
+18	Litoměřicích	NNFP6-----A----	AtrAdv
+19	.	Z:-------------	AuxK
+
+cmpr9406-011-p4s2
+1	Za	RR--4----------	AuxP
+2	tyto	PDFP4----------	Atr
+3	akcie	NNFP4-----A----	Obj
+4	jsem	VB-S---1P-AA---	AuxV
+5	zaplatil	VpYS---XR-AA---	Pred
+6	2	C=-------------	Obj
+7	x	J*-------------	Atr
+8	1000	C=-------------	Obj
+9	Kč	NNFXX-----A----	Atr
+10	+	Z:-------------	Coord
+11	2	C=-------------	Obj
+12	x	J*-------------	Atr
+13	6	C=-------------	Obj
+14	%	Z:-------------	Atr
+15	,	Z:-------------	AuxX
+16	tj	J^------------8	Apos
+17	.	Z:-------------	AuxG
+18	celkem	Db-------------	Adv
+19	2120	C=-------------	Obj
+20	Kč	NNFXX-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9406-011-p4s3
+1	Ona	PDFS1----------	Atr
+2	přirážka	NNFS1-----A----	Sb
+3	6	C=-------------	Atr
+4	%	Z:-------------	Atr
+5	obsahuje	VB-S---3P-AA---	Pred
+6	podle	RR--2----------	AuxP
+7	sdělení	NNNS2-----A----	Adv
+8	investiční	AAFS2----1A----	Atr
+9	společnosti	NNFS2-----A----	Atr
+10	zhodnocení	NNNS4-----A----	Obj
+11	dříve	Dg-------2A----	Adv
+12	shromážděných	AAIP2----1A----	Atr
+13	finančních	AAIP2----1A----	Atr
+14	prostředků	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9406-011-p4s4
+1	Upisovatel	NNMS1-----A----	Sb
+2	si	P7-X3----------	Obj
+3	tedy	Db-------------	AuxY
+4	vlastně	Dg-------1A----	AuxY
+5	kupuje	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	výdělek	NNIS4-----A----	Obj
+8	peněz	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4IP1----------	Sb
+11	byly	VpTP---XR-AA---	AuxV
+12	shromážděny	VsTP---XX-AP---	Atr
+13	před	RR--7----------	AuxP
+14	jeho	PSXXXZS3-------	Atr
+15	vstupem	NNIS7-----A----	Adv
+16	do	RR--2----------	AuxP
+17	fondu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9406-011-p5s1
+1	V	RR--6----------	AuxP
+2	srpnu	NNIS6-----A----	Adv
+3	1993	C=-------------	Atr
+4	byla	VpQW---XR-AA---	Pred
+5	valná	AAFS1----1A----	Atr
+6	hromada	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	odhlasovala	VpQW---XR-AA---	Atr
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	dividendy	NNFP1-----A----	Sb
+13	za	RR--4----------	AuxP
+14	rok	NNIS4-----A----	Atr
+15	1992	C=-------------	Atr
+16	/	Z:-------------	Coord
+17	93	C=-------------	Atr
+18	se	P7-X4----------	AuxR
+19	nebudou	VB-P---3F-NA---	AuxV
+20	vyplácet	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9406-011-p5s2
+1	Rozhodl	VpYS---XR-AA--1	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	i	J^-------------	AuxZ
+5	proto	J^-------------	Adv
+6	zmíněné	AAFP4----1A----	Atr
+7	akcie	NNFP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	respektive	Db-------------	Apos
+10	Prozatímní	AAIP4----1A----	Atr
+11	listy	NNIP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	prodat	Vf--------A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9406-011-p6s1
+1	Navštívil	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	pobočku	NNFS4-----A----	Obj
+4	dotyčné	AAFS2----1A----	Atr
+5	společnosti	NNFS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Plzni	NNFS6-----A----	AtrAdv
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	mi	PH-S3--1-------	Obj
+11	lepá	AAFS1----1A----	Atr
+12	děva	NNFS1-----A----	Sb
+13	sdělila	VpQW---XR-AA---	Atr
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	za	RR--4----------	AuxP
+17	prvé	AANS4----1A----	ExD
+18	-	Z:-------------	ExD
+19	akciová	AAFS1----1A----	Atr
+20	společnost	NNFS1-----A----	Sb
+21	nesmí	VB-S---3P-NA---	Obj
+22	své	P8FP4---------1	Atr
+23	akcie	NNFP4-----A----	Obj
+24	odkupovat	Vf--------A----	Obj
+25	,	Z:-------------	AuxX
+26	a	J^-------------	Coord
+27	za	RR--4----------	AuxP
+28	druhé	CrNS4----------	ExD
+29	-	Z:-------------	ExD
+30	věnovala	VpQW---XR-AA---	Obj
+31	mi	PH-S3--1-------	Obj
+32	letáček	NNIS4-----A----	Obj
+33	se	RV--7----------	AuxP
+34	sdělením	NNNS7-----A----	Atr
+35	,	Z:-------------	AuxX
+36	která	P4NP4----------	Atr
+37	místa	NNNP4-----A----	Obj
+38	RMS	NNIXX-----A---8	Atr
+39	a	J^-------------	Coord
+40	burzy	NNFS2-----A----	Obj
+41	lze	VB-S---3P-AA---	Atr
+42	v	RR--6----------	AuxP
+43	západních	AAFP6----1A----	Atr
+44	Čechách	NNFP6-----A----	Adv
+45	navštívit	Vf--------A----	Sb
+46	.	Z:-------------	AuxK
+
+cmpr9406-011-p6s2
+1	Zapomněla	VpQW---XR-AA---	Pred
+2	však	J^-------------	Coord
+3	podotknout	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	s	RR--7----------	AuxP
+7	Prozatímními	AAIP7----1A----	Atr
+8	listy	NNIP7-----A----	Obj
+9	nelze	VB-S---3P-NA---	Obj
+10	obchodovat	Vf--------A----	Sb
+11	ani	J^-------------	AuxY
+12	v	RR--6----------	AuxP
+13	RMS	NNIXX-----A---8	Adv
+14	,	Z:-------------	AuxX
+15	ani	J^-------------	Coord
+16	na	RR--6----------	AuxP
+17	burze	NNFS6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+cmpr9406-011-p7s1
+1	Poučení	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9406-011-p8s1
+1	*	Z:-------------	AuxG
+2	Nevěřit	Vf--------N----	Pred
+3	reklamě	NNFS3-----A----	Obj
+4	tak	Db-------------	Adv
+5	doslova	Db-------------	Adv
+6	a	J^-------------	Coord
+7	snažit	Vf--------A----	Pred
+8	se	P7-X4----------	AuxT
+9	o	RR--6----------	AuxP
+10	společnosti	NNFS6-----A----	Obj
+11	dovědět	Vf--------A----	Obj
+12	něco	PZ--4----------	Obj
+13	víc	Dg-------2A---1	Atr
+14	,	Z:-------------	AuxX
+15	než	J,-------------	AuxC
+16	sama	PLFS1----------	AtvV
+17	o	RR--6----------	AuxP
+18	sobě	P6-X6----------	Obj
+19	tvrdí	VB-S---3P-AA---	Adv
+20	.	Z:-------------	AuxK
+
+cmpr9406-011-p9s1
+1	*	Z:-------------	AuxG
+2	Před	RR--7----------	AuxP
+3	vložením	NNNS7-----A----	Adv
+4	peněz	NNIP2-----A----	Atr
+5	do	RR--2----------	AuxP
+6	cenných	AAIP2----1A----	Atr
+7	papírů	NNIP2-----A----	Atr
+8	zkoumat	Vf--------A----	Pred
+9	také	Db-------------	Adv
+10	jejich	PSXXXXP3-------	Atr
+11	likviditu	NNFS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9406-011-p9s2
+1	Slogan	NNIS1-----A----	Sb
+2	investiční	AAFS2----1A----	Atr
+3	společnosti	NNFS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	je	VB-S---3P-AA---	Atr
+7	"	Z:-------------	AuxG
+8	kámen	NNIS1-----A----	Pnom
+9	,	Z:-------------	AuxX
+10	na	RR--6----------	AuxP
+11	kterém	P4ZS6----------	Obj
+12	můžete	VB-P---2P-AA---	Atr
+13	stavět	Vf--------A----	Obj
+14	"	Z:-------------	AuxG
+15	,	Z:-------------	AuxX
+16	pak	Db-------------	Adv
+17	z	RR--2----------	AuxP
+18	pohledu	NNIS2-----A----	Adv
+19	drobného	AAMS2----1A----	Atr
+20	investora	NNMS2-----A----	Atr
+21	nemusí	VB-S---3P-NA---	Pred
+22	být	Vf--------A----	Obj
+23	až	TT-------------	AuxZ
+24	tak	Db-------------	Adv
+25	třpytivý	AAIS1----1A----	Pnom
+26	.	Z:-------------	AuxK
+
+cmpr9406-011-p10s1
+1	Ladislav	NNMS1-----A----	Atr
+2	Buben	NNMS1-----A----	ExD
+3	,	Z:-------------	ExD
+4	Novosedly	NNIP1-----A----	ExD
+
+cmpr9406-011-p11s1
+1	Příspěvek	NNIS1-----A----	Sb
+2	zařazený	AAIS1----1A----	Atr
+3	do	RR--2----------	AuxP
+4	této	PDFS2----------	Atr
+5	rubriky	NNFS2-----A----	Adv
+6	-	Z:-------------	AuxG
+7	pojednávající	AGIS1-----A----	Atr
+8	o	RR--6----------	AuxP
+9	konkrétních	AAFP6----1A----	Atr
+10	chybách	NNFP6-----A----	Obj
+11	podnikatelů	NNMP2-----A----	Atr
+12	-	Z:-------------	AuxG
+13	je	VB-S---3P-AA---	AuxV
+14	běžně	Dg-------1A----	Adv
+15	honorován	VsYS---XX-AP---	Pred
+16	a	J^-------------	Coord
+17	navíc	Db-------------	Adv
+18	zhodnocen	VsYS---XX-AP---	Pred
+19	prémií	NNFS7-----A----	Adv
+20	100	C=-------------	Atr
+21	Kč	NNFXX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9406-011-p11s2
+1	Bude	VB-S---3F-AA---	AuxV
+2	také	Db-------------	Adv
+3	zařazen	VsYS---XX-AP---	Pred
+4	do	RR--2----------	AuxP
+5	čtvrtletního	AANS2----1A----	Atr
+6	slosování	NNNS2-----A----	Adv
+7	o	RR--4----------	AuxP
+8	3000	C=-------------	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9406-011-p11s3
+1	Pište	Vi-P---2--A----	Pred
+2	nám	PP-P3--1-------	Obj
+3	o	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	,	Z:-------------	AuxX
+6	jaké	P4FS2----------	Atr
+7	chyby	NNFS2-----A----	Obj
+8	jste	VB-P---2P-AA---	AuxV
+9	se	P7-X4----------	AuxT
+10	při	RR--6----------	AuxP
+11	podnikání	NNNS6-----A----	Adv
+12	dopustili	VpMP---XR-AA---	Atr
+13	a	J^-------------	Coord
+14	jaké	P4NS1----------	Atr
+15	z	RR--2----------	AuxP
+16	toho	PDZS2----------	Adv
+17	plyne	VB-S---3P-AA---	Atr
+18	poučení	NNNS1-----A----	Sb
+19	.	Z:-------------	AuxK
+

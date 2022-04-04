@@ -1,0 +1,202 @@
+cmpr9415-024-p3s1
+1	|	Z:-------------	AuxG
+2	Hospodářská	AAFS1----1A----	Atr
+3	komora	NNFS1-----A----	ExD
+4	|	Z:-------------	AuxG
+
+cmpr9415-024-p5s1
+1	Hospodářská	AAFS1----1A----	Atr
+2	komora	NNFS1-----A----	Sb
+3	Ostrava	NNFS1-----A----	Atr
+4	zastřešuje	VB-S---3P-AA---	Pred
+5	regionální	AAFP4----1A----	Atr
+6	aktivity	NNFP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	potřebné	AAFP4----1A----	Atr
+9	pro	RR--4----------	AuxP
+10	rozvoj	NNIS4-----A----	Adv
+11	podnikání	NNNS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9415-024-p5s2
+1	Je	VB-S---3P-AA---	Pred
+2	členem	NNMS7-----A----	Pnom
+3	orgánů	NNIP2-----A----	Atr
+4	při	RR--6----------	AuxP
+5	ostravském	AAIS6----1A----	Atr
+6	úřadu	NNIS6-----A---1	Atr
+7	práce	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Agentuře	NNFS6-----A----	Atr
+10	pro	RR--4----------	AuxP
+11	regionální	AAIS4----1A----	Atr
+12	rozvoj	NNIS4-----A----	Atr
+13	,	Z:-------------	AuxX
+14	Technologicko	A2--------A----	Atr
+15	-	Z:-------------	Coord
+16	inovačním	AANS6----1A----	Atr
+17	centru	NNNS6-----A----	Atr
+18	Vítkovice	NNFP1-----A----	Atr
+19	a	J^-------------	Coord
+20	podobně	Dg-------1A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9415-024-p5s3
+1	Dále	Db------------1	Adv
+2	spolupracuje	VB-S---3P-AA---	Pred
+3	s	RR--7----------	AuxP
+4	podnikatelskými	AAFP7----1A----	Atr
+5	organizacemi	NNFP7-----A----	Obj
+6	ve	RV--6----------	AuxP
+7	více	Dg-------2A----	Atr
+8	jak	Db-------------	AuxC
+9	28	C=-------------	Adv
+10	státech	NNIP6-----A----	AtrAdv
+11	světa	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9415-024-p6s1
+1	Člen	NNMS1-----A----	Sb
+2	hospodářské	AAFS2----1A----	Atr
+3	komory	NNFS2-----A----	Atr
+4	má	VB-S---3P-AA---	Pred
+5	tedy	Db-------------	Coord
+6	možnost	NNFS4-----A----	Obj
+7	nahlédnout	Vf--------A----	Atr
+8	do	RR--2----------	AuxP
+9	seznamu	NNIS2-----A----	Adv
+10	zahraničních	AAFP2----1A----	Atr
+11	poptávek	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	nabídek	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	případně	Dg-------1A----	Apos
+16	přes	RR--4----------	AuxP
+17	komoru	NNFS4-----A----	Adv
+18	navázat	Vf--------A----	Atr
+19	spolupráci	NNFS4-----A----	Obj
+20	se	RV--7----------	AuxP
+21	zahraniční	AAFS7----1A----	Atr
+22	komorou	NNFS7-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9415-024-p6s2
+1	Zároveň	Db-------------	Adv
+2	ostravská	AAFS1----1A----	Atr
+3	komora	NNFS1-----A----	Sb
+4	vydává	VB-S---3P-AA---	Pred
+5	exportní	AAIS4----1A----	Atr
+6	katalog	NNIS4-----A----	Obj
+7	českých	AAFP2----1A----	Atr
+8	firem	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	putuje	VB-S---3P-AA---	Atr
+12	asi	TT-------------	AuxZ
+13	do	RR--2----------	AuxP
+14	stovky	NNFS2-----A----	Adv
+15	zemí	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9415-024-p6s3
+1	Pro	RR--4----------	AuxP
+2	přímý	AAIS4----1A----	Atr
+3	kontakt	NNIS4-----A----	Adv
+4	navázala	VpQW---XR-AA---	Pred
+5	komora	NNFS1-----A----	Sb
+6	styky	NNIP4-----A----	Obj
+7	se	RV--7----------	AuxP
+8	sousedními	AAFP7----1A----	Atr
+9	regionálními	AAFP7----1A----	Atr
+10	komorami	NNFP7-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Polsku	NNNS6-----A----	Atr
+13	(	Z:-------------	ExD
+14	Bialsko	NNNS1-----A----	ExD
+15	-	Z:-------------	Coord
+16	Biala	NNFS1-----A----	ExD
+17	,	Z:-------------	Apos
+18	Katovice	NNFP1-----A----	ExD
+19	)	Z:-------------	ExD
+20	a	J^-------------	Coord
+21	na	RR--6----------	AuxP
+22	Slovensku	NNNS6-----A----	Atr
+23	(	Z:-------------	ExD
+24	Žilina	NNFS1-----A----	ExD
+25	)	Z:-------------	ExD
+26	.	Z:-------------	AuxK
+
+cmpr9415-024-p7s1
+1	Pro	RR--4----------	AuxP
+2	potřeby	NNFP4-----A----	Adv
+3	podnikatelů	NNMP2-----A----	Atr
+4	-	Z:-------------	Apos
+5	exportérů	NNMP2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	komoře	NNFS6-----A----	Adv
+9	k	RR--3----------	AuxP
+10	dispozici	NNFS3-----A----	Adv
+11	celní	AAIS1----1A----	Atr
+12	sazebník	NNIS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	přehled	NNIS1-----A----	Sb
+15	platných	AAIP2----1A----	Atr
+16	právních	AAIP2----1A----	Atr
+17	předpisů	NNIP2-----A----	Atr
+18	potřebných	AAIP2----1A----	Atr
+19	pro	RR--4----------	AuxP
+20	zahraniční	AAIS4----1A----	Atr
+21	obchod	NNIS4-----A----	Adv
+22	,	Z:-------------	AuxX
+23	a	J^-------------	Coord
+24	další	AAIP1----1A----	Atr
+25	nutné	AAIP1----1A----	Atr
+26	předpisy	NNIP1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+cmpr9415-024-p8s1
+1	Ladislav	NNMS1-----A----	Atr
+2	Víla	NNMS1-----A----	ExD
+
+cmpr9415-024-p9s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Hospodářská	AAFS1----1A----	Atr
+4	komora	NNFS1-----A----	ExD
+5	,	Z:-------------	Apos
+6	Hotelový	AAIS1----1A----	Atr
+7	dům	NNIS1-----A----	ExD
+8	Jindřich	NNMS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Nádražní	AAFS1----1A----	Atr
+11	66	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	701	C=-------------	Atr
+14	00	C=-------------	Atr
+15	Ostrava	NNFS1-----A----	Atr
+16	1	C=-------------	Atr
+17	,	Z:-------------	AuxX
+18	telefon	NNIS1-----A----	Atr
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	069	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	62	C=-------------	Atr
+24	64431	C=-------------	Atr
+25	,	Z:-------------	Coord
+26	62	C=-------------	Atr
+27	64427	C=-------------	Atr
+28	,	Z:-------------	AuxX
+29	tel	NNIXX-----A---8	Atr
+30	.	Z:-------------	AuxG
+31	+	Z:-------------	Coord
+32	FAX	NNIS1-----A----	Atr
+33	:	Z:-------------	AuxG
+34	(	Z:-------------	AuxG
+35	069	C=-------------	Atr
+36	)	Z:-------------	AuxG
+37	61	C=-------------	Atr
+38	14055	C=-------------	Atr
+39	.	Z:-------------	AuxK
+

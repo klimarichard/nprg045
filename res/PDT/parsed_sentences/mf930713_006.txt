@@ -1,0 +1,670 @@
+mf930713-006-p1s1
+1	Talent	NNIS1-----A----	ExD
+2	jako	J,-------------	AuxY
+3	sebezničující	AAFS1----1A----	Atr
+4	energie	NNFS1-----A----	Atv
+
+mf930713-006-p2s1A
+1	"	Z:-------------	AuxG
+2	K	RR--3----------	AuxP
+3	UZOUFÁNÍ	NNNS3-----A----	Adv
+4	OBYČEJNÉ	AAIP1----1A----	Atr
+5	PLÁNY	NNIP1-----A----	ExD
+6	"	Z:-------------	AuxG
+7	REŽISÉRA	NNMS2-----A----	Atr
+8	PETRA	NNMS2-----A----	Atr
+9	LÉBLA	NNMS2-----A----	Atr
+10	V	RR--6----------	AuxP
+11	DIVADLE	NNNS6-----A----	Atr
+12	NA	RR--6----------	AuxP
+13	ZÁBRADLÍ	NNNS6-----A----	Atr
+
+mf930713-006-p2s1D
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930713-006-p2s1C
+1	Režisér	NNMS1-----A----	Atr
+2	,	Z:-------------	AuxX
+3	výtvarník	NNMS1-----A----	Atr
+4	a	J^-------------	Coord
+5	herec	NNMS1-----A----	Atr
+6	Petr	NNMS1-----A----	Atr
+7	Lébl	NNMS1-----A----	Sb
+8	(	Z:-------------	ExD
+9	1965	C=-------------	ExD
+10	)	Z:-------------	ExD
+11	na	RR--4----------	AuxP
+12	sebe	P6-X4----------	Obj
+13	upozornil	VpYS---XR-AA---	Pred
+14	již	Db-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	amatérském	AAIS6----1A----	Atr
+17	souboru	NNIS6-----A----	Adv
+18	JELO	NNXXX-----A----	Atr
+19	.	Z:-------------	AuxG
+20	.	Z:-------------	AuxG
+21	.	Z:-------------	AuxG
+22	inscenacemi	NNFP7-----A----	Adv
+23	od	RR--2----------	AuxP
+24	Vonnegutovy	AUFS2M---------	Atr
+25	Grotesky	NNFS2-----A----	Atr
+26	přes	RR--4----------	AuxP
+27	Eliadeho	NNMS2-----A----	Atr
+28	Hada	NNMS4-----A----	Atr
+29	až	TT-------------	AuxZ
+30	po	RR--4----------	AuxP
+31	Uhdeho	NNMS2-----A----	Atr
+32	Výběrčího	NNMS4-----A----	Atr
+33	.	Z:-------------	AuxK
+
+mf930713-006-p2s2A
+1	První	CrFS1----------	Atr
+2	Léblova	AUFS1M---------	Atr
+3	režie	NNFS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	profesionálním	AANS6----1A----	Atr
+6	divadle	NNNS6-----A----	Atr
+7	-	Z:-------------	Apos
+8	hra	NNFS1-----A----	Sb
+9	Egona	NNMS2-----A----	Atr
+10	Tobiáše	NNMS2-----A----	Atr
+11	Vojcev	NNMS1-----A----	Atr
+12	-	Z:-------------	AuxG
+13	se	P7-X4----------	AuxT
+14	na	RR--6----------	AuxP
+15	scéně	NNFS6-----A----	Adv
+16	pražského	AAIS2----1A----	Atr
+17	Labyrintu	NNIS2-----A----	Atr
+18	dočkala	VpQW---XR-AA---	Pred
+19	kontroverzního	AANS2----1A----	Atr
+20	přijetí	NNNS2-----A----	Obj
+21	:	Z:-------------	AuxK
+
+mf930713-006-p2s2B
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	horším	AAIS6----2A----	Atr
+4	případě	NNIS6-----A----	Adv
+5	to	PDNS1----------	Sb
+6	vypadalo	VpNS---XR-AA---	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	si	P7-X3----------	Adv
+10	v	RR--6----------	AuxP
+11	divadle	NNNS6-----A----	Adv
+12	drží	VB-P---3P-AA---	Adv
+13	duševně	Dg-------1A----	Adv
+14	nemocného	AAMS4----1A----	Atr
+15	člověka	NNMS4-----A----	Obj
+16	,	Z:-------------	Coord
+17	v	RR--6----------	AuxP
+18	lepším	AAIS6----2A----	ExD
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	jde	VB-S---3P-AA---	ExD
+22	o	RR--4----------	AuxP
+23	propadák	NNIS4-----A----	Obj
+24	,	Z:-------------	AuxX
+25	"	Z:-------------	AuxG
+26	komentuje	VB-S---3P-AA---	Pred
+27	tehdejší	AAIP4----1A----	Atr
+28	ohlasy	NNIP4-----A----	Obj
+29	P	NNMXX-----A---8	Atr
+30	.	Z:-------------	AuxG
+31	Lébl	NNMS1-----A----	Sb
+32	.	Z:-------------	AuxK
+
+mf930713-006-p2s3
+1	Ale	J^-------------	Coord
+2	hned	Db-------------	AuxZ
+3	s	RR--7----------	AuxP
+4	následující	AGFS7-----A----	Atr
+5	inscenací	NNFS7-----A----	Adv
+6	Dorstovy	AUFS2M---------	Atr
+7	hry	NNFS2-----A----	Atr
+8	Fernando	NNMS1-----A----	Atr
+9	Krapp	NNMS1-----A----	Sb
+10	mi	PH-S3--1-------	Obj
+11	napsal	VpYS---XR-AA---	Atr
+12	dopis	NNIS4-----A----	Obj
+13	obsadil	VpYS---XR-AA---	Pred
+14	v	RR--6----------	AuxP
+15	anketě	NNFS6-----A----	Adv
+16	kritiků	NNMP2-----A----	Atr
+17	za	RR--4----------	AuxP
+18	loňský	AAIS4----1A----	Atr
+19	rok	NNIS4-----A----	AtrAdv
+20	druhé	CrNS4----------	Atr
+21	místo	NNNS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+mf930713-006-p2s4
+1	Lébl	NNMS1-----A----	Sb
+2	patří	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	k	RR--3----------	AuxP
+5	tvůrcům	NNMP3-----A----	Adv
+6	televizního	AANS2----1A----	Atr
+7	Studia	NNNS2-----A----	Atr
+8	Kroměříž	NNFS1-----A----	Atr
+9	a	J^-------------	Coord
+10	v	RR--6----------	AuxP
+11	Divadle	NNNS6-----A----	Adv
+12	Na	RR--6----------	AuxP
+13	zábradlí	NNNS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kde	Db-------------	Adv
+16	nedávno	Db-------------	Adv
+17	nastudoval	VpYS---XR-AA---	Atr
+18	Pokojíček	NNIS4-----A----	Obj
+19	od	RR--2----------	AuxP
+20	J	NNMXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	A	NNMXX-----A---8	Atr
+23	.	Z:-------------	AuxG
+24	Pitínského	NNMS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	je	VB-S---3P-AA---	Pred
+27	od	RR--2----------	AuxP
+28	příští	AAFS2----1A----	Atr
+29	sezóny	NNFS2-----A----	Adv
+30	uměleckým	AAMS7----1A----	Atr
+31	šéfem	NNMS7-----A----	Pnom
+32	.	Z:-------------	AuxK
+
+mf930713-006-p2s6
+1	V	RR--6----------	AuxP
+2	osmadvaceti	Cn-P6----------	ExD
+3	jste	VB-P---2P-AA---	Pred
+4	uměleckým	AAMS7----1A----	Atr
+5	šéfem	NNMS7-----A----	Pnom
+6	profesionálního	AANS2----1A----	Atr
+7	divadla	NNNS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930713-006-p2s7
+1	Splnil	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	tak	Db-------------	Adv
+4	jeden	ClYS1----------	Sb
+5	z	RR--2----------	AuxP
+6	vašich	PSXP2-P2-------	Atr
+7	snů	NNIP2-----A----	Atr
+8	?	Z:-------------	AuxK
+
+mf930713-006-p2s8
+1	"	Z:-------------	AuxG
+2	Ocitl	VpYS---XR-AA--1	Pred
+3	jsem	VB-S---1P-AA---	AuxV
+4	se	P7-X4----------	AuxT
+5	na	RR--6----------	AuxP
+6	pokraji	NNIS6-----A----	Adv
+7	splněného	AAIS2----1A----	Atr
+8	snu	NNIS2-----A----	Atr
+9	-	Z:-------------	Coord
+10	z	RR--2----------	AuxP
+11	čehož	PE--2----------	Adv
+12	lze	VB-S---3P-AA---	Pred
+13	odhadnout	Vf--------A----	Sb
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	mne	PP-S4--1-------	Obj
+17	brzy	Dg-------1A----	Adv
+18	někdo	PZM-1----------	Sb
+19	bude	VB-S---3F-AA---	AuxV
+20	chtít	Vf--------A----	Obj
+21	probudit	Vf--------A----	Obj
+22	.	Z:-------------	AuxK
+
+mf930713-006-p2s9
+1	Pokusím	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	ubránit	Vf--------A----	Obj
+4	ten	PDIS4----------	Atr
+5	spánek	NNIS4-----A----	Obj
+6	co	Db-------------	Adv
+7	nejdéle	Dg-------3A----	Adv
+8	-	Z:-------------	Apos
+9	začnu	VB-S---1P-AA---	Pred
+10	sběrem	NNIS7-----A----	Adv
+11	kaštanů	NNIP2-----A----	Atr
+12	a	J^-------------	Coord
+13	výrobou	NNFS7-----A----	Adv
+14	budek	NNFP2-----A----	Atr
+15	pro	RR--4----------	AuxP
+16	ptáky	NNMP4-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-006-p2s10
+1	Ostatně	Db-------------	Adv
+2	,	Z:-------------	AuxX
+3	o	RR--4----------	AuxP
+4	mé	PSYP4-S1------1	Atr
+5	sny	NNIP4-----A----	Obj
+6	vůbec	Db-------------	Adv
+7	nejde	VB-S---3P-NA---	Pred
+8	.	Z:-------------	AuxK
+
+mf930713-006-p2s11
+1	Kdyby	J,-------------	AuxY
+2	se	P7-X4----------	AuxT
+3	tak	Db-------------	Adv
+4	podařilo	VpNS---XR-AA---	Pred
+5	splnit	Vf--------A----	Sb
+6	sny	NNIP4-----A----	Obj
+7	těm	PDXP3----------	Obj
+8	druhým	CrMP3----------	Atr
+9	.	Z:-------------	AuxK
+10	"	Z:-------------	AuxG
+
+mf930713-006-p2s12
+1	Nebojíte	VB-P---2P-NA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vás	PP-P4--2-------	Obj
+6	řada	NNFS1-----A----	Sb
+7	lidí	NNMP2-----A----	Atr
+8	odmítne	VB-S---3P-AA---	Obj
+9	jako	J,-------------	AuxY
+10	příliš	Db-------------	Adv
+11	mladého	AAMS4----1A----	Atr
+12	šéfa	NNMS4-----A----	Atv
+13	respektovat	Vf--------A----	Obj
+14	?	Z:-------------	AuxK
+
+mf930713-006-p2s13
+1	"	Z:-------------	AuxG
+2	Myslím	VB-S---1P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	to	PDNS1----------	Sb
+6	nebude	VB-S---3F-NA---	Obj
+7	otázka	NNFS1-----A----	Pnom
+8	věku	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+10	"	Z:-------------	AuxG
+
+mf930713-006-p2s14
+1	Svými	P8XP7----------	Atr
+2	inscenacemi	NNFP7-----A----	Adv
+3	-	Z:-------------	Apos
+4	zejména	Db-------------	AuxZ
+5	jejich	PSXXXXP3-------	Atr
+6	výtvarným	AANS7----1A----	Atr
+7	pojetím	NNNS7-----A----	Adv
+8	-	Z:-------------	AuxG
+9	jste	VB-P---2P-AA---	AuxV
+10	si	P7-X3----------	AuxT
+11	vysloužil	VpYS---XR-AA---	Pred
+12	pověst	NNFS4-----A----	Obj
+13	postmodernistického	AAMS2----1A----	Atr
+14	tvůrce	NNMS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf930713-006-p2s15
+1	Nastane	VB-S---3P-AA---	Pred
+2	nyní	Db-------------	Adv
+3	na	RR--6----------	AuxP
+4	Zábradlí	NNNS6-----A----	Adv
+5	postmodernistická	AAFS1----1A----	Atr
+6	éra	NNFS1-----A----	Sb
+7	?	Z:-------------	AuxK
+
+mf930713-006-p2s16
+1	"	Z:-------------	AuxG
+2	Nenastane	VB-S---3P-NA---	Pred
+3	.	Z:-------------	AuxK
+
+mf930713-006-p2s17
+1	O	RR--6----------	AuxP
+2	postmodernismu	NNIS6-----A----	Obj
+3	mluví	VB-P---3P-AA---	Pred
+4	většinou	Db-------------	Adv
+5	lidé	NNMP1-----A---1	Sb
+6	,	Z:-------------	AuxX
+7	kteří	P4MP1----------	Sb
+8	se	P7-X4----------	AuxT
+9	doslechli	VpMP---XR-AA--1	Atr
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	by	Vc-------------	AuxV
+13	to	PDNS1----------	Sb
+14	mohlo	VpNS---XR-AA---	Obj
+15	znamenat	Vf--------A----	Obj
+16	,	Z:-------------	AuxX
+17	'	Z:-------------	AuxG
+18	jako	J,-------------	AuxY
+19	že	J,-------------	AuxC
+20	'	Z:-------------	AuxG
+21	se	P7-X4----------	AuxT
+22	plete	VB-S---3P-AA---	Obj
+23	do	RR--2----------	AuxP
+24	sebe	P6-X2----------	Adv
+25	cokoli	PZ--1---------1	Sb
+26	s	RR--7----------	AuxP
+27	čímkoli	PZ--7---------1	Obj
+28	.	Z:-------------	AuxK
+
+mf930713-006-p2s18
+1	Mé	PSIP1-S1------1	Atr
+2	plány	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	proti	RR--3----------	AuxP
+5	tomu	PDZS3----------	Adv
+6	k	RR--3----------	AuxP
+7	uzoufání	NNNS3-----A----	Adv
+8	obyčejné	AAIP1----1A----	Pnom
+9	:	Z:-------------	Apos
+10	herci	NNMP1-----A----	Sb
+11	budou	VB-P---3F-AA---	AuxV
+12	hrát	Vf--------A----	Pred
+13	hry	NNFP4-----A----	Obj
+14	pro	RR--4----------	AuxP
+15	lidi	NNMP4-----A----	AtrAdv
+16	.	Z:-------------	AuxK
+17	"	Z:-------------	AuxG
+
+mf930713-006-p2s19
+1	S	RR--7----------	AuxP
+2	kým	PKM-7----------	Adv
+3	se	P7-X4----------	AuxT
+4	o	RR--4----------	AuxP
+5	splnění	NNNS4-----A----	Obj
+6	svých	P8XP2----------	Atr
+7	plánů	NNIP2-----A----	Atr
+8	pokusíte	VB-P---2P-AA---	Pred
+9	?	Z:-------------	AuxK
+
+mf930713-006-p2s20
+1	"	Z:-------------	AuxG
+2	Rád	ACYS------A----	AtvV
+3	bych	Vc-S---1-------	AuxV
+4	pozval	VpYS---XR-AA---	Pred
+5	ke	RV--3----------	AuxP
+6	spolupráci	NNFS3-----A----	Adv
+7	režiséry	NNMP4-----A----	Atr
+8	Jana	NNMS4-----A----	Atr
+9	Nebeského	NNMS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	J	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	A	NNMXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Pitínského	NNMS4-----A----	Obj
+16	a	J^-------------	Coord
+17	Hanu	NNFS4-----A----	Atr
+18	Burešovou	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+20	"	Z:-------------	AuxG
+
+mf930713-006-p2s21
+1	Představuje	VB-S---3P-AA---	Pred
+2	pro	RR--4----------	AuxP
+3	vás	PP-P4--2-------	Adv
+4	DAMU	NNFXX-----A---8	Sb
+5	školu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	talenty	NNMP4-----A----	Obj
+9	rozvíjí	VB-S---3P-AA---	Atr
+10	,	Z:-------------	AuxX
+11	nebo	J^-------------	Coord
+12	ubíjí	VB-S---3P-AA---	Atr
+13	?	Z:-------------	AuxK
+
+mf930713-006-p2s22
+1	"	Z:-------------	AuxG
+2	Studuji	VB-S---1P-AA--1	Pred
+3	DAMU	NNFXX-----A---8	Obj
+4	trpělivě	Dg-------1A----	Adv
+5	již	Db-------------	AuxZ
+6	osm	Cn-S4----------	Adv
+7	let	NNNP2-----A----	Atr
+8	,	Z:-------------	Coord
+9	žádného	PWZS2----------	Atr
+10	ubíjení	NNNS2-----A----	Obj
+11	jsem	VB-S---1P-AA---	AuxV
+12	si	P7-X3----------	AuxT
+13	nevšiml	VpYS---XR-NA--1	Pred
+14	.	Z:-------------	AuxK
+
+mf930713-006-p2s23
+1	Je	VB-S---3P-AA---	Pred
+2	ale	J^-------------	Coord
+3	docela	Db-------------	Adv
+4	možné	AANS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	nepatřím	VB-S---1P-NA---	Sb
+8	mezi	RR--4----------	AuxP
+9	talentované	AAMP4----1A----	Atr
+10	studenty	NNMP4-----A----	Adv
+11	.	Z:-------------	AuxK
+12	"	Z:-------------	AuxG
+
+mf930713-006-p2s24
+1	Co	PQ--4----------	Obj
+2	si	P7-X3----------	AuxT
+3	vlastně	Db-------------	AuxY
+4	pod	RR--7----------	AuxP
+5	pojmem	NNIS7-----A----	Adv
+6	talent	NNIS1-----A----	Atr
+7	představujete	VB-P---2P-AA---	Pred
+8	?	Z:-------------	AuxK
+
+mf930713-006-p2s25
+1	"	Z:-------------	AuxG
+2	Talent	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	určitý	AAIS1----1A----	Atr
+5	druh	NNIS1-----A----	Pnom
+6	energie	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	se	P7-X4----------	Obj
+10	za	RR--2----------	AuxP
+11	ideálních	AAFP2----1A----	Atr
+12	podmínek	NNFP2-----A----	Adv
+13	může	VB-S---3P-AA---	Atr
+14	dokonce	Db-------------	AuxZ
+15	sama	PLFS1----------	Atv
+16	zahubit	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+mf930713-006-p2s26
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ale	J^-------------	Coord
+4	otázka	NNFS1-----A----	Pnom
+5	úhlu	NNIS2-----A----	Atr
+6	pohledu	NNIS2-----A----	Atr
+7	:	Z:-------------	Apos
+8	nejde	VB-S---3P-NA---	Pred
+9	o	RR--4----------	AuxP
+10	žádné	PWNS4----------	Atr
+11	zničení	NNNS4-----A----	Obj
+12	-	Z:-------------	Coord
+13	jde	VB-S---3P-AA---	Pred
+14	o	RR--4----------	AuxP
+15	směr	NNIS4-----A----	Obj
+16	,	Z:-------------	Coord
+17	směřování	NNNS4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	které	P4NS1----------	Sb
+20	se	P7-X4----------	AuxT
+21	-	Z:-------------	AuxG
+22	je	VB-S---3P-AA---	Adv
+23	-	Z:-------------	AuxG
+24	li	TT-------------	AuxC
+25	upřímné	AANS1----1A----	Pnom
+26	a	J^-------------	Coord
+27	zásadní	AANS1----1A----	Pnom
+28	-	Z:-------------	AuxG
+29	brzy	Dg-------1A----	Adv
+30	ztratí	VB-S---3P-AA---	Atr
+31	z	RR--2----------	AuxP
+32	dohledu	NNIS2-----A----	Adv
+33	.	Z:-------------	AuxK
+
+mf930713-006-p2s27
+1	Diváci	NNMP1-----A----	Sb
+2	potom	Db-------------	Adv
+3	stojí	VB-P---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	okraji	NNIS6-----A----	Adv
+6	kráteru	NNIS2-----A----	Atr
+7	a	J^-------------	Coord
+8	vzpomínají	VB-P---3P-AA---	Pred
+9	:	Z:-------------	AuxG
+10	tady	Db-------------	Adv
+11	byla	VpQW---XR-AA---	Obj
+12	kdysi	Db-------------	Adv
+13	vysoká	AAFS1----1A----	Atr
+14	hora	NNFS1-----A----	Sb
+15	,	Z:-------------	Coord
+16	jo	TT-------------	ExD
+17	,	Z:-------------	Coord
+18	jo	TT-------------	ExD
+19	.	Z:-------------	AuxK
+20	"	Z:-------------	AuxG
+
+mf930713-006-p2s28
+1	Pověstné	AAIP1----1A----	Pnom
+2	jsou	VB-P---3P-AA---	Pred
+3	vaše	PSIP1-P2-------	Atr
+4	dopisy	NNIP1-----A----	Sb
+5	a	J^-------------	Coord
+6	vzkazy	NNIP1-----A----	Sb
+7	recenzentům	NNMP3-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930713-006-p2s29
+1	Znamená	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	odmítáte	VB-P---2P-AA---	Obj
+6	kritiku	NNFS4-----A----	Obj
+7	jako	J,-------------	AuxY
+8	takovou	PDFS4----------	Atv
+9	?	Z:-------------	AuxK
+
+mf930713-006-p2s30
+1	"	Z:-------------	AuxG
+2	Recenzentům	NNMP3-----A----	Obj
+3	píšu	VB-S---1P-AA---	Pred
+4	proto	Db-------------	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	je	VB-S---3P-AA---	Adv
+8	mi	PH-S3--1-------	Obj
+9	líto	Db-------------	Pnom
+10	,	Z:-------------	AuxX
+11	když	J,-------------	AuxC
+12	neumějí	VB-P---3P-NA---	Adv
+13	to	PDNS4----------	Obj
+14	,	Z:-------------	AuxX
+15	co	PQ--4----------	Obj
+16	viděli	VpMP---XR-AA---	Atr
+17	,	Z:-------------	AuxX
+18	promyslet	Vf--------A----	Obj
+19	a	J^-------------	Coord
+20	pojmenovat	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+mf930713-006-p2s31
+1	Vadí	VB-S---3P-AA---	Pred
+2	mi	PH-S3--1-------	Obj
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	nedostatečně	Dg-------1N----	Adv
+6	se	P7-X4----------	AuxT
+7	věnují	VB-P---3P-AA---	Sb
+8	práci	NNFS3-----A----	Obj
+9	herců	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-006-p2s32
+1	Kdyby	J,-------------	AuxC
+2	tušili	VpMP---XR-AA---	Adv
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	jejich	PSXXXXP3-------	Atr
+6	pitomé	AAIP1----1A----	Atr
+7	výplody	NNIP1-----A----	Sb
+8	dokážou	VB-P---3P-AA---	Obj
+9	hercům	NNMP3-----A----	Obj
+10	ublížit	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	praštili	VpMP---XR-AA---	Pred
+13	by	Vc-------------	AuxV
+14	se	P7-X4----------	Obj
+15	přes	RR--4----------	AuxP
+16	ruce	NNFP4-----A----	Adv
+17	sami	PLMP1----------	AtvV
+18	.	Z:-------------	AuxK
+
+mf930713-006-p2s33
+1	Z	RR--2----------	AuxP
+2	deseti	Cn-P2----------	Atr
+3	článků	NNIP2-----A----	Adv
+4	o	RR--6----------	AuxP
+5	mé	PSFS6-S1------1	Atr
+6	předposlední	AAFS6----1A----	Atr
+7	inscenaci	NNFS6-----A----	Atr
+8	jich	PPXP2--3-------	Atr
+9	sedm	Cn-S1----------	Sb
+10	dopodrobna	Db-------------	Adv
+11	popisovalo	VpNS---XR-AA---	Pred
+12	první	CrFS4----------	Atr
+13	scénu	NNFS4-----A----	Obj
+14	-	Z:-------------	AuxG
+15	tedy	Db-------------	Apos
+16	první	CrFP4----------	Atr
+17	tři	ClXP4----------	Atr
+18	minuty	NNFP4-----A----	Obj
+19	hry	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf930713-006-p2s34
+1	Připadalo	VpNS---XR-AA---	Pred
+2	mi	PH-S3--1-------	Obj
+3	to	PDNS1----------	Sb
+4	zvláštní	AANS1----1A----	Obj
+5	-	Z:-------------	Coord
+6	proč	Db-------------	Adv
+7	třeba	Db-------------	Adv
+8	nenapíšou	VB-P---3P-NA---	Pred
+9	něco	PZ--4----------	Obj
+10	o	RR--6----------	AuxP
+11	prostředku	NNIS6-----A----	Atr
+12	?	Z:-------------	AuxK
+
+mf930713-006-p2s35
+1	Zeptal	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	na	RR--4----------	AuxP
+5	to	PDNS4----------	Obj
+6	pana	NNMS2-----A----	Atr
+7	profesora	NNMS2-----A----	Atr
+8	Vyskočila	NNMS2-----A----	Obj
+9	-	Z:-------------	Apos
+10	laskavého	AAMS2----1A----	Atr
+11	a	J^-------------	Coord
+12	trpělivého	AAMS2----1A----	Atr
+13	patrona	NNMS2-----A----	Obj
+14	mého	PSZS2-S1-------	Atr
+15	divadelního	AANS2----1A----	Atr
+16	snažení	NNNS2-----A----	Atr
+17	-	Z:-------------	AuxG
+18	a	J^-------------	Coord
+19	on	PPYS1--3-------	Sb
+20	se	P7-X4----------	AuxT
+21	tomu	PDZS3----------	Obj
+22	smál	VpYS---XR-AA---	Pred
+23	.	Z:-------------	AuxK
+24	"	Z:-------------	AuxG
+

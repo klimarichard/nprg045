@@ -1,0 +1,109 @@
+ln95046-008-p1s1
+1	Spořitelní	AAFS1----1A----	ExD
+2	investiční	AAFS1----1A----	ExD
+3	vyplatí	VB-S---3P-AA---	Pred
+4	dividendy	NNFP4-----A----	Obj
+
+ln95046-008-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-008-p2s1B
+1	Čistý	AAIS1----1A----	Atr
+2	zisk	NNIS1-----A----	Sb
+3	Spořitelního	AAIS2----1A----	Atr
+4	investičního	AAIS2----1A----	Atr
+5	fondu	NNIS2-----A----	Atr
+6	za	RR--4----------	AuxP
+7	rok	NNIS4-----A----	Adv
+8	1994	C=-------------	Atr
+9	dosáhl	VpYS---XR-AA---	Pred
+10	podle	RR--2----------	AuxP
+11	neauditovaných	AAIP2----1N----	Atr
+12	výsledků	NNIP2-----A----	Adv
+13	6.432	C=-------------	Atr
+14	miliónu	NNIS2-----A----	Obj
+15	korun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95046-008-p2s2
+1	Očekávaná	AAFS1----1A----	Atr
+2	dividenda	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	zhruba	Db-------------	AuxZ
+5	100	C=-------------	Pnom
+6	Kč	NNFXX-----A----	Atr
+7	na	RR--4----------	AuxP
+8	jednu	ClFS4----------	Atr
+9	akcii	NNFS4-----A----	Atr
+10	v	RR--6----------	AuxP
+11	nominální	AAFS6----1A----	Atr
+12	hodnotě	NNFS6-----A----	Atr
+13	3000	C=-------------	Atr
+14	Kč	NNFXX-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-008-p2s3
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1993	C=-------------	Atr
+4	činil	VpYS---XR-AA---	Pred
+5	čistý	AAIS1----1A----	Atr
+6	hospodářský	AAIS1----1A----	Atr
+7	výsledek	NNIS1-----A----	Sb
+8	fondu	NNIS2-----A----	Atr
+9	23137	C=-------------	Obj
+10	miliónu	NNIS2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	dividenda	NNFS1-----A----	Sb
+14	vyplácena	VsQW---XX-AP---	Pred
+15	nebyla	VpQW---XR-NA---	AuxV
+16	.	Z:-------------	AuxK
+
+ln95046-008-p3s1
+1	Majetek	NNIS1-----A----	Sb
+2	fondu	NNIS2-----A----	Atr
+3	k	RR--3----------	AuxP
+4	31	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	prosinci	NNIS3-----A----	Adv
+7	1994	C=-------------	Atr
+8	činil	VpYS---XR-AA---	Pred
+9	684	C=-------------	Obj
+10	miliónů	NNIP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	což	PE--1----------	Sb
+14	je	VB-S---3P-AA---	Pred
+15	ve	RV--6----------	AuxP
+16	srovnání	NNNS6-----A----	AuxP
+17	se	RV--7----------	AuxP
+18	stavem	NNIS7-----A----	Adv
+19	v	RR--6----------	AuxP
+20	polovině	NNFS6-----A----	Atr
+21	roku	NNIS2-----A---1	Atr
+22	pokles	NNIS1-----A----	Pnom
+23	zhruba	Db-------------	AuxZ
+24	o	RR--4----------	AuxP
+25	15	C=-------------	Atr
+26	procent	NNNP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95046-008-p3s2
+1	Trh	NNIS1-----A----	Sb
+2	však	J^-------------	Coord
+3	celkově	Dg-------1A----	Adv
+4	,	Z:-------------	AuxX
+5	soudě	VeYS------A----	Adv
+6	dle	RR--2----------	AuxP
+7	hodnot	NNFP2-----A----	Adv
+8	indexů	NNIP2-----A----	Atr
+9	kapitálových	AAIP2----1A----	Atr
+10	trhů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	spadl	VpYS---XR-AA--1	Pred
+13	mnohem	Db-------------	Adv
+14	více	Dg-------2A----	Adv
+15	.	Z:-------------	AuxK
+

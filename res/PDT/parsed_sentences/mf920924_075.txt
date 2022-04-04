@@ -1,0 +1,130 @@
+mf920924-075-p1s1
+1	starosti	NNFP1-----A----	ExD
+2	radních	AAMP2----1A----	ExD
+
+mf920924-075-p2s1
+1	Zástupce	NNMS1-----A----	Atr
+2	starosty	NNMS2-----A----	Atr
+3	městského	AAIS2----1A----	Atr
+4	obvodu	NNIS2-----A----	Atr
+5	Ostrava	NNFS1-----A----	Atr
+6	-	Z:-------------	AuxG
+7	Poruba	NNFS1-----A----	Atr
+8	RADIM	NNMS1-----A----	Atr
+9	BERKA	NNMS1-----A----	ExD
+
+mf920924-075-p3s1
+1	"	Z:-------------	AuxG
+2	Jednou	ClFS7----------	Pnom
+3	ze	RV--2----------	AuxP
+4	starostí	NNFP2-----A----	Atr
+5	naší	PSFS2-P1-------	Atr
+6	radnice	NNFS2-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	porubské	AANS1----1A----	Atr
+9	koupaliště	NNNS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+mf920924-075-p3s2
+1	Přestože	J,-------------	AuxC
+2	je	PPNS4--3-------	Obj
+3	využívají	VB-P---3P-AA---	Adv
+4	statisíce	NNIP1-----A----	Sb
+5	obyvatel	NNMS1-----A----	Atr
+6	z	RR--2----------	AuxP
+7	celé	AAFS2----1A----	Atr
+8	Ostravy	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	přilehlých	AAFP2----1A----	Atr
+11	vesnic	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	nese	VB-S---3P-AA---	Pred
+14	náklady	NNIP4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	jeho	PSXXXZS3-------	Atr
+17	provoz	NNIS4-----A----	Atr
+18	jen	TT-------------	AuxZ
+19	Poruba	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+mf920924-075-p3s3
+1	Přitom	Db-------------	Adv
+2	koupaliště	NNNS1-----A----	Sb
+3	rozhodně	Dg-------1A----	Adv
+4	není	VB-S---3P-NA---	Pred
+5	ziskové	AANS1----1A----	Pnom
+6	.	Z:-------------	AuxK
+
+mf920924-075-p3s4
+1	Výtěžek	NNIS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	letošní	AAFS2----1A----	Atr
+4	sezóny	NNFS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	rovnal	VpYS---XR-AA---	Pred
+7	nákladům	NNIP3-----A----	Obj
+8	jen	TT-------------	AuxZ
+9	díky	RR--3----------	AuxP
+10	tomu	PDZS3----------	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	nám	PP-P3--1-------	Obj
+14	ostravské	AAFP1----1A----	Atr
+15	vodárny	NNFP1-----A----	Sb
+16	prodávaly	VpTP---XR-AA---	Atr
+17	vodu	NNFS4-----A----	Obj
+18	za	RR--4----------	AuxP
+19	smluvní	AAFS4----1A----	Atr
+20	cenu	NNFS4-----A----	Adv
+21	2	C=-------------	Atr
+22	koruny	NNFP1-----A----	Atr
+23	za	RR--4----------	AuxP
+24	kubík	NNIS4-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf920924-075-p3s5
+1	Z	RR--2----------	AuxP
+2	příštího	AAIS2----1A----	Atr
+3	roku	NNIS2-----A---1	Atr
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	si	P7-X3----------	Adv
+7	vodárny	NNFP1-----A----	Sb
+8	mohou	VB-P---3P-AA--1	Atr
+9	stanovit	Vf--------A----	Obj
+10	cenu	NNFS4-----A----	Obj
+11	až	TT-------------	AuxZ
+12	7	C=-------------	Atr
+13	korun	NNFP2-----A----	Atr
+14	za	RR--4----------	AuxP
+15	kubík	NNIS4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	máme	VB-P---1P-AA---	Pred
+18	proto	J^-------------	Adv
+19	obavy	NNFP4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920924-075-p3s6
+1	Ostatní	AAIP1----1A----	Atr
+2	ostravské	AAIP1----1A----	Atr
+3	obvody	NNIP1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	na	RR--6----------	AuxP
+6	provozu	NNIS6-----A---1	Adv
+7	koupaliště	NNNS2-----A----	Atr
+8	nechtějí	VB-P---3P-NA---	Pred
+9	finančně	Dg-------1A----	Adv
+10	podílet	Vf--------A----	Obj
+11	a	J^-------------	Coord
+12	je	VB-S---3P-AA---	Pred
+13	možné	AANS1----1A----	Pnom
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	budeme	VB-P---1F-AA---	AuxV
+17	muset	Vf--------A----	Sb
+18	celý	AAIS4----1A----	Atr
+19	areál	NNIS4-----A----	Obj
+20	zavřít	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+22	"	Z:-------------	AuxG
+

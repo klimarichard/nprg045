@@ -1,0 +1,760 @@
+vesm9211-016-p1s1
+1	FLEGR	NNMS1-----A----	Atr
+2	-	Z:-------------	AuxG
+3	MOLEKULÁRNÍ	AAFS1----1A----	Atr
+4	TAXONOMIE	NNFS1-----A----	ExD
+5	:	Z:-------------	AuxK
+
+vesm9211-016-p3s2
+1	Sekvence	NNFS1-----A----	ExD
+2	bází	NNFP2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	části	NNFS6-----A----	Atr
+5	mitochondriální	AAFS2----1A----	Atr
+6	DNA	NNFXX-----A---8	Atr
+7	některých	PZXP2----------	Atr
+8	zástupců	NNMP2-----A----	Atr
+9	myšovitých	AAMP2----1A----	Atr
+10	.	Z:-------------	AuxK
+
+vesm9211-016-p3s3
+1	Oblast	NNFS1-----A----	Sb
+2	D	NNNXX-----A----	Atr
+3	-	Z:-------------	AuxG
+4	loop	NNIXX-----A----	Atr
+5	byla	VpQW---XR-AA---	AuxV
+6	amplifikována	VsQW---XX-AP---	Pred
+7	pomocí	RR--2----------	AuxP
+8	techniky	NNFS2-----A----	Adv
+9	PCR	NNFXX-----A----	Atr
+10	a	J^-------------	Coord
+11	osekvenována	VsQW---XX-AP---	Pred
+12	.	Z:-------------	AuxK
+
+vesm9211-016-p3s4
+1	Tato	PDFS1----------	Atr
+2	oblast	NNFS1-----A----	Sb
+3	mitochondriální	AAFS2----1A----	Atr
+4	DNA	NNFXX-----A---8	Atr
+5	nekóduje	VB-S---3P-NA---	Pred
+6	bílkoviny	NNFP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	takže	J,-------------	AuxC
+9	lze	VB-S---3P-AA---	Adv
+10	očekávat	Vf--------A----	Sb
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	mutace	NNFP1-----A----	Sb
+14	budou	VB-P---3F-AA---	Obj
+15	z	RR--2----------	AuxP
+16	hlediska	NNNS2-----A----	AuxP
+17	přírodního	AAIS2----1A----	Atr
+18	výběru	NNIS2-----A----	Adv
+19	neutrální	AAFP1----1A----	Pnom
+
+vesm9211-016-p4s1
+1	22	C=-------------	ExD
+
+vesm9211-016-p5s1
+1	2	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+vesm9211-016-p5s2
+1	Schéma	NNNS1-----A----	ExD
+2	metody	NNFS2-----A----	Atr
+3	PCR	NNFXX-----A----	Atr
+4	.	Z:-------------	AuxK
+
+vesm9211-016-p5s3
+1	V	RR--6----------	AuxP
+2	prvním	CrIS6----------	Atr
+3	kroku	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	provede	VB-S---3P-AA---	Pred
+6	tepelná	AAFS1----1A----	Atr
+7	denaturace	NNFS1-----A----	Sb
+8	dvouřetězcové	AAFS2----1A----	Atr
+9	DNA	NNFXX-----A---8	Atr
+10	na	RR--4----------	AuxP
+11	dva	ClYP4----------	Atr
+12	vzájemně	Dg-------1A----	Adv
+13	komplementární	AAIP4----1A----	Atr
+14	řetězce	NNIP4-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9211-016-p5s4
+1	Ve	RV--6----------	AuxP
+2	druhém	CrIS6----------	ExD
+3	se	P7-X4----------	AuxR
+4	směs	NNFS1-----A----	Sb
+5	jednořetězcové	AAFS2----1A----	Atr
+6	DNA	NNFXX-----A---8	Atr
+7	ochladí	VB-S---3P-AA---	Pred
+8	za	RR--2----------	AuxP
+9	přítomnosti	NNFS2-----A----	Adv
+10	2	C=-------------	Atr
+11	druhů	NNIP2-----A----	Atr
+12	amplifikačních	AAIP2----1A----	Atr
+13	primerů	NNIP2-----A----	Atr
+14	,	Z:-------------	Apos
+15	oligonukleotidů	NNIP2-----A----	Atr
+16	komplementárních	AAIP2----1A----	Atr
+17	k	RR--3----------	AuxP
+18	jednomu	ClZS3----------	Atr
+19	a	J^-------------	Coord
+20	druhému	CrIS3----------	Atr
+21	řetězci	NNIS3-----A----	Adv
+22	DNA	NNFXX-----A---8	Atr
+23	,	Z:-------------	AuxX
+24	ohraničujících	AGIP2-----A----	Atr
+25	mezi	RR--7----------	AuxP
+26	sebou	P6-X7----------	Adv
+27	oblast	NNFS4-----A----	Obj
+28	DNA	NNFXX-----A---8	Atr
+29	,	Z:-------------	AuxX
+30	kterou	P4FS4----------	Obj
+31	hodláme	VB-P---1P-AA---	Atr
+32	amplifikovat	Vf--------A----	Obj
+33	.	Z:-------------	AuxK
+
+vesm9211-016-p5s5
+1	Ve	RV--6----------	AuxP
+2	třetím	CrIS6----------	Atr
+3	kroku	NNIS6-----A----	Adv
+4	pomocí	RR--2----------	AuxP
+5	enzymu	NNIS2-----A----	Adv
+6	DNA	NNFXX-----A---8	Atr
+7	-	Z:-------------	Apos
+8	polymeráza	NNFS1-----A----	Adv
+9	replikujeme	VB-P---1P-AA---	Pred
+10	jednořetězcovou	AAFS4----1A----	Atr
+11	DNA	NNFXX-----A---8	Obj
+12	na	RR--4----------	AuxP
+13	DNA	NNFXX-----A---8	Obj
+14	dvouřetězcovou	AAFS4----1A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9211-016-p5s6
+1	Protože	J,-------------	AuxC
+2	polymeráza	NNFS1-----A----	Sb
+3	nedokáže	VB-S---3P-NA---	Adv
+4	začínat	Vf--------A----	Obj
+5	replikaci	NNFS4-----A----	Obj
+6	DNA	NNFXX-----A---8	Atr
+7	na	RR--6----------	AuxP
+8	libovolném	AANS6----1A----	Atr
+9	místě	NNNS6-----A----	Adv
+10	a	J^-------------	Coord
+11	dokáže	VB-S---3P-AA---	Adv
+12	prodlužovat	Vf--------A----	Obj
+13	dvouřetězcové	AAIP4----1A----	Atr
+14	úseky	NNIP4-----A----	Obj
+15	DNA	NNFXX-----A---8	Atr
+16	pouze	Db-------------	AuxZ
+17	v	RR--6----------	AuxP
+18	jednom	ClZS6----------	Atr
+19	směru	NNIS6-----A----	Adv
+20	,	Z:-------------	AuxX
+21	dochází	VB-S---3P-AA---	Pred
+22	k	RR--3----------	AuxP
+23	replikaci	NNFS3-----A----	Obj
+24	pouze	Db-------------	AuxZ
+25	v	RR--6----------	AuxP
+26	oblasti	NNFS6-----A----	Adv
+27	ohraničené	AAFS6----1A----	Atr
+28	amplifikačními	AAIP7----1A----	Atr
+29	primery	NNIP7-----A----	Adv
+30	.	Z:-------------	AuxK
+
+vesm9211-016-p5s7
+1	Ve	RV--6----------	AuxP
+2	čtvrtém	CrIS6----------	Atr
+3	kroku	NNIS6-----A----	Adv
+4	a	J^-------------	Coord
+5	dalších	AAIP6----1A----	ExD
+6	se	P7-X4----------	AuxR
+7	celý	AAIS1----1A----	Atr
+8	cyklus	NNIS1-----A----	Sb
+9	opakuje	VB-S---3P-AA---	Pred
+10	,	Z:-------------	AuxX
+11	počínaje	VeYS------A----	Atv
+12	krokem	NNIS7-----A----	Adv
+13	jedna	ClFS1----------	Atr
+14	.	Z:-------------	AuxK
+
+vesm9211-016-p5s8
+1	V	RR--6----------	AuxP
+2	každém	AAIS6----1A----	Atr
+3	cyklu	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	počet	NNIS1-----A----	Sb
+6	kopií	NNFP2-----A----	Atr
+7	amplifikovaného	AAIS2----1A----	Atr
+8	úseku	NNIS2-----A----	Atr
+9	zdvojnásobí	VB-S---3P-AA---	Pred
+10	,	Z:-------------	AuxX
+11	takže	J,-------------	AuxC
+12	po	RR--6----------	AuxP
+13	20	C=-------------	Atr
+14	cyklech	NNIP6-----A----	Adv
+15	se	P7-X4----------	AuxT
+16	úsek	NNIS1-----A----	Sb
+17	vyskytující	AGIS1-----A----	Atr
+18	se	P7-X4----------	AuxT
+19	původně	Dg-------1A----	Adv
+20	ve	RV--6----------	AuxP
+21	vzorku	NNIS6-----A----	Adv
+22	v	RR--6----------	AuxP
+23	jediném	AAIS6----1A----	Atr
+24	exempláři	NNIS6-----A----	AdvAtr
+25	pomnoží	VB-S---3P-AA---	Adv
+26	asi	TT-------------	AuxZ
+27	miliónkrát	Cv-------------	Adv
+28	(	Z:-------------	ExD
+29	2	C=-------------	ExD
+30	20	C=-------------	Atr
+31	krát	J*-------------	Atr
+32	)	Z:-------------	ExD
+
+vesm9211-016-p6s1
+1	CHALUPSKÝ	NNMS1-----A----	ExD
+2	-	Z:-------------	Coord
+3	VÁŠNĚ	NNFP1-----A----	ExD
+4	KOLEM	RR--2----------	AuxP
+5	"	Z:-------------	AuxG
+6	DNA	NNFXX-----A---8	Atr
+7	OTISKŮ	NNIP2-----A----	Atr
+8	PRSTŮ	NNIP2-----A----	Atr
+9	"	Z:-------------	AuxG
+10	:	Z:-------------	AuxK
+
+vesm9211-016-p8s1
+1	Výsledky	NNIP1-----A----	ExD
+2	rozboru	NNIS2-----A----	Atr
+3	krve	NNFS2-----A----	Atr
+4	dobře	Dg-------1A----	Adv
+5	posouditelného	AAIS2----1A----	Atr
+6	případu	NNIS2-----A----	AtrAtr
+7	"	Z:-------------	AuxG
+8	Jeffreysovou	AUFS7M---------	Atr
+9	metodou	NNFS7-----A----	Atr
+10	"	Z:-------------	AuxG
+11	.	Z:-------------	AuxK
+
+vesm9211-016-p8s2
+1	Krev	NNFS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	košile	NNFS2-----A----	Atr
+4	a	J^-------------	Coord
+5	džín	NNFP2-----A----	Atr
+6	podezřelého	AAMS2----1A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	srovnána	VsQW---XX-AP---	Pnom
+9	s	RR--7----------	AuxP
+10	krví	NNFS7-----A----	Obj
+11	oběti	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+vesm9211-016-p8s3
+1	Materiál	NNIS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	džín	NNFP2-----A----	Atr
+4	byl	VpYS---XR-AA---	Pred
+5	nedostatečný	AAIS1----1N----	Pnom
+6	a	J^-------------	Coord
+7	narušený	AAIS1----1A----	Pnom
+
+vesm9211-016-p9s1
+1	VALVODA	NNMS1-----A----	Atr
+2	,	Z:-------------	Coord
+3	TICHÝ	NNMS1-----A----	Atr
+4	-	Z:-------------	AuxG
+5	VNÍMÁNÍ	NNNS1-----A----	ExD
+6	ŘEČI	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+9	.	Z:-------------	AuxK
+10	:	Z:-------------	AuxK
+
+vesm9211-016-p11s2
+1	Schéma	NNNS1-----A----	ExD
+2	uložení	NNNS2-----A----	Atr
+3	implantátu	NNIS2-----A----	Atr
+4	ve	RV--6----------	AuxP
+5	spánkové	AAFS6----1A----	Atr
+6	kosti	NNFS6-----A----	Atr
+7	:	Z:-------------	Apos
+8	1	C=-------------	ExD
+9	-	Z:-------------	AuxG
+10	implantát	NNIS1-----A----	ExD
+11	,	Z:-------------	AuxX
+12	2	C=-------------	ExD
+13	-	Z:-------------	AuxG
+14	aktivní	AAFS1----1A----	Atr
+15	elektroda	NNFS1-----A----	ExD
+16	zavedená	AAFS1----1A----	Atr
+17	do	RR--2----------	AuxP
+18	scala	NNFSX-----A----	Adv
+19	tympani	NNISX-----A----	Atr
+20	,	Z:-------------	Coord
+21	3	C=-------------	ExD
+22	-	Z:-------------	AuxG
+23	referenční	AAFS1----1A----	Atr
+24	elektroda	NNFS1-----A----	ExD
+25	uložená	AAFS1----1A----	Atr
+26	do	RR--2----------	AuxP
+27	temporálního	AAIS2----1A----	Atr
+28	svalu	NNIS2-----A----	Adv
+29	.	Z:-------------	AuxK
+
+vesm9211-016-p12s1
+1	Přenos	NNIS1-----A----	Sb
+2	do	RR--2----------	AuxP
+3	implantabilní	AAFS2----1A----	Atr
+4	části	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	bezdrátový	AAIS1----1A----	Pnom
+7	,	Z:-------------	Apos
+8	(	Z:-------------	AuxG
+9	transkutánní	AAIS1----1A----	Pnom
+10	)	Z:-------------	AuxG
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	byly	VpTP---XR-AA---	AuxV
+14	navrženy	VsTP---XX-AP---	Pred
+15	a	J^-------------	Coord
+16	používány	VsTP---XX-AP---	Pred
+17	i	J^-------------	AuxZ
+18	systémy	NNIP1-----A----	Sb
+19	využívající	AGIP1-----A----	Atr
+20	konektor	NNIS4-----A----	Obj
+21	(	Z:-------------	AuxG
+22	perkutánní	AAIP1----1A----	Atr
+23	)	Z:-------------	AuxG
+
+vesm9211-016-p14s1
+1	2	C=-------------	ExD
+2	.	Z:-------------	AuxG
+3	a	NNNXX-----A----	AuxG
+4	)	Z:-------------	AuxG
+5	Blokové	AANS1----1A----	Atr
+6	schéma	NNNS1-----A----	ExD
+7	jednokanálové	AAFS2----1A----	Atr
+8	kochleární	AAFS2----1A----	Atr
+9	neuroprotézy	NNFS2-----A----	Atr
+
+vesm9211-016-p17s2
+1	Srovnání	NNNS1-----A----	ExD
+2	dynamického	AAIS2----1A----	Atr
+3	rozsahu	NNIS2-----A----	Atr
+4	normálního	AANS2----1A----	Atr
+5	slyšení	NNNS2-----A----	Atr
+6	(	Z:-------------	ExD
+7	šrafovaná	AAFS1----1A----	Atr
+8	oblast	NNFS1-----A----	ExD
+9	)	Z:-------------	ExD
+10	a	J^-------------	Coord
+11	elektricky	Dg-------1A----	Adv
+12	evokovaných	AAIP2----1A----	Atr
+13	zvukových	AAIP2----1A----	Atr
+14	vjemů	NNIP2-----A----	Atr
+15	(	Z:-------------	ExD
+16	černá	AAFS1----1A----	Atr
+17	oblast	NNFS1-----A----	ExD
+18	)	Z:-------------	ExD
+19	.	Z:-------------	AuxK
+
+vesm9211-016-p18s1
+1	Malý	AAIS1----1A----	Atr
+2	dynamický	AAIS1----1A----	Atr
+3	rozsah	NNIS1-----A----	Sb
+4	elektricky	Dg-------1A----	Adv
+5	vyvolaných	AAIP2----1A----	Atr
+6	zvukových	AAIP2----1A----	Atr
+7	vjemů	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	se	P7-X4----------	AuxT
+11	ještě	Db-------------	Adv
+12	zmenšuje	VB-S---3P-AA---	Atr
+13	s	RR--7----------	AuxP
+14	rostoucím	AGIS7-----A----	Atr
+15	kmitočtem	NNIS7-----A----	Adv
+16	stimulu	NNIS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	vyžaduje	VB-S---3P-AA---	Pred
+19	úpravu	NNFS4-----A----	Obj
+20	dynamiky	NNFS2-----A----	Atr
+21	přijatého	AAIS2----1A----	Atr
+22	zvukového	AAIS2----1A----	Atr
+23	signálu	NNIS2-----A----	Atr
+24	a	J^-------------	Coord
+25	změnu	NNFS4-----A----	Obj
+26	jeho	PSXXXZS3-------	Atr
+27	kmitočtového	AANS2----1A----	Atr
+28	spektra	NNNS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+vesm9211-016-p19s1
+1	(	Z:-------------	AuxG
+2	Charakteristiky	NNFP1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	elektricky	Dg-------1A----	Adv
+5	vyvolané	AAIP4----1A----	Atr
+6	vjemy	NNIP4-----A----	Atr
+7	reprezentují	VB-P---3P-AA---	Pred
+8	průměrné	AAFP4----1A----	Atr
+9	hodnoty	NNFP4-----A----	Obj
+10	zjištěné	AAFP4----1A----	Atr
+11	během	RR--2----------	AuxP
+12	předoperačních	AAIP2----1A----	Atr
+13	testů	NNIP2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+vesm9211-016-p19s2
+1	Protože	J,-------------	AuxC
+2	při	RR--6----------	AuxP
+3	elektrické	AAFS6----1A----	Atr
+4	stimulaci	NNFS6-----A----	Adv
+5	diferencují	VB-P---3P-AA---	Adv
+6	pacienti	NNMP1-----A----	Sb
+7	mnohem	Db-------------	Adv
+8	menší	AAFP4----2A----	Atr
+9	změny	NNFP4-----A----	Obj
+10	intenzity	NNFS2-----A----	Atr
+11	stimulu	NNIS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	je	VB-S---3P-AA---	Pred
+14	celkový	AAIS1----1A----	Atr
+15	počet	NNIS1-----A----	Sb
+16	rozlišitelných	AAFP2----1A----	Atr
+17	úrovní	NNFP2-----A----	Adv
+18	v	RR--6----------	AuxP
+19	obou	ClXP6----------	Atr
+20	případech	NNIP6-----A----	Adv
+21	srovnatelný	AAIS1----1A----	Pnom
+22	)	Z:-------------	AuxG
+
+vesm9211-016-p20s1
+1	JEDINÁK	NNMS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+vesm9211-016-p24s1
+1	Cítím	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	báječně	Dg-------1A----	Adv
+4	,	Z:-------------	Coord
+5	přestal	VpYS---XR-AA---	Pred
+6	jsem	VB-S---1P-AA---	AuxV
+7	číst	Vf--------A----	Obj
+8	!	Z:-------------	AuxK
+
+vesm9211-016-p25s1
+1	Kresba	NNFS1-----A----	ExD
+2	Vladimír	NNMS1-----A----	Atr
+3	Renčín	NNMS1-----A----	Atr
+
+vesm9211-016-p26s1
+1	JÁNSKÝ	NNMS1-----A----	Atr
+2	-	Z:-------------	AuxG
+3	LIDSKÁ	AAFS1----1A----	Atr
+4	SCHOPNOST	NNFS1-----A----	ExD
+5	PŘIZPŮSOBIT	Vf--------A----	Atr
+6	SE	P7-X4----------	AuxT
+7	CHLADU	NNIS3-----A----	Obj
+8	:	Z:-------------	AuxK
+
+vesm9211-016-p28s2
+1	Rozsah	NNIS1-----A----	ExD
+2	termoneutrální	AAFS2----1A----	Atr
+3	zóny	NNFS2-----A----	Atr
+4	a	J^-------------	Coord
+5	velikost	NNFS1-----A----	ExD
+6	chladové	AAFS2----1A----	Atr
+7	termogeneze	NNFS2-----A----	Atr
+8	u	RR--2----------	AuxP
+9	arktických	AAMP2----1A----	Atr
+10	a	J^-------------	Coord
+11	tropických	AAMP2----1A----	Atr
+12	savců	NNMP2-----A----	Atr
+13	(	Z:-------------	ExD
+14	Scholander	NNMS1-----A----	ExD
+15	a	J^-------------	Coord
+16	jiní	AAMP1----1A----	ExD
+17	.	Z:-------------	AuxK
+18	1950	C=-------------	ExD
+19	)	Z:-------------	ExD
+
+vesm9211-016-p30s2
+1	Doba	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	po	RR--4----------	AuxP
+4	kterou	P4FS4----------	Adv
+5	přežijí	VB-P---3P-AA--1	Atr
+6	drobní	AAMP1----1A----	Atr
+7	savci	NNMP1-----A----	Sb
+8	silně	Dg-------1A----	Adv
+9	snížené	AAFP4----1A----	Atr
+10	teploty	NNFP4-----A----	Obj
+11	okolí	NNNS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	byla	VpQW---XR-AA---	AuxV
+14	užívána	VsQW---XX-AP---	Pred
+15	za	RR--4----------	AuxP
+16	míru	NNFS4-----A----	Adv
+17	rezistence	NNFS2-----A----	Atr
+18	vůči	RR--3----------	AuxP
+19	chladu	NNIS3-----A----	Atr
+20	.	Z:-------------	AuxK
+
+vesm9211-016-p30s3
+1	Obrázek	NNIS1-----A----	Sb
+2	ukazuje	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	zimní	AAFP1----1A----	Atr
+6	populace	NNFP1-----A----	Sb
+7	přežívají	VB-P---3P-AA---	Obj
+8	delší	AAFS4----2A----	Atr
+9	dobu	NNFS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	a	J^-------------	Coord
+12	jsou	VB-P---3P-AA---	Obj
+13	tedy	Db-------------	AuxY
+14	adaptované	AAFP1----1A----	Pnom
+15	na	RR--4----------	AuxP
+16	chlad	NNIS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+vesm9211-016-p32s2
+1	Změny	NNFP1-----A----	ExD
+2	centrální	AAFS2----1A----	Atr
+3	a	J^-------------	Coord
+4	kožní	AAFS2----1A----	Atr
+5	tělesné	AAFS2----1A----	Atr
+6	teploty	NNFS2-----A----	Atr
+7	,	Z:-------------	Coord
+8	v	RR--6----------	AuxP
+9	produkci	NNFS6-----A----	Atr
+10	tepla	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	ve	RV--6----------	AuxP
+13	velikosti	NNFS6-----A----	Atr
+14	svalového	AAIS2----1A----	Atr
+15	třesu	NNIS2-----A----	Atr
+16	během	RR--2----------	AuxP
+17	vystavení	NNNS2-----A----	Adv
+18	člověka	NNMS2-----A----	Atr
+19	chladu	NNIS3-----A----	Atr
+20	-	Z:-------------	AuxG
+21	srovnej	Vi-S---2--A----	Pred
+22	změny	NNFP4-----A----	Obj
+23	u	RR--2----------	AuxP
+24	lidí	NNMP2-----A----	Atr
+25	adaptovaných	AAMP2----1A----	Atr
+26	na	RR--4----------	AuxP
+27	teplo	NNNS4-----A----	Obj
+28	a	J^-------------	Coord
+29	lidí	NNMP2-----A----	Atr
+30	adaptovaných	AAMP2----1A----	Atr
+31	na	RR--4----------	AuxP
+32	chlad	NNIS4-----A----	Obj
+33	.	Z:-------------	AuxK
+
+vesm9211-016-p32s3
+1	(	Z:-------------	AuxG
+2	Produkce	NNFS1-----A----	Sb
+3	tepla	NNNS2-----A----	Atr
+4	je	VB-S---3P-AA---	AuxV
+5	vyjádřena	VsQW---XX-AP---	Pred
+6	spotřebou	NNFS7-----A----	Adv
+7	kyslíku	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	litrech	NNIP6-----A----	Atr
+10	za	RR--4----------	AuxP
+11	minutu	NNFS4-----A----	Atr
+12	.	Z:-------------	AuxK
+13	)	Z:-------------	AuxG
+
+vesm9211-016-p34s2
+1	Aktivace	NNFS1-----A----	Sb
+2	produkce	NNFS2-----A----	Atr
+3	tepla	NNNS2-----A----	Atr
+4	třesem	NNIS7-----A----	Atr
+5	při	RR--6----------	AuxP
+6	nižších	AAFP6----2A----	Atr
+7	teplotách	NNFP6-----A----	AtrAdv
+8	je	VB-S---3P-AA---	Pred
+9	u	RR--2----------	AuxP
+10	chladově	Dg-------1A----	Adv
+11	adaptovaných	AAMP2----1A----	Atr
+12	lidí	NNMP2-----A----	Adv
+13	mírou	NNFS7-----A---1	Pnom
+14	stupně	NNIS2-----A----	Atr
+15	chladové	AAFS2----1A----	Atr
+16	adaptace	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9211-016-p34s3
+1	Chladová	AAFS1----1A----	Atr
+2	adaptace	NNFS1-----A----	Sb
+3	posunuje	VB-S---3P-AA---	Pred
+4	nastavenou	AAFS4----1A----	Atr
+5	teplotu	NNFS4-----A----	Obj
+6	těla	NNNS2-----A----	Atr
+7	(	Z:-------------	Apos
+8	"	Z:-------------	AuxG
+9	set	AAXXX----1A----	Atr
+10	point	NNIXX-----A----	Obj
+11	"	Z:-------------	AuxG
+12	)	Z:-------------	AuxG
+13	k	RR--3----------	AuxP
+14	nižším	AAFP3----2A----	Atr
+15	hodnotám	NNFP3-----A----	Adv
+16	a	J^-------------	Coord
+17	navozuje	VB-S---3P-AA---	Pred
+18	tak	J^-------------	Adv
+19	mírnou	AAFS4----1A----	Atr
+20	hypotermii	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+vesm9211-016-p34s4
+1	(	Z:-------------	AuxG
+2	Produkce	NNFS1-----A----	Sb
+3	tepla	NNNS2-----A----	Atr
+4	je	VB-S---3P-AA---	AuxV
+5	vyjádřena	VsQW---XX-AP---	Pred
+6	spotřebou	NNFS7-----A----	Adv
+7	kyslíku	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	litrech	NNIP6-----A----	Atr
+10	za	RR--4----------	AuxP
+11	minutu	NNFS4-----A----	Atr
+12	.	Z:-------------	AuxK
+13	)	Z:-------------	AuxG
+
+vesm9211-016-p36s2A
+1	Měření	NNNS1-----A----	ExD
+2	produkce	NNFS2-----A----	Atr
+3	tepla	NNNS2-----A----	Atr
+4	a	J^-------------	Coord
+5	kožních	AAFP2----1A----	Atr
+6	teplot	NNFP2-----A----	Atr
+7	u	RR--2----------	AuxP
+8	australských	AAMP2----1A----	Atr
+9	domorodců	NNMP2-----A----	AtrAtr
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	nocují	VB-P---3P-AA---	Atr
+13	na	RR--6----------	AuxP
+14	holé	AAFS6----1A----	Atr
+15	zemi	NNFS6-----A----	Adv
+16	za	RR--2----------	AuxP
+17	teplot	NNFP2-----A----	Adv
+18	kolem	RR--2----------	AuxP
+19	0	C=-------------	Atr
+20	°	NNIP2-----A---8	Atr
+21	C	NNMXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+
+vesm9211-016-p36s2B
+1	Hlava	NNFS1-----A----	Sb
+2	domorodce	NNMS2-----A----	Atr
+3	je	VB-S---3P-AA---	AuxV
+4	umístěna	VsQW---XX-AP---	Pred
+5	v	RR--6----------	AuxP
+6	nádobě	NNFS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	ve	RV--6----------	AuxP
+9	které	P4FS6----------	Adv
+10	se	P7-X4----------	AuxR
+11	analyzuje	VB-S---3P-AA---	Atr
+12	množství	NNNS1-----A----	Sb
+13	kyslíku	NNIS2-----A----	Atr
+14	ve	RV--6----------	AuxP
+15	vydýchaném	AAIS6----1A----	Atr
+16	vzduchu	NNIS6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+vesm9211-016-p36s3
+1	Ze	RV--2----------	AuxP
+2	spotřeby	NNFS2-----A----	Adv
+3	kyslíku	NNIS2-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	stanoví	VB-S---3P-AA---	Pred
+6	velikost	NNFS1-----A----	Sb
+7	produkce	NNFS2-----A----	Atr
+8	tepla	NNNS2-----A----	Atr
+9	vyvolané	AAFS2----1A----	Atr
+10	svalovým	AAIS7----1A----	Atr
+11	třesem	NNIS7-----A----	Obj
+12	.	Z:-------------	AuxK
+
+vesm9211-016-p36s4
+1	Bílé	AAFP1----1A----	Atr
+2	plochy	NNFP1-----A----	Sb
+3	na	RR--6----------	AuxP
+4	těle	NNNS6-----A----	Atr
+5	vyznačují	VB-P---3P-AA---	Pred
+6	místa	NNNP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	byly	VpTP---XR-AA---	AuxV
+10	připevněny	VsTP---XX-AP---	Atr
+11	termočlánky	NNIP1-----A----	Sb
+
+vesm9211-016-p37s1
+1	SCHWARZOVÁ	NNFS1-----A----	Atr
+2	-	Z:-------------	AuxG
+3	LYMSKÁ	AAFS1----1A----	Atr
+4	CHOROBA	NNFS1-----A----	ExD
+5	:	Z:-------------	AuxK
+
+vesm9211-016-p43s1
+1	UMĚLECKÁ	AAFS1----1A----	Atr
+2	PŘÍLOHA	NNFS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+vesm9211-016-p45s1
+1	Aleš	NNMS1-----A----	Atr
+2	Veselý	NNMS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	nar	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	3	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	2	C=-------------	Adv
+9	.	Z:-------------	AuxG
+10	1935	C=-------------	Atr
+11	v	RR--6----------	AuxP
+12	Čáslavi	NNFS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+vesm9211-016-p45s3
+1	V	RR--6----------	AuxP
+2	letech	NNNP6-----A----	Adv
+3	1952	C=-------------	Atr
+4	-	Z:-------------	Coord
+5	58	C=-------------	Atr
+6	studoval	VpYS---XR-AA---	Pred
+7	na	RR--6----------	AuxP
+8	Akademii	NNFS6-----A----	Adv
+9	výtvarných	AANP2----1A----	Atr
+10	umění	NNNP2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Praze	NNFS6-----A----	AtrAdv
+13	.	Z:-------------	AuxK
+
+vesm9211-016-p45s4
+1	Od	RR--2----------	AuxP
+2	r	NNIXX-----A---8	Adv
+3	.	Z:-------------	AuxG
+4	1990	C=-------------	Atr
+5	je	VB-S---3P-AA---	Pred
+6	profesorem	NNMS7-----A----	Pnom
+7	na	RR--6----------	AuxP
+8	Akademii	NNFS6-----A----	AtrAdv
+9	výtvarných	AANP2----1A----	Atr
+10	umění	NNNP2-----A----	Atr
+11	.	Z:-------------	AuxK
+

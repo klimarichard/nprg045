@@ -1,0 +1,227 @@
+mf920925-042-p1s1A
+1	Španělsku	NNNS3-----A----	Obj
+2	hrozí	VB-S---3P-AA---	Pred
+3	recese	NNFS1-----A----	Sb
+
+mf920925-042-p1s1B
+1	VLÁDA	NNFS1-----A----	Sb
+2	BUDE	VB-S---3F-AA---	AuxV
+3	MUSET	Vf--------A----	Pred
+4	VÍCE	Dg-------2A----	Adv
+5	ŠETŘIT	Vf--------A----	Obj
+
+mf920925-042-p2s1
+1	Při	RR--6----------	AuxP
+2	návrhu	NNIS6-----A----	Adv
+3	rozpočtu	NNIS2-----A----	Atr
+4	musí	VB-S---3P-AA---	Pred
+5	vláda	NNFS1-----A----	Sb
+6	Felipe	NNMXX-----A----	Atr
+7	Gonzalese	NNMS2-----A----	Atr
+8	vycházet	Vf--------A----	Obj
+9	z	RR--2----------	AuxP
+10	toho	PDZS2----------	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	hospodářský	AAIS1----1A----	Atr
+14	růst	NNIS1-----A----	Sb
+15	nepřekročí	VB-S---3P-NA---	Atr
+16	0.7	C=-------------	Obj
+17	procenta	NNNS2-----A----	Atr
+18	a	J^-------------	Coord
+19	v	RR--6----------	AuxP
+20	zemi	NNFS6-----A----	Adv
+21	přibude	VB-S---3P-AA---	Atr
+22	půl	NNFS1-----A----	Sb
+23	miliónu	NNIS2-----A----	Atr
+24	nezaměstnaných	NNMP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf920925-042-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včerejší	AAIS1----1A----	Atr
+4	německý	AAIS1----1A----	Atr
+5	deník	NNIS1-----A----	Sb
+6	Handelsblatt	NNIS1-----A----	Atr
+7	.	Z:-------------	AuxK
+
+mf920925-042-p2s3
+1	Ještě	Db-------------	AuxZ
+2	na	RR--6----------	AuxP
+3	jaře	NNNS6-----A----	Adv
+4	předpokládal	VpYS---XR-AA---	Pred
+5	ministr	NNMS1-----A----	Atr
+6	hospodářství	NNNS2-----A----	Atr
+7	Solchaga	NNMS1-----A----	Sb
+8	zvýšení	NNNS4-----A----	Obj
+9	hrubého	AAIS2----1A----	Atr
+10	domácího	AAIS2----1A----	Atr
+11	produktu	NNIS2-----A----	Atr
+12	o	RR--4----------	AuxP
+13	37.3	C=-------------	Atr
+14	procenta	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920925-042-p2s4
+1	Investice	NNFP1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	měly	VpTP---XR-AA---	Pred
+4	zvýšit	Vf--------A----	Obj
+5	o	RR--4----------	AuxP
+6	více	Dg-------2A----	Obj
+7	než	J,-------------	AuxC
+8	5	C=-------------	Adv
+9	procent	NNNP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	ve	RV--6----------	AuxP
+13	skutečnosti	NNFS6-----A----	Adv
+14	vykazují	VB-P---3P-AA---	Pred
+15	pokles	NNIS4-----A----	Obj
+16	o	RR--4----------	AuxP
+17	1.2	C=-------------	Atr
+18	procenta	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920925-042-p3s1
+1	Místo	RR--2----------	AuxP
+2	předpokládaných	AAFP2----1A----	Atr
+3	50000	C=-------------	Atr
+4	nových	AAFP2----1A----	Atr
+5	pracovních	AAFP2----1A----	Atr
+6	příležitostí	NNFP2-----A----	Adv
+7	se	P7-X4----------	AuxT
+8	počet	NNIS1-----A----	Sb
+9	nezaměstnaných	NNMP2-----A----	Atr
+10	přiblížil	VpYS---XR-AA---	Pred
+11	k	RR--3----------	AuxP
+12	třímiliónové	AAFS3----1A----	Atr
+13	hranici	NNFS3-----A----	Adv
+14	,	Z:-------------	Coord
+15	což	PE--1----------	Sb
+16	odpovídá	VB-S---3P-AA---	Pred
+17	19.3	C=-------------	Obj
+18	procenta	NNNS2-----A----	Atr
+19	pracovních	AAFP2----1A----	Atr
+20	sil	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920925-042-p3s2
+1	Předpoklad	NNIS1-----A----	Sb
+2	téměř	Db-------------	AuxZ
+3	osmiprocentního	AAIS2----1A----	Atr
+4	růstu	NNIS2-----A----	Atr
+5	exportu	NNIS2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	mění	VB-S---3P-AA---	Pred
+8	v	RR--4----------	AuxP
+9	pouhá	AANP4----1A----	Atr
+10	4.7	C=-------------	Obj
+11	procenta	NNNP4-----A----	Atr
+12	a	J^-------------	Coord
+13	značně	Dg-------1A----	Adv
+14	klesl	VpYS---XR-AA--1	Pred
+15	i	J^-------------	AuxZ
+16	import	NNIS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+mf920925-042-p3s3
+1	Před	RR--7----------	AuxP
+2	nyní	Db-------------	Adv
+3	ohlášenou	AAFS7----1A----	Atr
+4	devalvací	NNFS7-----A----	Adv
+5	pesety	NNFS2-----A----	Atr
+6	předpokládá	VB-S---3P-AA---	Pred
+7	návrh	NNIS1-----A----	Sb
+8	rozpočtu	NNIS2-----A----	Atr
+9	inflaci	NNFS4-----A----	Obj
+10	5.2	C=-------------	Atr
+11	procenta	NNNS2-----A----	Atr
+12	místo	RR--2----------	AuxP
+13	dosud	Db-------------	Adv
+14	očekávaných	AANP2----1A----	Atr
+15	4.6	C=-------------	Adv
+16	procenta	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920925-042-p4s1
+1	Vládě	NNFS3-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	nepodaří	VB-S---3P-NA---	Pred
+4	splnit	Vf--------A----	Sb
+5	plán	NNIS4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	snížení	NNNS4-----A----	Atr
+8	nového	AANS2----1A----	Atr
+9	zadlužení	NNNS2-----A----	Atr
+10	a	J^-------------	Coord
+11	dluhová	AAFS1----1A----	Atr
+12	služba	NNFS1-----A----	Sb
+13	má	VB-S---3P-AA---	Pred
+14	stoupnout	Vf--------A----	Obj
+15	o	RR--4----------	AuxP
+16	21.6	C=-------------	Obj
+17	procenta	NNNS2-----A----	Atr
+18	a	J^-------------	Coord
+19	dosáhnout	Vf--------A----	Obj
+20	2350	C=-------------	Atr
+21	miliard	NNFP2-----A----	Obj
+22	peset	NNFP2-----A----	Atr
+23	(	Z:-------------	Apos
+24	34	C=-------------	Obj
+25	mld	NNFXX-----A---8	Atr
+26	.	Z:-------------	AuxG
+27	DM	NNFXX-----A----	Atr
+28	)	Z:-------------	AuxG
+29	.	Z:-------------	AuxK
+
+mf920925-042-p4s3
+1	Projevují	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	také	Db-------------	Adv
+4	důsledky	NNIP1-----A----	Sb
+5	výdajů	NNIP2-----A----	Atr
+6	na	RR--4----------	AuxP
+7	prestižní	AAFP4----1A----	Atr
+8	akce	NNFP4-----A----	Atr
+9	jako	J,-------------	AuxC
+10	olympijské	AAFP1----1A----	Atr
+11	hry	NNFP1-----A----	Atr
+12	a	J^-------------	Coord
+13	Světová	AAFS1----1A----	Atr
+14	výstava	NNFS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920925-042-p5s1
+1	V	RR--6----------	AuxP
+2	novém	AAIS6----1A----	Atr
+3	rozpočtu	NNIS6-----A----	Adv
+4	mají	VB-P---3P-AA---	Pred
+5	vzrůst	Vf--------A----	Obj
+6	výdaje	NNIP1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	investice	NNFP4-----A----	Atr
+9	do	RR--2----------	AuxP
+10	infrastruktury	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf920925-042-p5s2
+1	Zato	J,-------------	Coord
+2	ministři	NNMP1-----A----	Sb
+3	průmyslu	NNIS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	obrany	NNFS2-----A----	Atr
+6	a	J^-------------	Coord
+7	zejména	Db-------------	AuxZ
+8	veřejné	AAFS2----1A----	Atr
+9	správy	NNFS2-----A----	Atr
+10	budou	VB-P---3F-AA---	AuxV
+11	muset	Vf--------A----	Pred
+12	vystačit	Vf--------A----	Obj
+13	s	RR--7----------	AuxP
+14	podstatně	Dg-------1A----	Adv
+15	sníženými	AAFP7----1A----	Atr
+16	částkami	NNFP7-----A----	Obj
+17	.	Z:-------------	AuxK
+

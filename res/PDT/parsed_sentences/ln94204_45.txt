@@ -1,0 +1,191 @@
+ln94204-45-p1s1
+1	Likvidace	NNFS1-----A----	ExD
+2	ropné	AAFS2----1A----	Atr
+3	havárie	NNFS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Jihlavě	NNFS6-----A----	Atr
+
+ln94204-45-p2s1A
+1	Jihlava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94204-45-p2s1B
+1	Na	RR--4----------	AuxP
+2	20000	C=-------------	Sb
+3	litrů	NNIP2-----A----	Atr
+4	motorové	AAFS2----1A----	Atr
+5	nafty	NNFS2-----A----	Atr
+6	z	RR--2----------	AuxP
+7	havarované	AAFS2----1A----	Atr
+8	cisterny	NNFS2-----A----	Atr
+9	vyteklo	VpNS---XR-AA---	Pred
+10	v	RR--4----------	AuxP
+11	pondělí	NNNS4-----A----	Adv
+12	odpoledne	Db-------------	Adv
+13	do	RR--2----------	AuxP
+14	řeky	NNFS2-----A----	Adv
+15	Jihlavy	NNFS2-----A----	Atr
+16	u	RR--2----------	AuxP
+17	obce	NNFS2-----A----	Adv
+18	Luka	NNNP1-----A----	Atr
+19	nad	RR--7----------	AuxP
+20	Jihlavou	NNFS7-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94204-45-p2s2
+1	Na	RR--6----------	AuxP
+2	půlkilometrovém	AAIS6----1A----	Atr
+3	úseku	NNIS6-----A----	Adv
+4	řeky	NNFS2-----A----	Atr
+5	vybudovali	VpMP---XR-AA---	Pred
+6	požárníci	NNMP1-----A----	Sb
+7	norné	AAFP4----1A----	Atr
+8	stěny	NNFP4-----A----	Obj
+9	a	J^-------------	Coord
+10	naftu	NNFS4-----A----	Obj
+11	odčerpali	VpMP---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln94204-45-p2s3
+1	Včera	Db-------------	Adv
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	informoval	VpYS---XR-AA---	Pred
+5	náčelník	NNMS1-----A----	Atr
+6	okresní	AAFS2----1A----	Atr
+7	správy	NNFS2-----A----	Atr
+8	Sboru	NNIS2-----A----	Atr
+9	požární	AAFS2----1A----	Atr
+10	ochrany	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Jihlavě	NNFS6-----A----	Atr
+13	František	NNMS1-----A----	Atr
+14	Tretera	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94204-45-p2s4
+1	Sedmatřicetiletý	AAMS1----1A----	Atr
+2	řidič	NNMS1-----A----	Sb
+3	cisterny	NNFS2-----A----	Atr
+4	brněnské	AAFS2----1A----	Atr
+5	s	NNFXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	r	NNNS7-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	o	AANS7----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	Hekra	NNFS1-----A----	Atr
+12	nepřizpůsobil	VpYS---XR-NA---	Pred
+13	rychlost	NNFS4-----A----	Obj
+14	jízdy	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	v	RR--6----------	AuxP
+17	pravotočivé	AAFS6----1A----	Atr
+18	zatáčce	NNFS6-----A----	Adv
+19	vjel	VpYS---XR-AA---	Pred
+20	na	RR--4----------	AuxP
+21	levou	AAFS4----1A----	Atr
+22	krajnici	NNFS4-----A----	Adv
+23	a	J^-------------	Coord
+24	narazil	VpYS---XR-AA---	Pred
+25	do	RR--2----------	AuxP
+26	svodidel	NNNP2-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln94204-45-p2s6
+1	Vozidlo	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	poté	Db-------------	Adv
+4	převrátilo	VpNS---XR-AA---	Pred
+5	na	RR--4----------	AuxP
+6	střechu	NNFS4-----A----	Adv
+7	a	J^-------------	Coord
+8	spadlo	VpNS---XR-AA--1	Pred
+9	ze	RV--2----------	AuxP
+10	srázu	NNIS2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94204-45-p2s7
+1	Řidič	NNMS1-----A----	Sb
+2	podle	RR--2----------	AuxP
+3	brněnských	AAMP2----1A----	Atr
+4	policistů	NNMP2-----A----	Adv
+5	utrpěl	VpYS---XR-AA---	Pred
+6	zranění	NNNS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	které	P4NS1----------	Sb
+9	si	P7-X3----------	AuxT
+10	vyžádá	VB-S---3P-AA---	Atr
+11	léčení	NNNS4-----A----	Obj
+12	po	RR--4----------	AuxP
+13	dobu	NNFS4-----A----	Atr
+14	čtyř	ClXP2----------	Atr
+15	týdnů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94204-45-p2s8
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	rychlým	AAIS7----1A----	Atr
+4	zásahem	NNIS7-----A----	Adv
+5	požárníků	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	kteří	P4MP1----------	Sb
+8	na	RR--4----------	AuxP
+9	místo	NNNS4-----A----	Adv
+10	havárie	NNFS2-----A----	Atr
+11	dojeli	VpMP---XR-AA---	Atr
+12	za	RR--4----------	AuxP
+13	12	C=-------------	Adv
+14	minut	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	byly	VpTP---XR-AA---	AuxV
+17	ekologické	AAFP1----1A----	Atr
+18	škody	NNFP1-----A----	Sb
+19	minimalizovány	VsTP---XX-AP---	Adv
+20	,	Z:-------------	AuxX
+21	náčelník	NNMS1-----A----	Sb
+22	je	PPXP4--3-------	Obj
+23	nedokáže	VB-S---3P-NA---	Pred
+24	odhadnout	Vf--------A----	Obj
+25	.	Z:-------------	AuxK
+
+ln94204-45-p2s9
+1	Odčerpaná	AAFS1----1A----	Atr
+2	nafta	NNFS1-----A----	Sb
+3	s	RR--7----------	AuxP
+4	vodou	NNFS7-----A----	Atr
+5	byla	VpQW---XR-AA---	AuxV
+6	odvezena	VsQW---XX-AP---	Pred
+7	v	RR--6----------	AuxP
+8	cisternách	NNFP6-----A----	Adv
+9	do	RR--2----------	AuxP
+10	Benziny	NNFS2-----A----	Adv
+11	Šlapánov	NNIS1-----A----	Atr
+12	k	RR--3----------	AuxP
+13	likvidaci	NNFS3-----A----	Adv
+14	a	J^-------------	Coord
+15	dnes	Db-------------	Adv
+16	se	P7-X4----------	AuxR
+17	začne	VB-S---3P-AA---	Pred
+18	s	RR--7----------	AuxP
+19	odběrem	NNIS7-----A----	Obj
+20	kontaminované	AAFS2----1A----	Atr
+21	zeminy	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94204-45-p2s10
+1	Zasažené	AANS1----1A----	Atr
+2	pásmo	NNNS1-----A----	Sb
+3	však	J^-------------	Coord
+4	bude	VB-S---3F-AA---	Obj
+5	pod	RR--7----------	AuxP
+6	dohledem	NNIS7-----A----	Adv
+7	ještě	Db-------------	AuxZ
+8	14	C=-------------	Adv
+9	dnů	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	podotkl	VpYS---XR-AA--1	Pred
+12	Tretera	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+

@@ -1,0 +1,122 @@
+mf920924-024-p1s1
+1	Zakázky	NNFP1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	Škodu	NNFS4-----A----	Atr
+
+mf920924-024-p2s1
+1	Plzeň	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	hč	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920924-024-p2s2
+1	Osm	Cn-S1----------	Sb
+2	divizí	NNFP2-----A----	Atr
+3	bavorské	AAFS2----1A----	Atr
+4	firmy	NNFS2-----A----	Atr
+5	Siemens	NNIS1-----A----	Atr
+6	projevilo	VpNS---XR-AA---	Pred
+7	ochotu	NNFS4-----A----	Obj
+8	využít	Vf--------A----	Atr
+9	nabízených	AAFP2----1A----	Atr
+10	výrobních	AAFP2----1A----	Atr
+11	možností	NNFP2-----A----	Obj
+12	plzeňské	AAFS2----1A----	Atr
+13	Škodovky	NNFS2-----A----	Atr
+14	a	J^-------------	Coord
+15	zadat	Vf--------A----	Atr
+16	jí	PPFS3--3-------	Obj
+17	-	Z:-------------	AuxG
+18	nezávisle	Dg-------1N----	Adv
+19	na	RR--6----------	AuxP
+20	chystaných	AAIP6----1A----	Atr
+21	oficiálních	AAIP6----1A----	Atr
+22	joint	AAIXX----1A----	Atr
+23	venture	NNIXX-----A----	Obj
+24	Škoda	NNFS1-----A----	Atr
+25	Energo	NNNS1-----A----	Atr
+26	a	J^-------------	Coord
+27	Škoda	NNFS1-----A----	Atr
+28	Transport	NNIS1-----A----	Atr
+29	-	Z:-------------	AuxG
+30	určité	AAFP4----1A----	Atr
+31	zakázky	NNFP4-----A----	Obj
+32	.	Z:-------------	AuxK
+
+mf920924-024-p2s3
+1	Od	RR--2----------	AuxP
+2	úterka	NNIS2-----A----	Adv
+3	do	RR--2----------	AuxP
+4	včerejška	NNIS2-----A----	Adv
+5	zástupci	NNMP1-----A----	Sb
+6	Siemensu	NNIS2-----A---1	Atr
+7	v	RR--6----------	AuxP
+8	Plzni	NNFS6-----A----	Adv
+9	jednali	VpMP---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+mf920924-024-p2s4
+1	Pracovník	NNMS1-----A----	Atr
+2	oddělení	NNNS2-----A----	Atr
+3	vztahů	NNIP2-----A----	Atr
+4	k	RR--3----------	AuxP
+5	veřejnosti	NNFS3-----A----	Atr
+6	a	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	s	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Škoda	NNFS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	koncern	NNIS1-----A----	Atr
+13	,	Z:-------------	AuxX
+14	Plzeň	NNFS1-----A----	Atr
+15	Jan	NNMS1-----A----	Atr
+16	Trnek	NNMS1-----A----	Sb
+17	nás	PP-P4--1-------	Obj
+18	informoval	VpYS---XR-AA---	Pred
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	Siemens	NNIS1-----A----	Sb
+22	by	Vc-------------	AuxV
+23	v	RR--6----------	AuxP
+24	Plzni	NNFS6-----A----	Adv
+25	měl	VpYS---XR-AA---	Obj
+26	odebrat	Vf--------A----	Obj
+27	odlitky	NNIP4-----A----	Obj
+28	z	RR--2----------	AuxP
+29	oceli	NNFS2-----A---1	Atr
+30	,	Z:-------------	AuxX
+31	převodovky	NNFP4-----A----	Obj
+32	,	Z:-------------	AuxX
+33	obráběcí	AAIP4----1A----	Atr
+34	stroje	NNIP4-----A----	Obj
+35	a	J^-------------	Coord
+36	celou	AAFS4----1A----	Atr
+37	řadu	NNFS4-----A----	Obj
+38	dalších	AAIP2----1A----	Atr
+39	výrobků	NNIP2-----A----	Atr
+40	.	Z:-------------	AuxK
+
+mf920924-024-p2s6
+1	Návštěva	NNFS1-----A----	Sb
+2	zástupců	NNMP2-----A----	Atr
+3	firmy	NNFS2-----A----	Atr
+4	Siemens	NNIS1-----A----	Atr
+5	nemá	VB-S---3P-NA---	Pred
+6	prý	TT-------------	AuxY
+7	souvislost	NNFS4-----A----	Obj
+8	se	RV--7----------	AuxP
+9	současnou	AAFS7----1A----	Atr
+10	kritickou	AAFS7----1A----	Atr
+11	situací	NNFS7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	ve	RV--6----------	AuxP
+14	které	P4FS6----------	Adv
+15	se	P7-X4----------	AuxT
+16	plzeňský	AAIS1----1A----	Atr
+17	strojírenský	AAIS1----1A----	Atr
+18	gigant	NNIS1-----A----	Sb
+19	ocitl	VpYS---XR-AA--1	Atr
+20	.	Z:-------------	AuxK
+

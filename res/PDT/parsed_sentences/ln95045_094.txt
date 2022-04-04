@@ -1,0 +1,91 @@
+ln95045-094-p1s1
+1	Vojenská	AAFS1----1A----	Atr
+2	pojišťovna	NNFS1-----A----	Sb
+3	chce	VB-S---3P-AA---	Pred
+4	platit	Vf--------A----	Obj
+5	včas	Db-------------	Adv
+
+ln95045-094-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-094-p2s1B
+1	Vojenská	AAFS1----1A----	Atr
+2	zdravotní	AAFS1----1A----	Atr
+3	pojišťovna	NNFS1-----A----	Sb
+4	hodlá	VB-S---3P-AA---	Pred
+5	napříště	Db-------------	Adv
+6	svým	P8XP3----------	Atr
+7	smluvním	AAMP3----1A----	Atr
+8	lékařům	NNMP3-----A----	Obj
+9	platit	Vf--------A----	Obj
+10	včas	Db-------------	Adv
+11	za	RR--4----------	AuxP
+12	jejich	PSXXXXP3-------	Atr
+13	účty	NNIP4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln95045-094-p2s2
+1	Jako	J,-------------	AuxY
+2	nutnou	AAFS4----1A----	Atr
+3	podmínku	NNFS4-----A----	Atv
+4	zkracování	NNNS2-----A----	Atr
+5	doby	NNFS2-----A----	Atr
+6	splatnosti	NNFS2-----A----	Atr
+7	však	J^-------------	Coord
+8	požaduje	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	podklady	NNIP1-----A----	Sb
+12	k	RR--3----------	AuxP
+13	úhradě	NNFS3-----A----	Atr
+14	zdravotní	AAFS2----1A----	Atr
+15	péče	NNFS2-----A----	Atr
+16	byly	VpTP---XR-AA---	AuxV
+17	předkládány	VsTP---XX-AP---	Obj
+18	na	RR--6----------	AuxP
+19	počítačových	AAFP6----1A----	Atr
+20	disketách	NNFP6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln95045-094-p2s3
+1	Vojenská	AAFS1----1A----	Atr
+2	pojišťovna	NNFS1-----A----	Sb
+3	zároveň	Db-------------	Adv
+4	začala	VpQW---XR-AA---	Pred
+5	uzavírat	Vf--------A----	Obj
+6	smlouvy	NNFP4-----A----	Obj
+7	s	RR--7----------	AuxP
+8	dětskými	AAFP7----1A----	Atr
+9	léčebnami	NNFP7-----A----	ObjAtr
+10	a	J^-------------	Coord
+11	ozdravovnami	NNFP7-----A----	ObjAtr
+12	.	Z:-------------	AuxK
+
+ln95045-094-p2s4
+1	Donedávna	Db-------------	Adv
+2	je	PPXP4--3-------	Obj
+3	měly	VpTP---XR-AA---	Pred
+4	pouze	Db-------------	AuxZ
+5	s	RR--7----------	AuxP
+6	VZP	NNFXX-----A---8	Adv
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	svým	P8XP3----------	Atr
+10	pojištěncům	NNMP3-----A----	Adv
+11	pobyt	NNIS4-----A----	Obj
+12	hradila	VpQW---XR-AA---	Atr
+13	.	Z:-------------	AuxK
+
+ln95045-094-p2s5
+1	Děti	NNFP1-----A----	Sb
+2	pojištěné	AAFP1----1A----	Atr
+3	jinde	Db-------------	Adv
+4	musely	VpTP---XR-AA---	Pred
+5	celý	AAIS4----1A----	Atr
+6	pobyt	NNIS4-----A----	Obj
+7	platit	Vf--------A----	Obj
+8	ze	RV--2----------	AuxP
+9	svého	P8ZS2----------	Adv
+10	.	Z:-------------	AuxK
+

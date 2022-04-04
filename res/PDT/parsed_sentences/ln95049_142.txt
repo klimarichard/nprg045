@@ -1,0 +1,265 @@
+ln95049-142-p1s1
+1	Z	RR--2----------	AuxP
+2	nové	AAFS2----1A----	Atr
+3	ekonomické	AAFS2----1A----	Atr
+4	literatury	NNFS2-----A----	ExD
+
+ln95049-142-p2s1
+1	René	NNMS1-----A----	Atr
+2	Klaus	NNMS1-----A----	Atr
+3	Grosjean	NNMS1-----A----	ExD
+4	:	Z:-------------	AuxG
+5	Jednáme	VB-P---1P-AA---	ExD
+6	v	RR--6----------	AuxP
+7	bance	NNFS6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln95049-142-p2s2
+1	Průvodce	NNMS1-----A----	ExD
+2	klienta	NNMS2-----A----	Atr
+3	službami	NNFP7-----A----	Atr
+4	banky	NNFS2-----A----	Atr
+5	(	Z:-------------	AuxG
+6	nakladatelství	NNNS1-----A----	ExD
+7	Management	AAXXX----1A----	Atr
+8	Press	NNIXX-----A----	Atr
+9	,	Z:-------------	Coord
+10	270	C=-------------	ExD
+11	str	NNFXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	)	Z:-------------	AuxG
+14	.	Z:-------------	AuxK
+
+ln95049-142-p2s3
+1	Kniha	NNFS1-----A----	Sb
+2	německého	AAMS2----1A----	Atr
+3	bankovního	AAMS2----1A----	Atr
+4	odborníka	NNMS2-----A----	Atr
+5	ukazuje	VB-S---3P-AA---	Pred
+6	bankovním	AAMP3----1A----	Atr
+7	klientům	NNMP3-----A----	Obj
+8	,	Z:-------------	AuxX
+9	jak	Db-------------	Adv
+10	šetřit	Vf--------A----	Obj
+11	peníze	NNIP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	jak	Db-------------	Adv
+14	vystupovat	Vf--------A----	Obj
+15	při	RR--6----------	AuxP
+16	jednání	NNNS6-----A----	Adv
+17	v	RR--6----------	AuxP
+18	bance	NNFS6-----A----	Atr
+19	a	J^-------------	Coord
+20	jak	Db-------------	Adv
+21	se	P7-X4----------	AuxT
+22	vyhnout	Vf--------A----	Obj
+23	zbytečným	AAFP3----1A----	Atr
+24	stresovým	AAFP3----1A----	Atr
+25	situacím	NNFP3-----A----	Obj
+26	.	Z:-------------	AuxK
+
+ln95049-142-p2s4
+1	Rozebírá	VB-S---3P-AA---	Pred
+2	všechny	PLYP4----------	Atr
+3	obvyklé	AAIP4----1A----	Atr
+4	obchody	NNIP4-----A----	Obj
+5	mezi	RR--7----------	AuxP
+6	klientem	NNMS7-----A----	Atr
+7	a	J^-------------	Coord
+8	bankou	NNFS7-----A----	Atr
+9	a	J^-------------	Coord
+10	ukazuje	VB-S---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	jak	Db-------------	Adv
+13	předcházet	Vf--------A----	Obj
+14	nedorozuměním	NNNP3-----A----	Obj
+15	a	J^-------------	Coord
+16	konfliktům	NNIP3-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln95049-142-p2s5
+1	Vysvětluje	VB-S---3P-AA---	Pred
+2	a	J^-------------	Coord
+3	na	RR--6----------	AuxP
+4	příkladech	NNIP6-----A----	Adv
+5	dokumentuje	VB-S---3P-AA---	Pred
+6	kontakty	NNIP4-----A----	Obj
+7	klienta	NNMS2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	bankou	NNFS7-----A----	Atr
+10	v	RR--6----------	AuxP
+11	peněžních	AANP6----1A----	Atr
+12	jednáních	NNNP6-----A----	Atr
+13	od	RR--2----------	AuxP
+14	výběru	NNIS2-----A----	Atr
+15	banky	NNFS2-----A----	Atr
+16	přes	RR--4----------	AuxP
+17	nejrůznější	AAFP4----3A----	Atr
+18	situace	NNFP4-----A----	Atr
+19	v	RR--6----------	AuxP
+20	úvěrových	AAIP6----1A----	Atr
+21	depozitních	AAIP6----1A----	Atr
+22	,	Z:-------------	AuxX
+23	devizových	AAIP6----1A----	Atr
+24	,	Z:-------------	AuxX
+25	platebních	AAIP6----1A----	Atr
+26	a	J^-------------	Coord
+27	jiných	AAIP6----1A----	Atr
+28	vztazích	NNIP6-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95049-142-p2s6
+1	Kniha	NNFS1-----A----	Sb
+2	přináší	VB-S---3P-AA---	Pred
+3	množství	NNNS4-----A----	Obj
+4	důležitých	AAFP2----1A----	Atr
+5	informací	NNFP2-----A----	Atr
+6	o	RR--6----------	AuxP
+7	celé	AAFS6----1A----	Atr
+8	škále	NNFS6-----A----	Atr
+9	bankovních	AAFP2----1A----	Atr
+10	služeb	NNFP2-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	vyspělé	AAFS6----1A----	Atr
+13	tržní	AAFS6----1A----	Atr
+14	ekonomice	NNFS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95049-142-p2s7
+1	Christof	NNMS1-----A----	Atr
+2	Schulte	NNMS1-----A----	ExD
+3	:	Z:-------------	Coord
+4	Logistika	NNFS1-----A----	ExD
+5	(	Z:-------------	AuxG
+6	nakladatelství	NNNS1-----A----	ExD
+7	Victoria	AAXXX----1A----	Atr
+8	Publishing	NNNXX-----A----	Atr
+9	,	Z:-------------	Coord
+10	301	C=-------------	ExD
+11	str	NNFXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	)	Z:-------------	AuxG
+14	.	Z:-------------	AuxK
+
+ln95049-142-p2s8
+1	Ojedinělé	AANS1----1A----	Atr
+2	dílo	NNNS1-----A----	Sb
+3	německého	AAMS2----1A----	Atr
+4	autora	NNMS2-----A----	Atr
+5	zahrnuje	VB-S---3P-AA---	Pred
+6	celý	AAIS4----1A----	Atr
+7	proces	NNIS4-----A----	Obj
+8	hmotného	AAIS2----1A----	Atr
+9	a	J^-------------	Coord
+10	informačního	AAIS2----1A----	Atr
+11	toku	NNIS2-----A----	Atr
+12	od	RR--2----------	AuxP
+13	nákupu	NNIS2-----A----	Atr
+14	přes	RR--4----------	AuxP
+15	výrobní	AAIS4----1A----	Atr
+16	proces	NNIS4-----A----	Atr
+17	až	TT-------------	AuxZ
+18	po	RR--4----------	AuxP
+19	dodání	NNNS4-----A----	Atr
+20	výrobků	NNIP2-----A----	Atr
+21	k	RR--3----------	AuxP
+22	uživateli	NNMS3-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95049-142-p2s9
+1	Nevynechává	VB-S---3P-NA---	Pred
+2	tedy	Db-------------	AuxY
+3	nic	PW--4----------	Obj
+4	z	RR--2----------	AuxP
+5	toho	PDZS2----------	Atr
+6	,	Z:-------------	AuxX
+7	co	PQ--4----------	Obj
+8	za	RR--4----------	AuxP
+9	logistiku	NNFS4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	různých	AAFP6----1A----	Atr
+12	podobách	NNFP6-----A----	Atr
+13	považujeme	VB-P---1P-AA---	Atr
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	naopak	Db-------------	Adv
+17	vše	PLNS4---------1	Obj
+18	zahrnuje	VB-S---3P-AA---	Pred
+19	v	RR--6----------	AuxP
+20	souvislostech	NNFP6-----A----	Adv
+21	,	Z:-------------	AuxX
+22	které	P4FP1----------	Sb
+23	vyplývají	VB-P---3P-AA---	Atr
+24	z	RR--2----------	AuxP
+25	procesu	NNIS2-----A----	Obj
+26	řízení	NNNS2-----A----	Atr
+27	fyzického	AAIS2----1A----	Atr
+28	pohybu	NNIS2-----A----	Atr
+29	materiálu	NNIS2-----A----	Atr
+30	,	Z:-------------	AuxX
+31	polotovarů	NNIP2-----A----	Atr
+32	a	J^-------------	Coord
+33	výrobků	NNIP2-----A----	Atr
+34	v	RR--6----------	AuxP
+35	celém	AAIS6----1A----	Atr
+36	procesu	NNIS6-----A---1	AtrAtr
+37	oběhu	NNIS2-----A----	Atr
+38	kapitálu	NNIS2-----A----	Atr
+39	.	Z:-------------	AuxK
+
+ln95049-142-p2s10
+1	Autor	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	dlouholetý	AAMS1----1A----	Atr
+4	poradce	NNMS1-----A----	Pnom
+5	v	RR--6----------	AuxP
+6	oblasti	NNFS6-----A----	AuxP
+7	logistiky	NNFS2-----A----	Atr
+8	jednak	J^-------------	AuxY
+9	u	RR--2----------	AuxP
+10	některých	PZXP2----------	Atr
+11	firem	NNFP2-----A----	AtrAdv
+12	uváděných	AAFP2----1A----	Atr
+13	v	RR--6----------	AuxP
+14	knize	NNFS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	jednak	J^-------------	Coord
+17	u	RR--2----------	AuxP
+18	známé	AAFS2----1A----	Atr
+19	firmy	NNFS2-----A----	AtrAdv
+20	Quelle	NNNXX-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95049-142-p2s11
+1	Proto	J^-------------	Coord
+2	je	VB-S---3P-AA---	Pred
+3	publikace	NNFS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	se	P7-X4----------	AuxT
+7	opírá	VB-S---3P-AA---	Atr
+8	o	RR--4----------	AuxP
+9	moderní	AAIP4----1A----	Atr
+10	teoretické	AAIP4----1A----	Atr
+11	poznatky	NNIP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	tak	Db-------------	Adv
+14	přitažlivá	AAFS1----1A----	Pnom
+15	i	J^-------------	AuxZ
+16	pro	RR--4----------	AuxP
+17	praktiky	NNMP4-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln95049-142-p2s12
+1	Nabízí	VB-S---3P-AA---	Pred
+2	možnosti	NNFP4-----A----	Obj
+3	řešení	NNNS2-----A----	Atr
+4	,	Z:-------------	Coord
+5	přičemž	J,-------------	Adv
+6	reálně	Dg-------1A----	Adv
+7	ukazuje	VB-S---3P-AA---	Pred
+8	i	J^-------------	AuxZ
+9	jejich	PSXXXXP3-------	Atr
+10	meze	NNFP4-----A----	Obj
+11	.	Z:-------------	AuxK
+

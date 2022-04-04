@@ -1,0 +1,417 @@
+ln94210-71-p1s1
+1	Děravý	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	ExD
+
+ln94210-71-p2s1A
+1	Komentář	NNIS1-----A----	ExD
+
+ln94210-71-p2s1B
+1	István	NNMS1-----A----	Atr
+2	Lékó	NNMS1-----A----	ExD
+
+ln94210-71-p2s1C
+1	Převedu	VB-S---1P-AA---	Pred
+2	nemovitosti	NNFP4-----A----	Obj
+3	státního	AAIS2----1A----	Atr
+4	majetku	NNIS2-----A----	Atr
+5	do	RR--2----------	AuxP
+6	Vašich	PSXP2-P2-------	Atr
+7	soukromých	AAFP2----1A----	Atr
+8	rukou	NNFP2-----A----	Adv
+9	bez	RR--2----------	AuxP
+10	vědomí	NNNS2-----A----	Adv
+11	ministerstva	NNNS2-----A----	Atr
+12	privatizace	NNFS2-----A----	Atr
+13	,	Z:-------------	Coord
+14	Fondu	NNIS2-----A----	Atr
+15	národního	AAIS2----1A----	Atr
+16	majetku	NNIS2-----A----	Atr
+17	a	J^-------------	Coord
+18	jakýchkoliv	PZXP2----------	Atr
+19	investic	NNFP2-----A---1	Adv
+20	.	Z:-------------	AuxK
+
+ln94210-71-p2s2
+1	Podmínka	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	nějaký	PZYS1----------	Atr
+4	schopný	AAMS1----1A----	Atr
+5	ekonom	NNMS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	vedení	NNNS2-----A----	Atr
+8	státního	AAIS2----1A----	Atr
+9	podniku	NNIS2-----A----	Atr
+10	musí	VB-S---3P-AA---	Pred
+11	za	RR--7----------	AuxP
+12	zády	NNNP7-----A----	Adv
+13	ředitele	NNMS2-----A----	Atr
+14	spolupracovat	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94210-71-p2s3
+1	Zn	NNFXX-----A---8	ExD
+2	.	Z:-------------	AuxG
+3	:	Z:-------------	Apos
+4	Zákonnost	NNFS1-----A----	ExD
+5	zaručena	VsQW---XX-AP---	ExD
+6	.	Z:-------------	AuxK
+
+ln94210-71-p2s4
+1	Co	PQ--1----------	Sb
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	stalo	VpNS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	kdyby	J,-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	v	RR--6----------	AuxP
+9	českých	AAFP6----1A----	Atr
+10	novinách	NNFP6-----A----	Adv
+11	objevil	VpYS---XR-AA---	Adv
+12	takovýto	PDYS1----------	Atr
+13	inzerát	NNIS1-----A----	Sb
+14	?	Z:-------------	AuxK
+
+ln94210-71-p2s5
+1	Inzerent	NNMS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	zakázek	NNFP2-----A----	Atr
+5	dost	Dg-------1A----	Obj
+6	a	J^-------------	Coord
+7	řada	NNFS1-----A----	Sb
+8	ředitelů	NNMP2-----A----	Atr
+9	státních	AAIP2----1A----	Atr
+10	podniků	NNIP2-----A----	Atr
+11	by	Vc-------------	AuxV
+12	pak	Db-------------	Adv
+13	po	RR--6----------	AuxP
+14	několika	Ca--6----------	Atr
+15	měsících	NNIP6-----A----	Adv
+16	s	RR--7----------	AuxP
+17	úžasem	NNIS7-----A----	Adv
+18	zjistila	VpQW---XR-AA---	Pred
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	domy	NNIP1-----A----	Sb
+22	a	J^-------------	Coord
+23	pozemky	NNIP1-----A----	Sb
+24	,	Z:-------------	AuxX
+25	které	P4YP4----------	Obj
+26	dosud	Db-------------	Adv
+27	vlastnil	VpYS---XR-AA---	Atr
+28	stát	NNIS1-----A----	Sb
+29	,	Z:-------------	AuxX
+30	se	P7-X4----------	AuxT
+31	rázem	NNIS7-----A----	Adv
+32	staly	VpTP---XR-AA---	Obj
+33	majetkem	NNIS7-----A----	Obj
+34	soukromé	AAFS2----1A----	Atr
+35	osoby	NNFS2-----A----	Atr
+36	.	Z:-------------	AuxK
+
+ln94210-71-p2s6
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	případ	NNIS1-----A----	Pnom
+4	dvou	ClXP2----------	Atr
+5	budov	NNFP2-----A----	Atr
+6	Státního	AANS2----1A----	Atr
+7	pedagogického	AANS2----1A----	Atr
+8	nakladatelství	NNNS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	centru	NNNS6-----A----	AtrAtr
+11	Prahy	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	jejichž	P1XXXXP3-------	Atr
+14	tržní	AAFS1----1A----	Atr
+15	cena	NNFS1-----A----	Sb
+16	se	P7-X4----------	AuxT
+17	pohybuje	VB-S---3P-AA---	Atr
+18	ve	RV--6----------	AuxP
+19	výši	NNFS6-----A----	Adv
+20	kolem	RR--2----------	AuxP
+21	400	C=-------------	Atr
+22	milionů	NNIP2-----A----	Atr
+23	korun	NNFP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94210-71-p2s7
+1	Nový	AAMS1----1A----	Atr
+2	majitel	NNMS1-----A----	Sb
+3	,	Z:-------------	Apos
+4	soukromá	AAFS1----1A----	Atr
+5	akciová	AAFS1----1A----	Atr
+6	společnost	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	kterou	P4FS4----------	Obj
+9	z	RR--2----------	AuxP
+10	velké	AAFS2----1A----	Atr
+11	části	NNFS2-----A----	Adv
+12	vlastní	VB-S---3P-AA---	Atr
+13	bývalý	AAMS1----1A----	Atr
+14	právník	NNMS1-----A----	Atr
+15	Státního	AANS2----1A----	Atr
+16	pedagogického	AANS2----1A----	Atr
+17	nakladatelství	NNNS2-----A----	Atr
+18	František	NNMS1-----A----	Atr
+19	Talián	NNMS1-----A----	Sb
+20	,	Z:-------------	AuxX
+21	si	P7-X3----------	Adv
+22	je	PPXP4--3-------	Obj
+23	pořídil	VpYS---XR-AA---	Pred
+24	za	RR--4----------	AuxP
+25	desetinu	CyFS4----------	Adv
+26	této	PDFS2----------	Atr
+27	sumy	NNFS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94210-71-p3s1
+1	Talián	NNMS1-----A----	Sb
+2	však	J^-------------	Coord
+3	měl	VpYS---XR-AA---	Pred
+4	za	RR--4----------	AuxP
+5	celý	AAIS4----1A----	Atr
+6	podnik	NNIS4-----A----	Obj
+7	zaplatit	Vf--------A----	Obj
+8	Fondu	NNIS3-----A----	Obj
+9	národního	AAIS2----1A----	Atr
+10	majetku	NNIS2-----A----	Atr
+11	170	C=-------------	Obj
+12	milionů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94210-71-p3s2
+1	Byla	VpQW---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	částka	NNFS1-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	kterou	P4FS4----------	Obj
+6	v	RR--6----------	AuxP
+7	obálkové	AAFS6----1A----	Atr
+8	soutěži	NNFS6-----A----	Adv
+9	za	RR--4----------	AuxP
+10	Státní	AANS4----1A----	Atr
+11	pedagogické	AANS4----1A----	Atr
+12	nakladatelství	NNNS4-----A----	Adv
+13	nabízel	VpYS---XR-AA---	Atr
+14	.	Z:-------------	AuxK
+
+ln94210-71-p3s3
+1	Fond	NNIS1-----A----	Sb
+2	tyto	PDIP4----------	Atr
+3	peníze	NNIP4-----A----	Obj
+4	už	Db-------------	AuxZ
+5	nikdy	Db-------------	Adv
+6	neuvidí	VB-S---3P-NA---	Pred
+7	.	Z:-------------	AuxK
+
+ln94210-71-p3s4
+1	Talián	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	však	J^-------------	Coord
+4	spokojený	AAMS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	protože	J,-------------	AuxC
+7	jeho	PSXXXZS3-------	Atr
+8	firma	NNFS1-----A----	Sb
+9	už	Db-------------	Adv
+10	získala	VpQW---XR-AA---	Adv
+11	dvě	ClHP4----------	Atr
+12	budovy	NNFP4-----A----	Obj
+13	podniku	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94210-71-p3s5
+1	Vše	PLNS4---------1	ExD
+2	,	Z:-------------	AuxX
+3	co	PQ--1----------	Sb
+4	z	RR--2----------	AuxP
+5	nakladatelství	NNNS2-----A----	Adv
+6	mělo	VpNS---XR-AA---	Atr
+7	hodnotu	NNFS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94210-71-p4s1
+1	Státní	AAIS1----1A----	Atr
+2	podnik	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	dnes	Db-------------	Adv
+5	doslova	Db-------------	Adv
+6	vybrakován	VsYS---XX-AP---	Pnom
+7	:	Z:-------------	Coord
+8	zůstalo	VpNS---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	něm	P5ZS6--3-------	Adv
+11	150	C=-------------	Sb
+12	zaměstnanců	NNMP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	na	RR--6----------	AuxP
+15	skladě	NNIS6-----A----	ExD
+16	tisíce	NNIP1-----A----	ExD
+17	knih	NNFP2-----A----	Atr
+18	a	J^-------------	Coord
+19	podvedený	AAMS1----1A----	Atr
+20	ředitel	NNMS1-----A----	ExD
+21	,	Z:-------------	AuxX
+22	kterého	P4MS4----------	Obj
+23	nový	AAMS1----1A----	Atr
+24	majitel	NNMS1-----A----	Sb
+25	už	Db-------------	Adv
+26	z	RR--2----------	AuxP
+27	jeho	PSXXXZS3-------	Atr
+28	kanceláře	NNFS2-----A----	Adv
+29	vystěhoval	VpYS---XR-AA---	Atr
+30	.	Z:-------------	AuxK
+
+ln94210-71-p4s2
+1	Kdo	PKM-1----------	Sb
+2	o	RR--4----------	AuxP
+3	tyto	PDFP4----------	Atr
+4	hodnoty	NNFP4-----A----	Atr
+5	projeví	VB-S---3P-AA---	Pred
+6	zájem	NNIS4-----A----	Obj
+7	?	Z:-------------	AuxK
+
+ln94210-71-p4s3
+1	Asi	TT-------------	AuxZ
+2	nikdo	PWM-1----------	ExD
+3	.	Z:-------------	AuxK
+
+ln94210-71-p4s4
+1	Státní	AANS1----1A----	Atr
+2	pedagogické	AANS1----1A----	Atr
+3	nakladatelství	NNNS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	nebo	J^-------------	Coord
+6	přesněji	Dg-------2A----	Adv
+7	řečeno	VsNS---XX-AP---	Adv
+8	,	Z:-------------	AuxX
+9	to	PDNS1----------	Sb
+10	,	Z:-------------	AuxX
+11	co	PQ--1----------	Sb
+12	z	RR--2----------	AuxP
+13	něj	P5ZS2--3-------	Obj
+14	zbylo	VpNS---XR-AA---	Atr
+15	,	Z:-------------	AuxX
+16	zřejmě	Dg-------1A----	AuxY
+17	půjde	VB-S---3F-AA---	Pred
+18	do	RR--2----------	AuxP
+19	likvidace	NNFS2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94210-71-p4s5
+1	Zakladatel	NNMS1-----A----	Sb
+2	podniku	NNIS2-----A----	Atr
+3	-	Z:-------------	Apos
+4	ministerstvo	NNNS1-----A----	Sb
+5	školství	NNNS2-----A----	Atr
+6	-	Z:-------------	AuxG
+7	však	J^-------------	Coord
+8	tvrdí	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	tuto	PDFS4----------	Atr
+12	možnost	NNFS4-----A----	Obj
+13	nepřipustí	VB-S---3P-NA---	Obj
+14	a	J^-------------	Coord
+15	záležitost	NNFS4-----A----	Obj
+16	hodlá	VB-S---3P-AA---	Obj
+17	řešit	Vf--------A----	Obj
+18	soudní	AAFS7----1A----	Atr
+19	cestou	NNFS7-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94210-71-p4s6
+1	Situace	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	však	J^-------------	Coord
+4	taková	PDFS1----------	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	soud	NNIS1-----A----	Sb
+8	zřejmě	Dg-------1A----	AuxY
+9	bude	VB-S---3F-AA---	AuxV
+10	muset	Vf--------A----	Adv
+11	dát	Vf--------A----	Obj
+12	za	RR--4----------	AuxP
+13	pravdu	NNFS4-----A----	Obj
+14	profesionálnímu	AAMS3----1A----	Atr
+15	právníkovi	NNMS3-----A----	Obj
+16	a	J^-------------	Coord
+17	profesionálnímu	AAMS3----1A----	Atr
+18	ekonomovi	NNMS3-----A----	Obj
+19	,	Z:-------------	AuxX
+20	kteří	P4MP1----------	Sb
+21	díky	RR--3----------	AuxP
+22	díře	NNFS3-----A----	Adv
+23	v	RR--6----------	AuxP
+24	zákoně	NNIS6-----A----	Atr
+25	o	RR--6----------	AuxP
+26	velké	AAFS6----1A----	Atr
+27	privatizaci	NNFS6-----A----	Atr
+28	obě	ClHP4----------	Atr
+29	budovy	NNFP4-----A----	Obj
+30	státního	AANS2----1A----	Atr
+31	nakladatelství	NNNS2-----A----	Atr
+32	převedli	VpMP---XR-AA---	Atr
+33	do	RR--2----------	AuxP
+34	soukromých	AAFP2----1A----	Atr
+35	rukou	NNFP2-----A----	Adv
+36	.	Z:-------------	AuxK
+
+ln94210-71-p4s7
+1	K	RR--3----------	AuxP
+2	uskutečnění	NNNS3-----A----	Adv
+3	převodu	NNIS2-----A----	Atr
+4	nebylo	VpNS---XR-NA---	Pred
+5	třeba	ACNS------A----	Pnom
+6	ani	J^-------------	AuxY
+7	ministerstva	NNNS2-----A----	Sb
+8	privatizace	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ani	J^-------------	Coord
+11	Fondu	NNIS2-----A----	Sb
+12	národního	AAIS2----1A----	Atr
+13	majetku	NNIS2-----A----	Atr
+14	,	Z:-------------	Coord
+15	pouze	Db-------------	AuxZ
+16	nedokonalého	AAIS2----1N----	Atr
+17	zákona	NNIS2-----A----	Sb
+18	o	RR--6----------	AuxP
+19	velké	AAFS6----1A----	Atr
+20	privatizaci	NNFS6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94210-71-p5s1
+1	Tento	PDYS1----------	Atr
+2	zákon	NNIS1-----A----	Sb
+3	sice	Db-------------	AuxY
+4	zakazuje	VB-S---3P-AA---	Pred
+5	prodej	NNIS4-----A----	Obj
+6	majetku	NNIS2-----A----	Atr
+7	státního	AAIS2----1A----	Atr
+8	podniku	NNIS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	průběhu	NNIS6-----A----	AuxP
+11	privatizace	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	umožňuje	VB-S---3P-AA---	Pred
+15	zastavit	Vf--------A----	Obj
+16	jeho	PSXXXZS3-------	Atr
+17	nemovitý	AAIS4----1N----	Atr
+18	majetek	NNIS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94210-71-p5s2
+1	Díky	RR--3----------	AuxP
+2	této	PDFS3----------	Atr
+3	skulince	NNFS3-----A----	Adv
+4	přišlo	VpNS---XR-AA---	Pred
+5	nakladatelství	NNNS1-----A----	Sb
+6	o	RR--4----------	AuxP
+7	své	P8FP4---------1	Atr
+8	budovy	NNFP4-----A----	Obj
+9	.	Z:-------------	AuxK
+

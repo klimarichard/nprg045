@@ -1,0 +1,190 @@
+ln94204-24-p1s1
+1	OKD	NNIPX-----A---8	Sb
+2	Doprava	NNFS1-----A----	Atr
+3	bude	VB-S---3F-AA---	Pred
+4	druhým	CrMS7----------	Atr
+5	soukromým	AAMS7----1A----	Atr
+6	železničním	AAMS7----1A----	Atr
+7	dopravcem	NNMS7-----A----	Pnom
+
+ln94204-24-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94204-24-p2s1B
+1	České	AAFP1----1A----	Atr
+2	dráhy	NNFP1-----A----	Sb
+3	a	J^-------------	Coord
+4	společnost	NNFS1-----A----	Sb
+5	OKD	NNIPX-----A---8	Atr
+6	Doprava	NNFS1-----A----	Atr
+7	připravily	VpTP---XR-AA---	Pred
+8	smlouvu	NNFS4-----A----	Obj
+9	o	RR--6----------	AuxP
+10	vstupu	NNIS6-----A----	Atr
+11	této	PDFS2----------	Atr
+12	společnosti	NNFS2-----A----	Atr
+13	na	RR--4----------	AuxP
+14	železniční	AAFP4----1A----	Atr
+15	tratě	NNFP4-----A----	Atr
+16	ostravského	AAIS2----1A----	Atr
+17	regionu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-24-p2s2
+1	Bude	VB-S---3F-AA---	Pred
+2	to	PDNS1----------	Sb
+3	již	Db-------------	AuxZ
+4	druhý	CrMS1----------	Atr
+5	soukromý	AAMS1----1A----	Atr
+6	dopravce	NNMS1-----A----	Pnom
+7	na	RR--6----------	AuxP
+8	české	AAFS6----1A----	Atr
+9	železnici	NNFS6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94204-24-p3s1
+1	Podle	RR--2----------	AuxP
+2	Českých	AAFP2----1A----	Atr
+3	drah	NNFP2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	návrh	NNIS1-----A----	Sb
+6	prakticky	Dg-------1A----	Adv
+7	hotov	ACYS------A----	Pnom
+8	a	J^-------------	Coord
+9	smlouva	NNFS1-----A----	Sb
+10	má	VB-S---3P-AA---	Pred
+11	být	Vf--------A----	AuxV
+12	podepsána	VsQW---XX-AP---	Obj
+13	v	RR--6----------	AuxP
+14	září	NNNS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94204-24-p4s1
+1	OKD	NNIPX-----A---8	Sb
+2	Doprava	NNFS1-----A----	Atr
+3	bude	VB-S---3F-AA---	AuxV
+4	provozovat	Vf--------A----	Pred
+5	asi	TT-------------	AuxZ
+6	pět	Cn-S4----------	Obj
+7	tratí	NNFP2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	ostravské	AAFS6----1A----	Atr
+10	aglomeraci	NNFS6-----A----	AtrAdv
+11	,	Z:-------------	AuxX
+12	a	J^-------------	AuxY
+13	to	PDNS4----------	AuxY
+14	jak	J^-------------	AuxY
+15	pro	RR--4----------	AuxP
+16	nákladní	AAFS4----1A----	Atr
+17	dopravu	NNFS4-----A----	Atr
+18	,	Z:-------------	AuxX
+19	tak	J^-------------	Coord
+20	i	J^-------------	AuxZ
+21	pro	RR--4----------	AuxP
+22	dopravu	NNFS4-----A----	Atr
+23	svých	P8XP2----------	Atr
+24	hnacích	AANP2----1A----	Atr
+25	a	J^-------------	Coord
+26	služebních	AANP2----1A----	Atr
+27	vozidel	NNNP2-----A----	Atr
+28	na	RR--6----------	AuxP
+29	těchto	PDXP6----------	Atr
+30	tratích	NNFP6-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94204-24-p4s2
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	nedořešeným	AAFP3----1N----	Atr
+4	legislativním	AAFP3----1A----	Atr
+5	otázkám	NNFP3-----A----	Adv
+6	nebude	VB-S---3F-NA---	Pred
+7	podle	RR--2----------	AuxP
+8	Skády	NNMS2-----A----	Adv
+9	možné	AANS1----1A----	Pnom
+10	využívat	Vf--------A----	Sb
+11	pouze	Db-------------	AuxZ
+12	železniční	AAIS4----1A----	Atr
+13	úsek	NNIS4-----A----	Obj
+14	do	RR--2----------	AuxP
+15	Chalupek	NNFP2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	Polsku	NNNS6-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-24-p5s1
+1	O	RR--6----------	AuxP
+2	vstupu	NNIS6-----A----	Obj
+3	na	RR--4----------	AuxP
+4	železnici	NNFS4-----A----	Atr
+5	jednají	VB-P---3P-AA---	Pred
+6	další	AAMP1----1A----	Atr
+7	žadatelé	NNMP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94204-24-p5s2
+1	Počátkem	NNIS7-----A----	AuxP
+2	července	NNIS2-----A----	Adv
+3	povolilo	VpNS---XR-AA---	Pred
+4	ministerstvo	NNNS1-----A----	Sb
+5	dopravy	NNFS2-----A----	Atr
+6	společnosti	NNFS3-----A----	Obj
+7	Sokolovská	AAFS1----1A----	ExD
+8	uhelná	AAFS1----1A----	ExD
+9	používat	Vf--------A----	Obj
+10	železniční	AAFS4----1A----	Atr
+11	dopravní	AAFS4----1A----	Atr
+12	cestu	NNFS4-----A----	Obj
+13	v	RR--6----------	AuxP
+14	traťovém	AAIS6----1A----	Atr
+15	úseku	NNIS6-----A----	Adv
+16	Nové	AANS1----1A----	Atr
+17	Sedlo	NNNS1-----A----	Atr
+18	u	RR--2----------	AuxP
+19	Lokte	NNIS2-----A----	Atr
+20	-	Z:-------------	AuxG
+21	Dalovice	NNFP1-----A----	Atr
+22	a	J^-------------	Coord
+23	Ostrov	NNIS1-----A----	Atr
+24	nad	RR--7----------	AuxP
+25	Ohří	NNFS7-----A----	Atr
+26	,	Z:-------------	AuxX
+27	a	J^-------------	AuxY
+28	to	PDNS4----------	AuxY
+29	pro	RR--4----------	AuxP
+30	nákladní	AAFS4----1A----	Atr
+31	dopravu	NNFS4-----A----	Adv
+32	.	Z:-------------	AuxK
+
+ln94204-24-p5s3
+1	Tato	PDFS1----------	Atr
+2	firma	NNFS1-----A----	Sb
+3	také	Db-------------	Adv
+4	vlastní	VB-S---3P-AA---	Pred
+5	povolení	NNNS4-----A----	Obj
+6	pro	RR--4----------	AuxP
+7	přepravu	NNFS4-----A----	Atr
+8	svých	P8XP2----------	Atr
+9	zaměstnanců	NNMP2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	úseku	NNIS6-----A----	Atr
+12	Nové	AANS1----1A----	Atr
+13	Sedlo	NNNS1-----A----	Atr
+14	u	RR--2----------	AuxP
+15	Lokte	NNIS2-----A----	Atr
+16	-	Z:-------------	Coord
+17	Sokolov	NNIS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-24-p5s4
+1	Příslušná	AAFS1----1A----	Atr
+2	smlouva	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měla	VpQW---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	podepsána	VsQW---XX-AP---	Obj
+7	v	RR--6----------	AuxP
+8	říjnu	NNIS6-----A----	Adv
+9	.	Z:-------------	AuxK
+

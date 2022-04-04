@@ -1,0 +1,463 @@
+mf930713-069-p1s1
+1	V	RR--6----------	AuxP
+2	podnicích	NNIP6-----A----	ExD
+3	mírné	AAFP1----1A----	Atr
+4	obavy	NNFP1-----A----	ExD
+5	z	RR--2----------	AuxP
+6	devalvace	NNFS2-----A----	Atr
+
+mf930713-069-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	eko	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	rep	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930713-069-p2s1B
+1	Sobotní	AAFS1----1A----	Atr
+2	devalvace	NNFS1-----A----	Sb
+3	slovenské	AAFS2----1A----	Atr
+4	koruny	NNFS2-----A----	Atr
+5	o	RR--4----------	AuxP
+6	deset	Cn-S4----------	Atr
+7	procent	NNNP2-----A----	Atr
+8	může	VB-S---3P-AA---	Pred
+9	v	RR--6----------	AuxP
+10	České	AAFS6----1A----	Atr
+11	republice	NNFS6-----A----	Adv
+12	způsobit	Vf--------A----	Obj
+13	převis	NNIS4-----A----	Obj
+14	nabídky	NNFS2-----A----	Atr
+15	určitého	AANS2----1A----	Atr
+16	zboží	NNNS2-----A----	Atr
+17	a	J^-------------	Coord
+18	snížit	Vf--------A----	Obj
+19	jeho	PSXXXZS3-------	Atr
+20	domácí	AAFS4----1A----	Atr
+21	cenu	NNFS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+mf930713-069-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ministr	NNMS1-----A----	Atr
+5	průmyslu	NNIS2-----A----	Atr
+6	Vladimír	NNMS1-----A----	Atr
+7	Dlouhý	NNMS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+mf930713-069-p2s3
+1	Neupřesnil	VpYS---XR-NA---	Pred
+2	však	J^-------------	Coord
+3	,	Z:-------------	AuxX
+4	u	RR--2----------	AuxP
+5	jakých	P4XP2----------	Atr
+6	komodit	NNFP2-----A----	Adv
+7	by	Vc-------------	AuxV
+8	mohl	VpYS---XR-AA---	Obj
+9	převis	NNIS1-----A----	Sb
+10	vzniknout	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+
+mf930713-069-p3s1
+1	"	Z:-------------	AuxG
+2	Do	RR--2----------	AuxP
+3	této	PDFS2----------	Atr
+4	chvíle	NNFS2-----A----	Adv
+5	nevím	VB-S---1P-NA---	Obj
+6	víc	Dg-------2A---1	Obj
+7	,	Z:-------------	AuxX
+8	než	J,-------------	AuxC
+9	jsem	VB-S---1P-AA---	AuxV
+10	se	P7-X4----------	AuxT
+11	dozvěděl	VpYS---XR-AA---	Adv
+12	ze	RV--2----------	AuxP
+13	sdělovacích	AAIP2----1A----	Atr
+14	prostředků	NNIP2-----A----	Adv
+15	a	J^-------------	Coord
+16	soukromými	AAFP7----1A----	Atr
+17	konzultacemi	NNFP7-----A----	Adv
+18	,	Z:-------------	AuxX
+19	"	Z:-------------	AuxG
+20	uvedl	VpYS---XR-AA---	Pred
+21	ministr	NNMS1-----A----	Atr
+22	Dlouhý	NNMS1-----A----	Sb
+23	,	Z:-------------	AuxX
+24	který	P4YS1----------	Sb
+25	je	VB-S---3P-AA---	Atr
+26	také	Db-------------	Adv
+27	předsedou	NNMS7-----A----	Pnom
+28	Rady	NNFS2-----A----	Atr
+29	celní	AAFS2----1A----	Atr
+30	unie	NNFS2-----A----	Atr
+31	existující	AGFS2-----A----	Atr
+32	mezi	RR--7----------	AuxP
+33	ČR	NNFXX-----A---8	Adv
+34	a	J^-------------	Coord
+35	SR	NNFXX-----A---8	Adv
+36	.	Z:-------------	AuxK
+
+mf930713-069-p3s2
+1	"	Z:-------------	AuxG
+2	Je	VB-S---3P-AA---	Pred
+3	otázkou	NNFS7-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	se	P7-X4----------	AuxT
+7	slovenská	AAFS1----1A----	Atr
+8	strana	NNFS1-----A----	Sb
+9	postaví	VB-S---3P-AA---	Sb
+10	k	RR--3----------	AuxP
+11	problému	NNIS3-----A----	Obj
+12	dovozní	AAFS2----1A----	Atr
+13	přirážky	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930713-069-p3s3
+1	Kumulace	NNFS1-----A----	Sb
+2	devalvace	NNFS2-----A----	Atr
+3	s	RR--7----------	AuxP
+4	přirážkou	NNFS7-----A----	Atr
+5	by	Vc-------------	AuxV
+6	znamenala	VpQW---XR-AA---	Obj
+7	zhoršení	NNNS4-----A----	Obj
+8	pozice	NNFS2-----A----	Atr
+9	českých	AAMP2----1A----	Atr
+10	exportérů	NNMP2-----A----	Atr
+11	na	RR--6----------	AuxP
+12	slovenském	AAIS6----1A----	Atr
+13	trhu	NNIS6-----A----	AtrAtr
+14	takovým	PDZS7----------	Atr
+15	způsobem	NNIS7-----A----	Atr
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	by	Vc-------------	AuxV
+19	to	PDNS4----------	Obj
+20	naši	PSMP1-P1-------	Atr
+21	výrobci	NNMP1-----A----	Sb
+22	pocítili	VpMP---XR-AA---	Atr
+23	,	Z:-------------	AuxX
+24	"	Z:-------------	AuxG
+25	dodal	VpYS---XR-AA---	Pred
+26	Dlouhý	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+mf930713-069-p4s1
+1	Plánovaná	AAFS1----1A----	Atr
+2	přirážka	NNFS1-----A----	Sb
+3	a	J^-------------	Coord
+4	provedená	AAFS1----1A----	Atr
+5	devalvace	NNFS1-----A----	Sb
+6	slovenské	AAFS2----1A----	Atr
+7	koruny	NNFS2-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	mohou	VB-P---3P-AA--1	Pred
+10	negativně	Dg-------1A----	Adv
+11	promítnout	Vf--------A----	Obj
+12	např	Db------------8	AuxZ
+13	.	Z:-------------	AuxG
+14	do	RR--2----------	AuxP
+15	vývozu	NNIS2-----A----	Adv
+16	karlovarské	AAFS2----1A----	Atr
+17	Becherovky	NNFS2-----A----	Atr
+18	na	RR--4----------	AuxP
+19	Slovensko	NNNS4-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf930713-069-p4s2
+1	Náš	PSYS1-P1-------	Atr
+2	východní	AAMS1----1A----	Atr
+3	soused	NNMS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	největším	AAMS7----3A----	Atr
+6	zahraničním	AAMS7----1A----	Atr
+7	odběratelem	NNMS7-----A----	Pnom
+8	likéru	NNIS2-----A----	Atr
+9	s	RR--7----------	AuxP
+10	měsíčním	AAIS7----1A----	Atr
+11	odběrem	NNIS7-----A----	Atr
+12	asi	TT-------------	AuxZ
+13	tisíc	ClXS2----------	Atr
+14	hektolitrů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf930713-069-p4s3
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	šéf	NNMS1-----A----	Atr
+4	firmy	NNFS2-----A----	Atr
+5	Václav	NNMS1-----A----	Atr
+6	Lupínek	NNMS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+mf930713-069-p5s1
+1	"	Z:-------------	AuxG
+2	Devalvace	NNFS1-----A----	Sb
+3	slovenské	AAFS2----1A----	Atr
+4	koruny	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Obj
+6	pro	RR--4----------	AuxP
+7	nás	PP-P4--1-------	Adv
+8	příznivá	AAFS1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	"	Z:-------------	AuxG
+11	uvedl	VpYS---XR-AA---	Pred
+12	naopak	Db-------------	AuxY
+13	Zbyněk	NNMS1-----A----	Atr
+14	Plesar	NNMS1-----A----	Sb
+15	,	Z:-------------	Apos
+16	ředitel	NNMS1-----A----	Sb
+17	výrobce	NNMS2-----A----	Atr
+18	nábytku	NNIS2-----A----	Atr
+19	TON	NNMS1-----A----	AtrAtr
+20	Bystřice	NNFS1-----A----	Atr
+21	pod	RR--7----------	AuxP
+22	Hostýnem	NNIS7-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf930713-069-p5s2
+1	Firma	NNFS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	Slovensko	NNNS4-----A----	Adv
+4	prakticky	Dg-------1A----	Adv
+5	nevyváží	VB-S---3P-NA---	Pred
+6	,	Z:-------------	AuxX
+7	dováží	VB-S---3P-AA---	Pred
+8	však	J^-------------	Coord
+9	odsud	Db-------------	Adv
+10	značnou	AAFS4----1A----	Atr
+11	část	NNFS4-----A----	Obj
+12	dřevěné	AAFS2----1A----	Atr
+13	suroviny	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930713-069-p5s3
+1	"	Z:-------------	AuxG
+2	Pokud	J,-------------	AuxC
+3	po	RR--6----------	AuxP
+4	devalvaci	NNFS6-----A----	Adv
+5	nebude	VB-S---3F-NA---	AuxV
+6	hned	Db-------------	Adv
+7	následovat	Vf--------A----	Adv
+8	zvýšení	NNNS1-----A----	Sb
+9	cen	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	zlevnění	NNNS4-----A----	Obj
+12	dovážené	AAFS2----1A----	Atr
+13	suroviny	NNFS2-----A----	Atr
+14	jen	TT-------------	AuxZ
+15	uvítáme	VB-P---1P-AA---	Obj
+16	,	Z:-------------	AuxX
+17	"	Z:-------------	AuxG
+18	řekl	VpYS---XR-AA---	Pred
+19	.	Z:-------------	AuxK
+
+mf930713-069-p6s1
+1	Vývoz	NNIS1-----A----	Sb
+2	českého	AANS2----1A----	Atr
+3	piva	NNNS2-----A----	Atr
+4	na	RR--4----------	AuxP
+5	Slovensko	NNNS4-----A----	Atr
+6	by	Vc-------------	AuxV
+7	neměl	VpYS---XR-NA---	Pred
+8	být	Vf--------A----	Obj
+9	ohrožen	VsYS---XX-AP---	Pnom
+10	.	Z:-------------	AuxK
+
+mf930713-069-p6s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	vedoucí	NNMS1-----A----	Atr
+4	vnitřního	AAIS2----1A----	Atr
+5	obchodu	NNIS2-----A----	Atr
+6	a	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	s	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Pražské	AAIP1----1A----	Atr
+11	pivovary	NNIP1-----A----	Atr
+12	Jiří	NNMS1-----A----	Atr
+13	Kmínek	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf930713-069-p6s4
+1	Tento	PDYS1----------	Atr
+2	výrobce	NNMS1-----A----	Sb
+3	zatím	Db-------------	Adv
+4	nezaznamenal	VpYS---XR-NA---	Pred
+5	žádné	PWNS4----------	Atr
+6	odhlašování	NNNS4-----A----	Obj
+7	objednávek	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930713-069-p6s5
+1	Zdroj	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	si	P7-X3----------	AuxT
+5	nepřeje	VB-S---3P-NA---	Atr
+6	být	Vf--------A----	Obj
+7	jmenován	VsYS---XX-AP---	Pnom
+8	,	Z:-------------	AuxX
+9	uvedl	VpYS---XR-AA---	Pred
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	export	NNIS1-----A----	Sb
+13	českého	AANS2----1A----	Atr
+14	piva	NNNS2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	Slovensko	NNNS4-----A----	Atr
+17	nebude	VB-S---3F-NA---	AuxV
+18	pravděpodobně	Dg-------1A----	AuxY
+19	postižen	VsYS---XX-AP---	Obj
+20	ani	J^-------------	AuxZ
+21	po	RR--6----------	AuxP
+22	zavedení	NNNS6-----A----	Adv
+23	dovozní	AAFS2----1A----	Atr
+24	přirážky	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf930713-069-p6s6
+1	Ta	PDFS1----------	Sb
+2	má	VB-S---3P-AA---	Pred
+3	údajně	Dg-------1A----	Adv
+4	činit	Vf--------A----	Obj
+5	19	C=-------------	Obj
+6	procent	NNNP2-----A----	Atr
+7	a	J^-------------	Coord
+8	slovenští	AAMP1----1A----	Atr
+9	pivovarníci	NNMP1-----A----	Sb
+10	chtějí	VB-P---3P-AA---	Pred
+11	po	RR--6----------	AuxP
+12	jejím	PSZS6FS3-------	Atr
+13	zavedení	NNNS6-----A----	Adv
+14	okamžitě	Dg-------1A----	Adv
+15	zvýšit	Vf--------A----	Obj
+16	cenu	NNFS4-----A----	Obj
+17	svých	P8XP2----------	Atr
+18	piv	NNNP2-----A----	Atr
+19	o	RR--4----------	AuxP
+20	25	C=-------------	Adv
+21	procent	NNNP2-----A----	Atr
+22	,	Z:-------------	Coord
+23	což	PE--1----------	Sb
+24	by	Vc-------------	AuxV
+25	srovnalo	VpNS---XR-AA---	Pred
+26	podmínky	NNFP4-----A----	Obj
+27	.	Z:-------------	AuxK
+
+mf930713-069-p7s1
+1	K	RR--3----------	AuxP
+2	žádnému	PWZS3----------	Atr
+3	výraznému	AAIS3----1A----	Atr
+4	poklesu	NNIS3-----A----	Obj
+5	odbytu	NNIS2-----A----	Atr
+6	směrem	NNIS7-----A----	AuxP
+7	na	RR--4----------	AuxP
+8	Slovensko	NNNS4-----A----	Atr
+9	podle	RR--2----------	AuxP
+10	názoru	NNIS2-----A----	Adv
+11	ředitele	NNMS2-----A----	Adv
+12	ElektroPragy	NNFS2-----A----	Atr
+13	Hlinsko	NNNS1-----A----	Atr
+14	Jiřího	NNMS2-----A----	Adv
+15	Konečného	NNMS2-----A----	Atr
+16	po	RR--6----------	AuxP
+17	devalvaci	NNFS6-----A----	Adv
+18	nedojde	VB-S---3P-NA---	Pred
+19	.	Z:-------------	AuxK
+
+mf930713-069-p7s2
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	zájmu	NNIS6-----A----	Adv
+4	zachování	NNNS2-----A----	Atr
+5	trhu	NNIS2-----A----	Atr
+6	snížíme	VB-P---1P-AA---	Pred
+7	ceny	NNFP4-----A----	Obj
+8	o	RR--4----------	AuxP
+9	pět	Cn-S4----------	Adv
+10	procent	NNNP2-----A----	Atr
+11	a	J^-------------	Coord
+12	očekáváme	VB-P---1P-AA---	Pred
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	vláda	NNFS1-----A----	Sb
+16	také	Db-------------	Adv
+17	upraví	VB-S---3P-AA---	Obj
+18	současný	AAIS4----1A----	Atr
+19	kurs	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+21	"	Z:-------------	AuxG
+
+mf930713-069-p8s1
+1	Výše	NNFS1-----A----	Sb
+2	jízdného	NNNS2-----A----	Atr
+3	u	RR--2----------	AuxP
+4	autobusových	AAFP2----1A----	Atr
+5	linek	NNFP2-----A----	Atr
+6	mezi	RR--7----------	AuxP
+7	Českou	AAFS7----1A----	Atr
+8	a	J^-------------	Coord
+9	Slovenskou	AAFS7----1A----	Atr
+10	republikou	NNFS7-----A----	Atr
+11	zůstala	VpQW---XR-AA---	Pred
+12	i	J^-------------	AuxZ
+13	přes	RR--4----------	AuxP
+14	sobotní	AAFS4----1A----	Atr
+15	devalvaci	NNFS4-----A----	Adv
+16	stejná	AAFS1----1A----	Obj
+17	.	Z:-------------	AuxK
+
+mf930713-069-p8s2
+1	Také	Db-------------	AuxZ
+2	železniční	AANS1----1A----	Atr
+3	jízdné	NNNS1-----A----	Sb
+4	a	J^-------------	Coord
+5	ceny	NNFP1-----A----	Sb
+6	letenek	NNFP2-----A----	Atr
+7	zůstávají	VB-P---3P-AA---	Pred
+8	na	RR--6----------	AuxP
+9	stejné	AAFS6----1A----	Atr
+10	úrovni	NNFS6-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf930713-069-p9s1
+1	Nezměnily	VpTP---XR-NA---	Pred
+2	se	P7-X4----------	AuxT
+3	ani	J^-------------	AuxZ
+4	tranzitní	AAIP1----1A----	Atr
+5	poplatky	NNIP1-----A----	Sb
+6	u	RR--2----------	AuxP
+7	ropovodu	NNIS2-----A----	Atr
+8	z	RR--2----------	AuxP
+9	Ruska	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-069-p9s2
+1	"	Z:-------------	AuxG
+2	Poplatky	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	AuxV
+4	vyrovnávány	VsTP---XX-AP---	Obj
+5	přes	RR--4----------	AuxP
+6	clearing	NNIS4-----A----	Adv
+7	,	Z:-------------	Coord
+8	devalvace	NNFS1-----A----	Sb
+9	se	P7-X4----------	AuxT
+10	dotkne	VB-S---3P-AA---	Obj
+11	pouze	Db-------------	AuxZ
+12	slovenské	AAFS2----1A----	Atr
+13	strany	NNFS2-----A----	Obj
+14	,	Z:-------------	AuxX
+15	"	Z:-------------	AuxG
+16	řekl	VpYS---XR-AA---	Pred
+17	ředitel	NNMS1-----A----	Atr
+18	společnosti	NNFS2-----A----	Atr
+19	Petrotrans	NNIS1-----A----	Atr
+20	Karel	NNMS1-----A----	Atr
+21	Fiedler	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+

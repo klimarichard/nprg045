@@ -1,0 +1,373 @@
+mf920922-044-p1s1A
+1	Pole	NNNS1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	léčebnu	NNFS4-----A----	Atr
+4	Kroměříž	NNFS1-----A----	Atr
+5	(	Z:-------------	ExD
+6	do	NNXXX-----A---8	ExD
+7	)	Z:-------------	ExD
+8	-	Z:-------------	ExD
+
+mf920922-044-p1s1B
+1	Navrácení	NNNS4-----A----	Obj
+2	50	C=-------------	Atr
+3	hektarů	NNIP2-----A----	Atr
+4	polí	NNNP2-----A----	Atr
+5	žádá	VB-S---3P-AA---	Pred
+6	Psychiatrická	AAFS1----1A----	Atr
+7	léčebna	NNFS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	Kroměříži	NNFS6-----A----	AtrAdv
+10	.	Z:-------------	AuxK
+
+mf920922-044-p1s2
+1	Před	RR--7----------	AuxP
+2	válkou	NNFS7-----A----	Adv
+3	měla	VpQW---XR-AA---	Pred
+4	léčebna	NNFS1-----A----	Sb
+5	svou	P8FS4---------1	Atr
+6	farmu	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	pěstovala	VpQW---XR-AA---	Pred
+9	krávy	NNFP4-----A----	Obj
+10	,	Z:-------------	Coord
+11	prasata	NNNP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	hospodařila	VpQW---XR-AA---	Pred
+14	na	RR--6----------	AuxP
+15	polích	NNNP6-----A----	Adv
+16	,	Z:-------------	Coord
+17	vedla	VpQW---XR-AA---	Pred
+18	velké	AANS4----1A----	Atr
+19	zahradnictví	NNNS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920922-044-p1s3
+1	V	RR--6----------	AuxP
+2	padesátých	CrNP6----------	Atr
+3	letech	NNNP6-----A----	Adv
+4	komunisté	NNMP1-----A----	Sb
+5	vše	PLNS4---------1	Obj
+6	zabavili	VpMP---XR-AA---	Pred
+7	.	Z:-------------	AuxK
+
+mf920922-044-p1s4
+1	Za	RR--2----------	AuxP
+2	první	CrFS2----------	Atr
+3	republiky	NNFS2-----A----	Adv
+4	tohle	PDNS1----------	Atr
+5	hospodářství	NNNS1-----A----	Sb
+6	krylo	VpNS---XR-AA---	Pred
+7	náklady	NNIP4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	provoz	NNIS4-----A----	Atr
+10	léčebny	NNFS2-----A----	Atr
+11	přibližně	Dg-------1A----	Adv
+12	z	RR--2----------	AuxP
+13	20	C=-------------	Adv
+14	procent	NNNP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920922-044-p1s5
+1	Pojišťovna	NNFS1-----A----	Sb
+2	přispívala	VpQW---XR-AA---	Pred
+3	30	C=-------------	Atr
+4	procenty	NNNP7-----A----	Adv
+5	,	Z:-------------	AuxX
+6	země	NNFS1-----A----	ExD
+7	dalšími	AANP7----1A----	Atr
+8	30	C=-------------	Atr
+9	procenty	NNNP7-----A----	ExD
+10	,	Z:-------------	Coord
+11	20	C=-------------	Obj
+12	procent	NNNP2-----A----	Atr
+13	si	P7-X3----------	Obj
+14	platili	VpMP---XR-AA---	Pred
+15	sami	PLMP1----------	Atr
+16	pacienti	NNMP1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+mf920922-044-p1s6
+1	Za	RR--2----------	AuxP
+2	současného	AAIS2----1A----	Atr
+3	stavu	NNIS2-----A----	Adv
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	se	P7-X4----------	AuxT
+7	léčebna	NNFS1-----A----	Sb
+8	potýká	VB-S---3P-AA---	Atr
+9	s	RR--7----------	AuxP
+10	obrovskými	AAFP7----1A----	Atr
+11	finančními	AAFP7----1A----	Atr
+12	potížemi	NNFP7-----A----	Obj
+13	,	Z:-------------	AuxX
+14	by	Vc-------------	AuxV
+15	ráda	ACQW------A----	AtvV
+16	znovu	Db-------------	Adv
+17	obnovila	VpQW---XR-AA---	Pred
+18	svoji	P8FS4----------	Atr
+19	farmu	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920922-044-p1s7
+1	Jen	TT-------------	AuxZ
+2	na	RR--4----------	AuxP
+3	elektrickou	AAFS4----1A----	Atr
+4	energii	NNFS4-----A----	Adv
+5	a	J^-------------	Coord
+6	otop	NNIS4-----A----	Adv
+7	chybí	VB-S---3P-AA---	Pred
+8	do	RR--2----------	AuxP
+9	konce	NNIS2-----A----	Adv
+10	roku	NNIS2-----A---1	Atr
+11	2.5	C=-------------	Sb
+12	miliónu	NNIS2-----A----	Atr
+13	korun	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920922-044-p1s8
+1	Určitý	AAIS4----1A----	Atr
+2	zisk	NNIS4-----A----	Obj
+3	sice	Db-------------	AuxY
+4	přinese	VB-S---3P-AA---	Pred
+5	od	RR--2----------	AuxP
+6	1	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	září	NNNS2-----A----	Adv
+9	otevřená	AAFS1----1A----	Atr
+10	vlastní	AAFS1----1A----	Atr
+11	lékárna	NNFS1-----A----	Sb
+12	pro	RR--4----------	AuxP
+13	potřebu	NNFS4-----A----	Atr
+14	léčebny	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	potíže	NNFP4-----A----	Obj
+17	s	RR--7----------	AuxP
+18	nedostatkem	NNIS7-----A----	Atr
+19	peněz	NNIP2-----A----	Atr
+20	ale	J^-------------	Coord
+21	nevyřeší	VB-S---3P-NA---	Pred
+22	.	Z:-------------	AuxK
+
+mf920922-044-p1s9
+1	Pokud	J,-------------	AuxC
+2	léčebna	NNFS1-----A----	Sb
+3	nedostane	VB-S---3P-NA---	Adv
+4	co	Db-------------	Adv
+5	nejdřív	Dg-------3A---2	Adv
+6	finanční	AAFS4----1A----	Atr
+7	injekci	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	bude	VB-S---3F-AA---	AuxV
+10	muset	Vf--------A----	Pred
+11	snižovat	Vf--------A----	Obj
+12	stavy	NNIP4-----A----	Obj
+13	pacientů	NNMP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	zavírat	Vf--------A----	Obj
+16	některé	PZYP4----------	Atr
+17	pavilóny	NNIP4-----A----	Obj
+18	,	Z:-------------	Coord
+19	propouštět	Vf--------A----	Obj
+20	zaměstnance	NNMP4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+mf920922-044-p1s10
+1	Vyhlídka	NNFS1-----A----	Sb
+2	do	RR--2----------	AuxP
+3	příštího	AAIS2----1A----	Atr
+4	roku	NNIS2-----A---1	Atr
+5	je	VB-S---3P-AA---	Pred
+6	ještě	Db-------------	AuxZ
+7	horší	AAFS2----2A----	Pnom
+8	.	Z:-------------	AuxK
+
+mf920922-044-p1s11
+1	Všeobecná	AAFS1----1A----	Atr
+2	zdravotní	AAFS1----1A----	Atr
+3	pojišťovna	NNFS1-----A----	Sb
+4	bude	VB-S---3F-AA---	AuxV
+5	hradit	Vf--------A----	Pred
+6	jen	TT-------------	AuxZ
+7	30	C=-------------	Obj
+8	procent	NNNP2-----A----	Atr
+9	všech	PLXP2----------	Atr
+10	nákladů	NNIP2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	provoz	NNIS4-----A----	Atr
+13	léčebny	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920922-044-p1s12
+1	Zákony	NNIP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4IP1----------	Sb
+4	by	Vc-------------	AuxV
+5	snížily	VpTP---XR-AA---	Atr
+6	psychiatrickým	AAFP3----1A----	Atr
+7	léčebnám	NNFP3-----A----	Adv
+8	daně	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	nebo	J^-------------	Coord
+11	umožnily	VpTP---XR-AA---	Atr
+12	vznik	NNIS4-----A----	Obj
+13	sociálních	AAIP2----1A----	Atr
+14	fondů	NNIP2-----A----	Atr
+15	dotujících	AGIP2-----A----	Atr
+16	jejich	PSXXXXP3-------	Atr
+17	činnost	NNFS4-----A----	Obj
+18	,	Z:-------------	AuxX
+19	zatím	Db-------------	Adv
+20	nejsou	VB-P---3P-NA---	Pred
+21	.	Z:-------------	AuxK
+
+mf920922-044-p1s13
+1	Pacienti	NNMP1-----A----	Sb
+2	patří	VB-P---3P-AA---	Pred
+3	většinou	Db-------------	Adv
+4	k	RR--3----------	AuxP
+5	sociálně	Dg-------1A----	Adv
+6	nejslabším	AAFP3----3A----	Atr
+7	skupinám	NNFP3-----A----	Obj
+8	a	J^-------------	Coord
+9	těžko	Db-------------	AuxY
+10	budou	VB-P---3F-AA---	AuxV
+11	mít	Vf--------A----	Pred
+12	peníze	NNIP4-----A----	Obj
+13	na	RR--4----------	AuxP
+14	doplácení	NNNS4-----A----	AtrAdv
+15	léčby	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920922-044-p1s14
+1	Náklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	jednoho	ClMS4----------	Atr
+4	pacienta	NNMS4-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	pohybují	VB-P---3P-AA---	Pred
+7	mezi	RR--7----------	AuxP
+8	210	C=-------------	Atr
+9	až	J^-------------	Coord
+10	230	C=-------------	Atr
+11	korunami	NNFP7-----A----	Adv
+12	na	RR--4----------	AuxP
+13	den	NNIS4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920922-044-p1s15
+1	Průměrná	AAFS1----1A----	Atr
+2	doba	NNFS1-----A----	Sb
+3	pobytu	NNIS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	léčebně	NNFS6-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	podle	RR--2----------	AuxP
+8	diagnózy	NNFS2-----A----	Adv
+9	30	C=-------------	Pnom
+10	až	J^-------------	Coord
+11	190	C=-------------	Pnom
+12	dnů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920922-044-p1s16
+1	Vlastní	AAFS1----1A----	Atr
+2	farma	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	proto	J^-------------	Coord
+5	byla	VpQW---XR-AA---	Pred
+6	vítaným	AAIS7----1A----	Atr
+7	zdrojem	NNIS7-----A----	Pnom
+8	příjmů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf920922-044-p1s17
+1	Privatizační	AAIS1----1A----	Atr
+2	projekt	NNIS1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	obnovení	NNNS4-----A----	Atr
+5	této	PDFS2----------	Atr
+6	farmy	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	jejíž	P1XP1FS3-------	Atr
+9	budovy	NNFP1-----A----	Sb
+10	a	J^-------------	Coord
+11	část	NNFS1-----A----	Sb
+12	pozemků	NNIP2-----A----	Atr
+13	se	P7-X4----------	AuxT
+14	nacházejí	VB-P---3P-AA---	Atr
+15	přímo	Dg-------1A----	AuxZ
+16	v	RR--6----------	AuxP
+17	areálu	NNIS6-----A---1	Adv
+18	léčebny	NNFS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	počítá	VB-S---3P-AA---	Pred
+21	s	RR--7----------	AuxP
+22	jejím	PSZS7FS3-------	Atr
+23	převedením	NNNS7-----A----	Obj
+24	do	RR--2----------	AuxP
+25	majetku	NNIS2-----A----	Atr
+26	města	NNNS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf920922-044-p1s18
+1	Město	NNNS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	pak	Db-------------	Adv
+4	farmu	NNFS4-----A----	Obj
+5	pronajímalo	VpNS---XR-AA---	Pred
+6	zpět	Db-------------	Adv
+7	léčebně	NNFS3-----A----	Obj
+8	.	Z:-------------	AuxK
+
+mf920922-044-p1s19
+1	Přímé	AANS1----1A----	Atr
+2	navrácení	NNNS1-----A----	Sb
+3	farmy	NNFS2-----A----	Atr
+4	léčebně	NNFS3-----A----	Atr
+5	momentálně	Dg-------1A----	Adv
+6	není	VB-S---3P-NA---	Pred
+7	možné	AANS1----1A----	Pnom
+8	.	Z:-------------	AuxK
+
+mf920922-044-p1s20
+1	Léčebna	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	zařazena	VsQW---XX-AP---	Pnom
+4	mezi	RR--4----------	AuxP
+5	zdravotnické	AAIP4----1A----	Atr
+6	objekty	NNIP4-----A----	Adv
+7	,	Z:-------------	AuxX
+8	které	P4IP1----------	Sb
+9	by	Vc-------------	AuxV
+10	neměly	VpTP---XR-NA---	Atr
+11	být	Vf--------A----	AuxV
+12	pět	Cn-S4----------	Adv
+13	let	NNNP2-----A----	Atr
+14	privatizovány	VsTP---XX-AP---	Obj
+15	.	Z:-------------	AuxK
+
+mf920922-044-p1s21
+1	Ministerstvo	NNNS1-----A----	Sb
+2	zemědělství	NNNS2-----A----	Atr
+3	privatizační	AAIS4----1A----	Atr
+4	projekt	NNIS4-----A----	Obj
+5	farmy	NNFS2-----A----	Atr
+6	už	Db-------------	Adv
+7	schválilo	VpNS---XR-AA---	Pred
+8	.	Z:-------------	AuxK
+
+mf920922-044-p1s22
+1	Na	RR--4----------	AuxP
+2	vyjádření	NNNS4-----A----	Obj
+3	ministerstva	NNNS2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	správu	NNFS4-----A----	Atr
+6	národního	AAIS2----1A----	Atr
+7	majetku	NNIS2-----A----	Atr
+8	a	J^-------------	Coord
+9	privatizaci	NNFS4-----A----	Atr
+10	se	P7-X4----------	AuxR
+11	čeká	VB-S---3P-AA---	Pred
+12	.	Z:-------------	AuxK
+

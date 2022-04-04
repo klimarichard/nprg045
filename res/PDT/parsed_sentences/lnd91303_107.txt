@@ -1,0 +1,100 @@
+lnd91303-107-p1s1
+1	Co	PQ--4----------	ExD
+2	s	RR--7----------	AuxP
+3	lesy	NNIP7-----A----	ExD
+
+lnd91303-107-p2s1
+1	PRAHA	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-107-p3s1
+1	Lesy	NNIP4-----A----	Obj
+2	,	Z:-------------	AuxX
+3	které	P4IP1----------	Sb
+4	po	RR--6----------	AuxP
+5	reprivatizaci	NNFS6-----A----	Adv
+6	zůstanou	VB-P---3P-AA---	Atr
+7	státním	AAIS7----1A----	Atr
+8	majetkem	NNIS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	budou	VB-P---3F-AA---	AuxV
+11	spravovat	Vf--------A----	Pred
+12	Lesy	NNIP1-----A----	Sb
+13	České	AAFS2----1A----	Atr
+14	republiky	NNFS2-----A----	Atr
+15	,	Z:-------------	Apos
+16	instituce	NNFS1-----A----	Sb
+17	vykonávající	AGFS1-----A----	Atr
+18	všechna	PLNP4----------	Atr
+19	vlastnická	AANP4----1A----	Atr
+20	práva	NNNP4-----A----	Obj
+21	k	RR--3----------	AuxP
+22	jiným	AAIP3----1A----	Atr
+23	než	J,-------------	AuxC
+24	soukromým	AAIP3----1A----	Adv
+25	lesům	NNIP3-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd91303-107-p3s2
+1	Lesní	AAFP1----1A----	Atr
+2	akciové	AAFP1----1A----	Atr
+3	společnosti	NNFP1-----A----	Sb
+4	(	Z:-------------	AuxG
+5	předpokládá	VB-S---3P-AA---	Pred
+6	se	P7-X4----------	AuxR
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	jich	PPXP2--3-------	Atr
+10	vznikne	VB-S---3P-AA---	Obj
+11	kolem	RR--2----------	AuxP
+12	stovky	NNFS2-----A----	Sb
+13	)	Z:-------------	AuxG
+14	by	Vc-------------	AuxV
+15	fungovaly	VpTP---XR-AA---	Pred
+16	pouze	Db-------------	AuxZ
+17	jako	J,-------------	AuxY
+18	dodavatelé	NNMP1-----A----	Atv
+19	prací	NNFP2-----A----	Atr
+20	objednaných	AAFP2----1A----	Atr
+21	Lesy	NNIP7-----A----	Obj
+22	ČR	NNFXX-----A---8	Atr
+23	a	J^-------------	Coord
+24	nebyly	VpTP---XR-NA---	Pred
+25	by	Vc-------------	AuxV
+26	vlastníkem	NNMS7-----A----	Pnom
+27	půdy	NNFS2-----A----	Atr
+28	ani	J^-------------	Coord
+29	lesa	NNIS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+lnd91303-107-p3s3
+1	Majetkem	NNIS7-----A----	Obj
+2	lesních	AAFP2----1A----	Atr
+3	společností	NNFP2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxT
+6	měly	VpTP---XR-AA---	Pred
+7	stát	Vf--------A----	Sb
+8	veškeré	PLIP1----------	Atr
+9	mechanismy	NNIP1-----A----	Sb
+10	a	J^-------------	Coord
+11	objekty	NNIP1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	které	P4YP4----------	Obj
+14	příslušné	AAFP1----1A----	Atr
+15	společnosti	NNFP1-----A----	Sb
+16	potřebují	VB-P---3P-AA---	Atr
+17	ke	RV--3----------	AuxP
+18	své	P8FS3---------1	Atr
+19	činnosti	NNFS3-----A----	Adv
+20	,	Z:-------------	AuxX
+21	tj	J^------------8	Apos
+22	.	Z:-------------	AuxG
+23	opravárny	NNFP1-----A----	Sb
+24	,	Z:-------------	AuxX
+25	dílny	NNFP1-----A----	Sb
+26	,	Z:-------------	AuxX
+27	garáže	NNFP1-----A----	Sb
+28	apod	Db------------8	Coord
+29	.	Z:-------------	AuxG
+

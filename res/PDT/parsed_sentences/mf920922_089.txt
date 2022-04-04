@@ -1,0 +1,213 @@
+mf920922-089-p1s1A
+1	Policie	NNFS1-----A----	Sb
+2	zajistila	VpQW---XR-AA---	Pred
+3	munici	NNFS4-----A----	Obj
+
+mf920922-089-p1s1B
+1	ORGANIZOVANÁ	AAFS1----1A----	Atr
+2	BANDA	NNFS1-----A----	Sb
+3	"	Z:-------------	AuxG
+4	VYDĚLALA	VpQW---XR-AA---	Pred
+5	"	Z:-------------	AuxG
+6	DESET	Cn-S4----------	Obj
+7	MILIÓNŮ	NNIP2-----A----	Atr
+8	KORUN	NNFP2-----A----	Atr
+
+mf920922-089-p2s1
+1	Cheb	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	bar	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920922-089-p2s2
+1	Rozsáhlou	AAFS4----1A----	Atr
+2	organizovanou	AAFS4----1A----	Atr
+3	trestnou	AAFS4----1A----	Atr
+4	činnost	NNFS4-----A----	Obj
+5	s	RR--7----------	AuxP
+6	prodeji	NNIP7-----A----	Atr
+7	kradených	AANP2----1A----	Atr
+8	aut	NNNP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	vloupáním	NNNS7-----A----	Atr
+11	do	RR--2----------	AuxP
+12	bytů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	chat	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	chalup	NNFP2-----A----	Atr
+17	a	J^-------------	Coord
+18	obchodů	NNIP2-----A----	Atr
+19	odhalili	VpMP---XR-AA---	Pred
+20	západočeští	AAMP1----1A----	Atr
+21	kriminalisté	NNMP1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+mf920922-089-p2s3
+1	Jak	Db-------------	Adv
+2	nás	PP-P4--1-------	Obj
+3	včera	Db-------------	Adv
+4	informovala	VpQW---XR-AA---	Pred
+5	podporučík	NNMS1-----A----	Atr
+6	I	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Brunová	NNFS1-----A----	Sb
+9	z	RR--2----------	AuxP
+10	plzeňské	AAFS2----1A----	Atr
+11	policie	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	banda	NNFS1-----A----	Sb
+14	22	C=-------------	Atr
+15	pachatelů	NNMP2-----A----	Atr
+16	má	VB-S---3P-AA---	Pred
+17	na	RR--6----------	AuxP
+18	svědomí	NNNS6-----A----	Adv
+19	téměř	Db-------------	AuxZ
+20	sto	NNNS4-----A----	Obj
+21	trestných	AAIP2----1A----	Atr
+22	činů	NNIP2-----A----	Atr
+23	s	RR--7----------	AuxP
+24	celkovou	AAFS7----1A----	Atr
+25	škodou	NNFS7-----A----	Atr
+26	asi	TT-------------	AuxZ
+27	10	C=-------------	Atr
+28	miliónů	NNIP2-----A----	Atr
+29	Kčs	NNFXX-----A---8	Atr
+30	.	Z:-------------	AuxK
+
+mf920922-089-p3s1
+1	Zloději	NNMP1-----A---1	Sb
+2	kradli	VpMP---XR-AA---	Pred
+3	automobily	NNIP4-----A----	Obj
+4	a	J^-------------	AuxY
+5	prostřednictvím	NNNS7-----A----	AuxP
+6	šesti	Cn-P2----------	Atr
+7	stálých	AAMP2----1A----	Atr
+8	překupníků	NNMP2-----A----	Adv
+9	je	PPXP4--3-------	Obj
+10	prodávali	VpMP---XR-AA---	Pred
+11	do	RR--2----------	AuxP
+12	autobazarů	NNIP2-----A----	Adv
+13	(	Z:-------------	AuxG
+14	například	Db-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	Karlových	AUIP6M---------	Atr
+17	Varech	NNIP6-----A----	AtrAdv
+18	)	Z:-------------	AuxG
+19	,	Z:-------------	Coord
+20	dvě	ClHP4----------	Atr
+21	vozidla	NNNP4-----A----	Obj
+22	dokonce	Db-------------	AuxZ
+23	vyvezli	VpMP---XR-AA---	Pred
+24	a	J^-------------	Coord
+25	prodali	VpMP---XR-AA---	Pred
+26	v	RR--6----------	AuxP
+27	SRN	NNFXX-----A---8	Adv
+28	.	Z:-------------	AuxK
+
+mf920922-089-p3s2
+1	Technické	AAIP4----1A----	Atr
+2	průkazy	NNIP4-----A----	Obj
+3	a	J^-------------	Coord
+4	osvědčení	NNNP4-----A----	Obj
+5	o	RR--6----------	AuxP
+6	technickém	AAIS6----1A----	Atr
+7	stavu	NNIS6-----A----	Atr
+8	vozidla	NNNS2-----A----	Atr
+9	včetně	RR--2----------	AuxP
+10	razítek	NNNP2-----A----	Adv
+11	falšovali	VpMP---XR-AA---	Pred
+12	tak	Db-------------	Adv
+13	dokonale	Dg-------1A----	Adv
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	padělky	NNIP4-----A----	Obj
+17	poznal	VpYS---XR-AA---	Adv
+18	jen	TT-------------	AuxZ
+19	odborník	NNMS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+mf920922-089-p3s3
+1	V	RR--6----------	AuxP
+2	západních	AAFP6----1A----	Atr
+3	,	Z:-------------	AuxX
+4	středních	AAFP6----1A----	Atr
+5	a	J^-------------	Coord
+6	severních	AAFP6----1A----	Atr
+7	Čechách	NNFP6-----A----	Adv
+8	se	P7-X4----------	AuxT
+9	navíc	Db-------------	Adv
+10	vloupali	VpMP---XR-AA---	Pred
+11	do	RR--2----------	AuxP
+12	chat	NNFP2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	chalup	NNFP2-----A----	Adv
+15	a	J^-------------	Coord
+16	obchodů	NNIP2-----A----	Adv
+17	a	J^-------------	Coord
+18	v	RR--6----------	AuxP
+19	Praze	NNFS6-----A----	Adv
+20	vykradli	VpMP---XR-AA---	Pred
+21	obchod	NNIS4-----A----	Obj
+22	s	RR--7----------	AuxP
+23	elektronikou	NNFS7-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920922-089-p3s4
+1	Banda	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	navíc	Db-------------	Adv
+4	podezřelá	AAFS1----1A----	Pnom
+5	z	RR--2----------	AuxP
+6	vraždy	NNFS2-----A----	Obj
+7	v	RR--6----------	AuxP
+8	zahraničí	NNNS6-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf920922-089-p3s5
+1	Při	RR--6----------	AuxP
+2	zatýkání	NNNS6-----A----	Adv
+3	policisté	NNMP1-----A----	Sb
+4	zajistili	VpMP---XR-AA---	Pred
+5	tři	ClXP4----------	Atr
+6	granáty	NNIP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	dvě	ClHP4----------	Atr
+9	pistole	NNFP4-----A----	Obj
+10	a	J^-------------	Coord
+11	ukradený	AAIS4----1A----	Atr
+12	služební	AAIS4----1A----	Atr
+13	průkaz	NNIS4-----A----	Obj
+14	policie	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920922-089-p3s6
+1	Vůdce	NNMS1-----A----	Sb
+2	bandy	NNFS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	utekl	VpYS---XR-AA---	Atr
+6	z	RR--2----------	AuxP
+7	nápravněvýchovného	AAIS2----1A----	Atr
+8	ústavu	NNIS2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	chodil	VpYS---XR-AA---	Pred
+11	stále	Db-------------	Adv
+12	ozbrojen	VsYS---XX-AP---	Atv
+13	.	Z:-------------	AuxK
+
+mf920922-089-p3s7
+1	Speciální	AAIS1----1A----	Atr
+2	tým	NNIS1-----A----	Sb
+3	kriminalistů	NNMP2-----A----	Atr
+4	a	J^-------------	Coord
+5	vyšetřovatelů	NNMP2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	měl	VpYS---XR-AA---	Pred
+8	případ	NNIS4-----A----	Obj
+9	uzavřít	Vf--------A----	Obj
+10	koncem	NNIS7-----A----	AuxP
+11	října	NNIS2-----A----	Adv
+12	.	Z:-------------	AuxK
+

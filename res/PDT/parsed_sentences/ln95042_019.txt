@@ -1,0 +1,259 @@
+ln95042-019-p1s1
+1	Z	RR--2----------	AuxP
+2	nových	AAFP2----1A----	Atr
+3	knih	NNFP2-----A----	ExD
+
+ln95042-019-p2s1
+1	Karel	NNMS1-----A----	Atr
+2	Poláček	NNMS1-----A----	Atr
+3	:	Z:-------------	AuxG
+4	Okresní	AANS1----1A----	Atr
+5	město	NNNS1-----A----	ExD
+6	-	Z:-------------	AuxG
+7	Hrdinové	NNMP1-----A----	Sb
+8	táhnou	VB-P---3P-AA---	Pred
+9	do	RR--2----------	AuxP
+10	boje	NNIS2-----A----	Adv
+11	-	Z:-------------	AuxG
+12	Podzemní	AANS1----1A----	Atr
+13	město	NNNS1-----A----	ExD
+14	-	Z:-------------	Coord
+15	Vyprodáno	VsNS---XX-AP---	ExD
+16	.	Z:-------------	AuxK
+
+ln95042-019-p2s2
+1	Autorovo	AUNS1M---------	Atr
+2	životní	AANS1----1A----	Atr
+3	dílo	NNNS1-----A----	Sb
+4	,	Z:-------------	Apos
+5	nedokončená	AAFS1----1N----	Atr
+6	pentalogie	NNFS1-----A----	Sb
+7	sledující	AGFS1-----A----	Atr
+8	v	RR--6----------	AuxP
+9	půlstoletém	AAIS6----1A----	Atr
+10	záběru	NNIS6-----A----	Adv
+11	figurky	NNFP4-----A----	Obj
+12	českého	AANS2----1A----	Atr
+13	maloměsta	NNNS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	vychází	VB-S---3P-AA---	Pred
+16	souborně	Dg-------1A----	Adv
+17	již	Db-------------	AuxZ
+18	poosmé	Cv-------------	Adv
+19	.	Z:-------------	AuxK
+
+ln95042-019-p2s3
+1	Nakladatelství	NNNS1-----A----	Sb
+2	Franze	NNMS2-----A----	Atr
+3	Kafky	NNMS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	které	P4NS1----------	Sb
+6	ji	PPFS4--3-------	Obj
+7	vydává	VB-S---3P-AA---	Atr
+8	v	RR--6----------	AuxP
+9	řadě	NNFS6-----A----	Adv
+10	Poláčkových	AUIP2M---------	Atr
+11	spisů	NNIP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	maximální	AAFS6----1A----	Atr
+14	možné	AAFS6----1A----	Atr
+15	úplnosti	NNFS6-----A----	Adv
+16	,	Z:-------------	AuxX
+17	opus	NNIS4-----A----	Obj
+18	doplnilo	VpNS---XR-AA---	Pred
+19	o	RR--4----------	AuxP
+20	torzo	NNNS4-----A----	Obj
+21	zamýšleného	AAIS2----1A----	Atr
+22	pátého	CrIS2----------	Atr
+23	dílu	NNIS2-----A----	Atr
+24	(	Z:-------------	AuxG
+25	kapitoly	NNFP1-----A----	Atr
+26	5	C=-------------	Atr
+27	-	Z:-------------	Coord
+28	16	C=-------------	Atr
+29	)	Z:-------------	AuxG
+30	,	Z:-------------	AuxX
+31	který	P4IS4----------	Obj
+32	měl	VpYS---XR-AA---	Atr
+33	tvůrce	NNMS1-----A----	Sb
+34	předat	Vf--------A----	Obj
+35	přátelům	NNMP3-----A----	Obj
+36	před	RR--7----------	AuxP
+37	transportem	NNIS7-----A----	Adv
+38	.	Z:-------------	AuxK
+
+ln95042-019-p3s1
+1	Jaroslav	NNMS1-----A----	Atr
+2	Vejvoda	NNMS1-----A----	Atr
+3	:	Z:-------------	AuxG
+4	Provdaná	AAFS1----1A----	Atr
+5	nevěsta	NNFS1-----A----	ExD
+6	aneb	J^-------------	Apos
+7	Pivočáry	NNFP1-----A----	ExD
+8	.	Z:-------------	AuxK
+
+ln95042-019-p3s2
+1	Česko	A2--------A----	Atr
+2	-	Z:-------------	Coord
+3	švýcarský	AAMS1----1A----	Atr
+4	glosátor	NNMS1-----A----	Sb
+5	emigrantského	AAIS2----1A----	Atr
+6	světa	NNIS2-----A----	Atr
+7	vidí	VB-S---3P-AA---	Pred
+8	kolorit	NNIS4-----A----	Obj
+9	přílivu	NNIS2-----A----	Atr
+10	uprchlíků	NNMP2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	době	NNFS6-----A----	Adv
+13	těsně	Dg-------1A----	Atr
+14	před	RR--7----------	AuxP
+15	pádem	NNIS7-----A----	Adv
+16	železné	AAFS2----1A----	Atr
+17	opony	NNFS2-----A----	Atr
+18	jako	J,-------------	AuxY
+19	"	Z:-------------	AuxG
+20	výprodej	NNIS4-----A----	Atv
+21	paní	NNFP2-----A----	Atr
+22	a	J^-------------	Coord
+23	dívek	NNFP2-----A----	Atr
+24	v	RR--6----------	AuxP
+25	období	NNNS6-----A----	Atr
+26	tání	NNNS2-----A----	Atr
+27	a	J^-------------	Coord
+28	zvedaných	AAFP2----1A----	Atr
+29	závor	NNFP2-----A----	Atr
+30	"	Z:-------------	AuxG
+31	.	Z:-------------	AuxK
+
+ln95042-019-p3s3
+1	V	RR--6----------	AuxP
+2	Malé	AAFS6----1A----	Atr
+3	řadě	NNFS6-----A----	Adv
+4	vydává	VB-S---3P-AA---	Pred
+5	Mladá	AAFS1----1A----	Atr
+6	fronta	NNFS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+ln95042-019-p4s1
+1	Pavel	NNMS1-----A----	Atr
+2	Řezníček	NNMS1-----A----	Atr
+3	:	Z:-------------	AuxG
+4	Zrcadlový	AAMS1----1A----	Atr
+5	pes	NNMS1-----A----	ExD
+6	.	Z:-------------	AuxK
+
+ln95042-019-p4s2
+1	Imaginativní	AAFS1----1A----	Atr
+2	próza	NNFS1-----A----	Sb
+3	českého	AAMS2----1A----	Atr
+4	surrealisty	NNMS2-----A----	Atr
+5	vychází	VB-S---3P-AA---	Pred
+6	s	RR--7----------	AuxP
+7	ilustracemi	NNFP7-----A----	Adv
+8	Martina	NNMS2-----A----	Atr
+9	Stejskala	NNMS2-----A----	Atr
+10	a	J^-------------	Coord
+11	předmluvou	NNFS7-----A----	Adv
+12	Petra	NNMS2-----A----	Atr
+13	Krále	NNMS2-----A----	Atr
+14	jako	J,-------------	AuxY
+15	druhé	CrNS1----------	Atr
+16	"	Z:-------------	AuxG
+17	intermezzo	NNNS1-----A----	Atv
+18	"	Z:-------------	AuxG
+19	brněnského	AAIS2----1A----	Atr
+20	literárního	AAIS2----1A----	Atr
+21	časopisu	NNIS2-----A----	Atr
+22	Host	NNMS1-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95042-019-p5s1
+1	Dorothy	NNFXX-----A----	Atr
+2	L	NNFXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Sayersová	NNFS1-----A----	Atr
+5	:	Z:-------------	AuxG
+6	Devět	Cn-S1----------	ExD
+7	krejčíků	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95042-019-p5s2
+1	Další	AAIS1----1A----	Atr
+2	případ	NNIS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	aristokratického	AAMS4----1A----	Atr
+5	detektiva	NNMS4-----A----	Atr
+6	lorda	NNMS4-----A----	Atr
+7	Petra	NNMS4-----A----	Atr
+8	Wimseye	NNMS4-----A----	Atr
+9	je	VB-S---3P-AA---	Pred
+10	barvitou	AAFS7----1A----	Atr
+11	záhadou	NNFS7-----A----	Pnom
+12	v	RR--6----------	AuxP
+13	kraji	NNIS6-----A----	Atr
+14	blat	NNNP2-----A----	Atr
+15	a	J^-------------	Coord
+16	kanálů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95042-019-p5s3
+1	Překlad	NNIS4-----A----	Obj
+2	Vojtěcha	NNMS2-----A----	Atr
+3	Gaji	NNMS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	známý	AAIS4----1A----	Atr
+6	pod	RR--7----------	AuxP
+7	titulem	NNIS7-----A----	Adv
+8	Devět	Cn-S1----------	Atr
+9	hran	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	reedituje	VB-S---3P-AA---	Pred
+12	Nakladatelství	NNNS1-----A----	Sb
+13	Svoboda	NNFS1-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95042-019-p6s1
+1	Ellis	NNFXX-----A----	Atr
+2	Petersová	NNFS1-----A----	Atr
+3	:	Z:-------------	AuxG
+4	Zázrak	NNIS1-----A----	ExD
+5	svaté	AAFS2----1A----	Atr
+6	Winifredy	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95042-019-p6s2
+1	Čtvrtá	CrFS1----------	Atr
+2	variace	NNFS1-----A----	Sb
+3	anglické	AAFS2----1A----	Atr
+4	bohemistky	NNFS2-----A----	Atr
+5	Pargeterové	NNFS2-----A----	Atr
+6	-	Z:-------------	Apos
+7	Petersové	NNFS2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	detektivem	NNMS7-----A----	Atr
+10	mnichem	NNMS7-----A----	Atr
+11	Cadfaelem	NNMS7-----A----	Atr
+12	v	RR--6----------	AuxP
+13	hlavní	AAFS6----1A----	Atr
+14	roli	NNFS6-----A----	Atr
+15	řeší	VB-S---3P-AA---	Pred
+16	vraždu	NNFS4-----A----	Obj
+17	způsobenou	AAFS4----1A----	Atr
+18	v	RR--6----------	AuxP
+19	hádce	NNFS6-----A----	Adv
+20	o	RR--4----------	AuxP
+21	dědictví	NNNS4-----A----	Atr
+22	kultu	NNIS2-----A----	Atr
+23	světice	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95042-019-p6s3
+1	Přeložila	VpQW---XR-AA---	Pred
+2	Zuzana	NNFS1-----A----	Atr
+3	Ceplová	NNFS1-----A----	Sb
+4	,	Z:-------------	Coord
+5	vydává	VB-S---3P-AA---	Pred
+6	Mladá	AAFS1----1A----	Atr
+7	fronta	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+

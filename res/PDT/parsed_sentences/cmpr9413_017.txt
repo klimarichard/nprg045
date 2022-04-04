@@ -1,0 +1,442 @@
+cmpr9413-017-p2s1
+1	Kam	Db-------------	Adv
+2	míří	VB-P---3P-AA---	Pred
+3	telekomunikace	NNFP1-----A----	Sb
+
+cmpr9413-017-p3s1
+1	Teprve	Db-------------	AuxZ
+2	po	RR--6----------	AuxP
+3	uvolnění	NNNS6-----A----	Adv
+4	embarga	NNNS2-----A----	Atr
+5	na	RR--4----------	AuxP
+6	dovoz	NNIS4-----A----	Atr
+7	špičkové	AAFS2----1A----	Atr
+8	technologie	NNFS2-----A----	Atr
+9	si	P7-X3----------	AuxT
+10	uvědomujeme	VB-P---1P-AA---	Pred
+11	míru	NNFS4-----A----	Obj
+12	našeho	PSZS2-P1-------	Atr
+13	zaostávání	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9413-017-p3s2
+1	V	RR--6----------	AuxP
+2	plné	AAFS6----1A----	Atr
+3	míře	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	to	PDNS1----------	Sb
+6	týká	VB-S---3P-AA---	Pred
+7	telekomunikačních	AANP2----1A----	Atr
+8	zařízení	NNNP2-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9413-017-p3s3
+1	Naprostá	AAFS1----1A----	Atr
+2	většina	NNFS1-----A----	Sb
+3	potenciálních	AAMP2----1A----	Atr
+4	uživatelů	NNMP2-----A----	Atr
+5	dokonce	Db-------------	Adv
+6	ani	J^-------------	AuxY
+7	netuší	VB-P---3P-NA---	Pred
+8	,	Z:-------------	AuxX
+9	jaké	P4NS4----------	Atr
+10	množství	NNNS4-----A----	Obj
+11	velmi	Db-------------	Adv
+12	užitečných	AAFP2----1A----	Atr
+13	funkcí	NNFP2-----A----	Atr
+14	dnes	Db-------------	Adv
+15	tato	PDNP1----------	Atr
+16	zařízení	NNNP1-----A----	Sb
+17	v	RR--6----------	AuxP
+18	sobě	P6-X6----------	Adv
+19	integrují	VB-P---3P-AA---	Obj
+20	.	Z:-------------	AuxK
+
+cmpr9413-017-p3s4
+1	Proto	J^-------------	Coord
+2	se	P7-X4----------	AuxT
+3	přední	AAMP1----1A----	Atr
+4	světoví	AAMP1----1A----	Atr
+5	výrobci	NNMP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	kteří	P4MP1----------	Sb
+8	vstupují	VB-P---3P-AA---	Atr
+9	na	RR--4----------	AuxP
+10	náš	PSIS4-P1-------	Atr
+11	trh	NNIS4-----A----	Adv
+12	,	Z:-------------	AuxX
+13	musí	VB-P---3P-AA--1	Pred
+14	zabývat	Vf--------A----	Obj
+15	osvětou	NNFS7-----A----	Obj
+16	,	Z:-------------	Apos
+17	vysvětlováním	NNNS7-----A----	Obj
+18	vlastností	NNFP2-----A----	Atr
+19	těchto	PDXP2----------	Atr
+20	systémů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9413-017-p4s1
+1	Jaroslav	NNMS1-----A----	Atr
+2	Winter	NNMS1-----A----	ExD
+
+cmpr9413-017-p5s1
+1	Současný	AAIS4----1A----	Atr
+2	trend	NNIS4-----A----	Obj
+3	lze	VB-S---3P-AA---	Pred
+4	charakterizovat	Vf--------A----	Sb
+5	označením	NNNS7-----A----	Adv
+6	"	Z:-------------	AuxG
+7	inteligence	NNFS1-----A----	Atr
+8	rozdělená	AAFS1----1A----	Atr
+9	v	RR--6----------	AuxP
+10	síťovém	AAIS6----1A----	Atr
+11	svazku	NNIS6-----A----	Adv
+12	"	Z:-------------	AuxG
+13	.	Z:-------------	AuxK
+
+cmpr9413-017-p5s2
+1	To	PDNS1----------	Sb
+2	znamená	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	komunikační	AAIS1----1A----	Atr
+6	systém	NNIS1-----A----	Sb
+7	musí	VB-S---3P-AA---	Obj
+8	umožňovat	Vf--------A----	Obj
+9	využití	NNNS4-----A----	Obj
+10	všech	PLXP2----------	Atr
+11	součástí	NNFP2-----A----	Atr
+12	hardware	NNIS2-----A----	Atr
+13	a	J^-------------	Coord
+14	software	NNIS2-----A----	Atr
+15	nezávisle	Dg-------1N----	Adv
+16	na	RR--6----------	AuxP
+17	umístění	NNNS6-----A----	Obj
+18	kteréhokoli	PZZS2---------1	Atr
+19	pracoviště	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9413-017-p6s1
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ze	RV--2----------	AuxP
+4	semináře	NNIS2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	který	P4IS4----------	Obj
+7	pořádaly	VpTP---XR-AA---	Atr
+8	v	RR--6----------	AuxP
+9	Praze	NNFS6-----A----	Adv
+10	společně	Dg-------1A----	Adv
+11	rakouská	AAFS1----1A----	Atr
+12	firma	NNFS1-----A----	Sb
+13	Kapsch	NNIXX-----A----	Atr
+14	a	J^-------------	Coord
+15	Northern	AAXXX----1A----	Atr
+16	Telecom	NNIS1-----A----	Sb
+17	-	Z:-------------	AuxG
+18	Canada	NNFS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9413-017-p6s2
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	ústředen	NNFP2-----A----	Atr
+4	Kapsch	NNIXX-----A----	Atr
+5	Meridian	NNIS1-----A----	Atr
+6	1	C=-------------	Atr
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	jsou	VB-P---3P-AA---	Atr
+10	s	RR--7----------	AuxP
+11	více	Dg-------2A----	Adv
+12	než	J,-------------	AuxC
+13	60000	C=-------------	Adv
+14	instalovaných	AANP2----1A----	Atr
+15	zařízení	NNNP2-----A----	Atr
+16	a	J^-------------	Coord
+17	18	C=-------------	Atr
+18	miliony	NNIP7-----A----	Adv
+19	účastníků	NNMP2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	celém	AAIS6----1A----	Atr
+22	světě	NNIS6-----A----	Atr
+23	nejprodávanějším	AAIS7----3A----	Atr
+24	digitálním	AAIS7----1A----	Atr
+25	telefonním	AAIS7----1A----	Atr
+26	systémem	NNIS7-----A----	Pnom
+27	,	Z:-------------	AuxX
+28	to	PDNS1----------	Sb
+29	mimo	RR--4----------	AuxP
+30	jiné	AANS4----1A----	Adv
+31	znamená	VB-S---3P-AA---	Pred
+32	,	Z:-------------	AuxX
+33	že	J,-------------	AuxC
+34	v	RR--6----------	AuxP
+35	telefonním	AAIS6----1A----	Atr
+36	přístroji	NNIS6-----A----	Adv
+37	je	VB-S---3P-AA---	AuxV
+38	zabudován	VsYS---XX-AP---	Obj
+39	datový	AAIS1----1A----	Atr
+40	adaptér	NNIS1-----A----	Sb
+41	,	Z:-------------	AuxX
+42	na	RR--4----------	AuxP
+43	který	P4IS4----------	Adv
+44	lze	VB-S---3P-AA---	Atr
+45	napojit	Vf--------A----	Sb
+46	terminál	NNIS4-----A----	Obj
+47	nebo	J^-------------	Coord
+48	PC	NNNXX-----A---8	Obj
+49	.	Z:-------------	AuxK
+
+cmpr9413-017-p7s1
+1	Vyřizování	NNNS1-----A----	ExD
+2	objednávek	NNFP2-----A----	Atr
+
+cmpr9413-017-p8s1
+1	Zajímavý	AAIS4----1A----	Atr
+2	způsob	NNIS4-----A----	Obj
+3	vyřizování	NNNS2-----A----	Atr
+4	objednávek	NNFP2-----A----	Atr
+5	umožňuje	VB-S---3P-AA---	Pred
+6	funkce	NNFS1-----A----	Sb
+7	Meridian	NNIS1-----A----	Atr
+8	Call	AAXXX----1A----	Atr
+9	Center	NNNP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9413-017-p8s2
+1	První	CrFS4----------	Atr
+2	informaci	NNFS4-----A----	Obj
+3	o	RR--6----------	AuxP
+4	novém	AAIS6----1A----	Atr
+5	výrobku	NNIS6-----A----	Atr
+6	,	Z:-------------	AuxX
+7	ceně	NNFS6-----A----	Atr
+8	a	J^-------------	Coord
+9	podobně	Dg-------1A----	Adv
+10	získá	VB-S---3P-AA---	Pred
+11	volající	AGMS1-----A----	Sb
+12	z	RR--2----------	AuxP
+13	řečové	AAFS2----1A----	Atr
+14	paměti	NNFS2-----A----	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9413-017-p8s3
+1	Potřebuje	VB-S---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	další	AAFP4----1A----	Atr
+5	informace	NNFP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	je	VB-S---3P-AA---	AuxV
+8	přepojen	VsYS---XX-AP---	Pred
+9	na	RR--4----------	AuxP
+10	oddělení	NNNS4-----A----	Adv
+11	,	Z:-------------	AuxX
+12	které	P4NS1----------	Sb
+13	jeho	PSXXXZS3-------	Atr
+14	dotazy	NNIP4-----A----	Obj
+15	v	RR--6----------	AuxP
+16	nejkratším	AAIS6----3A----	Atr
+17	čase	NNIS6-----A----	Adv
+18	zodpoví	VB-S---3P-AA---	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9413-017-p8s4
+1	Zároveň	Db-------------	Adv
+2	s	RR--7----------	AuxP
+3	hovorem	NNIS7-----A----	Adv
+4	dostane	VB-S---3P-AA---	Pred
+5	referent	NNMS1-----A----	Sb
+6	na	RR--4----------	AuxP
+7	svůj	P8IS4----------	Atr
+8	monitor	NNIS4-----A----	Adv
+9	potřebné	AAFP4----1A----	Atr
+10	informace	NNFP4-----A----	Obj
+11	o	RR--6----------	AuxP
+12	volajícím	AGMS6-----A----	Atr
+13	zákazníkovi	NNMS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4FP1----------	Sb
+16	jsou	VB-P---3P-AA---	Atr
+17	v	RR--6----------	AuxP
+18	databance	NNFS6-----A----	Adv
+19	k	RR--3----------	AuxP
+20	dispozici	NNFS3-----A----	Adv
+21	.	Z:-------------	AuxK
+
+cmpr9413-017-p8s5
+1	Jestliže	J,-------------	AuxC
+2	vyžaduje	VB-S---3P-AA---	Adv
+3	zákazník	NNMS1-----A----	Sb
+4	ještě	Db-------------	Adv
+5	další	AAFS4----1A----	Atr
+6	speciální	AAFS4----1A----	Atr
+7	informaci	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	jeho	PSXXXZS3-------	Atr
+10	hovor	NNIS1-----A----	Sb
+11	je	VB-S---3P-AA---	AuxV
+12	spolu	Db-------------	AuxP
+13	s	RR--7----------	AuxP
+14	informacemi	NNFP7-----A----	Adv
+15	z	RR--2----------	AuxP
+16	databanky	NNFS2-----A----	Atr
+17	předán	VsYS---XX-AP---	Pred
+18	dalšímu	AAMS3----1A----	Atr
+19	příslušnému	AAMS3----1A----	Atr
+20	pracovníkovi	NNMS3-----A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9413-017-p9s1
+1	Digitální	AAFS1----1A----	Atr
+2	telefonní	AAFS1----1A----	Atr
+3	ústředna	NNFS1-----A----	Sb
+4	Option	NNFXX-----A----	Atr
+5	11	C=-------------	Atr
+6	s	RR--7----------	AuxP
+7	rozsahem	NNIS7-----A----	Atr
+8	do	RR--2----------	AuxP
+9	224	C=-------------	Atr
+10	telefonních	AAFP2----1A----	Atr
+11	poboček	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kterou	P4FS4----------	Obj
+14	k	RR--3----------	AuxP
+15	nám	PP-P3--1-------	Adv
+16	letos	Db-------------	Adv
+17	Northern	AAXXX----1A----	Atr
+18	Telecom	NNIS1-----A----	Sb
+19	uvádí	VB-S---3P-AA---	Atr
+20	,	Z:-------------	AuxX
+21	má	VB-S---3P-AA---	Pred
+22	téměř	Db-------------	AuxZ
+23	400	C=-------------	Obj
+24	funkcí	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9413-017-p9s2
+1	Například	Db-------------	AuxY
+2	tarifikace	NNFS1-----A----	Sb
+3	poplatků	NNIP2-----A----	Atr
+4	-	Z:-------------	Apos
+5	okamžitý	AAIS1----1A----	Atr
+6	výpočet	NNIS1-----A----	Sb
+7	sazby	NNFS2-----A----	Atr
+8	za	RR--4----------	AuxP
+9	uskutečněný	AAIS4----1A----	Atr
+10	hovor	NNIS4-----A----	Atr
+11	podstatně	Dg-------1A----	Adv
+12	zlevňuje	VB-S---3P-AA---	Pred
+13	telefonní	AAIS4----1A----	Atr
+14	provoz	NNIS4-----A----	Obj
+15	firem	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4FP1----------	Sb
+18	tyto	PDFP4----------	Atr
+19	ústředny	NNFP4-----A----	Obj
+20	zavedly	VpTP---XR-AA---	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9413-017-p10s1
+1	Jeden	ClYS1----------	Atr
+2	kabel	NNIS1-----A----	ExD
+3	pro	RR--4----------	AuxP
+4	všechno	PLNS4----------	Atr
+
+cmpr9413-017-p11s1
+1	Dalším	AAIS7----1A----	Atr
+2	trendem	NNIS7-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	v	RR--6----------	AuxP
+5	některých	PZXP6----------	Atr
+6	státech	NNIP6-----A----	Adv
+7	při	RR--6----------	AuxP
+8	výstavbě	NNFS6-----A----	Adv
+9	nebo	J^-------------	Coord
+10	rekonstrukci	NNFS6-----A----	Adv
+11	zejména	Db-------------	AuxZ
+12	administrativních	AAFP2----1A----	Atr
+13	budov	NNFP2-----A----	Atr
+14	dokonce	Db-------------	AuxZ
+15	předepsaným	AAIS7----1A----	Atr
+16	,	Z:-------------	AuxX
+17	je	VB-S---3P-AA---	Pred
+18	strukturovaná	AAFS1----1A----	Atr
+19	kabeláž	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+cmpr9413-017-p11s2
+1	Její	PSFSXFS3-------	Atr
+2	předností	NNFS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	jednotný	AAIS1----1A----	Atr
+5	kabel	NNIS1-----A----	Sb
+6	i	J^-------------	Coord
+7	zástrčka	NNFS1-----A----	Sb
+8	pro	RR--4----------	AuxP
+9	telefon	NNIS4-----A----	Atr
+10	,	Z:-------------	AuxX
+11	modem	NNIS4-----A----	Atr
+12	,	Z:-------------	AuxX
+13	fax	NNIS4-----A----	Atr
+14	,	Z:-------------	AuxX
+15	tiskárnu	NNFS4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	terminál	NNIS4-----A----	Atr
+18	i	J^-------------	Coord
+19	počítač	NNIS4-----A----	Atr
+20	v	RR--6----------	AuxP
+21	síti	NNFS6-----A----	Atr
+22	LAN	NNXXX-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9413-017-p11s3
+1	Při	RR--6----------	AuxP
+2	stěhování	NNNS6-----A----	Adv
+3	pracovníků	NNMP2-----A----	Atr
+4	nebo	J^-------------	Coord
+5	oddělení	NNNP2-----A----	Atr
+6	se	P7-X4----------	AuxR
+7	prostě	Dg-------1A----	Adv
+8	jen	TT-------------	AuxZ
+9	přemístí	VB-S---3P-AA---	Pred
+10	počítač	NNIS1-----A----	Sb
+11	nebo	J^-------------	Coord
+12	jiné	AANS1----1A----	Atr
+13	koncové	AANS1----1A----	Atr
+14	zařízení	NNNS1-----A----	Sb
+15	a	J^-------------	Coord
+16	přepojí	VB-S---3P-AA---	Pred
+17	se	P7-X4----------	AuxR
+18	v	RR--6----------	AuxP
+19	hlavních	AAIP6----1A----	Atr
+20	rozvaděčích	NNIP6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+cmpr9413-017-p12s1
+1	Text	NNIS1-----A----	ExD
+2	k	RR--3----------	AuxP
+3	foto	NNNXX-----A----	Atr
+
+cmpr9413-017-p13s1
+1	JEDNA	ClFS1----------	Atr
+2	ŠESTKA	NNFS1-----A----	Sb
+3	UŽ	Db-------------	AuxZ
+4	TELEKOMUNIKACÍM	NNFP3-----A----	Adv
+5	PADLA	VpQW---XR-AA--1	Pred
+6	:	Z:-------------	Apos
+7	Technika	NNFS1-----A----	Sb
+8	postoupila	VpQW---XR-AA---	Pred
+9	dál	Dg-------2A----	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9413-017-p13s2
+1	Teď	Db-------------	ExD
+2	ještě	Db-------------	AuxZ
+3	ta	PDFS1----------	ExD
+4	druhá	CrFS1----------	Atr
+5	-	Z:-------------	Apos
+6	peníze	NNIP1-----A----	ExD
+7	.	Z:-------------	AuxK
+

@@ -1,0 +1,667 @@
+lnd91301-957-p1s1
+1	JAK	Db-------------	Adv
+2	UDRŽET	Vf--------A----	Pred
+3	ZAHRANIČNÍ	AAMP4----1A----	Atr
+4	LEKTORY	NNMP4-----A----	Obj
+5	?	Z:-------------	AuxK
+
+lnd91301-957-p1s2
+1	JE	VB-S---3P-AA---	Pred
+2	STO	NNNS1-----A----	Sb
+3	KORUN	NNFP2-----A----	Atr
+4	MĚSÍČNĚ	Dg-------1A----	Atr
+5	MOC	Ca--X----------	Pnom
+6	?	Z:-------------	AuxK
+
+lnd91301-957-p2s1A
+1	Peněz	NNIP2-----A----	Sb
+2	školám	NNFP3-----A----	Obj
+3	přibylo	VpNS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	ale	J^-------------	Coord
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+
+lnd91301-957-p3s1A
+1	Jak	Db-------------	Adv
+2	jste	VB-P---2P-AA---	Pred
+3	na	RR--6----------	AuxP
+4	tom	PDZS6----------	Adv
+5	koncem	NNIS7-----A----	AuxP
+6	roku	NNIS2-----A---1	Adv
+7	s	RR--7----------	AuxP
+8	penězi	NNIP7-----A----	Adv
+9	?	Z:-------------	AuxK
+
+lnd91301-957-p3s2
+1	Tuto	PDFS4----------	Atr
+2	otázku	NNFS4-----A----	Obj
+3	jsme	VB-P---1P-AA---	AuxV
+4	položili	VpMP---XR-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	dnech	NNIP6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	kdy	Db-------------	Adv
+9	se	P7-X4----------	AuxR
+10	všude	Db-------------	Adv
+11	mluví	VB-S---3P-AA---	Atr
+12	o	RR--6----------	AuxP
+13	rozpočtech	NNIP6-----A----	Obj
+14	,	Z:-------------	AuxX
+15	ředitelce	NNFS3-----A----	Atr
+16	pražského	AANS2----1A----	Atr
+17	gymnázia	NNNS2-----A----	Atr
+18	Nad	RR--7----------	AuxP
+19	alejí	NNFS7-----A----	Atr
+20	Anně	NNFS3-----A----	Atr
+21	Dvořáčkové	NNFS3-----A----	Obj
+22	.	Z:-------------	AuxK
+
+lnd91301-957-p4s1A
+1	Situace	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	podstatně	Dg-------1A----	Adv
+4	lepší	AAFS1----2A----	Pnom
+5	než	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	září	NNNS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	jsme	VB-P---1P-AA---	AuxV
+11	byli	VpMP---XR-AA---	Atr
+12	přesvědčeni	VsMP---XX-AP---	Pnom
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	nebudeme	VB-P---1F-NA---	AuxV
+16	mít	Vf--------A----	Obj
+17	na	RR--4----------	AuxP
+18	zaplacení	NNNS4-----A----	Obj
+19	účtů	NNIP2-----A----	Atr
+20	za	RR--4----------	AuxP
+21	elektřinu	NNFS4-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd91301-957-p4s2A
+1	Původně	Dg-------1A----	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	dostali	VpMP---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	naši	PSFS4-P1-------	Atr
+6	mimořádně	Dg-------1A----	Adv
+7	velikou	AAFS4----1A----	Atr
+8	školu	NNFS4-----A----	Adv
+9	6	C=-------------	Obj
+10	miliónů	NNIP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	po	RR--6----------	AuxP
+13	valorizaci	NNFS6-----A----	Adv
+14	to	PDNS1----------	Sb
+15	nakonec	Db-------------	Adv
+16	dělá	VB-S---3P-AA---	Pred
+17	9	C=-------------	Obj
+18	,	Z:-------------	AuxX
+19	takže	J,-------------	AuxC
+20	můžeme	VB-P---1P-AA---	Adv
+21	nakoupit	Vf--------A----	Obj
+22	,	Z:-------------	AuxX
+23	co	PQ--1----------	Sb
+24	je	VB-S---3P-AA---	Obj
+25	potřeba	NNFS1-----A----	Pnom
+26	,	Z:-------------	AuxX
+27	a	J^-------------	Coord
+28	dát	Vf--------A----	Obj
+29	učitelům	NNMP3-----A----	Obj
+30	i	J^-------------	AuxZ
+31	slušné	AAFP4----1A----	Atr
+32	odměny	NNFP4-----A----	Obj
+33	.	Z:-------------	AuxK
+
+lnd91301-957-p4s3
+1	Bohužel	TT-------------	ExD
+2	ale	J^-------------	Coord
+3	jednorázové	AAFP4----1A----	ExD
+4	,	Z:-------------	AuxX
+5	takže	J,-------------	AuxC
+6	velkou	AAFS4----1A----	Atr
+7	část	NNFS4-----A----	Obj
+8	spolknou	VB-P---3P-AA---	ExD
+9	daně	NNFP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+lnd91301-957-p4s4
+1	Obávám	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	to	PDNS1----------	Sb
+6	pořád	Db-------------	Adv
+7	ještě	Db-------------	AuxZ
+8	nezadrží	VB-S---3P-NA---	Obj
+9	učitele	NNMP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	chtějí	VB-P---3P-AA---	Atr
+13	a	J^-------------	Coord
+14	hlavně	Dg-------1A----	Adv
+15	mají	VB-P---3P-AA---	Atr
+16	možnost	NNFS4-----A----	Obj
+17	odejít	Vf--------A----	Atr
+18	za	RR--7----------	AuxP
+19	lepším	AANS7----2A----	Adv
+20	.	Z:-------------	AuxK
+
+lnd91301-957-p4s5
+1	Letos	Db-------------	Adv
+2	mi	PH-S3--1-------	AuxO
+3	odcházel	VpYS---XR-AA---	Pred
+4	každý	AAIS4----1A----	Atr
+5	měsíc	NNIS4-----A----	Adv
+6	někdo	PZM-1----------	Sb
+7	.	Z:-------------	AuxK
+
+lnd91301-957-p4s6
+1	Tady	Db-------------	Adv
+2	vydělávají	VB-P---3P-AA---	Pred
+3	ti	PDMP1----------	Sb
+4	starší	AAMP1----2A----	Atr
+5	se	RV--7----------	AuxP
+6	vším	PLZS7----------	Atr
+7	všudy	Db-------------	Adv
+8	sotva	Db-------------	Adv
+9	čtyři	ClXP4----------	Atr
+10	tisíce	NNIP4-----A----	Obj
+11	,	Z:-------------	Coord
+12	podniky	NNIP1-----A----	Sb
+13	jim	PPXP3--3-------	Obj
+14	nabízejí	VB-P---3P-AA---	Pred
+15	dvojnásobek	NNIS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd91301-957-p4s7
+1	Zejména	Db-------------	AuxZ
+2	jazykářům	NNMP3-----A----	ExD
+3	.	Z:-------------	AuxK
+
+lnd91301-957-p4s8
+1	Problém	NNIS1-----A----	Pnom
+2	taky	Db-------------	AuxZ
+3	je	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	co	PQ--4----------	Obj
+7	jsme	VB-P---1P-AA---	AuxV
+8	získali	VpMP---XR-AA---	Obj
+9	,	Z:-------------	AuxX
+10	musíme	VB-P---1P-AA---	Sb
+11	do	RR--2----------	AuxP
+12	konce	NNIS2-----A----	Adv
+13	roku	NNIS2-----A---1	Atr
+14	utratit	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd91301-957-p4s9
+1	Převádět	Vf--------A----	Sb
+2	peníze	NNIP4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	různé	AAIP4----1A----	Atr
+5	účely	NNIP4-----A----	ObjAtr
+6	taky	Db-------------	AuxZ
+7	není	VB-S---3P-NA---	Pred
+8	pořád	Db-------------	Adv
+9	možné	AANS1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+lnd91301-957-p4s10
+1	My	PP-P1--1-------	Sb
+2	například	Db-------------	Adv
+3	dostali	VpMP---XR-AA---	Pred
+4	investiční	AAIP4----1A----	Atr
+5	prostředky	NNIP4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	dostavbu	NNFS4-----A----	AtrAdv
+8	tělocvičny	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd91301-957-p4s11
+1	Jedna	ClFS1----------	Atr
+2	firma	NNFS1-----A----	Sb
+3	nám	PP-P3--1-------	Obj
+4	nabízela	VpQW---XR-AA---	Pred
+5	fasádu	NNFS4-----A----	Obj
+6	za	RR--4----------	AuxP
+7	půl	ClXS2----------	AtrAdv
+8	miliónu	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd91301-957-p4s12
+1	Nakonec	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	ale	J^-------------	Coord
+4	sehnali	VpMP---XR-AA---	Pred
+5	jinou	AAFS4----1A----	Obj
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	to	PDNS4----------	Obj
+9	udělá	VB-S---3P-AA---	Atr
+10	za	RR--4----------	AuxP
+11	polovinu	NNFS4-----A----	Adv
+12	,	Z:-------------	AuxX
+13	jenže	J^-------------	Coord
+14	za	RR--4----------	AuxP
+15	těch	PDXP2----------	Atr
+16	ušetřených	AAIP2----1A----	Atr
+17	250000	C=-------------	Adv
+18	nemohu	VB-S---1P-NA--1	Pred
+19	koupit	Vf--------A----	Obj
+20	například	Db-------------	Adv
+21	tolik	Db-------------	Adv
+22	potřebnou	AAFS4----1A----	Atr
+23	kopírku	NNFS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+lnd91301-957-p5s1A
+1	Vaše	PSHS1-P2-------	Atr
+2	škola	NNFS1-----A----	Sb
+3	poskytuje	VB-S---3P-AA---	Pred
+4	víc	Dg-------2A---1	Obj
+5	,	Z:-------------	AuxX
+6	než	J,-------------	AuxC
+7	běžná	AANP1----1A----	Atr
+8	gymnázia	NNNP1-----A----	ExD
+9	.	Z:-------------	AuxK
+
+lnd91301-957-p5s2A
+1	Ve	RV--6----------	AuxP
+2	čtyřech	ClXP6----------	Atr
+3	třídách	NNFP6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	učí	VB-S---3P-AA---	Pred
+6	angličtině	NNFS3-----A----	Obj
+7	až	TT-------------	AuxZ
+8	jedenáct	Cn-S4----------	Adv
+9	hodin	NNFP2-----A----	Atr
+10	týdně	Db-------------	Atr
+11	,	Z:-------------	Coord
+12	přesněji	Dg-------2A----	Adv
+13	řečeno	VsNS---XX-AP---	Adv
+14	anglicky	Dg-------1A----	Adv
+15	učíte	VB-P---2P-AA---	Pred
+16	i	J^-------------	AuxZ
+17	některé	PZYP4----------	Atr
+18	další	AAIP4----1A----	Atr
+19	předměty	NNIP4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+lnd91301-957-p5s3A
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	finančně	Dg-------1A----	Adv
+4	náročné	AANS1----1A----	Pnom
+5	?	Z:-------------	AuxK
+
+lnd91301-957-p6s1A
+1	Jistě	Dg-------1A----	ExD
+2	.	Z:-------------	AuxK
+
+lnd91301-957-p6s2A
+1	Když	J,-------------	AuxC
+2	zaměstnám	VB-S---1P-AA---	Adv
+3	například	Db-------------	Adv
+4	čerstvého	AAMS4----1A----	Atr
+5	absolventa	NNMS4-----A----	Obj
+6	anglistiky	NNFS2-----A----	Atr
+7	z	RR--2----------	AuxP
+8	filozofické	AAFS2----1A----	Atr
+9	fakulty	NNFS2-----A----	Atr
+10	Univerzity	NNFS2-----A----	Atr
+11	Karlovy	AUFS2M---------	Atr
+12	,	Z:-------------	AuxX
+13	jeho	PSXXXZS3-------	Atr
+14	nástupní	AAIS1----1A----	Atr
+15	plat	NNIS1-----A----	Sb
+16	bude	VB-S---3F-AA---	Pred
+17	2400	C=-------------	Pnom
+18	.	Z:-------------	AuxK
+
+lnd91301-957-p6s3
+1	Zahraniční	AAMS1----1A----	Atr
+2	lektor	NNMS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	1100	C=-------------	Adv
+6	korun	NNFP2-----A----	Atr
+7	větší	AAIS4----2A----	Atv
+8	osobní	AAIS4----1A----	Atr
+9	plat	NNIS4-----A----	Obj
+10	,	Z:-------------	Coord
+11	což	PE--1----------	Sb
+12	je	VB-S---3P-AA---	Pred
+13	sice	Db-------------	AuxY
+14	pořád	Db-------------	Adv
+15	ještě	Db-------------	AuxZ
+16	pakatel	NNIS1-----A----	Pnom
+17	-	Z:-------------	AuxG
+18	všichni	PLMP1----------	Sb
+19	to	PDNS4----------	Obj
+20	dělají	VB-P---3P-AA---	Pred
+21	z	RR--2----------	AuxP
+22	čistého	AANS2----1A----	Atr
+23	nadšení	NNNS2-----A----	Adv
+24	-	Z:-------------	AuxG
+25	ale	J^-------------	Coord
+26	mně	PP-S3--1-------	Obj
+27	se	P7-X4----------	AuxR
+28	stejně	Dg-------1A----	Adv
+29	ztenčuje	VB-S---3P-AA---	Pred
+30	mzdový	AAIS1----1A----	Atr
+31	fond	NNIS1-----A----	Sb
+32	víc	Dg-------2A---1	Adv
+33	než	J,-------------	AuxC
+34	jiným	AAFP3----1A----	Atr
+35	školám	NNFP3-----A----	ExD
+36	,	Z:-------------	AuxX
+37	kde	Db-------------	Adv
+38	tolik	Ca--4----------	Obj
+39	lektorů	NNMP2-----A----	Atr
+40	nemají	VB-P---3P-NA---	Atr
+41	.	Z:-------------	AuxK
+
+lnd91301-957-p6s4
+1	Pomáháme	VB-P---1P-AA---	Pred
+2	si	P7-X3----------	Obj
+3	například	Db-------------	Adv
+4	tak	Db-------------	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	za	RR--4----------	AuxP
+8	nepovinné	AAFP4----1N----	Atr
+9	hodiny	NNFP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	jako	J,-------------	AuxC
+12	je	VB-S---3P-AA---	Atr
+13	třeba	Db-------------	AuxZ
+14	latina	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	italština	NNFS1-----A----	Sb
+17	,	Z:-------------	Coord
+18	francouzská	AAFS1----1A----	Atr
+19	konverzace	NNFS1-----A----	Sb
+20	,	Z:-------------	AuxX
+21	rodiče	NNMP1-----A----	Sb
+22	platí	VB-P---3P-AA---	Adv
+23	deset	Cn-S4----------	Obj
+24	korun	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd91301-957-p6s5
+1	Kromě	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	ve	RV--6----------	AuxP
+4	čtyřech	ClXP6----------	Atr
+5	anglických	AAFP6----1A----	Atr
+6	třídách	NNFP6-----A----	Adv
+7	(	Z:-------------	Apos
+8	v	RR--6----------	AuxP
+9	těch	PDXP6----------	Adv
+10	,	Z:-------------	AuxX
+11	kde	Db-------------	Adv
+12	se	P7-X4----------	AuxR
+13	učí	VB-S---3P-AA---	Atr
+14	anglicky	Dg-------1A----	Adv
+15	i	J^-------------	AuxZ
+16	další	AAIP1----1A----	Atr
+17	předměty	NNIP1-----A----	Sb
+18	)	Z:-------------	AuxG
+19	vzniká	VB-S---3P-AA---	Pred
+20	jakási	PZFS1----------	Atr
+21	rodičovská	AAFS1----1A----	Atr
+22	nadace	NNFS1-----A----	Sb
+23	,	Z:-------------	AuxX
+24	která	P4FS1----------	Sb
+25	by	Vc-------------	AuxV
+26	měla	VpQW---XR-AA---	Atr
+27	přinést	Vf--------A----	Obj
+28	od	RR--2----------	AuxP
+29	každého	AAMS2----1A----	Atr
+30	žáka	NNMS2-----A----	Adv
+31	tisícikorunový	AAIS4----1A----	Atr
+32	příspěvek	NNIS4-----A----	Obj
+33	na	RR--4----------	AuxP
+34	rok	NNIS4-----A----	Atr
+35	,	Z:-------------	AuxX
+36	tedy	Db-------------	Coord
+37	stokorunový	AAIS4----1A----	ExD
+38	na	RR--4----------	AuxP
+39	měsíc	NNIS4-----A----	ExD
+40	.	Z:-------------	AuxK
+
+lnd91301-957-p6s6
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	prakticky	Dg-------1A----	Adv
+4	jediná	AAFS1----1A----	Atr
+5	možnost	NNFS1-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	jak	Db-------------	Adv
+8	rozšířenou	AAFS4----1A----	Atr
+9	výuku	NNFS4-----A----	Obj
+10	zachovat	Vf--------A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd91301-957-p6s7
+1	Třetina	CyFS1----------	Sb
+2	takto	Db-------------	Adv
+3	získaných	AAIP2----1A----	Atr
+4	prostředků	NNIP2-----A----	Atr
+5	by	Vc-------------	AuxV
+6	měla	VpQW---XR-AA---	Pred
+7	jít	Vf--------A----	Obj
+8	na	RR--4----------	AuxP
+9	zkvalitnění	NNNS4-----A----	Obj
+10	vybavení	NNNS2-----A----	Atr
+11	(	Z:-------------	AuxG
+12	máme	VB-P---1P-AA---	Pred
+13	tu	Db------------1	Adv
+14	například	Db-------------	Adv
+15	anglickou	AAFS4----1A----	Atr
+16	knihovnu	NNFS4-----A----	Obj
+17	)	Z:-------------	AuxG
+18	,	Z:-------------	AuxX
+19	další	AAFS1----1A----	Atr
+20	třetina	CyFS1----------	ExD
+21	na	RR--4----------	AuxP
+22	zaplacení	NNNS4-----A----	ExD
+23	výdajů	NNIP2-----A----	Atr
+24	lektorům	NNMP3-----A----	Atr
+25	(	Z:-------------	AuxG
+26	platí	VB-P---3P-AA---	Pred
+27	si	P7-X3----------	Obj
+28	tu	Db------------1	Adv
+29	sami	PLMP1----------	AtvV
+30	byt	NNIS4-----A----	Obj
+31	atd	Db------------8	Coord
+32	.	Z:-------------	AuxG
+33	)	Z:-------------	AuxG
+34	,	Z:-------------	AuxX
+35	a	J^-------------	Coord
+36	třetí	CrFS1----------	Atr
+37	třetina	CyFS1----------	Sb
+38	by	Vc-------------	AuxV
+39	se	P7-X4----------	AuxR
+40	dětem	NNFP3-----A----	Obj
+41	vrátila	VpQW---XR-AA---	Pred
+42	v	RR--6----------	AuxP
+43	takových	PDXP6----------	Atr
+44	věcech	NNFP6-----A----	Adv
+45	,	Z:-------------	AuxX
+46	jako	J,-------------	AuxC
+47	jsou	VB-P---3P-AA---	Atr
+48	kopírované	AAIP1----1A----	Atr
+49	učební	AAIP1----1A----	Atr
+50	texty	NNIP1-----A----	Sb
+51	a	J^-------------	Coord
+52	kazety	NNFP1-----A----	Sb
+53	.	Z:-------------	AuxK
+
+lnd91301-957-p7s1A
+1	Souhlasí	VB-P---3P-AA---	Pred
+2	rodiče	NNMP1-----A----	Sb
+3	s	RR--7----------	AuxP
+4	placením	NNNS7-----A----	Obj
+5	?	Z:-------------	AuxK
+
+lnd91301-957-p8s1
+1	V	RR--6----------	AuxP
+2	prvních	CrIP6----------	Atr
+3	ročnících	NNIP6-----A----	ExD
+4	ano	TT-------------	ExD
+5	,	Z:-------------	Coord
+6	v	RR--6----------	AuxP
+7	druhých	CrIP6----------	Adv
+8	byla	VpQW---XR-AA---	Pred
+9	jejich	PSXXXXP3-------	Atr
+10	reakce	NNFS1-----A----	Sb
+11	rozpačitější	AAFS1----2A----	Pnom
+12	.	Z:-------------	AuxK
+
+lnd91301-957-p8s2
+1	Někteří	PZMP1----------	Sb
+2	říkají	VB-P---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	je	VB-S---3P-AA---	Obj
+5	to	PDNS1----------	Sb
+6	přece	Db-------------	Adv
+7	státní	AAFS1----1A----	Atr
+8	škola	NNFS1-----A----	Pnom
+9	.	Z:-------------	AuxK
+
+lnd91301-957-p8s3
+1	Jenomže	J^-------------	Coord
+2	to	PDNS1----------	Sb
+3	,	Z:-------------	AuxX
+4	co	PQ--4----------	Obj
+5	my	PP-P1--1-------	Sb
+6	poskytujeme	VB-P---1P-AA---	Atr
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Pred
+9	nadstandard	NNIS1-----A----	Pnom
+10	.	Z:-------------	AuxK
+
+lnd91301-957-p8s4
+1	V	RR--6----------	AuxP
+2	jazykové	AAFS6----1A----	Atr
+3	škole	NNFS6-----A----	Adv
+4	by	Vc-------------	AuxV
+5	za	RR--4----------	AuxP
+6	něco	PZ--4----------	Obj
+7	takového	PDZS2----------	Atr
+8	platili	VpMP---XR-AA---	Pred
+9	tisíce	NNIP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+lnd91301-957-p8s5
+1	Pokud	J,-------------	AuxC
+2	někteří	PZMP1----------	Sb
+3	nebudou	VB-P---3F-NA---	AuxV
+4	souhlasit	Vf--------A----	Adv
+5	,	Z:-------------	AuxX
+6	není	VB-S---3P-NA---	Pred
+7	vyloučeno	VsNS---XX-AP---	Pnom
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	se	P7-X4----------	AuxR
+11	jedenáct	Cn-S1----------	Sb
+12	hodin	NNFP2-----A----	Atr
+13	angličtiny	NNFS2-----A----	Atr
+14	nebude	VB-S---3F-NA---	AuxV
+15	nadále	Db-------------	Adv
+16	učit	Vf--------A----	Sb
+17	ve	RV--6----------	AuxP
+18	všech	PLXP6----------	Atr
+19	čtyřech	ClXP6----------	Atr
+20	třídách	NNFP6-----A----	Adv
+21	,	Z:-------------	AuxX
+22	ale	J^-------------	Coord
+23	jen	TT-------------	AuxZ
+24	tam	Db-------------	Adv
+25	,	Z:-------------	AuxX
+26	kde	Db-------------	Adv
+27	se	P7-X4----------	AuxT
+28	rodiče	NNMP1-----A----	Sb
+29	dohodnou	VB-P---3P-AA---	Adv
+30	.	Z:-------------	AuxK
+
+lnd91301-957-p9s1
+1	Slyšela	VpQW---XR-AA---	Pred
+2	jste	VB-P---2P-AA---	AuxV
+3	o	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	by	Vc-------------	AuxV
+8	školy	NNFP1-----A----	Sb
+9	mohly	VpTP---XR-AA---	Atr
+10	být	Vf--------A----	Obj
+11	financovány	VsTP---XX-AP---	Pnom
+12	ne	TT-------------	AuxZ
+13	podle	RR--2----------	AuxP
+14	toho	PDZS2----------	Adv
+15	,	Z:-------------	AuxX
+16	kolik	C?--4----------	Obj
+17	dostaly	VpTP---XR-AA---	Atr
+18	loni	Db------------1	Adv
+19	,	Z:-------------	AuxX
+20	ale	J^-------------	Coord
+21	jedním	ClZS7----------	Obj
+22	z	RR--2----------	AuxP
+23	hlavních	AANP2----1A----	Atr
+24	kritérií	NNNP2-----A----	Atr
+25	by	Vc-------------	AuxV
+26	se	P7-X4----------	AuxT
+27	stal	VpYS---XR-AA---	Atr
+28	počet	NNIS1-----A----	Sb
+29	žáků	NNMP2-----A----	Atr
+30	?	Z:-------------	AuxK
+
+lnd91301-957-p10s1
+1	Slyšela	VpQW---XR-AA---	Pred
+2	a	J^-------------	Coord
+3	považuji	VB-S---1P-AA--1	Pred
+4	dotace	NNFP4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	žáka	NNMS4-----A----	Atr
+7	za	RR--4----------	AuxP
+8	spravedlivější	AAFP4----2A----	Obj
+9	.	Z:-------------	AuxK
+
+lnd91301-957-p10s2
+1	Ovšemže	TT-------------	Adv
+2	je	PPXP4--3-------	Obj
+3	nelze	VB-S---3P-NA---	Pred
+4	absolutizovat	Vf--------A----	Sb
+5	a	J^-------------	Coord
+6	musí	VB-S---3P-AA---	Pred
+7	se	P7-X4----------	AuxR
+8	ponechat	Vf--------A----	Obj
+9	prostor	NNIS1-----A----	Sb
+10	pro	RR--4----------	AuxP
+11	vyrovnávání	NNNS4-----A----	Atr
+12	objektivních	AAFP2----1A----	Atr
+13	podmínek	NNFP2-----A----	Atr
+14	škol	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd91301-957-p10s3
+1	Ale	J^-------------	Coord
+2	s	RR--7----------	AuxP
+3	tím	PDZS7----------	Obj
+4	se	P7-X4----------	AuxR
+5	prý	TT-------------	AuxY
+6	počítá	VB-S---3P-AA---	Pred
+7	.	Z:-------------	AuxK
+
+lnd91301-957-p11s1
+1	RADKA	NNFS1-----A----	Atr
+2	KVAČKOVÁ	NNFS1-----A----	ExD
+

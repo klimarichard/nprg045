@@ -1,0 +1,1927 @@
+lnd91303-063-p1s1
+1	JACQUES	NNMS1-----A----	Atr
+2	RUPNIK	NNMS1-----A----	ExD
+3	K	RR--3----------	AuxP
+4	OTÁZKÁM	NNFP3-----A----	ExD
+5	STŘEDNÍ	AAFS2----1A----	Atr
+6	EVROPY	NNFS2-----A----	Atr
+
+lnd91303-063-p2s1
+1	První	CrFS1----------	Atr
+2	krize	NNFS1-----A----	ExD
+3	demokracie	NNFS2-----A----	Atr
+
+lnd91303-063-p3s1
+1	Palby	NNFP1-----A----	ExD
+2	otázek	NNFP2-----A----	Atr
+3	-	Z:-------------	Coord
+4	tak	Db-------------	Adv
+5	se	P7-X4----------	AuxR
+6	dají	VB-P---3P-AA---	Pred
+7	přeneseně	Dg-------1A----	Adv
+8	charakterizovat	Vf--------A----	Obj
+9	besedy	NNFP1-----A----	Sb
+10	různých	AAFP2----1A----	Atr
+11	význačných	AAFP2----1A----	Atr
+12	osobností	NNFP2-----A----	Atr
+13	se	RV--7----------	AuxP
+14	studenty	NNMP7-----A----	Atr
+15	fakulty	NNFS2-----A----	Atr
+16	sociálních	AAFP2----1A----	Atr
+17	věd	NNFP2-----A----	Atr
+18	UK	NNFXX-----A---8	Atr
+19	Praha	NNFS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd91303-063-p3s2
+1	Besedy	NNFP1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	které	P4FP1----------	Sb
+4	jsou	VB-P---3P-AA---	Atr
+5	oblíbené	AAFP1----1A----	Pnom
+6	a	J^-------------	Coord
+7	atraktivní	AAFP1----1A----	Pnom
+8	pro	RR--4----------	AuxP
+9	svou	P8FS4---------1	Atr
+10	bezprostřednost	NNFS4-----A----	Adv
+11	a	J^-------------	Coord
+12	autentičnost	NNFS4-----A----	Adv
+13	odpovědí	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd91303-063-p3s3
+1	Besedy	NNFP1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	které	P4FP1----------	Sb
+4	již	Db-------------	Adv
+5	pomalu	Db-------------	Adv
+6	na	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	fakultě	NNFS6-----A----	Adv
+9	přerůstají	VB-P---3P-AA---	Atr
+10	v	RR--4----------	AuxP
+11	tradice	NNFP4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+lnd91303-063-p4s1
+1	Pozvání	NNNS4-----A----	Obj
+2	přijal	VpYS---XR-AA---	Pred
+3	i	J^-------------	AuxZ
+4	známý	AAMS1----1A----	Atr
+5	francouzský	AAMS1----1A----	Atr
+6	politolog	NNMS1-----A----	Atr
+7	a	J^-------------	Coord
+8	publicista	NNMS1-----A----	Atr
+9	českého	AAIS2----1A----	Atr
+10	původu	NNIS2-----A----	Atr
+11	Jacques	NNMS1-----A----	Atr
+12	Rupnik	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+lnd91303-063-p4s2
+1	Hovořil	VpYS---XR-AA---	Pred
+2	na	RR--4----------	AuxP
+3	téma	NNNS4-----A----	Adv
+4	střední	AAFS1----1A----	Atr
+5	Evropa	NNFS1-----A----	Atr
+6	dnes	Db-------------	Atr
+7	.	Z:-------------	AuxK
+
+lnd91303-063-p4s3
+1	Výňatky	NNIP4-----A----	Obj
+2	besedy	NNFS2-----A----	Atr
+3	přinášíme	VB-P---1P-AA---	Pred
+4	našim	PSXP3-P1-------	Atr
+5	čtenářům	NNMP3-----A----	Adv
+6	v	RR--6----------	AuxP
+7	následujícím	AGIS6-----A----	Atr
+8	textu	NNIS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+lnd91303-063-p5s1
+1	Jak	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	díváte	VB-P---2P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	současnou	AAFS4----1A----	Atr
+6	politickou	AAFS4----1A----	Atr
+7	situaci	NNFS4-----A----	Obj
+8	střední	AAFS2----1A----	Atr
+9	Evropy	NNFS2-----A----	Atr
+10	?	Z:-------------	AuxK
+
+lnd91303-063-p6s1
+1	Střední	AAFS1----1A----	Atr
+2	Evropa	NNFS1-----A----	Sb
+3	a	J^-------------	Coord
+4	její	PSFSXFS3-------	Atr
+5	politická	AAFS1----1A----	Atr
+6	situace	NNFS1-----A----	Sb
+7	se	P7-X4----------	AuxR
+8	dá	VB-S---3P-AA---	Pred
+9	charakterizovat	Vf--------A----	Obj
+10	jako	J,-------------	AuxY
+11	vznikající	AGFS1-----A----	Atr
+12	demokracie	NNFS1-----A----	Obj
+13	.	Z:-------------	AuxK
+
+lnd91303-063-p6s2
+1	Jedná	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	o	RR--4----------	AuxP
+4	celý	AAIS4----1A----	Atr
+5	koncept	NNIS4-----A----	Obj
+6	pluralismu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd91303-063-p6s3
+1	Jsme	VB-P---1P-AA---	Pred
+2	svědky	NNMP7-----A----	Pnom
+3	několika	Ca--2----------	Atr
+4	fází	NNFP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	jež	PJFS1----------	Sb
+7	se	P7-X4----------	AuxR
+8	od	RR--2----------	AuxP
+9	sebe	P6-X2----------	Adv
+10	v	RR--6----------	AuxP
+11	žádném	PWZS6----------	Atr
+12	případě	NNIS6-----A----	Adv
+13	nedají	VB-P---3P-NA---	Atr
+14	oddělit	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd91303-063-p6s4
+1	Kontinuita	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	zřejmá	AAFS1----1A----	Pnom
+4	.	Z:-------------	AuxK
+
+lnd91303-063-p6s5
+1	1	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	období	NNNS1-----A----	ExD
+4	:	Z:-------------	Apos
+5	"	Z:-------------	AuxG
+6	jasný	AAMS1----1A----	Atr
+7	nepřítel	NNMS1-----A----	ExD
+8	"	Z:-------------	AuxG
+9	-	Z:-------------	Coord
+10	vědomí	NNNS1-----A----	Sb
+11	"	Z:-------------	AuxG
+12	oni	PPMP1--3-------	Atr
+13	a	J^-------------	Coord
+14	my	PP-P1--1-------	Atr
+15	"	Z:-------------	AuxG
+16	jasně	Dg-------1A----	Adv
+17	definuje	VB-S---3P-AA---	Pred
+18	nepřítele	NNMS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	kterého	P4MS4----------	Obj
+21	je	VB-S---3P-AA---	Atr
+22	třeba	ACNS------A----	Pnom
+23	porazit	Vf--------A----	Sb
+24	.	Z:-------------	AuxK
+
+lnd91303-063-p6s6
+1	A	J^-------------	Coord
+2	to	PDNS1----------	Sb
+3	se	P7-X4----------	AuxT
+4	může	VB-S---3P-AA---	Pred
+5	podařit	Vf--------A----	Obj
+6	jen	TT-------------	Atr
+7	pomocí	NNFS7-----A----	AuxP
+8	co	Db-------------	Adv
+9	největší	AAFS2----3A----	Atr
+10	opoziční	AAFS2----1A----	Atr
+11	síly	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	se	P7-X4----------	AuxT
+15	kolektivně	Dg-------1A----	Adv
+16	dokáže	VB-S---3P-AA---	Atr
+17	postavit	Vf--------A----	Obj
+18	totalitní	AAFS3----1A----	Atr
+19	moci	NNFS3-----A----	Obj
+20	na	RR--4----------	AuxP
+21	odpor	NNIS4-----A----	Adv
+22	.	Z:-------------	AuxK
+
+lnd91303-063-p6s7
+1	Je	VB-S---3P-AA---	Pred
+2	zde	Db-------------	Adv
+3	zjevná	AAFS1----1A----	Atr
+4	averze	NNFS1-----A----	Sb
+5	na	RR--4----------	AuxP
+6	politické	AAFP4----1A----	Atr
+7	strany	NNFP4-----A----	Atr
+8	jako	J,-------------	AuxY
+9	takové	PDFP4----------	Atv
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p6s8
+1	Historicky	Dg-------1A----	Adv
+2	toto	PDNS4----------	Atr
+3	období	NNNS4-----A----	Obj
+4	reprezentuje	VB-S---3P-AA---	Pred
+5	Solidarita	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	Polsku	NNNS6-----A----	AtrAdv
+8	.	Z:-------------	AuxK
+
+lnd91303-063-p6s9
+1	Občanské	AANS1----1A----	Atr
+2	Fórum	NNNS1-----A----	ExD
+3	spolu	Db-------------	ExD
+4	s	RR--7----------	AuxP
+5	VPN	NNFXX-----A----	ExD
+6	v	RR--6----------	AuxP
+7	Československu	NNNS6-----A----	ExD
+8	a	J^-------------	Coord
+9	Demokratický	AAIS1----1A----	Atr
+10	svaz	NNIS1-----A----	ExD
+11	v	RR--6----------	AuxP
+12	Maďarsku	NNNS6-----A----	ExD
+13	.	Z:-------------	AuxK
+
+lnd91303-063-p6s10
+1	2	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	období	NNNS1-----A----	ExD
+4	:	Z:-------------	Apos
+5	štěpení	NNNS1-----A----	ExD
+6	-	Z:-------------	Coord
+7	jednotná	AAFS1----1A----	Atr
+8	"	Z:-------------	AuxG
+9	lidová	AAFS1----1A----	Atr
+10	opoziční	AAFS1----1A----	Atr
+11	fronta	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	jež	PJFS1----------	Sb
+14	se	P7-X4----------	AuxT
+15	mezitím	Db-------------	Adv
+16	dostala	VpQW---XR-AA---	Atr
+17	k	RR--3----------	AuxP
+18	moci	NNFS3-----A----	Adv
+19	,	Z:-------------	AuxX
+20	se	P7-X4----------	Obj
+21	začíná	VB-S---3P-AA---	Pred
+22	pro	RR--4----------	AuxP
+23	názorové	AAIP4----1A----	Atr
+24	politické	AAIP4----1A----	Atr
+25	rozdíly	NNIP4-----A----	Adv
+26	dělit	Vf--------A----	Obj
+27	.	Z:-------------	AuxK
+
+lnd91303-063-p6s11
+1	Nejprve	Db-------------	ExD
+2	na	RR--4----------	AuxP
+3	frakce	NNFP4-----A----	ExD
+4	,	Z:-------------	Coord
+5	pak	Db-------------	ExD
+6	přímo	Dg-------1A----	ExD
+7	do	RR--2----------	AuxP
+8	vnikajících	AGFP2-----A----	Atr
+9	politických	AAFP2----1A----	Atr
+10	stran	NNFP2-----A----	ExD
+11	.	Z:-------------	AuxK
+
+lnd91303-063-p6s12
+1	V	RR--6----------	AuxP
+2	ČSFR	NNFXX-----A---8	Adv
+3	to	PDNS1----------	Sb
+4	bylo	VpNS---XR-AA---	Pred
+5	štěpení	NNNS1-----A----	Pnom
+6	OF	NNNXX-----A---8	Atr
+7	,	Z:-------------	AuxX
+8	v	RR--6----------	AuxP
+9	Polsku	NNNS6-----A----	ExD
+10	prezidentská	AAFS1----1A----	Atr
+11	kampaň	NNFS1-----A----	ExD
+12	,	Z:-------------	AuxX
+13	.	Z:-------------	AuxG
+14	.	Z:-------------	AuxG
+15	.	Z:-------------	Coord
+
+lnd91303-063-p6s13
+1	3	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	období	NNNS1-----A----	Sb
+4	:	Z:-------------	Apos
+5	obrovská	AAFS1----1A----	Atr
+6	roztříštěnost	NNFS1-----A----	Sb
+7	-	Z:-------------	AuxG
+8	existuje	VB-S---3P-AA---	Pred
+9	mnoho	Ca--1----------	Sb
+10	maličkých	AAFP2----1A----	Atr
+11	i	J^-------------	Coord
+12	větších	AAFP2----2A----	Atr
+13	stran	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	většinou	NNFS7-----A----	Adv
+16	jen	TT-------------	AuxZ
+17	málo	Dg-------1A----	Adv
+18	se	P7-X4----------	AuxT
+19	lišících	AGFP2-----A----	Atr
+20	a	J^-------------	Coord
+21	nezřetelně	Dg-------1N----	Adv
+22	polarizovaných	AAFP2----1A----	Atr
+23	,	Z:-------------	AuxX
+24	v	RR--6----------	AuxP
+25	praxi	NNFS6-----A----	Adv
+26	paralyzuje	VB-S---3P-AA---	Pred
+27	normální	AAIS4----1A----	Atr
+28	chod	NNIS4-----A----	Obj
+29	státu	NNIS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+lnd91303-063-p6s14
+1	V	RR--6----------	AuxP
+2	parlamentu	NNIS6-----A---1	Adv
+3	to	PDNS1----------	Sb
+4	vede	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	nechuti	NNFS3-----A----	Adv
+7	ke	RV--3----------	AuxP
+8	kompromisům	NNIP3-----A----	Atr
+9	a	J^-------------	Coord
+10	tím	PDZS7----------	Adv
+11	se	P7-X4----------	AuxR
+12	,	Z:-------------	AuxX
+13	až	TT-------------	AuxP
+14	na	RR--4----------	AuxP
+15	výjimky	NNFP4-----A----	Adv
+16	,	Z:-------------	AuxX
+17	zastavuje	VB-S---3P-AA---	Pred
+18	jeho	PSXXXZS3-------	Atr
+19	nejzákladnější	AAFS1----3A----	Atr
+20	legislativní	AAFS1----1A----	Atr
+21	funkce	NNFS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+lnd91303-063-p6s15
+1	Jednotlivé	AAFP1----1A----	Atr
+2	strany	NNFP1-----A----	Sb
+3	se	P7-X4----------	Obj
+4	napadají	VB-P---3P-AA---	Pred
+5	prakticky	Dg-------1A----	Adv
+6	pro	RR--4----------	AuxP
+7	vše	PLNS4---------1	Adv
+8	,	Z:-------------	Coord
+9	není	VB-S---3P-NA---	Pred
+10	rozhodnutí	NNNS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	aby	J,-------------	AuxC
+13	nebylo	VpNS---XR-NA---	Adv
+14	zpochybněno	VsNS---XX-AP---	Pnom
+15	.	Z:-------------	AuxK
+16	.	Z:-------------	AuxK
+17	.	Z:-------------	AuxK
+
+lnd91303-063-p6s16
+1	Jsme	VB-P---1P-AA---	Pred
+2	svědky	NNMP7-----A----	Pnom
+3	první	CrFS2----------	Atr
+4	krize	NNFS2-----A----	Atr
+5	autority	NNFS2-----A----	Atr
+6	státu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd91303-063-p6s17
+1	Neboli	J^-------------	Apos
+2	dostavila	VpQW---XR-AA---	Pred
+3	se	P7-X4----------	AuxT
+4	první	CrFS1----------	Atr
+5	krize	NNFS1-----A----	Sb
+6	demokracie	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	jež	PJFS1----------	Sb
+9	se	P7-X4----------	AuxT
+10	vyznačuje	VB-S---3P-AA---	Atr
+11	válkou	NNFS7-----A----	Obj
+12	suverenit	NNFP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	znevažováním	NNNS7-----A----	Obj
+15	všech	PLXP2----------	Atr
+16	institucí	NNFP2-----A----	Atr
+17	,	Z:-------------	Apos
+18	parlamentu	NNIS2-----A----	Atr
+19	,	Z:-------------	Coord
+20	policie	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+22	.	Z:-------------	AuxK
+23	.	Z:-------------	AuxK
+
+lnd91303-063-p7s1
+1	Kde	Db-------------	Adv
+2	vidíte	VB-P---2P-AA---	Pred
+3	řešení	NNNS4-----A----	Obj
+4	?	Z:-------------	AuxK
+
+lnd91303-063-p8s1
+1	Řešením	NNNS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	volební	AAIS1----1A----	Atr
+4	zákon	NNIS1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+lnd91303-063-p8s2
+1	Kvalitní	AAIS1----1A----	Atr
+2	volební	AAIS1----1A----	Atr
+3	zákon	NNIS1-----A----	ExD
+4	a	J^-------------	AuxY
+5	to	PDNS1----------	AuxY
+6	většinový	AAIS1----1A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd91303-063-p8s3
+1	Současný	AAIS1----1A----	Atr
+2	volební	AAIS1----1A----	Atr
+3	systém	NNIS1-----A----	Sb
+4	poměrný	AAIS1----1A----	Atr
+5	,	Z:-------------	AuxX
+6	jako	J,-------------	AuxY
+7	relikt	NNIS1-----A----	Atv
+8	období	NNNS2-----A----	Atr
+9	"	Z:-------------	AuxG
+10	jasného	AAMS2----1A----	Atr
+11	nepřítele	NNMS2-----A----	Atr
+12	"	Z:-------------	AuxG
+13	,	Z:-------------	AuxX
+14	je	VB-S---3P-AA---	Pred
+15	a	J^-------------	Coord
+16	už	Db-------------	AuxZ
+17	tehdy	Db-------------	Adv
+18	byl	VpYS---XR-AA---	Pred
+19	,	Z:-------------	AuxX
+20	chybný	AAIS1----1A----	Pnom
+21	.	Z:-------------	AuxK
+
+lnd91303-063-p8s4
+1	Volby	NNFP1-----A----	Sb
+2	nejsou	VB-P---3P-NA---	Pred
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	si	P7-X3----------	AuxT
+6	tehdejší	AAMP1----1A----	Atr
+7	zákonodárci	NNMP1-----A----	Sb
+8	naivně	Dg-------1A----	Adv
+9	mysleli	VpMP---XR-AA---	Adv
+10	,	Z:-------------	AuxX
+11	sčítání	NNNS1-----A----	Pnom
+12	lidu	NNIS2-----A----	Atr
+13	a	J^-------------	Coord
+14	parlament	NNIS1-----A----	Sb
+15	není	VB-S---3P-NA---	Pred
+16	fotografie	NNFS1-----A----	Pnom
+17	společnosti	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	kde	Db-------------	Adv
+20	má	VB-S---3P-AA---	Atr
+21	být	Vf--------A----	Obj
+22	zastoupen	VsYS---XX-AP---	Pnom
+23	každý	AAMS1----1A----	Atr
+24	volič	NNMS1-----A----	Sb
+25	pomocí	NNFS7-----A----	AuxP
+26	své	P8FS2---------1	Atr
+27	strany	NNFS2-----A----	Adv
+28	.	Z:-------------	AuxK
+
+lnd91303-063-p8s5
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	pochopitelné	AANS1----1A----	Pnom
+4	po	RR--6----------	AuxP
+5	40	C=-------------	Adv
+6	letech	NNNP6-----A----	Atr
+7	nesvobody	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	pramalých	AAFP6----1A----	Atr
+10	zkušenostech	NNFP6-----A----	Adv
+11	s	RR--7----------	AuxP
+12	funkcí	NNFS7-----A----	Atr
+13	základního	AAIS2----1A----	Atr
+14	pilíře	NNIS2-----A----	Atr
+15	demokracie	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91303-063-p8s6
+1	Tento	PDYS1----------	Atr
+2	systém	NNIS1-----A----	Sb
+3	však	J^-------------	Coord
+4	vede	VB-S---3P-AA---	Pred
+5	zcela	Db-------------	Adv
+6	jasně	Dg-------1A----	Adv
+7	do	RR--2----------	AuxP
+8	slepé	AAFS2----1A----	Atr
+9	uličky	NNFS2-----A----	Adv
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p8s7
+1	Typickým	AAIS7----1A----	Atr
+2	příkladem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	dnešní	AANS1----1A----	Atr
+5	Polsko	NNNS1-----A----	Sb
+6	a	J^-------------	Coord
+7	jejich	PSXXXXP3-------	Atr
+8	nedávné	AAFP1----1N----	Atr
+9	volby	NNFP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p8s8
+1	Zúčastnilo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	jich	PPXP2--3-------	Obj
+4	100	C=-------------	Sb
+5	politických	AAFP2----1A----	Atr
+6	stran	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	jejich	PSXXXXP3-------	Atr
+9	"	Z:-------------	AuxG
+10	vítěz	NNMS1-----A----	Sb
+11	"	Z:-------------	AuxG
+12	získal	VpYS---XR-AA---	Pred
+13	12	C=-------------	Obj
+14	%	Z:-------------	Atr
+15	hlasů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91303-063-p8s9
+1	Je	VB-S---3P-AA---	Pred
+2	zde	Db-------------	Adv
+3	nemožnost	NNFS1-----N----	Sb
+4	sestavení	NNNS2-----A----	Atr
+5	jakékoli	PZFS2---------1	Atr
+6	koalice	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	získání	NNNS2-----A----	Atr
+9	většiny	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	parlamentu	NNIS6-----A---1	Atr
+12	a	J^-------------	Coord
+13	tudíž	J^-------------	AuxY
+14	vytvoření	NNNS2-----A----	Atr
+15	nějaké	PZFS2----------	Atr
+16	vlády	NNFS2-----A----	Atr
+17	s	RR--7----------	AuxP
+18	určitým	AANS7----1A----	Atr
+19	programovým	AANS7----1A----	Atr
+20	prohlášením	NNNS7-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd91303-063-p8s10
+1	Případné	AANS1----1A----	Atr
+2	řešení	NNNS1-----A----	Sb
+3	bude	VB-S---3F-AA---	Pred
+4	však	J^-------------	Coord
+5	provizorní	AANS1----1A----	Pnom
+6	.	Z:-------------	AuxK
+
+lnd91303-063-p8s11
+1	A	J^-------------	Coord
+2	toto	PDNS1----------	Atr
+3	nebezpečí	NNNS1-----A----	Sb
+4	hrozí	VB-S---3P-AA---	Pred
+5	nyní	Db-------------	Adv
+6	i	J^-------------	AuxY
+7	v	RR--6----------	AuxP
+8	Československu	NNNS6-----A----	Atr
+9	,	Z:-------------	AuxX
+10	pokud	J,-------------	AuxC
+11	nezmění	VB-S---3P-NA---	Adv
+12	svůj	P8IS4----------	Atr
+13	volební	AAIS4----1A----	Atr
+14	zákon	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd91303-063-p8s12
+1	Současný	AAIS1----1A----	Atr
+2	parlament	NNIS1-----A----	Sb
+3	však	J^-------------	Coord
+4	jen	TT-------------	AuxZ
+5	asi	TT-------------	AuxZ
+6	těžko	Dg-------1A----	Adv
+7	odhlasuje	VB-S---3P-AA---	Pred
+8	zákon	NNIS4-----A----	Obj
+9	proti	RR--3----------	AuxP
+10	sobě	P6-X3----------	AtrAdv
+11	.	Z:-------------	AuxK
+
+lnd91303-063-p9s1
+1	Mohl	VpYS---XR-AA---	Pred
+2	byste	Vc-P---2-------	AuxV
+3	uvést	Vf--------A----	Obj
+4	některé	PZYP4----------	Atr
+5	příklady	NNIP4-----A----	Obj
+6	volebních	AAIP2----1A----	Atr
+7	systémů	NNIP2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Evropě	NNFS6-----A----	AtrAtr
+10	?	Z:-------------	AuxK
+
+lnd91303-063-p10s1
+1	Demokratické	AAIP1----1A----	Atr
+2	státy	NNIP1-----A----	Sb
+3	Evropy	NNFS2-----A----	Atr
+4	si	P7-X3----------	Adv
+5	vypracovaly	VpTP---XR-AA---	Pred
+6	volební	AAIP4----1A----	Atr
+7	systémy	NNIP4-----A----	Obj
+8	podle	RR--2----------	AuxP
+9	svých	P8XP2----------	Atr
+10	specifik	NNNP2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+lnd91303-063-p10s2
+1	Formy	NNFP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	různé	AAFP1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	ale	J^-------------	Coord
+6	princip	NNIS1-----A----	Sb
+7	je	VB-S---3P-AA---	Pred
+8	jednoznačně	Dg-------1A----	Adv
+9	daný	AAIS1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p10s3
+1	Dílem	NNIS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	koalice	NNFS1-----A----	Sb
+4	neboli	J^-------------	Apos
+5	fungování	NNNS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+lnd91303-063-p11s1
+1	Například	Db-------------	Adv
+2	Francie	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	systém	NNIS4-----A----	Obj
+5	dvoukolový	AAIS4----1A----	Atr
+6	.	Z:-------------	AuxK
+
+lnd91303-063-p11s2
+1	V	RR--6----------	AuxP
+2	prvním	CrNS6----------	Atr
+3	kole	NNNS6-----A----	Adv
+4	každý	AAMS1----1A----	Sb
+5	volí	VB-S---3P-AA---	Pred
+6	svou	P8FS4---------1	Atr
+7	stranu	NNFS4-----A----	Obj
+8	,	Z:-------------	Coord
+9	ve	RV--6----------	AuxP
+10	druhém	CrNS6----------	ExD
+11	už	Db-------------	Adv
+12	mezi	RR--7----------	AuxP
+13	sebou	P6-X7----------	Adv
+14	soupeří	VB-P---3P-AA---	Pred
+15	jen	TT-------------	AuxZ
+16	dvě	ClHP1----------	ExD
+17	nejsilnější	AAFP1----3A----	ExD
+18	z	RR--2----------	AuxP
+19	prvního	CrNS2----------	Atr
+20	kola	NNNS2-----A----	Adv
+21	.	Z:-------------	AuxK
+
+lnd91303-063-p11s3
+1	Nebo	J^-------------	Coord
+2	Německo	NNNS1-----A----	Sb
+3	používá	VB-S---3P-AA---	Pred
+4	kompromis	NNIS4-----A----	Obj
+5	mezi	RR--7----------	AuxP
+6	poměrným	AANS7----1A----	Atr
+7	a	J^-------------	Coord
+8	většinovým	AANS7----1A----	Atr
+9	řešením	NNNS7-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p11s4
+1	Většinový	AAIS1----1A----	Atr
+2	systém	NNIS1-----A----	Sb
+3	navíc	Db-------------	Adv
+4	umožňuje	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	volit	Vf--------A----	Obj
+7	osobnosti	NNFP4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+lnd91303-063-p12s1
+1	Ministr	NNMS1-----A----	Atr
+2	Klaus	NNMS1-----A----	Sb
+3	zde	Db-------------	Adv
+4	několik	Ca--4----------	Adv
+5	dní	NNIP2-----A---1	Atr
+6	před	RR--7----------	AuxP
+7	vámi	PP-P7--2-------	Atr
+8	řekl	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	současný	AAIS1----1A----	Atr
+12	parlament	NNIS1-----A----	Sb
+13	nepřijme	VB-S---3P-NA---	Obj
+14	většinový	AAIS4----1A----	Atr
+15	volební	AAIS4----1A----	Atr
+16	systém	NNIS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+lnd91303-063-p12s2
+1	Co	PQ--4----------	ExD
+2	teď	Db-------------	ExD
+3	?	Z:-------------	AuxK
+
+lnd91303-063-p12s3
+1	Co	PQ--4----------	Obj
+2	s	RR--7----------	AuxP
+3	tím	PDZS7----------	Obj
+4	dělat	Vf--------A----	ExD
+5	?	Z:-------------	AuxK
+
+lnd91303-063-p13s1
+1	Uměle	Dg-------1A----	Adv
+2	to	PDNS1----------	Sb
+3	nepůjde	VB-S---3F-NA---	Pred
+4	.	Z:-------------	AuxK
+
+lnd91303-063-p13s2
+1	Doporučování	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	bude	VB-S---3F-AA---	AuxV
+4	míjet	Vf--------A----	Pred
+5	účinkem	NNIS7-----A----	Obj
+6	.	Z:-------------	AuxK
+
+lnd91303-063-p13s3
+1	Možná	Db-------------	ExD
+2	však	J^-------------	Coord
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	Polsko	NNNS1-----A----	Sb
+6	bude	VB-S---3F-AA---	ExD
+7	impuls	NNIS1-----A----	Pnom
+8	,	Z:-------------	Coord
+9	memento	NNNS1-----A----	Pnom
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p13s4
+1	V	RR--6----------	AuxP
+2	ČSFR	NNFXX-----A---8	Adv
+3	převládá	VB-S---3P-AA---	Pred
+4	strach	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	většinový	AAIS1----1A----	Atr
+8	systém	NNIS1-----A----	Sb
+9	posílí	VB-S---3P-AA---	Atr
+10	pozici	NNFS4-----A----	Obj
+11	ODS	NNFXX-----A---8	Atr
+12	v	RR--6----------	AuxP
+13	Čechách	NNFP6-----A----	Adv
+14	a	J^-------------	Coord
+15	HZDS	NNNXX-----A---8	ExD
+16	na	RR--6----------	AuxP
+17	Slovensku	NNNS6-----A----	ExD
+18	,	Z:-------------	Coord
+19	což	PE--1----------	Sb
+20	by	Vc-------------	AuxV
+21	vedlo	VpNS---XR-AA---	Atr
+22	k	RR--3----------	AuxP
+23	bipolaritě	NNFS3-----A----	Adv
+24	federace	NNFS2-----A----	Atr
+25	(	Z:-------------	ExD
+26	pravice	NNFS1-----A----	ExD
+27	kontra	RR--1----------	AuxP
+28	levice	NNFS1-----A----	ExD
+29	)	Z:-------------	ExD
+30	.	Z:-------------	AuxK
+
+lnd91303-063-p13s5
+1	Je	VB-S---3P-AA---	Pred
+2	zde	Db-------------	Adv
+3	i	J^-------------	AuxZ
+4	problém	NNIS1-----A----	Sb
+5	národnostních	AAFP2----1A----	Atr
+6	menšin	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	jako	J,-------------	AuxY
+9	hlavní	AAIS1----1A----	Atr
+10	faktor	NNIS1-----A----	Atv
+11	hovořící	AGIS1-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	poměrný	AAIS4----1A----	Atr
+14	systém	NNIS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	neboť	J^-------------	Coord
+17	ty	PDFP1----------	Sb
+18	by	Vc-------------	AuxV
+19	byly	VpTP---XR-AA---	AuxV
+20	čistě	Dg-------1A----	Adv
+21	většinovým	AAIS7----1A----	Atr
+22	systémem	NNIS7-----A----	Adv
+23	"	Z:-------------	AuxG
+24	biti	VsMP---XX-AP---	Pred
+25	"	Z:-------------	AuxG
+26	.	Z:-------------	AuxK
+
+lnd91303-063-p13s6
+1	Variant	NNFP2-----A----	Atr
+2	a	J^-------------	Coord
+3	kombinací	NNFP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	vše	PLNS4---------1	Obj
+7	řešit	Vf--------A----	Atr
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	mnoho	Ca--1----------	Sb
+11	.	Z:-------------	AuxK
+
+lnd91303-063-p13s7
+1	Například	Db-------------	Adv
+2	(	Z:-------------	AuxG
+3	a	J^-------------	Coord
+4	to	PDNS1----------	Sb
+5	netvrdím	VB-S---1P-NA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	musí	VB-S---3P-AA---	Obj
+9	být	Vf--------A----	Obj
+10	přijato	VsNS---XX-AP---	Pnom
+11	)	Z:-------------	AuxG
+12	se	P7-X4----------	AuxR
+13	může	VB-S---3P-AA---	Pred
+14	do	RR--2----------	AuxP
+15	Federálního	AANS2----1A----	Atr
+16	shromáždění	NNNS2-----A----	Adv
+17	volit	Vf--------A----	Obj
+18	většinově	Dg-------1A----	Adv
+19	a	J^-------------	Coord
+20	do	RR--2----------	AuxP
+21	národních	AAFP2----1A----	Atr
+22	rad	NNFP2-----A----	ExD
+23	poměrně	Dg-------1A----	ExD
+24	.	Z:-------------	AuxK
+
+lnd91303-063-p14s1
+1	Kde	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	bere	VB-S---3P-AA---	Pred
+4	nedůvěra	NNFS1-----A----	Sb
+5	lidí	NNMP2-----A----	Atr
+6	v	RR--4----------	AuxP
+7	jejich	PSXXXXP3-------	Atr
+8	současné	AAMP4----1A----	Atr
+9	vedoucí	AGMP4-----A----	Atr
+10	představitele	NNMP4-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4YP4----------	Obj
+13	si	P7-X3----------	Adv
+14	sami	PLMP1----------	AtvV
+15	vybrali	VpMP---XR-AA---	Atr
+16	?	Z:-------------	AuxK
+
+lnd91303-063-p15s1
+1	Nenásilné	AAFP1----1N----	Atr
+2	revoluce	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	které	P4FP1----------	Sb
+5	ve	RV--6----------	AuxP
+6	střední	AAFS6----1A----	Atr
+7	Evropě	NNFS6-----A----	Adv
+8	proběhly	VpTP---XR-AA--1	Atr
+9	,	Z:-------------	AuxX
+10	byly	VpTP---XR-AA---	Pred
+11	revoluce	NNFP1-----A----	Pnom
+12	dohodové	AAFP1----1A----	Atr
+13	,	Z:-------------	Coord
+14	byly	VpTP---XR-AA---	Pred
+15	to	PDNS1----------	Pnom
+16	revoluce	NNFP1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	kterým	P4XP3----------	Obj
+19	předcházel	VpYS---XR-AA---	Atr
+20	celý	AAIS1----1A----	Atr
+21	proces	NNIS1-----A----	Sb
+22	,	Z:-------------	Coord
+23	vývoj	NNIS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+lnd91303-063-p15s2
+1	Nešlo	VpNS---XR-NA---	Pred
+2	o	RR--4----------	AuxP
+3	žádný	PWIS4----------	Atr
+4	vojenský	AAIS4----1A----	Atr
+5	převrat	NNIS4-----A----	Obj
+6	pravidelně	Dg-------1A----	Adv
+7	se	P7-X4----------	AuxT
+8	opakující	AGIS4-----A----	Atr
+9	v	RR--6----------	AuxP
+10	afrických	AAFP6----1A----	Atr
+11	či	J^-------------	Coord
+12	latinskoamerických	AAFP6----1A----	Atr
+13	zemích	NNFP6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	ani	J^-------------	Coord
+16	o	RR--4----------	AuxP
+17	předem	Db-------------	Adv
+18	dohodnuté	AANS4----1A----	Atr
+19	předání	NNNS4-----A----	Obj
+20	moci	NNFS2-----A----	Atr
+21	mezi	RR--7----------	AuxP
+22	vládnoucí	AGFS7-----A----	Atr
+23	garniturou	NNFS7-----A----	Atr
+24	a	J^-------------	Coord
+25	opozicí	NNFS7-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd91303-063-p15s3
+1	Zvláště	Db-------------	Adv
+2	na	RR--4----------	AuxP
+3	tuto	PDFS4----------	Atr
+4	druhou	CrFS4----------	Atr
+5	variantu	NNFS4-----A----	Obj
+6	se	P7-X4----------	AuxT
+7	lidé	NNMP1-----A---1	Sb
+8	stále	Dg-------1A----	Adv
+9	ptají	VB-P---3P-AA---	Pred
+10	a	J^-------------	Coord
+11	věří	VB-P---3P-AA---	Pred
+12	různým	AAFP3----1A----	Atr
+13	zaručeným	AAFP3----1A----	Atr
+14	studiím	NNFP3-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd91303-063-p15s4
+1	Bojí	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	je	PPXP4--3-------	Obj
+6	někdo	PZM-1----------	Sb
+7	podvedl	VpYS---XR-AA---	Obj
+8	a	J^-------------	Coord
+9	jsou	VB-P---3P-AA---	Pred
+10	na	RR--4----------	AuxP
+11	to	PDNS4----------	Obj
+12	logicky	Dg-------1A----	Adv
+13	velmi	Db-------------	Adv
+14	hákliví	AAMP1----1A----	Pnom
+15	.	Z:-------------	AuxK
+
+lnd91303-063-p15s5
+1	O	RR--4----------	AuxP
+2	podvod	NNIS4-----A----	Obj
+3	však	J^-------------	Coord
+4	v	RR--6----------	AuxP
+5	žádném	PWZS6----------	Atr
+6	případě	NNIS6-----A----	Adv
+7	nešlo	VpNS---XR-NA---	Pred
+8	,	Z:-------------	Coord
+9	teď	Db-------------	Adv
+10	naposledy	Db-------------	Adv
+11	to	PDNS4----------	Obj
+12	zcela	Db-------------	Adv
+13	zřetelně	Dg-------1A----	Adv
+14	ukazuje	VB-S---3P-AA---	Pred
+15	kniha	NNFS1-----A----	Sb
+16	Vladimíra	NNMS2-----A----	Atr
+17	Hanzela	NNMS2-----A----	Atr
+18	"	Z:-------------	AuxG
+19	Zrychlený	AAIS1----1A----	Atr
+20	tep	NNIS1-----A----	Atr
+21	dějin	NNFP2-----A----	Atr
+22	"	Z:-------------	AuxG
+23	-	Z:-------------	AuxG
+24	která	P4FS1----------	Sb
+25	přesně	Dg-------1A----	Adv
+26	popisuje	VB-S---3P-AA---	Atr
+27	situaci	NNFS4-----A----	Obj
+28	jakéhosi	PZZS2----------	Atr
+29	"	Z:-------------	AuxG
+30	štábu	NNIS2-----A----	Atr
+31	"	Z:-------------	AuxG
+32	revoluce	NNFS2-----A----	Atr
+33	,	Z:-------------	AuxX
+34	jak	Db-------------	Adv
+35	operativně	Dg-------1A----	Adv
+36	reaguje	VB-S---3P-AA---	Atv
+37	na	RR--4----------	AuxP
+38	tahy	NNIP4-----A----	Obj
+39	protivníka	NNMS2-----A----	Atr
+40	.	Z:-------------	AuxK
+
+lnd91303-063-p16s1
+1	Tento	PDYS1----------	Atr
+2	proces	NNIS1-----A----	Sb
+3	trval	VpYS---XR-AA---	Pred
+4	dlouhou	AAFS4----1A----	Atr
+5	dobu	NNFS4-----A----	Adv
+6	,	Z:-------------	AuxX
+7	vládnoucí	AGFS1-----A----	Atr
+8	moc	NNFS1-----A----	Sb
+9	postupně	Dg-------1A----	Adv
+10	ztrácela	VpQW---XR-AA---	Pred
+11	svou	P8FS4---------1	Atr
+12	sílu	NNFS4-----A----	Obj
+13	díky	NNIP7-----A----	AuxP
+14	různým	AAIP3----1A----	Atr
+15	faktorům	NNIP3-----A----	Adv
+16	(	Z:-------------	AuxG
+17	ekonomika	NNFS1-----A----	ExD
+18	,	Z:-------------	AuxX
+19	Gorbačov	NNMS1-----A----	ExD
+20	,	Z:-------------	Coord
+21	.	Z:-------------	AuxG
+22	.	Z:-------------	AuxG
+23	.	Z:-------------	AuxG
+24	)	Z:-------------	AuxG
+25	a	J^-------------	Coord
+26	v	RR--6----------	AuxP
+27	okamžiku	NNIS6-----A----	Adv
+28	,	Z:-------------	AuxX
+29	kdy	Db-------------	Adv
+30	se	P7-X4----------	AuxT
+31	s	RR--7----------	AuxP
+32	velikým	AAIS7----1A----	Atr
+33	rámusem	NNIS7-----A----	Adv
+34	přetrhl	VpYS---XR-AA---	Atr
+35	jeden	ClYS1----------	Atr
+36	článek	NNIS1-----A----	Sb
+37	řetězu	NNIS2-----A----	Atr
+38	(	Z:-------------	Apos
+39	DDR	NNFXX-----A----	Sb
+40	)	Z:-------------	AuxG
+41	,	Z:-------------	AuxX
+42	se	P7-X4----------	AuxT
+43	zhroutila	VpQW---XR-AA---	Pred
+44	úplně	Dg-------1A----	Adv
+45	a	J^-------------	Coord
+46	revoluce	NNFS1-----A----	Sb
+47	vynesla	VpQW---XR-AA---	Pred
+48	do	RR--2----------	AuxP
+49	čela	NNNS2-----A----	Adv
+50	jiné	AAMP4----1A----	Atr
+51	lidi	NNMP4-----A----	Obj
+52	.	Z:-------------	AuxK
+
+lnd91303-063-p16s2
+1	Někdy	Db-------------	ExD
+2	nové	AAMP4----1A----	ExD
+3	,	Z:-------------	Coord
+4	někdy	Db-------------	ExD
+5	ne	TT-------------	ExD
+6	(	Z:-------------	ExD
+7	tzv	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	osmašedesátníci	NNMP1-----A----	ExD
+10	)	Z:-------------	ExD
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	vždy	Db-------------	ExD
+14	lidi	NNMP4-----A----	ExD
+15	v	RR--6----------	AuxP
+16	opozici	NNFS6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd91303-063-p16s3
+1	A	J^-------------	Coord
+2	s	RR--7----------	AuxP
+3	tím	PDZS7----------	Obj
+4	se	P7-X4----------	AuxT
+5	neumí	VB-S---3P-NA---	Pred
+6	dnešní	AAMS1----1A----	Atr
+7	občan	NNMS1-----A----	Sb
+8	ještě	Db-------------	Adv
+9	zcela	Db-------------	Adv
+10	vypořádat	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	dávní	AAMP1----1A----	Atr
+14	spojenci	NNMP1-----A----	Sb
+15	jsou	VB-P---3P-AA---	Atr
+16	si	P7-X3----------	Adv
+17	nyní	Db-------------	Adv
+18	zase	Db-------------	Adv
+19	opozicí	NNFS7-----A----	Pnom
+20	.	Z:-------------	AuxK
+
+lnd91303-063-p16s4
+1	Dnes	Db-------------	Adv
+2	už	Db-------------	Adv
+3	není	VB-S---3P-NA---	Pred
+4	důležité	AANS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	kdo	PKM-1----------	Sb
+7	byl	VpYS---XR-AA---	Sb
+8	komunistou	NNMS7-----A----	Pnom
+9	a	J^-------------	Coord
+10	kdo	PKM-1----------	ExD
+11	ne	TT-------------	ExD
+12	.	Z:-------------	AuxK
+
+lnd91303-063-p16s5
+1	Dnešní	AANS1----1A----	Atr
+2	hledisko	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	1	C=-------------	AuxG
+5	)	Z:-------------	AuxG
+6	jak	Db-------------	Adv
+7	dodržuje	VB-S---3P-AA---	Pred
+8	současná	AANP4----1A----	Atr
+9	pravidla	NNNP4-----A----	Obj
+10	;	Z:-------------	AuxK
+
+lnd91303-063-p16s6
+1	2	C=-------------	ExD
+2	)	Z:-------------	AuxG
+3	jak	Db-------------	Adv
+4	je	VB-S---3P-AA---	ExD
+5	kompetentní	AAMS1----1A----	Pnom
+6	.	Z:-------------	AuxK
+
+lnd91303-063-p16s7
+1	Klidně	Dg-------1A----	Adv
+2	můžeme	VB-P---1P-AA---	Pred
+3	vyměnit	Vf--------A----	Obj
+4	všechny	PLYP4----------	Atr
+5	ředitele	NNMP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	soudce	NNMP4-----A----	Obj
+8	,	Z:-------------	Coord
+9	profesory	NNMP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	musíme	VB-P---1P-AA---	Pred
+13	za	RR--4----------	AuxP
+14	ně	P5XP4--3-------	Atr
+15	mít	Vf--------A----	Obj
+16	náhradu	NNFS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+lnd91303-063-p16s8
+1	Tím	PDZS7----------	Adv
+2	se	P7-X4----------	AuxT
+3	dostávám	VB-S---1P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	lustračnímu	AAIS3----1A----	Atr
+6	zákonu	NNIS3-----A----	Adv
+7	.	Z:-------------	AuxK
+
+lnd91303-063-p16s9
+1	Neustálé	AANS1----1N----	Atr
+2	to	PDNS1----------	Atr
+3	vracení	NNNS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	kdo	PKM-1----------	Atr
+6	"	Z:-------------	AuxG
+7	byl	VpYS---XR-AA---	Atr
+8	"	Z:-------------	AuxG
+9	a	J^-------------	Coord
+10	"	Z:-------------	AuxG
+11	nebyl	VpYS---XR-NA---	Atr
+12	"	Z:-------------	AuxG
+13	,	Z:-------------	AuxX
+14	snad	Db-------------	AuxZ
+15	až	TT-------------	AuxZ
+16	do	RR--2----------	AuxP
+17	roku	NNIS2-----A---1	Atr
+18	1948	C=-------------	Atr
+19	,	Z:-------------	AuxX
+20	je	VB-S---3P-AA---	Pred
+21	blbost	NNFS1-----A----	Pnom
+22	,	Z:-------------	Coord
+23	absurdní	AANS1----1A----	Pnom
+24	(	Z:-------------	AuxG
+25	vezměte	Vi-P---2--A----	Pred
+26	jen	TT-------------	AuxZ
+27	,	Z:-------------	AuxX
+28	co	PQ--4----------	Obj
+29	by	Vc-------------	AuxV
+30	to	PDNS1----------	Sb
+31	znamenalo	VpNS---XR-AA---	Obj
+32	v	RR--6----------	AuxP
+33	Rusku	NNNS6-----A----	Adv
+34	)	Z:-------------	AuxG
+35	,	Z:-------------	AuxX
+36	ale	J^-------------	Coord
+37	hlavně	Dg-------1A----	Adv
+38	to	PDNS1----------	Sb
+39	odvádí	VB-S---3P-AA---	Pred
+40	od	RR--2----------	AuxP
+41	potřebné	AAFS2----1A----	Atr
+42	práce	NNFS2-----A----	Obj
+43	.	Z:-------------	AuxK
+
+lnd91303-063-p17s1
+1	Až	J,-------------	AuxC
+2	proběhne	VB-S---3P-AA---	Adv
+3	sjednocení	NNNS1-----A----	Sb
+4	západní	AAFS2----1A----	Atr
+5	Evropy	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	co	PQ--1----------	Sb
+8	pak	Db-------------	Adv
+9	bude	VB-S---3F-AA---	Pred
+10	se	RV--7----------	AuxP
+11	střední	AAFS7----1A----	Atr
+12	Evropou	NNFS7-----A----	Obj
+13	?	Z:-------------	AuxK
+
+lnd91303-063-p18s1
+1	Možná	Db-------------	ExD
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	se	P7-X4----------	AuxT
+5	vrátíme	VB-P---1P-AA---	ExD
+6	do	RR--2----------	AuxP
+7	časů	NNIP2-----A----	Adv
+8	našich	PSXP2-P1-------	Atr
+9	dědů	NNMP2-----A----	Atr
+10	a	J^-------------	Coord
+11	podrobněji	Dg-------2A----	Adv
+12	se	P7-X4----------	AuxT
+13	podíváme	VB-P---1P-AA---	ExD
+14	na	RR--4----------	AuxP
+15	tehdy	Db-------------	Adv
+16	vzniklý	AAIS4----1A----	Atr
+17	geopolitický	AAIS4----1A----	Atr
+18	systém	NNIS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+lnd91303-063-p18s2
+1	Globálně	Dg-------1A----	Adv
+2	lze	VB-S---3P-AA---	Pred
+3	říci	Vf--------A---1	Sb
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	prostor	NNIS1-----A----	Sb
+7	mezi	RR--7----------	AuxP
+8	Ruskem	NNNS7-----A----	Atr
+9	a	J^-------------	Coord
+10	Německem	NNNS7-----A----	Atr
+11	bude	VB-S---3F-AA---	Obj
+12	buď	J^-------------	AuxY
+13	pásmem	NNNS7-----A----	Pnom
+14	zranitelných	AAIP2----1A----	Atr
+15	roztříštěných	AAIP2----1A----	Atr
+16	státečků	NNIP2-----A----	Atr
+17	se	RV--7----------	AuxP
+18	spory	NNIP7-----A----	Atr
+19	o	RR--4----------	AuxP
+20	menšiny	NNFP4-----A----	Atr
+21	,	Z:-------------	AuxX
+22	nebo	J^-------------	Coord
+23	přijme	VB-S---3P-AA---	Obj
+24	určitou	AAFS4----1A----	Atr
+25	možnost	NNFS4-----A----	Obj
+26	středoevropské	AAFS2----1A----	Atr
+27	integrace	NNFS2-----A----	Atr
+28	(	Z:-------------	AuxG
+29	např	Db------------8	Adv
+30	.	Z:-------------	AuxG
+31	Polsko	NNNS1-----A----	ExD
+32	+	Z:-------------	AuxG
+33	Československo	NNNS1-----A----	ExD
+34	+	Z:-------------	Coord
+35	Maďarsko	NNNS1-----A----	ExD
+36	,	Z:-------------	Coord
+37	Pentagonála	NNFS1-----A----	ExD
+38	)	Z:-------------	AuxG
+39	.	Z:-------------	AuxK
+
+lnd91303-063-p18s3
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	otázka	NNFS1-----A----	Pnom
+4	sfér	NNFP2-----A----	Atr
+5	ekonomického	AAIS2----1A----	Atr
+6	vlivu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd91303-063-p18s4
+1	Ale	J^-------------	Coord
+2	jinak	Db-------------	ExD
+3	to	PDNS1----------	Sb
+4	nelze	VB-S---3P-NA---	Pred
+5	-	Z:-------------	Coord
+6	jak	Db-------------	Adv
+7	dělat	Vf--------A----	Pred
+8	kapitalismus	NNIS4-----A----	Obj
+9	bez	RR--2----------	AuxP
+10	kapitálu	NNIS2-----A----	Adv
+11	?	Z:-------------	AuxK
+12	.	Z:-------------	AuxK
+
+lnd91303-063-p18s5
+1	Naše	PSHS1-P1-------	Atr
+2	hospodářství	NNNS1-----A----	Sb
+3	musí	VB-S---3P-AA---	Pred
+4	dostat	Vf--------A----	Obj
+5	injekce	NNFP4-----A----	Obj
+6	kapitálu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	se	P7-X4----------	AuxT
+10	vzpamatovalo	VpNS---XR-AA---	Adv
+11	.	Z:-------------	AuxK
+
+lnd91303-063-p18s6
+1	A	J^-------------	Coord
+2	tedy	Db-------------	ExD
+3	od	RR--2----------	AuxP
+4	koho	PKM-2----------	ExD
+5	?	Z:-------------	AuxK
+
+lnd91303-063-p18s7
+1	Již	Db-------------	Adv
+2	dnes	Db-------------	Adv
+3	se	P7-X4----------	AuxT
+4	tento	PDYS1----------	Atr
+5	problém	NNIS1-----A----	Sb
+6	závislosti	NNFS2-----A----	Atr
+7	jeví	VB-S---3P-AA---	Pred
+8	skoro	Db-------------	AuxZ
+9	jako	J,-------------	AuxC
+10	kolonizace	NNFS1-----A----	ExD
+11	.	Z:-------------	AuxK
+
+lnd91303-063-p19s1
+1	Na	RR--6----------	AuxP
+2	Německu	NNNS6-----A----	ExD
+3	?	Z:-------------	AuxK
+
+lnd91303-063-p20s1
+1	Ano	TT-------------	ExD
+2	.	Z:-------------	AuxK
+
+lnd91303-063-p20s2
+1	Ale	J^-------------	Coord
+2	je	VB-S---3P-AA---	Pred
+3	to	PDNS1----------	Sb
+4	i	J^-------------	AuxZ
+5	otázka	NNFS1-----A----	Pnom
+6	napojování	NNNS2-----A----	Atr
+7	se	P7-X4----------	Atr
+8	na	RR--4----------	AuxP
+9	Evropské	AANS4----1A----	Atr
+10	společenství	NNNS4-----A----	Atr
+11	,	Z:-------------	Coord
+12	přirozená	AAFS1----1A----	Atr
+13	výhoda	NNFS1-----A----	Pnom
+14	koridoru	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd91303-063-p20s3
+1	K	RR--3----------	AuxP
+2	tomu	PDZS3----------	Atr
+3	nejsou	VB-P---3P-NA---	Pred
+4	zapotřebí	Db-------------	Adv
+5	jen	TT-------------	AuxZ
+6	ekonomické	AAFP1----1A----	Atr
+7	podmínky	NNFP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	i	J^-------------	AuxZ
+11	politické	AAFP1----1A----	Atr
+12	,	Z:-------------	AuxX
+13	právní	AAFP1----1A----	Atr
+14	a	J^-------------	Coord
+15	demokratické	AAFP1----1A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91303-063-p20s4
+1	Dnes	Db-------------	Adv
+2	ještě	Db-------------	Adv
+3	zjevně	Dg-------1A----	Adv
+4	nelze	VB-S---3P-NA---	Pred
+5	připojit	Vf--------A----	Sb
+6	střední	AAFS4----1A----	Atr
+7	Evropu	NNFS4-----A----	Obj
+8	k	RR--3----------	AuxP
+9	Evropě	NNFS3-----A----	Obj
+10	-	Z:-------------	Coord
+11	byla	VpQW---XR-AA---	Pred
+12	by	Vc-------------	AuxV
+13	to	PDNS1----------	Pnom
+14	katastrofa	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+lnd91303-063-p21s1
+1	Jak	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	liší	VB-S---3P-AA---	Pred
+4	střední	AAFS1----1A----	Atr
+5	Evropa	NNFS1-----A----	Sb
+6	od	RR--2----------	AuxP
+7	balkánských	AAFP2----1A----	Atr
+8	zemí	NNFP2-----A----	Obj
+9	?	Z:-------------	AuxK
+
+lnd91303-063-p22s1
+1	Balkánské	AAFP1----1A----	Atr
+2	země	NNFP1-----A----	ExD
+3	,	Z:-------------	Coord
+4	to	PDNS1----------	Sb
+5	je	VB-S---3P-AA---	Pred
+6	další	AAIS1----1A----	Atr
+7	obrovský	AAIS1----1A----	Atr
+8	politický	AAIS1----1A----	Atr
+9	problém	NNIS1-----A----	Pnom
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p22s2
+1	Jen	TT-------------	AuxZ
+2	zdánlivě	Dg-------1A----	Adv
+3	se	RV--7----------	AuxP
+4	střední	AAFS7----1A----	Atr
+5	Evropou	NNFS7-----A----	Obj
+6	nesouvisí	VB-S---3P-NA---	Pred
+7	.	Z:-------------	AuxK
+
+lnd91303-063-p22s3
+1	Zde	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	problém	NNIS1-----A----	Sb
+4	likvidace	NNFS2-----A----	Atr
+5	komunismu	NNIS2-----A----	Atr
+6	převeden	VsYS---XX-AP---	Pnom
+7	do	RR--2----------	AuxP
+8	problému	NNIS2-----A----	Adv
+9	likvidace	NNFS2-----A----	Atr
+10	elit	NNFP2-----A----	Atr
+11	(	Z:-------------	AuxG
+12	politických	AAFP2----1A----	Atr
+13	,	Z:-------------	AuxX
+14	ekonomických	AAFP2----1A----	Atr
+15	.	Z:-------------	AuxG
+16	.	Z:-------------	AuxG
+17	.	Z:-------------	Coord
+18	)	Z:-------------	AuxG
+19	.	Z:-------------	AuxK
+
+lnd91303-063-p22s4
+1	Na	RR--6----------	AuxP
+2	Balkáně	NNIS6-----A----	Adv
+3	nebyla	VpQW---XR-NA---	Pred
+4	v	RR--6----------	AuxP
+5	takové	PDFS6----------	Atr
+6	míře	NNFS6-----A----	Adv
+7	občanská	AANP1----1A----	Atr
+8	hnutí	NNNP1-----A----	Sb
+9	,	Z:-------------	Apos
+10	disent	NNIS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	Solidarita	NNFS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	Charta	NNFS1-----A----	Sb
+15	,	Z:-------------	Coord
+16	underground	NNIS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+lnd91303-063-p22s5
+1	Je	VB-S---3P-AA---	Pred
+2	zde	Db-------------	Adv
+3	zoufalý	AAIS1----1A----	Atr
+4	nedostatek	NNIS1-----A----	Sb
+5	nových	AAFP2----1A----	Atr
+6	elit	NNFP2-----A----	Pnom
+7	a	J^-------------	Coord
+8	s	RR--7----------	AuxP
+9	ním	P5ZS7--3-------	ExD
+10	zároveň	Db-------------	ExD
+11	logicky	Dg-------1A----	ExD
+12	snaha	NNFS1-----A----	ExD
+13	reálně	Dg-------1A----	Adv
+14	restaurovat	Vf--------A----	Atr
+15	monarchismus	NNIS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd91303-063-p22s6
+1	Tyto	PDFP1----------	Atr
+2	snahy	NNFP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	to	PDNS4----------	Adv
+6	pochopitelnější	AAFP1----2A----	Pnom
+7	,	Z:-------------	AuxX
+8	když	J,-------------	AuxC
+9	si	P7-X3----------	AuxT
+10	uvědomíme	VB-P---1P-AA---	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	zde	Db-------------	Adv
+14	volby	NNFP4-----A----	Obj
+15	vyhráli	VpMP---XR-AA---	Obj
+16	převážně	Dg-------1A----	Adv
+17	,	Z:-------------	AuxX
+18	byť	J,-------------	AuxC
+19	přejmenovaní	AAMP1----1A----	ExD
+20	,	Z:-------------	AuxX
+21	komunisté	NNMP1-----A----	Sb
+22	(	Z:-------------	Apos
+23	Iliescu	NNMS1-----A----	Sb
+24	,	Z:-------------	AuxX
+25	Alia	NNMS1-----A----	Sb
+26	,	Z:-------------	AuxX
+27	.	Z:-------------	AuxG
+28	.	Z:-------------	AuxG
+29	.	Z:-------------	Coord
+30	)	Z:-------------	AuxG
+31	.	Z:-------------	AuxK
+
+lnd91303-063-p22s7
+1	A	J^-------------	Coord
+2	opozice	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	krále	NNMS4-----A----	Obj
+5	jako	J,-------------	AuxY
+6	jedinou	AAFS4----1A----	Atr
+7	alternativu	NNFS4-----A----	Atv
+8	proti	RR--3----------	AuxP
+9	nim	P5XP3--3-------	Atr
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p22s8
+1	Nedávno	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	například	Db-------------	Adv
+4	hovořil	VpYS---XR-AA---	Pred
+5	s	RR--7----------	AuxP
+6	albánským	AAMS7----1A----	Atr
+7	králem	NNMS7-----A----	Obj
+8	v	RR--6----------	AuxP
+9	emigraci	NNFS6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p22s9
+1	Ten	PDYS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	o	RR--6----------	AuxP
+4	své	P8FS6---------1	Atr
+5	zemi	NNFS6-----A----	Obj
+6	vyjadřuje	VB-S---3P-AA---	Pred
+7	opravdu	Db-------------	Adv
+8	zvláštně	Dg-------1A----	Adv
+9	:	Z:-------------	Coord
+10	"	Z:-------------	AuxG
+11	U	RR--2----------	AuxP
+12	nás	PP-P2--1-------	Adv
+13	to	PDNS1----------	Sb
+14	bude	VB-S---3F-AA---	ExD
+15	zlé	AANS1----1A----	Pnom
+16	,	Z:-------------	AuxX
+17	počítám	VB-S---1P-AA---	ExD
+18	s	RR--7----------	AuxP
+19	občanskou	AAFS7----1A----	Atr
+20	válkou	NNFS7-----A----	Obj
+21	,	Z:-------------	AuxX
+22	naší	PSFS7-P1-------	Atr
+23	podstatou	NNFS7-----A----	Pnom
+24	je	VB-S---3P-AA---	ExD
+25	"	Z:-------------	AuxG
+26	vendeta	NNFS1-----A----	Sb
+27	"	Z:-------------	AuxG
+28	,	Z:-------------	Coord
+29	Korsičané	NNMP1-----A----	Sb
+30	jsou	VB-P---3P-AA---	ExD
+31	proti	RR--3----------	AuxP
+32	nám	PP-P3--1-------	Adv
+33	kostelní	AAMP1----1A----	Atr
+34	ministranti	NNMP1-----A----	Pnom
+35	.	Z:-------------	AuxK
+
+lnd91303-063-p22s10
+1	Já	PP-S1--1-------	Sb
+2	jsem	VB-S---1P-AA---	Pred
+3	jedinou	AAFS7----1A----	Atr
+4	autoritou	NNFS7-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	jež	PJFS1----------	Sb
+7	je	VB-S---3P-AA---	Atr
+8	tomu	PDZS3----------	Obj
+9	snad	Db-------------	Adv
+10	schopna	ACQW------A----	Pnom
+11	zabránit	Vf--------A----	Obj
+12	.	Z:-------------	AuxK
+13	"	Z:-------------	AuxG
+
+lnd91303-063-p23s1
+1	Balkán	NNIS1-----A----	Pnom
+2	,	Z:-------------	Apos
+3	to	PDNS1----------	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	nacionalismus	NNIS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+lnd91303-063-p24s1
+1	Nacionalismus	NNIS1-----A----	ExD
+2	.	Z:-------------	AuxK
+
+lnd91303-063-p24s2
+1	Nacionalismus	NNIS1-----A----	ExD
+2	jako	J,-------------	AuxY
+3	důsledek	NNIS1-----A----	Atv
+4	konce	NNIS2-----A----	Atr
+5	rozdělení	NNNS2-----A----	Atr
+6	světa	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd91303-063-p24s3
+1	Dnes	Db-------------	Adv
+2	už	Db-------------	Adv
+3	máme	VB-P---1P-AA---	Pred
+4	jen	TT-------------	AuxZ
+5	jednu	ClFS4----------	Atr
+6	velmoc	NNFS4-----A----	Obj
+7	a	J^-------------	Coord
+8	ta	PDFS1----------	Sb
+9	se	P7-X4----------	AuxT
+10	nechce	VB-S---3P-NA---	Pred
+11	nikde	Db-------------	Adv
+12	moc	Db-------------	Adv
+13	angažovat	Vf--------A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd91303-063-p24s4
+1	Válka	NNFS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	Perském	AAIS6----1A----	Atr
+4	zálivu	NNIS6-----A----	Atr
+5	a	J^-------------	Coord
+6	následné	AANS1----1A----	Atr
+7	řešení	NNNS1-----A----	Sb
+8	palestinské	AAFS2----1A----	Atr
+9	otázky	NNFS2-----A----	Atr
+10	byla	VpQW---XR-AA---	Pred
+11	výjimka	NNFS1-----A----	Pnom
+12	.	Z:-------------	AuxK
+
+lnd91303-063-p24s5
+1	Každá	AAFS1----1A----	Atr
+2	země	NNFS1-----A----	Sb
+3	si	P7-X3----------	Adv
+4	může	VB-S---3P-AA---	Pred
+5	nyní	Db-------------	Adv
+6	své	P8YP4---------1	Atr
+7	vnitřní	AAIP4----1A----	Atr
+8	problémy	NNIP4-----A----	Obj
+9	řešit	Vf--------A----	Obj
+10	sama	PLFS1----------	Atv
+11	a	J^-------------	Coord
+12	některé	PZFP1----------	Sb
+13	z	RR--2----------	AuxP
+14	nich	P5XP2--3-------	Atr
+15	se	P7-X4----------	AuxT
+16	chovají	VB-P---3P-AA---	Pred
+17	jako	J,-------------	AuxC
+18	utržené	AAFP1----1A----	ExD
+19	ze	RV--2----------	AuxP
+20	řetězu	NNIS2-----A----	Adv
+21	.	Z:-------------	AuxK
+
+lnd91303-063-p24s6
+1	Avšak	J^-------------	Coord
+2	podívejme	Vi-P---1--A----	Pred
+3	se	P7-X4----------	AuxT
+4	na	RR--4----------	AuxP
+5	to	PDNS4----------	Obj
+6	z	RR--2----------	AuxP
+7	jiné	AAFS2----1A----	Atr
+8	stránky	NNFS2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+lnd91303-063-p24s7
+1	Pojem	NNIS1-----A----	Sb
+2	sjednocení	NNNS1-----A----	Atr
+3	Evropy	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	jasný	AAIS1----1A----	Atr
+6	ekonomický	AAIS1----1A----	Atr
+7	fenomén	NNIS1-----A----	Pnom
+8	.	Z:-------------	AuxK
+
+lnd91303-063-p24s8
+1	Proto	J^-------------	Adv
+2	tam	Db-------------	Adv
+3	nyní	Db-------------	Adv
+4	"	Z:-------------	AuxG
+5	leze	VB-S---3P-AA---	Pred
+6	"	Z:-------------	AuxG
+7	i	J^-------------	AuxZ
+8	Velká	AAFS1----1A----	Atr
+9	Británie	NNFS1-----A----	Sb
+10	se	RV--7----------	AuxP
+11	Skandinávií	NNFS7-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd91303-063-p24s9
+1	V	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	teritoriu	NNNS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	problém	NNIS1-----A----	Sb
+6	nacionalismu	NNIS2-----A----	Atr
+7	jako	J,-------------	AuxY
+8	dezintegrujícího	AGIS2-----A----	Atr
+9	fenoménu	NNIS2-----A----	Atv
+10	dávno	Dg-------1A----	Adv
+11	vyřešen	VsYS---XX-AP---	Pnom
+12	.	Z:-------------	AuxK
+
+lnd91303-063-p24s10
+1	Zbytek	NNIS1-----A----	ExD
+2	Evropy	NNFS2-----A----	Atr
+3	,	Z:-------------	Coord
+4	tam	Db-------------	Adv
+5	je	VB-S---3P-AA---	Pred
+6	to	PDNS1----------	Sb
+7	jiné	AANS1----1A----	Pnom
+8	.	Z:-------------	AuxK
+
+lnd91303-063-p24s11
+1	Dostávají	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	zde	Db-------------	Adv
+4	do	RR--2----------	AuxP
+5	souvislosti	NNFS2-----A----	Adv
+6	demokracie	NNFS1-----A----	Sb
+7	a	J^-------------	Coord
+8	národní	AAIP1----1A----	Atr
+9	prvky	NNIP1-----A----	Sb
+10	,	Z:-------------	Coord
+11	což	PE--1----------	Sb
+12	je	VB-S---3P-AA---	Pred
+13	spojeno	VsNS---XX-AP---	Pnom
+14	se	RV--7----------	AuxP
+15	suverenitou	NNFS7-----A----	Obj
+16	.	Z:-------------	AuxK
+
+lnd91303-063-p25s1
+1	Národ	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	dá	VB-S---3P-AA---	Pred
+4	definovat	Vf--------A----	Obj
+5	jako	J,-------------	AuxC
+6	a	NNNXX-----A----	AuxG
+7	)	Z:-------------	AuxG
+8	svobodný	AAIS1----1A----	Atr
+9	lid	NNIS1-----A----	ExD
+10	;	Z:-------------	AuxK
+
+lnd91303-063-p25s2
+1	b	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	tradice	NNFP1-----A----	ExD
+4	,	Z:-------------	AuxX
+5	jazyk	NNIS1-----A----	ExD
+6	,	Z:-------------	AuxX
+7	duch	NNMS1-----A----	ExD
+8	,	Z:-------------	AuxX
+9	historie	NNFS1-----A----	ExD
+10	.	Z:-------------	AuxG
+11	.	Z:-------------	AuxG
+12	.	Z:-------------	Coord
+
+lnd91303-063-p25s3
+1	Já	PP-S1--1-------	Sb
+2	bych	Vc-S---1-------	AuxV
+3	zde	Db-------------	Adv
+4	zdůraznil	VpYS---XR-AA---	Pred
+5	onen	PDIS4----------	Atr
+6	svobodný	AAIS4----1A----	Atr
+7	lid	NNIS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+lnd91303-063-p25s4
+1	Pro	RR--4----------	AuxP
+2	některé	PZFP4----------	Atr
+3	země	NNFP4-----A----	Obj
+4	znamená	VB-S---3P-AA---	Pred
+5	cesta	NNFS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	komunismu	NNIS2-----A----	Atr
+8	nutnost	NNFS4-----A----	Obj
+9	osamostatnit	Vf--------A----	Atr
+10	se	P7-X4----------	Obj
+11	.	Z:-------------	AuxK
+
+lnd91303-063-p25s5
+1	Do	RR--2----------	AuxP
+2	této	PDFS2----------	Atr
+3	kategorie	NNFS2-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	dá	VB-S---3P-AA---	Pred
+6	zařadit	Vf--------A----	Obj
+7	Chorvatsko	NNNS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	pobaltské	AAFP1----1A----	Atr
+10	republiky	NNFP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	Albánie	NNFS1-----A----	Sb
+13	x	Z:-------------	Coord
+14	Kosovo	NNNS1-----A----	Sb
+15	,	Z:-------------	Coord
+16	Ázerbajdžán	NNIS1-----A----	Sb
+17	x	Z:-------------	Coord
+18	Arménie	NNFS1-----A----	Sb
+19	(	Z:-------------	AuxG
+20	tam	Db-------------	Adv
+21	je	VB-S---3P-AA---	Pred
+22	to	PDNS1----------	Sb
+23	oboustranné	AANS1----1A----	Pnom
+24	)	Z:-------------	AuxG
+25	.	Z:-------------	AuxK
+
+lnd91303-063-p26s1
+1	Vy	PP-P1--2-------	Sb
+2	jste	VB-P---2P-AA---	AuxV
+3	nyní	Db-------------	Adv
+4	definoval	VpYS---XR-AA---	Pred
+5	jakýsi	PZIS4----------	Atr
+6	"	Z:-------------	AuxG
+7	pozitivní	AAIS4----1A----	Atr
+8	nacionalismus	NNIS4-----A----	Obj
+9	"	Z:-------------	AuxG
+10	.	Z:-------------	AuxK
+
+lnd91303-063-p26s2
+1	Co	PQ--4----------	ExD
+2	s	RR--7----------	AuxP
+3	tím	PDZS7----------	Atr
+4	druhým	CrNS7----------	ExD
+5	,	Z:-------------	Apos
+6	tím	PDZS7----------	ExD
+7	,	Z:-------------	AuxX
+8	co	P4XXX----------	Sb
+9	se	P7-X4----------	AuxT
+10	projevuje	VB-S---3P-AA---	Atr
+11	třeba	Db-------------	Atr
+12	na	RR--6----------	AuxP
+13	Slovensku	NNNS6-----A----	Adv
+14	?	Z:-------------	AuxK
+
+lnd91303-063-p27s1
+1	Na	RR--6----------	AuxP
+2	Slovensku	NNNS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	to	PDNS1----------	Pnom
+5	převážně	Dg-------1A----	Adv
+6	,	Z:-------------	AuxX
+7	kromě	RR--2----------	AuxP
+8	jiných	AANP2----1A----	Atr
+9	hledisek	NNNP2-----A----	Adv
+10	,	Z:-------------	AuxX
+11	boj	NNIS1-----A----	Sb
+12	o	RR--4----------	AuxP
+13	moc	NNFS4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd91303-063-p27s2
+1	Kdo	PKM-1----------	Sb
+2	si	P7-X3----------	AuxT
+3	zahrává	VB-S---3P-AA---	Sb
+4	s	RR--7----------	AuxP
+5	nacionalismem	NNIS7-----A----	Obj
+6	,	Z:-------------	AuxX
+7	nikdy	Db-------------	Adv
+8	neví	VB-S---3P-NA---	Pred
+9	,	Z:-------------	AuxX
+10	kdy	Db-------------	Adv
+11	se	P7-X4----------	AuxT
+12	objeví	VB-S---3P-AA---	Obj
+13	ještě	Db-------------	Adv
+14	větší	AAMS1----2A----	Atr
+15	nacionalista	NNMS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	než	J,-------------	AuxC
+18	je	VB-S---3P-AA---	Adv
+19	on	PPYS1--3-------	Sb
+20	sám	PLYS1----------	Atv
+21	.	Z:-------------	AuxK
+
+lnd91303-063-p27s3
+1	Nehledě	VeYS------N----	ExD
+2	na	RR--4----------	AuxP
+3	to	PDNS4----------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	udržení	NNNS1-----A----	Sb
+7	Československa	NNNS2-----A----	Atr
+8	je	VB-S---3P-AA---	Atr
+9	nesmírně	Dg-------1N----	Adv
+10	důležité	AANS1----1A----	Pnom
+11	pro	RR--4----------	AuxP
+12	celou	AAFS4----1A----	Atr
+13	střední	AAFS4----1A----	Atr
+14	Evropu	NNFS4-----A----	Obj
+15	a	J^-------------	Coord
+16	tudíž	J^-------------	AuxY
+17	Evropu	NNFS4-----A----	Obj
+18	jako	J,-------------	AuxY
+19	takovou	PDFS4----------	Atv
+20	.	Z:-------------	AuxK
+
+lnd91303-063-p28s1
+1	GoGo	NNXXX-----A---8	ExD
+

@@ -1,0 +1,223 @@
+ln95042-064-p1s1
+1	Odbory	NNIP1-----A----	Sb
+2	nechtějí	VB-P---3P-NA---	Pred
+3	být	Vf--------A----	Obj
+4	závislé	AAIP1----1A----	Pnom
+
+ln95042-064-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95042-064-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95042-064-p3s1B
+1	Odbory	NNIP1-----A----	Sb
+2	se	P7-X4----------	Obj
+3	rozhodně	Dg-------1A----	Adv
+4	nepřipojí	VB-P---3P-NA---	Pred
+5	k	RR--3----------	AuxP
+6	žádné	PWFS3----------	Atr
+7	politické	AAFS3----1A----	Atr
+8	straně	NNFS3-----A----	Adv
+9	,	Z:-------------	Coord
+10	ani	J^-------------	AuxZ
+11	se	P7-X4----------	Obj
+12	v	RR--4----------	AuxP
+13	politickou	AAFS4----1A----	Atr
+14	stranu	NNFS4-----A----	Obj
+15	nepromění	VB-P---3P-NA---	Pred
+16	.	Z:-------------	AuxK
+
+ln95042-064-p3s2
+1	V	RR--6----------	AuxP
+2	reakci	NNFS6-----A----	Adv
+3	na	RR--4----------	AuxP
+4	spekulace	NNFP4-----A----	Atr
+5	některých	PZXP2----------	Atr
+6	sdělovacích	AAIP2----1A----	Atr
+7	prostředků	NNIP2-----A----	Atr
+8	to	PDNS4----------	Obj
+9	včera	Db-------------	Adv
+10	uvedl	VpYS---XR-AA---	Pred
+11	předseda	NNMS1-----A----	Atr
+12	ČMKOS	NNFXX-----A---8	Atr
+13	Richard	NNMS1-----A----	Atr
+14	Falbr	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95042-064-p4s1
+1	Připustil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	odbory	NNIP1-----A----	Sb
+5	chtějí	VB-P---3P-AA---	Obj
+6	ovlivňovat	Vf--------A----	Obj
+7	výsledky	NNIP4-----A----	Obj
+8	parlamentních	AAFP2----1A----	Atr
+9	voleb	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	veřejně	Dg-------1A----	ExD
+13	,	Z:-------------	Coord
+14	nikoli	Db------------1	AuxZ
+15	nedemokratickým	AAIS7----1N----	Atr
+16	způsobem	NNIS7-----A----	ExD
+17	.	Z:-------------	AuxK
+
+ln95042-064-p4s2
+1	Před	RR--7----------	AuxP
+2	volbami	NNFP7-----A----	Adv
+3	1996	C=-------------	Atr
+4	vyhlásí	VB-P---3P-AA---	Pred
+5	odbory	NNIP1-----A----	Sb
+6	preference	NNFP4-----A----	Obj
+7	stranám	NNFP3-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP1----------	Sb
+10	podporují	VB-P---3P-AA---	Atr
+11	jejich	PSXXXXP3-------	Atr
+12	požadavky	NNIP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95042-064-p4s3
+1	Běžně	Dg-------1A----	Adv
+2	tak	Db-------------	Adv
+3	činí	VB-P---3P-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	Falbra	NNMS2-----A----	Adv
+6	odboráři	NNMP1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	USA	NNIPX-----A----	AtrAdv
+9	i	J^-------------	Coord
+10	dalších	AAFP6----1A----	Atr
+11	zemích	NNFP6-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+ln95042-064-p4s4
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	členové	NNMP1-----A----	Sb
+7	českých	AAIP2----1A----	Atr
+8	odborů	NNIP2-----A----	Atr
+9	se	P7-X4----------	Obj
+10	na	RR--6----------	AuxP
+11	politické	AAFS6----1A----	Atr
+12	škále	NNFS6-----A----	Adv
+13	zařazují	VB-P---3P-AA---	Atr
+14	od	RR--2----------	AuxP
+15	levice	NNFS2-----A----	Adv
+16	po	RR--4----------	AuxP
+17	pravici	NNFS4-----A----	Adv
+18	,	Z:-------------	AuxX
+19	není	VB-S---3P-NA---	Pred
+20	prý	TT-------------	AuxY
+21	jisté	AANS1----1A----	Pnom
+22	,	Z:-------------	AuxX
+23	zda	J,-------------	AuxC
+24	všichni	PLMP1----------	Sb
+25	vezmou	VB-P---3P-AA---	Sb
+26	doporučení	NNNS4-----A----	Obj
+27	za	RR--4----------	AuxP
+28	své	P8NS4---------1	Obj
+29	.	Z:-------------	AuxK
+
+ln95042-064-p5s1
+1	Falbr	NNMS1-----A----	Sb
+2	potvrdil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	odbory	NNIP1-----A----	Sb
+6	neopustily	VpTP---XR-NA---	Obj
+7	myšlenku	NNFS4-----A----	Obj
+8	dostat	Vf--------A----	Atr
+9	na	RR--6----------	AuxP
+10	kandidátkách	NNFP6-----A----	Adv
+11	politických	AAFP2----1A----	Atr
+12	stran	NNFP2-----A----	Atr
+13	do	RR--2----------	AuxP
+14	parlamentu	NNIS2-----A----	Adv
+15	skupinu	NNFS4-----A----	Obj
+16	pěti	Cn-P2----------	Atr
+17	lidí	NNMP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	kteří	P4MP1----------	Sb
+20	by	Vc-------------	AuxV
+21	tam	Db-------------	Adv
+22	"	Z:-------------	AuxG
+23	šířili	VpMP---XR-AA---	Atr
+24	odborářskou	AAFS4----1A----	Atr
+25	osvětu	NNFS4-----A----	Obj
+26	"	Z:-------------	AuxG
+27	.	Z:-------------	AuxK
+
+ln95042-064-p5s2
+1	Odbory	NNIP1-----A----	Sb
+2	jednají	VB-P---3P-AA---	Pred
+3	se	RV--7----------	AuxP
+4	všemi	PLXP7----------	Atr
+5	stranami	NNFP7-----A----	Obj
+6	,	Z:-------------	AuxX
+7	tedy	Db-------------	Apos
+8	i	J^-------------	AuxZ
+9	se	RV--7----------	AuxP
+10	sociálními	AAMP7----1A----	Atr
+11	demokraty	NNMP7-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln95042-064-p5s3
+1	Ti	PDMP1----------	Sb
+2	jim	PPXP3--3-------	Obj
+3	nabídli	VpMP---XR-AA--1	Pred
+4	účast	NNFS4-----A----	Obj
+5	na	RR--6----------	AuxP
+6	kandidátkách	NNFP6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ovšem	J^-------------	Coord
+9	pod	RR--7----------	AuxP
+10	podmínkou	NNFS7-----A----	ExD
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	se	P7-X4----------	AuxT
+14	stanou	VB-P---3P-AA---	Atr
+15	členy	NNMP7-----A----	Obj
+16	ČSSD	NNFXX-----A---8	Atr
+17	.	Z:-------------	AuxK
+
+ln95042-064-p5s4
+1	Tento	PDYS1----------	Atr
+2	požadavek	NNIS1-----A----	Sb
+3	Falbra	NNMS4-----A----	Obj
+4	zarazil	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	neboť	J^-------------	Coord
+7	si	P7-X3----------	AuxT
+8	je	VB-S---3P-AA---	Pred
+9	podle	RR--2----------	AuxP
+10	vlastních	AANP2----1A----	Atr
+11	slov	NNNP2-----A----	Adv
+12	vědom	ACYS------A----	Pnom
+13	úskalí	NNNP2-----A----	Obj
+14	stranické	AAFS2----1A----	Atr
+15	loajality	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95042-064-p5s5
+1	Proto	J^-------------	Coord
+2	o	RR--6----------	AuxP
+3	přijetí	NNNS6-----A----	Obj
+4	podmínky	NNFS2-----A----	Atr
+5	ČSSD	NNFXX-----A---8	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	jednat	Vf--------A----	Pred
+8	odborářský	AAIS1----1A----	Atr
+9	sněm	NNIS1-----A----	Sb
+10	.	Z:-------------	AuxK
+

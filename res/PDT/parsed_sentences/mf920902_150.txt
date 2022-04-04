@@ -1,0 +1,155 @@
+mf920902-150-p1s1
+1	Gruzíni	NNMP1-----A----	ExD
+2	zasaženi	VsMP---XX-AP---	ExD
+3	ruskou	AAFS7----1A----	Atr
+4	palbou	NNFS7-----A----	Adv
+
+mf920902-150-p1s1B
+1	MINISTERSTVO	NNNS1-----A----	Sb
+2	OBRANY	NNFS2-----A----	Atr
+3	TO	PDNS4----------	Obj
+4	POPÍRÁ	VB-S---3P-AA---	Pred
+
+mf920902-150-p2s1
+1	Moskva	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920902-150-p2s2
+1	Ruské	AANS1----1A----	Atr
+2	ministerstvo	NNNS1-----A----	Sb
+3	obrany	NNFS2-----A----	Atr
+4	včera	Db-------------	Adv
+5	kategoricky	Dg-------1A----	Adv
+6	odmítlo	VpNS---XR-AA--1	Pred
+7	obvinění	NNNS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	se	P7-X4----------	Obj
+11	ruská	AANP1----1A----	Atr
+12	vojska	NNNP1-----A----	Sb
+13	dislokovaná	AANP1----1A----	Atr
+14	v	RR--6----------	AuxP
+15	Abcházii	NNFS6-----A----	Adv
+16	zapojila	VpQW---XR-AA---	Atr
+17	do	RR--2----------	AuxP
+18	bojů	NNIP2-----A----	Adv
+19	proti	RR--3----------	AuxP
+20	gruzínským	AAIP3----1A----	Atr
+21	oddílům	NNIP3-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf920902-150-p2s3
+1	Ruské	AAFP1----1A----	Atr
+2	jednotky	NNFP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Abcházii	NNFS6-----A----	Atr
+5	pouze	Db-------------	AuxZ
+6	chrání	VB-P---3P-AA---	Pred
+7	kasárna	NNFS4-----A----	Obj
+8	a	J^-------------	Coord
+9	další	AAIP4----1A----	Atr
+10	vojenské	AAIP4----1A----	Atr
+11	objekty	NNIP4-----A----	Obj
+12	včetně	Db-------------	AuxP
+13	sanatorií	NNNP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920902-150-p2s4
+1	Přestože	J,-------------	AuxC
+2	některé	PZIP1----------	Sb
+3	z	RR--2----------	AuxP
+4	těchto	PDXP2----------	Atr
+5	objektů	NNIP2-----A----	Atr
+6	jsou	VB-P---3P-AA---	AuxV
+7	ostřelovány	VsTP---XX-AP---	Adv
+8	gruzínskými	AAMP7----1A----	Atr
+9	vojáky	NNMP7-----A----	Obj
+10	,	Z:-------------	AuxX
+11	zachovávají	VB-P---3P-AA---	Sb
+12	ruská	AANP1----1A----	Atr
+13	vojska	NNNP1-----A----	Sb
+14	neutralitu	NNFS4-----A----	Obj
+15	a	J^-------------	Coord
+16	na	RR--4----------	AuxP
+17	útoky	NNIP4-----A----	Obj
+18	neodpovídají	VB-P---3P-NA---	Sb
+19	,	Z:-------------	AuxX
+20	uvádělo	VpNS---XR-AA---	Pred
+21	se	P7-X4----------	AuxR
+22	v	RR--6----------	AuxP
+23	prohlášení	NNNS6-----A----	Adv
+24	ministerstva	NNNS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf920902-150-p2s5
+1	Rusko	NNNS1-----A----	Sb
+2	tak	Db-------------	Adv
+3	reagovalo	VpNS---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	včerejší	AANS4----1A----	Atr
+6	obvinění	NNNS4-----A----	Obj
+7	předsedy	NNMS2-----A----	Atr
+8	gruzínské	AAFS2----1A----	Atr
+9	Státní	AAFS2----1A----	Atr
+10	rady	NNFS2-----A----	Atr
+11	Ševardnadzeho	NNMS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	s	RR--7----------	AuxP
+15	odvoláním	NNNS7-----A----	Adv
+16	na	RR--4----------	AuxP
+17	velitele	NNMS4-----A----	Atr
+18	gruzínských	AANP2----1A----	Atr
+19	vojsk	NNNP2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	Abcházii	NNFS6-----A----	Atr
+22	oznámil	VpYS---XR-AA---	Atr
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	při	RR--6----------	AuxP
+26	raketové	AAFS6----1A----	Atr
+27	palbě	NNFS6-----A----	Adv
+28	ruských	AAFP2----1A----	Atr
+29	jednotek	NNFP2-----A----	Atr
+30	na	RR--4----------	AuxP
+31	gruzínské	AAIP4----1A----	Atr
+32	oddíly	NNIP4-----A----	Atr
+33	severně	Dg-------1A----	AuxP
+34	od	RR--2----------	AuxP
+35	Suchumi	NNNXX-----A----	Adv
+36	bylo	VpNS---XR-AA---	AuxV
+37	několik	Ca--1----------	Sb
+38	Gruzínů	NNMP2-----A----	Atr
+39	zraněno	VsNS---XX-AP---	Obj
+40	.	Z:-------------	AuxK
+
+mf920902-150-p2s6
+1	Ševardnadze	NNMS1-----A----	Sb
+2	zároveň	Db-------------	Adv
+3	upozornil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	tento	PDYS1----------	Atr
+7	incident	NNIS1-----A----	Sb
+8	by	Vc-------------	AuxV
+9	mohl	VpYS---XR-AA---	Obj
+10	ohrozit	Vf--------A----	Obj
+11	jeho	PSXXXZS3-------	Atr
+12	čtvrteční	AANS4----1A----	Atr
+13	setkání	NNNS4-----A----	Obj
+14	s	RR--7----------	AuxP
+15	ruským	AAMS7----1A----	Atr
+16	prezidentem	NNMS7-----A----	Atr
+17	Jelcinem	NNMS7-----A----	Atr
+18	,	Z:-------------	AuxX
+19	na	RR--6----------	AuxP
+20	němž	P9ZS6----------	Adv
+21	se	P7-X4----------	AuxR
+22	má	VB-S---3P-AA---	Atr
+23	jednat	Vf--------A----	Obj
+24	o	RR--6----------	AuxP
+25	konfliktu	NNIS6-----A----	Obj
+26	v	RR--6----------	AuxP
+27	Abcházii	NNFS6-----A----	Atr
+28	.	Z:-------------	AuxK
+

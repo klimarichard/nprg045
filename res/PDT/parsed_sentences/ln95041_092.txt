@@ -1,0 +1,207 @@
+ln95041-092-p1s1
+1	Případ	NNIS1-----A----	ExD
+2	Minařík	NNMS1-----A----	Atr
+3	znovu	Db-------------	ExD
+4	k	RR--3----------	AuxP
+5	soudu	NNIS3-----A----	ExD
+
+ln95041-092-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-092-p2s1B
+1	Ministr	NNMS1-----A----	Atr
+2	spravedlnosti	NNFS2-----A----	Atr
+3	Jiří	NNMS1-----A----	Atr
+4	Novák	NNMS1-----A----	Sb
+5	včera	Db-------------	Adv
+6	podal	VpYS---XR-AA---	Pred
+7	stížnost	NNFS4-----A----	Obj
+8	pro	RR--4----------	AuxP
+9	porušení	NNNS4-----A----	Atr
+10	zákona	NNIS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	trestní	AAFS6----1A----	Atr
+13	věci	NNFS6-----A----	Atr
+14	bývalého	AAMS2----1A----	Atr
+15	československého	AAMS2----1A----	Atr
+16	rozvědčíka	NNMS2-----A----	Atr
+17	Pavla	NNMS2-----A----	Atr
+18	Minaříka	NNMS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95041-092-p2s2
+1	Informoval	VpYS---XR-AA---	Pred
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	tiskový	AAMS1----1A----	Atr
+5	mluvčí	NNMS1-----A----	Atr
+6	ministerstva	NNNS2-----A----	Atr
+7	spravedlnosti	NNFS2-----A----	Atr
+8	Vladimír	NNMS1-----A----	Atr
+9	Voráček	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95041-092-p2s3
+1	Ministr	NNMS1-----A----	Atr
+2	Jiří	NNMS1-----A----	Atr
+3	Novák	NNMS1-----A----	Sb
+4	podle	RR--2----------	AuxP
+5	něj	P5ZS2--3-------	Adv
+6	navrhuje	VB-S---3P-AA---	Pred
+7	Vrchnímu	AAIS3----1A----	Atr
+8	soudu	NNIS3-----A----	Obj
+9	v	RR--6----------	AuxP
+10	Praze	NNFS6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	o	RR--6----------	AuxP
+14	věci	NNFS6-----A----	Obj
+15	bude	VB-S---3F-AA---	AuxV
+16	rozhodovat	Vf--------A----	Atr
+17	,	Z:-------------	AuxX
+18	aby	J,-------------	AuxC
+19	vyslovil	VpYS---XR-AA---	Obj
+20	,	Z:-------------	AuxX
+21	že	J,-------------	AuxC
+22	zastavením	NNNS7-----A----	Obj
+23	trestního	AANS2----1A----	Atr
+24	stíhání	NNNS2-----A----	Atr
+25	byl	VpYS---XR-AA---	AuxV
+26	porušen	VsYS---XX-AP---	Obj
+27	zákon	NNIS1-----A----	Sb
+28	ve	RV--4----------	AuxP
+29	prospěch	NNIS4-----A----	AuxP
+30	obviněného	AAMS2----1A----	Adv
+31	a	J^-------------	Coord
+32	aby	J,-------------	AuxC
+33	toto	PDNS4----------	Atr
+34	rozhodnutí	NNNS4-----A----	Obj
+35	zrušil	VpYS---XR-AA---	Obj
+36	.	Z:-------------	AuxK
+
+ln95041-092-p2s4
+1	Ministr	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	také	Db-------------	Adv
+4	domnívá	VB-S---3P-AA---	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	je	VB-S---3P-AA---	Obj
+8	třeba	ACNS------A----	Pnom
+9	v	RR--6----------	AuxP
+10	této	PDFS6----------	Atr
+11	věci	NNFS6-----A----	Adv
+12	provést	Vf--------A----	Sb
+13	další	AAIP4----1A----	Atr
+14	důkazy	NNIP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	dodal	VpYS---XR-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln95041-092-p2s5
+1	Rozvědčík	NNMS1-----A----	Atr
+2	Pavel	NNMS1-----A----	Atr
+3	Minařík	NNMS1-----A----	Sb
+4	byl	VpYS---XR-AA---	AuxV
+5	obžalován	VsYS---XX-AP---	Pred
+6	z	RR--2----------	AuxP
+7	přípravy	NNFS2-----A----	Adv
+8	trestného	AAIS2----1A----	Atr
+9	činu	NNIS2-----A----	Atr
+10	úmyslného	AANS2----1A----	Atr
+11	obecného	AANS2----1A----	Atr
+12	ohrožení	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95041-092-p2s6
+1	Měl	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	ho	PHZS4--3-------	Obj
+4	dopustit	Vf--------A----	Obj
+5	tím	PDZS7----------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	v	RR--6----------	AuxP
+9	letech	NNNP6-----A----	Adv
+10	1970	C=-------------	Atr
+11	až	J^-------------	Coord
+12	1975	C=-------------	Atr
+13	připravoval	VpYS---XR-AA---	Atr
+14	a	J^-------------	Coord
+15	předkládal	VpYS---XR-AA---	Atr
+16	pražskému	AANS3----1A----	Atr
+17	ústředí	NNNS3-----A----	Obj
+18	rozvědky	NNFS2-----A----	Atr
+19	návrhy	NNIP4-----A----	Obj
+20	na	RR--4----------	AuxP
+21	vyřazení	NNNS4-----A----	Atr
+22	mnichovské	AAFS2----1A----	Atr
+23	centrály	NNFS2-----A----	Atr
+24	vysílače	NNIS2-----A----	Atr
+25	Svobodná	AAFS1----1A----	Atr
+26	Evropa	NNFS1-----A----	Atr
+27	z	RR--2----------	AuxP
+28	provozu	NNIS2-----A----	Atr
+29	výbuchem	NNIS7-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln95041-092-p2s7
+1	Městský	AAIS1----1A----	Atr
+2	soud	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Atr
+5	ho	PHZS4--3-------	Obj
+6	za	RR--4----------	AuxP
+7	přípravu	NNFS4-----A----	Adv
+8	výbuchu	NNIS2-----A----	Atr
+9	odsoudil	VpYS---XR-AA---	Pred
+10	v	RR--6----------	AuxP
+11	roce	NNIS6-----A---1	Adv
+12	1993	C=-------------	Atr
+13	k	RR--3----------	AuxP
+14	čtyřletému	AAIS3----1A----	Atr
+15	trestu	NNIS3-----A----	Obj
+16	odnětí	NNNS2-----A----	Atr
+17	svobody	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95041-092-p2s8
+1	Pavel	NNMS1-----A----	Atr
+2	Minařík	NNMS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	odvolal	VpYS---XR-AA---	Pred
+5	a	J^-------------	Coord
+6	po	RR--6----------	AuxP
+7	zrušení	NNNS6-----A----	Adv
+8	rozsudku	NNIS2-----A----	Atr
+9	odvolacím	AAIS7----1A----	Atr
+10	soudem	NNIS7-----A----	Atr
+11	Městské	AANS1----1A----	Atr
+12	státní	AANS1----1A----	Atr
+13	zastupitelství	NNNS1-----A----	Sb
+14	v	RR--6----------	AuxP
+15	Praze	NNFS6-----A----	Atr
+16	trestní	AANS4----1A----	Atr
+17	stíhání	NNNS4-----A----	Obj
+18	loni	Db------------1	Adv
+19	v	RR--6----------	AuxP
+20	prosinci	NNIS6-----A----	Adv
+21	zastavilo	VpNS---XR-AA---	Pred
+22	.	Z:-------------	AuxK
+
+ln95041-092-p2s9
+1	Podle	RR--2----------	AuxP
+2	státního	AAMS2----1A----	Atr
+3	zástupce	NNMS2-----A----	Adv
+4	plány	NNIP1-----A----	Sb
+5	na	RR--4----------	AuxP
+6	destrukci	NNFS4-----A----	Atr
+7	nedosáhly	VpTP---XR-NA---	Pred
+8	stadia	NNNS2-----A----	Obj
+9	přípravy	NNFS2-----A----	Atr
+10	k	RR--3----------	AuxP
+11	trestnému	AAIS3----1A----	Atr
+12	činu	NNIS3-----A----	Atr
+13	.	Z:-------------	AuxK
+

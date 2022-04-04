@@ -1,0 +1,292 @@
+lnd94104-137-p1s1
+1	Ústavy	NNIP1-----A----	Sb
+2	sociální	AAFS2----1A----	Atr
+3	péče	NNFS2-----A----	Atr
+4	stále	Dg-------1A----	Adv
+5	čekají	VB-P---3P-AA---	Pred
+6	na	RR--4----------	AuxP
+7	zákon	NNIS4-----A----	Obj
+8	o	RR--6----------	AuxP
+9	neziskových	AAFP6----1N----	Atr
+10	organizacích	NNFP6-----A----	Atr
+
+lnd94104-137-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	em	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94104-137-p1s3
+1	Představte	Vi-P---2--A----	Pred
+2	si	P7-X3----------	AuxT
+3	domovy	NNIP4-----A----	Obj
+4	důchodců	NNMP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	které	P4IP1----------	Sb
+7	se	P7-X4----------	AuxT
+8	ucházejí	VB-P---3P-AA---	Atr
+9	o	RR--4----------	AuxP
+10	přízeň	NNFS4-----A----	Obj
+11	klientů	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd94104-137-p1s4
+1	Tato	PDFS1----------	Atr
+2	snová	AAFS1----1A----	Atr
+3	skutečnost	NNFS1-----A----	Sb
+4	není	VB-S---3P-NA---	Pred
+5	prý	TT-------------	AuxY
+6	ani	J^-------------	AuxZ
+7	v	RR--6----------	AuxP
+8	Praze	NNFS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	je	VB-S---3P-AA---	Atr
+12	3000	C=-------------	Sb
+13	žadatelů	NNMP2-----A----	Atr
+14	a	J^-------------	Coord
+15	čekací	AAFS1----1A----	Atr
+16	doba	NNFS1-----A----	ExD
+17	4	C=-------------	Atr
+18	-	Z:-------------	Coord
+19	5	C=-------------	Atr
+20	let	NNNP2-----A----	ExD
+21	,	Z:-------------	AuxX
+22	vyloučena	VsQW---XX-AP---	Pnom
+23	.	Z:-------------	AuxK
+
+lnd94104-137-p1s5
+1	Prvním	CrIS7----------	Atr
+2	krokem	NNIS7-----A----	Pnom
+3	k	RR--3----------	AuxP
+4	ní	P5FS3--3-------	Atr
+5	je	VB-S---3P-AA---	Pred
+6	podle	RR--2----------	AuxP
+7	ředitelky	NNFS2-----A----	Atr
+8	pražské	AAFS2----1A----	Atr
+9	Palaty	NNFS2-----A----	Atr
+10	Jindřišky	NNFS2-----A----	Atr
+11	Kubíkové	NNFS2-----A----	Adv
+12	transformace	NNFS1-----A----	Sb
+13	ústavů	NNIP2-----A----	Atr
+14	sociální	AAFS2----1A----	Atr
+15	péče	NNFS2-----A----	Atr
+16	v	RR--4----------	AuxP
+17	neziskové	AAFP4----1N----	Atr
+18	organizace	NNFP4-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94104-137-p1s6
+1	Sérii	NNFS4-----A----	Obj
+2	rozhovorů	NNIP2-----A----	Atr
+3	na	RR--4----------	AuxP
+4	téma	NNNS4-----A----	Atr
+5	neziskových	AAFP2----1N----	Atr
+6	organizací	NNFP2-----A----	Atr
+7	zahájil	VpYS---XR-AA---	Pred
+8	tento	PDIS4----------	Atr
+9	týden	NNIS4-----A----	Adv
+10	prezident	NNMS1-----A----	Atr
+11	Václav	NNMS1-----A----	Atr
+12	Havel	NNMS1-----A----	Sb
+13	právě	Db-------------	AuxZ
+14	s	RR--7----------	AuxP
+15	ministrem	NNMS7-----A----	Atr
+16	práce	NNFS2-----A----	Atr
+17	a	J^-------------	Coord
+18	sociálních	AAFP2----1A----	Atr
+19	věcí	NNFP2-----A----	Atr
+20	Jindřichem	NNMS7-----A----	Atr
+21	Vodičkou	NNMS7-----A----	Adv
+22	,	Z:-------------	AuxX
+23	v	RR--6----------	AuxP
+24	jehož	P1XXXZS3-------	Atr
+25	resortu	NNIS6-----A----	Adv
+26	tyto	PDFP1----------	Atr
+27	instituce	NNFP1-----A----	Sb
+28	na	RR--4----------	AuxP
+29	zákon	NNIS4-----A----	Obj
+30	o	RR--6----------	AuxP
+31	transformaci	NNFS6-----A----	Atr
+32	rozpočtových	AAFP2----1A----	Atr
+33	organizací	NNFP2-----A----	Atr
+34	čekají	VB-P---3P-AA---	Atr
+35	.	Z:-------------	AuxK
+
+lnd94104-137-p1s7
+1	Rozhodnutí	NNNS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	které	P4FP1----------	Sb
+4	z	RR--2----------	AuxP
+5	nich	P5XP2--3-------	Atr
+6	budou	VB-P---3F-AA---	AuxV
+7	považovány	VsTP---XX-AP---	Atr
+8	za	RR--4----------	AuxP
+9	neziskové	AAFP4----1N----	Obj
+10	,	Z:-------------	AuxX
+11	ještě	Db-------------	Adv
+12	nepadlo	VpNS---XR-NA--1	Pred
+13	.	Z:-------------	AuxK
+
+lnd94104-137-p1s8
+1	Ústav	NNIS1-----A----	Sb
+2	sociální	AAFS2----1A----	Atr
+3	péče	NNFS2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	slepce	NNMP4-----A----	Atr
+6	Palata	NNFS1-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Praze	NNFS6-----A----	Atr
+9	5	C=-------------	Atr
+10	by	Vc-------------	AuxV
+11	si	P7-X3----------	AuxT
+12	podle	RR--2----------	AuxP
+13	slov	NNNP2-----A----	Adv
+14	ředitelky	NNFS2-----A----	Atr
+15	Kubíkové	NNFS2-----A----	Atr
+16	proměnu	NNFS4-----A----	Obj
+17	v	RR--4----------	AuxP
+18	neziskovou	AAFS4----1N----	Atr
+19	organizaci	NNFS4-----A----	Atr
+20	velmi	Db-------------	AuxZ
+21	přál	VpYS---XR-AA---	Pred
+22	.	Z:-------------	AuxK
+
+lnd94104-137-p1s9
+1	Závislost	NNFS1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	zřizovateli	NNMS6-----A----	Atr
+4	,	Z:-------------	AuxX
+5	tedy	Db-------------	Apos
+6	pražském	AAIS6----1A----	Atr
+7	magistrátu	NNIS6-----A---1	Atr
+8	,	Z:-------------	AuxX
+9	není	VB-S---3P-NA---	Pred
+10	podle	RR--2----------	AuxP
+11	jejího	PSZS2FS3-------	Atr
+12	názoru	NNIS2-----A----	Adv
+13	pro	RR--4----------	AuxP
+14	provoz	NNIS4-----A----	Obj
+15	zařízení	NNNS2-----A----	Atr
+16	příliš	Db-------------	Adv
+17	prospěšná	AAFS1----1A----	Pnom
+18	.	Z:-------------	AuxK
+
+lnd94104-137-p1s10
+1	Magistrát	NNIS1-----A----	Sb
+2	Palatu	NNFS4-----A----	Obj
+3	sice	Db-------------	AuxY
+4	finančně	Dg-------1A----	Adv
+5	zabezpečuje	VB-S---3P-AA---	Pred
+6	včetně	RR--2----------	AuxP
+7	investičních	AAIP2----1A----	Atr
+8	prostředků	NNIP2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	tuto	PDFS4----------	Atr
+12	pasivní	AAFS4----1A----	Atr
+13	jistotu	NNFS4-----A----	Obj
+14	by	Vc-------------	AuxV
+15	zaměstnanci	NNMP1-----A----	Sb
+16	ochotně	Dg-------1A----	Adv
+17	zaměnili	VpMP---XR-AA---	Pred
+18	za	RR--4----------	AuxP
+19	aktivní	AAFS4----1A----	Atr
+20	finanční	AAFS4----1A----	Atr
+21	politiku	NNFS4-----A----	Obj
+22	a	J^-------------	Coord
+23	samostatné	AANS4----1A----	Atr
+24	hospodaření	NNNS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+lnd94104-137-p1s11
+1	Ošetřovným	NNNS7-----A----	Adv
+2	1650	C=-------------	Atr
+3	Kč	NNFXX-----A---8	Atr
+4	měsíčně	Dg-------1A----	Atr
+5	od	RR--2----------	AuxP
+6	každého	AAMS2----1A----	Adv
+7	ze	RV--2----------	AuxP
+8	stopadesáti	Cn-P2----------	Atr
+9	obyvatel	NNMP2-----A---1	Atr
+10	Palaty	NNFS2-----A----	Atr
+11	by	Vc-------------	AuxV
+12	si	P7-X3----------	Adv
+13	na	RR--4----------	AuxP
+14	provoz	NNIS4-----A----	Obj
+15	nevydělali	VpMP---XR-NA---	Pred
+16	.	Z:-------------	AuxK
+
+lnd94104-137-p1s12
+1	Chtěli	VpMP---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	pustit	Vf--------A----	Obj
+5	do	RR--2----------	AuxP
+6	podnikatelské	AAFS2----1A----	Atr
+7	aktivity	NNFS2-----A----	Obj
+8	,	Z:-------------	AuxX
+9	pokud	J,-------------	AuxC
+10	ji	PPFS4--3-------	Obj
+11	ovšem	J^-------------	AuxY
+12	zákon	NNIS1-----A----	Sb
+13	připustí	VB-S---3P-AA---	Adv
+14	.	Z:-------------	AuxK
+
+lnd94104-137-p1s13
+1	Také	Db-------------	AuxZ
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	mohli	VpMP---XR-AA---	Pred
+5	ozvat	Vf--------A----	Obj
+6	sponzoři	NNMP1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+lnd94104-137-p1s14
+1	Státní	AAFS1----1A----	Atr
+2	dotace	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	ale	J^-------------	Coord
+5	byla	VpQW---XR-AA---	Pred
+6	nutná	AAFS1----1A----	Pnom
+7	.	Z:-------------	AuxK
+
+lnd94104-137-p1s15
+1	Magistrát	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	si	P7-X3----------	Adv
+4	uchoval	VpYS---XR-AA---	Pred
+5	kontrolu	NNFS4-----A----	Obj
+6	nad	RR--7----------	AuxP
+7	hospodařením	NNNS7-----A----	Atr
+8	Palaty	NNFS2-----A----	Atr
+9	členstvím	NNNS7-----A----	Adv
+10	v	RR--6----------	AuxP
+11	její	PSFSXFS3-------	Atr
+12	správní	AAFS6----1A----	Atr
+13	radě	NNFS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94104-137-p1s16
+1	Ředitelka	NNFS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	představuje	VB-S---3P-AA---	Pred
+4	budoucí	AAFS4----1A----	Atr
+5	Palatu	NNFS4-----A----	Obj
+6	jako	J,-------------	AuxY
+7	polosoukromou	AAFS4----1A----	Atr
+8	instituci	NNFS4-----A----	Atv
+9	s	RR--7----------	AuxP
+10	vlastním	AAIS7----1A----	Atr
+11	platovým	AAIS7----1A----	Atr
+12	řádem	NNIS7-----A----	Atr
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	by	Vc-------------	AuxV
+16	vyřešil	VpYS---XR-AA---	Atr
+17	nedostatek	NNIS4-----A----	Obj
+18	kvalitního	AAIS2----1A----	Atr
+19	personálu	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+

@@ -1,0 +1,353 @@
+ln95046-109-p1s1
+1	Pouze	Db-------------	AuxZ
+2	děti	NNFP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	zřejmě	Dg-------1A----	AuxY
+5	vyhnou	VB-P---3P-AA---	Pred
+6	dennímu	AAIS3----1A----	Atr
+7	poplatku	NNIS3-----A----	Obj
+8	55	C=-------------	Atr
+9	korun	NNFP2-----A----	Atr
+10	za	RR--4----------	AuxP
+11	hospitalizaci	NNFS4-----A----	AtrAtr
+
+ln95046-109-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-109-p2s1B
+1	Poplatek	NNIS4-----A----	Obj
+2	55	C=-------------	Atr
+3	korun	NNFP2-----A----	Atr
+4	denně	Dg-------1A----	Atr
+5	za	RR--4----------	AuxP
+6	první	CrIP4----------	Atr
+7	dva	ClYP4----------	Atr
+8	týdny	NNIP4-----A----	Atr
+9	hospitalizace	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	nemocnicích	NNFP6-----A----	Atr
+12	bude	VB-S---3F-AA---	Pred
+13	třeba	ACNS------A----	Pnom
+14	zaplatit	Vf--------A----	Sb
+15	i	J^-------------	AuxZ
+16	za	RR--4----------	AuxP
+17	ty	PDMP4----------	Obj
+18	,	Z:-------------	AuxX
+19	kteří	P4MP1----------	Sb
+20	v	RR--6----------	AuxP
+21	této	PDFS6----------	Atr
+22	době	NNFS6-----A----	Adv
+23	zemřou	VB-P---3P-AA---	Atr
+24	.	Z:-------------	AuxK
+
+ln95046-109-p2s2
+1	LN	NNFPX-----A---8	Obj
+2	to	PDNS4----------	Obj
+3	potvrdila	VpQW---XR-AA---	Pred
+4	mluvčí	NNFS1-----A----	Atr
+5	ministerstva	NNNS2-----A----	Atr
+6	zdravotnictví	NNNS2-----A----	Atr
+7	K	NNFXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Potočná	NNFS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95046-109-p3s1
+1	Peníze	NNIP1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	mají	VB-P---3P-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	představ	NNFP2-----A----	Adv
+6	ministerstva	NNNS2-----A----	Atr
+7	začít	Vf--------A----	Obj
+8	vybírat	Vf--------A----	Obj
+9	od	RR--2----------	AuxP
+10	července	NNIS2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln95046-109-p3s2
+1	Do	RR--2----------	AuxP
+2	té	PDFS2----------	Atr
+3	doby	NNFS2-----A----	Adv
+4	musí	VB-S---3P-AA---	Pred
+5	dohodovací	AANS1----1A----	Atr
+6	řízení	NNNS1-----A----	Sb
+7	mezi	RR--7----------	AuxP
+8	zástupci	NNMP7-----A----	Atr
+9	státu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	lékařů	NNMP2-----A----	Atr
+12	a	J^-------------	Coord
+13	pojišťoven	NNFP2-----A----	Atr
+14	rozhodnout	Vf--------A----	Obj
+15	například	Db-------------	AuxZ
+16	o	RR--6----------	AuxP
+17	způsobu	NNIS6-----A---1	Obj
+18	platby	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95046-109-p3s3
+1	Zatím	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	jasné	AANS1----1A----	Pnom
+4	jen	TT-------------	AuxZ
+5	to	PDNS1----------	Sb
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	platit	Vf--------A----	Atr
+9	se	P7-X4----------	AuxR
+10	bude	VB-S---3F-AA---	AuxV
+11	až	TT-------------	AuxZ
+12	po	RR--6----------	AuxP
+13	skončení	NNNS6-----A----	Adv
+14	hospitalizace	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-109-p3s4
+1	Ministerstvo	NNNS1-----A----	Sb
+2	podle	RR--2----------	AuxP
+3	Potočné	NNFS2-----A----	Adv
+4	očekává	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	poplatek	NNIS1-----A----	Sb
+8	finančně	Dg-------1A----	Adv
+9	pomůže	VB-S---3P-AA---	Obj
+10	nemocnicím	NNFP3-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95046-109-p3s5
+1	Pacienti	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	prý	TT-------------	AuxY
+4	také	Db-------------	Adv
+5	budou	VB-P---3F-AA---	AuxV
+6	více	Dg-------2A----	Adv
+7	zamýšlet	Vf--------A----	Pred
+8	nad	RR--7----------	AuxP
+9	tím	PDZS7----------	Obj
+10	,	Z:-------------	AuxX
+11	jestli	J,-------------	AuxC
+12	hospitalizaci	NNFS4-----A----	Obj
+13	skutečně	Dg-------1A----	Adv
+14	potřebují	VB-P---3P-AA---	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-109-p4s1
+1	Mluvčí	NNFS1-----A----	Sb
+2	uvedla	VpQW---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	zemřelým	AAMP3----1A----	Adv
+6	je	VB-S---3P-AA---	AuxV
+7	i	J^-------------	AuxZ
+8	po	RR--4----------	AuxP
+9	dobu	NNFS4-----A----	Adv
+10	jejich	PSXXXXP3-------	Atr
+11	pobytu	NNIS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	nemocnicích	NNFP6-----A----	Atr
+14	dále	Db------------1	Adv
+15	počítán	VsYS---XX-AP---	Obj
+16	např	Db------------8	AuxZ
+17	.	Z:-------------	AuxG
+18	důchod	NNIS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+ln95046-109-p4s2
+1	Pozůstalí	AAMP1----1A----	Sb
+2	tedy	Db-------------	AuxY
+3	budou	VB-P---3F-AA---	AuxV
+4	mít	Vf--------A----	Pred
+5	z	RR--2----------	AuxP
+6	čeho	PQ--2----------	Adv
+7	stravu	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	praní	NNNS4-----A----	Obj
+10	a	J^-------------	Coord
+11	podobné	AAFP4----1A----	Atr
+12	služby	NNFP4-----A----	Obj
+13	související	AGFP4-----A----	Atr
+14	s	RR--7----------	AuxP
+15	hospitalizací	NNFS7-----A----	Obj
+16	,	Z:-------------	AuxX
+17	na	RR--4----------	AuxP
+18	něž	P9XP4----------	Obj
+19	je	VB-S---3P-AA---	Atr
+20	55	C=-------------	Sb
+21	korun	NNFP2-----A----	Atr
+22	určeno	VsNS---XX-AP---	Pnom
+23	,	Z:-------------	AuxX
+24	uhradit	Vf--------A----	Obj
+25	.	Z:-------------	AuxK
+
+ln95046-109-p5s1
+1	Sociálně	Dg-------1A----	Adv
+2	potřebným	AAMP3----1A----	Obj
+3	,	Z:-------------	AuxX
+4	pro	RR--4----------	AuxP
+5	něž	P9XP4----------	Adv
+6	je	VB-S---3P-AA---	Atr
+7	poplatek	NNIS1-----A----	Sb
+8	nad	RR--4----------	AuxP
+9	jejich	PSXXXXP3-------	Atr
+10	možnosti	NNFP4-----A----	Adv
+11	,	Z:-------------	AuxX
+12	by	Vc-------------	AuxV
+13	prý	TT-------------	AuxY
+14	mělo	VpNS---XR-AA---	Pred
+15	pomoci	Vf--------A---1	Obj
+16	ministerstvo	NNNS1-----A----	Sb
+17	práce	NNFS2-----A----	Atr
+18	a	J^-------------	Coord
+19	sociálních	AAFP2----1A----	Atr
+20	věcí	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95046-109-p5s2
+1	Pacienti	NNMP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	kteří	P4MP1----------	Sb
+4	peníze	NNIP4-----A----	Obj
+5	mít	Vf--------A----	Atr
+6	budou	VB-P---3F-AA---	AuxV
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	přesto	Dg-------1A----	AuxY
+10	již	Db-------------	AuxZ
+11	dopředu	Db-------------	Adv
+12	odmítnou	VB-P---3P-AA---	Atr
+13	zaplatit	Vf--------A----	Obj
+14	,	Z:-------------	AuxX
+15	nemusí	VB-S---3P-NA---	Pred
+16	být	Vf--------A----	AuxV
+17	do	RR--2----------	AuxP
+18	nemocnic	NNFP2-----A----	Adv
+19	přijati	VsMP---XX-AP---	Obj
+20	,	Z:-------------	AuxX
+21	pokud	J,-------------	AuxC
+22	to	PDNS1----------	Sb
+23	neohrozí	VB-S---3P-NA---	Adv
+24	jejich	PSXXXXP3-------	Atr
+25	život	NNIS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+ln95046-109-p5s3
+1	Potočná	NNFS1-----A----	Sb
+2	upozornila	VpQW---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	poplatek	NNIS1-----A----	Sb
+6	bude	VB-S---3F-AA---	Obj
+7	součástí	NNFS7-----A----	Pnom
+8	zdravotního	AAIS2----1A----	Atr
+9	řádu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	který	P4IS4----------	Obj
+12	schvaluje	VB-S---3P-AA---	Atr
+13	vláda	NNFS1-----A----	Sb
+14	a	J^-------------	Coord
+15	jehož	PJZS2----------	Atr
+16	dodržování	NNNS1-----A----	Sb
+17	bude	VB-S---3F-AA---	Atr
+18	povinností	NNFS7-----A----	Pnom
+19	.	Z:-------------	AuxK
+
+ln95046-109-p6s1
+1	"	Z:-------------	AuxG
+2	Nikdo	PWM-1----------	Sb
+3	by	Vc-------------	AuxV
+4	nezaplatil	VpYS---XR-NA---	Obj
+5	za	RR--4----------	AuxP
+6	rok	NNIS4-----A----	Adv
+7	více	Dg-------2A----	Obj
+8	než	J,-------------	AuxC
+9	770	C=-------------	Adv
+10	korun	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	"	Z:-------------	AuxG
+13	uvedla	VpQW---XR-AA---	Pred
+14	Potočná	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95046-109-p6s2
+1	Ministerstvo	NNNS1-----A----	Sb
+2	zdravotnictví	NNNS2-----A----	Atr
+3	totiž	Db-------------	AuxY
+4	předpokládá	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	lidé	NNMP1-----A---1	Sb
+8	by	Vc-------------	AuxV
+9	platili	VpMP---XR-AA---	Obj
+10	jen	TT-------------	AuxZ
+11	prvních	CrIP2----------	Atr
+12	čtrnáct	Cn-S4----------	Adv
+13	dní	NNIP2-----A---1	Atr
+14	ročně	Dg-------1A----	AtrAdv
+15	.	Z:-------------	AuxK
+
+ln95046-109-p6s3
+1	Bude	VB-S---3F-AA---	AuxV
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	proto	J^-------------	Coord
+5	někdo	PZM-1----------	Sb
+6	muset	Vf--------A----	Adv
+7	do	RR--2----------	AuxP
+8	nemocnice	NNFS2-----A----	Adv
+9	za	RR--4----------	AuxP
+10	rok	NNIS4-----A----	Adv
+11	několikrát	Co-------------	Adv
+12	,	Z:-------------	AuxX
+13	přesto	Dg-------1A----	Adv
+14	zaplatí	VB-S---3P-AA---	Pred
+15	jenom	TT-------------	AuxZ
+16	prvních	CrIP2----------	Atr
+17	čtrnáct	Cn-S4----------	Obj
+18	dní	NNIP2-----A---1	Atr
+19	v	RR--6----------	AuxP
+20	daném	AAIS6----1A----	Atr
+21	roce	NNIS6-----A---1	AtrAdv
+22	.	Z:-------------	AuxK
+
+ln95046-109-p6s4
+1	Nic	PW--4----------	Obj
+2	nebudou	VB-P---3F-NA---	AuxV
+3	platit	Vf--------A----	Pred
+4	pouze	Db-------------	AuxZ
+5	pacienti	NNMP1-----A----	Sb
+6	mladší	AAMP1----2A----	Atr
+7	18	C=-------------	Atr
+8	let	NNNP2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln95046-109-p6s5
+1	Výjimkou	NNFS7-----A----	Pnom
+2	nejsou	VB-P---3P-NA---	Pred
+3	třeba	Db-------------	AuxZ
+4	ani	J^-------------	AuxZ
+5	ženy	NNFP1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	porodnicích	NNFP6-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95046-109-p6s6
+1	Potočná	NNFS1-----A----	Sb
+2	připomněla	VpQW---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	průměrná	AAFS1----1A----	Atr
+6	doba	NNFS1-----A----	Sb
+7	pobytu	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	porodnici	NNFS6-----A----	Atr
+10	je	VB-S---3P-AA---	Obj
+11	u	RR--2----------	AuxP
+12	nekomplikovaných	AAIP2----1N----	Atr
+13	případů	NNIP2-----A----	Adv
+14	tři	ClXP1----------	Atr
+15	dny	NNIP1-----A----	Pnom
+16	.	Z:-------------	AuxK
+

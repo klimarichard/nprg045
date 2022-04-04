@@ -1,0 +1,384 @@
+ln95040-140-p1s1
+1	Návrh	NNIS4-----A----	Obj
+2	širších	AAFP2----2A----	Atr
+3	pravomocí	NNFP2-----A----	Atr
+4	vlády	NNFS2-----A----	Atr
+5	nehodnotí	VB-P---3P-NA---	Pred
+6	politici	NNMP1-----A----	Sb
+7	jednoznačně	Dg-------1A----	Adv
+
+ln95040-140-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95040-140-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-140-p3s1B
+1	Podle	RR--2----------	AuxP
+2	předsedy	NNMS2-----A----	Atr
+3	ústavněprávního	AAIS2----1A----	Atr
+4	výboru	NNIS2-----A----	Atr
+5	Poslanecké	AAFS2----1A----	Atr
+6	sněmovny	NNFS2-----A----	Atr
+7	Miloslava	NNMS2-----A----	Atr
+8	Výborného	NNMS2-----A----	Adv
+9	(	Z:-------------	AuxG
+10	KDU	NNFXX-----A---8	ExD
+11	-	Z:-------------	Coord
+12	ČSL	NNFXX-----A---8	ExD
+13	)	Z:-------------	AuxG
+14	neumožňuje	VB-S---3P-NA---	Pred
+15	současná	AAFS1----1A----	Atr
+16	právní	AAFS1----1A----	Atr
+17	úprava	NNFS1-----A----	Sb
+18	parlamentu	NNIS3-----A----	Obj
+19	včasné	AANS4----1A----	Atr
+20	plnění	NNNS4-----A----	Obj
+21	rezolucí	NNFP2-----A----	Atr
+22	Rady	NNFS2-----A----	Atr
+23	bezpečnosti	NNFS2-----A----	Atr
+24	OSN	NNFXX-----A---8	Atr
+25	.	Z:-------------	AuxK
+
+ln95040-140-p3s2
+1	V	RR--6----------	AuxP
+2	těchto	PDXP6----------	Atr
+3	případech	NNIP6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	prý	TT-------------	AuxY
+6	nutné	AANS1----1A----	Pnom
+7	svěřit	Vf--------A----	Sb
+8	přijetí	NNNS4-----A----	Obj
+9	zákona	NNIS2-----A----	Atr
+10	jinému	AAIS3----1A----	Atr
+11	orgánu	NNIS3-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln95040-140-p4s1
+1	S	RR--7----------	AuxP
+2	tím	PDZS7----------	Obj
+3	počítá	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	návrh	NNIS1-----A----	Sb
+6	Legislativní	AAFS2----1A----	Atr
+7	rady	NNFS2-----A----	Atr
+8	vlády	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	kabinet	NNIS1-----A----	Sb
+12	v	RR--6----------	AuxP
+13	přesně	Dg-------1A----	Adv
+14	vymezených	AAIP6----1A----	Atr
+15	případech	NNIP6-----A----	Adv
+16	měl	VpYS---XR-AA---	Atr
+17	možnost	NNFS4-----A----	Obj
+18	přijímat	Vf--------A----	Atr
+19	opatření	NNNP4-----A----	Obj
+20	mající	AGNP4-----A----	Atr
+21	účinnost	NNFS4-----A----	Obj
+22	zákona	NNIS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95040-140-p4s2
+1	Tímto	PDZS7----------	Atr
+2	způsobem	NNIS7-----A----	Adv
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxR
+5	do	RR--2----------	AuxP
+6	právního	AAIS2----1A----	Atr
+7	řádu	NNIS2-----A----	Adv
+8	přenášela	VpQW---XR-AA---	Pred
+9	například	Db-------------	AuxZ
+10	usnesení	NNNP1-----A----	Sb
+11	Rady	NNFS2-----A----	Atr
+12	bezpečnosti	NNFS2-----A----	Atr
+13	OSN	NNFXX-----A---8	Atr
+14	.	Z:-------------	AuxK
+
+ln95040-140-p4s3
+1	Vyžadovalo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	to	PDNS1----------	Sb
+4	ovšem	J^-------------	Coord
+5	změnu	NNFS4-----A----	Obj
+6	ústavy	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95040-140-p4s4
+1	Předseda	NNMS1-----A----	Atr
+2	poslaneckého	AAIS2----1A----	Atr
+3	klubu	NNIS2-----A----	Atr
+4	KDS	NNFXX-----A---8	Atr
+5	Marek	NNMS1-----A----	Atr
+6	Benda	NNMS1-----A----	Sb
+7	považuje	VB-S---3P-AA---	Pred
+8	podobný	AAIS4----1A----	Atr
+9	krok	NNIS4-----A----	Obj
+10	za	RR--4----------	AuxP
+11	potřebný	AAIS4----1A----	Obj
+12	.	Z:-------------	AuxK
+
+ln95040-140-p4s5
+1	"	Z:-------------	AuxG
+2	Chceme	VB-P---1P-AA---	Adv
+3	-	Z:-------------	AuxG
+4	li	TT-------------	AuxC
+5	být	Vf--------A----	Obj
+6	členy	NNMP7-----A----	Pnom
+7	mezinárodního	AANS2----1A----	Atr
+8	společenství	NNNS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	musíme	VB-P---1P-AA---	Obj
+11	být	Vf--------A----	Obj
+12	schopni	ACMP------A----	Pnom
+13	rozhodnutí	NNNP4-----A----	Obj
+14	Rady	NNFS2-----A----	Atr
+15	provádět	Vf--------A----	Obj
+16	,	Z:-------------	AuxX
+17	"	Z:-------------	AuxG
+18	vysvětlil	VpYS---XR-AA---	Pred
+19	.	Z:-------------	AuxK
+
+ln95040-140-p4s6
+1	Zásah	NNIS4-----A----	Obj
+2	do	RR--2----------	AuxP
+3	ústavy	NNFS2-----A----	Atr
+4	Benda	NNMS1-----A----	Sb
+5	nepovažuje	VB-S---3P-NA---	Pred
+6	za	RR--4----------	AuxP
+7	zásadní	AAIS4----1A----	Atr
+8	problém	NNIS4-----A----	Obj
+9	:	Z:-------------	Coord
+10	"	Z:-------------	AuxG
+11	Opakovaně	Dg-------1A----	Adv
+12	říkáme	VB-P---1P-AA---	ExD
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	je	VB-S---3P-AA---	Obj
+16	potřeba	NNFS1-----A----	Pnom
+17	v	RR--6----------	AuxP
+18	ústavě	NNFS6-----A----	Adv
+19	dořešit	Vf--------A----	Sb
+20	přinejmenším	Db-------------	AuxZ
+21	věci	NNFP4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	které	P4FP1----------	Sb
+24	souvisí	VB-S---3P-AA---	Atr
+25	s	RR--7----------	AuxP
+26	výjimečným	AAIS7----1A----	Atr
+27	stavem	NNIS7-----A----	Obj
+28	.	Z:-------------	AuxK
+29	"	Z:-------------	AuxG
+
+ln95040-140-p4s7
+1	Podle	RR--2----------	AuxP
+2	místopředsedy	NNMS2-----A----	Atr
+3	ODA	NNFXX-----A---8	Atr
+4	Karla	NNMS2-----A----	Atr
+5	Ledvinky	NNMS2-----A----	Adv
+6	má	VB-S---3P-AA---	Pred
+7	mít	Vf--------A----	Obj
+8	exekutiva	NNFS1-----A----	Sb
+9	oprávnění	NNNS4-----A----	Obj
+10	k	RR--3----------	AuxP
+11	tomu	PDZS3----------	Atr
+12	,	Z:-------------	AuxX
+13	aby	J,-------------	AuxC
+14	v	RR--6----------	AuxP
+15	případě	NNIS6-----A----	Adv
+16	,	Z:-------------	AuxX
+17	kdy	Db-------------	Adv
+18	parlament	NNIS1-----A----	Sb
+19	není	VB-S---3P-NA---	Atr
+20	schopen	ACYS------A----	Pnom
+21	se	P7-X4----------	AuxT
+22	sejít	Vf--------A----	Obj
+23	,	Z:-------------	AuxX
+24	přijímala	VpQW---XR-AA---	Atr
+25	rozhodnutí	NNNP4-----A----	Obj
+26	o	RR--6----------	AuxP
+27	síle	NNFS6-----A----	Atr
+28	zákona	NNIS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95040-140-p4s8
+1	Poslankyně	NNFS1-----A----	Atr
+2	Petra	NNFS1-----A----	Atr
+3	Buzková	NNFS1-----A----	Sb
+4	(	Z:-------------	ExD
+5	ČSSD	NNFXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	chápe	VB-S---3P-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	z	RR--2----------	AuxP
+11	hlediska	NNNS2-----A----	AuxP
+12	udržení	NNNS2-----A----	Adv
+13	bezpečnosti	NNFS2-----A----	Atr
+14	je	VB-S---3P-AA---	Obj
+15	mnohdy	Db-------------	Adv
+16	třeba	ACNS------A----	Pnom
+17	reagovat	Vf--------A----	Sb
+18	rychle	Dg-------1A----	Adv
+19	.	Z:-------------	AuxK
+
+ln95040-140-p4s9
+1	Nevidí	VB-S---3P-NA---	Pred
+2	však	J^-------------	Coord
+3	důvod	NNIS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	proč	Db-------------	Adv
+6	by	Vc-------------	AuxV
+7	nemohl	VpYS---XR-NA---	Atr
+8	být	Vf--------A----	AuxV
+9	okamžitě	Dg-------1A----	Adv
+10	svolán	VsYS---XX-AP---	Obj
+11	parlament	NNIS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln95040-140-p4s10
+1	To	PDNS1----------	Sb
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	by	Vc-------------	AuxV
+5	vláda	NNFS1-----A----	Sb
+6	měla	VpQW---XR-AA---	Atr
+7	sama	PLFS1----------	Atv
+8	vydávat	Vf--------A----	Obj
+9	akty	NNIP4-----A----	Obj
+10	se	RV--7----------	AuxP
+11	silou	NNFS7-----A----	Atr
+12	zákona	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ji	PPFS4--3-------	Obj
+15	šokuje	VB-S---3P-AA---	Pred
+16	.	Z:-------------	AuxK
+
+ln95040-140-p4s11A
+1	Taktéž	Db-------------	AuxZ
+2	místopředseda	NNMS1-----A----	Atr
+3	ČSSD	NNFXX-----A---8	Atr
+4	Jaromír	NNMS1-----A----	Atr
+5	Kuča	NNFS1-----A----	Sb
+6	se	P7-X4----------	AuxT
+7	vyslovil	VpYS---XR-AA---	Pred
+8	proti	RR--3----------	AuxP
+9	"	Z:-------------	AuxG
+10	posilování	NNNS3-----A----	Obj
+11	pravomocí	NNFP2-----A----	Atr
+12	vlády	NNFS2-----A----	Atr
+13	na	RR--4----------	AuxP
+14	úkor	NNIS4-----A----	AuxP
+15	parlamentu	NNIS2-----A----	Atr
+16	"	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+ln95040-140-p4s11B
+1	Předseda	NNMS1-----A----	Atr
+2	zahraničního	AAIS2----1A----	Atr
+3	výboru	NNIS2-----A----	Atr
+4	Jiří	NNMS1-----A----	Atr
+5	Payne	NNMS1-----A----	Sb
+6	(	Z:-------------	ExD
+7	ODS	NNFXX-----A---8	ExD
+8	)	Z:-------------	ExD
+9	soudí	VB-S---3P-AA---	Pred
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	pokud	J,-------------	AuxC
+13	by	Vc-------------	AuxV
+14	se	P7-X4----------	AuxR
+15	měla	VpQW---XR-AA---	Adv
+16	prosadit	Vf--------A----	Obj
+17	uvedená	AAFS1----1A----	Atr
+18	zásada	NNFS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	tak	Db-------------	Adv
+21	by	Vc-------------	AuxV
+22	šlo	VpNS---XR-AA---	Obj
+23	o	RR--4----------	AuxP
+24	naprostou	AAFS4----1A----	Atr
+25	novinku	NNFS4-----A----	Obj
+26	v	RR--6----------	AuxP
+27	našem	PSZS6-P1-------	Atr
+28	ústavním	AANS6----1A----	Atr
+29	právu	NNNS6-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln95040-140-p4s12
+1	Od	RR--2----------	AuxP
+2	roku	NNIS2-----A---1	Adv
+3	1918	C=-------------	Atr
+4	prý	TT-------------	AuxY
+5	u	RR--2----------	AuxP
+6	nás	PP-P2--1-------	Adv
+7	vláda	NNFS1-----A----	Sb
+8	opatření	NNNP4-----A----	Obj
+9	s	RR--7----------	AuxP
+10	váhou	NNFS7-----A----	Atr
+11	zákona	NNIS2-----A----	Atr
+12	nikdy	Db-------------	Adv
+13	nepřijímala	VpQW---XR-NA---	Pred
+14	.	Z:-------------	AuxK
+
+ln95040-140-p4s13
+1	"	Z:-------------	AuxG
+2	Předpokládám	VB-S---1P-AA---	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	ODS	NNFXX-----A---8	Sb
+6	jako	J,-------------	AuxY
+7	konzervativní	AAFS1----1A----	Atr
+8	strana	NNFS1-----A----	Atv
+9	nebude	VB-S---3F-NA---	Obj
+10	příliš	Db-------------	Adv
+11	nadšena	VsQW---XX-AP---	Pnom
+12	,	Z:-------------	AuxX
+13	kdybychom	J,-P---1-------	AuxC
+14	zaváděli	VpMP---XR-AA---	Adv
+15	nějaké	PZYP4----------	Atr
+16	experimenty	NNIP4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	"	Z:-------------	AuxG
+19	uvedl	VpYS---XR-AA---	Pred
+20	.	Z:-------------	AuxK
+
+ln95040-140-p4s14
+1	Hana	NNFS1-----A----	Atr
+2	Marvanová	NNFS1-----A----	Sb
+3	(	Z:-------------	ExD
+4	ODS	NNFXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	je	VB-S---3P-AA---	Pred
+7	pro	RR--4----------	AuxP
+8	zkrácení	NNNS4-----A----	Adv
+9	legislativního	AAIS2----1A----	Atr
+10	procesu	NNIS2-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	výjimečných	AAIP6----1A----	Atr
+13	případech	NNIP6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	nikoli	Db------------1	AuxZ
+16	však	J^-------------	Coord
+17	pro	RR--4----------	AuxP
+18	to	PDNS4----------	Adv
+19	,	Z:-------------	AuxX
+20	aby	J,-------------	AuxC
+21	v	RR--6----------	AuxP
+22	čase	NNIS6-----A----	Adv
+23	,	Z:-------------	AuxX
+24	kdy	Db-------------	Adv
+25	parlament	NNIS4-----A----	Obj
+26	svolat	Vf--------A----	Sb
+27	lze	VB-S---3P-AA---	Atr
+28	,	Z:-------------	AuxX
+29	zákony	NNIP4-----A----	Obj
+30	schvalovala	VpQW---XR-AA---	Atr
+31	vláda	NNFS1-----A----	Sb
+32	.	Z:-------------	AuxK
+

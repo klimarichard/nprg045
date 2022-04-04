@@ -1,0 +1,96 @@
+ln95040-143-p1s1
+1	Dlouhodobý	AAIS1----1A----	Atr
+2	vývoj	NNIS1-----A----	ExD
+3	volebních	AAFP2----1A----	Atr
+4	preferencí	NNFP2-----A----	Atr
+
+ln95040-143-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95040-143-p3s1
+1	Únorový	AAIS1----1A----	Atr
+2	průzkum	NNIS1-----A----	Sb
+3	Střediska	NNNS2-----A----	Atr
+4	empirických	AAIP2----1A----	Atr
+5	výzkumů	NNIP2-----A----	Atr
+6	(	Z:-------------	Apos
+7	STEM	NNNS7-----A----	Atr
+8	)	Z:-------------	AuxG
+9	potvrdil	VpYS---XR-AA---	Pred
+10	dlouhodobou	AAFS4----1A----	Atr
+11	klesající	AGFS4-----A----	Atr
+12	tendenci	NNFS4-----A----	Obj
+13	volebních	AAFP2----1A----	Atr
+14	preferencí	NNFP2-----A----	Atr
+15	ODA	NNFXX-----A---8	Atr
+16	a	J^-------------	Coord
+17	kontinuální	AAIS4----1A----	Atr
+18	nárůst	NNIS4-----A----	Obj
+19	počtu	NNIS2-----A----	Atr
+20	příznivců	NNMP2-----A----	Atr
+21	ČSSD	NNFXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+
+ln95040-143-p3s2
+1	Za	RR--4----------	AuxP
+2	rok	NNIS4-----A----	Adv
+3	poklesl	VpYS---XR-AA--1	Pred
+4	počet	NNIS1-----A----	Sb
+5	stoupenců	NNMP2-----A----	Atr
+6	ODA	NNFXX-----A---8	Atr
+7	o	RR--4----------	AuxP
+8	více	Dg-------2A----	Adv
+9	než	J,-------------	AuxC
+10	šest	Cn-S4----------	Adv
+11	procentních	AAIP2----1A----	Atr
+12	bodů	NNIP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	sociálním	AAMP3----1A----	Atr
+15	demokratům	NNMP3-----A----	Adv
+16	naopak	Db-------------	Adv
+17	o	RR--4----------	AuxP
+18	sedm	Cn-S4----------	Adv
+19	stoupl	VpYS---XR-AA--1	Pred
+20	.	Z:-------------	AuxK
+
+ln95040-143-p3s3
+1	ODS	NNFXX-----A---8	Sb
+2	zaznamenala	VpQW---XR-AA---	Pred
+3	oproti	RR--3----------	AuxP
+4	lednovému	AAIS3----1A----	Atr
+5	průzkumu	NNIS3-----A----	Adv
+6	mírný	AAIS4----1A----	Atr
+7	nárůst	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	její	PSXP1FS3-------	Atr
+10	preference	NNFP1-----A----	Sb
+11	jsou	VB-P---3P-AA---	Pred
+12	však	J^-------------	Coord
+13	poměrně	Dg-------1A----	Adv
+14	stabilní	AAFP1----1A----	Pnom
+15	.	Z:-------------	AuxK
+
+ln95040-143-p3s4
+1	KDU	NNFXX-----A---8	Sb
+2	-	Z:-------------	Coord
+3	ČSL	NNFXX-----A---8	Sb
+4	a	J^-------------	Coord
+5	KSČM	NNFXX-----A---8	Sb
+6	mají	VB-P---3P-AA---	Pred
+7	velmi	Db-------------	Adv
+8	stálou	AAFS4----1A----	Atr
+9	voličskou	AAFS4----1A----	Atr
+10	základnu	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95040-143-p3s5
+1	(	Z:-------------	ExD
+2	ps	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+4	Zdroj	NNIS1-----A----	ExD
+5	STEM	NNNS7-----A----	Atr
+

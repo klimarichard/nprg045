@@ -1,0 +1,72 @@
+ln94211-62-p1s1
+1	Nelegální	AAIS1----1N----	Atr
+2	převoz	NNIS1-----A----	ExD
+3	střelné	AAFS2----1A----	Atr
+4	zbraně	NNFS2-----A----	Atr
+
+ln94211-62-p2s1A
+1	Kyjov	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	luč	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94211-62-p2s1B
+1	Z	RR--2----------	AuxP
+2	trestného	AAIS2----1A----	Atr
+3	činu	NNIS2-----A----	Obj
+4	nedovoleného	AANS2----1N----	Atr
+5	ozbrojování	NNNS2-----A----	Atr
+6	byl	VpYS---XR-AA---	AuxV
+7	obviněn	VsYS---XX-AP---	Pred
+8	třiatřicetiletý	AAMS1----1A----	Atr
+9	Slovák	NNMS1-----A----	Atr
+10	Robert	NNMS1-----A----	Atr
+11	H	NNMXX-----A---8	Sb
+12	.	Z:-------------	AuxG
+13	,	Z:-------------	AuxX
+14	neboť	J^-------------	Coord
+15	na	RR--4----------	AuxP
+16	území	NNNS4-----A----	Adv
+17	ČR	NNFXX-----A---8	Atr
+18	nelegálně	Dg-------1N----	Adv
+19	převezl	VpYS---XR-AA---	Pred
+20	svou	P8FS4---------1	Atr
+21	střelnou	AAFS4----1A----	Atr
+22	zbraň	NNFS4-----A----	Obj
+23	Taurus	NNIS1-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94211-62-p2s2
+1	Policisté	NNMP1-----A----	Sb
+2	zbraň	NNFS4-----A----	Obj
+3	zajistili	VpMP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	hotelu	NNIS6-----A----	Adv
+6	Slavia	NNFS1-----A---1	Atr
+7	.	Z:-------------	AuxK
+
+ln94211-62-p2s3
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	AuxP
+3	prokázání	NNNS2-----A----	Adv
+4	viny	NNFS2-----A----	Atr
+5	hrozí	VB-S---3P-AA---	Pred
+6	Robertu	NNMS3-----A---1	Atr
+7	H	NNMXX-----A---8	Obj
+8	.	Z:-------------	AuxG
+9	trest	NNIS1-----A----	Sb
+10	odnětí	NNNS2-----A----	Atr
+11	svobody	NNFS2-----A----	Atr
+12	až	TT-------------	AuxZ
+13	na	RR--4----------	AuxP
+14	jeden	ClIS4----------	Atr
+15	rok	NNIS4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	propadnutí	NNNS1-----A----	Sb
+18	věci	NNFS2-----A----	Atr
+19	nebo	J^-------------	Coord
+20	peněžitý	AAIS1----1A----	Atr
+21	trest	NNIS1-----A----	Sb
+22	.	Z:-------------	AuxK
+

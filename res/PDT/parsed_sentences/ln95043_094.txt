@@ -1,0 +1,401 @@
+ln95043-094-p1s1
+1	Malý	AAIS1----1A----	Atr
+2	Mercedes	NNIS1-----A----	ExD
+3	pro	RR--4----------	AuxP
+4	Čínu	NNFS4-----A----	Atr
+
+ln95043-094-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95043-094-p3s1
+1	Zájem	NNIS1-----A----	Sb
+2	světových	AAFP2----1A----	Atr
+3	automobilek	NNFP2-----A----	Atr
+4	o	RR--4----------	AuxP
+5	Čínu	NNFS4-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	všeobecný	AAIS1----1A----	Pnom
+8	.	Z:-------------	AuxK
+
+ln95043-094-p3s2
+1	Mnohé	AAFP1----1A----	Sb
+2	považují	VB-P---3P-AA---	Pred
+3	čínský	AAIS4----1A----	Atr
+4	trh	NNIS4-----A----	Obj
+5	v	RR--6----------	AuxP
+6	blízké	AAFS6----1A----	Atr
+7	budoucnosti	NNFS6-----A----	Adv
+8	za	RR--4----------	AuxP
+9	vůbec	Db-------------	AuxZ
+10	nejdůležitější	AAIS4----3A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95043-094-p3s3
+1	Patří	VB-S---3P-AA---	Pred
+2	mezi	RR--4----------	AuxP
+3	ně	P5XP4--3-------	Adv
+4	i	J^-------------	AuxZ
+5	Mercedes	NNIS1-----A----	Sb
+6	-	Z:-------------	AuxG
+7	Benz	NNIXX-----A----	Atr
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	připravuje	VB-S---3P-AA---	Atr
+11	auto	NNNS4-----A----	Obj
+12	přizpůsobené	AANS4----1A----	Atr
+13	čínskému	AAMS3----1A----	Atr
+14	zákazníku	NNMS3-----A---1	Obj
+15	.	Z:-------------	AuxK
+
+ln95043-094-p3s4
+1	Kompaktní	AAIS1----1A----	Atr
+2	vůz	NNIS1-----A----	Sb
+3	vychází	VB-S---3P-AA---	Pred
+4	z	RR--2----------	AuxP
+5	koncepce	NNFS2-----A----	Obj
+6	připravovaného	AAIS2----1A----	Atr
+7	"	Z:-------------	AuxG
+8	malého	AAIS2----1A----	Atr
+9	"	Z:-------------	AuxG
+10	mercedesu	NNIS2-----A----	Atr
+11	třídy	NNFS2-----A----	Atr
+12	A	NNNXX-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ovšem	J^-------------	Coord
+15	přes	RR--4----------	AuxP
+16	určité	AAFP4----1A----	Atr
+17	úpravy	NNFP4-----A----	Adv
+18	se	P7-X4----------	AuxT
+19	nejedná	VB-S---3P-NA---	Pred
+20	o	RR--4----------	AuxP
+21	nějaký	PZIS4----------	Atr
+22	ošizený	AAIS4----1A----	Atr
+23	model	NNIS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln95043-094-p3s5
+1	Zachován	VsYS---XX-AP---	Pnom
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	být	Vf--------A----	Obj
+5	vysoký	AAIS1----1A----	Atr
+6	standard	NNIS1-----A----	Sb
+7	komfortu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kvality	NNFS2-----A----	Atr
+10	i	J^-------------	Coord
+11	ochrany	NNFS2-----A----	Atr
+12	životního	AANS2----1A----	Atr
+13	prostředí	NNNS2-----A----	Atr
+14	,	Z:-------------	Coord
+15	nejmenší	AAIP1----3A----	Atr
+16	ústupky	NNIP1-----A----	Sb
+17	nebyly	VpTP---XR-NA---	AuxV
+18	učiněny	VsTP---XX-AP---	Pred
+19	v	RR--6----------	AuxP
+20	otázkách	NNFP6-----A----	Adv
+21	bezpečnosti	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95043-094-p4s1
+1	Vozy	NNIP4-----A----	Obj
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	vyrábět	Vf--------A----	Obj
+5	společný	AAIS1----1A----	Atr
+6	čínsko	A2--------A----	Atr
+7	-	Z:-------------	Coord
+8	německý	AAIS1----1A----	Atr
+9	podnik	NNIS1-----A----	Sb
+10	a	J^-------------	AuxY
+11	ve	RV--6----------	AuxP
+12	výhledu	NNIS6-----A----	Adv
+13	je	VB-S---3P-AA---	Pred
+14	až	TT-------------	AuxZ
+15	250000	C=-------------	Sb
+16	vozů	NNIP2-----A----	Atr
+17	ročně	Dg-------1A----	AtrAdv
+18	,	Z:-------------	Coord
+19	přičemž	J,-------------	Adv
+20	cena	NNFS1-----A----	Sb
+21	základní	AAFS2----1A----	Atr
+22	verze	NNFS2-----A----	Atr
+23	by	Vc-------------	AuxV
+24	se	P7-X4----------	AuxT
+25	měla	VpQW---XR-AA---	Pred
+26	pohybovat	Vf--------A----	Obj
+27	kolem	RR--2----------	AuxP
+28	10000	C=-------------	Atr
+29	dolarů	NNIP2-----A----	Adv
+30	.	Z:-------------	AuxK
+
+ln95043-094-p4s2
+1	V	RR--6----------	AuxP
+2	čínských	AAFP6----1A----	Atr
+3	podmínkách	NNFP6-----A----	Adv
+4	bude	VB-S---3F-AA---	Pred
+5	jistě	Dg-------1A----	AuxY
+6	zájem	NNIS1-----A----	Sb
+7	i	J^-------------	AuxZ
+8	o	RR--4----------	AuxP
+9	různé	AAFP4----1A----	Atr
+10	další	AAFP4----1A----	Atr
+11	verze	NNFP4-----A----	Atr
+12	,	Z:-------------	AuxX
+13	jako	J,-------------	AuxC
+14	je	VB-S---3P-AA---	Atr
+15	například	Db-------------	AuxZ
+16	pick	AAXXX----1A----	Sb
+17	up	NNIS1-----A----	Atr
+18	nebo	J^-------------	Coord
+19	velkokapacitní	AAFS4----1A----	Atr
+20	limuzínu	NNFS4-----A----	Atr
+21	pro	RR--4----------	AuxP
+22	sedm	Cn-S4----------	Atr
+23	osob	NNFP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95043-094-p5s1
+1	Není	VB-S---3P-NA---	Pred
+2	to	PDNS1----------	Sb
+3	však	J^-------------	Coord
+4	první	CrIS1----------	Atr
+5	zájem	NNIS1-----A----	Pnom
+6	německé	AAFS2----1A----	Atr
+7	firmy	NNFS2-----A----	Atr
+8	Mercedes	NNIS1-----A----	Atr
+9	o	RR--4----------	AuxP
+10	Čínu	NNFS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95043-094-p5s2
+1	Počátky	NNIP1-----A----	Sb
+2	spolupráce	NNFS2-----A----	Atr
+3	sahají	VB-P---3P-AA---	Pred
+4	až	TT-------------	AuxZ
+5	do	RR--2----------	AuxP
+6	roku	NNIS2-----A---1	Adv
+7	1936	C=-------------	Atr
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	začala	VpQW---XR-AA---	Atr
+11	kooperace	NNFS1-----A----	Sb
+12	při	RR--6----------	AuxP
+13	výrobě	NNFS6-----A----	Adv
+14	nákladních	AAIP2----1A----	Atr
+15	automobilů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95043-094-p5s3
+1	S	RR--7----------	AuxP
+2	čínskou	AAFS7----1A----	Atr
+3	vládou	NNFS7-----A----	Obj
+4	jednal	VpYS---XR-AA---	Pred
+5	Mercedes	NNIS1-----A----	Sb
+6	i	J^-------------	AuxZ
+7	v	RR--6----------	AuxP
+8	roce	NNIS6-----A---1	Adv
+9	1949	C=-------------	Atr
+10	,	Z:-------------	AuxX
+11	a	J^-------------	Coord
+12	výsledkem	NNIS7-----A----	Pnom
+13	jednání	NNNS2-----A----	Atr
+14	bylo	VpNS---XR-AA---	Pred
+15	40	C=-------------	Sb
+16	autobusů	NNIP2-----A----	Atr
+17	dodaných	AAIP2----1A----	Atr
+18	v	RR--6----------	AuxP
+19	roce	NNIS6-----A---1	Adv
+20	1950	C=-------------	Atr
+21	do	RR--2----------	AuxP
+22	Číny	NNFS2-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln95043-094-p5s4
+1	Po	RR--6----------	AuxP
+2	dlouhé	AAFS6----1A----	Atr
+3	pauze	NNFS6-----A----	Adv
+4	se	P7-X4----------	Obj
+5	prezentoval	VpYS---XR-AA---	Pred
+6	na	RR--6----------	AuxP
+7	výstavě	NNFS6-----A----	Adv
+8	Technogerma	NNFS1-----A----	Atr
+9	v	RR--6----------	AuxP
+10	roce	NNIS6-----A---1	Adv
+11	1975	C=-------------	Atr
+12	a	J^-------------	Coord
+13	už	Db-------------	AuxZ
+14	o	RR--4----------	AuxP
+15	čtyři	ClXP4----------	Atr
+16	roky	NNIP4-----A----	Adv
+17	později	Dg-------2A----	Adv
+18	uzavřel	VpYS---XR-AA---	Pred
+19	smlouvu	NNFS4-----A----	Obj
+20	na	RR--4----------	AuxP
+21	dodávku	NNFS4-----A----	Atr
+22	tisíce	NNIS2-----A----	Atr
+23	těžkých	AAIP2----1A----	Atr
+24	nákladních	AAIP2----1A----	Atr
+25	vozů	NNIP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95043-094-p5s5
+1	Následovala	VpQW---XR-AA---	Pred
+2	další	AAFS1----1A----	Atr
+3	téměř	Db-------------	AuxZ
+4	desetiletá	AAFS1----1A----	Atr
+5	přestávka	NNFS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	přestože	J,-------------	AuxC
+8	už	Db-------------	AuxZ
+9	od	RR--2----------	AuxP
+10	roku	NNIS2-----A---1	Adv
+11	1980	C=-------------	Atr
+12	udržuje	VB-S---3P-AA---	Adv
+13	stuttgartská	AAFS1----1A----	Atr
+14	automobilka	NNFS1-----A----	Sb
+15	kancelář	NNFS4-----A----	Obj
+16	v	RR--6----------	AuxP
+17	Pekingu	NNIS6-----A----	Adv
+18	a	J^-------------	Coord
+19	v	RR--6----------	AuxP
+20	roce	NNIS6-----A---1	Adv
+21	1986	C=-------------	Atr
+22	byla	VpQW---XR-AA---	AuxV
+23	založena	VsQW---XX-AP---	Pred
+24	společnost	NNFS1-----A----	Sb
+25	Mercedes	NNIS1-----A----	Atr
+26	-	Z:-------------	AuxG
+27	Benz	NNIXX-----A----	Atr
+28	China	NNFS1-----A----	Atr
+29	Ltd	AAXXX----1A---8	Atr
+30	.	Z:-------------	AuxG
+
+ln95043-094-p5s6
+1	V	RR--6----------	AuxP
+2	letech	NNNP6-----A----	Adv
+3	1987	C=-------------	Atr
+4	až	J^-------------	Coord
+5	1989	C=-------------	Atr
+6	smontovala	VpQW---XR-AA---	Pred
+7	jedna	ClFS1----------	Atr
+8	čínská	AAFS1----1A----	Atr
+9	firma	NNFS1-----A----	Sb
+10	pod	RR--7----------	AuxP
+11	dozorem	NNIS7-----A----	Adv
+12	německých	AAMP2----1A----	Atr
+13	odborníků	NNMP2-----A----	Atr
+14	828	C=-------------	Obj
+15	mercedesů	NNIP2-----A----	Atr
+16	modelové	AAFS2----1A----	Atr
+17	řady	NNFS2-----A----	Atr
+18	123	C=-------------	Atr
+19	.	Z:-------------	AuxK
+
+ln95043-094-p5s7
+1	Současně	Dg-------1A----	Adv
+2	byla	VpQW---XR-AA---	AuxV
+3	uzavřena	VsQW---XX-AP---	Pred
+4	smlouva	NNFS1-----A----	Sb
+5	mezi	RR--7----------	AuxP
+6	Němci	NNMP7-----A----	Atr
+7	a	J^-------------	Coord
+8	čínskou	AAFS7----1A----	Atr
+9	firmou	NNFS7-----A----	Atr
+10	Norinco	NNNS1-----A----	Atr
+11	na	RR--4----------	AuxP
+12	licenční	AAFS4----1A----	Atr
+13	výrobu	NNFS4-----A----	Atr
+14	nákladních	AAIP2----1A----	Atr
+15	vozů	NNIP2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	provincii	NNFS6-----A----	AtrAdv
+18	Vnitřní	AANS1----1A----	Atr
+19	Mongolsko	NNNS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95043-094-p5s8
+1	Sériová	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	právě	Db-------------	Adv
+4	začala	VpQW---XR-AA---	Pred
+5	.	Z:-------------	AuxK
+
+ln95043-094-p6s1
+1	Mercedes	NNIS1-----A----	Sb
+2	-	Z:-------------	AuxG
+3	Benz	NNIXX-----A----	Atr
+4	vyvezl	VpYS---XR-AA---	Pred
+5	jen	TT-------------	AuxZ
+6	v	RR--6----------	AuxP
+7	roce	NNIS6-----A---1	Adv
+8	1993	C=-------------	Atr
+9	3700	C=-------------	Obj
+10	osobních	AAIP2----1A----	Atr
+11	a	J^-------------	Coord
+12	400	C=-------------	Obj
+13	nákladních	AAIP2----1A----	Atr
+14	vozů	NNIP2-----A----	Atr
+15	do	RR--2----------	AuxP
+16	Číny	NNFS2-----A----	Adv
+17	a	J^-------------	Coord
+18	pro	RR--4----------	AuxP
+19	dobré	AANS4----1A----	Atr
+20	zabezpečení	NNNS4-----A----	Adv
+21	servisu	NNIS2-----A----	Atr
+22	a	J^-------------	Coord
+23	dalších	AAFP2----1A----	Atr
+24	služeb	NNFP2-----A----	Atr
+25	vybudoval	VpYS---XR-AA---	Pred
+26	tři	ClXP4----------	Atr
+27	regionální	AANP4----1A----	Atr
+28	střediska	NNNP4-----A----	Obj
+29	na	RR--6----------	AuxP
+30	jihu	NNIS6-----A----	AtrAdv
+31	,	Z:-------------	AuxX
+32	východě	NNIS6-----A----	AtrAdv
+33	a	J^-------------	Coord
+34	severu	NNIS6-----A----	AtrAdv
+35	Číny	NNFS2-----A----	Atr
+36	.	Z:-------------	AuxK
+
+ln95043-094-p6s2
+1	Současně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	ve	RV--6----------	AuxP
+4	Stuttgartu	NNIS6-----A----	Adv
+5	snaží	VB-S---3P-AA---	Pred
+6	o	RR--4----------	AuxP
+7	uzavření	NNNS4-----A----	Obj
+8	dalších	AAFP2----1A----	Atr
+9	smluv	NNFP2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	společnou	AAFS4----1A----	Atr
+12	produkci	NNFS4-----A----	Atr
+13	jejich	PSXXXXP3-------	Atr
+14	výrobků	NNIP2-----A----	Atr
+15	přímo	Dg-------1A----	AuxZ
+16	v	RR--6----------	AuxP
+17	Číně	NNFS6-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95043-094-p6s3
+1	Po	RR--6----------	AuxP
+2	kompaktním	AAIS6----1A----	Atr
+3	osobním	AAIS6----1A----	Atr
+4	vozu	NNIS6-----A---1	Adv
+5	by	Vc-------------	AuxV
+6	se	P7-X4----------	AuxT
+7	to	PDNS1----------	Sb
+8	mělo	VpNS---XR-AA---	Pred
+9	týkat	Vf--------A----	Obj
+10	autobusů	NNIP2-----A----	Obj
+11	a	J^-------------	Coord
+12	velkoprostorových	AAFP2----1A----	Atr
+13	limuzín	NNFP2-----A----	Obj
+14	.	Z:-------------	AuxK
+

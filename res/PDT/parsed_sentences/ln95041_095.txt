@@ -1,0 +1,125 @@
+ln95041-095-p1s1
+1	Hotel	NNIS1-----A----	ExD
+2	Don	NNMS1-----A----	Atr
+3	Giovanni	NNMS1-----A----	Atr
+4	před	RR--7----------	AuxP
+5	zahájením	NNNS7-----A----	ExD
+
+ln95041-095-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-095-p2s1B
+1	Nový	AAIS1----1A----	Atr
+2	čtyřhvězdičkový	AAIS1----1A----	Atr
+3	hotel	NNIS1-----A----	Sb
+4	Don	NNMS1-----A----	Atr
+5	Giovanni	NNMS1-----A----	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	28	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	dubna	NNIS2-----A----	Adv
+10	otevřen	VsYS---XX-AP---	Pred
+11	na	RR--6----------	AuxP
+12	pražské	AAFS6----1A----	Atr
+13	Vinohradské	AAFS6----1A----	Atr
+14	třídě	NNFS6-----A----	Adv
+15	v	RR--6----------	AuxP
+16	těsném	AANS6----1A----	Atr
+17	sousedství	NNNS6-----A----	Adv
+18	stanice	NNFS2-----A----	Atr
+19	metra	NNNS2-----A----	Atr
+20	trasy	NNFS2-----A----	Atr
+21	A	J^-------------	Atr
+22	Želivského	NNMS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95041-095-p2s2
+1	Slavnostní	AANS1----1A----	Atr
+2	otevření	NNNS1-----A----	Sb
+3	je	VB-S---3P-AA---	AuxV
+4	připravováno	VsNS---XX-AP---	Pred
+5	na	RR--4----------	AuxP
+6	den	NNIS4-----A----	Adv
+7	208	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	výročí	NNNS2-----A----	Atr
+10	premiéry	NNFS2-----A----	Atr
+11	Mozartovy	AUFS2M---------	Atr
+12	opery	NNFS2-----A----	Atr
+13	Don	NNMS1-----A----	Atr
+14	Giovanni	NNMS1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	se	P7-X4----------	AuxR
+18	uskutečnila	VpQW---XR-AA---	Atr
+19	v	RR--6----------	AuxP
+20	Praze	NNFS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln95041-095-p2s3
+1	Hotel	NNIS1-----A----	Sb
+2	rakouské	AAFS2----1A----	Atr
+3	společnosti	NNFS2-----A----	Atr
+4	Rogner	NNMS1-----A----	Atr
+5	International	NNXXX-----A---1	Atr
+6	Hotels	NNIPX-----A----	Atr
+7	&	Z:-------------	Coord
+8	Resorts	NNIPX-----A----	Atr
+9	bude	VB-S---3F-AA---	AuxV
+10	mít	Vf--------A----	Pred
+11	400	C=-------------	Obj
+12	klimatizovaných	AAIP2----1A----	Atr
+13	pokojů	NNIP2-----A----	Atr
+14	vybavených	AAIP2----1A----	Atr
+15	kabelovou	AAFS7----1A----	Atr
+16	televizí	NNFS7-----A----	Obj
+17	,	Z:-------------	AuxX
+18	bezpečnostním	AAIS7----1A----	Atr
+19	sejfem	NNIS7-----A----	Obj
+20	,	Z:-------------	AuxX
+21	telefonem	NNIS7-----A----	Obj
+22	a	J^-------------	Coord
+23	minibarem	NNIS7-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln95041-095-p2s4
+1	Hotel	NNIS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	dále	Db------------1	Adv
+4	vybaven	VsYS---XX-AP---	Pred
+5	devíti	Cn-P7----------	Atr
+6	sály	NNIP7-----A----	Obj
+7	,	Z:-------------	AuxX
+8	které	P4IP1----------	Sb
+9	mohou	VB-P---3P-AA--1	Atr
+10	sloužit	Vf--------A----	Obj
+11	pro	RR--4----------	AuxP
+12	kongresy	NNIP4-----A----	Adv
+13	,	Z:-------------	Coord
+14	obchodní	AANP4----1A----	Atr
+15	jednání	NNNP4-----A----	Adv
+16	a	J^-------------	Coord
+17	pro	RR--4----------	AuxP
+18	další	AAFP4----1A----	Atr
+19	společenské	AAFP4----1A----	Atr
+20	události	NNFP4-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln95041-095-p2s5
+1	Návštěvníci	NNMP1-----A----	Sb
+2	budou	VB-P---3F-AA---	AuxV
+3	mít	Vf--------A----	Pred
+4	k	RR--3----------	AuxP
+5	dispozici	NNFS3-----A----	Adv
+6	i	J^-------------	AuxZ
+7	podzemní	AANS4----1A----	Atr
+8	parkoviště	NNNS4-----A----	Obj
+9	pro	RR--4----------	AuxP
+10	160	C=-------------	Atr
+11	vozů	NNIP2-----A----	Atr
+12	a	J^-------------	Coord
+13	fitness	AAXXX----1A----	Atr
+14	centrum	NNNS4-----A----	Obj
+15	.	Z:-------------	AuxK
+

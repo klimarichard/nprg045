@@ -1,0 +1,145 @@
+ln95046-106-p1s1
+1	Roztržka	NNFS1-----A----	ExD
+2	televizních	AAMP2----1A----	Atr
+3	ředitelů	NNMP2-----A----	Atr
+
+ln95046-106-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-106-p2s1B
+1	K	RR--3----------	AuxP
+2	soudnímu	AANS3----1A----	Atr
+3	řešení	NNNS3-----A----	Obj
+4	spěje	VB-S---3P-AA---	Pred
+5	spor	NNIS1-----A----	Sb
+6	mezi	RR--7----------	AuxP
+7	televizními	AAMP7----1A----	Atr
+8	generálními	AAMP7----1A----	Atr
+9	řediteli	NNMP7-----A----	Atr
+10	Ivem	NNMS7-----A----	Atr
+11	Mathé	NNMXX-----A----	Atr
+12	(	Z:-------------	ExD
+13	ČT	NNFXX-----A---8	ExD
+14	)	Z:-------------	ExD
+15	a	J^-------------	Coord
+16	Vladimírem	NNMS7-----A----	Atr
+17	Železným	NNMS7-----A----	Atr
+18	(	Z:-------------	ExD
+19	Nova	NNFS1-----A----	ExD
+20	)	Z:-------------	ExD
+21	.	Z:-------------	AuxK
+
+ln95046-106-p3s1
+1	Mathé	NNMS1-----A----	Sb
+2	zaslal	VpYS---XR-AA---	Pred
+3	v	RR--6----------	AuxP
+4	minulých	AAIP6----1A----	Atr
+5	dnech	NNIP6-----A----	Adv
+6	Železnému	NNMS3-----A----	Obj
+7	dopis	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	ve	RV--6----------	AuxP
+10	kterém	P4ZS6----------	Adv
+11	požaduje	VB-S---3P-AA---	Atr
+12	opravu	NNFS4-----A----	Obj
+13	údajů	NNIP2-----A----	Atr
+14	uvedených	AAIP2----1A----	Atr
+15	v	RR--6----------	AuxP
+16	některých	PZXP6----------	Atr
+17	pořadech	NNIP6-----A----	Adv
+18	TV	NNFXX-----A---8	Atr
+19	Nova	NNFS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95046-106-p3s2
+1	Údaje	NNIP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	týkaly	VpTP---XR-AA---	Pred
+4	složení	NNNS2-----A----	Obj
+5	programu	NNIS2-----A----	Atr
+6	a	J^-------------	Coord
+7	hospodaření	NNNS2-----A----	Obj
+8	České	AAFS2----1A----	Atr
+9	televize	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95046-106-p3s3
+1	Kopii	NNFS4-----A----	Obj
+2	dopisu	NNIS2-----A----	Atr
+3	Mathé	NNMS1-----A----	Sb
+4	poslal	VpYS---XR-AA---	Pred
+5	současně	Dg-------1A----	Adv
+6	předsedovi	NNMS3-----A----	Atr
+7	parlamentní	AAFS2----1A----	Atr
+8	komise	NNFS2-----A----	Atr
+9	pro	RR--4----------	AuxP
+10	sdělovací	AAIP4----1A----	Atr
+11	prostředky	NNIP4-----A----	Atr
+12	J	NNMXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	Kasalovi	NNMS3-----A----	Obj
+15	,	Z:-------------	Coord
+16	předsedovi	NNMS3-----A----	Atr
+17	Rady	NNFS2-----A----	Atr
+18	ČRo	NNIXX-----A---8	Atr
+19	pro	RR--4----------	AuxP
+20	rozhlasové	AANS4----1A----	Atr
+21	a	J^-------------	Coord
+22	televizní	AANS4----1A----	Atr
+23	vysílání	NNNS4-----A----	Atr
+24	B	NNMXX-----A---8	Atr
+25	.	Z:-------------	AuxG
+26	Hanušovi	NNMS3-----A---1	Obj
+27	a	J^-------------	Coord
+28	rovněž	Db-------------	Adv
+29	ji	PPFS4--3-------	Obj
+30	dal	VpYS---XR-AA---	Pred
+31	k	RR--3----------	AuxP
+32	dispozici	NNFS3-----A----	Adv
+33	tisku	NNIS3-----A----	Obj
+34	.	Z:-------------	AuxK
+
+ln95046-106-p4s1
+1	Železný	NNMS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	obvinění	NNNS4-----A----	Obj
+4	Iva	NNMS2-----A----	Atr
+5	Mathé	NNMSX-----A----	Atr
+6	popřel	VpYS---XR-AA---	Pred
+7	.	Z:-------------	AuxK
+
+ln95046-106-p4s2
+1	Uvádí	VB-S---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	uvítá	VB-S---3P-AA---	Obj
+5	případné	AANS4----1A----	Atr
+6	soudní	AANS4----1A----	Atr
+7	vymáhání	NNNS4-----A----	Obj
+8	opravy	NNFS2-----A----	Atr
+9	"	Z:-------------	AuxG
+10	stejně	Dg-------1A----	Adv
+11	jako	J,-------------	AuxC
+12	bychom	Vc-P---1-------	AuxV
+13	uvítali	VpMP---XR-AA---	Adv
+14	účast	NNFS4-----A----	Obj
+15	Nejvyššího	AAIS2----3A----	Atr
+16	kontrolního	AAIS2----1A----	Atr
+17	úřadu	NNIS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	posuzování	NNNS6-----A----	AtrAdv
+20	účelnosti	NNFS2-----A----	Atr
+21	vynakládaných	AAIP2----1A----	Atr
+22	prostředků	NNIP2-----A----	Atr
+23	v	RR--6----------	AuxP
+24	ČT	NNFXX-----A---8	Atr
+25	"	Z:-------------	AuxG
+26	.	Z:-------------	AuxK
+
+ln95046-106-p4s3
+1	Více	Dg-------2A----	ExD
+2	na	RR--6----------	AuxP
+3	poslední	AAFS6----1A----	Atr
+4	straně	NNFS6-----A----	ExD
+

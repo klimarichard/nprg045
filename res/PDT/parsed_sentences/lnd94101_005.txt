@@ -1,0 +1,407 @@
+lnd94101-005-p1s1
+1	Židovský	AAIS4----1A----	Atr
+2	majetek	NNIS4-----A----	Obj
+3	budou	VB-P---3F-AA---	AuxV
+4	restituentům	NNMP3-----A----	Obj
+5	vracet	Vf--------A----	Pred
+6	i	J^-------------	AuxZ
+7	obce	NNFP1-----A----	Sb
+
+lnd94101-005-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	če	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	haš	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+lnd94101-005-p1s3
+1	Sněmovna	NNFS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	schválila	VpQW---XR-AA---	Pred
+4	zákon	NNIS4-----A----	Obj
+5	umožňující	AGIS4-----A----	Atr
+6	navrátit	Vf--------A----	Obj
+7	fyzickým	AAFP3----1A----	Atr
+8	židovským	AAFP3----1A----	Atr
+9	osobám	NNFP3-----A----	Obj
+10	majetek	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	o	RR--4----------	AuxP
+13	který	P4IS4----------	Obj
+14	přišly	VpTP---XR-AA---	Atr
+15	v	RR--6----------	AuxP
+16	době	NNFS6-----A----	Adv
+17	nacistické	AAFS2----1A----	Atr
+18	okupace	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94101-005-p1s4
+1	Pro	RR--4----------	AuxP
+2	zákon	NNIS4-----A----	Adv
+3	hlasovalo	VpNS---XR-AA---	Pred
+4	145	C=-------------	Sb
+5	poslanců	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	tři	ClXP1----------	Sb
+8	byli	VpMP---XR-AA---	Pred
+9	proti	RR--3----------	Adv
+10	,	Z:-------------	AuxX
+11	21	C=-------------	Sb
+12	se	P7-X4----------	AuxT
+13	jich	PPXP2--3-------	Atr
+14	hlasování	NNNS2-----A----	Obj
+15	zdrželo	VpNS---XR-AA---	Pred
+16	a	J^-------------	Coord
+17	tři	ClXP1----------	Sb
+18	ho	PHZS4--3-------	Obj
+19	ignorovali	VpMP---XR-AA---	Pred
+20	.	Z:-------------	AuxK
+
+lnd94101-005-p1s5
+1	Poslanecký	AAIS1----1A----	Atr
+2	,	Z:-------------	Apos
+3	tzv	AAXXX----1A---8	Atr
+4	.	Z:-------------	AuxG
+5	Dobalův	AUIS1M---------	Atr
+6	návrh	NNIS1-----A----	Sb
+7	normy	NNFS2-----A----	Atr
+8	však	J^-------------	Coord
+9	doznal	VpYS---XR-AA---	Pred
+10	některých	PZXP2----------	Atr
+11	změn	NNFP2-----A----	Obj
+12	.	Z:-------------	AuxK
+
+lnd94101-005-p1s6
+1	Parlament	NNIS1-----A----	Sb
+2	při	RR--6----------	AuxP
+3	jejich	PSXXXXP3-------	Atr
+4	zapracování	NNNS6-----A----	Adv
+5	přihlížel	VpYS---XR-AA---	Pred
+6	k	RR--3----------	AuxP
+7	vládnímu	AANS3----1A----	Atr
+8	stanovisku	NNNS3-----A----	Obj
+9	k	RR--3----------	AuxP
+10	předloze	NNFS3-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94101-005-p1s7
+1	Podle	RR--2----------	AuxP
+2	přijaté	AAFS2----1A----	Atr
+3	verze	NNFS2-----A----	Adv
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	navrhl	VpYS---XR-AA--1	Pred
+7	poslanec	NNMS1-----A----	Atr
+8	L	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Novák	NNMS1-----A----	Sb
+11	ml	AAXXX----2A---8	Atr
+12	.	Z:-------------	AuxG
+13	(	Z:-------------	ExD
+14	ODS	NNFXX-----A---8	ExD
+15	)	Z:-------------	ExD
+16	,	Z:-------------	AuxX
+17	bude	VB-S---3F-AA---	AuxV
+18	navracen	VsYS---XX-AP---	Pred
+19	majetek	NNIS1-----A----	Sb
+20	pouze	Db-------------	AuxZ
+21	těm	PDXP3----------	Atr
+22	osobám	NNFP3-----A----	Obj
+23	,	Z:-------------	AuxX
+24	které	P4FP1----------	Sb
+25	o	RR--4----------	AuxP
+26	něj	P5ZS4--3-------	Obj
+27	přišly	VpTP---XR-AA---	Atr
+28	z	RR--2----------	AuxP
+29	důvodů	NNIP2-----A----	Adv
+30	rasové	AAFS2----1A----	Atr
+31	perzekuce	NNFS2-----A----	Atr
+32	a	J^-------------	Coord
+33	jejichž	P1XXXXP3-------	Atr
+34	nároky	NNIP1-----A----	Sb
+35	nebyly	VpTP---XR-NA---	AuxV
+36	vzhledem	RF-------------	AuxP
+37	k	RR--3----------	AuxP
+38	poválečnému	AAIS3----1A----	Atr
+39	nástupu	NNIS3-----A----	Adv
+40	komunistů	NNMP2-----A----	Atr
+41	k	RR--3----------	AuxP
+42	moci	NNFS3-----A----	Atr
+43	vyřízeny	VsTP---XX-AP---	Atr
+44	.	Z:-------------	AuxK
+
+lnd94101-005-p1s9
+1	Poslanec	NNMS1-----A----	Atr
+2	Dobal	NNMS1-----A----	Sb
+3	požadoval	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	toto	PDNS4----------	Atr
+7	právo	NNNS4-----A----	Obj
+8	měly	VpTP---XR-AA---	Obj
+9	i	J^-------------	AuxZ
+10	osoby	NNFP1-----A----	Sb
+11	perzekvované	AAFP1----1A----	Atr
+12	z	RR--2----------	AuxP
+13	důvodů	NNIP2-----A----	Adv
+14	národnostních	AAIP2----1A----	Atr
+15	a	J^-------------	Coord
+16	politických	AAIP2----1A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd94101-005-p1s10
+1	Oproti	RR--3----------	AuxP
+2	vládní	AAFS3----1A----	Atr
+3	představě	NNFS3-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	však	J^-------------	Adv
+6	podařilo	VpNS---XR-AA---	Pred
+7	poslancům	NNMP3-----A----	Obj
+8	prosadit	Vf--------A----	Obj
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	osobami	NNFP7-----A----	Pnom
+12	povinnými	AAFP7----1A----	Atr
+13	vydat	Vf--------A----	Obj
+14	majetek	NNIS4-----A----	Obj
+15	byl	VpYS---XR-AA---	Obj
+16	nejen	TT-------------	AuxY
+17	stát	NNIS1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	i	J^-------------	AuxZ
+21	obce	NNFP1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+lnd94101-005-p1s11
+1	Nemusí	VB-S---3P-NA---	Pred
+2	však	J^-------------	AuxY
+3	být	Vf--------A----	AuxV
+4	vrácen	VsYS---XX-AP---	Obj
+5	,	Z:-------------	AuxX
+6	pokud	J,-------------	AuxC
+7	byl	VpYS---XR-AA---	AuxV
+8	po	RR--6----------	AuxP
+9	1	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	říjnu	NNIS6-----A----	Adv
+12	1991	C=-------------	Atr
+13	privatizován	VsYS---XX-AP---	Adv
+14	či	J^-------------	Coord
+15	byl	VpYS---XR-AA---	AuxV
+16	na	RR--4----------	AuxP
+17	něj	P5ZS4--3-------	Obj
+18	schválen	VsYS---XX-AP---	Adv
+19	privatizační	AAIS1----1A----	Atr
+20	projekt	NNIS1-----A----	Sb
+21	nebo	J^-------------	Coord
+22	vydáno	VsNS---XX-AP---	Adv
+23	rozhodnutí	NNNS1-----A----	Sb
+24	o	RR--6----------	AuxP
+25	privatizaci	NNFS6-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd94101-005-p1s12
+1	V	RR--6----------	AuxP
+2	tom	PDZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	má	VB-S---3P-AA---	Pred
+5	oprávněná	AAFS1----1A----	Atr
+6	osoba	NNFS1-----A----	Sb
+7	právo	NNNS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	finanční	AAFS4----1A----	Atr
+10	náhradu	NNFS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94101-005-p1s13A
+1	Pokračování	NNNS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	poslední	AAFS6----1A----	Atr
+4	straně	NNFS6-----A----	ExD
+
+lnd94101-005-p1s13B
+1	Nároky	NNIP4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	majetek	NNIS4-----A----	Atr
+4	mohou	VB-P---3P-AA--1	Pred
+5	občané	NNMP1-----A----	Sb
+6	uplatnit	Vf--------A----	Obj
+7	do	RR--2----------	AuxP
+8	šesti	Cn-P2----------	Adv
+9	měsíců	NNIP2-----A----	Atr
+10	od	RR--2----------	AuxP
+11	1	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	července	NNIS2-----A----	Adv
+14	letošního	AAIS2----1A----	Atr
+15	roku	NNIS2-----A---1	Atr
+16	,	Z:-------------	AuxX
+17	kdy	Db-------------	Adv
+18	zákon	NNIS1-----A----	Sb
+19	vstoupí	VB-S---3P-AA---	Atr
+20	v	RR--4----------	AuxP
+21	platnost	NNFS4-----A----	Adv
+22	.	Z:-------------	AuxK
+
+lnd94101-005-p1s14
+1	O	RR--4----------	AuxP
+2	finanční	AAFS4----1A----	Atr
+3	náhradu	NNFS4-----A----	Obj
+4	mohou	VB-P---3P-AA--1	Pred
+5	žádat	Vf--------A----	Obj
+6	do	RR--2----------	AuxP
+7	jednoho	ClZS2----------	Atr
+8	roku	NNIS2-----A---1	Adv
+9	.	Z:-------------	AuxK
+
+lnd94101-005-p1s15
+1	Do	RR--2----------	AuxP
+2	půl	ClXS2----------	Adv
+3	roku	NNIS2-----A---1	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	stát	NNIS1-----A----	Sb
+6	i	J^-------------	Coord
+7	obce	NNFP1-----A----	Sb
+8	povinny	ACTP------A----	Pnom
+9	nároky	NNIP4-----A----	Obj
+10	uspokojit	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+
+lnd94101-005-p1s16
+1	Poslanci	NNMP1-----A----	Sb
+2	odmítli	VpMP---XR-AA--1	Pred
+3	přijmout	Vf--------A----	Obj
+4	k	RR--3----------	AuxP
+5	zákonu	NNIS3-----A----	AtrAdv
+6	doprovodné	AANS4----1A----	Atr
+7	usnesení	NNNS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	které	P4NS4----------	Obj
+10	navrhl	VpYS---XR-AA--1	Atr
+11	J	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	Vyvadil	NNMS1-----A----	Sb
+14	(	Z:-------------	AuxG
+15	ČSSD	NNFXX-----A---8	ExD
+16	)	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+lnd94101-005-p1s17
+1	V	RR--6----------	AuxP
+2	něm	P5ZS6--3-------	Adv
+3	měla	VpQW---XR-AA---	Pred
+4	sněmovna	NNFS1-----A----	Sb
+5	mj	Db------------8	Adv
+6	.	Z:-------------	AuxG
+7	konstatovat	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	si	P7-X3----------	AuxT
+11	je	VB-S---3P-AA---	Obj
+12	vědoma	ACQW------A----	Pnom
+13	zcela	Db-------------	Adv
+14	výjimečného	AAIS2----1A----	Atr
+15	charakteru	NNIS2-----A----	Obj
+16	křivd	NNFP2-----A----	Atr
+17	spáchaných	AAFP2----1A----	Atr
+18	v	RR--6----------	AuxP
+19	letech	NNNP6-----A----	Adv
+20	nesvobody	NNFS2-----A----	Atr
+21	1938	C=-------------	Atr
+22	až	J^-------------	Coord
+23	1945	C=-------------	Atr
+24	a	J^-------------	Coord
+25	proto	J^-------------	AuxY
+26	zákon	NNIS4-----A----	Obj
+27	přijímá	VB-S---3P-AA---	Obj
+28	.	Z:-------------	AuxK
+
+lnd94101-005-p1s18
+1	Současně	Dg-------1A----	Adv
+2	s	RR--7----------	AuxP
+3	novelou	NNFS7-----A----	Adv
+4	zákona	NNIS2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	mimosoudních	AAFP6----1A----	Atr
+7	rehabilitacích	NNFP6-----A----	Atr
+8	požadoval	VpYS---XR-AA---	Pred
+9	Dobal	NNMS1-----A----	Sb
+10	novelizaci	NNFS4-----A----	Obj
+11	zákona	NNIS2-----A----	Atr
+12	o	RR--6----------	AuxP
+13	půdě	NNFS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	která	P4FS1----------	Sb
+16	by	Vc-------------	AuxV
+17	umožnila	VpQW---XR-AA---	Atr
+18	navracet	Vf--------A----	Obj
+19	oprávněným	AAFP3----1A----	Atr
+20	osobám	NNFP3-----A----	Obj
+21	i	J^-------------	AuxZ
+22	tzv	AAXXX----1A---8	Atr
+23	.	Z:-------------	AuxG
+24	ležící	AGFP4-----A----	Atr
+25	pozůstalosti	NNFP4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+lnd94101-005-p1s19
+1	Sněmovna	NNFS1-----A----	Sb
+2	vyhověla	VpQW---XR-AA---	Pred
+3	požadavku	NNIS3-----A----	Obj
+4	vlády	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	tuto	PDFS4----------	Atr
+7	novelizaci	NNFS4-----A----	Obj
+8	odmítla	VpQW---XR-AA--1	Pred
+9	.	Z:-------------	AuxK
+
+lnd94101-005-p1s20
+1	Předkladatel	NNMS1-----A----	Atr
+2	Viktor	NNMS1-----A----	Atr
+3	Dobal	NNMS1-----A----	Sb
+4	(	Z:-------------	AuxG
+5	ODA	NNFXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	začal	VpYS---XR-AA---	Pred
+8	ještě	Db-------------	AuxZ
+9	včera	Db-------------	Adv
+10	sbírat	Vf--------A----	Obj
+11	podpisy	NNIP4-----A----	Obj
+12	pod	RR--4----------	AuxP
+13	podání	NNNS4-----A----	Atr
+14	k	RR--3----------	AuxP
+15	Ústavnímu	AAIS3----1A----	Atr
+16	soudu	NNIS3-----A----	Atr
+17	,	Z:-------------	AuxX
+18	aby	J,-------------	AuxC
+19	zrušil	VpYS---XR-AA---	Atr
+20	omezení	NNNS4-----A----	Obj
+21	oprávněných	AAFP2----1A----	Atr
+22	osob	NNFP2-----A----	Atr
+23	pouze	Db-------------	AuxZ
+24	na	RR--4----------	AuxP
+25	osoby	NNFP4-----A----	Atr
+26	perzekvované	AAFP4----1A----	Atr
+27	z	RR--2----------	AuxP
+28	rasových	AAIP2----1A----	Atr
+29	důvodů	NNIP2-----A----	Adv
+30	.	Z:-------------	AuxK
+
+lnd94101-005-p1s21
+1	"	Z:-------------	AuxG
+2	Nemohu	VB-S---1P-NA--1	Obj
+3	pokládat	Vf--------A----	Obj
+4	přijaté	AANS4----1A----	Atr
+5	řešení	NNNS4-----A----	Obj
+6	za	RR--4----------	AuxP
+7	spravedlivé	AANS4----1A----	Obj
+8	"	Z:-------------	AuxG
+9	,	Z:-------------	AuxX
+10	řekl	VpYS---XR-AA---	Pred
+11	pro	RR--4----------	AuxP
+12	LN	NNFPX-----A---8	Adv
+13	.	Z:-------------	AuxK
+

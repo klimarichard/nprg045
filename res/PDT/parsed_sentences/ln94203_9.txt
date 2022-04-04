@@ -1,0 +1,186 @@
+ln94203-9-p1s1
+1	Pitné	AAFS2----1A----	Atr
+2	vody	NNFS2-----A----	ExD
+3	letos	Db-------------	ExD
+4	méně	Dg-------2A----	ExD
+
+ln94203-9-p2s1A
+1	Spotřeba	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	sice	Db-------------	AuxY
+4	nižší	AAFS1----2A----	Pnom
+5	,	Z:-------------	AuxX
+6	zato	J,-------------	Coord
+7	platby	NNFP1-----A----	Sb
+8	jsou	VB-P---3P-AA---	Pred
+9	vyšší	AAFP1----2A----	Pnom
+
+ln94203-9-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94203-9-p2s1C
+1	V	RR--6----------	AuxP
+2	prvním	CrNS6----------	Atr
+3	pololetí	NNNS6-----A----	Adv
+4	vyrobili	VpMP---XR-AA---	Pred
+5	provozovatelé	NNMP1-----A----	Sb
+6	vodovodů	NNIP2-----A----	Atr
+7	a	J^-------------	Coord
+8	kanalizací	NNFP2-----A----	Atr
+9	více	Dg-------2A----	Obj
+10	než	J,-------------	AuxC
+11	495	C=-------------	Adv
+12	milionů	NNIP2-----A----	Atr
+13	metrů	NNIP2-----A----	Atr
+14	krychlových	AAIP2----1A----	Atr
+15	pitné	AAFS2----1A----	Atr
+16	vody	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94203-9-p2s2
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	o	RR--4----------	AuxP
+4	10.19	C=-------------	Adv
+5	%	Z:-------------	Atr
+6	méně	Dg-------2A----	Adv
+7	než	J,-------------	AuxC
+8	ve	RV--6----------	AuxP
+9	stejném	AANS6----1A----	Atr
+10	období	NNNS6-----A----	ExD
+11	roku	NNIS2-----A---1	Atr
+12	1993	C=-------------	Atr
+13	.	Z:-------------	AuxK
+
+ln94203-9-p3s1
+1	V	RR--6----------	AuxP
+2	českých	AAIP6----1A----	Atr
+3	krajích	NNIP6-----A----	Adv
+4	bylo	VpNS---XR-AA---	AuxV
+5	podle	RR--2----------	AuxP
+6	Českého	AAIS2----1A----	Atr
+7	statistického	AAIS2----1A----	Atr
+8	úřadu	NNIS2-----A----	Adv
+9	vyprodukováno	VsNS---XX-AP---	Pred
+10	325647	C=-------------	Sb
+11	milionu	NNIS2-----A----	Atr
+12	m	NNIXX-----A---8	Atr
+13	3	C=-------------	Atr
+14	pitné	AAFS2----1A----	Atr
+15	vody	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	na	RR--6----------	AuxP
+18	Moravě	NNFS6-----A----	ExD
+19	169438	C=-------------	ExD
+20	milionu	NNIS2-----A----	Atr
+21	m	NNIXX-----A---8	Atr
+22	3	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+ln94203-9-p3s2
+1	Nejvíce	Dg-------3A----	Sb
+2	vody	NNFS2-----A----	Atr
+3	bylo	VpNS---XR-AA---	AuxV
+4	vyrobeno	VsNS---XX-AP---	Pred
+5	v	RR--6----------	AuxP
+6	Praze	NNFS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	a	J^-------------	AuxY
+9	to	PDNS4----------	Apos
+10	112131	C=-------------	Sb
+11	milionu	NNIS2-----A----	Atr
+12	m	NNIXX-----A---8	Atr
+13	3	C=-------------	Atr
+14	.	Z:-------------	AuxK
+
+ln94203-9-p4s1
+1	Za	RR--4----------	AuxP
+2	vodné	NNNS4-----A----	Obj
+3	bylo	VpNS---XR-AA---	AuxV
+4	v	RR--6----------	AuxP
+5	prvním	CrNS6----------	Atr
+6	pololetí	NNNS6-----A----	Adv
+7	zaplaceno	VsNS---XX-AP---	Pred
+8	v	RR--6----------	AuxP
+9	ČR	NNFXX-----A---8	Adv
+10	celkem	Db-------------	Adv
+11	téměř	Db-------------	AuxZ
+12	2837	C=-------------	Adv
+13	miliardy	NNFS2-----A----	Atr
+14	korun	NNFP2-----A----	Atr
+15	,	Z:-------------	Coord
+16	to	PDNS1----------	Sb
+17	je	VB-S---3P-AA---	Pred
+18	o	RR--4----------	AuxP
+19	28.29	C=-------------	Adv
+20	procenta	NNNS2-----A----	Atr
+21	více	Dg-------2A----	Adv
+22	než	J,-------------	AuxC
+23	za	RR--4----------	AuxP
+24	stejné	AANS4----1A----	Atr
+25	období	NNNS4-----A----	ExD
+26	loni	Db------------1	Atr
+27	.	Z:-------------	AuxK
+
+ln94203-9-p4s2
+1	V	RR--6----------	AuxP
+2	Čechách	NNFP6-----A----	Adv
+3	bylo	VpNS---XR-AA---	AuxV
+4	zaplaceno	VsNS---XX-AP---	Pred
+5	více	Dg-------2A----	Adv
+6	než	J,-------------	AuxC
+7	1963	C=-------------	Adv
+8	miliardy	NNFS2-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	na	RR--6----------	AuxP
+12	Moravě	NNFS6-----A----	ExD
+13	téměř	Db-------------	AuxZ
+14	875	C=-------------	ExD
+15	milionů	NNIP2-----A----	Atr
+16	korun	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94203-9-p5s1
+1	Stočné	NNNS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	ČR	NNFXX-----A---8	Adv
+4	činilo	VpNS---XR-AA---	Pred
+5	za	RR--4----------	AuxP
+6	první	CrNS4----------	Atr
+7	pololetí	NNNS4-----A----	Adv
+8	více	Dg-------2A----	Obj
+9	než	J,-------------	AuxC
+10	2084	C=-------------	Atr
+11	miliardy	NNFS2-----A----	Adv
+12	korun	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	o	RR--4----------	AuxP
+15	22.86	C=-------------	Adv
+16	procenta	NNNS2-----A----	Atr
+17	více	Dg-------2A----	Adv
+18	než	J,-------------	AuxC
+19	loni	Db------------1	ExD
+20	.	Z:-------------	AuxK
+
+ln94203-9-p5s2
+1	V	RR--6----------	AuxP
+2	Čechách	NNFP6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	na	RR--6----------	AuxP
+5	stočném	NNNS6-----A----	Adv
+6	vybralo	VpNS---XR-AA---	Pred
+7	necelých	AAFP2----1N----	Atr
+8	1394	C=-------------	Sb
+9	miliardy	NNFS2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	a	J^-------------	Coord
+12	na	RR--6----------	AuxP
+13	Moravě	NNFS6-----A----	ExD
+14	téměř	Db-------------	AuxZ
+15	690.59	C=-------------	ExD
+16	milionu	NNIS2-----A----	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+

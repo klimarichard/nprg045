@@ -1,0 +1,716 @@
+cmpr9416-008-p2s1
+1	Cherry	NNNXX-----A----	Sb
+2	nezůstává	VB-S---3P-NA---	Pred
+3	u	RR--2----------	AuxP
+4	ledu	NNIS2-----A----	Adv
+
+cmpr9416-008-p3s1
+1	Předpoklad	NNIS1-----A----	Pnom
+2	úspěchu	NNIS2-----A----	Atr
+3	:	Z:-------------	Pred
+4	Zboží	NNNS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	které	P4NS1----------	Sb
+7	na	RR--6----------	AuxP
+8	trhu	NNIS6-----A----	Adv
+9	chybí	VB-S---3P-AA---	Atr
+10	a	J^-------------	Coord
+11	přímý	AAIS1----1A----	Atr
+12	kontakt	NNIS1-----A----	Sb
+13	se	RV--7----------	AuxP
+14	zákazníky	NNMP7-----A----	Atr
+
+cmpr9416-008-p4s1
+1	Chuť	NNFS4-----A----	Obj
+2	španělského	AANS2----1A----	Atr
+3	cherry	NNNXX-----A----	Atr
+4	zná	VB-S---3P-AA---	Pred
+5	u	RR--2----------	AuxP
+6	nás	PP-P2--1-------	Adv
+7	jen	TT-------------	AuxZ
+8	pár	NNIS1-----A----	Sb
+9	znalců	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9416-008-p4s2
+1	V	RR--6----------	AuxP
+2	předchozích	AANP6----1A----	Atr
+3	desetiletích	NNNP6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	k	RR--3----------	AuxP
+6	nám	PP-P3--1-------	Adv
+7	dezertní	AANP1----1A----	Atr
+8	vína	NNNP1-----A----	Sb
+9	tohoto	PDZS2----------	Atr
+10	typu	NNIS2-----A----	Atr
+11	nedovážela	VpQW---XR-NA---	Pred
+12	.	Z:-------------	AuxK
+
+cmpr9416-008-p4s3
+1	Už	Db-------------	AuxZ
+2	půl	NNFS4-----A----	Adv
+3	roku	NNIS2-----A---1	Atr
+4	ale	J^-------------	Coord
+5	existuje	VB-S---3P-AA---	Pred
+6	velkoobchod	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	si	P7-X3----------	Adv
+10	vzal	VpYS---XR-AA---	Atr
+11	za	RR--4----------	AuxP
+12	úkol	NNIS4-----A----	Adv
+13	tuto	PDFS4----------	Atr
+14	mezeru	NNFS4-----A----	Obj
+15	vyplnit	Vf--------A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9416-008-p5s1
+1	Vítězslav	NNMS1-----A----	Atr
+2	Boukal	NNMS1-----A----	ExD
+
+cmpr9416-008-p6s1
+1	Dovozní	AAFS1----1A----	Atr
+2	a	J^-------------	Coord
+3	velkoobchodní	AAFS1----1A----	Atr
+4	společnost	NNFS1-----A----	Sb
+5	Commercial	AAXXX----1A----	Atr
+6	International	NNXXX-----A---1	Atr
+7	group	NNFXX-----A----	Atr
+8	zahájila	VpQW---XR-AA---	Pred
+9	svou	P8FS4---------1	Atr
+10	činnost	NNFS4-----A----	Obj
+11	asi	TT-------------	AuxZ
+12	před	RR--7----------	AuxP
+13	půl	ClXS7----------	Atr
+14	rokem	NNIS7-----A----	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9416-008-p6s2
+1	Zaměřuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	výhradně	Dg-------1A----	Adv
+4	na	RR--4----------	AuxP
+5	dovoz	NNIS4-----A----	Obj
+6	španělských	AAIP2----1A----	Atr
+7	nápojů	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9416-008-p6s3
+1	Sedm	Cn-S1----------	ExD
+2	druhů	NNIP2-----A----	Atr
+3	cherry	NNNXX-----A----	Atr
+4	,	Z:-------------	AuxX
+5	dvě	ClHP1----------	Atr
+6	brandy	NNFXX-----A----	ExD
+7	,	Z:-------------	AuxX
+8	a	J^-------------	Coord
+9	po	RR--6----------	AuxP
+10	dvou	ClXP6----------	Atr
+11	druzích	NNIP6-----A----	ExD
+12	červeného	AANS2----1A----	Atr
+13	a	J^-------------	Coord
+14	bílého	AANS2----1A----	Atr
+15	vína	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9416-008-p7s1
+1	CIG	NNFXX-----A---8	Sb
+2	přišla	VpQW---XR-AA---	Pred
+3	na	RR--4----------	AuxP
+4	domácí	AAIS4----1A----	Atr
+5	trh	NNIS4-----A----	Adv
+6	pozdě	Dg-------1A----	Adv
+7	a	J^-------------	Coord
+8	navíc	Db-------------	AuxZ
+9	v	RR--6----------	AuxP
+10	době	NNFS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	kdy	Db-------------	Adv
+13	si	P7-X3----------	AuxT
+14	vinaři	NNMP1-----A----	Sb
+15	stěžují	VB-P---3P-AA---	Atr
+16	na	RR--4----------	AuxP
+17	převahu	NNFS4-----A----	Obj
+18	nabídky	NNFS2-----A----	Atr
+19	nad	RR--7----------	AuxP
+20	poptávkou	NNFS7-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9416-008-p7s2
+1	Bylo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	riskantní	AANS1----1A----	Pnom
+4	.	Z:-------------	AuxK
+
+cmpr9416-008-p7s3
+1	Tím	PDZS7----------	Adv
+2	spíš	Dg-------2A----	ExD
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	cherry	NNNXX-----A----	Sb
+6	,	Z:-------------	AuxX
+7	jehož	P1XXXZS3-------	Atr
+8	prodej	NNIS4-----A----	Obj
+9	považuje	VB-S---3P-AA---	Atr
+10	CIG	NNFXX-----A---8	Sb
+11	za	RR--4----------	AuxP
+12	svou	P8FS4---------1	Atr
+13	hlavní	AAFS4----1A----	Atr
+14	náplň	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	je	VB-S---3P-AA---	Adv
+17	v	RR--6----------	AuxP
+18	českých	AAIP6----1A----	Atr
+19	poměrech	NNIP6-----A----	Adv
+20	nápojem	NNIS7-----A----	Pnom
+21	téměř	Db-------------	AuxZ
+22	neznámým	AAIS7----1N----	Atr
+23	,	Z:-------------	AuxX
+24	protože	J,-------------	AuxC
+25	se	P7-X4----------	AuxR
+26	asi	TT-------------	AuxZ
+27	40	C=-------------	Adv
+28	let	NNNP2-----A----	Atr
+29	nedováželo	VpNS---XR-NA---	Adv
+30	.	Z:-------------	AuxK
+
+cmpr9416-008-p8s1
+1	Už	Db-------------	AuxZ
+2	po	RR--6----------	AuxP
+3	prvních	CrIP6----------	Atr
+4	třech	ClXP6----------	Atr
+5	měsících	NNIP6-----A----	Adv
+6	dosáhla	VpQW---XR-AA---	Pred
+7	společnost	NNFS1-----A----	Sb
+8	měsíční	AAIS4----1A----	Atr
+9	obrat	NNIS4-----A----	Obj
+10	200000	C=-------------	Atr
+11	Kč	NNFXX-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9416-008-p8s2
+1	Profit	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	proto	J^-------------	Coord
+4	zajímal	VpYS---XR-AA---	Pred
+5	o	RR--4----------	AuxP
+6	metody	NNFP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kterými	P4XP7----------	Adv
+9	CIG	NNFXX-----A---8	Sb
+10	své	P8NS4---------1	Atr
+11	zboží	NNNS4-----A----	Obj
+12	prosazuje	VB-S---3P-AA---	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9416-008-p9s1
+1	Zpočátku	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	hodně	Dg-------1A----	Adv
+4	investovali	VpMP---XR-AA---	Obj
+5	do	RR--2----------	AuxP
+6	inzerce	NNFS2-----A----	Adv
+7	a	J^-------------	Coord
+8	akvizičních	AAIP2----1A----	Atr
+9	dopisů	NNIP2-----A----	Adv
+10	,	Z:-------------	Coord
+11	chtěli	VpMP---XR-AA---	Obj
+12	jsme	VB-P---1P-AA---	AuxV
+13	se	P7-X4----------	Obj
+14	tak	Db-------------	Adv
+15	dostat	Vf--------A----	Obj
+16	do	RR--2----------	AuxP
+17	povědomí	NNNS2-----A----	Adv
+18	obchodníků	NNMP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	řekl	VpYS---XR-AA---	Pred
+21	nám	PP-P3--1-------	Obj
+22	ředitel	NNMS1-----A----	Atr
+23	společnosti	NNFS2-----A----	Atr
+24	Jan	NNMS1-----A----	Atr
+25	Chvojka	NNMS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+cmpr9416-008-p9s2
+1	První	CrFS4----------	Atr
+2	prezentaci	NNFS4-----A----	Obj
+3	jsme	VB-P---1P-AA---	AuxV
+4	uspořádali	VpMP---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	hotelu	NNIS6-----A----	Adv
+7	Forum	NNNS1-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9416-008-p9s3
+1	Záhy	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	přesvědčili	VpMP---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	nejvíc	Dg-------3A---1	Obj
+8	zákazníků	NNMP2-----A----	Atr
+9	získáváme	VB-P---1P-AA---	Obj
+10	,	Z:-------------	AuxX
+11	když	J,-------------	AuxC
+12	jim	PPXP3--3-------	Obj
+13	umožníme	VB-P---1P-AA---	Adv
+14	naše	PSXP4-P1-------	Atr
+15	nápoje	NNIP4-----A----	Obj
+16	ochutnat	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9416-008-p10s1
+1	K	RR--3----------	AuxP
+2	základním	AAFP3----1A----	Atr
+3	náborovým	AAFP3----1A----	Atr
+4	metodám	NNFP3-----A----	Obj
+5	společnosti	NNFS2-----A----	Atr
+6	CIG	NNFXX-----A---8	Atr
+7	proto	J^-------------	Coord
+8	patří	VB-S---3P-AA---	Pred
+9	účast	NNFS1-----A----	Sb
+10	na	RR--6----------	AuxP
+11	většině	NNFS6-----A----	Atr
+12	potravinářských	AAFP2----1A----	Atr
+13	a	J^-------------	Coord
+14	nápojových	AAFP2----1A----	Atr
+15	výstav	NNFP2-----A----	Atr
+16	jako	J,-------------	AuxC
+17	byl	VpYS---XR-AA---	Atr
+18	Svět	NNIS1-----A----	Sb
+19	nápojů	NNIP2-----A----	Atr
+20	nebo	J^-------------	Coord
+21	Salima	NNFS1-----A----	Sb
+22	,	Z:-------------	Coord
+23	na	RR--6----------	AuxP
+24	kontraktačních	AAFP6----1A----	Atr
+25	a	J^-------------	Coord
+26	prodejních	AAFP6----1A----	Atr
+27	akcích	NNFP6-----A----	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9416-008-p10s2
+1	Degustační	AAIS1----1A----	Atr
+2	pultík	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	součástí	NNFS7-----A----	Pnom
+5	každého	AAIS2----1A----	Atr
+6	prodejního	AAIS2----1A----	Atr
+7	stánku	NNIS2-----A----	Atr
+8	CIG	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9416-008-p11s1
+1	Osvědčilo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	také	Db-------------	Adv
+4	vyhledávat	Vf--------A----	Sb
+5	potenciální	AAMP4----1A----	Atr
+6	zákazníky	NNMP4-----A----	Obj
+7	a	J^-------------	Coord
+8	jednat	Vf--------A----	Sb
+9	s	RR--7----------	AuxP
+10	nimi	P5XP7--3-------	Obj
+11	přímo	Dg-------1A----	Adv
+12	na	RR--6----------	AuxP
+13	jejich	PSXXXXP3-------	Atr
+14	adrese	NNFS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9416-008-p11s2
+1	Pro	RR--4----------	AuxP
+2	překonání	NNNS4-----A----	Adv
+3	počátečních	AAIP2----1A----	Atr
+4	rozpaků	NNIP2-----A----	Atr
+5	nad	RR--7----------	AuxP
+6	neznámými	AAIP7----1N----	Atr
+7	druhy	NNIP7-----A----	Atr
+8	nápojů	NNIP2-----A----	Atr
+9	mají	VB-P---3P-AA---	Pred
+10	zástupci	NNMP1-----A----	Sb
+11	CIG	NNFXX-----A---8	Atr
+12	vyzkoušený	AAIS4----1A----	Atr
+13	recept	NNIS4-----A----	Obj
+14	:	Z:-------------	Apos
+15	Přesvědčí	VB-P---3P-AA---	ExD
+16	pracovníky	NNMP4-----A----	Obj
+17	supermarketu	NNIS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	obchodního	AAIS2----1A----	Atr
+20	domu	NNIS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	nebo	J^-------------	Coord
+23	velké	AAFS2----1A----	Atr
+24	prodejny	NNFS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	aby	J,-------------	AuxC
+27	pro	RR--4----------	AuxP
+28	ověření	NNNS4-----A----	Adv
+29	zájmu	NNIS2-----A----	Atr
+30	umístili	VpMP---XR-AA---	Adv
+31	do	RR--2----------	AuxP
+32	regálu	NNIS2-----A----	Adv
+33	třeba	Db-------------	AuxZ
+34	jen	TT-------------	AuxZ
+35	jeden	ClIS4----------	Atr
+36	karton	NNIS4-----A----	Obj
+37	cherry	NNNXX-----A----	Atr
+38	.	Z:-------------	AuxK
+
+cmpr9416-008-p11s3
+1	V	RR--6----------	AuxP
+2	bezprostřední	AAFS6----1A----	Atr
+3	blízkosti	NNFS6-----A----	Adv
+4	vystaveného	AANS2----1A----	Atr
+5	zboží	NNNS2-----A----	Atr
+6	pak	Db-------------	Adv
+7	nabízejí	VB-P---3P-AA---	Pred
+8	spotřebitelům	NNMP3-----A----	Obj
+9	skleničku	NNFS4-----A----	Obj
+10	na	RR--4----------	AuxP
+11	ochutnání	NNNS4-----A----	AdvAtr
+12	.	Z:-------------	AuxK
+
+cmpr9416-008-p11s4
+1	Většinou	NNFS7-----A----	Adv
+2	už	Db-------------	AuxZ
+3	během	RR--2----------	AuxP
+4	2	C=-------------	Atr
+5	-	Z:-------------	Coord
+6	4	C=-------------	Atr
+7	hodin	NNFP2-----A----	Adv
+8	odpolední	AAFS2----1A----	Atr
+9	ochutnávky	NNFS2-----A----	Atr
+10	bývá	VB-S---3P-AA---	Pred
+11	zkušební	AAFS1----1A----	Atr
+12	dodávka	NNFS1-----A----	Sb
+13	rozebrána	VsQW---XX-AP---	Pnom
+14	.	Z:-------------	AuxK
+
+cmpr9416-008-p12s1
+1	Je	VB-S---3P-AA---	Obj
+2	to	PDNS1----------	Sb
+3	nejúčinnější	AAFS1----3A----	Atr
+4	metoda	NNFS1-----A----	Pnom
+5	prodeje	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	řekl	VpYS---XR-AA---	Pred
+8	nám	PP-P3--1-------	Obj
+9	k	RR--3----------	AuxP
+10	tomu	PDZS3----------	Adv
+11	ředitel	NNMS1-----A----	Atr
+12	Chvojka	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+cmpr9416-008-p12s2
+1	Při	RR--6----------	AuxP
+2	smlouvách	NNFP6-----A----	Adv
+3	s	RR--7----------	AuxP
+4	velkoodběrateli	NNMP7-----A----	Atr
+5	uvádíme	VB-P---1P-AA---	Pred
+6	možnost	NNFS4-----A----	Obj
+7	uspořádat	Vf--------A----	Atr
+8	degustaci	NNFS4-----A----	Obj
+9	jako	J,-------------	AuxY
+10	jednu	ClFS4----------	Atv
+11	z	RR--2----------	AuxP
+12	našich	PSXP2-P1-------	Atr
+13	podmínek	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9416-008-p13s1
+1	CIG	NNFXX-----A---8	Sb
+2	začala	VpQW---XR-AA---	Pred
+3	se	RV--7----------	AuxP
+4	svým	P8ZS7----------	Atr
+5	podnikáním	NNNS7-----A----	Adv
+6	od	RR--2----------	AuxP
+7	nuly	NNFS2-----A----	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9416-008-p13s2
+1	Během	RR--2----------	AuxP
+2	prvního	CrIS2----------	Atr
+3	půl	ClXS2----------	Atr
+4	roku	NNIS2-----A---1	Adv
+5	se	P7-X4----------	AuxT
+6	jí	PPFS3--3-------	Obj
+7	podařilo	VpNS---XR-AA---	Pred
+8	získat	Vf--------A----	Sb
+9	asi	TT-------------	AuxZ
+10	20	C=-------------	Obj
+11	stálých	AAMP2----1A----	Atr
+12	odběratelů	NNMP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	převážně	Dg-------1A----	Apos
+15	velkoobchodů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9416-008-p13s3
+1	Úspěšně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxR
+3	zavádí	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	takových	PDXP6----------	Atr
+7	obchodních	AAFP6----1A----	Atr
+8	sítích	NNFP6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	jako	J,-------------	AuxY
+11	je	VB-S---3P-AA---	Apos
+12	Alfa	NNFS1-----A----	Atr
+13	Market	NNIS1-----A----	Adv
+14	,	Z:-------------	AuxX
+15	Pronto	NNNS1-----A----	Adv
+16	,	Z:-------------	Coord
+17	K	NNNXX-----A----	Atr
+18	Mart	NNIS1-----A----	Adv
+19	.	Z:-------------	AuxK
+
+cmpr9416-008-p14s1
+1	Po	RR--6----------	AuxP
+2	vyhodnocení	NNNS6-----A----	Adv
+3	dosavadních	AAFP2----1A----	Atr
+4	zkušeností	NNFP2-----A----	Atr
+5	stanovila	VpQW---XR-AA---	Pred
+6	společnost	NNFS1-----A----	Sb
+7	CIG	NNFXX-----A---8	Atr
+8	úkol	NNIS4-----A----	Obj
+9	zvýšit	Vf--------A----	Atr
+10	letos	Db-------------	Adv
+11	svůj	P8IS4----------	Atr
+12	obrat	NNIS4-----A----	Obj
+13	o	RR--4----------	AuxP
+14	30	C=-------------	Obj
+15	až	J^-------------	Coord
+16	50	C=-------------	Obj
+17	%	Z:-------------	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9416-008-p14s2
+1	Pro	RR--4----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	splnění	NNNS4-----A----	Adv
+4	si	P7-X3----------	Adv
+5	připravila	VpQW---XR-AA---	Pred
+6	postup	NNIS4-----A----	Obj
+7	:	Z:-------------	AuxK
+
+cmpr9416-008-p15s1
+1	1	C=-------------	ExD
+2	.	Z:-------------	AuxG
+
+cmpr9416-008-p15s2
+1	Zúží	VB-S---3P-AA---	Pred
+2	sortiment	NNIS4-----A----	Obj
+3	.	Z:-------------	AuxK
+
+cmpr9416-008-p15s3
+1	Do	RR--2----------	AuxP
+2	doby	NNFS2-----A----	Adv
+3	,	Z:-------------	AuxX
+4	než	J,-------------	AuxC
+5	u	RR--2----------	AuxP
+6	nás	PP-P2--1-------	Adv
+7	cherry	NNNXX-----A----	Sb
+8	přesvědčivě	Dg-------1A----	Adv
+9	zdomácní	VB-S---3P-AA---	Adv
+10	,	Z:-------------	AuxX
+11	zúží	VB-S---3P-AA---	Pred
+12	dovozce	NNMS1-----A----	Sb
+13	sortiment	NNIS4-----A----	Obj
+14	na	RR--4----------	AuxP
+15	pět	Cn-S4----------	Obj
+16	základních	AAIP2----1A----	Atr
+17	druhů	NNIP2-----A----	Atr
+18	dezertního	AANS2----1A----	Atr
+19	vína	NNNS2-----A----	Atr
+20	a	J^-------------	Coord
+21	asi	TT-------------	AuxZ
+22	pět	Cn-S4----------	Obj
+23	dalších	AAIP2----1A----	Atr
+24	nápojů	NNIP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9416-008-p16s1
+1	2	C=-------------	ExD
+2	.	Z:-------------	AuxG
+
+cmpr9416-008-p16s2
+1	Do	RR--2----------	AuxP
+2	prodeje	NNIS2-----A----	Obj
+3	zapojí	VB-S---3P-AA---	Pred
+4	dealery	NNMP4-----A----	Obj
+5	.	Z:-------------	AuxK
+
+cmpr9416-008-p17s2
+1	Zřídí	VB-S---3P-AA---	Pred
+2	vlastní	AAFP4----1A----	Atr
+3	prodejny	NNFP4-----A----	Obj
+4	.	Z:-------------	AuxK
+
+cmpr9416-008-p17s3
+1	Společnost	NNFS1-----A----	Sb
+2	počítá	VB-S---3P-AA---	Pred
+3	s	RR--7----------	AuxP
+4	vybudováním	NNNS7-----A----	Obj
+5	sítě	NNFS2-----A----	Atr
+6	vlastních	AAFP2----1A----	Atr
+7	prodejen	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	zaměřených	AAFP2----1A----	Atr
+10	na	RR--4----------	AuxP
+11	španělské	AAIP4----1A----	Atr
+12	nápoje	NNIP4-----A----	Obj
+13	a	J^-------------	Coord
+14	občerstvení	NNNS4-----A----	Obj
+15	s	RR--7----------	AuxP
+16	jejich	PSXXXXP3-------	Atr
+17	využitím	NNNS7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9416-008-p17s4
+1	První	CrFP1----------	Atr
+2	dvě	ClHP1----------	Sb
+3	by	Vc-------------	AuxV
+4	měly	VpTP---XR-AA---	Pred
+5	ještě	Db-------------	AuxZ
+6	letos	Db-------------	Adv
+7	vzniknout	Vf--------A----	Obj
+8	v	RR--6----------	AuxP
+9	Praze	NNFS6-----A----	Adv
+10	,	Z:-------------	Coord
+11	další	AAFP1----1A----	Sb
+12	v	RR--6----------	AuxP
+13	bývalých	AANP6----1A----	Atr
+14	krajských	AANP6----1A----	Atr
+15	městech	NNNP6-----A----	Adv
+16	zahájí	VB-P---3P-AA---	Pred
+17	svou	P8FS4---------1	Atr
+18	činnost	NNFS4-----A----	Obj
+19	postupně	Dg-------1A----	Adv
+20	podle	RR--2----------	AuxP
+21	místních	AAFP2----1A----	Atr
+22	podmínek	NNFP2-----A----	Adv
+23	.	Z:-------------	AuxK
+
+cmpr9416-008-p18s1
+1	4	C=-------------	ExD
+2	.	Z:-------------	AuxG
+
+cmpr9416-008-p18s2
+1	Nabídne	VB-S---3P-AA---	Pred
+2	recepty	NNIP4-----A----	Obj
+3	.	Z:-------------	AuxK
+
+cmpr9416-008-p18s3
+1	CIG	NNFXX-----A---8	Sb
+2	připravila	VpQW---XR-AA---	Pred
+3	vlastní	AAIP4----1A----	Atr
+4	recepty	NNIP4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	využití	NNNS4-----A----	Atr
+7	cherry	NNNXX-----A----	Atr
+8	i	J^-------------	Coord
+9	dalších	AAIP2----1A----	Atr
+10	prodávaných	AAIP2----1A----	Atr
+11	nápojů	NNIP2-----A----	Atr
+12	firmou	NNFS7-----A----	Obj
+13	(	Z:-------------	ExD
+14	koktejly	NNIP4-----A----	ExD
+15	,	Z:-------------	AuxX
+16	moučníky	NNIP1-----A----	ExD
+17	,	Z:-------------	Coord
+18	masitá	AANP1----1A----	Atr
+19	a	J^-------------	Coord
+20	rybí	AANP1----1A----	Atr
+21	jídla	NNNP1-----A----	ExD
+22	dochucovaná	AANP1----1A----	Atr
+23	brandy	NNFXX-----A----	Adv
+24	či	J^-------------	Coord
+25	vínem	NNNS7-----A----	Adv
+26	)	Z:-------------	ExD
+27	.	Z:-------------	AuxK
+
+cmpr9416-008-p18s4
+1	Budou	VB-P---3F-AA---	AuxV
+2	publikovány	VsTP---XX-AP---	Pred
+3	i	J^-------------	AuxZ
+4	jako	J,-------------	AuxY
+5	příručka	NNFS1-----A----	AtvV
+6	distribuovaná	AAFS1----1A----	Atr
+7	firmou	NNFS7-----A----	Obj
+8	společně	Dg-------1A----	AuxP
+9	s	RR--7----------	AuxP
+10	vínem	NNNS7-----A----	Adv
+11	a	J^-------------	Coord
+12	brandy	NNFXX-----A----	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9416-008-p19s1
+1	Svou	P8FS7---------1	Atr
+2	obchodní	AAFS7----1A----	Atr
+3	činností	NNFS7-----A----	Adv
+4	domácím	AAMP3----1A----	Atr
+5	vinařům	NNMP3-----A----	Obj
+6	nekonkurujeme	VB-P---1P-NA---	Obj
+7	,	Z:-------------	AuxX
+8	řekl	VpYS---XR-AA---	Pred
+9	nám	PP-P3--1-------	Obj
+10	na	RR--4----------	AuxP
+11	závěr	NNIS4-----A----	Adv
+12	představitel	NNMS1-----A----	Sb
+13	firmy	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9416-008-p19s2
+1	Snažíme	VB-P---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	na	RR--4----------	AuxP
+4	trh	NNIS4-----A----	Adv
+5	zavést	Vf--------A----	Obj
+6	takové	PDNS4----------	Atr
+7	zboží	NNNS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	které	P4NS1----------	Sb
+10	tu	Db------------1	Adv
+11	chybělo	VpNS---XR-AA---	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9416-008-p20s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Commercial	AAXXX----1A----	Atr
+4	International	NNXXX-----A---1	Atr
+5	Group	NNFXX-----A----	ExD
+6	,	Z:-------------	AuxX
+7	s	NNFXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	r	NNNS7-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	o	AANS7----1A---8	Atr
+12	.	Z:-------------	AuxG
+13	,	Z:-------------	AuxX
+14	Opatovická	AAFS1----1A----	Atr
+15	18	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	113	C=-------------	Atr
+18	81	C=-------------	Atr
+19	Praha	NNFS1-----A----	Atr
+20	1	C=-------------	Atr
+21	,	Z:-------------	AuxX
+22	tel	NNIXX-----A---8	Atr
+23	.	Z:-------------	AuxG
+24	/	Z:-------------	Coord
+25	FAX	NNIS1-----A----	Atr
+26	:	Z:-------------	AuxG
+27	(	Z:-------------	AuxG
+28	02	C=-------------	Atr
+29	)	Z:-------------	AuxG
+30	24	C=-------------	Atr
+31	91	C=-------------	Atr
+32	36	C=-------------	Atr
+33	81	C=-------------	Atr
+34	.	Z:-------------	AuxK
+

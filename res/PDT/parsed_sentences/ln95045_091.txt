@@ -1,0 +1,343 @@
+ln95045-091-p1s1
+1	Pojišťoven	NNFP2-----A----	Sb
+2	zřejmě	Dg-------1A----	AuxY
+3	ubude	VB-S---3P-AA---	Pred
+4	,	Z:-------------	Coord
+5	někteří	PZMP1----------	Atr
+6	lidé	NNMP1-----A---1	Sb
+7	se	P7-X4----------	AuxT
+8	asi	TT-------------	AuxY
+9	vrátí	VB-P---3P-AA---	Pred
+10	ke	RV--3----------	AuxP
+11	Všeobecné	AAFS3----1A----	ExD
+
+ln95045-091-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-091-p2s1B
+1	Počet	NNIS4-----A----	Obj
+2	zdravotních	AAFP2----1A----	Atr
+3	pojišťoven	NNFP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	nutné	AANS1----1A----	Pnom
+6	snížit	Vf--------A----	Sb
+7	.	Z:-------------	AuxK
+
+ln95045-091-p2s2
+1	V	RR--6----------	AuxP
+2	tom	PDZS6----------	Adv
+3	se	P7-X4----------	AuxT
+4	shoduje	VB-S---3P-AA---	Pred
+5	ministerstvo	NNNS1-----A----	Sb
+6	zdravotnictví	NNNS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	poslanci	NNMP1-----A----	Sb
+9	i	J^-------------	Coord
+10	lékaři	NNMP1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95045-091-p2s3
+1	Jednou	ClFS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	cest	NNFP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	toho	PDZS2----------	Obj
+7	dosáhnout	Vf--------A----	Atr
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	i	J^-------------	AuxZ
+11	stanovení	NNNS1-----A----	Sb
+12	minimálního	AAIS2----1A----	Atr
+13	možného	AAIS2----1A----	Atr
+14	počtu	NNIS2-----A----	Atr
+15	pojištěnců	NNMP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95045-091-p3s1
+1	Pojišťovny	NNFP1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měly	VpTP---XR-AA---	Pred
+4	mít	Vf--------A----	Obj
+5	minimálně	Dg-------1A----	AuxZ
+6	50000	C=-------------	Obj
+7	klientů	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95045-091-p3s2
+1	Předpokládá	VB-S---3P-AA---	Pred
+2	to	PDNS4----------	Obj
+3	ministerský	AAIS1----1A----	Atr
+4	návrh	NNIS1-----A----	Sb
+5	novel	NNFP2-----A----	Atr
+6	zákonů	NNIP2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	pojišťovnách	NNFP6-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4FP4----------	Obj
+11	bude	VB-S---3F-AA---	AuxV
+12	tento	PDIS4----------	Atr
+13	týden	NNIS4-----A----	Adv
+14	projednávat	Vf--------A----	AtrAtr
+15	zdravotní	AAIS1----1A----	Atr
+16	a	J^-------------	Coord
+17	sociální	AAIS1----1A----	Atr
+18	výbor	NNIS1-----A----	Sb
+19	parlamentu	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-091-p3s3
+1	Ministr	NNMS1-----A----	Atr
+2	zdravotnictví	NNNS2-----A----	Atr
+3	Luděk	NNMS1-----A----	Atr
+4	Rubáš	NNMS1-----A----	Sb
+5	v	RR--4----------	AuxP
+6	pondělí	NNNS4-----A----	Adv
+7	řekl	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	někteří	PZMP1----------	Atr
+11	poslanci	NNMP1-----A----	Sb
+12	požadovali	VpMP---XR-AA---	Obj
+13	jako	J,-------------	AuxY
+14	nejmenší	AAIS4----3A----	Atr
+15	možný	AAIS4----1A----	Atr
+16	počet	NNIS4-----A----	Atv
+17	dokonce	Db-------------	AuxZ
+18	200000	C=-------------	Obj
+19	pojištěnců	NNMP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-091-p4s1
+1	Nutné	AANS1----1A----	Atr
+2	snížení	NNNS1-----A----	Sb
+3	počtu	NNIS2-----A----	Atr
+4	pojišťoven	NNFP2-----A----	Atr
+5	je	VB-S---3P-AA---	AuxV
+6	zdůvodňováno	VsNS---XX-AP---	Pred
+7	mimo	RR--4----------	AuxP
+8	jiné	AANS4----1A----	Adv
+9	i	J^-------------	AuxZ
+10	tím	PDZS7----------	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	mnohé	AAFP1----1A----	Atr
+14	malé	AAFP1----1A----	Atr
+15	pojišťovny	NNFP1-----A----	Sb
+16	mají	VB-P---3P-AA---	Atr
+17	vzhledem	RF-------------	AuxP
+18	k	RR--3----------	AuxP
+19	počtu	NNIS3-----A----	Adv
+20	klientů	NNMP2-----A----	Atr
+21	neúměrně	Dg-------1N----	Adv
+22	vysokou	AAFS4----1A----	Atr
+23	režii	NNFS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln95045-091-p4s2
+1	Ministr	NNMS1-----A----	Sb
+2	míní	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	by	Vc-------------	AuxV
+6	se	P7-X4----------	AuxT
+7	podařilo	VpNS---XR-AA---	Obj
+8	ušetřit	Vf--------A----	Sb
+9	až	TT-------------	AuxZ
+10	dvě	ClHP4----------	Atr
+11	miliardy	NNFP4-----A----	Obj
+12	korun	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	kdyby	J,-------------	AuxC
+15	pojišťovny	NNFP1-----A----	Sb
+16	snížily	VpTP---XR-AA---	Adv
+17	své	P8YP4---------1	Atr
+18	vlastní	AAIP4----1A----	Atr
+19	náklady	NNIP4-----A----	Obj
+20	na	RR--4----------	AuxP
+21	úroveň	NNFS4-----A----	Adv
+22	Všeobecné	AAFS2----1A----	ExD
+23	.	Z:-------------	AuxK
+
+ln95045-091-p4s3
+1	Ta	PDFS1----------	Sb
+2	na	RR--4----------	AuxP
+3	ně	P5XP4--3-------	Adv
+4	vydává	VB-S---3P-AA---	Pred
+5	asi	TT-------------	AuxZ
+6	tři	ClXP4----------	Atr
+7	procenta	NNNP4-----A----	Obj
+8	ze	RV--2----------	AuxP
+9	svého	P8ZS2----------	Atr
+10	rozpočtu	NNIS2-----A----	AtrAdv
+11	.	Z:-------------	AuxK
+
+ln95045-091-p5s1
+1	Pojišťovnám	NNFP3-----A----	Obj
+2	se	P7-X4----------	AuxR
+3	také	Db-------------	Adv
+4	vytýká	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	neplatí	VB-P---3P-NA---	Sb
+8	včas	Db-------------	Adv
+9	ani	J^-------------	AuxZ
+10	svým	P8XP3----------	Atr
+11	smluvním	AAMP3----1A----	Atr
+12	lékařům	NNMP3-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95045-091-p5s2
+1	Pojišťovny	NNFP1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	zase	Db-------------	Adv
+4	stěžují	VB-P---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	lékaři	NNMP1-----A----	Sb
+8	vykazují	VB-P---3P-AA---	Obj
+9	příliš	Db-------------	Adv
+10	mnoho	Ca--4----------	Obj
+11	výkonů	NNIP2-----A----	Atr
+12	a	J^-------------	Coord
+13	navíc	Db-------------	Adv
+14	prý	TT-------------	AuxY
+15	stále	Db-------------	Adv
+16	přibývají	VB-P---3P-AA---	Obj
+17	zdravotnická	AANP1----1A----	Atr
+18	zařízení	NNNP1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+ln95045-091-p6s1
+1	Přísným	AAFP3----1A----	Atr
+2	podmínkám	NNFP3-----A----	Obj
+3	stanoveným	AAFP3----1A----	Atr
+4	v	RR--6----------	AuxP
+5	navrhovaných	AAIP6----1A----	Atr
+6	zákonech	NNIP6-----A----	Adv
+7	mnohé	AAFP1----1A----	Sb
+8	z	RR--2----------	AuxP
+9	dnešních	AAFP2----1A----	Atr
+10	pětadvaceti	Cn-P2----------	Atr
+11	pojišťoven	NNFP2-----A----	Atr
+12	zřejmě	Dg-------1A----	AuxY
+13	nebudou	VB-P---3F-NA---	Pred
+14	schopny	ACTP------A----	Pnom
+15	vyhovět	Vf--------A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95045-091-p6s2
+1	Záchranou	NNFS7-----A----	Pnom
+2	by	Vc-------------	AuxV
+3	pro	RR--4----------	AuxP
+4	ně	P5XP4--3-------	Adv
+5	mohlo	VpNS---XR-AA---	Pred
+6	být	Vf--------A----	Obj
+7	sloučení	NNNS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95045-091-p6s3
+1	Klienti	NNMP1-----A----	Sb
+2	pojišťoven	NNFP2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	které	P4FP1----------	Sb
+5	ukončí	VB-P---3P-AA---	Atr
+6	svou	P8FS4---------1	Atr
+7	činnost	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	se	P7-X4----------	AuxT
+10	automaticky	Dg-------1A----	Adv
+11	vrátí	VB-P---3P-AA---	Pred
+12	k	RR--3----------	AuxP
+13	Všeobecné	AAFS3----1A----	ExD
+14	.	Z:-------------	AuxK
+
+ln95045-091-p6s4
+1	Pojišťovnami	NNFP7-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	lékaři	NNMP1-----A----	Sb
+4	zabývali	VpMP---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	na	RR--6----------	AuxP
+7	svém	P8ZS6----------	Atr
+8	nedělním	AAIS6----1A----	Atr
+9	sjezdu	NNIS6-----A---1	Adv
+10	.	Z:-------------	AuxK
+
+ln95045-091-p6s5
+1	Někteří	PZMP1----------	Sb
+2	žádali	VpMP---XR-AA---	Pred
+3	omezení	NNNS4-----A----	Obj
+4	jejich	PSXXXXP3-------	Atr
+5	počtu	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	například	Db-------------	AuxZ
+9	soukromý	AAMS1----1A----	Atr
+10	lékař	NNMS1-----A----	Atr
+11	Jan	NNMS1-----A----	Atr
+12	Jelínek	NNMS1-----A----	Sb
+13	považuje	VB-S---3P-AA---	Pred
+14	za	RR--4----------	AuxP
+15	nejlepší	AANS4----3A----	Obj
+16	,	Z:-------------	AuxX
+17	aby	J,-------------	AuxC
+18	byli	VpMP---XR-AA---	Obj
+19	všichni	PLMP1----------	Sb
+20	pojištěni	VsMP---XX-AP---	Pnom
+21	u	RR--2----------	AuxP
+22	Všeobecné	AAFS2----1A----	ExD
+23	.	Z:-------------	AuxK
+
+ln95045-091-p6s6
+1	Ostatní	AAFP1----1A----	Atr
+2	instituce	NNFP1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	pak	Db-------------	Adv
+5	mohly	VpTP---XR-AA---	Pred
+6	nabízet	Vf--------A----	Obj
+7	pouze	Db-------------	AuxZ
+8	nadstandardy	NNIP4-----A----	Obj
+9	za	RR--4----------	AuxP
+10	připojištění	NNNS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95045-091-p6s7
+1	S	RR--7----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	názorem	NNIS7-----A----	Obj
+4	někteří	PZMP1----------	Atr
+5	lékaři	NNMP1-----A----	Sb
+6	souhlasí	VB-P---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	protože	J,-------------	AuxC
+9	by	Vc-------------	AuxV
+10	jim	PPXP3--3-------	Adv
+11	prý	TT-------------	AuxY
+12	ubyly	VpTP---XR-AA---	Adv
+13	administrativní	AAIP1----1A----	Atr
+14	problémy	NNIP1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95045-091-p6s8
+1	Nyní	Db-------------	Adv
+2	musí	VB-P---3P-AA--1	Pred
+3	často	Dg-------1A----	Adv
+4	například	Db-------------	AuxY
+5	složitě	Dg-------1A----	Adv
+6	zjišťovat	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	ke	RV--3----------	AuxP
+9	které	P4FS3----------	Atr
+10	pojišťovně	NNFS3-----A----	Adv
+11	lidé	NNMP1-----A---1	Sb
+12	patří	VB-P---3P-AA---	Obj
+13	,	Z:-------------	AuxX
+14	protože	J,-------------	AuxC
+15	ti	PDMP1----------	Sb
+16	změnu	NNFS4-----A----	Obj
+17	většinou	Db-------------	Adv
+18	nenahlašují	VB-P---3P-NA---	Adv
+19	.	Z:-------------	AuxK
+

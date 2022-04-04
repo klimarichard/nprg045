@@ -1,0 +1,124 @@
+ln94203-15-p1s1
+1	Kontrakt	NNIS1-----A----	ExD
+2	Telecomu	NNIS2-----A----	Atr
+3	se	RV--7----------	AuxP
+4	Siemensem	NNIS7-----A----	Atr
+
+ln94203-15-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ma	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94203-15-p2s1B
+1	Další	AAIS4----1A----	Atr
+2	kontrakt	NNIS4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	dostavbu	NNFS4-----A----	Atr
+5	digitálních	AAFP2----1A----	Atr
+6	telefonních	AAFP2----1A----	Atr
+7	ústředen	NNFP2-----A----	Atr
+8	pro	RR--4----------	AuxP
+9	rok	NNIS4-----A----	Atr
+10	1995	C=-------------	Atr
+11	a	J^-------------	Coord
+12	začátek	NNIS4-----A----	Atr
+13	roku	NNIS2-----A---1	Atr
+14	1996	C=-------------	Atr
+15	uzavřela	VpQW---XR-AA---	Pred
+16	včera	Db-------------	Adv
+17	akciová	AAFS1----1A----	Atr
+18	společnost	NNFS1-----A----	Sb
+19	SPT	NNIXX-----A---8	Atr
+20	Telecom	NNIS1-----A----	Atr
+21	s	RR--7----------	AuxP
+22	firmou	NNFS7-----A----	Adv
+23	Siemens	NNIS1-----A----	Atr
+24	AG	NNFXX-----A---8	Atr
+25	Mnichov	NNIS1-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94203-15-p2s2
+1	Kontrakt	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	je	VB-S---3P-AA---	Atr
+5	součástí	NNFS7-----A----	Pnom
+6	projektu	NNIS2-----A----	Atr
+7	DON	NNMS1-----A----	Atr
+8	95	C=-------------	Atr
+9	,	Z:-------------	AuxX
+10	navazuje	VB-S---3P-AA---	Pred
+11	na	RR--4----------	AuxP
+12	tři	ClXP4----------	Obj
+13	předchozí	AAIP4----1A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94203-15-p2s3
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	realizuje	VB-S---3P-AA---	Pred
+6	projekt	NNIS1-----A----	Sb
+7	DON	NNMS1-----A----	Atr
+8	94	C=-------------	Atr
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	má	VB-S---3P-AA---	Atr
+12	být	Vf--------A----	AuxV
+13	dokončen	VsYS---XX-AP---	Obj
+14	počátkem	NNIS7-----A----	AuxP
+15	roku	NNIS2-----A---1	Adv
+16	1995	C=-------------	Atr
+17	.	Z:-------------	AuxK
+
+ln94203-15-p3s1
+1	V	RR--6----------	AuxP
+2	rámci	NNIS6-----A----	AuxP
+3	včera	Db-------------	Adv
+4	uzavřeného	AAIS2----1A----	Atr
+5	kontraktu	NNIS2-----A----	Adv
+6	bude	VB-S---3F-AA---	AuxV
+7	postaveno	VsNS---XX-AP---	Pred
+8	a	J^-------------	Coord
+9	poté	Db-------------	Adv
+10	uvedeno	VsNS---XX-AP---	Pred
+11	do	RR--2----------	AuxP
+12	provozu	NNIS2-----A----	Adv
+13	jedenáct	Cn-S1----------	Sb
+14	nových	AAFP2----1A----	Atr
+15	digitálních	AAFP2----1A----	Atr
+16	telefonních	AAFP2----1A----	Atr
+17	ústředen	NNFP2-----A----	Atr
+18	typu	NNIS2-----A----	Atr
+19	HOST	NNMS1-----A----	Atr
+20	a	J^-------------	Coord
+21	122	C=-------------	Sb
+22	nových	AAFP2----1A----	Atr
+23	vedlejších	AAFP2----1A----	Atr
+24	ústředen	NNFP2-----A----	Atr
+25	typu	NNIS2-----A----	Atr
+26	RSU	NNXXX-----A---8	Atr
+27	.	Z:-------------	AuxK
+
+ln94203-15-p3s2
+1	Budou	VB-P---3F-AA---	AuxV
+2	také	Db-------------	Adv
+3	rozšířeny	VsTP---XX-AP---	Pred
+4	některé	PZFP1----------	Atr
+5	dříve	Dg-------2A----	Adv
+6	vybudované	AAFP1----1A----	Atr
+7	digitální	AAFP1----1A----	Atr
+8	telefonní	AAFP1----1A----	Atr
+9	ústředny	NNFP1-----A----	Sb
+10	o	RR--6----------	AuxP
+11	celkové	AAFS6----1A----	Atr
+12	kapacitě	NNFS6-----A----	Atr
+13	164	C=-------------	Atr
+14	tisíc	ClXS2----------	Atr
+15	telefonních	AAFP2----1A----	Atr
+16	přípojek	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+

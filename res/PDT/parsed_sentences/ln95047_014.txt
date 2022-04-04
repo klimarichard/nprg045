@@ -1,0 +1,187 @@
+ln95047-014-p1s1
+1	Česká	AAFS1----1A----	Atr
+2	televize	NNFS1-----A----	Sb
+3	podá	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	Novu	NNFS4-----A----	Obj
+6	žalobu	NNFS4-----A----	Obj
+
+ln95047-014-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-014-p2s1B
+1	Česká	AAFS1----1A----	Atr
+2	televize	NNFS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	v	RR--6----------	AuxP
+5	souladu	NNIS6-----A----	AuxP
+6	s	RR--7----------	AuxP
+7	tiskovým	AAIS7----1A----	Atr
+8	zákonem	NNIS7-----A----	Adv
+9	žalovat	Vf--------A----	Pred
+10	TV	NNFXX-----A---8	Obj
+11	Nova	NNFS1-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95047-014-p2s2
+1	Podle	RR--2----------	AuxP
+2	včerejšího	AANS2----1A----	Atr
+3	prohlášení	NNNS2-----A----	Adv
+4	mluvčí	NNFS2-----A----	Atr
+5	ČT	NNFXX-----A---8	Atr
+6	Kataríny	NNFS2-----A----	Atr
+7	Vaculíkové	NNFS2-----A----	Atr
+8	tak	Db-------------	Adv
+9	Česká	AAFS1----1A----	Atr
+10	televize	NNFS1-----A----	Sb
+11	reaguje	VB-S---3P-AA---	Pred
+12	na	RR--4----------	AuxP
+13	odmítnutí	NNNS4-----A----	Obj
+14	žádosti	NNFS2-----A----	Atr
+15	o	RR--4----------	AuxP
+16	zveřejnění	NNNS4-----A----	Atr
+17	opravy	NNFS2-----A----	Atr
+18	ve	RV--6----------	AuxP
+19	vysílání	NNNS6-----A----	Atr
+20	TV	NNFXX-----A---8	Atr
+21	Nova	NNFS1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95047-014-p3s1
+1	Generální	AAMS1----1A----	Atr
+2	ředitel	NNMS1-----A----	Atr
+3	ČT	NNFXX-----A---8	Atr
+4	Ivo	NNMS1-----A----	Atr
+5	Mathé	NNMS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	otevřeném	AAIS6----1A----	Atr
+8	dopise	NNIS6-----A----	Adv
+9	požadoval	VpYS---XR-AA---	Pred
+10	zveřejnění	NNNS4-----A----	Obj
+11	opravy	NNFS2-----A----	Atr
+12	některých	PZXP2----------	Atr
+13	údajů	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4IP1----------	Sb
+16	se	P7-X4----------	AuxT
+17	objevily	VpTP---XR-AA---	Atr
+18	20	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	února	NNIS2-----A---1	Adv
+21	ve	RV--6----------	AuxP
+22	zpravodajství	NNNS6-----A----	Adv
+23	televize	NNFS2-----A----	Atr
+24	Nova	NNFS1-----A----	Atr
+25	po	RR--6----------	AuxP
+26	tiskové	AAFS6----1A----	Atr
+27	konferenci	NNFS6-----A----	Adv
+28	ČT	NNFXX-----A---8	Atr
+29	.	Z:-------------	AuxK
+
+ln95047-014-p3s2
+1	Nova	NNFS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	žádost	NNFS4-----A----	Obj
+4	o	RR--4----------	AuxP
+5	opravu	NNFS4-----A----	Atr
+6	odmítla	VpQW---XR-AA--1	Pred
+7	a	J^-------------	Coord
+8	vyjádřila	VpQW---XR-AA---	Pred
+9	odhodlání	NNNS4-----A----	Obj
+10	jít	Vf--------A----	Atr
+11	do	RR--2----------	AuxP
+12	soudního	AAIS2----1A----	Atr
+13	sporu	NNIS2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln95047-014-p4s1
+1	Jak	J,-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	již	Db-------------	Adv
+4	informovali	VpMP---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	ředitel	NNMS1-----A----	Atr
+7	Mathé	NNMS1-----A----	Sb
+8	projevil	VpYS---XR-AA---	Pred
+9	nesouhlas	NNIS4-----A----	Obj
+10	s	RR--7----------	AuxP
+11	údaji	NNIP7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	které	P4IP1----------	Sb
+14	se	P7-X4----------	AuxT
+15	týkaly	VpTP---XR-AA---	Atr
+16	financování	NNNS2-----A----	Obj
+17	,	Z:-------------	AuxX
+18	hospodaření	NNNS2-----A----	Obj
+19	,	Z:-------------	AuxX
+20	vlastní	AAFS2----1A----	Atr
+21	tvorby	NNFS2-----A----	Obj
+22	a	J^-------------	Coord
+23	podílu	NNIS2-----A----	Obj
+24	americké	AAFS2----1A----	Atr
+25	produkce	NNFS2-----A----	Atr
+26	ve	RV--6----------	AuxP
+27	vysílání	NNNS6-----A----	Atr
+28	ČT	NNFXX-----A---8	Atr
+29	.	Z:-------------	AuxK
+
+ln95047-014-p4s2
+1	Nova	NNFS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	dopis	NNIS4-----A----	Obj
+4	odpověděla	VpQW---XR-AA---	Pred
+5	prohlášením	NNNS7-----A----	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	na	RR--4----------	AuxP
+9	opravu	NNFS4-----A----	Obj
+10	údajů	NNIP2-----A----	Atr
+11	nehodlá	VB-S---3P-NA---	Atr
+12	reagovat	Vf--------A----	Obj
+13	a	J^-------------	Coord
+14	případné	AANS4----1A----	Atr
+15	soudní	AANS4----1A----	Atr
+16	vymáhání	NNNS4-----A----	Obj
+17	tiskové	AAFS2----1A----	Atr
+18	opravy	NNFS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	stejně	Dg-------1A----	Adv
+21	jako	J,-------------	AuxC
+22	účast	NNFS4-----A----	ExD
+23	Nejvyššího	AAIS2----3A----	Atr
+24	kontrolního	AAIS2----1A----	Atr
+25	úřadu	NNIS2-----A----	Atr
+26	v	RR--6----------	AuxP
+27	posuzování	NNNS6-----A----	Atr
+28	účelnosti	NNFS2-----A----	Atr
+29	prostředků	NNIP2-----A----	Atr
+30	vynakládaných	AAIP2----1A----	Atr
+31	ve	RV--6----------	AuxP
+32	veřejnoprávní	AAFS6----1A----	Atr
+33	televizi	NNFS6-----A----	Adv
+34	naopak	Db-------------	Adv
+35	uvítá	VB-S---3P-AA---	Obj
+36	.	Z:-------------	AuxK
+
+ln95047-014-p4s3
+1	Nova	NNFS1-----A----	Sb
+2	tvrdí	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	veškeré	PLIP1----------	Atr
+6	údaje	NNIP1-----A----	Sb
+7	byly	VpTP---XR-AA---	AuxV
+8	čerpány	VsTP---XX-AP---	Obj
+9	buď	J^-------------	AuxY
+10	z	RR--2----------	AuxP
+11	tiskové	AAFS2----1A----	Atr
+12	konference	NNFS2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	nebo	J^-------------	Coord
+15	jiných	AAIP2----1A----	Atr
+16	autorizovaných	AAIP2----1A----	Atr
+17	zdrojů	NNIP2-----A----	Adv
+18	ČT	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+

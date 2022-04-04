@@ -1,0 +1,209 @@
+lnd91303-010-p1s1
+1	MOSKVA	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-010-p2s1
+1	BAGDÁD	NNIS1-----A----	ExD
+
+lnd91303-010-p3s1
+1	Obchod	NNIS1-----A----	ExD
+2	se	RV--7----------	AuxP
+3	smrtí	NNFS7-----A----	Atr
+
+lnd91303-010-p4s1
+1	ŘÍM	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-010-p5s1
+1	Okamžitě	Dg-------1A----	Adv
+2	po	RR--6----------	AuxP
+3	nezdařeném	AAIS6----1N----	Atr
+4	srpnovém	AAIS6----1A----	Atr
+5	pokusu	NNIS6-----A---1	Adv
+6	o	RR--4----------	AuxP
+7	puč	NNIS4-----A----	Atr
+8	začali	VpMP---XR-AA---	Pred
+9	někteří	PZMP1----------	Atr
+10	vysocí	AAMP1----1A----	Atr
+11	činitelé	NNMP1-----A----	Sb
+12	sovětského	AANS2----1A----	Atr
+13	KGB	NNFXX-----A---8	Atr
+14	a	J^-------------	Coord
+15	vojenské	AAFS2----1A----	Atr
+16	rozvědky	NNFS2-----A----	Atr
+17	GRU	NNXXX-----A---8	Atr
+18	organizovat	Vf--------A----	Obj
+19	tajný	AAIS4----1A----	Atr
+20	obchod	NNIS4-----A----	Obj
+21	s	RR--7----------	AuxP
+22	jadernými	AAIP7----1A----	Atr
+23	materiály	NNIP7-----A----	Atr
+24	,	Z:-------------	AuxX
+25	včetně	RR--2----------	AuxP
+26	uranu	NNIS2-----A----	Atr
+27	,	Z:-------------	AuxX
+28	plutonia	NNNS2-----A----	Atr
+29	a	J^-------------	Coord
+30	také	Db-------------	AuxZ
+31	červené	AAFS2----1A----	Atr
+32	rtuti	NNFS2-----A---1	Atr
+33	.	Z:-------------	AuxK
+
+lnd91303-010-p5s2
+1	Uvádí	VB-S---3P-AA---	Pred
+2	to	PDNS4----------	Obj
+3	italský	AAIS1----1A----	Atr
+4	deník	NNIS1-----A----	Sb
+5	Corriere	NNIXX-----A----	Atr
+6	della	AAXXX----1A----	Atr
+7	Sera	NNFXX-----A----	Atr
+8	.	Z:-------------	AuxK
+
+lnd91303-010-p5s3
+1	Na	RR--6----------	AuxP
+2	seznamu	NNIS6-----A----	Adv
+3	materiálu	NNIS2-----A----	Atr
+4	byly	VpTP---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	taktické	AAFP1----1A----	Atr
+7	jaderné	AAFP1----1A----	Atr
+8	zbraně	NNFP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	schopné	AAFP1----1A----	Atr
+11	zasáhnout	Vf--------A----	Obj
+12	cíle	NNIP4-----A----	Obj
+13	ve	RV--6----------	AuxP
+14	vzdálenosti	NNFS6-----A----	Atr
+15	30	C=-------------	Atr
+16	až	J^-------------	Coord
+17	60	C=-------------	Atr
+18	km	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+
+lnd91303-010-p5s4
+1	Vše	PLNS1---------1	Sb
+2	nasvědčuje	VB-S---3P-AA---	Pred
+3	tomu	PDZS3----------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	hlavním	AAMS7----1A----	Atr
+7	příjemcem	NNMS7-----A----	Pnom
+8	jaderných	AAFP2----1A----	Atr
+9	zbraní	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	pocházejících	AGFP2-----A----	Atr
+12	prý	TT-------------	AuxY
+13	ze	RV--2----------	AuxP
+14	základny	NNFS2-----A----	Adv
+15	poblíž	RR--2----------	AuxP
+16	sibiřského	AAIS2----1A----	Atr
+17	Irkutsku	NNIS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	měl	VpYS---XR-AA---	Atr
+20	být	Vf--------A----	Obj
+21	irácký	AAMS1----1A----	Atr
+22	diktátor	NNMS1-----A----	Atr
+23	Saddám	NNMS1-----A----	Atr
+24	Husajn	NNMS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+lnd91303-010-p5s5
+1	Případ	NNIS1-----A----	Sb
+2	začal	VpYS---XR-AA---	Pred
+3	před	RR--7----------	AuxP
+4	dvěma	ClXP7----------	Atr
+5	měsíci	NNIP7-----A----	Adv
+6	,	Z:-------------	AuxX
+7	kdy	Db-------------	Adv
+8	byla	VpQW---XR-AA---	AuxV
+9	v	RR--6----------	AuxP
+10	severoitalském	AANS6----1A----	Atr
+11	Comu	NNNS6-----A----	Adv
+12	zadržena	VsQW---XX-AP---	Adv
+13	zásilka	NNFS1-----A----	Sb
+14	uranu	NNIS2-----A----	Atr
+15	a	J^-------------	Coord
+16	zatčeno	VsNS---XX-AP---	Adv
+17	několik	Ca--1----------	Sb
+18	osob	NNFP2-----A----	Atr
+19	:	Z:-------------	Apos
+20	dva	ClYP1----------	Atr
+21	Italové	NNMP1-----A----	Atr
+22	,	Z:-------------	AuxX
+23	dva	ClYP1----------	Atr
+24	Švýcaři	NNMP1-----A----	Atr
+25	,	Z:-------------	AuxX
+26	jeden	ClYS1----------	Atr
+27	Rakušan	NNMS1-----A----	Atr
+28	a	J^-------------	Coord
+29	jeden	ClYS1----------	Atr
+30	občan	NNMS1-----A----	Atr
+31	ČSFR	NNFXX-----A---8	Atr
+32	.	Z:-------------	AuxK
+
+lnd91303-010-p5s6
+1	Italské	AAIP1----1A----	Atr
+2	deníky	NNIP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	domnívají	VB-P---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	tajný	AAIS1----1A----	Atr
+8	obchod	NNIS1-----A----	Sb
+9	s	RR--7----------	AuxP
+10	jaderným	AAIS7----1A----	Atr
+11	materiálem	NNIS7-----A----	Atr
+12	se	P7-X4----------	AuxR
+13	uskutečňoval	VpYS---XR-AA---	Obj
+14	s	RR--7----------	AuxP
+15	tichým	AAIS7----1A----	Atr
+16	souhlasem	NNIS7-----A----	Adv
+17	sovětského	AANS2----1A----	Atr
+18	vojenského	AANS2----1A----	Atr
+19	velení	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd91303-010-p5s7
+1	Na	RR--6----------	AuxP
+2	území	NNNS6-----A----	Adv
+3	bývalého	AAIS2----1A----	Atr
+4	SSSR	NNIXX-----A---8	Atr
+5	je	VB-S---3P-AA---	Pred
+6	nyní	Db-------------	Adv
+7	nejméně	Dg-------3A----	Adv
+8	15000	C=-------------	Sb
+9	taktických	AAFP2----1A----	Atr
+10	jaderných	AAFP2----1A----	Atr
+11	zbraní	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	na	RR--4----------	AuxP
+15	rozdíl	NNIS4-----A----	AuxP
+16	od	RR--2----------	AuxP
+17	zbraní	NNFP2-----A----	Adv
+18	strategických	AAFP2----1A----	Atr
+19	zdaleka	Db-------------	Adv
+20	ne	TT-------------	AuxZ
+21	všechny	PLFP1----------	Sb
+22	jsou	VB-P---3P-AA---	Pred
+23	pod	RR--7----------	AuxP
+24	centrální	AAFS7----1A----	Atr
+25	kontrolou	NNFS7-----A----	Adv
+26	.	Z:-------------	AuxK
+
+lnd91303-010-p5s8
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	jadernou	AAFS4----1A----	Atr
+4	hlavici	NNFS4-----A----	Atr
+5	na	RR--6----------	AuxP
+6	černém	AAIS6----1A----	Atr
+7	trhu	NNIS6-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	pohybuje	VB-S---3P-AA---	Pred
+10	kolem	RR--2----------	AuxP
+11	20	C=-------------	Atr
+12	miliónů	NNIP2-----A----	Adv
+13	dolarů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+

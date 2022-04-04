@@ -1,0 +1,417 @@
+ln94206-24-p1s1
+1	Levnější	AAFP1----2A----	Atr
+2	ovocné	AAFP1----1A----	Atr
+3	šťávy	NNFP1-----A----	ExD
+4	v	RR--6----------	AuxP
+5	krabicích	NNFP6-----A----	Atr
+
+ln94206-24-p2s1A
+1	Linea	NNFS1-----A----	Sb
+2	Nivnice	NNFS1-----A----	Atr
+3	uvede	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	počátku	NNIS6-----A----	Adv
+6	příštího	AAIS2----1A----	Atr
+7	roku	NNIS2-----A---1	Atr
+8	do	RR--2----------	AuxP
+9	provozu	NNIS2-----A----	Adv
+10	novou	AAFS4----1A----	Atr
+11	linku	NNFS4-----A----	Obj
+12	na	RR--4----------	AuxP
+13	balení	NNNS4-----A----	Atr
+14	ovocných	AAFP2----1A----	Atr
+15	šťáv	NNFP2-----A----	Atr
+
+ln94206-24-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-24-p2s1C
+1	Začátkem	NNIS7-----A----	AuxP
+2	příštího	AAIS2----1A----	Atr
+3	roku	NNIS2-----A---1	Adv
+4	bude	VB-S---3F-AA---	AuxV
+5	v	RR--6----------	AuxP
+6	Nivnici	NNFS6-----A----	Adv
+7	instalována	VsQW---XX-AP---	Pred
+8	nová	AAFS1----1A----	Atr
+9	linka	NNFS1-----A----	Sb
+10	na	RR--4----------	AuxP
+11	balení	NNNS4-----A----	Atr
+12	ovocných	AAFP2----1A----	Atr
+13	šťáv	NNFP2-----A----	Atr
+14	do	RR--2----------	AuxP
+15	papírových	AAFP2----1A----	Atr
+16	krabic	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94206-24-p2s2
+1	Investice	NNFS1-----A----	Sb
+2	přijde	VB-S---3P-AA---	Pred
+3	přibližně	Dg-------1A----	Adv
+4	na	RR--4----------	AuxP
+5	30	C=-------------	Obj
+6	milionů	NNIP2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94206-24-p2s3
+1	Sdělil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	obchodní	AAMS1----1A----	Atr
+5	náměstek	NNMS1-----A----	Atr
+6	akciové	AAFS2----1A----	Atr
+7	společnosti	NNFS2-----A----	Atr
+8	Linea	NNFS1-----A----	Atr
+9	Nivnice	NNFS1-----A----	Atr
+10	Pavel	NNMS1-----A----	Atr
+11	Ambros	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94206-24-p3s1
+1	Tento	PDIS4----------	Atr
+2	sortiment	NNIS4-----A----	Obj
+3	bude	VB-S---3F-AA---	AuxV
+4	Linea	NNFS1-----A----	Sb
+5	dodávat	Vf--------A----	Pred
+6	na	RR--4----------	AuxP
+7	trh	NNIS4-----A----	Adv
+8	za	RR--4----------	AuxP
+9	podstatně	Dg-------1A----	Adv
+10	nižší	AAFP4----2A----	Atr
+11	ceny	NNFP4-----A----	Adv
+12	než	J,-------------	AuxC
+13	současní	AAMP1----1A----	Atr
+14	dovozci	NNMP1-----A----	ExD
+15	.	Z:-------------	AuxK
+
+ln94206-24-p3s2
+1	Za	RR--4----------	AuxP
+2	litrovou	AAFS4----1A----	Atr
+3	krabici	NNFS4-----A----	Obj
+4	stoprocentní	AAFS2----1A----	Atr
+5	jablečné	AAFS2----1A----	Atr
+6	šťávy	NNFS2-----A----	Atr
+7	by	Vc-------------	AuxV
+8	měli	VpMP---XR-AA---	Pred
+9	odběratelé	NNMP1-----A----	Sb
+10	zaplatit	Vf--------A----	Obj
+11	11.90	C=-------------	Obj
+12	koruny	NNFS2-----A----	Atr
+13	,	Z:-------------	Coord
+14	cena	NNFS1-----A----	Sb
+15	pomerančové	AAFS2----1A----	Atr
+16	šťávy	NNFS2-----A----	Atr
+17	se	P7-X4----------	AuxT
+18	bude	VB-S---3F-AA---	AuxV
+19	pohybovat	Vf--------A----	Pred
+20	kolem	RR--2----------	AuxP
+21	16	C=-------------	Atr
+22	korun	NNFP2-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94206-24-p4s1
+1	Letošní	AAIS1----1A----	Atr
+2	obrat	NNIS1-----A----	Sb
+3	akciové	AAFS2----1A----	Atr
+4	společnosti	NNFS2-----A----	Atr
+5	Linea	NNFS1-----A----	Atr
+6	Nivnice	NNFS1-----A----	Atr
+7	by	Vc-------------	AuxV
+8	měl	VpYS---XR-AA---	Pred
+9	dosáhnout	Vf--------A----	Obj
+10	400	C=-------------	Atr
+11	milionů	NNIP2-----A----	Obj
+12	korun	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94206-24-p4s2
+1	Její	PSIS4FS3-------	Atr
+2	zisk	NNIS4-----A----	Obj
+3	odhaduje	VB-S---3P-AA---	Pred
+4	P	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Ambros	NNMS1-----A----	Sb
+7	zhruba	Db-------------	AuxZ
+8	na	RR--4----------	AuxP
+9	15	C=-------------	Obj
+10	milionů	NNIP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94206-24-p4s3
+1	Linea	NNFS1-----A----	Sb
+2	vyrábí	VB-S---3P-AA---	Pred
+3	ročně	Dg-------1A----	Adv
+4	zhruba	Db-------------	AuxZ
+5	25000	C=-------------	Obj
+6	tun	NNFP2-----A----	Atr
+7	výrobků	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	z	RR--2----------	AuxP
+10	toho	PDZS2----------	Adv
+11	7000	C=-------------	Sb
+12	až	J^-------------	Coord
+13	8000	C=-------------	Sb
+14	tun	NNFP2-----A----	Atr
+15	připadá	VB-S---3P-AA---	Pred
+16	na	RR--4----------	AuxP
+17	alkoholické	AAIP4----1A----	Atr
+18	nápoje	NNIP4-----A----	Obj
+19	a	J^-------------	Coord
+20	zbytek	NNIS4-----A----	Obj
+21	tvoří	VB-P---3P-AA---	Pred
+22	nápoje	NNIP1-----A----	Sb
+23	nealkoholické	AAIP1----1N----	Atr
+24	.	Z:-------------	AuxK
+
+ln94206-24-p5s1
+1	V	RR--6----------	AuxP
+2	probíhající	AGFS6-----A----	Atr
+3	druhé	CrFS6----------	Atr
+4	vlně	NNFS6-----A----	Adv
+5	kuponové	AAFS2----1A----	Atr
+6	privatizace	NNFS2-----A----	Atr
+7	nabízí	VB-S---3P-AA---	Pred
+8	Linea	NNFS1-----A----	Sb
+9	zhruba	Db-------------	AuxZ
+10	44	C=-------------	Obj
+11	procent	NNNP2-----A----	Atr
+12	ze	RV--2----------	AuxP
+13	74	C=-------------	Atr
+14	milionů	NNIP2-----A----	Atr
+15	korun	NNFP2-----A----	Atr
+16	základního	AANS2----1A----	Atr
+17	jmění	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94206-24-p5s2
+1	Třináct	Cn-S4----------	Obj
+2	procent	NNNP2-----A----	Atr
+3	akcií	NNFP2-----A----	Atr
+4	společnosti	NNFS2-----A----	Atr
+5	získali	VpMP---XR-AA---	Pred
+6	restituenti	NNMP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	pět	Cn-S1----------	Sb
+9	procent	NNNP2-----A----	Atr
+10	akcií	NNFP2-----A----	Atr
+11	bylo	VpNS---XR-AA---	AuxV
+12	bezúplatně	Dg-------1A----	Adv
+13	převedeno	VsNS---XX-AP---	Pred
+14	na	RR--4----------	AuxP
+15	město	NNNS4-----A----	Obj
+16	Nivnice	NNFS1-----A----	Atr
+17	,	Z:-------------	AuxX
+18	31	C=-------------	Obj
+19	procent	NNNP2-----A----	Atr
+20	akcií	NNFP2-----A----	Atr
+21	vlastní	VB-S---3P-AA---	Pred
+22	management	NNIS1-----A----	Sb
+23	společnosti	NNFS2-----A----	Atr
+24	a	J^-------------	Coord
+25	zbývající	AGFP1-----A----	Atr
+26	akcie	NNFP1-----A----	Sb
+27	byly	VpTP---XR-AA---	AuxV
+28	přiděleny	VsTP---XX-AP---	Pred
+29	fondům	NNIP3-----A----	Obj
+30	RIF	NNIXX-----A---8	Atr
+31	a	J^-------------	Coord
+32	NIF	NNIXX-----A---8	Atr
+33	.	Z:-------------	AuxK
+
+ln94206-24-p5s3
+1	Linea	NNFS1-----A----	Sb
+2	Nivnice	NNFS1-----A----	Atr
+3	zaměstnává	VB-S---3P-AA---	Pred
+4	asi	TT-------------	AuxZ
+5	240	C=-------------	Obj
+6	pracovníků	NNMP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	jejichž	P1XXXXP3-------	Atr
+9	stav	NNIS4-----A----	Obj
+10	hodlá	VB-S---3P-AA---	Atr
+11	ještě	Db-------------	AuxZ
+12	zvýšit	Vf--------A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94206-24-p5s4
+1	Průměrná	AAFS1----1A----	Atr
+2	mzda	NNFS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Linee	NNFS6-----A---1	Atr
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	dosahuje	VB-S---3P-AA---	Atr
+8	5500	C=-------------	Atr
+9	korun	NNFP2-----A----	Obj
+10	,	Z:-------------	AuxX
+11	by	Vc-------------	AuxV
+12	se	P7-X4----------	AuxR
+13	měla	VpQW---XR-AA---	Pred
+14	podle	RR--2----------	AuxP
+15	P	NNMXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	Ambrose	NNMS2-----A----	Adv
+18	do	RR--2----------	AuxP
+19	konce	NNIS2-----A----	Adv
+20	roku	NNIS2-----A---1	Atr
+21	zvýšit	Vf--------A----	Obj
+22	na	RR--4----------	AuxP
+23	6000	C=-------------	Obj
+24	korun	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94206-24-p5s5
+1	Výše	NNFS1-----A----	Sb
+2	pohledávek	NNFP2-----A----	Atr
+3	za	RR--7----------	AuxP
+4	odběrateli	NNMP7-----A----	Atr
+5	po	RR--6----------	AuxP
+6	lhůtě	NNFS6-----A----	Atr
+7	splatnosti	NNFS2-----A----	Atr
+8	činí	VB-S---3P-AA---	Pred
+9	asi	TT-------------	AuxZ
+10	20	C=-------------	Obj
+11	milionů	NNIP2-----A----	Atr
+12	korun	NNFP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	pět	Cn-S1----------	Sb
+15	až	J^-------------	Coord
+16	šest	Cn-S1----------	Sb
+17	milionů	NNIP2-----A----	Atr
+18	korun	NNFP2-----A----	Atr
+19	z	RR--2----------	AuxP
+20	této	PDFS2----------	Atr
+21	částky	NNFS2-----A----	Atr
+22	vázne	VB-S---3P-AA---	Pred
+23	společnosti	NNFS3-----A----	Adv
+24	v	RR--6----------	AuxP
+25	současné	AAFS6----1A----	Atr
+26	době	NNFS6-----A----	Adv
+27	na	RR--6----------	AuxP
+28	Slovensku	NNNS6-----A----	Adv
+29	.	Z:-------------	AuxK
+
+ln94206-24-p6s1
+1	Zhruba	Db-------------	AuxZ
+2	pětinu	CyFS4----------	Obj
+3	obratu	NNIS2-----A----	Atr
+4	společnosti	NNFS2-----A----	Atr
+5	tvoří	VB-P---3P-AA---	Pred
+6	alkoholické	AAIP1----1A----	Atr
+7	nápoje	NNIP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	které	P4IP1----------	Sb
+10	jsou	VB-P---3P-AA---	Atr
+11	určené	AAIP1----1A----	Pnom
+12	především	Db-------------	AuxZ
+13	pro	RR--4----------	AuxP
+14	domácí	AAIS4----1A----	Atr
+15	trh	NNIS4-----A----	Adv
+16	,	Z:-------------	Coord
+17	zbytek	NNIS4-----A----	ExD
+18	limonády	NNFP1-----A----	ExD
+19	,	Z:-------------	AuxX
+20	ovocné	AAIP1----1A----	Atr
+21	koncentráty	NNIP1-----A----	ExD
+22	a	J^-------------	Coord
+23	jiné	AAIP1----1A----	Atr
+24	nealkoholické	AAIP1----1N----	Atr
+25	nápoje	NNIP1-----A----	ExD
+26	.	Z:-------------	AuxK
+
+ln94206-24-p6s2
+1	Podle	RR--2----------	AuxP
+2	P	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Ambrose	NNMS2-----A----	Adv
+5	Linea	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	poslední	AAFS6----1A----	Atr
+8	době	NNFS6-----A----	Adv
+9	vůbec	Db-------------	AuxZ
+10	nevyváží	VB-S---3P-NA---	Pred
+11	na	RR--4----------	AuxP
+12	Slovensko	NNNS4-----A----	Adv
+13	,	Z:-------------	AuxX
+14	především	Db-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	důsledku	NNIS6-----A----	AuxP
+17	současných	AAFP2----1A----	Atr
+18	administrativních	AAFP2----1A----	Atr
+19	bariér	NNFP2-----A----	Adv
+20	ze	RV--2----------	AuxP
+21	slovenské	AAFS2----1A----	Atr
+22	strany	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94206-24-p6s3
+1	Hlavními	AAMP7----1A----	Atr
+2	zahraničními	AAMP7----1A----	Atr
+3	odběrateli	NNMP7-----A----	Pnom
+4	jsou	VB-P---3P-AA---	Pred
+5	dnes	Db-------------	Adv
+6	státy	NNIP1-----A----	Sb
+7	bývalého	AAIS2----1A----	Atr
+8	Sovětského	AAIS2----1A----	Atr
+9	svazu	NNIS2-----A----	Atr
+10	,	Z:-------------	Apos
+11	Ukrajina	NNFS1-----A----	Sb
+12	a	J^-------------	Coord
+13	Kazachstán	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94206-24-p7s1
+1	Výrobní	AAFP1----1A----	Atr
+2	prostory	NNFP1-----A----	Sb
+3	společnosti	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	rozkládají	VB-P---3P-AA---	Pred
+6	na	RR--6----------	AuxP
+7	ploše	NNFS6-----A----	Adv
+8	osmi	Cn-P2----------	Atr
+9	hektarů	NNIP2-----A----	Atr
+10	a	J^-------------	Coord
+11	zahrnují	VB-P---3P-AA---	Pred
+12	tři	ClXP4----------	Atr
+13	výrobní	AANP4----1A----	Atr
+14	střediska	NNNP4-----A----	Obj
+15	,	Z:-------------	Apos
+16	lisovnu	NNFS4-----A----	Obj
+17	ovoce	NNNS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	výrobnu	NNFS4-----A----	Obj
+20	nealkoholických	AAIP2----1N----	Atr
+21	nápojů	NNIP2-----A----	Atr
+22	a	J^-------------	Coord
+23	sirupů	NNIP2-----A----	Atr
+24	a	J^-------------	Coord
+25	výrobnu	NNFS4-----A----	Obj
+26	lihovin	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94206-24-p7s2
+1	Celkové	AANS1----1A----	Atr
+2	množství	NNNS1-----A----	Sb
+3	druhů	NNIP2-----A----	Atr
+4	výrobků	NNIP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	které	P4YP4----------	Obj
+7	Linea	NNFS1-----A----	Sb
+8	vyrábí	VB-S---3P-AA---	AtrAtr
+9	,	Z:-------------	AuxX
+10	je	VB-S---3P-AA---	Pred
+11	kolem	RR--2----------	AuxP
+12	100	C=-------------	Adv
+13	,	Z:-------------	Coord
+14	z	RR--2----------	AuxP
+15	toho	PDZS2----------	Adv
+16	je	VB-S---3P-AA---	Pred
+17	zhruba	Db-------------	AuxZ
+18	40	C=-------------	Sb
+19	druhů	NNIP2-----A----	Atr
+20	sirupů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+

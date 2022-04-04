@@ -1,0 +1,244 @@
+mf920924-035-p1s1A
+1	Vláda	NNFS1-----A----	Sb
+2	ČR	NNFXX-----A---8	Atr
+3	navrhuje	VB-S---3P-AA---	Pred
+4	celní	AAFS4----1A----	Atr
+5	unii	NNFS4-----A----	Obj
+
+mf920924-035-p1s1B
+1	KLAUS	NNMS1-----A----	Sb
+2	VYZÝVÁ	VB-S---3P-AA---	Pred
+3	MEČIARA	NNMS4-----A----	Obj
+4	K	RR--3----------	AuxP
+5	JEDNÁNÍ	NNNS3-----A----	Adv
+
+mf920924-035-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jem	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920924-035-p2s2
+1	Česká	AAFS1----1A----	Atr
+2	vláda	NNFS1-----A----	Sb
+3	na	RR--6----------	AuxP
+4	svém	P8ZS6----------	Atr
+5	včerejším	AANS6----1A----	Atr
+6	zasedání	NNNS6-----A----	Adv
+7	projednala	VpQW---XR-AA---	Pred
+8	výzvu	NNFS4-----A----	Obj
+9	vládě	NNFS3-----A----	Atr
+10	Slovenské	AAFS2----1A----	Atr
+11	republiky	NNFS2-----A----	Atr
+12	k	RR--3----------	AuxP
+13	jednání	NNNS3-----A----	Atr
+14	o	RR--6----------	AuxP
+15	smlouvách	NNFP6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4FP1----------	Sb
+18	by	Vc-------------	AuxV
+19	měly	VpTP---XR-AA---	Atr
+20	v	RR--6----------	AuxP
+21	budoucnu	NNNS6-----A----	Adv
+22	řešit	Vf--------A----	Obj
+23	vztah	NNIS4-----A----	Obj
+24	mezi	RR--7----------	AuxP
+25	oběma	ClFD7----------	Atr
+26	samostatnými	AAFP7----1A----	Atr
+27	republikami	NNFP7-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf920924-035-p2s3
+1	Český	AAMS1----1A----	Atr
+2	premiér	NNMS1-----A----	Atr
+3	Václav	NNMS1-----A----	Atr
+4	Klaus	NNMS1-----A----	Sb
+5	k	RR--3----------	AuxP
+6	tomu	PDZS3----------	Adv
+7	po	RR--6----------	AuxP
+8	zasedání	NNNS6-----A----	Adv
+9	svého	P8ZS2----------	Atr
+10	kabinetu	NNIS2-----A----	Atr
+11	uvedl	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	setkání	NNNS1-----A----	Sb
+15	české	AAFS2----1A----	Atr
+16	a	J^-------------	Coord
+17	slovenské	AAFS2----1A----	Atr
+18	vlády	NNFS2-----A----	Atr
+19	by	Vc-------------	AuxV
+20	se	P7-X4----------	AuxR
+21	mělo	VpNS---XR-AA---	Obj
+22	uskutečnit	Vf--------A----	Obj
+23	co	Db-------------	Adv
+24	nejdříve	Dg-------3A----	Adv
+25	na	RR--6----------	AuxP
+26	zámku	NNIS6-----A----	Adv
+27	ve	RV--6----------	AuxP
+28	Lnářích	NNMP6-----A----	Atr
+29	nebo	J^-------------	Coord
+30	Židlochovicích	NNFP6-----A----	Atr
+31	.	Z:-------------	AuxK
+
+mf920924-035-p2s4
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	slov	NNNP2-----A----	Adv
+4	je	VB-S---3P-AA---	AuxV
+5	exekutiva	NNFS1-----A----	Sb
+6	ČR	NNFXX-----A---8	Atr
+7	připravena	VsQW---XX-AP---	Pred
+8	předložit	Vf--------A----	Obj
+9	na	RR--6----------	AuxP
+10	tomto	PDZS6----------	Atr
+11	jednání	NNNS6-----A----	Adv
+12	mj	Db------------8	Adv
+13	.	Z:-------------	AuxG
+14	návrh	NNIS4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	vytvoření	NNNS4-----A----	Atr
+17	celní	AAFS2----1A----	Atr
+18	unie	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920924-035-p2s5
+1	Premiér	NNMS1-----A----	Sb
+2	dále	Db------------1	Adv
+3	vyslovil	VpYS---XR-AA---	Pred
+4	lítost	NNFS4-----A----	Obj
+5	nad	RR--7----------	AuxP
+6	tím	PDZS7----------	Atr
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	poslanci	NNMP1-----A----	Sb
+10	ČNR	NNFXX-----A---8	Atr
+11	nerespektovali	VpMP---XR-NA---	Atr
+12	doporučení	NNNS4-----A----	Obj
+13	vlády	NNFS2-----A----	Atr
+14	ohledně	RR--2----------	AuxP
+15	sídla	NNNS2-----A----	Atr
+16	českého	AAIS2----1A----	Atr
+17	sněmu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920924-035-p2s6
+1	Rovněž	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	pozastavil	VpYS---XR-AA---	Pred
+4	nad	RR--7----------	AuxP
+5	snahou	NNFS7-----A----	Obj
+6	některých	PZXP2----------	Atr
+7	poslanců	NNMP2-----A----	Atr
+8	politizovat	Vf--------A----	Atr
+9	kompetenční	AAIS4----1A----	Atr
+10	zákon	NNIS4-----A----	Obj
+11	ČR	NNFXX-----A---8	Atr
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	by	Vc-------------	AuxV
+15	mohl	VpYS---XR-AA---	Atr
+16	být	Vf--------A----	Obj
+17	podle	RR--2----------	AuxP
+18	jeho	PSXXXZS3-------	Atr
+19	názoru	NNIS2-----A----	Adv
+20	pouze	Db-------------	AuxZ
+21	vnitřní	AAFS7----1A----	Atr
+22	směrnicí	NNFS7-----A----	Pnom
+23	vlády	NNFS2-----A----	Atr
+24	o	RR--6----------	AuxP
+25	rozdělení	NNNS6-----A----	Atr
+26	práce	NNFS2-----A----	Atr
+27	jednotlivých	AAMP2----1A----	Atr
+28	ministrů	NNMP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+mf920924-035-p2s7
+1	Za	RR--4----------	AuxP
+2	základní	AAFP4----1A----	Atr
+3	priority	NNFP4-----A----	Obj
+4	české	AAFS2----1A----	Atr
+5	zahraniční	AAFS2----1A----	Atr
+6	politiky	NNFS2-----A----	Atr
+7	označil	VpYS---XR-AA---	Pred
+8	Václav	NNMS1-----A----	Atr
+9	Klaus	NNMS1-----A----	Sb
+10	hospodářsko	A2--------A----	Atr
+11	-	Z:-------------	AuxG
+12	strategické	AAIP4----1A----	Atr
+13	a	J^-------------	Coord
+14	obecně	Dg-------1A----	Adv
+15	bezpečnostní	AAIP4----1A----	Atr
+16	zájmy	NNIP4-----A----	Obj
+17	ČR	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+
+mf920924-035-p2s8
+1	Ministr	NNMS1-----A----	Atr
+2	zahraničních	AAIP2----1A----	Atr
+3	vztahů	NNIP2-----A----	Atr
+4	ČR	NNFXX-----A---8	Atr
+5	Josef	NNMS1-----A----	Atr
+6	Zieleniec	NNMS1-----A----	Sb
+7	poté	Db-------------	Adv
+8	charakterizoval	VpYS---XR-AA---	Pred
+9	hlavní	AAIP4----1A----	Atr
+10	cíle	NNIP4-----A----	Obj
+11	svého	P8ZS2----------	Atr
+12	úřadu	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920924-035-p2s9
+1	Jak	Db-------------	AuxC
+2	řekl	VpYS---XR-AA---	Adv
+3	,	Z:-------------	AuxX
+4	snahou	NNFS7-----A----	Pnom
+5	samostatného	AAIS2----1A----	Atr
+6	českého	AAIS2----1A----	Atr
+7	státu	NNIS2-----A----	Atr
+8	bude	VB-S---3F-AA---	Pred
+9	dosáhnout	Vf--------A----	Sb
+10	dobrých	AAIP2----1A----	Atr
+11	vztahů	NNIP2-----A----	Obj
+12	se	RV--7----------	AuxP
+13	svými	P8XP7----------	Atr
+14	sousedy	NNMP7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920924-035-p2s10
+1	Především	Db-------------	ExD
+2	vyrovnaných	AAIP2----1A----	Atr
+3	kontaktů	NNIP2-----A----	ExD
+4	se	RV--7----------	AuxP
+5	SRN	NNFXX-----A---8	Atr
+6	a	J^-------------	Coord
+7	široké	AAFS2----1A----	Atr
+8	spolupráce	NNFS2-----A----	ExD
+9	se	RV--7----------	AuxP
+10	Slovenskou	AAFS7----1A----	Atr
+11	republikou	NNFS7-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920924-035-p2s11
+1	Za	RR--4----------	AuxP
+2	stejně	Dg-------1A----	Adv
+3	významné	AAIP4----1A----	Obj
+4	považuje	VB-S---3P-AA---	Pred
+5	česká	AAFS1----1A----	Atr
+6	vláda	NNFS1-----A----	Sb
+7	vztahy	NNIP4-----A----	Obj
+8	ČR	NNFXX-----A---8	Atr
+9	vůči	RR--3----------	AuxP
+10	mocnostem	NNFP3-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jakými	P4XP7----------	Pnom
+13	jsou	VB-P---3P-AA---	Atr
+14	např	Db------------8	AuxZ
+15	.	Z:-------------	AuxG
+16	USA	NNIPX-----A----	Sb
+17	a	J^-------------	Coord
+18	Velká	AAFS1----1A----	Atr
+19	Británie	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+

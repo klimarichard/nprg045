@@ -1,0 +1,155 @@
+mf920901-041-p1s1
+1	Kamióny	NNIP1-----A----	ExD
+2	po	RR--6----------	AuxP
+3	dráze	NNFS6-----A----	ExD
+
+mf920901-041-p2s1A
+1	Ústí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Labem	NNNS7-----A----	Atr
+4	(	Z:-------------	ExD
+5	hv	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+mf920901-041-p2s1B
+1	Neúnosnou	AAFS4----1N----	Atr
+2	situaci	NNFS4-----A----	Obj
+3	na	RR--6----------	AuxP
+4	přechodech	NNIP6-----A----	Atr
+5	při	RR--6----------	AuxP
+6	odbavení	NNNS6-----A----	Atr
+7	kamiónů	NNIP2-----A----	Atr
+8	vyvážejících	AGIP2-----A----	Atr
+9	z	RR--2----------	AuxP
+10	Československa	NNNS2-----A----	Adv
+11	sypké	AAFP4----1A----	Atr
+12	stavební	AAFP4----1A----	Atr
+13	hmoty	NNFP4-----A----	Obj
+14	mají	VB-P---3P-AA---	Pred
+15	z	RR--2----------	AuxP
+16	rozhodnutí	NNNS2-----A----	Adv
+17	Federálního	AANS2----1A----	Atr
+18	ministerstva	NNNS2-----A----	Atr
+19	zahraničního	AAIS2----1A----	Atr
+20	obchodu	NNIS2-----A----	Atr
+21	od	RR--2----------	AuxP
+22	1	C=-------------	Atr
+23	.	Z:-------------	AuxG
+24	srpna	NNIS2-----A----	Adv
+25	řešit	Vf--------A----	Obj
+26	talóny	NNIP1-----A----	Sb
+27	k	RR--3----------	AuxP
+28	vývozní	AAFS3----1A----	Atr
+29	licenci	NNFS3-----A----	Atr
+30	.	Z:-------------	AuxK
+
+mf920901-041-p2s2
+1	Z	RR--2----------	AuxP
+2	republiky	NNFS2-----A----	Adv
+3	jde	VB-S---3P-AA---	Pred
+4	ročně	Dg-------1A----	Adv
+5	až	TT-------------	AuxZ
+6	sedm	Cn-S1----------	Sb
+7	miliónů	NNIP2-----A----	Atr
+8	tun	NNFP2-----A----	Atr
+9	stavebních	AAFP2----1A----	Atr
+10	hmot	NNFP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	do	RR--2----------	AuxP
+13	srpna	NNIS2-----A----	ExD
+14	až	TT-------------	AuxZ
+15	ze	RV--2----------	AuxP
+16	70	C=-------------	Atr
+17	%	Z:-------------	ExD
+18	po	RR--6----------	AuxP
+19	silnici	NNFS6-----A----	ExD
+20	.	Z:-------------	AuxK
+
+mf920901-041-p2s3
+1	Ministerstvo	NNNS1-----A----	Sb
+2	vydalo	VpNS---XR-AA---	Pred
+3	talóny	NNIP4-----A----	Obj
+4	jen	TT-------------	AuxZ
+5	na	RR--4----------	AuxP
+6	40	C=-------------	Adv
+7	%	Z:-------------	Atr
+8	vyváženého	AAIS2----1A----	Atr
+9	objemu	NNIS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	zbytek	NNIS4-----A----	Obj
+12	musí	VB-P---3P-AA--1	Pred
+13	vývozci	NNMP1-----A----	Sb
+14	dopravovat	Vf--------A----	Obj
+15	po	RR--6----------	AuxP
+16	železnici	NNFS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+mf920901-041-p2s4
+1	Talóny	NNIP7-----A----	Obj
+2	je	VB-S---3P-AA---	Pred
+3	dnes	Db-------------	Adv
+4	vybaveno	VsNS---XX-AP---	Pnom
+5	96	C=-------------	Sb
+6	%	Z:-------------	Atr
+7	kamiónů	NNIP2-----A----	Atr
+8	opouštějících	AGIP2-----A----	Atr
+9	republiku	NNFS4-----A----	Obj
+10	,	Z:-------------	Coord
+11	výraznější	AAIS4----2A----	Atr
+12	efekt	NNIS4-----A----	Obj
+13	však	J^-------------	AuxY
+14	celníci	NNMP1-----A----	Sb
+15	očekávají	VB-P---3P-AA---	Pred
+16	až	TT-------------	AuxZ
+17	po	RR--6----------	AuxP
+18	vyčerpání	NNNS6-----A----	Adv
+19	40	C=-------------	Atr
+20	%	Z:-------------	Atr
+21	licenční	AAFS2----1A----	Atr
+22	kvóty	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf920901-041-p2s5
+1	První	CrIS4----------	Atr
+2	ucelený	AAIS4----1A----	Atr
+3	vlak	NNIS4-----A----	Obj
+4	o	RR--6----------	AuxP
+5	15	C=-------------	Atr
+6	kamiónech	NNIP6-----A----	Atr
+7	vypravila	VpQW---XR-AA---	Pred
+8	dráha	NNFS1-----A----	Sb
+9	do	RR--2----------	AuxP
+10	Německa	NNNS2-----A----	Adv
+11	minulý	AAIS4----1A----	Atr
+12	týden	NNIS4-----A----	Adv
+13	.	Z:-------------	AuxK
+
+mf920901-041-p2s6
+1	Vedoucí	NNMS1-----A----	Sb
+2	přepravního	AANS2----1A----	Atr
+3	a	J^-------------	Coord
+4	obchodního	AANS2----1A----	Atr
+5	oddělení	NNNS2-----A----	Atr
+6	Provozního	AANS2----1A----	Atr
+7	pracoviště	NNNS2-----A----	Atr
+8	ČSD	NNFPX-----A---8	Atr
+9	v	RR--6----------	AuxP
+10	Ústí	NNNS6-----A----	Atr
+11	nad	RR--7----------	AuxP
+12	Labem	NNNS7-----A----	Atr
+13	předpokládá	VB-S---3P-AA---	Pred
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	v	RR--6----------	AuxP
+17	září	NNNS6-----A----	Adv
+18	bude	VB-S---3F-AA---	AuxV
+19	dráha	NNFS1-----A----	Sb
+20	vypravovat	Vf--------A----	Obj
+21	průměrně	Dg-------1A----	Adv
+22	jeden	ClIS4----------	Atr
+23	vlak	NNIS4-----A----	Obj
+24	kamiónů	NNIP2-----A----	Atr
+25	denně	Dg-------1A----	Adv
+26	.	Z:-------------	AuxK
+

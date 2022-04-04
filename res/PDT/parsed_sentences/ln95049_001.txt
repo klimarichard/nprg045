@@ -1,0 +1,148 @@
+ln95049-001-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln95049-001-p2s1
+1	Ceny	NNFP1-----A----	Sb
+2	energie	NNFS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	Rakousku	NNNS6-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	malospotřebitele	NNMP4-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	v	RR--6----------	AuxP
+9	lednu	NNIS6-----A----	Adv
+10	zvýšily	VpTP---XR-AA---	Pred
+11	o	RR--4----------	AuxP
+12	0.6	C=-------------	Adv
+13	procenta	NNNS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	porovnání	NNNS6-----A----	AuxP
+16	s	RR--7----------	AuxP
+17	lednem	NNIS7-----A----	Adv
+18	loňského	AAIS2----1A----	Atr
+19	roku	NNIS2-----A---1	Atr
+20	,	Z:-------------	AuxX
+21	zatímco	J,-------------	AuxC
+22	v	RR--6----------	AuxP
+23	prosinci	NNIS6-----A----	Adv
+24	stouply	VpTP---XR-AA--1	Adv
+25	v	RR--6----------	AuxP
+26	meziročním	AANS6----1A----	Atr
+27	srovnání	NNNS6-----A----	Adv
+28	o	RR--4----------	AuxP
+29	dvě	ClHP4----------	Atr
+30	procenta	NNNP4-----A----	Adv
+31	.	Z:-------------	AuxK
+
+ln95049-001-p3s1
+1	Brno	NNNS1-----A----	Sb
+2	chce	VB-S---3P-AA---	Pred
+3	přiblížit	Vf--------A----	Obj
+4	britským	AAMP3----1A----	Atr
+5	zájemcům	NNMP3-----A----	Obj
+6	podnikatelské	AAFP4----1A----	Atr
+7	možnosti	NNFP4-----A----	Obj
+8	na	RR--6----------	AuxP
+9	své	P8FS6---------1	Atr
+10	prezentaci	NNFS6-----A----	Adv
+11	v	RR--6----------	AuxP
+12	obchodních	AAFP6----1A----	Atr
+13	komorách	NNFP6-----A----	Atr
+14	28	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	února	NNIS2-----A---1	AtrAdv
+17	v	RR--6----------	AuxP
+18	Londýně	NNIS6-----A----	AtrAdv
+19	a	J^-------------	Coord
+20	2	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	března	NNIS2-----A----	ExD
+23	v	RR--6----------	AuxP
+24	Leedsu	NNIS6-----A----	ExD
+25	.	Z:-------------	AuxK
+
+ln95049-001-p4s1
+1	Rakouský	AAIS1----1A----	Atr
+2	kapitál	NNIS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	zájem	NNIS4-----A----	Obj
+5	o	RR--4----------	AuxP
+6	slovenský	AAIS4----1A----	Atr
+7	petrochemický	AAIS4----1A----	Atr
+8	průmysl	NNIS4-----A----	Atr
+9	,	Z:-------------	AuxX
+10	zejména	Db-------------	AuxZ
+11	o	RR--4----------	AuxP
+12	výrobu	NNFS4-----A----	Atr
+13	benzínů	NNIP2-----A----	Atr
+14	a	J^-------------	Coord
+15	minerálních	AAIP2----1A----	Atr
+16	olejů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95049-001-p5s1
+1	Slovinské	AANS1----1A----	Atr
+2	ministerstvo	NNNS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	hospodářské	AAIP4----1A----	Atr
+5	vztahy	NNIP4-----A----	Atr
+6	a	J^-------------	Coord
+7	rozvoj	NNIS4-----A----	Atr
+8	hodlá	VB-S---3P-AA---	Pred
+9	podpořit	Vf--------A----	Obj
+10	příliv	NNIS4-----A----	Obj
+11	cizího	AAIS2----1A----	Atr
+12	kapitálu	NNIS2-----A----	Atr
+13	do	RR--2----------	AuxP
+14	země	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95049-001-p5s2
+1	Objem	NNIS1-----A----	Sb
+2	zahraničního	AAIS2----1A----	Atr
+3	kapitálu	NNIS2-----A----	Atr
+4	zatím	Db-------------	Adv
+5	činí	VB-S---3P-AA---	Pred
+6	800	C=-------------	Obj
+7	miliónů	NNIP2-----A----	Atr
+8	dolarů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95049-001-p6s1
+1	Ceny	NNFP1-----A----	Sb
+2	surového	AANS2----1A----	Atr
+3	dřeva	NNNS2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	trhu	NNIS6-----A----	AtrAdv
+6	v	RR--6----------	AuxP
+7	České	AAFS6----1A----	Atr
+8	republice	NNFS6-----A----	Atr
+9	vzrostly	VpTP---XR-AA---	Pred
+10	v	RR--6----------	AuxP
+11	lednu	NNIS6-----A----	Adv
+12	proti	RR--3----------	AuxP
+13	stejnému	AANS3----1A----	Atr
+14	období	NNNS3-----A----	Adv
+15	loni	Db------------1	Atr
+16	o	RR--4----------	AuxP
+17	7.6	C=-------------	Adv
+18	procenta	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95049-001-p7s1
+1	Téměř	Db-------------	AuxZ
+2	25	C=-------------	Sb
+3	miliónů	NNIP2-----A----	Atr
+4	zahraničních	AAMP2----1A----	Atr
+5	návštěvníků	NNMP2-----A----	Atr
+6	přijelo	VpNS---XR-AA---	Pred
+7	ve	RV--6----------	AuxP
+8	čtvrtém	CrNS6----------	Atr
+9	čtvrtletí	NNNS6-----A----	Adv
+10	loňského	AAIS2----1A----	Atr
+11	roku	NNIS2-----A---1	Atr
+12	do	RR--2----------	AuxP
+13	České	AAFS2----1A----	Atr
+14	republiky	NNFS2-----A----	Adv
+15	.	Z:-------------	AuxK
+

@@ -1,0 +1,302 @@
+lnd91303-056-p1s1
+1	Magická	AAFS1----1A----	Atr
+2	skříňka	NNFS1-----A----	ExD
+
+lnd91303-056-p2s1
+1	Na	RR--6----------	AuxP
+2	konci	NNIS6-----A----	Adv
+3	starého	AAIS2----1A----	ExD
+4	a	J^-------------	Coord
+5	na	RR--6----------	AuxP
+6	začátku	NNIS6-----A----	Adv
+7	nového	AAIS2----1A----	Atr
+8	roku	NNIS2-----A---1	Atr
+9	si	P7-X3----------	AuxT
+10	stále	Dg-------1A----	Adv
+11	stejně	Dg-------1A----	Adv
+12	starý	AAMS1----1A----	Sb
+13	nový	AAMS1----1A----	Atr
+14	člověk	NNMS1-----A----	Atr
+15	připadá	VB-S---3P-AA---	Pred
+16	vykořeněný	AAMS1----1A----	Obj
+17	a	J^-------------	Coord
+18	unavený	AAMS1----1A----	Obj
+19	.	Z:-------------	AuxK
+
+lnd91303-056-p2s2
+1	Kde	Db-------------	Adv
+2	sebrat	Vf--------A----	Pred
+3	další	AAFS4----1A----	Atr
+4	energii	NNFS4-----A----	Obj
+5	a	J^-------------	Coord
+6	rozhlédnout	Vf--------A----	Pred
+7	se	P7-X4----------	AuxT
+8	kolem	RR--2----------	AuxP
+9	sebe	P6-X2----------	Adv
+10	?	Z:-------------	AuxK
+
+lnd91303-056-p2s3
+1	Nabízím	VB-S---1P-AA---	Pred
+2	návod	NNIS4-----A----	Obj
+3	k	RR--3----------	AuxP
+4	prvnímu	CrIS3----------	Atr
+5	kroku	NNIS3-----A----	Atr
+6	:	Z:-------------	Apos
+7	vejít	Vf--------A----	Obj
+8	do	RR--2----------	AuxP
+9	magické	AAFS2----1A----	Atr
+10	skříňky	NNFS2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+lnd91303-056-p3s1
+1	Prostor	NNIS1-----A----	Sb
+2	"	Z:-------------	AuxG
+3	za	RR--7----------	AuxP
+4	zrcadlem	NNNS7-----A----	Atr
+5	"	Z:-------------	AuxG
+6	se	P7-X4----------	AuxT
+7	nachází	VB-S---3P-AA---	Pred
+8	v	RR--6----------	AuxP
+9	domě	NNIS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	je	VB-S---3P-AA---	Atr
+13	starší	AAIS1----2A----	Pnom
+14	než	J,-------------	AuxC
+15	Lewis	NNMS1-----A----	Atr
+16	Carroll	NNMS1-----A----	ExD
+17	.	Z:-------------	AuxK
+
+lnd91303-056-p3s2A
+1	V	RR--6----------	AuxP
+2	Diezenhoferově	AUIS6M---------	Atr
+3	domě	NNIS6-----A----	Adv
+4	z	RR--2----------	AuxP
+5	r	NNIXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	1725	C=-------------	Atr
+8	v	RR--6----------	AuxP
+9	Praze	NNFS6-----A----	Atr
+10	na	RR--6----------	AuxP
+11	Smíchově	NNIS6-----A----	Adv
+12	sídlil	VpYS---XR-AA---	Pred
+13	úřad	NNIS1-----A----	Sb
+14	Národní	AAFS2----1A----	Atr
+15	fronty	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	i	J^-------------	AuxZ
+19	galerie	NNFS1-----A----	Sb
+20	D	AAXXX----1A---8	Atr
+21	.	Z:-------------	AuxK
+
+lnd91303-056-p3s2B
+1	Nyní	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	předmětem	NNIS7-----A----	Pnom
+4	konkursu	NNIS2-----A----	Atr
+5	a	J^-------------	Coord
+6	za	RR--7----------	AuxP
+7	komerčními	AAMP7----1A----	Atr
+8	zájemci	NNMP7-----A----	Adv
+9	zůstávají	VB-P---3P-AA---	Pred
+10	donkichotští	AAMP1----1A----	Atr
+11	zastánci	NNMP1-----A----	Sb
+12	kultury	NNFS2-----A----	Atr
+13	Nadace	NNFS1-----A----	Atr
+14	pro	RR--4----------	AuxP
+15	zdraví	NNNS4-----A----	Atr
+16	a	J^-------------	Coord
+17	Spolek	NNIS1-----A----	Atr
+18	umělců	NNMP2-----A----	Atr
+19	Prahy	NNFS2-----A----	Atr
+20	5	C=-------------	Atr
+21	.	Z:-------------	AuxK
+
+lnd91303-056-p3s3
+1	Zatím	Db-------------	Adv
+2	(	Z:-------------	Apos
+3	do	RR--2----------	AuxP
+4	6	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	ledna	NNIS2-----A----	Adv
+7	)	Z:-------------	AuxG
+8	je	VB-S---3P-AA---	Pred
+9	možné	AANS1----1A----	Pnom
+10	načerpat	Vf--------A----	Sb
+11	tady	Db-------------	Adv
+12	sílu	NNFS4-----A----	Obj
+13	z	RR--2----------	AuxP
+14	kouzelné	AAFS2----1A----	Atr
+15	skříňky	NNFS2-----A----	Adv
+16	v	RR--6----------	AuxP
+17	prvním	CrNS6----------	Adv
+18	patře	VeYS------A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd91303-056-p3s4
+1	Práce	NNFP1-----A----	Sb
+2	osmi	Cn-P2----------	Atr
+3	výtvarníků	NNMP2-----A----	Atr
+4	nejsou	VB-P---3P-NA---	Pred
+5	spekulací	NNFS7-----A----	Pnom
+6	pro	RR--4----------	AuxP
+7	tuto	PDFS4----------	Atr
+8	chvíli	NNFS4-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ani	J^-------------	AuxZ
+11	se	P7-X4----------	AuxT
+12	však	J^-------------	Coord
+13	nesnaží	VB-P---3P-NA---	Pred
+14	vzbudit	Vf--------A----	Obj
+15	dojem	NNIS4-----A----	Obj
+16	definitivních	AANP2----1A----	Atr
+17	děl	NNNP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd91303-056-p3s5
+1	Jednotlivá	AANP4----1A----	Atr
+2	místa	NNNP4-----A----	Obj
+3	a	J^-------------	Coord
+4	záchytné	AAIP4----1A----	Atr
+5	body	NNIP4-----A----	Obj
+6	magického	AAIS2----1A----	Atr
+7	prostoru	NNIS2-----A----	Atr
+8	označil	VpYS---XR-AA---	Pred
+9	Viktor	NNMS1-----A----	Atr
+10	Pivovarov	NNMS1-----A----	Sb
+11	(	Z:-------------	ExD
+12	foto	NNNS1-----A----	ExD
+13	č	NNNXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	1	C=-------------	Atr
+16	)	Z:-------------	AuxG
+17	,	Z:-------------	AuxX
+18	obydlil	VpYS---XR-AA---	Pred
+19	je	PPXP4--3-------	Obj
+20	Vladimír	NNMS1-----A----	Atr
+21	Merta	NNMS1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	významné	AAIP4----1A----	Atr
+24	předměty	NNIP4-----A----	Obj
+25	dodala	VpQW---XR-AA---	Pred
+26	Margita	NNFS1-----A----	Atr
+27	Titlová	NNFS1-----A----	Sb
+28	(	Z:-------------	ExD
+29	foto	NNNS1-----A----	ExD
+30	č	NNNXX-----A---8	Atr
+31	.	Z:-------------	AuxG
+32	2	C=-------------	Atr
+33	)	Z:-------------	ExD
+34	a	J^-------------	Coord
+35	intimní	AAIP4----1A----	Atr
+36	oltáře	NNIP4-----A----	Obj
+37	vytvořila	VpQW---XR-AA---	Pred
+38	Milena	NNFS1-----A----	Atr
+39	Dopitová	NNFS1-----A----	Sb
+40	.	Z:-------------	AuxK
+
+lnd91303-056-p3s6A
+1	Václav	NNMS1-----A----	Atr
+2	Stratil	NNMS1-----A----	Sb
+3	po	RR--6----------	AuxP
+4	důkladném	AANS6----1A----	Atr
+5	zpracování	NNNS6-----A----	Adv
+6	svého	P8ZS2----------	Atr
+7	autoportrétu	NNIS2-----A----	Atr
+8	nastavuje	VB-S---3P-AA---	Pred
+9	zrcadla	NNNP4-----A----	Obj
+10	svým	P8XP3----------	Atr
+11	kolegům	NNMP3-----A----	Obj
+12	-	Z:-------------	AuxK
+
+lnd91303-056-p3s6B
+1	vedle	RR--2----------	AuxP
+2	portrétů	NNIP2-----A----	Adv
+3	Tvrdohlavých	AAMP2----1A----	Atr
+4	se	P7-X4----------	AuxT
+5	mu	PHZS3--3-------	Obj
+6	podařilo	VpNS---XR-AA---	Pred
+7	vystihnout	Vf--------A----	Sb
+8	pravou	AAFS4----1A----	Atr
+9	tvář	NNFS4-----A----	Obj
+10	teoretiků	NNMP2-----A----	Atr
+11	Ševčíkových	AUMP2M---------	Atr
+12	.	Z:-------------	AuxK
+
+lnd91303-056-p3s7
+1	Téměř	Db-------------	Adv
+2	minimalistickému	AAIS3----1A----	Atr
+3	boxu	NNIS3-----A----	Obj
+4	Jiřího	NNMS2-----A----	Atr
+5	Kovandy	NNMS2-----A----	Atr
+6	sousedí	VB-S---3P-AA---	Pred
+7	mytizovaný	AAIS1----1A----	Atr
+8	kolorovaný	AAIS1----1A----	Atr
+9	videosvět	NNIS1-----A----	Sb
+10	Radka	NNMS2-----A----	Atr
+11	Pilaře	NNMS2-----A----	Atr
+12	plný	AAIS1----1A----	Atr
+13	prachu	NNIS2-----A----	Obj
+14	20	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	století	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd91303-056-p3s8
+1	O	RR--6----------	AuxP
+2	tom	PDZS6----------	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	v	RR--6----------	AuxP
+6	magickém	AAIS6----1A----	Atr
+7	prostoru	NNIS6-----A----	Adv
+8	neplatí	VB-S---3P-NA---	Atr
+9	trojrozměrnost	NNFS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	přesvědčí	VB-S---3P-AA---	Pred
+12	diváky	NNMP4-----A----	Obj
+13	Tomáš	NNMS1-----A----	Atr
+14	Ruller	NNMS1-----A----	Sb
+15	se	RV--7----------	AuxP
+16	svým	P8ZS7----------	Atr
+17	Beránkem	NNMS7-----A----	Adv
+18	na	RR--6----------	AuxP
+19	půdě	NNFS6-----A----	Atr
+20	(	Z:-------------	AuxG
+21	možná	Db-------------	ExD
+22	ale	J^-------------	Coord
+23	někde	Db-------------	ExD
+24	úplně	Dg-------1A----	Adv
+25	jinde	Db-------------	ExD
+26	)	Z:-------------	AuxG
+27	.	Z:-------------	AuxK
+
+lnd91303-056-p4s1
+1	Projděte	Vi-P---2--A----	Pred
+2	zrcadlem	NNNS7-----A----	Obj
+3	a	J^-------------	Coord
+4	zkuste	Vi-P---2--A----	Pred
+5	odtud	Db-------------	Adv
+6	pohledět	Vf--------A----	Obj
+7	na	RR--4----------	AuxP
+8	malichernosti	NNFP4-----A----	Adv
+9	opravdového	AAIS2----1A----	Atr
+10	světa	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	nebo	J^-------------	Coord
+13	naopak	Db-------------	Adv
+14	.	Z:-------------	AuxK
+
+lnd91303-056-p5s1
+1	(	Z:-------------	ExD
+2	lin	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+
+lnd91303-056-p6s1
+1	Foto	NNNS1-----A----	ExD
+2	Ondřej	NNMS1-----A----	Atr
+3	Němec	NNMS1-----A----	ExD
+4	-	Z:-------------	Apos
+5	LN	NNFPX-----A---8	ExD
+

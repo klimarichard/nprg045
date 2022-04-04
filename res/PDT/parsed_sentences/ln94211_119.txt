@@ -1,0 +1,40 @@
+ln94211-119-p1s1
+1	Senzační	AAFS1----1A----	Atr
+2	zpráva	NNFS1-----A----	ExD
+3	o	RR--6----------	AuxP
+4	Telecomu	NNIS6-----A----	Atr
+
+ln94211-119-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	agentura	NNFS1-----A----	ExD
+4	Wild	AAXXX----1A----	Atr
+5	Duck	NNFXX-----A----	Atr
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+ln94211-119-p2s1B
+1	O	RR--6----------	AuxP
+2	SPT	NNIXX-----A---8	Obj
+3	Telecom	NNIS1-----A----	Atr
+4	toho	PDZS2----------	Atr
+5	bylo	VpNS---XR-AA---	AuxV
+6	už	Db-------------	Adv
+7	napsáno	VsNS---XX-AP---	Pred
+8	mnoho	Ca--1----------	Sb
+9	.	Z:-------------	AuxK
+
+ln94211-119-p2s2
+1	Kdyby	J,-------------	AuxC
+2	si	P7-X3----------	Obj
+3	to	PDNS4----------	Obj
+4	všechno	PLNS4----------	Atr
+5	telefonovali	VpMP---XR-AA---	Adv
+6	,	Z:-------------	AuxX
+7	nedozvěděli	VpMP---XR-NA---	Pred
+8	bychom	Vc-P---1-------	AuxV
+9	se	P7-X4----------	AuxT
+10	vůbec	Db-------------	AuxZ
+11	nic	PW--4----------	Obj
+12	.	Z:-------------	AuxK
+

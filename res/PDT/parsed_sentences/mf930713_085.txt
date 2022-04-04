@@ -1,0 +1,248 @@
+mf930713-085-p1s1
+1	Výrobci	NNMP1-----A----	Sb
+2	nápojů	NNIP2-----A----	Atr
+3	mají	VB-P---3P-AA---	Pred
+4	obavy	NNFP4-----A----	Obj
+5	z	RR--2----------	AuxP
+6	povinného	AAIS2----1A----	Atr
+7	výkupu	NNIS2-----A----	AtrAdv
+8	lahví	NNFP2-----A----	Atr
+
+mf930713-085-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jkl	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-085-p2s1B
+1	Někteří	PZMP1----------	Atr
+2	výrobci	NNMP1-----A----	Sb
+3	nealkoholických	AAIP2----1N----	Atr
+4	nápojů	NNIP2-----A----	Atr
+5	mají	VB-P---3P-AA---	Pred
+6	obavy	NNFP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	novela	NNFS1-----A----	Sb
+10	zákona	NNIS2-----A----	Atr
+11	o	RR--6----------	AuxP
+12	ochraně	NNFS6-----A----	Atr
+13	spotřebitele	NNMS2-----A----	Atr
+14	může	VB-S---3P-AA---	Atr
+15	některé	PZYP4----------	Obj
+16	z	RR--2----------	AuxP
+17	nich	P5XP2--3-------	Atr
+18	přivést	Vf--------A----	Obj
+19	k	RR--3----------	AuxP
+20	bankrotu	NNIS3-----A----	Adv
+21	.	Z:-------------	AuxK
+
+mf930713-085-p2s2
+1	Novela	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	kterou	P4FS4----------	Obj
+4	v	RR--4----------	AuxP
+5	sobotu	NNFS4-----A----	Adv
+6	schválil	VpYS---XR-AA---	Atr
+7	parlament	NNIS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	totiž	Db-------------	AuxY
+10	ukládá	VB-S---3P-AA---	Pred
+11	výrobcům	NNMP3-----A----	Obj
+12	i	J^-------------	Coord
+13	dodavatelům	NNMP3-----A----	Obj
+14	povinnost	NNFS4-----A----	Obj
+15	vykupovat	Vf--------A----	Atr
+16	vratné	AAIP4----1A----	Atr
+17	obaly	NNIP4-----A----	Obj
+18	bez	RR--2----------	AuxP
+19	omezení	NNNS2-----A----	Adv
+20	množství	NNNS2-----A----	Atr
+21	i	J^-------------	Coord
+22	bez	RR--2----------	AuxP
+23	toho	PDZS2----------	Adv
+24	,	Z:-------------	AuxX
+25	aby	J,-------------	AuxC
+26	je	PPXP4--3-------	Obj
+27	vázali	VpMP---XR-AA---	Atr
+28	na	RR--4----------	AuxP
+29	nákup	NNIS4-----A----	Obj
+30	zboží	NNNS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+mf930713-085-p3s1
+1	Předseda	NNMS1-----A----	Atr
+2	Svazu	NNIS2-----A----	Atr
+3	výrobců	NNMP2-----A----	Atr
+4	nealkoholických	AAIP2----1N----	Atr
+5	nápojů	NNIP2-----A----	Atr
+6	Zdeněk	NNMS1-----A----	Atr
+7	Švehla	NNMS1-----A----	Sb
+8	uvedl	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	je	VB-S---3P-AA---	Obj
+12	největší	AAIS1----3A----	Atr
+13	přebytek	NNIS1-----A----	Sb
+14	lahví	NNFP2-----A----	Atr
+15	o	RR--6----------	AuxP
+16	objemu	NNIS6-----A----	Atr
+17	0.33	C=-------------	Atr
+18	litru	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf930713-085-p3s2
+1	V	RR--6----------	AuxP
+2	oběhu	NNIS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	jich	PPXP2--3-------	Atr
+5	podle	RR--2----------	AuxP
+6	něho	P5ZS2--3------1	Adv
+7	na	RR--4----------	AuxP
+8	šest	Cn-S4----------	Sb
+9	milionů	NNIP2-----A----	Atr
+10	navíc	Db-------------	Adv
+11	.	Z:-------------	AuxK
+
+mf930713-085-p3s3
+1	Mnozí	AAMP1----1A----	Atr
+2	výrobci	NNMP1-----A----	Sb
+3	totiž	Db-------------	AuxY
+4	začali	VpMP---XR-AA---	Pred
+5	plnit	Vf--------A----	Obj
+6	limonády	NNFP4-----A----	Obj
+7	do	RR--2----------	AuxP
+8	jiných	AAFP2----1A----	Atr
+9	lahví	NNFP2-----A----	Adv
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	původní	AAFP4----1A----	Atr
+13	láhve	NNFP4-----A----	Obj
+14	už	Db-------------	Adv
+15	nevykoupili	VpMP---XR-NA---	Pred
+16	.	Z:-------------	AuxK
+
+mf930713-085-p4s1
+1	Svaz	NNIS1-----A----	Sb
+2	sdružuje	VB-S---3P-AA---	Pred
+3	30	C=-------------	Obj
+4	tuzemských	AAMP2----1A----	Atr
+5	výrobců	NNMP2-----A----	Atr
+6	nealkoholických	AAIP2----1N----	Atr
+7	nápojů	NNIP2-----A----	Atr
+8	z	RR--2----------	AuxP
+9	celkových	AAMP2----1A----	Atr
+10	asi	TT-------------	AuxZ
+11	60	C=-------------	Atr
+12	.	Z:-------------	AuxK
+
+mf930713-085-p4s2
+1	"	Z:-------------	AuxG
+2	Kdyby	J,-------------	AuxC
+3	výrobci	NNMP1-----A----	Sb
+4	museli	VpMP---XR-AA---	Adv
+5	vykoupit	Vf--------A----	Obj
+6	všechny	PLFP4----------	Atr
+7	lahve	NNFP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	zůstane	VB-S---3P-AA---	Obj
+10	jim	PPXP3--3-------	Obj
+11	spousta	NNFS1-----A----	Sb
+12	peněz	NNIP2-----A----	Atr
+13	blokovaných	AAIP2----1A----	Atr
+14	v	RR--6----------	AuxP
+15	obalech	NNIP6-----A----	Adv
+16	a	J^-------------	Coord
+17	hrozí	VB-S---3P-AA---	Obj
+18	jim	PPXP3--3-------	Obj
+19	bankrot	NNIS1-----A----	Sb
+20	,	Z:-------------	AuxX
+21	"	Z:-------------	AuxG
+22	tvrdí	VB-S---3P-AA---	Pred
+23	Zdeněk	NNMS1-----A----	Atr
+24	Švehla	NNMS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+mf930713-085-p4s3
+1	Řekl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	ve	RV--6----------	AuxP
+5	stejném	AAMS6----1A----	Atr
+6	duchu	NNMS6-----A---1	Adv
+7	předal	VpYS---XR-AA---	Obj
+8	svaz	NNIS1-----A----	Sb
+9	připomínky	NNFP4-----A----	Obj
+10	parlamentu	NNIS3-----A----	Obj
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	ten	PDYS1----------	Sb
+14	na	RR--4----------	AuxP
+15	to	PDNS4----------	Obj
+16	vůbec	Db-------------	Adv
+17	nebral	VpYS---XR-NA---	Obj
+18	zřetel	NNIS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf930713-085-p5s1
+1	Předseda	NNMS1-----A----	Atr
+2	Českého	AAIS2----1A----	Atr
+3	svazu	NNIS2-----A----	Atr
+4	pivovarů	NNIP2-----A----	Atr
+5	a	J^-------------	Coord
+6	sladoven	NNFP2-----A----	Atr
+7	Antonín	NNMS1-----A----	Atr
+8	Kratochvíle	NNMS1-----A----	Sb
+9	naopak	Db-------------	AuxY
+10	nepředpokládá	VB-S---3P-NA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	by	Vc-------------	AuxV
+14	novela	NNFS1-----A----	Sb
+15	měla	VpQW---XR-AA---	Obj
+16	na	RR--4----------	AuxP
+17	pivovary	NNIP4-----A----	AtrAdv
+18	negativní	AAIS4----1A----	Atr
+19	dopad	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf930713-085-p5s2
+1	Běžné	AAFP1----1A----	Atr
+2	pivní	AAFP1----1A----	Atr
+3	láhve	NNFP1-----A----	Sb
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxR
+6	podle	RR--2----------	AuxP
+7	něho	P5ZS2--3------1	Adv
+8	měly	VpTP---XR-AA---	Pred
+9	vykupovat	Vf--------A----	Obj
+10	bez	RR--2----------	AuxP
+11	problémů	NNIP2-----A----	Adv
+12	a	J^-------------	Coord
+13	na	RR--6----------	AuxP
+14	vykupování	NNNS6-----A----	Obj
+15	speciálních	AAFP2----1A----	Atr
+16	firemních	AAFP2----1A----	Atr
+17	lahví	NNFP2-----A----	Atr
+18	by	Vc-------------	AuxV
+19	se	P7-X4----------	AuxT
+20	prodejci	NNMP1-----A----	Sb
+21	a	J^-------------	Coord
+22	výrobci	NNMP1-----A----	Sb
+23	měli	VpMP---XR-AA---	Pred
+24	dohodnout	Vf--------A----	Obj
+25	smluvně	Dg-------1A----	Adv
+26	.	Z:-------------	AuxK
+
+mf930713-085-p5s3
+1	"	Z:-------------	AuxG
+2	Jako	J,-------------	AuxY
+3	spotřebitel	NNMS1-----A----	AtvV
+4	novelu	NNFS4-----A----	Obj
+5	vítám	VB-S---1P-AA---	Obj
+6	,	Z:-------------	AuxX
+7	"	Z:-------------	AuxG
+8	dodal	VpYS---XR-AA---	Pred
+9	.	Z:-------------	AuxK
+

@@ -1,0 +1,252 @@
+ln95045-073-p1s1
+1	Nové	AAIP1----1A----	Atr
+2	důkazy	NNIP1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	procesu	NNIS6-----A---1	Atr
+5	s	RR--7----------	AuxP
+6	Martou	NNFS7-----A----	Atr
+7	Chadimovou	NNFS7-----A----	Atr
+
+ln95045-073-p2s1A
+1	Soudní	AAFS1----1A----	Atr
+2	síň	NNFS1-----A----	ExD
+
+ln95045-073-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-073-p2s1C
+1	V	RR--6----------	AuxP
+2	procesu	NNIS6-----A---1	Adv
+3	s	RR--7----------	AuxP
+4	Martou	NNFS7-----A----	Atr
+5	Chadimovou	NNFS7-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	objevil	VpYS---XR-AA---	Pred
+8	nový	AAIS1----1A----	Atr
+9	důkaz	NNIS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95045-073-p2s2
+1	Signatář	NNMS1-----A----	Atr
+2	Charty	NNFS2-----A----	Atr
+3	77	C=-------------	Atr
+4	John	NNMS1-----A----	Atr
+5	Bok	NNMS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	včera	Db-------------	Adv
+9	vypovídal	VpYS---XR-AA---	Atr
+10	jako	J,-------------	AuxY
+11	svědek	NNMS1-----A----	Atv
+12	,	Z:-------------	AuxX
+13	předložil	VpYS---XR-AA---	Pred
+14	u	RR--2----------	AuxP
+15	Městského	AAIS2----1A----	Atr
+16	soudu	NNIS2-----A----	Adv
+17	v	RR--6----------	AuxP
+18	Praze	NNFS6-----A----	Atr
+19	na	RR--4----------	AuxP
+20	třicet	Cn-S4----------	Obj
+21	listin	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95045-073-p2s3
+1	Ty	PDFP4----------	Obj
+2	dostal	VpYS---XR-AA---	Pred
+3	od	RR--2----------	AuxP
+4	Chadimové	NNFS2-----A----	Obj
+5	v	RR--6----------	AuxP
+6	roce	NNIS6-----A---1	Adv
+7	1991	C=-------------	Atr
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	společně	Dg-------1A----	Adv
+11	pracovali	VpMP---XR-AA---	Atr
+12	na	RR--6----------	AuxP
+13	předsednictvu	NNNS6-----A----	Adv
+14	vlády	NNFS2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	komisi	NNFS6-----A----	Adv
+17	pro	RR--4----------	AuxP
+18	navrácení	NNNS4-----A----	Atr
+19	majetku	NNIS2-----A----	Atr
+20	SSM	NNFXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-073-p2s4
+1	Materiály	NNIP4-----A----	Obj
+2	našla	VpQW---XR-AA---	Pred
+3	asi	TT-------------	AuxZ
+4	před	RR--7----------	AuxP
+5	měsícem	NNIS7-----A----	Adv
+6	náhodou	Db-------------	Adv
+7	jeho	PSXXXZS3-------	Atr
+8	manželka	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln95045-073-p3s1
+1	Obálka	NNFS1-----A----	Sb
+2	obsahovala	VpQW---XR-AA---	Pred
+3	kopie	NNFP4-----A----	Obj
+4	dokumentů	NNIP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	kterými	P4XP7----------	Adv
+7	Chadimová	NNFS1-----A----	Sb
+8	dokládá	VB-S---3P-AA---	Atr
+9	oprávněnost	NNFS4-----A----	Obj
+10	svých	P8XP2----------	Atr
+11	restitučních	AAIP2----1A----	Atr
+12	nároků	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	a	J^-------------	Coord
+15	dopis	NNIS4-----A----	Obj
+16	Bokovi	NNMS3-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95045-073-p3s2
+1	V	RR--6----------	AuxP
+2	dopise	NNIS6-----A----	Adv
+3	Chadimová	NNFS1-----A----	Sb
+4	psala	VpQW---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	otcův	AUIS1M---------	Atr
+8	majetek	NNIS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	který	P4IS4----------	Obj
+11	zdědila	VpQW---XR-AA---	Atr
+12	,	Z:-------------	AuxX
+13	by	Vc-------------	AuxV
+14	se	P7-X4----------	AuxR
+15	dal	VpYS---XR-AA---	Obj
+16	využít	Vf--------A----	Obj
+17	pro	RR--4----------	AuxP
+18	postižené	AAFP4----1A----	Atr
+19	děti	NNFP4-----A----	Adv
+20	a	J^-------------	Coord
+21	nemajetné	AAMP4----1N----	Atr
+22	lidi	NNMP4-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln95045-073-p3s3
+1	Uvádí	VB-S---3P-AA---	Pred
+2	v	RR--6----------	AuxP
+3	něm	P5ZS6--3-------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	premonstráty	NNMP4-----A----	Obj
+7	o	RR--6----------	AuxP
+8	svém	P8ZS6----------	Atr
+9	majetku	NNIS6-----A----	Obj
+10	informovala	VpQW---XR-AA---	Obj
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	o	RR--4----------	AuxP
+14	vydání	NNNS4-----A----	Obj
+15	nepožádala	VpQW---XR-NA---	Obj
+16	.	Z:-------------	AuxK
+
+ln95045-073-p3s4
+1	Dále	Db------------1	Adv
+2	psala	VpQW---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vládě	NNFS3-----A----	Obj
+6	i	J^-------------	Coord
+7	parlamentu	NNIS3-----A----	Obj
+8	je	VB-S---3P-AA---	Obj
+9	známo	ACNS------A----	Pnom
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	byl	VpYS---XR-AA---	AuxV
+13	zákonem	NNIS7-----A----	Adv
+14	premonstrátům	NNMP3-----A----	Obj
+15	vrácen	VsYS---XX-AP---	Sb
+16	majetek	NNIS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	který	P4YS1----------	Sb
+19	jim	PPXP3--3-------	Obj
+20	nepatří	VB-S---3P-NA---	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-073-p4s1
+1	Ve	RV--6----------	AuxP
+2	výpovědi	NNFS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	svědek	NNMS1-----A----	Sb
+5	zmínil	VpYS---XR-AA---	Pred
+6	i	J^-------------	AuxZ
+7	o	RR--6----------	AuxP
+8	řediteli	NNMS6-----A----	Atr
+9	Ústřední	AAFS2----1A----	Atr
+10	kanceláře	NNFS2-----A----	Atr
+11	řádu	NNIS2-----A----	Atr
+12	premonstrátů	NNMP2-----A----	Atr
+13	Petrosi	NNMS6-----A----	Atr
+14	Alexandridisovi	NNMS6-----A----	Obj
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	v	RR--6----------	AuxP
+18	kauze	NNFS6-----A----	Adv
+19	vystupuje	VB-S---3P-AA---	Atr
+20	jako	J,-------------	AuxY
+21	důležitý	AAMS1----1A----	Atr
+22	svědek	NNMS1-----A----	Atv
+23	.	Z:-------------	AuxK
+
+ln95045-073-p4s2
+1	J	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Bok	NNMS1-----A----	Sb
+4	řekl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	Alexandridis	NNMS1-----A----	Sb
+8	figuruje	VB-S---3P-AA---	Obj
+9	na	RR--6----------	AuxP
+10	seznamu	NNIS6-----A----	Adv
+11	agentů	NNMP2-----A----	Atr
+12	StB	NNFXX-----A---8	Atr
+13	pod	RR--7----------	AuxP
+14	krycím	AANS7----1A----	Atr
+15	jménem	NNNS7-----A----	Adv
+16	Petrov	NNMS1-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95045-073-p5s1
+1	Chadimová	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	obžalována	VsQW---XX-AP---	Pnom
+4	mj	Db------------8	Adv
+5	.	Z:-------------	AuxG
+6	z	RR--2----------	AuxP
+7	padělání	NNNS2-----A----	Obj
+8	veřejných	AAFP2----1A----	Atr
+9	listin	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	následného	AAIS2----1A----	Atr
+12	pokusu	NNIS2-----A----	Obj
+13	o	RR--4----------	AuxP
+14	podvodné	AANS4----1A----	Atr
+15	vylákání	NNNS4-----A----	Atr
+16	nemovitého	AAIS2----1N----	Atr
+17	majetku	NNIS2-----A----	Atr
+18	mimo	RR--4----------	AuxP
+19	jiné	AANS4----1A----	Adv
+20	i	J^-------------	AuxZ
+21	na	RR--6----------	AuxP
+22	řádu	NNIS6-----A----	Adv
+23	premonstrátů	NNMP2-----A----	Atr
+24	v	RR--6----------	AuxP
+25	Praze	NNFS6-----A----	AtrAtr
+26	na	RR--6----------	AuxP
+27	Strahově	NNIS6-----A----	Atr
+28	v	RR--6----------	AuxP
+29	hodnotě	NNFS6-----A----	Atr
+30	téměř	Db-------------	AuxZ
+31	43	C=-------------	Atr
+32	miliónů	NNIP2-----A----	Atr
+33	korun	NNFP2-----A----	Atr
+34	.	Z:-------------	AuxK
+

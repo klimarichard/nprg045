@@ -1,0 +1,336 @@
+mf920902-154-p1s1A
+1	Pravicoví	AAMP1----1A----	Atr
+2	radikálové	NNMP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	bývalé	AAFS6----1A----	Atr
+5	NDR	NNFXX-----A---8	AtrAdv
+6	pokračují	VB-P---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	útocích	NNIP6-----A----	Obj
+9	na	RR--4----------	AuxP
+10	azylanty	NNMP4-----A----	Atr
+
+mf920902-154-p1s1B
+1	POLICIE	NNFS1-----A----	Sb
+2	ZŮSTÁVÁ	VB-S---3P-AA---	Pred
+3	V	RR--6----------	AuxP
+4	POHOTOVOSTI	NNFS6-----A----	Adv
+
+mf920902-154-p2s1
+1	Berlín	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920902-154-p2s2
+1	V	RR--6----------	AuxP
+2	celé	AAFS6----1A----	Atr
+3	bývalé	AAFS6----1A----	Atr
+4	NDR	NNFXX-----A---8	Adv
+5	pokračovaly	VpTP---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	noci	NNFS6-----A----	Obj
+8	na	RR--4----------	AuxP
+9	včerejšek	NNIS4-----A----	Atr
+10	útoky	NNIP1-----A----	Sb
+11	proti	RR--3----------	AuxP
+12	ubytovnám	NNFP3-----A----	Atr
+13	žadatelů	NNMP2-----A----	Atr
+14	o	RR--4----------	AuxP
+15	azyl	NNIS4-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920902-154-p2s3
+1	Dosud	Db-------------	Adv
+2	neznámí	AAMP1----1N----	Atr
+3	pachatelé	NNMP1-----A----	Sb
+4	přepadli	VpMP---XR-AA--1	Pred
+5	v	RR--6----------	AuxP
+6	noci	NNFS6-----A----	Adv
+7	na	RR--4----------	AuxP
+8	včerejšek	NNIS4-----A----	Atr
+9	ubytovnu	NNFS4-----A----	Obj
+10	cizinců	NNMP2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Lindenthalu	NNIS6-----A----	AtrAdv
+13	poblíž	RR--2----------	AuxP
+14	Lipska	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920902-154-p2s4
+1	Útočníci	NNMP1-----A----	Sb
+2	vrhali	VpMP---XR-AA---	Pred
+3	na	RR--4----------	AuxP
+4	objekt	NNIS4-----A----	Adv
+5	kameny	NNIP4-----A----	Obj
+6	a	J^-------------	Coord
+7	zapálili	VpMP---XR-AA---	Pred
+8	jedno	ClNS4----------	Atr
+9	zaparkované	AANS4----1A----	Atr
+10	auto	NNNS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+mf920902-154-p2s5
+1	Údajně	Dg-------1A----	Adv
+2	nebyl	VpYS---XR-NA---	AuxV
+3	nikdo	PWM-1----------	Sb
+4	zraněn	VsYS---XX-AP---	Pred
+5	.	Z:-------------	AuxK
+
+mf920902-154-p2s6
+1	Podle	RR--2----------	AuxP
+2	informací	NNFP2-----A----	Adv
+3	místní	AAFS2----1A----	Atr
+4	policie	NNFS2-----A----	Atr
+5	není	VB-S---3P-NA---	Pred
+6	znám	ACYS------A----	Pnom
+7	ani	J^-------------	AuxZ
+8	počet	NNIS1-----A----	Sb
+9	pachatelů	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf920902-154-p3s1
+1	V	RR--6----------	AuxP
+2	napadené	AAFS6----1A----	Atr
+3	ubytovně	NNFS6-----A----	Adv
+4	bydlí	VB-P---3P-AA---	Pred
+5	převážně	Dg-------1A----	Adv
+6	žadatelé	NNMP1-----A----	Sb
+7	o	RR--4----------	AuxP
+8	azyl	NNIS4-----A----	Atr
+9	z	RR--2----------	AuxP
+10	Rumunska	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	kteří	P4MP1----------	Sb
+13	se	P7-X4----------	AuxT
+14	do	RR--2----------	AuxP
+15	Lindenthalu	NNIS2-----A----	Adv
+16	uchýlili	VpMP---XR-AA---	Atr
+17	v	RR--4----------	AuxP
+18	sobotu	NNFS4-----A----	Adv
+19	poté	Db-------------	Adv
+20	,	Z:-------------	AuxX
+21	co	J,-------------	AuxC
+22	pravicoví	AAMP1----1A----	Atr
+23	extremisté	NNMP1-----A----	Sb
+24	přepadli	VpMP---XR-AA--1	Adv
+25	jejich	PSXXXXP3-------	Atr
+26	stanový	AAIS4----1A----	Atr
+27	tábor	NNIS4-----A----	Obj
+28	v	RR--6----------	AuxP
+29	Holzhausenu	NNIS6-----A----	AtrAdv
+30	,	Z:-------------	AuxX
+31	rovněž	Db-------------	AuxZ
+32	u	RR--2----------	AuxP
+33	Lipska	NNNS2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+mf920902-154-p4s1
+1	Pravicoví	AAMP1----1A----	Atr
+2	radikálové	NNMP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	pokusili	VpMP---XR-AA---	Pred
+5	zaútočit	Vf--------A----	Obj
+6	také	Db-------------	Adv
+7	na	RR--4----------	AuxP
+8	cizineckou	AAFS4----1A----	Atr
+9	ubytovnu	NNFS4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	Greifswaldu	NNIS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	pořádkové	AAFP1----1A----	Atr
+14	síly	NNFP1-----A----	Sb
+15	však	J^-------------	Coord
+16	celou	AAFS4----1A----	Atr
+17	akci	NNFS4-----A----	Obj
+18	v	RR--6----------	AuxP
+19	zárodku	NNMS6-----A---1	Adv
+20	potlačily	VpTP---XR-AA---	Pred
+21	.	Z:-------------	AuxK
+
+mf920902-154-p4s2
+1	Třináct	Cn-S4----------	Obj
+2	výtržníků	NNMP2-----A----	Atr
+3	policie	NNFS1-----A----	Sb
+4	zatkla	VpQW---XR-AA--1	Pred
+5	.	Z:-------------	AuxK
+
+mf920902-154-p5s1
+1	Také	Db-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	braniborské	AAFS6----1A----	Atr
+4	Chotěbuzi	NNFS6-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	podařilo	VpNS---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	uplynulých	AAFP6----1A----	Atr
+9	třech	ClXP6----------	Atr
+10	nocích	NNFP6-----A----	Adv
+11	odvrátit	Vf--------A----	Sb
+12	opakované	AAIP4----1A----	Atr
+13	útoky	NNIP4-----A----	Obj
+14	pravicových	AAMP2----1A----	Atr
+15	radikálů	NNMP2-----A----	Atr
+16	na	RR--4----------	AuxP
+17	místní	AAFS4----1A----	Atr
+18	ubytovnu	NNFS4-----A----	Atr
+19	uprchlíků	NNMP2-----A----	Atr
+20	jen	TT-------------	AuxZ
+21	díky	RR--3----------	AuxP
+22	včasné	AAFS3----1A----	Atr
+23	a	J^-------------	Coord
+24	koordinované	AAFS3----1A----	Atr
+25	součinnosti	NNFS3-----A----	Adv
+26	policie	NNFS2-----A----	Atr
+27	s	RR--7----------	AuxP
+28	magistrátem	NNIS7-----A----	Atr
+29	.	Z:-------------	AuxK
+
+mf920902-154-p5s2
+1	Akcí	NNFP2-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	účastnilo	VpNS---XR-AA---	Pred
+4	kolem	RR--2----------	AuxP
+5	200	C=-------------	Sb
+6	osob	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	očekává	VB-S---3P-AA---	Pred
+9	se	P7-X4----------	AuxR
+10	však	J^-------------	Coord
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	do	RR--2----------	AuxP
+14	města	NNNS2-----A----	Adv
+15	v	RR--6----------	AuxP
+16	nejbližší	AAFS6----3A----	Atr
+17	době	NNFS6-----A----	Adv
+18	sjede	VB-S---3P-AA---	Sb
+19	přes	RR--4----------	AuxP
+20	2000	C=-------------	Sb
+21	pravicových	AAMP2----1A----	Atr
+22	radikálů	NNMP2-----A----	Atr
+23	z	RR--2----------	AuxP
+24	celého	AANS2----1A----	Atr
+25	Německa	NNNS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+mf920902-154-p5s3
+1	V	RR--6----------	AuxP
+2	Braniborsku	NNNS6-----A----	Adv
+3	byla	VpQW---XR-AA---	AuxV
+4	v	RR--6----------	AuxP
+5	noci	NNFS6-----A----	Adv
+6	na	RR--4----------	AuxP
+7	včerejšek	NNIS4-----A----	Atr
+8	přepadena	VsQW---XX-AP---	Pred
+9	také	Db-------------	AuxZ
+10	ubytovna	NNFS1-----A----	Sb
+11	cizinců	NNMP2-----A----	Atr
+12	ve	RV--6----------	AuxP
+13	Vetschau	NNNXX-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920902-154-p6s1
+1	V	RR--6----------	AuxP
+2	Německu	NNNS6-----A----	Adv
+3	zajišťuje	VB-S---3P-AA---	Pred
+4	pořádek	NNIS4-----A----	Obj
+5	asi	TT-------------	AuxZ
+6	200000	C=-------------	Sb
+7	policistů	NNMP2-----A----	Atr
+8	a	J^-------------	Coord
+9	podle	RR--2----------	AuxP
+10	ústavy	NNFS2-----A----	Adv
+11	je	VB-S---3P-AA---	Pred
+12	policie	NNFS1-----A----	Sb
+13	podřízena	VsQW---XX-AP---	Pnom
+14	vládám	NNFP3-----A----	Obj
+15	v	RR--6----------	AuxP
+16	jednotlivých	AAFP6----1A----	Atr
+17	spolkových	AAFP6----1A----	Atr
+18	zemích	NNFP6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920902-154-p6s2
+1	Bonn	NNIS1-----A----	Sb
+2	naproti	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	disponuje	VB-S---3P-AA---	Pred
+5	útvary	NNIP7-----A----	Obj
+6	spolkové	AAFS2----1A----	Atr
+7	ochrany	NNFS2-----A----	Atr
+8	hranic	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4IP1----------	Sb
+11	mají	VB-P---3P-AA---	Atr
+12	asi	TT-------------	AuxZ
+13	30000	C=-------------	Obj
+14	mužů	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920902-154-p6s3
+1	Jak	Db-------------	AuxY
+2	pohraniční	AANP1----1A----	Atr
+3	vojska	NNNP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	tak	Db-------------	Coord
+6	policie	NNFS1-----A----	Sb
+7	mají	VB-P---3P-AA---	Pred
+8	své	P8FP4---------1	Atr
+9	vlastní	AAFP4----1A----	Atr
+10	speciální	AAFP4----1A----	Atr
+11	jednotky	NNFP4-----A----	Obj
+12	rychlého	AANS2----1A----	Atr
+13	nasazení	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920902-154-p7s1
+1	Pondělní	AANS1----1A----	Atr
+2	doporučení	NNNS1-----A----	Sb
+3	vnitropolitického	AAIS2----1A----	Atr
+4	výboru	NNIS2-----A----	Atr
+5	bonnského	AAIS2----1A----	Atr
+6	parlamentu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	byla	VpQW---XR-AA---	AuxV
+10	ustavena	VsQW---XX-AP---	Atr
+11	celoněmecká	AAFS1----1A----	Atr
+12	spolková	AAFS1----1A----	Atr
+13	speciální	AAFS1----1A----	Atr
+14	jednotka	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	se	P7-X4----------	AuxT
+17	proto	J^-------------	Adv
+18	u	RR--2----------	AuxP
+19	zemských	AAFP2----1A----	Atr
+20	vlád	NNFP2-----A----	Adv
+21	setkává	VB-S---3P-AA---	Pred
+22	spíše	Dg-------2A---1	Adv
+23	s	RR--7----------	AuxP
+24	odmítavým	AAIS7----1A----	Atr
+25	postojem	NNIS7-----A----	Obj
+26	.	Z:-------------	AuxK
+
+mf920902-154-p7s2
+1	Bylo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	to	PDNS1----------	Sb
+4	totiž	Db-------------	AuxY
+5	v	RR--6----------	AuxP
+6	rozporu	NNIS6-----A----	AuxP
+7	s	RR--7----------	AuxP
+8	ústavou	NNFS7-----A----	Adv
+9	,	Z:-------------	AuxX
+10	neboť	J^-------------	Coord
+11	taková	PDFS1----------	Atr
+12	"	Z:-------------	AuxG
+13	národní	AAFS1----1A----	Atr
+14	garda	NNFS1-----A----	Sb
+15	"	Z:-------------	AuxG
+16	by	Vc-------------	AuxV
+17	zasahovala	VpQW---XR-AA---	Pred
+18	do	RR--2----------	AuxP
+19	kompetencí	NNFP2-----A----	Adv
+20	zemských	AAFP2----1A----	Atr
+21	vlád	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+

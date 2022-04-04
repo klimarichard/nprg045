@@ -1,0 +1,414 @@
+cmpr9417-043-p2s1
+1	záhlaví	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Osobní	AAFS1----1A----	Atr
+4	investice	NNFS1-----A----	ExD
+
+cmpr9417-043-p3s1
+1	Stanovisko	NNNS1-----A----	ExD
+2	bankéře	NNMS2-----A----	Atr
+
+cmpr9417-043-p4s1
+1	Náš	PSYS1-P1-------	Atr
+2	trh	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	zatím	Db-------------	Adv
+5	příliš	Db-------------	Adv
+6	rizikový	AAIS1----1A----	Pnom
+
+cmpr9417-043-p5s1
+1	Při	RR--6----------	AuxP
+2	našem	PSZS6-P1-------	Atr
+3	pátrání	NNNS6-----A----	Adv
+4	po	RR--6----------	AuxP
+5	účastnících	NNMP6-----A----	Atr
+6	obchodu	NNIS2-----A----	Atr
+7	s	RR--7----------	AuxP
+8	diamanty	NNIP7-----A----	Atr
+9	v	RR--6----------	AuxP
+10	České	AAFS6----1A----	Atr
+11	republice	NNFS6-----A----	AtrAdv
+12	jsme	VB-P---1P-AA---	AuxV
+13	na	RR--4----------	AuxP
+14	banky	NNFP4-----A----	Obj
+15	nenarazili	VpMP---XR-NA---	Pred
+16	.	Z:-------------	AuxK
+
+cmpr9417-043-p5s2
+1	Náhoda	NNFS1-----A----	ExD
+2	?	Z:-------------	AuxK
+
+cmpr9417-043-p5s3
+1	Zašli	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	zeptat	Vf--------A----	Adv
+5	,	Z:-------------	AuxX
+6	zda	J,-------------	AuxC
+7	mají	VB-P---3P-AA---	Obj
+8	banky	NNFP1-----A----	Sb
+9	s	RR--7----------	AuxP
+10	diamanty	NNIP7-----A----	Adv
+11	něco	PZ--4----------	Obj
+12	společného	AANS2----1A----	Atv
+13	,	Z:-------------	AuxX
+14	místopředsedy	NNMS2-----A----	Atr
+15	představenstva	NNNS2-----A----	Atr
+16	Velkomoravské	AAFS2----1A----	Atr
+17	banky	NNFS2-----A----	Atr
+18	Ladislava	NNMS2-----A----	Atr
+19	Valáška	NNMS2-----A----	Obj
+20	,	Z:-------------	AuxX
+21	jehož	PJMS4----------	Atr
+22	příspěvek	NNIS4-----A----	Obj
+23	o	RR--6----------	AuxP
+24	diamantech	NNIP6-----A----	Atr
+25	jsme	VB-P---1P-AA---	AuxV
+26	před	RR--7----------	AuxP
+27	pár	NNIS4-----A----	Atr
+28	lety	NNNP7-----A----	Adv
+29	uveřejnili	VpMP---XR-AA---	Atr
+30	.	Z:-------------	AuxK
+
+cmpr9417-043-p6s1
+1	*	Z:-------------	AuxG
+2	Diamanty	NNIP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	zahraničí	NNNS6-----A----	AdvAtr
+5	různým	AAIS7----1A----	Atr
+6	způsobem	NNIS7-----A----	Adv
+7	procházejí	VB-P---3P-AA---	Pred
+8	i	J^-------------	AuxY
+9	rukama	NNFD7-----A----	Adv
+10	bank	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9417-043-p6s2
+1	Jak	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	mohly	VpTP---XR-AA---	Pred
+5	obchodu	NNIS2-----A----	Obj
+6	s	RR--7----------	AuxP
+7	diamanty	NNIP7-----A----	Atr
+8	účastnit	Vf--------A----	Obj
+9	české	AAFP1----1A----	Atr
+10	banky	NNFP1-----A----	Sb
+11	?	Z:-------------	AuxK
+
+cmpr9417-043-p7s1
+1	Na	RR--4----------	AuxP
+2	obchod	NNIS4-----A----	Adv
+3	s	RR--7----------	AuxP
+4	diamanty	NNIP7-----A----	Atr
+5	mohou	VB-P---3P-AA--1	Pred
+6	banky	NNFP1-----A----	Sb
+7	pohlížet	Vf--------A----	Obj
+8	z	RR--2----------	AuxP
+9	několika	Ca--2----------	Atr
+10	úhlů	NNIP2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9417-043-p7s2
+1	Jednak	J^-------------	Adv
+2	by	Vc-------------	AuxV
+3	mohlo	VpNS---XR-AA---	Pred
+4	jít	Vf--------A----	Obj
+5	o	RR--4----------	AuxP
+6	financování	NNNS4-----A----	Obj
+7	obchodníků	NNMP2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	diamanty	NNIP7-----A----	Atr
+10	,	Z:-------------	Coord
+11	dále	Dg-------2A---1	ExD
+12	o	RR--4----------	AuxP
+13	úschovu	NNFS4-----A----	ExD
+14	diamantů	NNIP2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	bezpečnostních	AAFP6----1A----	Atr
+17	schránkách	NNFP6-----A----	Atr
+18	a	J^-------------	Coord
+19	bankovních	AAIP6----1A----	Atr
+20	trezorech	NNIP6-----A----	Atr
+21	,	Z:-------------	Coord
+22	poskytování	NNNS4-----A----	ExD
+23	záruk	NNFP2-----A----	Atr
+24	pro	RR--4----------	AuxP
+25	obchodní	AAFP4----1A----	Atr
+26	transakce	NNFP4-----A----	Atr
+27	a	J^-------------	Coord
+28	využití	NNNS4-----A----	Atr
+29	diamantů	NNIP2-----A----	Atr
+30	jako	J,-------------	AuxY
+31	formy	NNFS2-----A----	Atv
+32	zajištění	NNNS2-----A----	Atr
+33	při	RR--6----------	AuxP
+34	čerpání	NNNS6-----A----	Atr
+35	bankovních	AAIP2----1A----	Atr
+36	úvěrů	NNIP2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+cmpr9417-043-p8s1
+1	*	Z:-------------	AuxG
+2	Zatím	Db-------------	Adv
+3	se	P7-X4----------	AuxT
+4	tak	Db-------------	Adv
+5	neděje	VB-S---3P-NA---	Pred
+6	.	Z:-------------	AuxK
+
+cmpr9417-043-p8s2
+1	Copak	TT-------------	AuxY
+2	diamanty	NNIP1-----A----	Sb
+3	nejsou	VB-P---3P-NA---	Pred
+4	dost	Dg-------1A----	Adv
+5	atraktivní	AAIP1----1A----	Pnom
+6	?	Z:-------------	AuxK
+
+cmpr9417-043-p9s1
+1	Problém	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	jinde	Db-------------	Adv
+4	.	Z:-------------	AuxK
+
+cmpr9417-043-p9s2
+1	Trh	NNIS1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	diamanty	NNIP7-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	u	RR--2----------	AuxP
+6	nás	PP-P2--1-------	Adv
+7	nejasný	AAIS1----1N----	Pnom
+8	a	J^-------------	Coord
+9	velmi	Db-------------	Adv
+10	rizikový	AAIS1----1A----	Pnom
+11	.	Z:-------------	AuxK
+
+cmpr9417-043-p9s3
+1	Nejsou	VB-P---3P-NA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	opravdoví	AAMP1----1A----	Atr
+5	odborníci	NNMP1-----A----	Sb
+6	,	Z:-------------	Coord
+7	informační	AAFP1----1A----	Atr
+8	a	J^-------------	Coord
+9	bezpečnostní	AAFP1----1A----	Atr
+10	infrastruktury	NNFP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	pak	Db-------------	Adv
+13	solidní	AAMP1----1A----	Atr
+14	partneři	NNMP1-----A----	Sb
+15	,	Z:-------------	Apos
+16	zejména	Db-------------	AuxZ
+17	banky	NNFP1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	ztrácejí	VB-P---3P-AA---	Pred
+20	zájem	NNIS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9417-043-p10s1
+1	*	Z:-------------	AuxG
+2	Jsou	VB-P---3P-AA---	Pred
+3	tedy	Db-------------	AuxY
+4	diamanty	NNIP1-----A----	Sb
+5	pro	RR--4----------	AuxP
+6	české	AAFP4----1A----	Atr
+7	banky	NNFP4-----A----	Adv
+8	vůbec	Db-------------	AuxZ
+9	nějak	Db-------------	Adv
+10	zajímavé	AAIP1----1A----	Pnom
+11	?	Z:-------------	AuxK
+
+cmpr9417-043-p11s1
+1	Nějak	Db-------------	ExD
+2	jistě	Dg-------1A----	ExD
+3	,	Z:-------------	AuxX
+4	ale	J^-------------	Coord
+5	jejich	PSXXXXP3-------	Atr
+6	význam	NNIS4-----A----	Obj
+7	nelze	VB-S---3P-NA---	Pred
+8	v	RR--6----------	AuxP
+9	našich	PSXP6-P1-------	Atr
+10	podmínkách	NNFP6-----A----	Adv
+11	zveličovat	Vf--------A----	Sb
+12	.	Z:-------------	AuxK
+
+cmpr9417-043-p11s2
+1	O	RR--4----------	AuxP
+2	diamanty	NNIP4-----A----	Atr
+3	bude	VB-S---3F-AA---	Pred
+4	nejspíš	Dg-------3A----	Adv
+5	zájem	NNIS1-----A----	Sb
+6	jako	J,-------------	AuxY
+7	o	RR--4----------	AuxP
+8	ochranu	NNFS4-----A----	Atv
+9	proti	RR--3----------	AuxP
+10	inflačnímu	AANS3----1A----	Atr
+11	znehodnocení	NNNS3-----A----	Atr
+12	peněz	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	k	RR--3----------	AuxP
+15	diverzifikaci	NNFS3-----A----	ExD
+16	portfolia	NNNS2-----A----	Atr
+17	bohatších	AAMP2----2A----	Atr
+18	klientů	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9417-043-p11s3
+1	V	RR--6----------	AuxP
+2	zahraničí	NNNS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	tím	PDZS7----------	Obj
+5	zabývají	VB-P---3P-AA---	Pred
+6	specializované	AAIP1----1A----	Atr
+7	soukromé	AAIP1----1A----	Atr
+8	bankovní	AAIP1----1A----	Atr
+9	domy	NNIP1-----A----	Sb
+10	nebo	J^-------------	Coord
+11	oddělení	NNNP1-----A----	Sb
+12	"	Z:-------------	AuxG
+13	private	AAXXX----1A----	Atr
+14	banking	NNNXX-----A----	Atr
+15	"	Z:-------------	AuxG
+16	komerčních	AAFP2----1A----	Atr
+17	bank	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9417-043-p11s4
+1	Podobně	Dg-------1A----	Adv
+2	tomu	PDZS3----------	Sb
+3	bude	VB-S---3F-AA---	Pred
+4	i	J^-------------	AuxZ
+5	u	RR--2----------	AuxP
+6	českých	AAFP2----1A----	Atr
+7	bank	NNFP2-----A----	Adv
+8	,	Z:-------------	AuxX
+9	včetně	Db-------------	AuxP
+10	Velkomoravské	AAFS2----1A----	Atr
+11	banky	NNFS2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+cmpr9417-043-p12s1
+1	*	Z:-------------	AuxG
+2	Využívá	VB-S---3P-AA---	Pred
+3	se	P7-X4----------	AuxR
+4	v	RR--6----------	AuxP
+5	praxi	NNFS6-----A----	Adv
+6	ručení	NNNS1-----A----	Sb
+7	diamanty	NNIP7-----A----	Atr
+8	za	RR--4----------	AuxP
+9	bankovní	AAIP4----1A----	Atr
+10	úvěry	NNIP4-----A----	Atr
+11	?	Z:-------------	AuxK
+
+cmpr9417-043-p13s1
+1	Velkomoravská	AAFS1----1A----	Atr
+2	banka	NNFS1-----A----	Sb
+3	diamanty	NNIP4-----A----	Obj
+4	jako	J,-------------	AuxY
+5	zajištění	NNNS4-----A----	Atv
+6	úvěru	NNIS2-----A----	Atr
+7	prakticky	Dg-------1A----	Adv
+8	nepřijímá	VB-S---3P-NA---	Pred
+9	vzhledem	RF-------------	AuxP
+10	k	RR--3----------	AuxP
+11	uvedeným	AAFP3----1A----	Atr
+12	nejasnostem	NNFP3-----A----	Adv
+13	a	J^-------------	Coord
+14	rizikům	NNNP3-----A----	Adv
+15	trhu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9417-043-p13s2
+1	Podobně	Dg-------1A----	Adv
+2	,	Z:-------------	AuxX
+3	myslím	VB-S---1P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	postupuje	VB-S---3P-AA---	Pred
+6	většina	NNFS1-----A----	Sb
+7	českých	AAFP2----1A----	Atr
+8	bank	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	zejména	Db-------------	AuxZ
+11	v	RR--6----------	AuxP
+12	případech	NNIP6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	kdy	Db-------------	Adv
+15	by	Vc-------------	AuxV
+16	se	P7-X4----------	AuxT
+17	mělo	VpNS---XR-AA---	Atr
+18	jednat	Vf--------A----	Obj
+19	o	RR--4----------	AuxP
+20	větší	AAFP4----2A----	Atr
+21	částky	NNFP4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+cmpr9417-043-p13s3
+1	Představte	Vi-P---2--A----	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	komplikovaná	AAFS1----1A----	Atr
+6	situace	NNFS1-----A----	Sb
+7	by	Vc-------------	AuxV
+8	nastala	VpQW---XR-AA---	Obj
+9	v	RR--6----------	AuxP
+10	případě	NNIS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	by	Vc-------------	AuxV
+14	dlužník	NNMS1-----A----	Sb
+15	diamanty	NNIP7-----A----	Obj
+16	zajištěný	AAIS4----1A----	Atr
+17	úvěr	NNIS4-----A----	Obj
+18	nesplatil	VpYS---XR-NA---	Atr
+19	a	J^-------------	Coord
+20	banka	NNFS1-----A----	Sb
+21	by	Vc-------------	AuxV
+22	k	RR--3----------	AuxP
+23	uspokojení	NNNS3-----A----	Adv
+24	své	P8FS2---------1	Atr
+25	pohledávky	NNFS2-----A----	Atr
+26	musela	VpQW---XR-AA---	Atr
+27	diamanty	NNIP4-----A----	Obj
+28	prodat	Vf--------A----	Obj
+29	na	RR--6----------	AuxP
+30	nejistém	AAIS6----1N----	Atr
+31	českém	AAIS6----1A----	Atr
+32	trhu	NNIS6-----A----	Adv
+33	.	Z:-------------	AuxK
+
+cmpr9417-043-p13s4
+1	Náklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	obchodování	NNNS4-----A----	Atr
+4	v	RR--6----------	AuxP
+5	zahraničí	NNNS6-----A----	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	poměrně	Dg-------1A----	Adv
+8	vysoké	AAIP1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	nemluvě	VeYS------N----	ExD
+11	o	RR--6----------	AuxP
+12	tom	PDZS6----------	Obj
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	banka	NNFS1-----A----	Sb
+16	nezabývající	AGFS1-----N----	Atr
+17	se	P7-X4----------	AuxT
+18	průběžně	Dg-------1A----	Adv
+19	a	J^-------------	Coord
+20	kvalifikovaně	Dg-------1A----	Adv
+21	obchodem	NNIS7-----A----	Obj
+22	s	RR--7----------	AuxP
+23	diamanty	NNIP7-----A----	Atr
+24	by	Vc-------------	AuxV
+25	mohla	VpQW---XR-AA---	Atr
+26	utrpět	Vf--------A----	Obj
+27	značné	AAFP4----1A----	Atr
+28	časové	AAFP4----1A----	Atr
+29	a	J^-------------	Coord
+30	finanční	AAFP4----1A----	Atr
+31	ztráty	NNFP4-----A----	Obj
+32	.	Z:-------------	AuxK
+

@@ -1,0 +1,101 @@
+mf920924-032-p1s1
+1	Poslední	AAIP1----1A----	Atr
+2	údaje	NNIP1-----A----	Sb
+3	průměrných	AAFP2----1A----	Atr
+4	spotřebitelských	AAFP2----1A----	Atr
+5	cen	NNFP2-----A----	Atr
+6	vybraných	AAIP2----1A----	Atr
+7	potravinářských	AAIP2----1A----	Atr
+8	výrobků	NNIP2-----A----	Atr
+9	ukazují	VB-P---3P-AA---	Pred
+10	trvalou	AAFS4----1A----	Atr
+11	stagnaci	NNFS4-----A----	Obj
+12	v	RR--6----------	AuxP
+13	této	PDFS6----------	Atr
+14	oblasti	NNFS6-----A----	AtrAdv
+15	.	Z:-------------	AuxK
+
+mf920924-032-p1s2
+1	Ceny	NNFP1-----A----	Sb
+2	rostou	VB-P---3P-AA---	Pred
+3	pouze	Db-------------	AuxZ
+4	mírně	Dg-------1A----	Adv
+5	,	Z:-------------	Coord
+6	v	RR--6----------	AuxP
+7	některých	PZXP6----------	Atr
+8	sortimentech	NNIP6-----A----	Adv
+9	dokonce	Db-------------	AuxZ
+10	klesají	VB-P---3P-AA---	Pred
+11	.	Z:-------------	AuxK
+
+mf920924-032-p1s3
+1	To	PDNS1----------	Sb
+2	však	J^-------------	Coord
+3	neznamená	VB-S---3P-NA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	obvyklá	AAFS1----1A----	Atr
+7	hladina	NNFS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	jednotlivých	AAIP6----1A----	Atr
+10	regionech	NNIP6-----A----	Atr
+11	není	VB-S---3P-NA---	Obj
+12	odlišná	AAFS1----1A----	Pnom
+13	-	Z:-------------	AuxG
+14	například	Db-------------	AuxY
+15	Praha	NNFS1-----A----	Sb
+16	a	J^-------------	Coord
+17	lázeňská	AANP1----1A----	Atr
+18	města	NNNP1-----A----	Sb
+19	jsou	VB-P---3P-AA---	Adv
+20	tradičně	Dg-------1A----	Adv
+21	o	RR--4----------	AuxP
+22	něco	PZ--4----------	Adv
+23	"	Z:-------------	AuxG
+24	dražší	AANP1----2A----	Pnom
+25	"	Z:-------------	AuxG
+26	,	Z:-------------	AuxX
+27	než	J,-------------	AuxC
+28	například	Db-------------	AuxZ
+29	Hradec	NNIS1-----A----	ExD
+30	Králové	NNFS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+mf920924-032-p1s4
+1	Navíc	Db-------------	Adv
+2	v	RR--6----------	AuxP
+3	řadě	NNFS6-----A----	Adv
+4	oblastí	NNFP2-----A----	Atr
+5	zneužívají	VB-P---3P-AA---	Pred
+6	svého	P8ZS2----------	Atr
+7	dominantního	AANS2----1A----	Atr
+8	postavení	NNNS2-----A----	Obj
+9	na	RR--6----------	AuxP
+10	relevantním	AAIS6----1A----	Atr
+11	trhu	NNIS6-----A----	Atr
+12	regionální	AAMP1----1A----	Atr
+13	producenti	NNMP1-----A----	Sb
+14	-	Z:-------------	AuxG
+15	většinou	Db-------------	Adv
+16	se	P7-X4----------	AuxT
+17	jedná	VB-S---3P-AA---	Pred
+18	o	RR--4----------	AuxP
+19	maso	NNNS4-----A----	Obj
+20	a	J^-------------	Coord
+21	uzeniny	NNFP4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+mf920924-032-p1s5
+1	Tam	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	cenová	AAFS1----1A----	Atr
+4	hladina	NNFS1-----A----	Sb
+5	o	RR--4----------	AuxP
+6	něco	PZ--4----------	Adv
+7	vyšší	AAFS1----2A----	Pnom
+8	,	Z:-------------	AuxX
+9	než	J,-------------	AuxC
+10	uváděný	AAIS1----1A----	Atr
+11	průměr	NNIS1-----A----	ExD
+12	.	Z:-------------	AuxK
+

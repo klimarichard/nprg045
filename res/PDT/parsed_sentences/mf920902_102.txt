@@ -1,0 +1,133 @@
+mf920902-102-p1s1
+1	Voda	NNFS1-----A----	ExD
+2	už	Db-------------	ExD
+3	dražší	AAFS1----2A----	ExD
+
+mf920902-102-p2s1
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	fil	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920902-102-p2s2
+1	Na	RR--4----------	AuxP
+2	maximální	AAFS4----1A----	Atr
+3	hranici	NNFS4-----A----	Adv
+4	stanovilo	VpNS---XR-AA---	Pred
+5	dvacáté	CrNS1----------	Atr
+6	zasedání	NNNS1-----A----	Sb
+7	zastupitelstva	NNNS2-----A----	Atr
+8	města	NNNS2-----A----	Atr
+9	Brna	NNNS2-----A----	Atr
+10	ceny	NNFP4-----A----	Obj
+11	za	RR--4----------	AuxP
+12	vodné	NNNS4-----A----	Atr
+13	a	J^-------------	Coord
+14	stočné	NNNS4-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920902-102-p2s3
+1	V	RR--6----------	AuxP
+2	téměř	Db-------------	AuxZ
+3	čtyřsettisícové	AAFS6----1A----	Atr
+4	jihomoravské	AAFS6----1A----	Atr
+5	metropoli	NNFS6-----A----	Adv
+6	se	P7-X4----------	AuxR
+7	od	RR--2----------	AuxP
+8	včerejška	NNIS2-----A----	Adv
+9	platí	VB-S---3P-AA---	Pred
+10	za	RR--4----------	AuxP
+11	kubík	NNIS4-----A----	Obj
+12	vodného	NNNS2-----A----	Atr
+13	pět	Cn-S1----------	Sb
+14	korun	NNFP2-----A----	Atr
+15	a	J^-------------	Coord
+16	za	RR--4----------	AuxP
+17	stejný	AAIS4----1A----	Atr
+18	objem	NNIS4-----A----	ExD
+19	stočného	NNNS2-----A----	Atr
+20	čtyři	ClXP1----------	Atr
+21	koruny	NNFP1-----A----	ExD
+22	.	Z:-------------	AuxK
+
+mf920902-102-p2s4
+1	Pracovník	NNMS1-----A----	Atr
+2	Jihomoravských	AAIP2----1A----	Atr
+3	vodovodů	NNIP2-----A----	Atr
+4	a	J^-------------	Coord
+5	kanalizací	NNFP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Brně	NNNS6-----A----	Atr
+8	Pavel	NNMS1-----A----	Atr
+9	Novák	NNMS1-----A----	Sb
+10	nám	PP-P3--1-------	Obj
+11	včera	Db-------------	Adv
+12	v	RR--6----------	AuxP
+13	této	PDFS6----------	Atr
+14	souvislosti	NNFS6-----A----	Adv
+15	sdělil	VpYS---XR-AA---	Pred
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	vodaři	NNMP1-----A----	Sb
+19	nemohou	VB-P---3P-NA--1	Obj
+20	bránit	Vf--------A----	Obj
+21	postupnému	AANS3----1A----	Atr
+22	zavádění	NNNS3-----A----	Obj
+23	bytových	AAIP2----1A----	Atr
+24	vodoměrů	NNIP2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	jejichž	P1XXXXP3-------	Atr
+27	provoz	NNIS1-----A----	Sb
+28	umožní	VB-S---3P-AA---	Atr
+29	vyměřit	Vf--------A----	Obj
+30	každé	AAFS3----1A----	Atr
+31	domácnosti	NNFS3-----A----	Obj
+32	spravedlivý	AAIS4----1A----	Atr
+33	účet	NNIS4-----A----	Obj
+34	za	RR--4----------	AuxP
+35	vodné	NNNS4-----A----	Atr
+36	a	J^-------------	Coord
+37	stočné	NNNS4-----A----	Atr
+38	.	Z:-------------	AuxK
+
+mf920902-102-p2s5
+1	"	Z:-------------	AuxG
+2	Osazování	NNNS1-----A----	Sb
+3	vodoměrů	NNIP2-----A----	Atr
+4	však	J^-------------	AuxY
+5	nepatří	VB-S---3P-NA---	Pred
+6	do	RR--2----------	AuxP
+7	naší	PSFS2-P1-------	Atr
+8	působnosti	NNFS2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+mf920902-102-p2s6
+1	Po	RR--6----------	AuxP
+2	dohodě	NNFS6-----A----	Adv
+3	všech	PLXP2----------	Atr
+4	obyvatel	NNMS1-----A----	Atr
+5	jednotlivých	AAIP2----1A----	Atr
+6	domů	NNIP2-----A----	Atr
+7	mají	VB-P---3P-AA---	Obj
+8	umožnit	Vf--------A----	Obj
+9	montáž	NNFS4-----A----	Obj
+10	bytových	AAIP2----1A----	Atr
+11	vodoměrů	NNIP2-----A----	Atr
+12	majitelé	NNMP1-----A----	Sb
+13	činžovních	AAIP2----1A----	Atr
+14	domů	NNIP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	podniky	NNIP1-----A----	Sb
+17	bytového	AANS2----1A----	Atr
+18	hospodářství	NNNS2-----A----	Atr
+19	a	J^-------------	Coord
+20	bytová	AANP1----1A----	Atr
+21	družstva	NNNP1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	"	Z:-------------	AuxG
+24	doplnil	VpYS---XR-AA---	Pred
+25	Pavel	NNMS1-----A----	Atr
+26	Novák	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+

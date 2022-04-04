@@ -1,0 +1,176 @@
+lnd94103-068-p1s1
+1	Zrušeny	VsTP---XX-AP---	Pred
+2	vyrovnávací	AAFP1----1A----	Atr
+3	dávky	NNFP1-----A----	ExD
+4	pro	RR--4----------	AuxP
+5	dovážené	AANS4----1A----	Atr
+6	víno	NNNS4-----A----	Atr
+
+lnd94103-068-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jpš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94103-068-p1s3
+1	Státní	AAIS1----1A----	Atr
+2	fond	NNIS1-----A----	Sb
+3	tržní	AAFS2----1A----	Atr
+4	regulace	NNFS2-----A----	Atr
+5	(	Z:-------------	Apos
+6	SFTR	NNIXX-----A---8	Sb
+7	)	Z:-------------	AuxG
+8	přechodně	Dg-------1A----	Adv
+9	zrušil	VpYS---XR-AA---	Pred
+10	vyrovnávací	AAFP4----1A----	Atr
+11	dávky	NNFP4-----A----	Obj
+12	pro	RR--4----------	AuxP
+13	dovoz	NNIS4-----A----	AtrAdv
+14	vína	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94103-068-p1s4
+1	Se	RV--7----------	AuxP
+2	slovenskou	AAFS7----1A----	Atr
+3	stranou	NNFS7-----A----	Obj
+4	bylo	VpNS---XR-AA---	AuxV
+5	dohodnuto	VsNS---XX-AP---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	do	RR--2----------	AuxP
+9	konce	NNIS2-----A----	Adv
+10	srpna	NNIS2-----A----	Atr
+11	může	VB-S---3P-AA---	Sb
+12	být	Vf--------A----	AuxV
+13	importováno	VsNS---XX-AP---	Obj
+14	maximálně	Dg-------1A----	Adv
+15	250	C=-------------	Sb
+16	tisíc	ClXS2----------	Atr
+17	hektolitrů	NNIP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94103-068-p1s5
+1	Až	J,-------------	AuxC
+2	bude	VB-S---3F-AA---	AuxV
+3	tato	PDFS1----------	Atr
+4	kvota	NNFS1-----A----	Sb
+5	naplněna	VsQW---XX-AP---	Adv
+6	,	Z:-------------	AuxX
+7	vyrovnávací	AAFP1----1A----	Atr
+8	dávky	NNFP1-----A----	Sb
+9	budou	VB-P---3F-AA---	AuxV
+10	znovu	Db-------------	Adv
+11	zavedeny	VsTP---XX-AP---	Pred
+12	.	Z:-------------	AuxK
+
+lnd94103-068-p1s6
+1	U	RR--2----------	AuxP
+2	bílého	AANS2----1A----	Atr
+3	vína	NNNS2-----A----	Adv
+4	dávka	NNFS1-----A----	Sb
+5	činí	VB-S---3P-AA---	Pred
+6	4.25	C=-------------	Obj
+7	koruny	NNFS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	u	RR--2----------	AuxP
+10	červeného	AANS2----1A----	ExD
+11	4	C=-------------	Atr
+12	koruny	NNFP4-----A----	ExD
+13	.	Z:-------------	AuxK
+
+lnd94103-068-p1s7
+1	Pro	RR--4----------	AuxP
+2	odstranění	NNNS4-----A----	Adv
+3	velkého	AAIS2----1A----	Atr
+4	přebytku	NNIS2-----A----	Atr
+5	brambor	NNFP2-----A----	Atr
+6	z	RR--2----------	AuxP
+7	loňské	AAFS2----1A----	Atr
+8	sklizně	NNFS2-----A----	Atr
+9	fond	NNIS1-----A----	Sb
+10	přijal	VpYS---XR-AA---	Pred
+11	dvě	ClHP4----------	Atr
+12	podpůrná	AANP4----1A----	Atr
+13	opatření	NNNP4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd94103-068-p1s8
+1	Jednak	J^-------------	Adv
+2	prodloužil	VpYS---XR-AA---	Pred
+3	subvencování	NNNS4-----A----	Obj
+4	vývozu	NNIS2-----A----	Atr
+5	brambor	NNFP2-----A----	Atr
+6	až	TT-------------	AuxZ
+7	do	RR--2----------	AuxP
+8	31	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	května	NNIS2-----A----	Adv
+11	(	Z:-------------	AuxG
+12	doposud	Db-------------	Adv
+13	bylo	VpNS---XR-AA---	AuxV
+14	totiž	Db-------------	AuxY
+15	vyvezeno	VsNS---XX-AP---	Pred
+16	pouze	Db-------------	AuxZ
+17	6	C=-------------	Sb
+18	tisíc	ClXS2----------	Atr
+19	tun	NNFP2-----A----	Atr
+20	z	RR--2----------	AuxP
+21	plánovaných	AAFP2----1A----	Atr
+22	100	C=-------------	Atr
+23	tisíc	ClXS2----------	Atr
+24	tun	NNFP2-----A----	Atr
+25	)	Z:-------------	AuxG
+26	a	J^-------------	Coord
+27	dále	Db------------1	Adv
+28	byla	VpQW---XR-AA---	AuxV
+29	schválena	VsQW---XX-AP---	Pred
+30	státní	AAFS1----1A----	Atr
+31	podpora	NNFS1-----A----	Sb
+32	vývozu	NNIS2-----A----	Atr
+33	800	C=-------------	Atr
+34	tun	NNFP2-----A----	Atr
+35	škrobového	AAIS2----1A----	Atr
+36	sirupu	NNIS2-----A----	Atr
+37	(	Z:-------------	ExD
+38	subvence	NNFS1-----A----	ExD
+39	7500	C=-------------	Atr
+40	Kč	NNFXX-----A---8	Atr
+41	za	RR--4----------	AuxP
+42	tunu	NNFS4-----A----	Atr
+43	)	Z:-------------	ExD
+44	.	Z:-------------	AuxK
+
+lnd94103-068-p1s9
+1	Podmínkou	NNFS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	škrobárny	NNFP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	které	P4FP1----------	Sb
+8	chtějí	VB-P---3P-AA---	Atr
+9	subvenci	NNFS4-----A----	Obj
+10	získat	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	musí	VB-P---3P-AA--1	Sb
+13	od	RR--2----------	AuxP
+14	zemědělců	NNMP2-----A----	Adv
+15	na	RR--4----------	AuxP
+16	každou	AAFS4----1A----	Atr
+17	tunu	NNFS4-----A----	Adv
+18	sirupu	NNIS2-----A----	Atr
+19	vykoupit	Vf--------A----	Obj
+20	minimálně	Dg-------1A----	AuxZ
+21	6	C=-------------	Obj
+22	tun	NNFP2-----A----	Atr
+23	brambor	NNFP2-----A----	Atr
+24	v	RR--6----------	AuxP
+25	ceně	NNFS6-----A----	Adv
+26	alespoň	Db-------------	AuxZ
+27	900	C=-------------	Atr
+28	korun	NNFP2-----A----	Atr
+29	za	RR--4----------	AuxP
+30	tunu	NNFS4-----A----	Atr
+31	.	Z:-------------	AuxK
+

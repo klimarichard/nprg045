@@ -1,0 +1,162 @@
+mf930709-025-p1s1
+1	Škola	NNFS1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	knihkupce	NNMP4-----A----	Atr
+4	s	RR--7----------	AuxP
+5	maturitou	NNFS7-----A----	Atr
+
+mf930709-025-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jpk	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-025-p2s1B
+1	Do	RR--2----------	AuxP
+2	sítě	NNFS2-----A----	Adv
+3	českých	AAFP2----1A----	Atr
+4	středních	AAFP2----1A----	Atr
+5	škol	NNFP2-----A----	Atr
+6	bylo	VpNS---XR-AA---	AuxV
+7	dodatečně	Dg-------1A----	Adv
+8	zařazeno	VsNS---XX-AP---	Pred
+9	čtyřleté	AANS1----1A----	Atr
+10	studium	NNNS1-----A----	Sb
+11	na	RR--6----------	AuxP
+12	soukromé	AAFS6----1A----	Atr
+13	střední	AAFS6----1A----	Atr
+14	škole	NNFS6-----A----	Atr
+15	pro	RR--4----------	AuxP
+16	knihkupce	NNMP4-----A----	Atr
+17	a	J^-------------	Coord
+18	nakladatelské	AAMP4----1A----	Atr
+19	pracovníky	NNMP4-----A----	Atr
+20	v	RR--6----------	AuxP
+21	Brně	NNNS6-----A----	Atr
+22	a	J^-------------	Coord
+23	v	RR--6----------	AuxP
+24	Praze	NNFS6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+mf930709-025-p2s3
+1	Studium	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	ukončeno	VsNS---XX-AP---	Pred
+4	maturitní	AAFS7----1A----	Atr
+5	zkouškou	NNFS7-----A----	Adv
+6	,	Z:-------------	Coord
+7	přičemž	J,-------------	Adv
+8	už	Db-------------	AuxZ
+9	ve	RV--6----------	AuxP
+10	třetím	CrIS6----------	Atr
+11	ročníku	NNIS6-----A----	Adv
+12	lze	VB-S---3P-AA---	Pred
+13	získat	Vf--------A----	Sb
+14	výuční	AAIS4----1A----	Atr
+15	list	NNIS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+mf930709-025-p3s1
+1	Rodiče	NNMP1-----A----	Sb
+2	studentů	NNMP2-----A----	Atr
+3	knihovnické	AAFS2----1A----	Atr
+4	školy	NNFS2-----A----	Atr
+5	budou	VB-P---3F-AA---	AuxV
+6	muset	Vf--------A----	Pred
+7	zaplatit	Vf--------A----	Obj
+8	tisíc	NNIS4-----A----	Obj
+9	korun	NNFP2-----A----	Atr
+10	zápisného	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	750	C=-------------	Obj
+13	korun	NNFP2-----A----	Atr
+14	měsíčně	Dg-------1A----	Atr
+15	školného	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930709-025-p3s2
+1	Do	RR--2----------	AuxP
+2	školy	NNFS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	možné	AANS1----1A----	Pnom
+5	se	P7-X4----------	AuxT
+6	přihlásit	Vf--------A----	Sb
+7	do	RR--2----------	AuxP
+8	31	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	července	NNIS2-----A----	Adv
+11	v	RR--6----------	AuxP
+12	kontaktních	AANP6----1A----	Atr
+13	knihkupectvích	NNNP6-----A----	Adv
+14	společnosti	NNFS2-----A----	Atr
+15	Barvič	NNMS1-----A----	Atr
+16	&	Z:-------------	Coord
+17	Novotný	NNMS1-----A----	Atr
+18	v	RR--6----------	AuxP
+19	České	AAFS6----1A----	Atr
+20	ulici	NNFS6-----A----	Atr
+21	13	C=-------------	Atr
+22	v	RR--6----------	AuxP
+23	Brně	NNNS6-----A----	Atr
+24	a	J^-------------	Coord
+25	v	RR--6----------	AuxP
+26	Orbisu	NNIS6-----A----	Adv
+27	na	RR--6----------	AuxP
+28	Václavském	AANS6----1A----	Atr
+29	náměstí	NNNS6-----A----	Atr
+30	42	C=-------------	Atr
+31	v	RR--6----------	AuxP
+32	Praze	NNFS6-----A----	Atr
+33	.	Z:-------------	AuxK
+
+mf930709-025-p4s1
+1	V	RR--6----------	AuxP
+2	hlavním	AANS6----1A----	Atr
+3	městě	NNNS6-----A----	Adv
+4	bude	VB-S---3F-AA---	AuxV
+5	škola	NNFS1-----A----	Sb
+6	působit	Vf--------A----	Pred
+7	v	RR--6----------	AuxP
+8	budově	NNFS6-----A----	Adv
+9	Svobodné	AAFS2----1A----	Atr
+10	základní	AAFS2----1A----	Atr
+11	školy	NNFS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Londýnské	AAFS6----1A----	Atr
+14	ulici	NNFS6-----A----	Atr
+15	,	Z:-------------	Coord
+16	v	RR--6----------	AuxP
+17	Brně	NNNS6-----A----	ExD
+18	ve	RV--6----------	AuxP
+19	Vesně	NNFS6-----A----	ExD
+20	v	RR--6----------	AuxP
+21	Údolní	AAFS6----1A----	Atr
+22	.	Z:-------------	AuxK
+
+mf930709-025-p4s2
+1	Výuka	NNFS1-----A----	Sb
+2	knihkupců	NNMP2-----A----	Atr
+3	a	J^-------------	Coord
+4	nakladatelů	NNMP2-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	akcentovat	Vf--------A----	Pred
+7	humanitní	AAIP4----1A----	Atr
+8	předměty	NNIP4-----A----	Obj
+9	související	AGIP4-----A----	Atr
+10	s	RR--7----------	AuxP
+11	knihkupeckou	AAFS7----1A----	Atr
+12	praxí	NNFS7-----A----	Obj
+13	,	Z:-------------	Coord
+14	od	RR--2----------	AuxP
+15	druhého	CrIS2----------	Atr
+16	ročníku	NNIS2-----A----	Adv
+17	se	P7-X4----------	AuxR
+18	rozdělí	VB-S---3P-AA---	Pred
+19	na	RR--4----------	AuxP
+20	učební	AAIS4----1A----	Atr
+21	a	J^-------------	Coord
+22	studijní	AAIS4----1A----	Atr
+23	směr	NNIS4-----A----	Obj
+24	.	Z:-------------	AuxK
+

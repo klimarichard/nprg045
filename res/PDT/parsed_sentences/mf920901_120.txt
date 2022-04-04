@@ -1,0 +1,128 @@
+mf920901-120-p1s1
+1	Martin	NNMS1-----A----	Atr
+2	Bormann	NNMS1-----A----	Sb
+3	byl	VpYS---XR-AA---	Pred
+4	agentem	NNMS7-----A----	Pnom
+5	sovětské	AAFS2----1A----	Atr
+6	rozvědky	NNFS2-----A----	Atr
+7	?	Z:-------------	AuxK
+
+mf920901-120-p2s1
+1	RUSKO	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf920901-120-p3s1
+1	Martin	NNMS1-----A----	Atr
+2	Bormann	NNMS1-----A----	Sb
+3	byl	VpYS---XR-AA---	Pred
+4	agentem	NNMS7-----A----	Pnom
+5	sovětské	AAFS2----1A----	Atr
+6	rozvědky	NNFS2-----A----	Atr
+7	?	Z:-------------	AuxK
+
+mf920901-120-p4s1
+1	Moskva	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920901-120-p4s2
+1	Jeden	ClYS1----------	Atr
+2	z	RR--2----------	AuxP
+3	nejmocnějších	AAMP2----3A----	Atr
+4	mužů	NNMP2-----A----	Atr
+5	nacistického	AANS2----1A----	Atr
+6	Německa	NNNS2-----A----	Atr
+7	Martin	NNMS1-----A----	Atr
+8	Bormann	NNMS1-----A----	Sb
+9	byl	VpYS---XR-AA---	Pred
+10	od	RR--2----------	AuxP
+11	dvacátých	CrNP2----------	Atr
+12	let	NNNP2-----A----	Adv
+13	agentem	NNMS7-----A----	Pnom
+14	sovětské	AAFS2----1A----	Atr
+15	rozvědky	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920901-120-p4s3
+1	Tvrdí	VB-S---3P-AA---	Pred
+2	to	PDNS4----------	Obj
+3	autor	NNMS1-----A----	Atr
+4	několika	Ca--2----------	Atr
+5	publikací	NNFP2-----A----	Atr
+6	o	RR--6----------	AuxP
+7	druhé	CrFS6----------	Atr
+8	světové	AAFS6----1A----	Atr
+9	válce	NNFS6-----A----	Atr
+10	Boris	NNMS1-----A----	Atr
+11	Tartakovskij	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+mf920901-120-p4s4
+1	Vysoký	AAMS1----1A----	Atr
+2	představitel	NNMS1-----A----	Sb
+3	někdejší	AAFS2----1A----	Atr
+4	sovětské	AAFS2----1A----	Atr
+5	tajné	AAFS2----1A----	Atr
+6	služby	NNFS2-----A----	Atr
+7	však	J^-------------	AuxY
+8	v	RR--6----------	AuxP
+9	rozhovoru	NNIS6-----A----	Adv
+10	pro	RR--4----------	AuxP
+11	ruskou	AAFS4----1A----	Atr
+12	televizi	NNFS4-----A----	Atr
+13	tuto	PDFS4----------	Atr
+14	možnost	NNFS4-----A----	Obj
+15	vyloučil	VpYS---XR-AA---	Pred
+16	.	Z:-------------	AuxK
+
+mf920901-120-p5s1
+1	Boris	NNMS1-----A----	Atr
+2	Tartakovskij	NNMS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	rozhovoru	NNIS6-----A----	Adv
+5	pro	RR--4----------	AuxP
+6	publicistický	AAIS4----1A----	Atr
+7	pořad	NNIS4-----A----	Atr
+8	ruské	AAFS2----1A----	Atr
+9	televize	NNFS2-----A----	Atr
+10	Itogi	NNNXX-----A----	Atr
+11	řekl	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	o	RR--6----------	AuxP
+15	Bormannově	AUFS6M---------	Atr
+16	spolupráci	NNFS6-----A----	Obj
+17	se	RV--7----------	AuxP
+18	sovětskou	AAFS7----1A----	Atr
+19	rozvědkou	NNFS7-----A----	Atr
+20	mu	PHZS3--3-------	Obj
+21	pověděl	VpYS---XR-AA---	Obj
+22	před	RR--7----------	AuxP
+23	svou	P8FS7---------1	Atr
+24	smrtí	NNFS7-----A----	Adv
+25	sovětský	AAMS1----1A----	Atr
+26	maršál	NNMS1-----A----	Atr
+27	,	Z:-------------	Coord
+28	vojevůdce	NNMS1-----A----	Atr
+29	druhé	CrFS2----------	Atr
+30	světové	AAFS2----1A----	Atr
+31	války	NNFS2-----A----	Atr
+32	Andrej	NNMS1-----A----	Atr
+33	Jerjomenko	NNMS1-----A----	Sb
+34	.	Z:-------------	AuxK
+
+mf920901-120-p5s2
+1	Podrobnosti	NNFP4-----A----	Obj
+2	o	RR--6----------	AuxP
+3	případu	NNIS6-----A---1	Atr
+4	se	P7-X4----------	AuxT
+5	údajně	Dg-------1A----	Adv
+6	dověděl	VpYS---XR-AA---	Pred
+7	od	RR--2----------	AuxP
+8	"	Z:-------------	AuxG
+9	generála	NNMS2-----A----	Atr
+10	vojenské	AAFS2----1A----	Atr
+11	rozvědky	NNFS2-----A----	Atr
+12	Arkuši	NNMS2-----A----	Adv
+13	"	Z:-------------	AuxG
+14	.	Z:-------------	AuxK
+

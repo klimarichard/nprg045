@@ -1,0 +1,206 @@
+mf920902-092-p1s1
+1	poznámka	NNFS1-----A----	ExD
+
+mf920902-092-p2s1A
+1	PŘÍLIŠ	Db-------------	Adv
+2	MNOHO	Ca--1----------	ExD
+3	HAVÁRIÍ	NNFP2-----A----	Atr
+
+mf920902-092-p2s1B
+1	Páteční	AAFS1----1A----	Atr
+2	havárie	NNFS1-----A----	Sb
+3	stíhačky	NNFS2-----A----	Atr
+4	MIG	NNIXX-----A---8	Atr
+5	21	C=-------------	Atr
+6	u	RR--2----------	AuxP
+7	Českých	AAFP2----1A----	Atr
+8	Budějovic	NNFP2-----A----	Atr
+9	přinesla	VpQW---XR-AA---	Pred
+10	smrt	NNFS4-----A----	Obj
+11	dalšímu	AAMS3----1A----	Atr
+12	vojenskému	AAMS3----1A----	Atr
+13	pilotovi	NNMS3-----A----	Obj
+14	-	Z:-------------	AuxG
+15	už	Db-------------	AuxZ
+16	šestému	CrMS3----------	Atr
+17	od	RR--2----------	AuxP
+18	začátku	NNIS2-----A----	Adv
+19	roku	NNIS2-----A---1	Atr
+20	.	Z:-------------	AuxK
+
+mf920902-092-p2s2
+1	A	J^-------------	Coord
+2	to	PDNS1----------	Sb
+3	je	VB-S---3P-AA---	Pred
+4	počet	NNIS1-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	zaráží	VB-S---3P-AA---	Atr
+8	.	Z:-------------	AuxK
+
+mf920902-092-p2s3
+1	Vyšetřování	NNNS1-----A----	Sb
+2	případu	NNIS2-----A----	Atr
+3	ještě	Db-------------	Adv
+4	neskončilo	VpNS---XR-NA---	Pred
+5	,	Z:-------------	Coord
+6	u	RR--2----------	AuxP
+7	předchozích	AAFP2----1A----	Atr
+8	nehod	NNFP2-----A----	Adv
+9	však	J^-------------	AuxY
+10	nebyla	VpQW---XR-NA---	Pred
+11	příčinou	NNFS7-----A----	Pnom
+12	technická	AAFS1----1A----	Atr
+13	závada	NNFS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf920902-092-p2s4
+1	Chyba	NNFS1-----A----	Sb
+2	tedy	Db-------------	AuxY
+3	zůstává	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	pilotech	NNMP6-----A----	Adv
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+
+mf920902-092-p2s5
+1	Neobstojí	VB-S---3P-NA---	Pred
+2	občasné	AANS1----1A----	Atr
+3	tvrzení	NNNS1-----A----	Sb
+4	vojenských	AAMP2----1A----	Atr
+5	letců	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	kvůli	RR--3----------	AuxP
+9	nynějším	AAIP3----1A----	Atr
+10	protestům	NNIP3-----A----	Adv
+11	obyvatel	NNMS1-----A----	Atr
+12	ze	RV--2----------	AuxP
+13	sousedství	NNNP2-----A----	Atr
+14	vojenských	AANP2----1A----	Atr
+15	letišť	NNNP2-----A----	Atr
+16	létají	VB-P---3P-AA---	Atr
+17	méně	Dg-------2A----	Adv
+18	než	J,-------------	AuxC
+19	jejich	PSXXXXP3-------	Atr
+20	západní	AAMP1----1A----	Atr
+21	kolegové	NNMP1-----A----	ExD
+22	,	Z:-------------	AuxX
+23	takže	J,-------------	AuxC
+24	ve	RV--6----------	AuxP
+25	vzduchu	NNIS6-----A----	Adv
+26	pak	Db-------------	Adv
+27	nemají	VB-P---3P-NA---	Adv
+28	takovou	PDFS4----------	Atr
+29	jistotu	NNFS4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+mf920902-092-p2s6
+1	Pamětníci	NNMP1-----A----	Sb
+2	totiž	Db-------------	AuxY
+3	dobře	Dg-------1A----	Adv
+4	vědí	VB-P---3P-AA--1	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	vojenská	AANP1----1A----	Atr
+8	letadla	NNNP1-----A----	Sb
+9	padala	VpQW---XR-AA---	Obj
+10	i	J^-------------	AuxZ
+11	dřív	Dg-------2A---2	Adv
+12	,	Z:-------------	AuxX
+13	jenomže	J^-------------	Coord
+14	tenkrát	Db-------------	Adv
+15	se	P7-X4----------	AuxR
+16	to	PDNS1----------	Sb
+17	utajilo	VpNS---XR-AA---	Obj
+18	.	Z:-------------	AuxK
+
+mf920902-092-p2s7
+1	Armáda	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	tedy	Db-------------	AuxY
+4	musí	VB-S---3P-AA---	Pred
+5	důkladně	Dg-------1A----	Adv
+6	zamyslet	Vf--------A----	Obj
+7	.	Z:-------------	AuxK
+
+mf920902-092-p2s8
+1	Buď	J^-------------	AuxY
+2	je	VB-S---3P-AA---	Pred
+3	za	RR--7----------	AuxP
+4	černou	AAFS7----1A----	Atr
+5	sérií	NNFS7-----A----	Adv
+6	leteckých	AAFP2----1A----	Atr
+7	nehod	NNFP2-----A----	Atr
+8	jenom	TT-------------	AuxZ
+9	smůla	NNFS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	která	P4FS1----------	Sb
+12	může	VB-S---3P-AA---	Atr
+13	postihnout	Vf--------A----	Obj
+14	každého	AAMS4----1A----	Obj
+15	.	Z:-------------	AuxK
+
+mf920902-092-p2s9
+1	Anebo	J^-------------	Coord
+2	v	RR--6----------	AuxP
+3	systému	NNIS6-----A----	Adv
+4	přípravy	NNFS2-----A----	Atr
+5	pilotů	NNMP2-----A----	Atr
+6	něco	PZ--1----------	Sb
+7	nefunguje	VB-S---3P-NA---	Pred
+8	.	Z:-------------	AuxK
+
+mf920902-092-p2s10
+1	A	J^-------------	Coord
+2	s	RR--7----------	AuxP
+3	tím	PDZS7----------	Adv
+4	armáda	NNFS1-----A----	Sb
+5	musí	VB-S---3P-AA---	Pred
+6	něco	PZ--4----------	Obj
+7	udělat	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	i	J^-------------	AuxY
+10	kdyby	J,-------------	AuxC
+11	to	PDNS1----------	Pnom
+12	mělo	VpNS---XR-AA---	Adv
+13	být	Vf--------A----	Obj
+14	další	AANS1----1A----	Atr
+15	omezení	NNNS1-----A----	Sb
+16	provozovaných	AANP2----1A----	Atr
+17	letadel	NNNP2-----A----	Atr
+18	na	RR--4----------	AuxP
+19	počet	NNIS4-----A----	Atr
+20	,	Z:-------------	AuxX
+21	pro	RR--4----------	AuxP
+22	který	P4IS4----------	Adv
+23	je	VB-S---3P-AA---	Atr
+24	možné	AANS1----1A----	Pnom
+25	připravit	Vf--------A----	Sb
+26	piloty	NNMP4-----A----	Obj
+27	na	RR--6----------	AuxP
+28	odpovídající	AGFS6-----A----	Atr
+29	výši	NNFS6-----A----	Adv
+30	.	Z:-------------	AuxK
+
+mf920902-092-p2s11
+1	Není	VB-S---3P-NA---	Pred
+2	však	J^-------------	AuxY
+3	možné	AANS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	lidé	NNMP1-----A---1	Sb
+8	báli	VpMP---XR-AA---	Sb
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	jim	PPXP3--3-------	Obj
+12	vojenská	AANP1----1A----	Atr
+13	letadla	NNNP1-----A----	Sb
+14	budou	VB-P---3F-AA---	AuxV
+15	padat	Vf--------A----	Obj
+16	na	RR--4----------	AuxP
+17	hlavu	NNFS4-----A----	Adv
+18	.	Z:-------------	AuxK
+

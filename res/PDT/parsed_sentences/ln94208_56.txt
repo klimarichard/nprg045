@@ -1,0 +1,136 @@
+ln94208-56-p1s1
+1	ČSSD	NNFXX-----A---8	ExD
+2	:	Z:-------------	Coord
+3	pět	Cn-S4----------	ExD
+4	až	J^-------------	Coord
+5	sedm	Cn-S4----------	ExD
+6	milionů	NNIP2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	volby	NNFP4-----A----	Atr
+
+ln94208-56-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln94208-56-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	em	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	čtk	NNFXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94208-56-p2s1C
+1	Výkonný	AAIS1----1A----	Atr
+2	výbor	NNIS1-----A----	Sb
+3	ČSSD	NNFXX-----A---8	Atr
+4	nebyl	VpYS---XR-NA---	Pred
+5	na	RR--6----------	AuxP
+6	svém	P8ZS6----------	Atr
+7	víkendovém	AANS6----1A----	Atr
+8	zasedání	NNNS6-----A----	Adv
+9	usnášeníschopný	AAIS1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	proto	J^-------------	Coord
+12	nemohl	VpYS---XR-NA---	Pred
+13	přijmout	Vf--------A----	Obj
+14	usnesení	NNNS4-----A----	Obj
+15	ke	RV--3----------	AuxP
+16	komunálním	AAFP3----1A----	Atr
+17	volbám	NNFP3-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94208-56-p2s2
+1	Jména	NNNP4-----A----	Obj
+2	kandidátů	NNMP2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	Prahu	NNFS4-----A----	Atr
+5	předseda	NNMS1-----A----	Atr
+6	Zeman	NNMS1-----A----	Sb
+7	zatím	Db-------------	Adv
+8	neoznámil	VpYS---XR-NA---	Pred
+9	.	Z:-------------	AuxK
+
+ln94208-56-p2s3
+1	Sociální	AAMP1----1A----	Atr
+2	demokraté	NNMP1-----A----	Sb
+3	podle	RR--2----------	AuxP
+4	jeho	PSXXXZS3-------	Atr
+5	slov	NNNP2-----A----	Adv
+6	budou	VB-P---3F-AA---	AuxV
+7	mít	Vf--------A----	Pred
+8	kandidátky	NNFP4-----A----	Obj
+9	ve	RV--6----------	AuxP
+10	všech	PLXP6----------	Atr
+11	velkých	AANP6----1A----	Atr
+12	městech	NNNP6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	dále	Db------------1	Coord
+15	v	RR--6----------	AuxP
+16	okresních	AANP6----1A----	Atr
+17	městech	NNNP6-----A----	Adv
+18	a	J^-------------	Coord
+19	všech	PLXP6----------	Atr
+20	obcích	NNFP6-----A----	Adv
+21	,	Z:-------------	AuxX
+22	které	P4FP1----------	Sb
+23	mají	VB-P---3P-AA---	Atr
+24	více	Dg-------2A----	Obj
+25	než	J,-------------	AuxC
+26	5000	C=-------------	Adv
+27	obyvatel	NNMP2-----A---1	Atr
+28	.	Z:-------------	AuxK
+
+ln94208-56-p2s4
+1	Do	RR--2----------	AuxP
+2	předvolební	AAFS2----1A----	Atr
+3	kampaně	NNFS2-----A----	Adv
+4	hodlá	VB-S---3P-AA---	Pred
+5	ČSSD	NNFXX-----A---8	Sb
+6	investovat	Vf--------A----	Obj
+7	5	C=-------------	Obj
+8	až	J^-------------	Coord
+9	7	C=-------------	Obj
+10	milionů	NNIP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94208-56-p2s5
+1	Za	RR--4----------	AuxP
+2	největšího	AAMS4----3A----	Atr
+3	konkurenta	NNMS4-----A----	Obj
+4	pro	RR--4----------	AuxP
+5	komunální	AAFP4----1A----	Atr
+6	volby	NNFP4-----A----	Atr
+7	považuje	VB-S---3P-AA---	Pred
+8	ODS	NNFXX-----A---8	Obj
+9	.	Z:-------------	AuxK
+
+ln94208-56-p3s1
+1	Městská	AAFS1----1A----	Atr
+2	konference	NNFS1-----A----	Sb
+3	ČSSD	NNFXX-----A---8	Atr
+4	v	RR--6----------	AuxP
+5	Českých	AAFP6----1A----	Atr
+6	Budějovicích	NNFP6-----A----	AtrAdv
+7	zvolila	VpQW---XR-AA---	Pred
+8	do	RR--2----------	AuxP
+9	čela	NNNS2-----A----	Adv
+10	své	P8FS2---------1	Atr
+11	kandidátky	NNFS2-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	obecní	AAFP4----1A----	Atr
+14	volby	NNFP4-----A----	Atr
+15	někdejšího	AAMS4----1A----	Atr
+16	hlavního	AAMS4----1A----	Atr
+17	vojenského	AAMS4----1A----	Atr
+18	prokurátora	NNMS4-----A----	Atr
+19	a	J^-------------	Coord
+20	nynějšího	AAMS4----1A----	Atr
+21	advokáta	NNMS4-----A----	Atr
+22	Miroslava	NNMS4-----A----	Atr
+23	Kříženeckého	NNMS4-----A----	Obj
+24	.	Z:-------------	AuxK
+

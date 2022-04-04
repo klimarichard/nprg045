@@ -1,0 +1,815 @@
+cmpr9410-015-p2s1
+1	Nová	AAFS1----1A----	Atr
+2	ordinace	NNFS1-----A----	ExD
+3	za	RR--4----------	AuxP
+4	víkend	NNIS4-----A----	ExD
+
+cmpr9410-015-p3s1
+1	Osvědčila	VpQW---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	kooperace	NNFS1-----A----	Sb
+4	s	RR--7----------	AuxP
+5	leasingovou	AAFS7----1A----	Atr
+6	společností	NNFS7-----A----	Atr
+
+cmpr9410-015-p4s1
+1	V	RR--4----------	AuxP
+2	pátek	NNIS4-----A----	Adv
+3	jste	VB-P---2P-AA---	AuxV
+4	absolvovali	VpMP---XR-AA---	Pred
+5	lékařský	AAIS4----1A----	Atr
+6	zákrok	NNIS4-----A----	Obj
+7	u	RR--2----------	AuxP
+8	svého	P8ZS2----------	Atr
+9	stomatologa	NNMS2-----A----	AtrAdv
+10	.	Z:-------------	AuxK
+
+cmpr9410-015-p4s2
+1	Potrápil	VpYS---XR-AA---	Pred
+2	vás	PP-P4--2-------	Obj
+3	a	J^-------------	Coord
+4	v	RR--4----------	AuxP
+5	pondělí	NNNS4-----A----	Adv
+6	máte	VB-P---2P-AA---	Pred
+7	přijít	Vf--------A----	Obj
+8	zase	Db-------------	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9410-015-p4s3
+1	Po	RR--6----------	AuxP
+2	příchodu	NNIS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	domníváte	VB-P---2P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	jste	VB-P---2P-AA---	AuxV
+8	se	P7-X4----------	AuxT
+9	spletl	VpYS---XR-AA---	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9410-015-p4s4
+1	Ordinaci	NNFS4-----A----	Obj
+2	nepoznáváte	VB-P---2P-NA---	Pred
+3	.	Z:-------------	AuxK
+
+cmpr9410-015-p4s5
+1	Je	VB-S---3P-AA---	Pred
+2	zařízena	VsQW---XX-AP---	Pnom
+3	zcela	Db-------------	Adv
+4	nově	Dg-------1A----	Adv
+5	.	Z:-------------	AuxK
+
+cmpr9410-015-p4s6
+1	Ležíte	VB-P---2P-AA---	Pred
+2	na	RR--6----------	AuxP
+3	špičkovém	AANS6----1A----	Atr
+4	zubařském	AANS6----1A----	Atr
+5	křesle	NNNS6-----A----	Adv
+6	,	Z:-------------	Coord
+7	okolo	Db-------------	Adv
+8	vidíte	VB-P---2P-AA---	Pred
+9	samé	PLYP4----------	Atr
+10	nové	AAIP4----1A----	Atr
+11	přístroje	NNIP4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9410-015-p6s1
+1	Jaromír	NNMS1-----A----	Atr
+2	Složil	NNMS1-----A----	ExD
+
+cmpr9410-015-p8s1
+1	Díky	RR--3----------	AuxP
+2	přístupu	NNIS3-----A----	Adv
+3	novojičínské	AAFS2----1A----	Atr
+4	firmy	NNFS2-----A----	Atr
+5	Formed	NNXXX-----A----	Atr
+6	neztratil	VpYS---XR-NA---	Pred
+7	lékař	NNMS1-----A----	Sb
+8	ani	J^-------------	AuxZ
+9	den	NNIS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9410-015-p8s2
+1	Technici	NNMP1-----A----	Sb
+2	totiž	Db-------------	AuxY
+3	zvládli	VpMP---XR-AA--1	Pred
+4	výměnu	NNFS4-----A----	Obj
+5	zařízení	NNNS2-----A----	Atr
+6	ordinace	NNFS2-----A----	Atr
+7	za	RR--4----------	AuxP
+8	víkend	NNIS4-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9410-015-p8s3
+1	V	RR--4----------	AuxP
+2	sobotu	NNFS4-----A----	Adv
+3	demontovali	VpMP---XR-AA---	Pred
+4	,	Z:-------------	Coord
+5	v	RR--4----------	AuxP
+6	neděli	NNFS4-----A----	Adv
+7	ustavili	VpMP---XR-AA---	Pred
+8	zařízení	NNNS4-----A----	Obj
+9	nové	AANS4----1A----	Atr
+10	a	J^-------------	Coord
+11	proškolili	VpMP---XR-AA---	Pred
+12	lékaře	NNMS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9410-015-p9s1
+1	Pomáhá	VB-S---3P-AA---	Pred
+2	kooperace	NNFS1-----A----	Sb
+
+cmpr9410-015-p10s1
+1	Nové	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	Sb
+3	ordinace	NNFS2-----A----	Atr
+4	stojí	VB-S---3P-AA---	Pred
+5	okolo	RR--2----------	AuxP
+6	půl	ClXS2----------	Adv
+7	milionu	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9410-015-p10s2
+1	Když	J,-------------	AuxC
+2	se	P7-X4----------	AuxR
+3	dodá	VB-S---3P-AA---	Adv
+4	i	J^-------------	AuxZ
+5	s	RR--7----------	AuxP
+6	nábytkem	NNIS7-----A----	Adv
+7	,	Z:-------------	AuxX
+8	může	VB-S---3P-AA---	Pred
+9	to	PDNS1----------	Sb
+10	být	Vf--------A----	Obj
+11	až	TT-------------	AuxZ
+12	800	C=-------------	Pnom
+13	tisíc	ClXS2----------	Atr
+14	Kč	NNFXX-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9410-015-p10s3
+1	Lékař	NNMS1-----A----	Sb
+2	musí	VB-S---3P-AA---	Pred
+3	ošetřovat	Vf--------A----	Obj
+4	a	J^-------------	Coord
+5	"	Z:-------------	AuxG
+6	bodovat	Vf--------A----	Obj
+7	"	Z:-------------	AuxG
+8	-	Z:-------------	Apos
+9	shánět	Vf--------A----	Obj
+10	body	NNIP4-----A----	Obj
+11	-	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	má	VB-S---3P-AA---	Adv
+14	-	Z:-------------	AuxG
+15	li	TT-------------	AuxC
+16	uspět	Vf--------A----	Obj
+17	a	J^-------------	Coord
+18	vše	PLNS4---------1	Obj
+19	včas	Db-------------	Adv
+20	zaplatit	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9410-015-p11s1
+1	Získat	Vf--------A----	Obj
+2	nové	AANS4----1A----	Atr
+3	zařízení	NNNS4-----A----	Obj
+4	ordinace	NNFS2-----A----	Atr
+5	rychle	Dg-------1A----	Adv
+6	umožňuje	VB-S---3P-AA---	Pred
+7	leasing	NNIS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+cmpr9410-015-p11s2
+1	Málokterý	PZYS1----------	Atr
+2	lékař	NNMS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	dispozici	NNFS3-----A----	Adv
+6	naráz	Db-------------	Adv
+7	celého	AAIS2----1A----	Atr
+8	půl	NNFS4-----A----	Obj
+9	milionu	NNIS2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9410-015-p11s3
+1	Ve	RV--6----------	AuxP
+2	Formed	NNXXX-----A----	Adv
+3	proto	J^-------------	Coord
+4	přijali	VpMP---XR-AA---	Pred
+5	filozofii	NNFS4-----A----	Obj
+6	úzké	AAFS2----1A----	Atr
+7	spolupráce	NNFS2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	Moravskou	AAFS7----1A----	Atr
+10	leasingovou	AAFS7----1A----	Atr
+11	společností	NNFS7-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Ostravě	NNFS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9410-015-p11s4
+1	Klientovi	NNMS3-----A----	Obj
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	projeví	VB-S---3P-AA---	Atr
+5	zájem	NNIS4-----A----	Obj
+6	o	RR--4----------	AuxP
+7	dodávku	NNFS4-----A----	Atr
+8	zařízení	NNNS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	doporučí	VB-S---3P-AA---	Pred
+11	firma	NNFS1-----A----	Sb
+12	leasingový	AAIS4----1A----	Atr
+13	nákup	NNIS4-----A----	Obj
+14	prostřednictvím	NNNS7-----A----	AuxP
+15	ostravského	AAMS2----1A----	Atr
+16	partnera	NNMS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-015-p11s5
+1	Tam	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	třeba	ACNS------A----	Pnom
+4	složit	Vf--------A----	Sb
+5	20	C=-------------	Obj
+6	-	Z:-------------	Coord
+7	30	C=-------------	Obj
+8	%	Z:-------------	Atr
+9	pořizovací	AAFS2----1A----	Atr
+10	hodnoty	NNFS2-----A----	Atr
+11	zařízení	NNNS2-----A----	Atr
+12	jako	J,-------------	AuxY
+13	první	CrFS4----------	Atr
+14	splátku	NNFS4-----A----	Atv
+15	a	J^-------------	Coord
+16	poté	Db-------------	Adv
+17	měsíčně	Dg-------1A----	Adv
+18	splácet	Vf--------A----	Sb
+19	12	C=-------------	Obj
+20	až	J^-------------	Coord
+21	15	C=-------------	Obj
+22	tisíc	ClXS2----------	Atr
+23	Kč	NNFXX-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9410-015-p11s6
+1	Systém	NNIS1-----A----	Sb
+2	funguje	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	recipročně	Dg-------1A----	Adv
+5	.	Z:-------------	AuxK
+
+cmpr9410-015-p11s7
+1	Lékař	NNMS1-----A----	Sb
+2	-	Z:-------------	Apos
+3	zájemce	NNMS1-----A----	Sb
+4	o	RR--4----------	AuxP
+5	leasingový	AAIS4----1A----	Atr
+6	nákup	NNIS4-----A----	Atr
+7	v	RR--6----------	AuxP
+8	leasingové	AAFS6----1A----	Atr
+9	společnosti	NNFS6-----A----	Atr
+10	dostane	VB-S---3P-AA---	Pred
+11	doporučení	NNNS4-----A----	Obj
+12	odebrat	Vf--------A----	Atr
+13	zařízení	NNNS4-----A----	Obj
+14	právě	Db-------------	AuxZ
+15	ve	RV--6----------	AuxP
+16	Formed	NNXXX-----A----	Adv
+17	.	Z:-------------	AuxK
+
+cmpr9410-015-p11s8
+1	Díky	RR--3----------	AuxP
+2	těsné	AAFS3----1A----	Atr
+3	spolupráci	NNFS3-----A----	Adv
+4	se	RV--7----------	AuxP
+5	stomatologickou	AAFS7----1A----	Atr
+6	společností	NNFS7-----A----	Atr
+7	leasingová	AAFS1----1A----	Atr
+8	firma	NNFS1-----A----	Sb
+9	i	J^-------------	Coord
+10	Formed	NNXXX-----A----	Sb
+11	vědí	VB-P---3P-AA--1	Pred
+12	,	Z:-------------	AuxX
+13	co	PQ--4----------	Obj
+14	mohou	VB-P---3P-AA--1	Obj
+15	od	RR--2----------	AuxP
+16	svých	P8XP2----------	Atr
+17	klientů	NNMP2-----A----	Obj
+18	očekávat	Vf--------A----	Obj
+19	.	Z:-------------	AuxK
+
+cmpr9410-015-p11s9
+1	Zda	J,-------------	AuxC
+2	jde	VB-S---3P-AA---	Pred
+3	o	RR--4----------	AuxP
+4	klienta	NNMS4-----A----	Obj
+5	seriózního	AAMS4----1A----	Atr
+6	,	Z:-------------	AuxX
+7	se	RV--7----------	AuxP
+8	zavedenou	AAFS7----1A----	Atr
+9	praxí	NNFS7-----A----	Atr
+10	a	J^-------------	Coord
+11	jistotou	NNFS7-----A----	Atr
+12	splátek	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	nebo	J^-------------	Coord
+15	naopak	Db-------------	ExD
+16	.	Z:-------------	AuxK
+
+cmpr9410-015-p12s1
+1	Přemíra	NNFS1-----A----	ExD
+2	zájmu	NNIS2-----A----	Atr
+
+cmpr9410-015-p13s1
+1	V	RR--6----------	AuxP
+2	závěru	NNIS6-----A----	Adv
+3	roku	NNIS2-----A---1	Atr
+4	1993	C=-------------	Atr
+5	se	P7-X4----------	AuxT
+6	se	RV--7----------	AuxP
+7	zájemci	NNMP7-----A----	Atr
+8	o	RR--4----------	AuxP
+9	dodávku	NNFS4-----A----	Atr
+10	zařízení	NNNS2-----A----	Atr
+11	stomatologické	AAFS2----1A----	Atr
+12	ordinace	NNFS2-----A----	Atr
+13	doslova	Db-------------	Adv
+14	roztrhl	VpYS---XR-AA---	Pred
+15	pytel	NNIS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+cmpr9410-015-p13s2
+1	Formed	NNIXX-----A----	Sb
+2	loni	Db------------1	Adv
+3	dodal	VpYS---XR-AA---	Pred
+4	13	C=-------------	Obj
+5	kompletních	AAFP2----1A----	Atr
+6	ordinací	NNFP2-----A----	Atr
+7	,	Z:-------------	Coord
+8	z	RR--2----------	AuxP
+9	toho	PDZS2----------	Atr
+10	11	C=-------------	ExD
+11	ve	RV--6----------	AuxP
+12	dvou	ClXP6----------	Atr
+13	posledních	AAIP6----1A----	Atr
+14	měsících	NNIP6-----A----	ExD
+15	roku	NNIS2-----A---1	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9410-015-p13s3
+1	Stomatologové	NNMP1-----A----	Sb
+2	si	P7-X3----------	Obj
+3	o	RR--6----------	AuxP
+4	výhodách	NNFP6-----A----	Obj
+5	kombinace	NNFS2-----A----	Atr
+6	rychlé	AAFS2----1A----	Atr
+7	dodávky	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	leasingových	AAFP2----1A----	Atr
+10	plateb	NNFP2-----A----	Atr
+11	řekli	VpMP---XR-AA---	Pred
+12	mezi	RR--7----------	AuxP
+13	sebou	P6-X7----------	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9410-015-p13s4
+1	Hodně	Dg-------1A----	Adv
+2	pomohla	VpQW---XR-AA---	Pred
+3	i	J^-------------	AuxZ
+4	osvěta	NNFS1-----A----	Sb
+5	partnerů	NNMP2-----A----	Atr
+6	z	RR--2----------	AuxP
+7	leasingové	AAFS2----1A----	Atr
+8	společnosti	NNFS2-----A----	Atr
+9	při	RR--6----------	AuxP
+10	akcích	NNFP6-----A----	Adv
+11	stomatologické	AAFS2----1A----	Atr
+12	komory	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9410-015-p14s1
+1	Úspěch	NNIS4-----A----	Obj
+2	podnikání	NNNS2-----A----	Atr
+3	založili	VpMP---XR-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	Formed	NNXXX-----A----	Adv
+6	také	Db-------------	Adv
+7	na	RR--6----------	AuxP
+8	perfektních	AAFP6----1A----	Atr
+9	servisních	AAFP6----1A----	Atr
+10	službách	NNFP6-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9410-015-p14s2
+1	Ty	PDFP1----------	Sb
+2	tvoří	VB-P---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	ročním	AAIS6----1A----	Atr
+5	obratu	NNIS6-----A----	Adv
+6	200	C=-------------	Atr
+7	milionů	NNIP2-----A----	Atr
+8	až	TT-------------	AuxZ
+9	polovinu	NNFS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9410-015-p14s3
+1	Druhá	CrFS1----------	Atr
+2	polovina	NNFS1-----A----	Sb
+3	připadá	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	dodávky	NNFP4-----A----	Obj
+6	pěti	Cn-P2----------	Atr
+7	sortimentů	NNIP2-----A----	Atr
+8	zdravotnické	AAFS2----1A----	Atr
+9	techniky	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	které	P4YP4----------	Obj
+12	firma	NNFS1-----A----	Sb
+13	nakupuje	VB-S---3P-AA---	Atr
+14	v	RR--6----------	AuxP
+15	ČR	NNFXX-----A---8	Adv
+16	i	J^-------------	Coord
+17	v	RR--6----------	AuxP
+18	zahraničí	NNNS6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+cmpr9410-015-p14s4
+1	Servisní	AAFP4----1A----	Atr
+2	služby	NNFP4-----A----	Obj
+3	zajišťuje	VB-S---3P-AA---	Pred
+4	35	C=-------------	Sb
+5	techniků	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	jejichž	P1XXXXP3-------	Atr
+8	pracoviště	NNNP1-----A----	Sb
+9	jsou	VB-P---3P-AA---	AuxV
+10	lokalizována	VsQW---XX-AP---	Atr
+11	vždy	Db-------------	Adv
+12	v	RR--6----------	AuxP
+13	místě	NNNS6-----A----	Adv
+14	nejvyššího	AAIS2----3A----	Atr
+15	zájmu	NNIS2-----A----	Atr
+16	klientů	NNMP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-015-p15s1
+1	Servis	NNIS1-----A----	ExD
+2	obecně	Dg-------1A----	ExD
+
+cmpr9410-015-p16s1
+1	Každý	AAMS1----1A----	Atr
+2	servisní	AAMS1----1A----	Atr
+3	pracovník	NNMS1-----A----	Sb
+4	zadává	VB-S---3P-AA---	Pred
+5	centrále	NNFS3-----A----	Obj
+6	údaje	NNIP4-----A----	Obj
+7	o	RR--6----------	AuxP
+8	typu	NNIS6-----A----	Atr
+9	zařízení	NNNS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	roku	NNIS6-----A----	Atr
+12	výroby	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	další	AAFP4----1A----	Atr
+15	informace	NNFP4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	vztahující	AGFP4-----A----	Atr
+18	se	P7-X4----------	AuxT
+19	k	RR--3----------	AuxP
+20	předmětu	NNIS3-----A----	Obj
+21	jeho	PSXXXZS3-------	Atr
+22	servisu	NNIS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9410-015-p16s2
+1	Centrála	NNFS1-----A----	Sb
+2	vše	PLNS4---------1	Obj
+3	eviduje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	Apos
+5	zejména	Db-------------	AuxZ
+6	kontrolní	AAFP4----1A----	Atr
+7	elektrické	AAFP4----1A----	Atr
+8	zkoušky	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	předepsané	AAFP4----1A----	Atr
+11	vyhláškami	NNFP7-----A----	Obj
+12	a	J^-------------	Coord
+13	kontrolované	AAFP4----1A----	Atr
+14	Inspektorátem	NNIS7-----A----	Obj
+15	bezpečnosti	NNFS2-----A----	Atr
+16	práce	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-015-p17s1
+1	Technici	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	musí	VB-P---3P-AA--1	Pred
+4	pravidelně	Dg-------1A----	Adv
+5	školit	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	buďto	J^-------------	AuxY
+8	přímo	Dg-------1A----	AuxZ
+9	u	RR--2----------	AuxP
+10	své	P8FS2---------1	Atr
+11	firmy	NNFS2-----A----	Adv
+12	nebo	J^-------------	Coord
+13	u	RR--2----------	AuxP
+14	výrobců	NNMP2-----A----	Adv
+15	zdravotnických	AANP2----1A----	Atr
+16	zařízení	NNNP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-015-p17s2
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	nutné	AANS1----1A----	Pnom
+4	kvůli	RR--3----------	AuxP
+5	certifikaci	NNFS3-----A----	Adv
+6	i	J^-------------	Coord
+7	zajišťování	NNNS3-----A----	Adv
+8	smluvního	AAIS2----1A----	Atr
+9	servisu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9410-015-p17s3
+1	Jinak	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	jim	PPXP3--3-------	Obj
+4	výrobci	NNMP1-----A----	Sb
+5	vypověděli	VpMP---XR-AA---	Pred
+6	smlouvy	NNFP4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+cmpr9410-015-p17s4
+1	Ale	J^-------------	Coord
+2	například	Db-------------	AuxZ
+3	u	RR--2----------	AuxP
+4	slovenských	AAMP2----1A----	Atr
+5	výrobců	NNMP2-----A----	Adv
+6	si	P7-X3----------	Adv
+7	musí	VB-S---3P-AA---	Pred
+8	Formed	NNXXX-----A----	Sb
+9	hradit	Vf--------A----	Obj
+10	všechny	PLYP4----------	Atr
+11	náklady	NNIP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	spojené	AAIP4----1A----	Atr
+14	se	RV--7----------	AuxP
+15	školením	NNNS7-----A----	Obj
+16	,	Z:-------------	AuxX
+17	kdežto	J^-------------	AuxC
+18	v	RR--6----------	AuxP
+19	ČR	NNFXX-----A---8	Adv
+20	si	P7-X3----------	Adv
+21	hradí	VB-S---3P-AA---	Adv
+22	jen	TT-------------	AuxZ
+23	poměrnou	AAFS4----1A----	Atr
+24	část	NNFS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+cmpr9410-015-p18s1
+1	Servis	NNIS1-----A----	ExD
+2	smluvní	AAIS1----1A----	Atr
+
+cmpr9410-015-p19s1
+1	Formed	NNXXX-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	současnosti	NNFS6-----A----	Adv
+5	na	RR--6----------	AuxP
+6	severu	NNIS6-----A----	Adv
+7	Moravy	NNFS2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	150	C=-------------	Obj
+10	zákazníků	NNMP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	u	RR--2----------	AuxP
+13	nichž	P9XP2----------	Adv
+14	zajišťuje	VB-S---3P-AA---	Atr
+15	servisní	AAFP4----1A----	Atr
+16	služby	NNFP4-----A----	Obj
+17	smluvním	AAIS7----1A----	Atr
+18	způsobem	NNIS7-----A----	Adv
+19	.	Z:-------------	AuxK
+
+cmpr9410-015-p19s2
+1	Smluvní	AAIS1----1A----	Atr
+2	systém	NNIS1-----A----	Sb
+3	znamená	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	klient	NNMS1-----A----	Sb
+7	platí	VB-S---3P-AA---	Obj
+8	firmě	NNFS3-----A----	Obj
+9	měsíční	AAIS4----1A----	Atr
+10	paušál	NNIS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9410-015-p19s3
+1	Jeho	PSXXXZS3-------	Atr
+2	výše	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	závislá	AAFS1----1A----	Pnom
+5	na	RR--6----------	AuxP
+6	typu	NNIS6-----A----	Obj
+7	zařízení	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	jeho	PSXXXZS3-------	Atr
+10	stáří	NNNS6-----A----	Obj
+11	,	Z:-------------	AuxX
+12	úrovni	NNFS6-----A----	Obj
+13	využívání	NNNS2-----A----	Atr
+14	a	J^-------------	Coord
+15	nutných	AAIP6----1A----	Atr
+16	servisních	AAIP6----1A----	Atr
+17	nákladech	NNIP6-----A----	Obj
+18	.	Z:-------------	AuxK
+
+cmpr9410-015-p19s4
+1	Všechny	PLFP4----------	Atr
+2	okolnosti	NNFP4-----A----	Obj
+3	servisní	AAMS1----1A----	Atr
+4	technik	NNMS1-----A----	Sb
+5	zná	VB-S---3P-AA---	Pred
+6	.	Z:-------------	AuxK
+
+cmpr9410-015-p19s5
+1	Má	VB-S---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	zubní	AAFS1----1A----	Atr
+5	souprava	NNFS1-----A----	Sb
+6	Chiradent	NNIS1-----A----	Atr
+7	pořizovací	AAFS4----1A----	Atr
+8	hodnotu	NNFS4-----A----	Obj
+9	300	C=-------------	Atr
+10	tisíc	ClXS2----------	Atr
+11	Kč	NNFXX-----A----	Atr
+12	,	Z:-------------	AuxX
+13	cena	NNFS1-----A----	Sb
+14	za	RR--4----------	AuxP
+15	servis	NNIS4-----A----	Atr
+16	je	VB-S---3P-AA---	Pred
+17	450	C=-------------	Pnom
+18	Kč	NNFXX-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-015-p20s1
+1	Smlouva	NNFS1-----A----	Sb
+2	počítá	VB-S---3P-AA---	Pred
+3	s	RR--7----------	AuxP
+4	postupným	AANS7----1A----	Atr
+5	opotřebením	NNNS7-----A----	Obj
+6	soupravy	NNFS2-----A----	Atr
+7	,	Z:-------------	Coord
+8	nutností	NNFS7-----A----	Obj
+9	některé	PZYP4----------	Atr
+10	díly	NNIP4-----A----	Obj
+11	vyměňovat	Vf--------A----	Atr
+12	i	J^-------------	Coord
+13	s	RR--7----------	AuxP
+14	cestovními	AAIP7----1A----	Atr
+15	náklady	NNIP7-----A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9410-015-p20s2
+1	Jakmile	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	začne	VB-S---3P-AA---	Adv
+4	počet	NNIS1-----A----	Sb
+5	poruch	NNFP2-----A----	Atr
+6	zvyšovat	Vf--------A----	Obj
+7	a	J^-------------	Coord
+8	jde	VB-S---3P-AA---	Adv
+9	o	RR--4----------	AuxP
+10	zařízení	NNNS4-----A----	Obj
+11	starší	AANS4----2A----	Atr
+12	,	Z:-------------	AuxX
+13	technik	NNMS1-----A----	Sb
+14	doporučí	VB-S---3P-AA---	Pred
+15	jeho	PSXXXZS3-------	Atr
+16	výměnu	NNFS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9410-015-p20s3
+1	Vše	PLNS4---------1	Obj
+2	lékaři	NNMS3-----A----	Obj
+3	předem	Db-------------	Adv
+4	propočte	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	bylo	VpNS---XR-AA---	Adv
+8	zřejmé	AANS1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	kdy	Db-------------	Adv
+11	se	P7-X4----------	AuxT
+12	ještě	Db-------------	Adv
+13	vyplácí	VB-S---3P-AA---	Sb
+14	servis	NNIS1-----A----	Sb
+15	starého	AANS2----1A----	Atr
+16	zařízení	NNNS2-----A----	Atr
+17	a	J^-------------	Coord
+18	kdy	Db-------------	ExD
+19	jeho	PSXXXZS3-------	Atr
+20	výměna	NNFS1-----A----	ExD
+21	.	Z:-------------	AuxK
+
+cmpr9410-015-p20s4
+1	Pokud	J,-------------	AuxC
+2	Formed	NNXXX-----A----	Sb
+3	nesplní	VB-S---3P-NA---	Adv
+4	podmínky	NNFP4-----A----	Obj
+5	smlouvy	NNFS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	rychlosti	NNFS6-----A----	Adv
+8	opravy	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	pošle	VB-S---3P-AA---	Pred
+11	zákazníkovi	NNMS3-----A----	Obj
+12	dobropis	NNIS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	a	J^-------------	Coord
+15	ten	PDYS1----------	Sb
+16	má	VB-S---3P-AA---	Pred
+17	opravu	NNFS4-----A----	Obj
+18	zdarma	Db-------------	Adv
+19	.	Z:-------------	AuxK
+
+cmpr9410-015-p20s5
+1	Zatím	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	to	PDNS1----------	Sb
+4	ale	J^-------------	Coord
+5	nestalo	VpNS---XR-NA---	Pred
+6	.	Z:-------------	AuxK
+
+cmpr9410-015-p21s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Formed	NNXXX-----A----	ExD
+4	,	Z:-------------	AuxX
+5	s	NNFXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	r	NNNS7-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	o	AANS7----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	,	Z:-------------	AuxX
+12	Školní	AAFS1----1A----	Atr
+13	561	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	742	C=-------------	Atr
+16	42	C=-------------	Atr
+17	Nový	AAIS1----1A----	Atr
+18	Jičín	NNIS1-----A----	Atr
+19	,	Z:-------------	AuxX
+20	tel	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	:	Z:-------------	AuxG
+23	(	Z:-------------	AuxG
+24	0656	C=-------------	Atr
+25	)	Z:-------------	AuxG
+26	240	C=-------------	Atr
+27	65	C=-------------	Atr
+28	,	Z:-------------	Coord
+29	FAX	NNIS1-----A----	Atr
+30	:	Z:-------------	AuxG
+31	(	Z:-------------	AuxG
+32	0656	C=-------------	Atr
+33	)	Z:-------------	AuxG
+34	237	C=-------------	Atr
+35	50	C=-------------	Atr
+
+cmpr9410-015-p22s1
+1	Foto	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Pavel	NNMS1-----A----	Atr
+4	Škarka	NNMS1-----A----	ExD
+5	,	Z:-------------	Apos
+6	ředitel	NNMS1-----A----	ExD
+7	,	Z:-------------	AuxX
+8	Formed	NNXXX-----A----	Atr
+9	Nový	AAIS1----1A----	Atr
+10	Jičín	NNIS1-----A----	Atr
+
+cmpr9410-015-p23s1A
+1	Repro	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+cmpr9410-015-p23s1B
+1	ZUBNÍ	AAFS1----1A----	Atr
+2	ORDINACE	NNFS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+cmpr9410-015-p23s1C
+1	Vyžaduje	VB-S---3P-AA---	Pred
+2	špičkové	AANS4----1A----	Atr
+3	zařízení	NNNS4-----A----	Obj
+4	a	J^-------------	Coord
+5	špičkové	AAFP4----1A----	Atr
+6	servisní	AAFP4----1A----	Atr
+7	služby	NNFP4-----A----	Obj
+8	.	Z:-------------	AuxK
+

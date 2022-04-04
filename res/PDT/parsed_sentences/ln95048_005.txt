@@ -1,0 +1,161 @@
+ln95048-005-p1s1
+1	Dow	NNMXX-----A----	Atr
+2	Jones	NNMS1-----A----	Atr
+3	Index	NNIS1-----A----	ExD
+4	nad	RR--7----------	AuxP
+5	4000	C=-------------	Atr
+6	body	NNIP7-----A----	Atr
+
+ln95048-005-p2s1A
+1	New	AAXXX----1A----	Atr
+2	York	NNIS1-----A----	ExD
+3	-	Z:-------------	AuxK
+
+ln95048-005-p2s1B
+1	Před	RR--7----------	AuxP
+2	více	Dg-------2A----	Adv
+3	než	J,-------------	AuxC
+4	rokem	NNIS7-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	poprvé	Cv-------------	Adv
+7	hlavní	AAIS1----1A----	Atr
+8	index	NNIS1-----A----	Sb
+9	newyorské	AAFS2----1A----	Atr
+10	burzy	NNFS2-----A----	Atr
+11	cenných	AAIP2----1A----	Atr
+12	papírů	NNIP2-----A----	Atr
+13	,	Z:-------------	Apos
+14	Dow	NNMXX-----A----	Atr
+15	Jones	NNMS1-----A----	Atr
+16	,	Z:-------------	AuxX
+17	přiblížil	VpYS---XR-AA---	Obj
+18	na	RR--4----------	AuxP
+19	dosah	NNIS4-----A----	Adv
+20	hranice	NNFS2-----A----	Atr
+21	čtyř	ClXP2----------	Atr
+22	tisíc	ClXS2----------	Atr
+23	bodů	NNIP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	uvádí	VB-S---3P-AA---	Pred
+26	časopis	NNIS1-----A----	Sb
+27	Wall	AAXXX----1A----	Atr
+28	Street	NNFXX-----A----	Atr
+29	Journal	NNIS1-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln95048-005-p2s2
+1	Ale	J^-------------	Coord
+2	až	TT-------------	AuxZ
+3	po	RR--6----------	AuxP
+4	pěti	Cn-P6----------	Atr
+5	pokusech	NNIP6-----A----	Adv
+6	během	RR--2----------	AuxP
+7	uplynulých	AAIP2----1A----	Atr
+8	třinácti	Cn-P2----------	Atr
+9	měsíců	NNIP2-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	mu	PHZS3--3-------	Obj
+12	ve	RV--4----------	AuxP
+13	čtvrtek	NNIS4-----A----	Adv
+14	tuto	PDFS4----------	Atr
+15	bariéru	NNFS4-----A----	Obj
+16	podařilo	VpNS---XR-AA---	Pred
+17	prolomit	Vf--------A----	Sb
+18	,	Z:-------------	AuxX
+19	když	J,-------------	AuxC
+20	uzavřel	VpYS---XR-AA---	Adv
+21	na	RR--6----------	AuxP
+22	4003.33	C=-------------	Adv
+23	bodu	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95048-005-p2s3
+1	Poprvé	Cv-------------	Adv
+2	ji	PPFS4--3-------	Obj
+3	toho	PDZS2----------	Atr
+4	dne	NNIS2-----A----	Adv
+5	překročil	VpYS---XR-AA---	Pred
+6	v	RR--4----------	AuxP
+7	deset	Cn-S4----------	Adv
+8	dopoledne	Db-------------	Atr
+9	za	RR--2----------	AuxP
+10	nadšeného	AAIS2----1A----	Atr
+11	potlesku	NNIS2-----A----	Adv
+12	obchodníků	NNMP2-----A----	Atr
+13	přítomných	AAMP2----1A----	Atr
+14	na	RR--6----------	AuxP
+15	parketu	NNIS6-----A----	Adv
+16	burzy	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95048-005-p3s1
+1	Způsobil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	optimismus	NNIS1-----A----	Sb
+4	obchodníků	NNMP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	kteří	P4MP1----------	Sb
+7	věří	VB-S---3P-AA---	Atr
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	americké	AAFS3----1A----	Atr
+12	ústřední	AAFS3----1A----	Atr
+13	bance	NNFS3-----A----	Obj
+14	podaří	VB-S---3P-AA---	Obj
+15	zpomalit	Vf--------A----	Sb
+16	tempo	NNNS4-----A----	Obj
+17	hospodářského	AAIS2----1A----	Atr
+18	růstu	NNIS2-----A----	Atr
+19	a	J^-------------	Coord
+20	zároveň	Db-------------	Adv
+21	jej	PPZS4--3------2	Obj
+22	učinit	Vf--------A----	Sb
+23	stabilnějším	AAIS7----2A----	Obj
+24	.	Z:-------------	AuxK
+
+ln95048-005-p3s2
+1	Navíc	Db-------------	Adv
+2	vývoj	NNIS1-----A----	Sb
+3	míry	NNFS2-----A----	Atr
+4	inflace	NNFS2-----A----	Atr
+5	zůstává	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	USA	NNIPX-----A----	Adv
+8	pod	RR--7----------	AuxP
+9	kontrolou	NNFS7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95048-005-p3s3
+1	Všeobecně	Dg-------1A----	Adv
+2	tedy	Db-------------	AuxY
+3	vládne	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	americkém	AAIS6----1A----	Atr
+6	trhu	NNIS6-----A----	Adv
+7	důvěra	NNFS1-----A----	Sb
+8	v	RR--4----------	AuxP
+9	další	AAIS4----1A----	Atr
+10	růst	NNIS4-----A----	Atr
+11	cen	NNFP2-----A----	Atr
+12	akcií	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95048-005-p3s4
+1	Podle	RR--2----------	AuxP
+2	vyjádření	NNNS2-----A----	Adv
+3	odborníků	NNMP2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	měla	VpQW---XR-AA---	Pred
+6	další	AAFS1----1A----	Atr
+7	psychologická	AAFS1----1A----	Atr
+8	hranice	NNFS1-----A----	Sb
+9	pěti	Cn-P2----------	Atr
+10	tisíc	ClXS2----------	Atr
+11	bodů	NNIP2-----A----	Atr
+12	padnout	Vf--------A----	Obj
+13	v	RR--6----------	AuxP
+14	roce	NNIS6-----A---1	Adv
+15	1996	C=-------------	Atr
+16	.	Z:-------------	AuxK
+

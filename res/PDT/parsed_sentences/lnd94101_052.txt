@@ -1,0 +1,756 @@
+lnd94101-052-p1s1A
+1	Berlusconi	NNMS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	politik	NNMS1-----A----	ExD
+4	kontra	RR--1----------	AuxP
+5	podnikatel	NNMS1-----A----	ExD
+
+lnd94101-052-p1s1B
+1	Konec	NNIS1-----A----	ExD
+2	podtitulku	NNIS2-----A----	Atr
+3	Ilja	NNMS1-----A----	Atr
+4	Šetlík	NNMS1-----A----	ExD
+
+lnd94101-052-p1s1C
+1	"	Z:-------------	AuxG
+2	Jsem	VB-S---1P-AA---	Obj
+3	politický	AAMS1----1A----	Atr
+4	parvenu	NNMXX-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	"	Z:-------------	AuxG
+7	říká	VB-S---3P-AA---	Pred
+8	spíš	Dg-------2A----	Adv
+9	hrdě	Dg-------1A----	Adv
+10	než	J,-------------	AuxC
+11	skromně	Dg-------1A----	Adv
+12	Silvio	NNMS1-----A----	Atr
+13	Berlusconi	NNMS1-----A----	Sb
+14	,	Z:-------------	Apos
+15	nový	AAMS1----1A----	Atr
+16	italský	AAMS1----1A----	Atr
+17	ministerský	AAMS1----1A----	Atr
+18	předseda	NNMS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+lnd94101-052-p1s2
+1	Je	VB-S---3P-AA---	Pred
+2	tedy	Db-------------	AuxY
+3	začínajícím	AGMS7-----A----	Atr
+4	nováčkem	NNMS7-----A----	Pnom
+5	,	Z:-------------	Apos
+6	učněm	NNMS7-----A----	Pnom
+7	.	Z:-------------	AuxK
+
+lnd94101-052-p1s3
+1	Ale	J^-------------	Coord
+2	taky	Db-------------	AuxZ
+3	čarodějem	NNMS7-----A----	ExD
+4	-	Z:-------------	AuxG
+5	uvážíme	VB-P---1P-AA---	ExD
+6	-	Z:-------------	AuxG
+7	li	TT-------------	AuxC
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	za	RR--4----------	AuxP
+11	pouhých	AANP2----1A----	Atr
+12	20	C=-------------	Adv
+13	let	NNNP2-----A----	Atr
+14	dokázal	VpYS---XR-AA---	Obj
+15	vybudovat	Vf--------A----	Obj
+16	čtvrté	CrNS4----------	Atr
+17	největší	AANS4----3A----	Atr
+18	hospodářské	AANS4----1A----	Atr
+19	impérium	NNNS4-----A----	Obj
+20	v	RR--6----------	AuxP
+21	Itálii	NNFS6-----A----	Adv
+22	,	Z:-------------	Coord
+23	že	J,-------------	AuxC
+24	dokázal	VpYS---XR-AA---	Obj
+25	za	RR--4----------	AuxP
+26	kratičké	AAIP4----1A----	Atr
+27	tři	ClXP4----------	Atr
+28	měsíce	NNIP4-----A----	Adv
+29	"	Z:-------------	AuxG
+30	vydupat	Vf--------A----	Obj
+31	ze	RV--2----------	AuxP
+32	země	NNFS2-----A----	Adv
+33	"	Z:-------------	AuxG
+34	vlastní	AAFS4----1A----	Atr
+35	stranu	NNFS4-----A----	Obj
+36	Forza	AAXXX----1A----	Atr
+37	Italia	NNFXX-----A----	Atr
+38	.	Z:-------------	AuxK
+
+lnd94101-052-p1s4
+1	A	J^-------------	AuxY
+2	že	J,-------------	AuxC
+3	umí	VB-S---3P-AA---	Pred
+4	vyhrát	Vf--------A----	Obj
+5	volby	NNFP4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+lnd94101-052-p1s5
+1	Ale	J^-------------	AuxY
+2	-	Z:-------------	AuxG
+3	umí	VB-S---3P-AA---	Pred
+4	také	Db-------------	AuxZ
+5	vládnout	Vf--------A----	Obj
+6	?	Z:-------------	AuxK
+
+lnd94101-052-p1s6
+1	Bude	VB-S---3F-AA---	Pred
+2	s	TT-------------	AuxP
+3	to	TT-------------	Adv
+4	plnit	Vf--------A----	Atr
+5	volební	AAIP4----1A----	Atr
+6	sliby	NNIP4-----A----	Obj
+7	,	Z:-------------	Coord
+8	vykouzlit	Vf--------A----	Atr
+9	"	Z:-------------	AuxG
+10	hospodářský	AAIS4----1A----	Atr
+11	zázrak	NNIS4-----A----	Obj
+12	druhé	CrFS2----------	Atr
+13	republiky	NNFS2-----A----	Atr
+14	"	Z:-------------	AuxG
+15	-	Z:-------------	AuxG
+16	např	Db------------8	Apos
+17	.	Z:-------------	AuxG
+18	vytvořit	Vf--------A----	Atr
+19	milión	NNIS4-----A----	Obj
+20	nových	AANP2----1A----	Atr
+21	pracovních	AANP2----1A----	Atr
+22	míst	NNNP2-----A----	Atr
+23	,	Z:-------------	Coord
+24	výrazně	Dg-------1A----	Adv
+25	snížit	Vf--------A----	Atr
+26	daně	NNFP4-----A----	Obj
+27	i	J^-------------	Coord
+28	obrovský	AAIS4----1A----	Atr
+29	státní	AAIS4----1A----	Atr
+30	dluh	NNIS4-----A----	Obj
+31	.	Z:-------------	AuxG
+32	.	Z:-------------	AuxG
+33	.	Z:-------------	AuxG
+34	?	Z:-------------	AuxK
+
+lnd94101-052-p1s7
+1	Teď	Db-------------	Adv
+2	ho	PHZS4--3-------	Obj
+3	čeká	VB-S---3P-AA---	Pred
+4	úkol	NNIS1-----A----	Sb
+5	bezprostřední	AAIS1----1A----	Atr
+6	a	J^-------------	Coord
+7	naléhavý	AAIS1----1A----	Atr
+8	:	Z:-------------	AuxG
+9	sladit	Vf--------A----	Atr
+10	pana	NNMS4-----A----	Atr
+11	Berlusconiho	NNMS4-----A----	Obj
+12	velkopodnikatele	NNMS4-----A----	Atr
+13	s	RR--7----------	AuxP
+14	panem	NNMS7-----A----	Atr
+15	Berlusconim	NNMS7-----A----	Obj
+16	politikem	NNMS7-----A----	Atr
+17	,	Z:-------------	AuxX
+18	ba	TT-------------	Coord
+19	šéfem	NNMS7-----A----	Atr
+20	vlády	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94101-052-p1s8
+1	V	RR--6----------	AuxP
+2	různých	AAFP6----1A----	Atr
+3	zemích	NNFP6-----A----	Adv
+4	sedí	VB-P---3P-AA---	Pred
+5	podnikatelé	NNMP1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	poslaneckých	AAFP6----1A----	Atr
+8	sněmovnách	NNFP6-----A----	Adv
+9	a	J^-------------	Coord
+10	senátech	NNIP6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	nebo	J^-------------	Coord
+13	tam	Db-------------	Adv
+14	mají	VB-P---3P-AA---	Pred
+15	více	Dg-------2A----	Adv
+16	méně	Dg-------2A----	Adv
+17	nenápadné	AANS4----1N----	Atr
+18	lobby	NNFXX-----A----	Obj
+19	.	Z:-------------	AuxK
+
+lnd94101-052-p1s9
+1	Tentokrát	Db-------------	Adv
+2	však	J^-------------	AuxY
+3	muž	NNMS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	dosud	Db-------------	Adv
+6	zaměstnaný	AAMS1----1A----	Atr
+7	na	RR--4----------	AuxP
+8	plný	AAIS4----1A----	Atr
+9	úvazek	NNIS4-----A----	Adv
+10	v	RR--6----------	AuxP
+11	byznysu	NNIS6-----A---1	Adv
+12	,	Z:-------------	AuxX
+13	zvolil	VpYS---XR-AA---	Pred
+14	pracovat	Vf--------A----	Obj
+15	na	RR--4----------	AuxP
+16	plný	AAIS4----1A----	Atr
+17	úvazek	NNIS4-----A----	Adv
+18	v	RR--6----------	AuxP
+19	politice	NNFS6-----A----	Adv
+20	.	Z:-------------	AuxK
+
+lnd94101-052-p1s10
+1	Ambice	NNFP4-----A----	Obj
+2	spasitelů	NNMP2-----A----	Atr
+3	vlasti	NNFS2-----A----	Atr
+4	chovali	VpMP---XR-AA---	Pred
+5	texaský	AAMS1----1A----	Atr
+6	miliardář	NNMS1-----A----	Atr
+7	Ross	NNMS1-----A----	Atr
+8	Perot	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	bohatý	AAMS1----1A----	Atr
+11	strýček	NNMS1-----A----	Atr
+12	z	RR--2----------	AuxP
+13	Ameriky	NNFS2-----A----	Atr
+14	Stanislaw	NNMS1-----A----	Atr
+15	Tyminski	NNMS1-----A---1	Sb
+16	,	Z:-------------	Coord
+17	Milan	NNMS1-----A----	Atr
+18	Panič	NNMS1-----A----	Sb
+19	.	Z:-------------	AuxK
+20	.	Z:-------------	AuxK
+21	.	Z:-------------	AuxK
+
+lnd94101-052-p1s11
+1	Nikdo	PWM-1----------	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	neuspěl	VpYS---XR-NA---	Pred
+5	.	Z:-------------	AuxK
+
+lnd94101-052-p1s12
+1	Jako	J,-------------	AuxP
+2	volební	AAMS1----1A----	Atr
+3	vítěz	NNMS1-----A----	Adv
+4	má	VB-S---3P-AA---	Pred
+5	mediální	AAMS1----1A----	Atr
+6	car	NNMS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	Itálii	NNFS6-----A----	Adv
+9	ústavní	AANS4----1A----	Atr
+10	právo	NNNS4-----A----	Obj
+11	usednout	Vf--------A----	Atr
+12	v	RR--6----------	AuxP
+13	Palazzo	NNNXX-----A----	Adv
+14	Chigi	AAXXX----1A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94101-052-p1s13
+1	Každý	AAMS1----1A----	Atr
+2	jeho	PSXXXZS3-------	Atr
+3	spoluobčan	NNMS1-----A----	Sb
+4	má	VB-S---3P-AA---	Pred
+5	demokratické	AANS4----1A----	Atr
+6	právo	NNNS4-----A----	Obj
+7	sledovat	Vf--------A----	Atr
+8	televizní	AAIS4----1A----	Atr
+9	Canale	NNXXX-----A----	Obj
+10	5	C=-------------	Atr
+11	.	Z:-------------	AuxK
+
+lnd94101-052-p1s14
+1	Když	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	mu	PHZS3--3-------	Obj
+4	program	NNIS1-----A----	Sb
+5	znelíbí	VB-S---3P-AA---	Adv
+6	,	Z:-------------	AuxX
+7	může	VB-S---3P-AA---	Pred
+8	přepojit	Vf--------A----	Obj
+9	na	RR--4----------	AuxP
+10	kanál	NNIS4-----A----	Adv
+11	Italia	NNFXX-----A----	Atr
+12	1	C=-------------	Atr
+13	nebo	J^-------------	Coord
+14	Rete	NNNXX-----A----	Atr
+15	4	C=-------------	Atr
+16	.	Z:-------------	AuxK
+
+lnd94101-052-p1s15
+1	Všechny	PLIP1----------	Sb
+2	mají	VB-P---3P-AA---	Pred
+3	téhož	PDMS4----------	Atr
+4	majitele	NNMS4-----A----	Obj
+5	-	Z:-------------	Apos
+6	Berlusconiho	NNMS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+lnd94101-052-p1s16A
+1	Občan	NNMS1-----A----	Sb
+2	si	P7-X3----------	AuxO
+3	ovšem	J^-------------	AuxY
+4	může	VB-S---3P-AA---	Pred
+5	taky	Db-------------	Adv
+6	demokraticky	Dg-------1A----	Adv
+7	přeladit	Vf--------A----	Obj
+8	obrazovku	NNFS4-----A----	Obj
+9	na	RR--4----------	AuxP
+10	některou	PZFS4----------	Atr
+11	stanici	NNFS4-----A----	Adv
+12	z	RR--2----------	AuxP
+13	druhé	CrFS2----------	Atr
+14	poloviny	NNFS2-----A----	Atr
+15	televizní	AAFS2----1A----	Atr
+16	sítě	NNFS2-----A----	Atr
+17	:	Z:-------------	AuxK
+
+lnd94101-052-p1s16B
+1	ta	PDFS1----------	Sb
+2	patří	VB-S---3P-AA---	Pred
+3	státu	NNIS3-----A----	Obj
+4	-	Z:-------------	ExD
+5	nyní	Db-------------	ExD
+6	s	RR--7----------	AuxP
+7	Berlusconim	NNMS7-----A----	ExD
+8	v	RR--6----------	AuxP
+9	čele	NNNS6-----A----	Atr
+10	vlády	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94101-052-p1s17
+1	Zajisté	Db-------------	Adv
+2	se	P7-X4----------	Obj
+3	může	VB-S---3P-AA---	Pred
+4	informovat	Vf--------A----	Obj
+5	i	J^-------------	AuxZ
+6	z	RR--2----------	AuxP
+7	jiných	AANP2----1A----	Atr
+8	medií	NNNP2-----A----	Adv
+9	,	Z:-------------	Coord
+10	v	RR--6----------	AuxP
+11	kiosku	NNIS6-----A----	Adv
+12	si	P7-X3----------	Obj
+13	koupit	Vf--------A----	Obj
+14	deník	NNIS4-----A----	Obj
+15	Il	AAXXX----1A----	Atr
+16	Giornale	NNXXX-----A----	Atr
+17	,	Z:-------------	AuxX
+18	týdeník	NNIS4-----A----	Obj
+19	Panorama	NNFS1-----A----	Atr
+20	či	J^-------------	Coord
+21	Epoca	NNFS1-----A----	Atr
+22	,	Z:-------------	Coord
+23	televizní	AAIS4----1A----	Atr
+24	časopis	NNIS4-----A----	Obj
+25	Sorrisi	NNIS1-----A----	Atr
+26	e	J^-------------	Atr
+27	Canzoni	NNIS1-----A----	Atr
+28	-	Z:-------------	AuxG
+29	aniž	J,-------------	AuxC
+30	by	Vc-------------	AuxV
+31	si	P7-X3----------	AuxT
+32	povšiml	VpYS---XR-AA--1	Adv
+33	,	Z:-------------	AuxX
+34	že	J,-------------	AuxC
+35	všechny	PLIP1----------	Sb
+36	patří	VB-P---3P-AA---	Obj
+37	premiérovi	NNMS3-----A----	Obj
+38	.	Z:-------------	AuxK
+
+lnd94101-052-p1s18
+1	Může	VB-S---3P-AA---	Pred
+2	nakupovat	Vf--------A----	Obj
+3	v	RR--6----------	AuxP
+4	jedné	ClFS6----------	Adv
+5	ze	RV--2----------	AuxP
+6	stovek	NNFP2-----A----	Atr
+7	filiálek	NNFP2-----A----	Atr
+8	supermarketů	NNIP2-----A----	Atr
+9	Standa	NNMS1-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94101-052-p1s19
+1	Zřídit	Vf--------A----	Pred
+2	si	P7-X3----------	Adv
+3	životní	AAFS4----1A----	Atr
+4	pojistku	NNFS4-----A----	Obj
+5	u	RR--2----------	AuxP
+6	Mediolanum	NNNXX-----A----	AdvAtr
+7	Vita	AAXXX----1A----	Atr
+8	.	Z:-------------	AuxK
+
+lnd94101-052-p1s20
+1	Na	RR--6----------	AuxP
+2	regálech	NNIP6-----A----	Adv
+3	knihkupectví	NNNP2-----A----	Atr
+4	si	P7-X3----------	AuxT
+5	vybrat	Vf--------A----	Pred
+6	knihu	NNFS4-----A----	Obj
+7	-	Z:-------------	Coord
+8	každou	AAFS4----1A----	Adv
+9	pátou	CrFS4----------	Obj
+10	vydalo	VpNS---XR-AA---	Pred
+11	nakladatelství	NNNS1-----A----	Sb
+12	Mondadori	NNNS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94101-052-p1s21
+1	Všechno	PLNS1----------	Sb
+2	-	Z:-------------	AuxG
+3	a	J^-------------	Apos
+4	nejen	TT-------------	AuxZ
+5	to	PDNS1----------	Sb
+6	-	Z:-------------	AuxG
+7	patří	VB-S---3P-AA---	Pred
+8	do	RR--2----------	AuxP
+9	holdingu	NNIS2-----A----	Adv
+10	Fininvest	NNIS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	kde	Db-------------	Adv
+13	je	VB-S---3P-AA---	Atr
+14	stoprocentním	AAMS7----1A----	Atr
+15	akcionářem	NNMS7-----A----	Pnom
+16	Berlusconi	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+lnd94101-052-p1s22
+1	Nový	AAMS1----1A----	Atr
+2	premiér	NNMS1-----A----	Sb
+3	chce	VB-S---3P-AA---	Pred
+4	rozptýlit	Vf--------A----	Obj
+5	jakékoli	PZNS4---------1	Atr
+6	podezření	NNNS4-----A----	Obj
+7	,	Z:-------------	Coord
+8	získat	Vf--------A----	Obj
+9	kredit	NNIS4-----A----	Obj
+10	věrohodného	AAMS2----1A----	Atr
+11	garanta	NNMS2-----A----	Atr
+12	demokracie	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94101-052-p1s23
+1	Jeho	PSXXXZS3-------	Atr
+2	blízcí	AAMP1----1A----	Sb
+3	říkají	VB-P---3P-AA---	Pred
+4	:	Z:-------------	AuxG
+5	Kdyby	J,-------------	AuxC
+6	našel	VpYS---XR-AA---	Adv
+7	kupce	NNMS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	prodal	VpYS---XR-AA---	Obj
+10	by	Vc-------------	AuxV
+11	všechno	PLNS4----------	Obj
+12	,	Z:-------------	ExD
+13	a	J^-------------	AuxY
+14	hned	Db-------------	ExD
+15	.	Z:-------------	AuxK
+
+lnd94101-052-p1s24
+1	Každý	AAIS4----1A----	Obj
+2	z	RR--2----------	AuxP
+3	jeho	PSXXXZS3-------	Atr
+4	televizních	AAIP2----1A----	Atr
+5	kanálů	NNIP2-----A----	Atr
+6	odhadují	VB-P---3P-AA---	Pred
+7	odborníci	NNMP1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	miliardu	NNFS4-----A----	Adv
+10	dolarů	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94101-052-p1s25
+1	Právníci	NNMP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	Fininvestu	NNIS2-----A----	Atr
+4	hledají	VB-P---3P-AA---	Pred
+5	metodu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	jak	Db-------------	AuxC
+8	obě	ClHP4----------	Atr
+9	"	Z:-------------	AuxG
+10	pole	NNNP4-----A----	Obj
+11	působnosti	NNFS2-----A----	Atr
+12	"	Z:-------------	AuxG
+13	oddělit	Vf--------A----	Atr
+14	,	Z:-------------	AuxX
+15	i	J^-------------	AuxY
+16	když	J,-------------	AuxC
+17	žádný	PWYS1----------	Atr
+18	italský	AAIS1----1A----	Atr
+19	zákon	NNIS1-----A----	Sb
+20	k	RR--3----------	AuxP
+21	tomu	PDZS3----------	Obj
+22	nezavazuje	VB-S---3P-NA---	Adv
+23	.	Z:-------------	AuxK
+
+lnd94101-052-p1s26
+1	Podle	RR--2----------	AuxP
+2	jedné	ClFS2----------	Atr
+3	představy	NNFS2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	bylo	VpNS---XR-AA---	Pred
+6	možné	AANS1----1A----	Pnom
+7	převést	Vf--------A----	Sb
+8	veškerý	PLIS4----------	Atr
+9	majetek	NNIS4-----A----	Obj
+10	na	RR--4----------	AuxP
+11	pět	Cn-S4----------	Sb
+12	Berlusconiho	NNMS2-----A----	Atr
+13	dětí	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94101-052-p1s27
+1	Nebo	J^-------------	Coord
+2	založit	Vf--------A----	Pred
+3	nadaci	NNFS4-----A----	Obj
+4	či	J^-------------	Coord
+5	trust	NNIS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+lnd94101-052-p1s28
+1	Tato	PDNP1----------	Atr
+2	řešení	NNNP1-----A----	Sb
+3	však	J^-------------	AuxY
+4	jsou	VB-P---3P-AA---	Pred
+5	"	Z:-------------	AuxG
+6	delikátní	AANP1----1A----	Pnom
+7	"	Z:-------------	AuxG
+8	kvůli	RR--3----------	AuxP
+9	značnému	AANS3----1A----	Atr
+10	zdanění	NNNS3-----A----	Adv
+11	,	Z:-------------	AuxX
+12	které	P4NS1----------	Sb
+13	se	P7-X4----------	AuxT
+14	řídí	VB-S---3P-AA---	Atr
+15	národním	AANS7----1A----	Atr
+16	právem	NNNS7-----A----	Adv
+17	.	Z:-------------	AuxK
+
+lnd94101-052-p1s29
+1	Ještě	Db-------------	Adv
+2	jinou	AAFS4----1A----	Atr
+3	možnost	NNFS4-----A----	Obj
+4	nabízí	VB-S---3P-AA---	Pred
+5	americký	AAIS1----1A----	Atr
+6	model	NNIS1-----A----	Sb
+7	"	Z:-------------	AuxG
+8	blind	AAXXX----1A----	Atr
+9	trust	NNIS1-----A----	Atr
+10	"	Z:-------------	AuxG
+11	,	Z:-------------	AuxX
+12	podle	RR--2----------	AuxP
+13	něhož	P9ZS2----------	Adv
+14	řízení	NNNS4-----A----	Obj
+15	majetku	NNIS2-----A----	Atr
+16	přejímá	VB-S---3P-AA---	Atr
+17	komitét	NNIS1-----A----	Sb
+18	odborníků	NNMP2-----A----	Atr
+19	pracující	AGIS1-----A----	Atr
+20	nezávisle	Dg-------1N----	Adv
+21	na	RR--6----------	AuxP
+22	majiteli	NNMS6-----A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd94101-052-p1s30
+1	"	Z:-------------	AuxG
+2	Teď	Db-------------	Adv
+3	si	P7-X3----------	Obj
+4	musíte	VB-P---2P-AA---	Obj
+5	poradit	Vf--------A----	Obj
+6	beze	RV--2----------	AuxP
+7	mne	PP-S2--1-------	Adv
+8	,	Z:-------------	AuxX
+9	"	Z:-------------	AuxG
+10	řekl	VpYS---XR-AA---	Pred
+11	designovaný	AAMS1----1A----	Atr
+12	premiér	NNMS1-----A----	Sb
+13	svým	P8XP3----------	Atr
+14	manažerům	NNMP3-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd94101-052-p1s31
+1	Zanechal	VpYS---XR-AA---	Pred
+2	jim	PPXP3--3-------	Obj
+3	také	Db-------------	AuxZ
+4	dluhy	NNIP4-----A----	Obj
+5	holdingu	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	které	P4IP1----------	Sb
+8	se	P7-X4----------	AuxR
+9	v	RR--6----------	AuxP
+10	důsledku	NNIS6-----A----	AuxP
+11	velké	AAFS2----1A----	Atr
+12	expanze	NNFS2-----A----	Adv
+13	v	RR--6----------	AuxP
+14	posledních	AANP6----1A----	Atr
+15	pěti	Cn-P6----------	Atr
+16	letech	NNNP6-----A----	AdvAtr
+17	zvýšily	VpTP---XR-AA---	Atr
+18	(	Z:-------------	AuxG
+19	odhadem	NNIS7-----A----	ExD
+20	,	Z:-------------	Coord
+21	přesné	AAIP1----1A----	Atr
+22	účty	NNIP1-----A----	Sb
+23	nejsou	VB-P---3P-NA---	ExD
+24	k	RR--3----------	AuxP
+25	dispozici	NNFS3-----A----	Adv
+26	)	Z:-------------	AuxG
+27	na	RR--4----------	AuxP
+28	3800	C=-------------	Obj
+29	miliard	NNFP2-----A----	Atr
+30	lir	NNFP2-----A----	Atr
+31	(	Z:-------------	Apos
+32	téměř	Db-------------	Adv
+33	4	C=-------------	Atr
+34	miliardy	NNFP1-----A----	Obj
+35	DM	NNFXX-----A---8	Atr
+36	)	Z:-------------	AuxG
+37	,	Z:-------------	AuxX
+38	čili	J^-------------	Coord
+39	skoro	Db-------------	Adv
+40	čtvrtinu	CyFS4----------	Obj
+41	celkového	AAIS2----1A----	Atr
+42	obratu	NNIS2-----A----	Atr
+43	skupiny	NNFS2-----A----	Atr
+44	.	Z:-------------	AuxK
+
+lnd94101-052-p1s32A
+1	Wall	AAXXX----1A----	Atr
+2	Street	NNIS1-----A----	Atr
+3	Journal	NNIS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	spolu	Db-------------	Adv
+6	s	RR--7----------	AuxP
+7	mnoha	Ca--7----------	Atr
+8	dalšími	AAMP7----1A----	Atr
+9	poťouchlíky	NNMP7-----A----	Adv
+10	,	Z:-------------	AuxX
+11	klade	VB-S---3P-AA---	Pred
+12	otázku	NNFS4-----A----	Obj
+13	:	Z:-------------	AuxG
+14	"	Z:-------------	AuxG
+15	Vytáhl	VpYS---XR-AA---	Atr
+16	Il	AAXXX----1A----	Atr
+17	Signore	NNMS1-----A----	Sb
+18	do	RR--2----------	AuxP
+19	boje	NNIS2-----A----	Adv
+20	,	Z:-------------	AuxX
+21	aby	J,-------------	AuxC
+22	'	Z:-------------	AuxG
+23	zachránil	VpYS---XR-AA---	Adv
+24	Itálii	NNFS4-----A----	Obj
+25	'	Z:-------------	AuxG
+26	,	Z:-------------	AuxX
+27	jak	Db-------------	Adv
+28	tvrdí	VB-S---3P-AA---	Pred
+29	,	Z:-------------	AuxX
+30	nebo	J^-------------	Coord
+31	aby	J,-------------	AuxC
+32	se	P7-X4----------	AuxT
+33	pokusil	VpYS---XR-AA---	Adv
+34	zachránit	Vf--------A----	Obj
+35	své	P8NS4---------1	Atr
+36	těžce	Dg-------1A----	Adv
+37	zadlužené	AANS4----1A----	Atr
+38	obchodní	AANS4----1A----	Atr
+39	impérium	NNNS4-----A----	Obj
+40	,	Z:-------------	AuxX
+41	jak	Db-------------	Adv
+42	říkají	VB-P---3P-AA---	Pred
+43	jeho	PSXXXZS3-------	Atr
+44	kritici	NNMP1-----A----	Sb
+45	?	Z:-------------	AuxK
+46	"	Z:-------------	AuxG
+
+lnd94101-052-p1s32B
+1	Aby	J,-------------	AuxC
+2	rozptýlil	VpYS---XR-AA---	Adv
+3	jakékoli	PZNS4---------1	Atr
+4	podezření	NNNS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	splnil	VpYS---XR-AA---	Adv
+8	striktní	AAFP4----1A----	Atr
+9	podmínky	NNFP4-----A----	Obj
+10	koaličního	AAMS2----1A----	Atr
+11	partnera	NNMS2-----A----	Atr
+12	Umberta	NNMS2-----A----	Atr
+13	Bossiho	NNMS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	hlavně	Dg-------1A----	AuxZ
+17	aby	J,-------------	AuxC
+18	nezklamal	VpYS---XR-NA---	Adv
+19	8	C=-------------	Obj
+20	miliónů	NNIP2-----A----	Atr
+21	voličů	NNMP2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	kteří	P4MP1----------	Sb
+24	mu	PHZS3--3-------	Obj
+25	dali	VpMP---XR-AA---	Atr
+26	hlas	NNIS4-----A----	Obj
+27	v	RR--6----------	AuxP
+28	dobré	AAFS6----1A----	Atr
+29	víře	NNFS6-----A----	Adv
+30	,	Z:-------------	AuxX
+31	že	J,-------------	AuxC
+32	je	VB-S---3P-AA---	Atr
+33	skutečně	Dg-------1A----	Adv
+34	"	Z:-------------	AuxG
+35	nový	AAMS1----1A----	Atr
+36	"	Z:-------------	AuxG
+37	člověk	NNMS1-----A----	Pnom
+38	,	Z:-------------	AuxX
+39	už	Db-------------	Adv
+40	formálně	Dg-------1A----	Adv
+41	předal	VpYS---XR-AA---	Pred
+42	Berlusconi	NNMS1-----A----	Sb
+43	řízení	NNNS4-----A----	Obj
+44	holdingu	NNIS2-----A----	Atr
+45	svým	P8XP3----------	Atr
+46	spolupracovníkům	NNMP3-----A----	Obj
+47	,	Z:-------------	AuxX
+48	50	C=-------------	Obj
+49	%	Z:-------------	Atr
+50	akcií	NNFP2-----A----	Atr
+51	nakladatelství	NNNS2-----A----	Atr
+52	Mondadori	NNNS1-----A----	Atr
+53	nabídl	VpYS---XR-AA--1	Pred
+54	k	RR--3----------	AuxP
+55	prodeji	NNIS3-----A----	Adv
+56	a	J^-------------	Coord
+57	ponechal	VpYS---XR-AA---	Pred
+58	si	P7-X3----------	AuxT
+59	jen	TT-------------	AuxZ
+60	milovaný	AAIS4----1A----	Atr
+61	AC	NNIXX-----A---8	Obj
+62	Milano	NNNS1-----A----	Atr
+63	.	Z:-------------	AuxK
+
+lnd94101-052-p1s33
+1	Ale	J^-------------	Coord
+2	pro	RR--4----------	AuxP
+3	300	C=-------------	Obj
+4	podniků	NNIP2-----A----	Atr
+5	celého	AANS2----1A----	Atr
+6	impéria	NNNS2-----A----	Atr
+7	nebude	VB-S---3F-NA---	Pred
+8	lehké	AANS1----1A----	Pnom
+9	distancovat	Vf--------A----	Sb
+10	se	P7-X4----------	Obj
+11	rázem	NNIS7-----A----	Adv
+12	od	RR--2----------	AuxP
+13	premiéra	NNMS2-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd94101-052-p1s34
+1	Zapadají	VB-P---3P-AA---	Pred
+2	do	RR--2----------	AuxP
+3	sebe	P6-X2----------	Adv
+4	navzájem	Db-------------	Adv
+5	jako	J,-------------	AuxC
+6	ruské	AAFP1----1A----	Atr
+7	matrjošky	NNFP1-----A----	ExD
+8	.	Z:-------------	AuxK
+

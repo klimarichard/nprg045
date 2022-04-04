@@ -1,0 +1,97 @@
+cmpr9407-009-p2s1
+1	Číslo	NNNS1-----A----	ExD
+2	týdne	NNIS2-----A----	Atr
+
+cmpr9407-009-p3s1
+1	Přibližně	Dg-------1A----	AuxZ
+2	12	C=-------------	Sb
+3	tisíc	ClXS2----------	Atr
+4	vozů	NNIP2-----A----	Atr
+5	značky	NNFS2-----A----	Atr
+6	Škoda	NNFS1-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	v	RR--6----------	AuxP
+9	současné	AAFS6----1A----	Atr
+10	době	NNFS6-----A----	Adv
+11	ve	RV--6----------	AuxP
+12	skladech	NNIP6-----A----	Adv
+13	České	AAFS2----1A----	Atr
+14	republiky	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9407-009-p3s2
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	vzhledem	RF-------------	AuxP
+4	ke	RV--3----------	AuxP
+5	zvýšené	AAFS3----1A----	Atr
+6	ceně	NNFS3-----A----	Adv
+7	vozu	NNIS2-----A----	Atr
+8	za	RR--4----------	AuxP
+9	povinnou	AAFS4----1A----	Atr
+10	výbavu	NNFS4-----A----	Atr
+11	katalyzátorem	NNIS7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	díky	NNIP7-----A----	AuxP
+14	dostatečné	AAFS3----1A----	Atr
+15	výrobě	NNFS3-----A----	Adv
+16	(	Z:-------------	AuxG
+17	220000	C=-------------	Atr
+18	kusů	NNIP2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	roce	NNIS6-----A---1	Atr
+21	1993	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	,	Z:-------------	AuxX
+24	ale	J^-------------	Coord
+25	i	J^-------------	AuxZ
+26	vinou	NNFS7-----A----	AuxP
+27	umrtvení	NNNS2-----A----	Adv
+28	obchodu	NNIS2-----A----	Atr
+29	vždy	Db-------------	Atr
+30	na	RR--6----------	AuxP
+31	začátku	NNIS6-----A----	Atr
+32	roku	NNIS2-----A---1	Atr
+33	.	Z:-------------	AuxK
+
+cmpr9407-009-p3s3
+1	Tuzemský	AAMS1----1A----	Atr
+2	zákazník	NNMS1-----A----	Sb
+3	může	VB-S---3P-AA---	Pred
+4	být	Vf--------A----	Obj
+5	touto	PDFS7----------	Atr
+6	skutečností	NNFS7-----A----	Obj
+7	potěšen	VsYS---XX-AP---	Pnom
+8	,	Z:-------------	AuxX
+9	protože	J,-------------	AuxC
+10	v	RR--6----------	AuxP
+11	minulém	AAIS6----1A----	Atr
+12	roce	NNIS6-----A---1	Adv
+13	ještě	Db-------------	AuxZ
+14	před	RR--7----------	AuxP
+15	povinnou	AAFS7----1A----	Atr
+16	montáží	NNFS7-----A----	Adv
+17	katalyzátoru	NNIS2-----A----	Atr
+18	čekal	VpYS---XR-AA---	Adv
+19	na	RR--4----------	AuxP
+20	auto	NNNS4-----A----	Obj
+21	i	J^-------------	AuxZ
+22	několik	Ca--4----------	Adv
+23	měsíců	NNIP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9407-009-p3s4
+1	Počet	NNIS1-----A----	Sb
+2	neprodaných	AANP2----1N----	Atr
+3	aut	NNNP2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	zahraničních	AAIP6----1A----	Atr
+6	skladech	NNIP6-----A----	Atr
+7	se	P7-X4----------	AuxR
+8	neoficiálně	Dg-------1N----	Adv
+9	odhaduje	VB-S---3P-AA---	Pred
+10	na	RR--4----------	AuxP
+11	25	C=-------------	Obj
+12	tisíc	ClXS2----------	Atr
+13	.	Z:-------------	AuxK
+

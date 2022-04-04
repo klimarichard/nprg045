@@ -1,0 +1,113 @@
+mf920922-014-p1s1
+1	Ředitel	NNMS1-----A----	Sb
+2	ČSOB	NNFXX-----A---8	Atr
+3	odstoupil	VpYS---XR-AA---	Pred
+
+mf920922-014-p2s1
+1	Rostislav	NNMS1-----A----	Atr
+2	Petráš	NNMS1-----A----	Sb
+3	rezignoval	VpYS---XR-AA---	Pred
+4	16	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	září	NNNS2-----A----	Adv
+7	z	RR--2----------	AuxP
+8	funkce	NNFS2-----A----	Adv
+9	předsedy	NNMS2-----A----	Atr
+10	představenstva	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	generálního	AAMS2----1A----	Atr
+13	ředitele	NNMS2-----A----	Atr
+14	Československé	AAFS2----1A----	Atr
+15	obchodní	AAFS2----1A----	Atr
+16	banky	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920922-014-p2s2
+1	Bylo	VpNS---XR-AA---	AuxV
+2	to	PDNS1----------	Sb
+3	včera	Db-------------	Adv
+4	oficiálně	Dg-------1A----	Adv
+5	oznámeno	VsNS---XX-AP---	Pred
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+mf920922-014-p2s3
+1	Potvrdily	VpTP---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	tak	Db-------------	Adv
+4	neověřené	AAFP1----1N----	Atr
+5	zprávy	NNFP1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	minulého	AAIS2----1A----	Atr
+8	týdne	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf920922-014-p2s4
+1	Jako	J,-------------	AuxY
+2	důvod	NNIS4-----A----	AtvV
+3	odstoupení	NNNS2-----A----	Atr
+4	komuniké	NNNXX-----A----	Sb
+5	ČSOB	NNFXX-----A---8	Atr
+6	uvádí	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	banka	NNFS1-----A----	Sb
+10	se	P7-X4----------	AuxT
+11	po	RR--6----------	AuxP
+12	své	P8FS6---------1	Atr
+13	první	CrFS6----------	Atr
+14	etapě	NNFS6-----A----	Adv
+15	přetváření	NNNS2-----A----	Atr
+16	na	RR--4----------	AuxP
+17	komerční	AAFS4----1A----	Atr
+18	banku	NNFS4-----A----	Atr
+19	s	RR--7----------	AuxP
+20	profilací	NNFS7-----A----	Atr
+21	na	RR--4----------	AuxP
+22	devizové	AAFP4----1A----	Atr
+23	operace	NNFP4-----A----	Atr
+24	nachází	VB-S---3P-AA---	Obj
+25	na	RR--6----------	AuxP
+26	počátku	NNIS6-----A----	Adv
+27	fáze	NNFS2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	"	Z:-------------	AuxG
+30	která	P4FS1----------	Sb
+31	vyžaduje	VB-S---3P-AA---	Atr
+32	dopracování	NNNS4-----A----	Obj
+33	strategie	NNFS2-----A----	Atr
+34	banky	NNFS2-----A----	Atr
+35	"	Z:-------------	AuxG
+36	.	Z:-------------	AuxK
+
+mf920922-014-p2s5
+1	Tato	PDFS1----------	Atr
+2	fáze	NNFS1-----A----	Sb
+3	přesáhne	VB-S---3P-AA---	Sb
+4	datum	NNNS4-----A----	Obj
+5	vzniku	NNIS2-----A----	Atr
+6	nároku	NNIS2-----A----	Atr
+7	Rostislava	NNMS2-----A----	Atr
+8	Petráše	NNMS2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	důchod	NNIS4-----A----	Atr
+11	,	Z:-------------	AuxX
+12	"	Z:-------------	AuxG
+13	stanovené	AANS4----1A----	Atr
+14	jím	PPZS7--3-------	Obj
+15	samým	PLZS7----------	Atv
+16	jako	J,-------------	AuxY
+17	den	NNIS4-----A----	Atv
+18	odchodu	NNIS2-----A----	Atr
+19	ze	RV--2----------	AuxP
+20	služeb	NNFP2-----A----	Atr
+21	ČSOB	NNFXX-----A---8	Atr
+22	"	Z:-------------	AuxG
+23	,	Z:-------------	AuxX
+24	uvádí	VB-S---3P-AA---	Pred
+25	se	P7-X4----------	AuxR
+26	v	RR--6----------	AuxP
+27	komuniké	NNNXX-----A----	Adv
+28	.	Z:-------------	AuxK
+

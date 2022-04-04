@@ -1,0 +1,558 @@
+mf920925-060-p1s1
+1	Sochy	NNFP1-----A----	ExD
+2	ze	RV--2----------	AuxP
+3	sklepa	NNIS2-----A----	Atr
+4	do	RR--2----------	AuxP
+5	muzea	NNNS2-----A----	ExD
+
+mf920925-060-p2s1
+1	VÍTĚZ	NNMS1-----A----	Atr
+2	ZÁVODU	NNIS2-----A----	Atr
+3	MÍRU	NNIS2-----A----	Atr
+4	1949	C=-------------	Atr
+5	JAN	NNMS1-----A----	Adv
+6	VESELÝ	NNMS1-----A----	ExD
+7	ŠOKOVÁN	VsYS---XX-AP---	ExD
+8	ZE	RV--2----------	AuxP
+9	SOUČASNÝCH	AAIP2----1A----	Atr
+10	PENĚZ	NNIP2-----A----	Adv
+11	V	RR--6----------	AuxP
+12	CYKLISTICE	NNFS6-----A----	Atr
+
+mf920925-060-p3s1
+1	"	Z:-------------	AuxG
+2	Když	J,-------------	AuxC
+3	tohle	PDNS4----------	Obj
+4	slyším	VB-S---1P-AA---	Adv
+5	,	Z:-------------	AuxX
+6	tak	Db-------------	Adv
+7	je	VB-S---3P-AA---	Obj
+8	to	PDNS1----------	Sb
+9	pro	RR--4----------	AuxP
+10	mne	PP-S4--1-------	Adv
+11	šok	NNIS1-----A----	Pnom
+12	a	J^-------------	Coord
+13	bolí	VB-P---3P-AA---	Obj
+14	mě	PH-S4--1-------	Obj
+15	z	RR--2----------	AuxP
+16	toho	PDZS2----------	Adv
+17	nohy	NNFP1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	"	Z:-------------	AuxG
+20	řekl	VpYS---XR-AA---	Pred
+21	nám	PP-P3--1-------	Obj
+22	Jan	NNMS1-----A----	Atr
+23	Veselý	NNMS1-----A----	Sb
+24	(	Z:-------------	ExD
+25	69	C=-------------	ExD
+26	)	Z:-------------	ExD
+27	,	Z:-------------	Apos
+28	jeden	ClYS1----------	Sb
+29	z	RR--2----------	AuxP
+30	nejslavnějších	AAMP2----3A----	Atr
+31	našich	PSXP2-P1-------	Atr
+32	cyklistů	NNMP2-----A----	Atr
+33	všech	PLXP2----------	Atr
+34	dob	NNFP2-----A----	Atr
+35	,	Z:-------------	AuxX
+36	po	RR--6----------	AuxP
+37	tiskové	AAFS6----1A----	Atr
+38	konferenci	NNFS6-----A----	Adv
+39	Velké	AAFS2----1A----	Atr
+40	ceny	NNFS2-----A----	Atr
+41	Krkonoš	NNFP2-----A----	Atr
+42	.	Z:-------------	AuxK
+
+mf920925-060-p3s2
+1	Vítěz	NNMS1-----A----	Sb
+2	Závodu	NNIS2-----A----	Atr
+3	míru	NNIS2-----A----	Atr
+4	1949	C=-------------	Atr
+5	se	P7-X4----------	AuxT
+6	tam	Db-------------	Adv
+7	jako	J,-------------	AuxY
+8	čestný	AAMS1----1A----	Atr
+9	host	NNMS1-----A----	Atv
+10	dozvěděl	VpYS---XR-AA---	Pred
+11	o	RR--6----------	AuxP
+12	prémiích	NNFP6-----A----	Obj
+13	pro	RR--4----------	AuxP
+14	současné	AAMP4----1A----	Atr
+15	cyklisty	NNMP4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4FP1----------	Sb
+18	za	RR--4----------	AuxP
+19	dva	ClYP4----------	Atr
+20	trutnovské	AAIP4----1A----	Atr
+21	dny	NNIP4-----A----	Adv
+22	činily	VpTP---XR-AA---	Atr
+23	celkem	Db-------------	Adv
+24	120000	C=-------------	Obj
+25	Kčs	NNFXX-----A---8	Atr
+26	.	Z:-------------	AuxK
+
+mf920925-060-p4s1
+1	"	Z:-------------	AuxG
+2	Já	PP-S1--1-------	Sb
+3	to	PDNS4----------	Obj
+4	nevyhrál	VpYS---XR-NA---	Pred
+5	za	RR--4----------	AuxP
+6	svých	P8XP2----------	Atr
+7	šestnáct	Cn-S4----------	Adv
+8	let	NNNP2-----A----	Atr
+9	závodění	NNNS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	já	PP-S1--1-------	Sb
+12	totiž	Db-------------	AuxY
+13	žádné	PWYP4----------	Atr
+14	peníze	NNIP4-----A----	Obj
+15	nikdy	Db-------------	Adv
+16	nedostával	VpYS---XR-NA---	Pred
+17	.	Z:-------------	AuxK
+
+mf920925-060-p4s2
+1	Za	RR--4----------	AuxP
+2	různé	AAFP4----1A----	Atr
+3	prémie	NNFP4-----A----	Adv
+4	a	J^-------------	Coord
+5	etapová	AANP4----1A----	Atr
+6	vítězství	NNNP4-----A----	Adv
+7	jsem	VB-S---1P-AA---	AuxV
+8	ovšem	J^-------------	AuxY
+9	měl	VpYS---XR-AA---	Pred
+10	tolik	Ca--4----------	Obj
+11	aktovek	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	necesérů	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	bych	Vc-S---1-------	AuxV
+17	je	PPXP4--3-------	Obj
+18	mohl	VpYS---XR-AA---	Adv
+19	prodávat	Vf--------A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920925-060-p4s3
+1	Také	Db-------------	Adv
+2	nějaké	PZYP4----------	Atr
+3	ty	PDIP4----------	Atr
+4	tepláky	NNIP4-----A----	Obj
+5	jsem	VB-S---1P-AA---	AuxV
+6	vyhrál	VpYS---XR-AA---	Obj
+7	,	Z:-------------	AuxX
+8	"	Z:-------------	AuxG
+9	vzpomněl	VpYS---XR-AA---	Pred
+10	Veselý	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+mf920925-060-p4s4
+1	"	Z:-------------	AuxG
+2	Na	RR--4----------	AuxP
+3	jednu	ClFS4----------	Atr
+4	stovku	NNFS4-----A----	Obj
+5	si	P7-X3----------	AuxT
+6	ale	J^-------------	AuxY
+7	přece	Db-------------	AuxY
+8	jen	TT-------------	AuxY
+9	dobře	Dg-------1A----	Adv
+10	pamatuji	VB-S---1P-AA--1	Pred
+11	.	Z:-------------	AuxK
+
+mf920925-060-p4s5
+1	To	PDNS1----------	ExD
+2	když	J,-------------	AuxC
+3	se	P7-X4----------	AuxR
+4	jel	VpYS---XR-AA---	ExD
+5	hned	Db-------------	AuxZ
+6	po	RR--6----------	AuxP
+7	válce	NNFS6-----A----	Adv
+8	tradiční	AAIS1----1A----	Atr
+9	závod	NNIS1-----A----	Sb
+10	Český	AAIS1----1A----	Atr
+11	Brod	NNIS1-----A----	Atr
+12	-	Z:-------------	Coord
+13	Praha	NNFS1-----A----	Atr
+14	o	RR--4----------	AuxP
+15	putovní	AAIS4----1A----	Atr
+16	pohár	NNIS4-----A----	Atr
+17	,	Z:-------------	AuxX
+18	do	RR--2----------	AuxP
+19	něhož	P9ZS2----------	Adv
+20	byla	VpQW---XR-AA---	AuxV
+21	vyryta	VsQW---XX-AP---	Atr
+22	mnohá	AANP1----1A----	Atr
+23	slavná	AANP1----1A----	Atr
+24	jména	NNNP1-----A----	Sb
+25	naší	PSFS2-P1-------	Atr
+26	cyklistiky	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf920925-060-p4s6
+1	A	J^-------------	Coord
+2	Konárek	NNMS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	tenkrát	Db-------------	Adv
+5	mohl	VpYS---XR-AA---	Pred
+6	získat	Vf--------A----	Obj
+7	ten	PDIS4----------	Atr
+8	pohár	NNIS4-----A----	Obj
+9	potřetí	Cv-------------	Adv
+10	a	J^-------------	Coord
+11	byl	VpYS---XR-AA---	Pred
+12	by	Vc-------------	AuxV
+13	jeho	PSXXXZS3-------	Pnom
+14	.	Z:-------------	AuxK
+
+mf920925-060-p4s7
+1	A	J^-------------	Coord
+2	tak	Db-------------	Adv
+3	mě	PH-S4--1-------	Obj
+4	požádal	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	abych	J,-S---1-------	AuxC
+7	ho	PHZS4--3-------	Obj
+8	nechal	VpYS---XR-AA---	Obj
+9	vyhrát	Vf--------A----	Obj
+10	,	Z:-------------	AuxX
+11	a	J^-------------	Coord
+12	když	J,-------------	AuxC
+13	se	P7-X4----------	AuxT
+14	tak	Db-------------	Adv
+15	stalo	VpNS---XR-AA---	Adv
+16	,	Z:-------------	AuxX
+17	dal	VpYS---XR-AA---	Pred
+18	mi	PH-S3--1-------	Obj
+19	stokorunu	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+21	"	Z:-------------	AuxG
+
+mf920925-060-p5s1
+1	Z	RR--2----------	AuxP
+2	některých	PZXP2----------	Atr
+3	věcných	AAFP2----1A----	Atr
+4	cen	NNFP2-----A----	Adv
+5	byl	VpYS---XR-AA---	Pred
+6	Veselý	NNMS1-----A----	Sb
+7	někdy	Db-------------	Adv
+8	až	TT-------------	AuxZ
+9	zoufalý	AAMS1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+mf920925-060-p5s2
+1	Na	RR--4----------	AuxP
+2	závěr	NNIS4-----A----	Adv
+3	jednoho	ClZS2----------	Atr
+4	ročníku	NNIS2-----A----	Atr
+5	Závodu	NNIS2-----A----	Atr
+6	míru	NNIS2-----A----	Atr
+7	dostal	VpYS---XR-AA---	Pred
+8	motocykl	NNIS4-----A----	Obj
+9	Sokol	NNMS1-----A----	Atr
+10	125	C=-------------	Atr
+11	.	Z:-------------	AuxK
+
+mf920925-060-p5s3A
+1	"	Z:-------------	AuxG
+2	Jenže	J^-------------	Coord
+3	to	PDNS1----------	Sb
+4	byla	VpQW---XR-AA---	Pred
+5	taková	PDFS1----------	Atr
+6	mrcha	NNFS1-----A----	Pnom
+7	,	Z:-------------	Coord
+8	ne	TT-------------	ExD
+9	a	J^-------------	Coord
+10	ne	TT-------------	ExD
+11	hodit	Vf--------A----	Obj
+12	jiskru	NNFS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	tak	Db-------------	Coord
+15	jsem	VB-S---1P-AA---	AuxV
+16	se	P7-X4----------	AuxT
+17	jí	PPFS2--3-------	Obj
+18	brzy	Dg-------1A----	Adv
+19	zbavil	VpYS---XR-AA---	Pred
+20	.	Z:-------------	AuxK
+21	"	Z:-------------	AuxG
+
+mf920925-060-p5s3B
+1	Co	PQ--4----------	Obj
+2	ale	J^-------------	AuxY
+3	čert	NNMS1-----A----	Sb
+4	nechtěl	VpYS---XR-NA---	Pred
+5	,	Z:-------------	Coord
+6	na	RR--6----------	AuxP
+7	konci	NNIS6-----A----	ExD
+8	dalšího	AAIS2----1A----	Atr
+9	ročníku	NNIS2-----A----	Atr
+10	opět	Db-------------	ExD
+11	na	RR--6----------	AuxP
+12	pódiu	NNNS6-----A----	ExD
+13	Sokol	NNMS1-----A----	ExD
+14	125	C=-------------	Atr
+15	.	Z:-------------	AuxK
+
+mf920925-060-p5s4
+1	"	Z:-------------	AuxG
+2	Požádal	VpYS---XR-AA---	Pred
+3	jsem	VB-S---1P-AA---	AuxV
+4	tenkrát	Db-------------	Adv
+5	jednoho	ClMS4----------	Obj
+6	z	RR--2----------	AuxP
+7	našich	PSXP2-P1-------	Atr
+8	funkcionářů	NNMP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	zda	J,-------------	AuxC
+11	bych	Vc-S---1-------	AuxV
+12	nemohl	VpYS---XR-NA---	Obj
+13	dostat	Vf--------A----	Obj
+14	za	RR--4----------	AuxP
+15	tuhle	PDFS4----------	Atr
+16	motorku	NNFS4-----A----	Adv
+17	třeba	Db-------------	AuxZ
+18	tři	ClXP4----------	Atr
+19	metry	NNIP4-----A----	Obj
+20	látky	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920925-060-p5s5
+1	To	PDNS1----------	Sb
+2	prý	TT-------------	AuxY
+3	nejde	VB-S---3P-NA---	Obj
+4	,	Z:-------------	AuxX
+5	řekl	VpYS---XR-AA---	Pred
+6	mi	PH-S3--1-------	Obj
+7	.	Z:-------------	AuxK
+
+mf920925-060-p5s6
+1	Naštěstí	Db-------------	Adv
+2	Sokola	NNMS4-----A----	Obj
+3	ode	RV--2----------	AuxP
+4	mne	PP-S2--1-------	Obj
+5	někdo	PZM-1----------	Sb
+6	koupil	VpYS---XR-AA---	Pred
+7	ještě	Db-------------	Adv
+8	na	RR--6----------	AuxP
+9	pódiu	NNNS6-----A----	Adv
+10	.	Z:-------------	AuxK
+11	"	Z:-------------	AuxG
+
+mf920925-060-p6s1
+1	Mezi	RR--7----------	AuxP
+2	věcnými	AAFP7----1A----	Atr
+3	cenami	NNFP7-----A----	Adv
+4	,	Z:-------------	AuxX
+5	které	P4FP4----------	Obj
+6	Veselý	NNMS1-----A----	Sb
+7	získal	VpYS---XR-AA---	Atr
+8	,	Z:-------------	AuxX
+9	zaujímaly	VpTP---XR-AA---	Pred
+10	čestné	AANS4----1A----	Atr
+11	místo	NNNS4-----A----	Obj
+12	tři	ClXP1----------	Atr
+13	sochy	NNFP1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf920925-060-p6s2
+1	"	Z:-------------	AuxG
+2	Byl	VpYS---XR-AA---	Pred
+3	to	PDNS1----------	Pnom
+4	bizon	NNMS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	nějakej	PZYS1---------6	Atr
+7	kovář	NNMS1-----A----	Sb
+8	a	J^-------------	Coord
+9	také	Db-------------	AuxZ
+10	ta	PDFS1----------	Atr
+11	žena	NNFS1-----A----	Sb
+12	,	Z:-------------	Apos
+13	symbol	NNIS1-----A----	Sb
+14	Varšavy	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920925-060-p6s3
+1	Uložil	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	je	PPXP4--3-------	Obj
+4	všechny	PLFP4----------	Atv
+5	do	RR--2----------	AuxP
+6	sklepa	NNIS2-----A----	Adv
+7	a	J^-------------	Coord
+8	jsou	VB-P---3P-AA---	Pred
+9	to	PDNS1----------	Sb
+10	čtyři	ClXP1----------	Atr
+11	roky	NNIP1-----A----	Pnom
+12	,	Z:-------------	AuxX
+13	co	J,-------------	AuxC
+14	jsem	VB-S---1P-AA---	AuxV
+15	je	PPXP4--3-------	Obj
+16	prodal	VpYS---XR-AA---	Adv
+17	do	RR--2----------	AuxP
+18	jednoho	ClZS2----------	Atr
+19	muzea	NNNS2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+mf920925-060-p6s4
+1	Chtěli	VpMP---XR-AA---	Pred
+2	ode	RV--2----------	AuxP
+3	mne	PP-S2--1-------	Obj
+4	také	Db-------------	AuxZ
+5	žlutý	AAIS4----1A----	Atr
+6	trikot	NNIS4-----A----	Obj
+7	vítěze	NNMS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf920925-060-p6s5
+1	Byl	VpYS---XR-AA---	Pred
+2	už	Db-------------	Adv
+3	prožraný	AAIS1----1A----	Pnom
+4	moly	NNMP7-----A----	Obj
+5	,	Z:-------------	AuxX
+6	měl	VpYS---XR-AA---	Pred
+7	jsem	VB-S---1P-AA---	AuxV
+8	ho	PHZS4--3-------	Obj
+9	v	RR--6----------	AuxP
+10	garáži	NNFS6-----A----	Adv
+11	a	J^-------------	Coord
+12	občas	Db-------------	Adv
+13	jsem	VB-S---1P-AA---	AuxV
+14	si	P7-X3----------	Adv
+15	do	RR--2----------	AuxP
+16	něho	P5ZS2--3------1	Adv
+17	utíral	VpYS---XR-AA---	Pred
+18	ruce	NNFP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf920925-060-p6s6
+1	Vypral	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	ho	PHZS4--3-------	Obj
+4	,	Z:-------------	AuxX
+5	vyspravil	VpYS---XR-AA---	Pred
+6	a	J^-------------	Coord
+7	je	VB-S---3P-AA---	Pred
+8	v	RR--6----------	AuxP
+9	muzeu	NNNS6-----A----	Adv
+10	.	Z:-------------	AuxK
+11	"	Z:-------------	AuxG
+
+mf920925-060-p7s1
+1	Veselý	NNMS1-----A----	Sb
+2	jezdil	VpYS---XR-AA---	Pred
+3	na	RR--6----------	AuxP
+4	zadním	AANS6----1A----	Atr
+5	kole	NNNS6-----A----	Adv
+6	se	RV--7----------	AuxP
+7	čtyřkolečkem	NNNS7-----A----	Atr
+8	a	J^-------------	Coord
+9	vpředu	Db-------------	Adv
+10	měl	VpYS---XR-AA---	Pred
+11	až	TT-------------	AuxZ
+12	později	Dg-------2A----	Adv
+13	dvoupřevodník	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	který	P4IS4----------	Obj
+16	mu	PHZS3--3-------	Adv
+17	na	RR--4----------	AuxP
+18	kolo	NNNS4-----A----	Adv
+19	namontovali	VpMP---XR-AA---	Atr
+20	ve	RV--6----------	AuxP
+21	Švýcarsku	NNNS6-----A----	Adv
+22	.	Z:-------------	AuxK
+
+mf920925-060-p7s2
+1	Ale	J^-------------	Coord
+2	už	Db-------------	AuxZ
+3	za	RR--2----------	AuxP
+4	těchto	PDXP2----------	Atr
+5	časů	NNIP2-----A----	Adv
+6	poznal	VpYS---XR-AA---	Pred
+7	doping	NNIS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+mf920925-060-p7s3
+1	"	Z:-------------	AuxG
+2	Někteří	PZMP1----------	Atr
+3	cizinci	NNMP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	viseli	VpMP---XR-AA---	Atr
+7	v	RR--6----------	AuxP
+8	pelotonu	NNIS6-----A----	Adv
+9	jako	J,-------------	AuxC
+10	mrtvoly	NNFP1-----A----	ExD
+11	,	Z:-------------	AuxX
+12	si	P7-X3----------	Adv
+13	patnáct	Cn-S4----------	Adv
+14	kilometrů	NNIP2-----A----	Atr
+15	před	RR--7----------	AuxP
+16	cílem	NNIS7-----A----	Atr
+17	sáhli	VpMP---XR-AA--1	Pred
+18	do	RR--2----------	AuxP
+19	kapsičky	NNFS2-----A----	Adv
+20	a	J^-------------	Coord
+21	najednou	Db-------------	Adv
+22	ožili	VpMP---XR-AA---	Pred
+23	.	Z:-------------	AuxK
+
+mf920925-060-p7s4
+1	Takže	J,-------------	AuxC
+2	jsem	VB-S---1P-AA---	AuxV
+3	s	RR--7----------	AuxP
+4	nimi	P5XP7--3-------	Adv
+5	ve	RV--6----------	AuxP
+6	spurtech	NNIP6-----A----	Adv
+7	míval	VpYS---XR-AA---	Pred
+8	někdy	Db-------------	Adv
+9	dost	Dg-------1A----	Obj
+10	práce	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+12	"	Z:-------------	AuxG
+
+mf920925-060-p8s1
+1	Slavný	AAMS1----1A----	Atr
+2	cyklista	NNMS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	stále	Db-------------	Adv
+5	plný	AAMS1----1A----	Atr
+6	energie	NNFS2-----A----	Obj
+7	a	J^-------------	Coord
+8	životní	AAFS2----1A----	Atr
+9	pohody	NNFS2-----A----	Obj
+10	,	Z:-------------	AuxX
+11	se	P7-X4----------	AuxT
+12	ve	RV--6----------	AuxP
+13	svém	P8ZS6----------	Atr
+14	sportu	NNIS6-----A----	Adv
+15	už	Db-------------	Adv
+16	neangažuje	VB-S---3P-NA---	Pred
+17	.	Z:-------------	AuxK
+
+mf920925-060-p8s2
+1	Žije	VB-S---3P-AA---	Pred
+2	ze	RV--2----------	AuxP
+3	skromného	AAIS2----1A----	Atr
+4	důchodu	NNIS2-----A----	Obj
+5	a	J^-------------	Coord
+6	dvakrát	Cv-------------	Adv
+7	týdně	Db-------------	Adv
+8	si	P7-X3----------	AuxT
+9	přivydělává	VB-S---3P-AA---	Pred
+10	ve	RV--6----------	AuxP
+11	vrátnici	NNFS6-----A----	Adv
+12	Geoindustrie	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920925-060-p8s3
+1	"	Z:-------------	ExD
+2	To	PDNS1----------	ExD
+3	proto	Db-------------	ExD
+4	,	Z:-------------	AuxX
+5	abych	J,-S---1-------	AuxC
+6	měl	VpYS---XR-AA---	ExD
+7	na	RR--4----------	AuxP
+8	benzín	NNIS4-----A----	Obj
+9	,	Z:-------------	ExD
+10	"	Z:-------------	ExD
+11	řekl	VpYS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+

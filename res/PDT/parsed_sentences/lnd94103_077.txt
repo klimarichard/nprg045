@@ -1,0 +1,132 @@
+lnd94103-077-p1s1C
+1	Moskevská	AAFS1----1A----	Atr
+2	Coca	AAXXX----1A----	ExD
+3	-	Z:-------------	AuxG
+4	Cola	NNFS1-----A----	Atr
+
+lnd94103-077-p1s1B
+1	Novou	AAFS4----1A----	Atr
+2	jednotku	NNFS4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	výrobu	NNFS4-----A----	Atr
+5	nealkoholických	AAIP2----1N----	Atr
+6	nápojů	NNIP2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	hodnotě	NNFS6-----A----	Atr
+9	35	C=-------------	Atr
+10	milionů	NNIP2-----A----	Atr
+11	dolarů	NNIP2-----A----	Atr
+12	otevřela	VpQW---XR-AA---	Pred
+13	v	RR--6----------	AuxP
+14	dubnu	NNIS6-----A----	Adv
+15	v	RR--6----------	AuxP
+16	Moskvě	NNFS6-----A----	Adv
+17	společnost	NNFS1-----A----	Sb
+18	Coca	AAXXX----1A----	Atr
+19	-	Z:-------------	AuxG
+20	Cola	NNFS1-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94103-077-p1s2
+1	Podnik	NNIS1-----A----	Sb
+2	moskevské	AAFS2----1A----	Atr
+3	společnosti	NNFS2-----A----	Atr
+4	Coca	AAXXX----1A----	Atr
+5	-	Z:-------------	AuxG
+6	Cola	NNFS1-----A----	Atr
+7	Refreshments	NNNPX-----A----	Atr
+8	(	Z:-------------	Apos
+9	CCRM	NNNXX-----A---8	Sb
+10	)	Z:-------------	AuxG
+11	vyrábí	VB-S---3P-AA---	Pred
+12	Coca	AAXXX----1A----	Obj
+13	-	Z:-------------	AuxG
+14	Colu	NNFS4-----A----	Atr
+15	,	Z:-------------	AuxX
+16	Fantu	NNMS4-----A----	Obj
+17	a	J^-------------	Coord
+18	Sprite	NNIS4-----A----	Obj
+19	ve	RV--6----------	AuxP
+20	dvoulitrových	AAFP6----1A----	Atr
+21	plastových	AAFP6----1A----	Atr
+22	lahvích	NNFP6-----A----	AtrAdv
+23	,	Z:-------------	Coord
+24	stáčí	VB-S---3P-AA---	Pred
+25	a	J^-------------	Coord
+26	balí	VB-S---3P-AA---	Pred
+27	šťávy	NNFP4-----A----	Obj
+28	pro	RR--4----------	AuxP
+29	stánkový	AAIS4----1A----	Atr
+30	prodej	NNIS4-----A----	AtrAdv
+31	.	Z:-------------	AuxK
+
+lnd94103-077-p1s3
+1	Jeho	PSXXXZS3-------	Atr
+2	výrobky	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	určeny	VsTP---XX-AP---	Pnom
+5	pro	RR--4----------	AuxP
+6	moskevskou	AAFS4----1A----	Atr
+7	oblast	NNFS4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	tedy	Db-------------	Apos
+10	trh	NNIS4-----A----	Adv
+11	s	RR--7----------	AuxP
+12	12	C=-------------	Atr
+13	miliony	NNIP7-----A----	Atr
+14	obyvatel	NNMS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94103-077-p1s4
+1	Osmdesát	Cn-S1----------	Sb
+2	procent	NNNP2-----A----	Atr
+3	materiálu	NNIS2-----A----	Atr
+4	na	RR--4----------	AuxP
+5	výstavbu	NNFS4-----A----	Atr
+6	továrny	NNFS2-----A----	Atr
+7	CCRM	NNNXX-----A---8	Atr
+8	bylo	VpNS---XR-AA---	AuxV
+9	zakoupeno	VsNS---XX-AP---	Pred
+10	v	RR--6----------	AuxP
+11	Rusku	NNNS6-----A----	Adv
+12	a	J^-------------	Coord
+13	70	C=-------------	Sb
+14	procent	NNNP2-----A----	Atr
+15	materiálů	NNIP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	které	P4IP1----------	Sb
+18	se	P7-X4----------	AuxR
+19	používají	VB-P---3P-AA---	Atr
+20	při	RR--6----------	AuxP
+21	výrobě	NNFS6-----A----	Adv
+22	,	Z:-------------	AuxX
+23	pochází	VB-S---3P-AA---	Pred
+24	rovněž	Db-------------	Adv
+25	z	RR--2----------	AuxP
+26	místních	AAIP2----1A----	Atr
+27	zdrojů	NNIP2-----A----	Adv
+28	.	Z:-------------	AuxK
+
+lnd94103-077-p1s5
+1	CCRM	NNNXX-----A---8	Sb
+2	byla	VpQW---XR-AA---	AuxV
+3	založena	VsQW---XX-AP---	Pred
+4	v	RR--6----------	AuxP
+5	listopadu	NNIS6-----A----	Adv
+6	1991	C=-------------	Atr
+7	jako	J,-------------	AuxY
+8	první	CrFS1----------	Atr
+9	akciová	AAFS1----1A----	Atr
+10	společnost	NNFS1-----A----	Atv
+11	se	RV--7----------	AuxP
+12	zahraniční	AAFS7----1A----	Atr
+13	účastí	NNFS7-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Rusku	NNNS6-----A----	AtrAdv
+16	.	Z:-------------	AuxK
+
+lnd94103-077-p1s6
+1	(	Z:-------------	ExD
+2	dr	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

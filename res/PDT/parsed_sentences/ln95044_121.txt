@@ -1,0 +1,327 @@
+ln95044-121-p1s1
+1	Veřejnoprávní	AAFS1----1A----	Atr
+2	televize	NNFS1-----A----	Sb
+3	a	J^-------------	Coord
+4	rozhlas	NNIS1-----A----	Sb
+5	zahájily	VpTP---XR-AA---	Pred
+6	kampaň	NNFS4-----A----	Obj
+7	proti	RR--3----------	AuxP
+8	neplatičům	NNMP3-----A----	Atr
+9	poplatků	NNIP2-----A----	Atr
+
+ln95044-121-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-121-p2s1B
+1	Mohutnou	AAFS4----1A----	Atr
+2	kampaň	NNFS4-----A----	Obj
+3	zaměřenou	AAFS4----1A----	Atr
+4	na	RR--4----------	AuxP
+5	neplatiče	NNMP4-----A----	Obj
+6	rozhlasových	AAIP2----1A----	Atr
+7	a	J^-------------	Coord
+8	televizních	AAIP2----1A----	Atr
+9	poplatků	NNIP2-----A----	Atr
+10	zahájili	VpMP---XR-AA---	Pred
+11	včera	Db-------------	Adv
+12	společnou	AAFS7----1A----	Atr
+13	tiskovou	AAFS7----1A----	Atr
+14	konferencí	NNFS7-----A----	Adv
+15	generální	AAMP1----1A----	Atr
+16	ředitelé	NNMP1-----A----	Atr
+17	Českého	AAIS2----1A----	Atr
+18	rozhlasu	NNIS2-----A----	Atr
+19	a	J^-------------	Coord
+20	České	AAFS2----1A----	Atr
+21	televize	NNFS2-----A----	Atr
+22	Vlastimil	NNMS1-----A----	Atr
+23	Ježek	NNMS1-----A----	Sb
+24	a	J^-------------	Coord
+25	Ivo	NNMS1-----A----	Atr
+26	Mathé	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+ln95044-121-p3s1
+1	Kampaň	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	jejímž	P1ZS7FS3-------	Atr
+4	cílem	NNIS7-----A----	Pnom
+5	je	VB-S---3P-AA---	Atr
+6	zvýšit	Vf--------A----	Sb
+7	platební	AAFS4----1A----	Atr
+8	morálku	NNFS4-----A----	Obj
+9	majitelů	NNMP2-----A----	Atr
+10	přijímačů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	má	VB-S---3P-AA---	Pred
+13	vyvrcholit	Vf--------A----	Obj
+14	počátkem	NNIS7-----A----	AuxP
+15	dubna	NNIS2-----A----	Adv
+16	,	Z:-------------	AuxX
+17	kdy	Db-------------	Adv
+18	nabude	VB-S---3P-AA---	Atr
+19	účinnosti	NNFS2-----A----	Obj
+20	zákon	NNIS1-----A----	Sb
+21	o	RR--6----------	AuxP
+22	rozhlasových	AAIP6----1A----	Atr
+23	a	J^-------------	Coord
+24	televizních	AAIP6----1A----	Atr
+25	poplatcích	NNIP6-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95044-121-p3s2
+1	Ježek	NNMS1-----A----	Sb
+2	i	J^-------------	Coord
+3	Mathé	NNMS1-----A----	Sb
+4	společně	Dg-------1A----	Adv
+5	ocenili	VpMP---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	povinnost	NNFS1-----A----	Sb
+9	majitelů	NNMP2-----A----	Atr
+10	přijímačů	NNIP2-----A----	Atr
+11	platit	Vf--------A----	Atr
+12	poplatky	NNIP4-----A----	Obj
+13	určené	AAIP4----1A----	Atr
+14	veřejnoprávním	AAMP3----1A----	Atr
+15	provozovatelům	NNMP3-----A----	Obj
+16	(	Z:-------------	AuxG
+17	25	C=-------------	ExD
+18	korun	NNFP2-----A----	Atr
+19	měsíčně	Dg-------1A----	Atr
+20	za	RR--4----------	AuxP
+21	rozhlasový	AAIS4----1A----	ExD
+22	a	J^-------------	Coord
+23	50	C=-------------	ExD
+24	korun	NNFP2-----A----	Atr
+25	za	RR--4----------	AuxP
+26	televizní	AAIS4----1A----	Atr
+27	přijímač	NNIS4-----A----	ExD
+28	)	Z:-------------	AuxG
+29	bude	VB-S---3F-AA---	AuxV
+30	konečně	Dg-------1A----	Adv
+31	stanovena	VsQW---XX-AP---	Obj
+32	zákonem	NNIS7-----A----	Adv
+33	a	J^-------------	Coord
+34	nikoli	Db------------1	AuxZ
+35	dosavadní	AAFS7----1A----	Atr
+36	soustavou	NNFS7-----A----	Adv
+37	vyhlášek	NNFP2-----A----	Atr
+38	.	Z:-------------	AuxK
+
+ln95044-121-p4s1
+1	"	Z:-------------	AuxG
+2	Neplatič	NNMS1-----A----	Sb
+3	si	P7-X3----------	AuxT
+4	nyní	Db-------------	Adv
+5	musí	VB-S---3P-AA---	Obj
+6	uvědomit	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	porušuje	VB-S---3P-AA---	Obj
+10	zákon	NNIS4-----A----	Obj
+11	se	RV--7----------	AuxP
+12	všemi	PLXP7----------	Atr
+13	důsledky	NNIP7-----A----	Adv
+14	,	Z:-------------	AuxX
+15	"	Z:-------------	AuxG
+16	řekl	VpYS---XR-AA---	Pred
+17	ředitel	NNMS1-----A----	Atr
+18	Ježek	NNMS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+ln95044-121-p4s2
+1	Podle	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	nelze	VB-S---3P-NA---	Pred
+4	věc	NNFS4-----A----	Obj
+5	stavět	Vf--------A----	Sb
+6	jako	J,-------------	AuxY
+7	otázku	NNFS4-----A----	Atv
+8	dobrých	AAIP2----1A----	Atr
+9	nervů	NNIP2-----A----	Atr
+10	neplatičů	NNMP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	i	J^-------------	AuxY
+13	když	J,-------------	AuxC
+14	nový	AAIS1----1A----	Atr
+15	zákon	NNIS1-----A----	Sb
+16	neumožňuje	VB-S---3P-NA---	Adv
+17	přímou	AAFS4----1A----	Atr
+18	kontrolu	NNFS4-----A----	Obj
+19	domácností	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95044-121-p4s3
+1	"	Z:-------------	AuxG
+2	Není	VB-S---3P-NA---	Obj
+3	to	PDNS1----------	Sb
+4	jako	J,-------------	AuxC
+5	jízda	NNFS1-----A----	ExD
+6	v	RR--6----------	AuxP
+7	metru	NNNS6-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	si	P7-X3----------	Adv
+11	může	VB-S---3P-AA---	Atr
+12	někdo	PZM-1----------	Sb
+13	spočítat	Vf--------A----	Obj
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	se	P7-X4----------	AuxT
+17	vyplatí	VB-S---3P-AA---	Obj
+18	riskovat	Vf--------A----	Sb
+19	občasnou	AAFS4----1A----	Atr
+20	pokutu	NNFS4-----A----	Obj
+21	,	Z:-------------	AuxX
+22	než	J,-------------	AuxC
+23	řádně	Dg-------1A----	Adv
+24	platit	Vf--------A----	Adv
+25	jízdné	NNNS4-----A----	Obj
+26	,	Z:-------------	AuxX
+27	"	Z:-------------	AuxG
+28	prohlásil	VpYS---XR-AA---	Pred
+29	Ježek	NNMS1-----A----	Sb
+30	.	Z:-------------	AuxK
+
+ln95044-121-p4s4
+1	Neplatič	NNMS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	podle	RR--2----------	AuxP
+4	něj	P5ZS2--3-------	Adv
+5	totiž	Db-------------	AuxY
+6	musel	VpYS---XR-AA---	Pred
+7	unikat	Vf--------A----	Obj
+8	postihu	NNIS3-----A----	Obj
+9	16.5	C=-------------	Adv
+10	roku	NNIS2-----A---1	Atr
+11	.	Z:-------------	AuxK
+
+ln95044-121-p4s5
+1	Teprve	Db-------------	AuxZ
+2	pak	Db-------------	Adv
+3	by	Vc-------------	AuxV
+4	ušetřené	AAIP1----1A----	Atr
+5	poplatky	NNIP1-----A----	Sb
+6	vydaly	VpTP---XR-AA---	Pred
+7	na	RR--4----------	AuxP
+8	pokutu	NNFS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95044-121-p4s6
+1	Ta	PDFS1----------	Sb
+2	od	RR--2----------	AuxP
+3	dubna	NNIS2-----A----	Adv
+4	neplatiče	NNMP4-----A----	Obj
+5	přijde	VB-S---3P-AA---	Pred
+6	na	RR--4----------	AuxP
+7	5	C=-------------	Obj
+8	tisíc	ClXS2----------	Atr
+9	korun	NNFP2-----A----	Atr
+10	u	RR--2----------	AuxP
+11	nepřihlášeného	AANS2----1N----	Atr
+12	rádia	NNNS2-----A----	Adv
+13	a	J^-------------	Coord
+14	10	C=-------------	ExD
+15	tisíc	ClXS2----------	Atr
+16	u	RR--2----------	AuxP
+17	televize	NNFS2-----A----	ExD
+18	.	Z:-------------	AuxK
+
+ln95044-121-p5s1
+1	Podle	RR--2----------	AuxP
+2	Mathého	NNMS2-----A----	Adv
+3	lze	VB-S---3P-AA---	Pred
+4	počet	NNIS4-----A----	Obj
+5	neplatičů	NNMP2-----A----	Atr
+6	odhadnout	Vf--------A----	Sb
+7	přibližně	Dg-------1A----	AuxZ
+8	na	RR--4----------	AuxP
+9	desetinu	CyFS4----------	Adv
+10	majitelů	NNMP2-----A----	Atr
+11	přijímačů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95044-121-p5s2
+1	Těch	PDXP2----------	Atr
+2	je	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	ČR	NNFXX-----A---8	Adv
+5	přibližně	Dg-------1A----	AuxZ
+6	4	C=-------------	Atr
+7	milióny	NNIP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95044-121-p5s3
+1	"	Z:-------------	AuxG
+2	U	RR--2----------	AuxP
+3	právnických	AAFP2----1A----	Atr
+4	osob	NNFP2-----A----	Adv
+5	je	VB-S---3P-AA---	Adv
+6	však	J^-------------	Coord
+7	kázeň	NNFS1-----A----	Sb
+8	mnohem	Db-------------	Adv
+9	nižší	AAFS1----2A----	Pnom
+10	,	Z:-------------	Coord
+11	z	RR--2----------	AuxP
+12	celkového	AAIS2----1A----	Atr
+13	odhadovaného	AAIS2----1A----	Atr
+14	počtu	NNIS2-----A----	Atr
+15	více	Dg-------2A----	Atr
+16	než	J,-------------	AuxC
+17	tři	ClXP1----------	Atr
+18	čtvrtě	NNFP1-----A----	ExD
+19	miliónu	NNIS2-----A----	Atr
+20	podnikatelských	AAIP2----1A----	Atr
+21	subjektů	NNIP2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	používajících	AGIP2-----A----	Atr
+24	přijímač	NNIS4-----A----	Obj
+25	,	Z:-------------	AuxX
+26	nám	PP-P3--1-------	Obj
+27	poplatky	NNIP4-----A----	Obj
+28	platí	VB-P---3P-AA---	Adv
+29	jen	TT-------------	AuxZ
+30	73	C=-------------	Sb
+31	tisíc	ClXS2----------	Atr
+32	,	Z:-------------	AuxX
+33	"	Z:-------------	AuxG
+34	postěžoval	VpYS---XR-AA---	Pred
+35	si	P7-X3----------	AuxT
+36	ředitel	NNMS1-----A----	Atr
+37	Mathé	NNMS1-----A----	Sb
+38	.	Z:-------------	AuxK
+
+ln95044-121-p5s4
+1	Oba	ClYP1----------	Atr
+2	ředitelé	NNMP1-----A----	Sb
+3	kritizovali	VpMP---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	zákon	NNIS1-----A----	Sb
+7	nepočítá	VB-S---3P-NA---	Obj
+8	s	RR--7----------	AuxP
+9	indexací	NNFS7-----A----	Obj
+10	poplatků	NNIP2-----A----	Atr
+11	(	Z:-------------	Apos
+12	jejich	PSXXXXP3-------	Atr
+13	pravidelným	AANS7----1A----	Atr
+14	zvyšováním	NNNS7-----A----	Obj
+15	ve	RV--6----------	AuxP
+16	vazbě	NNFS6-----A----	Atr
+17	na	RR--4----------	AuxP
+18	inflaci	NNFS4-----A----	Atr
+19	)	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+ln95044-121-p5s5
+1	Zvýšit	Vf--------A----	Obj
+2	se	P7-X4----------	AuxR
+3	tedy	Db-------------	AuxY
+4	mohou	VB-P---3P-AA--1	Pred
+5	pouze	Db-------------	AuxZ
+6	změnou	NNFS7-----A----	Adv
+7	zákona	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+

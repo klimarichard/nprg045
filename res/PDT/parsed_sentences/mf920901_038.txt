@@ -1,0 +1,183 @@
+mf920901-038-p1s1
+1	Vězeň	NNMS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	útěku	NNIS6-----A----	Atr
+
+mf920901-038-p2s1
+1	Hradec	NNIS1-----A----	ExD
+2	Králové	NNFS2-----A----	Atr
+3	-	Z:-------------	AuxK
+
+mf920901-038-p2s2
+1	Jedenadvacetiletý	AAMS1----1A----	Atr
+2	Peter	NNMS1-----A----	Atr
+3	Zedek	NNMS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	uprchl	VpYS---XR-AA--1	Atr
+7	v	RR--4----------	AuxP
+8	pátek	NNIS4-----A----	Adv
+9	v	RR--6----------	AuxP
+10	noci	NNFS6-----A----	Adv
+11	z	RR--2----------	AuxP
+12	nápravně	Dg-------1A----	Adv
+13	výchovného	AAIS2----1A----	Atr
+14	ústavu	NNIS2-----A----	Adv
+15	v	RR--6----------	AuxP
+16	Hradci	NNIS6-----A----	Atr
+17	Králové	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	kde	Db-------------	Adv
+20	si	P7-X3----------	Adv
+21	odpykával	VpYS---XR-AA---	Atr
+22	tříletý	AAIS4----1A----	Atr
+23	trest	NNIS4-----A----	Obj
+24	odnětí	NNNS2-----A----	Atr
+25	svobody	NNFS2-----A----	Atr
+26	pro	RR--4----------	AuxP
+27	krádež	NNFS4-----A----	Atr
+28	,	Z:-------------	AuxX
+29	nebyl	VpYS---XR-NA---	Pred
+30	v	RR--6----------	AuxP
+31	době	NNFS6-----A----	Adv
+32	útěku	NNIS2-----A----	Atr
+33	ozbrojen	VsYS---XX-AP---	Pnom
+34	.	Z:-------------	AuxK
+
+mf920901-038-p2s3
+1	Není	VB-S---3P-NA---	Pred
+2	však	J^-------------	Coord
+3	vyloučeno	VsNS---XX-AP---	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	si	P7-X3----------	Adv
+7	nějakou	PZFS4----------	Atr
+8	zbraň	NNFS4-----A----	Obj
+9	opatří	VB-S---3P-AA---	Sb
+10	.	Z:-------------	AuxK
+
+mf920901-038-p2s4
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	mluvčí	NNMS1-----A----	Atr
+5	východočeské	AAFS2----1A----	Atr
+6	policejní	AAFS2----1A----	Atr
+7	správy	NNFS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Hradci	NNIS6-----A----	Atr
+10	Králové	NNFS2-----A----	Atr
+11	Karel	NNMS1-----A----	Atr
+12	Matula	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+mf920901-038-p2s5
+1	Peter	NNMS1-----A----	Atr
+2	Zedek	NNMS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	z	RR--2----------	AuxP
+5	nápravně	Dg-------1A----	Adv
+6	výchovného	AAIS2----1A----	Atr
+7	ústavu	NNIS2-----A----	Adv
+8	dostal	VpYS---XR-AA---	Pred
+9	zřejmě	Dg-------1A----	AuxY
+10	tak	Db-------------	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	přelezl	VpYS---XR-AA---	Adv
+14	dvojité	AANS4----1A----	Atr
+15	oplocení	NNNS4-----A----	Obj
+16	areálu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920901-038-p2s6
+1	Odsouzení	AAMP1----1A----	Sb
+2	v	RR--6----------	AuxP
+3	tzv	AAXXX----1A---8	Atr
+4	.	Z:-------------	AuxG
+5	polootevřeném	AANS6----1A----	Atr
+6	oddělení	NNNS6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	byl	VpYS---XR-AA---	AuxV
+10	umístěn	VsYS---XX-AP---	Atr
+11	,	Z:-------------	AuxX
+12	bydlí	VB-P---3P-AA---	Pred
+13	na	RR--6----------	AuxP
+14	ubytovně	NNFS6-----A----	Adv
+15	,	Z:-------------	Coord
+16	nikoli	Db------------1	AuxZ
+17	v	RR--6----------	AuxP
+18	celách	NNFP6-----A----	Adv
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	mohou	VB-P---3P-AA--1	Pred
+22	se	P7-X4----------	AuxT
+23	volně	Dg-------1A----	Adv
+24	pohybovat	Vf--------A----	Obj
+25	po	RR--6----------	AuxP
+26	celém	AANS6----1A----	Atr
+27	zařízení	NNNS6-----A----	Adv
+28	.	Z:-------------	AuxK
+
+mf920901-038-p2s7
+1	Během	RR--2----------	AuxP
+2	týdne	NNIS2-----A----	Adv
+3	dojíždějí	VB-P---3P-AA---	Pred
+4	do	RR--2----------	AuxP
+5	podniků	NNIP2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	kde	Db-------------	Adv
+8	pracují	VB-P---3P-AA---	Atr
+9	,	Z:-------------	AuxX
+10	bez	RR--2----------	AuxP
+11	přímého	AANS2----1A----	Atr
+12	střežení	NNNS2-----A----	Adv
+13	.	Z:-------------	AuxK
+
+mf920901-038-p2s8
+1	Podle	RR--2----------	AuxP
+2	ředitele	NNMS2-----A----	Adv
+3	královéhradeckého	AANS2----1A----	Atr
+4	vězení	NNNS2-----A----	Atr
+5	nejde	VB-S---3P-NA---	Pred
+6	o	RR--4----------	AuxP
+7	útěk	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	o	RR--4----------	AuxP
+11	vzdálení	NNNS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+mf920901-038-p2s9
+1	Policejní	AAMS1----1A----	Atr
+2	vyšetřovatel	NNMS1-----A----	Sb
+3	proti	RR--3----------	AuxP
+4	odsouzenému	AAMS3----1A----	Adv
+5	zahájil	VpYS---XR-AA---	Pred
+6	trestní	AANS4----1A----	Atr
+7	stíhání	NNNS4-----A----	Obj
+8	pro	RR--4----------	AuxP
+9	trestný	AAIS4----1A----	Atr
+10	čin	NNIS4-----A----	Atr
+11	maření	NNNS2-----A----	Atr
+12	soudního	AANS2----1A----	Atr
+13	rozhodnutí	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920901-038-p2s10
+1	Peter	NNMS1-----A----	Atr
+2	Zedek	NNMS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	letos	Db-------------	Adv
+5	již	Db-------------	AuxZ
+6	třetím	CrMS7----------	Atr
+7	odsouzeným	AAMS7----1A----	Pnom
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	z	RR--2----------	AuxP
+11	tohoto	PDZS2----------	Atr
+12	oddělení	NNNS2-----A----	Adv
+13	uprchl	VpYS---XR-AA--1	Atr
+14	.	Z:-------------	AuxK
+

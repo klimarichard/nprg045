@@ -1,0 +1,788 @@
+cmpr9410-031-p2s1
+1	Stát	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxG
+3	podnikatelé	NNMP1-----A----	ExD
+4	-	Z:-------------	Coord
+5	nezaměstnanost	NNFS1-----A----	ExD
+
+cmpr9410-031-p3s1
+1	Na	RR--4----------	AuxP
+2	přímou	AAFS4----1A----	Atr
+3	podporu	NNFS4-----A----	Adv
+4	podnikání	NNNS2-----A----	Atr
+5	vydá	VB-S---3P-AA---	Pred
+6	letos	Db-------------	Adv
+7	stát	NNIS1-----A----	Sb
+8	přibližně	Dg-------1A----	AuxZ
+9	1.8	C=-------------	Obj
+10	procenta	NNNS2-----A----	Atr
+11	hrubého	AAIS2----1A----	Atr
+12	domácího	AAIS2----1A----	Atr
+13	produktu	NNIS2-----A----	Atr
+
+cmpr9410-031-p4s1
+1	Malé	AAIP1----1A----	Atr
+2	a	J^-------------	Coord
+3	střední	AAIP1----1A----	Atr
+4	podniky	NNIP1-----A----	Sb
+5	zvyšují	VB-P---3P-AA---	Pred
+6	svůj	P8IS4----------	Atr
+7	podíl	NNIS4-----A----	Obj
+8	na	RR--6----------	AuxP
+9	vyrobeném	AAIS6----1A----	Atr
+10	produktu	NNIS6-----A----	Atr
+11	i	J^-------------	Coord
+12	na	RR--6----------	AuxP
+13	zaměstnanosti	NNFS6-----A----	Atr
+14	a	J^-------------	Coord
+15	jejich	PSXXXXP3-------	Atr
+16	počet	NNIS1-----A----	Sb
+17	neustále	Dg-------1A----	Adv
+18	roste	VB-S---3P-AA---	Pred
+19	.	Z:-------------	AuxK
+
+cmpr9410-031-p4s2
+1	Tuto	PDFS4----------	Atr
+2	skutečnost	NNFS4-----A----	Obj
+3	jednoznačně	Dg-------1A----	Adv
+4	konstatuje	VB-S---3P-AA---	Pred
+5	ministr	NNMS1-----A----	Atr
+6	hospodářství	NNNS2-----A----	Atr
+7	Karel	NNMS1-----A----	Atr
+8	Dyba	NNMS1-----A----	Sb
+9	v	RR--6----------	AuxP
+10	analýze	NNFS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	kterou	P4FS4----------	Obj
+13	předložil	VpYS---XR-AA---	Atr
+14	vládě	NNFS3-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9410-031-p6s1
+1	Kazimír	NNMS1-----A----	Atr
+2	Jánoška	NNMS1-----A----	ExD
+
+cmpr9410-031-p8s1
+1	Jak	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	dále	Db------------1	Adv
+4	v	RR--6----------	AuxP
+5	materiálu	NNIS6-----A----	Adv
+6	zdůrazněno	VsNS---XX-AP---	Pnom
+7	,	Z:-------------	AuxX
+8	pozitivní	AAIS1----1A----	Atr
+9	posun	NNIS1-----A----	Sb
+10	v	RR--6----------	AuxP
+11	rozvoji	NNIS6-----A----	Atr
+12	malých	AAIP2----1A----	Atr
+13	a	J^-------------	Coord
+14	středních	AAIP2----1A----	Atr
+15	podniků	NNIP2-----A----	Atr
+16	byl	VpYS---XR-AA---	Pred
+17	umožněn	VsYS---XX-AP---	Pnom
+18	především	Db-------------	AuxZ
+19	díky	RR--3----------	AuxP
+20	stabilnímu	AANS3----1A----	Atr
+21	makroekonomickému	AANS3----1A----	Atr
+22	prostředí	NNNS3-----A----	Adv
+23	,	Z:-------------	AuxX
+24	relativní	AAFS3----1A----	Atr
+25	legislativní	AAFS3----1A----	Atr
+26	stabilitě	NNFS3-----A----	Adv
+27	a	J^-------------	Coord
+28	státní	AAFS3----1A----	Atr
+29	politice	NNFS3-----A----	Adv
+30	podpory	NNFS2-----A----	Atr
+31	podnikatelských	AAIP2----1A----	Atr
+32	subjektů	NNIP2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+cmpr9410-031-p9s1
+1	Nejvíce	Dg-------3A----	ExD
+2	Ministerstvo	NNNS1-----A----	ExD
+3	financí	NNFP2-----A----	Atr
+
+cmpr9410-031-p10s1
+1	Z	RR--2----------	AuxP
+2	dokumentu	NNIS2-----A----	Adv
+3	dále	Db------------1	Adv
+4	vyplývá	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	roce	NNIS6-----A---1	Adv
+9	1993	C=-------------	Atr
+10	bylo	VpNS---XR-AA---	AuxV
+11	celkově	Dg-------1A----	Adv
+12	na	RR--4----------	AuxP
+13	podporu	NNFS4-----A----	Adv
+14	zejména	Db-------------	AuxZ
+15	malého	AANS2----1A----	Atr
+16	a	J^-------------	Coord
+17	středního	AANS2----1A----	Atr
+18	podnikání	NNNS2-----A----	Atr
+19	poskytnuto	VsNS---XX-AP---	Sb
+20	z	RR--2----------	AuxP
+21	rozpočtových	AAIP2----1A----	Atr
+22	prostředků	NNIP2-----A----	Adv
+23	více	Dg-------2A----	Sb
+24	než	J,-------------	AuxC
+25	11	C=-------------	Adv
+26	miliard	NNFP2-----A----	Atr
+27	korun	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9410-031-p10s2
+1	Nejvíce	Dg-------3A----	Adv
+2	se	P7-X4----------	AuxT
+3	na	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	podílel	VpYS---XR-AA---	Pred
+6	resort	NNIS1-----A----	Sb
+7	Ministerstva	NNNS2-----A----	Atr
+8	financí	NNFP2-----A----	Atr
+9	ČR	NNFXX-----A---8	Atr
+10	-	Z:-------------	AuxG
+11	a	J^-------------	AuxY
+12	to	PDNS4----------	AuxY
+13	formou	NNFS7-----A----	Adv
+14	daňových	AAFP2----1A----	Atr
+15	úlev	NNFP2-----A----	Atr
+16	ve	RV--6----------	AuxP
+17	výši	NNFS6-----A----	Atr
+18	zhruba	Db-------------	AuxZ
+19	7.5	C=-------------	Atr
+20	miliardy	NNFS2-----A----	Atr
+21	korun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9410-031-p10s3
+1	Další	AAFS1----1A----	Atr
+2	podpora	NNFS1-----A----	Sb
+3	byla	VpQW---XR-AA---	AuxV
+4	poskytnuta	VsQW---XX-AP---	Pred
+5	Ministerstvem	NNNS7-----A----	Obj
+6	zemědělství	NNNS2-----A----	Atr
+7	-	Z:-------------	ExD
+8	přibližně	Dg-------1A----	AuxZ
+9	2.8	C=-------------	ExD
+10	miliardy	NNFS2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	Ministerstvem	NNNS7-----A----	Obj
+14	práce	NNFS2-----A----	Atr
+15	a	J^-------------	Coord
+16	sociálních	AAFP2----1A----	Atr
+17	věcí	NNFP2-----A----	Atr
+18	-	Z:-------------	ExD
+19	kolem	RR--2----------	AuxP
+20	178	C=-------------	ExD
+21	milionů	NNIP2-----A----	Atr
+22	korun	NNFP2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	a	J^-------------	Coord
+25	Ministerstvem	NNNS7-----A----	Obj
+26	hospodářství	NNNS2-----A----	Atr
+27	-	Z:-------------	ExD
+28	asi	TT-------------	AuxZ
+29	1.2	C=-------------	ExD
+30	miliardy	NNFS2-----A----	Atr
+31	korun	NNFP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+cmpr9410-031-p11s1
+1	Relativně	Dg-------1A----	Adv
+2	tak	Db-------------	Adv
+3	stát	NNIS1-----A----	Sb
+4	vynakládá	VB-S---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	tržně	Dg-------1A----	Adv
+7	konformní	AAFS4----1A----	Atr
+8	podporu	NNFS4-----A----	Adv
+9	malého	AANS2----1A----	Atr
+10	a	J^-------------	Coord
+11	středního	AANS2----1A----	Atr
+12	podnikání	NNNS2-----A----	Atr
+13	přibližně	Dg-------1A----	AuxZ
+14	1.6	C=-------------	Obj
+15	-	Z:-------------	Coord
+16	1.8	C=-------------	Obj
+17	%	Z:-------------	Atr
+18	hrubého	AAIS2----1A----	Atr
+19	domácího	AAIS2----1A----	Atr
+20	produktu	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9410-031-p12s1
+1	Regionální	AAIS1----1A----	Atr
+2	aspekt	NNIS1-----A----	ExD
+
+cmpr9410-031-p13s1
+1	V	RR--6----------	AuxP
+2	rámci	NNIS6-----A----	AuxP
+3	rozpočtové	AAFS2----1A----	Atr
+4	podpory	NNFS2-----A----	Adv
+5	poskytují	VB-P---3P-AA---	Pred
+6	ministerstva	NNNP1-----A----	Sb
+7	malým	AAMP3----1A----	Atr
+8	a	J^-------------	Coord
+9	středním	AAMP3----1A----	Atr
+10	podnikatelům	NNMP3-----A----	Obj
+11	zvýhodněné	AAFP4----1A----	Atr
+12	informační	AAFP4----1A----	Atr
+13	služby	NNFP4-----A----	Obj
+14	a	J^-------------	Coord
+15	poradenskou	AAFS4----1A----	Atr
+16	činnost	NNFS4-----A----	Obj
+17	buď	J^-------------	AuxY
+18	přímo	Dg-------1A----	Adv
+19	nebo	J^-------------	Coord
+20	prostřednictvím	NNNS7-----A----	AuxP
+21	specializovaných	AAFP2----1A----	Atr
+22	institucí	NNFP2-----A----	Adv
+23	.	Z:-------------	AuxK
+
+cmpr9410-031-p14s1
+1	Potěšitelné	AANS1----1A----	Pnom
+2	ovšem	J^-------------	Coord
+3	je	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	podpora	NNFS1-----A----	Sb
+7	malého	AANS2----1A----	Atr
+8	a	J^-------------	Coord
+9	středního	AANS2----1A----	Atr
+10	podnikání	NNNS2-----A----	Atr
+11	má	VB-S---3P-AA---	Sb
+12	výrazný	AAIS4----1A----	Atr
+13	regionální	AAIS4----1A----	Atr
+14	aspekt	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9410-031-p14s2
+1	Podnikatelské	AAIP1----1A----	Atr
+2	záměry	NNIP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	hospodářsky	Dg-------1A----	Adv
+5	problémových	AAFP6----1A----	Atr
+6	oblastech	NNFP6-----A----	Atr
+7	jsou	VB-P---3P-AA---	Pred
+8	zvýhodněny	VsTP---XX-AP---	Pnom
+9	vyššími	AAFP7----2A----	Atr
+10	podporami	NNFP7-----A----	Adv
+11	a	J^-------------	Coord
+12	speciálními	AAIP7----1A----	Atr
+13	programy	NNIP7-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9410-031-p15s1
+1	Rozvoj	NNIS1-----A----	Sb
+2	malého	AANS2----1A----	Atr
+3	a	J^-------------	Coord
+4	středního	AANS2----1A----	Atr
+5	podnikání	NNNS2-----A----	Atr
+6	však	J^-------------	Coord
+7	někdy	Db-------------	Adv
+8	naráží	VB-S---3P-AA---	Pred
+9	na	RR--4----------	AuxP
+10	bariéry	NNFP4-----A----	Adv
+11	v	RR--6----------	AuxP
+12	podobě	NNFS6-----A----	AuxP
+13	nadměrně	Dg-------1A----	Adv
+14	byrokratické	AAFS2----1A----	Atr
+15	státní	AAFS2----1A----	Atr
+16	správy	NNFS2-----A----	Atr
+17	(	Z:-------------	AuxG
+18	nebo	J^-------------	Coord
+19	samosprávy	NNFS2-----A----	Atr
+20	)	Z:-------------	AuxG
+21	,	Z:-------------	AuxX
+22	nepříznivých	AAFP2----1N----	Atr
+23	úvěrových	AAFP2----1A----	Atr
+24	podmínek	NNFP2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	případně	Dg-------1A----	Coord
+27	relativně	Dg-------1A----	Adv
+28	více	Dg-------2A----	Adv
+29	zaostalé	AAFS2----1A----	Atr
+30	infrastruktury	NNFS2-----A----	Atr
+31	v	RR--6----------	AuxP
+32	hospodářsky	Dg-------1A----	Adv
+33	slabších	AAIP6----2A----	Atr
+34	regionech	NNIP6-----A----	Atr
+35	.	Z:-------------	AuxK
+
+cmpr9410-031-p15s2
+1	Odstraňování	NNNS1-----A----	Sb
+2	těchto	PDXP2----------	Atr
+3	bariér	NNFP2-----A----	Atr
+4	může	VB-S---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	podle	RR--2----------	AuxP
+7	ministra	NNMS2-----A----	Atr
+8	Karla	NNMS2-----A----	Atr
+9	Dyby	NNMS2-----A----	Adv
+10	někdy	Db-------------	Adv
+11	významnější	AAFS7----2A----	Atr
+12	pomocí	NNFS7-----A----	Pnom
+13	podnikání	NNNS3-----A----	Atr
+14	než	J,-------------	AuxC
+15	finanční	AAFS1----1A----	Atr
+16	podpora	NNFS1-----A----	ExD
+17	státu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9410-031-p16s1
+1	Změny	NNFP1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	rok	NNIS4-----A----	Atr
+4	1994	C=-------------	Atr
+
+cmpr9410-031-p17s1
+1	Zkušenosti	NNFP1-----A----	Sb
+2	Ministerstva	NNNS2-----A----	Atr
+3	hospodářství	NNNS2-----A----	Atr
+4	ČR	NNFXX-----A---8	Atr
+5	z	RR--2----------	AuxP
+6	loňského	AAIS2----1A----	Atr
+7	roku	NNIS2-----A---1	Atr
+8	ukazují	VB-P---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	vzhledem	RF-------------	AuxP
+12	k	RR--3----------	AuxP
+13	postupnému	AANS3----1A----	Atr
+14	zlepšování	NNNS3-----A----	Adv
+15	informovanosti	NNFS2-----A----	Atr
+16	podnikatelů	NNMP2-----A----	Atr
+17	o	RR--6----------	AuxP
+18	programech	NNIP6-----A----	Atr
+19	podpory	NNFS2-----A----	Atr
+20	se	P7-X4----------	AuxT
+21	podstatně	Dg-------1A----	Adv
+22	zvýšil	VpYS---XR-AA---	Obj
+23	i	J^-------------	AuxZ
+24	jejich	PSXXXXP3-------	Atr
+25	zájem	NNIS1-----A----	Sb
+26	o	RR--4----------	AuxP
+27	získání	NNNS4-----A----	Atr
+28	finančních	AAFP2----1A----	Atr
+29	dotací	NNFP2-----A----	Atr
+30	od	RR--2----------	AuxP
+31	státu	NNIS2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+cmpr9410-031-p17s2
+1	Výsledkem	NNIS7-----A----	Pnom
+2	byl	VpYS---XR-AA---	Pred
+3	značný	AAIS1----1A----	Atr
+4	převis	NNIS1-----A----	Sb
+5	poptávky	NNFS2-----A----	Atr
+6	nad	RR--7----------	AuxP
+7	celkovými	AAFP7----1A----	Atr
+8	možnostmi	NNFP7-----A----	Atr
+9	,	Z:-------------	AuxX
+10	tedy	Db-------------	Apos
+11	prostředky	NNIP7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	které	P4YP4----------	Obj
+14	Ministerstvo	NNNS1-----A----	Sb
+15	hospodářství	NNNS2-----A----	Atr
+16	dávalo	VpNS---XR-AA---	Atr
+17	k	RR--3----------	AuxP
+18	dispozici	NNFS3-----A----	Adv
+19	podnikatelům	NNMP3-----A----	Obj
+20	prostřednictvím	NNNS7-----A----	AuxP
+21	Českomoravské	AAFS2----1A----	Atr
+22	záruční	AAFS2----1A----	Atr
+23	a	J^-------------	Coord
+24	rozvojové	AAFS2----1A----	Atr
+25	banky	NNFS2-----A----	Adv
+26	.	Z:-------------	AuxK
+
+cmpr9410-031-p18s1
+1	Ministr	NNMS1-----A----	Atr
+2	Karel	NNMS1-----A----	Atr
+3	Dyba	NNMS1-----A----	ExD
+4	:	Z:-------------	AuxG
+5	Vzhledem	RF-------------	AuxP
+6	k	RR--3----------	AuxP
+7	očekávané	AAFS3----1A----	Atr
+8	poptávce	NNFS3-----A----	Adv
+9	a	J^-------------	Coord
+10	dané	AAFS3----1A----	Atr
+11	sumě	NNFS3-----A----	Adv
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	je	VB-S---3P-AA---	Atr
+15	k	RR--3----------	AuxP
+16	dispozici	NNFS3-----A----	Adv
+17	ze	RV--2----------	AuxP
+18	státního	AAIS2----1A----	Atr
+19	rozpočtu	NNIS2-----A----	Adv
+20	,	Z:-------------	AuxX
+21	byly	VpTP---XR-AA---	AuxV
+22	v	RR--6----------	AuxP
+23	nových	AAIP6----1A----	Atr
+24	programech	NNIP6-----A----	Adv
+25	Ministerstva	NNNS2-----A----	Atr
+26	hospodářství	NNNS2-----A----	Atr
+27	pro	RR--4----------	AuxP
+28	rok	NNIS4-----A----	Atr
+29	1994	C=-------------	Atr
+30	provedeny	VsTP---XX-AP---	ExD
+31	následující	AGFP1-----A----	Atr
+32	změny	NNFP1-----A----	Sb
+33	:	Z:-------------	AuxK
+
+cmpr9410-031-p19s1
+1	Za	RR--4----------	AuxP
+2	a	NNNXX-----A----	ExD
+3	)	Z:-------------	AuxG
+4	.	Z:-------------	AuxK
+
+cmpr9410-031-p19s2
+1	S	RR--7----------	AuxP
+2	výjimkou	NNFS7-----A----	Adv
+3	programu	NNIS2-----A----	Atr
+4	Region	NNIS1-----A----	Atr
+5	a	J^-------------	Coord
+6	Aeskulap	NNIS1-----A----	Atr
+7	byla	VpQW---XR-AA---	AuxV
+8	snížena	VsQW---XX-AP---	Pred
+9	sazba	NNFS1-----A----	Sb
+10	příspěvku	NNIS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	úhradu	NNFS4-----A----	Atr
+13	úroků	NNIP2-----A----	Atr
+14	o	RR--4----------	AuxP
+15	1	C=-------------	Atr
+16	-	Z:-------------	Coord
+17	2	C=-------------	Atr
+18	%	Z:-------------	Adv
+19	proti	RR--3----------	AuxP
+20	roku	NNIS3-----A----	Adv
+21	1993	C=-------------	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9410-031-p20s1
+1	Za	RR--4----------	AuxP
+2	b	NNNXX-----A----	ExD
+3	)	Z:-------------	AuxG
+4	.	Z:-------------	AuxK
+
+cmpr9410-031-p20s2
+1	Byla	VpQW---XR-AA---	AuxV
+2	zkrácena	VsQW---XX-AP---	Pred
+3	doba	NNFS1-----A----	Sb
+4	od	RR--2----------	AuxP
+5	podpisu	NNIS2-----A----	Atr
+6	úvěrové	AAFS2----1A----	Atr
+7	smlouvy	NNFS2-----A----	Atr
+8	k	RR--3----------	AuxP
+9	registraci	NNFS3-----A----	Atr
+10	žádostí	NNFP2-----A----	Atr
+11	o	RR--4----------	AuxP
+12	podporu	NNFS4-----A----	Atr
+13	z	RR--2----------	AuxP
+14	1	C=-------------	Atr
+15	roku	NNIS2-----A---1	Obj
+16	na	RR--4----------	AuxP
+17	6	C=-------------	Obj
+18	měsíců	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-031-p21s1
+1	Za	RR--4----------	AuxP
+2	c	NNNXX-----A----	ExD
+3	)	Z:-------------	AuxG
+4	.	Z:-------------	AuxK
+
+cmpr9410-031-p21s2
+1	Byly	VpTP---XR-AA---	AuxV
+2	zrušeny	VsTP---XX-AP---	Pred
+3	cenově	Dg-------1A----	Adv
+4	zvýhodněné	AAFP1----1A----	Atr
+5	záruky	NNFP1-----A----	Sb
+6	za	RR--4----------	AuxP
+7	úvěr	NNIS4-----A----	Atr
+8	u	RR--2----------	AuxP
+9	jednotlivých	AAIP2----1A----	Atr
+10	programů	NNIP2-----A----	Adv
+11	a	J^-------------	Coord
+12	vyčleněny	VsTP---XX-AP---	Pred
+13	do	RR--2----------	AuxP
+14	nového	AAIS2----1A----	Atr
+15	programu	NNIS2-----A----	Adv
+16	Záruka	NNFS1-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9410-031-p22s1
+1	Za	RR--4----------	AuxP
+2	d	NNNXX-----A----	ExD
+3	)	Z:-------------	AuxG
+4	.	Z:-------------	AuxK
+
+cmpr9410-031-p22s2
+1	Byl	VpYS---XR-AA---	AuxV
+2	zrušen	VsYS---XX-AP---	Pred
+3	příspěvek	NNIS1-----A----	Sb
+4	na	RR--4----------	AuxP
+5	úhradu	NNFS4-----A----	Atr
+6	úroků	NNIP2-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	obchodní	AAFS4----1A----	Atr
+9	činnost	NNFS4-----A----	Atr
+10	s	RR--7----------	AuxP
+11	výjimkou	NNFS7-----A----	AuxP
+12	programu	NNIS2-----A----	Adv
+13	Start	NNIS1-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9410-031-p23s1
+1	Cílem	NNIS7-----A----	Pnom
+2	uvedených	AAFP2----1A----	Atr
+3	změn	NNFP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	vytvoření	NNNS1-----A----	Sb
+6	předpokladů	NNIP2-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	uspokojení	NNNS4-----A----	Atr
+9	většího	AAIS2----2A----	Atr
+10	počtu	NNIS2-----A----	Atr
+11	žadatelů	NNMP2-----A----	Atr
+12	při	RR--6----------	AuxP
+13	současné	AAFS6----1A----	Atr
+14	orientaci	NNFS6-----A----	Adv
+15	na	RR--4----------	AuxP
+16	nově	Dg-------1A----	Adv
+17	uzavírané	AAIP4----1A----	Atr
+18	úvěry	NNIP4-----A----	Atr
+19	v	RR--6----------	AuxP
+20	průběhu	NNIS6-----A----	AuxP
+21	celého	AAIS2----1A----	Atr
+22	roku	NNIS2-----A---1	Atr
+23	1994	C=-------------	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9410-031-p23s2
+1	Je	VB-S---3P-AA---	Pred
+2	však	J^-------------	Coord
+3	nutno	ACNS------A----	Pnom
+4	znovu	Db-------------	Adv
+5	upozornit	Vf--------A----	Sb
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	na	RR--4----------	AuxP
+9	podpory	NNFP4-----A----	Atr
+10	není	VB-S---3P-NA---	Obj
+11	právní	AAIS1----1A----	Atr
+12	nárok	NNIS1-----A----	Sb
+13	a	J^-------------	Coord
+14	poskytují	VB-P---3P-AA---	Obj
+15	se	P7-X4----------	AuxR
+16	jen	TT-------------	AuxZ
+17	do	RR--2----------	AuxP
+18	vyčerpání	NNNS2-----A----	Adv
+19	prostředků	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9410-031-p24s1
+1	Celkem	Db-------------	ExD
+2	10	C=-------------	ExD
+3	programů	NNIP2-----A----	Atr
+
+cmpr9410-031-p25s1
+1	Na	RR--4----------	AuxP
+2	rok	NNIS4-----A----	Adv
+3	1994	C=-------------	Atr
+4	bylo	VpNS---XR-AA---	AuxV
+5	schváleno	VsNS---XX-AP---	Pred
+6	celkem	Db-------------	Adv
+7	10	C=-------------	Sb
+8	programů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9410-031-p25s2
+1	Vedle	RR--2----------	AuxP
+2	dosavadních	AAIP2----1A----	Atr
+3	programů	NNIP2-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	to	PDNS1----------	Sb
+6	nové	AAIP1----1A----	Atr
+7	programy	NNIP1-----A----	Pnom
+8	Special	NNIS1-----A----	Atr
+9	a	J^-------------	Coord
+10	Záruka	NNFS1-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9410-031-p25s3
+1	Podnikatelé	NNMP1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	však	J^-------------	Coord
+4	neměli	VpMP---XR-NA---	Pred
+5	přehlédnout	Vf--------A----	Obj
+6	rozhodnutí	NNNS4-----A----	Obj
+7	Ministerstva	NNNS2-----A----	Atr
+8	hospodářství	NNNS2-----A----	Atr
+9	o	RR--6----------	AuxP
+10	zrušení	NNNS6-----A----	Atr
+11	všech	PLXP2----------	Atr
+12	programů	NNIP2-----A----	Atr
+13	z	RR--2----------	AuxP
+14	roku	NNIS2-----A---1	Atr
+15	1993	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	a	J^-------------	AuxY
+18	to	PDNS4----------	AuxY
+19	z	RR--2----------	AuxP
+20	důvodu	NNIS2-----A----	Atr
+21	provedení	NNNS2-----A----	Atr
+22	dílčích	AAFP2----1A----	Atr
+23	změn	NNFP2-----A----	Atr
+24	ve	RV--6----------	AuxP
+25	všech	PLXP6----------	Atr
+26	programech	NNIP6-----A----	Atr
+27	pro	RR--4----------	AuxP
+28	letošní	AAIS4----1A----	Atr
+29	rok	NNIS4-----A----	Atr
+30	.	Z:-------------	AuxK
+
+cmpr9410-031-p26s1
+1	Ministr	NNMS1-----A----	Atr
+2	Karel	NNMS1-----A----	Atr
+3	Dyba	NNMS1-----A----	Sb
+4	k	RR--3----------	AuxP
+5	tomu	PDZS3----------	Adv
+6	uvedl	VpYS---XR-AA---	Pred
+7	:	Z:-------------	AuxG
+8	Programy	NNIP1-----A----	Sb
+9	budou	VB-P---3F-AA---	AuxV
+10	financovány	VsTP---XX-AP---	Obj
+11	z	RR--2----------	AuxP
+12	prostředků	NNIP2-----A----	Adv
+13	vyčleněných	AAIP2----1A----	Atr
+14	ve	RV--6----------	AuxP
+15	státním	AAIS6----1A----	Atr
+16	rozpočtu	NNIS6-----A----	Adv
+17	České	AAFS2----1A----	Atr
+18	republiky	NNFS2-----A----	Atr
+19	na	RR--4----------	AuxP
+20	rok	NNIS4-----A----	Adv
+21	1994	C=-------------	Atr
+22	v	RR--6----------	AuxP
+23	celkové	AAFS6----1A----	Atr
+24	výši	NNFS6-----A----	Adv
+25	1.2	C=-------------	Atr
+26	miliardy	NNFS2-----A----	Atr
+27	korun	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9410-031-p26s2
+1	Ministerstvo	NNNS1-----A----	Sb
+2	hospodářství	NNNS2-----A----	Atr
+3	na	RR--6----------	AuxP
+4	základě	NNIS6-----A----	AuxP
+5	úsporných	AANP2----1A----	Atr
+6	opatření	NNNP2-----A----	Adv
+7	ve	RV--6----------	AuxP
+8	vlastní	AAFS6----1A----	Atr
+9	rozpočtové	AAFS6----1A----	Atr
+10	kapitole	NNFS6-----A----	Atr
+11	poskytlo	VpNS---XR-AA--1	Pred
+12	dodatečně	Dg-------1A----	Adv
+13	se	RV--7----------	AuxP
+14	souhlasem	NNIS7-----A----	Adv
+15	vlády	NNFS2-----A----	Atr
+16	na	RR--4----------	AuxP
+17	kladně	Dg-------1A----	Adv
+18	vyhodnocené	AAIP4----1A----	Atr
+19	projekty	NNIP4-----A----	Adv
+20	z	RR--2----------	AuxP
+21	roku	NNIS2-----A---1	Atr
+22	1993	C=-------------	Atr
+23	celkem	Db-------------	Adv
+24	108	C=-------------	Obj
+25	milionů	NNIP2-----A----	Atr
+26	korun	NNFP2-----A----	Atr
+27	,	Z:-------------	AuxX
+28	které	P4FP1----------	Sb
+29	byly	VpTP---XR-AA---	AuxV
+30	směrovány	VsTP---XX-AP---	Atr
+31	do	RR--2----------	AuxP
+32	hospodářsky	Dg-------1A----	Adv
+33	problémových	AAIP2----1A----	Atr
+34	regionů	NNIP2-----A----	Adv
+35	.	Z:-------------	AuxK
+
+cmpr9410-031-p26s3
+1	Uplynulé	AANS1----1A----	Atr
+2	období	NNNS1-----A----	Sb
+3	totiž	Db-------------	AuxY
+4	jednoznačně	Dg-------1A----	Adv
+5	potvrdilo	VpNS---XR-AA---	Pred
+6	významnou	AAFS4----1A----	Atr
+7	korelaci	NNFS4-----A----	Obj
+8	mezi	RR--7----------	AuxP
+9	podnikatelskými	AAFP7----1A----	Atr
+10	aktivitami	NNFP7-----A----	Atr
+11	,	Z:-------------	AuxX
+12	tedy	Db-------------	Apos
+13	počtem	NNIS7-----A----	Atr
+14	živností	NNFP2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	určitý	AAIS4----1A----	Atr
+17	počet	NNIS4-----A----	Atr
+18	obyvatel	NNMS1-----A----	Atr
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	mírou	NNFS7-----A---1	Atr
+22	nezaměstnanosti	NNFS2-----A----	Atr
+23	v	RR--6----------	AuxP
+24	jednotlivých	AAIP6----1A----	Atr
+25	okresech	NNIP6-----A----	Atr
+26	.	Z:-------------	AuxK
+
+cmpr9410-031-p26s4
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	významný	AAIS4----1A----	Atr
+4	vztah	NNIS4-----A----	Obj
+5	nepřímé	AAFS2----1N----	Atr
+6	úměry	NNFS2-----A----	Atr
+7	-	Z:-------------	AuxG
+8	čím	PQ--7----------	Adv
+9	vyšší	AAIS1----2A----	Atr
+10	počet	NNIS1-----A----	ExD
+11	živností	NNFP2-----A----	Adv
+12	,	Z:-------------	AuxX
+13	tím	PDZS7----------	Adv
+14	relativně	Dg-------1A----	Adv
+15	nižší	AAFS1----2A----	Atr
+16	nezaměstnanost	NNFS1-----A----	Atr
+17	v	RR--6----------	AuxP
+18	daném	AAIS6----1A----	Atr
+19	regionu	NNIS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9410-031-p26s5
+1	Myslím	VB-S---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	to	PDNS1----------	Sb
+5	je	VB-S---3P-AA---	Obj
+6	jeden	ClYS1----------	Pnom
+7	z	RR--2----------	AuxP
+8	nejpřesvědčivějších	AAIP2----3A----	Atr
+9	důkazů	NNIP2-----A----	Atr
+10	efektivnosti	NNFS2-----A----	Atr
+11	naší	PSFS2-P1-------	Atr
+12	podpory	NNFS2-----A----	Atr
+13	podnikatelského	AANS2----1A----	Atr
+14	prostředí	NNNS2-----A----	Atr
+15	a	J^-------------	Coord
+16	jeho	PSXXXZS3-------	Atr
+17	jednotlivých	AAIP2----1A----	Atr
+18	subjektů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+

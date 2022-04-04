@@ -1,0 +1,347 @@
+ln94211-67-p1s1
+1	Za	RR--4----------	AuxP
+2	dva	ClYP4----------	Atr
+3	životy	NNIP4-----A----	ExD
+4	tři	ClXP4----------	Atr
+5	roky	NNIP4-----A----	ExD
+6	vězení	NNNS2-----A----	Atr
+
+ln94211-67-p2s1A
+1	Poznámka	NNFS1-----A----	ExD
+
+ln94211-67-p2s1B
+1	Jiří	NNMS1-----A----	Atr
+2	Sirotek	NNMS1-----A----	ExD
+
+ln94211-67-p2s1C
+1	Muž	NNMS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	si	P7-X3----------	AuxT
+5	tak	Db-------------	Adv
+6	často	Dg-------1A----	Adv
+7	pohrával	VpYS---XR-AA---	Atr
+8	s	RR--7----------	AuxP
+9	legálně	Dg-------1A----	Adv
+10	drženou	AAFS7----1A----	Atr
+11	pistolí	NNFS7-----A----	Obj
+12	,	Z:-------------	AuxX
+13	protože	J,-------------	AuxC
+14	s	RR--7----------	AuxP
+15	ní	P5FS7--3-------	Adv
+16	rád	ACYS------A----	AtvV
+17	zastrašoval	VpYS---XR-AA---	Adv
+18	lidi	NNMP4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	až	J,-------------	AuxC
+21	v	RR--6----------	AuxP
+22	Písku	NNIS6-----A----	Adv
+23	zastřelil	VpYS---XR-AA---	Adv
+24	dva	ClYP4----------	Atr
+25	mladíky	NNMP4-----A----	Obj
+26	,	Z:-------------	AuxX
+27	byl	VpYS---XR-AA---	AuxV
+28	odsouzen	VsYS---XX-AP---	Pred
+29	na	RR--4----------	AuxP
+30	tři	ClXP4----------	Atr
+31	roky	NNIP4-----A----	Adv
+32	odnětí	NNNS2-----A----	Atr
+33	svobody	NNFS2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94211-67-p2s2
+1	Rozsudek	NNIS1-----A----	Sb
+2	padl	VpYS---XR-AA--1	Pred
+3	před	RR--7----------	AuxP
+4	několika	Ca--7----------	Atr
+5	dny	NNIP7-----A----	Adv
+6	u	RR--2----------	AuxP
+7	Okresního	AAIS2----1A----	Atr
+8	soudu	NNIS2-----A----	Adv
+9	v	RR--6----------	AuxP
+10	Písku	NNIS6-----A----	Atr
+11	a	J^-------------	Coord
+12	je	VB-S---3P-AA---	Pred
+13	zatím	Db-------------	Adv
+14	nepravomocný	AAIS1----1N----	Pnom
+15	.	Z:-------------	AuxK
+
+ln94211-67-p2s3
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	trest	NNIS1-----A----	Pnom
+4	nízký	AAIS1----1A----	Atr
+5	,	Z:-------------	AuxX
+6	nebo	J^-------------	Coord
+7	přiměřený	AAIS1----1A----	Atr
+8	?	Z:-------------	AuxK
+
+ln94211-67-p3s1
+1	Podle	RR--2----------	AuxP
+2	posudku	NNIS2-----A----	Adv
+3	psychologa	NNMS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	S	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	H	NNMXX-----A---8	Sb
+8	.	Z:-------------	AuxG
+9	nezdrženlivý	AAMS1----1N----	Atr
+10	psychopat	NNMS1-----A----	Pnom
+11	,	Z:-------------	AuxX
+12	kterému	P4ZS3----------	Adv
+13	se	P7-X4----------	AuxT
+14	zbraň	NNFS1-----A----	Sb
+15	nikdy	Db-------------	Adv
+16	neměla	VpQW---XR-NA---	Atr
+17	dostat	Vf--------A----	Obj
+18	do	RR--2----------	AuxP
+19	ruky	NNFS2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94211-67-p3s2
+1	Bohužel	TT-------------	AuxY
+2	právní	AAFP1----1A----	Atr
+3	normy	NNFP1-----A----	Sb
+4	umožňovaly	VpTP---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	několikrát	Co-------------	Adv
+8	trestanému	AAMS3----1A----	Atr
+9	člověku	NNMS3-----A----	Obj
+10	vydala	VpQW---XR-AA---	Obj
+11	policie	NNFS1-----A----	Sb
+12	zbrojní	AAIS4----1A----	Atr
+13	pas	NNIS4-----A----	Obj
+14	na	RR--6----------	AuxP
+15	základě	NNIS6-----A----	AuxP
+16	posudku	NNIS2-----A----	Adv
+17	píseckého	AAMS2----1A----	Atr
+18	lékaře	NNMS2-----A----	Atr
+19	-	Z:-------------	Apos
+20	internisty	NNMS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	který	P4YS1----------	Sb
+23	žadatele	NNMS4-----A----	Obj
+24	prakticky	Dg-------1A----	Adv
+25	neznal	VpYS---XR-NA---	Atr
+26	.	Z:-------------	AuxK
+
+ln94211-67-p3s3
+1	K	RR--3----------	AuxP
+2	vydání	NNNS3-----A----	Adv
+3	zbraně	NNFS2-----A----	Atr
+4	stačil	VpYS---XR-AA---	Pred
+5	výpis	NNIS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	trestního	AAIS2----1A----	Atr
+8	rejstříku	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	nikoli	Db------------1	AuxZ
+12	jeho	PSXXXZS3-------	Atr
+13	opis	NNIS1-----A----	Sb
+14	(	Z:-------------	AuxG
+15	tedy	Db-------------	Apos
+16	úplný	AAIS1----1A----	Atr
+17	přehled	NNIS1-----A----	Sb
+18	dosavadní	AAFS2----1A----	Atr
+19	trestné	AAFS2----1A----	Atr
+20	činnosti	NNFS2-----A----	Atr
+21	)	Z:-------------	AuxG
+22	.	Z:-------------	AuxK
+
+ln94211-67-p3s4
+1	Případ	NNIS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	Písku	NNIS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	z	RR--2----------	AuxP
+6	tohoto	PDZS2----------	Atr
+7	hlediska	NNNS2-----A----	Adv
+8	smutné	AANS1----1A----	Atr
+9	varování	NNNS1-----A----	Pnom
+10	.	Z:-------------	AuxK
+
+ln94211-67-p4s1
+1	Policie	NNFS1-----A----	Sb
+2	i	J^-------------	Coord
+3	soudy	NNIP1-----A----	Sb
+4	vlastně	Db-------------	AuxY
+5	jen	TT-------------	AuxZ
+6	shromažďují	VB-P---3P-AA---	Pred
+7	a	J^-------------	Coord
+8	posuzují	VB-P---3P-AA---	Pred
+9	důkazy	NNIP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94211-67-p4s2
+1	S	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	H	NNMXX-----A---8	Sb
+4	.	Z:-------------	AuxG
+5	dostal	VpYS---XR-AA---	Pred
+6	tři	ClXP4----------	Atr
+7	roky	NNIP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	protože	J,-------------	AuxC
+10	soud	NNIS1-----A----	Sb
+11	neměl	VpYS---XR-NA---	Adv
+12	k	RR--3----------	AuxP
+13	dispozici	NNFS3-----A----	Adv
+14	důkazy	NNIP4-----A----	Obj
+15	potvrzující	AGIP4-----A----	Atr
+16	úmysl	NNIS4-----A----	Obj
+17	,	Z:-------------	Coord
+18	šlo	VpNS---XR-AA---	Pred
+19	tedy	Db-------------	AuxY
+20	o	RR--4----------	AuxP
+21	výsledek	NNIS4-----A----	Obj
+22	nedbalosti	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94211-67-p4s3
+1	Trestní	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	Sb
+3	k	RR--3----------	AuxP
+4	použité	AAFS3----1A----	Atr
+5	kvalifikaci	NNFS3-----A----	Atr
+6	trestného	AAIS2----1A----	Atr
+7	činu	NNIS2-----A----	Atr
+8	ublížení	NNNS2-----A----	Atr
+9	na	RR--6----------	AuxP
+10	zdraví	NNNS6-----A----	Atr
+11	uvádí	VB-S---3P-AA---	Pred
+12	:	Z:-------------	AuxG
+13	kdo	PKM-1----------	Sb
+14	jinému	AAMS3----1A----	Obj
+15	z	RR--2----------	AuxP
+16	nedbalosti	NNFS2-----A----	Adv
+17	způsobí	VB-S---3P-AA---	Sb
+18	těžkou	AAFS4----1A----	Atr
+19	újmu	NNFS4-----A----	Obj
+20	na	RR--6----------	AuxP
+21	zdraví	NNNS6-----A----	Atr
+22	nebo	J^-------------	Coord
+23	smrt	NNFS4-----A----	Obj
+24	,	Z:-------------	AuxX
+25	bude	VB-S---3F-AA---	AuxV
+26	potrestán	VsYS---XX-AP---	Obj
+27	odnětím	NNNS7-----A----	Adv
+28	svobody	NNFS2-----A----	Atr
+29	až	TT-------------	AuxZ
+30	na	RR--4----------	AuxP
+31	pět	Cn-S4----------	Atr
+32	let	NNNP2-----A----	Atr
+33	,	Z:-------------	AuxX
+34	pokud	J,-------------	AuxC
+35	porušil	VpYS---XR-AA---	Adv
+36	důležitou	AAFS4----1A----	Atr
+37	povinnost	NNFS4-----A----	Obj
+38	vyplývající	AGFS4-----A----	Atr
+39	z	RR--2----------	AuxP
+40	jeho	PSXXXZS3-------	Atr
+41	postavení	NNNS2-----A----	Obj
+42	.	Z:-------------	AuxK
+
+ln94211-67-p4s4
+1	V	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	střílející	AGMS1-----A----	Sb
+5	nedbal	VpYS---XR-NA---	Pred
+6	zvýšené	AAFS2----1A----	Atr
+7	opatrnosti	NNFS2-----A----	Obj
+8	,	Z:-------------	AuxX
+9	kterou	P4FS4----------	Obj
+10	přikazuje	VB-S---3P-AA---	Atr
+11	zákon	NNIS1-----A----	Sb
+12	o	RR--6----------	AuxP
+13	střelných	AAFP6----1A----	Atr
+14	zbraních	NNFP6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94211-67-p4s5
+1	Dostal	VpYS---XR-AA---	Pred
+2	jen	TT-------------	AuxZ
+3	tři	ClXP4----------	Atr
+4	roky	NNIP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	když	J,-------------	AuxC
+7	státní	AAMS1----1A----	Atr
+8	zástupce	NNMS1-----A----	Sb
+9	navrhl	VpYS---XR-AA--1	Adv
+10	trest	NNIS4-----A----	Obj
+11	při	RR--6----------	AuxP
+12	horní	AAFS6----1A----	Atr
+13	hranici	NNFS6-----A----	Atr
+14	pěti	Cn-P2----------	Atr
+15	let	NNNP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94211-67-p4s6
+1	Těm	PDXP3----------	Obj
+2	,	Z:-------------	AuxX
+3	jimž	PJXP3----------	Obj
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	tomto	PDZS6----------	Atr
+7	případě	NNIS6-----A----	Adv
+8	spravedlnost	NNFS1-----A----	Sb
+9	zdá	VB-S---3P-AA---	Atr
+10	hodně	Dg-------1A----	Adv
+11	slepá	AAFS1----1A----	Obj
+12	,	Z:-------------	AuxX
+13	zbývá	VB-S---3P-AA---	Pred
+14	ještě	Db-------------	AuxZ
+15	naděje	NNFS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	se	P7-X4----------	AuxT
+19	státní	AAMS1----1A----	Atr
+20	zástupce	NNMS1-----A----	Sb
+21	bude	VB-S---3F-AA---	AuxV
+22	odvolávat	Vf--------A----	Atr
+23	tak	Db-------------	Adv
+24	dlouho	Dg-------1A----	Adv
+25	,	Z:-------------	AuxX
+26	až	J,-------------	AuxC
+27	soud	NNIS1-----A----	Sb
+28	vyřkne	VB-S---3P-AA---	Adv
+29	trest	NNIS4-----A----	Obj
+30	co	Db-------------	Adv
+31	nejvyšší	AAIS4----3A----	Atr
+32	.	Z:-------------	AuxK
+
+ln94211-67-p4s7
+1	Připomeňme	Vi-P---1--A----	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	odsouzený	AAMS1----1A----	Sb
+5	není	VB-S---3P-NA---	Obj
+6	ve	RV--6----------	AuxP
+7	vazbě	NNFS6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln94211-67-p4s8
+1	Někteří	PZMP1----------	Atr
+2	svědci	NNMP1-----A----	Sb
+3	údajně	Dg-------1A----	Adv
+4	nepřišli	VpMP---XR-NA---	Pred
+5	před	RR--4----------	AuxP
+6	soud	NNIS4-----A----	Adv
+7	,	Z:-------------	AuxX
+8	protože	J,-------------	AuxC
+9	se	P7-X4----------	AuxT
+10	ho	PHZS2--3-------	Obj
+11	báli	VpMP---XR-AA---	Adv
+12	.	Z:-------------	AuxK
+
+ln94211-67-p4s9
+1	Důvody	NNIP1-----A----	Sb
+2	k	RR--3----------	AuxP
+3	vazbě	NNFS3-----A----	Atr
+4	však	J^-------------	Coord
+5	prý	TT-------------	AuxY
+6	nejsou	VB-P---3P-NA---	Pred
+7	.	Z:-------------	AuxK
+

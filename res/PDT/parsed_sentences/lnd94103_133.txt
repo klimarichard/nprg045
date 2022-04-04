@@ -1,0 +1,277 @@
+lnd94103-133-p1s1A
+1	Spokojený	AAMS1----1A----	Atr
+2	Dobiaš	NNMS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	zklamaný	AAMS1----1A----	Atr
+5	Tobiáš	NNMS1-----A----	ExD
+
+lnd94103-133-p1s1B
+1	Trenér	NNMS1-----A----	Sb
+2	Sparty	NNFS2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	o	RR--6----------	AuxP
+5	titulu	NNIS6-----A----	Obj
+6	bude	VB-S---3F-AA---	AuxV
+7	bavit	Vf--------A----	Pred
+8	nejdříve	Dg-------3A----	Adv
+9	za	RR--4----------	AuxP
+10	14	C=-------------	Adv
+11	dní	NNIP2-----A---1	Atr
+
+lnd94103-133-p1s1C
+1	Konec	NNIS1-----A----	ExD
+2	podtitulku	NNIS2-----A----	Atr
+
+lnd94103-133-p1s2
+1	České	AAFP1----1A----	Atr
+2	Budějovice	NNFP1-----A----	ExD
+3	(	Z:-------------	ExD
+4	bra	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+lnd94103-133-p1s3
+1	Vítězstvím	NNNS7-----A----	Adv
+2	2	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	1	C=-------------	Atr
+5	na	RR--6----------	AuxP
+6	hřišti	NNNS6-----A----	Atr
+7	Českých	AAFP2----1A----	Atr
+8	Budějovic	NNFP2-----A----	Atr
+9	oplatila	VpQW---XR-AA---	Pred
+10	Sparta	NNFS1-----A----	Sb
+11	svému	P8ZS3----------	Atr
+12	soupeři	NNMS3-----A----	Obj
+13	podzimní	AAFS4----1A----	Atr
+14	domácí	AAFS4----1A----	Atr
+15	porážku	NNFS4-----A----	Obj
+16	0	C=-------------	Atr
+17	:	Z:-------------	Coord
+18	1	C=-------------	Atr
+19	.	Z:-------------	AuxK
+
+lnd94103-133-p1s4
+1	V	RR--6----------	AuxP
+2	tabulce	NNFS6-----A----	Adv
+3	si	P7-X3----------	Adv
+4	udržuje	VB-S---3P-AA---	Pred
+5	pětibodový	AAIS4----1A----	Atr
+6	náskok	NNIS4-----A----	Obj
+7	před	RR--7----------	AuxP
+8	druhou	CrFS7----------	Atr
+9	Slavií	NNFS7-----A----	AtrAdv
+10	a	J^-------------	Coord
+11	ke	RV--3----------	AuxP
+12	stoprocentní	AAFS3----1A----	Atr
+13	mistrovské	AAFS3----1A----	Atr
+14	jistotě	NNFS3-----A----	Adv
+15	jí	PPFS3--3-------	Obj
+16	v	RR--6----------	AuxP
+17	následujících	AGNP6-----A----	Atr
+18	šesti	Cn-P6----------	Atr
+19	kolech	NNNP6-----A----	Adv
+20	(	Z:-------------	AuxG
+21	kdy	Db-------------	Adv
+22	hraje	VB-S---3P-AA---	Atr
+23	jen	TT-------------	AuxZ
+24	jednou	ClFS7----------	Adv
+25	mimo	RR--4----------	AuxP
+26	Prahu	NNFS4-----A----	Adv
+27	)	Z:-------------	AuxG
+28	stačí	VB-S---3P-AA---	Pred
+29	sedm	Cn-S1----------	Sb
+30	bodů	NNIP2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+lnd94103-133-p1s5
+1	"	Z:-------------	AuxG
+2	Zatím	Db-------------	Adv
+3	nemáme	VB-P---1P-NA---	Pred
+4	nic	PW--4----------	Obj
+5	jisté	AANS4----1A----	Atv
+6	.	Z:-------------	AuxK
+
+lnd94103-133-p1s6
+1	O	RR--6----------	AuxP
+2	titulu	NNIS6-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	začnu	VB-S---1P-AA---	Obj
+5	bavit	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	až	J,-------------	AuxC
+8	v	RR--6----------	AuxP
+9	příštích	AANP6----1A----	Atr
+10	dvou	ClXP6----------	Atr
+11	kolech	NNNP6-----A----	Adv
+12	porazíme	VB-P---1P-AA---	Adv
+13	doma	Db-------------	Adv
+14	Zlín	NNIS4-----A----	Obj
+15	a	J^-------------	Coord
+16	vyhrajeme	VB-P---1P-AA---	Adv
+17	na	RR--6----------	AuxP
+18	Bohemians	NNFSX-----A----	Adv
+19	,	Z:-------------	AuxX
+20	"	Z:-------------	AuxG
+21	odmítal	VpYS---XR-AA---	Pred
+22	trenér	NNMS1-----A----	Atr
+23	Sparty	NNFS2-----A----	Atr
+24	Dobiaš	NNMS1-----A----	Sb
+25	po	RR--6----------	AuxP
+26	zápase	NNIS6-----A----	Adv
+27	gratulace	NNFP4-----A----	Obj
+28	k	RR--3----------	AuxP
+29	zisku	NNIS3-----A----	Atr
+30	mistrovského	AAIS2----1A----	Atr
+31	titulu	NNIS2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+lnd94103-133-p1s7
+1	S	RR--7----------	AuxP
+2	výkonem	NNIS7-----A----	Obj
+3	svého	P8ZS2----------	Atr
+4	mužstva	NNNS2-----A----	Atr
+5	byl	VpYS---XR-AA---	Pred
+6	však	J^-------------	AuxY
+7	spokojen	ACYS------A----	Pnom
+8	:	Z:-------------	Coord
+9	"	Z:-------------	AuxG
+10	Před	RR--7----------	AuxP
+11	zápasem	NNIS7-----A----	Adv
+12	bych	Vc-S---1-------	AuxV
+13	vzhledem	RF-------------	AuxP
+14	k	RR--3----------	AuxP
+15	absenci	NNFS3-----A----	Adv
+16	Chovance	NNMS2-----A----	Atr
+17	a	J^-------------	Coord
+18	Novotného	NNMS2-----A----	Atr
+19	bral	VpYS---XR-AA---	Pred
+20	bod	NNIS4-----A----	Obj
+21	,	Z:-------------	Coord
+22	se	RV--7----------	AuxP
+23	dvěma	ClXP7----------	ExD
+24	jsem	VB-S---1P-AA---	Pred
+25	samozřejmě	Dg-------1A----	Adv
+26	maximálně	Dg-------1A----	Adv
+27	spokojen	ACYS------A----	Pnom
+28	.	Z:-------------	AuxK
+
+lnd94103-133-p1s8A
+1	Za	RR--4----------	AuxP
+2	výkon	NNIS4-----A----	Adv
+3	,	Z:-------------	AuxX
+4	který	P4IS4----------	Obj
+5	jsme	VB-P---1P-AA---	AuxV
+6	od	RR--2----------	AuxP
+7	25	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	minuty	NNFS2-----A----	Adv
+10	předváděli	VpMP---XR-AA---	Atr
+11	,	Z:-------------	AuxX
+12	jsme	VB-P---1P-AA---	AuxV
+13	si	P7-X3----------	AuxT
+14	výhru	NNFS4-----A----	Obj
+15	zasloužili	VpMP---XR-AA---	Pred
+16	.	Z:-------------	AuxK
+
+lnd94103-133-p1s8B
+1	"	Z:-------------	AuxG
+2	O	RR--6----------	AuxP
+3	osudu	NNIS6-----A----	Obj
+4	zápasu	NNIS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	rozhodlo	VpNS---XR-AA--1	Pred
+7	patrně	Dg-------1A----	AuxY
+8	ve	RV--6----------	AuxP
+9	27	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	minutě	NNFS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	když	J,-------------	AuxC
+14	domácí	AAMS1----1A----	Atr
+15	Přibyl	NNMS1-----A----	Sb
+16	za	RR--2----------	AuxP
+17	stavu	NNIS2-----A----	Adv
+18	1	C=-------------	Atr
+19	:	Z:-------------	Coord
+20	0	C=-------------	Atr
+21	zblízka	Db-------------	Adv
+22	překopl	VpYS---XR-AA--1	Adv
+23	prázdnou	AAFS4----1A----	Atr
+24	Koubovu	AUFS4M---------	Atr
+25	branku	NNFS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+lnd94103-133-p1s9
+1	"	Z:-------------	AuxG
+2	Ten	PDYS1----------	Atr
+3	moment	NNIS1-----A----	Sb
+4	nás	PP-P4--1-------	Obj
+5	psychicky	Dg-------1A----	Adv
+6	rozhodil	VpYS---XR-AA---	Obj
+7	a	J^-------------	Coord
+8	hráli	VpMP---XR-AA---	Obj
+9	jsme	VB-P---1P-AA---	AuxV
+10	jen	TT-------------	AuxZ
+11	pasivně	Dg-------1A----	Adv
+12	ve	RV--6----------	AuxP
+13	středu	NNIS6-----A----	Adv
+14	hřiště	NNNS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	"	Z:-------------	AuxG
+17	říká	VB-S---3P-AA---	Pred
+18	budějovický	AAMS1----1A----	Atr
+19	trenér	NNMS1-----A----	Atr
+20	Tobiáš	NNMS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+lnd94103-133-p1s10
+1	"	Z:-------------	AuxG
+2	Prohrát	Vf--------A----	Sb
+3	se	RV--7----------	AuxP
+4	Spartou	NNFS7-----A----	Adv
+5	není	VB-S---3P-NA---	Pred
+6	žádná	PWFS1----------	Atr
+7	hanba	NNFS1-----A----	Pnom
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	já	PP-S1--1-------	Sb
+11	jsem	VB-S---1P-AA---	Pred
+12	zklamán	VsYS---XX-AP---	Pnom
+13	.	Z:-------------	AuxK
+
+lnd94103-133-p1s11
+1	Bohužel	TT-------------	AuxY
+2	jsme	VB-P---1P-AA---	AuxV
+3	jí	PPFS3--3-------	Obj
+4	dnešním	AAIS7----1A----	Atr
+5	výkonem	NNIS7-----A----	Adv
+6	cestu	NNFS4-----A----	Obj
+7	k	RR--3----------	AuxP
+8	titulu	NNIS3-----A----	Atr
+9	usnadnili	VpMP---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+lnd94103-133-p1s12
+1	Bez	RR--2----------	AuxP
+2	Poborského	NNMS2-----A----	Adv
+3	a	J^-------------	Coord
+4	Povišera	NNMS2-----A----	Adv
+5	byla	VpQW---XR-AA---	Pred
+6	naše	PSHS1-P1-------	Atr
+7	záloha	NNFS1-----A----	Sb
+8	slabší	AAFS1----2A----	Pnom
+9	,	Z:-------------	AuxX
+10	jenže	J^-------------	Coord
+11	při	RR--6----------	AuxP
+12	troše	NNFS6-----A----	Adv
+13	taktické	AAFS2----1A----	Atr
+14	hry	NNFS2-----A----	Atr
+15	jsme	VB-P---1P-AA---	AuxV
+16	alespoň	Db-------------	AuxZ
+17	na	RR--4----------	AuxP
+18	bod	NNIS4-----A----	Obj
+19	měli	VpMP---XR-AA---	Pred
+20	.	Z:-------------	AuxK
+21	"	Z:-------------	AuxG
+

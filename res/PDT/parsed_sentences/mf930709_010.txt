@@ -1,0 +1,236 @@
+mf930709-010-p1s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	čtk	NNFXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	rep	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930709-010-p1s1B
+1	Většina	NNFS1-----A----	Sb
+2	zákazníků	NNMP2-----A----	Atr
+3	dává	VB-S---3P-AA---	Pred
+4	při	RR--6----------	AuxP
+5	nákupech	NNIP6-----A----	Adv
+6	přednost	NNFS4-----A----	Obj
+7	potravinám	NNFP3-----A----	Obj
+8	tuzemské	AAFS2----1A----	Atr
+9	výroby	NNFS2-----A----	Atr
+10	před	RR--7----------	AuxP
+11	zahraničními	AAFP7----1A----	ExD
+12	,	Z:-------------	AuxX
+13	protože	J,-------------	AuxC
+14	jsou	VB-P---3P-AA---	Adv
+15	levnější	AAFP1----2A----	Pnom
+16	.	Z:-------------	AuxK
+
+mf930709-010-p1s2
+1	Stejně	Dg-------1A----	Adv
+2	tak	Db-------------	Adv
+3	většina	NNFS1-----A----	Sb
+4	kupujících	AGMP2-----A----	Atr
+5	považuje	VB-S---3P-AA---	Pred
+6	domácí	AAIP4----1A----	Atr
+7	produkty	NNIP4-----A----	Obj
+8	za	RR--4----------	AuxP
+9	chutnější	AAIP4----2A----	ExD
+10	a	J^-------------	Coord
+11	zdravější	AAIP4----2A----	ExD
+12	nebo	J^-------------	Coord
+13	alespoň	Db-------------	AuxZ
+14	stejně	Dg-------1A----	Adv
+15	chutné	AAIP4----1A----	ExD
+16	a	J^-------------	Coord
+17	zdravé	AAIP4----1A----	ExD
+18	jako	J,-------------	AuxC
+19	zahraniční	AAIP4----1A----	ExD
+20	.	Z:-------------	AuxK
+
+mf930709-010-p1s3
+1	Zahraniční	AAIP1----1A----	Atr
+2	výrobky	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	AuxV
+4	považovány	VsTP---XX-AP---	Pred
+5	za	RR--4----------	AuxP
+6	lepší	AAIP4----2A----	ExD
+7	,	Z:-------------	AuxX
+8	jen	TT-------------	AuxZ
+9	pokud	J,-------------	AuxC
+10	jde	VB-S---3P-AA---	Adv
+11	o	RR--4----------	AuxP
+12	jejich	PSXXXXP3-------	Atr
+13	balení	NNNS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+mf930709-010-p1s4
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ze	RV--2----------	AuxP
+4	šetření	NNNS2-----A----	Obj
+5	Institutu	NNIS2-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	výzkum	NNIS4-----A----	Atr
+8	veřejného	AANS2----1A----	Atr
+9	mínění	NNNS2-----A----	Atr
+10	z	RR--2----------	AuxP
+11	prvního	CrIS2----------	Atr
+12	červnového	AAIS2----1A----	Atr
+13	týdne	NNIS2-----A----	Atr
+14	letošního	AAIS2----1A----	Atr
+15	roku	NNIS2-----A---1	Atr
+16	.	Z:-------------	AuxK
+
+mf930709-010-p1s6
+1	Výzkum	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	snažil	VpYS---XR-AA---	Pred
+4	zjistit	Vf--------A----	Obj
+5	,	Z:-------------	AuxX
+6	čím	PQ--7----------	Obj
+7	se	P7-X4----------	AuxT
+8	občané	NNMP1-----A----	Sb
+9	řídí	VB-P---3P-AA---	Obj
+10	při	RR--6----------	AuxP
+11	nákupech	NNIP6-----A----	Adv
+12	potravin	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	jakou	P4FS4----------	Atr
+15	roli	NNFS4-----A----	Obj
+16	přitom	Db-------------	Adv
+17	hraje	VB-S---3P-AA---	Obj
+18	fakt	NNIS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	jde	VB-S---3P-AA---	Atr
+22	o	RR--4----------	AuxP
+23	české	AAFP4----1A----	Atr
+24	nebo	J^-------------	Coord
+25	zahraniční	AAFP4----1A----	Atr
+26	potraviny	NNFP4-----A----	Obj
+27	.	Z:-------------	AuxK
+
+mf930709-010-p1s7
+1	Pro	RR--4----------	AuxP
+2	prakticky	Dg-------1A----	Adv
+3	všechny	PLYP4----------	Atr
+4	zákazníky	NNMP4-----A----	Adv
+5	-	Z:-------------	ExD
+6	96	C=-------------	ExD
+7	procent	NNNP2-----A----	Atr
+8	-	Z:-------------	ExD
+9	je	VB-S---3P-AA---	Pred
+10	rozhodující	AGFS1-----A----	Pnom
+11	chutnost	NNFS1-----A----	Sb
+12	potravin	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	jako	J,-------------	AuxY
+15	velmi	Db-------------	Adv
+16	důležitá	AAFS1----1A----	Obj
+17	se	P7-X4----------	AuxT
+18	ukazuje	VB-S---3P-AA---	Pred
+19	i	J^-------------	AuxZ
+20	jejich	PSXXXXP3-------	Atr
+21	cena	NNFS1-----A----	Sb
+22	-	Z:-------------	AuxG
+23	u	RR--2----------	AuxP
+24	85	C=-------------	Atr
+25	procent	NNNP2-----A----	Adv
+26	respondentů	NNMP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf930709-010-p1s8
+1	Menší	AAIS1----2A----	Atr
+2	důraz	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	klade	VB-S---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	zdravotní	AAFS4----1A----	Atr
+7	hodnotu	NNFS4-----A----	Atr
+8	potravin	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	i	J^-------------	AuxY
+11	když	J,-------------	AuxC
+12	i	J^-------------	AuxZ
+13	tu	PDFS4----------	Obj
+14	berou	VB-P---3P-AA---	Adv
+15	do	RR--2----------	AuxP
+16	úvahy	NNFS2-----A----	Obj
+17	tři	ClXP1----------	Atr
+18	čtvrtiny	CyFP1----------	Sb
+19	zákazníků	NNMP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf930709-010-p1s9
+1	Momentální	AAFS1----1A----	Atr
+2	nabídka	NNFS1-----A----	Sb
+3	prodejny	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	rozhodující	AGFS1-----A----	Pnom
+6	pro	RR--4----------	AuxP
+7	78	C=-------------	Adv
+8	procent	NNNP2-----A----	Atr
+9	dotázaných	AAMP2----1A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930709-010-p1s11
+1	Pouze	Db-------------	AuxZ
+2	jedna	ClFS1----------	Atr
+3	třetina	CyFS1----------	Sb
+4	lidí	NNMP2-----A----	Atr
+5	si	P7-X3----------	AuxT
+6	všímá	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	zda	J,-------------	AuxC
+9	jde	VB-S---3P-AA---	Obj
+10	o	RR--4----------	AuxP
+11	české	AAIP4----1A----	Atr
+12	či	J^-------------	Coord
+13	zahraniční	AAIP4----1A----	Atr
+14	výrobky	NNIP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+mf930709-010-p1s12
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	rozhodující	AGFS1-----A----	Pnom
+7	pro	RR--4----------	AuxP
+8	zákazníky	NNMP4-----A----	Adv
+9	je	VB-S---3P-AA---	Atr
+10	chuť	NNFS1-----A----	Sb
+11	a	J^-------------	Coord
+12	cena	NNFS1-----A----	Sb
+13	potravin	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	lze	VB-S---3P-AA---	Pred
+16	předpokládat	Vf--------A----	Sb
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	lidé	NNMP1-----A---1	Sb
+20	dávají	VB-P---3P-AA---	Obj
+21	přednost	NNFS4-----A----	Obj
+22	spíše	Dg-------2A---1	AuxZ
+23	českým	AAFP3----1A----	Atr
+24	potravinám	NNFP3-----A----	Obj
+25	.	Z:-------------	AuxK
+
+mf930709-010-p1s13
+1	Výzvy	NNFP1-----A----	Sb
+2	ke	RV--3----------	AuxP
+3	koupi	NNFS3-----A----	Atr
+4	českého	AANS2----1A----	Atr
+5	zboží	NNNS2-----A----	Atr
+6	již	Db-------------	Adv
+7	nejsou	VB-P---3P-NA---	Pred
+8	tedy	Db-------------	AuxY
+9	nutné	AAFP1----1A----	Pnom
+10	,	Z:-------------	Coord
+11	vyvozuje	VB-S---3P-AA---	Pred
+12	z	RR--2----------	AuxP
+13	toho	PDZS2----------	Obj
+14	IVVM	NNIXX-----A---8	Sb
+15	.	Z:-------------	AuxK
+

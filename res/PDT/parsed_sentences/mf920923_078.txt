@@ -1,0 +1,186 @@
+mf920923-078-p1s1
+1	Oddlužení	NNNS1-----A----	ExD
+2	do	RR--2----------	AuxP
+3	čtvrtého	CrNS2----------	Atr
+4	kola	NNNS2-----A----	Atr
+
+mf920923-078-p2s1
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	vin	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920923-078-p2s2
+1	Čtvrtého	CrNS2----------	Atr
+2	kola	NNNS2-----A----	Obj
+3	projektu	NNIS2-----A----	Atr
+4	vzájemného	AANS2----1A----	Atr
+5	započtení	NNNS2-----A----	Atr
+6	pohledávek	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	dluhů	NNIP2-----A----	Atr
+9	podniků	NNIP2-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	mohou	VB-P---3P-AA--1	Pred
+12	zúčastnit	Vf--------A----	Obj
+13	i	J^-------------	AuxZ
+14	zahraničně	Dg-------1A----	Adv
+15	obchodní	AAFP1----1A----	Atr
+16	společnosti	NNFP1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	které	P4FP1----------	Sb
+19	vystupují	VB-P---3P-AA---	Atr
+20	vesměs	Db-------------	Adv
+21	v	RR--6----------	AuxP
+22	roli	NNFS6-----A----	Adv
+23	věřitelů	NNMP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920923-078-p2s3
+1	Organizátoři	NNMP1-----A----	Sb
+2	projektu	NNIS2-----A----	Atr
+3	totiž	Db-------------	AuxY
+4	chtějí	VB-P---3P-AA---	Pred
+5	zapojit	Vf--------A----	Obj
+6	i	J^-------------	AuxZ
+7	Českou	AAFS4----1A----	Atr
+8	spořitelnu	NNFS4-----A----	Obj
+9	a	J^-------------	Coord
+10	další	AAIP4----1A----	Atr
+11	finanční	AAIP4----1A----	Atr
+12	ústavy	NNIP4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	které	P4IP1----------	Sb
+15	by	Vc-------------	AuxV
+16	poskytly	VpTP---XR-AA--1	Atr
+17	úvěr	NNIS4-----A----	Obj
+18	předluženým	AAIP3----1A----	Atr
+19	podnikům	NNIP3-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920923-078-p2s4
+1	Uzávěrka	NNFS1-----A----	Sb
+2	kola	NNNS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	21	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	října	NNIS2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+mf920923-078-p2s5
+1	Sdělil	VpYS---XR-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	to	PDNS4----------	Obj
+4	včera	Db-------------	Adv
+5	ředitel	NNMS1-----A----	Atr
+6	Průmyslového	AAIS2----1A----	Atr
+7	zápočtového	AAIS2----1A----	Atr
+8	ústavu	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	a	AAXXX----1A---8	Atr
+11	.	Z:-------------	AuxG
+12	s	NNFXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	,	Z:-------------	AuxX
+15	v	RR--6----------	AuxP
+16	Hradci	NNIS6-----A----	Atr
+17	Králové	NNFS2-----A----	Atr
+18	Karel	NNMS1-----A----	Atr
+19	Zavadil	NNMS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+mf920923-078-p2s6
+1	Mezi	RR--7----------	AuxP
+2	914	C=-------------	Atr
+3	českými	AAIP7----1A----	Atr
+4	a	J^-------------	Coord
+5	slovenskými	AAIP7----1A----	Atr
+6	podniky	NNIP7-----A----	Adv
+7	se	P7-X4----------	AuxT
+8	podařilo	VpNS---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	prvních	CrNP6----------	Atr
+11	třech	ClXP6----------	Atr
+12	kolech	NNNP6-----A----	Adv
+13	snížit	Vf--------A----	Sb
+14	druhotnou	AAFS4----1A----	Atr
+15	platební	AAFS4----1A----	Atr
+16	neschopnost	NNFS4-----A----	Obj
+17	bezhotovostním	AANS7----1A----	Atr
+18	vzájemným	AANS7----1A----	Atr
+19	započtením	NNNS7-----A----	Adv
+20	pomocí	RR--2----------	AuxP
+21	počítačového	AAIS2----1A----	Atr
+22	systému	NNIS2-----A----	Adv
+23	Vysokého	AANS2----1A----	Atr
+24	učení	NNNS2-----A----	Atr
+25	technického	AANS2----1A----	Atr
+26	v	RR--6----------	AuxP
+27	Brně	NNNS6-----A----	Atr
+28	o	RR--4----------	AuxP
+29	2.5	C=-------------	Adv
+30	miliardy	NNFS2-----A----	Atr
+31	korun	NNFP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+mf920923-078-p2s7
+1	Celková	AAFS1----1A----	Atr
+2	platební	AAFS1----1A----	Atr
+3	neschopnost	NNFS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	ČSFR	NNFXX-----A---8	Atr
+6	se	P7-X4----------	AuxR
+7	odhaduje	VB-S---3P-AA---	Pred
+8	na	RR--4----------	AuxP
+9	200	C=-------------	Adv
+10	miliard	NNFP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	ze	RV--2----------	AuxP
+14	75	C=-------------	Atr
+15	procent	NNNP2-----A----	Adv
+16	jde	VB-S---3P-AA---	Pred
+17	o	RR--4----------	AuxP
+18	druhotnou	AAFS4----1A----	Atr
+19	neschopnost	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920923-078-p2s8
+1	Podle	RR--2----------	AuxP
+2	autorů	NNMP2-----A----	Adv
+3	projektu	NNIS2-----A----	Atr
+4	neohrozí	VB-S---3P-NA---	Pred
+5	pořádání	NNNS4-----A----	Obj
+6	dalších	AANP2----1A----	Atr
+7	kol	NNNP2-----A----	Atr
+8	ani	J^-------------	AuxZ
+9	rozdělení	NNNS1-----A----	Sb
+10	měny	NNFS2-----A----	Atr
+11	mezi	RR--4----------	AuxP
+12	ČR	NNFXX-----A---8	Atr
+13	a	J^-------------	Coord
+14	SR	NNFXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+
+mf920923-078-p2s9
+1	O	RR--4----------	AuxP
+2	vzájemné	AANS4----1A----	Atr
+3	započtení	NNNS4-----A----	Atr
+4	dluhů	NNIP2-----A----	Atr
+5	tímto	PDZS7----------	Atr
+6	způsobem	NNIS7-----A----	Atr
+7	už	Db-------------	Adv
+8	projevilo	VpNS---XR-AA---	Pred
+9	zájem	NNIS4-----A----	Obj
+10	Polsko	NNNS1-----A----	Sb
+11	,	Z:-------------	Coord
+12	o	RR--4----------	AuxP
+13	systém	NNIS4-----A----	ExD
+14	jako	J,-------------	AuxY
+15	takový	PDIS4----------	Atv
+16	Maďarsko	NNNS1-----A----	ExD
+17	a	J^-------------	Coord
+18	Rusko	NNNS1-----A----	ExD
+19	.	Z:-------------	AuxK
+

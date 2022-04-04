@@ -1,0 +1,620 @@
+ln95040-089-p1s1
+1	Cílem	NNIS7-----A----	ExD
+2	bezpečná	AAFS1----1A----	Atr
+3	Evropa	NNFS1-----A----	ExD
+4	jako	J,-------------	AuxY
+5	celek	NNIS1-----A----	Atv
+
+ln95040-089-p2s1
+1	Britský	AAMS1----1A----	Atr
+2	ministr	NNMS1-----A----	Atr
+3	obrany	NNFS2-----A----	Atr
+4	Malcolm	NNMS1-----A----	Atr
+5	Rifkind	NNMS1-----A----	Sb
+6	pro	RR--4----------	AuxP
+7	Lidové	AAFP4----1A----	Atr
+8	noviny	NNFP4-----A----	Adv
+9	:	Z:-------------	Pred
+10	Jak	Db-------------	Adv
+11	hodnotíte	VB-P---2P-AA---	Obj
+12	české	AAFP4----1A----	Atr
+13	perspektivy	NNFP4-----A----	Obj
+14	členství	NNNS2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	NATO	NNNXX-----A---8	Atr
+17	?	Z:-------------	AuxK
+
+ln95040-089-p3s1
+1	NATO	NNNXX-----A---8	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	chtít	Vf--------A----	Pred
+4	zvýšit	Vf--------A----	Obj
+5	počet	NNIS4-----A----	Obj
+6	svých	P8XP2----------	Atr
+7	členů	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95040-089-p3s2
+1	Víme	VB-P---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	jsou	VB-P---3P-AA---	Obj
+5	země	NNFP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	které	P4FP1----------	Sb
+8	si	P7-X3----------	AuxT
+9	přejí	VB-P---3P-AA--1	Atr
+10	se	P7-X4----------	AuxT
+11	k	RR--3----------	AuxP
+12	NATO	NNNXX-----A---8	Adv
+13	připojit	Vf--------A----	Obj
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	věřím	VB-S---1P-AA---	Pred
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	tyto	PDFP1----------	Atr
+20	země	NNFP1-----A----	Sb
+21	budou	VB-P---3F-AA---	AuxV
+22	v	RR--6----------	AuxP
+23	Severoatlantické	AAFS6----1A----	Atr
+24	alianci	NNFS6-----A----	Adv
+25	vítány	VsTP---XX-AP---	Obj
+26	.	Z:-------------	AuxK
+
+ln95040-089-p3s3
+1	V	RR--6----------	AuxP
+2	současnosti	NNFS6-----A----	Adv
+3	diskutujeme	VB-P---1P-AA---	Pred
+4	o	RR--6----------	AuxP
+5	základních	AAIP6----1A----	Atr
+6	principech	NNIP6-----A----	Obj
+7	rozšiřování	NNNS2-----A----	Atr
+8	Aliance	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95040-089-p3s4
+1	Dalším	AAIS7----1A----	Atr
+2	krokem	NNIS7-----A----	Pnom
+3	bude	VB-S---3F-AA---	Pred
+4	posouzení	NNNS1-----A----	Sb
+5	jednotlivých	AAFP2----1A----	Atr
+6	přihlášek	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95040-089-p4s1
+1	Co	PQ--4----------	Obj
+2	si	P7-X3----------	AuxT
+3	myslíte	VB-P---2P-AA---	Pred
+4	o	RR--6----------	AuxP
+5	plánu	NNIS6-----A----	Obj
+6	amerických	AAMP2----1A----	Atr
+7	republikánů	NNMP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kteří	P4MP1----------	Sb
+10	požadují	VB-P---3P-AA---	Atr
+11	přijetí	NNNS4-----A----	Obj
+12	tří	ClXP2----------	Atr
+13	středoevropských	AAFP2----1A----	Atr
+14	zemí	NNFP2-----A----	Atr
+15	do	RR--2----------	AuxP
+16	NATO	NNNXX-----A---8	Atr
+17	do	RR--2----------	AuxP
+18	10	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	ledna	NNIS2-----A----	Atr
+21	1999	C=-------------	Atr
+22	?	Z:-------------	AuxK
+
+ln95040-089-p5s1
+1	NATO	NNNS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	zatím	Db-------------	Adv
+4	nezabývalo	VpNS---XR-NA---	Pred
+5	samotnou	AAFS7----1A----	Atr
+6	otázkou	NNFS7-----A----	Obj
+7	stanovení	NNNS2-----A----	Atr
+8	data	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95040-089-p5s2
+1	Myslím	VB-S---1P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	prvním	CrIS7----------	Atr
+6	krokem	NNIS7-----A----	Pnom
+7	bude	VB-S---3F-AA---	Obj
+8	výběr	NNIS1-----A----	Sb
+9	zemí	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	o	RR--6----------	AuxP
+12	jejichž	P1XXXXP3-------	Atr
+13	členství	NNNS6-----A----	Obj
+14	v	RR--6----------	AuxP
+15	NATO	NNNXX-----A---8	Atr
+16	lze	VB-S---3P-AA---	Atr
+17	uvažovat	Vf--------A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95040-089-p5s3
+1	S	RR--7----------	AuxP
+2	nimi	P5XP7--3-------	Obj
+3	pak	Db-------------	Adv
+4	budeme	VB-P---1F-AA---	AuxV
+5	diskutovat	Vf--------A----	Pred
+6	o	RR--6----------	AuxP
+7	tom	PDZS6----------	Obj
+8	,	Z:-------------	AuxX
+9	jak	Db-------------	Adv
+10	by	Vc-------------	AuxV
+11	si	P7-X3----------	Adv
+12	nejlépe	Dg-------3A----	Adv
+13	našly	VpTP---XR-AA---	Atr
+14	své	P8NS4---------1	Atr
+15	místo	NNNS4-----A----	Obj
+16	v	RR--6----------	AuxP
+17	NATO	NNNXX-----A---8	Atr
+18	,	Z:-------------	AuxX
+19	o	RR--6----------	AuxP
+20	jejich	PSXXXXP3-------	Atr
+21	příspěvku	NNIS6-----A----	Obj
+22	i	J^-------------	Coord
+23	o	RR--6----------	AuxP
+24	tom	PDZS6----------	Obj
+25	,	Z:-------------	AuxX
+26	co	PQ--4----------	Obj
+27	od	RR--2----------	AuxP
+28	Aliance	NNFS2-----A----	Obj
+29	získají	VB-P---3P-AA---	Atr
+30	.	Z:-------------	AuxK
+
+ln95040-089-p5s4
+1	Pak	Db-------------	Adv
+2	budeme	VB-P---1F-AA---	AuxV
+3	moci	Vf--------A----	Pred
+4	lépe	Dg-------2A----	Adv
+5	stanovit	Vf--------A----	Obj
+6	přesný	AAIS4----1A----	Atr
+7	časový	AAIS4----1A----	Atr
+8	plán	NNIS4-----A----	Obj
+9	rozšiřování	NNNS2-----A----	Atr
+10	Aliance	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95040-089-p5s5
+1	Jsem	VB-S---1P-AA---	Pred
+2	si	P7-X3----------	Obj
+3	však	J^-------------	Coord
+4	jist	ACYS------A----	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	k	RR--3----------	AuxP
+8	tomuto	PDZS3----------	Atr
+9	rozšíření	NNNS3-----A----	Obj
+10	dojde	VB-S---3P-AA---	Obj
+11	.	Z:-------------	AuxK
+
+ln95040-089-p6s1
+1	Myslíte	VB-P---2P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	Partnerství	NNNS1-----A----	Sb
+6	pro	RR--4----------	AuxP
+7	mír	NNIS4-----A----	Atr
+8	(	Z:-------------	Apos
+9	PFP	NNIXX-----A----	Sb
+10	)	Z:-------------	AuxG
+11	je	VB-S---3P-AA---	Obj
+12	tím	PDZS7----------	Atr
+13	nejlepším	AAIS7----3A----	Atr
+14	nástrojem	NNIS7-----A----	Pnom
+15	pro	RR--4----------	AuxP
+16	přípravu	NNFS4-----A----	Atr
+17	jeho	PSXXXZS3-------	Atr
+18	účastníků	NNMP2-----A----	Atr
+19	na	RR--4----------	AuxP
+20	vstup	NNIS4-----A----	Atr
+21	do	RR--2----------	AuxP
+22	NATO	NNNXX-----A---8	Atr
+23	?	Z:-------------	AuxK
+
+ln95040-089-p7s1
+1	Není	VB-S---3P-NA---	Pred
+2	pravděpodobné	AANS1----1A----	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	by	Vc-------------	AuxV
+6	se	P7-X4----------	AuxT
+7	všechny	PLFP1----------	Atr
+8	země	NNFP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	které	P4FP1----------	Sb
+11	se	P7-X4----------	AuxT
+12	na	RR--6----------	AuxP
+13	Partnerství	NNNS6-----A----	Obj
+14	pro	RR--4----------	AuxP
+15	mír	NNIS4-----A----	Atr
+16	podílí	VB-S---3P-AA---	Atr
+17	,	Z:-------------	AuxX
+18	k	RR--3----------	AuxP
+19	Severoatlantické	AAFS3----1A----	Atr
+20	alianci	NNFS3-----A----	Adv
+21	připojily	VpTP---XR-AA---	Sb
+22	.	Z:-------------	AuxK
+
+ln95040-089-p7s2
+1	Jistý	AAIS1----1A----	Atr
+2	počet	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	jich	PPXP2--3-------	Atr
+5	však	J^-------------	Coord
+6	členy	NNMP7-----A----	Obj
+7	stane	VB-S---3P-AA---	Pred
+8	.	Z:-------------	AuxK
+
+ln95040-089-p7s3
+1	Partnerství	NNNS1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	mír	NNIS4-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	velmi	Db-------------	Adv
+6	dobrý	AAIS1----1A----	Atr
+7	způsob	NNIS1-----A----	Pnom
+8	,	Z:-------------	AuxX
+9	jak	Db-------------	Adv
+10	připravovat	Vf--------A----	Atr
+11	program	NNIS4-----A----	Obj
+12	spolupráce	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	integrace	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	zvláště	Db-------------	AuxZ
+17	pro	RR--4----------	AuxP
+18	ty	PDFP4----------	Atr
+19	země	NNFP4-----A----	AtrAdv
+20	bývalého	AAIS2----1A----	Atr
+21	východního	AAIS2----1A----	Atr
+22	bloku	NNIS2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	které	P4FP1----------	Sb
+25	o	RR--6----------	AuxP
+26	vstupu	NNIS6-----A----	Obj
+27	do	RR--2----------	AuxP
+28	NATO	NNNXX-----A---8	Atr
+29	uvažují	VB-P---3P-AA---	Atr
+30	.	Z:-------------	AuxK
+
+ln95040-089-p8s1
+1	Dá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	stanovit	Vf--------A----	Obj
+4	přibližná	AAFS1----1A----	Atr
+5	hranice	NNFS1-----A----	Sb
+6	rozšiřování	NNNS2-----A----	Atr
+7	NATO	NNNXX-----A---8	Atr
+8	?	Z:-------------	AuxK
+
+ln95040-089-p9s1
+1	Myslím	VB-S---1P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	je	VB-S---3P-AA---	Obj
+6	zbytečné	AANS1----1A----	Pnom
+7	spekulovat	Vf--------A----	Sb
+8	o	RR--6----------	AuxP
+9	tom	PDZS6----------	Obj
+10	,	Z:-------------	AuxX
+11	jaká	P4FS1----------	Atr
+12	hranice	NNFS1-----A----	Sb
+13	to	PDNS1----------	Pnom
+14	bude	VB-S---3F-AA---	Atr
+15	.	Z:-------------	AuxK
+
+ln95040-089-p9s2
+1	Kdo	PKM-1----------	Sb
+2	ví	VB-S---3P-AA---	Pred
+3	.	Z:-------------	AuxK
+
+ln95040-089-p9s3
+1	Kdyby	J,-------------	AuxC
+2	před	RR--7----------	AuxP
+3	pěti	Cn-P7----------	Atr
+4	lety	NNNP7-----A----	Adv
+5	někdo	PZM-1----------	Sb
+6	uvažoval	VpYS---XR-AA---	Adv
+7	o	RR--6----------	AuxP
+8	vstupu	NNIS6-----A----	Obj
+9	České	AAFS2----1A----	Atr
+10	republiky	NNFS2-----A----	Atr
+11	do	RR--2----------	AuxP
+12	NATO	NNNXX-----A---8	Atr
+13	,	Z:-------------	AuxX
+14	působilo	VpNS---XR-AA---	Pred
+15	by	Vc-------------	AuxV
+16	to	PDNS1----------	Sb
+17	jistě	Dg-------1A----	AuxY
+18	velmi	Db-------------	Adv
+19	podivně	Dg-------1A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95040-089-p9s4
+1	Kdo	PKM-1----------	Sb
+2	může	VB-S---3P-AA---	Pred
+3	říci	Vf--------A---1	Obj
+4	,	Z:-------------	AuxX
+5	co	PQ--1----------	Sb
+6	bude	VB-S---3F-AA---	Obj
+7	možné	AANS1----1A----	Pnom
+8	za	RR--4----------	AuxP
+9	dalších	AANP2----1A----	Atr
+10	pět	Cn-S4----------	Adv
+11	let	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95040-089-p9s5
+1	Myslím	VB-S---1P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	tím	PDZS7----------	Atr
+6	důležitým	AAIS7----1A----	Atr
+7	cílem	NNIS7-----A----	Pnom
+8	by	Vc-------------	AuxV
+9	mělo	VpNS---XR-AA---	Obj
+10	být	Vf--------A----	Obj
+11	rozvíjení	NNNS1-----A----	Sb
+12	bezpečnosti	NNFS2-----A----	Atr
+13	Evropy	NNFS2-----A----	Atr
+14	jako	J,-------------	AuxY
+15	celku	NNIS2-----A----	Atv
+16	.	Z:-------------	AuxK
+
+ln95040-089-p9s6
+1	Pro	RR--4----------	AuxP
+2	některé	PZFP4----------	Atr
+3	země	NNFP4-----A----	Adv
+4	by	Vc-------------	AuxV
+5	to	PDNS1----------	Sb
+6	mohlo	VpNS---XR-AA---	Pred
+7	znamenat	Vf--------A----	Obj
+8	členství	NNNS4-----A----	Obj
+9	v	RR--6----------	AuxP
+10	Severoatlantické	AAFS6----1A----	Atr
+11	alianci	NNFS6-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95040-089-p9s7
+1	Jiné	AAFP1----1A----	ExD
+2	si	P7-X3----------	AuxT
+3	třeba	Db-------------	Adv
+4	ani	J^-------------	AuxZ
+5	nebudou	VB-P---3F-NA---	AuxV
+6	přát	Vf--------A----	Pred
+7	do	RR--2----------	AuxP
+8	Severoatlantické	AAFS2----1A----	Atr
+9	aliance	NNFS2-----A----	Adv
+10	vstoupit	Vf--------A----	Obj
+11	nebo	J^-------------	Coord
+12	to	PDNS1----------	Sb
+13	nebude	VB-S---3F-NA---	Pred
+14	možné	AANS1----1A----	Pnom
+15	.	Z:-------------	AuxK
+
+ln95040-089-p9s8A
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	tedy	Db-------------	AuxY
+4	něco	PZ--1----------	Pnom
+5	,	Z:-------------	AuxX
+6	co	PQ--1----------	Sb
+7	musí	VB-S---3P-AA---	Atr
+8	zůstat	Vf--------A----	Obj
+9	pružné	AANS1----1A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95040-089-p9s8B
+1	Británie	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	součástí	NNFS7-----A----	Pnom
+5	Evropské	AAFS2----1A----	Atr
+6	unie	NNFS2-----A----	Atr
+7	(	Z:-------------	Apos
+8	EU	NNFXX-----A---8	Atr
+9	)	Z:-------------	AuxG
+10	.	Z:-------------	AuxK
+
+ln95040-089-p9s9
+1	Jak	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	měla	VpQW---XR-AA---	Pred
+4	EU	NNFXX-----A---8	Sb
+5	utvářet	Vf--------A----	Obj
+6	svou	P8FS4---------1	Atr
+7	bezpečnost	NNFS4-----A----	Obj
+8	?	Z:-------------	AuxK
+
+ln95040-089-p9s10
+1	Jak	Db-------------	Adv
+2	přitom	Db-------------	Adv
+3	hodnotíte	VB-P---2P-AA---	Pred
+4	roli	NNFS4-----A----	Obj
+5	NATO	NNNXX-----A---8	Atr
+6	a	J^-------------	Coord
+7	Západoevropské	AAFS2----1A----	Atr
+8	unie	NNFS2-----A----	Atr
+9	?	Z:-------------	AuxK
+
+ln95040-089-p10s1
+1	Silně	Dg-------1A----	Adv
+2	podporujeme	VB-P---1P-AA---	Pred
+3	myšlenku	NNFS4-----A----	Obj
+4	začlenění	NNNS2-----A----	Atr
+5	České	AAFS2----1A----	Atr
+6	republiky	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	Polska	NNNS2-----A----	Atr
+9	a	J^-------------	Coord
+10	Maďarska	NNNS2-----A----	Atr
+11	do	RR--2----------	AuxP
+12	Evropské	AAFS2----1A----	Atr
+13	unie	NNFS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	co	Db-------------	Adv
+16	nejkratší	AAFS6----3A----	Atr
+17	době	NNFS6-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95040-089-p10s2
+1	Myslíme	VB-P---1P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	je	VB-S---3P-AA---	Obj
+6	to	PDNS1----------	Sb
+7	žádoucí	AANS1----1A----	Pnom
+8	.	Z:-------------	AuxK
+
+ln95040-089-p10s3
+1	EU	NNFXX-----A---8	Sb
+2	se	P7-X4----------	AuxT
+3	zabývá	VB-S---3P-AA---	Pred
+4	hlavně	Dg-------1A----	AuxZ
+5	takovými	PDXP7----------	Atr
+6	tématy	NNNP7-----A----	Obj
+7	,	Z:-------------	AuxX
+8	jako	J,-------------	AuxC
+9	je	VB-S---3P-AA---	Atr
+10	obchod	NNIS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	hospodářství	NNNS1-----A----	Sb
+13	,	Z:-------------	Coord
+14	občanské	AAFP1----1A----	Atr
+15	záležitosti	NNFP1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95040-089-p10s4
+1	NATO	NNNXX-----A---8	Sb
+2	se	P7-X4----------	AuxT
+3	zjevně	Dg-------1A----	Adv
+4	soustřeďuje	VB-S---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	bezpečnostní	AANP4----1A----	Atr
+7	témata	NNNP4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln95040-089-p10s5
+1	Každou	AAFS4----1A----	Obj
+2	z	RR--2----------	AuxP
+3	těchto	PDXP2----------	Atr
+4	oblastí	NNFP2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	třeba	ACNS------A----	Pnom
+7	posuzovat	Vf--------A----	Sb
+8	zcela	Db-------------	Adv
+9	odděleně	Dg-------1A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95040-089-p10s6
+1	Myslím	VB-S---1P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	však	J^-------------	Coord
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	Česká	AAFS1----1A----	Atr
+7	republika	NNFS1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	bude	VB-S---3F-AA---	AuxV
+10	stále	Db-------------	Adv
+11	více	Dg-------2A----	Adv
+12	zapojovat	Vf--------A----	Obj
+13	do	RR--2----------	AuxP
+14	všech	PLXP2----------	Atr
+15	evropských	AAFP2----1A----	Atr
+16	institucí	NNFP2-----A----	Adv
+17	,	Z:-------------	AuxX
+18	o	RR--4----------	AuxP
+19	které	P4FP4----------	Atr
+20	má	VB-S---3P-AA---	Atr
+21	zájem	NNIS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln95040-089-p11s1
+1	Jaké	P4IP1----------	Pnom
+2	jsou	VB-P---3P-AA---	Pred
+3	další	AAIP1----1A----	Atr
+4	plány	NNIP1-----A----	Sb
+5	Velké	AAFS2----1A----	Atr
+6	Británie	NNFS2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	spolupráci	NNFS4-----A----	Atr
+9	s	RR--7----------	AuxP
+10	Českou	AAFS7----1A----	Atr
+11	republikou	NNFS7-----A----	Atr
+12	?	Z:-------------	AuxK
+
+ln95040-089-p12s1
+1	Dnes	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	sledovali	VpMP---XR-AA---	Pred
+4	společné	AANS4----1A----	Atr
+5	cvičení	NNNS4-----A----	Obj
+6	královské	AAFS2----1A----	Atr
+7	námořní	AAFS2----1A----	Atr
+8	pěchoty	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	českých	AAMP2----1A----	Atr
+11	vojáků	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95040-089-p12s2
+1	Diskutujeme	VB-P---1P-AA---	Pred
+2	také	Db-------------	Adv
+3	o	RR--6----------	AuxP
+4	dvoustranné	AAFS6----1A----	Atr
+5	spolupráci	NNFS6-----A----	Adv
+6	-	Z:-------------	Apos
+7	o	RR--6----------	AuxP
+8	zvaní	NNNS6-----A----	Adv
+9	českých	AAMP2----1A----	Atr
+10	profesorů	NNMP2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	anglické	AAFP4----1A----	Atr
+13	školy	NNFP4-----A----	Atr
+14	,	Z:-------------	Coord
+15	o	RR--6----------	AuxP
+16	výuce	NNFS6-----A----	Adv
+17	angličtiny	NNFS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	českých	AAFP6----1A----	Atr
+20	ozbrojených	AAFP6----1A----	Atr
+21	silách	NNFP6-----A----	Atr
+22	,	Z:-------------	AuxX
+23	abychom	J,-P---1-------	AuxC
+24	jim	PPXP3--3-------	Obj
+25	pomohli	VpMP---XR-AA---	Adv
+26	,	Z:-------------	AuxX
+27	až	J,-------------	AuxC
+28	si	P7-X3----------	AuxT
+29	budou	VB-P---3F-AA---	AuxV
+30	přát	Vf--------A----	Adv
+31	spojit	Vf--------A----	Obj
+32	se	P7-X4----------	Obj
+33	s	RR--7----------	AuxP
+34	dalšími	AAFP7----1A----	Atr
+35	západními	AAFP7----1A----	Atr
+36	zeměmi	NNFP7-----A----	Obj
+37	.	Z:-------------	AuxK
+
+ln95040-089-p12s3
+1	Existuje	VB-S---3P-AA---	Pred
+2	tedy	Db-------------	AuxY
+3	celé	AANS1----1A----	Atr
+4	spektrum	NNNS1-----A----	Sb
+5	možností	NNFP2-----A----	Atr
+6	spolupráce	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+

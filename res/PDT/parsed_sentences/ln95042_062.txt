@@ -1,0 +1,160 @@
+ln95042-062-p1s1
+1	Macek	NNMS1-----A----	Sb
+2	chce	VB-S---3P-AA---	Pred
+3	zřídit	Vf--------A----	Obj
+4	kontrolu	NNFS4-----A----	Obj
+5	zdravotnictví	NNNS2-----A----	Atr
+
+ln95042-062-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln95042-062-p2s1B
+1	Dolní	AAFS1----1A----	Atr
+2	Lomná	AAFS1----1A----	ExD
+3	(	Z:-------------	ExD
+4	okres	NNIS1-----A----	ExD
+5	Frýdek	NNIS1-----A----	Atr
+6	-	Z:-------------	Coord
+7	Místek	NNIS1-----A----	Atr
+8	)	Z:-------------	ExD
+9	-	Z:-------------	AuxK
+
+ln95042-062-p2s1C
+1	V	RR--6----------	AuxP
+2	průběhu	NNIS6-----A----	AuxP
+3	zasedání	NNNS2-----A----	Adv
+4	Výkonné	AAFS2----1A----	Atr
+5	rady	NNFS2-----A----	Atr
+6	ODS	NNFXX-----A---8	Atr
+7	sdělil	VpYS---XR-AA---	Pred
+8	Miroslav	NNMS1-----A----	Atr
+9	Macek	NNMS1-----A----	Sb
+10	novinářům	NNMP3-----A----	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	považuje	VB-S---3P-AA---	Obj
+14	za	RR--4----------	AuxP
+15	"	Z:-------------	AuxG
+16	pouhou	AAFS4----1A----	Atr
+17	konstrukci	NNFS4-----A----	Obj
+18	"	Z:-------------	AuxG
+19	úvahy	NNFP4-----A----	Obj
+20	o	RR--6----------	AuxP
+21	tom	PDZS6----------	Atr
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	by	Vc-------------	AuxV
+25	měl	VpYS---XR-AA---	Atr
+26	vystřídat	Vf--------A----	Obj
+27	ve	RV--6----------	AuxP
+28	funkci	NNFS6-----A----	Adv
+29	ministra	NNMS2-----A----	Atr
+30	Rubáše	NNMS4-----A----	Obj
+31	.	Z:-------------	AuxK
+
+ln95042-062-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	však	J^-------------	Coord
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	hodlá	VB-S---3P-AA---	Obj
+6	radě	NNFS3-----A----	Obj
+7	předložit	Vf--------A----	Obj
+8	materiál	NNIS4-----A----	Obj
+9	týkající	AGIS4-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	struktury	NNFS2-----A----	Obj
+12	financování	NNNS2-----A----	Atr
+13	zdravotnické	AAFS2----1A----	Atr
+14	péče	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95042-062-p2s3
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	názoru	NNIS2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	nad	RR--7----------	AuxP
+6	financemi	NNFP7-----A----	Obj
+7	do	RR--2----------	AuxP
+8	zdravotnictví	NNNS2-----A----	Atr
+9	měla	VpQW---XR-AA---	Pred
+10	bdít	Vf--------A----	Obj
+11	instituce	NNFS1-----A----	Sb
+12	zřízená	AAFS1----1A----	Atr
+13	ze	RV--2----------	AuxP
+14	zákona	NNIS2-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95042-062-p2s4
+1	Ministr	NNMS1-----A----	Atr
+2	zdravotnictví	NNNS2-----A----	Atr
+3	Luděk	NNMS1-----A----	Atr
+4	Rubáš	NNMS1-----A----	Sb
+5	se	P7-X4----------	Obj
+6	doposud	Db-------------	Adv
+7	s	RR--7----------	AuxP
+8	návrhem	NNIS7-----A----	Obj
+9	Mackovy	AUFS2M---------	Atr
+10	koncepce	NNFS2-----A----	Atr
+11	financování	NNNS2-----A----	Atr
+12	zdravotnické	AAFS2----1A----	Atr
+13	péče	NNFS2-----A----	Atr
+14	neměl	VpYS---XR-NA---	Pred
+15	možnost	NNFS4-----A----	Obj
+16	seznámit	Vf--------A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95042-062-p2s5
+1	"	Z:-------------	AuxG
+2	Je	VB-S---3P-AA---	Pred
+3	předčasné	AANS1----1A----	Pnom
+4	uvažovat	Vf--------A----	Sb
+5	o	RR--6----------	AuxP
+6	nějaké	PZFS6----------	Atr
+7	zásadní	AAFS6----1A----	Atr
+8	systémové	AAFS6----1A----	Atr
+9	změně	NNFS6-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95042-062-p2s6
+1	Na	RR--4----------	AuxP
+2	to	PDNS4----------	Obj
+3	nejsme	VB-P---1P-NA---	Pred
+4	připraveni	VsMP---XX-AP---	Pnom
+5	a	J^-------------	Coord
+6	není	VB-S---3P-NA---	Pred
+7	to	PDNS1----------	Sb
+8	nutné	AANS1----1A----	Pnom
+9	.	Z:-------------	AuxK
+
+ln95042-062-p2s7
+1	Zapotřebí	Db-------------	Adv
+2	je	VB-S---3P-AA---	Obj
+3	hledat	Vf--------A----	Sb
+4	změny	NNFP4-----A----	Obj
+5	uvnitř	Db-------------	AuxP
+6	zvoleného	AAIS2----1A----	Atr
+7	systému	NNIS2-----A----	Adv
+8	úhrady	NNFS2-----A----	Atr
+9	zdravotnické	AAFS2----1A----	Atr
+10	péče	NNFS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	hledat	Vf--------A----	Sb
+13	cesty	NNFP4-----A----	Obj
+14	k	RR--3----------	AuxP
+15	dolaďování	NNNS3-----A----	Atr
+16	,	Z:-------------	AuxX
+17	harmonizaci	NNFS3-----A----	Atr
+18	,	Z:-------------	Coord
+19	zlepšení	NNNS3-----A----	Atr
+20	proudu	NNIS2-----A----	Atr
+21	financí	NNFP2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	"	Z:-------------	AuxG
+24	řekl	VpYS---XR-AA---	Pred
+25	Rubáš	NNMS1-----A----	Sb
+26	.	Z:-------------	AuxK
+

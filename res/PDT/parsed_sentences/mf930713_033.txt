@@ -1,0 +1,184 @@
+mf930713-033-p1s1
+1	Přibylo	VpNS---XR-AA---	Pred
+2	nehod	NNFP2-----A----	Sb
+3	na	RR--6----------	AuxP
+4	silnicích	NNFP6-----A----	Atr
+
+mf930713-033-p2s1A
+1	Ostrava	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	les	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-033-p2s1B
+1	Téměř	Db-------------	AuxZ
+2	9800	C=-------------	Obj
+3	dopravních	AAFP2----1A----	Atr
+4	nehod	NNFP2-----A----	Atr
+5	eviduje	VB-S---3P-AA---	Pred
+6	policie	NNFS1-----A----	Sb
+7	na	RR--6----------	AuxP
+8	severu	NNIS6-----A----	Adv
+9	Moravy	NNFS2-----A----	Atr
+10	a	J^-------------	Coord
+11	ve	RV--6----------	AuxP
+12	Slezsku	NNNS6-----A----	Adv
+13	za	RR--4----------	AuxP
+14	první	CrFS4----------	Atr
+15	polovinu	NNFS4-----A----	Adv
+16	letošního	AAIS2----1A----	Atr
+17	roku	NNIS2-----A---1	Atr
+18	.	Z:-------------	AuxK
+
+mf930713-033-p2s2
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	téměř	Db-------------	AuxZ
+4	o	RR--4----------	AuxP
+5	1800	C=-------------	Adv
+6	nehod	NNFP2-----A----	Atr
+7	více	Dg-------2A----	Adv
+8	než	J,-------------	AuxC
+9	za	RR--4----------	AuxP
+10	loňské	AANS4----1A----	Atr
+11	první	CrNS4----------	Atr
+12	pololetí	NNNS4-----A----	ExD
+13	.	Z:-------------	AuxK
+
+mf930713-033-p2s3
+1	Při	RR--6----------	AuxP
+2	letošních	AAFP6----1A----	Atr
+3	nehodách	NNFP6-----A----	Adv
+4	zahynulo	VpNS---XR-AA---	Pred
+5	na	RR--6----------	AuxP
+6	silnicích	NNFP6-----A----	Adv
+7	110	C=-------------	Sb
+8	osob	NNFP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	což	PE--1----------	Sb
+11	je	VB-S---3P-AA---	Pred
+12	o	RR--4----------	AuxP
+13	šest	Cn-S4----------	ExD
+14	více	Dg-------2A----	Adv
+15	než	J,-------------	AuxC
+16	loni	Db------------1	ExD
+17	.	Z:-------------	AuxK
+
+mf930713-033-p2s4
+1	Při	RR--6----------	AuxP
+2	haváriích	NNFP6-----A----	Adv
+3	zaznamenali	VpMP---XR-AA---	Pred
+4	policisté	NNMP1-----A----	Sb
+5	381	C=-------------	Obj
+6	těžké	AANS4----1A----	ExD
+7	a	J^-------------	Coord
+8	přes	RR--4----------	AuxP
+9	1800	C=-------------	Obj
+10	lehkých	AANP2----1A----	Atr
+11	zranění	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf930713-033-p2s5
+1	Hmotná	AAFS1----1A----	Atr
+2	škoda	NNFS1-----A----	Sb
+3	přesahuje	VB-S---3P-AA---	Pred
+4	1350000	C=-------------	Obj
+5	korun	NNFP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+mf930713-033-p3s1
+1	Dopravní	AAMP1----1A----	Atr
+2	policisté	NNMP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	bývalém	AAIS6----1A----	Atr
+5	Severomoravském	AAIS6----1A----	Atr
+6	kraji	NNIS6-----A----	AtrAdv
+7	vyřešili	VpMP---XR-AA---	Pred
+8	na	RR--6----------	AuxP
+9	místě	NNNS6-----A----	Adv
+10	téměř	Db-------------	AuxZ
+11	50000	C=-------------	Obj
+12	dopravních	AAIP2----1A----	Atr
+13	přestupků	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	za	RR--4----------	AuxP
+16	které	P4YP4----------	Adv
+17	uložili	VpMP---XR-AA---	Atr
+18	blokové	AAFP4----1A----	Atr
+19	pokuty	NNFP4-----A----	Obj
+20	v	RR--6----------	AuxP
+21	celkové	AAFS6----1A----	Atr
+22	výši	NNFS6-----A----	AtrAdv
+23	téměř	Db-------------	AuxZ
+24	osmi	Cn-P2----------	Atr
+25	milionů	NNIP2-----A----	Atr
+26	korun	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf930713-033-p3s2
+1	Pro	RR--4----------	AuxP
+2	závady	NNFP4-----A----	Adv
+3	v	RR--6----------	AuxP
+4	technickém	AAIS6----1A----	Atr
+5	stavu	NNIS6-----A----	Atr
+6	vozidel	NNNP2-----A----	Atr
+7	zabavili	VpMP---XR-AA---	Pred
+8	policisté	NNMP1-----A----	Sb
+9	5820	C=-------------	Obj
+10	osvědčení	NNNP2-----A----	Atr
+11	o	RR--6----------	AuxP
+12	technickém	AAIS6----1A----	Atr
+13	průkazu	NNIS6-----A---1	Atr
+14	.	Z:-------------	AuxK
+
+mf930713-033-p3s3
+1	Řidičské	AAIP4----1A----	Atr
+2	průkazy	NNIP4-----A----	Obj
+3	zadrželi	VpMP---XR-AA---	Pred
+4	869	C=-------------	Atr
+5	lidem	NNMP3-----A----	Obj
+6	,	Z:-------------	AuxX
+7	kteří	P4MP1----------	Sb
+8	řídili	VpMP---XR-AA---	Atr
+9	pod	RR--7----------	AuxP
+10	vlivem	NNIS7-----A----	Adv
+11	alkoholu	NNIS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	138	C=-------------	Atr
+15	lidem	NNMP3-----A----	ExD
+16	z	RR--2----------	AuxP
+17	jiných	AAIP2----1A----	Atr
+18	důvodů	NNIP2-----A----	ExD
+19	.	Z:-------------	AuxK
+
+mf930713-033-p3s4
+1	Mezi	RR--7----------	AuxP
+2	řidiči	NNMP7-----A----	Adv
+3	postiženými	AAMP7----1A----	Atr
+4	za	RR--4----------	AuxP
+5	dopravní	AAIS4----1A----	Atr
+6	přestupek	NNIS4-----A----	Obj
+7	bylo	VpNS---XR-AA---	Pred
+8	i	J^-------------	AuxZ
+9	3355	C=-------------	Sb
+10	cizích	AAMP2----1A----	Atr
+11	státních	AAMP2----1A----	Atr
+12	příslušníků	NNMP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	z	RR--2----------	AuxP
+15	toho	PDZS2----------	ExD
+16	1768	C=-------------	ExD
+17	z	RR--2----------	AuxP
+18	Polska	NNNS2-----A----	ExD
+19	,	Z:-------------	AuxX
+20	567	C=-------------	ExD
+21	z	RR--2----------	AuxP
+22	Německa	NNNS2-----A----	ExD
+23	a	J^-------------	Coord
+24	403	C=-------------	ExD
+25	z	RR--2----------	AuxP
+26	Rakouska	NNNS2-----A----	ExD
+27	.	Z:-------------	AuxK
+

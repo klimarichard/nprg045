@@ -1,0 +1,2055 @@
+mf930713-002-p1s1
+1	KULTURNÍ	AAIS1----1A----	Atr
+2	SERVIS	NNIS1-----A----	ExD
+3	OD	RR--2----------	AuxP
+4	14	C=-------------	ExD
+5	.	Z:-------------	AuxG
+6	do	RR--2----------	AuxP
+7	20	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	7	C=-------------	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-002-p2s1
+1	Není	VB-S---3P-NA---	ExD
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	u	RR--2----------	AuxP
+5	divadel	NNNP2-----A----	Adv
+6	a	J^-------------	Coord
+7	koncertů	NNIP2-----A----	Adv
+8	uvedeno	VsNS---XX-AP---	Pnom
+9	jinak	Db-------------	Adv
+10	,	Z:-------------	AuxX
+11	začátky	NNIP1-----A----	ExD
+12	v	RR--4----------	AuxP
+13	19.30	C=-------------	ExD
+14	hodin	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf930713-002-p2s2
+1	Programy	NNIP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	AuxV
+3	řazeny	VsTP---XX-AP---	Pred
+4	podle	RR--2----------	AuxP
+5	míst	NNNP2-----A----	Adv
+6	(	Z:-------------	AuxG
+7	od	RR--2----------	AuxP
+8	středy	NNFS2-----A----	Adv
+9	do	RR--2----------	AuxP
+10	úterý	NNNS2-----A----	Adv
+11	)	Z:-------------	AuxG
+
+mf930713-002-p3s1
+1	DIVADLA	NNNP1-----A----	ExD
+
+mf930713-002-p4s1
+1	Divadelní	AAFS1----1A----	Atr
+2	fakulta	NNFS1-----A----	Sb
+3	JAMU	NNFXX-----A---8	Atr
+4	otevírá	VB-S---3P-AA---	Pred
+5	tříleté	AANS4----1A----	Atr
+6	doktorandské	AANS4----1A----	Atr
+7	studium	NNNS4-----A----	Obj
+8	v	RR--6----------	AuxP
+9	oboru	NNIS6-----A----	Atr
+10	teorie	NNFS1-----A----	Atr
+11	divadelní	AAFS2----1A----	Atr
+12	tvorby	NNFS2-----A----	Atr
+13	se	RV--7----------	AuxP
+14	specializacemi	NNFP7-----A----	Atr
+15	teorie	NNFS1-----A----	Atr
+16	režie	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	teoretická	AAFS1----1A----	Atr
+19	dramaturgie	NNFS1-----A----	Atr
+20	,	Z:-------------	Coord
+21	teorie	NNFS1-----A----	Atr
+22	a	J^-------------	Coord
+23	metody	NNFP1-----A----	Atr
+24	divadelní	AAFS2----1A----	Atr
+25	tvorby	NNFS2-----A----	Atr
+26	(	Z:-------------	AuxG
+27	podmínky	NNFP1-----A----	ExD
+28	,	Z:-------------	Coord
+29	informace	NNFP1-----A----	ExD
+30	na	RR--6----------	AuxP
+31	studijním	AANS6----1A----	Atr
+32	oddělení	NNNS6-----A----	ExD
+33	JAMU	NNFXX-----A---8	Atr
+34	v	RR--6----------	AuxP
+35	Mozartově	AUFS6M---------	Atr
+36	ulici	NNFS6-----A----	Atr
+37	1	C=-------------	Atr
+38	,	Z:-------------	AuxX
+39	662	C=-------------	Atr
+40	15	C=-------------	Atr
+41	Brno	NNNS1-----A----	Atr
+42	,	Z:-------------	Coord
+43	písemné	AAFP1----1A----	Atr
+44	přihlášky	NNFP1-----A----	Sb
+45	do	RR--2----------	AuxP
+46	konkursního	AANS2----1A----	Atr
+47	řízení	NNNS2-----A----	Atr
+48	jsou	VB-P---3P-AA---	AuxV
+49	přijímány	VsTP---XX-AP---	Pred
+50	tamtéž	Db-------------	Adv
+51	do	RR--2----------	AuxP
+52	27	C=-------------	Atr
+53	.	Z:-------------	AuxG
+54	srpna	NNIS2-----A----	Adv
+55	)	Z:-------------	AuxG
+
+mf930713-002-p5s1
+1	KONCERTY	NNIP1-----A----	ExD
+
+mf930713-002-p6s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p6s1B
+1	Čt	NNIXX-----A----	ExD
+2	15	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	20.30	C=-------------	ExD
+
+mf930713-002-p6s2
+1	Iva	NNFS1-----A----	Atr
+2	Bittová	NNFS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	koncertním	AAIS6----1A----	Atr
+5	sále	NNIS6-----A----	ExD
+6	divadelní	AAFS2----1A----	Atr
+7	fakulty	NNFS2-----A----	Atr
+8	JAMU	NNFXX-----A---8	Atr
+9	(	Z:-------------	AuxG
+10	pořádá	VB-S---3P-AA---	ExD
+11	DAVAY	NNFXX-----A----	Sb
+12	)	Z:-------------	AuxG
+
+mf930713-002-p7s1C
+1	Bystré	AANS1----1A----	ExD
+2	u	RR--2----------	AuxP
+3	Poličky	NNFS2-----A----	Atr
+4	:	Z:-------------	AuxK
+
+mf930713-002-p7s1B
+1	od	RR--2----------	AuxP
+2	20	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	ExD
+5	.	Z:-------------	AuxG
+
+mf930713-002-p7s2
+1	Duše	NNFS1-----A----	ExD
+2	hlasu	NNIS2-----A----	Atr
+3	a	J^-------------	Coord
+4	těla	NNNS2-----A----	Atr
+5	(	Z:-------------	Apos
+6	mezinárodní	AAFS1----1A----	Atr
+7	dílna	NNFS1-----A----	ExD
+8	o	RR--6----------	AuxP
+9	hlasu	NNIS6-----A---1	Atr
+10	a	J^-------------	Coord
+11	pro	RR--4----------	AuxP
+12	hlas	NNIS4-----A----	Atr
+13	pod	RR--7----------	AuxP
+14	vedením	NNNS7-----A----	Atr
+15	Idy	NNFS2-----A----	Atr
+16	Bittové	NNFS2-----A----	Atr
+17	-	Z:-------------	AuxG
+18	Kellarové	NNFS2-----A----	Atr
+19	-	Z:-------------	AuxG
+20	do	RR--2----------	AuxP
+21	30	C=-------------	Atr
+22	.	Z:-------------	AuxG
+23	7	C=-------------	ExD
+24	.	Z:-------------	AuxG
+
+mf930713-002-p8s1
+1	GALERIE	NNFP1-----A----	ExD
+
+mf930713-002-p9s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p9s1B
+1	Staré	AANS1----1A----	Atr
+2	umění	NNNS1-----A----	ExD
+3	(	Z:-------------	Apos
+4	gotika	NNFS1-----A----	ExD
+5	-	Z:-------------	AuxG
+6	baroko	NNNS1-----A----	ExD
+7	-	Z:-------------	Coord
+8	devatenácté	CrNS1----------	Atr
+9	století	NNNS1-----A----	ExD
+10	)	Z:-------------	AuxG
+11	-	Z:-------------	Apos
+12	stálá	AAFS1----1A----	Atr
+13	expozice	NNFS1-----A----	ExD
+14	v	RR--6----------	AuxP
+15	Místodržitelském	AAIS6----1A----	Atr
+16	paláci	NNIS6-----A----	Atr
+17	Moravské	AAFS2----1A----	Atr
+18	galerie	NNFS2-----A----	Atr
+
+mf930713-002-p10s1A
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p10s1B
+1	Deset	Cn-S1----------	ExD
+2	sak	NNNP2-----A----	Atr
+3	-	Z:-------------	Apos
+4	deset	Cn-S1----------	ExD
+5	výtvarníků	NNMP2-----A----	Atr
+6	a	J^-------------	Coord
+7	originální	AANP1----1A----	Atr
+8	díla	NNNP1-----A----	ExD
+9	na	RR--4----------	AuxP
+10	panská	AANP4----1A----	Atr
+11	saka	NNNP4-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Galerii	NNFS6-----A----	ExD
+14	Klan	NNIS1-----A----	Atr
+15	Ica	NNFS1-----A----	Atr
+16	(	Z:-------------	ExD
+17	Dominikánské	AANS1----1A----	Atr
+18	nám	NNNS1-----A----	ExD
+19	.	Z:-------------	AuxG
+20	6	C=-------------	Atr
+21	/	Z:-------------	AuxG
+22	7	C=-------------	Atr
+23	-	Z:-------------	AuxG
+24	do	RR--2----------	AuxP
+25	23	C=-------------	Atr
+26	.	Z:-------------	AuxG
+27	7	C=-------------	ExD
+28	.	Z:-------------	AuxG
+29	)	Z:-------------	ExD
+
+mf930713-002-p11s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p11s1B
+1	Petr	NNMS1-----A----	Atr
+2	Veselý	NNMS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Galerii	NNFS6-----A----	ExD
+5	Jaroslava	NNMS2-----A----	Atr
+6	Krále	NNMS2-----A----	Atr
+7	Domu	NNIS2-----A----	Atr
+8	umění	NNNS2-----A----	Atr
+9	(	Z:-------------	ExD
+10	do	RR--2----------	AuxP
+11	25	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	7	C=-------------	ExD
+14	.	Z:-------------	AuxG
+15	)	Z:-------------	ExD
+
+mf930713-002-p12s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p12s1B
+1	Záznamy	NNIP1-----A----	ExD
+2	Jiřího	NNMS2-----A----	Atr
+3	Šiguta	NNMS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Galerii	NNFS6-----A----	ExD
+6	mladých	NNMP2-----A----	Atr
+7	(	Z:-------------	ExD
+8	do	RR--2----------	AuxP
+9	28	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	7	C=-------------	ExD
+12	.	Z:-------------	AuxG
+13	)	Z:-------------	ExD
+
+mf930713-002-p13s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p13s1B
+1	Spor	NNIS1-----A----	ExD
+2	o	RR--4----------	AuxP
+3	figuru	NNFS4-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Galerii	NNFS6-----A----	ExD
+6	Dialog	NNIS1-----A----	Atr
+7	(	Z:-------------	AuxG
+8	Vlasta	NNFS1-----A----	Atr
+9	Baránková	NNFS1-----A----	ExD
+10	,	Z:-------------	Coord
+11	Evžen	NNMS1-----A----	Atr
+12	Navrátil	NNMS1-----A----	ExD
+13	)	Z:-------------	AuxG
+14	,	Z:-------------	Coord
+15	(	Z:-------------	ExD
+16	do	RR--2----------	AuxP
+17	31	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	7	C=-------------	ExD
+20	.	Z:-------------	AuxG
+21	)	Z:-------------	ExD
+
+mf930713-002-p14s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p14s1B
+1	Image	NNXXX-----A----	ExD
+2	J	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	T	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Christiansena	NNMS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	S	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Shapira	NNMS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	L	NNMXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	Kjola	NNMS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	C	NNMXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	Langkilda	NNMS2-----A----	Atr
+19	a	J^-------------	Coord
+20	H	NNMXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	E	NNMXX-----A---8	Atr
+23	.	Z:-------------	AuxG
+24	Sorensena	NNMS2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	Galerii	NNFS6-----A----	ExD
+27	U	RR--2----------	AuxP
+28	dobrého	AAMS2----1A----	Atr
+29	pastýře	NNMS2-----A----	Atr
+30	(	Z:-------------	ExD
+31	do	RR--2----------	AuxP
+32	14	C=-------------	Atr
+33	.	Z:-------------	AuxG
+34	8	C=-------------	ExD
+35	.	Z:-------------	AuxG
+36	)	Z:-------------	ExD
+
+mf930713-002-p15s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p15s1B
+1	Ze	RV--2----------	AuxP
+2	současné	AAFS2----1A----	Atr
+3	brněnské	AAFS2----1A----	Atr
+4	malby	NNFS2-----A----	ExD
+5	v	RR--6----------	AuxP
+6	Domě	NNIS6-----A----	ExD
+7	umění	NNNS2-----A----	Atr
+8	(	Z:-------------	ExD
+9	do	RR--2----------	AuxP
+10	15	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	8	C=-------------	ExD
+13	.	Z:-------------	AuxG
+14	)	Z:-------------	ExD
+
+mf930713-002-p16s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p16s1B
+1	Výtvarná	AAFS1----1A----	Atr
+2	kultura	NNFS1-----A----	ExD
+3	meziválečného	AANS2----1A----	Atr
+4	Brna	NNNS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Místodržitelském	AAIS6----1A----	Atr
+7	paláci	NNIS6-----A----	ExD
+8	Moravské	AAFS2----1A----	Atr
+9	galerie	NNFS2-----A----	Atr
+10	(	Z:-------------	ExD
+11	do	RR--2----------	AuxP
+12	29	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	8	C=-------------	ExD
+15	.	Z:-------------	AuxG
+16	)	Z:-------------	ExD
+
+mf930713-002-p17s1A
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p17s1B
+1	Mezi	RR--7----------	AuxP
+2	tradicí	NNFS7-----A----	ExD
+3	a	J^-------------	Coord
+4	postmodernou	NNFS7-----A----	ExD
+5	-	Z:-------------	Apos
+6	přírůstky	NNIP1-----A----	ExD
+7	Moravské	AAFS2----1A----	Atr
+8	galerie	NNFS2-----A----	Atr
+9	z	RR--2----------	AuxP
+10	let	NNNP2-----A----	Atr
+11	1981	C=-------------	Atr
+12	až	J^-------------	Coord
+13	1992	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	(	Z:-------------	Apos
+16	nábytek	NNIS1-----A----	ExD
+17	,	Z:-------------	AuxX
+18	sklo	NNNS1-----A----	ExD
+19	,	Z:-------------	AuxX
+20	keramika	NNFS1-----A----	ExD
+21	,	Z:-------------	AuxX
+22	porcelán	NNIS1-----A----	ExD
+23	,	Z:-------------	AuxX
+24	šperky	NNIP1-----A----	ExD
+25	,	Z:-------------	AuxX
+26	textil	NNIS1-----A----	ExD
+27	,	Z:-------------	Coord
+28	odívání	NNNS1-----A----	ExD
+29	)	Z:-------------	AuxG
+30	(	Z:-------------	ExD
+31	do	RR--2----------	AuxP
+32	30	C=-------------	Atr
+33	.	Z:-------------	AuxG
+34	9	C=-------------	ExD
+35	.	Z:-------------	AuxG
+36	)	Z:-------------	ExD
+
+mf930713-002-p18s1C
+1	Křížovnice	NNFP1-----A----	ExD
+2	u	RR--2----------	AuxP
+3	Doubravníku	NNIS2-----A----	Atr
+4	:	Z:-------------	AuxK
+
+mf930713-002-p18s1B
+1	Frotáže	NNFP1-----A----	ExD
+2	,	Z:-------------	Coord
+3	sochy	NNFP1-----A----	ExD
+4	L	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Nováka	NNMS2-----A----	Atr
+7	a	J^-------------	Coord
+8	Z	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Macháčka	NNMS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Galerii	NNFS6-----A----	ExD
+13	Z	RR--2----------	AuxP
+14	ruky	NNFS2-----A----	Atr
+15	(	Z:-------------	ExD
+16	do	RR--2----------	AuxP
+17	1	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	8	C=-------------	ExD
+20	.	Z:-------------	AuxG
+21	)	Z:-------------	ExD
+
+mf930713-002-p19s1C
+1	Kunštát	NNIS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	Moravě	NNFS6-----A----	Atr
+4	:	Z:-------------	AuxK
+
+mf930713-002-p19s1B
+1	Tradice	NNFS1-----A----	ExD
+2	a	J^-------------	Coord
+3	současnost	NNFS1-----A----	ExD
+4	v	RR--6----------	AuxP
+5	keramice	NNFS6-----A----	Atr
+6	Kunštátska	NNNS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Galerii	NNFS6-----A----	ExD
+9	M	NNNXX-----A----	Atr
+10	.	Z:-------------	AuxG
+11	art	NNISX-----A----	Atr
+12	(	Z:-------------	ExD
+13	do	RR--2----------	AuxP
+14	31	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	7	C=-------------	ExD
+17	.	Z:-------------	AuxG
+18	)	Z:-------------	ExD
+
+mf930713-002-p20s1C
+1	Kunštát	NNIS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	Moravě	NNFS6-----A----	Atr
+4	:	Z:-------------	AuxK
+
+mf930713-002-p20s1B
+1	Obrazy	NNIP1-----A----	ExD
+2	Josefa	NNMS2-----A----	Atr
+3	Valčíka	NNMS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Galerii	NNFS6-----A----	ExD
+6	M	NNNXX-----A----	Atr
+7	.	Z:-------------	AuxG
+8	art	NNISX-----A----	Atr
+9	(	Z:-------------	ExD
+10	do	RR--2----------	AuxP
+11	31	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	7	C=-------------	ExD
+14	.	Z:-------------	AuxG
+15	)	Z:-------------	ExD
+
+mf930713-002-p21s1C
+1	Nové	AANS1----1A----	Atr
+2	Město	NNNS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	Moravě	NNFS6-----A----	Atr
+5	:	Z:-------------	AuxK
+
+mf930713-002-p21s1B
+1	Čt	NNIXX-----A----	ExD
+2	15	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	18.00	C=-------------	ExD
+
+mf930713-002-p21s2
+1	Antonín	NNMS1-----A----	Atr
+2	Smažil	NNMS1-----A----	ExD
+3	-	Z:-------------	AuxG
+4	obrazy	NNIP1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	kresby	NNFP1-----A----	ExD
+7	,	Z:-------------	Coord
+8	grafika	NNFS1-----A----	ExD
+9	v	RR--6----------	AuxP
+10	Horácké	AAFS6----1A----	Atr
+11	galerii	NNFS6-----A----	ExD
+12	(	Z:-------------	ExD
+13	úvodní	AANS1----1A----	Atr
+14	slovo	NNNS1-----A----	ExD
+15	Jaromír	NNMS1-----A----	Atr
+16	Tomeček	NNMS1-----A----	ExD
+17	)	Z:-------------	ExD
+18	(	Z:-------------	ExD
+19	do	RR--2----------	AuxP
+20	19	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	9	C=-------------	ExD
+23	.	Z:-------------	AuxG
+24	)	Z:-------------	ExD
+
+mf930713-002-p22s1C
+1	Nové	AANS1----1A----	Atr
+2	Město	NNNS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	Moravě	NNFS6-----A----	Atr
+5	:	Z:-------------	AuxK
+
+mf930713-002-p22s1B
+1	Skláři	NNMP1-----A----	ExD
+2	Vysočiny	NNFS2-----A----	Atr
+3	-	Z:-------------	Apos
+4	stálá	AAFS1----1A----	Atr
+5	expozice	NNFS1-----A----	ExD
+6	v	RR--6----------	AuxP
+7	Horácké	AAFS6----1A----	Atr
+8	galerii	NNFS6-----A----	Atr
+
+mf930713-002-p23s1A
+1	Nové	AANS1----1A----	Atr
+2	Město	NNNS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	Moravě	NNFS6-----A----	Atr
+5	:	Z:-------------	AuxK
+
+mf930713-002-p23s1B
+1	Umění	NNNS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	Horácku	NNNS6-----A----	Atr
+4	-	Z:-------------	Apos
+5	stálá	AAFS1----1A----	Atr
+6	expozice	NNFS1-----A----	ExD
+7	v	RR--6----------	AuxP
+8	Horácké	AAFS6----1A----	Atr
+9	galerii	NNFS6-----A----	Atr
+10	(	Z:-------------	ExD
+11	Blažíček	NNMS1-----A----	ExD
+12	,	Z:-------------	AuxX
+13	Jambor	NNMS1-----A----	ExD
+14	,	Z:-------------	AuxX
+15	Štursa	NNMS1-----A----	ExD
+16	,	Z:-------------	AuxX
+17	Pelikán	NNMS1-----A----	ExD
+18	aj	AAXXX----1A---8	Coord
+19	.	Z:-------------	AuxG
+20	)	Z:-------------	ExD
+
+mf930713-002-p24s1C
+1	Nové	AANS1----1A----	Atr
+2	Město	NNNS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	Moravě	NNFS6-----A----	Atr
+5	:	Z:-------------	AuxK
+
+mf930713-002-p24s1B
+1	Vnitřní	AANS1----1A----	Atr
+2	světlo	NNNS1-----A----	ExD
+3	-	Z:-------------	Apos
+4	kresby	NNFP1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	objekty	NNIP1-----A----	ExD
+7	,	Z:-------------	Coord
+8	obrazy	NNIP1-----A----	ExD
+9	Jiřího	NNMS2-----A----	Atr
+10	Bašty	NNMS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	Jiřího	NNMS2-----A----	Atr
+13	Plieštika	NNMS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	Tomáše	NNMS2-----A----	Atr
+16	Smetany	NNMS2-----A----	Atr
+17	a	J^-------------	Coord
+18	Jiřího	NNMS2-----A----	Atr
+19	Štourače	NNMS2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	Horácké	AAFS6----1A----	Atr
+22	galerii	NNFS6-----A----	ExD
+23	(	Z:-------------	ExD
+24	do	RR--2----------	AuxP
+25	12	C=-------------	Atr
+26	.	Z:-------------	AuxG
+27	9	C=-------------	ExD
+28	.	Z:-------------	AuxG
+29	)	Z:-------------	ExD
+
+mf930713-002-p25s1C
+1	Nové	AANS1----1A----	Atr
+2	Město	NNNS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	Moravě	NNFS6-----A----	Atr
+5	:	Z:-------------	AuxK
+
+mf930713-002-p25s1B
+1	Jiří	NNMS1-----A----	Atr
+2	Seifert	NNMS1-----A----	ExD
+3	-	Z:-------------	Coord
+4	Sochy	NNFP1-----A----	ExD
+5	v	RR--6----------	AuxP
+6	Horácké	AAFS6----1A----	Atr
+7	galerii	NNFS6-----A----	Atr
+8	(	Z:-------------	ExD
+9	do	RR--2----------	AuxP
+10	12	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	9	C=-------------	ExD
+13	.	Z:-------------	AuxG
+14	)	Z:-------------	ExD
+
+mf930713-002-p26s1A
+1	Osová	AAFS1----1A----	Atr
+2	Bítýška	NNFS1-----A----	ExD
+3	(	Z:-------------	AuxG
+4	Vlkov	NNIS1-----A----	Atr
+5	)	Z:-------------	AuxG
+6	:	Z:-------------	AuxK
+
+mf930713-002-p26s1B
+1	Marian	NNMS1-----A----	Atr
+2	Palla	NNMS1-----A----	ExD
+3	a	J^-------------	Coord
+4	Přírůstky	NNIP1-----A----	ExD
+5	autorská	AAFS1----1A----	Atr
+6	výstava	NNFS1-----A----	ExD
+7	a	J^-------------	Coord
+8	okruh	NNIS1-----A----	ExD
+9	autorů	NNMP2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Galerii	NNFS6-----A----	ExD
+12	Sýpka	NNFS1-----A----	Atr
+13	(	Z:-------------	ExD
+14	do	RR--2----------	AuxP
+15	15	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	8	C=-------------	ExD
+18	.	Z:-------------	AuxG
+19	)	Z:-------------	ExD
+
+mf930713-002-p27s1C
+1	Veselí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Moravou	NNFS7-----A----	Atr
+4	:	Z:-------------	AuxK
+
+mf930713-002-p27s1B
+1	Současná	AAFS1----1A----	Atr
+2	grafika	NNFS1-----A----	ExD
+3	(	Z:-------------	Apos
+4	Roučka	NNMS1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	Bláha	NNMS1-----A----	ExD
+7	,	Z:-------------	AuxX
+8	Brázda	NNMS1-----A----	ExD
+9	,	Z:-------------	AuxX
+10	Suchánek	NNMS1-----A----	ExD
+11	,	Z:-------------	AuxX
+12	Anderle	NNMS1-----A----	ExD
+13	,	Z:-------------	AuxX
+14	Vožniak	NNMS1-----A----	ExD
+15	,	Z:-------------	AuxX
+16	Brunovský	NNMS1-----A----	ExD
+17	,	Z:-------------	AuxX
+18	Komárek	NNMS1-----A----	ExD
+19	,	Z:-------------	AuxX
+20	Hašková	NNFS1-----A----	ExD
+21	,	Z:-------------	AuxX
+22	Šalomoun	NNMS1-----A----	ExD
+23	,	Z:-------------	AuxX
+24	Demel	NNMS1-----A----	ExD
+25	,	Z:-------------	AuxX
+26	Chaba	NNMS1-----A----	ExD
+27	,	Z:-------------	AuxX
+28	Zoubek	NNMS1-----A----	ExD
+29	,	Z:-------------	AuxX
+30	Hadincová	NNFS1-----A----	ExD
+31	,	Z:-------------	AuxX
+32	Boštík	NNMS1-----A----	ExD
+33	,	Z:-------------	AuxX
+34	Rittstein	NNMS1-----A----	ExD
+35	,	Z:-------------	Coord
+36	Nepraš	NNMS1-----A----	ExD
+37	)	Z:-------------	AuxG
+38	v	RR--6----------	AuxP
+39	Galerii	NNFS6-----A----	ExD
+40	ve	RV--6----------	AuxP
+41	dvoře	NNIS6-----A----	Atr
+42	(	Z:-------------	ExD
+43	do	RR--2----------	AuxP
+44	30	C=-------------	Atr
+45	.	Z:-------------	AuxG
+46	7	C=-------------	ExD
+47	.	Z:-------------	AuxG
+48	)	Z:-------------	ExD
+
+mf930713-002-p28s1C
+1	Zlín	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p28s1B
+1	Út	NNNXX-----A----	ExD
+2	13	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	vernisáž	NNFS1-----A----	ExD
+7	výstavy	NNFS2-----A----	Atr
+8	Eduard	NNMS1-----A----	Atr
+9	Ovčáček	NNMS1-----A----	Atr
+10	-	Z:-------------	Apos
+11	výběr	NNIS1-----A----	Atr
+12	z	RR--2----------	AuxP
+13	díla	NNNS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Domě	NNIS6-----A----	ExD
+16	umění	NNNS2-----A----	Atr
+17	Státní	AAFS2----1A----	Atr
+18	galerie	NNFS2-----A----	Atr
+19	(	Z:-------------	ExD
+20	do	RR--2----------	AuxP
+21	22	C=-------------	Atr
+22	.	Z:-------------	AuxG
+23	8	C=-------------	ExD
+24	.	Z:-------------	AuxG
+25	)	Z:-------------	ExD
+
+mf930713-002-p29s1C
+1	Zlín	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p29s1B
+1	Robert	NNMS1-----A----	Atr
+2	Venturi	NNMS1-----A----	ExD
+3	-	Z:-------------	Apos
+4	architektonická	AAFS1----1A----	Atr
+5	tvorba	NNFS1-----A----	ExD
+6	v	RR--6----------	AuxP
+7	Grafickém	AAIS6----1A----	Atr
+8	kabinetu	NNIS6-----A---1	ExD
+9	2	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	poschodí	NNNS1-----A----	ExD
+12	zlínského	AAIS2----1A----	Atr
+13	zámku	NNIS2-----A----	Atr
+14	(	Z:-------------	ExD
+15	do	RR--2----------	AuxP
+16	29	C=-------------	Atr
+17	.	Z:-------------	AuxG
+18	8	C=-------------	ExD
+19	.	Z:-------------	AuxG
+20	)	Z:-------------	ExD
+
+mf930713-002-p30s1C
+1	Zlín	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p30s1B
+1	Stálá	AAFS1----1A----	Atr
+2	expozice	NNFS1-----A----	ExD
+3	českého	AANS2----1A----	Atr
+4	malířství	NNNS2-----A----	Atr
+5	a	J^-------------	Coord
+6	sochařství	NNNS2-----A----	Atr
+7	20	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	století	NNNS2-----A----	Atr
+10	ze	RV--2----------	AuxP
+11	sbírek	NNFP2-----A----	AtrAtr
+12	Státní	AAFS2----1A----	Atr
+13	galerie	NNFS2-----A----	Atr
+
+mf930713-002-p31s1
+1	VÝSTAVNÍ	AAFP1----1A----	Atr
+2	SÍNĚ	NNFP1-----A----	ExD
+
+mf930713-002-p32s1A
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p32s1B
+1	Vítejte	Vi-P---2--A----	Pred
+2	v	RR--6----------	AuxP
+3	královském	AANS6----1A----	Atr
+4	městě	NNNS6-----A----	Adv
+5	v	RR--6----------	AuxP
+6	nově	Dg-------1A----	Adv
+7	otevřené	AAFS6----1A----	Atr
+8	západní	AAFS6----1A----	Atr
+9	části	NNFS6-----A----	Adv
+10	hradu	NNIS2-----A----	Atr
+11	Špilberk	NNIS1-----A----	Atr
+12	(	Z:-------------	ExD
+13	do	RR--2----------	AuxP
+14	31	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	7	C=-------------	ExD
+17	.	Z:-------------	AuxG
+18	)	Z:-------------	ExD
+
+mf930713-002-p33s1A
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p33s1B
+1	Objevte	Vi-P---2--A----	Pred
+2	kouzlo	NNNS4-----A----	Obj
+3	starých	AAFP2----1A----	Atr
+4	loutek	NNFP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	letohrádku	NNIS6-----A----	Adv
+7	Mitrovských	NNMP2-----A----	Atr
+8	(	Z:-------------	ExD
+9	do	RR--2----------	AuxP
+10	31	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	7	C=-------------	ExD
+13	.	Z:-------------	AuxG
+14	)	Z:-------------	ExD
+
+mf930713-002-p34s1A
+1	Rudka	NNFS1-----A----	ExD
+2	u	RR--2----------	AuxP
+3	Kunštátu	NNIS2-----A----	Atr
+4	:	Z:-------------	AuxK
+
+mf930713-002-p34s1B
+1	Sochařské	AANS1----1A----	Atr
+2	sympozium	NNNS1-----A----	ExD
+3	-	Z:-------------	Apos
+4	stálá	AAFS1----1A----	Atr
+5	,	Z:-------------	AuxX
+6	doplňovaná	AAFS1----1A----	Atr
+7	expozice	NNFS1-----A----	ExD
+8	soch	NNFP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	parku	NNIS6-----A----	Atr
+11	u	RR--2----------	AuxP
+12	Jeskyně	NNFS2-----A----	Atr
+13	blanických	AAMP2----1A----	Atr
+14	rytířů	NNMP2-----A----	Atr
+
+mf930713-002-p35s1A
+1	Třebíč	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p35s1B
+1	St	NNFXX-----A----	ExD
+2	14	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	18.00	C=-------------	ExD
+
+mf930713-002-p35s2
+1	Josef	NNMS1-----A----	Atr
+2	Hampela	NNMS1-----A----	ExD
+3	-	Z:-------------	AuxG
+4	Šité	AAFP1----1A----	Atr
+5	koláže	NNFP1-----A----	ExD
+6	z	RR--2----------	AuxP
+7	cyklu	NNIS2-----A----	Atr
+8	Dopisy	NNIP1-----A----	Atr
+9	v	RR--6----------	AuxP
+10	Malovaném	AAIS6----1A----	Atr
+11	domě	NNIS6-----A----	Atr
+12	(	Z:-------------	ExD
+13	úvodní	AANS1----1A----	Atr
+14	slovo	NNNS1-----A----	ExD
+15	Ladislav	NNMS1-----A----	Atr
+16	Novák	NNMS1-----A----	ExD
+17	)	Z:-------------	ExD
+18	(	Z:-------------	ExD
+19	do	RR--2----------	AuxP
+20	22	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	8	C=-------------	ExD
+23	.	Z:-------------	AuxG
+24	)	Z:-------------	ExD
+
+mf930713-002-p36s1C
+1	Moravský	AAIS1----1A----	Atr
+2	Krumlov	NNIS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+mf930713-002-p36s1B
+1	Muchova	AUFS1M---------	Atr
+2	Slovanská	AAFS1----1A----	Atr
+3	epopej	NNFS1-----A----	ExD
+4	na	RR--6----------	AuxP
+5	zámku	NNIS6-----A----	ExD
+6	(	Z:-------------	ExD
+7	do	RR--2----------	AuxP
+8	října	NNIS2-----A----	ExD
+9	)	Z:-------------	ExD
+
+mf930713-002-p37s1C
+1	Znojmo	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p37s1B
+1	Malba	NNFS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	papíře	NNIS6-----A----	Atr
+4	(	Z:-------------	Apos
+5	ateliér	NNIS1-----A----	Sb
+6	prof	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Františka	NNMS2-----A----	Atr
+9	Hodonského	NNMS2-----A----	Atr
+10	AVU	NNFXX-----A---8	Atr
+11	Praha	NNFS1-----A----	Atr
+12	vystavuje	VB-S---3P-AA---	Pred
+13	v	RR--6----------	AuxP
+14	Domě	NNIS6-----A----	Adv
+15	umění	NNNS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	do	RR--2----------	AuxP
+18	8	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	8	C=-------------	Adv
+21	.	Z:-------------	AuxG
+22	)	Z:-------------	AuxG
+
+mf930713-002-p38s1
+1	MUZEA	NNNP1-----A----	ExD
+
+mf930713-002-p39s1C
+1	Blansko	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p39s1B
+1	295	C=-------------	ExD
+2	let	NNNP2-----A----	Atr
+3	blanenských	AAFP2----1A----	Atr
+4	železáren	NNFP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Muzeu	NNNS6-----A----	ExD
+7	(	Z:-------------	ExD
+8	do	RR--2----------	AuxP
+9	30	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	9	C=-------------	ExD
+12	.	Z:-------------	AuxG
+13	)	Z:-------------	ExD
+
+mf930713-002-p40s1A
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p40s1B
+1	Brno	NNNS1-----A----	ExD
+2	a	J^-------------	Coord
+3	čas	NNIS1-----A----	ExD
+4	-	Z:-------------	Apos
+5	město	NNNS1-----A----	ExD
+6	a	J^-------------	Coord
+7	lidé	NNMP1-----A---1	ExD
+8	očima	NNFD7-----A----	ExD
+9	desetiletí	NNNS2-----A----	Atr
+10	1939	C=-------------	Atr
+11	-	Z:-------------	Coord
+12	1989	C=-------------	Atr
+13	v	RR--6----------	AuxP
+14	Dietrichsteinském	AAIS6----1A----	Atr
+15	paláci	NNIS6-----A----	ExD
+16	Moravského	AANS2----1A----	Atr
+17	zemského	AANS2----1A----	Atr
+18	muzea	NNNS2-----A----	Atr
+19	(	Z:-------------	AuxG
+20	fotografie	NNFP1-----A----	ExD
+21	,	Z:-------------	Coord
+22	pohlednice	NNFP1-----A----	ExD
+23	)	Z:-------------	AuxG
+
+mf930713-002-p41s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p41s1B
+1	Panorama	NNNS1-----A----	ExD
+2	italské	AAIP1----1A----	Atr
+3	Dolomity	NNIP1-----A----	Atr
+4	(	Z:-------------	Apos
+5	stereoskopické	AANS1----1A----	Atr
+6	promítání	NNNS1-----A----	ExD
+7	diapozitivů	NNIP2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Technickém	AANS6----1A----	Atr
+10	muzeu	NNNS6-----A----	Atr
+11	(	Z:-------------	ExD
+12	do	RR--2----------	AuxP
+13	18	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	7	C=-------------	ExD
+16	.	Z:-------------	AuxG
+17	)	Z:-------------	ExD
+
+mf930713-002-p42s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p42s1B
+1	Přírůstky	NNIP1-----A----	ExD
+2	moderního	AANS2----1A----	Atr
+3	užitého	AANS2----1A----	Atr
+4	umění	NNNS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Uměleckoprůmyslovém	AANS6----1A----	Atr
+7	muzeu	NNNS6-----A----	ExD
+8	(	Z:-------------	ExD
+9	do	RR--2----------	AuxP
+10	29	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	8	C=-------------	ExD
+13	.	Z:-------------	AuxG
+14	)	Z:-------------	ExD
+
+mf930713-002-p43s1A
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p43s1B
+1	Sto	NNNS1-----A----	ExD
+2	podob	NNFP2-----A----	Atr
+3	křemene	NNIS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Mramorových	AAIP6----1A----	Atr
+6	sálech	NNIP6-----A----	ExD
+7	Moravského	AANS2----1A----	Atr
+8	zemského	AANS2----1A----	Atr
+9	muzea	NNNS2-----A----	Atr
+10	(	Z:-------------	ExD
+11	do	RR--2----------	AuxP
+12	19	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	9	C=-------------	ExD
+15	.	Z:-------------	AuxG
+16	)	Z:-------------	ExD
+
+mf930713-002-p44s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p44s1B
+1	Zmizelé	AANS1----1A----	Atr
+2	Brno	NNNS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Křížové	AAFS6----1A----	Atr
+5	chodbě	NNFS6-----A----	ExD
+6	Staré	AAFS2----1A----	Atr
+7	radnice	NNFS2-----A----	Atr
+8	Muzea	NNNS2-----A----	Atr
+9	města	NNNS2-----A----	Atr
+10	Brna	NNNS2-----A----	Atr
+11	(	Z:-------------	AuxG
+12	fotografická	AAFS1----1A----	Atr
+13	dokumentace	NNFS1-----A----	ExD
+14	městského	AANS2----1A----	Atr
+15	lapidária	NNNS2-----A----	Atr
+16	,	Z:-------------	Coord
+17	obrazy	NNIP1-----A----	ExD
+18	L	NNMXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	Jaroše	NNMS2-----A----	Atr
+21	)	Z:-------------	AuxG
+22	,	Z:-------------	Coord
+23	(	Z:-------------	ExD
+24	do	RR--2----------	AuxP
+25	31	C=-------------	Atr
+26	.	Z:-------------	AuxG
+27	10	C=-------------	ExD
+28	.	Z:-------------	AuxG
+29	)	Z:-------------	ExD
+
+mf930713-002-p45s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p45s1B
+1	Zvonařství	NNNS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	zemích	NNFP6-----A----	Atr
+4	Koruny	NNFS2-----A----	Atr
+5	české	AAFS2----1A----	Atr
+6	v	RR--6----------	AuxP
+7	Technickém	AANS6----1A----	Atr
+8	muzeu	NNNS6-----A----	ExD
+9	(	Z:-------------	ExD
+10	do	RR--2----------	AuxP
+11	31	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	10	C=-------------	ExD
+14	.	Z:-------------	AuxG
+15	)	Z:-------------	ExD
+
+mf930713-002-p46s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p46s1B
+1	Stálá	AAFS1----1A----	Atr
+2	expozice	NNFS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Technickém	AANS6----1A----	Atr
+5	muzeu	NNNS6-----A----	Atr
+6	(	Z:-------------	Apos
+7	Výpočetní	AAFS1----1A----	Atr
+8	technika	NNFS1-----A----	ExD
+9	,	Z:-------------	AuxX
+10	Lovecké	AAFP1----1A----	Atr
+11	zbraně	NNFP1-----A----	ExD
+12	,	Z:-------------	AuxX
+13	Vodní	AAFS1----1A----	Atr
+14	energetika	NNFS1-----A----	ExD
+15	,	Z:-------------	Coord
+16	Parní	AAIP1----1A----	Atr
+17	motory	NNIP1-----A----	ExD
+18	)	Z:-------------	AuxG
+
+mf930713-002-p47s1C
+1	Prostějov	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p47s1B
+1	TGM	NNMXX-----A---8	ExD
+2	,	Z:-------------	Coord
+3	Prostějov	NNIS1-----A----	ExD
+4	a	J^-------------	Coord
+5	40	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	výročí	NNNS1-----A----	ExD
+8	první	CrFS2----------	Atr
+9	protikomunistické	AAFS2----1A----	Atr
+10	demonstrace	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Československu	NNNS6-----A----	Atr
+13	v	RR--6----------	AuxP
+14	dubnu	NNIS6-----A----	Atr
+15	1953	C=-------------	Atr
+16	v	RR--6----------	AuxP
+17	Muzeu	NNNS6-----A----	ExD
+18	Prostějovska	NNNS2-----A----	Atr
+19	(	Z:-------------	ExD
+20	do	RR--2----------	AuxP
+21	31	C=-------------	Atr
+22	.	Z:-------------	AuxG
+23	10	C=-------------	ExD
+24	.	Z:-------------	AuxG
+25	)	Z:-------------	ExD
+
+mf930713-002-p48s1C
+1	Předkláštěří	NNNS1-----A----	ExD
+2	u	RR--2----------	AuxP
+3	Tišnova	NNIS2-----A----	Atr
+4	:	Z:-------------	AuxK
+
+mf930713-002-p48s1B
+1	Sklo	NNNS1-----A----	ExD
+2	ze	RV--2----------	AuxP
+3	sbírek	NNFP2-----A----	Atr
+4	Horácké	AAFS2----1A----	Atr
+5	galerie	NNFS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Podhoráckém	AANS6----1A----	Atr
+8	muzeu	NNNS6-----A----	ExD
+9	(	Z:-------------	ExD
+10	do	RR--2----------	AuxP
+11	5	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	9	C=-------------	ExD
+14	.	Z:-------------	AuxG
+15	)	Z:-------------	ExD
+
+mf930713-002-p49s1A
+1	Předklášteří	NNNS1-----A----	ExD
+2	u	RR--2----------	AuxP
+3	Tišnova	NNIS2-----A----	Atr
+4	:	Z:-------------	AuxK
+
+mf930713-002-p49s1B
+1	Podívejte	Vi-P---2--A----	Pred
+2	se	P7-X4----------	AuxT
+3	jim	PPXP3--3-------	AuxO
+4	do	RR--2----------	AuxP
+5	očí	NNFP2-----A----	Adv
+6	v	RR--6----------	AuxP
+7	Podhoráckém	AANS6----1A----	Atr
+8	muzeu	NNNS6-----A----	Adv
+9	(	Z:-------------	ExD
+10	ke	RV--3----------	AuxP
+11	40	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	výročí	NNNS3-----A----	ExD
+14	otevření	NNNS2-----A----	Atr
+15	zoo	NNNXX-----A----	Atr
+16	Brno	NNNS1-----A----	Atr
+17	)	Z:-------------	ExD
+18	,	Z:-------------	Coord
+19	(	Z:-------------	ExD
+20	do	RR--2----------	AuxP
+21	3	C=-------------	Atr
+22	.	Z:-------------	AuxG
+23	10	C=-------------	ExD
+24	.	Z:-------------	AuxG
+25	)	Z:-------------	ExD
+
+mf930713-002-p50s1C
+1	Strážnice	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p50s1B
+1	Generace	NNFS1-----A----	ExD
+2	Sdružení	NNNS2-----A----	Atr
+3	výtvarných	AAMP2----1A----	Atr
+4	umělců	NNMP2-----A----	Atr
+5	moravských	AAMP2----1A----	Atr
+6	II	C}-------------	Atr
+7	.	Z:-------------	AuxG
+8	na	RR--6----------	AuxP
+9	zámku	NNIS6-----A----	ExD
+10	(	Z:-------------	ExD
+11	ze	RV--2----------	AuxP
+12	sbírek	NNFP2-----A----	ExD
+13	Galerie	NNFS2-----A----	Atr
+14	výtvarného	AANS2----1A----	Atr
+15	umění	NNNS2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	Hodoníně	NNIS6-----A----	Atr
+18	)	Z:-------------	ExD
+19	,	Z:-------------	Coord
+20	(	Z:-------------	ExD
+21	do	RR--2----------	AuxP
+22	15	C=-------------	Atr
+23	.	Z:-------------	AuxG
+24	7	C=-------------	ExD
+25	.	Z:-------------	AuxG
+26	)	Z:-------------	ExD
+
+mf930713-002-p51s1C
+1	Strážnice	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p51s1B
+1	Česká	AAFS1----1A----	Atr
+2	loutkářská	AAFS1----1A----	Atr
+3	tvorba	NNFS1-----A----	ExD
+4	na	RR--6----------	AuxP
+5	zámku	NNIS6-----A----	ExD
+6	(	Z:-------------	ExD
+7	do	RR--2----------	AuxP
+8	31	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	10	C=-------------	ExD
+11	.	Z:-------------	AuxG
+12	)	Z:-------------	ExD
+
+mf930713-002-p52s1C
+1	Uherský	AAIS1----1A----	Atr
+2	Brod	NNIS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+mf930713-002-p52s1B
+1	Slovenské	AAFP1----1A----	Atr
+2	loutky	NNFP1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Muzeu	NNNS6-----A----	ExD
+5	J	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	A	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Komenského	NNMS2-----A----	Atr
+10	(	Z:-------------	ExD
+11	do	RR--2----------	AuxP
+12	25	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	7	C=-------------	ExD
+15	.	Z:-------------	AuxG
+16	)	Z:-------------	ExD
+
+mf930713-002-p53s1C
+1	Uherské	AANS1----1A----	Atr
+2	Hradiště	NNNS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+mf930713-002-p53s1B
+1	Don	NNMS1-----A----	Atr
+2	Quijote	NNMXX-----A----	ExD
+3	v	RR--6----------	AuxP
+4	české	AAFS6----1A----	Atr
+5	grafice	NNFS6-----A----	Atr
+6	ve	RV--6----------	AuxP
+7	Slováckém	AANS6----1A----	Atr
+8	muzeu	NNNS6-----A----	ExD
+9	-	Z:-------------	Coord
+10	ze	RV--2----------	AuxP
+11	soukromé	AAFS2----1A----	Atr
+12	sbírky	NNFS2-----A----	ExD
+13	(	Z:-------------	ExD
+14	do	RR--2----------	AuxP
+15	31	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	8	C=-------------	ExD
+18	.	Z:-------------	AuxG
+19	)	Z:-------------	ExD
+
+mf930713-002-p54s1C
+1	Uherské	AANS1----1A----	Atr
+2	Hradiště	NNNS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+mf930713-002-p54s1B
+1	Světci	NNMP1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	lidovém	AAIS6----1A----	Atr
+4	kalendáři	NNIS6-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	Slováckém	AANS6----1A----	Atr
+7	muzeu	NNNS6-----A----	ExD
+8	(	Z:-------------	ExD
+9	do	RR--2----------	AuxP
+10	30	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	10	C=-------------	ExD
+13	.	Z:-------------	AuxG
+14	)	Z:-------------	ExD
+
+mf930713-002-p55s1
+1	LETNÍ	AAIP1----1A----	Atr
+2	AREÁLY	NNIP1-----A----	ExD
+
+mf930713-002-p56s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p56s1B
+1	St	NNFXX-----A----	ExD
+2	14	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	19.00	C=-------------	ExD
+
+mf930713-002-p56s2
+1	Iva	NNFS1-----A----	Atr
+2	Bittová	NNFS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	nádvoří	NNNS6-----A----	ExD
+5	Staré	AAFS2----1A----	Atr
+6	radnice	NNFS2-----A----	Atr
+7	(	Z:-------------	AuxG
+8	pořádá	VB-S---3P-AA---	ExD
+9	DAVAY	NNFXX-----A----	Sb
+10	)	Z:-------------	AuxG
+
+mf930713-002-p57s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p57s1B
+1	St	NNFXX-----A----	ExD
+2	14	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	20.00	C=-------------	ExD
+
+mf930713-002-p57s2
+1	Zrcadlo	NNNS1-----A----	ExD
+2	věků	NNIP2-----A----	Atr
+3	-	Z:-------------	Apos
+4	od	RR--2----------	AuxP
+5	historických	AAIP2----1A----	Atr
+6	tanců	NNIP2-----A----	ExD
+7	k	RR--3----------	AuxP
+8	modernímu	AAIS3----1A----	Atr
+9	baletu	NNIS3-----A----	ExD
+10	na	RR--6----------	AuxP
+11	Hradní	AAFS6----1A----	Atr
+12	baště	NNFS6-----A----	ExD
+13	Špilberku	NNIS2-----A----	Atr
+14	(	Z:-------------	ExD
+15	vystoupení	NNNP1-----A----	ExD
+16	na	RR--6----------	AuxP
+17	Špilberku	NNIS6-----A----	Atr
+18	do	RR--2----------	AuxP
+19	1	C=-------------	Atr
+20	.	Z:-------------	AuxG
+21	9	C=-------------	ExD
+22	.	Z:-------------	AuxG
+23	v	RR--6----------	AuxP
+24	rámci	NNIS6-----A----	AuxP
+25	FESTIVALU	NNIS2-----A----	ExD
+26	HRADNÍ	AAFS1----1A----	Atr
+27	BAŠTA	NNFS1-----A----	Atr
+28	93	C=-------------	Atr
+29	)	Z:-------------	ExD
+
+mf930713-002-p58s1C
+1	Brno	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p58s1B
+1	Čt	NNIXX-----A----	ExD
+2	15	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	20.00	C=-------------	ExD
+
+mf930713-002-p58s2
+1	Vaganti	NNMP1-----A----	ExD
+2	z	RR--2----------	AuxP
+3	Brna	NNNS2-----A----	Atr
+4	-	Z:-------------	Apos
+5	koncert	NNIS1-----A----	ExD
+6	kvinteta	NNNS2-----A----	Atr
+7	historických	AAFP2----1A----	Atr
+8	folkových	AAFP2----1A----	Atr
+9	písní	NNFP2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	Hradní	AAFS6----1A----	Atr
+12	baště	NNFS6-----A----	ExD
+13	Špilberku	NNIS2-----A----	Atr
+14	(	Z:-------------	ExD
+15	po	RR--6----------	AuxP
+16	úspěšném	AANS6----1A----	Atr
+17	vystoupení	NNNS6-----A----	ExD
+18	na	RR--6----------	AuxP
+19	strážnickém	AAIS6----1A----	Atr
+20	festivalu	NNIS6-----A---1	Atr
+21	)	Z:-------------	ExD
+
+mf930713-002-p59s1C
+1	Brno	NNNS1-----A----	ExD
+
+mf930713-002-p59s1B
+1	So	NNFXX-----A---8	ExD
+2	17	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	20.00	C=-------------	ExD
+
+mf930713-002-p59s2
+1	Proč	Db-------------	ExD
+2	ne	TT-------------	AuxZ
+3	-	Z:-------------	Apos
+4	recitál	NNIS1-----A----	ExD
+5	ostravské	AAFS2----1A----	Atr
+6	folkové	AAFS2----1A----	Atr
+7	skupiny	NNFS2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	Hradní	AAFS6----1A----	Atr
+10	baště	NNFS6-----A----	ExD
+11	Špilberku	NNIS2-----A----	Atr
+
+mf930713-002-p60s1A
+1	Plumlov	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf930713-002-p60s1D
+1	Plumlovská	AAFS1----1A----	Atr
+2	přehrada	NNFS1-----A----	ExD
+3	(	Z:-------------	AuxG
+4	Prostějovsko	NNNS1-----A----	Atr
+5	)	Z:-------------	AuxG
+
+mf930713-002-p60s1C
+1	Folkové	AANS1----1A----	Atr
+2	léto	NNNS1-----A----	ExD
+3	93	C=-------------	Atr
+4	na	RR--6----------	AuxP
+5	pláži	NNFS6-----A----	ExD
+6	Pod	RR--7----------	AuxP
+7	panelem	NNIS7-----A----	Atr
+8	:	Z:-------------	AuxK
+
+mf930713-002-p61s1
+1	So	NNFXX-----A---8	ExD
+2	17	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	20.00	C=-------------	ExD
+
+mf930713-002-p61s2
+1	Pavel	NNMS1-----A----	Atr
+2	Dobeš	NNMS1-----A----	ExD
+
+mf930713-002-p62s1A
+1	Příšťpo	NNNS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	u	RR--2----------	AuxP
+4	Jaroměřic	NNFP2-----A----	Atr
+5	nad	RR--7----------	AuxP
+6	Rokytnou	NNFS7-----A----	Atr
+7	)	Z:-------------	AuxG
+8	:	Z:-------------	AuxK
+
+mf930713-002-p62s1B
+1	Country	NNFXX-----A----	Atr
+2	kolotoč	NNIS1-----A----	ExD
+3	Příšťpo	NNNS1-----A----	Atr
+4	93	C=-------------	Atr
+5	v	RR--6----------	AuxP
+6	přírodním	AAIS6----1A----	Atr
+7	amfiteátru	NNIS6-----A----	ExD
+8	Country	NNFXX-----A----	Atr
+9	Saloonu	NNIS2-----A----	Atr
+10	:	Z:-------------	AuxK
+
+mf930713-002-p63s1
+1	St	NNFXX-----A----	ExD
+2	14	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	18.00	C=-------------	ExD
+
+mf930713-002-p63s2
+1	Krédo	NNNS1-----A----	ExD
+2	z	RR--2----------	AuxP
+3	Moravských	AAFP2----1A----	Atr
+4	Budějovic	NNFP2-----A----	Atr
+
+mf930713-002-p64s1
+1	So	NNFXX-----A---8	ExD
+2	17	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	20.00	C=-------------	ExD
+
+mf930713-002-p64s2
+1	Lháři	NNMP1-----A----	ExD
+2	z	RR--2----------	AuxP
+3	Třebíče	NNFS2-----A----	Atr
+
+mf930713-002-p65s1
+1	KNIHY	NNFP1-----A----	ExD
+2	DOŠLÉ	AAFP1----1A----	Atr
+3	REDAKCI	NNFS3-----A----	Adv
+
+mf930713-002-p66s1
+1	PROGLAS	NNIS1-----A----	ExD
+2	4	C=-------------	Atr
+3	/	Z:-------------	AuxG
+4	93	C=-------------	Atr
+5	-	Z:-------------	Apos
+6	revue	NNFS1-----A----	ExD
+7	pro	RR--4----------	AuxP
+8	politiku	NNFS4-----A----	Atr
+9	a	J^-------------	Coord
+10	kulturu	NNFS4-----A----	Atr
+11	(	Z:-------------	ExD
+12	objednávky	NNFP1-----A----	ExD
+13	Ji	NNNXX-----A----	Atr
+14	-	Z:-------------	AuxG
+15	Pe	NNNXX-----A----	Atr
+16	,	Z:-------------	AuxX
+17	Burdova	AUFS1M---------	Atr
+18	1227	C=-------------	Atr
+19	,	Z:-------------	AuxX
+20	198	C=-------------	Atr
+21	00	C=-------------	Atr
+22	Praha	NNFS1-----A----	Atr
+23	9	C=-------------	Atr
+24	-	Z:-------------	AuxG
+25	Kyje	NNIP1-----A----	Atr
+26	)	Z:-------------	ExD
+
+mf930713-002-p67s1
+1	Soňa	NNFS1-----A----	Atr
+2	Burgetová	NNFS1-----A----	ExD
+3	:	Z:-------------	AuxG
+4	Ohýbej	Vi-S---2--A----	ExD
+5	se	P7-X4----------	AuxT
+6	,	Z:-------------	AuxX
+7	jazýčku	NNIS5-----A----	ExD
+8	.	Z:-------------	AuxK
+9	.	Z:-------------	AuxK
+10	.	Z:-------------	AuxK
+
+mf930713-002-p67s2
+1	(	Z:-------------	ExD
+2	Nakladatelství	NNNS1-----A----	ExD
+3	Albert	NNMS1-----A----	Atr
+4	,	Z:-------------	Coord
+5	Boskovice	NNFP1-----A----	ExD
+
+mf930713-002-p68s1
+1	Rio	NNNS1-----A----	Atr
+2	Preisner	NNMS1-----A----	ExD
+3	:	Z:-------------	AuxG
+4	Americana	NNFS1-----A----	ExD
+5	-	Z:-------------	Apos
+6	zpráva	NNFS1-----A----	ExD
+7	o	RR--6----------	AuxP
+8	velmoci	NNFS6-----A----	Atr
+9	(	Z:-------------	AuxG
+10	II	C}-------------	Atr
+11	.	Z:-------------	AuxK
+12	)	Z:-------------	AuxG
+
+mf930713-002-p68s2
+1	(	Z:-------------	ExD
+2	Atlantis	NNIS1-----A----	ExD
+3	Brno	NNNS1-----A----	Atr
+4	)	Z:-------------	ExD
+
+mf930713-002-p69s1
+1	Prostor	NNIS1-----A----	ExD
+2	-	Z:-------------	Apos
+3	Nezávislá	AAFS1----1N----	Atr
+4	revue	NNFS1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	č	NNNXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	23	C=-------------	Atr
+9	(	Z:-------------	AuxG
+10	Aleš	NNMS1-----A----	Atr
+11	Lederer	NNMS1-----A----	ExD
+12	,	Z:-------------	Coord
+13	Praha	NNFS1-----A----	ExD
+14	)	Z:-------------	AuxG
+15	,	Z:-------------	Coord
+16	objednávky	NNFP1-----A----	ExD
+17	:	Z:-------------	AuxG
+18	Prostor	NNIS1-----A----	ExD
+19	-	Z:-------------	AuxG
+20	odbyt	NNIS1-----A----	Atr
+21	,	Z:-------------	AuxX
+22	Na	RR--6----------	AuxP
+23	zelené	AAFS6----1A----	Atr
+24	stezce	NNFS6-----A----	ExD
+25	138	C=-------------	Atr
+26	,	Z:-------------	Coord
+27	383	C=-------------	Atr
+28	01	C=-------------	Atr
+29	Prachatice	NNFP1-----A----	ExD
+
+mf930713-002-p70s1
+1	Revolver	NNIS1-----A----	Atr
+2	Revue	NNFS1-----A----	ExD
+3	-	Z:-------------	Apos
+4	časopis	NNIS1-----A----	ExD
+5	pro	RR--4----------	AuxP
+6	literaturu	NNFS4-----A----	Atr
+7	a	J^-------------	Coord
+8	výtvarné	AANS4----1A----	Atr
+9	umění	NNNS4-----A----	Atr
+10	,	Z:-------------	AuxX
+11	č	NNNXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	22	C=-------------	Atr
+14	(	Z:-------------	ExD
+15	Jáchym	NNMS1-----A----	Atr
+16	Topol	NNMS1-----A----	ExD
+17	)	Z:-------------	ExD
+18	,	Z:-------------	Coord
+19	objednávky	NNFP1-----A----	ExD
+20	:	Z:-------------	AuxG
+21	Bolzanova	AUFS1M---------	ExD
+22	7	C=-------------	Atr
+23	,	Z:-------------	Coord
+24	Praha	NNFS1-----A----	ExD
+25	1	C=-------------	Atr
+26	)	Z:-------------	AuxG
+
+mf930713-002-p71s1
+1	Ludvík	NNMS1-----A----	Atr
+2	Kundera	NNMS1-----A----	ExD
+3	:	Z:-------------	AuxK
+4	Řečiště	NNNS1-----A----	ExD
+5	(	Z:-------------	ExD
+6	Rovnost	NNFS1-----A----	ExD
+7	Brno	NNNS1-----A----	Atr
+8	)	Z:-------------	ExD
+
+mf930713-002-p72s1
+1	Jaroslav	NNMS1-----A----	Atr
+2	Durych	NNMS1-----A----	ExD
+3	:	Z:-------------	AuxK
+4	Bloudění	NNNS1-----A----	ExD
+5	(	Z:-------------	ExD
+6	Atlantis	NNIS1-----A----	ExD
+7	Brno	NNNS1-----A----	Atr
+8	)	Z:-------------	ExD
+
+mf930713-002-p73s1
+1	Slovníček	NNIS1-----A----	ExD
+2	současných	AAMP2----1A----	Atr
+3	brněnských	AAMP2----1A----	Atr
+4	spisovatelů	NNMP2-----A----	Atr
+5	(	Z:-------------	ExD
+6	Mahenova	AUFS1M---------	Atr
+7	knihovna	NNFS1-----A----	ExD
+8	Brno	NNNS1-----A----	Atr
+9	)	Z:-------------	ExD
+
+mf930713-002-p74s1
+1	Brno	NNNS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	krásné	AAFS6----1A----	Atr
+4	literatuře	NNFS6-----A----	Atr
+5	(	Z:-------------	ExD
+6	Mahenova	AUFS1M---------	Atr
+7	knihovna	NNFS1-----A----	ExD
+8	Brno	NNNS1-----A----	Atr
+9	)	Z:-------------	ExD
+
+mf930713-002-p75s1
+1	Dějiny	NNFP1-----A----	ExD
+2	USA	NNIPX-----A----	Atr
+3	v	RR--6----------	AuxP
+4	krásné	AAFS6----1A----	Atr
+5	próze	NNFS6-----A----	Atr
+6	(	Z:-------------	ExD
+7	Mahenova	AUFS1M---------	Atr
+8	knihovna	NNFS1-----A----	ExD
+9	Brno	NNNS1-----A----	Atr
+10	)	Z:-------------	ExD
+
+mf930713-002-p76s1
+1	SERVIS	NNIS1-----A----	ExD
+
+mf930713-002-p77s1
+1	Bezplatná	AAFS1----1A----	Atr
+2	služba	NNFS1-----A----	ExD
+3	pro	RR--4----------	AuxP
+4	kulturní	AAFP4----1A----	Atr
+5	instituce	NNFP4-----A----	Atr
+6	.	Z:-------------	AuxK
+
+mf930713-002-p77s2
+1	Informace	NNFP4-----A----	Obj
+2	posílejte	Vi-P---2--A----	Pred
+3	na	RR--4----------	AuxP
+4	adresu	NNFS4-----A----	Adv
+5	:	Z:-------------	AuxG
+6	MF	NNFXX-----A---8	Atr
+7	DNES	Db-------------	Atr
+8	,	Z:-------------	AuxX
+9	Česká	AAFS1----1A----	Atr
+10	19	C=-------------	Atr
+11	/	Z:-------------	AuxG
+12	21	C=-------------	Atr
+13	,	Z:-------------	Coord
+14	602	C=-------------	Atr
+15	00	C=-------------	Atr
+16	Brno	NNNS1-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-002-p78s1
+1	Zařadit	Vf--------A----	Obj
+2	můžeme	VB-P---1P-AA---	Pred
+3	jen	TT-------------	AuxZ
+4	oznámení	NNNP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	která	P4NP1----------	Sb
+7	jsou	VB-P---3P-AA---	AuxV
+8	na	RR--4----------	AuxP
+9	uvedenou	AAFS4----1A----	Atr
+10	adresu	NNFS4-----A----	Adv
+11	doručena	VsQW---XX-AP---	Atr
+12	do	RR--2----------	AuxP
+13	čtvrtka	NNIS2-----A---1	Adv
+14	,	Z:-------------	AuxX
+15	tj	J^------------8	Apos
+16	.	Z:-------------	AuxG
+17	6	C=-------------	Adv
+18	dnů	NNIP2-----A----	Atr
+19	před	RR--7----------	AuxP
+20	příští	AAFS7----1A----	Atr
+21	přílohou	NNFS7-----A----	Atr
+22	PLUS	NNIS1-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf930713-002-p80s1
+1	ČESKÁ	AAFS1----1A----	Atr
+2	TELEVIZE	NNFS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	studio	NNNS1-----A----	Atr
+5	Brno	NNNS1-----A----	Atr
+
+mf930713-002-p81s1
+1	St	NNFXX-----A----	ExD
+2	14	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	9.55	C=-------------	ExD
+
+mf930713-002-p81s2C
+1	ČT	NNFXX-----A---8	ExD
+2	2	C=-------------	Atr
+
+mf930713-002-p81s2B
+1	Mona	NNFS1-----A----	Atr
+2	Lisa	NNFS1-----A----	ExD
+3	Post	NNXXX-----A----	Atr
+4	film	NNIS1-----A----	Atr
+5	o	RR--6----------	AuxP
+6	výtvarné	AAFS6----1A----	Atr
+7	akci	NNFS6-----A----	Atr
+8	Mona	NNFS1-----A----	Atr
+9	Lisa	NNFS1-----A----	Atr
+10	mail	NNIXX-----A----	Atr
+11	-	Z:-------------	AuxG
+12	art	NNISX-----A----	Atr
+13	v	RR--6----------	AuxP
+14	brněnské	AAFS6----1A----	Atr
+15	Galerii	NNFS6-----A----	Atr
+16	mladých	NNMP2-----A----	Atr
+17	(	Z:-------------	AuxG
+18	v	RR--4----------	AuxP
+19	tyto	PDIP4----------	Atr
+20	dny	NNIP4-----A----	Adv
+21	výstava	NNFS1-----A----	Sb
+22	probíhá	VB-S---3P-AA---	Pred
+23	v	RR--6----------	AuxP
+24	Galerii	NNFS6-----A----	Adv
+25	J	NNMXX-----A---8	Atr
+26	.	Z:-------------	AuxG
+27	Matičky	NNMS2-----A----	Atr
+28	v	RR--6----------	AuxP
+29	Domě	NNIS6-----A----	AtrAdv
+30	rytířů	NNMP2-----A----	Atr
+31	v	RR--6----------	AuxP
+32	Litomyšli	NNFS6-----A----	AtrAtr
+33	)	Z:-------------	AuxG
+
+mf930713-002-p82s1
+1	St	NNFXX-----A----	ExD
+2	14	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	10.05	C=-------------	ExD
+
+mf930713-002-p82s2C
+1	ČT	NNFXX-----A---8	ExD
+2	1	C=-------------	Atr
+
+mf930713-002-p82s2B
+1	Argumenty	NNIP1-----A----	ExD
+2	-	Z:-------------	Apos
+3	Stavět	Vf--------A----	Pred
+4	či	J^-------------	Coord
+5	nestavět	Vf--------N----	Pred
+6	(	Z:-------------	AuxG
+7	solární	AAFS1----1A----	Atr
+8	energie	NNFS1-----A----	ExD
+9	,	Z:-------------	AuxX
+10	obnova	NNFS1-----A----	ExD
+11	vesnice	NNFS2-----A----	Atr
+12	,	Z:-------------	Coord
+13	cenné	AAFP1----1A----	Atr
+14	rady	NNFP1-----A----	ExD
+15	pro	RR--4----------	AuxP
+16	budoucí	AAMP4----1A----	Atr
+17	stavebníky	NNMP4-----A----	Atr
+18	)	Z:-------------	AuxG
+
+mf930713-002-p83s1
+1	Čt	NNIXX-----A----	ExD
+2	15	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	18.40	C=-------------	ExD
+
+mf930713-002-p83s2C
+1	ČT	NNFXX-----A---8	ExD
+2	1	C=-------------	Atr
+
+mf930713-002-p83s2B
+1	Jugoslávie	NNFS1-----A----	ExD
+2	očima	NNFD7-----A----	ExD
+3	.	Z:-------------	AuxK
+4	.	Z:-------------	AuxK
+5	.	Z:-------------	AuxK
+
+mf930713-002-p83s3
+1	(	Z:-------------	ExD
+2	o	RR--6----------	AuxP
+3	exulantství	NNNS6-----A----	ExD
+4	jihoslovanských	AAIP2----1A----	Atr
+5	národů	NNIP2-----A----	Atr
+6	od	RR--2----------	AuxP
+7	r	NNIXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	1585	C=-------------	Atr
+10	po	RR--4----------	AuxP
+11	současnost	NNFS4-----A----	Atr
+12	)	Z:-------------	ExD
+
+mf930713-002-p84s1
+1	RÁDIO	NNNS1-----A----	ExD
+2	HÁDY	NNIP1-----A----	Atr
+3	BRNO	NNNS1-----A----	Atr
+4	-	Z:-------------	AuxG
+5	93.1	C=-------------	ExD
+6	MHz	NNIXX-----A---8	Atr
+
+mf930713-002-p85s1
+1	DENNÍ	AAIS1----1A----	Atr
+2	PROGRAM	NNIS1-----A----	ExD
+3	:	Z:-------------	AuxK
+
+mf930713-002-p86s1
+1	5.45	C=-------------	ExD
+2	a	J^-------------	Coord
+3	6.45	C=-------------	ExD
+4	Pohádka	NNFS1-----A----	ExD
+5	na	RR--4----------	AuxP
+6	dobré	AANS4----1A----	Atr
+7	vstávání	NNNS4-----A----	Atr
+8	(	Z:-------------	ExD
+9	po	NNNXX-----A---8	ExD
+10	-	Z:-------------	Coord
+11	so	NNFXX-----A---8	ExD
+12	)	Z:-------------	ExD
+
+mf930713-002-p87s1
+1	6.00	C=-------------	ExD
+2	.	Z:-------------	AuxG
+3	7.00	C=-------------	ExD
+4	8.00	C=-------------	Atr
+
+mf930713-002-p87s2
+1	Zprávy	NNFP1-----A----	ExD
+2	(	Z:-------------	ExD
+3	po	NNNXX-----A---8	ExD
+4	-	Z:-------------	Coord
+5	pá	NNIXX-----A----	ExD
+6	)	Z:-------------	ExD
+
+mf930713-002-p88s1
+1	7.15	C=-------------	ExD
+2	Krutá	AAFS1----1A----	Atr
+3	zákruta	NNFS1-----A----	ExD
+4	(	Z:-------------	ExD
+5	po	NNNXX-----A---8	ExD
+6	-	Z:-------------	Coord
+7	pá	NNIXX-----A----	ExD
+8	)	Z:-------------	ExD
+9	-	Z:-------------	Apos
+10	informace	NNFP1-----A----	ExD
+11	o	RR--6----------	AuxP
+12	dopravní	AAFS6----1A----	Atr
+13	situaci	NNFS6-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Brně	NNNS6-----A----	Atr
+
+mf930713-002-p89s1
+1	8.15	C=-------------	ExD
+2	Kursovní	AAIS1----1A----	Atr
+3	lístek	NNIS1-----A----	ExD
+
+mf930713-002-p90s1
+1	9.00	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	10.00	C=-------------	ExD
+4	Zpravodajský	AAIS1----1A----	Atr
+5	magazín	NNIS1-----A----	ExD
+6	(	Z:-------------	ExD
+7	po	NNNXX-----A---8	ExD
+8	-	Z:-------------	Coord
+9	pá	NNIXX-----A----	ExD
+10	)	Z:-------------	ExD
+
+mf930713-002-p91s1
+1	13.00	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	14.00	C=-------------	ExD
+4	Oldies	NNXPX-----A----	ExD
+
+mf930713-002-p92s1
+1	14.15	C=-------------	ExD
+2	Kursovní	AAIS1----1A----	Atr
+3	lístek	NNIS1-----A----	ExD
+4	(	Z:-------------	ExD
+5	po	NNNXX-----A---8	ExD
+6	,	Z:-------------	Coord
+7	st	NNFXX-----A----	ExD
+8	-	Z:-------------	Coord
+9	pá	NNIXX-----A----	ExD
+10	)	Z:-------------	ExD
+
+mf930713-002-p93s1
+1	15.00	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	18.00	C=-------------	ExD
+4	Nebudete	VB-P---2F-NA---	AuxV
+5	se	P7-X4----------	AuxT
+6	nudit	Vf--------A----	Pred
+7	(	Z:-------------	Apos
+8	magazín	NNIS1-----A----	ExD
+9	kulturních	AAFP2----1A----	Atr
+10	aktualit	NNFP2-----A----	Atr
+11	)	Z:-------------	AuxG
+
+mf930713-002-p94s1
+1	23.00	C=-------------	ExD
+2	Kultura	NNFS1-----A----	ExD
+3	z	RR--2----------	AuxP
+4	rychlíku	NNIS2-----A----	Atr
+5	(	Z:-------------	Apos
+6	tipy	NNIP1-----A----	ExD
+7	na	RR--4----------	AuxP
+8	zítřek	NNIS4-----A----	Atr
+9	)	Z:-------------	AuxG
+

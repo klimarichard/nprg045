@@ -1,0 +1,136 @@
+mf930713-094-p1s1
+1	Soukromníci	NNMP1-----A----	Sb
+2	platí	VB-P---3P-AA---	Pred
+3	tisícové	AAIP4----1A----	Atr
+4	poplatky	NNIP4-----A----	Adv
+5	za	RR--4----------	AuxP
+6	získání	NNNS4-----A----	AdvAtr
+7	koncese	NNFS2-----A----	Atr
+
+mf930713-094-p2s1A
+1	České	AAFP1----1A----	Atr
+2	Budějovice	NNFP1-----A----	ExD
+3	(	Z:-------------	ExD
+4	ria	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+mf930713-094-p2s1B
+1	Přes	RR--4----------	AuxP
+2	třicet	Cn-S4----------	Sb
+3	podnikatelů	NNMP2-----A----	Atr
+4	Českobudějovicka	NNNS2-----A----	Atr
+5	už	Db-------------	Adv
+6	zaplatilo	VpNS---XR-AA---	Pred
+7	pět	Cn-S4----------	Obj
+8	až	J^-------------	Coord
+9	deset	Cn-S4----------	Obj
+10	tisíc	ClXS2----------	Atr
+11	korun	NNFP2-----A----	Atr
+12	za	RR--4----------	AuxP
+13	odbornou	AAFS4----1A----	Atr
+14	způsobilost	NNFS4-----A----	Obj
+15	pro	RR--4----------	AuxP
+16	provozování	NNNS4-----A----	Atr
+17	živnosti	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf930713-094-p2s4
+1	Tento	PDIS4----------	Atr
+2	poplatek	NNIS4-----A----	Obj
+3	inkasují	VB-P---3P-AA---	Pred
+4	od	RR--2----------	AuxP
+5	podnikatelů	NNMP2-----A----	Adv
+6	střední	AANP1----1A----	Atr
+7	odborná	AANP1----1A----	Atr
+8	učiliště	NNNP1-----A----	Sb
+9	za	RR--4----------	AuxP
+10	přípravu	NNFS4-----A----	Obj
+11	kvalifikační	AAFS2----1A----	Atr
+12	zkoušky	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	nahrazuje	VB-S---3P-AA---	Atr
+16	podle	RR--2----------	AuxP
+17	vyhlášky	NNFS2-----A----	Adv
+18	525	C=-------------	Atr
+19	/	Z:-------------	AuxG
+20	92	C=-------------	Atr
+21	stanovené	AANS4----1A----	Atr
+22	vzdělání	NNNS4-----A----	Obj
+23	nebo	J^-------------	Coord
+24	praxi	NNFS4-----A----	Obj
+25	,	Z:-------------	AuxX
+26	popřípadě	Db-------------	Coord
+27	obojí	CdXP4----------	Obj
+28	.	Z:-------------	AuxK
+
+mf930713-094-p2s5
+1	Bez	RR--2----------	AuxP
+2	této	PDFS2----------	Atr
+3	kvalifikační	AAFS2----1A----	Atr
+4	zkoušky	NNFS2-----A----	Adv
+5	nemohou	VB-P---3P-NA--1	Pred
+6	koncesi	NNFS4-----A----	Obj
+7	anebo	J^-------------	Coord
+8	živnostenský	AAIS4----1A----	Atr
+9	list	NNIS4-----A----	Obj
+10	získat	Vf--------A----	Obj
+11	ani	J^-------------	AuxZ
+12	čerství	AAMP1----1A----	Atr
+13	absolventi	NNMP1-----A----	Sb
+14	rekvalifikačních	AAIP2----1A----	Atr
+15	kursů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930713-094-p2s6
+1	Dosud	Db-------------	Adv
+2	největší	AAIS1----3A----	Pnom
+3	zájem	NNIS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	o	RR--4----------	AuxP
+6	zkoušky	NNFP4-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	obor	NNIS4-----A----	Atr
+9	kuchař	NNMS1-----A----	Atr
+10	-	Z:-------------	AuxG
+11	číšník	NNMS1-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf930713-094-p2s7
+1	Podmínky	NNFP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	však	J^-------------	Coord
+4	stejně	Dg-------1A----	Adv
+5	náročné	AAFP1----1A----	Pnom
+6	pro	RR--4----------	AuxP
+7	stánkaře	NNMS4-----A----	Adv
+8	s	RR--7----------	AuxP
+9	cukrovou	AAFS7----1A----	Atr
+10	vatou	NNFS7-----A----	Atr
+11	i	J^-------------	Coord
+12	pro	RR--4----------	AuxP
+13	kuchaře	NNMS4-----A----	Adv
+14	ve	RV--6----------	AuxP
+15	špičkovém	AAIS6----1A----	Atr
+16	hotelu	NNIS6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-094-p2s8
+1	Obojí	CdXS1----------	Atr
+2	druh	NNIS1-----A----	Sb
+3	podnikání	NNNS2-----A----	Atr
+4	spadá	VB-S---3P-AA---	Pred
+5	do	RR--2----------	AuxP
+6	koncesované	AAFS2----1A----	Atr
+7	pohostinské	AAFS2----1A----	Atr
+8	činnosti	NNFS2-----A----	Adv
+9	s	RR--7----------	AuxP
+10	totožnými	AAFP7----1A----	Atr
+11	podmínkami	NNFP7-----A----	Atr
+12	odborné	AAFS2----1A----	Atr
+13	i	J^-------------	Coord
+14	praktické	AAFS2----1A----	Atr
+15	způsobilosti	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+

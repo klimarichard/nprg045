@@ -1,0 +1,307 @@
+mf920922-003-p1s1
+1	Zbraně	NNFP1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	každého	AAMS4----1A----	Atr
+4	KOLTY	NNIP1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	REVOLVERY	NNIP1-----A----	ExD
+7	A	J^-------------	Coord
+8	PUŠKY	NNFP1-----A----	ExD
+9	BEZ	RR--2----------	AuxP
+10	ZBROJNÍHO	AAIS2----1A----	Atr
+11	PRŮKAZU	NNIS2-----A----	Atr
+
+mf920922-003-p2s1
+1	Ostrava	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	lík	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920922-003-p2s2
+1	V	RR--6----------	AuxP
+2	prodejně	NNFS6-----A----	Adv
+3	zbraní	NNFP2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	Jiráskově	AUNS6M---------	Atr
+6	náměstí	NNNS6-----A----	AtrAdv
+7	ve	RV--6----------	AuxP
+8	středu	NNIS6-----A----	AtrAdv
+9	Ostravy	NNFS2-----A----	Atr
+10	lze	VB-S---3P-AA---	Pred
+11	koupit	Vf--------A----	Sb
+12	bez	RR--2----------	AuxP
+13	zbrojního	AAIS2----1A----	Atr
+14	průkazu	NNIS2-----A----	Adv
+15	kromě	RR--2----------	AuxP
+16	vzduchových	AAFP2----1A----	Atr
+17	pistolí	NNFP2-----A----	Adv
+18	a	J^-------------	Coord
+19	pistolí	NNFP2-----A----	Adv
+20	na	RR--4----------	AuxP
+21	porážení	NNNS4-----A----	Atr
+22	dobytka	NNMS2-----A----	Atr
+23	i	J^-------------	AuxZ
+24	dvanáct	Cn-S4----------	Obj
+25	druhů	NNIP2-----A----	Atr
+26	napodobenin	NNFP2-----A----	Atr
+27	střelných	AAFP2----1A----	Atr
+28	zbraní	NNFP2-----A----	Atr
+29	z	RR--2----------	AuxP
+30	minulého	AANS2----1A----	Atr
+31	století	NNNS2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+mf920922-003-p2s3
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	zbraně	NNFP4-----A----	Obj
+4	sériově	Dg-------1A----	Adv
+5	vyráběné	AAFP4----1A----	Atr
+6	do	RR--2----------	AuxP
+7	roku	NNIS2-----A---1	Adv
+8	1870	C=-------------	Atr
+9	.	Z:-------------	AuxK
+
+mf920922-003-p2s4
+1	Podle	RR--2----------	AuxP
+2	zbrojního	AAIS2----1A----	Atr
+3	zákona	NNIS2-----A----	Adv
+4	není	VB-S---3P-NA---	Pred
+5	nutný	AAIS1----1A----	Pnom
+6	ke	RV--3----------	AuxP
+7	koupi	NNFS3-----A----	Adv
+8	zbraní	NNFP2-----A----	Atr
+9	používaných	AAFP2----1A----	Atr
+10	do	RR--2----------	AuxP
+11	tohoto	PDZS2----------	Atr
+12	data	NNNS2-----A----	Adv
+13	zbrojní	AAIS1----1A----	Atr
+14	pas	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+mf920922-003-p2s5
+1	Dnes	Db-------------	Adv
+2	jsou	VB-P---3P-AA---	Pred
+3	k	RR--3----------	AuxP
+4	dostání	NNNS3-----A----	Adv
+5	pouze	Db-------------	AuxZ
+6	kvalitní	AAFP1----1A----	Atr
+7	a	J^-------------	Coord
+8	funkční	AAFP1----1A----	Atr
+9	repliky	NNFP1-----A----	Sb
+10	starých	AAFP2----1A----	Atr
+11	zbraní	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	které	P4FP4----------	Obj
+14	od	RR--2----------	AuxP
+15	výrobců	NNMP2-----A----	Adv
+16	z	RR--2----------	AuxP
+17	Francie	NNFS2-----A----	Atr
+18	a	J^-------------	Coord
+19	Španělska	NNNS2-----A----	Atr
+20	dováží	VB-S---3P-AA---	Atr
+21	do	RR--2----------	AuxP
+22	Ostravy	NNFS2-----A----	Adv
+23	obchodní	AAFS1----1A----	Atr
+24	společnost	NNFS1-----A----	Sb
+25	Arms	NNFPX-----A----	Atr
+26	Moravia	NNFXX-----A----	Atr
+27	Ostrava	NNFS1-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf920922-003-p3s1
+1	V	RR--6----------	AuxP
+2	nabídce	NNFS6-----A----	Adv
+3	nechybějí	VB-P---3P-NA---	Pred
+4	napodobeniny	NNFP1-----A----	Sb
+5	amerických	AAIP2----1A----	Atr
+6	koltů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	revolvery	NNIP1-----A----	Sb
+9	Remington	NNIS1-----A----	Atr
+10	a	J^-------------	Coord
+11	pušky	NNFP1-----A----	Sb
+12	Kentucky	NNXXX-----A----	Atr
+13	a	J^-------------	Coord
+14	Hawken	NNMS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920922-003-p3s2
+1	Ceny	NNFP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	pohybují	VB-P---3P-AA---	Pred
+4	od	RR--2----------	AuxP
+5	tří	ClXP2----------	Adv
+6	a	J^-------------	Coord
+7	půl	ClXS2----------	Adv
+8	tisíce	NNIS2-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	po	RR--4----------	AuxP
+11	necelých	AAIP4----1N----	ExD
+12	osm	Cn-S4----------	Adv
+13	tisíc	ClXS2----------	Atr
+14	.	Z:-------------	AuxK
+
+mf920922-003-p3s3
+1	"	Z:-------------	AuxG
+2	Koule	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	černý	AAIS1----1A----	Atr
+5	střelný	AAIS1----1A----	Atr
+6	prach	NNIS1-----A----	Sb
+7	a	J^-------------	Coord
+8	potřebné	AANS1----1A----	Atr
+9	nádobíčko	NNNS1-----A----	Sb
+10	vás	PP-P4--2-------	Obj
+11	přijde	VB-S---3P-AA---	Obj
+12	skoro	Db-------------	Adv
+13	na	RR--4----------	AuxP
+14	tolik	Ca--4----------	Adv
+15	,	Z:-------------	AuxX
+16	co	J,-------------	AuxC
+17	zbraň	NNFS1-----A----	ExD
+18	,	Z:-------------	AuxX
+19	"	Z:-------------	AuxG
+20	řekl	VpYS---XR-AA---	Pred
+21	nám	PP-P3--1-------	Obj
+22	prodavač	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+mf920922-003-p4s1
+1	K	RR--3----------	AuxP
+2	prodané	AAFS3----1A----	Atr
+3	zbrani	NNFS3-----A----	Atr
+4	podepisují	VB-P---3P-AA---	Pred
+5	noví	AAMP1----1A----	Atr
+6	majitelé	NNMP1-----A----	Sb
+7	poučení	NNNS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	v	RR--6----------	AuxP
+10	kterém	P4ZS6----------	Adv
+11	potvrzují	VB-P---3P-AA---	Atr
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	nebudou	VB-P---3F-NA---	AuxV
+15	těchto	PDXP2----------	Atr
+16	zbraní	NNFP2-----A----	Obj
+17	používat	Vf--------A----	Obj
+18	mimo	RR--4----------	AuxP
+19	střelnici	NNFS4-----A----	Adv
+20	.	Z:-------------	AuxK
+
+mf920922-003-p4s2
+1	Dále	Db------------1	Adv
+2	se	P7-X4----------	AuxR
+3	v	RR--6----------	AuxP
+4	poučení	NNNS6-----A----	Adv
+5	uvádí	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	majitel	NNMS1-----A----	Sb
+9	nesmí	VB-S---3P-NA---	Sb
+10	nosit	Vf--------A----	Obj
+11	a	J^-------------	Coord
+12	přepravovat	Vf--------A----	Obj
+13	zbraň	NNFS4-----A----	Obj
+14	s	RR--7----------	AuxP
+15	nabitou	AAFS7----1A----	Atr
+16	komorou	NNFS7-----A----	AtrAdv
+17	připravenou	AAFS7----1A----	Atr
+18	ke	RV--3----------	AuxP
+19	střelbě	NNFS3-----A----	Adv
+20	.	Z:-------------	AuxK
+
+mf920922-003-p4s3
+1	Papír	NNIS1-----A----	Sb
+2	připomíná	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	balistické	AAIP1----1A----	Atr
+6	parametry	NNIP1-----A----	Sb
+7	a	J^-------------	Coord
+8	ranivost	NNFS1-----A----	Sb
+9	nábojů	NNIP2-----A----	Atr
+10	těchto	PDXP2----------	Atr
+11	replik	NNFP2-----A----	Atr
+12	je	VB-S---3P-AA---	Obj
+13	srovnatelná	AAFS1----1A----	Pnom
+14	s	RR--7----------	AuxP
+15	výkonem	NNIS7-----A----	Obj
+16	moderních	AAIP2----1A----	Atr
+17	kulových	AAIP2----1A----	Atr
+18	nábojů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920922-003-p5s1
+1	Igor	NNMS1-----A----	Atr
+2	Götlicher	NNMS1-----A----	Sb
+3	řídící	AGMS1-----A----	Atr
+4	ochranku	NNFS4-----A----	Obj
+5	ostravské	AAFS2----1A----	Atr
+6	burzy	NNFS2-----A----	Atr
+7	:	Z:-------------	Pred
+8	"	Z:-------------	AuxG
+9	Je	VB-S---3P-AA---	Obj
+10	to	PDNS1----------	Sb
+11	na	RR--4----------	AuxP
+12	hlavu	NNFS4-----A----	Adv
+13	postavené	AANS1----1A----	Pnom
+14	.	Z:-------------	AuxK
+
+mf920922-003-p5s2
+1	Naše	PSHS1-P1-------	Atr
+2	ochranka	NNFS1-----A----	Sb
+3	nesmí	VB-S---3P-NA---	Pred
+4	mít	Vf--------A----	Obj
+5	k	RR--3----------	AuxP
+6	zajištění	NNNS3-----A----	Adv
+7	bezpečnosti	NNFS2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	burze	NNFS6-----A----	AtrAtr
+10	ani	J^-------------	AuxZ
+11	zbraně	NNFP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	které	P4FP1----------	Sb
+14	k	RR--3----------	AuxP
+15	zastavení	NNNS3-----A----	Adv
+16	nepřítele	NNMS2-----A----	Atr
+17	vystřelují	VB-P---3P-AA---	Atr
+18	míčky	NNIP4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	velikostí	NNFS7-----A----	Adv
+21	podobné	AAIP4----1A----	Atr
+22	tenisovým	AAIP3----1A----	ExD
+23	.	Z:-------------	AuxK
+
+mf920922-003-p5s3
+1	Žádali	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	o	RR--4----------	AuxP
+4	ně	P5XP4--3-------	Obj
+5	na	RR--4----------	AuxP
+6	hromadný	AAIS4----1A----	Atr
+7	zbrojní	AAIS4----1A----	Atr
+8	pas	NNIS4-----A----	Adv
+9	.	Z:-------------	AuxK
+
+mf920922-003-p5s4
+1	V	RR--6----------	AuxP
+2	prodejně	NNFS6-----A----	Adv
+3	na	RR--6----------	AuxP
+4	Jiráskově	AUNS6M---------	Atr
+5	náměstí	NNNS6-----A----	Atr
+6	se	P7-X4----------	AuxR
+7	prodají	VB-P---3P-AA---	Pred
+8	bez	RR--2----------	AuxP
+9	průkazu	NNIS2-----A----	Adv
+10	komukoliv	PZM-3----------	Obj
+11	přesné	AAFP1----1A----	Atr
+12	zbraně	NNFP1-----A----	Sb
+13	s	RR--7----------	AuxP
+14	dostřelem	NNIS7-----A----	Atr
+15	1500	C=-------------	Atr
+16	metrů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+18	"	Z:-------------	AuxG
+

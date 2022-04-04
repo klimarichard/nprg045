@@ -1,0 +1,96 @@
+mf930709-044-p1s1
+1	Investiční	AAFS1----1A----	Atr
+2	banka	NNFS1-----A----	Sb
+3	snižuje	VB-S---3P-AA---	Pred
+4	úroky	NNIP4-----A----	Obj
+
+mf930709-044-p3s3
+1	Například	Db-------------	AuxZ
+2	měsíční	AAIP1----1A----	Atr
+3	termínované	AAIP1----1A----	Atr
+4	vklady	NNIP1-----A----	Sb
+5	budou	VB-P---3F-AA---	AuxV
+6	nově	Dg-------1A----	Adv
+7	úročeny	VsTP---XX-AP---	Pred
+8	roční	AAFS7----1A----	Atr
+9	sazbou	NNFS7-----A----	Adv
+10	osm	Cn-S1----------	Atr
+11	procent	NNNP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	šestiměsíční	AAIP1----1A----	ExD
+14	10.2	C=-------------	ExD
+15	procenta	NNNS2-----A----	Atr
+16	a	J^-------------	Coord
+17	roční	AAIP1----1A----	ExD
+18	12.75	C=-------------	ExD
+19	procenta	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf930709-044-p3s4
+1	Dvouměsíční	AAIP1----1A----	Atr
+2	depozitní	AAIP1----1A----	Atr
+3	certifikáty	NNIP1-----A----	Sb
+4	budou	VB-P---3F-AA---	AuxV
+5	mít	Vf--------A----	Pred
+6	roční	AAIS4----1A----	Atr
+7	úrok	NNIS4-----A----	Obj
+8	8.8	C=-------------	Atr
+9	procenta	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	šestiměsíční	AAIP1----1A----	ExD
+12	10.5	C=-------------	ExD
+13	procenta	NNNS2-----A----	Atr
+14	a	J^-------------	Coord
+15	roční	AAIP1----1A----	ExD
+16	13.5	C=-------------	ExD
+17	procenta	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf930709-044-p4s1
+1	Běžné	AAIP1----1A----	Atr
+2	účty	NNIP1-----A----	Sb
+3	budou	VB-P---3F-AA---	AuxV
+4	nadále	Db-------------	Adv
+5	úročeny	VsTP---XX-AP---	Pred
+6	roční	AAFS7----1A----	Atr
+7	sazbou	NNFS7-----A----	Adv
+8	2.5	C=-------------	Atr
+9	až	J^-------------	Coord
+10	sedm	Cn-S1----------	Atr
+11	procent	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf930709-044-p4s2
+1	Sazba	NNFS1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	nejlepší	AAMP4----3A----	Atr
+4	klienty	NNMP4-----A----	Atr
+5	,	Z:-------------	AuxX
+6	tzv	AAXXX----1A---8	Apos
+7	.	Z:-------------	AuxG
+8	prime	AAXXX----1A----	Atr
+9	rate	NNFXX-----A----	Sb
+10	,	Z:-------------	AuxX
+11	zůstává	VB-S---3P-AA---	Pred
+12	ve	RV--6----------	AuxP
+13	výši	NNFS6-----A----	Adv
+14	12.95	C=-------------	Atr
+15	procenta	NNNS2-----A----	Atr
+16	a	J^-------------	Coord
+17	úrok	NNIS1-----A----	Sb
+18	z	RR--2----------	AuxP
+19	prodlení	NNNS2-----A----	Atr
+20	u	RR--2----------	AuxP
+21	nesplacených	AAIP2----1N----	Atr
+22	úvěrů	NNIP2-----A----	AtrAdv
+23	může	VB-S---3P-AA---	Pred
+24	dosáhnout	Vf--------A----	Obj
+25	až	TT-------------	AuxZ
+26	33	C=-------------	Obj
+27	procent	NNNP2-----A----	Atr
+28	ročně	Dg-------1A----	Atr
+29	z	RR--2----------	AuxP
+30	dlužné	AAFS2----1A----	Atr
+31	částky	NNFS2-----A----	Atr
+32	.	Z:-------------	AuxK
+

@@ -1,0 +1,198 @@
+ln94210-2-p1s1
+1	Čtvrť	NNFS1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	diplomaty	NNMP4-----A----	Atr
+
+ln94210-2-p2s1
+1	Výstavbu	NNFS4-----A----	Obj
+2	diplomatické	AAFS2----1A----	Atr
+3	čtvrti	NNFS2-----A---1	Atr
+4	v	RR--6----------	AuxP
+5	hlavním	AANS6----1A----	Atr
+6	městě	NNNS6-----A----	Atr
+7	se	RV--7----------	AuxP
+8	zhruba	Db-------------	AuxZ
+9	400	C=-------------	Atr
+10	rodinnými	AAIP7----1A----	Atr
+11	domy	NNIP7-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	ubytování	NNNS4-----A----	Atr
+14	pracovníků	NNMP2-----A----	Atr
+15	zastupitelských	AAIP2----1A----	Atr
+16	úřadů	NNIP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	a	J^-------------	Coord
+19	zejména	Db-------------	AuxZ
+20	zaměstnanců	NNMP2-----A----	Atr
+21	rádia	NNNS2-----A----	Atr
+22	Svobodná	AAFS1----1A----	Atr
+23	Evropa	NNFS1-----A----	Atr
+24	připravuje	VB-S---3P-AA---	Pred
+25	pražská	AAFS1----1A----	Atr
+26	radnice	NNFS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+ln94210-2-p3s1
+1	Podle	RR--2----------	AuxP
+2	slov	NNNP2-----A----	Adv
+3	pražského	AAMS2----1A----	Atr
+4	primátora	NNMS2-----A----	Atr
+5	Jana	NNMS2-----A----	Atr
+6	Koukala	NNMS2-----A----	Atr
+7	by	Vc-------------	AuxV
+8	tato	PDFS1----------	Atr
+9	čtvrť	NNFS1-----A----	Sb
+10	měla	VpQW---XR-AA---	Pred
+11	vzniknout	Vf--------A----	Obj
+12	během	RR--2----------	AuxP
+13	roku	NNIS2-----A---1	Adv
+14	a	J^-------------	Coord
+15	půl	ClXS2----------	Adv
+16	.	Z:-------------	AuxK
+
+ln94210-2-p3s2
+1	Radnice	NNFS1-----A----	Sb
+2	hledá	VB-S---3P-AA---	Pred
+3	vhodné	AANS4----1A----	Atr
+4	místo	NNNS4-----A----	Obj
+5	s	RR--7----------	AuxP
+6	ohledem	NNIS7-----A----	AuxP
+7	na	RR--4----------	AuxP
+8	bezpečnost	NNFS4-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln94210-2-p3s3
+1	Podle	RR--2----------	AuxP
+2	předběžných	AANP2----1A----	Atr
+3	ujednání	NNNP2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	hlavní	AANS1----1A----	Atr
+6	město	NNNS1-----A----	Sb
+7	poskytlo	VpNS---XR-AA--1	Pred
+8	na	RR--4----------	AuxP
+9	vybudování	NNNS4-----A----	Adv
+10	čtvrti	NNFS2-----A---1	Atr
+11	svůj	P8IS4----------	Atr
+12	pozemek	NNIS4-----A----	Obj
+13	a	J^-------------	Coord
+14	česká	AAFS1----1A----	Atr
+15	vláda	NNFS1-----A----	Sb
+16	by	Vc-------------	AuxV
+17	zajistila	VpQW---XR-AA---	Pred
+18	půjčku	NNFS4-----A----	Obj
+19	na	RR--4----------	AuxP
+20	financování	NNNS4-----A----	Atr
+21	stavebních	AAFP2----1A----	Atr
+22	prací	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94210-2-p3s4
+1	Americká	AAFS1----1A----	Atr
+2	strana	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	po	RR--6----------	AuxP
+5	dokončení	NNNS6-----A----	Adv
+6	projektu	NNIS2-----A----	Atr
+7	splatit	Vf--------A----	Obj
+8	výstavbu	NNFS4-----A----	Obj
+9	týkající	AGFS4-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	Svobodné	AAFS2----1A----	Atr
+12	Evropy	NNFS2-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94210-2-p4s1
+1	Pro	RR--4----------	AuxP
+2	první	CrFP4----------	Atr
+3	skupiny	NNFP4-----A----	Adv
+4	zaměstnanců	NNMP2-----A----	Atr
+5	Svobodné	AAFS2----1A----	Atr
+6	Evropy	NNFS2-----A----	Atr
+7	se	P7-X4----------	AuxR
+8	budou	VB-P---3F-AA---	AuxV
+9	byty	NNIP1-----A----	Sb
+10	kupovat	Vf--------A----	Pred
+11	prostřednictvím	NNNS7-----A----	AuxP
+12	realitních	AAFP2----1A----	Atr
+13	kanceláří	NNFP2-----A----	Adv
+14	za	RR--4----------	AuxP
+15	běžné	AAFP4----1A----	Atr
+16	ceny	NNFP4-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94210-2-p4s2
+1	Nebudou	VB-P---3F-NA---	AuxV
+2	jim	PPXP3--3-------	Obj
+3	podle	RR--2----------	AuxP
+4	primátorova	AUNS2M---------	Atr
+5	vyjádření	NNNS2-----A----	Adv
+6	pronajímány	VsTP---XX-AP---	Pred
+7	obecní	AAIP1----1A----	Atr
+8	byty	NNIP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	jichž	PJXP2----------	Atr
+11	má	VB-S---3P-AA---	Atr
+12	Praha	NNFS1-----A----	Sb
+13	málo	Ca--4----------	Obj
+14	a	J^-------------	Coord
+15	jsou	VB-P---3P-AA---	AuxV
+16	určeny	VsTP---XX-AP---	Atr
+17	pro	RR--4----------	AuxP
+18	jiné	AAIP4----1A----	Atr
+19	účely	NNIP4-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94210-2-p4s3
+1	Americká	AAFS1----1A----	Atr
+2	strana	NNFS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	také	Db-------------	Adv
+5	hradit	Vf--------A----	Pred
+6	výstavbu	NNFS4-----A----	Obj
+7	rodinných	AAIP2----1A----	Atr
+8	domků	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	školy	NNFS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	americkou	AAFS4----1A----	Atr
+13	komunitu	NNFS4-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Praze	NNFS6-----A----	Atr
+16	-	Z:-------------	AuxG
+17	Nebušicích	NNFP6-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-2-p4s4
+1	Pro	RR--4----------	AuxP
+2	tento	PDIS4----------	Atr
+3	účel	NNIS4-----A----	Adv
+4	prodává	VB-S---3P-AA---	Pred
+5	hlavní	AANS1----1A----	Atr
+6	město	NNNS1-----A----	Sb
+7	18000	C=-------------	Obj
+8	m	NNIXX-----A---8	Atr
+9	2	C=-------------	Atr
+10	pozemků	NNIP2-----A----	Atr
+11	za	RR--4----------	AuxP
+12	1700	C=-------------	Adv
+13	Kč	NNFXX-----A----	Atr
+14	/	Z:-------------	AuxG
+15	m	NNIXX-----A---8	Atr
+16	2	C=-------------	Atr
+17	,	Z:-------------	Coord
+18	další	AAIP4----1A----	Atr
+19	pozemky	NNIP4-----A----	Obj
+20	získají	VB-P---3P-AA---	Pred
+21	investoři	NNMP1-----A----	Sb
+22	od	RR--2----------	AuxP
+23	soukromých	AAMP2----1A----	Atr
+24	majitelů	NNMP2-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln94210-2-p4s5
+1	(	Z:-------------	AuxG
+2	av	NNXXX-----A---8	ExD
+3	,	Z:-------------	Coord
+4	čtk	NNFXX-----A---8	ExD
+5	)	Z:-------------	AuxG
+

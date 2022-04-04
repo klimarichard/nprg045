@@ -1,0 +1,359 @@
+ln94206-60-p1s1
+1	Ze	RV--2----------	AuxP
+2	státního	AAIS2----1A----	Atr
+3	úřadu	NNIS2-----A----	ExD
+4	přes	RR--4----------	AuxP
+5	zemědělství	NNNS4-----A----	ExD
+6	až	TT-------------	AuxZ
+7	k	RR--3----------	AuxP
+8	soudu	NNIS3-----A----	ExD
+
+ln94206-60-p2s1A
+1	Plzeň	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	vet	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94206-60-p2s1B
+1	Ze	RV--2----------	AuxP
+2	zpronevěry	NNFS2-----A----	Obj
+3	více	Dg-------2A----	Atr
+4	než	J,-------------	AuxC
+5	9.1	C=-------------	Adv
+6	milionu	NNIS2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	před	RR--7----------	AuxP
+10	Krajským	AAIS7----1A----	Atr
+11	soudem	NNIS7-----A----	Adv
+12	v	RR--6----------	AuxP
+13	Plzni	NNFS6-----A----	Atr
+14	zodpovídá	VB-S---3P-AA---	Pred
+15	zemědělský	AAMS1----1A----	Atr
+16	velkopodnikatel	NNMS1-----A----	Atr
+17	JUDr	NNMXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	Karel	NNMS1-----A----	Atr
+20	H	NNMXX-----A---8	Sb
+21	.	Z:-------------	AuxG
+
+ln94206-60-p2s1C
+1	Než	J,-------------	AuxC
+2	začal	VpYS---XR-AA---	Adv
+3	působit	Vf--------A----	Obj
+4	v	RR--6----------	AuxP
+5	zemědělství	NNNS6-----A----	Adv
+6	,	Z:-------------	AuxX
+7	pracoval	VpYS---XR-AA---	Pred
+8	na	RR--6----------	AuxP
+9	ministerstvu	NNNS6-----A----	Adv
+10	vnitra	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	na	RR--6----------	AuxP
+13	ministerstvu	NNNS6-----A----	Adv
+14	kultury	NNFS2-----A----	Atr
+15	,	Z:-------------	Coord
+16	později	Dg-------2A----	ExD
+17	i	J^-------------	AuxZ
+18	v	RR--6----------	AuxP
+19	předsednictvu	NNNS6-----A----	ExD
+20	československé	AAFS2----1A----	Atr
+21	federální	AAFS2----1A----	Atr
+22	vlády	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94206-60-p3s1
+1	Do	RR--2----------	AuxP
+2	podnikání	NNNS2-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	na	RR--6----------	AuxP
+5	Sokolovsku	NNNS6-----A----	Adv
+6	pustil	VpYS---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	r	NNIXX-----A---8	Adv
+9	.	Z:-------------	AuxG
+10	1991	C=-------------	Atr
+11	.	Z:-------------	AuxK
+
+ln94206-60-p3s2
+1	Pronajal	VpYS---XR-AA---	Pred
+2	si	P7-X3----------	Adv
+3	majetek	NNIS4-----A----	Obj
+4	státního	AAIS2----1A----	Atr
+5	podniku	NNIS2-----A----	Atr
+6	Agropodnik	NNIS1-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94206-60-p3s3
+1	Záhy	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	dostal	VpYS---XR-AA---	Pred
+4	do	RR--2----------	AuxP
+5	finanční	AAFS2----1A----	Atr
+6	tísně	NNFS2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94206-60-p3s4
+1	Zadlužil	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	milionovými	AAFP7----1A----	Atr
+4	částkami	NNFP7-----A----	Adv
+5	.	Z:-------------	AuxK
+
+ln94206-60-p3s5
+1	Přestal	VpYS---XR-AA---	Pred
+2	proplácet	Vf--------A----	Obj
+3	státnímu	AAIS3----1A----	Atr
+4	podniku	NNIS3-----A----	Obj
+5	faktury	NNFP4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+ln94206-60-p3s6
+1	Posléze	Db-------------	Adv
+2	začal	VpYS---XR-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	žaloby	NNFS2-----A----	Adv
+5	neoprávněně	Dg-------1N----	Adv
+6	rozprodávat	Vf--------A----	Obj
+7	dobytek	NNMS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94206-60-p3s7
+1	Podnik	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	byl	VpYS---XR-AA---	Atr
+5	původně	Dg-------1A----	Adv
+6	předurčen	VsYS---XX-AP---	Pnom
+7	k	RR--3----------	AuxP
+8	privatizaci	NNFS3-----A----	Obj
+9	,	Z:-------------	AuxX
+10	se	P7-X4----------	AuxT
+11	tak	J^-------------	Adv
+12	dostal	VpYS---XR-AA---	Pred
+13	do	RR--2----------	AuxP
+14	likvidace	NNFS2-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94206-60-p3s8
+1	Podle	RR--2----------	AuxP
+2	obhájkyně	NNFS2-----A----	Atr
+3	obžalovaného	AAMS2----1A----	Atr
+4	JUDr	NNFXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	J	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Fišerové	NNFS2-----A----	Adv
+9	vychází	VB-S---3P-AA---	Pred
+10	žaloba	NNFS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	týkající	AGFS1-----A----	Atr
+13	se	P7-X4----------	AuxT
+14	neoprávněného	AAIS2----1N----	Atr
+15	prodeje	NNIS2-----A----	Obj
+16	více	Dg-------2A----	Atr
+17	než	J,-------------	AuxC
+18	dvou	ClXP2----------	Adv
+19	a	J^-------------	Coord
+20	půl	ClXS2----------	Adv
+21	tisíce	NNIS2-----A----	Atr
+22	zvířat	NNNP2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	ze	RV--2----------	AuxP
+25	špatného	AAIS2----1A----	Atr
+26	základu	NNIS2-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln94206-60-p3s9
+1	V	RR--6----------	AuxP
+2	době	NNFS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	kdy	Db-------------	Adv
+5	k	RR--3----------	AuxP
+6	obchodům	NNIP3-----A----	Obj
+7	došlo	VpNS---XR-AA---	Atr
+8	,	Z:-------------	AuxX
+9	nebyla	VpQW---XR-NA---	Pred
+10	zvířata	NNNP1-----A----	Sb
+11	základním	AANS7----1A----	Atr
+12	jměním	NNNS7-----A----	Pnom
+13	.	Z:-------------	AuxK
+
+ln94206-60-p3s10
+1	Tam	Db-------------	Adv
+2	byla	VpQW---XR-AA---	AuxV
+3	zařazena	VsQW---XX-AP---	Pred
+4	až	TT-------------	AuxZ
+5	od	RR--2----------	AuxP
+6	1	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	1	C=-------------	Adv
+9	.	Z:-------------	AuxG
+10	1993	C=-------------	Atr
+11	.	Z:-------------	AuxK
+
+ln94206-60-p3s11
+1	Do	RR--2----------	AuxP
+2	té	PDFS2----------	Atr
+3	doby	NNFS2-----A----	Adv
+4	byla	VpQW---XR-AA---	AuxV
+5	vedena	VsQW---XX-AP---	Pred
+6	jako	J,-------------	AuxY
+7	zásoby	NNFP1-----A----	AtvV
+8	a	J^-------------	Coord
+9	s	RR--7----------	AuxP
+10	nimi	P5XP7--3-------	Obj
+11	měl	VpYS---XR-AA---	Pred
+12	Karel	NNMS1-----A----	Atr
+13	H	NNMXX-----A---8	Sb
+14	.	Z:-------------	AuxG
+15	právo	NNNS4-----A----	Obj
+16	volně	Dg-------1A----	Adv
+17	disponovat	Vf--------A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94206-60-p3s12
+1	Obžalovaný	AAMS1----1A----	Sb
+2	zdůraznil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	si	P7-X3----------	AuxT
+6	není	VB-S---3P-NA---	Obj
+7	vědom	ACYS------A----	Pnom
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	by	Vc-------------	AuxV
+11	se	P7-X4----------	AuxT
+12	dopustil	VpYS---XR-AA---	Obj
+13	trestného	AAIS2----1A----	Atr
+14	činu	NNIS2-----A----	Obj
+15	zpronevěry	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94206-60-p3s13
+1	Uvedl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	počítal	VpYS---XR-AA---	Obj
+5	během	RR--2----------	AuxP
+6	několika	Ca--2----------	Atr
+7	měsíců	NNIP2-----A----	Adv
+8	s	RR--7----------	AuxP
+9	privatizací	NNFS7-----A----	Obj
+10	,	Z:-------------	AuxX
+11	a	J^-------------	Coord
+12	tedy	Db-------------	AuxY
+13	odkoupením	NNNS7-----A----	Obj
+14	celého	AANS2----1A----	Atr
+15	hospodářství	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94206-60-p3s14
+1	Stát	NNIS1-----A----	Sb
+2	vyhlásil	VpYS---XR-AA---	Pred
+3	oficiálně	Dg-------1A----	Adv
+4	likvidační	AAFS4----1A----	Atr
+5	politiku	NNFS4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	snížení	NNNS4-----A----	Atr
+8	stád	NNNP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	republice	NNFS6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94206-60-p3s15
+1	Já	PP-S1--1-------	Sb
+2	na	RR--4----------	AuxP
+3	to	PDNS4----------	Adv
+4	udělal	VpYS---XR-AA---	Pred
+5	privatizační	AAIS4----1A----	Atr
+6	záměr	NNIS4-----A----	Obj
+7	a	J^-------------	Coord
+8	zatkli	VpMP---XR-AA--1	Pred
+9	mě	PH-S4--1-------	Obj
+10	.	Z:-------------	AuxK
+
+ln94206-60-p3s16
+1	Do	RR--2----------	AuxP
+2	finanční	AAFS2----1A----	Atr
+3	tísně	NNFS2-----A----	Adv
+4	jsem	VB-S---1P-AA---	AuxV
+5	se	P7-X4----------	AuxT
+6	dostal	VpYS---XR-AA---	Pred
+7	díky	RR--3----------	AuxP
+8	stále	Db-------------	Adv
+9	se	P7-X4----------	AuxT
+10	oddalující	AGFS3-----A----	Atr
+11	možnosti	NNFS3-----A----	Adv
+12	privatizovat	Vf--------A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94206-60-p3s17
+1	Ani	J^-------------	AuxY
+2	zahraniční	AAMP1----1A----	Atr
+3	partneři	NNMP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	s	RR--7----------	AuxP
+6	nimiž	P9XP7----------	Obj
+7	jsem	VB-S---1P-AA---	AuxV
+8	chtěl	VpYS---XR-AA---	Atr
+9	spolupracovat	Vf--------A----	Obj
+10	,	Z:-------------	AuxX
+11	ani	J^-------------	Coord
+12	české	AAFP1----1A----	Atr
+13	banky	NNFP1-----A----	Sb
+14	mi	PH-S3--1-------	Obj
+15	peníze	NNIP4-----A----	Obj
+16	nehodlali	VpMP---XR-NA---	Pred
+17	poskytnout	Vf--------A----	Obj
+18	,	Z:-------------	AuxX
+19	dokud	J,-------------	Adv
+20	neměli	VpMP---XR-NA---	Adv
+21	jistotu	NNFS4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	se	P7-X4----------	AuxT
+25	jedná	VB-S---3P-AA---	Atr
+26	o	RR--4----------	AuxP
+27	můj	PSIS4-S1-------	Atr
+28	majetek	NNIS4-----A----	Obj
+29	.	Z:-------------	AuxK
+
+ln94206-60-p3s18
+1	Agropodnik	NNIS1-----A----	Sb
+2	se	RV--7----------	AuxP
+3	mnou	PP-S7--1-------	Obj
+4	dokonce	Db-------------	AuxZ
+5	nemohl	VpYS---XR-NA---	Pred
+6	uzavřít	Vf--------A----	Obj
+7	ani	J^-------------	AuxZ
+8	smlouvu	NNFS4-----A----	Obj
+9	o	RR--6----------	AuxP
+10	budoucí	AAFS6----1A----	Atr
+11	smlouvě	NNFS6-----A----	Atr
+12	k	RR--3----------	AuxP
+13	prodeji	NNIS3-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94206-60-p3s19A
+1	Bránila	VpQW---XR-AA---	Obj
+2	tomu	PDZS3----------	Obj
+3	legislativa	NNFS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	řekl	VpYS---XR-AA---	Pred
+6	Karel	NNMS1-----A----	Atr
+7	H	NNMXX-----A---8	Sb
+8	.	Z:-------------	AuxG
+
+ln94206-60-p3s19B
+1	Příští	AAIS4----1A----	Atr
+2	týden	NNIS4-----A----	Adv
+3	předstoupí	VB-P---3P-AA---	Pred
+4	před	RR--4----------	AuxP
+5	krajský	AAIS4----1A----	Atr
+6	senát	NNIS4-----A----	Adv
+7	soudní	AAMP1----1A----	Atr
+8	znalci	NNMP1-----A----	Sb
+9	.	Z:-------------	AuxK
+

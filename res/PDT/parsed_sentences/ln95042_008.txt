@@ -1,0 +1,93 @@
+ln95042-008-p1s1
+1	Velký	AAIS1----1A----	Atr
+2	zájem	NNIS1-----A----	ExD
+3	o	RR--4----------	AuxP
+4	britské	AAIP4----1A----	Atr
+5	"	Z:-------------	AuxG
+6	ČEZ	NNIPX-----A---8	Atr
+7	"	Z:-------------	AuxG
+
+ln95042-008-p2s1
+1	Britská	AAFS1----1A----	Atr
+2	vláda	NNFS1-----A----	Sb
+3	oznámila	VpQW---XR-AA---	Pred
+4	prodej	NNIS4-----A----	Obj
+5	svého	P8ZS2----------	Atr
+6	akciového	AAIS2----1A----	Atr
+7	podílu	NNIS2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	dvou	ClXP6----------	Atr
+10	největších	AAFP6----3A----	Atr
+11	elektrárenských	AAFP6----1A----	Atr
+12	společnostech	NNFP6-----A----	Atr
+13	,	Z:-------------	Apos
+14	National	AAXXX----1A----	Atr
+15	Power	NNIS1-----A----	Atr
+16	a	J^-------------	Coord
+17	PowerGen	NNIS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95042-008-p2s2
+1	Hodnota	NNFS1-----A----	Sb
+2	vládního	AAIS2----1A----	Atr
+3	podílu	NNIS2-----A----	Atr
+4	činí	VB-S---3P-AA---	Pred
+5	čtyři	ClXP4----------	Atr
+6	miliardy	NNFP4-----A----	Obj
+7	liber	NNFP2-----A----	Atr
+8	a	J^-------------	Coord
+9	zájem	NNIS4-----A----	Obj
+10	o	RR--4----------	AuxP
+11	nákup	NNIS4-----A----	Atr
+12	těchto	PDXP2----------	Atr
+13	akcií	NNFP2-----A----	Atr
+14	projevilo	VpNS---XR-AA---	Pred
+15	více	Dg-------2A----	Sb
+16	než	J,-------------	AuxC
+17	pět	Cn-S1----------	Adv
+18	procent	NNNP2-----A----	Atr
+19	obyvatel	NNMS1-----A----	Atr
+20	Velké	AAFS2----1A----	Atr
+21	Británie	NNFS2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	neboli	J^-------------	Apos
+24	3.1	C=-------------	Sb
+25	miliónu	NNIS2-----A----	Atr
+26	lidí	NNMP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95042-008-p2s3
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	britský	AAIS1----1A----	Atr
+4	Financial	AAXXX----1A----	Atr
+5	Times	NNIPX-----A----	Sb
+6	.	Z:-------------	AuxK
+
+ln95042-008-p3s1
+1	Drobní	AAMP1----1A----	Atr
+2	investoři	NNMP1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	akcie	NNFP4-----A----	Obj
+5	elektrárenských	AAFP2----1A----	Atr
+6	společností	NNFP2-----A----	Atr
+7	měli	VpMP---XR-AA---	Pred
+8	dostat	Vf--------A----	Obj
+9	se	RV--7----------	AuxP
+10	slevou	NNFS7-----A----	Adv
+11	deseti	Cn-P2----------	Atr
+12	pencí	NNFP2-----A----	Atr
+13	na	RR--4----------	AuxP
+14	akcii	NNFS4-----A----	Atr
+15	a	J^-------------	Coord
+16	celkovou	AAFS4----1A----	Atr
+17	částku	NNFS4-----A----	Obj
+18	budou	VB-P---3F-AA---	AuxV
+19	moci	Vf--------A----	Pred
+20	zaplatit	Vf--------A----	Obj
+21	ve	RV--6----------	AuxP
+22	třech	ClXP6----------	Atr
+23	ročních	AAFP6----1A----	Atr
+24	splátkách	NNFP6-----A----	Adv
+25	.	Z:-------------	AuxK
+

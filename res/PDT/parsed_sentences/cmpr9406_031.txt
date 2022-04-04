@@ -1,0 +1,107 @@
+cmpr9406-031-p2s1
+1	Kaktus	NNIS1-----A----	ExD
+
+cmpr9406-031-p3s1
+1	Společnosti	NNFS3-----A----	ExD
+2	FOGASO	NNNXX-----A---8	Atr
+3	Praha	NNFS1-----A----	Atr
+4	za	RR--4----------	AuxP
+5	klamání	NNNS4-----A----	ExD
+6	zákazníků	NNMP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9406-031-p3s2
+1	V	RR--6----------	AuxP
+2	své	P8FS6---------1	Atr
+3	samoobsluze	NNFS6-----A----	Adv
+4	ve	RV--6----------	AuxP
+5	Zličíně	NNIS6-----A----	Atr
+6	prodává	VB-S---3P-AA---	Pred
+7	kilogram	NNIS4-----A----	Obj
+8	chleba	NNIS2-----A----	Atr
+9	za	RR--4----------	AuxP
+10	9.80	C=-------------	Adv
+11	Kč	NNFXX-----A----	Atr
+12	a	J^-------------	Coord
+13	1.5	C=-------------	ExD
+14	kg	NNIXX-----A---8	Atr
+15	chleba	NNIS2-----A----	Atr
+16	za	RR--4----------	AuxP
+17	14	C=-------------	ExD
+18	Kč	NNFXX-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9406-031-p3s3
+1	Ani	J^-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	jednom	ClZS6----------	Atr
+4	případě	NNIS6-----A----	Adv
+5	však	J^-------------	Coord
+6	skutečná	AAFS1----1A----	Atr
+7	váha	NNFS1-----A----	Sb
+8	bochníku	NNIS2-----A----	Atr
+9	neodpovídá	VB-S---3P-NA---	Pred
+10	deklarovanému	AAIS3----1A----	Atr
+11	údaji	NNIS3-----A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9406-031-p3s4
+1	Dotazem	NNIS7-----A----	Adv
+2	u	RR--2----------	AuxP
+3	dodavatele	NNMS2-----A----	Atr
+4	(	Z:-------------	AuxG
+5	Pražské	AAFP1----1A----	Atr
+6	pekárny	NNFP1-----A----	Atr
+7	,	Z:-------------	Apos
+8	pekárna	NNFS1-----A----	Atr
+9	Jihozápadní	AANS1----1A----	Atr
+10	město	NNNS1-----A----	Atr
+11	)	Z:-------------	AuxG
+12	jsme	VB-P---1P-AA---	AuxV
+13	zjistili	VpMP---XR-AA---	Pred
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	v	RR--6----------	AuxP
+17	ceníku	NNIS6-----A----	Adv
+18	je	VB-S---3P-AA---	AuxV
+19	udávána	VsQW---XX-AP---	Obj
+20	gramáž	NNFS1-----A----	Sb
+21	konzumního	AAIS2----1A----	Atr
+22	chleba	NNIS2-----A----	Atr
+23	920	C=-------------	Atr
+24	,	Z:-------------	AuxX
+25	respektive	Db-------------	Coord
+26	1380	C=-------------	Atr
+27	gramů	NNIP2-----A----	Atr
+28	s	RR--7----------	AuxP
+29	povolenou	AAFS7----1A----	Atr
+30	tolerancí	NNFS7-----A----	Atr
+31	plus	NNIS1-----A----	Atr
+32	minus	NNIS1-----A----	Atr
+33	pět	Cn-S1----------	Atr
+34	procent	NNNP2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+cmpr9406-031-p3s5
+1	To	PDNS4----------	Obj
+2	by	Vc-------------	AuxV
+3	obchodníci	NNMP1-----A----	Sb
+4	vědět	Vf--------A----	Obj
+5	měli	VpMP---XR-AA---	Pred
+6	.	Z:-------------	AuxK
+
+cmpr9406-031-p3s6
+1	Uvádění	NNNS1-----A----	Sb
+2	nesprávných	AAIP2----1N----	Atr
+3	údajů	NNIP2-----A----	Atr
+4	o	RR--6----------	AuxP
+5	prodávaném	AANS6----1A----	Atr
+6	zboží	NNNS6-----A----	Atr
+7	totiž	Db-------------	AuxY
+8	poškozuje	VB-S---3P-AA---	Pred
+9	u	RR--2----------	AuxP
+10	zákazníků	NNMP2-----A----	Adv
+11	jejich	PSXXXXP3-------	Atr
+12	důvěryhodnost	NNFS4-----A----	Obj
+13	.	Z:-------------	AuxK
+

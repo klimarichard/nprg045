@@ -1,0 +1,107 @@
+ln94207-120-p1s1
+1	O	RR--6----------	AuxP
+2	osudu	NNIS6-----A----	Obj
+3	L	NNNXX-----A----	Atr
+4	-	Z:-------------	AuxG
+5	159	C=-------------	Atr
+6	bylo	VpNS---XR-AA---	AuxV
+7	rozhodnuto	VsNS---XX-AP---	Pred
+
+ln94207-120-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	/	Z:-------------	Coord
+3	Vodochody	NNIP1-----A----	ExD
+4	(	Z:-------------	ExD
+5	gag	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+ln94207-120-p2s1B
+1	Zástupci	NNMP1-----A----	Sb
+2	parlamentu	NNIS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	armády	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	ministerstva	NNNS2-----A----	Atr
+7	průmyslu	NNIS2-----A----	Atr
+8	a	J^-------------	Coord
+9	vedení	NNNS2-----A----	Atr
+10	Aera	NNNS2-----A----	Atr
+11	Vodochody	NNIP1-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	včera	Db-------------	Adv
+14	sešli	VpMP---XR-AA---	Pred
+15	na	RR--6----------	AuxP
+16	ministerstvu	NNNS6-----A----	Adv
+17	obrany	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94207-120-p2s2
+1	Dohodli	VpMP---XR-AA--1	Pred
+2	se	P7-X4----------	AuxT
+3	o	RR--6----------	AuxP
+4	budoucnosti	NNFS6-----A----	Obj
+5	letounu	NNIS2-----A----	Atr
+6	L	NNNXX-----A----	Atr
+7	-	Z:-------------	AuxG
+8	159	C=-------------	Atr
+9	.	Z:-------------	AuxK
+
+ln94207-120-p3s1
+1	Šéf	NNMS1-----A----	Atr
+2	Aera	NNNS2-----A----	Atr
+3	Zdeněk	NNMS1-----A----	Atr
+4	Chalupník	NNMS1-----A----	Sb
+5	LN	NNFPX-----A---8	Obj
+6	potvrdil	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	dokončení	NNNS1-----A----	Sb
+10	L	NNNXX-----A----	Atr
+11	-	Z:-------------	AuxG
+12	159	C=-------------	Atr
+13	jako	J,-------------	AuxY
+14	ojedinělého	AAIS2----1A----	Atr
+15	programu	NNIS2-----A----	Atv
+16	souvisí	VB-S---3P-AA---	Obj
+17	s	RR--7----------	AuxP
+18	výběrem	NNIS7-----A----	Obj
+19	zahraniční	AAFS2----1A----	Atr
+20	firmy	NNFS2-----A----	Atr
+21	na	RR--4----------	AuxP
+22	dodání	NNNS4-----A----	Atr
+23	elektroniky	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94207-120-p3s2
+1	Setkání	NNNS3-----A----	Obj
+2	nicméně	J^-------------	AuxY
+3	předcházely	VpTP---XR-AA---	Pred
+4	spekulace	NNFP1-----A----	Sb
+5	o	RR--6----------	AuxP
+6	zaujatosti	NNFS6-----A----	Atr
+7	volby	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	jež	PJFS1----------	Sb
+10	mohla	VpQW---XR-AA---	Atr
+11	mít	Vf--------A----	Obj
+12	souvislost	NNFS4-----A----	Obj
+13	s	RR--7----------	AuxP
+14	pokusem	NNIS7-----A----	Atr
+15	korumpovat	Vf--------A----	Atr
+16	náměstka	NNMS4-----A----	Obj
+17	ministra	NNMS2-----A----	Atr
+18	obrany	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94207-120-p4s1
+1	Více	Dg-------2A----	ExD
+2	na	RR--6----------	AuxP
+3	straně	NNFS6-----A----	ExD
+4	3	C=-------------	Atr
+5	-	Z:-------------	Apos
+6	Ambiciózní	AAIS1----1A----	Atr
+7	letoun	NNIS1-----A----	Sb
+8	má	VB-S---3P-AA---	ExD
+9	zelenou	AAFS4----1A----	Obj
+

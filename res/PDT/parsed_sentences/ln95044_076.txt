@@ -1,0 +1,179 @@
+ln95044-076-p1s1
+1	Shoda	NNFS1-----A----	ExD
+2	ministrů	NNMP2-----A----	Atr
+3	financí	NNFP2-----A----	Atr
+4	o	RR--6----------	AuxP
+5	měně	NNFS6-----A----	Atr
+6	EU	NNFXX-----A---8	Atr
+
+ln95044-076-p2s1A
+1	Brusel	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-076-p2s1B
+1	Ministři	NNMP1-----A----	Sb
+2	financí	NNFP2-----A----	Atr
+3	EU	NNFXX-----A---8	Atr
+4	se	P7-X4----------	AuxT
+5	včera	Db-------------	Adv
+6	v	RR--6----------	AuxP
+7	Bruselu	NNIS6-----A----	Adv
+8	shodli	VpMP---XR-AA--1	Pred
+9	na	RR--6----------	AuxP
+10	nutnosti	NNFS6-----A----	Obj
+11	pokračovat	Vf--------A----	Atr
+12	v	RR--6----------	AuxP
+13	technických	AAFP6----1A----	Atr
+14	přípravách	NNFP6-----A----	Obj
+15	na	RR--4----------	AuxP
+16	budoucí	AAIS4----1A----	Atr
+17	přechod	NNIS4-----A----	Atr
+18	k	RR--3----------	AuxP
+19	jednotné	AAFS3----1A----	Atr
+20	měně	NNFS3-----A----	Atr
+21	v	RR--6----------	AuxP
+22	rámci	NNIS6-----A----	AuxP
+23	Evropské	AAFS2----1A----	Atr
+24	unie	NNFS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	aniž	J,-------------	AuxC
+27	by	Vc-------------	AuxV
+28	se	P7-X4----------	AuxT
+29	příliš	Db-------------	Adv
+30	zabývali	VpMP---XR-AA---	Adv
+31	nezbytnými	AAFP7----1N----	Atr
+32	ekonomickými	AAFP7----1A----	Atr
+33	podmínkami	NNFP7-----A----	Obj
+34	ustavení	NNNS2-----A----	Atr
+35	jednotné	AAFS2----1A----	Atr
+36	měny	NNFS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln95044-076-p2s2
+1	S	RR--7----------	AuxP
+2	tímto	PDZS7----------	Atr
+3	průběhem	NNIS7-----A----	Atr
+4	diskuse	NNFS2-----A----	Atr
+5	vyjádřil	VpYS---XR-AA---	Pred
+6	souhlas	NNIS4-----A----	Obj
+7	i	J^-------------	AuxZ
+8	britský	AAMS1----1A----	Atr
+9	ministr	NNMS1-----A----	Atr
+10	Kenneth	NNMS1-----A----	Atr
+11	Clarke	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln95044-076-p2s3
+1	Zároveň	Db-------------	Adv
+2	ale	J^-------------	Coord
+3	vyjádřil	VpYS---XR-AA---	Pred
+4	přesvědčení	NNNS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	jako	J,-------------	AuxY
+8	o	RR--6----------	AuxP
+9	nejbližším	AAIS6----3A----	Atr
+10	možném	AAIS6----1A----	Atr
+11	termínu	NNIS6-----A----	Atv
+12	zavedení	NNNS2-----A----	Atr
+13	jednotné	AAFS2----1A----	Atr
+14	měny	NNFS2-----A----	Atr
+15	lze	VB-S---3P-AA---	Atr
+16	uvažovat	Vf--------A----	Sb
+17	o	RR--6----------	AuxP
+18	roce	NNIS6-----A---1	Obj
+19	1999	C=-------------	Atr
+20	.	Z:-------------	AuxK
+
+ln95044-076-p2s4
+1	Británie	NNFS1-----A----	Sb
+2	sice	Db-------------	AuxY
+3	žádnou	PWFS4----------	Atr
+4	jednotnou	AAFS4----1A----	Atr
+5	měnu	NNFS4-----A----	Obj
+6	nechce	VB-S---3P-NA---	Pred
+7	,	Z:-------------	AuxX
+8	bude	VB-S---3F-AA---	AuxV
+9	podle	RR--2----------	AuxP
+10	Clarka	NNMS2-----A----	Adv
+11	nicméně	J^-------------	Coord
+12	podporovat	Vf--------A----	Pred
+13	"	Z:-------------	AuxG
+14	technickou	AAFS4----1A----	Atr
+15	přípravu	NNFS4-----A----	Obj
+16	"	Z:-------------	AuxG
+17	k	RR--3----------	AuxP
+18	jejímu	PSZS3FS3-------	Atr
+19	zavedení	NNNS3-----A----	Atr
+20	.	Z:-------------	AuxG
+
+ln95044-076-p3s1
+1	Kontroverzní	AAIS1----1A----	Atr
+2	problém	NNIS4-----A----	Obj
+3	časového	AAIS2----1A----	Atr
+4	limitu	NNIS2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	dopravu	NNFS4-----A----	Atr
+7	živých	AANP2----1A----	Atr
+8	zvířat	NNNP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	EU	NNFXX-----A---8	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	už	Db-------------	AuxZ
+14	skoro	Db-------------	AuxZ
+15	dva	ClYP4----------	Atr
+16	roky	NNIP4-----A----	Adv
+17	rozděluje	VB-S---3P-AA---	Atr
+18	"	Z:-------------	AuxG
+19	bohaté	AAMP4----1A----	Atr
+20	"	Z:-------------	AuxG
+21	a	J^-------------	Coord
+22	"	Z:-------------	AuxG
+23	chudé	AAMP4----1A----	Atr
+24	"	Z:-------------	AuxG
+25	členy	NNMP4-----A----	Obj
+26	"	Z:-------------	AuxG
+27	patnáctky	NNFS2-----A----	Atr
+28	"	Z:-------------	AuxG
+29	,	Z:-------------	AuxX
+30	se	P7-X4----------	AuxT
+31	pokoušejí	VB-P---3P-AA---	Pred
+32	vyřešit	Vf--------A----	Obj
+33	ministři	NNMP1-----A----	Sb
+34	zemědělství	NNNS2-----A----	Atr
+35	EU	NNFXX-----A---8	Atr
+36	,	Z:-------------	AuxX
+37	jejichž	P1XXXXP3-------	Atr
+38	dvoudenní	AAFS1----1A----	Atr
+39	schůzka	NNFS1-----A----	Sb
+40	začala	VpQW---XR-AA---	Atr
+41	včera	Db-------------	Adv
+42	v	RR--6----------	AuxP
+43	Bruselu	NNIS6-----A----	Adv
+44	.	Z:-------------	AuxK
+
+ln95044-076-p3s2
+1	Její	PSNS4FS3-------	Atr
+2	zahájení	NNNS4-----A----	Obj
+3	doprovázela	VpQW---XR-AA---	Pred
+4	bouřlivá	AAFS1----1A----	Atr
+5	demonstrace	NNFS1-----A----	Sb
+6	ochránců	NNMP2-----A----	Atr
+7	zvířat	NNNP2-----A----	Atr
+8	před	RR--7----------	AuxP
+9	budovou	NNFS7-----A----	Atr
+10	Rady	NNFS2-----A----	Atr
+11	EU	NNFXX-----A---8	Atr
+12	.	Z:-------------	AuxK
+
+ln95044-076-p3s3
+1	Ochránci	NNMP1-----A----	Sb
+2	požadují	VB-P---3P-AA---	Pred
+3	úplný	AAIS4----1A----	Atr
+4	zákaz	NNIS4-----A----	Obj
+5	exportu	NNIS2-----A----	Atr
+6	živých	AANP2----1A----	Atr
+7	zvířat	NNNP2-----A----	Atr
+8	.	Z:-------------	AuxK
+

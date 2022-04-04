@@ -1,0 +1,134 @@
+ln95046-111-p1s1
+1	Zásady	NNFP1-----A----	Sb
+2	devizového	AAIS2----1A----	Atr
+3	zákona	NNIS2-----A----	Atr
+4	schváleny	VsTP---XX-AP---	Pred
+
+ln95046-111-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-111-p2s1B
+1	Vláda	NNFS1-----A----	Sb
+2	včera	Db-------------	Adv
+3	vyslovila	VpQW---XR-AA---	Pred
+4	souhlas	NNIS4-----A----	Obj
+5	se	RV--7----------	AuxP
+6	zásadami	NNFP7-----A----	Atr
+7	nového	AAIS2----1A----	Atr
+8	devizového	AAIS2----1A----	Atr
+9	zákona	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	rozhodným	AAIS7----1A----	Atr
+13	způsobem	NNIS7-----A----	Adv
+14	posune	VB-S---3P-AA---	Atr
+15	českou	AAFS4----1A----	Atr
+16	měnu	NNFS4-----A----	Obj
+17	k	RR--3----------	AuxP
+18	plné	AAFS3----1A----	Atr
+19	směnitelnosti	NNFS3-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95046-111-p2s2
+1	Po	RR--6----------	AuxP
+2	včerejším	AANS6----1A----	Atr
+3	zasedání	NNNS6-----A----	Adv
+4	vlády	NNFS2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	tom	PDZS6----------	Obj
+7	informoval	VpYS---XR-AA---	Pred
+8	premiér	NNMS1-----A----	Atr
+9	Václav	NNMS1-----A----	Atr
+10	Klaus	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95046-111-p2s3
+1	Premiér	NNMS1-----A----	Sb
+2	očekává	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	zákon	NNIS1-----A----	Sb
+6	bude	VB-S---3F-AA---	AuxV
+7	schválen	VsYS---XX-AP---	Obj
+8	ještě	Db-------------	AuxZ
+9	v	RR--6----------	AuxP
+10	prvním	CrNS6----------	Atr
+11	pololetí	NNNS6-----A----	Adv
+12	letošního	AAIS2----1A----	Atr
+13	roku	NNIS2-----A---1	Atr
+14	.	Z:-------------	AuxK
+
+ln95046-111-p2s4
+1	Přechod	NNIS1-----A----	Sb
+2	k	RR--3----------	AuxP
+3	plné	AAFS3----1A----	Atr
+4	směnitelnosti	NNFS3-----A----	Atr
+5	by	Vc-------------	AuxV
+6	se	P7-X4----------	AuxR
+7	podle	RR--2----------	AuxP
+8	přijaté	AAFS2----1A----	Atr
+9	koncepce	NNFS2-----A----	Adv
+10	měl	VpYS---XR-AA---	Pred
+11	uskutečnit	Vf--------A----	Obj
+12	postupně	Dg-------1A----	Adv
+13	,	Z:-------------	AuxX
+14	a	J^-------------	AuxY
+15	to	PDNS1----------	AuxY
+16	podle	RR--2----------	AuxP
+17	prohlášení	NNNS2-----A----	Adv
+18	zainteresovaných	AAFP2----1A----	Atr
+19	stran	NNFP2-----A----	Atr
+20	zhruba	Db-------------	AuxZ
+21	v	RR--6----------	AuxP
+22	průběhu	NNIS6-----A----	AuxP
+23	dvou	ClXP2----------	Atr
+24	až	J^-------------	Coord
+25	tří	ClXP2----------	Atr
+26	let	NNNP2-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln95046-111-p2s5
+1	Nový	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	jehož	PJZS2----------	Atr
+5	jádrem	NNNS7-----A----	Pnom
+6	je	VB-S---3P-AA---	Atr
+7	dokončení	NNNS1-----A----	Sb
+8	liberalizace	NNFS2-----A----	Atr
+9	na	RR--6----------	AuxP
+10	běžném	AAIS6----1A----	Atr
+11	účtu	NNIS6-----A----	Atr
+12	platební	AAFS2----1A----	Atr
+13	bilance	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	obsahuje	VB-S---3P-AA---	Pred
+16	podle	RR--2----------	AuxP
+17	mluvčího	NNMS2-----A----	Adv
+18	České	AAFS2----1A----	Atr
+19	národní	AAFS2----1A----	Atr
+20	banky	NNFS2-----A----	Atr
+21	některá	PZNP4----------	Atr
+22	regulační	AANP4----1A----	Atr
+23	opatření	NNNP4-----A----	Obj
+24	a	J^-------------	Coord
+25	omezení	NNNP4-----A----	Obj
+26	,	Z:-------------	AuxX
+27	jež	PJNP1----------	Sb
+28	budou	VB-P---3F-AA---	AuxV
+29	postupně	Dg-------1A----	Adv
+30	podle	RR--2----------	AuxP
+31	vývoje	NNIS2-----A----	Adv
+32	ekonomické	AAFS2----1A----	Atr
+33	situace	NNFS2-----A----	Atr
+34	odstraňována	VsQW---XX-AP---	Atr
+35	.	Z:-------------	AuxK
+
+ln95046-111-p2s6
+1	Další	AAFP1----1A----	Atr
+2	informace	NNFP1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	poslední	AAFS6----1A----	Atr
+5	straně	NNFS6-----A----	ExD
+

@@ -1,0 +1,151 @@
+mf930709-065-p1s1
+1	Wallise	NNMS4-----A----	Obj
+2	obžalují	VB-P---3P-AA---	Pred
+3	asi	TT-------------	AuxY
+4	příští	AAIS4----1A----	Atr
+5	týden	NNIS4-----A----	Adv
+
+mf930709-065-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ina	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-065-p2s1B
+1	Vojenská	AAFS1----1A----	Atr
+2	prokuratura	NNFS1-----A----	Sb
+3	podá	VB-S---3P-AA---	Pred
+4	obžalobu	NNFS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	bývalého	AAMS4----1A----	Atr
+7	pracovníka	NNMS4-----A----	Atr
+8	Federální	AAFS2----1A----	Atr
+9	bezpečnostní	AAFS2----1A----	Atr
+10	informační	AAFS2----1A----	Atr
+11	služby	NNFS2-----A----	Atr
+12	a	J^-------------	Coord
+13	bývalého	AAMS4----1A----	Atr
+14	důstojníka	NNMS4-----A----	Atr
+15	Státní	AAFS2----1A----	Atr
+16	bezpečnosti	NNFS2-----A----	Atr
+17	Václava	NNMS4-----A----	Atr
+18	Wallise	NNMS4-----A----	AtrObj
+19	pravděpodobně	Dg-------1A----	AuxY
+20	v	RR--6----------	AuxP
+21	průběhu	NNIS6-----A----	AuxP
+22	příštího	AAIS2----1A----	Atr
+23	týdne	NNIS2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+mf930709-065-p2s2
+1	Sdělil	VpYS---XR-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	to	PDNS4----------	Obj
+4	včera	Db-------------	Adv
+5	nejmenovaný	AAIS1----1N----	Atr
+6	zdroj	NNIS1-----A----	Sb
+7	z	RR--2----------	AuxP
+8	hlavní	AAFS2----1A----	Atr
+9	vojenské	AAFS2----1A----	Atr
+10	prokuratury	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-065-p2s3
+1	Wallis	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	stíhán	VsYS---XX-AP---	Pred
+4	pro	RR--4----------	AuxP
+5	zneužívání	NNNS4-----A----	Adv
+6	pravomoci	NNFS2-----A----	Atr
+7	veřejného	AAMS2----1A----	Atr
+8	činitele	NNMS2-----A----	Atr
+9	a	J^-------------	Coord
+10	ohrožení	NNNS4-----A----	Adv
+11	státního	AANS2----1A----	Atr
+12	tajemství	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf930709-065-p2s4
+1	Vojenský	AAMS1----1A----	Atr
+2	prokurátor	NNMS1-----A----	Sb
+3	ho	PHZS4--3-------	Obj
+4	obvinil	VpYS---XR-AA---	Pred
+5	z	RR--2----------	AuxP
+6	předávání	NNNS2-----A----	Obj
+7	informací	NNFP2-----A----	Atr
+8	prezidentovi	NNMS3-----A----	Atr
+9	Harvardských	AAIP2----1A----	Atr
+10	privatizačních	AAIP2----1A----	Atr
+11	fondů	NNIP2-----A----	Atr
+12	Viktoru	NNMS3-----A---1	Atr
+13	Koženému	NNMS3-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930709-065-p2s5
+1	Prokuratura	NNFS1-----A----	Sb
+2	ho	PHZS4--3-------	Obj
+3	neviní	VB-S---3P-NA---	Pred
+4	z	RR--2----------	AuxP
+5	vydírání	NNNS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	nýbrž	J^-------------	Coord
+8	z	RR--2----------	AuxP
+9	neoprávněného	AANS2----1N----	Atr
+10	předávání	NNNS2-----A----	Adv
+11	informací	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	i	J^-------------	AuxY
+14	když	J,-------------	AuxC
+15	Viktor	NNMS1-----A----	Atr
+16	Kožený	NNMS1-----A----	Sb
+17	opakovaně	Dg-------1A----	Adv
+18	tvrdil	VpYS---XR-AA---	Adv
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	ho	PHZS4--3-------	Obj
+22	Wallis	NNMS1-----A----	Sb
+23	vydíral	VpYS---XR-AA---	Obj
+24	.	Z:-------------	AuxK
+
+mf930709-065-p2s6
+1	Kožený	NNMS1-----A----	Sb
+2	mu	PHZS3--3-------	Obj
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	řekl	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	vyplatil	VpYS---XR-AA---	Pred
+8	půl	NNFS4-----A----	Obj
+9	milionu	NNIS2-----A----	Atr
+10	korun	NNFP2-----A----	Atr
+11	proto	Db-------------	Adv
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	Wallis	NNMS1-----A----	Sb
+15	vyhrožoval	VpYS---XR-AA---	Adv
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	jeho	PPYS4--3-------	Obj
+19	osobně	Dg-------1A----	Atr
+20	i	J^-------------	Coord
+21	firmu	NNFS4-----A----	Obj
+22	"	Z:-------------	AuxG
+23	potopí	VB-S---3P-AA---	Obj
+24	"	Z:-------------	AuxG
+25	.	Z:-------------	AuxK
+
+mf930709-065-p2s7
+1	Viktoru	NNMS3-----A---1	Atr
+2	Wallisovi	NNMS3-----A---1	Obj
+3	hrozí	VB-S---3P-AA---	Pred
+4	trest	NNIS1-----A----	Sb
+5	odnětí	NNNS2-----A----	Atr
+6	svobody	NNFS2-----A----	Atr
+7	od	RR--2----------	AuxP
+8	tří	ClXP2----------	ExD
+9	do	RR--2----------	AuxP
+10	deseti	Cn-P2----------	Atr
+11	let	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+

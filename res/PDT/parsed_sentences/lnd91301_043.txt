@@ -1,0 +1,66 @@
+lnd91301-043-p1s1
+1	Ilegálně	Dg-------1A----	ExD
+2	přes	RR--4----------	AuxP
+3	hranice	NNFP4-----A----	ExD
+
+lnd91301-043-p2s1
+1	Na	RR--4----------	AuxP
+2	17000	C=-------------	Sb
+3	osob	NNFP2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	pokusilo	VpNS---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	letošním	AAIS6----1A----	Atr
+8	roce	NNIS6-----A---1	Adv
+9	(	Z:-------------	AuxG
+10	do	RR--2----------	AuxP
+11	18	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	prosince	NNIS2-----A----	Adv
+14	)	Z:-------------	AuxG
+15	nedovoleně	Dg-------1N----	Adv
+16	překročit	Vf--------A----	Obj
+17	státní	AAFS4----1A----	Atr
+18	hranici	NNFS4-----A----	Obj
+19	ČSFR	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+lnd91301-043-p2s2
+1	V	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	údaji	NNIS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	zahrnuto	VsNS---XX-AP---	Pnom
+6	i	J^-------------	AuxZ
+7	3157	C=-------------	Sb
+8	osob	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4FP1----------	Sb
+11	byly	VpTP---XR-AA---	Atr
+12	do	RR--2----------	AuxP
+13	24	C=-------------	Atr
+14	hodin	NNFP2-----A----	Adv
+15	a	J^-------------	Coord
+16	2905	C=-------------	Sb
+17	osob	NNFP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	jejichž	P1XXXXP3-------	Atr
+20	přechod	NNIS1-----A----	Sb
+21	byl	VpYS---XR-AA---	Atr
+22	zjištěn	VsYS---XX-AP---	Pnom
+23	dodatečně	Dg-------1A----	Adv
+24	.	Z:-------------	AuxK
+
+lnd91301-043-p3s1
+1	Zkrácená	AAFS1----1A----	Atr
+2	tabulka	NNFS1-----A----	ExD
+3	nedovolených	AAIP2----1N----	Atr
+4	přechodů	NNIP2-----A----	Atr
+5	čs	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	státní	AAFS2----1A----	Atr
+8	hranice	NNFS2-----A----	Atr
+9	podle	RR--2----------	AuxP
+10	státní	AAFS2----1A----	Atr
+11	příslušnosti	NNFS2-----A----	ExD
+

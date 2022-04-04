@@ -1,0 +1,121 @@
+ln94203-118-p1s1
+1	Schalke	NNNXX-----A----	Sb
+2	04	C=-------------	Atr
+3	podalo	VpNS---XR-AA---	Pred
+4	protest	NNIS4-----A----	Obj
+
+ln94203-118-p2s1A
+1	Brankář	NNMS1-----A----	Atr
+2	Stein	NNMS1-----A----	Sb
+3	vyvrátil	VpYS---XR-AA---	Pred
+4	výrok	NNIS4-----A----	Obj
+5	rozhodčího	NNMS2-----A----	Atr
+
+ln94203-118-p2s1B
+1	Gelsenkirchen	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94203-118-p2s1C
+1	Vedení	NNNS1-----A----	Sb
+2	německého	AAIS2----1A----	Atr
+3	prvoligového	AAIS2----1A----	Atr
+4	klubu	NNIS2-----A----	Atr
+5	Schalke	NNNXX-----A----	Atr
+6	04	C=-------------	Atr
+7	zaslalo	VpNS---XR-AA---	Pred
+8	včera	Db-------------	Adv
+9	Německému	AAIS3----1A----	Atr
+10	fotbalovému	AAIS3----1A----	Atr
+11	svazu	NNIS3-----A----	Obj
+12	oficiální	AAIS4----1A----	Atr
+13	protest	NNIS4-----A----	Obj
+14	proti	RR--3----------	AuxP
+15	výsledku	NNIS3-----A----	Atr
+16	sobotního	AANS2----1A----	Atr
+17	střetnutí	NNNS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	ve	RV--6----------	AuxP
+20	kterém	P4ZS6----------	Adv
+21	Schalke	NNNXX-----A----	Sb
+22	prohrálo	VpNS---XR-AA---	Atr
+23	s	RR--7----------	AuxP
+24	Hamburkem	NNIS7-----A----	Obj
+25	0	C=-------------	Adv
+26	:	Z:-------------	Coord
+27	1	C=-------------	Adv
+28	.	Z:-------------	AuxK
+
+ln94203-118-p2s2
+1	Manažer	NNMS1-----A----	Atr
+2	klubu	NNIS2-----A----	Atr
+3	z	RR--2----------	AuxP
+4	Gelsenkirchenu	NNIS2-----A----	Atr
+5	Rudi	NNMS1-----A----	Atr
+6	Assauer	NNMS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	něm	P5ZS6--3-------	Adv
+9	oznámil	VpYS---XR-AA---	Pred
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	rozhodčí	NNMS1-----A----	Atr
+13	Eugen	NNMS1-----A----	Atr
+14	Strigel	NNMS1-----A----	Sb
+15	neuznal	VpYS---XR-NA---	Obj
+16	domácím	AAMP3----1A----	Obj
+17	v	RR--6----------	AuxP
+18	58	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	minutě	NNFS6-----A----	Adv
+21	jasnou	AAFS4----1A----	Atr
+22	branku	NNFS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94203-118-p2s3
+1	Střela	NNFS1-----A----	Sb
+2	jednoho	ClZS2----------	Atr
+3	z	RR--2----------	AuxP
+4	hráčů	NNMP2-----A----	Atr
+5	Schalke	NNNXX-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	odrazila	VpQW---XR-AA---	Pred
+8	od	RR--2----------	AuxP
+9	vnitřní	AAFS2----1A----	Atr
+10	části	NNFS2-----A----	Adv
+11	tyče	NNFS2-----A----	Atr
+12	branky	NNFS2-----A----	Atr
+13	hostí	NNMP2-----A---1	Atr
+14	a	J^-------------	Coord
+15	brankář	NNMS1-----A----	Atr
+16	Hamburku	NNIS2-----A----	Atr
+17	Uli	NNMS1-----A----	Atr
+18	Stein	NNMS1-----A----	Sb
+19	ji	PPFS4--3-------	Obj
+20	vyrazil	VpYS---XR-AA---	Pred
+21	zpět	Db-------------	Adv
+22	do	RR--2----------	AuxP
+23	pole	NNNS2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+ln94203-118-p2s4
+1	Po	RR--6----------	AuxP
+2	utkání	NNNS6-----A----	Adv
+3	Stein	NNMS1-----A----	Sb
+4	přiznal	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	míč	NNIS1-----A----	Sb
+8	již	Db-------------	Adv
+9	svým	P8ZS7----------	Atr
+10	celým	AAIS7----1A----	Atr
+11	objemem	NNIS7-----A----	Adv
+12	přesáhl	VpYS---XR-AA---	Obj
+13	brankovou	AAFS4----1A----	Atr
+14	čáru	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	takže	J,-------------	AuxC
+17	gól	NNIS1-----A----	Sb
+18	měl	VpYS---XR-AA---	Adv
+19	být	Vf--------A----	AuxV
+20	uznán	VsYS---XX-AP---	Obj
+21	.	Z:-------------	AuxK
+

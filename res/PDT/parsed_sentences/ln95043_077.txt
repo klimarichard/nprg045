@@ -1,0 +1,148 @@
+ln95043-077-p1s1
+1	Nebezpečná	AAFS1----1N----	Atr
+2	nákaza	NNFS1-----A----	ExD
+3	zajíců	NNMP2-----A----	Atr
+
+ln95043-077-p2s1A
+1	Vsetín	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95043-077-p2s1B
+1	Nebezpečná	AAFS1----1N----	Atr
+2	infekční	AAFS1----1A----	Atr
+3	nákaza	NNFS1-----A----	Sb
+4	-	Z:-------------	Apos
+5	brucelóza	NNFS1-----A----	Sb
+6	zajíců	NNMP2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	objevila	VpQW---XR-AA---	Pred
+9	na	RR--6----------	AuxP
+10	Vsetínsku	NNNS6-----A----	Adv
+11	v	RR--6----------	AuxP
+12	katastrálním	AANS6----1A----	Atr
+13	území	NNNS6-----A----	Adv
+14	obce	NNFS2-----A----	Atr
+15	Lhotka	NNFS1-----A----	Atr
+16	nad	RR--7----------	AuxP
+17	Bečvou	NNFS7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95043-077-p2s2
+1	Okresní	AAFS1----1A----	Atr
+2	veterinární	AAFS1----1A----	Atr
+3	správa	NNFS1-----A----	Sb
+4	ve	RV--6----------	AuxP
+5	Vsetíně	NNIS6-----A----	Atr
+6	proto	J^-------------	Coord
+7	vyhlásila	VpQW---XR-AA---	Pred
+8	mimořádná	AANP4----1A----	Atr
+9	veterinární	AANP4----1A----	Atr
+10	opatření	NNNP4-----A----	Obj
+11	a	J^-------------	Coord
+12	vymezila	VpQW---XR-AA---	Pred
+13	ochranné	AANS4----1A----	Atr
+14	pásmo	NNNS4-----A----	Obj
+15	v	RR--6----------	AuxP
+16	přilehlých	AAFP6----1A----	Atr
+17	obcích	NNFP6-----A----	AdvAtr
+18	a	J^-------------	Coord
+19	ve	RV--6----------	AuxP
+20	Valašském	AANS6----1A----	Atr
+21	Meziříčí	NNNS6-----A----	AdvAtr
+22	.	Z:-------------	AuxK
+
+ln95043-077-p2s3
+1	Ulovení	AAMP1----1A----	Atr
+2	zajíci	NNMP1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	místa	NNNS2-----A----	Adv
+5	výskytu	NNIS2-----A----	Atr
+6	brucelózy	NNFS2-----A----	Atr
+7	musejí	VB-P---3P-AA---	Pred
+8	projít	Vf--------A----	Obj
+9	zdravotnickou	AAFS7----1A----	Atr
+10	kontrolou	NNFS7-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln95043-077-p2s4
+1	Hygienici	NNMP1-----A----	Sb
+2	zakázali	VpMP---XR-AA---	Pred
+3	převoz	NNIS4-----A----	Obj
+4	a	J^-------------	Coord
+5	zpracování	NNNS4-----A----	Obj
+6	bez	RR--2----------	AuxP
+7	veterinárního	AANS2----1A----	Atr
+8	vyšetření	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95043-077-p2s5
+1	Myslivci	NNMP1-----A----	Sb
+2	budou	VB-P---3F-AA---	AuxV
+3	sledovat	Vf--------A----	Pred
+4	stav	NNIS4-----A----	Obj
+5	zvěře	NNFS2-----A----	Atr
+6	a	J^-------------	Coord
+7	vyhledávat	Vf--------A----	Pred
+8	uhynulé	AAIP4----1A----	Atr
+9	kusy	NNIP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95043-077-p2s6
+1	Karanténa	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	tomto	PDZS6----------	Atr
+5	případě	NNIS6-----A----	Adv
+6	tři	ClXP4----------	Atr
+7	roky	NNIP4-----A----	Pnom
+8	,	Z:-------------	Coord
+9	teprve	Db-------------	AuxZ
+10	pak	Db-------------	Adv
+11	bude	VB-S---3F-AA---	AuxV
+12	infekce	NNFS1-----A----	Sb
+13	považována	VsQW---XX-AP---	Pred
+14	za	RR--4----------	AuxP
+15	zaniklou	AAFS4----1A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95043-077-p2s7
+1	Brucelóza	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	nebezpečná	AAFS1----1N----	Atr
+4	nákaza	NNFS1-----A----	Pnom
+5	bakteriálního	AAIS2----1A----	Atr
+6	původu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	vyvolávaná	AAFS1----1A----	Atr
+9	zárodkem	NNMS7-----A----	Obj
+10	Brucella	NNFS1-----A----	Atr
+11	Suis	AAXXX----1A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95043-077-p2s8
+1	Onemocnění	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	přenosné	AANS1----1A----	Pnom
+4	též	Db-------------	AuxZ
+5	na	RR--4----------	AuxP
+6	prasata	NNNP4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln95043-077-p2s9
+1	Možné	AANS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	rovněž	Db-------------	Adv
+4	onemocnění	NNNS1-----A----	Sb
+5	člověka	NNMS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	u	RR--2----------	AuxP
+8	něhož	P9ZS2----------	Adv
+9	vyvolává	VB-S---3P-AA---	Atr
+10	infekce	NNFS1-----A----	Sb
+11	náhlé	AAIP4----1A----	Atr
+12	a	J^-------------	Coord
+13	zdlouhavé	AAIP4----1A----	Atr
+14	horečnaté	AAIP4----1A----	Atr
+15	stavy	NNIP4-----A----	Obj
+16	.	Z:-------------	AuxK
+

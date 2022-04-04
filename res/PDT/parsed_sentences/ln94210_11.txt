@@ -1,0 +1,432 @@
+ln94210-11-p1s1
+1	ČSOB	NNFXX-----A---8	Sb
+2	emitovala	VpQW---XR-AA---	Pred
+3	tříleté	AAIP4----1A----	Atr
+4	dluhopisy	NNIP4-----A----	Obj
+
+ln94210-11-p2s1
+1	Československá	AAFS1----1A----	Atr
+2	obchodní	AAFS1----1A----	Atr
+3	banka	NNFS1-----A----	Sb
+4	(	Z:-------------	Apos
+5	ČSOB	NNFXX-----A---8	Sb
+6	)	Z:-------------	AuxG
+7	uskutečnila	VpQW---XR-AA---	Pred
+8	zatím	Db-------------	Adv
+9	největší	AAFS4----3A----	Atr
+10	emisi	NNFS4-----A----	Obj
+11	cenných	AAIP2----1A----	Atr
+12	papírů	NNIP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	ČR	NNFXX-----A---8	Adv
+15	.	Z:-------------	AuxK
+
+ln94210-11-p2s2
+1	Tříleté	AAIP1----1A----	Atr
+2	dluhopisy	NNIP1-----A----	Sb
+3	s	RR--7----------	AuxP
+4	úrokovou	AAFS7----1A----	Atr
+5	sazbou	NNFS7-----A----	Atr
+6	11125	C=-------------	Atr
+7	%	Z:-------------	Atr
+8	byly	VpTP---XR-AA---	AuxV
+9	emitovány	VsTP---XX-AP---	Pred
+10	26	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	srpna	NNIS2-----A----	Adv
+13	v	RR--6----------	AuxP
+14	celkové	AAFS6----1A----	Atr
+15	hodnotě	NNFS6-----A----	Adv
+16	6	C=-------------	Atr
+17	miliard	NNFP2-----A----	Atr
+18	Kč	NNFXX-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94210-11-p3s1
+1	Dluhopisy	NNIP1-----A----	Sb
+2	znějí	VB-P---3P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	doručitele	NNMS4-----A----	Adv
+5	a	J^-------------	Coord
+6	jejich	PSXXXXP3-------	Atr
+7	nominální	AAFS1----1A----	Atr
+8	hodnota	NNFS1-----A----	Sb
+9	je	VB-S---3P-AA---	Pred
+10	20	C=-------------	Pnom
+11	tisíc	ClXS2----------	Atr
+12	Kč	NNFXX-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94210-11-p3s2
+1	Poprvé	Cv-------------	Adv
+2	byly	VpTP---XR-AA---	AuxV
+3	nabídnuty	VsTP---XX-AP---	Pred
+4	na	RR--6----------	AuxP
+5	Burze	NNFS6-----A----	Adv
+6	cenných	AAIP2----1A----	Atr
+7	papírů	NNIP2-----A----	Atr
+8	Praha	NNFS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	6	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	září	NNNS2-----A----	ExD
+13	na	RR--6----------	AuxP
+14	trhu	NNIS6-----A----	ExD
+15	nekotovaných	AAIP2----1N----	Atr
+16	cenných	AAIP2----1A----	Atr
+17	papírů	NNIP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	avšak	J^-------------	Coord
+20	počátkem	NNIS7-----A----	AuxP
+21	listopadu	NNIS2-----A----	Adv
+22	by	Vc-------------	AuxV
+23	se	P7-X4----------	AuxR
+24	měly	VpTP---XR-AA---	Pred
+25	přesunout	Vf--------A----	Obj
+26	na	RR--4----------	AuxP
+27	kotovaný	AAIS4----1A----	Atr
+28	trh	NNIS4-----A----	Adv
+29	.	Z:-------------	AuxK
+
+ln94210-11-p4s1
+1	ČSOB	NNFXX-----A---8	Sb
+2	dále	Db------------1	Adv
+3	připravuje	VB-S---3P-AA---	Pred
+4	už	Db-------------	AuxZ
+5	pátou	CrFS4----------	Atr
+6	emisi	NNFS4-----A----	Obj
+7	cenných	AAIP2----1A----	Atr
+8	papírů	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	se	P7-X4----------	AuxT
+12	na	RR--6----------	AuxP
+13	primárním	AAIS6----1A----	Atr
+14	trhu	NNIS6-----A----	Adv
+15	objeví	VB-S---3P-AA---	Atr
+16	19	C=-------------	Atr
+17	.	Z:-------------	AuxG
+18	září	NNNS2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln94210-11-p4s2
+1	Budou	VB-P---3F-AA---	Pred
+2	to	PDNS1----------	Sb
+3	jednoroční	AAIP1----1A----	Atr
+4	depozitní	AAIP1----1A----	Atr
+5	certifikáty	NNIP1-----A----	Pnom
+6	úročené	AAIP1----1A----	Atr
+7	sazbou	NNFS7-----A----	Adv
+8	9.75	C=-------------	Atr
+9	%	Z:-------------	Atr
+10	s	RR--7----------	AuxP
+11	nominální	AAFS7----1A----	Atr
+12	hodnotou	NNFS7-----A----	Atr
+13	500	C=-------------	Atr
+14	až	J^-------------	Coord
+15	500	C=-------------	Atr
+16	tisíc	ClXS2----------	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94210-11-p4s3
+1	V	RR--6----------	AuxP
+2	prodeji	NNIS6-----A----	Adv
+3	budou	VB-P---3F-AA---	Pred
+4	od	RR--2----------	AuxP
+5	12	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	září	NNNS2-----A----	Adv
+8	ve	RV--6----------	AuxP
+9	všech	PLXP6----------	Atr
+10	pobočkách	NNFP6-----A----	Adv
+11	ČSOB	NNFXX-----A---8	Atr
+12	.	Z:-------------	AuxK
+
+ln94210-11-p5s1
+1	ČSOB	NNFXX-----A---8	Sb
+2	umožňuje	VB-S---3P-AA---	Pred
+3	zpětný	AAIS4----1A----	Atr
+4	odkup	NNIS4-----A----	Obj
+5	této	PDFS2----------	Atr
+6	emise	NNFS2-----A----	Atr
+7	certifikátů	NNIP2-----A----	Atr
+8	kdykoliv	Db-------------	Adv
+9	přede	RV--7----------	AuxP
+10	dnem	NNIS7-----A----	Adv
+11	splatnosti	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94210-11-p5s2
+1	Jsou	VB-P---3P-AA---	Pred
+2	převoditelné	AAIP1----1A----	Pnom
+3	a	J^-------------	Coord
+4	znějí	VB-P---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	doručitele	NNMS4-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94210-11-p5s3
+1	Úrokový	AAIS1----1A----	Atr
+2	výnos	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	AuxV
+4	diskontován	VsYS---XX-AP---	Pred
+5	předem	Db-------------	Adv
+6	,	Z:-------------	Coord
+7	to	PDNS1----------	Sb
+8	znamená	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	jeho	PSXXXZS3-------	Atr
+12	prodejní	AAFS1----1A----	Atr
+13	cena	NNFS1-----A----	Sb
+14	je	VB-S---3P-AA---	Obj
+15	o	RR--4----------	AuxP
+16	příslušný	AAIS4----1A----	Atr
+17	výnos	NNIS4-----A----	Adv
+18	nižší	AAFS1----2A----	Pnom
+19	než	J,-------------	AuxC
+20	nominální	AAFS1----1A----	Atr
+21	hodnota	NNFS1-----A----	ExD
+22	certifikátu	NNIS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94210-11-p5s4
+1	Výnos	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	zdaňován	VsYS---XX-AP---	Pred
+4	ze	RV--2----------	AuxP
+5	zákona	NNIS2-----A----	Adv
+6	25	C=-------------	Atr
+7	%	Z:-------------	Adv
+8	.	Z:-------------	AuxK
+
+ln94210-11-p6s1
+1	Hlavním	AAIS7----1A----	Atr
+2	cílem	NNIS7-----A----	Pnom
+3	obou	ClXP2----------	Atr
+4	emisí	NNFP2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	podpořit	Vf--------A----	Sb
+7	střednědobou	AAFS4----1A----	Atr
+8	likviditu	NNFS4-----A----	Obj
+9	ČSOB	NNFXX-----A---8	Atr
+10	a	J^-------------	Coord
+11	její	PSFSXFS3-------	Atr
+12	platební	AAFS4----1A----	Atr
+13	vyváženost	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94210-11-p7s1
+1	Za	RR--4----------	AuxP
+2	1	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	pololetí	NNNS4-----A----	Adv
+5	1994	C=-------------	Atr
+6	ČSOB	NNFXX-----A---8	Sb
+7	vykázala	VpQW---XR-AA---	Pred
+8	příznivé	AAIP4----1A----	Atr
+9	výsledky	NNIP4-----A----	Obj
+10	hospodaření	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4IP1----------	Sb
+13	se	P7-X4----------	AuxT
+14	vyznačovaly	VpTP---XR-AA---	Atr
+15	zvýšením	NNNS7-----A----	Obj
+16	aktiv	NNNP2-----A----	Atr
+17	o	RR--4----------	AuxP
+18	22850	C=-------------	Atr
+19	mld	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	Kč	NNFXX-----A----	Atr
+22	zvýšením	NNNS7-----A----	Atr
+23	hrubého	AAIS2----1A----	Atr
+24	zisku	NNIS2-----A----	Atr
+25	na	RR--4----------	AuxP
+26	4643	C=-------------	Atr
+27	miliardy	NNFS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94210-11-p8s1
+1	Úvěry	NNIP1-----A----	Sb
+2	poskytnuté	AAIP1----1A----	Atr
+3	klientům	NNMP3-----A----	Obj
+4	byly	VpTP---XR-AA---	Pred
+5	ke	RV--3----------	AuxP
+6	konci	NNIS3-----A----	Adv
+7	prvního	CrNS2----------	Atr
+8	pololetí	NNNS2-----A----	Atr
+9	ve	RV--6----------	AuxP
+10	srovnání	NNNS6-----A----	AuxP
+11	s	RR--7----------	AuxP
+12	koncem	NNIS7-----A----	Adv
+13	minulého	AAIS2----1A----	Atr
+14	roku	NNIS2-----A---1	Atr
+15	o	RR--4----------	AuxP
+16	13	C=-------------	Adv
+17	až	J^-------------	Coord
+18	14	C=-------------	Adv
+19	%	Z:-------------	Atr
+20	vyšší	AAIP1----2A----	Pnom
+21	a	J^-------------	Coord
+22	celkově	Dg-------1A----	Adv
+23	dosáhly	VpTP---XR-AA---	Pred
+24	80.4	C=-------------	Atr
+25	mld	NNFXX-----A---8	Atr
+26	.	Z:-------------	AuxG
+27	Kč	NNFXX-----A----	Obj
+28	.	Z:-------------	AuxK
+
+ln94210-11-p9s1
+1	Vklady	NNIP1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	klientských	AAIP6----1A----	Atr
+4	účtech	NNIP6-----A----	Atr
+5	vzrostly	VpTP---XR-AA---	Pred
+6	o	RR--4----------	AuxP
+7	více	Dg-------2A----	Adv
+8	než	J,-------------	AuxC
+9	12	C=-------------	Adv
+10	%	Z:-------------	Atr
+11	a	J^-------------	Coord
+12	dosáhly	VpTP---XR-AA---	Pred
+13	61.1	C=-------------	Obj
+14	miliardy	NNFS2-----A----	Atr
+15	Kč	NNFXX-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94210-11-p10s1
+1	Banka	NNFS1-----A----	Sb
+2	ve	RV--6----------	AuxP
+3	zvýšené	AAFS6----1A----	Atr
+4	míře	NNFS6-----A----	Adv
+5	uspokojovala	VpQW---XR-AA---	Pred
+6	poptávku	NNFS4-----A----	Obj
+7	svých	P8XP2----------	Atr
+8	klientů	NNMP2-----A----	Atr
+9	po	RR--6----------	AuxP
+10	úvěrech	NNIP6-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	volně	Dg-------1A----	Adv
+13	směnitelných	AAFP6----1A----	Atr
+14	měnách	NNFP6-----A----	Atr
+15	,	Z:-------------	AuxX
+16	zejména	Db-------------	AuxZ
+17	v	RR--6----------	AuxP
+18	amerických	AAIP6----1A----	Atr
+19	dolarech	NNIP6-----A----	Atr
+20	,	Z:-------------	Coord
+21	naproti	RR--3----------	AuxP
+22	tomu	PDZS3----------	Adv
+23	zaznamenala	VpQW---XR-AA---	Pred
+24	menší	AAIS4----2A----	Atr
+25	zájem	NNIS4-----A----	Obj
+26	o	RR--4----------	AuxP
+27	účelové	AAFP4----1A----	Atr
+28	zbožové	AAFP4----1A----	Atr
+29	linky	NNFP4-----A----	Atr
+30	pro	RR--4----------	AuxP
+31	dovoz	NNIS4-----A----	Atr
+32	ze	RV--2----------	AuxP
+33	zahraničí	NNNS2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94210-11-p10s2
+1	K	RR--3----------	AuxP
+2	určitému	AANS3----1A----	Atr
+3	oživení	NNNS3-----A----	Obj
+4	došlo	VpNS---XR-AA---	Pred
+5	jen	TT-------------	AuxZ
+6	u	RR--2----------	AuxP
+7	dovozců	NNMP2-----A----	Adv
+8	ze	RV--2----------	AuxP
+9	Spojených	AAIP2----1A----	Atr
+10	států	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94210-11-p11s1
+1	Postupně	Dg-------1A----	Adv
+2	dochází	VB-S---3P-AA---	Pred
+3	k	RR--3----------	AuxP
+4	oživení	NNNS3-----A----	Obj
+5	počtu	NNIS2-----A----	Atr
+6	a	J^-------------	Coord
+7	objemu	NNIS2-----A----	Atr
+8	dokumentárních	AAIP2----1A----	Atr
+9	akreditivů	NNIP2-----A----	Atr
+10	,	Z:-------------	Coord
+11	k	RR--3----------	AuxP
+12	dalšímu	AAIS3----1A----	Atr
+13	nárůstu	NNIS3-----A----	Obj
+14	hladkých	AAFP2----1A----	Atr
+15	plateb	NNFP2-----A----	Atr
+16	(	Z:-------------	AuxG
+17	to	PDNS1----------	AuxY
+18	jest	VB-S---3P-AA--2	Apos
+19	příkazů	NNIP2-----A----	Atr
+20	k	RR--3----------	AuxP
+21	bezhotovostním	AAIP3----1A----	Atr
+22	převodům	NNIP3-----A----	Atr
+23	,	Z:-------------	AuxX
+24	jimž	PJXP3----------	Obj
+25	podnikatelé	NNMP1-----A----	Sb
+26	dávají	VB-P---3P-AA---	Atr
+27	přednost	NNFS4-----A----	Obj
+28	v	RR--6----------	AuxP
+29	období	NNNS6-----A----	AuxP
+30	stabilizace	NNFS2-----A----	Adv
+31	obchodních	AAIP2----1A----	Atr
+32	vztahů	NNIP2-----A----	Atr
+33	)	Z:-------------	AuxG
+34	a	J^-------------	Coord
+35	směnárenské	AAFS2----1A----	Atr
+36	činnosti	NNFS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln94210-11-p11s2
+1	Rozhodující	AGIS4-----A----	Atr
+2	podíl	NNIS4-----A----	Obj
+3	na	RR--6----------	AuxP
+4	hospodářském	AAIS6----1A----	Atr
+5	výsledku	NNIS6-----A----	Atr
+6	banky	NNFS2-----A----	Atr
+7	měl	VpYS---XR-AA---	Pred
+8	rozdíl	NNIS1-----A----	Sb
+9	mezi	RR--7----------	AuxP
+10	přijatými	AAIP7----1A----	Atr
+11	a	J^-------------	Coord
+12	vyplacenými	AAIP7----1A----	Atr
+13	úroky	NNIP7-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94210-11-p11s3A
+1	Jeho	PSXXXZS3-------	Atr
+2	podíl	NNIS1-----A----	Sb
+3	na	RR--6----------	AuxP
+4	zisku	NNIS6-----A----	Atr
+5	z	RR--2----------	AuxP
+6	bankovní	AAFS2----1A----	Atr
+7	činnosti	NNFS2-----A----	Atr
+8	vzrostl	VpYS---XR-AA---	Pred
+9	z	RR--2----------	AuxP
+10	52.8	C=-------------	Obj
+11	%	Z:-------------	Atr
+12	v	RR--6----------	AuxP
+13	loňském	AANS6----1A----	Atr
+14	prvním	CrNS6----------	Atr
+15	pololetí	NNNS6-----A----	Atr
+16	na	RR--4----------	AuxP
+17	63.9	C=-------------	Obj
+18	%	Z:-------------	Atr
+19	ke	RV--3----------	AuxP
+20	30	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	červnu	NNIS3-----A----	Atr
+23	1994	C=-------------	Atr
+24	.	Z:-------------	AuxK
+
+ln94210-11-p11s3B
+1	(	Z:-------------	ExD
+2	am	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

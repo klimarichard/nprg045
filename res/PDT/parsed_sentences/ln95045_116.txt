@@ -1,0 +1,135 @@
+ln95045-116-p1s1
+1	Dolar	NNIS1-----A----	Sb
+2	zůstává	VB-S---3P-AA---	Pred
+3	slabý	AAIS1----1A----	Obj
+
+ln95045-116-p2s1A
+1	Londýn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-116-p2s1B
+1	Během	RR--2----------	AuxP
+2	včerejšího	AANS2----1A----	Atr
+3	dopoledne	NNNS2-----A----	Adv
+4	byl	VpYS---XR-AA---	Pred
+5	dolar	NNIS1-----A----	Sb
+6	na	RR--6----------	AuxP
+7	evropských	AAIP6----1A----	Atr
+8	devizových	AAIP6----1A----	Atr
+9	trzích	NNIP6-----A----	AdvAtr
+10	slabý	AAIS1----1A----	Pnom
+11	i	J^-------------	AuxZ
+12	přes	RR--4----------	AuxP
+13	jeho	PSXXXZS3-------	Atr
+14	předchozí	AAIS4----1A----	Atr
+15	vzestup	NNIS4-----A----	Adv
+16	na	RR--6----------	AuxP
+17	newyorském	AAIS6----1A----	Atr
+18	devizovém	AAIS6----1A----	Atr
+19	trhu	NNIS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-116-p2s2
+1	Hlavním	AAIS7----1A----	Atr
+2	důvodem	NNIS7-----A----	Pnom
+3	bylo	VpNS---XR-AA---	Pred
+4	pokračující	AGNS1-----A----	Atr
+5	posilování	NNNS1-----A----	Sb
+6	marky	NNFS2-----A----	Atr
+7	vůči	RR--3----------	AuxP
+8	většině	NNFS3-----A----	Atr
+9	evropských	AAFP2----1A----	Atr
+10	měn	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95045-116-p3s1
+1	Včera	Db-------------	Adv
+2	v	RR--4----------	AuxP
+3	poledne	NNNS4-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	dolar	NNIS1-----A----	Sb
+6	prodával	VpYS---XR-AA---	Pred
+7	za	RR--4----------	AuxP
+8	1.4748	C=-------------	Adv
+9	marky	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	výrazně	Dg-------1A----	Adv
+12	pod	RR--7----------	AuxP
+13	newyorským	AANS7----1A----	Atr
+14	pondělním	AANS7----1A----	Atr
+15	maximem	NNNS7-----A----	Adv
+16	1.4867	C=-------------	Atr
+17	DEM	NNFXX-----A---8	Atr
+18	a	J^-------------	Coord
+19	blízko	Dg-------1A----	Adv
+20	k	RR--3----------	AuxP
+21	úrovni	NNFS3-----A----	Adv
+22	1.4725	C=-------------	Atr
+23	DEM	NNFXX-----A---8	Atr
+24	,	Z:-------------	AuxX
+25	na	RR--6----------	AuxP
+26	které	P4FS6----------	Adv
+27	v	RR--4----------	AuxP
+28	pondělí	NNNS4-----A----	Adv
+29	končil	VpYS---XR-AA---	Atr
+30	v	RR--6----------	AuxP
+31	Londýně	NNIS6-----A----	Adv
+32	.	Z:-------------	AuxK
+
+ln95045-116-p4s1
+1	Řada	NNFS1-----A----	Sb
+2	západoevropských	AAFP2----1A----	Atr
+3	měn	NNFP2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	podle	RR--2----------	AuxP
+6	analytiků	NNMP2-----A----	Adv
+7	již	Db-------------	AuxZ
+8	týdny	NNIP4-----A----	Adv
+9	zmítá	VB-S---3P-AA---	Pred
+10	v	RR--6----------	AuxP
+11	kolotoči	NNIS6-----A----	Adv
+12	rostoucích	AGIP2-----A----	Atr
+13	rozpočtových	AAIP2----1A----	Atr
+14	deficitů	NNIP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	politických	AAIP2----1A----	Atr
+17	skandálů	NNIP2-----A----	Atr
+18	a	J^-------------	Coord
+19	rostoucí	AGFS2-----A----	Atr
+20	inflace	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-116-p4s2
+1	To	PDNS1----------	Sb
+2	všechno	PLNS1----------	Atr
+3	přispívá	VB-S---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	posilování	NNNS3-----A----	Obj
+6	německé	AAFS2----1A----	Atr
+7	marky	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95045-116-p4s3
+1	Lira	NNFS1-----A----	Sb
+2	klesla	VpQW---XR-AA--1	Pred
+3	vůči	RR--3----------	AuxP
+4	marce	NNFS3-----A----	Adv
+5	na	RR--4----------	AuxP
+6	nové	AANS4----1A----	Atr
+7	minimum	NNNS4-----A----	Obj
+8	1093.55	C=-------------	Atr
+9	ITL	NNFXX-----A---8	Atr
+10	a	J^-------------	Coord
+11	francouzský	AAIS1----1A----	Atr
+12	frank	NNIS1-----A----	Sb
+13	spadl	VpYS---XR-AA--1	Pred
+14	na	RR--4----------	AuxP
+15	15	C=-------------	Adv
+16	měsíční	AANS4----1A----	Atr
+17	minimum	NNNS4-----A----	Obj
+18	3.4847	C=-------------	Atr
+19	FRF	NNIXX-----A---8	Atr
+20	za	RR--4----------	AuxP
+21	DEM	NNFXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+

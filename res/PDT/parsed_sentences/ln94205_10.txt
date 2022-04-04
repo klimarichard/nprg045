@@ -1,0 +1,540 @@
+ln94205-10-p1s1
+1	Za	RR--4----------	AuxP
+2	opožděné	AANS4----1A----	Atr
+3	placení	NNNS4-----A----	Atr
+4	závazků	NNIP2-----A----	Atr
+5	přichází	VB-S---3P-AA---	Pred
+6	trest	NNIS1-----A----	Sb
+
+ln94205-10-p2s1A
+1	Byznys	NNIS1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	každého	AAMS4----1A----	Atr
+
+ln94205-10-p2s1B
+1	Jaromír	NNMS1-----A----	Atr
+2	Richter	NNMS1-----A----	ExD
+
+ln94205-10-p2s1C
+1	Každému	AAMS3----1A----	Obj
+2	z	RR--2----------	AuxP
+3	nás	PP-P2--1-------	Atr
+4	se	P7-X4----------	AuxT
+5	může	VB-S---3P-AA---	Pred
+6	stát	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	z	RR--2----------	AuxP
+10	nějakých	PZXP2----------	Atr
+11	osobních	AAIP2----1A----	Atr
+12	,	Z:-------------	AuxX
+13	podnikových	AAIP2----1A----	Atr
+14	či	J^-------------	Coord
+15	zcela	Db-------------	Adv
+16	objektivních	AAIP2----1A----	Atr
+17	důvodů	NNIP2-----A----	Adv
+18	něco	PZ--4----------	Obj
+19	nezaplatíme	VB-P---1P-NA---	Sb
+20	včas	Db-------------	Adv
+21	.	Z:-------------	AuxK
+
+ln94205-10-p2s2
+1	Pro	RR--4----------	AuxP
+2	takový	PDIS4----------	Atr
+3	případ	NNIS4-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	dobré	AANS1----1A----	Pnom
+6	vědět	Vf--------A----	Sb
+7	,	Z:-------------	AuxX
+8	jaké	P4FP1----------	Atr
+9	sankce	NNFP1-----A----	Sb
+10	nás	PP-P4--1-------	Obj
+11	mohou	VB-P---3P-AA--1	Obj
+12	potkat	Vf--------A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94205-10-p3s1
+1	K	RR--3----------	AuxP
+2	nejčastějším	AAIP3----3A----	Atr
+3	zajišťovacím	AAIP3----1A----	Atr
+4	prostředkům	NNIP3-----A----	Obj
+5	pro	RR--4----------	AuxP
+6	případ	NNIS4-----A----	Atr
+7	neplnění	NNNS2-----N----	Atr
+8	peněžitých	AAIP2----1A----	Atr
+9	závazků	NNIP2-----A----	Atr
+10	podnikatelů	NNMP2-----A----	Atr
+11	patří	VB-S---3P-AA---	Pred
+12	úrok	NNIS1-----A----	Sb
+13	z	RR--2----------	AuxP
+14	prodlení	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94205-10-p4s1
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	smluvní	AAFS2----1A----	Atr
+5	pokuty	NNFS2-----A----	Adv
+6	zákon	NNIS1-----A----	Sb
+7	výslovně	Dg-------1A----	Adv
+8	nepodmiňuje	VB-S---3P-NA---	Pred
+9	jeho	PSXXXZS3-------	Atr
+10	uplatnění	NNNS4-----A----	Obj
+11	příslušným	AANS7----1A----	Atr
+12	ustanovením	NNNS7-----A----	Obj
+13	ve	RV--6----------	AuxP
+14	smlouvě	NNFS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94205-10-p4s2
+1	Ponechává	VB-S---3P-AA---	Pred
+2	na	RR--6----------	AuxP
+3	vůli	NNFS6-----A----	Obj
+4	smluvních	AAFP2----1A----	Atr
+5	stran	NNFP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	zda	J,-------------	AuxC
+8	ujednání	NNNS4-----A----	Obj
+9	o	RR--6----------	AuxP
+10	úroku	NNIS6-----A----	Atr
+11	z	RR--2----------	AuxP
+12	prodlení	NNNS2-----A----	Atr
+13	a	J^-------------	Coord
+14	jeho	PSXXXZS3-------	Atr
+15	výši	NNFS6-----A----	Atr
+16	zahrnou	VB-P---3P-AA---	Obj
+17	do	RR--2----------	AuxP
+18	smlouvy	NNFS2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln94205-10-p4s3
+1	To	PDNS1----------	Sb
+2	znamená	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	pokud	J,-------------	AuxC
+6	ustanovení	NNNS4-----A----	Obj
+7	o	RR--6----------	AuxP
+8	výši	NNFS6-----A----	Atr
+9	úroku	NNIS2-----A----	Atr
+10	smlouva	NNFS1-----A----	Sb
+11	postrádá	VB-S---3P-AA---	Adv
+12	,	Z:-------------	AuxX
+13	nezaniká	VB-S---3P-NA---	Obj
+14	nárok	NNIS1-----A----	Sb
+15	věřitele	NNMS2-----A----	Atr
+16	(	Z:-------------	Apos
+17	prodávajícího	AGMS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	zhotovitele	NNMS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	dodavatele	NNMS2-----A----	Atr
+22	apod	Db------------8	Coord
+23	.	Z:-------------	AuxG
+24	)	Z:-------------	AuxG
+25	na	RR--4----------	AuxP
+26	jeho	PSXXXZS3-------	Atr
+27	vymáhání	NNNS4-----A----	Atr
+28	,	Z:-------------	AuxX
+29	pokud	J,-------------	AuxC
+30	jej	PPZS4--3------2	Obj
+31	hodlá	VB-S---3P-AA---	Adv
+32	uplatnit	Vf--------A----	Obj
+33	,	Z:-------------	AuxX
+34	ani	J^-------------	Coord
+35	povinnost	NNFS1-----A----	Sb
+36	dlužníka	NNMS2-----A----	Atr
+37	(	Z:-------------	Apos
+38	kupujícího	AGMS2-----A----	Atr
+39	,	Z:-------------	AuxX
+40	objednatele	NNMS2-----A----	Atr
+41	,	Z:-------------	AuxX
+42	odběratele	NNMS2-----A----	Atr
+43	apod	Db------------8	Coord
+44	.	Z:-------------	AuxG
+45	)	Z:-------------	AuxG
+46	úrok	NNIS4-----A----	Obj
+47	zaplatit	Vf--------A----	Atr
+48	.	Z:-------------	AuxK
+
+ln94205-10-p4s4
+1	Tím	PDZS7----------	Adv
+2	vyvracíme	VB-P---1P-AA---	Pred
+3	obavy	NNFP4-----A----	Obj
+4	věřitelů	NNMP2-----A----	Atr
+5	dotazujících	AGMP2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	často	Dg-------1A----	Adv
+8	na	RR--4----------	AuxP
+9	následky	NNIP4-----A----	Obj
+10	opomenutí	NNNS2-----A----	Atr
+11	ustanovení	NNNS2-----A----	Atr
+12	o	RR--6----------	AuxP
+13	úrocích	NNIP6-----A----	Atr
+14	ve	RV--6----------	AuxP
+15	smlouvách	NNFP6-----A----	AtrAtr
+16	.	Z:-------------	AuxK
+
+ln94205-10-p5s1
+1	Povinnost	NNFS1-----A----	Sb
+2	dlužníka	NNMS2-----A----	Atr
+3	nastává	VB-S---3P-AA---	Pred
+4	ode	RV--2----------	AuxP
+5	dne	NNIS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	kdy	Db-------------	Adv
+8	porušil	VpYS---XR-AA---	Atr
+9	svůj	P8IS4----------	Atr
+10	závazek	NNIS4-----A----	Obj
+11	k	RR--3----------	AuxP
+12	peněžitému	AANS3----1A----	Atr
+13	plnění	NNNS3-----A----	Atr
+14	,	Z:-------------	AuxX
+15	tj	J^------------8	Apos
+16	.	Z:-------------	AuxG
+17	ode	RV--2----------	AuxP
+18	dne	NNIS2-----A----	Adv
+19	,	Z:-------------	AuxX
+20	kdy	Db-------------	Adv
+21	nezaplatil	VpYS---XR-NA---	Atr
+22	dohodnutou	AAFS4----1A----	Atr
+23	finanční	AAFS4----1A----	Atr
+24	částku	NNFS4-----A----	Obj
+25	,	Z:-------------	AuxX
+26	ač	J,-------------	AuxC
+27	se	P7-X4----------	AuxT
+28	k	RR--3----------	AuxP
+29	tomu	PDZS3----------	Obj
+30	zavázal	VpYS---XR-AA---	Adv
+31	,	Z:-------------	AuxX
+32	a	J^-------------	Coord
+33	trvá	VB-S---3P-AA---	Pred
+34	do	RR--2----------	AuxP
+35	dne	NNIS2-----A----	Adv
+36	skutečného	AANS2----1A----	Atr
+37	splnění	NNNS2-----A----	Atr
+38	.	Z:-------------	AuxK
+
+ln94205-10-p6s1
+1	Zdůvodňování	NNNS1-----A----	Sb
+2	příčin	NNFP2-----A----	Atr
+3	neplnění	NNNS2-----N----	Atr
+4	dlužníkem	NNMS7-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	bezvýznamné	AANS1----1A----	Pnom
+7	.	Z:-------------	AuxK
+
+ln94205-10-p6s2
+1	Povinnost	NNFS1-----A----	Sb
+2	k	RR--3----------	AuxP
+3	úhradě	NNFS3-----A----	Atr
+4	úroku	NNIS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	totiž	Db-------------	AuxY
+7	vztahuje	VB-S---3P-AA---	Pred
+8	i	J^-------------	AuxZ
+9	na	RR--4----------	AuxP
+10	případy	NNIP4-----A----	Obj
+11	jinak	Db-------------	Adv
+12	vylučující	AGIP4-----A----	Atr
+13	odpovědnost	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94205-10-p6s3
+1	Patří	VB-P---3P-AA---	Pred
+2	sem	Db-------------	Adv
+3	i	J^-------------	AuxZ
+4	případy	NNIP1-----A----	Sb
+5	tzv	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	vyšší	AAFS2----2A----	Atr
+8	moci	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94205-10-p6s4
+1	Nárok	NNIS4-----A----	Obj
+2	věřitele	NNMS2-----A----	Atr
+3	na	RR--4----------	AuxP
+4	úrok	NNIS4-----A----	Atr
+5	z	RR--2----------	AuxP
+6	prodlení	NNNS2-----A----	Atr
+7	nelze	VB-S---3P-NA---	Pred
+8	proto	J^-------------	Coord
+9	nijak	Db-------------	Adv
+10	zpochybňovat	Vf--------A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94205-10-p6s5
+1	Diskutovat	Vf--------A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	však	J^-------------	Coord
+4	možno	ACNS------A----	Pnom
+5	o	RR--6----------	AuxP
+6	výši	NNFS6-----A----	Obj
+7	úroku	NNIS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94205-10-p7s1
+1	Z	RR--2----------	AuxP
+2	předchozího	AANS2----1A----	Obj
+3	vyplývá	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	mohou	VB-P---3P-AA--1	Sb
+7	nastat	Vf--------A----	Obj
+8	dva	ClYP1----------	Atr
+9	případy	NNIP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94205-10-p7s2
+1	V	RR--6----------	AuxP
+2	prvním	CrIS6----------	ExD
+3	vycházíme	VB-P---1P-AA---	Pred
+4	ze	RV--2----------	AuxP
+5	skutečnosti	NNFS2-----A----	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	výše	NNFS1-----A----	Sb
+9	úroku	NNIS2-----A----	Atr
+10	z	RR--2----------	AuxP
+11	prodlení	NNNS2-----A----	Atr
+12	byla	VpQW---XR-AA---	AuxV
+13	stanovena	VsQW---XX-AP---	Atr
+14	smlouvou	NNFS7-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94205-10-p7s3
+1	Je	VB-S---3P-AA---	Pred
+2	proto	J^-------------	Coord
+3	třeba	ACNS------A----	Pnom
+4	plnit	Vf--------A----	Sb
+5	v	RR--6----------	AuxP
+6	takové	PDFS6----------	Atr
+7	výši	NNFS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	jak	J,-------------	Adv
+10	to	PDNS4----------	Obj
+11	smlouva	NNFS1-----A----	Sb
+12	ukládá	VB-S---3P-AA---	Adv
+13	.	Z:-------------	AuxK
+
+ln94205-10-p7s4
+1	Nejde	VB-S---3P-NA---	Pred
+2	ovšem	J^-------------	Coord
+3	o	RR--4----------	AuxP
+4	plnění	NNNS4-----A----	Obj
+5	neomezené	AANS4----1N----	Atr
+6	.	Z:-------------	AuxK
+
+ln94205-10-p7s5
+1	Co	PQ--1----------	Sb
+2	se	P7-X4----------	AuxT
+3	týče	VB-S---3P-AA--1	Adv
+4	horní	AAFS2----1A----	Atr
+5	hranice	NNFS2-----A----	Obj
+6	úroku	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	nelze	VB-S---3P-NA---	Pred
+9	překročit	Vf--------A----	Sb
+10	zásady	NNFP4-----A----	Obj
+11	poctivého	AAIS2----1A----	Atr
+12	obchodního	AAIS2----1A----	Atr
+13	styku	NNIS2-----A----	Atr
+14	(	Z:-------------	ExD
+15	§	NNIXX-----A---1	ExD
+16	265	C=-------------	Atr
+17	Obchodního	AAIS2----1A----	Atr
+18	zákoníku	NNIS2-----A----	Atr
+19	)	Z:-------------	ExD
+20	.	Z:-------------	AuxK
+
+ln94205-10-p7s6
+1	Úroky	NNIP1-----A----	Sb
+2	přesahující	AGIP1-----A----	Atr
+3	přiměřenou	AAFS4----1A----	Atr
+4	míru	NNFS4-----A----	Obj
+5	jsou	VB-P---3P-AA---	Pred
+6	zpravidla	Db-------------	Adv
+7	soudně	Dg-------1A----	Adv
+8	nevymožitelné	AAIP1----1N----	Pnom
+9	.	Z:-------------	AuxK
+
+ln94205-10-p7s7
+1	Při	RR--6----------	AuxP
+2	rozhodování	NNNS6-----A----	Adv
+3	o	RR--6----------	AuxP
+4	přiměřenosti	NNFS6-----A----	Atr
+5	vychází	VB-S---3P-AA---	Pred
+6	soud	NNIS1-----A----	Sb
+7	zpravidla	Db-------------	Adv
+8	z	RR--2----------	AuxP
+9	§	NNIXX-----A---1	Obj
+10	369	C=-------------	Atr
+11	odst	NNIXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	1	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	o	RR--6----------	AuxP
+16	kterém	P4ZS6----------	Obj
+17	píšeme	VB-P---1P-AA---	Atr
+18	dále	Db------------1	Adv
+19	.	Z:-------------	AuxK
+
+ln94205-10-p8s1
+1	Ve	RV--6----------	AuxP
+2	druhém	CrIS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	jedná	VB-S---3P-AA---	Pred
+6	o	RR--4----------	AuxP
+7	stav	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	smlouva	NNFS1-----A----	Sb
+11	postrádá	VB-S---3P-AA---	Atr
+12	ustanovení	NNNS4-----A----	Obj
+13	o	RR--6----------	AuxP
+14	výši	NNFS6-----A----	Atr
+15	úroku	NNIS2-----A----	Atr
+16	z	RR--2----------	AuxP
+17	prodlení	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94205-10-p8s2
+1	Na	RR--4----------	AuxP
+2	tento	PDIS4----------	Atr
+3	případ	NNIS4-----A----	Obj
+4	se	P7-X4----------	AuxT
+5	vztahuje	VB-S---3P-AA---	Pred
+6	podpůrné	AANS1----1A----	Atr
+7	ustanovení	NNNS1-----A----	Sb
+8	§	NNIXX-----A---1	Atr
+9	369	C=-------------	Atr
+10	odst	NNIXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	1	C=-------------	Atr
+13	Obchodního	AAIS2----1A----	Atr
+14	zákoníku	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94205-10-p8s3
+1	Podle	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	dlužník	NNMS1-----A----	Sb
+5	povinen	ACYS------A----	Pnom
+6	zaplatit	Vf--------A----	Obj
+7	věřiteli	NNMS3-----A----	Obj
+8	úrok	NNIS4-----A----	Obj
+9	z	RR--2----------	AuxP
+10	prodlení	NNNS2-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	výši	NNFS6-----A----	AtrAdv
+13	o	RR--4----------	AuxP
+14	jedno	ClNS4----------	Atr
+15	procento	NNNS4-----A----	Adv
+16	vyšší	AAFS6----2A----	Atr
+17	,	Z:-------------	AuxX
+18	než	J,-------------	AuxC
+19	činí	VB-S---3P-AA---	Adv
+20	obvyklá	AAFS1----1A----	Atr
+21	sazba	NNFS1-----A----	Sb
+22	úroků	NNIP2-----A----	Atr
+23	z	RR--2----------	AuxP
+24	úvěrů	NNIP2-----A----	Atr
+25	poskytovaných	AAIP2----1A----	Atr
+26	bankami	NNFP7-----A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94205-10-p8s4
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	nestejným	AAFP3----1N----	Atr
+4	úrokovým	AAFP3----1A----	Atr
+5	sazbám	NNFP3-----A----	Adv
+6	peněžních	AAIP2----1A----	Atr
+7	ústavů	NNIP2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	jednotlivých	AANP6----1A----	Atr
+10	místech	NNNP6-----A----	Adv
+11	se	P7-X4----------	AuxR
+12	při	RR--6----------	AuxP
+13	uplatnění	NNNS6-----A----	Adv
+14	tohoto	PDZS2----------	Atr
+15	postupu	NNIS2-----A----	Atr
+16	řídí	VB-S---3P-AA---	Pred
+17	výpočet	NNIS1-----A----	Sb
+18	sazbami	NNFP7-----A----	Obj
+19	v	RR--6----------	AuxP
+20	místě	NNNS6-----A----	Atr
+21	sídla	NNNS2-----A----	Atr
+22	dlužníka	NNMS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94205-10-p8s5
+1	Doba	NNFS1-----A----	Sb
+2	rozhodná	AAFS1----1A----	Atr
+3	pro	RR--4----------	AuxP
+4	výpočet	NNIS4-----A----	Adv
+5	je	VB-S---3P-AA---	Pred
+6	doba	NNFS1-----A----	Pnom
+7	uzavření	NNNS2-----A----	Atr
+8	smlouvy	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	v	RR--6----------	AuxP
+11	jejímž	P1ZS6FS3-------	Atr
+12	důsledku	NNIS6-----A----	Adv
+13	vznikl	VpYS---XR-AA--1	Atr
+14	peněžitý	AAIS1----1A----	Atr
+15	závazek	NNIS1-----A----	Sb
+16	dlužníka	NNMS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94205-10-p8s6
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	obvyklé	AAFP1----1A----	Atr
+4	úrokové	AAFP1----1A----	Atr
+5	sazby	NNFP1-----A----	Sb
+6	bank	NNFP2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	místě	NNNS6-----A----	Atr
+9	sídla	NNNS2-----A----	Atr
+10	věřitele	NNMS2-----A----	Atr
+11	umožňovaly	VpTP---XR-AA---	Adv
+12	vyšší	AAIS4----2A----	Atr
+13	úrok	NNIS4-----A----	Obj
+14	z	RR--2----------	AuxP
+15	prodlení	NNNS2-----A----	Atr
+16	,	Z:-------------	Coord
+17	čímž	PE--7----------	Adv
+18	by	Vc-------------	AuxV
+19	docházelo	VpNS---XR-AA---	Adv
+20	k	RR--3----------	AuxP
+21	jeho	PSXXXZS3-------	Atr
+22	poškození	NNNS3-----A----	Obj
+23	,	Z:-------------	AuxX
+24	připadá	VB-S---3P-AA---	Pred
+25	v	RR--4----------	AuxP
+26	úvahu	NNFS4-----A----	Obj
+27	vymáhat	Vf--------A----	Sb
+28	rozdíl	NNIS4-----A----	Obj
+29	ve	RV--6----------	AuxP
+30	formě	NNFS6-----A----	AuxP
+31	náhrady	NNFS2-----A----	Adv
+32	škody	NNFS2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94205-10-p8s7
+1	Takový	PDIS4----------	Atr
+2	postup	NNIS4-----A----	Obj
+3	umožňuje	VB-S---3P-AA---	Pred
+4	ustanovení	NNNS1-----A----	Sb
+5	§	NNIXX-----A---1	Atr
+6	369	C=-------------	Atr
+7	odst	NNIXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	2	C=-------------	Atr
+10	.	Z:-------------	AuxK
+

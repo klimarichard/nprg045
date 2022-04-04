@@ -1,0 +1,112 @@
+mf920922-125-p1s1
+1	ČSFR	NNFXX-----A---8	ExD
+2	-	Z:-------------	Coord
+3	USA	NNIPX-----A----	ExD
+4	.	Z:-------------	AuxK
+
+mf920922-125-p1s3
+1	Ministr	NNMS1-----A----	Atr
+2	zahraničí	NNNS2-----A----	Atr
+3	ČSFR	NNFXX-----A---8	Atr
+4	Jozef	NNMS1-----A----	Atr
+5	Moravčík	NNMS1-----A----	Sb
+6	přiletěl	VpYS---XR-AA---	Pred
+7	v	RR--4----------	AuxP
+8	neděli	NNFS4-----A----	Adv
+9	do	RR--2----------	AuxP
+10	Washingtonu	NNIS2-----A----	Adv
+11	,	Z:-------------	AuxX
+12	kde	Db-------------	Adv
+13	zahajuje	VB-S---3P-AA---	Atr
+14	návštěvu	NNFS4-----A----	Obj
+15	USA	NNIPX-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920922-125-p1s4
+1	Mj	Db------------8	Adv
+2	.	Z:-------------	AuxG
+3	vystoupí	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	47	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	valném	AANS6----1A----	Atr
+8	shromáždění	NNNS6-----A----	Adv
+9	OSN	NNFXX-----A---8	Atr
+10	v	RR--6----------	AuxP
+11	New	AAXXX----1A----	Atr
+12	Yorku	NNIS6-----A----	AtrAdv
+13	.	Z:-------------	AuxK
+
+mf920922-125-p2s1
+1	V	RR--4----------	AuxP
+2	DEN	NNIS4-----A----	ExD
+3	PÁDU	NNIS2-----A----	Atr
+4	ZDI	NNFS2-----A----	Atr
+5	?	Z:-------------	AuxK
+
+mf920922-125-p2s2
+1	Soud	NNIS1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	bývalým	AAMS7----1A----	Atr
+4	vůdcem	NNMS7-----A----	Atr
+5	NDR	NNFXX-----A---8	Atr
+6	Erichem	NNMS7-----A----	Atr
+7	Honeckerem	NNMS7-----A----	Atr
+8	by	Vc-------------	AuxV
+9	mohl	VpYS---XR-AA---	Pred
+10	začít	Vf--------A----	Obj
+11	v	RR--4----------	AuxP
+12	den	NNIS4-----A----	Adv
+13	třetího	CrNS2----------	Atr
+14	výročí	NNNS2-----A----	Atr
+15	pádu	NNIS2-----A----	Atr
+16	berlínské	AAFS2----1A----	Atr
+17	zdi	NNFS2-----A----	Atr
+18	9	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	listopadu	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920922-125-p2s3
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	včerejšího	AANS2----1A----	Atr
+5	prohlášení	NNNS2-----A----	Obj
+6	mluvčí	NNFS2-----A----	Atr
+7	berlínské	AAFS2----1A----	Atr
+8	justice	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf920922-125-p3s1
+1	DALŠÍ	AAFP1----1A----	Atr
+2	OBĚTI	NNFP1-----A----	ExD
+3	.	Z:-------------	AuxK
+
+mf920922-125-p3s2
+1	Stovky	NNFP4-----A----	Obj
+2	mrtvých	AAMP2----1A----	ExD
+3	si	P7-X3----------	AuxT
+4	vyžádaly	VpTP---XR-AA---	Pred
+5	podle	RR--2----------	AuxP
+6	zpráv	NNFP2-----A----	Adv
+7	z	RR--2----------	AuxP
+8	Baku	NNNXX-----A----	Atr
+9	i	J^-------------	Coord
+10	Jerevanu	NNIS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	posledních	AAIP6----2A----	Atr
+13	dnech	NNIP6-----A----	Adv
+14	boje	NNIP1-----A----	Sb
+15	o	RR--4----------	AuxP
+16	tzv	AAXXX----1A---8	Atr
+17	.	Z:-------------	AuxG
+18	lačinský	AAIS4----1A----	Atr
+19	koridor	NNIS4-----A----	Atr
+20	spojující	AGIS4-----A----	Atr
+21	Arménii	NNFS4-----A----	Obj
+22	s	RR--7----------	AuxP
+23	Náhorním	AAIS7----1A----	Atr
+24	Karabachem	NNIS7-----A----	Obj
+25	.	Z:-------------	AuxK
+

@@ -1,0 +1,382 @@
+ln95046-003-p1s1
+1	Na	RR--6----------	AuxP
+2	světě	NNIS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	30	C=-------------	Sb
+5	procent	NNNP2-----A----	Atr
+6	nezaměstnaných	AAMP2----1N----	Atr
+
+ln95046-003-p2s1A
+1	Výroční	AAFS1----1A----	Atr
+2	zpráva	NNFS1-----A----	Sb
+3	Mezinárodní	AAFS2----1A----	Atr
+4	organizace	NNFS2-----A----	Atr
+5	práce	NNFS2-----A----	Atr
+6	varuje	VB-S---3P-AA---	Pred
+7	před	RR--7----------	AuxP
+8	světovou	AAFS7----1A----	Atr
+9	krizí	NNFS7-----A----	Obj
+
+ln95046-003-p2s1B
+1	Ženeva	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-003-p2s1C
+1	Naděje	NNFP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	snížení	NNNS4-----A----	Atr
+4	rekordní	AAFS2----1A----	Atr
+5	úrovně	NNFS2-----A----	Atr
+6	celosvětové	AAFS2----1A----	Atr
+7	nezaměstnanosti	NNFS2-----A----	Atr
+8	jsou	VB-P---3P-AA---	Pred
+9	velmi	Db-------------	Adv
+10	vzdálené	AAFP1----1A----	Pnom
+11	a	J^-------------	Coord
+12	svět	NNIS1-----A----	Sb
+13	se	P7-X4----------	AuxT
+14	sune	VB-S---3P-AA---	Pred
+15	ke	RV--3----------	AuxP
+16	krizi	NNFS3-----A----	Adv
+17	zaměstnanosti	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95046-003-p2s2
+1	Vlády	NNFP1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	proto	J^-------------	Coord
+4	měly	VpTP---XR-AA---	Pred
+5	spolupracovat	Vf--------A----	Obj
+6	na	RR--6----------	AuxP
+7	odvrácení	NNNS6-----A----	Obj
+8	sociální	AAFS2----1A----	Atr
+9	katastrofy	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95046-003-p2s3
+1	Takový	PDYS1----------	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	závěr	NNIS1-----A----	Sb
+4	výroční	AAFS2----1A----	Atr
+5	zprávy	NNFS2-----A----	Atr
+6	o	RR--6----------	AuxP
+7	světové	AAFS6----1A----	Atr
+8	zaměstnanosti	NNFS6-----A----	Atr
+9	zveřejněné	AAFS2----1A----	Atr
+10	ve	RV--4----------	AuxP
+11	středu	NNFS4-----A----	Adv
+12	Mezinárodní	AAFS7----1A----	Atr
+13	organizací	NNFS7-----A----	Obj
+14	práce	NNFS2-----A----	Atr
+15	(	Z:-------------	Apos
+16	ILO	NNFXX-----A---8	Obj
+17	)	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+ln95046-003-p3s1
+1	Podle	RR--2----------	AuxP
+2	ILO	NNFXX-----A---8	Adv
+3	bylo	VpNS---XR-AA---	Pred
+4	na	RR--6----------	AuxP
+5	konci	NNIS6-----A----	Adv
+6	loňského	AAIS2----1A----	Atr
+7	roku	NNIS2-----A---1	Atr
+8	bez	RR--2----------	AuxP
+9	práce	NNFS2-----A----	Adv
+10	asi	TT-------------	AuxZ
+11	820	C=-------------	Sb
+12	miliónů	NNIP2-----A----	Atr
+13	lidí	NNMP2-----A----	Atr
+14	,	Z:-------------	Coord
+15	což	PE--1----------	Sb
+16	představuje	VB-S---3P-AA---	Pred
+17	přibližně	Dg-------1A----	AuxZ
+18	30	C=-------------	Obj
+19	procent	NNNP2-----A----	Atr
+20	světové	AAFS2----1A----	Atr
+21	pracovní	AAFS2----1A----	Atr
+22	síly	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95046-003-p3s2
+1	V	RR--6----------	AuxP
+2	průmyslových	AAFP6----1A----	Atr
+3	zemích	NNFP6-----A----	Adv
+4	bylo	VpNS---XR-AA---	Pred
+5	35	C=-------------	Sb
+6	miliónů	NNIP2-----A----	Atr
+7	nezaměstnaných	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95046-003-p3s3
+1	Situace	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	ILO	NNFXX-----A---8	Adv
+5	nejhorší	AAFS1----3A----	Pnom
+6	od	RR--2----------	AuxP
+7	světové	AAFS2----1A----	Atr
+8	krize	NNFS2-----A----	Adv
+9	začátku	NNIS2-----A----	Atr
+10	30	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	let	NNNP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	a	J^-------------	Coord
+15	pokud	J,-------------	AuxC
+16	se	P7-X4----------	AuxR
+17	nic	PW--1----------	Sb
+18	neudělá	VB-S---3P-NA---	Adv
+19	,	Z:-------------	AuxX
+20	bude	VB-S---3F-AA---	AuxV
+21	nezaměstnanost	NNFS1-----A----	Sb
+22	ještě	Db-------------	AuxZ
+23	narůstat	Vf--------A----	Pred
+24	.	Z:-------------	AuxK
+
+ln95046-003-p3s4
+1	Většina	NNFS1-----A----	Sb
+2	vyspělých	AAFP2----1A----	Atr
+3	zemí	NNFP2-----A----	Atr
+4	spolu	Db-------------	AuxP
+5	s	RR--7----------	AuxP
+6	bývalými	AAIP7----1A----	Atr
+7	komunistickými	AAIP7----1A----	Atr
+8	státy	NNIP7-----A----	Adv
+9	čelí	VB-S---3P-AA---	Pred
+10	dvouciferné	AAFS3----1A----	Atr
+11	míře	NNFS3-----A----	Obj
+12	nezaměstnanosti	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95046-003-p3s5
+1	V	RR--6----------	AuxP
+2	Africe	NNFS6-----A----	Adv
+3	a	J^-------------	Coord
+4	Latinské	AAFS6----1A----	Atr
+5	Americe	NNFS6-----A----	Adv
+6	se	P7-X4----------	AuxT
+7	rychle	Dg-------1A----	Adv
+8	rozšiřuje	VB-S---3P-AA---	Pred
+9	práce	NNFS1-----A----	Sb
+10	na	RR--4----------	AuxP
+11	částečný	AAIS4----1A----	Atr
+12	úvazek	NNIS4-----A----	Atr
+13	bez	RR--2----------	AuxP
+14	sociální	AAFS2----1A----	Atr
+15	ochrany	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95046-003-p4s1
+1	Kromě	RR--2----------	AuxP
+2	Japonska	NNNS2-----A----	Adv
+3	a	J^-------------	Coord
+4	několika	Ca--2----------	Atr
+5	západních	AAFP2----1A----	Atr
+6	zemí	NNFP2-----A----	Adv
+7	se	P7-X4----------	AuxT
+8	z	RR--2----------	AuxP
+9	tohoto	PDZS2----------	Atr
+10	trendu	NNIS2-----A----	Adv
+11	vymyká	VB-S---3P-AA---	Pred
+12	východní	AAFS1----1A----	Atr
+13	a	J^-------------	Coord
+14	jihovýchodní	AAFS1----1A----	Atr
+15	Asie	NNFS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95046-003-p4s2
+1	Mírnější	AAFS1----2A----	Atr
+2	nezaměstnanost	NNFS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	tomto	PDZS6----------	Atr
+5	regionu	NNIS6-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	podle	RR--2----------	AuxP
+8	ILO	NNFXX-----A---8	Adv
+9	důsledkem	NNIS7-----A----	Pnom
+10	toho	PDZS2----------	Atr
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	se	P7-X4----------	AuxT
+14	zdejší	AAFP1----1A----	Atr
+15	vlády	NNFP1-----A----	Sb
+16	zaměřily	VpTP---XR-AA---	Atr
+17	na	RR--4----------	AuxP
+18	exportem	NNIS7-----A----	Adv
+19	podněcovaný	AAIS4----1A----	Atr
+20	průmyslový	AAIS4----1A----	Atr
+21	růst	NNIS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln95046-003-p5s1
+1	ILO	NNFXX-----A---8	Sb
+2	ve	RV--6----------	AuxP
+3	zprávě	NNFS6-----A----	Adv
+4	doporučuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	vlády	NNFP1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	zájmu	NNIS6-----A----	AuxP
+10	růstu	NNIS2-----A----	Adv
+11	pracovních	AAFP2----1A----	Atr
+12	příležitostí	NNFP2-----A----	Atr
+13	podporovaly	VpTP---XR-AA---	Obj
+14	liberalizaci	NNFS4-----A----	Obj
+15	obchodu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95046-003-p5s2
+1	Varovala	VpQW---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	aby	J,-------------	AuxC
+4	vysoká	AAFS1----1A----	Atr
+5	nezaměstnanost	NNFS1-----A----	Sb
+6	nevedla	VpQW---XR-NA---	Obj
+7	k	RR--3----------	AuxP
+8	protekcionistickým	AAFP3----1A----	Atr
+9	tendencím	NNFP3-----A----	Adv
+10	a	J^-------------	Coord
+11	ohrožení	NNNS3-----A----	Adv
+12	nové	AAFS2----1A----	Atr
+13	světové	AAFS2----1A----	Atr
+14	obchodní	AAFS2----1A----	Atr
+15	dohody	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95046-003-p5s3
+1	Úbytek	NNIS1-----A----	Sb
+2	pracovních	AANP2----1A----	Atr
+3	míst	NNNP2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	průmyslu	NNIS6-----A----	AtrAdv
+6	ve	RV--6----------	AuxP
+7	vyspělých	AAFP6----1A----	Atr
+8	zemích	NNFP6-----A----	AtrAdv
+9	bude	VB-S---3F-AA---	AuxV
+10	kompenzován	VsYS---XX-AP---	Adv
+11	růstem	NNIS7-----A----	Adv
+12	příležitostí	NNFP2-----A----	Atr
+13	ve	RV--6----------	AuxP
+14	službách	NNFP6-----A----	Atr
+15	a	J^-------------	Coord
+16	v	RR--6----------	AuxP
+17	produkci	NNFS6-----A----	Atr
+18	vyspělých	AAFP2----1A----	Atr
+19	technologií	NNFP2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	obhajuje	VB-S---3P-AA---	Pred
+22	ILO	NNFXX-----A---8	Sb
+23	důsledky	NNIP4-----A----	Obj
+24	liberalizace	NNFS2-----A----	Atr
+25	obchodu	NNIS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95046-003-p6s1
+1	Vlády	NNFP1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měly	VpTP---XR-AA---	Pred
+4	dále	Db------------1	Adv
+5	spolupracovat	Vf--------A----	Obj
+6	na	RR--6----------	AuxP
+7	stabilizaci	NNFS6-----A----	Obj
+8	finančních	AAIP2----1A----	Atr
+9	trhů	NNIP2-----A----	Atr
+10	a	J^-------------	Coord
+11	při	RR--6----------	AuxP
+12	ochraně	NNFS6-----A----	Obj
+13	ekonomik	NNFP2-----A----	Atr
+14	před	RR--7----------	AuxP
+15	pohyby	NNIP7-----A----	Atr
+16	spekulativního	AAIS2----1A----	Atr
+17	kapitálu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95046-003-p6s2
+1	Trh	NNIS1-----A----	Sb
+2	práce	NNFS2-----A----	Atr
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxR
+5	měl	VpYS---XR-AA---	Pred
+6	podle	RR--2----------	AuxP
+7	ILO	NNFXX-----A---8	Adv
+8	zkvalitňovat	Vf--------A----	Obj
+9	reformou	NNFS7-----A----	Adv
+10	systémů	NNIP2-----A----	Atr
+11	příspěvků	NNIP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	nezaměstnanosti	NNFS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	rozvojem	NNIS7-----A----	Adv
+16	rekvalifikací	NNFP2-----A----	Atr
+17	a	J^-------------	Coord
+18	snížením	NNNS7-----A----	Adv
+19	nemzdových	AAIP2----1N----	Atr
+20	nákladů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95046-003-p7s1
+1	ILO	NNFXX-----A---8	Sb
+2	letos	Db-------------	Adv
+3	počítá	VB-S---3P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	tím	PDZS7----------	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	v	RR--6----------	AuxP
+9	USA	NNIPX-----A----	Adv
+10	míra	NNFS1-----A----	Sb
+11	nezaměstnanosti	NNFS2-----A----	Atr
+12	dosáhne	VB-S---3P-AA---	Atr
+13	5.8	C=-------------	Obj
+14	procenta	NNNS2-----A----	Atr
+15	a	J^-------------	Coord
+16	do	RR--2----------	AuxP
+17	konce	NNIS2-----A----	Adv
+18	století	NNNS2-----A----	Atr
+19	se	P7-X4----------	AuxT
+20	nezmění	VB-S---3P-NA---	Atr
+21	,	Z:-------------	Coord
+22	totéž	PDNS1----------	Sb
+23	platí	VB-S---3P-AA---	Pred
+24	pro	RR--4----------	AuxP
+25	Japonsko	NNNS4-----A----	Adv
+26	s	RR--7----------	AuxP
+27	mírou	NNFS7-----A---1	Atr
+28	nezaměstnanosti	NNFS2-----A----	Atr
+29	2.8	C=-------------	Atr
+30	procenta	NNNS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95046-003-p7s2
+1	Nezaměstnanost	NNFS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	Německu	NNNS6-----A----	Atr
+4	do	RR--2----------	AuxP
+5	roku	NNIS2-----A---1	Adv
+6	2000	C=-------------	Atr
+7	mírně	Dg-------1A----	Adv
+8	klesne	VB-S---3P-AA---	Pred
+9	na	RR--4----------	AuxP
+10	9.2	C=-------------	Obj
+11	procenta	NNNS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	výrazně	Dg-------1A----	Adv
+14	se	P7-X4----------	AuxT
+15	však	J^-------------	Coord
+16	zvýší	VB-S---3P-AA---	Pred
+17	nezaměstnanost	NNFS1-----A----	Sb
+18	ve	RV--6----------	AuxP
+19	Francii	NNFS6-----A----	Atr
+20	na	RR--4----------	AuxP
+21	14	C=-------------	Obj
+22	procent	NNNP2-----A----	Atr
+23	nebo	J^-------------	Coord
+24	v	RR--6----------	AuxP
+25	Itálii	NNFS6-----A----	ExD
+26	na	RR--4----------	AuxP
+27	13.9	C=-------------	ExD
+28	procenta	NNNS2-----A----	Atr
+29	.	Z:-------------	AuxK
+

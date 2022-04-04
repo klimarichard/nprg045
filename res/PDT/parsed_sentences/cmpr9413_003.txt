@@ -1,0 +1,535 @@
+cmpr9413-003-p2s1
+1	Existenční	AAFS1----1A----	Atr
+2	nutnost	NNFS1-----A----	ExD
+
+cmpr9413-003-p3s1
+1	Divize	NNFS1-----A----	Sb
+2	kamenina	NNFS1-----A----	Atr
+3	akciové	AAFS2----1A----	Atr
+4	společnosti	NNFS2-----A----	Atr
+5	Calofrig	NNIS1-----A----	Atr
+6	Borovany	NNIP1-----A----	Atr
+7	jako	J,-------------	AuxY
+8	první	CrFS1----------	Atv
+9	v	RR--6----------	AuxP
+10	oboru	NNIS6-----A----	Adv
+11	získala	VpQW---XR-AA---	Pred
+12	certifikát	NNIS4-----A----	Obj
+13	řízení	NNNS2-----A----	Atr
+14	jakosti	NNFS2-----A----	Atr
+15	podle	RR--2----------	AuxP
+16	ISO	NNFXX-----A---8	AtrAdv
+17	9000	C=-------------	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9413-003-p4s1
+1	To	PDNS1----------	Sb
+2	byl	VpYS---XR-AA---	Pred
+3	hlavní	AAIS1----1A----	Atr
+4	důvod	NNIS1-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	proč	Db-------------	Adv
+7	jsme	VB-P---1P-AA---	AuxV
+8	položili	VpMP---XR-AA---	Atr
+9	několik	Ca--4----------	Obj
+10	otázek	NNFP2-----A----	Atr
+11	Janu	NNMS3-----A---1	Atr
+12	Bakulemu	NNMS3-----A----	Obj
+13	,	Z:-------------	Apos
+14	řediteli	NNMS3-----A----	Obj
+15	této	PDFS2----------	Atr
+16	divize	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	v	RR--6----------	AuxP
+19	jejímž	P1ZS6FS3-------	Atr
+20	výrobním	AAIS6----1A----	Atr
+21	programu	NNIS6-----A----	Adv
+22	jsou	VB-P---3P-AA---	Atr
+23	především	Db-------------	AuxZ
+24	kanalizační	AAFP1----1A----	Atr
+25	roury	NNFP1-----A----	Sb
+26	různých	AAIP2----1A----	Atr
+27	průměrů	NNIP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9413-003-p5s1
+1	*	Z:-------------	AuxG
+2	Co	PQ--1----------	Sb
+3	vás	PP-P4--2-------	Obj
+4	motivovalo	VpNS---XR-AA---	Pred
+5	k	RR--3----------	AuxP
+6	rychlému	AANS3----1A----	Atr
+7	získání	NNNS3-----A----	Obj
+8	mezinárodního	AANS2----1A----	Atr
+9	osvědčení	NNNS2-----A----	Atr
+10	?	Z:-------------	AuxK
+
+cmpr9413-003-p6s1
+1	Nezbytnou	AAFS7----1N----	Atr
+2	podmínkou	NNFS7-----A----	Pnom
+3	dodávek	NNFP2-----A----	Atr
+4	do	RR--2----------	AuxP
+5	zahraničí	NNNS2-----A----	Atr
+6	byl	VpYS---XR-AA---	Pred
+7	certifikát	NNIS1-----A----	Sb
+8	řízení	NNNS2-----A----	Atr
+9	jakosti	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9413-003-p6s2
+1	Bez	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	nemůžeme	VB-P---1P-NA---	Pred
+4	exportovat	Vf--------A----	Obj
+5	.	Z:-------------	AuxK
+
+cmpr9413-003-p6s3
+1	Kdybychom	J,-P---1-------	AuxC
+2	ho	PHZS4--3-------	Obj
+3	nezískali	VpMP---XR-NA---	Adv
+4	,	Z:-------------	AuxX
+5	nemohla	VpQW---XR-NA---	Pred
+6	by	Vc-------------	AuxV
+7	počítat	Vf--------A----	Obj
+8	s	RR--7----------	AuxP
+9	žádným	PWZS7----------	Atr
+10	ziskem	NNIS7-----A----	Obj
+11	ani	J^-------------	AuxY
+12	tato	PDFS1----------	Atr
+13	divize	NNFS1-----A----	Sb
+14	ani	J^-------------	Coord
+15	akciová	AAFS1----1A----	Atr
+16	společnost	NNFS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+cmpr9413-003-p6s4
+1	Vloni	Db-------------	Adv
+2	činil	VpYS---XR-AA---	Pred
+3	zisk	NNIS1-----A----	Sb
+4	30	C=-------------	Obj
+5	milionů	NNIP2-----A----	Atr
+6	korun	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	byl	VpYS---XR-AA---	AuxV
+9	dosažen	VsYS---XX-AP---	Pred
+10	pouze	Db-------------	AuxZ
+11	prodejem	NNIS7-----A----	Adv
+12	na	RR--6----------	AuxP
+13	zahraničním	AAIS6----1A----	Atr
+14	trhu	NNIS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9413-003-p6s5
+1	Domácí	AAFS1----1A----	Atr
+2	poptávka	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	nízká	AAFS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	proto	J^-------------	Coord
+7	také	Db-------------	AuxZ
+8	poslední	AAIP4----1A----	Atr
+9	tři	ClXP4----------	Atr
+10	roky	NNIP4-----A----	Adv
+11	továrna	NNFS1-----A----	Sb
+12	běží	VB-S---3P-AA---	Pred
+13	na	RR--4----------	AuxP
+14	poloviční	AAIS4----1A----	Atr
+15	výkon	NNIS4-----A----	Adv
+16	.	Z:-------------	AuxK
+
+cmpr9413-003-p6s6
+1	Tím	PDZS7----------	Adv
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	se	P7-X4----------	AuxT
+5	nám	PP-P3--1-------	Obj
+6	podařilo	VpNS---XR-AA---	Atr
+7	získat	Vf--------A----	Sb
+8	exportní	AAFS4----1A----	Atr
+9	zakázku	NNFS4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	belgickou	AAFS4----1A----	Atr
+12	firmu	NNFS4-----A----	AtrAdv
+13	Keramo	NNNS1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	mohli	VpMP---XR-AA---	Pred
+16	jsme	VB-P---1P-AA---	AuxV
+17	před	RR--7----------	AuxP
+18	nedávnem	NNNS7-----A----	Adv
+19	zapálit	Vf--------A----	Obj
+20	druhou	CrFS4----------	Atr
+21	tunelovou	AAFS4----1A----	Atr
+22	pec	NNFS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+cmpr9413-003-p6s7
+1	Vloni	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	exportovali	VpMP---XR-AA---	Pred
+4	2.5	C=-------------	Obj
+5	tisíce	NNIS2-----A----	Atr
+6	tun	NNFP2-----A----	Atr
+7	a	J^-------------	Coord
+8	17.5	C=-------------	Sb
+9	tisíce	NNIS2-----A----	Atr
+10	tun	NNFP2-----A----	Atr
+11	zboží	NNNS2-----A----	Atr
+12	zůstalo	VpNS---XR-AA---	Pred
+13	doma	Db-------------	Adv
+14	,	Z:-------------	Coord
+15	letos	Db-------------	Adv
+16	se	P7-X4----------	AuxR
+17	vývoz	NNIS1-----A----	Sb
+18	zdvojnásobí	VB-S---3P-AA---	Pred
+19	.	Z:-------------	AuxK
+
+cmpr9413-003-p7s1
+1	Jak	Db-------------	Adv
+2	dlouho	Dg-------1A----	Adv
+3	vám	PP-P3--2-------	Obj
+4	trvalo	VpNS---XR-AA---	Pred
+5	splnění	NNNS1-----A----	Sb
+6	norem	NNFP2-----A----	Atr
+7	ISO	NNFXX-----A---8	Atr
+8	9000	C=-------------	Atr
+9	?	Z:-------------	AuxK
+
+cmpr9413-003-p8s1
+1	Připravovali	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	se	P7-X4----------	Obj
+4	intenzívně	Dg-------1A----	Adv
+5	dva	ClYP4----------	Atr
+6	roky	NNIP4-----A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9413-003-p8s2
+1	Vloni	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	začali	VpMP---XR-AA---	Pred
+4	s	RR--7----------	AuxP
+5	dalšími	AAMP7----1A----	Atr
+6	partnery	NNMP7-----A----	Adv
+7	dávat	Vf--------A----	Obj
+8	dohromady	Db-------------	Adv
+9	příručku	NNFS4-----A----	Obj
+10	jakosti	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	veškerou	PLFS4----------	Atr
+13	dokumentaci	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9413-003-p8s3
+1	V	RR--6----------	AuxP
+2	lednu	NNIS6-----A----	Adv
+3	1994	C=-------------	Atr
+4	jsme	VB-P---1P-AA---	AuxV
+5	certifikát	NNIS4-----A----	Obj
+6	získali	VpMP---XR-AA---	Pred
+7	.	Z:-------------	AuxK
+
+cmpr9413-003-p8s4
+1	Osvědčení	NNNS1-----A----	Sb
+2	však	J^-------------	Coord
+3	ještě	Db-------------	Adv
+4	automaticky	Dg-------1A----	Adv
+5	nezaručuje	VB-S---3P-NA---	Pred
+6	kvalitu	NNFS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+cmpr9413-003-p8s5
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	systém	NNIS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	má	VB-S---3P-AA---	Atr
+7	zabezpečit	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	z	RR--2----------	AuxP
+11	továrny	NNFS2-----A----	Adv
+12	neodejde	VB-S---3P-NA---	Obj
+13	špatný	AAIS1----1A----	Atr
+14	výrobek	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+cmpr9413-003-p8s6
+1	Pro	RR--4----------	AuxP
+2	zahraničního	AAMS4----1A----	Atr
+3	odběratele	NNMS4-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	to	PDNS1----------	Sb
+6	garance	NNFS1-----A----	Pnom
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	nakupuje	VB-S---3P-AA---	Atr
+10	zboží	NNNS4-----A----	Obj
+11	ověřené	AAFS2----1A----	Atr
+12	jakosti	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9413-003-p9s1
+1	*	Z:-------------	AuxG
+2	Co	PQ--1----------	Sb
+3	se	P7-X4----------	AuxR
+4	změnilo	VpNS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	samotné	AAFS6----1A----	Atr
+7	továrně	NNFS6-----A----	Adv
+8	?	Z:-------------	AuxK
+
+cmpr9413-003-p10s1
+1	Nejdříve	Dg-------3A----	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	museli	VpMP---XR-AA---	Pred
+4	pracovníky	NNMP4-----A----	Obj
+5	seznámit	Vf--------A----	Obj
+6	s	RR--7----------	AuxP
+7	tím	PDZS7----------	Obj
+8	,	Z:-------------	AuxX
+9	co	PQ--1----------	Sb
+10	certifikát	NNIS1-----A----	Pnom
+11	systému	NNIS2-----A----	Atr
+12	řízení	NNNS2-----A----	Atr
+13	jakosti	NNFS2-----A----	Atr
+14	je	VB-S---3P-AA---	Atr
+15	a	J^-------------	Coord
+16	co	PQ--4----------	Obj
+17	pro	RR--4----------	AuxP
+18	jeho	PSXXXZS3-------	Atr
+19	získání	NNNS4-----A----	Adv
+20	musí	VB-S---3P-AA---	Atr
+21	každý	AAMS1----1A----	Sb
+22	na	RR--6----------	AuxP
+23	svém	P8ZS6----------	Atr
+24	pracovišti	NNNS6-----A----	Adv
+25	udělat	Vf--------A----	Obj
+26	.	Z:-------------	AuxK
+
+cmpr9413-003-p10s2
+1	Na	RR--6----------	AuxP
+2	začátku	NNIS6-----A----	Adv
+3	bylo	VpNS---XR-AA---	Pred
+4	školení	NNNS1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+cmpr9413-003-p11s1
+1	*	Z:-------------	AuxG
+2	Jak	Db-------------	Adv
+3	jste	VB-P---2P-AA---	AuxV
+4	jim	PPXP3--3-------	Obj
+5	prakticky	Dg-------1A----	Adv
+6	vysvětlili	VpMP---XR-AA---	Pred
+7	systém	NNIS4-----A----	Obj
+8	jakosti	NNFS2-----A----	Atr
+9	?	Z:-------------	AuxK
+
+cmpr9413-003-p12s1
+1	Mluvili	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	s	RR--7----------	AuxP
+4	každým	AAMS7----1A----	Atr
+5	dělníkem	NNMS7-----A----	Obj
+6	a	J^-------------	Coord
+7	řekli	VpMP---XR-AA---	Pred
+8	mu	PHZS3--3-------	Obj
+9	:	Z:-------------	AuxG
+10	Budeš	VB-S---2F-AA---	AuxV
+11	dělat	Vf--------A----	Obj
+12	jinak	Db-------------	Adv
+13	než	J,-------------	AuxC
+14	jsi	VB-S---2P-AA---	AuxV
+15	dělal	VpYS---XR-AA---	Adv
+16	do	RR--2----------	AuxP
+17	včerejška	NNIS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+cmpr9413-003-p12s2
+1	Systém	NNIS1-----A----	Sb
+2	jakosti	NNFS2-----A----	Atr
+3	například	Db-------------	AuxY
+4	předpisuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	budeš	VB-S---2F-AA---	AuxV
+8	výrobek	NNIS4-----A----	Obj
+9	pětkrát	Cv-------------	Adv
+10	denně	Dg-------1A----	Adv
+11	měřit	Vf--------A----	Obj
+12	posuvným	AANS7----1A----	Atr
+13	měřítkem	NNNS7-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9413-003-p12s3
+1	Když	J,-------------	AuxC
+2	nedosáhneš	VB-S---2P-NA---	Adv
+3	předepsaných	AAIP2----1A----	Atr
+4	parametrů	NNIP2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	zastavíš	VB-S---2P-AA---	Pred
+7	práci	NNFS4-----A----	Obj
+8	a	J^-------------	Coord
+9	budeš	VB-S---2F-AA---	AuxV
+10	problém	NNIS4-----A----	Obj
+11	konzultovat	Vf--------A----	Pred
+12	s	RR--7----------	AuxP
+13	mistrem	NNMS7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9413-003-p12s4
+1	Ten	PDYS1----------	Sb
+2	musí	VB-S---3P-AA---	Pred
+3	přijmout	Vf--------A----	Obj
+4	náležité	AANS4----1A----	Atr
+5	opatření	NNNS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+cmpr9413-003-p12s5
+1	A	J^-------------	Coord
+2	takhle	Db-------------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	to	PDNS1----------	AuxO
+5	popsané	AANS1----1A----	Pnom
+6	do	RR--2----------	AuxP
+7	nejmenších	AAFP2----3A----	Atr
+8	podrobností	NNFP2-----A----	Adv
+9	-	Z:-------------	AuxG
+10	co	PQ--4----------	Obj
+11	udělat	Vf--------A----	Sb
+12	,	Z:-------------	AuxX
+13	když	J,-------------	AuxC
+14	se	P7-X4----------	AuxT
+15	něco	PZ--1----------	Sb
+16	stane	VB-S---3P-AA---	Adv
+17	.	Z:-------------	AuxK
+
+cmpr9413-003-p13s1
+1	*	Z:-------------	AuxG
+2	Proč	Db-------------	Adv
+3	se	P7-X4----------	AuxT
+4	příprava	NNFS1-----A----	Sb
+5	systému	NNIS2-----A----	Atr
+6	jakosti	NNFS2-----A----	Atr
+7	protáhla	VpQW---XR-AA---	Pred
+8	na	RR--4----------	AuxP
+9	roky	NNIP4-----A----	Adv
+10	?	Z:-------------	AuxK
+
+cmpr9413-003-p14s1
+1	Náročné	AANS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	skloubit	Vf--------A----	Sb
+4	všechno	PLNS4----------	Obj
+5	tak	Db-------------	Adv
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	fungoval	VpYS---XR-AA---	Adv
+9	celý	AAIS1----1A----	Atr
+10	systém	NNIS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+cmpr9413-003-p14s2
+1	Sledování	NNNS1-----A----	Sb
+2	kvality	NNFS2-----A----	Atr
+3	začíná	VB-S---3P-AA---	Pred
+4	u	RR--2----------	AuxP
+5	vstupních	AAFP2----1A----	Atr
+6	surovin	NNFP2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9413-003-p14s3
+1	Dříve	Dg-------2A----	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	neptali	VpMP---XR-NA---	Pred
+5	,	Z:-------------	AuxX
+6	jakou	P4FS4----------	Atr
+7	hlínu	NNFS4-----A----	Obj
+8	jsme	VB-P---1P-AA---	AuxV
+9	ze	RV--2----------	AuxP
+10	sesterského	AAIS2----1A----	Atr
+11	závodu	NNIS2-----A----	Adv
+12	dostali	VpMP---XR-AA---	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9413-003-p14s4
+1	Dnes	Db-------------	Adv
+2	máme	VB-P---1P-AA---	Pred
+3	sepsánu	VsFS4--XX-AP---	Atv
+4	hospodářskou	AAFS4----1A----	Atr
+5	smlouvu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	kde	Db-------------	Adv
+8	jsou	VB-P---3P-AA---	AuxV
+9	specifikovány	VsTP---XX-AP---	Atr
+10	veškeré	PLIP1----------	Atr
+11	jakostní	AAIP1----1A----	Atr
+12	znaky	NNIP1-----A----	Sb
+13	-	Z:-------------	Apos
+14	jemnost	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	vlhkost	NNFS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	podmínky	NNFP1-----A----	Sb
+19	skladování	NNNS2-----A----	Atr
+20	a	J^-------------	Coord
+21	podobně	Dg-------1A----	Sb
+22	.	Z:-------------	AuxK
+
+cmpr9413-003-p14s5
+1	Těžké	AANS1----1A----	Pnom
+2	bylo	VpNS---XR-AA---	Pred
+3	vytvořit	Vf--------A----	Sb
+4	systém	NNIS4-----A----	Obj
+5	výstupní	AAFS2----1A----	Atr
+6	kontroly	NNFS2-----A----	Atr
+7	u	RR--2----------	AuxP
+8	dodavatele	NNMS2-----A----	Atr
+9	a	J^-------------	Coord
+10	vstupní	AAFS2----1A----	Atr
+11	kontroly	NNFS2-----A----	Atr
+12	u	RR--2----------	AuxP
+13	odběratele	NNMS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	aby	J,-------------	AuxC
+16	suroviny	NNFP1-----A----	Sb
+17	odpovídaly	VpTP---XR-AA---	AtrAdv
+18	sjednaným	AAFP3----1A----	Atr
+19	podmínkám	NNFP3-----A----	Obj
+20	.	Z:-------------	AuxK
+
+cmpr9413-003-p14s6
+1	Nedávno	Db-------------	Adv
+2	jsem	VB-S---1P-AA---	AuxV
+3	vrátil	VpYS---XR-AA---	Pred
+4	tři	ClXP4----------	Atr
+5	vagony	NNIP4-----A----	Obj
+6	nekvalitní	AAFS2----1N----	Atr
+7	hlíny	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9413-003-p14s7
+1	Vzbudilo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	rozruch	NNIS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	protože	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	to	PDNS1----------	Sb
+8	nikdy	Db-------------	Adv
+9	předtím	Db-------------	Adv
+10	nestalo	VpNS---XR-NA---	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9413-003-p14s8
+1	Ale	J^-------------	Coord
+2	bez	RR--2----------	AuxP
+3	důslednosti	NNFS2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	všechna	PLFS1----------	Atr
+6	práce	NNFS1-----A----	Sb
+7	přišla	VpQW---XR-AA---	Pred
+8	nazmar	Db-------------	Adv
+9	.	Z:-------------	AuxK
+

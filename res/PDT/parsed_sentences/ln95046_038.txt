@@ -1,0 +1,88 @@
+ln95046-038-p1s1
+1	Uliční	AAIS1----1A----	Atr
+2	fotbal	NNIS1-----A----	ExD
+3	další	AAFS7----1A----	Atr
+4	aktivitou	NNFS7-----A----	ExD
+5	firmy	NNFS2-----A----	Atr
+6	Puma	NNFS1-----A----	Atr
+
+ln95046-038-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-038-p2s1B
+1	O	RR--4----------	AuxP
+2	návrat	NNIS4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	český	AAIS4----1A----	Atr
+5	trh	NNIS4-----A----	Atr
+6	usiluje	VB-S---3P-AA---	Pred
+7	výrobce	NNMS1-----A----	Sb
+8	sportovního	AANS2----1A----	Atr
+9	vybavení	NNNS2-----A----	Atr
+10	Puma	NNFS1-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95046-038-p2s2
+1	Předvojem	NNIS7-----A----	Pnom
+2	byl	VpYS---XR-AA---	Pred
+3	podpis	NNIS1-----A----	Sb
+4	smlouvy	NNFS2-----A----	Atr
+5	s	RR--7----------	AuxP
+6	ČMFS	NNIXX-----A---8	Atr
+7	o	RR--6----------	AuxP
+8	zajišťování	NNNS6-----A----	Atr
+9	výstroje	NNFS2-----A----	Atr
+10	pro	RR--4----------	AuxP
+11	fotbalovou	AAFS4----1A----	Atr
+12	reprezentaci	NNFS4-----A----	Atr
+13	,	Z:-------------	Coord
+14	další	AAFP4----1A----	Atr
+15	aktivity	NNFP4-----A----	Obj
+16	bude	VB-S---3F-AA---	AuxV
+17	zajišťovat	Vf--------A----	Pred
+18	nový	AAMS1----1A----	Atr
+19	oficiální	AAMS1----1A----	Atr
+20	distributor	NNMS1-----A----	Sb
+21	Pumy	NNFS2-----A----	Atr
+22	pro	RR--4----------	AuxP
+23	ČR	NNFXX-----A---8	Atr
+24	Active	AAXXX----1A----	Atr
+25	Sports	NNIPX-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95046-038-p2s3
+1	Na	RR--6----------	AuxP
+2	sportovním	AANS6----1A----	Atr
+3	poli	NNNS6-----A----	Adv
+4	Puma	NNFS1-----A----	Sb
+5	u	RR--2----------	AuxP
+6	nás	PP-P2--1-------	Adv
+7	hodlá	VB-S---3P-AA---	Pred
+8	rozšířit	Vf--------A----	Obj
+9	turnaje	NNIP4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	uličním	AAIS6----1A----	Atr
+12	fotbalu	NNIS6-----A---1	Atr
+13	-	Z:-------------	Apos
+14	Street	AAXXX----1A----	Atr
+15	Soccer	NNIS1-----A----	Atr
+16	,	Z:-------------	AuxX
+17	jichž	PJXP2----------	Obj
+18	se	P7-X4----------	AuxT
+19	v	RR--6----------	AuxP
+20	loňském	AAIS6----1A----	Atr
+21	roce	NNIS6-----A---1	Adv
+22	zúčastnilo	VpNS---XR-AA---	Atr
+23	více	Dg-------2A----	Sb
+24	než	J,-------------	AuxC
+25	30	C=-------------	Adv
+26	tisíc	ClXS2----------	Atr
+27	dětí	NNFP2-----A----	Atr
+28	na	RR--6----------	AuxP
+29	200	C=-------------	Atr
+30	turnajích	NNIP6-----A----	Adv
+31	v	RR--6----------	AuxP
+32	Německu	NNNS6-----A----	AtrAdv
+33	.	Z:-------------	AuxK
+

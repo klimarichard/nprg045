@@ -1,0 +1,163 @@
+lnd94101-060-p1s1
+1	Jemen	NNIS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	pokraji	NNIS6-----A----	ExD
+4	občanské	AAFS2----1A----	Atr
+5	války	NNFS2-----A----	Atr
+
+lnd94101-060-p1s2
+1	Saná	NNFS1-----A----	ExD
+2	/	Z:-------------	Coord
+3	Aden	NNIS1-----A----	ExD
+4	-	Z:-------------	AuxK
+
+lnd94101-060-p1s3
+1	Jihojemenské	AAIP1----1A----	Atr
+2	vojenské	AAIP1----1A----	Atr
+3	zdroje	NNIP1-----A----	Sb
+4	včera	Db-------------	Adv
+5	varovaly	VpTP---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	zemi	NNFS3-----A----	Obj
+9	hrozí	VB-S---3P-AA---	Obj
+10	občanská	AAFS1----1A----	Atr
+11	válka	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	pokud	J,-------------	AuxC
+14	budou	VB-P---3F-AA---	AuxV
+15	pokračovat	Vf--------A----	Adv
+16	boje	NNIP1-----A----	Sb
+17	mezi	RR--7----------	AuxP
+18	znepřátelenými	AAFP7----1A----	Atr
+19	vojenskými	AAFP7----1A----	Atr
+20	jednotkami	NNFP7-----A----	Atr
+21	ze	RV--2----------	AuxP
+22	severního	AAIS2----1A----	Atr
+23	a	J^-------------	Coord
+24	jižního	AAIS2----1A----	Atr
+25	Jemenu	NNIS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	v	RR--6----------	AuxP
+28	nichž	P9XP6----------	Adv
+29	podle	RR--2----------	AuxP
+30	nepotvrzených	AAFP2----1N----	Atr
+31	zpráv	NNFP2-----A----	Adv
+32	zahynuly	VpTP---XR-AA---	Atr
+33	stovky	NNFP1-----A----	Sb
+34	vojáků	NNMP2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+lnd94101-060-p1s4
+1	Mluvčí	NNMS1-----A----	Sb
+2	ministerstva	NNNS2-----A----	Atr
+3	obrany	NNFS2-----A----	Atr
+4	jihu	NNIS2-----A----	Atr
+5	zdůraznil	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	eskalace	NNFS1-----A----	Sb
+9	vojenských	AAFP2----1A----	Atr
+10	akcí	NNFP2-----A----	Atr
+11	je	VB-S---3P-AA---	Obj
+12	začátkem	NNIS7-----A----	Pnom
+13	krvavé	AAFS2----1A----	Atr
+14	katastrofy	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94101-060-p1s5
+1	Boje	NNIP1-----A----	Sb
+2	mezi	RR--7----------	AuxP
+3	severními	AAFP7----1A----	Atr
+4	divizemi	NNFP7-----A----	Atr
+5	loajálními	AAFP7----1A----	Atr
+6	prezidentu	NNMS3-----A---1	Atr
+7	Alímu	NNMS3-----A----	Atr
+8	Abdalláhu	NNMS3-----A----	Atr
+9	Sálihovi	NNMS3-----A----	Obj
+10	a	J^-------------	Coord
+11	jižními	AAFP7----1A----	Atr
+12	jednotkami	NNFP7-----A----	Atr
+13	podporujícími	AGFP7-----A----	Atr
+14	jeho	PSXXXZS3-------	Atr
+15	soupeře	NNMS4-----A----	Atr
+16	Alího	NNMS4-----A----	Atr
+17	Sálima	NNMS4-----A----	Atr
+18	Bajda	NNMS1-----A----	Obj
+19	vypukly	VpTP---XR-AA--1	Pred
+20	ve	RV--4----------	AuxP
+21	čtvrtek	NNIS4-----A----	Adv
+22	časně	Dg-------1A----	Adv
+23	ráno	Db-------------	Adv
+24	v	RR--6----------	AuxP
+25	Amranu	NNIS6-----A----	Adv
+26	nedaleko	Dg-------1N----	AuxP
+27	hlavního	AANS2----1A----	Atr
+28	města	NNNS2-----A----	Adv
+29	Saná	NNFS1-----A----	Atr
+30	.	Z:-------------	AuxK
+
+lnd94101-060-p1s6
+1	Prezident	NNMS1-----A----	Atr
+2	Sálih	NNMS1-----A----	Sb
+3	rovněž	Db-------------	AuxZ
+4	varoval	VpYS---XR-AA---	Pred
+5	před	RR--7----------	AuxP
+6	eskalací	NNFS7-----A----	Obj
+7	bojů	NNIP2-----A----	Atr
+8	a	J^-------------	Coord
+9	vyzval	VpYS---XR-AA---	Pred
+10	jih	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	aby	J,-------------	AuxC
+13	si	P7-X3----------	AuxT
+14	"	Z:-------------	AuxG
+15	přestal	VpYS---XR-AA---	Obj
+16	zahrávat	Vf--------A----	Obj
+17	s	RR--7----------	AuxP
+18	ohněm	NNIS7-----A----	Obj
+19	"	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+lnd94101-060-p1s7
+1	Armády	NNFP1-----A----	Sb
+2	bývalé	AAFS2----1A----	Atr
+3	Jemenské	AAFS2----1A----	Atr
+4	arabské	AAFS2----1A----	Atr
+5	republiky	NNFS2-----A----	Atr
+6	(	Z:-------------	AuxG
+7	na	RR--6----------	AuxP
+8	severu	NNIS6-----A----	Atr
+9	)	Z:-------------	AuxG
+10	a	J^-------------	Coord
+11	bývalé	AAFS2----1A----	Atr
+12	Jemenské	AAFS2----1A----	Atr
+13	lidové	AAFS2----1A----	Adv
+14	demokratické	AAFS2----1A----	Atr
+15	republiky	NNFS2-----A----	Atr
+16	(	Z:-------------	AuxG
+17	na	RR--6----------	AuxP
+18	jihu	NNIS6-----A----	Atr
+19	)	Z:-------------	AuxG
+20	se	P7-X4----------	Obj
+21	po	RR--6----------	AuxP
+22	sjednocení	NNNS6-----A----	Adv
+23	obou	ClXP2----------	Atr
+24	zemí	NNFP2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	roce	NNIS6-----A---1	Atr
+27	1990	C=-------------	Atr
+28	dosud	Db-------------	Adv
+29	nespojily	VpTP---XR-NA---	Pred
+30	.	Z:-------------	AuxK
+
+lnd94101-060-p1s8
+1	Rozděleno	VsNS---XX-AP---	Obj
+2	zůstává	VB-S---3P-AA---	Pred
+3	rovněž	Db-------------	AuxZ
+4	rozhlasové	AANS1----1A----	Atr
+5	a	J^-------------	Coord
+6	televizní	AANS1----1A----	Atr
+7	vysílání	NNNS1-----A----	Sb
+8	.	Z:-------------	AuxK
+

@@ -1,0 +1,119 @@
+lnd91301-049-p1s1
+1	Vlaky	NNIP1-----A----	ExD
+2	,	Z:-------------	Coord
+3	vláčky	NNIP1-----A----	ExD
+4	.	Z:-------------	AuxK
+5	.	Z:-------------	AuxK
+6	.	Z:-------------	AuxK
+
+lnd91301-049-p2s1
+1	BRNO	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	luč	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd91301-049-p3s1
+1	Klub	NNIS1-----A----	Sb
+2	železničních	AAMP2----1A----	Atr
+3	modelářů	NNMP2-----A----	Atr
+4	a	J^-------------	Coord
+5	Lokomotiva	NNFS1-----A----	Atr
+6	Studio	NNNS1-----A----	Sb
+7	uspořádali	VpMP---XR-AA---	Pred
+8	v	RR--6----------	AuxP
+9	budově	NNFS6-----A----	Adv
+10	ČSD	NNFPX-----A---8	Atr
+11	na	RR--6----------	AuxP
+12	Kounicově	AUFS6M---------	Atr
+13	ulici	NNFS6-----A----	AtrAdv
+14	výstavu	NNFS4-----A----	Obj
+15	s	RR--7----------	AuxP
+16	názvem	NNIS7-----A----	Atr
+17	Vlaky	NNIP1-----A----	Atr
+18	,	Z:-------------	AuxX
+19	vláčky	NNIP1-----A----	Atr
+20	,	Z:-------------	Coord
+21	kolejiště	NNNP1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd91301-049-p3s2
+1	Návštěvníci	NNMP1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	mohou	VB-P---3P-AA--1	Pred
+4	prohlédnout	Vf--------A----	Obj
+5	modely	NNIP4-----A----	Obj
+6	vagónů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	pivovarských	AAIP2----1A----	Atr
+9	vozů	NNIP2-----A----	Atr
+10	,	Z:-------------	Coord
+11	lokomotiv	NNFP2-----A----	Atr
+12	z	RR--2----------	AuxP
+13	materiálů	NNIP2-----A----	Atr
+14	různého	AAIS2----1A----	Atr
+15	druhu	NNIS2-----A----	Atr
+16	-	Z:-------------	Apos
+17	papíru	NNIS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	měděného	AAIS2----1A----	Atr
+20	plechu	NNIS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	plastů	NNIP2-----A----	Atr
+23	i	J^-------------	Coord
+24	kovu	NNIS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd91301-049-p3s3
+1	Nejcennějším	AAIS7----3A----	Atr
+2	exponátem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	velké	AANS1----1A----	Atr
+5	kolejiště	NNNS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	které	P4NS1----------	Sb
+8	začalo	VpNS---XR-AA---	Atr
+9	vznikat	Vf--------A----	Obj
+10	už	Db-------------	AuxZ
+11	v	RR--6----------	AuxP
+12	roce	NNIS6-----A---1	Adv
+13	1957	C=-------------	Atr
+14	a	J^-------------	Coord
+15	mnozí	AAMP1----1A----	Sb
+16	ho	PHZS4--3-------	Obj
+17	už	Db-------------	AuxZ
+18	mohli	VpMP---XR-AA---	Atr
+19	vidět	Vf--------A----	Obj
+20	v	RR--6----------	AuxP
+21	Technickém	AANS6----1A----	Atr
+22	muzeu	NNNS6-----A----	Adv
+23	u	RR--2----------	AuxP
+24	příležitosti	NNFS2-----A----	Adv
+25	stopadesátého	NNMS2-----A----	Atr
+26	výročí	NNNS2-----A----	Atr
+27	železnice	NNFS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+lnd91301-049-p3s4
+1	Výstava	NNFS1-----A----	Sb
+2	bude	VB-S---3F-AA---	Pred
+3	otevřena	VsQW---XX-AP---	Pnom
+4	každý	AAIS4----1A----	Atr
+5	den	NNIS4-----A----	Adv
+6	do	RR--2----------	AuxP
+7	30	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	prosince	NNIS2-----A----	Adv
+10	a	J^-------------	Coord
+11	nebude	VB-S---3F-NA---	Pred
+12	poslední	AAFS1----1A----	Pnom
+13	-	Z:-------------	AuxG
+14	modeláři	NNMP1-----A----	Sb
+15	podobné	AAFP4----1A----	Atr
+16	akce	NNFP4-----A----	Obj
+17	plánují	VB-P---3P-AA---	Pred
+18	i	J^-------------	AuxZ
+19	do	RR--2----------	AuxP
+20	budoucna	NNNS2-----A----	Adv
+21	.	Z:-------------	AuxK
+

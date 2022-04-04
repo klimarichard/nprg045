@@ -1,0 +1,262 @@
+mf920923-073-p1s1A
+1	Další	AANS1----1A----	Atr
+2	slušovické	AANS1----1A----	Atr
+3	dělení	NNNS1-----A----	ExD
+
+mf920923-073-p1s1B
+1	DRUŽSTEVNÍCI	NNMP1-----A----	ExD
+2	DO	RR--2----------	AuxP
+3	A	AAXXX----1A---8	Atr
+4	.	Z:-------------	AuxG
+5	S	NNFXX-----A---8	ExD
+6	.	Z:-------------	AuxG
+
+mf920923-073-p1s2A
+1	MOVA	NNFS1-----A----	ExD
+2	BRATISLAVA	NNFS1-----A----	Atr
+3	,	Z:-------------	Coord
+4	VLASTNÍCI	NNMP1-----A----	ExD
+5	PŮDY	NNFS2-----A----	Atr
+6	DO	RR--2----------	AuxP
+7	ZOD	NNNXX-----A---8	ExD
+8	NIVA	NNFS1-----A----	Atr
+9	TRENČÍN	NNIS1-----A----	Atr
+
+mf920923-073-p1s2B
+1	Slušovice	NNFP1-----A----	ExD
+2	(	Z:-------------	ExD
+3	do	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920923-073-p1s2C
+1	Díky	RR--3----------	AuxP
+2	novému	AAIS3----1A----	Atr
+3	transformačnímu	AAIS3----1A----	Atr
+4	zákonu	NNIS3-----A----	Adv
+5	z	RR--2----------	AuxP
+6	ledna	NNIS2-----A----	Atr
+7	letošního	AAIS2----1A----	Atr
+8	roku	NNIS2-----A---1	Atr
+9	dostane	VB-S---3P-AA---	Pred
+10	DAK	NNXXX-----A---8	Sb
+11	MOVA	NNFS1-----A----	Atr
+12	znovu	Db-------------	Adv
+13	novou	AAFS4----1A----	Atr
+14	podobu	NNFS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+mf920923-073-p1s3
+1	Na	RR--6----------	AuxP
+2	pondělní	AAFS6----1A----	Atr
+3	schůzi	NNFS6-----A----	Adv
+4	oprávněných	AAFP2----1A----	Atr
+5	osob	NNFP2-----A----	Atr
+6	za	RR--2----------	AuxP
+7	přítomnosti	NNFS2-----A----	Adv
+8	státního	AAMS2----1A----	Atr
+9	notáře	NNMS2-----A----	Atr
+10	bylo	VpNS---XR-AA---	AuxV
+11	schváleno	VsNS---XX-AP---	Pred
+12	rozdělení	NNNS1-----A----	Sb
+13	DAK	NNXXX-----A---8	Atr
+14	MOVA	NNFS1-----A----	Atr
+15	na	RR--4----------	AuxP
+16	a	AAXXX----1A---8	Atr
+17	.	Z:-------------	AuxG
+18	s	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	MOVA	NNFS1-----A----	Atr
+21	Bratislava	NNFS1-----A----	Atr
+22	,	Z:-------------	AuxX
+23	jejíž	P1FSXFS3-------	Atr
+24	členskou	AAFS4----1A----	Atr
+25	základnu	NNFS4-----A----	Obj
+26	budou	VB-P---3F-AA---	AuxV
+27	tvořit	Vf--------A----	Atr
+28	stávající	AAMP1----1A----	Atr
+29	členové	NNMP1-----A----	Sb
+30	DAK	NNXXX-----A---8	Atr
+31	MOVA	NNFS1-----A----	Atr
+32	,	Z:-------------	AuxX
+33	a	J^-------------	Coord
+34	zemědělské	AANS1----1A----	Atr
+35	obchodní	AANS1----1A----	Atr
+36	družstvo	NNNS1-----A----	Atr
+37	Niva	NNFS1-----A----	Atr
+38	Trenčín	NNIS1-----A----	Atr
+39	sdružující	AGNS1-----A----	Atr
+40	vlastníky	NNMP4-----A----	Obj
+41	půdy	NNFS2-----A----	Atr
+42	.	Z:-------------	AuxK
+
+mf920923-073-p1s5
+1	Tento	PDIS4----------	Atr
+2	způsob	NNIS4-----A----	Obj
+3	dělení	NNNS2-----A----	Atr
+4	navrhoval	VpYS---XR-AA---	Pred
+5	předložený	AAIS1----1A----	Atr
+6	transformační	AAIS1----1A----	Atr
+7	projekt	NNIS1-----A----	Sb
+8	schválený	AAIS1----1A----	Atr
+9	dvěma	ClXP7----------	Atr
+10	auditory	NNMP7-----A----	Obj
+11	.	Z:-------------	AuxK
+
+mf920923-073-p1s6
+1	Žádný	PWYS1----------	Atr
+2	jiný	AAIS1----1A----	Atr
+3	konkurenční	AAIS1----1A----	Atr
+4	transformační	AAIS1----1A----	Atr
+5	projekt	NNIS1-----A----	Sb
+6	připraven	VsYS---XX-AP---	Pred
+7	nebyl	VpYS---XR-NA---	AuxV
+8	.	Z:-------------	AuxK
+
+mf920923-073-p1s7
+1	Přesto	Dg-------1A----	Coord
+2	není	VB-S---3P-NA---	Pred
+3	vyloučeno	VsNS---XX-AP---	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	po	RR--6----------	AuxP
+7	domluvě	NNFS6-----A----	Adv
+8	s	RR--7----------	AuxP
+9	a	AAXXX----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	s	NNFXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	MOVA	NNFS1-----A----	Atr
+14	Bratislava	NNFS1-----A----	Atr
+15	se	P7-X4----------	Obj
+16	nemohou	VB-P---3P-NA--1	Sb
+17	někteří	PZMP1----------	Atr
+18	vlastníci	NNMP1-----A----	Sb
+19	půdy	NNFS2-----A----	Atr
+20	z	RR--2----------	AuxP
+21	Nivy	NNFS2-----A----	Atr
+22	začlenit	Vf--------A----	Obj
+23	do	RR--2----------	AuxP
+24	a	AAXXX----1A---8	Atr
+25	.	Z:-------------	AuxG
+26	s	NNFXX-----A---8	Adv
+27	.	Z:-------------	AuxG
+28	MOVA	NNFS1-----A----	Atr
+29	.	Z:-------------	AuxK
+
+mf920923-073-p1s10
+1	Přesné	AANS1----1A----	Atr
+2	rozdělení	NNNS1-----A----	Sb
+3	členské	AAFS2----1A----	Atr
+4	základny	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	tj	J^------------8	Apos
+7	.	Z:-------------	AuxG
+8	5085	C=-------------	Atr
+9	oprávněných	AAFP2----1A----	Atr
+10	osob	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	mezi	RR--4----------	AuxP
+13	oba	ClYP4----------	Atr
+14	nové	AAIP4----1A----	Atr
+15	subjekty	NNIP4-----A----	Atr
+16	je	VB-S---3P-AA---	Pred
+17	předmětem	NNIS7-----A----	Pnom
+18	jednání	NNNS2-----A----	Atr
+19	nejbližších	AAIP2----3A----	Atr
+20	šedesáti	Cn-P2----------	Atr
+21	dnů	NNIP2-----A----	Atr
+22	do	RR--2----------	AuxP
+23	jejich	PSXXXXP3-------	Atr
+24	registrace	NNFS2-----A----	Adv
+25	.	Z:-------------	AuxK
+
+mf920923-073-p1s11
+1	Zatím	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	počítá	VB-S---3P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	přibližně	Dg-------1A----	Adv
+6	3000	C=-------------	Atr
+7	členy	NNMP7-----A----	Obj
+8	v	RR--6----------	AuxP
+9	MOVĚ	NNFS6-----A----	Atr
+10	a	J^-------------	Coord
+11	2000	C=-------------	ExD
+12	v	RR--6----------	AuxP
+13	Nivě	NNFS6-----A----	ExD
+14	.	Z:-------------	AuxK
+
+mf920923-073-p1s12
+1	Obě	ClHP1----------	Atr
+2	nové	AAFP1----1A----	Atr
+3	společnosti	NNFP1-----A----	Sb
+4	budou	VB-P---3F-AA---	AuxV
+5	registrovány	VsTP---XX-AP---	Pred
+6	na	RR--6----------	AuxP
+7	Slovensku	NNNS6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+mf920923-073-p1s13
+1	Podle	RR--2----------	AuxP
+2	tiskového	AAMS2----1A----	Atr
+3	mluvčího	NNMS2-----A----	Atr
+4	DAK	NNXXX-----A---8	Atr
+5	MOVA	NNFS1-----A----	Atr
+6	Bratislava	NNFS1-----A----	Atr
+7	Milana	NNMS2-----A----	Atr
+8	Kristka	NNMS2-----A----	Adv
+9	je	VB-S---3P-AA---	Pred
+10	prý	TT-------------	AuxY
+11	logické	AANS1----1A----	Pnom
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	nové	AAFP1----1A----	Atr
+15	společnosti	NNFP1-----A----	Sb
+16	slovenského	AAIS2----1A----	Atr
+17	podniku	NNIS2-----A----	Atr
+18	zůstanou	VB-P---3P-AA---	Sb
+19	na	RR--6----------	AuxP
+20	Slovensku	NNNS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+mf920923-073-p1s14
+1	K	RR--3----------	AuxP
+2	této	PDFS3----------	Atr
+3	volbě	NNFS3-----A----	Obj
+4	přispělo	VpNS---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	to	PDNS1----------	Sb
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	prý	TT-------------	AuxY
+10	MOVA	NNFS1-----A----	Sb
+11	stále	Db-------------	Adv
+12	cítí	VB-S---3P-AA---	Atr
+13	určité	AANS4----1A----	Atr
+14	nepřátelství	NNNS4-----A----	Obj
+15	u	RR--2----------	AuxP
+16	některých	PZXP2----------	Atr
+17	vysoce	Db-------------	Adv
+18	postavených	AAMP2----1A----	Atr
+19	vládních	AAMP2----1A----	Atr
+20	činitelů	NNMP2-----A----	AtrAdv
+21	a	J^-------------	Coord
+22	politiků	NNMP2-----A----	AtrAdv
+23	v	RR--6----------	AuxP
+24	České	AAFS6----1A----	Atr
+25	republice	NNFS6-----A----	AtrAdv
+26	,	Z:-------------	Coord
+27	což	PE--1----------	Sb
+28	by	Vc-------------	AuxV
+29	mohlo	VpNS---XR-AA---	Atr
+30	do	RR--2----------	AuxP
+31	budoucna	NNNS2-----A----	Adv
+32	komplikovat	Vf--------A----	Obj
+33	rozvoj	NNIS4-----A----	Obj
+34	nástupnických	AAIP2----1A----	Atr
+35	subjektů	NNIP2-----A----	Atr
+36	DAK	NNXXX-----A---8	Atr
+37	MOVA	NNFS1-----A----	Atr
+38	.	Z:-------------	AuxK
+

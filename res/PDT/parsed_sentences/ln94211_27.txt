@@ -1,0 +1,136 @@
+ln94211-27-p1s1
+1	Rozpočtový	AAIS1----1A----	Atr
+2	duel	NNIS1-----A----	ExD
+3	Kohl	NNMS1-----A----	Atr
+4	-	Z:-------------	Coord
+5	Scharping	NNMS1-----A----	Atr
+
+ln94211-27-p2s1A
+1	Berlín	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94211-27-p2s1B
+1	Vytvořením	NNNS7-----A----	Adv
+2	komunisty	NNMP7-----A----	Obj
+3	podporované	AAFS2----1A----	Atr
+4	menšinové	AAFS2----1A----	Atr
+5	vlády	NNFS2-----A----	Atr
+6	SPD	NNFXX-----A---8	Atr
+7	se	RV--7----------	AuxP
+8	Zelenými	AAMP7----1A----	Atr
+9	v	RR--6----------	AuxP
+10	Sasku	NNNS6-----A----	Atr
+11	-	Z:-------------	AuxG
+12	Anhaltsku	NNNS6-----A----	Atr
+13	porušili	VpMP---XR-AA---	Pred
+14	podle	RR--2----------	AuxP
+15	kancléře	NNMS2-----A----	Atr
+16	Helmuta	NNMS2-----A----	Atr
+17	Kohla	NNMS2-----A----	Adv
+18	sociální	AAMP1----1A----	Atr
+19	demokraté	NNMP1-----A----	Sb
+20	základní	AAFS4----1A----	Atr
+21	dohodu	NNFS4-----A----	Obj
+22	demokratických	AAFP2----1A----	Atr
+23	stran	NNFP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	která	P4FS1----------	Sb
+26	vylučuje	VB-S---3P-AA---	Atr
+27	jakoukoli	PZFS4---------1	Atr
+28	spolupráci	NNFS4-----A----	Obj
+29	s	RR--7----------	AuxP
+30	pravicovými	AAMP7----1A----	Atr
+31	i	J^-------------	Coord
+32	levicovými	AAMP7----1A----	Atr
+33	extremisty	NNMP7-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94211-27-p3s1
+1	V	RR--4----------	AuxP
+2	druhý	CrIS4----------	Atr
+3	den	NNIS4-----A----	Adv
+4	rozpravy	NNFS2-----A----	Atr
+5	bonnského	AAIS2----1A----	Atr
+6	parlamentu	NNIS2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	rozpočtu	NNIS6-----A----	Atr
+9	vyslovil	VpYS---XR-AA---	Pred
+10	také	Db-------------	Adv
+11	podezření	NNNS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	SPD	NNFXX-----A---8	Sb
+15	chce	VB-S---3P-AA---	Atr
+16	pokračovat	Vf--------A----	Obj
+17	ve	RV--6----------	AuxP
+18	spolupráci	NNFS6-----A----	Obj
+19	s	RR--7----------	AuxP
+20	postkomunistickou	AAFS7----1A----	Atr
+21	Stranou	NNFS7-----A----	Atr
+22	demokratického	AAIS2----1A----	Atr
+23	socialismu	NNIS2-----A---1	Atr
+24	i	J^-------------	AuxZ
+25	na	RR--6----------	AuxP
+26	spolkové	AAFS6----1A----	Atr
+27	úrovni	NNFS6-----A----	AtrAdv
+28	.	Z:-------------	AuxK
+
+ln94211-27-p3s2
+1	Předseda	NNMS1-----A----	Atr
+2	SPD	NNFXX-----A---8	Atr
+3	Rudolf	NNMS1-----A----	Atr
+4	Scharping	NNMS1-----A----	Sb
+5	naopak	Db-------------	Adv
+6	kritizoval	VpYS---XR-AA---	Pred
+7	vládní	AAFS4----1A----	Atr
+8	politiku	NNFS4-----A----	Obj
+9	CDU	NNFXX-----A---8	Atr
+10	.	Z:-------------	AuxK
+
+ln94211-27-p3s3
+1	Za	RR--4----------	AuxP
+2	výsměch	NNIS4-----A----	Obj
+3	označil	VpYS---XR-AA---	Pred
+4	tvrzení	NNNS4-----A----	Obj
+5	vlády	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	návrh	NNIS1-----A----	Sb
+9	státního	AAIS2----1A----	Atr
+10	rozpočtu	NNIS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	příští	AAIS4----1A----	Atr
+13	rok	NNIS4-----A----	AtrAtr
+14	je	VB-S---3P-AA---	Atr
+15	vyrovnaný	AAIS1----1A----	Pnom
+16	.	Z:-------------	AuxK
+
+ln94211-27-p3s4
+1	Tvrdit	Vf--------A----	Sb
+2	něco	PZ--4----------	Obj
+3	takového	PDZS2----------	Atr
+4	v	RR--6----------	AuxP
+5	době	NNFS6-----A----	Adv
+6	,	Z:-------------	AuxX
+7	kdy	Db-------------	Adv
+8	státní	AAIS1----1A----	Atr
+9	dluh	NNIS1-----A----	Sb
+10	činí	VB-S---3P-AA---	Atr
+11	dva	ClYP4----------	Atr
+12	biliony	NNIP4-----A----	Obj
+13	marek	NNFP2-----A----	Atr
+14	a	J^-------------	Coord
+15	nové	AANS1----1A----	Atr
+16	zadlužení	NNNS1-----A----	ExD
+17	70	C=-------------	ExD
+18	miliard	NNFP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	znamená	VB-S---3P-AA---	Obj
+21	podceňovat	Vf--------A----	Obj
+22	soudnost	NNFS4-----A----	Obj
+23	voličů	NNMP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	dodal	VpYS---XR-AA---	Pred
+26	Scharping	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+

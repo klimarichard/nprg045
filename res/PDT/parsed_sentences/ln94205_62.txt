@@ -1,0 +1,92 @@
+ln94205-62-p1s1
+1	Zfetovaný	AAMS1----1A----	Atr
+2	mladík	NNMS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	nádraží	NNNS6-----A----	Atr
+
+ln94205-62-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	luč	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94205-62-p2s1B
+1	Pro	RR--4----------	AuxP
+2	trestný	AAIS4----1A----	Atr
+3	čin	NNIS4-----A----	Adv
+4	nedovolené	AAFS2----1N----	Atr
+5	výroby	NNFS2-----A----	Atr
+6	a	J^-------------	Coord
+7	držení	NNNS2-----A----	Atr
+8	omamných	AAFP2----1A----	Atr
+9	a	J^-------------	Coord
+10	psychotropních	AAFP2----1A----	Atr
+11	látek	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	jedů	NNIP2-----A----	Atr
+14	je	VB-S---3P-AA---	AuxV
+15	od	RR--2----------	AuxP
+16	minulého	AAIS2----1A----	Atr
+17	týdne	NNIS2-----A----	Adv
+18	stíhán	VsYS---XX-AP---	Pred
+19	devatenáctiletý	AAMS1----1A----	Atr
+20	J	NNMXX-----A---8	Atr
+21	.	Z:-------------	AuxG
+22	V	NNMXX-----A---8	Sb
+23	.	Z:-------------	AuxG
+24	z	RR--2----------	AuxP
+25	Havířova	NNIS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94205-62-p3s1
+1	Ležícího	AGMS4-----A----	Atr
+2	devatenáctiletého	AAMS4----1A----	Atr
+3	mladíka	NNMS4-----A----	Obj
+4	našli	VpMP---XR-AA---	Pred
+5	policisté	NNMP1-----A----	Sb
+6	ve	RV--6----------	AuxP
+7	vestibulu	NNIS6-----A----	Adv
+8	brněnského	AANS2----1A----	Atr
+9	hlavního	AANS2----1A----	Atr
+10	nádraží	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94205-62-p3s2
+1	V	RR--6----------	AuxP
+2	batohu	NNIS6-----A----	Adv
+3	měl	VpYS---XR-AA---	Pred
+4	uloženy	VsTP---XX-AP---	Atv
+5	léky	NNIP4-----A----	Obj
+6	k	RR--3----------	AuxP
+7	výrobě	NNFS3-----A----	Atr
+8	pervitinu	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	náčiní	NNNS4-----A----	Obj
+11	sloužící	AGNS4-----A----	Atr
+12	k	RR--3----------	AuxP
+13	přípravě	NNFS3-----A----	Obj
+14	drogy	NNFS2-----A----	Atr
+15	a	J^-------------	Coord
+16	injekční	AAFP4----1A----	Atr
+17	stříkačky	NNFP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln94205-62-p3s3
+1	Mladík	NNMS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	pervitin	NNIS4-----A----	Obj
+5	pravidelně	Dg-------1A----	Adv
+6	užívá	VB-S---3P-AA---	Atr
+7	,	Z:-------------	AuxX
+8	musel	VpYS---XR-AA---	Pred
+9	být	Vf--------A----	AuxV
+10	z	RR--2----------	AuxP
+11	nádraží	NNNS2-----A----	Adv
+12	převezen	VsYS---XX-AP---	Obj
+13	k	RR--3----------	AuxP
+14	lékařskému	AANS3----1A----	Atr
+15	ošetření	NNNS3-----A----	Adv
+16	.	Z:-------------	AuxK
+

@@ -1,0 +1,65 @@
+ln95044-010-p1s1
+1	PIB	NNFXX-----A---8	Sb
+2	sjednává	VB-S---3P-AA---	Pred
+3	úrazové	AANS4----1A----	Atr
+4	pojištění	NNNS4-----A----	Obj
+
+ln95044-010-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-010-p2s1B
+1	Úrazové	AANS4----1A----	Atr
+2	pojištění	NNNS4-----A----	Obj
+3	pro	RR--4----------	AuxP
+4	cesty	NNFP4-----A----	Atr
+5	a	J^-------------	Coord
+6	pobyt	NNIS4-----A----	Atr
+7	začala	VpQW---XR-AA---	Pred
+8	s	RR--7----------	AuxP
+9	cestovními	AAFP7----1A----	Atr
+10	kancelářemi	NNFP7-----A----	Obj
+11	sjednávat	Vf--------A----	Obj
+12	Pojišťovna	NNFS1-----A----	Sb
+13	IB	NNFXX-----A---8	Atr
+14	z	RR--2----------	AuxP
+15	finanční	AAFS2----1A----	Atr
+16	skupiny	NNFS2-----A----	Adv
+17	Investiční	AAFS2----1A----	Atr
+18	a	J^-------------	Coord
+19	Poštovní	AAFS2----1A----	Atr
+20	banky	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95044-010-p2s2
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	uvedl	VpYS---XR-AA---	Pred
+4	tiskový	AAMS1----1A----	Atr
+5	mluvčí	NNMS1-----A----	Sb
+6	IPB	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxK
+
+ln95044-010-p3s1
+1	Nový	AAIS1----1A----	Atr
+2	druh	NNIS1-----A----	Sb
+3	pojištění	NNNS2-----A----	Atr
+4	slouží	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	zabezpečení	NNNS3-----A----	Obj
+7	fyzických	AAFP2----1A----	Atr
+8	osob	NNFP2-----A----	Atr
+9	při	RR--6----------	AuxP
+10	hromadných	AAFP6----1A----	Atr
+11	i	J^-------------	Coord
+12	individuálních	AAFP6----1A----	Atr
+13	krátkodobých	AAFP6----1A----	Atr
+14	cestách	NNFP6-----A----	Atr
+15	a	J^-------------	Coord
+16	pobytech	NNIP6-----A----	Atr
+17	mimo	RR--4----------	AuxP
+18	místo	NNNS4-----A----	Atr
+19	jejich	PSXXXXP3-------	Atr
+20	bydliště	NNNS2-----A----	Atr
+21	.	Z:-------------	AuxK
+

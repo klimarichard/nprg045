@@ -1,0 +1,847 @@
+cmpr9406-027-p2s1
+1	I	J^-------------	AuxZ
+2	lékař	NNMS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	manažerem	NNMS7-----A----	Pnom
+
+cmpr9406-027-p3s1
+1	Image	NNXXX-----A----	Obj
+2	důvěry	NNFS2-----A----	Atr
+3	vytvářejí	VB-P---3P-AA---	Pred
+4	všichni	PLMP1----------	Atr
+5	pracovníci	NNMP1-----A----	Sb
+6	zdravotního	AANS2----1A----	Atr
+7	zařízení	NNNS2-----A----	Atr
+
+cmpr9406-027-p4s1
+1	Jsou	VB-P---3P-AA---	Pred
+2	profese	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	při	RR--6----------	AuxP
+5	jejichž	P1XXXXP3-------	Atr
+6	vyslovení	NNNS6-----A----	Adv
+7	si	P7-X3----------	AuxT
+8	každý	AAMS1----1A----	Sb
+9	vybaví	VB-S---3P-AA---	Atr
+10	především	Db-------------	AuxZ
+11	její	PSFSXFS3-------	Atr
+12	odbornou	AAFS4----1A----	Atr
+13	náplň	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9406-027-p4s2
+1	Málokdo	PZM-1----------	ExD
+2	již	Db-------------	AuxZ
+3	také	Db-------------	AuxZ
+4	to	PDNS4----------	ExD
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	vedoucí	AGMS1-----A----	Atr
+8	pracovník	NNMS1-----A----	Sb
+9	v	RR--6----------	AuxP
+10	těchto	PDXP6----------	Atr
+11	oborech	NNIP6-----A----	Atr
+12	musí	VB-S---3P-AA---	Atr
+13	být	Vf--------A----	Obj
+14	vedle	RR--2----------	AuxP
+15	specialisty	NNMS2-----A----	Adv
+16	také	Db-------------	AuxZ
+17	manažerem	NNMS7-----A----	Pnom
+18	.	Z:-------------	AuxK
+
+cmpr9406-027-p4s3
+1	Platí	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	i	J^-------------	AuxZ
+4	ve	RV--6----------	AuxP
+5	zdravotnictví	NNNS6-----A----	Adv
+6	.	Z:-------------	AuxK
+
+cmpr9406-027-p5s1
+1	Jedním	ClZS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	takovýchto	PDXP2----------	Atr
+4	manažerů	NNMP2-----A----	Atr
+5	mezi	RR--7----------	AuxP
+6	lékaři	NNMP7-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	i	J^-------------	AuxZ
+9	Jan	NNMS1-----A----	Atr
+10	Paska	NNMS1-----A----	Sb
+11	,	Z:-------------	Apos
+12	primář	NNMS1-----A----	Sb
+13	oddělení	NNNS2-----A----	Atr
+14	ORL	NNNXX-----A---8	Atr
+15	Nemocnice	NNFS2-----A----	Atr
+16	Na	RR--6----------	AuxP
+17	Homolce	NNFS6-----A----	Atr
+18	v	RR--6----------	AuxP
+19	Praze	NNFS6-----A----	Atr
+20	5	C=-------------	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9406-027-p5s2
+1	Profit	NNIS1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	ním	P5ZS7--3-------	Obj
+4	hovořil	VpYS---XR-AA---	Pred
+5	o	RR--6----------	AuxP
+6	tom	PDZS6----------	Obj
+7	,	Z:-------------	AuxX
+8	jaké	P4YP4----------	Atr
+9	manažerské	AAIP4----1A----	Atr
+10	názory	NNIP4-----A----	Obj
+11	zastává	VB-S---3P-AA---	Atr
+12	,	Z:-------------	Coord
+13	jaké	P4YP4----------	Atr
+14	nároky	NNIP4-----A----	Obj
+15	-	Z:-------------	AuxG
+16	jako	J,-------------	AuxY
+17	manažer	NNMS1-----A----	AtvV
+18	-	Z:-------------	AuxG
+19	má	VB-S---3P-AA---	Atr
+20	na	RR--4----------	AuxP
+21	své	P8YP4---------1	Atr
+22	spolupracovníky	NNMP4-----A----	Adv
+23	.	Z:-------------	AuxK
+
+cmpr9406-027-p6s1
+1	*	Z:-------------	AuxG
+2	Říká	VB-S---3P-AA---	Pred
+3	se	P7-X4----------	AuxR
+4	o	RR--6----------	AuxP
+5	vás	PP-P6--2-------	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	neumíte	VB-P---2P-NA---	Sb
+9	příliš	Db-------------	Adv
+10	chválit	Vf--------A----	Obj
+11	své	P8YP4---------1	Atr
+12	spolupracovníky	NNMP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9406-027-p6s2
+1	Co	PQ--4----------	Obj
+2	si	P7-X3----------	AuxT
+3	o	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	,	Z:-------------	AuxX
+6	a	J^-------------	Coord
+7	o	RR--6----------	AuxP
+8	pochvale	NNFS6-----A----	Obj
+9	v	RR--6----------	AuxP
+10	práci	NNFS6-----A----	Atr
+11	vůbec	Db-------------	Atr
+12	,	Z:-------------	AuxX
+13	myslíte	VB-P---2P-AA---	Pred
+14	?	Z:-------------	AuxK
+
+cmpr9406-027-p7s1
+1	Máte	VB-P---2P-AA---	Pred
+2	asi	TT-------------	AuxY
+3	pravdu	NNFS4-----A----	Obj
+4	.	Z:-------------	AuxK
+
+cmpr9406-027-p7s2
+1	Mám	VB-S---1P-AA---	Pred
+2	stejné	AANS4----1A----	Atr
+3	chování	NNNS4-----A----	Obj
+4	v	RR--6----------	AuxP
+5	práci	NNFS6-----A----	Adv
+6	i	J^-------------	Coord
+7	doma	Db-------------	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9406-027-p7s3
+1	Když	J,-------------	AuxC
+2	je	VB-S---3P-AA---	Adv
+3	vše	PLNS1---------1	Sb
+4	v	RR--6----------	AuxP
+5	pořádku	NNIS6-----A----	Adv
+6	,	Z:-------------	AuxX
+7	je	VB-S---3P-AA---	Pred
+8	to	PDNS1----------	Sb
+9	dobré	AANS1----1A----	Pnom
+10	a	J^-------------	Coord
+11	pokládám	VB-S---1P-AA---	Pred
+12	to	PDNS4----------	Obj
+13	za	RR--4----------	AuxP
+14	samozřejmé	AANS4----1A----	Obj
+15	,	Z:-------------	AuxX
+16	a	J^-------------	Coord
+17	chválit	Vf--------A----	Obj
+18	opravdu	Db-------------	Adv
+19	zapomínám	VB-S---1P-AA---	Pred
+20	.	Z:-------------	AuxK
+
+cmpr9406-027-p7s4
+1	Chválit	Vf--------A----	Obj
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	měla	VpQW---XR-AA---	Pred
+5	jenom	TT-------------	AuxZ
+6	dobrá	AAFS1----1A----	Atr
+7	práce	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+cmpr9406-027-p7s5
+1	Myslím	VB-S---1P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	chválení	NNNS1-----A----	Sb
+6	není	VB-S---3P-NA---	Obj
+7	všechno	PLNS1----------	Pnom
+8	.	Z:-------------	AuxK
+
+cmpr9406-027-p7s6
+1	Na	RR--6----------	AuxP
+2	zdejším	AANS6----1A----	Atr
+3	oddělení	NNNS6-----A----	Adv
+4	jsem	VB-S---1P-AA---	AuxV
+5	začínal	VpYS---XR-AA---	Pred
+6	vytvářet	Vf--------A----	Obj
+7	současný	AAIS4----1A----	Atr
+8	tým	NNIS4-----A----	Obj
+9	lékařů	NNMP2-----A----	Atr
+10	a	J^-------------	Coord
+11	sester	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9406-027-p7s7
+1	Kladu	VB-S---1P-AA---	Pred
+2	důraz	NNIS4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	osobní	AAIS4----1A----	Atr
+5	příklad	NNIS4-----A----	Atr
+6	a	J^-------------	Coord
+7	při	RR--6----------	AuxP
+8	hodnocení	NNNS6-----A----	ExD
+9	druhých	CrMP2----------	Atr
+10	na	RR--4----------	AuxP
+11	výsledky	NNIP4-----A----	ExD
+12	práce	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9406-027-p7s8
+1	Moji	PSMP1-S1-------	Atr
+2	kolegové	NNMP1-----A----	Sb
+3	a	J^-------------	Coord
+4	střední	AAIS1----1A----	Atr
+5	zdravotní	AAIS1----1A----	Atr
+6	personál	NNIS1-----A----	Sb
+7	na	RR--6----------	AuxP
+8	našem	PSZS6-P1-------	Atr
+9	oddělení	NNNS6-----A----	Atr
+10	pochváleni	VsMP---XX-AP---	Pnom
+11	jsou	VB-P---3P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	více	Dg-------2A----	ExD
+14	však	J^-------------	Coord
+15	od	RR--2----------	AuxP
+16	pacientů	NNMP2-----A----	ExD
+17	,	Z:-------------	AuxX
+18	než	J,-------------	AuxC
+19	ode	RV--2----------	AuxP
+20	mne	PP-S2--1-------	ExD
+21	.	Z:-------------	AuxK
+
+cmpr9406-027-p7s9
+1	Tomu	PDZS3----------	Obj
+2	dávám	VB-S---1P-AA---	Pred
+3	přednost	NNFS4-----A----	Obj
+4	.	Z:-------------	AuxK
+
+cmpr9406-027-p7s10
+1	Pro	RR--4----------	AuxP
+2	spolupracovníky	NNMP4-----A----	Adv
+3	to	PDNS1----------	Sb
+4	znamená	VB-S---3P-AA---	Pred
+5	více	Dg-------2A----	Obj
+6	,	Z:-------------	AuxX
+7	než	J,-------------	AuxC
+8	pochvala	NNFS1-----A----	ExD
+9	ode	RV--2----------	AuxP
+10	mne	PP-S2--1-------	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-027-p8s1
+1	*	Z:-------------	AuxG
+2	Kdy	Db-------------	Adv
+3	jste	VB-P---2P-AA---	AuxV
+4	si	P7-X3----------	AuxT
+5	plně	Dg-------1A----	Adv
+6	uvědomil	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	co	PQ--4----------	Obj
+9	vlastně	Dg-------1A----	AuxY
+10	obnáší	VB-S---3P-AA---	Obj
+11	být	Vf--------A----	Sb
+12	manažerem	NNMS7-----A----	Pnom
+13	odborného	AAIS2----1A----	Atr
+14	týmu	NNIS2-----A----	Atr
+15	?	Z:-------------	AuxK
+
+cmpr9406-027-p9s1
+1	Chování	NNNS4-----A----	Obj
+2	personálu	NNIS2-----A----	Atr
+3	,	Z:-------------	Apos
+4	všech	PLXP2----------	Atr
+5	na	RR--6----------	AuxP
+6	oddělení	NNNS6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	k	RR--3----------	AuxP
+9	pacientům	NNMP3-----A----	Atr
+10	pokládám	VB-S---1P-AA---	Pred
+11	čím	PQ--7----------	Adv
+12	dál	Dg-------2A----	Adv
+13	víc	Dg-------2A---1	Adv
+14	za	RR--4----------	AuxP
+15	jeden	ClIS4----------	Obj
+16	z	RR--2----------	AuxP
+17	klíčů	NNIP2-----A----	Atr
+18	pro	RR--4----------	AuxP
+19	úspěšné	AANS4----1A----	Atr
+20	řízení	NNNS4-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9406-027-p9s2
+1	Všichni	PLMP1----------	Sb
+2	u	RR--2----------	AuxP
+3	nás	PP-P2--1-------	Atr
+4	v	RR--6----------	AuxP
+5	oddělení	NNNS6-----A----	Adv
+6	vytváříme	VB-P---1P-AA---	Pred
+7	pozitivní	AANS4----1A----	Atr
+8	klima	NNNS4-----A----	Obj
+9	pro	RR--4----------	AuxP
+10	pacienta	NNMS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-027-p9s3
+1	Vytváříme	VB-P---1P-AA---	Pred
+2	tím	PDZS7----------	Adv
+3	svůj	P8IS4----------	Atr
+4	image	NNIXX-----A----	Obj
+5	důvěry	NNFS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9406-027-p9s4
+1	Přes	RR--4----------	AuxP
+2	naši	PSFS4-P1-------	Atr
+3	snahu	NNFS4-----A----	Adv
+4	a	J^-------------	Coord
+5	mé	PSNS4-S1------1	Atr
+6	osobní	AANS4----1A----	Atr
+7	úsilí	NNNS4-----A----	Adv
+8	nejsem	VB-S---1P-NA---	Pred
+9	někdy	Db-------------	Adv
+10	dokonale	Dg-------1A----	Adv
+11	spokojen	ACYS------A----	Pnom
+12	.	Z:-------------	AuxK
+
+cmpr9406-027-p9s5
+1	Jako	J,-------------	AuxC
+2	každý	AAMS1----1A----	Atr
+3	člověk	NNMS1-----A----	ExD
+4	,	Z:-------------	AuxX
+5	podléháme	VB-P---1P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	my	PP-P1--1-------	Sb
+8	občasným	AAFP3----1A----	Atr
+9	náladám	NNFP3-----A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9406-027-p9s6
+1	To	PDNS1----------	Sb
+2	ale	J^-------------	Coord
+3	nesmí	VB-S---3P-NA---	Pred
+4	být	Vf--------A----	Obj
+5	patrné	AANS1----1A----	Pnom
+6	na	RR--6----------	AuxP
+7	přístupu	NNIS6-----A----	Adv
+8	k	RR--3----------	AuxP
+9	pacientům	NNMP3-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9406-027-p10s1
+1	*	Z:-------------	AuxG
+2	Narazil	VpYS---XR-AA---	Pred
+3	jste	VB-P---2P-AA---	AuxV
+4	na	RR--4----------	AuxP
+5	profesionální	AANS4----1A----	Atr
+6	chování	NNNS4-----A----	Adv
+7	,	Z:-------------	Coord
+8	co	PQ--4----------	Obj
+9	tím	PDZS7----------	Adv
+10	rozumíte	VB-P---2P-AA---	Pred
+11	?	Z:-------------	AuxK
+
+cmpr9406-027-p11s1
+1	Přístup	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	být	Vf--------A----	Obj
+5	laskavý	AAIS1----1A----	Pnom
+6	,	Z:-------------	Coord
+7	pacient	NNMS1-----A----	Sb
+8	musí	VB-S---3P-AA---	Pred
+9	vědět	Vf--------A----	Obj
+10	,	Z:-------------	AuxX
+11	co	PQ--1----------	Sb
+12	se	P7-X4----------	AuxT
+13	s	RR--7----------	AuxP
+14	ním	P5ZS7--3-------	Obj
+15	děje	VB-S---3P-AA---	Obj
+16	a	J^-------------	Coord
+17	co	PQ--1----------	Sb
+18	bude	VB-S---3F-AA---	AuxV
+19	následovat	Vf--------A----	Obj
+20	.	Z:-------------	AuxK
+
+cmpr9406-027-p11s2
+1	Když	J,-------------	AuxC
+2	pacient	NNMS1-----A----	Sb
+3	čeká	VB-S---3P-AA---	Adv
+4	,	Z:-------------	AuxX
+5	požaduji	VB-S---1P-AA--1	Pred
+6	od	RR--2----------	AuxP
+7	sester	NNFP2-----A----	Obj
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	mu	PHZS3--3-------	Obj
+11	sdělili	VpMP---XR-AA---	Obj
+12	,	Z:-------------	AuxX
+13	proč	Db-------------	Adv
+14	vlastně	Dg-------1A----	AuxY
+15	v	RR--4----------	AuxP
+16	tuto	PDFS4----------	Atr
+17	chvíli	NNFS4-----A----	Adv
+18	nemůže	VB-S---3P-NA---	Obj
+19	být	Vf--------A----	Obj
+20	ošetřen	VsYS---XX-AP---	Pnom
+21	.	Z:-------------	AuxK
+
+cmpr9406-027-p11s3
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	to	PDNS4----------	Obj
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	venku	Db-------------	Adv
+7	neseděli	VpMP---XR-NA---	Atr
+8	pacienti	NNMP1-----A----	Sb
+9	a	J^-------------	Coord
+10	uvnitř	Db-------------	AuxP
+11	ordinace	NNFS2-----A----	Adv
+12	neseděl	VpYS---XR-NA---	Adv
+13	personál	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+cmpr9406-027-p11s4
+1	To	PDNS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	u	RR--2----------	AuxP
+4	nás	PP-P2--1-------	Adv
+5	neděje	VB-S---3P-NA---	Pred
+6	.	Z:-------------	AuxK
+
+cmpr9406-027-p12s1
+1	*	Z:-------------	AuxG
+2	Do	RR--2----------	AuxP
+3	jaké	P4FS2----------	Atr
+4	míry	NNFS2-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	vaše	PSIP1-P2-------	Atr
+7	nároky	NNIP1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	profesionální	AANS4----1A----	Atr
+10	chování	NNNS4-----A----	Atr
+11	celého	AAIS2----1A----	Atr
+12	týmu	NNIS2-----A----	Atr
+13	prolínají	VB-P---3P-AA---	Pred
+14	s	RR--7----------	AuxP
+15	ekonomikou	NNFS7-----A----	Obj
+16	vašeho	PSZS2-P2-------	Atr
+17	oddělení	NNNS2-----A----	Atr
+18	?	Z:-------------	AuxK
+
+cmpr9406-027-p13s1
+1	Doba	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	jak	Db-------------	Adv
+4	se	P7-X4----------	AuxR
+5	to	PDNS1----------	Sb
+6	udělá	VB-S---3P-AA---	Atr
+7	jednoduše	Dg-------1A----	Adv
+8	,	Z:-------------	AuxX
+9	se	P7-X4----------	AuxT
+10	teprve	Db-------------	Adv
+11	blíží	VB-S---3P-AA---	Pred
+12	.	Z:-------------	AuxK
+
+cmpr9406-027-p13s2
+1	Člověk	NNMS1-----A----	Sb
+2	chodí	VB-S---3P-AA---	Pred
+3	do	RR--2----------	AuxP
+4	práce	NNFS2-----A----	Adv
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	měl	VpYS---XR-AA---	Adv
+8	peníze	NNIP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	za	RR--4----------	AuxP
+11	které	P4YP4----------	Adv
+12	pak	Db-------------	Adv
+13	může	VB-S---3P-AA---	Atr
+14	žít	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9406-027-p13s3
+1	Ve	RV--6----------	AuxP
+2	zdravotnictví	NNNS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	to	PDNS1----------	Sb
+5	tak	Db-------------	Adv
+6	jednoznačně	Dg-------1A----	Adv
+7	říci	Vf--------A---1	Obj
+8	nedá	VB-S---3P-NA---	Pred
+9	a	J^-------------	Coord
+10	je	VB-S---3P-AA---	Pred
+11	to	PDNS1----------	Sb
+12	různé	AANS1----1A----	Pnom
+13	.	Z:-------------	AuxK
+
+cmpr9406-027-p13s4
+1	Peníze	NNIP1-----A----	Sb
+2	zatím	Db-------------	Adv
+3	nevyjadřují	VB-P---3P-NA---	Pred
+4	objem	NNIS4-----A----	Obj
+5	práce	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	který	P4IS4----------	Obj
+8	odvádíme	VB-P---1P-AA---	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9406-027-p13s5
+1	Při	RR--6----------	AuxP
+2	současném	AAIS6----1A----	Atr
+3	trendu	NNIS6-----A----	ExD
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	začíná	VB-S---3P-AA---	Atr
+7	určitá	AAFS1----1A----	Atr
+8	"	Z:-------------	AuxG
+9	žádost	NNFS1-----A----	Sb
+10	"	Z:-------------	AuxG
+11	po	RR--6----------	AuxP
+12	pacientech	NNMP6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9406-027-p13s6
+1	Množství	NNNS1-----A----	Sb
+2	pacientů	NNMP2-----A----	Atr
+3	vytváří	VB-S---3P-AA---	Pred
+4	ekonomické	AAIP4----1A----	Atr
+5	výsledky	NNIP4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+cmpr9406-027-p13s7
+1	U	RR--2----------	AuxP
+2	nás	PP-P2--1-------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	vnitřní	AANS1----1A----	Atr
+5	ekonomické	AANS1----1A----	Atr
+6	řízení	NNNS1-----A----	Sb
+7	zavedeno	VsNS---XX-AP---	Pnom
+8	již	Db-------------	AuxZ
+9	více	Dg-------2A----	Adv
+10	jak	Db-------------	AuxC
+11	dva	ClYP4----------	Atr
+12	roky	NNIP4-----A----	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9406-027-p13s8A
+1	Přesně	Dg-------1A----	Adv
+2	známe	VB-P---1P-AA---	Pred
+3	své	P8YP4---------1	Atr
+4	náklady	NNIP4-----A----	Obj
+5	a	J^-------------	Coord
+6	výnosy	NNIP4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+cmpr9406-027-p13s8B
+1	je	VB-S---3P-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	všem	PLXP3----------	Atr
+4	naprosto	Db-------------	Adv
+5	jasné	AANS1----1A----	Pnom
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	chceme	VB-P---1P-AA---	Adv
+9	-	Z:-------------	AuxG
+10	li	TT-------------	AuxC
+11	dosahovat	Vf--------A----	Obj
+12	zisku	NNIS2-----A----	Obj
+13	,	Z:-------------	AuxX
+14	musíme	VB-P---1P-AA---	Sb
+15	mít	Vf--------A----	Obj
+16	určitý	AAIS4----1A----	Atr
+17	počet	NNIS4-----A----	Obj
+18	pacientů	NNMP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	a	J^-------------	AuxY
+21	to	PDNS4----------	AuxY
+22	ještě	Db-------------	AuxZ
+23	navíc	Db-------------	Adv
+24	v	RR--6----------	AuxP
+25	určité	AAFS6----1A----	Atr
+26	"	Z:-------------	AuxG
+27	cílové	AAFS6----1A----	Atr
+28	"	Z:-------------	AuxG
+29	skupině	NNFS6-----A----	Adv
+30	.	Z:-------------	AuxK
+
+cmpr9406-027-p13s9
+1	Z	RR--2----------	AuxP
+2	tohoto	PDZS2----------	Atr
+3	základního	AAIS2----1A----	Atr
+4	požadavku	NNIS2-----A----	Adv
+5	,	Z:-------------	AuxX
+6	kterým	P4ZS7----------	Pnom
+7	je	VB-S---3P-AA---	Atr
+8	potřebný	AAIS1----1A----	Atr
+9	počet	NNIS1-----A----	Sb
+10	pacientů	NNMP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	vyplývají	VB-P---3P-AA---	Pred
+13	požadavky	NNIP1-----A----	Sb
+14	na	RR--4----------	AuxP
+15	naši	PSFS4-P1-------	Atr
+16	odbornost	NNFS4-----A----	Atr
+17	a	J^-------------	Coord
+18	profesionalitu	NNFS4-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9406-027-p14s1
+1	*	Z:-------------	AuxG
+2	Co	PQ--4----------	Obj
+3	to	PDNS1----------	Sb
+4	znamená	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	praxi	NNFS6-----A----	Adv
+7	?	Z:-------------	AuxK
+
+cmpr9406-027-p15s1
+1	Prosazujeme	VB-P---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	aby	J,-------------	AuxC
+4	vyšetření	NNNP1-----A----	Sb
+5	a	J^-------------	Coord
+6	práce	NNFS1-----A----	Sb
+7	všech	PLXP2----------	Atr
+8	lékařů	NNMP2-----A----	Atr
+9	na	RR--6----------	AuxP
+10	oddělení	NNNS6-----A----	Atr
+11	měla	VpQW---XR-AA---	Obj
+12	stejnou	AAFS4----1A----	Atr
+13	úroveň	NNFS4-----A----	Obj
+14	a	J^-------------	Coord
+15	kvalitu	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9406-027-p15s2
+1	A	J^-------------	Coord
+2	to	PDNS4----------	Obj
+3	vyžadujeme	VB-P---1P-AA---	Pred
+4	od	RR--2----------	AuxP
+5	všech	PLXP2----------	Atr
+6	spolupracovníků	NNMP2-----A----	Obj
+7	i	J^-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	oblasti	NNFS6-----A----	Adv
+10	chování	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-027-p15s3
+1	Naše	PSHS1-P1-------	Atr
+2	schopnost	NNFS1-----A----	Sb
+3	integrovat	Vf--------A----	Atr
+4	do	RR--2----------	AuxP
+5	týmu	NNIS2-----A----	Adv
+6	i	J^-------------	AuxZ
+7	nově	Dg-------1A----	Adv
+8	příchozí	AAMP4----1A----	Obj
+9	,	Z:-------------	Apos
+10	schopnost	NNFS1-----A----	Sb
+11	všech	PLXP2----------	Atr
+12	profesionálně	Dg-------1A----	Adv
+13	si	P7-X3----------	AuxT
+14	počínat	Vf--------A----	Atr
+15	,	Z:-------------	AuxX
+16	vyplývá	VB-S---3P-AA---	Pred
+17	do	RR--2----------	AuxP
+18	jisté	AAFS2----1A----	Atr
+19	míry	NNFS2-----A----	Adv
+20	i	J^-------------	AuxZ
+21	z	RR--2----------	AuxP
+22	toho	PDZS2----------	Adv
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	pracujeme	VB-P---1P-AA---	Atr
+26	jako	J,-------------	AuxY
+27	tým	NNIS1-----A----	Atv
+28	,	Z:-------------	AuxX
+29	celé	AANS1----1A----	Atr
+30	oddělení	NNNS1-----A----	Sb
+31	a	J^-------------	Coord
+32	nikoli	Db------------1	AuxZ
+33	jako	J,-------------	AuxY
+34	jednotlivý	AAMS1----1A----	Atr
+35	lékař	NNMS1-----A----	Atv
+36	,	Z:-------------	AuxX
+37	který	P4YS1----------	Sb
+38	takové	PDFP4----------	Atr
+39	možnosti	NNFP4-----A----	Obj
+40	nemá	VB-S---3P-NA---	Atr
+41	.	Z:-------------	AuxK
+
+cmpr9406-027-p15s4
+1	U	RR--2----------	AuxP
+2	nás	PP-P2--1-------	Adv
+3	jeden	ClYS1----------	Sb
+4	bez	RR--2----------	AuxP
+5	druhého	CrMS2----------	Atr
+6	nemůže	VB-S---3P-NA---	Pred
+7	nic	PW--4----------	Obj
+8	dokázat	Vf--------A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9406-027-p15s5
+1	Na	RR--6----------	AuxP
+2	prvním	CrNS6----------	Atr
+3	místě	NNNS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	proto	J^-------------	Adv
+6	profesionální	AAFS1----1A----	Atr
+7	zdatnost	NNFS1-----A----	Sb
+8	a	J^-------------	Coord
+9	znalosti	NNFP1-----A----	Sb
+10	všech	PLXP2----------	Atr
+11	-	Z:-------------	Apos
+12	lékařů	NNMP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	sester	NNFP2-----A----	Atr
+15	i	J^-------------	Coord
+16	administrativní	AAFS2----1A----	Atr
+17	podpory	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9406-027-p15s6
+1	Máme	VB-P---1P-AA---	Pred
+2	zájem	NNIS4-----A----	Obj
+3	naším	PSZS7-P1-------	Atr
+4	vybavením	NNNS7-----A----	Adv
+5	pomáhat	Vf--------A----	Atr
+6	i	J^-------------	AuxZ
+7	ostatním	AAMP3----1A----	Atr
+8	kolegům	NNMP3-----A----	Obj
+9	lékařům	NNMP3-----A----	Atr
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	pracují	VB-P---3P-AA---	Atr
+13	v	RR--6----------	AuxP
+14	terénu	NNIS6-----A---1	Adv
+15	nebo	J^-------------	Coord
+16	samostatně	Dg-------1A----	Adv
+17	.	Z:-------------	AuxK
+
+cmpr9406-027-p15s7
+1	Poskytovat	Vf--------A----	Pred
+2	jim	PPXP3--3-------	Obj
+3	servis	NNIS4-----A----	Obj
+4	a	J^-------------	Coord
+5	možnost	NNFS4-----A----	Obj
+6	operovat	Vf--------A----	Atr
+7	svého	P8MS4----------	Atr
+8	pacienta	NNMS4-----A----	Obj
+9	u	RR--2----------	AuxP
+10	nás	PP-P2--1-------	Adv
+11	nebo	J^-------------	Coord
+12	mohou	VB-P---3P-AA--1	Pred
+13	být	Vf--------A----	Obj
+14	u	RR--2----------	AuxP
+15	složitějších	AAIP2----2A----	Atr
+16	zákroků	NNIP2-----A----	Adv
+17	operaci	NNFS3-----A----	Obj
+18	přítomní	AAMP1----1A----	Pnom
+19	.	Z:-------------	AuxK
+
+cmpr9406-027-p15s8
+1	Tím	PDZS7----------	Adv
+2	zlepšujeme	VB-P---1P-AA---	Pred
+3	postavení	NNNS4-----A----	Obj
+4	lékařů	NNMP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	kteří	P4MP1----------	Sb
+7	naše	PSXP4-P1-------	Atr
+8	možnosti	NNFP4-----A----	Obj
+9	nemají	VB-P---3P-NA---	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9406-027-p15s9
+1	Vytváří	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	tím	PDZS7----------	Adv
+4	samozřejmě	Dg-------1A----	AuxY
+5	i	J^-------------	AuxZ
+6	dobré	AANS1----1A----	Atr
+7	jméno	NNNS1-----A----	Sb
+8	našeho	PSZS2-P1-------	Atr
+9	oddělení	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9406-027-p16s1
+1	Jarmila	NNFS1-----A----	Atr
+2	Fryntová	NNFS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	Jaroslav	NNMS1-----A----	Atr
+5	Seifert	NNMS1-----A----	ExD
+
+cmpr9406-027-p18s1
+1	Text	NNIS1-----A----	ExD
+2	k	RR--3----------	AuxP
+3	foto	NNNXX-----A----	Atr
+4	:	Z:-------------	AuxK
+
+cmpr9406-027-p19s1A
+1	MANAŽER	NNMS1-----A----	ExD
+2	V	RR--6----------	AuxP
+3	NEMOCNICI	NNFS6-----A----	Atr
+4	:	Z:-------------	AuxK
+
+cmpr9406-027-p19s1B
+1	I	J^-------------	AuxZ
+2	zde	Db-------------	Adv
+3	musí	VB-S---3P-AA---	Pred
+4	řídit	Vf--------A----	Obj
+5	tým	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	svojí	P8FS7----------	Atr
+9	prací	NNFS7-----A----	Adv
+10	i	J^-------------	Coord
+11	vystupováním	NNNS7-----A----	Adv
+12	rozhoduje	VB-S---3P-AA---	Atr
+13	svým	P8ZS7----------	Atr
+14	dílem	NNIS7-----A----	Adv
+15	o	RR--6----------	AuxP
+16	odborné	AAFS6----1A----	Atr
+17	úrovni	NNFS6-----A----	Obj
+18	i	J^-------------	Coord
+19	hospodářské	AAFS6----1A----	Atr
+20	prosperitě	NNFS6-----A----	Obj
+21	zdravotního	AANS2----1A----	Atr
+22	zařízení	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+

@@ -1,0 +1,297 @@
+ln94205-1-p1s1
+1	Týden	NNIS1-----A----	ExD
+2	mezi	RR--7----------	AuxP
+3	počítači	NNIP7-----A----	Atr
+
+ln94205-1-p2s1
+1	Největší	AAMS1----3A----	Atr
+2	světový	AAMS1----1A----	Atr
+3	výrobce	NNMS1-----A----	Sb
+4	procesorů	NNIP2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	počítače	NNIP4-----A----	Atr
+7	otevřel	VpYS---XR-AA---	Pred
+8	další	AAFS4----1A----	Atr
+9	pobočku	NNFS4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	zemích	NNFP6-----A----	AdvAtr
+12	východní	AAFS2----1A----	Atr
+13	Evropy	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94205-1-p2s2
+1	Po	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	a	J^-------------	Coord
+4	Varšavě	NNFS6-----A----	Adv
+5	přišla	VpQW---XR-AA---	Pred
+6	na	RR--4----------	AuxP
+7	řadu	NNFS4-----A----	Obj
+8	Budapešť	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94205-1-p2s3
+1	Intel	NNIS1-----A----	Atr
+2	Hungary	NNNXX-----A----	Atr
+3	Ltd	AAXXX----1A---8	Sb
+4	.	Z:-------------	AuxG
+5	bude	VB-S---3F-AA---	AuxV
+6	řídit	Vf--------A----	Pred
+7	i	J^-------------	AuxZ
+8	aktivity	NNFP4-----A----	Obj
+9	společnosti	NNFS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	Slovensku	NNNS6-----A----	AdvAtr
+12	a	J^-------------	Coord
+13	ve	RV--6----------	AuxP
+14	Slovinsku	NNNS6-----A----	AdvAtr
+15	.	Z:-------------	AuxK
+
+ln94205-1-p3s1
+1	Ve	RV--6----------	AuxP
+2	dnech	NNIP6-----A----	Adv
+3	14	C=-------------	Atr
+4	.	Z:-------------	AuxG
+5	-	Z:-------------	Coord
+6	16	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	září	NNNS2-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	ve	RV--6----------	AuxP
+11	Vídni	NNFS6-----A----	Adv
+12	koná	VB-S---3P-AA---	Pred
+13	4	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	mezinárodní	AAIS1----1A----	Atr
+16	kongres	NNIS1-----A----	Sb
+17	Počítač	NNIS1-----A----	Atr
+18	pro	RR--4----------	AuxP
+19	postižené	AAMP4----1A----	Atr
+20	,	Z:-------------	AuxX
+21	zaměřený	AAIS1----1A----	Atr
+22	na	RR--4----------	AuxP
+23	začlenění	NNNS4-----A----	Obj
+24	postižených	AAMP2----1A----	Atr
+25	občanů	NNMP2-----A----	Atr
+26	do	RR--2----------	AuxP
+27	normálního	AAIS2----1A----	Atr
+28	života	NNIS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94205-1-p3s2
+1	Počítač	NNIS1-----A----	Sb
+2	jako	J,-------------	AuxY
+3	základ	NNIS1-----A----	Atv
+4	pro	RR--4----------	AuxP
+5	pomocná	AANP4----1A----	Atr
+6	a	J^-------------	Coord
+7	podpůrná	AANP4----1A----	Atr
+8	zařízení	NNNP4-----A----	Atr
+9	sehrává	VB-S---3P-AA---	Pred
+10	přitom	Db-------------	Adv
+11	stále	Db-------------	Adv
+12	větší	AAFS4----2A----	Atr
+13	roli	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94205-1-p4s1
+1	Americká	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	Gamma	NNFS1-----A----	Atr
+4	Production	NNFXX-----A----	Atr
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	se	P7-X4----------	AuxT
+8	specializuje	VB-S---3P-AA---	Atr
+9	na	RR--4----------	AuxP
+10	multilinguální	AAIP4----1A----	Atr
+11	textové	AAIP4----1A----	Atr
+12	editory	NNIP4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	nabízí	VB-S---3P-AA---	Pred
+15	pro	RR--4----------	AuxP
+16	uživatele	NNMP4-----A----	Adv
+17	pracující	AGMP4-----A----	Atr
+18	v	RR--6----------	AuxP
+19	prostředí	NNNS6-----A----	Adv
+20	Windows	NNIPX-----A----	Atr
+21	zajímavý	AAIS4----1A----	Atr
+22	program	NNIS4-----A----	Obj
+23	UniType	NNIS1-----A----	Atr
+24	umožňující	AGIS4-----A----	Atr
+25	pracovat	Vf--------A----	Obj
+26	v	RR--6----------	AuxP
+27	libovolném	AANS6----1A----	Atr
+28	národním	AANS6----1A----	Atr
+29	prostředí	NNNS6-----A----	Adv
+30	ve	RV--6----------	AuxP
+31	všech	PLXP6----------	Atr
+32	windowských	AAFP6----1A----	Atr
+33	aplikacích	NNFP6-----A----	Adv
+34	.	Z:-------------	AuxK
+
+ln94205-1-p4s2
+1	Uživatel	NNMS1-----A----	Sb
+2	může	VB-S---3P-AA---	Pred
+3	pracovat	Vf--------A----	Obj
+4	se	RV--7----------	AuxP
+5	všemi	PLXP7----------	Atr
+6	evropskými	AAIP7----1A----	Atr
+7	jazyky	NNIP7-----A----	Adv
+8	včetně	RR--2----------	AuxP
+9	cyriliky	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	řečtiny	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	turečtiny	NNFS2-----A----	Atr
+14	,	Z:-------------	Coord
+15	hebrejštiny	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	i	J^-------------	AuxZ
+19	se	RV--7----------	AuxP
+20	znakovými	AANP7----1A----	Atr
+21	písmy	NNNP7-----A----	Adv
+22	jako	J,-------------	Apos
+23	japonština	NNFS1-----A----	Adv
+24	,	Z:-------------	AuxX
+25	čínština	NNFS1-----A----	Adv
+26	atd	Db------------8	Coord
+27	.	Z:-------------	AuxG
+
+ln94205-1-p5s1
+1	Známý	AAMS1----1A----	Atr
+2	výrobce	NNMS1-----A----	Sb
+3	tiskáren	NNFP2-----A----	Atr
+4	Epson	NNIS1-----A----	Atr
+5	uvedl	VpYS---XR-AA---	Pred
+6	na	RR--4----------	AuxP
+7	trh	NNIS4-----A----	Adv
+8	barevnou	AAFS4----1A----	Atr
+9	tiskárnu	NNFS4-----A----	Obj
+10	Epson	NNIS1-----A----	Atr
+11	Stylus	AAXXX----1A----	Atr
+12	Color	NNFXX-----A----	Atr
+13	s	RR--7----------	AuxP
+14	rozlišením	NNNS7-----A----	Atr
+15	720	C=-------------	Atr
+16	x	J*-------------	Coord
+17	720	C=-------------	Atr
+18	dpi	NNNXX-----A---8	Atr
+19	využívající	AGFS4-----A----	Atr
+20	piezoelektrického	AAIS2----1A----	Atr
+21	efektu	NNIS2-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94205-1-p5s2
+1	Tiskárna	NNFS1-----A----	Sb
+2	dosahuje	VB-S---3P-AA---	Pred
+3	neuvěřitelné	AAFS2----1N----	Atr
+4	kvality	NNFS2-----A----	Obj
+5	,	Z:-------------	Coord
+6	přitom	Db-------------	Adv
+7	jeho	PSXXXZS3-------	Atr
+8	cena	NNFS1-----A----	Sb
+9	v	RR--6----------	AuxP
+10	Rakousku	NNNS6-----A----	AtrAdv
+11	činí	VB-S---3P-AA---	Pred
+12	pouze	Db-------------	AuxZ
+13	8	C=-------------	Obj
+14	tisíc	ClXS2----------	Atr
+15	šilinků	NNIP2-----A----	Atr
+16	včetně	RR--2----------	AuxP
+17	daně	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94205-1-p6s1
+1	Operační	AAIS1----1A----	Atr
+2	systém	NNIS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	osobní	AAIP4----1A----	Atr
+5	počítače	NNIP4-----A----	Atr
+6	PC	NNNXX-----A---8	Atr
+7	DOS	NNIS1-----A----	Atr
+8	6.3	C=-------------	Atr
+9	od	RR--2----------	AuxP
+10	firmy	NNFS2-----A----	Atr
+11	IBM	NNFXX-----A---8	Atr
+12	přináší	VB-S---3P-AA---	Pred
+13	několik	Ca--4----------	Obj
+14	nových	AAFP2----1A----	Atr
+15	možností	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94205-1-p6s2
+1	Kromě	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	je	VB-S---3P-AA---	Atr
+6	kompatibilní	AAIS1----1A----	Pnom
+7	s	RR--7----------	AuxP
+8	MSDOS	NNIXX-----A---8	Obj
+9	,	Z:-------------	AuxX
+10	podporuje	VB-S---3P-AA---	Pred
+11	řadu	NNFS4-----A----	Obj
+12	programů	NNIP2-----A----	Atr
+13	pro	RR--4----------	AuxP
+14	postižené	AAFP4----1A----	Atr
+15	osoby	NNFP4-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94205-1-p6s3
+1	Pro	RR--4----------	AuxP
+2	slabozraké	AAMP4----1A----	Adv
+3	a	J^-------------	Coord
+4	nevidomé	NNMP4-----A----	Adv
+5	existuje	VB-S---3P-AA---	Pred
+6	program	NNIS1-----A----	Sb
+7	čtoucí	AGIS1-----A----	Atr
+8	zvolený	AAIS4----1A----	Atr
+9	obsah	NNIS4-----A----	Obj
+10	obrazovky	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94205-1-p7s1
+1	23	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	srpna	NNIS2-----A----	Adv
+4	uspořádala	VpQW---XR-AA---	Pred
+5	firma	NNFS1-----A----	Sb
+6	CODA	NNFXX-----A---8	Atr
+7	jednu	ClFS4----------	Obj
+8	z	RR--2----------	AuxP
+9	mála	Ca--2----------	Atr
+10	ze	RV--2----------	AuxP
+11	srpnových	AAFP2----1A----	Atr
+12	tiskových	AAFP2----1A----	Atr
+13	konferencí	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94205-1-p7s2
+1	Na	RR--6----------	AuxP
+2	prezentaci	NNFS6-----A----	Adv
+3	v	RR--6----------	AuxP
+4	novém	AANS6----1A----	Atr
+5	obchodním	AANS6----1A----	Atr
+6	centru	NNNS6-----A----	Atr
+7	byly	VpTP---XR-AA---	AuxV
+8	představeny	VsTP---XX-AP---	Pred
+9	nejnovější	AAIP1----3A----	Atr
+10	produkty	NNIP1-----A----	Sb
+11	jejích	PSXP2FS3-------	Atr
+12	strategických	AAMP2----1A----	Atr
+13	partnerů	NNMP2-----A----	Atr
+14	-	Z:-------------	Apos
+15	firem	NNFP2-----A----	Atr
+16	Microsoft	NNIS1-----A----	Atr
+17	a	J^-------------	Coord
+18	Intel	NNIS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94205-1-p7s3
+1	(	Z:-------------	ExD
+2	-	Z:-------------	AuxG
+3	ios	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+

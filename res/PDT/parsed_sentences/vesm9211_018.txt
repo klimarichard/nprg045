@@ -1,0 +1,105 @@
+vesm9211-018-p1s1
+1	Holandské	AAIP1----1A----	Atr
+2	činy	NNIP1-----A----	ExD
+3	,	Z:-------------	Coord
+4	ne	TT-------------	AuxZ
+5	pouhá	AANP1----1A----	Atr
+6	slova	NNNP1-----A----	ExD
+
+vesm9211-018-p2s1
+1	K	RR--3----------	AuxP
+2	diskusi	NNFS3-----A----	Obj
+3	o	RR--6----------	AuxP
+4	životním	AANS6----1A----	Atr
+5	prostředí	NNNS6-----A----	Atr
+6	mohlo	VpNS---XR-AA---	Pred
+7	letos	Db-------------	Adv
+8	přispět	Vf--------A----	Obj
+9	Holandsko	NNNS1-----A----	Sb
+10	velice	Db-------------	Adv
+11	efektně	Dg-------1A----	Adv
+12	.	Z:-------------	AuxK
+
+vesm9211-018-p2s2
+1	Oznámilo	VpNS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	v	RR--6----------	AuxP
+5	tomto	PDZS6----------	Atr
+6	roce	NNIS6-----A---1	Adv
+7	omezilo	VpNS---XR-AA---	Obj
+8	zamořování	NNNS4-----A----	Obj
+9	ovzduší	NNNS2-----A----	Atr
+10	ve	RV--6----------	AuxP
+11	všech	PLXP6----------	Atr
+12	složkách	NNFP6-----A----	AdvAtr
+13	.	Z:-------------	AuxK
+
+vesm9211-018-p2s3
+1	Ústřední	AAIS1----1A----	Atr
+2	statistický	AAIS1----1A----	Atr
+3	úřad	NNIS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	Haagu	NNIS6-----A----	Atr
+6	konstatoval	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	emise	NNFP1-----A----	Sb
+10	oxidů	NNIP2-----A----	Atr
+11	dusíku	NNIS2-----A----	Atr
+12	poklesly	VpTP---XR-AA--1	Obj
+13	o	RR--4----------	AuxP
+14	4000	C=-------------	Adv
+15	t	NNFXX-----A---8	Atr
+16	(	Z:-------------	AuxG
+17	na	RR--4----------	AuxP
+18	úroveň	NNFS4-----A----	Adv
+19	549000	C=-------------	Atr
+20	t	NNFXX-----A---8	Atr
+21	)	Z:-------------	AuxG
+22	,	Z:-------------	Coord
+23	oxidu	NNIS2-----A----	ExD
+24	siřičitého	AAIS2----1A----	Atr
+25	o	RR--4----------	AuxP
+26	7000	C=-------------	ExD
+27	(	Z:-------------	AuxG
+28	na	RR--4----------	AuxP
+29	201000	C=-------------	ExD
+30	t	NNFXX-----A---8	Atr
+31	)	Z:-------------	AuxG
+32	a	J^-------------	Coord
+33	organických	AAFP2----1A----	Atr
+34	znečišťujících	AGFP2-----A----	Atr
+35	látek	NNFP2-----A----	Atr
+36	se	P7-X4----------	AuxT
+37	dostalo	VpNS---XR-AA---	Obj
+38	do	RR--2----------	AuxP
+39	atmosféry	NNFS2-----A----	Adv
+40	o	RR--4----------	AuxP
+41	18000	C=-------------	Adv
+42	t	NNFXX-----A---8	Atr
+43	méně	Dg-------2A----	Sb
+44	.	Z:-------------	AuxK
+
+vesm9211-018-p2s4
+1	Své	AONS-----------	ExD
+2	tu	Db------------1	Adv
+3	sehrála	VpQW---XR-AA---	Pred
+4	především	Db-------------	AuxZ
+5	daňová	AAFS1----1A----	Atr
+6	podpora	NNFS1-----A----	Sb
+7	zavádění	NNNS2-----A----	Atr
+8	katalyzátorů	NNIP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	automobilech	NNIP6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-018-p2s5
+1	Ivo	NNMS1-----A----	Atr
+2	Budil	NNMS1-----A----	ExD
+
+vesm9211-018-p3s1
+1	17	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	34	C=-------------	ExD
+

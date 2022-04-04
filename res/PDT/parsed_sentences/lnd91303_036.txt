@@ -1,0 +1,156 @@
+lnd91303-036-p1s1
+1	Policejní	AAIS1----1A----	Atr
+2	deník	NNIS1-----A----	ExD
+
+lnd91303-036-p2s1
+1	Třiadvacetiletý	AAMS1----1A----	Atr
+2	muž	NNMS1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	okresu	NNIS2-----A----	Atr
+5	Pardubice	NNFP1-----A----	Atr
+6	odcizil	VpYS---XR-AA---	Pred
+7	z	RR--2----------	AuxP
+8	kanceláře	NNFS2-----A----	Adv
+9	vedoucí	NNFS2-----A----	Atr
+10	Supraphonu	NNIS2-----A----	Atr
+11	na	RR--6----------	AuxP
+12	Masarykově	AUFS6M---------	Atr
+13	ulici	NNFS6-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Brně	NNNS6-----A----	Adv
+16	tržbu	NNFS4-----A----	Obj
+17	ve	RV--6----------	AuxP
+18	výši	NNFS6-----A----	Atr
+19	52980	C=-------------	Atr
+20	korun	NNFP2-----A----	Atr
+21	a	J^-------------	Coord
+22	peněženku	NNFS4-----A----	Obj
+23	s	RR--7----------	AuxP
+24	3000	C=-------------	Atr
+25	korunami	NNFP7-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd91303-036-p2s2
+1	S	RR--7----------	AuxP
+2	penězi	NNIP7-----A----	Adv
+3	utíkal	VpYS---XR-AA---	Pred
+4	do	RR--2----------	AuxP
+5	středu	NNIS2-----A----	Adv
+6	města	NNNS2-----A----	Atr
+7	a	J^-------------	Coord
+8	na	RR--6----------	AuxP
+9	Radnické	NNFS6-----A----	Atr
+10	ulici	NNFS6-----A----	Adv
+11	byl	VpYS---XR-AA---	AuxV
+12	zadržen	VsYS---XX-AP---	Pred
+13	občany	NNMP7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd91303-036-p2s3
+1	Šestnáctiletý	AAMS1----1A----	Atr
+2	zloděj	NNMS1-----A----	Sb
+3	vnikl	VpYS---XR-AA--1	Pred
+4	větracím	AANS7----1A----	Atr
+5	oknem	NNNS7-----A----	Adv
+6	herny	NNFS2-----A----	Atr
+7	do	RR--2----------	AuxP
+8	objektu	NNIS2-----A----	Adv
+9	TIP	NNIS1-----A----	Atr
+10	klubu	NNIS2-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	Znojmě	NNNS6-----A----	Atr
+13	,	Z:-------------	Coord
+14	kde	Db-------------	Adv
+15	odcizil	VpYS---XR-AA---	Pred
+16	cigarety	NNFP4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	36660	C=-------------	Obj
+19	korun	NNFP2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	100	C=-------------	Obj
+22	DEM	NNFXX-----A---8	Atr
+23	a	J^-------------	Coord
+24	1540	C=-------------	Obj
+25	ATS	NNIXX-----A---8	Atr
+26	.	Z:-------------	AuxK
+
+lnd91303-036-p2s4
+1	Cestou	NNFS7-----A----	Adv
+2	zpátky	Db-------------	Atr
+3	uvízl	VpYS---XR-AA--1	Pred
+4	mladík	NNMS1-----A----	Sb
+5	ve	RV--6----------	AuxP
+6	větracím	AANS6----1A----	Atr
+7	okénku	NNNS6-----A----	Adv
+8	,	Z:-------------	Coord
+9	kde	Db-------------	Adv
+10	také	Db-------------	Adv
+11	byl	VpYS---XR-AA---	AuxV
+12	zadržen	VsYS---XX-AP---	Pred
+13	policisty	NNMP7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+lnd91303-036-p2s5
+1	Osmnáctiletý	AAMS1----1A----	Atr
+2	mladý	AAMS1----1A----	Atr
+3	muž	NNMS1-----A----	Sb
+4	s	RR--7----------	AuxP
+5	nožem	NNIS7-----A----	Atr
+6	v	RR--6----------	AuxP
+7	ruce	NNFS6-----A----	Adv
+8	přinutil	VpYS---XR-AA---	Pred
+9	v	RR--4----------	AuxP
+10	pátek	NNIS4-----A----	Adv
+11	večer	Db-------------	Adv
+12	na	RR--6----------	AuxP
+13	zastávce	NNFS6-----A----	Adv
+14	na	RR--6----------	AuxP
+15	Jírově	AUFS6M---------	Atr
+16	ulici	NNFS6-----A----	Atr
+17	v	RR--6----------	AuxP
+18	Brně	NNNS6-----A----	Atr
+19	řidiče	NNMS4-----A----	Obj
+20	MHD	NNNXX-----A---8	Atr
+21	,	Z:-------------	AuxX
+22	aby	J,-------------	AuxC
+23	ho	PHZS4--3-------	Obj
+24	odvezl	VpYS---XR-AA---	Adv
+25	do	RR--2----------	AuxP
+26	Opavy	NNFS2-----A----	Adv
+27	a	J^-------------	Coord
+28	zpět	Db-------------	Adv
+29	.	Z:-------------	AuxK
+
+lnd91303-036-p2s6
+1	Bylo	VpNS---XR-AA---	Pred
+2	proti	RR--3----------	AuxP
+3	němu	P5ZS3--3-------	Adv
+4	vzneseno	VsNS---XX-AP---	Pnom
+5	obvinění	NNNS1-----A----	Sb
+6	pro	RR--4----------	AuxP
+7	trestný	AAIS4----1A----	Atr
+8	čin	NNIS4-----A----	Atr
+9	vydírání	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd91303-036-p2s7
+1	Z	RR--2----------	AuxP
+2	příruční	AAFS2----1A----	Atr
+3	pokladničky	NNFS2-----A----	Adv
+4	v	RR--6----------	AuxP
+5	kanceláři	NNFS6-----A----	Adv
+6	soukromé	AAFS2----1A----	Atr
+7	firmy	NNFS2-----A----	Atr
+8	VAMOS	NNFXX-----A---8	Atr
+9	v	RR--6----------	AuxP
+10	Opavě	NNFS6-----A----	Atr
+11	odcizil	VpYS---XR-AA---	Pred
+12	dosud	Db-------------	Adv
+13	neznámý	AAMS1----1N----	Atr
+14	pachatel	NNMS1-----A----	Sb
+15	více	Dg-------2A----	Obj
+16	než	J,-------------	AuxC
+17	200000	C=-------------	Adv
+18	korun	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+

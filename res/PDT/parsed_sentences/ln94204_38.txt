@@ -1,0 +1,90 @@
+ln94204-38-p1s1
+1	Sladovna	NNFS1-----A----	ExD
+2	s	RR--7----------	AuxP
+3	moderní	AAFS7----1A----	Atr
+4	linkou	NNFS7-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Prostějově	NNIS6-----A----	Atr
+
+ln94204-38-p2s1A
+1	Prostějov	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pet	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-38-p2s1B
+1	Největší	AAFS1----3A----	Atr
+2	česká	AAFS1----1A----	Atr
+3	sladovnická	AAFS1----1A----	Atr
+4	společnost	NNFS1-----A----	Sb
+5	Obchodní	AAFP1----1A----	Atr
+6	sladovny	NNFP1-----A----	Atr
+7	,	Z:-------------	AuxX
+8	a	AAXXX----1A---8	Atr
+9	.	Z:-------------	AuxG
+10	s	NNFXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	Prostějov	NNIS1-----A----	Atr
+14	uvádí	VB-S---3P-AA---	Pred
+15	v	RR--6----------	AuxP
+16	září	NNNS6-----A----	Adv
+17	do	RR--2----------	AuxP
+18	provozu	NNIS2-----A----	Adv
+19	novou	AAFS4----1A----	Atr
+20	výrobní	AAFS4----1A----	Atr
+21	linku	NNFS4-----A----	Obj
+22	na	RR--6----------	AuxP
+23	bázi	NNFS6-----A----	Atr
+24	technologie	NNFS2-----A----	Atr
+25	typu	NNIS2-----A----	Atr
+26	Lausmann	NNIS1-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94204-38-p2s2
+1	Po	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	a	J^-------------	Coord
+4	půl	ClXS6----------	Adv
+5	výstavby	NNFS2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	měl	VpYS---XR-AA---	Pred
+8	při	RR--6----------	AuxP
+9	zprovoznění	NNNS6-----A----	Adv
+10	linky	NNFS2-----A----	Atr
+11	6	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	září	NNNS2-----A----	Atr
+14	asistovat	Vf--------A----	Obj
+15	i	J^-------------	AuxZ
+16	ministr	NNMS1-----A----	Atr
+17	zemědělství	NNNS2-----A----	Atr
+18	Josef	NNMS1-----A----	Atr
+19	Lux	NNMS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94204-38-p2s3
+1	Náklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	vybudování	NNNS4-----A----	Atr
+4	linky	NNFS2-----A----	Atr
+5	přesáhly	VpTP---XR-AA---	Pred
+6	hodnotu	NNFS4-----A----	Obj
+7	400	C=-------------	Atr
+8	milionů	NNIP2-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94204-38-p2s4
+1	Prostějovská	AAFS1----1A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	produkuje	VB-S---3P-AA---	Pred
+4	více	Dg-------2A----	Obj
+5	než	J,-------------	AuxC
+6	40	C=-------------	Adv
+7	procent	NNNP2-----A----	Atr
+8	tuzemského	AAIS2----1A----	Atr
+9	sladu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+

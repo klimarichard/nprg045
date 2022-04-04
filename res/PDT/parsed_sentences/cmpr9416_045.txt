@@ -1,0 +1,127 @@
+cmpr9416-045-p2s1
+1	Tržní	AAFS1----1A----	Atr
+2	hodnota	NNFS1-----A----	ExD
+3	kuponové	AAFS2----1A----	Atr
+4	knížky	NNFS2-----A----	Atr
+5	z	RR--2----------	AuxP
+6	I	C}-------------	Atr
+7	.	Z:-------------	AuxG
+8	vlny	NNFS2-----A----	Atr
+
+cmpr9416-045-p3s1
+1	(	Z:-------------	ExD
+2	Stav	NNIS1-----A----	ExD
+3	k	RR--3----------	AuxP
+4	24	C=-------------	Atr
+5	|	Z:-------------	AuxG
+6	březnu	NNIS3-----A----	Atr
+7	1994	C=-------------	Atr
+8	)	Z:-------------	ExD
+
+cmpr9416-045-p5s1
+1	|	Z:-------------	ExD
+2	Tis	NNIXX-----A---8	ExD
+3	.	Z:-------------	AuxK
+
+cmpr9416-045-p18s1
+1	Pramen	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Podklad	NNIS1-----A----	ExD
+4	YSE	NNIXX-----A---8	Atr
+5	a	J^-------------	Coord
+6	propočty	NNIP1-----A----	ExD
+7	DATA	NNNP1-----A----	Atr
+8	Profit	NNIS1-----A----	Atr
+
+cmpr9416-045-p19s1
+1	EXKLUZÍVNÍ	AAFS1----1A----	Atr
+2	TABULKA	NNFS1-----A----	Sb
+3	PROFITU	NNIS2-----A----	Atr
+4	PŘINÁŠÍ	VB-S---3P-AA---	Pred
+5	POZORUHODNÉ	AAFP4----1A----	Atr
+6	INFORMACE	NNFP4-----A----	Obj
+7	O	RR--6----------	AuxP
+8	ROZLOŽENÍ	NNNS6-----A----	Atr
+9	ZISKOVOSTI	NNFS2-----A----	Atr
+10	INVESTOVÁNÍ	NNNS2-----A----	Atr
+11	V	RR--6----------	AuxP
+12	JEDNOTLIVÝCH	AANP6----1A----	Atr
+13	KOLECH	NNNP6-----A----	Atr
+14	PRVNÍ	CrFS2----------	Atr
+15	VLNY	NNFS2-----A----	Atr
+16	:	Z:-------------	Apos
+17	Dikové	NNMP1-----A---1	Sb
+18	sice	Db-------------	AuxY
+19	v	RR--6----------	AuxP
+20	prvních	CrNP6----------	Atr
+21	dvou	ClXP6----------	Atr
+22	kolech	NNNP6-----A----	Adv
+23	koupili	VpMP---XR-AA---	Obj
+24	64	C=-------------	Obj
+25	procent	NNNP2-----A----	Atr
+26	celkové	AAFS2----1A----	Atr
+27	tržní	AAFS2----1A----	Atr
+28	hodnoty	NNFS2-----A----	Atr
+29	svých	P8XP2----------	Atr
+30	akcií	NNFP2-----A----	Atr
+31	v	RR--6----------	AuxP
+32	dnešní	AAFS6----1A----	Atr
+33	průměrné	AAFS6----1A----	Atr
+34	hodnotě	NNFS6-----A----	Adv
+35	27	C=-------------	Atr
+36	tisíc	ClXS2----------	Atr
+37	korun	NNFP2-----A----	Atr
+38	za	RR--4----------	AuxP
+39	jednu	ClFS4----------	Atr
+40	kuponovou	AAFS4----1A----	Atr
+41	knížku	NNFS4-----A----	AtrAtr
+42	,	Z:-------------	AuxX
+43	ale	J^-------------	Coord
+44	ty	PDFP1----------	Atr
+45	pravé	AAFP1----1A----	Atr
+46	lahůdky	NNFP1-----A----	Sb
+47	čekaly	VpTP---XR-AA---	Obj
+48	v	RR--6----------	AuxP
+49	dalších	AANP6----1A----	Atr
+50	kolech	NNNP6-----A----	Adv
+51	.	Z:-------------	AuxK
+
+cmpr9416-045-p19s2
+1	Kdo	PKM-1----------	Sb
+2	kupoval	VpYS---XR-AA---	Sb
+3	později	Dg-------2A----	Adv
+4	,	Z:-------------	AuxX
+5	může	VB-S---3P-AA---	Pred
+6	dnes	Db-------------	Adv
+7	své	P8FP4---------1	Atr
+8	akcie	NNFP4-----A----	Obj
+9	prodat	Vf--------A----	Obj
+10	v	RR--6----------	AuxP
+11	průměru	NNIS6-----A----	Adv
+12	za	RR--4----------	AuxP
+13	37	C=-------------	Adv
+14	tisíc	ClXS2----------	Atr
+15	korun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9416-045-p19s3
+1	Jen	TT-------------	AuxZ
+2	asi	TT-------------	AuxZ
+3	6	C=-------------	Sb
+4	procent	NNNP2-----A----	Atr
+5	diků	NNMP2-----A----	Atr
+6	získalo	VpNS---XR-AA---	Pred
+7	na	RR--4----------	AuxP
+8	svých	P8XP2----------	Atr
+9	tisíc	NNIS4-----A----	Adv
+10	investičních	AAIP2----1A----	Atr
+11	bodů	NNIP2-----A----	Atr
+12	za	RR--4----------	AuxP
+13	více	Dg-------2A----	Adv
+14	,	Z:-------------	AuxX
+15	než	J,-------------	AuxC
+16	sto	NNNS4-----A----	Adv
+17	tisíc	ClXS2----------	Atr
+18	korun	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+

@@ -1,0 +1,70 @@
+ln95044-132-p1s1
+1	Německé	AAFP1----1A----	Atr
+2	železnice	NNFP1-----A----	Sb
+3	ušetřily	VpTP---XR-AA---	Pred
+
+ln95044-132-p2s1A
+1	Hamburk	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-132-p2s1B
+1	Německé	AAFP1----1A----	Atr
+2	železnice	NNFP1-----A----	Sb
+3	,	Z:-------------	Apos
+4	společnost	NNFS1-----A----	Sb
+5	Deutsche	AAXXX----1A----	Atr
+6	Bahn	NNFXX-----A----	Atr
+7	AG	NNFXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	vloni	Db-------------	Adv
+10	podle	RR--2----------	AuxP
+11	nedělního	AAIS2----1A----	Atr
+12	listu	NNIS2-----A----	Adv
+13	"	Z:-------------	AuxG
+14	Welt	NNIS1-----A----	Atr
+15	am	RR--X----------	Atr
+16	Sonntag	NNIXX-----A----	Atr
+17	"	Z:-------------	AuxG
+18	ušetřily	VpTP---XR-AA---	Pred
+19	na	RR--6----------	AuxP
+20	zakázkách	NNFP6-----A----	Adv
+21	asi	TT-------------	AuxZ
+22	20	C=-------------	Obj
+23	procent	NNNP2-----A----	Atr
+24	celkových	AAIP2----1A----	Atr
+25	nákladů	NNIP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95044-132-p2s2
+1	Týká	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	to	PDNS1----------	Sb
+4	především	Db-------------	AuxZ
+5	výdajů	NNIP2-----A----	Obj
+6	za	RR--4----------	AuxP
+7	nákup	NNIS4-----A----	Atr
+8	lokomotiv	NNFP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	automatů	NNIP2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	jízdenky	NNFP4-----A----	Atr
+13	apod	Db------------8	Atr
+14	.	Z:-------------	AuxG
+
+ln95044-132-p2s3
+1	Rozdíl	NNIS1-----A----	Sb
+2	mezi	RR--7----------	AuxP
+3	cenově	Dg-------1A----	Adv
+4	nejvýhodnější	AAFS7----3A----	Atr
+5	nabídkou	NNFS7-----A----	Atr
+6	a	J^-------------	Coord
+7	skutečně	Dg-------1A----	Adv
+8	kontrahovanou	AAFS7----1A----	Atr
+9	částkou	NNFS7-----A----	Atr
+10	dosáhl	VpYS---XR-AA---	Pred
+11	v	RR--6----------	AuxP
+12	průměru	NNIS6-----A----	Adv
+13	24	C=-------------	Atr
+14	procent	NNNP2-----A----	Obj
+15	.	Z:-------------	AuxK
+

@@ -1,0 +1,286 @@
+ln94204-18-p1s1
+1	Ve	RV--6----------	AuxP
+2	světě	NNIS6-----A----	ExD
+3	letos	Db-------------	ExD
+4	méně	Dg-------2A----	ExD
+5	pšenice	NNFS2-----A----	Atr
+
+ln94204-18-p2s1A
+1	Londýn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94204-18-p2s1B
+1	Světová	AAFS1----1A----	Atr
+2	rada	NNFS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	pšenici	NNFS4-----A----	Atr
+5	odhaduje	VB-S---3P-AA---	Pred
+6	letošní	AAIS4----1A----	Atr
+7	světový	AAIS4----1A----	Atr
+8	obchod	NNIS4-----A----	Obj
+9	pšenicí	NNFS7-----A----	Atr
+10	na	RR--4----------	AuxP
+11	95.8	C=-------------	Obj
+12	milionu	NNIS2-----A----	Atr
+13	tun	NNFP2-----A----	Atr
+14	proti	RR--3----------	AuxP
+15	předchozímu	AAIS3----1A----	Atr
+16	odhadu	NNIS3-----A----	Adv
+17	94.7	C=-------------	Atr
+18	milionu	NNIS2-----A----	Atr
+19	tun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94204-18-p2s2
+1	V	RR--6----------	AuxP
+2	sezoně	NNFS6-----A----	Adv
+3	1993	C=-------------	Atr
+4	/	Z:-------------	Coord
+5	94	C=-------------	Atr
+6	dosáhl	VpYS---XR-AA---	Obj
+7	světový	AAIS1----1A----	Atr
+8	obchod	NNIS1-----A----	Sb
+9	pšenicí	NNFS7-----A----	Atr
+10	93.3	C=-------------	Obj
+11	milionu	NNIS2-----A----	Atr
+12	tun	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	uvádí	VB-S---3P-AA---	Pred
+15	agentura	NNFS1-----A----	Sb
+16	Reuter	NNMS1-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94204-18-p3s1
+1	Původní	AAIP1----1A----	Atr
+2	údaje	NNIP1-----A----	Sb
+3	byly	VpTP---XR-AA---	AuxV
+4	revidovány	VsTP---XX-AP---	Pred
+5	zejména	Db-------------	AuxZ
+6	s	RR--7----------	AuxP
+7	ohledem	NNIS7-----A----	AuxP
+8	na	RR--4----------	AuxP
+9	vyšší	AAIS4----2A----	Atr
+10	dovoz	NNIS4-----A----	Adv
+11	bývalého	AAIS2----1A----	Atr
+12	Sovětského	AAIS2----1A----	Atr
+13	svazu	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	který	P4YS1----------	Sb
+16	by	Vc-------------	AuxV
+17	měl	VpYS---XR-AA---	Atr
+18	dovézt	Vf--------A----	Obj
+19	celkem	Db-------------	AuxZ
+20	9.3	C=-------------	Obj
+21	milionu	NNIS2-----A----	Atr
+22	tun	NNFP2-----A----	Atr
+23	pšenice	NNFS2-----A----	Atr
+24	proti	RR--3----------	AuxP
+25	původnímu	AAIS3----1A----	Atr
+26	odhadu	NNIS3-----A----	Adv
+27	8.5	C=-------------	Atr
+28	milionu	NNIS2-----A----	Atr
+29	tun	NNFP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94204-18-p4s1
+1	Celá	AAFS1----1A----	Atr
+2	řada	NNFS1-----A----	Sb
+3	republik	NNFP2-----A----	Atr
+4	SNS	NNNXX-----A---8	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	muset	Vf--------A----	Pred
+7	letos	Db-------------	Adv
+8	dovézt	Vf--------A----	Obj
+9	další	AANS4----1A----	Atr
+10	množství	NNNS4-----A----	Obj
+11	pšenice	NNFS2-----A----	Atr
+12	ze	RV--2----------	AuxP
+13	třetích	CrFP2----------	Atr
+14	zemí	NNFP2-----A----	Adv
+15	,	Z:-------------	AuxX
+16	zejména	Db-------------	AuxZ
+17	pro	RR--4----------	AuxP
+18	nedostatečnou	AAFS4----1N----	Atr
+19	domácí	AAFS4----1A----	Atr
+20	úrodu	NNFS4-----A----	Adv
+21	a	J^-------------	Coord
+22	nižší	AAFS4----2A----	Atr
+23	produkci	NNFS4-----A----	Adv
+24	Kazachstánu	NNIS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94204-18-p5s1
+1	Pokles	NNIS1-----A----	Sb
+2	odhadu	NNIS2-----A----	Atr
+3	světové	AAFS2----1A----	Atr
+4	produkce	NNFS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	letošním	AAIS6----1A----	Atr
+7	roce	NNIS6-----A---1	Atr
+8	by	Vc-------------	AuxV
+9	však	J^-------------	Coord
+10	měl	VpYS---XR-AA---	Pred
+11	vést	Vf--------A----	Obj
+12	ke	RV--3----------	AuxP
+13	snížení	NNNS3-----A----	Adv
+14	spotřeby	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94204-18-p5s2
+1	Vyšší	AAFP1----2A----	Atr
+2	ceny	NNFP1-----A----	Sb
+3	pšenice	NNFS2-----A----	Atr
+4	vyvolané	AAFP1----1A----	Atr
+5	nižší	AAFS7----2A----	Atr
+6	sklizní	NNFS7-----A----	Adv
+7	by	Vc-------------	AuxV
+8	měly	VpTP---XR-AA---	Pred
+9	rovněž	Db-------------	Adv
+10	způsobit	Vf--------A----	Obj
+11	pokles	NNIS4-----A----	Obj
+12	spotřeby	NNFS2-----A----	Atr
+13	pšenice	NNFS2-----A----	Atr
+14	jako	J,-------------	AuxY
+15	krmiva	NNNS2-----A----	Atv
+16	pro	RR--4----------	AuxP
+17	dobytek	NNIS4-----A----	Atr
+18	,	Z:-------------	AuxX
+19	neboť	J^-------------	Coord
+20	zemědělci	NNMP1-----A----	Sb
+21	se	P7-X4----------	AuxT
+22	budou	VB-P---3F-AA---	AuxV
+23	muset	Vf--------A----	Pred
+24	uchýlit	Vf--------A----	Obj
+25	k	RR--3----------	AuxP
+26	levnějším	AAIP3----2A----	Atr
+27	druhům	NNIP3-----A----	Adv
+28	obilnin	NNFP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94204-18-p5s3
+1	Spotřeba	NNFS1-----A----	Sb
+2	pšenice	NNFS2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	krmné	AAIP4----1A----	Atr
+5	účely	NNIP4-----A----	Atr
+6	obvykle	Dg-------1A----	Adv
+7	představuje	VB-S---3P-AA---	Pred
+8	asi	TT-------------	AuxZ
+9	pětinu	CyFS4----------	Obj
+10	celkové	AAFS2----1A----	Atr
+11	spotřeby	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94204-18-p6s1
+1	Světové	AAFP1----1A----	Atr
+2	zásoby	NNFP1-----A----	Sb
+3	pšenice	NNFS2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	podle	RR--2----------	AuxP
+6	odhadů	NNIP2-----A----	Adv
+7	měly	VpTP---XR-AA---	Pred
+8	klesnout	Vf--------A----	Obj
+9	na	RR--4----------	AuxP
+10	114	C=-------------	Obj
+11	milionů	NNIP2-----A----	Atr
+12	tun	NNFP2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	porovnání	NNNS6-----A----	AuxP
+15	se	RV--7----------	AuxP
+16	132	C=-------------	Atr
+17	miliony	NNIP7-----A----	Adv
+18	tun	NNFP2-----A----	Atr
+19	loni	Db------------1	Atr
+20	.	Z:-------------	AuxK
+
+ln94204-18-p6s2
+1	Spotřeba	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	odhaduje	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	554	C=-------------	Adv
+6	milionů	NNIP2-----A----	Atr
+7	tun	NNFP2-----A----	Atr
+8	proti	RR--3----------	AuxP
+9	561	C=-------------	Atr
+10	milionům	NNIP3-----A----	Adv
+11	loni	Db------------1	Atr
+12	.	Z:-------------	AuxK
+
+ln94204-18-p7s1
+1	Celková	AAFS1----1A----	Atr
+2	světová	AAFS1----1A----	Atr
+3	produkce	NNFS1-----A----	Sb
+4	pšenice	NNFS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	odhaduje	VB-S---3P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	536	C=-------------	Obj
+9	milionů	NNIP2-----A----	Atr
+10	tun	NNFP2-----A----	Atr
+11	proti	RR--3----------	AuxP
+12	původnímu	AAIS3----1A----	Atr
+13	odhadu	NNIS3-----A----	Adv
+14	544.2	C=-------------	Atr
+15	milionu	NNIS2-----A----	Atr
+16	tun	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94204-18-p7s2
+1	Za	RR--4----------	AuxP
+2	rok	NNIS4-----A----	Adv
+3	1993	C=-------------	Atr
+4	se	P7-X4----------	AuxR
+5	celková	AAFS1----1A----	Atr
+6	spotřeba	NNFS1-----A----	Sb
+7	odhaduje	VB-S---3P-AA---	Pred
+8	na	RR--4----------	AuxP
+9	558.9	C=-------------	Adv
+10	milionu	NNIS2-----A----	Atr
+11	tun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94204-18-p8s1
+1	Prognózy	NNFP1-----A----	Sb
+2	letošní	AAFS2----1A----	Atr
+3	sklizně	NNFS2-----A----	Atr
+4	vycházejí	VB-P---3P-AA---	Pred
+5	ze	RV--2----------	AuxP
+6	snížených	AAIP2----1A----	Atr
+7	odhadů	NNIP2-----A----	Obj
+8	produkce	NNFS2-----A----	Atr
+9	pšenice	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Rusku	NNNS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	Kanadě	NNFS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	Pákistánu	NNIS6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	Turecku	NNNS6-----A----	Atr
+18	a	J^-------------	Coord
+19	Austrálii	NNFS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94204-18-p8s2
+1	Lepší	AAFP1----2A----	Atr
+2	vyhlídky	NNFP1-----A----	Sb
+3	produkce	NNFS2-----A----	Atr
+4	ve	RV--6----------	AuxP
+5	střední	AAFS6----1A----	Atr
+6	Evropě	NNFS6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	na	RR--6----------	AuxP
+9	Balkáně	NNIS6-----A----	Atr
+10	a	J^-------------	Coord
+11	v	RR--6----------	AuxP
+12	Africe	NNFS6-----A----	Atr
+13	nemohou	VB-P---3P-NA--1	Pred
+14	propad	NNIS4-----A----	Obj
+15	v	RR--6----------	AuxP
+16	jiných	AAFP6----1A----	Atr
+17	částech	NNFP6-----A----	Atr
+18	světa	NNIS2-----A----	Atr
+19	nahradit	Vf--------A----	Obj
+20	.	Z:-------------	AuxK
+

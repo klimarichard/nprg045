@@ -1,0 +1,266 @@
+ln95041-070-p1s1
+1	Protest	NNIS1-----A----	Sb
+2	proti	RR--3----------	AuxP
+3	uvěznění	NNNS3-----A----	Atr
+4	Wonky	NNMS2-----A----	Atr
+5	předán	VsYS---XX-AP---	Pred
+6	prezidentské	AAFS3----1A----	Atr
+7	kanceláři	NNFS3-----A----	Obj
+
+ln95041-070-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95041-070-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	/	Z:-------------	Coord
+3	Brno	NNNS1-----A----	ExD
+4	-	Z:-------------	AuxK
+
+ln95041-070-p3s1B
+1	Karel	NNMS1-----A----	Atr
+2	Mašita	NNMS1-----A----	Sb
+3	a	J^-------------	Coord
+4	Karel	NNMS1-----A----	Atr
+5	Srp	NNMS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	Jazzové	AAFS2----1A----	Atr
+8	sekce	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	Přemysl	NNMS1-----A----	Atr
+11	Vachalovský	AAMS1----1A----	Sb
+12	z	RR--2----------	AuxP
+13	Občanské	AAFS2----1A----	Atr
+14	iniciativy	NNFS2-----A----	Atr
+15	Občanských	AAFP2----1A----	Atr
+16	komisí	NNFP2-----A----	Atr
+17	předali	VpMP---XR-AA---	Pred
+18	včera	Db-------------	Adv
+19	prezidentské	AAFS3----1A----	Atr
+20	kanceláři	NNFS3-----A----	Obj
+21	prohlášení	NNNS4-----A----	Obj
+22	k	RR--3----------	AuxP
+23	uvěznění	NNNS3-----A----	Atr
+24	Jiřího	NNMS2-----A----	Atr
+25	Wonky	NNMS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95041-070-p4s1
+1	Kromě	RR--2----------	AuxP
+2	zmíněných	AAFP2----1A----	Atr
+3	organizací	NNFP2-----A----	Adv
+4	text	NNIS4-----A----	Obj
+5	signovala	VpQW---XR-AA---	Pred
+6	také	Db-------------	AuxZ
+7	Charta	NNFS1-----A----	Sb
+8	77	C=-------------	Atr
+9	a	J^-------------	Coord
+10	Hnutí	NNNS1-----A----	Sb
+11	za	RR--4----------	AuxP
+12	občanskou	AAFS4----1A----	Atr
+13	svobodu	NNFS4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95041-070-p4s2
+1	"	Z:-------------	AuxG
+2	Chceme	VB-P---1P-AA---	Obj
+3	,	Z:-------------	AuxX
+4	aby	J,-------------	AuxC
+5	pan	NNMS1-----A----	Atr
+6	prezident	NNMS1-----A----	Sb
+7	využil	VpYS---XR-AA---	Obj
+8	svého	P8ZS2----------	Atr
+9	ústavního	AANS2----1A----	Atr
+10	práva	NNNS2-----A----	Obj
+11	a	J^-------------	Coord
+12	okamžitě	Dg-------1A----	Adv
+13	zastavil	VpYS---XR-AA---	Obj
+14	trestní	AANS4----1A----	Atr
+15	řízení	NNNS4-----A----	Obj
+16	proti	RR--3----------	AuxP
+17	Jiřímu	NNMS3-----A----	Atr
+18	Wonkovi	NNMS3-----A----	Atr
+19	,	Z:-------------	AuxX
+20	"	Z:-------------	AuxG
+21	řekl	VpYS---XR-AA---	Pred
+22	Mašita	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln95041-070-p4s3
+1	"	Z:-------------	AuxG
+2	Soudkyni	NNFS4-----A----	Atr
+3	Horvátovou	NNFS4-----A----	Obj
+4	považuji	VB-S---1P-AA--1	Pred
+5	za	RR--4----------	AuxP
+6	nejkřiklavější	AAIS4----3A----	Atr
+7	případ	NNIS4-----A----	Obj
+8	úpadku	NNIS2-----A----	Atr
+9	české	AAFS2----1A----	Atr
+10	justice	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+12	"	Z:-------------	AuxG
+
+ln95041-070-p4s4
+1	Brněnští	AAMP1----1A----	Atr
+2	antikomunističtí	AAMP1----1A----	Atr
+3	aktivisté	NNMP1-----A----	Atr
+4	Jan	NNMS1-----A----	Atr
+5	Honner	NNMS1-----A----	Sb
+6	a	J^-------------	Coord
+7	Lumír	NNMS1-----A----	Atr
+8	Šimeček	NNMS1-----A----	Sb
+9	včera	Db-------------	Adv
+10	oznámili	VpMP---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	budou	VB-P---3F-AA---	AuxV
+14	dnes	Db-------------	Adv
+15	protestovat	Vf--------A----	Obj
+16	před	RR--7----------	AuxP
+17	budovou	NNFS7-----A----	Adv
+18	ministerstva	NNNS2-----A----	Atr
+19	spravedlnosti	NNFS2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	Praze	NNFS6-----A----	AtrAdv
+22	proti	RR--3----------	AuxP
+23	uvěznění	NNNS3-----A----	Obj
+24	Jiřího	NNMS2-----A----	Atr
+25	Wonky	NNMS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95041-070-p4s5
+1	Podle	RR--2----------	AuxP
+2	Honnera	NNMS2-----A----	Adv
+3	může	VB-S---3P-AA---	Pred
+4	ministr	NNMS1-----A----	Atr
+5	spravedlnosti	NNFS2-----A----	Atr
+6	Jiří	NNMS1-----A----	Atr
+7	Novák	NNMS1-----A----	Sb
+8	jako	J,-------------	AuxY
+9	jediný	AAMS1----1A----	Atv
+10	kromě	RR--2----------	AuxP
+11	prezidenta	NNMS2-----A----	Atr
+12	Wonkovu	AUFS4M---------	Atr
+13	vazbu	NNFS4-----A----	Obj
+14	přerušit	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95041-070-p5s1
+1	Jiří	NNMS1-----A----	Atr
+2	Wonka	NNMS1-----A----	Sb
+3	(	Z:-------------	ExD
+4	44	C=-------------	ExD
+5	)	Z:-------------	ExD
+6	byl	VpYS---XR-AA---	AuxV
+7	loni	Db------------1	Adv
+8	v	RR--6----------	AuxP
+9	březnu	NNIS6-----A----	Adv
+10	obviněn	VsYS---XX-AP---	Pred
+11	z	RR--2----------	AuxP
+12	trestného	AAIS2----1A----	Atr
+13	činu	NNIS2-----A----	Adv
+14	útoku	NNIS2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	veřejného	AAMS4----1A----	Atr
+17	činitele	NNMS4-----A----	Atr
+18	za	RR--4----------	AuxP
+19	urážky	NNFP4-----A----	Adv
+20	soudkyně	NNFS2-----A----	Atr
+21	Okresního	AAIS2----1A----	Atr
+22	soudu	NNIS2-----A----	Atr
+23	v	RR--6----------	AuxP
+24	Trutnově	NNIS6-----A----	Atr
+25	Marcely	NNFS2-----A----	Atr
+26	Horvátové	NNFS2-----A----	Atr
+27	a	J^-------------	Coord
+28	trutnovské	AAFS2----1A----	Atr
+29	státní	AAFS2----1A----	Atr
+30	zástupkyně	NNFS2-----A----	Atr
+31	Elišky	NNFS2-----A----	Atr
+32	Rychlíkové	NNFS2-----A----	Atr
+33	,	Z:-------------	AuxX
+34	které	P4FP4----------	Obj
+35	v	RR--6----------	AuxP
+36	dopise	NNIS6-----A----	Adv
+37	z	RR--2----------	AuxP
+38	prosince	NNIS2-----A----	Atr
+39	1993	C=-------------	Atr
+40	nazval	VpYS---XR-AA---	Atr
+41	"	Z:-------------	AuxG
+42	prasaty	NNNP7-----A----	Obj
+43	a	J^-------------	Coord
+44	hovady	NNNP7-----A----	Obj
+45	"	Z:-------------	AuxG
+46	.	Z:-------------	AuxK
+
+ln95041-070-p5s2
+1	Wonka	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	v	RR--4----------	AuxP
+4	pondělí	NNNS4-----A----	Adv
+5	zadržen	VsYS---XX-AP---	Pred
+6	a	J^-------------	Coord
+7	dán	VsYS---XX-AP---	Pred
+8	do	RR--2----------	AuxP
+9	vazby	NNFS2-----A----	Adv
+10	,	Z:-------------	AuxX
+11	protože	J,-------------	AuxC
+12	se	P7-X4----------	AuxT
+13	údajně	Dg-------1A----	Adv
+14	vyhýbal	VpYS---XR-AA---	Adv
+15	trestnímu	AANS3----1A----	Atr
+16	stíhání	NNNS3-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln95041-070-p5s3
+1	Při	RR--6----------	AuxP
+2	zadržení	NNNS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	měl	VpYS---XR-AA---	Pred
+5	vzpírat	Vf--------A----	Obj
+6	policistům	NNMP3-----A----	Obj
+7	a	J^-------------	Coord
+8	ti	PDMP1----------	Sb
+9	proti	RR--3----------	AuxP
+10	němu	P5ZS3--3-------	Adv
+11	údajně	Dg-------1A----	Adv
+12	užili	VpMP---XR-AA---	Pred
+13	násilných	AAIP2----1A----	Atr
+14	donucovacích	AAIP2----1A----	Atr
+15	prostředků	NNIP2-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95041-070-p5s4
+1	Jiří	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	bratrem	NNMS7-----A----	Pnom
+4	známého	AAMS2----1A----	Atr
+5	disidenta	NNMS2-----A----	Atr
+6	Pavla	NNMS2-----A----	Atr
+7	Wonky	NNMS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	v	RR--6----------	AuxP
+11	roce	NNIS6-----A---1	Adv
+12	1988	C=-------------	Atr
+13	zemřel	VpYS---XR-AA---	Atr
+14	ve	RV--6----------	AuxP
+15	vězení	NNNS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95041-070-p5s5
+1	P	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Wonku	NNMS4-----A----	Obj
+4	tehdy	Db-------------	Adv
+5	odsoudila	VpQW---XR-AA---	Pred
+6	právě	Db-------------	AuxZ
+7	Horvátová	NNFS1-----A----	Sb
+8	po	RR--6----------	AuxP
+9	obžalobě	NNFS6-----A----	Adv
+10	Rychlíkové	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+

@@ -1,0 +1,158 @@
+mf930709-100-p1s1
+1	Naše	PSIP1-P1-------	Atr
+2	koně	NNMP1-----A----	Sb
+3	pojedou	VB-P---3F-AA---	Pred
+4	do	RR--2----------	AuxP
+5	Darmstadtu	NNIS2-----A----	Adv
+
+mf930709-100-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	vit	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-100-p2s1B
+1	Na	RR--6----------	AuxP
+2	MS	NNNXX-----A---8	Adv
+3	v	RR--6----------	AuxP
+4	moderním	AAIS6----1A----	Atr
+5	pětiboji	NNIS6-----A----	Atr
+6	,	Z:-------------	AuxX
+7	které	P4NS1----------	Sb
+8	se	P7-X4----------	AuxT
+9	koná	VB-S---3P-AA---	Atr
+10	ve	RV--6----------	AuxP
+11	dnech	NNIP6-----A----	Adv
+12	6	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	-	Z:-------------	Coord
+15	8	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	srpna	NNIS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	Darmstadtu	NNIS6-----A----	Adv
+20	,	Z:-------------	AuxX
+21	se	P7-X4----------	AuxR
+22	bude	VB-S---3F-AA---	AuxV
+23	závodit	Vf--------A----	Pred
+24	na	RR--6----------	AuxP
+25	českých	AAMP6----1A----	Atr
+26	koních	NNMP6-----A----	Adv
+27	.	Z:-------------	AuxK
+
+mf930709-100-p2s2
+1	Tuto	PDFS4----------	Atr
+2	transakci	NNFS4-----A----	Obj
+3	zařídil	VpYS---XR-AA---	Pred
+4	předseda	NNMS1-----A----	Atr
+5	TJ	NNFXX-----A---8	Atr
+6	Ados	NNIS1-----A----	Atr
+7	Praha	NNFS1-----A----	Atr
+8	Aleš	NNMS1-----A----	Atr
+9	Hájek	NNMS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	nám	PP-P3--1-------	Obj
+13	řekl	VpYS---XR-AA---	Atr
+14	:	Z:-------------	AuxG
+15	"	Z:-------------	AuxG
+16	Němci	NNMP1-----A----	Sb
+17	mají	VB-P---3P-AA---	Obj
+18	buďto	J^-------------	AuxY
+19	špičkové	AAMP4----1A----	Atr
+20	jezdecké	AAMP4----1A----	Atr
+21	koně	NNMP4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	nebo	J^-------------	Coord
+24	koně	NNMP4-----A----	Obj
+25	podprůměrné	AAMP4----1A----	Atr
+26	.	Z:-------------	AuxK
+
+mf930709-100-p2s3
+1	Výkonnostní	AAIS1----1A----	Atr
+2	střed	NNIS1-----A----	Sb
+3	jim	PPXP3--3-------	Obj
+4	chybí	VB-S---3P-AA---	Pred
+5	.	Z:-------------	AuxK
+
+mf930709-100-p2s4
+1	Proto	J^-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	od	RR--2----------	AuxP
+4	nich	P5XP2--3-------	Obj
+5	dostali	VpMP---XR-AA---	Pred
+6	nabídku	NNFS4-----A----	Obj
+7	my	PP-P1--1-------	Sb
+8	.	Z:-------------	AuxK
+9	"	Z:-------------	AuxG
+
+mf930709-100-p2s5
+1	Do	RR--2----------	AuxP
+2	Německa	NNNS2-----A----	Adv
+3	pošleme	VB-P---1P-AA---	Pred
+4	celkem	Db-------------	AuxZ
+5	24	C=-------------	Obj
+6	koní	NNMP2-----A----	Atr
+7	z	RR--2----------	AuxP
+8	Dolních	AAFP2----1A----	Atr
+9	Chaber	NNFP2-----A----	AtrAdv
+10	,	Z:-------------	AuxX
+11	Poděbrad	NNIP2-----A----	AtrAdv
+12	,	Z:-------------	Coord
+13	Osíku	NNIS2-----A----	AtrAdv
+14	u	RR--2----------	AuxP
+15	Litomyšle	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	z	RR--2----------	AuxP
+18	Písku	NNIS2-----A----	AtrAdv
+19	.	Z:-------------	AuxK
+
+mf930709-100-p2s6
+1	Němci	NNMP1-----A----	Sb
+2	platí	VB-P---3P-AA---	Pred
+3	přepravu	NNFS4-----A----	Obj
+4	(	Z:-------------	ExD
+5	20000	C=-------------	ExD
+6	Kč	NNFXX-----A----	Atr
+7	za	RR--4----------	AuxP
+8	kamión	NNIS4-----A----	Atr
+9	)	Z:-------------	ExD
+10	,	Z:-------------	AuxX
+11	pobytové	AAIP4----1A----	Atr
+12	náklady	NNIP4-----A----	Obj
+13	a	J^-------------	Coord
+14	doprovodný	AAIS4----1A----	Atr
+15	personál	NNIS4-----A----	Obj
+16	,	Z:-------------	Coord
+17	navíc	Db-------------	AuxZ
+18	1900	C=-------------	Obj
+19	Kč	NNFXX-----A----	Atr
+20	za	RR--4----------	AuxP
+21	absolvování	NNNS4-----A----	Atr
+22	jednoho	ClZS2----------	Atr
+23	parkúru	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf930709-100-p2s7
+1	Každý	AAMS1----1A----	Atr
+2	kůň	NNMS1-----A----	Sb
+3	pojede	VB-S---3F-AA---	Pred
+4	v	RR--6----------	AuxP
+5	průměru	NNIS6-----A----	Adv
+6	čtyřikrát	Cv-------------	Adv
+7	až	J^-------------	Coord
+8	šestkrát	Cv-------------	Adv
+9	,	Z:-------------	Coord
+10	majitelé	NNMP1-----A----	Sb
+11	si	P7-X3----------	AuxT
+12	tedy	Db-------------	AuxY
+13	dohromady	Db-------------	Adv
+14	přijdou	VB-P---3P-AA---	Pred
+15	přibližně	Dg-------1A----	AuxZ
+16	na	RR--4----------	AuxP
+17	čtvrt	NNFS4-----A----	Obj
+18	milionu	NNIS2-----A----	Atr
+19	korun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+

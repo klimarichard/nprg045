@@ -1,0 +1,199 @@
+cmpr9406-008-p2s1
+1	Šance	NNFS1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	talenty	NNIP4-----A----	Atr
+
+cmpr9406-008-p3s1
+1	Centrum	NNNS1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	demokracii	NNFS4-----A----	Atr
+4	a	J^-------------	Coord
+5	svobodné	AANS4----1A----	Atr
+6	podnikání	NNNS4-----A----	Atr
+7	připravilo	VpNS---XR-AA---	Pred
+8	soutěžní	AAFS4----1A----	Atr
+9	akci	NNFS4-----A----	Obj
+10	Kariéry	NNFP1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jejíž	P1FSXFS3-------	Atr
+13	podstatou	NNFS7-----A----	Pnom
+14	je	VB-S---3P-AA---	Atr
+15	podpora	NNFS1-----A----	Sb
+16	talentovaných	AAFP2----1A----	Atr
+17	dětí	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9406-008-p3s2
+1	Těm	PDXP3----------	Obj
+2	bude	VB-S---3F-AA---	AuxV
+3	umožněna	VsQW---XX-AP---	Pred
+4	krátkodobá	AAFS1----1A----	Atr
+5	stáž	NNFS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	zahraničí	NNNS6-----A----	Atr
+8	nebo	J^-------------	Coord
+9	studium	NNNS1-----A----	Sb
+10	v	RR--6----------	AuxP
+11	ČR	NNFXX-----A---8	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9406-008-p4s1
+1	Podmínkou	NNFS7-----A----	Pnom
+2	pro	RR--4----------	AuxP
+3	zařazení	NNNS4-----A----	Atr
+4	do	RR--2----------	AuxP
+5	slosování	NNNS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	úspěšné	AANS1----1A----	Atr
+8	zvládnutí	NNNS1-----A----	Sb
+9	talentových	AAFP2----1A----	Atr
+10	zkoušek	NNFP2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	anglickém	AAIS6----1A----	Atr
+13	jazyce	NNIS6-----A---1	Atr
+14	a	J^-------------	Coord
+15	zvoleném	AAIS6----1A----	Atr
+16	oboru	NNIS6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9406-008-p4s2
+1	Pro	RR--4----------	AuxP
+2	registraci	NNFS4-----A----	Adv
+3	k	RR--3----------	AuxP
+4	talentovým	AAFP3----1A----	Atr
+5	zkouškám	NNFP3-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	třeba	Db-------------	Pnom
+8	vyplnit	Vf--------A----	Sb
+9	přihlášku	NNFS4-----A----	Obj
+10	a	J^-------------	Coord
+11	zaplatit	Vf--------A----	Sb
+12	registrační	AAIS4----1A----	Atr
+13	poplatek	NNIS4-----A----	Obj
+14	ve	RV--6----------	AuxP
+15	výši	NNFS6-----A----	Atr
+16	1000	C=-------------	Atr
+17	Kč	NNFXX-----A----	Atr
+18	pro	RR--4----------	AuxP
+19	středoškoláky	NNMP4-----A----	Atr
+20	,	Z:-------------	AuxX
+21	2000	C=-------------	ExD
+22	Kč	NNFXX-----A----	Atr
+23	pro	RR--4----------	AuxP
+24	vysokoškoláky	NNMP4-----A----	ExD
+25	a	J^-------------	Coord
+26	3000	C=-------------	ExD
+27	Kč	NNFXX-----A----	Atr
+28	pro	RR--4----------	AuxP
+29	postgraduanty	NNMP4-----A----	ExD
+30	.	Z:-------------	AuxK
+
+cmpr9406-008-p4s3
+1	Po	RR--6----------	AuxP
+2	složení	NNNS6-----A----	Adv
+3	zkoušky	NNFS2-----A----	Atr
+4	bude	VB-S---3F-AA---	AuxV
+5	každý	AAMS1----1A----	Sb
+6	zařazen	VsYS---XX-AP---	Pred
+7	do	RR--2----------	AuxP
+8	tří	ClXP2----------	Atr
+9	slosovacích	AANP2----1A----	Atr
+10	kol	NNNP2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9406-008-p4s4
+1	Výherce	NNMS4-----A----	Obj
+2	čeká	VB-S---3P-AA---	Pred
+3	jednosemestrální	AANS1----1A----	Atr
+4	studium	NNNS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	USA	NNIPX-----A----	Atr
+7	nebo	J^-------------	Coord
+8	jinde	Db-------------	Atr
+9	v	RR--6----------	AuxP
+10	zámoří	NNNS6-----A----	Atr
+11	,	Z:-------------	Coord
+12	další	AAMP4----1A----	ExD
+13	pak	Db-------------	ExD
+14	studium	NNNS1-----A----	ExD
+15	ve	RV--6----------	AuxP
+16	Velké	AAFS6----1A----	Atr
+17	Británii	NNFS6-----A----	Atr
+18	a	J^-------------	Coord
+19	dále	Dg-------2A---1	AuxY
+20	jednoroční	AANS1----1A----	Atr
+21	školné	NNNS1-----A----	ExD
+22	na	RR--6----------	AuxP
+23	anglicky	Dg-------1A----	Adv
+24	vyučující	AGFS6-----A----	Atr
+25	škole	NNFS6-----A----	Atr
+26	v	RR--6----------	AuxP
+27	ČR	NNFXX-----A---8	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9406-008-p5s1
+1	Registrace	NNFS1-----A----	Sb
+2	zájemců	NNMP2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	během	RR--2----------	AuxP
+5	března	NNIS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	talentové	AAFP1----1A----	Atr
+8	zkoušky	NNFP1-----A----	Sb
+9	se	P7-X4----------	AuxR
+10	konají	VB-P---3P-AA---	Pred
+11	18	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	-	Z:-------------	Coord
+14	29	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	dubna	NNIS2-----A----	Adv
+17	a	J^-------------	Coord
+18	veřejné	AANS1----1A----	Atr
+19	slosování	NNNS1-----A----	Sb
+20	bude	VB-S---3F-AA---	Pred
+21	v	RR--6----------	AuxP
+22	polovině	NNFS6-----A----	Adv
+23	května	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9406-008-p5s2
+1	Stejná	AAFS1----1A----	Atr
+2	akce	NNFS1-----A----	Sb
+3	následuje	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	říjnu	NNIS6-----A----	Adv
+6	.	Z:-------------	AuxK
+
+cmpr9406-008-p6s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Centrum	NNNS1-----A----	ExD
+4	pro	RR--4----------	AuxP
+5	demokracii	NNFS4-----A----	Atr
+6	a	J^-------------	Coord
+7	svobodné	AANS4----1A----	Atr
+8	podnikání	NNNS4-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Štěpánská	AAFS1----1A----	Atr
+11	18	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	110	C=-------------	Atr
+14	00	C=-------------	Atr
+15	Praha	NNFS1-----A----	Atr
+16	1	C=-------------	Atr
+17	,	Z:-------------	AuxX
+18	tel	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	a	J^-------------	Coord
+21	FAX	NNIS1-----A----	Atr
+22	:	Z:-------------	AuxG
+23	(	Z:-------------	AuxG
+24	02	C=-------------	Atr
+25	)	Z:-------------	AuxG
+26	242267	C=-------------	Atr
+27	20	C=-------------	Atr
+28	,	Z:-------------	Coord
+29	242264	C=-------------	Atr
+30	47	C=-------------	Atr
+

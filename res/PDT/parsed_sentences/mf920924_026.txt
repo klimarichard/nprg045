@@ -1,0 +1,223 @@
+mf920924-026-p1s1
+1	Rekordní	AAIS1----1A----	Atr
+2	deficit	NNIS1-----A----	ExD
+3	Spojených	AAIP2----1A----	Atr
+4	států	NNIP2-----A----	Atr
+
+mf920924-026-p2s1
+1	Deficit	NNIS1-----A----	Sb
+2	amerického	AAIS2----1A----	Atr
+3	rozpočtu	NNIS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	srpnu	NNIS6-----A----	Adv
+7	zvýšil	VpYS---XR-AA---	Pred
+8	o	RR--4----------	AuxP
+9	dalších	AAFP2----1A----	Atr
+10	24.7	C=-------------	Obj
+11	mld	NNFXX-----A---8	Atr
+12	USD	NNIXX-----A---8	Atr
+13	.	Z:-------------	AuxK
+
+mf920924-026-p2s2
+1	Oznámilo	VpNS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	v	RR--4----------	AuxP
+4	úterý	NNNS4-----A----	Adv
+5	ministerstvo	NNNS1-----A----	Sb
+6	financí	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+mf920924-026-p2s3
+1	Již	Db-------------	AuxZ
+2	nyní	Db-------------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	jasné	AANS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	ve	RV--6----------	AuxP
+8	finančním	AAIS6----1A----	Atr
+9	roce	NNIS6-----A---1	Adv
+10	1992	C=-------------	Atr
+11	(	Z:-------------	AuxG
+12	končí	VB-S---3P-AA---	Pred
+13	30	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	září	NNNS2-----A----	Adv
+16	)	Z:-------------	AuxG
+17	dosáhne	VB-S---3P-AA---	Sb
+18	rozdíl	NNIS1-----A----	Sb
+19	mezi	RR--7----------	AuxP
+20	výdaji	NNIP7-----A----	Atr
+21	a	J^-------------	Coord
+22	příjmy	NNIP7-----A----	Atr
+23	USA	NNIPX-----A----	Atr
+24	rekordní	AAFS2----1A----	Atr
+25	výše	NNFS2-----A----	Obj
+26	.	Z:-------------	AuxK
+
+mf920924-026-p2s4
+1	V	RR--6----------	AuxP
+2	prvních	CrIP6----------	Atr
+3	jedenácti	Cn-P6----------	Atr
+4	měsících	NNIP6-----A----	Adv
+5	nynějšího	AAIS2----1A----	Atr
+6	finančního	AAIS2----1A----	Atr
+7	roku	NNIS2-----A---1	Atr
+8	činil	VpYS---XR-AA---	Pred
+9	rozpočtový	AAIS1----1A----	Atr
+10	schodek	NNIS1-----A----	Sb
+11	295.6	C=-------------	Obj
+12	mld	NNFXX-----A---8	Atr
+13	USD	NNIXX-----A---8	Atr
+14	,	Z:-------------	AuxX
+15	zatímco	J,-------------	AuxC
+16	loni	Db------------1	Adv
+17	to	PDNS1----------	Sb
+18	bylo	VpNS---XR-AA---	Adv
+19	ve	RV--6----------	AuxP
+20	stejném	AANS6----1A----	Atr
+21	období	NNNS6-----A----	Adv
+22	262	C=-------------	Pnom
+23	,	Z:-------------	AuxG
+24	6	C=-------------	Atr
+25	mld	NNFXX-----A---8	Atr
+26	USD	NNIXX-----A---8	Atr
+27	.	Z:-------------	AuxK
+
+mf920924-026-p2s5
+1	V	RR--6----------	AuxP
+2	celém	AAIS6----1A----	Atr
+3	uplynulém	AAIS6----1A----	Atr
+4	finančním	AAIS6----1A----	Atr
+5	roce	NNIS6-----A---1	Adv
+6	dosáhl	VpYS---XR-AA---	Pred
+7	deficit	NNIS1-----A----	Sb
+8	269.5	C=-------------	Obj
+9	miliardy	NNFS2-----A----	Atr
+10	dolarů	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf920924-026-p2s6
+1	Bushova	AUFS1M---------	Atr
+2	vláda	NNFS1-----A----	Sb
+3	odhaduje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	do	RR--2----------	AuxP
+7	konce	NNIS2-----A----	Adv
+8	letošního	AAIS2----1A----	Atr
+9	finančního	AAIS2----1A----	Atr
+10	roku	NNIS2-----A---1	Atr
+11	se	P7-X4----------	AuxT
+12	deficit	NNIS1-----A----	Sb
+13	zvýší	VB-S---3P-AA---	Obj
+14	na	RR--4----------	AuxP
+15	333.5	C=-------------	Adv
+16	miliardy	NNFS2-----A----	Atr
+17	dolarů	NNIP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920924-026-p2s7
+1	Celkový	AAIS1----1A----	Atr
+2	nahromaděný	AAIS1----1A----	Atr
+3	národní	AAIS1----1A----	Atr
+4	dluh	NNIS1-----A----	Sb
+5	USA	NNIPX-----A----	Atr
+6	činí	VB-S---3P-AA---	Pred
+7	více	Dg-------2A----	Obj
+8	než	J,-------------	AuxC
+9	3.95	C=-------------	Adv
+10	biliónu	NNIS2-----A----	Atr
+11	dolarů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920924-026-p2s8
+1	Nejvíce	Dg-------3A----	Obj
+2	prostředků	NNIP2-----A----	Atr
+3	ze	RV--2----------	AuxP
+4	státní	AAFS2----1A----	Atr
+5	pokladny	NNFS2-----A----	Adv
+6	odčerpávají	VB-P---3P-AA---	Pred
+7	sociální	AAIP1----1A----	Atr
+8	a	J^-------------	Coord
+9	zdravotnické	AAIP1----1A----	Atr
+10	programy	NNIP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	vojenství	NNNS1-----A----	Sb
+13	a	J^-------------	Coord
+14	úroky	NNIP1-----A----	Sb
+15	ze	RV--2----------	AuxP
+16	zadlužení	NNNS2-----A----	Atr
+17	USA	NNIPX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920924-026-p2s9
+1	Ty	PDIP1----------	Sb
+2	například	Db-------------	AuxY
+3	stály	VpTP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	letošním	AAIS6----1A----	Atr
+6	roce	NNIS6-----A---1	Adv
+7	Spojené	AAIP4----1A----	Atr
+8	státy	NNIP4-----A----	Obj
+9	více	Dg-------2A----	Obj
+10	než	J,-------------	AuxC
+11	vojenská	AAFS1----1A----	Atr
+12	obrana	NNFS1-----A----	ExD
+13	země	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920924-026-p2s10
+1	V	RR--6----------	AuxP
+2	prvních	CrIP6----------	Atr
+3	jedenácti	Cn-P6----------	Atr
+4	měsících	NNIP6-----A----	Adv
+5	letošního	AAIS2----1A----	Atr
+6	finančního	AAIS2----1A----	Atr
+7	roku	NNIS2-----A---1	Atr
+8	činily	VpTP---XR-AA---	Pred
+9	úroky	NNIP1-----A----	Sb
+10	z	RR--2----------	AuxP
+11	dluhu	NNIS2-----A----	Atr
+12	americké	AAFS2----1A----	Atr
+13	vlády	NNFS2-----A----	Atr
+14	275.08	C=-------------	Obj
+15	miliardy	NNFS2-----A----	Atr
+16	dolarů	NNIP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	zatímco	J,-------------	AuxC
+19	celkové	AAIP1----1A----	Atr
+20	výdaje	NNIP1-----A----	Sb
+21	na	RR--4----------	AuxP
+22	obranu	NNFS4-----A----	Atr
+23	dosáhly	VpTP---XR-AA---	Adv
+24	ve	RV--6----------	AuxP
+25	stejném	AANS6----1A----	Atr
+26	období	NNNS6-----A----	Adv
+27	261.73	C=-------------	Obj
+28	miliardy	NNFS2-----A----	Atr
+29	dolarů	NNIP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+mf920924-026-p2s11
+1	Nezávislí	AAMP1----1N----	Atr
+2	ekonomové	NNMP1-----A----	Sb
+3	a	J^-------------	Coord
+4	mezinárodní	AAFP1----1A----	Atr
+5	agentury	NNFP1-----A----	Sb
+6	varují	VB-P---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	schodek	NNIS1-----A----	Sb
+10	Spojených	AAIP2----1A----	Atr
+11	států	NNIP2-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	stává	VB-S---3P-AA---	Obj
+14	stále	Db-------------	Adv
+15	větší	AAFS7----2A----	Atr
+16	zátěží	NNFS7-----A----	Obj
+17	světové	AAFS2----1A----	Atr
+18	ekonomiky	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+

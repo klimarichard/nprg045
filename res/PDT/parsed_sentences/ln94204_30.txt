@@ -1,0 +1,155 @@
+ln94204-30-p1s1
+1	Střední	AAFS1----1A----	Atr
+2	Amerika	NNFS1-----A----	Sb
+3	přijme	VB-S---3P-AA---	Pred
+4	uprchlíky	NNMP4-----A----	Obj
+
+ln94204-30-p2s1A
+1	Tegucigalpa	NNFS1-----A----	ExD
+2	/	Z:-------------	Coord
+3	Havana	NNFS1-----A----	ExD
+4	-	Z:-------------	AuxK
+
+ln94204-30-p2s1B
+1	Honduras	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	Guatemala	NNFS1-----A----	Sb
+4	a	J^-------------	Coord
+5	Panama	NNFS1-----A----	Sb
+6	vyjádřily	VpTP---XR-AA---	Pred
+7	ochotu	NNFS4-----A----	Obj
+8	přijmout	Vf--------A----	Atr
+9	omezené	AANS4----1A----	Atr
+10	množství	NNNS4-----A----	Obj
+11	kubánských	AAMP2----1A----	Atr
+12	uprchlíků	NNMP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-30-p2s2
+1	Zvolený	AAMS1----1A----	Atr
+2	panamský	AAMS1----1A----	Atr
+3	prezident	NNMS1-----A----	Atr
+4	E	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Pérez	NNMS1-----A----	Atr
+7	Balladares	NNMS1-----A----	Sb
+8	oznámil	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	Panama	NNFS1-----A----	Sb
+12	je	VB-S---3P-AA---	Obj
+13	připravena	VsQW---XX-AP---	Pnom
+14	přijmout	Vf--------A----	Obj
+15	10000	C=-------------	Obj
+16	uprchlíků	NNMP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	pokud	J,-------------	AuxC
+19	o	RR--4----------	AuxP
+20	to	PDNS4----------	Obj
+21	požádá	VB-S---3P-AA---	Adv
+22	prezident	NNMS1-----A----	Atr
+23	Clinton	NNMS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln94204-30-p2s3
+1	Možnost	NNFS4-----A----	Obj
+2	přijetí	NNNS2-----A----	Atr
+3	5000	C=-------------	Atr
+4	běženců	NNMP2-----A----	Atr
+5	oznámila	VpQW---XR-AA---	Pred
+6	také	Db-------------	Adv
+7	honduraská	AAFS1----1A----	Atr
+8	vláda	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94204-30-p2s4
+1	Ministr	NNMS1-----A----	Atr
+2	zahraničí	NNNS2-----A----	Atr
+3	E	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Paz	NNMS1-----A----	Atr
+6	Aguilar	NNMS1-----A----	Sb
+7	uvedl	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	pokud	J,-------------	AuxC
+11	bude	VB-S---3F-AA---	AuxV
+12	uzavřena	VsQW---XX-AP---	Adv
+13	příslušná	AAFS1----1A----	Atr
+14	dohoda	NNFS1-----A----	Sb
+15	s	RR--7----------	AuxP
+16	USA	NNIPX-----A----	Atr
+17	,	Z:-------------	AuxX
+18	budou	VB-P---3F-AA---	AuxV
+19	moci	Vf--------A----	Obj
+20	být	Vf--------A----	AuxV
+21	uprchlíci	NNMP1-----A----	Sb
+22	umístěni	VsMP---XX-AP---	Obj
+23	na	RR--6----------	AuxP
+24	jednom	ClZS6----------	Adv
+25	z	RR--2----------	AuxP
+26	honduraských	AAIP2----1A----	Atr
+27	karibských	AAIP2----1A----	Atr
+28	ostrovů	NNIP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94204-30-p2s5
+1	Guatemalský	AAMS1----1A----	Atr
+2	prezident	NNMS1-----A----	Atr
+3	R	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	de	RR--1----------	Atr
+6	León	NNMS1-----A----	Atr
+7	Carpio	NNMS1-----A----	Sb
+8	uvedl	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	i	J^-------------	AuxZ
+12	Guatemala	NNFS1-----A----	Sb
+13	může	VB-S---3P-AA---	Obj
+14	přijmout	Vf--------A----	Obj
+15	uprchlíky	NNMP4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	pouze	Db-------------	AuxZ
+19	ty	PDMP4----------	Obj
+20	,	Z:-------------	AuxX
+21	kteří	P4MP1----------	Sb
+22	zde	Db-------------	Adv
+23	mají	VB-P---3P-AA---	Atr
+24	své	P8FP4---------1	Atr
+25	rodiny	NNFP4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+ln94204-30-p3s1
+1	Americké	AANS1----1A----	Atr
+2	loďstvo	NNNS1-----A----	Sb
+3	včera	Db-------------	Adv
+4	zadrželo	VpNS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	úžině	NNFS6-----A----	Adv
+7	mezi	RR--7----------	AuxP
+8	Kubou	NNFS7-----A----	Atr
+9	a	J^-------------	Coord
+10	Floridou	NNFS7-----A----	Atr
+11	120	C=-------------	Obj
+12	kubánských	AAMP2----1A----	Atr
+13	uprchlíků	NNMP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94204-30-p3s2
+1	Potvrdil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	mluvčí	NNMS1-----A----	Sb
+4	Pentagonu	NNIS2-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	Washingtonu	NNIS6-----A---1	AtrAdv
+7	.	Z:-------------	AuxK
+
+ln94204-30-p4s1
+1	Další	AAFP1----1A----	Atr
+2	informace	NNFP1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	straně	NNFS6-----A----	ExD
+5	6	C=-------------	Atr
+

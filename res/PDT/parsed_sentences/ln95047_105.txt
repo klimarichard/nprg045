@@ -1,0 +1,422 @@
+ln95047-105-p1s1
+1	Přísný	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	Sb
+3	sníží	VB-S---3P-AA---	Pred
+4	počet	NNIS4-----A----	Obj
+5	pojišťoven	NNFP2-----A----	Adv
+
+ln95047-105-p2s1A
+1	Zdravotní	AAFP1----1A----	Atr
+2	pojišťovny	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	jež	PJFP1----------	Sb
+5	nebudou	VB-P---3F-NA---	AuxV
+6	mít	Vf--------A----	Atr
+7	400000	C=-------------	Obj
+8	klientů	NNMP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	by	Vc-------------	AuxV
+11	mohly	VpTP---XR-AA---	Pred
+12	zaniknout	Vf--------A----	Obj
+
+ln95047-105-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-105-p2s1C
+1	Značné	AANS1----1A----	Atr
+2	snížení	NNNS1-----A----	Sb
+3	počtu	NNIS2-----A----	Atr
+4	zdravotních	AAFP2----1A----	Atr
+5	pojišťoven	NNFP2-----A----	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	zřejmě	Dg-------1A----	AuxY
+8	následovat	Vf--------A----	Pred
+9	po	RR--6----------	AuxP
+10	přijetí	NNNS6-----A----	Adv
+11	novely	NNFS2-----A----	Atr
+12	zákona	NNIS2-----A----	Atr
+13	o	RR--6----------	AuxP
+14	těchto	PDXP6----------	Atr
+15	institucích	NNFP6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95047-105-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	jednání	NNNS2-----A----	Obj
+5	parlamentního	AAIS2----1A----	Atr
+6	výboru	NNIS2-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	sociální	AAFS4----1A----	Atr
+9	politiku	NNFS4-----A----	Atr
+10	a	J^-------------	Coord
+11	zdravotnictví	NNNS4-----A----	Atr
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	včera	Db-------------	Adv
+15	novelu	NNFS4-----A----	Obj
+16	doporučil	VpYS---XR-AA---	Atr
+17	březnové	AAFS3----1A----	Atr
+18	schůzi	NNFS3-----A----	Obj
+19	sněmovny	NNFS2-----A----	Atr
+20	ke	RV--3----------	AuxP
+21	schválení	NNNS3-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95047-105-p3s1
+1	Nejzávažnější	AAFS7----3A----	Atr
+2	změnou	NNFS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	stanovení	NNNS1-----A----	Sb
+5	minimálního	AAIS2----1A----	Atr
+6	počtu	NNIS2-----A----	Atr
+7	pojištěnců	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95047-105-p3s2
+1	V	RR--6----------	AuxP
+2	původním	AAIS6----1A----	Atr
+3	ministerském	AAIS6----1A----	Atr
+4	návrhu	NNIS6-----A----	Adv
+5	se	P7-X4----------	AuxR
+6	hovořilo	VpNS---XR-AA---	Pred
+7	o	RR--6----------	AuxP
+8	50000	C=-------------	Obj
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	poslanci	NNMP1-----A----	Sb
+12	tento	PDIS4----------	Atr
+13	limit	NNIS4-----A----	Obj
+14	zvedli	VpMP---XR-AA--1	Pred
+15	na	RR--4----------	AuxP
+16	200000	C=-------------	Obj
+17	.	Z:-------------	AuxK
+
+ln95047-105-p3s3
+1	Každá	AAFS1----1A----	Atr
+2	pojišťovna	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	musela	VpQW---XR-AA---	Pred
+5	tohoto	PDZS2----------	Atr
+6	počtu	NNIS2-----A----	Obj
+7	klientů	NNMP2-----A----	Atr
+8	dosáhnout	Vf--------A----	Obj
+9	do	RR--2----------	AuxP
+10	roka	NNIS2-----A----	Adv
+11	ode	RV--2----------	AuxP
+12	dne	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	kdy	Db-------------	Adv
+15	zákon	NNIS1-----A----	Sb
+16	vstoupí	VB-S---3P-AA---	Atr
+17	v	RR--4----------	AuxP
+18	platnost	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln95047-105-p3s4
+1	Nově	Dg-------1A----	Adv
+2	vzniklé	AAFP1----1A----	Atr
+3	pojišťovny	NNFP1-----A----	Sb
+4	by	Vc-------------	AuxV
+5	měly	VpTP---XR-AA---	Pred
+6	mít	Vf--------A----	Obj
+7	tolik	Ca--4----------	Obj
+8	pojištěnců	NNMP2-----A----	Atr
+9	do	RR--2----------	AuxP
+10	roka	NNIS2-----A----	Adv
+11	své	P8FS2---------1	Atr
+12	existence	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95047-105-p3s5
+1	Ke	RV--3----------	AuxP
+2	konci	NNIS3-----A----	Adv
+3	druhého	CrIS2----------	Atr
+4	roku	NNIS2-----A---1	Atr
+5	by	Vc-------------	AuxV
+6	instituce	NNFP1-----A----	Sb
+7	musely	VpTP---XR-AA---	Pred
+8	mít	Vf--------A----	Obj
+9	dokonce	Db-------------	AuxZ
+10	400000	C=-------------	Obj
+11	klientů	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95047-105-p3s6
+1	Výbor	NNIS1-----A----	Sb
+2	předpokládá	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	zákon	NNIS1-----A----	Sb
+6	by	Vc-------------	AuxV
+7	mohl	VpYS---XR-AA---	Obj
+8	platit	Vf--------A----	Obj
+9	od	RR--2----------	AuxP
+10	prvního	CrIS2----------	Atr
+11	května	NNIS2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln95047-105-p3s7
+1	Druhá	CrFS1----------	Atr
+2	největší	AAFS1----3A----	Atr
+3	pojišťovna	NNFS1-----A----	Sb
+4	po	RR--6----------	AuxP
+5	Všeobecné	AAFS6----1A----	ExD
+6	(	Z:-------------	ExD
+7	asi	TT-------------	AuxZ
+8	6	C=-------------	ExD
+9	miliónů	NNIP2-----A----	Atr
+10	)	Z:-------------	ExD
+11	,	Z:-------------	Apos
+12	Hornická	AAFS1----1A----	ExD
+13	má	VB-S---3P-AA---	Pred
+14	nyní	Db-------------	Adv
+15	kolem	RR--2----------	AuxP
+16	800000	C=-------------	Obj
+17	klientů	NNMP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	například	Db-------------	AuxZ
+21	Moravskoslezská	AAFS1----1A----	ExD
+22	zhruba	Db-------------	AuxZ
+23	90000	C=-------------	ExD
+24	a	J^-------------	Coord
+25	Stavební	AAFS1----1A----	ExD
+26	necelých	AAMP2----1N----	Atr
+27	130000	C=-------------	ExD
+28	.	Z:-------------	AuxK
+
+ln95047-105-p4s1
+1	Těmito	PDXP7----------	Atr
+2	omezeními	NNNP7-----A----	Adv
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxR
+5	prý	TT-------------	AuxY
+6	snížil	VpYS---XR-AA---	Pred
+7	počet	NNIS1-----A----	Sb
+8	pojišťoven	NNFP2-----A----	Atr
+9	z	RR--2----------	AuxP
+10	dnešních	AAFP2----1A----	Atr
+11	pětadvaceti	Cn-P2----------	Obj
+12	na	RR--4----------	AuxP
+13	šest	Cn-S4----------	Obj
+14	až	J^-------------	Coord
+15	sedm	Cn-S4----------	Obj
+16	.	Z:-------------	AuxK
+
+ln95047-105-p4s2
+1	Počítá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	s	RR--7----------	AuxP
+4	tím	PDZS7----------	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	některé	PZFP1----------	Sb
+8	se	P7-X4----------	Obj
+9	ve	RV--6----------	AuxP
+10	snaze	NNFS6-----A----	Adv
+11	zabránit	Vf--------A----	Atr
+12	likvidaci	NNFS3-----A----	Obj
+13	sloučí	VB-P---3P-AA---	Atr
+14	,	Z:-------------	AuxX
+15	i	J^-------------	AuxZ
+16	tak	J^-------------	Adv
+17	by	Vc-------------	AuxV
+18	jich	PPXP2--3-------	Atr
+19	však	J^-------------	Coord
+20	nemělo	VpNS---XR-NA---	Pred
+21	být	Vf--------A----	Obj
+22	více	Dg-------2A----	Sb
+23	než	J,-------------	AuxC
+24	deset	Cn-S1----------	Adv
+25	.	Z:-------------	AuxK
+
+ln95047-105-p4s3
+1	Předseda	NNMS1-----A----	Atr
+2	výboru	NNIS2-----A----	Atr
+3	Martin	NNMS1-----A----	Atr
+4	Syka	NNMS1-----A----	Sb
+5	(	Z:-------------	ExD
+6	ODS	NNFXX-----A---8	ExD
+7	)	Z:-------------	ExD
+8	připustil	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	návrh	NNIS1-----A----	Sb
+12	je	VB-S---3P-AA---	Obj
+13	neliberální	AAIS1----1N----	Pnom
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	v	RR--6----------	AuxP
+17	současné	AAFS6----1A----	Atr
+18	situaci	NNFS6-----A----	Adv
+19	jej	PPZS4--3------2	Obj
+20	prý	TT-------------	AuxY
+21	potřebujeme	VB-P---1P-AA---	Obj
+22	.	Z:-------------	AuxK
+
+ln95047-105-p4s4
+1	Připomněl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	režie	NNFP1-----A----	Sb
+5	pojišťoven	NNFP2-----A----	Atr
+6	činí	VB-P---3P-AA---	Obj
+7	sedm	Cn-S4----------	Obj
+8	miliard	NNFP2-----A----	Atr
+9	ročně	Dg-------1A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95047-105-p5s1
+1	Výbor	NNIS1-----A----	Sb
+2	dále	Db------------1	Adv
+3	chce	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	zájemce	NNMS1-----A----	Sb
+7	o	RR--4----------	AuxP
+8	založení	NNNS4-----A----	Atr
+9	pojišťovny	NNFS2-----A----	Atr
+10	spolu	Db-------------	AuxP
+11	se	RV--7----------	AuxP
+12	žádostí	NNFS7-----A----	Adv
+13	složil	VpYS---XR-AA---	Obj
+14	kauci	NNFS4-----A----	Obj
+15	25	C=-------------	Atr
+16	miliónů	NNIP2-----A----	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95047-105-p5s2
+1	Ta	PDFS1----------	Sb
+2	by	Vc-------------	AuxV
+3	mu	PHZS3--3-------	Obj
+4	byla	VpQW---XR-AA---	AuxV
+5	vrácena	VsQW---XX-AP---	Pred
+6	v	RR--6----------	AuxP
+7	případě	NNIS6-----A----	AuxP
+8	zamítnutí	NNNS2-----A----	Adv
+9	žádosti	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95047-105-p5s3
+1	Jinak	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	stala	VpQW---XR-AA---	Pred
+5	základem	NNIS7-----A----	Obj
+6	rezervního	AAIS2----1A----	Atr
+7	fondu	NNIS2-----A----	Atr
+8	pojišťovny	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95047-105-p5s4
+1	Pojišťovny	NNFP1-----A----	Sb
+2	nesplňující	AGFP1-----N----	Atr
+3	podmínky	NNFP4-----A----	Obj
+4	by	Vc-------------	AuxV
+5	podle	RR--2----------	AuxP
+6	návrhu	NNIS2-----A----	Adv
+7	mohly	VpTP---XR-AA---	Pred
+8	být	Vf--------A----	AuxV
+9	s	RR--7----------	AuxP
+10	výjimkou	NNFS7-----A----	AuxP
+11	Všeobecné	AAFS2----1A----	ExD
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	by	Vc-------------	AuxV
+15	přešla	VpQW---XR-AA---	Atr
+16	do	RR--2----------	AuxP
+17	režimu	NNIS2-----A----	Adv
+18	nucené	AAFS2----1A----	Atr
+19	správy	NNFS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	likvidovány	VsTP---XX-AP---	Obj
+22	.	Z:-------------	AuxK
+
+ln95047-105-p5s5
+1	Peníze	NNIP1-----A----	Sb
+2	zanikající	AGFS2-----A----	Atr
+3	pojišťovny	NNFS2-----A----	Atr
+4	určené	AAIP1----1A----	Atr
+5	na	RR--4----------	AuxP
+6	platbu	NNFS4-----A----	Adv
+7	lékařské	AAFS2----1A----	Atr
+8	péče	NNFS2-----A----	Atr
+9	by	Vc-------------	AuxV
+10	byly	VpTP---XR-AA---	AuxV
+11	přerozděleny	VsTP---XX-AP---	Pred
+12	mezi	RR--4----------	AuxP
+13	všechny	PLFP4----------	Atr
+14	pojišťovny	NNFP4-----A----	Adv
+15	vzhledem	RF-------------	AuxP
+16	k	RR--3----------	AuxP
+17	počtu	NNIS3-----A----	Adv
+18	klientů	NNMP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	stejně	Dg-------1A----	Adv
+21	jako	J,-------------	AuxC
+22	majetek	NNIS1-----A----	ExD
+23	zaniklé	AAFS2----1A----	Atr
+24	pojišťovny	NNFS2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	případě	NNIS6-----A----	ExD
+27	,	Z:-------------	AuxX
+28	že	J,-------------	AuxC
+29	by	Vc-------------	AuxV
+30	již	Db-------------	Adv
+31	neexistoval	VpYS---XR-NA---	Atr
+32	ani	J^-------------	AuxZ
+33	její	PSZS1FS3-------	Atr
+34	zakladatel	NNMS1-----A----	Sb
+35	či	J^-------------	Coord
+36	jeho	PSXXXZS3-------	Atr
+37	právní	AAMS1----1A----	Atr
+38	nástupce	NNMS1-----A----	Sb
+39	.	Z:-------------	AuxK
+
+ln95047-105-p5s6
+1	Výbor	NNIS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	představuje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	pojišťovny	NNFP1-----A----	Sb
+8	neměly	VpTP---XR-NA---	Obj
+9	podnikat	Vf--------A----	Obj
+10	ani	J^-------------	Coord
+11	nabízet	Vf--------A----	Obj
+12	nadstandard	NNIS4-----A----	Obj
+13	nad	RR--4----------	AuxP
+14	rámec	NNIS4-----A----	Atr
+15	zdravotní	AAFS2----1A----	Atr
+16	péče	NNFS2-----A----	Atr
+17	určené	AAFS2----1A----	Atr
+18	zdravotním	AAIS7----1A----	Atr
+19	řádem	NNIS7-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95047-105-p5s7
+1	Každý	AAMS1----1A----	Atr
+2	zaměstnanec	NNMS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	byl	VpYS---XR-AA---	Pred
+5	povinen	ACYS------A----	Pnom
+6	zaměstnavateli	NNMS3-----A----	Obj
+7	nahlásit	Vf--------A----	Obj
+8	změnu	NNFS4-----A----	Obj
+9	pojišťovny	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95047-105-p5s8
+1	Měnit	Vf--------A----	Sb
+2	pojišťovnu	NNFS4-----A----	Obj
+3	bude	VB-S---3F-AA---	Pred
+4	možné	AANS1----1A----	Pnom
+5	jednou	Cv-------------	Adv
+6	ročně	Dg-------1A----	Adv
+7	.	Z:-------------	AuxK
+

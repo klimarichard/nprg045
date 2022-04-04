@@ -1,0 +1,171 @@
+cmpr9415-013-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	7	C=-------------	Atr
+
+cmpr9415-013-p2s1
+1	Kancelář	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	Globtour	NNIS1-----A----	Atr
+
+cmpr9415-013-p3s1
+1	Oblast	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Chorvatsko	NNNS1-----A----	ExD
+4	-	Z:-------------	Coord
+5	Istrije	NNFS1-----A----	ExD
+
+cmpr9415-013-p4s1
+1	Ubytovací	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Depandance	NNFS1-----A----	Atr
+5	Katarina	NNFS1-----A----	ExD
+6	(	Z:-------------	AuxG
+7	Kat	NNFS1-----A----	Atr
+8	.	Z:-------------	AuxG
+9	B	NNNXX-----A----	Atr
+10	)	Z:-------------	AuxG
+
+cmpr9415-013-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	osobu	NNFS4-----A----	Atr
+4	Kč	NNFXX-----A----	Atr
+5	:	Z:-------------	Pred
+6	3440	C=-------------	Pnom
+
+cmpr9415-013-p6s1
+1	Dítě	NNNS1-----A----	Sb
+2	Kč	NNFXX-----A----	Atr
+3	:	Z:-------------	Pred
+4	1710	C=-------------	Pnom
+
+cmpr9415-013-p7s1
+1	Stravování	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Polopenze	NNFS1-----A----	ExD
+
+cmpr9415-013-p8s1
+1	Doprava	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Autobus	NNIS1-----A----	ExD
+4	z	RR--2----------	AuxP
+5	Prahy	NNFS2-----A----	Atr
+6	1220	C=-------------	ExD
+7	Kč	NNFXX-----A----	Atr
+8	za	RR--4----------	AuxP
+9	osobu	NNFS4-----A----	Atr
+10	od	RR--2----------	AuxP
+11	21	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	5	C=-------------	ExD
+14	.	Z:-------------	AuxG
+15	1994	C=-------------	Atr
+
+cmpr9415-013-p9s1
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Depandance	NNFS1-----A----	Atr
+4	Katarina	NNFS1-----A----	Sb
+5	je	VB-S---3P-AA---	Pred
+6	postavena	VsQW---XX-AP---	Pnom
+7	na	RR--6----------	AuxP
+8	stejnojmenném	AAIS6----1A----	Atr
+9	ostrově	NNIS6-----A----	Adv
+10	vzdáleném	AAIS6----1A----	Atr
+11	asi	TT-------------	AuxZ
+12	5	C=-------------	Adv
+13	minut	NNFP2-----A----	Atr
+14	jízdy	NNFS2-----A----	Atr
+15	lodičkou	NNFS7-----A----	Atr
+16	z	RR--2----------	AuxP
+17	Rovinje	NNFS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+cmpr9415-013-p9s2
+1	V	RR--6----------	AuxP
+2	bezprostřední	AAFS6----1A----	Atr
+3	blízkosti	NNFS6-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	přírodní	AAFP1----1A----	Atr
+6	oblázkové	AAFP1----1A----	Atr
+7	a	J^-------------	Coord
+8	kamenité	AAFP1----1A----	Atr
+9	pláže	NNFP1-----A----	Sb
+10	obklopené	AAFP1----1A----	Atr
+11	borovým	AAIS7----1A----	Atr
+12	lesem	NNIS7-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9415-013-p9s3
+1	Ve	RV--6----------	AuxP
+2	stejnojmenném	AAIS6----1A----	Atr
+3	hotelu	NNIS6-----A----	Adv
+4	slouží	VB-S---3P-AA---	Pred
+5	hostům	NNMP3-----A----	Obj
+6	restaurace	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	kavárna	NNFS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	snack	NNIS1-----A----	Atr
+11	-	Z:-------------	AuxG
+12	bar	NNIS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	market	NNIS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	prodejna	NNFS1-----A----	Sb
+17	suvenýrů	NNIP2-----A----	Atr
+18	a	J^-------------	Coord
+19	směnárna	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+cmpr9415-013-p9s4
+1	Možnost	NNFS1-----A----	ExD
+2	provozování	NNNS2-----A----	Atr
+3	vodních	AAIP2----1A----	Atr
+4	sportů	NNIP2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+cmpr9415-013-p9s5
+1	Na	RR--6----------	AuxP
+2	terase	NNFS6-----A----	ExD
+3	nebo	J^-------------	Coord
+4	v	RR--6----------	AuxP
+5	hotelu	NNIS6-----A----	ExD
+6	taneční	AAIP1----1A----	Atr
+7	večery	NNIP1-----A----	ExD
+8	.	Z:-------------	AuxK
+
+cmpr9415-013-p9s6
+1	Všechny	PLIP1----------	Atr
+2	pokoje	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	vybaveny	VsTP---XX-AP---	Pnom
+5	sociálním	AANS7----1A----	Atr
+6	zařízením	NNNS7-----A----	Obj
+7	a	J^-------------	Coord
+8	koupelnou	NNFS7-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9415-013-p9s7
+1	Polopenze	NNFS1-----A----	ExD
+2	se	RV--7----------	AuxP
+3	snídaní	NNFS7-----A----	Atr
+4	formou	NNFS7-----A----	Atr
+5	švédského	AAIS2----1A----	Atr
+6	stolu	NNIS2-----A----	Atr
+7	a	J^-------------	Coord
+8	večeří	NNFS7-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9415-013-p9s8
+1	Možnost	NNFS1-----A----	ExD
+2	plné	AAFS2----1A----	Atr
+3	penze	NNFS2-----A----	Atr
+4	za	RR--4----------	AuxP
+5	doplatek	NNIS4-----A----	Atr
+6	660	C=-------------	Atr
+7	Kč	NNFXX-----A----	Atr
+8	.	Z:-------------	AuxK
+

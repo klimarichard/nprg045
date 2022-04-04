@@ -1,0 +1,123 @@
+ln94204-88-p1s1
+1	Prezident	NNMS1-----A----	Atr
+2	Kučma	NNMS1-----A----	Sb
+3	bojuje	VB-S---3P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	korupcí	NNFS7-----A----	Obj
+
+ln94204-88-p2s1A
+1	Kyjev	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94204-88-p2s1B
+1	Ukrajinský	AAMS1----1A----	Atr
+2	prezident	NNMS1-----A----	Atr
+3	Leonid	NNMS1-----A----	Atr
+4	Kučma	NNMS1-----A----	Adv
+5	bude	VB-S---3F-AA---	AuxV
+6	osobně	Dg-------1A----	Adv
+7	kontrolovat	Vf--------A----	Pred
+8	činnost	NNFS4-----A----	Obj
+9	zvláštních	AAFP2----1A----	Atr
+10	skupin	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4FP1----------	Sb
+13	byly	VpTP---XR-AA---	AuxV
+14	pověřeny	VsTP---XX-AP---	Atr
+15	vyšetřováním	NNNS7-----A----	Obj
+16	korupce	NNFS2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	nejvyšších	AAFP6----3A----	Atr
+19	vládních	AAFP6----1A----	Atr
+20	složkách	NNFP6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94204-88-p2s2
+1	Jejich	PSXXXXP3-------	Atr
+2	členové	NNMP1-----A----	Sb
+3	budou	VB-P---3F-AA---	Pred
+4	pod	RR--7----------	AuxP
+5	zvláštní	AAFS7----1A----	Atr
+6	ochranou	NNFS7-----A----	Adv
+7	prezidenta	NNMS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94204-88-p2s3
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ze	RV--2----------	AuxP
+4	včerejšího	AAIS2----1A----	Atr
+5	prezidentského	AAIS2----1A----	Atr
+6	výnosu	NNIS2-----A----	Obj
+7	o	RR--6----------	AuxP
+8	posílení	NNNS6-----A----	Atr
+9	boje	NNIS2-----A----	Atr
+10	proti	RR--3----------	AuxP
+11	korupci	NNFS3-----A----	Atr
+12	a	J^-------------	Coord
+13	dalším	AAIP3----1A----	Atr
+14	zločinům	NNIP3-----A----	Atr
+15	v	RR--6----------	AuxP
+16	oblasti	NNFS6-----A----	AuxP
+17	ekonomiky	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94204-88-p3s1
+1	Bývalý	AAMS1----1A----	Atr
+2	úřadující	AGMS1-----A----	Atr
+3	premiér	NNMS1-----A----	Atr
+4	Ukrajiny	NNFS2-----A----	Atr
+5	Juchym	NNMS1-----A----	Atr
+6	Zvjahilskyj	NNMS1-----A----	Sb
+7	odmítl	VpYS---XR-AA--1	Pred
+8	obvinění	NNNP4-----A----	Obj
+9	vznesená	AANP4----1A----	Atr
+10	proti	RR--3----------	AuxP
+11	němu	P5ZS3--3-------	Adv
+12	pro	RR--4----------	AuxP
+13	údajné	AANS4----1A----	Atr
+14	poškozování	NNNS4-----A----	Adv
+15	zájmů	NNIP2-----A----	Atr
+16	státu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94204-88-p3s2
+1	Zvjahilskyj	NNMS1-----A----	Sb
+2	řekl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	prodej	NNIS1-----A----	Sb
+6	leteckého	AANS2----1A----	Atr
+7	paliva	NNNS2-----A----	Atr
+8	ze	RV--2----------	AuxP
+9	státních	AAFP2----1A----	Atr
+10	rezerv	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	byl	VpYS---XR-AA---	Atr
+14	podle	RR--2----------	AuxP
+15	vyjádření	NNNP2-----A----	Adv
+16	mnoha	Ca--2----------	Atr
+17	poslanců	NNMP2-----A----	Atr
+18	nezákonný	AAIS1----1N----	Pnom
+19	,	Z:-------------	AuxX
+20	byl	VpYS---XR-AA---	AuxV
+21	zaměřen	VsYS---XX-AP---	Obj
+22	na	RR--4----------	AuxP
+23	doplnění	NNNS4-----A----	Obj
+24	rozpočtu	NNIS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94204-88-p3s3
+1	Tyto	PDIP1----------	Atr
+2	prostředky	NNIP1-----A----	Sb
+3	prý	TT-------------	AuxY
+4	byly	VpTP---XR-AA---	AuxV
+5	užity	VsTP---XX-AP---	Pred
+6	na	RR--4----------	AuxP
+7	zvýšení	NNNS4-----A----	Adv
+8	platů	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	důchodů	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+

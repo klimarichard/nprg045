@@ -1,0 +1,130 @@
+ln94204-37-p1s1
+1	Bezbolestná	AAFS1----1A----	Atr
+2	léčba	NNFS1-----A----	ExD
+3	močových	AAIP2----1A----	Atr
+4	kamenů	NNIP2-----A----	Atr
+
+ln94204-37-p2s1A
+1	Litoměřice	NNFP1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mag	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-37-p2s1B
+1	Litotryptorem	NNIS7-----A----	Adv
+2	začali	VpMP---XR-AA---	Pred
+3	pod	RR--7----------	AuxP
+4	dozorem	NNIS7-----A----	Adv
+5	zástupců	NNMP2-----A----	Atr
+6	z	RR--2----------	AuxP
+7	Výzkumného	AAIS2----1A----	Atr
+8	ústavu	NNIS2-----A----	Atr
+9	zdravotnické	AAFS2----1A----	Atr
+10	techniky	NNFS2-----A----	Atr
+11	MEDIPO	NNXXX-----A---8	Atr
+12	Brno	NNNS1-----A----	Atr
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	přístroj	NNIS4-----A----	Obj
+16	dodal	VpYS---XR-AA---	Atr
+17	,	Z:-------------	AuxX
+18	pracovat	Vf--------A----	Obj
+19	lékaři	NNMP1-----A----	Sb
+20	Městské	AAFS2----1A----	Atr
+21	nemocnice	NNFS2-----A----	Atr
+22	v	RR--6----------	AuxP
+23	Litoměřicích	NNFP6-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94204-37-p2s2
+1	Litotryptor	NNIS1-----A----	Sb
+2	Medilit	NNIS1-----A----	Atr
+3	M	NNNXX-----A---8	Atr
+4	5	C=-------------	Atr
+5	v	RR--6----------	AuxP
+6	ceně	NNFS6-----A----	Atr
+7	14	C=-------------	Atr
+8	milionů	NNIP2-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	je	VB-S---3P-AA---	Pred
+11	určen	VsYS---XX-AP---	Pnom
+12	k	RR--3----------	AuxP
+13	neinvazivní	AAFS3----1N----	Atr
+14	,	Z:-------------	Coord
+15	téměř	Db-------------	AuxZ
+16	bezbolestné	AAFS3----1A----	Atr
+17	léčbě	NNFS3-----A----	Adv
+18	-	Z:-------------	AuxG
+19	přesněji	Dg-------2A----	Adv
+20	k	RR--3----------	AuxP
+21	rozbíjení	NNNS3-----A----	Adv
+22	močových	AAIP2----1A----	Atr
+23	kamenů	NNIP2-----A----	Atr
+24	v	RR--6----------	AuxP
+25	ledvinách	NNFP6-----A----	AtrAtr
+26	a	J^-------------	Coord
+27	močových	AAFP6----1A----	Atr
+28	cestách	NNFP6-----A----	AtrAtr
+29	.	Z:-------------	AuxK
+
+ln94204-37-p2s3
+1	V	RR--6----------	AuxP
+2	severočeském	AAIS6----1A----	Atr
+3	regionu	NNIS6-----A----	Adv
+4	vlastní	VB-S---3P-AA---	Pred
+5	tento	PDIS4----------	Atr
+6	přístroj	NNIS4-----A----	Obj
+7	pouze	Db-------------	AuxZ
+8	nemocnice	NNFS1-----A----	Sb
+9	v	RR--6----------	AuxP
+10	Mostě	NNIS6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94204-37-p2s4
+1	Jak	J,-------------	Adv
+2	řekl	VpYS---XR-AA---	Pred
+3	LN	NNFPX-----A---8	Obj
+4	ředitel	NNMS1-----A----	Atr
+5	Městské	AAFS2----1A----	Atr
+6	nemocnice	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Litoměřicích	NNFP6-----A----	Atr
+9	MUDr	NNMXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	Miroslav	NNMS1-----A----	Atr
+12	Jiránek	NNMS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	byli	VpMP---XR-AA---	Pred
+15	první	CrMP1----------	Atr
+16	čtyři	ClXP1----------	Atr
+17	pacienti	NNMP1-----A----	Sb
+18	doslova	Db-------------	Adv
+19	nadšeni	VsMP---XX-AP---	Pnom
+20	.	Z:-------------	AuxK
+
+ln94204-37-p2s5
+1	Nejen	TT-------------	AuxZ
+2	proto	Db-------------	ExD
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	nemuseli	VpMP---XR-NA---	ExD
+6	podstoupit	Vf--------A----	Obj
+7	klasickou	AAFS4----1A----	Atr
+8	operaci	NNFS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	důvodem	NNIS7-----A----	Pnom
+12	je	VB-S---3P-AA---	Obj
+13	i	J^-------------	AuxZ
+14	podstatně	Dg-------1A----	Adv
+15	kratší	AAFS1----2A----	Atr
+16	doba	NNFS1-----A----	Sb
+17	pobytu	NNIS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	nemocnici	NNFS6-----A----	Atr
+20	,	Z:-------------	AuxX
+21	dodal	VpYS---XR-AA---	Pred
+22	ředitel	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+

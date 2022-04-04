@@ -1,0 +1,133 @@
+mf920901-122-p1s1
+1	Premiér	NNMS1-----A----	Atr
+2	Klaus	NNMS1-----A----	Sb
+3	jedná	VB-S---3P-AA---	Pred
+4	o	RR--6----------	AuxP
+5	obchodu	NNIS6-----A---1	Obj
+
+mf920901-122-p2s1
+1	KANADA	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf920901-122-p3s1
+1	Premiér	NNMS1-----A----	Atr
+2	Klaus	NNMS1-----A----	Sb
+3	jedná	VB-S---3P-AA---	Pred
+4	o	RR--6----------	AuxP
+5	obchodu	NNIS6-----A---1	Obj
+
+mf920901-122-p4s1
+1	Vancouver	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920901-122-p4s2
+1	Český	AAMS1----1A----	Atr
+2	premiér	NNMS1-----A----	Atr
+3	Václav	NNMS1-----A----	Atr
+4	Klaus	NNMS1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	včera	Db-------------	Adv
+7	sešel	VpYS---XR-AA---	Pred
+8	v	RR--6----------	AuxP
+9	kanadském	AAIS6----1A----	Atr
+10	Vancouveru	NNIS6-----A----	Adv
+11	se	RV--7----------	AuxP
+12	skupinou	NNFS7-----A----	Obj
+13	podnikatelů	NNMP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	finančníků	NNMP2-----A----	Atr
+16	a	J^-------------	Coord
+17	bankéřů	NNMP2-----A----	Atr
+18	z	RR--2----------	AuxP
+19	provincie	NNFS2-----A----	AtrAtr
+20	Britská	AAFS1----1A----	Atr
+21	Kolumbie	NNFS1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf920901-122-p4s3
+1	Předtím	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	ve	RV--6----------	AuxP
+4	své	P8FS6---------1	Atr
+5	přednášce	NNFS6-----A----	Adv
+6	na	RR--6----------	AuxP
+7	konferenci	NNFS6-----A----	Atr
+8	Montpelerinské	AAFS2----1A----	Atr
+9	společnosti	NNFS2-----A----	Atr
+10	zaměřil	VpYS---XR-AA---	Pred
+11	na	RR--4----------	AuxP
+12	vztah	NNIS4-----A----	Obj
+13	a	J^-------------	Coord
+14	vliv	NNIS4-----A----	Obj
+15	různých	AAIP2----1A----	Atr
+16	faktorů	NNIP2-----A----	Atr
+17	při	RR--6----------	AuxP
+18	integraci	NNFS6-----A----	Atr
+19	postkomunistických	AAFP2----1A----	Atr
+20	zemí	NNFP2-----A----	Atr
+21	do	RR--2----------	AuxP
+22	světové	AAFS2----1A----	Atr
+23	ekonomiky	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920901-122-p4s4
+1	"	Z:-------------	AuxG
+2	Jinými	AANP7----1A----	Atr
+3	slovy	NNNP7-----A----	ExD
+4	,	Z:-------------	ExD
+5	jde	VB-S---3P-AA---	Pred
+6	o	RR--4----------	AuxP
+7	to	PDNS4----------	Obj
+8	,	Z:-------------	AuxX
+9	co	PQ--4----------	Obj
+10	může	VB-S---3P-AA---	Atr
+11	udělat	Vf--------A----	Obj
+12	svět	NNIS1-----A----	Sb
+13	a	J^-------------	Coord
+14	co	PQ--4----------	ExD
+15	my	PP-P1--1-------	ExD
+16	.	Z:-------------	AuxK
+
+mf920901-122-p4s5
+1	Já	PP-S1--1-------	Sb
+2	samozřejmě	Dg-------1A----	AuxY
+3	zdůrazňuji	VB-S---1P-AA--1	Obj
+4	faktory	NNIP4-----A----	Obj
+5	domácí	AAIP4----1A----	Atr
+6	a	J^-------------	Coord
+7	zpochybňuji	VB-S---1P-AA--1	Obj
+8	faktory	NNIP4-----A----	Obj
+9	externí	AAIP4----1A----	Atr
+10	,	Z:-------------	Apos
+11	všechny	PLYP4----------	Atr
+12	možné	AAIP4----1A----	Atr
+13	druhy	NNIP4-----A----	Obj
+14	pomocí	NNFP2-----A----	Atr
+15	a	J^-------------	Coord
+16	nepomocí	NNFP2-----N----	Atr
+17	,	Z:-------------	AuxX
+18	"	Z:-------------	AuxG
+19	řekl	VpYS---XR-AA---	Pred
+20	Klaus	NNMS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+mf920901-122-p5s1
+1	Český	AAMS1----1A----	Atr
+2	premiér	NNMS1-----A----	Sb
+3	ze	RV--2----------	AuxP
+4	zasedání	NNNS2-----A----	Adv
+5	společnosti	NNFS2-----A----	Atr
+6	odletí	VB-S---3P-AA---	Pred
+7	do	RR--2----------	AuxP
+8	Toronta	NNNS2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	se	P7-X4----------	AuxT
+12	má	VB-S---3P-AA---	Atr
+13	sejít	Vf--------A----	Obj
+14	s	RR--7----------	AuxP
+15	předními	AAMP7----1A----	Atr
+16	kanadskými	AAMP7----1A----	Atr
+17	podnikateli	NNMP7-----A----	Obj
+18	.	Z:-------------	AuxK
+

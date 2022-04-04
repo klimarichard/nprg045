@@ -1,0 +1,152 @@
+ln95041-084-p1s1
+1	Důvěra	NNFS1-----A----	Sb
+2	občanů	NNMP2-----A----	Atr
+3	v	RR--4----------	AuxP
+4	radnice	NNFP4-----A----	Atr
+5	stoupá	VB-S---3P-AA---	Pred
+
+ln95041-084-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-084-p2s1B
+1	Důvěra	NNFS1-----A----	Sb
+2	obyvatelstva	NNNS2-----A----	Atr
+3	v	RR--4----------	AuxP
+4	obecní	AANP4----1A----	Atr
+5	zastupitelstva	NNNP4-----A----	Atr
+6	od	RR--2----------	AuxP
+7	podzimních	AAFP2----1A----	Atr
+8	komunálních	AAFP2----1A----	Atr
+9	voleb	NNFP2-----A----	Adv
+10	podle	RR--2----------	AuxP
+11	Institutu	NNIS2-----A----	Adv
+12	pro	RR--4----------	AuxP
+13	výzkum	NNIS4-----A----	Atr
+14	veřejného	AANS2----1A----	Atr
+15	mínění	NNNS2-----A----	Atr
+16	(	Z:-------------	Apos
+17	IVVM	NNIXX-----A---8	Adv
+18	)	Z:-------------	AuxG
+19	stoupla	VpQW---XR-AA--1	Pred
+20	.	Z:-------------	AuxK
+
+ln95041-084-p2s2
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	jeho	PSXXXZS3-------	Atr
+5	lednového	AAIS2----1A----	Atr
+6	průzkumu	NNIS2-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln95041-084-p3s1
+1	Zastupitelstvům	NNNP3-----A----	Obj
+2	vyslovilo	VpNS---XR-AA---	Pred
+3	důvěru	NNFS4-----A----	Obj
+4	letos	Db-------------	Adv
+5	55	C=-------------	Sb
+6	procent	NNNP2-----A----	Atr
+7	dotázaných	AAMP2----1A----	Atr
+8	,	Z:-------------	AuxX
+9	zatímco	J,-------------	AuxC
+10	loni	Db------------1	Adv
+11	v	RR--6----------	AuxP
+12	listopadu	NNIS6-----A----	Adv
+13	to	PDNS1----------	Sb
+14	bylo	VpNS---XR-AA---	Adv
+15	45	C=-------------	Pnom
+16	procent	NNNP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95041-084-p3s2
+1	Nedůvěru	NNFS4-----A----	Obj
+2	vyslovilo	VpNS---XR-AA---	Pred
+3	25	C=-------------	Sb
+4	procent	NNNP2-----A----	Atr
+5	respondentů	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	zatímco	J,-------------	AuxC
+8	loni	Db------------1	Adv
+9	to	PDNS1----------	Sb
+10	bylo	VpNS---XR-AA---	Adv
+11	42	C=-------------	Pnom
+12	procent	NNNP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95041-084-p3s3
+1	V	RR--6----------	AuxP
+2	názorech	NNIP6-----A----	Adv
+3	dotázaných	AAMP2----1A----	Atr
+4	se	P7-X4----------	AuxT
+5	projevila	VpQW---XR-AA---	Pred
+6	shoda	NNFS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	Čechách	NNFP6-----A----	Adv
+9	i	J^-------------	Coord
+10	na	RR--6----------	AuxP
+11	Moravě	NNFS6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln95041-084-p3s4
+1	Vyšší	AAFS1----2A----	Atr
+2	důvěra	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	projevila	VpQW---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	malých	AAFP6----1A----	Atr
+7	a	J^-------------	Coord
+8	středních	AAFP6----1A----	Atr
+9	obcích	NNFP6-----A----	Adv
+10	do	RR--2----------	AuxP
+11	5000	C=-------------	Atr
+12	obyvatel	NNMS1-----A----	Atr
+13	,	Z:-------------	AuxX
+14	kde	Db-------------	Adv
+15	obecním	AANP3----1A----	Atr
+16	zastupitelstvům	NNNP3-----A----	Obj
+17	důvěřuje	VB-S---3P-AA---	Atr
+18	65	C=-------------	Sb
+19	procent	NNNP2-----A----	Atr
+20	dotázaných	AAMP2----1A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95041-084-p3s5
+1	Výzkum	NNIS1-----A----	Sb
+2	nepotvrdil	VpYS---XR-NA---	Pred
+3	výraznější	AAIP4----2A----	Atr
+4	rozdíly	NNIP4-----A----	Obj
+5	mezi	RR--7----------	AuxP
+6	věkovými	AAFP7----1A----	Atr
+7	skupinami	NNFP7-----A----	Atr
+8	dotázaných	AAMP2----1A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95041-084-p3s6
+1	Větší	AAFS4----2A----	Atr
+2	rozhodnost	NNFS4-----A----	Obj
+3	podle	RR--2----------	AuxP
+4	Institutu	NNIS2-----A----	Adv
+5	pro	RR--4----------	AuxP
+6	výzkum	NNIS4-----A----	Atr
+7	veřejného	AANS2----1A----	Atr
+8	mínění	NNNS2-----A----	Atr
+9	vykázali	VpMP---XR-AA---	Pred
+10	především	Db-------------	AuxZ
+11	starší	AAMP1----2A----	Atr
+12	občané	NNMP1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	zatímco	J,-------------	AuxC
+15	mladší	AAMP1----2A----	ExD
+16	,	Z:-------------	Apos
+17	ve	RV--6----------	AuxP
+18	věku	NNIS6-----A----	ExD
+19	15	C=-------------	Atr
+20	až	J^-------------	Coord
+21	19	C=-------------	Atr
+22	let	NNNP2-----A----	Atr
+23	byli	VpMP---XR-AA---	Adv
+24	méně	Dg-------2A----	Adv
+25	rozhodní	AAMP1----1A----	Pnom
+26	.	Z:-------------	AuxK
+

@@ -1,0 +1,146 @@
+ln95046-116-p1s1
+1	Stock	NNIS1-----A----	Atr
+2	Consult	NNIS1-----A----	Sb
+3	důvěřuje	VB-S---3P-AA---	Pred
+4	movitým	AAMP3----1A----	Obj
+
+ln95046-116-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-116-p2s1B
+1	Společnost	NNFS1-----A----	Sb
+2	Stock	NNIS1-----A----	Atr
+3	Consult	NNIS1-----A----	Atr
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	působí	VB-S---3P-AA---	Atr
+7	v	RR--6----------	AuxP
+8	oblasti	NNFS6-----A----	AuxP
+9	kapitálových	AAIP2----1A----	Atr
+10	trhů	NNIP2-----A----	Adv
+11	zhruba	Db-------------	AuxZ
+12	rok	NNIS4-----A----	Adv
+13	,	Z:-------------	AuxX
+14	spravuje	VB-S---3P-AA---	Pred
+15	v	RR--6----------	AuxP
+16	současné	AAFS6----1A----	Atr
+17	době	NNFS6-----A----	Adv
+18	majetek	NNIS4-----A----	Obj
+19	okolo	RR--2----------	AuxP
+20	100	C=-------------	Atr
+21	miliónů	NNIP2-----A----	Atr
+22	korun	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95046-116-p2s2
+1	Počet	NNIS1-----A----	Sb
+2	klientů	NNMP2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	kterými	P4XP7----------	Pnom
+5	jsou	VB-P---3P-AA---	Atr
+6	jak	J,-------------	AuxY
+7	fyzické	AAFP1----1A----	Atr
+8	,	Z:-------------	AuxX
+9	tak	J^-------------	Coord
+10	i	J^-------------	AuxZ
+11	právnické	AAFP1----1A----	Atr
+12	osoby	NNFP1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	je	VB-S---3P-AA---	Pred
+15	nyní	Db-------------	Adv
+16	asi	TT-------------	AuxZ
+17	deset	Cn-S1----------	Pnom
+18	.	Z:-------------	AuxK
+
+ln95046-116-p3s1
+1	Hlavní	AAIS7----1A----	Atr
+2	oborem	NNIS7-----A----	Pnom
+3	působení	NNNS2-----A----	Atr
+4	společnosti	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	vedení	NNNS1-----A----	Sb
+7	a	J^-------------	Coord
+8	správa	NNFS1-----A----	Sb
+9	portfolií	NNNP2-----A----	Atr
+10	a	J^-------------	Coord
+11	činnosti	NNFP1-----A----	Sb
+12	s	RR--7----------	AuxP
+13	tím	PDZS7----------	Obj
+14	související	AGFP1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	tedy	Db-------------	Apos
+17	analýza	NNFS1-----A----	Sb
+18	cenných	AAIP2----1A----	Atr
+19	papírů	NNIP2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	investiční	AANS1----1A----	Atr
+22	poradenství	NNNS1-----A----	Sb
+23	a	J^-------------	Coord
+24	obchodování	NNNS1-----A----	Sb
+25	s	RR--7----------	AuxP
+26	cennými	AAIP7----1A----	Atr
+27	papíry	NNIP7-----A----	Atr
+28	pro	RR--4----------	AuxP
+29	potřeby	NNFP4-----A----	Atr
+30	portfolia	NNNS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95046-116-p3s2
+1	Firma	NNFS1-----A----	Sb
+2	neposkytuje	VB-S---3P-NA---	Pred
+3	služby	NNFP4-----A----	Obj
+4	drobným	AAMP3----1A----	Atr
+5	investorům	NNMP3-----A----	Obj
+6	,	Z:-------------	AuxX
+7	neboť	J^-------------	Coord
+8	se	P7-X4----------	AuxT
+9	zaměřuje	VB-S---3P-AA---	Pred
+10	hlavně	Dg-------1A----	AuxZ
+11	na	RR--4----------	AuxP
+12	střední	AAFS4----1A----	Atr
+13	a	J^-------------	Coord
+14	větší	AAFS4----2A----	Atr
+15	klientelu	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95046-116-p3s3
+1	V	RR--6----------	AuxP
+2	hodnotě	NNFS6-----A----	Adv
+3	portfolia	NNNS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	spodní	AAIS1----1A----	Atr
+6	limit	NNIS1-----A----	Sb
+7	pro	RR--4----------	AuxP
+8	správu	NNFS4-----A----	Atr
+9	5	C=-------------	Pnom
+10	mil	NNIXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	Kč	NNFXX-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95046-116-p3s5
+1	Společnost	NNFS1-----A----	Sb
+2	nenabízí	VB-S---3P-NA---	Pred
+3	žádný	PWIS4----------	Atr
+4	garantovaný	AAIS4----1A----	Atr
+5	výnos	NNIS4-----A----	Obj
+6	vloženého	AAIS2----1A----	Atr
+7	majetku	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ovšem	J^-------------	Coord
+10	odměnu	NNFS4-----A----	Obj
+11	si	P7-X3----------	Adv
+12	počítá	VB-S---3P-AA---	Pred
+13	pouze	Db-------------	AuxZ
+14	z	RR--2----------	AuxP
+15	vytvořené	AAFS2----1A----	Atr
+16	nadhodnoty	NNFS2-----A----	Adv
+17	převyšující	AGFS2-----A----	Atr
+18	10	C=-------------	Obj
+19	%	Z:-------------	Atr
+20	vložených	AAIP2----1A----	Atr
+21	prostředků	NNIP2-----A----	Atr
+22	klienta	NNMS2-----A----	Atr
+23	.	Z:-------------	AuxK
+

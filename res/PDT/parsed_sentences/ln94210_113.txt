@@ -1,0 +1,266 @@
+ln94210-113-p1s1
+1	Železného	NNMS2-----A----	Atr
+2	jablonecká	AAFS1----1A----	Atr
+3	eufórie	NNFS1-----A----	ExD
+
+ln94210-113-p2s1A
+1	Výborná	AAFS1----1A----	Atr
+2	atmosféra	NNFS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	mítinku	NNIS6-----A----	Atr
+5	Jablonecký	AAIS1----1A----	Atr
+6	oštěp	NNIS1-----A----	Atr
+7	'	Z:-------------	AuxG
+8	94	C=-------------	Atr
+
+ln94210-113-p2s1B
+1	Jablonec	NNIS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Nisou	NNFS7-----A----	Atr
+4	(	Z:-------------	ExD
+5	nov	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+ln94210-113-p2s1C
+1	Již	Db-------------	AuxZ
+2	prvním	CrIS7----------	Atr
+3	pokusem	NNIS7-----A----	Adv
+4	při	RR--6----------	AuxP
+5	mítinku	NNIS6-----A----	Atr
+6	Jablonecký	AAIS1----1A----	Atr
+7	oštěp	NNIS1-----A----	Atr
+8	'	Z:-------------	AuxG
+9	94	C=-------------	Atr
+10	rozhodl	VpYS---XR-AA--1	Pred
+11	světový	AAMS1----1A----	Atr
+12	rekordman	NNMS1-----A----	Atr
+13	Jan	NNMS1-----A----	Atr
+14	Železný	NNMS1-----A----	Sb
+15	o	RR--6----------	AuxP
+16	tom	PDZS6----------	Obj
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	se	P7-X4----------	AuxT
+20	stal	VpYS---XR-AA---	Atr
+21	majitelem	NNMS7-----A----	Obj
+22	vozu	NNIS2-----A----	Atr
+23	Audi	NNNXX-----A----	Atr
+24	80	C=-------------	Atr
+25	.	Z:-------------	AuxK
+
+ln94210-113-p2s2
+1	Ten	PDYS1----------	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	vypsán	VsYS---XX-AP---	Pred
+4	jako	J,-------------	AuxY
+5	cena	NNFS1-----A----	Atv
+6	pro	RR--4----------	AuxP
+7	vítěze	NNMS4-----A----	Atr
+8	soutěže	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	se	P7-X4----------	AuxR
+12	včera	Db-------------	Adv
+13	večer	Db-------------	Adv
+14	uskutečnila	VpQW---XR-AA---	Atr
+15	při	RR--6----------	AuxP
+16	výborné	AAFS6----1A----	Atr
+17	atmosféře	NNFS6-----A----	Adv
+18	a	J^-------------	Coord
+19	krásné	AAFS6----1A----	Atr
+20	divácké	AAFS6----1A----	Atr
+21	návštěvě	NNFS6-----A----	Adv
+22	na	RR--6----------	AuxP
+23	jablonecké	AAFS6----1A----	Atr
+24	Střelnici	NNFS6-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln94210-113-p2s3
+1	Železný	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	hned	Db-------------	AuxZ
+4	prvním	CrIS7----------	Atr
+5	pokusem	NNIS7-----A----	Adv
+6	(	Z:-------------	AuxG
+7	85.92	C=-------------	Atr
+8	m	NNIXX-----A---8	Atr
+9	)	Z:-------------	AuxG
+10	ujal	VpYS---XR-AA---	Pred
+11	vedení	NNNS2-----A----	Obj
+12	a	J^-------------	Coord
+13	už	Db-------------	AuxZ
+14	tento	PDYS1----------	Atr
+15	výkon	NNIS1-----A----	Sb
+16	by	Vc-------------	AuxV
+17	znamenal	VpYS---XR-AA---	Pred
+18	za	RR--2----------	AuxP
+19	improvizovaného	AANS2----1A----	Atr
+20	umělého	AANS2----1A----	Atr
+21	osvětlení	NNNS2-----A----	Adv
+22	vítězství	NNNS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94210-113-p3s1
+1	Konkurence	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	byť	J,-------------	AuxC
+4	proti	RR--3----------	AuxP
+5	původním	AAIP3----1A----	Atr
+6	předpokladům	NNIP3-----A----	Adv
+7	zúžená	AAFS1----1A----	ExD
+8	z	RR--2----------	AuxP
+9	jedenácti	Cn-P2----------	Atr
+10	vrhačů	NNMP2-----A----	Obj
+11	na	RR--4----------	AuxP
+12	sedm	Cn-S4----------	ExD
+13	(	Z:-------------	AuxG
+14	nepřijel	VpYS---XR-NA---	Pred
+15	Fin	NNMS1-----A----	Atr
+16	Räty	NNMS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	Rus	NNMS1-----A----	Atr
+19	Morujev	NNMS1-----A----	Sb
+20	,	Z:-------------	AuxX
+21	Ir	NNMS1-----A----	Atr
+22	McHugh	NNMS1-----A----	Sb
+23	a	J^-------------	Coord
+24	Němec	NNMS1-----A----	Atr
+25	Michel	NNMS1-----A----	Sb
+26	)	Z:-------------	AuxG
+27	,	Z:-------------	AuxX
+28	však	J^-------------	Coord
+29	olympijskému	AAMS3----1A----	Atr
+30	vítězi	NNMS3-----A----	Adv
+31	a	J^-------------	Coord
+32	mistru	NNMS3-----A---1	Adv
+33	světa	NNIS2-----A----	Atr
+34	šlapala	VpQW---XR-AA---	Pred
+35	na	RR--4----------	AuxP
+36	paty	NNFP4-----A----	Adv
+37	.	Z:-------------	AuxK
+
+ln94210-113-p3s2
+1	I	J^-------------	AuxZ
+2	tak	J^-------------	Adv
+3	bylo	VpNS---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	soutěži	NNFS6-----A----	Adv
+6	pět	Cn-S1----------	Sb
+7	finalistů	NNMP2-----A----	Atr
+8	letošního	AANS2----1A----	Atr
+9	ME	NNNXX-----A---8	Atr
+10	v	RR--6----------	AuxP
+11	Helsinkách	NNFP6-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94210-113-p3s3
+1	Ve	RV--6----------	AuxP
+2	druhém	CrIS6----------	Atr
+3	pokusu	NNIS6-----A---1	Adv
+4	se	P7-X4----------	AuxT
+5	zlepšil	VpYS---XR-AA---	Pred
+6	Švéd	NNMS1-----A----	Atr
+7	Bodén	NNMS1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	84.62	C=-------------	Adv
+10	a	J^-------------	Coord
+11	v	RR--6----------	AuxP
+12	pátém	CrIS6----------	ExD
+13	Němec	NNMS1-----A----	Atr
+14	Hecht	NNMS1-----A----	ExD
+15	na	RR--4----------	AuxP
+16	84.70	C=-------------	ExD
+17	.	Z:-------------	AuxK
+
+ln94210-113-p3s4
+1	Jan	NNMS1-----A----	Atr
+2	Železný	NNMS1-----A----	Sb
+3	měl	VpYS---XR-AA---	Pred
+4	celkem	Db-------------	Adv
+5	čtyři	ClXP4----------	Atr
+6	platné	AAIP4----1A----	Atr
+7	pokusy	NNIP4-----A----	Obj
+8	přes	RR--4----------	AuxP
+9	osmdesát	Cn-S4----------	Atr
+10	metrů	NNIP2-----A----	Atr
+11	a	J^-------------	Coord
+12	ve	RV--6----------	AuxP
+13	čtvrté	CrFS6----------	Atr
+14	sérii	NNFS6-----A----	Adv
+15	explodoval	VpYS---XR-AA---	Pred
+16	zlepšením	NNNS7-----A----	Adv
+17	na	RR--4----------	AuxP
+18	vítězných	AAIP2----1A----	Atr
+19	87.22	C=-------------	Atr
+20	.	Z:-------------	AuxK
+
+ln94210-113-p3s5
+1	Ještě	Db-------------	AuxZ
+2	před	RR--7----------	AuxP
+3	závodem	NNIS7-----A----	Adv
+4	říkal	VpYS---XR-AA---	Pred
+5	:	Z:-------------	AuxG
+6	Doufám	VB-S---1P-AA---	Obj
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	se	P7-X4----------	AuxT
+10	mi	PH-S3--1-------	Obj
+11	podaří	VB-S---3P-AA---	Obj
+12	nějaký	PZYS1----------	Atr
+13	výborný	AAIS1----1A----	Atr
+14	pokus	NNIS1-----A----	Sb
+15	,	Z:-------------	Coord
+16	jsem	VB-S---1P-AA---	Obj
+17	nervóznější	AAMS1----2A----	Pnom
+18	než	J,-------------	AuxC
+19	před	RR--7----------	AuxP
+20	helsinským	AANS7----1A----	Atr
+21	finále	NNNXX-----A----	ExD
+22	.	Z:-------------	AuxK
+
+ln94210-113-p3s6
+1	Po	RR--6----------	AuxP
+2	posledním	AAIS6----1A----	Atr
+3	pokusu	NNIS6-----A---1	Adv
+4	ještě	Db-------------	AuxZ
+5	na	RR--6----------	AuxP
+6	ploše	NNFS6-----A----	Adv
+7	v	RR--6----------	AuxP
+8	eufórii	NNFS6-----A----	Adv
+9	před	RR--7----------	AuxP
+10	čestným	AANS7----1A----	Atr
+11	kolečkem	NNNS7-----A----	Atr
+12	dodal	VpYS---XR-AA---	Pred
+13	:	Z:-------------	AuxG
+14	Je	VB-S---3P-AA---	Obj
+15	to	PDNS1----------	Sb
+16	můj	PSYS1-S1-------	Atr
+17	největší	AAIS1----3A----	Atr
+18	domácí	AAIS1----1A----	Atr
+19	závod	NNIS1-----A----	Pnom
+20	a	J^-------------	Coord
+21	nikde	Db-------------	Adv
+22	ve	RV--6----------	AuxP
+23	světě	NNIS6-----A----	Adv
+24	jsem	VB-S---1P-AA---	AuxV
+25	nic	PW--4----------	Obj
+26	podobného	AANS2----1A----	Atr
+27	nezažil	VpYS---XR-NA---	Obj
+28	.	Z:-------------	AuxK
+
+ln94210-113-p3s7
+1	V	RR--6----------	AuxP
+2	jabloneckém	AAIS6----1A----	Atr
+3	dresu	NNIS6-----A---1	Adv
+4	chci	VB-S---1P-AA---	Pred
+5	závodit	Vf--------A----	Obj
+6	i	J^-------------	AuxZ
+7	dále	Db------------1	Adv
+8	a	J^-------------	Coord
+9	už	Db-------------	Adv
+10	odtud	Db-------------	Adv
+11	nikam	Db-------------	Adv
+12	neodejdu	VB-S---1P-NA---	Pred
+13	.	Z:-------------	AuxK
+

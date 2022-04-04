@@ -1,0 +1,244 @@
+ln95049-127-p1s1
+1	Prudký	AAIS1----1A----	Atr
+2	růst	NNIS1-----A----	ExD
+3	maďarského	AAIS2----1A----	Atr
+4	průmyslu	NNIS2-----A----	Atr
+
+ln95049-127-p2s1A
+1	Budapešť	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-127-p2s1B
+1	Maďarská	AAFS1----1A----	Atr
+2	průmyslová	AAFS1----1A----	Atr
+3	výroba	NNFS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	v	RR--6----------	AuxP
+6	loňském	AAIS6----1A----	Atr
+7	roce	NNIS6-----A---1	Adv
+8	zvýšila	VpQW---XR-AA---	Pred
+9	o	RR--4----------	AuxP
+10	devět	Cn-S4----------	Adv
+11	procent	NNNP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	porovnání	NNNS6-----A----	AuxP
+14	s	RR--7----------	AuxP
+15	rokem	NNIS7-----A----	Adv
+16	1993	C=-------------	Atr
+17	.	Z:-------------	AuxK
+
+ln95049-127-p2s2
+1	Ve	RV--6----------	AuxP
+2	stavebnictví	NNNS6-----A----	Adv
+3	byl	VpYS---XR-AA---	AuxV
+4	zaznamenán	VsYS---XX-AP---	Pred
+5	dokonce	Db-------------	AuxZ
+6	dvacetiprocentní	AAIS1----1A----	Atr
+7	přírůstek	NNIS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95049-127-p2s3
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	údajů	NNIP2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	které	P4YP4----------	Obj
+7	v	RR--4----------	AuxP
+8	pátek	NNIS4-----A----	Adv
+9	zveřejnil	VpYS---XR-AA---	Atr
+10	centrální	AAIS1----1A----	Atr
+11	statistický	AAIS1----1A----	Atr
+12	úřad	NNIS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln95049-127-p3s1
+1	Kapitálové	AAFP1----1A----	Atr
+2	investice	NNFP1-----A----	Sb
+3	dosáhly	VpTP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	loňském	AAIS6----1A----	Atr
+6	roce	NNIS6-----A---1	Adv
+7	800	C=-------------	Obj
+8	miliónů	NNIP2-----A----	Atr
+9	HUF	NNIXX-----A---8	Atr
+10	(	Z:-------------	Apos
+11	74	C=-------------	Obj
+12	miliónů	NNIP2-----A----	Atr
+13	ATS	NNIXX-----A---8	Atr
+14	)	Z:-------------	AuxG
+15	,	Z:-------------	Coord
+16	což	PE--1----------	Sb
+17	je	VB-S---3P-AA---	Pred
+18	oproti	RR--3----------	AuxP
+19	předcházejícímu	AGIS3-----A----	Atr
+20	roku	NNIS3-----A----	Adv
+21	o	RR--4----------	AuxP
+22	deset	Cn-S4----------	Adv
+23	procent	NNNP2-----A----	Atr
+24	více	Dg-------2A----	Pnom
+25	.	Z:-------------	AuxK
+
+ln95049-127-p3s2
+1	Spotřební	AAFP1----1A----	Atr
+2	ceny	NNFP1-----A----	Sb
+3	stouply	VpTP---XR-AA--1	Pred
+4	v	RR--6----------	AuxP
+5	meziročním	AANS6----1A----	Atr
+6	srovnání	NNNS6-----A----	Adv
+7	o	RR--4----------	AuxP
+8	18.8	C=-------------	Adv
+9	procenta	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	zatímco	J,-------------	AuxC
+12	v	RR--6----------	AuxP
+13	roce	NNIS6-----A---1	Adv
+14	1993	C=-------------	Atr
+15	dosáhla	VpQW---XR-AA---	Adv
+16	míra	NNFS1-----A----	Sb
+17	inflace	NNFS2-----A----	Atr
+18	22.5	C=-------------	Obj
+19	procenta	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95049-127-p3s3
+1	Spotřeba	NNFS1-----A----	Sb
+2	elektrické	AAFS2----1A----	Atr
+3	energie	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	zvýšila	VpQW---XR-AA---	Pred
+6	o	RR--4----------	AuxP
+7	1.9	C=-------------	Adv
+8	procenta	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95049-127-p4s1
+1	Počet	NNIS1-----A----	Sb
+2	zaměstnaných	AAFP2----1A----	Atr
+3	osob	NNFP2-----A----	Atr
+4	klesl	VpYS---XR-AA--1	Pred
+5	loni	Db------------1	Adv
+6	o	RR--4----------	AuxP
+7	dvě	ClHP4----------	Atr
+8	procenta	NNNP4-----A----	Adv
+9	,	Z:-------------	Coord
+10	což	PE--1----------	Sb
+11	znamená	VB-S---3P-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	v	RR--6----------	AuxP
+15	Maďarsku	NNNS6-----A----	Adv
+16	loni	Db------------1	Adv
+17	pracovaly	VpTP---XR-AA---	Obj
+18	asi	TT-------------	AuxZ
+19	čtyři	ClXP1----------	Atr
+20	milióny	NNIP1-----A----	Sb
+21	osob	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95049-127-p4s2
+1	Počet	NNIS1-----A----	Sb
+2	nezaměstnaných	NNMP2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	oproti	RR--3----------	AuxP
+5	roku	NNIS3-----A----	Adv
+6	1993	C=-------------	Atr
+7	zvýšil	VpYS---XR-AA---	Pred
+8	o	RR--4----------	AuxP
+9	13	C=-------------	Adv
+10	%	Z:-------------	Atr
+11	.	Z:-------------	AuxK
+
+ln95049-127-p4s3
+1	Průměrný	AAIS1----1A----	Atr
+2	hrubý	AAIS1----1A----	Atr
+3	měsíční	AAIS1----1A----	Atr
+4	plat	NNIS1-----A----	Sb
+5	loni	Db------------1	Adv
+6	stoupl	VpYS---XR-AA--1	Pred
+7	o	RR--4----------	AuxP
+8	24.7	C=-------------	Adv
+9	%	Z:-------------	Atr
+10	.	Z:-------------	AuxK
+
+ln95049-127-p4s4
+1	Průměrný	AAIS1----1A----	Atr
+2	čistý	AAIS1----1A----	Atr
+3	plat	NNIS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	zvýšil	VpYS---XR-AA---	Pred
+6	dokonce	Db-------------	AuxZ
+7	o	RR--4----------	AuxP
+8	27.1	C=-------------	Adv
+9	%	Z:-------------	Atr
+10	,	Z:-------------	AuxX
+11	reálně	Dg-------1A----	Adv
+12	však	J^-------------	Coord
+13	stoupl	VpYS---XR-AA--1	Pred
+14	pouze	Db-------------	AuxZ
+15	o	RR--4----------	AuxP
+16	7	C=-------------	Adv
+17	%	Z:-------------	Atr
+18	.	Z:-------------	AuxK
+
+ln95049-127-p5s1
+1	V	RR--6----------	AuxP
+2	zahraničním	AAIS6----1A----	Atr
+3	obchodu	NNIS6-----A---1	Adv
+4	došlo	VpNS---XR-AA---	Pred
+5	ke	RV--3----------	AuxP
+6	zvýšení	NNNS3-----A----	Obj
+7	importu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	v	RR--6----------	AuxP
+10	jehož	P1XXXZS3-------	Atr
+11	důsledku	NNIS6-----A----	Adv
+12	vykázala	VpQW---XR-AA---	Atr
+13	loňská	AAFS1----1A----	Atr
+14	obchodní	AAFS1----1A----	Atr
+15	bilance	NNFS1-----A----	Sb
+16	deficit	NNIS4-----A----	Obj
+17	408	C=-------------	Atr
+18	miliard	NNFP2-----A----	Atr
+19	HUF	NNIXX-----A---8	Atr
+20	,	Z:-------------	Coord
+21	což	PE--1----------	Sb
+22	bylo	VpNS---XR-AA---	Atr
+23	o	RR--4----------	AuxP
+24	66	C=-------------	Adv
+25	miliard	NNFP2-----A----	Atr
+26	forintů	NNIP2-----A----	Atr
+27	více	Dg-------2A----	Pnom
+28	než	J,-------------	AuxC
+29	v	RR--6----------	AuxP
+30	předchozím	AAIS6----1A----	Atr
+31	roce	NNIS6-----A---1	ExD
+32	.	Z:-------------	AuxK
+
+ln95049-127-p5s2
+1	Deficit	NNIS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	obchodní	AAFS6----1A----	Atr
+4	bilanci	NNFS6-----A----	Atr
+5	měl	VpYS---XR-AA---	Pred
+6	za	RR--4----------	AuxP
+7	následek	NNIS4-----A----	Obj
+8	i	J^-------------	AuxZ
+9	deficit	NNIS4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	platební	AAFS6----1A----	Atr
+12	bilanci	NNFS6-----A----	Atr
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	v	RR--6----------	AuxP
+16	období	NNNS6-----A----	AuxP
+17	ledna	NNIS2-----A----	Adv
+18	až	J^-------------	Coord
+19	listopadu	NNIS2-----A----	Adv
+20	1994	C=-------------	Atr
+21	dosáhl	VpYS---XR-AA---	Atr
+22	3.4	C=-------------	Obj
+23	miliardy	NNFS2-----A----	Atr
+24	USD	NNIXX-----A---8	Atr
+25	.	Z:-------------	AuxK
+

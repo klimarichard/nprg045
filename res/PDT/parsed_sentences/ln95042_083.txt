@@ -1,0 +1,160 @@
+ln95042-083-p1s1
+1	Objevují	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	další	AAFP1----1A----	Atr
+4	padělané	AAFP1----1A----	Atr
+5	bankovky	NNFP1-----A----	Sb
+
+ln95042-083-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95042-083-p2s1B
+1	Padělaná	AAFS1----1A----	Atr
+2	tisícikorunová	AAFS1----1A----	Atr
+3	bankovka	NNFS1-----A----	Sb
+4	se	RV--7----------	AuxP
+5	známým	AANS7----1A----	Atr
+6	koncovým	AANS7----1A----	Atr
+7	čtyřčíslím	NNNS7-----A----	Atr
+8	7795	C=-------------	Atr
+9	byla	VpQW---XR-AA---	AuxV
+10	zachycena	VsQW---XX-AP---	Pred
+11	ve	RV--4----------	AuxP
+12	čtvrtek	NNIS4-----A----	Adv
+13	v	RR--6----------	AuxP
+14	obci	NNFS6-----A----	Adv
+15	Lužice	NNFS1-----A----	Atr
+16	(	Z:-------------	ExD
+17	okres	NNIS1-----A----	ExD
+18	Hodonín	NNIS1-----A----	Atr
+19	)	Z:-------------	ExD
+20	.	Z:-------------	AuxK
+
+ln95042-083-p2s2
+1	Další	AAIS1----1A----	Atr
+2	padělek	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	již	Db-------------	AuxZ
+5	devátý	CrIS1----------	Atr
+6	na	RR--6----------	AuxP
+7	jižní	AAFS6----1A----	Atr
+8	Moravě	NNFS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	byl	VpYS---XR-AA---	AuxV
+11	zajištěn	VsYS---XX-AP---	Pred
+12	stejný	AAIS4----1A----	Atr
+13	den	NNIS4-----A----	Adv
+14	ve	RV--6----------	AuxP
+15	Žďáru	NNIS6-----A----	Adv
+16	nad	RR--7----------	AuxP
+17	Sázavou	NNFS7-----A----	Atr
+18	,	Z:-------------	AuxX
+19	avšak	J^-------------	Coord
+20	s	RR--7----------	AuxP
+21	neobvyklým	AANS7----1N----	Atr
+22	čtyřčíslím	NNNS7-----A----	ExD
+23	7735	C=-------------	Atr
+24	.	Z:-------------	AuxK
+
+ln95042-083-p2s3
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	potvrdila	VpQW---XR-AA---	Pred
+4	tisková	AAFS1----1A----	Atr
+5	mluvčí	NNFS1-----A----	Atr
+6	správy	NNFS2-----A----	Atr
+7	jihomoravské	AAFS2----1A----	Atr
+8	policie	NNFS2-----A----	Atr
+9	Jaroslava	NNFS1-----A----	Atr
+10	Vitásková	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95042-083-p2s4
+1	V	RR--6----------	AuxP
+2	Lužici	NNFS6-----A----	Adv
+3	zaplatil	VpYS---XR-AA---	Pred
+4	bankovkou	NNFS7-----A----	Obj
+5	neznámý	NNMS1-----A----	Atr
+6	řidič	NNMS1-----A----	Sb
+7	u	RR--2----------	AuxP
+8	benzínového	AANS2----1A----	Atr
+9	čerpadla	NNNS2-----A----	Adv
+10	,	Z:-------------	Coord
+11	ve	RV--6----------	AuxP
+12	Žďáru	NNIS6-----A----	Adv
+13	objevil	VpYS---XR-AA---	Pred
+14	padělek	NNIS4-----A----	Obj
+15	majitel	NNMS1-----A----	Sb
+16	prodejny	NNFS2-----A----	Atr
+17	Lola	NNFS1-----A----	Atr
+18	při	RR--6----------	AuxP
+19	kontrole	NNFS6-----A----	Adv
+20	tržby	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95042-083-p2s5
+1	V	RR--6----------	AuxP
+2	předchozích	AAIP6----1A----	Atr
+3	dnech	NNIP6-----A----	Adv
+4	bylo	VpNS---XR-AA---	AuxV
+5	na	RR--6----------	AuxP
+6	jižní	AAFS6----1A----	Atr
+7	Moravě	NNFS6-----A----	Adv
+8	zachyceno	VsNS---XX-AP---	Pred
+9	sedm	Cn-S1----------	Sb
+10	zdařilých	AAIP2----1A----	Atr
+11	padělků	NNIP2-----A----	Atr
+12	tisícikorun	NNFP2-----A----	Atr
+13	s	RR--7----------	AuxP
+14	koncovým	AANS7----1A----	Atr
+15	čtyřčíslím	NNNS7-----A----	Atr
+16	7795	C=-------------	Atr
+17	,	Z:-------------	AuxX
+18	kterým	P4XP3----------	Obj
+19	chyběl	VpYS---XR-AA---	AtrAtr
+20	pouze	Db-------------	AuxZ
+21	vodotisk	NNIS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln95042-083-p2s6
+1	Padělanými	AAFP7----1A----	Atr
+2	bankovkami	NNFP7-----A----	Obj
+3	platila	VpQW---XR-AA---	Pred
+4	také	Db-------------	Adv
+5	7	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	února	NNIS2-----A---1	Adv
+8	neznámá	AAFS1----1N----	Atr
+9	žena	NNFS1-----A----	Sb
+10	i	J^-------------	AuxZ
+11	v	RR--6----------	AuxP
+12	několika	Ca--6----------	Atr
+13	prodejnách	NNFP6-----A----	Adv
+14	na	RR--6----------	AuxP
+15	Jindřichohradecku	NNNS6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95042-083-p2s7
+1	Další	AAIS4----1A----	Atr
+2	padělek	NNIS4-----A----	Obj
+3	zjistila	VpQW---XR-AA---	Pred
+4	10	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	února	NNIS2-----A---1	Adv
+7	pokladní	AAFS1----1A----	Sb
+8	KB	NNFXX-----A---8	Atr
+9	v	RR--6----------	AuxP
+10	Jindřichově	AUIS6M---------	Atr
+11	Hradci	NNIS6-----A----	AtrAdv
+12	při	RR--6----------	AuxP
+13	odvodu	NNIS6-----A----	Adv
+14	tržby	NNFS2-----A----	Atr
+15	benzínového	AANS2----1A----	Atr
+16	čerpadla	NNNS2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	tomto	PDZS6----------	Atr
+19	okresním	AANS6----1A----	Atr
+20	městě	NNNS6-----A----	AtrAtr
+21	.	Z:-------------	AuxK
+

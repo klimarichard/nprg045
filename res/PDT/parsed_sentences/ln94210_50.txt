@@ -1,0 +1,157 @@
+ln94210-50-p1s1
+1	R	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Falbr	NNMS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	proti	RR--3----------	AuxP
+6	mzdové	AAFS3----1A----	Atr
+7	regulaci	NNFS3-----A----	Adv
+
+ln94210-50-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94210-50-p2s1B
+1	Nadcházející	AGNS1-----A----	Atr
+2	projednávání	NNNS1-----A----	Sb
+3	návrhu	NNIS2-----A----	Atr
+4	zákona	NNIS2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	státním	AAIS6----1A----	Atr
+7	rozpočtu	NNIS6-----A----	Atr
+8	by	Vc-------------	AuxV
+9	mohlo	VpNS---XR-AA---	Pred
+10	být	Vf--------A----	Obj
+11	podle	RR--2----------	AuxP
+12	předsedy	NNMS2-----A----	Atr
+13	ČMKOS	NNFXX-----A---8	Atr
+14	Richarda	NNMS2-----A----	Atr
+15	Falbra	NNMS2-----A----	Adv
+16	příležitostí	NNFS7-----A----	Pnom
+17	k	RR--3----------	AuxP
+18	odstranění	NNNS3-----A----	Atr
+19	ustanovení	NNNS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	které	P4NS1----------	Sb
+22	umožňuje	VB-S---3P-AA---	Atr
+23	mzdovou	AAFS4----1A----	Atr
+24	regulaci	NNFS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln94210-50-p2s2
+1	Falbr	NNMS1-----A----	Sb
+2	uvedl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	názor	NNIS1-----A----	Sb
+6	vládní	AAFS2----1A----	Atr
+7	strany	NNFS2-----A----	Atr
+8	je	VB-S---3P-AA---	Obj
+9	znám	ACYS------A----	Pnom
+10	a	J^-------------	Coord
+11	že	J,-------------	AuxC
+12	mzdová	AAFS1----1A----	Atr
+13	regulace	NNFS1-----A----	Sb
+14	se	P7-X4----------	AuxR
+15	bagatelizuje	VB-S---3P-AA---	Obj
+16	vlastně	Db-------------	AuxY
+17	jakoby	J,-------------	AuxY
+18	téměř	Db-------------	AuxZ
+19	bezvýznamná	AAFS1----1A----	Atv
+20	,	Z:-------------	AuxX
+21	takže	J,-------------	AuxC
+22	to	PDNS1----------	Sb
+23	je	VB-S---3P-AA---	Adv
+24	další	AAIS1----1A----	Atr
+25	argument	NNIS1-----A----	Pnom
+26	proti	RR--3----------	AuxP
+27	tomu	PDZS3----------	Atr
+28	,	Z:-------------	AuxX
+29	aby	J,-------------	AuxC
+30	vůbec	Db-------------	AuxZ
+31	existovala	VpQW---XR-AA---	Atr
+32	.	Z:-------------	AuxK
+
+ln94210-50-p2s3
+1	Mzdovou	AAFS4----1A----	Atr
+2	regulaci	NNFS4-----A----	Obj
+3	označil	VpYS---XR-AA---	Pred
+4	za	RR--4----------	AuxP
+5	protiústavní	AANS4----1A----	Atr
+6	opatření	NNNS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln94210-50-p2s4
+1	Uvedl	VpYS---XR-AA---	Pred
+2	rovněž	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	odborářům	NNMP3-----A----	Obj
+6	mzdová	AAFS1----1A----	Atr
+7	regulace	NNFS1-----A----	Sb
+8	nesmírně	Dg-------1A----	Adv
+9	ztěžuje	VB-S---3P-AA---	Obj
+10	kolektivní	AANS4----1A----	Atr
+11	vyjednávání	NNNS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94210-50-p2s5
+1	Za	RR--4----------	AuxP
+2	jeden	ClIS4----------	Obj
+3	z	RR--2----------	AuxP
+4	největších	AAIP2----3A----	Atr
+5	a	J^-------------	Coord
+6	nejožehavějších	AAIP2----3A----	Atr
+7	nadcházejících	AGIP2-----A----	Atr
+8	problémů	NNIP2-----A----	Atr
+9	označil	VpYS---XR-AA---	Pred
+10	Falbr	NNMS1-----A----	Sb
+11	přípravu	NNFS4-----A----	Obj
+12	nového	AAIS2----1A----	Atr
+13	systému	NNIS2-----A----	Atr
+14	důchodového	AANS2----1A----	Atr
+15	zabezpečení	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94210-50-p2s6
+1	Vláda	NNFS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měla	VpQW---XR-AA---	Obj
+4	plnit	Vf--------A----	Obj
+5	své	P8NS4---------1	Atr
+6	vládní	AANS4----1A----	Atr
+7	prohlášení	NNNS4-----A----	Obj
+8	a	J^-------------	Coord
+9	vytvořit	Vf--------A----	Obj
+10	nezávislý	AAIS4----1N----	Atr
+11	fond	NNIS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	řekl	VpYS---XR-AA---	Pred
+14	.	Z:-------------	AuxK
+
+ln94210-50-p2s7
+1	Negativní	AAIP4----1A----	Atr
+2	důsledky	NNIP4-----A----	Obj
+3	měl	VpYS---XR-AA---	Pred
+4	prý	TT-------------	AuxY
+5	také	Db-------------	AuxZ
+6	vládou	NNFS7-----A----	Obj
+7	prosazovaný	AAIS1----1A----	Atr
+8	zákaz	NNIS1-----A----	Sb
+9	odborů	NNIP2-----A----	Atr
+10	ve	RV--6----------	AuxP
+11	státní	AAFS6----1A----	Atr
+12	službě	NNFS6-----A----	Atr
+13	,	Z:-------------	AuxX
+14	neboť	J^-------------	Coord
+15	v	RR--6----------	AuxP
+16	některých	PZXP6----------	Atr
+17	podnicích	NNIP6-----A----	Adv
+18	byla	VpQW---XR-AA---	AuxV
+19	činnost	NNFS1-----A----	Sb
+20	odborů	NNIP2-----A----	Atr
+21	omezena	VsQW---XX-AP---	Pred
+22	či	J^-------------	Coord
+23	zakázána	VsQW---XX-AP---	Pred
+24	.	Z:-------------	AuxK
+

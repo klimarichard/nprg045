@@ -1,0 +1,158 @@
+lnd94101-023-p1s1
+1	Brno	NNNS1-----A----	Sb
+2	chce	VB-S---3P-AA---	Pred
+3	vydat	Vf--------A----	Obj
+4	obligace	NNFP4-----A----	Obj
+
+lnd94101-023-p1s2
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	škr	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	gap	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+lnd94101-023-p1s3
+1	S	RR--7----------	AuxP
+2	pomocí	NNFS7-----A----	Adv
+3	obligací	NNFP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	jejichž	P1XXXXP3-------	Atr
+6	zkušební	AAFS4----1A----	Atr
+7	emisi	NNFS4-----A----	Obj
+8	hodlá	VB-S---3P-AA---	Atr
+9	brněnská	AAFS1----1A----	Atr
+10	radnice	NNFS1-----A----	Sb
+11	vydat	Vf--------A----	Obj
+12	letos	Db-------------	Adv
+13	na	RR--4----------	AuxP
+14	podzim	NNIS4-----A----	Adv
+15	,	Z:-------------	AuxX
+16	mají	VB-P---3P-AA---	Pred
+17	být	Vf--------A----	AuxV
+18	financovány	VsTP---XX-AP---	Obj
+19	dlouhodobé	AAIP1----1A----	Atr
+20	rozvojové	AAIP1----1A----	Atr
+21	projekty	NNIP1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	na	RR--4----------	AuxP
+24	které	P4YP4----------	Obj
+25	běžný	AAIS1----1A----	Atr
+26	roční	AAIS1----1A----	Atr
+27	rozpočet	NNIS1-----A----	Sb
+28	nestačí	VB-S---3P-NA---	Atr
+29	.	Z:-------------	AuxK
+
+lnd94101-023-p1s4
+1	Jde	VB-S---3P-AA---	Pred
+2	mimo	RR--4----------	AuxP
+3	jiné	AANS4----1A----	Adv
+4	o	RR--4----------	AuxP
+5	rychlodráhu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	výstavbu	NNFS4-----A----	Obj
+8	Jižního	AANS2----1A----	Atr
+9	centra	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	opravy	NNFP4-----A----	Obj
+12	městských	AAFP2----1A----	Atr
+13	komunikací	NNFP2-----A----	Atr
+14	či	J^-------------	Coord
+15	rozšíření	NNNS4-----A----	Obj
+16	brněnského	AANS2----1A----	Atr
+17	letiště	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94101-023-p1s5
+1	O	RR--6----------	AuxP
+2	koncepci	NNFS6-----A----	Obj
+3	návrhu	NNIS2-----A----	Atr
+4	na	RR--4----------	AuxP
+5	vydání	NNNS4-----A----	Atr
+6	městských	AAFP2----1A----	Atr
+7	obligací	NNFP2-----A----	Atr
+8	(	Z:-------------	ExD
+9	především	Db-------------	ExD
+10	objemu	NNIS6-----A----	ExD
+11	vydaných	AAFP2----1A----	Atr
+12	akcií	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	podmínkách	NNFP6-----A----	ExD
+15	jejich	PSXXXXP3-------	Atr
+16	splatnosti	NNFS2-----A----	Atr
+17	)	Z:-------------	ExD
+18	má	VB-S---3P-AA---	Pred
+19	rozhodnout	Vf--------A----	Obj
+20	do	RR--2----------	AuxP
+21	konce	NNIS2-----A----	Adv
+22	května	NNIS2-----A----	Atr
+23	Rada	NNFS1-----A----	Sb
+24	města	NNNS2-----A----	Atr
+25	Brna	NNNS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	která	P4FS1----------	Sb
+28	vybere	VB-S---3P-AA---	Atr
+29	i	J^-------------	AuxZ
+30	partnera	NNMS4-----A----	Obj
+31	,	Z:-------------	AuxX
+32	s	RR--7----------	AuxP
+33	jehož	P1XXXZS3-------	Atr
+34	pomocí	NNFS7-----A----	Adv
+35	obligace	NNFP4-----A----	Obj
+36	vydá	VB-S---3P-AA---	Atr
+37	.	Z:-------------	AuxK
+
+lnd94101-023-p1s6
+1	Nejvážnějšími	AAMP7----3A----	Atr
+2	kandidáty	NNMP7-----A----	Pnom
+3	jsou	VB-P---3P-AA---	Pred
+4	americké	AAFP1----1A----	Atr
+5	společnosti	NNFP1-----A----	Sb
+6	Merrill	NNIS1-----A----	Atr
+7	Lynch	NNMS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Salomon	NNMS1-----A----	Atr
+10	Brothers	NNMP1-----A----	Atr
+11	a	J^-------------	Coord
+12	rakouská	AAFS1----1A----	Atr
+13	Raiffeisen	NNIS1-----A----	Atr
+14	Bank	NNFXX-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94101-023-p1s7
+1	Podle	RR--2----------	AuxP
+2	náměstka	NNMS2-----A----	Atr
+3	primátora	NNMS2-----A----	Atr
+4	Igora	NNMS2-----A----	Atr
+5	Marši	NNMS2-----A----	Adv
+6	nedosáhne	VB-S---3P-NA---	Pred
+7	hodnota	NNFS1-----A----	Sb
+8	vydaných	AAFP2----1A----	Atr
+9	obligací	NNFP2-----A----	Atr
+10	sumy	NNFS2-----A----	Obj
+11	,	Z:-------------	AuxX
+12	v	RR--6----------	AuxP
+13	jejíž	P1FSXFS3-------	Atr
+14	výši	NNFS6-----A----	Adv
+15	vydala	VpQW---XR-AA---	Atr
+16	městské	AAFP4----1A----	Atr
+17	obligace	NNFP4-----A----	Obj
+18	Praha	NNFS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+lnd94101-023-p1s8
+1	Zkušební	AAFS1----1A----	Atr
+2	emise	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	posloužit	Vf--------A----	Obj
+5	spíše	Dg-------2A---1	Adv
+6	k	RR--3----------	AuxP
+7	propagaci	NNFS3-----A----	Adv
+8	Brna	NNNS2-----A----	Atr
+9	na	RR--6----------	AuxP
+10	světových	AAIP6----1A----	Atr
+11	finančních	AAIP6----1A----	Atr
+12	trzích	NNIP6-----A----	Atr
+13	.	Z:-------------	AuxK
+

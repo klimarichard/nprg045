@@ -1,0 +1,155 @@
+ln94204-41-p1s1
+1	Odolnější	AAFP1----2A----	Atr
+2	botičky	NNFP1-----A----	ExD
+
+ln94204-41-p2s1A
+1	Vsetín	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ce	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-41-p2s1B
+1	Zařízení	NNNS4-----A----	Obj
+2	od	RR--2----------	AuxP
+3	firmy	NNFS2-----A----	Atr
+4	Proconsult	NNIS1-----A----	Atr
+5	Praha	NNFS1-----A----	Atr
+6	,	Z:-------------	AuxX
+7	které	P4NS1----------	Sb
+8	má	VB-S---3P-AA---	Atr
+9	zamezit	Vf--------A----	Obj
+10	odjezdu	NNIS3-----A----	Obj
+11	nesprávně	Dg-------1N----	Adv
+12	zaparkovaného	AAIS2----1A----	Atr
+13	automobilu	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	oceňují	VB-P---3P-AA---	Pred
+16	městští	AAMP1----1A----	Atr
+17	policisté	NNMP1-----A----	Sb
+18	ve	RV--6----------	AuxP
+19	Vsetíně	NNIS6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94204-41-p2s2
+1	Botičky	NNFP4-----A----	Obj
+2	nového	AAIS2----1A----	Atr
+3	typu	NNIS2-----A----	Atr
+4	zde	Db-------------	Adv
+5	používají	VB-P---3P-AA---	Pred
+6	od	RR--2----------	AuxP
+7	srpna	NNIS2-----A----	Adv
+8	a	J^-------------	Coord
+9	zatím	Db-------------	Adv
+10	nedošlo	VpNS---XR-NA---	Pred
+11	k	RR--3----------	AuxP
+12	jejich	PSXXXXP3-------	Atr
+13	odcizení	NNNS3-----A----	Obj
+14	ani	J^-------------	Coord
+15	poškození	NNNS3-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94204-41-p2s3
+1	Městská	AAFS1----1A----	Atr
+2	policie	NNFS1-----A----	Sb
+3	pracuje	VB-S---3P-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	Vsetíně	NNIS6-----A----	Adv
+6	teprve	Db-------------	AuxZ
+7	tři	ClXP4----------	Atr
+8	měsíce	NNIP4-----A----	Adv
+9	a	J^-------------	Coord
+10	během	RR--2----------	AuxP
+11	této	PDFS2----------	Atr
+12	doby	NNFS2-----A----	Adv
+13	už	Db-------------	Adv
+14	se	P7-X4----------	AuxT
+15	jí	PPFS3--3-------	Obj
+16	podařilo	VpNS---XR-AA---	Pred
+17	zadržet	Vf--------A----	Sb
+18	pachatele	NNMS4-----A----	Obj
+19	většího	AAIS2----2A----	Atr
+20	počtu	NNIS2-----A----	Atr
+21	krádeží	NNFP2-----A----	Atr
+22	horských	AANP2----1A----	Atr
+23	kol	NNNP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	zadržela	VpQW---XR-AA---	Pred
+26	celostátně	Dg-------1A----	Adv
+27	hledanou	AAFS4----1A----	Atr
+28	osobu	NNFS4-----A----	Obj
+29	,	Z:-------------	Coord
+30	spolupracovala	VpQW---XR-AA---	Pred
+31	s	RR--7----------	AuxP
+32	Policií	NNFS7-----A----	Obj
+33	ČR	NNFXX-----A---8	Atr
+34	při	RR--6----------	AuxP
+35	pátrání	NNNS6-----A----	Adv
+36	po	RR--6----------	AuxP
+37	pachateli	NNMS6-----A----	Atr
+38	vraždy	NNFS2-----A----	Atr
+39	.	Z:-------------	AuxK
+
+ln94204-41-p2s4
+1	V	RR--6----------	AuxP
+2	minulém	AAIS6----1A----	Atr
+3	týdnu	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	podílela	VpQW---XR-AA---	Pred
+6	na	RR--6----------	AuxP
+7	prohledávání	NNNS6-----A----	Obj
+8	nemocnice	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	měla	VpQW---XR-AA---	Atr
+12	být	Vf--------A----	AuxV
+13	podle	RR--2----------	AuxP
+14	anonymního	AAIS2----1A----	Atr
+15	telefonátu	NNIS2-----A----	Adv
+16	uložena	VsQW---XX-AP---	Obj
+17	výbušnina	NNFS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln94204-41-p2s5
+1	Jak	J,-------------	Adv
+2	řekl	VpYS---XR-AA---	Pred
+3	LN	NNFPX-----A---8	Obj
+4	velitel	NNMS1-----A----	Atr
+5	vsetínské	AAFS2----1A----	Atr
+6	městské	AAFS2----1A----	Atr
+7	policie	NNFS2-----A----	Atr
+8	Josef	NNMS1-----A----	Atr
+9	Jirků	NNMXX-----A----	Sb
+10	,	Z:-------------	AuxX
+11	značný	AAIS4----1A----	Atr
+12	podíl	NNIS4-----A----	Obj
+13	na	RR--6----------	AuxP
+14	narušování	NNNS6-----A----	Atr
+15	veřejného	AAIS2----1A----	Atr
+16	pořádku	NNIS2-----A----	Atr
+17	mají	VB-P---3P-AA---	Pred
+18	romští	AAMP1----1A----	Atr
+19	spoluobčané	NNMP1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94204-41-p2s6
+1	Ve	RV--6----------	AuxP
+2	Vsetíně	NNIS6-----A----	Adv
+3	představují	VB-P---3P-AA---	Pred
+4	jen	TT-------------	AuxZ
+5	asi	TT-------------	AuxZ
+6	1.5	C=-------------	Obj
+7	procenta	NNNS2-----A----	Atr
+8	z	RR--2----------	AuxP
+9	počtu	NNIS2-----A----	Atr
+10	obyvatel	NNMP2-----A---1	Atr
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	páchají	VB-P---3P-AA---	Pred
+14	55	C=-------------	Obj
+15	procent	NNNP2-----A----	Atr
+16	veškerých	PLXP2----------	Atr
+17	trestných	AAIP2----1A----	Atr
+18	činů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+

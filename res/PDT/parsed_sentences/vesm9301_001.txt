@@ -1,0 +1,645 @@
+vesm9301-001-p1s1
+1	EXPONENCIÁLNÍ	AAIS1----1A----	Atr
+2	RŮST	NNIS1-----A----	ExD
+
+vesm9301-001-p2s1
+1	OBSAHU	NNIS2-----A----	ExD
+2	SKLENÍKOVÝCH	AAIP2----1A----	Atr
+3	PLYNŮ	NNIP2-----A----	Atr
+4	V	RR--6----------	AuxP
+5	ATMOSFÉŘE	NNFS6-----A----	Atr
+
+vesm9301-001-p3s1
+1	Jeden	ClIS4----------	Obj
+2	z	RR--2----------	AuxP
+3	nejvýstižnějších	AAIP2----3A----	Atr
+4	popisů	NNIP2-----A----	Atr
+5	skleníkového	AAIS2----1A----	Atr
+6	efektu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	jaký	P4IS4----------	Obj
+9	znám	VB-S---1P-AA---	Atr
+10	,	Z:-------------	AuxX
+11	přinesl	VpYS---XR-AA---	Pred
+12	Vesmír	NNIS1-----A----	Sb
+13	70	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	546	C=-------------	Atr
+16	,	Z:-------------	AuxX
+17	1991	C=-------------	Atr
+18	/	Z:-------------	AuxG
+19	10	C=-------------	Atr
+20	.	Z:-------------	AuxK
+
+vesm9301-001-p3s2
+1	Na	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	místě	NNNS6-----A----	Adv
+4	si	P7-X3----------	Obj
+5	připomeňme	Vi-P---1--A----	Pred
+6	základní	AAFP4----1A----	Atr
+7	charakteristiky	NNFP4-----A----	Obj
+8	skleníkových	AAIP2----1A----	Atr
+9	plynů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+vesm9301-001-p4s1
+1	VODNÍ	AAFS1----1A----	Atr
+2	PÁRA	NNFS1-----A----	Sb
+3	:	Z:-------------	AuxG
+4	je	VB-S---3P-AA---	Pred
+5	dvakrát	Cv-------------	Adv
+6	účinnější	AAIS1----2A----	Atr
+7	skleníkový	AAIS1----1A----	Atr
+8	plyn	NNIS1-----A----	Pnom
+9	než	J,-------------	AuxC
+10	oxid	NNIS1-----A----	ExD
+11	uhličitý	AAIS1----1A----	Atr
+12	a	J^-------------	Coord
+13	všechny	PLIP1----------	Atr
+14	plyny	NNIP1-----A----	ExD
+15	dohromady	Db-------------	Atr
+16	.	Z:-------------	AuxK
+
+vesm9301-001-p4s2
+1	Zvýšíme	VB-P---1P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	celkový	AAIS4----1A----	Atr
+5	odpar	NNIS4-----A----	Obj
+6	vody	NNFS2-----A----	Atr
+7	ze	RV--2----------	AuxP
+8	světového	AAIS2----1A----	Atr
+9	oceánu	NNIS2-----A----	AtrAtr
+10	o	RR--4----------	AuxP
+11	několik	Ca--4----------	Adv
+12	procent	NNNP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	získáme	VB-P---1P-AA---	Pred
+15	větší	AAIS4----2A----	Atr
+16	skleníkový	AAIS4----1A----	Atr
+17	efekt	NNIS4-----A----	Obj
+18	než	J,-------------	AuxC
+19	produkcí	NNFS7-----A----	ExD
+20	antropogenních	AAIP2----1A----	Atr
+21	plynů	NNIP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+vesm9301-001-p4s3
+1	Vodní	AAFS1----1A----	Atr
+2	pára	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	velkou	AAFS7----1A----	Atr
+5	neznámou	NNFS7-----A----	Pnom
+6	mnoha	Ca--2----------	Atr
+7	klimatických	AAIP2----1A----	Atr
+8	modelů	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	protože	J,-------------	AuxC
+11	vyznat	Vf--------A----	Sb
+12	se	P7-X4----------	AuxT
+13	v	RR--6----------	AuxP
+14	globálním	AAIS6----1A----	Atr
+15	cyklu	NNIS6-----A----	Adv
+16	vody	NNFS2-----A----	Atr
+17	znamená	VB-S---3P-AA---	Adv
+18	zatraceně	Dg-------1A----	Adv
+19	dobře	Dg-------1A----	Adv
+20	se	P7-X4----------	AuxT
+21	orientovat	Vf--------A----	Obj
+22	v	RR--6----------	AuxP
+23	proudění	NNNS6-----A----	Obj
+24	mořské	AAFS2----1A----	Atr
+25	vody	NNFS2-----A----	Atr
+26	,	Z:-------------	Apos
+27	glaciologii	NNFS6-----A----	Obj
+28	a	J^-------------	Coord
+29	v	RR--6----------	AuxP
+30	mracích	NNIP6-----A----	Obj
+31	,	Z:-------------	AuxX
+32	tedy	Db-------------	Apos
+33	právě	Db-------------	AuxZ
+34	v	RR--6----------	AuxP
+35	těch	PDXP6----------	Atr
+36	nejsložitějších	AAIP6----3A----	Atr
+37	a	J^-------------	Coord
+38	málo	Dg-------1A----	Atr
+39	známých	AAIP6----1A----	Atr
+40	problémech	NNIP6-----A----	Obj
+41	globálních	AAFP2----1A----	Atr
+42	změn	NNFP2-----A----	Atr
+43	.	Z:-------------	AuxK
+
+vesm9301-001-p4s4
+1	Klimatické	AAIP1----1A----	Atr
+2	modely	NNIP1-----A----	Sb
+3	a	J^-------------	Coord
+4	prognózy	NNFP1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	často	Dg-------1A----	Adv
+7	vyhýbají	VB-P---3P-AA---	Pred
+8	roli	NNFS3-----A----	Obj
+9	vodní	AAFS2----1A----	Atr
+10	páry	NNFS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	což	PE--1----------	Sb
+13	připomíná	VB-S---3P-AA---	Pred
+14	šachovou	AAFS4----1A----	Atr
+15	hru	NNFS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	na	RR--4----------	AuxP
+18	jejíž	P1IS4FS3-------	Atr
+19	výsledek	NNIS4-----A----	Obj
+20	usuzujeme	VB-P---1P-AA---	Atr
+21	pouze	Db-------------	AuxZ
+22	z	RR--2----------	AuxP
+23	pozic	NNFP2-----A----	Adv
+24	pěšáků	NNMP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+vesm9301-001-p5s1
+1	OXID	NNIS1-----A----	ExD
+2	UHLIČITÝ	AAIS1----1A----	Atr
+3	:	Z:-------------	Coord
+4	jeho	PSXXXZS3-------	Atr
+5	hlavní	AAIP1----1A----	Atr
+6	zdroje	NNIP1-----A----	Pnom
+7	podle	RR--2----------	AuxP
+8	pořadí	NNNS2-----A----	AtrAdv
+9	důležitosti	NNFS2-----A----	Atr
+10	jsou	VB-P---3P-AA---	Pred
+11	:	Z:-------------	AuxG
+12	1	C=-------------	ExD
+13	-	Z:-------------	AuxG
+14	povrchová	AAFS1----1A----	Atr
+15	vrstva	NNFS1-----A----	Sb
+16	mořské	AAFS2----1A----	Atr
+17	vody	NNFS2-----A----	Atr
+18	s	RR--7----------	AuxP
+19	rozpuštěným	AAIS7----1A----	Atr
+20	CO	NNIXX-----A---8	Atr
+21	2	C=-------------	Atr
+22	,	Z:-------------	AuxX
+23	jenž	PJYS1----------	Sb
+24	je	VB-S---3P-AA---	AuxV
+25	uvolňován	VsYS---XX-AP---	Atr
+26	v	RR--6----------	AuxP
+27	závislosti	NNFS6-----A----	AuxP
+28	na	RR--6----------	AuxP
+29	rychlosti	NNFS6-----A----	Adv
+30	větru	NNIS2-----A----	Atr
+31	,	Z:-------------	AuxX
+32	teplotě	NNFS6-----A----	Adv
+33	vody	NNFS2-----A----	Atr
+34	a	J^-------------	Coord
+35	vzduchu	NNIS2-----A----	Atr
+36	a	J^-------------	Coord
+37	biogenních	AAFP6----1A----	Atr
+38	reakcích	NNFP6-----A----	Adv
+39	,	Z:-------------	AuxK
+
+vesm9301-001-p6s1
+1	2	C=-------------	ExD
+2	-	Z:-------------	AuxG
+3	dýchání	NNNS1-----A----	ExD
+4	rostlin	NNFP2-----A----	Atr
+5	a	J^-------------	Coord
+6	živočichů	NNMP2-----A----	Atr
+7	,	Z:-------------	Coord
+8	rozklad	NNIS1-----A----	ExD
+9	organické	AAFS2----1A----	Atr
+10	hmoty	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxK
+
+vesm9301-001-p7s1
+1	3	C=-------------	ExD
+2	-	Z:-------------	AuxG
+3	spalování	NNNS1-----A----	ExD
+4	fosilních	AANP2----1A----	Atr
+5	paliv	NNNP2-----A----	Atr
+6	,	Z:-------------	AuxK
+
+vesm9301-001-p8s1
+1	4	C=-------------	ExD
+2	-	Z:-------------	AuxG
+3	přímé	AANS1----1A----	Atr
+4	uvolňování	NNNS1-----A----	ExD
+5	CO	NNIXX-----A---8	Atr
+6	2	C=-------------	Atr
+7	z	RR--2----------	AuxP
+8	půdy	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxK
+
+vesm9301-001-p9s1
+1	5	C=-------------	ExD
+2	-	Z:-------------	AuxG
+3	sopečné	AAFP1----1A----	Atr
+4	exhalace	NNFP1-----A----	ExD
+5	.	Z:-------------	AuxK
+
+vesm9301-001-p10s1
+1	Oxid	NNIS1-----A----	Sb
+2	uhličitý	AAIS1----1A----	Atr
+3	vykazuje	VB-S---3P-AA---	Pred
+4	široké	AAFP4----1A----	Atr
+5	přirozené	AAFP4----1A----	Atr
+6	variace	NNFP4-----A----	Obj
+7	obsahů	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+vesm9301-001-p10s2
+1	V	RR--6----------	AuxP
+2	dobách	NNFP6-----A----	Adv
+3	ledových	AAFP6----1A----	Atr
+4	jeho	PSXXXZS3-------	Atr
+5	koncentrace	NNFS1-----A----	Sb
+6	klesá	VB-S---3P-AA---	Pred
+7	,	Z:-------------	Coord
+8	v	RR--6----------	AuxP
+9	teplých	AANP6----1A----	Atr
+10	obdobích	NNNP6-----A----	Adv
+11	jeho	PSXXXZS3-------	Atr
+12	koncentrace	NNFS1-----A----	Sb
+13	stoupá	VB-S---3P-AA---	Pred
+14	(	Z:-------------	AuxG
+15	viz	Vi-S---2--A---1	Pred
+16	obr	NNIXX-----A---8	Obj
+17	.	Z:-------------	AuxG
+18	1	C=-------------	Atr
+19	)	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+vesm9301-001-p10s3
+1	Tato	PDFS1----------	Atr
+2	závislost	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	AuxV
+4	vysvětlována	VsQW---XX-AP---	Pred
+5	kauzálně	Dg-------1A----	Adv
+6	,	Z:-------------	AuxX
+7	tj	J^------------8	Apos
+8	.	Z:-------------	AuxG
+9	že	J,-------------	AuxC
+10	zvýšený	AAIS1----1A----	Atr
+11	obsah	NNIS1-----A----	Sb
+12	CO	NNIXX-----A---8	Atr
+13	2	C=-------------	Atr
+14	způsobuje	VB-S---3P-AA---	Adv
+15	nástup	NNIS4-----A----	Obj
+16	teplého	AANS2----1A----	Atr
+17	období	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9301-001-p10s4
+1	Je	VB-S---3P-AA---	Pred
+2	však	J^-------------	Coord
+3	pravděpodobné	AANS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	závislost	NNFS1-----A----	Sb
+7	je	VB-S---3P-AA---	Sb
+8	přesně	Dg-------1A----	Adv
+9	opačná	AAFS1----1A----	Pnom
+10	-	Z:-------------	Apos
+11	zvýšení	NNNS1-----A----	Sb
+12	teploty	NNFS2-----A----	Atr
+13	oceánu	NNIS2-----A----	Atr
+14	uvolní	VB-S---3P-AA---	Pnom
+15	obrovská	AANP4----1A----	Atr
+16	množství	NNNP4-----A----	Obj
+17	CO	NNIXX-----A---8	Atr
+18	2	C=-------------	Atr
+19	,	Z:-------------	AuxX
+20	který	P4YS1----------	Sb
+21	dál	Db-------------	Adv
+22	urychlí	VB-S---3P-AA---	Atr
+23	nástup	NNIS4-----A----	Obj
+24	teplého	AANS2----1A----	Atr
+25	období	NNNS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	během	RR--2----------	AuxP
+28	kterého	P4ZS2----------	Adv
+29	dojde	VB-S---3P-AA---	Atr
+30	k	RR--3----------	AuxP
+31	rozvoji	NNIS3-----A----	Obj
+32	lesních	AAFP2----1A----	Atr
+33	ploch	NNFP2-----A----	Atr
+34	a	J^-------------	Coord
+35	dalšímu	AANS3----1A----	Atr
+36	uvolňování	NNNS3-----A----	Obj
+37	CO	NNIXX-----A---8	Atr
+38	2	C=-------------	Atr
+39	.	Z:-------------	AuxK
+
+vesm9301-001-p10s5
+1	Následkem	NNIS7-----A----	AuxP
+2	odlesňování	NNNS2-----A----	Adv
+3	a	J^-------------	Coord
+4	spalování	NNNS2-----A----	Adv
+5	fosilních	AANP2----1A----	Atr
+6	paliv	NNNP2-----A----	Atr
+7	dochází	VB-S---3P-AA---	Pred
+8	do	RR--2----------	AuxP
+9	r	NNIXX-----A---8	Adv
+10	.	Z:-------------	AuxG
+11	1950	C=-------------	Atr
+12	k	RR--3----------	AuxP
+13	lineárnímu	AAIS3----1A----	Atr
+14	růstu	NNIS3-----A----	Obj
+15	obsahu	NNIS2-----A----	Atr
+16	CO	NNIXX-----A---8	Atr
+17	2	C=-------------	Atr
+18	v	RR--6----------	AuxP
+19	atmosféře	NNFS6-----A----	AtrAdv
+20	,	Z:-------------	Coord
+21	po	RR--6----------	AuxP
+22	r	NNIXX-----A---8	ExD
+23	.	Z:-------------	AuxG
+24	1950	C=-------------	Atr
+25	k	RR--3----------	AuxP
+26	drastickému	AANS3----1A----	Atr
+27	exponenciálnímu	AANS3----1A----	Atr
+28	zvýšení	NNNS3-----A----	ExD
+29	koncentrací	NNFP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+vesm9301-001-p10s6A
+1	Tady	Db-------------	Adv
+2	nejsou	VB-P---3P-NA---	Pred
+3	žádné	PWFP1----------	Atr
+4	pochybnosti	NNFP1-----A----	Sb
+5	-	Z:-------------	AuxK
+
+vesm9301-001-p10s6B
+1	obsah	NNIS1-----A----	Sb
+2	CO	NNIXX-----A---8	Atr
+3	2	C=-------------	Atr
+4	roste	VB-S---3P-AA---	Pred
+5	se	RV--7----------	AuxP
+6	znepokojivou	AAFS7----1A----	Atr
+7	rychlostí	NNFS7-----A----	Adv
+8	a	J^-------------	Coord
+9	vinen	ACYS------A----	Pnom
+10	je	VB-S---3P-AA---	Pred
+11	člověk	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+vesm9301-001-p10s7
+1	Molekula	NNFS1-----A----	Sb
+2	CO	NNIXX-----A---8	Atr
+3	2	C=-------------	Atr
+4	se	P7-X4----------	AuxR
+5	v	RR--6----------	AuxP
+6	atmosféře	NNFS6-----A----	Adv
+7	odbourává	VB-S---3P-AA---	Pred
+8	průměrně	Dg-------1A----	Adv
+9	za	RR--4----------	AuxP
+10	50	C=-------------	Adv
+11	-	Z:-------------	Coord
+12	200	C=-------------	Adv
+13	let	NNNP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+vesm9301-001-p11s1
+1	METAN	NNIS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	jeho	PSXXXZS3-------	Atr
+4	hlavní	AAIP1----1A----	Atr
+5	zdroje	NNIP1-----A----	Pnom
+6	jsou	VB-P---3P-AA---	Pred
+7	přirozené	AAIP1----1A----	Atr
+8	močály	NNIP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	rýžová	AANP1----1A----	Atr
+11	pole	NNNP1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	fermentační	AAFS1----1A----	Atr
+14	rekce	NNFS1-----A----	Sb
+15	v	RR--6----------	AuxP
+16	žaludku	NNIS6-----A----	Atr
+17	dobytka	NNMS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	činnost	NNFS1-----A----	Sb
+20	termitů	NNMP2-----A----	Atr
+21	,	Z:-------------	Coord
+22	degazace	NNFS1-----A----	Sb
+23	uhlí	NNNS2-----A----	Atr
+24	a	J^-------------	Coord
+25	nafty	NNFS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+vesm9301-001-p11s2
+1	R	NNIXX-----A---8	Adv
+2	.	Z:-------------	AuxG
+3	1800	C=-------------	Atr
+4	obsahovala	VpQW---XR-AA---	Pred
+5	atmosféra	NNFS1-----A----	Sb
+6	0	C=-------------	Obj
+7	,	Z:-------------	Coord
+8	75	C=-------------	Obj
+9	ppm	NNFXX-----A---8	Atr
+10	metanu	NNIS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	dnes	Db-------------	Adv
+13	obsahuje	VB-S---3P-AA---	Pred
+14	asi	TT-------------	AuxZ
+15	1.70	C=-------------	Obj
+16	ppm	NNFXX-----A---8	Atr
+17	.	Z:-------------	AuxK
+
+vesm9301-001-p12s1
+1	OXIDY	NNIP1-----A----	Sb
+2	DUSÍKU	NNIS2-----A----	Atr
+3	:	Z:-------------	AuxG
+4	vyskytují	VB-P---3P-AA---	Pred
+5	se	P7-X4----------	AuxT
+6	zvláště	Db-------------	AuxZ
+7	ve	RV--6----------	AuxP
+8	formě	NNFS6-----A----	Adv
+9	N	NNIXX-----A---8	Atr
+10	2	C=-------------	Atr
+11	O	NNIXX-----A---8	Atr
+12	,	Z:-------------	Coord
+13	pocházejí	VB-P---3P-AA---	Pred
+14	jednak	J^-------------	AuxY
+15	z	RR--2----------	AuxP
+16	oceánu	NNIS2-----A----	Adv
+17	,	Z:-------------	AuxX
+18	jednak	J^-------------	Coord
+19	z	RR--2----------	AuxP
+20	půdy	NNFS2-----A----	Adv
+21	,	Z:-------------	AuxX
+22	která	P4FS1----------	Sb
+23	prodělala	VpQW---XR-AA---	Atr
+24	odlesnění	NNNS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+vesm9301-001-p12s2
+1	Předindustriální	AAFP1----1A----	Atr
+2	koncentrace	NNFP1-----A----	Sb
+3	N	NNIXX-----A---8	Atr
+4	2	C=-------------	Atr
+5	O	NNIXX-----A---8	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	přibližně	Dg-------1A----	AuxZ
+8	285	C=-------------	Pnom
+9	ppb	NNFXX-----A---8	Atr
+10	,	Z:-------------	Coord
+11	současné	AAFP1----1A----	ExD
+12	okolo	RR--2----------	AuxP
+13	310	C=-------------	ExD
+14	ppb	NNFXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+
+vesm9301-001-p13s1
+1	CFC	NNIXX-----A---8	Sb
+2	:	Z:-------------	AuxG
+3	neboli	J^-------------	Apos
+4	chloro	A2--------A----	Atr
+5	-	Z:-------------	Coord
+6	fluorované	AAIP1----1A----	Atr
+7	uhlovodíky	NNIP1-----A----	Sb
+8	tvoří	VB-P---3P-AA---	Pred
+9	rozsáhlou	AAFS4----1A----	Atr
+10	skupinu	NNFS4-----A----	Obj
+11	plynů	NNIP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	které	P4IP1----------	Sb
+14	pocházejí	VB-P---3P-AA---	Atr
+15	výhradně	Dg-------1A----	Adv
+16	z	RR--2----------	AuxP
+17	antropogenních	AAFP2----1A----	Atr
+18	emisí	NNFP2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+vesm9301-001-p13s2
+1	Z	RR--2----------	AuxP
+2	atmosféry	NNFS2-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	odbourávají	VB-P---3P-AA---	Pred
+5	velmi	Db-------------	Adv
+6	pomalu	Db-------------	Adv
+7	v	RR--6----------	AuxP
+8	měřítku	NNNS6-----A----	Adv
+9	desítek	NNFP2-----A----	Atr
+10	až	J^-------------	Coord
+11	prvních	CrFP2----------	Atr
+12	stovek	NNFP2-----A----	Atr
+13	let	NNNP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+vesm9301-001-p13s3
+1	Mají	VB-P---3P-AA---	Pred
+2	nepříznivý	AAIS4----1N----	Atr
+3	vliv	NNIS4-----A----	Obj
+4	na	RR--4----------	AuxP
+5	ozónovou	AAFS4----1A----	Atr
+6	vrstvu	NNFS4-----A----	Atr
+7	.	Z:-------------	AuxK
+
+vesm9301-001-p13s4
+1	Jsou	VB-P---3P-AA---	Pred
+2	nahraditelné	AAIP1----1A----	Pnom
+3	a	J^-------------	Coord
+4	jednoznačně	Dg-------1A----	Adv
+5	škodlivé	AAIP1----1A----	Pnom
+6	.	Z:-------------	AuxK
+
+vesm9301-001-p14s1
+1	Ekvivalent	NNIS1-----A----	Sb
+2	CO	NNIXX-----A---8	Atr
+3	2	C=-------------	Atr
+4	:	Z:-------------	AuxG
+5	je	VB-S---3P-AA---	Pred
+6	založen	VsYS---XX-AP---	Pnom
+7	na	RR--6----------	AuxP
+8	přepočtu	NNIS6-----A----	Obj
+9	radiačních	AAFP2----1A----	Atr
+10	vlastností	NNFP2-----A----	Atr
+11	hlavních	AAIP2----1A----	Atr
+12	antropogenních	AAIP2----1A----	Atr
+13	plynů	NNIP2-----A----	Atr
+14	a	J^-------------	Coord
+15	jejich	PSXXXXP3-------	Atr
+16	koncentrací	NNFP2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	atmosféře	NNFS6-----A----	Atr
+19	na	RR--4----------	AuxP
+20	obsah	NNIS4-----A----	Atr
+21	CO	NNIXX-----A---8	Atr
+22	2	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+vesm9301-001-p14s2
+1	Vypočtená	AAFS1----1A----	Atr
+2	hodnota	NNFS1-----A----	Sb
+3	nám	PP-P3--1-------	Obj
+4	říká	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	kolik	C?--1----------	Sb
+7	oxidu	NNIS2-----A----	Atr
+8	uhličitého	AAIS2----1A----	Atr
+9	by	Vc-------------	AuxV
+10	bylo	VpNS---XR-AA---	Obj
+11	zapotřebí	Db-------------	Pnom
+12	,	Z:-------------	AuxX
+13	aby	J,-------------	AuxC
+14	způsobilo	VpNS---XR-AA---	Adv
+15	stejný	AAIS4----1A----	Atr
+16	skleníkový	AAIS4----1A----	Atr
+17	efekt	NNIS4-----A----	Obj
+18	jako	J,-------------	AuxC
+19	všechny	PLIP1----------	Atr
+20	tyto	PDIP1----------	Atr
+21	plyny	NNIP1-----A----	ExD
+22	dohromady	Db-------------	Atr
+23	.	Z:-------------	AuxK
+
+vesm9301-001-p14s3
+1	Např	Db------------8	AuxY
+2	.	Z:-------------	AuxG
+3	metan	NNIS1-----A----	Sb
+4	odráží	VB-S---3P-AA---	Pred
+5	20	C=-------------	Atr
+6	krát	J*-------------	Adv
+7	víc	Dg-------2A---1	Obj
+8	radiační	AAFS2----1A----	Atr
+9	energie	NNFS2-----A----	Atr
+10	než	J,-------------	AuxC
+11	CO	NNIXX-----A---8	ExD
+12	2	C=-------------	Atr
+13	.	Z:-------------	AuxK
+
+vesm9301-001-p14s4
+1	CFC	NNIXX-----A---8	Atr
+2	plyny	NNIP1-----A----	Sb
+3	odrážejí	VB-P---3P-AA---	Pred
+4	dokonce	Db-------------	AuxZ
+5	1000	C=-------------	Atr
+6	krát	J*-------------	Adv
+7	až	J^-------------	Coord
+8	10000	C=-------------	Atr
+9	krát	J*-------------	Adv
+10	víc	Dg-------2A---1	Obj
+11	energie	NNFS2-----A----	Atr
+12	než	J,-------------	AuxC
+13	CO	NNIXX-----A---8	ExD
+14	2	C=-------------	Atr
+15	!	Z:-------------	AuxK
+
+vesm9301-001-p14s5
+1	Většina	NNFS1-----A----	Sb
+2	klimatických	AAIP2----1A----	Atr
+3	modelů	NNIP2-----A----	Atr
+4	pracuje	VB-S---3P-AA---	Pred
+5	s	RR--7----------	AuxP
+6	ekvivalentem	NNIS7-----A----	Adv
+7	CO	NNIXX-----A---8	Atr
+8	2	C=-------------	Atr
+9	,	Z:-------------	Coord
+10	nikoliv	Db-------------	AuxZ
+11	s	RR--7----------	AuxP
+12	koncentracemi	NNFP7-----A----	Adv
+13	jednotlivých	AAIP2----1A----	Atr
+14	plynů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+

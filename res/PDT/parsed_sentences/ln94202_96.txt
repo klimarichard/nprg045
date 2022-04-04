@@ -1,0 +1,120 @@
+ln94202-96-p1s1
+1	Schumacher	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	diskvalifikován	VsYS---XX-AP---	Pred
+
+ln94202-96-p2s1A
+1	Spa	NNXXX-----A----	Atr
+2	-	Z:-------------	AuxG
+3	Francorchamps	NNXXX-----A----	ExD
+4	-	Z:-------------	AuxK
+
+ln94202-96-p2s1B
+1	Německý	AAMS1----1A----	Atr
+2	pilot	NNMS1-----A----	Atr
+3	Michael	NNMS1-----A----	Atr
+4	Schumacher	NNMS1-----A----	Sb
+5	byl	VpYS---XR-AA---	Pred
+6	sice	Db-------------	AuxY
+7	na	RR--6----------	AuxP
+8	trati	NNFS6-----A----	Adv
+9	Velké	AAFS2----1A----	Atr
+10	ceny	NNFS2-----A----	Atr
+11	Belgie	NNFS2-----A----	Atr
+12	,	Z:-------------	Apos
+13	dalšího	AAIS2----1A----	Atr
+14	podniku	NNIS2-----A----	Atr
+15	MS	NNNXX-----A---8	Atr
+16	automobilů	NNIP2-----A----	Atr
+17	formule	NNFS2-----A----	Atr
+18	1	C=-------------	Atr
+19	v	RR--6----------	AuxP
+20	Spa	NNXXX-----A----	Atr
+21	-	Z:-------------	AuxG
+22	Francorchamps	NNXXX-----A----	Atr
+23	nejrychlejší	AAMS1----3A----	Pnom
+24	,	Z:-------------	AuxX
+25	ale	J^-------------	Coord
+26	několik	Ca--4----------	Adv
+27	hodin	NNFP2-----A----	Atr
+28	po	RR--6----------	AuxP
+29	závodu	NNIS6-----A---1	Atr
+30	byl	VpYS---XR-AA---	AuxV
+31	diskvalifikován	VsYS---XX-AP---	Pred
+32	pro	RR--4----------	AuxP
+33	nepřípustné	AANS4----1N----	Atr
+34	vybavení	NNNS4-----A----	Adv
+35	jeho	PSXXXZS3-------	Atr
+36	Benettonu	NNIS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln94202-96-p2s2
+1	Komisař	NNMS1-----A----	Sb
+2	závodu	NNIS2-----A----	Atr
+3	rozhodl	VpYS---XR-AA--1	Pred
+4	o	RR--6----------	AuxP
+5	tom	PDZS6----------	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	povinná	AAFS1----1A----	Atr
+9	dřevěná	AAFS1----1A----	Atr
+10	podložka	NNFS1-----A----	Sb
+11	ve	RV--6----------	AuxP
+12	spodní	AAFS6----1A----	Atr
+13	části	NNFS6-----A----	Atr
+14	vozu	NNIS2-----A----	Atr
+15	neodpovídá	VB-S---3P-NA---	Atr
+16	svými	P8XP7----------	Atr
+17	rozměry	NNIP7-----A----	Adv
+18	předpisům	NNIP3-----A----	Obj
+19	a	J^-------------	Coord
+20	Schumacher	NNMS1-----A----	Sb
+21	tak	Db-------------	Adv
+22	měl	VpYS---XR-AA---	Atr
+23	proti	RR--3----------	AuxP
+24	svým	P8XP3----------	Atr
+25	soupeřům	NNMP3-----A----	AdvAtr
+26	určitou	AAFS4----1A----	Atr
+27	výhodu	NNFS4-----A----	Obj
+28	.	Z:-------------	AuxK
+
+ln94202-96-p2s3
+1	Rozhodnutí	NNNS4-----A----	Obj
+2	komisaře	NNMS2-----A----	Atr
+3	potvrdil	VpYS---XR-AA---	Pred
+4	i	J^-------------	AuxZ
+5	mluvčí	NNMS1-----A----	Atr
+6	Mezinárodní	AAFS2----1A----	Atr
+7	automobilové	AAFS2----1A----	Atr
+8	federace	NNFS2-----A----	Atr
+9	Tom	NNMS1-----A----	Atr
+10	Walkinshaw	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94202-96-p2s4
+1	Vítězem	NNMS7-----A----	Obj
+2	Velké	AAFS2----1A----	Atr
+3	ceny	NNFS2-----A----	Atr
+4	Belgie	NNFS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	tak	Db-------------	Adv
+7	stal	VpYS---XR-AA---	Pred
+8	Schumacherův	AUMS1M---------	Atr
+9	největší	AAMS1----3A----	Atr
+10	soupeř	NNMS1-----A----	Atr
+11	Damon	NNMS1-----A----	Atr
+12	Hill	NNMS1-----A----	Sb
+13	z	RR--2----------	AuxP
+14	Británie	NNFS2-----A----	Atr
+15	a	J^-------------	Coord
+16	snížil	VpYS---XR-AA---	Pred
+17	Němcův	AUIS4M---------	Atr
+18	náskok	NNIS4-----A----	Obj
+19	v	RR--6----------	AuxP
+20	celkové	AAFS6----1A----	Atr
+21	klasifikaci	NNFS6-----A----	Atr
+22	na	RR--4----------	AuxP
+23	21	C=-------------	Obj
+24	bodů	NNIP2-----A----	Atr
+25	.	Z:-------------	AuxK
+

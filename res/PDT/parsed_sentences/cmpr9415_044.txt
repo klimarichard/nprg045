@@ -1,0 +1,1402 @@
+cmpr9415-044-p1s1
+1	PRIVATIZACE	NNFS1-----A----	ExD
+
+cmpr9415-044-p2s1
+1	Konec	NNIS1-----A----	ExD
+2	za	RR--4----------	AuxP
+3	2.5	C=-------------	Atr
+4	roku	NNIS2-----A---1	ExD
+
+cmpr9415-044-p3s1
+1	Pohledávky	NNFP1-----A----	Sb
+2	po	RR--6----------	AuxP
+3	lhůtě	NNFS6-----A----	Atr
+4	splatnosti	NNFS2-----A----	Atr
+5	činí	VB-P---3P-AA---	Pred
+6	skoro	Db-------------	AuxZ
+7	sedm	Cn-S4----------	Obj
+8	miliard	NNFP2-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+
+cmpr9415-044-p4s1
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	druhá	CrFS1----------	Atr
+4	vlna	NNFS1-----A----	Sb
+5	kuponové	AAFS2----1A----	Atr
+6	privatizace	NNFS2-----A----	Atr
+7	ještě	Db-------------	Adv
+8	pořádně	Dg-------1A----	Adv
+9	nezačala	VpQW---XR-NA---	Adv
+10	,	Z:-------------	AuxX
+11	pro	RR--4----------	AuxP
+12	Fond	NNIS4-----A----	Adv
+13	národního	AAIS2----1A----	Atr
+14	majetku	NNIS2-----A----	Atr
+15	už	Db-------------	Adv
+16	vlastně	Db-------------	Adv
+17	skončila	VpQW---XR-AA---	Pred
+18	.	Z:-------------	AuxK
+
+cmpr9415-044-p4s2
+1	Ví	VB-S---3P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	tento	PDYS1----------	Atr
+5	majetek	NNIS1-----A----	Sb
+6	nové	AAMP4----1A----	Atr
+7	majitele	NNMP4-----A----	Obj
+8	najde	VB-S---3P-AA---	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9415-044-p4s3
+1	Nachází	VB-S---3P-AA---	Pred
+2	jej	PPZS4--3------2	Obj
+3	však	J^-------------	Coord
+4	všechen	PLYS1----------	Atr
+5	majetek	NNIS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	o	RR--6----------	AuxP
+8	kterém	P4ZS6----------	Obj
+9	bylo	VpNS---XR-AA---	AuxV
+10	rozhodnuto	VsNS---XX-AP---	Atr
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	se	P7-X4----------	AuxR
+14	bude	VB-S---3F-AA---	AuxV
+15	privatizovat	Vf--------A----	Adv
+16	?	Z:-------------	AuxK
+
+cmpr9415-044-p5s1
+1	O	RR--6----------	AuxP
+2	tom	PDZS6----------	Obj
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	probíhá	VB-S---3P-AA---	Atr
+6	privatizace	NNFS1-----A----	Sb
+7	nejen	TT-------------	AuxZ
+8	kuponová	AAFS1----1A----	Atr
+9	,	Z:-------------	AuxX
+10	Profit	NNIS1-----A----	Sb
+11	diskutoval	VpYS---XR-AA---	Pred
+12	s	RR--7----------	AuxP
+13	Tomášem	NNMS7-----A----	Atr
+14	Ježkem	NNMS7-----A----	Obj
+15	,	Z:-------------	AuxX
+16	předsedou	NNMS7-----A----	Atr
+17	Fondu	NNIS2-----A----	Atr
+18	národního	AAIS2----1A----	Atr
+19	majetku	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9415-044-p7s1
+1	Miroslav	NNMS1-----A----	Atr
+2	Kaňa	NNMS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	Jaroslav	NNMS1-----A----	Atr
+5	Šulc	NNMS1-----A----	ExD
+
+cmpr9415-044-p9s1
+1	*	Z:-------------	AuxG
+2	Část	NNFS1-----A----	Sb
+3	majetku	NNIS2-----A----	Atr
+4	privatizovaného	AAIS2----1A----	Atr
+5	přímým	AAIS7----1A----	Atr
+6	prodejem	NNIS7-----A----	Adv
+7	sice	Db-------------	AuxY
+8	našla	VpQW---XR-AA---	Pred
+9	své	P8YP4---------1	Atr
+10	majitele	NNMP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	ti	PDMP1----------	Sb
+14	se	P7-X4----------	AuxT
+15	občas	Db-------------	Adv
+16	nemají	VB-P---3P-NA---	Pred
+17	k	RR--3----------	AuxP
+18	jeho	PSXXXZS3-------	Atr
+19	zaplacení	NNNS3-----A----	Adv
+20	.	Z:-------------	AuxK
+
+cmpr9415-044-p9s2
+1	Zůstanou	VB-P---3P-AA---	Pred
+2	dlužit	Vf--------A----	Obj
+3	?	Z:-------------	AuxK
+
+cmpr9415-044-p10s1
+1	Prezidium	NNNS1-----A----	Sb
+2	Fondu	NNIS2-----A----	Atr
+3	národního	AAIS2----1A----	Atr
+4	majetku	NNIS2-----A----	Atr
+5	hledá	VB-S---3P-AA---	Pred
+6	řešení	NNNS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	jak	Db-------------	Adv
+9	náležitě	Dg-------1A----	Adv
+10	snížit	Vf--------A----	Atr
+11	počet	NNIS4-----A----	Obj
+12	dlužníků	NNMP2-----A----	Obj
+13	,	Z:-------------	AuxX
+14	kteří	P4MP1----------	Sb
+15	jsou	VB-P---3P-AA---	Atr
+16	s	RR--7----------	AuxP
+17	placením	NNNS7-----A----	Adv
+18	v	RR--6----------	AuxP
+19	prodlevě	NNFS6-----A----	Adv
+20	.	Z:-------------	AuxK
+
+cmpr9415-044-p11s1
+1	Jde	VB-S---3P-AA---	Pred
+2	sice	Db-------------	AuxY
+3	o	RR--4----------	AuxP
+4	téměř	Db-------------	AuxZ
+5	sedm	Cn-S4----------	Obj
+6	miliard	NNFP2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	pohledávek	NNFP2-----A----	Atr
+9	po	RR--6----------	AuxP
+10	lhůtě	NNFS6-----A----	Atr
+11	splatnosti	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	přesto	Dg-------1A----	Adv
+15	to	PDNS4----------	Obj
+16	vidím	VB-S---1P-AA---	Pred
+17	-	Z:-------------	AuxG
+18	až	TT-------------	AuxZ
+19	na	RR--4----------	AuxP
+20	nepatrné	AAFP4----1N----	Atr
+21	výjimky	NNFP4-----A----	Adv
+22	-	Z:-------------	AuxG
+23	ne	TT-------------	AuxZ
+24	jako	J,-------------	AuxY
+25	problém	NNIS4-----A----	Atv
+26	morální	AAIS4----1A----	Atr
+27	,	Z:-------------	AuxX
+28	či	J^-------------	Coord
+29	dokonce	Db-------------	Adv
+30	trestný	AAIS4----1A----	Atr
+31	,	Z:-------------	AuxX
+32	ale	J^-------------	Coord
+33	spíše	Dg-------2A---1	AuxZ
+34	jako	J,-------------	AuxY
+35	otázku	NNFS4-----A----	Atv
+36	ekonomickou	AAFS4----1A----	Atr
+37	.	Z:-------------	AuxK
+
+cmpr9415-044-p12s1
+1	*	Z:-------------	AuxG
+2	Co	PQ--4----------	Obj
+3	tím	PDZS7----------	Obj
+4	chcete	VB-P---2P-AA---	Pred
+5	říci	Vf--------A---1	Obj
+6	?	Z:-------------	AuxK
+
+cmpr9415-044-p13s1
+1	Že	J,-------------	AuxC
+2	úrokové	AAFP1----1A----	Atr
+3	sazby	NNFP1-----A----	Sb
+4	jsou	VB-P---3P-AA---	Sb
+5	vysoké	AAFP1----1A----	Pnom
+6	,	Z:-------------	AuxX
+7	je	VB-S---3P-AA---	Pred
+8	zřejmé	AANS1----1A----	Pnom
+9	.	Z:-------------	AuxK
+
+cmpr9415-044-p13s2
+1	Proto	J^-------------	Adv
+2	splatit	Vf--------A----	Sb
+3	úvěr	NNIS4-----A----	Obj
+4	za	RR--4----------	AuxP
+5	čtyři	ClXP4----------	Atr
+6	roky	NNIP4-----A----	Adv
+7	je	VB-S---3P-AA---	Pred
+8	pro	RR--4----------	AuxP
+9	většinu	NNFS4-----A----	Adv
+10	nových	AAMP2----1A----	Atr
+11	vlastníků	NNMP2-----A----	Atr
+12	nemožné	AANS1----1N----	Pnom
+13	.	Z:-------------	AuxK
+
+cmpr9415-044-p13s3
+1	Navrhujeme	VB-P---1P-AA---	Pred
+2	prodloužit	Vf--------A----	Obj
+3	dobu	NNFS4-----A----	Obj
+4	splácení	NNNS2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+cmpr9415-044-p13s4
+1	Potíže	NNFP1-----A----	Sb
+2	se	RV--7----------	AuxP
+3	splácením	NNNS7-----A----	Atr
+4	však	J^-------------	Coord
+5	paradoxně	Dg-------1A----	Adv
+6	mají	VB-P---3P-AA---	Pred
+7	i	J^-------------	AuxZ
+8	svou	P8FS4---------1	Atr
+9	dobrou	AAFS4----1A----	Atr
+10	stránku	NNFS4-----A----	Obj
+11	-	Z:-------------	Apos
+12	prolamují	VB-P---3P-AA---	Obj
+13	nechuť	NNFS4-----A----	Obj
+14	některých	PZXP2----------	Atr
+15	kruhů	NNIP2-----A----	Atr
+16	vůči	RR--3----------	AuxP
+17	prodeji	NNIS3-----A----	Atr
+18	objektů	NNIP2-----A----	Atr
+19	na	RR--4----------	AuxP
+20	delší	AAFP4----2A----	Atr
+21	splátky	NNFP4-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9415-044-p14s1
+1	*	Z:-------------	AuxG
+2	O	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	se	P7-X4----------	AuxR
+5	přece	Db-------------	AuxY
+6	hodně	Dg-------1A----	Adv
+7	diskutovalo	VpNS---XR-AA---	Pred
+8	ve	RV--6----------	AuxP
+9	federálním	AAIS6----1A----	Atr
+10	parlamentu	NNIS6-----A---1	Adv
+11	na	RR--4----------	AuxP
+12	podzim	NNIS4-----A----	Adv
+13	1990	C=-------------	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9415-044-p15s1
+1	Tehdy	Db-------------	Adv
+2	proti	RR--3----------	AuxP
+3	sobě	P6-X3----------	Adv
+4	stály	VpTP---XR-AA---	Pred
+5	dvě	ClHP1----------	Atr
+6	koncepce	NNFP1-----A----	Sb
+7	privatizace	NNFS2-----A----	Atr
+8	-	Z:-------------	AuxG
+9	buď	J^-------------	AuxY
+10	kuponově	Dg-------1A----	Atr
+11	,	Z:-------------	AuxX
+12	nebo	J^-------------	Coord
+13	na	RR--4----------	AuxP
+14	splátky	NNFP4-----A----	Atr
+15	,	Z:-------------	Coord
+16	leasingem	NNIS7-----A----	Atr
+17	a	J^-------------	Coord
+18	podobně	Dg-------1A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9415-044-p15s2
+1	To	PDNS4----------	Obj
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	tehdy	Db-------------	Adv
+5	zvítězila	VpQW---XR-AA---	Atr
+6	první	CrFS1----------	Atr
+7	koncepce	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	považuji	VB-S---1P-AA--1	Pred
+10	za	RR--4----------	AuxP
+11	správné	AANS4----1A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9415-044-p15s3
+1	Neštěstí	NNNS1-----A----	Pnom
+2	však	J^-------------	Coord
+3	bylo	VpNS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	se	P7-X4----------	AuxR
+7	druhá	CrFS1----------	Atr
+8	metoda	NNFS1-----A----	Sb
+9	zcela	Db-------------	Adv
+10	zavrhla	VpQW---XR-AA--1	Sb
+11	.	Z:-------------	AuxK
+
+cmpr9415-044-p15s4
+1	Život	NNIS1-----A----	Sb
+2	nás	PP-P4--1-------	Obj
+3	po	RR--6----------	AuxP
+4	čase	NNIS6-----A----	Adv
+5	a	J^-------------	Coord
+6	poté	Db-------------	Adv
+7	,	Z:-------------	AuxX
+8	co	J,-------------	AuxC
+9	70	C=-------------	Sb
+10	procent	NNNP2-----A----	Atr
+11	majetku	NNIS2-----A----	Atr
+12	se	P7-X4----------	AuxR
+13	zprivatizovalo	VpNS---XR-AA---	Adv
+14	,	Z:-------------	AuxX
+15	přiměl	VpYS---XR-AA---	Pred
+16	se	P7-X4----------	AuxT
+17	ke	RV--3----------	AuxP
+18	splátkám	NNFP3-----A----	Adv
+19	znovu	Db-------------	Adv
+20	vrátit	Vf--------A----	Obj
+21	a	J^-------------	Coord
+22	teprve	Db-------------	Adv
+23	teď	Db-------------	Adv
+24	použít	Vf--------A----	Obj
+25	to	PDNS4----------	Obj
+26	,	Z:-------------	AuxX
+27	co	PQ--4----------	Obj
+28	v	RR--6----------	AuxP
+29	této	PDFS6----------	Atr
+30	dříve	Dg-------2A----	Adv
+31	zavržené	AAFS6----1A----	Atr
+32	koncepci	NNFS6-----A----	Adv
+33	dnes	Db-------------	Adv
+34	vidíme	VB-P---1P-AA---	Atr
+35	jako	J,-------------	AuxY
+36	racionální	AANS4----1A----	Atv
+37	.	Z:-------------	AuxK
+
+cmpr9415-044-p16s1
+1	*	Z:-------------	AuxG
+2	Budete	VB-P---2F-AA---	AuxV
+3	prodlužovat	Vf--------A----	Pred
+4	dobu	NNFS4-----A----	Obj
+5	splácení	NNNS2-----A----	Atr
+6	i	J^-------------	AuxZ
+7	v	RR--6----------	AuxP
+8	případech	NNIP6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	kdy	Db-------------	Adv
+11	někdo	PZM-1----------	Sb
+12	vydražil	VpYS---XR-AA---	Atr
+13	provozovnu	NNFS4-----A----	Obj
+14	jen	TT-------------	AuxZ
+15	tak	Db-------------	Adv
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	své	P8YP4---------1	Atr
+19	konkurenty	NNMP4-----A----	Obj
+20	usadil	VpYS---XR-AA---	Adv
+21	přemrštěně	Dg-------1A----	Adv
+22	vysokou	AAFS7----1A----	Atr
+23	cenou	NNFS7-----A----	Adv
+24	?	Z:-------------	AuxK
+
+cmpr9415-044-p17s1
+1	Takovou	PDFS4----------	Atr
+2	žádost	NNFS4-----A----	Obj
+3	o	RR--4----------	AuxP
+4	odklad	NNIS4-----A----	Atr
+5	splátek	NNFP2-----A----	Atr
+6	bychom	Vc-P---1-------	AuxV
+7	považovali	VpMP---XR-AA---	Pred
+8	za	RR--4----------	AuxP
+9	absurdní	AAFS4----1A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9415-044-p17s2
+1	Ale	J^-------------	Coord
+2	určitě	Dg-------1A----	Adv
+3	bude	VB-S---3F-AA---	Pred
+4	dost	Dg-------1A----	Sb
+5	majitelů	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	kterým	P4XP3----------	Obj
+8	nepomohou	VB-P---3P-NA--1	Atr
+9	ani	J^-------------	AuxZ
+10	dlouhodobé	AAFP1----1A----	Atr
+11	splátky	NNFP1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+cmpr9415-044-p17s3
+1	Prostě	Dg-------1A----	Adv
+2	doba	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	změnila	VpQW---XR-AA---	Pred
+5	a	J^-------------	Coord
+6	produkce	NNFS1-----A----	Sb
+7	jejich	PSXXXXP3-------	Atr
+8	podniků	NNIP2-----A----	Atr
+9	nemá	VB-S---3P-NA---	Pred
+10	odbyt	NNIS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9415-044-p17s4
+1	Pak	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	nabízí	VB-S---3P-AA---	Pred
+4	možnost	NNFS1-----A----	Sb
+5	přijímat	Vf--------A----	Atr
+6	majetek	NNIS4-----A----	Obj
+7	zpět	Db-------------	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9415-044-p17s5
+1	Ten	PDIS4----------	Obj
+2	bychom	Vc-P---1-------	AuxV
+3	přeměňovali	VpMP---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	obchodní	AAFS4----1A----	ExD
+6	-	Z:-------------	ExD
+7	nejčastěji	Dg-------3A----	ExD
+8	na	RR--4----------	AuxP
+9	akciovou	AAFS4----1A----	Atr
+10	společnost	NNFS4-----A----	ExD
+11	,	Z:-------------	ExD
+12	a	J^-------------	Coord
+13	pak	Db-------------	Adv
+14	její	PSXP4FS3-------	Atr
+15	akcie	NNFP4-----A----	Obj
+16	běžně	Dg-------1A----	Adv
+17	prodávali	VpMP---XR-AA---	Pred
+18	.	Z:-------------	AuxK
+
+cmpr9415-044-p17s6
+1	Fond	NNIS1-----A----	Sb
+2	národního	AAIS2----1A----	Atr
+3	majetku	NNIS2-----A----	Atr
+4	umí	VB-S---3P-AA---	Pred
+5	mít	Vf--------A----	Obj
+6	akcie	NNFP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	neumí	VB-S---3P-NA---	Pred
+10	spravovat	Vf--------A----	Obj
+11	fyzický	AAIS4----1A----	Atr
+12	majetek	NNIS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9415-044-p17s7
+1	Těžko	Db-------------	Adv
+2	si	P7-X3----------	AuxT
+3	představit	Vf--------A----	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	bude	VB-S---3F-AA---	AuxV
+7	někdo	PZM-1----------	Sb
+8	z	RR--2----------	AuxP
+9	našeho	PSZS2-P1-------	Atr
+10	fondu	NNIS2-----A----	Atr
+11	jezdit	Vf--------A----	Obj
+12	třeba	ACNS------A----	AuxZ
+13	do	RR--2----------	AuxP
+14	Náchoda	NNIS2-----A----	Adv
+15	kontrolovat	Vf--------A----	Obj
+16	,	Z:-------------	AuxX
+17	jak	Db-------------	Adv
+18	se	P7-X4----------	AuxR
+19	tam	Db-------------	Adv
+20	zachází	VB-S---3P-AA---	Obj
+21	s	RR--7----------	AuxP
+22	naším	PSZS7-P1-------	Atr
+23	majetkem	NNIS7-----A----	Obj
+24	.	Z:-------------	AuxK
+
+cmpr9415-044-p18s1
+1	*	Z:-------------	AuxG
+2	Kde	Db-------------	Adv
+3	tuto	PDFS4----------	Atr
+4	metodu	NNFS4-----A----	Obj
+5	použijete	VB-P---2P-AA---	Pred
+6	nejčastěji	Dg-------3A----	Adv
+7	?	Z:-------------	AuxK
+
+cmpr9415-044-p19s1
+1	V	RR--6----------	AuxP
+2	případech	NNIP6-----A----	ExD
+3	,	Z:-------------	AuxX
+4	kdy	Db-------------	Adv
+5	někdo	PZM-1----------	Sb
+6	dostane	VB-S---3P-AA---	Atr
+7	restituovaný	AAIS4----1A----	Atr
+8	majetek	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	k	RR--3----------	AuxP
+11	němuž	P9ZS3----------	Adv
+12	však	J^-------------	AuxY
+13	mezitím	Db-------------	Adv
+14	bylo	VpNS---XR-AA---	AuxV
+15	něco	PZ--1----------	Sb
+16	přistavěno	VsNS---XX-AP---	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9415-044-p19s2
+1	Restituent	NNMS1-----A----	Sb
+2	chce	VB-S---3P-AA---	Pred
+3	jen	TT-------------	AuxZ
+4	to	PDNS4----------	Obj
+5	svoje	P8NS4----------	Atr
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	to	PDNS1----------	Sb
+9	se	P7-X4----------	AuxR
+10	od	RR--2----------	AuxP
+11	toho	PDZS2----------	Obj
+12	nového	AANS2----1A----	Atr
+13	nedá	VB-S---3P-NA---	Pred
+14	prakticky	Dg-------1A----	Adv
+15	oddělit	Vf--------A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9415-044-p19s3
+1	O	RR--4----------	AuxP
+2	to	PDNS4----------	Atr
+3	nové	AANS4----1A----	Atr
+4	většinou	NNFS7-----A----	Adv
+5	nemá	VB-S---3P-NA---	Pred
+6	ani	J^-------------	AuxZ
+7	zájem	NNIS4-----A----	Obj
+8	a	J^-------------	Coord
+9	taky	Db-------------	Adv
+10	na	RR--4----------	AuxP
+11	to	PDNS4----------	Atr
+12	většinou	NNFS7-----A----	Adv
+13	nemá	VB-S---3P-NA---	Pred
+14	peníze	NNIP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9415-044-p19s4
+1	V	RR--6----------	AuxP
+2	těchto	PDXP6----------	Atr
+3	případech	NNIP6-----A----	Adv
+4	na	RR--4----------	AuxP
+5	ten	PDIS4----------	Atr
+6	přistavený	AAIS4----1A----	Atr
+7	majetek	NNIS4-----A----	Adv
+8	náš	PSYS1-P1-------	Atr
+9	fond	NNIS1-----A----	Sb
+10	vydá	VB-S---3P-AA---	Pred
+11	akcie	NNFP4-----A----	Obj
+12	,	Z:-------------	Coord
+13	ty	PDFP4----------	Obj
+14	prodá	VB-S---3P-AA---	Pred
+15	,	Z:-------------	AuxX
+16	a	J^-------------	Coord
+17	restituent	NNMS1-----A----	Sb
+18	-	Z:-------------	AuxG
+19	jako	J,-------------	AuxY
+20	čelný	AAMS1----1A----	Atr
+21	člen	NNMS1-----A----	Atv
+22	budoucího	AANS2----1A----	Atr
+23	představenstva	NNNS2-----A----	Atr
+24	-	Z:-------------	AuxG
+25	bude	VB-S---3F-AA---	AuxV
+26	na	RR--6----------	AuxP
+27	něm	P5ZS6--3-------	Adv
+28	s	RR--7----------	AuxP
+29	dalšími	AAMP7----1A----	Atr
+30	spoluvlastníky	NNMP7-----A----	Adv
+31	hospodařit	Vf--------A----	Pred
+32	.	Z:-------------	AuxK
+
+cmpr9415-044-p20s1
+1	*	Z:-------------	AuxG
+2	Přesto	Dg-------1A----	AuxY
+3	ale	J^-------------	Coord
+4	skoro	Db-------------	Adv
+5	sedm	Cn-S1----------	Sb
+6	miliard	NNFP2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	pohledávek	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4FP4----------	Obj
+11	má	VB-S---3P-AA---	Atr
+12	Fond	NNIS1-----A----	Sb
+13	u	RR--2----------	AuxP
+14	neplatičů	NNMP2-----A----	Adv
+15	,	Z:-------------	AuxX
+16	není	VB-S---3P-NA---	Pred
+17	zrovna	Db-------------	AuxZ
+18	málo	NNNS1-----A----	Pnom
+19	.	Z:-------------	AuxK
+
+cmpr9415-044-p21s1
+1	To	PDNS1----------	Sb
+2	byl	VpYS---XR-AA---	Pred
+3	stav	NNIS1-----A----	Pnom
+4	ke	RV--3----------	AuxP
+5	konci	NNIS3-----A----	AdvAtr
+6	loňského	AAIS2----1A----	Atr
+7	roku	NNIS2-----A---1	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9415-044-p21s2
+1	Když	J,-------------	AuxC
+2	částka	NNFS1-----A----	Sb
+3	rostla	VpQW---XR-AA---	Adv
+4	-	Z:-------------	AuxG
+5	a	J^-------------	Coord
+6	jde	VB-S---3P-AA---	Pred
+7	asi	TT-------------	AuxZ
+8	o	RR--4----------	AuxP
+9	240	C=-------------	Obj
+10	prodaných	AAFP2----1A----	Atr
+11	provozních	AAFP2----1A----	Atr
+12	jednotek	NNFP2-----A----	Atr
+13	-	Z:-------------	AuxG
+14	zvýšil	VpYS---XR-AA---	Pred
+15	Fond	NNIS1-----A----	Sb
+16	pozornost	NNFS4-----A----	Obj
+17	jejímu	PSZS3FS3-------	Atr
+18	vymáhání	NNNS3-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9415-044-p21s3
+1	Začínáme	VB-P---1P-AA---	Pred
+2	upomínkami	NNFP7-----A----	Adv
+3	,	Z:-------------	AuxX
+4	těch	PDXP2----------	Atr
+5	bylo	VpNS---XR-AA---	Atr
+6	vloni	Db-------------	Adv
+7	asi	TT-------------	AuxZ
+8	osm	Cn-S1----------	Sb
+9	set	NNNP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	a	J^-------------	Coord
+12	končíme	VB-P---1P-AA---	Pred
+13	soudními	AAFP7----1A----	Atr
+14	žalobami	NNFP7-----A----	Adv
+15	za	RR--4----------	AuxP
+16	nedoplatek	NNIS4-----A----	Atr
+17	kupní	AAFS2----1A----	Atr
+18	ceny	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9415-044-p21s4
+1	Bylo	VpNS---XR-AA---	AuxV
+2	jich	PPXP2--3-------	Atr
+3	podáno	VsNS---XX-AP---	Pred
+4	na	RR--4----------	AuxP
+5	sedmdesát	Cn-S4----------	Sb
+6	.	Z:-------------	AuxK
+
+cmpr9415-044-p22s1
+1	*	Z:-------------	AuxG
+2	Odkud	Db-------------	Adv
+3	vyšel	VpYS---XR-AA---	Pred
+4	impulz	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	abyste	J,-P---2-------	AuxC
+7	poněkud	Db-------------	Adv
+8	polevili	VpMP---XR-AA---	Atr
+9	v	RR--6----------	AuxP
+10	tlaku	NNIS6-----A----	Obj
+11	na	RR--4----------	AuxP
+12	vymáhání	NNNS4-----A----	Atr
+13	částek	NNFP2-----A----	Atr
+14	a	J^-------------	Coord
+15	hledali	VpMP---XR-AA---	Atr
+16	,	Z:-------------	AuxX
+17	jak	Db-------------	Adv
+18	je	PPXP4--3-------	Obj
+19	rozložit	Vf--------A----	Obj
+20	na	RR--4----------	AuxP
+21	delší	AANS4----2A----	Atr
+22	období	NNNS4-----A----	Adv
+23	?	Z:-------------	AuxK
+
+cmpr9415-044-p23s1
+1	Samozřejmě	Dg-------1A----	ExD
+2	od	RR--2----------	AuxP
+3	nás	PP-P2--1-------	ExD
+4	samotných	AAMP2----1A----	Atv
+5	.	Z:-------------	AuxK
+
+cmpr9415-044-p23s2
+1	Obvykle	Dg-------1A----	Adv
+2	je	VB-S---3P-AA---	Pred
+3	snadno	Dg-------1A----	Adv
+4	vidět	Vf--------A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	podmínky	NNFP1-----A----	Sb
+8	splácení	NNNS2-----A----	Atr
+9	jsou	VB-P---3P-AA---	Obj
+10	neúnosně	Dg-------1N----	Adv
+11	tvrdé	AAFP1----1A----	Pnom
+12	,	Z:-------------	AuxX
+13	zvláště	Db-------------	Adv
+14	když	J,-------------	AuxC
+15	se	P7-X4----------	AuxR
+16	podnikateli	NNMS3-----A----	Obj
+17	staví	VB-P---3P-AA--1	Adv
+18	do	RR--2----------	AuxP
+19	cesty	NNFS2-----A----	Adv
+20	překážky	NNFP1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	které	P4FP4----------	Obj
+23	on	PPYS1--3-------	Sb
+24	sám	PLYS1----------	Atv
+25	nemůže	VB-S---3P-NA---	Atr
+26	nijak	Db-------------	Adv
+27	ovlivnit	Vf--------A----	Obj
+28	-	Z:-------------	AuxG
+29	jsou	VB-P---3P-AA---	Pred
+30	povolení	NNNP1-----A----	Sb
+31	,	Z:-------------	AuxX
+32	na	RR--4----------	AuxP
+33	která	P4NP4----------	Obj
+34	se	P7-X4----------	AuxR
+35	čeká	VB-S---3P-AA---	Atr
+36	měsíce	NNIP4-----A----	Adv
+37	,	Z:-------------	AuxX
+38	a	J^-------------	Coord
+39	podobně	Dg-------1A----	ExD
+40	.	Z:-------------	AuxK
+
+cmpr9415-044-p23s3
+1	Ale	J^-------------	Coord
+2	také	Db-------------	Adv
+3	máme	VB-P---1P-AA---	Pred
+4	signály	NNIP4-----A----	Obj
+5	z	RR--2----------	AuxP
+6	bank	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	je	VB-S---3P-AA---	Atr
+10	rovněž	Db-------------	Adv
+11	cítit	Vf--------A----	Sb
+12	snahu	NNFS4-----A----	Obj
+13	restrukturalizovat	Vf--------A----	Atr
+14	dluhy	NNIP4-----A----	Obj
+15	obsluhy	NNFS2-----A----	Atr
+16	do	RR--2----------	AuxP
+17	delšího	AANS2----2A----	Atr
+18	období	NNNS2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+cmpr9415-044-p24s1
+1	*	Z:-------------	AuxG
+2	Vraťme	Vi-P---1--A----	Pred
+3	se	P7-X4----------	AuxT
+4	ještě	Db-------------	Adv
+5	k	RR--3----------	AuxP
+6	případům	NNIP3-----A----	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	dražbu	NNFS4-----A----	Obj
+10	nebo	J^-------------	Coord
+11	veřejnou	AAFS4----1A----	Atr
+12	soutěž	NNFS4-----A----	Obj
+13	vyhrál	VpYS---XR-AA---	Atr
+14	ten	PDYS1----------	Sb
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	nasadil	VpYS---XR-AA---	Atr
+18	neúměrně	Dg-------1N----	Adv
+19	vysokou	AAFS4----1A----	Atr
+20	cenu	NNFS4-----A----	Obj
+21	,	Z:-------------	AuxX
+22	a	J^-------------	Coord
+23	teď	Db-------------	Adv
+24	,	Z:-------------	AuxX
+25	když	J,-------------	AuxC
+26	má	VB-S---3P-AA---	Adv
+27	splácet	Vf--------A----	Obj
+28	dluhy	NNIP4-----A----	Obj
+29	i	J^-------------	AuxZ
+30	s	RR--7----------	AuxP
+31	úroky	NNIP7-----A----	Adv
+32	,	Z:-------------	AuxX
+33	je	VB-S---3P-AA---	Atr
+34	v	RR--6----------	AuxP
+35	koncích	NNIP6-----A----	Adv
+36	.	Z:-------------	AuxK
+
+cmpr9415-044-p25s1
+1	Vím	VB-S---1P-AA---	Pred
+2	o	RR--6----------	AuxP
+3	spoustě	NNFS6-----A----	Obj
+4	případů	NNIP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	kdy	Db-------------	Adv
+7	podnikatelé	NNMP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	kteří	P4MP1----------	Sb
+10	si	P7-X3----------	Adv
+11	udělali	VpMP---XR-AA---	Atr
+12	seriózní	AAIP4----1A----	Atr
+13	propočty	NNIP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	za	RR--4----------	AuxP
+16	kolik	C?--4----------	Adv
+17	lze	VB-S---3P-AA---	Atr
+18	objekt	NNIS4-----A----	Obj
+19	koupit	Vf--------A----	Sb
+20	a	J^-------------	Coord
+21	co	PQ--4----------	ExD
+22	s	RR--7----------	AuxP
+23	ním	P5ZS7--3-------	ExD
+24	,	Z:-------------	AuxX
+25	jej	PPZS4--3------2	Obj
+26	nezískali	VpMP---XR-NA---	Atr
+27	a	J^-------------	Coord
+28	skončili	VpMP---XR-AA---	Atr
+29	až	TT-------------	AuxZ
+30	třeba	Db-------------	AuxZ
+31	na	RR--6----------	AuxP
+32	třetím	CrNS6----------	Atr
+33	,	Z:-------------	Coord
+34	čtvrtém	CrNS6----------	Atr
+35	místě	NNNS6-----A----	Adv
+36	za	RR--7----------	AuxP
+37	furiantskými	AAIP7----1A----	Atr
+38	projekty	NNIP7-----A----	AtrAdv
+39	.	Z:-------------	AuxK
+
+cmpr9415-044-p25s2
+1	Takový	PDYS1----------	Pnom
+2	byl	VpYS---XR-AA---	Pred
+3	třeba	Db-------------	AuxZ
+4	prodej	NNIS1-----A----	Sb
+5	Pragolaktosu	NNIS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9415-044-p25s3
+1	Běžné	AAIP1----1A----	Pnom
+2	byly	VpTP---XR-AA---	Pred
+3	tyto	PDIP1----------	Atr
+4	případy	NNIP1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	malé	AAFS6----1A----	Atr
+7	privatizaci	NNFS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	někdo	PZM-1----------	Sb
+11	se	P7-X4----------	Obj
+12	dal	VpYS---XR-AA---	Atr
+13	strhnout	Vf--------A----	Obj
+14	atmosférou	NNFS7-----A----	Adv
+15	dražby	NNFS2-----A----	Atr
+16	a	J^-------------	Coord
+17	koupil	VpYS---XR-AA---	Atr
+18	objekt	NNIS4-----A----	Obj
+19	vysoko	Dg-------1A----	Adv
+20	nad	RR--4----------	AuxP
+21	ekonomicky	Dg-------1A----	Adv
+22	odůvodněnou	AAFS4----1A----	Atr
+23	a	J^-------------	Coord
+24	tedy	Db-------------	AuxY
+25	skutečnou	AAFS4----1A----	Atr
+26	tržní	AAFS4----1A----	Atr
+27	cenu	NNFS4-----A----	Adv
+28	.	Z:-------------	AuxK
+
+cmpr9415-044-p25s4
+1	Vzápětí	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	toho	PDMS4----------	Atr
+4	člověka	NNMS4-----A----	Obj
+5	měli	VpMP---XR-AA---	Pred
+6	tady	Db-------------	Adv
+7	v	RR--6----------	AuxP
+8	úřadě	NNIS6-----A----	Adv
+9	s	RR--7----------	AuxP
+10	prosbou	NNFS7-----A----	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	to	PDNS4----------	Obj
+14	za	RR--4----------	AuxP
+15	ty	PDIP4----------	Atr
+16	peníze	NNIP4-----A----	Adv
+17	už	Db-------------	Adv
+18	nechce	VB-S---3P-NA---	Atr
+19	,	Z:-------------	AuxX
+20	protože	J,-------------	AuxC
+21	z	RR--2----------	AuxP
+22	dražební	AAFS2----1A----	Atr
+23	horečky	NNFS2-----A----	Obj
+24	mezitím	Db-------------	Adv
+25	vystřízlivěl	VpYS---XR-AA---	Adv
+26	.	Z:-------------	AuxK
+
+cmpr9415-044-p25s5
+1	Řešení	NNNS4-----A----	Obj
+2	máme	VB-P---1P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	i	J^-------------	AuxY
+5	když	J,-------------	AuxC
+6	není	VB-S---3P-NA---	Adv
+7	jednoduché	AANS1----1A----	Pnom
+8	a	J^-------------	Coord
+9	celou	AAFS4----1A----	Atr
+10	privatizaci	NNFS4-----A----	Obj
+11	protahuje	VB-S---3P-AA---	Adv
+12	:	Z:-------------	AuxG
+13	Zpátky	Db-------------	Adv
+14	objekt	NNIS4-----A----	Obj
+15	znárodňovat	Vf--------A----	Atr
+16	nebudeme	VB-P---1F-NA---	AuxV
+17	,	Z:-------------	AuxX
+18	ale	J^-------------	Coord
+19	nabídneme	VB-P---1P-AA---	Atr
+20	ho	PHZS4--3-------	Obj
+21	druhému	CrMS3----------	ExD
+22	v	RR--6----------	AuxP
+23	pořadí	NNNS6-----A----	Adv
+24	.	Z:-------------	AuxK
+
+cmpr9415-044-p26s1
+1	*	Z:-------------	AuxG
+2	Kolik	C?--1----------	Sb
+3	majetku	NNIS2-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	vlastně	Db-------------	Adv
+6	privatizuje	VB-S---3P-AA---	Pred
+7	celkem	Db-------------	Adv
+8	?	Z:-------------	AuxK
+
+cmpr9415-044-p27s1
+1	Za	RR--4----------	AuxP
+2	necelých	AAFP2----1N----	Atr
+3	devět	Cn-S4----------	ExD
+4	set	NNNP2-----A----	Atr
+5	miliard	NNFP2-----A----	Atr
+6	korun	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9415-044-p27s2
+1	Skoro	Db-------------	Adv
+2	šedesát	Cn-S1----------	Sb
+3	procent	NNNP2-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	ho	PHZS2--3-------	Atr
+6	bezúplatně	Dg-------1A----	Adv
+7	převádí	VB-S---3P-AA---	Pred
+8	na	RR--4----------	AuxP
+9	nové	AAMP4----1A----	Atr
+10	majitele	NNMP4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9415-044-p27s3
+1	Sem	Db-------------	Adv
+2	patří	VB-S---3P-AA---	Pred
+3	kuponová	AAFS1----1A----	Atr
+4	privatizace	NNFS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	převody	NNIP1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	obce	NNFP4-----A----	Atr
+9	,	Z:-------------	AuxX
+10	restituce	NNFP1-----A----	Sb
+11	a	J^-------------	Coord
+12	rezervní	AAIP1----1A----	Atr
+13	fondy	NNIP1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+cmpr9415-044-p28s1
+1	*	Z:-------------	AuxG
+2	O	RR--6----------	AuxP
+3	majetku	NNIS6-----A----	Obj
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	přechází	VB-S---3P-AA---	Atr
+7	na	RR--4----------	AuxP
+8	obce	NNFP4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	se	P7-X4----------	AuxR
+11	moc	Db-------------	Adv
+12	nemluví	VB-S---3P-NA---	Pred
+13	.	Z:-------------	AuxK
+
+cmpr9415-044-p29s1
+1	Protože	J,-------------	AuxC
+2	není	VB-S---3P-NA---	Pred
+3	lákavé	AANS1----1A----	Pnom
+4	pro	RR--4----------	AuxP
+5	novináře	NNMP4-----A----	Adv
+6	,	Z:-------------	AuxX
+7	když	J,-------------	AuxC
+8	se	P7-X4----------	AuxR
+9	třeba	Db-------------	AuxZ
+10	mateřská	AAFS1----1A----	Atr
+11	školka	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	sportovní	AANS1----1A----	Atr
+14	zařízení	NNNS1-----A----	Sb
+15	či	J^-------------	Coord
+16	byty	NNIP1-----A----	Sb
+17	z	RR--2----------	AuxP
+18	majetku	NNIS2-----A----	Atr
+19	bývalého	AAIS2----1A----	Atr
+20	podniku	NNIS2-----A----	Atr
+21	účetně	Dg-------1A----	Adv
+22	jednoduše	Dg-------1A----	Adv
+23	papírově	Dg-------1A----	Adv
+24	přepíšou	VB-P---3P-AA---	Sb
+25	na	RR--4----------	AuxP
+26	magistrát	NNIS4-----A----	Adv
+27	.	Z:-------------	AuxK
+
+cmpr9415-044-p29s2
+1	Chtěli	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	tak	Db-------------	Adv
+4	odbřemenit	Vf--------A----	Obj
+5	výrobní	AAIP4----1A----	Atr
+6	podniky	NNIP4-----A----	Obj
+7	od	RR--2----------	AuxP
+8	majetku	NNIS2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	nemá	VB-S---3P-NA---	Atr
+12	mnoho	Ca--4----------	Obj
+13	společného	AANS2----1A----	Atv
+14	s	RR--7----------	AuxP
+15	jeho	PSXXXZS3-------	Atr
+16	vlastní	AAFS7----1A----	Atr
+17	podnikatelskou	AAFS7----1A----	Atr
+18	činností	NNFS7-----A----	Obj
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	spíš	Dg-------2A----	Adv
+22	mu	PHZS3--3-------	Obj
+23	přidělává	VB-S---3P-AA---	Atr
+24	starosti	NNFP4-----A----	Obj
+25	a	J^-------------	Coord
+26	zvyšuje	VB-S---3P-AA---	Atr
+27	náklady	NNIP4-----A----	Obj
+28	.	Z:-------------	AuxK
+
+cmpr9415-044-p30s1
+1	*	Z:-------------	AuxG
+2	Byly	VpTP---XR-AA---	AuxV
+3	na	RR--4----------	AuxP
+4	obce	NNFP4-----A----	Obj
+5	převedeny	VsTP---XX-AP---	Pred
+6	i	J^-------------	AuxZ
+7	nějaké	PZFP1----------	Atr
+8	akcie	NNFP1-----A----	Sb
+9	?	Z:-------------	AuxK
+
+cmpr9415-044-p31s1
+1	Ano	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	a	J^-------------	AuxY
+4	to	PDNS4----------	AuxY
+5	v	RR--6----------	AuxP
+6	případě	NNIS6-----A----	ExD
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	jsme	VB-P---1P-AA---	AuxV
+10	obce	NNFP4-----A----	Obj
+11	chtěli	VpMP---XR-AA---	Atr
+12	zainteresovat	Vf--------A----	Obj
+13	na	RR--6----------	AuxP
+14	užší	AAFS6----2A----	Atr
+15	spolupráci	NNFS6-----A----	Obj
+16	s	RR--7----------	AuxP
+17	výrobními	AAIP7----1A----	Atr
+18	závody	NNIP7-----A----	Atr
+19	,	Z:-------------	AuxX
+20	ležícími	AGIP7-----A----	Atr
+21	v	RR--6----------	AuxP
+22	příslušném	AAIS6----1A----	Atr
+23	regionu	NNIS6-----A----	Adv
+24	.	Z:-------------	AuxK
+
+cmpr9415-044-p31s2
+1	Podobné	AANS1----1A----	Pnom
+2	to	PDNS1----------	Sb
+3	bylo	VpNS---XR-AA---	Pred
+4	u	RR--2----------	AuxP
+5	obcí	NNFP2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	kde	Db-------------	Adv
+8	jsou	VB-P---3P-AA---	Atr
+9	lázně	NNFP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+cmpr9415-044-p32s1
+1	*	Z:-------------	AuxG
+2	Ale	J^-------------	Coord
+3	do	RR--2----------	AuxP
+4	celkového	AAIS2----1A----	Atr
+5	součtu	NNIS2-----A----	Adv
+6	chybí	VB-S---3P-AA---	Pred
+7	ještě	Db-------------	Adv
+8	pár	NNIS1-----A----	Sb
+9	set	NNNP2-----A----	Atr
+10	miliard	NNFP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9415-044-p33s1
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	právě	Db-------------	AuxZ
+4	majetek	NNIS1-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	určený	AAIS1----1A----	Atr
+7	k	RR--3----------	AuxP
+8	přímému	AAIS3----1A----	Atr
+9	prodeji	NNIS3-----A----	Obj
+10	,	Z:-------------	AuxX
+11	případně	Dg-------1A----	Coord
+12	k	RR--3----------	AuxP
+13	převodu	NNIS3-----A----	Obj
+14	na	RR--4----------	AuxP
+15	akcie	NNFP4-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9415-044-p33s2
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	jednoduché	AANS1----1A----	Atr
+4	schéma	NNNS1-----A----	Pnom
+5	:	Z:-------------	AuxG
+6	Třetinu	CyFS4----------	Obj
+7	dostaly	VpTP---XR-AA---	Adv
+8	domácnosti	NNFP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	v	RR--6----------	AuxP
+11	kuponové	AAFS6----1A----	Atr
+12	privatizaci	NNFS6-----A----	Adv
+13	Druhá	CrFS1----------	Atr
+14	třetina	CyFS1----------	Sb
+15	se	P7-X4----------	AuxR
+16	rozdala	VpQW---XR-AA---	Adv
+17	obcím	NNFP3-----A----	Adv
+18	,	Z:-------------	AuxX
+19	či	J^-------------	Coord
+20	vyčlenila	VpQW---XR-AA---	Adv
+21	na	RR--4----------	AuxP
+22	náhrady	NNFP4-----A----	Obj
+23	a	J^-------------	Coord
+24	teprve	Db-------------	AuxZ
+25	třetí	CrFS1----------	Atr
+26	třetina	CyFS1----------	Sb
+27	majetku	NNIS2-----A----	Atr
+28	státního	AAIS2----1A----	Atr
+29	se	P7-X4----------	AuxR
+30	fakticky	Dg-------1A----	Adv
+31	prodává	VB-S---3P-AA---	Adv
+32	.	Z:-------------	AuxK
+
+cmpr9415-044-p34s1
+1	*	Z:-------------	AuxG
+2	Jak	Db-------------	Adv
+3	se	P7-X4----------	AuxT
+4	stavíte	VB-P---2P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	hlasům	NNIP3-----A----	Obj
+7	privatizaci	NNFS4-----A----	Obj
+8	ukončit	Vf--------A----	Atr
+9	v	RR--6----------	AuxP
+10	co	Db-------------	Adv
+11	nejkratší	AAFS6----3A----	Atr
+12	době	NNFS6-----A----	Adv
+13	?	Z:-------------	AuxK
+
+cmpr9415-044-p35s1
+1	Myslím	VB-S---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	by	Vc-------------	AuxV
+5	mohla	VpQW---XR-AA---	Obj
+6	skončit	Vf--------A----	Obj
+7	do	RR--2----------	AuxP
+8	konce	NNIS2-----A----	Adv
+9	roku	NNIS2-----A---1	Atr
+10	1996	C=-------------	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9415-044-p35s2
+1	Zůstanou	VB-P---3P-AA---	Pred
+2	sice	Db-------------	AuxY
+3	závazky	NNIP1-----A----	Sb
+4	a	J^-------------	Coord
+5	pohledávky	NNFP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	ty	PDFP4----------	Obj
+9	už	Db-------------	Adv
+10	nemusí	VB-S---3P-NA---	Pred
+11	vyřizovat	Vf--------A----	Obj
+12	Fond	NNIS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+cmpr9415-044-p35s3
+1	To	PDNS4----------	Obj
+2	může	VB-S---3P-AA---	Pred
+3	zvládnout	Vf--------A----	Obj
+4	odbor	NNIS1-----A----	Sb
+5	třeba	Db-------------	AuxZ
+6	na	RR--6----------	AuxP
+7	ministerstvu	NNNS6-----A----	Atr
+8	financí	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9415-044-p36s1
+1	*	Z:-------------	AuxG
+2	Dlouhodobý	AAIS1----1A----	Atr
+3	pohled	NNIS1-----A----	Sb
+4	na	RR--4----------	AuxP
+5	strukturu	NNFS4-----A----	Atr
+6	vlastnictví	NNNS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	některých	PZXP6----------	Atr
+9	zemích	NNFP6-----A----	Atr
+10	západní	AAFS2----1A----	Atr
+11	Evropy	NNFS2-----A----	Atr
+12	naznačuje	VB-S---3P-AA---	Pred
+13	střídání	NNNS4-----A----	Obj
+14	etap	NNFP2-----A----	Atr
+15	znárodňování	NNNS2-----A----	Atr
+16	a	J^-------------	Coord
+17	privatizování	NNNS2-----A----	Atr
+18	,	Z:-------------	Coord
+19	často	Dg-------1A----	ExD
+20	jedné	ClFS2----------	Atr
+21	a	J^-------------	Coord
+22	téže	PDFS2----------	Atr
+23	firmy	NNFS2-----A----	ExD
+24	.	Z:-------------	AuxK
+
+cmpr9415-044-p36s2
+1	Uvažuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	také	Db-------------	Adv
+4	u	RR--2----------	AuxP
+5	nás	PP-P2--1-------	Adv
+6	s	RR--7----------	AuxP
+7	myšlenkou	NNFS7-----A----	Adv
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	za	RR--2----------	AuxP
+11	jistých	AAFP2----1A----	Atr
+12	okolností	NNFP2-----A----	Adv
+13	převezme	VB-S---3P-AA---	Atr
+14	na	RR--4----------	AuxP
+15	nějakou	PZFS4----------	Atr
+16	dobu	NNFS4-----A----	Adv
+17	firmu	NNFS4-----A----	Obj
+18	stát	NNIS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	aby	J,-------------	AuxC
+21	ji	PPFS4--3-------	Obj
+22	pak	Db-------------	Adv
+23	zase	Db-------------	Adv
+24	prodal	VpYS---XR-AA---	Adv
+25	?	Z:-------------	AuxK
+
+cmpr9415-044-p37s1
+1	Naše	PSHS1-P1-------	Atr
+2	privatizace	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	výrazně	Dg-------1A----	Adv
+5	transformační	AAFS4----1A----	Atr
+6	podobu	NNFS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+cmpr9415-044-p37s2
+1	To	PDNS4----------	Obj
+2	nezažila	VpQW---XR-NA---	Pred
+3	ani	J^-------------	AuxY
+4	Anglie	NNFS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	ani	J^-------------	Coord
+7	Francie	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	byla	VpQW---XR-AA---	Atr
+11	v	RR--6----------	AuxP
+12	různých	AAFP6----1A----	Atr
+13	dobách	NNFP6-----A----	Adv
+14	váha	NNFS1-----A----	Sb
+15	státního	AAIS2----1A----	Atr
+16	sektoru	NNIS2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	ekonomice	NNFS6-----A----	Adv
+19	výrazná	AAFS1----1A----	Pnom
+20	.	Z:-------------	AuxK
+
+cmpr9415-044-p37s3
+1	U	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	šlo	VpNS---XR-AA---	Pred
+4	vždy	Db-------------	Adv
+5	o	RR--4----------	AuxP
+6	tržní	AAFS4----1A----	Atr
+7	,	Z:-------------	AuxX
+8	byť	J,-------------	AuxC
+9	smíšenou	AAFS4----1A----	Adv
+10	ekonomiku	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	kdežto	J^-------------	AuxC
+13	u	RR--2----------	AuxP
+14	nás	PP-P2--1-------	Adv
+15	byla	VpQW---XR-AA---	Adv
+16	privatizace	NNFS1-----A----	Sb
+17	skokem	NNIS7-----A----	Pnom
+18	do	RR--2----------	AuxP
+19	tržního	AAIS2----1A----	Atr
+20	světa	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9415-044-p37s4
+1	Pokud	J,-------------	AuxC
+2	u	RR--2----------	AuxP
+3	nás	PP-P2--1-------	Adv
+4	se	P7-X4----------	AuxR
+5	trh	NNIS1-----A----	Sb
+6	etabluje	VB-S---3P-AA---	Adv
+7	stejně	Dg-------1A----	Adv
+8	jako	J,-------------	AuxC
+9	tomu	PDZS3----------	Sb
+10	je	VB-S---3P-AA---	Adv
+11	tam	Db-------------	Adv
+12	,	Z:-------------	AuxX
+13	tak	Db-------------	Adv
+14	si	P7-X3----------	AuxT
+15	docela	Db-------------	Adv
+16	klidně	Dg-------1A----	Adv
+17	dokážu	VB-S---1P-AA---	Pred
+18	představit	Vf--------A----	Obj
+19	situaci	NNFS4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	kdy	Db-------------	Adv
+22	se	P7-X4----------	AuxR
+23	některé	PZFP1----------	Atr
+24	firmy	NNFP1-----A----	Sb
+25	,	Z:-------------	AuxX
+26	či	J^-------------	Coord
+27	dílčí	AAIP1----1A----	Atr
+28	úseky	NNIP1-----A----	Sb
+29	v	RR--6----------	AuxP
+30	ekonomice	NNFS6-----A----	Atr
+31	vrátí	VB-P---3P-AA---	Atr
+32	opět	Db-------------	Adv
+33	státu	NNIS3-----A----	Obj
+34	.	Z:-------------	AuxK
+
+cmpr9415-044-p37s5
+1	Šlo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	však	J^-------------	Coord
+4	nepochybně	Dg-------1A----	Adv
+5	o	RR--4----------	AuxP
+6	výjimku	NNFS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	by	Vc-------------	AuxV
+10	neměla	VpQW---XR-NA---	Atr
+11	vliv	NNIS4-----A----	Obj
+12	na	RR--4----------	AuxP
+13	systém	NNIS4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9415-044-p38s1
+1	citát	NNIS1-----A----	ExD
+2	do	RR--2----------	AuxP
+3	linek	NNFP2-----A----	Atr
+
+cmpr9415-044-p39s1
+1	Dokážu	VB-S---1P-AA---	Pred
+2	si	P7-X3----------	AuxT
+3	představit	Vf--------A----	Obj
+4	situaci	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	kdy	Db-------------	Adv
+7	se	P7-X4----------	AuxR
+8	některé	PZFP1----------	Atr
+9	firmy	NNFP1-----A----	Sb
+10	vrátí	VB-P---3P-AA---	Atr
+11	státu	NNIS3-----A----	Obj
+

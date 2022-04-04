@@ -1,0 +1,125 @@
+ln95042-094-p1s1
+1	Karlovarské	AAFP1----1A----	Atr
+2	vody	NNFP1-----A----	Sb
+3	navyšují	VB-P---3P-AA---	Pred
+4	jmění	NNNS4-----A----	Obj
+
+ln95042-094-p2s1A
+1	Karlovy	AUIP1M---------	Atr
+2	Vary	NNIP1-----A----	ExD
+3	-	Z:-------------	AuxK
+
+ln95042-094-p2s1B
+1	Zvýšení	NNNS4-----A----	Obj
+2	základního	AANS2----1A----	Atr
+3	jmění	NNNS2-----A----	Atr
+4	o	RR--4----------	AuxP
+5	sto	NNNS4-----A----	Atr
+6	miliónů	NNIP2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	311	C=-------------	Atr
+10	miliónů	NNIP2-----A----	Atr
+11	schválila	VpQW---XR-AA---	Pred
+12	mimořádná	AAFS1----1A----	Atr
+13	valná	AAFS1----1A----	Atr
+14	hromada	NNFS1-----A----	Sb
+15	Karlovarských	AAFP2----1A----	Atr
+16	minerálních	AAFP2----1A----	Atr
+17	vod	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95042-094-p2s2
+1	Předkupní	AANS4----1A----	Atr
+2	právo	NNNS4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	nové	AAFP4----1A----	Atr
+5	akcie	NNFP4-----A----	Atr
+6	mají	VB-P---3P-AA---	Obj
+7	dosavadní	AAMP1----1A----	Atr
+8	akcionáři	NNMP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	sdělil	VpYS---XR-AA---	Pred
+11	ředitel	NNMS1-----A----	Atr
+12	G	NNMXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	Bulín	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95042-094-p3s1
+1	Tři	ClXP4----------	Atr
+2	čtvrtiny	CyFP4----------	Obj
+3	akcií	NNFP2-----A----	Atr
+4	vlastní	VB-P---3P-AA---	Pred
+5	od	RR--2----------	AuxP
+6	roku	NNIS2-----A---1	Adv
+7	1991	C=-------------	Atr
+8	italské	AAFP1----1A----	Atr
+9	firmy	NNFP1-----A----	Sb
+10	Rec	AAXXX----1A----	Atr
+11	Holding	NNIS1-----A----	Atr
+12	a	J^-------------	Coord
+13	IMBE	NNXXX-----A---8	Atr
+14	.	Z:-------------	AuxK
+
+ln95042-094-p3s2
+1	Zbylou	AAFS4----1A----	Atr
+2	čtvrtinu	CyFS4----------	Obj
+3	v	RR--6----------	AuxP
+4	hodnotě	NNFS6-----A----	Atr
+5	53	C=-------------	Atr
+6	miliónů	NNIP2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	nabídla	VpQW---XR-AA--1	Pred
+9	společnost	NNFS1-----A----	Sb
+10	ve	RV--6----------	AuxP
+11	druhé	CrFS6----------	Atr
+12	vlně	NNFS6-----A----	Adv
+13	kupónové	AAFS2----1A----	Atr
+14	privatizace	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95042-094-p4s1
+1	Nyní	Db-------------	Adv
+2	KMV	NNFPX-----A----	Sb
+3	,	Z:-------------	ExD
+4	mj	Db------------8	ExD
+5	.	Z:-------------	AuxG
+6	výrobce	NNMS1-----A----	ExD
+7	Mattoniho	NNMS2-----A----	Atr
+8	kyselky	NNFS2-----A----	Atr
+9	,	Z:-------------	ExD
+10	pokrývá	VB-S---3P-AA---	Pred
+11	potřeby	NNFP4-----A----	Obj
+12	tuzemského	AAIS2----1A----	Atr
+13	trhu	NNIS2-----A----	Atr
+14	z	RR--2----------	AuxP
+15	jedné	ClFS2----------	Atr
+16	třetiny	CyFS2----------	Adv
+17	.	Z:-------------	AuxK
+
+ln95042-094-p4s2
+1	Bilanční	AAIS1----1A----	Atr
+2	zisk	NNIS1-----A----	Sb
+3	společnosti	NNFS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	zaměstnává	VB-S---3P-AA---	Atr
+7	kolem	RR--2----------	AuxP
+8	200	C=-------------	Obj
+9	osob	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	se	P7-X4----------	AuxT
+12	v	RR--6----------	AuxP
+13	posledních	AANP6----1A----	Atr
+14	dvou	ClXP6----------	Atr
+15	letech	NNNP6-----A----	Adv
+16	pohybuje	VB-S---3P-AA---	Pred
+17	mezi	RR--7----------	AuxP
+18	46	C=-------------	Atr
+19	až	J^-------------	Coord
+20	47	C=-------------	Atr
+21	milióny	NNIP7-----A----	Adv
+22	korun	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+

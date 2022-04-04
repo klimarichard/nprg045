@@ -1,0 +1,843 @@
+ln94206-85-p1s1
+1	Milníky	NNIP1-----A----	ExD
+2	čtvrtstoleté	AAFS2----1A----	Atr
+3	historie	NNFS2-----A----	Atr
+
+ln94206-85-p2s1A
+1	Důležitá	AANP1----1A----	Atr
+2	data	NNNP1-----A----	ExD
+3	vývoje	NNIS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Severním	AANS6----1A----	Atr
+6	Irsku	NNNS6-----A----	Atr
+7	před	RR--7----------	AuxP
+8	včerejším	AANS7----1A----	Atr
+9	příměřím	NNNS7-----A----	ExD
+
+ln94206-85-p2s1B
+1	Čtvrt	NNFS1-----A----	Sb
+2	století	NNNS1-----A----	Atr
+3	konfliktu	NNIS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	Irsku	NNNS6-----A----	Atr
+6	si	P7-X3----------	AuxT
+7	dosud	Db-------------	Adv
+8	vyžádalo	VpNS---XR-AA---	Pred
+9	na	RR--6----------	AuxP
+10	všech	PLXP6----------	Atr
+11	stranách	NNFP6-----A----	Adv
+12	celkem	Db-------------	AuxZ
+13	3169	C=-------------	Obj
+14	mrtvých	AAMP2----1A----	Atr
+15	,	Z:-------------	Coord
+16	zraněno	VsNS---XX-AP---	Pred
+17	bylo	VpNS---XR-AA---	AuxV
+18	36500	C=-------------	Sb
+19	lidí	NNMP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94206-85-p2s2A
+1	Následující	AGIS1-----A----	Atr
+2	přehled	NNIS1-----A----	Sb
+3	uvádí	VB-S---3P-AA---	Pred
+4	hlavní	AAIP4----1A----	Atr
+5	údaje	NNIP4-----A----	Obj
+6	o	RR--6----------	AuxP
+7	dosavadním	AAIS6----1A----	Atr
+8	vývoji	NNIS6-----A----	Atr
+9	:	Z:-------------	AuxK
+
+ln94206-85-p2s2B
+1	1968	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	1969	C=-------------	ExD
+4	:	Z:-------------	Coord
+5	vlna	NNFS1-----A----	ExD
+6	pumových	AAIP2----1A----	Atr
+7	atentátů	NNIP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	jejichž	P1XXXXP3-------	Atr
+10	původci	NNMP7-----A----	Pnom
+11	byly	VpTP---XR-AA---	Atr
+12	jak	J^-------------	AuxY
+13	Irská	AAFS1----1A----	Atr
+14	republikánská	AAFS1----1A----	Atr
+15	armáda	NNFS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	tak	J^-------------	Coord
+18	extremistické	AAFP1----1A----	Atr
+19	protestantské	AAFP1----1A----	Atr
+20	organizace	NNFP1-----A----	Sb
+21	;	Z:-------------	AuxK
+
+ln94206-85-p2s3
+1	srpen	NNIS1-----A----	ExD
+2	1969	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	na	RR--4----------	AuxP
+5	žádost	NNFS4-----A----	Adv
+6	místní	AAFS2----1A----	Atr
+7	vlády	NNFS2-----A----	Atr
+8	vyslala	VpQW---XR-AA---	Pred
+9	britská	AAFS1----1A----	Atr
+10	vláda	NNFS1-----A----	Sb
+11	do	RR--2----------	AuxP
+12	Severního	AANS2----1A----	Atr
+13	Irska	NNNS2-----A----	Adv
+14	vojenské	AAFP4----1A----	Atr
+15	jednotky	NNFP4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	které	P4FP1----------	Sb
+18	měly	VpTP---XR-AA---	Atr
+19	zastavit	Vf--------A----	Obj
+20	další	AANS4----1A----	Atr
+21	krveprolévání	NNNS4-----A----	Obj
+22	;	Z:-------------	AuxK
+
+ln94206-85-p2s4
+1	březen	NNIS1-----A----	ExD
+2	1972	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	předseda	NNMS1-----A----	Sb
+5	britské	AAFS2----1A----	Atr
+6	vlády	NNFS2-----A----	Atr
+7	zavedl	VpYS---XR-AA---	Pred
+8	přímou	AAFS4----1A----	Atr
+9	správu	NNFS4-----A----	Obj
+10	Severního	AANS2----1A----	Atr
+11	Irska	NNNS2-----A----	Atr
+12	z	RR--2----------	AuxP
+13	Londýna	NNIS2-----A----	Atr
+14	;	Z:-------------	AuxK
+
+ln94206-85-p2s5
+1	řízením	NNNS7-----A----	ExD
+2	pověřen	VsYS---XX-AP---	ExD
+3	státní	AAMS1----1A----	Atr
+4	ministr	NNMS1-----A----	ExD
+5	pro	RR--4----------	AuxP
+6	Severní	AANS4----1A----	Atr
+7	Irsko	NNNS4-----A----	Atr
+8	;	Z:-------------	AuxK
+
+ln94206-85-p2s6
+1	severoirský	AAIS1----1A----	Atr
+2	parlament	NNIS1-----A----	Sb
+3	rozpuštěn	VsYS---XX-AP---	Pred
+4	;	Z:-------------	AuxK
+
+ln94206-85-p2s7
+1	leden	NNIS1-----A----	ExD
+2	1974	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	začalo	VpNS---XR-AA---	Pred
+5	pracovat	Vf--------A----	Obj
+6	Oblastní	AANS1----1A----	Atr
+7	shromáždění	NNNS1-----A----	Sb
+8	Severního	AANS2----1A----	Atr
+9	Irska	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	zvolené	AANS1----1A----	Atr
+12	v	RR--6----------	AuxP
+13	červnu	NNIS6-----A----	Adv
+14	1973	C=-------------	Atr
+15	;	Z:-------------	AuxK
+
+ln94206-85-p2s8
+1	v	RR--6----------	AuxP
+2	novém	AAIS6----1A----	Atr
+3	místním	AAIS6----1A----	Atr
+4	výkonném	AAIS6----1A----	Atr
+5	orgánu	NNIS6-----A----	ExD
+6	zastoupena	VsQW---XX-AP---	ExD
+7	i	J^-------------	AuxZ
+8	katolická	AAFS1----1A----	Atr
+9	menšina	NNFS1-----A----	ExD
+10	;	Z:-------------	AuxK
+
+ln94206-85-p2s9
+1	květen	NNIS1-----A----	ExD
+2	1974	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	po	RR--6----------	AuxP
+5	generální	AAFS6----1A----	Atr
+6	stávce	NNFS6-----A----	Adv
+7	protestantské	AAFS2----1A----	Atr
+8	většiny	NNFS2-----A----	Atr
+9	proti	RR--3----------	AuxP
+10	účasti	NNFS3-----A----	Atr
+11	katolíků	NNMP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	místní	AAFS6----1A----	Atr
+14	vládě	NNFS6-----A----	Atr
+15	pozastavena	VsQW---XX-AP---	Pred
+16	činnost	NNFS1-----A----	Sb
+17	místního	AAIS2----1A----	Atr
+18	parlamentu	NNIS2-----A----	Atr
+19	;	Z:-------------	AuxK
+
+ln94206-85-p2s10
+1	zavedena	VsQW---XX-AP---	Pred
+2	opět	Db-------------	Adv
+3	přímá	AAFS1----1A----	Atr
+4	správa	NNFS1-----A----	Sb
+5	z	RR--2----------	AuxP
+6	Londýna	NNIS2-----A----	Atr
+7	;	Z:-------------	AuxK
+
+ln94206-85-p2s11
+1	leden	NNIS1-----A----	ExD
+2	1979	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	v	RR--6----------	AuxP
+5	Severním	AANS6----1A----	Atr
+6	Irsku	NNNS6-----A----	Adv
+7	zaveden	VsYS---XX-AP---	Pred
+8	výjimečný	AAIS1----1A----	Atr
+9	stav	NNIS1-----A----	Sb
+10	;	Z:-------------	AuxK
+
+ln94206-85-p2s12
+1	červenec	NNIS1-----A----	ExD
+2	1980	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	britská	AAFS1----1A----	Atr
+5	vláda	NNFS1-----A----	Sb
+6	předložila	VpQW---XR-AA---	Pred
+7	návrh	NNIS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	omezenou	AAFS4----1A----	Atr
+10	autonomii	NNFS4-----A----	Atr
+11	Severního	AANS2----1A----	Atr
+12	Irska	NNNS2-----A----	Atr
+13	;	Z:-------------	AuxK
+
+ln94206-85-p2s13
+1	listopad	NNIS1-----A----	ExD
+2	1981	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	předsedové	NNMP1-----A----	Atr
+5	vlád	NNFP2-----A----	Atr
+6	Velké	AAFS2----1A----	Atr
+7	Británie	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	Irska	NNNS2-----A----	Atr
+10	Margaret	NNFSX-----A----	Atr
+11	Thatcherová	NNFS1-----A----	Sb
+12	a	J^-------------	Coord
+13	Garret	NNMS1-----A----	Atr
+14	Fitzgerald	NNMS1-----A----	Sb
+15	se	P7-X4----------	AuxT
+16	dohodli	VpMP---XR-AA--1	Pred
+17	na	RR--6----------	AuxP
+18	ustavení	NNNS6-----A----	Obj
+19	britsko	A2--------A----	Atr
+20	-	Z:-------------	Coord
+21	irské	AAFS2----1A----	Atr
+22	mezivládní	AAFS2----1A----	Atr
+23	rady	NNFS2-----A----	Atr
+24	;	Z:-------------	AuxK
+
+ln94206-85-p2s14
+1	Severní	AANS1----1A----	Atr
+2	Irsko	NNNS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	ní	P5FS6--3-------	Adv
+5	nebylo	VpNS---XR-NA---	Pred
+6	zastoupeno	VsNS---XX-AP---	Pnom
+7	;	Z:-------------	AuxK
+
+ln94206-85-p2s15
+1	zůstalo	VpNS---XR-AA---	Pred
+2	pod	RR--7----------	AuxP
+3	přímou	AAFS7----1A----	Atr
+4	správou	NNFS7-----A----	Adv
+5	Velké	AAFS2----1A----	Atr
+6	Británie	NNFS2-----A----	Atr
+7	;	Z:-------------	AuxK
+
+ln94206-85-p2s16
+1	duben	NNIS1-----A----	ExD
+2	1982	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	britská	AAFS1----1A----	Atr
+5	vláda	NNFS1-----A----	Sb
+6	schválila	VpQW---XR-AA---	Pred
+7	plán	NNIS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	postupné	AANS4----1A----	Atr
+10	obnovení	NNNS4-----A----	Atr
+11	samosprávy	NNFS2-----A----	Atr
+12	;	Z:-------------	AuxK
+
+ln94206-85-p2s17
+1	říjen	NNIS1-----A----	ExD
+2	1982	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	zvoleno	VsNS---XX-AP---	Pred
+5	78	C=-------------	Atr
+6	členné	AANS1----1A----	Atr
+7	Severoirské	AANS1----1A----	Atr
+8	shromáždění	NNNS1-----A----	Sb
+9	;	Z:-------------	AuxK
+
+ln94206-85-p2s18
+1	14	C=-------------	Obj
+2	křesel	NNNP2-----A----	Atr
+3	získala	VpQW---XR-AA---	Pred
+4	Sinn	NNFXX-----A----	Atr
+5	Fein	NNFXX-----A----	Sb
+6	,	Z:-------------	AuxX
+7	odmítla	VpQW---XR-AA--1	Pred
+8	se	P7-X4----------	AuxT
+9	však	J^-------------	Coord
+10	na	RR--6----------	AuxP
+11	jeho	PSXXXZS3-------	Atr
+12	činnosti	NNFS6-----A----	Obj
+13	podílet	Vf--------A----	Obj
+14	;	Z:-------------	AuxK
+
+ln94206-85-p2s19
+1	po	RR--6----------	AuxP
+2	atentátu	NNIS6-----A---1	Adv
+3	na	RR--4----------	AuxP
+4	unionistického	AAMS4----1A----	Atr
+5	politika	NNMS4-----A----	Atr
+6	bojkotovaly	VpTP---XR-AA---	Pred
+7	činnost	NNFS4-----A----	Obj
+8	shromáždění	NNNS2-----A----	Atr
+9	i	J^-------------	AuxZ
+10	protestantské	AAFP1----1A----	Atr
+11	strany	NNFP1-----A----	Sb
+12	;	Z:-------------	AuxK
+
+ln94206-85-p2s20
+1	začátkem	NNIS7-----A----	Adv
+2	roku	NNIS2-----A---1	Atr
+3	1984	C=-------------	Atr
+4	rozpuštěno	VsNS---XX-AP---	Pred
+5	;	Z:-------------	AuxK
+
+ln94206-85-p2s21
+1	listopad	NNIS1-----A----	ExD
+2	1985	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	dohoda	NNFS1-----A----	ExD
+5	mezi	RR--7----------	AuxP
+6	Velkou	AAFS7----1A----	Atr
+7	Británií	NNFS7-----A----	Atr
+8	a	J^-------------	Coord
+9	Irskou	AAFS7----1A----	Atr
+10	republikou	NNFS7-----A----	Atr
+11	,	Z:-------------	AuxX
+12	která	P4FS1----------	Sb
+13	potvrdila	VpQW---XR-AA---	Atr
+14	svrchovanost	NNFS4-----A----	Obj
+15	Velké	AAFS2----1A----	Atr
+16	Británie	NNFS2-----A----	Atr
+17	nad	RR--7----------	AuxP
+18	Severním	AANS7----1A----	Atr
+19	Irskem	NNNS7-----A----	Atr
+20	a	J^-------------	Coord
+21	Irské	AAFS3----1A----	Atr
+22	republice	NNFS3-----A----	Obj
+23	poskytla	VpQW---XR-AA--1	Atr
+24	určitý	AAIS4----1A----	Atr
+25	poradní	AAIS4----1A----	Atr
+26	hlas	NNIS4-----A----	Obj
+27	v	RR--6----------	AuxP
+28	záležitostech	NNFP6-----A----	Atr
+29	Severního	AANS2----1A----	Atr
+30	Irska	NNNS2-----A----	Atr
+31	;	Z:-------------	AuxK
+
+ln94206-85-p2s22
+1	dohoda	NNFS1-----A----	Sb
+2	vyvolala	VpQW---XR-AA---	Pred
+3	nesouhlas	NNIS4-----A----	Obj
+4	katolíků	NNMP2-----A----	Atr
+5	i	J^-------------	Coord
+6	protestantů	NNMP2-----A----	Atr
+7	;	Z:-------------	AuxK
+
+ln94206-85-p2s23
+1	duben	NNIS1-----A----	ExD
+2	1991	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	jednání	NNNP1-----A----	ExD
+5	na	RR--6----------	AuxP
+6	zámku	NNIS6-----A----	Atr
+7	Stormont	NNIS1-----A----	Atr
+8	u	RR--2----------	AuxP
+9	Belfastu	NNIS2-----A----	Atr
+10	mezi	RR--7----------	AuxP
+11	Oficiální	AAFS7----1A----	Atr
+12	unionistickou	AAFS7----1A----	Atr
+13	stranou	NNFS7-----A----	Atr
+14	a	J^-------------	Coord
+15	Demokratickou	AAFS7----1A----	Atr
+16	unionistickou	AAFS7----1A----	Atr
+17	stranou	NNFS7-----A----	Atr
+18	za	RR--4----------	AuxP
+19	protestanty	NNMP4-----A----	Atr
+20	a	J^-------------	Coord
+21	Sociálně	Dg-------1A----	Adv
+22	demokratickou	AAFS7----1A----	Atr
+23	labouristickou	AAFS7----1A----	Atr
+24	stranou	NNFS7-----A----	Atr
+25	a	J^-------------	Coord
+26	Stranou	NNFS7-----A----	Atr
+27	spojenectví	NNNS2-----A----	Atr
+28	za	RR--4----------	AuxP
+29	katolíky	NNMP4-----A----	Atr
+30	;	Z:-------------	AuxK
+
+ln94206-85-p2s24
+1	jednání	NNNP1-----A----	Sb
+2	ztroskotala	VpQW---XR-AA---	Pred
+3	,	Z:-------------	Coord
+4	unionisté	NNMP1-----A----	Sb
+5	nechtěli	VpMP---XR-NA---	Pred
+6	povolit	Vf--------A----	Obj
+7	účast	NNFS4-----A----	Obj
+8	katolíků	NNMP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	parlamentních	AAIP6----1A----	Atr
+11	výborech	NNIP6-----A----	Atr
+12	a	J^-------------	Coord
+13	zastoupení	NNNS4-----A----	Obj
+14	ve	RV--6----------	AuxP
+15	výkonném	AAIS6----1A----	Atr
+16	orgánu	NNIS6-----A----	Atr
+17	;	Z:-------------	AuxK
+
+ln94206-85-p2s25
+1	březen	NNIS1-----A----	ExD
+2	1992	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	Velká	AAFS1----1A----	Atr
+5	Británie	NNFS1-----A----	Sb
+6	iniciovala	VpQW---XR-AA---	Pred
+7	nové	AANS4----1A----	Atr
+8	kolo	NNNS4-----A----	Obj
+9	rozhovorů	NNIP2-----A----	Atr
+10	mezi	RR--7----------	AuxP
+11	hlavními	AAFP7----1A----	Atr
+12	politickými	AAFP7----1A----	Atr
+13	silami	NNFP7-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Severním	AANS6----1A----	Atr
+16	Irsku	NNNS6-----A----	Atr
+17	s	RR--7----------	AuxP
+18	cílem	NNIS7-----A----	Adv
+19	vrátit	Vf--------A----	Atr
+20	oblasti	NNFS3-----A----	Obj
+21	samosprávu	NNFS4-----A----	Obj
+22	;	Z:-------------	AuxK
+
+ln94206-85-p2s26
+1	ztroskotaly	VpTP---XR-AA---	Pred
+2	ze	RV--2----------	AuxP
+3	stejných	AAFP2----1A----	Atr
+4	příčin	NNFP2-----A----	Adv
+5	jako	J,-------------	AuxC
+6	předchozí	AAIP1----1A----	ExD
+7	;	Z:-------------	AuxK
+
+ln94206-85-p2s27
+1	začátek	NNIS1-----A----	ExD
+2	1993	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	umírněný	AAMS1----1A----	Atr
+5	britský	AAMS1----1A----	Atr
+6	politik	NNMS1-----A----	Atr
+7	John	NNMS1-----A----	Atr
+8	Hume	NNMS1-----A----	Sb
+9	(	Z:-------------	ExD
+10	Sociálně	Dg-------1A----	Adv
+11	demokratická	AAFS1----1A----	Atr
+12	a	J^-------------	Coord
+13	Labouristická	AAFS1----1A----	Atr
+14	strana	NNFS1-----A----	ExD
+15	)	Z:-------------	ExD
+16	a	J^-------------	Coord
+17	vůdce	NNMS1-----A----	Atr
+18	Sinn	NNFXX-----A----	Atr
+19	Fein	NNFXX-----A----	Atr
+20	Gerry	NNMS1-----A----	Atr
+21	Adams	NNMS1-----A----	Sb
+22	vedli	VpMP---XR-AA---	Pred
+23	rozhovory	NNIP4-----A----	Obj
+24	;	Z:-------------	AuxK
+
+ln94206-85-p2s28
+1	s	RR--7----------	AuxP
+2	jejich	PSXXXXP3-------	Atr
+3	obsahem	NNIS7-----A----	Obj
+4	seznámili	VpMP---XR-AA---	Pred
+5	pouze	Db-------------	AuxZ
+6	irskou	AAFS4----1A----	Atr
+7	vládu	NNFS4-----A----	Obj
+8	;	Z:-------------	AuxK
+
+ln94206-85-p2s29
+1	únor	NNIS1-----A----	ExD
+2	1993	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	Gerry	NNMS1-----A----	Atr
+5	Adams	NNMS1-----A----	Sb
+6	nabídl	VpYS---XR-AA--1	Pred
+7	britské	AAFS3----1A----	Atr
+8	vládě	NNFS3-----A----	Obj
+9	dialog	NNIS4-----A----	Obj
+10	o	RR--6----------	AuxP
+11	řešení	NNNS6-----A----	Atr
+12	situace	NNFS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Severním	AANS6----1A----	Atr
+15	Irsku	NNNS6-----A----	Atr
+16	;	Z:-------------	AuxK
+
+ln94206-85-p2s30
+1	listopad	NNIS1-----A----	ExD
+2	1993	C=-------------	Atr
+3	:	Z:-------------	Coord
+4	John	NNMS1-----A----	Atr
+5	Major	NNMS1-----A----	Sb
+6	prohlásil	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	má	VB-S---3P-AA---	Obj
+10	konkrétní	AAIP4----1A----	Atr
+11	návrhy	NNIP4-----A----	Obj
+12	na	RR--4----------	AuxP
+13	mír	NNIS4-----A----	Atr
+14	,	Z:-------------	AuxX
+15	jestliže	J,-------------	AuxC
+16	se	P7-X4----------	AuxT
+17	katolíci	NNMP1-----A----	Sb
+18	a	J^-------------	Coord
+19	protestanti	NNMP1-----A----	Sb
+20	dohodnou	VB-P---3P-AA---	Adv
+21	na	RR--6----------	AuxP
+22	rozhovorech	NNIP6-----A----	Obj
+23	;	Z:-------------	AuxK
+
+ln94206-85-p2s31
+1	vyloučil	VpYS---XR-AA---	Pred
+2	jakékoli	PZNS4---------1	Atr
+3	jednání	NNNS4-----A----	Obj
+4	s	RR--7----------	AuxP
+5	IRA	NNFXX-----A---8	Atr
+6	,	Z:-------------	AuxX
+7	pokud	J,-------------	AuxC
+8	se	P7-X4----------	AuxT
+9	nezřekne	VB-S---3P-NA---	Adv
+10	násilí	NNNS2-----A----	Obj
+11	;	Z:-------------	AuxK
+
+ln94206-85-p2s32
+1	setkal	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	s	RR--7----------	AuxP
+4	vůdci	NNMP7-----A----	Obj
+5	hlavních	AAFP2----1A----	Atr
+6	severoirských	AAFP2----1A----	Atr
+7	stran	NNFP2-----A----	Atr
+8	;	Z:-------------	AuxK
+
+ln94206-85-p2s33
+1	John	NNMS1-----A----	Atr
+2	Hume	NNMS1-----A----	Sb
+3	řekl	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	míru	NNIS2-----A----	Obj
+7	by	Vc-------------	AuxV
+8	mohlo	VpNS---XR-AA---	Obj
+9	být	Vf--------A----	AuxV
+10	dosaženo	VsNS---XX-AP---	Obj
+11	během	RR--2----------	AuxP
+12	týdne	NNIS2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	kdyby	J,-------------	AuxC
+15	byly	VpTP---XR-AA---	AuxV
+16	přijaty	VsTP---XX-AP---	Adv
+17	jeho	PSXXXZS3-------	Atr
+18	a	J^-------------	Coord
+19	Adamsovy	AUIP1M---------	Atr
+20	mírové	AAIP1----1A----	Atr
+21	návrhy	NNIP1-----A----	Sb
+22	;	Z:-------------	AuxK
+
+ln94206-85-p2s34
+1	6	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	listopadu	NNIS2-----A----	ExD
+4	1993	C=-------------	Atr
+5	:	Z:-------------	Coord
+6	zakázané	AAFP1----1A----	Atr
+7	protestantské	AAFP1----1A----	Atr
+8	organizace	NNFP1-----A----	Sb
+9	Bojovníci	NNMP1-----A----	Atr
+10	za	RR--4----------	AuxP
+11	svobodu	NNFS4-----A----	Atr
+12	Ulsteru	NNIS2-----A----	Atr
+13	a	J^-------------	Coord
+14	Ulsterský	AAIS1----1A----	Atr
+15	dobrovolnický	AAIS1----1A----	Atr
+16	sbor	NNIS1-----A----	Sb
+17	odmítly	VpTP---XR-AA--1	Pred
+18	nabídku	NNFS4-----A----	Obj
+19	Irské	AAFS2----1A----	Atr
+20	republikánské	AAFS2----1A----	Atr
+21	armády	NNFS2-----A----	Atr
+22	na	RR--4----------	AuxP
+23	uzavření	NNNS4-----A----	Atr
+24	dočasného	AANS2----1A----	Atr
+25	příměří	NNNS2-----A----	Atr
+26	;	Z:-------------	AuxK
+
+ln94206-85-p2s35
+1	15	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	listopadu	NNIS2-----A----	ExD
+4	1993	C=-------------	Atr
+5	:	Z:-------------	Coord
+6	John	NNMS1-----A----	Atr
+7	Major	NNMS1-----A----	Sb
+8	nabídl	VpYS---XR-AA--1	Pred
+9	rozhovory	NNIP4-----A----	Obj
+10	se	RV--7----------	AuxP
+11	Sinn	NNFXX-----A----	Atr
+12	Fein	NNFXX-----A----	Atr
+13	,	Z:-------------	AuxX
+14	jestliže	J,-------------	AuxC
+15	IRA	NNFXX-----A---8	Sb
+16	ukončí	VB-S---3P-AA---	Adv
+17	násilí	NNNS4-----A----	Obj
+18	;	Z:-------------	AuxK
+
+ln94206-85-p2s36
+1	unionističtí	AAMP1----1A----	Atr
+2	vůdci	NNMP1-----A----	Sb
+3	odmítli	VpMP---XR-AA--1	Pred
+4	zúčastnit	Vf--------A----	Obj
+5	se	P7-X4----------	AuxT
+6	jednání	NNNS2-----A----	Obj
+7	,	Z:-------------	AuxX
+8	na	RR--6----------	AuxP
+9	němž	P9ZS6----------	Adv
+10	by	Vc-------------	AuxV
+11	byla	VpQW---XR-AA---	Atr
+12	zastoupena	VsQW---XX-AP---	Pnom
+13	Sinn	NNFXX-----A----	Atr
+14	Fein	NNFXX-----A----	Sb
+15	;	Z:-------------	AuxK
+
+ln94206-85-p2s37
+1	15	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	prosince	NNIS2-----A----	ExD
+4	1993	C=-------------	Atr
+5	:	Z:-------------	Coord
+6	britský	AAMS1----1A----	Atr
+7	premiér	NNMS1-----A----	Atr
+8	John	NNMS1-----A----	Atr
+9	Major	NNMS1-----A----	Sb
+10	a	J^-------------	Coord
+11	irský	AAMS1----1A----	Atr
+12	premiér	NNMS1-----A----	Atr
+13	Albert	NNMS1-----A----	Atr
+14	Reynolds	NNMS1-----A----	Sb
+15	podepsali	VpMP---XR-AA---	Pred
+16	v	RR--6----------	AuxP
+17	Londýně	NNIS6-----A----	Adv
+18	deklaraci	NNFS4-----A----	Obj
+19	zakotvující	AGFS4-----A----	Atr
+20	principy	NNIP4-----A----	Obj
+21	mírového	AAIS2----1A----	Atr
+22	procesu	NNIS2-----A----	Atr
+23	pro	RR--4----------	AuxP
+24	Severní	AANS4----1A----	Atr
+25	Irsko	NNNS4-----A----	Atr
+26	:	Z:-------------	Coord
+27	vyzvala	VpQW---XR-AA---	Pred
+28	extremisty	NNMP4-----A----	Obj
+29	obou	ClXP2----------	Atr
+30	stran	NNFP2-----A----	Atr
+31	,	Z:-------------	AuxX
+32	aby	J,-------------	AuxC
+33	složili	VpMP---XR-AA---	Obj
+34	zbraně	NNFP4-----A----	Obj
+35	výměnou	NNFS7-----A----	Adv
+36	za	RR--4----------	AuxP
+37	mírové	AAIP4----1A----	Atr
+38	rozhovory	NNIP4-----A----	Atr
+39	;	Z:-------------	AuxK
+
+ln94206-85-p2s38
+1	1	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	ledna	NNIS2-----A----	ExD
+4	1994	C=-------------	Atr
+5	:	Z:-------------	Coord
+6	Bojovníci	NNMP1-----A----	Sb
+7	za	RR--4----------	AuxP
+8	svobodu	NNFS4-----A----	Atr
+9	Ulsteru	NNIS2-----A----	Atr
+10	oznámili	VpMP---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	budou	VB-P---3F-AA---	AuxV
+14	pokračovat	Vf--------A----	Obj
+15	v	RR--6----------	AuxP
+16	teroristických	AAFP6----1A----	Atr
+17	akcích	NNFP6-----A----	Obj
+18	;	Z:-------------	AuxK
+
+ln94206-85-p2s39
+1	14	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	března	NNIS2-----A----	ExD
+4	1994	C=-------------	Atr
+5	:	Z:-------------	Coord
+6	britská	AAFS1----1A----	Atr
+7	vláda	NNFS1-----A----	Sb
+8	odmítla	VpQW---XR-AA--1	Pred
+9	výzvu	NNFS4-----A----	Obj
+10	IRA	NNFXX-----A---8	Atr
+11	ze	RV--2----------	AuxP
+12	13	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	března	NNIS2-----A----	Atr
+15	k	RR--3----------	AuxP
+16	dialogu	NNIS3-----A----	Atr
+17	,	Z:-------------	AuxX
+18	dokud	J,-------------	Adv
+19	IRA	NNFXX-----A---8	Sb
+20	neskončí	VB-S---3P-NA---	Adv
+21	s	RR--7----------	AuxP
+22	násilím	NNNS7-----A----	Obj
+23	(	Z:-------------	AuxG
+24	předcházely	VpTP---XR-AA---	Pred
+25	tři	ClXP1----------	Atr
+26	teroristické	AAIP1----1A----	Atr
+27	útoky	NNIP1-----A----	Sb
+28	na	RR--4----------	AuxP
+29	letiště	NNNS4-----A----	Atr
+30	Heathrow	NNNXX-----A----	Atr
+31	v	RR--6----------	AuxP
+32	Londýně	NNIS6-----A----	Atr
+33	)	Z:-------------	AuxG
+34	;	Z:-------------	AuxK
+
+ln94206-85-p2s40
+1	6	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	dubna	NNIS2-----A----	ExD
+4	1994	C=-------------	Atr
+5	:	Z:-------------	Coord
+6	Sinn	NNFXX-----A----	Atr
+7	Fein	NNFXX-----A----	Sb
+8	vyzvala	VpQW---XR-AA---	Pred
+9	britskou	AAFS4----1A----	Atr
+10	vládu	NNFS4-----A----	Obj
+11	k	RR--3----------	AuxP
+12	oficiálním	AAIP3----1A----	Atr
+13	kontaktům	NNIP3-----A----	Obj
+14	během	RR--2----------	AuxP
+15	příměří	NNNS2-----A----	Atr
+16	;	Z:-------------	AuxK
+
+ln94206-85-p2s41
+1	John	NNMS1-----A----	Atr
+2	Major	NNMS1-----A----	Sb
+3	je	PPXP4--3-------	Obj
+4	odmítl	VpYS---XR-AA--1	Pred
+5	,	Z:-------------	AuxX
+6	pokud	J,-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	extremisté	NNMP1-----A----	Sb
+9	nevzdají	VB-P---3P-NA---	Adv
+10	násilí	NNNS2-----A----	Obj
+11	natrvalo	Db-------------	Adv
+12	;	Z:-------------	AuxK
+
+ln94206-85-p2s42
+1	24	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	července	NNIS2-----A----	ExD
+4	1994	C=-------------	Atr
+5	:	Z:-------------	Coord
+6	konference	NNFS1-----A----	Sb
+7	Sinn	NNFXX-----A----	Atr
+8	Fein	NNFXX-----A----	Atr
+9	odmítla	VpQW---XR-AA--1	Pred
+10	návrh	NNIS4-----A----	Obj
+11	Irska	NNNS2-----A----	Atr
+12	a	J^-------------	Coord
+13	Velké	AAFS2----1A----	Atr
+14	Británie	NNFS2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	zahájení	NNNS4-----A----	Atr
+17	přímých	AAIP2----1A----	Atr
+18	rozhovorů	NNIP2-----A----	Atr
+19	výměnou	NNFS7-----A----	Atr
+20	za	RR--4----------	AuxP
+21	ukončení	NNNS4-----A----	Atr
+22	teroristických	AAFP2----1A----	Atr
+23	akcí	NNFP2-----A----	Atr
+24	;	Z:-------------	AuxK
+
+ln94206-85-p2s43
+1	13	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	srpna	NNIS2-----A----	ExD
+4	1994	C=-------------	Atr
+5	:	Z:-------------	Coord
+6	Gerry	NNMS1-----A----	Atr
+7	Adams	NNMS1-----A----	Sb
+8	,	Z:-------------	Apos
+9	předseda	NNMS1-----A----	Sb
+10	Sinn	NNFXX-----A----	Atr
+11	Fein	NNFXX-----A----	Atr
+12	,	Z:-------------	AuxX
+13	v	RR--6----------	AuxP
+14	projevu	NNIS6-----A----	Adv
+15	k	RR--3----------	AuxP
+16	demonstrantům	NNMP3-----A----	Atr
+17	v	RR--6----------	AuxP
+18	Belfastu	NNIS6-----A----	AtrAdv
+19	prohlásil	VpYS---XR-AA---	Pred
+20	,	Z:-------------	AuxX
+21	že	J,-------------	AuxC
+22	po	RR--6----------	AuxP
+23	25	C=-------------	Atr
+24	letech	NNNP6-----A----	Adv
+25	IRA	NNFXX-----A---8	Sb
+26	porazila	VpQW---XR-AA---	Obj
+27	britskou	AAFS4----1A----	Atr
+28	armádu	NNFS4-----A----	Obj
+29	;	Z:-------------	AuxK
+
+ln94206-85-p2s44
+1	polovina	NNFS1-----A----	ExD
+2	srpna	NNIS2-----A----	Atr
+3	1994	C=-------------	Atr
+4	:	Z:-------------	Coord
+5	IRA	NNFXX-----A---8	Sb
+6	oslavila	VpQW---XR-AA---	Pred
+7	25	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	výročí	NNNS4-----A----	Obj
+10	příchodu	NNIS2-----A----	Atr
+11	britských	AANP2----1A----	Atr
+12	vojsk	NNNP2-----A----	Atr
+13	do	RR--2----------	AuxP
+14	Ulsteru	NNIS2-----A----	Atr
+15	sérií	NNFS7-----A----	Adv
+16	teroristických	AAFP2----1A----	Atr
+17	akcí	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+

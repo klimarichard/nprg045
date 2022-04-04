@@ -1,0 +1,94 @@
+mf920923-090-p1s1
+1	Opel	NNIS1-----A----	ExD
+2	podvodně	Dg-------1A----	ExD
+
+mf920923-090-p2s1
+1	Rozvadov	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	hč	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920923-090-p2s2
+1	Falešný	AAIS4----1A----	Atr
+2	účet	NNIS4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	3000	C=-------------	Atr
+5	švýcarských	AAIP2----1A----	Atr
+6	franků	NNIP2-----A----	Atr
+7	předložil	VpYS---XR-AA---	Pred
+8	22	C=-------------	Adv
+9	letý	AAMS1----1A----	Atr
+10	muž	NNMS1-----A----	Sb
+11	z	RR--2----------	AuxP
+12	Košic	NNFP2-----A----	Atr
+13	na	RR--6----------	AuxP
+14	hraničním	AAIS6----1A----	Atr
+15	přechodu	NNIS6-----A---1	Adv
+16	se	RV--7----------	AuxP
+17	SRN	NNFXX-----A---8	Atr
+18	v	RR--6----------	AuxP
+19	Rozvadově	NNIS6-----A----	AtrAdv
+20	a	J^-------------	Coord
+21	tvrdil	VpYS---XR-AA---	Pred
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	zrovna	Db-------------	AuxZ
+25	tuto	PDFS4----------	Atr
+26	částku	NNFS4-----A----	Obj
+27	platil	VpYS---XR-AA---	Obj
+28	za	RR--4----------	AuxP
+29	dovážený	AAIS4----1A----	Atr
+30	osobní	AAIS4----1A----	Atr
+31	vůz	NNIS4-----A----	Obj
+32	Opel	NNIS1-----A----	Atr
+33	Calibra	NNFS1-----A----	Atr
+34	.	Z:-------------	AuxK
+
+mf920923-090-p2s3
+1	Celníci	NNMP1-----A----	Sb
+2	nevěřili	VpMP---XR-NA---	Pred
+3	a	J^-------------	Coord
+4	v	RR--6----------	AuxP
+5	náprsní	AAFS6----1A----	Atr
+6	kapse	NNFS6-----A----	Adv
+7	mladého	AAMS2----1A----	Atr
+8	Košičana	NNMS2-----A----	Atr
+9	také	Db-------------	Adv
+10	skutečně	Dg-------1A----	Adv
+11	našli	VpMP---XR-AA---	Pred
+12	pravou	AAFS4----1A----	Atr
+13	fakturu	NNFS4-----A----	Obj
+14	za	RR--4----------	AuxP
+15	auto	NNNS4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	zněla	VpQW---XR-AA---	Atr
+19	na	RR--4----------	AuxP
+20	reálných	AAIP2----1A----	Atr
+21	12500	C=-------------	Adv
+22	švýcarských	AAIP2----1A----	Atr
+23	franků	NNIP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920923-090-p2s4
+1	Pašerák	NNMS1-----A----	Sb
+2	tedy	Db-------------	AuxY
+3	chtěl	VpYS---XR-AA---	Pred
+4	na	RR--6----------	AuxP
+5	cle	NNNS6-----A----	Obj
+6	ušetřit	Vf--------A----	Obj
+7	40000	C=-------------	Obj
+8	Kčs	NNFXX-----A---8	Atr
+9	a	J^-------------	Coord
+10	jeho	PSXXXZS3-------	Atr
+11	případem	NNIS7-----A----	Obj
+12	se	P7-X4----------	AuxT
+13	už	Db-------------	Adv
+14	zabývá	VB-S---3P-AA---	Pred
+15	policejní	AAMS1----1A----	Atr
+16	vyšetřovatel	NNMS1-----A----	Sb
+17	v	RR--6----------	AuxP
+18	Tachově	NNIS6-----A----	AdvAtr
+19	.	Z:-------------	AuxK
+

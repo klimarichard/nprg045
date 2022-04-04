@@ -1,0 +1,358 @@
+ln94202-136-p1s1
+1	Wall	AAXXX----1A----	Atr
+2	Street	NNIS1-----A----	Sb
+3	odkoupí	VB-S---3P-AA---	Pred
+4	akcie	NNFP4-----A----	Obj
+
+ln94202-136-p2s1A
+1	Hynek	NNMS1-----A----	Atr
+2	Pinda	NNMS1-----A----	ExD
+
+ln94202-136-p2s1B
+1	Řada	NNFS1-----A----	Sb
+2	lidí	NNMP2-----A----	Atr
+3	potřebuje	VB-S---3P-AA---	Pred
+4	rychle	Dg-------1A----	Adv
+5	prodat	Vf--------A----	Obj
+6	své	P8FP4---------1	Atr
+7	akcie	NNFP4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94202-136-p2s2
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	šance	NNFS1-----A----	Pnom
+4	pro	RR--4----------	AuxP
+5	různé	AAFP4----1A----	Atr
+6	firmy	NNFP4-----A----	Atr
+7	,	Z:-------------	AuxX
+8	nabízející	AGFP4-----A----	Atr
+9	sice	Db-------------	AuxY
+10	prodávajícím	AGMP3-----A----	Obj
+11	za	RR--4----------	AuxP
+12	akcie	NNFP4-----A----	Obj
+13	méně	Dg-------2A----	Obj
+14	,	Z:-------------	AuxX
+15	než	J,-------------	AuxC
+16	je	VB-S---3P-AA---	Adv
+17	jejich	PSXXXXP3-------	Atr
+18	skutečná	AAFS1----1A----	Atr
+19	tržní	AAFS1----1A----	Atr
+20	cena	NNFS1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	ale	J^-------------	Coord
+23	zato	J,-------------	ExD
+24	rychle	Dg-------1A----	ExD
+25	a	J^-------------	Coord
+26	v	RR--6----------	AuxP
+27	hotovosti	NNFS6-----A----	ExD
+28	.	Z:-------------	AuxK
+
+ln94202-136-p3s1
+1	Mezi	RR--7----------	AuxP
+2	těmi	PDXP7----------	Adv
+3	,	Z:-------------	AuxX
+4	kdo	PKM-1----------	Sb
+5	inzerují	VB-P---3P-AA---	Atr
+6	tuto	PDFS4----------	Atr
+7	službu	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	se	P7-X4----------	AuxT
+10	vyskytlo	VpNS---XR-AA--1	Pred
+11	i	J^-------------	AuxZ
+12	jméno	NNNS1-----A----	Sb
+13	realitní	AAFS2----1A----	Atr
+14	kanceláře	NNFS2-----A----	Atr
+15	Wall	AAXXX----1A----	Atr
+16	Street	NNIS1-----A----	Atr
+17	,	Z:-------------	AuxX
+18	která	P4FS1----------	Sb
+19	nabízí	VB-S---3P-AA---	Atr
+20	odkup	NNIS4-----A----	Obj
+21	akcií	NNFP2-----A----	Atr
+22	za	RR--4----------	AuxP
+23	cenu	NNFS4-----A----	AtrAdv
+24	dosaženou	AAFS4----1A----	Atr
+25	v	RR--6----------	AuxP
+26	RM	AAXXX----1A---8	Atr
+27	-	Z:-------------	AuxG
+28	Systému	NNIS6-----A----	Adv
+29	.	Z:-------------	AuxK
+
+ln94202-136-p4s1
+1	Pokud	J,-------------	AuxC
+2	zavoláte	VB-P---2P-AA---	Adv
+3	na	RR--4----------	AuxP
+4	zveřejněné	AANS4----1A----	Atr
+5	telefonní	AANS4----1A----	Atr
+6	číslo	NNNS4-----A----	Adv
+7	,	Z:-------------	AuxX
+8	operátorka	NNFS1-----A----	Sb
+9	vám	PP-P3--2-------	Obj
+10	vysvětlí	VB-S---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	co	PQ--4----------	Obj
+13	je	VB-S---3P-AA---	Obj
+14	třeba	ACNS------A----	Pnom
+15	udělat	Vf--------A----	Sb
+16	,	Z:-------------	AuxX
+17	aby	J,-------------	AuxC
+18	od	RR--2----------	AuxP
+19	vás	PP-P2--2-------	Obj
+20	firma	NNFS1-----A----	Sb
+21	akcie	NNFP4-----A----	Obj
+22	skutečně	Dg-------1A----	AuxY
+23	odkoupila	VpQW---XR-AA---	Adv
+24	.	Z:-------------	AuxK
+
+ln94202-136-p4s2A
+1	S	RR--7----------	AuxP
+2	vašimi	PSXP7-P2-------	Atr
+3	akciemi	NNFP7-----A----	Obj
+4	se	P7-X4----------	AuxR
+5	musí	VB-S---3P-AA---	Pred
+6	obchodovat	Vf--------A----	Obj
+7	na	RR--6----------	AuxP
+8	burze	NNFS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	Wall	AAXXX----1A----	Atr
+12	Street	NNIS1-----A----	Sb
+13	vám	PP-P3--2-------	Obj
+14	nabízí	VB-S---3P-AA---	Pred
+15	cenu	NNFS4-----A----	Obj
+16	z	RR--2----------	AuxP
+17	RMS	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+
+ln94202-136-p4s2B
+1	Důvod	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	vcelku	Db-------------	Adv
+4	jednoduchý	AAIS1----1A----	Pnom
+5	.	Z:-------------	AuxK
+
+ln94202-136-p4s3
+1	V	RR--6----------	AuxP
+2	RMS	NNIXX-----A---8	Adv
+3	je	VB-S---3P-AA---	Pred
+4	cena	NNFS1-----A----	Sb
+5	většiny	NNFS2-----A----	Atr
+6	akcií	NNFP2-----A----	Atr
+7	nižší	AAFS1----2A----	Pnom
+8	než	J,-------------	AuxC
+9	na	RR--6----------	AuxP
+10	burze	NNFS6-----A----	ExD
+11	.	Z:-------------	AuxK
+
+ln94202-136-p5s1
+1	Voláte	VB-P---2P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	z	RR--2----------	AuxP
+5	Prahy	NNFS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	nabídnou	VB-P---3P-AA---	Pred
+8	vám	PP-P3--2-------	Obj
+9	návštěvu	NNFS4-----A----	Obj
+10	své	P8FS2---------1	Atr
+11	kanceláře	NNFS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	Atr
+14	2	C=-------------	Atr
+15	,	Z:-------------	AuxX
+16	kde	Db-------------	Adv
+17	si	P7-X3----------	Adv
+18	vyzvednete	VB-P---2P-AA---	Atr
+19	plnou	AAFS4----1A----	Atr
+20	moc	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94202-136-p5s2
+1	Tu	PDFS4----------	Obj
+2	si	P7-X3----------	Adv
+3	necháte	VB-P---2P-AA---	Pred
+4	ověřit	Vf--------A----	Obj
+5	u	RR--2----------	AuxP
+6	notáře	NNMS2-----A----	Adv
+7	a	J^-------------	Coord
+8	na	RR--6----------	AuxP
+9	jejím	PSZS6FS3-------	Atr
+10	základě	NNIS6-----A----	Adv
+11	je	VB-S---3P-AA---	Pred
+12	s	RR--7----------	AuxP
+13	vámi	PP-P7--2-------	ObjAtr
+14	uzavřena	VsQW---XX-AP---	Pnom
+15	smlouva	NNFS1-----A----	Sb
+16	o	RR--6----------	AuxP
+17	převodu	NNIS6-----A----	Atr
+18	akcií	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94202-136-p5s3
+1	Do	RR--2----------	AuxP
+2	čtrnácti	Cn-P2----------	Atr
+3	dnů	NNIP2-----A----	Adv
+4	od	RR--2----------	AuxP
+5	převodu	NNIS2-----A----	Atr
+6	akcií	NNFP2-----A----	Atr
+7	obdržíte	VB-P---2P-AA---	Pred
+8	peníze	NNIP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94202-136-p5s4
+1	Kolik	C?--4----------	Obj
+2	zaplatíte	VB-P---2P-AA---	Obj
+3	na	RR--6----------	AuxP
+4	poplatcích	NNIP6-----A----	Adv
+5	a	J^-------------	Coord
+6	kolik	C?--4----------	Adv
+7	času	NNIS2-----A----	Atr
+8	strávíte	VB-P---2P-AA---	Obj
+9	vyřizováním	NNNS7-----A----	Adv
+10	,	Z:-------------	AuxX
+11	můžete	VB-P---2P-AA---	Pred
+12	odhadnout	Vf--------A----	Obj
+13	sami	PLMP1----------	AtvV
+14	.	Z:-------------	AuxK
+
+ln94202-136-p6s1
+1	Pokud	J,-------------	AuxC
+2	budete	VB-P---2F-AA---	AuxV
+3	prodávat	Vf--------A----	Adv
+4	akcie	NNFP4-----A----	Obj
+5	přes	RR--4----------	AuxP
+6	RMS	NNIXX-----A---8	Adv
+7	,	Z:-------------	AuxX
+8	zaplatíte	VB-P---2P-AA---	Pred
+9	(	Z:-------------	AuxG
+10	včetně	RR--2----------	AuxP
+11	obchodního	AAIS2----1A----	Atr
+12	listu	NNIS2-----A----	Adv
+13	)	Z:-------------	AuxG
+14	poplatek	NNIS4-----A----	Obj
+15	35	C=-------------	Atr
+16	korun	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94202-136-p6s2
+1	Peníze	NNIP4-----A----	Obj
+2	za	RR--4----------	AuxP
+3	prodej	NNIS4-----A----	Atr
+4	můžete	VB-P---2P-AA---	Pred
+5	mít	Vf--------A----	Obj
+6	do	RR--2----------	AuxP
+7	týdne	NNIS2-----A----	Adv
+8	po	RR--6----------	AuxP
+9	zadání	NNNS6-----A----	Atr
+10	prodejního	AAIS2----1A----	Atr
+11	příkazu	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94202-136-p6s3
+1	Tyto	PDFP1----------	Atr
+2	služby	NNFP1-----A----	Sb
+3	budou	VB-P---3F-AA---	AuxV
+4	postupně	Dg-------1A----	Adv
+5	dále	Db------------1	Adv
+6	urychlovány	VsTP---XX-AP---	Pred
+7	.	Z:-------------	AuxK
+
+ln94202-136-p7s1
+1	Závěr	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	tedy	Db-------------	AuxY
+4	následující	AGIS1-----A----	Pnom
+5	,	Z:-------------	Coord
+6	pokud	J,-------------	AuxC
+7	si	P7-X3----------	Adv
+8	vyberete	VB-P---2P-AA---	Adv
+9	k	RR--3----------	AuxP
+10	prodeji	NNIS3-----A----	Adv
+11	svých	P8XP2----------	Atr
+12	akcií	NNFP2-----A----	Atr
+13	nějakou	PZFS4----------	Atr
+14	firmu	NNFS4-----A----	Obj
+15	nabízející	AGFS4-----A----	Atr
+16	peníze	NNIP4-----A----	Obj
+17	rychle	Dg-------1A----	Adv
+18	a	J^-------------	Coord
+19	hotově	Dg-------1A----	Adv
+20	,	Z:-------------	AuxX
+21	je	VB-S---3P-AA---	Pred
+22	v	RR--6----------	AuxP
+23	tom	PDZS6----------	Adv
+24	obvykle	Dg-------1A----	Adv
+25	ještě	Db-------------	Adv
+26	nějaký	PZYS1----------	Atr
+27	háček	NNIS1-----A----	Sb
+28	.	Z:-------------	AuxK
+
+ln94202-136-p7s2
+1	Může	VB-S---3P-AA---	Pred
+2	jít	Vf--------A----	Obj
+3	i	J^-------------	AuxZ
+4	o	RR--4----------	AuxP
+5	černé	AAMP4----1A----	Atr
+6	obchodníky	NNMP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kteří	P4MP1----------	Sb
+9	svou	P8FS4---------1	Atr
+10	činnost	NNFS4-----A----	Obj
+11	maskují	VB-P---3P-AA---	Atr
+12	tím	PDZS7----------	Adv
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	pouze	Db-------------	AuxZ
+16	zprostředkovávají	VB-P---3P-AA---	Atr
+17	prodej	NNIS4-----A----	Obj
+18	a	J^-------------	Coord
+19	nákup	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94202-136-p7s3
+1	Řada	NNFS1-----A----	Sb
+2	takových	PDXP2----------	Atr
+3	obchodníků	NNMP2-----A----	Atr
+4	si	P7-X3----------	Adv
+5	účtuje	VB-S---3P-AA---	Pred
+6	značnou	AAFS4----1A----	Atr
+7	provizi	NNFS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94202-136-p7s4
+1	Nebo	J^-------------	Coord
+2	musíte	VB-P---2P-AA---	Pred
+3	absolvovat	Vf--------A----	Obj
+4	komplikovanou	AAFS4----1A----	Atr
+5	cestu	NNFS4-----A----	Obj
+6	k	RR--3----------	AuxP
+7	notáři	NNMS3-----A----	Atr
+8	apod	Db------------8	Coord
+9	.	Z:-------------	AuxG
+
+ln94202-136-p7s5
+1	Nebojte	Vi-P---2--N----	Pred
+2	se	P7-X4----------	AuxT
+3	jít	Vf--------A----	Obj
+4	rovnou	Db-------------	Adv
+5	na	RR--4----------	AuxP
+6	RMS	NNIXX-----A---8	Adv
+7	nebo	J^-------------	Coord
+8	za	RR--7----------	AuxP
+9	obchodníky	NNMP7-----A----	Adv
+10	na	RR--6----------	AuxP
+11	burze	NNFS6-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94202-136-p7s6
+1	U	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	máte	VB-P---2P-AA---	Pred
+4	záruku	NNFS4-----A----	Obj
+5	solidního	AANS2----1A----	Atr
+6	a	J^-------------	Coord
+7	korektního	AANS2----1A----	Atr
+8	jednání	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+

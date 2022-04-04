@@ -1,0 +1,382 @@
+mf930709-021-p1s1
+1	Obyvatelé	NNMP1-----A----	Sb
+2	Letovic	NNFP2-----A----	Atr
+3	žádají	VB-P---3P-AA---	Pred
+4	zavření	NNNS4-----A----	Obj
+5	tavírny	NNFS2-----A----	Atr
+6	hliníku	NNIS2-----A----	Atr
+
+mf930709-021-p2s1A
+1	Letovice	NNFP1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930709-021-p2s1B
+1	Pět	Cn-S1----------	Atr
+2	set	NNNP2-----A----	Atr
+3	sedmdesát	Cn-S1----------	Atr
+4	jedna	ClFS1----------	Sb
+5	občanů	NNMP2-----A----	Atr
+6	Letovic	NNFP2-----A----	Atr
+7	,	Z:-------------	Apos
+8	šestitisícového	AANS2----1A----	Atr
+9	města	NNNS2-----A----	Atr
+10	okresu	NNIS2-----A----	Atr
+11	Blansko	NNNS1-----A----	Atr
+12	,	Z:-------------	AuxX
+13	podepsalo	VpNS---XR-AA---	Pred
+14	petici	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	v	RR--6----------	AuxP
+17	níž	P9FS6----------	Adv
+18	žádají	VB-P---3P-AA---	Atr
+19	městské	AANS4----1A----	Atr
+20	zastupitelstvo	NNNS4-----A----	Obj
+21	,	Z:-------------	AuxX
+22	aby	J,-------------	AuxC
+23	zavřelo	VpNS---XR-AA---	Adv
+24	tavírnu	NNFS4-----A----	Obj
+25	hliníku	NNIS2-----A----	Atr
+26	ve	RV--6----------	AuxP
+27	státním	AAIS6----1A----	Atr
+28	podniku	NNIS6-----A----	AtrAdv
+29	Contex	NNIS1-----A----	Atr
+30	.	Z:-------------	AuxK
+
+mf930709-021-p2s2
+1	V	RR--6----------	AuxP
+2	Contexu	NNIS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	zpracovávají	VB-P---3P-AA---	Pred
+5	druhotné	AAFP1----1A----	Atr
+6	suroviny	NNFP1-----A----	Sb
+7	,	Z:-------------	Coord
+8	hliníkový	AAIS1----1A----	Atr
+9	odpad	NNIS1-----A----	Sb
+10	se	P7-X4----------	AuxR
+11	zde	Db-------------	Adv
+12	přetavuje	VB-S---3P-AA---	Pred
+13	od	RR--2----------	AuxP
+14	roku	NNIS2-----A---1	Adv
+15	1992	C=-------------	Atr
+16	.	Z:-------------	AuxK
+
+mf930709-021-p2s3
+1	Lidé	NNMP1-----A---1	Sb
+2	,	Z:-------------	AuxX
+3	kteří	P4MP1----------	Sb
+4	bydlí	VB-P---3P-AA---	Atr
+5	v	RR--6----------	AuxP
+6	blízkosti	NNFS6-----A----	Adv
+7	závodu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	si	P7-X3----------	AuxT
+10	od	RR--2----------	AuxP
+11	té	PDFS2----------	Atr
+12	doby	NNFS2-----A----	Adv
+13	stěžují	VB-P---3P-AA---	Pred
+14	na	RR--4----------	AuxP
+15	zdravotní	AAFP4----1A----	Atr
+16	potíže	NNFP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+mf930709-021-p2s4
+1	Kvůli	RR--3----------	AuxP
+2	kouři	NNIS3-----A----	Adv
+3	z	RR--2----------	AuxP
+4	továrního	AAIS2----1A----	Atr
+5	komína	NNIS2-----A----	Atr
+6	nemohou	VB-P---3P-NA--1	Pred
+7	doma	Db-------------	Adv
+8	větrat	Vf--------A----	Obj
+9	.	Z:-------------	AuxK
+
+mf930709-021-p2s5
+1	Příčinu	NNFS4-----A----	Obj
+2	vidí	VB-P---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	tom	PDZS6----------	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	Contexu	NNIS6-----A----	Adv
+9	se	P7-X4----------	AuxR
+10	spolu	Db-------------	AuxP
+11	s	RR--7----------	AuxP
+12	hliníkovým	AAIS7----1A----	Atr
+13	odpadem	NNIS7-----A----	Adv
+14	znečištěným	AAIS7----1A----	Atr
+15	nátěrovými	AAFP7----1A----	Atr
+16	hmotami	NNFP7-----A----	Adv
+17	a	J^-------------	Coord
+18	olejem	NNIS7-----A----	Adv
+19	přetavují	VB-P---3P-AA---	Atr
+20	i	J^-------------	AuxZ
+21	umělé	AAFP1----1A----	Atr
+22	hmoty	NNFP1-----A----	Sb
+23	,	Z:-------------	AuxX
+24	ocelový	AAIS1----1A----	Atr
+25	odpad	NNIS1-----A----	Sb
+26	a	J^-------------	Coord
+27	pryž	NNFS1-----A----	Sb
+28	.	Z:-------------	AuxK
+
+mf930709-021-p2s6
+1	Jejich	PSXXXXP3-------	Atr
+2	domněnku	NNFS4-----A----	Obj
+3	potvrdila	VpQW---XR-AA---	Pred
+4	kontrola	NNFS1-----A----	Sb
+5	České	AAFS2----1A----	Atr
+6	inspekce	NNFS2-----A----	Atr
+7	životního	AANS2----1A----	Atr
+8	prostředí	NNNS2-----A----	Atr
+9	9	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	června	NNIS2-----A----	Adv
+12	letošního	AAIS2----1A----	Atr
+13	roku	NNIS2-----A---1	Atr
+14	.	Z:-------------	AuxK
+
+mf930709-021-p2s7
+1	Inspektoři	NNMP1-----A----	Sb
+2	uložili	VpMP---XR-AA---	Pred
+3	Contexu	NNIS3-----A----	Obj
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	znečištěnou	AAFS4----1A----	Atr
+7	zásilku	NNFS4-----A----	Obj
+8	hliníku	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	zde	Db-------------	Adv
+12	byla	VpQW---XR-AA---	Atr
+13	přichystána	VsQW---XX-AP---	Pnom
+14	k	RR--3----------	AuxP
+15	přetavení	NNNS3-----A----	Adv
+16	,	Z:-------------	AuxX
+17	vrátil	VpYS---XR-AA---	Obj
+18	dodavateli	NNMS3-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf930709-021-p2s8
+1	V	RR--6----------	AuxP
+2	budoucnu	NNNS6-----A----	Adv
+3	má	VB-S---3P-AA---	Pred
+4	továrna	NNFS1-----A----	Sb
+5	přetavovat	Vf--------A----	Obj
+6	výlučně	Dg-------1A----	Adv
+7	kusový	AAIS4----1A----	Atr
+8	hliník	NNIS4-----A----	Obj
+9	a	J^-------------	Coord
+10	plechy	NNIP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	které	P4IP1----------	Sb
+13	nejsou	VB-P---3P-NA---	Atr
+14	znečištěny	VsTP---XX-AP---	Pnom
+15	oleji	NNIP7-----A----	Adv
+16	a	J^-------------	Coord
+17	barvami	NNFP7-----A----	Adv
+18	.	Z:-------------	AuxK
+
+mf930709-021-p2s9
+1	Contex	NNIS1-----A----	Sb
+2	před	RR--7----------	AuxP
+3	nedávnem	NNNS7-----A----	Adv
+4	reagoval	VpYS---XR-AA---	Pred
+5	na	RR--4----------	AuxP
+6	stížnosti	NNFP4-----A----	Obj
+7	občanů	NNMP2-----A----	Atr
+8	objednáním	NNNS7-----A----	Adv
+9	studie	NNFS2-----A----	Atr
+10	brněnské	AAFS2----1A----	Atr
+11	firmy	NNFS2-----A----	Atr
+12	Enving	NNIS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf930709-021-p2s10
+1	Podle	RR--2----------	AuxP
+2	ní	P5FS2--3-------	Adv
+3	i	J^-------------	AuxZ
+4	při	RR--6----------	AuxP
+5	zpracování	NNNS6-----A----	Adv
+6	hliníkového	AAIS2----1A----	Atr
+7	odpadu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	obsahuje	VB-S---3P-AA---	Atr
+11	14	C=-------------	Obj
+12	procent	NNNP2-----A----	Atr
+13	zaolejovaných	AAIP2----1A----	Atr
+14	dílů	NNIP2-----A----	Atr
+15	a	J^-------------	Coord
+16	5	C=-------------	Obj
+17	procent	NNNP2-----A----	Atr
+18	lakovaných	AAIP2----1A----	ExD
+19	,	Z:-------------	AuxX
+20	je	VB-S---3P-AA---	Pred
+21	znečištění	NNNS1-----A----	Sb
+22	životního	AANS2----1A----	Atr
+23	prostředí	NNNS2-----A----	Atr
+24	hluboko	Dg-------1A----	Adv
+25	pod	RR--7----------	AuxP
+26	stanovenými	AAFP7----1A----	Atr
+27	normami	NNFP7-----A----	Adv
+28	.	Z:-------------	AuxK
+
+mf930709-021-p2s11
+1	V	RR--6----------	AuxP
+2	Contexu	NNIS6-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	proto	J^-------------	Coord
+5	přesvědčeni	VsMP---XX-AP---	Pnom
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	ovzduší	NNNS4-----A----	Obj
+9	znečišťuje	VB-S---3P-AA---	Obj
+10	někdo	PZM-1----------	Sb
+11	jiný	AAMS1----1A----	Atr
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	doporučují	VB-P---3P-AA---	Pred
+15	,	Z:-------------	AuxX
+16	aby	J,-------------	AuxC
+17	stejnou	AAFS4----1A----	Atr
+18	studii	NNFS4-----A----	Obj
+19	udělal	VpYS---XR-AA---	Obj
+20	Enving	NNIS1-----A----	Sb
+21	i	J^-------------	AuxZ
+22	pro	RR--4----------	AuxP
+23	ostatní	AAIP4----1A----	Atr
+24	letovické	AAIP4----1A----	Atr
+25	závody	NNIP4-----A----	Adv
+26	.	Z:-------------	AuxK
+
+mf930709-021-p2s12
+1	V	RR--6----------	AuxP
+2	podniku	NNIS6-----A----	Adv
+3	bylo	VpNS---XR-AA---	Pred
+4	před	RR--7----------	AuxP
+5	touto	PDFS7----------	Atr
+6	inspekcí	NNFS7-----A----	Adv
+7	více	Dg-------2A----	Sb
+8	než	J,-------------	AuxC
+9	deset	Cn-S1----------	Adv
+10	kontrol	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	žádná	PWFS1----------	Sb
+14	nedospěla	VpQW---XR-NA---	Pred
+15	k	RR--3----------	AuxP
+16	podobnému	AANS3----1A----	Atr
+17	zjištění	NNNS3-----A----	Obj
+18	.	Z:-------------	AuxK
+
+mf930709-021-p2s13
+1	Podle	RR--2----------	AuxP
+2	Contexu	NNIS2-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	závěry	NNIP1-----A----	Sb
+5	české	AAFS2----1A----	Atr
+6	inspekce	NNFS2-----A----	Atr
+7	nepřesné	AAIP1----1N----	Pnom
+8	.	Z:-------------	AuxK
+
+mf930709-021-p2s14
+1	Výhradu	NNFS4-----A----	Obj
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	se	P7-X4----------	AuxR
+5	při	RR--6----------	AuxP
+6	tavbě	NNFS6-----A----	Adv
+7	spalují	VB-P---3P-AA---	Atr
+8	umělé	AAFP1----1A----	Atr
+9	hmoty	NNFP1-----A----	Sb
+10	a	J^-------------	Coord
+11	pryž	NNFS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	vedení	NNNS1-----A----	Sb
+14	závodu	NNIS2-----A----	Atr
+15	neuznává	VB-S---3P-NA---	Pred
+16	.	Z:-------------	AuxK
+
+mf930709-021-p2s15
+1	Inspektoři	NNMP1-----A----	Sb
+2	prý	TT-------------	AuxY
+3	obsluze	NNFS3-----A----	Obj
+4	nařizovali	VpMP---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	co	PQ--4----------	Obj
+7	má	VB-S---3P-AA---	Obj
+8	do	RR--2----------	AuxP
+9	tavicí	AAFS2----1A----	Atr
+10	pece	NNFS2-----A----	Adv
+11	dát	Vf--------A----	Obj
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	tak	J^-------------	Adv
+15	se	P7-X4----------	AuxT
+16	stalo	VpNS---XR-AA---	Pred
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	se	P7-X4----------	AuxT
+20	tam	Db-------------	Adv
+21	dostal	VpYS---XR-AA---	Sb
+22	i	J^-------------	AuxZ
+23	netříděný	AAIS1----1N----	Atr
+24	odpad	NNIS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+mf930709-021-p2s16
+1	Všechny	PLFP1----------	Atr
+2	další	AAFP1----1A----	Atr
+3	stížnosti	NNFP1-----A----	Sb
+4	jsou	VB-P---3P-AA---	Pred
+5	bezpředmětné	AAFP1----1A----	Pnom
+6	,	Z:-------------	AuxX
+7	neboť	J^-------------	Coord
+8	technologii	NNFS4-----A----	Obj
+9	tavby	NNFS2-----A----	Atr
+10	schválila	VpQW---XR-AA---	Pred
+11	Česká	AAFS1----1A----	Atr
+12	technická	AAFS1----1A----	Atr
+13	inspekce	NNFS1-----A----	Sb
+14	ochrany	NNFS2-----A----	Atr
+15	ovzduší	NNNS2-----A----	Atr
+16	a	J^-------------	Coord
+17	Okresní	AAFS1----1A----	Atr
+18	hygienická	AAFS1----1A----	Atr
+19	stanice	NNFS1-----A----	Sb
+20	Blansko	NNNS1-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf930709-021-p2s17
+1	Letovičtí	AAMP1----1A----	Atr
+2	občané	NNMP1-----A----	Sb
+3	nyní	Db-------------	Adv
+4	čekají	VB-P---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	výsledek	NNIS4-----A----	Obj
+7	správního	AANS2----1A----	Atr
+8	řízení	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf930709-021-p2s18
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	jde	VB-S---3P-AA---	Atr
+7	o	RR--4----------	AuxP
+8	malý	AAIS4----1A----	Atr
+9	zdroj	NNIS4-----A----	Obj
+10	znečišťování	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jsou	VB-P---3P-AA---	Pred
+13	nápravná	AANP1----1A----	Atr
+14	opatření	NNNP1-----A----	Sb
+15	v	RR--6----------	AuxP
+16	kompetenci	NNFS6-----A----	Adv
+17	městského	AAIS2----1A----	Atr
+18	úřadu	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+

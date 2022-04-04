@@ -1,0 +1,742 @@
+lnd91301-050-p1s1
+1	NA	RR--6----------	AuxP
+2	NÁVŠTĚVĚ	NNFS6-----A----	ExD
+3	V	RR--6----------	AuxP
+4	DĚTSKÉM	AAIS6----1A----	Atr
+5	DOMOVĚ	NNIS6-----A----	Atr
+6	V	RR--6----------	AuxP
+7	ROVEČNÉM	NNNS6-----A----	AtrAtr
+
+lnd91301-050-p2s1
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	létě	NNNS6-----A----	Adv
+4	si	P7-X3----------	Obj
+5	koupíme	VB-P---1P-AA---	Pred
+6	psa	NNMS4-----A----	Obj
+7	!	Z:-------------	AuxK
+8	"	Z:-------------	AuxG
+
+lnd91301-050-p3s1
+1	Cestou	NNFS7-----A----	Adv
+2	z	RR--2----------	AuxP
+3	Brna	NNNS2-----A----	Atr
+4	směrem	NNIS7-----A----	Atr
+5	na	RR--4----------	AuxP
+6	Kunštát	NNIS4-----A----	Atr
+7	jsme	VB-P---1P-AA---	AuxV
+8	hovořili	VpMP---XR-AA---	Pred
+9	o	RR--6----------	AuxP
+10	lidech	NNMP6-----A----	Obj
+11	,	Z:-------------	AuxX
+12	zkušenostech	NNFP6-----A----	Obj
+13	a	J^-------------	Coord
+14	politice	NNFS6-----A----	Obj
+15	skoro	Db-------------	Adv
+16	tak	Db-------------	Adv
+17	,	Z:-------------	AuxX
+18	jak	Db-------------	Adv
+19	to	PDNS4----------	Obj
+20	popisuje	VB-S---3P-AA---	Adv
+21	(	Z:-------------	AuxG
+22	anebo	J^-------------	Coord
+23	přímo	Dg-------1A----	Adv
+24	předepisuje	VB-S---3P-AA---	Adv
+25	?	Z:-------------	AuxG
+26	)	Z:-------------	AuxG
+27	v	RR--6----------	AuxP
+28	jedné	ClFS6----------	Atr
+29	své	P8FS6---------1	Atr
+30	básni	NNFS6-----A----	Adv
+31	Ludvík	NNMS1-----A----	Atr
+32	Kundera	NNMS1-----A----	Sb
+33	.	Z:-------------	AuxK
+
+lnd91301-050-p3s2
+1	Doprovázel	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	manžele	NNMP4-----A----	Atr
+4	Riedelovy	AUMP4M---------	Obj
+5	z	RR--2----------	AuxP
+6	rakouského	AAIS2----1A----	Atr
+7	Institutu	NNIS2-----A----	Atr
+8	pro	RR--4----------	AuxP
+9	humanitární	AAFS4----1A----	Atr
+10	a	J^-------------	Coord
+11	sociální	AAFS4----1A----	Atr
+12	evropskou	AAFS4----1A----	Atr
+13	spolupráci	NNFS4-----A----	Atr
+14	při	RR--6----------	AuxP
+15	jejich	PSXXXXP3-------	Atr
+16	návštěvě	NNFS6-----A----	Adv
+17	v	RR--6----------	AuxP
+18	domově	NNIS6-----A----	Atr
+19	mládeže	NNFS2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	Rovečném	NNNS6-----A----	Atr
+22	na	RR--6----------	AuxP
+23	Českomoravské	AAFS6----1A----	Atr
+24	vysočině	NNFS6-----A----	Atr
+25	,	Z:-------------	AuxX
+26	při	RR--6----------	AuxP
+27	které	P4FS6----------	Adv
+28	předali	VpMP---XR-AA---	Atr
+29	dárky	NNIP4-----A----	Obj
+30	dětem	NNFP3-----A----	Obj
+31	.	Z:-------------	AuxK
+
+lnd91301-050-p3s3
+1	Takže	J,-------------	AuxC
+2	na	RR--6----------	AuxP
+3	místě	NNNS6-----A----	Pnom
+4	by	Vc-------------	AuxV
+5	byly	VpTP---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	když	J,-------------	AuxC
+8	už	Db-------------	AuxZ
+9	verše	NNIP1-----A----	ExD
+10	,	Z:-------------	AuxX
+11	tak	Db-------------	AuxY
+12	asi	TT-------------	AuxZ
+13	nejspíše	Dg-------3A---1	Adv
+14	tyhle	PDIP1----------	Sb
+15	ze	RV--2----------	AuxP
+16	slavné	AAFS2----1A----	Atr
+17	básně	NNFS2-----A----	Atr
+18	Ludvíka	NNMS2-----A----	Atr
+19	Aškenazyho	NNMS2-----A----	Atr
+20	Křik	NNIS1-----A----	Atr
+21	:	Z:-------------	Apos
+22	"	Z:-------------	AuxG
+23	Člověk	NNMS1-----A----	Sb
+24	se	P7-X4----------	AuxT
+25	narodí	VB-S---3P-AA---	ExD
+26	,	Z:-------------	AuxX
+27	a	J^-------------	Coord
+28	hned	Db-------------	Adv
+29	/	Z:-------------	AuxG
+30	křičí	VB-S---3P-AA---	ExD
+31	.	Z:-------------	AuxK
+
+lnd91301-050-p3s4
+1	/	Z:-------------	AuxG
+2	.	Z:-------------	AuxG
+3	.	Z:-------------	AuxG
+4	.	Z:-------------	AuxG
+5	/	Z:-------------	AuxG
+6	Jsem	VB-S---1P-AA---	Pred
+7	tu	Db------------1	Adv
+8	dobře	Dg-------1A----	Adv
+9	?	Z:-------------	AuxK
+
+lnd91301-050-p3s5
+1	/	Z:-------------	AuxG
+2	Narodil	VpYS---XR-AA---	Pred
+3	jsem	VB-S---1P-AA---	AuxV
+4	se	P7-X4----------	AuxT
+5	u	RR--2----------	AuxP
+6	dobrých	AAMP2----1A----	Atr
+7	lidí	NNMP2-----A----	Adv
+8	?	Z:-------------	AuxK
+
+lnd91301-050-p3s6
+1	/	Z:-------------	ExD
+2	Ve	RV--6----------	AuxP
+3	slušném	AANS6----1A----	Atr
+4	století	NNNS6-----A----	ExD
+5	?	Z:-------------	AuxK
+
+lnd91301-050-p3s7
+1	/	Z:-------------	ExD
+2	Nevedu	VB-S---1P-NA---	Pred
+3	náhodou	Db-------------	Adv
+4	válku	NNFS4-----A----	Obj
+5	?	Z:-------------	AuxK
+
+lnd91301-050-p3s8
+1	/	Z:-------------	ExD
+2	Je	VB-S---3P-AA---	Pred
+3	tady	Db-------------	Adv
+4	zrušeno	VsNS---XX-AP---	Pnom
+5	otroctví	NNNS1-----A----	Sb
+6	?	Z:-------------	AuxK
+
+lnd91301-050-p3s9
+1	/	Z:-------------	AuxG
+2	Mám	VB-S---1P-AA---	Pred
+3	správnou	AAFS4----1A----	Atr
+4	barvu	NNFS4-----A----	Obj
+5	/	Z:-------------	AuxG
+6	kůže	NNFS2-----A----	Atr
+7	?	Z:-------------	AuxK
+
+lnd91301-050-p3s10
+1	/	Z:-------------	ExD
+2	Vhodný	AAIS4----1A----	Atr
+3	původ	NNIS4-----A----	ExD
+4	?	Z:-------------	AuxK
+
+lnd91301-050-p3s11
+1	/	Z:-------------	AuxG
+2	.	Z:-------------	AuxG
+3	.	Z:-------------	AuxG
+4	.	Z:-------------	AuxG
+5	/	Z:-------------	AuxG
+6	Tak	Db-------------	AuxO
+7	děkuju	VB-S---1P-AA---	Pred
+8	.	Z:-------------	AuxK
+9	"	Z:-------------	AuxG
+
+lnd91301-050-p4s1
+1	Rovečné	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	malebná	AAFS1----1A----	Atr
+4	obec	NNFS1-----A----	Pnom
+5	kousek	NNIS4-----A----	Atr
+6	od	RR--2----------	AuxP
+7	Vírské	AAFS2----1A----	Atr
+8	přehrady	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	typická	AAFS1----1A----	Atr
+11	pro	RR--4----------	AuxP
+12	tenhle	PDIS4----------	Atr
+13	kout	NNIS4-----A----	Adv
+14	Vysočiny	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd91301-050-p4s2
+1	Uprostřed	Db-------------	ExD
+2	pošta	NNFS1-----A----	ExD
+3	,	Z:-------------	AuxX
+4	hostinec	NNIS1-----A----	ExD
+5	,	Z:-------------	Coord
+6	škola	NNFS1-----A----	ExD
+7	,	Z:-------------	Coord
+8	o	RR--4----------	AuxP
+9	kousek	NNIS4-----A----	Adv
+10	výš	Dg-------2A----	ExD
+11	kostel	NNIS1-----A----	ExD
+12	.	Z:-------------	AuxK
+
+lnd91301-050-p4s3
+1	Jenže	J^-------------	Coord
+2	školu	NNFS4-----A----	Obj
+3	už	Db-------------	AuxZ
+4	před	RR--7----------	AuxP
+5	třiceti	Cn-P7----------	Atr
+6	lety	NNNP7-----A----	Adv
+7	adaptovali	VpMP---XR-AA---	Pred
+8	na	RR--4----------	AuxP
+9	domov	NNIS4-----A----	Obj
+10	mládeže	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd91301-050-p4s4A
+1	Bývaly	VpTP---XR-AA---	AuxV
+2	zde	Db-------------	Adv
+3	umisťovány	VsTP---XX-AP---	Pred
+4	děti	NNFP1-----A----	Sb
+5	odebrané	AAFP1----1A----	Atr
+6	rodičům	NNMP3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kteří	P4MP1----------	Sb
+9	nechtěli	VpMP---XR-NA---	Atr
+10	nebo	J^-------------	Coord
+11	nemohli	VpMP---XR-NA---	Atr
+12	plnit	Vf--------A----	Obj
+13	své	P8FP4---------1	Atr
+14	povinnosti	NNFP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+lnd91301-050-p4s4B
+1	"	Z:-------------	AuxG
+2	Kdykoli	Db------------1	AuxC
+3	se	P7-X4----------	AuxT
+4	v	RR--6----------	AuxP
+5	okolí	NNNS6-----A----	Adv
+6	něco	PZ--1----------	Sb
+7	ztratilo	VpNS---XR-AA---	Adv
+8	,	Z:-------------	AuxX
+9	vždycky	Db-------------	Adv
+10	za	RR--4----------	AuxP
+11	to	PDNS4----------	Obj
+12	mohly	VpTP---XR-AA---	Obj
+13	děti	NNFP1-----A----	Sb
+14	z	RR--2----------	AuxP
+15	domova	NNIS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	"	Z:-------------	AuxG
+18	říká	VB-S---3P-AA---	Pred
+19	paní	NNFS1-----A----	Atr
+20	Miluše	NNFS1-----A----	Atr
+21	Řehůřková	NNFS1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	s	RR--7----------	AuxP
+24	jejímž	P1ZS7FS3-------	Atr
+25	nástupem	NNIS7-----A----	Adv
+26	na	RR--4----------	AuxP
+27	místo	NNNS4-----A----	Atr
+28	ředitelky	NNFS2-----A----	Atr
+29	domova	NNIS2-----A----	Atr
+30	v	RR--6----------	AuxP
+31	srpnu	NNIS6-----A----	AtrAdv
+32	1990	C=-------------	Atr
+33	nastalo	VpNS---XR-AA---	Atr
+34	něco	PZ--1----------	Sb
+35	jako	J,-------------	AuxC
+36	jeho	PSXXXZS3-------	Atr
+37	nová	AAFS1----1A----	Atr
+38	éra	NNFS1-----A----	ExD
+39	.	Z:-------------	AuxK
+
+lnd91301-050-p4s5
+1	Procházíme	VB-P---1P-AA---	Pred
+2	jednotlivými	AAFP7----1A----	Atr
+3	místnostmi	NNFP7-----A----	Adv
+4	.	Z:-------------	AuxK
+
+lnd91301-050-p4s6
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	tu	Db------------1	Adv
+5	bydlí	VB-S---3P-AA---	Pred
+6	dvacítka	NNFS1-----A----	Sb
+7	chlapců	NNMP2-----A----	Atr
+8	a	J^-------------	Coord
+9	děvčat	NNNP2-----A----	Atr
+10	ve	RV--6----------	AuxP
+11	věku	NNIS6-----A----	Atr
+12	od	RR--2----------	AuxP
+13	sedmi	Cn-P2----------	ExD
+14	do	RR--2----------	AuxP
+15	osmnácti	Cn-P2----------	Atr
+16	let	NNNP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+lnd91301-050-p4s7
+1	Jak	Db-------------	Adv
+2	to	PDNS1----------	Sb
+3	zde	Db-------------	Adv
+4	asi	TT-------------	Adv
+5	vypadalo	VpNS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	když	J,-------------	AuxC
+8	v	RR--6----------	AuxP
+9	domově	NNIS6-----A----	Adv
+10	žilo	VpNS---XR-AA---	Adv
+11	čtyřicet	Cn-S1----------	Sb
+12	dětí	NNFP2-----A----	Atr
+13	?	Z:-------------	AuxK
+
+lnd91301-050-p4s8
+1	Dozvídáme	VB-P---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	režim	NNIS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	domově	NNIS6-----A----	Atr
+8	byl	VpYS---XR-AA---	Obj
+9	spíše	Dg-------2A---1	Adv
+10	kasárenský	AAIS1----1A----	Pnom
+11	,	Z:-------------	AuxX
+12	především	Db-------------	AuxZ
+13	z	RR--2----------	AuxP
+14	obavy	NNFS2-----A----	Adv
+15	před	RR--7----------	AuxP
+16	dětskou	AAFS7----1A----	Atr
+17	trestnou	AAFS7----1A----	Atr
+18	činností	NNFS7-----A----	Atr
+19	.	Z:-------------	AuxK
+20	.	Z:-------------	AuxK
+21	.	Z:-------------	AuxK
+
+lnd91301-050-p4s9
+1	Ale	J^-------------	Coord
+2	chybělo	VpNS---XR-AA---	Pred
+3	například	Db-------------	Adv
+4	hřiště	NNNS1-----A----	Sb
+5	i	J^-------------	Coord
+6	jakékoli	PZNS1---------1	Atr
+7	sportovní	AANS1----1A----	Atr
+8	vybavení	NNNS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+lnd91301-050-p4s10
+1	Dnes	Db-------------	Adv
+2	mohou	VB-P---3P-AA--1	Pred
+3	obyvatelé	NNMP1-----A----	Sb
+4	domova	NNIS2-----A----	Atr
+5	chodit	Vf--------A----	Obj
+6	ven	Db-------------	Adv
+7	,	Z:-------------	Coord
+8	dokonce	Db-------------	AuxZ
+9	i	J^-------------	AuxZ
+10	do	RR--2----------	AuxP
+11	sousedních	AAFP2----1A----	Atr
+12	obcí	NNFP2-----A----	Adv
+13	,	Z:-------------	Coord
+14	mohou	VB-P---3P-AA--1	Pred
+15	navštěvovat	Vf--------A----	Obj
+16	své	P8YP4---------1	Atr
+17	kamarády	NNMP4-----A----	Obj
+18	z	RR--2----------	AuxP
+19	vesnice	NNFS2-----A----	Atr
+20	a	J^-------------	Coord
+21	dokonce	Db-------------	AuxZ
+22	si	P7-X3----------	AuxO
+23	i	J^-------------	AuxZ
+24	pozvat	Vf--------A----	Obj
+25	kamarády	NNMP4-----A----	Obj
+26	k	RR--3----------	AuxP
+27	sobě	P6-X3----------	Adv
+28	.	Z:-------------	AuxK
+
+lnd91301-050-p4s11
+1	K	RR--3----------	AuxP
+2	sobě	P6-X3----------	ExD
+3	"	Z:-------------	AuxG
+4	domů	Db-------------	ExD
+5	"	Z:-------------	AuxG
+6	,	Z:-------------	AuxX
+7	nebo	J^-------------	Coord
+8	,	Z:-------------	AuxX
+9	už	Db-------------	AuxZ
+10	bez	RR--2----------	AuxP
+11	uvozovek	NNFP2-----A----	ExD
+12	-	Z:-------------	AuxG
+13	domů	Db-------------	ExD
+14	?	Z:-------------	AuxK
+
+lnd91301-050-p4s12
+1	Problémy	NNIP4-----A----	Obj
+2	tato	PDFS1----------	Atr
+3	změna	NNFS1-----A----	Sb
+4	nepřinesla	VpQW---XR-NA---	Pred
+5	.	Z:-------------	AuxK
+
+lnd91301-050-p4s13
+1	Z	RR--2----------	AuxP
+2	rozhovoru	NNIS2-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	ovšem	J^-------------	Coord
+5	návštěva	NNFS1-----A----	Sb
+6	o	RR--6----------	AuxP
+7	nejhlubších	AAIP6----3A----	Atr
+8	pocitech	NNIP6-----A----	Obj
+9	dětí	NNFP2-----A----	Atr
+10	mnoho	Ca--4----------	Obj
+11	nedozvídá	VB-S---3P-NA---	Pred
+12	.	Z:-------------	AuxK
+
+lnd91301-050-p4s14
+1	Připadaly	VpTP---XR-AA---	Pred
+2	mi	PH-S3--1-------	Obj
+3	prostě	Dg-------1A----	Adv
+4	jako	J,-------------	AuxY
+5	každé	AAFP1----1A----	Atr
+6	jiné	AAFP1----1A----	Atr
+7	děti	NNFP1-----A----	Adv
+8	.	Z:-------------	AuxK
+
+lnd91301-050-p4s15
+1	A	J^-------------	Coord
+2	jedna	ClFS1----------	Atr
+3	dívka	NNFS1-----A----	Sb
+4	z	RR--2----------	AuxP
+5	osmé	AAFS2----1A----	Atr
+6	třídy	NNFS2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	s	RR--7----------	AuxP
+9	rakouskými	AAMP7----1A----	Atr
+10	hosty	NNMP7-----A----	Obj
+11	dokonce	Db-------------	AuxZ
+12	domluvila	VpQW---XR-AA---	Pred
+13	docela	Db-------------	Adv
+14	dobře	Dg-------1A----	Adv
+15	německy	Dg-------1A----	Adv
+16	.	Z:-------------	AuxK
+
+lnd91301-050-p5s1
+1	Pár	NNIS4-----A----	Adv
+2	dní	NNIP2-----A---1	Atr
+3	před	RR--7----------	AuxP
+4	naším	PSZS7-P1-------	Atr
+5	příjezdem	NNIS7-----A----	Atr
+6	přibylo	VpNS---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	domově	NNIS6-----A----	Adv
+9	video	NNNS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	a	J^-------------	Coord
+12	to	PDNS1----------	Sb
+13	je	VB-S---3P-AA---	Pred
+14	nyní	Db-------------	Adv
+15	nejoblíbenější	AAFS1----3A----	Atr
+16	hračka	NNFS1-----A----	Pnom
+17	.	Z:-------------	AuxK
+
+lnd91301-050-p5s2
+1	Na	RR--6----------	AuxP
+2	obrazovce	NNFS6-----A----	Adv
+3	řádí	VB-P---3P-AA---	Pred
+4	hrdinové	NNMP1-----A----	Sb
+5	kreslené	AAFS2----1A----	Atr
+6	grotesky	NNFS2-----A----	Atr
+7	a	J^-------------	Coord
+8	"	Z:-------------	AuxG
+9	tety	NNFP1-----A----	Sb
+10	"	Z:-------------	AuxG
+11	pořád	Db-------------	Adv
+12	odpovídají	VB-P---3P-AA---	Pred
+13	na	RR--4----------	AuxP
+14	nějaké	PZFP4----------	Atr
+15	dětské	AAFP4----1A----	Atr
+16	otázky	NNFP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+lnd91301-050-p5s3
+1	Ve	RV--6----------	AuxP
+2	všech	PLXP6----------	Atr
+3	místnostech	NNFP6-----A----	Adv
+4	vidíme	VB-P---1P-AA---	Pred
+5	nový	AAIS4----1A----	Atr
+6	nábytek	NNIS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+lnd91301-050-p5s4
+1	Na	RR--6----------	AuxP
+2	chodbě	NNFS6-----A----	Adv
+3	na	RR--4----------	AuxP
+4	nás	PP-P4--1-------	Adv
+5	ze	RV--2----------	AuxP
+6	skleněných	AANP2----1A----	Atr
+7	"	Z:-------------	AuxG
+8	doupat	NNNP2-----A----	Adv
+9	"	Z:-------------	AuxG
+10	koukají	VB-P---3P-AA---	Pred
+11	křečci	NNMP1-----A----	Sb
+12	a	J^-------------	Coord
+13	dokonce	Db-------------	AuxZ
+14	i	J^-------------	AuxZ
+15	bílý	AAMS1----1A----	Atr
+16	králík	NNMS1-----A----	Sb
+17	(	Z:-------------	AuxG
+18	ten	PDYS1----------	Sb
+19	prý	TT-------------	AuxY
+20	je	VB-S---3P-AA---	Pred
+21	ze	RV--2----------	AuxP
+22	všech	PLXP2----------	Atr
+23	zvířátek	NNNP2-----A----	Adv
+24	nejneukázněnější	AAMS1----3N----	Pnom
+25	)	Z:-------------	AuxG
+26	.	Z:-------------	AuxK
+
+lnd91301-050-p5s5
+1	"	Z:-------------	AuxG
+2	Když	J,-------------	AuxC
+3	tady	Db-------------	Adv
+4	byl	VpYS---XR-AA---	Adv
+5	první	CrMS1----------	Atr
+6	křeček	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	měli	VpMP---XR-AA---	Obj
+9	jsme	VB-P---1P-AA---	AuxV
+10	o	RR--4----------	AuxP
+11	něj	P5ZS4--3-------	Atr
+12	strach	NNIS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	mu	PHZS3--3-------	Obj
+16	děti	NNFP1-----A----	Sb
+17	samou	PLFS7----------	Atr
+18	láskou	NNFS7-----A----	Adv
+19	neublížily	VpTP---XR-NA---	AdvAtr
+20	,	Z:-------------	Coord
+21	nosily	VpTP---XR-AA---	Obj
+22	ho	PHZS4--3-------	Obj
+23	dokonce	Db-------------	AuxZ
+24	tajně	Dg-------1A----	Adv
+25	v	RR--6----------	AuxP
+26	kapsách	NNFP6-----A----	Adv
+27	do	RR--2----------	AuxP
+28	školy	NNFS2-----A----	Adv
+29	,	Z:-------------	AuxX
+30	"	Z:-------------	AuxG
+31	dozvídáme	VB-P---1P-AA---	Pred
+32	se	P7-X4----------	AuxT
+33	.	Z:-------------	AuxK
+
+lnd91301-050-p5s6A
+1	A	J^-------------	Coord
+2	potom	Db-------------	ExD
+3	odvážný	AAIS1----1A----	Atr
+4	záměr	NNIS1-----A----	ExD
+5	:	Z:-------------	AuxG
+6	"	Z:-------------	AuxG
+7	V	RR--6----------	AuxP
+8	létě	NNNS6-----A----	Adv
+9	si	P7-X3----------	Adv
+10	chceme	VB-P---1P-AA---	Atr
+11	pořídit	Vf--------A----	Obj
+12	psa	NNMS4-----A----	Obj
+13	!	Z:-------------	AuxK
+14	"	Z:-------------	AuxG
+
+lnd91301-050-p5s6B
+1	Za	RR--2----------	AuxP
+2	bývalého	AAIS2----1A----	Atr
+3	režimu	NNIS2-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	prosazovala	VpQW---XR-AA---	Pred
+6	tendence	NNFS1-----A----	Sb
+7	děti	NNFP4-----A----	Obj
+8	od	RR--2----------	AuxP
+9	jejich	PSXXXXP3-------	Atr
+10	původního	AANS2----1A----	Atr
+11	prostředí	NNNS2-----A----	Obj
+12	co	Db-------------	Adv
+13	nejvíce	Dg-------3A----	Adv
+14	izolovat	Vf--------A----	Atr
+15	-	Z:-------------	Apos
+16	žádné	PWFP1----------	Atr
+17	návštěvy	NNFP1-----A----	Atr
+18	,	Z:-------------	Coord
+19	umístění	NNNS1-----A----	Atr
+20	v	RR--6----------	AuxP
+21	co	Db-------------	Adv
+22	nejvzdálenějším	AAIS6----3A----	Atr
+23	domově	NNIS6-----A----	Atr
+24	.	Z:-------------	AuxK
+
+lnd91301-050-p5s7
+1	Dnes	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	tomu	PDZS3----------	Adv
+4	naopak	Db-------------	Adv
+5	.	Z:-------------	AuxK
+
+lnd91301-050-p5s8
+1	"	Z:-------------	AuxG
+2	Snažíme	VB-P---1P-AA---	Pred
+3	se	P7-X4----------	AuxT
+4	vztahy	NNIP4-----A----	Obj
+5	k	RR--3----------	AuxP
+6	rodině	NNFS3-----A----	Atr
+7	pokud	J,-------------	AuxC
+8	možno	ACNS------A----	Adv
+9	upevňovat	Vf--------A----	Obj
+10	;	Z:-------------	AuxK
+
+lnd91301-050-p5s9
+1	i	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	jsou	VB-P---3P-AA---	Adv
+4	poměry	NNIP1-----A----	Sb
+5	opravdu	Db-------------	Adv
+6	někdy	Db-------------	Adv
+7	k	RR--3----------	AuxP
+8	pláči	NNIS3-----A----	Adv
+9	,	Z:-------------	AuxX
+10	přece	Db-------------	AuxY
+11	jenom	TT-------------	AuxY
+12	je	VB-S---3P-AA---	Pred
+13	to	PDNS1----------	Sb
+14	jejich	PSXXXXP3-------	Atr
+15	rodina	NNFS1-----A----	Pnom
+16	.	Z:-------------	AuxK
+
+lnd91301-050-p5s10A
+1	I	J^-------------	AuxZ
+2	letos	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	jako	J,-------------	AuxC
+5	už	Db-------------	AuxZ
+6	loni	Db------------1	Adv
+7	,	Z:-------------	AuxX
+8	tráví	VB-P---3P-AA---	Pred
+9	všechny	PLFP1----------	Atr
+10	děti	NNFP1-----A----	Sb
+11	Štědrý	AAIS4----1A----	Atr
+12	den	NNIS4-----A----	Obj
+13	doma	Db-------------	Adv
+14	.	Z:-------------	AuxK
+15	"	Z:-------------	AuxG
+
+lnd91301-050-p5s10B
+1	(	Z:-------------	ExD
+2	Anebo	J^-------------	Coord
+3	"	Z:-------------	AuxG
+4	doma	Db-------------	ExD
+5	"	Z:-------------	AuxG
+6	?	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+9	.	Z:-------------	AuxK
+10	)	Z:-------------	ExD
+
+lnd91301-050-p6s1
+1	Právě	Db-------------	AuxZ
+2	čas	NNIS1-----A----	Sb
+3	vánoční	AAIS1----1A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	dobou	NNFS7-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	kdy	Db-------------	Adv
+8	si	P7-X3----------	AuxT
+9	i	J^-------------	AuxZ
+10	my	PP-P1--1-------	Sb
+11	,	Z:-------------	Apos
+12	lidé	NNMP1-----A---1	Sb
+13	příliš	Db-------------	Adv
+14	úspěšní	AAMP1----1A----	Atr
+15	anebo	J^-------------	Coord
+16	aspoň	Db-------------	AuxZ
+17	příliš	Db-------------	Adv
+18	zaměstnaní	AAMP1----1A----	Atr
+19	,	Z:-------------	AuxX
+20	také	Db-------------	AuxZ
+21	vzpomeneme	VB-P---1P-AA---	Atr
+22	na	RR--4----------	AuxP
+23	své	P8YP4---------1	Atr
+24	bližní	AAMP4----1A----	Obj
+25	,	Z:-------------	AuxX
+26	které	P4YP4----------	Obj
+27	jejich	PSXXXXP3-------	Atr
+28	lidská	AAFS1----1A----	Atr
+29	situace	NNFS1-----A----	Sb
+30	tak	Db-------------	Adv
+31	či	J^-------------	Coord
+32	onak	Db-------------	Adv
+33	,	Z:-------------	Coord
+34	více	Dg-------2A----	Adv
+35	nebo	J^-------------	Coord
+36	méně	Dg-------2A----	Adv
+37	znevýhodňuje	VB-S---3P-AA---	Atr
+38	.	Z:-------------	AuxK
+
+lnd91301-050-p6s2
+1	Každá	AAFS1----1A----	Atr
+2	pomoc	NNFS1-----A----	Sb
+3	a	J^-------------	Coord
+4	pozornost	NNFS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	poměrně	Dg-------1A----	Adv
+7	odlehlém	AAIS6----1A----	Atr
+8	domově	NNIS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	jako	J,-------------	AuxY
+11	je	VB-S---3P-AA---	Apos
+12	ten	PDYS1----------	Adv
+13	v	RR--6----------	AuxP
+14	Rovečném	NNNS6-----A----	Atr
+15	,	Z:-------------	AuxX
+16	je	VB-S---3P-AA---	Pred
+17	vítaná	AAFS1----1A----	Pnom
+18	.	Z:-------------	AuxK
+
+lnd91301-050-p7s1
+1	FRANTIŠEK	NNMS1-----A----	Atr
+2	SCHILDBERGER	NNMS1-----A----	ExD
+

@@ -1,0 +1,333 @@
+ln95046-112-p1s1
+1	V	RR--6----------	AuxP
+2	České	AAFS6----1A----	Atr
+3	republice	NNFS6-----A----	Adv
+4	i	J^-------------	Coord
+5	v	RR--6----------	AuxP
+6	Německu	NNNS6-----A----	Adv
+7	vrcholí	VB-S---3P-AA---	Pred
+8	jednání	NNNS1-----A----	Sb
+9	o	RR--6----------	AuxP
+10	koncepci	NNFS6-----A----	Atr
+11	oslav	NNFP2-----A----	Atr
+12	konce	NNIS2-----A----	Atr
+13	války	NNFS2-----A----	Atr
+
+ln95046-112-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-112-p2s1B
+1	Jednotnou	AAFS4----1A----	Atr
+2	koncepci	NNFS4-----A----	Obj
+3	oslav	NNFP2-----A----	Atr
+4	50	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	výročí	NNNS2-----A----	Atr
+7	konce	NNIS2-----A----	Atr
+8	druhé	CrFS2----------	Atr
+9	světové	AAFS2----1A----	Atr
+10	války	NNFS2-----A----	Atr
+11	projednala	VpQW---XR-AA---	Pred
+12	včera	Db-------------	Adv
+13	česká	AAFS1----1A----	Atr
+14	vláda	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95046-112-p2s2
+1	Zasedání	NNNS2-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	zúčastnil	VpYS---XR-AA---	Pred
+4	také	Db-------------	Adv
+5	prezident	NNMS1-----A----	Atr
+6	republiky	NNFS2-----A----	Atr
+7	Václav	NNMS1-----A----	Atr
+8	Havel	NNMS1-----A----	Sb
+9	a	J^-------------	Coord
+10	předseda	NNMS1-----A----	Atr
+11	Poslanecké	AAFS2----1A----	Atr
+12	sněmovny	NNFS2-----A----	Atr
+13	Milan	NNMS1-----A----	Atr
+14	Uhde	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95046-112-p3s1
+1	Podle	RR--2----------	AuxP
+2	prezidenta	NNMS2-----A----	Adv
+3	budou	VB-P---3F-AA---	AuxV
+4	mít	Vf--------A----	Pred
+5	oslavy	NNFP1-----A----	Sb
+6	státní	AAIS4----1A----	Atr
+7	charakter	NNIS4-----A----	Obj
+8	a	J^-------------	Coord
+9	akce	NNFS2-----A----	Obj
+10	pořádané	AAFS2----1A----	Atr
+11	jednou	ClFS7----------	Atr
+12	ústavní	AAFS7----1A----	Atr
+13	institucí	NNFS7-----A----	Obj
+14	se	P7-X4----------	AuxT
+15	zúčastní	VB-P---3P-AA---	Pred
+16	i	J^-------------	AuxZ
+17	zástupci	NNMP1-----A----	Sb
+18	těch	PDXP2----------	Atr
+19	ostatních	AAFP2----1A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95046-112-p3s2
+1	Hlavním	AAIS7----1A----	Atr
+2	bodem	NNIS7-----A----	Pnom
+3	oslav	NNFP2-----A----	Atr
+4	bude	VB-S---3F-AA---	Pred
+5	večerní	AAIS1----1A----	Atr
+6	koncert	NNIS1-----A----	Sb
+7	České	AAFS2----1A----	Atr
+8	filharmonie	NNFS2-----A----	Atr
+9	8	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	května	NNIS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Rudolfinu	NNNS6-----A----	Adv
+14	s	RR--7----------	AuxP
+15	následnou	AAFS7----1A----	Atr
+16	recepcí	NNFS7-----A----	Adv
+17	za	RR--2----------	AuxP
+18	účasti	NNFS2-----A----	Atr
+19	ústavních	AAMP2----1A----	Atr
+20	činitelů	NNMP2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	členů	NNMP2-----A----	Atr
+23	diplomatického	AAIS2----1A----	Atr
+24	sboru	NNIS2-----A----	Atr
+25	a	J^-------------	Coord
+26	veteránů	NNMP2-----A----	Atr
+27	2	C=-------------	Atr
+28	.	Z:-------------	AuxG
+29	světové	AAFS2----1A----	Atr
+30	války	NNFS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln95046-112-p3s3
+1	Na	RR--4----------	AuxP
+2	oslavy	NNFP4-----A----	Adv
+3	vyčlenila	VpQW---XR-AA---	Pred
+4	vláda	NNFS1-----A----	Sb
+5	z	RR--2----------	AuxP
+6	rozpočtu	NNIS2-----A----	Adv
+7	10	C=-------------	Obj
+8	miliónů	NNIP2-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95046-112-p4s1
+1	Prezident	NNMS1-----A----	Atr
+2	Havel	NNMS1-----A----	Sb
+3	při	RR--6----------	AuxP
+4	odchodu	NNIS6-----A----	Adv
+5	z	RR--2----------	AuxP
+6	jednání	NNNS2-----A----	Atr
+7	vlády	NNFS2-----A----	Atr
+8	uvedl	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	v	RR--6----------	AuxP
+12	diskusi	NNFS6-----A----	Adv
+13	zvítězil	VpYS---XR-AA---	Obj
+14	názor	NNIS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	aby	J,-------------	AuxC
+17	na	RR--4----------	AuxP
+18	oslavy	NNFP4-----A----	Adv
+19	byli	VpMP---XR-AA---	AuxV
+20	přizváni	VsMP---XX-AP---	Atr
+21	i	J^-------------	AuxZ
+22	zástupci	NNMP1-----A----	Sb
+23	Německa	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95046-112-p4s2
+1	Premiér	NNMS1-----A----	Atr
+2	Václav	NNMS1-----A----	Atr
+3	Klaus	NNMS1-----A----	Sb
+4	však	J^-------------	Coord
+5	po	RR--6----------	AuxP
+6	skončení	NNNS6-----A----	Adv
+7	jednání	NNNS2-----A----	Atr
+8	LN	NNFPX-----A---8	Obj
+9	řekl	VpYS---XR-AA---	Pred
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	vláda	NNFS1-----A----	Sb
+13	o	RR--6----------	AuxP
+14	této	PDFS6----------	Atr
+15	věci	NNFS6-----A----	Obj
+16	včera	Db-------------	Adv
+17	ještě	Db-------------	Adv
+18	nerozhodla	VpQW---XR-NA--1	Obj
+19	.	Z:-------------	AuxK
+
+ln95046-112-p4s3
+1	Varoval	VpYS---XR-AA---	Pred
+2	ale	J^-------------	Coord
+3	před	RR--7----------	AuxP
+4	tím	PDZS7----------	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	se	P7-X4----------	AuxR
+8	z	RR--2----------	AuxP
+9	otázky	NNFS2-----A----	Obj
+10	výběru	NNIS2-----A----	Atr
+11	hostů	NNMP2-----A----	Atr
+12	na	RR--4----------	AuxP
+13	oslavy	NNFP4-----A----	AtrAtr
+14	dělal	VpYS---XR-AA---	Atr
+15	vnitropolitický	AAIS1----1A----	Atr
+16	problém	NNIS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+ln95046-112-p5s1
+1	V	RR--6----------	AuxP
+2	Německu	NNNS6-----A----	Adv
+3	s	RR--7----------	AuxP
+4	blížícím	AGNS7-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	výročím	NNNS7-----A----	Adv
+7	ožívá	VB-S---3P-AA---	Pred
+8	diskuse	NNFS1-----A----	Sb
+9	o	RR--6----------	AuxP
+10	tom	PDZS6----------	Atr
+11	,	Z:-------------	AuxX
+12	zda	J,-------------	AuxC
+13	8	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	květen	NNIS1-----A----	Sb
+16	1945	C=-------------	Atr
+17	znamenal	VpYS---XR-AA---	Atr
+18	porážku	NNFS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	nebo	J^-------------	Coord
+21	osvobození	NNNS4-----A----	Obj
+22	Německa	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95046-112-p5s2
+1	Čelní	AAMP1----1A----	Atr
+2	politikové	NNMP1-----A---1	Sb
+3	SRN	NNFXX-----A---8	Atr
+4	se	P7-X4----------	AuxT
+5	hlásí	VB-P---3P-AA---	Pred
+6	k	RR--3----------	AuxP
+7	výroku	NNIS3-----A----	Obj
+8	bývalého	AAMS2----1A----	Atr
+9	prezidenta	NNMS2-----A----	Atr
+10	Richarda	NNMS2-----A----	Atr
+11	von	RR--X----------	Atr
+12	Weizsäckera	NNMS2-----A----	Atr
+13	z	RR--2----------	AuxP
+14	roku	NNIS2-----A---1	Atr
+15	1985	C=-------------	Atr
+16	:	Z:-------------	AuxG
+17	"	Z:-------------	AuxG
+18	8	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	květen	NNIS1-----A----	Sb
+21	byl	VpYS---XR-AA---	Atr
+22	dnem	NNIS7-----A----	Pnom
+23	osvobození	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+25	"	Z:-------------	AuxG
+
+ln95046-112-p5s3
+1	Kancléř	NNMS1-----A----	Atr
+2	Helmut	NNMS1-----A----	Atr
+3	Kohl	NNMS1-----A----	Sb
+4	chce	VB-S---3P-AA---	Pred
+5	výročí	NNNS4-----A----	Obj
+6	využít	Vf--------A----	Obj
+7	k	RR--3----------	AuxP
+8	aktu	NNIS3-----A----	Adv
+9	usmíření	NNNS2-----A----	Atr
+10	Německa	NNNS2-----A----	Atr
+11	s	RR--7----------	AuxP
+12	jeho	PSXXXZS3-------	Atr
+13	někdejšími	AAMP7----1A----	Atr
+14	protivníky	NNMP7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-112-p5s4
+1	Měl	VpYS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	zúčastnit	Vf--------A----	Obj
+5	oslav	NNFP2-----A----	Obj
+6	konce	NNIS2-----A----	Atr
+7	války	NNFS2-----A----	Atr
+8	7	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	května	NNIS2-----A----	Adv
+11	v	RR--6----------	AuxP
+12	Londýně	NNIS6-----A----	Adv
+13	a	J^-------------	Coord
+14	o	RR--4----------	AuxP
+15	den	NNIS4-----A----	Adv
+16	později	Dg-------2A----	ExD
+17	v	RR--6----------	AuxP
+18	Paříži	NNFS6-----A----	ExD
+19	.	Z:-------------	AuxK
+
+ln95046-112-p5s5
+1	Německo	NNNS1-----A----	Sb
+2	si	P7-X3----------	Obj
+3	jinak	Db-------------	Adv
+4	připomene	VB-S---3P-AA---	Pred
+5	letošní	AANS4----1A----	Atr
+6	50	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	výročí	NNNS4-----A----	Obj
+9	konce	NNIS2-----A----	Atr
+10	války	NNFS2-----A----	Atr
+11	zvláštním	AANS7----1A----	Atr
+12	zasedáním	NNNS7-----A----	Adv
+13	Spolkového	AAIS2----1A----	Atr
+14	sněmu	NNIS2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	Berlíně	NNIS6-----A----	Atr
+17	8	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	května	NNIS2-----A----	AtrAdv
+20	.	Z:-------------	AuxK
+
+ln95046-112-p5s6
+1	Vrcholem	NNIS7-----A----	Pnom
+2	oslav	NNFP2-----A----	Atr
+3	by	Vc-------------	AuxV
+4	měla	VpQW---XR-AA---	Pred
+5	být	Vf--------A----	Obj
+6	návštěva	NNFS1-----A----	Sb
+7	izraelského	AAMS2----1A----	Atr
+8	prezidenta	NNMS2-----A----	Atr
+9	Ezera	NNMS2-----A----	Atr
+10	Weizmanna	NNMS2-----A----	Atr
+11	jako	J,-------------	AuxY
+12	hlavy	NNFS2-----A----	Atv
+13	státu	NNIS2-----A----	Atr
+14	Židů	NNMP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	kteří	P4MP1----------	Sb
+17	byli	VpMP---XR-AA---	AuxV
+18	nacisty	NNMP7-----A----	Obj
+19	za	RR--2----------	AuxP
+20	války	NNFS2-----A----	Adv
+21	masově	Dg-------1A----	Adv
+22	vyvražďováni	VsMP---XX-AP---	Atr
+23	.	Z:-------------	AuxK
+
+ln95046-112-p5s7
+1	O	RR--6----------	AuxP
+2	obou	ClXP6----------	Atr
+3	akcích	NNFP6-----A----	Obj
+4	ještě	Db-------------	Adv
+5	není	VB-S---3P-NA---	Pred
+6	oficiálně	Dg-------1A----	Adv
+7	rozhodnuto	VsNS---XX-AP---	Pnom
+8	.	Z:-------------	AuxK
+

@@ -1,0 +1,309 @@
+ln94209-97-p1s1
+1	Sestřelený	AAMS1----1A----	Atr
+2	Fittipaldi	NNMS1-----A----	ExD
+
+ln94209-97-p2s1A
+1	Vancouver	NNIS1-----A----	ExD
+2	/	Z:-------------	Coord
+3	Londýn	NNIS1-----A----	ExD
+4	-	Z:-------------	AuxK
+
+ln94209-97-p2s1B
+1	Al	NNMS1-----A----	Atr
+2	Unser	NNMS1-----A----	Sb
+3	jr	AAXXX----1A---8	Atr
+4	.	Z:-------------	AuxG
+5	s	RR--7----------	AuxP
+6	vozem	NNIS7-----A----	Adv
+7	Penske	NNNXX-----A----	Atr
+8	Ilmor	NNIS1-----A----	Atr
+9	vyhrál	VpYS---XR-AA---	Pred
+10	GP	NNFXX-----A---8	Obj
+11	Kanady	NNFS2-----A----	Atr
+12	amerického	AANS2----1A----	Atr
+13	mistrovství	NNNS2-----A----	Atr
+14	automobilů	NNIP2-----A----	Atr
+15	formule	NNFS2-----A----	Atr
+16	IndyCar	NNIS1-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94209-97-p2s2
+1	Druhý	CrMS1----------	Atv
+2	skončil	VpYS---XR-AA---	Pred
+3	nejrychlejší	AAMS1----3A----	Atr
+4	muž	NNMS1-----A----	Atr
+5	v	RR--6----------	AuxP
+6	tréninku	NNIS6-----A----	Adv
+7	Gordon	NNMS1-----A----	Sb
+8	s	RR--7----------	AuxP
+9	Lolou	NNFS7-----A----	Adv
+10	Ford	NNIS1-----A----	Atr
+11	Cosworth	NNIS1-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94209-97-p2s3
+1	Unser	NNMS1-----A----	Sb
+2	vyhrál	VpYS---XR-AA---	Pred
+3	třetí	CrIS4----------	Atr
+4	závod	NNIS4-----A----	Obj
+5	v	RR--6----------	AuxP
+6	řadě	NNFS6-----A----	Atr
+7	a	J^-------------	Coord
+8	letos	Db-------------	Adv
+9	již	Db-------------	Adv
+10	dosáhl	VpYS---XR-AA---	Pred
+11	osmi	Cn-P2----------	Atr
+12	prvenství	NNNP2-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94209-97-p2s4
+1	Obhájce	NNMS1-----A----	Atr
+2	prvenství	NNNS2-----A----	Atr
+3	a	J^-------------	Coord
+4	mistr	NNMS1-----A----	Atr
+5	světa	NNIS2-----A----	Atr
+6	formule	NNFS2-----A----	Atr
+7	1	C=-------------	Atr
+8	z	RR--2----------	AuxP
+9	roku	NNIS2-----A---1	Atr
+10	1992	C=-------------	Atr
+11	Brit	NNMS1-----A----	Atr
+12	Nigel	NNMS1-----A----	Atr
+13	Mansell	NNMS1-----A----	Sb
+14	vedl	VpYS---XR-AA---	Pred
+15	závodní	AANS4----1A----	Atr
+16	pole	NNNS4-----A----	Obj
+17	od	RR--2----------	AuxP
+18	37	C=-------------	ExD
+19	.	Z:-------------	AuxG
+20	do	RR--2----------	AuxP
+21	75	C=-------------	Atr
+22	.	Z:-------------	AuxG
+23	kola	NNNS2-----A----	Adv
+24	,	Z:-------------	AuxX
+25	pak	Db-------------	Adv
+26	však	J^-------------	Coord
+27	musel	VpYS---XR-AA---	Pred
+28	zajet	Vf--------A----	Obj
+29	s	RR--7----------	AuxP
+30	poruchou	NNFS7-----A----	Adv
+31	do	RR--2----------	AuxP
+32	boxu	NNIS2-----A----	Adv
+33	.	Z:-------------	AuxK
+
+ln94209-97-p2s5
+1	Tím	PDZS7----------	Adv
+2	klesl	VpYS---XR-AA--1	Pred
+3	až	TT-------------	AuxZ
+4	na	RR--4----------	AuxP
+5	šesté	CrNS4----------	Atr
+6	místo	NNNS4-----A----	Adv
+7	a	J^-------------	Coord
+8	ve	RV--6----------	AuxP
+9	snaze	NNFS6-----A----	Adv
+10	prodrat	Vf--------A----	Atr
+11	se	P7-X4----------	AuxT
+12	v	RR--6----------	AuxP
+13	posledním	AANS6----1A----	Atr
+14	kole	NNNS6-----A----	Adv
+15	na	RR--4----------	AuxP
+16	třetí	CrFS4----------	Atr
+17	příčku	NNFS4-----A----	Adv
+18	před	RR--4----------	AuxP
+19	Brazilce	NNMS4-----A----	Atr
+20	Fittipaldiho	NNMS4-----A----	Adv
+21	došlo	VpNS---XR-AA---	Pred
+22	ke	RV--3----------	AuxP
+23	srážce	NNFS3-----A----	Obj
+24	jejich	PSXXXXP3-------	Atr
+25	vozů	NNIP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94209-97-p2s6
+1	Fittipaldi	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	nakonec	Db-------------	Adv
+4	klasifikován	VsYS---XX-AP---	Pred
+5	devátý	CrMS1----------	Atv
+6	a	J^-------------	Coord
+7	Mansell	NNMS1-----A----	ExD
+8	desátý	CrMS1----------	ExD
+9	.	Z:-------------	AuxK
+
+ln94209-97-p2s7
+1	Šampion	NNMS1-----A----	Sb
+2	jako	J,-------------	AuxC
+3	Mansell	NNMS1-----A----	ExD
+4	nemůže	VB-S---3P-NA---	Pred
+5	jezdit	Vf--------A----	Obj
+6	tímto	PDZS7----------	Atr
+7	způsobem	NNIS7-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln94209-97-p2s8
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ostuda	NNFS1-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	když	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	poslední	AAFS6----1A----	Atr
+8	zatáčce	NNFS6-----A----	Adv
+9	vyrazí	VB-S---3P-AA---	Adv
+10	jako	J,-------------	AuxC
+11	torpédo	NNNS1-----A----	ExD
+12	.	Z:-------------	AuxK
+
+ln94209-97-p2s9A
+1	Najednou	Db-------------	Adv
+2	nebylo	VpNS---XR-NA---	Pred
+3	žádné	PWNS1----------	Atr
+4	místo	NNNS1-----A----	Sb
+5	mezi	RR--7----------	AuxP
+6	mým	PSZS7-S1-------	Atr
+7	vozem	NNIS7-----A----	Adv
+8	a	J^-------------	Coord
+9	zdí	NNFS7-----A----	Adv
+10	,	Z:-------------	Coord
+11	byla	VpQW---XR-AA---	Pred
+12	slova	NNNP1-----A----	Sb
+13	nešťastného	AAMS2----1N----	Atr
+14	Fittipaldiho	NNMS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	s	RR--7----------	AuxP
+17	nimiž	P9XP7----------	Obj
+18	však	J^-------------	AuxY
+19	Mansell	NNMS1-----A----	Sb
+20	nesouhlasil	VpYS---XR-NA---	Atr
+21	:	Z:-------------	AuxK
+
+ln94209-97-p2s9B
+1	Jel	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	podél	RR--2----------	AuxP
+4	něj	P5ZS2--3-------	Adv
+5	a	J^-------------	Coord
+6	on	PPYS1--3-------	Sb
+7	měl	VpYS---XR-AA---	Pred
+8	pouze	Db-------------	AuxZ
+9	dvě	ClHP4----------	Atr
+10	možnosti	NNFP4-----A----	Obj
+11	-	Z:-------------	AuxG
+12	nechat	Vf--------A----	Atr
+13	se	P7-X4----------	Obj
+14	předstihnout	Vf--------A----	Obj
+15	a	J^-------------	Coord
+16	nebo	J^-------------	AuxY
+17	způsobit	Vf--------A----	Atr
+18	havárii	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94209-97-p2s10
+1	Volil	VpYS---XR-AA---	Pred
+2	druhý	CrIS4----------	Atr
+3	způsob	NNIS4-----A----	Obj
+4	.	Z:-------------	AuxK
+
+ln94209-97-p2s11
+1	Mansellův	AUIS1M---------	Atr
+2	návrat	NNIS1-----A----	Sb
+3	do	RR--2----------	AuxP
+4	F	NNXXX-----A---8	Atr
+5	1	C=-------------	Atr
+6	vzbudil	VpYS---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	týmu	NNIS6-----A----	Adv
+9	Williams	NNMS1-----A----	Atr
+10	diskuse	NNFP4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln94209-97-p2s12
+1	Podle	RR--2----------	AuxP
+2	některých	PZXP2----------	Atr
+3	britských	AAIP2----1A----	Atr
+4	deníků	NNIP2-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	měl	VpYS---XR-AA---	Pred
+7	technický	AAMS1----1A----	Atr
+8	ředitel	NNMS1-----A----	Atr
+9	stáje	NNFS2-----A----	Atr
+10	Patrick	NNMS1-----A----	Atr
+11	Head	NNMS1-----A----	Sb
+12	vyjádřit	Vf--------A----	Obj
+13	proti	RR--3----------	AuxP
+14	jeho	PSXXXZS3-------	Atr
+15	angažování	NNNS3-----A----	Obj
+16	na	RR--4----------	AuxP
+17	celou	AAFS4----1A----	Atr
+18	příští	AAFS4----1A----	Atr
+19	sezonu	NNFS4-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94209-97-p2s13
+1	Mansell	NNMS1-----A----	Sb
+2	letos	Db-------------	Adv
+3	zůstává	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	týmu	NNIS6-----A----	Adv
+6	Newmann	NNMS1-----A----	Atr
+7	Haas	NNMS1-----A----	Atr
+8	poněkud	Db-------------	Adv
+9	dlužen	ACYS------A----	Obj
+10	svému	P8ZS3----------	Atr
+11	věhlasu	NNIS3-----A----	Obj
+12	a	J^-------------	Coord
+13	odmítá	VB-S---3P-AA---	Pred
+14	další	AANS4----1A----	Atr
+15	působení	NNNS4-----A----	Obj
+16	v	RR--6----------	AuxP
+17	IndyCar	NNXXX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94209-97-p2s14
+1	V	RR--6----------	AuxP
+2	souvislosti	NNFS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	Mansellovým	AUIS7M---------	Atr
+5	návratem	NNIS7-----A----	Adv
+6	a	J^-------------	Coord
+7	jeho	PSXXXZS3-------	Atr
+8	působením	NNNS7-----A----	Adv
+9	v	RR--6----------	AuxP
+10	týmu	NNIS6-----A----	Atr
+11	Williams	NNMS1-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	objevují	VB-P---3P-AA---	Pred
+14	dohady	NNIP1-----A----	Sb
+15	o	RR--6----------	AuxP
+16	rekordní	AAFS6----1A----	Atr
+17	roční	AAFS6----1A----	Atr
+18	smlouvě	NNFS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94209-97-p2s15
+1	Head	NNMS1-----A----	Sb
+2	však	J^-------------	Coord
+3	považuje	VB-S---3P-AA---	Pred
+4	rozruch	NNIS4-----A----	Obj
+5	za	RR--4----------	AuxP
+6	reklamní	AAIS4----1A----	Atr
+7	trik	NNIS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94209-97-p2s16
+1	Jisté	AANS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	také	Db-------------	AuxZ
+6	týmy	NNIP1-----A----	Sb
+7	McLaren	NNMS1-----A----	Atr
+8	a	J^-------------	Coord
+9	Ferrari	NNNXX-----A----	Atr
+10	projevily	VpTP---XR-AA---	Sb
+11	o	RR--4----------	AuxP
+12	Brita	NNMS4-----A----	Atr
+13	skutečný	AAIS4----1A----	Atr
+14	zájem	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+

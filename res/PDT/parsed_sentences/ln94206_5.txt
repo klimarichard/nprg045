@@ -1,0 +1,116 @@
+ln94206-5-p1s1
+1	Pražská	AAFS1----1A----	Atr
+2	konference	NNFS1-----A----	ExD
+3	o	RR--6----------	AuxP
+4	čisté	AAFS6----1A----	Atr
+5	energii	NNFS6-----A----	Atr
+
+ln94206-5-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-5-p2s1B
+1	V	RR--6----------	AuxP
+2	rámci	NNIS6-----A----	AuxP
+3	programu	NNIS2-----A----	Adv
+4	Evropské	AAFS2----1A----	Atr
+5	unie	NNFS2-----A----	Atr
+6	THERMIE	NNIXX-----A---8	Atr
+7	,	Z:-------------	AuxX
+8	zaměřeného	AAIS2----1A----	Atr
+9	na	RR--4----------	AuxP
+10	podporu	NNFS4-----A----	Obj
+11	nových	AAFP2----1A----	Atr
+12	,	Z:-------------	AuxX
+13	čistých	AAFP2----1A----	Atr
+14	a	J^-------------	Coord
+15	nízkoztrátových	AAFP2----1A----	Atr
+16	energetických	AAFP2----1A----	Atr
+17	technologií	NNFP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	se	P7-X4----------	AuxR
+20	ve	RV--6----------	AuxP
+21	dnech	NNIP6-----A----	Adv
+22	26	C=-------------	Atr
+23	.	Z:-------------	AuxG
+24	-	Z:-------------	Coord
+25	27	C=-------------	Atr
+26	.	Z:-------------	AuxG
+27	září	NNNS2-----A----	Atr
+28	uskuteční	VB-S---3P-AA---	Pred
+29	v	RR--6----------	AuxP
+30	Praze	NNFS6-----A----	Adv
+31	konference	NNFS1-----A----	Sb
+32	o	RR--6----------	AuxP
+33	využívání	NNNS6-----A----	Atr
+34	technologií	NNFP2-----A----	Atr
+35	kombinované	AAFS2----1A----	Atr
+36	výroby	NNFS2-----A----	Atr
+37	elektrické	AAFS2----1A----	Atr
+38	energie	NNFS2-----A----	Atr
+39	a	J^-------------	Coord
+40	tepla	NNNS2-----A----	Atr
+41	(	Z:-------------	Apos
+42	kogenerace	NNFS2-----A----	Atr
+43	)	Z:-------------	AuxG
+44	.	Z:-------------	AuxK
+
+ln94206-5-p2s2
+1	Referáty	NNIP1-----A----	Sb
+2	přednášejících	AGMP2-----A----	Atr
+3	budou	VB-P---3F-AA---	AuxV
+4	věnovány	VsTP---XX-AP---	Pred
+5	především	Db-------------	AuxZ
+6	malým	AAFP3----1A----	Atr
+7	kogeneračním	AAFP3----1A----	Atr
+8	jednotkám	NNFP3-----A----	Obj
+9	,	Z:-------------	AuxX
+10	jejich	PSXXXXP3-------	Atr
+11	technice	NNFS3-----A----	Obj
+12	a	J^-------------	Coord
+13	hlavně	Dg-------1A----	AuxZ
+14	možnostem	NNFP3-----A----	Obj
+15	jejich	PSXXXXP3-------	Atr
+16	tržního	AANS2----1A----	Atr
+17	uplatnění	NNNS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	západní	AAFS6----1A----	Atr
+20	,	Z:-------------	AuxX
+21	střední	AAFS6----1A----	Atr
+22	i	J^-------------	Coord
+23	východní	AAFS6----1A----	Atr
+24	Evropě	NNFS6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94206-5-p3s1
+1	V	RR--6----------	AuxP
+2	ČR	NNFXX-----A---8	Adv
+3	se	P7-X4----------	AuxR
+4	kogenerace	NNFS2-----A----	Sb
+5	využívá	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	mnohem	Db-------------	Adv
+8	menším	AAIS6----2A----	Atr
+9	rozsahu	NNIS6-----A----	Adv
+10	než	J,-------------	AuxC
+11	v	RR--6----------	AuxP
+12	západoevropských	AAFP6----1A----	Atr
+13	zemích	NNFP6-----A----	ExD
+14	.	Z:-------------	AuxK
+
+ln94206-5-p3s2
+1	Proto	J^-------------	Coord
+2	tu	Db------------1	Adv
+3	existují	VB-P---3P-AA---	Pred
+4	značné	AAFP1----1A----	Atr
+5	možnosti	NNFP1-----A----	Sb
+6	jejího	PSZS2FS3-------	Atr
+7	uplatnění	NNNS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	průmyslu	NNIS6-----A----	Atr
+10	i	J^-------------	Coord
+11	v	RR--6----------	AuxP
+12	centrálním	AANS6----1A----	Atr
+13	vytápění	NNNS6-----A----	Atr
+14	.	Z:-------------	AuxK
+

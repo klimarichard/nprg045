@@ -1,0 +1,206 @@
+mf930709-130-p1s1
+1	Cepl	NNMS1-----A----	Sb
+2	odmítl	VpYS---XR-AA--1	Pred
+3	obvinění	NNNS4-----A----	Obj
+4	ze	RV--2----------	AuxP
+5	spolupráce	NNFS2-----A----	Atr
+6	s	RR--7----------	AuxP
+7	StB	NNFXX-----A---8	Atr
+
+mf930709-130-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	li	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	iv	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930709-130-p2s1B
+1	Parlament	NNIS1-----A----	Sb
+2	podpořil	VpYS---XR-AA---	Pred
+3	kandidaturu	NNFS4-----A----	Obj
+4	Vojtěcha	NNMS2-----A----	Atr
+5	Cepla	NNMS2-----A----	Atr
+6	na	RR--4----------	AuxP
+7	funkci	NNFS4-----A----	Atr
+8	ústavního	AAMS2----1A----	Atr
+9	soudce	NNMS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	přestože	J,-------------	AuxC
+12	poslanec	NNMS1-----A----	Atr
+13	Jaroslav	NNMS1-----A----	Atr
+14	Vlček	NNMS1-----A----	Sb
+15	(	Z:-------------	ExD
+16	LSU	NNFXX-----A---8	ExD
+17	)	Z:-------------	ExD
+18	nepřímo	Dg-------1N----	Adv
+19	vyslovil	VpYS---XR-AA---	Adv
+20	domněnku	NNFS4-----A----	Obj
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	Cepl	NNMS1-----A----	Sb
+24	spolupracoval	VpYS---XR-AA---	Atr
+25	se	RV--7----------	AuxP
+26	StB	NNFXX-----A---8	Obj
+27	.	Z:-------------	AuxK
+
+mf930709-130-p3s1
+1	Cepl	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	Pred
+3	veden	VsYS---XX-AP---	Pnom
+4	jako	J,-------------	AuxY
+5	kandidát	NNMS1-----A----	Atv
+6	tajné	AAFS2----1A----	Atr
+7	spolupráce	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	s	RR--7----------	AuxP
+10	StB	NNFXX-----A---8	Obj
+11	však	J^-------------	Coord
+12	podle	RR--2----------	AuxP
+13	osvědčení	NNNS2-----A----	Adv
+14	nezávislé	AAFS2----1N----	Atr
+15	komise	NNFS2-----A----	Atr
+16	při	RR--6----------	AuxP
+17	ministerstvu	NNNS6-----A----	Atr
+18	vnitra	NNNS2-----A----	Atr
+19	vědomě	Dg-------1A----	Adv
+20	nespolupracoval	VpYS---XR-NA---	Pred
+21	.	Z:-------------	AuxK
+
+mf930709-130-p3s2
+1	StB	NNFXX-----A---8	Sb
+2	se	P7-X4----------	AuxT
+3	neúspěšně	Dg-------1N----	Adv
+4	snažila	VpQW---XR-AA---	Pred
+5	Cepla	NNMS4-----A----	Obj
+6	získat	Vf--------A----	Obj
+7	ke	RV--3----------	AuxP
+8	spolupráci	NNFS3-----A----	Adv
+9	počátkem	NNIS7-----A----	AuxP
+10	70	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	let	NNNP2-----A----	Adv
+13	,	Z:-------------	Coord
+14	poté	Db-------------	Adv
+15	ho	PHZS4--3-------	Obj
+16	evidovala	VpQW---XR-AA---	Pred
+17	jako	J,-------------	AuxY
+18	nepřátelskou	AAFS4----1N----	Atr
+19	osobu	NNFS4-----A----	Atv
+20	.	Z:-------------	AuxK
+
+mf930709-130-p3s3
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ze	RV--2----------	AuxP
+4	záznamů	NNIP2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	s	RR--7----------	AuxP
+7	nimiž	P9XP7----------	Obj
+8	poslance	NNMP4-----A----	Obj
+9	seznámil	VpYS---XR-AA---	Atr
+10	ministr	NNMS1-----A----	Atr
+11	vnitra	NNNS2-----A----	Atr
+12	Ruml	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+mf930709-130-p4s1
+1	Vlček	NNMS1-----A----	Sb
+2	uvedl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	Cepl	NNMS1-----A----	Sb
+6	spolu	Db-------------	AuxP
+7	s	RR--7----------	AuxP
+8	evidovaným	AAMS7----1A----	Atr
+9	spolupracovníkem	NNMS7-----A----	Atr
+10	StB	NNFXX-----A---8	Atr
+11	Zdeňkem	NNMS7-----A----	Atr
+12	Masopustem	NNMS7-----A----	Atr
+13	zjišťovali	VpMP---XR-AA---	Obj
+14	v	RR--6----------	AuxP
+15	létě	NNNS6-----A----	Adv
+16	roku	NNIS2-----A---1	AdvAtr
+17	1984	C=-------------	Atr
+18	,	Z:-------------	AuxX
+19	jaký	P4IS4----------	Atr
+20	kontakt	NNIS4-----A----	Obj
+21	udržuje	VB-S---3P-AA---	Obj
+22	Vlček	NNMS1-----A----	Sb
+23	se	RV--7----------	AuxP
+24	svým	P8ZS7----------	Atr
+25	švagrem	NNMS7-----A----	AdvAtr
+26	,	Z:-------------	Apos
+27	soudcem	NNMS7-----A----	AdvAtr
+28	v	RR--6----------	AuxP
+29	SRN	NNFXX-----A---8	Atr
+30	.	Z:-------------	AuxK
+
+mf930709-130-p4s2
+1	Cepl	NNMS1-----A----	Sb
+2	domněnky	NNFP4-----A----	Obj
+3	o	RR--6----------	AuxP
+4	své	P8FS6---------1	Atr
+5	práci	NNFS6-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	StB	NNFXX-----A---8	Atr
+8	odmítá	VB-S---3P-AA---	Pred
+9	.	Z:-------------	AuxK
+
+mf930709-130-p4s3
+1	Potvrdil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	s	RR--7----------	AuxP
+5	Masopustem	NNMS7-----A----	Adv
+6	trávil	VpYS---XR-AA---	Obj
+7	před	RR--7----------	AuxP
+8	devíti	Cn-P7----------	Atr
+9	lety	NNNP7-----A----	Adv
+10	část	NNFS4-----A----	Obj
+11	dovolené	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf930709-130-p4s5
+1	Setkali	VpMP---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	tenkrát	Db-------------	Adv
+4	i	J^-------------	AuxZ
+5	s	RR--7----------	AuxP
+6	Vlčkovou	AUFS7M---------	Atr
+7	rodinou	NNFS7-----A----	Obj
+8	.	Z:-------------	AuxK
+
+mf930709-130-p4s7
+1	Cepl	NNMS1-----A----	Sb
+2	zvažuje	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	na	RR--4----------	AuxP
+6	Vlčka	NNMS4-----A----	Adv
+7	podá	VB-S---3P-AA---	Obj
+8	žalobu	NNFS4-----A----	Obj
+9	na	RR--4----------	AuxP
+10	ochranu	NNFS4-----A----	Atr
+11	osobnosti	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf930709-130-p5s1
+1	Souhlas	NNIS4-----A----	Obj
+2	se	RV--7----------	AuxP
+3	jmenováním	NNNS7-----A----	Atr
+4	Cepla	NNMS2-----A----	Atr
+5	vyjádřilo	VpNS---XR-AA---	Pred
+6	95	C=-------------	Sb
+7	poslanců	NNMP2-----A----	Atr
+8	,	Z:-------------	Coord
+9	opozice	NNFS1-----A----	Sb
+10	až	TT-------------	AuxP
+11	na	RR--4----------	AuxP
+12	výjimky	NNFP4-----A----	Adv
+13	jeho	PSXXXZS3-------	Atr
+14	kandidaturu	NNFS4-----A----	Obj
+15	nepodpořila	VpQW---XR-NA---	Pred
+16	.	Z:-------------	AuxK
+

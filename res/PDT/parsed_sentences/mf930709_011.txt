@@ -1,0 +1,144 @@
+mf930709-011-p1s1
+1	Unikátní	AAFS1----1A----	Atr
+2	operace	NNFS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	nemocnici	NNFS6-----A----	Atr
+5	Motol	NNIS1-----A----	Atr
+
+mf930709-011-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930709-011-p2s1B
+1	Unikátní	AAFS4----1A----	Atr
+2	operaci	NNFS4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	která	P4FS1----------	Sb
+5	má	VB-S---3P-AA---	Atr
+6	navrátit	Vf--------A----	Obj
+7	sluch	NNIS4-----A----	Obj
+8	dvouletému	AAMS3----1A----	Atr
+9	chlapci	NNMS3-----A----	Obj
+10	,	Z:-------------	AuxX
+11	provedl	VpYS---XR-AA---	Pred
+12	včera	Db-------------	Adv
+13	ve	RV--6----------	AuxP
+14	Fakultní	AAFS6----1A----	Atr
+15	nemocnici	NNFS6-----A----	Adv
+16	v	RR--6----------	AuxP
+17	Praze	NNFS6-----A----	AtrAdv
+18	-	Z:-------------	AuxG
+19	Motole	NNIS6-----A----	Atr
+20	německý	AAMS1----1A----	Atr
+21	specialista	NNMS1-----A----	Atr
+22	profesor	NNMS1-----A----	Atr
+23	Ernst	NNMS1-----A----	Atr
+24	Lehnhardt	NNMS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+mf930709-011-p2s2
+1	Operace	NNFS1-----A----	Sb
+2	trvala	VpQW---XR-AA---	Pred
+3	i	J^-------------	AuxZ
+4	s	RR--7----------	AuxP
+5	přípravou	NNFS7-----A----	Adv
+6	čtyři	ClXP4----------	Atr
+7	hodiny	NNFP4-----A----	Adv
+8	a	J^-------------	Coord
+9	zdařila	VpQW---XR-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	.	Z:-------------	AuxK
+
+mf930709-011-p2s3
+1	Podle	RR--2----------	AuxP
+2	profesora	NNMS2-----A----	Atr
+3	Jaroslava	NNMS2-----A----	Atr
+4	Fajstavra	NNMS2-----A----	Adv
+5	z	RR--2----------	AuxP
+6	motolské	AAFS2----1A----	Atr
+7	nemocnice	NNFS2-----A----	Atr
+8	chlapec	NNMS1-----A----	Sb
+9	ohluchl	VpYS---XR-AA--1	Pred
+10	po	RR--6----------	AuxP
+11	zápalu	NNIS6-----A----	Adv
+12	mozkových	AAFP2----1A----	Atr
+13	blan	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	který	P4IS4----------	Obj
+16	prodělal	VpYS---XR-AA---	Atr
+17	před	RR--7----------	AuxP
+18	čtyřmi	ClXP7----------	Atr
+19	měsíci	NNIP7-----A----	Adv
+20	.	Z:-------------	AuxK
+
+mf930709-011-p2s4
+1	Stejné	AAFS3----1A----	Atr
+2	operaci	NNFS3-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	loni	Db------------1	Adv
+5	na	RR--6----------	AuxP
+6	ušní	AAFS6----1A----	Atr
+7	klinice	NNFS6-----A----	Adv
+8	v	RR--6----------	AuxP
+9	Hannoveru	NNIS6-----A----	AtrAdv
+10	podrobil	VpYS---XR-AA---	Pred
+11	šestiletý	AAMS1----1A----	Atr
+12	český	AAMS1----1A----	Atr
+13	chlapec	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf930709-011-p2s5
+1	Operace	NNFS1-----A----	Sb
+2	skončila	VpQW---XR-AA---	Pred
+3	úspěšně	Dg-------1A----	Adv
+4	a	J^-------------	Coord
+5	chlapec	NNMS1-----A----	Sb
+6	bez	RR--2----------	AuxP
+7	problémů	NNIP2-----A----	Adv
+8	navštěvuje	VB-S---3P-AA---	Pred
+9	1	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	třídu	NNFS4-----A----	Obj
+12	základní	AAFS2----1A----	Atr
+13	školy	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930709-011-p2s6
+1	Jeho	PSXXXZS3-------	Atr
+2	rodiče	NNMP1-----A----	Sb
+3	iniciovali	VpMP---XR-AA---	Pred
+4	vznik	NNIS4-----A----	Obj
+5	nadace	NNFS2-----A----	Atr
+6	"	Z:-------------	AuxG
+7	Prolomené	AANS1----1A----	Atr
+8	ticho	NNNS1-----A----	Atr
+9	"	Z:-------------	AuxG
+10	,	Z:-------------	AuxX
+11	která	P4FS1----------	Sb
+12	shromáždila	VpQW---XR-AA---	Atr
+13	finanční	AAIP4----1A----	Atr
+14	prostředky	NNIP4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	včerejší	AAIS4----1A----	Atr
+17	zákrok	NNIS4-----A----	AdvAtr
+18	.	Z:-------------	AuxK
+
+mf930709-011-p2s7
+1	Další	AAFS1----1A----	Atr
+2	podobná	AAFS1----1A----	Atr
+3	operace	NNFS1-----A----	Sb
+4	je	VB-S---3P-AA---	AuxV
+5	plánována	VsQW---XX-AP---	Pred
+6	na	RR--4----------	AuxP
+7	začátek	NNIS4-----A----	Adv
+8	příštího	AAIS2----1A----	Atr
+9	roku	NNIS2-----A---1	Atr
+10	a	J^-------------	Coord
+11	provedou	VB-P---3P-AA---	Pred
+12	ji	PPFS4--3-------	Obj
+13	lékaři	NNMP1-----A----	Sb
+14	Fakultní	AAFS2----1A----	Atr
+15	nemocnice	NNFS2-----A----	Atr
+16	Motol	NNIS1-----A----	Atr
+17	.	Z:-------------	AuxK
+

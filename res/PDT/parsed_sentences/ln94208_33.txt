@@ -1,0 +1,323 @@
+ln94208-33-p1s1
+1	Sociální	AAFS1----1A----	Atr
+2	služba	NNFS1-----A----	Sb
+3	osobní	AAFS2----1A----	Atr
+4	asistence	NNFS2-----A----	Atr
+5	začne	VB-S---3P-AA---	Pred
+6	být	Vf--------A----	AuxV
+7	už	Db-------------	AuxZ
+8	brzy	Dg-------1A----	Adv
+9	poskytována	VsQW---XX-AP---	Obj
+10	také	Db-------------	Adv
+11	u	RR--2----------	AuxP
+12	nás	PP-P2--1-------	Adv
+
+ln94208-33-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ika	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94208-33-p2s1B
+1	Osobní	AAFS1----1A----	Atr
+2	asistence	NNFS1-----A----	Sb
+3	jako	J,-------------	AuxY
+4	určitý	AAIS1----1A----	Atr
+5	typ	NNIS1-----A----	Atv
+6	sociální	AAFS2----1A----	Atr
+7	služby	NNFS2-----A----	Atr
+8	bude	VB-S---3F-AA---	AuxV
+9	zřejmě	Dg-------1A----	AuxY
+10	už	Db-------------	AuxZ
+11	brzy	Dg-------1A----	Adv
+12	poskytována	VsQW---XX-AP---	Pred
+13	i	J^-------------	AuxZ
+14	u	RR--2----------	AuxP
+15	nás	PP-P2--1-------	Adv
+16	.	Z:-------------	AuxK
+
+ln94208-33-p3s1
+1	Ve	RV--6----------	AuxP
+2	světě	NNIS6-----A----	Adv
+3	ji	PPFS4--3-------	Obj
+4	už	Db-------------	Adv
+5	dobře	Dg-------1A----	Adv
+6	znají	VB-P---3P-AA---	Pred
+7	.	Z:-------------	AuxK
+
+ln94208-33-p3s2
+1	Je	VB-S---3P-AA---	Pred
+2	určena	VsQW---XX-AP---	Pnom
+3	lidem	NNMP3-----A----	Obj
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	jsou	VB-P---3P-AA---	AuxV
+7	natolik	Db-------------	Adv
+8	zdravotně	Dg-------1A----	Adv
+9	postiženi	VsMP---XX-AP---	Atr
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	bez	RR--2----------	AuxP
+13	pomoci	NNFS2-----A----	Adv
+14	jiné	AAFS2----1A----	Atr
+15	osoby	NNFS2-----A----	Atr
+16	by	Vc-------------	AuxV
+17	nemohli	VpMP---XR-NA---	Obj
+18	zůstat	Vf--------A----	Obj
+19	sami	PLMP1----------	AtvV
+20	ve	RV--6----------	AuxP
+21	svém	P8ZS6----------	Atr
+22	domově	NNIS6-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94208-33-p3s3
+1	Pokud	J,-------------	AuxC
+2	jim	PPXP3--3-------	Obj
+3	však	J^-------------	AuxY
+4	někdo	PZM-1----------	Sb
+5	určitým	AAIS7----1A----	Atr
+6	způsobem	NNIS7-----A----	Adv
+7	pomáhá	VB-S---3P-AA---	Adv
+8	,	Z:-------------	AuxX
+9	dokážou	VB-P---3P-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	o	RR--4----------	AuxP
+12	sebe	P6-X4----------	Obj
+13	postarat	Vf--------A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94208-33-p3s4
+1	Nemusejí	VB-P---3P-NA---	Pred
+2	do	RR--2----------	AuxP
+3	ústavu	NNIS2-----A----	Adv
+4	a	J^-------------	Coord
+5	žijí	VB-P---3P-AA--1	Pred
+6	v	RR--6----------	AuxP
+7	prostředí	NNNS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	na	RR--4----------	AuxP
+10	které	P4NS4----------	Obj
+11	jsou	VB-P---3P-AA---	Atr
+12	zvyklí	AAMP1----1A----	Pnom
+13	.	Z:-------------	AuxK
+
+ln94208-33-p3s5
+1	Někdy	Db-------------	Adv
+2	nastává	VB-S---3P-AA---	Pred
+3	situace	NNFS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	potřebnému	AAMS3----1A----	Atr
+7	člověku	NNMS3-----A----	Obj
+8	jeho	PSXXXZS3-------	Atr
+9	rodina	NNFS1-----A----	Sb
+10	není	VB-S---3P-NA---	Atr
+11	schopna	ACQW------A----	Pnom
+12	nebo	J^-------------	Coord
+13	ochotna	ACQW------A----	Pnom
+14	pomáhat	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94208-33-p3s6
+1	V	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	situaci	NNFS4-----A----	Obj
+5	vyřeší	VB-S---3P-AA---	Pred
+6	právě	Db-------------	AuxZ
+7	osobní	AAFS1----1A----	Atr
+8	asistence	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94208-33-p3s7
+1	Může	VB-S---3P-AA---	Pred
+2	být	Vf--------A----	Obj
+3	krátkodobá	AAFS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	ale	J^-------------	Coord
+6	může	VB-S---3P-AA---	Pred
+7	také	Db-------------	Adv
+8	trvat	Vf--------A----	Obj
+9	24	C=-------------	Adv
+10	hodin	NNFP2-----A----	Atr
+11	denně	Dg-------1A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94208-33-p4s1
+1	Domluvili	VpMP---XR-AA---	Obj
+2	jsme	VB-P---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	s	RR--7----------	AuxP
+5	vládním	AAIS7----1A----	Atr
+6	výborem	NNIS7-----A----	Obj
+7	pro	RR--4----------	AuxP
+8	zdravotně	Dg-------1A----	Adv
+9	postižené	AAMP4----1A----	Atr
+10	občany	NNMP4-----A----	Atr
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	trochu	Db-------------	Adv
+14	urychlíme	VB-P---1P-AA---	Obj
+15	vstup	NNIS4-----A----	Obj
+16	do	RR--2----------	AuxP
+17	života	NNIS2-----A----	Atr
+18	některým	PZXP3----------	Atr
+19	prvkům	NNIP3-----A----	Adv
+20	z	RR--2----------	AuxP
+21	připravovaného	AAIS2----1A----	Atr
+22	systému	NNIS2-----A----	Atr
+23	sociální	AAFS2----1A----	Atr
+24	pomoci	NNFS2-----A----	Atr
+25	a	J^-------------	Coord
+26	státní	AAFS2----1A----	Atr
+27	sociální	AAFS2----1A----	Atr
+28	podpory	NNFS2-----A----	Atr
+29	,	Z:-------------	AuxX
+30	řekl	VpYS---XR-AA---	Pred
+31	LN	NNFPX-----A---8	Obj
+32	náměstek	NNMS1-----A----	Atr
+33	ministra	NNMS2-----A----	Atr
+34	práce	NNFS2-----A----	Atr
+35	a	J^-------------	Coord
+36	sociálních	AAFP2----1A----	Atr
+37	věcí	NNFP2-----A----	Atr
+38	Jaroslav	NNMS1-----A----	Atr
+39	Dostal	NNMS1-----A----	Sb
+40	.	Z:-------------	AuxK
+
+ln94208-33-p4s2
+1	Právě	Db-------------	AuxZ
+2	i	J^-------------	AuxZ
+3	s	RR--7----------	AuxP
+4	osobní	AAFS7----1A----	Atr
+5	asistencí	NNFS7-----A----	Obj
+6	se	P7-X4----------	AuxR
+7	podle	RR--2----------	AuxP
+8	náměstka	NNMS2-----A----	Adv
+9	počítá	VB-S---3P-AA---	Pred
+10	.	Z:-------------	AuxK
+
+ln94208-33-p4s3
+1	Nyní	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	totiž	Db-------------	AuxY
+4	naskýtá	VB-S---3P-AA---	Obj
+5	možnost	NNFS1-----A----	Sb
+6	využít	Vf--------A----	Atr
+7	pro	RR--4----------	AuxP
+8	ni	P5FS4--3-------	Adv
+9	mladíky	NNMP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	nastoupili	VpMP---XR-AA---	Atr
+13	do	RR--2----------	AuxP
+14	civilní	AAFS2----1A----	Atr
+15	služby	NNFS2-----A----	Adv
+16	,	Z:-------------	AuxX
+17	řekl	VpYS---XR-AA---	Pred
+18	Jaroslav	NNMS1-----A----	Atr
+19	Dostal	NNMS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94208-33-p5s1
+1	V	RR--6----------	AuxP
+2	rámci	NNIS6-----A----	AuxP
+3	novelizace	NNFS2-----A----	Adv
+4	zákona	NNIS2-----A----	Atr
+5	o	RR--6----------	AuxP
+6	civilní	AAFS6----1A----	Atr
+7	službě	NNFS6-----A----	Atr
+8	bude	VB-S---3F-AA---	AuxV
+9	umožněno	VsNS---XX-AP---	Pred
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	osobní	AAFS1----1A----	Atr
+13	asistence	NNFS1-----A----	Sb
+14	patřila	VpQW---XR-AA---	Sb
+15	mezi	RR--4----------	AuxP
+16	činnosti	NNFP4-----A----	Adv
+17	,	Z:-------------	AuxX
+18	které	P4FP4----------	Obj
+19	mohou	VB-P---3P-AA--1	Atr
+20	muži	NNMP1-----A----	Sb
+21	v	RR--6----------	AuxP
+22	civilní	AAFS6----1A----	Atr
+23	službě	NNFS6-----A----	AtrAdv
+24	vykonávat	Vf--------A----	Obj
+25	.	Z:-------------	AuxK
+
+ln94208-33-p5s2
+1	Ministerstvo	NNNS1-----A----	Sb
+2	práce	NNFS2-----A----	Atr
+3	a	J^-------------	Coord
+4	sociálních	AAFP2----1A----	Atr
+5	věcí	NNFP2-----A----	Atr
+6	upraví	VB-S---3P-AA---	Pred
+7	své	P8YP4---------1	Atr
+8	vnitřní	AAIP4----1A----	Atr
+9	předpisy	NNIP4-----A----	Obj
+10	a	J^-------------	Coord
+11	osobní	AAFS4----1A----	Atr
+12	asistenci	NNFS4-----A----	Obj
+13	jako	J,-------------	AuxY
+14	určitou	AAFS4----1A----	Atr
+15	formu	NNFS4-----A----	Atv
+16	sociální	AAFS2----1A----	Atr
+17	služby	NNFS2-----A----	Atr
+18	do	RR--2----------	AuxP
+19	nich	P5XP2--3-------	Adv
+20	zanese	VB-S---3P-AA---	Pred
+21	.	Z:-------------	AuxK
+
+ln94208-33-p5s3
+1	Zákon	NNIS1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	civilní	AAFS6----1A----	Atr
+4	službě	NNFS6-----A----	Atr
+5	by	Vc-------------	AuxV
+6	měl	VpYS---XR-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	novelizován	VsYS---XX-AP---	Obj
+9	co	Db-------------	Adv
+10	nejdříve	Dg-------3A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94208-33-p5s4
+1	Odhaduje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	od	RR--2----------	AuxP
+6	začátku	NNIS2-----A----	Adv
+7	příštího	AAIS2----1A----	Atr
+8	roku	NNIS2-----A---1	Atr
+9	by	Vc-------------	AuxV
+10	mohli	VpMP---XR-AA---	Sb
+11	potřební	AAMP1----1A----	Atr
+12	občané	NNMP1-----A----	Sb
+13	začít	Vf--------A----	Obj
+14	této	PDFS2----------	Atr
+15	služby	NNFS2-----A----	Obj
+16	využívat	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+ln94208-33-p5s5
+1	Do	RR--2----------	AuxP
+2	jaké	P4FS2----------	Atr
+3	míry	NNFS2-----A----	Adv
+4	bude	VB-S---3F-AA---	AuxV
+5	občan	NNMS1-----A----	Sb
+6	tuto	PDFS4----------	Atr
+7	službu	NNFS4-----A----	Obj
+8	hradit	Vf--------A----	Obj
+9	,	Z:-------------	AuxX
+10	rozhodne	VB-S---3P-AA---	Pred
+11	sociální	AAIS1----1A----	Atr
+12	referát	NNIS1-----A----	Sb
+13	na	RR--6----------	AuxP
+14	základě	NNIS6-----A----	AuxP
+15	konkrétní	AAFS2----1A----	Atr
+16	situace	NNFS2-----A----	Adv
+17	.	Z:-------------	AuxK
+

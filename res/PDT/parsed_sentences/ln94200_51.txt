@@ -1,0 +1,252 @@
+ln94200-51-p1s1
+1	Zásoby	NNFP1-----A----	Sb
+2	cukru	NNIS2-----A----	Atr
+3	poklesnou	VB-P---3P-AA---	Pred
+
+ln94200-51-p2s1A
+1	Londýn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94200-51-p2s1B
+1	Světová	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	cukru	NNIS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	sezoně	NNFS6-----A----	Atr
+6	1994	C=-------------	Atr
+7	/	Z:-------------	Coord
+8	95	C=-------------	Atr
+9	(	Z:-------------	AuxG
+10	říjen	NNIS1-----A----	Atr
+11	-	Z:-------------	Coord
+12	září	NNNS1-----A----	Atr
+13	)	Z:-------------	AuxG
+14	vzroste	VB-S---3P-AA---	Pred
+15	ze	RV--2----------	AuxP
+16	109.50	C=-------------	Obj
+17	mil	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	na	RR--4----------	AuxP
+20	114.25	C=-------------	Obj
+21	mil	NNIXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	tun	NNFP2-----A----	Atr
+24	a	J^-------------	Coord
+25	bude	VB-S---3F-AA---	Pred
+26	tak	Db-------------	Adv
+27	nejvyšší	AAFS1----3A----	Pnom
+28	od	RR--2----------	AuxP
+29	roku	NNIS2-----A---1	Adv
+30	1991	C=-------------	Atr
+31	/	Z:-------------	Coord
+32	92	C=-------------	Atr
+33	.	Z:-------------	AuxK
+
+ln94200-51-p2s2
+1	Světové	AAFP1----1A----	Atr
+2	zásoby	NNFP1-----A----	Sb
+3	však	J^-------------	Coord
+4	poklesnou	VB-P---3P-AA---	Pred
+5	o	RR--4----------	AuxP
+6	dalších	AAFP2----1A----	Atr
+7	1.96	C=-------------	Adv
+8	milionu	NNIS2-----A----	Atr
+9	po	RR--6----------	AuxP
+10	letošním	AANS6----1A----	Atr
+11	snížení	NNNS6-----A----	ExD
+12	o	RR--4----------	AuxP
+13	4.94	C=-------------	ExD
+14	milionu	NNIS2-----A----	Atr
+15	tun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94200-51-p2s3
+1	Tvrdí	VB-S---3P-AA---	Pred
+2	to	PDNS4----------	Obj
+3	ve	RV--6----------	AuxP
+4	své	P8FS6---------1	Atr
+5	poslední	AAFS6----1A----	Atr
+6	prognóze	NNFS6-----A----	Adv
+7	makléřská	AAFS1----1A----	Atr
+8	firma	NNFS1-----A----	Sb
+9	C	NNMXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	Czarnikow	NNMS1-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94200-51-p3s1
+1	Světová	AAFS1----1A----	Atr
+2	spotřeba	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	v	RR--6----------	AuxP
+5	kalendářním	AAIS6----1A----	Atr
+6	roce	NNIS6-----A---1	Adv
+7	1995	C=-------------	Atr
+8	zvýší	VB-S---3P-AA---	Pred
+9	ze	RV--2----------	AuxP
+10	113.83	C=-------------	Obj
+11	mil	NNIXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	na	RR--4----------	AuxP
+14	115.57	C=-------------	Obj
+15	mil	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	tun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94200-51-p3s2
+1	Další	AANS1----1A----	Atr
+2	snížení	NNNS1-----A----	Sb
+3	zásob	NNFP2-----A----	Atr
+4	podle	RR--2----------	AuxP
+5	Czarnikowa	NNMS2-----A----	Adv
+6	znamená	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	případný	AAIS1----1A----	Atr
+10	pokles	NNIS1-----A----	Sb
+11	světových	AAFP2----1A----	Atr
+12	cen	NNFP2-----A----	Atr
+13	cukru	NNIS2-----A----	Atr
+14	nebude	VB-S---3F-NA---	Obj
+15	nadlouho	Db-------------	Adv
+16	udržitelný	AAIS1----1A----	Pnom
+17	.	Z:-------------	AuxK
+
+ln94200-51-p3s3
+1	Dvě	ClHP1----------	Atr
+2	deficitní	AAFP1----1A----	Atr
+3	sezony	NNFP1-----A----	Sb
+4	již	Db-------------	Adv
+5	absorbovaly	VpTP---XR-AA---	Pred
+6	většinu	NNFS4-----A----	Obj
+7	minulých	AAIP2----1A----	Atr
+8	přebytků	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	souhrn	NNIS1-----A----	Sb
+11	zásob	NNFP2-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	snížil	VpYS---XR-AA---	Pred
+14	natolik	Db-------------	Adv
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	bude	VB-S---3F-AA---	Adv
+18	těžké	AANS1----1A----	Pnom
+19	vyrovnat	Vf--------A----	Sb
+20	neočekávaný	AAIS4----1N----	Atr
+21	pokles	NNIS4-----A----	Obj
+22	nabídky	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94200-51-p3s4
+1	Na	RR--6----------	AuxP
+2	celkové	AAFS6----1A----	Atr
+3	produkci	NNFS6-----A----	Obj
+4	sezony	NNFS2-----A----	Atr
+5	1994	C=-------------	Atr
+6	/	Z:-------------	Coord
+7	95	C=-------------	Atr
+8	se	P7-X4----------	AuxT
+9	bude	VB-S---3F-AA---	AuxV
+10	podílet	Vf--------A----	Pred
+11	cukr	NNIS1-----A----	Sb
+12	vyrobený	AAIS1----1A----	Atr
+13	z	RR--2----------	AuxP
+14	řepy	NNFS2-----A----	Obj
+15	objemem	NNIS7-----A----	Adv
+16	37.26	C=-------------	Atr
+17	mil	NNIXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	tun	NNFP2-----A----	Atr
+20	ve	RV--6----------	AuxP
+21	srovnání	NNNS6-----A----	AuxP
+22	se	RV--7----------	AuxP
+23	39.37	C=-------------	Adv
+24	mil	NNIXX-----A---8	Atr
+25	.	Z:-------------	AuxG
+26	tun	NNFP2-----A----	Atr
+27	v	RR--6----------	AuxP
+28	roce	NNIS6-----A---1	Atr
+29	1993	C=-------------	Atr
+30	/	Z:-------------	Coord
+31	94	C=-------------	Atr
+32	.	Z:-------------	AuxK
+
+ln94200-51-p3s5
+1	Z	RR--2----------	AuxP
+2	cukrové	AAFS2----1A----	Atr
+3	třtiny	NNFS2-----A----	Obj
+4	se	P7-X4----------	AuxR
+5	vyrobí	VB-S---3P-AA---	Pred
+6	76.99	C=-------------	Sb
+7	mil	NNIXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	tun	NNFP2-----A----	Atr
+10	surového	AAIS2----1A----	Atr
+11	cukru	NNIS2-----A----	Atr
+12	po	RR--6----------	AuxP
+13	letošních	AAFP2----1A----	Atr
+14	70.13	C=-------------	Adv
+15	mil	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	tun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94200-51-p4s1
+1	Světová	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	mohla	VpQW---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	příští	AAFS6----1A----	Atr
+7	sezoně	NNFS6-----A----	Adv
+8	podle	RR--2----------	AuxP
+9	Czarnikowa	NNMS2-----A----	Adv
+10	dosáhnout	Vf--------A----	Obj
+11	předchozích	AAFP2----1A----	Atr
+12	rekordních	AAFP2----1A----	Atr
+13	úrovní	NNFP2-----A----	Obj
+14	,	Z:-------------	Coord
+15	ovšem	J^-------------	ExD
+16	s	RR--7----------	AuxP
+17	výjimkou	NNFS7-----A----	AuxP
+18	Evropy	NNFS2-----A----	ExD
+19	,	Z:-------------	AuxX
+20	kde	Db-------------	Adv
+21	se	P7-X4----------	AuxR
+22	čeká	VB-S---3P-AA---	Atr
+23	pokles	NNIS1-----A----	Sb
+24	produkce	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94200-51-p4s2
+1	Na	RR--6----------	AuxP
+2	straně	NNFS6-----A----	Adv
+3	poptávky	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	začala	VpQW---XR-AA---	Pred
+6	stabilizovat	Vf--------A----	Obj
+7	předtím	Db-------------	Adv
+8	klesající	AGFS1-----A----	Atr
+9	spotřeba	NNFS1-----A----	Sb
+10	ve	RV--6----------	AuxP
+11	východní	AAFS6----1A----	Atr
+12	Evropě	NNFS6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94200-51-p4s3
+1	Situace	NNFS1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	Dálném	AAIS6----1A----	Atr
+4	východě	NNIS6-----A----	Atr
+5	a	J^-------------	Coord
+6	v	RR--6----------	AuxP
+7	Indii	NNFS6-----A----	Atr
+8	bude	VB-S---3F-AA---	AuxV
+9	opět	Db-------------	Adv
+10	charakterizována	VsQW---XX-AP---	Pred
+11	výrazným	AAIS7----1A----	Atr
+12	růstem	NNIS7-----A----	Obj
+13	produkce	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+

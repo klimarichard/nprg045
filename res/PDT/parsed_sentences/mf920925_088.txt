@@ -1,0 +1,186 @@
+mf920925-088-p1s1
+1	Olej	NNIS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	vodě	NNFS6-----A----	Atr
+
+mf920925-088-p2s1
+1	České	AAFP1----1A----	Atr
+2	Budějovice	NNFP1-----A----	ExD
+3	(	Z:-------------	ExD
+4	ria	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+mf920925-088-p2s2
+1	Těsně	Dg-------1A----	Adv
+2	před	RR--7----------	AuxP
+3	desátou	CrFS7----------	Atr
+4	hodinou	NNFS7-----A----	Adv
+5	včera	Db-------------	Adv
+6	dopoledne	Db-------------	Adv
+7	havarovala	VpQW---XR-AA---	Pred
+8	na	RR--6----------	AuxP
+9	mostě	NNIS6-----A----	Adv
+10	v	RR--6----------	AuxP
+11	obci	NNFS6-----A----	AtrAdv
+12	Roudné	NNFS6-----A----	Atr
+13	u	RR--2----------	AuxP
+14	Českých	AAFP2----1A----	Atr
+15	Budějovic	NNFP2-----A----	Atr
+16	cisterna	NNFS1-----A----	Sb
+17	s	RR--7----------	AuxP
+18	lehkým	AAIS7----1A----	Atr
+19	topným	AAIS7----1A----	Atr
+20	olejem	NNIS7-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920925-088-p2s3
+1	Vzápětí	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	mastná	AAFS1----1A----	Atr
+4	skvrna	NNFS1-----A----	Sb
+5	na	RR--6----------	AuxP
+6	hladině	NNFS6-----A----	Adv
+7	Malše	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	blíží	VB-S---3P-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	k	RR--3----------	AuxP
+12	městu	NNNS3-----A----	Adv
+13	.	Z:-------------	AuxK
+
+mf920925-088-p2s4
+1	Za	RR--4----------	AuxP
+2	45	C=-------------	Adv
+3	minut	NNFP2-----A----	Atr
+4	může	VB-S---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	už	Db-------------	AuxZ
+7	u	RR--2----------	AuxP
+8	zdejšího	AAIS2----1A----	Atr
+9	Velkého	AAIS2----1A----	Atr
+10	jezu	NNIS2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf920925-088-p2s5
+1	Českobudějovický	AAIS1----1A----	Atr
+2	požární	AAIS1----1A----	Atr
+3	útvar	NNIS1-----A----	Sb
+4	vyhlašuje	VB-S---3P-AA---	Pred
+5	poplach	NNIS4-----A----	Obj
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+
+mf920925-088-p2s6
+1	Tentokrát	Db-------------	Adv
+2	jen	TT-------------	AuxZ
+3	simulovanou	AAFS4----1A----	Atr
+4	havárii	NNFS4-----A----	Obj
+5	připravil	VpYS---XR-AA---	Pred
+6	závod	NNIS1-----A----	Sb
+7	Horní	AAFS1----1A----	Atr
+8	Vltava	NNFS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Povodí	NNNS1-----A----	Atr
+11	Vltavy	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920925-088-p2s7
+1	Jeho	PSXXXZS3-------	Atr
+2	záchranářům	NNMP3-----A----	Obj
+3	a	J^-------------	Coord
+4	požárníkům	NNMP3-----A----	Obj
+5	stačilo	VpNS---XR-AA---	Pred
+6	půl	NNFS1-----A----	Sb
+7	hodiny	NNFS2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	rozprostření	NNNS4-----A----	Adv
+10	tří	ClXP2----------	Atr
+11	druhů	NNIP2-----A----	Atr
+12	norných	AAFP2----1A----	Atr
+13	stěn	NNFP2-----A----	Atr
+14	ve	RV--6----------	AuxP
+15	zdrži	NNFS6-----A----	Atr
+16	jezu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf920925-088-p2s8
+1	Skutečný	AAIS4----1A----	Atr
+2	olej	NNIS4-----A----	Obj
+3	pak	Db-------------	Adv
+4	sami	PLMP1----------	AtvV
+5	nalili	VpMP---XR-AA---	Pred
+6	do	RR--2----------	AuxP
+7	mlýnského	AAIS2----1A----	Atr
+8	náhonu	NNIS2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	Prospecta	NNFS1-----A----	Sb
+12	Liberec	NNIS1-----A----	Atr
+13	předvedla	VpQW---XR-AA---	Atr
+14	novinku	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	kterou	P4FS7----------	Pnom
+17	je	VB-S---3P-AA---	Atr
+18	zařízení	NNNS1-----A----	Sb
+19	BIMBO	NNNS1-----A----	Atr
+20	pro	RR--4----------	AuxP
+21	sběr	NNIS4-----A----	Atr
+22	ropných	AAFP2----1A----	Atr
+23	látek	NNFP2-----A----	Atr
+24	z	RR--2----------	AuxP
+25	vodní	AAFS2----1A----	Atr
+26	hladiny	NNFS2-----A----	Atr
+27	nahrazující	AGNS1-----A----	Atr
+28	Vapex	NNIS4-----A----	Obj
+29	.	Z:-------------	AuxK
+
+mf920925-088-p2s9
+1	Na	RR--6----------	AuxP
+2	místě	NNNS6-----A----	Adv
+3	se	P7-X4----------	Obj
+4	představil	VpYS---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	Technolen	NNIS1-----A----	Sb
+7	Hlinsko	NNNS1-----A----	Atr
+8	s	RR--7----------	AuxP
+9	novým	AAIS7----1A----	Atr
+10	typem	NNIS7-----A----	Adv
+11	norné	AAFS2----1A----	Atr
+12	stěny	NNFS2-----A----	Atr
+13	z	RR--2----------	AuxP
+14	italského	AAIS2----1A----	Atr
+15	materiálu	NNIS2-----A----	Atr
+16	a	J^-------------	Coord
+17	a	AAXXX----1A---8	Atr
+18	.	Z:-------------	AuxG
+19	s	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	Mykana	NNFS1-----A----	Sb
+22	Chrastava	NNFS1-----A----	Atr
+23	,	Z:-------------	Apos
+24	výrobce	NNMS1-----A----	Sb
+25	absorpčních	AAFP2----1A----	Atr
+26	utěrek	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf920925-088-p2s11
+1	V	RR--6----------	AuxP
+2	uplynulém	AAIS6----1A----	Atr
+3	roce	NNIS6-----A---1	Adv
+4	bylo	VpNS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	Povodí	NNNS6-----A----	Adv
+7	Horní	AAFS2----1A----	Atr
+8	Vltavy	NNFS2-----A----	Atr
+9	osmnáct	Cn-S1----------	Sb
+10	vážných	AAFP2----1A----	Atr
+11	ropných	AAFP2----1A----	Atr
+12	havárií	NNFP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	letos	Db-------------	ExD
+15	už	Db-------------	AuxZ
+16	jedenáct	Cn-S1----------	ExD
+17	.	Z:-------------	AuxK
+

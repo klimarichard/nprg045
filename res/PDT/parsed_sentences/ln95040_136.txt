@@ -1,0 +1,167 @@
+ln95040-136-p1s1
+1	Nájemní	AAFS1----1A----	Atr
+2	vražda	NNFS1-----A----	ExD
+3	opět	Db-------------	ExD
+4	před	RR--7----------	AuxP
+5	soudem	NNIS7-----A----	ExD
+
+ln95040-136-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95040-136-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-136-p3s1B
+1	Výslechem	NNIS7-----A----	Adv
+2	tří	ClXP2----------	Atr
+3	svědků	NNMP2-----A----	Atr
+4	a	J^-------------	Coord
+5	čtením	NNNS7-----A----	Adv
+6	listinných	AAIP2----1A----	Atr
+7	důkazů	NNIP2-----A----	Atr
+8	pokračovalo	VpNS---XR-AA---	Pred
+9	včera	Db-------------	Adv
+10	u	RR--2----------	AuxP
+11	Městského	AAIS2----1A----	Atr
+12	soudu	NNIS2-----A----	Adv
+13	v	RR--6----------	AuxP
+14	Praze	NNFS6-----A----	AtrAdv
+15	jednání	NNNS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	v	RR--6----------	AuxP
+18	němž	P9ZS6----------	Adv
+19	soud	NNIS1-----A----	Sb
+20	projednává	VB-S---3P-AA---	Atr
+21	zřejmě	Dg-------1A----	AuxY
+22	první	CrFS4----------	Atr
+23	nájemní	AAFS4----1A----	Atr
+24	vraždu	NNFS4-----A----	Obj
+25	u	RR--2----------	AuxP
+26	nás	PP-P2--1-------	Atr
+27	.	Z:-------------	AuxK
+
+ln95040-136-p3s2
+1	Z	RR--2----------	AuxP
+2	vraždy	NNFS2-----A----	Obj
+3	podnikatelky	NNFS2-----A----	Atr
+4	Ireny	NNFS2-----A----	Atr
+5	Vopálenské	NNFS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	obviněn	VsYS---XX-AP---	Pnom
+8	dvaadvacetiletý	AAMS1----1A----	Atr
+9	Lukáš	NNMS1-----A----	Atr
+10	Kužela	NNMS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	kterého	P4MS4----------	Obj
+13	si	P7-X3----------	Adv
+14	měl	VpYS---XR-AA---	Atr
+15	za	RR--4----------	AuxP
+16	400000	C=-------------	Adv
+17	korun	NNFP2-----A----	Atr
+18	najmout	Vf--------A----	Obj
+19	podnikatel	NNMS1-----A----	Atr
+20	Rudolf	NNMS1-----A----	Atr
+21	Korbel	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln95040-136-p3s3
+1	Podle	RR--2----------	AuxP
+2	obžaloby	NNFS2-----A----	Adv
+3	Kužela	NNMS1-----A----	Sb
+4	Vopálenskou	NNFS4-----A----	Obj
+5	zastřelil	VpYS---XR-AA---	Pred
+6	minulý	AAIS4----1A----	Atr
+7	rok	NNIS4-----A----	Adv
+8	před	RR--7----------	AuxP
+9	jejím	PSZS7FS3-------	Atr
+10	domem	NNIS7-----A----	Adv
+11	v	RR--6----------	AuxP
+12	Karlíně	NNIS6-----A----	Atr
+13	a	J^-------------	Coord
+14	jejího	PSMS4FS3-------	Atr
+15	manžela	NNMS4-----A----	Obj
+16	těžce	Dg-------1A----	Adv
+17	poranil	VpYS---XR-AA---	Pred
+18	.	Z:-------------	AuxK
+
+ln95040-136-p3s4
+1	Korbel	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	k	RR--3----------	AuxP
+4	zadání	NNNS3-----A----	Obj
+5	vraždy	NNFS2-----A----	Atr
+6	přiznal	VpYS---XR-AA---	Pred
+7	.	Z:-------------	AuxK
+
+ln95040-136-p4s1
+1	Spolu	Db-------------	AuxP
+2	s	RR--7----------	AuxP
+3	Korbelem	NNMS7-----A----	Adv
+4	a	J^-------------	Coord
+5	Kuželem	NNIS7-----A----	Adv
+6	jsou	VB-P---3P-AA---	Pred
+7	obžalováni	VsMP---XX-AP---	Pnom
+8	ještě	Db-------------	AuxZ
+9	tři	ClXP1----------	Atr
+10	další	AAMP1----1A----	Atr
+11	muži	NNMP1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln95040-136-p4s2
+1	Dva	ClYP4----------	Obj
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	viní	VB-S---3P-AA---	Pred
+5	obžaloba	NNFS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	toho	PDZS2----------	Obj
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	vraždu	NNFS4-----A----	Obj
+11	zprostředkovali	VpMP---XR-AA---	Atr
+12	a	J^-------------	Coord
+13	sehnali	VpMP---XR-AA---	Atr
+14	vraha	NNMS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95040-136-p4s3
+1	Další	AAMS1----1A----	Atr
+2	obžalovaný	AAMS1----1A----	Sb
+3	měl	VpYS---XR-AA---	Pred
+4	vyhrožovat	Vf--------A----	Obj
+5	na	RR--6----------	AuxP
+6	policii	NNFS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	pokud	J,-------------	AuxC
+10	policisté	NNMP1-----A----	Sb
+11	nepropustí	VB-S---3P-NA---	Adv
+12	na	RR--4----------	AuxP
+13	svobodu	NNFS4-----A----	Adv
+14	ostatní	AAMP4----1A----	Atr
+15	obviněné	AAMP4----1A----	Obj
+16	,	Z:-------------	AuxX
+17	na	RR--6----------	AuxP
+18	Václavském	AANS6----1A----	Atr
+19	náměstí	NNNS6-----A----	Adv
+20	vybuchne	VB-S---3P-AA---	Obj
+21	bomba	NNFS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln95040-136-p4s4
+1	Hlavní	AANS1----1A----	Atr
+2	líčení	NNNS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	pokračovat	Vf--------A----	Pred
+5	u	RR--2----------	AuxP
+6	Městského	AAIS2----1A----	Atr
+7	soudu	NNIS2-----A----	Adv
+8	ve	RV--4----------	AuxP
+9	čtvrtek	NNIS4-----A----	Adv
+10	.	Z:-------------	AuxK
+

@@ -1,0 +1,680 @@
+ln94202-85-p1s1
+1	Domácí	AAIP1----1A----	Atr
+2	vodní	AAIP1----1A----	Atr
+3	filtry	NNIP1-----A----	Sb
+4	na	RR--4----------	AuxP
+5	úpravu	NNFS4-----A----	Atr
+6	pitné	AAFS2----1A----	Atr
+7	vody	NNFS2-----A----	Atr
+8	mohou	VB-P---3P-AA--1	Pred
+9	někdy	Db-------------	Adv
+10	spíše	Dg-------2A---1	Adv
+11	uškodit	Vf--------A----	Obj
+12	než	J,-------------	AuxC
+13	prospět	Vf--------A----	Adv
+
+ln94202-85-p2s1
+1	Filtry	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	doúpravu	NNFS4-----A----	Atr
+4	pitné	AAFS2----1A----	Atr
+5	vody	NNFS2-----A----	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	dnes	Db-------------	Adv
+8	na	RR--6----------	AuxP
+9	našem	PSZS6-P1-------	Atr
+10	trhu	NNIS6-----A----	Adv
+11	už	Db-------------	AuxZ
+12	běžným	AANS7----1A----	Atr
+13	zbožím	NNNS7-----A----	Pnom
+14	.	Z:-------------	AuxK
+
+ln94202-85-p2s2
+1	Inzerují	VB-P---3P-AA---	Pred
+2	je	PPXP4--3-------	Obj
+3	jak	Db-------------	AuxY
+4	renomované	AAFP1----1A----	Atr
+5	,	Z:-------------	AuxX
+6	tak	Db-------------	Coord
+7	zcela	Db-------------	Adv
+8	neznámé	AAFP1----1N----	Atr
+9	firmy	NNFP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94202-85-p2s3
+1	V	RR--6----------	AuxP
+2	reklamách	NNFP6-----A----	Adv
+3	slibují	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	voda	NNFS1-----A----	Sb
+7	bude	VB-S---3F-AA---	Obj
+8	po	RR--6----------	AuxP
+9	úpravě	NNFS6-----A----	Adv
+10	kvalitní	AAFS1----1A----	Pnom
+11	,	Z:-------------	AuxX
+12	a	J^-------------	Coord
+13	proto	J^-------------	AuxY
+14	může	VB-S---3P-AA---	Pred
+15	být	Vf--------A----	AuxV
+16	použita	VsQW---XX-AP---	Obj
+17	i	J^-------------	AuxZ
+18	k	RR--3----------	AuxP
+19	přípravě	NNFS3-----A----	Adv
+20	stravy	NNFS2-----A----	Atr
+21	pro	RR--4----------	AuxP
+22	kojence	NNMP4-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94202-85-p3s1
+1	Stává	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	AuxY
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	zákazník	NNMS1-----A----	Sb
+7	vyhodí	VB-S---3P-AA---	Sb
+8	peníze	NNIP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	protože	J,-------------	AuxC
+11	zařízení	NNNS1-----A----	Sb
+12	na	RR--4----------	AuxP
+13	doúpravu	NNFS4-----A----	Atr
+14	pitné	AAFS2----1A----	Atr
+15	vody	NNFS2-----A----	Atr
+16	je	VB-S---3P-AA---	Adv
+17	k	RR--3----------	AuxP
+18	ničemu	PW--3----------	Adv
+19	.	Z:-------------	AuxK
+
+ln94202-85-p3s2
+1	Kapalina	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	která	P4FS1----------	Sb
+4	z	RR--2----------	AuxP
+5	něj	P5ZS2--3-------	Adv
+6	vystoupí	VB-S---3P-AA---	Atr
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Pred
+9	stejná	AAFS1----1A----	Pnom
+10	jako	J,-------------	AuxC
+11	na	RR--6----------	AuxP
+12	začátku	NNIS6-----A----	ExD
+13	procesu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94202-85-p3s3
+1	To	PDNS1----------	ExD
+2	v	RR--6----------	AuxP
+3	lepším	AAIS6----2A----	Atr
+4	případě	NNIS6-----A----	ExD
+5	.	Z:-------------	AuxK
+
+ln94202-85-p3s4
+1	V	RR--6----------	AuxP
+2	horším	AAIS6----2A----	ExD
+3	je	VB-S---3P-AA---	AuxV
+4	ještě	Db-------------	Adv
+5	obohacena	VsQW---XX-AP---	Pred
+6	nevhodnými	AAFP7----1N----	Atr
+7	látkami	NNFP7-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94202-85-p3s5
+1	Tím	PDZS7----------	Adv
+2	ovšem	J^-------------	AuxY
+3	není	VB-S---3P-NA---	Pred
+4	řečeno	VsNS---XX-AP---	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	se	P7-X4----------	AuxR
+8	vodní	AAIP1----1A----	Atr
+9	filtry	NNIP1-----A----	Sb
+10	nemají	VB-P---3P-NA---	Sb
+11	používat	Vf--------A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94202-85-p3s6
+1	Při	RR--6----------	AuxP
+2	správné	AAFS6----1A----	Atr
+3	volbě	NNFS6-----A----	Adv
+4	přístroje	NNIS2-----A----	Atr
+5	a	J^-------------	Coord
+6	dodržení	NNNS6-----A----	Adv
+7	návodu	NNIS2-----A----	Atr
+8	mohou	VB-P---3P-AA--1	Pred
+9	přispět	Vf--------A----	Obj
+10	ke	RV--3----------	AuxP
+11	zlepšení	NNNS3-----A----	Obj
+12	kvality	NNFS2-----A----	Atr
+13	pitné	AAFS2----1A----	Atr
+14	vody	NNFS2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	domácnosti	NNFS6-----A----	AtrAtr
+17	.	Z:-------------	AuxK
+
+ln94202-85-p4s1
+1	Kdo	PKM-1----------	Sb
+2	by	Vc-------------	AuxV
+3	si	P7-X3----------	AuxT
+4	jej	PPZS4--3------2	Obj
+5	chtěl	VpYS---XR-AA---	Sb
+6	pořídit	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	měl	VpYS---XR-AA---	Pred
+9	by	Vc-------------	AuxV
+10	si	P7-X3----------	AuxT
+11	zapamatovat	Vf--------A----	Obj
+12	několik	Ca--4----------	Obj
+13	důležitých	AAFP2----1A----	Atr
+14	věcí	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94202-85-p4s2
+1	Na	RR--4----------	AuxP
+2	dodatečnou	AAFS4----1A----	Atr
+3	úpravu	NNFS4-----A----	Adv
+4	pitné	AAFS2----1A----	Atr
+5	vody	NNFS2-----A----	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	nevhodné	AAIP1----1N----	Atr
+8	přístroje	NNIP1-----A----	Sb
+9	(	Z:-------------	AuxG
+10	typu	NNIS2-----A----	Atr
+11	destilace	NNFS2-----A----	Atr
+12	a	J^-------------	Coord
+13	reverzní	AAFS2----1A----	Atr
+14	osmózy	NNFS2-----A----	Atr
+15	)	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	které	P4IP1----------	Sb
+18	výrazně	Dg-------1A----	Adv
+19	snižují	VB-P---3P-AA---	Atr
+20	obsah	NNIS4-----A----	Obj
+21	minerálních	AAFP2----1A----	Atr
+22	látek	NNFP2-----A----	Atr
+23	ve	RV--6----------	AuxP
+24	vodě	NNFS6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94202-85-p4s3
+1	Ta	PDFS1----------	ExD
+2	jich	PPXP2--3-------	Atr
+3	obsahuje	VB-S---3P-AA---	Pred
+4	mnoho	Ca--4----------	Obj
+5	,	Z:-------------	AuxX
+6	například	Db-------------	Apos
+7	vápník	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	hořčík	NNIS4-----A----	Obj
+10	a	J^-------------	Coord
+11	řadu	NNFS4-----A----	Obj
+12	dalších	AAIP2----1A----	Atr
+13	biologicky	Dg-------1A----	Adv
+14	nezbytných	AAIP2----1N----	Atr
+15	prvků	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94202-85-p4s4
+1	Jestliže	J,-------------	AuxC
+2	se	P7-X4----------	AuxR
+3	tyto	PDFP1----------	Atr
+4	látky	NNFP1-----A----	Sb
+5	dodatečnou	AAFS7----1A----	Atr
+6	úpravou	NNFS7-----A----	Adv
+7	z	RR--2----------	AuxP
+8	vody	NNFS2-----A----	Adv
+9	odstraní	VB-P---3P-AA---	Adv
+10	,	Z:-------------	AuxX
+11	není	VB-S---3P-NA---	Pred
+12	možné	AANS1----1A----	Pnom
+13	takovou	PDFS4----------	Atr
+14	úpravu	NNFS4-----A----	Obj
+15	považovat	Vf--------A----	Sb
+16	za	RR--4----------	AuxP
+17	vhodnou	AAFS4----1A----	Obj
+18	.	Z:-------------	AuxK
+
+ln94202-85-p4s5
+1	Měkká	AAFS1----1A----	Atr
+2	voda	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	která	P4FS1----------	Sb
+5	má	VB-S---3P-AA---	Atr
+6	nedostatek	NNIS4-----A----	Obj
+7	minerálních	AAFP2----1A----	Atr
+8	látek	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	může	VB-S---3P-AA---	Pred
+11	negativně	Dg-------1A----	Adv
+12	ovlivňovat	Vf--------A----	Obj
+13	cévní	AAIS4----1A----	Atr
+14	a	J^-------------	Coord
+15	imunitní	AAIS4----1A----	Atr
+16	systém	NNIS4-----A----	Obj
+17	člověka	NNMS2-----A----	Atr
+18	a	J^-------------	Coord
+19	podílet	Vf--------A----	Obj
+20	se	P7-X4----------	AuxT
+21	tak	Db-------------	Adv
+22	například	Db-------------	AuxY
+23	na	RR--6----------	AuxP
+24	vzniku	NNIS6-----A----	Obj
+25	kardiovaskulárních	AANP2----1A----	Atr
+26	onemocnění	NNNP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94202-85-p5s1
+1	Každý	AAMS1----1A----	Atr
+2	zájemce	NNMS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	než	J,-------------	AuxC
+5	koupí	VB-S---3P-AA---	Adv
+6	filtrační	AANS4----1A----	Atr
+7	zařízení	NNNS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	by	Vc-------------	AuxV
+10	si	P7-X3----------	Obj
+11	měl	VpYS---XR-AA---	Pred
+12	dát	Vf--------A----	Obj
+13	zjistit	Vf--------A----	Obj
+14	jakost	NNFS4-----A----	Obj
+15	vody	NNFS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	kterou	P4FS4----------	Obj
+18	chce	VB-S---3P-AA---	Atr
+19	upravovat	Vf--------A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94202-85-p5s2
+1	A	J^-------------	Coord
+2	rovněž	Db-------------	Adv
+3	by	Vc-------------	AuxV
+4	neměla	VpQW---XR-NA---	Pred
+5	chybět	Vf--------A----	Obj
+6	následná	AAFS1----1A----	Atr
+7	laboratorní	AAFS1----1A----	Atr
+8	kontrola	NNFS1-----A----	Sb
+9	toho	PDZS2----------	Atr
+10	,	Z:-------------	AuxX
+11	co	PQ--1----------	Sb
+12	z	RR--2----------	AuxP
+13	filtru	NNIS2-----A----	Adv
+14	teče	VB-S---3P-AA---	Atr
+15	.	Z:-------------	AuxK
+
+ln94202-85-p5s3
+1	Při	RR--6----------	AuxP
+2	odstavení	NNNS6-----A----	Adv
+3	aparatury	NNFS2-----A----	Atr
+4	z	RR--2----------	AuxP
+5	provozu	NNIS2-----A----	Atr
+6	může	VB-S---3P-AA---	Pred
+7	dojít	Vf--------A----	Obj
+8	k	RR--3----------	AuxP
+9	pomnožení	NNNS3-----A----	Obj
+10	bakterií	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94202-85-p5s4
+1	Pokud	J,-------------	AuxC
+2	byl	VpYS---XR-AA---	Adv
+3	filtr	NNIS1-----A----	Sb
+4	delší	AAFS4----2A----	Atr
+5	dobu	NNFS4-----A----	Adv
+6	mimo	RR--4----------	AuxP
+7	provoz	NNIS4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	doporučuje	VB-S---3P-AA---	Pred
+10	se	P7-X4----------	AuxR
+11	až	TT-------------	AuxZ
+12	dvacetiminutový	AAIS1----1A----	Atr
+13	proplach	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94202-85-p6s1
+1	Podle	RR--2----------	AuxP
+2	odborníků	NNMP2-----A----	Adv
+3	pitná	AAFS1----1A----	Atr
+4	voda	NNFS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	ČR	NNFXX-----A---8	Atr
+7	je	VB-S---3P-AA---	AuxV
+8	znečištěna	VsQW---XX-AP---	Pred
+9	převážně	Dg-------1A----	Adv
+10	organickými	AAFP7----1A----	Atr
+11	látkami	NNFP7-----A----	Obj
+12	a	J^-------------	Coord
+13	dusičnany	NNIP7-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94202-85-p6s2
+1	K	RR--3----------	AuxP
+2	odstranění	NNNS3-----A----	Obj
+3	organických	AAFP2----1A----	Atr
+4	látek	NNFP2-----A----	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	vhodné	AAIP1----1A----	Pnom
+7	filtry	NNIP1-----A----	Sb
+8	s	RR--7----------	AuxP
+9	aktivním	AANS7----1A----	Atr
+10	uhlím	NNNS7-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94202-85-p6s3
+1	Výskyt	NNIS1-----A----	Sb
+2	těžkých	AAIP2----1A----	Atr
+3	kovů	NNIP2-----A----	Atr
+4	ve	RV--6----------	AuxP
+5	vodách	NNFP6-----A----	Atr
+6	v	RR--6----------	AuxP
+7	ČR	NNFXX-----A---8	AtrAtr
+8	je	VB-S---3P-AA---	Pred
+9	řídký	AAIS1----1A----	Pnom
+10	a	J^-------------	Coord
+11	jen	TT-------------	AuxZ
+12	místní	AAIS1----1A----	Pnom
+13	.	Z:-------------	AuxK
+
+ln94202-85-p6s4
+1	Tento	PDYS1----------	Atr
+2	fakt	NNIS1-----A----	Sb
+3	vysvětluje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	proč	Db-------------	Adv
+6	naši	PSMP1-P1-------	Atr
+7	vodárenští	AAMP1----1A----	Atr
+8	technologové	NNMP1-----A----	Sb
+9	mají	VB-P---3P-AA---	Obj
+10	až	TT-------------	AuxZ
+11	zamítavé	AANS4----1A----	Atr
+12	stanovisko	NNNS4-----A----	Obj
+13	k	RR--3----------	AuxP
+14	importovaným	AANP3----1A----	Atr
+15	zařízením	NNNP3-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94202-85-p6s5
+1	V	RR--6----------	AuxP
+2	USA	NNIPX-----A----	Adv
+3	mají	VB-P---3P-AA---	Pred
+4	totiž	Db-------------	AuxY
+5	jiné	AANS4----1A----	Atr
+6	pořadí	NNNS4-----A----	Obj
+7	látek	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP4----------	Obj
+10	musejí	VB-P---3P-AA---	Atr
+11	tyto	PDIP1----------	Atr
+12	přístroje	NNIP1-----A----	Sb
+13	z	RR--2----------	AuxP
+14	vody	NNFS2-----A----	Adv
+15	odstraňovat	Vf--------A----	Obj
+16	-	Z:-------------	AuxG
+17	za	RR--4----------	AuxP
+18	prvé	AANS4----1A----	ExD
+19	olovo	NNNS4-----A----	ExD
+20	,	Z:-------------	AuxX
+21	dále	Db------------1	ExD
+22	radioaktivní	AAFP4----1A----	Atr
+23	látky	NNFP4-----A----	ExD
+24	,	Z:-------------	AuxX
+25	pak	Db-------------	ExD
+26	mikrobiologické	AANS4----1A----	Atr
+27	znečištění	NNNS4-----A----	ExD
+28	,	Z:-------------	Coord
+29	atd	Db------------8	ExD
+30	.	Z:-------------	AuxG
+
+ln94202-85-p7s1
+1	V	RR--6----------	AuxP
+2	USA	NNIPX-----A----	Adv
+3	existuje	VB-S---3P-AA---	Pred
+4	mezi	RR--7----------	AuxP
+5	devíti	Cn-P7----------	Atr
+6	až	J^-------------	Coord
+7	třinácti	Cn-P7----------	Atr
+8	miliony	NNIP7-----A----	Sb
+9	soukromých	AAFP2----1A----	Atr
+10	studní	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	o	RR--6----------	AuxP
+13	nichž	P9XP6----------	Adv
+14	nikdo	PWM-1----------	Sb
+15	neví	VB-S---3P-NA---	Atr
+16	,	Z:-------------	AuxX
+17	jakou	P4FS4----------	Atr
+18	vodu	NNFS4-----A----	Obj
+19	obsahují	VB-P---3P-AA---	Obj
+20	.	Z:-------------	AuxK
+
+ln94202-85-p7s2
+1	Ještě	Db-------------	AuxZ
+2	rok	NNIS4-----A----	Adv
+3	po	RR--6----------	AuxP
+4	tom	PDZS6----------	Atr
+5	,	Z:-------------	AuxX
+6	kdy	Db-------------	Adv
+7	ve	RV--6----------	AuxP
+8	Spojených	AAIP6----1A----	Atr
+9	státech	NNIP6-----A----	Adv
+10	vyšel	VpYS---XR-AA---	Atr
+11	doplněk	NNIS1-----A----	Sb
+12	k	RR--3----------	AuxP
+13	zákonu	NNIS3-----A----	Atr
+14	o	RR--6----------	AuxP
+15	kvalitě	NNFS6-----A----	Atr
+16	pitné	AAFS2----1A----	Atr
+17	vody	NNFS2-----A----	Atr
+18	(	Z:-------------	ExD
+19	1987	C=-------------	ExD
+20	)	Z:-------------	ExD
+21	nebylo	VpNS---XR-NA---	AuxV
+22	130000	C=-------------	Sb
+23	zdrojů	NNIP2-----A----	Atr
+24	pitné	AAFS2----1A----	Atr
+25	vody	NNFS2-----A----	Atr
+26	ošetřeno	VsNS---XX-AP---	Pred
+27	chlórem	NNIS7-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln94202-85-p7s3
+1	Přitom	Db-------------	Adv
+2	šlo	VpNS---XR-AA---	Pred
+3	buď	J^-------------	AuxY
+4	o	RR--4----------	AuxP
+5	povrchovou	AAFS4----1A----	Atr
+6	vodu	NNFS4-----A----	Obj
+7	nebo	J^-------------	Coord
+8	podzemní	AAFS4----1A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	však	J^-------------	AuxY
+12	byla	VpQW---XR-AA---	Atr
+13	v	RR--6----------	AuxP
+14	blízkém	AAIS6----1A----	Atr
+15	kontaktu	NNIS6-----A----	Adv
+16	s	RR--7----------	AuxP
+17	povrchem	NNIS7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94202-85-p7s4
+1	Něco	PZ--1----------	Sb
+2	takového	PDZS2----------	Atr
+3	je	VB-S---3P-AA---	Pred
+4	u	RR--2----------	AuxP
+5	nás	PP-P2--1-------	Adv
+6	nemyslitelné	AANS1----1N----	Pnom
+7	,	Z:-------------	AuxX
+8	proto	J^-------------	Coord
+9	bychom	Vc-P---1-------	AuxV
+10	neměli	VpMP---XR-NA---	Pred
+11	všechno	PLNS4----------	Obj
+12	z	RR--2----------	AuxP
+13	USA	NNIPX-----A----	Atr
+14	slepě	Dg-------1A----	Adv
+15	přejímat	Vf--------A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94202-85-p8s1
+1	Domácí	AAFP1----1A----	Atr
+2	úpravny	NNFP1-----A----	Sb
+3	tedy	Db-------------	AuxY
+4	neřeší	VB-P---3P-NA---	Pred
+5	situaci	NNFS4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	zásobování	NNNS6-----A----	Atr
+8	biologicky	Dg-------1A----	Adv
+9	hodnotnou	AAFS7----1A----	Atr
+10	a	J^-------------	Coord
+11	zdravotně	Dg-------1A----	Adv
+12	nezávadnou	AAFS7----1N----	Atr
+13	pitnou	AAFS7----1A----	Atr
+14	vodou	NNFS7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94202-85-p8s2
+1	Ke	RV--3----------	AuxP
+2	slovu	NNNS3-----A----	Obj
+3	musejí	VB-P---3P-AA---	Pred
+4	přijít	Vf--------A----	Obj
+5	programy	NNIP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	které	P4IP1----------	Sb
+8	zajistí	VB-P---3P-AA---	Atr
+9	důslednou	AAFS4----1A----	Atr
+10	ochranu	NNFS4-----A----	Obj
+11	a	J^-------------	Coord
+12	výběr	NNIS4-----A----	Obj
+13	vodních	AAIP2----1A----	Atr
+14	zdrojů	NNIP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	řádnou	AAFS4----1A----	Atr
+17	úpravu	NNFS4-----A----	Obj
+18	vody	NNFS2-----A----	Atr
+19	a	J^-------------	Coord
+20	kvalitní	AAIP4----1A----	Atr
+21	centrální	AAIP4----1A----	Atr
+22	rozvody	NNIP4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94202-85-p8s3
+1	Není	VB-S---3P-NA---	Pred
+2	možné	AANS1----1A----	Pnom
+3	souhlasit	Vf--------A----	Sb
+4	s	RR--7----------	AuxP
+5	perspektivou	NNFS7-----A----	Obj
+6	,	Z:-------------	AuxX
+7	v	RR--6----------	AuxP
+8	níž	P9FS6----------	Adv
+9	by	Vc-------------	AuxV
+10	si	P7-X3----------	Adv
+11	musel	VpYS---XR-AA---	Atr
+12	spotřebitel	NNMS1-----A----	Sb
+13	upravovat	Vf--------A----	Obj
+14	vodu	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	za	RR--4----------	AuxP
+17	kterou	P4FS4----------	Obj
+18	platí	VB-S---3P-AA---	Atr
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	nahrazoval	VpYS---XR-AA---	Atr
+22	by	Vc-------------	AuxV
+23	tak	Db-------------	Adv
+24	vlastně	Db-------------	AuxY
+25	úkol	NNIS4-----A----	Obj
+26	vodárny	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94202-85-p8s4
+1	Avšak	J^-------------	ExD
+2	:	Z:-------------	ExD
+3	Vzhledem	RF-------------	AuxP
+4	k	RR--3----------	AuxP
+5	tomu	PDZS3----------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	tyto	PDIP1----------	Atr
+9	programy	NNIP1-----A----	Sb
+10	budou	VB-P---3F-AA---	Atr
+11	časově	Dg-------1A----	Adv
+12	i	J^-------------	Coord
+13	finančně	Dg-------1A----	Adv
+14	velmi	Db-------------	Adv
+15	náročné	AAIP1----1A----	Pnom
+16	a	J^-------------	Coord
+17	kvalita	NNFS1-----A----	Sb
+18	dodávané	AAFS2----1A----	Atr
+19	pitné	AAFS2----1A----	Atr
+20	vody	NNFS2-----A----	Atr
+21	není	VB-S---3P-NA---	Obj
+22	vždy	Db-------------	Adv
+23	nejlepší	AAFS1----3A----	Pnom
+24	,	Z:-------------	AuxX
+25	půjdou	VB-P---3F-AA---	Pred
+26	domácí	AAFP1----1A----	Atr
+27	úpravny	NNFP1-----A----	Sb
+28	zřejmě	Dg-------1A----	AuxY
+29	ještě	Db-------------	Adv
+30	dlouho	Dg-------1A----	Adv
+31	na	RR--4----------	AuxP
+32	odbyt	NNIS4-----A----	Obj
+33	.	Z:-------------	AuxK
+
+ln94202-85-p9s1
+1	Při	RR--6----------	AuxP
+2	nákupu	NNIS6-----A----	Adv
+3	by	Vc-------------	AuxV
+4	si	P7-X3----------	AuxT
+5	měl	VpYS---XR-AA---	Pred
+6	zákazník	NNMS1-----A----	Sb
+7	vždy	Db-------------	Adv
+8	vyžádat	Vf--------A----	Obj
+9	konkrétní	AAFP4----1A----	Atr
+10	a	J^-------------	Coord
+11	jasné	AAFP4----1A----	Atr
+12	informace	NNFP4-----A----	Obj
+13	o	RR--6----------	AuxP
+14	průtoku	NNIS6-----A----	Atr
+15	,	Z:-------------	AuxX
+16	účincích	NNIP6-----A----	Atr
+17	,	Z:-------------	AuxX
+18	podmínkách	NNFP6-----A----	Atr
+19	provozu	NNIS2-----A----	Atr
+20	a	J^-------------	Coord
+21	životnosti	NNFS6-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94202-85-p9s2
+1	V	RR--6----------	AuxP
+2	žádném	PWZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	by	Vc-------------	AuxV
+5	si	P7-X3----------	Obj
+6	však	J^-------------	AuxY
+7	neměl	VpYS---XR-NA---	Pred
+8	koupit	Vf--------A----	Obj
+9	filtr	NNIS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	nemá	VB-S---3P-NA---	Atr
+13	atest	NNIS4-----A----	Obj
+14	hygienické	AAFS2----1A----	Atr
+15	služby	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94202-85-p9s3
+1	Rozhodně	Dg-------1A----	AuxY
+2	by	Vc-------------	AuxV
+3	bylo	VpNS---XR-AA---	Pred
+4	dobré	AANS1----1A----	Pnom
+5	opatřit	Vf--------A----	Sb
+6	si	P7-X3----------	Obj
+7	před	RR--7----------	AuxP
+8	koupí	NNFS7-----A----	Adv
+9	nezávislé	AAFP4----1N----	Atr
+10	odborné	AAFP4----1A----	Atr
+11	informace	NNFP4-----A----	Obj
+12	.	Z:-------------	AuxK
+

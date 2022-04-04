@@ -1,0 +1,257 @@
+lnd94104-007-p1s1
+1	Dluhy	NNIP4-----A----	Obj
+2	platíme	VB-P---1P-AA---	Pred
+3	včas	Db-------------	Adv
+4	i	J^-------------	Coord
+5	předem	Db-------------	Adv
+
+lnd94104-007-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ge	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94104-007-p1s3
+1	Mimořádnou	AAFS4----1A----	Atr
+2	splátku	NNFS4-----A----	Obj
+3	části	NNFS2-----A----	Atr
+4	dluhu	NNIS2-----A----	Atr
+5	Mezinárodnímu	AAIS3----1A----	Atr
+6	měnovému	AAIS3----1A----	Atr
+7	fondu	NNIS3-----A----	AtrObj
+8	(	Z:-------------	AuxG
+9	za	RR--4----------	AuxP
+10	rok	NNIS4-----A----	Atr
+11	1995	C=-------------	Atr
+12	)	Z:-------------	AuxG
+13	zaplatí	VB-S---3P-AA---	Pred
+14	Česká	AAFS1----1A----	Atr
+15	republika	NNFS1-----A----	Sb
+16	podle	RR--2----------	AuxP
+17	doporučení	NNNS2-----A----	Adv
+18	ekonomických	AAMP2----1A----	Atr
+19	ministrů	NNMP2-----A----	Atr
+20	již	Db-------------	AuxZ
+21	letos	Db-------------	Adv
+22	.	Z:-------------	AuxK
+
+lnd94104-007-p1s4
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	430	C=-------------	Obj
+4	milionů	NNIP2-----A----	Atr
+5	amerických	AAIP2----1A----	Atr
+6	dolarů	NNIP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd94104-007-p1s5
+1	Devizové	AAFP1----1A----	Atr
+2	rezervy	NNFP1-----A----	Sb
+3	ČNB	NNFXX-----A---8	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	na	RR--6----------	AuxP
+6	vysoké	AAFS6----1A----	Atr
+7	úrovni	NNFS6-----A----	Adv
+8	a	J^-------------	Coord
+9	dále	Dg-------2A---1	Adv
+10	rostou	VB-P---3P-AA---	Pred
+11	,	Z:-------------	AuxX
+12	takže	J,-------------	AuxC
+13	si	P7-X3----------	AuxT
+14	to	PDNS4----------	Obj
+15	můžeme	VB-P---1P-AA---	Adv
+16	dovolit	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+lnd94104-007-p1s6
+1	Ministři	NNMP1-----A----	Sb
+2	včera	Db-------------	Adv
+3	také	Db-------------	AuxZ
+4	schválili	VpMP---XR-AA---	Pred
+5	vznik	NNIS4-----A----	Obj
+6	dvou	ClXP2----------	Atr
+7	svobodných	AANP2----1A----	Atr
+8	celních	AANP2----1A----	Atr
+9	pásem	NNNP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	a	J^-------------	AuxY
+12	to	PDNS4----------	Apos
+13	v	RR--6----------	AuxP
+14	Děčíně	NNIS6-----A----	ExD
+15	a	J^-------------	Coord
+16	v	RR--6----------	AuxP
+17	lokalitě	NNFS6-----A----	ExD
+18	Temelín	NNIS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94104-007-p1s7
+1	Analýza	NNFS1-----A----	Sb
+2	činnosti	NNFS2-----A----	Atr
+3	již	Db-------------	Adv
+4	existujících	AGNP2-----A----	Atr
+5	pásem	NNNP2-----A----	Atr
+6	dokládá	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	z	RR--2----------	AuxP
+10	hlediska	NNNS2-----A----	AuxP
+11	hospodářské	AAFS2----1A----	Atr
+12	kriminality	NNFS2-----A----	Adv
+13	se	P7-X4----------	AuxT
+14	zde	Db-------------	Adv
+15	problémy	NNIP1-----A----	Sb
+16	nevyskytují	VB-P---3P-NA---	Obj
+17	.	Z:-------------	AuxK
+
+lnd94104-007-p1s8
+1	Ekonomicky	Dg-------1A----	Adv
+2	jsou	VB-P---3P-AA---	Pred
+3	pak	Db-------------	Adv
+4	jednoznačně	Dg-------1A----	Adv
+5	přínosem	NNIS7-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	protože	J,-------------	AuxC
+8	využíváme	VB-P---1P-AA---	Adv
+9	určité	AAFP4----1A----	Atr
+10	komparativní	AAFP4----1A----	Atr
+11	výhody	NNFP4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+lnd94104-007-p1s9
+1	Pokračování	NNNS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	poslední	AAFS6----1A----	Atr
+4	straně	NNFS6-----A----	ExD
+5	.	Z:-------------	AuxK
+
+lnd94104-007-p1s10
+1	Ministři	NNMP1-----A----	Sb
+2	jednali	VpMP---XR-AA---	Pred
+3	i	J^-------------	AuxZ
+4	o	RR--6----------	AuxP
+5	transformaci	NNFS6-----A----	Obj
+6	učňovského	AANS2----1A----	Atr
+7	školství	NNNS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+lnd94104-007-p1s11
+1	S	RR--7----------	AuxP
+2	předloženým	AAIS7----1A----	Atr
+3	materiálem	NNIS7-----A----	Obj
+4	nebyli	VpMP---XR-NA---	Pred
+5	plně	Dg-------1A----	Adv
+6	spokojeni	ACMP------A----	Pnom
+7	.	Z:-------------	AuxK
+
+lnd94104-007-p1s12
+1	Cílem	NNIS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	zavést	Vf--------A----	Sb
+4	dvousložkový	AAIS4----1A----	Atr
+5	systém	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	v	RR--6----------	AuxP
+8	němž	P9ZS6----------	Adv
+9	bude	VB-S---3F-AA---	AuxV
+10	základní	AAFS4----1A----	Atr
+11	úroveň	NNFS4-----A----	Obj
+12	učňovského	AANS2----1A----	Atr
+13	školství	NNNS2-----A----	Atr
+14	garantovat	Vf--------A----	Atr
+15	stát	NNIS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+lnd94104-007-p1s13A
+1	Druhá	CrFS1----------	Atr
+2	složka	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měla	VpQW---XR-AA---	Pred
+5	motivovat	Vf--------A----	Obj
+6	podnikatele	NNMP4-----A----	Obj
+7	k	RR--3----------	AuxP
+8	převzetí	NNNS3-----A----	Adv
+9	části	NNFS2-----A----	Atr
+10	odpovědnosti	NNFS2-----A----	Atr
+11	za	RR--4----------	AuxP
+12	výchovu	NNFS4-----A----	Atr
+13	dělnické	AAFS2----1A----	Atr
+14	mládeže	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94104-007-p1s13B
+1	Vládní	AAFS1----1A----	Atr
+2	privatizační	AAFS1----1A----	Atr
+3	komise	NNFS1-----A----	Sb
+4	rozhodovala	VpQW---XR-AA---	Pred
+5	o	RR--6----------	AuxP
+6	jednom	ClZS6----------	Obj
+7	z	RR--2----------	AuxP
+8	privatizačních	AAIP2----1A----	Atr
+9	"	Z:-------------	AuxG
+10	oříšků	NNIP2-----A----	Atr
+11	"	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	kterým	P4ZS7----------	Pnom
+14	je	VB-S---3P-AA---	Atr
+15	způsob	NNIS1-----A----	Sb
+16	privatizace	NNFS2-----A----	Atr
+17	podniku	NNIS2-----A----	Atr
+18	Kablo	NNNS1-----A----	Atr
+19	Velké	AANS1----1A----	Atr
+20	Meziříčí	NNNS1-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94104-007-p1s14
+1	Doporučila	VpQW---XR-AA---	Pred
+2	vyhlásit	Vf--------A----	Obj
+3	novou	AAFS4----1A----	Atr
+4	veřejnou	AAFS4----1A----	Atr
+5	soutěž	NNFS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+lnd94104-007-p1s15
+1	Ministři	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	zabývali	VpMP---XR-AA---	Pred
+4	také	Db-------------	AuxZ
+5	problémem	NNIS7-----A----	Obj
+6	exportní	AAFS2----1A----	Atr
+7	banky	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	postavením	NNNS7-----A----	Obj
+10	EGAP	NNIS1-----A----	Atr
+11	(	Z:-------------	Apos
+12	Exportní	AAFS1----1A----	Atr
+13	garanční	AAFS1----1A----	Atr
+14	a	J^-------------	Coord
+15	pojišťovací	AAFS1----1A----	Atr
+16	společnost	NNFS1-----A----	Atr
+17	)	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+lnd94104-007-p1s16
+1	Doporučili	VpMP---XR-AA---	Pred
+2	upravit	Vf--------A----	Obj
+3	činnost	NNFS4-----A----	Obj
+4	EGAP	NNIS1-----A----	Atr
+5	zvláštním	AAIS7----1A----	Atr
+6	zákonem	NNIS7-----A----	Adv
+7	s	RR--7----------	AuxP
+8	tím	PDZS7----------	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	by	Vc-------------	AuxV
+12	mohl	VpYS---XR-AA---	Atr
+13	založit	Vf--------A----	Obj
+14	dceřinou	AAFS4----1A----	Atr
+15	společnost	NNFS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	by	Vc-------------	AuxV
+19	fungovala	VpQW---XR-AA---	Atr
+20	jako	J,-------------	AuxC
+21	exportní	AAFS1----1A----	Atr
+22	banka	NNFS1-----A----	ExD
+23	.	Z:-------------	AuxK
+

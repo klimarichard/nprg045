@@ -1,0 +1,435 @@
+lnd94101-001-p1s1A
+1	Přídavky	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	děti	NNFP4-----A----	Atr
+4	budou	VB-P---3F-AA---	AuxV
+5	zvýšeny	VsTP---XX-AP---	Pred
+6	ještě	Db-------------	AuxZ
+7	letos	Db-------------	Adv
+
+lnd94101-001-p1s1B
+1	V	RR--6----------	AuxP
+2	posledním	AANS6----1A----	Atr
+3	čtvrtletí	NNNS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	plánu	NNIS6-----A----	Pnom
+7	valorizace	NNFS1-----A----	Sb
+8	důchodů	NNIP2-----A----	Atr
+9	,	Z:-------------	Coord
+10	vzroste	VB-S---3P-AA---	Pred
+11	i	J^-------------	AuxZ
+12	pohřebné	NNNS1-----A----	Sb
+
+lnd94101-001-p1s1C
+1	Konec	NNIS1-----A----	ExD
+2	podtitulku	NNIS2-----A----	Atr
+
+lnd94101-001-p1s1D
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ika	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94101-001-p1s1E
+1	Sociální	AAFP1----1A----	Atr
+2	dávky	NNFP1-----A----	Sb
+3	včetně	Db-------------	AuxP
+4	důchodů	NNIP2-----A----	Adv
+5	by	Vc-------------	AuxV
+6	měly	VpTP---XR-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	podle	RR--2----------	AuxP
+9	návrhu	NNIS2-----A----	Adv
+10	ministerstva	NNNS2-----A----	Atr
+11	práce	NNFS2-----A----	Atr
+12	a	J^-------------	Coord
+13	sociálních	AAFP2----1A----	Atr
+14	věcí	NNFP2-----A----	Atr
+15	zvýšeny	VsTP---XX-AP---	Obj
+16	ve	RV--6----------	AuxP
+17	čtvrtém	CrNS6----------	Atr
+18	čtvrtletí	NNNS6-----A----	Adv
+19	letošního	AAIS2----1A----	Atr
+20	roku	NNIS2-----A---1	Atr
+21	.	Z:-------------	AuxK
+
+lnd94101-001-p1s2
+1	Tato	PDNP1----------	Atr
+2	opatření	NNNP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	AuxV
+4	zaměřena	VsQW---XX-AP---	Pred
+5	především	Db-------------	Adv
+6	na	RR--4----------	AuxP
+7	rodiny	NNFP4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	dětmi	NNFP7-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94101-001-p1s3
+1	Budou	VB-P---3F-AA---	AuxV
+2	zvýšeny	VsTP---XX-AP---	Pred
+3	přídavky	NNIP1-----A----	Sb
+4	a	J^-------------	Coord
+5	výchovné	NNNS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+lnd94101-001-p1s4
+1	Navrhuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	,	Z:-------------	AuxX
+4	aby	J,-------------	AuxC
+5	u	RR--2----------	AuxP
+6	dítěte	NNNS2-----A----	Adv
+7	do	RR--2----------	AuxP
+8	6	C=-------------	Atr
+9	let	NNNP2-----A----	Atr
+10	činily	VpTP---XR-AA---	Obj
+11	380	C=-------------	Obj
+12	korun	NNFP2-----A----	Atr
+13	(	Z:-------------	AuxG
+14	dnes	Db-------------	ExD
+15	340	C=-------------	ExD
+16	korun	NNFP2-----A----	Atr
+17	)	Z:-------------	AuxG
+18	,	Z:-------------	AuxX
+19	u	RR--2----------	AuxP
+20	dítěte	NNNS2-----A----	ExD
+21	ve	RV--6----------	AuxP
+22	věku	NNIS6-----A----	Atr
+23	od	RR--2----------	AuxP
+24	6	C=-------------	Atr
+25	do	RR--2----------	AuxP
+26	10	C=-------------	Atr
+27	let	NNNP2-----A----	Atr
+28	420	C=-------------	ExD
+29	korun	NNFP2-----A----	Atr
+30	(	Z:-------------	AuxG
+31	380	C=-------------	ExD
+32	korun	NNFP2-----A----	Atr
+33	)	Z:-------------	AuxG
+34	,	Z:-------------	Coord
+35	od	RR--2----------	AuxP
+36	10	C=-------------	ExD
+37	do	RR--2----------	AuxP
+38	15	C=-------------	ExD
+39	let	NNNP2-----A----	Atr
+40	500	C=-------------	ExD
+41	korun	NNFP2-----A----	Atr
+42	(	Z:-------------	AuxG
+43	450	C=-------------	ExD
+44	korun	NNFP2-----A----	Atr
+45	)	Z:-------------	AuxG
+46	a	J^-------------	Coord
+47	nad	RR--4----------	AuxP
+48	15	C=-------------	Adv
+49	let	NNNP2-----A----	Atr
+50	je	VB-S---3P-AA---	AuxV
+51	navrhováno	VsNS---XX-AP---	Pred
+52	540	C=-------------	Sb
+53	korun	NNFP2-----A----	Atr
+54	(	Z:-------------	AuxG
+55	490	C=-------------	ExD
+56	korun	NNFP2-----A----	Atr
+57	)	Z:-------------	AuxG
+58	.	Z:-------------	AuxK
+
+lnd94101-001-p1s5
+1	Státní	AAIS1----1A----	Atr
+2	vyrovnávací	AAIS1----1A----	Atr
+3	příspěvek	NNIS1-----A----	Sb
+4	pro	RR--4----------	AuxP
+5	nezaopatřené	AAFP4----1N----	Atr
+6	děti	NNFP4-----A----	Atr
+7	by	Vc-------------	AuxV
+8	měl	VpYS---XR-AA---	Pred
+9	podle	RR--2----------	AuxP
+10	návrhu	NNIS2-----A----	Adv
+11	vzrůst	Vf--------A----	Obj
+12	zhruba	Db-------------	Adv
+13	o	RR--4----------	AuxP
+14	200	C=-------------	Adv
+15	korun	NNFP2-----A----	Atr
+16	u	RR--2----------	AuxP
+17	rodin	NNFP2-----A----	Adv
+18	s	RR--7----------	AuxP
+19	příjmem	NNIS7-----A----	Atr
+20	do	RR--2----------	AuxP
+21	1.5	C=-------------	Atr
+22	násobku	NNIS2-----A----	Atr
+23	životního	AANS2----1A----	Atr
+24	minima	NNNS2-----A----	Atr
+25	a	J^-------------	Coord
+26	o	RR--4----------	AuxP
+27	100	C=-------------	Adv
+28	korun	NNFP2-----A----	Atr
+29	u	RR--2----------	AuxP
+30	rodin	NNFP2-----A----	Adv
+31	,	Z:-------------	AuxX
+32	jejichž	P1XXXXP3-------	Atr
+33	příjem	NNIS1-----A----	Sb
+34	se	P7-X4----------	AuxT
+35	pohybuje	VB-S---3P-AA---	Atr
+36	v	RR--6----------	AuxP
+37	rozmezí	NNNS6-----A----	Adv
+38	od	RR--2----------	AuxP
+39	1.5	C=-------------	Atr
+40	do	RR--2----------	AuxP
+41	2	C=-------------	Atr
+42	násobku	NNIS2-----A----	Atr
+43	životního	AANS2----1A----	Atr
+44	minima	NNNS2-----A----	Atr
+45	.	Z:-------------	AuxK
+
+lnd94101-001-p1s6
+1	Rodičovský	AAIS1----1A----	Atr
+2	příspěvek	NNIS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měl	VpYS---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	zvýšen	VsYS---XX-AP---	Obj
+7	o	RR--4----------	AuxP
+8	sto	NNNS4-----A----	Adv
+9	korun	NNFP2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	1740	C=-------------	Adv
+12	korun	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94101-001-p1s7
+1	Porodné	NNNS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	vypláceno	VsNS---XX-AP---	Pred
+4	ve	RV--6----------	AuxP
+5	výši	NNFS6-----A----	Adv
+6	4500	C=-------------	Atr
+7	korun	NNFP2-----A----	Atr
+8	,	Z:-------------	Coord
+9	což	PE--1----------	Sb
+10	je	VB-S---3P-AA---	Pred
+11	o	RR--4----------	AuxP
+12	500	C=-------------	Adv
+13	korun	NNFP2-----A----	Atr
+14	více	Dg-------2A----	Adv
+15	než	J,-------------	AuxC
+16	dnes	Db-------------	ExD
+17	.	Z:-------------	AuxK
+
+lnd94101-001-p1s8
+1	Upraven	VsYS---XX-AP---	Pred
+2	bude	VB-S---3F-AA---	AuxV
+3	i	J^-------------	AuxZ
+4	zaopatřovací	AAIS1----1A----	Atr
+5	příspěvek	NNIS1-----A----	Sb
+6	pro	RR--4----------	AuxP
+7	manželky	NNFP4-----A----	Atr
+8	a	J^-------------	Coord
+9	děti	NNFP4-----A----	Atr
+10	vojáků	NNMP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94101-001-p1s9
+1	Z	RR--2----------	AuxP
+2	680	C=-------------	ExD
+3	na	RR--4----------	AuxP
+4	750	C=-------------	ExD
+5	korun	NNFP2-----A----	Atr
+6	měsíčně	Dg-------1A----	ExD
+7	u	RR--2----------	AuxP
+8	manželky	NNFS2-----A----	ExD
+9	a	J^-------------	Coord
+10	z	RR--2----------	AuxP
+11	910	C=-------------	ExD
+12	na	RR--4----------	AuxP
+13	1000	C=-------------	ExD
+14	korun	NNFP2-----A----	Atr
+15	u	RR--2----------	AuxP
+16	dítěte	NNNS2-----A----	ExD
+17	.	Z:-------------	AuxK
+
+lnd94101-001-p1s10
+1	Na	RR--4----------	AuxP
+2	byt	NNIS4-----A----	Adv
+3	bude	VB-S---3F-AA---	AuxV
+4	dostávat	Vf--------A----	Pred
+5	rodina	NNFS1-----A----	Sb
+6	vojáka	NNMS2-----A----	Atr
+7	příspěvek	NNIS4-----A----	Obj
+8	660	C=-------------	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94101-001-p1s11
+1	Občanům	NNMP3-----A----	Obj
+2	odkázaným	AAMP3----1A----	Atr
+3	na	RR--4----------	AuxP
+4	dietní	AAFS4----1A----	Atr
+5	stravu	NNFS4-----A----	Adv
+6	by	Vc-------------	AuxV
+7	měl	VpYS---XR-AA---	Pred
+8	být	Vf--------A----	AuxV
+9	měsíčně	Dg-------1A----	Adv
+10	vyplácen	VsYS---XX-AP---	Obj
+11	příspěvek	NNIS1-----A----	Sb
+12	600	C=-------------	Atr
+13	korun	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	tedy	Db-------------	Coord
+16	o	RR--4----------	AuxP
+17	100	C=-------------	Adv
+18	korun	NNFP2-----A----	Atr
+19	vyšší	AAIS1----2A----	Atr
+20	než	J,-------------	AuxC
+21	doposud	Db-------------	ExD
+22	.	Z:-------------	AuxK
+
+lnd94101-001-p1s12
+1	Zvýšeno	VsNS---XX-AP---	Obj
+2	by	Vc-------------	AuxV
+3	mělo	VpNS---XR-AA---	Pred
+4	být	Vf--------A----	AuxV
+5	rovněž	Db-------------	AuxZ
+6	tzv	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	pohřebné	NNNS1-----A----	Sb
+9	a	J^-------------	AuxY
+10	to	PDNS4----------	AuxY
+11	na	RR--4----------	AuxP
+12	3000	C=-------------	Obj
+13	korun	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94101-001-p1s13
+1	Ministr	NNMS1-----A----	Sb
+2	práce	NNFS2-----A----	Atr
+3	a	J^-------------	Coord
+4	sociálních	AAFP2----1A----	Atr
+5	věcí	NNFP2-----A----	Atr
+6	na	RR--6----------	AuxP
+7	včerejší	AAFS6----1A----	Atr
+8	tiskové	AAFS6----1A----	Atr
+9	konferenci	NNFS6-----A----	Adv
+10	řekl	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	materiál	NNIS4-----A----	Obj
+14	ještě	Db-------------	Adv
+15	musí	VB-S---3P-AA---	Obj
+16	projednat	Vf--------A----	Obj
+17	vláda	NNFS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+lnd94101-001-p1s14
+1	"	Z:-------------	AuxG
+2	Předpokládám	VB-S---1P-AA---	Obj
+3	však	J^-------------	Coord
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	se	P7-X4----------	AuxR
+8	výše	NNFS1-----A----	Sb
+9	navrhovaných	AAFP2----1A----	Atr
+10	dávek	NNFP2-----A----	Atr
+11	neměla	VpQW---XR-NA---	Obj
+12	zásadně	Dg-------1A----	Adv
+13	změnit	Vf--------A----	Obj
+14	,	Z:-------------	AuxX
+15	"	Z:-------------	AuxG
+16	uvedl	VpYS---XR-AA---	Pred
+17	ministr	NNMS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+lnd94101-001-p1s15
+1	Valorizace	NNFS1-----A----	Sb
+2	důchodů	NNIP2-----A----	Atr
+3	je	VB-S---3P-AA---	AuxV
+4	navrhována	VsQW---XX-AP---	Pred
+5	ve	RV--6----------	AuxP
+6	dvou	ClXP6----------	Atr
+7	částech	NNFP6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+lnd94101-001-p1s16
+1	Za	RR--4----------	AuxP
+2	prvé	AANS4----1A----	Adv
+3	státní	AAIS1----1A----	Atr
+4	vyrovnávací	AAIS1----1A----	Atr
+5	příspěvek	NNIS1-----A----	Sb
+6	by	Vc-------------	AuxV
+7	měl	VpYS---XR-AA---	Pred
+8	vzrůst	Vf--------A----	Obj
+9	na	RR--4----------	AuxP
+10	dvojnásobek	NNIS4-----A----	Adv
+11	,	Z:-------------	AuxX
+12	každý	AAMS1----1A----	Atr
+13	důchodce	NNMS1-----A----	Sb
+14	by	Vc-------------	AuxV
+15	jej	PPZS4--3------2	Obj
+16	tedy	Db-------------	Coord
+17	dostával	VpYS---XR-AA---	Pred
+18	ve	RV--6----------	AuxP
+19	výši	NNFS6-----A----	Adv
+20	440	C=-------------	Atr
+21	korun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd94101-001-p1s17
+1	A	J^-------------	Coord
+2	za	RR--4----------	AuxP
+3	druhé	CrNS4----------	Adv
+4	každý	AAIS1----1A----	Atr
+5	důchod	NNIS1-----A----	Sb
+6	bude	VB-S---3F-AA---	AuxV
+7	upraven	VsYS---XX-AP---	Pred
+8	o	RR--4----------	AuxP
+9	pět	Cn-S4----------	Adv
+10	procent	NNNP2-----A----	Atr
+11	ze	RV--2----------	AuxP
+12	své	P8FS2---------1	Atr
+13	výše	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94101-001-p1s18
+1	Podle	RR--2----------	AuxP
+2	informace	NNFS2-----A----	Adv
+3	ministra	NNMS2-----A----	Atr
+4	Vodičky	NNMS2-----A----	Atr
+5	budou	VB-P---3F-AA---	AuxV
+6	v	RR--6----------	AuxP
+7	posledním	AANS6----1A----	Atr
+8	čtvrtletí	NNNS6-----A----	Adv
+9	roku	NNIS2-----A---1	Atr
+10	dříve	Dg-------2A----	Adv
+11	vypláceny	VsTP---XX-AP---	Pred
+12	upravené	AAFP1----1A----	Atr
+13	dávky	NNFP1-----A----	Sb
+14	pro	RR--4----------	AuxP
+15	rodiny	NNFP4-----A----	Atr
+16	s	RR--7----------	AuxP
+17	dětmi	NNFP7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+lnd94101-001-p1s19A
+1	Důchody	NNIP1-----A----	Sb
+2	budou	VB-P---3F-AA---	AuxV
+3	valorizovány	VsTP---XX-AP---	Pred
+4	zhruba	Db-------------	AuxZ
+5	měsíc	NNIS4-----A----	Adv
+6	poté	Db-------------	Adv
+7	,	Z:-------------	AuxK
+
+lnd94101-001-p1s19B
+1	Náklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	tyto	PDFP4----------	Atr
+4	úpravy	NNFP4-----A----	Atr
+5	si	P7-X3----------	AuxT
+6	měsíčně	Dg-------1A----	Adv
+7	vyžádají	VB-P---3P-AA---	Pred
+8	celkem	Db-------------	Adv
+9	1.3	C=-------------	Obj
+10	miliardy	NNFS2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+

@@ -1,0 +1,197 @@
+ln94200-23-p1s1
+1	Nadějné	AAFP1----1A----	Atr
+2	změny	NNFP1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Poldi	NNFXX-----A----	Atr
+5	Kladno	NNNS1-----A----	Atr
+
+ln94200-23-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	ali	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	ma	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94200-23-p2s1B
+1	Do	RR--2----------	AuxP
+2	změn	NNFP2-----A----	Adv
+3	,	Z:-------------	AuxX
+4	které	P4FP1----------	Sb
+5	byly	VpTP---XR-AA---	AuxV
+6	provedeny	VsTP---XX-AP---	Atr
+7	na	RR--6----------	AuxP
+8	středeční	AAFS6----1A----	Atr
+9	valné	AAFS6----1A----	Atr
+10	hromadě	NNFS6-----A----	Adv
+11	akciové	AAFS2----1A----	Atr
+12	společnosti	NNFS2-----A----	Atr
+13	Poldi	NNFXX-----A----	Atr
+14	Kladno	NNNS1-----A----	Atr
+15	holding	NNIS1-----A----	Atr
+16	,	Z:-------------	AuxX
+17	vkládám	VB-S---1P-AA---	Obj
+18	velké	AAFP4----1A----	Atr
+19	naděje	NNFP4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	sdělil	VpYS---XR-AA---	Pred
+22	včera	Db-------------	Adv
+23	LN	NNFPX-----A---8	Obj
+24	ředitel	NNMS1-----A----	Sb
+25	Poldi	NNFXX-----A----	Atr
+26	Ocel	NNFS1-----A----	Atr
+27	,	Z:-------------	AuxX
+28	s	NNFXX-----A---8	Atr
+29	.	Z:-------------	AuxG
+30	r	NNNS7-----A---8	Atr
+31	.	Z:-------------	AuxG
+32	o	AANS7----1A---8	Atr
+33	.	Z:-------------	AuxG
+34	,	Z:-------------	Apos
+35	Vladimír	NNMS1-----A----	Atr
+36	Stehlík	NNMS1-----A----	Sb
+37	.	Z:-------------	AuxK
+
+ln94200-23-p3s1
+1	Stehlíkova	AUFS1M---------	Atr
+2	firma	NNFS1-----A----	Sb
+3	Bohemia	NNFXX-----A----	Atr
+4	Art	NNIXX-----A----	Atr
+5	má	VB-S---3P-AA---	Pred
+6	na	RR--6----------	AuxP
+7	základě	NNIS6-----A----	AuxP
+8	vítězství	NNNS2-----A----	Adv
+9	ve	RV--6----------	AuxP
+10	veřejné	AAFS6----1A----	Atr
+11	soutěži	NNFS6-----A----	Atr
+12	získat	Vf--------A----	Obj
+13	více	Dg-------2A----	Obj
+14	než	J,-------------	AuxC
+15	polovinu	NNFS4-----A----	Adv
+16	akcií	NNFP2-----A----	Atr
+17	Poldi	NNFXX-----A----	Atr
+18	Ocel	NNFS1-----A----	Atr
+19	,	Z:-------------	AuxX
+20	která	P4FS1----------	Sb
+21	je	VB-S---3P-AA---	Atr
+22	dosud	Db-------------	Adv
+23	součástí	NNFS7-----A----	Pnom
+24	a	AAXXX----1A---8	Atr
+25	.	Z:-------------	AuxG
+26	s	NNFXX-----A---8	Atr
+27	.	Z:-------------	AuxG
+
+ln94200-23-p3s2
+1	Poldi	NNFXX-----A----	ExD
+2	Kladno	NNNS1-----A----	Atr
+3	holding	NNIS1-----A----	Atr
+4	.	Z:-------------	AuxK
+
+ln94200-23-p3s3
+1	Vztahy	NNIP1-----A----	Sb
+2	mezi	RR--7----------	AuxP
+3	Poldi	NNFXX-----A----	Atr
+4	Ocel	NNFS1-----A----	Atr
+5	a	J^-------------	Coord
+6	Poldi	NNFXX-----A----	Atr
+7	Kladno	NNNS1-----A----	Atr
+8	byly	VpTP---XR-AA---	Pred
+9	napjaté	AAIP1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+ln94200-23-p3s4
+1	Ve	RV--4----------	AuxP
+2	středu	NNFS4-----A----	Adv
+3	Fond	NNIS1-----A----	Sb
+4	národního	AAIS2----1A----	Atr
+5	majetku	NNIS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	je	VB-S---3P-AA---	Atr
+9	stoprocentním	AAMS7----1A----	Atr
+10	majitelem	NNMS7-----A----	Pnom
+11	Poldi	NNFXX-----A----	Atr
+12	Kladno	NNNS1-----A----	Atr
+13	Holding	NNIS1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	její	PSNS4FS3-------	Atr
+16	vedení	NNNS4-----A----	Obj
+17	vyměnil	VpYS---XR-AA---	Pred
+18	.	Z:-------------	AuxK
+
+ln94200-23-p4s1
+1	Předseda	NNMS1-----A----	Atr
+2	výkonného	AAIS2----1A----	Atr
+3	výboru	NNIS2-----A----	Atr
+4	Fondu	NNIS2-----A----	Atr
+5	národního	AAIS2----1A----	Atr
+6	majetku	NNIS2-----A----	Atr
+7	Roman	NNMS1-----A----	Atr
+8	Češka	NNMS1-----A----	Sb
+9	včera	Db-------------	Adv
+10	LN	NNFPX-----A---8	Obj
+11	sdělil	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	se	P7-X4----------	AuxT
+15	nové	AANS1----1A----	Atr
+16	vedení	NNNS1-----A----	Sb
+17	holdingu	NNIS2-----A----	Atr
+18	Poldi	NNFXX-----A----	Atr
+19	Kladno	NNNS1-----A----	Atr
+20	skládá	VB-S---3P-AA---	Obj
+21	z	RR--2----------	AuxP
+22	nezávislých	AAMP2----1N----	Atr
+23	odborníků	NNMP2-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94200-23-p4s2
+1	Další	AAIS1----1A----	Atr
+2	postup	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	této	PDFS6----------	Atr
+5	záležitosti	NNFS6-----A----	Atr
+6	včetně	RR--2----------	AuxP
+7	obnovení	NNNS2-----A----	Atr
+8	výroby	NNFS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	Poldi	NNFXX-----A----	AtrAtr
+11	Ocel	NNFS1-----A----	Atr
+12	podle	RR--2----------	AuxP
+13	Češky	NNMS2-----A----	Adv
+14	plně	Dg-------1A----	Adv
+15	závisí	VB-S---3P-AA---	Pred
+16	na	RR--6----------	AuxP
+17	V	NNMXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	Stehlíkovi	NNMS6-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94200-23-p4s3
+1	Ten	PDYS1----------	Sb
+2	LN	NNFPX-----A---8	Obj
+3	sdělil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	jakmile	J,-------------	AuxC
+7	podepíše	VB-S---3P-AA---	Adv
+8	nové	AANS1----1A----	Atr
+9	vedení	NNNS1-----A----	Sb
+10	holdingu	NNIS2-----A----	Atr
+11	dohodu	NNFS4-----A----	Obj
+12	o	RR--6----------	AuxP
+13	převzetí	NNNS6-----A----	Atr
+14	závazku	NNIS2-----A----	Atr
+15	vůči	RR--3----------	AuxP
+16	Komerční	AAFS3----1A----	Atr
+17	bance	NNFS3-----A----	Atr
+18	,	Z:-------------	AuxX
+19	banka	NNFS1-----A----	Sb
+20	uvolní	VB-S---3P-AA---	Obj
+21	Poldi	NNFXX-----A----	Obj
+22	Ocel	NNFS1-----A----	Atr
+23	půlmiliardový	AAIS4----1A----	Atr
+24	úvěr	NNIS4-----A----	Obj
+25	.	Z:-------------	AuxK
+

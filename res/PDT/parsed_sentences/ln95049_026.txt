@@ -1,0 +1,592 @@
+ln95049-026-p1s1
+1	(	Z:-------------	ExD
+2	řej	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+4	Dortmund	NNIS1-----A----	ExD
+5	popatnácté	Cv-------------	ExD
+6	bez	RR--2----------	AuxP
+7	prohry	NNFS2-----A----	ExD
+
+ln95049-026-p2s1A
+1	Začátek	NNIS4-----A----	Obj
+2	utkání	NNNS2-----A----	Atr
+3	Everton	NNIS1-----A----	Atr
+4	-	Z:-------------	Coord
+5	Manchester	NNIS1-----A----	Atr
+6	United	AAXXX----1A----	Atr
+7	posunula	VpQW---XR-AA---	Pred
+8	dopravní	AAFS1----1A----	Atr
+9	zácpa	NNFS1-----A----	Sb
+
+ln95049-026-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-026-p2s1C
+1	V	RR--6----------	AuxP
+2	německé	AAFS6----1A----	Atr
+3	,	Z:-------------	AuxX
+4	anglické	AAFS6----1A----	Atr
+5	i	J^-------------	Coord
+6	italské	AAFS6----1A----	Atr
+7	fotbalové	AAFS6----1A----	Atr
+8	lize	NNFS6-----A----	Adv
+9	pokračují	VB-P---3P-AA---	Pred
+10	dosud	Db-------------	Adv
+11	vedoucí	AGIP1-----A----	Atr
+12	celky	NNIP1-----A----	Sb
+13	neohroženě	Dg-------1N----	Adv
+14	ve	RV--6----------	AuxP
+15	své	P8FS6---------1	Atr
+16	cestě	NNFS6-----A----	Obj
+17	za	RR--7----------	AuxP
+18	titulem	NNIS7-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95049-026-p3s1A
+1	Řím	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-026-p3s1B
+1	Faustinu	NNMS3-----A---1	Atr
+2	Asprillovi	NNMS3-----A----	Obj
+3	,	Z:-------------	Apos
+4	Kolumbijci	NNMS3-----A----	Obj
+5	ve	RV--6----------	AuxP
+6	službách	NNFP6-----A----	Atr
+7	AC	NNIXX-----A---8	Atr
+8	Parma	NNFS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	se	P7-X4----------	AuxT
+11	vrátila	VpQW---XR-AA---	Pred
+12	forma	NNFS1-----A----	Sb
+13	v	RR--4----------	AuxP
+14	pravý	AAIS4----1A----	Atr
+15	čas	NNIS4-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95049-026-p3s2
+1	V	RR--6----------	AuxP
+2	utkání	NNNS6-----A----	Adv
+3	italské	AAFS2----1A----	Atr
+4	ligy	NNFS2-----A----	Atr
+5	s	RR--7----------	AuxP
+6	Lazio	NNNXX-----A----	Atr
+7	Řím	NNIS1-----A----	Atr
+8	vstřelil	VpYS---XR-AA---	Pred
+9	oba	ClYP4----------	Atr
+10	góly	NNIP4-----A----	Obj
+11	svého	P8ZS2----------	Atr
+12	mužstva	NNNS2-----A----	Atr
+13	a	J^-------------	Coord
+14	pomohl	VpYS---XR-AA---	Pred
+15	mu	PHZS3--3-------	Obj
+16	udržet	Vf--------A----	Obj
+17	krok	NNIS4-----A----	Obj
+18	v	RR--6----------	AuxP
+19	tabulce	NNFS6-----A----	Adv
+20	s	RR--7----------	AuxP
+21	vedoucím	AGIS7-----A----	Atr
+22	Juventusem	NNIS7-----A----	Adv
+23	Turín	NNIS1-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95049-026-p3s3
+1	Fiorentina	NNFS1-----A----	Sb
+2	může	VB-S---3P-AA---	Pred
+3	děkovat	Vf--------A----	Obj
+4	za	RR--4----------	AuxP
+5	zisk	NNIS4-----A----	Obj
+6	bodu	NNIS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	utkání	NNNS6-----A----	AtrAtr
+9	s	RR--7----------	AuxP
+10	Interem	NNIS7-----A----	Atr
+11	Milán	NNIS1-----A----	Atr
+12	Argentinci	NNMS3-----A----	Atr
+13	Gabrielu	NNMS3-----A---1	Atr
+14	Batistutovi	NNMS3-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95049-026-p3s4
+1	Hosté	NNMP1-----A----	Sb
+2	vedli	VpMP---XR-AA---	Pred
+3	od	RR--2----------	AuxP
+4	66	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	minuty	NNFS2-----A----	Adv
+7	2	C=-------------	Adv
+8	:	Z:-------------	Coord
+9	1	C=-------------	Adv
+10	,	Z:-------------	Coord
+11	o	RR--4----------	AuxP
+12	jedenáct	Cn-S4----------	Adv
+13	minut	NNFP2-----A----	Atr
+14	později	Dg-------2A----	Adv
+15	Batistuta	NNMS1-----A----	Sb
+16	svou	P8FS7---------1	Atr
+17	osmnáctou	CrFS7----------	Atr
+18	brankou	NNFS7-----A----	Adv
+19	v	RR--6----------	AuxP
+20	letošní	AAFS6----1A----	Atr
+21	sezóně	NNFS6-----A----	Atr
+22	vyrovnal	VpYS---XR-AA---	Pred
+23	.	Z:-------------	AuxK
+
+ln95049-026-p3s5
+1	AC	NNIXX-----A---8	Sb
+2	Milán	NNIS1-----A----	Atr
+3	přehrál	VpYS---XR-AA---	Pred
+4	hladce	Dg-------1A----	Adv
+5	3	C=-------------	Adv
+6	:	Z:-------------	Coord
+7	1	C=-------------	Adv
+8	nevalně	Dg-------1N----	Adv
+9	hrající	AGIS4-----A----	Atr
+10	celek	NNIS4-----A----	Obj
+11	Cremonese	NNIXX-----A----	Atr
+12	a	J^-------------	Coord
+13	absolvoval	VpYS---XR-AA---	Pred
+14	tak	Db-------------	Adv
+15	dobrou	AAFS4----1A----	Atr
+16	přípravu	NNFS4-----A----	Obj
+17	na	RR--4----------	AuxP
+18	středeční	AANS4----1A----	Atr
+19	utkání	NNNS4-----A----	Atr
+20	evropské	AAFS2----1A----	Atr
+21	Ligy	NNFS2-----A----	Atr
+22	mistrů	NNMP2-----A----	Atr
+23	s	RR--7----------	AuxP
+24	Benfikou	NNFS7-----A----	Atr
+25	Lisabon	NNIS1-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95049-026-p4s1A
+1	Berlín	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-026-p4s1B
+1	Už	Db-------------	AuxZ
+2	0	C=-------------	Adv
+3	:	Z:-------------	Coord
+4	2	C=-------------	Adv
+5	prohrával	VpYS---XR-AA---	Pred
+6	třináctinásobný	AAMS1----1A----	Atr
+7	německý	AAMS1----1A----	Atr
+8	mistr	NNMS1-----A----	Sb
+9	Bayern	NNIS1-----A----	Atr
+10	Mnichov	NNIS1-----A----	Atr
+11	v	RR--6----------	AuxP
+12	utkání	NNNS6-----A----	Adv
+13	19	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	kola	NNNS2-----A----	Atr
+16	bundesligy	NNFS2-----A----	Atr
+17	s	RR--7----------	AuxP
+18	Freiburgem	NNIS7-----A----	ObjAtr
+19	.	Z:-------------	AuxK
+
+ln95049-026-p4s2
+1	Vše	PLNS1---------1	Sb
+2	nasvědčovalo	VpNS---XR-AA---	Pred
+3	tomu	PDZS3----------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	se	P7-X4----------	AuxR
+7	bude	VB-S---3F-AA---	AuxV
+8	opakovat	Vf--------A----	Atr
+9	krutá	AAFS1----1A----	Atr
+10	porážka	NNFS1-----A----	Sb
+11	Bayernu	NNIS2-----A----	Atr
+12	1	C=-------------	Atr
+13	:	Z:-------------	Coord
+14	5	C=-------------	Atr
+15	z	RR--2----------	AuxP
+16	podzimního	AANS2----1A----	Atr
+17	střetnutí	NNNS2-----A----	Atr
+18	na	RR--6----------	AuxP
+19	hřišti	NNNS6-----A----	Atr
+20	Freiburgu	NNIS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	domácí	AAMP1----1A----	Sb
+23	však	J^-------------	Coord
+24	nakonec	Db-------------	Adv
+25	brankami	NNFP7-----A----	Adv
+26	Scholla	NNMS2-----A----	Atr
+27	a	J^-------------	Coord
+28	nového	AAMS2----1A----	Atr
+29	kapitána	NNMS2-----A----	Atr
+30	Helmera	NNMS2-----A----	Atr
+31	vyrovnali	VpMP---XR-AA---	Pred
+32	na	RR--4----------	AuxP
+33	konečných	AAFP2----1A----	Atr
+34	2	C=-------------	Adv
+35	:	Z:-------------	Coord
+36	2	C=-------------	Adv
+37	.	Z:-------------	AuxK
+
+ln95049-026-p4s3
+1	Ani	J^-------------	AuxZ
+2	1	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	FC	NNIXX-----A---8	Sb
+5	Kolín	NNIS1-----A----	Atr
+6	n	RR--7---------8	AuxP
+7	.	Z:-------------	AuxG
+8	R	NNIS7-----A----	Atr
+9	.	Z:-------------	AuxG
+10	nepřekazil	VpYS---XR-NA---	Pred
+11	vedoucímu	AGIS3-----A----	Atr
+12	Dortmundu	NNIS3-----A----	Obj
+13	jeho	PSXXXZS3-------	Atr
+14	spanilou	AAFS4----1A----	Atr
+15	jízdu	NNFS4-----A----	Obj
+16	za	RR--7----------	AuxP
+17	titulem	NNIS7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95049-026-p4s6
+1	Prohrál	VpYS---XR-AA---	Pred
+2	1	C=-------------	Adv
+3	:	Z:-------------	Coord
+4	2	C=-------------	Adv
+5	a	J^-------------	Coord
+6	dortmundská	AAFS1----1A----	Atr
+7	série	NNFS1-----A----	Sb
+8	bez	RR--2----------	AuxP
+9	porážky	NNFS2-----A----	Atr
+10	se	P7-X4----------	AuxR
+11	tak	J^-------------	Adv
+12	prodloužila	VpQW---XR-AA---	Pred
+13	na	RR--4----------	AuxP
+14	patnáct	Cn-S4----------	Adv
+15	zápasů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95049-026-p4s7
+1	Do	RR--2----------	AuxP
+2	listiny	NNFS2-----A----	Adv
+3	střelců	NNMP2-----A----	Atr
+4	se	P7-X4----------	Obj
+5	zapsal	VpYS---XR-AA---	Pred
+6	Kuka	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	jeho	PSXXXZS3-------	Atr
+9	branka	NNFS1-----A----	Sb
+10	jen	TT-------------	AuxZ
+11	potvrdila	VpQW---XR-AA---	Atr
+12	výhru	NNFS4-----A----	Obj
+13	Kaiserslauternu	NNIS2-----A----	Atr
+14	ve	RV--6----------	AuxP
+15	Frankfurtu	NNIS6-----A----	Atr
+16	(	Z:-------------	AuxG
+17	3	C=-------------	Atr
+18	:	Z:-------------	Coord
+19	1	C=-------------	Atr
+20	)	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+ln95049-026-p4s8
+1	Werder	NNIS1-----A----	Sb
+2	Brémy	NNFP1-----A----	Atr
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	je	VB-S---3P-AA---	Atr
+6	druhý	CrIS1----------	Pnom
+7	se	RV--7----------	AuxP
+8	ztrátou	NNFS7-----A----	Adv
+9	čtyř	ClXP2----------	Atr
+10	bodů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	si	P7-X3----------	Adv
+13	přivezl	VpYS---XR-AA---	Pred
+14	vítězství	NNNS4-----A----	Obj
+15	z	RR--2----------	AuxP
+16	Leverkusenu	NNIS2-----A----	Atr
+17	zásluhou	NNFS7-----A----	Adv
+18	Baslera	NNMS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	který	P4YS1----------	Sb
+21	se	P7-X4----------	AuxT
+22	trefil	VpYS---XR-AA---	Atr
+23	dvakrát	Cv-------------	Adv
+24	.	Z:-------------	AuxK
+
+ln95049-026-p4s9
+1	Za	RR--4----------	AuxP
+2	domácí	AAMP4----1A----	Obj
+3	vyrovnával	VpYS---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	1	C=-------------	Adv
+6	:	Z:-------------	Coord
+7	1	C=-------------	Adv
+8	Brazilec	NNMS1-----A----	Atr
+9	Sergio	NNMS1-----A----	Sb
+10	,	Z:-------------	Coord
+11	Basler	NNMS1-----A----	Sb
+12	uzavíral	VpYS---XR-AA---	Pred
+13	účet	NNIS4-----A----	Obj
+14	svým	P8ZS7----------	Atr
+15	druhým	CrIS7----------	Atr
+16	gólem	NNIS7-----A----	Adv
+17	v	RR--6----------	AuxP
+18	80	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	minutě	NNFS6-----A----	AtrAdv
+21	.	Z:-------------	AuxK
+
+ln95049-026-p5s1A
+1	Londýn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-026-p5s1B
+1	Vedoucí	AGIS1-----A----	Atr
+2	celek	NNIS1-----A----	Sb
+3	nejvyšší	AAFS2----3A----	Atr
+4	anglické	AAFS2----1A----	Atr
+5	divize	NNFS2-----A----	Atr
+6	Blackburn	NNIS1-----A----	Atr
+7	Rovers	NNMS1-----A----	Atr
+8	sice	Db-------------	AuxY
+9	jen	TT-------------	AuxZ
+10	remízoval	VpYS---XR-AA---	Pred
+11	se	RV--7----------	AuxP
+12	čtrnáctým	CrIS7----------	Atr
+13	týmem	NNIS7-----A----	Obj
+14	tabulky	NNFS2-----A----	Atr
+15	Norwich	NNIS1-----A----	Atr
+16	City	NNNXX-----A----	Atr
+17	(	Z:-------------	AuxG
+18	0	C=-------------	Adv
+19	:	Z:-------------	Coord
+20	0	C=-------------	Adv
+21	)	Z:-------------	AuxG
+22	,	Z:-------------	AuxX
+23	ale	J^-------------	Coord
+24	svůj	P8IS4----------	Atr
+25	náskok	NNIS4-----A----	Obj
+26	před	RR--7----------	AuxP
+27	druhým	CrIS7----------	Atr
+28	Manchesterem	NNIS7-----A----	Atr
+29	United	AAXXX----1A----	Atr
+30	přesto	Dg-------1A----	Adv
+31	zvýšil	VpYS---XR-AA---	Pred
+32	na	RR--4----------	AuxP
+33	tři	ClXP4----------	Atr
+34	body	NNIP4-----A----	Obj
+35	.	Z:-------------	AuxK
+
+ln95049-026-p5s2
+1	Jediný	AAMS1----1A----	Atr
+2	vážný	AAMS1----1A----	Atr
+3	soupeř	NNMS1-----A----	Sb
+4	Blackburnu	NNIS2-----A----	Atr
+5	na	RR--6----------	AuxP
+6	cestě	NNFS6-----A----	AtrAdv
+7	k	RR--3----------	AuxP
+8	titulu	NNIS3-----A----	Atr
+9	totiž	Db-------------	AuxY
+10	prohrál	VpYS---XR-AA---	Pred
+11	s	RR--7----------	AuxP
+12	Evertonem	NNIS7-----A----	Obj
+13	na	RR--6----------	AuxP
+14	jeho	PSXXXZS3-------	Atr
+15	hřišti	NNNS6-----A----	Adv
+16	(	Z:-------------	AuxG
+17	0	C=-------------	Adv
+18	:	Z:-------------	Coord
+19	1	C=-------------	Adv
+20	)	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+ln95049-026-p5s3
+1	Pro	RR--4----------	AuxP
+2	Everton	NNIS4-----A----	Adv
+3	to	PDNS1----------	Sb
+4	byla	VpQW---XR-AA---	Pred
+5	vůbec	Db-------------	AuxZ
+6	první	CrFS1----------	Atr
+7	branka	NNFS1-----A----	Pnom
+8	do	RR--2----------	AuxP
+9	sítě	NNFS2-----A----	Atr
+10	Manchesteru	NNIS2-----A----	Atr
+11	United	AAXXX----1A----	Atr
+12	na	RR--6----------	AuxP
+13	vlastním	AANS6----1A----	Atr
+14	hřišti	NNNS6-----A----	Adv
+15	po	RR--6----------	AuxP
+16	více	Dg-------2A----	Atr
+17	než	J,-------------	AuxC
+18	pěti	Cn-P6----------	Adv
+19	letech	NNNP6-----A----	Adv
+20	,	Z:-------------	Coord
+21	pro	RR--4----------	AuxP
+22	hosty	NNMP4-----A----	ExD
+23	zase	Db-------------	ExD
+24	teprve	Db-------------	AuxZ
+25	pátá	CrFS1----------	Atr
+26	letošní	AAFS1----1A----	Atr
+27	prohra	NNFS1-----A----	ExD
+28	.	Z:-------------	AuxK
+
+ln95049-026-p5s4
+1	Zápas	NNIS1-----A----	Sb
+2	začal	VpYS---XR-AA---	Pred
+3	s	RR--7----------	AuxP
+4	dvacetiminutovým	AANS7----1A----	Atr
+5	zpožděním	NNNS7-----A----	Adv
+6	kvůli	RR--3----------	AuxP
+7	dopravní	AAFS3----1A----	Atr
+8	zácpě	NNFS3-----A----	Adv
+9	na	RR--6----------	AuxP
+10	nedaleké	AAFS6----1N----	Atr
+11	dálnici	NNFS6-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95049-026-p5s5
+1	Arsenal	NNIS1-----A----	Sb
+2	Londýn	NNIS1-----A----	Atr
+3	zdolal	VpYS---XR-AA---	Pred
+4	Crystal	NNIS4-----A----	Obj
+5	Palace	NNIXX-----A----	Atr
+6	na	RR--6----------	AuxP
+7	jeho	PSXXXZS3-------	Atr
+8	hřišti	NNNS6-----A----	Adv
+9	3	C=-------------	Adv
+10	:	Z:-------------	Coord
+11	0	C=-------------	Adv
+12	.	Z:-------------	AuxK
+
+ln95049-026-p5s6
+1	K	RR--3----------	AuxP
+2	útoku	NNIS3-----A----	Adv
+3	zavelel	VpYS---XR-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	24	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	minutě	NNFS6-----A----	Adv
+8	Paul	NNMS1-----A----	Atr
+9	Merson	NNMS1-----A----	Sb
+10	a	J^-------------	Coord
+11	úspěch	NNIS4-----A----	Obj
+12	dovršil	VpYS---XR-AA---	Pred
+13	dvěma	ClXP7----------	Atr
+14	góly	NNIP7-----A----	Adv
+15	Kiwomya	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95049-026-p6s1A
+1	Madrid	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-026-p6s1B
+1	FC	NNIXX-----A---8	Sb
+2	Barcelona	NNFS1-----A----	Atr
+3	dokázala	VpQW---XR-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	23	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	kole	NNNS6-----A----	Adv
+8	španělské	AAFS2----1A----	Atr
+9	ligy	NNFS2-----A----	Atr
+10	vyhrát	Vf--------A----	Obj
+11	na	RR--6----------	AuxP
+12	hřišti	NNNS6-----A----	Adv
+13	Compostely	NNFS2-----A----	Atr
+14	brankami	NNFP7-----A----	Adv
+15	Cruyffa	NNMS2-----A----	Atr
+16	a	J^-------------	Coord
+17	Beguiristaina	NNMS2-----A----	Atr
+18	a	J^-------------	Coord
+19	zdá	VB-S---3P-AA---	Pred
+20	se	P7-X4----------	AuxT
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	překonala	VpQW---XR-AA---	Sb
+24	krizi	NNFS4-----A----	Obj
+25	z	RR--2----------	AuxP
+26	minulých	AANP2----1A----	Atr
+27	kol	NNNP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95049-026-p6s2
+1	Za	RR--4----------	AuxP
+2	domácí	AAMP4----1A----	Atr
+3	fotbalisty	NNMP4-----A----	Adv
+4	dokázal	VpYS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	tomto	PDZS6----------	Atr
+7	střetnutí	NNNS6-----A----	Adv
+8	už	Db-------------	AuxZ
+9	jen	TT-------------	AuxZ
+10	v	RR--6----------	AuxP
+11	79	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	minutě	NNFS6-----A----	Adv
+14	snížit	Vf--------A----	Obj
+15	Llorente	NNMS1-----A----	Sb
+16	na	RR--4----------	AuxP
+17	konečných	AANP2----1A----	Atr
+18	1	C=-------------	Obj
+19	:	Z:-------------	Coord
+20	2	C=-------------	Obj
+21	.	Z:-------------	AuxK
+
+ln95049-026-p6s3
+1	Výhra	NNFS1-----A----	Sb
+2	vynesla	VpQW---XR-AA---	Pred
+3	fotbalisty	NNMP4-----A----	Obj
+4	z	RR--2----------	AuxP
+5	katalánské	AAFS2----1A----	Atr
+6	metropole	NNFS2-----A----	Atr
+7	na	RR--4----------	AuxP
+8	druhé	CrNS4----------	Atr
+9	místo	NNNS4-----A----	Adv
+10	tabulky	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95049-026-p6s4
+1	Na	RR--4----------	AuxP
+2	třetí	CrFS4----------	Atr
+3	příčku	NNFS4-----A----	Adv
+4	naopak	Db-------------	Adv
+5	klesla	VpQW---XR-AA--1	Pred
+6	La	AAFSX----1A----	Atr
+7	Coruňa	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	prohrála	VpQW---XR-AA---	Atr
+11	s	RR--7----------	AuxP
+12	Espaňolem	NNIS7-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95049-026-p6s5
+1	Vedoucí	AGFS4-----A----	Atr
+2	příčku	NNFS4-----A----	Obj
+3	si	P7-X3----------	Adv
+4	se	RV--7----------	AuxP
+5	čtyřbodovým	AAIS7----1A----	Atr
+6	náskokem	NNIS7-----A----	Adv
+7	drží	VB-S---3P-AA---	Pred
+8	Real	NNIS1-----A----	Atr
+9	Madrid	NNIS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	remizoval	VpYS---XR-AA---	Atr
+13	na	RR--6----------	AuxP
+14	hřišti	NNNS6-----A----	Adv
+15	Bilbaa	NNNS2-----A----	Atr
+16	1	C=-------------	Adv
+17	:	Z:-------------	Coord
+18	1	C=-------------	Adv
+19	,	Z:-------------	AuxX
+20	když	J,-------------	AuxC
+21	jeho	PSXXXZS3-------	Atr
+22	branku	NNFS4-----A----	Obj
+23	zaznamenal	VpYS---XR-AA---	Adv
+24	nejlepší	AAMS1----3A----	Atr
+25	střelec	NNMS1-----A----	Atr
+26	soutěže	NNFS2-----A----	Atr
+27	Zamorano	NNMS1-----A----	Sb
+28	.	Z:-------------	AuxK
+

@@ -1,0 +1,214 @@
+ln94206-1-p1s1
+1	Lidé	NNMP1-----A---1	ExD
+
+ln94206-1-p2s1
+1	ING	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	PETR	NNMS1-----A----	Atr
+4	KARAS	NNMS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	CSc	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	(	Z:-------------	ExD
+9	53	C=-------------	ExD
+10	)	Z:-------------	ExD
+11	,	Z:-------------	Apos
+12	generální	AAMS1----1A----	Atr
+13	ředitel	NNMS1-----A----	Sb
+14	ČEZ	NNIPX-----A---8	Atr
+15	a	J^-------------	Coord
+16	předseda	NNMS1-----A----	Sb
+17	jeho	PSXXXZS3-------	Atr
+18	představenstva	NNNS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	je	VB-S---3P-AA---	Pred
+21	absolventem	NNMS7-----A----	Pnom
+22	elektrotechnické	AAFS2----1A----	Atr
+23	fakulty	NNFS2-----A----	Atr
+24	ČVUT	NNNXX-----A---8	Atr
+25	a	J^-------------	Coord
+26	postgraduálního	AANS2----1A----	Atr
+27	studia	NNNS2-----A----	Atr
+28	v	RR--6----------	AuxP
+29	oboru	NNIS6-----A----	AuxP
+30	metod	NNFP2-----A----	Atr
+31	operační	AAFS2----1A----	Atr
+32	analýzy	NNFS2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94206-1-p2s3
+1	V	RR--6----------	AuxP
+2	energetice	NNFS6-----A----	Adv
+3	pracuje	VB-S---3P-AA---	Pred
+4	od	RR--2----------	AuxP
+5	roku	NNIS2-----A---1	Adv
+6	1964	C=-------------	Atr
+7	.	Z:-------------	AuxK
+
+ln94206-1-p2s4
+1	Je	VB-S---3P-AA---	Pred
+2	autorem	NNMS7-----A----	Pnom
+3	řady	NNFS2-----A----	Atr
+4	učebnic	NNFP2-----A----	Atr
+5	z	RR--2----------	AuxP
+6	oblasti	NNFS2-----A----	Atr
+7	údržby	NNFS2-----A----	Atr
+8	a	J^-------------	Coord
+9	oprav	NNFP2-----A----	Atr
+10	elektráren	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94206-1-p2s5
+1	Od	RR--2----------	AuxP
+2	r	NNIXX-----A---8	Adv
+3	.	Z:-------------	AuxG
+4	1991	C=-------------	Atr
+5	je	VB-S---3P-AA---	Pred
+6	předsedou	NNMS7-----A----	Pnom
+7	Svazu	NNIS2-----A----	Atr
+8	zaměstnavatelů	NNMP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	české	AAFS6----1A----	Atr
+11	energetice	NNFS6-----A----	Atr
+12	a	J^-------------	Coord
+13	letos	Db-------------	Adv
+14	se	P7-X4----------	AuxT
+15	stal	VpYS---XR-AA---	Pred
+16	též	Db-------------	Adv
+17	viceprezidentem	NNMS7-----A----	Obj
+18	Svazu	NNIS2-----A----	Atr
+19	průmyslu	NNIS2-----A----	Atr
+20	ČR	NNFXX-----A---8	AtrAtr
+21	.	Z:-------------	AuxK
+
+ln94206-1-p3s1
+1	GABRIEL	NNMS1-----A----	Atr
+2	EICHLER	NNMS1-----A----	Sb
+3	(	Z:-------------	ExD
+4	44	C=-------------	ExD
+5	)	Z:-------------	ExD
+6	,	Z:-------------	Apos
+7	od	RR--2----------	AuxP
+8	dubna	NNIS2-----A----	Atr
+9	1994	C=-------------	Atr
+10	první	CrMS1----------	Atr
+11	místopředseda	NNMS1-----A----	Sb
+12	představenstva	NNNS2-----A----	Atr
+13	ČEZ	NNIPX-----A---8	Atr
+14	,	Z:-------------	AuxX
+15	je	VB-S---3P-AA---	Pred
+16	zakladatelem	NNMS7-----A----	Pnom
+17	a	J^-------------	Coord
+18	prezidentem	NNMS7-----A----	Pnom
+19	investiční	AAFS2----1A----	Atr
+20	a	J^-------------	Coord
+21	konzultační	AAFS2----1A----	Atr
+22	firmy	NNFS2-----A----	Atr
+23	Benson	AAXXX----1A----	Atr
+24	Oak	NNIXX-----A----	Atr
+25	,	Z:-------------	AuxX
+26	Inc	AAXXX----1A---8	Atr
+27	.	Z:-------------	AuxG
+28	,	Z:-------------	AuxX
+29	která	P4FS1----------	Sb
+30	se	P7-X4----------	AuxT
+31	angažovala	VpQW---XR-AA---	Atr
+32	např	Db------------8	AuxZ
+33	.	Z:-------------	AuxG
+34	v	RR--6----------	AuxP
+35	privatizaci	NNFS6-----A----	Adv
+36	českých	AAIP2----1A----	Atr
+37	a	J^-------------	Coord
+38	slovenských	AAIP2----1A----	Atr
+39	podniků	NNIP2-----A----	Atr
+40	a	J^-------------	Coord
+41	v	RR--6----------	AuxP
+42	přímých	AAFP6----1A----	Atr
+43	zahraničních	AAFP6----1A----	Atr
+44	investicích	NNFP6-----A----	Adv
+45	.	Z:-------------	AuxK
+
+ln94206-1-p4s1
+1	Narodil	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	v	RR--6----------	AuxP
+4	Bratislavě	NNFS6-----A----	Adv
+5	,	Z:-------------	AuxX
+6	od	RR--2----------	AuxP
+7	r	NNIXX-----A---8	Adv
+8	.	Z:-------------	AuxG
+9	1968	C=-------------	Atr
+10	žil	VpYS---XR-AA---	Pred
+11	v	RR--6----------	AuxP
+12	USA	NNIPX-----A----	Adv
+13	a	J^-------------	Coord
+14	je	VB-S---3P-AA---	Pred
+15	tamním	AAMS7----1A----	Atr
+16	občanem	NNMS7-----A----	Pnom
+17	.	Z:-------------	AuxK
+
+ln94206-1-p4s2
+1	Na	RR--6----------	AuxP
+2	několika	Ca--6----------	Atr
+3	amerických	AAFP6----1A----	Atr
+4	univerzitách	NNFP6-----A----	Adv
+5	studoval	VpYS---XR-AA---	Pred
+6	ekonomii	NNFS4-----A----	Obj
+7	a	J^-------------	Coord
+8	mezinárodní	AAIP4----1A----	Atr
+9	vztahy	NNIP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94206-1-p4s3
+1	Patnáct	Cn-S4----------	Adv
+2	let	NNNP2-----A----	Atr
+3	působil	VpYS---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	různých	AAFP6----1A----	Atr
+6	funkcích	NNFP6-----A----	Adv
+7	v	RR--6----------	AuxP
+8	Bank	NNFXX-----A----	Atr
+9	of	RR--X----------	Atr
+10	America	NNFXX-----A----	Adv
+11	,	Z:-------------	Coord
+12	naposledy	Db-------------	ExD
+13	jako	J,-------------	AuxY
+14	viceprezident	NNMS1-----A----	ExD
+15	a	J^-------------	Coord
+16	hlavní	AAMS1----1A----	Atr
+17	mezinárodní	AAMS1----1A----	Atr
+18	ekonom	NNMS1-----A----	ExD
+19	ředitelství	NNNS2-----A----	Atr
+20	banky	NNFS2-----A----	Atr
+21	v	RR--6----------	AuxP
+22	San	AAXXX----1A----	Atr
+23	Francisku	NNNS6-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94206-1-p4s4
+1	V	RR--6----------	AuxP
+2	r	NNIXX-----A---8	Adv
+3	.	Z:-------------	AuxG
+4	1992	C=-------------	Atr
+5	byl	VpYS---XR-AA---	Pred
+6	viceprezidentem	NNMS7-----A----	Pnom
+7	Central	AAXXX----1A----	Atr
+8	European	AAXXX----1A----	Atr
+9	Development	AAXXX----1A----	Atr
+10	Corporation	NNFXX-----A----	Atr
+11	,	Z:-------------	Apos
+12	investiční	AAFS2----1A----	Atr
+13	společnosti	NNFS2-----A----	Atr
+14	pracující	AGFS2-----A----	Atr
+15	ve	RV--6----------	AuxP
+16	střední	AAFS6----1A----	Atr
+17	a	J^-------------	Coord
+18	východní	AAFS6----1A----	Atr
+19	Evropě	NNFS6-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln94206-1-p4s5
+1	(	Z:-------------	ExD
+2	eko	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

@@ -1,0 +1,94 @@
+ln94204-65-p1s1
+1	Vyděrači	NNMP1-----A----	Sb
+2	dopadeni	VsMP---XX-AP---	Pred
+
+ln94204-65-p2s1A
+1	Nový	AAIS1----1A----	Atr
+2	Jičín	NNIS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	mot	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+ln94204-65-p2s1B
+1	Dva	ClYP1----------	Atr
+2	Ukrajinci	NNMP1-----A----	Sb
+3	a	J^-------------	Coord
+4	jeden	ClYS1----------	Atr
+5	Čech	NNMS1-----A----	Sb
+6	unesli	VpMP---XR-AA---	Pred
+7	v	RR--6----------	AuxP
+8	srpnu	NNIS6-----A----	Adv
+9	od	RR--2----------	AuxP
+10	plaveckého	AAIS2----1A----	Atr
+11	bazénu	NNIS2-----A----	Adv
+12	dva	ClYP4----------	Atr
+13	podnikatele	NNMP4-----A----	Obj
+14	a	J^-------------	Coord
+15	zavezli	VpMP---XR-AA---	Pred
+16	je	PPXP4--3-------	Obj
+17	do	RR--2----------	AuxP
+18	lesa	NNIS2-----A----	Adv
+19	u	RR--2----------	AuxP
+20	obce	NNFS2-----A----	Atr
+21	Tichá	NNFS1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94204-65-p2s2
+1	Jednoho	ClMS4----------	Obj
+2	upoutali	VpMP---XR-AA---	Pred
+3	kovovými	AANP7----1A----	Atr
+4	pouty	NNNP7-----A----	Adv
+5	ke	RV--3----------	AuxP
+6	stromu	NNIS3-----A----	Adv
+7	,	Z:-------------	Coord
+8	druhého	CrMS4----------	Obj
+9	odvezli	VpMP---XR-AA---	Pred
+10	do	RR--2----------	AuxP
+11	kanceláře	NNFS2-----A----	Adv
+12	jeho	PSXXXZS3-------	Atr
+13	firmy	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kde	Db-------------	Adv
+16	ho	PHZS4--3-------	Obj
+17	donutili	VpMP---XR-AA---	Atr
+18	podepsat	Vf--------A----	Obj
+19	dlužní	AAIS4----1A----	Atr
+20	úpis	NNIS4-----A----	Obj
+21	na	RR--4----------	AuxP
+22	300000	C=-------------	Atr
+23	Kč	NNFXX-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94204-65-p2s3
+1	Jako	J,-------------	AuxY
+2	zástavu	NNFS4-----A----	Atv
+3	si	P7-X3----------	AuxT
+4	přivlastnili	VpMP---XR-AA---	Pred
+5	podnikatelovu	AUFS4M---------	Atr
+6	mazdu	NNFS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln94204-65-p2s4
+1	Vydíraní	AAMP1----1A----	Atr
+2	podnikatelé	NNMP1-----A----	Sb
+3	to	PDNS4----------	Obj
+4	oznámili	VpMP---XR-AA---	Pred
+5	Policii	NNFS3-----A----	Obj
+6	ČR	NNFXX-----A---8	Atr
+7	,	Z:-------------	AuxX
+8	jejíž	P1XP1FS3-------	Atr
+9	kriminalisté	NNMP1-----A----	Sb
+10	všechny	PLYP4----------	Atr
+11	vyděrače	NNMP4-----A----	Obj
+12	dopadli	VpMP---XR-AA--1	Atr
+13	.	Z:-------------	AuxK
+
+ln94204-65-p2s5
+1	Soudce	NNMS1-----A----	Sb
+2	je	PPXP4--3-------	Obj
+3	vzal	VpYS---XR-AA---	Pred
+4	do	RR--2----------	AuxP
+5	vazby	NNFS2-----A----	Adv
+6	.	Z:-------------	AuxK
+

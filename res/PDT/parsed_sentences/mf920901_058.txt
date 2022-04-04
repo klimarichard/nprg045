@@ -1,0 +1,202 @@
+mf920901-058-p2s1
+1	Mexičan	NNMS1-----A----	Atr
+2	Jimenez	NNMS1-----A----	Sb
+3	vyhrál	VpYS---XR-AA---	Pred
+4	maratón	NNIS4-----A----	Obj
+5	v	RR--6----------	AuxP
+6	San	AAXXX----1A----	Atr
+7	Francisku	NNNS6-----A----	AtrAdv
+8	v	RR--6----------	AuxP
+9	čase	NNIS6-----A----	Adv
+10	2	C=-------------	Atr
+11	:	Z:-------------	AuxG
+12	16	C=-------------	Atr
+13	:	Z:-------------	Coord
+14	44	C=-------------	Atr
+15	.	Z:-------------	AuxK
+
+mf920901-058-p2s2
+1	Mezi	RR--7----------	AuxP
+2	ženami	NNFP7-----A----	Adv
+3	byla	VpQW---XR-AA---	Pred
+4	nejrychlejší	AAFS1----3A----	Pnom
+5	Bogačevová	NNFS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	Kyrgyzstánu	NNIS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	čase	NNIS6-----A----	Adv
+10	2	C=-------------	Atr
+11	:	Z:-------------	AuxG
+12	36	C=-------------	Atr
+13	:	Z:-------------	Coord
+14	54	C=-------------	Atr
+15	hodiny	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920901-058-p3s1
+1	Cyklistická	AAFS1----1A----	Atr
+2	extraliga	NNFS1-----A----	ExD
+3	PM	NNIXX-----A---8	Atr
+4	Eurotrade	NNIXX-----A----	Atr
+5	po	RR--6----------	AuxP
+6	15	C=-------------	Atr
+7	závodech	NNIP6-----A----	Atr
+8	(	Z:-------------	AuxG
+9	zbývají	VB-P---3P-AA---	Pred
+10	jen	TT-------------	AuxZ
+11	dva	ClYP1----------	Atr
+12	závody	NNIP1-----A----	Sb
+13	)	Z:-------------	AuxG
+14	:	Z:-------------	AuxG
+15	1	C=-------------	Atr
+16	.	Z:-------------	AuxK
+
+mf920901-058-p3s2
+1	Trkal	NNMS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	SKP	NNIXX-----A---8	Atr
+4	Plzeň	NNFS1-----A----	ExD
+5	)	Z:-------------	ExD
+6	a	J^-------------	Coord
+7	Velecký	NNMS1-----A----	ExD
+8	(	Z:-------------	ExD
+9	Milevsko	NNNS1-----A----	ExD
+10	)	Z:-------------	ExD
+11	oba	ClYP1----------	ExD
+12	371	C=-------------	Atr
+13	bodů	NNIP2-----A----	ExD
+14	,	Z:-------------	ExD
+15	3	C=-------------	ExD
+16	.	Z:-------------	AuxK
+
+mf920901-058-p3s3
+1	Zaduban	NNMS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	Dubnica	NNFS1-----A----	ExD
+4	)	Z:-------------	ExD
+5	368	C=-------------	ExD
+6	,	Z:-------------	Coord
+7	4	C=-------------	ExD
+8	.	Z:-------------	AuxK
+
+mf920901-058-p3s4
+1	T	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Sedláček	NNMS1-----A----	ExD
+4	320	C=-------------	ExD
+5	,	Z:-------------	Coord
+6	5	C=-------------	ExD
+7	.	Z:-------------	AuxK
+
+mf920901-058-p3s5
+1	Padrnos	NNMS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	oba	ClYP1----------	ExD
+4	Dukla	NNFS1-----A----	Atr
+5	Brno	NNNS1-----A----	ExD
+6	)	Z:-------------	ExD
+7	281	C=-------------	ExD
+8	.	Z:-------------	AuxK
+
+mf920901-058-p3s6
+1	Družstva	NNNP1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	1	C=-------------	Atr
+4	.	Z:-------------	AuxK
+
+mf920901-058-p3s7
+1	Dukla	NNFS1-----A----	ExD
+2	Brno	NNNS1-----A----	Atr
+3	1379	C=-------------	ExD
+4	,	Z:-------------	Coord
+5	2	C=-------------	ExD
+6	.	Z:-------------	AuxK
+
+mf920901-058-p3s8
+1	SKP	NNIXX-----A---8	Atr
+2	Plzeň	NNFS1-----A----	ExD
+3	1300	C=-------------	ExD
+4	,	Z:-------------	Coord
+5	3	C=-------------	ExD
+6	.	Z:-------------	AuxK
+
+mf920901-058-p3s9
+1	Milevsko	NNNS1-----A----	ExD
+2	1023	C=-------------	ExD
+3	.	Z:-------------	AuxK
+
+mf920901-058-p4s1
+1	Třetí	CrNS4----------	Atr
+2	místo	NNNS4-----A----	Obj
+3	získali	VpMP---XR-AA---	Pred
+4	basketbalisté	NNMP1-----A----	Sb
+5	NH	NNFXX-----A---8	Atr
+6	Anes	NNXXX-----A----	Atr
+7	Ostrava	NNFS1-----A----	Atr
+8	na	RR--6----------	AuxP
+9	turnaji	NNIS6-----A----	Adv
+10	ve	RV--6----------	AuxP
+11	francouzském	AANS6----1A----	Atr
+12	městě	NNNS6-----A----	Atr
+13	Tarare	NNNXX-----A----	Atr
+14	po	RR--6----------	AuxP
+15	prohře	NNFS6-----A----	Adv
+16	s	RR--7----------	AuxP
+17	domácími	AAMP7----1A----	Atr
+18	83	C=-------------	Atr
+19	:	Z:-------------	Coord
+20	103	C=-------------	Atr
+21	a	J^-------------	Coord
+22	vítězství	NNNS6-----A----	Adv
+23	nad	RR--7----------	AuxP
+24	St	AAXXX----1A----	Atr
+25	.	Z:-------------	AuxG
+26	Jean	NNMS1-----A----	Atr
+27	Orleans	NNISX-----A----	Atr
+28	(	Z:-------------	ExD
+29	Fr	NNFXX-----A---8	ExD
+30	.	Z:-------------	AuxG
+31	)	Z:-------------	ExD
+32	98	C=-------------	Atr
+33	:	Z:-------------	Coord
+34	87	C=-------------	Atr
+35	.	Z:-------------	AuxK
+
+mf920901-058-p5s1
+1	Výhrou	NNFS7-----A----	Adv
+2	nad	RR--7----------	AuxP
+3	Francií	NNFS7-----A----	Atr
+4	3	C=-------------	Atr
+5	:	Z:-------------	Coord
+6	0	C=-------------	Atr
+7	se	P7-X4----------	AuxT
+8	čs	AAXXX----1A---8	Atr
+9	.	Z:-------------	AuxG
+10	volejbaloví	AAMP1----1A----	Atr
+11	junioři	NNMP1-----A----	Sb
+12	přiblížili	VpMP---XR-AA---	Pred
+13	na	RR--6----------	AuxP
+14	ME	NNNXX-----A---8	Adv
+15	k	RR--3----------	AuxP
+16	postupu	NNIS3-----A----	Adv
+17	do	RR--2----------	AuxP
+18	semifinále	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920901-058-p6s1
+1	Z	RR--2----------	AuxP
+2	technických	AAIP2----1A----	Atr
+3	důvodů	NNIP2-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	nekoná	VB-S---3P-NA---	Pred
+6	tuto	PDFS4----------	Atr
+7	sobotu	NNFS4-----A----	Adv
+8	2	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	ročník	NNIS1-----A----	Sb
+11	Podblanického	AAIS2----1A----	Atr
+12	duatlonu	NNIS2-----A----	Atr
+13	ve	RV--6----------	AuxP
+14	Vlašimi	NNFS6-----A----	AdvAtr
+15	.	Z:-------------	AuxK
+

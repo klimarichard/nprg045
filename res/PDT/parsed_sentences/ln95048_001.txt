@@ -1,0 +1,255 @@
+ln95048-001-p1s1
+1	Obce	NNFP1-----A----	Sb
+2	budou	VB-P---3F-AA---	Pred
+3	bohatší	AAFP1----2A----	Pnom
+4	o	RR--4----------	AuxP
+5	dividendy	NNFP4-----A----	Adv
+
+ln95048-001-p2s1A
+1	Akcie	NNFP1-----A----	Sb
+2	distributorů	NNMP2-----A----	Atr
+3	plynu	NNIS2-----A----	Atr
+4	a	J^-------------	Coord
+5	elektřiny	NNFS2-----A----	Atr
+6	budou	VB-P---3F-AA---	AuxV
+7	převedeny	VsTP---XX-AP---	Pred
+8	před	RR--7----------	AuxP
+9	valnými	AAFP7----1A----	Atr
+10	hromadami	NNFP7-----A----	Adv
+
+ln95048-001-p2s1B
+1	Ostrava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95048-001-p2s1C
+1	Do	RR--2----------	AuxP
+2	konce	NNIS2-----A----	Adv
+3	prvního	CrNS2----------	Atr
+4	pololetí	NNNS2-----A----	Atr
+5	by	Vc-------------	AuxV
+6	měl	VpYS---XR-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	uskutečněn	VsYS---XX-AP---	Obj
+9	bezúplatný	AAIS1----1A----	Atr
+10	převod	NNIS1-----A----	Sb
+11	34	C=-------------	Atr
+12	procent	NNNP2-----A----	Atr
+13	akcií	NNFP2-----A----	Atr
+14	distribučních	AAFP2----1A----	Atr
+15	elektrárenských	AAFP2----1A----	Atr
+16	a	J^-------------	Coord
+17	plynárenských	AAFP2----1A----	Atr
+18	společností	NNFP2-----A----	Atr
+19	obcím	NNFP3-----A----	Atr
+20	a	J^-------------	Coord
+21	městům	NNNP3-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95048-001-p2s2
+1	Včera	Db-------------	Adv
+2	v	RR--6----------	AuxP
+3	Ostravě	NNFS6-----A----	Adv
+4	to	PDNS4----------	Obj
+5	řekl	VpYS---XR-AA---	Pred
+6	předseda	NNMS1-----A----	Atr
+7	Fondu	NNIS2-----A----	Atr
+8	národního	AAIS2----1A----	Atr
+9	majetku	NNIS2-----A----	Atr
+10	Roman	NNMS1-----A----	Atr
+11	Češka	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln95048-001-p3s1
+1	Podle	RR--2----------	AuxP
+2	něho	P5ZS2--3------1	Adv
+3	se	P7-X4----------	AuxT
+4	tak	Db-------------	Adv
+5	stane	VB-S---3P-AA---	Pred
+6	ještě	Db-------------	AuxZ
+7	před	RR--7----------	AuxP
+8	uskutečněním	NNNS7-----A----	Adv
+9	valných	AAFP2----1A----	Atr
+10	hromad	NNFP2-----A----	Atr
+11	těchto	PDXP2----------	Atr
+12	společností	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	takže	J,-------------	AuxC
+15	obcím	NNFP3-----A----	Obj
+16	a	J^-------------	Coord
+17	městům	NNNP3-----A----	Obj
+18	,	Z:-------------	AuxX
+19	které	P4FP1----------	Sb
+20	už	Db-------------	Adv
+21	budou	VB-P---3F-AA---	Atr
+22	jejich	PSXXXXP3-------	Atr
+23	vlastníky	NNMP7-----A----	Pnom
+24	,	Z:-------------	AuxX
+25	by	Vc-------------	AuxV
+26	již	Db-------------	Adv
+27	mohly	VpTP---XR-AA---	Adv
+28	být	Vf--------A----	AuxV
+29	vyplaceny	VsTP---XX-AP---	Obj
+30	dividendy	NNFP1-----A----	Sb
+31	.	Z:-------------	AuxK
+
+ln95048-001-p3s2
+1	Bezúplatné	AAIP1----1A----	Atr
+2	převody	NNIP1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxT
+5	měly	VpTP---XR-AA---	Pred
+6	týkat	Vf--------A----	Obj
+7	asi	TT-------------	AuxZ
+8	6200	C=-------------	Obj
+9	obcí	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	měst	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95048-001-p4s1
+1	K	RR--3----------	AuxP
+2	privatizaci	NNFS3-----A----	Adv
+3	hutí	NNFP2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	severní	AAFS6----1A----	Atr
+6	Moravě	NNFS6-----A----	Atr
+7	a	J^-------------	Coord
+8	ve	RV--6----------	AuxP
+9	Slezsku	NNNS6-----A----	Atr
+10	Češka	NNMS1-----A----	Sb
+11	řekl	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	porada	NNFS1-----A----	Sb
+15	ekonomických	AAMP2----1A----	Atr
+16	ministrů	NNMP2-----A----	Atr
+17	schválila	VpQW---XR-AA---	Obj
+18	projekt	NNIS4-----A----	Obj
+19	privatizace	NNFS2-----A----	Atr
+20	Třineckých	AAFP2----1A----	Atr
+21	železáren	NNFP2-----A----	Atr
+22	a	J^-------------	Coord
+23	nyní	Db-------------	Adv
+24	už	Db-------------	Adv
+25	může	VB-S---3P-AA---	Obj
+26	být	Vf--------A----	AuxV
+27	otevřeno	VsNS---XX-AP---	Obj
+28	výběrové	AANS1----1A----	Atr
+29	řízení	NNNS1-----A----	Sb
+30	na	RR--4----------	AuxP
+31	vlastníka	NNMS4-----A----	Atr
+32	51	C=-------------	Atr
+33	procent	NNNP2-----A----	Atr
+34	akcií	NNFP2-----A----	Atr
+35	této	PDFS2----------	Atr
+36	firmy	NNFS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln95048-001-p4s2
+1	Přednost	NNFS4-----A----	Obj
+2	v	RR--6----------	AuxP
+3	prvním	CrNS6----------	Atr
+4	kole	NNNS6-----A----	Atr
+5	by	Vc-------------	AuxV
+6	měli	VpMP---XR-AA---	Pred
+7	dostat	Vf--------A----	Obj
+8	čeští	AAMP1----1A----	Atr
+9	zájemci	NNMP1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95048-001-p4s3
+1	S	RR--7----------	AuxP
+2	návrhem	NNIS7-----A----	Obj
+3	privatizace	NNFS2-----A----	Atr
+4	akciových	AAFP2----1A----	Atr
+5	společností	NNFP2-----A----	Atr
+6	Vítkovice	NNFP1-----A----	Atr
+7	a	J^-------------	Coord
+8	Nová	AAFS1----1A----	Atr
+9	huť	NNFS1-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	ekonomičtí	AAMP1----1A----	Atr
+12	ministři	NNMP1-----A----	Sb
+13	zcela	Db-------------	Adv
+14	neztotožnili	VpMP---XR-NA---	Pred
+15	,	Z:-------------	AuxX
+16	doporučili	VpMP---XR-AA---	Pred
+17	však	J^-------------	Coord
+18	návrh	NNIS4-----A----	Obj
+19	urychleně	Dg-------1A----	Adv
+20	dopracovat	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+ln95048-001-p4s4
+1	Podle	RR--2----------	AuxP
+2	R	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Češky	NNMS2-----A----	Adv
+5	je	VB-S---3P-AA---	Pred
+6	nezbytné	AANS1----1N----	Pnom
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	při	RR--6----------	AuxP
+10	privatizaci	NNFS6-----A----	Adv
+11	hutí	NNFP2-----A----	Atr
+12	měly	VpTP---XR-AA---	Sb
+13	všechny	PLFP1----------	ExD
+14	srovnatelné	AAFP4----1A----	Atr
+15	startovní	AAFP4----1A----	Atr
+16	podmínky	NNFP4-----A----	Obj
+17	vstupu	NNIS2-----A----	Atr
+18	do	RR--2----------	AuxP
+19	soukromého	AAIS2----1A----	Atr
+20	sektoru	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95048-001-p5s1
+1	Češka	NNMS1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	Ostravě	NNFS6-----A----	Adv
+4	navštívil	VpYS---XR-AA---	Pred
+5	také	Db-------------	AuxZ
+6	regionální	AANS4----1A----	Atr
+7	pracoviště	NNNS4-----A----	Obj
+8	FNM	NNIXX-----A---8	Atr
+9	.	Z:-------------	AuxK
+
+ln95048-001-p5s2
+1	Od	RR--2----------	AuxP
+2	ledna	NNIS2-----A----	Adv
+3	působí	VB-S---3P-AA---	Pred
+4	takovýchto	PDXP2----------	Atr
+5	pracovišť	NNNP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	ČR	NNFXX-----A---8	Adv
+8	sedm	Cn-S1----------	Sb
+9	a	J^-------------	Coord
+10	sídlí	VB-P---3P-AA---	Pred
+11	v	RR--6----------	AuxP
+12	bývalých	AANP6----1A----	Atr
+13	krajských	AANP6----1A----	Atr
+14	městech	NNNP6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95048-001-p5s3
+1	Mají	VB-P---3P-AA---	Pred
+2	50	C=-------------	Obj
+3	zaměstnanců	NNMP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	zajišťují	VB-P---3P-AA---	Atr
+7	veřejné	AAFP4----1A----	Atr
+8	dražby	NNFP4-----A----	Obj
+9	a	J^-------------	Coord
+10	soutěže	NNFP4-----A----	Obj
+11	a	J^-------------	Coord
+12	řeší	VB-P---3P-AA---	Atr
+13	problémy	NNIP4-----A----	Obj
+14	kolem	RR--2----------	AuxP
+15	placení	NNNS2-----A----	Atr
+16	či	J^-------------	Coord
+17	neplacení	NNNS2-----N----	Atr
+18	privatizovaného	AAIS2----1A----	Atr
+19	majetku	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+

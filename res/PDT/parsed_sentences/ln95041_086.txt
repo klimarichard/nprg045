@@ -1,0 +1,394 @@
+ln95041-086-p1s1
+1	Majetek	NNIS1-----A----	ExD
+2	KSČ	NNFXX-----A---8	Atr
+3	v	RR--6----------	AuxP
+4	rukou	NNFP6-----A----	ExD
+5	státu	NNIS2-----A----	Atr
+
+ln95041-086-p2s1A
+1	Z	RR--2----------	AuxP
+2	dvanáctimiliardového	AANS2----1A----	Atr
+3	jmění	NNNS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	dnes	Db-------------	Adv
+6	stát	NNIS1-----A----	Sb
+7	soudí	VB-S---3P-AA---	Pred
+8	o	RR--4----------	AuxP
+9	350	C=-------------	Obj
+10	miliónů	NNIP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+
+ln95041-086-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-086-p2s1C
+1	Přibližně	Dg-------1A----	AuxZ
+2	97	C=-------------	Obj
+3	procent	NNNP2-----A----	Atr
+4	veškerého	PLZS2----------	Atr
+5	majetku	NNIS2-----A----	Atr
+6	bývalé	AAFS2----1A----	Atr
+7	Komunistické	AAFS2----1A----	Atr
+8	strany	NNFS2-----A----	Atr
+9	Československa	NNNS2-----A----	Atr
+10	již	Db-------------	Adv
+11	převzal	VpYS---XR-AA---	Pred
+12	stát	NNIS1-----A----	Sb
+13	,	Z:-------------	Coord
+14	o	RR--4----------	AuxP
+15	zbytek	NNIS4-----A----	Atr
+16	probíhají	VB-P---3P-AA---	Pred
+17	soudní	AAIP1----1A----	Atr
+18	spory	NNIP1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+ln95041-086-p2s2
+1	Informoval	VpYS---XR-AA---	Pred
+2	o	RR--6----------	AuxP
+3	tom	PDZS6----------	Obj
+4	včera	Db-------------	Adv
+5	ministr	NNMS1-----A----	Atr
+6	hospodářství	NNNS2-----A----	Atr
+7	Karel	NNMS1-----A----	Atr
+8	Dyba	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	pod	RR--4----------	AuxP
+11	jehož	P1XXXZS3-------	Atr
+12	resort	NNIS4-----A----	Adv
+13	dnes	Db-------------	Adv
+14	tento	PDYS1----------	Atr
+15	majetek	NNIS1-----A----	Sb
+16	spadá	VB-S---3P-AA---	Atr
+17	.	Z:-------------	AuxK
+
+ln95041-086-p3s1
+1	Proces	NNIS4-----A----	Obj
+2	převzetí	NNNS2-----A----	Atr
+3	tohoto	PDZS2----------	Atr
+4	majetku	NNIS2-----A----	Atr
+5	státem	NNIS7-----A----	Atr
+6	označil	VpYS---XR-AA---	Pred
+7	ministr	NNMS1-----A----	Atr
+8	Dyba	NNMS1-----A----	Sb
+9	za	RR--4----------	AuxP
+10	uspokojivý	AAIS4----1A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95041-086-p3s2
+1	K	RR--3----------	AuxP
+2	chybám	NNFP3-----A----	Obj
+3	při	RR--6----------	AuxP
+4	něm	P5ZS6--3-------	Adv
+5	zřejmě	Dg-------1A----	AuxY
+6	došlo	VpNS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	nebyly	VpTP---XR-NA---	Pred
+9	prý	TT-------------	AuxY
+10	ale	J^-------------	Coord
+11	fatální	AAFP1----1A----	Pnom
+12	.	Z:-------------	AuxK
+
+ln95041-086-p3s3
+1	Ze	RV--2----------	AuxP
+2	zprávy	NNFS2-----A----	Obj
+3	o	RR--6----------	AuxP
+4	využití	NNNS6-----A----	Atr
+5	majetku	NNIS2-----A----	Atr
+6	bývalé	AAFS2----1A----	Atr
+7	KSČ	NNFXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	kterou	P4FS4----------	Obj
+10	před	RR--7----------	AuxP
+11	dvěma	ClXP7----------	Atr
+12	týdny	NNIP7-----A----	Adv
+13	projednala	VpQW---XR-AA---	Atr
+14	vláda	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	vyplývá	VB-S---3P-AA---	Pred
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	KSČ	NNFXX-----A---8	Sb
+20	v	RR--6----------	AuxP
+21	roce	NNIS6-----A---1	Adv
+22	1989	C=-------------	Atr
+23	vlastnila	VpQW---XR-AA---	Sb
+24	nebo	J^-------------	Coord
+25	užívala	VpQW---XR-AA---	Sb
+26	majetek	NNIS4-----A----	Obj
+27	ve	RV--6----------	AuxP
+28	výši	NNFS6-----A----	Atr
+29	12.6	C=-------------	Atr
+30	miliardy	NNFS2-----A----	Atr
+31	korun	NNFP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+ln95041-086-p3s4
+1	Po	RR--6----------	AuxP
+2	vrácení	NNNS6-----A----	Adv
+3	objektů	NNIP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	které	P4YP4----------	Obj
+6	měla	VpQW---XR-AA---	Atr
+7	pouze	Db-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	trvalém	AANS6----1A----	Atr
+10	užívání	NNNS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	a	J^-------------	Coord
+13	po	RR--6----------	AuxP
+14	rozdělení	NNNS6-----A----	Adv
+15	státu	NNIS2-----A----	Atr
+16	připadl	VpYS---XR-AA--1	Pred
+17	na	RR--4----------	AuxP
+18	Českou	AAFS4----1A----	Atr
+19	republiku	NNFS4-----A----	Adv
+20	majetek	NNIS1-----A----	Sb
+21	v	RR--6----------	AuxP
+22	celkové	AAFS6----1A----	Atr
+23	hodnotě	NNFS6-----A----	Atr
+24	6.3	C=-------------	Atr
+25	miliardy	NNFS2-----A----	Atr
+26	korun	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95041-086-p4s1
+1	Většina	NNFS1-----A----	Sb
+2	majetku	NNIS2-----A----	Atr
+3	KSČ	NNFXX-----A---8	Atr
+4	byla	VpQW---XR-AA---	AuxV
+5	podle	RR--2----------	AuxP
+6	ministra	NNMS2-----A----	Atr
+7	Dyby	NNMS2-----A----	Adv
+8	vydána	VsQW---XX-AP---	Pred
+9	státu	NNIS3-----A----	Obj
+10	již	Db-------------	AuxZ
+11	v	RR--6----------	AuxP
+12	roce	NNIS6-----A---1	Adv
+13	1990	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	tj	J^------------8	Apos
+16	.	Z:-------------	AuxG
+17	ještě	Db-------------	AuxZ
+18	před	RR--7----------	AuxP
+19	účinností	NNFS7-----A----	Adv
+20	ústavního	AAIS2----1A----	Atr
+21	zákona	NNIS2-----A----	Atr
+22	o	RR--6----------	AuxP
+23	navracení	NNNS6-----A----	Atr
+24	majetku	NNIS2-----A----	Atr
+25	bývalé	AAFS2----1A----	Atr
+26	KSČ	NNFXX-----A---8	Atr
+27	lidu	NNIS3-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95041-086-p4s2
+1	Výnosy	NNIP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	převzatého	AAIS2----1A----	Atr
+4	majetku	NNIS2-----A----	Atr
+5	byly	VpTP---XR-AA---	AuxV
+6	vesměs	Db-------------	Adv
+7	použity	VsTP---XX-AP---	Pred
+8	na	RR--4----------	AuxP
+9	humanitární	AAIP4----1A----	Atr
+10	účely	NNIP4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln95041-086-p4s3
+1	Do	RR--2----------	AuxP
+2	správy	NNFS2-----A----	Adv
+3	ministerstva	NNNS2-----A----	Atr
+4	hospodářství	NNNS2-----A----	Atr
+5	přišlo	VpNS---XR-AA---	Pred
+6	10	C=-------------	Sb
+7	hospodářských	AANP2----1A----	Atr
+8	zařízení	NNNP2-----A----	Atr
+9	a	J^-------------	Coord
+10	3	C=-------------	Atr
+11	akciové	AAFP1----1A----	Atr
+12	společnosti	NNFP1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln95041-086-p4s4
+1	Většina	NNFS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	byla	VpQW---XR-AA---	ExD
+5	či	J^-------------	Coord
+6	ještě	Db-------------	Adv
+7	je	VB-S---3P-AA---	AuxV
+8	likvidována	VsQW---XX-AP---	Pred
+9	.	Z:-------------	AuxK
+
+ln95041-086-p4s5
+1	Životaschopnými	AAIP7----1A----	Pnom
+2	se	P7-X4----------	AuxT
+3	ukázaly	VpTP---XR-AA---	Pred
+4	být	Vf--------A----	Obj
+5	pouze	Db-------------	AuxZ
+6	3	C=-------------	Atr
+7	typografické	AAIP1----1A----	Atr
+8	podniky	NNIP1-----A----	Sb
+9	a	J^-------------	Coord
+10	nakladatelství	NNNS1-----A----	Sb
+11	Svoboda	NNFS1-----A----	Atr
+12	v	RR--6----------	AuxP
+13	celkové	AAFS6----1A----	Atr
+14	hodnotě	NNFS6-----A----	Atr
+15	1.7	C=-------------	Atr
+16	miliardy	NNFS2-----A----	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95041-086-p4s6
+1	Jak	J,-------------	Adv
+2	LN	NNFPX-----A---8	Obj
+3	sdělil	VpYS---XR-AA---	Pred
+4	náměstek	NNMS1-----A----	Atr
+5	ministra	NNMS2-----A----	Atr
+6	Václav	NNMS1-----A----	Atr
+7	Kupka	NNMS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	privatizaci	NNFS4-----A----	Obj
+10	všech	PLXP2----------	Atr
+11	tří	ClXP2----------	Atr
+12	typografických	AAIP2----1A----	Atr
+13	podniků	NNIP2-----A----	Atr
+14	lze	VB-S---3P-AA---	Pred
+15	předpokládat	Vf--------A----	Sb
+16	v	RR--6----------	AuxP
+17	brzké	AAFS6----1A----	Atr
+18	době	NNFS6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln95041-086-p4s7
+1	Výnos	NNIS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	prodeje	NNIS2-----A----	Atr
+4	akcií	NNFP2-----A----	Atr
+5	by	Vc-------------	AuxV
+6	měl	VpYS---XR-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	použit	VsYS---XX-AP---	Obj
+9	na	RR--4----------	AuxP
+10	odškodnění	NNNS4-----A----	Adv
+11	českých	AAFP2----1A----	Atr
+12	obětí	NNFP2-----A----	Atr
+13	nacistické	AAFS2----1A----	Atr
+14	perzekuce	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95041-086-p4s8
+1	Případný	AAIS1----1A----	Atr
+2	přebytek	NNIS1-----A----	Sb
+3	prý	TT-------------	AuxY
+4	půjde	VB-S---3F-AA---	Pred
+5	na	RR--4----------	AuxP
+6	humanitární	AAIP4----1A----	Atr
+7	účely	NNIP4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln95041-086-p4s9
+1	K	RR--3----------	AuxP
+2	privatizaci	NNFS3-----A----	Obj
+3	dojde	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	případě	NNIS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	by	Vc-------------	AuxV
+10	Německo	NNNS1-----A----	Sb
+11	odškodnění	NNNS4-----A----	Obj
+12	českých	AAFP2----1A----	Atr
+13	obětí	NNFP2-----A----	Atr
+14	uhradilo	VpNS---XR-AA---	Atr
+15	.	Z:-------------	AuxK
+
+ln95041-086-p4s10
+1	S	RR--7----------	AuxP
+2	privatizací	NNFS7-----A----	Obj
+3	se	P7-X4----------	AuxR
+4	počítá	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	u	RR--2----------	AuxP
+7	nakladatelství	NNNS2-----A----	Adv
+8	Svoboda	NNFS1-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95041-086-p5s1
+1	Z	RR--2----------	AuxP
+2	majetku	NNIS2-----A----	Adv
+3	bývalé	AAFS2----1A----	Atr
+4	Komunistické	AAFS2----1A----	Atr
+5	strany	NNFS2-----A----	Atr
+6	Československa	NNNS2-----A----	Atr
+7	nebyly	VpTP---XR-NA---	AuxV
+8	podle	RR--2----------	AuxP
+9	ministra	NNMS2-----A----	Atr
+10	Dyby	NNMS2-----A----	Adv
+11	dosud	Db-------------	Adv
+12	státu	NNIS3-----A----	Obj
+13	předány	VsTP---XX-AP---	Pred
+14	zbytky	NNIP1-----A----	Sb
+15	jmění	NNNS2-----A----	Atr
+16	bývalého	AAIS2----1A----	Atr
+17	ústředního	AAIS2----1A----	Atr
+18	výboru	NNIS2-----A----	Atr
+19	strany	NNFS2-----A----	Atr
+20	v	RR--6----------	AuxP
+21	hodnotě	NNFS6-----A----	Atr
+22	300	C=-------------	Atr
+23	miliónů	NNIP2-----A----	Atr
+24	korun	NNFP2-----A----	Atr
+25	a	J^-------------	Coord
+26	finanční	AAIP1----1A----	Atr
+27	prostředky	NNIP1-----A----	Sb
+28	bývalých	AAIP2----1A----	Atr
+29	územních	AAIP2----1A----	Atr
+30	orgánů	NNIP2-----A----	Atr
+31	KSČ	NNFXX-----A---8	Atr
+32	ve	RV--6----------	AuxP
+33	výši	NNFS6-----A----	Atr
+34	50	C=-------------	Atr
+35	miliónů	NNIP2-----A----	Atr
+36	korun	NNFP2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln95041-086-p5s2
+1	O	RR--4----------	AuxP
+2	tyto	PDFP4----------	Atr
+3	položky	NNFP4-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	dodnes	Db-------------	Adv
+6	vedou	VB-P---3P-AA---	Pred
+7	soudní	AAIP1----1A----	Atr
+8	spory	NNIP1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln95041-086-p6s1
+1	Ministr	NNMS1-----A----	Atr
+2	hospodářství	NNNS2-----A----	Atr
+3	Karel	NNMS1-----A----	Atr
+4	Dyba	NNMS1-----A----	Sb
+5	dodal	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	jeho	PSXXXZS3-------	Atr
+9	úřadu	NNIS3-----A----	Obj
+10	není	VB-S---3P-NA---	Obj
+11	nic	PW--1----------	Sb
+12	známo	ACNS------A----	Pnom
+13	o	RR--6----------	AuxP
+14	tajných	AANP6----1A----	Atr
+15	zahraničních	AANP6----1A----	Atr
+16	kontech	NNNP6-----A----	Obj
+17	samotné	AAFS2----1A----	Atr
+18	KSČ	NNFXX-----A---8	Atr
+19	nebo	J^-------------	Coord
+20	jejích	PSXP2FS3-------	Atr
+21	čelných	AAMP2----1A----	Atr
+22	funkcionářů	NNMP2-----A----	Atr
+23	.	Z:-------------	AuxK
+

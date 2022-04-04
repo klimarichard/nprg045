@@ -1,0 +1,165 @@
+ln94208-30-p1s1
+1	Zvláštním	AAIS7----1A----	Atr
+2	vlakem	NNIS7-----A----	ExD
+3	na	RR--4----------	AuxP
+4	Pink	AAXXX----1A----	Atr
+5	Floyd	NNMPX-----A----	ExD
+
+ln94208-30-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94208-30-p2s1B
+1	Strahovský	AAIS1----1A----	Atr
+2	stadion	NNIS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	7	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	září	NNNS2-----A----	Adv
+7	před	RR--7----------	AuxP
+8	koncertem	NNIS7-----A----	Adv
+9	britské	AAFS2----1A----	Atr
+10	skupiny	NNFS2-----A----	Atr
+11	Pink	AAXXX----1A----	Atr
+12	Floyd	NNMPX-----A----	Atr
+13	otevřen	VsYS---XX-AP---	Pred
+14	až	TT-------------	AuxZ
+15	v	RR--4----------	AuxP
+16	18.00	C=-------------	Adv
+17	,	Z:-------------	Apos
+18	nikoli	Db------------1	AuxZ
+19	ve	RV--4----------	AuxP
+20	14.00	C=-------------	Adv
+21	,	Z:-------------	AuxX
+22	jak	Db-------------	Adv
+23	je	VB-S---3P-AA---	Pred
+24	uvedeno	VsNS---XX-AP---	Pnom
+25	na	RR--6----------	AuxP
+26	vstupenkách	NNFP6-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln94208-30-p2s2
+1	Pořádající	AGFS1-----A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	Mediaworld	NNIS1-----A----	Atr
+4	zároveň	Db-------------	Adv
+5	připomíná	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	doba	NNFS1-----A----	Sb
+9	zahájení	NNNS2-----A----	Atr
+10	koncertu	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	stanovená	AAFS1----1A----	Atr
+13	přibližně	Dg-------1A----	Adv
+14	na	RR--4----------	AuxP
+15	21	C=-------------	Atr
+16	.	Z:-------------	AuxG
+17	hodinu	NNFS4-----A----	Adv
+18	,	Z:-------------	AuxX
+19	zůstává	VB-S---3P-AA---	Obj
+20	nezměněna	VsQW---XX-NP---	Obj
+21	.	Z:-------------	AuxK
+
+ln94208-30-p2s3
+1	Zájemci	NNMP1-----A----	Sb
+2	o	RR--4----------	AuxP
+3	koncert	NNIS4-----A----	Atr
+4	,	Z:-------------	AuxX
+5	kteří	P4MP1----------	Sb
+6	neuspěli	VpMP---XR-NA---	Atr
+7	v	RR--6----------	AuxP
+8	mimopražských	AAIP6----1A----	Atr
+9	předprodejích	NNIP6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	mohou	VB-P---3P-AA--1	Pred
+12	vstupenky	NNFP4-----A----	Obj
+13	získat	Vf--------A----	Obj
+14	ve	RV--6----------	AuxP
+15	speciálních	AAIP6----1A----	Atr
+16	stáncích	NNIP6-----A----	Adv
+17	na	RR--6----------	AuxP
+18	Staroměstském	AANS6----1A----	Atr
+19	náměstí	NNNS6-----A----	AtrAdv
+20	,	Z:-------------	Coord
+21	Václavském	AANS6----1A----	Atr
+22	náměstí	NNNS6-----A----	AtrAdv
+23	a	J^-------------	Coord
+24	u	RR--2----------	AuxP
+25	Karlova	AUIS2M---------	Atr
+26	mostu	NNIS2-----A----	Atr
+27	v	RR--6----------	AuxP
+28	Praze	NNFS6-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94208-30-p2s4
+1	České	AAFP1----1A----	Atr
+2	dráhy	NNFP1-----A----	Sb
+3	kvůli	RR--3----------	AuxP
+4	koncertu	NNIS3-----A----	Adv
+5	vypraví	VB-P---3P-AA---	Pred
+6	mimořádné	AAIP4----1A----	Atr
+7	vlaky	NNIP4-----A----	Obj
+8	a	J^-------------	Coord
+9	posílí	VB-P---3P-AA---	Pred
+10	některé	PZYP4----------	Atr
+11	pravidelné	AAIP4----1A----	Atr
+12	spoje	NNIP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94208-30-p2s5
+1	Do	RR--2----------	AuxP
+2	Prahy	NNFS2-----A----	Adv
+3	hlavního	AANS2----1A----	Atr
+4	nádraží	NNNS2-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	7	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	9	C=-------------	Adv
+9	.	Z:-------------	AuxG
+10	například	Db-------------	AuxY
+11	vypraven	VsYS---XX-AP---	Pred
+12	mimořádný	AAIS1----1A----	Atr
+13	rychlík	NNIS1-----A----	Sb
+14	z	RR--2----------	AuxP
+15	Českých	AAFP2----1A----	Atr
+16	Budějovic	NNFP2-----A----	AtrAdv
+17	(	Z:-------------	ExD
+18	odjezd	NNIS1-----A----	ExD
+19	15.18	C=-------------	ExD
+20	)	Z:-------------	ExD
+21	,	Z:-------------	Coord
+22	který	P4YS1----------	Sb
+23	zastaví	VB-S---3P-AA---	Pred
+24	v	RR--6----------	AuxP
+25	Hluboké	NNFS6-----A----	Adv
+26	nad	RR--7----------	AuxP
+27	Vltavou	NNFS7-----A----	Adv
+28	-	Z:-------------	AuxG
+29	Zámostí	NNNS6-----A----	Atr
+30	,	Z:-------------	AuxX
+31	Veselí	NNNS6-----A----	Adv
+32	nad	RR--7----------	AuxP
+33	Lužnicí	NNFS7-----A----	Atr
+34	,	Z:-------------	AuxX
+35	Soběslavi	NNFS6-----A----	Adv
+36	,	Z:-------------	AuxX
+37	Táboře	NNIS6-----A----	Adv
+38	,	Z:-------------	AuxX
+39	Olbramovicích	NNFP6-----A----	Adv
+40	a	J^-------------	Coord
+41	Benešově	NNIS6-----A----	Adv
+42	u	RR--2----------	AuxP
+43	Prahy	NNFS2-----A----	Atr
+44	.	Z:-------------	AuxK
+
+ln94208-30-p2s6
+1	Zvláštní	AAIP1----1A----	Atr
+2	vlaky	NNIP1-----A----	Sb
+3	budou	VB-P---3F-AA---	AuxV
+4	vypraveny	VsTP---XX-AP---	Pred
+5	také	Db-------------	Adv
+6	po	RR--6----------	AuxP
+7	koncertě	NNIS6-----A----	Adv
+8	.	Z:-------------	AuxK
+

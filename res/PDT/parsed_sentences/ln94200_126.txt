@@ -1,0 +1,788 @@
+ln94200-126-p1s1
+1	Od	RR--2----------	AuxP
+2	vlády	NNFS2-----A----	Obj
+3	čekáme	VB-P---1P-AA---	Pred
+4	autonomní	AAFS4----1A----	Atr
+5	ekologickou	AAFS4----1A----	Atr
+6	politiku	NNFS4-----A----	Obj
+
+ln94200-126-p2s1A
+1	Václav	NNMS1-----A----	Atr
+2	Mezřický	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	Vedoucí	NNMS1-----A----	Atr
+5	katedry	NNFS2-----A----	ExD
+6	práva	NNNS2-----A----	Atr
+7	životního	AANS2----1A----	Atr
+8	prostředí	NNNS2-----A----	Atr
+9	na	RR--6----------	AuxP
+10	Právnické	AAFS6----1A----	Atr
+11	fakultě	NNFS6-----A----	Atr
+12	UK	NNFXX-----A---8	Atr
+
+ln94200-126-p2s1B
+1	V	RR--6----------	AuxP
+2	souvislosti	NNFS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	vládním	AANS7----1A----	Atr
+5	odmítnutím	NNNS7-----A----	Adv
+6	státní	AAFS2----1A----	Atr
+7	politiky	NNFS2-----A----	Atr
+8	životního	AANS2----1A----	Atr
+9	prostředí	NNNS2-----A----	Atr
+10	zaujal	VpYS---XR-AA---	Pred
+11	premiér	NNMS1-----A----	Atr
+12	Václav	NNMS1-----A----	Atr
+13	Klaus	NNMS1-----A----	Sb
+14	opět	Db-------------	Adv
+15	zásadní	AANS4----1A----	Atr
+16	stanovisko	NNNS4-----A----	Obj
+17	(	Z:-------------	ExD
+18	v	RR--6----------	AuxP
+19	LN	NNFPX-----A---8	ExD
+20	19	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	8	C=-------------	Atr
+23	.	Z:-------------	AuxG
+24	)	Z:-------------	ExD
+25	k	RR--3----------	AuxP
+26	této	PDFS3----------	Atr
+27	problematice	NNFS3-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94200-126-p2s2
+1	Označil	VpYS---XR-AA---	Pred
+2	tzv	AAXXX----1A---8	Atr
+3	.	Z:-------------	AuxG
+4	levicovou	AAFS4----1A----	Atr
+5	ekologii	NNFS4-----A----	Obj
+6	za	RR--4----------	AuxP
+7	odtrženou	AAFS4----1A----	Obj
+8	od	RR--2----------	AuxP
+9	ostatních	AAFP2----1A----	Atr
+10	dimenzí	NNFP2-----A----	Obj
+11	života	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	za	RR--4----------	AuxP
+14	pocit	NNIS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	.	Z:-------------	AuxG
+18	.	Z:-------------	AuxG
+19	.	Z:-------------	AuxG
+20	je	VB-S---3P-AA---	Atr
+21	možné	AANS1----1A----	Pnom
+22	poroučet	Vf--------A----	Sb
+23	větru	NNIS3-----A----	Obj
+24	,	Z:-------------	Coord
+25	dešti	NNIS3-----A----	Obj
+26	a	J^-------------	Coord
+27	geniálním	AANS7----1A----	Atr
+28	rozhodováním	NNNS7-----A----	Adv
+29	několika	Ca--2----------	Atr
+30	jedinců	NNMP2-----A----	Atr
+31	na	RR--6----------	AuxP
+32	tom	PDZS6----------	Atr
+33	či	J^-------------	Coord
+34	onom	PDZS6----------	Atr
+35	ministerstvu	NNNS6-----A----	Atr
+36	vše	PLNS4---------1	Obj
+37	vyřešit	Vf--------A----	Sb
+38	.	Z:-------------	AuxK
+
+ln94200-126-p2s3
+1	Naproti	RR--3----------	AuxP
+2	tomu	PDZS3----------	Adv
+3	v	RR--6----------	AuxP
+4	Klausově	AUNS6M---------	Atr
+5	pojetí	NNNS6-----A----	Adv
+6	je	VB-S---3P-AA---	Pred
+7	úsilí	NNNS1-----A----	Sb
+8	státu	NNIS2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	této	PDFS6----------	Atr
+11	oblasti	NNFS6-----A----	Atr
+12	okrajovým	AAIS7----1A----	Atr
+13	doplňkem	NNIS7-----A----	Pnom
+14	spontánního	AAIS2----1A----	Atr
+15	procesu	NNIS2-----A----	Atr
+16	rozhodování	NNNS2-----A----	Atr
+17	milionů	NNIP2-----A----	Atr
+18	občanů	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94200-126-p3s1
+1	Ponechme	Vi-P---1--A----	Pred
+2	stranou	Db-------------	Adv
+3	absurditu	NNFS4-----A----	Obj
+4	o	RR--6----------	AuxP
+5	poroučení	NNNS6-----A----	Atr
+6	větru	NNIS3-----A----	Atr
+7	,	Z:-------------	Coord
+8	dešti	NNIS3-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	jen	TT-------------	AuxZ
+12	dokazuje	VB-S---3P-AA---	Atr
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	V	NNMXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	Klaus	NNMS1-----A----	Sb
+18	dosud	Db-------------	Adv
+19	nerozlišuje	VB-S---3P-NA---	Obj
+20	mezi	RR--7----------	AuxP
+21	ekologií	NNFS7-----A----	Adv
+22	a	J^-------------	Coord
+23	učením	NNNS7-----A----	Adv
+24	akademika	NNMS2-----A----	Atr
+25	Lysenka	NNMS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94200-126-p3s2
+1	Nejde	VB-S---3P-NA---	Pred
+2	také	Db-------------	Adv
+3	o	RR--4----------	AuxP
+4	diskusi	NNFS4-----A----	Obj
+5	s	RR--7----------	AuxP
+6	ním	P5ZS7--3-------	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	o	RR--4----------	AuxP
+10	vysvětlení	NNNS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	které	P4NS4----------	Obj
+13	ekologové	NNMP1-----A----	Sb
+14	dluží	VB-P---3P-AA---	Atr
+15	veřejnosti	NNFS3-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94200-126-p4s1
+1	Předně	Dg-------1A----	ExD
+2	,	Z:-------------	AuxX
+3	dbát	Vf--------A----	Obj
+4	o	RR--4----------	AuxP
+5	šetrné	AANS4----1A----	Atr
+6	využívání	NNNS4-----A----	Obj
+7	přírodních	AAIP2----1A----	Atr
+8	zdrojů	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	ochranu	NNFS4-----A----	Obj
+11	přírodního	AANS2----1A----	Atr
+12	bohatství	NNNS2-----A----	Atr
+13	ukládá	VB-S---3P-AA---	Pred
+14	státu	NNIS3-----A----	Obj
+15	Ústava	NNFS1-----A----	Sb
+16	v	RR--6----------	AuxP
+17	článku	NNIS6-----A----	Adv
+18	7	C=-------------	Atr
+19	.	Z:-------------	AuxK
+
+ln94200-126-p4s2
+1	Neoliberální	AAFS1----1A----	Atr
+2	doktrína	NNFS1-----A----	Sb
+3	může	VB-S---3P-AA---	Pred
+4	této	PDFS3----------	Atr
+5	povinnosti	NNFS3-----A----	Obj
+6	podložit	Vf--------A----	Obj
+7	různý	AAIS4----1A----	Atr
+8	výklad	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	nemůže	VB-S---3P-NA---	Pred
+11	ji	PPFS4--3-------	Obj
+12	však	J^-------------	Coord
+13	potlačit	Vf--------A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94200-126-p4s3
+1	Ponechme	Vi-P---1--A----	Pred
+2	stranou	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	podobnou	AAFS4----1A----	Atr
+6	povinnost	NNFS4-----A----	Obj
+7	má	VB-S---3P-AA---	Obj
+8	stát	NNIS1-----A----	Sb
+9	k	RR--3----------	AuxP
+10	životnímu	AANS3----1A----	Atr
+11	prostředí	NNNS3-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94200-126-p4s4
+1	Podle	RR--2----------	AuxP
+2	Listiny	NNFS2-----A----	Adv
+3	základních	AANP2----1A----	Atr
+4	práv	NNNP2-----A----	Atr
+5	a	J^-------------	Coord
+6	svobod	NNFP2-----A----	Atr
+7	však	J^-------------	Coord
+8	výkonem	NNIS7-----A----	Adv
+9	vlastnického	AANS2----1A----	Atr
+10	ani	J^-------------	AuxZ
+11	jakéhokoli	PZZS2---------1	Atr
+12	jiného	AANS2----1A----	Atr
+13	práva	NNNS2-----A----	Atr
+14	nesmí	VB-S---3P-NA---	Pred
+15	nikdo	PWM-1----------	Sb
+16	ohrožovat	Vf--------A----	Obj
+17	či	J^-------------	Coord
+18	poškozovat	Vf--------A----	Obj
+19	životní	AANS4----1A----	Atr
+20	prostředí	NNNS4-----A----	Obj
+21	nad	RR--4----------	AuxP
+22	míru	NNFS4-----A----	Adv
+23	stanovenou	AAFS4----1A----	Atr
+24	zákonem	NNIS7-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln94200-126-p4s5
+1	Uplatňování	NNNS1-----A----	Sb
+2	zákonů	NNIP2-----A----	Atr
+3	patří	VB-S---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	základním	AAIP3----1A----	Atr
+6	účelům	NNIP3-----A----	Adv
+7	existence	NNFS2-----A----	Atr
+8	státu	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94200-126-p4s6
+1	Ten	PDYS1----------	Sb
+2	v	RR--6----------	AuxP
+3	této	PDFS6----------	Atr
+4	souvislosti	NNFS6-----A----	Adv
+5	vykonává	VB-S---3P-AA---	Pred
+6	policejní	AAFS4----1A----	Atr
+7	funkci	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	podobně	Dg-------1A----	Adv
+10	jako	J,-------------	AuxC
+11	při	RR--6----------	AuxP
+12	uplatňování	NNNS6-----A----	ExD
+13	předpisů	NNIP2-----A----	Atr
+14	trestního	AANS2----1A----	Atr
+15	práva	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94200-126-p4s7
+1	Chrání	VB-S---3P-AA---	Pred
+2	přitom	Db-------------	Adv
+3	práva	NNNP4-----A----	Obj
+4	občanů	NNMP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	kteří	P4MP1----------	Sb
+7	ani	J^-------------	AuxZ
+8	nemusí	VB-P---3P-NA--1	Atr
+9	vědět	Vf--------A----	Obj
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	jsou	VB-P---3P-AA---	AuxV
+13	vystaveni	VsMP---XX-AP---	Obj
+14	nebezpečí	NNNS3-----A----	Obj
+15	ze	RV--2----------	AuxP
+16	znečištěného	AANS2----1A----	Atr
+17	životního	AANS2----1A----	Atr
+18	prostředí	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94200-126-p4s8
+1	Chrání	VB-S---3P-AA---	Pred
+2	rovněž	Db-------------	Adv
+3	jejich	PSXXXXP3-------	Atr
+4	majetek	NNIS4-----A----	Obj
+5	před	RR--7----------	AuxP
+6	nenapravitelnými	AAFP7----1N----	Atr
+7	škodami	NNFP7-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94200-126-p5s1
+1	Ekologické	AAIP1----1A----	Atr
+2	problémy	NNIP1-----A----	Sb
+3	mají	VB-P---3P-AA---	Pred
+4	dvojí	CdFS4----------	Atr
+5	tvář	NNFS4-----A----	Obj
+6	:	Z:-------------	Apos
+7	znečištění	NNNS4-----A----	Obj
+8	životního	AANS2----1A----	Atr
+9	prostředí	NNNS2-----A----	Atr
+10	a	J^-------------	Coord
+11	ztrátu	NNFS4-----A----	Obj
+12	sebeobnovovacích	AAFP2----1A----	Atr
+13	vlastností	NNFP2-----A----	Atr
+14	zdrojů	NNIP2-----A----	Atr
+15	-	Z:-------------	Apos
+16	lesních	AAIP2----1A----	Atr
+17	a	J^-------------	Coord
+18	jiných	AAIP2----1A----	Atr
+19	přírodních	AAIP2----1A----	Atr
+20	ekosystémů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94200-126-p5s2A
+1	Pro	RR--4----------	AuxP
+2	většinu	NNFS4-----A----	Adv
+3	občanů	NNMP2-----A----	Atr
+4	jde	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	obou	ClXP6----------	Atr
+7	případech	NNIP6-----A----	Adv
+8	o	RR--4----------	AuxP
+9	problémy	NNIP4-----A----	Obj
+10	neprůhledné	AAIP4----1N----	Atr
+11	.	Z:-------------	AuxK
+12	-	Z:-------------	AuxK
+
+ln94200-126-p5s2B
+1	Znečištění	NNNS1-----A----	Sb
+2	ovzduší	NNNS2-----A----	Atr
+3	se	P7-X4----------	AuxR
+4	dá	VB-S---3P-AA---	Pred
+5	objektivně	Dg-------1A----	Adv
+6	zjistit	Vf--------A----	Obj
+7	jen	TT-------------	AuxZ
+8	přístrojovým	AANS7----1A----	Atr
+9	měřením	NNNS7-----A----	Adv
+10	,	Z:-------------	AuxX
+11	kontaminace	NNFS1-----A----	ExD
+12	půdy	NNFS2-----A----	Atr
+13	jen	TT-------------	AuxZ
+14	laboratorním	AAIS7----1A----	Atr
+15	rozborem	NNIS7-----A----	ExD
+16	apod	Db------------8	Coord
+17	.	Z:-------------	AuxG
+
+ln94200-126-p5s3
+1	Data	NNNP4-----A----	Obj
+2	o	RR--6----------	AuxP
+3	těchto	PDXP6----------	Atr
+4	problémech	NNIP6-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	možné	AANS1----1A----	Pnom
+7	i	J^-------------	Coord
+8	nutné	AANS1----1A----	Pnom
+9	shromažďovat	Vf--------A----	Sb
+10	v	RR--6----------	AuxP
+11	celostátním	AANS6----1A----	Atr
+12	měřítku	NNNS6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	aby	J,-------------	AuxC
+15	bylo	VpNS---XR-AA---	Adv
+16	možné	AANS1----1A----	Pnom
+17	stanovit	Vf--------A----	Sb
+18	stupeň	NNIS4-----A----	Obj
+19	ohrožení	NNNS2-----A----	Atr
+20	životního	AANS2----1A----	Atr
+21	prostředí	NNNS2-----A----	Atr
+22	podle	RR--2----------	AuxP
+23	druhů	NNIP2-----A----	Adv
+24	a	J^-------------	Coord
+25	místa	NNNS2-----A----	Adv
+26	znečištění	NNNS2-----A----	Atr
+27	i	J^-------------	Coord
+28	ohrožení	NNNS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94200-126-p5s4
+1	Platí	VB-S---3P-AA---	Pred
+2	přitom	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	životní	AANS1----1A----	Atr
+6	prostředí	NNNS1-----A----	Sb
+7	představuje	VB-S---3P-AA---	Sb
+8	nedělitelný	AAIS4----1N----	Atr
+9	celek	NNIS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94200-126-p6s1
+1	O	RR--6----------	AuxP
+2	opatřeních	NNNP6-----A----	Obj
+3	,	Z:-------------	AuxX
+4	která	P4NP1----------	Sb
+5	mají	VB-P---3P-AA---	Atr
+6	zabránit	Vf--------A----	Obj
+7	dalšímu	AANS3----1A----	Atr
+8	zhoršování	NNNS3-----A----	Obj
+9	situace	NNFS2-----A----	Atr
+10	nebo	J^-------------	Coord
+11	která	P4NP1----------	Sb
+12	ji	PPFS4--3-------	Obj
+13	mohou	VB-P---3P-AA--1	Atr
+14	zlepšit	Vf--------A----	Obj
+15	,	Z:-------------	AuxX
+16	musí	VB-P---3P-AA--1	Pred
+17	rozhodovat	Vf--------A----	Obj
+18	odborníci	NNMP1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+ln94200-126-p6s2
+1	Taková	PDNP1----------	Atr
+2	opatření	NNNP1-----A----	Sb
+3	sahají	VB-P---3P-AA---	Pred
+4	od	RR--2----------	AuxP
+5	stanovení	NNNS2-----A----	Adv
+6	limitů	NNIP2-----A----	Atr
+7	znečištění	NNNS2-----A----	Atr
+8	přes	RR--4----------	AuxP
+9	kontrolu	NNFS4-----A----	Adv
+10	hospodaření	NNNS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	lesích	NNIP6-----A----	Atr
+13	až	TT-------------	AuxZ
+14	po	RR--4----------	AuxP
+15	posuzování	NNNS4-----A----	Adv
+16	důsledků	NNIP2-----A----	Atr
+17	činností	NNFP2-----A----	Atr
+18	pro	RR--4----------	AuxP
+19	životní	AANS4----1A----	Atr
+20	prostředí	NNNS4-----A----	AtrAtr
+21	.	Z:-------------	AuxK
+
+ln94200-126-p6s3
+1	Všechna	PLNP1----------	Atr
+2	tato	PDNP1----------	Atr
+3	opatření	NNNP1-----A----	Sb
+4	se	P7-X4----------	AuxR
+5	však	J^-------------	Coord
+6	provádějí	VB-P---3P-AA---	Pred
+7	jen	TT-------------	AuxZ
+8	na	RR--6----------	AuxP
+9	základě	NNIS6-----A----	AuxP
+10	zákona	NNIS2-----A----	Adv
+11	,	Z:-------------	AuxX
+12	který	P4IS4----------	Obj
+13	přijímá	VB-S---3P-AA---	Atr
+14	parlament	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94200-126-p7s1
+1	Mohli	VpMP---XR-AA---	Pred
+2	bychom	Vc-P---1-------	AuxV
+3	uvést	Vf--------A----	Obj
+4	analogii	NNFS4-----A----	Obj
+5	-	Z:-------------	AuxG
+6	např	Db------------8	Apos
+7	.	Z:-------------	AuxG
+8	rozhodování	NNNS4-----A----	Obj
+9	České	AAFS2----1A----	Atr
+10	národní	AAFS2----1A----	Atr
+11	banky	NNFS2-----A----	Atr
+12	o	RR--6----------	AuxP
+13	výši	NNFS6-----A----	Atr
+14	diskontní	AAFS2----1A----	Atr
+15	sazby	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94200-126-p7s2
+1	Také	Db-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	tomto	PDZS6----------	Atr
+4	případě	NNIS6-----A----	Adv
+5	jde	VB-S---3P-AA---	Pred
+6	o	RR--4----------	AuxP
+7	autonomní	AAFS4----1A----	Atr
+8	aktivitu	NNFS4-----A----	Obj
+9	finanční	AAFS2----1A----	Atr
+10	instituce	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	nota	NNFS1-----A----	AuxY
+13	bene	TT-------------	Adv
+14	na	RR--6----------	AuxP
+15	vládě	NNFS6-----A----	Obj
+16	nezávislé	AAFS2----1N----	Atr
+17	,	Z:-------------	Coord
+18	zmocněné	AAFS2----1A----	Atr
+19	k	RR--3----------	AuxP
+20	tomu	PDZS3----------	Obj
+21	zákonem	NNIS7-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94200-126-p7s3
+1	Přitom	Db-------------	Adv
+2	důsledky	NNIP1-----A----	Sb
+3	takového	PDZS2----------	Atr
+4	opatření	NNNS2-----A----	Atr
+5	mohou	VB-P---3P-AA--1	Pred
+6	negativně	Dg-------1A----	Adv
+7	působit	Vf--------A----	Obj
+8	na	RR--4----------	AuxP
+9	miliony	NNIP4-----A----	Obj
+10	občanů	NNMP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94200-126-p7s4
+1	Podobně	Dg-------1A----	Adv
+2	vláda	NNFS1-----A----	Sb
+3	využívá	VB-S---3P-AA---	Pred
+4	mzdové	AAFS2----1A----	Atr
+5	regulace	NNFS2-----A----	Obj
+6	,	Z:-------------	AuxX
+7	vyžaduje	VB-S---3P-AA---	Adv
+8	-	Z:-------------	AuxG
+9	li	TT-------------	AuxC
+10	to	PDNS4----------	Obj
+11	nárůst	NNIS1-----A----	Sb
+12	inflace	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94200-126-p8s1
+1	Ve	RV--6----------	AuxP
+2	skutečnosti	NNFS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	rozhodování	NNNS1-----A----	Sb
+5	o	RR--6----------	AuxP
+6	životním	AANS6----1A----	Atr
+7	prostředí	NNNS6-----A----	Atr
+8	a	J^-------------	Coord
+9	hospodaření	NNNS6-----A----	Atr
+10	se	RV--7----------	AuxP
+11	zdroji	NNIP7-----A----	Atr
+12	na	RR--6----------	AuxP
+13	ekologických	AAMP6----1A----	Atr
+14	odbornících	NNMP6-----A----	Obj
+15	mnohem	Db-------------	Adv
+16	méně	Dg-------2A----	Adv
+17	závislé	AANS1----1A----	Pnom
+18	.	Z:-------------	AuxK
+
+ln94200-126-p8s2
+1	I	J^-------------	AuxY
+2	kdyby	J,-------------	AuxC
+3	se	P7-X4----------	AuxT
+4	ekologové	NNMP1-----A----	Sb
+5	čistě	Dg-------1A----	Adv
+6	z	RR--2----------	AuxP
+7	důvodů	NNIP2-----A----	Adv
+8	ochrany	NNFS2-----A----	Atr
+9	životního	AANS2----1A----	Atr
+10	prostředí	NNNS2-----A----	Atr
+11	vyslovili	VpMP---XR-AA---	Adv
+12	proti	RR--3----------	AuxP
+13	povolení	NNNS3-----A----	Adv
+14	rozebrat	Vf--------A----	Atr
+15	Říp	NNIS4-----A----	Obj
+16	na	RR--4----------	AuxP
+17	kamenivo	NNNS4-----A----	Obj
+18	na	RR--4----------	AuxP
+19	export	NNIS4-----A----	Atr
+20	,	Z:-------------	AuxX
+21	ministerstvo	NNNS1-----A----	Sb
+22	hospodářství	NNNS2-----A----	Atr
+23	takové	PDNS4----------	Atr
+24	povolení	NNNS4-----A----	Obj
+25	může	VB-S---3P-AA---	Pred
+26	vydat	Vf--------A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94200-126-p9s1
+1	Odmítat	Vf--------A----	Sb
+2	autonomní	AAFS4----1A----	Atr
+3	ekologickou	AAFS4----1A----	Atr
+4	politiku	NNFS4-----A----	Obj
+5	je	VB-S---3P-AA---	Pred
+6	další	AAIS1----1A----	Atr
+7	chybný	AAIS1----1A----	Atr
+8	soud	NNIS1-----A----	Pnom
+9	premiéra	NNMS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94200-126-p9s2
+1	Důsledně	Dg-------1A----	Adv
+2	vzato	VsNS---XX-AP---	ExD
+3	neměl	VpYS---XR-NA---	Pred
+4	tehdejší	AAIS1----1A----	Atr
+5	parlament	NNIS1-----A----	Sb
+6	schválit	Vf--------A----	Obj
+7	ani	J^-------------	AuxZ
+8	strategii	NNFS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94200-126-p9s3
+1	Analogie	NNFS1-----A----	Sb
+2	spočívá	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	problémy	NNIP1-----A----	Sb
+8	životního	AANS2----1A----	Atr
+9	prostředí	NNNS2-----A----	Atr
+10	jsou	VB-P---3P-AA---	Atr
+11	v	RR--6----------	AuxP
+12	postkomunistických	AAIP6----1A----	Atr
+13	státech	NNIP6-----A----	Adv
+14	trestuhodně	Dg-------1A----	Adv
+15	zanedbané	AAIP1----1A----	Pnom
+16	a	J^-------------	Coord
+17	řešit	Vf--------A----	Sb
+18	je	PPXP4--3-------	Obj
+19	lze	VB-S---3P-AA---	Atr
+20	jen	TT-------------	AuxZ
+21	koncepční	AAFS7----1A----	Atr
+22	a	J^-------------	Coord
+23	systematickou	AAFS7----1A----	Atr
+24	činností	NNFS7-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln94200-126-p9s4
+1	Státy	NNIP1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	podstatně	Dg-------1A----	Adv
+4	lepším	AANS7----2A----	Atr
+5	životním	AANS7----1A----	Atr
+6	prostředím	NNNS7-----A----	Atr
+7	,	Z:-------------	AuxX
+8	např	Db------------8	Apos
+9	.	Z:-------------	AuxG
+10	Nizozemsko	NNNS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	ukládají	VB-P---3P-AA---	Pred
+13	zpracování	NNNS4-----A----	Obj
+14	takových	PDXP2----------	Atr
+15	koncepcí	NNFP2-----A----	Atr
+16	dokonce	Db-------------	AuxZ
+17	zákonem	NNIS7-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94200-126-p10s1
+1	A	J^-------------	Coord
+2	jak	Db-------------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	to	PDNS1----------	Sb
+5	s	RR--7----------	AuxP
+6	požadovaným	AANS7----1A----	Atr
+7	spontánním	AANS7----1A----	Atr
+8	rozhodováním	NNNS7-----A----	Adv
+9	občanů	NNMP2-----A----	Atr
+10	?	Z:-------------	AuxK
+
+ln94200-126-p10s2
+1	Podle	RR--2----------	AuxP
+2	loňského	AAIS2----1A----	Atr
+3	podzimního	AAIS2----1A----	Atr
+4	průzkumu	NNIS2-----A----	Adv
+5	Sociologického	AAIS2----1A----	Atr
+6	ústavu	NNIS2-----A----	Atr
+7	AV	NNFXX-----A----	Atr
+8	ČR	NNFXX-----A---8	Atr
+9	pokládá	VB-S---3P-AA---	Pred
+10	65	C=-------------	Sb
+11	%	Z:-------------	Atr
+12	dotazovaných	AAMP2----1A----	Atr
+13	za	RR--4----------	AuxP
+14	nebezpečný	AAIS4----1N----	Obj
+15	růst	NNIS4-----A----	Obj
+16	teploty	NNFS2-----A----	Atr
+17	na	RR--6----------	AuxP
+18	Zemi	NNFS6-----A----	Atr
+19	vyvolaný	AAIS4----1A----	Atr
+20	skleníkovým	AAIS7----1A----	Atr
+21	efektem	NNIS7-----A----	Obj
+22	,	Z:-------------	Coord
+23	82	C=-------------	Sb
+24	%	Z:-------------	Atr
+25	občanů	NNMP2-----A----	Atr
+26	považuje	VB-S---3P-AA---	Pred
+27	za	RR--4----------	AuxP
+28	mimořádně	Dg-------1A----	Adv
+29	nebo	J^-------------	Coord
+30	velmi	Db-------------	Adv
+31	nebezpečné	AANS4----1N----	Obj
+32	pro	RR--4----------	AuxP
+33	životní	AANS4----1A----	Atr
+34	prostředí	NNNS4-----A----	Adv
+35	znečištění	NNNS4-----A----	Obj
+36	českých	AAFP2----1A----	Atr
+37	řek	NNFP2-----A----	Atr
+38	,	Z:-------------	AuxX
+39	jezer	NNNP2-----A----	Atr
+40	a	J^-------------	Coord
+41	potoků	NNIP2-----A----	Atr
+42	.	Z:-------------	AuxK
+
+ln94200-126-p10s3
+1	Ještě	Db-------------	Adv
+2	pozoruhodnější	AANS1----2A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	přesvědčení	NNNS1-----A----	Sb
+5	78	C=-------------	Atr
+6	%	Z:-------------	Atr
+7	občanů	NNMP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	vláda	NNFS1-----A----	Sb
+11	by	Vc-------------	AuxV
+12	měla	VpQW---XR-AA---	Atr
+13	vydat	Vf--------A----	Obj
+14	zákony	NNIP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	které	P4IP1----------	Sb
+17	by	Vc-------------	AuxV
+18	přinutily	VpTP---XR-AA---	Atr
+19	obyčejné	AAMP4----1A----	Atr
+20	lidi	NNMP4-----A----	Obj
+21	i	J^-------------	Coord
+22	podniky	NNIP4-----A----	Obj
+23	chránit	Vf--------A----	Obj
+24	životní	AANS4----1A----	Atr
+25	prostředí	NNNS4-----A----	Obj
+26	,	Z:-------------	AuxX
+27	kdyby	J,-------------	AuxC
+28	tím	PDZS7----------	Adv
+29	mělo	VpNS---XR-AA---	Adv
+30	být	Vf--------A----	AuxV
+31	omezeno	VsNS---XX-AP---	Obj
+32	právo	NNNS1-----A----	Sb
+33	na	RR--4----------	AuxP
+34	vlastní	AANS4----1A----	Atr
+35	rozhodování	NNNS4-----A----	Atr
+36	.	Z:-------------	AuxK
+
+ln94200-126-p11s1
+1	Tento	PDYS1----------	Atr
+2	názor	NNIS1-----A----	Sb
+3	veřejnosti	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	signálem	NNIS7-----A----	Pnom
+6	.	Z:-------------	AuxK
+
+ln94200-126-p11s2
+1	Lidé	NNMP1-----A---1	Sb
+2	očekávají	VB-P---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	vláda	NNFS1-----A----	Sb
+6	nepovede	VB-S---3P-NA---	Obj
+7	polemiky	NNFP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	bude	VB-S---3F-AA---	AuxV
+11	jednat	Vf--------A----	Obj
+12	v	RR--6----------	AuxP
+13	souladu	NNIS6-----A----	AuxP
+14	s	RR--7----------	AuxP
+15	jejich	PSXXXXP3-------	Atr
+16	vůlí	NNFS7-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94200-126-p11s3
+1	Václav	NNMS1-----A----	Atr
+2	Klaus	NNMS1-----A----	Sb
+3	soudí	VB-S---3P-AA---	Pred
+4	jinak	Db-------------	Adv
+5	.	Z:-------------	AuxK
+
+ln94200-126-p11s4
+1	Postrádá	VB-S---3P-AA---	Pred
+2	ve	RV--6----------	AuxP
+3	vztahu	NNIS6-----A----	AuxP
+4	k	RR--3----------	AuxP
+5	životnímu	AANS3----1A----	Atr
+6	prostředí	NNNS3-----A----	Adv
+7	instinkt	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	který	P4IS4----------	Obj
+10	mají	VB-P---3P-AA---	Atr
+11	občané	NNMP1-----A----	Sb
+12	.	Z:-------------	AuxK
+

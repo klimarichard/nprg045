@@ -1,0 +1,323 @@
+cmpr9416-038-p2s1
+1	Desatero	NNNS1-----A----	ExD
+2	investora	NNMS2-----A----	Atr
+
+cmpr9416-038-p3s1
+1	Chcete	VB-P---2P-AA---	Pred
+2	samí	PLMP1----------	AtvV
+3	úspěšně	Dg-------1A----	Adv
+4	investovat	Vf--------A----	Obj
+5	?	Z:-------------	AuxK
+
+cmpr9416-038-p3s2
+1	Pak	Db-------------	AuxY
+2	se	P7-X4----------	AuxT
+3	zkuste	Vi-P---2--A----	Pred
+4	držet	Vf--------A----	Obj
+5	doporučení	NNNS2-----A----	Obj
+6	našich	PSXP2-P1-------	Atr
+7	expertů	NNMP2-----A----	Atr
+
+cmpr9416-038-p4s1
+1	1	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p4s2
+1	Investujte	Vi-P---2--A----	Pred
+2	již	Db-------------	AuxZ
+3	v	RR--6----------	AuxP
+4	1	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	kole	NNNS6-----A----	Adv
+7	i	J^-------------	AuxZ
+8	za	RR--4----------	AuxP
+9	cenu	NNFS4-----A----	Adv
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	se	P7-X4----------	AuxT
+13	dostanete	VB-P---2P-AA---	Atr
+14	do	RR--2----------	AuxP
+15	převisu	NNIS2-----A----	Adv
+16	poptávky	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9416-038-p5s1
+1	2	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p5s2
+1	Vstup	NNIS1-----A----	Sb
+2	zahraničního	AAIS2----1A----	Atr
+3	kapitálu	NNIS2-----A----	Atr
+4	do	RR--2----------	AuxP
+5	české	AAFS2----1A----	Atr
+6	firmy	NNFS2-----A----	Atr
+7	sice	Db-------------	AuxY
+8	obvykle	Dg-------1A----	Adv
+9	znamená	VB-S---3P-AA---	Pred
+10	pozastavení	NNNS4-----A----	Obj
+11	výplaty	NNFS2-----A----	Atr
+12	dividend	NNFP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	také	Db-------------	AuxZ
+16	růst	NNIS4-----A----	Obj
+17	tržní	AAFS2----1A----	Atr
+18	ceny	NNFS2-----A----	Atr
+19	akcie	NNFS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9416-038-p6s1
+1	3	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p6s2
+1	Investovat	Vf--------A----	Sb
+2	do	RR--2----------	AuxP
+3	velkých	AAFP2----1A----	Atr
+4	firem	NNFP2-----A----	Adv
+5	představuje	VB-S---3P-AA---	Pred
+6	zároveň	Db-------------	Adv
+7	sázku	NNFS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	příchod	NNIS4-----A----	Atr
+10	cizího	AAIS2----1A----	Atr
+11	kapitálu	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9416-038-p7s1
+1	4	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p7s2
+1	Investovat	Vf--------A----	Sb
+2	do	RR--2----------	AuxP
+3	velké	AAFS2----1A----	Atr
+4	firmy	NNFS2-----A----	Adv
+5	má	VB-S---3P-AA---	Pred
+6	obvykle	Dg-------1A----	Adv
+7	výhodu	NNFS4-----A----	Obj
+8	ve	RV--6----------	AuxP
+9	vyšší	AAFS6----2A----	Atr
+10	likviditě	NNFS6-----A----	AtrAdv
+11	a	J^-------------	Coord
+12	její	PSXP1FS3-------	Atr
+13	akcie	NNFP1-----A----	Sb
+14	se	P7-X4----------	AuxR
+15	dají	VB-P---3P-AA---	Pred
+16	snáze	Dg-------2A---1	Adv
+17	prodat	Vf--------A----	Obj
+18	než	J,-------------	AuxC
+19	akcie	NNFP1-----A----	ExD
+20	firmy	NNFS2-----A----	Atr
+21	malé	AAFS2----1A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9416-038-p8s1
+1	5	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p8s2
+1	Máte	VB-P---2P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	důvěrnou	AAFS4----1A----	Atr
+5	informaci	NNFS4-----A----	Obj
+6	o	RR--6----------	AuxP
+7	podniku	NNIS6-----A----	Atr
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	jeho	PSXXXZS3-------	Atr
+11	bonitu	NNFS4-----A----	Obj
+12	brzy	Dg-------1A----	Adv
+13	zvýší	VB-S---3P-AA---	Atr
+14	,	Z:-------------	AuxX
+15	investujte	Vi-P---2--A----	Pred
+16	do	RR--2----------	AuxP
+17	něj	P5ZS2--3-------	Adv
+18	,	Z:-------------	AuxX
+19	a	J^-------------	Coord
+20	co	PQ--4----------	ExD
+21	hlavně	Dg-------1A----	ExD
+22	:	Z:-------------	Apos
+23	nechte	Vi-P---2--A----	Pred
+24	si	P7-X3----------	Obj
+25	ji	PPFS4--3-------	Obj
+26	pro	RR--4----------	AuxP
+27	sebe	P6-X4----------	Adv
+28	!	Z:-------------	AuxK
+
+cmpr9416-038-p9s1
+1	6	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p9s2
+1	V	RR--6----------	AuxP
+2	poptávce	NNFS6-----A----	Adv
+3	po	RR--6----------	AuxP
+4	akciích	NNFP6-----A----	Atr
+5	a	J^-------------	Coord
+6	jejich	PSXXXXP3-------	Atr
+7	ceně	NNFS6-----A----	Atr
+8	platí	VB-S---3P-AA---	Pred
+9	"	Z:-------------	AuxG
+10	stádový	AAIS1----1A----	Atr
+11	efekt	NNIS1-----A----	Sb
+12	"	Z:-------------	AuxG
+13	.	Z:-------------	AuxK
+
+cmpr9416-038-p9s3
+1	Kdo	PKM-1----------	Sb
+2	jde	VB-S---3P-AA---	Sb
+3	i	J^-------------	AuxZ
+4	s	RR--7----------	AuxP
+5	rizikem	NNNS7-----A----	Adv
+6	proti	RR--3----------	AuxP
+7	proudu	NNIS3-----A----	Adv
+8	,	Z:-------------	AuxX
+9	může	VB-S---3P-AA---	Pred
+10	hodně	Dg-------1A----	Adv
+11	vydělat	Vf--------A----	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9416-038-p10s1
+1	7	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p10s2
+1	Pokud	J,-------------	AuxC
+2	opravdu	Db-------------	AuxY
+3	chcete	VB-P---2P-AA---	Adv
+4	jezdit	Vf--------A----	Obj
+5	na	RR--4----------	AuxP
+6	valné	AAFP4----1A----	Atr
+7	hromady	NNFP4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	investujte	Vi-P---2--A----	Pred
+10	do	RR--2----------	AuxP
+11	firmy	NNFS2-----A----	Adv
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	je	VB-S---3P-AA---	Atr
+15	blízko	Dg-------1A----	Adv
+16	-	Z:-------------	Coord
+17	doprava	NNFS1-----A----	Sb
+18	také	Db-------------	Adv
+19	něco	PZ--4----------	Obj
+20	stojí	VB-S---3P-AA---	Pred
+21	.	Z:-------------	AuxK
+
+cmpr9416-038-p10s3
+1	Ale	J^-------------	Coord
+2	nevěřte	Vi-P---2--N----	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jako	J,-------------	AuxY
+6	osamocený	AAMS1----1A----	Atr
+7	akcionář	NNMS1-----A----	AtvV
+8	toho	PDZS2----------	Atr
+9	mnoho	Ca--4----------	Obj
+10	prosadíte	VB-P---2P-AA---	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9416-038-p11s1
+1	8	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p11s2
+1	Pokud	J,-------------	AuxC
+2	máte	VB-P---2P-AA---	Adv
+3	k	RR--3----------	AuxP
+4	dispozici	NNFS3-----A----	Adv
+5	jen	TT-------------	AuxZ
+6	jednu	ClFS4----------	Atr
+7	knížku	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	zbytečně	Dg-------1A----	Adv
+10	body	NNIP4-----A----	Obj
+11	nerozptylujte	Vi-P---2--N----	Pred
+12	.	Z:-------------	AuxK
+
+cmpr9416-038-p11s3
+1	Investovat	Vf--------A----	Sb
+2	po	RR--6----------	AuxP
+3	sto	ClXP6----------	Atr
+4	bodech	NNIP6-----A----	Adv
+5	do	RR--2----------	AuxP
+6	deseti	Cn-P2----------	Atr
+7	firem	NNFP2-----A----	Adv
+8	nemá	VB-S---3P-NA---	Pred
+9	valný	AAIS4----1A----	Atr
+10	smysl	NNIS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9416-038-p12s1
+1	9	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p12s2
+1	Podívejte	Vi-P---2--A----	Pred
+2	se	P7-X4----------	AuxT
+3	na	RR--4----------	AuxP
+4	zbytky	NNIP4-----A----	Obj
+5	majetku	NNIS2-----A----	Atr
+6	firem	NNFP2-----A----	Atr
+7	z	RR--2----------	AuxP
+8	první	CrFS2----------	Atr
+9	vlny	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9416-038-p12s3
+1	I	J^-------------	AuxZ
+2	tam	Db-------------	Adv
+3	se	P7-X4----------	AuxR
+4	nabízejí	VB-P---3P-AA---	Pred
+5	mimořádně	Dg-------1A----	Adv
+6	výhodné	AAFP1----1A----	Atr
+7	investice	NNFP1-----A----	Sb
+8	s	RR--7----------	AuxP
+9	minimálním	AANS7----1A----	Atr
+10	rizikem	NNNS7-----A----	Atr
+11	,	Z:-------------	AuxX
+12	protože	J,-------------	AuxC
+13	jejich	PSXXXXP3-------	Atr
+14	tržní	AAFS1----1A----	Atr
+15	hodnota	NNFS1-----A----	Sb
+16	už	Db-------------	Adv
+17	je	VB-S---3P-AA---	Adv
+18	většinou	NNFS7-----A----	Adv
+19	známá	AAFS1----1A----	Pnom
+20	.	Z:-------------	AuxK
+
+cmpr9416-038-p13s1
+1	10	C=-------------	ExD
+2	.	Z:-------------	AuxK
+
+cmpr9416-038-p13s2
+1	Investovat	Vf--------A----	Sb
+2	body	NNIP4-----A----	Obj
+3	do	RR--2----------	AuxP
+4	firmy	NNFS2-----A----	Adv
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	směřuje	VB-S---3P-AA---	Atr
+8	k	RR--3----------	AuxP
+9	bankrotu	NNIS3-----A----	Adv
+10	,	Z:-------------	AuxX
+11	nemusí	VB-S---3P-NA---	Pred
+12	být	Vf--------A----	Obj
+13	vůbec	Db-------------	Adv
+14	marné	AANS1----1A----	Pnom
+15	:	Z:-------------	Coord
+16	Při	RR--6----------	AuxP
+17	dělení	NNNS6-----A----	Adv
+18	konkurzní	AAFS2----1A----	Atr
+19	podstaty	NNFS2-----A----	Atr
+20	obvykle	Dg-------1A----	Adv
+21	na	RR--4----------	AuxP
+22	akcionáře	NNMP4-----A----	Adv
+23	také	Db-------------	Adv
+24	něco	PZ--1----------	Sb
+25	zbude	VB-S---3P-AA---	Pred
+26	.	Z:-------------	AuxK
+

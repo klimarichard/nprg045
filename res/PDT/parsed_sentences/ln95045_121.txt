@@ -1,0 +1,154 @@
+ln95045-121-p1s1
+1	Hypoték	NNFP2-----A----	Obj
+2	by	Vc-------------	AuxV
+3	využila	VpQW---XR-AA---	Pred
+4	čtvrtina	CyFS1----------	Sb
+5	dotázaných	AAMP2----1A----	ExD
+
+ln95045-121-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-121-p2s1B
+1	Hypotéku	NNFS4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	pořízení	NNNS4-----A----	Atr
+4	rodinného	AAIS2----1A----	Atr
+5	domu	NNIS2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	podle	RR--2----------	AuxP
+8	ankety	NNFS2-----A----	Adv
+9	Českomoravské	AAFS2----1A----	Atr
+10	hypoteční	AAFS2----1A----	Atr
+11	banky	NNFS2-----A----	Atr
+12	užila	VpQW---XR-AA---	Pred
+13	skoro	Db-------------	AuxZ
+14	třetina	CyFS1----------	Sb
+15	ze	RV--2----------	AuxP
+16	zhruba	Db-------------	AuxZ
+17	tří	ClXP2----------	Atr
+18	tisíc	ClXS2----------	Atr
+19	respondentů	NNMP2-----A----	Atr
+20	a	J^-------------	Coord
+21	na	RR--4----------	AuxP
+22	získání	NNNS4-----A----	ExD
+23	vlastního	AAIS2----1A----	Atr
+24	bytu	NNIS2-----A----	Atr
+25	téměř	Db-------------	AuxZ
+26	čtvrtina	CyFS1----------	ExD
+27	.	Z:-------------	AuxK
+
+ln95045-121-p2s2
+1	Bezmála	Db-------------	AuxZ
+2	čtvrtina	CyFS1----------	Sb
+3	potenciálních	AAMP2----1A----	Atr
+4	uchazečů	NNMP2-----A----	Atr
+5	o	RR--4----------	AuxP
+6	hypoteční	AAIS4----1A----	Atr
+7	úvěr	NNIS4-----A----	Atr
+8	považuje	VB-S---3P-AA---	Pred
+9	za	RR--4----------	AuxP
+10	optimální	AAFS4----1A----	Obj
+11	splatnost	NNFS4-----A----	Obj
+12	delší	AAFS4----2A----	Atr
+13	než	J,-------------	AuxC
+14	patnáct	Cn-S4----------	ExD
+15	let	NNNP2-----A----	Atr
+16	a	J^-------------	Coord
+17	šestina	CyFS1----------	Sb
+18	dotázaných	AAMP2----1A----	ExD
+19	by	Vc-------------	AuxV
+20	přistoupila	VpQW---XR-AA---	Pred
+21	na	RR--4----------	AuxP
+22	splatnost	NNFS4-----A----	Obj
+23	do	RR--2----------	AuxP
+24	15	C=-------------	Atr
+25	let	NNNP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95045-121-p2s3
+1	Úrokovou	AAFS4----1A----	Atr
+2	sazbu	NNFS4-----A----	Obj
+3	mezi	RR--7----------	AuxP
+4	pěti	Cn-P7----------	Atr
+5	a	J^-------------	Coord
+6	šesti	Cn-P7----------	Atr
+7	procenty	NNNP7-----A----	Atr
+8	by	Vc-------------	AuxV
+9	preferovala	VpQW---XR-AA---	Pred
+10	čtvrtina	CyFS1----------	Sb
+11	dotázaných	AAMP2----1A----	ExD
+12	,	Z:-------------	Coord
+13	desetiprocentní	AAFS1----1A----	Atr
+14	sazba	NNFS1-----A----	Sb
+15	je	VB-S---3P-AA---	Pred
+16	přípustná	AAFS1----1A----	Pnom
+17	ještě	Db-------------	AuxZ
+18	pro	RR--4----------	AuxP
+19	desetinu	CyFS4----------	Adv
+20	respondentů	NNMP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95045-121-p3s1
+1	Vlastní	AAIS4----1A----	Atr
+2	rodinný	AAIS4----1A----	Atr
+3	domek	NNIS4-----A----	Obj
+4	by	Vc-------------	AuxV
+5	chtělo	VpNS---XR-AA---	Pred
+6	32.7	C=-------------	Sb
+7	procent	NNNP2-----A----	Atr
+8	dotázaných	AAMP2----1A----	ExD
+9	,	Z:-------------	Coord
+10	vlastní	AAIS4----1A----	Atr
+11	byt	NNIS4-----A----	ExD
+12	23.6	C=-------------	ExD
+13	procent	NNNP2-----A----	Atr
+14	a	J^-------------	Coord
+15	obecně	Dg-------1A----	Adv
+16	získání	NNNS4-----A----	Obj
+17	vlastního	AANS2----1A----	Atr
+18	bydlení	NNNS2-----A----	Atr
+19	preferovalo	VpNS---XR-AA---	Pred
+20	36	C=-------------	Sb
+21	procent	NNNP2-----A----	Atr
+22	účastníků	NNMP2-----A----	Atr
+23	ankety	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95045-121-p4s1
+1	O	RR--4----------	AuxP
+2	koupi	NNFS4-----A----	Atr
+3	hypotečních	AAIP2----1A----	Atr
+4	zástavních	AAIP2----1A----	Atr
+5	listů	NNIP2-----A----	Atr
+6	jako	J,-------------	AuxY
+7	bezpečného	AANS2----1A----	Atr
+8	a	J^-------------	Coord
+9	výnosného	AANS2----1A----	Atr
+10	depozita	NNNS2-----A----	Atv
+11	projevila	VpQW---XR-AA---	Pred
+12	zájem	NNIS4-----A----	Obj
+13	více	Dg-------2A----	Sb
+14	než	J,-------------	AuxC
+15	polovina	NNFS1-----A----	Adv
+16	oslovených	AAMP2----1A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95045-121-p4s2
+1	Čtvrtletní	AAFS4----1A----	Atr
+2	výplatu	NNFS4-----A----	Obj
+3	úroků	NNIP2-----A----	Atr
+4	z	RR--2----------	AuxP
+5	nich	P5XP2--3-------	Atr
+6	by	Vc-------------	AuxV
+7	si	P7-X3----------	AuxT
+8	přálo	VpNS---XR-AA---	Pred
+9	35.3	C=-------------	Sb
+10	procenta	NNNS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	roční	AAFS4----1A----	ExD
+13	24.3	C=-------------	ExD
+14	procenta	NNNS2-----A----	Atr
+15	tázaných	AAMP2----1A----	ExD
+16	.	Z:-------------	AuxK
+

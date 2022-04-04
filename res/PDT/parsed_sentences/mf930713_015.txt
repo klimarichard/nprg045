@@ -1,0 +1,120 @@
+mf930713-015-p1s1
+1	IndyCar	NNIS4-----A----	Obj
+2	vede	VB-S---3P-AA---	Pred
+3	Mansell	NNMS1-----A----	Sb
+
+mf930713-015-p2s1A
+1	Cleveland	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf930713-015-p2s1B
+1	Polovičním	AAMS7----1A----	Atr
+2	mistrem	NNMS7-----A----	Pnom
+3	amerického	AAIS2----1A----	Atr
+4	šampionátu	NNIS2-----A----	Atr
+5	automobilových	AAIP2----1A----	Atr
+6	závodů	NNIP2-----A----	Atr
+7	IndyCar	NNIS1-----A----	Atr
+8	je	VB-S---3P-AA---	Pred
+9	britský	AAMS1----1A----	Atr
+10	pilot	NNMS1-----A----	Atr
+11	Nigel	NNMS1-----A----	Atr
+12	Mansell	NNMS1-----A----	Sb
+13	(	Z:-------------	ExD
+14	39	C=-------------	ExD
+15	)	Z:-------------	ExD
+16	,	Z:-------------	Apos
+17	loňský	AAMS1----1A----	Atr
+18	"	Z:-------------	AuxG
+19	král	NNMS1-----A----	Sb
+20	"	Z:-------------	AuxG
+21	Formule	NNFS2-----A----	Atr
+22	1	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+mf930713-015-p2s2
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	Mansell	NNMS1-----A----	Sb
+4	nastupoval	VpYS---XR-AA---	Adv
+5	v	RR--6----------	AuxP
+6	neděli	NNFS6-----A----	Adv
+7	k	RR--3----------	AuxP
+8	osmému	AAIS3----1A----	Atr
+9	závodu	NNIS3-----A----	Adv
+10	(	Z:-------------	ExD
+11	celkem	Db-------------	AuxZ
+12	jich	PPXP2--3-------	Atr
+13	je	VB-S---3P-AA---	ExD
+14	16	C=-------------	Sb
+15	)	Z:-------------	ExD
+16	seriálu	NNIS2-----A----	Atr
+17	IndyCar	NNIS1-----A----	Atr
+18	v	RR--6----------	AuxP
+19	Clevelandu	NNIS6-----A---1	AtrAtr
+20	s	RR--7----------	AuxP
+21	poraněným	AANS7----1A----	Atr
+22	zápěstím	NNNS7-----A----	Adv
+23	,	Z:-------------	AuxX
+24	dojel	VpYS---XR-AA---	Pred
+25	v	RR--6----------	AuxP
+26	této	PDFS6----------	Atr
+27	Grand	AAXXX----1A----	Atr
+28	Prix	NNFXX-----A----	Adv
+29	na	RR--6----------	AuxP
+30	třetím	CrNS6----------	Atr
+31	místě	NNNS6-----A----	Adv
+32	za	RR--7----------	AuxP
+33	vítězným	AAMS7----1A----	Atr
+34	Tracym	NNMS7-----A----	Adv
+35	z	RR--2----------	AuxP
+36	Kanady	NNFS2-----A----	Atr
+37	a	J^-------------	Coord
+38	druhým	CrMS7----------	Atr
+39	Emersonem	NNMS7-----A----	Atr
+40	Fittipaldim	NNMS7-----A----	Adv
+41	z	RR--2----------	AuxP
+42	Brazílie	NNFS2-----A----	Atr
+43	.	Z:-------------	AuxK
+
+mf930713-015-p2s3
+1	To	PDNS1----------	Sb
+2	mu	PHZS3--3-------	Obj
+3	v	RR--6----------	AuxP
+4	průběžné	AAFS6----1A----	Atr
+5	klasifikaci	NNFS6-----A----	Adv
+6	stačí	VB-S---3P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	první	CrNS4----------	Atr
+9	místo	NNNS4-----A----	Obj
+10	s	RR--7----------	AuxP
+11	náskokem	NNIS7-----A----	Atr
+12	14	C=-------------	Atr
+13	bodů	NNIP2-----A----	Atr
+14	právě	Db-------------	AuxZ
+15	před	RR--7----------	AuxP
+16	Fittipaldim	NNMS7-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-015-p3s1
+1	Průběžné	AANS1----1A----	Atr
+2	pořadí	NNNS1-----A----	ExD
+
+mf930713-015-p3s5
+1	80	C=-------------	ExD
+2	,	Z:-------------	AuxX
+3	4	C=-------------	ExD
+4	.	Z:-------------	AuxK
+
+mf930713-015-p3s6
+1	Andretti	NNMS1-----A----	ExD
+2	75	C=-------------	ExD
+3	,	Z:-------------	AuxX
+4	5	C=-------------	ExD
+5	.	Z:-------------	AuxK
+
+mf930713-015-p3s7
+1	Tracy	NNMS1-----A----	ExD
+2	62	C=-------------	ExD
+3	.	Z:-------------	AuxK
+

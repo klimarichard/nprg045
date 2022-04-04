@@ -1,0 +1,417 @@
+ln95044-110-p1s1
+1	Lékaři	NNMP1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	ortopedie	NNFS2-----A----	Atr
+4	a	J^-------------	Coord
+5	chirurgie	NNFS2-----A----	Atr
+6	prý	TT-------------	AuxY
+7	dostanou	VB-P---3P-AA---	Pred
+8	za	RR--4----------	AuxP
+9	zákroky	NNIP4-----A----	Obj
+10	méně	Dg-------2A----	Obj
+11	peněz	NNIP2-----A----	Atr
+
+ln95044-110-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-110-p2s1B
+1	Nový	AAIS1----1A----	Atr
+2	seznam	NNIS1-----A----	Sb
+3	výkonů	NNIP2-----A----	Atr
+4	a	J^-------------	Coord
+5	léků	NNIP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	nahrazení	NNNS1-----A----	Sb
+8	části	NNFS2-----A----	Atr
+9	akutních	AANP2----1A----	Atr
+10	lůžek	NNNP2-----A----	Atr
+11	lůžky	NNNP7-----A----	Atr
+12	ošetřovatelskými	AANP7----1A----	Atr
+13	a	J^-------------	Coord
+14	zvýšená	AAFS1----1A----	Atr
+15	úhrada	NNFS1-----A----	Sb
+16	ošetřovacího	AAIS2----1A----	Atr
+17	dne	NNIS2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	nemocnicích	NNFP6-----A----	Atr
+20	by	Vc-------------	AuxV
+21	měly	VpTP---XR-AA---	Pred
+22	být	Vf--------A----	Obj
+23	prvními	CrIP7----------	Atr
+24	"	Z:-------------	AuxG
+25	razantními	AAIP7----1A----	Atr
+26	"	Z:-------------	AuxG
+27	kroky	NNIP7-----A----	Pnom
+28	reformy	NNFS2-----A----	Atr
+29	zdravotnictví	NNNS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln95044-110-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	resortní	AAMS1----1A----	Atr
+5	ministr	NNMS1-----A----	Atr
+6	Luděk	NNMS1-----A----	Atr
+7	Rubáš	NNMS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95044-110-p3s1
+1	Již	Db-------------	AuxZ
+2	v	RR--4----------	AuxP
+3	neděli	NNFS4-----A----	Adv
+4	na	RR--6----------	AuxP
+5	sjezdu	NNIS6-----A---1	Adv
+6	lékařů	NNMP2-----A----	Atr
+7	ministr	NNMS1-----A----	Sb
+8	řekl	VpYS---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	nyní	Db-------------	Adv
+12	bude	VB-S---3F-AA---	Obj
+13	třeba	ACNS------A----	Pnom
+14	uskutečnit	Vf--------A----	Sb
+15	některé	PZYP4----------	Atr
+16	bolestivé	AAIP4----1A----	Atr
+17	kroky	NNIP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95044-110-p3s2
+1	Nevýraznost	NNFS4-----N----	Obj
+2	dosavadních	AAIP2----1A----	Atr
+3	kroků	NNIP2-----A----	Atr
+4	ministerstva	NNNS2-----A----	Atr
+5	zdůvodnil	VpYS---XR-AA---	Pred
+6	snahou	NNFS7-----A----	Adv
+7	o	RR--4----------	AuxP
+8	klidný	AAIS4----1A----	Atr
+9	průběh	NNIS4-----A----	Atr
+10	politické	AAFS2----1A----	Atr
+11	a	J^-------------	Coord
+12	ekonomické	AAFS2----1A----	Atr
+13	reformy	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95044-110-p3s3
+1	Nový	AAIS1----1A----	Atr
+2	seznam	NNIS1-----A----	Sb
+3	výkonů	NNIP2-----A----	Atr
+4	podle	RR--2----------	AuxP
+5	něj	P5ZS2--3-------	Adv
+6	povede	VB-S---3P-AA---	Pred
+7	ke	RV--3----------	AuxP
+8	snížení	NNNS3-----A----	Adv
+9	úhrad	NNFP2-----A----	Atr
+10	za	RR--4----------	AuxP
+11	zákroky	NNIP4-----A----	Atr
+12	v	RR--6----------	AuxP
+13	dosud	Db-------------	Adv
+14	nadhodnocených	AAIP6----1A----	Atr
+15	oborech	NNIP6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	jako	J,-------------	AuxC
+18	je	VB-S---3P-AA---	Atr
+19	například	Db-------------	AuxZ
+20	ortopedie	NNFS1-----A----	Sb
+21	a	J^-------------	Coord
+22	chirurgie	NNFS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln95044-110-p4s1
+1	Pacienti	NNMP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	kromě	RR--2----------	AuxP
+4	dětí	NNFP2-----A----	Adv
+5	,	Z:-------------	AuxX
+6	musejí	VB-P---3P-AA---	Pred
+7	počítat	Vf--------A----	Obj
+8	s	RR--7----------	AuxP
+9	tím	PDZS7----------	Obj
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	již	Db-------------	AuxZ
+13	od	RR--2----------	AuxP
+14	července	NNIS2-----A----	Adv
+15	budou	VB-P---3F-AA---	AuxV
+16	platit	Vf--------A----	Atr
+17	v	RR--6----------	AuxP
+18	nemocnicích	NNFP6-----A----	Adv
+19	55	C=-------------	Obj
+20	korun	NNFP2-----A----	Atr
+21	denně	Dg-------1A----	Adv
+22	za	RR--4----------	AuxP
+23	hotelové	AAFP4----1A----	Atr
+24	služby	NNFP4-----A----	Obj
+25	(	Z:-------------	AuxG
+26	jídlo	NNNS1-----A----	ExD
+27	,	Z:-------------	Coord
+28	stlaní	NNNS1-----A----	ExD
+29	)	Z:-------------	AuxG
+30	.	Z:-------------	AuxK
+
+ln95044-110-p4s2
+1	Podle	RR--2----------	AuxP
+2	Rubáše	NNMS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	to	PDNS1----------	Sb
+5	ve	RV--6----------	AuxP
+6	světě	NNIS6-----A----	Adv
+7	běžné	AANS1----1A----	Pnom
+8	.	Z:-------------	AuxK
+
+ln95044-110-p4s3
+1	Nemocnice	NNFP1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měly	VpTP---XR-AA---	Pred
+4	dostat	Vf--------A----	Obj
+5	více	Dg-------2A----	Obj
+6	peněz	NNIP2-----A----	Atr
+7	také	Db-------------	AuxZ
+8	díky	RR--3----------	AuxP
+9	zvýšené	AAFS3----1A----	Atr
+10	úhradě	NNFS3-----A----	Adv
+11	za	RR--4----------	AuxP
+12	ošetřovací	AAIS4----1A----	Atr
+13	den	NNIS4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95044-110-p4s4
+1	Tu	PDFS4----------	Obj
+2	ministr	NNMS1-----A----	Sb
+3	slibuje	VB-S---3P-AA---	Pred
+4	již	Db-------------	AuxZ
+5	od	RR--2----------	AuxP
+6	dubna	NNIS2-----A----	Adv
+7	a	J^-------------	Coord
+8	potřebnou	AAFS4----1A----	Atr
+9	miliardu	NNFS4-----A----	Obj
+10	hodlá	VB-S---3P-AA---	Pred
+11	získat	Vf--------A----	Obj
+12	například	Db-------------	AuxZ
+13	omezením	NNNS7-----A----	Adv
+14	správních	AAIP2----1A----	Atr
+15	nákladů	NNIP2-----A----	Atr
+16	pojišťoven	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95044-110-p4s5
+1	Ministerstvo	NNNS1-----A----	Sb
+2	chce	VB-S---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	konečně	Dg-------1A----	Adv
+5	prosadit	Vf--------A----	Obj
+6	snížení	NNNS4-----A----	Obj
+7	počtu	NNIS2-----A----	Atr
+8	drahých	AANP2----1A----	Atr
+9	akutních	AANP2----1A----	Atr
+10	lůžek	NNNP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95044-110-p4s6
+1	Rubáš	NNMS1-----A----	Sb
+2	očekává	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	asi	TT-------------	AuxZ
+6	25	C=-------------	ExD
+7	%	Z:-------------	Atr
+8	lůžek	NNNP2-----A----	Atr
+9	u	RR--2----------	AuxP
+10	normálních	AAFP2----1A----	ExD
+11	a	J^-------------	Coord
+12	10	C=-------------	Sb
+13	%	Z:-------------	Atr
+14	u	RR--2----------	AuxP
+15	fakultních	AAFP2----1A----	Atr
+16	nemocnic	NNFP2-----A----	Adv
+17	by	Vc-------------	AuxV
+18	mělo	VpNS---XR-AA---	Obj
+19	být	Vf--------A----	AuxV
+20	proměněno	VsNS---XX-AP---	Obj
+21	v	RR--4----------	AuxP
+22	ošetřovatelská	AANP4----1A----	ExD
+23	.	Z:-------------	AuxK
+
+ln95044-110-p4s7
+1	Rubáš	NNMS1-----A----	Sb
+2	před	RR--7----------	AuxP
+3	časem	NNIS7-----A----	Adv
+4	řekl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	kvůli	RR--3----------	AuxP
+8	tomu	PDZS3----------	Adv
+9	budou	VB-P---3F-AA---	AuxV
+10	zřejmě	Dg-------1A----	AuxY
+11	muset	Vf--------A----	Obj
+12	opustit	Vf--------A----	Obj
+13	nemocnice	NNFP4-----A----	Obj
+14	nadbyteční	AAMP1----1A----	Atr
+15	lékaři	NNMP1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95044-110-p4s8
+1	Určitá	AAFS1----1A----	Atr
+2	nezaměstnanost	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxT
+5	však	J^-------------	Coord
+6	měla	VpQW---XR-AA---	Obj
+7	stát	Vf--------A----	Obj
+8	stimulem	NNIS7-----A----	Obj
+9	kvality	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	míní	VB-S---3P-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln95044-110-p5s1
+1	Nemocnicím	NNFP3-----A----	Obj
+2	,	Z:-------------	AuxX
+3	které	P4FP1----------	Sb
+4	zároveň	Db-------------	Adv
+5	přijmou	VB-P---3P-AA---	Atr
+6	princip	NNIS4-----A----	Obj
+7	sestupné	AAFS2----1A----	Atr
+8	sazby	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kdy	Db-------------	Adv
+11	budou	VB-P---3F-AA---	AuxV
+12	na	RR--4----------	AuxP
+13	lůžko	NNNS4-----A----	Adv
+14	dostávat	Vf--------A----	Atr
+15	s	RR--7----------	AuxP
+16	prodlužující	AGFS7-----A----	Atr
+17	se	P7-X4----------	AuxT
+18	délkou	NNFS7-----A----	Adv
+19	pobytu	NNIS2-----A----	Atr
+20	pacienta	NNMS2-----A----	Atr
+21	stále	Db-------------	Adv
+22	méně	Dg-------2A----	Obj
+23	peněz	NNIP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	dá	VB-S---3P-AA---	Pred
+26	prý	TT-------------	AuxY
+27	stát	NNIS1-----A----	Sb
+28	na	RR--4----------	AuxP
+29	ošetřovatelská	AANP4----1A----	Atr
+30	lůžka	NNNP4-----A----	Adv
+31	dotaci	NNFS4-----A----	Obj
+32	.	Z:-------------	AuxK
+
+ln95044-110-p5s2
+1	Rubáš	NNMS1-----A----	Sb
+2	také	Db-------------	Adv
+3	nabídl	VpYS---XR-AA--1	Pred
+4	lékařům	NNMP3-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	jim	PPXP3--3-------	Obj
+8	zašle	VB-S---3P-AA---	Obj
+9	aktualizovanou	AAFS4----1A----	Atr
+10	ministerskou	AAFS4----1A----	Atr
+11	koncepci	NNFS4-----A----	Obj
+12	dalšího	AAIS2----1A----	Atr
+13	vývoje	NNIS2-----A----	Atr
+14	zdravotnictví	NNNS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	kterou	P4FS4----------	Obj
+17	loni	Db------------1	Adv
+18	schválila	VpQW---XR-AA---	Atr
+19	vláda	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln95044-110-p5s3
+1	Zároveň	Db-------------	Adv
+2	jim	PPXP3--3-------	Obj
+3	však	J^-------------	Coord
+4	vytkl	VpYS---XR-AA--1	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	příliš	Db-------------	Adv
+8	spoléhají	VB-P---3P-AA---	Obj
+9	na	RR--4----------	AuxP
+10	stát	NNIS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95044-110-p5s4
+1	Ten	PDYS1----------	Sb
+2	podle	RR--2----------	AuxP
+3	něj	P5ZS2--3-------	Adv
+4	může	VB-S---3P-AA---	Pred
+5	pouze	Db-------------	AuxZ
+6	určit	Vf--------A----	Obj
+7	podmínky	NNFP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	za	RR--2----------	AuxP
+10	kterých	P4XP2----------	Adv
+11	budou	VB-P---3F-AA---	AuxV
+12	lékaři	NNMP1-----A----	Sb
+13	pracovat	Vf--------A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95044-110-p5s5
+1	Nemůže	VB-S---3P-NA---	Pred
+2	však	J^-------------	Coord
+3	prý	TT-------------	AuxY
+4	dávat	Vf--------A----	Obj
+5	životní	AAFS4----1A----	Atr
+6	perspektivu	NNFS4-----A----	Obj
+7	všem	PLXP3----------	Obj
+8	,	Z:-------------	AuxX
+9	kdo	PKM-1----------	Sb
+10	jsou	VB-P---3P-AA---	Atr
+11	zaměstnáni	VsMP---XX-AP---	Pnom
+12	ve	RV--6----------	AuxP
+13	zdravotnictví	NNNS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln95044-110-p5s6
+1	Jako	J,-------------	AuxY
+2	příklad	NNIS4-----A----	Atv
+3	ministr	NNMS1-----A----	Sb
+4	uvedl	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	napříště	Db-------------	Adv
+8	by	Vc-------------	AuxV
+9	o	RR--6----------	AuxP
+10	platech	NNIP6-----A----	Obj
+11	lékařů	NNMP2-----A----	Atr
+12	neměl	VpYS---XR-NA---	Obj
+13	rozhodovat	Vf--------A----	Obj
+14	stát	NNIS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	ale	J^-------------	Coord
+17	manažeři	NNMP1-----A----	Sb
+18	zdravotnických	AANP2----1A----	Atr
+19	zařízení	NNNP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95044-110-p5s7
+1	Již	Db-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	roce	NNIS6-----A---1	Adv
+4	1996	C=-------------	Atr
+5	nebudou	VB-P---3F-NA---	Pred
+6	zřejmě	Dg-------1A----	AuxY
+7	lékaři	NNMP1-----A----	Sb
+8	závislí	AAMP1----1A----	Pnom
+9	pouze	Db-------------	AuxZ
+10	na	RR--6----------	AuxP
+11	tom	PDZS6----------	Obj
+12	,	Z:-------------	AuxX
+13	kolik	C?--4----------	Obj
+14	provedou	VB-P---3P-AA---	Atr
+15	výkonů	NNIP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	budou	VB-P---3F-AA---	AuxV
+19	placeni	VsMP---XX-AP---	Pred
+20	také	Db-------------	AuxZ
+21	podle	RR--2----------	AuxP
+22	počtu	NNIS2-----A----	Adv
+23	svých	P8XP2----------	Atr
+24	pacientů	NNMP2-----A----	Atr
+25	.	Z:-------------	AuxK
+

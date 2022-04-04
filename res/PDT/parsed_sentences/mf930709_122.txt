@@ -1,0 +1,154 @@
+mf930709-122-p1s1
+1	Prokuratura	NNFS1-----A----	Sb
+2	podá	VB-S---3P-AA---	Pred
+3	obžalobu	NNFS4-----A----	Obj
+4	na	RR--4----------	AuxP
+5	Wallise	NNMS4-----A----	AtrAdv
+6	příští	AAIS4----1A----	Atr
+7	týden	NNIS4-----A----	Adv
+
+mf930709-122-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ina	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-122-p2s1B
+1	Vojenská	AAFS1----1A----	Atr
+2	prokuratura	NNFS1-----A----	Sb
+3	podá	VB-S---3P-AA---	Pred
+4	obžalobu	NNFS4-----A----	Obj
+5	na	RR--4----------	AuxP
+6	bývalého	AAMS4----1A----	Atr
+7	pracovníka	NNMS4-----A----	Atr
+8	Federální	AAFS2----1A----	Atr
+9	bezpečnostní	AAFS2----1A----	Atr
+10	informační	AAFS2----1A----	Atr
+11	služby	NNFS2-----A----	Atr
+12	a	J^-------------	Coord
+13	bývalého	AAMS4----1A----	Atr
+14	důstojníka	NNMS4-----A----	Atr
+15	Státní	AAFS2----1A----	Atr
+16	bezpečnosti	NNFS2-----A----	Atr
+17	Václava	NNMS4-----A----	Atr
+18	Wallise	NNMS4-----A----	AtrAdv
+19	pravděpodobně	Dg-------1A----	AuxY
+20	v	RR--6----------	AuxP
+21	průběhu	NNIS6-----A----	AuxP
+22	příštího	AAIS2----1A----	Atr
+23	týdne	NNIS2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+mf930709-122-p2s2
+1	Sdělil	VpYS---XR-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	to	PDNS4----------	Obj
+4	včera	Db-------------	Adv
+5	nejmenovaný	AAIS1----1N----	Atr
+6	zdroj	NNIS1-----A----	Sb
+7	z	RR--2----------	AuxP
+8	Hlavní	AAFS2----1A----	Atr
+9	vojenské	AAFS2----1A----	Atr
+10	prokuratury	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-122-p3s1
+1	Wallis	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	stíhán	VsYS---XX-AP---	Pred
+4	pro	RR--4----------	AuxP
+5	zneužívání	NNNS4-----A----	Adv
+6	pravomoci	NNFS2-----A----	Atr
+7	veřejného	AAMS2----1A----	Atr
+8	činitele	NNMS2-----A----	Atr
+9	a	J^-------------	Coord
+10	ohrožení	NNNS4-----A----	Adv
+11	státního	AANS2----1A----	Atr
+12	tajemství	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf930709-122-p3s2
+1	Vojenský	AAMS1----1A----	Atr
+2	prokurátor	NNMS1-----A----	Sb
+3	ho	PHZS4--3-------	Obj
+4	obvinil	VpYS---XR-AA---	Pred
+5	z	RR--2----------	AuxP
+6	předávání	NNNS2-----A----	Adv
+7	informací	NNFP2-----A----	Atr
+8	prezidentu	NNMS3-----A---1	Atr
+9	Harvardských	AAIP2----1A----	Atr
+10	privatizačních	AAIP2----1A----	Atr
+11	fondů	NNIP2-----A----	Atr
+12	Viktoru	NNMS3-----A---1	Atr
+13	Koženému	NNMS3-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930709-122-p3s3
+1	Prokuratura	NNFS1-----A----	Sb
+2	ho	PHZS4--3-------	Obj
+3	neviní	VB-S---3P-NA---	Pred
+4	z	RR--2----------	AuxP
+5	vydírání	NNNS2-----A----	Adv
+6	,	Z:-------------	AuxX
+7	nýbrž	J^-------------	Coord
+8	z	RR--2----------	AuxP
+9	neoprávněného	AANS2----1N----	Atr
+10	předávání	NNNS2-----A----	Adv
+11	informací	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	i	J^-------------	AuxY
+14	když	J,-------------	AuxC
+15	Viktor	NNMS1-----A----	Atr
+16	Kožený	NNMS1-----A----	Sb
+17	opakovaně	Dg-------1A----	Adv
+18	tvrdil	VpYS---XR-AA---	Adv
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	ho	PHZS4--3-------	Obj
+22	Wallis	NNMS1-----A----	Sb
+23	vydíral	VpYS---XR-AA---	Obj
+24	.	Z:-------------	AuxK
+
+mf930709-122-p3s4
+1	Kožený	NNMS1-----A----	Sb
+2	mu	PHZS3--3-------	Obj
+3	,	Z:-------------	AuxX
+4	jak	J,-------------	Adv
+5	sám	PLYS1----------	AtvV
+6	řekl	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	vyplatil	VpYS---XR-AA---	Pred
+9	půl	NNFS4-----A----	Obj
+10	milionu	NNIS2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	proto	Db-------------	Adv
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	Wallis	NNMS1-----A----	Sb
+16	vyhrožoval	VpYS---XR-AA---	Adv
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	jeho	PPYS4--3-------	Obj
+20	osobně	Dg-------1A----	Atr
+21	i	J^-------------	Coord
+22	firmu	NNFS4-----A----	Obj
+23	"	Z:-------------	AuxG
+24	potopí	VB-S---3P-AA---	Obj
+25	"	Z:-------------	AuxG
+26	.	Z:-------------	AuxK
+
+mf930709-122-p4s1
+1	Václavu	NNMS3-----A---1	Atr
+2	Wallisovi	NNMS3-----A---1	Obj
+3	hrozí	VB-S---3P-AA---	Pred
+4	trest	NNIS1-----A----	Sb
+5	odnětí	NNNS2-----A----	Atr
+6	svobody	NNFS2-----A----	Atr
+7	od	RR--2----------	AuxP
+8	tří	ClXP2----------	ExD
+9	do	RR--2----------	AuxP
+10	deseti	Cn-P2----------	Atr
+11	let	NNNP2-----A----	Atr
+12	.	Z:-------------	AuxK
+

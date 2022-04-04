@@ -1,0 +1,334 @@
+ln95046-102-p1s1
+1	Stonožka	NNFS1-----A----	Sb
+2	chrání	VB-S---3P-AA---	Pred
+3	život	NNIS4-----A----	Obj
+4	kojenců	NNMP2-----A----	Atr
+
+ln95046-102-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-102-p2s1B
+1	Ještě	Db-------------	AuxZ
+2	nedávno	Db-------------	Adv
+3	nemohli	VpMP---XR-NA---	Pred
+4	na	RR--6----------	AuxP
+5	dětské	AAFS6----1A----	Atr
+6	klinice	NNFS6-----A----	Adv
+7	Všeobecné	AAFS2----1A----	Atr
+8	fakultní	AAFS2----1A----	Atr
+9	nemocnice	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Praze	NNFS6-----A----	Atr
+12	zachránit	Vf--------A----	Obj
+13	všechny	PLYP4----------	Atr
+14	těžce	Dg-------1A----	Adv
+15	nemocné	AAMP4----1A----	Atr
+16	novorozence	NNMP4-----A----	Obj
+17	a	J^-------------	Coord
+18	kojence	NNMP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln95046-102-p2s2
+1	Od	RR--2----------	AuxP
+2	tohoto	PDZS2----------	Atr
+3	týdne	NNIS2-----A----	Adv
+4	však	J^-------------	Coord
+5	mají	VB-P---3P-AA---	Pred
+6	přístroj	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	umožní	VB-S---3P-AA---	Atr
+10	malým	AAMP3----1A----	Atr
+11	pacientům	NNMP3-----A----	Obj
+12	přežít	Vf--------A----	Obj
+13	,	Z:-------------	AuxX
+14	protože	J,-------------	AuxC
+15	zabrání	VB-S---3P-AA---	Adv
+16	selhání	NNNS3-----A----	Obj
+17	krevního	AAIS2----1A----	Atr
+18	oběhu	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95046-102-p3s1
+1	Klinika	NNFS1-----A----	Sb
+2	nemá	VB-S---3P-NA---	Pred
+3	svou	P8FS4---------1	Atr
+4	porodnici	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	je	VB-S---3P-AA---	Pred
+8	tu	Db------------1	Adv
+9	Jednotka	NNFS1-----A----	Sb
+10	intenzívní	AAFS2----1A----	Atr
+11	a	J^-------------	Coord
+12	resuscitační	AAFS2----1A----	Atr
+13	péče	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kde	Db-------------	Adv
+16	léčí	VB-P---3P-AA---	Atr
+17	150	C=-------------	Obj
+18	až	J^-------------	Coord
+19	160	C=-------------	Obj
+20	nedonošených	AAMP2----1N----	Atr
+21	novorozenců	NNMP2-----A----	Atr
+22	a	J^-------------	Coord
+23	postižených	AAMP2----1A----	Atr
+24	kojenců	NNMP2-----A----	Atr
+25	ročně	Dg-------1A----	Adv
+26	.	Z:-------------	AuxK
+
+ln95046-102-p3s2
+1	Vedoucí	NNMS1-----A----	Atr
+2	jednotky	NNFS2-----A----	Atr
+3	MUDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Václav	NNMS1-----A----	Atr
+6	Vobruba	NNMS1-----A----	Sb
+7	říká	VB-S---3P-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	polovina	NNFS1-----A----	Sb
+11	dětí	NNFP2-----A----	Atr
+12	může	VB-S---3P-AA---	Obj
+13	dýchat	Vf--------A----	Obj
+14	jen	TT-------------	AuxZ
+15	díky	RR--3----------	AuxP
+16	plicnímu	AAIS3----1A----	Atr
+17	ventilátoru	NNIS3-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln95046-102-p3s3
+1	Zároveň	Db-------------	Adv
+2	však	J^-------------	Coord
+3	tito	PDMP1----------	Atr
+4	pacienti	NNMP1-----A----	Sb
+5	potřebují	VB-P---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	bylo	VpNS---XR-AA---	AuxV
+9	celé	AANS1----1A----	Atr
+10	jejich	PSXXXXP3-------	Atr
+11	tělo	NNNS1-----A----	Sb
+12	zásobováno	VsNS---XX-AP---	Obj
+13	okysličenou	AAFS7----1A----	Atr
+14	krví	NNFS7-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95046-102-p3s4
+1	Běžnou	AAFS7----1A----	Atr
+2	praxí	NNFS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	podávání	NNNS1-----A----	Sb
+5	léků	NNIP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln95046-102-p3s5
+1	Ty	PDIP1----------	Sb
+2	však	J^-------------	Coord
+3	mají	VB-P---3P-AA---	Pred
+4	vedlejší	AAIP4----1A----	Atr
+5	účinky	NNIP4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+ln95046-102-p3s6
+1	Před	RR--7----------	AuxP
+2	několika	Ca--7----------	Atr
+3	lety	NNNP7-----A----	Adv
+4	bylo	VpNS---XR-AA---	AuxV
+5	zjištěno	VsNS---XX-AP---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	prokrvení	NNNS2-----A----	Obj
+9	je	VB-S---3P-AA---	Sb
+10	možno	ACNS------A----	Pnom
+11	dosáhnout	Vf--------A----	Sb
+12	oxidem	NNIS7-----A----	Adv
+13	dusnatým	AAIS7----1A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95046-102-p3s7
+1	Přístroj	NNIS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	jeho	PSXXXZS3-------	Atr
+4	podávání	NNNS4-----A----	Atr
+5	byl	VpYS---XR-AA---	AuxV
+6	sestrojen	VsYS---XX-AP---	Pred
+7	také	Db-------------	Adv
+8	v	RR--6----------	AuxP
+9	Brně	NNNS6-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95046-102-p4s1
+1	"	Z:-------------	AuxG
+2	Stojí	VB-S---3P-AA---	Obj
+3	ale	J^-------------	Coord
+4	800000	C=-------------	Obj
+5	a	J^-------------	Coord
+6	to	PDNS4----------	Obj
+7	si	P7-X3----------	AuxT
+8	nemocnice	NNFS1-----A----	Sb
+9	nemohla	VpQW---XR-NA---	Obj
+10	dovolit	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	"	Z:-------------	AuxG
+13	uvádí	VB-S---3P-AA---	Pred
+14	Václav	NNMS1-----A----	Atr
+15	Vobruba	NNMS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95046-102-p4s2
+1	Přístroj	NNIS4-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	podařilo	VpNS---XR-AA---	Pred
+5	koupit	Vf--------A----	Sb
+6	díky	RR--3----------	AuxP
+7	hnutí	NNNS3-----A----	Adv
+8	Na	RR--6----------	AuxP
+9	vlastních	AAFP6----1A----	Atr
+10	nohou	NNFP6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4NS4----------	Obj
+13	vede	VB-S---3P-AA---	Atr
+14	Norka	NNFS1-----A----	Atr
+15	Bela	NNFS1-----A----	Atr
+16	Gran	NNFXX-----A----	Atr
+17	Jensenová	NNFS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95046-102-p4s3
+1	Logem	NNNS7-----A----	Pnom
+2	hnutí	NNNS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	stonožka	NNFS1-----A----	Sb
+5	a	J^-------------	Coord
+6	jeho	PSXXXZS3-------	Atr
+7	účastníky	NNMP7-----A----	Pnom
+8	jsou	VB-P---3P-AA---	Pred
+9	děti	NNFP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	které	P4FP1----------	Sb
+12	chtějí	VB-P---3P-AA---	Atr
+13	pomoci	Vf--------A---1	Obj
+14	svým	P8XP3----------	Atr
+15	nemocným	AAMP3----1A----	Atr
+16	vrstevníkům	NNMP3-----A----	Obj
+17	"	Z:-------------	AuxG
+18	na	RR--4----------	AuxP
+19	vlastní	AAFP4----1A----	Atr
+20	nohy	NNFP4-----A----	Adv
+21	"	Z:-------------	AuxG
+22	.	Z:-------------	AuxK
+
+ln95046-102-p4s4
+1	Kreslí	VB-P---3P-AA---	Pred
+2	vánoční	AAIP4----1A----	Atr
+3	pozdravy	NNIP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	které	P4YP4----------	Obj
+6	si	P7-X3----------	Obj
+7	v	RR--6----------	AuxP
+8	Norsku	NNNS6-----A----	Adv
+9	kupují	VB-P---3P-AA---	Atr
+10	různé	AAFP1----1A----	Atr
+11	firmy	NNFP1-----A----	Sb
+12	a	J^-------------	Coord
+13	posílají	VB-P---3P-AA---	Atr
+14	je	PPXP4--3-------	Obj
+15	svým	P8XP3----------	Atr
+16	klientům	NNMP3-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln95046-102-p4s5
+1	Za	RR--4----------	AuxP
+2	získané	AAIP4----1A----	Atr
+3	peníze	NNIP4-----A----	Adv
+4	bylo	VpNS---XR-AA---	AuxV
+5	koupeno	VsNS---XX-AP---	Pred
+6	už	Db-------------	AuxZ
+7	několik	Ca--1----------	Sb
+8	přístrojů	NNIP2-----A----	Atr
+9	do	RR--2----------	AuxP
+10	českých	AAFP2----1A----	Atr
+11	nemocnic	NNFP2-----A----	AdvAtr
+12	a	J^-------------	Coord
+13	léčeben	NNFP2-----A----	AdvAtr
+14	.	Z:-------------	AuxK
+
+ln95046-102-p5s1
+1	Loni	Db------------1	Adv
+2	se	P7-X4----------	AuxR
+3	pozdravů	NNIP2-----A----	Sb
+4	prodalo	VpNS---XR-AA---	Pred
+5	za	RR--4----------	AuxP
+6	300	C=-------------	Atr
+7	tisíc	ClXS2----------	Atr
+8	norských	AAFP2----1A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	je	VB-S---3P-AA---	Pred
+12	o	RR--4----------	AuxP
+13	ně	P5XP4--3-------	Atr
+14	velký	AAIS1----1A----	Atr
+15	zájem	NNIS1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+ln95046-102-p5s2
+1	Přístroj	NNIS1-----A----	Sb
+2	pro	RR--4----------	AuxP
+3	dětskou	AAFS4----1A----	Atr
+4	kliniku	NNFS4-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Praze	NNFS6-----A----	Atr
+7	"	Z:-------------	AuxG
+8	stál	VpYS---XR-AA---	Pred
+9	"	Z:-------------	AuxG
+10	10000	C=-------------	Obj
+11	pozdravů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95046-102-p5s3
+1	"	Z:-------------	AuxG
+2	Letos	Db-------------	Adv
+3	po	RR--6----------	AuxP
+4	mně	PP-S6--1-------	Adv
+5	chtějí	VB-P---3P-AA---	Obj
+6	100000	C=-------------	Obj
+7	takových	PDXP2----------	Atr
+8	přání	NNNP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	"	Z:-------------	AuxG
+11	řekla	VpQW---XR-AA---	Pred
+12	Bela	NNFS1-----A----	Atr
+13	Gran	NNFXX-----A----	Atr
+14	Jensenová	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	tvrdí	VB-S---3P-AA---	Atr
+18	,	Z:-------------	AuxX
+19	že	J,-------------	AuxC
+20	české	AAFP1----1A----	Atr
+21	a	J^-------------	Coord
+22	moravské	AAFP1----1A----	Atr
+23	děti	NNFP1-----A----	Sb
+24	kreslí	VB-P---3P-AA---	Obj
+25	nejlépe	Dg-------3A----	Adv
+26	na	RR--6----------	AuxP
+27	světě	NNIS6-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln95046-102-p5s4
+1	"	Z:-------------	AuxG
+2	Připomínají	VB-P---3P-AA---	Pred
+3	nám	PP-P3--1-------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	je	VB-S---3P-AA---	Obj
+7	něco	PZ--1----------	Sb
+8	důležitějšího	AANS2----2A----	Atr
+9	než	J,-------------	AuxC
+10	byznys	NNIS1-----A----	ExD
+11	.	Z:-------------	AuxK
+12	"	Z:-------------	AuxG
+

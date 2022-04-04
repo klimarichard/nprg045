@@ -1,0 +1,215 @@
+cmpr9417-019-p2s1
+1	Manažer	NNMS1-----A----	Sb
+2	hledá	VB-S---3P-AA---	Pred
+3	práci	NNFS4-----A----	Obj
+
+cmpr9417-019-p3s1
+1	V	RR--6----------	AuxP
+2	našem	PSZS6-P1-------	Atr
+3	listě	NNIS6-----A----	Adv
+4	:	Z:-------------	Pred
+5	Burza	NNFS1-----A----	Sb
+6	práce	NNFS2-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	vedoucí	NNMP4-----A----	Atr
+
+cmpr9417-019-p4s1
+1	Dobrý	AAIS1----1A----	Atr
+2	management	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	pro	RR--4----------	AuxP
+5	firmy	NNFP4-----A----	Adv
+6	to	PDNS1----------	Pnom
+7	nejcennější	AANS1----3A----	Atr
+8	,	Z:-------------	AuxX
+9	co	PQ--4----------	Obj
+10	mají	VB-P---3P-AA---	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9417-019-p4s2
+1	Kde	Db-------------	Adv
+2	ale	J^-------------	Coord
+3	špičkové	AAMP4----1A----	Atr
+4	manažery	NNMP4-----A----	Obj
+5	nalézt	Vf--------A----	Pred
+6	?	Z:-------------	AuxK
+
+cmpr9417-019-p4s3
+1	I	J^-------------	AuxZ
+2	přesto	Dg-------1A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	na	RR--6----------	AuxP
+6	českém	AAIS6----1A----	Atr
+7	trhu	NNIS6-----A----	Adv
+8	působí	VB-P---3P-AA---	Adv
+9	poradenské	AAFP1----1A----	Atr
+10	firmy	NNFP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	které	P4FP1----------	Sb
+13	se	P7-X4----------	AuxT
+14	zabývají	VB-P---3P-AA---	Atr
+15	vyhledáváním	NNNS7-----A----	Obj
+16	manažerů	NNMP2-----A----	Atr
+17	pro	RR--4----------	AuxP
+18	podniky	NNIP4-----A----	Atr
+19	,	Z:-------------	AuxX
+20	nedá	VB-S---3P-NA---	Pred
+21	se	P7-X4----------	AuxR
+22	říci	Vf--------A---1	Obj
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	v	RR--6----------	AuxP
+26	ČR	NNFXX-----A---8	Adv
+27	již	Db-------------	Adv
+28	existuje	VB-S---3P-AA---	Sb
+29	stabilizovaný	AAIS1----1A----	Atr
+30	trh	NNIS1-----A----	Sb
+31	manažerských	AAFP2----1A----	Atr
+32	pracovních	AAFP2----1A----	Atr
+33	příležitostí	NNFP2-----A----	Atr
+34	-	Z:-------------	Apos
+35	nabídky	NNFS2-----A----	Atr
+36	a	J^-------------	Coord
+37	poptávky	NNFS2-----A----	Atr
+38	.	Z:-------------	AuxK
+
+cmpr9417-019-p4s4
+1	Vždyť	J^-------------	Coord
+2	koneckonců	Db-------------	Adv
+3	poradenské	AAFP1----1A----	Atr
+4	firmy	NNFP1-----A----	Sb
+5	především	Db-------------	Adv
+6	hledají	VB-P---3P-AA---	Pred
+7	manažery	NNMP4-----A----	Obj
+8	,	Z:-------------	Coord
+9	méně	Dg-------2A----	Adv
+10	už	Db-------------	Adv
+11	nabízejí	VB-P---3P-AA---	Pred
+12	.	Z:-------------	AuxK
+
+cmpr9417-019-p5s1
+1	Českomoravský	AAIS1----1A----	Atr
+2	profit	NNIS1-----A----	Sb
+3	přichází	VB-S---3P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	pomocnou	AAFS7----1A----	Atr
+6	rukou	NNFS7-----A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9417-019-p5s2
+1	Ve	RV--6----------	AuxP
+2	spolupráci	NNFS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	poradenskou	AAFS7----1A----	Atr
+5	firmou	NNFS7-----A----	Adv
+6	Amalthea	NNFS1-----A----	Atr
+7	zřizuje	VB-S---3P-AA---	Pred
+8	burzu	NNFS4-----A----	Obj
+9	manažerských	AAFP2----1A----	Atr
+10	příležitostí	NNFP2-----A----	Atr
+11	:	Z:-------------	Coord
+12	V	RR--6----------	AuxP
+13	každém	AANS6----1A----	Atr
+14	čísle	NNNS6-----A----	Adv
+15	představí	VB-S---3P-AA---	Pred
+16	manažera	NNMS4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	který	P4YS1----------	Sb
+19	hledá	VB-S---3P-AA---	Atr
+20	uplatnění	NNNS4-----A----	Obj
+21	-	Z:-------------	AuxG
+22	ať	TT-------------	AuxC
+23	již	Db-------------	AuxY
+24	z	RR--2----------	AuxP
+25	důvodu	NNIS2-----A----	Adv
+26	vnitřního	AANS2----1A----	Atr
+27	neuspokojení	NNNS2-----N----	Atr
+28	na	RR--6----------	AuxP
+29	dosavadním	AANS6----1A----	Atr
+30	místě	NNNS6-----A----	Atr
+31	,	Z:-------------	AuxX
+32	či	J^-------------	Coord
+33	kvůli	RR--3----------	AuxP
+34	reorganizaci	NNFS3-----A----	Adv
+35	firmy	NNFS2-----A----	Atr
+36	,	Z:-------------	AuxX
+37	potřeby	NNFS2-----A----	Adv
+38	dále	Dg-------2A---1	Adv
+39	se	P7-X4----------	Obj
+40	zdokonalovat	Vf--------A----	Atr
+41	a	J^-------------	Coord
+42	podobně	Dg-------1A----	Adv
+43	.	Z:-------------	AuxK
+
+cmpr9417-019-p6s1
+1	Firmám	NNFP3-----A----	Obj
+2	,	Z:-------------	AuxX
+3	jež	PJFP1----------	Sb
+4	se	P7-X4----------	Obj
+5	s	RR--7----------	AuxP
+6	touto	PDFS7----------	Atr
+7	nabídkou	NNFS7-----A----	Obj
+8	seznámí	VB-P---3P-AA---	Atr
+9	a	J^-------------	Coord
+10	dojdou	VB-P---3P-AA---	Atr
+11	k	RR--3----------	AuxP
+12	závěru	NNIS3-----A----	Obj
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	se	P7-X4----------	AuxT
+16	jedná	VB-S---3P-AA---	Atr
+17	o	RR--4----------	AuxP
+18	manažera	NNMS4-----A----	Obj
+19	,	Z:-------------	AuxX
+20	kterého	P4MS4----------	Obj
+21	hledají	VB-P---3P-AA---	Atr
+22	,	Z:-------------	AuxX
+23	zprostředkujeme	VB-P---1P-AA---	Pred
+24	s	RR--7----------	AuxP
+25	tímto	PDZS7----------	Atr
+26	uchazečem	NNMS7-----A----	Atr
+27	kontakt	NNIS4-----A----	Obj
+28	.	Z:-------------	AuxK
+
+cmpr9417-019-p6s2
+1	Na	RR--6----------	AuxP
+2	druhé	CrFS6----------	Atr
+3	straně	NNFS6-----A----	Adv
+4	každý	AAMS1----1A----	Atr
+5	manažer	NNMS1-----A----	Sb
+6	může	VB-S---3P-AA---	Pred
+7	využít	Vf--------A----	Obj
+8	nabídku	NNFS4-----A----	Obj
+9	a	J^-------------	Coord
+10	představit	Vf--------A----	Obj
+11	se	P7-X4----------	Obj
+12	v	RR--6----------	AuxP
+13	Profitu	NNIS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9417-019-p6s3
+1	Zveřejníme	VB-P---1P-AA---	Pred
+2	ty	PDFP4----------	Atr
+3	nabídky	NNFP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	které	P4FP1----------	Sb
+6	budou	VB-P---3F-AA---	AuxV
+7	odpovídat	Vf--------A----	Atr
+8	otištěným	AAIP3----1A----	Atr
+9	vzorům	NNIP3-----A----	Obj
+10	.	Z:-------------	AuxK
+
+cmpr9417-019-p7s1
+1	Čtěte	Vi-P---2--A----	Pred
+2	na	RR--6----------	AuxP
+3	str	NNFXX-----A---8	Adv
+4	.	Z:-------------	AuxG
+5	14	C=-------------	Atr
+6	:	Z:-------------	AuxK
+
+cmpr9417-019-p8s1
+1	Uplatnit	Vf--------A----	Pred
+2	své	P8FP4---------1	Atr
+3	schopnosti	NNFP4-----A----	Obj
+

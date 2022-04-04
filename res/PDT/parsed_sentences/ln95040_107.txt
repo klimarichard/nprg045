@@ -1,0 +1,149 @@
+ln95040-107-p1s1
+1	ABB	NNFXX-----A---8	Sb
+2	dodá	VB-S---3P-AA---	Pred
+3	vozy	NNIP4-----A----	Obj
+4	pro	RR--4----------	AuxP
+5	stockholmské	AANS4----1A----	Atr
+6	metro	NNNS4-----A----	Atr
+
+ln95040-107-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-107-p2s1B
+1	Zakázku	NNFS4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	dodávku	NNFS4-----A----	Atr
+4	75	C=-------------	Atr
+5	vozů	NNIP2-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	stockholmské	AANS4----1A----	Atr
+8	metro	NNNS4-----A----	Atr
+9	v	RR--6----------	AuxP
+10	hodnotě	NNFS6-----A----	AtrAtr
+11	240	C=-------------	Atr
+12	miliónů	NNIP2-----A----	Atr
+13	dolarů	NNIP2-----A----	Atr
+14	získala	VpQW---XR-AA---	Pred
+15	mezinárodní	AAFS1----1A----	Atr
+16	společnost	NNFS1-----A----	Sb
+17	ABB	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+
+ln95040-107-p2s2
+1	Uvedla	VpQW---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	mluvčí	NNFS1-----A----	Atr
+5	ABB	NNFXX-----A---8	Atr
+6	ČR	NNFXX-----A---8	Atr
+7	Zekie	NNFS1-----A----	Atr
+8	Nikolská	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln95040-107-p2s3
+1	Nové	AAIP1----1A----	Atr
+2	vozy	NNIP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	z	RR--2----------	AuxP
+5	nichž	P9XP2----------	Atr
+6	první	CrIP1----------	Sb
+7	budou	VB-P---3F-AA---	AuxV
+8	dodány	VsTP---XX-AP---	Atr
+9	do	RR--2----------	AuxP
+10	zkušebního	AAIS2----1A----	Atr
+11	provozu	NNIS2-----A----	Adv
+12	koncem	NNIS7-----A----	AuxP
+13	roku	NNIS2-----A---1	Adv
+14	1996	C=-------------	Atr
+15	,	Z:-------------	AuxX
+16	nahradí	VB-P---3P-AA---	Pred
+17	nejstarší	AAIP4----3A----	Obj
+18	z	RR--2----------	AuxP
+19	900	C=-------------	Atr
+20	vozů	NNIP2-----A----	Atr
+21	stockholmského	AANS2----1A----	Atr
+22	metra	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95040-107-p2s4
+1	Nové	AAIP1----1A----	Atr
+2	vlaky	NNIP1-----A----	Sb
+3	mají	VB-P---3P-AA---	Pred
+4	být	Vf--------A----	Obj
+5	spolehlivější	AAIP1----2A----	Pnom
+6	,	Z:-------------	AuxX
+7	pohodlnější	AAIP1----2A----	Pnom
+8	,	Z:-------------	Coord
+9	méně	Dg-------2A----	Adv
+10	hlučné	AAIP1----1A----	Pnom
+11	a	J^-------------	Coord
+12	spotřebují	VB-P---3P-AA---	Pred
+13	méně	Dg-------2A----	Obj
+14	energie	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95040-107-p2s5
+1	Kromě	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	budou	VB-P---3F-AA---	Pred
+4	nové	AAIP1----1A----	Atr
+5	vozy	NNIP1-----A----	Sb
+6	metra	NNNS2-----A----	Atr
+7	podstatně	Dg-------1A----	Adv
+8	větší	AAIP1----2A----	Pnom
+9	-	Z:-------------	Coord
+10	vlak	NNIS1-----A----	Sb
+11	o	RR--6----------	AuxP
+12	třech	ClXP6----------	Atr
+13	vozech	NNIP6-----A----	Atr
+14	bude	VB-S---3F-AA---	AuxV
+15	svou	P8FS7---------1	Atr
+16	délkou	NNFS7-----A----	Adv
+17	odpovídat	Vf--------A----	Pred
+18	délce	NNFS3-----A----	Obj
+19	vlaku	NNIS2-----A----	Atr
+20	o	RR--6----------	AuxP
+21	osmi	Cn-P6----------	Atr
+22	vozech	NNIP6-----A----	Atr
+23	současného	AAIS2----1A----	Atr
+24	vozového	AAIS2----1A----	Atr
+25	parku	NNIS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95040-107-p2s6
+1	To	PDNS1----------	Sb
+2	má	VB-S---3P-AA---	Pred
+3	vést	Vf--------A----	Obj
+4	k	RR--3----------	AuxP
+5	nižším	AAIP3----2A----	Atr
+6	nákladům	NNIP3-----A----	Adv
+7	na	RR--4----------	AuxP
+8	údržbu	NNFS4-----A----	Atr
+9	a	J^-------------	Coord
+10	provoz	NNIS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95040-107-p2s7
+1	ABB	NNFXX-----A---8	Sb
+2	Group	NNFXX-----A----	Atr
+3	zaměstnává	VB-S---3P-AA---	Pred
+4	206	C=-------------	Obj
+5	tisíc	ClXS2----------	Atr
+6	lidí	NNMP2-----A----	Atr
+7	na	RR--6----------	AuxP
+8	celém	AAIS6----1A----	Atr
+9	světě	NNIS6-----A----	Adv
+10	s	RR--7----------	AuxP
+11	obratem	NNIS7-----A----	Adv
+12	přes	RR--4----------	AuxP
+13	28	C=-------------	Atr
+14	miliard	NNFP2-----A----	Atr
+15	dolarů	NNIP2-----A----	Atr
+16	(	Z:-------------	AuxG
+17	v	RR--6----------	AuxP
+18	roce	NNIS6-----A---1	Atr
+19	1993	C=-------------	Atr
+20	)	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+

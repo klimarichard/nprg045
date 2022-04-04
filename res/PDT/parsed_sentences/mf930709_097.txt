@@ -1,0 +1,276 @@
+mf930709-097-p1s1
+1	Startovní	AANS1----1A----	Atr
+2	číslo	NNNS1-----A----	ExD
+3	1	C=-------------	Atr
+4	zatím	Db-------------	Adv
+5	volné	AANS1----1A----	ExD
+
+mf930709-097-p2s1
+1	ZAČÍNÁ	VB-S---3P-AA---	Pred
+2	XX	C}-------------	Atr
+3	.	Z:-------------	AuxG
+4	ROČNÍK	NNIS1-----A----	Sb
+5	RALLYE	NNFXX-----A----	Atr
+6	BOHEMIA	NNFXX-----A----	Atr
+
+mf930709-097-p2s2A
+1	Mladá	AAFS1----1A----	Atr
+2	Boleslav	NNFS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	vit	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+mf930709-097-p2s2B
+1	Jubilejní	AAIS1----1A----	Atr
+2	XX	C}-------------	Atr
+3	.	Z:-------------	AuxG
+4	ročník	NNIS1-----A----	Sb
+5	Rallye	NNFXX-----A----	Atr
+6	Bohemia	NNFXX-----A----	Atr
+7	,	Z:-------------	Apos
+8	soutěže	NNFS2-----A----	Atr
+9	zařazené	AAFS2----1A----	Atr
+10	s	RR--7----------	AuxP
+11	koeficientem	NNIS7-----A----	Adv
+12	5	C=-------------	Atr
+13	do	RR--2----------	AuxP
+14	letošního	AAIS2----1A----	Atr
+15	seriálu	NNIS2-----A----	Adv
+16	mistrovství	NNNS2-----A----	Atr
+17	Evropy	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	odstartuje	VB-S---3P-AA---	Pred
+20	dnes	Db-------------	Adv
+21	v	RR--4----------	AuxP
+22	15	C=-------------	Adv
+23	h	NNFXX-----A---8	Atr
+24	v	RR--6----------	AuxP
+25	Mladé	AAFS6----1A----	Atr
+26	Boleslavi	NNFS6-----A----	Adv
+27	.	Z:-------------	AuxK
+
+mf930709-097-p2s3
+1	Technická	AAFS1----1A----	Atr
+2	přejímka	NNFS1-----A----	Sb
+3	probíhala	VpQW---XR-AA---	Pred
+4	včera	Db-------------	Adv
+5	až	TT-------------	AuxZ
+6	dlouho	Dg-------1A----	AuxZ
+7	do	RR--2----------	AuxP
+8	noci	NNFS2-----A----	Adv
+9	,	Z:-------------	Coord
+10	pořadatelům	NNMP3-----A----	Adv
+11	se	P7-X4----------	AuxT
+12	přihlásilo	VpNS---XR-AA---	Pred
+13	přes	RR--4----------	AuxP
+14	sto	NNNS4-----A----	Sb
+15	vozů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930709-097-p2s4
+1	Startovní	AANS1----1A----	Atr
+2	číslo	NNNS1-----A----	Sb
+3	1	C=-------------	Atr
+4	,	Z:-------------	AuxX
+5	původně	Dg-------1A----	Adv
+6	vyhrazené	AANS1----1A----	Atr
+7	pro	RR--4----------	AuxP
+8	vítěze	NNMS4-----A----	Atr
+9	nedávné	AAFS2----1N----	Atr
+10	Barum	NNIS1-----A----	Atr
+11	rallye	NNFXX-----A----	Atr
+12	Baumschlagera	NNMS4-----A----	Adv
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	zůstávalo	VpNS---XR-AA---	Pred
+16	neobsazeno	VsNS---XX-NP---	Obj
+17	.	Z:-------------	AuxK
+
+mf930709-097-p2s5
+1	Baumschlager	NNMS1-----A----	Sb
+2	totiž	Db-------------	AuxY
+3	musí	VB-S---3P-AA---	Pred
+4	startovat	Vf--------A----	Obj
+5	příští	AAIS4----1A----	Atr
+6	týden	NNIS4-----A----	Adv
+7	v	RR--6----------	AuxP
+8	Deutschland	NNIS1-----A----	Atr
+9	rallye	NNFXX-----A----	Adv
+10	.	Z:-------------	AuxK
+
+mf930709-097-p2s6
+1	Nejnižší	AAFS4----3A----	Atr
+2	"	Z:-------------	AuxG
+3	dvojku	NNFS4-----A----	Obj
+4	"	Z:-------------	AuxG
+5	tedy	Db-------------	AuxY
+6	má	VB-S---3P-AA---	Pred
+7	vedoucí	AGMS1-----A----	Atr
+8	pilot	NNMS1-----A----	Atr
+9	mistrovství	NNNS2-----A----	Atr
+10	ČR	NNFXX-----A---8	Atr
+11	Křeček	NNMS1-----A----	Sb
+12	,	Z:-------------	Coord
+13	"	Z:-------------	AuxG
+14	trojku	NNFS4-----A----	ExD
+15	"	Z:-------------	AuxG
+16	domácí	AAMS1----1A----	Atr
+17	Sibera	NNMS1-----A----	ExD
+18	.	Z:-------------	AuxK
+
+mf930709-097-p2s7
+1	Na	RR--6----------	AuxP
+2	startu	NNIS6-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	další	AAMP1----1A----	Atr
+6	špičkoví	AAMP1----1A----	Atr
+7	jezdci	NNMP1-----A----	Sb
+8	-	Z:-------------	Apos
+9	Blahna	NNMS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	Dolák	NNMS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	Trajbold	NNMS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	atd	Db------------8	Coord
+16	.	Z:-------------	AuxG
+
+mf930709-097-p2s8
+1	Kořením	NNNS7-----A----	Pnom
+2	rallye	NNFXX-----A----	Atr
+3	bude	VB-S---3F-AA---	Pred
+4	jediný	AAIS1----1A----	Atr
+5	letošní	AAIS1----1A----	Atr
+6	souboj	NNIS1-----A----	Sb
+7	kompletního	AAIS2----1A----	Atr
+8	týmu	NNIS2-----A----	Atr
+9	škodovek	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930709-097-p2s9
+1	Vedle	RR--2----------	AuxP
+2	Sibery	NNMS2-----A----	Adv
+3	mají	VB-P---3P-AA---	Pred
+4	další	AAMP1----1A----	Atr
+5	piloti	NNMP1-----A----	Sb
+6	Motorsportu	NNIS2-----A----	Atr
+7	Škoda	NNFS1-----A----	Atr
+8	tato	PDNP4----------	Atr
+9	čísla	NNNP4-----A----	Obj
+10	:	Z:-------------	Apos
+11	6	C=-------------	ExD
+12	Triner	NNMS1-----A----	ExD
+13	,	Z:-------------	AuxX
+14	9	C=-------------	ExD
+15	Štolfa	NNMS1-----A----	ExD
+16	,	Z:-------------	Coord
+17	12	C=-------------	ExD
+18	Berger	NNMS1-----A----	ExD
+19	,	Z:-------------	Coord
+20	s	RR--7----------	AuxP
+21	favority	NNMP7-----A----	Adv
+22	pojedou	VB-P---3F-AA---	Pred
+23	i	J^-------------	AuxZ
+24	posádky	NNFP1-----A----	Sb
+25	z	RR--2----------	AuxP
+26	Finska	NNNS2-----A----	Atr
+27	a	J^-------------	Coord
+28	Dánska	NNNS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+mf930709-097-p2s10
+1	Atrakcí	NNFS7-----A----	Pnom
+2	Rallye	NNFXX-----A----	Atr
+3	Bohemia	NNFXX-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	jistě	Dg-------1A----	AuxY
+6	i	J^-------------	AuxZ
+7	start	NNIS1-----A----	Sb
+8	Slováka	NNMS2-----A----	Atr
+9	Drotára	NNMS2-----A----	Atr
+10	s	RR--7----------	AuxP
+11	BMW	NNNXX-----A---8	Atr
+12	M	NNNXX-----A----	Atr
+13	3	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	Rakušana	NNMS2-----A----	Atr
+16	Brandstettera	NNMS2-----A----	Atr
+17	se	RV--7----------	AuxP
+18	Subaru	NNNXX-----A----	Atr
+19	a	J^-------------	Coord
+20	Holanďana	NNMS2-----A----	Atr
+21	van	RR--X----------	AuxY
+22	Krimpena	NNMS2-----A----	Atr
+23	s	RR--7----------	AuxP
+24	Fordem	NNIS7-----A----	Atr
+25	Escort	NNIS1-----A----	Atr
+26	Cosworth	NNIXX-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf930709-097-p2s11
+1	Zajímavý	AAIS1----1A----	Pnom
+2	bude	VB-S---3F-AA---	Pred
+3	i	J^-------------	AuxZ
+4	další	AAIS1----1A----	Atr
+5	souboj	NNIS1-----A----	Sb
+6	o	RR--4----------	AuxP
+7	body	NNIP4-----A----	Atr
+8	do	RR--2----------	AuxP
+9	Poháru	NNIS2-----A----	Atr
+10	Škoda	NNFS1-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-097-p2s12
+1	Škoda	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	hlavním	AAMS7----1A----	Atr
+5	sponzorem	NNMS7-----A----	Pnom
+6	soutěže	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+mf930709-097-p2s13
+1	Rallye	NNFXX-----A----	Sb
+2	Bohemia	NNFXX-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	dlouhá	AAFS1----1A----	Pnom
+5	740	C=-------------	Adv
+6	km	NNIXX-----A---8	Atr
+7	a	J^-------------	Coord
+8	má	VB-S---3P-AA---	Pred
+9	25	C=-------------	Obj
+10	rychlostních	AAFP2----1A----	Atr
+11	zkoušek	NNFP2-----A----	Atr
+12	(	Z:-------------	ExD
+13	320	C=-------------	ExD
+14	km	NNIXX-----A---8	Atr
+15	)	Z:-------------	ExD
+16	-	Z:-------------	Coord
+17	v	RR--4----------	AuxP
+18	pátek	NNIS4-----A----	ExD
+19	devět	Cn-S4----------	ExD
+20	,	Z:-------------	Coord
+21	v	RR--4----------	AuxP
+22	sobotu	NNFS4-----A----	ExD
+23	šestnáct	Cn-S4----------	ExD
+24	.	Z:-------------	AuxK
+
+mf930709-097-p2s14
+1	V	RR--6----------	AuxP
+2	cíli	NNIS6-----A----	Adv
+3	v	RR--6----------	AuxP
+4	Mladé	AAFS6----1A----	Atr
+5	Boleslavi	NNFS6-----A----	AtrAdv
+6	budou	VB-P---3F-AA---	Pred
+7	první	CrIP1----------	Atr
+8	vozy	NNIP1-----A----	Sb
+9	v	RR--4----------	AuxP
+10	sobotu	NNFS4-----A----	Adv
+11	před	RR--7----------	AuxP
+12	20	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	h	NNFXX-----A---8	Adv
+15	.	Z:-------------	AuxK
+

@@ -1,0 +1,141 @@
+ln94206-94-p1s1
+1	Okno	NNNS1-----A----	ExD
+2	do	RR--2----------	AuxP
+3	světa	NNIS2-----A----	Atr
+4	Vojty	NNMS2-----A----	Atr
+5	Náprstka	NNMS2-----A----	Atr
+
+ln94206-94-p2s1
+1	Sté	CrNS4----------	Atr
+2	výročí	NNNS4-----A----	Obj
+3	úmrtí	NNNS2-----A----	Atr
+4	Vojty	NNMS2-----A----	Atr
+5	Náprstka	NNMS2-----A----	Atr
+6	(	Z:-------------	AuxG
+7	17	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	dubna	NNIS2-----A----	ExD
+10	1826	C=-------------	Atr
+11	-	Z:-------------	Coord
+12	2	C=-------------	Atr
+13	.	Z:-------------	AuxG
+14	září	NNNS2-----A----	ExD
+15	1894	C=-------------	Atr
+16	)	Z:-------------	AuxG
+17	připomíná	VB-S---3P-AA---	Pred
+18	výstava	NNFS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	která	P4FS1----------	Sb
+21	byla	VpQW---XR-AA---	AuxV
+22	včera	Db-------------	Adv
+23	otevřena	VsQW---XX-AP---	Atr
+24	v	RR--6----------	AuxP
+25	Náprstkově	AUNS6M---------	Atr
+26	muzeu	NNNS6-----A----	Adv
+27	v	RR--6----------	AuxP
+28	Praze	NNFS6-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94206-94-p2s2
+1	Kromě	RR--2----------	AuxP
+2	všestranné	AAFS2----1A----	Atr
+3	činnosti	NNFS2-----A----	Adv
+4	této	PDFS2----------	Atr
+5	významné	AAFS2----1A----	Atr
+6	osobnosti	NNFS2-----A----	Atr
+7	českého	AAIS2----1A----	Atr
+8	veřejného	AAIS2----1A----	Atr
+9	života	NNIS2-----A----	Atr
+10	druhé	CrFS2----------	Atr
+11	poloviny	NNFS2-----A----	Atr
+12	minulého	AANS2----1A----	Atr
+13	století	NNNS2-----A----	Atr
+14	přibližuje	VB-S---3P-AA---	Pred
+15	i	J^-------------	AuxZ
+16	podobu	NNFS4-----A----	Obj
+17	někdejšího	AANS2----1A----	Atr
+18	Českého	AANS2----1A----	Atr
+19	průmyslového	AANS2----1A----	Atr
+20	muzea	NNNS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	které	P4NS4----------	Obj
+23	Náprstek	NNMS1-----A----	Sb
+24	založil	VpYS---XR-AA---	Atr
+25	.	Z:-------------	AuxK
+
+ln94206-94-p2s3
+1	Je	VB-S---3P-AA---	Pred
+2	neuvěřitelné	AANS1----1N----	Pnom
+3	,	Z:-------------	AuxX
+4	co	PQ--4----------	Obj
+5	Vojta	NNMS1-----A----	Atr
+6	Náprstek	NNMS1-----A----	Sb
+7	za	RR--4----------	AuxP
+8	svůj	P8IS4----------	Atr
+9	život	NNIS4-----A----	Adv
+10	dokázal	VpYS---XR-AA---	Sb
+11	.	Z:-------------	AuxK
+
+ln94206-94-p2s4
+1	Tuto	PDFS4----------	Atr
+2	rozporuplnou	AAFS4----1A----	Atr
+3	osobnost	NNFS4-----A----	Obj
+4	však	J^-------------	Coord
+5	doprovází	VB-S---3P-AA---	Obj
+6	i	J^-------------	AuxZ
+7	řada	NNFS1-----A----	Sb
+8	polopravd	NNFP2-----A----	Atr
+9	a	J^-------------	Coord
+10	lží	NNFP2-----A----	Atr
+11	-	Z:-------------	Coord
+12	ty	PDFP4----------	Obj
+13	chceme	VB-P---1P-AA---	Obj
+14	uvést	Vf--------A----	Obj
+15	na	RR--4----------	AuxP
+16	pravou	AAFS4----1A----	Atr
+17	míru	NNFS4-----A----	Adv
+18	,	Z:-------------	AuxX
+19	říká	VB-S---3P-AA---	Pred
+20	autorka	NNFS1-----A----	Atr
+21	výstavy	NNFS2-----A----	Atr
+22	Milena	NNFS1-----A----	Atr
+23	Secká	NNFS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln94206-94-p2s5
+1	Součástí	NNFS7-----A----	Pnom
+2	expozice	NNFS2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	například	Db-------------	AuxZ
+5	šicí	AAIS1----1A----	Atr
+6	stroj	NNIS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	jehož	PJZS2----------	Atr
+9	používání	NNNS4-----A----	Obj
+10	u	RR--2----------	AuxP
+11	nás	PP-P2--1-------	Adv
+12	Náprstek	NNMS1-----A----	Sb
+13	začal	VpYS---XR-AA---	Atr
+14	prostřednictvím	NNNS7-----A----	AuxP
+15	Amerického	AAIS2----1A----	Atr
+16	klubu	NNIS2-----A----	Adv
+17	dam	NNFP2-----A----	Atr
+18	propagovat	Vf--------A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94206-94-p2s6
+1	Výstava	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	symbolicky	Dg-------1A----	Adv
+4	nazvaná	AAFS1----1A----	Atr
+5	Okno	NNNS1-----A----	Obj
+6	do	RR--2----------	AuxP
+7	světa	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	potrvá	VB-S---3F-AA---	Pred
+10	až	TT-------------	AuxZ
+11	do	RR--2----------	AuxP
+12	konce	NNIS2-----A----	Adv
+13	roku	NNIS2-----A---1	Atr
+14	.	Z:-------------	AuxK
+

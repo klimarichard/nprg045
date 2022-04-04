@@ -1,0 +1,381 @@
+ln94200-55-p1s1
+1	Průmyslové	AAIP1----1A----	Atr
+2	podniky	NNIP1-----A----	Sb
+3	nečekají	VB-P---3P-NA---	Pred
+4	velké	AAFP4----1A----	Atr
+5	změny	NNFP4-----A----	Obj
+
+ln94200-55-p2s1A
+1	Firmy	NNFP1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	méně	Dg-------2A----	Atr
+4	než	J,-------------	AuxC
+5	100	C=-------------	Adv
+6	pracovníky	NNMP7-----A----	Atr
+7	počítají	VB-P---3P-AA---	Pred
+8	s	RR--7----------	AuxP
+9	růstem	NNIS7-----A----	Obj
+10	zaměstnanosti	NNFS2-----A----	Atr
+
+ln94200-55-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pin	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94200-55-p2s1C
+1	Situace	NNFS1-----A----	Sb
+2	průmyslových	AAIP2----1A----	Atr
+3	podniků	NNIP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	hlavních	AAFP6----1A----	Atr
+7	oblastech	NNFP6-----A----	Adv
+8	jejich	PSXXXXP3-------	Atr
+9	činnosti	NNFS2-----A----	Atr
+10	převážně	Dg-------1A----	Adv
+11	stabilizovaná	AAFS1----1A----	Pnom
+12	a	J^-------------	Coord
+13	také	Db-------------	AuxZ
+14	pro	RR--4----------	AuxP
+15	období	NNNS4-----A----	Adv
+16	srpen	NNIS1-----A----	Atr
+17	až	J^-------------	Coord
+18	říjen	NNIS1-----A----	Atr
+19	letošního	AAIS2----1A----	Atr
+20	roku	NNIS2-----A---1	Atr
+21	nepředpokládají	VB-P---3P-NA---	Pred
+22	podniky	NNIP1-----A----	Sb
+23	výrazné	AAFP4----1A----	Atr
+24	změny	NNFP4-----A----	Obj
+25	tendencí	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94200-55-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	konjunkturálního	AAIS2----1A----	Atr
+5	průzkumu	NNIS2-----A----	Adv
+6	názorů	NNIP2-----A----	Atr
+7	vedoucích	AGMP2-----A----	Atr
+8	pracovníků	NNMP2-----A----	Atr
+9	průmyslových	AAFP2----1A----	Atr
+10	firem	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4IS4----------	Obj
+13	provedl	VpYS---XR-AA---	Atr
+14	Český	AAIS1----1A----	Atr
+15	statistický	AAIS1----1A----	Atr
+16	úřad	NNIS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+ln94200-55-p3s1
+1	V	RR--6----------	AuxP
+2	průzkumu	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	proběhl	VpYS---XR-AA--1	Atr
+6	na	RR--6----------	AuxP
+7	přelomu	NNIS6-----A----	Adv
+8	července	NNIS2-----A----	Atr
+9	a	J^-------------	Coord
+10	srpna	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	odpovědělo	VpNS---XR-AA---	Pred
+13	806	C=-------------	Sb
+14	průmyslových	AAIP2----1A----	Atr
+15	podniků	NNIP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	jejichž	P1XXXXP3-------	Atr
+18	objem	NNIS1-----A----	Sb
+19	výroby	NNFS2-----A----	Atr
+20	představuje	VB-S---3P-AA---	Atr
+21	51	C=-------------	Obj
+22	%	Z:-------------	Atr
+23	celostátní	AAFS2----1A----	Atr
+24	produkce	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94200-55-p3s2
+1	V	RR--6----------	AuxP
+2	obdobném	AAIS6----1A----	Atr
+3	průzkumu	NNIS6-----A----	Adv
+4	ve	RV--6----------	AuxP
+5	stavebnictví	NNNS6-----A----	Atr
+6	odpovědělo	VpNS---XR-AA---	Pred
+7	396	C=-------------	Sb
+8	podniků	NNIP2-----A----	Atr
+9	reprezentujících	AGIP2-----A----	Atr
+10	43	C=-------------	Obj
+11	%	Z:-------------	Atr
+12	produkce	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94200-55-p4s1
+1	Svou	P8FS4---------1	Atr
+2	ekonomickou	AAFS4----1A----	Atr
+3	situaci	NNFS4-----A----	Obj
+4	považovaly	VpTP---XR-AA---	Pred
+5	na	RR--6----------	AuxP
+6	přelomu	NNIS6-----A----	Adv
+7	července	NNIS2-----A----	Atr
+8	a	J^-------------	Coord
+9	srpna	NNIS2-----A----	Atr
+10	za	RR--4----------	AuxP
+11	uspokojivou	AAFS4----1A----	Obj
+12	podniky	NNIP1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	které	P4IP1----------	Sb
+15	reprezentovaly	VpTP---XR-AA---	Atr
+16	více	Dg-------2A----	Obj
+17	než	J,-------------	AuxC
+18	64	C=-------------	Adv
+19	%	Z:-------------	Atr
+20	výroby	NNFS2-----A----	Atr
+21	ze	RV--2----------	AuxP
+22	statistického	AAIS2----1A----	Atr
+23	vzorku	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94200-55-p4s2
+1	Asi	TT-------------	AuxZ
+2	14	C=-------------	Sb
+3	%	Z:-------------	Atr
+4	hodnotilo	VpNS---XR-AA---	Pred
+5	svou	P8FS4---------1	Atr
+6	situaci	NNFS4-----A----	Obj
+7	jako	J,-------------	AuxY
+8	špatnou	AAFS4----1A----	Atv
+9	a	J^-------------	Coord
+10	respondenti	NNMP1-----A----	ExD
+11	s	RR--7----------	AuxP
+12	22	C=-------------	Atr
+13	%	Z:-------------	Atr
+14	výroby	NNFS2-----A----	Atr
+15	zboží	NNNS2-----A----	Atr
+16	jako	J,-------------	AuxY
+17	dobrou	AAFS4----1A----	ExD
+18	.	Z:-------------	AuxK
+
+ln94200-55-p5s1
+1	V	RR--6----------	AuxP
+2	rámci	NNIS6-----A----	Adv
+3	zpracovatelského	AAIS2----1A----	Atr
+4	průmyslu	NNIS2-----A----	Atr
+5	byla	VpQW---XR-AA---	Pred
+6	ekonomická	AAFS1----1A----	Atr
+7	situace	NNFS1-----A----	Sb
+8	uspokojivá	AAFS1----1A----	Pnom
+9	u	RR--2----------	AuxP
+10	podniků	NNIP2-----A----	Adv
+11	reprezentujících	AGIP2-----A----	Atr
+12	70	C=-------------	Obj
+13	%	Z:-------------	Atr
+14	výroby	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94200-55-p5s2
+1	Takto	Db-------------	Adv
+2	odpověděly	VpTP---XR-AA---	Pred
+3	především	Db-------------	AuxZ
+4	firmy	NNFP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	které	P4FP1----------	Sb
+7	vyrábějí	VB-P---3P-AA---	Atr
+8	např	Db------------8	AuxZ
+9	.	Z:-------------	AuxG
+10	automobily	NNIP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	gumárenské	AAIP4----1A----	Atr
+13	výrobky	NNIP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	stroje	NNIP4-----A----	Obj
+16	nebo	J^-------------	Coord
+17	přístroje	NNIP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln94200-55-p5s3
+1	Jako	J,-------------	AuxY
+2	špatnou	AAFS4----1A----	Atv
+3	označili	VpMP---XR-AA---	Pred
+4	svoji	P8FS4----------	Atr
+5	situaci	NNFS4-----A----	Obj
+6	výrobci	NNMP1-----A----	Sb
+7	radiových	AANP2----1A----	Atr
+8	,	Z:-------------	AuxX
+9	televizních	AANP2----1A----	Atr
+10	a	J^-------------	Coord
+11	některých	PZXP2----------	Atr
+12	dopravních	AANP2----1A----	Atr
+13	zařízení	NNNP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94200-55-p6s1
+1	Zlepšení	NNNS4-----A----	Obj
+2	své	P8FS2---------1	Atr
+3	ekonomické	AAFS2----1A----	Atr
+4	situace	NNFS2-----A----	Atr
+5	očekávali	VpMP---XR-AA---	Pred
+6	respondenti	NNMP1-----A----	Sb
+7	se	RV--7----------	AuxP
+8	32	C=-------------	Atr
+9	%	Z:-------------	Atr
+10	výroby	NNFS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	zhoršení	NNNS4-----A----	ExD
+13	s	RR--7----------	AuxP
+14	12	C=-------------	Atr
+15	%	Z:-------------	ExD
+16	.	Z:-------------	AuxK
+
+ln94200-55-p6s2
+1	Podniky	NNIP1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	56	C=-------------	Atr
+4	%	Z:-------------	Atr
+5	výroby	NNFS2-----A----	Atr
+6	se	RV--7----------	AuxP
+7	změnami	NNFP7-----A----	Obj
+8	své	P8FS2---------1	Atr
+9	ekonomické	AAFS2----1A----	Atr
+10	situace	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	příštích	AAIP6----1A----	Atr
+13	šesti	Cn-P6----------	Atr
+14	měsících	NNIP6-----A----	AtrAdv
+15	nepočítaly	VpTP---XR-NA---	Pred
+16	.	Z:-------------	AuxK
+
+ln94200-55-p7s1
+1	Pro	RR--4----------	AuxP
+2	příštích	AAIP2----1A----	Atr
+3	šest	Cn-S4----------	Adv
+4	měsíců	NNIP2-----A----	Atr
+5	předpokládali	VpMP---XR-AA---	Pred
+6	zlepšení	NNNS4-----A----	Obj
+7	ekonomické	AAFS2----1A----	Atr
+8	situace	NNFS2-----A----	Atr
+9	vedoucí	NNMP1-----A----	Sb
+10	s	RR--7----------	AuxP
+11	37	C=-------------	Atr
+12	%	Z:-------------	Atr
+13	výroby	NNFS2-----A----	Atr
+14	zboží	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94200-55-p7s2
+1	Se	RV--7----------	AuxP
+2	zhoršením	NNNS7-----A----	Obj
+3	jich	PPXP2--3-------	Atr
+4	počítalo	VpNS---XR-AA---	Pred
+5	11	C=-------------	Sb
+6	%	Z:-------------	Atr
+7	.	Z:-------------	AuxK
+
+ln94200-55-p7s5
+1	Podniky	NNIP1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	méně	Dg-------2A----	Atr
+4	než	J,-------------	AuxC
+5	100	C=-------------	Adv
+6	pracovníky	NNMP7-----A----	Atr
+7	očekávají	VB-P---3P-AA---	Pred
+8	růst	NNIS4-----A----	Obj
+9	zaměstnanosti	NNFS2-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94200-55-p7s6
+1	Jinak	Db-------------	Adv
+2	počítaly	VpTP---XR-AA---	Pred
+3	spíše	Dg-------2A---1	Adv
+4	s	RR--7----------	AuxP
+5	mírným	AANS7----1A----	Atr
+6	snižováním	NNNS7-----A----	Obj
+7	zaměstnanosti	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94200-55-p8s1
+1	Podle	RR--2----------	AuxP
+2	výsledků	NNIP2-----A----	Adv
+3	obdobného	AAIS2----1A----	Atr
+4	průzkumu	NNIS2-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	stavebních	AAIP6----1A----	Atr
+7	podnicích	NNIP6-----A----	Atr
+8	předpokládali	VpMP---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	srpnu	NNIS6-----A----	Adv
+11	až	J^-------------	Coord
+12	říjnu	NNIS6-----A----	Adv
+13	zlepšení	NNNS4-----A----	Obj
+14	své	P8FS2---------1	Atr
+15	ekonomické	AAFS2----1A----	Atr
+16	situace	NNFS2-----A----	Atr
+17	respondenti	NNMP1-----A----	Sb
+18	s	RR--7----------	AuxP
+19	37	C=-------------	Atr
+20	%	Z:-------------	Atr
+21	stavebních	AAFP2----1A----	Atr
+22	prací	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94200-55-p8s3
+1	zhoršení	NNNS2-----A----	Obj
+2	ekonomické	AAFS2----1A----	Atr
+3	situace	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	obávají	VB-P---3P-AA---	Pred
+6	firmy	NNFP1-----A----	Sb
+7	reprezentující	AGFP1-----A----	Atr
+8	5	C=-------------	Obj
+9	%	Z:-------------	Atr
+10	stavebních	AAFP2----1A----	Atr
+11	prací	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94200-55-p9s1
+1	Podniky	NNIP1-----A----	Sb
+2	se	RV--7----------	AuxP
+3	třemi	ClXP7----------	Atr
+4	čtvrtinami	CyFP7----------	Atr
+5	objemu	NNIS2-----A----	Atr
+6	stavebních	AAFP2----1A----	Atr
+7	prací	NNFP2-----A----	Atr
+8	uvedly	VpTP---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	jejich	PSXXXXP3-------	Atr
+12	výrobní	AAFP1----1A----	Atr
+13	kapacity	NNFP1-----A----	Sb
+14	budou	VB-P---3F-AA---	Obj
+15	v	RR--6----------	AuxP
+16	příštích	AAIP6----1A----	Atr
+17	12	C=-------------	Atr
+18	měsících	NNIP6-----A----	Adv
+19	dostatečné	AAFP1----1A----	Pnom
+20	.	Z:-------------	AuxK
+
+ln94200-55-p9s2
+1	Pro	RR--4----------	AuxP
+2	8	C=-------------	Adv
+3	%	Z:-------------	Atr
+4	mají	VB-P---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	nedostatečné	AAFP1----1N----	Pnom
+7	a	J^-------------	Coord
+8	pro	RR--4----------	AuxP
+9	zbytek	NNIS4-----A----	ExD
+10	více	Dg-------2A----	AuxZ
+11	než	J,-------------	AuxY
+12	dostatečné	AAFP1----1A----	ExD
+13	,	Z:-------------	Coord
+14	což	PE--1----------	Sb
+15	se	P7-X4----------	AuxT
+16	týká	VB-S---3P-AA---	Pred
+17	spíše	Dg-------2A---1	Adv
+18	větších	AAFP2----2A----	Atr
+19	firem	NNFP2-----A----	Obj
+20	.	Z:-------------	AuxK
+

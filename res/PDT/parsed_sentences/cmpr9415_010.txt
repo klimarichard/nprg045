@@ -1,0 +1,202 @@
+cmpr9415-010-p1s1
+1	Obrázek	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	4	C=-------------	Atr
+
+cmpr9415-010-p2s1
+1	Kancelář	NNFS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	Fischer	NNMS1-----A----	Atr
+4	Reisen	NNIS4-----A----	Atr
+
+cmpr9415-010-p3s1
+1	Oblast	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Malta	NNFS1-----A----	ExD
+4	-	Z:-------------	Coord
+5	Burgiba	NNFS1-----A----	ExD
+
+cmpr9415-010-p4s1
+1	Ubytovací	AANS1----1A----	Atr
+2	zařízení	NNNS1-----A----	ExD
+3	:	Z:-------------	Apos
+4	Burgiba	AAXXX----1A----	ExD
+5	Holiday	AAXXX----1A----	Atr
+6	Complex	NNIS1-----A----	Atr
+7	*	Z:-------------	AuxG
+8	*	Z:-------------	AuxG
+9	*	Z:-------------	AuxG
+
+cmpr9415-010-p5s1
+1	Cena	NNFS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	osobu	NNFS4-----A----	Atr
+4	Kč	NNFXX-----A----	Atr
+5	:	Z:-------------	Pred
+6	11490	C=-------------	Pnom
+
+cmpr9415-010-p6s1
+1	Dítě	NNNS1-----A----	Sb
+2	Kč	NNFXX-----A----	Atr
+3	:	Z:-------------	Pred
+4	8500	C=-------------	Pnom
+
+cmpr9415-010-p7s1
+1	Stravování	NNNS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Polopenze	NNFS1-----A----	ExD
+
+cmpr9415-010-p8s1
+1	Doprava	NNFS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Letecky	Dg-------1A----	ExD
+4	,	Z:-------------	Coord
+5	odlety	NNIP1-----A----	ExD
+6	z	RR--2----------	AuxP
+7	Prahy	NNFS2-----A----	Atr
+8	vždy	Db-------------	Adv
+9	ve	RV--4----------	AuxP
+10	středu	NNFS4-----A----	ExD
+11	,	Z:-------------	AuxX
+12	počínaje	VeYS------A----	AuxP
+13	4	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	5	C=-------------	ExD
+16	.	Z:-------------	AuxG
+
+cmpr9415-010-p9s1
+1	Popis	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Hotelový	AAIS1----1A----	Atr
+4	komplex	NNIS1-----A----	Sb
+5	leží	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	klidné	AAFS6----1A----	Atr
+8	části	NNFS6-----A----	Adv
+9	Burgiby	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	jen	TT-------------	AuxZ
+12	několik	Ca--4----------	Adv
+13	minut	NNFP2-----A----	Atr
+14	od	RR--2----------	AuxP
+15	centra	NNNS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	také	Db-------------	AuxZ
+19	blízko	Dg-------1A----	Adv
+20	skalnaté	AAFS2----1A----	Atr
+21	pláže	NNFS2-----A----	Adv
+22	.	Z:-------------	AuxK
+
+cmpr9415-010-p9s2
+1	Hotel	NNIS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	před	RR--7----------	AuxP
+4	nedávnou	AAFS7----1N----	Atr
+5	dobou	NNFS7-----A----	Adv
+6	rekonstruován	VsYS---XX-AP---	Pred
+7	a	J^-------------	Coord
+8	má	VB-S---3P-AA---	Pred
+9	mezinárodní	AAFS4----1A----	Atr
+10	klientelu	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9415-010-p9s3
+1	K	RR--3----------	AuxP
+2	zařízením	NNNP3-----A----	Adv
+3	hotelu	NNIS2-----A----	Atr
+4	patří	VB-S---3P-AA---	Pred
+5	pizzerie	NNFS1-----A----	Sb
+6	The	AAXXX----1A----	Atr
+7	Sienja	NNFXX-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kavárna	NNFS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	restaurace	NNFS1-----A----	Sb
+12	malá	AAFS1----1A----	Atr
+13	samoobsluha	NNFS1-----A----	Sb
+14	a	J^-------------	Coord
+15	obchod	NNIS1-----A----	Sb
+16	se	RV--7----------	AuxP
+17	suvenýry	NNIP7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9415-010-p9s4
+1	Rozsáhlá	AAFS1----1A----	Atr
+2	přijímací	AAFS1----1A----	Atr
+3	hala	NNFS1-----A----	ExD
+4	s	RR--7----------	AuxP
+5	recepcí	NNFS7-----A----	Atr
+6	,	Z:-------------	Coord
+7	6	C=-------------	ExD
+8	výtahů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9415-010-p9s5
+1	V	RR--6----------	AuxP
+2	hotelu	NNIS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	sauna	NNFS1-----A----	Sb
+5	(	Z:-------------	AuxG
+6	za	RR--4----------	AuxP
+7	poplatek	NNIS4-----A----	Adv
+8	)	Z:-------------	AuxG
+9	a	J^-------------	Coord
+10	fitness	AAXXX----1A----	Atr
+11	centrum	NNNS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+cmpr9415-010-p9s6
+1	K	RR--3----------	AuxP
+2	areálu	NNIS3-----A----	Adv
+3	patří	VB-P---3P-AA---	Pred
+4	2	C=-------------	Atr
+5	bazény	NNIP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	brouzdaliště	NNNS1-----A----	Sb
+8	pro	RR--4----------	AuxP
+9	děti	NNFP4-----A----	Atr
+10	a	J^-------------	Coord
+11	zastřešený	AAIS1----1A----	Atr
+12	bazén	NNIS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+cmpr9415-010-p9s7
+1	K	RR--3----------	AuxP
+2	použití	NNNS3-----A----	ExD
+3	za	RR--4----------	AuxP
+4	nízký	AAIS4----1A----	Atr
+5	poplatek	NNIS4-----A----	Atr
+6	slunečníky	NNIP1-----A----	ExD
+7	a	J^-------------	Coord
+8	lehátka	NNNP1-----A----	ExD
+9	.	Z:-------------	AuxK
+
+cmpr9415-010-p9s8A
+1	Pokoje	NNIP1-----A----	Sb
+2	mají	VB-P---3P-AA---	Pred
+3	klimatizaci	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	koupelnu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	WC	NNNXX-----A---8	Obj
+8	,	Z:-------------	AuxX
+9	rádio	NNNS4-----A----	Obj
+10	a	J^-------------	Coord
+11	telefon	NNIS4-----A----	Obj
+12	s	RR--7----------	AuxP
+13	přímou	AAFS7----1A----	Atr
+14	volbou	NNFS7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9415-010-p9s8B
+1	Polopenze	NNFS1-----A----	Sb
+2	sestává	VB-S---3P-AA---	Pred
+3	z	RR--2----------	AuxP
+4	kontinentální	AAFS2----1A----	Atr
+5	snídaně	NNFS2-----A----	Obj
+6	a	J^-------------	Coord
+7	jednotné	AAFS2----1A----	Atr
+8	večeře	NNFS2-----A----	Obj
+9	.	Z:-------------	AuxK
+

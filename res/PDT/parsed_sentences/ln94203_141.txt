@@ -1,0 +1,103 @@
+ln94203-141-p1s1
+1	Klatovský	AAIS1----1A----	Atr
+2	masokombinát	NNIS1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	trhy	NNIP4-----A----	Adv
+5	Evropské	AAFS2----1A----	Atr
+6	unie	NNFS2-----A----	Atr
+7	nevyváží	VB-S---3P-NA---	Pred
+
+ln94203-141-p2s1A
+1	Klatovy	NNIP1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94203-141-p2s1B
+1	Masokombinát	NNIS1-----A----	Atr
+2	Klatovy	NNIP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	současné	AAFS6----1A----	Atr
+5	době	NNFS6-----A----	Adv
+6	nevyužívá	VB-S---3P-NA---	Pred
+7	vývozní	AANS4----1A----	Atr
+8	povolení	NNNS4-----A----	Obj
+9	do	RR--2----------	AuxP
+10	zemí	NNFP2-----A----	Atr
+11	Evropské	AAFS2----1A----	Atr
+12	unie	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94203-141-p2s2
+1	Podle	RR--2----------	AuxP
+2	podniku	NNIS2-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	totiž	Db-------------	AuxY
+5	ceny	NNFP1-----A----	Sb
+6	klatovských	AAIP2----1A----	Atr
+7	výrobků	NNIP2-----A----	Atr
+8	příliš	Db-------------	Adv
+9	vysoké	AAFP1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+ln94203-141-p2s3
+1	Přitom	Db-------------	Adv
+2	cena	NNFS1-----A----	Sb
+3	surovin	NNFP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	tedy	Db-------------	Apos
+6	finanční	AAIP1----1A----	Atr
+7	prostředky	NNIP1-----A----	Sb
+8	požadované	AAIP1----1A----	Atr
+9	zemědělskými	AAMP7----1A----	Atr
+10	prvovýrobci	NNMP7-----A----	Obj
+11	za	RR--4----------	AuxP
+12	dodané	AANS4----1A----	Atr
+13	maso	NNNS4-----A----	Adv
+14	,	Z:-------------	AuxX
+15	tvoří	VB-P---3P-AA---	Pred
+16	80	C=-------------	Obj
+17	procent	NNNP2-----A----	Atr
+18	z	RR--2----------	AuxP
+19	celkových	AAIP2----1A----	Atr
+20	nákladů	NNIP2-----A----	Atr
+21	na	RR--4----------	AuxP
+22	tyto	PDIP4----------	Atr
+23	výrobky	NNIP4-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94203-141-p3s1
+1	Akciová	AAFS1----1A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	Masokombinát	NNIS1-----A----	Atr
+4	Klatovy	NNIP1-----A----	Atr
+5	dosáhla	VpQW---XR-AA---	Pred
+6	v	RR--6----------	AuxP
+7	loňském	AAIS6----1A----	Atr
+8	roce	NNIS6-----A---1	Adv
+9	zisku	NNIS2-----A----	Obj
+10	téměř	Db-------------	AuxZ
+11	osm	Cn-S4----------	Atr
+12	miliónů	NNIP2-----A----	Atr
+13	korun	NNFP2-----A----	Atr
+14	a	J^-------------	Coord
+15	obratu	NNIS2-----A----	Obj
+16	700	C=-------------	Atr
+17	miliónů	NNIP2-----A----	Atr
+18	korun	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94203-141-p3s2
+1	Valná	AAFS1----1A----	Atr
+2	hromada	NNFS1-----A----	Sb
+3	rozhodla	VpQW---XR-AA--1	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	nebude	VB-S---3F-NA---	AuxV
+7	za	RR--4----------	AuxP
+8	loňský	AAIS4----1A----	Atr
+9	rok	NNIS4-----A----	Atr
+10	vyplácet	Vf--------A----	Obj
+11	dividendy	NNFP4-----A----	Obj
+12	ani	J^-------------	Coord
+13	tantiemy	NNFP4-----A----	Obj
+14	.	Z:-------------	AuxK
+

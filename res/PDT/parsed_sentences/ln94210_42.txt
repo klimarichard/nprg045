@@ -1,0 +1,139 @@
+ln94210-42-p1s1
+1	Policejních	AAMP2----1A----	Atr
+2	studentů	NNMP2-----A----	Sb
+3	přibývá	VB-S---3P-AA---	Pred
+
+ln94210-42-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jap	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94210-42-p2s1B
+1	Počet	NNIS1-----A----	Sb
+2	policistů	NNMP2-----A----	Atr
+3	by	Vc-------------	AuxV
+4	měl	VpYS---XR-AA---	Pred
+5	do	RR--2----------	AuxP
+6	dvou	ClXP2----------	Atr
+7	až	J^-------------	Coord
+8	tří	ClXP2----------	Atr
+9	let	NNNP2-----A----	Adv
+10	odpovídat	Vf--------A----	Obj
+11	potřebám	NNFP3-----A----	Obj
+12	policie	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94210-42-p2s2
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	řekl	VpYS---XR-AA---	Pred
+4	náměstek	NNMS1-----A----	Atr
+5	ministra	NNMS2-----A----	Atr
+6	vnitra	NNNS2-----A----	Atr
+7	Martin	NNMS1-----A----	Atr
+8	Fendrych	NNMS1-----A----	Sb
+9	a	J^-------------	Coord
+10	dodal	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	situace	NNFS1-----A----	Sb
+14	se	P7-X4----------	AuxT
+15	podle	RR--2----------	AuxP
+16	jeho	PSXXXZS3-------	Atr
+17	názoru	NNIS2-----A----	Adv
+18	výrazně	Dg-------1A----	Adv
+19	změní	VB-S---3P-AA---	Obj
+20	,	Z:-------------	AuxX
+21	až	J,-------------	AuxC
+22	se	P7-X4----------	AuxT
+23	podaří	VB-S---3P-AA---	Adv
+24	obsadit	Vf--------A----	Sb
+25	zhruba	Db-------------	Adv
+26	3.5	C=-------------	Obj
+27	tisíce	NNIS2-----A----	Atr
+28	volných	AANP2----1A----	Atr
+29	míst	NNNP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94210-42-p2s3
+1	Zatím	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	u	RR--2----------	AuxP
+4	policie	NNFS2-----A----	Adv
+5	neobsazeno	VsNS---XX-NP---	Pnom
+6	asi	TT-------------	AuxZ
+7	5000	C=-------------	Sb
+8	míst	NNNP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	mnoho	Ca--4----------	Obj
+11	jich	PPXP2--3-------	Atr
+12	však	J^-------------	Coord
+13	zaplní	VB-P---3P-AA---	Pred
+14	nynější	AAMP1----1A----	Atr
+15	studenti	NNMP1-----A----	Sb
+16	policejních	AAFP2----1A----	Atr
+17	škol	NNFP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	kterých	P4XP2----------	Sb
+20	podle	RR--2----------	AuxP
+21	Fendrycha	NNMS2-----A----	Adv
+22	neustále	Dg-------1A----	Adv
+23	přibývá	VB-S---3P-AA---	Atr
+24	.	Z:-------------	AuxK
+
+ln94210-42-p3s1
+1	Podle	RR--2----------	AuxP
+2	policejního	AAMS2----1A----	Atr
+3	prezidenta	NNMS2-----A----	Atr
+4	Stanislava	NNMS2-----A----	Atr
+5	Novotného	NNMS2-----A----	Adv
+6	policisté	NNMP1-----A----	Sb
+7	již	Db-------------	Adv
+8	netráví	VB-P---3P-NA---	Pred
+9	tolik	Ca--4----------	Obj
+10	času	NNIS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	kancelářích	NNFP6-----A----	Adv
+13	a	J^-------------	Coord
+14	více	Dg-------2A----	Adv
+15	se	P7-X4----------	AuxT
+16	věnují	VB-P---3P-AA---	Pred
+17	přímo	Dg-------1A----	AuxZ
+18	boji	NNIS3-----A----	Obj
+19	se	RV--7----------	AuxP
+20	zločinem	NNIS7-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94210-42-p3s2
+1	Novotný	NNMS1-----A----	Sb
+2	to	PDNS4----------	Obj
+3	vyvozuje	VB-S---3P-AA---	Pred
+4	ze	RV--2----------	AuxP
+5	statistiky	NNFS2-----A----	Obj
+6	,	Z:-------------	AuxX
+7	podle	RR--2----------	AuxP
+8	níž	P9FS2----------	Adv
+9	v	RR--6----------	AuxP
+10	první	CrFS6----------	Atr
+11	půli	NNFS6-----A----	Adv
+12	letošního	AAIS2----1A----	Atr
+13	roku	NNIS2-----A---1	Atr
+14	ve	RV--6----------	AuxP
+15	srovnání	NNNS6-----A----	AuxP
+16	se	RV--7----------	AuxP
+17	stejným	AANS7----1A----	Atr
+18	obdobím	NNNS7-----A----	Adv
+19	roku	NNIS2-----A---1	Atr
+20	loňského	AAIS2----1A----	Atr
+21	stoupl	VpYS---XR-AA--1	Atr
+22	o	RR--4----------	AuxP
+23	47	C=-------------	Adv
+24	procent	NNNP2-----A----	Atr
+25	počet	NNIS1-----A----	Sb
+26	útoků	NNIP2-----A----	Atr
+27	na	RR--4----------	AuxP
+28	policisty	NNMP4-----A----	Atr
+29	.	Z:-------------	AuxK
+

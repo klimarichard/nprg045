@@ -1,0 +1,161 @@
+ln95040-120-p1s1
+1	Strahovský	AAIS1----1A----	Atr
+2	tunel	NNIS1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	podzim	NNIS4-----A----	ExD
+5	1996	C=-------------	Atr
+
+ln95040-120-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-120-p2s1B
+1	Pražský	AAIS1----1A----	Atr
+2	strahovský	AAIS1----1A----	Atr
+3	tunel	NNIS1-----A----	Sb
+4	bude	VB-S---3F-AA---	AuxV
+5	pravděpodobně	Dg-------1A----	AuxY
+6	uveden	VsYS---XX-AP---	Pred
+7	do	RR--2----------	AuxP
+8	provozu	NNIS2-----A----	Obj
+9	v	RR--6----------	AuxP
+10	září	NNNS6-----A----	Adv
+11	příštího	AAIS2----1A----	Atr
+12	roku	NNIS2-----A---1	Atr
+13	.	Z:-------------	AuxK
+
+ln95040-120-p2s2
+1	Novinářům	NNMP3-----A----	Obj
+2	to	PDNS4----------	Obj
+3	sdělil	VpYS---XR-AA---	Pred
+4	pražský	AAMS1----1A----	Atr
+5	primátor	NNMS1-----A----	Atr
+6	Jan	NNMS1-----A----	Atr
+7	Koukal	NNMS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95040-120-p2s3
+1	Tato	PDFS1----------	Atr
+2	lhůta	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	jeho	PSXXXZS3-------	Atr
+6	slov	NNNP2-----A----	Adv
+7	technicky	Dg-------1A----	Adv
+8	reálná	AAFS1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	skutečný	AAIS1----1A----	Atr
+11	termín	NNIS1-----A----	Sb
+12	však	J^-------------	Coord
+13	závisí	VB-S---3P-AA---	Pred
+14	na	RR--6----------	AuxP
+15	tom	PDZS6----------	Obj
+16	,	Z:-------------	AuxX
+17	zda	J,-------------	AuxC
+18	budou	VB-P---3F-AA---	AuxV
+19	včas	Db-------------	Adv
+20	získána	VsQW---XX-AP---	Atr
+21	všechna	PLNP1----------	Atr
+22	potřebná	AANP1----1A----	Atr
+23	povolení	NNNP1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln95040-120-p2s4
+1	Motoristům	NNMP3-----A----	Obj
+2	by	Vc-------------	AuxV
+3	podle	RR--2----------	AuxP
+4	Koukala	NNMS2-----A----	Adv
+5	sloužily	VpTP---XR-AA---	Pred
+6	oba	ClYP1----------	Atr
+7	tubusy	NNIP1-----A----	Sb
+8	tunelu	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	na	RR--6----------	AuxP
+11	smíchovské	AAFS6----1A----	Atr
+12	straně	NNFS6-----A----	Adv
+13	by	Vc-------------	AuxV
+14	však	J^-------------	Coord
+15	zatím	Db-------------	Adv
+16	ústily	VpTP---XR-AA---	Pred
+17	pouze	Db-------------	AuxZ
+18	do	RR--2----------	AuxP
+19	jedné	ClFS2----------	Atr
+20	komunikace	NNFS2-----A----	Adv
+21	,	Z:-------------	AuxX
+22	která	P4FS1----------	Sb
+23	svede	VB-S---3P-AA---	Atr
+24	dopravu	NNFS4-----A----	Obj
+25	do	RR--2----------	AuxP
+26	Plzeňské	AAFS2----1A----	Atr
+27	ulice	NNFS2-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln95040-120-p2s5
+1	Primátor	NNMS1-----A----	Sb
+2	připustil	VpYS---XR-AA---	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	představitelé	NNMP1-----A----	Sb
+6	radnic	NNFP2-----A----	Atr
+7	Prahy	NNFS2-----A----	Atr
+8	5	C=-------------	Atr
+9	a	J^-------------	Coord
+10	6	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	na	RR--6----------	AuxP
+13	jejichž	P1XXXXP3-------	Atr
+14	území	NNNS6-----A----	Adv
+15	tunel	NNIS1-----A----	Sb
+16	vyúsťuje	VB-S---3P-AA---	Atr
+17	,	Z:-------------	AuxX
+18	vyslovili	VpMP---XR-AA---	Obj
+19	obavy	NNFP4-----A----	Obj
+20	z	RR--2----------	AuxP
+21	neúměrného	AANS2----1N----	Atr
+22	dopravního	AANS2----1A----	Atr
+23	zatížení	NNNS2-----A----	Atr
+24	tamních	AAFP2----1A----	Atr
+25	komunikací	NNFP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	pokud	J,-------------	AuxC
+28	bude	VB-S---3F-AA---	AuxV
+29	tunel	NNIS1-----A----	Sb
+30	otevřen	VsYS---XX-AP---	Atr
+31	dřív	Dg-------2A---2	Adv
+32	,	Z:-------------	AuxX
+33	než	J,-------------	AuxC
+34	se	P7-X4----------	AuxR
+35	dostaví	VB-S---3P-AA---	Adv
+36	vnitřní	AAIS1----1A----	Atr
+37	dopravní	AAIS1----1A----	Atr
+38	okruh	NNIS1-----A----	Sb
+39	.	Z:-------------	AuxK
+
+ln95040-120-p2s6
+1	Tunel	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	odlehčit	Vf--------A----	Obj
+5	silnému	AAIS3----1A----	Atr
+6	silničnímu	AAIS3----1A----	Atr
+7	provozu	NNIS3-----A----	Obj
+8	na	RR--6----------	AuxP
+9	Malé	AAFS6----1A----	Atr
+10	Straně	NNFS6-----A----	Atr
+11	a	J^-------------	Coord
+12	na	RR--6----------	AuxP
+13	Smetanově	AUNS6M---------	Atr
+14	nábřeží	NNNS6-----A----	Atr
+15	a	J^-------------	Coord
+16	přinést	Vf--------A----	Obj
+17	úsporu	NNFS4-----A----	Obj
+18	9.2	C=-------------	Atr
+19	mil	NNIXX-----A---8	Atr
+20	.	Z:-------------	AuxG
+21	litrů	NNIP2-----A----	Atr
+22	benzínu	NNIS2-----A----	Atr
+23	a	J^-------------	Coord
+24	nafty	NNFS2-----A----	Atr
+25	ročně	Dg-------1A----	AtrAdv
+26	.	Z:-------------	AuxK
+

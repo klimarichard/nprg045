@@ -1,0 +1,93 @@
+ln94205-17-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln94205-17-p2s1
+1	Odbyt	NNIS1-----A----	Sb
+2	nákladních	AAIP2----1A----	Atr
+3	i	J^-------------	Coord
+4	osobních	AAIP2----1A----	Atr
+5	automobilů	NNIP2-----A----	Atr
+6	Mercedes	NNIS1-----A----	Atr
+7	-	Z:-------------	AuxG
+8	Benz	NNIXX-----A----	Atr
+9	stoupl	VpYS---XR-AA--1	Pred
+10	letos	Db-------------	Adv
+11	v	RR--6----------	AuxP
+12	prvním	CrNS6----------	Atr
+13	pololetí	NNNS6-----A----	Adv
+14	o	RR--4----------	AuxP
+15	20	C=-------------	Adv
+16	procent	NNNP2-----A----	Atr
+17	na	RR--4----------	AuxP
+18	34.675	C=-------------	Obj
+19	miliardy	NNFS2-----A----	Atr
+20	marek	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94205-17-p2s2
+1	Společnost	NNFS1-----A----	Sb
+2	to	PDNS4----------	Obj
+3	ve	RV--6----------	AuxP
+4	své	P8FS6---------1	Atr
+5	středeční	AAFS6----1A----	Atr
+6	zprávě	NNFS6-----A----	Adv
+7	označila	VpQW---XR-AA---	Pred
+8	za	RR--4----------	AuxP
+9	impozantní	AANS4----1A----	Obj
+10	,	Z:-------------	AuxX
+11	protože	J,-------------	AuxC
+12	oživení	NNNS1-----A----	Sb
+13	světového	AAIS2----1A----	Atr
+14	automobilového	AAIS2----1A----	Atr
+15	trhu	NNIS2-----A----	Atr
+16	je	VB-S---3P-AA---	Adv
+17	zatím	Db-------------	Adv
+18	pouze	Db-------------	AuxZ
+19	náznakové	AANS1----1A----	Pnom
+20	.	Z:-------------	AuxK
+
+ln94205-17-p3s1
+1	Objem	NNIS1-----A----	Sb
+2	německého	AAIS2----1A----	Atr
+3	vývozu	NNIS2-----A----	Atr
+4	do	RR--2----------	AuxP
+5	postkomunistických	AAFP2----1A----	Atr
+6	zemí	NNFP2-----A----	Atr
+7	střední	AAFS2----1A----	Atr
+8	a	J^-------------	Coord
+9	východní	AAFS2----1A----	Atr
+10	Evropy	NNFS2-----A----	Atr
+11	vzrostl	VpYS---XR-AA---	Pred
+12	za	RR--4----------	AuxP
+13	loňský	AAIS4----1A----	Atr
+14	rok	NNIS4-----A----	Adv
+15	o	RR--4----------	AuxP
+16	15.6	C=-------------	Adv
+17	procenta	NNNS2-----A----	Atr
+18	na	RR--4----------	AuxP
+19	27.72	C=-------------	Obj
+20	miliardy	NNFS2-----A----	Atr
+21	DEM	NNFXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+
+ln94205-17-p3s2
+1	Dovoz	NNIS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	těchto	PDXP2----------	Atr
+4	zemí	NNFP2-----A----	Atr
+5	mimo	RR--4----------	AuxP
+6	SNS	NNNXX-----A---8	Atr
+7	a	J^-------------	Coord
+8	včetně	RR--2----------	AuxP
+9	pobaltských	AAFP2----1A----	Atr
+10	republik	NNFP2-----A----	Atr
+11	stoupl	VpYS---XR-AA--1	Pred
+12	o	RR--4----------	AuxP
+13	4.3	C=-------------	Adv
+14	procenta	NNNS2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	23.73	C=-------------	Obj
+17	miliardy	NNFS2-----A----	Atr
+18	DEM	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+

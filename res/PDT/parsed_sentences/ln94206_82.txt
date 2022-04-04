@@ -1,0 +1,677 @@
+ln94206-82-p1s1
+1	Na	RR--6----------	AuxP
+2	trase	NNFS6-----A----	ExD
+3	Berlín	NNIS1-----A----	Atr
+4	-	Z:-------------	Coord
+5	Moskva	NNFS1-----A----	Atr
+
+ln94206-82-p2s1A
+1	Krzysztof	NNMS1-----A----	Atr
+2	Skubiszewski	NNMS1-----A----	Sb
+3	odpovídá	VB-S---3P-AA---	Pred
+4	LN	NNFPX-----A---8	Obj
+
+ln94206-82-p2s1B
+1	Jana	NNFS1-----A----	Atr
+2	Blažková	NNFS1-----A----	ExD
+
+ln94206-82-p2s1C
+1	Po	RR--4----------	AuxP
+2	celou	AAFS4----1A----	Atr
+3	dobu	NNFS4-----A----	Adv
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	jsem	VB-S---1P-AA---	AuxV
+7	byl	VpYS---XR-AA---	Atr
+8	ministrem	NNMS7-----A----	Pnom
+9	,	Z:-------------	AuxX
+10	jsem	VB-S---1P-AA---	AuxV
+11	se	P7-X4----------	AuxT
+12	soustředil	VpYS---XR-AA---	Pred
+13	na	RR--4----------	AuxP
+14	dva	ClYP4----------	Atr
+15	pilíře	NNIP4-----A----	Obj
+16	polské	AAFS2----1A----	Atr
+17	zahraniční	AAFS2----1A----	Atr
+18	politiky	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94206-82-p2s2
+1	Prvním	CrIS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	je	VB-S---3P-AA---	Obj
+5	evropská	AAFS1----1A----	Atr
+6	integrace	NNFS1-----A----	Sb
+7	,	Z:-------------	Coord
+8	druhým	CrIS7----------	ExD
+9	vybudování	NNNS1-----A----	ExD
+10	co	Db-------------	Adv
+11	nejlepších	AAIP2----3A----	Atr
+12	vztahů	NNIP2-----A----	Atr
+13	se	RV--7----------	AuxP
+14	sousedními	AAFP7----1A----	Atr
+15	zeměmi	NNFP7-----A----	Atr
+16	,	Z:-------------	AuxX
+17	objasňuje	VB-S---3P-AA---	Pred
+18	profesor	NNMS1-----A----	Atr
+19	mezinárodního	AANS2----1A----	Atr
+20	práva	NNNS2-----A----	Atr
+21	a	J^-------------	Coord
+22	bývalý	AAMS1----1A----	Atr
+23	polský	AAMS1----1A----	Atr
+24	ministr	NNMS1-----A----	Atr
+25	zahraničí	NNNS2-----A----	Atr
+26	Krzysztof	NNMS1-----A----	Atr
+27	Skubiszewski	NNMS1-----A----	Sb
+28	základní	AAIP4----1A----	Atr
+29	body	NNIP4-----A----	Obj
+30	,	Z:-------------	AuxX
+31	na	RR--6----------	AuxP
+32	kterých	P4XP6----------	Obj
+33	je	VB-S---3P-AA---	Atr
+34	postavena	VsQW---XX-AP---	Pnom
+35	polská	AAFS1----1A----	Atr
+36	zahraniční	AAFS1----1A----	Atr
+37	politika	NNFS1-----A----	Sb
+38	.	Z:-------------	AuxK
+
+ln94206-82-p2s3
+1	Profesor	NNMS1-----A----	Sb
+2	Skubiszewski	NNMS1-----A----	Atr
+3	navštívil	VpYS---XR-AA---	Pred
+4	tento	PDIS4----------	Atr
+5	týden	NNIS4-----A----	Adv
+6	Prahu	NNFS4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	pozvání	NNNS4-----A----	Adv
+9	nadace	NNFS2-----A----	Atr
+10	Bohemia	NNFXX-----A----	Atr
+11	.	Z:-------------	AuxK
+12	o	Z:-------------	AuxK
+
+ln94206-82-p3s1
+1	Odvěkým	AAIS7----1A----	Atr
+2	problémem	NNIS7-----A----	Pnom
+3	Polska	NNNS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	stejně	Dg-------1A----	Adv
+6	jako	J,-------------	AuxC
+7	České	AAFS2----1A----	Atr
+8	republiky	NNFS2-----A----	ExD
+9	,	Z:-------------	AuxX
+10	jsou	VB-P---3P-AA---	Pred
+11	vztahy	NNIP1-----A----	Sb
+12	s	RR--7----------	AuxP
+13	Německem	NNNS7-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94206-82-p3s2
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	německo	A2--------A----	Atr
+6	-	Z:-------------	Coord
+7	polské	AAIP1----1A----	Atr
+8	vztahy	NNIP1-----A----	Sb
+9	na	RR--6----------	AuxP
+10	mnohem	Db-------------	Adv
+11	lepší	AAFS6----2A----	Atr
+12	úrovni	NNFS6-----A----	Adv
+13	než	J,-------------	AuxC
+14	česko	A2--------A----	ExD
+15	-	Z:-------------	Coord
+16	německé	AAIP1----1A----	ExD
+17	.	Z:-------------	AuxK
+
+ln94206-82-p3s3
+1	Jak	Db-------------	Adv
+2	si	P7-X3----------	Obj
+3	vysvětlujete	VB-P---2P-AA---	Pred
+4	tento	PDIS4----------	Atr
+5	rozdíl	NNIS4-----A----	Obj
+6	?	Z:-------------	AuxK
+
+ln94206-82-p4s1
+1	Pro	RR--4----------	AuxP
+2	Polsko	NNNS4-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	důležitá	AAFS1----1A----	Pnom
+5	jeho	PSXXXZS3-------	Atr
+6	geografická	AAFS1----1A----	Atr
+7	pozice	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94206-82-p4s2
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	naše	PSHS1-P1-------	Atr
+7	země	NNFS1-----A----	Sb
+8	leží	VB-S---3P-AA---	Atr
+9	na	RR--6----------	AuxP
+10	přímé	AAFS6----1A----	Atr
+11	linii	NNFS6-----A----	Adv
+12	Německo	NNNS1-----A----	Atr
+13	-	Z:-------------	Coord
+14	Rusko	NNNS1-----A----	Atr
+15	a	J^-------------	Coord
+16	další	AAIP1----1A----	Atr
+17	bývalé	AAIP1----1A----	Atr
+18	státy	NNIP1-----A----	Atr
+19	Sovětského	AAIS2----1A----	Atr
+20	svazu	NNIS2-----A----	Atr
+21	(	Z:-------------	Apos
+22	Ukrajina	NNFS1-----A----	Atr
+23	a	J^-------------	Coord
+24	Bělorusko	NNNS1-----A----	Atr
+25	)	Z:-------------	AuxG
+26	,	Z:-------------	AuxX
+27	bylo	VpNS---XR-AA---	Pred
+28	v	RR--6----------	AuxP
+29	našem	PSZS6-P1-------	Atr
+30	zájmu	NNIS6-----A----	Adv
+31	urovnat	Vf--------A----	Sb
+32	vztahy	NNIP4-----A----	Obj
+33	s	RR--7----------	AuxP
+34	Německem	NNNS7-----A----	Atr
+35	co	Db-------------	Adv
+36	nejrychleji	Dg-------3A----	Adv
+37	a	J^-------------	Coord
+38	na	RR--4----------	AuxP
+39	co	Db-------------	Adv
+40	nejlepší	AAFS4----3A----	Atr
+41	úroveň	NNFS4-----A----	Adv
+42	.	Z:-------------	AuxK
+
+ln94206-82-p4s3
+1	Česká	AAFS1----1A----	Atr
+2	republika	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	z	RR--2----------	AuxP
+5	východu	NNIS2-----A----	Adv
+6	chráněná	AAFS1----1A----	Atr
+7	Slovenskem	NNNS7-----A----	Obj
+8	,	Z:-------------	AuxX
+9	v	RR--6----------	AuxP
+10	tak	Db-------------	Adv
+11	obtížné	AAFS6----1A----	Atr
+12	situaci	NNFS6-----A----	Adv
+13	není	VB-S---3P-NA---	Pred
+14	,	Z:-------------	AuxX
+15	proto	J^-------------	Coord
+16	vyčkává	VB-S---3P-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln94206-82-p4s4
+1	Text	NNIS1-----A----	Sb
+2	polsko	A2--------A----	Atr
+3	-	Z:-------------	Coord
+4	německé	AAFS2----1A----	Atr
+5	dohody	NNFS2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	však	J^-------------	Coord
+8	příliš	Db-------------	Adv
+9	neliší	VB-S---3P-NA---	Pred
+10	od	RR--2----------	AuxP
+11	textu	NNIS2-----A----	Obj
+12	bývalé	AAFS2----1A----	Atr
+13	československo	A2--------A----	Atr
+14	-	Z:-------------	Coord
+15	německé	AAFS2----1A----	Atr
+16	dohody	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+18	o	Z:-------------	AuxK
+
+ln94206-82-p5s1
+1	Varšava	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	stavěla	VpQW---XR-AA---	Pred
+4	kriticky	Dg-------1A----	Adv
+5	k	RR--3----------	AuxP
+6	jisté	AAFS3----1A----	Atr
+7	zdrženlivosti	NNFS3-----A----	Obj
+8	české	AAFS2----1A----	Atr
+9	strany	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	oblasti	NNFS6-----A----	AuxP
+12	spolupráce	NNFS2-----A----	Atr
+13	středoevropských	AAFP2----1A----	Atr
+14	zemí	NNFP2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	rámci	NNIS6-----A----	AuxP
+17	visegrádské	AAFS2----1A----	Atr
+18	skupiny	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94206-82-p5s2
+1	Jak	Db-------------	Adv
+2	vy	PP-P1--2-------	Sb
+3	osobně	Dg-------1A----	Adv
+4	vidíte	VB-P---2P-AA---	Pred
+5	budoucnost	NNFS4-----A----	Obj
+6	tohoto	PDZS2----------	Atr
+7	sdružení	NNNS2-----A----	Atr
+8	z	RR--2----------	AuxP
+9	hlediska	NNNS2-----A----	AuxP
+10	zájmu	NNIS2-----A----	Adv
+11	jeho	PSXXXZS3-------	Atr
+12	členů	NNMP2-----A----	Atr
+13	o	RR--4----------	AuxP
+14	co	Db-------------	Adv
+15	nejrychlejší	AAIS4----3A----	Atr
+16	vstup	NNIS4-----A----	Atr
+17	do	RR--2----------	AuxP
+18	Evropské	AAFS2----1A----	Atr
+19	unie	NNFS2-----A----	Atr
+20	a	J^-------------	Coord
+21	NATO	NNNXX-----A---8	Atr
+22	?	Z:-------------	AuxK
+
+ln94206-82-p6s1
+1	Společným	AAIS7----1A----	Atr
+2	cílem	NNIS7-----A----	Pnom
+3	všech	PLXP2----------	Atr
+4	států	NNIP2-----A----	Atr
+5	visegrádské	AAFS2----1A----	Atr
+6	skupiny	NNFS2-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	Brusel	NNIS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94206-82-p6s2
+1	Spoluprací	NNFS7-----A----	Adv
+2	můžeme	VB-P---1P-AA---	Pred
+3	udělat	Vf--------A----	Obj
+4	mnoho	Ca--4----------	Obj
+5	.	Z:-------------	AuxK
+
+ln94206-82-p6s3
+1	Vstup	NNIS1-----A----	Sb
+2	do	RR--2----------	AuxP
+3	evropských	AAFP2----1A----	Atr
+4	struktur	NNFP2-----A----	Atr
+5	proběhne	VB-S---3P-AA---	Pred
+6	sice	Db-------------	AuxY
+7	na	RR--6----------	AuxP
+8	individuálním	AAIS6----1A----	Atr
+9	základě	NNIS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	ale	J^-------------	Coord
+12	např	Db------------8	AuxZ
+13	.	Z:-------------	AuxG
+14	vzájemnou	AAFS7----1A----	Atr
+15	výměnou	NNFS7-----A----	Adv
+16	informací	NNFP2-----A----	Atr
+17	si	P7-X3----------	Obj
+18	situaci	NNFS4-----A----	Obj
+19	velmi	Db-------------	Adv
+20	usnadníme	VB-P---1P-AA---	Pred
+21	.	Z:-------------	AuxK
+
+ln94206-82-p6s4
+1	S	RR--7----------	AuxP
+2	obavami	NNFP7-----A----	Obj
+3	,	Z:-------------	AuxX
+4	se	RV--7----------	AuxP
+5	kterými	P4XP7----------	Adv
+6	Praha	NNFS1-----A----	Sb
+7	hledí	VB-S---3P-AA---	Atr
+8	na	RR--4----------	AuxP
+9	tento	PDIS4----------	Atr
+10	svazek	NNIS4-----A----	Adv
+11	,	Z:-------------	AuxX
+12	zásadně	Dg-------1A----	Adv
+13	nesouhlasím	VB-S---1P-NA---	Pred
+14	.	Z:-------------	AuxK
+15	o	Z:-------------	AuxK
+
+ln94206-82-p7s1
+1	Někteří	PZMP1----------	Atr
+2	představitelé	NNMP1-----A----	Sb
+3	vaší	PSFS2-P2-------	Atr
+4	vlády	NNFS2-----A----	Atr
+5	nedávno	Db-------------	Adv
+6	uvedli	VpMP---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	se	P7-X4----------	AuxT
+10	Polsko	NNNS1-----A----	Sb
+11	stane	VB-S---3P-AA---	Obj
+12	první	CrFS7----------	Atr
+13	středoevropskou	AAFS7----1A----	Atr
+14	zemí	NNFS7-----A----	Obj
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	vstoupí	VB-S---3P-AA---	Atr
+18	do	RR--2----------	AuxP
+19	NATO	NNNXX-----A---8	Adv
+20	.	Z:-------------	AuxK
+
+ln94206-82-p7s2
+1	Vaše	PSHS1-P2-------	Atr
+2	armáda	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	na	RR--4----------	AuxP
+5	to	PDNS4----------	Obj
+6	údajně	Dg-------1A----	Adv
+7	nejlépe	Dg-------3A----	Adv
+8	připravena	VsQW---XX-AP---	Pnom
+9	.	Z:-------------	AuxK
+
+ln94206-82-p7s3
+1	Souhlasíte	VB-P---2P-AA---	Pred
+2	s	RR--7----------	AuxP
+3	tímto	PDZS7----------	Atr
+4	názorem	NNIS7-----A----	Obj
+5	?	Z:-------------	AuxK
+
+ln94206-82-p8s1
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	těžké	AANS1----1A----	Pnom
+6	určit	Vf--------A----	Sb
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	ze	RV--2----------	AuxP
+10	zemí	NNFP2-----A----	Atr
+11	visegrádské	AAFS2----1A----	Atr
+12	skupiny	NNFS2-----A----	Atr
+13	bude	VB-S---3F-AA---	AuxV
+14	první	CrFS1----------	Atv
+15	připravena	VsQW---XX-AP---	Obj
+16	vstoupit	Vf--------A----	Obj
+17	do	RR--2----------	AuxP
+18	NATO	NNNXX-----A---8	Adv
+19	.	Z:-------------	AuxK
+
+ln94206-82-p8s2
+1	U	RR--2----------	AuxP
+2	Polska	NNNS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	vstup	NNIS1-----A----	Sb
+5	do	RR--2----------	AuxP
+6	aliance	NNFS2-----A----	Atr
+7	ovlivněn	VsYS---XX-AP---	Pnom
+8	i	J^-------------	AuxZ
+9	jeho	PSXXXZS3-------	Atr
+10	geostrategickou	AAFS7----1A----	Atr
+11	polohou	NNFS7-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94206-82-p8s3
+1	Ta	PDFS1----------	Sb
+2	může	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	Obj
+4	pro	RR--4----------	AuxP
+5	NATO	NNNXX-----A---8	Adv
+6	zajímavá	AAFS1----1A----	Pnom
+7	.	Z:-------------	AuxK
+
+ln94206-82-p8s4
+1	A	J^-------------	Coord
+2	tuto	PDFS4----------	Atr
+3	skutečnost	NNFS4-----A----	Obj
+4	jsem	VB-S---1P-AA---	AuxV
+5	se	P7-X4----------	AuxT
+6	snažil	VpYS---XR-AA---	Pred
+7	zdůraznit	Vf--------A----	Obj
+8	v	RR--6----------	AuxP
+9	době	NNFS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	kdy	Db-------------	Adv
+12	jsem	VB-S---1P-AA---	AuxV
+13	byl	VpYS---XR-AA---	Atr
+14	ministrem	NNMS7-----A----	Pnom
+15	zahraničí	NNNS2-----A----	Atr
+16	-	Z:-------------	Apos
+17	hned	Db-------------	AuxZ
+18	po	RR--6----------	AuxP
+19	roce	NNIS6-----A---1	Adv
+20	1989	C=-------------	Atr
+21	,	Z:-------------	AuxX
+22	kdy	Db-------------	Adv
+23	jsme	VB-P---1P-AA---	AuxV
+24	komunistům	NNMP3-----A----	Obj
+25	vzali	VpMP---XR-AA---	Atr
+26	moc	NNFS4-----A----	Obj
+27	.	Z:-------------	AuxK
+
+ln94206-82-p8s5
+1	Mou	PSFS7-S1------1	Atr
+2	úlohou	NNFS7-----A----	Pnom
+3	bylo	VpNS---XR-AA---	Pred
+4	změnit	Vf--------A----	Sb
+5	,	Z:-------------	Apos
+6	transformovat	Vf--------A----	Sb
+7	nevýhody	NNFP4-----A----	Obj
+8	naší	PSFS2-P1-------	Atr
+9	geografické	AAFS2----1A----	Atr
+10	pozice	NNFS2-----A----	Atr
+11	ve	RV--4----------	AuxP
+12	výhody	NNFP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94206-82-p8s6
+1	Ukázat	Vf--------A----	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	Polsko	NNNS1-----A----	Sb
+5	je	VB-S---3P-AA---	Obj
+6	země	NNFS1-----A----	Pnom
+7	,	Z:-------------	AuxX
+8	která	P4FS1----------	Sb
+9	je	VB-S---3P-AA---	Atr
+10	pro	RR--4----------	AuxP
+11	Západ	NNIS4-----A----	Adv
+12	důležitá	AAFS1----1A----	Pnom
+13	.	Z:-------------	AuxK
+
+ln94206-82-p8s7
+1	Pro	RR--4----------	AuxP
+2	NATO	NNNXX-----A---8	Adv
+3	však	J^-------------	Coord
+4	tato	PDFS1----------	Atr
+5	poloha	NNFS1-----A----	Sb
+6	pochopitelně	Dg-------1A----	Adv
+7	není	VB-S---3P-NA---	Pred
+8	vším	PLZS7----------	Pnom
+9	.	Z:-------------	AuxK
+
+ln94206-82-p8s8
+1	Musíme	VB-P---1P-AA---	Pred
+2	změnit	Vf--------A----	Obj
+3	i	J^-------------	AuxZ
+4	vybavení	NNNS4-----A----	Obj
+5	armády	NNFS2-----A----	Atr
+6	,	Z:-------------	Coord
+7	což	PE--1----------	Sb
+8	vzhledem	RF-------------	AuxP
+9	k	RR--3----------	AuxP
+10	finanční	AAFS3----1A----	Atr
+11	situaci	NNFS3-----A----	Adv
+12	není	VB-S---3P-NA---	Pred
+13	právě	Db-------------	Adv
+14	jednoduché	AANS1----1A----	Pnom
+15	.	Z:-------------	AuxK
+16	o	Z:-------------	AuxK
+
+ln94206-82-p9s1
+1	Která	P4FS1----------	Sb
+2	ze	RV--2----------	AuxP
+3	zemí	NNFP2-----A----	Atr
+4	visegrádské	AAFS2----1A----	Atr
+5	skupiny	NNFS2-----A----	Atr
+6	má	VB-S---3P-AA---	Pred
+7	podle	RR--2----------	AuxP
+8	vašeho	PSZS2-P2-------	Atr
+9	mínění	NNNS2-----A----	Adv
+10	největší	AAFS4----3A----	Atr
+11	šanci	NNFS4-----A----	Obj
+12	vstoupit	Vf--------A----	Atr
+13	jako	J,-------------	AuxY
+14	první	CrFS1----------	Atv
+15	do	RR--2----------	AuxP
+16	EU	NNFXX-----A---8	Adv
+17	?	Z:-------------	AuxK
+
+ln94206-82-p10s1
+1	To	PDNS4----------	Obj
+2	nelze	VB-S---3P-NA---	Pred
+3	říci	Vf--------A---1	Sb
+4	.	Z:-------------	AuxK
+
+ln94206-82-p10s2
+1	Nevím	VB-S---1P-NA---	Pred
+2	,	Z:-------------	AuxX
+3	kdo	PKM-1----------	Sb
+4	by	Vc-------------	AuxV
+5	to	PDNS1----------	Pnom
+6	mohl	VpYS---XR-AA---	Obj
+7	být	Vf--------A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94206-82-p10s3
+1	Vyjednávání	NNNS1-----A----	Sb
+2	ještě	Db-------------	Adv
+3	ani	J^-------------	AuxZ
+4	nezačalo	VpNS---XR-NA---	Pred
+5	.	Z:-------------	AuxK
+
+ln94206-82-p10s4
+1	Ale	J^-------------	Coord
+2	ze	RV--2----------	AuxP
+3	strany	NNFS2-----A----	AuxP
+4	unie	NNFS2-----A----	Adv
+5	je	VB-S---3P-AA---	Pred
+6	patrná	AAFS1----1A----	Pnom
+7	tendence	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	přijímat	Vf--------A----	Atr
+10	několik	Ca--4----------	Obj
+11	zemí	NNFP2-----A----	Atr
+12	najednou	Db-------------	Adv
+13	.	Z:-------------	AuxK
+
+ln94206-82-p10s5
+1	To	PDNS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	nyní	Db-------------	Adv
+4	stalo	VpNS---XR-AA---	Pred
+5	s	RR--7----------	AuxP
+6	Rakouskem	NNNS7-----A----	Adv
+7	,	Z:-------------	AuxX
+8	Norskem	NNNS7-----A----	Adv
+9	,	Z:-------------	AuxX
+10	Švédskem	NNNS7-----A----	Adv
+11	a	J^-------------	Coord
+12	Finskem	NNNS7-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln94206-82-p10s6
+1	Mezi	RR--7----------	AuxP
+2	těmito	PDXP7----------	Atr
+3	státy	NNIP7-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	přitom	Db-------------	Adv
+6	určité	AAIP1----1A----	Atr
+7	rozdíly	NNIP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94206-82-p10s7
+1	Do	RR--2----------	AuxP
+2	unie	NNFS2-----A----	Adv
+3	však	J^-------------	Coord
+4	vstoupí	VB-P---3P-AA---	Pred
+5	najednou	Db-------------	Adv
+6	.	Z:-------------	AuxK
+
+ln94206-82-p10s8
+1	To	PDNS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	patrně	Dg-------1A----	AuxY
+4	stane	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	v	RR--6----------	AuxP
+7	případě	NNIS6-----A----	Adv
+8	České	AAFS2----1A----	Atr
+9	republiky	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	Polska	NNNS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	Maďarska	NNNS2-----A----	Atr
+14	a	J^-------------	Coord
+15	Slovenska	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+17	o	Z:-------------	AuxK
+
+ln94206-82-p11s1
+1	Co	PQ--4----------	Obj
+2	si	P7-X3----------	AuxT
+3	myslíte	VB-P---2P-AA---	Pred
+4	o	RR--6----------	AuxP
+5	vztazích	NNIP6-----A----	Obj
+6	mezi	RR--7----------	AuxP
+7	Českou	AAFS7----1A----	Atr
+8	republikou	NNFS7-----A----	Atr
+9	a	J^-------------	Coord
+10	Polskem	NNNS7-----A----	Atr
+11	?	Z:-------------	AuxK
+
+ln94206-82-p11s2
+1	Jaké	P4IP1----------	Atr
+2	problémy	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	mezi	RR--7----------	AuxP
+5	těmito	PDXP7----------	Atr
+6	dvěma	ClXP7----------	Atr
+7	zeměmi	NNFP7-----A----	Adv
+8	zásadní	AAIP1----1A----	Pnom
+9	?	Z:-------------	AuxK
+
+ln94206-82-p12s1
+1	Naše	PSIP1-P1-------	Atr
+2	vztahy	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	bezkonfliktní	AAIP1----1A----	Pnom
+5	.	Z:-------------	AuxK
+
+ln94206-82-p12s2
+1	Měly	VpTP---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	však	J^-------------	Coord
+4	být	Vf--------A----	Obj
+5	méně	Dg-------2A----	Adv
+6	pasivní	AAIP1----1A----	Pnom
+7	a	J^-------------	Coord
+8	dynamičtější	AAIP1----2A----	Pnom
+9	.	Z:-------------	AuxK
+
+ln94206-82-p12s3
+1	V	RR--6----------	AuxP
+2	otázkách	NNFP6-----A----	ExD
+3	regionálních	AAFP6----1A----	Atr
+4	i	J^-------------	Coord
+5	v	RR--6----------	AuxP
+6	těch	PDXP6----------	ExD
+7	evropských	AAFP6----1A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94206-82-p12s4
+1	Naše	PSHP1-P1-------	Atr
+2	země	NNFP1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měly	VpTP---XR-AA---	Pred
+5	na	RR--6----------	AuxP
+6	cestě	NNFS6-----A----	Obj
+7	do	RR--2----------	AuxP
+8	unie	NNFS2-----A----	Atr
+9	více	Dg-------2A----	Adv
+10	spolupracovat	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+

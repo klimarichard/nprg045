@@ -1,0 +1,252 @@
+ln95040-145-p1s1
+1	Padla	VpQW---XR-AA--1	Pred
+2	hranice	NNFS1-----A----	Sb
+3	miliardy	NNFS2-----A----	Atr
+4	bitů	NNIP2-----A----	Atr
+
+ln95040-145-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95040-145-p3s1A
+1	Tokio	NNNS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-145-p3s1B
+1	Kapacita	NNFS1-----A----	Sb
+2	polovodičových	AAIP2----1A----	Atr
+3	paměťových	AAIP2----1A----	Atr
+4	čipů	NNIP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	přesněji	Dg-------2A----	Apos
+7	pamětí	NNFP2-----A----	Atr
+8	označovaných	AAFP2----1A----	Atr
+9	DRAM	NNFXX-----A---8	Adv
+10	,	Z:-------------	AuxX
+11	jakoby	J,-------------	AuxY
+12	neměla	VpQW---XR-NA---	Pred
+13	úctu	NNFS4-----A----	Obj
+14	před	RR--7----------	AuxP
+15	fyzikálními	AAFP7----1A----	Atr
+16	hranicemi	NNFP7-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95040-145-p3s2
+1	Japonská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	NEC	NNIXX-----A----	Atr
+4	počátkem	NNIS7-----A----	AuxP
+5	tohoto	PDZS2----------	Atr
+6	týdne	NNIS2-----A----	Adv
+7	oznámila	VpQW---XR-AA---	Pred
+8	na	RR--6----------	AuxP
+9	Mezinárodní	AAFS6----1A----	Atr
+10	konferenci	NNFS6-----A----	Adv
+11	o	RR--6----------	AuxP
+12	polovodičích	NNIP6-----A----	Atr
+13	v	RR--6----------	AuxP
+14	San	AAXXX----1A----	Atr
+15	Francisku	NNNS6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	se	P7-X4----------	AuxT
+19	jí	PPFS3--3-------	Obj
+20	podařilo	VpNS---XR-AA---	Obj
+21	dosáhnout	Vf--------A----	Sb
+22	magické	AAFS2----1A----	Atr
+23	hranice	NNFS2-----A----	Obj
+24	jedné	ClFS2----------	Atr
+25	miliardy	NNFS2-----A----	Atr
+26	bitů	NNIP2-----A----	Atr
+27	informace	NNFS2-----A----	Atr
+28	(	Z:-------------	AuxG
+29	viz	Vi-S---2--A---1	Pred
+30	snímek	NNIS4-----A----	Obj
+31	)	Z:-------------	AuxG
+32	.	Z:-------------	AuxK
+
+ln95040-145-p4s1
+1	Nová	AAFS1----1A----	Atr
+2	gigabitová	AAFS1----1A----	Atr
+3	paměť	NNFS1-----A----	Sb
+4	umožňuje	VB-S---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	plochu	NNFS4-----A----	Adv
+7	nehtu	NNIS2-----A----	Atr
+8	pojmout	Vf--------A----	Obj
+9	deset	Cn-S4----------	Obj
+10	svazků	NNIP2-----A----	Atr
+11	kompletního	AANS2----1A----	Atr
+12	Shakespearova	AUNS2M---------	Atr
+13	díla	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95040-145-p4s2
+1	Její	PSXP1FS3-------	Atr
+2	přesné	AAIP1----1A----	Atr
+3	rozměry	NNIP1-----A----	Sb
+4	činí	VB-P---3P-AA---	Pred
+5	2.5	C=-------------	Obj
+6	x	J*-------------	Coord
+7	3.5	C=-------------	Obj
+8	centimetru	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95040-145-p4s3
+1	Může	VB-S---3P-AA---	Pred
+2	obsahovat	Vf--------A----	Obj
+3	ekvivalent	NNIS4-----A----	Obj
+4	4000	C=-------------	Atr
+5	novinových	AAFP2----1A----	Atr
+6	stran	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	čtyři	ClXP4----------	Atr
+9	hodiny	NNFP4-----A----	Obj
+10	zvuku	NNIS2-----A----	Atr
+11	-	Z:-------------	AuxG
+12	co	Db-------------	AuxP
+13	do	RR--2----------	AuxP
+14	kvality	NNFS2-----A----	Adv
+15	srovnatelného	AAIS2----1A----	Atr
+16	s	RR--7----------	AuxP
+17	kompaktní	AAFS7----1A----	Atr
+18	deskou	NNFS7-----A----	Obj
+19	-	Z:-------------	AuxG
+20	nebo	J^-------------	Coord
+21	15	C=-------------	Obj
+22	minut	NNFP2-----A----	Atr
+23	obrazu	NNIS2-----A----	Atr
+24	na	RR--6----------	AuxP
+25	úrovni	NNFS6-----A----	AuxP
+26	videa	NNNS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95040-145-p4s4
+1	Vodivé	AAFP1----1A----	Atr
+2	struktury	NNFP1-----A----	Sb
+3	součástky	NNFS2-----A----	Atr
+4	mají	VB-P---3P-AA---	Pred
+5	tloušťku	NNFS4-----A----	Obj
+6	pouhých	AAIP2----1A----	Atr
+7	0.25	C=-------------	Atr
+8	mikrometrů	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	tedy	Db-------------	Apos
+11	čtvrtiny	CyFS2----------	Atr
+12	milióntiny	CyFS2----------	Atr
+13	metru	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95040-145-p5s1
+1	Podle	RR--2----------	AuxP
+2	výkonného	AAMS2----1A----	Atr
+3	prezidenta	NNMS2-----A----	Atr
+4	firmy	NNFS2-----A----	Atr
+5	NEC	NNIXX-----A----	Atr
+6	H	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Sasakiho	NNMS2-----A----	Adv
+9	se	P7-X4----------	AuxT
+10	nová	AAFS1----1A----	Atr
+11	paměť	NNFS1-----A----	Sb
+12	DRAM	NNFXX-----A---8	Atr
+13	uplatní	VB-S---3P-AA---	Pred
+14	především	Db-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	multimediálních	AAIP6----1A----	Atr
+17	terminálech	NNIP6-----A----	Adv
+18	napojených	AAIP6----1A----	Atr
+19	na	RR--4----------	AuxP
+20	kabelové	AAFP4----1A----	Atr
+21	sítě	NNFP4-----A----	Adv
+22	a	J^-------------	Coord
+23	v	RR--6----------	AuxP
+24	příští	AAFS6----1A----	Atr
+25	generaci	NNFS6-----A----	Adv
+26	počítačů	NNIP2-----A----	Atr
+27	třídy	NNFS2-----A----	Atr
+28	notebook	NNIS1-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95040-145-p6s1
+1	Na	RR--4----------	AuxP
+2	nový	AAIS4----1A----	Atr
+3	klenot	NNIS4-----A----	Obj
+4	mikroelektroniky	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	alespoň	Db-------------	AuxZ
+7	ve	RV--6----------	AuxP
+8	fázi	NNFS6-----A----	Atr
+9	sériové	AAFS2----1A----	Atr
+10	výroby	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	si	P7-X3----------	AuxO
+13	však	J^-------------	Coord
+14	producenti	NNMP1-----A----	Sb
+15	elektronických	AANP2----1A----	Atr
+16	zařízení	NNNP2-----A----	Atr
+17	budou	VB-P---3F-AA---	AuxV
+18	muset	Vf--------A----	Pred
+19	počkat	Vf--------A----	Obj
+20	do	RR--2----------	AuxP
+21	roku	NNIS2-----A---1	Adv
+22	1999	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+ln95040-145-p6s2
+1	Firma	NNFS1-----A----	Sb
+2	NEC	NNIXX-----A----	Atr
+3	bude	VB-S---3F-AA---	AuxV
+4	do	RR--2----------	AuxP
+5	té	PDFS2----------	Atr
+6	doby	NNFS2-----A----	Adv
+7	muset	Vf--------A----	Pred
+8	investovat	Vf--------A----	Obj
+9	kolem	RR--2----------	AuxP
+10	1.5	C=-------------	Obj
+11	miliardy	NNFS2-----A----	Atr
+12	dolarů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95040-145-p7s1
+1	Jak	J,-------------	Adv
+2	uvedla	VpQW---XR-AA---	Pred
+3	agentura	NNFS1-----A----	Sb
+4	Reuter	NNMS1-----A----	Atr
+5	,	Z:-------------	AuxX
+6	obdobnou	AAFS4----1A----	Atr
+7	součástku	NNFS4-----A----	Obj
+8	se	P7-X4----------	AuxT
+9	v	RR--6----------	AuxP
+10	prototypu	NNIS6-----A----	Adv
+11	podařilo	VpNS---XR-AA---	Pred
+12	vyrobit	Vf--------A----	Sb
+13	také	Db-------------	AuxZ
+14	japonským	AAFP3----1A----	Atr
+15	firmám	NNFP3-----A----	Obj
+16	Hitachi	NNNXX-----A----	Atr
+17	a	J^-------------	Coord
+18	Toshiba	NNFS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95040-145-p8s1A
+1	Zatím	Db-------------	Adv
+2	jen	TT-------------	AuxZ
+3	Japonci	NNMP1-----A----	Sb
+4	dokáží	VB-P---3P-AA--1	Pred
+5	vyrobit	Vf--------A----	Obj
+6	prototyp	NNIS4-----A----	Obj
+7	paměti	NNFS2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	kapacitou	NNFS7-----A----	Atr
+10	jedné	ClFS2----------	Atr
+11	miliardy	NNFS2-----A----	Atr
+12	bitů	NNIP2-----A----	Atr
+
+ln95040-145-p8s1B
+1	Foto	NNNS1-----A----	ExD
+2	ČTK	NNFXX-----A---8	Atr
+

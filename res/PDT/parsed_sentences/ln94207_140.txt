@@ -1,0 +1,319 @@
+ln94207-140-p1s1
+1	S	RR--7----------	AuxP
+2	nepříbuzenskou	AAFS7----1N----	Atr
+3	transplantací	NNFS7-----A----	Atr
+4	kostní	AAFS2----1A----	Atr
+5	dřeně	NNFS2-----A----	Atr
+6	mají	VB-P---3P-AA---	Pred
+7	naši	PSMP1-P1-------	Atr
+8	lékaři	NNMP1-----A----	Sb
+9	málo	Ca--4----------	Obj
+10	zkušeností	NNFP2-----A----	Atr
+
+ln94207-140-p2s1A
+1	Olomouc	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pet	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94207-140-p2s1B
+1	Lékaři	NNMP1-----A----	Sb
+2	ve	RV--6----------	AuxP
+3	Fakultní	AAFS6----1A----	Atr
+4	nemocnici	NNFS6-----A----	Atr
+5	s	RR--7----------	AuxP
+6	poliklinikou	NNFS7-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Olomouci	NNFS6-----A----	Atr
+9	již	Db-------------	AuxZ
+10	několik	Ca--4----------	Adv
+11	týdnů	NNIP2-----A----	Atr
+12	připravují	VB-P---3P-AA---	Pred
+13	na	RR--4----------	AuxP
+14	nepříbuzenskou	AAFS4----1N----	Atr
+15	transplantaci	NNFS4-----A----	Obj
+16	kostní	AAFS2----1A----	Atr
+17	dřeně	NNFS2-----A----	Atr
+18	desetiletého	AAMS4----1A----	Atr
+19	Jakuba	NNMS4-----A----	Obj
+20	z	RR--2----------	AuxP
+21	Bruntálu	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94207-140-p3s1
+1	Protože	J,-------------	AuxC
+2	zdravotnická	AANP1----1A----	Atr
+3	zařízení	NNNP1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	ČR	NNFXX-----A---8	Atr
+6	nemají	VB-P---3P-NA---	Adv
+7	s	RR--7----------	AuxP
+8	podobnými	AAIP7----1A----	Atr
+9	zákroky	NNIP7-----A----	Atr
+10	zkušenosti	NNFP4-----A----	Obj
+11	a	J^-------------	Coord
+12	chybí	VB-S---3P-AA---	Adv
+13	jim	PPXP3--3-------	Obj
+14	i	J^-------------	AuxZ
+15	potřebné	AANS1----1A----	Atr
+16	vybavení	NNNS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	bude	VB-S---3F-AA---	AuxV
+19	desetiletý	AAMS1----1A----	Atr
+20	pacient	NNMS1-----A----	Sb
+21	operován	VsYS---XX-AP---	Pred
+22	v	RR--6----------	AuxP
+23	Anglii	NNFS6-----A----	Adv
+24	,	Z:-------------	AuxX
+25	pravděpodobně	Dg-------1A----	AuxY
+26	v	RR--6----------	AuxP
+27	Bristolu	NNIS6-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln94207-140-p3s2
+1	Do	RR--2----------	AuxP
+2	dnešního	AAIS2----1A----	Atr
+3	dne	NNIS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	podobnému	AAIS3----1A----	Atr
+6	zákroku	NNIS3-----A----	Obj
+7	podrobilo	VpNS---XR-AA---	Pred
+8	jen	TT-------------	AuxZ
+9	několik	Ca--1----------	Sb
+10	nemocných	NNMP2-----A----	Atr
+11	z	RR--2----------	AuxP
+12	České	AAFS2----1A----	Atr
+13	republiky	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94207-140-p3s3
+1	Samotná	AAFS1----1A----	Atr
+2	transplantace	NNFS1-----A----	Sb
+3	není	VB-S---3P-NA---	Pred
+4	podle	RR--2----------	AuxP
+5	lékařů	NNMP2-----A----	Adv
+6	nijak	Db-------------	Adv
+7	složitá	AAFS1----1A----	Pnom
+8	,	Z:-------------	Coord
+9	připomíná	VB-S---3P-AA---	Pred
+10	spíše	Dg-------2A---1	Adv
+11	obyčejnou	AAFS4----1A----	Atr
+12	transfuzi	NNFS4-----A----	Obj
+13	krve	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94207-140-p3s4
+1	Přesto	Dg-------1A----	Coord
+2	je	VB-S---3P-AA---	Pred
+3	k	RR--3----------	AuxP
+4	ní	P5FS3--3-------	Adv
+5	nutné	AANS1----1A----	Pnom
+6	získat	Vf--------A----	Sb
+7	4	C=-------------	Obj
+8	-	Z:-------------	Coord
+9	5	C=-------------	Obj
+10	milionů	NNIP2-----A----	Atr
+11	korun	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94207-140-p3s5
+1	Transplantaci	NNFS4-----A----	Obj
+2	kostní	AAFS2----1A----	Atr
+3	dřeně	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	možné	AANS1----1A----	Pnom
+6	podle	RR--2----------	AuxP
+7	indikace	NNFS2-----A----	Adv
+8	uskutečnit	Vf--------A----	Sb
+9	třemi	ClXP7----------	Atr
+10	způsoby	NNIP7-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94207-140-p3s6
+1	Například	Db-------------	AuxY
+2	,	Z:-------------	AuxX
+3	laicky	Dg-------1A----	Adv
+4	řečeno	VsNS---XX-AP---	Adv
+5	,	Z:-------------	AuxX
+6	se	P7-X4----------	AuxR
+7	může	VB-S---3P-AA---	Pred
+8	pacientovi	NNMS3-----A----	Obj
+9	odebrat	Vf--------A----	Obj
+10	jeho	PSXXXZS3-------	Atr
+11	vlastní	AAFS1----1A----	Atr
+12	dřeň	NNFS1-----A----	Sb
+13	a	J^-------------	Coord
+14	po	RR--6----------	AuxP
+15	přečištění	NNNS6-----A----	ExD
+16	opět	Db-------------	ExD
+17	vrátit	Vf--------A----	ExD
+18	.	Z:-------------	AuxK
+
+ln94207-140-p3s7
+1	Často	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxR
+3	ve	RV--6----------	AuxP
+4	světě	NNIS6-----A----	Adv
+5	užívá	VB-S---3P-AA---	Pred
+6	příbuzenská	AAFS1----1A----	Atr
+7	transplantace	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	dárcem	NNMS7-----A----	Pnom
+11	je	VB-S---3P-AA---	Atr
+12	rodinný	AAMS1----1A----	Atr
+13	příslušník	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94207-140-p3s8
+1	Pouze	Db-------------	AuxZ
+2	3	C=-------------	Atr
+3	-	Z:-------------	Coord
+4	4	C=-------------	Atr
+5	procenta	NNNP1-----A----	Sb
+6	transplantací	NNFP2-----A----	Atr
+7	jsou	VB-P---3P-AA---	Pred
+8	nepříbuzenská	AANP1----1N----	Pnom
+9	.	Z:-------------	AuxK
+
+ln94207-140-p3s9
+1	Zde	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	největší	AANS1----3A----	Atr
+4	riziko	NNNS1-----A----	Sb
+5	(	Z:-------------	AuxG
+6	až	TT-------------	AuxZ
+7	70	C=-------------	Atr
+8	%	Z:-------------	Atr
+9	)	Z:-------------	AuxG
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	tělo	NNNS1-----A----	Sb
+13	pacienta	NNMS2-----A----	Atr
+14	novou	AAFS4----1A----	Atr
+15	dřeň	NNFS4-----A----	Obj
+16	nepřijme	VB-S---3P-NA---	Atr
+17	.	Z:-------------	AuxK
+
+ln94207-140-p3s10
+1	Vhodní	AAMP1----1A----	Atr
+2	nepříbuzní	AAMP1----1N----	Atr
+3	dárci	NNMP1-----A----	Sb
+4	se	P7-X4----------	AuxR
+5	hledají	VB-P---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	registrech	NNIP6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln94207-140-p3s11
+1	Díky	RR--3----------	AuxP
+2	mezinárodní	AAFS3----1A----	Atr
+3	spolupráci	NNFS3-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	možné	AANS1----1A----	Pnom
+6	pátrat	Vf--------A----	Sb
+7	v	RR--6----------	AuxP
+8	registrech	NNIP6-----A----	Adv
+9	více	Dg-------2A----	Atr
+10	zemí	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94207-140-p3s12
+1	Každé	AANS1----1A----	Atr
+2	nahlédnutí	NNNS1-----A----	Sb
+3	však	J^-------------	Coord
+4	stojí	VB-S---3P-AA---	Pred
+5	průměrně	Dg-------1A----	Adv
+6	200	C=-------------	Adv
+7	tisíc	ClXS2----------	Atr
+8	korun	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94207-140-p3s13
+1	Proto	J^-------------	Coord
+2	je	VB-S---3P-AA---	Pred
+3	operace	NNFS1-----A----	Sb
+4	tak	Db-------------	Adv
+5	nákladná	AAFS1----1A----	Pnom
+6	.	Z:-------------	AuxK
+
+ln94207-140-p3s14
+1	Ačkoli	J,------------1	AuxC
+2	ministerstvo	NNNS1-----A----	Sb
+3	zdravotnictví	NNNS2-----A----	Atr
+4	uvažovalo	VpNS---XR-AA---	Adv
+5	v	RR--6----------	AuxP
+6	souvislosti	NNFS6-----A----	AuxP
+7	s	RR--7----------	AuxP
+8	podobnými	AAIP7----1A----	Atr
+9	případy	NNIP7-----A----	Adv
+10	o	RR--6----------	AuxP
+11	zřízení	NNNS6-----A----	Obj
+12	mimořádného	AAIS2----1A----	Atr
+13	peněžního	AAIS2----1A----	Atr
+14	fondu	NNIS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	nestalo	VpNS---XR-NA---	Pred
+17	se	P7-X4----------	AuxT
+18	tak	Db-------------	Adv
+19	.	Z:-------------	AuxK
+
+ln94207-140-p3s15
+1	Peníze	NNIP4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	záchranu	NNFS4-----A----	Atr
+4	Jakubova	AUIS2M---------	Atr
+5	života	NNIS2-----A----	Atr
+6	proto	J^-------------	Coord
+7	jeho	PSXXXZS3-------	Atr
+8	příbuzní	NNMP1-----A----	Sb
+9	dnes	Db-------------	Adv
+10	získávají	VB-P---3P-AA---	Pred
+11	sami	PLMP1----------	Atv
+12	prostřednictvím	NNNS7-----A----	AuxP
+13	bankovního	AANS2----1A----	Atr
+14	konta	NNNS2-----A----	Adv
+15	,	Z:-------------	AuxX
+16	které	P4NS1----------	Sb
+17	bylo	VpNS---XR-AA---	AuxV
+18	již	Db-------------	AuxZ
+19	několikrát	Co-------------	Adv
+20	inzerováno	VsNS---XX-AP---	Atr
+21	v	RR--6----------	AuxP
+22	tisku	NNIS6-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94207-140-p3s16
+1	Stav	NNIS4-----A----	Obj
+2	konta	NNNS2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	LN	NNFPX-----A---8	Obj
+5	nepodařilo	VpNS---XR-NA---	Pred
+6	zjistit	Vf--------A----	Sb
+7	.	Z:-------------	AuxK
+
+ln94207-140-p3s17
+1	Jeho	PSXXXZS3-------	Atr
+2	číslo	NNNS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	126900	C=-------------	Pnom
+5	-	Z:-------------	AuxG
+6	864	C=-------------	Atr
+7	/	Z:-------------	AuxG
+8	2400	C=-------------	Atr
+9	,	Z:-------------	Coord
+10	zřízeno	VsNS---XX-AP---	Pred
+11	bylo	VpNS---XR-AA---	AuxV
+12	i	J^-------------	AuxZ
+13	konto	NNNS1-----A----	Sb
+14	devizové	AANS1----1A----	Atr
+15	35	C=-------------	Atr
+16	-	Z:-------------	AuxG
+17	3136	C=-------------	Atr
+18	-	Z:-------------	AuxG
+19	771	C=-------------	Atr
+20	/	Z:-------------	AuxG
+21	0100	C=-------------	Atr
+22	.	Z:-------------	AuxK
+

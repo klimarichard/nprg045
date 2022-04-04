@@ -1,0 +1,106 @@
+ln94211-123-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln94211-123-p2s1
+1	Spotřebitelské	AAFP1----1A----	Atr
+2	ceny	NNFP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Polsku	NNNS6-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	v	RR--6----------	AuxP
+7	srpnu	NNIS6-----A----	Adv
+8	zvýšily	VpTP---XR-AA---	Pred
+9	o	RR--4----------	AuxP
+10	1.7	C=-------------	Adv
+11	procenta	NNNS2-----A----	Atr
+12	po	RR--6----------	AuxP
+13	růstu	NNIS6-----A----	Adv
+14	o	RR--4----------	AuxP
+15	1.5	C=-------------	Atr
+16	procenta	NNNS2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	červenci	NNIS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94211-123-p2s2
+1	Oficiální	AAFS1----1A----	Atr
+2	předpověď	NNFS1-----A----	Sb
+3	činila	VpQW---XR-AA---	Pred
+4	jedno	ClNS4----------	Atr
+5	procento	NNNS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+ln94211-123-p2s3
+1	Nepočítalo	VpNS---XR-NA---	Pred
+2	se	P7-X4----------	AuxR
+3	však	J^-------------	Coord
+4	s	RR--7----------	AuxP
+5	tím	PDZS7----------	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	z	RR--2----------	AuxP
+9	důvodu	NNIS2-----A----	Adv
+10	sucha	NNNS2-----A----	Atr
+11	nebude	VB-S---3F-NA---	Atr
+12	sezonní	AAIS1----1A----	Atr
+13	pokles	NNIS1-----A----	Sb
+14	cen	NNFP2-----A----	Atr
+15	potravin	NNFP2-----A----	Atr
+16	tak	Db-------------	Adv
+17	slabý	AAIS1----1A----	Pnom
+18	.	Z:-------------	AuxK
+
+ln94211-123-p3s1
+1	V	RR--6----------	AuxP
+2	západní	AAFS6----1A----	Atr
+3	části	NNFS6-----A----	Adv
+4	Spolkové	AAFS2----1A----	Atr
+5	republiky	NNFS2-----A----	Atr
+6	Německa	NNNS2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	v	RR--6----------	AuxP
+9	srpnu	NNIS6-----A----	Adv
+10	zastavil	VpYS---XR-AA---	Pred
+11	pokles	NNIS1-----A----	Sb
+12	roční	AAFS2----1A----	Atr
+13	míry	NNFS2-----A----	Atr
+14	inflace	NNFS2-----A----	Atr
+15	z	RR--2----------	AuxP
+16	posledních	AAIP2----1A----	Atr
+17	měsíců	NNIP2-----A----	Atr
+18	a	J^-------------	Coord
+19	po	RR--6----------	AuxP
+20	červencových	AAFP6----1A----	Atr
+21	2.9	C=-------------	Adv
+22	procenta	NNNS2-----A----	Atr
+23	stoupl	VpYS---XR-AA--1	Pred
+24	tento	PDYS1----------	Atr
+25	ukazatel	NNIS1-----A----	Sb
+26	na	RR--4----------	AuxP
+27	3.0	C=-------------	Obj
+28	procenta	NNNS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94211-123-p3s2
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	první	CrIS1----------	Atr
+4	případ	NNIS1-----A----	Pnom
+5	růstu	NNIS2-----A----	Atr
+6	inflace	NNFS2-----A----	Atr
+7	od	RR--2----------	AuxP
+8	července	NNIS2-----A----	Atr
+9	loňského	AAIS2----1A----	Atr
+10	roku	NNIS2-----A---1	Atr
+11	,	Z:-------------	AuxX
+12	kdy	Db-------------	Adv
+13	byl	VpYS---XR-AA---	AuxV
+14	zaznamenán	VsYS---XX-AP---	Atr
+15	roční	AAIS1----1A----	Atr
+16	nárůst	NNIS1-----A----	Sb
+17	cen	NNFP2-----A----	Atr
+18	o	RR--4----------	AuxP
+19	4.3	C=-------------	Atr
+20	procenta	NNNS2-----A----	Atr
+21	.	Z:-------------	AuxK
+

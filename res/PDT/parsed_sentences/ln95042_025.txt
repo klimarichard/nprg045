@@ -1,0 +1,270 @@
+ln95042-025-p1s1
+1	Perly	NNFP1-----A----	ExD
+2	týdne	NNIS2-----A----	Atr
+
+ln95042-025-p2s1
+1	Češi	NNMP1-----A----	Sb
+2	podle	RR--2----------	AuxP
+3	vás	PP-P2--2-------	Adv
+4	nekradou	VB-P---3P-NA---	Pred
+5	?	Z:-------------	AuxK
+
+ln95042-025-p2s2
+1	A	J^-------------	Coord
+2	co	PQ--4----------	ExD
+3	Lizner	NNMS1-----A----	ExD
+4	?	Z:-------------	AuxK
+
+ln95042-025-p2s3A
+1	Poslanec	NNMS1-----A----	Atr
+2	Ladislav	NNMS1-----A----	Atr
+3	Body	NNMS1-----A----	ExD
+4	(	Z:-------------	ExD
+5	LB	NNIXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	v	RR--6----------	AuxP
+8	reakci	NNFS6-----A----	ExD
+9	na	RR--4----------	AuxP
+10	výrok	NNIS4-----A----	Atr
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	kriminalita	NNFS1-----A----	Sb
+14	Romů	NNMP2-----A----	Atr
+15	je	VB-S---3P-AA---	Atr
+16	vysoká	AAFS1----1A----	Pnom
+
+ln95042-025-p2s3B
+1	Potraviny	NNFP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	substrátem	NNIS7-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	slouží	VB-S---3P-AA---	Atr
+7	člověku	NNMS3-----A----	Obj
+8	k	RR--3----------	AuxP
+9	jídlu	NNNS3-----A----	Obj
+10	,	Z:-------------	AuxX
+11	pití	NNNS3-----A----	Obj
+12	a	J^-------------	Coord
+13	žvýkání	NNNS3-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln95042-025-p2s4
+1	Žvýkací	AAIS1----1A----	Atr
+2	tabák	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	ale	J^-------------	Coord
+5	například	Db-------------	AuxZ
+6	na	RR--6----------	AuxP
+7	pomezí	NNNS6-----A----	Adv
+8	kategorií	NNFP2-----A----	Atr
+9	potravin	NNFP2-----A----	Atr
+10	a	J^-------------	Coord
+11	tabákových	AAIP2----1A----	Atr
+12	výrobků	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95042-025-p2s5
+1	Vše	PLNS1---------1	Sb
+2	musí	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	Obj
+4	tedy	Db-------------	AuxY
+5	ještě	Db-------------	AuxZ
+6	záležitostí	NNFS7-----A----	Pnom
+7	pečlivé	AAFS2----1A----	Atr
+8	legislativní	AAFS2----1A----	Atr
+9	práce	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95042-025-p2s6A
+1	Šéf	NNMS1-----A----	Atr
+2	Úřadu	NNIS2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	legislativu	NNFS4-----A----	Atr
+5	a	J^-------------	Coord
+6	veřejnou	AAFS4----1A----	Atr
+7	správu	NNFS4-----A----	Atr
+8	Jan	NNMS1-----A----	Atr
+9	Kalvoda	NNMS1-----A----	ExD
+10	k	RR--3----------	AuxP
+11	připravovanému	AAIS3----1A----	Atr
+12	návrhu	NNIS3-----A----	ExD
+13	zákona	NNIS2-----A----	Atr
+14	o	RR--6----------	AuxP
+15	potravinách	NNFP6-----A----	Atr
+16	a	J^-------------	Coord
+17	tabákových	AAIP6----1A----	Atr
+18	výrobcích	NNIP6-----A----	Atr
+
+ln95042-025-p2s6B
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	není	VB-S---3P-NA---	Pred
+4	nebezpečí	NNNS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	bych	Vc-S---1-------	AuxV
+8	byl	VpYS---XR-AA---	AuxV
+9	pozván	VsYS---XX-AP---	Atr
+10	přednášet	Vf--------A----	Adv
+11	na	RR--4----------	AuxP
+12	univerzitu	NNFS4-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln95042-025-p2s7A
+1	Místopředseda	NNMS1-----A----	Atr
+2	KSČM	NNFXX-----A---8	Atr
+3	Zdeněk	NNMS1-----A----	Atr
+4	Klanica	NNMS1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	když	J,-------------	AuxC
+7	oznámil	VpYS---XR-AA---	ExD
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	v	RR--6----------	AuxP
+11	Bratislavě	NNFS6-----A----	Adv
+12	přednáší	VB-S---3P-AA---	Obj
+13	na	RR--6----------	AuxP
+14	tamní	AAFS6----1A----	Atr
+15	univerzitě	NNFS6-----A----	Adv
+16	o	RR--6----------	AuxP
+17	nejstarších	AAMP6----3A----	Atr
+18	Slovanech	NNMP6-----A----	Obj
+19	na	RR--6----------	AuxP
+20	jižní	AAFS6----1A----	Atr
+21	Moravě	NNFS6-----A----	Atr
+
+ln95042-025-p2s7B
+1	Cokoli	PZ--4---------1	Obj
+2	,	Z:-------------	AuxX
+3	byť	J,-------------	AuxC
+4	i	J^-------------	AuxZ
+5	dobře	Dg-------1A----	Adv
+6	myšleného	AANS2----1A----	Atr
+7	bych	Vc-S---1-------	AuxV
+8	řekl	VpYS---XR-AA---	Adv
+9	,	Z:-------------	AuxX
+10	tak	Db-------------	Adv
+11	by	Vc-------------	AuxV
+12	to	PDNS1----------	Sb
+13	bylo	VpNS---XR-AA---	AuxV
+14	vždy	Db-------------	Adv
+15	interpretováno	VsNS---XX-AP---	Pred
+16	jako	J,-------------	AuxY
+17	jakási	PZFS1----------	Atr
+18	moje	PSHS1-S1-------	Atr
+19	snaha	NNFS1-----A----	Atv
+20	o	RR--4----------	AuxP
+21	něco	PZ--4----------	Atr
+22	,	Z:-------------	AuxX
+23	co	PQ--1----------	Sb
+24	v	RR--6----------	AuxP
+25	tom	PDZS6----------	Adv
+26	nikdy	Db-------------	Adv
+27	nebylo	VpNS---XR-NA---	Atr
+28	.	Z:-------------	AuxK
+
+ln95042-025-p2s8A
+1	Poslanec	NNMS1-----A----	Atr
+2	Petr	NNMS1-----A----	Atr
+3	Čermák	NNMS1-----A----	ExD
+4	(	Z:-------------	ExD
+5	ODS	NNFXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	o	RR--6----------	AuxP
+8	svém	P8ZS6----------	Atr
+9	působení	NNNS6-----A----	ExD
+10	v	RR--6----------	AuxP
+11	branném	AAIS6----1A----	Atr
+12	a	J^-------------	Coord
+13	bezpečnostním	AAIS6----1A----	Atr
+14	výboru	NNIS6-----A----	Atr
+
+ln95042-025-p2s8B
+1	Myslím	VB-S---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	v	RR--6----------	AuxP
+5	české	AAFS6----1A----	Atr
+6	vládě	NNFS6-----A----	Adv
+7	jsem	VB-S---1P-AA---	AuxV
+8	to	PDNS4----------	Obj
+9	držel	VpYS---XR-AA---	Obj
+10	já	PP-S1--1-------	Sb
+11	.	Z:-------------	AuxK
+
+ln95042-025-p2s9
+1	Byl	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	autorita	NNFS1-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	protože	J,-------------	AuxC
+6	se	P7-X4----------	AuxR
+7	vědělo	VpNS---XR-AA---	Adv
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	budu	VB-S---1F-AA---	AuxV
+12	snažit	Vf--------A----	Sb
+13	o	RR--4----------	AuxP
+14	domluvu	NNFS4-----A----	Obj
+15	až	TT-------------	AuxZ
+16	do	RR--2----------	AuxP
+17	konce	NNIS2-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln95042-025-p2s10A
+1	Bývalý	AAMS1----1A----	Atr
+2	premiér	NNMS1-----A----	Atr
+3	Petr	NNMS1-----A----	Atr
+4	Pithart	NNMS1-----A----	ExD
+5	o	RR--6----------	AuxP
+6	svém	P8ZS6----------	Atr
+7	působení	NNNS6-----A----	ExD
+8	v	RR--6----------	AuxP
+9	české	AAFS6----1A----	Atr
+10	vládě	NNFS6-----A----	Atr
+
+ln95042-025-p2s10B
+1	Zatrnulo	VpNS---XR-AA---	Pred
+2	mi	PH-S3--1-------	Obj
+3	a	J^-------------	Coord
+4	jsem	VB-S---1P-AA---	Pred
+5	rád	ACYS------A----	Pnom
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	za	RR--7----------	AuxP
+9	tím	PDZS7----------	Atr
+10	id	NNNXX-----A----	Adv
+11	-	Z:-------------	AuxG
+12	přišlo	VpNS---XR-AA---	Obj
+13	-	Z:-------------	AuxG
+14	ealista	NNNXX-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95042-025-p2s11
+1	Předseda	NNMS1-----A----	Atr
+2	ODA	NNFXX-----A---8	Atr
+3	Jan	NNMS1-----A----	Atr
+4	Kalvoda	NNMS1-----A----	ExD
+5	na	RR--4----------	AuxP
+6	otázku	NNFS4-----A----	ExD
+7	novinářky	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	zda	J,-------------	AuxC
+10	je	VB-S---3P-AA---	Atr
+11	takový	PDYS1----------	Atr
+12	idealista	NNMS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	věří	VB-S---3P-AA---	Atr
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	v	RR--6----------	AuxP
+19	aféře	NNFS6-----A----	Adv
+20	kolem	RR--2----------	AuxP
+21	BIS	NNFXX-----A---8	Atr
+22	vyjde	VB-S---3P-AA---	Obj
+23	najevo	Db-------------	Adv
+24	pravda	NNFS1-----A----	Sb
+

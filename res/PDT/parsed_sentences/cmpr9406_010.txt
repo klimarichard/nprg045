@@ -1,0 +1,509 @@
+cmpr9406-010-p2s1
+1	štoček	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	CHTĚLI	VpMP---XR-AA---	Pred
+4	JSTE	VB-P---2P-AA---	AuxV
+5	VĚDĚT	Vf--------A----	Obj
+
+cmpr9406-010-p3s1
+1	O	RR--6----------	AuxP
+2	hmotnosti	NNFS6-----A----	ExD
+3	pečiva	NNNS2-----A----	Atr
+
+cmpr9406-010-p4s1
+1	Opakovaně	Dg-------1A----	Adv
+2	narážím	VB-S---1P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	připomínky	NNFP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	chleba	NNIS1-----A----	Sb
+8	a	J^-------------	Coord
+9	pečivo	NNNS1-----A----	Sb
+10	mají	VB-P---3P-AA---	Atr
+11	malou	AAFS4----1A----	Atr
+12	hmotnost	NNFS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+cmpr9406-010-p4s2
+1	Dodavatel	NNMS1-----A----	Sb
+2	reklamace	NNFP4-----A----	Obj
+3	neuznává	VB-S---3P-NA---	Pred
+4	s	RR--7----------	AuxP
+5	tím	PDZS7----------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	normy	NNFP1-----A----	Sb
+9	hmotnost	NNFS4-----A----	Obj
+10	nepředepisují	VB-P---3P-NA---	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-010-p4s3
+1	Má	VB-S---3P-AA---	Pred
+2	pravdu	NNFS4-----A----	Obj
+3	?	Z:-------------	AuxK
+
+cmpr9406-010-p5s1
+1	Václav	NNMS1-----A----	Atr
+2	Janků	NNMP2-----A----	ExD
+3	,	Z:-------------	ExD
+4	Valašské	AANS1----1A----	Atr
+5	Meziříčí	NNNS1-----A----	ExD
+
+cmpr9406-010-p6s1
+1	Dřívější	AANP1----2A----	Atr
+2	ustanovení	NNNP1-----A----	Sb
+3	norem	NNFP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	které	P4FP1----------	Sb
+6	přímo	Dg-------1A----	Adv
+7	určovaly	VpTP---XR-AA---	Atr
+8	,	Z:-------------	AuxX
+9	ve	RV--6----------	AuxP
+10	kterých	P4XP6----------	Atr
+11	hmotnostech	NNFP6-----A----	Adv
+12	se	P7-X4----------	AuxR
+13	chleba	NNIS1-----A----	Sb
+14	a	J^-------------	Coord
+15	ostatní	AANS1----1A----	Atr
+16	pečivo	NNNS1-----A----	Sb
+17	může	VB-S---3P-AA---	Obj
+18	vyrábět	Vf--------A----	Obj
+19	,	Z:-------------	AuxX
+20	už	Db-------------	Adv
+21	neplatí	VB-P---3P-NA---	Pred
+22	.	Z:-------------	AuxK
+
+cmpr9406-010-p6s2
+1	S	RR--7----------	AuxP
+2	účinností	NNFS7-----A----	Adv
+3	od	RR--2----------	AuxP
+4	1	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	8	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	1992	C=-------------	Atr
+9	byly	VpTP---XR-AA---	AuxV
+10	provedeny	VsTP---XX-AP---	Pred
+11	změny	NNFP1-----A----	Sb
+12	společných	AANP2----1A----	Atr
+13	ustanovení	NNNP2-----A----	Atr
+14	závazných	AAFP2----1A----	Atr
+15	ČSN	NNFXX-----A---8	Atr
+16	pro	RR--4----------	AuxP
+17	chléb	NNIS4-----A---1	Atr
+18	(	Z:-------------	ExD
+19	ČSN	NNFXX-----A---8	ExD
+20	56	C=-------------	Atr
+21	1001	C=-------------	Atr
+22	)	Z:-------------	ExD
+23	,	Z:-------------	AuxX
+24	pšeničné	AANS4----1A----	Atr
+25	pečivo	NNNS4-----A----	Atr
+26	běžné	AANS4----1A----	Atr
+27	(	Z:-------------	ExD
+28	ČSN	NNFXX-----A---8	ExD
+29	56	C=-------------	Atr
+30	1030	C=-------------	Atr
+31	)	Z:-------------	ExD
+32	a	J^-------------	Coord
+33	pšeničné	AANS4----1A----	Atr
+34	pečivo	NNNS4-----A----	Atr
+35	jemné	AANS4----1A----	Atr
+36	(	Z:-------------	ExD
+37	ČSN	NNFXX-----A---8	ExD
+38	56	C=-------------	Atr
+39	1003	C=-------------	Atr
+40	)	Z:-------------	ExD
+41	.	Z:-------------	AuxK
+
+cmpr9406-010-p6s3
+1	Podle	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	mají	VB-P---3P-AA---	Pred
+4	výrobci	NNMP1-----A----	Sb
+5	možnost	NNFS4-----A----	Obj
+6	stanovit	Vf--------A----	Atr
+7	hmotnost	NNFS4-----A----	Obj
+8	výrobků	NNIP2-----A----	Atr
+9	dohodou	NNFS7-----A----	Adv
+10	s	RR--7----------	AuxP
+11	odběratelem	NNMS7-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9406-010-p7s1
+1	Hmotnosti	NNFP1-----A----	Sb
+2	chleba	NNIS2-----A----	Atr
+3	různých	AAMP2----1A----	Atr
+4	výrobců	NNMP2-----A----	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	značně	Dg-------1A----	Adv
+7	rozdílné	AAFP1----1A----	Pnom
+8	a	J^-------------	Coord
+9	u	RR--2----------	AuxP
+10	pečiva	NNNS2-----A----	Adv
+11	je	VB-S---3P-AA---	Pred
+12	situace	NNFS1-----A----	Sb
+13	podobná	AAFS1----1A----	Pnom
+14	.	Z:-------------	AuxK
+
+cmpr9406-010-p8s1
+1	Výrobci	NNMP1-----A----	Sb
+2	deklarují	VB-P---3P-AA---	Pred
+3	hmotnosti	NNFP4-----A----	Obj
+4	výrobků	NNIP2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	nabídkových	AAIP6----1A----	Atr
+7	listech	NNIP6-----A----	Adv
+8	a	J^-------------	Coord
+9	na	RR--6----------	AuxP
+10	dodacích	AAIP6----1A----	Atr
+11	listech	NNIP6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+cmpr9406-010-p8s2
+1	U	RR--2----------	AuxP
+2	balených	AAIP2----1A----	Atr
+3	výrobků	NNIP2-----A----	Adv
+4	musí	VB-S---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	hmotnost	NNFS1-----A----	Sb
+7	deklarována	VsQW---XX-AP---	Pnom
+8	na	RR--6----------	AuxP
+9	obalu	NNIS6-----A---1	Adv
+10	.	Z:-------------	AuxK
+
+cmpr9406-010-p8s3
+1	Skutečnost	NNFS4-----A----	Obj
+2	,	Z:-------------	AuxX
+3	zda	J,-------------	AuxC
+4	hmotnost	NNFS1-----A----	Sb
+5	(	Z:-------------	AuxG
+6	a	J^-------------	Coord
+7	kvalita	NNFS1-----A----	Sb
+8	)	Z:-------------	AuxG
+9	zboží	NNNS2-----A----	Atr
+10	odpovídá	VB-S---3P-AA---	Atr
+11	tomu	PDZS3----------	Obj
+12	,	Z:-------------	AuxX
+13	co	PQ--1----------	Sb
+14	bylo	VpNS---XR-AA---	AuxV
+15	deklarováno	VsNS---XX-AP---	Atr
+16	výrobcem	NNMS7-----A----	Obj
+17	,	Z:-------------	AuxX
+18	by	Vc-------------	AuxV
+19	měl	VpYS---XR-AA---	Pred
+20	prodejce	NNMS1-----A----	Sb
+21	ověřit	Vf--------A----	Obj
+22	při	RR--6----------	AuxP
+23	přejímce	NNFS6-----A----	Adv
+24	,	Z:-------------	AuxX
+25	neodpovídající	AGNS4-----N----	Atr
+26	zboží	NNNS4-----A----	Obj
+27	odmítnout	Vf--------A----	Obj
+28	,	Z:-------------	AuxX
+29	nebo	J^-------------	Coord
+30	na	RR--4----------	AuxP
+31	něj	P5ZS4--3-------	Adv
+32	při	RR--6----------	AuxP
+33	prodeji	NNIS6-----A----	Adv
+34	uplatnit	Vf--------A----	Obj
+35	slevu	NNFS4-----A----	Obj
+36	.	Z:-------------	AuxK
+
+cmpr9406-010-p9s1
+1	Normy	NNFP1-----A----	Sb
+2	povolují	VB-P---3P-AA---	Pred
+3	následující	AGFP4-----A----	Atr
+4	hmotnostní	AAFP4----1A----	Atr
+5	odchylky	NNFP4-----A----	Obj
+6	:	Z:-------------	AuxK
+
+cmpr9406-010-p11s1
+1	Chléb	NNIS1-----A---1	ExD
+2	počet	NNIS1-----A----	ExD
+3	kusů	NNIP2-----A----	Atr
+4	povolená	AAFS1----1A----	Atr
+5	odchylka	NNFS1-----A----	ExD
+6	v	RR--6----------	AuxP
+7	%	Z:-------------	Atr
+
+cmpr9406-010-p12s1
+1	nebalený	AAIS1----1N----	ExD
+2	1	C=-------------	ExD
+3	-	Z:-------------	Coord
+4	5	C=-------------	ExD
+5	%	Z:-------------	Atr
+
+cmpr9406-010-p13s1
+1	10	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	3	C=-------------	ExD
+4	%	Z:-------------	Atr
+
+cmpr9406-010-p14s1
+1	balený	AAIS1----1A----	ExD
+2	1	C=-------------	ExD
+3	-	Z:-------------	Coord
+4	3.5	C=-------------	ExD
+5	%	Z:-------------	Atr
+
+cmpr9406-010-p15s1
+1	10	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	1.5	C=-------------	ExD
+4	%	Z:-------------	ExD
+
+cmpr9406-010-p16s1
+1	pšeničné	AANS1----1A----	Atr
+2	pečivo	NNNS1-----A----	ExD
+3	běžné	AANS1----1A----	Atr
+4	a	J^-------------	Coord
+5	jemné	AANS1----1A----	Atr
+
+cmpr9406-010-p17s1
+1	výrobky	NNIP1-----A----	ExD
+2	do	RR--2----------	AuxP
+3	300	C=-------------	Atr
+4	g	NNIXX-----A---8	Atr
+5	hmotnosti	NNFS2-----A----	Atr
+6	1	C=-------------	ExD
+7	-	Z:-------------	Coord
+8	6	C=-------------	ExD
+9	%	Z:-------------	Atr
+
+cmpr9406-010-p18s1
+1	50	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	4	C=-------------	ExD
+4	%	Z:-------------	Atr
+
+cmpr9406-010-p19s1
+1	nad	RR--4----------	AuxP
+2	300	C=-------------	Atr
+3	g	NNIXX-----A---8	ExD
+4	hmotnosti	NNFS2-----A----	Atr
+5	1	C=-------------	ExD
+6	-	Z:-------------	Coord
+7	5	C=-------------	ExD
+8	%	Z:-------------	Atr
+
+cmpr9406-010-p20s1
+1	10	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	3	C=-------------	ExD
+4	%	Z:-------------	Atr
+
+cmpr9406-010-p21s1
+1	(	Z:-------------	AuxG
+2	Vyšší	AAFP1----2A----	Atr
+3	hmotnosti	NNFP1-----A----	Sb
+4	výrobků	NNIP2-----A----	Atr
+5	na	RR--4----------	AuxP
+6	závadu	NNFS4-----A----	Adv
+7	nejsou	VB-P---3P-NA---	Pred
+8	.	Z:-------------	AuxK
+9	)	Z:-------------	AuxG
+
+cmpr9406-010-p23s1
+1	Spotřebitel	NNMS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	být	Vf--------A----	AuxV
+5	o	RR--6----------	AuxP
+6	hmotnosti	NNFS6-----A----	Obj
+7	nabízených	AAIP2----1A----	Atr
+8	pekárenských	AAIP2----1A----	Atr
+9	výrobků	NNIP2-----A----	Atr
+10	vhodným	AAIS7----1A----	Atr
+11	způsobem	NNIS7-----A----	Adv
+12	informován	VsYS---XX-AP---	Obj
+13	(	Z:-------------	ExD
+14	ceník	NNIS1-----A----	ExD
+15	,	Z:-------------	AuxX
+16	cenovky	NNFP1-----A----	ExD
+17	,	Z:-------------	Coord
+18	informační	AAFP1----1A----	Atr
+19	tabule	NNFP1-----A----	ExD
+20	)	Z:-------------	ExD
+21	.	Z:-------------	AuxK
+
+cmpr9406-010-p23s2
+1	U	RR--2----------	AuxP
+2	nebaleného	AANS2----1N----	Atr
+3	pečiva	NNNS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	informace	NNFP1-----A----	Sb
+6	většinou	NNFS7-----A----	Adv
+7	ke	RV--3----------	AuxP
+8	spotřebiteli	NNMS3-----A----	Adv
+9	nedostanou	VB-P---3P-NA---	Pred
+10	,	Z:-------------	Coord
+11	což	PE--1----------	Sb
+12	je	VB-S---3P-AA---	Pred
+13	v	RR--6----------	AuxP
+14	rozporu	NNIS6-----A----	Adv
+15	se	RV--7----------	AuxP
+16	zákonem	NNIS7-----A----	Atr
+17	č	NNNXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	634	C=-------------	Atr
+20	/	Z:-------------	AuxG
+21	92	C=-------------	Atr
+22	Sb	NNFXX-----A---8	Atr
+23	.	Z:-------------	AuxG
+24	o	RR--6----------	AuxP
+25	ochraně	NNFS6-----A----	Atr
+26	spotřebitele	NNMS2-----A----	Atr
+27	,	Z:-------------	AuxX
+28	zejména	Db-------------	AuxZ
+29	s	RR--7----------	AuxP
+30	ustanoveními	NNNP7-----A----	Atr
+31	:	Z:-------------	AuxK
+
+cmpr9406-010-p24s1
+1	§	NNIXX-----A---1	ExD
+2	3	C=-------------	Atr
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	ukládá	VB-S---3P-AA---	Atr
+6	povinnost	NNFS4-----A----	Obj
+7	prodávat	Vf--------A----	Atr
+8	výrobky	NNIP4-----A----	Obj
+9	o	RR--6----------	AuxP
+10	správné	AAFS6----1A----	Atr
+11	hmotnosti	NNFS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	míře	NNFS6-----A----	Atr
+14	nebo	J^-------------	Coord
+15	množství	NNNS6-----A----	Atr
+16	a	J^-------------	Coord
+17	umožnit	Vf--------A----	Atr
+18	spotřebiteli	NNMS3-----A----	Obj
+19	jejich	PSXXXXP3-------	Atr
+20	kontrolu	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+cmpr9406-010-p25s1
+1	§	NNIXX-----A---1	ExD
+2	8	C=-------------	Atr
+3	,	Z:-------------	AuxX
+4	zakazujícími	AGNP7-----A----	Atr
+5	klamání	NNNS4-----A----	Obj
+6	spotřebitele	NNMS2-----A----	Atr
+7	uváděním	NNNS7-----A----	Atr
+8	nepravdivých	AAIP2----1N----	Atr
+9	,	Z:-------------	AuxX
+10	neúplných	AAIP2----1N----	Atr
+11	,	Z:-------------	Coord
+12	nepřesných	AAIP2----1N----	Atr
+13	.	Z:-------------	AuxG
+14	.	Z:-------------	AuxG
+15	.	Z:-------------	AuxG
+16	atd	Db------------8	Atr
+17	.	Z:-------------	AuxG
+18	údajů	NNIP2-----A----	Atr
+19	o	RR--6----------	AuxP
+20	vlastnostech	NNFP6-----A----	Atr
+21	výrobku	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9406-010-p26s1
+1	§	NNIXX-----A---1	ExD
+2	9	C=-------------	Atr
+3	,	Z:-------------	AuxX
+4	podle	RR--2----------	AuxP
+5	kterého	P4ZS2----------	Adv
+6	je	VB-S---3P-AA---	Atr
+7	prodávající	AGMS1-----A----	Sb
+8	povinen	ACYS------A----	Pnom
+9	spotřebitele	NNMS4-----A----	Obj
+10	řádně	Dg-------1A----	Adv
+11	informovat	Vf--------A----	Obj
+12	o	RR--6----------	AuxP
+13	vlastnostech	NNFP6-----A----	Obj
+14	prodávaných	AAIP2----1A----	Atr
+15	výrobků	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9406-010-p27s1
+1	Hmotnosti	NNFS2-----A----	Obj
+2	výrobků	NNIP2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	týká	VB-S---3P-AA---	Pred
+5	také	Db-------------	Adv
+6	§	NNIXX-----A---1	Sb
+7	616	C=-------------	Atr
+8	Občanského	AAIS2----1A----	Atr
+9	zákoníku	NNIS2-----A----	Atr
+10	(	Z:-------------	ExD
+11	zákon	NNIS1-----A----	ExD
+12	číslo	NNNS1-----A----	Atr
+13	509	C=-------------	Atr
+14	/	Z:-------------	AuxG
+15	91	C=-------------	Atr
+16	Sb	NNFXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	)	Z:-------------	ExD
+19	,	Z:-------------	AuxX
+20	kde	Db-------------	Adv
+21	se	P7-X4----------	AuxR
+22	praví	VB-S---3P-AA---	Atr
+23	,	Z:-------------	AuxX
+24	že	J,-------------	AuxC
+25	prodávaná	AAFS1----1A----	Atr
+26	věc	NNFS1-----A----	Sb
+27	musí	VB-S---3P-AA---	Sb
+28	mít	Vf--------A----	Obj
+29	požadovanou	AAFS4----1A----	Atr
+30	.	Z:-------------	AuxG
+31	.	Z:-------------	AuxG
+32	.	Z:-------------	AuxG
+33	jakost	NNFS4-----A----	Obj
+34	,	Z:-------------	AuxX
+35	množství	NNNS4-----A----	Obj
+36	,	Z:-------------	AuxX
+37	míru	NNFS4-----A----	Obj
+38	nebo	J^-------------	Coord
+39	hmotnost	NNFS4-----A----	Obj
+40	,	Z:-------------	Coord
+41	musí	VB-S---3P-AA---	Sb
+42	být	Vf--------A----	Obj
+43	bez	RR--2----------	AuxP
+44	závad	NNFP2-----A----	Adv
+45	a	J^-------------	Coord
+46	odpovídat	Vf--------A----	Obj
+47	závazným	AAFP3----1A----	Atr
+48	technickým	AAFP3----1A----	Atr
+49	normám	NNFP3-----A----	Obj
+50	.	Z:-------------	AuxK
+
+cmpr9406-010-p27s2
+1	Kupující	AGMS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	právo	NNNS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	věc	NNFS1-----A----	Sb
+7	byla	VpQW---XR-AA---	AuxV
+8	před	RR--7----------	AuxP
+9	ním	P5ZS7--3-------	Adv
+10	překontrolována	VsQW---XX-AP---	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-010-p27s3
+1	Dodržování	NNNS1-----A----	Sb
+2	těchto	PDXP2----------	Atr
+3	ustanovení	NNNP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	zajištěno	VsNS---XX-AP---	Pnom
+6	sankcemi	NNFP7-----A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9406-010-p28s1
+1	Luděk	NNMS1-----A----	Atr
+2	Moravec	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	inspektor	NNMS1-----A----	ExD
+5	ČZPI	NNFXX-----A---8	Atr
+

@@ -1,0 +1,115 @@
+ln95049-139-p1s1
+1	Poradenská	AANP1----1A----	Atr
+2	střediska	NNNP1-----A----	ExD
+3	Agronetu	NNIS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	regionech	NNIP6-----A----	Atr
+
+ln95049-139-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-139-p2s1B
+1	Zemědělské	AANS1----1A----	Atr
+2	poradenské	AANS1----1A----	Atr
+3	středisko	NNNS1-----A----	Sb
+4	Agronet	NNIS1-----A----	Atr
+5	při	RR--6----------	AuxP
+6	Střední	AAFS6----1A----	Atr
+7	zemědělské	AAFS6----1A----	Atr
+8	a	J^-------------	Coord
+9	rodinné	AAFS6----1A----	Atr
+10	škole	NNFS6-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Benešově	NNIS6-----A----	Atr
+13	zahájí	VB-S---3P-AA---	Pred
+14	2	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	března	NNIS2-----A----	Adv
+17	letošního	AAIS2----1A----	Atr
+18	roku	NNIS2-----A---1	Atr
+19	seminář	NNIS4-----A----	Obj
+20	pro	RR--4----------	AuxP
+21	zemědělské	AAIP4----1A----	Atr
+22	podniky	NNIP4-----A----	Atr
+23	a	J^-------------	Coord
+24	soukromě	Dg-------1A----	Adv
+25	hospodařící	AGMP4-----A----	Atr
+26	rolníky	NNMP4-----A----	Atr
+27	na	RR--4----------	AuxP
+28	téma	NNNS4-----A----	Atr
+29	Výživa	NNFS1-----A----	Atr
+30	rostlin	NNFP2-----A----	Atr
+31	a	J^-------------	Coord
+32	informační	AAIP1----1A----	Atr
+33	systémy	NNIP1-----A----	Atr
+34	v	RR--6----------	AuxP
+35	zemědělství	NNNS6-----A----	Atr
+36	.	Z:-------------	AuxK
+
+ln95049-139-p2s2
+1	Podle	RR--2----------	AuxP
+2	Jana	NNMS2-----A----	Atr
+3	Jarolímka	NNMS2-----A----	Adv
+4	z	RR--2----------	AuxP
+5	Agronetu	NNIS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	benešovské	AANS1----1A----	Atr
+8	poradenské	AANS1----1A----	Atr
+9	středisko	NNNS1-----A----	Sb
+10	již	Db-------------	AuxZ
+11	šesté	CrNS1----------	Pnom
+12	,	Z:-------------	AuxX
+13	které	P4NS1----------	Sb
+14	bylo	VpNS---XR-AA---	AuxV
+15	letos	Db-------------	Adv
+16	otevřeno	VsNS---XX-AP---	Atr
+17	.	Z:-------------	AuxK
+
+ln95049-139-p2s3
+1	Regionální	AANP1----1A----	Atr
+2	poradenská	AANP1----1A----	Atr
+3	střediska	NNNP1-----A----	Sb
+4	pořádají	VB-P---3P-AA---	Pred
+5	zemědělské	AAIP4----1A----	Atr
+6	semináře	NNIP4-----A----	Obj
+7	a	J^-------------	Coord
+8	zajišťují	VB-P---3P-AA---	Pred
+9	převážně	Dg-------1A----	Adv
+10	pro	RR--4----------	AuxP
+11	samostatně	Dg-------1A----	Adv
+12	hospodařící	AGMP4-----A----	Atr
+13	rolníky	NNMP4-----A----	Adv
+14	přístup	NNIS4-----A----	Obj
+15	k	RR--3----------	AuxP
+16	aktuálním	AAFP3----1A----	Atr
+17	informacím	NNFP3-----A----	Atr
+18	,	Z:-------------	AuxX
+19	obchodním	AAFP3----1A----	Atr
+20	nabídkám	NNFP3-----A----	Atr
+21	a	J^-------------	Coord
+22	poradenství	NNNS3-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95049-139-p2s4
+1	V	RR--6----------	AuxP
+2	dohledné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	by	Vc-------------	AuxV
+5	mělo	VpNS---XR-AA---	Pred
+6	být	Vf--------A----	AuxV
+7	otevřeno	VsNS---XX-AP---	Obj
+8	celkem	Db-------------	AuxZ
+9	asi	TT-------------	AuxZ
+10	deset	Cn-S1----------	Sb
+11	takových	PDXP2----------	Atr
+12	středisek	NNNP2-----A----	Atr
+13	při	RR--6----------	AuxP
+14	zemědělských	AAFP6----1A----	Atr
+15	školách	NNFP6-----A----	AtrAdv
+16	v	RR--6----------	AuxP
+17	různých	AAIP6----1A----	Atr
+18	regionech	NNIP6-----A----	Atr
+19	ČR	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+

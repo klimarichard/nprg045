@@ -1,0 +1,396 @@
+ln95042-075-p1s1
+1	Zdravá	AAFS1----1A----	Atr
+2	výživa	NNFS1-----A----	Sb
+3	nebývá	VB-S---3P-NA---	Pred
+4	pravidlem	NNNS7-----A----	Pnom
+5	ani	J^-------------	AuxZ
+6	ve	RV--6----------	AuxP
+7	zdravotnických	AANP6----1A----	Atr
+8	zařízeních	NNNP6-----A----	Adv
+
+ln95042-075-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95042-075-p2s1B
+1	Dietní	AAFP1----1A----	Atr
+2	sestry	NNFP1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	nemocnici	NNFS6-----A----	Atr
+5	by	Vc-------------	AuxV
+6	prý	TT-------------	AuxY
+7	občas	Db-------------	Adv
+8	rády	ACTP------A----	Atv
+9	předložily	VpTP---XR-AA---	Pred
+10	svým	P8XP3----------	Atr
+11	pacientům	NNMP3-----A----	Obj
+12	skutečně	Dg-------1A----	Adv
+13	zdravé	AANS4----1A----	Atr
+14	jídlo	NNNS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95042-075-p2s2
+1	Podle	RR--2----------	AuxP
+2	jedné	ClFS2----------	Adv
+3	z	RR--2----------	AuxP
+4	nich	P5XP2--3-------	Atr
+5	,	Z:-------------	Apos
+6	Tamary	NNFS2-----A----	Atr
+7	Starnovské	NNFS3-----A----	Adv
+8	z	RR--2----------	AuxP
+9	pražské	AAFS2----1A----	Atr
+10	vinohradské	AAFS2----1A----	Atr
+11	nemocnice	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	však	J^-------------	Coord
+14	nemocní	NNMP1-----A----	Sb
+15	například	Db-------------	AuxZ
+16	sóju	NNFS4-----A----	Obj
+17	odmítají	VB-P---3P-AA---	Pred
+18	.	Z:-------------	AuxK
+
+ln95042-075-p3s1
+1	"	Z:-------------	AuxG
+2	Tato	PDFS1----------	Atr
+3	reakce	NNFS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	pochopitelná	AAFS1----1A----	Pnom
+6	.	Z:-------------	AuxK
+
+ln95042-075-p3s2
+1	Už	Db-------------	AuxZ
+2	pobyt	NNIS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	nemocnici	NNFS6-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	pro	RR--4----------	AuxP
+7	lidi	NNMP4-----A----	Adv
+8	stresující	AGIS1-----A----	Pnom
+9	.	Z:-------------	AuxK
+
+ln95042-075-p3s3
+1	Nemůžeme	VB-P---1P-NA---	Obj
+2	jim	PPXP3--3-------	Obj
+3	proto	J^-------------	Coord
+4	situaci	NNFS4-----A----	Obj
+5	ztěžovat	Vf--------A----	Obj
+6	úplně	Dg-------1A----	Adv
+7	jinou	AAFS7----1A----	Atr
+8	stravou	NNFS7-----A----	Adv
+9	,	Z:-------------	AuxX
+10	než	J,-------------	AuxC
+11	na	RR--4----------	AuxP
+12	jakou	P4FS4----------	Obj
+13	jsou	VB-P---3P-AA---	Adv
+14	zvyklí	AAMP1----1A----	Pnom
+15	,	Z:-------------	AuxX
+16	"	Z:-------------	AuxG
+17	míní	VB-S---3P-AA---	Pred
+18	T	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	Starnovská	NNFS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+ln95042-075-p4s1
+1	Na	RR--6----------	AuxP
+2	druhé	CrFS6----------	Atr
+3	straně	NNFS6-----A----	Adv
+4	si	P7-X3----------	AuxT
+5	někteří	PZMP1----------	Atr
+6	pacienti	NNMP1-----A----	Sb
+7	stěžují	VB-P---3P-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	ve	RV--6----------	AuxP
+11	zdravotnických	AANP6----1A----	Atr
+12	zařízeních	NNNP6-----A----	Adv
+13	jako	J,-------------	AuxC
+14	by	Vc-------------	AuxV
+15	nikdy	Db-------------	Adv
+16	nikdo	PWM-1----------	Sb
+17	neslyšel	VpYS---XR-NA---	ExD
+18	o	RR--6----------	AuxP
+19	zásadách	NNFP6-----A----	Obj
+20	zdravé	AAFS2----1A----	Atr
+21	výživy	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95042-075-p4s2
+1	Podávají	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	tu	Db------------1	Adv
+4	tučná	AANP1----1A----	Atr
+5	a	J^-------------	Coord
+6	často	Dg-------1A----	Adv
+7	velmi	Db-------------	Adv
+8	slaná	AANP1----1A----	Atr
+9	jídla	NNNP1-----A----	Sb
+10	,	Z:-------------	Coord
+11	hodně	Dg-------1A----	Sb
+12	měkkých	AAFP2----1A----	Atr
+13	uzenin	NNFP2-----A----	Atr
+14	a	J^-------------	Coord
+15	vajec	NNNP2-----A----	Atr
+16	,	Z:-------------	Coord
+17	naopak	Db-------------	Adv
+18	chybí	VB-S---3P-AA---	Pred
+19	vlákniny	NNFP1-----A----	Sb
+20	a	J^-------------	Coord
+21	zejména	Db-------------	AuxZ
+22	ovoce	NNNS1-----A----	Sb
+23	a	J^-------------	Coord
+24	zelenina	NNFS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln95042-075-p4s3
+1	Nemocní	NNMP1-----A----	Sb
+2	také	Db-------------	Adv
+3	dostávají	VB-P---3P-AA---	Pred
+4	často	Dg-------1A----	Adv
+5	jídlo	NNNS4-----A----	Obj
+6	již	Db-------------	Adv
+7	vychladlé	AANS4----1A----	Atv
+8	.	Z:-------------	AuxK
+
+ln95042-075-p5s1
+1	Údajně	Dg-------1A----	Adv
+2	to	PDNS1----------	Sb
+3	neplatí	VB-S---3P-NA---	Pred
+4	například	Db-------------	AuxZ
+5	o	RR--6----------	AuxP
+6	pražských	AAFP6----1A----	Atr
+7	nemocnicích	NNFP6-----A----	Obj
+8	na	RR--6----------	AuxP
+9	Vinohradech	NNIP6-----A----	Atr
+10	a	J^-------------	Coord
+11	na	RR--6----------	AuxP
+12	Karlově	AUNS6M---------	Atr
+13	náměstí	NNNS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95042-075-p5s2
+1	Podle	RR--2----------	AuxP
+2	tamních	AAFP2----1A----	Atr
+3	dietních	AAFP2----1A----	Atr
+4	sester	NNFP2-----A----	Adv
+5	mají	VB-P---3P-AA---	Pred
+6	pacienti	NNMP1-----A----	Sb
+7	ve	RV--6----------	AuxP
+8	svém	P8ZS6----------	Atr
+9	jídle	NNNS6-----A----	Adv
+10	sóju	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	ovoce	NNNS4-----A----	Obj
+13	i	J^-------------	Coord
+14	zeleninu	NNFS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95042-075-p5s3
+1	Malá	AAFS1----1A----	Atr
+2	anketa	NNFS1-----A----	Sb
+3	LN	NNFPX-----A---8	Atr
+4	naznačuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	situace	NNFS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	tomto	PDZS6----------	Atr
+10	směru	NNIS6-----A----	Atr
+11	bývá	VB-S---3P-AA---	Obj
+12	horší	AAFS1----2A----	Pnom
+13	spíše	Dg-------2A---1	Adv
+14	v	RR--6----------	AuxP
+15	některých	PZXP6----------	Atr
+16	menších	AAFP6----2A----	Atr
+17	nemocnicích	NNFP6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln95042-075-p5s4
+1	Pacienti	NNMP1-----A----	Sb
+2	dostávají	VB-P---3P-AA---	Pred
+3	k	RR--3----------	AuxP
+4	večeři	NNFS3-----A----	Adv
+5	tučný	AAIS4----1A----	Atr
+6	měkký	AAIS4----1A----	Atr
+7	salám	NNIS4-----A----	Obj
+8	nebo	J^-------------	Coord
+9	i	J^-------------	AuxZ
+10	tlačenku	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95042-075-p5s5
+1	Zvláště	Db-------------	AuxZ
+2	ti	PDMP1----------	Sb
+3	,	Z:-------------	AuxX
+4	kteří	P4MP1----------	Sb
+5	se	P7-X4----------	AuxT
+6	nemohou	VB-P---3P-NA--1	Atr
+7	dost	Dg-------1A----	Adv
+8	pohybovat	Vf--------A----	Obj
+9	,	Z:-------------	AuxX
+10	pak	Db-------------	Adv
+11	mívají	VB-P---3P-AA---	Pred
+12	problémy	NNIP4-----A----	Obj
+13	s	RR--7----------	AuxP
+14	vyprazdňováním	NNNS7-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95042-075-p6s1
+1	Do	RR--2----------	AuxP
+2	roku	NNIS2-----A---1	Adv
+3	1990	C=-------------	Atr
+4	bylo	VpNS---XR-AA---	Pred
+5	složení	NNNS1-----A----	Sb
+6	jídla	NNNS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	nemocnicích	NNFP6-----A----	Atr
+9	a	J^-------------	Coord
+10	lázních	NNFP6-----A----	Atr
+11	předepsáno	VsNS---XX-AP---	Pnom
+12	,	Z:-------------	Coord
+13	nyní	Db-------------	Adv
+14	jsou	VB-P---3P-AA---	Pred
+15	dávky	NNFP1-----A----	Sb
+16	pouze	Db-------------	AuxZ
+17	doporučeny	VsTP---XX-AP---	Pnom
+18	.	Z:-------------	AuxK
+
+ln95042-075-p6s2
+1	Složení	NNNS4-----A----	Obj
+2	jídla	NNNS2-----A----	Atr
+3	však	J^-------------	Coord
+4	neovlivňuje	VB-S---3P-NA---	Pred
+5	jen	TT-------------	AuxZ
+6	dietní	AAFS1----1A----	Atr
+7	sestra	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	také	Db-------------	AuxZ
+11	finance	NNFP1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln95042-075-p6s3
+1	Na	RR--4----------	AuxP
+2	stravu	NNFS4-----A----	Adv
+3	jednoho	ClZS2----------	Atr
+4	pacienta	NNMS2-----A----	Atr
+5	mají	VB-P---3P-AA---	Pred
+6	nemocnice	NNFP1-----A----	Sb
+7	průměrně	Dg-------1A----	Adv
+8	padesát	Cn-S4----------	Obj
+9	až	J^-------------	Coord
+10	šedesát	Cn-S4----------	Obj
+11	korun	NNFP2-----A----	Atr
+12	denně	Dg-------1A----	Adv
+13	.	Z:-------------	AuxK
+
+ln95042-075-p6s4
+1	Proto	J^-------------	Coord
+2	někde	Db-------------	Adv
+3	dávají	VB-P---3P-AA---	Pred
+4	ovoce	NNNS4-----A----	Obj
+5	pravidelně	Dg-------1A----	Adv
+6	jen	TT-------------	AuxZ
+7	dětem	NNFP3-----A----	Obj
+8	a	J^-------------	Coord
+9	diabetikům	NNMP3-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln95042-075-p6s5
+1	Dietní	AAFS1----1A----	Atr
+2	sestra	NNFS1-----A----	Atr
+3	z	RR--2----------	AuxP
+4	Karlova	AUNS2M---------	Atr
+5	náměstí	NNNS2-----A----	Atr
+6	Helena	NNFS1-----A----	Atr
+7	Fojtíková	NNFS1-----A----	Sb
+8	říká	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	se	P7-X4----------	AuxT
+12	snaží	VB-S---3P-AA---	Obj
+13	podávat	Vf--------A----	Obj
+14	alespoň	Db-------------	AuxZ
+15	kompoty	NNIP4-----A----	Obj
+16	a	J^-------------	Coord
+17	zeleninové	AAIP4----1A----	Atr
+18	saláty	NNIP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln95042-075-p6s6
+1	Spíše	Dg-------2A---1	Adv
+2	než	J,-------------	AuxC
+3	ovocem	NNNS7-----A----	ExD
+4	zpestřují	VB-P---3P-AA---	Pred
+5	dětem	NNFP3-----A----	Obj
+6	snídaně	NNFP4-----A----	Obj
+7	džemy	NNIP1-----A----	Adv
+8	nebo	J^-------------	Coord
+9	medem	NNIS7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95042-075-p7s1
+1	Tamara	NNFS1-----A----	Atr
+2	Starnovská	NNFS1-----A----	Sb
+3	zase	Db-------------	Adv
+4	míní	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	více	Dg-------2A----	Obj
+8	peněz	NNIP2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	ovoce	NNNS4-----A----	Atr
+11	a	J^-------------	Coord
+12	zeleninu	NNFS4-----A----	Atr
+13	lze	VB-S---3P-AA---	Obj
+14	získat	Vf--------A----	Sb
+15	omezením	NNNS7-----A----	Adv
+16	drahého	AANS2----1A----	Atr
+17	masa	NNNS2-----A----	Atr
+18	a	J^-------------	Coord
+19	uzenin	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95042-075-p7s2
+1	Považuje	VB-S---3P-AA---	Pred
+2	za	RR--4----------	AuxP
+3	chybu	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	mnohá	AANP1----1A----	Atr
+7	zařízení	NNNP1-----A----	Sb
+8	dietní	AAFP4----1A----	Atr
+9	sestry	NNFP4-----A----	Obj
+10	propouštějí	VB-P---3P-AA---	Obj
+11	.	Z:-------------	AuxK
+
+ln95042-075-p7s3
+1	Podle	RR--2----------	AuxP
+2	ní	P5FS2--3-------	Adv
+3	někde	Db-------------	Adv
+4	pronajali	VpMP---XR-AA---	Pred
+5	stravovací	AAIP4----1A----	Atr
+6	provozy	NNIP4-----A----	Obj
+7	různým	AAFP3----1A----	Atr
+8	firmám	NNFP3-----A----	Obj
+9	nebo	J^-------------	Coord
+10	berou	VB-P---3P-AA---	Pred
+11	jídlo	NNNS4-----A----	Obj
+12	z	RR--2----------	AuxP
+13	restaurace	NNFS2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln95042-075-p7s4
+1	Tato	PDFS1----------	Atr
+2	strava	NNFS1-----A----	Sb
+3	prý	TT-------------	AuxY
+4	neodpovídá	VB-S---3P-NA---	Pred
+5	vždy	Db-------------	Adv
+6	nárokům	NNIP3-----A----	Obj
+7	kladeným	AAIP3----1A----	Atr
+8	na	RR--4----------	AuxP
+9	jídlo	NNNS4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	nemocné	NNMP4-----A----	Atr
+12	.	Z:-------------	AuxK
+

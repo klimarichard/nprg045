@@ -1,0 +1,306 @@
+mf920924-060-p1s1A
+1	Delta	NNFS1-----A----	Sb
+2	99	C=-------------	Atr
+3	odhalena	VsQW---XX-AP---	ExD
+
+mf920924-060-p1s1B
+1	LEVNÝ	AAIS4----1A----	Atr
+2	VŮZ	NNIS4-----A----	Obj
+3	PŘIJALI	VpMP---XR-AA---	Pred
+4	ZÁKAZNÍCI	NNMP1-----A----	Sb
+5	S	RR--7----------	AuxP
+6	ROZPAKY	NNIP7-----A----	Adv
+
+mf920924-060-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	brp	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920924-060-p2s2
+1	Očekávaný	AAIS4----1A----	Atr
+2	automobil	NNIS4-----A----	Obj
+3	Delta	NNFS1-----A----	Atr
+4	99	C=-------------	Atr
+5	za	RR--4----------	AuxP
+6	senzační	AAFS4----1A----	Atr
+7	cenu	NNFS4-----A----	Atr
+8	necelých	AAFP2----1N----	Atr
+9	sto	ClXP2----------	Atr
+10	tisíc	ClXS2----------	Atr
+11	korun	NNFP2-----A----	Atr
+12	včera	Db-------------	Adv
+13	jeho	PSXXXZS3-------	Atr
+14	prodejce	NNMS1-----A----	Sb
+15	-	Z:-------------	Apos
+16	firma	NNFS1-----A----	Sb
+17	Auto	NNNS1-----A----	Atr
+18	Delta	NNFS1-----A----	Atr
+19	z	RR--2----------	AuxP
+20	Liberce	NNIS2-----A----	Atr
+21	-	Z:-------------	AuxG
+22	alespoň	Db-------------	AuxZ
+23	na	RR--6----------	AuxP
+24	fotografiích	NNFP6-----A----	Adv
+25	veřejně	Dg-------1A----	Adv
+26	představil	VpYS---XR-AA---	Pred
+27	na	RR--6----------	AuxP
+28	výstavě	NNFS6-----A----	Adv
+29	Motor	NNIS1-----A----	Atr
+30	Show	NNFXX-----A----	Atr
+31	'	Z:-------------	AuxG
+32	92	C=-------------	Atr
+33	v	RR--6----------	AuxP
+34	pražském	AAIS6----1A----	Atr
+35	Paláci	NNIS6-----A----	AtrAdv
+36	kultury	NNFS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+mf920924-060-p2s3
+1	Dlouho	Dg-------1A----	Adv
+2	utajovaný	AAIS1----1A----	Atr
+3	zázrak	NNIS1-----A----	Sb
+4	má	VB-S---3P-AA---	Pred
+5	nakonec	Db-------------	AuxY
+6	podobu	NNFS4-----A----	Obj
+7	Fiatu	NNIS2-----A----	Atr
+8	124	C=-------------	Atr
+9	(	Z:-------------	AuxG
+10	u	RR--2----------	AuxP
+11	nás	PP-P2--1-------	ExD
+12	nejblíže	Dg-------3A---1	Adv
+13	vozu	NNIS3-----A----	Adv
+14	Lada	NNFS1-----A----	Atr
+15	1200	C=-------------	Atr
+16	)	Z:-------------	AuxG
+17	,	Z:-------------	AuxX
+18	který	P4IS4----------	Obj
+19	licenčně	Dg-------1A----	Adv
+20	vyrábí	VB-S---3P-AA---	Atr
+21	indická	AAFS1----1A----	Atr
+22	firma	NNFS1-----A----	Sb
+23	Premier	NNFP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920924-060-p2s4
+1	Vůz	NNIS1-----A----	Sb
+2	zastaralého	AAIS2----1A----	Atr
+3	designu	NNIS2-----A----	Atr
+4	(	Z:-------------	AuxG
+5	automobil	NNIS1-----A----	Adv
+6	roku	NNIS2-----A---1	Atr
+7	1966	C=-------------	Atr
+8	)	Z:-------------	AuxG
+9	má	VB-S---3P-AA---	Pred
+10	motor	NNIS4-----A----	Obj
+11	značky	NNFS2-----A----	Atr
+12	Nissan	NNIS1-----A----	Atr
+13	o	RR--6----------	AuxP
+14	obsahu	NNIS6-----A----	Atr
+15	1171	C=-------------	Atr
+16	ccm	NNIXX-----A---8	Atr
+17	,	Z:-------------	Coord
+18	čtyřrychlostní	AAFS4----1A----	Atr
+19	převodovku	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920924-060-p2s5
+1	Už	Db-------------	Adv
+2	včera	Db-------------	Adv
+3	si	P7-X3----------	Adv
+4	pro	RR--4----------	AuxP
+5	něj	P5ZS4--3-------	Adv
+6	do	RR--2----------	AuxP
+7	Prahy	NNFS2-----A----	Adv
+8	přijelo	VpNS---XR-AA---	Pred
+9	nemálo	Ca--1----------	Sb
+10	zájemců	NNMP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf920924-060-p2s6
+1	Mnozí	AAMP1----1A----	Sb
+2	ovšem	J^-------------	Coord
+3	vyjadřovali	VpMP---XR-AA---	Pred
+4	velké	AANS4----1A----	Atr
+5	zklamání	NNNS4-----A----	Obj
+6	jak	Db-------------	AuxY
+7	nad	RR--7----------	AuxP
+8	vzhledem	NNIS7-----A----	Atr
+9	"	Z:-------------	AuxG
+10	zázraku	NNIS2-----A----	Atr
+11	"	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	tak	Db-------------	Coord
+14	nad	RR--7----------	AuxP
+15	tím	PDZS7----------	Atr
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	musí	VB-P---3P-AA--1	Atr
+19	předem	Db-------------	Adv
+20	prodejci	NNMS3-----A----	Obj
+21	zaplatit	Vf--------A----	Obj
+22	zálohu	NNFS4-----A----	Obj
+23	50	C=-------------	Atr
+24	tisíc	ClXS2----------	Atr
+25	korun	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+mf920924-060-p2s7
+1	Přestože	J,-------------	AuxC
+2	liberecká	AAFS1----1A----	Atr
+3	společnost	NNFS1-----A----	Sb
+4	má	VB-S---3P-AA---	Adv
+5	již	Db-------------	AuxZ
+6	první	CrMP4----------	Atr
+7	zákazníky	NNMP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	její	PSZS1FS3-------	Atr
+10	vůz	NNIS1-----A----	Sb
+11	není	VB-S---3P-NA---	Pred
+12	ještě	Db-------------	Adv
+13	ani	J^-------------	AuxZ
+14	schválen	VsYS---XX-AP---	Pnom
+15	našimi	PSXP7-P1-------	Atr
+16	úřady	NNIP7-----A----	Obj
+17	do	RR--2----------	AuxP
+18	silničního	AAIS2----1A----	Atr
+19	provozu	NNIS2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+mf920924-060-p2s8
+1	Zástupci	NNMP1-----A----	Sb
+2	Auto	NNNS1-----A----	Atr
+3	Delty	NNFS2-----A----	Atr
+4	však	J^-------------	Coord
+5	ujišťovali	VpMP---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	na	RR--6----------	AuxP
+9	homologaci	NNFS6-----A----	Adv
+10	se	P7-X4----------	AuxR
+11	již	Db-------------	Adv
+12	pracuje	VB-S---3P-AA---	Obj
+13	.	Z:-------------	AuxK
+
+mf920924-060-p2s9
+1	Pro	RR--4----------	AuxP
+2	náš	PSIS4-P1-------	Atr
+3	trh	NNIS4-----A----	Adv
+4	má	VB-S---3P-AA---	Pred
+5	Auto	NNNS1-----A----	Sb
+6	Delta	NNFS1-----A----	Atr
+7	20	C=-------------	Obj
+8	tisíc	ClXS2----------	Atr
+9	automobilů	NNIP2-----A----	Atr
+10	Delta	NNFS1-----A----	Atr
+11	99	C=-------------	Atr
+12	,	Z:-------------	Coord
+13	prodávat	Vf--------A----	Obj
+14	by	Vc-------------	AuxV
+15	je	PPXP4--3-------	Obj
+16	údajně	Dg-------1A----	Adv
+17	měla	VpQW---XR-AA---	Pred
+18	začít	Vf--------A----	Obj
+19	během	RR--2----------	AuxP
+20	prvního	CrNS2----------	Atr
+21	pololetí	NNNS2-----A----	Adv
+22	příštího	AAIS2----1A----	Atr
+23	roku	NNIS2-----A---1	Atr
+24	.	Z:-------------	AuxK
+
+mf920924-060-p2s10
+1	Přes	RR--4----------	AuxP
+2	sliby	NNIP4-----A----	Adv
+3	Auto	NNNS1-----A----	Atr
+4	Delty	NNFS2-----A----	Atr
+5	však	J^-------------	Coord
+6	ani	J^-------------	AuxZ
+7	včera	Db-------------	Adv
+8	vůz	NNIS1-----A----	Sb
+9	fyzicky	Dg-------1A----	Adv
+10	nedorazil	VpYS---XR-NA---	Pred
+11	.	Z:-------------	AuxK
+
+mf920924-060-p2s11
+1	Dalšími	AAIP7----1A----	Atr
+2	akčními	AAIP7----1A----	Atr
+3	modely	NNIP7-----A----	Adv
+4	favoritů	NNIP2-----A----	Atr
+5	-	Z:-------------	Apos
+6	vozy	NNIP7-----A----	Adv
+7	Favorit	NNIS1-----A----	Atr
+8	Prima	NNFS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Forman	NNIS1-----A----	Atr
+11	Prima	NNFS1-----A----	Atr
+12	a	J^-------------	Coord
+13	Forman	NNIS1-----A----	Atr
+14	Excellent	NNIXX-----A----	Atr
+15	se	P7-X4----------	Obj
+16	na	RR--6----------	AuxP
+17	Motor	AAXXX----1A----	Atr
+18	Show	NNFXX-----A----	Adv
+19	prezentuje	VB-S---3P-AA---	Pred
+20	mladoboleslavská	AAFS1----1A----	Atr
+21	Škoda	NNFS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+mf920924-060-p2s12
+1	Společnost	NNFS1-----A----	Sb
+2	CS	AAXXX----1A---8	Atr
+3	Autolada	NNFS1-----A----	Atr
+4	předvádí	VB-S---3P-AA---	Pred
+5	novou	AAFS4----1A----	Atr
+6	Samaru	NNFS4-----A----	Obj
+7	(	Z:-------------	AuxG
+8	1500	C=-------------	Atr
+9	ccm	NNIXX-----A---8	Atr
+10	)	Z:-------------	AuxG
+11	s	RR--7----------	AuxP
+12	cenou	NNFS7-----A----	Atr
+13	226	C=-------------	Atr
+14	tisíc	ClXS2----------	Atr
+15	korun	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920924-060-p2s13
+1	Na	RR--6----------	AuxP
+2	výstavě	NNFS6-----A----	Adv
+3	se	P7-X4----------	AuxR
+4	ovšem	J^-------------	Coord
+5	nakupuje	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	ve	RV--6----------	AuxP
+8	zcela	Db-------------	AuxZ
+9	opačných	AAFP6----1A----	Atr
+10	cenových	AAFP6----1A----	Atr
+11	hladinách	NNFP6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+mf920924-060-p2s14
+1	Jak	Db-------------	AuxC
+2	nás	PP-P4--1-------	Obj
+3	například	Db-------------	AuxY
+4	informovali	VpMP---XR-AA---	Adv
+5	zástupci	NNMP1-----A----	Sb
+6	firmy	NNFS2-----A----	Atr
+7	BESO	NNNS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	objevili	VpMP---XR-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	už	Db-------------	AuxZ
+12	vážní	AAMP1----1A----	Atr
+13	zájemci	NNMP1-----A----	Sb
+14	o	RR--4----------	AuxP
+15	unikátní	AAIP4----1A----	Atr
+16	supersportovně	Dg-------1A----	Adv
+17	upravené	AAIP4----1A----	Atr
+18	Chevrolety	NNIP4-----A----	Atr
+19	Corvette	NNFXX-----A----	Atr
+20	za	RR--4----------	AuxP
+21	7.5	C=-------------	Atr
+22	miliónu	NNIS2-----A----	Atr
+23	korun	NNFP2-----A----	Atr
+24	.	Z:-------------	AuxK
+

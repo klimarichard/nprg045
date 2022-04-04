@@ -1,0 +1,123 @@
+cmpr9407-015-p2s1
+1	FOR	NNNP2-----A----	Atr
+2	ECO	NNNS1-----A----	ExD
+3	poprvé	Cv-------------	ExD
+
+cmpr9407-015-p3s1
+1	Téměř	Db-------------	AuxZ
+2	sto	NNNS1-----A----	Sb
+3	firem	NNFP2-----A----	Atr
+4	se	P7-X4----------	Obj
+5	představí	VB-P---3P-AA---	Pred
+6	na	RR--6----------	AuxP
+7	ekologické	AAFS6----1A----	Atr
+8	výstavní	AAFS6----1A----	Atr
+9	akci	NNFS6-----A----	Adv
+10	FOR	NNNP2-----A----	Atr
+11	ECO	NNNS1-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kterou	P4FS4----------	Obj
+14	do	RR--2----------	AuxP
+15	pražského	AAIS2----1A----	Atr
+16	Paláce	NNIS2-----A----	Adv
+17	kultury	NNFS2-----A----	Atr
+18	připravuje	VB-S---3P-AA---	Atr
+19	na	RR--4----------	AuxP
+20	dny	NNIP4-----A----	Adv
+21	23	C=-------------	Atr
+22	.	Z:-------------	AuxG
+23	-	Z:-------------	Coord
+24	27	C=-------------	Atr
+25	.	Z:-------------	AuxG
+26	února	NNIS2-----A---1	Atr
+27	Nadace	NNFS1-----A----	Sb
+28	pro	RR--4----------	AuxP
+29	rozvoj	NNIS4-----A----	Atr
+30	architektury	NNFS2-----A----	Atr
+31	a	J^-------------	Coord
+32	stavitelství	NNNS2-----A----	Atr
+33	ABF	NNXXX-----A---8	Atr
+34	.	Z:-------------	AuxK
+
+cmpr9407-015-p4s1A
+1	Výstava	NNFS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	členěna	VsQW---XX-AP---	Pred
+4	do	RR--2----------	AuxP
+5	dvou	ClXP2----------	Atr
+6	základních	AAIP2----1A----	Atr
+7	tematických	AAIP2----1A----	Atr
+8	okruhů	NNIP2-----A----	Adv
+9	:	Z:-------------	AuxK
+
+cmpr9407-015-p4s1B
+1	První	CrIS4----------	Obj
+2	představují	VB-P---3P-AA---	Pred
+3	technická	AANP1----1A----	Atr
+4	a	J^-------------	Coord
+5	technologická	AANP1----1A----	Atr
+6	zařízení	NNNP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	jako	J,-------------	AuxC
+9	čističky	NNFP1-----A----	ExD
+10	odpadních	AAFP2----1A----	Atr
+11	vod	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	přístroje	NNIP1-----A----	ExD
+14	pro	RR--4----------	AuxP
+15	monitoring	NNIS4-----A----	Atr
+16	ovzduší	NNNS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	zařízení	NNNP1-----A----	ExD
+19	pro	RR--4----------	AuxP
+20	bezodpadové	AAFP4----1A----	Atr
+21	technologie	NNFP4-----A----	Atr
+22	,	Z:-------------	AuxX
+23	skládky	NNFP1-----A----	ExD
+24	odpadků	NNIP2-----A----	Atr
+25	a	J^-------------	Coord
+26	podobně	Dg-------1A----	ExD
+27	.	Z:-------------	AuxK
+
+cmpr9407-015-p4s2
+1	Druhý	CrIS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	zaměřen	VsYS---XX-AP---	Pnom
+4	na	RR--4----------	AuxP
+5	výrobky	NNIP4-----A----	Obj
+6	přímo	Dg-------1A----	Adv
+7	určené	AAIP4----1A----	Atr
+8	stavitelství	NNNS3-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9407-015-p4s3
+1	Z	RR--2----------	AuxP
+2	dalších	AAFP2----1A----	Atr
+3	akcí	NNFP2-----A----	Adv
+4	FOR	NNNP2-----A----	Atr
+5	ECO	NNNS1-----A----	Atr
+6	připomeňme	Vi-P---1--A----	Pred
+7	například	Db-------------	AuxZ
+8	konferenci	NNFS4-----A----	Obj
+9	Ekologické	AANS1----1A----	Atr
+10	vzdělávání	NNNS1-----A----	Atr
+11	v	RR--6----------	AuxP
+12	současné	AAFS6----1A----	Atr
+13	době	NNFS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	respektive	Db-------------	Coord
+16	konferenci	NNFS4-----A----	Obj
+17	Ekologicky	Dg-------1A----	Adv
+18	orientované	AANS1----1A----	Atr
+19	stavebnictví	NNNS1-----A----	Atr
+20	,	Z:-------------	AuxX
+21	nad	RR--7----------	AuxP
+22	níž	P9FS7----------	Adv
+23	převzalo	VpNS---XR-AA---	Atr
+24	záštitu	NNFS4-----A----	Obj
+25	Ministerstvo	NNNS1-----A----	Sb
+26	životního	AANS2----1A----	Atr
+27	prostředí	NNNS2-----A----	Atr
+28	ČR	NNFXX-----A---8	Atr
+29	.	Z:-------------	AuxK
+

@@ -1,0 +1,236 @@
+ln95049-104-p1s1
+1	Chřipky	NNFS2-----A----	Atr
+2	je	VB-S---3P-AA---	Pred
+3	prý	TT-------------	AuxY
+4	zatím	Db-------------	Adv
+5	jen	TT-------------	AuxZ
+6	minimálně	Dg-------1A----	Sb
+
+ln95049-104-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pech	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln95049-104-p2s1B
+1	Pouze	Db-------------	AuxZ
+2	u	RR--2----------	AuxP
+3	devatenácti	Cn-P2----------	Atr
+4	lidí	NNMP2-----A----	Adv
+5	v	RR--6----------	AuxP
+6	České	AAFS6----1A----	Atr
+7	republice	NNFS6-----A----	Atr
+8	byla	VpQW---XR-AA---	AuxV
+9	letos	Db-------------	Adv
+10	v	RR--6----------	AuxP
+11	zimě	NNFS6-----A----	Adv
+12	prokázána	VsQW---XX-AP---	Pred
+13	chřipka	NNFS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln95049-104-p2s2
+1	LN	NNFPX-----A---8	Obj
+2	to	PDNS4----------	Obj
+3	sdělila	VpQW---XR-AA---	Pred
+4	doktorka	NNFS1-----A----	Atr
+5	Běla	NNFS1-----A----	Atr
+6	Tůmová	NNFS1-----A----	Sb
+7	ze	RV--2----------	AuxP
+8	Státního	AAIS2----1A----	Atr
+9	zdravotního	AAIS2----1A----	Atr
+10	ústavu	NNIS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Praze	NNFS6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95049-104-p2s3
+1	Podle	RR--2----------	AuxP
+2	ní	P5FS2--3-------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	to	PDNS1----------	Sb
+5	ve	RV--6----------	AuxP
+6	srovnání	NNNS6-----A----	AuxP
+7	s	RR--7----------	AuxP
+8	minulou	AAFS7----1A----	Atr
+9	sezónou	NNFS7-----A----	Adv
+10	velmi	Db-------------	Adv
+11	málo	Dg-------1A----	Pnom
+12	.	Z:-------------	AuxK
+
+ln95049-104-p2s4
+1	Samotný	AAIS1----1A----	Atr
+2	virus	NNIS1-----A----	Sb
+3	zatím	Db-------------	Adv
+4	ani	J^-------------	AuxZ
+5	nebyl	VpYS---XR-NA---	AuxV
+6	izolován	VsYS---XX-AP---	Pred
+7	.	Z:-------------	AuxK
+
+ln95049-104-p2s5
+1	Lékaři	NNMP1-----A----	Sb
+2	zjistili	VpMP---XR-AA---	Pred
+3	pouze	Db-------------	AuxZ
+4	chřipkový	AAIS4----1A----	Atr
+5	antigen	NNIS4-----A----	Obj
+6	v	RR--6----------	AuxP
+7	krčních	AAIP6----1A----	Atr
+8	výtěrech	NNIP6-----A----	AtrAdv
+9	pacientů	NNMP2-----A----	Atr
+10	nebo	J^-------------	Coord
+11	protilátky	NNFP4-----A----	Obj
+12	v	RR--6----------	AuxP
+13	jejich	PSXXXXP3-------	Atr
+14	krvi	NNFS6-----A----	AtrAdv
+15	.	Z:-------------	AuxK
+
+ln95049-104-p2s6
+1	Díky	RR--3----------	AuxP
+2	tomu	PDZS3----------	Adv
+3	byla	VpQW---XR-AA---	AuxV
+4	dokázána	VsQW---XX-AP---	Pred
+5	přítomnost	NNFS1-----A----	Sb
+6	virů	NNIP2-----A----	Atr
+7	typu	NNIS2-----A----	Atr
+8	A	NNNXX-----A----	Atr
+9	i	J^-------------	Coord
+10	B	NNNXX-----A----	Atr
+11	mezi	RR--7----------	AuxP
+12	lidmi	NNMP7-----A----	Atr
+13	,	Z:-------------	AuxX
+14	a	J^-------------	AuxY
+15	to	PDNS4----------	AuxY
+16	v	RR--6----------	AuxP
+17	Praze	NNFS6-----A----	Adv
+18	,	Z:-------------	AuxX
+19	Českých	AAFP6----1A----	Atr
+20	Budějovicích	NNFP6-----A----	Adv
+21	,	Z:-------------	AuxX
+22	Jihlavě	NNFS6-----A----	Adv
+23	,	Z:-------------	AuxX
+24	Zlíně	NNIS6-----A----	Adv
+25	a	J^-------------	Coord
+26	Uherském	AANS6----1A----	Atr
+27	Hradišti	NNNS6-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln95049-104-p2s7
+1	Občas	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	chřipkové	AAFP1----1A----	Atr
+4	protilátky	NNFP1-----A----	Sb
+5	vyskytují	VB-P---3P-AA---	Pred
+6	spolu	Db-------------	AuxP
+7	s	RR--7----------	AuxP
+8	jinými	AAFP7----1A----	Atr
+9	respiračními	AAFP7----1A----	Atr
+10	chorobami	NNFP7-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln95049-104-p2s8
+1	Letošní	AAFS1----1A----	Atr
+2	chřipková	AAFS1----1A----	Atr
+3	sezóna	NNFS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	dosud	Db-------------	Adv
+6	klidná	AAFS1----1A----	Pnom
+7	v	RR--6----------	AuxP
+8	celé	AAFS6----1A----	Atr
+9	Evropě	NNFS6-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95049-104-p2s9
+1	Liší	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	tak	J^-------------	Adv
+4	od	RR--2----------	AuxP
+5	loňské	AAFS2----1A----	ExD
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	přinesla	VpQW---XR-AA---	ExD
+9	například	Db-------------	AuxZ
+10	v	RR--6----------	AuxP
+11	Nizozemsku	NNNS6-----A----	Adv
+12	a	J^-------------	Coord
+13	Norsku	NNNS6-----A----	Adv
+14	poměrně	Dg-------1A----	Adv
+15	velké	AAFP4----1A----	Atr
+16	epidemie	NNFP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln95049-104-p2s10
+1	Podle	RR--2----------	AuxP
+2	Běly	NNFS2-----A----	Atr
+3	Tůmové	NNFS2-----A----	Adv
+4	tvoří	VB-S---3P-AA---	Pred
+5	letos	Db-------------	Adv
+6	výjimku	NNFS4-----A----	Obj
+7	pouze	Db-------------	AuxZ
+8	lokální	AAFS1----1A----	Atr
+9	epidemie	NNFS1-----A----	Sb
+10	na	RR--6----------	AuxP
+11	školách	NNFP6-----A----	AtrAdv
+12	v	RR--6----------	AuxP
+13	Německu	NNNS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	zejména	Db-------------	AuxZ
+16	v	RR--6----------	AuxP
+17	Sasku	NNNS6-----A----	Atr
+18	,	Z:-------------	Coord
+19	dále	Db------------1	Adv
+20	se	P7-X4----------	AuxT
+21	virus	NNIS1-----A----	Sb
+22	vyskytl	VpYS---XR-AA--1	Pred
+23	ve	RV--6----------	AuxP
+24	větší	AAFS6----2A----	Atr
+25	míře	NNFS6-----A----	Adv
+26	ve	RV--6----------	AuxP
+27	Finsku	NNNS6-----A----	Adv
+28	a	J^-------------	Coord
+29	ve	RV--6----------	AuxP
+30	Španělsku	NNNS6-----A----	Adv
+31	.	Z:-------------	AuxK
+
+ln95049-104-p2s11
+1	V	RR--6----------	AuxP
+2	lednu	NNIS6-----A----	Adv
+3	sice	Db-------------	AuxY
+4	přibylo	VpNS---XR-AA---	Pred
+5	případů	NNIP2-----A----	Sb
+6	ve	RV--6----------	AuxP
+7	všech	PLXP6----------	Atr
+8	evropských	AAFP6----1A----	Atr
+9	zemích	NNFP6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	nikoliv	Db-------------	AuxZ
+12	ale	J^-------------	Coord
+13	významně	Dg-------1A----	ExD
+14	.	Z:-------------	AuxK
+
+ln95049-104-p2s12
+1	Virus	NNIS1-----A----	Sb
+2	typu	NNIS2-----A----	Atr
+3	B	NNNXX-----A----	Atr
+4	převažuje	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	Belgii	NNFS6-----A----	Adv
+7	a	J^-------------	Coord
+8	Velké	AAFS6----1A----	Atr
+9	Británii	NNFS6-----A----	Adv
+10	,	Z:-------------	Coord
+11	v	RR--6----------	AuxP
+12	severní	AAFS6----1A----	Atr
+13	a	J^-------------	Coord
+14	jižní	AAFS6----1A----	Atr
+15	Francii	NNFS6-----A----	Adv
+16	a	J^-------------	Coord
+17	v	RR--6----------	AuxP
+18	Itálii	NNFS6-----A----	Adv
+19	se	P7-X4----------	AuxT
+20	vyskytl	VpYS---XR-AA--1	Pred
+21	navíc	Db-------------	Adv
+22	i	J^-------------	AuxZ
+23	virus	NNIS1-----A----	Sb
+24	A	NNNXX-----A----	Atr
+25	.	Z:-------------	AuxK
+

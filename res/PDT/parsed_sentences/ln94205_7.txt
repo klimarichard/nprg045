@@ -1,0 +1,155 @@
+ln94205-7-p1s1
+1	Americký	AAIS1----1A----	Atr
+2	investiční	AAIS1----1A----	Atr
+3	fond	NNIS1-----A----	ExD
+4	pro	RR--4----------	AuxP
+5	ČR	NNFXX-----A---8	Atr
+
+ln94205-7-p2s1A
+1	New	AAXXX----1A----	Atr
+2	York	NNIS1-----A----	ExD
+3	-	Z:-------------	AuxK
+
+ln94205-7-p2s1B
+1	Založit	Vf--------A----	Obj
+2	zvláštní	AAIS4----1A----	Atr
+3	fond	NNIS4-----A----	Obj
+4	pro	RR--4----------	AuxP
+5	portfoliové	AAFP4----1A----	Atr
+6	investice	NNFP4-----A----	Atr
+7	v	RR--6----------	AuxP
+8	ČR	NNFXX-----A---8	Atr
+9	se	P7-X4----------	AuxT
+10	rozhodla	VpQW---XR-AA--1	Pred
+11	přední	AAFS1----1A----	Atr
+12	americká	AAFS1----1A----	Atr
+13	soukromá	AAFS1----1A----	Atr
+14	investiční	AAFS1----1A----	Atr
+15	firma	NNFS1-----A----	Sb
+16	Oppenheimer	NNMS1-----A----	Atr
+17	and	J^-------------	Atr
+18	Co	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	,	Z:-------------	AuxX
+21	Inc	AAXXX----1A---8	Atr
+22	.	Z:-------------	AuxG
+
+ln94205-7-p2s2
+1	Nový	AAIS1----1A----	Atr
+2	fond	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	nazvaný	AAIS1----1A----	Atr
+5	The	AAXXX----1A----	Atr
+6	Czech	AAXXX----1A----	Atr
+7	Republic	AAXXX----1A----	Atr
+8	Fund	NNIXX-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Inc	AAXXX----1A---8	Obj
+11	.	Z:-------------	AuxG
+12	(	Z:-------------	Apos
+13	CRF	NNIXX-----A---8	Obj
+14	)	Z:-------------	AuxG
+15	je	VB-S---3P-AA---	Pred
+16	podle	RR--2----------	AuxP
+17	svého	P8ZS2----------	Atr
+18	tvrzení	NNNS2-----A----	Adv
+19	registrován	VsYS---XX-AP---	Pnom
+20	na	RR--6----------	AuxP
+21	newyorské	AAFS6----1A----	Atr
+22	burze	NNFS6-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94205-7-p3s1
+1	Představuje	VB-S---3P-AA---	Pred
+2	první	CrIS4----------	Atr
+3	fond	NNIS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	zaměřený	AAIS4----1A----	Atr
+6	na	RR--4----------	AuxP
+7	Českou	AAFS4----1A----	Atr
+8	republiku	NNFS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	s	RR--7----------	AuxP
+11	jehož	PJZS2----------	Atr
+12	cennými	AAIP7----1A----	Atr
+13	papíry	NNIP7-----A----	Obj
+14	se	P7-X4----------	AuxR
+15	zde	Db-------------	Adv
+16	bude	VB-S---3F-AA---	AuxV
+17	obchodovat	Vf--------A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94205-7-p3s2
+1	Američané	NNMP1-----A----	Sb
+2	tak	J^-------------	Adv
+3	získali	VpMP---XR-AA---	Pred
+4	první	CrFS4----------	Atr
+5	možnost	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	jak	Db-------------	Adv
+8	se	P7-X4----------	AuxT
+9	přímo	Dg-------1A----	Adv
+10	podílet	Vf--------A----	Atr
+11	na	RR--6----------	AuxP
+12	českém	AAIS6----1A----	Atr
+13	trhu	NNIS6-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94205-7-p4s1
+1	Na	RR--6----------	AuxP
+2	českém	AAIS6----1A----	Atr
+3	trhu	NNIS6-----A----	Adv
+4	mají	VB-P---3P-AA---	Pred
+5	patřit	Vf--------A----	Obj
+6	ke	RV--3----------	AuxP
+7	konkurentům	NNMP3-----A----	Obj
+8	fondu	NNIS2-----A----	Atr
+9	CS	NNIXX-----A---8	Atr
+10	First	CrXXX----------	Atr
+11	Boston	NNIS1-----A----	Atr
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	je	VB-S---3P-AA---	AuxV
+15	obchodován	VsYS---XX-AP---	Atr
+16	v	RR--6----------	AuxP
+17	Londýně	NNIS6-----A----	Adv
+18	a	J^-------------	Coord
+19	který	P4IS4----------	Obj
+20	například	Db-------------	AuxZ
+21	časopis	NNIS1-----A----	Sb
+22	Worth	NNIS1-----A----	Atr
+23	ohodnotil	VpYS---XR-AA---	Atr
+24	jako	J,-------------	AuxY
+25	jeden	ClIS4----------	Atv
+26	z	RR--2----------	AuxP
+27	nejlepších	AAIP2----3A----	Atr
+28	fondů	NNIP2-----A----	Atr
+29	na	RR--6----------	AuxP
+30	světě	NNIS6-----A----	Adv
+31	.	Z:-------------	AuxK
+
+ln94205-7-p4s2
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	jiných	AAIP2----1A----	Atr
+5	amerických	AAIP2----1A----	Atr
+6	fondů	NNIP2-----A----	Adv
+7	,	Z:-------------	AuxX
+8	které	P4IP1----------	Sb
+9	investují	VB-P---3P-AA---	Atr
+10	najednou	Db-------------	Adv
+11	do	RR--2----------	AuxP
+12	všech	PLXP2----------	Atr
+13	vznikajících	AGIP2-----A----	Atr
+14	trhů	NNIP2-----A----	Adv
+15	,	Z:-------------	AuxX
+16	se	P7-X4----------	AuxT
+17	CRF	NNIXX-----A---8	Sb
+18	zaměří	VB-S---3P-AA---	Pred
+19	především	Db-------------	AuxZ
+20	na	RR--4----------	AuxP
+21	Českou	AAFS4----1A----	Atr
+22	republiku	NNFS4-----A----	Obj
+23	.	Z:-------------	AuxK
+

@@ -1,0 +1,140 @@
+lnd91301-092-p1s1
+1	RALLYE	NNFXX-----A----	ExD
+2	PAŘÍŽ	NNFS1-----A----	Atr
+3	-	Z:-------------	Coord
+4	K	AANXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	MĚSTO	NNNS1-----A----	Atr
+
+lnd91301-092-p3s1
+1	Dva	ClYP1----------	Atr
+2	mrtví	AAMP1----1A----	ExD
+3	!	Z:-------------	AuxK
+
+lnd91301-092-p4s1
+1	Druhá	CrFS1----------	Atr
+2	etapa	NNFS1-----A----	Sb
+3	Rallye	NNFXX-----A----	Atr
+4	Paříž	NNFS1-----A----	Atr
+5	-	Z:-------------	Coord
+6	Kapské	AANS1----1A----	Atr
+7	Město	NNNS1-----A----	Atr
+8	ze	RV--2----------	AuxP
+9	Sirte	NNNXX-----A----	Atr
+10	do	RR--2----------	AuxP
+11	Sabahu	NNIS2-----A----	Atr
+12	(	Z:-------------	ExD
+13	421	C=-------------	ExD
+14	km	NNIXX-----A---8	Atr
+15	)	Z:-------------	ExD
+16	v	RR--6----------	AuxP
+17	Lybii	NNFS6-----A----	Atr
+18	si	P7-X3----------	AuxT
+19	vyžádala	VpQW---XR-AA---	Pred
+20	dva	ClYP4----------	Atr
+21	lidské	AAIP4----1A----	Atr
+22	životy	NNIP4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd91301-092-p4s2
+1	Dva	ClYP1----------	Atr
+2	mechanici	NNMP1-----A----	Sb
+3	francouzského	AAMS2----1A----	Atr
+4	jezdce	NNMS2-----A----	Atr
+5	J	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	L	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Schlessera	NNMS2-----A----	Atr
+10	byli	VpMP---XR-AA---	AuxV
+11	usmrceni	VsMP---XX-AP---	Pred
+12	při	RR--6----------	AuxP
+13	explozi	NNFS6-----A----	Adv
+14	doprovodného	AAIS2----1A----	Atr
+15	vozu	NNIS2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	cíli	NNIS6-----A----	AtrAdv
+18	etapy	NNFS2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	Sabahu	NNIS6-----A----	AtrAdv
+21	.	Z:-------------	AuxK
+
+lnd91301-092-p4s3
+1	Po	RR--6----------	AuxP
+2	dvou	ClXP6----------	Atr
+3	etapách	NNFP6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	čele	NNNS6-----A----	Adv
+7	klasifikace	NNFS2-----A----	Atr
+8	automobilů	NNIP2-----A----	Atr
+9	Servia	NNMS1-----A----	Sb
+10	(	Z:-------------	AuxG
+11	Šp	NNNXX-----A---8	ExD
+12	.	Z:-------------	AuxG
+13	-	Z:-------------	Coord
+14	Lada	NNFS1-----A----	ExD
+15	)	Z:-------------	AuxG
+16	s	RR--7----------	AuxP
+17	náskokem	NNIS7-----A----	AdvAtr
+18	2	C=-------------	Atr
+19	:	Z:-------------	ExD
+20	15	C=-------------	ExD
+21	min	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxG
+23	před	RR--7----------	AuxP
+24	Sabym	NNMS7-----A----	ExD
+25	(	Z:-------------	AuxG
+26	Fr	NNFXX-----A---8	ExD
+27	.	Z:-------------	AuxG
+28	-	Z:-------------	Coord
+29	Micubiši	NNNXX-----A----	ExD
+30	)	Z:-------------	AuxG
+31	a	J^-------------	Coord
+32	9	C=-------------	Atr
+33	:	Z:-------------	ExD
+34	04	C=-------------	ExD
+35	min	NNFP2-----A----	Atr
+36	.	Z:-------------	AuxG
+37	před	RR--7----------	AuxP
+38	Šinozukou	NNMS7-----A----	ExD
+39	(	Z:-------------	AuxG
+40	Jap	NNNXX-----A----	ExD
+41	.	Z:-------------	AuxG
+42	-	Z:-------------	Coord
+43	Micubiši	NNNXX-----A----	ExD
+44	)	Z:-------------	AuxG
+45	.	Z:-------------	AuxK
+
+lnd91301-092-p4s4
+1	Etapu	NNFS4-----A----	Obj
+2	vyhrál	VpYS---XR-AA---	Pred
+3	Švéd	NNMS1-----A----	Atr
+4	Waldegaard	NNMS1-----A----	Sb
+5	na	RR--6----------	AuxP
+6	Citroenu	NNIS6-----A---1	AtrAdv
+7	.	Z:-------------	AuxK
+
+lnd91301-092-p4s5
+1	V	RR--6----------	AuxP
+2	motocyklech	NNIP6-----A----	Adv
+3	vede	VB-S---3P-AA---	Pred
+4	Ital	NNMS1-----A----	Atr
+5	de	RR--1----------	AuxP
+6	Petri	NNMS1-----A----	Sb
+7	(	Z:-------------	AuxG
+8	Yamaha	NNFS1-----A----	ExD
+9	-	Z:-------------	Coord
+10	vyhrál	VpYS---XR-AA---	Pred
+11	i	J^-------------	AuxZ
+12	etapu	NNFS4-----A----	Obj
+13	)	Z:-------------	AuxG
+14	,	Z:-------------	Coord
+15	o	RR--6----------	AuxP
+16	kamionech	NNIP6-----A----	Obj
+17	agenturní	AAFP1----1A----	Atr
+18	zprávy	NNFP1-----A----	Sb
+19	opět	Db-------------	Adv
+20	nehovoří	VB-P---3P-NA---	Pred
+21	.	Z:-------------	AuxK
+

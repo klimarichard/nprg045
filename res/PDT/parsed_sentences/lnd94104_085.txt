@@ -1,0 +1,348 @@
+lnd94104-085-p1s1A
+1	Staré	AAFP1----1A----	Atr
+2	budovy	NNFP1-----A----	ExD
+3	a	J^-------------	Coord
+4	jejich	PSXXXXP3-------	Atr
+5	nové	AAIP1----1A----	Atr
+6	osudy	NNIP1-----A----	ExD
+7	(	Z:-------------	ExD
+8	LN	NNFPX-----A---8	ExD
+9	15	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	4	C=-------------	ExD
+12	.	Z:-------------	AuxG
+13	1994	C=-------------	Atr
+14	)	Z:-------------	ExD
+
+lnd94104-085-p1s1B
+1	Masarykovy	AUFP1M---------	Atr
+2	studentské	AAFP1----1A----	Atr
+3	koleje	NNFP1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	Dejvicích	NNFP6-----A----	Atr
+6	byly	VpTP---XR-AA---	AuxV
+7	s	RR--7----------	AuxP
+8	podporou	NNFS7-----A----	Adv
+9	prezidenta	NNMS2-----A----	Atr
+10	Masaryka	NNMS2-----A----	Atr
+11	vystavěny	VsTP---XX-AP---	Pred
+12	speciálně	Dg-------1A----	Adv
+13	pro	RR--4----------	AuxP
+14	ubytování	NNNS4-----A----	Adv
+15	studentů	NNMP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd94104-085-p1s2
+1	StB	NNFXX-----A---8	Sb
+2	je	PPXP4--3-------	Obj
+3	nijak	Db-------------	Adv
+4	radikálně	Dg-------1A----	Adv
+5	nepřestavovala	VpQW---XR-NA---	Pred
+6	a	J^-------------	Coord
+7	asi	TT-------------	AuxZ
+8	před	RR--7----------	AuxP
+9	deseti	Cn-P7----------	Atr
+10	roky	NNIP7-----A----	Adv
+11	důkladně	Dg-------1A----	Adv
+12	opravila	VpQW---XR-AA---	Pred
+13	.	Z:-------------	AuxK
+
+lnd94104-085-p1s3
+1	Sloužily	VpTP---XR-AA---	Pred
+2	studentům	NNMP3-----A----	Obj
+3	do	RR--2----------	AuxP
+4	r	NNIXX-----A---8	Adv
+5	.	Z:-------------	AuxG
+6	1939	C=-------------	Atr
+7	a	J^-------------	Coord
+8	po	RR--6----------	AuxP
+9	pětileté	AAFS6----1A----	Atr
+10	okupaci	NNFS6-----A----	ExD
+11	Němci	NNMP1-----A----	Atr
+12	ihned	Db-------------	ExD
+13	po	RR--6----------	AuxP
+14	r	NNIXX-----A---8	ExD
+15	.	Z:-------------	AuxG
+16	1945	C=-------------	Atr
+17	do	RR--2----------	AuxP
+18	1949	C=-------------	ExD
+19	.	Z:-------------	AuxK
+
+lnd94104-085-p1s4
+1	Částka	NNFS1-----A----	Sb
+2	"	Z:-------------	AuxG
+3	přes	RR--4----------	AuxP
+4	půl	NNFS4-----A----	Atr
+5	miliardy	NNFS2-----A----	Atr
+6	Kč	NNFXX-----A----	Atr
+7	"	Z:-------------	AuxG
+8	pro	RR--4----------	AuxP
+9	adaptaci	NNFS4-----A----	Atr
+10	na	RR--4----------	AuxP
+11	ubytování	NNNS4-----A----	Atr
+12	studentů	NNMP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	jak	J,-------------	Adv
+15	vypočetlo	VpNS---XR-AA---	Pred
+16	ČVUT	NNNXX-----A---8	Sb
+17	,	Z:-------------	AuxX
+18	je	VB-S---3P-AA---	Pred
+19	holý	AAIS1----1A----	Atr
+20	nesmysl	NNIS1-----A----	Pnom
+21	.	Z:-------------	AuxK
+
+lnd94104-085-p1s5
+1	Za	RR--4----------	AuxP
+2	tuto	PDFS4----------	Atr
+3	částku	NNFS4-----A----	Adv
+4	by	Vc-------------	AuxV
+5	při	RR--6----------	AuxP
+6	ceně	NNFS6-----A----	Adv
+7	10000	C=-------------	Atr
+8	Kč	NNFXX-----A----	Atr
+9	za	RR--4----------	AuxP
+10	m	NNIXX-----A---8	Atr
+11	a	J^-------------	Coord
+12	10	C=-------------	Atr
+13	m	NNIXX-----A---8	Adv
+14	na	RR--4----------	AuxP
+15	osobu	NNFS4-----A----	Atr
+16	bylo	VpNS---XR-AA---	Pred
+17	možno	ACNS------A----	Pnom
+18	nově	Dg-------1A----	Adv
+19	vybudovat	Vf--------A----	Sb
+20	ubytování	NNNS4-----A----	Obj
+21	pro	RR--4----------	AuxP
+22	5000	C=-------------	Atr
+23	studentů	NNMP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+lnd94104-085-p1s6
+1	Přehnaná	AAFS1----1A----	Atr
+2	částka	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	ohlasem	NNIS7-----A----	Pnom
+5	komunistických	AAIP2----1A----	Atr
+6	přístupů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kdy	Db-------------	Adv
+9	při	RR--6----------	AuxP
+10	výstavbě	NNFS6-----A----	Adv
+11	nezáleželo	VpNS---XR-NA---	Atr
+12	na	RR--6----------	AuxP
+13	penězích	NNIP6-----A----	Obj
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	na	RR--6----------	AuxP
+17	zařazení	NNNS6-----A----	Obj
+18	stavby	NNFS2-----A----	Atr
+19	do	RR--2----------	AuxP
+20	plánu	NNIS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	jejím	PSZS6FS3-------	Atr
+23	zahájení	NNNS6-----A----	Obj
+24	a	J^-------------	Coord
+25	zajištění	NNNS6-----A----	Obj
+26	stavební	AAFS2----1A----	Atr
+27	kapacity	NNFS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+lnd94104-085-p1s7
+1	Doplatila	VpQW---XR-AA---	Pred
+2	na	RR--4----------	AuxP
+3	to	PDNS4----------	Obj
+4	leckterá	PZFS1----------	Atr
+5	památka	NNFS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+lnd94104-085-p1s8
+1	Na	RR--6----------	AuxP
+2	Denisově	AUNS6M---------	Atr
+3	nádraží	NNNS6-----A----	Adv
+4	byly	VpTP---XR-AA---	AuxV
+5	vypracovány	VsTP---XX-AP---	Pred
+6	projekty	NNIP1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	desítky	NNFP4-----A----	Atr
+9	milionů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94104-085-p1s9
+1	Kdyby	J,-------------	AuxC
+2	byl	VpYS---XR-AA---	Adv
+3	připraven	VsYS---XX-AP---	Pnom
+4	rozpočet	NNIS1-----A----	Sb
+5	na	RR--4----------	AuxP
+6	osm	Cn-S4----------	Obj
+7	milionů	NNIP2-----A----	Atr
+8	a	J^-------------	Coord
+9	překročen	VsYS---XX-AP---	Pnom
+10	na	RR--4----------	AuxP
+11	dvanáct	Cn-S4----------	Adv
+12	mohla	VpQW---XR-AA---	Pred
+13	být	Vf--------A----	Obj
+14	budova	NNFS1-----A----	Sb
+15	zachráněna	VsQW---XX-AP---	Pnom
+16	.	Z:-------------	AuxK
+
+lnd94104-085-p1s10
+1	Nesmyslná	AAFS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	myšlenka	NNFS1-----A----	Sb
+4	přestavovat	Vf--------A----	Atr
+5	koleje	NNFP4-----A----	Obj
+6	pro	RR--4----------	AuxP
+7	administrativu	NNFS4-----A----	Adv
+8	.	Z:-------------	AuxK
+
+lnd94104-085-p1s11
+1	Jsou	VB-P---3P-AA---	Pred
+2	součástí	NNFS7-----A----	Pnom
+3	vysokoškolského	AAIS2----1A----	Atr
+4	areálu	NNIS2-----A----	Atr
+5	a	J^-------------	Coord
+6	studenti	NNMP1-----A----	Sb
+7	nyní	Db-------------	Adv
+8	dojíždějí	VB-P---3P-AA---	Pred
+9	do	RR--2----------	AuxP
+10	škol	NNFP2-----A----	Adv
+11	přes	RR--4----------	AuxP
+12	celou	AAFS4----1A----	Atr
+13	Prahu	NNFS4-----A----	Adv
+14	z	RR--2----------	AuxP
+15	kolejí	NNFP2-----A----	Adv
+16	na	RR--6----------	AuxP
+17	Jižním	AANS6----1A----	Atr
+18	městě	NNNS6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94104-085-p1s12
+1	Při	RR--6----------	AuxP
+2	tak	Db-------------	Adv
+3	velkém	AAIS6----1A----	Atr
+4	nedostatku	NNIS6-----A----	Adv
+5	ubytovacích	AAFP2----1A----	Atr
+6	možností	NNFP2-----A----	Atr
+7	pro	RR--4----------	AuxP
+8	studenty	NNMP4-----A----	Atr
+9	by	Vc-------------	AuxV
+10	se	P7-X4----------	AuxR
+11	mohly	VpTP---XR-AA---	Pred
+12	opravy	NNFP1-----A----	Sb
+13	provádět	Vf--------A----	Obj
+14	postupně	Dg-------1A----	Adv
+15	,	Z:-------------	AuxX
+16	tak	Db-------------	Adv
+17	jak	J,-------------	AuxC
+18	to	PDNS4----------	Obj
+19	dělají	VB-P---3P-AA---	Adv
+20	např	Db------------8	AuxY
+21	.	Z:-------------	AuxG
+22	v	RR--6----------	AuxP
+23	německém	AAIS6----1A----	Atr
+24	Kreuzbergu	NNIS6-----A----	Adv
+25	.	Z:-------------	AuxK
+
+lnd94104-085-p1s13
+1	Na	RR--6----------	AuxP
+2	žalostném	AAIS6----1A----	Atr
+3	stavu	NNIS6-----A----	Adv
+4	kolejí	NNFP2-----A----	Atr
+5	ovšem	J^-------------	AuxY
+6	vinu	NNFS4-----A----	Obj
+7	nese	VB-S---3P-AA---	Pred
+8	i	J^-------------	AuxZ
+9	indolence	NNFS1-----A----	Sb
+10	studentů	NNMP2-----A----	Atr
+11	a	J^-------------	Coord
+12	jejich	PSXXXXP3-------	Atr
+13	organizací	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94104-085-p1s14
+1	Ti	PDMP1----------	Sb
+2	chodí	VB-P---3P-AA---	Adv
+3	čtyři	ClXP4----------	Atr
+4	roky	NNIP4-----A----	Adv
+5	bez	RR--2----------	AuxP
+6	povšimnutí	NNNS2-----A----	Adv
+7	kolem	RR--2----------	AuxP
+8	nepoužitých	AAFP2----1N----	Atr
+9	a	J^-------------	Coord
+10	chátrajících	AGFP2-----A----	Atr
+11	kolejí	NNFP2-----A----	Adv
+12	,	Z:-------------	AuxX
+13	zatímco	J,-------------	AuxC
+14	naříkají	VB-P---3P-AA---	Pred
+15	na	RR--4----------	AuxP
+16	nedostatek	NNIS4-----A----	Obj
+17	míst	NNNP2-----A----	Atr
+18	v	RR--6----------	AuxP
+19	kolejích	NNFP6-----A----	Atr
+20	.	Z:-------------	AuxK
+
+lnd94104-085-p1s15
+1	Asi	TT-------------	AuxY
+2	čekají	VB-P---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	o	RR--4----------	AuxP
+7	ně	P5XP4--3-------	Obj
+8	bude	VB-S---3F-AA---	AuxV
+9	někdo	PZM-1----------	Sb
+10	starat	Vf--------A----	Obj
+11	.	Z:-------------	AuxK
+
+lnd94104-085-p1s16
+1	Jaký	P4YS1----------	Atr
+2	rozdíl	NNIS1-----A----	ExD
+3	proti	RR--3----------	AuxP
+4	době	NNFS3-----A----	Atr
+5	po	RR--6----------	AuxP
+6	r	NNIXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	1919	C=-------------	Atr
+9	,	Z:-------------	AuxX
+10	kdy	Db-------------	Adv
+11	se	P7-X4----------	AuxT
+12	studenti	NNMP1-----A----	Sb
+13	a	J^-------------	Coord
+14	jejich	PSXXXXP3-------	Atr
+15	organizace	NNFP1-----A----	Sb
+16	účastnili	VpMP---XR-AA---	Atr
+17	výstavby	NNFS2-----A----	Obj
+18	a	J^-------------	Coord
+19	správy	NNFS2-----A----	Obj
+20	kolejí	NNFP2-----A----	Atr
+21	na	RR--6----------	AuxP
+22	Hradčanech	NNIP6-----A----	Atr
+23	a	J^-------------	Coord
+24	na	RR--6----------	AuxP
+25	Letné	NNFS6-----A----	Atr
+26	,	Z:-------------	AuxX
+27	nebo	J^-------------	Coord
+28	po	RR--6----------	AuxP
+29	r	NNIXX-----A---8	Atr
+30	.	Z:-------------	AuxG
+31	1945	C=-------------	Atr
+32	,	Z:-------------	AuxX
+33	kdy	Db-------------	Adv
+34	rozhodně	Dg-------1A----	Adv
+35	bojovali	VpMP---XR-AA---	Atr
+36	za	RR--4----------	AuxP
+37	své	P8FP4---------1	Atr
+38	potřeby	NNFP4-----A----	Obj
+39	a	J^-------------	Coord
+40	prosazení	NNNS4-----A----	Obj
+41	demokracie	NNFS2-----A----	Atr
+42	.	Z:-------------	AuxK
+
+lnd94104-085-p1s17
+1	Z	RR--2----------	AuxP
+2	dopisu	NNIS2-----A----	ExD
+3	Jana	NNMS2-----A----	Atr
+4	Cejpa	NNMS2-----A----	Atr
+5	,	Z:-------------	ExD
+6	Praha	NNFS1-----A----	ExD
+

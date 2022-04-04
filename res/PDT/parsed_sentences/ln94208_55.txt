@@ -1,0 +1,136 @@
+ln94208-55-p1s1
+1	ODA	NNFXX-----A---8	ExD
+2	:	Z:-------------	Coord
+3	v	RR--6----------	AuxP
+4	severních	AAFP6----1A----	Atr
+5	Čechách	NNFP6-----A----	ExD
+6	700	C=-------------	ExD
+7	kandidátů	NNMP2-----A----	Atr
+
+ln94208-55-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln94208-55-p2s1B
+1	Ústí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Labem	NNNS7-----A----	Atr
+4	-	Z:-------------	AuxK
+
+ln94208-55-p2s1C
+1	Prozatím	Db-------------	Adv
+2	700	C=-------------	Obj
+3	kandidátů	NNMP2-----A----	Atr
+4	pro	RR--4----------	AuxP
+5	komunální	AAFP4----1A----	Atr
+6	volby	NNFP4-----A----	Atr
+7	má	VB-S---3P-AA---	Pred
+8	připraveno	VsNS---XX-AP---	Atv
+9	ODA	NNFXX-----A---8	Sb
+10	v	RR--6----------	AuxP
+11	35	C=-------------	Atr
+12	městech	NNNP6-----A----	Adv
+13	a	J^-------------	Coord
+14	obcích	NNFP6-----A----	Adv
+15	severočeského	AAIS2----1A----	Atr
+16	kraje	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94208-55-p2s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	předseda	NNMS1-----A----	Atr
+4	severočeského	AAIS2----1A----	Atr
+5	oblastního	AAIS2----1A----	Atr
+6	výboru	NNIS2-----A----	Atr
+7	strany	NNFS2-----A----	Atr
+8	Milan	NNMS1-----A----	Atr
+9	Křivohlavý	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94208-55-p2s3
+1	Dvě	ClHP1----------	Atr
+2	třetiny	CyFP1----------	Sb
+3	z	RR--2----------	AuxP
+4	nich	P5XP2--3-------	Atr
+5	jsou	VB-P---3P-AA---	Pred
+6	členy	NNMP7-----A----	Pnom
+7	ODA	NNFXX-----A---8	Atr
+8	,	Z:-------------	Coord
+9	zbývající	AGMP1-----A----	Sb
+10	jsou	VB-P---3P-AA---	Pred
+11	bez	RR--2----------	AuxP
+12	stranické	AAFS2----1A----	Atr
+13	příslušnosti	NNFS2-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94208-55-p2s4
+1	Je	VB-S---3P-AA---	Pred
+2	mezi	RR--7----------	AuxP
+3	nimi	P5XP7--3-------	Adv
+4	i	J^-------------	AuxZ
+5	19	C=-------------	Sb
+6	bývalých	AAMP2----1A----	Atr
+7	členů	NNMP2-----A----	Atr
+8	KSČ	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxK
+
+ln94208-55-p2s5
+1	Podle	RR--2----------	AuxP
+2	Křivohlavého	NNMS2-----A----	Adv
+3	však	J^-------------	Coord
+4	nikdo	PWM-1----------	Sb
+5	z	RR--2----------	AuxP
+6	nich	P5XP2--3-------	Atr
+7	nezastával	VpYS---XR-NA---	Pred
+8	žádné	PWFP4----------	Atr
+9	významnější	AAFP4----2A----	Atr
+10	funkce	NNFP4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln94208-55-p2s6
+1	Všechny	PLFP1----------	Atr
+2	osoby	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	které	P4FP1----------	Sb
+5	se	P7-X4----------	AuxT
+6	na	RR--6----------	AuxP
+7	kandidátkách	NNFP6-----A----	Adv
+8	ODA	NNFXX-----A---8	Atr
+9	v	RR--6----------	AuxP
+10	severních	AAFP6----1A----	Atr
+11	Čechách	NNFP6-----A----	AtrAdv
+12	objeví	VB-P---3P-AA---	Atr
+13	,	Z:-------------	AuxX
+14	budou	VB-P---3F-AA---	AuxV
+15	povinně	Dg-------1A----	Adv
+16	lustrovány	VsTP---XX-AP---	Pred
+17	.	Z:-------------	AuxK
+
+ln94208-55-p2s7
+1	Do	RR--2----------	AuxP
+2	koalice	NNFS2-----A----	Adv
+3	vstoupí	VB-S---3P-AA---	Pred
+4	ODA	NNFXX-----A---8	Sb
+5	v	RR--6----------	AuxP
+6	Ústí	NNNS6-----A----	Adv
+7	nad	RR--7----------	AuxP
+8	Labem	NNNS7-----A----	Atr
+9	s	RR--7----------	AuxP
+10	KDS	NNFXX-----A---8	Adv
+11	,	Z:-------------	AuxX
+12	KDU	NNFXX-----A---8	Adv
+13	-	Z:-------------	Coord
+14	ČSL	NNFXX-----A---8	Adv
+15	a	J^-------------	Coord
+16	KAN	NNIXX-----A---8	Adv
+17	,	Z:-------------	Coord
+18	přičemž	J,-------------	Adv
+19	ODA	NNFXX-----A---8	Sb
+20	bude	VB-S---3F-AA---	AuxV
+21	mít	Vf--------A----	Pred
+22	většinové	AANS4----1A----	Atr
+23	zastoupení	NNNS4-----A----	Obj
+24	.	Z:-------------	AuxK
+

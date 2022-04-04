@@ -1,0 +1,145 @@
+mf920924-015-p1s1
+1	Hodina	NNFS1-----A----	ExD
+2	léčby	NNFS2-----A----	Atr
+
+mf920924-015-p2s1
+1	Denní	AANS1----1A----	Atr
+2	sanatorium	NNNS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	pacienty	NNMP4-----A----	Atr
+5	postižené	AAMP4----1A----	Atr
+6	kožními	AAFP7----1A----	Atr
+7	chorobami	NNFP7-----A----	Adv
+8	bude	VB-S---3F-AA---	AuxV
+9	od	RR--2----------	AuxP
+10	7	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	října	NNIS2-----A----	Adv
+13	fungovat	Vf--------A----	Pred
+14	v	RR--6----------	AuxP
+15	třinecké	AAFS6----1A----	Atr
+16	nemocnici	NNFS6-----A----	Adv
+17	Sosna	NNMS1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920924-015-p2s2
+1	Jde	VB-S---3P-AA---	Pred
+2	tak	Db-------------	Adv
+3	po	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Adv
+5	a	J^-------------	Coord
+6	Ústí	NNNS6-----A----	Adv
+7	nad	RR--7----------	AuxP
+8	Labem	NNNS7-----A----	Atr
+9	o	RR--4----------	AuxP
+10	třetí	CrNS4----------	Atr
+11	zařízení	NNNS4-----A----	Obj
+12	v	RR--6----------	AuxP
+13	republice	NNFS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4NS1----------	Sb
+16	bude	VB-S---3F-AA---	AuxV
+17	poskytovat	Vf--------A----	Atr
+18	efektivní	AAIS4----1A----	Atr
+19	způsob	NNIS4-----A----	Obj
+20	léčby	NNFS2-----A----	Atr
+21	běžný	AAIS4----1A----	Atr
+22	v	RR--6----------	AuxP
+23	západních	AAFP6----1A----	Atr
+24	zemích	NNFP6-----A----	Adv
+25	.	Z:-------------	AuxK
+
+mf920924-015-p2s3
+1	"	Z:-------------	AuxG
+2	Není	VB-S---3P-NA---	Pred
+3	nutný	AAIS1----1A----	Pnom
+4	celodenní	AAIS1----1A----	Atr
+5	pobyt	NNIS1-----A----	Sb
+6	na	RR--6----------	AuxP
+7	oddělení	NNNS6-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf920924-015-p2s4
+1	Pacienti	NNMP1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	ekzémy	NNIP7-----A----	Atr
+4	,	Z:-------------	AuxX
+5	lupenkou	NNFS7-----A----	Atr
+6	,	Z:-------------	AuxX
+7	bradavicemi	NNFP7-----A----	Atr
+8	a	J^-------------	Coord
+9	jinými	AAFP7----1A----	Atr
+10	kožními	AAFP7----1A----	Atr
+11	chorobami	NNFP7-----A----	Atr
+12	budou	VB-P---3F-AA---	AuxV
+13	ošetřeni	VsMP---XX-AP---	Pred
+14	koupelemi	NNFP7-----A----	Adv
+15	,	Z:-------------	AuxX
+16	ozařováním	NNNS7-----A----	Adv
+17	,	Z:-------------	AuxX
+18	akupunkturou	NNFS7-----A----	Adv
+19	či	J^-------------	Coord
+20	jinými	AAIP7----1A----	Atr
+21	netradičními	AAIP7----1N----	Atr
+22	způsoby	NNIP7-----A----	Adv
+23	zhruba	Db-------------	AuxZ
+24	za	RR--4----------	AuxP
+25	jednu	ClFS4----------	Atr
+26	hodinu	NNFS4-----A----	Adv
+27	.	Z:-------------	AuxK
+
+mf920924-015-p2s5
+1	Sami	PLMP1----------	AtvV
+2	si	P7-X3----------	Adv
+3	mohou	VB-P---3P-AA--1	Pred
+4	zvolit	Vf--------A----	Obj
+5	čas	NNIS4-----A----	Obj
+6	mimo	RR--4----------	AuxP
+7	svou	P8FS4---------1	Atr
+8	pracovní	AAFS4----1A----	Atr
+9	dobu	NNFS4-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf920924-015-p2s6
+1	Domů	Db-------------	Adv
+2	odejdou	VB-P---3P-AA---	Pred
+3	natřeni	VsMP---XX-AP---	AtvV
+4	příjemným	AAIS7----1A----	Atr
+5	nezbarvujícím	AGIS7-----N----	Atr
+6	krémem	NNIS7-----A----	Adv
+7	.	Z:-------------	AuxK
+
+mf920924-015-p2s7
+1	Budou	VB-P---3F-AA---	AuxV
+2	tak	Db-------------	Adv
+3	ušetřeni	VsMP---XX-AP---	Obj
+4	negativních	AAIP2----1A----	Atr
+5	důsledků	NNIP2-----A----	Adv
+6	své	P8FS2---------1	Atr
+7	choroby	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	"	Z:-------------	AuxG
+10	tvrdí	VB-S---3P-AA---	Pred
+11	primářka	NNFS1-----A----	Atr
+12	kožního	AANS2----1A----	Atr
+13	oddělení	NNNS2-----A----	Atr
+14	třinecké	AAFS2----1A----	Atr
+15	nemocnice	NNFS2-----A----	Atr
+16	Dagmar	NNFXX-----A----	Atr
+17	Větěchová	NNFS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+mf920924-015-p2s8
+1	Léčbu	NNFS4-----A----	Obj
+2	hradí	VB-S---3P-AA---	Pred
+3	zdravotnická	AAFS1----1A----	Atr
+4	pojišťovna	NNFS1-----A----	Sb
+5	,	Z:-------------	Coord
+6	pacienti	NNMP1-----A----	Sb
+7	se	P7-X4----------	Obj
+8	mohou	VB-P---3P-AA--1	Pred
+9	objednávat	Vf--------A----	Obj
+10	už	Db-------------	AuxZ
+11	dnes	Db-------------	Adv
+12	.	Z:-------------	AuxK
+

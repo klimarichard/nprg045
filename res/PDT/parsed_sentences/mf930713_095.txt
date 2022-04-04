@@ -1,0 +1,190 @@
+mf930713-095-p1s1
+1	stanoví	VB-S---3P-AA---	Pred
+2	norma	NNFS1-----A----	Sb
+
+mf930713-095-p2s1
+1	Obchodní	AAFS1----1A----	Atr
+2	inspekce	NNFS1-----A----	Sb
+3	dává	VB-S---3P-AA---	Pred
+4	pokuty	NNFP4-----A----	Obj
+5	podnikatelům	NNMP3-----A----	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	ředí	VB-P---3P-AA---	Adv
+9	zmrzlinu	NNFS4-----A----	Obj
+10	vodou	NNFS7-----A----	Adv
+11	víc	Dg-------2A---1	Adv
+12	,	Z:-------------	AuxX
+13	než	J,-------------	AuxC
+14	stanoví	VB-S---3P-AA---	Adv
+15	norma	NNFS1-----A----	Sb
+
+mf930713-095-p2s2A
+1	Zlín	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	do	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-095-p2s2B
+1	Téměř	Db-------------	AuxZ
+2	polovina	NNFS1-----A----	Sb
+3	výrobců	NNMP2-----A----	Atr
+4	zmrzliny	NNFS2-----A----	Atr
+5	nedodržuje	VB-S---3P-NA---	Pred
+6	předepsané	AAFP4----1A----	Atr
+7	receptury	NNFP4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+mf930713-095-p2s3
+1	Zmrzlinové	AAFP1----1A----	Atr
+2	směsi	NNFP1-----A----	Sb
+3	obsahují	VB-P---3P-AA---	Pred
+4	víc	Dg-------2A---1	Obj
+5	vody	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	než	J,-------------	AuxC
+8	připouští	VB-S---3P-AA---	Adv
+9	předpis	NNIS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+mf930713-095-p2s4
+1	Obdobné	AAIP1----1A----	Atr
+2	nedostatky	NNIP1-----A----	Sb
+3	při	RR--6----------	AuxP
+4	dodržování	NNNS6-----A----	Atr
+5	receptur	NNFP2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	objevily	VpTP---XR-AA---	Pred
+8	i	J^-------------	AuxZ
+9	u	RR--2----------	AuxP
+10	nealkoholických	AAIP2----1N----	Atr
+11	nápojů	NNIP2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+mf930713-095-p2s5
+1	Pracoviště	NNNS1-----A----	Sb
+2	České	AAFS2----1A----	Atr
+3	obchodní	AAFS2----1A----	Atr
+4	inspekce	NNFS2-----A----	Atr
+5	ve	RV--6----------	AuxP
+6	Zlíně	NNIS6-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4NS1----------	Sb
+9	kontroluje	VB-S---3P-AA---	Atr
+10	jakost	NNFS4-----A----	Obj
+11	výrobků	NNIP2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	okresech	NNIP6-----A----	AtrAdv
+14	Zlín	NNIS1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	Uherské	AANS1----1A----	Atr
+17	Hradiště	NNNS1-----A----	Atr
+18	,	Z:-------------	AuxX
+19	Kroměříž	NNFS1-----A----	Atr
+20	,	Z:-------------	AuxX
+21	Hodonín	NNIS1-----A----	Atr
+22	a	J^-------------	Coord
+23	Břeclav	NNFS1-----A----	Atr
+24	už	Db-------------	Adv
+25	za	RR--4----------	AuxP
+26	"	Z:-------------	AuxG
+27	vodovou	AAFS4----1A----	Atr
+28	"	Z:-------------	AuxG
+29	zmrzlinu	NNFS4-----A----	Obj
+30	uložila	VpQW---XR-AA---	Pred
+31	několik	Ca--4----------	Adv
+32	pokut	NNFP2-----A----	Obj
+33	od	RR--2----------	AuxP
+34	tisíce	NNIS2-----A----	ExD
+35	do	RR--2----------	AuxP
+36	pěti	Cn-P2----------	Atr
+37	tisíc	ClXS2----------	Atr
+38	korun	NNFP2-----A----	Atr
+39	.	Z:-------------	AuxK
+
+mf930713-095-p2s6
+1	Případy	NNIP1-----A----	Sb
+2	nadměrného	AANS2----1A----	Atr
+3	ředění	NNNS2-----A----	Atr
+4	nápojů	NNIP2-----A----	Atr
+5	vodou	NNFS7-----A----	Atr
+6	nebo	J^-------------	Coord
+7	ledem	NNIS7-----A----	Atr
+8	jsou	VB-P---3P-AA---	Pred
+9	spíše	Dg-------2A---1	Adv
+10	výjimečné	AAIP1----1A----	Pnom
+11	a	J^-------------	Coord
+12	zdaleka	Db-------------	ExD
+13	ne	TT-------------	ExD
+14	tak	Db-------------	Adv
+15	časté	AAIP1----1A----	ExD
+16	jako	J,-------------	AuxC
+17	ředění	NNNS1-----A----	ExD
+18	zmrzlin	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf930713-095-p2s7
+1	Inspekce	NNFS1-----A----	Sb
+2	také	Db-------------	Adv
+3	kontroluje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	zda	J,-------------	AuxC
+6	obchodníci	NNMP1-----A----	Sb
+7	neprodávají	VB-P---3P-NA---	Obj
+8	smetanové	AAIP4----1A----	Atr
+9	krémy	NNIP4-----A----	Obj
+10	,	Z:-------------	Apos
+11	například	Db-------------	AuxZ
+12	nanuky	NNIP4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	které	P4IP1----------	Sb
+15	rozmrzly	VpTP---XR-AA--1	Atr
+16	a	J^-------------	Coord
+17	byly	VpTP---XR-AA---	AuxV
+18	znovu	Db-------------	Adv
+19	zmrazeny	VsTP---XX-AP---	Atr
+20	.	Z:-------------	AuxK
+
+mf930713-095-p2s8
+1	Při	RR--6----------	AuxP
+2	opakovaném	AANS6----1A----	Atr
+3	zmrazení	NNNS6-----A----	Adv
+4	krémů	NNIP2-----A----	Atr
+5	totiž	Db-------------	AuxY
+6	krém	NNIS1-----A----	Sb
+7	zhrudkovatí	VB-S---3P-AA---	Pred
+8	a	J^-------------	Coord
+9	jeho	PSXXXZS3-------	Atr
+10	kvalita	NNFS1-----A----	Sb
+11	se	P7-X4----------	AuxT
+12	snižuje	VB-S---3P-AA---	Pred
+13	.	Z:-------------	AuxK
+
+mf930713-095-p2s9
+1	Zatím	Db-------------	Adv
+2	jediný	AAIS4----1A----	Atr
+3	odhalený	AAIS4----1A----	Atr
+4	případ	NNIS4-----A----	Obj
+5	inspektorát	NNIS1-----A----	Sb
+6	pokutoval	VpYS---XR-AA---	Pred
+7	dvěma	ClXP7----------	Atr
+8	tisíci	NNIP7-----A----	Adv
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-095-p2s10
+1	V	RR--6----------	AuxP
+2	kontrolách	NNFP6-----A----	Adv
+3	kvality	NNFS2-----A----	Atr
+4	zmrzliny	NNFS2-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	zlínský	AAIS1----1A----	Atr
+7	inspektorát	NNIS1-----A----	Sb
+8	pokračovat	Vf--------A----	Pred
+9	po	RR--4----------	AuxP
+10	celou	AAFS4----1A----	Atr
+11	letní	AAFS4----1A----	Atr
+12	sezónu	NNFS4-----A----	Adv
+13	.	Z:-------------	AuxK
+

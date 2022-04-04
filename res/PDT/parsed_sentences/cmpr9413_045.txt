@@ -1,0 +1,401 @@
+cmpr9413-045-p2s1
+1	Test	NNIS1-----A----	ExD
+2	Profitu	NNIS2-----A----	Atr
+
+cmpr9413-045-p3s1
+1	Pravidlům	NNNP3-----A----	Obj
+2	tržního	AANS2----1A----	Atr
+3	hospodářství	NNNS2-----A----	Atr
+4	musí	VB-P---3P-AA--1	Pred
+5	být	Vf--------A----	AuxV
+6	podřízeny	VsTP---XX-AP---	Obj
+7	všechny	PLFP1----------	Atr
+8	funkce	NNFP1-----A----	Sb
+9	podniku	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	tedy	Db-------------	Apos
+12	i	J^-------------	AuxZ
+13	personální	AAFP1----1A----	Atr
+14	práce	NNFP1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+cmpr9413-045-p3s2
+1	Z	RR--2----------	AuxP
+2	ekonomického	AANS2----1A----	Atr
+3	hlediska	NNNS2-----A----	Adv
+4	musí	VB-S---3P-AA---	Pred
+5	být	Vf--------A----	Obj
+6	proto	J^-------------	Coord
+7	cílem	NNIS7-----A----	Adv
+8	podnikové	AAFS2----1A----	Atr
+9	personalistiky	NNFS2-----A----	Atr
+10	dosáhnout	Vf--------A----	Sb
+11	co	Db-------------	Adv
+12	nejvyšší	AAFS4----3A----	Atr
+13	účinnost	NNFS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	respektive	Db-------------	Apos
+16	výkonnost	NNFS4-----A----	Obj
+17	pracovníků	NNMP2-----A----	Atr
+18	podniku	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9413-045-p3s3
+1	Z	RR--2----------	AuxP
+2	toho	PDZS2----------	Obj
+3	vyplývají	VB-P---3P-AA---	Pred
+4	pro	RR--4----------	AuxP
+5	podnikovou	AAFS4----1A----	Atr
+6	personalistiku	NNFS4-----A----	Adv
+7	určité	AAIP1----1A----	Atr
+8	úkoly	NNIP1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9413-045-p4s1
+1	1	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Které	P4IP1----------	Atr
+4	úkoly	NNIP1-----A----	Pnom
+5	to	PDNS1----------	Sb
+6	jsou	VB-P---3P-AA---	Pred
+7	?	Z:-------------	AuxK
+
+cmpr9413-045-p5s1
+1	2	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Stále	Dg-------1A----	Adv
+4	více	Dg-------2A----	Adv
+5	se	P7-X4----------	AuxR
+6	ukazuje	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	spokojenost	NNFS1-----A----	Obj
+10	pracovníků	NNMP2-----A----	Atr
+11	na	RR--6----------	AuxP
+12	pracovišti	NNNS6-----A----	Atr
+13	ovlivňuje	VB-S---3P-AA---	Sb
+14	růst	NNIS4-----A----	Sb
+15	jejich	PSXXXXP3-------	Atr
+16	výkonů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9413-045-p5s3
+1	Co	PQ--1----------	Sb
+2	ovlivňuje	VB-S---3P-AA---	Pred
+3	rozhodujícím	AGIS7-----A----	Atr
+4	způsobem	NNIS7-----A----	Adv
+5	tuto	PDFS4----------	Atr
+6	spokojenost	NNFS4-----A----	Obj
+7	?	Z:-------------	AuxK
+
+cmpr9413-045-p6s1
+1	3	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Pro	RR--4----------	AuxP
+4	řízení	NNNS4-----A----	Adv
+5	a	J^-------------	Coord
+6	spolupráci	NNFS4-----A----	Adv
+7	je	VB-S---3P-AA---	Pred
+8	ovšem	J^-------------	AuxY
+9	také	Db-------------	Adv
+10	důležité	AANS1----1A----	Pnom
+11	umět	Vf--------A----	Sb
+12	se	RV--7----------	AuxP
+13	svými	P8XP7----------	Atr
+14	spolupracovníky	NNMP7-----A----	Obj
+15	vycházet	Vf--------A----	Obj
+16	.	Z:-------------	AuxK
+
+cmpr9413-045-p6s3
+1	K	RR--3----------	AuxP
+2	tomu	PDZS3----------	Obj
+3	slouží	VB-P---3P-AA---	Pred
+4	poznatky	NNIP1-----A----	Sb
+5	psychologie	NNFS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9413-045-p6s4
+1	Co	PQ--4----------	Obj
+2	rozumíte	VB-P---2P-AA---	Pred
+3	pod	RR--7----------	AuxP
+4	pojmem	NNIS7-----A----	Adv
+5	psychologie	NNFS1-----A----	Atr
+6	?	Z:-------------	AuxK
+
+cmpr9413-045-p7s1
+1	4	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Umět	Vf--------A----	Sb
+4	jednat	Vf--------A----	Obj
+5	,	Z:-------------	AuxX
+6	znamená	VB-S---3P-AA---	Pred
+7	poznat	Vf--------A----	Obj
+8	sebe	P6-X4----------	Obj
+9	i	J^-------------	Coord
+10	druhé	CrMP4----------	Obj
+11	a	J^-------------	Coord
+12	kultivovat	Vf--------A----	Obj
+13	své	P8NS4---------1	Atr
+14	jednání	NNNS4-----A----	Obj
+15	a	J^-------------	Coord
+16	vztah	NNIS4-----A----	Obj
+17	k	RR--3----------	AuxP
+18	nim	P5XP3--3-------	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9413-045-p7s3
+1	K	RR--3----------	AuxP
+2	tomu	PDZS3----------	Obj
+3	přispívá	VB-S---3P-AA---	Pred
+4	umět	Vf--------A----	Sb
+5	rozeznávat	Vf--------A----	Obj
+6	typy	NNIP4-----A----	Obj
+7	lidí	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9413-045-p7s4
+1	Které	P4YP4----------	Atr
+2	typy	NNIP4-----A----	Obj
+3	lidí	NNMP2-----A----	Atr
+4	znáte	VB-P---2P-AA---	Pred
+5	?	Z:-------------	AuxK
+
+cmpr9413-045-p8s1
+1	5	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Aby	J,-------------	AuxC
+4	vedoucí	NNMS1-----A----	Atr
+5	pracovník	NNMS1-----A----	Sb
+6	plně	Dg-------1A----	Adv
+7	pochopil	VpYS---XR-AA---	Adv
+8	a	J^-------------	Coord
+9	uměl	VpYS---XR-AA---	Adv
+10	se	RV--7----------	AuxP
+11	svými	P8XP7----------	Atr
+12	spolupracovníky	NNMP7-----A----	Obj
+13	jednat	Vf--------A----	Obj
+14	,	Z:-------------	AuxX
+15	musí	VB-S---3P-AA---	Pred
+16	dále	Db------------1	Adv
+17	respektovat	Vf--------A----	Obj
+18	to	PDNS4----------	Obj
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	stejně	Dg-------1A----	Adv
+22	tak	Db-------------	Adv
+23	jako	J,-------------	AuxY
+24	pro	RR--4----------	AuxP
+25	něho	P5ZS4--3------1	Adv
+26	,	Z:-------------	AuxX
+27	tak	Db-------------	Coord
+28	i	J^-------------	AuxZ
+29	pro	RR--4----------	AuxP
+30	jeho	PSXXXZS3-------	Atr
+31	spolupracovníky	NNMP4-----A----	Adv
+32	musí	VB-S---3P-AA---	Atr
+33	pracoviště	NNNS1-----A----	Sb
+34	naplňovat	Vf--------A----	Obj
+35	určité	AAFP4----1A----	Atr
+36	potřeby	NNFP4-----A----	Obj
+37	.	Z:-------------	AuxK
+
+cmpr9413-045-p8s3
+1	Které	P4FP1----------	ExD
+2	to	PDNS1----------	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	?	Z:-------------	AuxK
+
+cmpr9413-045-p9s1A
+1	Odpovědi	NNFP1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	otázky	NNFP4-----A----	Atr
+4	minulého	AAIS2----1A----	Atr
+5	testu	NNIS2-----A----	Atr
+6	:	Z:-------------	AuxK
+
+cmpr9413-045-p9s2
+1	1	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Marketingové	AANS1----1A----	Atr
+4	plánování	NNNS1-----A----	Sb
+5	má	VB-S---3P-AA---	Pred
+6	rozvinout	Vf--------A----	Obj
+7	cíle	NNIP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	strategii	NNFS4-----A----	Obj
+10	a	J^-------------	Coord
+11	opatření	NNNP4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	která	P4NP1----------	Sb
+14	budou	VB-P---3F-AA---	Atr
+15	účinná	AANP1----1A----	Pnom
+16	v	RR--6----------	AuxP
+17	plánovacím	AANS6----1A----	Atr
+18	období	NNNS6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+cmpr9413-045-p9s3
+1	Důležité	AANS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	tedy	Db-------------	AuxY
+4	sestavit	Vf--------A----	Sb
+5	takový	PDIS4----------	Atr
+6	výrobní	AAIS4----1A----	Atr
+7	,	Z:-------------	Coord
+8	příp	Db------------8	Adv
+9	.	Z:-------------	AuxG
+10	výrobkový	AAIS4----1A----	Atr
+11	program	NNIS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	bude	VB-S---3F-AA---	AuxV
+15	vyhovovat	Vf--------A----	Atr
+16	přáním	NNNP3-----A----	Obj
+17	a	J^-------------	Coord
+18	potřebám	NNFP3-----A----	Obj
+19	spotřebitelů	NNMP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9413-045-p9s4
+1	2	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Ano	TT-------------	ExD
+4	.	Z:-------------	AuxK
+
+cmpr9413-045-p9s6
+1	Marketingové	AANS1----1A----	Atr
+2	plánování	NNNS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	nejdůležitější	AAFS7----3A----	Atr
+5	součástí	NNFS7-----A----	Pnom
+6	podnikového	AANS2----1A----	Atr
+7	plánování	NNNS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9413-045-p9s7
+1	3	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Úkolem	NNIS7-----A----	Pnom
+4	rozpočtu	NNIS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	konkretizace	NNFS1-----A----	Sb
+7	marketingového	AAIS2----1A----	Atr
+8	plánu	NNIS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9413-045-p9s9
+1	4	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Marketingovou	AAFS7----1A----	Atr
+4	kontrolou	NNFS7-----A----	Adv
+5	zjistíme	VB-P---1P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	zda	J,-------------	AuxC
+8	:	Z:-------------	AuxG
+9	jsme	VB-P---1P-AA---	AuxV
+10	získali	VpMP---XR-AA---	Obj
+11	dostatek	NNIS4-----A----	Obj
+12	prvotních	AAFP2----1A----	Atr
+13	informací	NNFP2-----A----	Atr
+14	;	Z:-------------	AuxK
+
+cmpr9413-045-p9s11
+1	intepretace	NNFS1-----A----	Sb
+2	informačního	AAIS2----1A----	Atr
+3	materiálu	NNIS2-----A----	Atr
+4	byla	VpQW---XR-AA---	AuxV
+5	provedena	VsQW---XX-AP---	Pred
+6	dostatečně	Dg-------1A----	Adv
+7	pečlivě	Dg-------1A----	Adv
+8	;	Z:-------------	AuxK
+
+cmpr9413-045-p9s12
+1	stanovené	AAIP1----1A----	Atr
+2	cíle	NNIP1-----A----	Sb
+3	byly	VpTP---XR-AA---	Pred
+4	realistické	AAIP1----1A----	Pnom
+5	;	Z:-------------	AuxK
+
+cmpr9413-045-p9s13
+1	z	RR--2----------	AuxP
+2	alternativních	AAFP2----1A----	Atr
+3	strategií	NNFP2-----A----	Obj
+4	byla	VpQW---XR-AA---	AuxV
+5	vybrána	VsQW---XX-AP---	Pred
+6	nejlepší	AAFS1----3A----	Sb
+7	;	Z:-------------	AuxK
+
+cmpr9413-045-p9s14
+1	nevzniknou	VB-P---3P-NA---	Pred
+2	nepředvídané	AAFP1----1N----	Atr
+3	události	NNFP1-----A----	Sb
+4	.	Z:-------------	AuxK
+
+cmpr9413-045-p9s15
+1	5	C=-------------	AuxG
+2	.	Z:-------------	AuxG
+3	Marketingově	Dg-------1A----	Adv
+4	orientovaná	AAFS1----1A----	Atr
+5	organizace	NNFS1-----A----	Sb
+6	je	VB-S---3P-AA---	AuxV
+7	strukturována	VsQW---XX-AP---	Pred
+8	s	RR--7----------	AuxP
+9	ohledem	NNIS7-----A----	AuxP
+10	na	RR--4----------	AuxP
+11	potřeby	NNFP4-----A----	Adv
+12	trhu	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9413-045-p10s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	NKA	NNFXX-----A----	ExD
+4	-	Z:-------------	Apos
+5	Německá	AAFS1----1A----	Atr
+6	korespondenční	AAFS1----1A----	Atr
+7	akademie	NNFS1-----A----	ExD
+8	,	Z:-------------	AuxX
+9	Bertelsmann	NNMS1-----A----	Atr
+10	media	NNNP1-----A----	Atr
+11	,	Z:-------------	Apos
+12	s	NNFXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	r	NNNS7-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	o	AANS7----1A---8	Atr
+17	.	Z:-------------	AuxG
+18	,	Z:-------------	AuxX
+19	P	AAXXX----1A---8	Atr
+20	.	Z:-------------	AuxG
+21	O	NNIXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	Box	NNIXX-----A----	Atr
+24	,	Z:-------------	AuxX
+25	Václavské	AANS1----1A----	Atr
+26	nám	NNNS1-----A----	Atr
+27	.	Z:-------------	AuxG
+28	23	C=-------------	Atr
+29	,	Z:-------------	AuxX
+30	111	C=-------------	Atr
+31	21	C=-------------	Atr
+32	Praha	NNFS1-----A----	Atr
+33	1	C=-------------	Atr
+34	,	Z:-------------	AuxX
+35	tel	NNIXX-----A---8	Atr
+36	.	Z:-------------	AuxG
+37	:	Z:-------------	AuxG
+38	(	Z:-------------	AuxG
+39	02	C=-------------	Atr
+40	)	Z:-------------	AuxG
+41	2422	C=-------------	Atr
+42	8490	C=-------------	Atr
+43	,	Z:-------------	AuxX
+44	FAX	NNIS1-----A----	Atr
+45	:	Z:-------------	AuxG
+46	(	Z:-------------	AuxG
+47	02	C=-------------	Atr
+48	)	Z:-------------	AuxG
+49	2423	C=-------------	Atr
+50	0252	C=-------------	Atr
+51	.	Z:-------------	AuxK
+

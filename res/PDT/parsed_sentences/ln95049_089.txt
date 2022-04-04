@@ -1,0 +1,112 @@
+ln95049-089-p1s1
+1	Podvodník	NNMS1-----A----	Sb
+2	dluží	VB-S---3P-AA---	Pred
+3	za	RR--4----------	AuxP
+4	zboží	NNNS4-----A----	Obj
+5	pivovarům	NNIP3-----A----	Obj
+
+ln95049-089-p2s1A
+1	Znojmo	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	luč	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln95049-089-p2s1B
+1	Z	RR--2----------	AuxP
+2	trestného	AAIS2----1A----	Atr
+3	činu	NNIS2-----A----	Obj
+4	podvodu	NNIS2-----A----	Atr
+5	byl	VpYS---XR-AA---	AuxV
+6	obviněn	VsYS---XX-AP---	Pred
+7	41	C=-------------	Adv
+8	letý	AAMS1----1A----	Atr
+9	Miroslav	NNMS1-----A----	Atr
+10	J	NNMXX-----A---8	Sb
+11	.	Z:-------------	AuxG
+12	ze	RV--2----------	AuxP
+13	Znojma	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95049-089-p2s2
+1	Z	RR--2----------	AuxP
+2	policejních	AAFP2----1A----	Atr
+3	informací	NNFP2-----A----	Obj
+4	vyplynulo	VpNS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	obviněný	AAMS1----1A----	Sb
+8	od	RR--2----------	AuxP
+9	srpna	NNIS2-----A----	Adv
+10	do	RR--2----------	AuxP
+11	října	NNIS2-----A----	Adv
+12	1993	C=-------------	Atr
+13	odebral	VpYS---XR-AA---	Sb
+14	z	RR--2----------	AuxP
+15	pivovaru	NNIS2-----A----	Adv
+16	Regent	NNMS1-----A----	Atr
+17	v	RR--6----------	AuxP
+18	Třeboni	NNFS6-----A----	Atr
+19	zboží	NNNS4-----A----	Obj
+20	za	RR--4----------	AuxP
+21	2161000	C=-------------	Atr
+22	korun	NNFP2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	které	P4NS4----------	Obj
+25	však	J^-------------	AuxY
+26	nezaplatil	VpYS---XR-NA---	Atr
+27	.	Z:-------------	AuxK
+
+ln95049-089-p2s3
+1	V	RR--6----------	AuxP
+2	lednu	NNIS6-----A----	Adv
+3	a	J^-------------	Coord
+4	v	RR--6----------	AuxP
+5	únoru	NNIS6-----A----	Adv
+6	1994	C=-------------	Atr
+7	postupoval	VpYS---XR-AA---	Pred
+8	stejně	Dg-------1A----	Adv
+9	v	RR--6----------	AuxP
+10	pivovaru	NNIS6-----A----	Adv
+11	Velké	AAFP1----1A----	Atr
+12	Popovice	NNFP1-----A----	Atr
+13	(	Z:-------------	ExD
+14	546000	C=-------------	ExD
+15	korun	NNFP2-----A----	Atr
+16	)	Z:-------------	ExD
+17	a	J^-------------	Coord
+18	v	RR--6----------	AuxP
+19	květnu	NNIS6-----A----	ExD
+20	až	J^-------------	Coord
+21	červenci	NNIS6-----A----	ExD
+22	v	RR--6----------	AuxP
+23	podniku	NNIS6-----A----	ExD
+24	Rašelina	NNFS1-----A----	Atr
+25	Soběslav	NNFS1-----A----	Atr
+26	,	Z:-------------	AuxX
+27	odkud	Db-------------	Adv
+28	si	P7-X3----------	Adv
+29	odvezl	VpYS---XR-AA---	Atr
+30	zboží	NNNS4-----A----	Obj
+31	za	RR--4----------	AuxP
+32	95000	C=-------------	Atr
+33	korun	NNFP2-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln95049-089-p2s4
+1	Faktury	NNFP4-----A----	Obj
+2	podnikatel	NNMS1-----A----	Sb
+3	dodnes	Db-------------	Adv
+4	neuhradil	VpYS---XR-NA---	Pred
+5	a	J^-------------	Coord
+6	všechno	PLNS4----------	Atr
+7	zboží	NNNS4-----A----	Obj
+8	rozprodal	VpYS---XR-AA---	Pred
+9	ve	RV--6----------	AuxP
+10	svém	P8ZS6----------	Atr
+11	distribučním	AAIS6----1A----	Atr
+12	skladu	NNIS6-----A---1	Adv
+13	ve	RV--6----------	AuxP
+14	Znojmě	NNNS6-----A----	Atr
+15	.	Z:-------------	AuxK
+

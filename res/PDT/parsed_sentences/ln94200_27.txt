@@ -1,0 +1,229 @@
+ln94200-27-p1s1
+1	Dvě	ClHP1----------	Atr
+2	třetiny	CyFP1----------	ExD
+3	úvěrů	NNIP2-----A----	Atr
+4	AB	AAXXX----1A---8	Atr
+5	banky	NNFS2-----A----	Atr
+6	problémové	AAFP1----1A----	ExD
+
+ln94200-27-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94200-27-p2s1B
+1	Ačkoli	J,------------1	AuxC
+2	nové	AANS1----1A----	Atr
+3	vedení	NNNS1-----A----	Sb
+4	AB	AAXXX----1A---8	Atr
+5	banky	NNFS2-----A----	Atr
+6	odhaduje	VB-S---3P-AA---	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	dvě	ClHP1----------	Atr
+10	třetiny	CyFP1----------	Sb
+11	úvěrů	NNIP2-----A----	Atr
+12	jsou	VB-P---3P-AA---	Obj
+13	problémové	AAFP1----1A----	Pnom
+14	,	Z:-------------	AuxX
+15	chce	VB-S---3P-AA---	Pred
+16	k	RR--3----------	AuxP
+17	dlužníkům	NNMP3-----A----	Obj
+18	přistupovat	Vf--------A----	Obj
+19	individuálně	Dg-------1A----	Adv
+20	,	Z:-------------	AuxX
+21	aby	J,-------------	AuxC
+22	minimalizovalo	VpNS---XR-AA---	Adv
+23	vzniklé	AAFP4----1A----	Atr
+24	ztráty	NNFP4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+ln94200-27-p3s1
+1	Úvěrové	AANS4----1A----	Atr
+2	portfolio	NNNS4-----A----	Obj
+3	AB	AAXXX----1A---8	Atr
+4	banky	NNFS2-----A----	Atr
+5	již	Db-------------	Adv
+6	prověřovaly	VpTP---XR-AA---	Pred
+7	dva	ClYP1----------	Atr
+8	audity	NNIP1-----A----	Sb
+9	(	Z:-------------	Apos
+10	Price	AAXXX----1A----	Atr
+11	Waterhouse	NNIS1-----A----	Sb
+12	,	Z:-------------	Coord
+13	Ernst	NNMS1-----A----	Atr
+14	&	Z:-------------	Atr
+15	Young	NNMS1-----A----	Sb
+16	)	Z:-------------	AuxG
+17	a	J^-------------	Coord
+18	dvě	ClHP1----------	Atr
+19	další	AAFP1----1A----	Atr
+20	nezávislé	AAFP1----1N----	Atr
+21	firmy	NNFP1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln94200-27-p3s2
+1	Vlastní	AAFS1----1A----	Atr
+2	odborná	AAFS1----1A----	Atr
+3	skupina	NNFS1-----A----	Sb
+4	ČS	NNFXX-----A----	Atr
+5	a	J^-------------	Coord
+6	AB	AAXXX----1A---8	Atr
+7	banky	NNFS2-----A----	Atr
+8	ukončí	VB-S---3P-AA---	Pred
+9	svou	P8FS4---------1	Atr
+10	činnost	NNFS4-----A----	Obj
+11	počátkem	NNIS7-----A----	AuxP
+12	září	NNNS2-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln94200-27-p3s3
+1	Všechny	PLFP1----------	Atr
+2	prověrky	NNFP1-----A----	Sb
+3	zjistily	VpTP---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	řada	NNFS1-----A----	Sb
+7	dlužníků	NNMP2-----A----	Atr
+8	nesplácí	VB-S---3P-NA---	Obj
+9	nejen	TT-------------	AuxZ
+10	jistinu	NNFS4-----A----	Obj
+11	či	J^-------------	Coord
+12	úroky	NNIP4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	ani	J^-------------	AuxZ
+16	sankční	AAIP4----1A----	Atr
+17	úroky	NNIP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln94200-27-p3s4
+1	Mnoho	Ca--1----------	Sb
+2	velkých	AAMP2----1A----	Atr
+3	neplatičů	NNMP2-----A----	Atr
+4	se	P7-X4----------	AuxR
+5	přitom	Db-------------	Adv
+6	rekrutuje	VB-S---3P-AA---	Pred
+7	z	RR--2----------	AuxP
+8	pozdějších	AAMP2----2A----	Atr
+9	klientů	NNMP2-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94200-27-p3s5
+1	Nemálo	Ca--1----------	Sb
+2	případů	NNIP2-----A----	Atr
+3	má	VB-S---3P-AA---	Pred
+4	spekulační	AAIS4----1A----	Atr
+5	přídech	NNIS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+ln94200-27-p4s1
+1	Nové	AANS1----1A----	Atr
+2	vedení	NNNS1-----A----	Sb
+3	chce	VB-S---3P-AA---	Pred
+4	zlepšit	Vf--------A----	Obj
+5	platební	AAFS4----1A----	Atr
+6	morálku	NNFS4-----A----	Obj
+7	dlužníků	NNMP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	dohodnout	Vf--------A----	Obj
+10	nové	AAIP4----1A----	Atr
+11	,	Z:-------------	Coord
+12	reálné	AAIP4----1A----	Atr
+13	platební	AAIP4----1A----	Atr
+14	kalendáře	NNIP4-----A----	Obj
+15	,	Z:-------------	Coord
+16	provést	Vf--------A----	Obj
+17	restrukturalizaci	NNFS4-----A----	Obj
+18	úvěrů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94200-27-p4s2
+1	Proces	NNIS4-----A----	Obj
+2	nevidí	VB-S---3P-NA---	Pred
+3	jako	J,-------------	AuxY
+4	krátkodobou	AAFS4----1A----	Atr
+5	či	J^-------------	Coord
+6	střednědobou	AAFS4----1A----	Atr
+7	záležitost	NNFS4-----A----	Atv
+8	.	Z:-------------	AuxK
+
+ln94200-27-p4s3
+1	Zvolená	AAFS1----1A----	Atr
+2	cesta	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měla	VpQW---XR-AA---	Pred
+5	být	Vf--------A----	Obj
+6	o	RR--4----------	AuxP
+7	30	C=-------------	Adv
+8	procent	NNNP2-----A----	Atr
+9	méně	Dg-------2A----	Adv
+10	ztrátová	AAFS1----1A----	Pnom
+11	než	J,-------------	AuxC
+12	vyhlášení	NNNS1-----A----	ExD
+13	konkursu	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94200-27-p4s4
+1	Za	RR--4----------	AuxP
+2	nedílnou	AAFS4----1A----	Atr
+3	součást	NNFS4-----A----	Obj
+4	ozdravění	NNNS2-----A----	Atr
+5	považuje	VB-S---3P-AA---	Pred
+6	oživení	NNNS4-----A----	Obj
+7	vnitřního	AAIS2----1A----	Atr
+8	chodu	NNIS2-----A----	Atr
+9	banky	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	jenž	PJYS1----------	Sb
+12	několik	Ca--4----------	Adv
+13	měsíců	NNIP2-----A----	Atr
+14	erodoval	VpYS---XR-AA---	Atr
+15	.	Z:-------------	AuxK
+
+ln94200-27-p4s5
+1	To	PDNS1----------	Sb
+2	,	Z:-------------	AuxX
+3	spolu	Db-------------	AuxP
+4	s	RR--7----------	AuxP
+5	nabytím	NNNS7-----A----	Adv
+6	právní	AAFS2----1A----	Atr
+7	účinnosti	NNFS2-----A----	Atr
+8	majority	NNFS2-----A----	Atr
+9	ČS	NNFXX-----A----	Atr
+10	,	Z:-------------	AuxX
+11	limituje	VB-S---3P-AA---	Pred
+12	obnovu	NNFS4-----A----	Obj
+13	aktivních	AAIP2----1A----	Atr
+14	obchodů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94200-27-p4s6
+1	Možná	AAFS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	orientace	NNFS1-----A----	Sb
+4	na	RR--4----------	AuxP
+5	hypoteční	AANS4----1A----	Atr
+6	bankovnictví	NNNS4-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94200-27-p5s1
+1	Středeční	AAFS1----1A----	Atr
+2	valná	AAFS1----1A----	Atr
+3	hromada	NNFS1-----A----	Sb
+4	AB	AAXXX----1A---8	Atr
+5	banky	NNFS2-----A----	Atr
+6	rozhodla	VpQW---XR-AA--1	Pred
+7	o	RR--6----------	AuxP
+8	snížení	NNNS6-----A----	Obj
+9	podílu	NNIS2-----A----	Atr
+10	dosavadních	AAMP2----1A----	Atr
+11	vlastníků	NNMP2-----A----	Atr
+12	a	J^-------------	Coord
+13	o	RR--6----------	AuxP
+14	vstupu	NNIS6-----A----	Obj
+15	ČS	NNFXX-----A----	Atr
+16	jako	J,-------------	AuxY
+17	majoritního	AAMS2----1A----	Atr
+18	vlastníka	NNMS2-----A----	Atv
+19	.	Z:-------------	AuxK
+

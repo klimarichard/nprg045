@@ -1,0 +1,815 @@
+ln94211-5-p1s1
+1	Sedmdesátá	CrNP1----------	Atr
+2	léta	NNNP1-----A---2	ExD
+3	:	Z:-------------	Coord
+4	z	RR--2----------	AuxP
+5	garáže	NNFS2-----A----	ExD
+6	na	RR--4----------	AuxP
+7	Wall	AAXXX----1A----	Atr
+8	Street	NNFXX-----A----	ExD
+
+ln94211-5-p2s1A
+1	Z	RR--2----------	AuxP
+2	historie	NNFS2-----A----	ExD
+3	výpočetní	AAFS2----1A----	Atr
+4	techniky	NNFS2-----A----	Atr
+5	(	Z:-------------	ExD
+6	3	C=-------------	ExD
+7	)	Z:-------------	ExD
+
+ln94211-5-p2s1B
+1	Petr	NNMS1-----A----	Atr
+2	Koubský	NNMS1-----A----	ExD
+
+ln94211-5-p2s1C
+1	Zájem	NNIS1-----A----	Sb
+2	o	RR--4----------	AuxP
+3	počítače	NNIP4-----A----	Atr
+4	začal	VpYS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	Americe	NNFS6-----A----	Adv
+7	prudce	Dg-------1A----	Adv
+8	růst	Vf--------A----	Obj
+9	od	RR--2----------	AuxP
+10	poloviny	NNFS2-----A----	Adv
+11	60	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	let	NNNP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94211-5-p2s2
+1	Trh	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	dožadoval	VpYS---XR-AA---	Pred
+4	počítače	NNIS2-----A----	Obj
+5	pro	RR--4----------	AuxP
+6	jednoho	ClMS4----------	Atr
+7	člověka	NNMS4-----A----	Atr
+8	-	Z:-------------	Apos
+9	zařízení	NNNS2-----A----	Obj
+10	tak	Db-------------	Adv
+11	levného	AANS2----1A----	Atr
+12	a	J^-------------	Coord
+13	jednoduchého	AANS2----1A----	Atr
+14	,	Z:-------------	AuxX
+15	aby	J,-------------	AuxC
+16	si	P7-X3----------	Adv
+17	jej	PPZS4--3------2	Obj
+18	mohl	VpYS---XR-AA---	Adv
+19	pořídit	Vf--------A----	Obj
+20	a	J^-------------	Coord
+21	provozovat	Vf--------A----	Obj
+22	jednotlivec	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln94211-5-p2s3
+1	Rozhodujícím	AGIS7-----A----	Atr
+2	faktorem	NNIS7-----A----	Pnom
+3	byl	VpYS---XR-AA---	Pred
+4	vývoj	NNIS1-----A----	Sb
+5	integrovaných	AAIP2----1A----	Atr
+6	obvodů	NNIP2-----A----	Atr
+7	(	Z:-------------	Apos
+8	čipů	NNIP2-----A----	Atr
+9	)	Z:-------------	AuxG
+10	.	Z:-------------	AuxK
+
+ln94211-5-p2s4
+1	Kalifornská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	Intel	NNIS1-----A----	Atr
+4	dosáhla	VpQW---XR-AA---	Pred
+5	jako	J,-------------	AuxY
+6	první	CrFS1----------	Atv
+7	hustoty	NNFS2-----A----	Obj
+8	integrace	NNFS2-----A----	Atr
+9	1000	C=-------------	Atr
+10	tranzistorů	NNIP2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	čip	NNIS4-----A----	Atr
+13	,	Z:-------------	AuxX
+14	nezbytné	AAFS2----1N----	Atr
+15	k	RR--3----------	AuxP
+16	sestavení	NNNS3-----A----	Adv
+17	tzv	AAXXX----1A---8	Atr
+18	.	Z:-------------	AuxG
+19	mikroprocesoru	NNIS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	tedy	Db-------------	Apos
+22	úplné	AAFS2----1A----	Atr
+23	řídicí	AAFS2----1A----	Atr
+24	jednotky	NNFS2-----A----	Atr
+25	počítače	NNIS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94211-5-p2s5
+1	Stalo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	tak	Db-------------	Adv
+4	roku	NNIS2-----A---1	Adv
+5	1971	C=-------------	Atr
+6	.	Z:-------------	AuxK
+
+ln94211-5-p3s1
+1	Kalifornské	AANS1----1A----	Atr
+2	městečko	NNNS1-----A----	Sb
+3	Cupertino	NNNS1-----A----	Atr
+4	leží	VB-S---3P-AA---	Pred
+5	zhruba	Db-------------	AuxZ
+6	uprostřed	Db-------------	AuxP
+7	oblasti	NNFS2-----A----	Adv
+8	,	Z:-------------	AuxX
+9	které	P4FS3----------	Obj
+10	se	P7-X4----------	AuxR
+11	díky	RR--3----------	AuxP
+12	neobyčejně	Dg-------1N----	Adv
+13	vysoké	AAFS3----1A----	Atr
+14	koncentraci	NNFS3-----A----	Adv
+15	počítačových	AAFP2----1A----	Atr
+16	a	J^-------------	Coord
+17	elektronických	AAFP2----1A----	Atr
+18	firem	NNFP2-----A----	Atr
+19	začalo	VpNS---XR-AA---	Atr
+20	kolem	RR--2----------	AuxP
+21	roku	NNIS2-----A---1	Adv
+22	1970	C=-------------	Atr
+23	říkat	Vf--------A----	Sb
+24	Silicon	AAXXX----1A----	Atr
+25	Valley	NNNXX-----A----	Adv
+26	-	Z:-------------	Apos
+27	Křemíkové	AANS1----1A----	Atr
+28	údolí	NNNS1-----A----	Adv
+29	.	Z:-------------	AuxK
+
+ln94211-5-p3s2
+1	Roku	NNIS2-----A---1	Adv
+2	1976	C=-------------	Atr
+3	se	P7-X4----------	AuxT
+4	v	RR--6----------	AuxP
+5	Cupertinu	NNNS6-----A----	Adv
+6	sešli	VpMP---XR-AA---	Pred
+7	dva	ClYP1----------	Atr
+8	známí	NNMP1-----A----	Sb
+9	z	RR--2----------	AuxP
+10	dětských	AANP2----1A----	Atr
+11	let	NNNP2-----A----	Atr
+12	:	Z:-------------	Apos
+13	šestadvacetiletý	AAMS1----1A----	Atr
+14	Steve	NNMS1-----A----	Atr
+15	Wozniak	NNMS1-----A----	Sb
+16	a	J^-------------	Coord
+17	o	RR--4----------	AuxP
+18	pět	Cn-S4----------	Adv
+19	let	NNNP2-----A----	Atr
+20	mladší	AAMS1----2A----	Atr
+21	Steve	NNMS1-----A----	Atr
+22	Jobs	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln94211-5-p3s3
+1	Oba	ClYP4----------	Obj
+2	spojovalo	VpNS---XR-AA---	Pred
+3	bezmezné	AANS1----1A----	Atr
+4	nadšení	NNNS1-----A----	Sb
+5	pro	RR--4----------	AuxP
+6	počítače	NNIP4-----A----	Atr
+7	a	J^-------------	Coord
+8	touha	NNFS1-----A----	Sb
+9	vyrobit	Vf--------A----	Atr
+10	stroj	NNIS4-----A----	Obj
+11	svých	P8XP2----------	Atr
+12	snů	NNIP2-----A----	Atr
+13	-	Z:-------------	Apos
+14	opravdový	AAIS4----1A----	Atr
+15	osobní	AAIS4----1A----	Atr
+16	počítač	NNIS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln94211-5-p4s1
+1	Začínali	VpMP---XR-AA---	Pred
+2	s	RR--7----------	AuxP
+3	kapitálem	NNIS7-----A----	Adv
+4	1300	C=-------------	Atr
+5	dolarů	NNIP2-----A----	Atr
+6	:	Z:-------------	Coord
+7	Jobs	NNMS1-----A----	Sb
+8	prodal	VpYS---XR-AA---	Pred
+9	ojetou	AAFS4----1A----	Atr
+10	dodávku	NNFS4-----A----	Obj
+11	a	J^-------------	Coord
+12	Wozniak	NNMS1-----A----	ExD
+13	programovatelnou	AAFS4----1A----	Atr
+14	kalkulačku	NNFS4-----A----	ExD
+15	.	Z:-------------	AuxK
+
+ln94211-5-p4s2
+1	První	CrIP4----------	Atr
+2	počítače	NNIP4-----A----	Obj
+3	montovali	VpMP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	ložnici	NNFS6-----A----	Adv
+6	Jobsovy	AUFS2M---------	Atr
+7	sestry	NNFS2-----A----	Atr
+8	;	Z:-------------	AuxK
+
+ln94211-5-p4s3
+1	pan	NNMS1-----A----	Atr
+2	Jobs	NNMS1-----A----	Sb
+3	starší	AAMS1----2A----	Atr
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	se	P7-X4----------	AuxT
+7	na	RR--4----------	AuxP
+8	to	PDNS4----------	Adv
+9	zřejmě	Dg-------1A----	AuxY
+10	už	Db-------------	Adv
+11	nemohl	VpYS---XR-NA---	Atr
+12	dívat	Vf--------A----	Obj
+13	,	Z:-------------	AuxX
+14	jim	PPXP3--3-------	Obj
+15	posléze	Db-------------	Adv
+16	uvolnil	VpYS---XR-AA---	Pred
+17	garáž	NNFS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln94211-5-p5s1
+1	Oba	ClYP1----------	Atr
+2	kluci	NNMP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	mu	PHZS3--3-------	Obj
+5	odvděčili	VpMP---XR-AA---	Pred
+6	tím	PDZS7----------	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	z	RR--2----------	AuxP
+10	ní	P5FS2--3-------	Obj
+11	udělali	VpMP---XR-AA---	Atr
+12	tu	PDFS4----------	Atr
+13	nejslavnější	AAFS4----3A----	Atr
+14	garáž	NNFS4-----A----	Obj
+15	v	RR--6----------	AuxP
+16	dějinách	NNFP6-----A----	Adv
+17	počítačového	AAIS2----1A----	Atr
+18	průmyslu	NNIS2-----A----	Atr
+19	;	Z:-------------	AuxK
+
+ln94211-5-p5s2
+1	postavili	VpMP---XR-AA---	Pred
+2	v	RR--6----------	AuxP
+3	ní	P5FS6--3-------	Adv
+4	prvních	CrIP2----------	Atr
+5	padesát	Cn-S4----------	Obj
+6	kusů	NNIP2-----A----	Atr
+7	počítače	NNIS2-----A----	Atr
+8	Apple	NNIS1-----A----	Atr
+9	I	C}-------------	Atr
+10	.	Z:-------------	AuxK
+
+ln94211-5-p5s3
+1	(	Z:-------------	AuxG
+2	Název	NNIS4-----A----	Obj
+3	Apple	NNIS1-----A----	Atr
+4	,	Z:-------------	Apos
+5	jablko	NNNS1-----A----	Atr
+6	,	Z:-------------	AuxX
+7	prosadil	VpYS---XR-AA---	Pred
+8	Jobs	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	se	P7-X4----------	AuxT
+12	právě	Db-------------	Adv
+13	vrátil	VpYS---XR-AA---	Atr
+14	z	RR--2----------	AuxP
+15	Indie	NNFS2-----A----	Adv
+16	a	J^-------------	Coord
+17	ještě	Db-------------	Adv
+18	byl	VpYS---XR-AA---	Atr
+19	pod	RR--7----------	AuxP
+20	vlivem	NNIS7-----A----	Adv
+21	filozofie	NNFS2-----A----	Atr
+22	zenu	NNIS2-----A----	Atr
+23	;	Z:-------------	AuxK
+
+ln94211-5-p5s4
+1	jablko	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	symbol	NNIS1-----A----	Pnom
+4	dokonalosti	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	kromě	RR--2----------	AuxP
+7	toho	PDZS2----------	Adv
+8	,	Z:-------------	AuxX
+9	jak	Db-------------	Adv
+10	dodával	VpYS---XR-AA---	Pred
+11	Wozniak	NNMS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	nás	PP-P4--1-------	Obj
+14	nic	PW--1----------	Sb
+15	lepšího	AANS2----2A----	Atr
+16	stejně	Dg-------1A----	Adv
+17	nenapadlo	VpNS---XR-NA--1	Pred
+18	.	Z:-------------	AuxK
+19	)	Z:-------------	AuxG
+
+ln94211-5-p5s5
+1	Společnost	NNFS1-----A----	Sb
+2	Apple	AAXXX----1A----	Atr
+3	Computer	NNIXX-----A----	Atr
+4	rychle	Dg-------1A----	Adv
+5	vyrostla	VpQW---XR-AA---	Pred
+6	z	RR--2----------	AuxP
+7	Jobsovic	AUXXXM--------6	Atr
+8	garáže	NNFS2-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94211-5-p5s6
+1	I	J^-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	Silicon	AAXXX----1A----	Atr
+4	Valley	NNNXX-----A----	Adv
+5	,	Z:-------------	AuxX
+6	kde	Db-------------	Adv
+7	v	RR--6----------	AuxP
+8	té	PDFS6----------	Atr
+9	době	NNFS6-----A----	Adv
+10	byl	VpYS---XR-AA---	Atr
+11	úspěch	NNIS1-----A----	Sb
+12	téměř	Db-------------	AuxZ
+13	pravidlem	NNNS7-----A----	Pnom
+14	,	Z:-------------	AuxX
+15	byl	VpYS---XR-AA---	Pred
+16	její	PSZS1FS3-------	Atr
+17	nástup	NNIS1-----A----	Sb
+18	jevem	NNIS7-----A----	Pnom
+19	naprosto	Db-------------	Adv
+20	mimořádným	AAIS7----1A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94211-5-p5s7
+1	Model	NNIS1-----A----	Sb
+2	Apple	NNIS1-----A----	Atr
+3	II	C}-------------	Atr
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	přišel	VpYS---XR-AA---	Atr
+7	na	RR--4----------	AuxP
+8	trh	NNIS4-----A----	Adv
+9	roku	NNIS2-----A---1	Adv
+10	1977	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	byl	VpYS---XR-AA---	Pred
+13	pro	RR--4----------	AuxP
+14	počítačový	AAIS4----1A----	Atr
+15	průmysl	NNIS4-----A----	Adv
+16	tím	PDZS7----------	Pnom
+17	,	Z:-------------	ExD
+18	čím	PQ--7----------	ExD
+19	Ford	NNIS1-----A----	ExD
+20	Model	NNIS1-----A----	Atr
+21	T	NNNXX-----A----	Atr
+22	pro	RR--4----------	AuxP
+23	průmysl	NNIS4-----A----	ExD
+24	automobilový	AAIS4----1A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94211-5-p5s8
+1	Zaplavil	VpYS---XR-AA---	Pred
+2	Ameriku	NNFS4-----A----	Obj
+3	a	J^-------------	Coord
+4	úspěšně	Dg-------1A----	Adv
+5	vtrhl	VpYS---XR-AA---	Pred
+6	do	RR--2----------	AuxP
+7	Evropy	NNFS2-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln94211-5-p5s9
+1	První	CrIS1----------	Atr
+2	skutečně	Dg-------1A----	Adv
+3	osobní	AAIS1----1A----	Atr
+4	počítač	NNIS1-----A----	Sb
+5	našel	VpYS---XR-AA---	Pred
+6	brzy	Dg-------1A----	Adv
+7	řadu	NNFS4-----A----	Obj
+8	následovníků	NNMP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	modelech	NNIP6-----A----	Adv
+11	jiných	AAMP2----1A----	Atr
+12	výrobců	NNMP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94211-5-p6s1
+1	Možnosti	NNFP1-----A----	Sb
+2	nejstarších	AAIP2----3A----	Atr
+3	mikropočítačů	NNIP2-----A----	Atr
+4	však	J^-------------	Coord
+5	byly	VpTP---XR-AA---	AuxV
+6	limitovány	VsTP---XX-AP---	Pred
+7	zejména	Db-------------	AuxZ
+8	použitým	AAIS7----1A----	Atr
+9	procesorem	NNIS7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94211-5-p6s2
+1	Intel	NNIS1-----A----	Sb
+2	roku	NNIS2-----A---1	Adv
+3	1978	C=-------------	Atr
+4	vyrobil	VpYS---XR-AA---	Pred
+5	první	CrIP4----------	Atr
+6	šestnáctibitové	AAIP4----1A----	Atr
+7	mikroprocesory	NNIP4-----A----	Obj
+8	,	Z:-------------	Apos
+9	modely	NNIP4-----A----	Obj
+10	8086	C=-------------	Atr
+11	a	J^-------------	Coord
+12	(	Z:-------------	AuxG
+13	o	RR--4----------	AuxP
+14	rok	NNIS4-----A----	Adv
+15	později	Dg-------2A----	ExD
+16	)	Z:-------------	AuxG
+17	8088	C=-------------	ExD
+18	.	Z:-------------	AuxK
+
+ln94211-5-p6s3
+1	Jejich	PSXXXXP3-------	Atr
+2	rozsáhlé	AAFP1----1A----	Atr
+3	možnosti	NNFP1-----A----	Sb
+4	na	RR--6----------	AuxP
+5	jedné	ClFS6----------	Atr
+6	straně	NNFS6-----A----	Atr
+7	a	J^-------------	Coord
+8	stále	Db-------------	Adv
+9	zřetelnější	AAFP1----2A----	Atr
+10	obrovské	AAFP1----1A----	Atr
+11	perspektivy	NNFP1-----A----	Sb
+12	trhu	NNIS2-----A----	Atr
+13	osobních	AAIP2----1A----	Atr
+14	počítačů	NNIP2-----A----	Atr
+15	na	RR--6----------	AuxP
+16	straně	NNFS6-----A----	Atr
+17	druhé	CrFS6----------	Atr
+18	se	P7-X4----------	AuxT
+19	staly	VpTP---XR-AA---	Pred
+20	rozhodujícím	AGIS7-----A----	Atr
+21	impulsem	NNIS7-----A----	Obj
+22	pro	RR--4----------	AuxP
+23	nejvýznamnější	AAFS4----3A----	Atr
+24	počítačovou	AAFS4----1A----	Atr
+25	firmu	NNFS4-----A----	Atr
+26	vůbec	Db-------------	Adv
+27	-	Z:-------------	Apos
+28	pro	RR--4----------	AuxP
+29	IBM	NNFXX-----A---8	Atr
+30	.	Z:-------------	AuxK
+
+ln94211-5-p6s4
+1	Roku	NNIS2-----A---1	Adv
+2	1981	C=-------------	Atr
+3	předvedla	VpQW---XR-AA---	Pred
+4	světu	NNIS3-----A----	Obj
+5	svůj	P8IS4----------	Atr
+6	první	CrIS4----------	Atr
+7	osobní	AAIS4----1A----	Atr
+8	počítač	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	nazvaný	AAIS4----1A----	Atr
+11	prostě	Dg-------1A----	Adv
+12	IBM	NNFXX-----A---8	Atr
+13	PC	NNNXX-----A---8	Obj
+14	(	Z:-------------	Apos
+15	Personal	AAXXX----1A----	Atr
+16	Computer	NNIXX-----A----	Obj
+17	)	Z:-------------	AuxG
+18	.	Z:-------------	AuxK
+
+ln94211-5-p6s5
+1	Tak	Db-------------	Adv
+2	začala	VpQW---XR-AA---	Pred
+3	doba	NNFS1-----A----	Sb
+4	pécéček	NNNP2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+ln94211-5-p7s1
+1	IBM	NNFXX-----A---8	Sb
+2	se	P7-X4----------	AuxT
+3	od	RR--2----------	AuxP
+4	samého	PLZS2----------	Atr
+5	začátku	NNIS2-----A----	Adv
+6	orientovala	VpQW---XR-AA---	Pred
+7	na	RR--4----------	AuxP
+8	profesionálního	AAMS4----1A----	Atr
+9	uživatele	NNMS4-----A----	Obj
+10	,	Z:-------------	Coord
+11	čemuž	PE--3----------	Obj
+12	odpovídal	VpYS---XR-AA---	Pred
+13	jak	J,-------------	AuxY
+14	výkon	NNIS1-----A----	Sb
+15	IBM	NNFXX-----A---8	Atr
+16	PC	NNNXX-----A---8	Atr
+17	,	Z:-------------	AuxX
+18	tak	J^-------------	Coord
+19	způsob	NNIS1-----A----	Sb
+20	jeho	PSXXXZS3-------	Atr
+21	prodeje	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94211-5-p7s2
+1	Počítač	NNIS1-----A----	Sb
+2	do	RR--2----------	AuxP
+3	kanceláře	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	ukázal	VpYS---XR-AA---	Pred
+6	být	Vf--------A----	Obj
+7	obchodně	Dg-------1A----	Adv
+8	úspěšnější	AAIS1----2A----	Pnom
+9	než	J,-------------	AuxC
+10	počítač	NNIS1-----A----	ExD
+11	domů	Db-------------	Atr
+12	,	Z:-------------	AuxX
+13	jak	Db-------------	Adv
+14	si	P7-X3----------	AuxT
+15	využití	NNNS4-----A----	Obj
+16	svých	P8XP2----------	Atr
+17	strojů	NNIP2-----A----	Atr
+18	představovali	VpMP---XR-AA---	Pred
+19	u	RR--2----------	AuxP
+20	Apple	NNIXX-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln94211-5-p7s3
+1	IBM	NNFXX-----A---8	Atr
+2	PC	NNNXX-----A---8	Sb
+3	zaznamenal	VpYS---XR-AA---	Pred
+4	drtivý	AAIS4----1A----	Atr
+5	úspěch	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	a	J^-------------	Coord
+8	rychle	Dg-------1A----	Adv
+9	po	RR--6----------	AuxP
+10	něm	P5ZS6--3-------	Adv
+11	následovaly	VpTP---XR-AA---	Pred
+12	zdokonalené	AAIP1----1A----	Atr
+13	modely	NNIP1-----A----	Sb
+14	PC	NNNXX-----A---8	Atr
+15	/	Z:-------------	AuxG
+16	XT	NNNXX-----A---8	Atr
+17	(	Z:-------------	ExD
+18	1983	C=-------------	ExD
+19	)	Z:-------------	ExD
+20	a	J^-------------	Coord
+21	PC	NNNXX-----A---8	Atr
+22	/	Z:-------------	AuxG
+23	AT	NNNXX-----A---8	Atr
+24	(	Z:-------------	ExD
+25	1984	C=-------------	ExD
+26	)	Z:-------------	ExD
+27	.	Z:-------------	AuxK
+
+ln94211-5-p7s4
+1	IBM	NNFXX-----A---8	Atr
+2	PC	NNNXX-----A---8	Atr
+3	/	Z:-------------	AuxG
+4	AT	NNNXX-----A---8	Sb
+5	byl	VpYS---XR-AA---	AuxV
+6	postaven	VsYS---XX-AP---	Pred
+7	na	RR--6----------	AuxP
+8	další	AAFS6----1A----	Atr
+9	novince	NNFS6-----A----	Obj
+10	Intelu	NNIS2-----A----	Atr
+11	,	Z:-------------	Apos
+12	procesoru	NNIS6-----A----	Obj
+13	80286	C=-------------	Atr
+14	.	Z:-------------	AuxK
+
+ln94211-5-p7s5
+1	Téměř	Db-------------	AuxZ
+2	k	RR--3----------	AuxP
+3	nerozeznání	NNNS3-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	už	Db-------------	Adv
+6	podobal	VpYS---XR-AA---	Pred
+7	dnešním	AANP3----1A----	Atr
+8	pécéčkům	NNNP3-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94211-5-p8s1
+1	Z	RR--2----------	AuxP
+2	různých	AAIP2----1A----	Atr
+3	důvodů	NNIP2-----A----	Adv
+4	,	Z:-------------	AuxX
+5	mezi	RR--7----------	AuxP
+6	nimiž	P9XP7----------	Adv
+7	největší	AAFS4----3A----	Atr
+8	roli	NNFS4-----A----	Obj
+9	hrála	VpQW---XR-AA---	Atr
+10	zákonná	AANP1----1A----	Atr
+11	antimonopolní	AANP1----1A----	Atr
+12	omezení	NNNP1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	IBM	NNFXX-----A---8	Sb
+15	nikdy	Db-------------	Adv
+16	patentově	Dg-------1A----	Adv
+17	nechránila	VpQW---XR-NA---	Pred
+18	většinu	NNFS4-----A----	Obj
+19	konstrukčních	AAIP2----1A----	Atr
+20	prvků	NNIP2-----A----	Atr
+21	počítačů	NNIP2-----A----	Atr
+22	PC	NNNXX-----A---8	Atr
+23	.	Z:-------------	AuxK
+
+ln94211-5-p8s2
+1	Díky	RR--3----------	AuxP
+2	tomu	PDZS3----------	Adv
+3	mohli	VpMP---XR-AA---	Pred
+4	další	AAMP1----1A----	Atr
+5	výrobci	NNMP1-----A----	Sb
+6	přijít	Vf--------A----	Obj
+7	na	RR--4----------	AuxP
+8	trh	NNIS4-----A----	Adv
+9	s	RR--7----------	AuxP
+10	tzv	AAXXX----1A---8	Atr
+11	.	Z:-------------	AuxG
+12	kompatibilními	AAIP7----1A----	Atr
+13	počítači	NNIP7-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94211-5-p8s3
+1	Kompatibilní	AAIS1----1A----	Sb
+2	znamená	VB-S---3P-AA---	Pred
+3	tolik	Ca--4----------	Obj
+4	co	J,-------------	AuxC
+5	slučitelný	AAIS1----1A----	Obj
+6	;	Z:-------------	AuxK
+
+ln94211-5-p8s4
+1	počítač	NNIS1-----A----	Sb
+2	kompatibilní	AAIS1----1A----	Atr
+3	s	RR--7----------	AuxP
+4	IBM	NNFXX-----A---8	Obj
+5	se	P7-X4----------	AuxT
+6	musí	VB-S---3P-AA---	Pred
+7	chovat	Vf--------A----	Obj
+8	vždy	Db-------------	Adv
+9	a	J^-------------	Coord
+10	za	RR--2----------	AuxP
+11	všech	PLXP2----------	Atr
+12	okolností	NNFP2-----A----	Adv
+13	stejně	Dg-------1A----	Adv
+14	jako	J,-------------	AuxC
+15	originální	AAIS1----1A----	Atr
+16	výrobek	NNIS1-----A----	ExD
+17	.	Z:-------------	AuxK
+
+ln94211-5-p8s5
+1	Prakticky	Dg-------1A----	Adv
+2	vzato	VsNS---XX-AP---	Adv
+3	z	RR--2----------	AuxP
+4	toho	PDZS2----------	Obj
+5	plyne	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	všechny	PLIP1----------	Atr
+9	programy	NNIP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	které	P4IP1----------	Sb
+12	jsou	VB-P---3P-AA---	Atr
+13	určeny	VsTP---XX-AP---	Pnom
+14	pro	RR--4----------	AuxP
+15	IBM	NNFXX-----A---8	Atr
+16	PC	NNNXX-----A---8	Adv
+17	,	Z:-------------	AuxX
+18	musí	VB-P---3P-AA--1	Sb
+19	bezchybně	Dg-------1A----	Adv
+20	fungovat	Vf--------A----	Obj
+21	i	J^-------------	AuxZ
+22	na	RR--6----------	AuxP
+23	PC	NNNXX-----A---8	Adv
+24	jiných	AAMP2----1A----	Atr
+25	výrobců	NNMP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94211-5-p9s1
+1	První	CrFS7----------	Atv
+2	firmou	NNFS7-----A----	Pnom
+3	vůbec	Db-------------	Adv
+4	,	Z:-------------	AuxX
+5	která	P4FS1----------	Sb
+6	zahájila	VpQW---XR-AA---	Atr
+7	výrobu	NNFS4-----A----	Obj
+8	kompatibilních	AAIP2----1A----	Atr
+9	počítačů	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	byla	VpQW---XR-AA---	Pred
+12	společnost	NNFS1-----A----	Sb
+13	Compaq	NNIS1-----A----	Atr
+14	(	Z:-------------	ExD
+15	název	NNIS1-----A----	ExD
+16	odvozen	VsYS---XX-AP---	ExD
+17	od	RR--2----------	AuxP
+18	slov	NNNP2-----A----	Obj
+19	kompatibilita	NNFS1-----A----	Atr
+20	a	J^-------------	Coord
+21	kvalita	NNFS1-----A----	Atr
+22	)	Z:-------------	ExD
+23	.	Z:-------------	AuxK
+
+ln94211-5-p9s2
+1	Kapacita	NNFS1-----A----	Sb
+2	trhu	NNIS2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	ovšem	J^-------------	Coord
+5	ukázala	VpQW---XR-AA---	Pred
+6	být	Vf--------A----	Obj
+7	opravdu	Db-------------	Adv
+8	nesmírná	AAFS1----1A----	Pnom
+9	,	Z:-------------	AuxX
+10	takže	J,-------------	AuxC
+11	brzy	Dg-------1A----	Adv
+12	se	P7-X4----------	AuxR
+13	výrobci	NNMP1-----A----	Sb
+14	PC	NNNXX-----A---8	Atr
+15	počítali	VpMP---XR-AA---	Adv
+16	na	RR--4----------	AuxP
+17	stovky	NNFP4-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94211-5-p10s1
+1	Úspěch	NNIS1-----A----	Sb
+2	počítačů	NNIP2-----A----	Atr
+3	PC	NNNXX-----A---8	Atr
+4	postavil	VpYS---XR-AA---	Pred
+5	do	RR--2----------	AuxP
+6	úplně	Dg-------1A----	Adv
+7	nové	AAFS2----1A----	Atr
+8	situace	NNFS2-----A----	Adv
+9	i	J^-------------	AuxZ
+10	firmu	NNFS4-----A----	Obj
+11	Apple	AAXXX----1A----	Atr
+12	Computer	NNIXX-----A----	Atr
+13	-	Z:-------------	Apos
+14	jediného	AAMS4----1A----	Atr
+15	významného	AAMS4----1A----	Atr
+16	výrobce	NNMS4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	který	P4YS1----------	Sb
+19	nestál	VpYS---XR-NA---	Atr
+20	a	J^-------------	Coord
+21	nestojí	VB-S---3P-NA---	Atr
+22	na	RR--6----------	AuxP
+23	kompatibilní	AAFS6----1A----	Atr
+24	platformě	NNFS6-----A----	Adv
+25	.	Z:-------------	AuxK
+
+ln94211-5-p10s2
+1	Kolem	RR--2----------	AuxP
+2	roku	NNIS2-----A---1	Adv
+3	1990	C=-------------	Atr
+4	-	Z:-------------	AuxG
+5	smím	VB-S---1P-AA---	Adv
+6	-	Z:-------------	AuxG
+7	li	TT-------------	AuxC
+8	předběhnout	Vf--------A----	Obj
+9	událostem	NNFP3-----A----	Obj
+10	-	Z:-------------	AuxG
+11	se	P7-X4----------	AuxT
+12	poměr	NNIS1-----A----	Sb
+13	počtu	NNIS2-----A----	Atr
+14	prodaných	AAIP2----1A----	Atr
+15	počítačů	NNIP2-----A----	Atr
+16	PC	NNNXX-----A---8	Atr
+17	a	J^-------------	Coord
+18	Macintosh	NNIS1-----A----	Atr
+19	ustálil	VpYS---XR-AA---	Pred
+20	asi	TT-------------	AuxZ
+21	na	RR--6----------	AuxP
+22	85	C=-------------	Atr
+23	%	Z:-------------	Adv
+24	pro	RR--4----------	AuxP
+25	PC	NNNXX-----A---8	Atr
+26	a	J^-------------	Coord
+27	15	C=-------------	Atr
+28	%	Z:-------------	ExD
+29	pro	RR--4----------	AuxP
+30	Macintosh	NNIS4-----A----	ExD
+31	.	Z:-------------	AuxK
+
+ln94211-5-p10s3
+1	PC	NNNXX-----A---8	Sb
+2	je	VB-S---3P-AA---	Pred
+3	tedy	Db-------------	AuxY
+4	dnes	Db-------------	Adv
+5	bezesporu	Db-------------	Adv
+6	nejvýznamnější	AAFS7----3A----	Atr
+7	vývojovou	AAFS7----1A----	Atr
+8	větví	NNFS7-----A----	Pnom
+9	osobních	AAIP2----1A----	Atr
+10	počítačů	NNIP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	Apple	AAXXX----1A----	Atr
+13	Macintosh	NNIS1-----A----	ExD
+14	pak	Db-------------	ExD
+15	jedinou	AAFS7----1A----	Atr
+16	její	PSFSXFS3-------	Atr
+17	důležitou	AAFS7----1A----	Atr
+18	alternativou	NNFS7-----A----	ExD
+19	.	Z:-------------	AuxK
+

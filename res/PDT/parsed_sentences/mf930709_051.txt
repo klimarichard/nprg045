@@ -1,0 +1,176 @@
+mf930709-051-p1s1
+1	Nositel	NNMS1-----A----	Sb
+2	Čestné	AAFS2----1A----	Atr
+3	legie	NNFS2-----A----	Atr
+4	obdržel	VpYS---XR-AA---	Pred
+5	pozitivní	AANS4----1A----	Atr
+6	lustrační	AANS4----1A----	Atr
+7	osvědčení	NNNS4-----A----	Obj
+
+mf930709-051-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	spa	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	dap	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+mf930709-051-p2s1B
+1	Profesor	NNMS1-----A----	Atr
+2	architekt	NNMS1-----A----	Atr
+3	Josef	NNMS1-----A----	Atr
+4	Svoboda	NNMS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	29	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	června	NNIS2-----A----	Adv
+10	obdržel	VpYS---XR-AA---	Atr
+11	nejvyšší	AANS4----3A----	Atr
+12	francouzské	AANS4----1A----	Atr
+13	vyznamenání	NNNS4-----A----	Obj
+14	-	Z:-------------	Apos
+15	řád	NNIS4-----A----	Obj
+16	Čestné	AAFS2----1A----	Atr
+17	legie	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	je	VB-S---3P-AA---	Pred
+20	pozitivně	Dg-------1A----	Adv
+21	lustrován	VsYS---XX-AP---	Pnom
+22	.	Z:-------------	AuxK
+
+mf930709-051-p2s2
+1	Podle	RR--2----------	AuxP
+2	některých	PZXP2----------	Atr
+3	zdrojů	NNIP2-----A----	Adv
+4	byl	VpYS---XR-AA---	AuxV
+5	veden	VsYS---XX-AP---	Pred
+6	jako	J,-------------	AuxY
+7	agent	NNMS1-----A----	AtvV
+8	v	RR--6----------	AuxP
+9	kategorii	NNFS6-----A----	AtrAdv
+10	B	NNNXX-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-051-p3s1
+1	Ministr	NNMS1-----A----	Atr
+2	kultury	NNFS2-----A----	Atr
+3	Jindřich	NNMS1-----A----	Atr
+4	Kabát	NNMS1-----A----	Sb
+5	nám	PP-P3--1-------	Obj
+6	řekl	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	ho	PHZS4--3-------	Obj
+10	o	RR--6----------	AuxP
+11	této	PDFS6----------	Atr
+12	skutečnosti	NNFS6-----A----	Obj
+13	informoval	VpYS---XR-AA---	Obj
+14	sám	PLYS1----------	Atv
+15	Josef	NNMS1-----A----	Atr
+16	Svoboda	NNMS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	když	J,-------------	AuxC
+19	ministr	NNMS1-----A----	Sb
+20	zjišťoval	VpYS---XR-AA---	Adv
+21	jeho	PSXXXZS3-------	Atr
+22	způsobilost	NNFS4-----A----	Obj
+23	k	RR--3----------	AuxP
+24	výkonu	NNIS3-----A----	Atr
+25	ředitele	NNMS2-----A----	Atr
+26	Laterny	NNFS2-----A----	Atr
+27	magiky	NNFS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf930709-051-p4s1
+1	"	Z:-------------	AuxG
+2	Ministerstvo	NNNS4-----A----	Obj
+3	zahraničních	AAFP2----1A----	Atr
+4	věcí	NNFP2-----A----	Atr
+5	jsme	VB-P---1P-AA---	AuxV
+6	upozornili	VpMP---XR-AA---	Obj
+7	zhruba	Db-------------	AuxZ
+8	šest	Cn-S4----------	Adv
+9	týdnů	NNIP2-----A----	Atr
+10	před	RR--7----------	AuxP
+11	udělením	NNNS7-----A----	Atr
+12	řádu	NNIS2-----A----	Atr
+13	Čestné	AAFS2----1A----	Atr
+14	legie	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	nedostali	VpMP---XR-NA---	Obj
+17	jsme	VB-P---1P-AA---	AuxV
+18	však	J^-------------	Coord
+19	zpět	Db-------------	Adv
+20	žádné	PWNS4----------	Atr
+21	vyrozumění	NNNS4-----A----	Obj
+22	,	Z:-------------	AuxX
+23	"	Z:-------------	AuxG
+24	uvedl	VpYS---XR-AA---	Pred
+25	ministr	NNMS1-----A----	Atr
+26	Kabát	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+mf930709-051-p5s1
+1	Tisková	AAFS1----1A----	Atr
+2	mluvčí	NNFS1-----A----	Atr
+3	ministerstva	NNNS2-----A----	Atr
+4	zahraničí	NNNS2-----A----	Atr
+5	Lucie	NNFS1-----A----	Atr
+6	Pilipová	NNFS1-----A----	Sb
+7	nám	PP-P3--1-------	Obj
+8	sdělila	VpQW---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	zprávu	NNFS4-----A----	Obj
+12	obdrželi	VpMP---XR-AA---	Obj
+13	,	Z:-------------	AuxX
+14	ministerstvo	NNNS1-----A----	Sb
+15	zahraničí	NNNS2-----A----	Atr
+16	však	J^-------------	Coord
+17	nemá	VB-S---3P-NA---	Obj
+18	možnost	NNFS4-----A----	Obj
+19	ani	J^-------------	Coord
+20	právo	NNNS4-----A----	Obj
+21	doporučovat	Vf--------A----	Atr
+22	jinému	AAIS3----1A----	Atr
+23	státu	NNIS3-----A----	Obj
+24	,	Z:-------------	AuxX
+25	komu	PKM-3----------	Obj
+26	udělit	Vf--------A----	Obj
+27	či	J^-------------	Coord
+28	neudělit	Vf--------N----	Obj
+29	vyznamenání	NNNS4-----A----	Obj
+30	.	Z:-------------	AuxK
+
+mf930709-051-p5s2
+1	"	Z:-------------	AuxG
+2	Nemůžeme	VB-P---1P-NA---	Obj
+3	ovlivňovat	Vf--------A----	Obj
+4	jejich	PSXXXXP3-------	Atr
+5	rozhodnutí	NNNS4-----A----	Obj
+6	z	RR--2----------	AuxP
+7	jakýchkoli	PZXP2---------1	Atr
+8	důvodů	NNIP2-----A----	AtrAdv
+9	,	Z:-------------	AuxX
+10	ať	J,-------------	AuxY
+11	pravdivých	AAIP2----1A----	Atr
+12	,	Z:-------------	AuxX
+13	nebo	J^-------------	Coord
+14	nepravdivých	AAIP2----1N----	Atr
+15	,	Z:-------------	AuxX
+16	"	Z:-------------	AuxG
+17	řekla	VpQW---XR-AA---	Pred
+18	L	NNFXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	Pilipová	NNFS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+mf930709-051-p6s1
+1	Pokračování	NNNS1-----A----	ExD
+2	na	RR--6----------	AuxP
+3	str	NNFXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	3	C=-------------	Atr
+

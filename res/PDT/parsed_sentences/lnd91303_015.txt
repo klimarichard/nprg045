@@ -1,0 +1,134 @@
+lnd91303-015-p1s1
+1	F	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	NEUBAUER	NNMS1-----A----	ExD
+4	:	Z:-------------	AuxK
+
+lnd91303-015-p2s1A
+1	Smlouva	NNFS1-----A----	Sb
+2	nic	PW--4----------	Obj
+3	neřeší	VB-S---3P-NA---	Pred
+
+lnd91303-015-p2s1B
+1	BONN	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-015-p2s1C
+1	Německo	A2--------A----	Atr
+2	-	Z:-------------	Coord
+3	československá	AAFS1----1A----	Atr
+4	smlouva	NNFS1-----A----	Sb
+5	"	Z:-------------	AuxG
+6	v	RR--6----------	AuxP
+7	žádném	PWZS6----------	Atr
+8	případě	NNIS6-----A----	Adv
+9	neznamená	VB-S---3P-NA---	Obj
+10	konec	NNIS4-----A----	Obj
+11	sudetoněmeckého	AAIS2----1A----	Atr
+12	problému	NNIS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	jak	Db-------------	Adv
+15	se	P7-X4----------	AuxT
+16	mnozí	AAMP1----1A----	Atr
+17	krajané	NNMP1-----A----	Sb
+18	s	RR--7----------	AuxP
+19	neoprávněným	AAIS7----1N----	Atr
+20	pesimismem	NNIS7-----A----	Adv
+21	obávají	VB-P---3P-AA---	Pred
+22	"	Z:-------------	AuxG
+23	,	Z:-------------	AuxX
+24	zdůraznil	VpYS---XR-AA---	Pred
+25	předseda	NNMS1-----A----	Atr
+26	Sudetoněmeckého	AANS2----1A----	Atr
+27	krajanského	AANS2----1A----	Atr
+28	sdružení	NNNS2-----A----	Atr
+29	Franz	NNMS1-----A----	Atr
+30	Neubauer	NNMS1-----A----	Sb
+31	.	Z:-------------	AuxK
+
+lnd91303-015-p2s2
+1	V	RR--6----------	AuxP
+2	novoročním	AANS6----1A----	Atr
+3	provolání	NNNS6-----A----	Adv
+4	adresovaném	AANS6----1A----	Atr
+5	sudetským	AAMP3----1A----	Atr
+6	Němcům	NNMP3-----A----	Obj
+7	nejvyšší	AAMS1----3A----	Atr
+8	představitel	NNMS1-----A----	Sb
+9	landsmanšaftu	NNIS2-----A----	Atr
+10	konstatoval	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	dvoustranný	AAIS1----1A----	Atr
+14	dokument	NNIS1-----A----	Sb
+15	"	Z:-------------	AuxG
+16	sice	Db-------------	AuxY
+17	nic	PW--4----------	Obj
+18	neřeší	VB-S---3P-NA---	Obj
+19	,	Z:-------------	AuxX
+20	avšak	J^-------------	Coord
+21	cestu	NNFS4-----A----	Obj
+22	k	RR--3----------	AuxP
+23	nezbytným	AANP3----1N----	Atr
+24	řešením	NNNP3-----A----	Atr
+25	nezahrazuje	VB-S---3P-NA---	Obj
+26	"	Z:-------------	AuxG
+27	.	Z:-------------	AuxK
+
+lnd91303-015-p2s3
+1	Vlastní	AAIP1----1A----	Atr
+2	problémy	NNIP1-----A----	Sb
+3	sudetských	AAMP2----1A----	Atr
+4	Němců	NNMP2-----A----	Atr
+5	-	Z:-------------	Apos
+6	právo	NNNS1-----A----	Sb
+7	na	RR--4----------	AuxP
+8	vlast	NNFS4-----A----	Atr
+9	a	J^-------------	Coord
+10	na	RR--4----------	AuxP
+11	návrat	NNIS4-----A----	Atr
+12	-	Z:-------------	AuxG
+13	byly	VpTP---XR-AA---	AuxV
+14	postaveny	VsTP---XX-AP---	Obj
+15	mimo	RR--4----------	AuxP
+16	smlouvu	NNFS4-----A----	Adv
+17	a	J^-------------	Coord
+18	zůstávají	VB-P---3P-AA---	Obj
+19	tak	Db-------------	Adv
+20	nedořešené	AAIP1----1N----	AtvV
+21	,	Z:-------------	AuxX
+22	konstatoval	VpYS---XR-AA---	Pred
+23	Neubauer	NNMS1-----A----	Sb
+24	v	RR--6----------	AuxP
+25	provolání	NNNS6-----A----	Adv
+26	,	Z:-------------	AuxX
+27	jež	PJNS4----------	Obj
+28	otiskuje	VB-S---3P-AA---	Atr
+29	poslední	AANS1----1A----	Atr
+30	letošní	AANS1----1A----	Atr
+31	vydání	NNNS1-----A----	Sb
+32	týdeníku	NNIS2-----A----	Atr
+33	Sudetendeutsche	AAXXX----1A----	Atr
+34	Zeitung	NNFPX-----A----	Atr
+35	.	Z:-------------	AuxK
+
+lnd91303-015-p2s4
+1	Smlouva	NNFS1-----A----	Sb
+2	podle	RR--2----------	AuxP
+3	jeho	PSXXXZS3-------	Atr
+4	slov	NNNP2-----A----	Adv
+5	obsahuje	VB-S---3P-AA---	Pred
+6	také	Db-------------	AuxZ
+7	některé	PZYP4----------	Atr
+8	pozitivní	AAIP4----1A----	Atr
+9	detaily	NNIP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	avšak	J^-------------	Coord
+12	jako	J,-------------	AuxY
+13	celek	NNIS1-----A----	AtvV
+14	nemůže	VB-S---3P-NA---	Pred
+15	sudetské	AAMP4----1A----	Atr
+16	Němce	NNMP4-----A----	Obj
+17	přesvědčit	Vf--------A----	Obj
+18	.	Z:-------------	AuxK
+

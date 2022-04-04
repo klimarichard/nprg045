@@ -1,0 +1,292 @@
+ln95044-090-p1s1
+1	Další	AANP1----1A----	Atr
+2	obvinění	NNNP1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	kauze	NNFS6-----A----	Atr
+5	Marty	NNFS2-----A----	Atr
+6	Chadimové	NNFS2-----A----	Atr
+
+ln95044-090-p2s1A
+1	Soudní	AAFS1----1A----	Atr
+2	síň	NNFS1-----A----	ExD
+
+ln95044-090-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-090-p2s1C
+1	Kauzu	NNFS4-----A----	Obj
+2	Marty	NNFS2-----A----	Atr
+3	Chadimové	NNFS2-----A----	Atr
+4	začal	VpYS---XR-AA---	Pred
+5	včera	Db-------------	Adv
+6	znovu	Db-------------	Adv
+7	projednávat	Vf--------A----	Obj
+8	Městský	AAIS1----1A----	Atr
+9	soud	NNIS1-----A----	Sb
+10	v	RR--6----------	AuxP
+11	Praze	NNFS6-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95044-090-p2s2
+1	Hlavní	AANS1----1A----	Atr
+2	řízení	NNNS1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	opakuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	protože	J,-------------	AuxC
+7	jeden	ClYS1----------	Sb
+8	z	RR--2----------	AuxP
+9	přísedících	AGMP2-----A----	Atr
+10	nebyl	VpYS---XR-NA---	AuxV
+11	loni	Db------------1	Adv
+12	zvolen	VsYS---XX-AP---	Adv
+13	do	RR--2----------	AuxP
+14	své	P8FS2---------1	Atr
+15	funkce	NNFS2-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95044-090-p2s3
+1	Předseda	NNMS1-----A----	Atr
+2	senátu	NNIS2-----A----	Atr
+3	Michal	NNMS1-----A----	Atr
+4	Hodoušek	NNMS1-----A----	Sb
+5	oznámil	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	soud	NNIS1-----A----	Sb
+9	se	P7-X4----------	AuxT
+10	bude	VB-S---3F-AA---	AuxV
+11	mimo	RR--2----------	AuxP
+12	původní	AAFS2----1A----	Atr
+13	obžaloby	NNFS2-----A----	Adv
+14	zabývat	Vf--------A----	Obj
+15	ještě	Db-------------	AuxZ
+16	jedním	ClZS7----------	Atr
+17	podezřením	NNNS7-----A----	Obj
+18	z	RR--2----------	AuxP
+19	trestné	AAFS2----1A----	Atr
+20	činnosti	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95044-090-p2s4
+1	To	PDNS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	týká	VB-S---3P-AA---	Pred
+4	padělání	NNNS2-----A----	Obj
+5	pozemkové	AAFS2----1A----	Atr
+6	knihy	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	souvislosti	NNFS6-----A----	AuxP
+9	s	RR--7----------	AuxP
+10	vlastnictvím	NNNS7-----A----	Atr
+11	domu	NNIS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	Atr
+14	7	C=-------------	Atr
+15	v	RR--6----------	AuxP
+16	Čechově	AUFS6M---------	Atr
+17	ulici	NNFS6-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95044-090-p2s5
+1	Touto	PDFS7----------	Atr
+2	věcí	NNFS7-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	měl	VpYS---XR-AA---	Pred
+5	senát	NNIS1-----A----	Sb
+6	zabývat	Vf--------A----	Obj
+7	již	Db-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	listopadu	NNIS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	tehdy	Db-------------	Adv
+12	však	J^-------------	Coord
+13	M	NNFXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Chadimová	NNFS1-----A----	Sb
+16	onemocněla	VpQW---XR-AA---	Pred
+17	.	Z:-------------	AuxK
+
+ln95044-090-p2s6
+1	V	RR--6----------	AuxP
+2	pozemkových	AAFP6----1A----	Atr
+3	knihách	NNFP6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	u	RR--2----------	AuxP
+6	tohoto	PDZS2----------	Atr
+7	domu	NNIS2-----A----	Adv
+8	jako	J,-------------	AuxY
+9	vlastník	NNMS1-----A----	Atv
+10	zapsán	VsYS---XX-AP---	Pnom
+11	otec	NNMS1-----A----	Sb
+12	M	NNFXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	Chadimové	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95044-090-p3s1
+1	Státní	AAFS1----1A----	Atr
+2	zástupkyně	NNFS1-----A----	Sb
+3	přednesla	VpQW---XR-AA---	Pred
+4	žalobu	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	viní	VB-S---3P-AA---	Atr
+8	Chadimovou	NNFS4-----A----	Obj
+9	z	RR--2----------	AuxP
+10	padělání	NNNS2-----A----	Obj
+11	veřejných	AAFP2----1A----	Atr
+12	listin	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	z	RR--2----------	AuxP
+15	podvodu	NNIS2-----A----	Obj
+16	,	Z:-------------	AuxX
+17	jehož	PJZS2----------	Atr
+18	cílem	NNIS7-----A----	Pnom
+19	bylo	VpNS---XR-AA---	Atr
+20	restituovat	Vf--------A----	Sb
+21	nemovitosti	NNFP4-----A----	Obj
+22	na	RR--6----------	AuxP
+23	Hradčanech	NNIP6-----A----	Atr
+24	a	J^-------------	Coord
+25	na	RR--6----------	AuxP
+26	Strahově	NNIS6-----A----	Atr
+27	v	RR--6----------	AuxP
+28	celkové	AAFS6----1A----	Atr
+29	hodnotě	NNFS6-----A----	Atr
+30	asi	TT-------------	AuxZ
+31	43	C=-------------	Atr
+32	miliónů	NNIP2-----A----	Atr
+33	Kč	NNFXX-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln95044-090-p3s2
+1	Chadimová	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	obžalována	VsQW---XX-AP---	Pnom
+5	z	RR--2----------	AuxP
+6	maření	NNNS2-----A----	Obj
+7	výkonu	NNIS2-----A----	Atr
+8	úředního	AANS2----1A----	Atr
+9	rozhodnutí	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	protože	J,-------------	AuxC
+12	nerespektovala	VpQW---XR-NA---	Adv
+13	usnesení	NNNS4-----A----	Obj
+14	soudu	NNIS2-----A----	Atr
+15	o	RR--6----------	AuxP
+16	zajištění	NNNS6-----A----	Atr
+17	domu	NNIS2-----A----	Atr
+18	na	RR--6----------	AuxP
+19	pražském	AANS6----1A----	Atr
+20	Loretánském	AANS6----1A----	Atr
+21	náměstí	NNNS6-----A----	Atr
+22	a	J^-------------	Coord
+23	dále	Db------------1	Adv
+24	ho	PHZS4--3-------	Obj
+25	pronajímala	VpQW---XR-AA---	Adv
+26	.	Z:-------------	AuxK
+
+ln95044-090-p3s3
+1	Mimoto	Db-------------	Adv
+2	měla	VpQW---XR-AA---	Pred
+3	podvodně	Dg-------1A----	Adv
+4	vylákat	Vf--------A----	Obj
+5	starožitný	AAIS4----1A----	Atr
+6	nábytek	NNIS4-----A----	Obj
+7	z	RR--2----------	AuxP
+8	fary	NNFS2-----A----	AtrAdv
+9	v	RR--6----------	AuxP
+10	Kájově	NNIS6-----A----	Atr
+11	na	RR--6----------	AuxP
+12	Českokrumlovsku	NNNS6-----A----	Atr
+13	v	RR--6----------	AuxP
+14	ceně	NNFS6-----A----	Atr
+15	kolem	RR--2----------	AuxP
+16	80000	C=-------------	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95044-090-p3s4
+1	Žaloba	NNFS1-----A----	Sb
+2	ji	PPFS4--3-------	Obj
+3	viní	VB-S---3P-AA---	Pred
+4	z	RR--2----------	AuxP
+5	trestné	AAFS2----1A----	Atr
+6	činnosti	NNFS2-----A----	Obj
+7	,	Z:-------------	AuxX
+8	za	RR--4----------	AuxP
+9	kterou	P4FS4----------	Adv
+10	může	VB-S---3P-AA---	Atr
+11	být	Vf--------A----	AuxV
+12	pachatel	NNMS1-----A----	Sb
+13	potrestán	VsYS---XX-AP---	Obj
+14	vězením	NNNS7-----A----	Adv
+15	na	RR--4----------	AuxP
+16	pět	Cn-S4----------	Atr
+17	až	J^-------------	Coord
+18	dvanáct	Cn-S4----------	Atr
+19	let	NNNP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95044-090-p4s1
+1	Obžalovaná	AAFS1----1A----	Sb
+2	včera	Db-------------	Adv
+3	řekla	VpQW---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	necítí	VB-S---3P-NA---	Obj
+8	být	Vf--------A----	Obj
+9	vinna	ACQW------A----	Pnom
+10	a	J^-------------	Coord
+11	odmítla	VpQW---XR-AA--1	Obj
+12	rovněž	Db-------------	Adv
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	by	Vc-------------	AuxV
+16	měla	VpQW---XR-AA---	Obj
+17	cokoli	PZ--4---------1	Obj
+18	společného	AANS2----1A----	Atr
+19	s	RR--7----------	AuxP
+20	trestnou	AAFS7----1A----	Atr
+21	činností	NNFS7-----A----	Obj
+22	související	AGFS7-----A----	Atr
+23	s	RR--7----------	AuxP
+24	domem	NNIS7-----A----	Obj
+25	v	RR--6----------	AuxP
+26	Čechově	AUFS6M---------	Atr
+27	ulici	NNFS6-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95044-090-p4s2
+1	Protože	J,-------------	AuxC
+2	odmítla	VpQW---XR-AA--1	Adv
+3	vypovídat	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	soudce	NNMS1-----A----	Sb
+6	přečetl	VpYS---XR-AA---	Pred
+7	její	PSXP4FS3-------	Atr
+8	výpovědi	NNFP4-----A----	Obj
+9	z	RR--2----------	AuxP
+10	vyšetřování	NNNS2-----A----	Atr
+11	a	J^-------------	Coord
+12	z	RR--2----------	AuxP
+13	loňského	AANS2----1A----	Atr
+14	soudního	AANS2----1A----	Atr
+15	řízení	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95044-090-p4s3
+1	Proces	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	trvat	Vf--------A----	Obj
+5	do	RR--2----------	AuxP
+6	31	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	března	NNIS2-----A----	Adv
+9	.	Z:-------------	AuxK
+

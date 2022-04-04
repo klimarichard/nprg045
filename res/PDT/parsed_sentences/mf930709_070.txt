@@ -1,0 +1,112 @@
+mf930709-070-p1s1
+1	Strážníci	NNMP1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	včera	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	centru	NNNS6-----A----	Adv
+6	Prahy	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	ulici	NNFS6-----A----	Adv
+9	Na	RR--6----------	AuxP
+10	příkopě	NNIS6-----A----	Atr
+11	zaměřili	VpMP---XR-AA---	Pred
+12	na	RR--4----------	AuxP
+13	řidiče	NNMP4-----A----	Obj
+14	vozů	NNIP2-----A----	Atr
+15	taxislužby	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930709-070-p1s2
+1	Ti	PDMP1----------	Sb
+2	totiž	Db-------------	AuxY
+3	na	RR--6----------	AuxP
+4	stanovišti	NNNS6-----A----	Adv
+5	porušují	VB-P---3P-AA---	Pred
+6	dopravní	AAIP4----1A----	Atr
+7	předpisy	NNIP4-----A----	Obj
+8	a	J^-------------	Coord
+9	parkují	VB-P---3P-AA---	Pred
+10	kolmo	Dg-------1A----	Adv
+11	k	RR--3----------	AuxP
+12	chodníku	NNIS3-----A----	Adv
+13	i	J^-------------	AuxZ
+14	přes	RR--4----------	AuxP
+15	to	PDNS4----------	Adv
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	byli	VpMP---XR-AA---	AuxV
+19	několikrát	Co-------------	Adv
+20	napomenuti	VsMP---XX-AP---	Atr
+21	.	Z:-------------	AuxK
+
+mf930709-070-p1s3
+1	Takové	PDNS1----------	Atr
+2	stání	NNNS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	pro	RR--4----------	AuxP
+5	ně	P5XP4--3-------	Adv
+6	výhodnější	AANS1----2A----	Pnom
+7	,	Z:-------------	AuxX
+8	protože	J,-------------	AuxC
+9	tak	Db-------------	Adv
+10	mohou	VB-P---3P-AA--1	Adv
+11	svým	P8XP3----------	Atr
+12	"	Z:-------------	AuxG
+13	vyvoleným	AAMP3----1A----	Atr
+14	kolegům	NNMP3-----A----	Adv
+15	"	Z:-------------	AuxG
+16	držet	Vf--------A----	Obj
+17	místa	NNNP4-----A----	Obj
+18	na	RR--6----------	AuxP
+19	"	Z:-------------	AuxG
+20	štaflu	NNIS6-----A----	Atr
+21	"	Z:-------------	AuxG
+22	.	Z:-------------	AuxK
+
+mf930709-070-p1s4
+1	Za	RR--4----------	AuxP
+2	špatné	AANS4----1A----	Atr
+3	stání	NNNS4-----A----	Adv
+4	strážníci	NNMP1-----A----	Sb
+5	účtovali	VpMP---XR-AA---	Pred
+6	blokovou	AAFS4----1A----	Atr
+7	pokutu	NNFS4-----A----	Obj
+8	až	TT-------------	AuxZ
+9	500	C=-------------	Atr
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-070-p1s5
+1	Kromě	RR--2----------	AuxP
+2	toho	PDZS2----------	Adv
+3	se	P7-X4----------	AuxT
+4	však	J^-------------	AuxY
+5	zaměřili	VpMP---XR-AA---	Pred
+6	i	J^-------------	AuxZ
+7	na	RR--4----------	AuxP
+8	kontrolu	NNFS4-----A----	Obj
+9	dodržování	NNNS2-----A----	Atr
+10	podmínek	NNFP2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	provozování	NNNS4-----A----	Atr
+13	taxislužby	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4FP4----------	Obj
+16	předepisuje	VB-S---3P-AA---	AtrAtr
+17	koncesní	AAFS1----1A----	Atr
+18	listina	NNFS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+mf930709-070-p2s1
+1	(	Z:-------------	ExD
+2	nak	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+
+mf930709-070-p3s1
+1	FOTO	NNNS1-----A----	ExD
+2	:	Z:-------------	Coord
+3	MAFA	NNFS1-----A----	ExD
+4	-	Z:-------------	Coord
+5	MICHAL	NNMS1-----A----	Atr
+6	RŮŽIČKA	NNMS1-----A----	ExD
+

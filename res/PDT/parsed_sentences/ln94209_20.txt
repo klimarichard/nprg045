@@ -1,0 +1,161 @@
+ln94209-20-p1s1
+1	ČSSD	NNFXX-----A---8	Sb
+2	má	VB-S---3P-AA---	Pred
+3	návrh	NNIS4-----A----	Obj
+4	územněsprávního	AAIS2----1A----	Atr
+5	zákona	NNIS2-----A----	Atr
+
+ln94209-20-p2s1A
+1	Liberec	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94209-20-p2s1B
+1	ČSSD	NNFXX-----A---8	Sb
+2	má	VB-S---3P-AA---	Pred
+3	připraven	VsYS---XX-AP---	Atv
+4	vlastní	AAIS4----1A----	Atr
+5	návrh	NNIS4-----A----	Obj
+6	zákona	NNIS2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	vytvoření	NNNS6-----A----	Atr
+9	vyšších	AAIP2----2A----	Atr
+10	územněsprávních	AAIP2----1A----	Atr
+11	celků	NNIP2-----A----	Atr
+12	a	J^-------------	Coord
+13	jejich	PSXXXXP3-------	Atr
+14	samostatné	AAFS6----1A----	Atr
+15	působnosti	NNFS6-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94209-20-p2s2
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	oznámil	VpYS---XR-AA---	Pred
+4	poslanec	NNMS1-----A----	Atr
+5	parlamentu	NNIS2-----A----	Atr
+6	za	RR--4----------	AuxP
+7	tuto	PDFS4----------	Atr
+8	stranu	NNFS4-----A----	Atr
+9	Karel	NNMS1-----A----	Atr
+10	Hrdý	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94209-20-p2s3
+1	Vládní	AAIS4----1A----	Atr
+2	návrh	NNIS4-----A----	Obj
+3	zákona	NNIS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	předpokládá	VB-S---3P-AA---	Atr
+7	17	C=-------------	Obj
+8	vyšších	AAIP2----2A----	Atr
+9	celků	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	označil	VpYS---XR-AA---	Pred
+12	za	RR--4----------	AuxP
+13	neprůchodný	AAIS4----1N----	Obj
+14	.	Z:-------------	AuxK
+
+ln94209-20-p2s4
+1	Podle	RR--2----------	AuxP
+2	Hrdého	NNMS2-----A----	Adv
+3	bude	VB-S---3F-AA---	AuxV
+4	ČSSD	NNFXX-----A---8	Sb
+5	hledat	Vf--------A----	Pred
+6	konsenzus	NNIS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	mezích	NNFP6-----A----	Adv
+9	daných	AAFP6----1A----	Atr
+10	názory	NNIP7-----A----	Adv
+11	LB	NNIXX-----A---8	Atr
+12	(	Z:-------------	ExD
+13	osm	Cn-S1----------	ExD
+14	celků	NNIP2-----A----	Atr
+15	)	Z:-------------	ExD
+16	a	J^-------------	Coord
+17	ODA	NNFXX-----A---8	Atr
+18	(	Z:-------------	ExD
+19	třináct	Cn-S1----------	ExD
+20	celků	NNIP2-----A----	Atr
+21	)	Z:-------------	ExD
+22	.	Z:-------------	AuxK
+
+ln94209-20-p2s5
+1	ČSSD	NNFXX-----A---8	Sb
+2	má	VB-S---3P-AA---	Pred
+3	na	RR--4----------	AuxP
+4	rozdíl	NNIS4-----A----	AuxP
+5	od	RR--2----------	AuxP
+6	vlády	NNFS2-----A----	Adv
+7	za	RR--4----------	AuxP
+8	to	PDNS4----------	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	zákon	NNIS1-----A----	Sb
+12	o	RR--6----------	AuxP
+13	zřízení	NNNS6-----A----	Atr
+14	vyšších	AAIP2----2A----	Atr
+15	územněsprávních	AAIP2----1A----	Atr
+16	celků	NNIP2-----A----	Atr
+17	by	Vc-------------	AuxV
+18	se	P7-X4----------	AuxR
+19	měl	VpYS---XR-AA---	Atr
+20	projednávat	Vf--------A----	Obj
+21	současně	Dg-------1A----	Adv
+22	se	RV--7----------	AuxP
+23	zákonem	NNIS7-----A----	Adv
+24	o	RR--6----------	AuxP
+25	jejich	PSXXXXP3-------	Atr
+26	kompetencích	NNFP6-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94209-20-p3s1
+1	Hrdý	NNMS1-----A----	Sb
+2	uvedl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	ČSSD	NNFXX-----A---8	Sb
+6	je	VB-S---3P-AA---	Obj
+7	ochotna	ACQW------A----	Pnom
+8	projednat	Vf--------A----	Obj
+9	zákon	NNIS4-----A----	Obj
+10	kdykoliv	Db-------------	Adv
+11	ještě	Db-------------	AuxZ
+12	ve	RV--6----------	AuxP
+13	funkčním	AANS6----1A----	Atr
+14	období	NNNS6-----A----	Adv
+15	tohoto	PDZS2----------	Atr
+16	parlamentu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94209-20-p3s2
+1	Část	NNFS1-----A----	Sb
+2	ODS	NNFXX-----A---8	Atr
+3	dělá	VB-S---3P-AA---	Obj
+4	vše	PLNS4---------1	Obj
+5	pro	RR--4----------	AuxP
+6	to	PDNS4----------	AtrAdv
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	byl	VpYS---XR-AA---	AuxV
+10	parlamentu	NNIS3-----A----	Obj
+11	předložen	VsYS---XX-AP---	Atr
+12	takový	PDYS1----------	Atr
+13	návrh	NNIS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	který	P4YS1----------	Sb
+16	nemůže	VB-S---3P-NA---	Adv
+17	projít	Vf--------A----	Obj
+18	,	Z:-------------	AuxX
+19	a	J^-------------	Coord
+20	mohla	VpQW---XR-AA---	Atr
+21	to	PDNS4----------	Obj
+22	pak	Db-------------	Adv
+23	vše	PLNS4---------1	Atr
+24	svést	Vf--------A----	Obj
+25	na	RR--4----------	AuxP
+26	parlament	NNIS4-----A----	Obj
+27	,	Z:-------------	AuxX
+28	dodal	VpYS---XR-AA---	Pred
+29	.	Z:-------------	AuxK
+

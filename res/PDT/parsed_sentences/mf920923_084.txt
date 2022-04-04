@@ -1,0 +1,196 @@
+mf920923-084-p1s1
+1	Epidemie	NNFS1-----A----	ExD
+2	salmonelózy	NNFS2-----A----	Atr
+
+mf920923-084-p2s1
+1	Mladá	AAFS1----1A----	Atr
+2	Boleslav	NNFS1-----A----	ExD
+3	(	Z:-------------	ExD
+4	sch	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+mf920923-084-p2s2
+1	Okresní	AAFS1----1A----	Atr
+2	hygienická	AAFS1----1A----	Atr
+3	stanice	NNFS1-----A----	Sb
+4	v	RR--6----------	AuxP
+5	Mladé	AAFS6----1A----	Atr
+6	Boleslavi	NNFS6-----A----	Atr
+7	zaregistrovala	VpQW---XR-AA---	Pred
+8	v	RR--6----------	AuxP
+9	posledních	AAIP6----1A----	Atr
+10	dnech	NNIP6-----A----	Adv
+11	několik	Ca--4----------	Obj
+12	desítek	NNFP2-----A----	Atr
+13	případů	NNIP2-----A----	Atr
+14	onemocnění	NNNS2-----A----	Atr
+15	salmonelózou	NNFS7-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf920923-084-p2s3
+1	Zdrojem	NNIS7-----A----	Pnom
+2	epidemie	NNFS2-----A----	Atr
+3	byly	VpTP---XR-AA---	Pred
+4	cukrářské	AAIP1----1A----	Atr
+5	výrobky	NNIP1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	jedné	ClFS2----------	Atr
+8	soukromé	AAFS2----1A----	Atr
+9	prodejny	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Mladé	AAFS6----1A----	Atr
+12	Boleslavi	NNFS6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920923-084-p2s4
+1	"	Z:-------------	AuxG
+2	K	RR--3----------	AuxP
+3	nákaze	NNFS3-----A----	Adv
+4	došlo	VpNS---XR-AA---	Obj
+5	podle	RR--2----------	AuxP
+6	našich	PSXP2-P1-------	Atr
+7	poznatků	NNIP2-----A----	Adv
+8	ve	RV--6----------	AuxP
+9	dnech	NNIP6-----A----	Adv
+10	11	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	-	Z:-------------	Coord
+13	12	C=-------------	Atr
+14	.	Z:-------------	AuxG
+15	září	NNNS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	"	Z:-------------	AuxG
+18	řekl	VpYS---XR-AA---	Pred
+19	včera	Db-------------	Adv
+20	ředitel	NNMS1-----A----	Atr
+21	OHS	NNFXX-----A----	Atr
+22	Mladá	AAFS1----1A----	Atr
+23	Boleslav	NNFS1-----A----	Atr
+24	Vojtěch	NNMS1-----A----	Atr
+25	Kolín	NNMS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+mf920923-084-p2s5
+1	"	Z:-------------	AuxG
+2	V	RR--6----------	AuxP
+3	současné	AAFS6----1A----	Atr
+4	době	NNFS6-----A----	Adv
+5	ještě	Db-------------	Adv
+6	probíhají	VB-P---3P-AA---	Pred
+7	rozbory	NNIP1-----A----	Sb
+8	odebraných	AAIP2----1A----	Atr
+9	vzorků	NNIP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	a	J^-------------	Coord
+12	proto	J^-------------	AuxY
+13	zatím	Db-------------	Adv
+14	nelze	VB-S---3P-NA---	Pred
+15	přesně	Dg-------1A----	Adv
+16	určit	Vf--------A----	Sb
+17	druh	NNIS4-----A----	Obj
+18	potraviny	NNFS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	která	P4FS1----------	Sb
+21	byla	VpQW---XR-AA---	Atr
+22	původcem	NNMS7-----A----	Pnom
+23	nákazy	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920923-084-p2s6A
+1	Provozovnu	NNFS4-----A----	Obj
+2	jsme	VB-P---1P-AA---	AuxV
+3	až	TT-------------	AuxZ
+4	do	RR--2----------	AuxP
+5	vyšetření	NNNS2-----A----	Adv
+6	celé	AAFS2----1A----	Atr
+7	záležitosti	NNFS2-----A----	Atr
+8	uzavřeli	VpMP---XR-AA---	Pred
+9	.	Z:-------------	AuxK
+10	"	Z:-------------	AuxG
+
+mf920923-084-p2s6B
+1	Podle	RR--2----------	AuxP
+2	informace	NNFS2-----A----	Adv
+3	přednosty	NNMS2-----A----	Atr
+4	infekčního	AANS2----1A----	Atr
+5	oddělení	NNNS2-----A----	Atr
+6	okresní	AAFS2----1A----	Atr
+7	nemocnice	NNFS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Mladé	AAFS6----1A----	Atr
+10	Boleslavi	NNFS6-----A----	Atr
+11	Ivana	NNMS2-----A----	Atr
+12	Dostála	NNMS2-----A----	Atr
+13	bylo	VpNS---XR-AA---	AuxV
+14	ke	RV--3----------	AuxP
+15	včerejšku	NNIS3-----A----	Adv
+16	hospitalizováno	VsNS---XX-AP---	Pred
+17	dvacet	Cn-S1----------	Sb
+18	nemocných	NNMP2-----A----	Atr
+19	se	RV--7----------	AuxP
+20	salmonelózou	NNFS7-----A----	AtrAdv
+21	.	Z:-------------	AuxK
+
+mf920923-084-p2s7
+1	"	Z:-------------	AuxG
+2	Měli	VpMP---XR-AA---	Pred
+3	jsme	VB-P---1P-AA---	AuxV
+4	tu	Db------------1	Adv
+5	i	J^-------------	AuxZ
+6	komplikované	AAIP4----1A----	Atr
+7	případy	NNIP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	nelze	VB-S---3P-NA---	Pred
+11	říci	Vf--------A---1	Sb
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	všichni	PLMP1----------	Atr
+15	naši	PSMP1-P1-------	Atr
+16	nemocní	NNMP1-----A----	Sb
+17	se	P7-X4----------	AuxT
+18	nakazili	VpMP---XR-AA---	Obj
+19	pouze	Db-------------	AuxZ
+20	z	RR--2----------	AuxP
+21	tohoto	PDZS2----------	Atr
+22	jednoho	ClZS2----------	Atr
+23	zdroje	NNIS2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+mf920923-084-p2s8
+1	Jsme	VB-P---1P-AA---	Pred
+2	spádovou	AAFS7----1A----	Atr
+3	nemocnicí	NNFS7-----A----	Pnom
+4	pro	RR--4----------	AuxP
+5	dvě	ClHP4----------	Atr
+6	třetiny	CyFP4----------	AtrAdv
+7	středních	AAFP2----1A----	Atr
+8	Čech	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	proto	J^-------------	AuxY
+12	přijímáme	VB-P---1P-AA---	Pred
+13	nemocné	NNMP4-----A----	Obj
+14	i	J^-------------	AuxZ
+15	z	RR--2----------	AuxP
+16	jiných	AAIP2----1A----	Atr
+17	okresů	NNIP2-----A----	AdvAtr
+18	.	Z:-------------	AuxK
+
+mf920923-084-p2s9
+1	Zatím	Db-------------	Adv
+2	nám	PP-P3--1-------	Obj
+3	však	J^-------------	Coord
+4	bezprostředně	Dg-------1A----	Adv
+5	nehrozí	VB-S---3P-NA---	Pred
+6	nedostatek	NNIS1-----A----	Sb
+7	lůžek	NNNP2-----A----	Atr
+8	pro	RR--4----------	AuxP
+9	další	AAIP4----1A----	Atr
+10	případy	NNIP4-----A----	Atr
+11	výskytu	NNIS2-----A----	Atr
+12	salmonelózy	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+14	"	Z:-------------	AuxG
+

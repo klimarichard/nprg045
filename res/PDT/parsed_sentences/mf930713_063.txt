@@ -1,0 +1,240 @@
+mf930713-063-p1s1
+1	Mercedesy	NNIP1-----A----	ExD
+2	přes	RR--4----------	AuxP
+3	hraniční	AAFS4----1A----	Atr
+4	závoru	NNFS4-----A----	Atr
+
+mf930713-063-p2s1A
+1	Mikulov	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jh	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-063-p2s1B
+1	Rychlostí	NNFS7-----A----	Adv
+2	120	C=-------------	Atr
+3	-	Z:-------------	Coord
+4	140	C=-------------	Atr
+5	kilometrů	NNIP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	hodině	NNFS6-----A----	Atr
+8	uprostřed	Db-------------	AuxP
+9	noci	NNFS2-----A----	Adv
+10	přerazily	VpTP---XR-AA---	Pred
+11	závoru	NNFS4-----A----	Obj
+12	hraničního	AAIS2----1A----	Atr
+13	přechodu	NNIS2-----A----	Atr
+14	z	RR--2----------	AuxP
+15	Rakouska	NNNS2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	Mikulově	NNIS6-----A----	Atr
+18	a	J^-------------	Coord
+19	projely	VpTP---XR-AA---	Pred
+20	na	RR--4----------	AuxP
+21	naše	PSNS4-P1-------	Atr
+22	území	NNNS4-----A----	Adv
+23	dva	ClYP1----------	Atr
+24	vozy	NNIP1-----A----	Sb
+25	Mercedes	NNIS1-----A----	Atr
+26	s	RR--7----------	AuxP
+27	vídeňskou	AAFS7----1A----	Atr
+28	SPZ	NNFXX-----A---8	Atr
+29	.	Z:-------------	AuxK
+
+mf930713-063-p2s2
+1	Jeden	ClIS4----------	Obj
+2	z	RR--2----------	AuxP
+3	vozů	NNIP2-----A----	Atr
+4	,	Z:-------------	Apos
+5	částečně	Dg-------1A----	Adv
+6	poškozený	AAIS1----1A----	Atr
+7	mercedes	NNIS4-----A----	Obj
+8	červené	AAFS2----1A----	Atr
+9	barvy	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	policisté	NNMP1-----A----	Sb
+12	našli	VpMP---XR-AA---	Pred
+13	odstavený	AAIS4----1A----	Atv
+14	ve	RV--6----------	AuxP
+15	Vyškově	NNIS6-----A----	Adv
+16	,	Z:-------------	Coord
+17	po	RR--6----------	AuxP
+18	dalším	AAIS6----1A----	ExD
+19	se	RV--7----------	AuxP
+20	stříbrnou	AAFS7----1A----	Atr
+21	metalízou	NNFS7-----A----	ExD
+22	pátrají	VB-P---3P-AA---	Pred
+23	.	Z:-------------	AuxK
+
+mf930713-063-p2s3
+1	Řidiči	NNMP1-----A----	Sb
+2	těchto	PDXP2----------	Atr
+3	vozů	NNIP2-----A----	Atr
+4	násilně	Dg-------1A----	Adv
+5	projeli	VpMP---XR-AA---	Pred
+6	i	J^-------------	AuxZ
+7	přes	RR--4----------	AuxP
+8	rakouskou	AAFS4----1A----	Atr
+9	celnici	NNFS4-----A----	Adv
+10	a	J^-------------	Coord
+11	nereagovali	VpMP---XR-NA---	Pred
+12	na	RR--4----------	AuxP
+13	výzvy	NNFP4-----A----	Obj
+14	k	RR--3----------	AuxP
+15	zastavení	NNNS3-----A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930713-063-p2s4
+1	Stejným	AAIS7----1A----	Atr
+2	způsobem	NNIS7-----A----	Adv
+3	celním	AAIS7----1A----	Atr
+4	prostorem	NNIS7-----A----	Adv
+5	přechodu	NNIS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Hevlíně	NNIS6-----A----	Atr
+8	projel	VpYS---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	noci	NNFS6-----A----	Adv
+11	další	AAIS1----1A----	Atr
+12	stříbrný	AAIS1----1A----	Atr
+13	mercedes	NNIS1-----A----	Sb
+14	kabriolet	NNIS1-----A----	Atr
+15	s	RR--7----------	AuxP
+16	vídeňskou	AAFS7----1A----	Atr
+17	SPZ	NNFXX-----A---8	Atr
+18	.	Z:-------------	AuxK
+
+mf930713-063-p2s5
+1	Po	RR--6----------	AuxP
+2	okamžité	AAFS6----1A----	Atr
+3	akci	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	policistům	NNMP3-----A----	Obj
+6	vůz	NNIS4-----A----	Obj
+7	podařilo	VpNS---XR-AA---	Pred
+8	vypátrat	Vf--------A----	Sb
+9	na	RR--6----------	AuxP
+10	trase	NNFS6-----A----	Adv
+11	směřující	AGFS6-----A----	Atr
+12	do	RR--2----------	AuxP
+13	kroměřížského	AAIS2----1A----	Atr
+14	a	J^-------------	Coord
+15	uherskohradišťského	AAIS2----1A----	Atr
+16	okresu	NNIS2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+mf930713-063-p2s6
+1	Mercedes	NNIS1-----A----	Sb
+2	pronásledovaný	AAIS1----1A----	Atr
+3	policejní	AAFS7----1A----	Atr
+4	hlídkou	NNFS7-----A----	Obj
+5	na	RR--6----------	AuxP
+6	uherskobrodské	AAFS6----1A----	Atr
+7	křižovatce	NNFS6-----A----	Adv
+8	dostal	VpYS---XR-AA---	Pred
+9	ve	RV--6----------	AuxP
+10	150	C=-------------	Adv
+11	kilometrové	AAFS6----1A----	Atr
+12	rychlosti	NNFS6-----A----	Adv
+13	smyk	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	srazil	VpYS---XR-AA---	Pred
+16	se	P7-X4----------	AuxT
+17	s	RR--7----------	AuxP
+18	vozem	NNIS7-----A----	Obj
+19	Ford	NNIS1-----A----	Atr
+20	Sierra	NNFS1-----A----	Atr
+21	německého	AAMS2----1A----	Atr
+22	turisty	NNMS2-----A----	Atr
+23	a	J^-------------	Coord
+24	způsobil	VpYS---XR-AA---	Pred
+25	škodu	NNFS4-----A----	Obj
+26	300000	C=-------------	Atr
+27	korun	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+mf930713-063-p2s7
+1	Řidič	NNMS1-----A----	Sb
+2	fordu	NNIS2-----A----	Atr
+3	utrpěl	VpYS---XR-AA---	Pred
+4	lehké	AANS4----1A----	Atr
+5	zranění	NNNS4-----A----	Obj
+6	,	Z:-------------	Coord
+7	muž	NNMS1-----A----	Sb
+8	z	RR--2----------	AuxP
+9	mercedesu	NNIS2-----A----	Atr
+10	policistům	NNMP3-----A----	Adv
+11	unikl	VpYS---XR-AA--1	Pred
+12	.	Z:-------------	AuxK
+
+mf930713-063-p2s8
+1	Protože	J,-------------	AuxC
+2	dva	ClYP1----------	Sb
+3	ze	RV--2----------	AuxP
+4	tří	ClXP2----------	Atr
+5	převážených	AAIP2----1A----	Atr
+6	mercedesů	NNIP2-----A----	Atr
+7	jsou	VB-P---3P-AA---	Adv
+8	na	RR--6----------	AuxP
+9	rakouském	AAIS6----1A----	Atr
+10	seznamu	NNIS6-----A----	Adv
+11	kradených	AANP2----1A----	Atr
+12	aut	NNNP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	řidiči	NNMP1-----A----	Sb
+15	je	PPXP4--3-------	Obj
+16	k	RR--3----------	AuxP
+17	nám	PP-P3--1-------	Adv
+18	zřejmě	Dg-------1A----	Adv
+19	převáželi	VpMP---XR-AA---	Pred
+20	svým	P8XP3----------	Atr
+21	potenciálním	AAMP3----1A----	Atr
+22	zákazníkům	NNMP3-----A----	Adv
+23	.	Z:-------------	AuxK
+
+mf930713-063-p2s9
+1	Od	RR--2----------	AuxP
+2	začátku	NNIS2-----A----	Adv
+3	roku	NNIS2-----A---1	Atr
+4	hranici	NNFS4-----A----	Obj
+5	s	RR--7----------	AuxP
+6	Rakouskem	NNNS7-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Mikulově	NNIS6-----A----	Atr
+9	a	J^-------------	Coord
+10	Hevlíně	NNIS6-----A----	Atr
+11	násilně	Dg-------1A----	Adv
+12	v	RR--6----------	AuxP
+13	osmi	Cn-P6----------	Atr
+14	případech	NNIP6-----A----	Adv
+15	projelo	VpNS---XR-AA---	Pred
+16	už	Db-------------	AuxZ
+17	14	C=-------------	Sb
+18	kradených	AAIP2----1A----	Atr
+19	vozů	NNIP2-----A----	Atr
+20	mercedes	NNIS1-----A----	Atr
+21	a	J^-------------	Coord
+22	BMW	NNNXX-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf930713-063-p2s10
+1	V	RR--6----------	AuxP
+2	jednom	ClZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	policistům	NNMP3-----A----	Obj
+6	podařilo	VpNS---XR-AA---	Pred
+7	zadržet	Vf--------A----	Sb
+8	Poláka	NNMS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	je	VB-S---3P-AA---	AuxV
+12	pro	RR--4----------	AuxP
+13	krádež	NNFS4-----A----	Adv
+14	stíhán	VsYS---XX-AP---	Atr
+15	v	RR--6----------	AuxP
+16	brněnské	AAFS6----1A----	Atr
+17	věznici	NNFS6-----A----	Adv
+18	.	Z:-------------	AuxK
+

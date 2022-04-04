@@ -1,0 +1,412 @@
+ln94206-138-p1s1
+1	Varování	NNNS1-----A----	ExD
+2	těm	PDXP3----------	Atr
+3	,	Z:-------------	AuxX
+4	kdo	PKM-1----------	Sb
+5	staví	VB-P---3P-AA--1	Atr
+6	načerno	Db-------------	Adv
+
+ln94206-138-p2s1A
+1	Stavby	NNFP1-----A----	Sb
+2	budované	AAFP1----1A----	Atr
+3	v	RR--6----------	AuxP
+4	rozporu	NNIS6-----A----	AuxP
+5	s	RR--7----------	AuxP
+6	povolením	NNNS7-----A----	Adv
+7	se	P7-X4----------	AuxT
+8	vyskytují	VB-P---3P-AA---	Pred
+9	i	J^-------------	AuxZ
+10	v	RR--6----------	AuxP
+11	Praze	NNFS6-----A----	Adv
+
+ln94206-138-p2s1B
+1	Křišťanovice	NNFP1-----A----	ExD
+2	,	Z:-------------	Coord
+3	Praha	NNFS1-----A----	ExD
+4	(	Z:-------------	AuxG
+5	dan	NNXXX-----A---8	ExD
+6	,	Z:-------------	Coord
+7	kva	NNXXX-----A---8	ExD
+8	)	Z:-------------	AuxG
+9	-	Z:-------------	AuxK
+
+ln94206-138-p2s1C
+1	V	RR--6----------	AuxP
+2	obci	NNFS6-----A----	Adv
+3	Křišťanovice	NNFP1-----A----	Atr
+4	nacházející	AGFS6-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	v	RR--6----------	AuxP
+7	chráněné	AAFS6----1A----	Atr
+8	krajinné	AAFS6----1A----	Atr
+9	oblasti	NNFS6-----A----	Atr
+10	Šumava	NNFS1-----A----	Atr
+11	byl	VpYS---XR-AA---	AuxV
+12	včera	Db-------------	Adv
+13	z	RR--2----------	AuxP
+14	příkazu	NNIS2-----A----	Adv
+15	Stavebního	AAIS2----1A----	Atr
+16	úřadu	NNIS2-----A----	Atr
+17	města	NNNS2-----A----	Atr
+18	Prachatice	NNFP1-----A----	Atr
+19	zbourán	VsYS---XX-AP---	Pred
+20	rozestavěný	AAIS1----1A----	Atr
+21	penzion	NNIS1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	který	P4IS4----------	Obj
+24	tu	Db------------1	Adv
+25	začali	VpMP---XR-AA---	Atr
+26	načerno	Db-------------	Adv
+27	přistavovat	Vf--------A----	Obj
+28	ke	RV--3----------	AuxP
+29	svému	P8ZS3----------	Atr
+30	rekreačnímu	AAIS3----1A----	Atr
+31	domku	NNIS3-----A----	Adv
+32	manželé	NNMP1-----A----	Sb
+33	Benčovi	AUMP1M---------	Atr
+34	.	Z:-------------	AuxK
+
+ln94206-138-p3s1
+1	O	RR--4----------	AuxP
+2	povolení	NNNS4-----A----	Obj
+3	požádali	VpMP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	červnu	NNIS6-----A----	Adv
+6	1992	C=-------------	Atr
+7	,	Z:-------------	AuxX
+8	jejich	PSXXXXP3-------	Atr
+9	žádost	NNFS1-----A----	Sb
+10	však	J^-------------	Coord
+11	byla	VpQW---XR-AA---	AuxV
+12	zamítnuta	VsQW---XX-AP---	Pred
+13	,	Z:-------------	AuxX
+14	neboť	J^-------------	Coord
+15	podle	RR--2----------	AuxP
+16	územního	AAIS2----1A----	Atr
+17	plánu	NNIS2-----A----	Adv
+18	lze	VB-S---3P-AA---	Pred
+19	v	RR--6----------	AuxP
+20	rekreační	AAFS6----1A----	Atr
+21	lokalitě	NNFS6-----A----	Adv
+22	stavět	Vf--------A----	Sb
+23	pouze	Db-------------	AuxZ
+24	rodinné	AAIP4----1A----	Atr
+25	domky	NNIP4-----A----	Obj
+26	do	RR--2----------	AuxP
+27	osmdesáti	Cn-P2----------	Atr
+28	metrů	NNIP2-----A----	Atr
+29	zastavěné	AAFS2----1A----	Atr
+30	plochy	NNFS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94206-138-p3s2
+1	Zamítavé	AANS4----1A----	Atr
+2	stanovisko	NNNS4-----A----	Obj
+3	potvrdil	VpYS---XR-AA---	Pred
+4	i	J^-------------	AuxZ
+5	odvolací	AAIS1----1A----	Atr
+6	orgán	NNIS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+ln94206-138-p3s3
+1	Benčovi	AUMP1M---------	Sb
+2	přesto	Dg-------1A----	Coord
+3	začali	VpMP---XR-AA---	Pred
+4	stavět	Vf--------A----	Obj
+5	a	J^-------------	Coord
+6	ve	RV--6----------	AuxP
+7	stavbě	NNFS6-----A----	Obj
+8	pokračovali	VpMP---XR-AA---	Pred
+9	i	J^-------------	AuxY
+10	když	J,-------------	AuxC
+11	museli	VpMP---XR-AA---	Adv
+12	zaplatit	Vf--------A----	Obj
+13	dvacet	Cn-S4----------	Obj
+14	tisíc	ClXS2----------	Atr
+15	pokuty	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94206-138-p3s4
+1	Loni	Db------------1	Adv
+2	v	RR--6----------	AuxP
+3	květnu	NNIS6-----A----	Adv
+4	stavební	AAIS1----1A----	Atr
+5	dohled	NNIS1-----A----	Sb
+6	zjistil	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	je	VB-S---3P-AA---	Obj
+10	vyzděné	AANS1----1A----	Pnom
+11	už	Db-------------	AuxZ
+12	celé	AANS1----1A----	Atr
+13	podlaží	NNNS1-----A----	Sb
+14	včetně	RR--2----------	AuxP
+15	stropu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94206-138-p3s5
+1	Stavební	AAIS1----1A----	Atr
+2	úřad	NNIS1-----A----	Sb
+3	majitelům	NNMP3-----A----	Obj
+4	nařídil	VpYS---XR-AA---	Pred
+5	odstranit	Vf--------A----	Obj
+6	stavbu	NNFS4-----A----	Obj
+7	do	RR--2----------	AuxP
+8	konce	NNIS2-----A----	Adv
+9	srpna	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94206-138-p3s6
+1	Pan	NNMS1-----A----	Atr
+2	Benčo	NNMS1-----A----	Sb
+3	si	P7-X3----------	Adv
+4	najal	VpYS---XR-AA---	ExD
+5	advokáta	NNMS4-----A----	Obj
+6	a	J^-------------	Coord
+7	rozesílal	VpYS---XR-AA---	ExD
+8	stížnosti	NNFP4-----A----	Obj
+9	všem	PLXP3----------	Atr
+10	možným	AAFP3----1A----	Atr
+11	institucím	NNFP3-----A----	Obj
+12	včetně	RR--2----------	AuxP
+13	Ústavního	AAIS2----1A----	Atr
+14	soudu	NNIS2-----A----	Atr
+15	,	Z:-------------	Coord
+16	popisuje	VB-S---3P-AA---	Pred
+17	situaci	NNFS4-----A----	Obj
+18	tajemník	NNMS1-----A----	Atr
+19	Městského	AAIS2----1A----	Atr
+20	úřadu	NNIS2-----A----	Atr
+21	Prachatice	NNFP1-----A----	Atr
+22	Karel	NNMS1-----A----	Atr
+23	Mráz	NNMS1-----A----	Sb
+24	a	J^-------------	Coord
+25	dodává	VB-S---3P-AA---	Pred
+26	,	Z:-------------	AuxX
+27	že	J,-------------	AuxC
+28	pan	NNMS1-----A----	Atr
+29	Benčo	NNMS1-----A----	Sb
+30	nemá	VB-S---3P-NA---	Obj
+31	dodnes	Db-------------	Adv
+32	zkolaudovaný	AAIS4----1A----	Atv
+33	ani	J^-------------	AuxZ
+34	samotný	AAIS4----1A----	Atr
+35	domek	NNIS4-----A----	Obj
+36	.	Z:-------------	AuxK
+
+ln94206-138-p3s7
+1	Jako	J,-------------	AuxY
+2	bývalý	AAMS1----1A----	Atr
+3	tajemník	NNMS1-----A----	AtvV
+4	OV	NNIXX-----A---8	Atr
+5	SSM	NNFXX-----A---8	Atr
+6	měl	VpYS---XR-AA---	Pred
+7	prominentní	AANS4----1A----	Atr
+8	postavení	NNNS4-----A----	Obj
+9	a	J^-------------	Coord
+10	zřejmě	Dg-------1A----	AuxY
+11	se	P7-X4----------	AuxT
+12	domnívá	VB-S---3P-AA---	Pred
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	si	P7-X3----------	AuxT
+16	i	J^-------------	AuxZ
+17	nadále	Db-------------	Adv
+18	může	VB-S---3P-AA---	Obj
+19	dovolit	Vf--------A----	Obj
+20	víc	Dg-------2A---1	Obj
+21	než	J,-------------	AuxC
+22	ostatní	AAMP1----1A----	ExD
+23	.	Z:-------------	AuxK
+
+ln94206-138-p3s8
+1	Precedentní	AANS1----1A----	Atr
+2	rozhodnutí	NNNS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	být	Vf--------A----	Obj
+5	podle	RR--2----------	AuxP
+6	Mráze	NNMS2-----A----	Adv
+7	i	J^-------------	AuxZ
+8	veřejným	AANS7----1A----	Atr
+9	upozorněním	NNNS7-----A----	Pnom
+10	pro	RR--4----------	AuxP
+11	ostatní	AAMP4----1A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94206-138-p3s9
+1	Náklady	NNIP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	demolici	NNFS4-----A----	Atr
+4	budou	VB-P---3F-AA---	AuxV
+5	předepsány	VsTP---XX-AP---	Pred
+6	k	RR--3----------	AuxP
+7	úhradě	NNFS3-----A----	Adv
+8	stavebníkům	NNMP3-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94206-138-p4s1
+1	Nepovolené	AAFP1----1N----	Atr
+2	stavby	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	nebo	J^-------------	Coord
+5	stavby	NNFP1-----A----	Sb
+6	budované	AAFP1----1A----	Atr
+7	v	RR--6----------	AuxP
+8	rozporu	NNIS6-----A----	AuxP
+9	se	RV--7----------	AuxP
+10	stavebním	AANS7----1A----	Atr
+11	povolením	NNNS7-----A----	Adv
+12	se	P7-X4----------	AuxT
+13	vyskytují	VB-P---3P-AA---	Pred
+14	i	J^-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	Praze	NNFS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94206-138-p4s2
+1	Jak	J,-------------	Adv
+2	ale	J^-------------	Coord
+3	LN	NNFPX-----A---8	Obj
+4	sdělila	VpQW---XR-AA---	Pred
+5	pracovnice	NNFS1-----A----	Atr
+6	magistrátu	NNIS2-----A----	Atr
+7	Kamila	NNFS1-----A----	Atr
+8	Veselá	NNFS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	bourání	NNNS4-----A----	Obj
+11	tu	Db------------1	Adv
+12	pamatují	VB-P---3P-AA---	Pred
+13	naposled	Db-------------	Adv
+14	asi	TT-------------	AuxZ
+15	před	RR--7----------	AuxP
+16	pětadvaceti	Cn-P7----------	Atr
+17	lety	NNNP7-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94206-138-p4s3
+1	Tehdy	Db-------------	Adv
+2	šlo	VpNS---XR-AA---	Pred
+3	o	RR--4----------	AuxP
+4	garáž	NNFS4-----A----	Obj
+5	.	Z:-------------	AuxK
+
+ln94206-138-p4s4
+1	Před	RR--7----------	AuxP
+2	půl	ClXS7----------	Adv
+3	rokem	NNIS7-----A----	Atr
+4	řešily	VpTP---XR-AA---	Pred
+5	úřady	NNIP1-----A----	Sb
+6	případ	NNIS4-----A----	Obj
+7	z	RR--2----------	AuxP
+8	Letňan	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	si	P7-X3----------	Adv
+12	jeden	ClYS1----------	Atr
+13	občan	NNMS1-----A----	Sb
+14	rozestavěl	VpYS---XR-AA---	Atr
+15	rodinný	AAIS4----1A----	Atr
+16	dům	NNIS4-----A----	Obj
+17	bez	RR--2----------	AuxP
+18	ohledu	NNIS2-----A----	AuxP
+19	na	RR--4----------	AuxP
+20	předpisy	NNIP4-----A----	Adv
+21	.	Z:-------------	AuxK
+
+ln94206-138-p4s5
+1	Sousedi	NNMP1-----A---1	Sb
+2	si	P7-X3----------	AuxT
+3	stěžovali	VpMP---XR-AA---	Obj
+4	,	Z:-------------	AuxX
+5	ale	J^-------------	Coord
+6	dnes	Db-------------	Adv
+7	už	Db-------------	Adv
+8	je	VB-S---3P-AA---	Obj
+9	stavba	NNFS1-----A----	Sb
+10	před	RR--7----------	AuxP
+11	dokončením	NNNS7-----A----	Adv
+12	,	Z:-------------	AuxX
+13	říká	VB-S---3P-AA---	Pred
+14	K	NNFXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	Veselá	NNFS1-----A----	Sb
+17	a	J^-------------	Coord
+18	dodává	VB-S---3P-AA---	Pred
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	problémy	NNIP4-----A----	Obj
+22	s	RR--7----------	AuxP
+23	úřady	NNIP7-----A----	Atr
+24	a	J^-------------	Coord
+25	se	RV--7----------	AuxP
+26	sousedy	NNMP7-----A----	Atr
+27	má	VB-S---3P-AA---	Obj
+28	momentálně	Dg-------1A----	Adv
+29	například	Db-------------	AuxZ
+30	i	J^-------------	AuxZ
+31	F	NNMXX-----A---8	Atr
+32	.	Z:-------------	AuxG
+33	Ringo	NNMS1-----A----	Atr
+34	Čech	NNMS1-----A----	Sb
+35	,	Z:-------------	AuxX
+36	který	P4YS1----------	Sb
+37	staví	VB-S---3P-AA---	Atr
+38	v	RR--6----------	AuxP
+39	Modřanech	NNIP6-----A----	Adv
+40	.	Z:-------------	AuxK
+
+ln94206-138-p4s6
+1	Nejkřiklavější	AAIS1----3A----	Atr
+2	případ	NNIS1-----A----	Pnom
+3	současné	AAFS2----1A----	Atr
+4	doby	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	však	J^-------------	Coord
+7	přestavba	NNFS1-----A----	Sb
+8	stadionu	NNIS2-----A----	Atr
+9	Sparty	NNFS2-----A----	Atr
+10	na	RR--6----------	AuxP
+11	Letné	NNFS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	probíhá	VB-S---3P-AA---	Atr
+15	bez	RR--2----------	AuxP
+16	povolení	NNNS2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94206-138-p4s7
+1	Přitom	Db-------------	Adv
+2	tam	Db-------------	Adv
+3	jde	VB-S---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	zásadní	AAFS4----1A----	Atr
+6	změnu	NNFS4-----A----	Obj
+7	dispozic	NNFP2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	místě	NNNS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	které	P4NS1----------	Sb
+12	tvoří	VB-S---3P-AA---	Atr
+13	vlastně	Db-------------	AuxY
+14	určitý	AAIS4----1A----	Atr
+15	protějšek	NNIS4-----A----	Obj
+16	Pražskému	AAIS3----1A----	Atr
+17	hradu	NNIS3-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94206-138-p4s8
+1	Praha	NNFS1-----A----	Sb
+2	7	C=-------------	Atr
+3	vydala	VpQW---XR-AA---	Pred
+4	několik	Ca--4----------	Obj
+5	příkazů	NNIP2-----A----	Atr
+6	k	RR--3----------	AuxP
+7	zastavení	NNNS3-----A----	Atr
+8	stavby	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	ta	PDFS1----------	Sb
+11	však	J^-------------	Coord
+12	pokračuje	VB-S---3P-AA---	Pred
+13	dál	Db-------------	Adv
+14	.	Z:-------------	AuxK
+

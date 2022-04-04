@@ -1,0 +1,25 @@
+lnd94105-077-p1s1
+1	Úrokové	AAFP1----1A----	Atr
+2	sazby	NNFP1-----A----	ExD
+3	z	RR--2----------	AuxP
+4	termínovaných	AAIP2----1A----	Atr
+5	vkladů	NNIP2-----A----	Atr
+6	(	Z:-------------	AuxG
+7	v	RR--6----------	AuxP
+8	%	Z:-------------	Atr
+9	)	Z:-------------	AuxG
+10	u	RR--2----------	AuxP
+11	ČSOB	NNFXX-----A---8	Atr
+12	platné	AAFP1----1A----	Atr
+13	od	RR--2----------	AuxP
+14	2	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	5	C=-------------	Adv
+17	.	Z:-------------	AuxG
+18	1995	C=-------------	Atr
+
+lnd94105-077-p1s2
+1	Pramen	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	ČSOB	NNFXX-----A---8	ExD
+

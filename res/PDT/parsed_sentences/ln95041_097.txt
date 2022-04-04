@@ -1,0 +1,393 @@
+ln95041-097-p1s1
+1	Závodní	AAMS1----1A----	Atr
+2	lékař	NNMS1-----A----	Sb
+3	neschopenku	NNFS4-----A----	Obj
+4	nevydá	VB-S---3P-NA---	Pred
+
+ln95041-097-p2s1A
+1	Preventivní	AAFP4----1A----	Atr
+2	prohlídky	NNFP4-----A----	Obj
+3	oceňují	VB-P---3P-AA---	Pred
+4	pojišťovny	NNFP1-----A----	Sb
+5	necelými	AAFP7----1N----	Atr
+6	šesti	Cn-P7----------	Atr
+7	korunami	NNFP7-----A----	Adv
+
+ln95041-097-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95041-097-p2s1C
+1	Dříve	Dg-------2A----	Adv
+2	mohli	VpMP---XR-AA---	Pred
+3	lidé	NNMP1-----A---1	Sb
+4	jít	Vf--------A----	Obj
+5	se	RV--7----------	AuxP
+6	zdravotními	AAIP7----1A----	Atr
+7	problémy	NNIP7-----A----	Adv
+8	za	RR--7----------	AuxP
+9	svým	P8ZS7----------	Atr
+10	závodním	AAMS7----1A----	Atr
+11	lékařem	NNMS7-----A----	Adv
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	je	PPXP4--3-------	Obj
+15	léčil	VpYS---XR-AA---	Atr
+16	,	Z:-------------	Coord
+17	napsal	VpYS---XR-AA---	Atr
+18	jim	PPXP3--3-------	Obj
+19	neschopenku	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln95041-097-p2s2
+1	Nyní	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	závodních	AAMP2----1A----	Atr
+4	lékařů	NNMP2-----A----	Atr
+5	méně	Dg-------2A----	Sb
+6	a	J^-------------	Coord
+7	navíc	Db-------------	Adv
+8	mají	VB-P---3P-AA---	Pred
+9	jinou	AAFS4----1A----	Atr
+10	náplň	NNFS4-----A----	Obj
+11	práce	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95041-097-p3s1
+1	"	Z:-------------	AuxG
+2	Závodní	AAMP1----1A----	Atr
+3	lékaři	NNMP1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	již	Db-------------	AuxZ
+6	od	RR--2----------	AuxP
+7	roku	NNIS2-----A---1	Adv
+8	1992	C=-------------	Atr
+9	zabývají	VB-P---3P-AA---	Obj
+10	jen	TT-------------	AuxZ
+11	závodní	AAFS7----1A----	Atr
+12	preventivní	AAFS7----1A----	Atr
+13	péčí	NNFS7-----A----	Obj
+14	,	Z:-------------	AuxX
+15	"	Z:-------------	AuxG
+16	řekla	VpQW---XR-AA---	Pred
+17	LN	NNFPX-----A---8	Obj
+18	Dana	NNFS1-----A----	Atr
+19	Kuklová	NNFS1-----A----	Sb
+20	z	RR--2----------	AuxP
+21	ministerstva	NNNS2-----A----	Atr
+22	zdravotnictví	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95041-097-p3s2
+1	Na	RR--4----------	AuxP
+2	pravidelné	AAFP4----1A----	Atr
+3	preventivní	AAFP4----1A----	Atr
+4	prohlídky	NNFP4-----A----	Adv
+5	,	Z:-------------	AuxX
+6	mezi	RR--4----------	AuxP
+7	které	P4FP4----------	Adv
+8	je	VB-S---3P-AA---	Atr
+9	závodní	AAFS1----1A----	Atr
+10	preventivní	AAFS1----1A----	Atr
+11	péče	NNFS1-----A----	Sb
+12	zahrnuta	VsQW---XX-AP---	Pnom
+13	,	Z:-------------	AuxX
+14	by	Vc-------------	AuxV
+15	měl	VpYS---XR-AA---	Pred
+16	podle	RR--2----------	AuxP
+17	ní	P5FS2--3-------	Adv
+18	chodit	Vf--------A----	Obj
+19	každý	AAMS1----1A----	Atr
+20	člověk	NNMS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+ln95041-097-p4s1
+1	Představitelé	NNMP1-----A----	Sb
+2	nemocnic	NNFP2-----A----	Atr
+3	před	RR--7----------	AuxP
+4	časem	NNIS7-----A----	Adv
+5	navrhli	VpMP---XR-AA--1	Pred
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	preventivní	AAFS4----1A----	Atr
+9	péči	NNFS4-----A----	Obj
+10	nutnou	AAFS4----1A----	Atr
+11	při	RR--6----------	AuxP
+12	výkonu	NNIS6-----A----	Adv
+13	některých	PZXP2----------	Atr
+14	povolání	NNNP2-----A----	Atr
+15	platili	VpMP---XR-AA---	Obj
+16	zaměstnavatelé	NNMP1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+ln95041-097-p4s2
+1	První	CrMS1----------	Atr
+2	náměstek	NNMS1-----A----	Atr
+3	ministra	NNMS2-----A----	Atr
+4	zdravotnictví	NNNS2-----A----	Atr
+5	Ondřej	NNMS1-----A----	Atr
+6	Typolt	NNMS1-----A----	Sb
+7	se	P7-X4----------	AuxT
+8	však	J^-------------	Coord
+9	obává	VB-S---3P-AA---	Pred
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	by	Vc-------------	AuxV
+13	to	PDNS1----------	Sb
+14	nebylo	VpNS---XR-NA---	Obj
+15	příliš	Db-------------	Adv
+16	efektivní	AANS1----1A----	Pnom
+17	.	Z:-------------	AuxK
+
+ln95041-097-p4s3
+1	"	Z:-------------	AuxG
+2	Kdyby	J,-------------	AuxC
+3	bylo	VpNS---XR-AA---	Adv
+4	placení	NNNS1-----A----	Sb
+5	na	RR--6----------	AuxP
+6	zaměstnavatelích	NNMP6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Pred
+9	pravděpodobné	AANS1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	by	Vc-------------	AuxV
+13	ji	PPFS4--3-------	Obj
+14	raději	Dg-------2A----	Adv
+15	nevyžadovali	VpMP---XR-NA---	Sb
+16	.	Z:-------------	AuxK
+
+ln95041-097-p4s4
+1	V	RR--6----------	AuxP
+2	důsledku	NNIS6-----A----	AuxP
+3	toho	PDZS2----------	Adv
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxT
+6	mohla	VpQW---XR-AA---	Pred
+7	u	RR--2----------	AuxP
+8	nekontrolovaných	AAMP2----1N----	Atr
+9	lidí	NNMP2-----A----	Adv
+10	časem	NNIS7-----A----	Adv
+11	rozvinout	Vf--------A----	Obj
+12	složitá	AANP1----1A----	Atr
+13	onemocnění	NNNP1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln95041-097-p4s5
+1	Je	VB-S---3P-AA---	Pred
+2	proto	J^-------------	Coord
+3	lepší	AANS1----2A----	Pnom
+4	dnes	Db-------------	Adv
+5	zaplatit	Vf--------A----	Sb
+6	závodní	AAFS4----1A----	Atr
+7	prevenci	NNFS4-----A----	Obj
+8	ze	RV--2----------	AuxP
+9	společného	AAIS2----1A----	Atr
+10	balíčku	NNIS2-----A----	Adv
+11	zdravotního	AANS2----1A----	Atr
+12	pojištění	NNNS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	než	J,-------------	AuxC
+15	nakonec	Db-------------	Adv
+16	z	RR--2----------	AuxP
+17	téhož	PDZS2----------	Adv
+18	hradit	Vf--------A----	Adv
+19	drahou	AAFS4----1A----	Atr
+20	léčbu	NNFS4-----A----	Obj
+21	zanedbaných	AAFP2----1A----	Atr
+22	nemocí	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+24	"	Z:-------------	AuxG
+
+ln95041-097-p4s6
+1	Závodní	AAMP1----1A----	Atr
+2	lékaři	NNMP1-----A----	Sb
+3	mohou	VB-P---3P-AA--1	Pred
+4	provést	Vf--------A----	Obj
+5	zákroky	NNIP4-----A----	Obj
+6	první	CrFS2----------	Atr
+7	pomoci	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	jinak	Db-------------	Adv
+11	by	Vc-------------	AuxV
+12	se	P7-X4----------	AuxT
+13	prý	TT-------------	AuxY
+14	měli	VpMP---XR-AA---	Pred
+15	věnovat	Vf--------A----	Obj
+16	předepsané	AAFS3----1A----	Atr
+17	prevenci	NNFS3-----A----	Obj
+18	například	Db-------------	AuxZ
+19	u	RR--2----------	AuxP
+20	lidí	NNMP2-----A----	Atr
+21	z	RR--2----------	AuxP
+22	rizikových	AANP2----1A----	Atr
+23	pracovišť	NNNP2-----A----	Atr
+24	nebo	J^-------------	Coord
+25	těch	PDXP2----------	Atr
+26	,	Z:-------------	AuxX
+27	kdo	PKM-1----------	Sb
+28	přicházejí	VB-P---3P-AA---	Atr
+29	do	RR--2----------	AuxP
+30	styku	NNIS2-----A----	Adv
+31	s	RR--7----------	AuxP
+32	infekčním	AAIS7----1A----	Atr
+33	materiálem	NNIS7-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln95041-097-p4s7
+1	Mají	VB-P---3P-AA---	Pred
+2	též	Db-------------	Adv
+3	kontrolovat	Vf--------A----	Obj
+4	hygienický	AAIS4----1A----	Atr
+5	stav	NNIS4-----A----	Obj
+6	závodu	NNIS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95041-097-p5s1
+1	Běžnou	AAFS4----1A----	Atr
+2	prevenci	NNFS4-----A----	Obj
+3	provádí	VB-S---3P-AA---	Pred
+4	praktický	AAMS1----1A----	Atr
+5	lékař	NNMS1-----A----	Sb
+6	a	J^-------------	Coord
+7	zubař	NNMS1-----A----	Sb
+8	,	Z:-------------	Coord
+9	u	RR--2----------	AuxP
+10	žen	NNFP2-----A----	ExD
+11	navíc	Db-------------	ExD
+12	gynekolog	NNMS1-----A----	ExD
+13	.	Z:-------------	AuxK
+
+ln95041-097-p5s2
+1	Tyto	PDFP1----------	Atr
+2	návštěvy	NNFP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	AuxV
+4	stejně	Dg-------1A----	Adv
+5	jako	J,-------------	AuxC
+6	závodní	AAFS1----1A----	Atr
+7	preventivní	AAFS1----1A----	Atr
+8	péče	NNFS1-----A----	ExD
+9	hrazeny	VsTP---XX-AP---	Pred
+10	pojišťovnou	NNFS7-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95041-097-p5s3
+1	Výjimku	NNFS4-----A----	Obj
+2	tvoří	VB-S---3P-AA---	Pred
+3	pouze	Db-------------	AuxZ
+4	vstupní	AAFS1----1A----	Atr
+5	prohlídka	NNFS1-----A----	Sb
+6	při	RR--6----------	AuxP
+7	nástupu	NNIS6-----A----	Atr
+8	do	RR--2----------	AuxP
+9	povolání	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95041-097-p5s4
+1	"	Z:-------------	AuxG
+2	Tu	PDFS4----------	Obj
+3	platí	VB-S---3P-AA---	Pred
+4	vždy	Db-------------	Adv
+5	ten	PDYS1----------	Sb
+6	,	Z:-------------	AuxX
+7	kdo	PKM-1----------	Sb
+8	ji	PPFS4--3-------	Obj
+9	vyžaduje	VB-S---3P-AA---	Atr
+10	.	Z:-------------	AuxG
+
+ln95041-097-p5s5
+1	Mohou	VB-P---3P-AA--1	Obj
+2	to	PDNS1----------	Pnom
+3	být	Vf--------A----	Obj
+4	lidé	NNMP1-----A---1	Sb
+5	,	Z:-------------	AuxX
+6	kteří	P4MP1----------	Sb
+7	mají	VB-P---3P-AA---	Atr
+8	zájem	NNIS4-----A----	Obj
+9	o	RR--4----------	AuxP
+10	určité	AANS4----1A----	Atr
+11	povolání	NNNS4-----A----	Atr
+12	nebo	J^-------------	Coord
+13	naopak	Db-------------	AuxY
+14	podnik	NNIS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	který	P4YS1----------	Sb
+17	má	VB-S---3P-AA---	Atr
+18	zájem	NNIS4-----A----	Obj
+19	o	RR--4----------	AuxP
+20	ně	P5XP4--3-------	Atr
+21	,	Z:-------------	AuxX
+22	"	Z:-------------	AuxG
+23	řekl	VpYS---XR-AA---	Pred
+24	Ondřej	NNMS1-----A----	Atr
+25	Typolt	NNMS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+ln95041-097-p6s1
+1	Podle	RR--2----------	AuxP
+2	sdělení	NNNS2-----A----	Adv
+3	tiskové	AAFS2----1A----	Atr
+4	mluvčí	NNFS2-----A----	Atr
+5	Všeobecné	AAFS2----1A----	Atr
+6	zdravotní	AAFS2----1A----	Atr
+7	pojišťovny	NNFS2-----A----	Atr
+8	Adély	NNFS2-----A----	Atr
+9	Zimové	NNFS2-----A----	Atr
+10	má	VB-S---3P-AA---	Pred
+11	preventivní	AAFS1----1A----	Atr
+12	prohlídka	NNFS1-----A----	Sb
+13	hodnotu	NNFS4-----A----	Obj
+14	deset	Cn-S4----------	Atr
+15	bodů	NNIP2-----A----	Atr
+16	(	Z:-------------	AuxG
+17	to	PDNS1----------	Sb
+18	je	VB-S---3P-AA---	Pred
+19	například	Db-------------	AuxZ
+20	u	RR--2----------	AuxP
+21	VZP	NNFXX-----A---8	Adv
+22	5.20	C=-------------	Pnom
+23	Kč	NNFXX-----A----	Atr
+24	)	Z:-------------	AuxG
+25	.	Z:-------------	AuxK
+
+ln95041-097-p6s2
+1	Dále	Db------------1	Adv
+2	dostane	VB-S---3P-AA---	Pred
+3	lékař	NNMS1-----A----	Sb
+4	zaplaceno	VsNS---XX-AP---	Obj
+5	za	RR--4----------	AuxP
+6	provedené	AAIP4----1A----	Atr
+7	zdravotní	AAIP4----1A----	Atr
+8	zákroky	NNIP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95041-097-p6s3
+1	Těchto	PDXP2----------	Atr
+2	výkonů	NNIP2-----A----	Atr
+3	však	J^-------------	Coord
+4	mnoho	Ca--1----------	Sb
+5	není	VB-S---3P-NA---	Pred
+6	a	J^-------------	Coord
+7	tak	J^-------------	AuxY
+8	body	NNIP1-----A----	Sb
+9	tvoří	VB-P---3P-AA---	Pred
+10	jen	TT-------------	AuxZ
+11	asi	TT-------------	AuxZ
+12	čtvrtinu	CyFS4----------	Obj
+13	příjmu	NNIS2-----A----	Atr
+14	závodních	AAMP2----1A----	Atr
+15	lékařů	NNMP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	kteří	P4MP1----------	Sb
+18	většinou	Db-------------	Adv
+19	bývají	VB-P---3P-AA---	Atr
+20	přímo	Dg-------1A----	Adv
+21	zaměstnanci	NNMP7-----A----	Pnom
+22	závodů	NNIP2-----A----	Atr
+23	nebo	J^-------------	Coord
+24	jejich	PSXXXXP3-------	Atr
+25	smluvními	AAMP7----1A----	Atr
+26	partnery	NNMP7-----A----	Pnom
+27	.	Z:-------------	AuxK
+

@@ -1,0 +1,307 @@
+ln95041-040-p1s1
+1	Pacient	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	šlehačka	NNFS1-----A----	Pnom
+4	na	RR--6----------	AuxP
+5	dortu	NNIS6-----A---1	Atr
+
+ln95041-040-p2s1
+1	Díky	RR--3----------	AuxP
+2	geniálně	Dg-------1A----	Adv
+3	provedené	AAFS3----1A----	Atr
+4	poloprivatizaci	NNFS3-----A----	Adv
+5	zdravotnictví	NNNS2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	podařilo	VpNS---XR-AA---	Pred
+8	rozdělit	Vf--------A----	Sb
+9	lékařský	AAIS4----1A----	Atr
+10	stav	NNIS4-----A----	Obj
+11	na	RR--4----------	AuxP
+12	dvě	ClHP4----------	Atr
+13	skupiny	NNFP4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln95041-040-p2s2
+1	Privátní	AAFS4----1A----	ExD
+2	,	Z:-------------	AuxX
+3	která	P4FS1----------	Sb
+4	ctí	VB-S---3P-AA---	Atr
+5	zákon	NNIS4-----A----	Obj
+6	trhu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	a	J^-------------	Coord
+9	druhou	CrFS4----------	ExD
+10	-	Z:-------------	Apos
+11	skupinu	NNFS4-----A----	ExD
+12	lékařů	NNMP2-----A----	Atr
+13	ve	RV--6----------	AuxP
+14	státních	AAFP6----1A----	Atr
+15	nemocnicích	NNFP6-----A----	Atr
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	tuto	PDFS4----------	Atr
+19	možnost	NNFS4-----A----	Obj
+20	nemá	VB-S---3P-NA---	Atr
+21	.	Z:-------------	AuxK
+
+ln95041-040-p2s3
+1	A	J^-------------	Coord
+2	tak	Db-------------	AuxY
+3	je	VB-S---3P-AA---	Pred
+4	třicetiletému	AAMS3----1A----	Atr
+5	lékaři	NNMS3-----A----	Obj
+6	s	RR--7----------	AuxP
+7	první	CrFS7----------	Atr
+8	atestací	NNFS7-----A----	Atr
+9	v	RR--6----------	AuxP
+10	oboru	NNIS6-----A----	Atr
+11	a	J^-------------	Coord
+12	šestiletou	AAFS7----1A----	Atr
+13	praxí	NNFS7-----A----	Atr
+14	přidělen	VsYS---XX-AP---	Pnom
+15	měsíční	AAIS1----1A----	Atr
+16	tabulkový	AAIS1----1A----	Atr
+17	plat	NNIS1-----A----	Sb
+18	6210	C=-------------	Atr
+19	Kč	NNFXX-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95041-040-p2s4
+1	Samozřejmě	Dg-------1A----	ExD
+2	hrubého	AANS2----1A----	ExD
+3	.	Z:-------------	AuxK
+
+ln95041-040-p2s5
+1	Pokud	J,-------------	AuxC
+2	založil	VpYS---XR-AA---	Adv
+3	rodinu	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	dostává	VB-S---3P-AA---	Pred
+6	se	P7-X4----------	AuxT
+7	do	RR--2----------	AuxP
+8	okruhu	NNIS2-----A----	Adv
+9	sociálně	Dg-------1A----	Adv
+10	slabých	AAIP2----1A----	Atr
+11	případů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95041-040-p2s6
+1	Aby	J,-------------	AuxC
+2	ji	PPFS4--3-------	Obj
+3	vůbec	Db-------------	AuxZ
+4	uživil	VpYS---XR-AA---	Adv
+5	,	Z:-------------	AuxX
+6	musí	VB-S---3P-AA---	Pred
+7	pracovat	Vf--------A----	Obj
+8	více	Dg-------2A----	Adv
+9	.	Z:-------------	AuxK
+
+ln95041-040-p2s7
+1	V	RR--6----------	AuxP
+2	pohotovostních	AAFP6----1A----	Atr
+3	službách	NNFP6-----A----	Adv
+4	tak	Db-------------	Adv
+5	stráví	VB-S---3P-AA---	Pred
+6	navíc	Db-------------	Adv
+7	průměrně	Dg-------1A----	Adv
+8	sto	NNNS4-----A----	Obj
+9	hodin	NNFP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	neboli	J^-------------	Apos
+12	dalších	AAIP2----1A----	Atr
+13	dvanáct	Cn-S4----------	Obj
+14	pracovních	AAIP2----1A----	Atr
+15	dnů	NNIP2-----A----	Atr
+16	po	RR--6----------	AuxP
+17	osmi	Cn-P6----------	Atr
+18	a	J^-------------	Coord
+19	půl	ClXS6----------	Atr
+20	hodinách	NNFP6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95041-040-p2s8
+1	Celkově	Dg-------1A----	Adv
+2	tedy	Db-------------	AuxY
+3	odpracuje	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	nemocnici	NNFS6-----A----	Adv
+6	cca	Db-------------	AuxZ
+7	32	C=-------------	Obj
+8	pracovních	AAIP2----1A----	Atr
+9	dnů	NNIP2-----A----	Atr
+10	měsíčně	Dg-------1A----	Adv
+11	.	Z:-------------	AuxK
+
+ln95041-040-p2s9
+1	To	PDNS1----------	Sb
+2	není	VB-S---3P-NA---	Pred
+3	početní	AAFS1----1A----	Atr
+4	chyba	NNFS1-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	realita	NNFS1-----A----	Pnom
+8	,	Z:-------------	AuxX
+9	opakující	AGFS1-----A----	Atr
+10	se	P7-X4----------	AuxT
+11	měsíc	NNIS4-----A----	AuxY
+12	co	Db-------------	AuxY
+13	měsíc	NNIS4-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln95041-040-p2s10
+1	Teprve	Db-------------	AuxZ
+2	při	RR--6----------	AuxP
+3	tomto	PDZS6----------	Atr
+4	pracovním	AANS6----1A----	Atr
+5	vytížení	NNNS6-----A----	Adv
+6	se	P7-X4----------	AuxT
+7	jeho	PSXXXZS3-------	Atr
+8	měsíční	AAIS1----1A----	Atr
+9	příjem	NNIS1-----A----	Sb
+10	blíží	VB-S---3P-AA---	Pred
+11	10000	C=-------------	Obj
+12	Kč	NNFXX-----A----	Atr
+13	a	J^-------------	Coord
+14	je	VB-S---3P-AA---	Pred
+15	tedy	Db-------------	AuxY
+16	schopen	ACYS------A----	Pnom
+17	zajistit	Vf--------A----	Obj
+18	základní	AAFP4----1A----	Atr
+19	potřeby	NNFP4-----A----	Obj
+20	čtyřčlenné	AAFS2----1A----	Atr
+21	rodiny	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95041-040-p2s11
+1	Uvažovat	Vf--------A----	Sb
+2	o	RR--6----------	AuxP
+3	koupi	NNFS6-----A----	Obj
+4	bytu	NNIS2-----A----	Atr
+5	nebo	J^-------------	Coord
+6	auta	NNNS2-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	ztrátou	NNFS7-----A----	Pnom
+9	času	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95041-040-p2s12
+1	Na	RR--4----------	AuxP
+2	zruinování	NNNS4-----A----	Obj
+3	rozpočtu	NNIS2-----A----	Atr
+4	stačí	VB-S---3P-AA---	Pred
+5	jedna	ClFS1----------	Atr
+6	dovolená	NNFS1-----A----	Sb
+7	ročně	Dg-------1A----	Adv
+8	.	Z:-------------	AuxK
+
+ln95041-040-p2s13
+1	Lékař	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	čím	PQ--7----------	Adv
+4	dál	Dg-------2A----	ExD
+5	víc	Dg-------2A---1	Adv
+6	znechucen	VsYS---XX-AP---	Pnom
+7	systémem	NNIS7-----A----	Obj
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	počítá	VB-S---3P-AA---	Atr
+11	s	RR--7----------	AuxP
+12	loajalitou	NNFS7-----A----	Obj
+13	za	RR--4----------	AuxP
+14	každou	AAFS4----1A----	Atr
+15	cenu	NNFS4-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95041-040-p3s1
+1	Existuje	VB-S---3P-AA---	Pred
+2	vůbec	Db-------------	AuxZ
+3	v	RR--6----------	AuxP
+4	této	PDFS6----------	Atr
+5	zemi	NNFS6-----A----	Adv
+6	společenská	AAFS1----1A----	Atr
+7	a	J^-------------	Coord
+8	politická	AAFS1----1A----	Atr
+9	vůle	NNFS1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	vysoce	Db-------------	Adv
+13	odborná	AAFS1----1A----	Atr
+14	a	J^-------------	Coord
+15	odpovědná	AAFS1----1A----	Atr
+16	práce	NNFS1-----A----	Sb
+17	člověka	NNMS2-----A----	Atr
+18	byla	VpQW---XR-AA---	AuxV
+19	taktéž	Db-------------	Adv
+20	patřičně	Dg-------1A----	Adv
+21	ohodnocena	VsQW---XX-AP---	Atr
+22	?	Z:-------------	AuxK
+
+ln95041-040-p4s1
+1	Jsme	VB-P---1P-AA---	Pred
+2	civilizovanou	AAFS7----1A----	Atr
+3	zemí	NNFS7-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	či	J^-------------	Coord
+6	pouhou	AAFS7----1A----	Atr
+7	džunglí	NNFS7-----A----	Pnom
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	život	NNIS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	zdraví	NNNS1-----A----	Sb
+13	a	J^-------------	Coord
+14	vzdělání	NNNS1-----A----	Sb
+15	stojí	VB-P---3P-AA---	Atr
+16	na	RR--6----------	AuxP
+17	nejnižších	AAFP6----3A----	Atr
+18	příčkách	NNFP6-----A----	Adv
+19	žebříčku	NNIS2-----A----	Atr
+20	hodnot	NNFP2-----A----	Atr
+21	?	Z:-------------	AuxK
+
+ln95041-040-p4s2
+1	Analyzovat	Vf--------A----	Sb
+2	a	J^-------------	Coord
+3	řídit	Vf--------A----	Sb
+4	chování	NNNS4-----A----	Obj
+5	společnosti	NNFS2-----A----	Atr
+6	nepřísluší	VB-S---3P-NA---	Pred
+7	lékařům	NNMP3-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln95041-040-p4s3
+1	Je	VB-S---3P-AA---	Pred
+2	věcí	NNFS7-----A----	Pnom
+3	politiků	NNMP2-----A----	Atr
+4	a	J^-------------	Coord
+5	ti	PDMP1----------	Sb
+6	jsou	VB-P---3P-AA---	Pred
+7	povinni	ACMP------A----	Pnom
+8	se	P7-X4----------	AuxT
+9	vypořádat	Vf--------A----	Obj
+10	se	RV--7----------	AuxP
+11	všemi	PLXP7----------	Atr
+12	palčivými	AAFP7----1A----	Atr
+13	otázkami	NNFP7-----A----	Obj
+14	jako	J,-------------	AuxY
+15	první	CrMP1----------	Atv
+16	.	Z:-------------	AuxK
+
+ln95041-040-p4s4
+1	Jasná	AAFS1----1A----	Atr
+2	odpověď	NNFS1-----A----	Sb
+3	není	VB-S---3P-NA---	Pred
+4	na	RR--6----------	AuxP
+5	ministru	NNMS6-----A---1	Adv
+6	zdravotnictví	NNNS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	na	RR--6----------	AuxP
+10	všech	PLXP6----------	Atr
+11	vedoucích	AGFP6-----A----	Atr
+12	politických	AAFP6----1A----	Atr
+13	osobnostech	NNFP6-----A----	Adv
+14	tohoto	PDZS2----------	Atr
+15	státu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+

@@ -1,0 +1,474 @@
+ln94211-1-p1s1
+1	Týden	NNIS1-----A----	ExD
+2	mezi	RR--7----------	AuxP
+3	počítači	NNIP7-----A----	Atr
+
+ln94211-1-p2s1
+1	Společnost	NNFS1-----A----	Sb
+2	Intergraph	NNIS1-----A----	Atr
+3	uspořádala	VpQW---XR-AA---	Pred
+4	31	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	srpna	NNIS2-----A----	Adv
+7	v	RR--6----------	AuxP
+8	Brně	NNNS6-----A----	Adv
+9	pod	RR--7----------	AuxP
+10	názvem	NNIS7-----A----	Adv
+11	Open	AAXXX----1A----	Atr
+12	GIS	NNIXX-----A---8	Atr
+13	®	Z:-------------	Atr
+14	otevřenost	NNFS1-----A----	Atr
+15	a	J^-------------	Coord
+16	spolupráce	NNFS1-----A----	Atr
+17	celodenní	AAIS4----1A----	Atr
+18	seminář	NNIS4-----A----	Obj
+19	věnovaný	AAIS4----1A----	Atr
+20	geografickým	AAIP3----1A----	Atr
+21	informačním	AAIP3----1A----	Atr
+22	systémům	NNIP3-----A----	Obj
+23	,	Z:-------------	AuxX
+24	mapování	NNNS3-----A----	Obj
+25	a	J^-------------	Coord
+26	správě	NNFS3-----A----	Obj
+27	inženýrských	AAFP2----1A----	Atr
+28	sítí	NNFP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94211-1-p2s2
+1	Seminář	NNIS1-----A----	Sb
+2	byl	VpYS---XR-AA---	Pred
+3	součástí	NNFS7-----A----	Pnom
+4	mezinárodní	AAFS2----1A----	Atr
+5	konference	NNFS2-----A----	Atr
+6	Evropa	NNFS1-----A----	Atr
+7	v	RR--6----------	AuxP
+8	pohybu	NNIS6-----A----	Atr
+9	:	Z:-------------	Coord
+10	kontext	NNIS1-----A----	Atr
+11	GIS	NNIXX-----A---8	Atr
+12	.	Z:-------------	AuxK
+
+ln94211-1-p3s1
+1	1	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	září	NNNS2-----A----	Adv
+4	letošního	AAIS2----1A----	Atr
+5	roku	NNIS2-----A---1	Atr
+6	zahájila	VpQW---XR-AA---	Pred
+7	činnost	NNFS4-----A----	Obj
+8	nově	Dg-------1A----	Adv
+9	vzniklá	AAFS1----1A----	Atr
+10	soukromá	AAFS1----1A----	Atr
+11	škola	NNFS1-----A----	Sb
+12	-	Z:-------------	Apos
+13	Škola	NNFS1-----A----	Sb
+14	výpočetní	AAFS2----1A----	Atr
+15	techniky	NNFS2-----A----	Atr
+16	s	NNFXX-----A---8	Atr
+17	.	Z:-------------	AuxG
+18	r	NNNS7-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	o	AANS7----1A---8	Atr
+21	.	Z:-------------	AuxG
+
+ln94211-1-p3s2
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	dvouleté	AANS4----1A----	Atr
+4	pomaturitní	AANS4----1A----	Atr
+5	specializační	AANS4----1A----	Atr
+6	denní	AANS4----1A----	Atr
+7	studium	NNNS4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94211-1-p3s3
+1	Škola	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	nachází	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	Praze	NNFS6-----A----	Adv
+6	5	C=-------------	Atr
+7	v	RR--6----------	AuxP
+8	Janského	NNMS2-----A----	Atr
+9	ulici	NNFS6-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94211-1-p3s4
+1	Ve	RV--6----------	AuxP
+2	své	P8FS6---------1	Atr
+3	činnosti	NNFS6-----A----	Adv
+4	úzce	Dg-------1A----	Adv
+5	spolupracuje	VB-S---3P-AA---	Pred
+6	s	RR--7----------	AuxP
+7	českými	AAFP7----1A----	Atr
+8	firmami	NNFP7-----A----	Obj
+9	AKTIS	NNIS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	D	AAXXX----1A---8	Atr
+12	-	Z:-------------	AuxG
+13	DATA	NNNP1-----A----	Atr
+14	a	J^-------------	Coord
+15	H	NNMXX-----A---8	Atr
+16	&	Z:-------------	Coord
+17	J	NNMXX-----A---8	Atr
+18	-	Z:-------------	ExD
+19	komplexní	AANP1----1A----	Atr
+20	řešení	NNNP1-----A----	ExD
+21	.	Z:-------------	AuxK
+
+ln94211-1-p3s5
+1	K	RR--3----------	AuxP
+2	stěžejním	AAIP3----1A----	Atr
+3	předmětům	NNIP3-----A----	Obj
+4	patří	VB-P---3P-AA---	Pred
+5	elektronické	AAIP1----1A----	Atr
+6	počítače	NNIP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	programování	NNNS1-----A----	Sb
+9	a	J^-------------	Coord
+10	algoritmizace	NNFS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	(	Z:-------------	ExD
+13	jazyk	NNIS1-----A----	ExD
+14	C	NNNXX-----A----	Atr
+15	)	Z:-------------	ExD
+16	,	Z:-------------	AuxX
+17	elektronická	AANP1----1A----	Atr
+18	zařízení	NNNP1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	programové	AANS1----1A----	Atr
+21	vybavení	NNNS1-----A----	Sb
+22	,	Z:-------------	AuxX
+23	ale	J^-------------	Coord
+24	také	Db-------------	AuxZ
+25	ekonomika	NNFS1-----A----	Sb
+26	a	J^-------------	Coord
+27	angličtina	NNFS1-----A----	Sb
+28	.	Z:-------------	AuxK
+
+ln94211-1-p3s6
+1	Studium	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	ukončeno	VsNS---XX-AP---	Pnom
+4	zkouškami	NNFP7-----A----	Adv
+5	a	J^-------------	Coord
+6	obhajobou	NNFS7-----A----	Adv
+7	absolventské	AAFS2----1A----	Atr
+8	práce	NNFS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94211-1-p3s7
+1	Absolventi	NNMP1-----A----	Sb
+2	najdou	VB-P---3P-AA---	Pred
+3	uplatnění	NNNS4-----A----	Obj
+4	jako	J,-------------	AuxY
+5	správci	NNMP1-----A----	Atv
+6	výpočetních	AAIP2----1A----	Atr
+7	systémů	NNIP2-----A----	Atr
+8	(	Z:-------------	Coord
+9	sítí	NNFP2-----A----	Atr
+10	)	Z:-------------	AuxG
+11	,	Z:-------------	Coord
+12	jako	J,-------------	AuxY
+13	programátoři	NNMP1-----A----	Atv
+14	a	J^-------------	Coord
+15	servisní	AAMP1----1A----	Atr
+16	pracovníci	NNMP1-----A----	Atv
+17	.	Z:-------------	AuxK
+
+ln94211-1-p4s1
+1	Neplaťte	Vi-P---2--N----	Adv
+2	,	Z:-------------	AuxX
+3	co	PQ--4----------	Obj
+4	nepotřebujete	VB-P---2P-NA---	Obj
+5	,	Z:-------------	AuxX
+6	tak	Db-------------	Adv
+7	by	Vc-------------	AuxV
+8	se	P7-X4----------	AuxR
+9	dala	VpQW---XR-AA---	Pred
+10	charakterizovat	Vf--------A----	Obj
+11	nová	AAFS1----1A----	Atr
+12	řada	NNFS1-----A----	Sb
+13	počítačů	NNIP2-----A----	Atr
+14	německé	AAFS2----1A----	Atr
+15	firmy	NNFS2-----A----	Atr
+16	Siemens	NNIS1-----A----	Atr
+17	-	Z:-------------	AuxG
+18	Nixdorf	NNIS1-----A----	Atr
+19	označená	AAFS1----1A----	Atr
+20	SCENIC	NNIXX-----A----	Obj
+21	a	J^-------------	Coord
+22	představená	AAFS1----1A----	Atr
+23	poslední	AAIS4----1A----	Atr
+24	srpnový	AAIS4----1A----	Atr
+25	den	NNIS4-----A----	Adv
+26	v	RR--6----------	AuxP
+27	sídle	NNNS6-----A----	Adv
+28	výhradního	AAMS2----1A----	Atr
+29	českého	AAMS2----1A----	Atr
+30	distributora	NNMS2-----A----	Atr
+31	pražské	AAFS2----1A----	Atr
+32	firmy	NNFS2-----A----	Atr
+33	bitcon	NNIS1-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94211-1-p4s2
+1	Při	RR--6----------	AuxP
+2	zachování	NNNS6-----A----	Adv
+3	kvality	NNFS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	spolehlivosti	NNFS2-----A----	Atr
+6	a	J^-------------	Coord
+7	výkonu	NNIS2-----A----	Atr
+8	dodává	VB-S---3P-AA---	Pred
+9	na	RR--4----------	AuxP
+10	trh	NNIS4-----A----	Adv
+11	počítače	NNIP4-----A----	Obj
+12	až	TT-------------	AuxZ
+13	o	RR--4----------	AuxP
+14	čtvrtinu	CyFS4----------	Adv
+15	levnější	AAIP4----2A----	Atr
+16	než	J,-------------	AuxC
+17	modely	NNIP1-----A----	ExD
+18	předchozí	AAFS2----1A----	Atr
+19	řady	NNFS2-----A----	Atr
+20	PCD	NNNXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+ln94211-1-p4s3
+1	Ta	PDFS1----------	Sb
+2	přirozeně	Dg-------1A----	Adv
+3	zůstává	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	nadále	Db-------------	Adv
+6	v	RR--6----------	AuxP
+7	nabídce	NNFS6-----A----	Adv
+8	pro	RR--4----------	AuxP
+9	náročné	AAMP4----1A----	Atr
+10	zákazníky	NNMP4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94211-1-p4s4A
+1	Siemens	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94211-1-p4s4B
+1	Nixdorf	NNIS1-----A----	Sb
+2	plánuje	VB-S---3P-AA---	Pred
+3	v	RR--6----------	AuxP
+4	příštím	AAIS6----1A----	Atr
+5	roce	NNIS6-----A---1	Adv
+6	prodat	Vf--------A----	Obj
+7	přes	RR--4----------	AuxP
+8	půl	NNFS4-----A----	Obj
+9	milionu	NNIS2-----A----	Atr
+10	osobních	AAIP2----1A----	Atr
+11	počítačů	NNIP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	z	RR--2----------	AuxP
+14	toho	PDZS2----------	Atr
+15	ekonomická	AAFS1----1A----	Atr
+16	(	Z:-------------	AuxG
+17	ergonometrická	AAFS1----1A----	Atr
+18	a	J^-------------	Coord
+19	ekologická	AAFS1----1A----	Atr
+20	)	Z:-------------	AuxG
+21	řada	NNFS1-----A----	Sb
+22	SCENIC	NNIXX-----A----	Atr
+23	má	VB-S---3P-AA---	Pred
+24	tvořit	Vf--------A----	Obj
+25	80	C=-------------	Obj
+26	%	Z:-------------	Atr
+27	.	Z:-------------	AuxK
+
+ln94211-1-p4s5
+1	Všechny	PLIP1----------	Atr
+2	počítače	NNIP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	vybaveny	VsTP---XX-AP---	Pnom
+5	předinstalovaným	AAIS7----1A----	Atr
+6	softwarem	NNIS7-----A---1	Obj
+7	a	J^-------------	Coord
+8	bitcon	NNIS1-----A----	Sb
+9	poskytuje	VB-S---3P-AA---	Pred
+10	záruku	NNFS4-----A----	Obj
+11	tři	ClXP4----------	Atr
+12	roky	NNIP4-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln94211-1-p5s1
+1	Prvního	CrNS2----------	Atr
+2	září	NNNS2-----A----	Adv
+3	šli	VpMP---XR-AA---	Pred
+4	školáci	NNMP1-----A----	Sb
+5	do	RR--2----------	AuxP
+6	školy	NNFS2-----A----	Adv
+7	a	J^-------------	Coord
+8	novináři	NNMP1-----A----	ExD
+9	do	RR--2----------	AuxP
+10	pražského	AAIS2----1A----	Atr
+11	Abakusu	NNIS2-----A----	ExD
+12	.	Z:-------------	AuxK
+
+ln94211-1-p5s2
+1	Abakus	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	známý	AAMS1----1A----	Atr
+4	distributor	NNMS1-----A----	Pnom
+5	tuzemského	AAIS2----1A----	Atr
+6	i	J^-------------	Coord
+7	zahraničního	AAIS2----1A----	Atr
+8	software	NNIS2-----A----	Atr
+9	,	Z:-------------	Coord
+10	k	RR--3----------	AuxP
+11	novinkám	NNFP3-----A----	Obj
+12	z	RR--2----------	AuxP
+13	poslední	AAFS2----1A----	Atr
+14	doby	NNFS2-----A----	Atr
+15	patří	VB-S---3P-AA---	Pred
+16	distribuce	NNFS1-----A----	Sb
+17	světově	Dg-------1A----	Adv
+18	nejrozšířenějšího	AAIS2----3A----	Atr
+19	faxovacího	AAIS2----1A----	Atr
+20	programu	NNIS2-----A----	Atr
+21	pro	RR--4----------	AuxP
+22	Windows	NNIPX-----A----	Atr
+23	známého	AAIS2----1A----	Atr
+24	pod	RR--7----------	AuxP
+25	označením	NNNS7-----A----	Adv
+26	WinFax	NNIS1-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94211-1-p5s3
+1	Prodalo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	ho	PHZS2--3-------	Atr
+4	již	Db-------------	AuxZ
+5	přes	RR--4----------	AuxP
+6	tři	ClXP4----------	Atr
+7	miliony	NNIP4-----A----	Sb
+8	kusů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94211-1-p5s4
+1	Abakus	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	stal	VpYS---XR-AA---	Pred
+4	výhradním	AAMS7----1A----	Atr
+5	distributorem	NNMS7-----A----	Obj
+6	kanadské	AAFS2----1A----	Atr
+7	firmy	NNFS2-----A----	Atr
+8	s	RR--7----------	AuxP
+9	muzikálním	AAIS7----1A----	Atr
+10	názvem	NNIS7-----A----	Atr
+11	Legato	AAXXX----1A----	Atr
+12	Systems	NNIPX-----A----	Atr
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	se	P7-X4----------	AuxT
+16	specializuje	VB-S---3P-AA---	Atr
+17	na	RR--4----------	AuxP
+18	produkty	NNIP4-----A----	Obj
+19	pro	RR--4----------	AuxP
+20	zálohování	NNNS4-----A----	Atr
+21	a	J^-------------	Coord
+22	bezpečné	AANS4----1A----	Atr
+23	ukládání	NNNS4-----A----	Atr
+24	dat	NNNP2-----A----	Atr
+25	pro	RR--4----------	AuxP
+26	počítače	NNIP4-----A----	Atr
+27	pracující	AGIP4-----A----	Atr
+28	v	RR--6----------	AuxP
+29	síti	NNFS6-----A----	Adv
+30	.	Z:-------------	AuxK
+
+ln94211-1-p5s5
+1	Výhodou	NNFS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	data	NNNP4-----A----	Obj
+6	zálohovaná	AANP1----1A----	Atr
+7	v	RR--6----------	AuxP
+8	prostředí	NNNS6-----A----	Adv
+9	jedné	ClFS2----------	Atr
+10	sítě	NNFS2-----A----	Atr
+11	lze	VB-S---3P-AA---	Sb
+12	použít	Vf--------A----	Sb
+13	i	J^-------------	AuxZ
+14	v	RR--6----------	AuxP
+15	síti	NNFS6-----A----	Adv
+16	s	RR--7----------	AuxP
+17	jiným	AAIS7----1A----	Atr
+18	operačním	AAIS7----1A----	Atr
+19	systémem	NNIS7-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94211-1-p6s1
+1	SWS	NNIXX-----A---8	Atr
+2	Software	NNIS1-----A----	Sb
+3	uvedl	VpYS---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	náš	PSIS4-P1-------	Atr
+6	trh	NNIS4-----A----	Adv
+7	první	CrFS4----------	Atr
+8	interní	AAFS4----1A----	Atr
+9	CD	NNNXX-----A---8	Atr
+10	-	Z:-------------	AuxG
+11	ROM	NNIXX-----A---8	Atr
+12	mechaniku	NNFS4-----A----	Obj
+13	se	RV--7----------	AuxP
+14	čtyřnásobnou	AAFS7----1A----	Atr
+15	přenosovou	AAFS7----1A----	Atr
+16	rychlostí	NNFS7-----A----	Atr
+17	(	Z:-------------	AuxG
+18	tj	J^------------8	Apos
+19	.	Z:-------------	AuxG
+20	600	C=-------------	Atr
+21	KB	NNFXX-----A---8	Atr
+22	/	Z:-------------	AuxG
+23	s	NNFXX-----A---8	Atr
+24	)	Z:-------------	AuxG
+25	.	Z:-------------	AuxK
+
+ln94211-1-p6s2
+1	Jejím	PSZS7FS3-------	Atr
+2	výrobcem	NNMS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	společnost	NNFS1-----A----	Sb
+5	Plextor	NNIS1-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln94211-1-p6s3
+1	Jednotka	NNFS1-----A----	Sb
+2	nese	VB-S---3P-AA---	Pred
+3	označení	NNNS4-----A----	Obj
+4	4	C=-------------	Atr
+5	PLEX	NNIXX-----A---8	Atr
+6	PX	NNIXX-----A---8	Atr
+7	-	Z:-------------	AuxG
+8	43	C=-------------	Atr
+9	CH	NNNXX-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94211-1-p6s4
+1	Je	VB-S---3P-AA---	Pred
+2	vybavena	VsQW---XX-AP---	Pnom
+3	vyrovnávací	AAFS7----1A----	Atr
+4	pamětí	NNFS7-----A----	Obj
+5	o	RR--6----------	AuxP
+6	velikosti	NNFS6-----A----	Atr
+7	1	C=-------------	Atr
+8	MB	NNIXX-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94211-1-p6s5
+1	K	RR--3----------	AuxP
+2	dispozici	NNFS3-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	i	J^-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	externím	AANS6----1A----	Atr
+7	provedení	NNNS6-----A----	Adv
+8	.	Z:-------------	AuxK
+

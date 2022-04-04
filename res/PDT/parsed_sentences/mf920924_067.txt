@@ -1,0 +1,69 @@
+mf920924-067-p1s1
+1	UTAJOVANÝ	AAIS1----1A----	Atr
+2	AUTOMOBIL	NNIS1-----A----	Sb
+3	DELTA	NNFS1-----A----	Atr
+4	99	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	který	P4IS4----------	Obj
+7	hodlá	VB-S---3P-AA---	Atr
+8	společnost	NNFS1-----A----	Sb
+9	Auto	NNNS1-----A----	Atr
+10	Delta	NNFS1-----A----	Atr
+11	prodávat	Vf--------A----	Obj
+12	za	RR--4----------	AuxP
+13	99900	C=-------------	Adv
+14	korun	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	byl	VpYS---XR-AA---	AuxV
+17	včera	Db-------------	Adv
+18	odhalen	VsYS---XX-AP---	Pred
+19	.	Z:-------------	AuxK
+
+mf920924-067-p1s2
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	typ	NNIS4-----A----	Obj
+4	Fiat	NNIS1-----A----	Atr
+5	124	C=-------------	Atr
+6	ze	RV--2----------	AuxP
+7	šedesátých	CrNP2----------	Atr
+8	let	NNNP2-----A----	AtrAtr
+9	,	Z:-------------	AuxX
+10	podobný	AAIS4----1A----	Atr
+11	Ladě	NNFS3-----A----	Adv
+12	1200	C=-------------	Atr
+13	.	Z:-------------	AuxK
+
+mf920924-067-p1s3
+1	Vyrábí	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	licenčně	Dg-------1A----	Adv
+4	v	RR--6----------	AuxP
+5	Indii	NNFS6-----A----	Adv
+6	s	RR--7----------	AuxP
+7	motorem	NNIS7-----A----	Adv
+8	Nissan	NNIS1-----A----	Atr
+9	o	RR--6----------	AuxP
+10	obsahu	NNIS6-----A----	Atr
+11	1171	C=-------------	Atr
+12	ccm	NNIXX-----A---8	Atr
+13	.	Z:-------------	AuxK
+
+mf920924-067-p1s4
+1	Mnozí	AAMP1----1A----	Atr
+2	zákazníci	NNMP1-----A----	Sb
+3	však	J^-------------	Coord
+4	,	Z:-------------	AuxX
+5	aniž	J,-------------	AuxC
+6	jej	PPZS4--3------2	Obj
+7	viděli	VpMP---XR-AA---	Adv
+8	,	Z:-------------	AuxX
+9	už	Db-------------	AuxZ
+10	včera	Db-------------	Adv
+11	od	RR--2----------	AuxP
+12	rána	NNNS2-----A----	Adv
+13	skládali	VpMP---XR-AA---	Pred
+14	padesátitisícovou	AAFS4----1A----	Atr
+15	zálohu	NNFS4-----A----	Obj
+16	.	Z:-------------	AuxK
+

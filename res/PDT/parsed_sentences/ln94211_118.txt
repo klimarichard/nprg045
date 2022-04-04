@@ -1,0 +1,234 @@
+ln94211-118-p1s1
+1	Stížnosti	NNFP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	zásilkové	AAFP4----1A----	Atr
+4	služby	NNFP4-----A----	Atr
+5	rostou	VB-P---3P-AA---	Pred
+6	geometrickou	AAFS7----1A----	Atr
+7	řadou	NNFS7-----A----	Adv
+
+ln94211-118-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	dr	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94211-118-p2s1B
+1	Celých	AANP2----1A----	Atr
+2	30	C=-------------	Sb
+3	procent	NNNP2-----A----	Atr
+4	stížností	NNFP2-----A----	Atr
+5	občanů	NNMP2-----A----	Atr
+6	podaných	AAFP2----1A----	Atr
+7	České	AAFS3----1A----	Atr
+8	obchodní	AAFS3----1A----	Atr
+9	inspekci	NNFS3-----A----	Obj
+10	(	Z:-------------	Apos
+11	ČOI	NNFXX-----A---8	Obj
+12	)	Z:-------------	AuxG
+13	za	RR--4----------	AuxP
+14	prvních	CrIP2----------	Atr
+15	sedm	Cn-S4----------	Adv
+16	měsíců	NNIP2-----A----	Atr
+17	letošního	AAIS2----1A----	Atr
+18	roku	NNIS2-----A---1	Atr
+19	připadá	VB-S---3P-AA---	Pred
+20	na	RR--4----------	AuxP
+21	zásilkové	AAFP4----1A----	Atr
+22	služby	NNFP4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94211-118-p2s2
+1	Vloni	Db-------------	Adv
+2	to	PDNS1----------	Sb
+3	bylo	VpNS---XR-AA---	Pred
+4	18.5	C=-------------	Pnom
+5	procenta	NNNS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln94211-118-p2s3
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1993	C=-------------	Atr
+4	vyřizovala	VpQW---XR-AA---	Pred
+5	ČOI	NNFXX-----A---8	Sb
+6	přes	RR--4----------	AuxP
+7	pět	Cn-S4----------	Obj
+8	tisíc	ClXS2----------	Atr
+9	stížností	NNFP2-----A----	Atr
+10	,	Z:-------------	Coord
+11	letos	Db-------------	ExD
+12	od	RR--2----------	AuxP
+13	ledna	NNIS2-----A----	ExD
+14	do	RR--2----------	AuxP
+15	konce	NNIS2-----A----	ExD
+16	července	NNIS2-----A----	Atr
+17	už	Db-------------	AuxZ
+18	více	Dg-------2A----	ExD
+19	než	J,-------------	AuxC
+20	čtyři	ClXP4----------	Atr
+21	tisíce	NNIP4-----A----	ExD
+22	.	Z:-------------	AuxK
+
+ln94211-118-p3s1
+1	Ředitel	NNMS1-----A----	Atr
+2	ČOI	NNFXX-----A---8	Atr
+3	Pavel	NNMS1-----A----	Atr
+4	Čáslavský	NNMS1-----A----	Sb
+5	včera	Db-------------	Adv
+6	řekl	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	minulý	AAIS4----1A----	Atr
+10	týden	NNIS4-----A----	Adv
+11	nařídil	VpYS---XR-AA---	Obj
+12	kompletní	AAFS4----1A----	Atr
+13	plošnou	AAFS4----1A----	Atr
+14	kontrolu	NNFS4-----A----	Obj
+15	všech	PLXP2----------	Atr
+16	zasilatelských	AAFP2----1A----	Atr
+17	firem	NNFP2-----A----	Atr
+18	působících	AGFP2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	České	AAFS6----1A----	Atr
+21	republice	NNFS6-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln94211-118-p3s2
+1	Výsledky	NNIP4-----A----	Obj
+2	kontroly	NNFS2-----A----	Atr
+3	oznámí	VB-S---3P-AA---	Pred
+4	do	RR--2----------	AuxP
+5	dvou	ClXP2----------	Atr
+6	měsíců	NNIP2-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94211-118-p4s1
+1	V	RR--6----------	AuxP
+2	ČR	NNFXX-----A---8	Adv
+3	podniká	VB-S---3P-AA---	Pred
+4	80	C=-------------	Sb
+5	zásilkových	AAFP2----1A----	Atr
+6	firem	NNFP2-----A----	Atr
+7	,	Z:-------------	Coord
+8	nejvíce	Dg-------3A----	ExD
+9	v	RR--6----------	AuxP
+10	Praze	NNFS6-----A----	ExD
+11	,	Z:-------------	AuxX
+12	kde	Db-------------	Adv
+13	jich	PPXP2--3-------	Atr
+14	působí	VB-S---3P-AA---	Atr
+15	35	C=-------------	Sb
+16	.	Z:-------------	AuxK
+
+ln94211-118-p4s2
+1	Činnost	NNFS1-----A----	Sb
+2	zásilkových	AAFP2----1A----	Atr
+3	společností	NNFP2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	měla	VpQW---XR-AA---	Obj
+6	být	Vf--------A----	AuxV
+7	zvlášť	Db-------------	Adv
+8	upravena	VsQW---XX-AP---	Obj
+9	buď	J^-------------	AuxY
+10	v	RR--6----------	AuxP
+11	zákoně	NNIS6-----A----	Adv
+12	na	RR--4----------	AuxP
+13	ochranu	NNFS4-----A----	Atr
+14	spotřebitele	NNMS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	nebo	J^-------------	Coord
+17	v	RR--6----------	AuxP
+18	živnostenském	AAIS6----1A----	Atr
+19	zákoně	NNIS6-----A----	Adv
+20	,	Z:-------------	AuxX
+21	uvedl	VpYS---XR-AA---	Pred
+22	Čáslavský	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln94211-118-p4s3
+1	Mnohé	AAFP1----1A----	ExD
+2	pomocí	RR--2----------	AuxP
+3	zavádějící	AGFS2-----A----	Atr
+4	a	J^-------------	Coord
+5	ohlupující	AGFS2-----A----	Atr
+6	reklamy	NNFS2-----A----	Adv
+7	nabízejí	VB-P---3P-AA---	Pred
+8	za	RR--4----------	AuxP
+9	zdánlivě	Dg-------1A----	Adv
+10	výhodné	AAFP4----1A----	Atr
+11	ceny	NNFP4-----A----	Adv
+12	zboží	NNNS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	které	P4NS1----------	Sb
+15	zdaleka	Db-------------	Adv
+16	neodpovídá	VB-S---3P-NA---	Atr
+17	inzerované	AAFS3----1A----	Atr
+18	kvalitě	NNFS3-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94211-118-p4s4
+1	Od	RR--2----------	AuxP
+2	července	NNIS2-----A----	Adv
+3	provádí	VB-S---3P-AA---	Pred
+4	ČOI	NNFXX-----A---8	Sb
+5	test	NNIS4-----A----	Obj
+6	spotřebitelský	AAIS1----1A----	Atr
+7	koš	NNIS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	je	VB-S---3P-AA---	Atr
+11	zaměřen	VsYS---XX-AP---	Pnom
+12	na	RR--4----------	AuxP
+13	kontrolní	AAIP4----1A----	Atr
+14	nákupy	NNIP4-----A----	Obj
+15	rozdílných	AAIP2----1A----	Atr
+16	potravinářských	AAIP2----1A----	Atr
+17	a	J^-------------	Coord
+18	drogistických	AAIP2----1A----	Atr
+19	výrobků	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94211-118-p4s5
+1	První	CrIS4----------	Atr
+2	nákup	NNIS4-----A----	Obj
+3	realizovala	VpQW---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	severních	AAFP6----1A----	Atr
+6	Čechách	NNFP6-----A----	Adv
+7	,	Z:-------------	Coord
+8	postupně	Dg-------1A----	Adv
+9	ho	PHZS4--3-------	Obj
+10	pořídí	VB-S---3P-AA---	Pred
+11	ve	RV--6----------	AuxP
+12	všech	PLXP6----------	Atr
+13	částech	NNFP6-----A----	Adv
+14	ČR	NNFXX-----A---8	Atr
+15	.	Z:-------------	AuxK
+
+ln94211-118-p4s6
+1	Ze	RV--2----------	AuxP
+2	17	C=-------------	Atr
+3	výrobků	NNIP2-----A----	Adv
+4	nevyhověl	VpYS---XR-NA---	Pred
+5	po	RR--6----------	AuxP
+6	mikrobiologické	AAFS6----1A----	Atr
+7	stránce	NNFS6-----A----	Adv
+8	jablečný	AAIS1----1A----	Atr
+9	mošt	NNIS1-----A----	Sb
+10	z	RR--2----------	AuxP
+11	Labeny	NNFS2-----A----	Atr
+12	Žatec	NNIS1-----A----	Atr
+13	a	J^-------------	Coord
+14	Bohušovické	AANS1----1A----	Atr
+15	máslo	NNNS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	které	P4NS1----------	Sb
+18	mělo	VpNS---XR-AA---	Atr
+19	navíc	Db-------------	Adv
+20	vyšší	AAIS4----2A----	Atr
+21	obsah	NNIS4-----A----	Obj
+22	vody	NNFS2-----A----	Atr
+23	.	Z:-------------	AuxK
+

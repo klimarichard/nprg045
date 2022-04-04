@@ -1,0 +1,99 @@
+mf920923-130-p1s1
+1	Úvěry	NNIP1-----A----	Sb
+2	Ukrajině	NNFS3-----A----	Atr
+3	zatím	Db-------------	Adv
+4	zastaveny	VsTP---XX-AP---	Pred
+
+mf920923-130-p2s1
+1	RUSKO	NNNS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf920923-130-p4s1
+1	Moskva	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920923-130-p4s2
+1	Ruská	AAFS1----1A----	Atr
+2	ústřední	AAFS1----1A----	Atr
+3	banka	NNFS1-----A----	Sb
+4	pozastavila	VpQW---XR-AA---	Pred
+5	úvěry	NNIP4-----A----	Obj
+6	poskytované	AAIP4----1A----	Atr
+7	Ukrajině	NNFS3-----A----	Obj
+8	,	Z:-------------	AuxX
+9	dokud	J,-------------	Adv
+10	obě	ClHP1----------	Atr
+11	země	NNFP1-----A----	Sb
+12	neuzavřou	VB-P---3P-NA---	Adv
+13	dohodu	NNFS4-----A----	Obj
+14	o	RR--6----------	AuxP
+15	způsobech	NNIP6-----A----	Atr
+16	platby	NNFS2-----A----	Atr
+17	za	RR--4----------	AuxP
+18	dodávky	NNFP4-----A----	Atr
+19	zboží	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf920923-130-p4s3
+1	Rusko	NNNS1-----A----	Sb
+2	tak	Db-------------	Adv
+3	reagovalo	VpNS---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	podstatné	AANS4----1A----	Atr
+6	zhoršení	NNNS4-----A----	Obj
+7	všeobecné	AAFS2----1A----	Atr
+8	finanční	AAFS2----1A----	Atr
+9	situace	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	jež	PJFS1----------	Sb
+12	je	VB-S---3P-AA---	Atr
+13	důsledkem	NNIS7-----A----	Pnom
+14	neurovnaných	AAIP2----1N----	Atr
+15	vztahů	NNIP2-----A----	Atr
+16	mezi	RR--7----------	AuxP
+17	Ruskou	AAFS7----1A----	Atr
+18	federací	NNFS7-----A----	Atr
+19	a	J^-------------	Coord
+20	Ukrajinou	NNFS7-----A----	Atr
+21	,	Z:-------------	AuxX
+22	pokud	J,-------------	AuxC
+23	jde	VB-S---3P-AA---	Adv
+24	o	RR--4----------	AuxP
+25	úvěrové	AAFP4----1A----	Atr
+26	a	J^-------------	Coord
+27	finanční	AAFP4----1A----	Atr
+28	emise	NNFP4-----A----	Obj
+29	.	Z:-------------	AuxK
+
+mf920923-130-p4s4
+1	Dohoda	NNFS1-----A----	Sb
+2	mezi	RR--7----------	AuxP
+3	finančními	AAIP7----1A----	Atr
+4	ústavy	NNIP7-----A----	Atr
+5	Ruska	NNNS2-----A----	Atr
+6	a	J^-------------	Coord
+7	Ukrajiny	NNFS2-----A----	Atr
+8	vedla	VpQW---XR-AA---	Pred
+9	k	RR--3----------	AuxP
+10	tomu	PDZS3----------	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	na	RR--4----------	AuxP
+14	ruský	AAIS4----1A----	Atr
+15	trh	NNIS4-----A----	Adv
+16	bylo	VpNS---XR-AA---	AuxV
+17	v	RR--6----------	AuxP
+18	září	NNNS6-----A----	Adv
+19	Ukrajinou	NNFS7-----A----	Obj
+20	vrženo	VsNS---XX-AP---	Atr
+21	asi	TT-------------	AuxZ
+22	96	C=-------------	Sb
+23	miliard	NNFP2-----A----	Atr
+24	rublů	NNIP2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	které	P4IP1----------	Sb
+27	nebyly	VpTP---XR-NA---	Atr
+28	kryty	VsTP---XX-AP---	Pnom
+29	zbožím	NNNS7-----A----	Adv
+30	.	Z:-------------	AuxK
+

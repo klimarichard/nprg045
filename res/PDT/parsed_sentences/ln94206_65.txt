@@ -1,0 +1,512 @@
+ln94206-65-p1s1
+1	Z	RR--2----------	AuxP
+2	věřitele	NNMS2-----A----	ExD
+3	dlužníkem	NNMS7-----A----	ExD
+
+ln94206-65-p2s1A
+1	Poznámka	NNFS1-----A----	ExD
+
+ln94206-65-p2s1B
+1	Jiří	NNMS1-----A----	Atr
+2	Pinka	NNMS1-----A----	ExD
+
+ln94206-65-p2s1C
+1	Česká	AAFS1----1A----	Atr
+2	republika	NNFS1-----A----	Sb
+3	zaplatí	VB-S---3P-AA---	Pred
+4	Slovensku	NNNS3-----A----	Obj
+5	již	Db-------------	AuxZ
+6	druhý	CrIS4----------	Atr
+7	měsíc	NNIS4-----A----	Adv
+8	po	RR--6----------	AuxP
+9	sobě	P6-X6----------	Atr
+10	částku	NNFS4-----A----	Obj
+11	ve	RV--6----------	AuxP
+12	volně	Dg-------1A----	Adv
+13	směnitelné	AAFS6----1A----	Atr
+14	měně	NNFS6-----A----	Atr
+15	za	RR--4----------	AuxP
+16	překročení	NNNS4-----A----	Atr
+17	mezní	AAFS2----1A----	Atr
+18	hranice	NNFS2-----A----	Atr
+19	úvěru	NNIS2-----A----	Atr
+20	vzájemného	AANS2----1A----	Atr
+21	clearingového	AANS2----1A----	Atr
+22	zúčtování	NNNS2-----A----	Atr
+23	obchodu	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94206-65-p2s2
+1	Mezivládní	AAFS1----1A----	Atr
+2	dohoda	NNFS1-----A----	Sb
+3	dovoluje	VB-S---3P-AA---	Pred
+4	pasivum	NNNS4-----A----	Obj
+5	ve	RV--6----------	AuxP
+6	výši	NNFS6-----A----	Atr
+7	130	C=-------------	Atr
+8	milionů	NNIP2-----A----	Atr
+9	ECU	NNNXX-----A---8	Atr
+10	,	Z:-------------	AuxX
+11	které	P4NS4----------	Obj
+12	ČR	NNFXX-----A---8	Sb
+13	poslední	AAIS4----1A----	Atr
+14	srpnový	AAIS4----1A----	Atr
+15	den	NNIS4-----A----	Adv
+16	překročila	VpQW---XR-AA---	Atr
+17	o	RR--4----------	AuxP
+18	77.99	C=-------------	Adv
+19	milionů	NNIP2-----A----	Atr
+20	ECU	NNNXX-----A---8	Atr
+21	(	Z:-------------	Apos
+22	zhruba	Db-------------	AuxZ
+23	94	C=-------------	Adv
+24	milionů	NNIP2-----A----	Atr
+25	amerických	AAIP2----1A----	Atr
+26	dolarů	NNIP2-----A----	Atr
+27	)	Z:-------------	AuxG
+28	.	Z:-------------	AuxK
+
+ln94206-65-p2s3
+1	Tuto	PDFS4----------	Atr
+2	částku	NNFS4-----A----	Obj
+3	dostane	VB-S---3P-AA---	Pred
+4	podle	RR--2----------	AuxP
+5	vyjádření	NNNS2-----A----	Adv
+6	České	AAFS2----1A----	Atr
+7	národní	AAFS2----1A----	Atr
+8	banky	NNFS2-----A----	Atr
+9	(	Z:-------------	Apos
+10	ČNB	NNFXX-----A---8	Atr
+11	)	Z:-------------	AuxG
+12	slovenský	AAMS1----1A----	Atr
+13	partner	NNMS1-----A----	Sb
+14	v	RR--6----------	AuxP
+15	následujících	AGIP6-----A----	Atr
+16	dnech	NNIP6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94206-65-p2s4
+1	V	RR--6----------	AuxP
+2	červenci	NNIS6-----A----	Adv
+3	překročila	VpQW---XR-AA---	Pred
+4	česká	AAFS1----1A----	Atr
+5	strana	NNFS1-----A----	Sb
+6	mezní	AAFS4----1A----	Atr
+7	hranici	NNFS4-----A----	Obj
+8	úvěru	NNIS2-----A----	Atr
+9	pouze	Db-------------	AuxZ
+10	o	RR--4----------	AuxP
+11	nepatrnou	AAFS4----1N----	Atr
+12	částku	NNFS4-----A----	Adv
+13	65	C=-------------	Atr
+14	tisíc	ClXS2----------	Atr
+15	ECU	NNNXX-----A---8	Atr
+16	-	Z:-------------	AuxG
+17	a	J^-------------	Coord
+18	byla	VpQW---XR-AA---	AuxV
+19	včas	Db-------------	Adv
+20	zaplacena	VsQW---XX-AP---	Pred
+21	.	Z:-------------	AuxK
+
+ln94206-65-p3s1
+1	Vývoj	NNIS1-----A----	Sb
+2	platebních	AAIP2----1A----	Atr
+3	vztahů	NNIP2-----A----	Atr
+4	mezi	RR--7----------	AuxP
+5	oběma	ClXP7----------	Atr
+6	státy	NNIP7-----A----	Atr
+7	tak	Db-------------	Adv
+8	v	RR--6----------	AuxP
+9	poslední	AAFS6----1A----	Atr
+10	době	NNFS6-----A----	Adv
+11	změnil	VpYS---XR-AA---	Pred
+12	Českou	AAFS4----1A----	Atr
+13	republiku	NNFS4-----A----	Obj
+14	z	RR--2----------	AuxP
+15	věřitele	NNMS2-----A----	Obj
+16	v	RR--4----------	AuxP
+17	dlužníka	NNMS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln94206-65-p3s2
+1	Přitom	Db-------------	Adv
+2	české	AANS1----1A----	Atr
+3	pasivum	NNNS1-----A----	Sb
+4	narůstá	VB-S---3P-AA---	Pred
+5	na	RR--6----------	AuxP
+6	clearingovém	AAIS6----1A----	Atr
+7	účtu	NNIS6-----A----	Adv
+8	již	Db-------------	AuxZ
+9	od	RR--2----------	AuxP
+10	začátku	NNIS2-----A----	Adv
+11	května	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94206-65-p3s3
+1	Potvrzuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	tak	Db-------------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	slovenská	AANP1----1A----	Atr
+7	opatření	NNNP1-----A----	Sb
+8	na	RR--4----------	AuxP
+9	ochranu	NNFS4-----A----	Atr
+10	platební	AAFS2----1A----	Atr
+11	bilance	NNFS2-----A----	Atr
+12	jsou	VB-P---3P-AA---	Sb
+13	účinná	AANP1----1A----	Pnom
+14	.	Z:-------------	AuxK
+
+ln94206-65-p3s4
+1	Přestože	J,-------------	AuxC
+2	v	RR--6----------	AuxP
+3	červenci	NNIS6-----A----	Adv
+4	1993	C=-------------	Atr
+5	devalvovala	VpQW---XR-AA---	Adv
+6	slovenská	AAFS1----1A----	Atr
+7	koruna	NNFS1-----A----	Sb
+8	o	RR--4----------	AuxP
+9	10	C=-------------	Adv
+10	%	Z:-------------	Atr
+11	a	J^-------------	Coord
+12	začátkem	NNIS7-----A----	AuxP
+13	loňského	AAIS2----1A----	Atr
+14	prosince	NNIS2-----A----	Adv
+15	devalvovala	VpQW---XR-AA---	Adv
+16	Bratislava	NNFS1-----A----	Sb
+17	svou	P8FS4---------1	Atr
+18	měnu	NNFS4-----A----	Obj
+19	vůči	RR--3----------	AuxP
+20	clearingovému	AANS3----1A----	Atr
+21	ECU	NNNXX-----A---8	Adv
+22	o	RR--4----------	AuxP
+23	dalších	AANP2----1A----	Atr
+24	pět	Cn-S4----------	Adv
+25	procent	NNNP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	musela	VpQW---XR-AA---	Pred
+28	České	AAFS3----1A----	Atr
+29	republice	NNFS3-----A----	Obj
+30	zaplatit	Vf--------A----	Obj
+31	v	RR--6----------	AuxP
+32	lednu	NNIS6-----A----	Adv
+33	a	J^-------------	Coord
+34	v	RR--6----------	AuxP
+35	únoru	NNIS6-----A----	Adv
+36	ve	RV--6----------	AuxP
+37	tvrdé	AAFS6----1A----	Atr
+38	měně	NNFS6-----A----	Adv
+39	celkem	Db-------------	AuxZ
+40	90	C=-------------	Obj
+41	milionů	NNIP2-----A----	Atr
+42	dolarů	NNIP2-----A----	Atr
+43	.	Z:-------------	AuxK
+
+ln94206-65-p3s5
+1	Následně	Dg-------1A----	Adv
+2	v	RR--6----------	AuxP
+3	březnu	NNIS6-----A----	Adv
+4	zavedlo	VpNS---XR-AA---	Pred
+5	Slovensko	NNNS1-----A----	Sb
+6	desetiprocentní	AAFS4----1A----	Atr
+7	dovozní	AAFS4----1A----	Atr
+8	přirážku	NNFS4-----A----	Obj
+9	a	J^-------------	Coord
+10	začaly	VpTP---XR-AA---	Pred
+11	známé	AAFP1----1A----	Atr
+12	obstrukce	NNFP1-----A----	Sb
+13	s	RR--7----------	AuxP
+14	certifikáty	NNIP7-----A----	Atr
+15	potravin	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94206-65-p4s1
+1	Zatímco	J,-------------	AuxC
+2	zavedení	NNNS4-----A----	Obj
+3	přirážky	NNFS2-----A----	Atr
+4	lze	VB-S---3P-AA---	Adv
+5	chápat	Vf--------A----	Sb
+6	jako	J,-------------	AuxY
+7	systémové	AANS4----1A----	Atr
+8	opatření	NNNS4-----A----	Atv
+9	,	Z:-------------	AuxX
+10	je	VB-S---3P-AA---	Pred
+11	certifikace	NNFS1-----A----	Sb
+12	potravin	NNFP2-----A----	Atr
+13	umělou	AAFS7----1A----	Atr
+14	bariérou	NNFS7-----A----	Pnom
+15	obchodu	NNIS3-----A----	Atr
+16	,	Z:-------------	AuxX
+17	kterou	P4FS4----------	Obj
+18	celní	AAFS1----1A----	Atr
+19	unie	NNFS1-----A----	Sb
+20	nedokázala	VpQW---XR-NA---	Atr
+21	uspokojivě	Dg-------1A----	Adv
+22	vyřešit	Vf--------A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94206-65-p4s2
+1	Slovensko	NNNS1-----A----	Sb
+2	tak	Db-------------	Adv
+3	ochraňuje	VB-S---3P-AA---	Pred
+4	domácí	AAFS4----1A----	Atr
+5	zemědělskou	AAFS4----1A----	Atr
+6	výrobu	NNFS4-----A----	Obj
+7	a	J^-------------	Coord
+8	zpracovatele	NNMP4-----A----	Obj
+9	před	RR--7----------	AuxP
+10	českou	AAFS7----1A----	Atr
+11	konkurencí	NNFS7-----A----	Obj
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	často	Dg-------1A----	Adv
+15	i	J^-------------	AuxZ
+16	přes	RR--4----------	AuxP
+17	kurzové	AAIP4----1A----	Atr
+18	rozdíly	NNIP4-----A----	Adv
+19	disponuje	VB-S---3P-AA---	Atr
+20	komparativními	AAFP7----1A----	Atr
+21	výhodami	NNFP7-----A----	Obj
+22	.	Z:-------------	AuxK
+
+ln94206-65-p5s1
+1	Dnes	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	již	Db-------------	Adv
+4	zřejmé	AANS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	dohoda	NNFS1-----A----	Sb
+8	o	RR--6----------	AuxP
+9	vzájemném	AANS6----1A----	Atr
+10	uznávání	NNNS6-----A----	Atr
+11	certifikátů	NNIP2-----A----	Atr
+12	je	VB-S---3P-AA---	Sb
+13	v	RR--6----------	AuxP
+14	nedohlednu	NNNS6-----A---1	Adv
+15	a	J^-------------	Coord
+16	česko	A2--------A----	Atr
+17	-	Z:-------------	Coord
+18	slovenský	AAIS1----1A----	Atr
+19	obchod	NNIS1-----A----	Sb
+20	bude	VB-S---3F-AA---	AuxV
+21	nadále	Db-------------	Adv
+22	klesat	Vf--------A----	Sb
+23	.	Z:-------------	AuxK
+
+ln94206-65-p5s2
+1	Podle	RR--2----------	AuxP
+2	ČNB	NNFXX-----A---8	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	při	RR--6----------	AuxP
+5	clearingovém	AANS6----1A----	Atr
+6	zúčtování	NNNS6-----A----	Adv
+7	významné	AAFP1----1A----	Pnom
+8	také	Db-------------	Adv
+9	platby	NNFP1-----A----	Sb
+10	z	RR--2----------	AuxP
+11	ČR	NNFXX-----A---8	Atr
+12	za	RR--4----------	AuxP
+13	tranzit	NNIS4-----A----	Atr
+14	ropy	NNFS2-----A----	Atr
+15	a	J^-------------	Coord
+16	plynu	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94206-65-p5s3
+1	Opětovné	AANS1----1A----	Atr
+2	převýšení	NNNS1-----A----	Sb
+3	hranice	NNFS2-----A----	Atr
+4	mezního	AAIS2----1A----	Atr
+5	úvěru	NNIS2-----A----	Atr
+6	českou	AAFS7----1A----	Atr
+7	stranou	NNFS7-----A----	Atr
+8	není	VB-S---3P-NA---	Pred
+9	nic	PW--1----------	Pnom
+10	tragického	AANS2----1A----	Atr
+11	,	Z:-------------	AuxX
+12	protože	J,-------------	AuxC
+13	devizové	AAFP1----1A----	Atr
+14	rezervy	NNFP1-----A----	Sb
+15	státu	NNIS2-----A----	Atr
+16	stále	Db-------------	Adv
+17	rostou	VB-P---3P-AA---	Adv
+18	.	Z:-------------	AuxK
+
+ln94206-65-p5s4
+1	Pravděpodobné	AANS1----1A----	Atr
+2	další	AANS1----1A----	Atr
+3	překračování	NNNS1-----A----	Sb
+4	hranice	NNFS2-----A----	Atr
+5	130	C=-------------	Atr
+6	milionů	NNIP2-----A----	Atr
+7	ECU	NNNXX-----A---8	Atr
+8	však	J^-------------	Coord
+9	určitě	Dg-------1A----	Adv
+10	české	AAFS3----1A----	Atr
+11	straně	NNFS3-----A----	Obj
+12	nevyhovuje	VB-S---3P-NA---	Pred
+13	.	Z:-------------	AuxK
+
+ln94206-65-p5s5
+1	Očekávaná	AAFS1----1A----	Atr
+2	revize	NNFS1-----A----	Sb
+3	platební	AAFS2----1A----	Atr
+4	dohody	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	AuxV
+6	však	J^-------------	Coord
+7	stále	Db-------------	Adv
+8	odkládána	VsQW---XX-AP---	Pred
+9	.	Z:-------------	AuxK
+
+ln94206-65-p5s6
+1	Od	RR--2----------	AuxP
+2	měnové	AAFS2----1A----	Atr
+3	odluky	NNFS2-----A----	Adv
+4	existuje	VB-S---3P-AA---	Pred
+5	ještě	Db-------------	Adv
+6	tzv	AAXXX----1A---8	Atr
+7	.	Z:-------------	AuxG
+8	starý	AAIS1----1A----	Atr
+9	blok	NNIS1-----A----	Sb
+10	clearingu	NNIS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	původním	AAIS6----1A----	Atr
+13	kurzu	NNIS6-----A---1	AtrAtr
+14	1	C=-------------	Atr
+15	:	Z:-------------	Coord
+16	1	C=-------------	Atr
+17	a	J^-------------	Coord
+18	hovoří	VB-S---3P-AA---	Pred
+19	se	P7-X4----------	AuxR
+20	o	RR--6----------	AuxP
+21	nejasných	AAFP6----1N----	Atr
+22	platbách	NNFP6-----A----	Obj
+23	,	Z:-------------	AuxX
+24	které	P4FP4----------	Obj
+25	podniky	NNIP1-----A----	Sb
+26	směrují	VB-P---3P-AA---	Atr
+27	mimo	RR--4----------	AuxP
+28	clearing	NNIS4-----A----	Adv
+29	.	Z:-------------	AuxK
+
+ln94206-65-p6s1
+1	O	RR--6----------	AuxP
+2	budoucnosti	NNFS6-----A----	Obj
+3	clearingu	NNIS2-----A----	Atr
+4	by	Vc-------------	AuxV
+5	měli	VpMP---XR-AA---	Pred
+6	rozhodnout	Vf--------A----	Obj
+7	ministři	NNMP1-----A----	Atr
+8	financí	NNFP2-----A----	Atr
+9	Kočárník	NNMS1-----A----	Sb
+10	a	J^-------------	Coord
+11	Filkus	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94206-65-p6s2
+1	Jejich	PSXXXXP3-------	Atr
+2	setkání	NNNS1-----A----	Sb
+3	se	P7-X4----------	AuxR
+4	pravděpodobně	Dg-------1A----	AuxY
+5	uskuteční	VB-S---3P-AA---	Pred
+6	příští	AAIS4----1A----	Atr
+7	týden	NNIS4-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln94206-65-p6s3
+1	Ať	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	již	Db-------------	AuxY
+4	dohodnou	VB-P---3P-AA---	Adv
+5	jakkoli	Db------------1	Adv
+6	,	Z:-------------	AuxX
+7	pouhá	AAFS1----1A----	Atr
+8	úprava	NNFS1-----A----	Sb
+9	kurzových	AAIP2----1A----	Atr
+10	rozdílů	NNIP2-----A----	Atr
+11	a	J^-------------	Coord
+12	zrušení	NNNS1-----A----	Sb
+13	starého	AAIS2----1A----	Atr
+14	bloku	NNIS2-----A----	Atr
+15	může	VB-S---3P-AA---	Pred
+16	znamenat	Vf--------A----	Obj
+17	pouze	Db-------------	AuxZ
+18	krátkodobé	AANS4----1A----	Atr
+19	řešení	NNNS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94206-65-p6s4
+1	Celní	AAFS1----1A----	Atr
+2	unie	NNFS1-----A----	Sb
+3	se	RV--7----------	AuxP
+4	Slovenskem	NNNS7-----A----	Atr
+5	-	Z:-------------	AuxG
+6	i	J^-------------	AuxZ
+7	přes	RR--4----------	AuxP
+8	proklamace	NNFP4-----A----	Adv
+9	o	RR--6----------	AuxP
+10	důležitosti	NNFS6-----A----	Atr
+11	vzájemné	AAFS2----1A----	Atr
+12	výměny	NNFS2-----A----	Atr
+13	zboží	NNNS2-----A----	Atr
+14	-	Z:-------------	AuxG
+15	s	RR--7----------	AuxP
+16	pokračujícími	AGIP7-----A----	Atr
+17	zásahy	NNIP7-----A----	Adv
+18	slovenské	AAFS2----1A----	Atr
+19	strany	NNFS2-----A----	Atr
+20	do	RR--2----------	AuxP
+21	svobody	NNFS2-----A----	Atr
+22	obchodu	NNIS2-----A----	Atr
+23	zvolna	Db-------------	Adv
+24	umírá	VB-S---3P-AA---	Pred
+25	.	Z:-------------	AuxK
+
+ln94206-65-p6s5
+1	Na	RR--6----------	AuxP
+2	tom	PDZS6----------	Adv
+3	lze	VB-S---3P-AA---	Pred
+4	za	RR--2----------	AuxP
+5	současných	AAFP2----1A----	Atr
+6	podmínek	NNFP2-----A----	Adv
+7	těžko	Db-------------	Adv
+8	něco	PZ--4----------	Obj
+9	změnit	Vf--------A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94206-65-p7s1
+1	S	RR--7----------	AuxP
+2	dlouhodobou	AAFS7----1A----	Atr
+3	perspektivou	NNFS7-----A----	Obj
+4	narovnání	NNNS2-----A----	Atr
+5	pokřivených	AAIP2----1A----	Atr
+6	obchodních	AAIP2----1A----	Atr
+7	vztahů	NNIP2-----A----	Atr
+8	se	RV--7----------	AuxP
+9	Slovenskem	NNNS7-----A----	Atr
+10	je	VB-S---3P-AA---	Pred
+11	možné	AANS1----1A----	Pnom
+12	počítat	Vf--------A----	Sb
+13	pouze	Db-------------	AuxZ
+14	v	RR--6----------	AuxP
+15	rámci	NNIS6-----A----	AuxP
+16	širšího	AANS2----2A----	Atr
+17	uskupení	NNNS2-----A----	Adv
+18	,	Z:-------------	AuxX
+19	jakým	P4ZS7----------	Pnom
+20	je	VB-S---3P-AA---	Atr
+21	Středoevropská	AAFS1----1A----	Atr
+22	dohoda	NNFS1-----A----	Sb
+23	o	RR--6----------	AuxP
+24	volném	AAIS6----1A----	Atr
+25	obchodu	NNIS6-----A---1	Atr
+26	(	Z:-------------	Apos
+27	CEFTA	NNFXX-----A---8	Sb
+28	)	Z:-------------	AuxG
+29	nebo	J^-------------	Coord
+30	Evropská	AAFS1----1A----	Atr
+31	unie	NNFS1-----A----	Sb
+32	.	Z:-------------	AuxK
+

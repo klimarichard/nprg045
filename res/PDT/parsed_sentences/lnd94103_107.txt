@@ -1,0 +1,195 @@
+lnd94103-107-p1s1A
+1	Rozhodnutí	NNNS1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	poslední	AAFS4----1A----	Atr
+4	chvíli	NNFS4-----A----	Atr
+
+lnd94103-107-p1s1B
+1	Charouz	NNMS1-----A----	Sb
+2	pojede	VB-S---3F-AA---	Pred
+3	s	RR--7----------	AuxP
+4	'	Z:-------------	AuxG
+5	enkem	NNNS7-----A----	Adv
+6	'	Z:-------------	AuxG
+7	a	J^-------------	Coord
+8	na	RR--4----------	AuxP
+9	Pikes	AAXXX----1A----	Adv
+10	Peak	NNIXX-----A----	Atr
+11	se	P7-X4----------	AuxT
+12	vrátí	VB-S---3P-AA---	Pred
+
+lnd94103-107-p1s1C
+1	Konec	NNIS1-----A----	ExD
+2	podtitulku	NNIS2-----A----	Atr
+
+lnd94103-107-p1s1D
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	šc	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94103-107-p1s1E
+1	Dnes	Db-------------	Adv
+2	odjíždí	VB-S---3P-AA---	Pred
+3	automobilový	AAMS1----1A----	Atr
+4	závodník	NNMS1-----A----	Atr
+5	Antonín	NNMS1-----A----	Atr
+6	Charouz	NNMS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	barvách	NNFP6-----A----	Adv
+9	týmu	NNIS2-----A----	Atr
+10	Marlboro	NNNS1-----A----	Atr
+11	do	RR--2----------	AuxP
+12	Colorado	NNNXX-----A----	Adv
+13	Springs	NNIS1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	aby	J,-------------	AuxC
+16	zde	Db-------------	Adv
+17	poprvé	Cv-------------	Adv
+18	trénoval	VpYS---XR-AA---	Adv
+19	na	RR--4----------	AuxP
+20	slavný	AAIS4----1A----	Atr
+21	závod	NNIS4-----A----	Adv
+22	do	RR--2----------	AuxP
+23	vrchu	NNIS2-----A----	Atr
+24	na	RR--6----------	AuxP
+25	Pikes	AAXXX----1A----	Atr
+26	Peak	NNIXX-----A----	Atr
+27	,	Z:-------------	AuxX
+28	jehož	P1XXXZS3-------	Atr
+29	ostrý	AAIS1----1A----	Atr
+30	start	NNIS1-----A----	Sb
+31	bude	VB-S---3F-AA---	Atr
+32	4	C=-------------	Atr
+33	.	Z:-------------	AuxG
+34	7	C=-------------	Adv
+35	.	Z:-------------	AuxK
+
+lnd94103-107-p1s2
+1	Na	RR--4----------	AuxP
+2	poslední	AAFS4----1A----	Atr
+3	chvíli	NNFS4-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	rozhodl	VpYS---XR-AA--1	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	nepojede	VB-S---3F-NA---	Obj
+9	ve	RV--6----------	AuxP
+10	třídě	NNFS6-----A----	Adv
+11	A	NNNXX-----A----	Atr
+12	,	Z:-------------	AuxX
+13	nýbrž	J^-------------	Coord
+14	s	RR--7----------	AuxP
+15	Fordem	NNIS7-----A----	ExD
+16	Coswort	AAXXX----1A----	Atr
+17	Escorth	NNIS1-----A----	Atr
+18	ve	RV--6----------	AuxP
+19	třídě	NNFS6-----A----	ExD
+20	N	NNNXX-----A----	Atr
+21	,	Z:-------------	AuxX
+22	tedy	Db-------------	Apos
+23	s	RR--7----------	AuxP
+24	menšími	AAFP7----2A----	Atr
+25	povolenými	AAFP7----1A----	Atr
+26	úpravami	NNFP7-----A----	ExD
+27	.	Z:-------------	AuxK
+
+lnd94103-107-p1s3
+1	"	Z:-------------	AuxG
+2	Chtěl	VpYS---XR-AA---	Obj
+3	bych	Vc-S---1-------	AuxV
+4	vyhrát	Vf--------A----	Obj
+5	třídu	NNFS4-----A----	Obj
+6	a	J^-------------	Coord
+7	nasbírat	Vf--------A----	Obj
+8	zkušenosti	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	abych	J,-S---1-------	AuxC
+11	za	RR--4----------	AuxP
+12	rok	NNIS4-----A----	Adv
+13	vyhrál	VpYS---XR-AA---	Adv
+14	alespoň	Db-------------	AuxZ
+15	mezi	RR--7----------	AuxP
+16	cestovními	AAIP7----1A----	Atr
+17	automobily	NNIP7-----A----	Adv
+18	,	Z:-------------	AuxX
+19	"	Z:-------------	AuxG
+20	shrnul	VpYS---XR-AA---	Pred
+21	stručně	Dg-------1A----	Adv
+22	svůj	P8IS4----------	Atr
+23	cíl	NNIS4-----A----	Obj
+24	A	NNMXX-----A---8	Atr
+25	.	Z:-------------	AuxG
+26	Charouz	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+lnd94103-107-p1s4
+1	Znamená	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	mimo	RR--4----------	AuxP
+4	jiné	AANS4----1A----	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	původně	Dg-------1A----	Adv
+8	ohlášený	AAIS1----1A----	Atr
+9	konec	NNIS1-----A----	Sb
+10	kariéry	NNFS2-----A----	Atr
+11	se	P7-X4----------	AuxR
+12	minimálně	Dg-------1A----	AuxZ
+13	o	RR--4----------	AuxP
+14	dvanáct	Cn-S4----------	Adv
+15	měsíců	NNIP2-----A----	Atr
+16	odkládá	VB-S---3P-AA---	Obj
+17	.	Z:-------------	AuxK
+
+lnd94103-107-p1s5
+1	Závod	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	v	RR--6----------	AuxP
+4	němž	P9ZS6----------	Adv
+5	je	VB-S---3P-AA---	Atr
+6	výškový	AAIS1----1A----	Atr
+7	rozdíl	NNIS1-----A----	Sb
+8	mezi	RR--7----------	AuxP
+9	startem	NNIS7-----A----	Atr
+10	a	J^-------------	Coord
+11	cílem	NNIS7-----A----	Atr
+12	2500	C=-------------	Pnom
+13	m	NNIXX-----A---8	Atr
+14	,	Z:-------------	AuxX
+15	přilákal	VpYS---XR-AA---	Pred
+16	letos	Db-------------	Adv
+17	na	RR--4----------	AuxP
+18	1000	C=-------------	Obj
+19	zájemců	NNMP2-----A----	Atr
+20	o	RR--4----------	AuxP
+21	start	NNIS4-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd94103-107-p1s6
+1	Čtvrtina	CyFS1----------	Sb
+2	prošla	VpQW---XR-AA---	Pred
+3	výběrovým	AANS7----1A----	Atr
+4	řízením	NNNS7-----A----	Adv
+5	pořadatelů	NNMP2-----A----	Atr
+6	a	J^-------------	Coord
+7	jen	TT-------------	AuxZ
+8	150	C=-------------	Sb
+9	se	P7-X4----------	AuxR
+10	po	RR--6----------	AuxP
+11	kvalifikaci	NNFS6-----A----	Adv
+12	v	RR--6----------	AuxP
+13	deseti	Cn-P6----------	Atr
+14	kategoriích	NNFP6-----A----	Atr
+15	postaví	VB-S---3P-AA---	Pred
+16	na	RR--4----------	AuxP
+17	start	NNIS4-----A----	Adv
+18	neoficiálního	AANS2----1N----	Atr
+19	mistrovství	NNNS2-----A----	Atr
+20	světa	NNIS2-----A----	Atr
+21	automobilů	NNIP2-----A----	Atr
+22	do	RR--2----------	AuxP
+23	vrchu	NNIS2-----A----	Atr
+24	.	Z:-------------	AuxK
+

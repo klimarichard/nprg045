@@ -1,0 +1,156 @@
+ln95046-120-p1s1
+1	Volkswagen	NNIS1-----A----	Sb
+2	představí	VB-S---3P-AA---	Pred
+3	novou	AAFS4----1A----	Atr
+4	limuzínu	NNFS4-----A----	Obj
+5	Sharan	NNIS1-----A----	Atr
+
+ln95046-120-p2s1A
+1	Wolfsburg	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-120-p2s1B
+1	Na	RR--6----------	AuxP
+2	Ženevském	AAIS6----1A----	Atr
+3	autosalónu	NNIS6-----A---1	Adv
+4	německá	AAFS1----1A----	Atr
+5	automobilka	NNFS1-----A----	Sb
+6	Volkswagen	NNIS1-----A----	Atr
+7	představí	VB-S---3P-AA---	Pred
+8	novou	AAFS4----1A----	Atr
+9	velkoprostorovou	AAFS4----1A----	Atr
+10	limuzínu	NNFS4-----A----	Obj
+11	Sharan	NNIS1-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95046-120-p2s2
+1	Veřejnost	NNFS1-----A----	Sb
+2	tak	Db-------------	Adv
+3	9	C=-------------	Atr
+4	.	Z:-------------	AuxG
+5	-	Z:-------------	Coord
+6	19	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	března	NNIS2-----A----	Adv
+9	poprvé	Cv-------------	Adv
+10	uvidí	VB-S---3P-AA---	Pred
+11	sériovou	AAFS4----1A----	Atr
+12	verzi	NNFS4-----A----	Obj
+13	vybavenou	AAFS4----1A----	Atr
+14	šestiválcovým	AAIS7----1A----	Atr
+15	motorem	NNIS7-----A----	Obj
+16	o	RR--6----------	AuxP
+17	výkonu	NNIS6-----A----	Atr
+18	128	C=-------------	Atr
+19	kW	NNIXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+ln95046-120-p3s1
+1	Nová	AAFS1----1A----	Atr
+2	limuzína	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	jejíž	P1FSXFS3-------	Atr
+5	cena	NNFS1-----A----	Sb
+6	dosud	Db-------------	Adv
+7	nebyla	VpQW---XR-NA---	AuxV
+8	stanovena	VsQW---XX-AP---	Atr
+9	,	Z:-------------	AuxX
+10	nabízí	VB-S---3P-AA---	Pred
+11	dostatek	NNIS4-----A----	Obj
+12	místa	NNNS2-----A----	Atr
+13	pro	RR--4----------	AuxP
+14	sedm	Cn-S4----------	AtrAdv
+15	osob	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95046-120-p3s2
+1	V	RR--6----------	AuxP
+2	oblasti	NNFS6-----A----	Adv
+3	velkoprostorových	AAFP2----1A----	Atr
+4	limuzín	NNFP2-----A----	Adv
+5	spatřuje	VB-S---3P-AA---	Pred
+6	koncern	NNIS1-----A----	Sb
+7	pro	RR--4----------	AuxP
+8	nadcházející	AGNP4-----A----	Atr
+9	léta	NNNP4-----A---2	Adv
+10	největší	AAIP4----3A----	Atr
+11	přírůstky	NNIP4-----A----	Obj
+12	odbytu	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95046-120-p4s1
+1	Sharan	NNIS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	čtyřdveřovou	AAFS4----1A----	Atr
+4	karosérii	NNFS4-----A----	Obj
+5	,	Z:-------------	Coord
+6	je	VB-S---3P-AA---	Pred
+7	vybaven	VsYS---XX-AP---	Pnom
+8	pohonem	NNIS7-----A----	Obj
+9	předních	AANP2----1A----	Atr
+10	kol	NNNP2-----A----	Atr
+11	a	J^-------------	AuxY
+12	jeho	PSXXXZS3-------	Atr
+13	délka	NNFS1-----A----	Sb
+14	činí	VB-S---3P-AA---	Pred
+15	4.62	C=-------------	Obj
+16	metru	NNIS2-----A----	Atr
+17	,	Z:-------------	Coord
+18	užitečné	AANS1----1A----	Atr
+19	zatížení	NNNS1-----A----	Sb
+20	přesahuje	VB-S---3P-AA---	Pred
+21	700	C=-------------	Obj
+22	kg	NNIXX-----A---8	Atr
+23	.	Z:-------------	AuxK
+
+ln95046-120-p4s2
+1	V	RR--6----------	AuxP
+2	Německu	NNNS6-----A----	Adv
+3	budou	VB-P---3F-AA---	AuxV
+4	vozy	NNIP1-----A----	Sb
+5	Sharan	NNIS1-----A----	Atr
+6	sériově	Dg-------1A----	Adv
+7	vybavovány	VsTP---XX-AP---	Pred
+8	airbagy	NNIP7-----A----	Obj
+9	a	J^-------------	Coord
+10	napínači	NNIP7-----A----	Obj
+11	bezpečnostních	AAIP2----1A----	Atr
+12	pásů	NNIP2-----A----	Atr
+13	pro	RR--4----------	AuxP
+14	řidiče	NNMS4-----A----	Atr
+15	a	J^-------------	Coord
+16	spolujezdce	NNMS4-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95046-120-p4s3
+1	Počínaje	VeYS------A----	AuxP
+2	provedením	NNNS7-----A----	Adv
+3	GL	NNXXX-----A---8	Atr
+4	budou	VB-P---3F-AA---	AuxV
+5	vybavovány	VsTP---XX-AP---	Pred
+6	otočnými	AANP7----1A----	Atr
+7	předními	AANP7----1A----	Atr
+8	sedadly	NNNP7-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95046-120-p4s4
+1	Spotřeba	NNFS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	100	C=-------------	Atr
+4	km	NNIXX-----A---8	Atr
+5	při	RR--6----------	AuxP
+6	rychlosti	NNFS6-----A----	Atr
+7	120	C=-------------	Atr
+8	km	NNIXX-----A---8	Atr
+9	/	Z:-------------	AuxG
+10	h	NNFXX-----A---8	Atr
+11	bude	VB-S---3F-AA---	Pred
+12	podle	RR--2----------	AuxP
+13	údajů	NNIP2-----A----	Adv
+14	výrobce	NNMS2-----A----	Atr
+15	9.8	C=-------------	Pnom
+16	litru	NNIS2-----A----	Atr
+17	benzínu	NNIS2-----A----	Atr
+18	super	AAXXX----1A----	Atr
+19	.	Z:-------------	AuxK
+

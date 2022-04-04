@@ -1,0 +1,191 @@
+ln95049-012-p1s1
+1	OP	NNMS1-----A----	Sb
+2	Prostějov	NNIS1-----A----	Atr
+3	očekává	VB-S---3P-AA---	Pred
+4	zisk	NNIS4-----A----	Obj
+
+ln95049-012-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-012-p2s1B
+1	Hrubý	AAIS1----1A----	Atr
+2	zisk	NNIS1-----A----	Sb
+3	Oděvního	AAIS2----1A----	Atr
+4	podniku	NNIS2-----A----	Atr
+5	Prostějov	NNIS1-----A----	Atr
+6	za	RR--4----------	AuxP
+7	loňský	AAIS4----1A----	Atr
+8	rok	NNIS4-----A----	Atr
+9	dosáhne	VB-S---3P-AA---	Pred
+10	přibližně	Dg-------1A----	Adv
+11	200	C=-------------	Atr
+12	miliónů	NNIP2-----A----	Obj
+13	korun	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	stejně	Dg-------1A----	Adv
+16	jako	J,-------------	AuxC
+17	předloni	Db-------------	ExD
+18	.	Z:-------------	AuxK
+
+ln95049-012-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	v	RR--4----------	AuxP
+4	sobotu	NNFS4-----A----	Adv
+5	generální	AAMS1----1A----	Atr
+6	ředitel	NNMS1-----A----	Atr
+7	firmy	NNFS2-----A----	Atr
+8	František	NNMS1-----A----	Atr
+9	Tuhý	NNMS1-----A----	Sb
+10	na	RR--6----------	AuxP
+11	pražském	AAIS6----1A----	Atr
+12	veletrhu	NNIS6-----A----	Adv
+13	Elegance	NNFS1-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95049-012-p3s1
+1	Obrat	NNIS1-----A----	Sb
+2	podniku	NNIS2-----A----	Atr
+3	letos	Db-------------	Adv
+4	vzroste	VB-S---3P-AA---	Pred
+5	podle	RR--2----------	AuxP
+6	jeho	PSXXXZS3-------	Atr
+7	slov	NNNP2-----A----	Adv
+8	nejméně	Dg-------3A----	AuxZ
+9	o	RR--4----------	AuxP
+10	20	C=-------------	Adv
+11	procent	NNNP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	z	RR--2----------	AuxP
+14	loňských	AAFP2----1A----	Atr
+15	2.5	C=-------------	Obj
+16	miliardy	NNFS2-----A----	Atr
+17	Kč	NNFXX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95049-012-p3s2
+1	Sedmdesát	Cn-S1----------	Sb
+2	procent	NNNP2-----A----	Atr
+3	klasické	AAFS2----1A----	Atr
+4	pánské	AAFS2----1A----	Atr
+5	a	J^-------------	Coord
+6	dámské	AAFS2----1A----	Atr
+7	konfekce	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	je	VB-S---3P-AA---	Atr
+11	hlavním	AAIS7----1A----	Atr
+12	programem	NNIS7-----A----	Pnom
+13	firmy	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	se	P7-X4----------	AuxR
+16	vyváží	VB-S---3P-AA---	Pred
+17	,	Z:-------------	AuxX
+18	zejména	Db-------------	AuxZ
+19	do	RR--2----------	AuxP
+20	německy	Dg-------1A----	Adv
+21	mluvících	AGFP2-----A----	Atr
+22	zemí	NNFP2-----A----	Adv
+23	,	Z:-------------	AuxX
+24	Velké	AAFS2----1A----	Atr
+25	Británie	NNFS2-----A----	Adv
+26	a	J^-------------	Coord
+27	Spojených	AAIP2----1A----	Atr
+28	států	NNIP2-----A----	Adv
+29	.	Z:-------------	AuxK
+
+ln95049-012-p4s1
+1	Jak	J,-------------	Adv
+2	dále	Db------------1	Adv
+3	řekl	VpYS---XR-AA---	Pred
+4	F	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Tuhý	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	dobré	AAIP4----1A----	Atr
+9	obchodní	AAIP4----1A----	Atr
+10	vztahy	NNIP4-----A----	Obj
+11	mezi	RR--7----------	AuxP
+12	OP	NNIXX-----A---8	Atr
+13	Prostějov	NNIS1-----A----	Atr
+14	a	J^-------------	Coord
+15	jeho	PSXXXZS3-------	Atr
+16	odběrateli	NNMP7-----A----	Atr
+17	narušují	VB-P---3P-AA---	Pred
+18	pohledávky	NNFP1-----A----	Sb
+19	po	RR--6----------	AuxP
+20	lhůtě	NNFS6-----A----	Atr
+21	splatnosti	NNFS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95049-012-p4s2
+1	Ty	PDFP1----------	Sb
+2	se	P7-X4----------	AuxT
+3	v	RR--6----------	AuxP
+4	současnosti	NNFS6-----A----	Adv
+5	pohybují	VB-P---3P-AA---	Pred
+6	kolem	RR--2----------	AuxP
+7	100	C=-------------	Atr
+8	miliónů	NNIP2-----A----	Adv
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95049-012-p4s3
+1	"	Z:-------------	AuxG
+2	Bylo	VpNS---XR-AA---	Obj
+3	by	Vc-------------	AuxV
+4	dobré	AANS1----1A----	Pnom
+5	,	Z:-------------	AuxX
+6	kdyby	J,-------------	AuxC
+7	banky	NNFP1-----A----	Sb
+8	mohly	VpTP---XR-AA---	Sb
+9	podpořit	Vf--------A----	Obj
+10	perspektivní	AAIP4----1A----	Atr
+11	podniky	NNIP4-----A----	Obj
+12	v	RR--6----------	AuxP
+13	tomto	PDZS6----------	Atr
+14	odvětví	NNNS6-----A----	Atr
+15	formou	NNFS7-----A----	Adv
+16	půjček	NNFP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	"	Z:-------------	AuxG
+19	zdůraznil	VpYS---XR-AA---	Pred
+20	ředitel	NNMS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+ln95049-012-p5s1
+1	OP	NNMS1-----A----	Sb
+2	Prostějov	NNIS1-----A----	Atr
+3	byl	VpYS---XR-AA---	AuxV
+4	privatizován	VsYS---XX-AP---	Pred
+5	ve	RV--6----------	AuxP
+6	druhé	CrFS6----------	Atr
+7	vlně	NNFS6-----A----	Adv
+8	kupónové	AAFS2----1A----	Atr
+9	privatizace	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95049-012-p5s2
+1	Zaváděcí	AAFS1----1A----	Atr
+2	cena	NNFS1-----A----	Sb
+3	jeho	PSXXXZS3-------	Atr
+4	akcií	NNFP2-----A----	Atr
+5	na	RR--6----------	AuxP
+6	pražské	AAFS6----1A----	Atr
+7	burze	NNFS6-----A----	Atr
+8	byla	VpQW---XR-AA---	AuxV
+9	stanovena	VsQW---XX-AP---	Pred
+10	na	RR--4----------	AuxP
+11	3330	C=-------------	Adv
+12	korun	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	v	RR--6----------	AuxP
+15	RM	AAXXX----1A---8	Atr
+16	-	Z:-------------	AuxG
+17	S	NNNXX-----A----	ExD
+18	na	RR--4----------	AuxP
+19	1199	C=-------------	ExD
+20	korun	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+

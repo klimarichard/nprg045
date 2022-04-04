@@ -1,0 +1,167 @@
+ln94210-18-p1s1
+1	Nejvyšší	AAIS1----3A----	Atr
+2	mrakodrap	NNIS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Asii	NNFS6-----A----	Adv
+
+ln94210-18-p2s1A
+1	Tokio	NNNS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94210-18-p2s1B
+1	Okolo	RR--2----------	AuxP
+2	400	C=-------------	Atr
+3	metrů	NNIP2-----A----	Adv
+4	vysoký	AAIS4----1A----	Atr
+5	90	C=-------------	Atr
+6	patrový	AAIS4----1A----	Atr
+7	mrakodrap	NNIS4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	převážně	Dg-------1A----	Adv
+10	kancelářskými	AAFP7----1A----	Atr
+11	místnostmi	NNFP7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	nejvyšší	AAIS4----3A----	Atr
+14	svého	P8ZS2----------	Atr
+15	druhu	NNIS2-----A----	Adv
+16	v	RR--6----------	AuxP
+17	Asii	NNFS6-----A----	Adv
+18	,	Z:-------------	AuxX
+19	a	J^-------------	Coord
+20	ještě	Db-------------	AuxZ
+21	další	AAFS4----1A----	Atr
+22	46	C=-------------	Atr
+23	patrovou	AAFS4----1A----	Atr
+24	budovu	NNFS4-----A----	Obj
+25	se	P7-X4----------	AuxT
+26	rozhodla	VpQW---XR-AA--1	Pred
+27	postavit	Vf--------A----	Obj
+28	v	RR--6----------	AuxP
+29	čínské	AAFS6----1A----	Atr
+30	Šanghaji	NNFS6-----A----	Adv
+31	jedna	ClFS1----------	Sb
+32	z	RR--2----------	AuxP
+33	nejvýznamnějších	AAFP2----3A----	Atr
+34	japonských	AAFP2----1A----	Atr
+35	stavebních	AAFP2----1A----	Atr
+36	společností	NNFP2-----A----	Atr
+37	Mori	AAXXX----1A----	Atr
+38	Building	AAXXX----1A----	Atr
+39	Co	NNFXX-----A---8	Atr
+40	.	Z:-------------	AuxG
+
+ln94210-18-p2s2
+1	S	RR--7----------	AuxP
+2	odkazem	NNIS7-----A----	Adv
+3	na	RR--4----------	AuxP
+4	informace	NNFP4-----A----	Atr
+5	mluvčího	NNMS2-----A----	Atr
+6	společnosti	NNFS2-----A----	Atr
+7	to	PDNS4----------	Obj
+8	uvedla	VpQW---XR-AA---	Pred
+9	agentura	NNFS1-----A----	Sb
+10	AP	NNFXX-----A---8	Atr
+11	.	Z:-------------	AuxK
+
+ln94210-18-p3s1
+1	Projekt	NNIS1-----A----	Sb
+2	za	RR--4----------	AuxP
+3	960	C=-------------	Atr
+4	milionů	NNIP2-----A----	Atr
+5	dolarů	NNIP2-----A----	Atr
+6	byl	VpYS---XR-AA---	AuxV
+7	schválen	VsYS---XX-AP---	Pred
+8	minulý	AAIS4----1A----	Atr
+9	týden	NNIS4-----A----	Adv
+10	v	RR--4----------	AuxP
+11	neděli	NNFS4-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94210-18-p3s2
+1	Spolufinancovat	Vf--------A----	Pred
+2	jej	PPZS4--3------2	Obj
+3	budou	VB-P---3F-AA---	AuxV
+4	japonské	AAFP1----1A----	Atr
+5	a	J^-------------	Coord
+6	americké	AAFP1----1A----	Atr
+7	společnosti	NNFP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln94210-18-p3s3
+1	Práva	NNNP1-----A----	Sb
+2	byla	VpQW---XR-AA---	AuxV
+3	udělena	VsQW---XX-AP---	Pred
+4	na	RR--4----------	AuxP
+5	50	C=-------------	Adv
+6	let	NNNP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94210-18-p4s1
+1	První	CrFS1----------	Atv
+2	by	Vc-------------	AuxV
+3	měla	VpQW---XR-AA---	Pred
+4	být	Vf--------A----	AuxV
+5	dokončena	VsQW---XX-AP---	Obj
+6	budova	NNFS1-----A----	Sb
+7	za	RR--4----------	AuxP
+8	210	C=-------------	Atr
+9	milionů	NNIP2-----A----	Atr
+10	dolarů	NNIP2-----A----	Atr
+11	na	RR--6----------	AuxP
+12	ploše	NNFS6-----A----	Atr
+13	více	Dg-------2A----	Atr
+14	než	J,-------------	AuxC
+15	10	C=-------------	Adv
+16	tisíc	ClXS2----------	Atr
+17	metrů	NNIP2-----A----	Atr
+18	čtverečních	AAIP2----1A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94210-18-p4s2
+1	Později	Dg-------2A----	Adv
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	být	Vf--------A----	AuxV
+5	postaven	VsYS---XX-AP---	Obj
+6	na	RR--6----------	AuxP
+7	ploše	NNFS6-----A----	Adv
+8	30	C=-------------	Atr
+9	tisíc	ClXS2----------	Atr
+10	metrů	NNIP2-----A----	Atr
+11	čtverečních	AAIP2----1A----	Atr
+12	druhý	CrIS1----------	Atr
+13	mrakodrap	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94210-18-p5s1
+1	Koncem	NNIS7-----A----	AuxP
+2	letošního	AAIS2----1A----	Atr
+3	března	NNIS2-----A----	Adv
+4	sídlilo	VpNS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	Číně	NNFS6-----A----	Adv
+7	2800	C=-------------	Sb
+8	zahraničních	AAFP2----1A----	Atr
+9	společností	NNFP2-----A----	Atr
+10	,	Z:-------------	Coord
+11	z	RR--2----------	AuxP
+12	toho	PDZS2----------	Atr
+13	448	C=-------------	ExD
+14	japonských	AAFP2----1A----	ExD
+15	.	Z:-------------	AuxK
+
+ln94210-18-p5s2
+1	Společnost	NNFS1-----A----	Sb
+2	Mori	NNNXX-----A----	Atr
+3	spravuje	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	současné	AAFS6----1A----	Atr
+6	době	NNFS6-----A----	Adv
+7	89	C=-------------	Obj
+8	budov	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	převážně	Dg-------1A----	Adv
+11	v	RR--6----------	AuxP
+12	Tokiu	NNNS6-----A----	Adv
+13	.	Z:-------------	AuxK
+

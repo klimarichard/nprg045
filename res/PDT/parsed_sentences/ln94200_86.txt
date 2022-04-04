@@ -1,0 +1,95 @@
+ln94200-86-p1s1
+1	LSNS	NNFXX-----A---8	Sb
+2	připouští	VB-S---3P-AA---	Pred
+3	menší	AAFS4----2A----	Atr
+4	jadernou	AAFS4----1A----	Atr
+5	elektrárnu	NNFS4-----A----	Obj
+
+ln94200-86-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln94200-86-p2s1B
+1	Ústí	NNNS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Labem	NNNS7-----A----	Atr
+4	-	Z:-------------	AuxK
+
+ln94200-86-p2s1C
+1	Problém	NNIS4-----A----	Obj
+2	životního	AANS2----1A----	Atr
+3	prostředí	NNNS2-----A----	Atr
+4	severních	AAFP2----1A----	Atr
+5	Čech	NNFP2-----A----	Atr
+6	lze	VB-S---3P-AA---	Pred
+7	podle	RR--2----------	AuxP
+8	předsedy	NNMS2-----A----	Atr
+9	LSNS	NNFXX-----A---8	Atr
+10	P	NNMXX-----A---8	Atr
+11	.	Z:-------------	AuxG
+12	Hirše	NNMS2-----A----	Adv
+13	řešit	Vf--------A----	Sb
+14	vytipováním	NNNS7-----A----	Adv
+15	vhodných	AAFP2----1A----	Atr
+16	elektráren	NNFP2-----A----	Atr
+17	a	J^-------------	Coord
+18	jejich	PSXXXXP3-------	Atr
+19	odsířením	NNNS7-----A----	Adv
+20	,	Z:-------------	AuxX
+21	záměnou	NNFS7-----A----	Adv
+22	tuhých	AANP2----1A----	Atr
+23	paliv	NNNP2-----A----	Atr
+24	za	RR--4----------	AuxP
+25	plynná	AANP4----1A----	ExD
+26	a	J^-------------	Coord
+27	zavedením	NNNS7-----A----	Adv
+28	technologií	NNFP2-----A----	Atr
+29	,	Z:-------------	AuxX
+30	které	P4FP1----------	Sb
+31	sníží	VB-P---3P-AA---	Atr
+32	energetickou	AAFS4----1A----	Atr
+33	náročnost	NNFS4-----A----	Obj
+34	výroby	NNFS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+ln94200-86-p2s2
+1	Podle	RR--2----------	AuxP
+2	LSNS	NNFXX-----A---8	Adv
+3	lze	VB-S---3P-AA---	Pred
+4	uvažovat	Vf--------A----	Sb
+5	o	RR--6----------	AuxP
+6	stavbě	NNFS6-----A----	Obj
+7	menší	AAFS2----2A----	Atr
+8	moderní	AAFS2----1A----	Atr
+9	jaderné	AAFS2----1A----	Atr
+10	elektrárny	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	oblasti	NNFS6-----A----	AtrAtr
+13	severních	AAFP2----1A----	Atr
+14	Čech	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94200-86-p2s3
+1	Hirš	NNMS1-----A----	Sb
+2	upozornil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	severočeské	AAFP1----1A----	Atr
+6	elektrárny	NNFP1-----A----	Sb
+7	váží	VB-P---3P-AA--1	Obj
+8	značné	AANS4----1A----	Atr
+9	množství	NNNS4-----A----	Obj
+10	pracovních	AAFP2----1A----	Atr
+11	sil	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	a	J^-------------	Coord
+14	proto	J^-------------	AuxY
+15	je	VB-S---3P-AA---	Pred
+16	nutno	ACNS------A----	Pnom
+17	počítat	Vf--------A----	Sb
+18	s	RR--7----------	AuxP
+19	růstem	NNIS7-----A----	Obj
+20	nezaměstnanosti	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+

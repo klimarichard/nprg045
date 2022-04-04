@@ -1,0 +1,135 @@
+mf930713-097-p1s1
+1	Poprav	NNFP2-----A----	Sb
+2	podnikatelů	NNMP2-----A----	Atr
+3	přibývá	VB-S---3P-AA---	Pred
+
+mf930713-097-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ina	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-097-p2s1B
+1	Vyřizování	NNNS1-----A----	Sb
+2	účtů	NNIP2-----A----	Atr
+3	mezi	RR--7----------	AuxP
+4	podnikateli	NNMP7-----A----	AtrAtr
+5	se	P7-X4----------	AuxT
+6	již	Db-------------	Adv
+7	přestalo	VpNS---XR-AA---	Pred
+8	omezovat	Vf--------A----	Obj
+9	na	RR--4----------	AuxP
+10	vydírání	NNNS4-----A----	Obj
+11	a	J^-------------	Coord
+12	vyhrožování	NNNS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+mf930713-097-p2s2
+1	Stále	Db-------------	Adv
+2	častěji	Dg-------2A----	Adv
+3	dochází	VB-S---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	otevřeným	AAIP3----1A----	Atr
+6	útokům	NNIP3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	které	P4IP1----------	Sb
+9	v	RR--6----------	AuxP
+10	poslední	AAFS6----1A----	Atr
+11	době	NNFS6-----A----	Adv
+12	vyústily	VpTP---XR-AA---	Atr
+13	v	RR--4----------	AuxP
+14	několik	Ca--4----------	Adv
+15	veřejných	AAFP2----1A----	Atr
+16	poprav	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930713-097-p2s3
+1	Najatí	AAMP1----1A----	Atr
+2	zabijáci	NNMP1-----A----	Sb
+3	zpravidla	Db-------------	Adv
+4	střílejí	VB-P---3P-AA---	Pred
+5	z	RR--2----------	AuxP
+6	jedoucích	AGNP2-----A----	Atr
+7	aut	NNNP2-----A----	Adv
+8	a	J^-------------	Coord
+9	oběti	NNFP4-----A----	Obj
+10	zanechávají	VB-P---3P-AA---	Pred
+11	na	RR--6----------	AuxP
+12	místě	NNNS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+mf930713-097-p2s5
+1	Tyto	PDFP1----------	Atr
+2	popravy	NNFP1-----A----	Sb
+3	mají	VB-P---3P-AA---	Pred
+4	mimo	RR--4----------	AuxP
+5	jiné	AANS4----1A----	Adv
+6	sloužit	Vf--------A----	Obj
+7	i	J^-------------	AuxZ
+8	jako	J,-------------	AuxY
+9	varování	NNNS1-----A----	AtvV
+10	těm	PDXP3----------	Atr
+11	,	Z:-------------	AuxX
+12	kteří	P4MP1----------	Sb
+13	nesplácejí	VB-P---3P-NA---	Atr
+14	dluhy	NNIP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+mf930713-097-p3s1
+1	"	Z:-------------	AuxG
+2	Popraven	VsYS---XX-AP---	Pnom
+3	"	Z:-------------	AuxG
+4	byl	VpYS---XR-AA---	Pred
+5	například	Db-------------	AuxY
+6	koncem	NNIS7-----A----	AuxP
+7	května	NNIS2-----A----	Adv
+8	plzeňský	AAMS1----1A----	Atr
+9	podnikatel	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+mf930713-097-p3s2
+1	Najatí	AAMP1----1A----	Atr
+2	vrazi	NNMP1-----A----	Sb
+3	zastřelili	VpMP---XR-AA---	Pred
+4	i	J^-------------	AuxZ
+5	člena	NNMS4-----A----	Obj
+6	jeho	PSXXXZS3-------	Atr
+7	ochranky	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930713-097-p3s3
+1	Klasickou	AAFS7----1A----	Atr
+2	veřejnou	AAFS7----1A----	Atr
+3	popravou	NNFS7-----A----	Pnom
+4	bylo	VpNS---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	páteční	AANS1----1A----	Atr
+7	zastřelení	NNNS1-----A----	Sb
+8	pražské	AAFS2----1A----	Atr
+9	podnikatelky	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930713-097-p3s4
+1	Tentokrát	Db-------------	Adv
+2	jde	VB-S---3P-AA---	Pred
+3	však	J^-------------	Coord
+4	o	RR--4----------	AuxP
+5	první	CrIS4----------	Atr
+6	případ	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	kdy	Db-------------	Adv
+9	najatý	AAMS1----1A----	Atr
+10	vrah	NNMS1-----A----	Sb
+11	střílel	VpYS---XR-AA---	Atr
+12	na	RR--4----------	AuxP
+13	českého	AAMS4----1A----	Atr
+14	občana	NNMS4-----A----	Adv
+15	za	RR--2----------	AuxP
+16	bílého	AAIS2----1A----	Atr
+17	dne	NNIS2-----A----	Adv
+18	na	RR--6----------	AuxP
+19	rušné	AAFS6----1A----	Atr
+20	ulici	NNFS6-----A----	Adv
+21	.	Z:-------------	AuxK
+

@@ -1,0 +1,55 @@
+lnd91301-100-p1s1
+1	První	CrFS1----------	ExD
+2	africká	AAFS1----1A----	ExD
+
+lnd91301-100-p2s1
+1	PAŘÍŽ	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91301-100-p3s1
+1	Po	RR--6----------	AuxP
+2	přepravě	NNFS6-----A----	Adv
+3	přes	RR--4----------	AuxP
+4	Středozemní	AANS4----1A----	Atr
+5	moře	NNNS4-----A----	Atr
+6	absolvovali	VpMP---XR-AA---	Pred
+7	účastníci	NNMP1-----A----	Sb
+8	Rallye	NNFXX-----A----	Atr
+9	Paříž	NNFS1-----A----	Atr
+10	-	Z:-------------	Coord
+11	Kapské	AANS1----1A----	Atr
+12	Město	NNNS1-----A----	Atr
+13	první	CrFS4----------	Atr
+14	etapu	NNFS4-----A----	Obj
+15	po	RR--6----------	AuxP
+16	africkém	AAIS6----1A----	Atr
+17	kontinentě	NNIS6-----A----	Atr
+18	,	Z:-------------	AuxX
+19	která	P4FS1----------	Sb
+20	vedla	VpQW---XR-AA---	Atr
+21	z	RR--2----------	AuxP
+22	Misratahu	NNIS2-----A----	Adv
+23	do	RR--2----------	AuxP
+24	Sirtu	NNIS2-----A----	Adv
+25	a	J^-------------	Coord
+26	měřila	VpQW---XR-AA---	Atr
+27	651	C=-------------	Obj
+28	km	NNIXX-----A---8	Atr
+29	,	Z:-------------	Coord
+30	z	RR--2----------	AuxP
+31	čehož	PE--2----------	Atr
+32	204	C=-------------	Atr
+33	km	NNIXX-----A---8	Adv
+34	byla	VpQW---XR-AA---	Atr
+35	dlouhá	AAFS1----1A----	Pnom
+36	rychlostní	AAFS1----1A----	Atr
+37	zkouška	NNFS1-----A----	Sb
+38	.	Z:-------------	AuxK
+
+lnd91301-100-p3s9
+1	Výsledky	NNIP4-----A----	Obj
+2	kamiónů	NNIP2-----A----	Atr
+3	agentury	NNFP1-----A----	Sb
+4	nevydaly	VpTP---XR-NA---	Pred
+5	.	Z:-------------	AuxK
+

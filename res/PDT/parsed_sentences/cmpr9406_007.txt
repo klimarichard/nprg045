@@ -1,0 +1,260 @@
+cmpr9406-007-p2s1
+1	Zahraniční	AAFP1----1A----	Atr
+2	firmy	NNFP1-----A----	ExD
+3	a	J^-------------	Coord
+4	my	PP-P1--1-------	ExD
+
+cmpr9406-007-p3s1
+1	British	AAXXX----1A----	Atr
+2	Airways	NNFPX-----A----	ExD
+
+cmpr9406-007-p4s1
+1	Letecká	AAFS1----1A----	Atr
+2	společnost	NNFS1-----A----	Sb
+3	British	AAXXX----1A----	Atr
+4	Airways	NNFPX-----A----	Atr
+5	(	Z:-------------	Apos
+6	BA	NNFXX-----A---8	Atr
+7	)	Z:-------------	AuxG
+8	patří	VB-S---3P-AA---	Pred
+9	mezi	RR--4----------	AuxP
+10	nejvýznamnější	AAFP4----3A----	Adv
+11	a	J^-------------	Coord
+12	nejstarší	AAFP4----3A----	Adv
+13	na	RR--6----------	AuxP
+14	světě	NNIS6-----A----	Adv
+15	.	Z:-------------	AuxK
+
+cmpr9406-007-p4s2
+1	Přestože	J,-------------	AuxC
+2	používá	VB-S---3P-AA---	Adv
+3	současné	AANS4----1A----	Atr
+4	jméno	NNNS4-----A----	Obj
+5	pouze	Db-------------	AuxZ
+6	od	RR--2----------	AuxP
+7	roku	NNIS2-----A---1	Adv
+8	1977	C=-------------	Atr
+9	,	Z:-------------	AuxX
+10	stala	VpQW---XR-AA---	Pred
+11	se	P7-X4----------	AuxT
+12	následníkem	NNMS7-----A----	Obj
+13	společností	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	které	P4FP1----------	Sb
+16	létaly	VpTP---XR-AA---	Atr
+17	již	Db-------------	AuxZ
+18	ve	RV--6----------	AuxP
+19	dvacátých	CrNP6----------	Atr
+20	letech	NNNP6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+cmpr9406-007-p4s3
+1	BA	NNFXX-----A---8	Sb
+2	zaměstnává	VB-S---3P-AA---	Pred
+3	více	Dg-------2A----	Obj
+4	než	J,-------------	AuxC
+5	45000	C=-------------	ExD
+6	lidí	NNMP2-----A----	Atr
+7	a	J^-------------	Coord
+8	dosahuje	VB-S---3P-AA---	Pred
+9	ročního	AAIS2----1A----	Atr
+10	obratu	NNIS2-----A----	Obj
+11	přes	RR--4----------	AuxP
+12	3	C=-------------	Atr
+13	miliardy	NNFP4-----A----	Atr
+14	liber	NNFP2-----A----	Atr
+15	při	RR--6----------	AuxP
+16	zisku	NNIS6-----A----	Adv
+17	kolem	RR--2----------	AuxP
+18	sedmi	Cn-P2----------	Atr
+19	procent	NNNP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9406-007-p4s4
+1	Podle	RR--2----------	AuxP
+2	prezidenta	NNMS2-----A----	Atr
+3	společnosti	NNFS2-----A----	Atr
+4	Sira	NNMS2-----A----	Atr
+5	Colina	NNMS2-----A----	Atr
+6	Marshalla	NNMS2-----A----	Adv
+7	létá	VB-S---3P-AA---	Pred
+8	BA	NNFXX-----A---8	Sb
+9	do	RR--2----------	AuxP
+10	150	C=-------------	Atr
+11	míst	NNNP2-----A----	Adv
+12	v	RR--6----------	AuxP
+13	sedmdesáti	Cn-P6----------	Atr
+14	zemích	NNFP6-----A----	Atr
+15	celého	AAIS2----1A----	Atr
+16	světa	NNIS2-----A----	Atr
+17	a	J^-------------	Coord
+18	ročně	Dg-------1A----	Adv
+19	přepraví	VB-S---3P-AA---	Pred
+20	kolem	RR--2----------	AuxP
+21	25	C=-------------	Obj
+22	milionů	NNIP2-----A----	Atr
+23	pasažerů	NNMP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9406-007-p5s1
+1	Významné	AANS4----1A----	Atr
+2	postavení	NNNS4-----A----	Obj
+3	na	RR--6----------	AuxP
+4	světovém	AAIS6----1A----	Atr
+5	trhu	NNIS6-----A----	Atr
+6	leteckých	AAFP2----1A----	Atr
+7	společností	NNFP2-----A----	Atr
+8	získala	VpQW---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	současnosti	NNFS6-----A----	Adv
+11	BA	NNFXX-----A---8	Sb
+12	také	Db-------------	AuxZ
+13	díky	RR--3----------	AuxP
+14	specializovaným	AAFP3----1A----	Atr
+15	službám	NNFP3-----A----	Adv
+16	ve	RV--6----------	AuxP
+17	vyšších	AAFP6----2A----	Atr
+18	třídách	NNFP6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9406-007-p5s2
+1	Například	Db-------------	AuxY
+2	jako	J,-------------	AuxY
+3	vůbec	Db-------------	AuxZ
+4	první	CrFS1----------	Atv
+5	významná	AAFS1----1A----	Atr
+6	letecká	AAFS1----1A----	Atr
+7	společnost	NNFS1-----A----	Sb
+8	začala	VpQW---XR-AA---	Pred
+9	poskytovat	Vf--------A----	Obj
+10	v	RR--6----------	AuxP
+11	první	CrFS6----------	Atr
+12	třídě	NNFS6-----A----	Adv
+13	místa	NNNP4-----A----	Obj
+14	ke	RV--3----------	AuxP
+15	spánku	NNIS3-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9406-007-p6s1
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	má	VB-S---3P-AA---	Pred
+4	BA	NNFXX-----A---8	Sb
+5	zastoupení	NNNS4-----A----	Obj
+6	již	Db-------------	AuxZ
+7	déle	Dg-------2A----	Adv
+8	než	J,-------------	AuxC
+9	30	C=-------------	Adv
+10	let	NNNP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9406-007-p6s2
+1	Původně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxR
+3	z	RR--2----------	AuxP
+4	Prahy	NNFS2-----A----	Adv
+5	do	RR--2----------	AuxP
+6	Londýna	NNIS2-----A----	Adv
+7	létalo	VpNS---XR-AA---	Pred
+8	pouze	Db-------------	AuxZ
+9	pětkrát	Cv-------------	Adv
+10	týdně	Db-------------	Adv
+11	,	Z:-------------	Coord
+12	od	RR--2----------	AuxP
+13	roku	NNIS2-----A---1	Adv
+14	1989	C=-------------	Atr
+15	se	P7-X4----------	AuxT
+16	počet	NNIS1-----A----	Sb
+17	letů	NNIP2-----A----	Atr
+18	zvyšoval	VpYS---XR-AA---	Pred
+19	až	TT-------------	AuxZ
+20	na	RR--4----------	AuxP
+21	nynějších	AAIP2----1A----	Atr
+22	14	C=-------------	Obj
+23	letů	NNIP2-----A----	Atr
+24	týdně	Db-------------	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9406-007-p6s3
+1	Loni	Db------------1	Adv
+2	BA	NNFXX-----A---8	Sb
+3	přepravila	VpQW---XR-AA---	Pred
+4	oběma	ClXP7----------	Atr
+5	směry	NNIP7-----A----	Adv
+6	125000	C=-------------	Obj
+7	cestujících	AGMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9406-007-p6s4
+1	Počet	NNIS1-----A----	Sb
+2	pracovníků	NNMP2-----A----	Atr
+3	BA	NNFXX-----A---8	Atr
+4	v	RR--6----------	AuxP
+5	ČR	NNFXX-----A---8	AtrAdv
+6	se	P7-X4----------	AuxR
+7	proto	J^-------------	Coord
+8	musel	VpYS---XR-AA---	Pred
+9	zvýšit	Vf--------A----	Obj
+10	na	RR--4----------	AuxP
+11	18	C=-------------	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9406-007-p6s5
+1	Od	RR--2----------	AuxP
+2	poloviny	NNFS2-----A----	Adv
+3	loňského	AAIS2----1A----	Atr
+4	roku	NNIS2-----A---1	Atr
+5	rozšířila	VpQW---XR-AA---	Pred
+6	BA	NNFXX-----A---8	Sb
+7	služby	NNFP4-----A----	Obj
+8	z	RR--2----------	AuxP
+9	Prahy	NNFS2-----A----	Atr
+10	prostřednictvím	NNNS7-----A----	AuxP
+11	partnerské	AAFS2----1A----	Atr
+12	společnosti	NNFS2-----A----	Adv
+13	Deutsche	AAXXX----1A----	Atr
+14	BA	NNFXX-----A---8	Atr
+15	o	RR--4----------	AuxP
+16	lety	NNIP4-----A----	Adv
+17	do	RR--2----------	AuxP
+18	Stuttgartu	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9406-007-p7s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	British	AAXXX----1A----	Atr
+4	Airways	NNFPX-----A----	ExD
+5	,	Z:-------------	AuxX
+6	Staroměstské	AANS1----1A----	Atr
+7	nám	NNNXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	10	C=-------------	Atr
+10	/	Z:-------------	AuxG
+11	608	C=-------------	Atr
+12	,	Z:-------------	AuxX
+13	110	C=-------------	Atr
+14	00	C=-------------	Atr
+15	Praha	NNFS1-----A----	Atr
+16	1	C=-------------	Atr
+17	,	Z:-------------	AuxX
+18	tel	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxG
+20	:	Z:-------------	AuxG
+21	(	Z:-------------	AuxG
+22	02	C=-------------	Atr
+23	)	Z:-------------	AuxG
+24	231	C=-------------	Atr
+25	88	C=-------------	Atr
+26	89	C=-------------	Atr
+27	,	Z:-------------	Coord
+28	FAX	NNIS1-----A----	Atr
+29	:	Z:-------------	AuxG
+30	(	Z:-------------	AuxG
+31	02	C=-------------	Atr
+32	)	Z:-------------	AuxG
+33	232	C=-------------	Atr
+34	96	C=-------------	Atr
+35	15	C=-------------	Atr
+36	.	Z:-------------	AuxK
+

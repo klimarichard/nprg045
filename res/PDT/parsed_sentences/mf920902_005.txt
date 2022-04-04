@@ -1,0 +1,137 @@
+mf920902-005-p1s1A
+1	Tramvaje	NNFP1-----A----	ExD
+2	z	RR--2----------	AuxP
+3	Říma	NNIS2-----A----	Atr
+
+mf920902-005-p1s1B
+1	Ostrava	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mas	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920902-005-p1s1C
+1	O	RR--6----------	AuxP
+2	prodeji	NNIS6-----A----	Obj
+3	nízkopodlažních	AAFP2----1A----	Atr
+4	tramvají	NNFP2-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	v	RR--6----------	AuxP
+7	nejbližší	AAFS6----3A----	Atr
+8	době	NNFS6-----A----	Adv
+9	jednat	Vf--------A----	Pred
+10	vedení	NNNS1-----A----	Sb
+11	ostravského	AAIS2----1A----	Atr
+12	dopravního	AAIS2----1A----	Atr
+13	podniku	NNIS2-----A----	Atr
+14	se	RV--7----------	AuxP
+15	zástupci	NNMP7-----A----	Obj
+16	italské	AAFS2----1A----	Atr
+17	firmy	NNFS2-----A----	Atr
+18	Breda	NNFS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf920902-005-p1s2
+1	Italové	NNMP1-----A----	Sb
+2	dostali	VpMP---XR-AA---	Pred
+3	před	RR--7----------	AuxP
+4	německými	AAMP7----1A----	Atr
+5	a	J^-------------	Coord
+6	belgickými	AAMP7----1A----	Atr
+7	výrobci	NNMP7-----A----	Adv
+8	přednost	NNFS4-----A----	Obj
+9	kvůli	RR--3----------	AuxP
+10	výhodnějšímu	AANS3----2A----	Atr
+11	technickému	AANS3----1A----	Atr
+12	řešení	NNNS3-----A----	Adv
+13	.	Z:-------------	AuxK
+
+mf920902-005-p1s3
+1	Jako	J,-------------	AuxY
+2	jediní	AAMP1----1A----	AtvV
+3	totiž	Db-------------	AuxY
+4	umísťují	VB-P---3P-AA---	Pred
+5	elektrické	AAIP4----1A----	Atr
+6	agregáty	NNIP4-----A----	Obj
+7	do	RR--2----------	AuxP
+8	prostoru	NNIS2-----A----	Adv
+9	za	RR--4----------	AuxP
+10	řidiče	NNMS4-----A----	Atr
+11	,	Z:-------------	Coord
+12	což	PE--1----------	Sb
+13	vyhovuje	VB-S---3P-AA---	Pred
+14	technickým	AAFP3----1A----	Atr
+15	možnostem	NNFP3-----A----	Obj
+16	ostravských	AAMP2----1A----	Atr
+17	údržbářů	NNMP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920902-005-p1s4
+1	"	Z:-------------	AuxG
+2	Model	NNIS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	o	RR--6----------	AuxP
+5	kterém	P4ZS6----------	Obj
+6	budeme	VB-P---1F-AA---	AuxV
+7	jednat	Vf--------A----	Atr
+8	,	Z:-------------	AuxX
+9	už	Db-------------	Adv
+10	jezdí	VB-S---3P-AA---	Pred
+11	v	RR--6----------	AuxP
+12	Římě	NNIS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+mf920902-005-p1s5
+1	Zatím	Db-------------	Adv
+2	neznáme	VB-P---1P-NA---	Pred
+3	cenu	NNFS4-----A----	Obj
+4	,	Z:-------------	Coord
+5	víme	VB-P---1P-AA---	Pred
+6	jen	TT-------------	AuxZ
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	obdobné	AAFP1----1A----	Atr
+10	tramvaje	NNFP1-----A----	Sb
+11	německé	AAFS2----1A----	Atr
+12	výroby	NNFS2-----A----	Atr
+13	stojí	VB-P---3P-AA---	Obj
+14	necelé	AAIP4----1N----	Atr
+15	čtyři	ClXP4----------	Atr
+16	milióny	NNIP4-----A----	Obj
+17	marek	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920902-005-p1s6
+1	Chtěli	VpMP---XR-AA---	Pred
+2	bychom	Vc-P---1-------	AuxV
+3	jednu	ClFS4----------	Atr
+4	tramvaj	NNFS4-----A----	Obj
+5	od	RR--2----------	AuxP
+6	Italů	NNMP2-----A----	Adv
+7	půjčit	Vf--------A----	Obj
+8	na	RR--4----------	AuxP
+9	zkušební	AAIS4----1A----	Atr
+10	provoz	NNIS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf920902-005-p1s7
+1	Největší	AAIS1----3A----	Atr
+2	problém	NNIS1-----A----	Pnom
+3	jsou	VB-P---3P-AA---	Obj
+4	peníze	NNIP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	které	P4IP1----------	Sb
+7	nám	PP-P3--1-------	Obj
+8	stále	Db-------------	Adv
+9	scházejí	VB-P---3P-AA---	Atr
+10	,	Z:-------------	AuxX
+11	"	Z:-------------	AuxG
+12	řekl	VpYS---XR-AA---	Pred
+13	nám	PP-P3--1-------	Obj
+14	technický	AAMS1----1A----	Atr
+15	náměstek	NNMS1-----A----	Atr
+16	DPMO	NNIXX-----A----	Atr
+17	Rudolf	NNMS1-----A----	Atr
+18	Pavelek	NNMS1-----A----	Sb
+19	.	Z:-------------	AuxK
+

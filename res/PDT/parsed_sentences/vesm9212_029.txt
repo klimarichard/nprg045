@@ -1,0 +1,555 @@
+vesm9212-029-p1s1
+1	Distribuce	NNFS1-----A----	ExD
+2	Vesmíru	NNIS2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	nevidomé	NNMP4-----A----	Atr
+
+vesm9212-029-p2s2
+1	Projevili	VpMP---XR-AA---	Pred
+2	jste	VB-P---2P-AA---	AuxV
+3	zájem	NNIS4-----A----	Obj
+4	o	RR--4----------	AuxP
+5	adresy	NNFP4-----A----	Atr
+6	výrobců	NNMP2-----A----	Atr
+7	hlasového	AAIS2----1A----	Atr
+8	výstupu	NNIS2-----A----	Atr
+9	pro	RR--4----------	AuxP
+10	PC	NNNXX-----A---8	AtrAtr
+11	.	Z:-------------	AuxK
+
+vesm9212-029-p2s3
+1	Tento	PDYS1----------	Atr
+2	způsob	NNIS1-----A----	Sb
+3	komunikace	NNFS2-----A----	Atr
+4	s	RR--7----------	AuxP
+5	osobním	AAIS7----1A----	Atr
+6	počítačem	NNIS7-----A----	Atr
+7	neumožňuje	VB-S---3P-NA---	Pred
+8	práci	NNFS4-----A----	Obj
+9	s	RR--7----------	AuxP
+10	programy	NNIP7-----A----	Atr
+11	,	Z:-------------	AuxX
+12	které	P4IP1----------	Sb
+13	pracují	VB-P---3P-AA---	Atr
+14	v	RR--6----------	AuxP
+15	grafickém	AAIS6----1A----	Atr
+16	režimu	NNIS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+vesm9212-029-p2s4
+1	To	PDNS1----------	Sb
+2	platí	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	o	RR--6----------	AuxP
+5	operačním	AAIS6----1A----	Atr
+6	systému	NNIS6-----A----	Adv
+7	.	Z:-------------	AuxK
+
+vesm9212-029-p2s5
+1	Je	VB-S---3P-AA---	Pred
+2	možná	AAFS1----1A----	Pnom
+3	práce	NNFS1-----A----	Sb
+4	s	RR--7----------	AuxP
+5	textovými	AAIP7----1A----	Atr
+6	editory	NNIP7-----A----	Atr
+7	,	Z:-------------	AuxX
+8	s	RR--7----------	AuxP
+9	databázemi	NNFP7-----A----	Atr
+10	,	Z:-------------	Coord
+11	překladači	NNIP7-----A----	Atr
+12	různých	AAIP2----1A----	Atr
+13	programovacích	AAIP2----1A----	Atr
+14	jazyků	NNIP2-----A----	Atr
+15	,	Z:-------------	Coord
+16	s	RR--7----------	AuxP
+17	cizojazyčnými	AAIP7----1A----	Atr
+18	slovníky	NNIP7-----A----	Atr
+19	a	J^-------------	Coord
+20	dokonce	Db-------------	Adv
+21	lze	VB-S---3P-AA---	Pred
+22	hrát	Vf--------A----	Sb
+23	i	J^-------------	AuxZ
+24	textově	Dg-------1A----	Adv
+25	orientované	AAFP4----1A----	Atr
+26	hry	NNFP4-----A----	Obj
+27	.	Z:-------------	AuxK
+
+vesm9212-029-p2s6
+1	Možnosti	NNFP1-----A----	Sb
+2	komunikace	NNFS2-----A----	Atr
+3	nevidomých	NNMP2-----A----	Atr
+4	s	RR--7----------	AuxP
+5	PC	NNNXX-----A---8	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	však	J^-------------	Coord
+8	širší	AAFP1----2A----	Pnom
+9	.	Z:-------------	AuxK
+
+vesm9212-029-p2s7
+1	Existují	VB-P---3P-AA---	Pred
+2	hmatové	AAIP1----1A----	Atr
+3	výstupy	NNIP1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	které	P4IP1----------	Sb
+6	text	NNIS4-----A----	Obj
+7	napsaný	AAIS4----1A----	Atr
+8	na	RR--6----------	AuxP
+9	monitoru	NNIS6-----A----	Adv
+10	převádějí	VB-P---3P-AA---	Atr
+11	do	RR--2----------	AuxP
+12	bodového	AANS2----1A----	Atr
+13	písma	NNNS2-----A----	Obj
+14	a	J^-------------	Coord
+15	připojit	Vf--------A----	Sb
+16	lze	VB-S---3P-AA---	Pred
+17	též	Db-------------	Adv
+18	čtecí	AAIS4----1A----	Atr
+19	přístroj	NNIS4-----A----	Obj
+20	"	Z:-------------	AuxG
+21	Optacon	NNIS1-----A----	Atr
+22	"	Z:-------------	AuxG
+23	,	Z:-------------	AuxX
+24	který	P4YS1----------	Sb
+25	převádí	VB-S---3P-AA---	Atr
+26	do	RR--2----------	AuxP
+27	hmatové	AAFS2----1A----	Atr
+28	podoby	NNFS2-----A----	Obj
+29	čáru	NNFS4-----A----	Obj
+30	pod	RR--7----------	AuxP
+31	kursorem	NNIS7-----A----	Atr
+32	,	Z:-------------	AuxX
+33	tedy	Db-------------	Coord
+34	vlastně	Db-------------	AuxY
+35	také	Db-------------	Adv
+36	pracuje	VB-S---3P-AA---	Atr
+37	v	RR--6----------	AuxP
+38	grafice	NNFS6-----A----	Adv
+39	.	Z:-------------	AuxK
+
+vesm9212-029-p2s8
+1	Optaconem	NNIS7-----A----	Adv
+2	však	J^-------------	Coord
+3	nelze	VB-S---3P-NA---	Pred
+4	cokoli	PZ--4---------1	Obj
+5	vkládat	Vf--------A----	Sb
+6	.	Z:-------------	AuxK
+
+vesm9212-029-p2s9
+1	Pouze	Db-------------	AuxZ
+2	lze	VB-S---3P-AA---	Pred
+3	pohybem	NNIS7-----A----	Adv
+4	myši	NNFS2-----A----	Atr
+5	prohlížet	Vf--------A----	Sb
+6	obrazovku	NNFS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+vesm9212-029-p3s1
+1	Výrobci	NNMP1-----A----	Sb
+2	hlasového	AAIS2----1A----	Atr
+3	výstupu	NNIS2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	u	RR--2----------	AuxP
+6	nás	PP-P2--1-------	Adv
+7	dva	ClYP1----------	Pnom
+8	:	Z:-------------	AuxK
+
+vesm9212-029-p4s1
+1	Ing	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Purkrt	NNMS1-----A----	ExD
+4	,	Z:-------------	AuxX
+5	Otvovice	NNFP1-----A----	Atr
+6	100	C=-------------	Atr
+7	,	Z:-------------	AuxX
+8	okr	NNIXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Kladno	NNNS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	tel	NNIXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	0205	C=-------------	Atr
+15	-	Z:-------------	AuxG
+16	83155	C=-------------	Atr
+
+vesm9212-029-p5s1
+1	SPEKTRA	NNFS1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	Haštalská	AAFS1----1A----	Atr
+4	,	Z:-------------	AuxX
+5	Praha	NNFS1-----A----	Atr
+6	1	C=-------------	Atr
+7	tel	NNIXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	231	C=-------------	Atr
+10	59	C=-------------	Atr
+11	09	C=-------------	Atr
+
+vesm9212-029-p6s1
+1	Podle	RR--2----------	AuxP
+2	mého	PSZS2-S1-------	Atr
+3	názoru	NNIS2-----A----	Adv
+4	produkt	NNIS1-----A----	Sb
+5	Ing	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Purkrta	NNMS2-----A----	Atr
+8	mluví	VB-S---3P-AA---	Pred
+9	o	RR--4----------	AuxP
+10	něco	PZ--4----------	Adv
+11	lépe	Dg-------2A----	Adv
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	oba	ClYP1----------	Atr
+15	výrobci	NNMP1-----A----	Sb
+16	se	P7-X4----------	Obj
+17	kus	NNIS4-----A----	Adv
+18	od	RR--2----------	AuxP
+19	kusu	NNIS2-----A----	Atr
+20	zlepšují	VB-P---3P-AA---	Pred
+21	.	Z:-------------	AuxK
+22	.	Z:-------------	AuxK
+23	.	Z:-------------	AuxK
+24	.	Z:-------------	AuxK
+
+vesm9212-029-p6s3
+1	Program	NNIS1-----A----	Sb
+2	ke	RV--3----------	AuxP
+3	hlasovému	AAIS3----1A----	Atr
+4	výstupu	NNIS3-----A----	Atr
+5	umožňuje	VB-S---3P-AA---	Pred
+6	čtení	NNNS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	celku	NNIS6-----A----	Atr
+9	,	Z:-------------	AuxX
+10	po	RR--6----------	AuxP
+11	řádcích	NNIP6-----A----	Atr
+12	,	Z:-------------	Coord
+13	po	RR--6----------	AuxP
+14	sloupcích	NNIP6-----A----	Atr
+15	,	Z:-------------	AuxX
+16	čtení	NNNS4-----A----	Obj
+17	jednotlivých	AANP2----1A----	Atr
+18	oken	NNNP2-----A----	Atr
+19	atd	Db------------8	Coord
+20	.	Z:-------------	AuxG
+
+vesm9212-029-p6s5
+1	Úsek	NNIS4-----A----	Obj
+2	textu	NNIS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	který	P4IS4----------	Obj
+5	nechci	VB-S---1P-NA---	Atr
+6	číst	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	mohu	VB-S---1P-AA--1	Pred
+9	vynechat	Vf--------A----	Obj
+10	.	Z:-------------	AuxK
+
+vesm9212-029-p7s1
+1	Jediný	AAIS1----1A----	Atr
+2	malý	AAIS1----1A----	Atr
+3	zádrhel	NNIS1-----A----	Sb
+4	se	P7-X4----------	AuxT
+5	vyskytuje	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	některých	PZXP6----------	Atr
+8	článcích	NNIP6-----A----	Adv
+9	a	J^-------------	Coord
+10	spočívá	VB-S---3P-AA---	Pred
+11	v	RR--6----------	AuxP
+12	tom	PDZS6----------	Obj
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	pisatel	NNMS1-----A----	Sb
+16	užívá	VB-S---3P-AA---	Atr
+17	místo	RR--2----------	AuxP
+18	nuly	NNFS2-----A----	Adv
+19	písmeno	NNNS4-----A----	Obj
+20	"	Z:-------------	AuxG
+21	o	NNNXX-----A----	Atr
+22	"	Z:-------------	AuxG
+23	.	Z:-------------	AuxK
+
+vesm9212-029-p7s2
+1	Vzhledově	Dg-------1A----	Adv
+2	sice	Db-------------	AuxY
+3	oba	ClYP1----------	Atr
+4	znaky	NNIP1-----A----	Sb
+5	vypadají	VB-P---3P-AA---	Pred
+6	podobně	Dg-------1A----	Adv
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	mají	VB-P---3P-AA---	Pred
+10	odlišnou	AAFS4----1A----	Atr
+11	ASCII	NNNXX-----A---8	Atr
+12	hodnotu	NNFS4-----A----	Obj
+13	,	Z:-------------	AuxX
+14	takže	J,-------------	AuxC
+15	v	RR--6----------	AuxP
+16	číslech	NNNP6-----A----	Adv
+17	je	VB-S---3P-AA---	AuxV
+18	čteno	VsNS---XX-AP---	Adv
+19	"	Z:-------------	AuxG
+20	o	NNNXX-----A----	Sb
+21	"	Z:-------------	AuxG
+22	místo	RR--2----------	AuxP
+23	nuly	NNFS2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+vesm9212-029-p7s3
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	ale	J^-------------	Coord
+4	opravdu	Db-------------	AuxY
+5	drobnost	NNFS1-----A----	Pnom
+6	,	Z:-------------	Coord
+7	dá	VB-S---3P-AA---	Pred
+8	se	P7-X4----------	AuxR
+9	na	RR--4----------	AuxP
+10	to	PDNS4----------	Obj
+11	zvyknout	Vf--------A----	Obj
+12	a	J^-------------	Coord
+13	počítat	Vf--------A----	Obj
+14	s	RR--7----------	AuxP
+15	tím	PDZS7----------	Obj
+16	.	Z:-------------	AuxK
+
+vesm9212-029-p7s4
+1	Jinak	Db-------------	Adv
+2	vše	PLNS1---------1	Sb
+3	jde	VB-S---3P-AA---	Pred
+4	krásně	Dg-------1A----	Adv
+5	.	Z:-------------	AuxK
+
+vesm9212-029-p7s5
+1	Mohu	VB-S---1P-AA--1	Pred
+2	se	P7-X4----------	AuxT
+3	zastavovat	Vf--------A----	Obj
+4	,	Z:-------------	AuxX
+5	vracet	Vf--------A----	Obj
+6	se	P7-X4----------	AuxT
+7	na	RR--4----------	AuxP
+8	místa	NNNP4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	která	P4NP1----------	Sb
+11	mne	PP-S4--1-------	Obj
+12	zajímají	VB-P---3P-AA---	Atr
+13	,	Z:-------------	AuxX
+14	dělat	Vf--------A----	Obj
+15	si	P7-X3----------	Adv
+16	poznámky	NNFP4-----A----	Obj
+17	,	Z:-------------	Coord
+18	výpisky	NNIP4-----A----	Obj
+19	atd	Db------------8	Coord
+20	.	Z:-------------	AuxG
+
+vesm9212-029-p8s1
+1	Jiří	NNMS1-----A----	Atr
+2	Jelínek	NNMS1-----A----	ExD
+3	Roztocká	AAFS1----1A----	Atr
+4	1001	C=-------------	Atr
+5	514	C=-------------	Atr
+6	01	C=-------------	Atr
+7	Jilemnice	NNFS1-----A----	Atr
+8	tel	NNIXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	(	Z:-------------	AuxG
+11	0432	C=-------------	Atr
+12	)	Z:-------------	AuxG
+13	3206	C=-------------	Atr
+
+vesm9212-029-p12s1
+1	Vážení	AAMP5----1A----	Atr
+2	čtenáři	NNMP5-----A----	ExD
+3	,	Z:-------------	AuxX
+4	pokud	J,-------------	AuxC
+5	je	VB-S---3P-AA---	Adv
+6	mezi	RR--7----------	AuxP
+7	Vašimi	PSXP7-P2-------	Atr
+8	blízkými	AAMP7----1A----	Adv
+9	,	Z:-------------	AuxX
+10	přáteli	NNMP7-----A----	Adv
+11	či	J^-------------	Coord
+12	známými	NNMP7-----A----	Adv
+13	nevidomý	NNMS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	který	P4YS1----------	Sb
+16	má	VB-S---3P-AA---	Atr
+17	zájem	NNIS4-----A----	Obj
+18	o	RR--4----------	AuxP
+19	časopis	NNIS4-----A----	Atr
+20	Vesmír	NNIS1-----A----	Atr
+21	a	J^-------------	Coord
+22	který	P4YS1----------	Sb
+23	pracuje	VB-S---3P-AA---	Atr
+24	s	RR--7----------	AuxP
+25	počítačem	NNIS7-----A----	Obj
+26	,	Z:-------------	AuxX
+27	může	VB-S---3P-AA---	Pred
+28	od	RR--2----------	AuxP
+29	nás	PP-P2--1-------	Obj
+30	dostávat	Vf--------A----	Obj
+31	celé	AANS4----1A----	Atr
+32	číslo	NNNS4-----A----	Obj
+33	vždy	Db-------------	Adv
+34	na	RR--6----------	AuxP
+35	disketě	NNFS6-----A----	AdvAtr
+36	.	Z:-------------	AuxK
+
+vesm9212-029-p13s2
+1	Tento	PDIS4----------	Atr
+2	způsob	NNIS4-----A----	Obj
+3	jsme	VB-P---1P-AA---	AuxV
+4	již	Db-------------	Adv
+5	vyzkoušeli	VpMP---XR-AA---	Pred
+6	s	RR--7----------	AuxP
+7	panem	NNMS7-----A----	Atr
+8	Jelínkem	NNMS7-----A----	Adv
+9	,	Z:-------------	AuxX
+10	a	J^-------------	Coord
+11	zdá	VB-S---3P-AA---	Pred
+12	se	P7-X4----------	AuxT
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	to	PDNS1----------	Sb
+16	jde	VB-S---3P-AA---	Sb
+17	dobře	Dg-------1A----	Adv
+18	.	Z:-------------	AuxK
+
+vesm9212-029-p13s3
+1	Zakoupení	NNNS1-----A----	Sb
+2	karty	NNFS2-----A----	Atr
+3	pro	RR--4----------	AuxP
+4	hlasový	AAIS4----1A----	Atr
+5	výstup	NNIS4-----A----	Atr
+6	by	Vc-------------	AuxV
+7	neměl	VpYS---XR-NA---	Pred
+8	být	Vf--------A----	Obj
+9	velký	AAIS1----1A----	Atr
+10	problém	NNIS1-----A----	Pnom
+11	,	Z:-------------	Coord
+12	cena	NNFS1-----A----	Sb
+13	se	P7-X4----------	AuxT
+14	má	VB-S---3P-AA---	Pred
+15	pohybovat	Vf--------A----	Obj
+16	okolo	RR--2----------	AuxP
+17	7000	C=-------------	Atr
+18	Kčs	NNFXX-----A---8	Adv
+19	.	Z:-------------	AuxK
+
+vesm9212-029-p13s4
+1	Bližší	AAFP4----2A----	Atr
+2	informace	NNFP4-----A----	Obj
+3	Vám	PP-P3--2-------	Obj
+4	jistě	Dg-------1A----	Adv
+5	rádi	ACMP------A----	AtvV
+6	podají	VB-P---3P-AA---	Pred
+7	na	RR--6----------	AuxP
+8	adresách	NNFP6-----A----	Adv
+9	uvedených	AAFP6----1A----	Atr
+10	v	RR--6----------	AuxP
+11	dopise	NNIS6-----A----	Adv
+12	pana	NNMS2-----A----	Atr
+13	Jelínka	NNMS2-----A----	Atr
+14	nebo	J^-------------	Coord
+15	přímo	Dg-------1A----	AuxZ
+16	pan	NNMS1-----A----	Atr
+17	Jelínek	NNMS1-----A----	ExD
+18	.	Z:-------------	AuxK
+
+vesm9212-029-p14s1
+1	Pokud	J,-------------	AuxC
+2	odebíráte	VB-P---2P-AA---	Adv
+3	Vesmír	NNIS4-----A----	Obj
+4	a	J^-------------	Coord
+5	zašlete	VB-P---2P-AA---	Adv
+6	nám	PP-P3--1-------	Obj
+7	příslušný	AAIS4----1A----	Atr
+8	počet	NNIS4-----A----	Obj
+9	čistých	AAFP2----1A----	Atr
+10	disket	NNFP2-----A----	Atr
+11	(	Z:-------------	AuxG
+12	DD	NNFXX-----A---8	Atr
+13	i	J^-------------	Coord
+14	HD	NNFXX-----A---8	Atr
+15	-	Z:-------------	Coord
+16	5.25	C=-------------	Atr
+17	'	Z:-------------	AuxG
+18	i	J^-------------	Coord
+19	3.5	C=-------------	Atr
+20	'	Z:-------------	AuxG
+21	)	Z:-------------	AuxG
+22	a	J^-------------	Coord
+23	svoji	P8FS4----------	Atr
+24	adresu	NNFS4-----A----	Obj
+25	,	Z:-------------	AuxX
+26	můžeme	VB-P---1P-AA---	Pred
+27	Vám	PP-P3--2-------	Obj
+28	poslat	Vf--------A----	Obj
+29	soubory	NNIP4-----A----	Obj
+30	od	RR--2----------	AuxP
+31	čísla	NNNS2-----A----	AtrAdv
+32	5	C=-------------	Atr
+33	/	Z:-------------	AuxG
+34	92	C=-------------	Atr
+35	včetně	Db-------------	Adv
+36	(	Z:-------------	AuxG
+37	zdarma	Db-------------	Adv
+38	)	Z:-------------	AuxG
+39	.	Z:-------------	AuxK
+
+vesm9212-029-p14s2
+1	Jedno	ClNS1----------	Atr
+2	číslo	NNNS1-----A----	Sb
+3	=	Z:-------------	Pred
+4	cca	Db-------------	Adv
+5	310	C=-------------	Obj
+6	KB	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxK
+
+vesm9212-029-p15s1
+1	redakce	NNFS1-----A----	ExD
+
+vesm9212-029-p16s1
+1	Jako	J,-------------	AuxY
+2	poznámku	NNFS4-----A----	Atv
+3	uvádíme	VB-P---1P-AA---	Pred
+4	prosbu	NNFS4-----A----	Obj
+5	autorům	NNMP3-----A----	Atr
+6	píšícím	AGMP3-----A----	Atr
+7	na	RR--6----------	AuxP
+8	počítači	NNIS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	pečlivě	Dg-------1A----	Adv
+12	dbali	VpMP---XR-AA---	Atr
+13	na	RR--4----------	AuxP
+14	rozlišování	NNNS4-----A----	Obj
+15	písmene	NNNS2-----A----	Atr
+16	O	NNNXX-----A----	Atr
+17	od	RR--2----------	AuxP
+18	čísla	NNNS2-----A----	Atr
+19	0	C=-------------	Atr
+20	.	Z:-------------	AuxK
+
+vesm9212-029-p16s2
+1	Jak	Db-------------	Adv
+2	vidíte	VB-P---2P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	nepodaří	VB-S---3P-NA---	Pred
+5	se	P7-X4----------	AuxT
+6	nám	PP-P3--1-------	Obj
+7	pokaždé	Db-------------	Adv
+8	všechny	PLYP4----------	Atr
+9	tyto	PDIP4----------	Atr
+10	omyly	NNIP4-----A----	Obj
+11	objevit	Vf--------A----	Sb
+12	a	J^-------------	Coord
+13	opravit	Vf--------A----	Sb
+14	,	Z:-------------	Coord
+15	za	RR--4----------	AuxP
+16	což	PE--4----------	Obj
+17	se	P7-X4----------	AuxT
+18	čtenářům	NNMP3-----A----	Obj
+19	omlouváme	VB-P---1P-AA---	Pred
+20	.	Z:-------------	AuxK
+

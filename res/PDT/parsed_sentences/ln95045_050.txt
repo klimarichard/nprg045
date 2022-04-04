@@ -1,0 +1,418 @@
+ln95045-050-p1s1
+1	Pozdní	AANS1----1A----	Atr
+2	dílo	NNNS1-----A----	ExD
+3	zakladatele	NNMS2-----A----	Atr
+4	Cobry	NNFS2-----A----	Atr
+
+ln95045-050-p2s1A
+1	Dánský	AAMS1----1A----	Atr
+2	grafik	NNMS1-----A----	Atr
+3	Asger	NNMS1-----A----	Atr
+4	Jorn	NNMS1-----A----	Sb
+5	vystavuje	VB-S---3P-AA---	Pred
+6	své	P8FP4---------1	Atr
+7	práce	NNFP4-----A----	Obj
+8	v	RR--6----------	AuxP
+9	paláci	NNIS6-----A----	Adv
+10	Kinských	NNMP2-----A----	Atr
+
+ln95045-050-p2s1B
+1	V	RR--6----------	AuxP
+2	Grafické	AAFS6----1A----	Atr
+3	sbírce	NNFS6-----A----	Adv
+4	Národní	AAFS2----1A----	Atr
+5	galerie	NNFS2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	AtrAtr
+8	je	VB-S---3P-AA---	Pred
+9	otevřena	VsQW---XX-AP---	Pnom
+10	retrospektivní	AAFS1----1A----	Atr
+11	výstava	NNFS1-----A----	Sb
+12	ASGERA	NNMS2-----A----	Atr
+13	JORNA	NNMS2-----A----	Atr
+14	(	Z:-------------	AuxG
+15	1914	C=-------------	ExD
+16	-	Z:-------------	Coord
+17	1973	C=-------------	ExD
+18	)	Z:-------------	AuxG
+19	,	Z:-------------	Apos
+20	jedné	ClFS2----------	Atr
+21	z	RR--2----------	AuxP
+22	největších	AAFP2----3A----	Atr
+23	osobností	NNFP2-----A----	Atr
+24	dánského	AANS2----1A----	Atr
+25	umění	NNNS2-----A----	Atr
+26	dvacátého	CrNS2----------	Atr
+27	století	NNNS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95045-050-p2s2
+1	Předtím	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	uskutečnila	VpQW---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	Drážďanech	NNIP6-----A----	Adv
+6	a	J^-------------	Coord
+7	ukázala	VpQW---XR-AA---	Pred
+8	složitý	AAIS4----1A----	Atr
+9	vývoj	NNIS4-----A----	Obj
+10	tohoto	PDZS2----------	Atr
+11	severského	AAMS2----1A----	Atr
+12	umělce	NNMS2-----A----	Atr
+13	,	Z:-------------	Apos
+14	zakladatele	NNMS2-----A----	Atr
+15	a	J^-------------	Coord
+16	nejvýznamnějšího	AAMS2----3A----	Atr
+17	člena	NNMS2-----A----	Atr
+18	skupiny	NNFS2-----A----	Atr
+19	Cobra	NNFS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-050-p3s1
+1	Právě	Db-------------	AuxZ
+2	na	RR--6----------	AuxP
+3	její	PSFSXFS3-------	Atr
+4	výstavě	NNFS6-----A----	Adv
+5	v	RR--6----------	AuxP
+6	sálech	NNIP6-----A----	Atr
+7	Národní	AAFS2----1A----	Atr
+8	galerie	NNFS2-----A----	Atr
+9	mohli	VpMP---XR-AA---	Pred
+10	pražští	AAMP1----1A----	Atr
+11	diváci	NNMP1-----A----	Sb
+12	vidět	Vf--------A----	Obj
+13	Jornovy	AUIP4M---------	Atr
+14	obrazy	NNIP4-----A----	Obj
+15	už	Db-------------	AuxZ
+16	před	RR--7----------	AuxP
+17	několika	Ca--7----------	Atr
+18	lety	NNNP7-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln95045-050-p3s2
+1	Teprve	Db-------------	AuxZ
+2	nyní	Db-------------	Adv
+3	však	J^-------------	Coord
+4	máme	VB-P---1P-AA---	Pred
+5	příležitost	NNFS4-----A----	Obj
+6	sledovat	Vf--------A----	Atr
+7	různé	AAFP4----1A----	Atr
+8	jemnosti	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	návraty	NNIP4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	objevy	NNIP4-----A----	Obj
+13	a	J^-------------	Coord
+14	vlivy	NNIP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	které	P4IP1----------	Sb
+17	jsou	VB-P---3P-AA---	Atr
+18	součástí	NNFS7-----A----	Pnom
+19	jeho	PSXXXZS3-------	Atr
+20	složité	AAFS2----1A----	Atr
+21	a	J^-------------	Coord
+22	mnohotvárné	AAFS2----1A----	Atr
+23	práce	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95045-050-p3s3
+1	Asger	NNMS1-----A----	Atr
+2	Jorn	NNMS1-----A----	Sb
+3	hodně	Dg-------1A----	Adv
+4	cestoval	VpYS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	pobýval	VpYS---XR-AA---	Pred
+7	ve	RV--6----------	AuxP
+8	Francii	NNFS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	Itálii	NNFS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	Švýcarsku	NNNS6-----A----	Adv
+13	i	J^-------------	Coord
+14	Německu	NNNS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	a	J^-------------	Coord
+17	všude	Db-------------	Adv
+18	navazoval	VpYS---XR-AA---	Pred
+19	rozvětvené	AAIP4----1A----	Atr
+20	vztahy	NNIP4-----A----	Obj
+21	,	Z:-------------	AuxX
+22	usnadněné	AAIP4----1A----	Atr
+23	jeho	PSXXXZS3-------	Atr
+24	jazykovým	AANS7----1A----	Atr
+25	nadáním	NNNS7-----A----	Adv
+26	.	Z:-------------	AuxK
+
+ln95045-050-p3s4
+1	Stýkal	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	s	RR--7----------	AuxP
+4	mnohými	AAFP7----1A----	Obj
+5	z	RR--2----------	AuxP
+6	nejuznávanějších	AAFP2----3A----	Atr
+7	osobností	NNFP2-----A----	Atr
+8	a	J^-------------	Coord
+9	tvůrčím	AAIS7----1A----	Atr
+10	způsobem	NNIS7-----A----	Adv
+11	rozvíjel	VpYS---XR-AA---	Pred
+12	jejich	PSXXXXP3-------	Atr
+13	odkaz	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln95045-050-p3s5
+1	Jornovo	AUNS4M---------	Atr
+2	rané	AANS4----1A----	Atr
+3	období	NNNS4-----A----	Obj
+4	ovlivňoval	VpYS---XR-AA---	Pred
+5	surrealismus	NNIS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+ln95045-050-p3s6
+1	Neustálým	AANS7----1A----	Atr
+2	hledáním	NNNS7-----A----	Adv
+3	tvarů	NNIP2-----A----	Atr
+4	a	J^-------------	Coord
+5	znaků	NNIP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	smyslem	NNIS7-----A----	Adv
+8	pro	RR--4----------	AuxP
+9	úsporné	AANS4----1A----	Atr
+10	řazení	NNNS4-----A----	Atr
+11	čar	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	barevných	AAIP2----1A----	Atr
+14	tónů	NNIP2-----A----	Atr
+15	i	J^-------------	Coord
+16	proměnlivostí	NNFS7-----A----	Adv
+17	výrazu	NNIS2-----A----	Atr
+18	ovlivnil	VpYS---XR-AA---	Pred
+19	jeho	PSXXXZS3-------	Atr
+20	tvorbu	NNFS4-----A----	Obj
+21	Paul	NNMS1-----A----	Atr
+22	Klee	NNMS1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+ln95045-050-p3s7
+1	Citem	NNIS7-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	vyjádření	NNNS4-----A----	Atr
+4	přírodních	AAIP2----1A----	Atr
+5	dějů	NNIP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	jejich	PSXXXXP3-------	Atr
+8	mnohoznačnosti	NNFS6-----A----	Atr
+9	a	J^-------------	Coord
+10	zároveň	Db-------------	Adv
+11	chápáním	NNNS7-----A----	Adv
+12	přesných	AAFP2----1A----	Atr
+13	zákonitostí	NNFP2-----A----	Atr
+14	vesmírného	AAIS2----1A----	Atr
+15	řádu	NNIS2-----A----	Atr
+16	se	P7-X4----------	AuxT
+17	stal	VpYS---XR-AA---	Pred
+18	jeho	PSXXXZS3-------	Atr
+19	předchůdcem	NNMS7-----A----	Obj
+20	Vasilij	NNMS1-----A----	Atr
+21	Kandinskij	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+ln95045-050-p3s8
+1	Asger	NNMS1-----A----	Atr
+2	Jorn	NNMS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	zajímal	VpYS---XR-AA---	Pred
+5	také	Db-------------	Adv
+6	o	RR--4----------	AuxP
+7	historii	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	filozofii	NNFS4-----A----	Obj
+10	a	J^-------------	Coord
+11	literaturu	NNFS4-----A----	Obj
+12	,	Z:-------------	Coord
+13	organizoval	VpYS---XR-AA---	Pred
+14	různá	AANP4----1A----	Atr
+15	setkání	NNNP4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	která	P4NP1----------	Sb
+18	vedla	VpQW---XR-AA---	Atr
+19	ke	RV--3----------	AuxP
+20	vzájemnému	AANS3----1A----	Atr
+21	poznávání	NNNS3-----A----	Adv
+22	umělců	NNMP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95045-050-p3s9
+1	Z	RR--2----------	AuxP
+2	rozmanitých	AAIP2----1A----	Atr
+3	podnětů	NNIP2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	zvolna	Db-------------	Adv
+6	utvářel	VpYS---XR-AA---	Pred
+7	jeho	PSXXXZS3-------	Atr
+8	nezaměnitelný	AAIS1----1N----	Atr
+9	názor	NNIS1-----A----	Sb
+10	a	J^-------------	Coord
+11	rukopis	NNIS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	určený	AAIS1----1A----	Atr
+14	především	Db-------------	AuxZ
+15	osobní	AAFS7----1A----	Atr
+16	intuicí	NNFS7-----A----	Adv
+17	,	Z:-------------	AuxX
+18	dojmy	NNIP7-----A----	Adv
+19	vycházejícími	AGIP7-----A----	Atr
+20	ze	RV--2----------	AuxP
+21	současnosti	NNFS2-----A----	Adv
+22	a	J^-------------	Coord
+23	ostrým	AANS7----1A----	Atr
+24	viděním	NNNS7-----A----	Adv
+25	kulturního	AAIS2----1A----	Atr
+26	vývoje	NNIS2-----A----	Atr
+27	i	J^-------------	Coord
+28	společenských	AAIP2----1A----	Atr
+29	vztahů	NNIP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln95045-050-p4s1
+1	Umělcovo	AUNS1M---------	Atr
+2	dílo	NNNS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	od	RR--2----------	AuxP
+5	předválečné	AAFS2----1A----	Atr
+6	doby	NNFS2-----A----	Adv
+7	přes	RR--4----------	AuxP
+8	čtyřicátá	CrNP4----------	Atr
+9	léta	NNNP4-----A---2	Adv
+10	postupně	Dg-------1A----	Adv
+11	vyhraňovalo	VpNS---XR-AA---	Pred
+12	.	Z:-------------	AuxK
+
+ln95045-050-p4s2
+1	Odkaz	NNIS1-----A----	Sb
+2	národní	AAFS2----1A----	Atr
+3	kultury	NNFS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	prolínal	VpYS---XR-AA---	Pred
+6	s	RR--7----------	AuxP
+7	rozsáhlým	AANS7----1A----	Atr
+8	poznáním	NNNS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	zprostředkovaným	AANS7----1A----	Atr
+11	i	J^-------------	AuxZ
+12	spoluprací	NNFS7-----A----	Adv
+13	s	RR--7----------	AuxP
+14	různými	AAIP7----1A----	Atr
+15	časopisy	NNIP7-----A----	Atr
+16	a	J^-------------	Coord
+17	autorovým	AUIS7M---------	Atr
+18	podílem	NNIS7-----A----	Adv
+19	na	RR--6----------	AuxP
+20	zakládání	NNNS6-----A----	Atr
+21	rozličných	AANP2----1A----	Atr
+22	uměleckých	AANP2----1A----	Atr
+23	seskupení	NNNP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95045-050-p4s3
+1	Jornův	AUIS1M---------	Atr
+2	styl	NNIS1-----A----	Sb
+3	postupně	Dg-------1A----	Adv
+4	dozrával	VpYS---XR-AA---	Pred
+5	a	J^-------------	Coord
+6	stal	VpYS---XR-AA---	Pred
+7	se	P7-X4----------	AuxT
+8	součástí	NNFS7-----A----	Obj
+9	vlny	NNFS2-----A----	Atr
+10	poválečného	AAIS2----1A----	Atr
+11	abstraktního	AAIS2----1A----	Atr
+12	expresionismu	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95045-050-p4s4
+1	Snad	Db-------------	AuxY
+2	nejpřesvědčivěji	Dg-------3A----	Adv
+3	působí	VB-S---3P-AA---	Pred
+4	Jornovo	AUNS1M---------	Atr
+5	výrazné	AANS1----1A----	Atr
+6	a	J^-------------	Coord
+7	zároveň	Db-------------	ExD
+8	vzácně	Dg-------1A----	Adv
+9	kultivované	AANS1----1A----	Atr
+10	pozdní	AANS1----1A----	Atr
+11	dílo	NNNS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	jehož	P1XXXZS3-------	Atr
+14	formu	NNFS4-----A----	Obj
+15	umocnila	VpQW---XR-AA---	Atr
+16	umělcova	AUFS1M---------	Atr
+17	mnohostranná	AAFS1----1A----	Atr
+18	zkušenost	NNFS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+ln95045-050-p4s5
+1	Výstava	NNFS1-----A----	Sb
+2	představuje	VB-S---3P-AA---	Pred
+3	grafické	AAIP4----1A----	Atr
+4	listy	NNIP4-----A----	Obj
+5	v	RR--6----------	AuxP
+6	logických	AAIP6----1A----	Atr
+7	souborech	NNIP6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	daných	AAIP6----1A----	Atr
+10	vnitřní	AAFS7----1A----	Atr
+11	potřebou	NNFS7-----A----	Adv
+12	i	J^-------------	Coord
+13	vnějším	AANS7----1A----	Atr
+14	určením	NNNS7-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln95045-050-p4s6
+1	Instalace	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	příliš	Db-------------	Adv
+4	nedrží	VB-S---3P-NA---	Pred
+5	chronologie	NNFS2-----A----	Obj
+6	:	Z:-------------	Coord
+7	klade	VB-S---3P-AA---	Pred
+8	totiž	Db-------------	AuxY
+9	důraz	NNIS4-----A----	Obj
+10	spíš	Dg-------2A----	Adv
+11	na	RR--4----------	AuxP
+12	jiné	AAFP4----1A----	Atr
+13	,	Z:-------------	Coord
+14	mnohem	Db-------------	Adv
+15	významnější	AAFP4----2A----	Atr
+16	souvislosti	NNFP4-----A----	Obj
+17	Jornova	AUNS2M---------	Atr
+18	pozoruhodného	AANS2----1A----	Atr
+19	díla	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95045-050-p4s7
+1	Asger	NNMS1-----A----	Atr
+2	Jorn	NNMS1-----A----	ExD
+3	-	Z:-------------	Coord
+4	Grafické	AANS1----1A----	Atr
+5	dílo	NNNS1-----A----	ExD
+6	.	Z:-------------	AuxK
+
+ln95045-050-p4s8
+1	Palác	NNIS1-----A----	ExD
+2	Kinských	NNMP2-----A----	Atr
+3	,	Z:-------------	Coord
+4	Národní	AAFS1----1A----	Atr
+5	galerie	NNFS1-----A----	ExD
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95045-050-p4s9
+1	31	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	ledna	NNIS2-----A----	ExD
+4	-	Z:-------------	Coord
+5	19	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	března	NNIS2-----A----	ExD
+8	.	Z:-------------	AuxK
+

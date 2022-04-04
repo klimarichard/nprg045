@@ -1,0 +1,1144 @@
+vesm9212-015-p1s1
+1	BOX	NNIS1-----A----	ExD
+2	1	C=-------------	Atr
+
+vesm9212-015-p2s1
+1	SCHRÖDINGEROVA	AUFS1M---------	Atr
+2	KOČKA	NNFS1-----A----	ExD
+3	A	J^-------------	Coord
+4	ŠTĚRBINOVÝ	AAIS1----1A----	Atr
+5	EXPERIMENT	NNIS1-----A----	ExD
+
+vesm9212-015-p3s1A
+1	Rozdíl	NNIS1-----A----	Sb
+2	mezi	RR--7----------	AuxP
+3	statistickým	AAIS7----1A----	Atr
+4	popisem	NNIS7-----A----	Atr
+5	založeným	AAIS7----1A----	Atr
+6	na	RR--6----------	AuxP
+7	klasické	AAFS6----1A----	Atr
+8	mechanice	NNFS6-----A----	Obj
+9	a	J^-------------	Coord
+10	statistickým	AAIS7----1A----	Atr
+11	popisem	NNIS7-----A----	Atr
+12	založeným	AAIS7----1A----	Atr
+13	na	RR--6----------	AuxP
+14	pravděpodobnosti	NNFS6-----A----	Obj
+15	v	RR--6----------	AuxP
+16	kvantové	AAFS6----1A----	Atr
+17	teorii	NNFS6-----A----	Atr
+18	byl	VpYS---XR-AA---	AuxV
+19	podrobně	Dg-------1A----	Adv
+20	probrán	VsYS---XX-AP---	Pred
+21	v	RR--6----------	AuxP
+22	článku	NNIS6-----A----	Adv
+23	J	NNMXX-----A---8	Atr
+24	.	Z:-------------	AuxG
+25	Podolského	NNMS2-----A----	Atr
+26	"	Z:-------------	AuxG
+27	Vlny	NNFP1-----A----	Atr
+28	versus	RR--1----------	AuxP
+29	částice	NNFP1-----A----	Atr
+30	"	Z:-------------	AuxG
+31	(	Z:-------------	ExD
+32	Vesmír	NNIS1-----A----	ExD
+33	71	C=-------------	Atr
+34	,	Z:-------------	AuxX
+35	193	C=-------------	Atr
+36	,	Z:-------------	AuxX
+37	1992	C=-------------	Atr
+38	/	Z:-------------	AuxG
+39	4	C=-------------	Atr
+40	)	Z:-------------	ExD
+41	,	Z:-------------	AuxX
+42	kde	Db-------------	Adv
+43	se	P7-X4----------	AuxR
+44	rozebírá	VB-S---3P-AA---	Atr
+45	experiment	NNIS1-----A----	Sb
+46	s	RR--7----------	AuxP
+47	elektrony	NNIP7-----A----	Atr
+48	dopadajícími	AGIP7-----A----	Atr
+49	na	RR--4----------	AuxP
+50	přepážku	NNFS4-----A----	Adv
+51	s	RR--7----------	AuxP
+52	dvěma	ClXP7----------	Atr
+53	blízkými	AAFP7----1A----	Atr
+54	štěrbinami	NNFP7-----A----	Atr
+55	.	Z:-------------	AuxK
+
+vesm9212-015-p3s1B
+1	"	Z:-------------	AuxG
+2	Měření	NNNS1-----A----	Sb
+3	"	Z:-------------	AuxG
+4	zde	Db-------------	Adv
+5	představuje	VB-S---3P-AA---	Pred
+6	-	Z:-------------	AuxG
+7	tak	Db-------------	Adv
+8	jako	J,-------------	AuxC
+9	obecně	Dg-------1A----	ExD
+10	v	RR--6----------	AuxP
+11	kvantové	AAFS6----1A----	Atr
+12	mechanice	NNFS6-----A----	ExD
+13	-	Z:-------------	AuxG
+14	přípravu	NNFS4-----A----	Obj
+15	určitého	AAIS2----1A----	Atr
+16	stavu	NNIS2-----A----	Atr
+17	elektronu	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9212-015-p3s2
+1	Pokud	J,-------------	AuxC
+2	je	VB-S---3P-AA---	Adv
+3	otevřená	AAFS1----1A----	Pnom
+4	první	CrFS1----------	Atr
+5	štěrbina	NNFS1-----A----	Sb
+6	a	J^-------------	Coord
+7	druhá	CrFS1----------	ExD
+8	je	VB-S---3P-AA---	Adv
+9	zavřená	AAFS1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	připravíme	VB-P---1P-AA---	Pred
+12	stav	NNIS4-----A----	Obj
+13	"	Z:-------------	AuxG
+14	elektron	NNIS1-----A----	Sb
+15	prošel	VpYS---XR-AA---	Atr
+16	první	CrFS7----------	Atr
+17	štěrbinou	NNFS7-----A----	Adv
+18	"	Z:-------------	AuxG
+19	,	Z:-------------	Coord
+20	je	VB-S---3P-AA---	Adv
+21	-	Z:-------------	AuxG
+22	li	TT-------------	AuxC
+23	tomu	PDZS3----------	Sb
+24	naopak	Db-------------	Adv
+25	,	Z:-------------	AuxX
+26	připravíme	VB-P---1P-AA---	Pred
+27	stav	NNIS4-----A----	Obj
+28	"	Z:-------------	AuxG
+29	elektron	NNIS1-----A----	Sb
+30	prošel	VpYS---XR-AA---	Atr
+31	druhou	CrFS7----------	Atr
+32	štěrbinou	NNFS7-----A----	Adv
+33	"	Z:-------------	AuxG
+34	;	Z:-------------	AuxK
+
+vesm9212-015-p3s3
+1	otevřeme	VB-P---1P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	obě	ClHP4----------	Obj
+5	najednou	Db-------------	Adv
+6	,	Z:-------------	AuxX
+7	připravíme	VB-P---1P-AA---	Pred
+8	stav	NNIS4-----A----	Obj
+9	"	Z:-------------	AuxG
+10	nevíme	VB-P---1P-NA---	Atr
+11	,	Z:-------------	AuxX
+12	kudy	Db-------------	Adv
+13	prošel	VpYS---XR-AA---	Obj
+14	"	Z:-------------	AuxG
+15	.	Z:-------------	AuxK
+
+vesm9212-015-p3s4
+1	Každý	AAIS1----1A----	Sb
+2	ze	RV--2----------	AuxP
+3	stavů	NNIP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	popsán	VsYS---XX-AP---	Pnom
+6	jinou	AAFS7----1A----	Atr
+7	vlnovou	AAFS7----1A----	Atr
+8	funkcí	NNFS7-----A----	Adv
+9	.	Z:-------------	AuxK
+
+vesm9212-015-p3s5
+1	Funkci	NNFS4-----A----	Obj
+2	odpovídající	AGFS4-----A----	Atr
+3	poslednímu	AAIS3----1A----	Atr
+4	případu	NNIS3-----A----	Obj
+5	můžeme	VB-P---1P-AA---	Pred
+6	psát	Vf--------A----	Obj
+7	jako	J,-------------	AuxY
+8	"	Z:-------------	AuxG
+9	směs	NNFS4-----A----	Atv
+10	"	Z:-------------	AuxG
+11	vlnových	AAFP2----1A----	Atr
+12	funkcí	NNFP2-----A----	Atr
+13	odpovídajících	AGFP2-----A----	Atr
+14	prvním	CrIP3----------	Atr
+15	dvěma	ClXP3----------	Obj
+16	.	Z:-------------	AuxK
+
+vesm9212-015-p3s6
+1	Provedeme	VB-P---1P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	ale	J^-------------	Coord
+5	následná	AANP4----1A----	Atr
+6	měření	NNNP4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	tuto	PDFS4----------	Atr
+9	"	Z:-------------	AuxG
+10	směs	NNFS4-----A----	AdvAtr
+11	"	Z:-------------	AuxG
+12	,	Z:-------------	AuxX
+13	výsledky	NNIP1-----A----	Sb
+14	nebudou	VB-P---3F-NA---	Pred
+15	superpozicí	NNFS7-----A----	Pnom
+16	výsledků	NNIP2-----A----	Atr
+17	měření	NNNP2-----A----	Atr
+18	na	RR--4----------	AuxP
+19	jednotlivé	AAFP4----1A----	Atr
+20	funkce	NNFP4-----A----	Atr
+21	zvlášť	Db-------------	AuxZ
+22	-	Z:-------------	AuxG
+23	v	RR--6----------	AuxP
+24	řeči	NNFS6-----A----	ExD
+25	vln	NNFP2-----A----	Atr
+26	,	Z:-------------	Coord
+27	vlny	NNFP1-----A----	Sb
+28	ve	RV--6----------	AuxP
+29	"	Z:-------------	AuxG
+30	směsi	NNFS6-----A----	Atr
+31	"	Z:-------------	AuxG
+32	spolu	Db-------------	Adv
+33	interferují	VB-P---3P-AA---	Pred
+34	.	Z:-------------	AuxK
+
+vesm9212-015-p3s7
+1	Při	RR--6----------	AuxP
+2	experimentu	NNIS6-----A----	Atr
+3	,	Z:-------------	AuxX
+4	kdy	Db-------------	Adv
+5	postupně	Dg-------1A----	Adv
+6	dopadá	VB-S---3P-AA---	Atr
+7	tisíc	NNIS1-----A----	Sb
+8	elektronů	NNIP2-----A----	Atr
+9	při	RR--6----------	AuxP
+10	zavřené	AAFS6----1A----	Atr
+11	druhé	CrFS6----------	ExD
+12	a	J^-------------	Coord
+13	pak	Db-------------	ExD
+14	tisíc	NNIS1-----A----	ExD
+15	elektronů	NNIP2-----A----	Atr
+16	při	RR--6----------	AuxP
+17	zavřené	AAFS6----1A----	Atr
+18	první	CrFS6----------	Atr
+19	štěrbině	NNFS6-----A----	ExD
+20	a	J^-------------	Coord
+21	při	RR--6----------	AuxP
+22	dalším	AAIS6----1A----	Atr
+23	experimentu	NNIS6-----A----	ExD
+24	tisíc	NNIS1-----A----	ExD
+25	elektronů	NNIP2-----A----	Atr
+26	při	RR--6----------	AuxP
+27	obou	ClXP6----------	Atr
+28	štěrbinách	NNFP6-----A----	ExD
+29	otevřených	AAFP6----1A----	Atr
+30	,	Z:-------------	AuxX
+31	budou	VB-P---3F-AA---	AuxV
+32	se	P7-X4----------	AuxT
+33	obrazy	NNIP1-----A----	Sb
+34	stop	NNFP2-----A----	Atr
+35	elektronů	NNIP2-----A----	Atr
+36	na	RR--6----------	AuxP
+37	stínidle	NNNS6-----A----	AtrAdv
+38	za	RR--7----------	AuxP
+39	přepážkou	NNFS7-----A----	Atr
+40	lišit	Vf--------A----	Pred
+41	.	Z:-------------	AuxK
+
+vesm9212-015-p3s8
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	částice	NNFP1-----A----	Sb
+5	chovaly	VpTP---XR-AA---	Adv
+6	podle	RR--2----------	AuxP
+7	klasické	AAFS2----1A----	Atr
+8	mechaniky	NNFS2-----A----	Adv
+9	,	Z:-------------	AuxX
+10	procházely	VpTP---XR-AA---	Pred
+11	by	Vc-------------	AuxV
+12	i	J^-------------	AuxZ
+13	při	RR--6----------	AuxP
+14	současně	Dg-------1A----	Adv
+15	otevřených	AAFP6----1A----	Atr
+16	obou	ClXP6----------	Atr
+17	štěrbinách	NNFP6-----A----	Adv
+18	jenom	TT-------------	AuxZ
+19	jednou	ClFS7----------	Adv
+20	z	RR--2----------	AuxP
+21	nich	P5XP2--3-------	Atr
+22	a	J^-------------	Coord
+23	přítomnost	NNFS1-----A----	Sb
+24	druhé	CrFS2----------	ExD
+25	by	Vc-------------	AuxV
+26	jejich	PSXXXXP3-------	Atr
+27	dráhu	NNFS4-----A----	Obj
+28	neovlivnila	VpQW---XR-NA---	Pred
+29	;	Z:-------------	AuxK
+
+vesm9212-015-p3s9
+1	stopy	NNFP1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	stínidle	NNNS6-----A----	Atr
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxT
+6	tedy	Db-------------	Coord
+7	shodovaly	VpTP---XR-AA---	Pred
+8	.	Z:-------------	AuxK
+
+vesm9212-015-p4s1
+1	Štěrbinový	AAIS4----1A----	Atr
+2	experiment	NNIS4-----A----	Obj
+3	můžeme	VB-P---1P-AA---	Pred
+4	s	RR--7----------	AuxP
+5	určitou	AAFS7----1A----	Atr
+6	nepřesností	NNFS7-----N----	Adv
+7	přiřadit	Vf--------A----	Obj
+8	k	RR--3----------	AuxP
+9	"	Z:-------------	AuxG
+10	problému	NNIS3-----A----	Adv
+11	kočky	NNFS2-----A----	Atr
+12	"	Z:-------------	AuxG
+13	tak	Db-------------	Adv
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	průchod	NNIS1-----A----	Sb
+17	první	CrFS7----------	Atr
+18	štěrbinou	NNFS7-----A----	Atr
+19	odpovídá	VB-S---3P-AA---	Adv
+20	přípravě	NNFS3-----A----	Obj
+21	stavu	NNIS2-----A----	Atr
+22	"	Z:-------------	AuxG
+23	živá	AAFS1----1A----	ExD
+24	"	Z:-------------	AuxG
+25	,	Z:-------------	Coord
+26	průchod	NNIS1-----A----	Sb
+27	druhou	CrFS7----------	Atr
+28	štěrbinou	NNFS7-----A----	Atr
+29	připraví	VB-S---3P-AA---	Adv
+30	stav	NNIS4-----A----	Obj
+31	"	Z:-------------	AuxG
+32	mrtvá	AAFS1----1A----	ExD
+33	"	Z:-------------	AuxG
+34	.	Z:-------------	AuxK
+
+vesm9212-015-p4s2
+1	Předchozí	AAFS1----1A----	Atr
+2	diskuse	NNFS1-----A----	Sb
+3	pak	Db-------------	Adv
+4	ukazuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	je	VB-S---3P-AA---	Obj
+8	experimentálně	Dg-------1A----	Adv
+9	rozlišitelné	AANS1----1A----	Pnom
+10	,	Z:-------------	AuxX
+11	zda	J,-------------	AuxC
+12	se	P7-X4----------	AuxT
+13	systém	NNIS1-----A----	Sb
+14	vyvíjí	VB-S---3P-AA---	Sb
+15	v	RR--6----------	AuxP
+16	čase	NNIS6-----A----	Adv
+17	z	RR--2----------	AuxP
+18	"	Z:-------------	AuxG
+19	čistého	AAIS2----1A----	Atr
+20	"	Z:-------------	AuxG
+21	stavu	NNIS2-----A----	Adv
+22	,	Z:-------------	AuxX
+23	nebo	J^-------------	Coord
+24	"	Z:-------------	AuxG
+25	směsi	NNFS2-----A----	Adv
+26	stavů	NNIP2-----A----	Atr
+27	"	Z:-------------	AuxG
+28	.	Z:-------------	AuxK
+
+vesm9212-015-p5s1
+1	Štěrbinový	AAIS1----1A----	Atr
+2	experiment	NNIS1-----A----	Sb
+3	nám	PP-P3--1-------	Obj
+4	objasní	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	to	PDNS4----------	Obj
+7	,	Z:-------------	AuxX
+8	proč	Db-------------	Adv
+9	z	RR--2----------	AuxP
+10	praktického	AANS2----1A----	Atr
+11	hlediska	NNNS2-----A----	Adv
+12	se	P7-X4----------	AuxT
+13	ale	J^-------------	AuxY
+14	kočka	NNFS1-----A----	Sb
+15	chová	VB-S---3P-AA---	Atr
+16	podle	RR--2----------	AuxP
+17	klasických	AAFP2----1A----	Atr
+18	představ	NNFP2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+vesm9212-015-p5s2
+1	Představíme	VB-P---1P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	si	P7-X3----------	AuxT
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	štěrbiny	NNFP1-----A----	Sb
+8	jsou	VB-P---3P-AA---	Obj
+9	od	RR--2----------	AuxP
+10	sebe	P6-X2----------	Adv
+11	hodně	Dg-------1A----	Adv
+12	vzdálené	AAFP1----1A----	Pnom
+13	,	Z:-------------	AuxX
+14	vlny	NNFP1-----A----	Sb
+15	vycházející	AGFP1-----A----	Atr
+16	z	RR--2----------	AuxP
+17	obou	ClXP2----------	Atr
+18	štěrbin	NNFP2-----A----	Adv
+19	nebudou	VB-P---3F-NA---	AuxV
+20	prakticky	Dg-------1A----	Adv
+21	interferovat	Vf--------A----	Pred
+22	.	Z:-------------	AuxK
+
+vesm9212-015-p5s3
+1	Vlnová	AAFS1----1A----	Atr
+2	funkce	NNFS1-----A----	Sb
+3	za	RR--7----------	AuxP
+4	přepážkou	NNFS7-----A----	Atr
+5	bude	VB-S---3F-AA---	Pred
+6	stále	Db-------------	Adv
+7	"	Z:-------------	AuxG
+8	směsí	NNFS7-----A----	Pnom
+9	"	Z:-------------	AuxG
+10	dvou	ClXP2----------	Atr
+11	stavů	NNIP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	tyto	PDIP1----------	Atr
+15	stavy	NNIP1-----A----	Sb
+16	se	P7-X4----------	AuxT
+17	budou	VB-P---3F-AA---	AuxV
+18	chovat	Vf--------A----	Pred
+19	prakticky	Dg-------1A----	Adv
+20	nezávisle	Dg-------1N----	Adv
+21	a	J^-------------	Coord
+22	výsledky	NNIP1-----A----	Sb
+23	měření	NNNS2-----A----	Atr
+24	na	RR--6----------	AuxP
+25	druhé	CrFS6----------	Atr
+26	přepážce	NNFS6-----A----	Atr
+27	budou	VB-P---3F-AA---	Pred
+28	ve	RV--6----------	AuxP
+29	shodě	NNFS6-----A----	Adv
+30	s	RR--7----------	AuxP
+31	klasickou	AAFS7----1A----	Atr
+32	představou	NNFS7-----A----	Atr
+33	.	Z:-------------	AuxK
+
+vesm9212-015-p5s4
+1	Schrödingerovo	AUNS1M---------	Atr
+2	zařízení	NNNS1-----A----	Sb
+3	obsahuje	VB-S---3P-AA---	Pred
+4	několik	Ca--4----------	Obj
+5	makroskopických	AAFP2----1A----	Atr
+6	částí	NNFP2-----A----	Atr
+7	-	Z:-------------	Apos
+8	Geigerův	AUIS4M---------	Atr
+9	počítač	NNIS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	ampuli	NNFS4-----A----	Obj
+12	s	RR--7----------	AuxP
+13	kyanovodíkem	NNIS7-----A----	Atr
+14	,	Z:-------------	Coord
+15	samotnou	AAFS4----1A----	Atr
+16	kočku	NNFS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+vesm9212-015-p5s5
+1	Ty	PDFP1----------	Sb
+2	zesílí	VB-P---3P-AA---	Pred
+3	efekt	NNIS4-----A----	Obj
+4	rozpadlého	AAIS2----1A----	Atr
+5	atomu	NNIS2-----A----	Atr
+6	natolik	Db-------------	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	vlnové	AAFP1----1A----	Atr
+10	funkce	NNFP1-----A----	Sb
+11	obsahující	AGFP1-----A----	Atr
+12	rozpadlý	AAIS4----1A----	Atr
+13	a	J^-------------	Coord
+14	nerozpadlý	AAIS4----1N----	Atr
+15	atom	NNIS4-----A----	Obj
+16	budou	VB-P---3F-AA---	Adv
+17	velmi	Db-------------	Adv
+18	"	Z:-------------	AuxG
+19	rozdílné	AAFP1----1A----	Pnom
+20	"	Z:-------------	AuxG
+21	,	Z:-------------	Coord
+22	nebudou	VB-P---3F-NA---	AuxV
+23	navzájem	Db-------------	Adv
+24	interferovat	Vf--------A----	Adv
+25	.	Z:-------------	AuxK
+
+vesm9212-015-p5s6
+1	Oba	ClYP1----------	Atr
+2	stavy	NNIP1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	budou	VB-P---3F-AA---	AuxV
+5	proto	J^-------------	Adv
+6	vyvíjet	Vf--------A----	Pred
+7	prakticky	Dg-------1A----	Adv
+8	nezávisle	Dg-------1N----	Adv
+9	-	Z:-------------	AuxG
+10	tak	Db-------------	Adv
+11	jako	J,-------------	AuxC
+12	vlny	NNFP1-----A----	ExD
+13	vycházející	AGFP1-----A----	Atr
+14	ze	RV--2----------	AuxP
+15	vzdálených	AAFP2----1A----	Atr
+16	štěrbin	NNFP2-----A----	Adv
+17	.	Z:-------------	AuxK
+
+vesm9212-015-p5s7
+1	V	RR--6----------	AuxP
+2	tomto	PDZS6----------	Atr
+3	smyslu	NNIS6-----A----	Adv
+4	přechází	VB-S---3P-AA---	Pred
+5	kvantová	AAFS1----1A----	Atr
+6	mechanika	NNFS1-----A----	Sb
+7	pro	RR--4----------	AuxP
+8	makroskopické	AAIP4----1A----	Atr
+9	systémy	NNIP4-----A----	Atr
+10	v	RR--4----------	AuxP
+11	klasickou	AAFS4----1A----	ExD
+12	.	Z:-------------	AuxK
+
+vesm9212-015-p5s8
+1	To	PDNS1----------	Sb
+2	však	J^-------------	Coord
+3	nemění	VB-S---3P-NA---	Pred
+4	nic	PW--4----------	Obj
+5	na	RR--6----------	AuxP
+6	tom	PDZS6----------	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	až	TT-------------	AuxZ
+10	do	RR--2----------	AuxP
+11	provedení	NNNS2-----A----	Adv
+12	měření	NNNS2-----A----	Atr
+13	existují	VB-P---3P-AA---	Atr
+14	současně	Dg-------1A----	Adv
+15	oba	ClYP1----------	Atr
+16	stavy	NNIP1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	tak	Db-------------	Adv
+19	jako	J,-------------	AuxC
+20	za	RR--7----------	AuxP
+21	štěrbinami	NNFP7-----A----	Adv
+22	existují	VB-P---3P-AA---	Adv
+23	obě	ClHP1----------	Atr
+24	vlny	NNFP1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+vesm9212-015-p6s1
+1	Jiří	NNMS1-----A----	Atr
+2	Langer	NNMS1-----A----	ExD
+
+vesm9212-015-p7s1
+1	BOX	NNIXX-----A----	ExD
+2	2	C=-------------	Atr
+
+vesm9212-015-p8s1
+1	Jest	VB-S---3P-AA--2	Pred
+2	jistý	AAMS1----1A----	Atr
+3	mladík	NNMS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	který	P4YS1----------	Sb
+6	dí	VB-S---3P-AA---	Atr
+7	,	Z:-------------	AuxX
+
+vesm9212-015-p9s1
+1	Divím	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	Bůh	NNMS1-----A----	Sb
+7	nediví	VB-S---3P-NA---	Obj
+
+vesm9212-015-p10s1
+1	Vidí	VB-S---3P-AA---	Pred
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	tu	Db------------1	Adv
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	stromy	NNIP1-----A----	ExD
+8	dva	ClYP1----------	Atr
+
+vesm9212-015-p11s1
+1	Jsou	VB-P---3P-AA---	Pred
+2	pořád	Db-------------	Adv
+3	stejné	AAIP1----1A----	Atr
+4	stromy	NNIP1-----A----	Pnom
+5	dva	ClYP1----------	Atr
+6	,	Z:-------------	AuxX
+
+vesm9212-015-p12s1
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	se	P7-X4----------	AuxT
+4	nikdo	PWM-1----------	Sb
+5	nedívá	VB-S---3P-NA---	Pred
+6	.	Z:-------------	AuxK
+
+vesm9212-015-p13s1
+1	Odpověď	NNFS1-----A----	ExD
+
+vesm9212-015-p14s1
+1	Vážený	AAMS5----1A----	Atr
+2	pane	NNMS5-----A----	ExD
+3	:	Z:-------------	AuxK
+
+vesm9212-015-p15s1
+1	To	PDNS4----------	AuxO
+2	tedy	Db-------------	AuxY
+3	nevím	VB-S---1P-NA---	Pred
+4	,	Z:-------------	ExD
+5	na	RR--4----------	AuxP
+6	co	PQ--4----------	ExD
+7	ten	PDYS1----------	Atr
+8	vzruch	NNIS1-----A----	ExD
+9	:	Z:-------------	AuxK
+
+vesm9212-015-p16s1
+1	Já	PP-S1--1-------	Sb
+2	jsem	VB-S---1P-AA---	Pred
+3	tu	Db------------1	Adv
+4	pořád	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	dohledu	NNIS6-----A----	Adv
+7	.	Z:-------------	AuxK
+
+vesm9212-015-p17s1
+1	A	J^-------------	Coord
+2	proto	J^-------------	AuxY
+3	ony	PDIP1----------	Atr
+4	stromy	NNIP1-----A----	ExD
+5	dva	ClYP1----------	Atr
+
+vesm9212-015-p18s1
+1	Jsou	VB-P---3P-AA---	Pred
+2	tu	Db------------1	Adv
+3	,	Z:-------------	AuxX
+4	i	J^-------------	AuxY
+5	když	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	nedíváš	VB-S---2P-NA---	Adv
+8	,	Z:-------------	AuxX
+
+vesm9212-015-p19s1
+1	Neboť	J^-------------	Coord
+2	je	PPXP4--3-------	Obj
+3	vidí	VB-S---3P-AA---	Pred
+
+vesm9212-015-p20s1
+1	Upřímně	Dg-------1A----	Adv
+2	Tvůj	PSYS1-S2-------	ExD
+
+vesm9212-015-p21s1
+1	Bůh	NNMS1-----A----	ExD
+
+vesm9212-015-p22s1
+1	Filozofický	AAIS1----1A----	Atr
+2	epigram	NNIS1-----A----	Sb
+3	Ronalda	NNMS2-----A----	Atr
+4	Knoxe	NNMS2-----A----	Atr
+5	(	Z:-------------	ExD
+6	1888	C=-------------	ExD
+7	-	Z:-------------	Coord
+8	1957	C=-------------	ExD
+9	,	Z:-------------	Coord
+10	"	Z:-------------	AuxG
+11	páter	NNMS1-----A----	Atr
+12	Knox	NNMS1-----A----	ExD
+13	"	Z:-------------	AuxG
+14	,	Z:-------------	AuxX
+15	známý	AAMS1----1A----	Atr
+16	jako	J,-------------	AuxY
+17	autor	NNMS1-----A----	AtvV
+18	desatera	NNNS2-----A----	Atr
+19	detektivky	NNFS2-----A----	Atr
+20	)	Z:-------------	ExD
+21	v	RR--6----------	AuxP
+22	překladu	NNIS6-----A---1	Atr
+23	Miroslava	NNMS2-----A----	Atr
+24	Holuba	NNMS2-----A----	Atr
+25	vystihuje	VB-S---3P-AA---	Pred
+26	"	Z:-------------	AuxG
+27	teorii	NNFS4-----A----	Obj
+28	bytí	NNNS2-----A----	Atr
+29	"	Z:-------------	AuxG
+30	George	NNMS2-----A----	Atr
+31	Berkeleyho	NNMS2-----A----	Atr
+32	(	Z:-------------	ExD
+33	1685	C=-------------	ExD
+34	-	Z:-------------	Coord
+35	1753	C=-------------	ExD
+36	)	Z:-------------	ExD
+37	.	Z:-------------	AuxK
+
+vesm9212-015-p22s2
+1	Uvádíme	VB-P---1P-AA---	Pred
+2	ho	PHZS4--3-------	Obj
+3	především	Db-------------	AuxZ
+4	pro	RR--4----------	AuxP
+5	jeho	PSXXXZS3-------	Atr
+6	literární	AAIS4----1A----	Atr
+7	půvab	NNIS4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	jistě	Dg-------1A----	Adv
+10	ale	J^-------------	Coord
+11	asociuje	VB-S---3P-AA---	Pred
+12	některé	PZFP4----------	Atr
+13	úvahy	NNFP4-----A----	Obj
+14	o	RR--6----------	AuxP
+15	úloze	NNFS6-----A----	Atr
+16	pozorovatele	NNMS2-----A----	Atr
+17	a	J^-------------	Coord
+18	vědomí	NNNS2-----A----	Atr
+19	při	RR--6----------	AuxP
+20	interpretaci	NNFS6-----A----	Adv
+21	kvantové	AAFS2----1A----	Atr
+22	teorie	NNFS2-----A----	Atr
+23	zmíněné	AAFS2----1A----	Atr
+24	v	RR--6----------	AuxP
+25	článku	NNIS6-----A----	Adv
+26	.	Z:-------------	AuxK
+
+vesm9212-015-p23s1
+1	Berkeleyho	NNMS2-----A----	Atr
+2	filozofie	NNFS1-----A----	Sb
+3	ovšem	J^-------------	Adv
+4	vznikla	VpQW---XR-AA--1	Pred
+5	v	RR--6----------	AuxP
+6	době	NNFS6-----A----	Adv
+7	plné	AAFS2----1A----	Atr
+8	slávy	NNFS2-----A----	Atr
+9	klasické	AAFS2----1A----	Atr
+10	mechaniky	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jejíž	P1ZS1FS3-------	Atr
+13	model	NNIS1-----A----	Sb
+14	je	VB-S---3P-AA---	Atr
+15	založen	VsYS---XX-AP---	Pnom
+16	na	RR--6----------	AuxP
+17	"	Z:-------------	AuxG
+18	normální	AAFS6----1A----	Atr
+19	"	Z:-------------	AuxG
+20	představě	NNFS6-----A----	Obj
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	fyzikální	AAIP1----1A----	Atr
+24	děje	NNIP1-----A----	Sb
+25	nejsou	VB-P---3P-NA---	AuxV
+26	ovlivňovány	VsTP---XX-AP---	Atr
+27	pozorováním	NNNS7-----A----	Obj
+28	.	Z:-------------	AuxK
+
+vesm9212-015-p23s2
+1	Byla	VpQW---XR-AA---	AuxV
+2	motivována	VsQW---XX-AP---	Pred
+3	snahou	NNFS7-----A----	Adv
+4	odstranit	Vf--------A----	Atr
+5	logický	AAIS4----1A----	Atr
+6	zádrhel	NNIS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	vzniká	VB-S---3P-AA---	Atr
+10	,	Z:-------------	AuxX
+11	chceme	VB-P---1P-AA---	Adv
+12	-	Z:-------------	AuxG
+13	li	TT-------------	AuxC
+14	pojem	NNIS4-----A----	Obj
+15	"	Z:-------------	AuxG
+16	existence	NNFS2-----A----	Atr
+17	"	Z:-------------	AuxG
+18	definovat	Vf--------A----	Obj
+19	pozorovatelností	NNFS7-----A----	Adv
+20	.	Z:-------------	AuxK
+
+vesm9212-015-p23s3
+1	Knoxův	AUMS1M---------	Atr
+2	mladík	NNMS1-----A----	Sb
+3	ve	RV--6----------	AuxP
+4	skutečnosti	NNFS6-----A----	Adv
+5	nepochybuje	VB-S---3P-NA---	Pred
+6	o	RR--6----------	AuxP
+7	tom	PDZS6----------	Obj
+8	,	Z:-------------	AuxX
+9	"	Z:-------------	AuxG
+10	že	J,-------------	AuxC
+11	stromy	NNIP1-----A----	Sb
+12	dva	ClYP1----------	Atr
+13	jsou	VB-P---3P-AA---	Atr
+14	pořád	Db-------------	Adv
+15	stejné	AAIP1----1A----	Atr
+16	stromy	NNIP1-----A----	Pnom
+17	dva	ClYP1----------	Atr
+18	,	Z:-------------	AuxX
+19	i	J^-------------	AuxY
+20	když	J,-------------	AuxC
+21	se	P7-X4----------	AuxT
+22	nikdo	PWM-1----------	Sb
+23	nedívá	VB-S---3P-NA---	Adv
+24	"	Z:-------------	AuxG
+25	-	Z:-------------	AuxG
+26	proto	J^-------------	Coord
+27	úkrok	NNIS1-----A----	ExD
+28	stranou	Db-------------	Atr
+29	předpokladem	NNIS7-----A----	Atr
+30	,	Z:-------------	AuxX
+31	že	J,-------------	AuxC
+32	existence	NNFS1-----A----	Sb
+33	univerzálního	AAMS2----1A----	Atr
+34	pozorovatele	NNMS2-----A----	Atr
+35	smíří	VB-S---3P-AA---	Atr
+36	tezi	NNFS4-----A----	Obj
+37	"	Z:-------------	AuxG
+38	esse	Vf--------A----	Atr
+39	est	VB-S---3P-AA---	Atr
+40	percipi	NNNXX-----A----	Atr
+41	"	Z:-------------	AuxG
+42	(	Z:-------------	Apos
+43	být	Vf--------A----	Sb
+44	je	VB-S---3P-AA---	Atr
+45	být	Vf--------A----	AuxV
+46	vnímán	VsYS---XX-AP---	Pnom
+47	)	Z:-------------	AuxG
+48	s	RR--7----------	AuxP
+49	ontologií	NNFS7-----A----	Obj
+50	"	Z:-------------	AuxG
+51	zdravého	AAIS2----1A----	Atr
+52	rozumu	NNIS2-----A----	Atr
+53	"	Z:-------------	AuxG
+54	.	Z:-------------	AuxK
+
+vesm9212-015-p24s1
+1	Podle	RR--2----------	AuxP
+2	kvantové	AAFS2----1A----	Atr
+3	mechaniky	NNFS2-----A----	Adv
+4	kolabuje	VB-S---3P-AA---	Pred
+5	vlnová	AAFS1----1A----	Atr
+6	funkce	NNFS1-----A----	Sb
+7	do	RR--2----------	AuxP
+8	stavu	NNIS2-----A----	Adv
+9	"	Z:-------------	AuxG
+10	stromy	NNIP1-----A----	Atr
+11	dva	ClYP1----------	Atr
+12	"	Z:-------------	AuxG
+13	až	TT-------------	AuxZ
+14	při	RR--6----------	AuxP
+15	měření	NNNS6-----A----	Adv
+16	klasickým	AAIS7----1A----	Atr
+17	přístrojem	NNIS7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9212-015-p24s2
+1	V	RR--6----------	AuxP
+2	principu	NNIS6-----A----	Adv
+3	(	Z:-------------	AuxG
+4	i	J^-------------	AuxY
+5	když	J,-------------	AuxC
+6	pro	RR--4----------	AuxP
+7	makroskopický	AAIS4----1A----	Atr
+8	objekt	NNIS4-----A----	Adv
+9	je	VB-S---3P-AA---	Pred
+10	pravděpodobnost	NNFS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	k	RR--3----------	AuxP
+14	tomu	PDZS3----------	Obj
+15	dojde	VB-S---3P-AA---	Atr
+16	,	Z:-------------	AuxX
+17	zanedbatelně	Dg-------1A----	Adv
+18	malá	AAFS1----1A----	Pnom
+19	)	Z:-------------	AuxG
+20	mohl	VpYS---XR-AA---	Pred
+21	být	Vf--------A----	Obj
+22	výsledek	NNIS1-----A----	Sb
+23	např	Db------------8	AuxZ
+24	.	Z:-------------	AuxG
+25	"	Z:-------------	AuxG
+26	stromy	NNIP1-----A----	Pnom
+27	tři	ClXP1----------	Atr
+28	"	Z:-------------	AuxG
+29	.	Z:-------------	AuxK
+
+vesm9212-015-p24s3
+1	Chceme	VB-P---1P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	to	PDNS4----------	Obj
+5	vyjádřit	Vf--------A----	Obj
+6	bonmotem	NNIS7-----A----	Adv
+7	,	Z:-------------	AuxX
+8	můžeme	VB-P---1P-AA---	Pred
+9	říci	Vf--------A---1	Obj
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	svět	NNIS1-----A----	Sb
+13	je	VB-S---3P-AA---	Obj
+14	jiný	AAIS1----1A----	Pnom
+15	,	Z:-------------	AuxX
+16	je	VB-S---3P-AA---	AuxV
+17	-	Z:-------------	AuxG
+18	li	TT-------------	AuxC
+19	pozorován	VsYS---XX-AP---	Adv
+20	,	Z:-------------	AuxX
+21	než	J,-------------	AuxC
+22	když	J,-------------	AuxC
+23	pozorován	VsYS---XX-AP---	Adv
+24	není	VB-S---3P-NA---	AuxV
+25	.	Z:-------------	AuxK
+
+vesm9212-015-p24s4
+1	Ovšem	J^-------------	ExD
+2	za	RR--4----------	AuxP
+3	cenu	NNFS4-----A----	ExD
+4	"	Z:-------------	AuxG
+5	drobné	AAFS2----1A----	Atr
+6	"	Z:-------------	AuxG
+7	nepřesnosti	NNFS2-----N----	Atr
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	"	Z:-------------	AuxG
+11	kvantověmechanický	AAIS4----1A----	Atr
+12	systém	NNIS4-----A----	Obj
+13	"	Z:-------------	AuxG
+14	nahradíme	VB-P---1P-AA---	Atr
+15	vágním	AAIS7----1A----	Atr
+16	pojmem	NNIS7-----A----	Obj
+17	"	Z:-------------	AuxG
+18	svět	NNIS1-----A----	Atr
+19	"	Z:-------------	AuxG
+20	a	J^-------------	Coord
+21	měření	NNNS4-----A----	ExD
+22	klasickým	AAIS7----1A----	Atr
+23	přístrojem	NNIS7-----A----	Atr
+24	nepřesně	Dg-------1N----	Adv
+25	definovaným	AAMS7----1A----	Atr
+26	pozorovatelem	NNMS7-----A----	ExD
+27	,	Z:-------------	AuxX
+28	případně	Dg-------1A----	Apos
+29	jeho	PSXXXZS3-------	Atr
+30	"	Z:-------------	AuxG
+31	myslí	NNFS7-----A----	ExD
+32	"	Z:-------------	AuxG
+33	.	Z:-------------	AuxK
+
+vesm9212-015-p24s5
+1	Tím	PDZS7----------	Adv
+2	ale	J^-------------	Coord
+3	vybočíme	VB-P---1P-AA---	Pred
+4	za	RR--4----------	AuxP
+5	hranice	NNFP4-----A----	Adv
+6	,	Z:-------------	AuxX
+7	ve	RV--6----------	AuxP
+8	kterých	P4XP6----------	Adv
+9	je	VB-S---3P-AA---	Atr
+10	kvantová	AAFS1----1A----	Atr
+11	mechanika	NNFS1-----A----	Sb
+12	dobře	Dg-------1A----	Adv
+13	"	Z:-------------	AuxG
+14	ověřenou	AAFS7----1A----	Atr
+15	"	Z:-------------	AuxG
+16	teorií	NNFS7-----A----	Pnom
+17	.	Z:-------------	AuxK
+
+vesm9212-015-p25s1
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	nepodceňuji	VB-S---1P-NA--1	Adv
+4	gnozeologický	AAIS4----1A----	Atr
+5	význam	NNIS4-----A----	Obj
+6	kvantové	AAFS2----1A----	Atr
+7	teorie	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	třeba	ACNS------A----	Pnom
+11	pečlivě	Dg-------1A----	Adv
+12	vážit	Vf--------A----	Sb
+13	vyvozování	NNNS4-----A----	Obj
+14	důsledků	NNIP2-----A----	Atr
+15	z	RR--2----------	AuxP
+16	vágních	AAFP2----1A----	Atr
+17	paralel	NNFP2-----A----	Atr
+18	s	RR--7----------	AuxP
+19	filozofickými	AAFP7----1A----	Atr
+20	metaforami	NNFP7-----A----	Atr
+21	,	Z:-------------	AuxX
+22	ať	J,-------------	AuxC
+23	už	Db-------------	AuxY
+24	východní	AAFS2----1A----	Atr
+25	či	J^-------------	Coord
+26	evropské	AAFS2----1A----	Atr
+27	provenience	NNFS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+vesm9212-015-p26s1
+1	Jiří	NNMS1-----A----	Atr
+2	Langer	NNMS1-----A----	ExD
+
+vesm9212-015-p27s1
+1	BOX	NNIS1-----A----	ExD
+2	3	C=-------------	Atr
+
+vesm9212-015-p28s1
+1	Neměl	VpYS---XR-NA---	Pred
+2	by	Vc-------------	AuxV
+3	vzniknout	Vf--------A----	Obj
+4	dojem	NNIS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	jediným	AAIS7----1A----	Atr
+8	motivem	NNIS7-----A----	Pnom
+9	pro	RR--4----------	AuxP
+10	rozbory	NNIP4-----A----	Atr
+11	interpretace	NNFS2-----A----	Atr
+12	kvantové	AAFS2----1A----	Atr
+13	teorie	NNFS2-----A----	Atr
+14	jsou	VB-P---3P-AA---	Atr
+15	jen	TT-------------	AuxZ
+16	důvody	NNIP1-----A----	Sb
+17	filozofické	AAIP1----1A----	Atr
+18	.	Z:-------------	AuxK
+
+vesm9212-015-p28s2
+1	Standardní	AANS1----1A----	Atr
+2	schéma	NNNS1-----A----	Sb
+3	"	Z:-------------	AuxG
+4	kvantování	NNNS2-----A----	Atr
+5	"	Z:-------------	AuxG
+6	zatím	Db-------------	Adv
+7	selhává	VB-S---3P-AA---	Pred
+8	např	Db------------8	AuxZ
+9	.	Z:-------------	AuxG
+10	v	RR--6----------	AuxP
+11	případě	NNIS6-----A----	AuxP
+12	gravitačního	AANS2----1A----	Atr
+13	pole	NNNS2-----A----	Adv
+14	,	Z:-------------	Coord
+15	přičemž	J,-------------	Adv
+16	spojovat	Vf--------A----	Sb
+17	klasickou	AAFS4----1A----	Atr
+18	teorii	NNFS4-----A----	Obj
+19	gravitačního	AANS2----1A----	Atr
+20	pole	NNNS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	tj	J^------------8	Apos
+23	.	Z:-------------	AuxG
+24	obecnou	AAFS4----1A----	Atr
+25	teorii	NNFS4-----A----	Obj
+26	relativity	NNFS2-----A----	Atr
+27	,	Z:-------------	AuxX
+28	s	RR--7----------	AuxP
+29	kvantovou	AAFS7----1A----	Atr
+30	teorií	NNFS7-----A----	Obj
+31	ostatních	AANP2----1A----	Atr
+32	polí	NNNP2-----A----	Atr
+33	je	VB-S---3P-AA---	Pred
+34	nekonzistentní	AANS1----1N----	Pnom
+35	.	Z:-------------	AuxK
+
+vesm9212-015-p28s3
+1	Obtíže	NNFP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	nejen	TT-------------	AuxZ
+4	matematického	AAIS2----1A----	Atr
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	i	J^-------------	AuxZ
+8	interpretačního	AAIS2----1A----	Atr
+9	rázu	NNIS2-----A----	Pnom
+10	a	J^-------------	Coord
+11	hledání	NNNS1-----A----	Sb
+12	jednotícího	AGIS2-----A----	Atr
+13	postupu	NNIS2-----A----	Atr
+14	se	P7-X4----------	AuxT
+15	může	VB-S---3P-AA---	Pred
+16	dotknout	Vf--------A----	Obj
+17	i	J^-------------	AuxZ
+18	základů	NNIP2-----A----	Obj
+19	kvantové	AAFS2----1A----	Atr
+20	mechaniky	NNFS2-----A----	Atr
+21	přesto	Dg-------1A----	Adv
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	zatím	Db-------------	Adv
+25	v	RR--6----------	AuxP
+26	oblastech	NNFP6-----A----	Adv
+27	své	P8FS2---------1	Atr
+28	aplikovatelnosti	NNFS2-----A----	Atr
+29	představuje	VB-S---3P-AA---	Adv
+30	tato	PDFS1----------	Atr
+31	teorie	NNFS1-----A----	Sb
+32	až	TT-------------	AuxZ
+33	neuvěřitelně	Dg-------1N----	Adv
+34	mocný	AAIS4----1A----	Atr
+35	a	J^-------------	Coord
+36	přesný	AAIS4----1A----	Atr
+37	nástroj	NNIS4-----A----	Obj
+38	.	Z:-------------	AuxK
+
+vesm9212-015-p29s1
+1	Jiří	NNMS1-----A----	Atr
+2	Langer	NNMS1-----A----	ExD
+
+vesm9212-015-p31s1
+1	Co	PQ--4----------	Obj
+2	nedovedu	VB-S---1P-NA---	Sb
+3	sám	PLYS1----------	AtvV
+4	jasně	Dg-------1A----	Adv
+5	říct	Vf--------A---1	Obj
+6	,	Z:-------------	AuxX
+7	není	VB-S---3P-NA---	Pred
+8	jasné	AANS1----1A----	Pnom
+9	ani	J^-------------	AuxZ
+10	mně	PP-S3--1-------	Adv
+11	samému	PLZS3----------	Atr
+12	.	Z:-------------	AuxK
+
+vesm9212-015-p33s1
+1	Ze	RV--2----------	AuxP
+2	sbírky	NNFS2-----A----	ExD
+3	japonských	AAIP2----1A----	Atr
+4	příběhů	NNIP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	přísloví	NNNP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	říkadel	NNNP2-----A----	Atr
+9	a	J^-------------	Coord
+10	básniček	NNFP2-----A----	Atr
+11	"	Z:-------------	AuxG
+12	Mrtvá	AAFS1----1A----	Atr
+13	kočka	NNFS1-----A----	Atr
+14	,	Z:-------------	Coord
+15	stín	NNIS1-----A----	Atr
+16	bambusu	NNIS2-----A----	Atr
+17	"	Z:-------------	AuxG
+18	,	Z:-------------	AuxX
+19	kterou	P4FS4----------	Obj
+20	v	RR--6----------	AuxP
+21	překladu	NNIS6-----A---1	Adv
+22	Václava	NNMS2-----A----	Atr
+23	Cílka	NNMS2-----A----	Atr
+24	vydala	VpQW---XR-AA---	Atr
+25	PRAŽSKÁ	AAFS1----1A----	Atr
+26	IMAGINACE	NNFS1-----A----	Sb
+27	(	Z:-------------	ExD
+28	119	C=-------------	Atr
+29	.	Z:-------------	AuxG
+30	svazek	NNIS1-----A----	ExD
+31	)	Z:-------------	ExD
+

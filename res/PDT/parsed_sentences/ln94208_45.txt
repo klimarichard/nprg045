@@ -1,0 +1,393 @@
+ln94208-45-p1s1
+1	Vyrovnaný	AAIS4----1A----	Atr
+2	rozpočet	NNIS4-----A----	ExD
+3	ano	TT-------------	ExD
+4	,	Z:-------------	AuxX
+5	ale	J^-------------	Coord
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+
+ln94208-45-p2s1A
+1	Výhrady	NNFP1-----A----	Sb
+2	k	RR--3----------	AuxP
+3	nedávnému	AAIS3----1N----	Atr
+4	návrhu	NNIS3-----A----	Atr
+5	zákona	NNIS2-----A----	Atr
+6	ODS	NNFXX-----A---8	Atr
+7	trvají	VB-P---3P-AA---	Pred
+8	nejen	TT-------------	AuxZ
+9	na	RR--6----------	AuxP
+10	straně	NNFS6-----A----	Adv
+11	levice	NNFS2-----A----	Atr
+
+ln94208-45-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mrk	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94208-45-p2s1C
+1	Již	Db-------------	AuxZ
+2	více	Dg-------2A----	Adv
+3	než	J,-------------	AuxC
+4	týden	NNIS4-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	zástupci	NNMP1-----A----	Sb
+7	celého	AANS2----1A----	Atr
+8	politického	AANS2----1A----	Atr
+9	spektra	NNNS2-----A----	Atr
+10	vyjadřují	VB-P---3P-AA---	Pred
+11	k	RR--3----------	AuxP
+12	návrhu	NNIS3-----A----	Obj
+13	výkonné	AAFS2----1A----	Atr
+14	rady	NNFS2-----A----	Atr
+15	ODS	NNFXX-----A---8	Atr
+16	na	RR--4----------	AuxP
+17	zakotvení	NNNS4-----A----	Atr
+18	povinné	AAFS2----1A----	Atr
+19	vyrovnanosti	NNFS2-----A----	Atr
+20	státního	AAIS2----1A----	Atr
+21	rozpočtu	NNIS2-----A----	Atr
+22	ústavním	AAIS7----1A----	Atr
+23	zákonem	NNIS7-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94208-45-p2s2
+1	Na	RR--4----------	AuxP
+2	toto	PDNS4----------	Atr
+3	téma	NNNS4-----A----	Adv
+4	hovořili	VpMP---XR-AA---	Pred
+5	včera	Db-------------	Adv
+6	zástupci	NNMP1-----A----	Sb
+7	pravice	NNFS2-----A----	Atr
+8	i	J^-------------	Coord
+9	levice	NNFS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	televizním	AAIS6----1A----	Atr
+12	pořadu	NNIS6-----A----	Adv
+13	Debata	NNFS1-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94208-45-p3s1
+1	Návrh	NNIS4-----A----	Obj
+2	ODS	NNFXX-----A---8	Atr
+3	hájili	VpMP---XR-AA---	Pred
+4	na	RR--6----------	AuxP
+5	televizní	AAFS6----1A----	Atr
+6	obrazovce	NNFS6-----A----	Adv
+7	její	PSXP1FS3-------	Atr
+8	členové	NNMP1-----A----	Atr
+9	ministr	NNMS1-----A----	Atr
+10	financí	NNFP2-----A----	Atr
+11	Ivan	NNMS1-----A----	Atr
+12	Kočárník	NNMS1-----A----	Atr
+13	a	J^-------------	Coord
+14	předseda	NNMS1-----A----	Atr
+15	hospodářského	AAIS2----1A----	Atr
+16	výboru	NNIS2-----A----	Atr
+17	parlamentu	NNIS2-----A----	Atr
+18	Vladimír	NNMS1-----A----	Atr
+19	Budinský	NNMS1-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94208-45-p3s2
+1	Ministr	NNMS1-----A----	Atr
+2	Kočárník	NNMS1-----A----	Sb
+3	opakovaně	Dg-------1A----	Adv
+4	argumentoval	VpYS---XR-AA---	Pred
+5	tím	PDZS7----------	Obj
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	politici	NNMP1-----A----	Sb
+9	nemají	VB-P---3P-NA---	Atr
+10	právo	NNNS4-----A----	Obj
+11	rozhodnout	Vf--------A----	Atr
+12	o	RR--6----------	AuxP
+13	tom	PDZS6----------	Obj
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	děti	NNFP1-----A----	Sb
+17	budou	VB-P---3F-AA---	AuxV
+18	jednou	Db-------------	Adv
+19	splácet	Vf--------A----	Atr
+20	dluh	NNIS4-----A----	Obj
+21	svých	P8XP2----------	Atr
+22	otců	NNMP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94208-45-p3s3
+1	Navíc	Db-------------	Adv
+2	z	RR--2----------	AuxP
+3	politických	AAIP2----1A----	Atr
+4	důvodů	NNIP2-----A----	Adv
+5	prý	TT-------------	AuxY
+6	žádná	PWFS1----------	Atr
+7	další	AAFS1----1A----	Atr
+8	vláda	NNFS1-----A----	Sb
+9	nepřistoupí	VB-S---3P-NA---	Pred
+10	k	RR--3----------	AuxP
+11	utahování	NNNS3-----A----	Obj
+12	opasků	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	uhrazení	NNNS3-----A----	Obj
+15	dluhu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94208-45-p3s4
+1	Odmítavá	AANP1----1A----	Atr
+2	stanoviska	NNNP1-----A----	Sb
+3	k	RR--3----------	AuxP
+4	návrhu	NNIS3-----A----	Atr
+5	ODS	NNFXX-----A---8	Atr
+6	jsou	VB-P---3P-AA---	Pred
+7	podle	RR--2----------	AuxP
+8	Kočárníka	NNMS2-----A----	Adv
+9	slovním	AAIS7----1A----	Atr
+10	průjmem	NNIS7-----A----	Pnom
+11	lidí	NNMP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kteří	P4MP1----------	Sb
+14	nevědí	VB-P---3P-NA--1	Atr
+15	,	Z:-------------	AuxX
+16	o	RR--6----------	AuxP
+17	čem	PQ--6----------	Atr
+18	je	VB-S---3P-AA---	Obj
+19	řeč	NNFS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94208-45-p3s5
+1	Podle	RR--2----------	AuxP
+2	poslance	NNMS2-----A----	Atr
+3	Budinského	NNMS2-----A----	Adv
+4	takový	PDIS4----------	Atr
+5	ústavní	AAIS4----1A----	Atr
+6	zákon	NNIS4-----A----	Obj
+7	některá	PZFS1----------	Atr
+8	strana	NNFS1-----A----	Sb
+9	navrhnout	Vf--------A----	Obj
+10	musela	VpQW---XR-AA---	Pred
+11	:	Z:-------------	Coord
+12	shodou	NNFS7-----A----	Adv
+13	okolností	NNFP2-----A----	Atr
+14	to	PDNS1----------	Sb
+15	byla	VpQW---XR-AA---	Pred
+16	ODS	NNFXX-----A---8	Pnom
+17	.	Z:-------------	AuxK
+
+ln94208-45-p4s1
+1	Podle	RR--2----------	AuxP
+2	předsedy	NNMS2-----A----	Atr
+3	rozpočtového	AAIS2----1A----	Atr
+4	výboru	NNIS2-----A----	Atr
+5	Tomáše	NNMS2-----A----	Atr
+6	Ježka	NNMS2-----A----	Adv
+7	(	Z:-------------	ExD
+8	ODA	NNFXX-----A---8	ExD
+9	)	Z:-------------	ExD
+10	je	VB-S---3P-AA---	Pred
+11	ústavní	AAIS1----1A----	Atr
+12	zákon	NNIS1-----A----	Sb
+13	příliš	Db-------------	Adv
+14	velkou	AAFS7----1A----	Atr
+15	houfnicí	NNFS7-----A----	Pnom
+16	na	RR--4----------	AuxP
+17	příliš	Db-------------	Adv
+18	jemný	AAIS4----1A----	Atr
+19	problém	NNIS4-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94208-45-p4s2
+1	Stejným	AAIS7----1A----	Atr
+2	způsobem	NNIS7-----A----	Adv
+3	by	Vc-------------	AuxV
+4	pak	Db-------------	Adv
+5	navíc	Db-------------	Adv
+6	musela	VpQW---XR-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	deklarována	VsQW---XX-AP---	Obj
+9	i	J^-------------	AuxZ
+10	úroveň	NNFS1-----A----	Sb
+11	zdanění	NNNS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94208-45-p4s3
+1	O	RR--6----------	AuxP
+2	samotné	AAFS6----1A----	Atr
+3	vyrovnanosti	NNFS6-----A----	Atr
+4	rozpočtu	NNIS2-----A----	Atr
+5	není	VB-S---3P-NA---	Pred
+6	však	J^-------------	Coord
+7	prý	TT-------------	AuxY
+8	pochyb	NNFP2-----A----	Sb
+9	:	Z:-------------	Coord
+10	Staré	AAFP1----1A----	Atr
+11	demokracie	NNFP1-----A----	Sb
+12	si	P7-X3----------	AuxT
+13	občas	Db-------------	Adv
+14	mohou	VB-P---3P-AA--1	Pred
+15	dovolit	Vf--------A----	Obj
+16	ujet	Vf--------A----	Obj
+17	,	Z:-------------	AuxX
+18	na	RR--4----------	AuxP
+19	nás	PP-P4--1-------	Adv
+20	se	P7-X4----------	AuxT
+21	ale	J^-------------	Coord
+22	svět	NNIS1-----A----	Sb
+23	dívá	VB-S---3P-AA---	Pred
+24	kritičtěji	Dg-------2A----	Adv
+25	.	Z:-------------	AuxK
+
+ln94208-45-p4s4
+1	Zástupce	NNMS1-----A----	Atr
+2	levice	NNFS2-----A----	Atr
+3	poslanec	NNMS1-----A----	Atr
+4	ČSSD	NNFXX-----A---8	Atr
+5	Jozef	NNMS1-----A----	Atr
+6	Wagner	NNMS1-----A----	Sb
+7	odmítl	VpYS---XR-AA--1	Pred
+8	snahy	NNFP4-----A----	Obj
+9	podsouvat	Vf--------A----	Atr
+10	automaticky	Dg-------1A----	Adv
+11	celé	AAFS3----1A----	Atr
+12	levici	NNFS3-----A----	Obj
+13	vizi	NNFS4-----A----	Obj
+14	deficitního	AAIS2----1A----	Atr
+15	rozpočtu	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94208-45-p4s5
+1	Ani	J^-------------	AuxZ
+2	pravicoví	AAMP1----1A----	Atr
+3	ekonomové	NNMP1-----A----	Sb
+4	však	J^-------------	Coord
+5	podle	RR--2----------	AuxP
+6	něho	P5ZS2--3------1	Adv
+7	nepopírají	VB-P---3P-NA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	stát	NNIS1-----A----	Sb
+11	je	VB-S---3P-AA---	Obj
+12	ekonomickým	AAIS7----1A----	Atr
+13	subjektem	NNIS7-----A----	Pnom
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	může	VB-S---3P-AA---	Obj
+17	proto	J^-------------	Adv
+18	použít	Vf--------A----	Obj
+19	úvěr	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94208-45-p4s6
+1	Stejným	AANS7----1A----	Atr
+2	zatížením	NNNS7-----A----	Pnom
+3	příštích	AAFP2----1A----	Atr
+4	generací	NNFP2-----A----	Atr
+5	jako	J,-------------	AuxC
+6	deficitní	AANS1----1A----	Atr
+7	hospodaření	NNNS1-----A----	ExD
+8	jsou	VB-P---3P-AA---	Pred
+9	podle	RR--2----------	AuxP
+10	jeho	PSXXXZS3-------	Atr
+11	slov	NNNP2-----A----	Adv
+12	nedostatečné	AAFP1----1N----	Atr
+13	investice	NNFP1-----A----	Sb
+14	do	RR--2----------	AuxP
+15	vzdělání	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94208-45-p4s7
+1	Návrh	NNIS1-----A----	Sb
+2	ODS	NNFXX-----A---8	Atr
+3	byl	VpYS---XR-AA---	Pred
+4	prý	TT-------------	AuxY
+5	politickým	AAIS7----1A----	Atr
+6	tahem	NNIS7-----A----	Pnom
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	měl	VpYS---XR-AA---	Atr
+10	zabránit	Vf--------A----	Obj
+11	ODA	NNFXX-----A---8	Obj
+12	v	RR--6----------	AuxP
+13	koketování	NNNS6-----A----	Obj
+14	s	RR--7----------	AuxP
+15	deficitním	AAIS7----1A----	Atr
+16	rozpočtem	NNIS7-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94208-45-p5s1
+1	Ani	J^-------------	AuxZ
+2	přítomní	AAMP1----1A----	Atr
+3	zástupci	NNMP1-----A----	Sb
+4	zaměstnavatelských	AAIP2----1A----	Atr
+5	svazů	NNIP2-----A----	Atr
+6	se	P7-X4----------	AuxT
+7	s	RR--7----------	AuxP
+8	projektem	NNIS7-----A----	Obj
+9	ODS	NNFXX-----A---8	Atr
+10	neztotožnili	VpMP---XR-NA---	Pred
+11	.	Z:-------------	AuxK
+
+ln94208-45-p5s2
+1	Podle	RR--2----------	AuxP
+2	Rudolfa	NNMS2-----A----	Atr
+3	Baránka	NNMS2-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	o	RR--6----------	AuxP
+6	státním	AAIS6----1A----	Atr
+7	rozpočtu	NNIS6-----A----	Obj
+8	musí	VB-S---3P-AA---	Pred
+9	každoročně	Dg-------1A----	Adv
+10	upřímně	Dg-------1A----	Adv
+11	diskutovat	Vf--------A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94208-45-p5s3
+1	I	J^-------------	AuxZ
+2	při	RR--6----------	AuxP
+3	zachování	NNNS6-----A----	Adv
+4	vyrovnanosti	NNFS2-----A----	Atr
+5	by	Vc-------------	AuxV
+6	prý	TT-------------	AuxY
+7	bylo	VpNS---XR-AA---	Pred
+8	možné	AANS1----1A----	Pnom
+9	již	Db-------------	AuxZ
+10	v	RR--6----------	AuxP
+11	roce	NNIS6-----A---1	Adv
+12	1995	C=-------------	Atr
+13	mnohem	Db-------------	Adv
+14	větší	AANS1----2A----	Atr
+15	snížení	NNNS1-----A----	Sb
+16	daňového	AANS2----1A----	Atr
+17	zatížení	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94208-45-p5s4
+1	Podle	RR--2----------	AuxP
+2	Břetislava	NNMS2-----A----	Atr
+3	Ošťádala	NNMS2-----A----	Adv
+4	nemá	VB-S---3P-NA---	Pred
+5	jednoprocentní	AANS1----1A----	Atr
+6	snížení	NNNS1-----A----	Sb
+7	daní	NNFP2-----A----	Atr
+8	smysl	NNIS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94208-45-p5s5
+1	Ušetřené	AAIP4----1A----	Atr
+2	peníze	NNIP4-----A----	Obj
+3	by	Vc-------------	AuxV
+4	mohl	VpYS---XR-AA---	Pred
+5	stát	NNIS1-----A----	Sb
+6	použít	Vf--------A----	Obj
+7	na	RR--4----------	AuxP
+8	likvidaci	NNFS4-----A----	Adv
+9	zbytkových	AAIP2----1A----	Atr
+10	podniků	NNIP2-----A----	Atr
+11	a	J^-------------	Coord
+12	zvýšení	NNNS4-----A----	Adv
+13	informovanosti	NNFS2-----A----	Atr
+14	podnikatelů	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+

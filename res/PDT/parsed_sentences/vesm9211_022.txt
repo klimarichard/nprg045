@@ -1,0 +1,182 @@
+vesm9211-022-p1s1
+1	původní	AAFS1----1A----	Atr
+2	zpráva	NNFS1-----A----	ExD
+3	0110011101	C=-------------	ExD
+4	.	Z:-------------	AuxK
+5	.	Z:-------------	AuxK
+6	.	Z:-------------	AuxK
+
+vesm9211-022-p2s1
+1	šifrovací	AAIS1----1A----	Atr
+2	klíč	NNIS1-----A----	ExD
+3	1110010101	C=-------------	ExD
+4	.	Z:-------------	AuxK
+5	.	Z:-------------	AuxK
+6	.	Z:-------------	AuxK
+
+vesm9211-022-p3s1
+1	odesílaná	AAFS1----1A----	Atr
+2	zpráva	NNFS1-----A----	ExD
+3	1000001000	C=-------------	ExD
+4	.	Z:-------------	AuxK
+5	.	Z:-------------	AuxK
+6	.	Z:-------------	AuxK
+
+vesm9211-022-p4s1
+1	šifrovací	AAIS1----1A----	Atr
+2	klíč	NNIS1-----A----	ExD
+3	1110010101	C=-------------	ExD
+4	.	Z:-------------	AuxK
+5	.	Z:-------------	AuxK
+6	.	Z:-------------	AuxK
+
+vesm9211-022-p5s1
+1	přijatá	AAFS1----1A----	Atr
+2	zpráva	NNFS1-----A----	ExD
+3	0110011101	C=-------------	ExD
+4	.	Z:-------------	AuxK
+5	.	Z:-------------	AuxK
+6	.	Z:-------------	AuxK
+
+vesm9211-022-p6s2
+1	Šifrování	NNNS1-----A----	ExD
+2	tajným	AAIS7----1A----	Atr
+3	klíčem	NNIS7-----A----	Atr
+4	.	Z:-------------	AuxK
+
+vesm9211-022-p6s3
+1	Odesílaná	AAFS1----1A----	Atr
+2	zpráva	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	součet	NNIS1-----A----	Pnom
+5	původní	AAFS2----1A----	Atr
+6	zprávy	NNFS2-----A----	Atr
+7	a	J^-------------	Coord
+8	šifrovacího	AAIS2----1A----	Atr
+9	klíče	NNIS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	přijatá	AAFS1----1A----	Atr
+12	zpráva	NNFS1-----A----	Sb
+13	je	VB-S---3P-AA---	Pred
+14	součet	NNIS1-----A----	Pnom
+15	odeslané	AAFS2----1A----	Atr
+16	zprávy	NNFS2-----A----	Atr
+17	a	J^-------------	Coord
+18	šifrovacího	AAIS2----1A----	Atr
+19	klíče	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+vesm9211-022-p7s2
+1	Šifrování	NNNS1-----A----	ExD
+2	veřejným	AAIS7----1A----	Atr
+3	klíčem	NNIS7-----A----	Atr
+4	.	Z:-------------	AuxK
+
+vesm9211-022-p7s3
+1	Abychom	J,-P---1-------	AuxC
+2	mohli	VpMP---XR-AA---	Adv
+3	nečíselnou	AAFS4----1N----	Atr
+4	zprávu	NNFS4-----A----	Obj
+5	šifrovat	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	musíme	VB-P---1P-AA---	Pred
+8	písmena	NNNP4-----A----	Obj
+9	převést	Vf--------A----	Obj
+10	na	RR--4----------	AuxP
+11	čísla	NNNP4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+vesm9211-022-p7s4
+1	Např	Db------------8	AuxY
+2	.	Z:-------------	AuxG
+3	každému	AANS3----1A----	Atr
+4	písmenu	NNNS3-----A----	Obj
+5	přiřadíme	VB-P---1P-AA---	Pred
+6	jeho	PSXXXZS3-------	Atr
+7	pořadí	NNNS4-----A----	Obj
+8	v	RR--6----------	AuxP
+9	anglické	AAFS6----1A----	Atr
+10	abecedě	NNFS6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+vesm9211-022-p8s2
+1	Jako	J,-------------	AuxY
+2	šifrovací	AAIS4----1A----	Atr
+3	klíč	NNIS4-----A----	Atv
+4	i	J^-------------	Atr
+5	máme	VB-P---1P-AA---	Pred
+6	tedy	Db-------------	AuxY
+7	možnost	NNFS4-----A----	Obj
+8	vzít	Vf--------A----	Atr
+9	některé	PZNS4----------	Obj
+10	z	RR--2----------	AuxP
+11	čísel	NNNP2-----A----	Atr
+12	3	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	7	C=-------------	Atr
+15	,	Z:-------------	AuxX
+16	9	C=-------------	Atr
+17	,	Z:-------------	AuxX
+18	11	C=-------------	Atr
+19	,	Z:-------------	AuxX
+20	13	C=-------------	Atr
+21	,	Z:-------------	AuxX
+22	17	C=-------------	Atr
+23	a	J^-------------	Coord
+24	19	C=-------------	Atr
+25	(	Z:-------------	AuxG
+26	jsou	VB-P---3P-AA---	Pred
+27	to	PDNS1----------	Pnom
+28	všechna	PLNP1----------	Atr
+29	čísla	NNNP1-----A----	Sb
+30	menší	AANP1----2A----	Atr
+31	než	J,-------------	AuxC
+32	20	C=-------------	Adv
+33	a	J^-------------	Coord
+34	nesoudělná	AANP1----1N----	Atr
+35	s	RR--7----------	AuxP
+36	2	C=-------------	Adv
+37	i	J^-------------	Coord
+38	s	RR--7----------	AuxP
+39	10	C=-------------	Adv
+40	)	Z:-------------	AuxG
+41	.	Z:-------------	AuxK
+
+vesm9211-022-p9s1
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	je	VB-S---3P-AA---	Adv
+4	číslo	NNNS1-----A----	Sb
+5	j	NNNXX-----A----	Atr
+6	jednoznačně	Dg-------1A----	Adv
+7	určeno	VsNS---XX-AP---	Pnom
+8	,	Z:-------------	AuxX
+9	nemůže	VB-S---3P-NA---	Pred
+10	ho	PHZS4--3-------	Obj
+11	nepřítel	NNMS1-----A----	Sb
+12	odvodit	Vf--------A----	Obj
+13	bez	RR--2----------	AuxP
+14	znalosti	NNFS2-----A----	Adv
+15	čísel	NNNP2-----A----	Atr
+16	p	NNNXX-----A----	Atr
+17	a	J^-------------	Coord
+18	q	NNNXX-----A----	Atr
+19	,	Z:-------------	AuxX
+20	která	P4NP4----------	Obj
+21	by	Vc-------------	AuxV
+22	odhalil	VpYS---XR-AA---	Atr
+23	jen	TT-------------	AuxZ
+24	prvočíselným	AAIS7----1A----	Atr
+25	rozkladem	NNIS7-----A----	Adv
+26	čísla	NNNS2-----A----	Atr
+27	n	NNNXX-----A----	Atr
+28	,	Z:-------------	Coord
+29	což	PE--1----------	Sb
+30	je	VB-S---3P-AA---	Atr
+31	u	RR--2----------	AuxP
+32	větších	AANP2----2A----	Atr
+33	čísel	NNNP2-----A----	Adv
+34	prakticky	Dg-------1A----	Adv
+35	neproveditelné	AANS1----1N----	Pnom
+36	.	Z:-------------	AuxK
+

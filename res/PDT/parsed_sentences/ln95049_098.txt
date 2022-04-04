@@ -1,0 +1,207 @@
+ln95049-098-p1s1
+1	Místopředseda	NNMS1-----A----	Atr
+2	ČSSD	NNFXX-----A---8	Atr
+3	Kuča	NNMS1-----A----	Sb
+4	a	J^-------------	Coord
+5	jeho	PSXXXZS3-------	Atr
+6	syn	NNMS1-----A----	Sb
+7	ujeli	VpMP---XR-AA---	Pred
+8	z	RR--2----------	AuxP
+9	místa	NNNS2-----A----	Adv
+10	nehody	NNFS2-----A----	Atr
+
+ln95049-098-p2s1A
+1	Ostrava	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mot	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln95049-098-p2s1B
+1	Místopředsedovi	NNMS3-----A----	Atr
+2	České	AAFS2----1A----	Atr
+3	strany	NNFS2-----A----	Atr
+4	sociálně	Dg-------1A----	Adv
+5	demokratické	AAFS2----1A----	Atr
+6	Jaromíru	NNMS3-----A---1	Atr
+7	Kučovi	NNMS3-----A---1	Obj
+8	hrozí	VB-S---3P-AA---	Pred
+9	trestní	AANS1----1A----	Atr
+10	stíhání	NNNS1-----A----	Sb
+11	za	RR--4----------	AuxP
+12	neposkytnutí	NNNS4-----N----	Atr
+13	pomoci	NNFS2-----A----	Atr
+14	,	Z:-------------	Coord
+15	jeho	PSXXXZS3-------	Atr
+16	synovi	NNMS3-----A----	Atr
+17	Matouši	NNMS3-----A----	Atr
+18	Kučovi	NNMS3-----A---1	ExD
+19	navíc	Db-------------	ExD
+20	i	J^-------------	AuxZ
+21	za	RR--4----------	AuxP
+22	ublížení	NNNS4-----A----	ExD
+23	na	RR--6----------	AuxP
+24	zdraví	NNNS6-----A----	Atr
+25	z	RR--2----------	AuxP
+26	nedbalosti	NNFS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95049-098-p2s2
+1	Oba	ClYP1----------	Sb
+2	jeli	VpMP---XR-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	dosavadních	AAIP2----1A----	Atr
+5	výsledků	NNIP2-----A----	Adv
+6	vyšetřování	NNNS2-----A----	Atr
+7	ve	RV--6----------	AuxP
+8	voze	NNIS6-----A----	Adv
+9	Seat	NNIS1-----A----	Atr
+10	Toledo	NNNS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	se	P7-X4----------	AuxT
+14	na	RR--6----------	AuxP
+15	křižovatce	NNFS6-----A----	Adv
+16	v	RR--6----------	AuxP
+17	Orlové	NNFS6-----A----	Atr
+18	-	Z:-------------	AuxG
+19	Lutyni	NNFS6-----A----	Atr
+20	12	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	února	NNIS2-----A---1	Adv
+23	srazil	VpYS---XR-AA---	Atr
+24	s	RR--7----------	AuxP
+25	vozidlem	NNNS7-----A----	Obj
+26	Škoda	NNFS1-----A----	Atr
+27	120	C=-------------	Atr
+28	.	Z:-------------	AuxK
+
+ln95049-098-p3s1
+1	Řidič	NNMS1-----A----	Atr
+2	vozu	NNIS2-----A----	Atr
+3	Toledo	NNNS1-----A----	Atr
+4	Matouš	NNMS1-----A----	Atr
+5	Kuča	NNMS1-----A----	Sb
+6	nedal	VpYS---XR-NA---	Pred
+7	škodovce	NNFS3-----A----	Obj
+8	přednost	NNFS4-----A----	Obj
+9	v	RR--6----------	AuxP
+10	jízdě	NNFS6-----A----	Atr
+11	a	J^-------------	Coord
+12	po	RR--6----------	AuxP
+13	nehodě	NNFS6-----A----	Adv
+14	z	RR--2----------	AuxP
+15	místa	NNNS2-----A----	Adv
+16	havárie	NNFS2-----A----	Atr
+17	ujel	VpYS---XR-AA---	Pred
+18	.	Z:-------------	AuxK
+
+ln95049-098-p3s2
+1	Škodu	NNFS4-----A----	Obj
+2	120	C=-------------	Atr
+3	řídila	VpQW---XR-AA---	Pred
+4	devětadvacetiletá	AAFS1----1A----	Atr
+5	Anežka	NNFS1-----A----	Atr
+6	O	NNFXX-----A---8	Sb
+7	.	Z:-------------	AuxG
+8	,	Z:-------------	AuxX
+9	která	P4FS1----------	Sb
+10	utrpěla	VpQW---XR-AA---	Atr
+11	vážná	AANP4----1A----	Atr
+12	zranění	NNNP4-----A----	Obj
+13	obou	ClXP2----------	Atr
+14	kolen	NNNP2-----A----	Atr
+15	vyžadující	AGNP4-----A----	Atr
+16	několikatýdenní	AAFS4----1A----	Atr
+17	léčbu	NNFS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95049-098-p3s3
+1	Oba	ClYP1----------	Atr
+2	Kučové	NNMP1-----A---1	Sb
+3	se	P7-X4----------	AuxT
+4	ještě	Db-------------	Adv
+5	týž	PDIS4----------	Atr
+6	den	NNIS4-----A----	Adv
+7	dostavili	VpMP---XR-AA---	Pred
+8	na	RR--4----------	AuxP
+9	policejní	AAFS4----1A----	Atr
+10	stanici	NNFS4-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln95049-098-p3s4
+1	Matouš	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	podroben	VsYS---XX-AP---	Pred
+4	dechové	AAFS3----1A----	Atr
+5	zkoušce	NNFS3-----A----	Obj
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	vyloučila	VpQW---XR-AA---	Atr
+9	požití	NNNS4-----A----	Obj
+10	alkoholu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95049-098-p3s5
+1	U	RR--2----------	AuxP
+2	Jaromíra	NNMS2-----A----	Atr
+3	Kuči	NNMS2-----A----	Adv
+4	zkouška	NNFS1-----A----	Sb
+5	provedena	VsQW---XX-AP---	Pred
+6	nebyla	VpQW---XR-NA---	AuxV
+7	.	Z:-------------	AuxK
+
+ln95049-098-p3s6
+1	Policie	NNFS1-----A----	Sb
+2	nepotvrdila	VpQW---XR-NA---	Pred
+3	dohady	NNIP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	podle	RR--2----------	AuxP
+6	nichž	P9XP2----------	Adv
+7	vůz	NNIS4-----A----	Obj
+8	řídil	VpYS---XR-AA---	Atr
+9	Jaromír	NNMS1-----A----	Atr
+10	Kuča	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95049-098-p3s7
+1	Pro	RR--4----------	AuxP
+2	rodinu	NNFS4-----A----	Adv
+3	Anežky	NNFS2-----A----	Atr
+4	O	NNFXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	byl	VpYS---XR-AA---	Pred
+7	její	PSZS1FS3-------	Atr
+8	vůz	NNIS1-----A----	Sb
+9	nepostradatelný	AAIS1----1N----	Pnom
+10	,	Z:-------------	AuxX
+11	neboť	J^-------------	Coord
+12	jím	PPZS7--3-------	Adv
+13	každý	AAIS4----1A----	Atr
+14	týden	NNIS4-----A----	Adv
+15	dopravovala	VpQW---XR-AA---	Pred
+16	svou	P8FS4---------1	Atr
+17	šestiletou	AAFS4----1A----	Atr
+18	dceru	NNFS4-----A----	Obj
+19	do	RR--2----------	AuxP
+20	nemocnice	NNFS2-----A----	Adv
+21	v	RR--6----------	AuxP
+22	Olomouci	NNFS6-----A----	Atr
+23	k	RR--3----------	AuxP
+24	léčbě	NNFS3-----A----	Adv
+25	ledvin	NNFP2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95049-098-p3s8
+1	Vůz	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4YS1----------	Sb
+4	nebyl	VpYS---XR-NA---	Atr
+5	pojištěn	VsYS---XX-AP---	Pnom
+6	,	Z:-------------	AuxX
+7	je	VB-S---3P-AA---	Pred
+8	po	RR--6----------	AuxP
+9	havárii	NNFS6-----A----	Adv
+10	nepojízdný	AAIS1----1N----	Pnom
+11	.	Z:-------------	AuxK
+

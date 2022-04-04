@@ -1,0 +1,116 @@
+ln94204-153-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln94204-153-p2s1
+1	Americká	AAFS1----1A----	Atr
+2	investiční	AAFS1----1A----	Atr
+3	firma	NNFS1-----A----	Sb
+4	Oppenheimer	NNMS1-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	rozhodla	VpQW---XR-AA--1	Pred
+7	založit	Vf--------A----	Obj
+8	zvláštní	AAIS4----1A----	Atr
+9	fond	NNIS4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	portfoliové	AAFP4----1A----	Atr
+12	investice	NNFP4-----A----	Atr
+13	do	RR--2----------	AuxP
+14	českých	AAIP2----1A----	Atr
+15	cenných	AAIP2----1A----	Atr
+16	papírů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94204-153-p2s2
+1	Nový	AAIS1----1A----	Atr
+2	fond	NNIS1-----A----	Sb
+3	(	Z:-------------	Apos
+4	The	AAXXX----1A----	Atr
+5	Czech	AAXXX----1A----	Atr
+6	Republic	AAXXX----1A----	Atr
+7	Fund	NNIXX-----A----	Sb
+8	,	Z:-------------	AuxX
+9	Inc	AAXXX----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	)	Z:-------------	AuxG
+12	je	VB-S---3P-AA---	Pred
+13	registrován	VsYS---XX-AP---	Pnom
+14	na	RR--6----------	AuxP
+15	newyorkské	AAFS6----1A----	Atr
+16	burze	NNFS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94204-153-p3s1
+1	Česká	AAFS1----1A----	Atr
+2	spořitelna	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měla	VpQW---XR-AA---	Pred
+5	získat	Vf--------A----	Obj
+6	v	RR--6----------	AuxP
+7	České	AAFS6----1A----	Atr
+8	bance	NNFS6-----A----	Adv
+9	přibližně	Dg-------1A----	Adv
+10	šestinový	AAIS4----1A----	ExD
+11	akciový	AAIS4----1A----	ExD
+12	.	Z:-------------	AuxK
+
+ln94204-153-p3s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	ředitel	NNMS1-----A----	Sb
+4	této	PDFS2----------	Atr
+5	banky	NNFS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln94204-153-p4s1
+1	Spolchemia	NNFS1-----A----	Sb
+2	očekává	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	ve	RV--6----------	AuxP
+5	čtvrtém	CrNS6----------	Atr
+6	kole	NNNS6-----A----	Adv
+7	druhé	CrFS2----------	Atr
+8	vlny	NNFS2-----A----	Atr
+9	kuponové	AAFS2----1A----	Atr
+10	privatizace	NNFS2-----A----	Atr
+11	převis	NNIS4-----A----	Obj
+12	zájmu	NNIS2-----A----	Atr
+13	o	RR--4----------	AuxP
+14	své	P8FP4---------1	Atr
+15	akcie	NNFP4-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94204-153-p4s2
+1	Podnik	NNIS1-----A----	Sb
+2	to	PDNS4----------	Obj
+3	vyvozuje	VB-S---3P-AA---	Pred
+4	mimo	RR--4----------	AuxP
+5	jiné	AANS4----1A----	Adv
+6	z	RR--2----------	AuxP
+7	dosavadního	AAIS2----1A----	Atr
+8	průběhu	NNIS2-----A----	Obj
+9	kuponové	AAFS2----1A----	Atr
+10	privatizace	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	ze	RV--2----------	AuxP
+13	své	P8FS2---------1	Atr
+14	pozitivně	Dg-------1A----	Adv
+15	se	P7-X4----------	AuxT
+16	vyvíjející	AGFS2-----A----	Atr
+17	pozice	NNFS2-----A----	Obj
+18	na	RR--6----------	AuxP
+19	domácím	AAIS6----1A----	Atr
+20	i	J^-------------	Coord
+21	světovém	AAIS6----1A----	Atr
+22	trhu	NNIS6-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94204-153-p4s3
+1	Odbyt	NNIS1-----A----	Sb
+2	Spolchemie	NNFS2-----A----	Atr
+3	letos	Db-------------	Adv
+4	vzrostl	VpYS---XR-AA---	Pred
+5	o	RR--4----------	AuxP
+6	sedm	Cn-S4----------	Adv
+7	procent	NNNP2-----A----	Atr
+8	.	Z:-------------	AuxK
+

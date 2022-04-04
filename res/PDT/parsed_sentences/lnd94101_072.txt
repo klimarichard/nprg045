@@ -1,0 +1,506 @@
+lnd94101-072-p1s1
+1	Náš	PSYS1-P1-------	Atr
+2	život	NNIS1-----A----	ExD
+3	po	RR--6----------	AuxP
+4	Twin	AAXXX----1A----	Atr
+5	Peaks	NNIPX-----A----	Atr
+6	.	Z:-------------	AuxK
+7	.	Z:-------------	AuxK
+8	.	Z:-------------	AuxK
+
+lnd94101-072-p1s2A
+1	Alena	NNFS1-----A----	Atr
+2	Prokopová	NNFS1-----A----	ExD
+
+lnd94101-072-p1s2B
+1	Televizní	AAIS1----1A----	Atr
+2	seriál	NNIS1-----A----	Sb
+3	MĚSTEČKO	NNNS1-----A----	Atr
+4	TWIN	AAXXX----1A----	Atr
+5	PEAKS	NNIPX-----A----	Atr
+6	na	RR--4----------	AuxP
+7	nás	PP-P4--1-------	Obj
+8	od	RR--2----------	AuxP
+9	poloviny	NNFS2-----A----	Adv
+10	září	NNNS2-----A----	Atr
+11	minulého	AAIS2----1A----	Atr
+12	roku	NNIS2-----A---1	Atr
+13	doléhal	VpYS---XR-AA---	Pred
+14	skoro	Db-------------	Adv
+15	každý	AAIS4----1A----	Atr
+16	pátek	NNIS4-----A----	Adv
+17	.	Z:-------------	AuxK
+
+lnd94101-072-p1s3
+1	Včera	Db-------------	Adv
+2	to	PDNS1----------	Atr
+3	úporné	AANS1----1A----	Atr
+4	sledování	NNNS1-----A----	Sb
+5	skončilo	VpNS---XR-AA---	Pred
+6	.	Z:-------------	AuxK
+
+lnd94101-072-p1s4
+1	Co	PQ--4----------	Obj
+2	teď	Db-------------	Adv
+3	můžeme	VB-P---1P-AA---	Pred
+4	očekávat	Vf--------A----	Obj
+5	:	Z:-------------	Apos
+6	vlnu	NNFS4-----A----	Obj
+7	sňatků	NNIP2-----A----	Atr
+8	mezi	RR--7----------	AuxP
+9	středoškoláky	NNMP7-----A----	Atr
+10	,	Z:-------------	AuxX
+11	objevení	NNNS4-----A----	Obj
+12	Soví	AAFS2----1A----	Atr
+13	jeskyně	NNFS2-----A----	Atr
+14	na	RR--6----------	AuxP
+15	Zahradním	AANS6----1A----	Atr
+16	Městě	NNNS6-----A----	Atr
+17	,	Z:-------------	AuxX
+18	nebo	J^-------------	Coord
+19	vznik	NNIS4-----A----	Obj
+20	tajné	AAFS2----1A----	Atr
+21	sekty	NNFS2-----A----	Atr
+22	pojídačů	NNMP2-----A----	Atr
+23	třešňových	AAIP2----1A----	Atr
+24	koláčů	NNIP2-----A----	Atr
+25	?	Z:-------------	AuxK
+
+lnd94101-072-p1s5
+1	Není	VB-S---3P-NA---	Pred
+2	vlastně	Db-------------	Adv
+3	známo	ACNS------A----	Pnom
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	přesně	Dg-------1A----	Adv
+7	si	P7-X3----------	Adv
+8	Laura	NNFS1-----A----	Atr
+9	Palmerová	NNFS1-----A----	Sb
+10	udělala	VpQW---XR-AA---	Sb
+11	první	CrIS4----------	Atr
+12	záznam	NNIS4-----A----	Obj
+13	o	RR--6----------	AuxP
+14	návštěvě	NNFS6-----A----	Atr
+15	Boba	NNMS2-----A----	Atr
+16	,	Z:-------------	Coord
+17	vyslance	NNMS2-----A----	Atr
+18	Zla	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94101-072-p1s6
+1	Ve	RV--6----------	AuxP
+2	výstředním	AAIS6----1A----	Atr
+3	dívčím	AAIS6----1A----	Atr
+4	románovém	AAIS6----1A----	Atr
+5	pokusu	NNIS6-----A---1	Adv
+6	Jennifer	NNFXX-----A----	Atr
+7	Chambers	NNFXX-----A----	Atr
+8	Lynchové	NNFS2-----A----	Atr
+9	s	RR--7----------	AuxP
+10	názvem	NNIS7-----A----	Atr
+11	Tajný	AAIS1----1A----	Atr
+12	deník	NNIS1-----A----	Atr
+13	Laury	NNFS2-----A----	Atr
+14	Palmerové	NNFS2-----A----	Atr
+15	je	VB-S---3P-AA---	Pred
+16	ten	PDYS1----------	Atr
+17	den	NNIS1-----A----	Sb
+18	označen	VsYS---XX-AP---	Pnom
+19	jako	J,-------------	AuxY
+20	22	C=-------------	Atr
+21	.	Z:-------------	AuxG
+22	červenec	NNIS4-----A----	Obj
+23	1984	C=-------------	Atr
+24	.	Z:-------------	AuxK
+
+lnd94101-072-p1s7
+1	Jistější	AANS1----2A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	to	PDNS1----------	Sb
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	v	RR--6----------	AuxP
+7	letech	NNNP6-----A----	Adv
+8	1990	C=-------------	Atr
+9	-	Z:-------------	Coord
+10	92	C=-------------	Atr
+11	inicioval	VpYS---XR-AA---	Atr
+12	pozorný	AAMS1----1A----	Atr
+13	tatínek	NNMS1-----A----	Atr
+14	zmíněné	AAFS2----1A----	Atr
+15	mladé	AAFS2----1A----	Atr
+16	spisovatelky	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	proslulý	AAMS1----1A----	Atr
+19	filmový	AAMS1----1A----	Atr
+20	režisér	NNMS1-----A----	Atr
+21	David	NNMS1-----A----	Atr
+22	Lynch	NNMS1-----A----	Sb
+23	,	Z:-------------	AuxX
+24	s	RR--7----------	AuxP
+25	kolegou	NNMS7-----A----	Atr
+26	Markem	NNMS7-----A----	Atr
+27	Frostem	NNMS7-----A----	Adv
+28	jeden	ClIS4----------	Obj
+29	z	RR--2----------	AuxP
+30	nejdrzejších	AAIP2----3A----	Atr
+31	intelektuálských	AAIP2----1A----	Atr
+32	pokusů	NNIP2-----A----	Atr
+33	,	Z:-------------	AuxX
+34	jak	Db-------------	Adv
+35	vstoupit	Vf--------A----	Atr
+36	do	RR--2----------	AuxP
+37	svatyně	NNFS2-----A----	Adv
+38	televizních	AAIP2----1A----	Atr
+39	seriálů	NNIP2-----A----	Atr
+40	,	Z:-------------	AuxX
+41	a	J^-------------	AuxY
+42	to	PDNS4----------	AuxY
+43	hlavní	AAFS7----1A----	Atr
+44	branou	NNFS7-----A---1	Adv
+45	.	Z:-------------	AuxK
+
+lnd94101-072-p1s8
+1	Proměnlivý	AAIS1----1A----	Atr
+2	scenáristický	AAIS1----1A----	Atr
+3	a	J^-------------	Coord
+4	režijní	AAIS1----1A----	Adv
+5	tým	NNIS1-----A----	Sb
+6	Městečka	NNNS2-----A----	Atr
+7	Twin	AAXXX----1A----	Atr
+8	Peaks	NNIPX-----A----	Atr
+9	byl	VpYS---XR-AA---	Pred
+10	vzácně	Dg-------1A----	Adv
+11	jednotný	AAIS1----1A----	Pnom
+12	:	Z:-------------	Coord
+13	rafinovaně	Dg-------1A----	Adv
+14	zkonstruovaný	AAIS1----1A----	Atr
+15	seriálový	AAIS1----1A----	Atr
+16	rébus	NNIS1-----A----	Sb
+17	zamotal	VpYS---XR-AA---	Pred
+18	hlavu	NNFS4-----A----	Obj
+19	publiku	NNNS3-----A----	Obj
+20	poučenému	AANS3----1A----	Atr
+21	,	Z:-------------	AuxX
+22	stejně	Dg-------1A----	Adv
+23	jako	J,-------------	AuxC
+24	naivně	Dg-------1A----	Adv
+25	manueloidnímu	AANS3----1A----	ExD
+26	.	Z:-------------	AuxK
+
+lnd94101-072-p1s9
+1	Ponechme	Vi-P---1--A----	Pred
+2	stranou	Db-------------	Adv
+3	otázku	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	kolik	C?--1----------	Sb
+6	diváků	NNMP2-----A----	Atr
+7	na	RR--6----------	AuxP
+8	celém	AAIS6----1A----	Atr
+9	světě	NNIS6-----A----	AtrAdv
+10	bralo	VpNS---XR-AA---	Atr
+11	Městečko	NNNS4-----A----	Obj
+12	Twin	AAXXX----1A----	Atr
+13	Peaks	NNIPX-----A----	Atr
+14	vážně	Dg-------1A----	Adv
+15	.	Z:-------------	AuxK
+
+lnd94101-072-p1s10A
+1	(	Z:-------------	AuxG
+2	Jako	J,-------------	AuxY
+3	by	Vc-------------	AuxV
+4	nestačily	VpTP---XR-NA---	Pred
+5	superblbé	AAIP1----1A----	Atr
+6	dialogy	NNIP1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	absurdní	AAFP1----1A----	Atr
+9	charakteristiky	NNFP1-----A----	Sb
+10	postav	NNFP2-----A----	Atr
+11	či	J^-------------	Coord
+12	křiklavě	Dg-------1A----	Atr
+13	nesmyslné	AAIP1----1N----	Atr
+14	dějové	AAIP1----1A----	Atr
+15	zvraty	NNIP1-----A----	Sb
+16	!	Z:-------------	AuxK
+17	)	Z:-------------	AuxG
+
+lnd94101-072-p1s10B
+1	Ponechme	Vi-P---1--A----	Pred
+2	stranou	Db-------------	Adv
+3	i	J^-------------	AuxZ
+4	otázku	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	kolik	C?--1----------	Sb
+7	diváků	NNMP2-----A----	Atr
+8	bralo	VpNS---XR-AA---	Atr
+9	seriál	NNIS4-----A----	Obj
+10	jako	J,-------------	AuxY
+11	sarkastický	AAIS4----1A----	Atr
+12	vtip	NNIS4-----A----	Atv
+13	.	Z:-------------	AuxK
+
+lnd94101-072-p1s11
+1	Rébus	NNIS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	nekonečně	Dg-------1N----	Adv
+4	mnoho	Ca--4----------	Obj
+5	řešení	NNNP2-----A----	Atr
+6	,	Z:-------------	Coord
+7	skládačka	NNFS1-----A----	Sb
+8	obsahuje	VB-S---3P-AA---	Pred
+9	neznámé	AANS4----1N----	Atr
+10	množství	NNNS4-----A----	Obj
+11	dílků	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd94101-072-p1s12
+1	Nejde	VB-S---3P-NA---	Pred
+2	totiž	Db-------------	AuxY
+3	jenom	TT-------------	AuxZ
+4	o	RR--4----------	AuxP
+5	seriál	NNIS4-----A----	Obj
+6	a	J^-------------	Coord
+7	o	RR--4----------	AuxP
+8	celou	AAFS4----1A----	Atr
+9	pop	AAXXX----1A----	Atr
+10	kulturu	NNFS4-----A----	Obj
+11	Twin	AAXXX----1A----	Atr
+12	Peaks	NNIPX-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94101-072-p1s13
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	to	PDNS4----------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	ať	TT-------------	AuxY
+7	jste	VB-P---2P-AA---	Adv
+8	kdokoli	PZM-1---------1	Pnom
+9	,	Z:-------------	AuxX
+10	ať	TT-------------	AuxY
+11	se	P7-X4----------	AuxT
+12	hnete	VB-P---2P-AA---	Adv
+13	,	Z:-------------	AuxX
+14	kam	Db-------------	Adv
+15	chcete	VB-P---2P-AA---	Adv
+16	,	Z:-------------	Coord
+17	ať	TT-------------	AuxY
+18	jíte	VB-P---2P-AA---	Adv
+19	cokoli	PZ--4---------1	Obj
+20	:	Z:-------------	AuxG
+21	Vítejte	Vi-P---2--A----	Atr
+22	v	RR--6----------	AuxP
+23	Twin	AAXXX----1A----	Atr
+24	Peaks	NNIPX-----A----	Adv
+25	!	Z:-------------	AuxK
+
+lnd94101-072-p1s14
+1	Jsme	VB-P---1P-AA---	Pred
+2	to	PDNS1----------	Pnom
+3	my	PP-P1--1-------	Sb
+4	a	J^-------------	Coord
+5	náš	PSYS1-P1-------	Atr
+6	svět	NNIS1-----A----	Sb
+7	,	Z:-------------	Coord
+8	nikoli	Db------------1	AuxZ
+9	nějaký	PZYS1----------	Atr
+10	abstraktní	AAIS1----1A----	Atr
+11	pseudoživot	NNIS1-----A----	Sb
+12	zločinů	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	vášní	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	dmoucích	AGFP2-----A----	Atr
+17	se	P7-X4----------	AuxT
+18	pod	RR--7----------	AuxP
+19	zrcadlově	Dg-------1A----	Adv
+20	poklidnou	AAFS7----1A----	Atr
+21	hladinou	NNFS7-----A----	Adv
+22	idylického	AANS2----1A----	Atr
+23	dřevorubeckého	AANS2----1A----	Atr
+24	městečka	NNNS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd94101-072-p1s15
+1	Hranice	NNFP1-----A----	Sb
+2	mezi	RR--7----------	AuxP
+3	realitou	NNFS7-----A----	Atr
+4	,	Z:-------------	AuxX
+5	snem	NNIS7-----A----	Atr
+6	a	J^-------------	Coord
+7	mýtem	NNIS7-----A----	Atr
+8	se	P7-X4----------	AuxR
+9	přece	Db-------------	Adv
+10	už	Db-------------	AuxZ
+11	dávno	Dg-------1A----	Adv
+12	setřely	VpTP---XR-AA---	Pred
+13	,	Z:-------------	AuxX
+14	podobně	Dg-------1A----	Adv
+15	jako	J,-------------	AuxC
+16	hustě	Dg-------1A----	Atr
+17	nanesená	AAFS1----1A----	Atr
+18	rtěnka	NNFS1-----A----	ExD
+19	barvy	NNFS2-----A----	Atr
+20	krve	NNFS2-----A----	Atr
+21	na	RR--6----------	AuxP
+22	rtech	NNIP6-----A----	Atr
+23	surově	Dg-------1A----	Atr
+24	zavražděné	AAFS2----1A----	Atr
+25	dcery	NNFS2-----A----	Atr
+26	úctyhodného	AAMS2----1A----	Atr
+27	místního	AAMS2----1A----	Atr
+28	občana	NNMS2-----A----	Atr
+29	Lelanda	NNMS2-----A----	Atr
+30	Palmera	NNMS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+lnd94101-072-p1s16
+1	Film	NNIS1-----A----	Sb
+2	Twin	AAXXX----1A----	Atr
+3	Peaks	NNIPX-----A----	Atr
+4	,	Z:-------------	AuxX
+5	který	P4IS4----------	Obj
+6	natočil	VpYS---XR-AA---	Atr
+7	David	NNMS1-----A----	Atr
+8	Lynch	NNMS1-----A----	Sb
+9	později	Dg-------2A----	Adv
+10	,	Z:-------------	AuxX
+11	má	VB-S---3P-AA---	Pred
+12	strukturu	NNFS4-----A----	Obj
+13	snu	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	úzce	Dg-------1A----	Adv
+17	se	P7-X4----------	AuxT
+18	váže	VB-S---3P-AA---	Pred
+19	na	RR--4----------	AuxP
+20	svého	P8MS4----------	Atr
+21	televizního	AAMS4----1A----	Atr
+22	předchůdce	NNMS4-----A----	Obj
+23	,	Z:-------------	AuxX
+24	bez	RR--2----------	AuxP
+25	kterého	P4ZS2----------	Adv
+26	je	VB-S---3P-AA---	Atr
+27	téměř	Db-------------	Adv
+28	nesrozumitelný	AAIS1----1N----	Pnom
+29	.	Z:-------------	AuxK
+
+lnd94101-072-p1s17
+1	Seriál	NNIS1-----A----	Sb
+2	zase	Db-------------	AuxY
+3	není	VB-S---3P-NA---	Pred
+4	srozumitelný	AAIS1----1A----	Pnom
+5	bez	RR--2----------	AuxP
+6	vnímání	NNNS2-----A----	Adv
+7	skutečnosti	NNFS2-----A----	Atr
+8	jako	J,-------------	AuxY
+9	matoucího	AGNS2-----A----	Atr
+10	spektra	NNNS2-----A----	Atv
+11	dějů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd94101-072-p1s18
+1	Má	VB-S---3P-AA---	Pred
+2	strukturu	NNFS4-----A----	Obj
+3	reality	NNFS2-----A----	Atr
+4	se	RV--7----------	AuxP
+5	vší	PLFS7----------	Atr
+6	její	PSFSXFS3-------	Atr
+7	nejednoznačností	NNFS7-----N----	Adv
+8	a	J^-------------	Coord
+9	s	RR--7----------	AuxP
+10	její	PSFSXFS3-------	Atr
+11	demokratickou	AAFS7----1A----	Atr
+12	otevřeností	NNFS7-----A----	Adv
+13	dalším	AAIP3----1A----	Atr
+14	dějům	NNIP3-----A----	Atr
+15	a	J^-------------	Coord
+16	osobám	NNFP3-----A----	Atr
+17	-	Z:-------------	AuxG
+18	a	J^-------------	Coord
+19	také	Db-------------	AuxZ
+20	výkladům	NNIP3-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94101-072-p1s19
+1	Kupříkladu	Db-------------	Adv
+2	podle	RR--2----------	AuxP
+3	tibetské	AAFS2----1A----	Atr
+4	představy	NNFS2-----A----	Adv
+5	spolu	Db-------------	Adv
+6	všechny	PLFP1----------	Atr
+7	události	NNFP1-----A----	Sb
+8	souvisejí	VB-P---3P-AA---	Pred
+9	a	J^-------------	Coord
+10	všechno	PLNS1----------	Sb
+11	je	VB-S---3P-AA---	Pred
+12	vzájemně	Dg-------1A----	Adv
+13	propojeno	VsNS---XX-AP---	Pnom
+14	.	Z:-------------	AuxK
+15	.	Z:-------------	AuxK
+16	.	Z:-------------	AuxK
+
+lnd94101-072-p1s20
+1	Včera	Db-------------	Adv
+2	nastal	VpYS---XR-AA---	Pred
+3	konec	NNIS1-----A----	Sb
+4	naší	PSFS2-P1-------	Atr
+5	každodennosti	NNFS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	věrně	Dg-------1A----	Adv
+8	zrcadlené	AAFS2----1A----	Atr
+9	Městečkem	NNNS7-----A----	Adv
+10	Twin	AAXXX----1A----	Atr
+11	Peaks	NNIPX-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd94101-072-p1s21
+1	Významové	AAFP1----1A----	Atr
+2	i	J^-------------	Coord
+3	časové	AAFP1----1A----	Atr
+4	spojitosti	NNFP1-----A----	Sb
+5	byly	VpTP---XR-AA---	AuxV
+6	znásilněny	VsTP---XX-AP---	Pred
+7	,	Z:-------------	AuxX
+8	a	J^-------------	Coord
+9	líbilo	VpNS---XR-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	jim	PPXP3--3-------	Obj
+12	to	PDNS1----------	Sb
+13	.	Z:-------------	AuxK
+
+lnd94101-072-p1s22
+1	Co	PQ--1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	příčina	NNFS1-----A----	Pnom
+4	a	J^-------------	Coord
+5	co	PQ--1----------	ExD
+6	následek	NNIS1-----A----	ExD
+7	?	Z:-------------	AuxK
+
+lnd94101-072-p1s23
+1	Co	PQ--1----------	Sb
+2	bylo	VpNS---XR-AA---	Pred
+3	dřív	Dg-------2A---2	Pnom
+4	:	Z:-------------	Apos
+5	vejce	NNNS1-----A----	Sb
+6	nebo	J^-------------	Coord
+7	úsměv	NNIS1-----A----	Sb
+8	agenta	NNMS2-----A----	Atr
+9	FBI	NNIXX-----A---8	Atr
+10	Dalea	NNMS2-----A----	Atr
+11	Coopera	NNMS2-----A----	Atr
+12	?	Z:-------------	AuxK
+
+lnd94101-072-p1s24
+1	Podle	RR--2----------	AuxP
+2	čeho	PQ--2----------	Adv
+3	se	P7-X4----------	AuxR
+4	ode	RV--2----------	AuxP
+5	dneška	NNIS2-----A----	Adv
+6	bude	VB-S---3F-AA---	AuxV
+7	řídit	Vf--------A----	Pred
+8	skutečnost	NNFS1-----A----	Sb
+9	?	Z:-------------	AuxK
+

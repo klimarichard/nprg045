@@ -1,0 +1,109 @@
+ln94203-138-p1s1
+1	Kladné	AANS1----1A----	Atr
+2	saldo	NNNS1-----A----	ExD
+3	obchodní	AAFS2----1A----	Atr
+4	bilance	NNFS2-----A----	Atr
+
+ln94203-138-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94203-138-p2s1B
+1	Dovoz	NNIS1-----A----	Sb
+2	do	RR--2----------	AuxP
+3	České	AAFS2----1A----	Atr
+4	republiky	NNFS2-----A----	Atr
+5	za	RR--4----------	AuxP
+6	leden	NNIS4-----A----	Atr
+7	až	J^-------------	Coord
+8	červenec	NNIS4-----A----	Atr
+9	letošního	AAIS2----1A----	Atr
+10	roku	NNIS2-----A---1	Atr
+11	dosáhl	VpYS---XR-AA---	Pred
+12	předběžně	Dg-------1A----	Adv
+13	podle	RR--2----------	AuxP
+14	údajů	NNIP2-----A----	Adv
+15	ČSÚ	NNIXX-----A---8	Atr
+16	229.1	C=-------------	Obj
+17	miliardy	NNFS2-----A----	Atr
+18	korun	NNFP2-----A----	Atr
+19	,	Z:-------------	Coord
+20	což	PE--1----------	Sb
+21	bylo	VpNS---XR-AA---	Pred
+22	o	RR--4----------	AuxP
+23	13.6	C=-------------	Adv
+24	procenta	NNNS2-----A----	Atr
+25	více	Dg-------2A----	Adv
+26	než	J,-------------	AuxC
+27	ve	RV--6----------	AuxP
+28	stejném	AANS6----1A----	Atr
+29	období	NNNS6-----A----	ExD
+30	loni	Db------------1	Atr
+31	.	Z:-------------	AuxK
+
+ln94203-138-p3s1
+1	Vývoz	NNIS1-----A----	Sb
+2	představoval	VpYS---XR-AA---	Pred
+3	231.6	C=-------------	Obj
+4	miliardy	NNFS2-----A----	Atr
+5	korun	NNFP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln94203-138-p3s2
+1	Proti	RR--3----------	AuxP
+2	minulému	AAIS3----1A----	Atr
+3	roku	NNIS3-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	tak	Db-------------	Adv
+6	zvýšil	VpYS---XR-AA---	Pred
+7	o	RR--4----------	AuxP
+8	5.4	C=-------------	Adv
+9	procenta	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94203-138-p3s3
+1	Saldo	NNNS1-----A----	Sb
+2	obchodní	AAFS2----1A----	Atr
+3	bilance	NNFS2-----A----	Atr
+4	za	RR--4----------	AuxP
+5	letošní	AAIS4----1A----	Atr
+6	první	CrIS4----------	Atr
+7	až	J^-------------	Coord
+8	sedmý	AAIS4----1A----	Atr
+9	měsíc	NNIS4-----A----	Atr
+10	činilo	VpNS---XR-AA---	Pred
+11	2.5	C=-------------	Obj
+12	miliardy	NNFS2-----A----	Atr
+13	korun	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94203-138-p4s1
+1	Ze	RV--2----------	AuxP
+2	Slovenské	AAFS2----1A----	Atr
+3	republiky	NNFS2-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	do	RR--2----------	AuxP
+6	ČR	NNFXX-----A---8	Adv
+7	dovezlo	VpNS---XR-AA---	Pred
+8	od	RR--2----------	AuxP
+9	ledna	NNIS2-----A----	Adv
+10	do	RR--2----------	AuxP
+11	července	NNIS2-----A----	Adv
+12	1994	C=-------------	Atr
+13	zboží	NNNS1-----A----	Sb
+14	za	RR--4----------	AuxP
+15	36.6	C=-------------	Atr
+16	miliardy	NNFS2-----A----	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94203-138-p4s2
+1	Vývoz	NNIS1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	Slovensko	NNNS4-----A----	Atr
+4	činil	VpYS---XR-AA---	Pred
+5	36.1	C=-------------	Obj
+6	miliardy	NNFS2-----A----	Atr
+7	korun	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+

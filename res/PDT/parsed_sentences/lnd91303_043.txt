@@ -1,0 +1,196 @@
+lnd91303-043-p1s1
+1	MASAKROVÁNÍ	NNNS1-----A----	ExD
+2	NOVINÁŘŮ	NNMP2-----A----	Atr
+
+lnd91303-043-p2s1
+1	Daň	NNFS1-----A----	ExD
+2	povolání	NNNS3-----A----	Atr
+
+lnd91303-043-p3s1
+1	BRUSEL	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91303-043-p4s1
+1	Dosud	Db-------------	Adv
+2	nejvyšší	AAIS1----3A----	Atr
+3	počet	NNIS1-----A----	Sb
+4	novinářů	NNMP2-----A----	Atr
+5	-	Z:-------------	Apos
+6	celkem	Db-------------	Adv
+7	83	C=-------------	Sb
+8	-	Z:-------------	AuxG
+9	přišel	VpYS---XR-AA---	Pred
+10	o	RR--4----------	AuxP
+11	život	NNIS4-----A----	Obj
+12	v	RR--6----------	AuxP
+13	roce	NNIS6-----A---1	Adv
+14	1991	C=-------------	Atr
+15	.	Z:-------------	AuxK
+
+lnd91303-043-p4s2
+1	Někteří	PZMP1----------	Sb
+2	zahynuli	VpMP---XR-AA---	Obj
+3	při	RR--6----------	AuxP
+4	přírodních	AAFP6----1A----	Atr
+5	pohromách	NNFP6-----A----	Adv
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	mnozí	AAMP1----1A----	Sb
+9	se	P7-X4----------	AuxT
+10	stali	VpMP---XR-AA---	Obj
+11	oběťmi	NNFP7-----A----	Obj
+12	vojenských	AAFP2----1A----	Atr
+13	akcí	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	teroristů	NNMP2-----A----	Atr
+16	a	J^-------------	Coord
+17	zločinců	NNMP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	oznámila	VpQW---XR-AA---	Pred
+20	v	RR--6----------	AuxP
+21	Bruselu	NNIS6-----A----	Adv
+22	Mezinárodní	AAFS1----1A----	Atr
+23	federace	NNFS1-----A----	Sb
+24	novinářů	NNMP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd91303-043-p4s3
+1	Podle	RR--2----------	AuxP
+2	údajů	NNIP2-----A----	Adv
+3	této	PDFS2----------	Atr
+4	odborové	AAFS2----1A----	Atr
+5	ústředny	NNFS2-----A----	Atr
+6	sedmé	AAFS2----1A----	Atr
+7	velmoci	NNFS2-----A----	Atr
+8	si	P7-X3----------	Adv
+9	letos	Db-------------	Adv
+10	největší	AAFS4----3A----	Atr
+11	daň	NNFS4-----A----	Obj
+12	vybrala	VpQW---XR-AA---	Pred
+13	válkou	NNFS7-----A----	Obj
+14	zmítaná	AAFS1----1A----	Atr
+15	Jugoslávie	NNFS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	kde	Db-------------	Adv
+18	bylo	VpNS---XR-AA---	Atr
+19	zabito	VsNS---XX-AP---	Pnom
+20	21	C=-------------	Sb
+21	novinářů	NNMP2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	a	J^-------------	Coord
+24	Japonsko	NNNS1-----A----	Sb
+25	,	Z:-------------	AuxX
+26	kde	Db-------------	Adv
+27	15	C=-------------	Sb
+28	reportérů	NNMP2-----A----	Atr
+29	zahynulo	VpNS---XR-AA---	Atr
+30	při	RR--6----------	AuxP
+31	zajišťování	NNNS6-----A----	Adv
+32	zpravodajství	NNNS2-----A----	Atr
+33	o	RR--6----------	AuxP
+34	nečekané	AAFS6----1A----	Atr
+35	erupci	NNFS6-----A----	Atr
+36	sopky	NNFS2-----A----	Atr
+37	Unzen	NNIS1-----A----	Atr
+38	.	Z:-------------	AuxK
+
+lnd91303-043-p4s4
+1	Předsedkyně	NNFS1-----A----	Atr
+2	IFJ	NNFXX-----A---8	Atr
+3	Mia	NNFS1-----A----	Atr
+4	Doornaertová	NNFS1-----A----	Sb
+5	prohlásila	VpQW---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	některé	PZFP1----------	Atr
+9	oběti	NNFP1-----A----	Sb
+10	občanské	AAFS2----1A----	Atr
+11	války	NNFS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Jugoslávii	NNFS6-----A----	Atr
+14	"	Z:-------------	AuxG
+15	nebyly	VpTP---XR-NA---	Obj
+16	zabity	VsTP---XX-AP---	Pnom
+17	náhodně	Dg-------1A----	Adv
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	proto	Db-------------	ExD
+21	,	Z:-------------	AuxX
+22	že	J,-------------	AuxC
+23	patřily	VpTP---XR-AA---	ExD
+24	k	RR--3----------	AuxP
+25	novinářům	NNMP3-----A----	Obj
+26	"	Z:-------------	AuxG
+27	.	Z:-------------	AuxK
+
+lnd91303-043-p4s5
+1	Nebezpečným	AANS7----1N----	Atr
+2	místem	NNNS7-----A----	Obj
+3	pro	RR--4----------	AuxP
+4	novináře	NNMP4-----A----	Adv
+5	zůstává	VB-S---3P-AA---	Pred
+6	Latinská	AAFS1----1A----	Atr
+7	Amerika	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	kde	Db-------------	Adv
+10	jich	PPXP2--3-------	Atr
+11	letos	Db-------------	Adv
+12	zahynulo	VpNS---XR-AA---	Atr
+13	22	C=-------------	Obj
+14	,	Z:-------------	AuxX
+15	včetně	RR--2----------	AuxP
+16	osmi	Cn-P2----------	Atr
+17	v	RR--6----------	AuxP
+18	Kolumbii	NNFS6-----A----	ExD
+19	a	J^-------------	Coord
+20	sedmi	Cn-P2----------	Atr
+21	v	RR--6----------	AuxP
+22	Peru	NNNXX-----A----	ExD
+23	.	Z:-------------	AuxK
+
+lnd91303-043-p4s6
+1	Sedm	Cn-S1----------	Sb
+2	novinářů	NNMP2-----A----	Atr
+3	zemřelo	VpNS---XR-AA---	Pred
+4	během	RR--2----------	AuxP
+5	války	NNFS2-----A----	Adv
+6	v	RR--6----------	AuxP
+7	Perském	AAIS6----1A----	Atr
+8	zálivu	NNIS6-----A----	Atr
+9	a	J^-------------	Coord
+10	při	RR--6----------	AuxP
+11	událostech	NNFP6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	které	P4FP1----------	Sb
+14	na	RR--4----------	AuxP
+15	ni	P5FS4--3-------	Obj
+16	bezprostředně	Dg-------1A----	Adv
+17	navazovaly	VpTP---XR-AA---	Atr
+18	.	Z:-------------	AuxK
+
+lnd91303-043-p4s7
+1	"	Z:-------------	AuxG
+2	Masakrování	NNNS1-----A----	Sb
+3	novinářů	NNMP2-----A----	Atr
+4	bylo	VpNS---XR-AA---	Pred
+5	letos	Db-------------	Adv
+6	šokující	AGNS1-----A----	Pnom
+7	.	Z:-------------	AuxK
+
+lnd91303-043-p4s8
+1	Žádný	PWYS1----------	Atr
+2	kout	NNIS1-----A----	Sb
+3	světa	NNIS2-----A----	Adv
+4	není	VB-S---3P-NA---	Adv
+5	bezpečný	AAIS1----1A----	Pnom
+6	,	Z:-------------	AuxX
+7	"	Z:-------------	AuxG
+8	komentoval	VpYS---XR-AA---	Pred
+9	situaci	NNFS4-----A----	Obj
+10	generální	AAMS1----1A----	Atr
+11	tajemník	NNMS1-----A----	Atr
+12	IFJ	NNFXX-----A---8	Atr
+13	Aidan	NNMS1-----A----	Atr
+14	White	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+

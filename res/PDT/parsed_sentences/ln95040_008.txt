@@ -1,0 +1,121 @@
+ln95040-008-p1s1
+1	Bankovní	AAIS1----1A----	Atr
+2	institut	NNIS1-----A----	Sb
+3	nabízí	VB-S---3P-AA---	Pred
+4	vzdělání	NNNS4-----A----	Obj
+
+ln95040-008-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-008-p2s1B
+1	Ke	RV--3----------	AuxP
+2	zvýšení	NNNS3-----A----	Obj
+3	kvalifikace	NNFS2-----A----	Atr
+4	pracovníků	NNMP2-----A----	Atr
+5	finančních	AAFP2----1A----	Atr
+6	institucí	NNFP2-----A----	Atr
+7	i	J^-------------	Coord
+8	dalších	AAIP2----1A----	Atr
+9	podniků	NNIP2-----A----	Atr
+10	chce	VB-S---3P-AA---	Pred
+11	přispět	Vf--------A----	Obj
+12	Bankovní	AAIS1----1A----	Atr
+13	institut	NNIS1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	který	P4YS1----------	Sb
+16	včera	Db-------------	Adv
+17	představil	VpYS---XR-AA---	Atr
+18	novinářům	NNMP3-----A----	Obj
+19	svou	P8FS4---------1	Atr
+20	nabídku	NNFS4-----A----	Obj
+21	vzdělávacích	AAIP2----1A----	Atr
+22	kurzů	NNIP2-----A----	Atr
+23	pro	RR--4----------	AuxP
+24	letošní	AAIS4----1A----	Atr
+25	rok	NNIS4-----A----	AtrAtr
+26	.	Z:-------------	AuxK
+
+ln95040-008-p3s1
+1	Jak	J,-------------	Adv
+2	řekli	VpMP---XR-AA---	Pred
+3	jeho	PSXXXZS3-------	Atr
+4	představitelé	NNMP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	v	RR--6----------	AuxP
+7	českém	AAIS6----1A----	Atr
+8	bankovním	AAIS6----1A----	Atr
+9	sektoru	NNIS6-----A----	Adv
+10	pracuje	VB-S---3P-AA---	Pred
+11	asi	TT-------------	AuxZ
+12	56000	C=-------------	Sb
+13	lidí	NNMP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95040-008-p3s2
+1	Stále	Db-------------	Adv
+2	je	VB-S---3P-AA---	Pred
+3	však	J^-------------	Coord
+4	nedostatek	NNIS1-----A----	Sb
+5	vysoce	Db-------------	Adv
+6	kvalifikovaných	AAMP2----1A----	Atr
+7	pracovníků	NNMP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95040-008-p3s3
+1	Institut	NNIS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	který	P4IS4----------	Obj
+4	v	RR--6----------	AuxP
+5	podstatě	NNFS6-----A----	Adv
+6	založily	VpTP---XR-AA---	Atr
+7	banky	NNFP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	nechce	VB-S---3P-NA---	Pred
+10	být	Vf--------A----	Obj
+11	ztrátový	AAIS1----1A----	Pnom
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	neusiluje	VB-S---3P-NA---	Pred
+15	ani	J^-------------	AuxZ
+16	o	RR--4----------	AuxP
+17	zisk	NNIS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95040-008-p3s4
+1	Jeho	PSXXXZS3-------	Atr
+2	hlavním	AAIS7----1A----	Atr
+3	smyslem	NNIS7-----A----	Pnom
+4	je	VB-S---3P-AA---	Pred
+5	napomoci	Vf--------A---1	Sb
+6	zvyšování	NNNS3-----A----	Obj
+7	kvalifikace	NNFS2-----A----	Atr
+8	úředníků	NNMP2-----A----	Atr
+9	bank	NNFP2-----A----	Atr
+10	i	J^-------------	Coord
+11	dalších	AAMP2----1A----	Atr
+12	zájemců	NNMP2-----A----	Atr
+13	o	RR--4----------	AuxP
+14	tuto	PDFS4----------	Atr
+15	práci	NNFS4-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95040-008-p3s5
+1	Z	RR--2----------	AuxP
+2	oficiálních	AAFP2----1A----	Atr
+3	statistik	NNFP2-----A----	Obj
+4	vyplývá	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	zaměstnanci	NNMP1-----A----	Sb
+8	finančního	AAIS2----1A----	Atr
+9	sektoru	NNIS2-----A----	Atr
+10	mají	VB-P---3P-AA---	Sb
+11	nejvyšší	AAFP4----3A----	Atr
+12	průměrné	AAFP4----1A----	Atr
+13	mzdy	NNFP4-----A----	Obj
+14	ze	RV--2----------	AuxP
+15	všech	PLXP2----------	Atr
+16	odvětví	NNNP2-----A----	Adv
+17	.	Z:-------------	AuxK
+

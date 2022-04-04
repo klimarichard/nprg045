@@ -1,0 +1,75 @@
+ln95046-088-p1s1
+1	Průzkum	NNIS1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	zakázku	NNFS4-----A----	Atr
+4	odborů	NNIP2-----A----	Atr
+
+ln95046-088-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-088-p2s1B
+1	Většina	NNFS1-----A----	Sb
+2	občanů	NNMP2-----A----	Atr
+3	(	Z:-------------	Apos
+4	83	C=-------------	Sb
+5	procent	NNNP2-----A----	Atr
+6	)	Z:-------------	AuxG
+7	nesouhlasí	VB-S---3P-NA---	Pred
+8	s	RR--7----------	AuxP
+9	prodloužením	NNNS7-----A----	Obj
+10	věkové	AAFS2----1A----	Atr
+11	hranice	NNFS2-----A----	Atr
+12	odchodu	NNIS2-----A----	Atr
+13	do	RR--2----------	AuxP
+14	důchodu	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-088-p2s2
+1	Vyplynulo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	průzkumu	NNIS2-----A----	Obj
+5	,	Z:-------------	AuxX
+6	který	P4IS4----------	Obj
+7	Středisku	NNNS3-----A----	Obj
+8	empirických	AAIP2----1A----	Atr
+9	výzkumů	NNIP2-----A----	Atr
+10	zadala	VpQW---XR-AA---	Atr
+11	Českomoravská	AAFS1----1A----	Atr
+12	komora	NNFS1-----A----	Sb
+13	odborových	AAIP2----1A----	Atr
+14	svazů	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-088-p2s3
+1	Na	RR--6----------	AuxP
+2	vzorku	NNIS6-----A----	Adv
+3	1617	C=-------------	Atr
+4	respondentů	NNMP2-----A----	Atr
+5	průzkum	NNIS1-----A----	Sb
+6	dále	Db------------1	Adv
+7	zjistil	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	85	C=-------------	Sb
+11	procent	NNNP2-----A----	Atr
+12	dotázaných	AAMP2----1A----	ExD
+13	včetně	RR--2----------	AuxP
+14	většiny	NNFS2-----A----	Adv
+15	voličů	NNMP2-----A----	Atr
+16	ODS	NNFXX-----A---8	Atr
+17	si	P7-X3----------	AuxT
+18	myslí	VB-S---3P-AA---	Obj
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	se	P7-X4----------	AuxT
+22	odbory	NNIP1-----A----	Sb
+23	mají	VB-P---3P-AA---	Obj
+24	podílet	Vf--------A----	Obj
+25	na	RR--6----------	AuxP
+26	přípravě	NNFS6-----A----	Obj
+27	důchodového	AAIS2----1A----	Atr
+28	zákona	NNIS2-----A----	Atr
+29	.	Z:-------------	AuxK
+

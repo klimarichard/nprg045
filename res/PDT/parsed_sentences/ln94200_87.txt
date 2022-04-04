@@ -1,0 +1,97 @@
+ln94200-87-p1s1
+1	KDS	NNFXX-----A---8	Sb
+2	kritizuje	VB-S---3P-AA---	Pred
+3	telekomunikační	AAIS4----1A----	Atr
+4	monopol	NNIS4-----A----	Obj
+
+ln94200-87-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln94200-87-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mrk	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94200-87-p2s1C
+1	Klíčové	AANS1----1A----	Atr
+2	rozhodnutí	NNNS1-----A----	Sb
+3	o	RR--6----------	AuxP
+4	monopolním	AANS6----1A----	Atr
+5	postavení	NNNS6-----A----	Atr
+6	SPT	NNIXX-----A---8	Atr
+7	Telecom	NNIS1-----A----	Atr
+8	je	VB-S---3P-AA---	Pred
+9	podle	RR--2----------	AuxP
+10	KDS	NNFXX-----A---8	Adv
+11	špatné	AANS1----1A----	Pnom
+12	.	Z:-------------	AuxK
+
+ln94200-87-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	předseda	NNMS1-----A----	Atr
+4	strany	NNFS2-----A----	Atr
+5	Ivan	NNMS1-----A----	Atr
+6	Pilip	NNMS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+ln94200-87-p2s3
+1	Podle	RR--2----------	AuxP
+2	jeho	PSXXXZS3-------	Atr
+3	slov	NNNP2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	sice	Db-------------	AuxY
+6	podařilo	VpNS---XR-AA---	Pred
+7	do	RR--2----------	AuxP
+8	zásad	NNFP2-----A----	Adv
+9	státní	AAFS2----1A----	Atr
+10	telekomunikační	AAFS2----1A----	Atr
+11	politiky	NNFS2-----A----	Atr
+12	prosadit	Vf--------A----	Sb
+13	podporu	NNFS4-----A----	Obj
+14	a	J^-------------	Coord
+15	rozvoj	NNIS4-----A----	Adv
+16	místních	AAFP2----1A----	Atr
+17	sítí	NNFP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	je	VB-S---3P-AA---	Pred
+20	však	J^-------------	Coord
+21	prý	TT-------------	AuxY
+22	třeba	ACNS------A----	Pnom
+23	dále	Db------------1	Adv
+24	hledat	Vf--------A----	Sb
+25	alternativní	AANP4----1A----	Atr
+26	řešení	NNNP4-----A----	Obj
+27	a	J^-------------	Coord
+28	zrychlovat	Vf--------A----	Sb
+29	vstup	NNIS4-----A----	Obj
+30	dalších	AAIP2----1A----	Atr
+31	subjektů	NNIP2-----A----	Atr
+32	do	RR--2----------	AuxP
+33	tohoto	PDZS2----------	Atr
+34	odvětví	NNNS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+ln94200-87-p2s4
+1	Nic	PW--1----------	Sb
+2	prý	TT-------------	AuxY
+3	nenasvědčuje	VB-S---3P-NA---	Pred
+4	tomu	PDZS3----------	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	by	Vc-------------	AuxV
+8	monopol	NNIS1-----A----	Sb
+9	měl	VpYS---XR-AA---	Atr
+10	prospět	Vf--------A----	Obj
+11	výši	NNFS3-----A----	Obj
+12	tarifů	NNIP2-----A----	Atr
+13	či	J^-------------	Coord
+14	rychlosti	NNFS3-----A----	Obj
+15	rozvoje	NNIS2-----A----	Atr
+16	sítě	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+

@@ -1,0 +1,77 @@
+mf920922-045-p1s1
+1	Změna	NNFS1-----A----	ExD
+2	ve	RV--6----------	AuxP
+3	vedení	NNNS6-----A----	Atr
+4	Elektrických	AAFP2----1A----	Atr
+5	drah	NNFP2-----A----	Atr
+
+mf920922-045-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	sob	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920922-045-p2s2
+1	Vedením	NNNS7-----A----	Obj
+2	elektrických	AAFP2----1A----	Atr
+3	drah	NNFP2-----A----	Atr
+4	byl	VpYS---XR-AA---	AuxV
+5	po	RR--6----------	AuxP
+6	odvolaném	AAMS6----1A----	Atr
+7	řediteli	NNMS6-----A----	Atr
+8	DP	NNIXX-----A---8	Atr
+9	Elektrické	AAFP1----1A----	Atr
+10	dráhy	NNFP1-----A----	Atr
+11	Vladimíru	NNMS6-----A---1	Atr
+12	Maršálkovi	NNMS6-----A----	Adv
+13	pověřen	VsYS---XX-AP---	Pred
+14	jeho	PSXXXZS3-------	Atr
+15	bývalý	AAMS1----1A----	Atr
+16	technický	AAMS1----1A----	Atr
+17	náměstek	NNMS1-----A----	Atr
+18	Rudolf	NNMS1-----A----	Atr
+19	Mládek	NNMS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+mf920922-045-p2s3
+1	Odvolání	NNNS4-----A----	Obj
+2	Vladimíra	NNMS2-----A----	Atr
+3	Maršálka	NNMS2-----A----	Atr
+4	generální	AAMS1----1A----	Atr
+5	ředitel	NNMS1-----A----	Sb
+6	DP	NNIXX-----A---8	Atr
+7	zdůvodnil	VpYS---XR-AA---	Pred
+8	tím	PDZS7----------	Adv
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	nezvládl	VpYS---XR-NA--1	Atr
+12	svoji	P8FS4----------	Atr
+13	úlohu	NNFS4-----A----	Obj
+14	ve	RV--6----------	AuxP
+15	vztahu	NNIS6-----A----	AuxP
+16	ke	RV--3----------	AuxP
+17	spolupracovníkům	NNMP3-----A----	Adv
+18	,	Z:-------------	Coord
+19	což	PE--1----------	Sb
+20	se	P7-X4----------	AuxT
+21	projevilo	VpNS---XR-AA---	Atr
+22	neuspokojivou	AAFS7----1N----	Atr
+23	personální	AAFS7----1A----	Atr
+24	situací	NNFS7-----A----	Obj
+25	.	Z:-------------	AuxK
+
+mf920922-045-p2s4
+1	Tramvajáci	NNMP1-----A----	Sb
+2	hrozili	VpMP---XR-AA---	Pred
+3	koncem	NNIS7-----A----	AuxP
+4	června	NNIS2-----A----	Adv
+5	stávkou	NNFS7-----A----	Obj
+6	zejména	Db-------------	AuxZ
+7	pro	RR--4----------	AuxP
+8	neshody	NNFP4-----A----	Adv
+9	se	RV--7----------	AuxP
+10	svým	P8ZS7----------	Atr
+11	ředitelem	NNMS7-----A----	Atr
+12	.	Z:-------------	AuxK
+

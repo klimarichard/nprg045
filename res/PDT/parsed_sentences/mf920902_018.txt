@@ -1,0 +1,136 @@
+mf920902-018-p1s1
+1	z	RR--2----------	AuxP
+2	domova	NNIS2-----A----	ExD
+
+mf920902-018-p2s1A
+1	SMUTNÉ	AAIP1----1A----	Atr
+2	VÝSLEDKY	NNIP1-----A----	ExD
+3	KONTROL	NNFP2-----A----	Atr
+
+mf920902-018-p2s1B
+1	Pracovníci	NNMP1-----A----	Sb
+2	České	AAFS2----1A----	Atr
+3	obchodní	AAFS2----1A----	Atr
+4	inspekce	NNFS2-----A----	Atr
+5	(	Z:-------------	Apos
+6	ČOI	NNFXX-----A---8	Atr
+7	)	Z:-------------	AuxG
+8	uskutečnili	VpMP---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	prvním	CrNS6----------	Atr
+11	pololetí	NNNS6-----A----	Adv
+12	letošního	AAIS2----1A----	Atr
+13	roku	NNIS2-----A---1	Atr
+14	12833	C=-------------	Obj
+15	kontrolních	AAIP2----1A----	Atr
+16	nákupů	NNIP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	ze	RV--2----------	AuxP
+19	kterých	P4XP2----------	Atr
+20	bylo	VpNS---XR-AA---	AuxV
+21	předraženo	VsNS---XX-AP---	Atr
+22	40.3	C=-------------	Sb
+23	procenta	NNNS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf920902-018-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	ústřední	AAMS1----1A----	Atr
+5	ředitel	NNMS1-----A----	Atr
+6	ČOI	NNFXX-----A---8	Atr
+7	Petr	NNMS1-----A----	Atr
+8	Pokorný	AAMS1----1A----	Sb
+9	.	Z:-------------	AuxK
+
+mf920902-018-p2s3
+1	Kontrolní	AAIP1----1A----	Atr
+2	nákupy	NNIP1-----A----	Sb
+3	byly	VpTP---XR-AA---	AuxV
+4	předraženy	VsTP---XX-AP---	Pred
+5	v	RR--6----------	AuxP
+6	průměru	NNIS6-----A----	Adv
+7	o	RR--4----------	AuxP
+8	3.40	C=-------------	Obj
+9	koruny	NNFS2-----A----	Atr
+10	na	RR--4----------	AuxP
+11	100	C=-------------	Atr
+12	korun	NNFP2-----A----	Atr
+13	nákupu	NNIS2-----A----	Atr
+14	,	Z:-------------	Coord
+15	přičemž	J,-------------	Adv
+16	loni	Db------------1	Adv
+17	v	RR--6----------	AuxP
+18	prvním	CrNS6----------	Atr
+19	pololetí	NNNS6-----A----	Adv
+20	činilo	VpNS---XR-AA---	Pred
+21	předražení	NNNS1-----A----	Sb
+22	v	RR--6----------	AuxP
+23	průměru	NNIS6-----A----	Adv
+24	2.70	C=-------------	Obj
+25	koruny	NNFS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+mf920902-018-p2s4
+1	Nedostatky	NNIP1-----A----	Sb
+2	byly	VpTP---XR-AA---	AuxV
+3	zjištěny	VsTP---XX-AP---	Pred
+4	zejména	Db-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	prodejnách	NNFP6-----A----	Adv
+7	zeleniny	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	masa	NNNS2-----A----	Atr
+10	a	J^-------------	Coord
+11	masných	AAIP2----1A----	Atr
+12	výrobků	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	provozovnách	NNFP6-----A----	Adv
+15	veřejného	AANS2----1A----	Atr
+16	stravování	NNNS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	kde	Db-------------	Adv
+19	byl	VpYS---XR-AA---	AuxV
+20	předražen	VsYS---XX-AP---	Atr
+21	každý	AAIS1----1A----	Atr
+22	druhý	CrIS1----------	Atr
+23	nákup	NNIS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+mf920902-018-p2s5
+1	Celkově	Dg-------1A----	Adv
+2	ČOI	NNFXX-----A---8	Sb
+3	v	RR--6----------	AuxP
+4	prvním	CrNS6----------	Atr
+5	pololetí	NNNS6-----A----	Adv
+6	letošního	AAIS2----1A----	Atr
+7	roku	NNIS2-----A---1	Atr
+8	zakázala	VpQW---XR-AA---	Pred
+9	nebo	J^-------------	Coord
+10	pozastavila	VpQW---XR-AA---	Pred
+11	do	RR--2----------	AuxP
+12	doby	NNFS2-----A----	Adv
+13	nápravy	NNFS2-----A----	Atr
+14	prodej	NNIS4-----A----	Obj
+15	nejakostního	AANS2----1N----	Atr
+16	zboží	NNNS2-----A----	Atr
+17	v	RR--6----------	AuxP
+18	hodnotě	NNFS6-----A----	Atr
+19	89.2	C=-------------	Atr
+20	miliónu	NNIS2-----A----	Atr
+21	korun	NNFP2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+mf920902-018-p2s6
+1	Uložila	VpQW---XR-AA---	Pred
+2	8179	C=-------------	Obj
+3	pokut	NNFP2-----A----	Atr
+4	ve	RV--6----------	AuxP
+5	výši	NNFS6-----A----	Atr
+6	téměř	Db-------------	AuxZ
+7	tři	ClXP1----------	Atr
+8	milióny	NNIP1-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	.	Z:-------------	AuxK
+

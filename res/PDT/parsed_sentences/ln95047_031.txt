@@ -1,0 +1,494 @@
+ln95047-031-p1s1
+1	Americký	AAMS1----1A----	Atr
+2	skokan	NNMS1-----A----	Atr
+3	do	RR--2----------	AuxP
+4	vody	NNFS2-----A----	Atr
+5	Louganis	NNMS1-----A----	ExD
+6	nositelem	NNMS7-----A----	ExD
+7	viru	NNIS2-----A----	Atr
+8	HIV	NNIXX-----A---8	Atr
+
+ln95047-031-p2s1A
+1	Chicago	NNNS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-031-p2s1B
+1	Americký	AAMS1----1A----	Atr
+2	skokan	NNMS1-----A----	Sb
+3	do	RR--2----------	AuxP
+4	vody	NNFS2-----A----	Atr
+5	,	Z:-------------	Apos
+6	čtyřnásobný	AAMS1----1A----	Atr
+7	olympijský	AAMS1----1A----	Atr
+8	vítěz	NNMS1-----A----	Atr
+9	Greg	NNMS1-----A----	Atr
+10	Louganis	NNMS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	má	VB-S---3P-AA---	Pred
+13	AIDS	NNIXX-----A---8	Obj
+14	a	J^-------------	Coord
+15	je	VB-S---3P-AA---	Pred
+16	nositelem	NNMS7-----A----	Pnom
+17	viru	NNIS2-----A----	Atr
+18	HIV	NNIXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+
+ln95047-031-p2s2
+1	Pětatřicetiletý	AAMS1----1A----	Atr
+2	sportovec	NNMS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	který	P4YS1----------	Sb
+5	první	CrMS1----------	Atv
+6	na	RR--6----------	AuxP
+7	světě	NNIS6-----A----	Adv
+8	získal	VpYS---XR-AA---	Atr
+9	všechny	PLFP4----------	Atr
+10	zlaté	AAFP4----1A----	Atr
+11	medaile	NNFP4-----A----	Obj
+12	své	P8FS2---------1	Atr
+13	kategorie	NNFS2-----A----	Atr
+14	na	RR--6----------	AuxP
+15	dvou	ClXP6----------	Atr
+16	olympijských	AAFP6----1A----	Atr
+17	hrách	NNFP6-----A----	Adv
+18	po	RR--6----------	AuxP
+19	sobě	P6-X6----------	Atr
+20	a	J^-------------	Coord
+21	navíc	Db-------------	Adv
+22	se	P7-X4----------	AuxT
+23	stal	VpYS---XR-AA---	Atr
+24	třikrát	Cv-------------	Adv
+25	mistrem	NNMS7-----A----	Obj
+26	světa	NNIS2-----A----	Atr
+27	,	Z:-------------	AuxX
+28	je	VB-S---3P-AA---	AuxV
+29	považován	VsYS---XX-AP---	Pred
+30	za	RR--4----------	AuxP
+31	nejlepšího	AAMS4----3A----	Atr
+32	skokana	NNMS4-----A----	Obj
+33	do	RR--2----------	AuxP
+34	vody	NNFS2-----A----	Atr
+35	všech	PLXP2----------	Atr
+36	dob	NNFP2-----A----	Adv
+37	.	Z:-------------	AuxK
+
+ln95047-031-p2s3
+1	Ve	RV--6----------	AuxP
+2	28	C=-------------	Atr
+3	letech	NNNP6-----A----	Adv
+4	zanechal	VpYS---XR-AA---	Pred
+5	vrcholového	AAIS2----1A----	Atr
+6	sportu	NNIS2-----A----	Obj
+7	a	J^-------------	Coord
+8	věnoval	VpYS---XR-AA---	Pred
+9	se	P7-X4----------	AuxT
+10	herectví	NNNS3-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln95047-031-p3s1
+1	Se	RV--7----------	AuxP
+2	svým	P8ZS7----------	Atr
+3	onemocněním	NNNS7-----A----	Obj
+4	chce	VB-S---3P-AA---	Pred
+5	seznámit	Vf--------A----	Obj
+6	veřejnost	NNFS4-----A----	Obj
+7	v	RR--6----------	AuxP
+8	pátečním	AAIS6----1A----	Atr
+9	programu	NNIS6-----A----	Adv
+10	televize	NNFS2-----A----	Atr
+11	ABC	NNFXX-----A---8	Atr
+12	"	Z:-------------	AuxG
+13	20	C=-------------	Atr
+14	-	Z:-------------	Coord
+15	20	C=-------------	Atr
+16	"	Z:-------------	AuxG
+17	.	Z:-------------	AuxK
+
+ln95047-031-p3s2
+1	Výňatek	NNIS4-----A----	Obj
+2	z	RR--2----------	AuxP
+3	nahraného	AAIS2----1A----	Atr
+4	rozhovoru	NNIS2-----A----	Atr
+5	otiskl	VpYS---XR-AA--1	Pred
+6	ve	RV--4----------	AuxP
+7	středu	NNFS4-----A----	Adv
+8	list	NNIS1-----A----	Sb
+9	Chicago	NNNS1-----A----	Atr
+10	Sun	NNIS1-----A----	Atr
+11	-	Z:-------------	AuxG
+12	Times	NNIPX-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95047-031-p3s3
+1	Již	Db-------------	AuxZ
+2	loni	Db------------1	Adv
+3	v	RR--6----------	AuxP
+4	létě	NNNS6-----A----	Adv
+5	na	RR--6----------	AuxP
+6	Sportovních	AAFP6----1A----	Atr
+7	hrách	NNFP6-----A----	Adv
+8	homosexuálů	NNMP2-----A----	Atr
+9	v	RR--6----------	AuxP
+10	New	AAXXX----1A----	Atr
+11	Yorku	NNIS6-----A----	Atr
+12	Louganis	NNMS1-----A----	Sb
+13	oznámil	VpYS---XR-AA---	Pred
+14	,	Z:-------------	AuxX
+15	co	PQ--1----------	Sb
+16	se	P7-X4----------	AuxR
+17	již	Db-------------	AuxZ
+18	dávno	Dg-------1A----	Adv
+19	vědělo	VpNS---XR-AA---	Obj
+20	-	Z:-------------	Apos
+21	že	J,-------------	AuxC
+22	patří	VB-S---3P-AA---	Obj
+23	mezi	RR--4----------	AuxP
+24	tuto	PDFS4----------	Atr
+25	skupinu	NNFS4-----A----	Adv
+26	lidí	NNMP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95047-031-p4s1
+1	Homosexuální	AAFS1----1A----	Atr
+2	orientace	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	u	RR--2----------	AuxP
+5	Louganise	NNMS2-----A----	Adv
+6	začala	VpQW---XR-AA---	Pred
+7	projevovat	Vf--------A----	Obj
+8	již	Db-------------	AuxZ
+9	v	RR--6----------	AuxP
+10	chlapeckých	AANP6----1A----	Atr
+11	letech	NNNP6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln95047-031-p4s2
+1	Ve	RV--6----------	AuxP
+2	12	C=-------------	Atr
+3	letech	NNNP6-----A----	Adv
+4	tím	PDZS7----------	Adv
+5	byl	VpYS---XR-AA---	AuxV
+6	tak	Db-------------	Adv
+7	deprimován	VsYS---XX-AP---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	pokusil	VpYS---XR-AA---	Adv
+12	o	RR--4----------	AuxP
+13	sebevraždu	NNFS4-----A----	Obj
+14	,	Z:-------------	Coord
+15	což	PE--1----------	Sb
+16	se	P7-X4----------	AuxT
+17	později	Dg-------2A----	Adv
+18	ještě	Db-------------	AuxZ
+19	dvakrát	Cv-------------	Adv
+20	opakovalo	VpNS---XR-AA---	Adv
+21	.	Z:-------------	AuxK
+
+ln95047-031-p4s3
+1	V	RR--6----------	AuxP
+2	televizním	AAIS6----1A----	Atr
+3	rozhovoru	NNIS6-----A----	Adv
+4	Louganis	NNMS1-----A----	Sb
+5	přiznal	VpYS---XR-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	o	RR--6----------	AuxP
+9	svém	P8ZS6----------	Atr
+10	zdravotním	AAIS6----1A----	Atr
+11	stavu	NNIS6-----A----	Obj
+12	se	P7-X4----------	AuxT
+13	dozvěděl	VpYS---XR-AA---	Obj
+14	šest	Cn-S4----------	Adv
+15	měsíců	NNIP2-----A----	Atr
+16	před	RR--7----------	AuxP
+17	OH	NNFPX-----A---8	Atr
+18	1988	C=-------------	Atr
+19	v	RR--6----------	AuxP
+20	Soulu	NNIS6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95047-031-p4s4
+1	V	RR--6----------	AuxP
+2	olympijské	AAFS6----1A----	Atr
+3	soutěži	NNFS6-----A----	Adv
+4	potom	Db-------------	Adv
+5	zavadil	VpYS---XR-AA---	Pred
+6	zadní	AAFS7----1A----	Atr
+7	částí	NNFS7-----A----	Adv
+8	hlavy	NNFS2-----A----	Atr
+9	o	RR--4----------	AuxP
+10	můstek	NNIS4-----A----	Obj
+11	a	J^-------------	Coord
+12	poranil	VpYS---XR-AA---	Pred
+13	se	P7-X4----------	AuxT
+14	.	Z:-------------	AuxK
+
+ln95047-031-p4s5
+1	V	RR--6----------	AuxP
+2	bazénu	NNIS6-----A---1	Adv
+3	mu	PHZS3--3-------	Adv
+4	z	RR--2----------	AuxP
+5	rány	NNFS2-----A----	Adv
+6	prýštila	VpQW---XR-AA---	Pred
+7	krev	NNFS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+ln95047-031-p4s6
+1	O	RR--6----------	AuxP
+2	své	P8FS6---------1	Atr
+3	nemoci	NNFS6-----A----	Obj
+4	nicméně	J^-------------	AuxY
+5	neinformoval	VpYS---XR-NA---	Pred
+6	lékaře	NNMS4-----A----	Obj
+7	Amerického	AAIS2----1A----	Atr
+8	olympijského	AAIS2----1A----	Atr
+9	výboru	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	který	P4YS1----------	Sb
+12	ho	PHZS4--3-------	Obj
+13	ošetřoval	VpYS---XR-AA---	Atr
+14	.	Z:-------------	AuxK
+
+ln95047-031-p4s7
+1	Domníval	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	prý	TT-------------	AuxY
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	chlor	NNIS1-----A----	Sb
+7	obsažený	AAIS1----1A----	Atr
+8	ve	RV--6----------	AuxP
+9	vodě	NNFS6-----A----	Adv
+10	virus	NNIS4-----A----	Obj
+11	zničí	VB-S---3P-AA---	Obj
+12	.	Z:-------------	AuxK
+
+ln95047-031-p4s8
+1	"	Z:-------------	AuxG
+2	Prožil	VpYS---XR-AA---	Obj
+3	jsem	VB-S---1P-AA---	AuxV
+4	však	J^-------------	Coord
+5	obrovské	AANS4----1A----	Atr
+6	trauma	NNNS4-----A----	Obj
+7	,	Z:-------------	Coord
+8	ve	RV--6----------	AuxP
+9	skrytu	NNIS6-----A----	Adv
+10	duše	NNFS2-----A----	Atr
+11	jsem	VB-S---1P-AA---	AuxV
+12	se	P7-X4----------	AuxT
+13	přece	Db-------------	AuxY
+14	jen	TT-------------	AuxY
+15	obával	VpYS---XR-AA---	Obj
+16	,	Z:-------------	AuxX
+17	aby	J,-------------	AuxC
+18	se	P7-X4----------	AuxT
+19	někdo	PZM-1----------	Sb
+20	ode	RV--2----------	AuxP
+21	mě	PH-S2--1-------	Obj
+22	nenakazil	VpYS---XR-NA---	Obj
+23	,	Z:-------------	AuxX
+24	"	Z:-------------	AuxG
+25	řekl	VpYS---XR-AA---	Pred
+26	Louganis	NNMS1-----A----	Sb
+27	.	Z:-------------	AuxK
+
+ln95047-031-p4s9
+1	Přední	AAMS1----1A----	Atr
+2	americký	AAMS1----1A----	Atr
+3	vědec	NNMS1-----A----	Sb
+4	,	Z:-------------	Apos
+5	internista	NNMS1-----A----	Atr
+6	Gary	NNMS1-----A----	Atr
+7	Cohan	NNMS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	však	J^-------------	Coord
+10	pohotově	Dg-------1A----	Adv
+11	veřejnost	NNFS4-----A----	Obj
+12	ujistil	VpYS---XR-AA---	Pred
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	virus	NNIS1-----A----	Sb
+16	HIV	NNIXX-----A---8	Atr
+17	se	P7-X4----------	AuxR
+18	naštěstí	Db-------------	Adv
+19	tímto	PDZS7----------	Atr
+20	způsobem	NNIS7-----A----	Adv
+21	nepřenáší	VB-S---3P-NA---	Obj
+22	,	Z:-------------	AuxX
+23	takže	J,-------------	AuxC
+24	v	RR--6----------	AuxP
+25	olympijském	AAIS6----1A----	Atr
+26	bazénu	NNIS6-----A---1	Adv
+27	se	P7-X4----------	AuxT
+28	nikdo	PWM-1----------	Sb
+29	nakazit	Vf--------A----	Obj
+30	nemohl	VpYS---XR-NA---	Adv
+31	.	Z:-------------	AuxK
+
+ln95047-031-p5s1
+1	Greg	NNMS1-----A----	Atr
+2	Louganis	NNMS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	narodil	VpYS---XR-AA---	Pred
+5	29	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	ledna	NNIS2-----A----	Adv
+8	1960	C=-------------	Atr
+9	rodičům	NNMP3-----A----	Obj
+10	,	Z:-------------	AuxX
+11	z	RR--2----------	AuxP
+12	nichž	P9XP2----------	Atr
+13	každému	AAMS3----1A----	Obj
+14	bylo	VpNS---XR-AA---	Atr
+15	tehdy	Db-------------	Adv
+16	teprve	Db-------------	AuxZ
+17	15	C=-------------	Sb
+18	let	NNNP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95047-031-p5s2
+1	Otec	NNMS1-----A----	Sb
+2	pocházel	VpYS---XR-AA---	Pred
+3	ze	RV--2----------	AuxP
+4	Souostroví	NNNS2-----A----	Adv
+5	Samoa	NNNS1-----A----	Atr
+6	v	RR--6----------	AuxP
+7	Tichém	AAIS6----1A----	Atr
+8	oceánu	NNIS6-----A---1	Atr
+9	,	Z:-------------	Coord
+10	matka	NNFS1-----A----	Sb
+11	byla	VpQW---XR-AA---	Pred
+12	Američanka	NNFS1-----A----	Pnom
+13	.	Z:-------------	AuxK
+
+ln95047-031-p5s3
+1	Chlapec	NNMS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	v	RR--6----------	AuxP
+4	devíti	Cn-P6----------	Atr
+5	měsících	NNIP6-----A----	Adv
+6	adoptován	VsYS---XX-AP---	Pred
+7	a	J^-------------	Coord
+8	vyrůstal	VpYS---XR-AA---	Pred
+9	v	RR--6----------	AuxP
+10	městečku	NNNS6-----A----	Adv
+11	El	AAXXX----1A----	Atr
+12	Cajon	NNIS1-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Kalifornii	NNFS6-----A----	AtrAdv
+15	.	Z:-------------	AuxK
+
+ln95047-031-p5s4
+1	Pro	RR--4----------	AuxP
+2	temnější	AAFS4----2A----	Atr
+3	barvu	NNFS4-----A----	Adv
+4	pleti	NNFS2-----A---1	Atr
+5	zažil	VpYS---XR-AA---	Pred
+6	mnoho	Ca--4----------	Obj
+7	ústrků	NNIP2-----A----	Atr
+8	od	RR--2----------	AuxP
+9	svých	P8XP2----------	Atr
+10	spolužáků	NNMP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	navíc	Db-------------	Adv
+13	trpěl	VpYS---XR-AA---	Pred
+14	chorobou	NNFS7-----A----	Obj
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	mu	PHZS3--3-------	Obj
+18	působila	VpQW---XR-AA---	Atr
+19	potíže	NNFP4-----A----	Obj
+20	při	RR--6----------	AuxP
+21	čtení	NNNS6-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95047-031-p5s5
+1	Záhy	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	věnoval	VpYS---XR-AA---	Pred
+4	tanci	NNIS3-----A----	Obj
+5	,	Z:-------------	AuxX
+6	gymnastice	NNFS3-----A----	Obj
+7	a	J^-------------	Coord
+8	akrobacii	NNFS3-----A----	Obj
+9	,	Z:-------------	AuxX
+10	zdravotní	AAFP1----1A----	Atr
+11	potíže	NNFP1-----A----	Sb
+12	s	RR--7----------	AuxP
+13	kolenem	NNNS7-----A----	Atr
+14	mu	PHZS3--3-------	Obj
+15	však	J^-------------	Coord
+16	neumožnily	VpTP---XR-NA---	Pred
+17	v	RR--6----------	AuxP
+18	těchto	PDXP6----------	Atr
+19	oborech	NNIP6-----A----	Adv
+20	vyniknout	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+ln95047-031-p6s1
+1	Teprve	Db-------------	AuxZ
+2	pod	RR--7----------	AuxP
+3	vedením	NNNS7-----A----	Adv
+4	trenéra	NNMS2-----A----	Atr
+5	Sammyho	NNMS2-----A----	Atr
+6	Leeho	NNMS2-----A----	Atr
+7	,	Z:-------------	Apos
+8	bývalého	AAMS2----1A----	Atr
+9	olympijského	AAMS2----1A----	Atr
+10	vítěze	NNMS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	se	P7-X4----------	AuxT
+13	dostal	VpYS---XR-AA---	Pred
+14	Louganis	NNMS1-----A----	Sb
+15	na	RR--4----------	AuxP
+16	výsluní	NNNS4-----A----	Adv
+17	sportovní	AAFS2----1A----	Atr
+18	slávy	NNFS2-----A----	Atr
+19	:	Z:-------------	Coord
+20	v	RR--6----------	AuxP
+21	Montrealu	NNIS6-----A----	Adv
+22	získal	VpYS---XR-AA---	Pred
+23	r	NNIXX-----A---8	Adv
+24	.	Z:-------------	AuxG
+25	1976	C=-------------	Atr
+26	svou	P8FS4---------1	Atr
+27	první	CrFS4----------	Atr
+28	olympijskou	AAFS4----1A----	Atr
+29	medaili	NNFS4-----A----	Obj
+30	-	Z:-------------	AuxG
+31	stříbrnou	AAFS4----1A----	Atr
+32	.	Z:-------------	AuxK
+
+ln95047-031-p6s2
+1	Tehdy	Db-------------	Adv
+2	mu	PHZS3--3-------	Obj
+3	bylo	VpNS---XR-AA---	Pred
+4	16	C=-------------	Sb
+5	let	NNNP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln95047-031-p6s3
+1	V	RR--6----------	AuxP
+2	Los	AAXXX----1A----	Atr
+3	Angeles	NNNXX-----A----	Adv
+4	překonal	VpYS---XR-AA---	Pred
+5	první	CrMS1----------	Adv
+6	na	RR--6----------	AuxP
+7	světě	NNIS6-----A----	Adv
+8	hranici	NNFS4-----A----	Obj
+9	700	C=-------------	Atr
+10	bodů	NNIP2-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	skocích	NNIP6-----A----	Adv
+13	z	RR--2----------	AuxP
+14	10	C=-------------	Adv
+15	m	AAXXX----1A---8	Atr
+16	věže	NNFS2-----A----	Atr
+17	-	Z:-------------	Coord
+18	nasbíral	VpYS---XR-AA---	Pred
+19	tehdy	Db-------------	Adv
+20	710.91	C=-------------	Obj
+21	b	NNIXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+

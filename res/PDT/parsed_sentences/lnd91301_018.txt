@@ -1,0 +1,162 @@
+lnd91301-018-p1s1
+1	Celostátní	AANS1----1A----	Atr
+2	pátrání	NNNS1-----A----	ExD
+
+lnd91301-018-p2s1
+1	HOLEŠOV	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	mlp	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd91301-018-p3s1
+1	"	Z:-------------	AuxG
+2	Pachatelé	NNMP1-----A----	Sb
+3	museli	VpMP---XR-AA---	Obj
+4	být	Vf--------A----	Obj
+5	nejméně	Dg-------3A----	Adv
+6	dva	ClYP1----------	Pnom
+7	a	J^-------------	Coord
+8	alespoň	Db-------------	Adv
+9	jeden	ClYS1----------	Sb
+10	z	RR--2----------	AuxP
+11	nich	P5XP2--3-------	Atr
+12	měl	VpYS---XR-AA---	Obj
+13	dobrý	AAIS4----1A----	Atr
+14	přehled	NNIS4-----A----	Obj
+15	o	RR--6----------	AuxP
+16	vnitřní	AAFS6----1A----	Atr
+17	organizaci	NNFS6-----A----	Atr
+18	školy	NNFS2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	"	Z:-------------	AuxG
+21	konstatoval	VpYS---XR-AA---	Pred
+22	na	RR--6----------	AuxP
+23	včerejší	AAFS6----1A----	Atr
+24	tiskové	AAFS6----1A----	Atr
+25	konferenci	NNFS6-----A----	Adv
+26	npor	NNMXX-----A---8	Atr
+27	.	Z:-------------	AuxG
+28	Zdeněk	NNMS1-----A----	Atr
+29	Krejčí	NNMS1-----A----	Sb
+30	z	RR--2----------	AuxP
+31	Krajského	AAIS2----1A----	Atr
+32	odboru	NNIS2-----A----	Atr
+33	vyšetřování	NNNS2-----A----	Atr
+34	v	RR--6----------	AuxP
+35	souvislosti	NNFS6-----A----	AuxP
+36	s	RR--7----------	AuxP
+37	krádeží	NNFS7-----A----	Adv
+38	zbraní	NNFP2-----A----	Atr
+39	v	RR--6----------	AuxP
+40	Holešově	NNIS6-----A----	Atr
+41	.	Z:-------------	AuxK
+
+lnd91301-018-p3s3
+1	Po	RR--6----------	AuxP
+2	pachatelích	NNMP6-----A----	Atr
+3	bylo	VpNS---XR-AA---	AuxV
+4	vyhlášeno	VsNS---XX-AP---	Pred
+5	celostátní	AANS1----1A----	Atr
+6	pátrání	NNNS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+lnd91301-018-p3s4
+1	Kriminalisté	NNMP1-----A----	Sb
+2	dosud	Db-------------	Adv
+3	rozpracovali	VpMP---XR-AA---	Pred
+4	pět	Cn-S4----------	Obj
+5	různých	AAFP2----1A----	Atr
+6	verzí	NNFP2-----A----	Atr
+7	případu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	to	PDNS1----------	Sb
+10	však	J^-------------	Coord
+11	neznamená	VB-S---3P-NA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	některá	PZFS1----------	Sb
+15	z	RR--2----------	AuxP
+16	nich	P5XP2--3-------	Atr
+17	povede	VB-S---3P-AA---	Obj
+18	k	RR--3----------	AuxP
+19	cíli	NNIS3-----A----	Adv
+20	.	Z:-------------	AuxK
+
+lnd91301-018-p3s5
+1	Objekt	NNIS4-----A----	Obj
+2	školy	NNFS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	době	NNFS6-----A----	Adv
+5	krádeže	NNFS2-----A----	Atr
+6	zabezpečovaly	VpTP---XR-AA---	Pred
+7	dvě	ClHP1----------	Atr
+8	dvoučlenné	AAFP1----1A----	Atr
+9	hlídky	NNFP1-----A----	Sb
+10	,	Z:-------------	Coord
+11	není	VB-S---3P-NA---	Pred
+12	rovněž	Db-------------	Adv
+13	jasné	AANS1----1A----	Pnom
+14	,	Z:-------------	AuxX
+15	nakolik	Db-------------	Adv
+16	bylo	VpNS---XR-AA---	Sb
+17	funkční	AANS1----1A----	Pnom
+18	signalizační	AANS1----1A----	Atr
+19	zařízení	NNNS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+lnd91301-018-p3s6
+1	Policisté	NNMP1-----A----	Sb
+2	prověřují	VB-P---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	absolventy	NNMP4-----A----	Obj
+5	a	J^-------------	Coord
+6	zaměstnance	NNMP4-----A----	Obj
+7	školy	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+lnd91301-018-p3s7
+1	Cena	NNFS1-----A----	Sb
+2	všech	PLXP2----------	Atr
+3	odcizených	AAFP2----1A----	Atr
+4	zbraní	NNFP2-----A----	Atr
+5	přesahuje	VB-S---3P-AA---	Pred
+6	sto	ClXP2----------	Obj
+7	tisíc	ClXS2----------	Atr
+8	korun	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	na	RR--6----------	AuxP
+11	černém	AAIS6----1A----	Atr
+12	trhu	NNIS6-----A----	Adv
+13	však	J^-------------	Coord
+14	za	RR--4----------	AuxP
+15	ně	P5XP4--3-------	Obj
+16	mohou	VB-P---3P-AA--1	Pred
+17	pachatelé	NNMP1-----A----	Sb
+18	utržit	Vf--------A----	Obj
+19	až	TT-------------	AuxZ
+20	desetkrát	Cv-------------	Adv
+21	více	Dg-------2A----	Obj
+22	.	Z:-------------	AuxK
+
+lnd91301-018-p3s8
+1	Lze	VB-S---3P-AA---	Pred
+2	předpokládat	Vf--------A----	Sb
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	o	RR--4----------	AuxP
+6	zbraně	NNFP4-----A----	Atr
+7	by	Vc-------------	AuxV
+8	mohl	VpYS---XR-AA---	Obj
+9	být	Vf--------A----	Obj
+10	značný	AAIS1----1A----	Atr
+11	zájem	NNIS1-----A----	Sb
+12	také	Db-------------	AuxZ
+13	v	RR--6----------	AuxP
+14	zahraničí	NNNS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	například	Db-------------	Apos
+17	v	RR--6----------	AuxP
+18	Jugoslávii	NNFS6-----A----	Adv
+19	.	Z:-------------	AuxK
+

@@ -1,0 +1,185 @@
+mf920923-038-p1s1
+1	Poslanci	NNMP1-----A----	Sb
+2	Sládka	NNMS4-----A----	Obj
+3	soudu	NNIS3-----A----	Obj
+4	nevydali	VpMP---XR-NA---	Pred
+
+mf920923-038-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ben	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920923-038-p2s2
+1	Sněmovna	NNFS1-----A----	Sb
+2	lidu	NNIS2-----A----	Atr
+3	FS	NNNXX-----A---8	Atr
+4	včera	Db-------------	Adv
+5	v	RR--6----------	AuxP
+6	noci	NNFS6-----A----	Adv
+7	zamítla	VpQW---XR-AA--1	Pred
+8	zbavit	Vf--------A----	Obj
+9	imunity	NNFS2-----A----	Obj
+10	poslance	NNMS4-----A----	Atr
+11	Miroslava	NNMS4-----A----	Atr
+12	Sládka	NNMS4-----A----	Obj
+13	(	Z:-------------	ExD
+14	SPR	NNNXX-----A---8	ExD
+15	-	Z:-------------	Coord
+16	RSČ	NNFXX-----A---8	ExD
+17	)	Z:-------------	ExD
+18	.	Z:-------------	AuxK
+
+mf920923-038-p2s3
+1	Pro	RR--4----------	AuxP
+2	zbavení	NNNS4-----A----	Adv
+3	hlasovalo	VpNS---XR-AA---	Pred
+4	48	C=-------------	Sb
+5	poslanců	NNMP2-----A----	Atr
+6	-	Z:-------------	AuxG
+7	většinou	Db-------------	AuxZ
+8	z	RR--2----------	AuxP
+9	ODS	NNFXX-----A---8	Atr
+10	,	Z:-------------	AuxX
+11	KDS	NNFXX-----A---8	Atr
+12	,	Z:-------------	Coord
+13	KDU	NNFXX-----A---8	Atr
+14	-	Z:-------------	Coord
+15	ČSL	NNFXX-----A---8	Atr
+16	-	Z:-------------	AuxG
+17	proti	RR--3----------	ExD
+18	hlasovalo	VpNS---XR-AA---	Pred
+19	48	C=-------------	ExD
+20	,	Z:-------------	Coord
+21	zdrželo	VpNS---XR-AA---	Pred
+22	se	P7-X4----------	AuxT
+23	23	C=-------------	ExD
+24	.	Z:-------------	AuxK
+
+mf920923-038-p2s4
+1	Proti	RR--3----------	Adv
+2	byla	VpQW---XR-AA---	Pred
+3	i	J^-------------	AuxZ
+4	většina	NNFS1-----A----	Sb
+5	hlasů	NNIP2-----A----	Atr
+6	HZDS	NNNXX-----A---8	Atr
+7	,	Z:-------------	AuxX
+8	a	J^-------------	AuxY
+9	to	PDNS4----------	AuxY
+10	i	J^-------------	AuxZ
+11	přesto	Dg-------1A----	Adv
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	mandátový	AAIS1----1A----	Atr
+15	a	J^-------------	Coord
+16	imunitní	AAIS1----1A----	Atr
+17	výbor	NNIS1-----A----	Sb
+18	doporučil	VpYS---XR-AA---	Adv
+19	hlasovat	Vf--------A----	Obj
+20	pro	RR--4----------	Adv
+21	.	Z:-------------	AuxK
+
+mf920923-038-p3s1
+1	Obvodní	AAIS1----1A----	Atr
+2	soud	NNIS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	Prahu	NNFS4-----A----	Atr
+5	4	C=-------------	Atr
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	vede	VB-S---3P-AA---	Atr
+9	proti	RR--3----------	AuxP
+10	Miroslavu	NNMS3-----A---1	Atr
+11	Sládkovi	NNMS3-----A----	AtrAdv
+12	trestní	AANS4----1A----	Atr
+13	řízení	NNNS4-----A----	Obj
+14	ve	RV--6----------	AuxP
+15	věci	NNFS6-----A----	Atr
+16	hanobení	NNNS2-----A----	Atr
+17	republiky	NNFS2-----A----	Atr
+18	a	J^-------------	Coord
+19	jejího	PSZS2FS3-------	Atr
+20	představitele	NNMS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	o	RR--4----------	AuxP
+23	to	PDNS4----------	Obj
+24	požádal	VpYS---XR-AA---	Pred
+25	FS	NNNXX-----A---8	Obj
+26	.	Z:-------------	AuxK
+
+mf920923-038-p3s2
+1	Předseda	NNMS1-----A----	Sb
+2	republikánů	NNMP2-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	zmíněného	AAIS2----1A----	Atr
+5	činu	NNIS2-----A----	Obj
+6	měl	VpYS---XR-AA---	Pred
+7	dopustit	Vf--------A----	Obj
+8	loni	Db------------1	Adv
+9	v	RR--6----------	AuxP
+10	srpnu	NNIS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	kdy	Db-------------	Adv
+13	na	RR--6----------	AuxP
+14	mítinku	NNIS6-----A----	Adv
+15	před	RR--7----------	AuxP
+16	budovou	NNFS7-----A----	Adv
+17	televize	NNFS2-----A----	Atr
+18	označil	VpYS---XR-AA---	Adv
+19	tehdejšího	AAMS4----1A----	Atr
+20	prezidenta	NNMS4-----A----	Atr
+21	Václava	NNMS4-----A----	Atr
+22	Havla	NNMS4-----A----	Obj
+23	za	RR--4----------	AuxP
+24	opilce	NNMS4-----A----	Obj
+25	,	Z:-------------	AuxX
+26	narkomana	NNMS4-----A----	Obj
+27	a	J^-------------	Coord
+28	podvodníka	NNMS4-----A----	Obj
+29	.	Z:-------------	AuxK
+
+mf920923-038-p3s3
+1	Během	RR--2----------	AuxP
+2	včerejšího	AANS2----1A----	Atr
+3	jednání	NNNS2-----A----	Adv
+4	Federálního	AANS2----1A----	Atr
+5	shromáždění	NNNS2-----A----	Atr
+6	vystoupil	VpYS---XR-AA---	Pred
+7	Sládek	NNMS1-----A----	Sb
+8	s	RR--7----------	AuxP
+9	proslovem	NNIS7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+mf920923-038-p3s4
+1	Po	RR--6----------	AuxP
+2	hodině	NNFS6-----A----	Adv
+3	mu	PHZS3--3-------	Obj
+4	předsedající	AGMS1-----A----	Atr
+5	Václav	NNMS1-----A----	Atr
+6	Benda	NNMS1-----A----	Sb
+7	vzal	VpYS---XR-AA---	Pred
+8	slovo	NNNS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+mf920923-038-p4s1
+1	Dnešní	AANS1----1A----	Atr
+2	rozhodnutí	NNNS1-----A----	Sb
+3	sněmovny	NNFS2-----A----	Atr
+4	současně	Dg-------1A----	Adv
+5	znamená	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	Miroslav	NNMS1-----A----	Atr
+9	Sládek	NNMS1-----A----	Sb
+10	nemůže	VB-S---3P-NA---	Obj
+11	být	Vf--------A----	AuxV
+12	již	Db-------------	AuxZ
+13	nikdy	Db-------------	Adv
+14	pro	RR--4----------	AuxP
+15	uvedený	AAIS4----1A----	Atr
+16	trestný	AAIS4----1A----	Atr
+17	čin	NNIS4-----A----	Adv
+18	stíhán	VsYS---XX-AP---	Obj
+19	.	Z:-------------	AuxK
+

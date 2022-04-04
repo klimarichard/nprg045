@@ -1,0 +1,513 @@
+ln95049-067-p1s1
+1	Co	PQ--4----------	Obj
+2	jste	VB-P---2P-AA---	AuxV
+3	možná	Db-------------	AuxY
+4	nečetli	VpMP---XR-NA---	Pred
+
+ln95049-067-p2s1
+1	Jedno	ClNS4----------	Obj
+2	víme	VB-P---1P-AA---	Pred
+3	jistě	Dg-------1A----	Adv
+4	.	Z:-------------	AuxK
+
+ln95049-067-p2s2
+1	Každá	AAFS1----1A----	Atr
+2	vláda	NNFS1-----A----	Sb
+3	bude	VB-S---3F-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	stálém	AAIS6----1A----	Atr
+6	válečném	AAIS6----1A----	Atr
+7	stavu	NNIS6-----A----	Adv
+8	s	RR--7----------	AuxP
+9	Walensou	NNMS7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln95049-067-p3s1A
+1	Aleksandr	NNMS1-----A----	Atr
+2	Kwasniewski	NNMS1-----A---1	ExD
+3	,	Z:-------------	Apos
+4	šéf	NNMS1-----A----	ExD
+5	polského	AAIS2----1A----	Atr
+6	Svazu	NNIS2-----A----	Atr
+7	demokratické	AAFS2----1A----	Atr
+8	levice	NNFS2-----A----	Atr
+
+ln95049-067-p3s1B
+1	Potíže	NNFP1-----A----	Sb
+2	Alžírska	NNNS2-----A----	Atr
+3	vyvolaly	VpTP---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	roce	NNIS6-----A---1	Adv
+6	1992	C=-------------	Atr
+7	u	RR--2----------	AuxP
+8	jeho	PSXXXZS3-------	Atr
+9	maghribských	NNMP2-----A----	Atr
+10	sousedů	NNMP2-----A----	Adv
+11	zprvu	Db-------------	Adv
+12	téměř	Db-------------	AuxZ
+13	pobavenou	AAFS4----1A----	Atr
+14	zvědavost	NNFS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln95049-067-p3s2
+1	Maroku	NNNS3-----A----	Obj
+2	a	J^-------------	Coord
+3	Tunisku	NNNS3-----A----	Obj
+4	nijak	Db-------------	Adv
+5	nevadilo	VpNS---XR-NA---	Pred
+6	,	Z:-------------	AuxX
+7	když	J,-------------	AuxC
+8	Alžírsko	NNNS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	které	P4NS4----------	Obj
+11	dlouho	Dg-------1A----	Adv
+12	nesnášely	VpTP---XR-NA---	Atr
+13	pro	RR--4----------	AuxP
+14	jeho	PSXXXZS3-------	Atr
+15	"	Z:-------------	AuxG
+16	prušáckou	AAFS4----1A----	Atr
+17	"	Z:-------------	AuxG
+18	aroganci	NNFS4-----A----	Adv
+19	,	Z:-------------	AuxX
+20	zápasilo	VpNS---XR-AA---	Sb
+21	s	RR--7----------	AuxP
+22	islámskými	AAMP7----1A----	Atr
+23	fundamentalisty	NNMP7-----A----	Obj
+24	-	Z:-------------	AuxG
+25	jejichž	P1XXXXP3-------	Atr
+26	zhoubnou	AAFS4----1A----	Atr
+27	sílu	NNFS4-----A----	Obj
+28	tehdy	Db-------------	Adv
+29	svět	NNIS1-----A----	Sb
+30	podceňoval	VpYS---XR-AA---	Atr
+31	-	Z:-------------	AuxG
+32	a	J^-------------	Coord
+33	s	RR--7----------	AuxP
+34	ekonomickou	AAFS7----1A----	Atr
+35	krizí	NNFS7-----A----	Obj
+36	,	Z:-------------	AuxX
+37	která	P4FS1----------	Sb
+38	ještě	Db-------------	Adv
+39	neměla	VpQW---XR-NA---	Atr
+40	ráz	NNIS4-----A----	Obj
+41	neodvratné	AAFS2----1A----	Atr
+42	katastrofy	NNFS2-----A----	Atr
+43	.	Z:-------------	AuxK
+
+ln95049-067-p3s3
+1	Z	RR--2----------	AuxP
+2	neškodné	AAFS2----1A----	Atr
+3	"	Z:-------------	AuxG
+4	laboratoře	NNFS2-----A----	Obj
+5	"	Z:-------------	AuxG
+6	a	J^-------------	Coord
+7	z	RR--2----------	AuxP
+8	neklidného	AAMS2----1N----	Atr
+9	souseda	NNMS2-----A----	Obj
+10	se	P7-X4----------	AuxT
+11	však	J^-------------	Coord
+12	za	RR--4----------	AuxP
+13	tři	ClXP4----------	Atr
+14	roky	NNIP4-----A----	Adv
+15	stala	VpQW---XR-AA---	Pred
+16	příšera	NNFS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+ln95049-067-p4s1A
+1	Francouzský	AAIS1----1A----	Atr
+2	deník	NNIS1-----A----	ExD
+3	Le	AAISX----1A----	Atr
+4	Monde	NNISX-----A----	Atr
+
+ln95049-067-p4s1B
+1	Zdá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxR
+6	postoj	NNIS1-----A----	Sb
+7	americké	AAFS2----1A----	Atr
+8	diplomacie	NNFS2-----A----	Atr
+9	zjednodušil	VpYS---XR-AA---	Sb
+10	na	RR--4----------	AuxP
+11	jedinou	AAFS4----1A----	Atr
+12	otázku	NNFS4-----A----	Adv
+13	:	Z:-------------	AuxG
+14	"	Z:-------------	AuxG
+15	Kam	Db-------------	Adv
+16	až	TT-------------	AuxZ
+17	hodláš	VB-S---2P-AA---	Atr
+18	zajít	Vf--------A----	Obj
+19	,	Z:-------------	ExD
+20	Slobodane	NNMS5-----A----	ExD
+21	?	Z:-------------	AuxK
+22	"	Z:-------------	AuxG
+
+ln95049-067-p4s2
+1	Odpověď	NNFS1-----A----	Sb
+2	srbského	AAMS2----1A----	Atr
+3	prezidenta	NNMS2-----A----	Atr
+4	Slobodana	NNMS2-----A----	Atr
+5	Miloševiče	NNMS2-----A----	Atr
+6	je	VB-S---3P-AA---	Pred
+7	neměnná	AAFS1----1A----	Pnom
+8	:	Z:-------------	Apos
+9	"	Z:-------------	AuxG
+10	Ještě	Db-------------	AuxZ
+11	dál	Dg-------2A----	Pnom
+12	.	Z:-------------	AuxK
+13	"	Z:-------------	AuxG
+
+ln95049-067-p4s3A
+1	Americký	AAIS1----1A----	Atr
+2	list	NNIS1-----A----	ExD
+3	The	AAXXX----1A----	Atr
+4	Washington	NNIS1-----A----	Atr
+5	Post	NNIS1-----A----	Atr
+
+ln95049-067-p4s3B
+1	Rozbití	NNNS1-----A----	Sb
+2	Varšavské	AAFS2----1A----	Atr
+3	smlouvy	NNFS2-----A----	Atr
+4	bylo	VpNS---XR-AA---	Pred
+5	jako	J,-------------	AuxY
+6	odseknutí	NNNS1-----A----	Pnom
+7	údů	NNIP2-----A----	Atr
+8	od	RR--2----------	AuxP
+9	těla	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95049-067-p4s4
+1	Od	RR--2----------	AuxP
+2	té	PDFS2----------	Atr
+3	doby	NNFS2-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	toho	PDZS2----------	Atr
+6	mnoho	Ca--1----------	Sb
+7	neudělalo	VpNS---XR-NA---	Pred
+8	.	Z:-------------	AuxK
+
+ln95049-067-p4s5
+1	Teď	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	tyto	PDFP1----------	Atr
+5	(	Z:-------------	AuxG
+6	středoevropské	AAFP1----1A----	Atr
+7	)	Z:-------------	AuxG
+8	armády	NNFP1-----A----	Sb
+9	nedokázaly	VpTP---XR-NA---	Pred
+10	probojovat	Vf--------A----	Obj
+11	ani	J^-------------	AuxZ
+12	z	RR--2----------	AuxP
+13	mokrého	AAIS2----1A----	Atr
+14	papírového	AAIS2----1A----	Atr
+15	pytlíku	NNIS2-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95049-067-p5s1A
+1	Nejmenovaný	AAMS1----1N----	Atr
+2	západní	AAMS1----1A----	Atr
+3	vojenský	AAMS1----1A----	Atr
+4	odborník	NNMS1-----A----	ExD
+
+ln95049-067-p5s1B
+1	Co	PQ--1----------	Sb
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	stalo	VpNS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	kdyby	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	prosinci	NNIS6-----A----	Adv
+9	nebylo	VpNS---XR-NA---	AuxV
+10	přepadeno	VsNS---XX-AP---	Adv
+11	Čečensko	NNNS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	ale	J^-------------	Coord
+14	pobaltské	AAIP1----1A----	Atr
+15	státy	NNIP1-----A----	Sb
+16	?	Z:-------------	AuxK
+
+ln95049-067-p5s2
+1	Západ	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	jistě	Dg-------1A----	Adv
+4	vznesl	VpYS---XR-AA---	Pred
+5	kritiku	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	současně	Dg-------1A----	Adv
+8	by	Vc-------------	AuxV
+9	však	J^-------------	Coord
+10	ruského	AAMS4----1A----	Atr
+11	prezidenta	NNMS4-----A----	Atr
+12	Jelcina	NNMS4-----A----	Obj
+13	ujistil	VpYS---XR-AA---	Pred
+14	dalším	AANS7----1A----	Atr
+15	přátelstvím	NNNS7-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95049-067-p5s3
+1	Pokrytecký	AAIS1----1A----	Atr
+2	přístup	NNIS1-----A----	Sb
+3	Západu	NNIS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	k	RR--3----------	AuxP
+6	uzoufání	NNNS3-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln95049-067-p6s1A
+1	Bývalý	AAMS1----1A----	Atr
+2	estonský	AAMS1----1A----	Atr
+3	ministr	NNMS1-----A----	Atr
+4	obrany	NNFS2-----A----	Atr
+5	Hain	NNMS1-----A----	Atr
+6	Rebas	NNMS1-----A----	ExD
+
+ln95049-067-p6s1B
+1	Rusku	NNNS3-----A----	Obj
+2	chybí	VB-S---3P-AA---	Pred
+3	sebekritika	NNFS1-----A----	Sb
+4	.	Z:-------------	AuxK
+
+ln95049-067-p6s2
+1	Každá	AAFS1----1A----	Atr
+2	změna	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	svůj	P8IS4----------	Atr
+5	počátek	NNIS4-----A----	Obj
+6	ve	RV--6----------	AuxP
+7	vědomí	NNNS6-----A----	Adv
+8	.	Z:-------------	AuxK
+
+ln95049-067-p6s3
+1	A	J^-------------	Coord
+2	předpokládá	VB-S---3P-AA---	Pred
+3	vyrovnání	NNNS4-----A----	Obj
+4	se	P7-X4----------	Atr
+5	s	RR--7----------	AuxP
+6	minulostí	NNFS7-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95049-067-p6s4
+1	Právě	Db-------------	AuxZ
+2	to	PDNS1----------	Sb
+3	se	P7-X4----------	AuxT
+4	neděje	VB-S---3P-NA---	Pred
+5	.	Z:-------------	AuxK
+
+ln95049-067-p7s1A
+1	Německý	AAMS1----1A----	Atr
+2	komentátor	NNMS1-----A----	Atr
+3	a	J^-------------	Coord
+4	přední	AAMS1----1A----	Atr
+5	odborník	NNMS1-----A----	Atr
+6	na	RR--4----------	AuxP
+7	Východ	NNIS4-----A----	Atr
+8	Boris	NNMS1-----A----	Atr
+9	Meissner	NNMS1-----A----	ExD
+
+ln95049-067-p7s1B
+1	"	Z:-------------	AuxG
+2	Vidím	VB-S---1P-AA---	Pred
+3	ho	PHZS4--3-------	Obj
+4	.	Z:-------------	AuxK
+5	"	Z:-------------	AuxG
+
+ln95049-067-p7s2
+1	Velitel	NNMS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	"	Z:-------------	AuxG
+4	Oddělej	Vi-S---2--A----	ExD
+5	ho	PHZS4--3-------	Obj
+6	.	Z:-------------	AuxK
+7	"	Z:-------------	AuxG
+
+ln95049-067-p7s3
+1	Čečen	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	hroutí	VB-S---3P-AA---	Pred
+4	.	Z:-------------	AuxK
+
+ln95049-067-p7s4
+1	Tam	Db-------------	Adv
+2	,	Z:-------------	AuxX
+3	kde	Db-------------	Adv
+4	měl	VpYS---XR-AA---	Adv
+5	pravé	AANS4----1A----	Atr
+6	oko	NNNS4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	zeje	VB-S---3P-AA---	Pred
+9	velká	AAFS1----1A----	Atr
+10	díra	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln95049-067-p7s5
+1	V	RR--6----------	AuxP
+2	jednotce	NNFS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	lepší	VB-S---3P-AA---	Pred
+5	nálada	NNFS1-----A----	Sb
+6	:	Z:-------------	Coord
+7	"	Z:-------------	AuxG
+8	Porazíme	VB-P---1P-AA---	Pred
+9	je	PPXP4--3-------	Obj
+10	.	Z:-------------	AuxK
+11	"	Z:-------------	AuxG
+
+ln95049-067-p7s6A
+1	Z	RR--2----------	AuxP
+2	reportáže	NNFS2-----A----	ExD
+3	o	RR--6----------	AuxP
+4	zásahu	NNIS6-----A----	Atr
+5	elitní	AAFS2----1A----	Atr
+6	jednotky	NNFS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	Grozném	NNIS6-----A----	Atr
+
+ln95049-067-p7s6B
+1	Až	J,-------------	AuxC
+2	to	PDNS4----------	Obj
+3	tu	Db------------1	Adv
+4	budeme	VB-P---1F-AA---	AuxV
+5	mít	Vf--------A----	Adv
+6	za	RR--7----------	AuxP
+7	sebou	P6-X7----------	Adv
+8	,	Z:-------------	AuxX
+9	půjdeme	VB-P---1F-AA---	Pred
+10	do	RR--2----------	AuxP
+11	Moskvy	NNFS2-----A----	Adv
+12	a	J^-------------	Coord
+13	postaráme	VB-P---1P-AA---	Pred
+14	se	P7-X4----------	AuxT
+15	tam	Db-------------	Adv
+16	o	RR--4----------	AuxP
+17	pořádek	NNIS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95049-067-p8s1A
+1	Příslušník	NNMS1-----A----	ExD
+2	elitní	AAFS2----1A----	Atr
+3	jednotky	NNFS2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	nasazené	AAFS2----1A----	Atr
+6	v	RR--6----------	AuxP
+7	Čečensku	NNNS6-----A----	Adv
+
+ln95049-067-p8s1B
+1	Jsem	VB-S---1P-AA---	Pred
+2	moderní	AAFS1----1A----	Atr
+3	žena	NNFS1-----A----	Pnom
+4	.	Z:-------------	AuxK
+
+ln95049-067-p8s2
+1	Nejsem	VB-S---1P-NA---	Pred
+2	ještě	Db-------------	Adv
+3	připravena	VsQW---XX-AP---	Pnom
+4	na	RR--4----------	AuxP
+5	to	PDNS4----------	Obj
+6	,	Z:-------------	AuxX
+7	mít	Vf--------A----	Atr
+8	děti	NNFP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+ln95049-067-p8s3
+1	Mám	VB-S---1P-AA---	Pred
+2	příliš	Db-------------	Adv
+3	mnoho	Ca--4----------	Obj
+4	práce	NNFS2-----A----	Atr
+5	.	Z:-------------	AuxK
+
+ln95049-067-p9s1
+1	Polská	AAFS1----1A----	Atr
+2	podnikatelka	NNFS1-----A----	Atr
+3	Agnieszka	NNFS1-----A----	Atr
+4	W	NNFXX-----A---8	ExD
+5	.	Z:-------------	AuxG
+6	(	Z:-------------	ExD
+7	36	C=-------------	ExD
+8	let	NNNP2-----A----	Atr
+9	)	Z:-------------	ExD
+
+ln95049-067-p9s2
+1	Je	VB-S---3P-AA---	Pred
+2	strašné	AANS1----1A----	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	tito	PDMP1----------	Atr
+6	lidé	NNMP1-----A---1	Sb
+7	musejí	VB-P---3P-AA---	Sb
+8	prodávat	Vf--------A----	Obj
+9	části	NNFP4-----A----	Obj
+10	svého	P8ZS2----------	Atr
+11	těla	NNNS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	aby	J,-------------	AuxC
+14	mohli	VpMP---XR-AA---	Adv
+15	přežít	Vf--------A----	Obj
+16	.	Z:-------------	AuxK
+
+ln95049-067-p9s3
+1	Většina	NNFS1-----A----	Sb
+2	přitom	Db-------------	Adv
+3	peníze	NNIP4-----A----	Obj
+4	propije	VB-S---3P-AA---	Pred
+5	a	J^-------------	Coord
+6	utratí	VB-S---3P-AA---	Pred
+7	za	RR--4----------	AuxP
+8	podřadné	AANS4----1A----	Atr
+9	zboží	NNNS4-----A----	Adv
+10	a	J^-------------	Coord
+11	pak	Db-------------	Adv
+12	je	VB-S---3P-AA---	Pred
+13	na	RR--6----------	AuxP
+14	tom	PDZS6----------	Adv
+15	stejně	Dg-------1A----	Adv
+16	špatně	Dg-------1A----	Adv
+17	jako	J,-------------	AuxC
+18	předtím	Db-------------	ExD
+19	.	Z:-------------	AuxK
+
+ln95049-067-p10s1A
+1	Reverend	NNMS1-----A----	Atr
+2	Gerard	NNMS1-----A----	Atr
+3	Nelliyotukonam	NNMS1-----A----	ExD
+4	z	RR--2----------	AuxP
+5	organizace	NNFS2-----A----	Atr
+6	Don	NNMS1-----A----	Atr
+7	Bosco	NNMS1-----A----	Atr
+8	Social	AAXXX----1A----	Atr
+9	Service	AAXXX----1A----	Atr
+10	Society	NNFXX-----A----	Atr
+11	o	RR--6----------	AuxP
+12	masové	AAFS6----1A----	Atr
+13	praxi	NNFS6-----A----	ExD
+14	prodávání	NNNS2-----A----	Atr
+15	vlastních	AAIP2----1A----	Atr
+16	orgánů	NNIP2-----A----	Atr
+17	k	RR--3----------	AuxP
+18	transplantacím	NNFP3-----A----	Atr
+19	v	RR--6----------	AuxP
+20	Indii	NNFS6-----A----	Atr
+
+ln95049-067-p10s1B
+1	Nejsem	VB-S---1P-NA---	Pred
+2	velký	AAMS1----1A----	Atr
+3	přívrženec	NNMS1-----A----	Pnom
+4	kapitalismu	NNIS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	ale	J^-------------	Coord
+7	jsem	VB-S---1P-AA---	Pred
+8	realista	NNMS1-----A----	Pnom
+9	.	Z:-------------	AuxK
+
+ln95049-067-p11s1
+1	Fidel	NNMS1-----A----	Atr
+2	Castro	NNMS1-----A----	ExD
+3	v	RR--6----------	AuxP
+4	listu	NNIS6-----A---1	ExD
+5	The	AAXXX----1A----	Atr
+6	New	AAXXX----1A----	Atr
+7	York	NNIS1-----A----	Atr
+8	Times	NNIPX-----A----	Atr
+

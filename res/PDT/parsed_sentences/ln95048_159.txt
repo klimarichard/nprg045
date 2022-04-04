@@ -1,0 +1,205 @@
+ln95048-159-p1s1
+1	Lufthansa	NNFS1-----A----	Sb
+2	dosáhla	VpQW---XR-AA---	Pred
+3	rekordních	AAIP2----1A----	Atr
+4	výsledků	NNIP2-----A----	Obj
+
+ln95048-159-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95048-159-p2s1B
+1	Rekordních	AAIP2----1A----	Atr
+2	výsledků	NNIP2-----A----	Obj
+3	v	RR--6----------	AuxP
+4	přepravě	NNFS6-----A----	Atr
+5	cestujících	AGMP2-----A----	Atr
+6	i	J^-------------	Coord
+7	nákladů	NNIP2-----A----	Atr
+8	dosáhla	VpQW---XR-AA---	Pred
+9	loni	Db------------1	Adv
+10	Lufthansa	NNFS1-----A----	Sb
+11	Group	NNFXX-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95048-159-p2s2
+1	Počet	NNIS1-----A----	Sb
+2	cestujících	AGMP2-----A----	Atr
+3	tří	ClXP2----------	Atr
+4	součástí	NNFP2-----A----	Adv
+5	koncernu	NNIS2-----A----	Atr
+6	-	Z:-------------	Apos
+7	aerolinií	NNFP2-----A----	Adv
+8	Lufthansa	NNFS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Condor	NNIS1-----A----	Atr
+11	a	J^-------------	Coord
+12	Lufthansa	NNFS1-----A----	Atr
+13	Cityline	NNFXX-----A----	Atr
+14	-	Z:-------------	AuxG
+15	vzrostl	VpYS---XR-AA---	Pred
+16	o	RR--4----------	AuxP
+17	6.8	C=-------------	Adv
+18	%	Z:-------------	Atr
+19	na	RR--4----------	AuxP
+20	37.7	C=-------------	Obj
+21	mil	NNIXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	osob	NNFP2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln95048-159-p2s3
+1	Objem	NNIS1-----A----	Sb
+2	nákladní	AAFS2----1A----	Atr
+3	přepravy	NNFS2-----A----	Atr
+4	včetně	RR--2----------	AuxP
+5	poštovních	AAFP2----1A----	Atr
+6	zásilek	NNFP2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	zvýšil	VpYS---XR-AA---	Pred
+9	o	RR--4----------	AuxP
+10	13.6	C=-------------	Adv
+11	%	Z:-------------	Atr
+12	na	RR--4----------	AuxP
+13	1.44	C=-------------	Obj
+14	mil	NNIXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	tun	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95048-159-p2s4
+1	Celkový	AAIS1----1A----	Atr
+2	počet	NNIS1-----A----	Sb
+3	letů	NNIP2-----A----	Atr
+4	dosáhl	VpYS---XR-AA---	Pred
+5	téměř	Db-------------	AuxZ
+6	537	C=-------------	Atr
+7	tisíc	ClXS2----------	Obj
+8	,	Z:-------------	Coord
+9	což	PE--1----------	Sb
+10	představuje	VB-S---3P-AA---	Pred
+11	přírůstek	NNIS4-----A----	Obj
+12	o	RR--4----------	AuxP
+13	7.1	C=-------------	Atr
+14	%	Z:-------------	Atr
+15	.	Z:-------------	AuxK
+
+ln95048-159-p3s1
+1	Celková	AAFS1----1A----	Atr
+2	přepravní	AAFS1----1A----	Atr
+3	kapacita	NNFS1-----A----	Sb
+4	koncernu	NNIS2-----A----	Atr
+5	Lufthansa	NNFS1-----A----	Atr
+6	měřená	AAFS1----1A----	Atr
+7	v	RR--6----------	AuxP
+8	tunokilometrech	NNIP6-----A----	Adv
+9	se	P7-X4----------	AuxT
+10	zvýšila	VpQW---XR-AA---	Pred
+11	o	RR--4----------	AuxP
+12	6.3	C=-------------	Adv
+13	%	Z:-------------	Atr
+14	a	J^-------------	Coord
+15	obrat	NNIS1-----A----	Sb
+16	vzrostl	VpYS---XR-AA---	Pred
+17	podle	RR--2----------	AuxP
+18	stejného	AANS2----1A----	Atr
+19	kritéria	NNNS2-----A----	Adv
+20	o	RR--4----------	AuxP
+21	9.5	C=-------------	Adv
+22	%	Z:-------------	Atr
+23	.	Z:-------------	AuxK
+
+ln95048-159-p3s2
+1	Podstatně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	zlepšilo	VpNS---XR-AA---	Pred
+4	využití	NNNS1-----A----	Sb
+5	celkové	AAFS2----1A----	Atr
+6	kapacity	NNFS2-----A----	Atr
+7	-	Z:-------------	AuxG
+8	o	RR--4----------	AuxP
+9	2.1	C=-------------	Adv
+10	bodu	NNIS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	70.8	C=-------------	Adv
+13	%	Z:-------------	Atr
+14	.	Z:-------------	AuxK
+
+ln95048-159-p4s1
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	Lufthansa	NNFS1-----A----	Sb
+4	Group	NNFXX-----A----	Atr
+5	dosud	Db-------------	Adv
+6	neuveřejnila	VpQW---XR-NA---	Adv
+7	definitivní	AAIP4----1A----	Atr
+8	hospodářské	AAIP4----1A----	Atr
+9	výsledky	NNIP4-----A----	Obj
+10	za	RR--4----------	AuxP
+11	finanční	AAIS4----1A----	Atr
+12	rok	NNIS4-----A----	Atr
+13	1994	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	uzavře	VB-S---3P-AA---	Pred
+16	jej	PPZS4--3------2	Obj
+17	podle	RR--2----------	AuxP
+18	informací	NNFP2-----A----	Adv
+19	společnosti	NNFS2-----A----	Atr
+20	se	RV--7----------	AuxP
+21	ziskem	NNIS7-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95048-159-p4s2
+1	Za	RR--4----------	AuxP
+2	prvních	CrIP2----------	Atr
+3	devět	Cn-S4----------	Adv
+4	měsíců	NNIP2-----A----	Atr
+5	loňského	AAIS2----1A----	Atr
+6	roku	NNIS2-----A---1	Atr
+7	dosáhla	VpQW---XR-AA---	Pred
+8	zisku	NNIS2-----A----	Obj
+9	před	RR--7----------	AuxP
+10	zdaněním	NNNS7-----A----	Atr
+11	325	C=-------------	Atr
+12	mil	NNIXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	DEM	NNFXX-----A---8	Atr
+15	a	J^-------------	Coord
+16	dobré	AAIP4----1A----	Atr
+17	výsledky	NNIP4-----A----	Obj
+18	očekává	VB-S---3P-AA---	Pred
+19	i	J^-------------	AuxZ
+20	za	RR--4----------	AuxP
+21	čtvrté	CrNS4----------	Atr
+22	čtvrtletí	NNNS4-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln95048-159-p5s1
+1	Stále	Db-------------	Adv
+2	větší	AAIS1----2A----	Atr
+3	počet	NNIS1-----A----	Sb
+4	cestujících	AGMP2-----A----	Atr
+5	využívá	VB-S---3P-AA---	Pred
+6	služeb	NNFP2-----A----	Obj
+7	této	PDFS2----------	Atr
+8	letecké	AAFS2----1A----	Atr
+9	společnosti	NNFS2-----A----	Atr
+10	i	J^-------------	AuxZ
+11	v	RR--6----------	AuxP
+12	ČR	NNFXX-----A---8	Adv
+13	.	Z:-------------	AuxK
+
+ln95048-159-p5s2
+1	Vloni	Db-------------	Adv
+2	jich	PPXP2--3-------	Atr
+3	přepravila	VpQW---XR-AA---	Pred
+4	z	RR--2----------	AuxP
+5	Prahy	NNFS2-----A----	Adv
+6	či	J^-------------	Coord
+7	do	RR--2----------	AuxP
+8	Prahy	NNFS2-----A----	Adv
+9	přes	RR--4----------	AuxP
+10	300	C=-------------	Obj
+11	tisíc	ClXS2----------	Atr
+12	.	Z:-------------	AuxK
+

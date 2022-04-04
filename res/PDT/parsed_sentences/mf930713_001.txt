@@ -1,0 +1,191 @@
+mf930713-001-p1s1
+1	Léčivá	AAFS1----1A----	Atr
+2	síla	NNFS1-----A----	ExD
+3	medu	NNIS2-----A----	Atr
+
+mf930713-001-p2s1
+1	RECEPTY	NNIP1-----A----	ExD
+2	PRO	RR--4----------	AuxP
+3	ZDRAVÍ	NNNS4-----A----	Atr
+
+mf930713-001-p3s1
+1	Léčivá	AAFS1----1A----	Atr
+2	síla	NNFS1-----A----	ExD
+3	medu	NNIS2-----A----	Atr
+
+mf930713-001-p3s2
+1	Mezi	RR--4----------	AuxP
+2	produkty	NNIP4-----A----	Adv
+3	,	Z:-------------	AuxX
+4	které	P4IP1----------	Sb
+5	jsou	VB-P---3P-AA---	Atr
+6	svým	P8ZS7----------	Atr
+7	složením	NNNS7-----A----	Adv
+8	schopny	ACTP------A----	Pnom
+9	zvyšovat	Vf--------A----	Obj
+10	odolnost	NNFS4-----A----	Obj
+11	organismu	NNIS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	patří	VB-S---3P-AA---	Pred
+14	i	J^-------------	AuxZ
+15	med	NNIS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	od	RR--2----------	AuxP
+18	pradávna	NNNS2-----A----	Adv
+19	používaný	AAIS1----1A----	Atr
+20	v	RR--6----------	AuxP
+21	lidovém	AANS6----1A----	Atr
+22	léčitelství	NNNS6-----A----	Adv
+23	při	RR--6----------	AuxP
+24	různých	AANP6----1A----	Atr
+25	onemocněních	NNNP6-----A----	Adv
+26	.	Z:-------------	AuxK
+
+mf930713-001-p3s3
+1	Med	NNIS1-----A----	Sb
+2	zpomaluje	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	procesy	NNIP4-----A----	Obj
+5	stárnutí	NNNS2-----A----	Atr
+6	,	Z:-------------	Coord
+7	oproti	RR--3----------	AuxP
+8	cukru	NNIS3-----A----	Adv
+9	zvyšuje	VB-S---3P-AA---	Pred
+10	vázání	NNNS4-----A----	Obj
+11	kalcia	NNNS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	dětské	AAFS6----1A----	Atr
+14	výživě	NNFS6-----A----	AtrAtr
+15	.	Z:-------------	AuxK
+
+mf930713-001-p3s4
+1	Je	VB-S---3P-AA---	Pred
+2	bohatý	AAIS1----1A----	Pnom
+3	na	RR--4----------	AuxP
+4	železo	NNNS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	a	J^-------------	Coord
+7	chrání	VB-S---3P-AA---	Pred
+8	tak	Db-------------	Adv
+9	organismus	NNIS4-----A----	Obj
+10	před	RR--7----------	AuxP
+11	anémií	NNFS7-----A----	Obj
+12	způsobenou	AAFS7----1A----	Atr
+13	jednostrannou	AAFS7----1A----	Atr
+14	výživou	NNFS7-----A----	Obj
+15	.	Z:-------------	AuxK
+
+mf930713-001-p3s5
+1	Dá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	užít	Vf--------A----	Obj
+4	i	J^-------------	AuxZ
+5	jako	J,-------------	AuxY
+6	mírné	AANS1----1A----	Atr
+7	projímadlo	NNNS1-----A----	AtvV
+8	pro	RR--4----------	AuxP
+9	děti	NNFP4-----A----	Atr
+10	,	Z:-------------	Coord
+11	pomáhá	VB-S---3P-AA---	Pred
+12	při	RR--6----------	AuxP
+13	léčení	NNNS6-----A----	Adv
+14	nemocí	NNFP2-----A----	Atr
+15	jater	NNNP2-----A----	Atr
+16	a	J^-------------	Coord
+17	ledvin	NNFP2-----A----	Atr
+18	,	Z:-------------	Coord
+19	dýchacího	AAIS2----1A----	Atr
+20	a	J^-------------	Coord
+21	trávicího	AAIS2----1A----	Atr
+22	systému	NNIS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+mf930713-001-p3s6
+1	Abychom	J,-P---1-------	AuxC
+2	všechny	PLFP4----------	Atr
+3	vzácné	AAFP4----1A----	Atr
+4	látky	NNFP4-----A----	Obj
+5	z	RR--2----------	AuxP
+6	medu	NNIS2-----A----	AtrAdv
+7	uchovali	VpMP---XR-AA---	Adv
+8	,	Z:-------------	AuxX
+9	musíme	VB-P---1P-AA---	Pred
+10	med	NNIS4-----A----	Obj
+11	vhodně	Dg-------1A----	Adv
+12	skladovat	Vf--------A----	Obj
+13	.	Z:-------------	AuxK
+
+mf930713-001-p3s7
+1	Nejvhodnější	AAFP1----3A----	Pnom
+2	jsou	VB-P---3P-AA---	Pred
+3	pro	RR--4----------	AuxP
+4	to	PDNS4----------	Adv
+5	skleněné	AAFP1----1A----	Atr
+6	nádoby	NNFP1-----A----	Sb
+7	a	J^-------------	Coord
+8	suché	AANS1----1A----	Atr
+9	,	Z:-------------	AuxX
+10	chladné	AANS1----1A----	Atr
+11	a	J^-------------	Coord
+12	tmavé	AANS1----1A----	Atr
+13	místo	NNNS1-----A----	Sb
+14	při	RR--6----------	AuxP
+15	teplotě	NNFS6-----A----	Atr
+16	do	RR--2----------	AuxP
+17	15	C=-------------	Atr
+18	stupňů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+mf930713-001-p3s8
+1	Med	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	nesmí	VB-S---3P-NA---	Pred
+4	skladovat	Vf--------A----	Obj
+5	v	RR--6----------	AuxP
+6	nádobách	NNFP6-----A----	Adv
+7	z	RR--2----------	AuxP
+8	pozinkovaného	AAIS2----1A----	Atr
+9	plechu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	měděných	AAFP6----1A----	Atr
+12	nebo	J^-------------	Coord
+13	mosazných	AAFP6----1A----	Atr
+14	,	Z:-------------	AuxX
+15	protože	J,-------------	AuxC
+16	se	P7-X4----------	AuxT
+17	z	RR--2----------	AuxP
+18	nich	P5XP2--3-------	Adv
+19	mohou	VB-P---3P-AA--1	Adv
+20	do	RR--2----------	AuxP
+21	medu	NNIS2-----A----	Adv
+22	dostat	Vf--------A----	Obj
+23	jedovaté	AAFP1----1A----	Atr
+24	sloučeniny	NNFP1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+mf930713-001-p3s9
+1	Snažte	Vi-P---2--A----	Pred
+2	se	P7-X4----------	AuxT
+3	med	NNIS4-----A----	Obj
+4	používat	Vf--------A----	Obj
+5	syrový	AAIS4----1A----	Atv
+6	,	Z:-------------	AuxX
+7	nedávejte	Vi-P---2--N----	Pred
+8	jej	PPZS4--3------2	Obj
+9	do	RR--2----------	AuxP
+10	horkého	AAIS2----1A----	Atr
+11	čaje	NNIS2-----A----	Adv
+12	nebo	J^-------------	Coord
+13	mléka	NNNS2-----A----	Adv
+14	,	Z:-------------	AuxX
+15	neboť	J^-------------	Coord
+16	je	VB-S---3P-AA---	Pred
+17	škoda	NNFS1-----A----	Pnom
+18	se	P7-X4----------	Obj
+19	ochudit	Vf--------A----	Sb
+20	o	RR--4----------	AuxP
+21	tolik	Ca--4----------	Obj
+22	vzácných	AAFP2----1A----	Atr
+23	látek	NNFP2-----A----	Atr
+24	.	Z:-------------	AuxK
+

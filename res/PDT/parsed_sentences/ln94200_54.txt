@@ -1,0 +1,93 @@
+ln94200-54-p1s1
+1	Lukrativní	AAFS1----1A----	Atr
+2	zakázka	NNFS1-----A----	ExD
+
+ln94200-54-p2s1A
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ivh	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94200-54-p2s1B
+1	Královopolská	AAFS1----1A----	Sb
+2	Brno	NNNS1-----A----	Atr
+3	,	Z:-------------	Apos
+4	a	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	s	NNFXX-----A---8	Sb
+7	.	Z:-------------	AuxG
+8	,	Z:-------------	AuxX
+9	zvítězila	VpQW---XR-AA---	Pred
+10	ve	RV--6----------	AuxP
+11	veřejné	AAFS6----1A----	Atr
+12	soutěži	NNFS6-----A----	Adv
+13	na	RR--4----------	AuxP
+14	generálního	AAMS4----1A----	Atr
+15	dodavatele	NNMS4-----A----	Atr
+16	technologické	AAFS2----1A----	Atr
+17	části	NNFS2-----A----	Atr
+18	výstavby	NNFS2-----A----	Atr
+19	městské	AAFS2----1A----	Atr
+20	čistírny	NNFS2-----A----	Atr
+21	vod	NNFP2-----A----	Atr
+22	v	RR--6----------	AuxP
+23	Plzni	NNFS6-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94200-54-p2s2
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	zadavatel	NNMS1-----A----	Sb
+4	výstavby	NNFS2-----A----	Atr
+5	a	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	s	NNFXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	Vodohospodářský	AAIS1----1A----	Atr
+10	rozvoj	NNIS1-----A----	Atr
+11	a	J^-------------	Coord
+12	výstavba	NNFS1-----A----	Atr
+13	Praha	NNFS1-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94200-54-p2s4
+1	Podle	RR--2----------	AuxP
+2	Královopolské	AAFS2----1A----	Adv
+3	se	P7-X4----------	AuxT
+4	veřejné	AAFS2----1A----	Atr
+5	soutěže	NNFS2-----A----	Obj
+6	zúčastnila	VpQW---XR-AA---	Pred
+7	řada	NNFS1-----A----	Sb
+8	českých	AAFP2----1A----	ExD
+9	a	J^-------------	Coord
+10	jedna	ClFS1----------	Atr
+11	francouzská	AAFS1----1A----	Atr
+12	firma	NNFS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94200-54-p2s5
+1	Smlouva	NNFS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	AuxV
+4	podepsána	VsQW---XX-AP---	Obj
+5	do	RR--2----------	AuxP
+6	konce	NNIS2-----A----	Adv
+7	tohoto	PDZS2----------	Atr
+8	měsíce	NNIS2-----A----	Atr
+9	a	J^-------------	Coord
+10	bezprostředně	Dg-------1A----	Adv
+11	poté	Db-------------	Adv
+12	budou	VB-P---3F-AA---	AuxV
+13	zahájeny	VsTP---XX-AP---	Pred
+14	práce	NNFP1-----A----	Sb
+15	na	RR--6----------	AuxP
+16	tomto	PDZS6----------	Atr
+17	díle	NNNS6-----A----	Atr
+18	v	RR--6----------	AuxP
+19	hodnotě	NNFS6-----A----	Atr
+20	200	C=-------------	Atr
+21	milionů	NNIP2-----A----	Atr
+22	korun	NNFP2-----A----	Atr
+23	.	Z:-------------	AuxK
+

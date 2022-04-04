@@ -1,0 +1,206 @@
+ln94205-142-p1s1
+1	Opravený	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	ExD
+3	o	RR--6----------	AuxP
+4	lesích	NNIP6-----A----	Atr
+5	do	RR--2----------	AuxP
+6	vlády	NNFS2-----A----	ExD
+7	nejdříve	Dg-------3A----	ExD
+8	za	RR--4----------	AuxP
+9	měsíc	NNIS4-----A----	Adv
+
+ln94205-142-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jpš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94205-142-p2s1B
+1	Návrh	NNIS1-----A----	Sb
+2	zákona	NNIS2-----A----	Atr
+3	o	RR--6----------	AuxP
+4	lesích	NNIP6-----A----	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	moci	Vf--------A----	Pred
+7	být	Vf--------A----	AuxV
+8	vládě	NNFS3-----A----	Obj
+9	znovu	Db-------------	Adv
+10	předložen	VsYS---XX-AP---	Obj
+11	nejdříve	Dg-------3A----	Adv
+12	asi	TT-------------	AuxZ
+13	za	RR--4----------	AuxP
+14	měsíc	NNIS4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94205-142-p2s2
+1	Sdělil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	František	NNMS1-----A----	Atr
+4	Morávek	NNMS1-----A----	Sb
+5	,	Z:-------------	Apos
+6	ředitel	NNMS1-----A----	Sb
+7	odboru	NNIS2-----A----	Atr
+8	rozvoje	NNIS2-----A----	Atr
+9	lesního	AANS2----1A----	Atr
+10	hospodářství	NNNS2-----A----	Atr
+11	ministerstva	NNNS2-----A----	Atr
+12	zemědělství	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94205-142-p3s1
+1	Zákon	NNIS4-----A----	Obj
+2	minulý	AAIS4----1A----	Atr
+3	týden	NNIS4-----A----	Adv
+4	vláda	NNFS1-----A----	Sb
+5	vrátila	VpQW---XR-AA---	Pred
+6	předkladatelským	AANP3----1A----	Atr
+7	ministerstvům	NNNP3-----A----	Obj
+8	(	Z:-------------	AuxG
+9	zemědělství	NNNS2-----A----	Atr
+10	a	J^-------------	Coord
+11	životního	AANS2----1A----	Atr
+12	prostředí	NNNS2-----A----	Atr
+13	)	Z:-------------	AuxG
+14	k	RR--3----------	AuxP
+15	přepracování	NNNS3-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln94205-142-p3s2
+1	Své	P8NS4---------1	Atr
+2	rozhodnutí	NNNS4-----A----	Obj
+3	zdůvodnila	VpQW---XR-AA---	Pred
+4	údajnou	AAFS7----1A----	Atr
+5	přílišnou	AAFS7----1A----	Atr
+6	složitostí	NNFS7-----A----	Adv
+7	předlohy	NNFS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln94205-142-p3s3
+1	Premiér	NNMS1-----A----	Atr
+2	Klaus	NNMS1-----A----	Sb
+3	prohlásil	VpYS---XR-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	návrh	NNIS1-----A----	Sb
+7	je	VB-S---3P-AA---	Obj
+8	přetížen	VsYS---XX-AP---	Pnom
+9	technickými	AAIP7----1A----	Atr
+10	detaily	NNIP7-----A----	Obj
+11	,	Z:-------------	AuxX
+12	které	P4IP1----------	Sb
+13	do	RR--2----------	AuxP
+14	zákona	NNIS2-----A----	Adv
+15	nepatří	VB-P---3P-NA---	Atr
+16	.	Z:-------------	AuxK
+
+ln94205-142-p4s1
+1	Vládě	NNFS3-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	například	Db-------------	AuxY
+4	nelíbilo	VpNS---XR-NA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	návrhu	NNIS6-----A----	Adv
+9	je	VB-S---3P-AA---	Sb
+10	uveden	VsYS---XX-AP---	Pnom
+11	způsob	NNIS1-----A----	Sb
+12	určování	NNNS2-----A----	Atr
+13	objemu	NNIS2-----A----	Atr
+14	těžby	NNFS2-----A----	Atr
+15	v	RR--6----------	AuxP
+16	lesích	NNIP6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94205-142-p4s2
+1	Domnívá	VB-S---3P-AA---	Obj
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	to	PDNS4----------	Obj
+6	stačí	VB-S---3P-AA---	Obj
+7	vysvětlit	Vf--------A----	Sb
+8	ve	RV--6----------	AuxP
+9	vyhlášce	NNFS6-----A----	Adv
+10	,	Z:-------------	AuxX
+11	sdělil	VpYS---XR-AA---	Pred
+12	Morávek	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94205-142-p4s3
+1	Podle	RR--2----------	AuxP
+2	tvůrců	NNMP2-----A----	Adv
+3	předlohy	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	však	J^-------------	Coord
+6	nutné	AANS1----1A----	Pnom
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	tato	PDFS1----------	Atr
+10	otázka	NNFS1-----A----	Sb
+11	byla	VpQW---XR-AA---	AuxV
+12	jasně	Dg-------1A----	Adv
+13	vysvětlena	VsQW---XX-AP---	Sb
+14	v	RR--6----------	AuxP
+15	zákoně	NNIS6-----A----	Adv
+16	spolu	Db-------------	AuxP
+17	s	RR--7----------	AuxP
+18	uvedením	NNNS7-----A----	Adv
+19	vzorce	NNIS2-----A----	Atr
+20	pro	RR--4----------	AuxP
+21	výpočet	NNIS4-----A----	Atr
+22	povolené	AAFS2----1A----	Atr
+23	těžby	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94205-142-p4s4
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	důležité	AANS1----1A----	Pnom
+4	,	Z:-------------	AuxX
+5	jelikož	J,-------------	AuxC
+6	se	P7-X4----------	AuxT
+7	to	PDNS1----------	Sb
+8	týká	VB-S---3P-AA---	Adv
+9	každého	AAMS2----1A----	Atr
+10	vlastníka	NNMS2-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln94205-142-p4s5
+1	Podle	RR--2----------	AuxP
+2	Morávka	NNMS2-----A----	Adv
+3	s	RR--7----------	AuxP
+4	tím	PDZS7----------	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	všechna	PLNP1----------	Atr
+8	významná	AANP1----1A----	Atr
+9	opatření	NNNP1-----A----	Sb
+10	byla	VpQW---XR-AA---	AuxV
+11	pregnantně	Dg-------1A----	Adv
+12	vysvětlena	VsQW---XX-AP---	Atr
+13	v	RR--6----------	AuxP
+14	zákoně	NNIS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	souhlasí	VB-S---3P-AA---	Pred
+17	i	J^-------------	AuxZ
+18	většina	NNFS1-----A----	Sb
+19	majitelů	NNMP2-----A----	Atr
+20	lesů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94205-142-p4s6
+1	Budeme	VB-P---1F-AA---	AuxV
+2	muset	Vf--------A----	Obj
+3	s	RR--7----------	AuxP
+4	vládou	NNFS7-----A----	Adv
+5	hledat	Vf--------A----	Sb
+6	nějaké	PZNS4----------	Atr
+7	kompromisní	AANS4----1A----	Atr
+8	řešení	NNNS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	podotkl	VpYS---XR-AA--1	Pred
+11	Morávek	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+

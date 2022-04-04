@@ -1,0 +1,337 @@
+ln94205-50-p1s1
+1	Banka	NNFS1-----A----	Sb
+2	Bohemia	NNFXX-----A----	Atr
+3	zůstane	VB-S---3P-AA---	Pred
+4	bez	RR--2----------	AuxP
+5	ceny	NNFS2-----A----	Adv
+
+ln94205-50-p2s1A
+1	Idit	NNFXX-----A----	Atr
+2	Müllerová	NNFS1-----A----	ExD
+3	ze	RV--2----------	AuxP
+4	Střediska	NNNS2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	výzkum	NNIS4-----A----	Atr
+7	evropského	AAIS2----1A----	Atr
+8	trhu	NNIS2-----A----	Atr
+9	pro	RR--4----------	AuxP
+10	LN	NNFPX-----A---8	ExD
+
+ln94205-50-p2s1B
+1	Jana	NNFS1-----A----	Atr
+2	Blažková	NNFS1-----A----	ExD
+
+ln94205-50-p2s1C
+1	Počátkem	NNIS7-----A----	AuxP
+2	července	NNIS2-----A----	Adv
+3	obdrželo	VpNS---XR-AA---	Pred
+4	vedení	NNNS1-----A----	Sb
+5	banky	NNFS2-----A----	Atr
+6	Bohemia	NNFXX-----A----	Atr
+7	z	RR--2----------	AuxP
+8	bruselského	AANS2----1A----	Atr
+9	Střediska	NNNS2-----A----	Adv
+10	pro	RR--4----------	AuxP
+11	výzkum	NNIS4-----A----	Atr
+12	Evropského	AAIS2----1A----	Atr
+13	trhu	NNIS2-----A----	Atr
+14	(	Z:-------------	Apos
+15	European	AAXXX----1A----	Atr
+16	market	AAXXX----1A----	Atr
+17	research	AAXXX----1A----	Atr
+18	center	NNIXX-----A----	Adv
+19	)	Z:-------------	AuxG
+20	nominaci	NNFS4-----A----	Obj
+21	na	RR--4----------	AuxP
+22	udělení	NNNS4-----A----	Atr
+23	evropského	AANS2----1A----	Atr
+24	ocenění	NNNS2-----A----	Atr
+25	za	RR--4----------	AuxP
+26	nejlepší	AAIS4----3A----	Atr
+27	management	NNIS4-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94205-50-p2s2
+1	Cena	NNFS1-----A----	Sb
+2	Quality	AAXXX----1A----	Atr
+3	management	AAXXX----1A----	Atr
+4	award	NNXXX-----A----	Atr
+5	překvapila	VpQW---XR-AA---	Pred
+6	.	Z:-------------	AuxK
+
+ln94205-50-p3s1
+1	Přišla	VpQW---XR-AA---	Pred
+2	totiž	Db-------------	AuxY
+3	mimo	RR--4----------	AuxP
+4	čas	NNIS4-----A----	Adv
+5	a	J^-------------	Coord
+6	prostor	NNIS4-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94205-50-p3s2
+1	Banka	NNFS1-----A----	Sb
+2	Bohemia	NNFXX-----A----	Atr
+3	zkrachovala	VpQW---XR-AA---	Pred
+4	již	Db-------------	AuxZ
+5	na	RR--6----------	AuxP
+6	jaře	NNNS6-----A----	Adv
+7	tohoto	PDZS2----------	Atr
+8	roku	NNIS2-----A---1	Atr
+9	.	Z:-------------	AuxK
+
+ln94205-50-p3s3
+1	O	RR--6----------	AuxP
+2	nominaci	NNFS6-----A----	Obj
+3	Lidové	AAFP1----1A----	Atr
+4	noviny	NNFP1-----A----	Sb
+5	telefonicky	Dg-------1A----	Adv
+6	hovořily	VpTP---XR-AA---	Pred
+7	s	RR--7----------	AuxP
+8	vedoucí	NNFS7-----A----	Atr
+9	Střediska	NNNS2-----A----	Atr
+10	pro	RR--4----------	AuxP
+11	výzkum	NNIS4-----A----	Atr
+12	evropského	AAIS2----1A----	Atr
+13	trhu	NNIS2-----A----	Atr
+14	(	Z:-------------	Apos
+15	EMRC	NNIXX-----A---8	Atr
+16	)	Z:-------------	AuxG
+17	v	RR--6----------	AuxP
+18	Bruselu	NNIS6-----A----	AtrAtr
+19	Idit	NNFXX-----A----	Atr
+20	Müllerovou	NNFS7-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94205-50-p4s1
+1	Jak	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	mohlo	VpNS---XR-AA---	Pred
+4	stát	Vf--------A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	na	RR--4----------	AuxP
+8	tak	Db-------------	Adv
+9	významnou	AAFS4----1A----	Atr
+10	evropskou	AAFS4----1A----	Atr
+11	cenu	NNFS4-----A----	Obj
+12	byla	VpQW---XR-AA---	AuxV
+13	nominována	VsQW---XX-AP---	Sb
+14	banka	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	v	RR--6----------	AuxP
+18	důsledku	NNIS6-----A----	AuxP
+19	vlastních	AAFP2----1A----	Atr
+20	chyb	NNFP2-----A----	Adv
+21	již	Db-------------	Adv
+22	neexistuje	VB-S---3P-NA---	Atr
+23	.	Z:-------------	AuxK
+
+ln94205-50-p5s1
+1	Nominaci	NNFS4-----A----	Obj
+2	banky	NNFS2-----A----	Atr
+3	Bohemia	NNFXX-----A----	Atr
+4	jsme	VB-P---1P-AA---	AuxV
+5	již	Db-------------	Adv
+6	zrušili	VpMP---XR-AA---	Pred
+7	.	Z:-------------	AuxK
+
+ln94205-50-p5s2
+1	Před	RR--7----------	AuxP
+2	týdnem	NNIS7-----A----	ExD
+3	,	Z:-------------	Apos
+4	okamžitě	Dg-------1A----	ExD
+5	,	Z:-------------	AuxX
+6	když	J,-------------	AuxC
+7	jsme	VB-P---1P-AA---	AuxV
+8	se	P7-X4----------	AuxT
+9	dozvěděli	VpMP---XR-AA---	Adv
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	je	VB-S---3P-AA---	Obj
+13	tento	PDYS1----------	Atr
+14	peněžní	AAIS1----1A----	Atr
+15	ústav	NNIS1-----A----	Sb
+16	v	RR--6----------	AuxP
+17	likvidaci	NNFS6-----A----	Adv
+18	.	Z:-------------	AuxK
+
+ln94205-50-p5s3
+1	Cena	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	která	P4FS1----------	Sb
+4	bude	VB-S---3F-AA---	AuxV
+5	udělena	VsQW---XX-AP---	Atr
+6	19	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	a	J^-------------	Coord
+9	20	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	září	NNNS2-----A----	Adv
+12	1994	C=-------------	Atr
+13	v	RR--6----------	AuxP
+14	Bruselu	NNIS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	však	J^-------------	Coord
+17	platí	VB-S---3P-AA---	Pred
+18	za	RR--4----------	AuxP
+19	rok	NNIS4-----A----	Adv
+20	1993	C=-------------	Atr
+21	a	J^-------------	Coord
+22	leden	NNIS4-----A----	Adv
+23	1994	C=-------------	Atr
+24	.	Z:-------------	AuxK
+
+ln94205-50-p5s4
+1	V	RR--6----------	AuxP
+2	té	PDFS6----------	Atr
+3	době	NNFS6-----A----	Adv
+4	ještě	Db-------------	Adv
+5	Bohemia	NNFXX-----A----	Sb
+6	existovala	VpQW---XR-AA---	Pred
+7	.	Z:-------------	AuxK
+
+ln94205-50-p6s1
+1	V	RR--6----------	AuxP
+2	červenci	NNIS6-----A----	Adv
+3	,	Z:-------------	Apos
+4	před	RR--7----------	AuxP
+5	odesláním	NNNS7-----A----	Adv
+6	nominace	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	jste	VB-P---2P-AA---	AuxV
+9	tedy	Db-------------	AuxY
+10	již	Db-------------	Adv
+11	aktuální	AAIS4----1A----	Atr
+12	stav	NNIS4-----A----	Obj
+13	hospodaření	NNNS2-----A----	Atr
+14	zmíněného	AAIS2----1A----	Atr
+15	peněžního	AAIS2----1A----	Atr
+16	ústavu	NNIS2-----A----	Atr
+17	nepřezkoumali	VpMP---XR-NA---	Pred
+18	?	Z:-------------	AuxK
+
+ln94205-50-p7s1
+1	Obyčejně	Dg-------1A----	Adv
+2	situaci	NNFS4-----A----	Obj
+3	bank	NNFP2-----A----	Atr
+4	kontrolujeme	VB-P---1P-AA---	Pred
+5	znovu	Db-------------	Adv
+6	.	Z:-------------	AuxK
+
+ln94205-50-p7s2
+1	U	RR--2----------	AuxP
+2	banky	NNFS2-----A----	Adv
+3	Bohemia	NNFXX-----A----	Atr
+4	jsme	VB-P---1P-AA---	AuxV
+5	to	PDNS4----------	Obj
+6	ale	J^-------------	Coord
+7	neudělali	VpMP---XR-NA---	Pred
+8	.	Z:-------------	AuxK
+
+ln94205-50-p7s3
+1	Stala	VpQW---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	nějaká	PZFS1----------	Atr
+4	chyba	NNFS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	patrně	Dg-------1A----	AuxY
+7	v	RR--6----------	AuxP
+8	domluvě	NNFS6-----A----	Adv
+9	našich	PSXP2-P1-------	Atr
+10	úředníků	NNMP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94205-50-p8s1
+1	Jakým	P4ZS7----------	Atr
+2	způsobem	NNIS7-----A----	Adv
+3	peněžní	AAIP4----1A----	Atr
+4	ústavy	NNIP4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	které	P4YP4----------	Obj
+7	chcete	VB-P---2P-AA---	Atr
+8	na	RR--4----------	AuxP
+9	ocenění	NNNS4-----A----	Obj
+10	nominovat	Vf--------A----	Obj
+11	,	Z:-------------	AuxX
+12	vybíráte	VB-P---2P-AA---	Pred
+13	?	Z:-------------	AuxK
+
+ln94205-50-p9s1
+1	Představitelé	NNMP1-----A----	Sb
+2	naší	PSFS2-P1-------	Atr
+3	společnosti	NNFS2-----A----	Atr
+4	jezdí	VB-P---3P-AA---	Pred
+5	po	RR--6----------	AuxP
+6	celém	AANS6----1A----	Atr
+7	území	NNNS6-----A----	Adv
+8	Evropy	NNFS2-----A----	Atr
+9	a	J^-------------	Coord
+10	Afriky	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	kde	Db-------------	Adv
+13	adepty	NNMP4-----A----	Obj
+14	vybíráme	VB-P---1P-AA---	Atr
+15	,	Z:-------------	AuxX
+16	a	J^-------------	Coord
+17	zkoumají	VB-P---3P-AA---	Pred
+18	situaci	NNFS4-----A----	Obj
+19	v	RR--6----------	AuxP
+20	jednotlivých	AAIP6----1A----	Atr
+21	peněžních	AAIP6----1A----	Atr
+22	ústavech	NNIP6-----A----	AtrAdv
+23	.	Z:-------------	AuxK
+
+ln94205-50-p9s2
+1	Banku	NNFS4-----A----	Obj
+2	Bohemia	NNFXX-----A----	Atr
+3	nám	PP-P3--1-------	Obj
+4	doporučil	VpYS---XR-AA---	Pred
+5	náš	PSYS1-P1-------	Atr
+6	odborník	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	má	VB-S---3P-AA---	Atr
+10	na	RR--6----------	AuxP
+11	starosti	NNFS6-----A----	Obj
+12	Českou	AAFS4----1A----	Atr
+13	republiku	NNFS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94205-50-p10s1
+1	Kolik	C?--4----------	Obj
+2	bank	NNFP2-----A----	Atr
+3	jste	VB-P---2P-AA---	AuxV
+4	v	RR--6----------	AuxP
+5	letošním	AAIS6----1A----	Atr
+6	roce	NNIS6-----A---1	Adv
+7	na	RR--4----------	AuxP
+8	cenu	NNFS4-----A----	Obj
+9	nominovali	VpMP---XR-AA---	Pred
+10	?	Z:-------------	AuxK
+
+ln94205-50-p11s1
+1	Do	RR--2----------	AuxP
+2	užšího	AANS2----2A----	Atr
+3	kola	NNNS2-----A----	Adv
+4	výběru	NNIS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	dostalo	VpNS---XR-AA---	Pred
+7	celkem	Db-------------	AuxZ
+8	deset	Cn-S1----------	Sb
+9	evropských	AAFP2----1A----	Atr
+10	a	J^-------------	Coord
+11	afrických	AAFP2----1A----	Atr
+12	bank	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94205-50-p11s2
+1	Z	RR--2----------	AuxP
+2	České	AAFS2----1A----	Atr
+3	republiky	NNFS2-----A----	Adv
+4	to	PDNS1----------	Pnom
+5	byla	VpQW---XR-AA---	Pred
+6	jen	TT-------------	AuxZ
+7	Bohemia	NNFXX-----A----	Sb
+8	.	Z:-------------	AuxK
+

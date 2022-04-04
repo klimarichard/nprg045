@@ -1,0 +1,278 @@
+ln95048-163-p1s1
+1	Londýnská	AAFS1----1A----	Atr
+2	burza	NNFS1-----A----	Sb
+3	ustavuje	VB-S---3P-AA---	Pred
+4	nový	AAIS4----1A----	Atr
+5	trh	NNIS4-----A----	Obj
+
+ln95048-163-p2s1A
+1	AIM	NNIXX-----A---8	Sb
+2	nabídne	VB-S---3P-AA---	Pred
+3	dynamickým	AAFP3----1A----	Atr
+4	společnostem	NNFP3-----A----	Obj
+5	především	Db-------------	AuxZ
+6	nový	AAIS4----1A----	Atr
+7	potenciál	NNIS4-----A----	Obj
+8	růstu	NNIS2-----A----	Atr
+
+ln95048-163-p2s1B
+1	Londýn	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95048-163-p2s1C
+1	Londýnská	AAFS1----1A----	Atr
+2	burza	NNFS1-----A----	Sb
+3	cenných	AAIP2----1A----	Atr
+4	papírů	NNIP2-----A----	Atr
+5	ustavila	VpQW---XR-AA---	Pred
+6	nový	AAIS4----1A----	Atr
+7	trh	NNIS4-----A----	Obj
+8	pod	RR--7----------	AuxP
+9	názvem	NNIS7-----A----	Atr
+10	AIM	NNIXX-----A---8	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	bude	VB-S---3F-AA---	AuxV
+14	sloužit	Vf--------A----	Atr
+15	malým	AAFP3----1A----	Atr
+16	,	Z:-------------	AuxX
+17	mladým	AAFP3----1A----	Atr
+18	a	J^-------------	Coord
+19	rostoucím	AGFP3-----A----	Atr
+20	společnostem	NNFP3-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln95048-163-p2s2
+1	Obchodování	NNNS1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	AIM	NNIXX-----A---8	AtrAdv
+4	začne	VB-S---3P-AA---	Sb
+5	19	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	června	NNIS2-----A----	Adv
+8	tohoto	PDZS2----------	Atr
+9	roku	NNIS2-----A---1	Atr
+10	,	Z:-------------	AuxX
+11	vyplývá	VB-S---3P-AA---	Pred
+12	ze	RV--2----------	AuxP
+13	zprávy	NNFS2-----A----	Obj
+14	burzy	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95048-163-p3s1
+1	AIM	NNIXX-----A---8	Sb
+2	nabídne	VB-S---3P-AA---	Pred
+3	dynamickým	AAFP3----1A----	Atr
+4	firmám	NNFP3-----A----	Obj
+5	nový	AAIS4----1A----	Atr
+6	potenciál	NNIS4-----A----	Obj
+7	růstu	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	příležitost	NNFS4-----A----	Obj
+10	k	RR--3----------	AuxP
+11	získání	NNNS3-----A----	Atr
+12	kapitálu	NNIS2-----A----	Atr
+13	a	J^-------------	Coord
+14	zvýšení	NNNS4-----A----	Obj
+15	jejich	PSXXXXP3-------	Atr
+16	veřejného	AAIS2----1A----	Atr
+17	image	NNIXX-----A----	Atr
+18	prostřednictvím	NNNS7-----A----	AuxP
+19	obchodování	NNNS2-----A----	Atr
+20	jejich	PSXXXXP3-------	Atr
+21	akcií	NNFP2-----A----	Atr
+22	na	RR--6----------	AuxP
+23	regulovaném	AAIS6----1A----	Atr
+24	trhu	NNIS6-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95048-163-p3s2
+1	AIM	NNIXX-----A---8	Sb
+2	jako	J,-------------	AuxY
+3	řádně	Dg-------1A----	Adv
+4	regulovaný	AAIS1----1A----	Atr
+5	trh	NNIS1-----A----	Atv
+6	londýnské	AAFS2----1A----	Atr
+7	burzy	NNFS2-----A----	Atr
+8	zajistí	VB-S---3P-AA---	Pred
+9	investorům	NNMP3-----A----	Obj
+10	nezbytnou	AAFS4----1N----	Atr
+11	ochranu	NNFS4-----A----	Obj
+12	a	J^-------------	Coord
+13	důvěru	NNFS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	současně	Dg-------1A----	Adv
+16	však	J^-------------	Coord
+17	umožní	VB-S---3P-AA---	Pred
+18	firmám	NNFP3-----A----	Obj
+19	,	Z:-------------	AuxX
+20	které	P4FP1----------	Sb
+21	nemohou	VB-P---3P-NA--1	Atr
+22	vstoupit	Vf--------A----	Obj
+23	na	RR--4----------	AuxP
+24	hlavní	AAIS4----1A----	Atr
+25	trh	NNIS4-----A----	Adv
+26	,	Z:-------------	AuxX
+27	větší	AAFS4----2A----	Atr
+28	možnost	NNFS4-----A----	Obj
+29	přístupu	NNIS2-----A----	Atr
+30	ke	RV--3----------	AuxP
+31	kapitálu	NNIS3-----A----	Atr
+32	s	RR--7----------	AuxP
+33	nižšími	AAIP7----2A----	Atr
+34	náklady	NNIP7-----A----	AtrAtr
+35	.	Z:-------------	AuxK
+
+ln95048-163-p4s1
+1	AIM	NNIXX-----A---8	Sb
+2	bude	VB-S---3F-AA---	Pred
+3	odděleným	AAIS7----1A----	Atr
+4	trhem	NNIS7-----A----	Pnom
+5	burzy	NNFS2-----A----	Atr
+6	s	RR--7----------	AuxP
+7	vlastní	AAFS7----1A----	Atr
+8	identitou	NNFS7-----A----	Atr
+9	a	J^-------------	Coord
+10	managementem	NNIS7-----A----	Atr
+11	,	Z:-------------	AuxX
+12	regulován	VsYS---XX-AP---	Pred
+13	však	J^-------------	Coord
+14	bude	VB-S---3F-AA---	AuxV
+15	burzovním	AANS7----1A----	Atr
+16	oddělením	NNNS7-----A----	Adv
+17	pro	RR--4----------	AuxP
+18	kontrolu	NNFS4-----A----	Atr
+19	a	J^-------------	Coord
+20	dohled	NNIS4-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95048-163-p4s2
+1	Vstup	NNIS1-----A----	Sb
+2	firem	NNFP2-----A----	Atr
+3	na	RR--4----------	AuxP
+4	AIM	NNIXX-----A---8	Atr
+5	bude	VB-S---3F-AA---	AuxV
+6	podmíněn	VsYS---XX-AP---	Pred
+7	předložením	NNNS7-----A----	Obj
+8	řádného	AAIS2----1A----	Atr
+9	prospektu	NNIS2-----A----	Atr
+10	a	J^-------------	Coord
+11	dalších	AAFP2----1A----	Atr
+12	požadovaných	AAFP2----1A----	Atr
+13	informací	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95048-163-p5s1
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	oficiálního	AAIS2----1A----	Atr
+5	trhu	NNIS2-----A----	Adv
+6	nebude	VB-S---3F-NA---	AuxV
+7	mít	Vf--------A----	Pred
+8	AIM	NNIXX-----A---8	Sb
+9	limity	NNIP4-----A----	Obj
+10	nejnižší	AAFS2----3A----	Atr
+11	tržní	AAFS2----1A----	Atr
+12	kapitalizace	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	délky	NNFS2-----A----	Atr
+15	historie	NNFS2-----A----	Atr
+16	firmy	NNFS2-----A----	Atr
+17	nebo	J^-------------	Coord
+18	podílu	NNIS2-----A----	Atr
+19	akcií	NNFP2-----A----	Atr
+20	ve	RV--6----------	AuxP
+21	veřejných	AAFP6----1A----	Atr
+22	rukou	NNFP6-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95048-163-p5s2
+1	Každá	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	muset	Vf--------A----	Pred
+5	jmenovat	Vf--------A----	Obj
+6	svého	P8MS4----------	Atr
+7	poradce	NNMS4-----A----	Obj
+8	a	J^-------------	Coord
+9	brokera	NNMS4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	kteří	P4MP1----------	Sb
+12	jí	PPFS3--3-------	Obj
+13	budou	VB-P---3F-AA---	AuxV
+14	pomáhat	Vf--------A----	Atr
+15	při	RR--6----------	AuxP
+16	plnění	NNNS6-----A----	Adv
+17	požadavků	NNIP2-----A----	Atr
+18	burzy	NNFS2-----A----	Atr
+19	a	J^-------------	Coord
+20	v	RR--6----------	AuxP
+21	likviditě	NNFS6-----A----	Adv
+22	obchodů	NNIP2-----A----	Atr
+23	s	RR--7----------	AuxP
+24	jejími	PSXP7FS3-------	Atr
+25	akciemi	NNFP7-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln95048-163-p6s1
+1	Firmy	NNFP1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	jejichž	P1XXXXP3-------	Atr
+4	akcie	NNFP1-----A----	Sb
+5	se	P7-X4----------	AuxR
+6	budou	VB-P---3F-AA---	AuxV
+7	obchodovat	Vf--------A----	Atr
+8	na	RR--6----------	AuxP
+9	AIM	NNIXX-----A---8	Adv
+10	,	Z:-------------	AuxX
+11	budou	VB-P---3F-AA---	AuxV
+12	muset	Vf--------A----	Pred
+13	dodržovat	Vf--------A----	Obj
+14	závazky	NNIP4-----A----	Obj
+15	emitenta	NNMS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	pokud	J,-------------	AuxC
+18	jde	VB-S---3P-AA---	Adv
+19	o	RR--4----------	AuxP
+20	promptní	AANS4----1A----	Atr
+21	zveřejňování	NNNS4-----A----	Obj
+22	cenově	Dg-------1A----	Adv
+23	senzitivních	AAFP2----1A----	Atr
+24	informací	NNFP2-----A----	Atr
+25	prostřednictvím	NNNS7-----A----	AuxP
+26	tiskové	AAFS2----1A----	Atr
+27	služby	NNFS2-----A----	Atr
+28	burzy	NNFS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln95048-163-p6s2
+1	Dále	Db------------1	Adv
+2	musí	VB-P---3P-AA--1	Pred
+3	uveřejňovat	Vf--------A----	Obj
+4	auditované	AAIP4----1A----	Atr
+5	výroční	AANS4----1A----	Atr
+6	a	J^-------------	Coord
+7	neauditované	AAIP4----1N----	Atr
+8	průběžné	AAIP4----1A----	Atr
+9	výsledky	NNIP4-----A----	Obj
+10	hospodaření	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95048-163-p6s3
+1	Informace	NNFP4-----A----	Obj
+2	stačí	VB-S---3P-AA---	Pred
+3	zasílat	Vf--------A----	Sb
+4	elektronickým	AAIS7----1A----	Atr
+5	přenosem	NNIS7-----A----	Adv
+6	na	RR--4----------	AuxP
+7	burzu	NNFS4-----A----	Adv
+8	,	Z:-------------	Coord
+9	nevyžaduje	VB-S---3P-NA---	Pred
+10	se	P7-X4----------	AuxR
+11	vydání	NNNS1-----A----	Sb
+12	oběžníku	NNIS2-----A----	Atr
+13	pro	RR--4----------	AuxP
+14	akcionáře	NNMP4-----A----	Atr
+15	.	Z:-------------	AuxK
+

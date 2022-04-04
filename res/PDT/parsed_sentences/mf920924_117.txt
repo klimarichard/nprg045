@@ -1,0 +1,124 @@
+mf920924-117-p1s1
+1	Žádná	PWFS1----------	Atr
+2	špionáž	NNFS1-----A----	ExD
+3	proti	RR--3----------	AuxP
+4	Budapešti	NNFS3-----A----	Atr
+
+mf920924-117-p2s1
+1	Bratislava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920924-117-p2s2
+1	V	RR--6----------	AuxP
+2	resortu	NNIS6-----A----	Adv
+3	ministerstva	NNNS2-----A----	Atr
+4	vnitra	NNNS2-----A----	Atr
+5	SR	NNFXX-----A---8	Atr
+6	nejsou	VB-P---3P-NA---	AuxV
+7	podle	RR--2----------	AuxP
+8	jeho	PSXXXZS3-------	Atr
+9	mluvčího	NNMS2-----A----	Atr
+10	Stanislava	NNMS2-----A----	Atr
+11	Rybana	NNMS2-----A----	Adv
+12	začleněny	VsTP---XX-AP---	Pred
+13	žádné	PWFP1----------	Atr
+14	instituce	NNFP1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	které	P4FP1----------	Sb
+17	by	Vc-------------	AuxV
+18	plnily	VpTP---XR-AA---	Atr
+19	rozvědné	AAIP4----1A----	Atr
+20	úkoly	NNIP4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+mf920924-117-p2s3
+1	Jak	Db-------------	AuxC
+2	včera	Db-------------	Adv
+3	řekl	VpYS---XR-AA---	Adv
+4	,	Z:-------------	AuxX
+5	rozvědka	NNFS1-----A----	Sb
+6	a	J^-------------	Coord
+7	kontrarozvědka	NNFS1-----A----	Sb
+8	patří	VB-S---3P-AA---	Pred
+9	do	RR--2----------	AuxP
+10	kompetence	NNFS2-----A----	Obj
+11	federálního	AANS2----1A----	Atr
+12	ministerstva	NNNS2-----A----	Atr
+13	vnitra	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920924-117-p2s4
+1	S	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Ryban	NNMS1-----A----	Sb
+4	tak	Db-------------	Adv
+5	reagoval	VpYS---XR-AA---	Pred
+6	na	RR--4----------	AuxP
+7	prohlášení	NNNS4-----A----	Obj
+8	maďarského	AAMS2----1A----	Atr
+9	ministra	NNMS2-----A----	Atr
+10	bez	RR--2----------	AuxP
+11	portfeje	NNIS2-----A----	Atr
+12	pověřeného	AAMS2----1A----	Atr
+13	dozorem	NNIS7-----A----	Adv
+14	nad	RR--7----------	AuxP
+15	maďarskými	AAFP7----1A----	Atr
+16	tajnými	AAFP7----1A----	Atr
+17	službami	NNFP7-----A----	Atr
+18	Tibora	NNMS2-----A----	Atr
+19	Füzese	NNMS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	který	P4YS1----------	Sb
+22	v	RR--4----------	AuxP
+23	pondělí	NNNS4-----A----	Adv
+24	uvedl	VpYS---XR-AA---	Atr
+25	,	Z:-------------	AuxX
+26	že	J,-------------	AuxC
+27	"	Z:-------------	AuxG
+28	Slovensko	NNNS1-----A----	Sb
+29	intenzívně	Dg-------1A----	Adv
+30	buduje	VB-S---3P-AA---	Obj
+31	své	P8FP4---------1	Atr
+32	špionážní	AAFP4----1A----	Atr
+33	sítě	NNFP4-----A----	Obj
+34	a	J^-------------	Coord
+35	v	RR--6----------	AuxP
+36	centru	NNNS6-----A----	Adv
+37	jejich	PSXXXXP3-------	Atr
+38	pozornosti	NNFS2-----A----	Atr
+39	je	VB-S---3P-AA---	Obj
+40	Maďarsko	NNNS1-----A----	Sb
+41	"	Z:-------------	AuxG
+42	.	Z:-------------	AuxK
+
+mf920924-117-p2s5
+1	"	Z:-------------	AuxG
+2	Nepochybuji	VB-S---1P-NA--1	Obj
+3	o	RR--6----------	AuxP
+4	tom	PDZS6----------	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	kdyby	J,-------------	AuxC
+8	někdo	PZM-1----------	Sb
+9	na	RR--6----------	AuxP
+10	Slovensku	NNNS6-----A----	AtrAdv
+11	takovouto	PDFS4----------	Atr
+12	instituci	NNFS4-----A----	Obj
+13	budoval	VpYS---XR-AA---	Adv
+14	,	Z:-------------	AuxX
+15	MV	NNNXX-----A---8	Sb
+16	SR	NNFXX-----A---8	Atr
+17	by	Vc-------------	AuxV
+18	o	RR--6----------	AuxP
+19	tom	PDZS6----------	AtrAdv
+20	informace	NNFP4-----A----	Obj
+21	jistě	Dg-------1A----	Adv
+22	mělo	VpNS---XR-AA---	Atr
+23	,	Z:-------------	AuxX
+24	"	Z:-------------	AuxG
+25	dodal	VpYS---XR-AA---	Pred
+26	S	NNMXX-----A---8	Atr
+27	.	Z:-------------	AuxG
+28	Ryban	NNMS1-----A----	Sb
+29	.	Z:-------------	AuxK
+

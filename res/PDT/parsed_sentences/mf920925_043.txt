@@ -1,0 +1,94 @@
+mf920925-043-p1s1
+1	Kanál	NNIS1-----A----	ExD
+2	versus	RR--1----------	AuxP
+3	dráha	NNFS1-----A----	ExD
+
+mf920925-043-p2s1
+1	Otevření	NNNS1-----A----	Sb
+2	3500	C=-------------	Adv
+3	km	NNIXX-----A---8	Atr
+4	dlouhé	AAFS2----1A----	Atr
+5	vodní	AAFS2----1A----	Atr
+6	cesty	NNFS2-----A----	Atr
+7	mezi	RR--7----------	AuxP
+8	Rýnem	NNIS7-----A----	Atr
+9	a	J^-------------	Coord
+10	Dunajem	NNIS7-----A----	Atr
+11	představuje	VB-S---3P-AA---	Pred
+12	velkou	AAFS4----1A----	Atr
+13	konkurenci	NNFS4-----A----	Obj
+14	pro	RR--4----------	AuxP
+15	železnici	NNFS4-----A----	Atr
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	nemůže	VB-S---3P-NA---	Atr
+19	soutěžit	Vf--------A----	Obj
+20	s	RR--7----------	AuxP
+21	lacinou	AAFS7----1A----	Atr
+22	lodní	AAFS7----1A----	Atr
+23	dopravou	NNFS7-----A----	Obj
+24	.	Z:-------------	AuxK
+
+mf920925-043-p2s2
+1	Její	PSZS1FS3-------	Atr
+2	užití	NNNS1-----A----	Sb
+3	stojí	VB-S---3P-AA---	Pred
+4	za	RR--4----------	AuxP
+5	tunokilometr	NNIS4-----A----	Atr
+6	3.3	C=-------------	Obj
+7	feniku	NNIS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	zatímco	J,-------------	AuxC
+10	dráha	NNFS1-----A----	Sb
+11	vyžaduje	VB-S---3P-AA---	Adv
+12	12.3	C=-------------	Obj
+13	feniku	NNIS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf920925-043-p2s3
+1	Šéf	NNMS1-----A----	Atr
+2	spolkových	AAFP2----1A----	Atr
+3	drah	NNFP2-----A----	Atr
+4	Heinz	NNMS1-----A----	Atr
+5	Dürr	NNMS1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	souvislosti	NNFS6-----A----	AuxP
+8	s	RR--7----------	AuxP
+9	otevřením	NNNS7-----A----	Adv
+10	cesty	NNFS2-----A----	Atr
+11	poznamenal	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	provozovatelé	NNMP1-----A----	Sb
+15	vodní	AAFS2----1A----	Atr
+16	dopravy	NNFS2-----A----	Atr
+17	neplatí	VB-P---3P-NA---	Obj
+18	daně	NNFP4-----A----	Obj
+19	z	RR--2----------	AuxP
+20	minerálních	AAIP2----1A----	Atr
+21	olejů	NNIP2-----A----	Atr
+22	a	J^-------------	Coord
+23	nepodílejí	VB-P---3P-NA---	Obj
+24	se	P7-X4----------	AuxT
+25	na	RR--6----------	AuxP
+26	nemalých	AAIP6----1N----	Atr
+27	nákladech	NNIP6-----A----	Obj
+28	vodních	AAFP2----1A----	Atr
+29	cest	NNFP2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+mf920925-043-p2s4
+1	V	RR--6----------	AuxP
+2	takovém	PDZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	by	Vc-------------	AuxV
+5	se	P7-X4----------	AuxR
+6	dopravní	AAIP1----1A----	Atr
+7	náklady	NNIP1-----A----	Sb
+8	vyrovnaly	VpTP---XR-AA---	Obj
+9	,	Z:-------------	AuxX
+10	uvedl	VpYS---XR-AA---	Pred
+11	Heinz	NNMS1-----A----	Atr
+12	Dürr	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+

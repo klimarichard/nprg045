@@ -1,0 +1,272 @@
+ln94206-15-p1s1
+1	Z	RR--2----------	AuxP
+2	okresů	NNIP2-----A----	ExD
+
+ln94206-15-p2s1A
+1	Příbram	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-15-p2s1B
+1	Příbramská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	Pansy	NNNXX-----A----	Atr
+4	-	Z:-------------	AuxG
+5	Roli	NNNXX-----A----	Atr
+6	ve	RV--6----------	AuxP
+7	svých	P8XP6----------	Atr
+8	chráněných	AAFP6----1A----	Atr
+9	dílnách	NNFP6-----A----	Adv
+10	vytvořila	VpQW---XR-AA---	Pred
+11	pracovní	AAFP4----1A----	Atr
+12	příležitosti	NNFP4-----A----	Obj
+13	až	TT-------------	AuxZ
+14	pro	RR--4----------	AuxP
+15	25	C=-------------	Atr
+16	zdravotně	Dg-------1A----	Adv
+17	postižených	AAMP2----1A----	Atr
+18	občanů	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94206-15-p2s2
+1	Podle	RR--2----------	AuxP
+2	vedoucího	NNMS2-----A----	Atr
+3	odboru	NNIS2-----A----	Atr
+4	trhu	NNIS2-----A----	Atr
+5	práce	NNFS2-----A----	Atr
+6	Úřadu	NNIS2-----A----	Atr
+7	práce	NNFS2-----A----	Atr
+8	Příbram	NNFS1-----A----	Atr
+9	Milana	NNMS2-----A----	Atr
+10	Cízla	NNMS2-----A----	Adv
+11	je	VB-S---3P-AA---	Pred
+12	v	RR--6----------	AuxP
+13	dílně	NNFS6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	která	P4FS1----------	Sb
+16	má	VB-S---3P-AA---	Atr
+17	v	RR--6----------	AuxP
+18	současné	AAFS6----1A----	Atr
+19	době	NNFS6-----A----	Adv
+20	práci	NNFS4-----A----	Obj
+21	pro	RR--4----------	AuxP
+22	11	C=-------------	Atr
+23	lidí	NNMP2-----A----	Atr
+24	s	RR--7----------	AuxP
+25	těžším	AANS7----2A----	Atr
+26	zdravotním	AANS7----1A----	Atr
+27	postižením	NNNS7-----A----	Atr
+28	,	Z:-------------	AuxX
+29	zatím	Db-------------	Adv
+30	zaměstnáno	VsNS---XX-AP---	Pnom
+31	devět	Cn-S1----------	Sb
+32	osob	NNFP2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94206-15-p3s1
+1	Díky	RR--3----------	AuxP
+2	pochopení	NNNS3-----A----	Adv
+3	městského	AAIS2----1A----	Atr
+4	úřadu	NNIS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	firmě	NNFS3-----A----	Obj
+8	letos	Db-------------	Adv
+9	zdarma	Db-------------	Adv
+10	pronajal	VpYS---XR-AA---	Atr
+11	část	NNFS4-----A----	Obj
+12	prostor	NNFP2-----A----	Atr
+13	bývalých	AAFP2----1A----	Atr
+14	městských	AAFP2----1A----	Atr
+15	jeslí	NNFP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	tady	Db-------------	Adv
+18	v	RR--6----------	AuxP
+19	červenci	NNIS6-----A----	Adv
+20	s	RR--7----------	AuxP
+21	minimálními	AAFP7----1A----	Atr
+22	úpravami	NNFP7-----A----	Adv
+23	otevřeli	VpMP---XR-AA---	Pred
+24	šicí	AAFS4----1A----	Atr
+25	dílnu	NNFS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+ln94206-15-p3s2
+1	Zaměstnanci	NNMP1-----A----	Sb
+2	šijí	VB-P---3P-AA--1	Pred
+3	pracovní	AAIP4----1A----	Atr
+4	oděvy	NNIP4-----A----	Obj
+5	,	Z:-------------	Coord
+6	jednoduché	AAIP4----1A----	Atr
+7	výrobky	NNIP4-----A----	Obj
+8	pro	RR--4----------	AuxP
+9	nemocnice	NNFP4-----A----	Atr
+10	(	Z:-------------	AuxG
+11	např	Db------------8	Apos
+12	.	Z:-------------	AuxG
+13	roušky	NNFP4-----A----	Obj
+14	)	Z:-------------	AuxG
+15	,	Z:-------------	AuxX
+16	opravují	VB-P---3P-AA---	Pred
+17	nemocniční	AAIS4----1A----	Atr
+18	lůžkový	AAIS4----1A----	Atr
+19	materiál	NNIS4-----A----	Obj
+20	apod	Db------------8	Coord
+21	.	Z:-------------	AuxG
+
+ln94206-15-p3s3
+1	Jednorázově	Dg-------1A----	Adv
+2	dotuje	VB-S---3P-AA---	Pred
+3	úřad	NNIS1-----A----	Sb
+4	práce	NNFS2-----A----	Atr
+5	jedno	ClNS4----------	Atr
+6	takové	PDNS4----------	Atr
+7	pracovní	AANS4----1A----	Atr
+8	místo	NNNS4-----A----	Obj
+9	60	C=-------------	Atr
+10	tisíci	NNIP7-----A----	Adv
+11	Kč	NNFXX-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94206-15-p4s1
+1	Dalších	AAMP2----1A----	Atr
+2	25	C=-------------	Obj
+3	lidí	NNMP2-----A----	Atr
+4	s	RR--7----------	AuxP
+5	těžším	AANS7----2A----	Atr
+6	zdravotním	AANS7----1A----	Atr
+7	a	J^-------------	Coord
+8	mentálním	AANS7----1A----	Atr
+9	postižením	NNNS7-----A----	Atr
+10	zaměstná	VB-S---3P-AA---	Pred
+11	příbramská	AAFS1----1A----	Atr
+12	firma	NNFS1-----A----	Sb
+13	Modrá	AAFS1----1A----	Atr
+14	hvězda	NNFS1-----A----	Atr
+15	Tamp	NNFP2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	chráněné	AAFS6----1A----	Atr
+18	dílně	NNFS6-----A----	Adv
+19	,	Z:-------------	AuxX
+20	kterou	P4FS4----------	Obj
+21	otevře	VB-S---3P-AA---	Atr
+22	ve	RV--6----------	AuxP
+23	druhém	CrIS6----------	Atr
+24	pavilonu	NNIS6-----A----	Adv
+25	jeslí	NNFP2-----A----	Atr
+26	na	RR--4----------	AuxP
+27	podzim	NNIS4-----A----	Adv
+28	.	Z:-------------	AuxK
+
+ln94206-15-p4s2
+1	Budou	VB-P---3F-AA---	AuxV
+2	se	P7-X4----------	AuxR
+3	tady	Db-------------	Adv
+4	provádět	Vf--------A----	Pred
+5	drobné	AAFP1----1A----	Atr
+6	montáže	NNFP1-----A----	Sb
+7	plastových	AAIP2----1A----	Atr
+8	výrobků	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94206-15-p5s1A
+1	Kolín	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-15-p5s1B
+1	Ke	RV--3----------	AuxP
+2	konci	NNIS3-----A----	Adv
+3	minulého	AAIS2----1A----	Atr
+4	týdne	NNIS2-----A----	Atr
+5	evidoval	VpYS---XR-AA---	Pred
+6	kolínský	AAIS1----1A----	Atr
+7	úřad	NNIS1-----A----	Sb
+8	práce	NNFS2-----A----	Atr
+9	185	C=-------------	Obj
+10	uchazečů	NNMP2-----A----	Atr
+11	o	RR--4----------	AuxP
+12	zaměstnání	NNNS4-----A----	Atr
+13	z	RR--2----------	AuxP
+14	řad	NNFP2-----A----	Atr
+15	mladistvých	AAMP2----1A----	Atr
+16	a	J^-------------	Coord
+17	absolventů	NNMP2-----A----	Atr
+18	škol	NNFP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94206-15-p5s2
+1	Podle	RR--2----------	AuxP
+2	Miluše	NNFS2-----A----	Atr
+3	Luňákové	NNFS2-----A----	Adv
+4	z	RR--2----------	AuxP
+5	odboru	NNIS2-----A----	Atr
+6	trhu	NNIS2-----A----	Atr
+7	práce	NNFS2-----A----	Atr
+8	však	J^-------------	Coord
+9	největší	AAIS4----3A----	Atr
+10	nápor	NNIS4-----A----	Obj
+11	žadatelů	NNMP2-----A----	Atr
+12	očekávají	VB-P---3P-AA---	Pred
+13	v	RR--6----------	AuxP
+14	následujících	AGIP6-----A----	Atr
+15	dvou	ClXP6----------	Atr
+16	týdnech	NNIP6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94206-15-p6s1
+1	Úřad	NNIS1-----A----	Sb
+2	práce	NNFS2-----A----	Atr
+3	kromě	RR--2----------	AuxP
+4	praktikantských	AANP2----1A----	Atr
+5	míst	NNNP2-----A----	Adv
+6	nabízí	VB-S---3P-AA---	Pred
+7	i	J^-------------	AuxZ
+8	rekvalifikační	AAIP4----1A----	Atr
+9	kurzy	NNIP4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94206-15-p6s2
+1	Osvědčil	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	způsob	NNIS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	uchazeč	NNMS1-----A----	Sb
+7	o	RR--4----------	AuxP
+8	zaměstnání	NNNS4-----A----	Atr
+9	na	RR--6----------	AuxP
+10	základě	NNIS6-----A----	AuxP
+11	příslibu	NNIS2-----A----	Adv
+12	zaměstnavatele	NNMS2-----A----	Atr
+13	absolvuje	VB-S---3P-AA---	Atr
+14	už	Db-------------	AuxZ
+15	konkrétní	AAFS4----1A----	Atr
+16	rekvalifikaci	NNFS4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln94206-15-p6s3
+1	Kromě	RR--2----------	AuxP
+2	oborů	NNIP2-----A----	Adv
+3	,	Z:-------------	AuxX
+4	jako	J,-------------	AuxY
+5	je	VB-S---3P-AA---	Apos
+6	například	Db-------------	AuxZ
+7	účetnictví	NNNS1-----A----	Adv
+8	,	Z:-------------	AuxX
+9	práce	NNFS1-----A----	Adv
+10	s	RR--7----------	AuxP
+11	počítačem	NNIS7-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kuchař	NNMS1-----A----	Adv
+14	a	J^-------------	Coord
+15	servírka	NNFS1-----A----	Adv
+16	,	Z:-------------	AuxX
+17	zajistí	VB-S---3P-AA---	Pred
+18	úřad	NNIS1-----A----	Sb
+19	také	Db-------------	Adv
+20	individuální	AANS4----1A----	Atr
+21	proškolení	NNNS4-----A----	Obj
+22	podle	RR--2----------	AuxP
+23	speciálních	AAIP2----1A----	Atr
+24	požadavků	NNIP2-----A----	Atr
+25	.	Z:-------------	AuxK
+

@@ -1,0 +1,337 @@
+ln94211-106-p1s1
+1	Koncert	NNIS1-----A----	Sb
+2	Rollins	NNMS1-----A----	Atr
+3	Bandu	NNIS2-----A----	Atr
+4	zahájí	VB-S---3P-AA---	Pred
+5	podzimní	AAIS4----1A----	Atr
+6	program	NNIS4-----A----	Obj
+7	agentury	NNFS2-----A----	Atr
+8	10	C=-------------	Atr
+9	:	Z:-------------	Coord
+10	15	C=-------------	Atr
+
+ln94211-106-p2s1
+1	Rocker	NNMS1-----A----	Atr
+2	Henry	NNMS1-----A----	Atr
+3	Rollins	NNMS1-----A----	Sb
+4	se	RV--7----------	AuxP
+5	svou	P8FS7---------1	Atr
+6	doprovodnou	AAFS7----1A----	Atr
+7	skupinou	NNFS7-----A----	Adv
+8	vystoupí	VB-S---3P-AA---	Pred
+9	v	RR--4----------	AuxP
+10	neděli	NNFS4-----A----	Adv
+11	11	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	září	NNNS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Lucerně	NNFS6-----A----	Adv
+16	na	RR--4----------	AuxP
+17	pozvání	NNNS4-----A----	Adv
+18	agentury	NNFS2-----A----	Atr
+19	10	C=-------------	Atr
+20	:	Z:-------------	Coord
+21	15	C=-------------	Atr
+22	Promotion	NNFXX-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94211-106-p2s2
+1	Jeho	PSXXXZS3-------	Atr
+2	poslední	AANS1----1A----	Atr
+3	album	NNNS1-----A----	Sb
+4	Weight	NNFXX-----A----	Atr
+5	(	Z:-------------	AuxG
+6	vydává	VB-S---3P-AA---	Atr
+7	jej	PPZS4--3------2	Obj
+8	BMG	NNFXX-----A---8	Sb
+9	)	Z:-------------	AuxG
+10	je	VB-S---3P-AA---	Pred
+11	příznačné	AANS1----1A----	Pnom
+12	velmi	Db-------------	Adv
+13	agresivními	AAFP7----1A----	Atr
+14	a	J^-------------	Coord
+15	intenzivními	AAFP7----1A----	Atr
+16	melodiemi	NNFP7-----A----	Obj
+17	i	J^-------------	Coord
+18	texty	NNIP7-----A----	Obj
+19	a	J^-------------	Coord
+20	chrleným	AAIS7----1A----	Atr
+21	Rollinsovým	AUIS7M---------	Atr
+22	vokálem	NNIS7-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94211-106-p2s3
+1	Při	RR--6----------	AuxP
+2	koncertech	NNIP6-----A----	Adv
+3	jsou	VB-P---3P-AA---	Pred
+4	jeho	PSXXXZS3-------	Atr
+5	drsné	AAFP1----1A----	Atr
+6	katarze	NNFP1-----A----	Sb
+7	ještě	Db-------------	Adv
+8	energičtější	AAFP1----2A----	Pnom
+9	,	Z:-------------	AuxX
+10	divočejší	AAFP1----2A----	Pnom
+11	a	J^-------------	Coord
+12	plamennější	AAFP1----2A----	Pnom
+13	.	Z:-------------	AuxK
+
+ln94211-106-p3s1
+1	Značnou	AAFS4----1A----	Atr
+2	pozornost	NNFS4-----A----	Obj
+3	si	P7-X3----------	AuxT
+4	zaslouží	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	předkapela	NNFS1-----A----	Sb
+7	Rollins	NNMS1-----A----	Atr
+8	Bandu	NNIS2-----A----	Atr
+9	-	Z:-------------	Apos
+10	britská	AAFS1----1A----	Atr
+11	rap	A2--------A----	Atr
+12	-	Z:-------------	Coord
+13	metalová	AAFS1----1A----	Atr
+14	formace	NNFS1-----A----	Sb
+15	Senser	NNMPX-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln94211-106-p3s2
+1	Její	PSFSXFS3-------	Atr
+2	tvorba	NNFS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	vystavěna	VsQW---XX-AP---	Pnom
+5	na	RR--6----------	AuxP
+6	úsečně	Dg-------1A----	Adv
+7	nabroušených	AAIP6----1A----	Atr
+8	šlezích	NNIP6-----A----	Obj
+9	žhavé	AAFS2----1A----	Atr
+10	kytary	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	skandovaně	Dg-------1A----	Adv
+13	odsekávaném	AAIS6----1A----	Atr
+14	rapu	NNIS6-----A----	Obj
+15	a	J^-------------	Coord
+16	tvrdé	AAFS6----1A----	Atr
+17	taneční	AAFS6----1A----	Atr
+18	rytmice	NNFS6-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94211-106-p3s3
+1	Od	RR--2----------	AuxP
+2	obdobných	AAFP2----1A----	Atr
+3	formací	NNFP2-----A----	Obj
+4	,	Z:-------------	AuxX
+5	které	P4FP1----------	Sb
+6	fúzují	VB-P---3P-AA---	Atr
+7	funky	Db-------------	Atr
+8	-	Z:-------------	AuxG
+9	rock	NNIS4-----A----	Obj
+10	s	RR--7----------	AuxP
+11	hip	AAXXX----1A----	Atr
+12	hopem	NNIS7-----A----	Obj
+13	,	Z:-------------	AuxX
+14	se	P7-X4----------	AuxT
+15	však	J^-------------	Coord
+16	Senser	NNMPX-----A----	Sb
+17	odlišují	VB-P---3P-AA---	Pred
+18	dlouhými	AAFP7----1A----	Atr
+19	,	Z:-------------	Coord
+20	tajemně	Dg-------1A----	Adv
+21	houkavými	AAFP7----1A----	Atr
+22	předehrami	NNFP7-----A----	Adv
+23	a	J^-------------	Coord
+24	využíváním	NNNS7-----A----	Adv
+25	počítačových	AAIP2----1A----	Atr
+26	i	J^-------------	Coord
+27	elektronických	AAIP2----1A----	Atr
+28	zvuků	NNIP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94211-106-p3s4
+1	Především	Db-------------	AuxZ
+2	však	J^-------------	Coord
+3	přítomností	NNFS7-----A----	ExD
+4	zpěvačky	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	flétnistky	NNFS2-----A----	Atr
+7	Kerstin	NNFXX-----A----	Atr
+8	Haighové	NNFS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	svým	P8ZS7----------	Atr
+12	hlasem	NNIS7-----A----	Adv
+13	dává	VB-S---3P-AA---	Atr
+14	řadě	NNFS3-----A----	Obj
+15	písní	NNFP2-----A----	Atr
+16	téměř	Db-------------	AuxZ
+17	exotický	AAIS4----1A----	Atr
+18	nádech	NNIS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94211-106-p3s5
+1	Debutové	AANS4----1A----	Atr
+2	album	NNNS4-----A----	Obj
+3	nazvané	AANS4----1A----	Atr
+4	Stacked	AAXXX----1A----	Atr
+5	Up	Db-------------	Obj
+6	u	RR--2----------	AuxP
+7	nás	PP-P2--1-------	Adv
+8	distribuuje	VB-S---3P-AA---	Pred
+9	PolyGram	NNIS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94211-106-p3s6
+1	Koncertem	NNIS7-----A----	Adv
+2	Henryho	NNMS2-----A----	Atr
+3	Rollinse	NNMS2-----A----	Atr
+4	a	J^-------------	Coord
+5	Senser	NNMPX-----A----	Atr
+6	podzimní	AAFP1----1A----	Atr
+7	aktivity	NNFP1-----A----	Sb
+8	10	C=-------------	Atr
+9	:	Z:-------------	Coord
+10	15	C=-------------	Atr
+11	Promotion	NNFXX-----A----	Atr
+12	zdaleka	Db-------------	Adv
+13	nekončí	VB-P---3P-NA---	Pred
+14	.	Z:-------------	AuxK
+
+ln94211-106-p3s7
+1	Jak	J,-------------	Adv
+2	včera	Db-------------	Adv
+3	sdělila	VpQW---XR-AA---	Pred
+4	LN	NNFPX-----A---8	Obj
+5	zástupkyně	NNFS1-----A----	Atr
+6	agentury	NNFS2-----A----	Atr
+7	Milena	NNFS1-----A----	Atr
+8	Palečková	NNFS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	na	RR--4----------	AuxP
+11	13	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	října	NNIS2-----A----	Adv
+14	je	VB-S---3P-AA---	Pred
+15	do	RR--2----------	AuxP
+16	pražské	AAFS2----1A----	Atr
+17	Lucerny	NNFS2-----A----	Adv
+18	přichystán	VsYS---XX-AP---	Pnom
+19	koncert	NNIS1-----A----	Sb
+20	americké	AAFS2----1A----	Atr
+21	punkové	AAFS2----1A----	Atr
+22	legendy	NNFS2-----A----	Atr
+23	Ramones	NNMS1-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94211-106-p3s8
+1	Ve	RV--6----------	AuxP
+2	spolupráci	NNFS6-----A----	Adv
+3	s	RR--7----------	AuxP
+4	Divadlem	NNNS7-----A----	Atr
+5	Archa	NNFS1-----A----	Atr
+6	agentura	NNFS1-----A----	Atr
+7	pořádá	VB-S---3P-AA---	Pred
+8	26	C=-------------	Atr
+9	.	Z:-------------	AuxG
+10	a	J^-------------	Coord
+11	27	C=-------------	Atr
+12	.	Z:-------------	AuxG
+13	října	NNIS2-----A----	Adv
+14	koncert	NNIS4-----A----	Obj
+15	Davida	NNMS2-----A----	Atr
+16	Byrneho	NNMS2-----A----	Atr
+17	,	Z:-------------	Apos
+18	zakladatele	NNMS2-----A----	Atr
+19	slavných	AAMP2----1A----	Atr
+20	Talking	AAXXX----1A----	Atr
+21	Heads	NNMPX-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94211-106-p3s9
+1	V	RR--6----------	AuxP
+2	polovině	NNFS6-----A----	Adv
+3	listopadu	NNIS2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	pódiu	NNNS6-----A----	Adv
+6	Lucerny	NNFS2-----A----	Atr
+7	vystoupí	VB-S---3P-AA---	Pred
+8	anglický	AAIS1----1A----	Atr
+9	objev	NNIS1-----A----	Sb
+10	Chumbawamba	NNFS1-----A----	Atr
+11	:	Z:-------------	Apos
+12	skupina	NNFS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	která	P4FS1----------	Sb
+15	si	P7-X3----------	AuxT
+16	letošním	AANS7----1A----	Atr
+17	albem	NNNS7-----A----	Adv
+18	Anarchy	NNFXX-----A----	Atr
+19	vysloužila	VpQW---XR-AA---	Atr
+20	pověst	NNFS4-----A----	Obj
+21	nejlepší	AAFS2----3A----	Atr
+22	popové	AAFS2----1A----	Atr
+23	kapely	NNFS2-----A----	Atr
+24	na	RR--6----------	AuxP
+25	světě	NNIS6-----A----	Adv
+26	.	Z:-------------	AuxK
+
+ln94211-106-p3s10
+1	Jako	J,-------------	AuxY
+2	předvánoční	AAIS4----1A----	Atr
+3	dárek	NNIS4-----A----	Atv
+4	(	Z:-------------	ExD
+5	15	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	prosince	NNIS2-----A----	ExD
+8	)	Z:-------------	ExD
+9	připravili	VpMP---XR-AA---	Pred
+10	10	C=-------------	Atr
+11	:	Z:-------------	Coord
+12	15	C=-------------	Atr
+13	Promotion	NNFXX-----A----	Sb
+14	koncert	NNIS4-----A----	Obj
+15	jižanských	AAMP2----1A----	Atr
+16	ZZ	AAXXX----1A---8	Atr
+17	Top	NNMPX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94211-106-p3s11
+1	Známá	AAFS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	již	Db-------------	AuxZ
+4	předskokanka	NNFS1-----A----	Sb
+5	R	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	E	AAXXX----1A---8	Atr
+8	.	Z:-------------	AuxG
+9	M	AAXXX----1A---8	Atr
+10	.	Z:-------------	AuxG
+11	,	Z:-------------	AuxX
+12	kteří	P4MP1----------	Sb
+13	se	P7-X4----------	AuxT
+14	objeví	VB-P---3P-AA---	Atr
+15	ve	RV--6----------	AuxP
+16	Sportovní	AAFS6----1A----	Atr
+17	hale	NNFS6-----A----	Adv
+18	26	C=-------------	Atr
+19	.	Z:-------------	AuxG
+20	března	NNIS2-----A----	Adv
+21	příštího	AAIS2----1A----	Atr
+22	roku	NNIS2-----A---1	Atr
+23	.	Z:-------------	AuxK
+
+ln94211-106-p3s12
+1	Bude	VB-S---3F-AA---	Pred
+2	jí	PPFS7--3-------	Pnom
+3	skvělá	AAFS1----1A----	Atr
+4	rocková	AAFS1----1A----	Atr
+5	písničkářka	NNFS1-----A----	Atr
+6	P	NNFXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	J	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Harvey	NNFXX-----A----	Sb
+11	.	Z:-------------	AuxK
+
+ln94211-106-p3s13
+1	(	Z:-------------	ExD
+2	tse	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

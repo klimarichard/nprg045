@@ -1,0 +1,125 @@
+ln94209-15-p1s1
+1	Papežova	AUFS1M---------	Atr
+2	cesta	NNFS1-----A----	Sb
+3	do	RR--2----------	AuxP
+4	Bosny	NNFS2-----A----	Atr
+5	není	VB-S---3P-NA---	Pred
+6	jistá	AAFS1----1A----	Pnom
+
+ln94209-15-p2s1A
+1	Vatikán	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94209-15-p2s1B
+1	Vatikán	NNIS1-----A----	Sb
+2	stále	Db-------------	Adv
+3	ještě	Db-------------	Adv
+4	očekává	VB-S---3P-AA---	Pred
+5	některá	PZNP4----------	Atr
+6	objasnění	NNNP4-----A----	Obj
+7	z	RR--2----------	AuxP
+8	Bosny	NNFS2-----A----	AtrAdv
+9	.	Z:-------------	AuxK
+
+ln94209-15-p2s2
+1	Teprve	Db-------------	AuxZ
+2	poté	Db-------------	Adv
+3	definitivně	Dg-------1A----	Adv
+4	rozhodne	VB-S---3P-AA---	Pred
+5	o	RR--6----------	AuxP
+6	záměru	NNIS6-----A----	Obj
+7	papeže	NNMS2-----A----	Atr
+8	navštívit	Vf--------A----	Atr
+9	tuto	PDFS4----------	Atr
+10	zemi	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln94209-15-p2s3
+1	Oznámil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	Piero	NNMS1-----A----	Atr
+5	Pennacchini	NNMS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	tiskové	AAFS2----1A----	Atr
+8	služby	NNFS2-----A----	Atr
+9	Svatého	AAIS2----1A----	Atr
+10	stolce	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94209-15-p2s4
+1	Upřesnil	VpYS---XR-AA---	Pred
+2	současně	Dg-------1A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	konečné	AANS1----1A----	Atr
+6	rozhodnutí	NNNS1-----A----	Sb
+7	prozatím	Db-------------	Adv
+8	neexistuje	VB-S---3P-NA---	Obj
+9	a	J^-------------	Coord
+10	cesta	NNFS1-----A----	Sb
+11	zůstává	VB-S---3P-AA---	Obj
+12	eventualitou	NNFS7-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94209-15-p2s5
+1	Pennacchini	NNMS1-----A----	Sb
+2	odkázal	VpYS---XR-AA---	Pred
+3	na	RR--4----------	AuxP
+4	papežovo	AUNS4M---------	Atr
+5	konstatování	NNNS4-----A----	Obj
+6	ze	RV--2----------	AuxP
+7	soboty	NNFS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	kdy	Db-------------	Adv
+10	Jan	NNMS1-----A----	Atr
+11	Pavel	NNMS1-----A----	Sb
+12	II	C}-------------	Atr
+13	.	Z:-------------	AuxG
+14	prohlásil	VpYS---XR-AA---	Atr
+15	:	Z:-------------	AuxG
+16	Doufám	VB-S---1P-AA---	Obj
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	odcestuji	VB-S---1P-AA--1	Obj
+20	do	RR--2----------	AuxP
+21	Sarajeva	NNNS2-----A----	Adv
+22	,	Z:-------------	AuxX
+23	budou	VB-P---3F-AA---	AuxV
+24	-	Z:-------------	AuxG
+25	li	TT-------------	AuxC
+26	dány	VsTP---XX-AP---	Adv
+27	obyvatelstvu	NNNS3-----A----	Obj
+28	dostatečné	AAFP1----1A----	Atr
+29	bezpečnostní	AAFP1----1A----	Atr
+30	záruky	NNFP1-----A----	Sb
+31	.	Z:-------------	AuxK
+
+ln94209-15-p2s6
+1	Nyní	Db-------------	Adv
+2	očekáváme	VB-P---1P-AA---	Obj
+3	odpovědi	NNFP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	uvedl	VpYS---XR-AA---	Pred
+6	Pennacchini	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	který	P4YS1----------	Sb
+9	zastupuje	VB-S---3P-AA---	Atr
+10	Joaquína	NNMS4-----A----	Atr
+11	Navarra	NNMS4-----A----	Atr
+12	-	Z:-------------	AuxG
+13	Wallse	NNMS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	jenž	PJYS1----------	Sb
+16	je	VB-S---3P-AA---	Atr
+17	na	RR--6----------	AuxP
+18	konferenci	NNFS6-----A----	Adv
+19	OSN	NNFXX-----A---8	Atr
+20	o	RR--6----------	AuxP
+21	populaci	NNFS6-----A----	Atr
+22	a	J^-------------	Coord
+23	rozvoji	NNIS6-----A----	Atr
+24	v	RR--6----------	AuxP
+25	Káhiře	NNFS6-----A----	AtrAdv
+26	.	Z:-------------	AuxK
+

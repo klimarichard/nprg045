@@ -1,0 +1,588 @@
+cmpr9415-043-p2s1
+1	Poradna	NNFS1-----A----	ExD
+
+cmpr9415-043-p3s1
+1	Ochrana	NNFS1-----A----	ExD
+2	před	RR--7----------	AuxP
+3	zloději	NNMP7-----A----	Atr
+
+cmpr9415-043-p4s1
+1	Pojišťovna	NNFS1-----A----	Sb
+2	pojistí	VB-S---3P-AA---	Pred
+3	můj	PSIS4-S1-------	Atr
+4	obchod	NNIS4-----A----	Obj
+5	proti	RR--3----------	AuxP
+6	vloupání	NNNS3-----A----	Adv
+7	pouze	Db-------------	AuxZ
+8	za	RR--2----------	AuxP
+9	podmínky	NNFS2-----A----	Adv
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	mám	VB-S---1P-AA---	Atr
+13	všechny	PLFP4----------	Atr
+14	venkovní	AAFP4----1A----	Atr
+15	prosklené	AAFP4----1A----	Atr
+16	plochy	NNFP4-----A----	Obj
+17	-	Z:-------------	Apos
+18	vchodové	AAFP4----1A----	Atr
+19	dveře	NNFP4-----A----	Obj
+20	a	J^-------------	Coord
+21	výlohy	NNFP4-----A----	Obj
+22	-	Z:-------------	AuxG
+23	zabezpečeny	VsTP---XX-AP---	Atv
+24	proti	RR--3----------	AuxP
+25	násilnému	AANS3----1A----	Atr
+26	vniknutí	NNNS3-----A----	Adv
+27	buď	J^-------------	AuxY
+28	ochrannou	AAFS7----1A----	Atr
+29	kovovou	AAFS7----1A----	Atr
+30	mříží	NNFS7-----A----	Adv
+31	,	Z:-------------	AuxX
+32	roletou	NNFS7-----A----	Adv
+33	,	Z:-------------	AuxX
+34	nebo	J^-------------	Coord
+35	bezpečnostní	AAFS7----1A----	Atr
+36	fólií	NNFS7-----A----	Adv
+37	.	Z:-------------	AuxK
+
+cmpr9415-043-p4s2
+1	Poraďte	Vi-P---2--A----	Pred
+2	mi	PH-S3--1-------	Obj
+3	,	Z:-------------	AuxX
+4	podle	RR--2----------	AuxP
+5	čeho	PQ--2----------	Adv
+6	se	P7-X4----------	AuxT
+7	mám	VB-S---1P-AA---	Obj
+8	při	RR--6----------	AuxP
+9	výběru	NNIS6-----A----	Adv
+10	některého	PZZS2----------	Atr
+11	z	RR--2----------	AuxP
+12	těchto	PDXP2----------	Atr
+13	druhů	NNIP2-----A----	Atr
+14	rozhodovat	Vf--------A----	Obj
+15	.	Z:-------------	AuxK
+
+cmpr9415-043-p5s1
+1	Michal	NNMS1-----A----	Atr
+2	Seifert	NNMS1-----A----	ExD
+3	,	Z:-------------	ExD
+4	Plzeň	NNFS1-----A----	ExD
+
+cmpr9415-043-p6s1
+1	Ochranná	AAFS1----1A----	Atr
+2	mříž	NNFS1-----A----	Sb
+3	ochrání	VB-S---3P-AA---	Pred
+4	vaši	PSFS4-P2-------	Atr
+5	prodejnu	NNFS4-----A----	Obj
+6	před	RR--7----------	AuxP
+7	násilným	AAIS7----1A----	Atr
+8	vnikem	NNIS7-----A----	Adv
+9	do	RR--2----------	AuxP
+10	prodejny	NNFS2-----A----	Atr
+11	poměrně	Dg-------1A----	Adv
+12	dobře	Dg-------1A----	Adv
+13	.	Z:-------------	AuxK
+
+cmpr9415-043-p6s2
+1	Neochrání	VB-S---3P-NA---	Pred
+2	však	J^-------------	Coord
+3	před	RR--7----------	AuxP
+4	rozbitím	NNNS7-----A----	Adv
+5	skla	NNNS2-----A----	Atr
+6	výlohy	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9415-043-p6s3
+1	Specializovaní	AAMP1----1A----	Atr
+2	zloději	NNMP1-----A---1	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	schopni	ACMP------A----	Pnom
+5	pomocí	RR--2----------	AuxP
+6	svých	P8XP2----------	Atr
+7	nástrojů	NNIP2-----A----	Adv
+8	vytáhnout	Vf--------A----	Obj
+9	vystavené	AANS4----1A----	Atr
+10	zboží	NNNS4-----A----	Obj
+11	i	J^-------------	AuxZ
+12	přes	RR--4----------	AuxP
+13	oka	NNNP4-----A----	Adv
+14	mříže	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9415-043-p6s4
+1	Mříž	NNFS4-----A----	Obj
+2	totiž	Db-------------	AuxY
+3	nelze	VB-S---3P-NA---	Pred
+4	udělat	Vf--------A----	Sb
+5	tak	Db-------------	Adv
+6	hustou	AAFS4----1A----	Atv
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	některé	PZIP1----------	Atr
+10	předměty	NNIP1-----A----	Sb
+11	nešly	VpTP---XR-NA---	Adv
+12	protáhnout	Vf--------A----	Obj
+13	oky	NNNP7-----A----	Adv
+14	mříže	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9415-043-p6s5
+1	Mříž	NNFS1-----A----	Sb
+2	také	Db-------------	Adv
+3	nemusí	VB-S---3P-NA---	Pred
+4	vždy	Db-------------	Adv
+5	působit	Vf--------A----	Obj
+6	esteticky	Dg-------1A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9415-043-p6s6
+1	V	RR--6----------	AuxP
+2	některých	PZXP6----------	Atr
+3	případech	NNIP6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	jedná	VB-S---3P-AA---	Atr
+6	-	Z:-------------	AuxG
+7	li	TT-------------	AuxC
+8	se	P7-X4----------	AuxT
+9	o	RR--4----------	AuxP
+10	obchod	NNIS4-----A----	Obj
+11	v	RR--6----------	AuxP
+12	historickém	AAIS6----1A----	Atr
+13	domě	NNIS6-----A----	Atr
+14	,	Z:-------------	AuxX
+15	mohou	VB-P---3P-AA--1	Pred
+16	být	Vf--------A----	Obj
+17	proti	RR--3----------	AuxP
+18	instalaci	NNFS3-----A----	Adv
+19	mříže	NNFS2-----A----	Atr
+20	i	J^-------------	AuxZ
+21	památkáři	NNMP1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+cmpr9415-043-p7s1
+1	Vytahovatelná	AAFS1----1A----	Atr
+2	roleta	NNFS1-----A----	Sb
+3	může	VB-S---3P-AA---	Pred
+4	být	Vf--------A----	Obj
+5	buď	J^-------------	AuxY
+6	plná	AAFS1----1A----	Pnom
+7	,	Z:-------------	AuxX
+8	nebo	J^-------------	Coord
+9	z	RR--2----------	AuxP
+10	ok	NNNP2-----A----	ExD
+11	jako	J,-------------	AuxY
+12	ochranná	AAFS1----1A----	Atr
+13	mříž	NNFS1-----A----	ExD
+14	.	Z:-------------	AuxK
+
+cmpr9415-043-p7s2
+1	Při	RR--6----------	AuxP
+2	rozhodování	NNNS6-----A----	Adv
+3	pro	RR--4----------	AuxP
+4	ni	P5FS4--3-------	Atr
+5	musíte	VB-P---2P-AA---	Pred
+6	mít	Vf--------A----	Obj
+7	na	RR--6----------	AuxP
+8	paměti	NNFS6-----A----	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	s	RR--7----------	AuxP
+12	ní	P5FS7--3-------	Obj
+13	musíte	VB-P---2P-AA---	Obj
+14	každý	AAIS4----1A----	Atr
+15	den	NNIS4-----A----	Adv
+16	alespoň	Db-------------	AuxZ
+17	dvakrát	Cv-------------	Adv
+18	manipulovat	Vf--------A----	Obj
+19	-	Z:-------------	Apos
+20	při	RR--6----------	AuxP
+21	ranním	AANS6----1A----	Atr
+22	vytažení	NNNS6-----A----	Adv
+23	a	J^-------------	Coord
+24	večerním	AANS6----1A----	Atr
+25	stažení	NNNS6-----A----	Adv
+26	.	Z:-------------	AuxK
+
+cmpr9415-043-p7s3
+1	Nechrání	VB-S---3P-NA---	Pred
+2	samozřejmě	Dg-------1A----	Adv
+3	v	RR--6----------	AuxP
+4	okamžiku	NNIS6-----A----	Adv
+5	vytažení	NNNS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9415-043-p7s4
+1	A	J^-------------	AuxY
+2	drzost	NNFS1-----A----	Sb
+3	zlodějů	NNMP2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	bohužel	TT-------------	AuxY
+6	bezbřehá	AAFS1----1A----	Pnom
+7	-	Z:-------------	Coord
+8	jsou	VB-P---3P-AA---	Pred
+9	známy	ACTP------A----	Pnom
+10	případy	NNIP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	kdy	Db-------------	Adv
+13	zloděj	NNMS1-----A----	Sb
+14	i	J^-------------	AuxZ
+15	přes	RR--4----------	AuxP
+16	den	NNIS4-----A----	Adv
+17	rozbije	VB-S---3P-AA---	Atr
+18	výlohu	NNFS4-----A----	Obj
+19	a	J^-------------	Coord
+20	ukradne	VB-S---3P-AA---	Atr
+21	z	RR--2----------	AuxP
+22	ní	P5FS2--3-------	Adv
+23	vystavené	AANS4----1A----	Atr
+24	zboží	NNNS4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+cmpr9415-043-p8s1
+1	Třetí	CrFS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	možností	NNFP2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	bezpečnostní	AAFP1----1A----	Atr
+6	fólie	NNFP1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+cmpr9415-043-p8s2
+1	Lepí	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	na	RR--4----------	AuxP
+4	sklo	NNNS4-----A----	Adv
+5	z	RR--2----------	AuxP
+6	vnitřku	NNIS2-----A----	Adv
+7	prodejny	NNFS2-----A----	Atr
+8	,	Z:-------------	Coord
+9	jsou	VB-P---3P-AA---	Pred
+10	odolné	AAFP1----1A----	Pnom
+11	i	J^-------------	AuxZ
+12	proti	RR--3----------	AuxP
+13	střelám	NNFP3-----A----	Obj
+14	z	RR--2----------	AuxP
+15	brokovnice	NNFS2-----A----	Atr
+16	nebo	J^-------------	Coord
+17	malorážky	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9415-043-p8s3
+1	Hodí	VB-S---3P-AA---	Adv
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	do	RR--2----------	AuxP
+5	výlohy	NNFS2-----A----	Adv
+6	se	P7-X4----------	AuxR
+7	kámen	NNIS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	sklo	NNNS1-----A----	Sb
+10	praskne	VB-S---3P-AA---	Pred
+11	-	Z:-------------	Coord
+12	vytvoří	VB-S---3P-AA---	Pred
+13	se	P7-X4----------	AuxT
+14	"	Z:-------------	AuxG
+15	pavouk	NNMS1-----A----	Sb
+16	"	Z:-------------	AuxG
+17	-	Z:-------------	AuxG
+18	,	Z:-------------	AuxX
+19	ale	J^-------------	Coord
+20	nevysype	VB-S---3P-NA---	Pred
+21	se	P7-X4----------	AuxT
+22	.	Z:-------------	AuxK
+
+cmpr9415-043-p8s4
+1	Sklo	NNNS1-----A----	Sb
+2	zůstává	VB-S---3P-AA---	Pred
+3	nalepené	AANS1----1A----	Obj
+4	na	RR--6----------	AuxP
+5	fólii	NNFS6-----A----	Adv
+6	a	J^-------------	Coord
+7	zloděj	NNMS1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	dovnitř	Db-------------	Adv
+10	nedostane	VB-S---3P-NA---	Pred
+11	.	Z:-------------	AuxK
+
+cmpr9415-043-p8s5
+1	Vedlejší	AAFS7----1A----	Atr
+2	výhodou	NNFS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	i	J^-------------	AuxZ
+7	bezpečnostní	AAFP1----1A----	Atr
+8	fólie	NNFP1-----A----	Sb
+9	jsou	VB-P---3P-AA---	Sb
+10	vybaveny	VsTP---XX-AP---	Pnom
+11	UV	AAXXX----1A----	Atr
+12	filtrem	NNIS7-----A----	Obj
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	zachytí	VB-S---3P-AA---	Atr
+16	až	TT-------------	AuxZ
+17	99	C=-------------	Obj
+18	%	Z:-------------	Atr
+19	UV	AAXXX----1A----	Atr
+20	záření	NNNS2-----A----	Obj
+21	,	Z:-------------	Coord
+22	čímž	PE--7----------	Adv
+23	zabraňuje	VB-S---3P-AA---	Atr
+24	nadměrnému	AANS3----1A----	Atr
+25	vybledávání	NNNS3-----A----	Obj
+26	zboží	NNNS2-----A----	Atr
+27	vystaveného	AANS2----1A----	Atr
+28	ve	RV--6----------	AuxP
+29	výloze	NNFS6-----A----	Adv
+30	.	Z:-------------	AuxK
+
+cmpr9415-043-p9s1
+1	Při	RR--6----------	AuxP
+2	vybavení	NNNS6-----A----	Adv
+3	obchodu	NNIS2-----A----	Atr
+4	bezpečnostní	AAFS7----1A----	Atr
+5	fólií	NNFS7-----A----	Atr
+6	záleží	VB-S---3P-AA---	Pred
+7	tedy	Db-------------	Coord
+8	na	RR--6----------	AuxP
+9	kvalitě	NNFS6-----A----	Obj
+10	fólie	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	její	PSFSXFS3-------	Atr
+13	montáži	NNFS6-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9415-043-p9s2
+1	Když	J,-------------	AuxC
+2	tyto	PDFP1----------	Atr
+3	dvě	ClHP1----------	Atr
+4	podmínky	NNFP1-----A----	Sb
+5	nebudou	VB-P---3F-NA---	AuxV
+6	splněny	VsTP---XX-AP---	Adv
+7	,	Z:-------------	AuxX
+8	sklo	NNNS1-----A----	Sb
+9	nezůstane	VB-S---3P-NA---	Pred
+10	přilnuté	AANS1----1A----	Obj
+11	k	RR--3----------	AuxP
+12	fólii	NNFS3-----A----	Adv
+13	a	J^-------------	Coord
+14	šikovnější	AAMS1----2A----	Atr
+15	zkušenější	AAMS1----1A----	Atr
+16	lupič	NNMS1-----A----	Sb
+17	se	P7-X4----------	AuxT
+18	dovnitř	Db-------------	Adv
+19	dostane	VB-S---3P-AA---	Pred
+20	.	Z:-------------	AuxK
+
+cmpr9415-043-p9s3
+1	Při	RR--6----------	AuxP
+2	výběru	NNIS6-----A----	Adv
+3	fólie	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	tedy	Db-------------	AuxY
+6	třeba	ACNS------A----	Pnom
+7	pečlivě	Dg-------1A----	Adv
+8	vybírat	Vf--------A----	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9415-043-p9s4
+1	Posuzovat	Vf--------A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	tedy	Db-------------	Coord
+4	třeba	ACNS------A----	Pnom
+5	:	Z:-------------	AuxK
+
+cmpr9415-043-p10s1
+1	-	Z:-------------	ExD
+2	Správný	AAIS4----1A----	Atr
+3	druh	NNIS4-----A----	ExD
+4	výrobku	NNIS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	nejednalo	VpNS---XR-NA---	ExD
+9	například	Db-------------	AuxY
+10	pouze	Db-------------	AuxZ
+11	o	RR--4----------	AuxP
+12	protisluneční	AAFS4----1A----	Atr
+13	fólii	NNFS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	ale	J^-------------	Coord
+16	o	RR--4----------	AuxP
+17	bezpečnostní	AAFS4----1A----	ExD
+18	,	Z:-------------	AuxX
+19	která	P4FS1----------	Sb
+20	má	VB-S---3P-AA---	ExD
+21	i	J^-------------	AuxZ
+22	kriminalistický	AAIS4----1A----	Atr
+23	atest	NNIS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+cmpr9415-043-p10s2
+1	Jako	J,-------------	AuxY
+2	příklad	NNIS4-----A----	Atv
+3	lze	VB-S---3P-AA---	Pred
+4	uvést	Vf--------A----	Sb
+5	fólii	NNFS4-----A----	Obj
+6	Solarmax	NNIS1-----A----	Atr
+7	SDI	NNXXX-----A---8	Atr
+8	SMC	NNXXX-----A---8	Atr
+9	-	Z:-------------	Coord
+10	AX	NNXXX-----A---8	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9415-043-p11s1
+1	-	Z:-------------	ExD
+2	Výběr	NNIS4-----A----	ExD
+3	dodavatelské	AAFS2----1A----	Atr
+4	firmy	NNFS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	má	VB-S---3P-AA---	Atr
+8	vyškolené	AAMP4----1A----	Atr
+9	pracovníky	NNMP4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	montáž	NNFS4-----A----	Adv
+12	.	Z:-------------	AuxK
+
+cmpr9415-043-p11s2
+1	Zda	J,-------------	AuxC
+2	záruky	NNFP4-----A----	Obj
+3	na	RR--4----------	AuxP
+4	výrobek	NNIS4-----A----	Atr
+5	poskytuje	VB-S---3P-AA---	Pred
+6	přímo	Dg-------1A----	AuxZ
+7	výrobní	AAFS1----1A----	Atr
+8	továrna	NNFS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9415-043-p12s1
+1	-	Z:-------------	ExD
+2	Jaký	P4YS1----------	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	výrobce	NNMS1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+cmpr9415-043-p12s2
+1	Bezpečnostní	AAFP1----1A----	Atr
+2	,	Z:-------------	AuxX
+3	stejně	Dg-------1A----	ExD
+4	jako	J,-------------	AuxC
+5	solární	AAFP1----1A----	ExD
+6	či	J^-------------	Coord
+7	termální	AAFP1----1A----	ExD
+8	fólie	NNFP1-----A----	Sb
+9	byly	VpTP---XR-AA---	Pred
+10	vyvinuty	VsTP---XX-AP---	Pnom
+11	na	RR--4----------	AuxP
+12	objednávku	NNFS4-----A----	Adv
+13	NASA	NNFXX-----A---8	Atr
+14	pro	RR--4----------	AuxP
+15	kosmické	AAIP4----1A----	Atr
+16	účely	NNIP4-----A----	Adv
+17	a	J^-------------	Coord
+18	patent	NNIS1-----A----	Sb
+19	na	RR--4----------	AuxP
+20	jejich	PSXXXXP3-------	Atr
+21	výrobu	NNFS4-----A----	Atr
+22	je	VB-S---3P-AA---	Pred
+23	majetkem	NNIS7-----A----	Pnom
+24	USA	NNIPX-----A----	Atr
+25	,	Z:-------------	AuxX
+26	jejichž	P1XXXXP3-------	Atr
+27	vláda	NNFS1-----A----	Sb
+28	poskytla	VpQW---XR-AA--1	Atr
+29	licenci	NNFS4-----A----	Obj
+30	na	RR--4----------	AuxP
+31	výrobu	NNFS4-----A----	Atr
+32	jen	TT-------------	AuxZ
+33	necelé	AAFS3----1N----	Atr
+34	desítce	NNFS3-----A----	Obj
+35	výhradně	Dg-------1A----	AuxZ
+36	amerických	AAFP2----1A----	Atr
+37	firem	NNFP2-----A----	Atr
+38	.	Z:-------------	AuxK
+
+cmpr9415-043-p13s1
+1	-	Z:-------------	ExD
+2	Serioznost	NNFS4-----A----	ExD
+3	firmy	NNFS2-----A----	Atr
+4	.	Z:-------------	AuxK
+
+cmpr9415-043-p13s2
+1	Je	VB-S---3P-AA---	Pred
+2	dobré	AANS1----1A----	Pnom
+3	vyžádat	Vf--------A----	Sb
+4	si	P7-X3----------	Adv
+5	reference	NNFP4-----A----	Obj
+6	od	RR--2----------	AuxP
+7	některých	PZXP2----------	Atr
+8	jejích	PSXP2FS3-------	Atr
+9	zákazníků	NNMP2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	zjistit	Vf--------A----	Sb
+12	,	Z:-------------	AuxX
+13	zda	J,-------------	AuxC
+14	má	VB-S---3P-AA---	Obj
+15	spojení	NNNS4-----A----	Obj
+16	s	RR--7----------	AuxP
+17	výrobcem	NNMS7-----A----	Atr
+18	,	Z:-------------	Coord
+19	přeměřit	Vf--------A----	Sb
+20	si	P7-X3----------	AuxO
+21	tloušťku	NNFS4-----A----	Obj
+22	jí	PPFS7--3-------	Obj
+23	nabízené	AAFS2----1A----	Atr
+24	fólie	NNFS2-----A----	Atr
+25	(	Z:-------------	AuxG
+26	neboť	J^-------------	Coord
+27	i	J^-------------	AuxZ
+28	zde	Db-------------	Adv
+29	se	P7-X4----------	AuxT
+30	objevují	VB-P---3P-AA---	Pred
+31	neseriózní	AAMP1----1N----	Atr
+32	obchodníci	NNMP1-----A----	Sb
+33	,	Z:-------------	AuxX
+34	kteří	P4MP1----------	Sb
+35	vydávají	VB-P---3P-AA---	Atr
+36	nekvalitní	AAIP4----1N----	Atr
+37	výrobky	NNIP4-----A----	Obj
+38	za	RR--4----------	AuxP
+39	kvalitní	AAIP4----1A----	Obj
+40	;	Z:-------------	AuxK
+
+cmpr9415-043-p13s3
+1	jejich	PSXXXXP3-------	Atr
+2	ochranný	AAIS1----1A----	Atr
+3	efekt	NNIS1-----A----	Sb
+4	je	VB-S---3P-AA---	Pred
+5	pak	Db-------------	Adv
+6	mizivý	AAIS1----1A----	Pnom
+7	.	Z:-------------	AuxK
+
+cmpr9415-043-p14s1
+1	Zdeněk	NNMS1-----A----	Atr
+2	Pučálka	NNMS1-----A----	ExD
+
+cmpr9415-043-p15s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	Malkovského	NNMS2-----A----	Atr
+4	584	C=-------------	Atr
+5	,	Z:-------------	AuxX
+6	199	C=-------------	Atr
+7	00	C=-------------	Atr
+8	Praha	NNFS1-----A----	Atr
+9	9	C=-------------	Atr
+10	,	Z:-------------	AuxX
+11	tel	NNIXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	+	Z:-------------	Coord
+14	FAX	NNIS1-----A----	Atr
+15	:	Z:-------------	AuxG
+16	(	Z:-------------	AuxG
+17	02	C=-------------	Atr
+18	)	Z:-------------	AuxG
+19	895292	C=-------------	Atr
+20	.	Z:-------------	AuxK
+

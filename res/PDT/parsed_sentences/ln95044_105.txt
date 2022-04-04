@@ -1,0 +1,137 @@
+ln95044-105-p1s1
+1	Soud	NNIS1-----A----	Sb
+2	má	VB-S---3P-AA---	Pred
+3	dnes	Db-------------	Adv
+4	převzít	Vf--------A----	Obj
+5	kauzu	NNFS4-----A----	Obj
+6	Lizner	NNMS1-----A----	Atr
+
+ln95044-105-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95044-105-p2s1B
+1	Pravděpodobně	Dg-------1A----	AuxY
+2	dnes	Db-------------	Adv
+3	má	VB-S---3P-AA---	Pred
+4	předat	Vf--------A----	Obj
+5	vyšetřovatel	NNMS1-----A----	Sb
+6	Úřadu	NNIS2-----A----	Atr
+7	vyšetřování	NNNS2-----A----	Atr
+8	pro	RR--4----------	AuxP
+9	Českou	AAFS4----1A----	Atr
+10	republiku	NNFS4-----A----	Atr
+11	případ	NNIS4-----A----	Obj
+12	bývalého	AAMS2----1A----	Atr
+13	šéfa	NNMS2-----A----	Atr
+14	Centra	NNNS2-----A----	Atr
+15	kupónové	AAFS2----1A----	Atr
+16	privatizace	NNFS2-----A----	Atr
+17	(	Z:-------------	Apos
+18	CKP	NNNXX-----A---8	Atr
+19	)	Z:-------------	AuxG
+20	Jaroslava	NNMS2-----A----	Atr
+21	Liznera	NNMS2-----A----	Atr
+22	s	RR--7----------	AuxP
+23	návrhem	NNIS7-----A----	Adv
+24	na	RR--4----------	AuxP
+25	podání	NNNS4-----A----	Atr
+26	obžaloby	NNFS2-----A----	Atr
+27	Obvodnímu	AANS3----1A----	Atr
+28	státnímu	AANS3----1A----	Atr
+29	zastupitelství	NNNS3-----A----	Atr
+30	pro	RR--4----------	AuxP
+31	Prahu	NNFS4-----A----	Atr
+32	7	C=-------------	Atr
+33	.	Z:-------------	AuxK
+
+ln95044-105-p2s2
+1	Vyšetřovatel	NNMS1-----A----	Sb
+2	to	PDNS4----------	Obj
+3	uvedl	VpYS---XR-AA---	Pred
+4	včera	Db-------------	Adv
+5	.	Z:-------------	AuxK
+
+ln95044-105-p3s1
+1	Někdejší	AAMS1----1A----	Atr
+2	šéf	NNMS1-----A----	Atr
+3	CKP	NNNXX-----A---8	Atr
+4	Jaroslav	NNMS1-----A----	Atr
+5	Lizner	NNMS1-----A----	Sb
+6	je	VB-S---3P-AA---	AuxV
+7	stíhán	VsYS---XX-AP---	Pred
+8	pro	RR--4----------	AuxP
+9	přijímání	NNNS4-----A----	Adv
+10	úplatku	NNIS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	za	RR--4----------	AuxP
+13	což	PE--4----------	Adv
+14	mu	PHZS3--3-------	Obj
+15	hrozí	VB-S---3P-AA---	Pred
+16	až	TT-------------	AuxZ
+17	tříletý	AAIS1----1A----	Atr
+18	trest	NNIS1-----A----	Sb
+19	odnětí	NNNS2-----A----	Atr
+20	svobody	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln95044-105-p3s2
+1	Před	RR--7----------	AuxP
+2	týdnem	NNIS7-----A----	Adv
+3	se	P7-X4----------	Obj
+4	Jaroslav	NNMS1-----A----	Atr
+5	Lizner	NNMS1-----A----	Sb
+6	spolu	Db-------------	AuxP
+7	se	RV--7----------	AuxP
+8	svým	P8ZS7----------	Atr
+9	obhájcem	NNMS7-----A----	Atr
+10	Janem	NNMS7-----A----	Atr
+11	Lindou	NNMS7-----A----	Atr
+12	seznámil	VpYS---XR-AA---	Pred
+13	s	RR--7----------	AuxP
+14	výsledky	NNIP7-----A----	Obj
+15	vyšetřování	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95044-105-p3s3
+1	Obhájce	NNMS1-----A----	Atr
+2	Jan	NNMS1-----A----	Atr
+3	Linda	NNMS1-----A----	Sb
+4	poté	Db-------------	Adv
+5	podal	VpYS---XR-AA---	Pred
+6	návrh	NNIS4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	zastavení	NNNS4-----A----	Atr
+9	Liznerova	AUNS2M---------	Atr
+10	stíhání	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	neboť	J^-------------	Coord
+13	je	VB-S---3P-AA---	Pred
+14	přesvědčen	VsYS---XX-AP---	Pnom
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	policie	NNFS1-----A----	Sb
+18	jeho	PSXXXZS3-------	Atr
+19	klientovi	NNMS3-----A----	Obj
+20	žádný	PWIS4----------	Atr
+21	trestný	AAIS4----1A----	Atr
+22	čin	NNIS4-----A----	Obj
+23	neprokázala	VpQW---XR-NA---	Obj
+24	.	Z:-------------	AuxK
+
+ln95044-105-p3s4
+1	Vyšetřovatel	NNMS1-----A----	Sb
+2	však	J^-------------	Coord
+3	tvrdí	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	policie	NNFS1-----A----	Sb
+7	shromáždila	VpQW---XR-AA---	Obj
+8	dostatek	NNIS4-----A----	Obj
+9	důkazů	NNIP2-----A----	Atr
+10	svědčících	AGIP2-----A----	Atr
+11	o	RR--6----------	AuxP
+12	Liznerově	AUNS6M---------	Atr
+13	provinění	NNNS6-----A----	Obj
+14	.	Z:-------------	AuxK
+

@@ -1,0 +1,130 @@
+mf920901-034-p1s1
+1	Milíčův	AUIS1M---------	Atr
+2	dům	NNIS1-----A----	ExD
+3	dětem	NNFP3-----A----	ExD
+
+mf920901-034-p2s1
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	nak	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf920901-034-p2s2
+1	Po	RR--6----------	AuxP
+2	roční	AAFS6----1A----	Atr
+3	rekonstrukci	NNFS6-----A----	Adv
+4	byla	VpQW---XR-AA---	AuxV
+5	včera	Db-------------	Adv
+6	za	RR--2----------	AuxP
+7	přítomnosti	NNFS2-----A----	Adv
+8	starosty	NNMS2-----A----	Atr
+9	Prahy	NNFS2-----A----	Atr
+10	3	C=-------------	Atr
+11	Michala	NNMS2-----A----	Atr
+12	Borse	NNMS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Milíčově	AUIS6M---------	Atr
+15	domě	NNIS6-----A----	Adv
+16	otevřena	VsQW---XX-AP---	Pred
+17	takzvaná	AAFS1----1A----	Atr
+18	Speciální	AAFS1----1A----	Atr
+19	mateřská	AAFS1----1A----	Atr
+20	školka	NNFS1-----A----	Sb
+21	pro	RR--4----------	AuxP
+22	zdravé	AAFP4----1A----	Atr
+23	i	J^-------------	Coord
+24	handicapované	AAFP4----1A----	Atr
+25	děti	NNFP4-----A----	Atr
+26	.	Z:-------------	AuxK
+
+mf920901-034-p2s3
+1	Jak	Db-------------	Adv
+2	nás	PP-P4--1-------	Obj
+3	informovala	VpQW---XR-AA---	Pred
+4	její	PSFSXFS3-------	Atr
+5	ředitelka	NNFS1-----A----	Atr
+6	Hana	NNFS1-----A----	Atr
+7	Hlaváčková	NNFS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	budou	VB-P---3F-AA---	AuxV
+10	děti	NNFP1-----A----	Sb
+11	rozděleny	VsTP---XX-AP---	Pred
+12	do	RR--2----------	AuxP
+13	čtyř	ClXP2----------	Atr
+14	tříd	NNFP2-----A----	Obj
+15	.	Z:-------------	AuxK
+
+mf920901-034-p2s4
+1	Pro	RR--4----------	AuxP
+2	postižené	AAFP4----1A----	Atr
+3	děti	NNFP4-----A----	Adv
+4	jsou	VB-P---3P-AA---	Pred
+5	vyhrazeny	VsTP---XX-AP---	Pnom
+6	dva	ClYP1----------	Atr
+7	ročníky	NNIP1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	které	P4IP1----------	Sb
+10	by	Vc-------------	AuxV
+11	jim	PPXP3--3-------	Obj
+12	měly	VpTP---XR-AA---	Atr
+13	usnadnit	Vf--------A----	Obj
+14	zařazení	NNNS4-----A----	Obj
+15	do	RR--2----------	AuxP
+16	normálního	AAIS2----1A----	Atr
+17	života	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf920901-034-p2s5
+1	"	Z:-------------	AuxG
+2	Výhledově	Dg-------1A----	Adv
+3	bychom	Vc-P---1-------	AuxV
+4	chtěli	VpMP---XR-AA---	Obj
+5	spolupracovat	Vf--------A----	Obj
+6	s	RR--7----------	AuxP
+7	již	Db-------------	AuxZ
+8	fungujícím	AGNS7-----A----	Atr
+9	integračním	AANS7----1A----	Atr
+10	centrem	NNNS7-----A----	Obj
+11	pro	RR--4----------	AuxP
+12	tělesně	Dg-------1A----	Adv
+13	i	J^-------------	Coord
+14	mentálně	Dg-------1A----	Adv
+15	postižené	AAMP4----1A----	Obj
+16	,	Z:-------------	AuxX
+17	"	Z:-------------	AuxG
+18	uvedla	VpQW---XR-AA---	Pred
+19	Hana	NNFS1-----A----	Atr
+20	Hlaváčková	NNFS1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+mf920901-034-p3s1
+1	Milíčův	AUIS1M---------	Atr
+2	dům	NNIS1-----A----	Sb
+3	sloužil	VpYS---XR-AA---	Pred
+4	původně	Dg-------1A----	Adv
+5	jako	J,-------------	AuxY
+6	útulek	NNIS1-----A----	Atv
+7	pro	RR--4----------	AuxP
+8	děti	NNFP4-----A----	Atr
+9	ze	RV--2----------	AuxP
+10	sociálně	Dg-------1A----	Adv
+11	slabých	AAFP2----1A----	Atr
+12	a	J^-------------	Coord
+13	rozvrácených	AAFP2----1A----	Atr
+14	rodin	NNFP2-----A----	Atr
+15	,	Z:-------------	Coord
+16	v	RR--6----------	AuxP
+17	době	NNFS6-----A----	Adv
+18	nacismu	NNIS2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	něm	P5ZS6--3-------	Adv
+21	pak	Db-------------	Adv
+22	nacházely	VpTP---XR-AA---	Pred
+23	útočiště	NNNS4-----A----	Obj
+24	děti	NNFP1-----A----	Sb
+25	ze	RV--2----------	AuxP
+26	židovských	AAFP2----1A----	Atr
+27	rodin	NNFP2-----A----	Atr
+28	.	Z:-------------	AuxK
+

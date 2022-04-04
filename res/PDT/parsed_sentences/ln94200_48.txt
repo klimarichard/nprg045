@@ -1,0 +1,186 @@
+ln94200-48-p1s1
+1	Z	RR--2----------	AuxP
+2	okresů	NNIP2-----A----	ExD
+
+ln94200-48-p2s1A
+1	Ostrava	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94200-48-p2s1B
+1	Jeden	ClIS4----------	Obj
+2	z	RR--2----------	AuxP
+3	důvodů	NNIP2-----A----	Atr
+4	nižšího	AAIS2----2A----	Atr
+5	počtu	NNIS2-----A----	Atr
+6	nově	Dg-------1A----	Adv
+7	evidovaných	AAMP2----1A----	Atr
+8	absolventů	NNMP2-----A----	Atr
+9	spatřuje	VB-S---3P-AA---	Pred
+10	ředitel	NNMS1-----A----	Atr
+11	Úřadu	NNIS2-----A----	Atr
+12	práce	NNFS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Ostravě	NNFS6-----A----	Atr
+15	Zdeněk	NNMS1-----A----	Atr
+16	Prouza	NNMS1-----A----	Sb
+17	v	RR--6----------	AuxP
+18	jejich	PSXXXXP3-------	Atr
+19	snaze	NNFS6-----A----	Adv
+20	prodloužit	Vf--------A----	Atr
+21	si	P7-X3----------	Obj
+22	dobu	NNFS4-----A----	Obj
+23	letního	AANS2----1A----	Atr
+24	volna	NNNS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94200-48-p2s2
+1	Podle	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	lze	VB-S---3P-AA---	Pred
+4	očekávat	Vf--------A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	počet	NNIS1-----A----	Sb
+8	uchazečů	NNMP2-----A----	Atr
+9	o	RR--4----------	AuxP
+10	práci	NNFS4-----A----	Atr
+11	z	RR--2----------	AuxP
+12	řad	NNFP2-----A----	Atr
+13	absolventů	NNMP2-----A----	Atr
+14	výrazněji	Dg-------2A----	Adv
+15	vzroste	VB-S---3P-AA---	Obj
+16	až	TT-------------	AuxZ
+17	v	RR--6----------	AuxP
+18	září	NNNS6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln94200-48-p3s1
+1	Za	RR--4----------	AuxP
+2	hlavní	AAIP4----1A----	Atr
+3	důvody	NNIP4-----A----	Obj
+4	jejich	PSXXXXP3-------	Atr
+5	těžšího	AANS2----2A----	Atr
+6	uplatnění	NNNS2-----A----	Atr
+7	na	RR--6----------	AuxP
+8	trhu	NNIS6-----A----	Atr
+9	práce	NNFS2-----A----	Atr
+10	označil	VpYS---XR-AA---	Pred
+11	nesoulad	NNIS4-----A----	Obj
+12	profesní	AAFS2----1A----	Atr
+13	struktury	NNFS2-----A----	Atr
+14	učebních	AAIP2----1A----	Atr
+15	oborů	NNIP2-----A----	Atr
+16	a	J^-------------	Coord
+17	požadavků	NNIP2-----A----	Atr
+18	na	RR--6----------	AuxP
+19	trhu	NNIS6-----A----	Atr
+20	práce	NNFS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	nedostatečnou	AAFS4----1N----	Atr
+23	praxi	NNFS4-----A----	Obj
+24	v	RR--6----------	AuxP
+25	oboru	NNIS6-----A----	Atr
+26	a	J^-------------	Coord
+27	absenci	NNFS4-----A----	Obj
+28	základních	AAIP2----1A----	Atr
+29	pracovních	AAIP2----1A----	Atr
+30	návyků	NNIP2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94200-48-p3s2
+1	Navíc	Db-------------	Adv
+2	podle	RR--2----------	AuxP
+3	něj	P5ZS2--3-------	Adv
+4	představují	VB-P---3P-AA---	Pred
+5	absolventi	NNMP1-----A----	Sb
+6	gymnázií	NNNP2-----A----	Atr
+7	a	J^-------------	Coord
+8	mladiství	AAMP1----1A----	Sb
+9	po	RR--6----------	AuxP
+10	ukončení	NNNS6-----A----	Atr
+11	základní	AAFS2----1A----	Atr
+12	školy	NNFS2-----A----	Atr
+13	pro	RR--4----------	AuxP
+14	zaměstnavatele	NNMP4-----A----	Adv
+15	stále	Db-------------	Adv
+16	nekvalifikovanou	AAFS4----1N----	Atr
+17	pracovní	AAFS4----1A----	Atr
+18	sílu	NNFS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94200-48-p3s3
+1	Současný	AAIS1----1A----	Atr
+2	vývoj	NNIS1-----A----	Sb
+3	údajně	Dg-------1A----	Adv
+4	potvrzuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	naopak	Db-------------	AuxY
+8	kvalifikovaní	AAMP1----1A----	Atr
+9	absolventi	NNMP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	jejichž	P1XXXXP3-------	Atr
+12	studijní	AAIS1----1A----	Atr
+13	obor	NNIS1-----A----	Sb
+14	odpovídá	VB-S---3P-AA---	Atr
+15	požadavkům	NNIP3-----A----	Obj
+16	trhu	NNIS2-----A----	Atr
+17	práce	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	nemají	VB-P---3P-NA---	Obj
+20	s	RR--7----------	AuxP
+21	pracovním	AANS7----1A----	Atr
+22	uplatněním	NNNS7-----A----	Adv
+23	problémy	NNIP4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94200-48-p4s1
+1	Do	RR--2----------	AuxP
+2	budoucna	NNNS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	třeba	ACNS------A----	Pnom
+5	se	P7-X4----------	AuxT
+6	více	Dg-------2A----	Adv
+7	soustředit	Vf--------A----	Sb
+8	při	RR--6----------	AuxP
+9	zavádění	NNNS6-----A----	Adv
+10	nových	AAIP2----1A----	Atr
+11	studijních	AAIP2----1A----	Atr
+12	a	J^-------------	Coord
+13	učebních	AAIP2----1A----	Atr
+14	oborů	NNIP2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	skloubení	NNNS4-----A----	Obj
+17	jejich	PSXXXXP3-------	Atr
+18	obsahu	NNIS2-----A----	Atr
+19	a	J^-------------	Coord
+20	struktury	NNFS2-----A----	Atr
+21	s	RR--7----------	AuxP
+22	požadavky	NNIP7-----A----	Atr
+23	trhu	NNIS2-----A----	Atr
+24	práce	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94200-48-p4s2
+1	Proto	J^-------------	Adv
+2	spolupracujeme	VB-P---1P-AA---	Obj
+3	se	RV--7----------	AuxP
+4	školským	AAIS7----1A----	Atr
+5	úřadem	NNIS7-----A----	Obj
+6	,	Z:-------------	AuxX
+7	školami	NNFP7-----A----	Obj
+8	,	Z:-------------	AuxX
+9	učilišti	NNNP7-----A----	Obj
+10	a	J^-------------	Coord
+11	dalšími	AAFP7----1A----	Atr
+12	organizacemi	NNFP7-----A----	Obj
+13	,	Z:-------------	AuxX
+14	uvedl	VpYS---XR-AA---	Pred
+15	Z	NNMXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	Prouza	NNMS1-----A----	Sb
+18	.	Z:-------------	AuxG
+19	(	Z:-------------	ExD
+20	hm	II-------------	ExD
+21	)	Z:-------------	ExD
+

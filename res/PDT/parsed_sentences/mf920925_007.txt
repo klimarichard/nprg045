@@ -1,0 +1,71 @@
+mf920925-007-p1s1
+1	Pramen	NNIS1-----A----	Pnom
+2	:	Z:-------------	Pred
+3	FSÚ	NNIXX-----A---8	Sb
+
+mf920925-007-p2s1
+1	GRAF	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	MF	NNFXX-----A---8	ExD
+4	DNES	Db-------------	Atr
+
+mf920925-007-p3s1
+1	Ceny	NNFP1-----A----	Sb
+2	zemědělských	AAIP2----1A----	Atr
+3	výrobků	NNIP2-----A----	Atr
+4	jsou	VB-P---3P-AA---	AuxV
+5	zjišťovány	VsTP---XX-AP---	Pred
+6	u	RR--2----------	AuxP
+7	státních	AAMP2----1A----	Atr
+8	,	Z:-------------	AuxX
+9	družstevních	AAMP2----1A----	Atr
+10	a	J^-------------	Coord
+11	soukromých	AAMP2----1A----	Atr
+12	výrobců	NNMP2-----A----	Adv
+13	.	Z:-------------	AuxK
+
+mf920925-007-p3s2
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	dřívější	AAFS4----2A----	Atr
+4	kategorii	NNFS4-----A----	Obj
+5	nákupních	AAFP2----1A----	Atr
+6	cen	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	které	P4FP1----------	Sb
+9	jsou	VB-P---3P-AA---	AuxV
+10	placeny	VsTP---XX-AP---	Atr
+11	výrobci	NNMS3-----A----	Obj
+12	za	RR--4----------	AuxP
+13	jeho	PSXXXZS3-------	Atr
+14	výrobky	NNIP4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+mf920925-007-p3s3
+1	Nejsou	VB-P---3P-NA---	AuxV
+2	sledovány	VsTP---XX-AP---	Pred
+3	prodeje	NNIP1-----A----	Sb
+4	ve	RV--6----------	AuxP
+5	vlastní	AAFS6----1A----	Atr
+6	obchodní	AAFS6----1A----	Atr
+7	síti	NNFS6-----A----	Atr
+8	a	J^-------------	Coord
+9	prodeje	NNIP1-----A----	Sb
+10	vlastním	AAMP3----1A----	Atr
+11	zaměstnancům	NNMP3-----A----	Atr
+12	.	Z:-------------	AuxK
+
+mf920925-007-p3s4
+1	Jde	VB-S---3P-AA---	Pred
+2	o	RR--4----------	AuxP
+3	soubor	NNIS4-----A----	Obj
+4	130	C=-------------	Atr
+5	cenových	AAMP2----1A----	Atr
+6	reprezentantů	NNMP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+mf920925-007-p4s1
+1	(	Z:-------------	ExD
+2	jš	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

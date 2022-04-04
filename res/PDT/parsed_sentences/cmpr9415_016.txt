@@ -1,0 +1,299 @@
+cmpr9415-016-p3s1
+1	Rady	NNFP1-----A----	ExD
+2	na	RR--4----------	AuxP
+3	telefon	NNIS4-----A----	Atr
+
+cmpr9415-016-p5s1
+1	Potřebujete	VB-P---2P-AA---	Pred
+2	rychle	Dg-------1A----	Adv
+3	poradit	Vf--------A----	Obj
+4	?	Z:-------------	AuxK
+
+cmpr9415-016-p5s2
+1	Zvedněte	Vi-P---2--A----	Pred
+2	telefon	NNIS4-----A----	Obj
+3	a	J^-------------	Coord
+4	zavolejte	Vi-P---2--A----	Pred
+5	.	Z:-------------	AuxK
+
+cmpr9415-016-p5s3
+1	Váš	PSIS4-P2-------	Atr
+2	obecně	Dg-------1A----	Adv
+3	platný	AAIS4----1A----	Atr
+4	dotaz	NNIS4-----A----	Obj
+5	je	VB-S---3P-AA---	Pred
+6	připraven	VsYS---XX-AP---	Pnom
+7	zodpovědět	Vf--------A----	Adv
+8	spolupracovník	NNMS1-----A----	Sb
+9	Profitu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9415-016-p5s4
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	nedovoláte	VB-P---2P-NA---	Atr
+7	přes	RR--4----------	AuxP
+8	den	NNIS4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	vytočte	Vi-P---2--A----	Pred
+11	číslo	NNNS4-----A----	Obj
+12	ve	RV--6----------	AuxP
+13	večerních	AAFP6----1A----	Atr
+14	nebo	J^-------------	Coord
+15	nočních	AAFP6----1A----	Atr
+16	hodinách	NNFP6-----A----	Adv
+17	a	J^-------------	Coord
+18	svůj	P8IS4----------	Atr
+19	dotaz	NNIS4-----A----	Obj
+20	namluvte	Vi-P---2--A----	Pred
+21	na	RR--4----------	AuxP
+22	telefonní	AAIS4----1A----	Atr
+23	záznamník	NNIS4-----A----	Adv
+24	.	Z:-------------	AuxK
+
+cmpr9415-016-p5s5
+1	Nejzajímavější	AAIP4----3A----	Atr
+2	dotazy	NNIP4-----A----	Obj
+3	najdete	VB-P---2P-AA---	Pred
+4	zodpovězené	AAIP4----1A----	Atv
+5	pravidelně	Dg-------1A----	Adv
+6	na	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	stránce	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9415-016-p6s1
+1	Služební	AAIS1----1A----	Atr
+2	automobil	NNIS1-----A----	ExD
+
+cmpr9415-016-p7s1
+1	Dal	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	svým	P8XP3----------	Atr
+4	zaměstnancům	NNMP3-----A----	Obj
+5	k	RR--3----------	AuxP
+6	dispozici	NNFS3-----A----	Adv
+7	osobní	AAIS4----1A----	Atr
+8	automobil	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	jej	PPZS4--3------2	Obj
+12	užívali	VpMP---XR-AA---	Adv
+13	jak	Db-------------	AuxY
+14	pro	RR--4----------	AuxP
+15	služební	AAFP4----1A----	ExD
+16	,	Z:-------------	AuxX
+17	tak	Db-------------	Coord
+18	i	J^-------------	AuxZ
+19	pro	RR--4----------	AuxP
+20	soukromé	AAFP4----1A----	Atr
+21	potřeby	NNFP4-----A----	Adv
+22	.	Z:-------------	AuxK
+
+cmpr9415-016-p7s2
+1	Dočetl	VpYS---XR-AA---	Pred
+2	jsem	VB-S---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	se	P7-X4----------	AuxR
+7	jim	PPXP3--3-------	Obj
+8	připočte	VB-S---3P-AA---	Obj
+9	k	RR--3----------	AuxP
+10	základu	NNIS3-----A----	Adv
+11	daně	NNFS2-----A----	Atr
+12	pro	RR--4----------	AuxP
+13	výpočet	NNIS4-----A----	Atr
+14	daně	NNFS2-----A----	Atr
+15	z	RR--2----------	AuxP
+16	příjmu	NNIS2-----A----	Atr
+17	obyvatelstva	NNNS2-----A----	Atr
+18	12	C=-------------	Sb
+19	%	Z:-------------	Atr
+20	pořizovací	AAFS2----1A----	Atr
+21	ceny	NNFS2-----A----	Atr
+22	vozidla	NNNS2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9415-016-p7s3
+1	Domnívám	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	kdybych	J,-S---1-------	AuxC
+6	uzavřel	VpYS---XR-AA---	Adv
+7	se	RV--7----------	AuxP
+8	svými	P8XP7----------	Atr
+9	zaměstnanci	NNMP7-----A----	Obj
+10	nájemní	AAFS4----1A----	Atr
+11	smlouvu	NNFS4-----A----	Obj
+12	a	J^-------------	Coord
+13	vozidlo	NNNS4-----A----	Obj
+14	jim	PPXP3--3-------	Obj
+15	pronajal	VpYS---XR-AA---	Adv
+16	za	RR--4----------	AuxP
+17	určitou	AAFS4----1A----	Atr
+18	částku	NNFS4-----A----	Adv
+19	,	Z:-------------	AuxX
+20	potom	Db-------------	Adv
+21	by	Vc-------------	AuxV
+22	nebylo	VpNS---XR-NA---	Obj
+23	nutné	AANS1----1A----	Pnom
+24	,	Z:-------------	AuxX
+25	aby	J,-------------	AuxC
+26	platili	VpMP---XR-AA---	Sb
+27	daň	NNFS4-----A----	Obj
+28	z	RR--2----------	AuxP
+29	příjmu	NNIS2-----A----	Atr
+30	obyvatelstva	NNNS2-----A----	Atr
+31	ve	RV--6----------	AuxP
+32	výši	NNFS6-----A----	Atr
+33	12	C=-------------	Atr
+34	%	Z:-------------	Atr
+35	pořizovací	AAFS2----1A----	Atr
+36	ceny	NNFS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+cmpr9415-016-p7s4
+1	Lze	VB-S---3P-AA---	Pred
+2	tímto	PDZS7----------	Atr
+3	způsobem	NNIS7-----A----	Adv
+4	postupovat	Vf--------A----	Sb
+5	?	Z:-------------	AuxK
+
+cmpr9415-016-p8s1
+1	K	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	F	NNMXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	,	Z:-------------	Apos
+6	Písek	NNIS1-----A----	ExD
+
+cmpr9415-016-p9s1
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	uzavřete	VB-P---2P-AA---	Atr
+6	se	RV--7----------	AuxP
+7	zaměstnanci	NNMP7-----A----	Atr
+8	smlouvu	NNFS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	podle	RR--2----------	AuxP
+11	které	P4FS2----------	Adv
+12	jim	PPXP3--3-------	Obj
+13	pronajmete	VB-P---2P-AA---	Atr
+14	vozidlo	NNNS4-----A----	Obj
+15	za	RR--4----------	AuxP
+16	měsíční	AAIS4----1A----	Atr
+17	nájem	NNIS4-----A----	Adv
+18	nižší	AAIS4----2A----	Atr
+19	,	Z:-------------	AuxX
+20	než	J,-------------	AuxC
+21	představuje	VB-S---3P-AA---	Adv
+22	1	C=-------------	Atr
+23	%	Z:-------------	Sb
+24	pořizovací	AAFS2----1A----	Atr
+25	ceny	NNFS2-----A----	Atr
+26	z	RR--2----------	AuxP
+27	vozidla	NNNS2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	dojde	VB-S---3P-AA---	Pred
+30	nepochybně	Dg-------1A----	Adv
+31	k	RR--3----------	AuxP
+32	obcházení	NNNS3-----A----	Obj
+33	daňového	AAIS2----1A----	Atr
+34	zákona	NNIS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+cmpr9415-016-p9s2
+1	Rozdíl	NNIS1-----A----	Pnom
+2	mezi	RR--7----------	AuxP
+3	obvyklou	AAFS7----1A----	Atr
+4	cenou	NNFS7-----A----	Atr
+5	takového	PDZS2----------	Atr
+6	pronájmu	NNIS2-----A----	Atr
+7	a	J^-------------	Coord
+8	nižší	AAFS7----2A----	Atr
+9	úhradou	NNFS7-----A----	Atr
+10	nájemného	NNNS2-----A----	Atr
+11	je	VB-S---3P-AA---	Pred
+12	nepeněžitý	AAIS1----1N----	Atr
+13	příjem	NNIS1-----A----	Sb
+14	zaměstnance	NNMS2-----A----	Atr
+15	a	J^-------------	Coord
+16	ten	PDYS1----------	Sb
+17	bude	VB-S---3F-AA---	AuxV
+18	povinen	ACYS------A----	Pred
+19	i	J^-------------	AuxZ
+20	takovou	PDFS4----------	Atr
+21	částku	NNFS4-----A----	Obj
+22	předložit	Vf--------A----	Obj
+23	ke	RV--3----------	AuxP
+24	zdanění	NNNS3-----A----	Adv
+25	.	Z:-------------	AuxK
+
+cmpr9415-016-p9s3
+1	Bližší	AANS4----2A----	ExD
+2	lze	VB-S---3P-AA---	Pred
+3	nalézt	Vf--------A----	Sb
+4	ve	RV--6----------	AuxP
+5	sdělení	NNNS6-----A----	Adv
+6	č	NNNXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	71	C=-------------	Atr
+9	finančního	AAIS2----1A----	Atr
+10	zpravodaje	NNIS2-----A----	Atr
+11	z	RR--2----------	AuxP
+12	roku	NNIS2-----A---1	Atr
+13	1993	C=-------------	Atr
+14	k	RR--3----------	AuxP
+15	poskytnutí	NNNS3-----A----	Atr
+16	motorového	AANS2----1A----	Atr
+17	vozidla	NNNS2-----A----	Atr
+18	zaměstnavatelem	NNMS7-----A----	Atr
+19	zaměstnanci	NNMS3-----A----	Atr
+20	pro	RR--4----------	AuxP
+21	služební	AAIP4----1A----	Atr
+22	i	J^-------------	Coord
+23	soukromé	AAIP4----1A----	Atr
+24	účely	NNIP4-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9415-016-p10s1
+1	JUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	PhDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Oldřich	NNMS1-----A----	Atr
+6	Choděra	NNMS1-----A----	ExD
+
+cmpr9415-016-p11s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Advokátní	AAFS1----1A----	Atr
+4	a	J^-------------	Coord
+5	komerčně	Dg-------1A----	Adv
+6	právní	AAFS1----1A----	Atr
+7	kancelář	NNFS1-----A----	ExD
+8	,	Z:-------------	AuxX
+9	Národní	AAFS1----1A----	Atr
+10	25	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	Praha	NNFS1-----A----	Atr
+13	1	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	tel	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	+	Z:-------------	Coord
+18	FAX	NNIS1-----A----	Atr
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	02	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	242	C=-------------	Atr
+24	27845	C=-------------	Atr
+

@@ -1,0 +1,115 @@
+ln94200-70-p1s1
+1	Národní	AAFS1----1A----	Atr
+2	knihovna	NNFS1-----A----	ExD
+3	týden	NNIS4-----A----	ExD
+4	mimo	RR--4----------	AuxP
+5	provoz	NNIS4-----A----	ExD
+
+ln94200-70-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	teb	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94200-70-p2s1B
+1	Hala	NNFS1-----A----	Sb
+2	služeb	NNFP2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	všeobecná	AAFS1----1A----	Atr
+5	studovna	NNFS1-----A----	Sb
+6	a	J^-------------	Coord
+7	studovna	NNFS1-----A----	Sb
+8	vědeckých	AAMP2----1A----	Atr
+9	pracovníků	NNMP2-----A----	Atr
+10	nebudou	VB-P---3F-NA---	Pred
+11	přístupné	AAFP1----1A----	Pnom
+12	od	RR--2----------	AuxP
+13	pondělí	NNNS2-----A----	Adv
+14	29	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	srpna	NNIS2-----A----	Atr
+17	do	RR--2----------	AuxP
+18	soboty	NNFS2-----A----	Adv
+19	3	C=-------------	Atr
+20	.	Z:-------------	AuxG
+21	září	NNNS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94200-70-p2s2
+1	Důvodem	NNIS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	tzv	AAXXX----1A---8	Atr
+4	.	Z:-------------	AuxG
+5	kolace	NNFS1-----A----	Sb
+6	neboli	J^-------------	Apos
+7	revize	NNFS1-----A----	Sb
+8	centrální	AAFS2----1A----	Atr
+9	evidence	NNFS2-----A----	Atr
+10	výpůjček	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94200-70-p2s3
+1	Kolace	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	provádí	VB-S---3P-AA---	Pred
+4	jednou	Cv-------------	Adv
+5	za	RR--4----------	AuxP
+6	rok	NNIS4-----A----	Adv
+7	a	J^-------------	Coord
+8	zjistí	VB-P---3P-AA---	Pred
+9	se	P7-X4----------	AuxR
+10	při	RR--6----------	AuxP
+11	ní	P5FS6--3-------	Adv
+12	případné	AAFP1----1A----	Atr
+13	chyby	NNFP1-----A----	Sb
+14	vzniklé	AAFP1----1A----	Atr
+15	v	RR--6----------	AuxP
+16	evidenci	NNFS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94200-70-p2s4
+1	Od	RR--2----------	AuxP
+2	5	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	září	NNNS2-----A----	Adv
+5	budou	VB-P---3F-AA---	Pred
+6	již	Db-------------	AuxZ
+7	všechna	PLNP1----------	Atr
+8	oddělení	NNNP1-----A----	Sb
+9	(	Z:-------------	AuxG
+10	kromě	RR--2----------	AuxP
+11	části	NNFS2-----A----	Atr
+12	s	RR--7----------	AuxP
+13	rukopisy	NNIP7-----A----	Atr
+14	a	J^-------------	Coord
+15	starými	AAIP7----1A----	Atr
+16	tisky	NNIP7-----A----	Atr
+17	,	Z:-------------	AuxX
+18	kde	Db-------------	Adv
+19	od	RR--2----------	AuxP
+20	června	NNIS2-----A----	Adv
+21	probíhá	VB-S---3P-AA---	Atr
+22	dlouhodobá	AAFS1----1A----	Atr
+23	rekonstrukce	NNFS1-----A----	Sb
+24	)	Z:-------------	AuxG
+25	opět	Db-------------	Adv
+26	přístupná	AANP1----1A----	Pnom
+27	a	J^-------------	Coord
+28	Národní	AAFS1----1A----	Atr
+29	knihovna	NNFS1-----A----	Sb
+30	(	Z:-------------	Apos
+31	NK	NNFXX-----A----	Sb
+32	)	Z:-------------	AuxG
+33	přejde	VB-S---3P-AA---	Pred
+34	z	RR--2----------	AuxP
+35	omezeného	AAIS2----1A----	Atr
+36	letního	AAIS2----1A----	Atr
+37	provozu	NNIS2-----A----	Adv
+38	k	RR--3----------	AuxP
+39	normálnímu	AAIS3----1A----	ExD
+40	v	RR--6----------	AuxP
+41	plném	AAIS6----1A----	Atr
+42	rozsahu	NNIS6-----A----	Adv
+43	.	Z:-------------	AuxK
+

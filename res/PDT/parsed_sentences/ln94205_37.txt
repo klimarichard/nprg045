@@ -1,0 +1,132 @@
+ln94205-37-p1s1
+1	Voršilkám	NNFP3-----A----	Obj
+2	provozní	AAFS1----1A----	Atr
+3	budova	NNFS1-----A----	Sb
+4	ND	NNNXX-----A---8	Atr
+5	patří	VB-S---3P-AA---	Pred
+
+ln94205-37-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94205-37-p2s1B
+1	Obvodní	AAIS1----1A----	Atr
+2	soud	NNIS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	Prahu	NNFS4-----A----	Atr
+5	1	C=-------------	Atr
+6	zamítl	VpYS---XR-AA--1	Pred
+7	včera	Db-------------	Adv
+8	žalobu	NNFS4-----A----	Obj
+9	ministerstva	NNNS2-----A----	Atr
+10	financí	NNFP2-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	sporu	NNIS6-----A----	Atr
+13	s	RR--7----------	AuxP
+14	Českomoravskou	AAFS7----1A----	Atr
+15	provincií	NNFS7-----A----	Atr
+16	Římské	AAFS2----1A----	Atr
+17	unie	NNFS2-----A----	Atr
+18	Řádu	NNIS2-----A----	Atr
+19	svaté	AAFS2----1A----	Atr
+20	Voršily	NNFS2-----A----	Atr
+21	a	J^-------------	Coord
+22	se	RV--7----------	AuxP
+23	společností	NNFS7-----A----	Atr
+24	Themos	NNIS1-----A----	Atr
+25	,	Z:-------------	AuxX
+26	ve	RV--6----------	AuxP
+27	které	P4FS6----------	Adv
+28	ministerstvo	NNNS1-----A----	Sb
+29	žádalo	VpNS---XR-AA---	Atr
+30	soud	NNIS4-----A----	Obj
+31	o	RR--4----------	AuxP
+32	určení	NNNS4-----A----	Obj
+33	,	Z:-------------	AuxX
+34	že	J,-------------	AuxC
+35	provozní	AAFP4----1A----	Atr
+36	budovy	NNFP4-----A----	Obj
+37	Národního	AANS2----1A----	Atr
+38	divadla	NNNS2-----A----	Atr
+39	vlastní	VB-S---3P-AA---	Atr
+40	stát	NNIS1-----A----	Sb
+41	.	Z:-------------	AuxK
+
+ln94205-37-p2s2
+1	Soud	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	odvolal	VpYS---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	zákon	NNIS4-----A----	Obj
+6	o	RR--6----------	AuxP
+7	úpravě	NNFS6-----A----	Atr
+8	některých	PZXP2----------	Atr
+9	majetkových	AAIP2----1A----	Atr
+10	vztahů	NNIP2-----A----	Atr
+11	řeholních	AAIP2----1A----	Atr
+12	řádů	NNIP2-----A----	Atr
+13	a	J^-------------	Coord
+14	kongregací	NNFP2-----A----	Atr
+15	a	J^-------------	Coord
+16	arcibiskupství	NNNS2-----A----	Atr
+17	olomouckého	AANS2----1A----	Atr
+18	z	RR--2----------	AuxP
+19	roku	NNIS2-----A---1	Atr
+20	1990	C=-------------	Atr
+21	,	Z:-------------	AuxX
+22	který	P4YS1----------	Sb
+23	výčtem	NNIS7-----A----	Adv
+24	stanovil	VpYS---XR-AA---	Atr
+25	,	Z:-------------	AuxX
+26	jaký	P4YS1----------	Atr
+27	majetek	NNIS1-----A----	Sb
+28	bude	VB-S---3F-AA---	AuxV
+29	jednotlivým	AAIP3----1A----	Atr
+30	řádům	NNIP3-----A----	Obj
+31	navrácen	VsYS---XX-AP---	Obj
+32	.	Z:-------------	AuxK
+
+ln94205-37-p2s3
+1	Číslo	NNNS1-----A----	Sb
+2	popisné	AANS1----1A----	Atr
+3	sporné	AAFS2----1A----	Atr
+4	budovy	NNFS2-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	zákonu	NNIS6-----A---1	Adv
+8	uvedeno	VsNS---XX-AP---	Pnom
+9	.	Z:-------------	AuxK
+
+ln94205-37-p2s4
+1	Ministerstvo	NNNS1-----A----	Sb
+2	argumentovalo	VpNS---XR-AA---	Pred
+3	tím	PDZS7----------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	provozní	AAFS1----1A----	Atr
+7	budova	NNFS1-----A----	Sb
+8	je	VB-S---3P-AA---	Atr
+9	budovou	NNFS7-----A----	Pnom
+10	zcela	Db-------------	Adv
+11	jinou	AAFS7----1A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94205-37-p2s5
+1	Navíc	Db-------------	Adv
+2	původní	AAIS1----1A----	Atr
+3	objekt	NNIS1-----A----	Sb
+4	byl	VpYS---XR-AA---	AuxV
+5	v	RR--6----------	AuxP
+6	roce	NNIS6-----A---1	Adv
+7	1931	C=-------------	Atr
+8	prodán	VsYS---XX-AP---	Pred
+9	státu	NNIS3-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94205-37-p2s6
+1	Řádu	NNIS3-----A----	Obj
+2	tedy	Db-------------	AuxY
+3	nebyl	VpYS---XR-NA---	AuxV
+4	odňat	VsYS---XX-AP---	Pred
+5	.	Z:-------------	AuxK
+

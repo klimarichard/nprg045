@@ -1,0 +1,293 @@
+ln94203-128-p1s1
+1	Prostituce	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	AuxV
+3	posuzována	VsQW---XX-AP---	Pred
+4	různě	Dg-------1A----	Adv
+
+ln94203-128-p2s1A
+1	Brusel	NNIS1-----A----	ExD
+2	/	Z:-------------	Coord
+3	Praha	NNFS1-----A----	ExD
+4	(	Z:-------------	AuxG
+5	čtk	NNFXX-----A---8	ExD
+6	,	Z:-------------	Coord
+7	gag	NNXXX-----A---8	ExD
+8	)	Z:-------------	AuxG
+9	-	Z:-------------	AuxK
+
+ln94203-128-p2s1B
+1	V	RR--6----------	AuxP
+2	žádné	PWFS6----------	Atr
+3	zemi	NNFS6-----A----	Adv
+4	Evropské	AAFS2----1A----	Atr
+5	unie	NNFS2-----A----	Atr
+6	není	VB-S---3P-NA---	AuxV
+7	prostituce	NNFS1-----A----	Sb
+8	považována	VsQW---XX-AP---	Pred
+9	za	RR--4----------	AuxP
+10	trestný	AAIS4----1A----	Atr
+11	čin	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94203-128-p2s2
+1	Maximálně	Dg-------1A----	Adv
+2	je	VB-S---3P-AA---	AuxV
+3	(	Z:-------------	AuxG
+4	Německo	NNNS1-----A----	ExD
+5	,	Z:-------------	Coord
+6	Řecko	NNNS1-----A----	ExD
+7	)	Z:-------------	AuxG
+8	regulována	VsQW---XX-AP---	Pred
+9	.	Z:-------------	AuxK
+
+ln94203-128-p3s1
+1	V	RR--6----------	AuxP
+2	ČR	NNFXX-----A---8	Adv
+3	by	Vc-------------	AuxV
+4	měl	VpYS---XR-AA---	Pred
+5	připravovaný	AAIS1----1A----	Atr
+6	zákon	NNIS1-----A----	Sb
+7	o	RR--6----------	AuxP
+8	regulaci	NNFS6-----A----	Atr
+9	prostituce	NNFS2-----A----	Atr
+10	např	Db------------8	AuxY
+11	.	Z:-------------	AuxG
+12	zakázat	Vf--------A----	Obj
+13	její	PSNS4FS3-------	Atr
+14	provozování	NNNS4-----A----	Obj
+15	osobám	NNFP3-----A----	Obj
+16	mladším	AAFP3----2A----	Atr
+17	18	C=-------------	Atr
+18	let	NNNP2-----A----	Adv
+19	,	Z:-------------	Coord
+20	umožněna	VsQW---XX-AP---	Obj
+21	by	Vc-------------	AuxV
+22	neměla	VpQW---XR-NA---	Pred
+23	být	Vf--------A----	AuxV
+24	ani	J^-------------	AuxZ
+25	v	RR--6----------	AuxP
+26	okolí	NNNS6-----A----	Adv
+27	škol	NNFP2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	církevních	AAIP2----1A----	Atr
+30	objektů	NNIP2-----A----	Atr
+31	,	Z:-------------	AuxX
+32	ubytoven	NNFP2-----A----	Atr
+33	mládeže	NNFS2-----A----	Atr
+34	či	J^-------------	Coord
+35	státních	AAFP2----1A----	Atr
+36	institucí	NNFP2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+ln94203-128-p3s2
+1	Tam	Db-------------	Adv
+2	,	Z:-------------	AuxX
+3	kde	Db-------------	Adv
+4	bude	VB-S---3F-AA---	AuxV
+5	prostituce	NNFS1-----A----	Sb
+6	trpěna	VsQW---XX-AP---	Adv
+7	obcí	NNFS7-----A----	Obj
+8	,	Z:-------------	AuxX
+9	ji	PPFS4--3-------	Obj
+10	nelze	VB-S---3P-NA---	Sb
+11	provozovat	Vf--------A----	Sb
+12	způsobem	NNIS7-----A----	Adv
+13	budícím	AGIS7-----A----	Atr
+14	pohoršení	NNNS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	stojí	VB-S---3P-AA---	Pred
+17	mj	Db------------8	Adv
+18	.	Z:-------------	AuxG
+19	v	RR--6----------	AuxP
+20	návrhu	NNIS6-----A----	Adv
+21	zákona	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94203-128-p4s1
+1	Ve	RV--6----------	AuxP
+2	Francii	NNFS6-----A----	Adv
+3	riskují	VB-P---3P-AA---	Pred
+4	prostitutky	NNFP1-----A----	Sb
+5	jen	TT-------------	AuxZ
+6	nízké	AAFP4----1A----	Atr
+7	pokuty	NNFP4-----A----	Obj
+8	a	J^-------------	Coord
+9	vymáhání	NNNS4-----A----	Obj
+10	daní	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94203-128-p4s2
+1	Úřady	NNIP1-----A----	Sb
+2	mohou	VB-P---3P-AA--1	Pred
+3	proti	RR--3----------	AuxP
+4	nim	P5XP3--3-------	Adv
+5	zasahovat	Vf--------A----	Obj
+6	jen	TT-------------	AuxZ
+7	omezeně	Dg-------1A----	Adv
+8	.	Z:-------------	AuxK
+
+ln94203-128-p4s3
+1	Často	Dg-------1A----	Adv
+2	při	RR--6----------	AuxP
+3	tom	PDZS6----------	Adv
+4	porušují	VB-P---3P-AA---	Pred
+5	zákony	NNIP4-----A----	Obj
+6	omezováním	NNNS7-----A----	Adv
+7	osobní	AAFS2----1A----	Atr
+8	svobody	NNFS2-----A----	Atr
+9	lehkých	AAFP2----1A----	Atr
+10	žen	NNFP2-----A----	Atr
+11	a	J^-------------	Coord
+12	ty	PDFP1----------	Sb
+13	si	P7-X3----------	AuxT
+14	pak	Db-------------	Adv
+15	stěžují	VB-P---3P-AA---	Pred
+16	.	Z:-------------	AuxK
+
+ln94203-128-p4s4
+1	Při	RR--6----------	AuxP
+2	řádném	AANS6----1A----	Atr
+3	provozování	NNNS6-----A----	Adv
+4	nejstaršího	AANS2----3A----	Atr
+5	řemesla	NNNS2-----A----	Atr
+6	prostitutky	NNFP1-----A----	Atr
+7	riskují	VB-P---3P-AA---	Pred
+8	jen	TT-------------	AuxZ
+9	pokuty	NNFP4-----A----	Obj
+10	za	RR--4----------	AuxP
+11	provokativní	AAIP4----1A----	Atr
+12	postoje	NNIP4-----A----	Atr
+13	,	Z:-------------	AuxX
+14	které	P4FP1----------	Sb
+15	nepřesahují	VB-P---3P-NA---	Atr
+16	200	C=-------------	Obj
+17	franků	NNIP2-----A----	Atr
+18	(	Z:-------------	Apos
+19	asi	TT-------------	AuxZ
+20	1000	C=-------------	Obj
+21	Kč	NNFXX-----A----	Atr
+22	)	Z:-------------	AuxG
+23	a	J^-------------	Coord
+24	slouží	VB-P---3P-AA---	Pred
+25	spíše	Dg-------2A---1	Adv
+26	k	RR--3----------	AuxP
+27	odrazování	NNNS3-----A----	Obj
+28	prostitutek	NNFP2-----A----	Atr
+29	od	RR--2----------	AuxP
+30	některých	PZXP2----------	Atr
+31	míst	NNNP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+ln94203-128-p5s1
+1	V	RR--6----------	AuxP
+2	SRN	NNFXX-----A---8	Adv
+3	každá	AAFS1----1A----	Atr
+4	spolková	AAFS1----1A----	Atr
+5	země	NNFS1-----A----	Sb
+6	upravuje	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	a	J^-------------	Coord
+10	jak	Db-------------	Adv
+11	je	VB-S---3P-AA---	Obj
+12	možné	AANS1----1A----	Pnom
+13	prostituci	NNFS4-----A----	Obj
+14	provozovat	Vf--------A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94203-128-p5s2
+1	Města	NNNP1-----A----	Sb
+2	přísně	Dg-------1A----	Adv
+3	vymezují	VB-P---3P-AA---	Pred
+4	prostor	NNIS4-----A----	Obj
+5	pro	RR--4----------	AuxP
+6	výkon	NNIS4-----A----	AtrAdv
+7	tohoto	PDZS2----------	Atr
+8	povolání	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94203-128-p5s3
+1	Spolkové	AAIP1----1A----	Atr
+2	zákony	NNIP1-----A----	Sb
+3	počítají	VB-P---3P-AA---	Pred
+4	jen	TT-------------	AuxZ
+5	s	RR--7----------	AuxP
+6	tresty	NNIP7-----A----	Obj
+7	za	RR--4----------	AuxP
+8	napomáhání	NNNS4-----A----	Atr
+9	prostituci	NNFS3-----A----	Atr
+10	či	J^-------------	Coord
+11	za	RR--4----------	AuxP
+12	její	PSFSXFS3-------	Atr
+13	podporu	NNFS4-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94203-128-p5s4
+1	Nepřípustné	AANS1----1N----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	poskytovat	Vf--------A----	Sb
+4	placené	AAFP4----1A----	Atr
+5	sexuální	AAFP4----1A----	Atr
+6	služby	NNFP4-----A----	Obj
+7	nezletilým	AAMP3----1N----	Obj
+8	.	Z:-------------	AuxK
+
+ln94203-128-p5s5
+1	Postižitelná	AAFS1----1A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	také	Db-------------	AuxZ
+4	jejich	PSXXXXP3-------	Atr
+5	propagace	NNFS1-----A----	Sb
+6	.	Z:-------------	AuxK
+
+ln94203-128-p6s1
+1	Italský	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	roku	NNIS2-----A---1	Atr
+5	1958	C=-------------	Atr
+6	zrušil	VpYS---XR-AA---	Pred
+7	veřejné	AAIP4----1A----	Atr
+8	domy	NNIP4-----A----	Obj
+9	a	J^-------------	Coord
+10	nechal	VpYS---XR-AA---	Pred
+11	prostitutkám	NNFP3-----A----	Obj
+12	ulice	NNFP4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94203-128-p6s2
+1	Zákon	NNIS1-----A----	Sb
+2	nemluví	VB-S---3P-NA---	Pred
+3	o	RR--6----------	AuxP
+4	trestání	NNNS6-----A----	Obj
+5	prostituce	NNFS2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+ln94203-128-p6s3
+1	Stíhatelné	AAFP1----1A----	Pnom
+2	jsou	VB-P---3P-AA---	Pred
+3	jen	TT-------------	AuxZ
+4	osoby	NNFP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	které	P4FP1----------	Sb
+7	k	RR--3----------	AuxP
+8	prostituci	NNFS3-----A----	Adv
+9	navádějí	VB-P---3P-AA---	Atr
+10	,	Z:-------------	AuxX
+11	verbují	VB-P---3P-AA---	Atr
+12	pro	RR--4----------	AuxP
+13	ni	P5FS4--3-------	Adv
+14	,	Z:-------------	AuxX
+15	poskytují	VB-P---3P-AA---	Atr
+16	pro	RR--4----------	AuxP
+17	ni	P5FS4--3-------	Adv
+18	domy	NNIP4-----A----	Obj
+19	či	J^-------------	Coord
+20	byty	NNIP4-----A----	Obj
+21	nebo	J^-------------	Coord
+22	ji	PPFS4--3-------	Obj
+23	jakýmkoli	PZZS7---------1	Atr
+24	způsobem	NNIS7-----A----	Adv
+25	kontrolují	VB-P---3P-AA---	Atr
+26	.	Z:-------------	AuxK
+

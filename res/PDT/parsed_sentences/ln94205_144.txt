@@ -1,0 +1,210 @@
+ln94205-144-p1s1
+1	Felicia	NNFS1-----A---1	ExD
+2	na	RR--4----------	AuxP
+3	trh	NNIS4-----A----	ExD
+4	až	TT-------------	AuxZ
+5	v	RR--6----------	AuxP
+6	listopadu	NNIS6-----A----	ExD
+
+ln94205-144-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pin	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94205-144-p2s1B
+1	Nový	AAIS4----1A----	Atr
+2	automobil	NNIS4-----A----	Obj
+3	Felicia	NNFS1-----A---1	Atr
+4	z	RR--2----------	AuxP
+5	produkce	NNFS2-----A----	Atr
+6	Škody	NNFS2-----A----	Atr
+7	-	Z:-------------	AuxG
+8	VW	NNFXX-----A----	Atr
+9	si	P7-X3----------	Obj
+10	budou	VB-P---3F-AA---	AuxV
+11	moci	Vf--------A----	Pred
+12	první	CrMP1----------	Atr
+13	tuzemští	AAMP1----1A----	Atr
+14	zákazníci	NNMP1-----A----	Sb
+15	koupit	Vf--------A----	Obj
+16	až	TT-------------	AuxZ
+17	koncem	NNIS7-----A----	AuxP
+18	listopadu	NNIS2-----A----	Adv
+19	.	Z:-------------	AuxK
+
+ln94205-144-p2s2
+1	Mluvčí	NNMS1-----A----	Atr
+2	mladoboleslavské	AAFS2----1A----	Atr
+3	automobilky	NNFS2-----A----	Atr
+4	Milan	NNMS1-----A----	Atr
+5	Smutný	NNMS1-----A----	Sb
+6	zároveň	Db-------------	Adv
+7	popřel	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	se	P7-X4----------	AuxR
+11	felicie	NNFP1-----A----	Sb
+12	začnou	VB-P---3P-AA---	Obj
+13	v	RR--6----------	AuxP
+14	zahraničí	NNNS6-----A----	Adv
+15	prodávat	Vf--------A----	Obj
+16	dříve	Dg-------2A----	Adv
+17	.	Z:-------------	AuxK
+
+ln94205-144-p2s3
+1	Upozornil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	nových	AAIP2----1A----	Atr
+5	vozů	NNIP2-----A----	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	zpočátku	Db-------------	Adv
+8	vyráběno	VsNS---XX-AP---	Obj
+9	velmi	Db-------------	Adv
+10	málo	Dg-------1A----	Sb
+11	a	J^-------------	Coord
+12	náběh	NNIS1-----A----	Sb
+13	výroby	NNFS2-----A----	Atr
+14	má	VB-S---3P-AA---	Obj
+15	trvat	Vf--------A----	Obj
+16	přibližně	Dg-------1A----	Adv
+17	půl	NNFS4-----A----	Adv
+18	roku	NNIS2-----A---1	Atr
+19	.	Z:-------------	AuxK
+
+ln94205-144-p3s1
+1	Na	RR--4----------	AuxP
+2	otázku	NNFS4-----A----	Adv
+3	zpravodaje	NNMS2-----A----	Atr
+4	LN	NNFPX-----A---8	Atr
+5	odmítl	VpYS---XR-AA--1	Pred
+6	M	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	Smutný	NNMS1-----A----	Sb
+9	potvrdit	Vf--------A----	Obj
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	termín	NNIS1-----A----	Sb
+13	zahájení	NNNS2-----A----	Atr
+14	náběhu	NNIS2-----A----	Atr
+15	výroby	NNFS2-----A----	Atr
+16	nového	AAIS2----1A----	Atr
+17	vozu	NNIS2-----A----	Atr
+18	byl	VpYS---XR-AA---	AuxV
+19	ve	RV--6----------	AuxP
+20	vrchlabském	AAIS6----1A----	Atr
+21	závodě	NNIS6-----A----	Adv
+22	stanoven	VsYS---XX-AP---	Obj
+23	na	RR--4----------	AuxP
+24	5	C=-------------	Atr
+25	.	Z:-------------	AuxG
+26	září	NNNS2-----A----	Adv
+27	.	Z:-------------	AuxK
+
+ln94205-144-p3s2
+1	Produkce	NNFS1-----A----	Sb
+2	vozu	NNIS2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	tzv	AAXXX----1A---8	Atr
+5	.	Z:-------------	AuxG
+6	krátkém	AANS6----1A----	Atr
+7	provedení	NNNS6-----A----	Atr
+8	má	VB-S---3P-AA---	Pred
+9	přímo	Dg-------1A----	AuxZ
+10	v	RR--6----------	AuxP
+11	Mladé	AAFS6----1A----	Atr
+12	Boleslavi	NNFS6-----A----	Adv
+13	začít	Vf--------A----	Obj
+14	až	TT-------------	AuxZ
+15	po	RR--6----------	AuxP
+16	vyrobení	NNNS6-----A----	Adv
+17	100000	C=-------------	Atr
+18	kusů	NNIP2-----A----	Atr
+19	současných	AAIP2----1A----	Atr
+20	modelů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94205-144-p3s3
+1	Potom	Db-------------	Adv
+2	dojde	VB-S---3P-AA---	Pred
+3	k	RR--3----------	AuxP
+4	vynucené	AAFS3----1A----	Atr
+5	technologické	AAFS3----1A----	Atr
+6	přestávce	NNFS3-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln94205-144-p3s4
+1	Při	RR--6----------	AuxP
+2	běžném	AAIS6----1A----	Atr
+3	provozu	NNIS6-----A---1	Adv
+4	sjíždí	VB-S---3P-AA---	Pred
+5	denně	Dg-------1A----	Adv
+6	z	RR--2----------	AuxP
+7	pásů	NNIP2-----A----	Adv
+8	celkem	Db-------------	AuxZ
+9	asi	TT-------------	AuxZ
+10	700	C=-------------	Sb
+11	formanů	NNIP2-----A----	Atr
+12	a	J^-------------	Coord
+13	favoritů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94205-144-p4s1
+1	Cenu	NNFS4-----A----	Obj
+2	Felicie	NNFS2-----A----	Atr
+3	chce	VB-S---3P-AA---	Pred
+4	Škoda	NNFS1-----A----	Sb
+5	-	Z:-------------	AuxG
+6	VW	NNFXX-----A----	Atr
+7	stlačit	Vf--------A----	Obj
+8	co	Db-------------	Adv
+9	nejvíce	Dg-------3A----	Adv
+10	pod	RR--4----------	AuxP
+11	hranici	NNFS4-----A----	Adv
+12	250000	C=-------------	Atr
+13	korun	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94205-144-p4s2
+1	Přesnější	AAIP4----2A----	Atr
+2	údaje	NNIP4-----A----	Obj
+3	odmítl	VpYS---XR-AA--1	Pred
+4	mluvčí	NNMS1-----A----	Sb
+5	sdělit	Vf--------A----	Obj
+6	.	Z:-------------	AuxK
+
+ln94205-144-p4s3
+1	Modernizovaná	AAFS1----1A----	Atr
+2	verze	NNFS1-----A----	Sb
+3	modelu	NNIS2-----A----	Atr
+4	Forman	NNIS1-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	má	VB-S---3P-AA---	Pred
+7	začít	Vf--------A----	Obj
+8	vyrábět	Vf--------A----	Obj
+9	počátkem	NNIS7-----A----	AuxP
+10	příštího	AAIS2----1A----	Atr
+11	roku	NNIS2-----A---1	Adv
+12	a	J^-------------	Coord
+13	první	CrIP1----------	Atr
+14	nové	AAIP1----1A----	Atr
+15	pick	AAXXX----1A----	Atr
+16	-	Z:-------------	AuxG
+17	upy	NNIP1-----A----	Sb
+18	budou	VB-P---3F-AA---	AuxV
+19	sjíždět	Vf--------A----	Pred
+20	z	RR--2----------	AuxP
+21	pásů	NNIP2-----A----	Adv
+22	v	RR--6----------	AuxP
+23	závodě	NNIS6-----A----	Atr
+24	automobilky	NNFS2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	Kvasinách	NNFP6-----A----	Atr
+27	od	RR--2----------	AuxP
+28	léta	NNNS2-----A----	Adv
+29	roku	NNIS2-----A---1	Atr
+30	1995	C=-------------	Atr
+31	.	Z:-------------	AuxK
+

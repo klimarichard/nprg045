@@ -1,0 +1,130 @@
+ln94202-9-p1s1
+1	Vietnamské	AAFP1----1A----	Atr
+2	silnice	NNFP1-----A----	Sb
+3	patří	VB-P---3P-AA---	Pred
+4	k	RR--3----------	AuxP
+5	rizikovým	AAFP3----1A----	ExD
+
+ln94202-9-p2s1A
+1	Hanoj	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94202-9-p2s1B
+1	Silniční	AAFS1----1A----	Atr
+2	doprava	NNFS1-----A----	Sb
+3	ve	RV--6----------	AuxP
+4	Vietnamu	NNIS6-----A----	Atr
+5	je	VB-S---3P-AA---	Pred
+6	jednou	ClFS7----------	Pnom
+7	z	RR--2----------	AuxP
+8	nejnebezpečnějších	AAFP2----3N----	Atr
+9	na	RR--6----------	AuxP
+10	světě	NNIS6-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94202-9-p2s2
+1	Podle	RR--2----------	AuxP
+2	oficiálních	AAIP2----1A----	Atr
+3	údajů	NNIP2-----A----	Adv
+4	tam	Db-------------	Adv
+5	za	RR--4----------	AuxP
+6	posledních	AAIP2----1A----	Atr
+7	šest	Cn-S4----------	Adv
+8	měsíců	NNIP2-----A----	Atr
+9	na	RR--6----------	AuxP
+10	silnicích	NNFP6-----A----	Adv
+11	zahynulo	VpNS---XR-AA---	Pred
+12	téměř	Db-------------	AuxZ
+13	2000	C=-------------	Sb
+14	lidí	NNMP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94202-9-p3s1
+1	Počet	NNIS1-----A----	Sb
+2	dopravních	AAFP2----1A----	Atr
+3	nehod	NNFP2-----A----	Atr
+4	za	RR--4----------	AuxP
+5	loňský	AAIS4----1A----	Atr
+6	rok	NNIS4-----A----	Atr
+7	překročil	VpYS---XR-AA---	Pred
+8	12000	C=-------------	Obj
+9	.	Z:-------------	AuxK
+
+ln94202-9-p3s2
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	předchozím	AAIS6----1A----	Atr
+4	jich	PPXP2--3-------	Atr
+5	bylo	VpNS---XR-AA---	Pred
+6	zaznamenáno	VsNS---XX-AP---	Pnom
+7	7565	C=-------------	Sb
+8	.	Z:-------------	AuxK
+
+ln94202-9-p3s3
+1	Počet	NNIS1-----A----	Sb
+2	smrtelných	AAFP2----1A----	Atr
+3	obětí	NNFP2-----A----	Atr
+4	stoupl	VpYS---XR-AA--1	Pred
+5	za	RR--4----------	AuxP
+6	stejné	AANS4----1A----	Atr
+7	období	NNNS4-----A----	Adv
+8	z	RR--2----------	AuxP
+9	2834	C=-------------	Adv
+10	na	RR--4----------	AuxP
+11	4150	C=-------------	Adv
+12	.	Z:-------------	AuxK
+
+ln94202-9-p4s1
+1	Nejvíce	Dg-------3A----	Sb
+2	nehod	NNFP2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	Hanoji	NNFS6-----A----	Adv
+6	a	J^-------------	Coord
+7	v	RR--6----------	AuxP
+8	Ho	NNMXX-----A----	Atr
+9	Či	NNMXX-----A----	Atr
+10	Minově	AUNS6M---------	Atr
+11	Městě	NNNS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	kde	Db-------------	Adv
+14	jezdí	VB-S---3P-AA---	Atr
+15	více	Dg-------2A----	Sb
+16	než	J,-------------	AuxC
+17	polovina	NNFS1-----A----	Adv
+18	z	RR--2----------	AuxP
+19	odhadovaných	AAIP2----1A----	Atr
+20	dvou	ClXP2----------	Atr
+21	milionů	NNIP2-----A----	Atr
+22	registrovaných	AANP2----1A----	Atr
+23	motorových	AANP2----1A----	Atr
+24	kol	NNNP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94202-9-p4s2
+1	Vinu	NNFS4-----A----	Obj
+2	na	RR--6----------	AuxP
+3	nehodách	NNFP6-----A----	Atr
+4	má	VB-S---3P-AA---	Pred
+5	nedostatečná	AAFS1----1N----	Atr
+6	znalost	NNFS1-----A----	Sb
+7	pravidel	NNNP2-----A----	Atr
+8	silničního	AAIS2----1A----	Atr
+9	provozu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	špatné	AAFP1----1A----	Atr
+12	silnice	NNFP1-----A----	Sb
+13	a	J^-------------	Coord
+14	prudký	AAIS1----1A----	Atr
+15	rozvoj	NNIS1-----A----	Sb
+16	soukromé	AAFS2----1A----	Atr
+17	dopravy	NNFS2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	která	P4FS1----------	Sb
+20	nahrazuje	VB-S---3P-AA---	Atr
+21	neodpovídající	AGIS4-----N----	Atr
+22	systém	NNIS4-----A----	Obj
+23	dopravy	NNFS2-----A----	Atr
+24	veřejné	AAFS2----1A----	Atr
+25	.	Z:-------------	AuxK
+

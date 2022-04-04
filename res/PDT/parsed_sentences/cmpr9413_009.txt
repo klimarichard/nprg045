@@ -1,0 +1,81 @@
+cmpr9413-009-p2s1
+1	Číslo	NNNS1-----A----	ExD
+2	týdne	NNIS2-----A----	Atr
+
+cmpr9413-009-p3s1C
+1	1000000	C=-------------	ExD
+
+cmpr9413-009-p3s1B
+1	Milionový	AAIS4----1A----	Atr
+2	poplatek	NNIS4-----A----	Obj
+3	za	RR--4----------	AuxP
+4	vydání	NNNS4-----A----	Atr
+5	osvědčení	NNNS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	které	P4NS1----------	Sb
+8	umožňuje	VB-S---3P-AA---	Atr
+9	vést	Vf--------A----	Obj
+10	lékárnu	NNFS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	zakázalo	VpNS---XR-AA---	Pred
+13	vybírat	Vf--------A----	Obj
+14	Ministerstvo	NNNS1-----A----	Sb
+15	pro	RR--4----------	AuxP
+16	hospodářskou	AAFS4----1A----	Atr
+17	soutěž	NNFS4-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9413-009-p3s2
+1	Správní	AANS1----1A----	Atr
+2	řízení	NNNS1-----A----	Sb
+3	proti	RR--3----------	AuxP
+4	České	AAFS3----1A----	Atr
+5	lékárnické	AAFS3----1A----	Atr
+6	komoře	NNFS3-----A----	Atr
+7	tak	Db-------------	Adv
+8	bylo	VpNS---XR-AA---	AuxV
+9	ukončeno	VsNS---XX-AP---	Pred
+10	.	Z:-------------	AuxK
+
+cmpr9413-009-p3s3
+1	Tento	PDIS4----------	Atr
+2	poplatek	NNIS4-----A----	Obj
+3	odhlasovali	VpMP---XR-AA---	Pred
+4	její	PSXP1FS3-------	Atr
+5	členové	NNMP1-----A----	Sb
+6	na	RR--6----------	AuxP
+7	svém	P8ZS6----------	Atr
+8	druhém	CrIS6----------	Atr
+9	sjezdu	NNIS6-----A---1	Adv
+10	v	RR--6----------	AuxP
+11	říjnu	NNIS6-----A----	Adv
+12	1992	C=-------------	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9413-009-p3s4
+1	Určoval	VpYS---XR-AA---	Pred
+2	částku	NNFS4-----A----	Obj
+3	milion	NNIS4-----A----	Atr
+4	korun	NNFP2-----A----	Atr
+5	pro	RR--4----------	AuxP
+6	udělení	NNNS4-----A----	AdvAtr
+7	provozní	AAFS2----1A----	Atr
+8	licence	NNFS2-----A----	Atr
+9	majiteli	NNMS3-----A----	AtrObj
+10	lékáren	NNFP2-----A----	Atr
+11	bez	RR--2----------	AuxP
+12	příslušné	AAFS2----1A----	Atr
+13	kvalifikace	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	zatímco	J,-------------	AuxC
+16	lékárníci	NNMP1-----A----	Sb
+17	by	Vc-------------	AuxV
+18	měli	VpMP---XR-AA---	Adv
+19	za	RR--4----------	AuxP
+20	její	PSNS4FS3-------	Atr
+21	udělení	NNNS4-----A----	Obj
+22	platit	Vf--------A----	Obj
+23	1000	C=-------------	Obj
+24	korun	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+

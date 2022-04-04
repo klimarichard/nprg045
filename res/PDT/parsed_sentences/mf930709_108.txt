@@ -1,0 +1,122 @@
+mf930709-108-p1s1
+1	Sklářská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	zajišťuje	VB-S---3P-AA---	Pred
+4	lékaře	NNMP4-----A----	Obj
+
+mf930709-108-p2s1A
+1	Suchdol	NNIS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Lužnicí	NNFS7-----A----	Atr
+4	(	Z:-------------	ExD
+5	ria	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+mf930709-108-p2s1B
+1	Zřizovatelem	NNMS7-----A----	Pnom
+2	jediného	AANS2----1A----	Atr
+3	zdravotního	AANS2----1A----	Atr
+4	střediska	NNNS2-----A----	Atr
+5	v	RR--6----------	AuxP
+6	Suchdole	NNIS6-----A----	Atr
+7	nad	RR--7----------	AuxP
+8	Lužnicí	NNFS7-----A----	Atr
+9	je	VB-S---3P-AA---	Pred
+10	od	RR--2----------	AuxP
+11	letoška	NNIS2-----A----	Adv
+12	akciová	AAFS1----1A----	Atr
+13	společnost	NNFS1-----A----	Sb
+14	Skloform	NNIS1-----A----	Atr
+15	Nová	AAFS1----1A----	Atr
+16	Ves	NNFS1-----A----	Atr
+17	nad	RR--7----------	AuxP
+18	Lužnicí	NNFS7-----A----	Atr
+19	,	Z:-------------	AuxX
+20	která	P4FS1----------	Sb
+21	vlastní	VB-S---3P-AA---	Atr
+22	závod	NNIS4-----A----	Obj
+23	na	RR--4----------	AuxP
+24	výrobu	NNFS4-----A----	Atr
+25	sklářských	AAFP2----1A----	Atr
+26	forem	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+mf930709-108-p2s2
+1	Společnost	NNFS1-----A----	Sb
+2	zaměstnává	VB-S---3P-AA---	Pred
+3	praktické	AAMP4----1A----	Atr
+4	a	J^-------------	Coord
+5	zubní	AAMP4----1A----	Atr
+6	lékaře	NNMP4-----A----	Obj
+7	,	Z:-------------	AuxX
+8	sestry	NNFP4-----A----	Obj
+9	i	J^-------------	Coord
+10	laboranty	NNMP4-----A----	Obj
+11	a	J^-------------	Coord
+12	má	VB-S---3P-AA---	Pred
+13	uzavřenou	AAFS4----1A----	Atv
+14	smlouvu	NNFS4-----A----	Obj
+15	s	RR--7----------	AuxP
+16	pěti	Cn-P7----------	Atr
+17	zdravotními	AAFP7----1A----	Atr
+18	pojišťovnami	NNFP7-----A----	Obj
+19	,	Z:-------------	AuxX
+20	takže	J,-------------	AuxC
+21	středisko	NNNS1-----A----	Sb
+22	může	VB-S---3P-AA---	Adv
+23	poskytovat	Vf--------A----	Obj
+24	služby	NNFP4-----A----	Obj
+25	obyvatelům	NNMP3-----A----	Obj
+26	celého	AAIS2----1A----	Atr
+27	příhraničního	AAIS2----1A----	Atr
+28	regionu	NNIS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+mf930709-108-p2s3
+1	Skloform	NNIS1-----A----	Sb
+2	chce	VB-S---3P-AA---	Pred
+3	moderním	AANS7----1A----	Atr
+4	vybavením	NNNS7-----A----	Adv
+5	stomatologické	AAFS2----1A----	Atr
+6	laboratoře	NNFS2-----A----	Atr
+7	přilákat	Vf--------A----	Obj
+8	zákazníky	NNMP4-----A----	Obj
+9	z	RR--2----------	AuxP
+10	Rakouska	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	pro	RR--4----------	AuxP
+13	něž	P9XP4----------	Adv
+14	jsou	VB-P---3P-AA---	Atr
+15	dentistické	AAIP1----1A----	Atr
+16	úkony	NNIP1-----A----	Sb
+17	v	RR--6----------	AuxP
+18	České	AAFS6----1A----	Atr
+19	republice	NNFS6-----A----	AdvAtr
+20	finančně	Dg-------1A----	Adv
+21	výhodné	AAIP1----1A----	Pnom
+22	.	Z:-------------	AuxK
+
+mf930709-108-p2s4
+1	Skloform	NNIS1-----A----	Sb
+2	,	Z:-------------	Apos
+3	ryze	Dg-------1A----	Adv
+4	česká	AAFS1----1A----	Atr
+5	akciová	AAFS1----1A----	Atr
+6	společnost	NNFS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	předběhl	VpYS---XR-AA--1	Pred
+9	záměr	NNIS4-----A----	Obj
+10	vybudovat	Vf--------A----	Atr
+11	soukromé	AANS4----1A----	Atr
+12	stomatologické	AANS4----1A----	Atr
+13	zařízení	NNNS4-----A----	Obj
+14	v	RR--6----------	AuxP
+15	Českých	AAFP6----1A----	Atr
+16	Velenicích	NNFP6-----A----	AtrAdv
+17	s	RR--7----------	AuxP
+18	rakouskou	AAFS7----1A----	Atr
+19	kapitálovou	AAFS7----1A----	Atr
+20	účastí	NNFS7-----A----	AtrAdv
+21	.	Z:-------------	AuxK
+

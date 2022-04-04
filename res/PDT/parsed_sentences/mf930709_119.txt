@@ -1,0 +1,684 @@
+mf930709-119-p1s1
+1	Jak	J,-------------	Adv
+2	čtenář	NNMS1-----A----	Sb
+3	detektivek	NNFP2-----A----	Atr
+4	trpí	VB-S---3P-AA---	Pred
+5	nad	RR--7----------	AuxP
+6	denním	AAIS7----1A----	Atr
+7	tiskem	NNIS7-----A----	Adv
+
+mf930709-119-p2s1
+1	Vražda	NNFS1-----A----	ExD
+2	spáchána	VsQW---XX-AP---	ExD
+3	,	Z:-------------	AuxX
+4	mrtvola	NNFS1-----A----	ExD
+5	nalezena	VsQW---XX-AP---	ExD
+6	,	Z:-------------	AuxX
+7	detektiv	NNMS1-----A----	ExD
+8	povolán	VsYS---XX-AP---	ExD
+9	,	Z:-------------	AuxX
+10	stopy	NNFP1-----A----	ExD
+11	ohledány	VsTP---XX-AP---	ExD
+12	,	Z:-------------	AuxX
+13	mozková	AAFS1----1A----	Atr
+14	kůra	NNFS1-----A----	ExD
+15	potýrána	VsQW---XX-AP---	ExD
+16	,	Z:-------------	Coord
+17	zahradník	NNMS1-----A----	ExD
+18	odhalen	VsYS---XX-AP---	ExD
+19	.	Z:-------------	AuxK
+
+mf930709-119-p2s2
+1	Na	RR--4----------	AuxP
+2	takový	PDIS4----------	Atr
+3	postup	NNIS4-----A----	Obj
+4	je	VB-S---3P-AA---	Pred
+5	zvyklý	AAMS1----1A----	Pnom
+6	čtenář	NNMS1-----A----	Sb
+7	detektivních	AAIP2----1A----	Atr
+8	románů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+mf930709-119-p3s1
+1	Jinak	Db-------------	Adv
+2	-	Z:-------------	AuxG
+3	a	J^-------------	Coord
+4	řekněme	Vi-P---1--A----	Pred
+5	hned	Db-------------	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	mnohem	Db-------------	AuxZ
+9	hůře	Dg-------2A---1	ExD
+10	-	Z:-------------	AuxG
+11	je	VB-S---3P-AA---	Pred
+12	na	RR--6----------	AuxP
+13	tom	PDZS6----------	Adv
+14	čtenář	NNMS1-----A----	Sb
+15	denního	AAIS2----1A----	Atr
+16	tisku	NNIS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930709-119-p4s1
+1	Dejme	Vi-P---1--A----	Pred
+2	tomu	PDZS3----------	Obj
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	dočte	VB-S---3P-AA---	Obj
+7	o	RR--6----------	AuxP
+8	amerických	AAMP6----1A----	Atr
+9	veteránech	NNMP6-----A----	Obj
+10	války	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Perském	AAIS6----1A----	Atr
+13	zálivu	NNIS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930709-119-p4s2
+1	Mají	VB-P---3P-AA---	Pred
+2	zdravotní	AAFP4----1A----	Atr
+3	potíže	NNFP4-----A----	Obj
+4	a	J^-------------	Coord
+5	chtějí	VB-P---3P-AA---	Pred
+6	od	RR--2----------	AuxP
+7	vlády	NNFS2-----A----	Obj
+8	náhradu	NNFS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+mf930709-119-p5s1
+1	Následuje	VB-S---3P-AA---	Pred
+2	sdělení	NNNS1-----A----	Sb
+3	našich	PSXP2-P1-------	Atr
+4	armádních	AAMP2----1A----	Atr
+5	oficiálů	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	u	RR--2----------	AuxP
+9	nás	PP-P2--1-------	Adv
+10	se	P7-X4----------	AuxT
+11	veteránům	NNMP3-----A----	Obj
+12	z	RR--2----------	AuxP
+13	perské	AAFS2----1A----	Atr
+14	války	NNFS2-----A----	Atr
+15	naopak	Db-------------	Adv
+16	daří	VB-S---3P-AA---	Atr
+17	skvěle	Dg-------1A----	Adv
+18	.	Z:-------------	AuxK
+
+mf930709-119-p5s2
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	druhá	CrFS1----------	Atr
+4	kapitola	NNFS1-----A----	Pnom
+5	.	Z:-------------	AuxK
+
+mf930709-119-p6s1
+1	V	RR--6----------	AuxP
+2	třetí	CrFS6----------	Atr
+3	kapitole	NNFS6-----A----	Adv
+4	vystoupí	VB-P---3P-AA---	Pred
+5	sami	PLMP1----------	Atv
+6	naši	PSMP1-P1-------	Atr
+7	veteráni	NNMP1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+mf930709-119-p6s2
+1	Nejen	TT-------------	AuxY
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	se	P7-X4----------	AuxT
+5	jim	PPXP3--3-------	Obj
+6	nedaří	VB-S---3P-NA---	ExD
+7	skvěle	Dg-------1A----	Adv
+8	,	Z:-------------	AuxX
+9	nýbrž	J^-------------	Coord
+10	bídně	Dg-------1A----	ExD
+11	,	Z:-------------	AuxX
+12	protože	J,-------------	AuxC
+13	se	P7-X4----------	AuxT
+14	nadýchali	VpMP---XR-AA---	Adv
+15	otravných	AAIP2----1A----	Atr
+16	plynů	NNIP2-----A----	Obj
+17	,	Z:-------------	Coord
+18	z	RR--2----------	AuxP
+19	čehož	PE--2----------	Adv
+20	hubnou	VB-P---3P-AA---	Adv
+21	,	Z:-------------	AuxX
+22	plešatějí	VB-P---3P-AA--1	Adv
+23	a	J^-------------	Coord
+24	ztrácejí	VB-P---3P-AA---	Adv
+25	zuby	NNIP4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+mf930709-119-p6s3
+1	Zápletka	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	mile	Dg-------1A----	Adv
+4	uzlí	VB-S---3P-AA---	Pred
+5	.	Z:-------------	AuxK
+
+mf930709-119-p6s4
+1	Čtenář	NNMS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	pošušňává	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	líčení	NNNS6-----A----	Obj
+6	tajné	AAFS2----1A----	Atr
+7	zprávy	NNFS2-----A----	Atr
+8	určené	AAFS2----1A----	Atr
+9	Pentagonu	NNIS3-----A----	Obj
+10	o	RR--6----------	AuxP
+11	otravných	AAIP6----1A----	Atr
+12	plynech	NNIP6-----A----	Atr
+13	vystopovaných	AAIP6----1A----	Atr
+14	našimi	PSXP7-P1-------	Atr
+15	chemiky	NNMP7-----A----	Obj
+16	v	RR--6----------	AuxP
+17	kuvajtském	AANS6----1A----	Atr
+18	ovzduší	NNNS6-----A----	Adv
+19	.	Z:-------------	AuxK
+
+mf930709-119-p6s5
+1	Zpráva	NNFS1-----A----	Sb
+2	,	Z:-------------	AuxX
+3	jak	Db-------------	Adv
+4	se	P7-X4----------	AuxT
+5	zdá	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	ututlána	VsQW---XX-AP---	Pred
+8	-	Z:-------------	AuxG
+9	kým	PKM-7----------	ExD
+10	a	J^-------------	Coord
+11	kde	Db-------------	ExD
+12	?	Z:-------------	AuxK
+
+mf930709-119-p6s6
+1	Na	RR--6----------	AuxP
+2	genštábu	NNIS6-----A----	ExD
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Atr
+5	-	Z:-------------	AuxG
+6	Dejvicích	NNFP6-----A----	Atr
+7	?	Z:-------------	AuxK
+
+mf930709-119-p6s7
+1	Nebo	J^-------------	Coord
+2	přímo	Dg-------1A----	AuxZ
+3	v	RR--6----------	AuxP
+4	Pentagonu	NNIS6-----A----	ExD
+5	?	Z:-------------	AuxK
+
+mf930709-119-p6s8
+1	Zdá	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	nastává	VB-S---3P-AA---	Sb
+6	finále	NNNS1-----A----	Sb
+7	pro	RR--4----------	AuxP
+8	detektiva	NNMS4-----A----	AdvAtr
+9	s	RR--7----------	AuxP
+10	dýmkou	NNFS7-----A----	Atr
+11	a	J^-------------	Coord
+12	rozuzlení	NNNS1-----A----	Sb
+13	bude	VB-S---3F-AA---	AuxV
+14	brzy	Dg-------1A----	Adv
+15	následovat	Vf--------A----	Sb
+16	.	Z:-------------	AuxK
+
+mf930709-119-p7s1
+1	Chyba	NNFS1-----A----	ExD
+2	lávky	NNFS2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	a	J^-------------	Coord
+5	co	PQ--1----------	Sb
+6	se	P7-X4----------	AuxT
+7	zdá	VB-S---3P-AA---	Sb
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	sen	NNIS1-----A----	Pnom
+11	.	Z:-------------	AuxK
+
+mf930709-119-p7s2
+1	Chudozubým	AAMP3----1A----	Obj
+2	prý	TT-------------	AuxY
+3	chyběly	VpTP---XR-AA---	Pred
+4	zuby	NNIP1-----A----	Sb
+5	už	Db-------------	AuxZ
+6	před	RR--7----------	AuxP
+7	tím	PDZS7----------	Adv
+8	,	Z:-------------	AuxX
+9	než	J,-------------	AuxC
+10	do	RR--2----------	AuxP
+11	války	NNFS2-----A----	Adv
+12	jeli	VpMP---XR-AA---	Atr
+13	!	Z:-------------	AuxK
+
+mf930709-119-p7s3
+1	O	RR--6----------	AuxP
+2	žádných	PWXP6----------	Atr
+3	tajných	AAFP6----1A----	Atr
+4	zprávách	NNFP6-----A----	Obj
+5	nevědí	VB-P---3P-NA--1	Pred
+6	nic	PW--4----------	Obj
+7	ti	PDMP1----------	Sb
+8	,	Z:-------------	AuxX
+9	kdo	PKM-1----------	Sb
+10	je	PPXP4--3-------	Obj
+11	běžně	Dg-------1A----	Adv
+12	utajují	VB-P---3P-AA---	Atr
+13	ať	J,-------------	AuxY
+14	už	Db-------------	AuxY
+15	v	RR--6----------	AuxP
+16	Dejvicích	NNFP6-----A----	Adv
+17	,	Z:-------------	AuxX
+18	nebo	J^-------------	Coord
+19	v	RR--6----------	AuxP
+20	Pentagonu	NNIS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+mf930709-119-p7s4
+1	O	RR--6----------	AuxP
+2	plynech	NNIP6-----A----	Obj
+3	v	RR--6----------	AuxP
+4	Kuvajtu	NNIS6-----A----	Atr
+5	nikdy	Db-------------	Adv
+6	nikdo	PWM-1----------	Sb
+7	neslyšel	VpYS---XR-NA---	Pred
+8	,	Z:-------------	AuxX
+9	kromě	RR--2----------	AuxP
+10	těch	PDXP2----------	Adv
+11	,	Z:-------------	AuxX
+12	kterým	P4XP3----------	Obj
+13	prý	TT-------------	AuxY
+14	padají	VB-P---3P-AA---	Atr
+15	zuby	NNIP1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	avšak	J^-------------	Coord
+18	po	RR--6----------	AuxP
+19	přepočítání	NNNS6-----A----	Adv
+20	se	P7-X4----------	AuxT
+21	zdá	VB-S---3P-AA---	Pred
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	je	PPXP4--3-------	Obj
+25	měli	VpMP---XR-AA---	Sb
+26	přinejmenším	Db-------------	AuxZ
+27	předvypadané	AAIP4----1A----	Atv
+28	.	Z:-------------	AuxK
+
+mf930709-119-p8s1
+1	Zklamaný	AAMS1----1A----	Pnom
+2	ze	RV--2----------	AuxP
+3	zpackané	AAFS2----1A----	Atr
+4	zápletky	NNFS2-----A----	Adv
+5	ovšem	J^-------------	AuxY
+6	bude	VB-S---3F-AA---	Pred
+7	ten	PDYS1----------	Sb
+8	,	Z:-------------	AuxX
+9	kdo	PKM-1----------	Sb
+10	nesleduje	VB-S---3P-NA---	Atr
+11	denní	AAFP4----1A----	Atr
+12	události	NNFP4-----A----	Obj
+13	průběžně	Dg-------1A----	Adv
+14	.	Z:-------------	AuxK
+
+mf930709-119-p8s2
+1	Právě	Db-------------	Adv
+2	doznívající	AGFS1-----A----	Atr
+3	celní	AAFS1----1A----	Atr
+4	aféra	NNFS1-----A----	Sb
+5	také	Db-------------	Adv
+6	patří	VB-S---3P-AA---	Pred
+7	k	RR--3----------	AuxP
+8	tomuto	PDZS3----------	Atr
+9	druhu	NNIS3-----A----	Obj
+10	vypravěčství	NNNS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	bludném	AAIS6----1A----	Atr
+13	kruhu	NNIS6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930709-119-p8s3
+1	Z	RR--2----------	AuxP
+2	poslanců	NNMP2-----A----	Obj
+3	pašujících	AGMP2-----A----	Atr
+4	auta	NNNP4-----A----	Obj
+5	pro	RR--4----------	AuxP
+6	kamarády	NNMP4-----A----	Adv
+7	a	J^-------------	Coord
+8	konve	NNFP4-----A----	ExD
+9	na	RR--4----------	AuxP
+10	mléko	NNNS4-----A----	Atr
+11	bůhví	TT-------------	AuxZ
+12	komu	PKM-3----------	ExD
+13	se	P7-X4----------	AuxT
+14	stali	VpMP---XR-AA---	Pred
+15	mužové	NNMP1-----A---1	Sb
+16	úzkostlivě	Dg-------1A----	Adv
+17	dbalí	AAMP1----1A----	Atr
+18	zákona	NNIS2-----A----	Obj
+19	,	Z:-------------	Coord
+20	ovšem	J^-------------	AuxY
+21	ten	PDYS1----------	Atr
+22	zákon	NNIS1-----A----	Sb
+23	je	VB-S---3P-AA---	Pred
+24	špatný	AAIS1----1A----	Pnom
+25	;	Z:-------------	AuxK
+
+mf930709-119-p8s4
+1	nutno	ACNS------A----	Pred
+2	ho	PHZS4--3-------	Obj
+3	opraviti	Vf--------A---2	Sb
+4	,	Z:-------------	Coord
+5	k	RR--3----------	AuxP
+6	čemuž	PE--3----------	Obj
+7	došlo	VpNS---XR-AA---	Pred
+8	v	RR--6----------	AuxP
+9	tom	PDZS6----------	Atr
+10	smyslu	NNIS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	ve	RV--6----------	AuxP
+14	výsledku	NNIS6-----A----	Adv
+15	je	VB-S---3P-AA---	Atr
+16	stejný	AAIS1----1A----	Pnom
+17	jako	J,-------------	AuxC
+18	ten	PDYS1----------	ExD
+19	dřívější	AAIS1----2A----	Atr
+20	,	Z:-------------	AuxX
+21	s	RR--7----------	AuxP
+22	tím	PDZS7----------	Atr
+23	rozdílem	NNIS7-----A----	Adv
+24	,	Z:-------------	AuxX
+25	že	J,-------------	AuxC
+26	konev	NNFS1-----A----	Sb
+27	na	RR--4----------	AuxP
+28	mléko	NNNS4-----A----	Atr
+29	budiž	Vi-S---3--A----	Atr
+30	napříště	Db-------------	Adv
+31	v	RR--6----------	AuxP
+32	bedně	NNFS6-----A----	Adv
+33	.	Z:-------------	AuxK
+
+mf930709-119-p9s1
+1	Ale	J^-------------	Coord
+2	abych	J,-S---1-------	AuxC
+3	byl	VpYS---XR-AA---	Pred
+4	přece	Db-------------	AuxY
+5	jen	TT-------------	AuxY
+6	spravedlivější	AAMS1----2A----	Pnom
+7	.	Z:-------------	AuxK
+
+mf930709-119-p9s2
+1	V	RR--6----------	AuxP
+2	této	PDFS6----------	Atr
+3	druhé	CrFS6----------	Adv
+4	z	RR--2----------	AuxP
+5	citovaných	AAFP2----1A----	Atr
+6	detektivek	NNFP2-----A----	Atr
+7	všedního	AAIS2----1A----	Atr
+8	dne	NNIS2-----A----	Atr
+9	se	P7-X4----------	AuxR
+10	přece	Db-------------	AuxY
+11	jenom	TT-------------	AuxY
+12	přišlo	VpNS---XR-AA---	Pred
+13	na	RR--4----------	AuxP
+14	skupinu	NNFS4-----A----	Obj
+15	lidí	NNMP2-----A----	Atr
+16	označitelných	AAMP2----1A----	Atr
+17	za	RR--4----------	AuxP
+18	viníky	NNMP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf930709-119-p9s3
+1	Už	Db-------------	AuxZ
+2	ve	RV--6----------	AuxP
+3	dnech	NNIP6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	hlava	NNFS1-----A----	Atr
+7	parlamentu	NNIS2-----A----	Atr
+8	Milan	NNMS1-----A----	Atr
+9	Uhde	NNMS1-----A----	Sb
+10	získal	VpYS---XR-AA---	Atr
+11	onen	PDIS4----------	Atr
+12	pověstný	AAIS4----1A----	Atr
+13	seznam	NNIS4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	o	RR--6----------	AuxP
+16	němž	P9ZS6----------	Obj
+17	pak	Db-------------	Adv
+18	prohlásil	VpYS---XR-AA---	Atr
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	ho	PHZS4--3-------	Obj
+22	sice	Db-------------	AuxY
+23	má	VB-S---3P-AA---	Obj
+24	po	RR--6----------	AuxP
+25	ruce	NNFS6-----A----	Adv
+26	,	Z:-------------	AuxX
+27	ale	J^-------------	Coord
+28	ani	J^-------------	AuxZ
+29	očkem	NNNS7-----A----	Adv
+30	do	RR--2----------	AuxP
+31	něho	P5ZS2--3------1	Adv
+32	nepohlédne	VB-S---3P-NA---	Obj
+33	,	Z:-------------	AuxX
+34	se	P7-X4----------	AuxT
+35	proslýchalo	VpNS---XR-AA---	Pred
+36	,	Z:-------------	AuxX
+37	že	J,-------------	AuxC
+38	automilní	AAMP1----1A----	Atr
+39	poslanci	NNMP1-----A----	Sb
+40	clo	NNNS4-----A----	Obj
+41	platit	Vf--------A----	Obj
+42	chtěli	VpMP---XR-AA---	Sb
+43	,	Z:-------------	AuxX
+44	avšak	J^-------------	Coord
+45	jejich	PSXXXXP3-------	Atr
+46	žadonění	NNNS1-----A----	Sb
+47	zůstalo	VpNS---XR-AA---	Sb
+48	oslyšeno	VsNS---XX-AP---	Obj
+49	celníky	NNMP7-----A----	Obj
+50	.	Z:-------------	AuxK
+
+mf930709-119-p10s1
+1	Takže	J,-------------	AuxC
+2	ti	PDMP1----------	Sb
+3	nakonec	Db-------------	AuxY
+4	za	RR--4----------	AuxP
+5	všechno	PLNS4----------	Obj
+6	mohou	VB-P---3P-AA--1	Adv
+7	.	Z:-------------	AuxK
+
+mf930709-119-p10s2
+1	Místo	J,-------------	AuxC
+2	aby	J,-------------	AuxY
+3	clo	NNNS4-----A----	Obj
+4	od	RR--2----------	AuxP
+5	poslanců	NNMP2-----A----	Obj
+6	vymáhali	VpMP---XR-AA---	Adv
+7	,	Z:-------------	AuxX
+8	říkali	VpMP---XR-AA---	Pred
+9	jim	PPXP3--3-------	Obj
+10	"	Z:-------------	AuxG
+11	jen	TT-------------	AuxZ
+12	jeďte	Vi-P---2--A----	Obj
+13	,	Z:-------------	Coord
+14	jen	TT-------------	AuxZ
+15	jeďte	Vi-P---2--A----	Obj
+16	"	Z:-------------	AuxK
+17	.	Z:-------------	AuxK
+
+mf930709-119-p10s3
+1	A	J^-------------	AuxY
+2	nedosti	Dg-------1N---3	ExD
+3	na	RR--6----------	AuxP
+4	tom	PDZS6----------	ExD
+5	.	Z:-------------	AuxK
+
+mf930709-119-p10s4
+1	Proclívají	VB-P---3P-AA---	Pred
+2	liknavě	Dg-------1A----	Adv
+3	i	J^-------------	AuxZ
+4	občany	NNMP4-----A----	Obj
+5	druhé	CrFS2----------	Atr
+6	kategorie	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	tedy	Db-------------	Apos
+9	ne	TT-------------	AuxZ
+10	-	Z:-------------	AuxG
+11	poslance	NNMP4-----A----	Obj
+12	,	Z:-------------	Coord
+13	čímž	PE--7----------	Adv
+14	odírají	VB-P---3P-AA---	Pred
+15	státní	AAFS4----1A----	Atr
+16	kasu	NNFS4-----A----	Obj
+17	o	RR--4----------	AuxP
+18	miliardy	NNFP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf930709-119-p10s6
+1	Nebýt	Vf--------N----	Adv
+2	té	PDFS2----------	Atr
+3	příznivé	AAFS2----1A----	Atr
+4	okolnosti	NNFS2-----A----	Sb
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	se	P7-X4----------	AuxR
+8	v	RR--6----------	AuxP
+9	ní	P5FS6--3-------	Adv
+10	občas	Db-------------	Adv
+11	najde	VB-S---3P-AA---	Atr
+12	zapomenutých	AAFP2----1A----	Atr
+13	deset	Cn-S1----------	Sb
+14	miliard	NNFP2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	byli	VpMP---XR-AA---	Pred
+17	bychom	Vc-P---1-------	AuxV
+18	kvůli	RR--3----------	AuxP
+19	celníkům	NNMP3-----A----	Adv
+20	možná	Db-------------	AuxY
+21	už	Db-------------	AuxZ
+22	na	RR--6----------	AuxP
+23	kolenou	NNNP6-----A---1	Adv
+24	.	Z:-------------	AuxK
+
+mf930709-119-p11s1
+1	Pachatelem	NNMS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	tedy	Db-------------	AuxY
+4	přece	Db-------------	AuxY
+5	jen	TT-------------	AuxY
+6	zahradník	NNMS1-----A----	Sb
+7	.	Z:-------------	AuxG
+8	.	Z:-------------	AuxG
+9	.	Z:-------------	AuxG
+10	omlouvám	VB-S---1P-AA---	Pred
+11	se	P7-X4----------	AuxT
+12	,	Z:-------------	Apos
+13	celník	NNMS1-----A----	Sb
+14	?	Z:-------------	AuxK
+
+mf930709-119-p12s1
+1	Nejsem	VB-S---1P-NA---	Pred
+2	si	P7-X3----------	AuxT
+3	vůbec	Db-------------	AuxZ
+4	jist	ACYS------A----	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	to	PDNS1----------	Sb
+8	tak	Db-------------	Adv
+9	opravdu	Db-------------	AuxY
+10	je	VB-S---3P-AA---	Obj
+11	.	Z:-------------	AuxK
+
+mf930709-119-p13s1
+1	Jedno	ClNS4----------	Obj
+2	však	J^-------------	Coord
+3	tuším	VB-S---1P-AA---	Pred
+4	.	Z:-------------	AuxK
+
+mf930709-119-p13s2
+1	Aniž	J,-------------	AuxC
+2	bych	Vc-S---1-------	AuxV
+3	chtěl	VpYS---XR-AA---	Adv
+4	malovat	Vf--------A----	Obj
+5	straky	NNFP4-----A----	Obj
+6	na	RR--4----------	AuxP
+7	vrbu	NNFS4-----A----	Adv
+8	,	Z:-------------	AuxX
+9	rýsuje	VB-S---3P-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	mi	PH-S3--1-------	Adv
+12	v	RR--6----------	AuxP
+13	mysli	NNFS6-----A----	Adv
+14	vidina	NNFS1-----A----	Sb
+15	příští	AAFS2----1A----	Atr
+16	oběti	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930709-119-p14s1
+1	Budu	VB-S---1F-AA---	Pred
+2	to	PDNS1----------	Pnom
+3	já	PP-S1--1-------	Sb
+4	.	Z:-------------	AuxK
+
+mf930709-119-p14s2
+1	Budete	VB-P---2F-AA---	Pred
+2	to	PDNS1----------	Pnom
+3	vy	PP-P1--2-------	Sb
+4	.	Z:-------------	AuxK
+
+mf930709-119-p14s3
+1	Budeme	VB-P---1F-AA---	Pred
+2	to	PDNS1----------	Pnom
+3	my	PP-P1--1-------	Sb
+4	všichni	PLMP1----------	Atr
+5	,	Z:-------------	AuxX
+6	kdokoli	PZM-1---------1	Sb
+7	pojedeme	VB-P---1F-AA---	Atr
+8	přes	RR--4----------	AuxP
+9	hranice	NNFP4-----A----	Adv
+10	.	Z:-------------	AuxK
+
+mf930709-119-p14s4
+1	Vsadím	VB-S---1P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	ve	RV--6----------	AuxP
+4	Fortuně	NNFS6-----A----	Adv
+5	sto	NNNS4-----A----	Adv
+6	k	RR--3----------	AuxP
+7	jedné	ClFS3----------	Atr
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	budou	VB-P---3F-AA---	AuxV
+11	clít	Vf--------A----	Obj
+12	a	J^-------------	Coord
+13	clít	Vf--------A----	Obj
+14	,	Z:-------------	AuxX
+15	až	J,-------------	AuxC
+16	se	P7-X4----------	AuxT
+17	hory	NNFP1-----A----	Sb
+18	budou	VB-P---3F-AA---	AuxV
+19	zelenat	Vf--------A----	Adv
+20	,	Z:-------------	AuxX
+21	a	J^-------------	Coord
+22	proclí	VB-P---3P-AA---	Obj
+23	nám	PP-P3--1-------	Obj
+24	všechno	PLNS4----------	Obj
+25	-	Z:-------------	AuxG
+26	až	TT-------------	AuxZ
+27	po	RR--4----------	AuxP
+28	poslední	AAFS4----1A----	Atr
+29	krabičku	NNFS4-----A----	Adv
+30	sirek	NNFP2-----A----	Atr
+31	,	Z:-------------	AuxX
+32	převáženou	AAFS4----1A----	Atr
+33	v	RR--6----------	AuxP
+34	kapse	NNFS6-----A----	Adv
+35	nekryté	AAFS6----1N----	Atr
+36	imunitou	NNFS7-----A----	Adv
+37	.	Z:-------------	AuxK
+

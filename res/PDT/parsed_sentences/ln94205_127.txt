@@ -1,0 +1,426 @@
+ln94205-127-p1s1
+1	Dnes	Db-------------	ExD
+2	česko	A2--------A----	Atr
+3	-	Z:-------------	Coord
+4	ruský	AAIS1----1A----	Atr
+5	ligový	AAIS1----1A----	Atr
+6	souboj	NNIS1-----A----	ExD
+
+ln94205-127-p2s1A
+1	Ve	RV--6----------	AuxP
+2	Zlíně	NNIS6-----A----	Adv
+3	začíná	VB-S---3P-AA---	Pred
+4	I	C}-------------	Atr
+5	.	Z:-------------	AuxG
+6	ročník	NNIS1-----A----	Sb
+7	Pragobanka	NNFS1-----A----	Atr
+8	Cupu	NNIS2-----A----	Atr
+9	s	RR--7----------	AuxP
+10	dotací	NNFS7-----A----	Atr
+11	80000	C=-------------	Atr
+12	dolarů	NNIP2-----A----	Atr
+
+ln94205-127-p2s1B
+1	Zlín	NNIS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	bra	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	tob	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94205-127-p2s1C
+1	Zápasy	NNIP7-----A----	Adv
+2	Česká	AAFS1----1A----	Atr
+3	republika	NNFS1-----A----	Atr
+4	-	Z:-------------	Coord
+5	Rusko	NNNS1-----A----	Atr
+6	(	Z:-------------	ExD
+7	16.30	C=-------------	ExD
+8	)	Z:-------------	ExD
+9	a	J^-------------	Coord
+10	Švédsko	NNNS1-----A----	Atr
+11	-	Z:-------------	Coord
+12	Slovensko	NNNS1-----A----	Atr
+13	(	Z:-------------	ExD
+14	20	C=-------------	ExD
+15	hodin	NNFP2-----A----	Atr
+16	)	Z:-------------	ExD
+17	začne	VB-S---3P-AA---	Pred
+18	dnes	Db-------------	Adv
+19	na	RR--6----------	AuxP
+20	stadionu	NNIS6-----A---1	Adv
+21	Luďka	NNMS2-----A----	Atr
+22	Čajky	NNMS2-----A----	Atr
+23	ve	RV--6----------	AuxP
+24	Zlíně	NNIS6-----A----	Atr
+25	první	CrIS1----------	Atr
+26	ročník	NNIS1-----A----	Sb
+27	mezinárodního	AAIS2----1A----	Atr
+28	hokejového	AAIS2----1A----	Atr
+29	turnaje	NNIS2-----A----	Atr
+30	Pragobanka	NNFS1-----A----	Atr
+31	Cup	NNIS1-----A----	Atr
+32	'	Z:-------------	AuxG
+33	94	C=-------------	Atr
+34	.	Z:-------------	AuxK
+
+ln94205-127-p2s2
+1	Jeho	PSXXXZS3-------	Atr
+2	vítěz	NNMS1-----A----	Sb
+3	získá	VB-S---3P-AA---	Pred
+4	prémii	NNFS4-----A----	Obj
+5	45000	C=-------------	Atr
+6	dolarů	NNIP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	druhý	CrMS1----------	ExD
+9	v	RR--6----------	AuxP
+10	pořadí	NNNS6-----A----	Adv
+11	20000	C=-------------	ExD
+12	,	Z:-------------	AuxX
+13	třetí	CrNS1----------	Atr
+14	místo	NNNS1-----A----	Sb
+15	bere	VB-S---3P-AA---	Pred
+16	10000	C=-------------	Obj
+17	a	J^-------------	Coord
+18	čtvrté	CrNS1----------	ExD
+19	5000	C=-------------	ExD
+20	USD	NNIXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+ln94205-127-p2s3
+1	Celková	AAFS1----1A----	Atr
+2	dotace	NNFS1-----A----	Sb
+3	tedy	Db-------------	AuxY
+4	činí	VB-S---3P-AA---	Pred
+5	80000	C=-------------	Adv
+6	dolarů	NNIP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94205-127-p3s1
+1	Česká	AAFS1----1A----	Atr
+2	reprezentace	NNFS1-----A----	Sb
+3	přijela	VpQW---XR-AA---	Pred
+4	do	RR--2----------	AuxP
+5	Zlína	NNIS2-----A----	Adv
+6	rovnou	Db-------------	Adv
+7	po	RR--6----------	AuxP
+8	vítězném	AAIS6----1A----	Atr
+9	zápase	NNIS6-----A----	Adv
+10	o	RR--4----------	AuxP
+11	Slovakia	AAXXX----1A----	Atr
+12	Cup	NNIS4-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Bratislavě	NNFS6-----A----	Atr
+15	a	J^-------------	Coord
+16	bude	VB-S---3F-AA---	AuxV
+17	žádat	Vf--------A----	Pred
+18	,	Z:-------------	AuxX
+19	aby	J,-------------	AuxC
+20	jí	PPFS3--3-------	Obj
+21	direktoriát	NNIS1-----A----	Sb
+22	turnaje	NNIS2-----A----	Atr
+23	povolil	VpYS---XR-AA---	Obj
+24	soupisku	NNFS4-----A----	Obj
+25	s	RR--7----------	AuxP
+26	pětadvaceti	Cn-P7----------	Atr
+27	hráči	NNMP7-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94205-127-p3s2
+1	V	RR--6----------	AuxP
+2	kádru	NNIS6-----A----	Adv
+3	zatím	Db-------------	Adv
+4	k	RR--3----------	AuxP
+5	žádným	PWXP3----------	Atr
+6	změnám	NNFP3-----A----	Obj
+7	nedošlo	VpNS---XR-NA---	Pred
+8	,	Z:-------------	AuxX
+9	neboť	J^-------------	Coord
+10	zranění	NNNP1-----A----	Sb
+11	Hořavy	NNMS2-----A----	Atr
+12	a	J^-------------	Coord
+13	Růžičky	NNMS2-----A----	Atr
+14	nedovolila	VpQW---XR-NA---	Pred
+15	Luďku	NNMS3-----A---1	Atr
+16	Bukačovi	NNMS3-----A---1	Obj
+17	tyto	PDMP4----------	Atr
+18	zkušené	NNMP4-----A----	Atr
+19	borce	NNMP4-----A----	Obj
+20	povolat	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94205-127-p3s3
+1	Chytat	Vf--------A----	Pred
+2	bude	VB-S---3F-AA---	AuxV
+3	určitě	Dg-------1A----	Adv
+4	Turek	NNMS1-----A----	Sb
+5	.	Z:-------------	AuxK
+
+ln94205-127-p3s4
+1	Jinak	Db-------------	Adv
+2	sestava	NNFS1-----A----	Sb
+3	záleží	VB-S---3P-AA---	Obj
+4	na	RR--6----------	AuxP
+5	tom	PDZS6----------	Obj
+6	,	Z:-------------	AuxX
+7	kolik	C?--4----------	Obj
+8	hokejistů	NNMP2-----A----	Atr
+9	nám	PP-P3--1-------	Obj
+10	direktoriát	NNIS1-----A----	Sb
+11	povolí	VB-S---3P-AA---	Atr
+12	,	Z:-------------	AuxX
+13	řekl	VpYS---XR-AA---	Pred
+14	trenér	NNMS1-----A----	Atr
+15	Luděk	NNMS1-----A----	Atr
+16	Bukač	NNMS1-----A----	Sb
+17	a	J^-------------	Coord
+18	v	RR--6----------	AuxP
+19	dobré	AAFS6----1A----	Atr
+20	náladě	NNFS6-----A----	Adv
+21	dodal	VpYS---XR-AA---	Pred
+22	:	Z:-------------	AuxG
+23	Na	RR--4----------	AuxP
+24	taktiku	NNFS4-----A----	Obj
+25	se	P7-X4----------	AuxT
+26	zeptejte	Vi-P---2--A----	Obj
+27	maséra	NNMS2-----A----	Atr
+28	Šaška	NNMS2-----A----	Obj
+29	,	Z:-------------	Coord
+30	ten	PDYS1----------	Sb
+31	ví	VB-S---3P-AA---	Obj
+32	všechno	PLNS4----------	Obj
+33	líp	Dg-------2A---1	Adv
+34	.	Z:-------------	AuxK
+35	.	Z:-------------	AuxK
+36	.	Z:-------------	AuxK
+
+ln94205-127-p3s5
+1	Náš	PSYS1-P1-------	Atr
+2	dnešní	AAMS1----1A----	Atr
+3	soupeř	NNMS1-----A----	ExD
+4	,	Z:-------------	Apos
+5	Rusko	NNNS1-----A----	ExD
+6	,	Z:-------------	AuxX
+7	přiletěl	VpYS---XR-AA---	Pred
+8	včera	Db-------------	Adv
+9	do	RR--2----------	AuxP
+10	Prahy	NNFS2-----A----	Adv
+11	a	J^-------------	Coord
+12	večer	Db-------------	Adv
+13	si	P7-X3----------	Adv
+14	vyzkoušel	VpYS---XR-AA---	Pred
+15	led	NNIS4-----A----	Obj
+16	ve	RV--6----------	AuxP
+17	Zlíně	NNIS6-----A----	AtrAdv
+18	.	Z:-------------	AuxK
+
+ln94205-127-p3s6
+1	Přestože	J,-------------	AuxC
+2	je	VB-S---3P-AA---	Adv
+3	tým	NNIS1-----A----	Sb
+4	složený	AAIS1----1A----	Pnom
+5	výhradně	Dg-------1A----	Adv
+6	z	RR--2----------	AuxP
+7	hráčů	NNMP2-----A----	Obj
+8	domácí	AAFS2----1A----	Atr
+9	soutěže	NNFS2-----A----	Atr
+10	(	Z:-------------	AuxG
+11	stejně	Dg-------1A----	Adv
+12	jako	J,-------------	AuxC
+13	náš	PSYS1-P1-------	ExD
+14	)	Z:-------------	AuxG
+15	,	Z:-------------	AuxX
+16	o	RR--6----------	AuxP
+17	jeho	PSXXXZS3-------	Atr
+18	tradiční	AAFS6----1A----	Atr
+19	síle	NNFS6-----A----	Obj
+20	není	VB-S---3P-NA---	Pred
+21	třeba	ACNS------A----	Pnom
+22	pochybovat	Vf--------A----	Sb
+23	.	Z:-------------	AuxK
+
+ln94205-127-p3s7
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	během	RR--2----------	AuxP
+4	léta	NNNS2-----A----	Adv
+5	vyvrcholil	VpYS---XR-AA---	Adv
+6	funkcionářský	AAIS1----1A----	Atr
+7	boj	NNIS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	Ruské	AAFS6----1A----	Atr
+10	hokejové	AAFS6----1A----	Atr
+11	federaci	NNFS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	trenér	NNMS1-----A----	Atr
+14	Boris	NNMS1-----A----	Atr
+15	Michajlov	NNMS1-----A----	Sb
+16	nakonec	Db-------------	Adv
+17	u	RR--2----------	AuxP
+18	kormidla	NNNS2-----A----	Adv
+19	zůstal	VpYS---XR-AA---	Pred
+20	.	Z:-------------	AuxK
+
+ln94205-127-p3s8
+1	Má	VB-S---3P-AA---	Pred
+2	však	J^-------------	Coord
+3	nové	AAMP4----1A----	Atr
+4	ambiciózní	AAMP4----1A----	Atr
+5	asistenty	NNMP4-----A----	Atr
+6	Igora	NNMS4-----A----	Atr
+7	Tuzika	NNMS4-----A----	Obj
+8	z	RR--2----------	AuxP
+9	Dynama	NNNS2-----A----	Atr
+10	Moskva	NNFS1-----A----	Atr
+11	a	J^-------------	Coord
+12	Gennadije	NNMS4-----A----	Atr
+13	Cygurova	NNMS4-----A----	Obj
+14	,	Z:-------------	Apos
+15	trenéra	NNMS4-----A----	Obj
+16	mistrovského	AAIS2----1A----	Atr
+17	celku	NNIS2-----A----	Atr
+18	Lada	NNFS1-----A----	Atr
+19	Togliatti	NNNXX-----A----	Atr
+20	a	J^-------------	Coord
+21	zároveň	Db-------------	Adv
+22	reprezentační	AAFS2----1A----	Atr
+23	dvacítky	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94205-127-p4s1
+1	Hokejoví	AAMP1----1A----	Atr
+2	fanoušci	NNMP1-----A----	Sb
+3	ve	RV--6----------	AuxP
+4	Zlíně	NNIS6-----A----	Atr
+5	mají	VB-P---3P-AA---	Pred
+6	o	RR--4----------	AuxP
+7	zápasy	NNIP4-----A----	Atr
+8	Pragobanka	NNFS1-----A----	Atr
+9	Cupu	NNIS2-----A----	Atr
+10	velký	AAIS4----1A----	Atr
+11	zájem	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln94205-127-p4s2
+1	Podle	RR--2----------	AuxP
+2	odhadů	NNIP2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	každé	AANS4----1A----	Atr
+5	utkání	NNNS4-----A----	Obj
+6	našeho	PSZS2-P1-------	Atr
+7	celku	NNIS2-----A----	Atr
+8	mělo	VpNS---XR-AA---	Pred
+9	zhlédnout	Vf--------A----	Obj
+10	kolem	RR--2----------	AuxP
+11	7000	C=-------------	Sb
+12	diváků	NNMP2-----A----	Atr
+13	(	Z:-------------	AuxG
+14	kapacita	NNFS1-----A----	Sb
+15	stadionu	NNIS2-----A----	Atr
+16	je	VB-S---3P-AA---	Pred
+17	8000	C=-------------	Pnom
+18	)	Z:-------------	AuxG
+19	.	Z:-------------	AuxK
+
+ln94205-127-p4s3
+1	Na	RR--4----------	AuxP
+2	historicky	Dg-------1A----	Adv
+3	třetí	CrIS4----------	Atr
+4	oficiální	AAIS4----1A----	Atr
+5	česko	A2--------A----	Atr
+6	-	Z:-------------	Coord
+7	slovenský	AAIS4----1A----	Atr
+8	duel	NNIS4-----A----	Adv
+9	se	P7-X4----------	AuxR
+10	dokonce	Db-------------	AuxZ
+11	očekává	VB-S---3P-AA---	Pred
+12	plný	AAIS1----1A----	Atr
+13	dům	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94205-127-p4s4
+1	Slovenský	AAIS1----1A----	Atr
+2	výběr	NNIS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	oproti	RR--3----------	AuxP
+5	bratislavskému	AANS3----1A----	Atr
+6	střetnutí	NNNS3-----A----	Adv
+7	bude	VB-S---3F-AA---	AuxV
+8	muset	Vf--------A----	Pred
+9	obejít	Vf--------A----	Obj
+10	bez	RR--2----------	AuxP
+11	dvou	ClXP2----------	Atr
+12	opor	NNFP2-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94205-127-p4s5
+1	Trenčínský	AAMS1----1A----	Atr
+2	útočník	NNMS1-----A----	Atr
+3	Jánoš	NNMS1-----A----	Sb
+4	si	P7-X3----------	Adv
+5	ze	RV--2----------	AuxP
+6	zápasu	NNIS2-----A----	Adv
+7	odnesl	VpYS---XR-AA---	Pred
+8	zlomený	AAIS4----1A----	Atr
+9	nos	NNIS4-----A----	Obj
+10	a	J^-------------	Coord
+11	Oto	NNMS1-----A----	Atr
+12	Haščák	NNMS1-----A----	Sb
+13	nastoupil	VpYS---XR-AA---	Pred
+14	klubovou	AAFS4----1A----	Atr
+15	přípravu	NNFS4-----A----	Obj
+16	v	RR--6----------	AuxP
+17	ESV	NNXXX-----A---8	Adv
+18	Kaufbeuren	NNIS1-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94205-127-p4s6
+1	Curt	NNMS1-----A----	Atr
+2	Lundmark	NNMS1-----A----	Sb
+3	,	Z:-------------	Apos
+4	trenér	NNMS1-----A----	Sb
+5	Švédů	NNMP2-----A----	Atr
+6	-	Z:-------------	Apos
+7	dnešního	AAMS2----1A----	Atr
+8	soupeře	NNMS2-----A----	Atr
+9	Slováků	NNMP2-----A----	Atr
+10	-	Z:-------------	AuxG
+11	přivezl	VpYS---XR-AA---	Pred
+12	do	RR--2----------	AuxP
+13	Zlína	NNIS2-----A----	Adv
+14	výběr	NNIS4-----A----	Obj
+15	složený	AAIS4----1A----	Atr
+16	ze	RV--2----------	AuxP
+17	zkušených	NNMP2-----A----	Atr
+18	hráčů	NNMP2-----A----	Obj
+19	(	Z:-------------	AuxG
+20	Svensson	NNMS1-----A----	ExD
+21	,	Z:-------------	AuxX
+22	Bergqvist	NNMS1-----A----	ExD
+23	,	Z:-------------	Coord
+24	Larsson	NNMS1-----A----	ExD
+25	)	Z:-------------	AuxG
+26	a	J^-------------	Coord
+27	několika	Ca--2----------	Atr
+28	nováčků	NNMP2-----A----	Obj
+29	.	Z:-------------	AuxK
+
+ln94205-127-p4s7
+1	Olympijští	AAMP1----1A----	Atr
+2	vítězové	NNMP1-----A---1	Sb
+3	z	RR--2----------	AuxP
+4	Lillehammeru	NNIS2-----A----	Atr
+5	a	J^-------------	Coord
+6	třetí	CrIS1----------	Atr
+7	celek	NNIS1-----A----	Sb
+8	z	RR--2----------	AuxP
+9	posledního	AANS2----1A----	Atr
+10	mistrovství	NNNS2-----A----	Atr
+11	světa	NNIS2-----A----	Atr
+12	je	VB-S---3P-AA---	Pred
+13	největším	AAMS7----3A----	Atr
+14	favoritem	NNMS7-----A----	Pnom
+15	turnaje	NNIS2-----A----	Atr
+16	.	Z:-------------	AuxK
+

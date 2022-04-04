@@ -1,0 +1,171 @@
+ln94206-148-p1s1
+1	Ceny	NNFP1-----A----	Sb
+2	potravin	NNFP2-----A----	Atr
+3	vytrvale	Dg-------1A----	Adv
+4	rostou	VB-P---3P-AA---	Pred
+
+ln94206-148-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-148-p2s1B
+1	Průměrné	AAFP1----1A----	Atr
+2	spotřebitelské	AAFP1----1A----	Atr
+3	ceny	NNFP1-----A----	Sb
+4	většiny	NNFS2-----A----	Atr
+5	potravinářských	AAIP2----1A----	Atr
+6	výrobků	NNIP2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	v	RR--6----------	AuxP
+9	36	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	týdnu	NNIS6-----A----	Adv
+12	opět	Db-------------	Adv
+13	zvýšily	VpTP---XR-AA---	Pred
+14	.	Z:-------------	AuxK
+
+ln94206-148-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	pravidelného	AANS2----1A----	Atr
+5	šetření	NNNS2-----A----	Obj
+6	cen	NNFP2-----A----	Atr
+7	vybraných	AAIP2----1A----	Atr
+8	druhů	NNIP2-----A----	Atr
+9	potravin	NNFP2-----A----	Atr
+10	Českým	AAIS7----1A----	Atr
+11	statistickým	AAIS7----1A----	Atr
+12	úřadem	NNIS7-----A----	Atr
+13	k	RR--3----------	AuxP
+14	30	C=-------------	Atr
+15	.	Z:-------------	AuxG
+16	srpnu	NNIS3-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94206-148-p3s1
+1	K	RR--3----------	AuxP
+2	největšímu	AANS3----3A----	Atr
+3	cenovému	AANS3----1A----	Atr
+4	zvýšení	NNNS3-----A----	Obj
+5	proti	RR--3----------	AuxP
+6	23	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	srpnu	NNIS3-----A----	Atr
+9	došlo	VpNS---XR-AA---	Pred
+10	u	RR--2----------	AuxP
+11	vepřové	AAFS2----1A----	Atr
+12	kýty	NNFS2-----A----	Adv
+13	bez	RR--2----------	AuxP
+14	kosti	NNFS2-----A----	Atr
+15	,	Z:-------------	AuxX
+16	a	J^-------------	AuxY
+17	to	PDNS4----------	AuxY
+18	o	RR--4----------	AuxP
+19	3.16	C=-------------	Atr
+20	koruny	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94206-148-p3s2
+1	V	RR--6----------	AuxP
+2	porovnání	NNNS6-----A----	AuxP
+3	s	RR--7----------	AuxP
+4	úrovní	NNFS7-----A----	Adv
+5	z	RR--2----------	AuxP
+6	konce	NNIS2-----A----	Atr
+7	loňského	AAIS2----1A----	Atr
+8	roku	NNIS2-----A---1	Atr
+9	pak	Db-------------	Adv
+10	index	NNIS1-----A----	Sb
+11	u	RR--2----------	AuxP
+12	tohoto	PDZS2----------	Atr
+13	výrobku	NNIS2-----A----	Atr
+14	činí	VB-S---3P-AA---	Pred
+15	115.2	C=-------------	Obj
+16	procenta	NNNS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94206-148-p3s3
+1	Naopak	Db-------------	Adv
+2	ceny	NNFP1-----A----	Sb
+3	kmínového	AAIS2----1A----	Atr
+4	chleba	NNIS2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	rohlíků	NNIP2-----A----	Atr
+7	a	J^-------------	Coord
+8	lahvového	AANS2----1A----	Atr
+9	piva	NNNS2-----A----	Atr
+10	zůstaly	VpTP---XR-AA---	Pred
+11	nezměněné	AAFP1----1N----	Obj
+12	a	J^-------------	Coord
+13	mírný	AAIS4----1A----	Atr
+14	pokles	NNIS4-----A----	Obj
+15	zaznamenaly	VpTP---XR-AA---	Pred
+16	ceny	NNFP1-----A----	Sb
+17	másla	NNNS2-----A----	Atr
+18	a	J^-------------	Coord
+19	pšeničné	AAFS2----1A----	Atr
+20	mouky	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94206-148-p3s4
+1	Významněji	Dg-------2A----	Adv
+2	ve	RV--6----------	AuxP
+3	sledovaném	AANS6----1A----	Atr
+4	období	NNNS6-----A----	Adv
+5	vzrostly	VpTP---XR-AA---	Pred
+6	ceny	NNFP1-----A----	Sb
+7	vepřového	AANS2----1A----	Atr
+8	i	J^-------------	Coord
+9	hovězího	AANS2----1A----	Atr
+10	masa	NNNS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94206-148-p4s1
+1	Index	NNIS1-----A----	Sb
+2	cen	NNFP2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	značně	Dg-------1A----	Adv
+5	rozdílný	AAIS1----1A----	Pnom
+6	v	RR--6----------	AuxP
+7	různých	AAIP6----1A----	Atr
+8	krajích	NNIP6-----A----	Adv
+9	ČR	NNFXX-----A---8	Atr
+10	.	Z:-------------	AuxK
+
+ln94206-148-p4s2
+1	Největší	AAIS4----3A----	Atr
+2	nárůst	NNIS4-----A----	Obj
+3	ceny	NNFS2-----A----	Atr
+4	například	Db-------------	AuxZ
+5	u	RR--2----------	AuxP
+6	hovězího	AANS2----1A----	Atr
+7	masa	NNNS2-----A----	Atr
+8	předního	AANS2----1A----	Atr
+9	s	RR--7----------	AuxP
+10	kostí	NNFS7-----A----	Atr
+11	proti	RR--3----------	AuxP
+12	konci	NNIS3-----A----	Atr
+13	roku	NNIS2-----A---1	Atr
+14	1993	C=-------------	Atr
+15	zaznamenali	VpMP---XR-AA---	Pred
+16	v	RR--6----------	AuxP
+17	Severomoravském	AAIS6----1A----	Atr
+18	kraji	NNIS6-----A----	Adv
+19	,	Z:-------------	AuxX
+20	a	J^-------------	AuxY
+21	to	PDNS4----------	AuxY
+22	48.3	C=-------------	Obj
+23	procenta	NNNS2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	zatímco	J,-------------	AuxC
+26	v	RR--6----------	AuxP
+27	Praze	NNFS6-----A----	Adv
+28	byl	VpYS---XR-AA---	Adv
+29	tento	PDYS1----------	Atr
+30	nárůst	NNIS1-----A----	Sb
+31	pouze	Db-------------	AuxZ
+32	14.4	C=-------------	Pnom
+33	procenta	NNNS2-----A----	Atr
+34	.	Z:-------------	AuxK
+

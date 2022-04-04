@@ -1,0 +1,356 @@
+ln94200-103-p1s1
+1	Peníze	NNIP1-----A----	ExD
+2	a	J^-------------	Coord
+3	Parkinson	NNMS1-----A----	ExD
+
+ln94200-103-p2s1A
+1	Ladislav	NNMS1-----A----	Atr
+2	Jakl	NNMS1-----A----	ExD
+
+ln94200-103-p2s1B
+1	Požitky	NNIP1-----A----	Sb
+2	ústavních	AAMP2----1A----	Atr
+3	činitelů	NNMP2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	vděčným	AANS7----1A----	Atr
+6	tématem	NNNS7-----A----	Pnom
+7	sdělovacích	AAIP2----1A----	Atr
+8	prostředků	NNIP2-----A----	Atr
+9	i	J^-------------	Coord
+10	hospodských	AAFP2----1A----	Atr
+11	debat	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94200-103-p2s2
+1	Veřejní	AAMP1----1A----	Atr
+2	činitelé	NNMP1-----A----	Sb
+3	si	P7-X3----------	AuxT
+4	samozřejmě	Dg-------1A----	AuxY
+5	budou	VB-P---3F-AA---	AuxV
+6	muset	Vf--------A----	Pred
+7	zvykat	Vf--------A----	Obj
+8	na	RR--4----------	AuxP
+9	to	PDNS4----------	Obj
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	nejen	TT-------------	AuxZ
+13	jejich	PSXXXXP3-------	Atr
+14	práce	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	ale	J^-------------	Coord
+17	i	J^-------------	AuxZ
+18	požitky	NNIP1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	ba	TT-------------	Coord
+21	dokonce	Db-------------	AuxZ
+22	soukromý	AAIS1----1A----	Atr
+23	život	NNIS1-----A----	Sb
+24	je	VB-S---3P-AA---	Atr
+25	v	RR--6----------	AuxP
+26	demokracii	NNFS6-----A----	Adv
+27	pod	RR--7----------	AuxP
+28	hyperkritickým	AANS7----1A----	Atr
+29	okem	NNNS7-----A----	Adv
+30	veřejnosti	NNFS2-----A----	Atr
+31	.	Z:-------------	AuxK
+
+ln94200-103-p2s3
+1	I	J^-------------	AuxY
+2	když	J,-------------	AuxC
+3	v	RR--6----------	AuxP
+4	souvislosti	NNFS6-----A----	AuxP
+5	s	RR--7----------	AuxP
+6	nedávno	Db-------------	Adv
+7	publikovanými	AAIP7----1A----	Atr
+8	výsledky	NNIP7-----A----	Adv
+9	průzkumu	NNIS2-----A----	Atr
+10	veřejného	AANS2----1A----	Atr
+11	mínění	NNNS2-----A----	Atr
+12	občané	NNMP1-----A----	Sb
+13	tuto	PDFS4----------	Atr
+14	možnost	NNFS4-----A----	Obj
+15	příliš	Db-------------	Adv
+16	nedoceňují	VB-P---3P-NA---	Pred
+17	.	Z:-------------	AuxK
+
+ln94200-103-p2s4
+1	Kromě	RR--2----------	AuxP
+2	hyperkritičnosti	NNFS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	však	J^-------------	Coord
+5	rozhodujícím	AGIS7-----A----	Atr
+6	jevem	NNIS7-----A----	Pnom
+7	klasická	AAFS1----1A----	Atr
+8	maločeská	AAFS1----1A----	Atr
+9	závist	NNFS1-----A----	Sb
+10	a	J^-------------	Coord
+11	platnost	NNFS1-----A----	Sb
+12	Parkinsonových	AUIP2M---------	Atr
+13	zákonů	NNIP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94200-103-p2s5
+1	Proč	Db-------------	ExD
+2	Parkinson	NNMS1-----A----	ExD
+3	?	Z:-------------	AuxK
+
+ln94200-103-p2s6
+1	Inu	II-------------	ExD
+2	,	Z:-------------	AuxX
+3	například	Db-------------	AuxZ
+4	těch	PDXP2----------	Atr
+5	sedm	Cn-S1----------	Sb
+6	set	NNNP2-----A----	Atr
+7	milionů	NNIP2-----A----	Atr
+8	vydaných	AAIP2----1A----	Atr
+9	na	RR--4----------	AuxP
+10	rekonstrukci	NNFS4-----A----	Adv
+11	malostranských	AAIP2----1A----	Atr
+12	paláců	NNIP2-----A----	Atr
+13	pro	RR--4----------	AuxP
+14	potřeby	NNFP4-----A----	Atr
+15	poslanecké	AAFS2----1A----	Atr
+16	sněmovny	NNFS2-----A----	Atr
+17	činí	VB-S---3P-AA---	Pred
+18	jen	TT-------------	AuxZ
+19	něco	PZ--4----------	Obj
+20	přes	RR--4----------	AuxP
+21	jednu	ClFS4----------	Atr
+22	desetinu	CyFS4----------	Atr
+23	procenta	NNNS2-----A----	Atr
+24	sumy	NNFS2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	o	RR--6----------	AuxP
+27	jejímž	P1ZS6FS3-------	Atr
+28	odebrání	NNNS6-----A----	Obj
+29	poplatníkům	NNMP3-----A----	Atr
+30	a	J^-------------	Coord
+31	následovném	AANS6----1A----	Atr
+32	přerozdělení	NNNS6-----A----	Obj
+33	poslanci	NNMP1-----A----	Sb
+34	každoročně	Dg-------1A----	Adv
+35	rozhodují	VB-P---3P-AA---	Atr
+36	.	Z:-------------	AuxK
+
+ln94200-103-p2s7
+1	A	J^-------------	Coord
+2	to	PDNS1----------	ExD
+3	za	RR--2----------	AuxP
+4	naprosto	Db-------------	Adv
+5	chabého	AAIS2----1A----	Atr
+6	zájmu	NNIS2-----A----	ExD
+7	mlčky	Db-------------	Adv
+8	platící	AGFS2-----A----	Atr
+9	veřejnosti	NNFS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94200-103-p2s8
+1	Snazší	AANS1----2A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	závidět	Vf--------A----	Sb
+4	konkrétnímu	AAMS3----1A----	Atr
+5	poslanci	NNMS3-----A----	Obj
+6	nějakých	PZXP2----------	Atr
+7	dvacet	Cn-S4----------	Obj
+8	tisíc	ClXS2----------	Atr
+9	než	J,-------------	AuxC
+10	se	P7-X4----------	AuxT
+11	zajímat	Vf--------A----	Adv
+12	o	RR--4----------	AuxP
+13	stovky	NNFP4-----A----	Obj
+14	miliard	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94200-103-p3s1
+1	Současné	AANS1----1A----	Atr
+2	složení	NNNS1-----A----	ExD
+3	požitků	NNIP2-----A----	Atr
+4	poslanců	NNMP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	a	J^-------------	Coord
+7	tím	PDZS7----------	Adv
+8	spíše	Dg-------2A---1	Adv
+9	nedávno	Db-------------	Adv
+10	zveřejněný	AAIS1----1A----	Atr
+11	iniciativní	AAIS1----1A----	Atr
+12	poslanecký	AAIS1----1A----	Atr
+13	návrh	NNIS1-----A----	Sb
+14	však	J^-------------	AuxY
+15	přesto	Dg-------1A----	Adv
+16	zasluhuje	VB-S---3P-AA---	Pred
+17	pozornost	NNFS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln94200-103-p3s2
+1	Ne	TT-------------	AuxZ
+2	pro	RR--4----------	AuxP
+3	samotnou	AAFS4----1A----	Atr
+4	výši	NNFS4-----A----	ExD
+5	.	Z:-------------	AuxK
+
+ln94200-103-p3s3
+1	Soudný	AAMS1----1A----	Atr
+2	člověk	NNMS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxT
+5	asi	TT-------------	AuxY
+6	smířil	VpYS---XR-AA---	Pred
+7	i	J^-------------	AuxZ
+8	s	RR--7----------	AuxP
+9	podstatným	AANS7----1A----	Atr
+10	zvýšením	NNNS7-----A----	Obj
+11	poslaneckých	AAIP2----1A----	Atr
+12	platů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94200-103-p3s4
+1	Kromě	RR--2----------	AuxP
+2	mnoha	Ca--2----------	Atr
+3	již	Db-------------	Adv
+4	publikovaných	AAIP2----1A----	Atr
+5	důvodů	NNIP2-----A----	Adv
+6	lze	VB-S---3P-AA---	Pred
+7	připomenout	Vf--------A----	Sb
+8	ještě	Db-------------	Adv
+9	jeden	ClIS4----------	ExD
+10	:	Z:-------------	Coord
+11	je	VB-S---3P-AA---	Pred
+12	jen	TT-------------	AuxZ
+13	v	RR--6----------	AuxP
+14	zájmu	NNIS6-----A----	Adv
+15	voličů	NNMP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	aby	J,-------------	AuxC
+18	i	J^-------------	AuxZ
+19	velmi	Db-------------	Adv
+20	schopní	AAMP1----1A----	Atr
+21	lidé	NNMP1-----A---1	Sb
+22	,	Z:-------------	AuxX
+23	kteří	P4MP1----------	Sb
+24	by	Vc-------------	AuxV
+25	si	P7-X3----------	Adv
+26	jinak	Db-------------	Adv
+27	mohli	VpMP---XR-AA---	Atr
+28	vydělat	Vf--------A----	Obj
+29	veliké	AAFP4----1A----	Atr
+30	částky	NNFP4-----A----	Obj
+31	,	Z:-------------	AuxX
+32	měli	VpMP---XR-AA---	Sb
+33	o	RR--4----------	AuxP
+34	veřejnou	AAFS4----1A----	Atr
+35	službu	NNFS4-----A----	Atr
+36	zájem	NNIS4-----A----	Obj
+37	.	Z:-------------	AuxK
+
+ln94200-103-p3s5
+1	Proč	Db-------------	Adv
+2	však	J^-------------	Coord
+3	kromě	RR--2----------	AuxP
+4	základního	AAIS2----1A----	Atr
+5	platu	NNIS2-----A----	Adv
+6	mají	VB-P---3P-AA---	Pred
+7	poslanci	NNMP1-----A----	Sb
+8	dostávat	Vf--------A----	Obj
+9	zvlášť	Db-------------	Adv
+10	prostředky	NNIP4-----A----	Obj
+11	na	RR--4----------	AuxP
+12	studijní	AAIP4----1A----	Atr
+13	materiály	NNIP4-----A----	Atr
+14	(	Z:-------------	AuxG
+15	jejichž	P1XXXXP3-------	Atr
+16	koupi	NNFS4-----A----	Obj
+17	by	Vc-------------	AuxV
+18	pak	Db-------------	Adv
+19	dokládali	VpMP---XR-AA---	Atr
+20	potvrzeními	NNNP7-----A----	Adv
+21	)	Z:-------------	AuxG
+22	?	Z:-------------	AuxK
+
+ln94200-103-p3s6
+1	Proč	Db-------------	Adv
+2	mají	VB-P---3P-AA---	Pred
+3	každý	AAIS4----1A----	Atr
+4	rok	NNIS4-----A----	Adv
+5	fasovat	Vf--------A----	Obj
+6	speciální	AAFS4----1A----	Atr
+7	taxu	NNFS4-----A----	Obj
+8	na	RR--4----------	AuxP
+9	oblečení	NNNS4-----A----	AtrAdv
+10	?	Z:-------------	AuxK
+
+ln94200-103-p3s7
+1	Proč	Db-------------	Adv
+2	mají	VB-P---3P-AA---	Pred
+3	dostávat	Vf--------A----	Obj
+4	zvlášť	Db-------------	Adv
+5	diety	NNFP4-----A----	Obj
+6	a	J^-------------	Coord
+7	cestovné	NNNS4-----A----	Obj
+8	?	Z:-------------	AuxK
+
+ln94200-103-p3s8
+1	Autoři	NNMP1-----A----	Sb
+2	takových	PDXP2----------	Atr
+3	návrhů	NNIP2-----A----	Atr
+4	nedělají	VB-P---3P-NA---	Pred
+5	hlupáky	NNMP4-----A----	Obj
+6	jen	TT-------------	AuxZ
+7	z	RR--2----------	AuxP
+8	poslanců	NNMP2-----A----	Obj
+9	ale	J^-------------	Coord
+10	hlavně	Dg-------1A----	AuxZ
+11	z	RR--2----------	AuxP
+12	voličů	NNMP2-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln94200-103-p3s9
+1	Ti	PDMP1----------	Sb
+2	snad	Db-------------	AuxY
+3	posoudí	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	jak	Db-------------	Adv
+6	poslanec	NNMS1-----A----	Sb
+7	dbá	VB-S---3P-AA---	Obj
+8	o	RR--4----------	AuxP
+9	své	P8NS4---------1	Atr
+10	vzdělání	NNNS4-----A----	Obj
+11	či	J^-------------	Coord
+12	o	RR--4----------	AuxP
+13	svůj	P8IS4----------	Atr
+14	zevnějšek	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94200-103-p4s1
+1	Poslanci	NNMS3-----A----	Obj
+2	má	VB-S---3P-AA---	Pred
+3	náležet	Vf--------A----	Obj
+4	zdaněný	AAIS1----1A----	Atr
+5	,	Z:-------------	AuxX
+6	třeba	Db-------------	Adv
+7	velký	AAIS1----1A----	Atr
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	jen	TT-------------	AuxZ
+11	jeden	ClYS1----------	Atr
+12	plat	NNIS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94200-103-p4s2
+1	Ať	TT-------------	AuxY
+2	si	P7-X3----------	Adv
+3	s	RR--7----------	AuxP
+4	ním	P5ZS7--3-------	Adv
+5	dělá	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	co	PQ--4----------	Obj
+8	chce	VB-S---3P-AA---	Obj
+9	.	Z:-------------	AuxK
+
+ln94200-103-p4s3
+1	I	J^-------------	AuxZ
+2	tím	PDZS7----------	Adv
+3	vykreslí	VB-S---3P-AA---	Pred
+4	svou	P8FS4---------1	Atr
+5	vizitku	NNFS4-----A----	Obj
+6	.	Z:-------------	AuxK
+

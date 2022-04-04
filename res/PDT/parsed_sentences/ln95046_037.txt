@@ -1,0 +1,192 @@
+ln95046-037-p1s1
+1	Terrex	NNIS1-----A----	Sb
+2	prosí	VB-S---3P-AA---	Pred
+3	o	RR--4----------	AuxP
+4	půjčku	NNFS4-----A----	Obj
+
+ln95046-037-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95046-037-p2s1B
+1	Finanční	AAFS1----1A----	Atr
+2	krize	NNFS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	druholigovém	AAIS6----1A----	Atr
+5	fotbalovém	AAIS6----1A----	Atr
+6	klubu	NNIS6-----A----	Atr
+7	Terrex	NNIS1-----A----	Atr
+8	Kladno	NNNS1-----A----	Atr
+9	dosáhla	VpQW---XR-AA---	Pred
+10	pravděpodobně	Dg-------1A----	AuxY
+11	vrcholu	NNIS2-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln95046-037-p2s2
+1	Oddíl	NNIS1-----A----	Sb
+2	totiž	Db-------------	AuxY
+3	požádal	VpYS---XR-AA---	Pred
+4	fotbalový	AAIS4----1A----	Atr
+5	svaz	NNIS4-----A----	Obj
+6	o	RR--4----------	AuxP
+7	půjčku	NNFS4-----A----	Obj
+8	ve	RV--6----------	AuxP
+9	výši	NNFS6-----A----	Atr
+10	800	C=-------------	Atr
+11	tisíc	ClXS2----------	Atr
+12	korun	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95046-037-p2s3
+1	"	Z:-------------	AuxG
+2	Poslali	VpMP---XR-AA---	Pred
+3	žádost	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	jestli	J,-------------	AuxC
+6	bychom	Vc-P---1-------	AuxV
+7	jim	PPXP3--3-------	Obj
+8	nemohli	VpMP---XR-NA---	Atr
+9	dát	Vf--------A----	Obj
+10	peníze	NNIP4-----A----	Obj
+11	na	RR--4----------	AuxP
+12	překlenutí	NNNS4-----A----	Atr
+13	určité	AAFS2----1A----	Atr
+14	doby	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln95046-037-p2s4
+1	To	PDNS1----------	Sb
+2	nepřichází	VB-S---3P-NA---	Obj
+3	v	RR--4----------	AuxP
+4	úvahu	NNFS4-----A----	Obj
+5	,	Z:-------------	Coord
+6	maximálně	Dg-------1A----	AuxZ
+7	jim	PPXP3--3-------	Adv
+8	můžeme	VB-P---1P-AA---	Obj
+9	uvolnit	Vf--------A----	Obj
+10	200	C=-------------	Obj
+11	tisíc	ClXS2----------	Atr
+12	z	RR--2----------	AuxP
+13	kauce	NNFS2-----A----	Adv
+14	,	Z:-------------	AuxX
+15	kterou	P4FS4----------	Obj
+16	museli	VpMP---XR-AA---	Atr
+17	před	RR--7----------	AuxP
+18	sezónou	NNFS7-----A----	Adv
+19	složit	Vf--------A----	Obj
+20	,	Z:-------------	AuxX
+21	"	Z:-------------	AuxG
+22	řekl	VpYS---XR-AA---	Pred
+23	LN	NNFPX-----A---8	Obj
+24	sekretář	NNMS1-----A----	Atr
+25	Ligové	AAFS2----1A----	Atr
+26	komise	NNFS2-----A----	Atr
+27	František	NNMS1-----A----	Atr
+28	Sahula	NNMS1-----A----	Sb
+29	.	Z:-------------	AuxK
+
+ln95046-037-p2s5
+1	Jedinou	AAFS7----1A----	Atr
+2	šancí	NNFS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	pro	RR--4----------	AuxP
+5	Terrex	NNIS4-----A----	Adv
+6	jednání	NNNS1-----A----	Sb
+7	se	RV--7----------	AuxP
+8	STES	NNNXX-----A---8	Atr
+9	,	Z:-------------	AuxX
+10	aby	J,-------------	AuxC
+11	agentura	NNFS1-----A----	Sb
+12	v	RR--6----------	AuxP
+13	předstihu	NNIS6-----A----	Adv
+14	vyplatila	VpQW---XR-AA---	Atr
+15	splátky	NNFP4-----A----	Obj
+16	z	RR--2----------	AuxP
+17	projektu	NNIS2-----A----	Atr
+18	STES	NNNXX-----A---8	Atr
+19	.	Z:-------------	AuxK
+
+ln95046-037-p2s6
+1	Příčinou	NNFS7-----A----	Pnom
+2	problémů	NNIP2-----A----	Atr
+3	je	VB-S---3P-AA---	Pred
+4	mj	Db------------8	Adv
+5	.	Z:-------------	AuxG
+6	i	J^-------------	AuxZ
+7	návrh	NNIS1-----A----	Sb
+8	letecké	AAFS2----1A----	Atr
+9	společnosti	NNFS2-----A----	Atr
+10	ČSA	NNFPX-----A---8	Atr
+11	na	RR--4----------	AuxP
+12	konkursní	AANS4----1A----	Atr
+13	řízení	NNNS4-----A----	Atr
+14	na	RR--4----------	AuxP
+15	firmu	NNFS4-----A----	Atr
+16	Air	NNIS1-----A----	Atr
+17	Terrex	NNIS1-----A----	Atr
+18	,	Z:-------------	AuxX
+19	která	P4FS1----------	Sb
+20	patří	VB-S---3P-AA---	Atr
+21	prezidentu	NNMS3-----A---1	Atr
+22	fotbalového	AAIS2----1A----	Atr
+23	klubu	NNIS2-----A----	Atr
+24	Martinu	NNMS3-----A---1	Atr
+25	Michalovi	NNMS3-----A----	Obj
+26	.	Z:-------------	AuxK
+
+ln95046-037-p2s7
+1	Ten	PDYS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	zakládajícím	AGMS7-----A----	Atr
+4	členem	NNMS7-----A----	Pnom
+5	Unie	NNFS2-----A----	Atr
+6	majitelů	NNMP2-----A----	Atr
+7	fotbalových	AAIP2----1A----	Atr
+8	klubů	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	před	RR--7----------	AuxP
+12	nedávnou	AAFS7----1N----	Atr
+13	valnou	AAFS7----1A----	Atr
+14	hromadou	NNFS7-----A----	Adv
+15	tvrdě	Db-------------	Adv
+16	kritizovala	VpQW---XR-AA---	Atr
+17	svaz	NNIS4-----A----	Obj
+18	a	J^-------------	Coord
+19	slibovala	VpQW---XR-AA---	Atr
+20	založení	NNNS4-----A----	Obj
+21	Fondu	NNIS2-----A----	Atr
+22	ekonomické	AAFS2----1A----	Atr
+23	rezervy	NNFS2-----A----	Atr
+24	z	RR--2----------	AuxP
+25	vlastních	AAIP2----1A----	Atr
+26	prostředků	NNIP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln95046-037-p2s8
+1	Bez	RR--2----------	AuxP
+2	ohledu	NNIS2-----A----	AuxP
+3	na	RR--4----------	AuxP
+4	výsledek	NNIS4-----A----	Adv
+5	jednání	NNNS2-----A----	Atr
+6	vzrůstá	VB-S---3P-AA---	Pred
+7	nervozita	NNFS1-----A----	Sb
+8	hráčů	NNMP2-----A----	Atr
+9	Terrexu	NNIS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	podle	RR--2----------	AuxP
+12	informací	NNFP2-----A----	Adv
+13	LN	NNFPX-----A---8	Atr
+14	se	P7-X4----------	AuxT
+15	minimálně	Dg-------1A----	AuxZ
+16	tři	ClXP1----------	Atr
+17	opory	NNFP1-----A----	Sb
+18	týmu	NNIS2-----A----	Atr
+19	sháněly	VpTP---XR-AA---	Pred
+20	po	RR--6----------	AuxP
+21	angažmá	NNNXX-----A----	Adv
+22	v	RR--6----------	AuxP
+23	druholigovém	AAIS6----1A----	Atr
+24	Xaverově	NNIS6-----A----	Atr
+25	.	Z:-------------	AuxK
+

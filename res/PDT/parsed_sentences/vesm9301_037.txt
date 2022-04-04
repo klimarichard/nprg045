@@ -1,0 +1,177 @@
+vesm9301-037-p1s1
+1	Podivná	AAFS1----1A----	Atr
+2	volba	NNFS1-----A----	ExD
+3	ruských	AAMP2----1A----	Atr
+4	akademiků	NNMP2-----A----	Atr
+
+vesm9301-037-p2s1
+1	"	Z:-------------	AuxG
+2	To	PDNS1----------	Sb
+3	snad	Db-------------	AuxY
+4	není	VB-S---3P-NA---	Sb
+5	pravda	NNFS1-----A----	Pnom
+6	"	Z:-------------	AuxG
+7	,	Z:-------------	AuxX
+8	je	VB-S---3P-AA---	Pred
+9	inovace	NNFS1-----A----	Pnom
+10	naší	PSFS2-P1-------	Atr
+11	češtiny	NNFS2-----A----	Atr
+12	z	RR--2----------	AuxP
+13	posledních	AANP2----1A----	Atr
+14	let	NNNP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9301-037-p2s2A
+1	Podobná	AAFS1----1A----	Atr
+2	reakce	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	patřila	VpQW---XR-AA---	Pred
+5	článku	NNIS3-----A----	Obj
+6	v	RR--6----------	AuxP
+7	Nature	NNIXX-----A----	Atr
+8	z	RR--2----------	AuxP
+9	25	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	června	NNIS2-----A----	Atr
+12	"	Z:-------------	AuxG
+13	Hlasování	NNNS1-----A----	Sb
+14	Ruské	AAFS2----1A----	Atr
+15	akademie	NNFS2-----A----	Atr
+16	vylučuje	VB-S---3P-AA---	Atr
+17	židy	NNMP7-----A----	Obj
+18	.	Z:-------------	AuxK
+19	"	Z:-------------	AuxG
+
+vesm9301-037-p2s2B
+1	Volby	NNFP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	Ruské	AAFS6----1A----	Atr
+4	akademii	NNFS6-----A----	Atr
+5	věd	NNFP2-----A----	Atr
+6	probíhají	VB-P---3P-AA---	Pred
+7	stejně	Dg-------1A----	Adv
+8	jako	J,-------------	AuxC
+9	v	RR--6----------	AuxP
+10	bývalé	AAFS6----1A----	Atr
+11	AV	NNFXX-----A----	ExD
+12	SSSR	NNIXX-----A---8	Atr
+13	.	Z:-------------	AuxK
+
+vesm9301-037-p2s3
+1	Oddělení	NNNP1-----A----	Sb
+2	věd	NNFP2-----A----	Atr
+3	dávají	VB-P---3P-AA---	Pred
+4	návrhy	NNIP4-----A----	Obj
+5	a	J^-------------	Coord
+6	plénum	NNNS1-----A----	Sb
+7	o	RR--6----------	AuxP
+8	nich	P5XP6--3-------	Obj
+9	hlasuje	VB-S---3P-AA---	Pred
+10	.	Z:-------------	AuxK
+
+vesm9301-037-p2s4
+1	Červnové	AAFP1----1A----	Atr
+2	volby	NNFP1-----A----	Sb
+3	přinesly	VpTP---XR-AA---	Pred
+4	překvapující	AGIS4-----A----	Atr
+5	výsledek	NNIS4-----A----	Obj
+6	-	Z:-------------	Coord
+7	většina	NNFS1-----A----	Sb
+8	kandidátů	NNMP2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	akademiky	NNMP4-----A----	Atr
+11	se	RV--7----------	AuxP
+12	židovskými	AANP7----1A----	Atr
+13	jmény	NNNP7-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kteří	P4MP1----------	Sb
+16	byli	VpMP---XR-AA---	AuxV
+17	navrženi	VsMP---XX-AP---	Atr
+18	odděleními	NNNP7-----A----	Obj
+19	,	Z:-------------	AuxX
+20	volbu	NNFS4-----A----	Obj
+21	v	RR--6----------	AuxP
+22	plénu	NNNS6-----A----	AtrAdv
+23	prohrála	VpQW---XR-AA---	Pred
+24	.	Z:-------------	AuxK
+
+vesm9301-037-p2s5
+1	Patří	VB-S---3P-AA---	Pred
+2	mezi	RR--4----------	AuxP
+3	ně	P5XP4--3-------	Adv
+4	např	Db------------8	AuxZ
+5	.	Z:-------------	AuxG
+6	známí	AAMP1----1A----	Atr
+7	jaderní	AAMP1----1A----	Atr
+8	fyzici	NNMP1-----A----	Atr
+9	S	NNMXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	Gerštejn	NNMS1-----A----	Sb
+12	,	Z:-------------	AuxX
+13	I	NNMXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Guverič	NNMS1-----A----	Sb
+16	a	J^-------------	Coord
+17	I	NNMXX-----A---8	Atr
+18	.	Z:-------------	AuxG
+19	Feinberg	NNMS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+vesm9301-037-p2s6
+1	Akademikem	NNMS7-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	zato	J,-------------	AuxY
+4	stal	VpYS---XR-AA---	Pred
+5	známý	AAMS1----1A----	Atr
+6	teoretik	NNMS1-----A----	Atr
+7	antisemitismu	NNIS2-----A----	Atr
+8	I	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Šafarevič	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+vesm9301-037-p2s7
+1	Podle	RR--2----------	AuxP
+2	dávných	AAIP2----1A----	Atr
+3	vzorů	NNIP2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	členy	NNMP7-----A----	Obj
+6	Akademie	NNFS2-----A----	Atr
+7	stali	VpMP---XR-AA---	Pred
+8	i	J^-------------	AuxZ
+9	politici	NNMP1-----A----	Sb
+10	:	Z:-------------	Apos
+11	V	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	Šorin	NNMS1-----A----	Sb
+14	,	Z:-------------	Apos
+15	předseda	NNMS1-----A----	Sb
+16	parlamentní	AAFS2----1A----	Atr
+17	komise	NNFS2-----A----	Atr
+18	pro	RR--4----------	AuxP
+19	vědu	NNFS4-----A----	Atr
+20	a	J^-------------	Coord
+21	techniku	NNFS4-----A----	Atr
+22	,	Z:-------------	AuxX
+23	akademikem	NNMS7-----A----	ExD
+24	R	NNMXX-----A---8	Atr
+25	.	Z:-------------	AuxG
+26	Chazbulatov	NNMS1-----A----	ExD
+27	,	Z:-------------	Apos
+28	předseda	NNMS1-----A----	ExD
+29	parlamentu	NNIS2-----A----	Atr
+30	,	Z:-------------	Coord
+31	členem	NNMS7-----A----	ExD
+32	-	Z:-------------	AuxG
+33	korespondentem	NNMS7-----A----	Atr
+34	.	Z:-------------	AuxK
+
+vesm9301-037-p3s1
+1	Jiří	NNMS1-----A----	Atr
+2	Koryta	NNNS2-----A----	ExD
+
+vesm9301-037-p4s1
+1	27	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	34	C=-------------	ExD
+

@@ -1,0 +1,284 @@
+cmpr9406-026-p2s1
+1	štoček	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Zahraniční	AAFS1----1A----	Atr
+4	měna	NNFS1-----A----	ExD
+
+cmpr9406-026-p3s1
+1	Forint	NNIS1-----A----	ExD
+
+cmpr9406-026-p4s1
+1	Jméno	NNNS1-----A----	Sb
+2	maďarské	AAFS2----1A----	Atr
+3	měny	NNFS2-----A----	Atr
+4	vzniklo	VpNS---XR-AA--1	Pred
+5	ze	RV--2----------	AuxP
+6	slova	NNNS2-----A----	Adv
+7	florenus	NNIS1-----A----	Atr
+8	-	Z:-------------	Apos
+9	názvu	NNIS2-----A----	Adv
+10	pro	RR--4----------	AuxP
+11	zlatou	AAFS4----1A----	Atr
+12	minci	NNFS4-----A----	Atr
+13	florenského	AAIS2----1A----	Atr
+14	typu	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9406-026-p4s2
+1	Jeho	PSXXXZS3-------	Atr
+2	ražba	NNFS1-----A----	Sb
+3	byla	VpQW---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	Maďarsku	NNNS6-----A----	Adv
+6	zahájená	AAFS1----1A----	Pnom
+7	v	RR--6----------	AuxP
+8	roce	NNIS6-----A---1	Adv
+9	1326	C=-------------	Atr
+10	z	RR--2----------	AuxP
+11	rozhodnutí	NNNS2-----A----	Adv
+12	krále	NNMS2-----A----	Atr
+13	Róberta	NNMS2-----A----	Atr
+14	Károlyho	NNMS2-----A----	Atr
+15	jako	J,-------------	AuxY
+16	odpověď	NNFS1-----A----	Atv
+17	na	RR--4----------	AuxP
+18	záplavu	NNFS4-----A----	Atr
+19	českých	AAIP2----1A----	Atr
+20	grošů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9406-026-p4s3
+1	Oficiálním	AANS7----1A----	Atr
+2	státním	AANS7----1A----	Atr
+3	platidlem	NNNS7-----A----	Obj
+4	byl	VpYS---XR-AA---	AuxV
+5	ustanoven	VsYS---XX-AP---	Pred
+6	forint	NNIS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	roce	NNIS6-----A---1	Adv
+9	1946	C=-------------	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9406-026-p4s4
+1	Nahradil	VpYS---XR-AA---	Pred
+2	předtím	Db-------------	Adv
+3	užívanou	AAFS4----1A----	Atr
+4	jednotku	NNFS4-----A----	Obj
+5	pengo	NNNXX-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9406-026-p4s5
+1	Tehdy	Db-------------	Adv
+2	odpovídalo	VpNS---XR-AA---	Pred
+3	13200	C=-------------	Sb
+4	forintů	NNIP2-----A----	Atr
+5	hodnotě	NNFS3-----A----	Obj
+6	1	C=-------------	Atr
+7	kg	NNIXX-----A---8	Atr
+8	zlata	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9406-026-p5s1
+1	Maďarská	AAFS1----1A----	Atr
+2	měna	NNFS1-----A----	Sb
+3	nepatří	VB-S---3P-NA---	Pred
+4	mezi	RR--4----------	AuxP
+5	plně	Dg-------1A----	Adv
+6	konvertibilní	AAFP4----1A----	Adv
+7	.	Z:-------------	AuxK
+
+cmpr9406-026-p5s2
+1	Po	RR--6----------	AuxP
+2	rozpadu	NNIS6-----A----	Adv
+3	RVHP	NNFXX-----A---8	Atr
+4	se	P7-X4----------	AuxR
+5	každoročně	Dg-------1A----	Adv
+6	hodnota	NNFS1-----A----	Sb
+7	forintu	NNIS2-----A----	Atr
+8	vůči	RR--3----------	AuxP
+9	dolaru	NNIS3-----A----	Adv
+10	snižuje	VB-S---3P-AA---	Pred
+11	.	Z:-------------	AuxK
+
+cmpr9406-026-p5s3
+1	Zatímco	J,-------------	AuxC
+2	v	RR--6----------	AuxP
+3	roce	NNIS6-----A---1	Adv
+4	1989	C=-------------	Atr
+5	se	P7-X4----------	AuxR
+6	měnil	VpYS---XR-AA---	Adv
+7	dolar	NNIS1-----A----	Sb
+8	za	RR--4----------	AuxP
+9	necelých	AAIP2----1N----	Atr
+10	60	C=-------------	Adv
+11	forintů	NNIP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	začátkem	NNIS7-----A----	AuxP
+14	letošního	AAIS2----1A----	Atr
+15	roku	NNIS2-----A---1	Adv
+16	to	PDNS1----------	Sb
+17	bylo	VpNS---XR-AA---	Pred
+18	kolem	RR--2----------	AuxP
+19	100	C=-------------	Atr
+20	forintů	NNIP2-----A----	Pnom
+21	za	RR--4----------	AuxP
+22	dolar	NNIS4-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9406-026-p6s1
+1	Mzdy	NNFP1-----A----	Sb
+2	v	RR--6----------	AuxP
+3	Maďarsku	NNNS6-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	značně	Dg-------1A----	Adv
+6	rozdílné	AAFP1----1A----	Pnom
+7	.	Z:-------------	AuxK
+
+cmpr9406-026-p6s2
+1	Ve	RV--6----------	AuxP
+2	stavebnictví	NNNS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	loni	Db------------1	Adv
+5	měsíční	AAFP1----1A----	Atr
+6	mzdy	NNFP1-----A----	Sb
+7	pohybovaly	VpTP---XR-AA---	Pred
+8	kolem	RR--2----------	AuxP
+9	23000	C=-------------	Adv
+10	Ft	NNIXX-----A---8	Atr
+11	,	Z:-------------	AuxX
+12	v	RR--6----------	AuxP
+13	potravinářském	AAIS6----1A----	Atr
+14	průmyslu	NNIS6-----A----	Adv
+15	to	PDNS1----------	Sb
+16	bylo	VpNS---XR-AA---	Pred
+17	25700	C=-------------	Pnom
+18	Ft	NNIXX-----A---8	Atr
+19	a	J^-------------	Coord
+20	v	RR--6----------	AuxP
+21	průmyslu	NNIS6-----A----	ExD
+22	26260	C=-------------	ExD
+23	Ft	NNIXX-----A---8	Atr
+24	.	Z:-------------	AuxK
+
+cmpr9406-026-p6s3
+1	Nejvyšší	AAFP1----3A----	Atr
+2	mzdy	NNFP1-----A----	Sb
+3	jsou	VB-P---3P-AA---	Pred
+4	ve	RV--6----------	AuxP
+5	finanční	AAFS6----1A----	Atr
+6	sféře	NNFS6-----A----	Adv
+7	,	Z:-------------	AuxX
+8	kde	Db-------------	Adv
+9	se	P7-X4----------	AuxT
+10	pohybují	VB-P---3P-AA---	Atr
+11	kolem	RR--2----------	AuxP
+12	50600	C=-------------	Adv
+13	Ft	NNIXX-----A---8	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9406-026-p6s4
+1	Maďarský	AAMS1----1A----	Atr
+2	občan	NNMS1-----A----	Sb
+3	přitom	Db-------------	Adv
+4	zaplatí	VB-S---3P-AA---	Pred
+5	za	RR--4----------	AuxP
+6	:	Z:-------------	AuxG
+7	-	Z:-------------	AuxG
+8	1	C=-------------	Atr
+9	l	NNIXX-----A---8	Obj
+10	mléka	NNNS2-----A----	Atr
+11	kolem	RR--2----------	AuxP
+12	60	C=-------------	Atr
+13	forintů	NNIP2-----A----	Obj
+14	,	Z:-------------	AuxX
+15	-	Z:-------------	ExD
+16	1	C=-------------	Atr
+17	kg	NNIXX-----A---8	ExD
+18	chleba	NNIS2-----A----	Atr
+19	kolem	RR--2----------	AuxP
+20	70	C=-------------	ExD
+21	,	Z:-------------	AuxX
+22	-	Z:-------------	ExD
+23	1	C=-------------	Atr
+24	lahev	NNFS4-----A----	ExD
+25	coca	AAXXX----1A----	Atr
+26	coly	NNFS2-----A----	Atr
+27	(	Z:-------------	AuxG
+28	0.33	C=-------------	Atr
+29	l	NNIXX-----A---8	Atr
+30	)	Z:-------------	AuxG
+31	kolem	RR--2----------	AuxP
+32	15	C=-------------	Atr
+33	forintů	NNIP2-----A----	ExD
+34	,	Z:-------------	AuxX
+35	-	Z:-------------	ExD
+36	krabička	NNFS1-----A----	ExD
+37	cigaret	NNFP2-----A----	Atr
+38	Marlboro	NNNS1-----A----	Atr
+39	asi	TT-------------	AuxZ
+40	120	C=-------------	ExD
+41	forintů	NNIP2-----A----	Atr
+42	,	Z:-------------	Coord
+43	-	Z:-------------	ExD
+44	1	C=-------------	Atr
+45	l	NNIXX-----A---8	ExD
+46	bezolovnatého	AAIS2----1A----	Atr
+47	benzinu	NNIS2-----A----	Atr
+48	asi	TT-------------	AuxZ
+49	76	C=-------------	ExD
+50	forintů	NNIP2-----A----	Atr
+51	.	Z:-------------	AuxK
+
+cmpr9406-026-p12s1
+1	Za	RR--4----------	AuxP
+2	jeden	ClIS4----------	Atr
+3	forint	NNIS4-----A----	Adv
+4	již	Db-------------	Atr
+5	není	VB-S---3P-NA---	Pred
+6	možné	AANS1----1A----	Pnom
+7	v	RR--6----------	AuxP
+8	současnosti	NNFS6-----A----	Adv
+9	koupit	Vf--------A----	Sb
+10	prakticky	Dg-------1A----	Adv
+11	nic	PW--4----------	Obj
+12	.	Z:-------------	AuxK
+
+cmpr9406-026-p12s2
+1	Například	Db-------------	AuxZ
+2	maďarský	AAIS1----1A----	Atr
+3	deník	NNIS1-----A----	Sb
+4	stojí	VB-S---3P-AA---	Pred
+5	kolem	RR--2----------	AuxP
+6	19	C=-------------	Atr
+7	forintů	NNIP2-----A----	Adv
+8	,	Z:-------------	Coord
+9	známka	NNFS1-----A----	ExD
+10	na	RR--4----------	AuxP
+11	pohled	NNIS4-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Maďarsku	NNNS6-----A----	Atr
+14	kolem	RR--2----------	AuxP
+15	10	C=-------------	Atr
+16	forintů	NNIP2-----A----	ExD
+17	ap	Db------------9	ExD
+18	.	Z:-------------	AuxG
+
+cmpr9406-026-p14s1
+1	text	NNIS1-----A----	ExD
+2	ke	RV--3----------	AuxP
+3	grafu	NNIS3-----A----	Atr
+4	:	Z:-------------	AuxK
+
+cmpr9406-026-p15s1
+1	Vývoj	NNIS1-----A----	ExD
+2	kurzu	NNIS2-----A----	Atr
+3	forintu	NNIS2-----A----	Atr
+4	vůči	RR--3----------	AuxP
+5	dolaru	NNIS3-----A----	Atr
+6	v	RR--6----------	AuxP
+7	letech	NNNP6-----A----	Atr
+8	1989	C=-------------	Atr
+9	-	Z:-------------	Coord
+10	1993	C=-------------	Atr
+11	:	Z:-------------	AuxK
+

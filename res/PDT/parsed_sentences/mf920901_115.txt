@@ -1,0 +1,133 @@
+mf920901-115-p1s1
+1	Stěpanakert	NNIS1-----A----	ExD
+2	terčem	NNIS7-----A----	ExD
+3	náletu	NNIS2-----A----	Atr
+4	,	Z:-------------	Coord
+5	srážky	NNFP1-----A----	ExD
+6	v	RR--6----------	AuxP
+7	celém	AAIS6----1A----	Atr
+8	Karabachu	NNIS6-----A----	Atr
+9	DOHODNUTÉ	AANS1----1A----	Atr
+10	PŘÍMĚŘÍ	NNNS1-----A----	ExD
+11	PORUŠENO	VsNS---XX-AP---	ExD
+
+mf920901-115-p2s1
+1	Stěpanakert	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920901-115-p2s2
+1	Ázerbájdžánské	AANS1----1A----	Atr
+2	letectvo	NNNS1-----A----	Sb
+3	včera	Db-------------	Adv
+4	znovu	Db-------------	Adv
+5	bombardovalo	VpNS---XR-AA---	Pred
+6	správní	AANS4----1A----	Atr
+7	středisko	NNNS4-----A----	Obj
+8	Náhorního	AAIS2----1A----	Atr
+9	Karabachu	NNIS2-----A----	Atr
+10	Stěpanakert	NNIS4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf920901-115-p2s3
+1	Podle	RR--2----------	AuxP
+2	karabašských	AAIP2----1A----	Atr
+3	zdrojů	NNIP2-----A----	Adv
+4	bylo	VpNS---XR-AA---	AuxV
+5	na	RR--4----------	AuxP
+6	město	NNNS4-----A----	Adv
+7	svrženo	VsNS---XX-AP---	Pred
+8	15	C=-------------	Sb
+9	až	J^-------------	Coord
+10	20	C=-------------	Sb
+11	leteckých	AAFP2----1A----	Atr
+12	pum	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920901-115-p2s4
+1	Arménské	AAFS3----1A----	Atr
+2	domobraně	NNFS3-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	podařilo	VpNS---XR-AA---	Pred
+5	jeden	ClIS4----------	Atr
+6	letoun	NNIS4-----A----	Obj
+7	sestřelit	Vf--------A----	Sb
+8	.	Z:-------------	AuxK
+
+mf920901-115-p2s5
+1	Útok	NNIS1-----A----	Sb
+2	si	P7-X3----------	AuxT
+3	vyžádal	VpYS---XR-AA---	Pred
+4	lidské	AAFP4----1A----	Atr
+5	oběti	NNFP4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	ale	J^-------------	Coord
+8	počet	NNIS1-----A----	Sb
+9	mrtvých	AAMP2----1A----	Atr
+10	a	J^-------------	Coord
+11	raněných	AAMP2----1A----	Atr
+12	zatím	Db-------------	Adv
+13	není	VB-S---3P-NA---	Pred
+14	znám	ACYS------A----	Pnom
+15	.	Z:-------------	AuxK
+
+mf920901-115-p3s1
+1	Včera	Db-------------	Adv
+2	o	RR--6----------	AuxP
+3	půlnoci	NNFS6-----A----	Adv
+4	mělo	VpNS---XR-AA---	Pred
+5	vstoupit	Vf--------A----	Obj
+6	v	RR--4----------	AuxP
+7	platnost	NNFS4-----A----	Obj
+8	zastavení	NNNS1-----A----	Sb
+9	palby	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	na	RR--6----------	AuxP
+12	němž	P9ZS6----------	Obj
+13	se	P7-X4----------	AuxT
+14	dohodli	VpMP---XR-AA--1	Atr
+15	minulý	AAIS4----1A----	Atr
+16	týden	NNIS4-----A----	Adv
+17	v	RR--6----------	AuxP
+18	Alma	NNFSX-----A----	Atr
+19	-	Z:-------------	AuxG
+20	Atě	NNFS6-----A----	Adv
+21	ministři	NNMP1-----A----	Sb
+22	zahraničí	NNNS2-----A----	Atr
+23	Arménie	NNFS2-----A----	Atr
+24	a	J^-------------	Coord
+25	Ázerbájdžánu	NNIS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+mf920901-115-p4s1
+1	Boje	NNIP1-----A----	Sb
+2	pokračovaly	VpTP---XR-AA---	Pred
+3	s	RR--7----------	AuxP
+4	neztenčenou	AAFS7----1N----	Atr
+5	silou	NNFS7-----A----	Adv
+6	jak	Db-------------	AuxY
+7	na	RR--6----------	AuxP
+8	arménsko	A2--------A----	Atr
+9	-	Z:-------------	Coord
+10	ázerbájdžánské	AAFS6----1A----	Atr
+11	hranici	NNFS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	tak	Db-------------	Coord
+14	v	RR--6----------	AuxP
+15	Náhorním	AAIS6----1A----	Atr
+16	Karabachu	NNIS6-----A----	Obj
+17	,	Z:-------------	Apos
+18	arménské	AAFS6----1A----	Atr
+19	enklávě	NNFS6-----A----	Adv
+20	pod	RR--7----------	AuxP
+21	ázerbájdžánskou	AAFS7----1A----	Atr
+22	správou	NNFS7-----A----	Atr
+23	,	Z:-------------	AuxX
+24	který	P4YS1----------	Sb
+25	je	VB-S---3P-AA---	Atr
+26	příčinou	NNFS7-----A----	Pnom
+27	a	J^-------------	Coord
+28	ohniskem	NNNS7-----A----	Pnom
+29	letitého	AAIS2----1A----	Atr
+30	konfliktu	NNIS2-----A----	Atr
+31	.	Z:-------------	AuxK
+

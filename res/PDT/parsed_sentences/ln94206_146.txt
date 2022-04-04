@@ -1,0 +1,126 @@
+ln94206-146-p1s1
+1	Dražší	AAIS1----2A----	Atr
+2	speciál	NNIS1-----A----	ExD
+3	,	Z:-------------	Coord
+4	levnější	AAIS1----2A----	Atr
+5	super	NNIS1-----A----	ExD
+
+ln94206-146-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94206-146-p2s1B
+1	O	RR--4----------	AuxP
+2	30	C=-------------	Adv
+3	korun	NNFP2-----A----	Atr
+4	na	RR--4----------	AuxP
+5	7280	C=-------------	Obj
+6	korun	NNFP2-----A----	Atr
+7	za	RR--4----------	AuxP
+8	tunu	NNFS4-----A----	Atr
+9	zvýšil	VpYS---XR-AA---	Pred
+10	v	RR--6----------	AuxP
+11	těchto	PDXP6----------	Atr
+12	dnech	NNIP6-----A----	Adv
+13	ceny	NNFP4-----A----	Obj
+14	benzínu	NNIS2-----A----	Atr
+15	speciál	NNIS1-----A----	Atr
+16	Kaučuk	NNIS1-----A----	Sb
+17	Kralupy	NNIP1-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94206-146-p2s2
+1	Tunu	NNFS4-----A----	Obj
+2	benzínu	NNIS2-----A----	Atr
+3	natural	NNIS1-----A----	Atr
+4	zdražil	VpYS---XR-AA---	Pred
+5	o	RR--4----------	AuxP
+6	20	C=-------------	Adv
+7	korun	NNFP2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	7320	C=-------------	Obj
+10	Kč	NNFXX-----A----	Atr
+11	/	Z:-------------	AuxG
+12	t	NNFXX-----A---8	Atr
+13	.	Z:-------------	AuxK
+
+ln94206-146-p2s3
+1	Naopak	Db-------------	Adv
+2	o	RR--4----------	AuxP
+3	100	C=-------------	Adv
+4	korun	NNFP2-----A----	Atr
+5	levněji	Dg-------2A----	Adv
+6	prodává	VB-S---3P-AA---	Pred
+7	nyní	Db-------------	Adv
+8	svým	P8XP3----------	Atr
+9	odběratelům	NNMP3-----A----	Obj
+10	tunu	NNFS4-----A----	Obj
+11	benzínu	NNIS2-----A----	Atr
+12	super	NNIS1-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94206-146-p3s1
+1	Podle	RR--2----------	AuxP
+2	obchodního	AAMS2----1A----	Atr
+3	ředitele	NNMS2-----A----	Atr
+4	akciové	AAFS2----1A----	Atr
+5	společnosti	NNFS2-----A----	Atr
+6	Benzina	NNFS1-----A----	Atr
+7	Václava	NNMS2-----A----	Atr
+8	Louly	NNMS2-----A----	Adv
+9	dojde	VB-S---3P-AA---	Pred
+10	v	RR--6----------	AuxP
+11	září	NNNS6-----A----	Adv
+12	ve	RV--6----------	AuxP
+13	srovnání	NNNS6-----A----	AuxP
+14	se	RV--7----------	AuxP
+15	srpnem	NNIS7-----A----	Adv
+16	u	RR--2----------	AuxP
+17	čerpacích	AAFP2----1A----	Atr
+18	stanic	NNFP2-----A----	Adv
+19	Benziny	NNFS2-----A----	Atr
+20	pouze	Db-------------	AuxZ
+21	k	RR--3----------	AuxP
+22	nepatrným	AAFP3----1N----	Atr
+23	změnám	NNFP3-----A----	Obj
+24	cen	NNFP2-----A----	Atr
+25	pohonných	AAFP2----1A----	Atr
+26	hmot	NNFP2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+ln94206-146-p4s1
+1	U	RR--2----------	AuxP
+2	některých	PZXP2----------	Atr
+3	čerpadel	NNNP2-----A----	Adv
+4	se	P7-X4----------	AuxR
+5	budou	VB-P---3F-AA---	AuxV
+6	ceny	NNFP1-----A----	Sb
+7	benzínu	NNIS2-----A----	Atr
+8	a	J^-------------	Coord
+9	nafty	NNFP1-----A----	Atr
+10	držet	Vf--------A----	Pred
+11	na	RR--6----------	AuxP
+12	srpnové	AAFS6----1A----	Atr
+13	úrovni	NNFS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94206-146-p4s2
+1	Někde	Db-------------	Adv
+2	vzrostou	VB-P---3P-AA---	Obj
+3	o	RR--4----------	AuxP
+4	deset	Cn-S4----------	Adv
+5	haléřů	NNIP2-----A----	Atr
+6	a	J^-------------	Coord
+7	jinde	Db-------------	Adv
+8	naopak	Db-------------	Adv
+9	o	RR--4----------	AuxP
+10	deset	Cn-S4----------	Adv
+11	haléřů	NNIP2-----A----	Atr
+12	klesnou	VB-P---3P-AA---	Obj
+13	,	Z:-------------	AuxX
+14	sdělil	VpYS---XR-AA---	Pred
+15	V	NNMXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	Loula	NNMS1-----A----	Sb
+18	.	Z:-------------	AuxK
+

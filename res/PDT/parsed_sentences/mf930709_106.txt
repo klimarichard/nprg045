@@ -1,0 +1,238 @@
+mf930709-106-p1s1
+1	Armáda	NNFS1-----A----	Sb
+2	testuje	VB-S---3P-AA---	Pred
+3	nové	AANS4----1A----	Atr
+4	letadlo	NNNS4-----A----	Obj
+5	vyvinuté	AANS4----1A----	Atr
+6	firmou	NNFS7-----A----	Obj
+7	Let	NNIS1-----A----	Atr
+8	Kunovice	NNFP1-----A----	Atr
+
+mf930709-106-p2s1A
+1	Kunovice	NNFP1-----A----	ExD
+2	(	Z:-------------	ExD
+3	do	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-106-p2s1B
+1	Malý	AAIS1----1A----	Atr
+2	dopravní	AAIS1----1A----	Atr
+3	letoun	NNIS1-----A----	Sb
+4	L	NNNXX-----A----	Atr
+5	-	Z:-------------	AuxG
+6	610	C=-------------	Atr
+7	M	NNNXX-----A----	Atr
+8	vyvinutý	AAIS1----1A----	Atr
+9	v	RR--6----------	AuxP
+10	akciové	AAFS6----1A----	Atr
+11	společnosti	NNFS6-----A----	Adv
+12	Let	NNIS1-----A----	Atr
+13	Kunovice	NNFP1-----A----	Atr
+14	by	Vc-------------	AuxV
+15	měl	VpYS---XR-AA---	Pred
+16	postupně	Dg-------1A----	Adv
+17	ve	RV--6----------	AuxP
+18	výzbroji	NNFS6-----A----	Adv
+19	české	AAFS2----1A----	Atr
+20	armády	NNFS2-----A----	Atr
+21	nahradit	Vf--------A----	Obj
+22	zastaralé	AAIP4----1A----	Atr
+23	typy	NNIP4-----A----	Obj
+24	AN	NNIXX-----A---8	Atr
+25	-	Z:-------------	AuxG
+26	24	C=-------------	Atr
+27	,	Z:-------------	AuxX
+28	AN	NNIXX-----A---8	Atr
+29	-	Z:-------------	AuxG
+30	26	C=-------------	Atr
+31	,	Z:-------------	AuxX
+32	AN	NNIXX-----A---8	Atr
+33	-	Z:-------------	AuxG
+34	30	C=-------------	Atr
+35	a	J^-------------	Coord
+36	L	NNNXX-----A----	Atr
+37	-	Z:-------------	AuxG
+38	410	C=-------------	Atr
+39	.	Z:-------------	AuxK
+
+mf930709-106-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	velitel	NNMS1-----A----	Atr
+5	letectva	NNNS2-----A----	Atr
+6	a	J^-------------	Coord
+7	protivzdušné	AAFS2----1A----	Atr
+8	obrany	NNFS2-----A----	Atr
+9	Jan	NNMS1-----A----	Atr
+10	Ploc	NNMS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+mf930709-106-p2s3
+1	Podle	RR--2----------	AuxP
+2	něj	P5ZS2--3-------	Adv
+3	by	Vc-------------	AuxV
+4	armáda	NNFS1-----A----	Sb
+5	do	RR--2----------	AuxP
+6	roku	NNIS2-----A---1	Adv
+7	1998	C=-------------	Atr
+8	potřebovala	VpQW---XR-AA---	Pred
+9	osm	Cn-S4----------	Obj
+10	až	J^-------------	Coord
+11	dvanáct	Cn-S4----------	Obj
+12	nových	AANP2----1A----	Atr
+13	letadel	NNNP2-----A----	Atr
+14	L	NNNXX-----A----	Atr
+15	-	Z:-------------	AuxG
+16	610	C=-------------	Atr
+17	M	NNNXX-----A----	Atr
+18	.	Z:-------------	AuxK
+
+mf930709-106-p2s4
+1	Let	NNIS1-----A----	Sb
+2	Kunovice	NNFP1-----A----	Atr
+3	včera	Db-------------	Adv
+4	armádě	NNFS3-----A----	Obj
+5	půjčil	VpYS---XR-AA---	Pred
+6	bezplatně	Dg-------1A----	Adv
+7	pátý	CrIS4----------	Atr
+8	prototyp	NNIS4-----A----	Obj
+9	nového	AAIS2----1A----	Atr
+10	letounu	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+mf930709-106-p2s5
+1	Vojsko	NNNS1-----A----	Sb
+2	totiž	Db-------------	AuxY
+3	provádí	VB-S---3P-AA---	Pred
+4	se	RV--7----------	AuxP
+5	stroji	NNIP7-----A----	Adv
+6	zvláštní	AAFP4----1A----	Atr
+7	zkoušky	NNFP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	protože	J,-------------	AuxC
+10	obvyklé	AAIP1----1A----	Atr
+11	civilní	AAIP1----1A----	Atr
+12	certifikáty	NNIP1-----A----	Sb
+13	pro	RR--4----------	AuxP
+14	armádní	AAFP4----1A----	Atr
+15	potřeby	NNFP4-----A----	Adv
+16	nestačí	VB-P---3P-NA---	Adv
+17	.	Z:-------------	AuxK
+
+mf930709-106-p2s6
+1	Letadlo	NNNS4-----A----	Obj
+2	L	NNNXX-----A----	Atr
+3	-	Z:-------------	AuxG
+4	610	C=-------------	Atr
+5	M	NNNXX-----A----	Atr
+6	bude	VB-S---3F-AA---	AuxV
+7	armáda	NNFS1-----A----	Sb
+8	testovat	Vf--------A----	Pred
+9	ve	RV--6----------	AuxP
+10	Výzkumném	AAIS6----1A----	Atr
+11	ústavu	NNIS6-----A---1	Adv
+12	letectva	NNNS2-----A----	Atr
+13	v	RR--6----------	AuxP
+14	Praze	NNFS6-----A----	AtrAdv
+15	-	Z:-------------	AuxG
+16	Kbelích	NNIP6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+mf930709-106-p2s7
+1	Souběžně	Dg-------1A----	Adv
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	mělo	VpNS---XR-AA---	Pred
+5	začít	Vf--------A----	Sb
+6	pracovat	Vf--------A----	Obj
+7	i	J^-------------	AuxZ
+8	na	RR--6----------	AuxP
+9	transportní	AAFS6----1A----	Atr
+10	verzi	NNFS6-----A----	Obj
+11	L	NNNXX-----A----	Atr
+12	-	Z:-------------	AuxG
+13	610	C=-------------	Atr
+14	M	NNNXX-----A----	Atr
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	by	Vc-------------	AuxV
+18	odpovídala	VpQW---XR-AA---	Atr
+19	vojenským	AAIP3----1A----	Atr
+20	požadavkům	NNIP3-----A----	Obj
+21	.	Z:-------------	AuxK
+
+mf930709-106-p2s8
+1	Prototyp	NNIS1-----A----	Sb
+2	půjčený	AAIS1----1A----	Atr
+3	armádě	NNFS3-----A----	Obj
+4	je	VB-S---3P-AA---	Pred
+5	vybaven	VsYS---XX-AP---	Pnom
+6	motorem	NNIS7-----A----	Adv
+7	z	RR--2----------	AuxP
+8	Motorletu	NNIS2-----A----	Atr
+9	Jinonice	NNFP1-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf930709-106-p2s9
+1	Let	NNIS1-----A----	Sb
+2	dokončuje	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	certifikaci	NNFS4-----A----	Obj
+5	modifikace	NNFS2-----A----	Atr
+6	L	NNNXX-----A----	Atr
+7	-	Z:-------------	AuxG
+8	610	C=-------------	Atr
+9	G	NNNXX-----A----	Atr
+10	s	RR--7----------	AuxP
+11	motorem	NNIS7-----A----	AtrAtr
+12	americké	AAFS2----1A----	Atr
+13	firmy	NNFS2-----A----	Atr
+14	General	AAXXX----1A----	Atr
+15	Electric	AAXXX----1A----	Atr
+16	.	Z:-------------	AuxK
+
+mf930709-106-p2s10
+1	Tato	PDFS1----------	Atr
+2	verze	NNFS1-----A----	Sb
+3	má	VB-S---3P-AA---	Pred
+4	nižší	AAFS4----2A----	Atr
+5	spotřebu	NNFS4-----A----	Obj
+6	paliva	NNNS2-----A----	Atr
+7	a	J^-------------	Coord
+8	asi	TT-------------	AuxZ
+9	dvakrát	Cv-------------	Adv
+10	delší	AAIS4----2A----	Atr
+11	dolet	NNIS4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+mf930709-106-p2s11
+1	Zatím	Db-------------	Adv
+2	není	VB-S---3P-NA---	Pred
+3	rozhodnuto	VsNS---XX-AP---	Pnom
+4	,	Z:-------------	AuxX
+5	zda	J,-------------	AuxC
+6	armáda	NNFS1-----A----	Sb
+7	bude	VB-S---3F-AA---	AuxV
+8	v	RR--6----------	AuxP
+9	budoucnu	NNNS6-----A----	Adv
+10	používat	Vf--------A----	Sb
+11	oba	ClYP4----------	Atr
+12	typy	NNIP4-----A----	Obj
+13	-	Z:-------------	Apos
+14	M	NNNXX-----A----	Obj
+15	i	J^-------------	Coord
+16	G	NNNXX-----A----	Obj
+17	,	Z:-------------	AuxX
+18	nebo	J^-------------	Coord
+19	jen	TT-------------	AuxZ
+20	verzi	NNFS4-----A----	Obj
+21	s	RR--7----------	AuxP
+22	naším	PSZS7-P1-------	Atr
+23	motorem	NNIS7-----A----	Atr
+24	M	NNNXX-----A----	Atr
+25	-	Z:-------------	AuxG
+26	602	C=-------------	Atr
+27	.	Z:-------------	AuxK
+

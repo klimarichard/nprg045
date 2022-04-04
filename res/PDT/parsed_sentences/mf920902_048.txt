@@ -1,0 +1,395 @@
+mf920902-048-p1s1
+1	Dubček	NNMS1-----A----	ExD
+2	těžce	Dg-------1A----	Adv
+3	zraněn	VsYS---XX-AP---	ExD
+
+mf920902-048-p2s1
+1	Jedenasedmdesátiletý	AAMS1----1A----	Atr
+2	poslanec	NNMS1-----A----	Atr
+3	Federálního	AANS2----1A----	Atr
+4	shromáždění	NNNS2-----A----	Atr
+5	a	J^-------------	Coord
+6	předseda	NNMS1-----A----	Atr
+7	SDSS	NNFXX-----A---8	Atr
+8	Alexander	NNMS1-----A----	Atr
+9	Dubček	NNMS1-----A----	Sb
+10	utrpěl	VpYS---XR-AA---	Pred
+11	včera	Db-------------	Adv
+12	při	RR--6----------	AuxP
+13	autonehodě	NNFS6-----A----	Adv
+14	mnohočetná	AANP4----1A----	Atr
+15	poranění	NNNP4-----A----	Obj
+16	páteře	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	hrudníku	NNIS2-----A----	Atr
+19	a	J^-------------	Coord
+20	pánve	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920902-048-p2s2
+1	Tmavomodré	AANS1----1A----	Atr
+2	BMW	NNNXX-----A----	Sb
+3	535	C=-------------	Atr
+4	,	Z:-------------	AuxX
+5	kterým	P4ZS7----------	Adv
+6	cestoval	VpYS---XR-AA---	Atr
+7	do	RR--2----------	AuxP
+8	Prahy	NNFS2-----A----	Adv
+9	na	RR--4----------	AuxP
+10	zasedání	NNNS4-----A----	Adv
+11	předsednictva	NNNS2-----A----	Atr
+12	FS	NNNXX-----A---8	Atr
+13	,	Z:-------------	AuxX
+14	havarovalo	VpNS---XR-AA---	Pred
+15	v	RR--4----------	AuxP
+16	9.25	C=-------------	Adv
+17	hodin	NNFP2-----A----	Atr
+18	na	RR--6----------	AuxP
+19	88	C=-------------	Atr
+20	.	Z:-------------	AuxG
+21	kilometru	NNIS6-----A----	Adv
+22	dálnice	NNFS2-----A----	Atr
+23	D	NNFXX-----A---8	Atr
+24	1	C=-------------	Atr
+25	nedaleko	Dg-------1N----	AuxP
+26	Humpolce	NNIS2-----A----	Adv
+27	za	RR--2----------	AuxP
+28	silného	AAIS2----1A----	Atr
+29	deště	NNIS2-----A----	Adv
+30	.	Z:-------------	AuxK
+
+mf920902-048-p2s3
+1	"	Z:-------------	AuxG
+2	Nebylo	VpNS---XR-NA---	Obj
+3	možné	AANS1----1A----	Pnom
+4	zjistit	Vf--------A----	Sb
+5	rychlost	NNFS4-----A----	Obj
+6	vozu	NNIS2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	momentě	NNIS6-----A----	Atr
+9	havárie	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	"	Z:-------------	AuxG
+12	řekl	VpYS---XR-AA---	Pred
+13	včera	Db-------------	Adv
+14	major	NNMS1-----A----	Atr
+15	Stanislav	NNMS1-----A----	Atr
+16	Huml	NNMS1-----A----	Sb
+17	ze	RV--2----------	AuxP
+18	středočeského	AAIS2----1A----	Atr
+19	dopravního	AAIS2----1A----	Atr
+20	inspektorátu	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920902-048-p2s4
+1	Vůz	NNIS1-----A----	Sb
+2	ale	J^-------------	Coord
+3	podle	RR--2----------	AuxP
+4	některých	PZXP2----------	Atr
+5	odhadů	NNIP2-----A----	Adv
+6	mohl	VpYS---XR-AA---	Pred
+7	jet	Vf--------A----	Obj
+8	až	TT-------------	AuxZ
+9	dvousetkilometrovou	AAFS7----1A----	Atr
+10	rychlostí	NNFS7-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf920902-048-p3s1
+1	K	RR--3----------	AuxP
+2	nehodě	NNFS3-----A----	Obj
+3	došlo	VpNS---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	mírně	Dg-------1A----	Adv
+6	klesavé	AAFS6----1A----	Atr
+7	levotočivé	AAFS6----1A----	Atr
+8	zatáčce	NNFS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	je	VB-S---3P-AA---	Atr
+12	za	RR--2----------	AuxP
+13	mokra	NNNS2-----A----	Adv
+14	omezena	VsQW---XX-AP---	Pnom
+15	rychlost	NNFS1-----A----	Sb
+16	na	RR--4----------	AuxP
+17	80	C=-------------	Adv
+18	kilometrů	NNIP2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	hodině	NNFS6-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920902-048-p3s2
+1	Podle	RR--2----------	AuxP
+2	zanechaných	AAFP2----1A----	Atr
+3	stop	NNFP2-----A----	Adv
+4	opustilo	VpNS---XR-AA---	Pred
+5	rok	NNIS4-----A----	Adv
+6	staré	AANS1----1A----	Atr
+7	BMW	NNNXX-----A----	Sb
+8	vozovku	NNFS4-----A----	Obj
+9	v	RR--6----------	AuxP
+10	místě	NNNS6-----A----	Adv
+11	začátku	NNIS2-----A----	Atr
+12	svodidla	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920902-048-p3s3
+1	Po	RR--6----------	AuxP
+2	několika	Ca--6----------	Atr
+3	přemetech	NNIP6-----A----	Adv
+4	zůstalo	VpNS---XR-AA---	Pred
+5	stát	Vf--------A----	Obj
+6	na	RR--6----------	AuxP
+7	kolech	NNNP6-----A----	Adv
+8	necelých	AAIP2----1N----	Atr
+9	sto	NNNS4-----A----	Adv
+10	metrů	NNIP2-----A----	Atr
+11	dál	Dg-------2A----	Adv
+12	v	RR--6----------	AuxP
+13	úvoze	NNIS6-----A----	Adv
+14	,	Z:-------------	Apos
+15	zhruba	Db-------------	AuxZ
+16	tři	ClXP4----------	Atr
+17	metry	NNIP4-----A----	Adv
+18	pod	RR--7----------	AuxP
+19	úrovní	NNFS7-----A----	Atr
+20	dálnice	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920902-048-p3s4
+1	Sedmatřicetiletý	AAMS1----1A----	Atr
+2	řidič	NNMS1-----A----	Atr
+3	Ján	NNMS1-----A----	Atr
+4	Rezník	NNMS1-----A----	Sb
+5	i	J^-------------	Coord
+6	Alexander	NNMS1-----A----	Atr
+7	Dubček	NNMS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	seděl	VpYS---XR-AA---	Atr
+11	nepřipoután	VsYS---XX-NP---	Atv
+12	na	RR--6----------	AuxP
+13	zadním	AANS6----1A----	Atr
+14	sedadle	NNNS6-----A----	Adv
+15	,	Z:-------------	AuxX
+16	byli	VpMP---XR-AA---	AuxV
+17	vymrštěni	VsMP---XX-AP---	Pred
+18	dveřmi	NNFP7-----A----	Adv
+19	mimo	RR--4----------	AuxP
+20	auto	NNNS4-----A----	Adv
+21	.	Z:-------------	AuxK
+
+mf920902-048-p4s1
+1	"	Z:-------------	AuxG
+2	Hlášení	NNNS1-----A----	Sb
+3	o	RR--6----------	AuxP
+4	nehodě	NNFS6-----A----	Atr
+5	přišlo	VpNS---XR-AA---	Pred
+6	z	RR--2----------	AuxP
+7	dálniční	AAFS2----1A----	Atr
+8	hlásky	NNFS2-----A----	Adv
+9	anonymně	Dg-------1A----	Adv
+10	.	Z:-------------	AuxK
+
+mf920902-048-p4s2
+1	Účast	NNFS4-----A----	Obj
+2	jiného	AAIS2----1A----	Atr
+3	automobilu	NNIS2-----A----	Atr
+4	na	RR--6----------	AuxP
+5	nehodě	NNFS6-----A----	Atr
+6	můžeme	VB-P---1P-AA---	Obj
+7	vyloučit	Vf--------A----	Obj
+8	,	Z:-------------	AuxX
+9	"	Z:-------------	AuxG
+10	sdělil	VpYS---XR-AA---	Pred
+11	nám	PP-P3--1-------	Obj
+12	Stanislav	NNMS1-----A----	Atr
+13	Huml	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf920902-048-p4s3
+1	První	CrFS1----------	Atv
+2	na	RR--6----------	AuxP
+3	místě	NNNS6-----A----	Adv
+4	zastavila	VpQW---XR-AA---	Pred
+5	náhodně	Dg-------1A----	Adv
+6	projíždějící	AGFS1-----A----	Atr
+7	záchranka	NNFS1-----A----	Sb
+8	,	Z:-------------	Coord
+9	po	RR--6----------	AuxP
+10	několika	Ca--6----------	Atr
+11	minutách	NNFP6-----A----	Adv
+12	dorazila	VpQW---XR-AA---	Pred
+13	policie	NNFS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf920902-048-p4s4
+1	Z	RR--2----------	AuxP
+2	Humpolce	NNIS2-----A----	Adv
+3	zatím	Db-------------	Adv
+4	vyjeli	VpMP---XR-AA---	Pred
+5	i	J^-------------	AuxZ
+6	hasiči	NNMP1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+mf920902-048-p5s1
+1	Přestože	J,-------------	AuxC
+2	podle	RR--2----------	AuxP
+3	slov	NNNP2-----A----	Adv
+4	primáře	NNMS2-----A----	Atr
+5	chirurgického	AANS2----1A----	Atr
+6	oddělení	NNNS2-----A----	Atr
+7	nemocnice	NNFS2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Humpolci	NNIS6-----A----	Atr
+10	byl	VpYS---XR-AA---	AuxV
+11	Alexander	NNMS1-----A----	Atr
+12	Dubček	NNMS1-----A----	Sb
+13	po	RR--6----------	AuxP
+14	nehodě	NNFS6-----A----	Adv
+15	schopen	ACYS------A----	Adv
+16	komunikovat	Vf--------A----	Obj
+17	s	RR--7----------	AuxP
+18	lékaři	NNMP7-----A----	Obj
+19	a	J^-------------	Coord
+20	jeho	PSXXXZS3-------	Atr
+21	fyzický	AAIS1----1A----	Atr
+22	stav	NNIS1-----A----	Sb
+23	byl	VpYS---XR-AA---	Adv
+24	překvapivě	Dg-------1A----	Adv
+25	dobrý	AAIS1----1A----	Pnom
+26	,	Z:-------------	AuxX
+27	po	RR--6----------	AuxP
+28	převozu	NNIS6-----A----	Adv
+29	vrtulníkem	NNIS7-----A----	Atr
+30	do	RR--2----------	AuxP
+31	pražské	AAFS2----1A----	Atr
+32	nemocnice	NNFS2-----A----	Atr
+33	Na	RR--6----------	AuxP
+34	Homolce	NNFS6-----A----	Atr
+35	se	P7-X4----------	AuxT
+36	jeho	PSXXXZS3-------	Atr
+37	stav	NNIS1-----A----	Sb
+38	rapidně	Dg-------1A----	Adv
+39	zhoršil	VpYS---XR-AA---	Pred
+40	.	Z:-------------	AuxK
+
+mf920902-048-p5s2
+1	Zranění	NNNP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	primáře	NNMS2-----A----	Atr
+5	chirurgického	AANS2----1A----	Atr
+6	oddělení	NNNS2-----A----	Atr
+7	MUDr	NNMXX-----A---8	Atr
+8	.	Z:-------------	AuxG
+9	M	NNMXX-----A---8	Atr
+10	.	Z:-------------	AuxG
+11	Ročeně	NNMS2-----A----	Adv
+12	natolik	Db-------------	Adv
+13	závažná	AANP1----1A----	Pnom
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	lékaři	NNMP1-----A----	Sb
+17	nemohou	VB-P---3P-NA--1	Adv
+18	vyloučit	Vf--------A----	Obj
+19	smrt	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+mf920902-048-p5s3
+1	"	Z:-------------	AuxG
+2	Pan	NNMS1-----A----	Atr
+3	Dubček	NNMS1-----A----	Sb
+4	s	RR--7----------	AuxP
+5	námi	PP-P7--1-------	Obj
+6	ještě	Db-------------	AuxZ
+7	po	RR--6----------	AuxP
+8	příletu	NNIS6-----A----	Adv
+9	hovořil	VpYS---XR-AA---	Pred
+10	,	Z:-------------	Coord
+11	poté	Db-------------	Adv
+12	však	J^-------------	AuxY
+13	upadl	VpYS---XR-AA--1	Pred
+14	do	RR--2----------	AuxP
+15	bezvědomí	NNNS2-----A----	Adv
+16	.	Z:-------------	AuxK
+
+mf920902-048-p5s4
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	mu	PHZS3--3-------	Obj
+5	poskytujeme	VB-P---1P-AA---	Pred
+6	komplexní	AAFS4----1A----	Atr
+7	resuscitační	AAFS4----1A----	Atr
+8	péči	NNFS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	včetně	Db-------------	AuxP
+11	napojení	NNNS2-----A----	Atr
+12	na	RR--4----------	AuxP
+13	dýchací	AAIP4----1A----	Atr
+14	přístroje	NNIP4-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920902-048-p5s5
+1	Operace	NNFS1-----A----	Sb
+2	zatím	Db-------------	Adv
+3	nepřipadá	VB-S---3P-NA---	Obj
+4	v	RR--4----------	AuxP
+5	úvahu	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	"	Z:-------------	AuxG
+8	řekl	VpYS---XR-AA---	Pred
+9	nám	PP-P3--1-------	Obj
+10	primář	NNMS1-----A----	Atr
+11	Ročeň	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+mf920902-048-p6s1
+1	Řidič	NNMS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	hospitalizován	VsYS---XX-AP---	Pnom
+4	s	RR--7----------	AuxP
+5	tržnou	AAFS7----1A----	Atr
+6	ranou	NNFS7-----A---1	Adv
+7	na	RR--6----------	AuxP
+8	hlavě	NNFS6-----A----	Atr
+9	a	J^-------------	Coord
+10	s	RR--7----------	AuxP
+11	lehkým	AAIS7----1A----	Atr
+12	otřesem	NNIS7-----A----	Adv
+13	mozku	NNIS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	humpolecké	AAFS6----1A----	Atr
+16	nemocnici	NNFS6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+mf920902-048-p6s2
+1	Lékaři	NNMP1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	přihlédnutím	NNNS7-----A----	AuxP
+4	na	RR--4----------	AuxP
+5	utrpěný	AAIS4----1A----	Atr
+6	šok	NNIS4-----A----	Adv
+7	odmítli	VpMP---XR-AA--1	Pred
+8	během	RR--2----------	AuxP
+9	včerejšího	AAIS2----1A----	Atr
+10	dne	NNIS2-----A----	Adv
+11	policejnímu	AAMS3----1A----	Atr
+12	vyšetřovateli	NNMS3-----A----	Obj
+13	Jána	NNMS4-----A----	Atr
+14	Rezníka	NNMS4-----A----	Obj
+15	z	RR--2----------	AuxP
+16	Bratislavy	NNFS2-----A----	Atr
+17	vyslýchat	Vf--------A----	Obj
+18	.	Z:-------------	AuxK
+
+mf920902-048-p7s1
+1	(	Z:-------------	AuxG
+2	Viz	Vi-S---2--A---1	Pred
+3	Nehody	NNFP4-----A----	Obj
+4	ministrů	NNMP2-----A----	Atr
+5	str	NNFXX-----A---8	ExD
+6	.	Z:-------------	AuxG
+7	2	C=-------------	Atr
+8	)	Z:-------------	AuxG
+

@@ -1,0 +1,779 @@
+cmpr9410-033-p2s1
+1	Vlastnictví	NNNS1-----A----	ExD
+2	bytů	NNIP2-----A----	Atr
+
+cmpr9410-033-p3s1A
+1	Nad	RR--7----------	AuxP
+2	návrhem	NNIS7-----A----	ExD
+3	zákona	NNIS2-----A----	Atr
+4	*	Z:-------------	AuxK
+
+cmpr9410-033-p3s1B
+1	Vzniknou	VB-P---3P-AA---	Pred
+2	nové	AAFP1----1A----	Atr
+3	možnosti	NNFP1-----A----	Sb
+
+cmpr9410-033-p4s1
+1	Kolem	RR--2----------	AuxP
+2	bytů	NNIP2-----A----	Adv
+3	to	PDNS1----------	Sb
+4	vře	VB-S---3P-AA---	Pred
+5	.	Z:-------------	AuxK
+
+cmpr9410-033-p4s2
+1	Všichni	PLMP1----------	Sb
+2	netrpělivě	Dg-------1N----	Adv
+3	očekávají	VB-P---3P-AA---	Pred
+4	vládní	AAIS4----1A----	Atr
+5	návrh	NNIS4-----A----	Obj
+6	zákona	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kterým	P4ZS7----------	Adv
+9	se	P7-X4----------	AuxR
+10	upravují	VB-P---3P-AA---	Atr
+11	některé	PZIP1----------	Atr
+12	vlastnické	AAIP1----1A----	Atr
+13	vztahy	NNIP1-----A----	Sb
+14	k	RR--3----------	AuxP
+15	bytům	NNIP3-----A----	Atr
+16	a	J^-------------	Coord
+17	nebytovým	AAIP3----1N----	Atr
+18	prostorům	NNIP3-----A----	Atr
+19	a	J^-------------	Coord
+20	doplňují	VB-P---3P-AA---	Atr
+21	některé	PZIP1----------	Atr
+22	zákony	NNIP1-----A----	Sb
+23	.	Z:-------------	AuxK
+
+cmpr9410-033-p4s3
+1	S	RR--7----------	AuxP
+2	čím	PQ--7----------	Obj
+3	mohou	VB-P---3P-AA--1	Pred
+4	vlastníci	NNMP1-----A----	Sb
+5	i	J^-------------	Coord
+6	nájemci	NNMP1-----A----	Sb
+7	počítat	Vf--------A----	Obj
+8	,	Z:-------------	Coord
+9	na	RR--4----------	AuxP
+10	co	PQ--4----------	Obj
+11	by	Vc-------------	AuxV
+12	se	P7-X4----------	Obj
+13	měli	VpMP---XR-AA---	Pred
+14	připravit	Vf--------A----	Obj
+15	?	Z:-------------	AuxK
+
+cmpr9410-033-p5s1
+1	Nová	AAFS1----1A----	Atr
+2	právní	AAFS1----1A----	Atr
+3	úprava	NNFS1-----A----	Sb
+4	by	Vc-------------	AuxV
+5	měla	VpQW---XR-AA---	Pred
+6	umožnit	Vf--------A----	Obj
+7	všem	PLXP3----------	Atr
+8	vlastníkům	NNMP3-----A----	Obj
+9	prodávat	Vf--------A----	Obj
+10	byty	NNIP4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9410-033-p5s2
+1	Nejnaléhavěji	Dg-------3A----	Adv
+2	to	PDNS1----------	Sb
+3	vystupuje	VB-S---3P-AA---	Pred
+4	do	RR--2----------	AuxP
+5	popředí	NNNS2-----A----	Adv
+6	u	RR--2----------	AuxP
+7	bytů	NNIP2-----A----	Adv
+8	ve	RV--6----------	AuxP
+9	vlastnictví	NNNS6-----A----	Atr
+10	obcí	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	protože	J,-------------	AuxC
+13	ty	PDFP1----------	Sb
+14	spravují	VB-P---3P-AA---	Adv
+15	asi	TT-------------	AuxZ
+16	čtvrtinu	CyFS4----------	Obj
+17	bytového	AAIS2----1A----	Atr
+18	fondu	NNIS2-----A----	Atr
+19	České	AAFS2----1A----	Atr
+20	republiky	NNFS2-----A----	Atr
+21	a	J^-------------	Coord
+22	některé	PZFP1----------	Sb
+23	mají	VB-P---3P-AA---	Adv
+24	-	Z:-------------	AuxG
+25	především	Db-------------	AuxZ
+26	z	RR--2----------	AuxP
+27	finančních	AAIP2----1A----	Atr
+28	důvodů	NNIP2-----A----	Adv
+29	-	Z:-------------	AuxG
+30	zájem	NNIS4-----A----	Obj
+31	část	NNFS4-----A----	Obj
+32	svých	P8XP2----------	Atr
+33	bytů	NNIP2-----A----	Atr
+34	zpeněžit	Vf--------A----	Atr
+35	.	Z:-------------	AuxK
+
+cmpr9410-033-p5s3
+1	Zákon	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	také	Db-------------	Adv
+5	umožnit	Vf--------A----	Obj
+6	dokončení	NNNS4-----A----	Obj
+7	převodu	NNIS2-----A----	Atr
+8	i	J^-------------	Coord
+9	možnost	NNFS4-----A----	Obj
+10	prodeje	NNIS2-----A----	Atr
+11	družstevních	AAIP2----1A----	Atr
+12	bytů	NNIP2-----A----	Atr
+13	členům	NNMP3-----A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9410-033-p5s4
+1	Ani	J^-------------	AuxZ
+2	zde	Db-------------	Adv
+3	nejde	VB-S---3P-NA---	Pred
+4	o	RR--4----------	AuxP
+5	"	Z:-------------	AuxG
+6	malou	AAFS4----1A----	Atr
+7	porci	NNFS4-----A----	Obj
+8	"	Z:-------------	AuxG
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	o	RR--4----------	AuxP
+12	pětinu	CyFS4----------	Obj
+13	celkového	AAIS2----1A----	Atr
+14	počtu	NNIS2-----A----	Atr
+15	bytů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9410-033-p6s1
+1	Dobrovolnost	NNFS1-----A----	ExD
+
+cmpr9410-033-p7s1
+1	V	RR--6----------	AuxP
+2	připravovaném	AAIS6----1A----	Atr
+3	zákoně	NNIS6-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	promítnut	VsYS---XX-AP---	Pnom
+6	ústavní	AAIS1----1A----	Atr
+7	princip	NNIS1-----A----	Sb
+8	rovnosti	NNFS2-----A----	Atr
+9	vlastníků	NNMP2-----A----	Atr
+10	a	J^-------------	Coord
+11	vlastnictví	NNNP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	bez	RR--2----------	AuxP
+14	ohledu	NNIS2-----A----	AuxP
+15	na	RR--4----------	AuxP
+16	to	PDNS4----------	Adv
+17	,	Z:-------------	AuxX
+18	zda	J,-------------	AuxC
+19	jde	VB-S---3P-AA---	Atr
+20	o	RR--4----------	AuxP
+21	vlastnictví	NNNS4-----A----	Obj
+22	fyzických	AAFP2----1A----	Atr
+23	nebo	J^-------------	Coord
+24	právnických	AAFP2----1A----	Atr
+25	osob	NNFP2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	či	J^-------------	Coord
+28	státu	NNIS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9410-033-p7s2
+1	Proto	J^-------------	Coord
+2	budou	VB-P---3F-AA---	AuxV
+3	mít	Vf--------A----	Pred
+4	možnost	NNFS4-----A----	Obj
+5	prodávat	Vf--------A----	Atr
+6	byty	NNIP4-----A----	Obj
+7	i	J^-------------	AuxZ
+8	občané	NNMP1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+cmpr9410-033-p8s1
+1	Přechod	NNIS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	nájemního	AAIS2----1A----	ExD
+4	na	RR--4----------	AuxP
+5	vlastnický	AAIS4----1A----	Atr
+6	vztah	NNIS4-----A----	Atr
+7	je	VB-S---3P-AA---	Pred
+8	postaven	VsYS---XX-AP---	Pnom
+9	na	RR--6----------	AuxP
+10	zásadě	NNFS6-----A----	Obj
+11	dobrovolnosti	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9410-033-p8s2
+1	To	PDNS1----------	Sb
+2	má	VB-S---3P-AA---	Pred
+3	praktický	AAIS4----1A----	Atr
+4	význam	NNIS4-----A----	Obj
+5	při	RR--6----------	AuxP
+6	uplatňování	NNNS6-----A----	Adv
+7	citlivého	AANS2----1A----	Atr
+8	postavení	NNNS2-----A----	Atr
+9	nájemců	NNMP2-----A----	Atr
+10	bytů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	kteří	P4MP1----------	Sb
+13	mají	VB-P---3P-AA---	Atr
+14	mít	Vf--------A----	Obj
+15	přednostní	AANS4----1A----	Atr
+16	právo	NNNS4-----A----	Obj
+17	koupě	NNFS2-----A----	Atr
+18	bytu	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+cmpr9410-033-p8s3
+1	Problém	NNIS1-----A----	Sb
+2	nastane	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	jestliže	J,-------------	AuxC
+5	nájemce	NNMS1-----A----	Sb
+6	půl	NNFS4-----A----	Adv
+7	roku	NNIS2-----A---1	Atr
+8	od	RR--2----------	AuxP
+9	obdržení	NNNS2-----A----	Atr
+10	návrhu	NNIS2-----A----	Atr
+11	na	RR--4----------	AuxP
+12	uzavření	NNNS4-----A----	Atr
+13	smlouvy	NNFS2-----A----	Atr
+14	byt	NNIS4-----A----	Obj
+15	nekoupí	VB-S---3P-NA---	Adv
+16	.	Z:-------------	AuxK
+
+cmpr9410-033-p8s4
+1	Potom	Db-------------	Adv
+2	může	VB-S---3P-AA---	Pred
+3	být	Vf--------A----	AuxV
+4	tento	PDYS1----------	Atr
+5	byt	NNIS1-----A----	Sb
+6	prodán	VsYS---XX-AP---	Obj
+7	jiné	AAFS3----1A----	Atr
+8	osobě	NNFS3-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9410-033-p8s5
+1	Nájemce	NNMS1-----A----	Sb
+2	bytu	NNIS2-----A----	Atr
+3	má	VB-S---3P-AA---	Pred
+4	právo	NNNS4-----A----	Obj
+5	první	CrFS2----------	Atr
+6	koupě	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9410-033-p8s6
+1	To	PDNS1----------	Sb
+2	znamená	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	do	RR--2----------	AuxP
+6	půl	ClXS2----------	Adv
+7	roku	NNIS2-----A---1	Atr
+8	nemůže	VB-S---3P-NA---	Obj
+9	být	Vf--------A----	AuxV
+10	byt	NNIS1-----A----	Sb
+11	nabídnut	VsYS---XX-AP---	Obj
+12	někomu	PZM-3----------	Obj
+13	jinému	AAMS3----1A----	Atr
+14	.	Z:-------------	AuxK
+
+cmpr9410-033-p8s7
+1	V	RR--6----------	AuxP
+2	průběhu	NNIS6-----A----	AuxP
+3	dalšího	AAIS2----1A----	Atr
+4	roku	NNIS2-----A---1	Adv
+5	má	VB-S---3P-AA---	Pred
+6	nájemce	NNMS1-----A----	Sb
+7	právo	NNNS4-----A----	Obj
+8	přednostní	AAFS2----1A----	Atr
+9	koupě	NNFS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	která	P4FS1----------	Sb
+12	se	P7-X4----------	AuxR
+13	řídí	VB-S---3P-AA---	Atr
+14	podle	RR--2----------	AuxP
+15	606	C=-------------	Adv
+16	občanského	AAIS2----1A----	Atr
+17	zákoníku	NNIS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9410-033-p9s1
+1	Výpověď	NNFS1-----A----	ExD
+
+cmpr9410-033-p10s1
+1	Změnou	NNFS7-----A----	Adv
+2	vlastníka	NNMS2-----A----	Atr
+3	domu	NNIS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	pro	RR--4----------	AuxP
+6	nájemce	NNMS4-----A----	Adv
+7	bytu	NNIS2-----A----	Atr
+8	z	RR--2----------	AuxP
+9	právního	AANS2----1A----	Atr
+10	hlediska	NNNS2-----A----	Adv
+11	nic	PW--1----------	Sb
+12	nemění	VB-S---3P-NA---	Pred
+13	.	Z:-------------	AuxK
+
+cmpr9410-033-p10s2
+1	Podle	RR--2----------	AuxP
+2	§	NNIXX-----A---1	Adv
+3	680	C=-------------	Atr
+4	odst	NNIXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	2	C=-------------	Atr
+7	obchodního	AAIS2----1A----	Atr
+8	zákoníku	NNIS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	jestliže	J,-------------	AuxC
+11	dojde	VB-S---3P-AA---	Adv
+12	ke	RV--3----------	AuxP
+13	změně	NNFS3-----A----	Obj
+14	vlastnictví	NNNS2-----A----	Atr
+15	k	RR--3----------	AuxP
+16	pronajaté	AAFS3----1A----	Atr
+17	věci	NNFS3-----A----	Atr
+18	,	Z:-------------	AuxX
+19	vstupuje	VB-S---3P-AA---	Pred
+20	nabyvatel	NNMS1-----A----	Sb
+21	do	RR--2----------	AuxP
+22	právního	AANS2----1A----	Atr
+23	postavení	NNNS2-----A----	Adv
+24	pronajimatele	NNMS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9410-033-p10s3
+1	Není	VB-S---3P-NA---	Pred
+2	proto	J^-------------	Coord
+3	zapotřebí	Db-------------	Pnom
+4	uzavírat	Vf--------A----	Sb
+5	nové	AAFP4----1A----	Atr
+6	nájemní	AAFP4----1A----	Atr
+7	smlouvy	NNFP4-----A----	Obj
+8	.	Z:-------------	AuxK
+
+cmpr9410-033-p11s1
+1	Může	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	ovšem	J^-------------	Coord
+4	stát	Vf--------A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	budoucí	AAMS1----1A----	Atr
+8	vlastník	NNMS1-----A----	Sb
+9	si	P7-X3----------	Obj
+10	nebude	VB-S---3F-NA---	AuxV
+11	chtít	Vf--------A----	Sb
+12	koupit	Vf--------A----	Obj
+13	byt	NNIS4-----A----	Obj
+14	proto	Db-------------	Adv
+15	,	Z:-------------	AuxX
+16	aby	J,-------------	AuxC
+17	hradil	VpYS---XR-AA---	Adv
+18	ekonomické	AAIP4----1A----	Atr
+19	důsledky	NNIP4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	které	P4YP4----------	Obj
+22	pro	RR--4----------	AuxP
+23	něho	P5ZS4--3------1	Adv
+24	bude	VB-S---3F-AA---	AuxV
+25	mít	Vf--------A----	Atr
+26	nízké	AANS1----1A----	Atr
+27	nájemné	NNNS1-----A----	Sb
+28	placené	AANS1----1A----	Atr
+29	nájemníkem	NNMS7-----A----	Obj
+30	.	Z:-------------	AuxK
+
+cmpr9410-033-p11s2
+1	Proto	J^-------------	Coord
+2	nebude	VB-S---3F-NA---	AuxV
+3	mít	Vf--------A----	Pred
+4	na	RR--6----------	AuxP
+5	setrvání	NNNS6-----A----	Atr
+6	dosavadního	AAMS2----1A----	Atr
+7	nájemníka	NNMS2-----A----	Atr
+8	zájem	NNIS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9410-033-p11s3
+1	Občanský	AAIS1----1A----	Atr
+2	zákoník	NNIS1-----A----	Sb
+3	mu	PHZS3--3-------	Obj
+4	z	RR--2----------	AuxP
+5	titulu	NNIS2-----A----	AuxP
+6	vlastnického	AANS2----1A----	Atr
+7	práva	NNNS2-----A----	Adv
+8	umožňuje	VB-S---3P-AA---	Pred
+9	v	RR--6----------	AuxP
+10	§	NNIXX-----A---1	Adv
+11	711	C=-------------	Adv
+12	odst	NNIXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	1	C=-------------	Atr
+15	vypovědět	Vf--------A----	Obj
+16	nájem	NNIS4-----A----	Obj
+17	bytu	NNIS2-----A----	Atr
+18	s	RR--7----------	AuxP
+19	přivolením	NNNS7-----A----	Adv
+20	soudu	NNIS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+cmpr9410-033-p11s4
+1	Přitom	Db-------------	Adv
+2	musí	VB-S---3P-AA---	Pred
+3	jít	Vf--------A----	Obj
+4	o	RR--4----------	AuxP
+5	některé	PZYP4----------	Obj
+6	z	RR--2----------	AuxP
+7	těchto	PDXP2----------	Atr
+8	důvodů	NNIP2-----A----	Atr
+9	:	Z:-------------	AuxK
+
+cmpr9410-033-p12s1
+1	a	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	vlastník	NNMS1-----A----	Sb
+4	potřebuje	VB-S---3P-AA---	Pred
+5	byt	NNIS4-----A----	Obj
+6	pro	RR--4----------	AuxP
+7	sebe	P6-X4----------	Adv
+8	,	Z:-------------	AuxX
+9	manžela	NNMS4-----A----	Adv
+10	,	Z:-------------	AuxX
+11	své	P8FP4---------1	Atr
+12	děti	NNFP4-----A----	Adv
+13	,	Z:-------------	AuxX
+14	vnuky	NNMP4-----A----	Adv
+15	,	Z:-------------	AuxX
+16	zetě	NNMS4-----A----	Adv
+17	nebo	J^-------------	Coord
+18	snachu	NNFS4-----A----	Adv
+19	,	Z:-------------	Coord
+20	své	P8YP4---------1	Atr
+21	rodiče	NNMP4-----A----	Adv
+22	nebo	J^-------------	Coord
+23	sourozence	NNMP4-----A----	Adv
+24	,	Z:-------------	AuxX
+
+cmpr9410-033-p13s1
+1	b	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	jestliže	J,-------------	AuxC
+4	nájemce	NNMS1-----A----	Sb
+5	přestal	VpYS---XR-AA---	Pred
+6	vykonávat	Vf--------A----	Obj
+7	práci	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	ke	RV--3----------	AuxP
+10	které	P4FS3----------	Adv
+11	je	VB-S---3P-AA---	Atr
+12	nájem	NNIS1-----A----	Sb
+13	služebního	AAIS2----1A----	Atr
+14	bytu	NNIS2-----A----	Atr
+15	vázán	VsYS---XX-AP---	Pnom
+16	,	Z:-------------	AuxX
+17	a	J^-------------	Coord
+18	pronajimatel	NNMS1-----A----	Sb
+19	potřebuje	VB-S---3P-AA---	Pred
+20	byt	NNIS4-----A----	Obj
+21	pro	RR--4----------	AuxP
+22	jiného	AAMS4----1A----	Atr
+23	nájemce	NNMS4-----A----	Adv
+24	,	Z:-------------	AuxX
+25	který	P4YS1----------	Sb
+26	bude	VB-S---3F-AA---	AuxV
+27	tuto	PDFS4----------	Atr
+28	práci	NNFS4-----A----	Obj
+29	vykonávat	Vf--------A----	Atr
+30	,	Z:-------------	AuxX
+
+cmpr9410-033-p14s1
+1	c	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	jestliže	J,-------------	AuxC
+4	nájemce	NNMS1-----A----	Sb
+5	nebo	J^-------------	Coord
+6	ti	PDMP1----------	Sb
+7	,	Z:-------------	AuxX
+8	kteří	P4MP1----------	Sb
+9	s	RR--7----------	AuxP
+10	ním	P5ZS7--3-------	Adv
+11	bydlí	VB-P---3P-AA---	Atr
+12	,	Z:-------------	AuxX
+13	přes	RR--4----------	AuxP
+14	písemnou	AAFS4----1A----	Atr
+15	výstrahu	NNFS4-----A----	Adv
+16	hrubě	Dg-------1A----	Adv
+17	porušují	VB-P---3P-AA---	Pred
+18	dobré	AAIP4----1A----	Atr
+19	mravy	NNIP4-----A----	Obj
+20	v	RR--6----------	AuxP
+21	domě	NNIS6-----A----	AtrAdv
+22	,	Z:-------------	AuxX
+
+cmpr9410-033-p15s1
+1	d	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	jestliže	J,-------------	AuxC
+4	nájemce	NNMS1-----A----	Sb
+5	hrubě	Dg-------1A----	Adv
+6	porušuje	VB-S---3P-AA---	Pred
+7	své	P8FP4---------1	Atr
+8	povinnosti	NNFP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	vyplývající	AGFP4-----A----	Atr
+11	z	RR--2----------	AuxP
+12	nájmu	NNIS2-----A----	Obj
+13	bytu	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	zejména	Db-------------	AuxZ
+16	tím	PDZS7----------	Adv
+17	,	Z:-------------	AuxX
+18	že	J,-------------	AuxC
+19	nezaplatil	VpYS---XR-NA---	Atr
+20	nájemné	NNNS4-----A----	Obj
+21	nebo	J^-------------	Coord
+22	úhradu	NNFS4-----A----	Obj
+23	za	RR--4----------	AuxP
+24	služby	NNFP4-----A----	Atr
+25	poskytované	AAFP4----1A----	Atr
+26	s	RR--7----------	AuxP
+27	užíváním	NNNS7-----A----	Adv
+28	bytu	NNIS2-----A----	Atr
+29	za	RR--4----------	AuxP
+30	dobu	NNFS4-----A----	AtrAdv
+31	delší	AAFS4----2A----	Atr
+32	než	J,-------------	AuxC
+33	tři	ClXP4----------	Atr
+34	měsíce	NNIP4-----A----	ExD
+35	,	Z:-------------	AuxX
+
+cmpr9410-033-p16s1
+1	e	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	je	VB-S---3P-AA---	Pred
+4	-	Z:-------------	AuxG
+5	li	TT-------------	AuxC
+6	potřebné	AANS1----1A----	Pnom
+7	z	RR--2----------	AuxP
+8	důvodu	NNIS2-----A----	Adv
+9	veřejného	AAIS2----1A----	Atr
+10	zájmu	NNIS2-----A----	Atr
+11	s	RR--7----------	AuxP
+12	bytem	NNIS7-----A----	Adv
+13	nebo	J^-------------	Coord
+14	s	RR--7----------	AuxP
+15	domem	NNIS7-----A----	Adv
+16	naložit	Vf--------A----	Sb
+17	tak	Db-------------	Adv
+18	,	Z:-------------	AuxX
+19	že	J,-------------	AuxC
+20	byt	NNIS4-----A----	Obj
+21	nelze	VB-S---3P-NA---	Adv
+22	užívat	Vf--------A----	Sb
+23	,	Z:-------------	AuxX
+24	nebo	J^-------------	Coord
+25	vyžaduje	VB-S---3P-AA---	Pred
+26	-	Z:-------------	AuxG
+27	li	TT-------------	AuxC
+28	byt	NNIS1-----A----	Sb
+29	nebo	J^-------------	Coord
+30	dům	NNIS1-----A----	Sb
+31	opravy	NNFP4-----A----	Obj
+32	,	Z:-------------	AuxX
+33	při	RR--6----------	AuxP
+34	jejichž	P1XXXXP3-------	Atr
+35	provádění	NNNS6-----A----	Adv
+36	není	VB-S---3P-NA---	Atr
+37	možné	AANS1----1A----	Pnom
+38	byt	NNIS4-----A----	Obj
+39	nebo	J^-------------	Coord
+40	dům	NNIS4-----A----	Obj
+41	delší	AAFS4----2A----	Atr
+42	dobu	NNFS4-----A----	Adv
+43	užívat	Vf--------A----	Sb
+44	,	Z:-------------	AuxX
+
+cmpr9410-033-p17s1
+1	f	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	jde	VB-S---3P-AA---	Pred
+4	-	Z:-------------	AuxG
+5	li	TT-------------	AuxC
+6	o	RR--4----------	AuxP
+7	byt	NNIS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	souvisí	VB-S---3P-AA---	Atr
+11	stavebně	Dg-------1A----	Adv
+12	s	RR--7----------	AuxP
+13	prostory	NNIP7-----A----	Obj
+14	určenými	AAIP7----1A----	Atr
+15	k	RR--3----------	AuxP
+16	provozování	NNNS3-----A----	Obj
+17	obchodu	NNIS2-----A----	Atr
+18	nebo	J^-------------	Coord
+19	jiné	AAFS2----1A----	Atr
+20	podnikatelské	AAFS2----1A----	Atr
+21	činnosti	NNFS2-----A----	Atr
+22	a	J^-------------	Coord
+23	nájemce	NNMS1-----A----	Sb
+24	nebo	J^-------------	Coord
+25	vlastník	NNMS1-----A----	Sb
+26	těchto	PDXP2----------	Atr
+27	nebytových	AAFP2----1N----	Atr
+28	prostor	NNFP2-----A----	Atr
+29	chce	VB-S---3P-AA---	Pred
+30	tento	PDIS4----------	Atr
+31	byt	NNIS4-----A----	Obj
+32	využívat	Vf--------A----	Obj
+33	,	Z:-------------	AuxX
+
+cmpr9410-033-p18s1
+1	g	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	má	VB-S---3P-AA---	Adv
+4	-	Z:-------------	AuxG
+5	li	TT-------------	AuxC
+6	nájemce	NNMS1-----A----	Sb
+7	dva	ClYP4----------	Obj
+8	nebo	J^-------------	Coord
+9	více	Dg-------2A----	Obj
+10	bytů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	vyjma	RR--2----------	AuxP
+13	případu	NNIS2-----A----	Adv
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	na	RR--6----------	AuxP
+17	něm	P5ZS6--3-------	Obj
+18	nelze	VB-S---3P-NA---	Atr
+19	spravedlivě	Dg-------1A----	Adv
+20	požadovat	Vf--------A----	Sb
+21	,	Z:-------------	AuxX
+22	aby	J,-------------	AuxC
+23	užíval	VpYS---XR-AA---	Obj
+24	pouze	Db-------------	AuxZ
+25	jeden	ClIS4----------	Atr
+26	byt	NNIS4-----A----	Obj
+27	,	Z:-------------	AuxX
+
+cmpr9410-033-p19s1
+1	h	NNNXX-----A----	AuxG
+2	)	Z:-------------	AuxG
+3	neužívá	VB-S---3P-NA---	Adv
+4	-	Z:-------------	AuxG
+5	li	TT-------------	AuxC
+6	nájemce	NNMS1-----A----	Sb
+7	byt	NNIS4-----A----	Obj
+8	bez	RR--2----------	AuxP
+9	vážných	AAIP2----1A----	Atr
+10	důvodů	NNIP2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+cmpr9410-033-p20s1
+1	Z	RR--2----------	AuxP
+2	výčtu	NNIS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	vidět	Vf--------A----	Pnom
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	vlastník	NNMS1-----A----	Sb
+8	bude	VB-S---3F-AA---	AuxV
+9	mít	Vf--------A----	Sb
+10	dost	Dg-------1A----	Obj
+11	možností	NNFP2-----A----	Atr
+12	k	RR--3----------	AuxP
+13	uplatnění	NNNS3-----A----	Atr
+14	svého	P8ZS2----------	Atr
+15	práva	NNNS2-----A----	Atr
+16	k	RR--3----------	AuxP
+17	bytu	NNIS3-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9410-033-p21s1
+1	Navíc	Db-------------	Adv
+2	by	Vc-------------	AuxV
+3	měla	VpQW---XR-AA---	Pred
+4	nová	AAFS1----1A----	Atr
+5	právní	AAFS1----1A----	Atr
+6	úprava	NNFS1-----A----	Sb
+7	umožnit	Vf--------A----	Obj
+8	vlastníkům	NNMP3-----A----	Obj
+9	prodat	Vf--------A----	Obj
+10	i	J^-------------	AuxZ
+11	jen	TT-------------	AuxZ
+12	část	NNFS4-----A----	Obj
+13	domu	NNIS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	respektive	Db-------------	Coord
+16	některé	PZYP4----------	Atr
+17	byty	NNIP4-----A----	Obj
+18	nebo	J^-------------	Coord
+19	nebytové	AAFP4----1N----	Atr
+20	prostory	NNFP4-----A----	Obj
+21	s	RR--7----------	AuxP
+22	příslušenstvím	NNNS7-----A----	Atr
+23	.	Z:-------------	AuxK
+
+cmpr9410-033-p21s2
+1	To	PDNS1----------	Sb
+2	by	Vc-------------	AuxV
+3	dovolilo	VpNS---XR-AA---	Pred
+4	vlastníkům	NNMP3-----A----	Obj
+5	domů	NNIP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	se	P7-X4----------	AuxT
+9	"	Z:-------------	AuxG
+10	zbavili	VpMP---XR-AA---	Obj
+11	"	Z:-------------	AuxG
+12	nepohodlných	AAMP2----1N----	Atr
+13	nájemníků	NNMP2-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9410-033-p21s3
+1	Samozřejmě	Dg-------1A----	ExD
+2	při	RR--6----------	AuxP
+3	splnění	NNNS6-----A----	ExD
+4	dalších	AAFP2----1A----	Atr
+5	právem	NNNS7-----A----	Adv
+6	požadovaných	AAFP2----1A----	Atr
+7	skutečností	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+cmpr9410-033-p22s1
+1	Josef	NNMS1-----A----	Atr
+2	Kunášek	NNMS1-----A----	ExD
+3	,	Z:-------------	Apos
+4	komerční	AAMS1----1A----	Atr
+5	právník	NNMS1-----A----	ExD
+
+cmpr9410-033-p23s1
+1	Text	NNIS1-----A----	ExD
+2	ke	RV--3----------	AuxP
+3	kresbě	NNFS3-----A----	Atr
+4	:	Z:-------------	AuxK
+
+cmpr9410-033-p24s1
+1	VLASTNICTVÍ	NNNS1-----A----	Sb
+2	DOMU	NNIS2-----A----	Atr
+3	:	Z:-------------	AuxG
+4	Není	VB-S---3P-NA---	Pred
+5	vždy	Db-------------	Adv
+6	výhrou	NNFS7-----A----	Pnom
+7	,	Z:-------------	AuxX
+8	zvlášť	Db-------------	AuxZ
+9	když	J,-------------	AuxC
+10	nájemníci	NNMP1-----A----	Sb
+11	se	P7-X4----------	AuxT
+12	chovají	VB-P---3P-AA---	Adv
+13	jako	J,-------------	AuxC
+14	utržení	AAMP1----1A----	ExD
+15	ze	RV--2----------	AuxP
+16	řetězu	NNIS2-----A----	Adv
+17	.	Z:-------------	AuxK
+

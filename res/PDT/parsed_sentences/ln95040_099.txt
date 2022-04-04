@@ -1,0 +1,176 @@
+ln95040-099-p1s1
+1	Siemens	NNIS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	stavět	Vf--------A----	Pred
+4	na	RR--6----------	AuxP
+5	Moravě	NNFS6-----A----	Adv
+6	nový	AAIS4----1A----	Atr
+7	provoz	NNIS4-----A----	Obj
+
+ln95040-099-p2s1A
+1	Frenštát	NNIS1-----A----	ExD
+2	pod	RR--7----------	AuxP
+3	Radhoštěm	NNIS7-----A----	Atr
+4	-	Z:-------------	AuxK
+
+ln95040-099-p2s1B
+1	V	RR--6----------	AuxP
+2	areálu	NNIS6-----A---1	Adv
+3	závodu	NNIS2-----A----	Atr
+4	Siemens	NNIS1-----A----	Atr
+5	Elektrotechnika	NNFS1-----A----	Atr
+6	ve	RV--6----------	AuxP
+7	Frenštátě	NNIS6-----A----	AtrAdv
+8	pod	RR--7----------	AuxP
+9	Radhoštěm	NNIS7-----A----	Atr
+10	bude	VB-S---3F-AA---	AuxV
+11	vybudován	VsYS---XX-AP---	Pred
+12	nový	AAIS1----1A----	Atr
+13	provoz	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln95040-099-p2s2
+1	Vyrábět	Vf--------A----	Pred
+2	bude	VB-S---3F-AA---	AuxV
+3	automobilové	AANS4----1A----	Atr
+4	příslušenství	NNNS4-----A----	Obj
+5	od	RR--2----------	AuxP
+6	elektrických	AANP2----1A----	Atr
+7	relé	NNNXX-----A----	Atr
+8	po	RR--4----------	AuxP
+9	palubní	AAIP4----1A----	Atr
+10	počítače	NNIP4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95040-099-p2s3
+1	Investorem	NNMS7-----A----	Pnom
+2	je	VB-S---3P-AA---	Pred
+3	Siemens	NNIS1-----A----	Sb
+4	Automobilová	AAFS1----1A----	Atr
+5	technika	NNFS1-----A----	Atr
+6	Norimberk	NNIS1-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95040-099-p3s1
+1	Uvažovaná	AAFS1----1A----	Atr
+2	investice	NNFS1-----A----	Sb
+3	dosáhne	VB-S---3P-AA---	Pred
+4	450	C=-------------	Atr
+5	miliónů	NNIP2-----A----	Obj
+6	korun	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln95040-099-p3s2
+1	Novou	AAFS4----1A----	Atr
+2	výrobní	AAFS4----1A----	Atr
+3	halu	NNFS4-----A----	Obj
+4	postaví	VB-S---3P-AA---	Pred
+5	český	AAMS1----1A----	Atr
+6	dodavatel	NNMS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+ln95040-099-p3s3
+1	Do	RR--2----------	AuxP
+2	pěti	Cn-P2----------	Atr
+3	let	NNNP2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	závod	NNIS1-----A----	Sb
+6	zaměstnával	VpYS---XR-AA---	Pred
+7	500	C=-------------	Obj
+8	zaměstnanců	NNMP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95040-099-p3s4
+1	Podle	RR--2----------	AuxP
+2	norimberského	AAMS2----1A----	Atr
+3	ředitele	NNMS2-----A----	Atr
+4	Siemens	NNIS1-----A----	Atr
+5	automobilová	AAFS1----1A----	Atr
+6	technika	NNFS1-----A----	Atr
+7	Udo	NNMXX-----A----	Atr
+8	Badera	NNMS2-----A----	Adv
+9	výrobky	NNIP1-----A----	Sb
+10	najdou	VB-P---3P-AA---	Pred
+11	uplatnění	NNNS4-----A----	Obj
+12	především	Db-------------	AuxZ
+13	na	RR--6----------	AuxP
+14	českém	AAIS6----1A----	Atr
+15	trhu	NNIS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95040-099-p3s5
+1	Hlavním	AAMS7----1A----	Atr
+2	odběratelem	NNMS7-----A----	Obj
+3	by	Vc-------------	AuxV
+4	se	P7-X4----------	AuxT
+5	měla	VpQW---XR-AA---	Pred
+6	stát	Vf--------A----	Obj
+7	mladoboleslavská	AAFS1----1A----	Atr
+8	Škoda	NNFS1-----A----	Sb
+9	-	Z:-------------	Apos
+10	Volkswagen	NNIS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	kterou	P4FS4----------	Obj
+13	elektropříslušenstvím	NNNS7-----A----	Obj
+14	zásobuje	VB-S---3P-AA---	Atr
+15	vídeňská	AAFS1----1A----	Atr
+16	pobočka	NNFS1-----A----	Sb
+17	Siemensu	NNIS2-----A---1	Atr
+18	Uher	NNIS1-----A----	Atr
+19	AG	NNFXX-----A---8	Atr
+20	.	Z:-------------	AuxK
+
+ln95040-099-p3s6
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	měla	VpQW---XR-AA---	Adv
+4	na	RR--6----------	AuxP
+5	dodávkách	NNFP6-----A----	Atr
+6	zájem	NNIS4-----A----	Obj
+7	Tatra	NNFS1-----A----	Sb
+8	Kopřivnice	NNFS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Siemens	NNIS1-----A----	Sb
+11	ji	PPFS4--3-------	Obj
+12	uspokojí	VB-S---3P-AA---	Pred
+13	.	Z:-------------	AuxK
+
+ln95040-099-p3s7
+1	Nový	AAIS4----1A----	Atr
+2	provoz	NNIS4-----A----	Obj
+3	budou	VB-P---3F-AA---	AuxV
+4	zpočátku	Db-------------	Adv
+5	řídit	Vf--------A----	Pred
+6	odborníci	NNMP1-----A----	Sb
+7	z	RR--2----------	AuxP
+8	Německa	NNNS2-----A----	Atr
+9	,	Z:-------------	Coord
+10	postupně	Dg-------1A----	Adv
+11	je	PPXP4--3-------	Obj
+12	nahradí	VB-S---3P-AA---	Pred
+13	český	AAIS1----1A----	Atr
+14	personál	NNIS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95040-099-p3s8
+1	S	RR--7----------	AuxP
+2	výrobou	NNFS7-----A----	Obj
+3	některých	PZXP2----------	Atr
+4	autokomponentů	NNIP2-----A----	Atr
+5	chce	VB-S---3P-AA---	Pred
+6	Siemens	NNIS1-----A----	Sb
+7	v	RR--6----------	AuxP
+8	současných	AAFP6----1A----	Atr
+9	prostorách	NNFP6-----A----	Adv
+10	ve	RV--6----------	AuxP
+11	Frenštátě	NNIS6-----A----	Atr
+12	pod	RR--7----------	AuxP
+13	Radhoštěm	NNIS7-----A----	Atr
+14	začít	Vf--------A----	Obj
+15	už	Db-------------	AuxZ
+16	v	RR--6----------	AuxP
+17	polovině	NNFS6-----A----	Adv
+18	letošního	AAIS2----1A----	Atr
+19	roku	NNIS2-----A---1	Atr
+20	.	Z:-------------	AuxK
+

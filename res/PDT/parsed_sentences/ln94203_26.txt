@@ -1,0 +1,144 @@
+ln94203-26-p1s1
+1	Dražší	AANS1----2A----	Atr
+2	autobusové	AANS1----1A----	Atr
+3	jízdné	NNNS1-----A----	ExD
+4	pro	RR--4----------	AuxP
+5	žáky	NNMP4-----A----	Atr
+
+ln94203-26-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94203-26-p2s1B
+1	Přestože	J,-------------	AuxC
+2	se	P7-X4----------	AuxR
+3	ceny	NNFP1-----A----	Sb
+4	žákovského	AANS2----1A----	Atr
+5	autobusového	AANS2----1A----	Atr
+6	jízdného	NNNS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	a	J^-------------	AuxY
+9	to	PDNS4----------	AuxY
+10	jak	Db-------------	AuxY
+11	u	RR--2----------	AuxP
+12	pravidelného	AANS2----1A----	Atr
+13	dojíždění	NNNS2-----A----	Adv
+14	(	Z:-------------	ExD
+15	týdenní	AAFP1----1A----	Atr
+16	a	J^-------------	Coord
+17	měsíční	AAFP1----1A----	Atr
+18	žákovské	AAFP1----1A----	Atr
+19	jízdenky	NNFP1-----A----	ExD
+20	)	Z:-------------	ExD
+21	,	Z:-------------	AuxX
+22	tak	Db-------------	Coord
+23	pro	RR--4----------	AuxP
+24	jednotlivé	AAFP4----1A----	Atr
+25	jízdy	NNFP4-----A----	Adv
+26	,	Z:-------------	AuxX
+27	zvyšují	VB-P---3P-AA---	Adv
+28	od	RR--2----------	AuxP
+29	1	C=-------------	Atr
+30	.	Z:-------------	AuxG
+31	září	NNNS2-----A----	Adv
+32	o	RR--4----------	AuxP
+33	sto	NNNS4-----A----	Adv
+34	procent	NNNP2-----A----	Atr
+35	,	Z:-------------	AuxX
+36	zaplatí	VB-P---3P-AA---	Pred
+37	žáci	NNMP1-----A----	Sb
+38	jen	TT-------------	AuxZ
+39	čtvrtinu	CyFS4----------	Obj
+40	z	RR--2----------	AuxP
+41	celkových	AAIP2----1A----	Atr
+42	nákladů	NNIP2-----A----	Atr
+43	na	RR--4----------	AuxP
+44	dopravu	NNFS4-----A----	Atr
+45	.	Z:-------------	AuxK
+
+ln94203-26-p2s2
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	řekl	VpYS---XR-AA---	Pred
+4	zástupce	NNMS1-----A----	Atr
+5	Ministerstva	NNNS2-----A----	Atr
+6	dopravy	NNFS2-----A----	Atr
+7	Miroslav	NNMS1-----A----	Atr
+8	Sylla	NNMS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94203-26-p2s3
+1	Letos	Db-------------	Adv
+2	je	VB-S---3P-AA---	AuxV
+3	žákovské	AANS1----1A----	Atr
+4	jízdné	NNNS1-----A----	Sb
+5	dotováno	VsNS---XX-AP---	Obj
+6	zhruba	Db-------------	AuxZ
+7	jednou	ClFS7----------	Atr
+8	miliardou	NNFS7-----A----	Adv
+9	Kč	NNFXX-----A----	Atr
+10	,	Z:-------------	AuxX
+11	řekl	VpYS---XR-AA---	Pred
+12	a	J^-------------	Coord
+13	dodal	VpYS---XR-AA---	Pred
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	o	RR--4----------	AuxP
+17	podobnou	AAFS4----1A----	Atr
+18	dotaci	NNFS4-----A----	Obj
+19	bude	VB-S---3F-AA---	AuxV
+20	ministerstvo	NNNS1-----A----	Sb
+21	usilovat	Vf--------A----	Obj
+22	i	J^-------------	AuxZ
+23	na	RR--4----------	AuxP
+24	část	NNFS4-----A----	Adv
+25	příštího	AAIS2----1A----	Atr
+26	roku	NNIS2-----A---1	Atr
+27	.	Z:-------------	AuxK
+
+ln94203-26-p2s4
+1	Uvedl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	záměrem	NNIS7-----A----	Pnom
+5	ministerstva	NNNS2-----A----	Atr
+6	však	J^-------------	AuxY
+7	je	VB-S---3P-AA---	Obj
+8	,	Z:-------------	AuxX
+9	aby	J,-------------	AuxC
+10	dotování	NNNS1-----A----	Sb
+11	jízdného	NNNS2-----A----	Atr
+12	bylo	VpNS---XR-AA---	AuxV
+13	nahrazeno	VsNS---XX-AP---	Sb
+14	adresnou	AAFS7----1A----	Atr
+15	dávkou	NNFS7-----A----	Obj
+16	pro	RR--4----------	AuxP
+17	každého	AAMS4----1A----	Atr
+18	dojíždějícího	AGMS4-----A----	Atr
+19	žáka	NNMS4-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94203-26-p2s5
+1	Ministerstvo	NNNS1-----A----	Sb
+2	práce	NNFS2-----A----	Atr
+3	a	J^-------------	Coord
+4	sociálních	AAFP2----1A----	Atr
+5	věcí	NNFP2-----A----	Atr
+6	připravuje	VB-S---3P-AA---	Obj
+7	nový	AAIS4----1A----	Atr
+8	systém	NNIS4-----A----	Obj
+9	sociálních	AAFP2----1A----	Atr
+10	dávek	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jehož	P1XXXZS3-------	Atr
+13	jednou	ClFS7----------	Atr
+14	součástí	NNFS7-----A----	Pnom
+15	by	Vc-------------	AuxV
+16	mělo	VpNS---XR-AA---	Atr
+17	být	Vf--------A----	Obj
+18	dopravné	NNNS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	řekl	VpYS---XR-AA---	Pred
+21	Sylla	NNMS1-----A----	Sb
+22	.	Z:-------------	AuxK
+

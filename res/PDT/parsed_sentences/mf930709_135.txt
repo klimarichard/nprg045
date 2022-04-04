@@ -1,0 +1,132 @@
+mf930709-135-p1s1
+1	Další	AAMS1----1A----	Atr
+2	pacient	NNMS1-----A----	ExD
+3	obětí	NNFS7-----A----	ExD
+4	dentisty	NNMS2-----A----	Atr
+5	s	RR--7----------	AuxP
+6	virem	NNIS7-----A----	Atr
+7	AIDS	NNIXX-----A---8	Atr
+
+mf930709-135-p2s1
+1	Akron	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	Ohio	NNNS1-----A----	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-135-p2s2
+1	V	RR--6----------	AuxP
+2	Akronu	NNIS6-----A----	Adv
+3	v	RR--6----------	AuxP
+4	americkém	AAIS6----1A----	Atr
+5	státě	NNIS6-----A----	Adv
+6	Ohio	NNNS1-----A----	Atr
+7	zemřel	VpYS---XR-AA---	Pred
+8	již	Db-------------	AuxZ
+9	třetí	CrMS1----------	Sb
+10	ze	RV--2----------	AuxP
+11	šesti	Cn-P2----------	Atr
+12	pacientů	NNMP2-----A----	Adv
+13	,	Z:-------------	AuxX
+14	o	RR--6----------	AuxP
+15	nichž	P9XP6----------	Obj
+16	se	P7-X4----------	AuxR
+17	předpokládá	VB-S---3P-AA---	Atr
+18	,	Z:-------------	AuxX
+19	že	J,-------------	AuxC
+20	se	P7-X4----------	AuxT
+21	nakazili	VpMP---XR-AA---	Sb
+22	virem	NNIS7-----A----	Adv
+23	AIDS	NNIXX-----A---8	Atr
+24	od	RR--2----------	AuxP
+25	dentisty	NNMS2-----A----	Obj
+26	,	Z:-------------	AuxX
+27	u	RR--2----------	AuxP
+28	kterého	P4ZS2----------	Adv
+29	vyhledali	VpMP---XR-AA---	Atr
+30	ošetření	NNNS4-----A----	Obj
+31	chrupu	NNIS2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+mf930709-135-p2s3
+1	Smrt	NNFS1-----A----	Sb
+2	Johna	NNMS2-----A----	Atr
+3	Yecse	NNMS2-----A----	Atr
+4	(	Z:-------------	ExD
+5	36	C=-------------	ExD
+6	)	Z:-------------	ExD
+7	přišla	VpQW---XR-AA---	Pred
+8	měsíc	NNIS4-----A----	Adv
+9	poté	Db-------------	Adv
+10	,	Z:-------------	AuxX
+11	co	J,-------------	AuxC
+12	zemřel	VpYS---XR-AA---	Adv
+13	33	C=-------------	Atr
+14	letý	AAMS1----1A----	Atr
+15	Richard	NNMS1-----A----	Atr
+16	Driskill	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+mf930709-135-p2s4
+1	První	CrFS7----------	Atr
+2	obětí	NNFS7-----A----	Pnom
+3	byla	VpQW---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	roce	NNIS6-----A---1	Adv
+6	1991	C=-------------	Atr
+7	23	C=-------------	Atr
+8	letá	AAFS1----1A----	Atr
+9	Kimberly	NNFS1-----A----	Atr
+10	Bergalisová	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+mf930709-135-p2s5
+1	Dentista	NNMS1-----A----	Atr
+2	David	NNMS1-----A----	Atr
+3	Acer	NNMS1-----A----	Sb
+4	z	RR--2----------	AuxP
+5	Jensen	AAXXX----1A----	AuxY
+6	Beach	NNFXX-----A----	Atr
+7	na	RR--6----------	AuxP
+8	Floridě	NNFS6-----A----	Atr
+9	zjistil	VpYS---XR-AA---	Pred
+10	v	RR--6----------	AuxP
+11	roce	NNIS6-----A---1	Adv
+12	1986	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	že	J,-------------	AuxC
+15	je	VB-S---3P-AA---	Obj
+16	nakažen	VsYS---XX-AP---	Pnom
+17	virem	NNIS7-----A----	Adv
+18	HIV	NNIXX-----A---8	Atr
+19	,	Z:-------------	AuxX
+20	a	J^-------------	Coord
+21	o	RR--4----------	AuxP
+22	rok	NNIS4-----A----	Adv
+23	později	Dg-------2A----	Adv
+24	se	P7-X4----------	AuxT
+25	u	RR--2----------	AuxP
+26	něho	P5ZS2--3------1	Adv
+27	projevily	VpTP---XR-AA---	Pred
+28	symptomy	NNIP1-----A----	Sb
+29	choroby	NNFS2-----A----	Atr
+30	AIDS	NNIXX-----A---8	Atr
+31	.	Z:-------------	AuxK
+
+mf930709-135-p2s6
+1	Přesto	Dg-------1A----	Adv
+2	však	J^-------------	Coord
+3	pokračoval	VpYS---XR-AA---	Pred
+4	v	RR--6----------	AuxP
+5	lékařské	AAFS6----1A----	Atr
+6	praxi	NNFS6-----A----	Obj
+7	téměř	Db-------------	AuxZ
+8	až	TT-------------	AuxZ
+9	do	RR--2----------	AuxP
+10	své	P8FS2---------1	Atr
+11	smrti	NNFS2-----A----	Adv
+12	v	RR--6----------	AuxP
+13	roce	NNIS6-----A---1	Atr
+14	1990	C=-------------	Atr
+15	.	Z:-------------	AuxK
+

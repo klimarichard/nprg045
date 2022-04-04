@@ -1,0 +1,139 @@
+ln95040-017-p1s1
+1	Lizner	NNMS1-----A----	ExD
+2	v	RR--6----------	AuxP
+3	pořadu	NNIS6-----A----	ExD
+4	Proč	Db-------------	Atr
+5	?	Z:-------------	AuxK
+
+ln95040-017-p1s2
+1	nebude	VB-S---3F-NA---	Pred
+
+ln95040-017-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95040-017-p2s1B
+1	Až	TT-------------	AuxZ
+2	do	RR--2----------	AuxP
+3	zahájení	NNNS2-----A----	Adv
+4	případného	AAIS2----1A----	Atr
+5	soudního	AAIS2----1A----	Atr
+6	procesu	NNIS2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	Jaroslav	NNMS1-----A----	Atr
+9	Lizner	NNMS1-----A----	Sb
+10	,	Z:-------------	Apos
+11	bývalý	AAMS1----1A----	Atr
+12	šéf	NNMS1-----A----	Sb
+13	SCP	NNNXX-----A---8	Atr
+14	,	Z:-------------	AuxX
+15	nebude	VB-S---3F-NA---	AuxV
+16	ke	RV--3----------	AuxP
+17	svému	P8ZS3----------	Atr
+18	případu	NNIS3-----A----	Obj
+19	vyjadřovat	Vf--------A----	Pred
+20	.	Z:-------------	AuxK
+
+ln95040-017-p2s2
+1	Řekl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	rozhovoru	NNIS6-----A----	Adv
+6	pro	RR--4----------	AuxP
+7	ČTA	NNFXX-----A---8	Atr
+8	jeho	PSXXXZS3-------	Atr
+9	právní	AAMS1----1A----	Atr
+10	zástupce	NNMS1-----A----	Atr
+11	Jan	NNMS1-----A----	Atr
+12	Linda	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln95040-017-p2s3
+1	Popřel	VpYS---XR-AA---	Pred
+2	zároveň	Db-------------	Adv
+3	informaci	NNFS4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	Jaroslav	NNMS1-----A----	Atr
+7	Lizner	NNMS1-----A----	Sb
+8	uvažuje	VB-S---3P-AA---	Atr
+9	o	RR--6----------	AuxP
+10	tom	PDZS6----------	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	by	Vc-------------	AuxV
+14	vystoupil	VpYS---XR-AA---	Atr
+15	v	RR--6----------	AuxP
+16	pořadu	NNIS6-----A----	Adv
+17	TV	NNFXX-----A---8	Atr
+18	Nova	NNFS1-----A----	Atr
+19	s	RR--7----------	AuxP
+20	názvem	NNIS7-----A----	Atr
+21	Proč	Db-------------	Atr
+22	?	Z:-------------	AuxK
+
+ln95040-017-p2s4
+1	"	Z:-------------	AuxG
+2	Ještě	Db-------------	AuxZ
+3	předtím	Db-------------	Adv
+4	,	Z:-------------	AuxX
+5	než	J,-------------	AuxC
+6	tato	PDFS1----------	Atr
+7	informace	NNFS1-----A----	Sb
+8	z	RR--2----------	AuxP
+9	úst	NNNP2-----A----	Adv
+10	pana	NNMS2-----A----	Atr
+11	Beniaka	NNMS2-----A----	Atr
+12	zazněla	VpQW---XR-AA---	Adv
+13	,	Z:-------------	AuxX
+14	jsme	VB-P---1P-AA---	AuxV
+15	tuto	PDFS4----------	Atr
+16	možnost	NNFS4-----A----	Obj
+17	odmítli	VpMP---XR-AA--1	Obj
+18	,	Z:-------------	AuxX
+19	"	Z:-------------	AuxG
+20	prohlásil	VpYS---XR-AA---	Pred
+21	.	Z:-------------	AuxK
+
+ln95040-017-p2s5
+1	Jan	NNMS1-----A----	Atr
+2	Linda	NNMS1-----A----	Sb
+3	potvrdil	VpYS---XR-AA---	Pred
+4	informaci	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	pražské	AAFS6----1A----	Atr
+9	restauraci	NNFS6-----A----	Adv
+10	Asia	NNFXX-----A----	Atr
+11	Club	NNIS1-----A----	Atr
+12	byla	VpQW---XR-AA---	AuxV
+13	policií	NNFS7-----A----	Obj
+14	nainstalována	VsQW---XX-AP---	Atr
+15	skrytá	AAFS1----1A----	Atr
+16	kamera	NNFS1-----A----	Sb
+17	,	Z:-------------	AuxX
+18	kterou	P4FS7----------	Adv
+19	byl	VpYS---XR-AA---	AuxV
+20	pořízen	VsYS---XX-AP---	Atr
+21	průběh	NNIS1-----A----	Sb
+22	celého	AANS2----1A----	Atr
+23	jednání	NNNS2-----A----	Atr
+24	mezi	RR--7----------	AuxP
+25	společnostmi	NNFP7-----A----	Atr
+26	TWI	NNXXX-----A---8	Atr
+27	a	J^-------------	Coord
+28	C	NNNXX-----A----	Atr
+29	.	Z:-------------	AuxG
+30	S	NNNXX-----A----	Atr
+31	.	Z:-------------	AuxG
+32	Fond	NNIS1-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln95040-017-p3s1
+1	Aby	J,-------------	AuxC
+2	americký	AAMS1----1A----	Atr
+3	prezident	NNMS1-----A----	Sb
+4	viděl	VpYS---XR-AA---	Pred
+

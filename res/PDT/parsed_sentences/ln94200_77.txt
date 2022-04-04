@@ -1,0 +1,143 @@
+ln94200-77-p1s1
+1	KDU	NNFXX-----A---8	ExD
+2	-	Z:-------------	Coord
+3	ČSL	NNFXX-----A---8	ExD
+4	ke	RV--3----------	AuxP
+5	stimulaci	NNFS3-----A----	ExD
+6	důchodců	NNMP2-----A----	Atr
+
+ln94200-77-p2s1A
+1	Z	RR--2----------	AuxP
+2	politické	AAFS2----1A----	Atr
+3	scény	NNFS2-----A----	ExD
+
+ln94200-77-p2s1B
+1	České	AAFP1----1A----	Atr
+2	Budějovice	NNFP1-----A----	ExD
+3	(	Z:-------------	ExD
+4	dan	NNXXX-----A---8	ExD
+5	)	Z:-------------	ExD
+6	-	Z:-------------	AuxK
+
+ln94200-77-p2s1C
+1	Míra	NNFS1-----A----	Sb
+2	nezaměstnanosti	NNFS2-----A----	Atr
+3	a	J^-------------	Coord
+4	nepříznivý	AAIS1----1N----	Atr
+5	demografický	AAIS1----1A----	Atr
+6	vývoj	NNIS1-----A----	Sb
+7	jsou	VB-P---3P-AA---	Pred
+8	hlavními	AAIP7----1A----	Atr
+9	argumenty	NNIP7-----A----	Pnom
+10	KDU	NNFXX-----A---8	Atr
+11	-	Z:-------------	Coord
+12	ČSL	NNFXX-----A---8	Atr
+13	proti	RR--3----------	AuxP
+14	návrhu	NNIS3-----A----	Atr
+15	na	RR--4----------	AuxP
+16	pozdější	AAIS4----2A----	Atr
+17	odchod	NNIS4-----A----	Atr
+18	do	RR--2----------	AuxP
+19	důchodu	NNIS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94200-77-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	v	RR--6----------	AuxP
+5	Českých	AAFP6----1A----	Atr
+6	Budějovicích	NNFP6-----A----	Adv
+7	předseda	NNMS1-----A----	Atr
+8	KDU	NNFXX-----A---8	Atr
+9	-	Z:-------------	Coord
+10	ČSL	NNFXX-----A---8	Atr
+11	Josef	NNMS1-----A----	Atr
+12	Lux	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln94200-77-p2s3
+1	Navrhujeme	VB-P---1P-AA---	Obj
+2	stimulovat	Vf--------A----	Obj
+3	tu	PDFS4----------	Atr
+4	část	NNFS4-----A----	Obj
+5	obyvatelstva	NNNS2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	která	P4FS1----------	Sb
+8	chce	VB-S---3P-AA---	Atr
+9	pracovat	Vf--------A----	Obj
+10	v	RR--6----------	AuxP
+11	důchodovém	AAIS6----1A----	Atr
+12	věku	NNIS6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	zvýšením	NNNS7-----A----	Adv
+15	důchodu	NNIS2-----A----	Atr
+16	za	RR--4----------	AuxP
+17	každý	AAIS4----1A----	Atr
+18	navíc	Db-------------	Adv
+19	odpracovaný	AAIS4----1A----	Atr
+20	měsíc	NNIS4-----A----	Atr
+21	,	Z:-------------	AuxX
+22	dodal	VpYS---XR-AA---	Pred
+23	J	NNMXX-----A---8	Atr
+24	.	Z:-------------	AuxG
+25	Lux	NNMS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+ln94200-77-p2s4
+1	Za	RR--4----------	AuxP
+2	falešné	AANS4----1A----	Obj
+3	označil	VpYS---XR-AA---	Pred
+4	tvrzení	NNNS4-----A----	Obj
+5	zastánců	NNMP2-----A----	Atr
+6	pozdějšího	AAIS2----2A----	Atr
+7	odchodu	NNIS2-----A----	Atr
+8	do	RR--2----------	AuxP
+9	důchodu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	tím	PDZS7----------	Adv
+13	nebude	VB-S---3F-NA---	AuxV
+14	poškozena	VsQW---XX-AP---	Atr
+15	žádná	PWFS1----------	Atr
+16	sociální	AAFS1----1A----	Atr
+17	kategorie	NNFS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln94200-77-p2s5
+1	Podle	RR--2----------	AuxP
+2	KDU	NNFXX-----A---8	Adv
+3	-	Z:-------------	Coord
+4	ČSL	NNFXX-----A---8	Adv
+5	by	Vc-------------	AuxV
+6	tím	PDZS7----------	Adv
+7	byly	VpTP---XR-AA---	AuxV
+8	poškozeny	VsTP---XX-AP---	Pred
+9	například	Db-------------	AuxZ
+10	matky	NNFP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	které	P4FP1----------	Sb
+13	zůstanou	VB-P---3P-AA---	Atr
+14	doma	Db-------------	Adv
+15	do	RR--2----------	AuxP
+16	šesti	Cn-P2----------	Atr
+17	let	NNNP2-----A----	Adv
+18	věku	NNIS2-----A----	Atr
+19	jejich	PSXXXXP3-------	Atr
+20	dětí	NNFP2-----A----	Atr
+21	,	Z:-------------	Coord
+22	což	PE--1----------	Sb
+23	je	VB-S---3P-AA---	Pred
+24	trend	NNIS1-----A----	Pnom
+25	,	Z:-------------	AuxX
+26	který	P4IS4----------	Obj
+27	by	Vc-------------	AuxV
+28	měl	VpYS---XR-AA---	Atr
+29	stát	NNIS1-----A----	Sb
+30	spíše	Dg-------2A---1	Adv
+31	podporovat	Vf--------A----	Obj
+32	,	Z:-------------	Coord
+33	nikoliv	Db-------------	AuxZ
+34	znevýhodňovat	Vf--------A----	Obj
+35	.	Z:-------------	AuxK
+

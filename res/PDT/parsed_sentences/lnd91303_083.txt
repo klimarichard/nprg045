@@ -1,0 +1,447 @@
+lnd91303-083-p1s1
+1	POTŘEBUJETE	VB-P---2P-AA---	Pred
+2	PORADIT	Vf--------A----	Obj
+3	?	Z:-------------	AuxK
+
+lnd91303-083-p2s1
+1	RESTITUČNÍ	AAFP1----1A----	Atr
+2	ÚVAHY	NNFP1-----A----	ExD
+3	NA	RR--6----------	AuxP
+4	KONCI	NNIS6-----A----	Atr
+5	ROKU	NNIS2-----A---1	Atr
+
+lnd91303-083-p3s1
+1	Od	RR--2----------	AuxP
+2	letošního	AANS2----1A----	Atr
+3	jara	NNNS2-----A----	Adv
+4	leží	VB-S---3P-AA---	Pred
+5	na	RR--6----------	AuxP
+6	mém	PSZS6-S1-------	Atr
+7	stole	NNIS6-----A----	Adv
+8	každý	AAIS4----1A----	Atr
+9	týden	NNIS4-----A----	Adv
+10	hromádka	NNFS1-----A----	Sb
+11	dopisů	NNIP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd91303-083-p3s2
+1	Někdy	Db-------------	ExD
+2	větší	AAFS1----2A----	ExD
+3	,	Z:-------------	Coord
+4	někdy	Db-------------	ExD
+5	o	RR--4----------	AuxP
+6	něco	PZ--4----------	Adv
+7	menší	AAFS1----2A----	ExD
+8	,	Z:-------------	AuxX
+9	ale	J^-------------	Coord
+10	pokaždé	Db-------------	ExD
+11	se	RV--7----------	AuxP
+12	stejným	AAIS7----1A----	Atr
+13	obsahem	NNIS7-----A----	ExD
+14	.	Z:-------------	AuxK
+
+lnd91303-083-p3s3
+1	V	RR--6----------	AuxP
+2	řádcích	NNIP6-----A----	Adv
+3	psaných	AAIP6----1A----	Atr
+4	strojem	NNIS7-----A----	Adv
+5	i	J^-------------	Coord
+6	rukou	NNFS7-----A----	Adv
+7	jsou	VB-P---3P-AA---	AuxV
+8	obsažena	VsQW---XX-AP---	Pred
+9	léta	NNNP1-----A---2	Sb
+10	bolesti	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	křivdy	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	ponižování	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd91303-083-p3s4
+1	Všechny	PLIP1----------	Atr
+2	dopisy	NNIP1-----A----	Sb
+3	mají	VB-P---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	konci	NNIS6-----A----	Adv
+6	prosbu	NNFS4-----A----	Obj
+7	o	RR--4----------	AuxP
+8	pomoc	NNFS4-----A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd91303-083-p4s1
+1	Již	Db-------------	AuxZ
+2	přes	RR--4----------	AuxP
+3	rok	NNIS4-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	mezi	RR--7----------	AuxP
+6	nejfrekventovanějšími	AAIP7----3A----	Atr
+7	výrazy	NNIP7-----A----	Adv
+8	slovo	NNNS1-----A----	Sb
+9	restituce	NNFS1-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd91303-083-p4s2
+1	Hovoříme	VB-P---1P-AA---	Pred
+2	o	RR--6----------	AuxP
+3	nápravě	NNFS6-----A----	Obj
+4	některých	PZXP2----------	Atr
+5	majetkových	AAFP2----1A----	Atr
+6	křivd	NNFP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+lnd91303-083-p4s3
+1	Za	RR--7----------	AuxP
+2	slovem	NNNS7-----A----	Adv
+3	křivda	NNFS1-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	však	J^-------------	Coord
+6	skrytý	AAIS1----1A----	Pnom
+7	zločin	NNIS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+lnd91303-083-p5s1
+1	Jsou	VB-P---3P-AA---	Pred
+2	škody	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	které	P4FP4----------	Obj
+5	nelze	VB-S---3P-NA---	Atr
+6	ničím	PW--7----------	Adv
+7	napravit	Vf--------A----	Sb
+8	.	Z:-------------	AuxK
+
+lnd91303-083-p5s2
+1	Žádný	PWYS1----------	Atr
+2	předpis	NNIS1-----A----	Sb
+3	na	RR--6----------	AuxP
+4	světě	NNIS6-----A----	Adv
+5	nevrátí	VB-S---3P-NA---	Pred
+6	dětem	NNFP3-----A----	Adv
+7	roky	NNIP4-----A----	Obj
+8	bez	RR--2----------	AuxP
+9	táty	NNMS2-----A----	Atr
+10	a	J^-------------	Coord
+11	mámy	NNFS2-----A----	Atr
+12	,	Z:-------------	Coord
+13	žádný	PWYS1----------	Atr
+14	zákon	NNIS1-----A----	Sb
+15	nezhojí	VB-S---3P-NA---	Pred
+16	promarněné	AAIP4----1A----	Atr
+17	roky	NNIP4-----A----	Obj
+18	mladých	AAMP2----1A----	Atr
+19	lidí	NNMP2-----A----	Atr
+20	vyhozených	AAMP2----1A----	Atr
+21	protiprávně	Dg-------1A----	Adv
+22	ze	RV--2----------	AuxP
+23	zaměstnání	NNNS2-----A----	Adv
+24	nebo	J^-------------	Coord
+25	ze	RV--2----------	AuxP
+26	školy	NNFS2-----A----	Adv
+27	.	Z:-------------	AuxK
+
+lnd91303-083-p6s1
+1	Odpovídám	VB-S---1P-AA---	Pred
+2	na	RR--4----------	AuxP
+3	dopisy	NNIP4-----A----	Obj
+4	a	J^-------------	Coord
+5	velmi	Db-------------	Adv
+6	často	Dg-------1A----	Adv
+7	musím	VB-S---1P-AA---	Pred
+8	psát	Vf--------A----	Obj
+9	o	RR--6----------	AuxP
+10	tom	PDZS6----------	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	je	VB-S---3P-AA---	Atr
+14	mi	PH-S3--1-------	Adv
+15	líto	Db-------------	Adv
+16	,	Z:-------------	AuxX
+17	ale	J^-------------	Coord
+18	zákon	NNIS1-----A----	Sb
+19	na	RR--4----------	AuxP
+20	tento	PDIS4----------	Atr
+21	problém	NNIS4-----A----	Obj
+22	nepamatuje	VB-S---3P-NA---	Atr
+23	.	Z:-------------	AuxK
+
+lnd91303-083-p6s2
+1	Je	VB-S---3P-AA---	Pred
+2	hrozné	AANS1----1A----	Pnom
+3	být	Vf--------A----	Sb
+4	bezmocný	AAMS1----1A----	Pnom
+5	nad	RR--7----------	AuxP
+6	řádky	NNIP7-----A----	Adv
+7	stařeckého	AANS2----1A----	Atr
+8	písma	NNNS2-----A----	Atr
+9	líčícího	AGNS2-----A----	Atr
+10	uplynulých	AANP2----1A----	Atr
+11	čtyřicet	Cn-S4----------	Obj
+12	let	NNNP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd91303-083-p6s3
+1	Je	VB-S---3P-AA---	Pred
+2	strašné	AANS1----1A----	Pnom
+3	psát	Vf--------A----	Sb
+4	nevím	VB-S---1P-NA---	Obj
+5	a	J^-------------	Coord
+6	nemohu	VB-S---1P-NA--1	Obj
+7	.	Z:-------------	AuxK
+
+lnd91303-083-p6s4
+1	Lze	VB-S---3P-AA---	Pred
+2	připsat	Vf--------A----	Sb
+3	jen	TT-------------	AuxZ
+4	několik	Ca--4----------	Atr
+5	soucitných	AAFP2----1A----	Atr
+6	,	Z:-------------	AuxX
+7	nic	PW--4----------	Obj
+8	neřešících	AGFP2-----N----	Atr
+9	vět	NNFP2-----A----	Obj
+10	a	J^-------------	Coord
+11	poslat	Vf--------A----	Sb
+12	zpátky	Db-------------	Adv
+13	nenalepené	AAFP4----1N----	Atr
+14	známky	NNFP4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	které	P4FP4----------	Obj
+17	starostlivá	AAFS1----1A----	Atr
+18	ruka	NNFS1-----A----	Sb
+19	slušného	AAMS2----1A----	Atr
+20	člověka	NNMS2-----A----	Atr
+21	poslala	VpQW---XR-AA---	Atr
+22	spolu	Db-------------	Adv
+23	s	RR--7----------	AuxP
+24	dopisem	NNIS7-----A----	Adv
+25	kvůli	RR--3----------	AuxP
+26	odpovědi	NNFS3-----A----	Adv
+27	.	Z:-------------	AuxK
+
+lnd91303-083-p7s1
+1	Kolikrát	Cu-------------	Adv
+2	v	RR--6----------	AuxP
+3	tomto	PDZS6----------	Atr
+4	století	NNNS6-----A----	Adv
+5	stáli	VpMP---XR-AA---	Pred
+6	lidé	NNMP1-----A---1	Sb
+7	před	RR--7----------	AuxP
+8	nápravou	NNFS7-----A----	Adv
+9	zla	NNNS2-----A----	Atr
+10	páchaného	AANS2----1A----	Atr
+11	ve	RV--6----------	AuxP
+12	jménu	NNNS6-----A---1	Adv
+13	něčeho	PZ--2----------	Atr
+14	ověnčeného	AANS2----1A----	Atr
+15	laciným	AAIS7----1A----	Atr
+16	a	J^-------------	Coord
+17	líbivým	AAIS7----1A----	Atr
+18	slovníkem	NNIS7-----A----	Adv
+19	demagogických	AAFP2----1A----	Atr
+20	prostot	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd91303-083-p7s2
+1	Kolikrát	Cu-------------	Adv
+2	byly	VpTP---XR-AA---	AuxV
+3	vykopávány	VsTP---XX-AP---	Pred
+4	hroby	NNIP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	počítány	VsTP---XX-AP---	Pred
+7	oběti	NNFP1-----A----	Sb
+8	,	Z:-------------	Coord
+9	vyčíslovány	VsTP---XX-AP---	Pred
+10	škody	NNFP1-----A----	Sb
+11	?	Z:-------------	AuxK
+
+lnd91303-083-p8s1
+1	Jsou	VB-P---3P-AA---	Pred
+2	jizvy	NNFP1-----A----	Sb
+3	a	J^-------------	Coord
+4	rány	NNFP1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	které	P4FP4----------	Obj
+7	změřit	Vf--------A----	Sb
+8	a	J^-------------	Coord
+9	zvážit	Vf--------A----	Sb
+10	nelze	VB-S---3P-NA---	Atr
+11	.	Z:-------------	AuxK
+
+lnd91303-083-p8s2
+1	Jsou	VB-P---3P-AA---	Pred
+2	bolesti	NNFP1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	jež	PJXP4----------	Adv
+5	není	VB-S---3P-NA---	Atr
+6	možné	AANS1----1A----	Pnom
+7	zhojit	Vf--------A----	Sb
+8	.	Z:-------------	AuxK
+
+lnd91303-083-p9s1
+1	Na	RR--6----------	AuxP
+2	jednom	ClZS6----------	Atr
+3	konci	NNIS6-----A----	Adv
+4	naší	PSFS2-P1-------	Atr
+5	země	NNFS2-----A----	Atr
+6	píší	VB-P---3P-AA--1	Pred
+7	stařecké	AAFP1----1A----	Atr
+8	ruce	NNFP1-----A----	Sb
+9	další	AAFS4----1A----	Atr
+10	pokornou	AAFS4----1A----	Atr
+11	a	J^-------------	Coord
+12	snad	Db-------------	AuxY
+13	poslední	AAFS4----1A----	Atr
+14	žádost	NNFS4-----A----	Obj
+15	o	RR--4----------	AuxP
+16	pomoc	NNFS4-----A----	Atr
+17	,	Z:-------------	Coord
+18	někde	Db-------------	Adv
+19	úplně	Dg-------1A----	Adv
+20	jinde	Db-------------	Adv
+21	si	P7-X3----------	Obj
+22	pár	NNIS1-----A----	Sb
+23	ukřivděných	AAMP2----1A----	ExD
+24	připíná	VB-S---3P-AA---	Pred
+25	rudé	AAFP4----1A----	Atr
+26	šesticípé	AAFP4----1A----	Atr
+27	hvězdy	NNFP4-----A----	Obj
+28	a	J^-------------	Coord
+29	ohání	VB-S---3P-AA---	Pred
+30	se	P7-X4----------	AuxT
+31	lidskými	AANP7----1A----	Atr
+32	právy	NNNP7-----A----	Obj
+33	.	Z:-------------	AuxK
+
+lnd91303-083-p9s2
+1	Ve	RV--6----------	AuxP
+2	jménu	NNNS6-----A---1	ExD
+3	koho	PKM-2----------	Atr
+4	a	J^-------------	Coord
+5	ve	RV--6----------	AuxP
+6	jménu	NNNS6-----A---1	ExD
+7	čeho	PQ--2----------	Atr
+8	?	Z:-------------	AuxK
+
+lnd91303-083-p10s1
+1	Jen	TT-------------	AuxZ
+2	pár	NNIS1-----A----	Sb
+3	dní	NNIP2-----A---1	Atr
+4	zbývá	VB-S---3P-AA---	Pred
+5	do	RR--2----------	AuxP
+6	konce	NNIS2-----A----	Obj
+7	roku	NNIS2-----A---1	Atr
+8	.	Z:-------------	AuxK
+
+lnd91303-083-p10s2
+1	Před	RR--7----------	AuxP
+2	sebou	P6-X7----------	Adv
+3	mám	VB-S---1P-AA---	Pred
+4	poslední	AAFS4----1A----	Atr
+5	hromádku	NNFS4-----A----	Obj
+6	dotazů	NNIP2-----A----	Atr
+7	v	RR--6----------	AuxP
+8	letošním	AAIS6----1A----	Atr
+9	roce	NNIS6-----A---1	Adv
+10	.	Z:-------------	AuxK
+
+lnd91303-083-p10s3
+1	Odpovědi	NNFP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	limitované	AAFP1----1A----	Pnom
+4	nejen	TT-------------	AuxZ
+5	možnostmi	NNFP7-----A----	Adv
+6	redakce	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ale	J^-------------	Coord
+9	i	J^-------------	AuxZ
+10	mými	PSXP7-S1-------	Atr
+11	lidskými	AAFP7----1A----	Atr
+12	silami	NNFP7-----A----	Adv
+13	.	Z:-------------	AuxK
+
+lnd91303-083-p11s1
+1	Chtěl	VpYS---XR-AA---	Pred
+2	bych	Vc-S---1-------	AuxV
+3	proto	J^-------------	Adv
+4	všem	PLXP3----------	Atr
+5	těm	PDXP3----------	Obj
+6	,	Z:-------------	AuxX
+7	kterým	P4XP3----------	Obj
+8	jsem	VB-S---1P-AA---	AuxV
+9	letos	Db-------------	Adv
+10	odpověděl	VpYS---XR-AA---	Atr
+11	"	Z:-------------	AuxG
+12	nelze	VB-S---3P-NA---	Adv
+13	"	Z:-------------	AuxG
+14	,	Z:-------------	Coord
+15	"	Z:-------------	AuxG
+16	není	VB-S---3P-NA---	Adv
+17	možné	AANS1----1A----	Pnom
+18	"	Z:-------------	AuxG
+19	a	J^-------------	Coord
+20	kterým	P4XP3----------	Obj
+21	tak	Db-------------	Adv
+22	asi	TT-------------	AuxY
+23	odpovím	VB-S---1P-AA---	Atr
+24	i	J^-------------	AuxZ
+25	příští	AAIS4----1A----	Atr
+26	rok	NNIS4-----A----	Obj
+27	,	Z:-------------	AuxX
+28	říci	Vf--------A---1	Obj
+29	,	Z:-------------	AuxX
+30	že	J,-------------	AuxC
+31	podle	RR--2----------	AuxP
+32	mého	PSZS2-S1-------	Atr
+33	názoru	NNIS2-----A----	Adv
+34	je	VB-S---3P-AA---	Obj
+35	třeba	ACNS------A----	Pnom
+36	nahradit	Vf--------A----	Sb
+37	více	Dg-------2A----	Obj
+38	než	J,-------------	AuxC
+39	majetek	NNIS4-----A----	ExD
+40	.	Z:-------------	AuxK
+
+lnd91303-083-p12s1
+1	K	RR--3----------	AuxP
+2	tomu	PDZS3----------	Adv
+3	se	P7-X4----------	AuxT
+4	musíme	VB-P---1P-AA---	Pred
+5	nejprve	Db-------------	Adv
+6	znovu	Db-------------	Adv
+7	zrodit	Vf--------A----	Sb
+8	jako	J,-------------	AuxY
+9	opravdoví	AAMP1----1A----	Atr
+10	lidé	NNMP1-----A---1	Atv
+11	.	Z:-------------	AuxK
+
+lnd91303-083-p12s2
+1	Lidé	NNMP1-----A---1	ExD
+2	,	Z:-------------	AuxX
+3	kteří	P4MP1----------	Sb
+4	znovu	Db-------------	Adv
+5	hledají	VB-P---3P-AA---	Atr
+6	a	J^-------------	Coord
+7	najdou	VB-P---3P-AA---	Atr
+8	cestu	NNFS4-----A----	Obj
+9	jeden	ClYS1----------	Atv
+10	ke	RV--3----------	AuxP
+11	druhému	CrMS3----------	Atr
+12	.	Z:-------------	AuxK
+
+lnd91303-083-p12s3
+1	Zákony	NNIP4-----A----	Obj
+2	ukazující	AGIP4-----A----	Atr
+3	tuto	PDFS4----------	Atr
+4	cestu	NNFS4-----A----	Obj
+5	musíme	VB-P---1P-AA---	Pred
+6	napsat	Vf--------A----	Obj
+7	a	J^-------------	Coord
+8	najít	Vf--------A----	Obj
+9	každý	AAMS1----1A----	AtvV
+10	sám	PLYS1----------	AtvV
+11	.	Z:-------------	AuxK
+
+lnd91303-083-p13s1
+1	JUDR	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	TOMAŠ	NNMS1-----A----	Atr
+4	POHL	NNMS1-----A----	ExD
+

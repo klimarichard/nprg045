@@ -1,0 +1,94 @@
+ln95045-008-p1s1
+1	Mexická	AAFS1----1A----	Atr
+2	banka	NNFS1-----A----	Sb
+3	pomohla	VpQW---XR-AA---	Pred
+4	pesu	NNNS3-----A----	Obj
+
+ln95045-008-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95045-008-p2s1B
+1	Mexická	AAFS1----1A----	Atr
+2	centrální	AAFS1----1A----	Atr
+3	banka	NNFS1-----A----	Sb
+4	výrazně	Dg-------1A----	Adv
+5	zvýšila	VpQW---XR-AA---	Pred
+6	úrokové	AAFP4----1A----	Atr
+7	sazby	NNFP4-----A----	Obj
+8	krátkodobých	AAIP2----1A----	Atr
+9	úvěrů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95045-008-p2s2
+1	Tímto	PDZS7----------	Atr
+2	způsobem	NNIS7-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	snaží	VB-S---3P-AA---	Pred
+5	zmírnit	Vf--------A----	Obj
+6	obavy	NNFP4-----A----	Obj
+7	investorů	NNMP2-----A----	Atr
+8	z	RR--2----------	AuxP
+9	budoucí	AAFS2----1A----	Atr
+10	inflace	NNFS2-----A----	Atr
+11	a	J^-------------	Coord
+12	posílit	Vf--------A----	Obj
+13	hodnotu	NNFS4-----A----	Obj
+14	mexického	AANS2----1A----	Atr
+15	pesa	NNNS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95045-008-p3s1
+1	Jak	J,-------------	Adv
+2	včera	Db-------------	Adv
+3	uvedl	VpYS---XR-AA---	Adv
+4	list	NNIS1-----A----	Sb
+5	Financial	AAXXX----1A----	Atr
+6	Times	NNIPX-----A----	Atr
+7	,	Z:-------------	AuxX
+8	krátkodobé	AAFP1----1A----	Atr
+9	úrokové	AAFP1----1A----	Atr
+10	sazby	NNFP1-----A----	Sb
+11	dosáhly	VpTP---XR-AA---	Pred
+12	v	RR--4----------	AuxP
+13	pondělí	NNNS4-----A----	Adv
+14	47	C=-------------	Atr
+15	procent	NNNP2-----A----	Obj
+16	oproti	RR--3----------	AuxP
+17	pátečním	AANP3----1A----	Atr
+18	38	C=-------------	Atr
+19	procentům	NNNP3-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95045-008-p3s2
+1	Tato	PDFS1----------	Atr
+2	změna	NNFS1-----A----	Sb
+3	,	Z:-------------	AuxX
+4	která	P4FS1----------	Sb
+5	drasticky	Dg-------1A----	Adv
+6	postihne	VB-S---3P-AA---	Atr
+7	dlužníky	NNMP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	pomohla	VpQW---XR-AA---	Pred
+10	okamžitě	Dg-------1A----	Adv
+11	mexické	AAFS3----1A----	Atr
+12	měně	NNFS3-----A----	Obj
+13	.	Z:-------------	AuxK
+
+ln95045-008-p3s3
+1	V	RR--4----------	AuxP
+2	pondělí	NNNS4-----A----	Adv
+3	stál	VpYS---XR-AA---	Pred
+4	jeden	ClYS1----------	Atr
+5	americký	AAIS1----1A----	Atr
+6	dolar	NNIS1-----A----	Sb
+7	5.54	C=-------------	Obj
+8	pesos	NNNXX-----A----	Atr
+9	,	Z:-------------	AuxX
+10	zatímco	J,-------------	AuxC
+11	minulý	AAIS4----1A----	Atr
+12	pátek	NNIS4-----A----	ExD
+13	5725	C=-------------	ExD
+14	pesos	NNNXX-----A----	Atr
+15	.	Z:-------------	AuxK
+

@@ -1,0 +1,337 @@
+ln94210-46-p1s1
+1	Bojkot	NNIS1-----A----	ExD
+2	voleb	NNFP2-----A----	Atr
+3	kvůli	RR--3----------	AuxP
+4	vodovodu	NNIS3-----A----	Atr
+
+ln94210-46-p2s1A
+1	Mimořádné	AAFP4----1A----	Atr
+2	volby	NNFP4-----A----	Obj
+3	v	RR--6----------	AuxP
+4	Přešovicích	NNFP6-----A----	Atr
+5	zřejmě	Dg-------1A----	AuxY
+6	zajistí	VB-P---3P-AA---	Pred
+7	sám	PLYS1----------	Atv
+8	ministr	NNMS1-----A----	Sb
+9	vnitra	NNNS2-----A----	Atr
+
+ln94210-46-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jap	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94210-46-p2s1C
+1	Pokud	J,-------------	AuxC
+2	nebude	VB-S---3F-NA---	AuxV
+3	v	RR--6----------	AuxP
+4	obci	NNFS6-----A----	Adv
+5	Přešovice	NNFP1-----A----	Atr
+6	na	RR--6----------	AuxP
+7	Třebíčsku	NNNS6-----A----	Atr
+8	do	RR--2----------	AuxP
+9	13	C=-------------	Atr
+10	.	Z:-------------	AuxG
+11	září	NNNS2-----A----	Adv
+12	jmenován	VsYS---XX-AP---	Adv
+13	obecním	AANS7----1A----	Atr
+14	zastupitelstvem	NNNS7-----A----	Obj
+15	zapisovatel	NNMS1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	jehož	PJZS2----------	Atr
+18	úkolem	NNIS7-----A----	Pnom
+19	je	VB-S---3P-AA---	Atr
+20	převzít	Vf--------A----	Sb
+21	volební	AAFP4----1A----	Atr
+22	kandidátky	NNFP4-----A----	Obj
+23	politických	AAFP2----1A----	Atr
+24	stran	NNFP2-----A----	Atr
+25	,	Z:-------------	AuxX
+26	volby	NNFP1-----A----	Sb
+27	se	P7-X4----------	AuxR
+28	tu	Db------------1	Adv
+29	neuskuteční	VB-P---3P-NA---	Pred
+30	.	Z:-------------	AuxK
+
+ln94210-46-p2s2
+1	Včera	Db-------------	Adv
+2	to	PDNS4----------	Obj
+3	řekl	VpYS---XR-AA---	Pred
+4	náměstek	NNMS1-----A----	Atr
+5	ministra	NNMS2-----A----	Atr
+6	vnitra	NNNS2-----A----	Atr
+7	Vladimír	NNMS1-----A----	Atr
+8	Zeman	NNMS1-----A----	Sb
+9	.	Z:-------------	AuxK
+
+ln94210-46-p2s3
+1	Ministr	NNMS1-----A----	Sb
+2	vnitra	NNNS2-----A----	Atr
+3	by	Vc-------------	AuxV
+4	pak	Db-------------	Adv
+5	musel	VpYS---XR-AA---	Pred
+6	pro	RR--4----------	AuxP
+7	Přešovice	NNFP4-----A----	Adv
+8	vyhlásit	Vf--------A----	Obj
+9	nový	AAIS4----1A----	Atr
+10	termín	NNIS4-----A----	Obj
+11	voleb	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94210-46-p3s1
+1	Starosta	NNMS1-----A----	Atr
+2	Přešovic	NNFP2-----A----	Atr
+3	Miloš	NNMS1-----A----	Atr
+4	Popelka	NNMS1-----A----	Sb
+5	(	Z:-------------	ExD
+6	ODS	NNFXX-----A---8	ExD
+7	)	Z:-------------	ExD
+8	totiž	Db-------------	AuxY
+9	nedávno	Db-------------	Adv
+10	ohlásil	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	pokud	J,-------------	AuxC
+14	nebude	VB-S---3F-NA---	AuxV
+15	v	RR--6----------	AuxP
+16	obci	NNFS6-----A----	Adv
+17	dobudován	VsYS---XX-AP---	Adv
+18	vodovod	NNIS1-----A----	Sb
+19	,	Z:-------------	AuxX
+20	neuskuteční	VB-P---3P-NA---	Obj
+21	se	P7-X4----------	AuxR
+22	tu	Db------------1	Obj
+23	komunální	AAFP1----1A----	Atr
+24	volby	NNFP1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln94210-46-p3s2
+1	Na	RR--4----------	AuxP
+2	dostavbu	NNFS4-----A----	Adv
+3	vodovodu	NNIS2-----A----	Atr
+4	žádaly	VpTP---XR-AA---	Pred
+5	Přešovice	NNFP1-----A----	Sb
+6	již	Db-------------	AuxZ
+7	v	RR--6----------	AuxP
+8	březnu	NNIS6-----A----	Adv
+9	a	J^-------------	Coord
+10	znovu	Db-------------	ExD
+11	pak	Db-------------	ExD
+12	v	RR--6----------	AuxP
+13	červnu	NNIS6-----A----	ExD
+14	od	RR--2----------	AuxP
+15	Okresního	AAIS2----1A----	Atr
+16	úřadu	NNIS2-----A----	ExD
+17	v	RR--6----------	AuxP
+18	Třebíči	NNFS6-----A----	Atr
+19	půjčku	NNFS4-----A----	ExD
+20	ve	RV--6----------	AuxP
+21	výši	NNFS6-----A----	Atr
+22	400000	C=-------------	Atr
+23	korun	NNFP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	podle	RR--2----------	AuxP
+26	starosty	NNMS2-----A----	Atr
+27	Popelky	NNMS2-----A----	Adv
+28	jim	PPXP3--3-------	Obj
+29	však	J^-------------	Coord
+30	nebyla	VpQW---XR-NA---	AuxV
+31	poskytnuta	VsQW---XX-AP---	Pred
+32	.	Z:-------------	AuxK
+
+ln94210-46-p4s1
+1	Jak	J,-------------	Adv
+2	Lidovým	AAFP3----1A----	Atr
+3	novinám	NNFP3-----A----	Obj
+4	sdělil	VpYS---XR-AA---	Pred
+5	náměstek	NNMS1-----A----	Atr
+6	Zeman	NNMS1-----A----	Sb
+7	,	Z:-------------	AuxX
+8	ministerstvo	NNNS1-----A----	Sb
+9	vnitra	NNNS2-----A----	Atr
+10	zatím	Db-------------	Adv
+11	celou	AAFS4----1A----	Atr
+12	záležitost	NNFS4-----A----	Obj
+13	bedlivě	Dg-------1A----	Adv
+14	sleduje	VB-S---3P-AA---	Pred
+15	prostřednictvím	NNNS7-----A----	AuxP
+16	přednosty	NNMS2-----A----	Atr
+17	Okresního	AAIS2----1A----	Atr
+18	úřadu	NNIS2-----A----	Atr
+19	v	RR--6----------	AuxP
+20	Třebíči	NNFS6-----A----	Atr
+21	Karla	NNMS2-----A----	Atr
+22	Müllera	NNMS2-----A----	Adv
+23	.	Z:-------------	AuxK
+
+ln94210-46-p4s2
+1	Ten	PDYS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	také	Db-------------	Adv
+4	osobou	NNFS7-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	by	Vc-------------	AuxV
+8	na	RR--4----------	AuxP
+9	starostu	NNMS4-----A----	Atr
+10	Popelku	NNMS4-----A----	Obj
+11	mohla	VpQW---XR-AA---	Atr
+12	podat	Vf--------A----	Obj
+13	trestní	AANS4----1A----	Atr
+14	oznámení	NNNS4-----A----	Obj
+15	pro	RR--4----------	AuxP
+16	maření	NNNS4-----A----	AtrAdv
+17	přípravy	NNFS2-----A----	Atr
+18	nebo	J^-------------	Coord
+19	průběhu	NNIS2-----A----	Atr
+20	voleb	NNFP2-----A----	Atr
+21	do	RR--2----------	AuxP
+22	orgánů	NNIP2-----A----	Atr
+23	místní	AAFS2----1A----	Atr
+24	samosprávy	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln94210-46-p4s3
+1	Za	RR--4----------	AuxP
+2	to	PDNS4----------	Obj
+3	by	Vc-------------	AuxV
+4	starosta	NNMS1-----A----	Sb
+5	mohl	VpYS---XR-AA---	Pred
+6	být	Vf--------A----	AuxV
+7	odsouzen	VsYS---XX-AP---	Obj
+8	k	RR--3----------	AuxP
+9	trestu	NNIS3-----A----	Adv
+10	odnětí	NNNS2-----A----	Atr
+11	svobody	NNFS2-----A----	Atr
+12	až	TT-------------	AuxZ
+13	do	RR--2----------	AuxP
+14	tří	ClXP2----------	Atr
+15	let	NNNP2-----A----	Atr
+16	nepodmíněně	Dg-------1N----	Atr
+17	.	Z:-------------	AuxK
+
+ln94210-46-p4s4
+1	Stejný	AAIS1----1A----	Atr
+2	trest	NNIS1-----A----	Sb
+3	mu	PHZS3--3-------	Obj
+4	hrozí	VB-S---3P-AA---	Pred
+5	i	J^-------------	AuxZ
+6	v	RR--6----------	AuxP
+7	případě	NNIS6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	kdyby	J,-------------	AuxC
+10	jako	J,-------------	AuxY
+11	veřejný	AAIS1----1A----	Atr
+12	činitel	NNIS1-----A----	AtvV
+13	nesplnil	VpYS---XR-NA---	Atr
+14	povinnost	NNFS4-----A----	Obj
+15	vyplývající	AGIS4-----A----	Atr
+16	z	RR--2----------	AuxP
+17	jeho	PSXXXZS3-------	Atr
+18	pravomoci	NNFS2-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94210-46-p4s5
+1	Záleží	VB-S---3P-AA---	Pred
+2	však	J^-------------	Coord
+3	na	RR--6----------	AuxP
+4	soudu	NNIS6-----A---1	Obj
+5	,	Z:-------------	AuxX
+6	jak	Db-------------	Adv
+7	posoudí	VB-S---3P-AA---	Sb
+8	jeho	PSXXXZS3-------	Atr
+9	vinu	NNFS4-----A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94210-46-p4s6
+1	Popelka	NNMS1-----A----	Sb
+2	své	P8NS4---------1	Atr
+3	stanovisko	NNNS4-----A----	Obj
+4	totiž	Db-------------	AuxY
+5	opírá	VB-S---3P-AA---	Obj
+6	o	RR--4----------	AuxP
+7	téměř	Db-------------	AuxZ
+8	stoprocentní	AAFS4----1A----	Atr
+9	podporu	NNFS4-----A----	Obj
+10	zastupitelstva	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	říká	VB-S---3P-AA---	Pred
+13	náměstek	NNMS1-----A----	Atr
+14	Zeman	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94210-46-p5s1
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	v	RR--6----------	AuxP
+5	Přešovicích	NNFP6-----A----	Adv
+6	komunální	AAFP1----1A----	Atr
+7	volby	NNFP1-----A----	Sb
+8	ve	RV--6----------	AuxP
+9	vyhlášeném	AAIS6----1A----	Atr
+10	termínu	NNIS6-----A----	Adv
+11	nekonaly	VpTP---XR-NA---	Adv
+12	,	Z:-------------	AuxX
+13	pak	Db-------------	Adv
+14	by	Vc-------------	AuxV
+15	tu	Db------------1	Adv
+16	od	RR--2----------	AuxP
+17	listopadu	NNIS2-----A----	Adv
+18	neexistovala	VpQW---XR-NA---	Pred
+19	samospráva	NNFS1-----A----	Sb
+20	a	J^-------------	Coord
+21	výkonem	NNIS7-----A----	Obj
+22	státní	AAFS2----1A----	Atr
+23	správy	NNFS2-----A----	Atr
+24	by	Vc-------------	AuxV
+25	byl	VpYS---XR-AA---	AuxV
+26	dočasně	Dg-------1A----	Adv
+27	pověřen	VsYS---XX-AP---	Pred
+28	Okresní	AAIS1----1A----	Atr
+29	úřad	NNIS1-----A----	Sb
+30	v	RR--6----------	AuxP
+31	Třebíči	NNFS6-----A----	Atr
+32	.	Z:-------------	AuxK
+
+ln94210-46-p6s1
+1	Podle	RR--2----------	AuxP
+2	náměstka	NNMS2-----A----	Atr
+3	Zemana	NNMS2-----A----	Adv
+4	neexistuje	VB-S---3P-NA---	Pred
+5	zákonná	AAFS1----1A----	Atr
+6	úprava	NNFS1-----A----	Sb
+7	pro	RR--4----------	AuxP
+8	situaci	NNFS4-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kdy	Db-------------	Adv
+11	volení	AAMP1----1A----	Atr
+12	zástupci	NNMP1-----A----	Sb
+13	obce	NNFS2-----A----	Atr
+14	bojkotují	VB-P---3P-AA---	Atr
+15	konání	NNNS4-----A----	Obj
+16	voleb	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94210-46-p6s2
+1	Z	RR--2----------	AuxP
+2	volebního	AAIS2----1A----	Atr
+3	zákona	NNIS2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	ovšem	J^-------------	Coord
+6	možné	AANS1----1A----	Pnom
+7	dovodit	Vf--------A----	Sb
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	vyhlášení	NNNS1-----A----	Sb
+11	nových	AAFP2----1A----	Atr
+12	voleb	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	jejich	PSXXXXP3-------	Atr
+15	zabezpečení	NNNS1-----A----	Sb
+16	přísluší	VB-S---3P-AA---	Obj
+17	ministrovi	NNMS3-----A----	Obj
+18	vnitra	NNNS2-----A----	Atr
+19	.	Z:-------------	AuxK
+

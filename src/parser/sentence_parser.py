@@ -17,7 +17,28 @@ def read_ids(file) -> [str]:
     return IDs
 
 
-def parse_sentences(filename: str) -> [(str, [(int, str, str, str)])]:
+def parse_filenames(ids: [str]) -> [str]:
+    """
+    Gets list of filenames from list of sentence IDs.
+    :param ids: list of sentence IDs
+    :return: list of filenames
+    """
+    filenames = []
+    old_filename = ''
+
+    for sentence_id in ids:
+        parsed_id = sentence_id.split('-')
+        new_filename = parsed_id[0] + '_' + parsed_id[1]
+
+        if new_filename != old_filename:
+            old_filename = new_filename
+
+            filenames.append(new_filename)
+
+    return filenames
+
+
+def parse_sentences(filename: str):  # -> [(str, [(int, str, str, str)])]:
     """
     Parses all sentences from corresponding m- and a-files and processes them to chosen format.
     The chosen format is a list of sentences, where each sentence is a tuple of ID and a list of words,
@@ -26,16 +47,16 @@ def parse_sentences(filename: str) -> [(str, [(int, str, str, str)])]:
     :param filename: name of XML files (without extension) with annotated data
     :return: list of sentences in chosen format
     """
-    # Initializing sentence lists
-    sentences = []
+    # Get parsed sentences from both morphological and syntactical data files
     sentences_m = parse_m_sentences(filename)
     sentences_a = parse_a_sentences(filename)
 
-    # TODO: incorporate syntactically annotated data
-    # TODO: join data from two different types of files
-    # TODO: return sentences in chosen format
+    sentences = [[id_a, join_word_properties(words_a, words_m)]
+                 for id_a, words_a in sentences_a
+                 for id_m, words_m in sentences_m
+                 if id_a == id_m]
 
-    return None
+    return sentences
 
 
 def parse_a_sentences(filename: str) -> [(str, [(str, int, str)])]:
@@ -52,7 +73,36 @@ def parse_a_sentences(filename: str) -> [(str, [(str, int, str)])]:
 
     # Initializing XML parser
     xml_a = ET.parse(resdir + r'\unpacked_a' + '\\' + filename + '.a')
-    a_lms = xml_a.iter('{http://ufal.mff.cuni.cz/pdt/pml/}LM')
+    trees = xml_a.find('{http://ufal.mff.cuni.cz/pdt/pml/}trees')
+    lms = trees.findall('{http://ufal.mff.cuni.cz/pdt/pml/}LM')
+
+    # for each sentence tree
+    for lm in lms:
+        # ID starts with "a-", which is only an indicator of the analytical file,
+        # we only want the ID itself
+        sentence_id = lm.get('id')[2:]
+
+        # Recursively find all LM tags in this subtree (sentence)
+        word_lms = lm.iter('{http://ufal.mff.cuni.cz/pdt/pml/}LM')
+
+        # Initializing list of words in one sentence
+        words = []
+        for word in word_lms:
+            word_id = word.get('id').split('-')[3]
+            word_order, constituent = 0, None
+
+            for elem in word:
+                if re.match('.*ord$', elem.tag):
+                    # writing the word order
+                    word_order = int(elem.text)
+                if re.match('.*afun$', elem.tag):
+                    # writing the constituent type
+                    constituent = elem.text
+
+            if word_order > 0:
+                words.append((word_id, word_order, constituent))
+
+        sentences.append((sentence_id, words))
 
     return sentences
 
@@ -71,10 +121,11 @@ def parse_m_sentences(filename: str) -> [(str, [(str, str, str)])]:
 
     # Initializing XML parser
     xml_m = ET.parse(resdir + r'\unpacked_m' + '\\' + filename + '.m')
-    root_m = xml_m.getroot()
     m_sentences = xml_m.findall('{http://ufal.mff.cuni.cz/pdt/pml/}s')
 
     for s in m_sentences:
+        # ID starts with "m-", which is only an indicator of the morphological file,
+        # we only want the ID itself
         sentence_id = s.get('id')[2:]
 
         # Initializing list of words in one sentence
@@ -98,8 +149,50 @@ def parse_m_sentences(filename: str) -> [(str, [(str, str, str)])]:
     return sentences
 
 
+def join_word_properties(words_a: [(str, int, str)], words_m: [(str, str, str)]) -> [(int, str, str, str)]:
+    """
+    Gets morphological and syntactical properties of words in one sentences and joins them
+    together in one list of tuples.
+    :param words_a: list of syntactical properties
+    :param words_m: list of morphological properties
+    :return: list of joined properties
+    """
+    # Initializing word list
+    words = [(order, actual, tags, const)
+             for id_a, order, const in words_a
+             for id_m, actual, tags in words_m
+             if id_a == id_m]
+
+    words = sorted(words, key=lambda word: word[0])
+
+    return words
+
+
+def print_sentence(sentence: (str, [(int, str, str, str)]), file) -> None:
+    """
+    Prints one sentence in chosen format into output file.
+    :param sentence: tuple of sentence ID and list of words
+    :param file: output file
+    :return: nothing
+    """
+    sentence_id, words = sentence
+    f.write(sentence_id + '\n')
+    for word in words:
+        f.write(str(word[0]) + '\t' + word[1] + '\t' + word[2] + '\t' + word[3] + '\n')
+
+    f.write('\n')
+
+
 if __name__ == '__main__':
     resdir = os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT'
-
     with open(resdir + r'\sentence_IDs_all.txt', mode='r', encoding='utf-8') as f:
         IDs = read_ids(f)
+
+    filenames = parse_filenames(IDs)
+
+    for filename in filenames:
+        sentences = parse_sentences(filename)
+
+        with open(resdir + rf'\parsed_sentences\{filename}.txt', mode='w', encoding='utf-8') as f:
+            for sentence in sentences:
+                print_sentence(sentence, f)

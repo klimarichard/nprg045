@@ -1,0 +1,298 @@
+ln94204-158-p1s1
+1	Od	RR--2----------	AuxP
+2	pondělí	NNNS2-----A----	ExD
+3	nová	AAFS1----1A----	Atr
+4	Škoda	NNFS1-----A----	ExD
+5	Felicia	NNFS1-----A---1	Atr
+
+ln94204-158-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94204-158-p2s1B
+1	Výroba	NNFS1-----A----	Sb
+2	nového	AAIS2----1A----	Atr
+3	automobilu	NNIS2-----A----	Atr
+4	v	RR--6----------	AuxP
+5	tzv	AAXXX----1A---8	Atr
+6	.	Z:-------------	AuxG
+7	krátkém	AANS6----1A----	Atr
+8	provedení	NNNS6-----A----	Atr
+9	pod	RR--7----------	AuxP
+10	názvem	NNIS7-----A----	Atr
+11	Felicia	NNFS1-----A---1	Atr
+12	bude	VB-S---3F-AA---	AuxV
+13	zahájena	VsQW---XX-AP---	Pred
+14	v	RR--4----------	AuxP
+15	pondělí	NNNS4-----A----	Adv
+16	5	C=-------------	Atr
+17	.	Z:-------------	AuxG
+18	září	NNNS2-----A----	Atr
+19	ve	RV--6----------	AuxP
+20	vrchlabském	AAIS6----1A----	Atr
+21	závodě	NNIS6-----A----	Adv
+22	automobilky	NNFS2-----A----	Atr
+23	Škoda	NNFS1-----A----	Atr
+24	.	Z:-------------	AuxK
+
+ln94204-158-p2s2
+1	Po	RR--6----------	AuxP
+2	ověření	NNNS6-----A----	Adv
+3	výrobní	AAFS2----1A----	Atr
+4	série	NNFS2-----A----	Atr
+5	začnou	VB-P---3P-AA---	Pred
+6	Felicii	NNFS4-----A----	Obj
+7	vyrábět	Vf--------A----	Obj
+8	i	J^-------------	AuxZ
+9	v	RR--6----------	AuxP
+10	hlavním	AAIS6----1A----	Atr
+11	závodě	NNIS6-----A----	Adv
+12	v	RR--6----------	AuxP
+13	Mladé	AAFS6----1A----	Atr
+14	Boleslavi	NNFS6-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94204-158-p2s3
+1	Uvedl	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	nejmenovaný	AAIS1----1N----	Atr
+5	zdroj	NNIS1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	automobilové	AAFS2----1A----	Atr
+8	akciové	AAFS2----1A----	Atr
+9	společnosti	NNFS2-----A----	Atr
+10	Škoda	NNFS1-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94204-158-p3s1
+1	Nový	AAIS1----1A----	Atr
+2	automobil	NNIS1-----A----	Sb
+3	nahradí	VB-S---3P-AA---	Pred
+4	dosavadní	AAIS4----1A----	Atr
+5	typ	NNIS4-----A----	Obj
+6	Favorit	NNIS4-----A----	Atr
+7	,	Z:-------------	AuxX
+8	jehož	PJZS2----------	Atr
+9	výroba	NNFS1-----A----	Sb
+10	by	Vc-------------	AuxV
+11	měla	VpQW---XR-AA---	Atr
+12	být	Vf--------A----	AuxV
+13	ukončena	VsQW---XX-AP---	Obj
+14	v	RR--6----------	AuxP
+15	září	NNNS6-----A----	Adv
+16	1994	C=-------------	Atr
+17	.	Z:-------------	AuxK
+
+ln94204-158-p3s2
+1	Felicia	NNFS1-----A---1	Sb
+2	se	P7-X4----------	AuxT
+3	od	RR--2----------	AuxP
+4	něj	P5ZS2--3-------	Obj
+5	liší	VB-S---3P-AA---	Pred
+6	především	Db-------------	AuxZ
+7	výrazně	Dg-------1A----	Adv
+8	oblejšími	AAIP7----2A----	Atr
+9	tvary	NNIP7-----A----	Adv
+10	.	Z:-------------	AuxK
+
+ln94204-158-p3s3
+1	Současnému	AAIS3----1A----	Atr
+2	trendu	NNIS3-----A----	Obj
+3	odpovídá	VB-S---3P-AA---	Pred
+4	buclatá	AAFS1----1A----	Atr
+5	záď	NNFS1-----A----	Sb
+6	s	RR--7----------	AuxP
+7	kulatějšími	AANP7----2A----	Atr
+8	koncovými	AANP7----1A----	Atr
+9	světly	NNNP7-----A----	Atr
+10	,	Z:-------------	AuxX
+11	nové	AAFP1----1A----	Pnom
+12	jsou	VB-P---3P-AA---	Pred
+13	i	J^-------------	AuxZ
+14	přední	AAFP1----1A----	Atr
+15	svítilny	NNFP1-----A----	Sb
+16	,	Z:-------------	Coord
+17	zaobleny	VsTP---XX-AP---	Pred
+18	byly	VpTP---XR-AA---	AuxV
+19	přední	AAFS1----1A----	Atr
+20	kapota	NNFS1-----A----	Sb
+21	,	Z:-------------	AuxX
+22	maska	NNFS1-----A----	Sb
+23	a	J^-------------	Coord
+24	nárazníky	NNIP1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln94204-158-p3s4
+1	Výrazně	Dg-------1A----	Adv
+2	jiný	AAIS1----1A----	Pnom
+3	bude	VB-S---3F-AA---	Pred
+4	také	Db-------------	Adv
+5	interiér	NNIS1-----A----	Sb
+6	vozu	NNIS2-----A----	Atr
+7	,	Z:-------------	Coord
+8	zejména	Db-------------	AuxZ
+9	jeho	PSXXXZS3-------	Atr
+10	přístrojová	AAFS1----1A----	Atr
+11	deska	NNFS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94204-158-p4s1
+1	Podle	RR--2----------	AuxP
+2	dřívějšího	AANS2----2A----	Atr
+3	sdělení	NNNS2-----A----	Adv
+4	vedoucího	NNMS2-----A----	Atr
+5	public	AAXXX----1A----	Atr
+6	relations	NNIPX-----A----	Atr
+7	podniku	NNIS2-----A----	Atr
+8	Jiřího	NNMS2-----A----	Atr
+9	Hrabovského	NNMS2-----A----	Atr
+10	bude	VB-S---3F-AA---	Pred
+11	náběhová	AAFS1----1A----	Atr
+12	křivka	NNFS1-----A----	Sb
+13	výroby	NNFS2-----A----	Atr
+14	velmi	Db-------------	Adv
+15	pozvolná	AAFS1----1A----	Pnom
+16	.	Z:-------------	AuxK
+
+ln94204-158-p4s2
+1	Počáteční	AAFS1----1A----	Atr
+2	produkce	NNFS1-----A----	Sb
+3	automobilů	NNIP2-----A----	Atr
+4	Felicia	NNFS1-----A---1	Atr
+5	by	Vc-------------	AuxV
+6	měla	VpQW---XR-AA---	Pred
+7	činit	Vf--------A----	Obj
+8	jen	TT-------------	AuxZ
+9	několik	Ca--4----------	Obj
+10	kusů	NNIP2-----A----	Atr
+11	až	J^-------------	Coord
+12	několik	Ca--4----------	Obj
+13	desítek	NNFP2-----A----	Atr
+14	kusů	NNIP2-----A----	Atr
+15	denně	Dg-------1A----	Adv
+16	s	RR--7----------	AuxP
+17	maximálním	AAIS7----1A----	Atr
+18	důrazem	NNIS7-----A----	Adv
+19	na	RR--4----------	AuxP
+20	kvalitu	NNFS4-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94204-158-p5s1
+1	Škodovka	NNFS1-----A----	Sb
+2	musí	VB-S---3P-AA---	Pred
+3	už	Db-------------	AuxZ
+4	při	RR--6----------	AuxP
+5	náběhu	NNIS6-----A----	Adv
+6	nového	AAIS2----1A----	Atr
+7	vozu	NNIS2-----A----	Atr
+8	splňovat	Vf--------A----	Obj
+9	špičkovou	AAFS4----1A----	Atr
+10	kvalitu	NNFS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+ln94204-158-p5s2
+1	Proto	J^-------------	ExD
+2	raději	Dg-------2A----	ExD
+3	menší	AAIS4----2A----	Atr
+4	počet	NNIS4-----A----	ExD
+5	dokonalých	AAIP2----1A----	Atr
+6	výrobků	NNIP2-----A----	Atr
+7	než	J,-------------	AuxC
+8	větší	AANS4----2A----	Atr
+9	množství	NNNS4-----A----	ExD
+10	automobilů	NNIP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	jejichž	P1XXXXP3-------	Atr
+13	dětské	AAFP1----1A----	Atr
+14	choroby	NNFP1-----A----	Sb
+15	by	Vc-------------	AuxV
+16	ve	RV--6----------	AuxP
+17	veřejném	AANS6----1A----	Atr
+18	mínění	NNNS6-----A----	Adv
+19	mohly	VpTP---XR-AA---	Atr
+20	výrobci	NNMS3-----A----	Obj
+21	způsobit	Vf--------A----	Obj
+22	nedozírné	AAFP4----1A----	Atr
+23	ztráty	NNFP4-----A----	Obj
+24	v	RR--6----------	AuxP
+25	oblasti	NNFS6-----A----	AuxP
+26	image	NNXXX-----A----	Atr
+27	značky	NNFS2-----A----	Atr
+28	,	Z:-------------	AuxX
+29	řekl	VpYS---XR-AA---	Pred
+30	Jiří	NNMS1-----A----	Atr
+31	Hrabovský	NNMS1-----A----	Sb
+32	.	Z:-------------	AuxK
+
+ln94204-158-p6s1
+1	Nový	AAIS1----1A----	Atr
+2	vůz	NNIS1-----A----	Sb
+3	bude	VB-S---3F-AA---	AuxV
+4	vyráběn	VsYS---XX-AP---	Pred
+5	nejen	TT-------------	AuxZ
+6	se	RV--7----------	AuxP
+7	současným	AAIS7----1A----	Atr
+8	motorem	NNIS7-----A----	Adv
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	i	J^-------------	AuxZ
+12	s	RR--7----------	AuxP
+13	pohonnými	AAFP7----1A----	Atr
+14	jednotkami	NNFP7-----A----	Adv
+15	z	RR--2----------	AuxP
+16	koncernu	NNIS2-----A----	Atr
+17	VW	NNIXX-----A----	Atr
+18	(	Z:-------------	AuxG
+19	např	Db------------8	Apos
+20	.	Z:-------------	AuxG
+21	s	RR--7----------	AuxP
+22	benzinovými	AAIP7----1A----	Atr
+23	motory	NNIP7-----A----	Adv
+24	1.6	C=-------------	Atr
+25	a	J^-------------	Coord
+26	1.8	C=-------------	Atr
+27	l	NNIXX-----A---8	Atr
+28	či	J^-------------	Coord
+29	s	RR--7----------	AuxP
+30	dieselem	NNIS7-----A----	Adv
+31	1.9	C=-------------	Atr
+32	l	NNIXX-----A---8	Atr
+33	)	Z:-------------	AuxG
+34	.	Z:-------------	AuxK
+
+ln94204-158-p6s2
+1	Na	RR--4----------	AuxP
+2	přání	NNNS4-----A----	Adv
+3	zákazníka	NNMS2-----A----	Atr
+4	bude	VB-S---3F-AA---	AuxV
+5	za	RR--4----------	AuxP
+6	příplatek	NNIS4-----A----	Adv
+7	vybaven	VsYS---XX-AP---	Pred
+8	airbagem	NNIS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	ABS	AAXXX----1A---8	Obj
+11	nebo	J^-------------	Coord
+12	klimatizací	NNFS7-----A----	Obj
+13	,	Z:-------------	AuxX
+14	pravděpodobně	Dg-------1A----	ExD
+15	však	J^-------------	Coord
+16	až	TT-------------	AuxZ
+17	v	RR--6----------	AuxP
+18	příštím	AAIS6----1A----	Atr
+19	roce	NNIS6-----A---1	ExD
+20	.	Z:-------------	AuxK
+
+ln94204-158-p6s3
+1	Cena	NNFS1-----A----	Sb
+2	základní	AAFS2----1A----	Atr
+3	verze	NNFS2-----A----	Atr
+4	vozu	NNIS2-----A----	Atr
+5	by	Vc-------------	AuxV
+6	měla	VpQW---XR-AA---	Pred
+7	činit	Vf--------A----	Obj
+8	zhruba	Db-------------	AuxZ
+9	250000	C=-------------	Obj
+10	korun	NNFP2-----A----	Atr
+11	.	Z:-------------	AuxK
+

@@ -1,0 +1,436 @@
+cmpr9416-023-p2s1
+1	Síla	NNFS1-----A----	ExD
+2	konkurence	NNFS2-----A----	Atr
+
+cmpr9416-023-p3s1
+1	V	RR--6----------	AuxP
+2	červnu	NNIS6-----A----	Adv
+3	1993	C=-------------	Atr
+4	začal	VpYS---XR-AA---	Pred
+5	Kovofiniš	NNIS1-----A----	Sb
+6	Ledeč	NNFS1-----A----	Atr
+7	nad	RR--7----------	AuxP
+8	Sázavou	NNFS7-----A----	Atr
+9	jako	J,-------------	AuxY
+10	první	CrMS1----------	Atv
+11	s	RR--7----------	AuxP
+12	výrobou	NNFS7-----A----	Adv
+13	nerezových	AAIP2----1A----	Atr
+14	KEG	AAXXX----1A---8	Atr
+15	sudů	NNIP2-----A----	Atr
+16	v	RR--6----------	AuxP
+17	ČR	NNFXX-----A---8	AtrAdv
+18	.	Z:-------------	AuxK
+
+cmpr9416-023-p3s2
+1	Chtěl	VpYS---XR-AA---	Pred
+2	využít	Vf--------A----	Obj
+3	velké	AAFS2----1A----	Atr
+4	poptávky	NNFS2-----A----	Obj
+5	pivovarů	NNIP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	které	P4IP1----------	Sb
+8	nahrazovaly	VpTP---XR-AA---	Atr
+9	nevyhovující	AGIP4-----N----	Atr
+10	hliníkové	AAIP4----1A----	Atr
+11	sudy	NNIP4-----A----	Obj
+12	novými	AAIP7----1A----	Atr
+13	obaly	NNIP7-----A----	Adv
+14	.	Z:-------------	AuxK
+
+cmpr9416-023-p4s1
+1	O	RR--6----------	AuxP
+2	tom	PDZS6----------	Obj
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	se	P7-X4----------	AuxT
+6	Kovofiniši	NNIS3-----A----	Obj
+7	podařilo	VpNS---XR-AA---	Atr
+8	splnit	Vf--------A----	Sb
+9	svůj	P8IS4----------	Atr
+10	podnikatelský	AAIS4----1A----	Atr
+11	záměr	NNIS4-----A----	Obj
+12	,	Z:-------------	AuxX
+13	jsme	VB-P---1P-AA---	AuxV
+14	hovořili	VpMP---XR-AA---	Pred
+15	s	RR--7----------	AuxP
+16	generálním	AAMS7----1A----	Atr
+17	ředitelem	NNMS7-----A----	Atr
+18	Petrem	NNMS7-----A----	Atr
+19	Mainerem	NNMS7-----A----	Obj
+20	.	Z:-------------	AuxK
+
+cmpr9416-023-p5s1
+1	*	Z:-------------	AuxG
+2	Před	RR--7----------	AuxP
+3	rozpadem	NNIS7-----A----	Adv
+4	federace	NNFS2-----A----	Atr
+5	jste	VB-P---2P-AA---	AuxV
+6	odhadli	VpMP---XR-AA--1	Pred
+7	potřebu	NNFS4-----A----	Obj
+8	trhu	NNIS2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	více	Dg-------2A----	Adv
+11	než	J,-------------	AuxC
+12	dva	ClYP4----------	Atr
+13	miliony	NNIP4-----A----	Adv
+14	nerezových	AAIP2----1A----	Atr
+15	KEG	AAXXX----1A---8	Atr
+16	sudů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9416-023-p5s2
+1	Jak	Db-------------	Adv
+2	velký	AAIS4----1A----	Atr
+3	podíl	NNIS4-----A----	Obj
+4	jste	VB-P---2P-AA---	AuxV
+5	na	RR--6----------	AuxP
+6	něm	P5ZS6--3-------	Adv
+7	skutečně	Dg-------1A----	Adv
+8	obsadili	VpMP---XR-AA---	Pred
+9	?	Z:-------------	AuxK
+
+cmpr9416-023-p6s1
+1	Letos	Db-------------	Adv
+2	vyrobíme	VB-P---1P-AA---	Pred
+3	a	J^-------------	Coord
+4	prodáme	VB-P---1P-AA---	Pred
+5	150	C=-------------	Obj
+6	až	J^-------------	Coord
+7	180	C=-------------	Obj
+8	tisíc	ClXS2----------	Atr
+9	KEG	AAXXX----1A---8	Atr
+10	sudů	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9416-023-p6s2
+1	Každý	AAIS1----1A----	Atr
+2	druhý	CrIS1----------	Atr
+3	sud	NNIS1-----A----	Sb
+4	,	Z:-------------	AuxX
+5	který	P4IS4----------	Obj
+6	domácí	AAIP1----1A----	Atr
+7	pivovary	NNIP1-----A----	Sb
+8	kupují	VB-P---3P-AA---	Atr
+9	,	Z:-------------	AuxX
+10	je	VB-S---3P-AA---	Pred
+11	náš	PSYS1-P1-------	Atr
+12	výrobek	NNIS1-----A----	Pnom
+13	.	Z:-------------	AuxK
+
+cmpr9416-023-p6s3
+1	Znamená	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	jsme	VB-P---1P-AA---	AuxV
+6	se	P7-X4----------	Obj
+7	jako	J,-------------	AuxY
+8	nováčci	NNMP1-----A----	AtvV
+9	především	Db-------------	AuxZ
+10	mezi	RR--7----------	AuxP
+11	německými	AAMP7----1A----	Atr
+12	dodavateli	NNMP7-----A----	Adv
+13	prosadili	VpMP---XR-AA---	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9416-023-p7s1
+1	*	Z:-------------	AuxG
+2	Vaší	PSFS7-P2-------	Atr
+3	konkurenční	AAFS7----1A----	Atr
+4	předností	NNFS7-----A----	Pnom
+5	je	VB-S---3P-AA---	Pred
+6	pouze	Db-------------	AuxZ
+7	cena	NNFS1-----A----	Sb
+8	nebo	J^-------------	Coord
+9	nabízíte	VB-P---2P-AA---	Pred
+10	něco	PZ--4----------	Obj
+11	navíc	Db-------------	AdvAtr
+12	?	Z:-------------	AuxK
+
+cmpr9416-023-p8s1
+1	Je	VB-S---3P-AA---	Pred
+2	pravda	NNFS1-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	snažíme	VB-P---1P-AA---	Sb
+7	být	Vf--------A----	Obj
+8	asi	TT-------------	AuxZ
+9	šest	Cn-S4----------	Adv
+10	procent	NNNP2-----A----	Atr
+11	pod	RR--7----------	AuxP
+12	cenovou	AAFS7----1A----	Atr
+13	nabídkou	NNFS7-----A----	Atr
+14	většiny	NNFS2-----A----	Atr
+15	německých	AAFP2----1A----	Atr
+16	firem	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+cmpr9416-023-p8s2
+1	Ovšem	J^-------------	AuxY
+2	někteří	PZMP1----------	Atr
+3	zahraniční	AAMP1----1A----	Atr
+4	výrobci	NNMP1-----A----	Sb
+5	mají	VB-P---3P-AA---	Pred
+6	ještě	Db-------------	AuxZ
+7	nižší	AAFS4----2A----	Atr
+8	cenu	NNFS4-----A----	Obj
+9	a	J^-------------	Coord
+10	jsme	VB-P---1P-AA---	Pred
+11	přesvědčeni	VsMP---XX-AP---	Pnom
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	v	RR--6----------	AuxP
+15	ČR	NNFXX-----A---8	Adv
+16	prodávají	VB-P---3P-AA---	Obj
+17	pod	RR--4----------	AuxP
+18	své	P8YP4---------1	Atr
+19	výrobní	AAIP4----1A----	Atr
+20	náklady	NNIP4-----A----	Adv
+21	.	Z:-------------	AuxK
+
+cmpr9416-023-p8s3
+1	Faktem	NNIS7-----A----	Pnom
+2	také	Db-------------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	naším	PSZS7-P1-------	Atr
+7	vstupem	NNIS7-----A----	Adv
+8	na	RR--4----------	AuxP
+9	trh	NNIS4-----A----	Atr
+10	začal	VpYS---XR-AA---	Sb
+11	trvalý	AAIS1----1A----	Atr
+12	cenový	AAIS1----1A----	Atr
+13	pokles	NNIS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+cmpr9416-023-p8s4
+1	Zatímco	J,-------------	AuxC
+2	před	RR--7----------	AuxP
+3	rokem	NNIS7-----A----	Adv
+4	platily	VpTP---XR-AA---	Adv
+5	pivovary	NNIP1-----A----	Sb
+6	za	RR--4----------	AuxP
+7	KEG	NNXXX-----A---8	Atr
+8	sud	NNIS4-----A----	Obj
+9	průměrně	Dg-------1A----	Adv
+10	1850	C=-------------	Obj
+11	korun	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	v	RR--6----------	AuxP
+14	červnu	NNIS6-----A----	Adv
+15	1993	C=-------------	Atr
+16	to	PDNS1----------	Sb
+17	bylo	VpNS---XR-AA---	Pred
+18	1585	C=-------------	Pnom
+19	Kč	NNFXX-----A----	Atr
+20	a	J^-------------	Coord
+21	v	RR--6----------	AuxP
+22	závěru	NNIS6-----A----	ExD
+23	loňského	AAIS2----1A----	Atr
+24	roku	NNIS2-----A---1	Atr
+25	jen	TT-------------	AuxZ
+26	1334	C=-------------	ExD
+27	Kč	NNFXX-----A----	Atr
+28	.	Z:-------------	AuxK
+
+cmpr9416-023-p8s5
+1	Rozhodně	Dg-------1A----	AuxY
+2	se	P7-X4----------	Obj
+3	však	J^-------------	Coord
+4	nechceme	VB-P---1P-NA---	Pred
+5	prosadit	Vf--------A----	Obj
+6	cenovým	AANS7----1A----	Atr
+7	podbízením	NNNS7-----A----	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9416-023-p10s1
+1	Vycházíme	VB-P---1P-AA---	Pred
+2	z	RR--2----------	AuxP
+3	toho	PDZS2----------	Obj
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	naši	PSMP1-P1-------	Atr
+7	odběratelé	NNMP1-----A----	Sb
+8	nemají	VB-P---3P-NA---	Atr
+9	dostatek	NNIS4-----A----	Obj
+10	peněz	NNIP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+cmpr9416-023-p10s2
+1	Proto	J^-------------	Coord
+2	jsme	VB-P---1P-AA---	AuxV
+3	zvolili	VpMP---XR-AA---	Pred
+4	směnkový	AAIS4----1A----	Atr
+5	způsob	NNIS4-----A----	Obj
+6	obchodu	NNIS2-----A----	Atr
+7	s	RR--7----------	AuxP
+8	13	C=-------------	Adv
+9	procentním	AAIS7----1A----	Atr
+10	úvěrem	NNIS7-----A----	Atr
+11	,	Z:-------------	AuxX
+12	na	RR--6----------	AuxP
+13	němž	P9ZS6----------	Obj
+14	se	P7-X4----------	AuxT
+15	podílí	VB-S---3P-AA---	Atr
+16	Komerční	AAFS1----1A----	Atr
+17	banka	NNFS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+cmpr9416-023-p10s3
+1	Zákazník	NNMS1-----A----	Sb
+2	neplatí	VB-S---3P-NA---	Pred
+3	hotovými	AAIP7----1A----	Atr
+4	penězi	NNIP7-----A----	Adv
+5	a	J^-------------	Coord
+6	my	PP-P1--1-------	Sb
+7	máme	VB-P---1P-AA---	Pred
+8	možnost	NNFS4-----A----	Obj
+9	směnky	NNFP4-----A----	Obj
+10	eskontovat	Vf--------A----	Atr
+11	a	J^-------------	Coord
+12	dostatečně	Dg-------1A----	Adv
+13	rychle	Dg-------1A----	Adv
+14	získat	Vf--------A----	Atr
+15	finanční	AAIP4----1A----	Atr
+16	zdroje	NNIP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+cmpr9416-023-p10s4
+1	Většina	NNFS1-----A----	Sb
+2	obchodů	NNIP2-----A----	Atr
+3	probíhá	VB-S---3P-AA---	Pred
+4	formou	NNFS7-----A----	Adv
+5	směnek	NNFP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+cmpr9416-023-p11s1
+1	*	Z:-------------	AuxG
+2	Můžete	VB-P---2P-AA---	Pred
+3	zákazníkovi	NNMS3-----A----	Obj
+4	nabídnout	Vf--------A----	Obj
+5	i	J^-------------	AuxZ
+6	další	AAFP4----1A----	Atr
+7	výhody	NNFP4-----A----	Obj
+8	?	Z:-------------	AuxK
+
+cmpr9416-023-p12s1
+1	Na	RR--4----------	AuxP
+2	rozdíl	NNIS4-----A----	AuxP
+3	od	RR--2----------	AuxP
+4	zahraničních	AAFP2----1A----	Atr
+5	firem	NNFP2-----A----	Adv
+6	zajišťujeme	VB-P---1P-AA---	Pred
+7	komplexní	AAIS4----1A----	Atr
+8	servis	NNIS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9416-023-p12s2
+1	Do	RR--2----------	AuxP
+2	vzdálenosti	NNFS2-----A----	Adv
+3	160	C=-------------	Atr
+4	kilometrů	NNIP2-----A----	Atr
+5	dodáváme	VB-P---1P-AA---	Pred
+6	zboží	NNNS4-----A----	Obj
+7	zdarma	Db-------------	Adv
+8	.	Z:-------------	AuxK
+
+cmpr9416-023-p12s3
+1	Pivovarům	NNIP3-----A----	Obj
+2	nabízíme	VB-P---1P-AA---	Pred
+3	opravy	NNFP4-----A----	Obj
+4	sudů	NNIP2-----A----	Atr
+5	i	J^-------------	Coord
+6	ventilů	NNIP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+cmpr9416-023-p12s4
+1	Přicházíme	VB-P---1P-AA---	Pred
+2	s	RR--7----------	AuxP
+3	některými	PZXP7----------	Atr
+4	novinkami	NNFP7-----A----	Adv
+5	,	Z:-------------	AuxX
+6	jako	J,-------------	AuxY
+7	je	VB-S---3P-AA---	Apos
+8	nabídka	NNFS1-----A----	Adv
+9	zvedacího	AANS2----1A----	Atr
+10	a	J^-------------	Coord
+11	spouštěcího	AANS2----1A----	Atr
+12	zařízení	NNNS2-----A----	Atr
+13	AUTOKEG	NNXXX-----A---8	Atr
+14	a	J^-------------	Coord
+15	vypalování	NNNS1-----A----	Adv
+16	čárkového	AAIS2----1A----	Atr
+17	kódu	NNIS2-----A----	Atr
+18	laserem	NNIS7-----A----	Adv
+19	,	Z:-------------	AuxX
+20	které	P4NS1----------	Sb
+21	by	Vc-------------	AuxV
+22	umožnilo	VpNS---XR-AA---	Atr
+23	automatickou	AAFS4----1A----	Atr
+24	kontrolu	NNFS4-----A----	Obj
+25	sudů	NNIP2-----A----	Atr
+26	a	J^-------------	Coord
+27	jejich	PSXXXXP3-------	Atr
+28	obsahu	NNIS2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+cmpr9416-023-p13s1
+1	*	Z:-------------	AuxG
+2	Vyskytly	VpTP---XR-AA--1	Pred
+3	se	P7-X4----------	AuxT
+4	ovšem	J^-------------	AuxY
+5	připomínky	NNFP1-----A----	Sb
+6	ke	RV--3----------	AuxP
+7	kvalitě	NNFS3-----A----	Atr
+8	svárů	NNIP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+cmpr9416-023-p14s1
+1	Používáme	VB-P---1P-AA---	Pred
+2	nejmodernější	AAFS4----3A----	Atr
+3	západní	AAFS4----1A----	Atr
+4	technologii	NNFS4-----A----	Obj
+5	i	J^-------------	Coord
+6	nejkvalitnější	AAIS4----3A----	Atr
+7	dovážený	AAIS4----1A----	Atr
+8	materiál	NNIS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	proto	J^-------------	Coord
+11	není	VB-S---3P-NA---	Pred
+12	nejmenší	AAIS1----3A----	Atr
+13	důvod	NNIS1-----A----	Sb
+14	hodnotit	Vf--------A----	Atr
+15	náš	PSIS4-P1-------	Atr
+16	výrobek	NNIS4-----A----	Obj
+17	jako	J,-------------	AuxY
+18	méně	Dg-------2A----	Adv
+19	kvalitní	AAIS4----1A----	Atv
+20	.	Z:-------------	AuxK
+
+cmpr9416-023-p14s2
+1	Dosud	Db-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	neměli	VpMP---XR-NA---	Pred
+4	jedinou	AAFS4----1A----	Atr
+5	reklamaci	NNFS4-----A----	Obj
+6	.	Z:-------------	AuxK
+
+cmpr9416-023-p14s3
+1	Tlakové	AAFP1----1A----	Atr
+2	zkoušky	NNFP1-----A----	Sb
+3	našich	PSXP2-P1-------	Atr
+4	KEG	NNXXX-----A---8	Atr
+5	sudů	NNIP2-----A----	Atr
+6	ostatně	Db-------------	AuxY
+7	potvrzují	VB-P---3P-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	vydrží	VB-P---3P-AA---	Obj
+11	více	Dg-------2A----	Obj
+12	než	J,-------------	AuxC
+13	konkureční	AAIP1----1A----	ExD
+14	.	Z:-------------	AuxK
+

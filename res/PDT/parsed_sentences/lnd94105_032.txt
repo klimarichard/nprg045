@@ -1,0 +1,250 @@
+lnd94105-032-p1s1
+1	Vladimír	NNMS1-----A----	Atr
+2	Dlouhý	NNMS1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	primátora	NNMS4-----A----	Obj
+5	kandidovat	Vf--------A----	Pred
+6	nebude	VB-S---3F-NA---	AuxV
+
+lnd94105-032-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	em	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94105-032-p1s3
+1	Občanská	AAFS1----1A----	Atr
+2	demokratická	AAFS1----1A----	Atr
+3	aliance	NNFS1-----A----	Sb
+4	nemá	VB-S---3P-NA---	Pred
+5	vyhraněné	AAFP4----1A----	Atr
+6	ambice	NNFP4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	funkci	NNFS4-----A----	Atr
+9	pražského	AAMS2----1A----	Atr
+10	primátora	NNMS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94105-032-p1s4
+1	Zda	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	bude	VB-S---3F-AA---	AuxV
+4	o	RR--4----------	AuxP
+5	tento	PDIS4----------	Atr
+6	post	NNIS4-----A----	Obj
+7	ucházet	Vf--------A----	Sb
+8	,	Z:-------------	AuxX
+9	závisí	VB-S---3P-AA---	Pred
+10	na	RR--6----------	AuxP
+11	výsledku	NNIS6-----A----	Obj
+12	komunálních	AAFP2----1A----	Atr
+13	voleb	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94105-032-p1s5
+1	V	RR--6----------	AuxP
+2	žádném	PWZS6----------	Atr
+3	případě	NNIS6-----A----	Adv
+4	však	J^-------------	AuxY
+5	kandidátem	NNMS7-----A----	Pnom
+6	nebude	VB-S---3F-NA---	Pred
+7	Vladimír	NNMS1-----A----	Atr
+8	Dlouhý	NNMS1-----A----	Sb
+9	,	Z:-------------	Coord
+10	jak	Db-------------	Adv
+11	se	P7-X4----------	AuxT
+12	před	RR--7----------	AuxP
+13	časem	NNIS7-----A----	Adv
+14	proslýchalo	VpNS---XR-AA---	Pred
+15	.	Z:-------------	AuxK
+
+lnd94105-032-p1s6
+1	Jméno	NNNS4-----A----	Obj
+2	skutečného	AAMS2----1A----	Atr
+3	kandidáta	NNMS2-----A----	Atr
+4	zatím	Db-------------	Adv
+5	ODA	NNFXX-----A---8	Sb
+6	zveřejnit	Vf--------A----	Obj
+7	nehodlá	VB-S---3P-NA---	Pred
+8	.	Z:-------------	AuxK
+
+lnd94105-032-p1s7
+1	Podle	RR--2----------	AuxP
+2	mluvčího	NNMS2-----A----	Atr
+3	Davida	NNMS2-----A----	Atr
+4	Rožánka	NNMS2-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	strana	NNFS1-----A----	Sb
+7	nyní	Db-------------	Adv
+8	snaží	VB-S---3P-AA---	Pred
+9	sestavit	Vf--------A----	Obj
+10	samostatné	AAFP4----1A----	Atr
+11	kandidátky	NNFP4-----A----	Obj
+12	,	Z:-------------	Coord
+13	což	PE--1----------	Sb
+14	jí	PPFS3--3-------	Obj
+15	nečiní	VB-S---3P-NA---	Pred
+16	problémy	NNIP4-----A----	Obj
+17	v	RR--6----------	AuxP
+18	Praze	NNFS6-----A----	Adv
+19	a	J^-------------	Coord
+20	ve	RV--6----------	AuxP
+21	větších	AANP6----2A----	Atr
+22	městech	NNNP6-----A----	Adv
+23	.	Z:-------------	AuxK
+
+lnd94105-032-p1s8
+1	Tam	Db-------------	Adv
+2	,	Z:-------------	AuxX
+3	kde	Db-------------	Adv
+4	se	P7-X4----------	AuxT
+5	to	PDNS1----------	Sb
+6	nedaří	VB-S---3P-NA---	Adv
+7	,	Z:-------------	AuxX
+8	se	P7-X4----------	AuxT
+9	pokusí	VB-S---3P-AA---	Pred
+10	o	RR--4----------	AuxP
+11	vhodnou	AAFS4----1A----	Atr
+12	kandidátku	NNFS4-----A----	Obj
+13	koaliční	AAFS4----1A----	Atr
+14	,	Z:-------------	AuxX
+15	z	RR--2----------	AuxP
+16	níž	P9FS2----------	Obj
+17	jsou	VB-P---3P-AA---	Atr
+18	předem	Db-------------	Adv
+19	vyloučeni	VsMP---XX-AP---	Pnom
+20	pouze	Db-------------	AuxZ
+21	komunisté	NNMP1-----A----	Sb
+22	a	J^-------------	Coord
+23	Sládkovi	AUMP1M---------	Atr
+24	republikáni	NNMP1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+lnd94105-032-p1s9
+1	Pokud	J,-------------	AuxC
+2	se	P7-X4----------	AuxT
+3	místní	AAFS1----1A----	Atr
+4	organizace	NNFS1-----A----	Sb
+5	rozhodne	VB-S---3P-AA---	Adv
+6	pro	RR--4----------	AuxP
+7	spojenectví	NNNS4-----A----	Obj
+8	se	RV--7----------	AuxP
+9	sociálními	AAMP7----1A----	Atr
+10	demokraty	NNMP7-----A----	Atr
+11	,	Z:-------------	AuxX
+12	centrum	NNNS1-----A----	Sb
+13	nebude	VB-S---3F-NA---	AuxV
+14	nic	PW--4----------	Obj
+15	namítat	Vf--------A----	Pred
+16	.	Z:-------------	AuxK
+
+lnd94105-032-p1s10
+1	ODA	NNFXX-----A---8	Sb
+2	má	VB-S---3P-AA---	Pred
+3	nyní	Db-------------	Adv
+4	řádově	Dg-------1A----	Adv
+5	desítky	NNFP4-----A----	Obj
+6	starostů	NNMP2-----A----	Atr
+7	(	Z:-------------	AuxG
+8	přesné	AANS4----1A----	Atr
+9	číslo	NNNS4-----A----	Obj
+10	na	RR--6----------	AuxP
+11	sekretariátu	NNIS6-----A---1	Adv
+12	ODA	NNFXX-----A---8	Atr
+13	nebylo	VpNS---XR-NA---	Pred
+14	možné	AANS1----1A----	Pnom
+15	zjistit	Vf--------A----	Sb
+16	)	Z:-------------	AuxG
+17	,	Z:-------------	AuxX
+18	např	Db------------8	AuxZ
+19	.	Z:-------------	AuxG
+20	v	RR--6----------	AuxP
+21	Hradci	NNIS6-----A----	Adv
+22	Králové	NNFS2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	Českém	AAIS6----1A----	Atr
+25	Krumlově	NNIS6-----A----	Adv
+26	,	Z:-------------	AuxX
+27	Havlíčkově	AUIS6M---------	Atr
+28	Brodě	NNIS6-----A----	Adv
+29	,	Z:-------------	Coord
+30	Mostě	NNIS6-----A----	Adv
+31	a	J^-------------	Coord
+32	v	RR--6----------	AuxP
+33	pěti	Cn-P6----------	Atr
+34	městských	AAIP6----1A----	Atr
+35	obvodech	NNIP6-----A----	Adv
+36	Prahy	NNFS2-----A----	Atr
+37	.	Z:-------------	AuxK
+
+lnd94105-032-p1s11
+1	Spíše	Dg-------2A---1	Adv
+2	ve	RV--6----------	AuxP
+3	městech	NNNP6-----A----	Adv
+4	než	J,-------------	AuxC
+5	v	RR--6----------	AuxP
+6	menších	AAFP6----2A----	Atr
+7	obcích	NNFP6-----A----	ExD
+8	má	VB-S---3P-AA---	Pred
+9	kolem	RR--2----------	AuxP
+10	200	C=-------------	Atr
+11	členů	NNMP2-----A----	Obj
+12	zastupitelstev	NNNP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd94105-032-p1s12
+1	Neochotu	NNFS4-----A----	Obj
+2	lidí	NNMP2-----A----	Atr
+3	kandidovat	Vf--------A----	Atr
+4	do	RR--2----------	AuxP
+5	komunálních	AAFP2----1A----	Atr
+6	voleb	NNFP2-----A----	Obj
+7	ODA	NNFXX-----A---8	Sb
+8	také	Db-------------	Adv
+9	zaznamenává	VB-S---3P-AA---	Pred
+10	,	Z:-------------	AuxX
+11	nikoli	Db------------1	ExD
+12	prý	TT-------------	ExD
+13	však	J^-------------	Coord
+14	u	RR--2----------	AuxP
+15	vlastních	AAMP2----1A----	Atr
+16	kandidátů	NNMP2-----A----	ExD
+17	.	Z:-------------	AuxK
+
+lnd94105-032-p1s13
+1	Vysvětluje	VB-S---3P-AA---	Pred
+2	si	P7-X3----------	Obj
+3	ji	PPFS4--3-------	Obj
+4	neujasněnými	AANP7----1N----	Atr
+5	pravidly	NNNP7-----A----	Adv
+6	v	RR--6----------	AuxP
+7	hospodaření	NNNS6-----A----	Atr
+8	obcí	NNFP2-----A----	Atr
+9	i	J^-------------	Coord
+10	únavou	NNFS7-----A----	Adv
+11	lidí	NNMP2-----A----	Atr
+12	z	RR--2----------	AuxP
+13	výkonu	NNIS2-----A----	Atr
+14	veřejné	AAFS2----1A----	Atr
+15	správy	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd94105-032-p1s14
+1	Seznamy	NNIP4-----A----	Obj
+2	kandidátů	NNMP2-----A----	Atr
+3	do	RR--2----------	AuxP
+4	komunálních	AAFP2----1A----	Atr
+5	voleb	NNFP2-----A----	Atr
+6	ODA	NNFXX-----A---8	Sb
+7	shromažďuje	VB-S---3P-AA---	Pred
+8	již	Db-------------	AuxZ
+9	nyní	Db-------------	Adv
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	stačila	VpQW---XR-AA---	Adv
+13	zajistit	Vf--------A----	Obj
+14	jejich	PSXXXXP3-------	Atr
+15	lustrace	NNFP4-----A----	Obj
+16	.	Z:-------------	AuxK
+

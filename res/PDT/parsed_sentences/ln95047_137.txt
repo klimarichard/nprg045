@@ -1,0 +1,337 @@
+ln95047-137-p1s1
+1	Sodexho	NNNS1-----A----	Sb
+2	krmí	VB-S---3P-AA---	Pred
+3	i	J^-------------	AuxZ
+4	české	AAMP4----1A----	Atr
+5	jedlíky	NNMP4-----A----	Obj
+
+ln95047-137-p2s1A
+1	Francouzská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	zabezpečuje	VB-S---3P-AA---	Pred
+4	stravování	NNNS4-----A----	Obj
+5	již	Db-------------	AuxZ
+6	ve	RV--6----------	AuxP
+7	více	Dg-------2A----	Atr
+8	než	J,-------------	AuxC
+9	třiceti	Cn-P6----------	Adv
+10	podnicích	NNIP6-----A----	Adv
+11	v	RR--6----------	AuxP
+12	ČR	NNFXX-----A---8	Atr
+
+ln95047-137-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-137-p2s1C
+1	Francouzská	AAFS1----1A----	Atr
+2	firma	NNFS1-----A----	Sb
+3	Sodexho	NNNS1-----A----	Atr
+4	odkoupila	VpQW---XR-AA---	Pred
+5	na	RR--6----------	AuxP
+6	konci	NNIS6-----A----	Adv
+7	letošního	AAIS2----1A----	Atr
+8	ledna	NNIS2-----A----	Atr
+9	100	C=-------------	Obj
+10	procent	NNNP2-----A----	Atr
+11	akcií	NNFP2-----A----	Atr
+12	britské	AAFS2----1A----	Atr
+13	společnosti	NNFS2-----A----	Atr
+14	Garden	AAXXX----1A----	Atr
+15	Merchant	NNMXX-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95047-137-p2s2
+1	S	RR--7----------	AuxP
+2	ročním	AAIS7----1A----	Atr
+3	obratem	NNIS7-----A----	Adv
+4	21.1	C=-------------	Atr
+5	miliardy	NNFS2-----A----	Atr
+6	francouzských	AAIP2----1A----	Atr
+7	franků	NNIP2-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	tak	Db-------------	Adv
+10	stala	VpQW---XR-AA---	Pred
+11	největší	AAFS7----3A----	Atr
+12	světovou	AAFS7----1A----	Atr
+13	firmou	NNFS7-----A----	Obj
+14	poskytující	AGFS7-----A----	Atr
+15	stravovací	AAFP4----1A----	Atr
+16	služby	NNFP4-----A----	Obj
+17	.	Z:-------------	AuxK
+
+ln95047-137-p3s1
+1	Na	RR--4----------	AuxP
+2	český	AAIS4----1A----	Atr
+3	trh	NNIS4-----A----	Adv
+4	vstoupila	VpQW---XR-AA---	Pred
+5	společnost	NNFS1-----A----	Sb
+6	Sodexho	NNNS1-----A----	Atr
+7	v	RR--6----------	AuxP
+8	roce	NNIS6-----A---1	Adv
+9	1992	C=-------------	Atr
+10	po	RR--6----------	AuxP
+11	Eurestu	NNIS6-----A----	Adv
+12	,	Z:-------------	AuxX
+13	který	P4YS1----------	Sb
+14	zde	Db-------------	Adv
+15	začal	VpYS---XR-AA---	Atr
+16	v	RR--6----------	AuxP
+17	oboru	NNIS6-----A----	AuxP
+18	veřejného	AANS2----1A----	Atr
+19	stravování	NNNS2-----A----	Adv
+20	působit	Vf--------A----	Obj
+21	jako	J,-------------	AuxY
+22	vůbec	Db-------------	AuxZ
+23	první	CrIS1----------	Atv
+24	.	Z:-------------	AuxK
+
+ln95047-137-p4s1
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	zabezpečuje	VB-S---3P-AA---	Pred
+5	firma	NNFS1-----A----	Sb
+6	stravování	NNNS4-----A----	Obj
+7	ve	RV--6----------	AuxP
+8	více	Dg-------2A----	Atr
+9	než	J,-------------	AuxC
+10	30	C=-------------	Adv
+11	závodních	AANP6----1A----	Atr
+12	,	Z:-------------	AuxX
+13	školních	AANP6----1A----	Atr
+14	a	J^-------------	Coord
+15	nemocničních	AANP6----1A----	Atr
+16	zařízeních	NNNP6-----A----	Adv
+17	v	RR--6----------	AuxP
+18	České	AAFS6----1A----	Atr
+19	republice	NNFS6-----A----	AtrAdv
+20	.	Z:-------------	AuxK
+
+ln95047-137-p4s2
+1	Přibližně	Dg-------1A----	AuxZ
+2	tisíc	NNIS1-----A----	Sb
+3	zaměstnanců	NNMP2-----A----	Atr
+4	denně	Dg-------1A----	Adv
+5	vyrobí	VB-S---3P-AA---	Pred
+6	27000	C=-------------	Obj
+7	jídel	NNNP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95047-137-p4s3
+1	Nabídka	NNFS1-----A----	Sb
+2	zahrnuje	VB-S---3P-AA---	Pred
+3	kromě	RR--2----------	AuxP
+4	tradičních	AANP2----1A----	Atr
+5	českých	AANP2----1A----	Atr
+6	jídel	NNNP2-----A----	Adv
+7	rovněž	Db-------------	Adv
+8	bezmasé	AAIP4----1A----	Atr
+9	a	J^-------------	Coord
+10	zeleninové	AAIP4----1A----	Atr
+11	pokrmy	NNIP4-----A----	Obj
+12	,	Z:-------------	Coord
+13	rozmanité	AAIP4----1A----	Atr
+14	druhy	NNIP4-----A----	Obj
+15	zeleninových	AAIP2----1A----	Atr
+16	a	J^-------------	Coord
+17	ovocných	AAIP2----1A----	Atr
+18	salátů	NNIP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln95047-137-p4s4
+1	Konkrétní	AAIS1----1A----	Atr
+2	výběr	NNIS1-----A----	Sb
+3	vždy	Db-------------	Adv
+4	záleží	VB-S---3P-AA---	Pred
+5	na	RR--6----------	AuxP
+6	přání	NNNS6-----A----	Obj
+7	zákazníka	NNMS2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95047-137-p4s5
+1	Výroba	NNFS1-----A----	Sb
+2	jídla	NNNS2-----A----	Atr
+3	probíhá	VB-S---3P-AA---	Pred
+4	za	RR--2----------	AuxP
+5	dodržování	NNNS2-----A----	Adv
+6	přísných	AAFP2----1A----	Atr
+7	hygienických	AAFP2----1A----	Atr
+8	podmínek	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95047-137-p5s1
+1	Klienty	NNMP7-----A----	Pnom
+2	Sodexha	NNNS2-----A----	Atr
+3	jsou	VB-P---3P-AA---	Pred
+4	průmyslové	AAIP1----1A----	Atr
+5	závody	NNIP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	státní	AAFP1----1A----	Atr
+8	instituce	NNFP1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	banky	NNFP1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	školy	NNFP1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	nemocnice	NNFP1-----A----	Sb
+15	a	J^-------------	Coord
+16	lázeňská	AANP1----1A----	Atr
+17	zařízení	NNNP1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95047-137-p5s2
+1	Patří	VB-P---3P-AA---	Pred
+2	k	RR--3----------	AuxP
+3	nim	P5XP3--3-------	Obj
+4	například	Db-------------	AuxZ
+5	Nová	AAFS1----1A----	Atr
+6	Huť	NNFS1-----A----	Sb
+7	Ostrava	NNFS1-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Komerční	AAFS1----1A----	Atr
+10	banka	NNFS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	ministerstvo	NNNS1-----A----	Sb
+13	zdravotnictví	NNNS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	základní	AAFS1----1A----	Atr
+16	škola	NNFS1-----A----	Sb
+17	v	RR--6----------	AuxP
+18	Suchdole	NNIS6-----A----	Atr
+19	,	Z:-------------	AuxX
+20	Thomayerova	AUFS1M---------	Atr
+21	nemocnice	NNFS1-----A----	Sb
+22	v	RR--6----------	AuxP
+23	Krči	NNFS6-----A----	Atr
+24	,	Z:-------------	AuxX
+25	Manažerské	AANS1----1A----	Atr
+26	centrum	NNNS1-----A----	Sb
+27	Čelákovice	NNFP1-----A----	Atr
+28	,	Z:-------------	AuxX
+29	Rehabilitační	AAIS1----1A----	Atr
+30	ústav	NNIS1-----A----	Sb
+31	Kladruby	NNFP1-----A----	Atr
+32	a	J^-------------	Coord
+33	další	AAMP1----1A----	Atr
+34	zákazníci	NNMP1-----A----	Sb
+35	.	Z:-------------	AuxK
+
+ln95047-137-p6s1
+1	Společnost	NNFS1-----A----	Sb
+2	Sodexho	NNNS1-----A----	Atr
+3	pracuje	VB-S---3P-AA---	Pred
+4	na	RR--6----------	AuxP
+5	principu	NNIS6-----A----	Adv
+6	stálých	AAFP2----1A----	Atr
+7	cen	NNFP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+ln95047-137-p6s2
+1	Znamená	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	ceny	NNFP1-----A----	Sb
+6	za	RR--4----------	AuxP
+7	stravování	NNNS4-----A----	Atr
+8	zůstávají	VB-P---3P-AA---	Obj
+9	v	RR--6----------	AuxP
+10	průběhu	NNIS6-----A----	AuxP
+11	celého	AAIS2----1A----	Atr
+12	roku	NNIS2-----A---1	Adv
+13	stejné	AAFP1----1A----	Obj
+14	,	Z:-------------	AuxX
+15	dokud	J,-------------	AuxC
+16	inflace	NNFS1-----A----	Sb
+17	nepřesáhne	VB-S---3P-NA---	Adv
+18	5	C=-------------	Adv
+19	%	Z:-------------	Atr
+20	hranici	NNFS4-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln95047-137-p6s3
+1	Ceny	NNFP1-----A----	Sb
+2	u	RR--2----------	AuxP
+3	Sodexha	NNNS2-----A----	Atr
+4	jsou	VB-P---3P-AA---	Pred
+5	srovnatelné	AAFP1----1A----	Pnom
+6	s	RR--7----------	AuxP
+7	částkami	NNFP7-----A----	Obj
+8	,	Z:-------------	AuxX
+9	které	P4FP4----------	Obj
+10	platí	VB-P---3P-AA---	Atr
+11	strávníci	NNMP1-----A----	Sb
+12	v	RR--6----------	AuxP
+13	"	Z:-------------	AuxG
+14	klasických	AAFP6----1A----	Atr
+15	"	Z:-------------	AuxG
+16	jídelnách	NNFP6-----A----	Adv
+17	.	Z:-------------	AuxK
+
+ln95047-137-p6s4
+1	Nízké	AAIP4----1A----	Atr
+2	náklady	NNIP4-----A----	Obj
+3	způsobuje	VB-S---3P-AA---	Pred
+4	především	Db-------------	AuxZ
+5	nákup	NNIS1-----A----	Sb
+6	surovin	NNFP2-----A----	Atr
+7	ve	RV--6----------	AuxP
+8	velkém	AANS6----1A----	Atr
+9	množství	NNNS6-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95047-137-p7s1
+1	Kromě	RR--2----------	AuxP
+2	stravovacích	AAFP2----1A----	Atr
+3	služeb	NNFP2-----A----	Adv
+4	firma	NNFS1-----A----	Sb
+5	Sodexho	NNNS1-----A----	Atr
+6	distribuuje	VB-S---3P-AA---	Pred
+7	stravenky	NNFP4-----A----	Obj
+8	Gastrotur	NNXXX-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95047-137-p7s2
+1	Nálepky	NNFP1-----A----	Sb
+2	s	RR--7----------	AuxP
+3	tímto	PDZS7----------	Atr
+4	označením	NNNS7-----A----	Atr
+5	zdobí	VB-P---3P-AA---	Pred
+6	vstupní	AAFP4----1A----	Atr
+7	dveře	NNFP4-----A----	Obj
+8	velké	AAFS2----1A----	Atr
+9	části	NNFS2-----A----	Atr
+10	běžných	AAFP2----1A----	Atr
+11	restaurací	NNFP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	lahůdkářství	NNNP2-----A----	Atr
+14	a	J^-------------	Coord
+15	vybrané	AAIP4----1A----	Atr
+16	obchody	NNIP4-----A----	Obj
+17	potravinami	NNFP7-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95047-137-p7s3
+1	Kdekoliv	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	objeví	VB-P---3P-AA---	Adv
+4	,	Z:-------------	AuxX
+5	znamená	VB-S---3P-AA---	Pred
+6	to	PDNS1----------	Sb
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	za	RR--4----------	AuxP
+10	stravenky	NNFP4-----A----	Adv
+11	Gastrotur	NNXXX-----A----	Atr
+12	se	P7-X4----------	AuxT
+13	zde	Db-------------	Adv
+14	můžete	VB-P---2P-AA---	Obj
+15	buď	J^-------------	AuxY
+16	najíst	Vf--------A----	Obj
+17	,	Z:-------------	AuxX
+18	nebo	J^-------------	Coord
+19	nakoupit	Vf--------A----	Obj
+20	potraviny	NNFP4-----A----	Obj
+21	.	Z:-------------	AuxK
+

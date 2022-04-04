@@ -1,0 +1,334 @@
+ln94206-34-p1s1
+1	Bouře	NNFS1-----A----	ExD
+2	kolem	RR--2----------	AuxP
+3	Telegrafu	NNIS2-----A----	Atr
+
+ln94206-34-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	mst	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	il	NNXXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94206-34-p2s1B
+1	Šéfredaktor	NNMS1-----A----	Atr
+2	Denního	AAIS2----1A----	Atr
+3	Telegrafu	NNIS2-----A----	Atr
+4	Pavel	NNMS1-----A----	Atr
+5	Šafr	NNMS1-----A----	Sb
+6	včera	Db-------------	Adv
+7	akceptoval	VpYS---XR-AA---	Pred
+8	požadavek	NNIS4-----A----	Obj
+9	vydavatele	NNMS2-----A----	Atr
+10	a	J^-------------	Coord
+11	odstoupil	VpYS---XR-AA---	Pred
+12	z	RR--2----------	AuxP
+13	funkce	NNFS2-----A----	Obj
+14	.	Z:-------------	AuxK
+
+ln94206-34-p2s2
+1	Zároveň	Db-------------	Adv
+2	podali	VpMP---XR-AA---	Pred
+3	výpověď	NNFS4-----A----	Obj
+4	jeho	PSXXXZS3-------	Atr
+5	zástupci	NNMP1-----A----	Sb
+6	a	J^-------------	Coord
+7	většina	NNFS1-----A----	Sb
+8	kmenových	AAMP2----1A----	Atr
+9	redaktorů	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94206-34-p2s3
+1	Šafra	NNMS4-----A----	Obj
+2	ve	RV--6----------	AuxP
+3	funkci	NNFS6-----A----	Adv
+4	vystřídá	VB-S---3P-AA---	Pred
+5	dosavadní	AAMS1----1A----	Atr
+6	redaktor	NNMS1-----A----	Atr
+7	listu	NNIS2-----A----	Atr
+8	Viktor	NNMS1-----A----	Atr
+9	Krejčí	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94206-34-p2s4
+1	Podle	RR--2----------	AuxP
+2	Šafra	NNMS2-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	Krejčí	NNMS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	jenž	PJYS1----------	Sb
+7	v	RR--6----------	AuxP
+8	Telegrafu	NNIS6-----A----	Adv
+9	připravuje	VB-S---3P-AA---	Atr
+10	pravidelné	AAIP4----1A----	Atr
+11	rozhovory	NNIP4-----A----	Obj
+12	s	RR--7----------	AuxP
+13	V	NNMXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Klausem	NNMS7-----A----	Atr
+16	,	Z:-------------	AuxX
+17	spjat	ACYS------A----	Pnom
+18	s	RR--7----------	AuxP
+19	vedením	NNNS7-----A----	Obj
+20	ODS	NNFXX-----A---8	Atr
+21	a	J^-------------	Coord
+22	samozřejmě	Dg-------1A----	ExD
+23	zcela	Db-------------	Adv
+24	poslušný	AAMS1----1A----	ExD
+25	.	Z:-------------	AuxK
+
+ln94206-34-p2s5
+1	Krejčí	NNMS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	k	RR--3----------	AuxP
+4	celé	AAFS3----1A----	Atr
+5	záležitosti	NNFS3-----A----	Obj
+6	odmítl	VpYS---XR-AA--1	Pred
+7	vyjádřit	Vf--------A----	Obj
+8	.	Z:-------------	AuxK
+
+ln94206-34-p3s1
+1	P	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Šafr	NNMS1-----A----	Sb
+4	včera	Db-------------	Adv
+5	LN	NNFPX-----A---8	Obj
+6	řekl	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	vedení	NNNS1-----A----	Sb
+10	a	AAXXX----1A---8	Atr
+11	.	Z:-------------	AuxG
+12	s	NNFXX-----A---8	Atr
+13	.	Z:-------------	AuxG
+14	Integra	NNFS1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	která	P4FS1----------	Sb
+17	je	VB-S---3P-AA---	Atr
+18	dceřinou	AAFS7----1A----	Atr
+19	společností	NNFS7-----A----	Pnom
+20	Investiční	AAFS2----1A----	Atr
+21	a	J^-------------	Coord
+22	poštovní	AAFS2----1A----	Atr
+23	banky	NNFS2-----A----	Atr
+24	(	Z:-------------	Apos
+25	IPB	NNFXX-----A---8	Atr
+26	)	Z:-------------	AuxG
+27	a	J^-------------	Coord
+28	vydává	VB-S---3P-AA---	Atr
+29	Telegraf	NNIS4-----A----	Obj
+30	,	Z:-------------	AuxX
+31	zdůvodnilo	VpNS---XR-AA---	Obj
+32	požadavek	NNIS4-----A----	Obj
+33	na	RR--4----------	AuxP
+34	jeho	PSXXXZS3-------	Atr
+35	odchod	NNIS4-----A----	Atr
+36	nesouhlasem	NNIS7-----A----	Adv
+37	s	RR--7----------	AuxP
+38	ideovým	AANS7----1A----	Atr
+39	zaměřením	NNNS7-----A----	Atr
+40	listu	NNIS2-----A----	Atr
+41	.	Z:-------------	AuxK
+
+ln94206-34-p3s3
+1	Konflikt	NNIS1-----A----	Sb
+2	nastal	VpYS---XR-AA---	Obj
+3	po	RR--6----------	AuxP
+4	zveřejnění	NNNS6-----A----	Adv
+5	několika	Ca--2----------	Atr
+6	kritických	AAIP2----1A----	Atr
+7	komentářů	NNIP2-----A----	Atr
+8	o	RR--6----------	AuxP
+9	možné	AAFS6----1A----	Atr
+10	privatizaci	NNFS6-----A----	Atr
+11	petrochemie	NNFS2-----A----	Atr
+12	tzv	AAXXX----1A---8	Atr
+13	.	Z:-------------	AuxG
+14	českou	AAFS7----1A----	Atr
+15	cestou	NNFS7-----A----	Atr
+16	,	Z:-------------	AuxX
+17	kterou	P4FS4----------	Obj
+18	část	NNFS1-----A----	Sb
+19	ODS	NNFXX-----A---8	Atr
+20	podporovala	VpQW---XR-AA---	Atr
+21	,	Z:-------------	AuxX
+22	řekl	VpYS---XR-AA---	Pred
+23	Šafr	NNMS1-----A----	Sb
+24	.	Z:-------------	AuxK
+
+ln94206-34-p3s4
+1	Je	VB-S---3P-AA---	Pred
+2	přesvědčen	VsYS---XX-AP---	Pnom
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	k	RR--3----------	AuxP
+6	výměně	NNFS3-----A----	Obj
+7	šéfredaktora	NNMS2-----A----	Atr
+8	došlo	VpNS---XR-AA---	Obj
+9	po	RR--6----------	AuxP
+10	přímé	AAFS6----1A----	Atr
+11	intervenci	NNFS6-----A----	Adv
+12	výkonného	AAMS2----1A----	Atr
+13	místopředsedy	NNMS2-----A----	Atr
+14	ODS	NNFXX-----A---8	Atr
+15	P	NNMXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	Čermáka	NNMS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94206-34-p3s5
+1	Mám	VB-S---1P-AA---	Obj
+2	potvrzeno	VsNS---XX-AP---	Atv
+3	ze	RV--2----------	AuxP
+4	zdroje	NNIS2-----A----	Adv
+5	z	RR--2----------	AuxP
+6	hlavní	AAFS2----1A----	Atr
+7	kanceláře	NNFS2-----A----	Atr
+8	ODS	NNFXX-----A---8	Atr
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	o	RR--6----------	AuxP
+12	mém	PSZS6-S1-------	Atr
+13	odvolání	NNNS6-----A----	Obj
+14	Čermák	NNMS1-----A----	Sb
+15	skutečně	Dg-------1A----	Adv
+16	jednal	VpYS---XR-AA---	Obj
+17	,	Z:-------------	AuxX
+18	tvrdí	VB-S---3P-AA---	Pred
+19	Šafr	NNMS1-----A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94206-34-p3s6
+1	Vím	VB-S---1P-AA---	Obj
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	každé	AANS1----1A----	Atr
+5	rozhodnutí	NNNS1-----A----	Sb
+6	o	RR--6----------	AuxP
+7	Telegrafu	NNIS6-----A----	Atr
+8	se	P7-X4----------	AuxR
+9	konzultovalo	VpNS---XR-AA---	Obj
+10	v	RR--6----------	AuxP
+11	hlavní	AAFS6----1A----	Atr
+12	kanceláři	NNFS6-----A----	Adv
+13	ODS	NNFXX-----A---8	Atr
+14	,	Z:-------------	AuxX
+15	řekl	VpYS---XR-AA---	Pred
+16	.	Z:-------------	AuxK
+
+ln94206-34-p3s7
+1	Čermák	NNMS1-----A----	Sb
+2	Šafrova	AUNP4M---------	Atr
+3	tvrzení	NNNP4-----A----	Obj
+4	označil	VpYS---XR-AA---	Pred
+5	za	RR--4----------	AuxP
+6	nesmysl	NNIS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln94206-34-p4s1
+1	Společnost	NNFS1-----A----	Sb
+2	Integra	NNFS1-----A----	Atr
+3	má	VB-S---3P-AA---	Pred
+4	jako	J,-------------	AuxY
+5	vydavatel	NNMS1-----A----	Atv
+6	právo	NNNS4-----A----	Obj
+7	provádět	Vf--------A----	Atr
+8	změny	NNFP4-----A----	Obj
+9	ve	RV--6----------	AuxP
+10	vedení	NNNS6-----A----	Atr
+11	listu	NNIS2-----A----	Atr
+12	a	J^-------------	Coord
+13	řídí	VB-S---3P-AA---	Pred
+14	se	P7-X4----------	AuxT
+15	přitom	Db-------------	Adv
+16	především	Db-------------	AuxZ
+17	ekonomickými	AAIP7----1A----	Atr
+18	zájmy	NNIP7-----A----	Obj
+19	.	Z:-------------	AuxK
+
+ln94206-34-p4s2
+1	Sdělil	VpYS---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	mluvčí	NNMS1-----A----	Atr
+4	IPB	NNFXX-----A---8	Atr
+5	J	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Rezek	NNMS1-----A----	Sb
+8	s	RR--7----------	AuxP
+9	tím	PDZS7----------	Adv
+10	,	Z:-------------	AuxX
+11	že	J,-------------	AuxC
+12	Integra	NNFS1-----A----	Sb
+13	nepodléhá	VB-S---3P-NA---	Atr
+14	politickým	AAIP3----1A----	Atr
+15	tlakům	NNIP3-----A----	Obj
+16	.	Z:-------------	AuxK
+
+ln94206-34-p4s3
+1	Podle	RR--2----------	AuxP
+2	informací	NNFP2-----A----	Adv
+3	LN	NNFPX-----A---8	Atr
+4	však	J^-------------	Coord
+5	náklad	NNIS1-----A----	Sb
+6	Telegrafu	NNIS2-----A----	Atr
+7	nástupem	NNIS7-----A----	Adv
+8	Šafra	NNMS2-----A----	Atr
+9	stoupl	VpYS---XR-AA--1	Pred
+10	přibližně	Dg-------1A----	Adv
+11	o	RR--4----------	AuxP
+12	10	C=-------------	Adv
+13	tisíc	ClXS2----------	Atr
+14	výtisků	NNIP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94206-34-p5s1
+1	Na	RR--4----------	AuxP
+2	dotaz	NNIS4-----A----	Adv
+3	LN	NNFPX-----A---8	Atr
+4	,	Z:-------------	AuxX
+5	kdo	PKM-1----------	Sb
+6	ve	RV--6----------	AuxP
+7	vedení	NNNS6-----A----	Adv
+8	IPB	NNFXX-----A---8	Atr
+9	zastupuje	VB-S---3P-AA---	Atr
+10	stát	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	mluvčí	NNMS1-----A----	Atr
+13	banky	NNFS2-----A----	Atr
+14	Rezek	NNMS1-----A----	Sb
+15	řekl	VpYS---XR-AA---	Pred
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	v	RR--6----------	AuxP
+19	dozorčí	AAFS6----1A----	Atr
+20	radě	NNFS6-----A----	Adv
+21	sedí	VB-S---3P-AA---	Obj
+22	např	Db------------8	AuxZ
+23	.	Z:-------------	AuxG
+24	předseda	NNMS1-----A----	Atr
+25	poradců	NNMP2-----A----	Atr
+26	premiéra	NNMS2-----A----	Atr
+27	Klause	NNMS2-----A----	Atr
+28	J	NNMXX-----A---8	Atr
+29	.	Z:-------------	AuxG
+30	Weigl	NNMS1-----A----	Sb
+31	a	J^-------------	Coord
+32	náměstek	NNMS1-----A----	Atr
+33	ministra	NNMS2-----A----	Atr
+34	financí	NNFP2-----A----	Atr
+35	M	NNMXX-----A---8	Atr
+36	.	Z:-------------	AuxG
+37	Téra	NNMS1-----A----	Sb
+38	.	Z:-------------	AuxK
+
+ln94206-34-p5s2
+1	V	RR--6----------	AuxP
+2	IPB	NNFXX-----A---8	Adv
+3	má	VB-S---3P-AA---	Pred
+4	většinový	AAIS4----1A----	Atr
+5	podíl	NNIS4-----A----	Obj
+6	stát	NNIS1-----A----	Sb
+7	.	Z:-------------	AuxK
+

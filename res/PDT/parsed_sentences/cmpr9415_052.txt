@@ -1,0 +1,176 @@
+cmpr9415-052-p2s1
+1	Soutěž	NNFS1-----A----	ExD
+2	za	RR--4----------	AuxP
+3	statisíce	NNIP4-----A----	Atr
+
+cmpr9415-052-p3s1
+1	V	RR--6----------	AuxP
+2	připravované	AAFS6----1A----	Atr
+3	akci	NNFS6-----A----	Adv
+4	Profitu	NNIS2-----A----	Atr
+5	získáte	VB-P---2P-AA---	Pred
+6	-	Z:-------------	AuxG
+7	motocykl	NNIS4-----A----	Obj
+8	,	Z:-------------	Coord
+9	fax	NNIS4-----A----	Obj
+
+cmpr9415-052-p4s1
+1	Do	RR--2----------	AuxP
+2	připravované	AAFS2----1A----	Atr
+3	soutěže	NNFS2-----A----	Adv
+4	,	Z:-------------	AuxX
+5	kterou	P4FS4----------	Obj
+6	připravuje	VB-S---3P-AA---	Atr
+7	Profit	NNIS1-----A----	Sb
+8	,	Z:-------------	AuxX
+9	se	P7-X4----------	AuxT
+10	nám	PP-P3--1-------	Obj
+11	podařilo	VpNS---XR-AA---	Pred
+12	získat	Vf--------A----	Obj
+13	pro	RR--4----------	AuxP
+14	své	P8YP4---------1	Atr
+15	předplatitele	NNMP4-----A----	Atr
+16	a	J^-------------	Coord
+17	čtenáře	NNMP4-----A----	Atr
+18	další	AAFS4----1A----	Atr
+19	cenu	NNFS4-----A----	Obj
+20	,	Z:-------------	Coord
+21	je	VB-S---3P-AA---	Pred
+22	to	PDNS1----------	Pnom
+23	letecký	AAIS1----1A----	Atr
+24	zájezd	NNIS1-----A----	Sb
+25	do	RR--2----------	AuxP
+26	Turecka	NNNS2-----A----	Atr
+27	pro	RR--4----------	AuxP
+28	dvě	ClHP4----------	Atr
+29	osoby	NNFP4-----A----	Atr
+30	.	Z:-------------	AuxK
+
+cmpr9415-052-p4s2
+1	Hlavní	AAFS7----1A----	Atr
+2	cenou	NNFS7-----A----	Obj
+3	celé	AAFS2----1A----	Atr
+4	soutěže	NNFS2-----A----	Atr
+5	zůstává	VB-S---3P-AA---	Pred
+6	motocykl	NNIS1-----A----	Sb
+7	Roadster	NNIS1-----A----	Atr
+8	521	C=-------------	Atr
+9	firmy	NNFS2-----A----	Atr
+10	ČZ	NNFXX-----A----	Atr
+11	Cagiva	NNFS1-----A----	Atr
+12	Strakonice	NNFP1-----A----	Atr
+13	za	RR--4----------	AuxP
+14	zhruba	Db-------------	Adv
+15	sto	NNNS4-----A----	Atr
+16	tisíc	ClXS2----------	Atr
+17	korun	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9415-052-p5s1
+1	Vyhrát	Vf--------A----	Obj
+2	ovšem	J^-------------	Coord
+3	můžete	VB-P---2P-AA---	Pred
+4	i	J^-------------	AuxY
+5	další	AAFP4----1A----	Obj
+6	z	RR--2----------	AuxP
+7	cen	NNFP2-----A----	Atr
+8	-	Z:-------------	Apos
+9	barevný	AAIS4----1A----	Atr
+10	televizor	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	bezdrátový	AAIS4----1A----	Atr
+13	telefonní	AAIS4----1A----	Atr
+14	přístroj	NNIS4-----A----	Obj
+15	a	J^-------------	Coord
+16	další	AAIP4----1A----	Atr
+17	atraktivní	AAIP4----1A----	Atr
+18	předměty	NNIP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+cmpr9415-052-p5s2
+1	To	PDNS1----------	Sb
+2	všechno	PLNS1----------	Atr
+3	je	VB-S---3P-AA---	Pred
+4	připraveno	VsNS---XX-AP---	Pnom
+5	pro	RR--4----------	AuxP
+6	účastníky	NNMP4-----A----	Adv
+7	chystané	AAFS2----1A----	Atr
+8	soutěže	NNFS2-----A----	Atr
+9	Profitu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	kterou	P4FS4----------	Obj
+12	v	RR--6----------	AuxP
+13	nejbližší	AAFS6----3A----	Atr
+14	době	NNFS6-----A----	Adv
+15	náš	PSYS1-P1-------	Atr
+16	list	NNIS1-----A----	Sb
+17	zahájí	VB-S---3P-AA---	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9415-052-p6s1
+1	Celkem	Db-------------	Adv
+2	jsou	VB-P---3P-AA---	Pred
+3	pak	Db-------------	Adv
+4	připraveny	VsTP---XX-AP---	Pnom
+5	ceny	NNFP1-----A----	Sb
+6	za	RR--4----------	AuxP
+7	statisíce	NNIP4-----A----	Atr
+8	a	J^-------------	Coord
+9	šanci	NNFS4-----A----	Obj
+10	dostane	VB-S---3P-AA---	Pred
+11	vlastně	Db-------------	Adv
+12	každý	AAMS1----1A----	Sb
+13	z	RR--2----------	AuxP
+14	našich	PSXP2-P1-------	Atr
+15	předplatitelů	NNMP2-----A----	Atr
+16	a	J^-------------	Coord
+17	čtenářů	NNMP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9415-052-p7s1
+1	Pokud	J,-------------	AuxC
+2	vás	PP-P4--2-------	Obj
+3	zajímavé	AAFP1----1A----	Atr
+4	ceny	NNFP1-----A----	Sb
+5	zlákaly	VpTP---XR-AA---	Adv
+6	,	Z:-------------	AuxX
+7	věnujte	Vi-P---2--A----	Pred
+8	nám	PP-P3--1-------	Obj
+9	i	J^-------------	AuxZ
+10	nadále	Db-------------	Adv
+11	svou	P8FS4---------1	Atr
+12	přízeň	NNFS4-----A----	Obj
+13	a	J^-------------	Coord
+14	zájem	NNIS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	a	J^-------------	Coord
+17	sledujte	Vi-P---2--A----	Pred
+18	náš	PSIS4-P1-------	Atr
+19	list	NNIS4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	kde	Db-------------	Adv
+22	se	P7-X4----------	AuxT
+23	dozvíte	VB-P---2P-AA---	Atr
+24	další	AAFP4----1A----	Atr
+25	informace	NNFP4-----A----	Obj
+26	o	RR--6----------	AuxP
+27	této	PDFS6----------	Atr
+28	chystané	AAFS6----1A----	Atr
+29	čtenářské	AAFS6----1A----	Atr
+30	soutěži	NNFS6-----A----	Atr
+31	o	RR--4----------	AuxP
+32	hodnotné	AAFP4----1A----	Atr
+33	ceny	NNFP4-----A----	Atr
+34	.	Z:-------------	AuxK
+
+cmpr9415-052-p7s2
+1	Věříme	VB-P---1P-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	s	RR--7----------	AuxP
+5	Profitem	NNIS7-----A----	Adv
+6	vás	PP-P4--2-------	Obj
+7	štěstí	NNNS1-----A----	Sb
+8	neopustí	VB-S---3P-NA---	Obj
+9	.	Z:-------------	AuxK
+

@@ -1,0 +1,113 @@
+ln95048-008-p1s1
+1	ČeTel	NNIS1-----A----	ExD
+2	uchazečem	NNMS7-----A----	ExD
+3	o	RR--4----------	AuxP
+4	český	AAIS4----1A----	Atr
+5	telecom	NNIS4-----A----	Atr
+
+ln95048-008-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95048-008-p2s1B
+1	Konsorcium	NNNS1-----A----	Sb
+2	ČeTel	NNIS1-----A----	Atr
+3	,	Z:-------------	AuxX
+4	který	P4IS4----------	Obj
+5	založila	VpQW---XR-AA---	Atr
+6	americká	AAFS1----1A----	Atr
+7	firma	NNFS1-----A----	Sb
+8	Ameritech	NNIS1-----A----	Atr
+9	společně	Dg-------1A----	AuxP
+10	s	RR--7----------	AuxP
+11	německým	AAIS7----1A----	Atr
+12	Deutsche	AAXXX----1A----	Atr
+13	Telekom	NNISX-----A----	Adv
+14	,	Z:-------------	AuxX
+15	se	P7-X4----------	AuxT
+16	uchází	VB-S---3P-AA---	Pred
+17	o	RR--4----------	AuxP
+18	partnerství	NNNS4-----A----	Obj
+19	v	RR--6----------	AuxP
+20	SPT	NNIXX-----A---8	Atr
+21	Telecom	NNIS1-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln95048-008-p3s1
+1	Ameritech	NNIS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	jednou	ClFS7----------	Pnom
+4	z	RR--2----------	AuxP
+5	největších	AAFP2----3A----	Atr
+6	světových	AAFP2----1A----	Atr
+7	telekomunikačních	AAFP2----1A----	Atr
+8	společností	NNFP2-----A----	Atr
+9	poskytujících	AGFP2-----A----	Atr
+10	komplexní	AAFP4----1A----	Atr
+11	služby	NNFP4-----A----	Obj
+12	.	Z:-------------	AuxK
+
+ln95048-008-p3s2
+1	Podle	RR--2----------	AuxP
+2	její	PSFSXFS3-------	Atr
+3	informace	NNFS2-----A----	Adv
+4	je	VB-S---3P-AA---	AuxV
+5	v	RR--6----------	AuxP
+6	odborných	AAIP6----1A----	Atr
+7	kruzích	NNIP6-----A----	Adv
+8	řazena	VsQW---XX-AP---	Pred
+9	na	RR--4----------	AuxP
+10	první	CrNS4----------	Atr
+11	místo	NNNS4-----A----	Adv
+12	v	RR--6----------	AuxP
+13	USA	NNIPX-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95048-008-p4s1
+1	Deutsche	AAXXX----1A----	Atr
+2	Telekom	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	největší	AAFS7----3A----	Atr
+5	telekomunikační	AAFS7----1A----	Atr
+6	společností	NNFS7-----A----	Pnom
+7	v	RR--6----------	AuxP
+8	Německu	NNNS6-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95048-008-p4s2
+1	Tato	PDFS1----------	Atr
+2	firma	NNFS1-----A----	Sb
+3	během	RR--2----------	AuxP
+4	dvou	ClXP2----------	Atr
+5	let	NNNP2-----A----	Adv
+6	modernizovala	VpQW---XR-AA---	Pred
+7	zastaralé	AAFP4----1A----	Atr
+8	telekomunikační	AAFP4----1A----	Atr
+9	sítě	NNFP4-----A----	Obj
+10	v	RR--6----------	AuxP
+11	bývalé	AAFS6----1A----	Atr
+12	NDR	NNFXX-----A---8	AdvAtr
+13	a	J^-------------	Coord
+14	realizovala	VpQW---XR-AA---	Pred
+15	v	RR--6----------	AuxP
+16	nových	AAFP6----1A----	Atr
+17	spolkových	AAFP6----1A----	Atr
+18	zemích	NNFP6-----A----	Adv
+19	přes	RR--4----------	AuxP
+20	dva	ClYP4----------	Atr
+21	milióny	NNIP4-----A----	Obj
+22	nových	AAFP2----1A----	Atr
+23	telefonních	AAFP2----1A----	Atr
+24	linek	NNFP2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95048-008-p4s3
+1	Od	RR--2----------	AuxP
+2	letošního	AAIS2----1A----	Atr
+3	ledna	NNIS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	stala	VpQW---XR-AA---	Pred
+6	akciovou	AAFS7----1A----	Atr
+7	společností	NNFS7-----A----	Obj
+8	.	Z:-------------	AuxK
+

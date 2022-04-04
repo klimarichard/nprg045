@@ -1,0 +1,102 @@
+mf920922-113-p1s1
+1	Chemické	AAFP1----1A----	Atr
+2	zbraně	NNFP1-----A----	ExD
+3	ke	RV--3----------	AuxP
+4	kontrole	NNFS3-----A----	ExD
+
+mf920922-113-p2s1
+1	IRÁK	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxK
+
+mf920922-113-p3s1
+1	Chemické	AAFP1----1A----	Atr
+2	zbraně	NNFP1-----A----	ExD
+3	ke	RV--3----------	AuxP
+4	kontrole	NNFS3-----A----	ExD
+
+mf920922-113-p4s1
+1	Bagdád	NNIS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+mf920922-113-p4s2
+1	Skupina	NNFS1-----A----	Sb
+2	inspektorů	NNMP2-----A----	Atr
+3	OSN	NNFXX-----A---8	Atr
+4	,	Z:-------------	Apos
+5	odborníků	NNMP2-----A----	Atr
+6	na	RR--4----------	AuxP
+7	chemické	AAFP4----1A----	Atr
+8	zbraně	NNFP4-----A----	Atr
+9	,	Z:-------------	AuxX
+10	přicestovala	VpQW---XR-AA---	Pred
+11	včera	Db-------------	Adv
+12	do	RR--2----------	AuxP
+13	Bagdádu	NNIS2-----A----	Adv
+14	,	Z:-------------	AuxX
+15	aby	J,-------------	AuxC
+16	pokračovala	VpQW---XR-AA---	Adv
+17	v	RR--6----------	AuxP
+18	prověřování	NNNS6-----A----	Obj
+19	množství	NNNS2-----A----	Atr
+20	zbraní	NNFP2-----A----	Atr
+21	a	J^-------------	Coord
+22	chemických	AAIP2----1A----	Atr
+23	prostředků	NNIP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	které	P4YP4----------	Obj
+26	Irák	NNIS1-----A----	Sb
+27	vlastní	VB-S---3P-AA---	Atr
+28	.	Z:-------------	AuxK
+
+mf920922-113-p4s3
+1	Ve	RV--6----------	AuxP
+2	zbrojovce	NNFS6-----A----	Adv
+3	v	RR--6----------	AuxP
+4	Mutaně	NNFS6-----A----	Atr
+5	,	Z:-------------	AuxX
+6	130	C=-------------	Adv
+7	kilometrů	NNIP2-----A----	Atr
+8	od	RR--2----------	AuxP
+9	Bagdádu	NNIS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	je	VB-S---3P-AA---	AuxV
+12	skladováno	VsNS---XX-AP---	Pred
+13	30000	C=-------------	Sb
+14	až	J^-------------	Coord
+15	40000	C=-------------	Sb
+16	bomb	NNFP2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	raket	NNFP2-----A----	Atr
+19	a	J^-------------	Coord
+20	nábojů	NNIP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf920922-113-p4s4
+1	Zařízení	NNNP1-----A----	Sb
+2	na	RR--4----------	AuxP
+3	ničení	NNNS4-----A----	Atr
+4	chemických	AAFP2----1A----	Atr
+5	zbraní	NNFP2-----A----	Atr
+6	v	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	zbrojovce	NNFS6-----A----	AtrAtr
+9	jsou	VB-P---3P-AA---	Pred
+10	údajně	Dg-------1A----	Adv
+11	již	Db-------------	AuxZ
+12	dokončena	VsQW---XX-AP---	Pnom
+13	.	Z:-------------	AuxK
+
+mf920922-113-p4s5
+1	Podle	RR--2----------	AuxP
+2	expertů	NNMP2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	likvidační	AAFP1----1A----	Atr
+5	práce	NNFP1-----A----	Sb
+6	měly	VpTP---XR-AA---	Pred
+7	trvat	Vf--------A----	Obj
+8	šest	Cn-S4----------	Adv
+9	měsíců	NNIP2-----A----	Atr
+10	až	J^-------------	Coord
+11	rok	NNIS4-----A----	Adv
+12	.	Z:-------------	AuxK
+

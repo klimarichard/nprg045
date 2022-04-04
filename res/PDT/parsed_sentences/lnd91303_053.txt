@@ -1,0 +1,286 @@
+lnd91303-053-p1s1
+1	Otázka	NNFS1-----A----	ExD
+2	pro	RR--4----------	AuxP
+3	ministra	NNMS4-----A----	Atr
+4	financí	NNFP2-----A----	Atr
+5	ČR	NNFXX-----A---8	Atr
+6	Karla	NNMS4-----A----	Atr
+7	Špačka	NNMS4-----A----	Atr
+
+lnd91303-053-p2s1
+1	Jaká	P4FS1----------	Atr
+2	část	NNFS1-----A----	Sb
+3	rozpočtu	NNIS2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	bude	VB-S---3F-AA---	AuxV
+6	týkat	Vf--------A----	Pred
+7	okresů	NNIP2-----A----	Obj
+8	?	Z:-------------	AuxK
+
+lnd91303-053-p3s1
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	značná	AAFS1----1A----	Atr
+4	částka	NNFS1-----A----	Pnom
+5	,	Z:-------------	AuxX
+6	přes	RR--4----------	AuxP
+7	68	C=-------------	Atr
+8	miliard	NNFP2-----A----	Atr
+9	korun	NNFP2-----A----	Atr
+10	z	RR--2----------	AuxP
+11	celkového	AAIS2----1A----	Atr
+12	objemu	NNIS2-----A----	Atr
+13	266	C=-------------	Atr
+14	miliard	NNFP2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd91303-053-p3s2
+1	Rozdělili	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	ji	PPFS4--3-------	Obj
+4	novým	AAIS7----1A----	Atr
+5	způsobem	NNIS7-----A----	Adv
+6	-	Z:-------------	Apos
+7	z	RR--2----------	AuxP
+8	80	C=-------------	Atr
+9	%	Z:-------------	ExD
+10	na	RR--6----------	AuxP
+11	základě	NNIS6-----A----	ExD
+12	objektivizovaných	AAIP2----1A----	Atr
+13	ukazatelů	NNIP2-----A----	Atr
+14	a	J^-------------	Coord
+15	jen	TT-------------	AuxZ
+16	z	RR--2----------	AuxP
+17	20	C=-------------	Atr
+18	%	Z:-------------	ExD
+19	podle	RR--2----------	AuxP
+20	individuálního	AANS2----1A----	Atr
+21	posouzení	NNNS2-----A----	ExD
+22	.	Z:-------------	AuxK
+
+lnd91303-053-p3s3
+1	Usnadnilo	VpNS---XR-AA---	Pred
+2	nám	PP-P3--1-------	Obj
+3	to	PDNS1----------	Sb
+4	projednávání	NNNS4-----A----	Obj
+5	a	J^-------------	Coord
+6	zaručilo	VpNS---XR-AA---	Pred
+7	spravedlivější	AANS4----2A----	Atr
+8	dělení	NNNS4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+lnd91303-053-p3s4
+1	Ukázalo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	mezi	RR--7----------	AuxP
+6	okresy	NNIP7-----A----	Adv
+7	existují	VB-P---3P-AA---	Obj
+8	velké	AAIP1----1A----	Atr
+9	rozdíly	NNIP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	které	P4IP1----------	Sb
+12	by	Vc-------------	AuxV
+13	někde	Db-------------	Adv
+14	vedly	VpTP---XR-AA---	Atr
+15	ke	RV--3----------	AuxP
+16	snížení	NNNS3-----A----	Adv
+17	dotací	NNFP2-----A----	Atr
+18	proti	RR--3----------	AuxP
+19	roku	NNIS3-----A----	Atr
+20	1991	C=-------------	Atr
+21	,	Z:-------------	Coord
+22	někde	Db-------------	ExD
+23	zase	Db-------------	ExD
+24	ke	RV--3----------	AuxP
+25	zvýšení	NNNS3-----A----	ExD
+26	.	Z:-------------	AuxK
+
+lnd91303-053-p3s5
+1	Proto	J^-------------	Adv
+2	jsme	VB-P---1P-AA---	AuxV
+3	se	P7-X4----------	AuxT
+4	řídili	VpMP---XR-AA---	Pred
+5	zásadou	NNFS7-----A----	Adv
+6	nic	PW--4----------	Obj
+7	proti	RR--3----------	AuxP
+8	letošnímu	AAIS3----1A----	Atr
+9	roku	NNIS3-----A----	Adv
+10	nesnižovat	Vf--------N----	Atr
+11	.	Z:-------------	AuxK
+
+lnd91303-053-p3s6
+1	Takže	J,-------------	AuxC
+2	tam	Db-------------	Adv
+3	,	Z:-------------	AuxX
+4	kde	Db-------------	Adv
+5	by	Vc-------------	AuxV
+6	podle	RR--2----------	AuxP
+7	výpočtu	NNIS2-----A----	Adv
+8	dostali	VpMP---XR-AA---	Adv
+9	méně	Dg-------2A----	Obj
+10	,	Z:-------------	AuxX
+11	jsme	VB-P---1P-AA---	AuxV
+12	nechali	VpMP---XR-AA---	Pred
+13	dotaci	NNFS4-----A----	Obj
+14	stejnou	AAFS4----1A----	Atr
+15	jako	J,-------------	AuxC
+16	loni	Db------------1	ExD
+17	,	Z:-------------	Coord
+18	jen	TT-------------	AuxZ
+19	případné	AAFP4----1A----	Atr
+20	extrémně	Dg-------1A----	Adv
+21	vysoké	AAFP4----1A----	Atr
+22	hodnoty	NNFP4-----A----	Obj
+23	jsme	VB-P---1P-AA---	AuxV
+24	poněkud	Db-------------	Adv
+25	omezili	VpMP---XR-AA---	Pred
+26	.	Z:-------------	AuxK
+
+lnd91303-053-p3s7
+1	Docílili	VpMP---XR-AA---	Pred
+2	jsme	VB-P---1P-AA---	AuxV
+3	tak	Db-------------	Adv
+4	lepšího	AANS2----2A----	Atr
+5	a	J^-------------	Coord
+6	objektivnějšího	AANS2----2A----	Atr
+7	rozdělení	NNNS2-----A----	Obj
+8	než	J,-------------	AuxC
+9	v	RR--6----------	AuxP
+10	roce	NNIS6-----A---1	ExD
+11	1991	C=-------------	Atr
+12	.	Z:-------------	AuxK
+
+lnd91303-053-p3s8
+1	Přednostové	NNMP1-----A----	Sb
+2	obecních	AAIP2----1A----	Atr
+3	úřadů	NNIP2-----A----	Atr
+4	si	P7-X3----------	AuxT
+5	samozřejmě	Dg-------1A----	Adv
+6	stěžují	VB-P---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	jim	PPXP3--3-------	Obj
+10	peníze	NNIP1-----A----	Sb
+11	nestačí	VB-P---3P-NA---	Obj
+12	.	Z:-------------	AuxK
+
+lnd91303-053-p3s9
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	první	CrIS1----------	Atr
+4	typický	AAIS1----1A----	Atr
+5	rys	NNIS1-----A----	Sb
+6	-	Z:-------------	Apos
+7	ekonomika	NNFS1-----A----	Sb
+8	se	P7-X4----------	AuxR
+9	transformuje	VB-S---3P-AA---	Sb
+10	,	Z:-------------	AuxX
+11	nevytváří	VB-S---3P-NA---	Sb
+12	tolik	Ca--4----------	Obj
+13	zdrojů	NNIP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	kolik	C?--1----------	Sb
+16	je	VB-S---3P-AA---	Adv
+17	třeba	ACNS------A----	Pnom
+18	a	J^-------------	Coord
+19	všichni	PLMP1----------	Sb
+20	se	P7-X4----------	AuxT
+21	musí	VB-P---3P-AA--1	Sb
+22	uskrovnit	Vf--------A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd91303-053-p3s10
+1	Jde	VB-S---3P-AA---	Pred
+2	však	J^-------------	Coord
+3	o	RR--4----------	AuxP
+4	to	PDNS4----------	Obj
+5	,	Z:-------------	AuxX
+6	aby	J,-------------	AuxC
+7	stupeň	NNIS1-----A----	Sb
+8	šetrnosti	NNFS2-----A----	Atr
+9	,	Z:-------------	Apos
+10	"	Z:-------------	AuxG
+11	utahování	NNNS2-----A----	Atr
+12	opasků	NNIP2-----A----	Atr
+13	"	Z:-------------	AuxG
+14	byl	VpYS---XR-AA---	Atr
+15	u	RR--2----------	AuxP
+16	všech	PLXP2----------	Atr
+17	okresních	AAIP2----1A----	Atr
+18	úřadů	NNIP2-----A----	Adv
+19	stejně	Dg-------1A----	Adv
+20	intenzívní	AAIS1----1A----	Pnom
+21	.	Z:-------------	AuxK
+
+lnd91303-053-p3s11
+1	Tato	PDFS1----------	Atr
+2	metoda	NNFS1-----A----	Sb
+3	rozdělování	NNNS2-----A----	Atr
+4	nám	PP-P3--1-------	Obj
+5	ukázala	VpQW---XR-AA---	Pred
+6	i	J^-------------	AuxZ
+7	druhý	CrIS4----------	Atr
+8	rys	NNIS4-----A----	Obj
+9	-	Z:-------------	Apos
+10	fakt	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	skutečně	Dg-------1A----	Adv
+14	potřeby	NNFP1-----A----	Sb
+15	moravských	AAIP2----1A----	Atr
+16	a	J^-------------	Coord
+17	slezských	AAIP2----1A----	Atr
+18	okresů	NNIP2-----A----	Atr
+19	byly	VpTP---XR-AA---	Atr
+20	podhodnoceny	VsTP---XX-AP---	Pnom
+21	,	Z:-------------	AuxX
+22	takže	J,-------------	AuxC
+23	v	RR--6----------	AuxP
+24	celkovém	AANS6----1A----	Atr
+25	rozdělení	NNNS6-----A----	Adv
+26	na	RR--4----------	AuxP
+27	příští	AAIS4----1A----	Atr
+28	rok	NNIS4-----A----	Atr
+29	se	P7-X4----------	AuxR
+30	jejich	PSXXXXP3-------	Atr
+31	podíl	NNIS1-----A----	Sb
+32	zvýšil	VpYS---XR-AA---	Adv
+33	a	J^-------------	Coord
+34	loňský	AAIS4----1A----	Atr
+35	zdroj	NNIS4-----A----	Obj
+36	neshod	NNFP2-----A----	Atr
+37	se	P7-X4----------	AuxT
+38	do	RR--2----------	AuxP
+39	značné	AAFS2----1A----	Atr
+40	míry	NNFS2-----A----	Adv
+41	podařilo	VpNS---XR-AA---	Adv
+42	odstranit	Vf--------A----	Obj
+43	.	Z:-------------	AuxK
+
+lnd91303-053-p3s12
+1	Přesto	Dg-------1A----	Adv
+2	si	P7-X3----------	AuxT
+3	musím	VB-S---1P-AA---	Pred
+4	postěžovat	Vf--------A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	řada	NNFS1-----A----	Sb
+8	moravských	AAMP2----1A----	Atr
+9	poslanců	NNMP2-----A----	Atr
+10	hlasovala	VpQW---XR-AA---	Obj
+11	proti	RR--3----------	AuxP
+12	rozpočtu	NNIS3-----A----	Adv
+13	,	Z:-------------	AuxX
+14	nebo	J^-------------	Coord
+15	se	P7-X4----------	AuxT
+16	zdržela	VpQW---XR-AA---	Obj
+17	hlasování	NNNS2-----A----	Obj
+18	.	Z:-------------	AuxK
+
+lnd91303-053-p4s1
+1	(	Z:-------------	ExD
+2	kš	NNXXX-----A---8	ExD
+3	)	Z:-------------	ExD
+

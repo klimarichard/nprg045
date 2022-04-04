@@ -1,0 +1,107 @@
+lnd94101-045-p1s1
+1	Lux	NNMS1-----A----	ExD
+2	k	RR--3----------	AuxP
+3	certifikátům	NNIP3-----A----	ExD
+
+lnd94101-045-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jpš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94101-045-p1s3A
+1	Ministr	NNMS1-----A----	Atr
+2	zemědělství	NNNS2-----A----	Atr
+3	Josef	NNMS1-----A----	Atr
+4	Lux	NNMS1-----A----	Sb
+5	věří	VB-S---3P-AA---	Pred
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	rozhodnutí	NNNS1-----A----	Sb
+9	vlády	NNFS2-----A----	Atr
+10	SR	NNFXX-----A---8	Atr
+11	o	RR--6----------	AuxP
+12	zavedení	NNNS6-----A----	Atr
+13	slovenských	AAIP2----1A----	Atr
+14	jakostních	AAIP2----1A----	Atr
+15	certifikátů	NNIP2-----A----	Atr
+16	pro	RR--4----------	AuxP
+17	potraviny	NNFP4-----A----	Atr
+18	dovážené	AAFP4----1A----	Atr
+19	z	RR--2----------	AuxP
+20	ČR	NNFXX-----A---8	Adv
+21	nebude	VB-S---3F-NA---	Obj
+22	překážkou	NNFS7-----A----	Pnom
+23	ve	RV--6----------	AuxP
+24	vzájemném	AAIS6----1A----	Atr
+25	obchodu	NNIS6-----A---1	Adv
+26	.	Z:-------------	AuxK
+
+lnd94101-045-p1s3B
+1	"	Z:-------------	AuxG
+2	Kdyby	J,-------------	AuxC
+3	se	P7-X4----------	AuxT
+4	tak	Db-------------	Adv
+5	mělo	VpNS---XR-AA---	Adv
+6	stát	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	potom	Db-------------	Adv
+9	je	VB-S---3P-AA---	Obj
+10	otázka	NNFS1-----A----	Pnom
+11	,	Z:-------------	AuxX
+12	zda	J,-------------	AuxC
+13	slovenská	AAFS1----1A----	Atr
+14	strana	NNFS1-----A----	Sb
+15	nadále	Db-------------	Adv
+16	chce	VB-S---3P-AA---	Sb
+17	celní	AAFS4----1A----	Atr
+18	unii	NNFS4-----A----	Obj
+19	nebo	J^-------------	Coord
+20	zónu	NNFS4-----A----	Obj
+21	volného	AAIS2----1A----	Atr
+22	obchodu	NNIS2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	"	Z:-------------	AuxG
+25	poznamenal	VpYS---XR-AA---	Pred
+26	.	Z:-------------	AuxK
+
+lnd94101-045-p1s4
+1	Jak	Db-------------	Adv
+2	uvedl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	byl	VpYS---XR-AA---	AuxV
+5	ubezpečen	VsYS---XX-AP---	Pred
+6	svým	P8ZS7----------	Atr
+7	slovenským	AAMS7----1A----	Atr
+8	protějškem	NNIS7-----A----	Obj
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	tato	PDNP1----------	Atr
+12	pravidla	NNNP1-----A----	Sb
+13	jsou	VB-P---3P-AA---	Obj
+14	konečná	AANP1----1A----	Pnom
+15	a	J^-------------	Coord
+16	nic	PW--1----------	Sb
+17	se	P7-X4----------	AuxR
+18	na	RR--6----------	AuxP
+19	nich	P5XP6--3-------	Adv
+20	již	Db-------------	Adv
+21	nebude	VB-S---3F-NA---	AuxV
+22	měnit	Vf--------A----	Obj
+23	.	Z:-------------	AuxK
+
+lnd94101-045-p1s5
+1	"	Z:-------------	AuxG
+2	Plnění	NNNS4-----A----	Obj
+3	slibu	NNIS2-----A----	Atr
+4	budeme	VB-P---1F-AA---	AuxV
+5	pečlivě	Dg-------1A----	Adv
+6	sledovat	Vf--------A----	Obj
+7	,	Z:-------------	AuxX
+8	"	Z:-------------	AuxG
+9	dodal	VpYS---XR-AA---	Pred
+10	Josef	NNMS1-----A----	Atr
+11	Lux	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+

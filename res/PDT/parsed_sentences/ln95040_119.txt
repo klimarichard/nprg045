@@ -1,0 +1,192 @@
+ln95040-119-p1s1
+1	Krátce	Dg-------1A----	ExD
+
+ln95040-119-p2s1
+1	Masarykova	AUFS1M---------	Atr
+2	společnost	NNFS1-----A----	Sb
+3	a	J^-------------	Coord
+4	Filozofická	AAFS1----1A----	Atr
+5	fakulta	NNFS1-----A----	Sb
+6	pořádají	VB-P---3P-AA---	Pred
+7	16	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	února	NNIS2-----A---1	Adv
+10	v	RR--4----------	AuxP
+11	17.30	C=-------------	Adv
+12	na	RR--6----------	AuxP
+13	fakultě	NNFS6-----A----	Adv
+14	diskusní	AAIS4----1A----	Atr
+15	podvečer	NNIS4-----A----	Obj
+16	na	RR--4----------	AuxP
+17	téma	NNNS4-----A----	Atr
+18	"	Z:-------------	AuxG
+19	Německá	AAFS1----1A----	Atr
+20	problematika	NNFS1-----A----	Atr
+21	v	RR--6----------	AuxP
+22	české	AAFS6----1A----	Atr
+23	otázce	NNFS6-----A----	Atr
+24	za	RR--2----------	AuxP
+25	2	C=-------------	Atr
+26	.	Z:-------------	AuxG
+27	světové	AAFS2----1A----	Atr
+28	války	NNFS2-----A----	Atr
+29	"	Z:-------------	AuxG
+30	.	Z:-------------	AuxK
+
+ln95040-119-p2s2
+1	Úvodní	AANS4----1A----	Atr
+2	slovo	NNNS4-----A----	Obj
+3	přednese	VB-S---3P-AA---	Pred
+4	J	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Gebhard	NNMS1-----A----	Sb
+7	.	Z:-------------	AuxK
+
+ln95040-119-p3s1A
+1	Nadace	NNFS1-----A----	Sb
+2	při	RR--6----------	AuxP
+3	ČT	NNFXX-----A---8	Atr
+4	Člověk	NNMS1-----A----	Atr
+5	v	RR--6----------	AuxP
+6	tísni	NNFS6-----A----	Atr
+7	hledá	VB-S---3P-AA---	Pred
+8	pro	RR--4----------	AuxP
+9	humanitární	AAIS4----1A----	Atr
+10	konvoj	NNIS4-----A----	Adv
+11	působící	AGIS4-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Bosně	NNFS6-----A----	Adv
+14	a	J^-------------	Coord
+15	Hercegovině	NNFS6-----A----	Adv
+16	řidiče	NNMP4-----A----	Obj
+17	vozů	NNIP2-----A----	Atr
+18	Praga	NNFS1-----A----	Atr
+19	V	NNXXX-----A---8	Atr
+20	3	C=-------------	Atr
+21	S	NNXXX-----A---8	Atr
+22	.	Z:-------------	AuxK
+
+ln95040-119-p3s1B
+1	Podrobnější	AAFP1----2A----	Atr
+2	informace	NNFP1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	pražském	AANS6----1A----	Atr
+5	telefonním	AANS6----1A----	Atr
+6	čísle	NNNS6-----A----	ExD
+7	6113	C=-------------	Atr
+8	5464	C=-------------	Atr
+9	.	Z:-------------	AuxK
+
+ln95040-119-p4s1
+1	Inspekce	NNFS1-----A----	Sb
+2	ministra	NNMS2-----A----	Atr
+3	vnitra	NNNS2-----A----	Atr
+4	nezjistila	VpQW---XR-NA---	Pred
+5	žádný	PWIS4----------	Atr
+6	zdroj	NNIS4-----A----	Obj
+7	úniku	NNIS2-----A----	Atr
+8	informací	NNFP2-----A----	Atr
+9	o	RR--6----------	AuxP
+10	nepodařené	AAFS6----1N----	Atr
+11	protidrogové	AAFS6----1A----	Atr
+12	akci	NNFS6-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95040-119-p4s2
+1	Při	RR--6----------	AuxP
+2	této	PDFS6----------	Atr
+3	akci	NNFS6-----A----	Adv
+4	pachatel	NNMS1-----A----	Sb
+5	unikl	VpYS---XR-AA--1	Pred
+6	i	J^-------------	AuxZ
+7	s	RR--7----------	AuxP
+8	padesáti	Cn-P7----------	Atr
+9	tisíci	NNIP7-----A----	Adv
+10	markami	NNFP7-----A----	Atr
+11	zapůjčenými	AAFP7----1A----	Atr
+12	ministerstvem	NNNS7-----A----	Obj
+13	vnitra	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln95040-119-p4s3
+1	K	RR--3----------	AuxP
+2	včera	Db-------------	Adv
+3	ukončenému	AANS3----1A----	Atr
+4	šetření	NNNS3-----A----	Adv
+5	inspekce	NNFS2-----A----	Atr
+6	to	PDNS4----------	Obj
+7	uvedla	VpQW---XR-AA---	Pred
+8	televize	NNFS1-----A----	Sb
+9	Nova	NNFS1-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95040-119-p5s1
+1	Ve	RV--6----------	AuxP
+2	včerejším	AAIS6----1A----	Atr
+3	článku	NNIS6-----A----	Adv
+4	Lidových	AAFP2----1A----	Atr
+5	novin	NNFP2-----A----	Atr
+6	o	RR--6----------	AuxP
+7	Hornické	AAFS6----1A----	Atr
+8	pojišťovně	NNFS6-----A----	Atr
+9	na	RR--6----------	AuxP
+10	2	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	straně	NNFS6-----A----	Atr
+13	došlo	VpNS---XR-AA---	Pred
+14	v	RR--6----------	AuxP
+15	prvním	CrIS6----------	Atr
+16	odstavci	NNIS6-----A----	Adv
+17	k	RR--3----------	AuxP
+18	záměně	NNFS3-----A----	Obj
+19	slov	NNNP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95040-119-p5s2
+1	Druhá	CrFS1----------	Atr
+2	věta	NNFS1-----A----	Sb
+3	měla	VpQW---XR-AA---	Pred
+4	správně	Dg-------1A----	Adv
+5	znít	Vf--------A----	Obj
+6	:	Z:-------------	AuxG
+7	V	RR--6----------	AuxP
+8	oblastech	NNFP6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	Hornická	AAFS1----1A----	Sb
+12	působí	VB-S---3P-AA---	Atr
+13	,	Z:-------------	AuxX
+14	údajně	Dg-------1A----	Adv
+15	zdravotnická	AANP1----1A----	Atr
+16	zařízení	NNNP1-----A----	Sb
+17	vyzývala	VpQW---XR-AA---	Adv
+18	její	PSXP4FS3-------	Atr
+19	klienty	NNMP4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	aby	J,-------------	AuxC
+22	ji	PPFS4--3-------	Obj
+23	opustili	VpMP---XR-AA---	Adv
+24	právě	Db-------------	AuxZ
+25	kvůli	RR--3----------	AuxP
+26	hrozícímu	AGIS3-----A----	Atr
+27	bankrotu	NNIS3-----A----	Adv
+28	a	J^-------------	Coord
+29	přešli	VpMP---XR-AA---	Adv
+30	k	RR--3----------	AuxP
+31	nim	P5XP3--3-------	Adv
+32	.	Z:-------------	AuxK
+
+ln95040-119-p5s3
+1	Ve	RV--6----------	AuxP
+2	zprávě	NNFS6-----A----	Adv
+3	bylo	VpNS---XR-AA---	Pred
+4	mylně	Dg-------1A----	Adv
+5	uvedeno	VsNS---XX-AP---	Pnom
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	výzva	NNFS1-----A----	Sb
+9	pochází	VB-S---3P-AA---	Sb
+10	od	RR--2----------	AuxP
+11	pojišťoven	NNFP2-----A----	Obj
+12	.	Z:-------------	AuxK
+

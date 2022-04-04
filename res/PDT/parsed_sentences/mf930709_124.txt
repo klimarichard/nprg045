@@ -1,0 +1,115 @@
+mf930709-124-p1s1
+1	Policie	NNFS1-----A----	Sb
+2	z	RR--2----------	AuxP
+3	Klatov	NNIP2-----A----	Atr
+4	hledá	VB-S---3P-AA---	Pred
+5	penězokazce	NNMS4-----A----	Obj
+
+mf930709-124-p2s1A
+1	Klatovy	NNIP1-----A----	ExD
+2	(	Z:-------------	ExD
+3	bar	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-124-p2s1B
+1	Dvě	ClHP4----------	Atr
+2	tisícikoruny	NNFP4-----A----	Obj
+3	s	RR--7----------	AuxP
+4	falešnými	AAIP7----1A----	Atr
+5	kolky	NNIP7-----A----	Atr
+6	objevila	VpQW---XR-AA---	Pred
+7	ve	RV--4----------	AuxP
+8	středu	NNFS4-----A----	Adv
+9	pracovnice	NNFS1-----A----	Sb
+10	Komerční	AAFS2----1A----	Atr
+11	banky	NNFS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	Klatovech	NNIP6-----A----	Atr
+14	.	Z:-------------	AuxK
+
+mf930709-124-p2s2
+1	Neznámý	AAMS1----1N----	Atr
+2	pachatel	NNMS1-----A----	Sb
+3	pustil	VpYS---XR-AA---	Pred
+4	bankovky	NNFP4-----A----	Obj
+5	do	RR--2----------	AuxP
+6	oběhu	NNIS2-----A----	Adv
+7	v	RR--6----------	AuxP
+8	místní	AAFS6----1A----	Atr
+9	obchodní	AAFS6----1A----	Atr
+10	síti	NNFS6-----A----	AdvAtr
+11	,	Z:-------------	AuxX
+12	když	J,-------------	AuxC
+13	na	RR--4----------	AuxP
+14	ně	P5XP4--3-------	Adv
+15	předtím	Db-------------	Adv
+16	nalepil	VpYS---XR-AA---	Adv
+17	kolky	NNIP4-----A----	Obj
+18	ze	RV--2----------	AuxP
+19	stokorun	NNFP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf930709-124-p2s3
+1	Policie	NNFS1-----A----	Sb
+2	po	RR--6----------	AuxP
+3	pachateli	NNMS6-----A----	Obj
+4	pátrá	VB-S---3P-AA---	Pred
+5	.	Z:-------------	AuxK
+
+mf930709-124-p3s1
+1	Zloděj	NNMS1-----A----	Sb
+2	si	P7-X3----------	Adv
+3	odnesl	VpYS---XR-AA---	Pred
+4	pistoli	NNFS4-----A----	Obj
+5	a	J^-------------	Coord
+6	nože	NNIP4-----A----	Obj
+
+mf930709-124-p4s1A
+1	Plzeň	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	bar	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930709-124-p4s1B
+1	Pistoli	NNFS4-----A----	Obj
+2	ráže	NNFS2-----A----	Atr
+3	7.65	C=-------------	Atr
+4	milimetrů	NNIP2-----A----	Atr
+5	,	Z:-------------	AuxX
+6	sadu	NNFS4-----A----	Obj
+7	výsadkářských	AAIP2----1A----	Atr
+8	nožů	NNIP2-----A----	Atr
+9	a	J^-------------	Coord
+10	další	AAFP4----1A----	Atr
+11	věci	NNFP4-----A----	Obj
+12	odcizil	VpYS---XR-AA---	Pred
+13	ve	RV--4----------	AuxP
+14	středu	NNFS4-----A----	Adv
+15	neznámý	AAMS1----1N----	Atr
+16	pachatel	NNMS1-----A----	Sb
+17	z	RR--2----------	AuxP
+18	vojenského	AAIS2----1A----	Atr
+19	útvaru	NNIS2-----A----	Adv
+20	v	RR--6----------	AuxP
+21	Líních	NNFP6-----A----	AtrAdv
+22	u	RR--2----------	AuxP
+23	Plzně	NNFS2-----A----	Atr
+24	.	Z:-------------	AuxK
+
+mf930709-124-p5s1
+1	Našel	VpYS---XR-AA---	Pred
+2	houby	NNFP4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	ale	J^-------------	Coord
+5	ztratil	VpYS---XR-AA---	Pred
+6	forda	NNIS4-----A---6	Obj
+
+mf930709-124-p6s2
+1	Začal	VpYS---XR-AA---	Pred
+2	hledat	Vf--------A----	Obj
+3	časně	Dg-------1A----	Adv
+4	ráno	Db-------------	Adv
+5	.	Z:-------------	AuxK
+

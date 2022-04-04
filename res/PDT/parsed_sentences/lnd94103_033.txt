@@ -1,0 +1,120 @@
+lnd94103-033-p1s1
+1	ČMSS	NNFXX-----A---8	Sb
+2	kritizuje	VB-S---3P-AA---	Pred
+3	ústřední	AAFS4----1A----	Atr
+4	banku	NNFS4-----A----	Obj
+
+lnd94103-033-p1s2
+1	Brno	NNNS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	fsch	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94103-033-p1s3
+1	Česká	AAFS1----1A----	Atr
+2	národní	AAFS1----1A----	Atr
+3	banka	NNFS1-----A----	Sb
+4	(	Z:-------------	Apos
+5	ČNB	NNFXX-----A---8	Sb
+6	)	Z:-------------	AuxG
+7	se	P7-X4----------	AuxT
+8	podle	RR--2----------	AuxP
+9	předsedy	NNMS2-----A----	Atr
+10	Českomoravské	AAFS2----1A----	Atr
+11	strany	NNFS2-----A----	Atr
+12	středu	NNIS2-----A----	Atr
+13	Jana	NNMS2-----A----	Atr
+14	Kryčera	NNMS2-----A----	Adv
+15	dopustila	VpQW---XR-AA---	Pred
+16	závažné	AAFS2----1A----	Atr
+17	chyby	NNFS2-----A----	Obj
+18	tím	PDZS7----------	Adv
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	nepodpořila	VpQW---XR-NA---	Atr
+22	důvěryhodnost	NNFS4-----A----	Obj
+23	Banky	NNFS2-----A----	Atr
+24	Bohemia	NNFXX-----A----	Atr
+25	.	Z:-------------	AuxK
+
+lnd94103-033-p1s4
+1	Kryčer	NNMS1-----A----	Sb
+2	kritizoval	VpYS---XR-AA---	Pred
+3	i	J^-------------	AuxY
+4	skutečnost	NNFS4-----A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	parlament	NNIS1-----A----	Sb
+8	nemá	VB-S---3P-NA---	Atr
+9	nad	RR--7----------	AuxP
+10	bankami	NNFP7-----A----	Adv
+11	žádné	PWFP4----------	Atr
+12	kontrolní	AAFP4----1A----	Atr
+13	pravomoci	NNFP4-----A----	Obj
+14	,	Z:-------------	AuxX
+15	a	J^-------------	Coord
+16	požadoval	VpYS---XR-AA---	Pred
+17	urychlené	AANS4----1A----	Atr
+18	přijetí	NNNS4-----A----	Obj
+19	zákona	NNIS2-----A----	Atr
+20	,	Z:-------------	AuxX
+21	který	P4YS1----------	Sb
+22	by	Vc-------------	AuxV
+23	vymezil	VpYS---XR-AA---	Atr
+24	odpovědnost	NNFS4-----A----	Obj
+25	ČNB	NNFXX-----A---8	Atr
+26	vůči	RR--3----------	AuxP
+27	parlamentu	NNIS3-----A----	AtrAdv
+28	.	Z:-------------	AuxK
+
+lnd94103-033-p1s5
+1	Bylo	VpNS---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	prý	TT-------------	AuxZ
+4	rovněž	Db-------------	Adv
+5	zapotřebí	Db-------------	Pnom
+6	zřídit	Vf--------A----	Sb
+7	centrální	AAIS4----1A----	Atr
+8	úřad	NNIS4-----A----	Obj
+9	odpovědný	AAIS4----1A----	Atr
+10	parlamentu	NNIS3-----A----	Obj
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	by	Vc-------------	AuxV
+14	měl	VpYS---XR-AA---	Atr
+15	dohlížecí	AAFS4----1A----	Atr
+16	a	J^-------------	Coord
+17	konsolidační	AAFS4----1A----	Atr
+18	pravomoc	NNFS4-----A----	Obj
+19	nad	RR--7----------	AuxP
+20	bankami	NNFP7-----A----	Atr
+21	.	Z:-------------	AuxK
+
+lnd94103-033-p1s6
+1	Případ	NNIS1-----A----	Sb
+2	Bohemia	NNFXX-----A----	Atr
+3	podle	RR--2----------	AuxP
+4	Kryčera	NNMS2-----A----	Adv
+5	negativně	Dg-------1A----	Adv
+6	působí	VB-S---3P-AA---	Pred
+7	v	RR--6----------	AuxP
+8	zahraničí	NNNS6-----A----	Adv
+9	:	Z:-------------	Apos
+10	obchody	NNIP1-----A----	Sb
+11	na	RR--6----------	AuxP
+12	burze	NNFS6-----A----	Atr
+13	svědčí	VB-P---3P-AA---	Adv
+14	o	RR--6----------	AuxP
+15	tom	PDZS6----------	Obj
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	se	P7-X4----------	AuxT
+19	zahraniční	AAMP1----1A----	Atr
+20	investoři	NNMP1-----A----	Sb
+21	začínají	VB-P---3P-AA---	Atr
+22	od	RR--2----------	AuxP
+23	ČR	NNFXX-----A---8	Obj
+24	odvracet	Vf--------A----	Obj
+25	.	Z:-------------	AuxK
+

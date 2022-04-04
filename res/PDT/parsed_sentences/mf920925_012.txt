@@ -1,0 +1,438 @@
+mf920925-012-p1s1A
+1	Nesmrtelný	AAIS1----1N----	Atr
+2	typ	NNIS1-----A----	ExD
+3	Tatra	NNFS1-----A----	Atr
+4	613	C=-------------	Atr
+
+mf920925-012-p1s1B
+1	AUTOMOBILKA	NNFS1-----A----	Sb
+2	V	RR--6----------	AuxP
+3	PŘÍBOŘE	NNIS6-----A---1	Atr
+4	OBNOVÍ	VB-S---3P-AA---	Pred
+5	PRODUKCI	NNFS4-----A----	Obj
+6	ZAČÁTKEM	NNIS7-----A----	AuxP
+7	ROKU	NNIS2-----A---1	Adv
+8	1993	C=-------------	Atr
+
+mf920925-012-p2s1
+1	Výroba	NNFS1-----A----	Sb
+2	osobních	AAIP2----1A----	Atr
+3	automobilů	NNIP2-----A----	Atr
+4	Tatra	NNFS1-----A----	Atr
+5	613	C=-------------	Atr
+6	má	VB-S---3P-AA---	Pred
+7	být	Vf--------A----	AuxV
+8	obnovena	VsQW---XX-AP---	Obj
+9	od	RR--2----------	AuxP
+10	1	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	ledna	NNIS2-----A----	Adv
+13	1993	C=-------------	Atr
+14	.	Z:-------------	AuxK
+
+mf920925-012-p2s2
+1	Ředitel	NNMS1-----A----	Atr
+2	odštěpného	AAIS2----1A----	Atr
+3	závodu	NNIS2-----A----	Atr
+4	Tatra	NNFS1-----A----	Atr
+5	Příbor	NNIS1-----A----	Atr
+6	Zdeněk	NNMS1-----A----	Atr
+7	Kalinec	NNMS1-----A----	Sb
+8	předpokládá	VB-S---3P-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	v	RR--6----------	AuxP
+12	příštím	AAIS6----1A----	Atr
+13	roce	NNIS6-----A---1	Adv
+14	bude	VB-S---3F-AA---	AuxV
+15	vyrobeno	VsNS---XX-AP---	Obj
+16	asi	TT-------------	AuxZ
+17	tři	ClXP1----------	Atr
+18	sta	NNNP1-----A----	Sb
+19	vozů	NNIP2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf920925-012-p2s3
+1	"	Z:-------------	AuxG
+2	Vyrábět	Vf--------A----	Obj
+3	je	PPXP4--3-------	Obj
+4	budeme	VB-P---1F-AA---	AuxV
+5	tak	Db-------------	Adv
+6	dlouho	Dg-------1A----	Adv
+7	,	Z:-------------	AuxX
+8	dokud	J,-------------	Adv
+9	se	P7-X4----------	AuxR
+10	budou	VB-P---3F-AA---	AuxV
+11	prodávat	Vf--------A----	Adv
+12	,	Z:-------------	AuxX
+13	"	Z:-------------	AuxG
+14	řekl	VpYS---XR-AA---	Pred
+15	ředitel	NNMS1-----A----	Atr
+16	Kalinec	NNMS1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+mf920925-012-p3s1
+1	Letos	Db-------------	Adv
+2	automobilka	NNFS1-----A----	Sb
+3	vyrobila	VpQW---XR-AA---	Pred
+4	147	C=-------------	Obj
+5	osobních	AAIP2----1A----	Atr
+6	vozů	NNIP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+mf920925-012-p3s2
+1	Prodala	VpQW---XR-AA---	Pred
+2	jich	PPXP2--3-------	Atr
+3	157	C=-------------	Obj
+4	(	Z:-------------	AuxG
+5	rozdíl	NNIS4-----A----	Obj
+6	tvoří	VB-P---3P-AA---	Pred
+7	zásoby	NNFP1-----A----	Sb
+8	z	RR--2----------	AuxP
+9	minulého	AAIS2----1A----	Atr
+10	roku	NNIS2-----A---1	Atr
+11	)	Z:-------------	AuxG
+12	.	Z:-------------	AuxK
+
+mf920925-012-p3s3
+1	Tuzemského	AAMS4----1A----	Atr
+2	zákazníka	NNMS4-----A----	Obj
+3	našlo	VpNS---XR-AA---	Pred
+4	146	C=-------------	Sb
+5	aut	NNNP2-----A----	Atr
+6	,	Z:-------------	Coord
+7	vyvezeno	VsNS---XX-AP---	Pred
+8	jich	PPXP2--3-------	Atr
+9	bylo	VpNS---XR-AA---	AuxV
+10	jedenáct	Cn-S1----------	Sb
+11	.	Z:-------------	AuxK
+
+mf920925-012-p3s4
+1	Základní	AAIS1----1A----	Atr
+2	model	NNIS1-----A----	Sb
+3	(	Z:-------------	Apos
+4	verze	NNFS1-----A----	Sb
+5	Tatra	NNFS1-----A----	Atr
+6	613	C=-------------	Atr
+7	-	Z:-------------	AuxG
+8	4	C=-------------	Atr
+9	)	Z:-------------	AuxG
+10	stál	VpYS---XR-AA---	Pred
+11	575000	C=-------------	Obj
+12	korun	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920925-012-p4s1
+1	Orgány	NNIP1-----A----	Sb
+2	státní	AAFS2----1A----	Atr
+3	správy	NNFS2-----A----	Atr
+4	tvořily	VpTP---XR-AA---	Pred
+5	letos	Db-------------	Adv
+6	asi	TT-------------	AuxZ
+7	35	C=-------------	Obj
+8	procent	NNNP2-----A----	Atr
+9	zájemců	NNMP2-----A----	Atr
+10	o	RR--4----------	AuxP
+11	pětimetrové	AAIP4----1A----	Atr
+12	vozy	NNIP4-----A----	Atr
+13	Tatra	NNFS1-----A----	Atr
+14	613	C=-------------	Atr
+15	.	Z:-------------	AuxK
+
+mf920925-012-p4s2
+1	Podniková	AAFS1----1A----	Atr
+2	sféra	NNFS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	na	RR--6----------	AuxP
+5	odbytu	NNIS6-----A----	Obj
+6	tatrovek	NNFP2-----A----	Atr
+7	podílela	VpQW---XR-AA---	Pred
+8	z	RR--2----------	AuxP
+9	28	C=-------------	Atr
+10	procent	NNNP2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+mf920925-012-p4s3
+1	Novým	AAIS7----1A----	Atr
+2	jevem	NNIS7-----A----	Pnom
+3	je	VB-S---3P-AA---	Pred
+4	zájem	NNIS1-----A----	Sb
+5	soukromých	AAMP2----1A----	Atr
+6	podnikatelů	NNMP2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+mf920925-012-p4s4
+1	Ti	PDMP1----------	Sb
+2	odebrali	VpMP---XR-AA---	Pred
+3	přibližně	Dg-------1A----	AuxZ
+4	dvacet	Cn-S4----------	Obj
+5	procent	NNNP2-----A----	Atr
+6	prodaných	AAIP2----1A----	Atr
+7	vozů	NNIP2-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf920925-012-p4s5
+1	Na	RR--4----------	AuxP
+2	vývoz	NNIS4-----A----	Adv
+3	připadlo	VpNS---XR-AA--1	Pred
+4	sedmnáct	Cn-S1----------	Sb
+5	procent	NNNP2-----A----	Atr
+6	.	Z:-------------	AuxK
+
+mf920925-012-p5s1
+1	Přestože	J,-------------	AuxC
+2	technické	AANS1----1A----	Atr
+3	řešení	NNNS1-----A----	Sb
+4	luxusní	AAFS2----1A----	Atr
+5	Tatry	NNFS2-----A----	Atr
+6	613	C=-------------	Atr
+7	(	Z:-------------	AuxG
+8	vzduchem	NNIS7-----A----	Adv
+9	chlazený	AAIS1----1A----	Atr
+10	vidlicový	AAIS1----1A----	Atr
+11	osmiválec	NNIS1-----A----	Atr
+12	umístěný	AAIS1----1A----	Atr
+13	nad	RR--7----------	AuxP
+14	zadní	AAFS7----1A----	Atr
+15	poháněnou	AAFS7----1A----	Atr
+16	nápravou	NNFS7-----A----	Adv
+17	)	Z:-------------	AuxG
+18	je	VB-S---3P-AA---	Adv
+19	dnes	Db-------------	Adv
+20	raritou	NNFS7-----A----	Pnom
+21	a	J^-------------	Coord
+22	tvary	NNIP1-----A----	Sb
+23	karosérie	NNFS2-----A----	Atr
+24	pocházejí	VB-P---3P-AA---	Adv
+25	z	RR--2----------	AuxP
+26	počátku	NNIS2-----A----	Adv
+27	sedmdesátých	CrNP2----------	Atr
+28	let	NNNP2-----A----	Atr
+29	,	Z:-------------	AuxX
+30	v	RR--6----------	AuxP
+31	období	NNNS6-----A----	Adv
+32	,	Z:-------------	AuxX
+33	kdy	Db-------------	Adv
+34	prudce	Dg-------1A----	Adv
+35	poklesl	VpYS---XR-AA--1	Atr
+36	zájem	NNIS1-----A----	Sb
+37	na	RR--6----------	AuxP
+38	domácím	AAIS6----1A----	Atr
+39	trhu	NNIS6-----A----	Atr
+40	,	Z:-------------	AuxX
+41	dokázala	VpQW---XR-AA---	Pred
+42	továrna	NNFS1-----A----	Sb
+43	podstatnou	AAFS4----1A----	Atr
+44	část	NNFS4-----A----	Obj
+45	výroby	NNFS2-----A----	Atr
+46	exportovat	Vf--------A----	Obj
+47	.	Z:-------------	AuxK
+
+mf920925-012-p5s2
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1991	C=-------------	Atr
+4	bylo	VpNS---XR-AA---	AuxV
+5	vyvezeno	VsNS---XX-AP---	Pred
+6	273	C=-------------	Sb
+7	vozů	NNIP2-----A----	Atr
+8	(	Z:-------------	Apos
+9	76	C=-------------	Sb
+10	procent	NNNP2-----A----	Atr
+11	výroby	NNFS2-----A----	Atr
+12	)	Z:-------------	AuxG
+13	,	Z:-------------	AuxX
+14	v	RR--6----------	AuxP
+15	roce	NNIS6-----A---1	Adv
+16	1990	C=-------------	Atr
+17	činil	VpYS---XR-AA---	Pred
+18	export	NNIS1-----A----	Sb
+19	329	C=-------------	Obj
+20	aut	NNNP2-----A----	Atr
+21	(	Z:-------------	Apos
+22	55	C=-------------	Obj
+23	procent	NNNP2-----A----	Atr
+24	vyrobeného	AANS2----1A----	Atr
+25	množství	NNNS2-----A----	Atr
+26	)	Z:-------------	AuxG
+27	,	Z:-------------	Coord
+28	v	RR--6----------	AuxP
+29	roce	NNIS6-----A---1	Adv
+30	1989	C=-------------	Atr
+31	bylo	VpNS---XR-AA---	AuxV
+32	vyvezeno	VsNS---XX-AP---	Pred
+33	38	C=-------------	Sb
+34	aut	NNNP2-----A----	Atr
+35	(	Z:-------------	Apos
+36	8.1	C=-------------	Sb
+37	procenta	NNNS2-----A----	Atr
+38	produkce	NNFS2-----A----	Atr
+39	)	Z:-------------	AuxG
+40	.	Z:-------------	AuxK
+
+mf920925-012-p5s3
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1988	C=-------------	Atr
+4	přitom	Db-------------	Adv
+5	činil	VpYS---XR-AA---	Pred
+6	prodej	NNIS1-----A----	Sb
+7	do	RR--2----------	AuxP
+8	zahraničí	NNNS2-----A----	Atr
+9	jen	TT-------------	AuxZ
+10	3.7	C=-------------	Obj
+11	procenta	NNNS2-----A----	Atr
+12	a	J^-------------	Coord
+13	o	RR--4----------	AuxP
+14	rok	NNIS4-----A----	Adv
+15	dříve	Dg-------2A----	ExD
+16	dokonce	Db-------------	AuxZ
+17	pouze	Db-------------	AuxZ
+18	1.1	C=-------------	ExD
+19	procenta	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+mf920925-012-p6s1
+1	Převážná	AAFS1----1A----	Atr
+2	většina	NNFS1-----A----	Sb
+3	vývozu	NNIS2-----A----	Atr
+4	směřuje	VB-S---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	území	NNNS4-----A----	Adv
+7	bývalého	AAIS2----1A----	Atr
+8	Sovětského	AAIS2----1A----	Atr
+9	svazu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+mf920925-012-p6s2
+1	Šestsettřináctky	NNFP1-----A----	Sb
+2	však	J^-------------	AuxY
+3	v	RR--6----------	AuxP
+4	posledních	AANP6----1A----	Atr
+5	letech	NNNP6-----A----	Adv
+6	našly	VpTP---XR-AA---	Pred
+7	kupce	NNMP4-----A----	Obj
+8	také	Db-------------	AuxZ
+9	v	RR--6----------	AuxP
+10	Maďarsku	NNNS6-----A----	Adv
+11	,	Z:-------------	AuxX
+12	Polsku	NNNS6-----A----	Adv
+13	,	Z:-------------	AuxX
+14	Korejské	AAFS6----1A----	Atr
+15	lidově	Dg-------1A----	Adv
+16	demokratické	AAFS6----1A----	Atr
+17	republice	NNFS6-----A----	Adv
+18	,	Z:-------------	AuxX
+19	Saudské	AAFS6----1A----	Atr
+20	Arábii	NNFS6-----A----	Adv
+21	,	Z:-------------	AuxX
+22	Maroku	NNNS6-----A----	Adv
+23	,	Z:-------------	AuxX
+24	Jihoafrické	AAFS6----1A----	Atr
+25	republice	NNFS6-----A----	Adv
+26	,	Z:-------------	AuxX
+27	Francii	NNFS6-----A----	Adv
+28	,	Z:-------------	AuxX
+29	Švýcarsku	NNNS6-----A----	Adv
+30	a	J^-------------	Coord
+31	Německu	NNNS6-----A----	Adv
+32	.	Z:-------------	AuxK
+
+mf920925-012-p7s1
+1	"	Z:-------------	AuxG
+2	Snažíme	VB-P---1P-AA---	Obj
+3	se	P7-X4----------	AuxT
+4	vyvážet	Vf--------A----	Obj
+5	co	Db-------------	Adv
+6	nejvíc	Dg-------3A---1	Adv
+7	,	Z:-------------	AuxX
+8	"	Z:-------------	AuxG
+9	prohlásil	VpYS---XR-AA---	Pred
+10	ředitel	NNMS1-----A----	Atr
+11	Kalinec	NNMS1-----A----	Sb
+12	.	Z:-------------	AuxK
+
+mf920925-012-p7s2
+1	"	Z:-------------	AuxG
+2	Pro	RR--4----------	AuxP
+3	příští	AAIS4----1A----	Atr
+4	rok	NNIS4-----A----	Adv
+5	však	J^-------------	AuxY
+6	vůz	NNIS1-----A----	Sb
+7	musí	VB-S---3P-AA---	Pred
+8	být	Vf--------A----	AuxV
+9	znovu	Db-------------	Adv
+10	homologován	VsYS---XX-AP---	Obj
+11	.	Z:-------------	AuxK
+
+mf920925-012-p7s3
+1	V	RR--6----------	AuxP
+2	současném	AANS6----1A----	Atr
+3	provedení	NNNS6-----A----	Adv
+4	bychom	Vc-P---1-------	AuxV
+5	nesplňovali	VpMP---XR-NA---	Pred
+6	nové	AAIP4----1A----	Atr
+7	ekologické	AAIP4----1A----	Atr
+8	požadavky	NNIP4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	ale	J^-------------	Coord
+11	to	PDNS4----------	Obj
+12	už	Db-------------	Adv
+13	máme	VB-P---1P-AA---	Pred
+14	plně	Dg-------1A----	Adv
+15	vyřešeno	VsNS---XX-AP---	Atv
+16	.	Z:-------------	AuxK
+
+mf920925-012-p7s4
+1	Od	RR--2----------	AuxP
+2	1	C=-------------	Atr
+3	.	Z:-------------	AuxG
+4	ledna	NNIS2-----A----	Adv
+5	budeme	VB-P---1F-AA---	AuxV
+6	vyrábět	Vf--------A----	Pred
+7	motor	NNIS4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	vícebodovým	AAIS7----1A----	Atr
+10	vstřikem	NNIS7-----A----	Atr
+11	a	J^-------------	Coord
+12	katalyzátorem	NNIS7-----A----	Atr
+13	.	Z:-------------	AuxK
+
+mf920925-012-p7s5
+1	Bude	VB-S---3F-AA---	AuxV
+2	splňovat	Vf--------A----	Pred
+3	dokonce	Db-------------	AuxZ
+4	i	J^-------------	AuxZ
+5	americké	AAIP4----1A----	Atr
+6	předpisy	NNIP4-----A----	Obj
+7	.	Z:-------------	AuxK
+8	"	Z:-------------	AuxG
+
+mf920925-012-p8s1
+1	Jednání	NNNP1-----A----	Sb
+2	o	RR--6----------	AuxP
+3	spolupráci	NNFS6-----A----	Atr
+4	se	RV--7----------	AuxP
+5	zahraničními	AAMP7----1A----	Atr
+6	partnery	NNMP7-----A----	Atr
+7	pokračují	VB-P---3P-AA---	Pred
+8	.	Z:-------------	AuxK
+
+mf920925-012-p8s2
+1	Podle	RR--2----------	AuxP
+2	ředitele	NNMS2-----A----	Atr
+3	Kalince	NNMS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	však	J^-------------	AuxY
+6	Tatra	NNFS1-----A----	Sb
+7	zavázala	VpQW---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	o	RR--6----------	AuxP
+11	jejich	PSXXXXP3-------	Atr
+12	průběhu	NNIS6-----A----	Obj
+13	zatím	Db-------------	Adv
+14	nebude	VB-S---3F-NA---	AuxV
+15	informovat	Vf--------A----	Obj
+16	.	Z:-------------	AuxK
+

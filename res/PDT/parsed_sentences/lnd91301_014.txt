@@ -1,0 +1,836 @@
+lnd91301-014-p1s1A
+1	UKRAJINA	NNFS1-----A----	Sb
+2	CHCE	VB-S---3P-AA---	Pred
+3	CHRÁNIT	Vf--------A----	Obj
+4	SVŮJ	P8IS4----------	Atr
+5	TRH	NNIS4-----A----	Obj
+6	o	Z:-------------	AuxG
+
+lnd91301-014-p1s1B
+1	OTAZNÍK	NNIS1-----A----	ExD
+2	NAD	RR--7----------	AuxP
+3	NIČENÍM	NNNS7-----A----	Atr
+4	DOKUMENTŮ	NNIP2-----A----	Atr
+
+lnd91301-014-p2s1
+1	První	CrIS1----------	Atr
+2	konflikt	NNIS1-----A----	ExD
+3	na	RR--6----------	AuxP
+4	obzoru	NNIS6-----A----	ExD
+
+lnd91301-014-p3s1
+1	MOSKVA	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+lnd91301-014-p4s1
+1	Mezi	RR--7----------	AuxP
+2	Ruskem	NNNS7-----A----	Adv
+3	a	J^-------------	Coord
+4	Ukrajinou	NNFS7-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	rýsuje	VB-S---3P-AA---	Pred
+7	první	CrIS1----------	Atr
+8	hospodářský	AAIS1----1A----	Atr
+9	konflikt	NNIS1-----A----	Sb
+10	v	RR--6----------	AuxP
+11	rámci	NNIS6-----A----	AtrAdv
+12	Společenství	NNNS2-----A----	Atr
+13	nezávislých	AAIP2----1N----	Atr
+14	států	NNIP2-----A----	Atr
+15	(	Z:-------------	Apos
+16	SNS	NNFXX-----A---8	Atr
+17	)	Z:-------------	AuxG
+18	:	Z:-------------	Coord
+19	Ukrajina	NNFS1-----A----	Sb
+20	chystá	VB-S---3P-AA---	Pred
+21	opatření	NNNP4-----A----	Obj
+22	na	RR--4----------	AuxP
+23	ochranu	NNFS4-----A----	AtrAdv
+24	vlastního	AANS2----1A----	Atr
+25	hospodářství	NNNS2-----A----	Atr
+26	proti	RR--3----------	AuxP
+27	dopadu	NNIS3-----A----	AtrAdv
+28	uvolnění	NNNS2-----A----	Atr
+29	cen	NNFP2-----A----	Atr
+30	v	RR--6----------	AuxP
+31	Rusku	NNNS6-----A----	Atr
+32	,	Z:-------------	AuxX
+33	které	P4NS1----------	Sb
+34	má	VB-S---3P-AA---	Atr
+35	vstoupit	Vf--------A----	Obj
+36	v	RR--4----------	AuxP
+37	platnost	NNFS4-----A----	Adv
+38	2	C=-------------	Atr
+39	.	Z:-------------	AuxG
+40	ledna	NNIS2-----A----	Adv
+41	.	Z:-------------	AuxK
+
+lnd91301-014-p4s2
+1	Mluvčí	NNMS1-----A----	Atr
+2	ukrajinské	AAFS2----1A----	Atr
+3	vlády	NNFS2-----A----	Atr
+4	Alexandr	NNMS1-----A----	Atr
+5	Jemeljanov	NNMS1-----A----	Sb
+6	po	RR--6----------	AuxP
+7	dvoudenním	AANS6----1A----	Atr
+8	zasedání	NNNS6-----A----	Adv
+9	ukrajinské	AAFS2----1A----	Atr
+10	vlády	NNFS2-----A----	Atr
+11	prohlásil	VpYS---XR-AA---	Pred
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	Ukrajina	NNFS1-----A----	Sb
+15	zavede	VB-S---3P-AA---	Obj
+16	pro	RR--4----------	AuxP
+17	vnitřní	AAIS4----1A----	Atr
+18	obchod	NNIS4-----A----	Adv
+19	kupóny	NNIP4-----A----	Obj
+20	namísto	RR--2----------	AuxP
+21	rublů	NNIP2-----A----	Adv
+22	.	Z:-------------	AuxK
+
+lnd91301-014-p5s1
+1	Ukrajina	NNFS1-----A----	Sb
+2	se	P7-X4----------	AuxT
+3	tak	Db-------------	Adv
+4	zjevně	Dg-------1A----	Adv
+5	snaží	VB-S---3P-AA---	Pred
+6	chránit	Vf--------A----	Obj
+7	vlastní	AAIS4----1A----	Atr
+8	trh	NNIS4-----A----	Obj
+9	před	RR--7----------	AuxP
+10	nákupy	NNIP7-----A----	Adv
+11	Rusů	NNMP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd91301-014-p5s2
+1	Nakonec	Db-------------	Adv
+2	však	J^-------------	Coord
+3	bude	VB-S---3F-AA---	AuxV
+4	muset	Vf--------A----	Pred
+5	Kyjev	NNIS1-----A----	Sb
+6	platit	Vf--------A----	Obj
+7	vyšší	AAFP4----2A----	Atr
+8	ceny	NNFP4-----A----	Obj
+9	za	RR--4----------	AuxP
+10	dovoz	NNIS4-----A----	AdvAtr
+11	z	RR--2----------	AuxP
+12	Ruska	NNNS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+lnd91301-014-p6s1
+1	Gruzínský	AAMS1----1A----	Atr
+2	prezident	NNMS1-----A----	Atr
+3	Zviad	NNMS1-----A----	Atr
+4	Gamsachurdia	NNMS1-----A----	Sb
+5	ve	RV--4----------	AuxP
+6	čtvrtek	NNIS4-----A----	Adv
+7	prohlásil	VpYS---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	Gruzie	NNFS1-----A----	Sb
+11	se	P7-X4----------	Obj
+12	zapojí	VB-S---3P-AA---	Obj
+13	do	RR--2----------	AuxP
+14	SNS	NNNXX-----A---8	Adv
+15	.	Z:-------------	AuxK
+
+lnd91301-014-p6s2
+1	Gruzie	NNFS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	jedinou	AAFS7----1A----	Atr
+4	republikou	NNFS7-----A----	Pnom
+5	bývalého	AAIS2----1A----	Atr
+6	Svazu	NNIS2-----A----	Atr
+7	kromě	RR--2----------	AuxP
+8	tří	ClXP2----------	Atr
+9	pobaltských	AAFP2----1A----	Atr
+10	republik	NNFP2-----A----	Adv
+11	,	Z:-------------	AuxX
+12	která	P4FS1----------	Sb
+13	dosud	Db-------------	Adv
+14	odmítala	VpQW---XR-AA---	Atr
+15	vstoupit	Vf--------A----	Obj
+16	do	RR--2----------	AuxP
+17	SNS	NNFXX-----A---8	Adv
+18	.	Z:-------------	AuxK
+
+lnd91301-014-p6s3
+1	Místní	AAMP1----1A----	Atr
+2	pozorovatelé	NNMP1-----A----	Sb
+3	soudí	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	Gamsachurdia	NNMS1-----A----	Sb
+7	chce	VB-S---3P-AA---	Obj
+8	vstupem	NNIS7-----A----	Adv
+9	Gruzie	NNFS2-----A----	Atr
+10	do	RR--2----------	AuxP
+11	Společenství	NNNS2-----A----	Atr
+12	vzít	Vf--------A----	Obj
+13	vítr	NNIS4-----A----	Obj
+14	z	RR--2----------	AuxP
+15	plachet	NNFP2-----A----	Adv
+16	svým	P8XP3----------	Atr
+17	odpůrcům	NNMP3-----A----	Obj
+18	.	Z:-------------	AuxK
+
+lnd91301-014-p6s4
+1	Opozice	NNFS1-----A----	Sb
+2	jej	PPZS4--3------2	Obj
+3	totiž	Db-------------	Adv
+4	kromě	RR--2----------	AuxP
+5	jiného	AANS2----1A----	Adv
+6	viní	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	svou	P8FS7---------1	Atr
+10	izolacionistickou	AAFS7----1A----	Atr
+11	politikou	NNFS7-----A----	Adv
+12	prohlubuje	VB-S---3P-AA---	Obj
+13	hospodářskou	AAFS4----1A----	Atr
+14	krizi	NNFS4-----A----	Obj
+15	republiky	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd91301-014-p6s5
+1	Do	RR--2----------	AuxP
+2	SNS	NNFXX-----A---8	Adv
+3	chce	VB-S---3P-AA---	Pred
+4	také	Db-------------	AuxZ
+5	Tatarstán	NNIS1-----A----	Sb
+6	-	Z:-------------	Apos
+7	bývalá	AAFS1----1A----	Atr
+8	autonomní	AAFS1----1A----	Atr
+9	republika	NNFS1-----A----	Sb
+10	v	RR--6----------	AuxP
+11	rámci	NNIS6-----A----	Atr
+12	Ruské	AAFS2----1A----	Atr
+13	federace	NNFS2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	jež	PJFS1----------	Sb
+16	vyhlásila	VpQW---XR-AA---	Atr
+17	nezávislost	NNFS4-----N----	Obj
+18	.	Z:-------------	AuxK
+
+lnd91301-014-p6s6
+1	Tatarští	AAMP1----1A----	Atr
+2	poslanci	NNMP1-----A----	Sb
+3	dospěli	VpMP---XR-AA---	Pred
+4	k	RR--3----------	AuxP
+5	závěru	NNIS3-----A----	Adv
+6	,	Z:-------------	AuxX
+7	že	J,-------------	AuxC
+8	vstup	NNIS1-----A----	Sb
+9	do	RR--2----------	AuxP
+10	SNS	NNFXX-----A---8	Atr
+11	krok	NNIS1-----A----	Pnom
+12	je	VB-S---3P-AA---	Atr
+13	nezbytný	AAIS1----1A----	Atr
+14	vzhledem	RF-------------	AuxP
+15	k	RR--3----------	AuxP
+16	politické	AAFS3----1A----	Atr
+17	a	J^-------------	Coord
+18	vnitřní	AAFS3----1A----	Atr
+19	hospodářské	AAFS3----1A----	Atr
+20	situaci	NNFS3-----A----	Adv
+21	,	Z:-------------	AuxX
+22	vzniklé	AAFS3----1A----	Atr
+23	po	RR--6----------	AuxP
+24	rozpadu	NNIS6-----A----	Adv
+25	Sovětského	AAIS2----1A----	Atr
+26	svazu	NNIS2-----A----	Atr
+27	.	Z:-------------	AuxK
+
+lnd91301-014-p7s1
+1	Nové	AANS1----1A----	Atr
+2	ruské	AANS1----1A----	Atr
+3	ministerstvo	NNNS1-----A----	Sb
+4	bezpečnosti	NNFS2-----A----	Atr
+5	a	J^-------------	Coord
+6	vnitřních	AAFP2----1A----	Atr
+7	záležitostí	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4NS4----------	Obj
+10	vytvořil	VpYS---XR-AA---	Atr
+11	Boris	NNMS1-----A----	Atr
+12	Jelcin	NNMS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	údajně	Dg-------1A----	Adv
+15	zničilo	VpNS---XR-AA---	Pred
+16	klíčové	AAIP4----1A----	Atr
+17	dokumenty	NNIP4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+lnd91301-014-p7s2
+1	Oznámila	VpQW---XR-AA---	Pred
+2	to	PDNS4----------	Obj
+3	včera	Db-------------	Adv
+4	agentura	NNFS1-----A----	Sb
+5	TASS	NNFXX-----A---8	Atr
+6	.	Z:-------------	AuxK
+
+lnd91301-014-p7s3
+1	S	RR--7----------	AuxP
+2	odvoláním	NNNS7-----A----	Adv
+3	na	RR--4----------	AuxP
+4	ministerské	AAIP4----1A----	Atr
+5	zdroje	NNIP4-----A----	Atr
+6	agentura	NNFS1-----A----	Sb
+7	uvedla	VpQW---XR-AA---	Pred
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	pracovníci	NNMP1-----A----	Sb
+11	ministerstva	NNNS2-----A----	Atr
+12	spálili	VpMP---XR-AA---	Obj
+13	kompromitující	AGIP4-----A----	Atr
+14	materiály	NNIP4-----A----	Obj
+15	o	RR--6----------	AuxP
+16	zkorumpovaných	AAMP6----1A----	Atr
+17	policejních	AAMP6----1A----	Atr
+18	činitelích	NNMP6-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd91301-014-p7s4
+1	Podobných	AAFP2----1A----	Atr
+2	informací	NNFP2-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	nezávisle	Dg-------1N----	AuxP
+5	na	RR--6----------	AuxP
+6	agentuře	NNFS6-----A----	Adv
+7	dopátrali	VpMP---XR-AA---	Pred
+8	novináři	NNMP1-----A----	Sb
+9	zpravodajského	AAIS2----1A----	Atr
+10	pořadu	NNIS2-----A----	Atr
+11	ruské	AAFS2----1A----	Atr
+12	televize	NNFS2-----A----	Atr
+13	Věsti	NNXXX-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd91301-014-p7s5
+1	TASS	NNFXX-----A---8	Sb
+2	upozornil	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxR
+6	počítá	VB-S---3P-AA---	Obj
+7	i	J^-------------	AuxZ
+8	s	RR--7----------	AuxP
+9	likvidací	NNFS7-----A----	Obj
+10	složek	NNFP2-----A----	Atr
+11	politiků	NNMP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	kteří	P4MP1----------	Sb
+14	brali	VpMP---XR-AA---	Atr
+15	úplatky	NNIP4-----A----	Obj
+16	a	J^-------------	Coord
+17	měli	VpMP---XR-AA---	Atr
+18	spojení	NNNS4-----A----	Obj
+19	se	RV--7----------	AuxP
+20	zločineckým	AANS7----1A----	Atr
+21	podsvětím	NNNS7-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd91301-014-p7s6
+1	Oficiální	AAMS1----1A----	Atr
+2	mluvčí	NNMS1-----A----	Sb
+3	bývalé	AAFS2----1A----	Atr
+4	sovětské	AAFS2----1A----	Atr
+5	tajné	AAFS2----1A----	Atr
+6	služby	NNFS2-----A----	Atr
+7	KGB	NNFXX-----A---8	Atr
+8	,	Z:-------------	AuxX
+9	nového	AANS2----1A----	Atr
+10	ministerstva	NNNS2-----A----	Atr
+11	i	J^-------------	Coord
+12	Ruské	AAFS2----1A----	Atr
+13	federální	AAFS2----1A----	Atr
+14	bezpečnostní	AAFS2----1A----	Atr
+15	agentury	NNFS2-----A----	Atr
+16	tyto	PDFP4----------	Atr
+17	informace	NNFP4-----A----	Obj
+18	popřeli	VpMP---XR-AA---	Pred
+19	.	Z:-------------	AuxK
+
+lnd91301-014-p8s1
+1	Ústavní	AAIS1----1A----	Atr
+2	soud	NNIS1-----A----	Sb
+3	Ruské	AAFS2----1A----	Atr
+4	federace	NNFS2-----A----	Atr
+5	obvinil	VpYS---XR-AA---	Pred
+6	ve	RV--4----------	AuxP
+7	čtvrtek	NNIS4-----A----	Adv
+8	nejvyšší	AAIP4----3A----	Atr
+9	orgány	NNIP4-----A----	Obj
+10	zákonodárné	AAFS2----1A----	Atr
+11	i	J^-------------	Coord
+12	výkonné	AAFS2----1A----	Atr
+13	moci	NNFS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Ruské	AAFS6----1A----	Atr
+16	federaci	NNFS6-----A----	Atr
+17	ze	RV--2----------	AuxP
+18	"	Z:-------------	AuxG
+19	zjevného	AANS2----1A----	Atr
+20	ignorování	NNNS2-----A----	Obj
+21	ústavních	AAFP2----1A----	Atr
+22	norem	NNFP2-----A----	Atr
+23	"	Z:-------------	AuxG
+24	.	Z:-------------	AuxK
+
+lnd91301-014-p8s2
+1	To	PDNS1----------	Sb
+2	se	P7-X4----------	AuxT
+3	vztahuje	VB-S---3P-AA---	Pred
+4	především	Db-------------	AuxZ
+5	na	RR--4----------	AuxP
+6	výnos	NNIS4-----A----	Obj
+7	prezidenta	NNMS2-----A----	Atr
+8	Jelcina	NNMS2-----A----	Atr
+9	o	RR--6----------	AuxP
+10	sloučení	NNNS6-----A----	Atr
+11	orgánů	NNIP2-----A----	Atr
+12	bezpečnosti	NNFS2-----A----	Atr
+13	a	J^-------------	Coord
+14	vnitra	NNNS2-----A----	Atr
+15	,	Z:-------------	Coord
+16	dále	Dg-------2A---1	ExD
+17	na	RR--4----------	AuxP
+18	změny	NNFP4-----A----	ExD
+19	v	RR--6----------	AuxP
+20	zákoně	NNIS6-----A----	Atr
+21	o	RR--6----------	AuxP
+22	tisku	NNIS6-----A----	Atr
+23	schváleném	AAIS6----1A----	Atr
+24	parlamentem	NNIS7-----A----	Obj
+25	a	J^-------------	Coord
+26	na	RR--4----------	AuxP
+27	způsob	NNIS4-----A----	ExD
+28	,	Z:-------------	AuxX
+29	jakým	P4ZS7----------	Adv
+30	ruští	AAMP1----1A----	Atr
+31	poslanci	NNMP1-----A----	Sb
+32	změnili	VpMP---XR-AA---	Atr
+33	název	NNIS4-----A----	Obj
+34	republiky	NNFS2-----A----	Atr
+35	.	Z:-------------	AuxK
+
+lnd91301-014-p8s3
+1	Proti	RR--3----------	AuxP
+2	sloučení	NNNS3-----A----	Adv
+3	orgánů	NNIP2-----A----	Atr
+4	vnitra	NNNS2-----A----	Atr
+5	a	J^-------------	Coord
+6	bezpečnosti	NNFS2-----A----	Atr
+7	se	P7-X4----------	AuxT
+8	ve	RV--4----------	AuxP
+9	čtvrtek	NNIS4-----A----	Adv
+10	vyslovil	VpYS---XR-AA---	Pred
+11	i	J^-------------	AuxZ
+12	ruský	AAIS1----1A----	Atr
+13	parlament	NNIS1-----A----	Sb
+14	a	J^-------------	Coord
+15	v	RR--6----------	AuxP
+16	téměř	Db-------------	Adv
+17	jednomyslně	Dg-------1A----	Adv
+18	přijatém	AANS6----1A----	Atr
+19	usnesení	NNNS6-----A----	Adv
+20	doporučil	VpYS---XR-AA---	Pred
+21	B	NNMXX-----A---8	Atr
+22	.	Z:-------------	AuxG
+23	Jelcinovi	NNMS3-----A----	Obj
+24	,	Z:-------------	AuxX
+25	aby	J,-------------	AuxC
+26	tento	PDIS4----------	Atr
+27	výnos	NNIS4-----A----	Obj
+28	zrušil	VpYS---XR-AA---	Obj
+29	.	Z:-------------	AuxK
+
+lnd91301-014-p9s1
+1	Čínský	AAMS1----1A----	Atr
+2	ministr	NNMS1-----A----	Atr
+3	zahraničí	NNNS2-----A----	Atr
+4	Čchien	NNMS1-----A----	Sb
+5	Čchi	NNMXX-----A----	Atr
+6	-	Z:-------------	AuxG
+7	čchen	NNMS1-----A----	Atr
+8	informoval	VpYS---XR-AA---	Pred
+9	včera	Db-------------	Adv
+10	ministra	NNMS4-----A----	Atr
+11	zahraničí	NNNS2-----A----	Atr
+12	Ruské	AAFS2----1A----	Atr
+13	federace	NNFS2-----A----	Atr
+14	Andreje	NNMS4-----A----	Atr
+15	Kozyreva	NNMS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	čínská	AAFS1----1A----	Atr
+19	vláda	NNFS1-----A----	Sb
+20	uznala	VpQW---XR-AA---	Obj
+21	vládu	NNFS4-----A----	Obj
+22	této	PDFS2----------	Atr
+23	republiky	NNFS2-----A----	Atr
+24	a	J^-------------	Coord
+25	čínského	AAMS4----1A----	Atr
+26	velvyslance	NNMS4-----A----	Obj
+27	v	RR--6----------	AuxP
+28	bývalém	AAIS6----1A----	Atr
+29	SSSR	NNIXX-----A---8	Atr
+30	jmenovala	VpQW---XR-AA---	Obj
+31	velvyslancem	NNMS7-----A----	Obj
+32	v	RR--6----------	AuxP
+33	Ruské	AAFS6----1A----	Atr
+34	federaci	NNFS6-----A----	Atr
+35	.	Z:-------------	AuxK
+
+lnd91301-014-p9s2
+1	Čína	NNFS1-----A----	Sb
+2	uznala	VpQW---XR-AA---	Pred
+3	také	Db-------------	AuxZ
+4	nezávislost	NNFS4-----N----	Obj
+5	všech	PLXP2----------	Atr
+6	jedenácti	Cn-P2----------	Atr
+7	bývalých	AAFP2----1A----	Atr
+8	svazových	AAFP2----1A----	Atr
+9	republik	NNFP2-----A----	Atr
+10	včetně	RR--2----------	AuxP
+11	Gruzie	NNFS2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+lnd91301-014-p9s3
+1	Rusko	NNNS4-----A----	Obj
+2	oficiálně	Dg-------1A----	Adv
+3	uznaly	VpTP---XR-AA---	Pred
+4	i	J^-------------	AuxZ
+5	Japonsko	NNNS1-----A----	Sb
+6	a	J^-------------	Coord
+7	Řecko	NNNS1-----A----	Sb
+8	.	Z:-------------	AuxK
+
+lnd91301-014-p9s4
+1	Všechny	PLFP4----------	Atr
+2	členské	AAFP4----1A----	Atr
+3	země	NNFP4-----A----	Obj
+4	nového	AANS2----1A----	Atr
+5	Společenství	NNNS2-----A----	Atr
+6	uznaly	VpTP---XR-AA---	Pred
+7	Severní	AAFS1----1A----	Atr
+8	Korea	NNFS1-----A----	Sb
+9	a	J^-------------	Coord
+10	Indie	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+lnd91301-014-p10s1
+1	Německý	AAMS1----1A----	Atr
+2	ministr	NNMS1-----A----	Atr
+3	zahraničí	NNNS2-----A----	Atr
+4	Hans	NNMS1-----A----	Atr
+5	-	Z:-------------	AuxG
+6	Dietrich	NNMS1-----A----	Atr
+7	Genscher	NNMS1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	vyslovil	VpYS---XR-AA---	Pred
+10	pro	RR--4----------	AuxP
+11	začlenění	NNNS4-----A----	Adv
+12	SNS	NNFXX-----A---8	Atr
+13	do	RR--2----------	AuxP
+14	mezinárodních	AAFP2----1A----	Atr
+15	bezpečnostních	AAFP2----1A----	Atr
+16	a	J^-------------	Coord
+17	hospodářských	AAFP2----1A----	Atr
+18	struktur	NNFP2-----A----	Atr
+19	,	Z:-------------	AuxX
+20	jako	J,-------------	AuxY
+21	jsou	VB-P---3P-AA---	Apos
+22	KBSE	NNFXX-----A---8	Atr
+23	a	J^-------------	Coord
+24	Severoatlantická	AAFS1----1A----	Atr
+25	rada	NNFS1-----A----	Atr
+26	pro	RR--4----------	AuxP
+27	spolupráci	NNFS4-----A----	Atr
+28	.	Z:-------------	AuxK
+
+lnd91301-014-p10s2
+1	O	RR--6----------	AuxP
+2	M	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Gorbačovovi	NNMS6-----A----	Obj
+5	Genscher	NNMS1-----A----	Sb
+6	řekl	VpYS---XR-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	to	PDNS1----------	Sb
+10	byl	VpYS---XR-AA---	Obj
+11	"	Z:-------------	AuxG
+12	odvážný	AAMS1----1A----	Atr
+13	muž	NNMS1-----A----	Pnom
+14	a	J^-------------	Coord
+15	vizionář	NNMS1-----A----	Pnom
+16	,	Z:-------------	AuxX
+17	který	P4YS1----------	Sb
+18	svým	P8ZS7----------	Atr
+19	odpovědným	AAIS7----1A----	Atr
+20	postojem	NNIS7-----A----	Adv
+21	umožnil	VpYS---XR-AA---	Atr
+22	ve	RV--6----------	AuxP
+23	své	P8FS6---------1	Atr
+24	zemi	NNFS6-----A----	Adv
+25	mírový	AAIS4----1A----	Atr
+26	přechod	NNIS4-----A----	Obj
+27	od	RR--2----------	AuxP
+28	centralistického	AAIS2----1A----	Atr
+29	systému	NNIS2-----A----	Atr
+30	k	RR--3----------	AuxP
+31	demokratickým	AAFP3----1A----	Atr
+32	strukturám	NNFP3-----A----	Atr
+33	"	Z:-------------	AuxG
+34	.	Z:-------------	AuxK
+
+lnd91301-014-p10s3
+1	Podle	RR--2----------	AuxP
+2	ministrova	AUIS2M---------	Atr
+3	názoru	NNIS2-----A----	Adv
+4	"	Z:-------------	AuxG
+5	bude	VB-S---3F-AA---	AuxV
+6	politik	NNMS1-----A----	Sb
+7	Gorbačovova	AUIS2M---------	Atr
+8	formátu	NNIS2-----A----	Atr
+9	hrát	Vf--------A----	Pred
+10	i	J^-------------	AuxZ
+11	v	RR--6----------	AuxP
+12	budoucnu	NNNS6-----A----	Adv
+13	na	RR--6----------	AuxP
+14	politické	AAFS6----1A----	Atr
+15	scéně	NNFS6-----A----	Adv
+16	nových	AAFP2----1A----	Atr
+17	republik	NNFP2-----A----	Atr
+18	důležitou	AAFS4----1A----	Atr
+19	úlohu	NNFS4-----A----	Obj
+20	"	Z:-------------	AuxG
+21	.	Z:-------------	AuxK
+
+lnd91301-014-p11s1
+1	GORBAČOV	NNMS1-----A----	ExD
+2	:	Z:-------------	ExD
+3	CHVÁLA	NNFS1-----A----	ExD
+4	BOHU	NNMS3-----A----	Atr
+5	!	Z:-------------	ExD
+
+lnd91301-014-p13s1
+1	Můj	PSYS1-S1-------	Atr
+2	přechod	NNIS1-----A----	Sb
+3	do	RR--2----------	AuxP
+4	opozice	NNFS2-----A----	Atr
+5	by	Vc-------------	AuxV
+6	nebyl	VpYS---XR-NA---	Obj
+7	žádným	PWZS7----------	Atr
+8	způsobem	NNIS7-----A----	Adv
+9	ospravedlnitelný	AAIS1----1A----	Pnom
+10	,	Z:-------------	Apos
+11	ani	J^-------------	AuxY
+12	z	RR--2----------	AuxP
+13	politického	AANS2----1A----	Atr
+14	hlediska	NNNS2-----A----	Adv
+15	,	Z:-------------	AuxX
+16	ani	J^-------------	Coord
+17	vzhledem	RF-------------	AuxP
+18	k	RR--3----------	AuxP
+19	zájmům	NNIP3-----A----	Adv
+20	země	NNFS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	řekl	VpYS---XR-AA---	Pred
+23	Michail	NNMS1-----A----	Atr
+24	Gorbačov	NNMS1-----A----	Sb
+25	několik	Ca--4----------	Adv
+26	hodin	NNFP2-----A----	Atr
+27	po	RR--6----------	AuxP
+28	své	P8FS6---------1	Atr
+29	demisi	NNFS6-----A----	Atr
+30	v	RR--6----------	AuxP
+31	interview	NNNXX-----A----	Adv
+32	,	Z:-------------	AuxX
+33	které	P4NS4----------	Obj
+34	včera	Db-------------	Adv
+35	zveřejnil	VpYS---XR-AA---	Atr
+36	italský	AAIS1----1A----	Atr
+37	deník	NNIS1-----A----	Sb
+38	La	AAFSX----1A----	Atr
+39	Repubblica	NNFS1-----A----	Atr
+40	.	Z:-------------	AuxK
+
+lnd91301-014-p13s2
+1	Gorbačov	NNMS1-----A----	Sb
+2	hovořil	VpYS---XR-AA---	Pred
+3	i	J^-------------	AuxZ
+4	o	RR--6----------	AuxP
+5	svých	P8XP6----------	Atr
+6	rodinných	AAIP6----1A----	Atr
+7	plánech	NNIP6-----A----	Obj
+8	.	Z:-------------	AuxK
+
+lnd91301-014-p13s3A
+1	Uděláme	VB-P---1P-AA---	Obj
+2	teď	Db-------------	Adv
+3	menší	AAFS4----2A----	Atr
+4	"	Z:-------------	AuxG
+5	rodinnou	AAFS4----1A----	Atr
+6	přestavbu	NNFS4-----A----	Obj
+7	"	Z:-------------	AuxG
+8	,	Z:-------------	AuxX
+9	přestěhujeme	VB-P---1P-AA---	Obj
+10	se	P7-X4----------	AuxT
+11	,	Z:-------------	Coord
+12	náš	PSYS1-P1-------	Atr
+13	život	NNIS1-----A----	Sb
+14	bude	VB-S---3F-AA---	Obj
+15	normálnější	AAIS1----2A----	Pnom
+16	,	Z:-------------	AuxX
+17	řekl	VpYS---XR-AA---	Pred
+18	v	RR--6----------	AuxP
+19	této	PDFS6----------	Atr
+20	souvislosti	NNFS6-----A----	Adv
+21	.	Z:-------------	AuxK
+
+lnd91301-014-p13s3B
+1	"	Z:-------------	AuxG
+2	Ale	J^-------------	Coord
+3	musím	VB-S---1P-AA---	Pred
+4	říci	Vf--------A---1	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	nálada	NNFS1-----A----	Sb
+8	mé	PSFS2-S1------1	Atr
+9	rodiny	NNFS2-----A----	Atr
+10	je	VB-S---3P-AA---	Obj
+11	nyní	Db-------------	Adv
+12	stejná	AAFS1----1A----	Pnom
+13	jako	J,-------------	AuxC
+14	moje	PSHS1-S1-------	ExD
+15	.	Z:-------------	AuxK
+
+lnd91301-014-p13s4
+1	Nevidím	VB-S---1P-NA---	Pred
+2	žádná	PWNP4----------	Atr
+3	dramata	NNNP4-----A----	Obj
+4	,	Z:-------------	AuxX
+5	ani	J^-------------	Coord
+6	moji	PSMP1-S1-------	Atr
+7	nejbližší	AAMP1----3A----	ExD
+8	.	Z:-------------	AuxK
+
+lnd91301-014-p13s5
+1	Je	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	přirozený	AAIS1----1A----	Atr
+4	vývoj	NNIS1-----A----	Pnom
+5	.	Z:-------------	AuxK
+
+lnd91301-014-p13s6
+1	Chvála	NNFS1-----A----	ExD
+2	Bohu	NNMS3-----A----	Atr
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	je	VB-S---3P-AA---	ExD
+6	tak	Db-------------	Adv
+7	přirozený	AAIS1----1A----	Pnom
+8	.	Z:-------------	AuxK
+
+lnd91301-014-p13s7
+1	V	RR--6----------	AuxP
+2	naší	PSFS6-P1-------	Atr
+3	zemi	NNFS6-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	nic	PW--1----------	Sb
+6	takového	PDZS2----------	Atr
+7	nikdy	Db-------------	Adv
+8	nestalo	VpNS---XR-NA---	Pred
+9	.	Z:-------------	AuxK
+10	"	Z:-------------	AuxG
+
+lnd91301-014-p14s1
+1	Příchod	NNIS4-----A----	Obj
+2	Nového	AAIS2----1A----	Atr
+3	roku	NNIS2-----A---1	Atr
+4	oslaví	VB-S---3P-AA---	Pred
+5	M	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Gorbačov	NNMS1-----A----	Sb
+8	v	RR--6----------	AuxP
+9	Moskvě	NNFS6-----A----	Adv
+10	.	Z:-------------	AuxK
+
+lnd91301-014-p14s2
+1	Poté	Db-------------	Adv
+2	odjede	VB-S---3P-AA---	Pred
+3	do	RR--2----------	AuxP
+4	Stavropolského	AAIS2----1A----	Atr
+5	kraje	NNIS2-----A----	Adv
+6	na	RR--4----------	AuxP
+7	jih	NNIS4-----A----	Adv
+8	Ruska	NNNS2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	kde	Db-------------	Adv
+11	žije	VB-S---3P-AA---	Atr
+12	jeho	PSXXXZS3-------	Atr
+13	matka	NNFS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+lnd91301-014-p15s1
+1	Na	RR--6----------	AuxP
+2	čtvrteční	AAFS6----1A----	Atr
+3	recepci	NNFS6-----A----	Adv
+4	,	Z:-------------	AuxX
+5	kterou	P4FS4----------	Obj
+6	uspořádal	VpYS---XR-AA---	Atr
+7	pro	RR--4----------	AuxP
+8	novináře	NNMP4-----A----	Adv
+9	v	RR--6----------	AuxP
+10	moskevském	AAIS6----1A----	Atr
+11	bývalém	AAIS6----1A----	Atr
+12	stranickém	AAIS6----1A----	Atr
+13	hotelu	NNIS6-----A----	Adv
+14	Okťabrskaja	NNFS1-----A----	Atr
+15	,	Z:-------------	AuxX
+16	konstatovali	VpMP---XR-AA---	Pred
+17	zúčastnění	AAMP1----1A----	Atr
+18	novináři	NNMP1-----A----	Sb
+19	perfektní	AAFS4----1A----	Atr
+20	Gorbačovovu	AUFS4M---------	Atr
+21	formu	NNFS4-----A----	Obj
+22	.	Z:-------------	AuxK
+
+lnd91301-014-p15s2
+1	Dotázán	VsYS---XX-AP---	AtvV
+2	na	RR--4----------	AuxP
+3	svůj	P8IS4----------	Atr
+4	postoj	NNIS4-----A----	Obj
+5	k	RR--3----------	AuxP
+6	alkoholu	NNIS3-----A----	Atr
+7	(	Z:-------------	AuxG
+8	jako	J,-------------	AuxY
+9	politický	AAMS1----1A----	Atr
+10	činitel	NNMS1-----A----	AtvV
+11	prosadil	VpYS---XR-AA---	Pred
+12	proslulou	AAFS4----1A----	Atr
+13	protialkoholickou	AAFS4----1A----	Atr
+14	kampaň	NNFS4-----A----	Obj
+15	)	Z:-------------	AuxG
+16	,	Z:-------------	AuxX
+17	řekl	VpYS---XR-AA---	Pred
+18	:	Z:-------------	AuxG
+19	"	Z:-------------	AuxG
+20	Dnes	Db-------------	Adv
+21	si	P7-X3----------	Obj
+22	to	PDNS4----------	Obj
+23	mohu	VB-S---1P-AA--1	Obj
+24	dopřát	Vf--------A----	Obj
+25	.	Z:-------------	AuxK
+26	"	Z:-------------	AuxG
+
+lnd91301-014-p16s1
+1	A	J^-------------	Coord
+2	upil	VpYS---XR-AA---	Pred
+3	ze	RV--2----------	AuxP
+4	skleničky	NNFS2-----A----	Adv
+5	.	Z:-------------	AuxK
+

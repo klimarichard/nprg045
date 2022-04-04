@@ -1,0 +1,152 @@
+ln94204-40-p1s1
+1	Flora	NNFS1-----A----	Sb
+2	odmítla	VpQW---XR-AA--1	Pred
+3	převzít	Vf--------A----	Obj
+4	stezky	NNFP4-----A----	Obj
+5	pro	RR--4----------	AuxP
+6	cyklisty	NNMP4-----A----	Atr
+
+ln94204-40-p2s1A
+1	Olomouc	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	pet	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94204-40-p2s1B
+1	Včerejší	AAFS1----1A----	Atr
+2	kolaudace	NNFS1-----A----	Sb
+3	potvrdila	VpQW---XR-AA---	Pred
+4	způsobilost	NNFS4-----A----	Obj
+5	cyklistických	AAFP2----1A----	Atr
+6	stezek	NNFP2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	vybudovaných	AAFP2----1A----	Atr
+9	v	RR--6----------	AuxP
+10	olomouckých	AAIP6----1A----	Atr
+11	parcích	NNIP6-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94204-40-p2s2
+1	Stezky	NNFP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	sice	Db-------------	AuxY
+4	připraveny	VsTP---XX-AP---	Pnom
+5	k	RR--3----------	AuxP
+6	provozu	NNIS3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	výstavnická	AAFS1----1A----	Atr
+9	organizace	NNFS1-----A----	Sb
+10	FLORA	NNFS1-----A----	Atr
+11	,	Z:-------------	AuxX
+12	která	P4FS1----------	Sb
+13	parky	NNIP4-----A----	Obj
+14	spravuje	VB-S---3P-AA---	Atr
+15	,	Z:-------------	AuxX
+16	je	PPXP4--3-------	Obj
+17	však	J^-------------	Coord
+18	odmítla	VpQW---XR-AA--1	Pred
+19	od	RR--2----------	AuxP
+20	Úřadu	NNIS2-----A----	Obj
+21	města	NNNS2-----A----	Atr
+22	Olomouce	NNFS2-----A----	Atr
+23	převzít	Vf--------A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94204-40-p2s3
+1	Zkolaudované	AAFP1----1A----	Atr
+2	stezky	NNFP1-----A----	Sb
+3	tak	J^-------------	Adv
+4	de	RR--1----------	Atr
+5	facto	NNNXX-----A----	Adv
+6	dnes	Db-------------	Adv
+7	nikomu	PWM-3----------	Obj
+8	nepatří	VB-P---3P-NA---	Pred
+9	,	Z:-------------	Coord
+10	nikdo	PWM-1----------	Sb
+11	nad	RR--7----------	AuxP
+12	nimi	P5XP7--3-------	Atr
+13	nemá	VB-S---3P-NA---	Pred
+14	dohled	NNIS4-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94204-40-p2s4
+1	Flora	NNFS1-----A----	Sb
+2	je	PPXP4--3-------	Obj
+3	přijme	VB-S---3P-AA---	Pred
+4	do	RR--2----------	AuxP
+5	správy	NNFS2-----A----	Adv
+6	až	TT-------------	AuxZ
+7	v	RR--6----------	AuxP
+8	okamžiku	NNIS6-----A----	Adv
+9	,	Z:-------------	AuxX
+10	kdy	Db-------------	Adv
+11	budou	VB-P---3F-AA---	AuxV
+12	vyhláškou	NNFS7-----A----	Adv
+13	města	NNNS2-----A----	Atr
+14	stanovena	VsQW---XX-AP---	Atr
+15	provozní	AANP1----1A----	Atr
+16	pravidla	NNNP1-----A----	Sb
+17	.	Z:-------------	AuxK
+
+ln94204-40-p2s5
+1	Ředitel	NNMS1-----A----	Atr
+2	výstaviště	NNNS2-----A----	Atr
+3	ing	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	J	NNMXX-----A---8	Atr
+6	.	Z:-------------	AuxG
+7	Sítař	NNMS1-----A----	Sb
+8	má	VB-S---3P-AA---	Pred
+9	obavy	NNFP4-----A----	Obj
+10	z	RR--2----------	AuxP
+11	toho	PDZS2----------	Atr
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	neukáznění	AAMP1----1N----	Atr
+15	cyklisté	NNMP1-----A----	Sb
+16	nemohou	VB-P---3P-NA--1	Atr
+17	být	Vf--------A----	AuxV
+18	v	RR--6----------	AuxP
+19	současné	AAFS6----1A----	Atr
+20	době	NNFS6-----A----	Adv
+21	při	RR--6----------	AuxP
+22	devastaci	NNFS6-----A----	Adv
+23	travnatých	AAFP2----1A----	Atr
+24	ploch	NNFP2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	parku	NNIS6-----A----	Atr
+27	při	RR--6----------	AuxP
+28	vyjíždění	NNNS6-----A----	Atr
+29	ze	RV--2----------	AuxP
+30	stezky	NNFS2-----A----	Atr
+31	pokutováni	VsMP---XX-AP---	Obj
+32	.	Z:-------------	AuxK
+
+ln94204-40-p2s6
+1	Jak	J,-------------	Adv
+2	LN	NNFPX-----A---8	Obj
+3	informoval	VpYS---XR-AA---	Pred
+4	ing	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Martínek	NNMS1-----A----	Sb
+7	z	RR--2----------	AuxP
+8	místního	AAIS2----1A----	Atr
+9	odboru	NNIS2-----A----	Atr
+10	dopravy	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	radnice	NNFS1-----A----	Sb
+13	bude	VB-S---3F-AA---	AuxV
+14	o	RR--6----------	AuxP
+15	podmínkách	NNFP6-----A----	Obj
+16	provozu	NNIS2-----A----	Atr
+17	na	RR--6----------	AuxP
+18	cyklistických	AAFP6----1A----	Atr
+19	stezkách	NNFP6-----A----	Atr
+20	jednat	Vf--------A----	Pred
+21	až	TT-------------	AuxZ
+22	za	RR--4----------	AuxP
+23	dva	ClYP4----------	Atr
+24	týdny	NNIP4-----A----	Adv
+25	.	Z:-------------	AuxK
+

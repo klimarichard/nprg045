@@ -1,0 +1,343 @@
+ln94209-22-p1s1
+1	Ušetřené	AAFP1----1A----	Atr
+2	miliardy	NNFP1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měly	VpTP---XR-AA---	Pred
+5	pomoci	Vf--------A---1	Obj
+6	infrastruktuře	NNFS3-----A----	Obj
+7	a	J^-------------	Coord
+8	daním	NNFP3-----A----	Obj
+
+ln94209-22-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	em	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94209-22-p2s1B
+1	Státní	AAIS1----1A----	Atr
+2	rozpočet	NNIS1-----A----	Sb
+3	skončil	VpYS---XR-AA---	Pred
+4	koncem	NNIS7-----A----	AuxP
+5	srpna	NNIS2-----A----	Adv
+6	přebytkem	NNIS7-----A----	Adv
+7	ve	RV--6----------	AuxP
+8	výši	NNFS6-----A----	Atr
+9	8	C=-------------	Atr
+10	,	Z:-------------	Atr
+11	5	C=-------------	Atr
+12	miliardy	NNFS2-----A----	Atr
+13	korun	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94209-22-p2s2
+1	Ministerstvo	NNNS1-----A----	Sb
+2	financí	NNFP2-----A----	Atr
+3	navrhlo	VpNS---XR-AA--1	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	tyto	PDFP1----------	Atr
+7	úspory	NNFP1-----A----	Sb
+8	byly	VpTP---XR-AA---	AuxV
+9	převedeny	VsTP---XX-AP---	Obj
+10	do	RR--2----------	AuxP
+11	rozpočtu	NNIS2-----A----	Adv
+12	na	RR--4----------	AuxP
+13	příští	AAIS4----1A----	Atr
+14	rok	NNIS4-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94209-22-p2s3
+1	K	RR--3----------	AuxP
+2	tomu	PDZS3----------	Obj
+3	,	Z:-------------	AuxX
+4	jak	Db-------------	Adv
+5	by	Vc-------------	AuxV
+6	měla	VpQW---XR-AA---	Atr
+7	být	Vf--------A----	AuxV
+8	osmimiliardová	AAFS1----1A----	Atr
+9	částka	NNFS1-----A----	Sb
+10	využita	VsQW---XX-AP---	Obj
+11	,	Z:-------------	AuxX
+12	se	P7-X4----------	AuxT
+13	pro	RR--4----------	AuxP
+14	Lidové	AAFP4----1A----	Atr
+15	noviny	NNFP4-----A----	Adv
+16	vyjádřili	VpMP---XR-AA---	Pred
+17	představitelé	NNMP1-----A----	Sb
+18	některých	PZXP2----------	Atr
+19	politických	AAFP2----1A----	Atr
+20	stran	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94209-22-p3s1
+1	Místopředseda	NNMS1-----A----	Atr
+2	ODA	NNFXX-----A---8	Atr
+3	Libor	NNMS1-----A----	Atr
+4	Kudláček	NNMS1-----A----	Sb
+5	se	P7-X4----------	AuxT
+6	domnívá	VB-S---3P-AA---	Pred
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	přebytek	NNIS1-----A----	Sb
+10	umožňuje	VB-S---3P-AA---	Obj
+11	,	Z:-------------	AuxX
+12	aby	J,-------------	AuxC
+13	se	P7-X4----------	AuxR
+14	příští	AAIS4----1A----	Atr
+15	rok	NNIS4-----A----	Adv
+16	adekvátně	Dg-------1A----	Adv
+17	této	PDFS3----------	Atr
+18	částce	NNFS3-----A----	Obj
+19	snížily	VpTP---XR-AA---	Obj
+20	daně	NNFP1-----A----	Sb
+21	.	Z:-------------	AuxK
+
+ln94209-22-p4s1
+1	Předseda	NNMS1-----A----	Atr
+2	ČSSD	NNFXX-----A---8	Atr
+3	Miloš	NNMS1-----A----	Atr
+4	Zeman	NNMS1-----A----	Sb
+5	je	VB-S---3P-AA---	Pred
+6	přesvědčen	VsYS---XX-AP---	Pnom
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	rozpočet	NNIS1-----A----	Sb
+10	nejenže	Db-------------	AuxZ
+11	není	VB-S---3P-NA---	Obj
+12	přebytkový	AAIS1----1A----	Pnom
+13	,	Z:-------------	AuxX
+14	ale	J^-------------	Coord
+15	je	VB-S---3P-AA---	Obj
+16	skrytě	Dg-------1A----	Adv
+17	deficitní	AAIS1----1A----	Pnom
+18	.	Z:-------------	AuxK
+
+ln94209-22-p4s2
+1	Údajně	Dg-------1A----	ExD
+2	zejména	Db-------------	AuxZ
+3	zásluhou	NNFS7-----A----	ExD
+4	toho	PDZS2----------	Atr
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	čerpá	VB-S---3P-AA---	Atr
+8	z	RR--2----------	AuxP
+9	fondu	NNIS2-----A----	Adv
+10	sociálního	AANS2----1A----	Atr
+11	zabezpečení	NNNS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94209-22-p4s3
+1	Žijeme	VB-P---1P-AA---	Obj
+2	na	RR--4----------	AuxP
+3	dluh	NNIS4-----A----	Adv
+4	přítomných	AAMP2----1A----	Atr
+5	i	J^-------------	Coord
+6	budoucích	AAMP2----1A----	Atr
+7	důchodců	NNMP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	poznamenal	VpYS---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+ln94209-22-p4s4
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	bylo	VpNS---XR-AA---	ExD
+4	možné	AANS1----1A----	Pnom
+5	8	C=-------------	Obj
+6	miliard	NNFP2-----A----	Atr
+7	skutečně	Dg-------1A----	Adv
+8	někam	Db-------------	Adv
+9	investovat	Vf--------A----	Sb
+10	,	Z:-------------	AuxX
+11	pak	Db-------------	ExD
+12	podle	RR--2----------	AuxP
+13	Zemana	NNMS2-----A----	ExD
+14	do	RR--2----------	AuxP
+15	infrastruktury	NNFS2-----A----	ExD
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	vytváří	VB-S---3P-AA---	Atr
+19	podmínky	NNFP4-----A----	Obj
+20	podnikání	NNNS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94209-22-p5s1
+1	Mluvčí	NNFS1-----A----	Atr
+2	ODS	NNFXX-----A---8	Atr
+3	Jana	NNFS1-----A----	Atr
+4	Petrová	NNFS1-----A----	Sb
+5	považuje	VB-S---3P-AA---	Pred
+6	tuto	PDFS4----------	Atr
+7	debatu	NNFS4-----A----	Obj
+8	za	RR--4----------	AuxP
+9	předčasnou	AAFS4----1A----	Obj
+10	.	Z:-------------	AuxK
+
+ln94209-22-p5s2
+1	Vzhledem	RF-------------	AuxP
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Adv
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	podle	RR--2----------	AuxP
+7	jejích	PSXP2FS3-------	Atr
+8	slov	NNNP2-----A----	Adv
+9	ODS	NNFXX-----A---8	Sb
+10	preferuje	VB-S---3P-AA---	Atr
+11	bezpečnost	NNFS4-----A----	Obj
+12	občanů	NNMP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	zdravotnictví	NNNS4-----A----	Obj
+15	a	J^-------------	Coord
+16	vzdělání	NNNS4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	není	VB-S---3P-NA---	Pred
+19	podle	RR--2----------	AuxP
+20	Petrové	NNFS2-----A----	Adv
+21	vyloučeno	VsNS---XX-AP---	Pnom
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	by	Vc-------------	AuxV
+25	ODS	NNFXX-----A---8	Sb
+26	podpořila	VpQW---XR-AA---	Sb
+27	,	Z:-------------	AuxX
+28	aby	J,-------------	AuxC
+29	ušetřené	AAFP1----1A----	Atr
+30	miliardy	NNFP1-----A----	Sb
+31	plynuly	VpTP---XR-AA---	Obj
+32	právě	Db-------------	AuxZ
+33	do	RR--2----------	AuxP
+34	těchto	PDXP2----------	Atr
+35	oblastí	NNFP2-----A----	Adv
+36	.	Z:-------------	AuxK
+
+ln94209-22-p6s1
+1	Předseda	NNMS1-----A----	Atr
+2	poslaneckého	AAIS2----1A----	Atr
+3	klubu	NNIS2-----A----	Atr
+4	KDU	NNFXX-----A---8	Atr
+5	-	Z:-------------	Coord
+6	ČSL	NNFXX-----A---8	Atr
+7	Libor	NNMS1-----A----	Atr
+8	Motyčka	NNMS1-----A----	Sb
+9	nám	PP-P3--1-------	Obj
+10	sdělil	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	ačkoli	J,------------1	AuxC
+14	vedení	NNNS1-----A----	Sb
+15	strany	NNFS2-----A----	Atr
+16	o	RR--6----------	AuxP
+17	tomto	PDZS6----------	Atr
+18	problému	NNIS6-----A----	Obj
+19	nediskutovalo	VpNS---XR-NA---	Adv
+20	,	Z:-------------	AuxX
+21	on	PPYS1--3-------	Sb
+22	sám	PLYS1----------	Atv
+23	má	VB-S---3P-AA---	Obj
+24	jasný	AAIS4----1A----	Atr
+25	osobní	AAIS4----1A----	Atr
+26	názor	NNIS4-----A----	Obj
+27	:	Z:-------------	AuxG
+28	Je	VB-S---3P-AA---	Atr
+29	to	PDNS1----------	Sb
+30	hodně	Dg-------1A----	Pnom
+31	peněz	NNIP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+ln94209-22-p6s2
+1	Část	NNFS4-----A----	Obj
+2	z	RR--2----------	AuxP
+3	nich	P5XP2--3-------	Atr
+4	by	Vc-------------	AuxV
+5	si	P7-X3----------	AuxT
+6	zasloužilo	VpNS---XR-AA---	Pred
+7	životní	AANS1----1A----	Atr
+8	prostředí	NNNS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	i	J^-------------	AuxY
+11	když	J,-------------	AuxC
+12	v	RR--6----------	AuxP
+13	poslední	AAFS6----1A----	Atr
+14	době	NNFS6-----A----	Adv
+15	dostalo	VpNS---XR-AA---	Adv
+16	šest	Cn-S4----------	Obj
+17	miliard	NNFP2-----A----	Atr
+18	z	RR--2----------	AuxP
+19	Fondu	NNIS2-----A----	Adv
+20	národního	AAIS2----1A----	Atr
+21	majetku	NNIS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+ln94209-22-p6s3
+1	Druhý	CrIS4----------	Atr
+2	okruh	NNIS4-----A----	Obj
+3	bych	Vc-S---1-------	AuxV
+4	spatřoval	VpYS---XR-AA---	Pred
+5	v	RR--6----------	AuxP
+6	posílení	NNNS6-----A----	Adv
+7	prostředků	NNIP2-----A----	Atr
+8	na	RR--4----------	AuxP
+9	budování	NNNS4-----A----	Atr
+10	infrastruktury	NNFS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94209-22-p6s4
+1	Poslance	NNMS4-----A----	Atr
+2	Motyčku	NNMS4-----A----	Obj
+3	příliš	Db-------------	Adv
+4	nepřekvapilo	VpNS---XR-NA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	se	P7-X4----------	AuxT
+8	v	RR--6----------	AuxP
+9	této	PDFS6----------	Atr
+10	věci	NNFS6-----A----	Adv
+11	shoduje	VB-S---3P-AA---	Sb
+12	se	RV--7----------	AuxP
+13	sociálními	AAMP7----1A----	Atr
+14	demokraty	NNMP7-----A----	Obj
+15	.	Z:-------------	AuxK
+
+ln94209-22-p6s5
+1	Nemyslím	VB-S---1P-NA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	bychom	Vc-P---1-------	AuxV
+5	v	RR--6----------	AuxP
+6	určitých	AAFP6----1A----	Atr
+7	věcech	NNFP6-----A----	Adv
+8	nemohli	VpMP---XR-NA---	Obj
+9	mít	Vf--------A----	Obj
+10	shodný	AAIS4----1A----	Atr
+11	názor	NNIS4-----A----	Obj
+12	s	RR--7----------	AuxP
+13	některou	PZFS7----------	Obj
+14	z	RR--2----------	AuxP
+15	opozičních	AAFP2----1A----	Atr
+16	stran	NNFP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94209-22-p6s6
+1	Bylo	VpNS---XR-AA---	Obj
+2	by	Vc-------------	AuxV
+3	to	PDNS1----------	Sb
+4	ku	RV--3---------1	AuxP
+5	prospěchu	NNIS3-----A----	Adv
+6	věci	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	kdyby	J,-------------	AuxC
+9	se	P7-X4----------	AuxT
+10	na	RR--6----------	AuxP
+11	prioritách	NNFP6-----A----	Obj
+12	dohodli	VpMP---XR-AA--1	Adv
+13	v	RR--6----------	AuxP
+14	rámci	NNIS6-----A----	AuxP
+15	celého	AAIS2----1A----	Atr
+16	parlamentu	NNIS2-----A----	Adv
+17	,	Z:-------------	AuxX
+18	dodal	VpYS---XR-AA---	Pred
+19	.	Z:-------------	AuxK
+

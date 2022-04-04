@@ -1,0 +1,459 @@
+cmpr9407-041-p2s1
+1	štoček	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Náš	PSYS1-P1-------	Atr
+4	obchodní	AAMS1----1A----	Atr
+5	partner	NNMS1-----A----	ExD
+
+cmpr9407-041-p3s1
+1	Rakousko	NNNS1-----A----	ExD
+
+cmpr9407-041-p4s1
+1	Vzájemný	AAIS1----1A----	Atr
+2	obchod	NNIS1-----A----	Sb
+3	mezi	RR--7----------	AuxP
+4	ČR	NNFXX-----A---8	Atr
+5	a	J^-------------	Coord
+6	Rakouskem	NNNS7-----A----	Atr
+7	činil	VpYS---XR-AA---	Pred
+8	loni	Db------------1	Adv
+9	kolem	RR--2----------	AuxP
+10	20	C=-------------	Atr
+11	mld	NNFXX-----A---8	Adv
+12	.	Z:-------------	AuxG
+13	šilinků	NNIP2-----A----	Atr
+14	,	Z:-------------	Coord
+15	přičemž	J,-------------	Adv
+16	rakouský	AAIS1----1A----	Atr
+17	vývoz	NNIS1-----A----	Sb
+18	převyšoval	VpYS---XR-AA---	Pred
+19	o	RR--4----------	AuxP
+20	dvě	ClHP4----------	Atr
+21	mld	NNFXX-----A---8	Adv
+22	.	Z:-------------	AuxG
+23	dovoz	NNIS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+cmpr9407-041-p4s2
+1	Proti	RR--3----------	AuxP
+2	roku	NNIS3-----A----	Adv
+3	1992	C=-------------	Atr
+4	stoupl	VpYS---XR-AA--1	Pred
+5	rakouský	AAIS1----1A----	Atr
+6	export	NNIS1-----A----	Sb
+7	o	RR--4----------	AuxP
+8	15	C=-------------	Adv
+9	%	Z:-------------	Atr
+10	a	J^-------------	Coord
+11	import	NNIS1-----A----	ExD
+12	o	RR--4----------	AuxP
+13	18	C=-------------	ExD
+14	%	Z:-------------	Atr
+15	.	Z:-------------	AuxK
+
+cmpr9407-041-p4s3
+1	Hlavní	AAFP4----1A----	Atr
+2	položky	NNFP4-----A----	Obj
+3	rakouského	AAIS2----1A----	Atr
+4	vývozu	NNIS2-----A----	Atr
+5	tvořily	VpTP---XR-AA---	Pred
+6	stroje	NNIP1-----A----	Sb
+7	a	J^-------------	Coord
+8	dopravní	AANP1----1A----	Atr
+9	zařízení	NNNP1-----A----	Sb
+10	(	Z:-------------	ExD
+11	40	C=-------------	ExD
+12	%	Z:-------------	Atr
+13	)	Z:-------------	ExD
+14	,	Z:-------------	AuxX
+15	polotovary	NNIP1-----A----	Sb
+16	,	Z:-------------	AuxX
+17	spotřební	AANS1----1A----	Atr
+18	zboží	NNNS1-----A----	Sb
+19	a	J^-------------	Coord
+20	chemické	AAIP1----1A----	Atr
+21	výrobky	NNIP1-----A----	Sb
+22	.	Z:-------------	AuxK
+
+cmpr9407-041-p4s4
+1	Z	RR--2----------	AuxP
+2	české	AAFS2----1A----	Atr
+3	strany	NNFS2-----A----	Adv
+4	to	PDNS1----------	Pnom
+5	byly	VpTP---XR-AA---	Pred
+6	suroviny	NNFP1-----A----	Sb
+7	(	Z:-------------	ExD
+8	36	C=-------------	ExD
+9	%	Z:-------------	Atr
+10	)	Z:-------------	ExD
+11	,	Z:-------------	AuxX
+12	polotovary	NNIP1-----A----	Sb
+13	(	Z:-------------	ExD
+14	22	C=-------------	ExD
+15	%	Z:-------------	Atr
+16	)	Z:-------------	ExD
+17	a	J^-------------	Coord
+18	stroje	NNIP1-----A----	Sb
+19	a	J^-------------	Coord
+20	dopravní	AANP1----1A----	Atr
+21	zařízení	NNNP1-----A----	Sb
+22	(	Z:-------------	ExD
+23	18	C=-------------	ExD
+24	%	Z:-------------	Atr
+25	)	Z:-------------	ExD
+26	.	Z:-------------	AuxK
+
+cmpr9407-041-p4s5
+1	Výrazně	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxT
+3	lepší	VB-S---3P-AA---	Pred
+4	skladba	NNFS1-----A----	Sb
+5	českého	AAIS2----1A----	Atr
+6	vývozu	NNIS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	když	J,-------------	AuxC
+9	klesá	VB-S---3P-AA---	Adv
+10	podíl	NNIS1-----A----	Sb
+11	surovin	NNFP2-----A----	Atr
+12	a	J^-------------	Coord
+13	roste	VB-S---3P-AA---	Adv
+14	zastoupení	NNNS1-----A----	Sb
+15	výrobků	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+cmpr9407-041-p5s1
+1	V	RR--6----------	AuxP
+2	ČR	NNFXX-----A---8	Adv
+3	působí	VB-S---3P-AA---	Pred
+4	formou	NNFS7-----A----	Adv
+5	joint	AAIXX----1A----	Atr
+6	venture	NNIXX-----A----	Atr
+7	nebo	J^-------------	Coord
+8	úplného	AANS2----1A----	Atr
+9	vlastnictví	NNNS2-----A----	Atr
+10	kolem	RR--2----------	AuxP
+11	2200	C=-------------	Atr
+12	rakouských	AAFP2----1A----	Atr
+13	,	Z:-------------	AuxX
+14	zejména	Db-------------	AuxZ
+15	menších	AAFP2----2A----	Atr
+16	společností	NNFP2-----A----	Sb
+17	.	Z:-------------	AuxK
+
+cmpr9407-041-p5s2
+1	Zájem	NNIS1-----A----	Sb
+2	o	RR--4----------	AuxP
+3	investice	NNFP4-----A----	Atr
+4	,	Z:-------------	AuxX
+5	které	P4FP1----------	Sb
+6	dosáhly	VpTP---XR-AA---	Atr
+7	v	RR--6----------	AuxP
+8	ČR	NNFXX-----A---8	Adv
+9	asi	TT-------------	AuxZ
+10	110	C=-------------	Atr
+11	milionů	NNIP2-----A----	Obj
+12	dolarů	NNIP2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	je	VB-S---3P-AA---	AuxV
+15	směrován	VsYS---XX-AP---	Pred
+16	zejména	Db-------------	AuxZ
+17	do	RR--2----------	AuxP
+18	oblastí	NNFP2-----A----	Adv
+19	-	Z:-------------	AuxG
+20	stavebnictví	NNNS2-----A----	Atr
+21	(	Z:-------------	ExD
+22	například	Db-------------	AuxZ
+23	Bramag	NNIS1-----A----	ExD
+24	a	J^-------------	Coord
+25	Wienerberger	NNIS1-----A----	ExD
+26	)	Z:-------------	ExD
+27	,	Z:-------------	Coord
+28	strojírenství	NNNS2-----A----	Atr
+29	(	Z:-------------	ExD
+30	Voest	NNIS1-----A----	Atr
+31	Alpine	AAXXX----1A----	ExD
+32	)	Z:-------------	ExD
+33	,	Z:-------------	AuxX
+34	ale	J^-------------	Coord
+35	i	J^-------------	AuxZ
+36	potravinářského	AAIS2----1A----	Atr
+37	průmyslu	NNIS2-----A----	Adv
+38	(	Z:-------------	ExD
+39	Spak	NNIS1-----A----	ExD
+40	)	Z:-------------	ExD
+41	a	J^-------------	Coord
+42	papírenského	AAIS2----1A----	Atr
+43	průmyslu	NNIS2-----A----	Adv
+44	(	Z:-------------	ExD
+45	Leicam	NNIS1-----A----	ExD
+46	)	Z:-------------	ExD
+47	.	Z:-------------	AuxK
+
+cmpr9407-041-p5s3
+1	V	RR--6----------	AuxP
+2	ČR	NNFXX-----A---8	Adv
+3	působí	VB-S---3P-AA---	Pred
+4	celá	AAFS1----1A----	Atr
+5	řada	NNFS1-----A----	Sb
+6	mezinárodních	AAFP2----1A----	Atr
+7	společností	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP1----------	Sb
+10	jsou	VB-P---3P-AA---	AuxV
+11	řízeny	VsTP---XX-AP---	Atr
+12	z	RR--2----------	AuxP
+13	vídeňské	AAFS2----1A----	Atr
+14	centrály	NNFS2-----A----	Adv
+15	(	Z:-------------	AuxG
+16	ASEA	NNFXX-----A---8	Atr
+17	,	Z:-------------	Coord
+18	OTIS	NNMS1-----A----	Atr
+19	)	Z:-------------	AuxG
+20	.	Z:-------------	AuxK
+
+cmpr9407-041-p6s1
+1	Doklady	NNIP1-----A----	ExD
+
+cmpr9407-041-p7s1
+1	Ke	RV--3----------	AuxP
+2	krátkodobé	AAFS3----1A----	Atr
+3	návštěvě	NNFS3-----A----	Adv
+4	do	RR--2----------	AuxP
+5	3	C=-------------	Atr
+6	měsíců	NNIP2-----A----	Atr
+7	potřebuje	VB-S---3P-AA---	Pred
+8	občan	NNMS1-----A----	Sb
+9	ČR	NNFXX-----A---8	Atr
+10	pouze	Db-------------	AuxZ
+11	platný	AAIS4----1A----	Atr
+12	cestovní	AAIS4----1A----	Atr
+13	pas	NNIS4-----A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9407-041-p7s2
+1	Během	RR--2----------	AuxP
+2	této	PDFS2----------	Atr
+3	doby	NNFS2-----A----	Adv
+4	však	J^-------------	Coord
+5	nesmí	VB-S---3P-NA---	Pred
+6	v	RR--6----------	AuxP
+7	Rakousku	NNNS6-----A----	Adv
+8	pracovat	Vf--------A----	Obj
+9	.	Z:-------------	AuxK
+
+cmpr9407-041-p7s3
+1	K	RR--3----------	AuxP
+2	dlouhodobějšímu	AAIS3----2A----	Atr
+3	pracovnímu	AAIS3----1A----	Atr
+4	pobytu	NNIS3-----A----	Atr
+5	musí	VB-S---3P-AA---	Pred
+6	mít	Vf--------A----	Obj
+7	souhlas	NNIS4-----A----	Obj
+8	rakouského	AAIS2----1A----	Atr
+9	úřadu	NNIS2-----A----	Atr
+10	práce	NNFS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	který	P4YS1----------	Sb
+13	spadá	VB-S---3P-AA---	Atr
+14	pod	RR--4----------	AuxP
+15	ministerstvo	NNNS4-----A----	Adv
+16	sociálních	AAFP2----1A----	Atr
+17	věcí	NNFP2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+cmpr9407-041-p7s4
+1	Na	RR--4----------	AuxP
+2	úřad	NNIS4-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	musí	VB-S---3P-AA---	Pred
+5	obrátit	Vf--------A----	Obj
+6	budoucí	AAMS1----1A----	Atr
+7	rakouský	AAMS1----1A----	Atr
+8	zaměstnavatel	NNMS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	uvede	VB-S---3P-AA---	Atr
+12	o	RR--6----------	AuxP
+13	kandidátovi	NNMS6-----A----	Obj
+14	osobní	AAIP4----1A----	Atr
+15	údaje	NNIP4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	včetně	Db-------------	AuxP
+18	plánovaného	AANS2----1A----	Atr
+19	zařazení	NNNS2-----A----	Atr
+20	.	Z:-------------	AuxK
+
+cmpr9407-041-p7s5
+1	Rakousko	NNNS1-----A----	Sb
+2	nemá	VB-S---3P-NA---	Pred
+3	závazné	AAFP4----1A----	Atr
+4	kvóty	NNFP4-----A----	Obj
+5	pro	RR--4----------	AuxP
+6	počty	NNIP4-----A----	Atr
+7	pracujících	AGMP2-----A----	Atr
+8	cizinců	NNMP2-----A----	Atr
+9	z	RR--2----------	AuxP
+10	jednotlivých	AAFP2----1A----	Atr
+11	zemí	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+cmpr9407-041-p7s6
+1	Má	VB-S---3P-AA---	Pred
+2	zaveden	VsYS---XX-AP---	Atv
+3	pouze	Db-------------	AuxZ
+4	globální	AAIS4----1A----	Atr
+5	strop	NNIS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	který	P4YS1----------	Sb
+8	se	P7-X4----------	AuxR
+9	může	VB-S---3P-AA---	Atr
+10	rok	NNIS1-----A----	Adv
+11	od	RR--2----------	AuxP
+12	roku	NNIS2-----A---1	Atr
+13	měnit	Vf--------A----	Obj
+14	.	Z:-------------	AuxK
+
+cmpr9407-041-p8s1
+1	Služby	NNFP1-----A----	ExD
+2	obchodního	AANS2----1A----	Atr
+3	oddělení	NNNS2-----A----	Atr
+4	:	Z:-------------	AuxK
+
+cmpr9407-041-p9s1
+1	Ročně	Dg-------1A----	Adv
+2	vyřizuje	VB-S---3P-AA---	Pred
+3	obchodní	AANS1----1A----	Atr
+4	oddělení	NNNS1-----A----	Sb
+5	v	RR--6----------	AuxP
+6	Praze	NNFS6-----A----	Atr
+7	kolem	RR--2----------	AuxP
+8	1000	C=-------------	Obj
+9	písemných	AAFP2----1A----	Atr
+10	žádostí	NNFP2-----A----	Atr
+11	českých	AAFP2----1A----	Atr
+12	firem	NNFP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+cmpr9407-041-p9s2
+1	Týkají	VB-P---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	informací	NNFP2-----A----	Obj
+4	,	Z:-------------	AuxX
+5	počínaje	VeYS------A----	AuxP
+6	vyhledáváním	NNNS7-----A----	Atr
+7	obchodního	AAMS2----1A----	Atr
+8	nebo	J^-------------	Coord
+9	výrobního	AAMS2----1A----	Atr
+10	partnera	NNMS2-----A----	Atr
+11	,	Z:-------------	Coord
+12	až	TT-------------	AuxZ
+13	po	RR--4----------	AuxP
+14	intervenci	NNFS4-----A----	Atr
+15	u	RR--2----------	AuxP
+16	rakouských	AAFP2----1A----	Atr
+17	firem	NNFP2-----A----	Atr
+18	,	Z:-------------	AuxX
+19	které	P4FP1----------	Sb
+20	neplatí	VB-P---3P-NA---	Atr
+21	nebo	J^-------------	Coord
+22	dodávají	VB-P---3P-AA---	Atr
+23	nekvalitní	AAIP4----1N----	Atr
+24	výrobky	NNIP4-----A----	Obj
+25	.	Z:-------------	AuxK
+
+cmpr9407-041-p9s3
+1	Využívá	VB-S---3P-AA---	Pred
+2	k	RR--3----------	AuxP
+3	tomu	PDZS3----------	Obj
+4	i	J^-------------	AuxZ
+5	přímé	AANS4----1A----	Atr
+6	napojení	NNNS4-----A----	Obj
+7	na	RR--4----------	AuxP
+8	databázi	NNFS4-----A----	Atr
+9	Rakouské	AAFS2----1A----	Atr
+10	hospodářské	AAFS2----1A----	Atr
+11	komory	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	která	P4FS1----------	Sb
+14	obchodní	AANS4----1A----	Atr
+15	oddělení	NNNS4-----A----	Obj
+16	jménem	NNNS7-----A----	AuxP
+17	rakouských	AAFP2----1A----	Atr
+18	firem	NNFP2-----A----	Adv
+19	řídí	VB-S---3P-AA---	Atr
+20	a	J^-------------	Coord
+21	financuje	VB-S---3P-AA---	Atr
+22	.	Z:-------------	AuxK
+
+cmpr9407-041-p10s1
+1	Obchodní	AANS1----1A----	Atr
+2	oddělení	NNNS1-----A----	Sb
+3	vydává	VB-S---3P-AA---	Pred
+4	v	RR--6----------	AuxP
+5	češtině	NNFS6-----A----	Adv
+6	zdarma	Db-------------	Adv
+7	nákladem	NNIS7-----A----	Adv
+8	3500	C=-------------	Atr
+9	kusů	NNIP2-----A----	Atr
+10	čtvrtletník	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	ve	RV--6----------	AuxP
+13	kterém	P4ZS6----------	Adv
+14	informuje	VB-S---3P-AA---	Atr
+15	české	AAFP4----1A----	Atr
+16	firmy	NNFP4-----A----	Obj
+17	o	RR--6----------	AuxP
+18	nabídkách	NNFP6-----A----	Obj
+19	rakouských	AAFP2----1A----	Atr
+20	společností	NNFP2-----A----	Atr
+21	na	RR--4----------	AuxP
+22	obchodování	NNNS4-----A----	Atr
+23	nebo	J^-------------	Coord
+24	spolupráci	NNFS4-----A----	Atr
+25	.	Z:-------------	AuxK
+
+cmpr9407-041-p11s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Obchodní	AANS1----1A----	Atr
+4	oddělení	NNNS1-----A----	ExD
+5	při	RR--6----------	AuxP
+6	velvyslanectví	NNNS6-----A----	Atr
+7	Rakouska	NNNS2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	Václavské	AANS1----1A----	Atr
+10	nám	PP-P3--1-------	Atr
+11	.	Z:-------------	AuxG
+12	12	C=-------------	Atr
+13	,	Z:-------------	AuxX
+14	Praha	NNFS1-----A----	Atr
+15	1	C=-------------	Atr
+16	(	Z:-------------	ExD
+17	od	RR--2----------	AuxP
+18	března	NNIS2-----A----	ExD
+19	Krakovská	AAFS1----1A----	ExD
+20	7	C=-------------	Atr
+21	)	Z:-------------	ExD
+22	,	Z:-------------	AuxX
+23	tel	NNIXX-----A---8	Atr
+24	.	Z:-------------	AuxG
+25	:	Z:-------------	AuxG
+26	(	Z:-------------	AuxG
+27	02	C=-------------	Atr
+28	)	Z:-------------	AuxG
+29	24	C=-------------	Atr
+30	22	C=-------------	Atr
+31	78	C=-------------	Atr
+32	16	C=-------------	Atr
+33	,	Z:-------------	Coord
+34	FAX	NNIS1-----A----	Atr
+35	:	Z:-------------	AuxG
+36	(	Z:-------------	AuxG
+37	02	C=-------------	Atr
+38	)	Z:-------------	AuxG
+39	24	C=-------------	Atr
+40	22	C=-------------	Atr
+41	10	C=-------------	Atr
+42	68	C=-------------	Atr
+43	.	Z:-------------	AuxK
+

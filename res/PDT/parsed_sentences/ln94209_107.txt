@@ -1,0 +1,269 @@
+ln94209-107-p1s1
+1	Vyřízení	NNNS1-----A----	Sb
+2	bankrotu	NNIS2-----A----	Atr
+3	může	VB-S---3P-AA---	Pred
+4	trvat	Vf--------A----	Obj
+5	také	Db-------------	AuxZ
+6	dva	ClYP4----------	Atr
+7	až	J^-------------	Coord
+8	tři	ClXP4----------	Atr
+9	roky	NNIP4-----A----	Adv
+
+ln94209-107-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jap	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94209-107-p2s1B
+1	Zatím	Db-------------	Adv
+2	žádné	PWNS1----------	Atr
+3	konkurzní	AANS1----1A----	Atr
+4	řízení	NNNS1-----A----	Sb
+5	(	Z:-------------	Apos
+6	bankrot	NNIS1-----A----	Sb
+7	)	Z:-------------	AuxG
+8	nebylo	VpNS---XR-NA---	AuxV
+9	k	RR--3----------	AuxP
+10	30	C=-------------	Atr
+11	.	Z:-------------	AuxG
+12	červnu	NNIS3-----A----	Adv
+13	1994	C=-------------	Atr
+14	v	RR--6----------	AuxP
+15	České	AAFS6----1A----	Atr
+16	republice	NNFS6-----A----	Adv
+17	ukončeno	VsNS---XX-AP---	Pred
+18	.	Z:-------------	AuxK
+
+ln94209-107-p2s2
+1	Vyplývá	VB-S---3P-AA---	Pred
+2	to	PDNS1----------	Sb
+3	z	RR--2----------	AuxP
+4	informací	NNFP2-----A----	Obj
+5	ministerstva	NNNS2-----A----	Atr
+6	spravedlnosti	NNFS2-----A----	Atr
+7	.	Z:-------------	AuxK
+
+ln94209-107-p3s1
+1	Podle	RR--2----------	AuxP
+2	optimistických	AAIP2----1A----	Atr
+3	odhadů	NNIP2-----A----	Adv
+4	některých	PZXP2----------	Atr
+5	obchodních	AAMP2----1A----	Atr
+6	soudců	NNMP2-----A----	Atr
+7	může	VB-S---3P-AA---	Pred
+8	vyřízení	NNNS1-----A----	Sb
+9	konkurzu	NNIS2-----A----	Atr
+10	trvat	Vf--------A----	Obj
+11	dva	ClYP4----------	Atr
+12	až	J^-------------	Coord
+13	tři	ClXP4----------	Atr
+14	roky	NNIP4-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94209-107-p4s1
+1	Od	RR--2----------	AuxP
+2	října	NNIS2-----A----	Adv
+3	1991	C=-------------	Atr
+4	,	Z:-------------	AuxX
+5	kdy	Db-------------	Adv
+6	začal	VpYS---XR-AA---	Atr
+7	platit	Vf--------A----	Obj
+8	zákon	NNIS1-----A----	Sb
+9	o	RR--6----------	AuxP
+10	bankrotech	NNIP6-----A----	Atr
+11	,	Z:-------------	AuxX
+12	bylo	VpNS---XR-AA---	AuxV
+13	podáno	VsNS---XX-AP---	Pred
+14	2279	C=-------------	Sb
+15	návrhů	NNIP2-----A----	Atr
+16	na	RR--4----------	AuxP
+17	vyhlášení	NNNS4-----A----	Atr
+18	konkurzu	NNIS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+ln94209-107-p4s2
+1	Na	RR--6----------	AuxP
+2	jejich	PSXXXXP3-------	Atr
+3	základě	NNIS6-----A----	Adv
+4	bylo	VpNS---XR-AA---	AuxV
+5	k	RR--3----------	AuxP
+6	30	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	červnu	NNIS3-----A----	Adv
+9	1994	C=-------------	Atr
+10	zahájeno	VsNS---XX-AP---	Pred
+11	173	C=-------------	Sb
+12	konkurzních	AANP2----1A----	Atr
+13	řízení	NNNP2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+ln94209-107-p5s1
+1	Podle	RR--2----------	AuxP
+2	informací	NNFP2-----A----	Adv
+3	z	RR--2----------	AuxP
+4	obchodních	AAIP2----1A----	Atr
+5	soudů	NNIP2-----A----	Atr
+6	převažují	VB-P---3P-AA---	Pred
+7	mezi	RR--7----------	AuxP
+8	bankrotujícími	AGFP7-----A----	Atr
+9	firmami	NNFP7-----A----	Adv
+10	jednoznačně	Dg-------1A----	Adv
+11	fyzické	AAFP1----1A----	Atr
+12	osoby	NNFP1-----A----	Sb
+13	,	Z:-------------	Coord
+14	dále	Db------------1	ExD
+15	soukromé	AAFP1----1A----	Atr
+16	akciové	AAFP1----1A----	Atr
+17	společnosti	NNFP1-----A----	ExD
+18	a	J^-------------	Coord
+19	společnosti	NNFP1-----A----	ExD
+20	s	RR--7----------	AuxP
+21	ručením	NNNS7-----A----	Atr
+22	omezeným	AANS7----1A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94209-107-p5s2
+1	Státní	AAIP1----1A----	Atr
+2	podniky	NNIP1-----A----	Sb
+3	tvoří	VB-P---3P-AA---	Pred
+4	jen	TT-------------	AuxZ
+5	mizivé	AANS4----1A----	Atr
+6	procento	NNNS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+ln94209-107-p6s1
+1	Ministr	NNMS1-----A----	Atr
+2	financí	NNFP2-----A----	Atr
+3	České	AAFS2----1A----	Atr
+4	republiky	NNFS2-----A----	Atr
+5	Ivan	NNMS1-----A----	Atr
+6	Kočárník	NNMS1-----A----	Sb
+7	letos	Db-------------	Adv
+8	v	RR--6----------	AuxP
+9	červnu	NNIS6-----A----	Adv
+10	řekl	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	nízký	AAIS4----1A----	Atr
+14	počet	NNIS4-----A----	Obj
+15	bankrotů	NNIP2-----A----	Atr
+16	částečně	Dg-------1A----	Adv
+17	způsobuje	VB-S---3P-AA---	Obj
+18	nezkušenost	NNFS1-----A----	Sb
+19	soudců	NNMP2-----A----	Atr
+20	a	J^-------------	Coord
+21	neprůchodnost	NNFS1-----N----	Sb
+22	soudů	NNIP2-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln94209-107-p6s2
+1	Soudci	NNMP1-----A----	Sb
+2	krajských	AAIP2----1A----	Atr
+3	obchodních	AAIP2----1A----	Atr
+4	soudů	NNIP2-----A----	Atr
+5	však	J^-------------	Coord
+6	jeho	PSXXXZS3-------	Atr
+7	výrok	NNIS4-----A----	Obj
+8	tehdy	Db-------------	Adv
+9	zpochybnili	VpMP---XR-AA---	Pred
+10	.	Z:-------------	AuxK
+
+ln94209-107-p7s1
+1	Podle	RR--2----------	AuxP
+2	nich	P5XP2--3-------	Adv
+3	je	VB-S---3P-AA---	Pred
+4	hlavní	AAFS7----1A----	Atr
+5	příčinou	NNFS7-----A----	Pnom
+6	samotný	AAIS1----1A----	Atr
+7	zákon	NNIS1-----A----	Sb
+8	o	RR--6----------	AuxP
+9	konkurzu	NNIS6-----A---1	Atr
+10	a	J^-------------	Coord
+11	vyrovnání	NNNS6-----A----	Atr
+12	,	Z:-------------	AuxX
+13	který	P4IS4----------	Obj
+14	soudci	NNMP1-----A----	Sb
+15	shodně	Dg-------1A----	Adv
+16	označují	VB-P---3P-AA---	Atr
+17	za	RR--4----------	AuxP
+18	přinejmenším	Db-------------	AuxZ
+19	nedobrý	AAIS4----1N----	Obj
+20	.	Z:-------------	AuxK
+
+ln94209-107-p7s2
+1	Při	RR--6----------	AuxP
+2	konkurzním	AANS6----1A----	Atr
+3	řízení	NNNS6-----A----	Adv
+4	totiž	Db-------------	AuxY
+5	obchodní	AAMP1----1A----	Atr
+6	soudci	NNMP1-----A----	Sb
+7	musejí	VB-P---3P-AA---	Pred
+8	vycházet	Vf--------A----	Obj
+9	z	RR--2----------	AuxP
+10	občanského	AAIS2----1A----	Atr
+11	soudního	AAIS2----1A----	Atr
+12	řádu	NNIS2-----A----	Obj
+13	,	Z:-------------	AuxX
+14	protože	J,-------------	AuxC
+15	zákon	NNIS1-----A----	Sb
+16	o	RR--6----------	AuxP
+17	konkurzu	NNIS6-----A---1	Atr
+18	neobsahuje	VB-S---3P-NA---	Adv
+19	žádná	PWNP4----------	Atr
+20	zvláštní	AANP4----1A----	Atr
+21	procesní	AANP4----1A----	Atr
+22	ustanovení	NNNP4-----A----	Obj
+23	,	Z:-------------	AuxX
+24	která	P4NP1----------	Sb
+25	by	Vc-------------	AuxV
+26	práci	NNFS4-----A----	Obj
+27	soudů	NNIP2-----A----	Atr
+28	urychlila	VpQW---XR-AA---	Atr
+29	.	Z:-------------	AuxK
+
+ln94209-107-p8s1
+1	Práci	NNFS4-----A----	Obj
+2	soudců	NNMP2-----A----	Atr
+3	obchodních	AAIP2----1A----	Atr
+4	soudů	NNIP2-----A----	Atr
+5	zpomaluje	VB-S---3P-AA---	Pred
+6	i	J^-------------	AuxZ
+7	špatné	AANS1----1A----	Atr
+8	technické	AANS1----1A----	Atr
+9	vybavení	NNNS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln94209-107-p9s1
+1	Za	RR--2----------	AuxP
+2	této	PDFS2----------	Atr
+3	situace	NNFS2-----A----	Adv
+4	je	VB-S---3P-AA---	Pred
+5	podle	RR--2----------	AuxP
+6	názoru	NNIS2-----A----	Adv
+7	soudců	NNMP2-----A----	Atr
+8	jedinou	AAFS7----1A----	Atr
+9	možností	NNFS7-----A----	Pnom
+10	,	Z:-------------	AuxX
+11	jak	Db-------------	Adv
+12	urychlit	Vf--------A----	Atr
+13	práci	NNFS4-----A----	Obj
+14	obchodních	AAIP2----1A----	Atr
+15	soudů	NNIP2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	vypracovat	Vf--------A----	Sb
+18	nový	AAIS4----1A----	Atr
+19	zákon	NNIS4-----A----	Obj
+20	o	RR--6----------	AuxP
+21	konkurzu	NNIS6-----A---1	Atr
+22	a	J^-------------	Coord
+23	vyrovnání	NNNS6-----A----	Atr
+24	nebo	J^-------------	Coord
+25	alespoň	Db-------------	AuxZ
+26	připravit	Vf--------A----	Sb
+27	jeho	PSXXXZS3-------	Atr
+28	rozsáhlou	AAFS4----1A----	Atr
+29	novelizaci	NNFS4-----A----	Obj
+30	.	Z:-------------	AuxK
+

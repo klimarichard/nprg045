@@ -1,0 +1,144 @@
+lnd94101-046-p1s1
+1	SD	NNMPX-----A---8	ExD
+2	proti	RR--3----------	AuxP
+3	přijímacím	AAFP3----1A----	Atr
+4	zkouškám	NNFP3-----A----	ExD
+
+lnd94101-046-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	kva	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94101-046-p1s3
+1	Jednou	ClFS7----------	Pnom
+2	z	RR--2----------	AuxP
+3	otázek	NNFP2-----A----	Atr
+4	,	Z:-------------	AuxX
+5	které	P4FP4----------	Obj
+6	chtějí	VB-P---3P-AA---	Atr
+7	Svobodní	AAMP1----1A----	Atr
+8	demokraté	NNMP1-----A----	Sb
+9	(	Z:-------------	Apos
+10	SD	NNMPX-----A---8	Sb
+11	)	Z:-------------	AuxG
+12	položit	Vf--------A----	Obj
+13	novému	AAMS3----1A----	Atr
+14	ministrovi	NNMS3-----A----	Obj
+15	školství	NNNS2-----A----	Atr
+16	,	Z:-------------	AuxX
+17	je	VB-S---3P-AA---	Pred
+18	tato	PDFS1----------	Sb
+19	:	Z:-------------	Apos
+20	Ústava	NNFS1-----A----	Sb
+21	zaručuje	VB-S---3P-AA---	Sb
+22	rovný	AAIS4----1A----	Atr
+23	přístup	NNIS4-----A----	Obj
+24	ke	RV--3----------	AuxP
+25	vzdělání	NNNS3-----A----	Atr
+26	.	Z:-------------	AuxK
+
+lnd94101-046-p1s4A
+1	"	Z:-------------	AuxG
+2	Co	PQ--4----------	Obj
+3	navrhujete	VB-P---2P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	studenti	NNMP1-----A----	Sb
+7	byli	VpMP---XR-AA---	AuxV
+8	přijímáni	VsMP---XX-AP---	Obj
+9	bez	RR--2----------	AuxP
+10	ponižujících	AGFP2-----A----	Atr
+11	a	J^-------------	Coord
+12	pedagogicky	Dg-------1A----	Adv
+13	pochybných	AAFP2----1A----	Atr
+14	přijímacích	AAFP2----1A----	Atr
+15	zkoušek	NNFP2-----A----	Adv
+16	?	Z:-------------	AuxK
+17	"	Z:-------------	AuxG
+
+lnd94101-046-p1s4B
+1	Podle	RR--2----------	AuxP
+2	názoru	NNIS2-----A----	Adv
+3	SD	NNMPX-----A---8	Atr
+4	by	Vc-------------	AuxV
+5	bylo	VpNS---XR-AA---	Pred
+6	vhodné	AANS1----1A----	Pnom
+7	koncipovat	Vf--------A----	Sb
+8	první	CrIP4----------	Atr
+9	ročníky	NNIP4-----A----	Obj
+10	vysokých	AAFP2----1A----	Atr
+11	škol	NNFP2-----A----	Atr
+12	jako	J,-------------	AuxY
+13	síta	NNNP4-----A----	Atv
+14	,	Z:-------------	AuxX
+15	jimiž	PJXP7----------	Obj
+16	by	Vc-------------	AuxV
+17	prošli	VpMP---XR-AA---	Atr
+18	jen	TT-------------	AuxZ
+19	skutečně	Dg-------1A----	Adv
+20	schopní	AAMP1----1A----	Sb
+21	.	Z:-------------	AuxK
+
+lnd94101-046-p1s5
+1	Svobodní	AAMP1----1A----	Atr
+2	demokraté	NNMP1-----A----	Sb
+3	nejsou	VB-P---3P-NA---	Pred
+4	proti	RR--3----------	AuxP
+5	tomu	PDZS3----------	Adv
+6	,	Z:-------------	AuxX
+7	aby	J,-------------	AuxC
+8	se	P7-X4----------	AuxT
+9	studenti	NNMP1-----A----	Sb
+10	a	J^-------------	Coord
+11	jejich	PSXXXXP3-------	Atr
+12	rodiny	NNFP1-----A----	Sb
+13	podíleli	VpMP---XR-AA---	Atr
+14	na	RR--6----------	AuxP
+15	nákladech	NNIP6-----A----	Obj
+16	na	RR--4----------	AuxP
+17	vzdělávání	NNNS4-----A----	Atr
+18	,	Z:-------------	AuxX
+19	domnívají	VB-P---3P-AA---	Pred
+20	se	P7-X4----------	AuxT
+21	však	J^-------------	Coord
+22	,	Z:-------------	AuxX
+23	že	J,-------------	AuxC
+24	je	VB-S---3P-AA---	Obj
+25	třeba	ACNS------A----	Pnom
+26	zvažovat	Vf--------A----	Sb
+27	míru	NNFS4-----A----	Obj
+28	.	Z:-------------	AuxK
+
+lnd94101-046-p1s6
+1	Akceptovali	VpMP---XR-AA---	Pred
+2	by	Vc-------------	AuxV
+3	školné	NNNS4-----A----	Obj
+4	i	J^-------------	AuxZ
+5	na	RR--6----------	AuxP
+6	středních	AAFP6----1A----	Atr
+7	školách	NNFP6-----A----	Adv
+8	,	Z:-------------	AuxX
+9	ovšem	J^-------------	Coord
+10	s	RR--7----------	AuxP
+11	tím	PDZS7----------	ExD
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	by	Vc-------------	AuxV
+15	bylo	VpNS---XR-AA---	Atr
+16	třeba	ACNS------A----	Pnom
+17	přihlížet	Vf--------A----	Sb
+18	k	RR--3----------	AuxP
+19	finanční	AAFS3----1A----	Atr
+20	situaci	NNFS3-----A----	Obj
+21	jednotlivých	AAFP2----1A----	Atr
+22	rodin	NNFP2-----A----	Atr
+23	,	Z:-------------	Coord
+24	eventuálně	Dg-------1A----	ExD
+25	i	J^-------------	AuxZ
+26	k	RR--3----------	AuxP
+27	prospěchu	NNIS3-----A----	ExD
+28	studentů	NNMP2-----A----	Atr
+29	.	Z:-------------	AuxK
+

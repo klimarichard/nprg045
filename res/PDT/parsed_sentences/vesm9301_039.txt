@@ -1,0 +1,154 @@
+vesm9301-039-p1s1
+1	Poškození	NNNS1-----A----	ExD
+2	sluchu	NNIS2-----A----	Atr
+3	u	RR--2----------	AuxP
+4	motocyklistů	NNMP2-----A----	Atr
+
+vesm9301-039-p2s1
+1	Ačkoliv	J,-------------	AuxC
+2	hluk	NNIS1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	motocyklů	NNIP2-----A----	Atr
+5	je	VB-S---3P-AA---	AuxV
+6	vnímán	VsYS---XX-AP---	Adv
+7	spíše	Dg-------2A---1	Adv
+8	jako	J,-------------	AuxY
+9	rušení	NNNS1-----A----	Obj
+10	klidu	NNIS2-----A----	Atr
+11	pro	RR--4----------	AuxP
+12	ostatní	AAMP4----1A----	Atr
+13	,	Z:-------------	AuxX
+14	zdá	VB-S---3P-AA---	Pred
+15	se	P7-X4----------	AuxT
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	hlavními	AAMP7----1A----	Atr
+19	poškozenými	AAMP7----1A----	Pnom
+20	jsou	VB-P---3P-AA---	Sb
+21	motocyklisté	NNMP1-----A----	Sb
+22	sami	PLMP1----------	Atv
+23	(	Z:-------------	ExD
+24	Lancet	NNFP2-----A----	ExD
+25	340	C=-------------	Atr
+26	,	Z:-------------	AuxX
+27	911	C=-------------	Atr
+28	,	Z:-------------	AuxX
+29	1992	C=-------------	Atr
+30	)	Z:-------------	ExD
+31	.	Z:-------------	AuxK
+
+vesm9301-039-p2s2
+1	Ze	RV--2----------	AuxP
+2	106	C=-------------	Atr
+3	motocyklistů	NNMP2-----A----	Atr
+4	o	RR--6----------	AuxP
+5	průměrném	AAIS6----1A----	Atr
+6	věku	NNIS6-----A----	Atr
+7	30	C=-------------	Atr
+8	let	NNNP2-----A----	Atr
+9	(	Z:-------------	AuxG
+10	včetně	RR--2----------	AuxP
+11	policejních	AAFP2----1A----	Atr
+12	hlídek	NNFP2-----A----	Atr
+13	a	J^-------------	Coord
+14	závodníků	NNMP2-----A----	Atr
+15	)	Z:-------------	AuxG
+16	byla	VpQW---XR-AA---	AuxV
+17	porucha	NNFS1-----A----	Sb
+18	sluchu	NNIS2-----A----	Atr
+19	zjištěna	VsQW---XX-AP---	Pred
+20	u	RR--2----------	AuxP
+21	49	C=-------------	Adv
+22	.	Z:-------------	AuxK
+
+vesm9301-039-p2s3
+1	Jenom	TT-------------	AuxZ
+2	15	C=-------------	Sb
+3	%	Z:-------------	Atr
+4	z	RR--2----------	AuxP
+5	těch	PDXP2----------	Atr
+6	106	C=-------------	Atr
+7	používalo	VpNS---XR-AA---	Pred
+8	při	RR--6----------	AuxP
+9	jízdě	NNFS6-----A----	Adv
+10	ucpávky	NNFP4-----A----	Obj
+11	uší	NNFP2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+vesm9301-039-p2s4
+1	A	J^-------------	Coord
+2	co	TT-------------	ExD
+3	více	Dg-------2A----	ExD
+4	:	Z:-------------	Coord
+5	helmy	NNFP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	které	P4FP4----------	Obj
+8	motocyklisté	NNMP1-----A----	Sb
+9	musí	VB-P---3P-AA--1	Atr
+10	nosit	Vf--------A----	Obj
+11	při	RR--6----------	AuxP
+12	jízdě	NNFS6-----A----	Adv
+13	jako	J,-------------	AuxY
+14	prevenci	NNFS4-----A----	Atv
+15	úrazů	NNIP2-----A----	Atr
+16	hlavy	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	nechrání	VB-P---3P-NA---	Pred
+19	před	RR--7----------	AuxP
+20	poškozením	NNNS7-----A----	Adv
+21	sluchu	NNIS2-----A----	Atr
+22	hlukem	NNIS7-----A----	Atr
+23	-	Z:-------------	Coord
+24	spíše	Dg-------2A---1	ExD
+25	naopak	Db-------------	ExD
+26	.	Z:-------------	AuxK
+
+vesm9301-039-p2s5
+1	Kromě	RR--2----------	AuxP
+2	hluku	NNIS2-----A----	Adv
+3	motoru	NNIS2-----A----	Atr
+4	působí	VB-S---3P-AA---	Pred
+5	na	RR--4----------	AuxP
+6	sluch	NNIS4-----A----	Obj
+7	nepříznivě	Dg-------1N----	Adv
+8	hluk	NNIS1-----A----	Sb
+9	větru	NNIS2-----A----	Atr
+10	při	RR--6----------	AuxP
+11	rychlé	AAFS6----1A----	Atr
+12	jízdě	NNFS6-----A----	Atr
+13	-	Z:-------------	AuxG
+14	a	J^-------------	Coord
+15	tu	Db------------1	Adv
+16	helmy	NNFP1-----A----	Sb
+17	působí	VB-P---3P-AA---	Pred
+18	spíše	Dg-------2A---1	AuxZ
+19	škodlivě	Dg-------1A----	Adv
+20	.	Z:-------------	AuxK
+
+vesm9301-039-p2s6
+1	Navrhuje	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxR
+3	proto	J^-------------	Coord
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	helmy	NNFP1-----A----	Sb
+7	byly	VpTP---XR-AA---	AuxV
+8	konstruovány	VsTP---XX-AP---	Sb
+9	i	J^-------------	AuxZ
+10	s	RR--7----------	AuxP
+11	přihlédnutím	NNNS7-----A----	AuxP
+12	k	RR--3----------	AuxP
+13	ochraně	NNFS3-----A----	Adv
+14	proti	RR--3----------	AuxP
+15	hluku	NNIS3-----A----	Atr
+16	.	Z:-------------	AuxK
+
+vesm9301-039-p3s1
+1	Vratislav	NNMS1-----A----	Atr
+2	Schreiber	NNMS1-----A----	ExD
+
+vesm9301-039-p4s1
+1	24	C=-------------	ExD
+2	-	Z:-------------	Coord
+3	34	C=-------------	ExD
+

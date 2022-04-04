@@ -1,0 +1,74 @@
+mf920922-033-p1s1
+1	OSTROV	NNIS1-----A----	ExD
+2	ITHAKA	NNFS1-----A----	Atr
+
+mf920922-033-p2s1
+1	JIŽNÍ	AAFS1----1A----	Atr
+2	FRANCIE	NNFS1-----A----	ExD
+
+mf920922-033-p3s1
+1	Firma	NNFS1-----A----	Sb
+2	zabývající	AGFS1-----A----	Atr
+3	se	P7-X4----------	AuxT
+4	výzkumem	NNIS7-----A----	Obj
+5	trhu	NNIS2-----A----	Atr
+6	hledá	VB-S---3P-AA---	Pred
+7	spolupracovníka	NNMS4-----A----	Obj
+8	s	RR--7----------	AuxP
+9	velmi	Db-------------	AuxZ
+10	dobrými	AAFP7----1A----	Atr
+11	znalostmi	NNFP7-----A----	Atr
+12	z	RR--2----------	AuxP
+13	oboru	NNIS2-----A----	Atr
+14	farmacie	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+mf920922-033-p4s1
+1	Vyrábí	VB-S---3P-AA---	Pred
+2	a	J^-------------	Coord
+3	dodává	VB-S---3P-AA---	Pred
+4	ZD	NNNXX-----A---8	Sb
+5	Úsovsko	NNNS1-----A----	Atr
+6	se	RV--7----------	AuxP
+7	sídlem	NNNS7-----A----	Atr
+8	v	RR--6----------	AuxP
+9	Klopině	NNFS6-----A----	Atr
+
+mf920922-033-p6s1
+1	tel	NNIXX-----A---8	ExD
+2	.	Z:-------------	AuxG
+3	:	Z:-------------	AuxG
+4	0648	C=-------------	Atr
+5	/	Z:-------------	AuxG
+6	418	C=-------------	Atr
+7	12	C=-------------	Atr
+
+mf920922-033-p7s1
+1	fax	NNIS1-----A----	ExD
+2	:	Z:-------------	AuxG
+3	0648	C=-------------	Atr
+4	/	Z:-------------	AuxG
+5	418	C=-------------	Atr
+6	39	C=-------------	Atr
+
+mf920922-033-p9s1
+1	Nový	AAMS1----1A----	Atr
+2	distributor	NNMS1-----A----	ExD
+3	hraček	NNFP2-----A----	Atr
+
+mf920922-033-p11s1
+1	Monet	NNMS1-----A----	ExD
+2	,	Z:-------------	AuxX
+3	spol	NNFXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	s	RR--7----------	AuxP
+6	r	NNNS7-----A---8	Atr
+7	.	Z:-------------	AuxG
+8	o	AANS7----1A---8	Atr
+9	.	Z:-------------	AuxG
+
+mf920922-033-p12s1
+1	Prodáváte	VB-P---2P-AA---	Pred
+2	hračky	NNFP4-----A----	Obj
+3	?	Z:-------------	AuxK
+

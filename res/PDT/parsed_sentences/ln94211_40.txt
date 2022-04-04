@@ -1,0 +1,298 @@
+ln94211-40-p1s1
+1	Poslanci	NNMP1-----A----	Sb
+2	bojují	VB-P---3P-AA---	Pred
+3	proti	RR--3----------	AuxP
+4	kouření	NNNS3-----A----	Obj
+
+ln94211-40-p2s1A
+1	Veřejné	AANS1----1A----	Atr
+2	abstinování	NNNS1-----A----	Sb
+3	vzorových	AAFP2----1A----	Atr
+4	osob	NNFP2-----A----	Atr
+5	však	J^-------------	Coord
+6	ve	RV--6----------	AuxP
+7	výboru	NNIS6-----A----	Adv
+8	neprošlo	VpNS---XR-NA---	Pred
+
+ln94211-40-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	AuxG
+3	pech	NNXXX-----A---8	ExD
+4	,	Z:-------------	Coord
+5	čtk	NNFXX-----A---8	ExD
+6	)	Z:-------------	AuxG
+7	-	Z:-------------	AuxK
+
+ln94211-40-p2s1C
+1	Vzorové	AANS1----1A----	Atr
+2	chování	NNNS1-----A----	Sb
+3	veřejně	Dg-------1A----	Adv
+4	činných	AAFP2----1A----	Atr
+5	osob	NNFP2-----A----	Atr
+6	by	Vc-------------	AuxV
+7	mělo	VpNS---XR-AA---	Pred
+8	být	Vf--------A----	Obj
+9	podle	RR--2----------	AuxP
+10	poslaneckého	AAIS2----1A----	Atr
+11	návrhu	NNIS2-----A----	Adv
+12	zásad	NNFP2-----A----	Atr
+13	novely	NNFS2-----A----	Atr
+14	zákona	NNIS2-----A----	Atr
+15	o	RR--6----------	AuxP
+16	ochraně	NNFS6-----A----	Atr
+17	před	RR--7----------	AuxP
+18	alkoholismem	NNIS7-----A----	Atr
+19	,	Z:-------------	AuxX
+20	kouřením	NNNS7-----A----	Atr
+21	a	J^-------------	Coord
+22	jinými	AAFP7----1A----	Atr
+23	toxikomaniemi	NNFP7-----A----	Atr
+24	novým	AAIS7----1A----	Atr
+25	druhem	NNIS7-----A----	Pnom
+26	výchovného	AANS2----1A----	Atr
+27	působení	NNNS2-----A----	Atr
+28	směřujícím	AGIS7-----A----	Atr
+29	k	RR--3----------	AuxP
+30	ochraně	NNFS3-----A----	Adv
+31	před	RR--7----------	AuxP
+32	uvedenými	AAIP7----1A----	Atr
+33	nešvary	NNIP7-----A----	Atr
+34	.	Z:-------------	AuxK
+
+ln94211-40-p3s1
+1	Parlamentní	AAIS1----1A----	Atr
+2	výbor	NNIS1-----A----	Sb
+3	pro	RR--4----------	AuxP
+4	sociální	AAFS4----1A----	Atr
+5	politiku	NNFS4-----A----	Atr
+6	a	J^-------------	Coord
+7	zdravotnictví	NNNS4-----A----	Atr
+8	,	Z:-------------	AuxX
+9	který	P4YS1----------	Sb
+10	včera	Db-------------	Adv
+11	s	RR--7----------	AuxP
+12	většinou	NNFS7-----A----	Atr
+13	zásad	NNFP2-----A----	Atr
+14	vyslovil	VpYS---XR-AA---	Atr
+15	souhlas	NNIS4-----A----	Obj
+16	,	Z:-------------	AuxX
+17	však	J^-------------	Coord
+18	ustanovení	NNNS4-----A----	Obj
+19	týkající	AGNS4-----A----	Atr
+20	se	P7-X4----------	AuxT
+21	vzorového	AANS2----1A----	Atr
+22	chování	NNNS2-----A----	Obj
+23	veřejně	Dg-------1A----	Adv
+24	činných	AAFP2----1A----	Atr
+25	osob	NNFP2-----A----	Atr
+26	nepodpořil	VpYS---XR-NA---	Pred
+27	.	Z:-------------	AuxK
+
+ln94211-40-p4s1
+1	Zásady	NNFP4-----A----	Obj
+2	předložila	VpQW---XR-AA---	Pred
+3	před	RR--7----------	AuxP
+4	několika	Ca--7----------	Atr
+5	měsíci	NNIP7-----A----	Adv
+6	skupina	NNFS1-----A----	Sb
+7	koaličních	AAMP2----1A----	Atr
+8	a	J^-------------	Coord
+9	opozičních	AAMP2----1A----	Atr
+10	poslanců	NNMP2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94211-40-p5s1
+1	Podle	RR--2----------	AuxP
+2	návrhu	NNIS2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	nemělo	VpNS---XR-NA---	Pred
+5	být	Vf--------A----	AuxV
+6	dovoleno	VsNS---XX-AP---	Obj
+7	prodávat	Vf--------A----	Sb
+8	a	J^-------------	Coord
+9	podávat	Vf--------A----	Sb
+10	tabákové	AAIP4----1A----	Atr
+11	výrobky	NNIP4-----A----	Obj
+12	osobám	NNFP3-----A----	Obj
+13	mladším	AAFP3----2A----	Atr
+14	18	C=-------------	Atr
+15	let	NNNP2-----A----	Adv
+16	a	J^-------------	Coord
+17	nemělo	VpNS---XR-NA---	Pred
+18	by	Vc-------------	AuxV
+19	být	Vf--------A----	AuxV
+20	dovoleno	VsNS---XX-AP---	Obj
+21	ani	J^-------------	AuxZ
+22	prodávání	NNNS1-----A----	Sb
+23	tabákových	AAIP2----1A----	Atr
+24	výrobků	NNIP2-----A----	Atr
+25	v	RR--6----------	AuxP
+26	prodejních	AAIP6----1A----	Atr
+27	automatech	NNIP6-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln94211-40-p5s2
+1	Současný	AAIS1----1A----	Atr
+2	zákon	NNIS1-----A----	Sb
+3	zakazuje	VB-S---3P-AA---	Pred
+4	prodej	NNIS4-----A----	Obj
+5	tabákových	AAIP2----1A----	Atr
+6	výrobků	NNIP2-----A----	Atr
+7	osobám	NNFP3-----A----	Atr
+8	mladším	AAFP3----2A----	Atr
+9	16	C=-------------	Atr
+10	let	NNNP2-----A----	Adv
+11	.	Z:-------------	AuxK
+
+ln94211-40-p6s1
+1	Zásady	NNFP1-----A----	Sb
+2	rovněž	Db-------------	Adv
+3	předpokládají	VB-P---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	by	Vc-------------	AuxV
+7	nebylo	VpNS---XR-NA---	AuxV
+8	dovoleno	VsNS---XX-AP---	Obj
+9	kouřit	Vf--------A----	Sb
+10	například	Db-------------	AuxZ
+11	na	RR--6----------	AuxP
+12	tiskových	AAFP6----1A----	Atr
+13	konferencích	NNFP6-----A----	Adv
+14	,	Z:-------------	AuxX
+15	sjezdech	NNIP6-----A----	Adv
+16	a	J^-------------	Coord
+17	sympoziích	NNNP6-----A----	Adv
+18	konaných	AAIP6----1A----	Atr
+19	v	RR--6----------	AuxP
+20	uzavřených	AAIP6----1A----	Atr
+21	prostorech	NNIP6-----A----	Adv
+22	,	Z:-------------	AuxX
+23	s	RR--7----------	AuxP
+24	výjimkou	NNFS7-----A----	AuxP
+25	prostor	NNFP2-----A----	Adv
+26	určených	AAFP2----1A----	Atr
+27	ke	RV--3----------	AuxP
+28	kouření	NNNS3-----A----	Obj
+29	.	Z:-------------	AuxK
+
+ln94211-40-p7s1
+1	Autoři	NNMP1-----A----	Sb
+2	navrhují	VB-P---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	aby	J,-------------	AuxC
+5	reklama	NNFS1-----A----	Sb
+6	tabákových	AAIP2----1A----	Atr
+7	výrobků	NNIP2-----A----	Atr
+8	vždy	Db-------------	Adv
+9	obsahovala	VpQW---XR-AA---	Obj
+10	zdravotní	AANS4----1A----	Atr
+11	varování	NNNS4-----A----	Obj
+12	v	RR--6----------	AuxP
+13	rozsahu	NNIS6-----A----	Atr
+14	nejméně	Dg-------3A----	AuxZ
+15	deseti	Cn-P2----------	Atr
+16	procent	NNNP2-----A----	Atr
+17	plochy	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94211-40-p7s2
+1	Podle	RR--2----------	AuxP
+2	zásad	NNFP2-----A----	Adv
+3	by	Vc-------------	AuxV
+4	nebylo	VpNS---XR-NA---	Pred
+5	možné	AANS1----1A----	Pnom
+6	používat	Vf--------A----	Sb
+7	názvy	NNIP4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	symboly	NNIP4-----A----	Obj
+10	a	J^-------------	Coord
+11	loga	NNNP4-----A----	Obj
+12	tabákových	AAIP2----1A----	Atr
+13	výrobků	NNIP2-----A----	Atr
+14	k	RR--3----------	AuxP
+15	reklamě	NNFS3-----A----	Adv
+16	jiného	AANS2----1A----	Atr
+17	zboží	NNNS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln94211-40-p8s1
+1	Na	RR--6----------	AuxP
+2	obalech	NNIP6-----A----	Adv
+3	tabákových	AAIP2----1A----	Atr
+4	výrobků	NNIP2-----A----	Atr
+5	vyráběných	AAIP2----1A----	Atr
+6	a	J^-------------	Coord
+7	dovážených	AAIP2----1A----	Atr
+8	do	RR--2----------	AuxP
+9	České	AAFS2----1A----	Atr
+10	republiky	NNFS2-----A----	Adv
+11	by	Vc-------------	AuxV
+12	byl	VpYS---XR-AA---	Pred
+13	výrobce	NNMS1-----A----	Sb
+14	povinen	ACYS------A----	Pnom
+15	uvést	Vf--------A----	Obj
+16	zdravotní	AANS4----1A----	Atr
+17	varování	NNNS4-----A----	Obj
+18	včetně	RR--2----------	AuxP
+19	množství	NNNS2-----A----	Adv
+20	dehtu	NNIS2-----A----	Atr
+21	,	Z:-------------	AuxX
+22	nikotinu	NNIS2-----A----	Atr
+23	a	J^-------------	Coord
+24	oxidu	NNIS2-----A----	Atr
+25	uhelnatého	AAIS2----1A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94211-40-p9s1
+1	Jednání	NNNS3-----A----	Obj
+2	výboru	NNIS2-----A----	Atr
+3	byl	VpYS---XR-AA---	Pred
+4	přítomen	ACYS------A----	Pnom
+5	i	J^-------------	AuxZ
+6	náměstek	NNMS1-----A----	Atr
+7	ministra	NNMS2-----A----	Atr
+8	zdravotnictví	NNNS2-----A----	Atr
+9	České	AAFS2----1A----	Atr
+10	republiky	NNFS2-----A----	Atr
+11	Aleš	NNMS1-----A----	Atr
+12	Dvouletý	NNMS1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	který	P4YS1----------	Sb
+15	prohlásil	VpYS---XR-AA---	Atr
+16	,	Z:-------------	AuxX
+17	že	J,-------------	AuxC
+18	prioritní	AAIS1----1A----	Pnom
+19	je	VB-S---3P-AA---	Obj
+20	nikoli	Db------------1	AuxZ
+21	systém	NNIS1-----A----	Sb
+22	zákazů	NNIP2-----A----	Atr
+23	,	Z:-------------	AuxX
+24	ale	J^-------------	Coord
+25	prevence	NNFS1-----A----	Sb
+26	.	Z:-------------	AuxK
+
+ln94211-40-p9s2
+1	Před	RR--7----------	AuxP
+2	přijetím	NNNS7-----A----	Adv
+3	úpravy	NNFS2-----A----	Atr
+4	je	VB-S---3P-AA---	Pred
+5	podle	RR--2----------	AuxP
+6	jeho	PSXXXZS3-------	Atr
+7	názoru	NNIS2-----A----	Adv
+8	třeba	ACNS------A----	Pnom
+9	situaci	NNFS4-----A----	Obj
+10	dostatečně	Dg-------1A----	Adv
+11	zmapovat	Vf--------A----	Sb
+12	.	Z:-------------	AuxK
+
+ln94211-40-p9s3
+1	Do	RR--2----------	AuxP
+2	té	PDFS2----------	Atr
+3	doby	NNFS2-----A----	Adv
+4	doposud	Db-------------	Adv
+5	platná	AAFS1----1A----	Atr
+6	legislativní	AAFS1----1A----	Atr
+7	úprava	NNFS1-----A----	Sb
+8	dostačuje	VB-S---3P-AA---	Pred
+9	.	Z:-------------	AuxK
+

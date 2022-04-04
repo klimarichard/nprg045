@@ -1,0 +1,299 @@
+mf930713-041-p1s1A
+1	Požár	NNIS1-----A----	ExD
+2	strojů	NNIP2-----A----	Atr
+3	v	RR--6----------	AuxP
+4	povrchovém	AAIS6----1A----	Atr
+5	dole	NNIS6-----A----	Atr
+
+mf930713-041-p1s1B
+1	Sokolov	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	bar	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-041-p1s1C
+1	Škodu	NNFS4-----A----	Obj
+2	nejméně	Dg-------3A----	AuxZ
+3	za	RR--4----------	AuxP
+4	800	C=-------------	Atr
+5	tisíc	ClXS2----------	Atr
+6	korun	NNFP2-----A----	Atr
+7	způsobil	VpYS---XR-AA---	Pred
+8	požár	NNIS1-----A----	Sb
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	zachvátil	VpYS---XR-AA---	Atr
+12	pásový	AAIS4----1A----	Atr
+13	dopravník	NNIS4-----A----	Obj
+14	a	J^-------------	Coord
+15	pásový	AAIS4----1A----	Atr
+16	vůz	NNIS4-----A----	Obj
+17	v	RR--6----------	AuxP
+18	hnědouhelném	AAIS6----1A----	Atr
+19	dole	NNIS6-----A----	Adv
+20	Družba	NNFS1-----A----	Atr
+21	u	RR--2----------	AuxP
+22	Sokolova	NNIS2-----A----	AtrAtr
+23	.	Z:-------------	AuxK
+
+mf930713-041-p1s2
+1	Příčina	NNFS1-----A----	Sb
+2	požáru	NNIS2-----A----	Atr
+3	se	P7-X4----------	AuxR
+4	vyšetřuje	VB-S---3P-AA---	Pred
+5	,	Z:-------------	Coord
+6	policisté	NNMP1-----A----	Sb
+7	zatím	Db-------------	Adv
+8	zjistili	VpMP---XR-AA---	Pred
+9	,	Z:-------------	AuxX
+10	že	J,-------------	AuxC
+11	dopoledne	Db-------------	Adv
+12	před	RR--7----------	AuxP
+13	neštěstím	NNNS7-----A----	Adv
+14	se	P7-X4----------	AuxR
+15	na	RR--6----------	AuxP
+16	strojním	AANS6----1A----	Atr
+17	zařízení	NNNS6-----A----	Adv
+18	svařovalo	VpNS---XR-AA---	Obj
+19	.	Z:-------------	AuxK
+
+mf930713-041-p1s3
+1	Ke	RV--3----------	AuxP
+2	zranění	NNNS3-----A----	Obj
+3	osob	NNFP2-----A----	Atr
+4	nedošlo	VpNS---XR-NA---	Pred
+5	.	Z:-------------	AuxK
+
+mf930713-041-p2s1A
+1	Zbili	VpMP---XR-AA---	Pred
+2	a	J^-------------	Coord
+3	okradli	VpMP---XR-AA---	Pred
+4	stánkaře	NNMS4-----A----	Obj
+
+mf930713-041-p2s1B
+1	Ostrov	NNIS1-----A----	ExD
+2	nad	RR--7----------	AuxP
+3	Ohří	NNFS7-----A----	Atr
+4	(	Z:-------------	ExD
+5	bar	NNXXX-----A---8	ExD
+6	)	Z:-------------	ExD
+7	-	Z:-------------	AuxK
+
+mf930713-041-p2s1C
+1	Pouličního	AAMS4----1A----	Atr
+2	stánkaře	NNMS4-----A----	Obj
+3	ve	RV--6----------	AuxP
+4	věku	NNIS6-----A----	Atr
+5	58	C=-------------	Atr
+6	let	NNNP2-----A----	Atr
+7	přepadli	VpMP---XR-AA--1	Pred
+8	na	RR--6----------	AuxP
+9	silnici	NNFS6-----A----	Adv
+10	nedaleko	RR--2----------	AuxP
+11	Ostrova	NNIS2-----A----	Adv
+12	nad	RR--7----------	AuxP
+13	Ohří	NNFS7-----A----	Atr
+14	dva	ClYP1----------	Atr
+15	muži	NNMP1-----A----	Sb
+16	.	Z:-------------	AuxK
+
+mf930713-041-p2s2
+1	Zastavili	VpMP---XR-AA---	Pred
+2	s	RR--7----------	AuxP
+3	autem	NNNS7-----A----	Adv
+4	u	RR--2----------	AuxP
+5	stánku	NNIS2-----A----	Adv
+6	a	J^-------------	Coord
+7	zatímco	J,-------------	AuxC
+8	jeden	ClYS1----------	Sb
+9	ohrožoval	VpYS---XR-AA---	Adv
+10	prodejce	NNMS4-----A----	Obj
+11	pistolí	NNFS7-----A----	Adv
+12	,	Z:-------------	AuxX
+13	druhý	CrMS1----------	Sb
+14	jej	PPZS4--3------2	Obj
+15	fyzicky	Dg-------1A----	Adv
+16	napadl	VpYS---XR-AA--1	Pred
+17	.	Z:-------------	AuxK
+
+mf930713-041-p2s3
+1	Po	RR--6----------	AuxP
+2	úderech	NNIP6-----A----	Adv
+3	pěstí	NNFS7-----A----	Atr
+4	do	RR--2----------	AuxP
+5	obličeje	NNIS2-----A----	Atr
+6	mu	PHZS3--3-------	Obj
+7	násilníci	NNMP1-----A----	Sb
+8	z	RR--2----------	AuxP
+9	jeho	PSXXXZS3-------	Atr
+10	vozidla	NNNS2-----A----	Adv
+11	sebrali	VpMP---XR-AA---	Pred
+12	15700	C=-------------	Obj
+13	korun	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	1200	C=-------------	Obj
+16	marek	NNFP2-----A----	Atr
+17	a	J^-------------	Coord
+18	doklady	NNIP4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf930713-041-p2s4
+1	Stánkař	NNMS1-----A----	Sb
+2	utrpěl	VpYS---XR-AA---	Pred
+3	tržnou	AAFS4----1A----	Atr
+4	ránu	NNFS4-----A----	Obj
+5	na	RR--6----------	AuxP
+6	levém	AANS6----1A----	Atr
+7	obočí	NNNS6-----A----	Atr
+8	.	Z:-------------	AuxK
+
+mf930713-041-p3s1A
+1	Studentka	NNFS1-----A----	ExD
+2	přepadená	AAFS1----1A----	Atr
+3	při	RR--6----------	AuxP
+4	běhání	NNNS6-----A----	Adv
+
+mf930713-041-p3s1B
+1	Liberec	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	ouš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-041-p3s1C
+1	Patnáctiletou	AAFS4----1A----	Atr
+2	studentku	NNFS4-----A----	Obj
+3	přepadl	VpYS---XR-AA--1	Pred
+4	při	RR--6----------	AuxP
+5	kondičním	AANS6----1A----	Atr
+6	běhání	NNNS6-----A----	Adv
+7	poblíž	RR--2----------	AuxP
+8	stadionu	NNIS2-----A----	Adv
+9	Slovanu	NNIS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Liberci	NNIS6-----A----	AtrAdv
+12	neznámý	AAMS1----1N----	Atr
+13	mladík	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+mf930713-041-p3s2
+1	Vyskočil	VpYS---XR-AA---	Pred
+2	z	RR--2----------	AuxP
+3	křoví	NNNS2-----A----	Adv
+4	,	Z:-------------	AuxX
+5	dívku	NNFS4-----A----	Obj
+6	povalil	VpYS---XR-AA---	Pred
+7	na	RR--4----------	AuxP
+8	zem	NNFS4-----A---1	Adv
+9	,	Z:-------------	AuxX
+10	klekl	VpYS---XR-AA--1	Pred
+11	na	RR--4----------	AuxP
+12	ni	P5FS4--3-------	Adv
+13	a	J^-------------	Coord
+14	začal	VpYS---XR-AA---	Pred
+15	ji	PPFS4--3-------	Obj
+16	osahávat	Vf--------A----	Obj
+17	.	Z:-------------	AuxK
+
+mf930713-041-p3s3
+1	Přepadené	AAFS3----1A----	ExD
+2	se	P7-X4----------	AuxT
+3	naštěstí	Db-------------	Adv
+4	podařilo	VpNS---XR-AA---	Pred
+5	útočníka	NNMS4-----A----	Obj
+6	odmrštit	Vf--------A----	Sb
+7	a	J^-------------	Coord
+8	uprchnout	Vf--------A----	Sb
+9	.	Z:-------------	AuxK
+
+mf930713-041-p4s1A
+1	Ukradl	VpYS---XR-AA--1	Pred
+2	dítěti	NNNS3-----A----	Obj
+3	horské	AANS4----1A----	Atr
+4	kolo	NNNS4-----A----	Obj
+
+mf930713-041-p4s1B
+1	Zlín	NNIS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	do	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+mf930713-041-p4s1C
+1	Čtrnáctiletému	AAMS3----1A----	Atr
+2	chlapci	NNMS3-----A----	Obj
+3	za	RR--2----------	AuxP
+4	bílého	AAIS2----1A----	Atr
+5	dne	NNIS2-----A----	Adv
+6	před	RR--7----------	AuxP
+7	obchodním	AAIS7----1A----	Atr
+8	domem	NNIS7-----A----	Adv
+9	v	RR--6----------	AuxP
+10	centru	NNNS6-----A----	AtrAdv
+11	Zlína	NNIS2-----A----	Atr
+12	sebral	VpYS---XR-AA---	Pred
+13	19	C=-------------	Adv
+14	letý	AAMS1----1A----	Atr
+15	nezaměstnaný	AAMS1----1N----	Atr
+16	mladík	NNMS1-----A----	Sb
+17	horské	AANS4----1A----	Atr
+18	kolo	NNNS4-----A----	Obj
+19	.	Z:-------------	AuxK
+
+mf930713-041-p4s2
+1	Pod	RR--7----------	AuxP
+2	záminkou	NNFS7-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	kolo	NNNS4-----A----	Obj
+6	okradený	AAMS1----1A----	Atr
+7	chlapec	NNMS1-----A----	Sb
+8	sám	PLYS1----------	Atv
+9	odcizil	VpYS---XR-AA---	Atr
+10	kamarádovi	NNMS3-----A----	Obj
+11	,	Z:-------------	AuxX
+12	zloděj	NNMS1-----A----	Sb
+13	na	RR--6----------	AuxP
+14	bicyklu	NNIS6-----A----	AdvAtr
+15	odjel	VpYS---XR-AA---	Pred
+16	.	Z:-------------	AuxK
+
+mf930713-041-p4s3
+1	V	RR--6----------	AuxP
+2	Otrokovicích	NNFP6-----A----	Adv
+3	s	RR--7----------	AuxP
+4	kolem	NNNS7-----A----	Adv
+5	nastoupil	VpYS---XR-AA---	Pred
+6	do	RR--2----------	AuxP
+7	vlaku	NNIS2-----A----	Adv
+8	,	Z:-------------	AuxX
+9	odjel	VpYS---XR-AA---	Pred
+10	do	RR--2----------	AuxP
+11	Olomouce	NNFS2-----A----	Adv
+12	a	J^-------------	Coord
+13	tady	Db-------------	Adv
+14	ho	PHZS4--3-------	Obj
+15	obratem	NNIS7-----A----	Adv
+16	prodal	VpYS---XR-AA---	Pred
+17	za	RR--4----------	AuxP
+18	čtyři	ClXP4----------	Atr
+19	tisíce	NNIP4-----A----	Adv
+20	korun	NNFP2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+mf930713-041-p4s5
+1	Během	RR--2----------	AuxP
+2	několika	Ca--2----------	Atr
+3	dnů	NNIP2-----A----	Adv
+4	byl	VpYS---XR-AA---	Pred
+5	zlínskou	AAFS7----1A----	Atr
+6	policií	NNFS7-----A----	Obj
+7	dopaden	VsYS---XX-AP---	Pnom
+8	a	J^-------------	Coord
+9	ze	RV--2----------	AuxP
+10	svého	P8ZS2----------	Atr
+11	činu	NNIS2-----A----	Adv
+12	usvědčen	VsYS---XX-AP---	Pnom
+13	.	Z:-------------	AuxK
+

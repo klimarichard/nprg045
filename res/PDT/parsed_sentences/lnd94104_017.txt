@@ -1,0 +1,259 @@
+lnd94104-017-p1s1
+1	Stárnoucí	AGFS4-----A----	Atr
+2	Prahu	NNFS4-----A----	Obj
+3	omladí	VB-P---3P-AA---	Pred
+4	nejspíš	Dg-------3A----	Adv
+5	přistěhovalci	NNMP1-----A----	Sb
+
+lnd94104-017-p1s2
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	kva	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+lnd94104-017-p1s3
+1	Průměrný	AAIS1----1A----	Atr
+2	věk	NNIS1-----A----	Sb
+3	pražského	AANS2----1A----	Atr
+4	obyvatelstva	NNNS2-----A----	Atr
+5	se	P7-X4----------	AuxT
+6	od	RR--2----------	AuxP
+7	posledního	AANS2----1A----	Atr
+8	sčítání	NNNS2-----A----	Adv
+9	lidu	NNIS2-----A----	Atr
+10	před	RR--7----------	AuxP
+11	třemi	ClXP7----------	Atr
+12	lety	NNNP7-----A----	Atr
+13	zvýšil	VpYS---XR-AA---	Pred
+14	o	RR--4----------	AuxP
+15	půl	NNFS4-----A----	Adv
+16	roku	NNIS2-----A---1	Atr
+17	.	Z:-------------	AuxK
+
+lnd94104-017-p1s4
+1	Zatímco	J,-------------	AuxC
+2	v	RR--6----------	AuxP
+3	březnu	NNIS6-----A----	Adv
+4	1991	C=-------------	Atr
+5	činil	VpYS---XR-AA---	Adv
+6	38.8	C=-------------	Obj
+7	let	NNNP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	koncem	NNIS7-----A----	AuxP
+10	loňského	AAIS2----1A----	Atr
+11	prosince	NNIS2-----A----	Adv
+12	už	Db-------------	AuxZ
+13	to	PDNS1----------	Sb
+14	bylo	VpNS---XR-AA---	Pred
+15	39.3	C=-------------	Pnom
+16	.	Z:-------------	AuxK
+
+lnd94104-017-p1s5
+1	Jak	J,-------------	Adv
+2	vyplývá	VB-S---3P-AA---	Pred
+3	z	RR--2----------	AuxP
+4	šetření	NNNS2-----A----	Obj
+5	Městské	AAFS2----1A----	Atr
+6	statistické	AAFS2----1A----	Atr
+7	správy	NNFS2-----A----	Atr
+8	hlavního	AANS2----1A----	Atr
+9	města	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	v	RR--6----------	AuxP
+12	posledním	AANS6----1A----	Atr
+13	půlstoletí	NNNS6-----A----	Adv
+14	stárne	VB-S---3P-AA---	Pred
+15	Praha	NNFS1-----A----	Sb
+16	plynule	Dg-------1A----	Adv
+17	.	Z:-------------	AuxK
+
+lnd94104-017-p1s6
+1	V	RR--6----------	AuxP
+2	roce	NNIS6-----A---1	Adv
+3	1950	C=-------------	Atr
+4	byl	VpYS---XR-AA---	Pred
+5	průměrný	AAIS1----1A----	Atr
+6	věk	NNIS1-----A----	Sb
+7	34.9	C=-------------	Pnom
+8	let	NNNP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	při	RR--6----------	AuxP
+11	sčítání	NNNS6-----A----	ExD
+12	v	RR--6----------	AuxP
+13	sedmdesátém	CrIS6----------	Atr
+14	roce	NNIS6-----A---1	Atr
+15	38.4	C=-------------	ExD
+16	a	J^-------------	Coord
+17	v	RR--6----------	AuxP
+18	osmdesátém	CrIS6----------	ExD
+19	38.6	C=-------------	ExD
+20	.	Z:-------------	AuxK
+
+lnd94104-017-p1s7
+1	Loni	Db------------1	Adv
+2	se	P7-X4----------	AuxT
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Adv
+5	narodilo	VpNS---XR-AA---	Pred
+6	jedenáct	Cn-S1----------	Sb
+7	a	J^-------------	Coord
+8	půl	NNFS1-----A----	Sb
+9	tisíce	NNIS2-----A----	Atr
+10	dětí	NNFP2-----A----	Atr
+11	,	Z:-------------	Coord
+12	což	PE--1----------	Sb
+13	je	VB-S---3P-AA---	Pred
+14	téměř	Db-------------	AuxZ
+15	o	RR--4----------	AuxP
+16	devět	Cn-S4----------	Adv
+17	tisíc	ClXS2----------	Atr
+18	méně	Dg-------2A----	Pnom
+19	než	J,-------------	AuxC
+20	v	RR--6----------	AuxP
+21	roce	NNIS6-----A---1	ExD
+22	1950	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+lnd94104-017-p1s8
+1	Zemřelo	VpNS---XR-AA---	Pred
+2	patnáct	Cn-S1----------	Sb
+3	tisíc	ClXS2----------	Atr
+4	lidí	NNMP2-----A----	Atr
+5	a	J^-------------	Coord
+6	přírůstek	NNIS1-----A----	Sb
+7	migrací	NNFS7-----A----	Atr
+8	deficit	NNIS4-----A----	Obj
+9	nevyrovnal	VpYS---XR-NA---	Pred
+10	.	Z:-------------	AuxK
+
+lnd94104-017-p1s9
+1	Činil	VpYS---XR-AA---	Pred
+2	3380	C=-------------	Obj
+3	lidí	NNMP2-----A----	Atr
+4	.	Z:-------------	AuxK
+
+lnd94104-017-p1s10
+1	Větší	AAFS1----2A----	Atr
+2	část	NNFS1-----A----	Sb
+3	migrantů	NNMP2-----A----	Atr
+4	se	P7-X4----------	AuxT
+5	přistěhovala	VpQW---XR-AA---	Pred
+6	z	RR--2----------	AuxP
+7	ciziny	NNFS2-----A----	Adv
+8	.	Z:-------------	AuxK
+
+lnd94104-017-p1s11
+1	Podle	RR--2----------	AuxP
+2	demografa	NNMS2-----A----	Adv
+3	Tomáše	NNMS2-----A----	Atr
+4	Mládka	NNMS2-----A----	Atr
+5	se	P7-X4----------	AuxR
+6	v	RR--6----------	AuxP
+7	příštích	AANP6----1A----	Atr
+8	letech	NNNP6-----A----	Adv
+9	nedá	VB-S---3P-NA---	Pred
+10	počítat	Vf--------A----	Sb
+11	s	RR--7----------	AuxP
+12	omlazením	NNNS7-----A----	Obj
+13	Prahy	NNFS2-----A----	Atr
+14	přirozenou	AAFS7----1A----	Atr
+15	obměnou	NNFS7-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd94104-017-p1s12
+1	Kdybychom	J,-P---1-------	AuxC
+2	spoléhali	VpMP---XR-AA---	Adv
+3	jen	TT-------------	AuxZ
+4	na	RR--4----------	AuxP
+5	nově	Dg-------1A----	Adv
+6	narozené	AAMP4----1A----	Obj
+7	,	Z:-------------	AuxX
+8	měla	VpQW---XR-AA---	Pred
+9	by	Vc-------------	AuxV
+10	naše	PSHS1-P1-------	Atr
+11	metropole	NNFS1-----A----	Sb
+12	při	RR--6----------	AuxP
+13	současném	AAIS6----1A----	Adv
+14	trendu	NNIS6-----A----	Adv
+15	v	RR--6----------	AuxP
+16	roce	NNIS6-----A---1	Adv
+17	2020	C=-------------	Atr
+18	o	RR--4----------	AuxP
+19	sto	NNNS4-----A----	Adv
+20	tisíc	ClXS2----------	Atr
+21	obyvatel	NNMS1-----A----	Atr
+22	méně	Dg-------2A----	Obj
+23	než	J,-------------	AuxC
+24	dnes	Db-------------	ExD
+25	.	Z:-------------	AuxK
+
+lnd94104-017-p1s13
+1	Velké	AAFP4----1A----	Atr
+2	naděje	NNFP4-----A----	Obj
+3	však	J^-------------	Coord
+4	nelze	VB-S---3P-NA---	Pred
+5	spojovat	Vf--------A----	Sb
+6	ani	J^-------------	AuxZ
+7	s	RR--7----------	AuxP
+8	takzvanou	AAFS7----1A----	Atr
+9	vnitřní	AAFS7----1A----	Atr
+10	migrací	NNFS7-----A----	Obj
+11	,	Z:-------------	AuxX
+12	tedy	Db-------------	Apos
+13	stahováním	NNNS7-----A----	Obj
+14	lidí	NNMP2-----A----	Atr
+15	z	RR--2----------	AuxP
+16	ostatních	AAFP2----1A----	Atr
+17	oblastí	NNFP2-----A----	Atr
+18	republiky	NNFS2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94104-017-p1s14
+1	I	J^-------------	AuxZ
+2	v	RR--6----------	AuxP
+3	krajích	NNIP6-----A----	Adv
+4	totiž	Db-------------	AuxY
+5	počet	NNIS1-----A----	Sb
+6	obyvatel	NNMS1-----A----	Atr
+7	stagnuje	VB-S---3P-AA---	Pred
+8	a	J^-------------	Coord
+9	spíše	Dg-------2A---1	Adv
+10	se	P7-X4----------	AuxT
+11	snižuje	VB-S---3P-AA---	Pred
+12	.	Z:-------------	AuxK
+
+lnd94104-017-p1s15
+1	"	Z:-------------	AuxG
+2	Jediné	AANS1----1A----	Pnom
+3	,	Z:-------------	AuxX
+4	co	PQ--1----------	Sb
+5	zbývá	VB-S---3P-AA---	Atr
+6	,	Z:-------------	AuxX
+7	je	VB-S---3P-AA---	Obj
+8	migrace	NNFS1-----A----	Sb
+9	ze	RV--2----------	AuxP
+10	zahraničí	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	"	Z:-------------	AuxG
+13	uvádí	VB-S---3P-AA---	Pred
+14	T	NNMXX-----A---8	Atr
+15	.	Z:-------------	AuxG
+16	Mládek	NNMS1-----A----	Sb
+17	a	J^-------------	Coord
+18	dodává	VB-S---3P-AA---	Pred
+19	,	Z:-------------	AuxX
+20	že	J,-------------	AuxC
+21	předpokládá	VB-S---3P-AA---	Obj
+22	příliv	NNIS4-----A----	Obj
+23	lidí	NNMP2-----A----	Atr
+24	ze	RV--2----------	AuxP
+25	Slovenska	NNNS2-----A----	Atr
+26	a	J^-------------	Coord
+27	dále	Dg-------2A---1	ExD
+28	zejména	Db-------------	AuxZ
+29	z	RR--2----------	AuxP
+30	východních	AAFP2----1A----	Atr
+31	zemí	NNFP2-----A----	ExD
+32	.	Z:-------------	AuxK
+

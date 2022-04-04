@@ -1,0 +1,292 @@
+ln95043-070-p1s1
+1	Český	AAIS4----1A----	Atr
+2	jaderný	AAIS4----1A----	Atr
+3	odpad	NNIS4-----A----	Obj
+4	musí	VB-S---3P-AA---	Pred
+5	ČEZ	NNIPX-----A---8	Sb
+6	odvézt	Vf--------A----	Obj
+7	ze	RV--2----------	AuxP
+8	Slovenska	NNNS2-----A----	Adv
+
+ln95043-070-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95043-070-p3s1A
+1	Dukovany	NNIP1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95043-070-p3s1B
+1	Českým	AAIP3----1A----	Atr
+2	energetickým	AAIP3----1A----	Atr
+3	závodům	NNIP3-----A----	Obj
+4	hrozí	VB-S---3P-AA---	Pred
+5	penále	NNNS1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	pokud	J,-------------	AuxC
+8	nezačnou	VB-P---3P-NA---	Adv
+9	do	RR--2----------	AuxP
+10	konce	NNIS2-----A----	Adv
+11	července	NNIS2-----A----	Atr
+12	odvážet	Vf--------A----	Obj
+13	vyhořelé	AANS4----1A----	Atr
+14	jaderné	AANS4----1A----	Atr
+15	palivo	NNNS4-----A----	Obj
+16	ze	RV--2----------	AuxP
+17	slovenských	AAFP2----1A----	Atr
+18	Jaslovských	AAFP2----1A----	Atr
+19	Bohunic	NNFP2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95043-070-p3s2
+1	Na	RR--6----------	AuxP
+2	Slovensku	NNNS6-----A----	Adv
+3	je	VB-S---3P-AA---	Pred
+4	uloženo	VsNS---XX-AP---	Pnom
+5	1176	C=-------------	Sb
+6	vyhořelých	AAIP2----1A----	Atr
+7	palivových	AAIP2----1A----	Atr
+8	článků	NNIP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	které	P4YP4----------	Obj
+11	je	VB-S---3P-AA---	Atr
+12	česká	AAFS1----1A----	Atr
+13	strana	NNFS1-----A----	Sb
+14	povinna	ACQW------A----	Pnom
+15	odvézt	Vf--------A----	Obj
+16	do	RR--2----------	AuxP
+17	15	C=-------------	Atr
+18	.	Z:-------------	AuxG
+19	března	NNIS2-----A----	Adv
+20	1997	C=-------------	Atr
+21	.	Z:-------------	AuxK
+
+ln95043-070-p4s1
+1	Jaderný	AAIS1----1A----	Atr
+2	odpad	NNIS1-----A----	Sb
+3	z	RR--2----------	AuxP
+4	Dukovan	NNIP2-----A----	Atr
+5	byl	VpYS---XR-AA---	AuxV
+6	ukládán	VsYS---XX-AP---	Pred
+7	v	RR--6----------	AuxP
+8	jediném	AAIS6----1A----	Atr
+9	meziskladu	NNIS6-----A----	Adv
+10	na	RR--6----------	AuxP
+11	území	NNNS6-----A----	Atr
+12	tehdejší	AAFS2----1A----	Atr
+13	federace	NNFS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	Jaslovských	AAFP6----1A----	Atr
+16	Bohunicích	NNFP6-----A----	Atr
+17	až	TT-------------	AuxZ
+18	do	RR--2----------	AuxP
+19	roku	NNIS2-----A---1	Adv
+20	1993	C=-------------	Atr
+21	.	Z:-------------	AuxK
+
+ln95043-070-p4s2
+1	Nyní	Db-------------	Adv
+2	se	P7-X4----------	AuxR
+3	vyhořelé	AANS1----1A----	Atr
+4	palivo	NNNS1-----A----	Sb
+5	ukládá	VB-S---3P-AA---	Pred
+6	v	RR--6----------	AuxP
+7	bazénech	NNIP6-----A----	Adv
+8	reaktivního	AAIS2----1A----	Atr
+9	sálu	NNIS2-----A----	Atr
+10	dukovanské	AAFS2----1A----	Atr
+11	elektrárny	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	odkud	Db-------------	Adv
+14	bude	VB-S---3F-AA---	AuxV
+15	po	RR--6----------	AuxP
+16	pětiletém	AANS6----1A----	Atr
+17	vychládání	NNNS6-----A----	Adv
+18	přeloženo	VsNS---XX-AP---	Atr
+19	do	RR--2----------	AuxP
+20	kontejnerů	NNIP2-----A----	Adv
+21	meziskladu	NNIS2-----A----	Atr
+22	na	RR--6----------	AuxP
+23	území	NNNS6-----A----	Atr
+24	elektrárny	NNFS2-----A----	Atr
+25	.	Z:-------------	AuxK
+
+ln95043-070-p5s1
+1	Podle	RR--2----------	AuxP
+2	mluvčího	NNMS2-----A----	Atr
+3	dukovanské	AAFS2----1A----	Atr
+4	elektrárny	NNFS2-----A----	Atr
+5	Petra	NNMS2-----A----	Atr
+6	Spilky	NNFS2-----A----	Adv
+7	pokračuje	VB-S---3P-AA---	Pred
+8	stavba	NNFS1-----A----	Sb
+9	nového	AAIS2----1A----	Atr
+10	meziskladu	NNIS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Dukovanech	NNIP6-----A----	Atr
+13	s	RR--7----------	AuxP
+14	kapacitou	NNFS7-----A----	Atr
+15	šest	Cn-S1----------	Atr
+16	set	NNNP2-----A----	Atr
+17	tun	NNFP2-----A----	Atr
+18	odpadu	NNIS2-----A----	Atr
+19	uspokojivým	AANS7----1A----	Atr
+20	tempem	NNNS7-----A----	Adv
+21	a	J^-------------	Coord
+22	měla	VpQW---XR-AA---	Pred
+23	by	Vc-------------	AuxV
+24	být	Vf--------A----	AuxV
+25	zkolaudována	VsQW---XX-AP---	Obj
+26	v	RR--6----------	AuxP
+27	červnu	NNIS6-----A----	Adv
+28	tohoto	PDZS2----------	Atr
+29	roku	NNIS2-----A---1	Atr
+30	.	Z:-------------	AuxK
+
+ln95043-070-p5s2
+1	Pozdrželo	VpNS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	však	J^-------------	Coord
+4	udělení	NNNS1-----A----	Sb
+5	licence	NNFS2-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	kontejnery	NNIP4-----A----	Atr
+8	typu	NNIS2-----A----	Atr
+9	Castor	NNIS1-----A----	Atr
+10	,	Z:-------------	AuxX
+11	v	RR--6----------	AuxP
+12	nichž	P9XP6----------	Adv
+13	se	P7-X4----------	AuxR
+14	má	VB-S---3P-AA---	Atr
+15	vyhořelé	AANS1----1A----	Atr
+16	jaderné	AANS1----1A----	Atr
+17	palivo	NNNS1-----A----	Sb
+18	převážet	Vf--------A----	Obj
+19	.	Z:-------------	AuxK
+
+ln95043-070-p6s1
+1	"	Z:-------------	AuxG
+2	Licence	NNFS1-----A----	Sb
+3	by	Vc-------------	AuxV
+4	měla	VpQW---XR-AA---	Pred
+5	být	Vf--------A----	AuxV
+6	udělena	VsQW---XX-AP---	Obj
+7	do	RR--2----------	AuxP
+8	května	NNIS2-----A----	Adv
+9	.	Z:-------------	AuxK
+
+ln95043-070-p6s2
+1	Pokud	J,-------------	AuxC
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxT
+4	vyskytly	VpTP---XR-AA--1	Adv
+5	problémy	NNIP1-----A----	Sb
+6	,	Z:-------------	AuxX
+7	daly	VpTP---XR-AA---	Pred
+8	by	Vc-------------	AuxV
+9	se	P7-X4----------	AuxR
+10	využít	Vf--------A----	Obj
+11	i	J^-------------	AuxZ
+12	původní	AAIP1----1A----	Atr
+13	kontejnery	NNIP1-----A----	Sb
+14	,	Z:-------------	AuxX
+15	v	RR--6----------	AuxP
+16	nichž	P9XP6----------	Adv
+17	se	P7-X4----------	AuxR
+18	palivo	NNNS1-----A----	Sb
+19	odváželo	VpNS---XR-AA---	Atr
+20	na	RR--4----------	AuxP
+21	Slovensko	NNNS4-----A----	Adv
+22	a	J^-------------	Coord
+23	pak	Db-------------	ExD
+24	ke	RV--3----------	AuxP
+25	zpracování	NNNS3-----A----	ExD
+26	do	RR--2----------	AuxP
+27	Ruska	NNNS2-----A----	Atr
+28	.	Z:-------------	AuxK
+
+ln95043-070-p6s3
+1	Byla	VpQW---XR-AA---	Obj
+2	by	Vc-------------	AuxV
+3	to	PDNS1----------	Sb
+4	však	J^-------------	Coord
+5	komplikace	NNFS1-----A----	Pnom
+6	,	Z:-------------	AuxX
+7	protože	J,-------------	AuxC
+8	bychom	Vc-P---1-------	AuxV
+9	odpad	NNIS4-----A----	Obj
+10	před	RR--7----------	AuxP
+11	uložením	NNNS7-----A----	Adv
+12	museli	VpMP---XR-AA---	Adv
+13	překládat	Vf--------A----	Obj
+14	,	Z:-------------	AuxX
+15	"	Z:-------------	AuxG
+16	řekl	VpYS---XR-AA---	Pred
+17	Petr	NNMS1-----A----	Atr
+18	Spilka	NNMS1-----A----	Sb
+19	.	Z:-------------	AuxK
+
+ln95043-070-p7s1
+1	Slovenská	AAFS1----1A----	Atr
+2	strana	NNFS1-----A----	Sb
+3	podmiňuje	VB-S---3P-AA---	Pred
+4	transport	NNIS4-----A----	Obj
+5	vyhořelých	AAIP2----1A----	Atr
+6	palivových	AAIP2----1A----	Atr
+7	článků	NNIP2-----A----	Atr
+8	v	RR--6----------	AuxP
+9	kontejnerech	NNIP6-----A----	Atr
+10	typu	NNIS2-----A----	Atr
+11	Castor	NNIS1-----A----	Atr
+12	uskutečněním	NNNS7-----A----	Obj
+13	zkoušky	NNFS2-----A----	Atr
+14	převozu	NNIS2-----A----	Atr
+15	s	RR--7----------	AuxP
+16	maketou	NNFS7-----A----	Atr
+17	kazety	NNFS2-----A----	Atr
+18	s	RR--7----------	AuxP
+19	odpadem	NNIS7-----A----	Atr
+20	.	Z:-------------	AuxK
+
+ln95043-070-p7s2
+1	Transport	NNIS1-----A----	Sb
+2	se	P7-X4----------	AuxR
+3	uskuteční	VB-S---3P-AA---	Pred
+4	po	RR--6----------	AuxP
+5	železnici	NNFS6-----A----	Adv
+6	.	Z:-------------	AuxK
+
+ln95043-070-p7s3
+1	Podle	RR--2----------	AuxP
+2	Petra	NNMS2-----A----	Atr
+3	Spilky	NNFS2-----A----	Adv
+4	by	Vc-------------	AuxV
+5	k	RR--3----------	AuxP
+6	převezení	NNNS3-----A----	Obj
+7	141	C=-------------	Atr
+8	tun	NNFP2-----A----	Atr
+9	vyhořelého	AANS2----1A----	Atr
+10	paliva	NNNS2-----A----	Atr
+11	mělo	VpNS---XR-AA---	Pred
+12	postačit	Vf--------A----	Obj
+13	sedm	Cn-S1----------	Sb
+14	až	J^-------------	Coord
+15	čtrnáct	Cn-S1----------	Sb
+16	transportů	NNIP2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95043-070-p7s4
+1	Doprava	NNFS1-----A----	Sb
+2	bude	VB-S---3F-AA---	AuxV
+3	hrazena	VsQW---XX-AP---	Pred
+4	z	RR--2----------	AuxP
+5	prostředků	NNIP2-----A----	Obj
+6	společnosti	NNFS2-----A----	Atr
+7	Českých	AAIP2----1A----	Atr
+8	energetických	AAIP2----1A----	Atr
+9	závodů	NNIP2-----A----	Atr
+10	.	Z:-------------	AuxK
+

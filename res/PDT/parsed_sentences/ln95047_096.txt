@@ -1,0 +1,220 @@
+ln95047-096-p1s1
+1	Půlmiliarda	NNFS1-----A----	Sb
+2	korun	NNFP2-----A----	Atr
+3	na	RR--4----------	AuxP
+4	nový	AAIS4----1A----	Atr
+5	okres	NNIS4-----A----	Atr
+6	Jeseník	NNIS1-----A----	Atr
+7	není	VB-S---3P-NA---	Pred
+8	zbytečným	AANS7----1A----	Atr
+9	plýtváním	NNNS7-----A----	Pnom
+
+ln95047-096-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95047-096-p2s1B
+1	Jednorázový	AAIS1----1A----	Atr
+2	výdaj	NNIS1-----A----	Sb
+3	ve	RV--6----------	AuxP
+4	výši	NNFS6-----A----	Atr
+5	zhruba	Db-------------	AuxZ
+6	půl	ClXS2----------	Atr
+7	miliardy	NNFS2-----A----	Atr
+8	korun	NNFP2-----A----	Atr
+9	,	Z:-------------	AuxX
+10	který	P4YS1----------	Sb
+11	bude	VB-S---3F-AA---	Atr
+12	potřebný	AAIS1----1A----	Pnom
+13	ke	RV--3----------	AuxP
+14	zřízení	NNNS3-----A----	Adv
+15	nového	AAIS2----1A----	Atr
+16	okresu	NNIS2-----A----	Atr
+17	Jeseník	NNIS1-----A----	Atr
+18	,	Z:-------------	AuxX
+19	je	VB-S---3P-AA---	Pred
+20	sice	Db-------------	AuxY
+21	pouze	Db-------------	AuxZ
+22	orientační	AAFS7----1A----	Atr
+23	částkou	NNFS7-----A----	Pnom
+24	,	Z:-------------	AuxX
+25	ta	PDFS1----------	Sb
+26	však	J^-------------	Coord
+27	není	VB-S---3P-NA---	Pred
+28	v	RR--6----------	AuxP
+29	žádném	PWZS6----------	Atr
+30	případě	NNIS6-----A----	Adv
+31	předimenzována	VsQW---XX-AP---	Pnom
+32	.	Z:-------------	AuxK
+
+ln95047-096-p2s2
+1	Lidovým	AAFP3----1A----	Atr
+2	novinám	NNFP3-----A----	Obj
+3	to	PDNS4----------	Obj
+4	sdělil	VpYS---XR-AA---	Pred
+5	vrchní	AAMS1----1A----	Atr
+6	ředitel	NNMS1-----A----	Atr
+7	2	C=-------------	Atr
+8	.	Z:-------------	AuxG
+9	sekce	NNFS2-----A----	Atr
+10	civilně	Dg-------1A----	Atr
+11	-	Z:-------------	Coord
+12	správního	AAIS2----1A----	Atr
+13	úseku	NNIS2-----A----	Atr
+14	ministerstva	NNNS2-----A----	Atr
+15	vnitra	NNNS2-----A----	Atr
+16	Václav	NNMS1-----A----	Atr
+17	Henych	NNMS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95047-096-p3s1
+1	Vláda	NNFS1-----A----	Sb
+2	minulý	AAIS4----1A----	Atr
+3	týden	NNIS4-----A----	Adv
+4	doporučila	VpQW---XR-AA---	Pred
+5	novelu	NNFS4-----A----	Obj
+6	zákona	NNIS2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	územním	AANS6----1A----	Atr
+9	členění	NNNS6-----A----	Atr
+10	státu	NNIS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	která	P4FS1----------	Sb
+13	nový	AAIS4----1A----	Atr
+14	okres	NNIS4-----A----	Obj
+15	Jeseník	NNIS1-----A----	Atr
+16	zařadí	VB-S---3P-AA---	Atr
+17	do	RR--2----------	AuxP
+18	severomoravského	AAIS2----1A----	Atr
+19	kraje	NNIS2-----A----	Adv
+20	.	Z:-------------	AuxK
+
+ln95047-096-p3s2
+1	Parlament	NNIS1-----A----	Sb
+2	by	Vc-------------	AuxV
+3	měl	VpYS---XR-AA---	Pred
+4	novelu	NNFS4-----A----	Obj
+5	schválit	Vf--------A----	Obj
+6	v	RR--6----------	AuxP
+7	první	CrFS6----------	Atr
+8	polovině	NNFS6-----A----	Adv
+9	tohoto	PDZS2----------	Atr
+10	roku	NNIS2-----A---1	Atr
+11	a	J^-------------	Coord
+12	nový	AAIS1----1A----	Atr
+13	okres	NNIS1-----A----	Sb
+14	by	Vc-------------	AuxV
+15	měl	VpYS---XR-AA---	Pred
+16	začít	Vf--------A----	Obj
+17	fungovat	Vf--------A----	Obj
+18	od	RR--2----------	AuxP
+19	1	C=-------------	Atr
+20	.	Z:-------------	AuxG
+21	ledna	NNIS2-----A----	Adv
+22	1996	C=-------------	Atr
+23	.	Z:-------------	AuxK
+
+ln95047-096-p3s3
+1	Jednotlivé	AAIP1----1A----	Atr
+2	resorty	NNIP1-----A----	Sb
+3	zatím	Db-------------	Adv
+4	požadují	VB-P---3P-AA---	Pred
+5	v	RR--6----------	AuxP
+6	této	PDFS6----------	Atr
+7	souvislosti	NNFS6-----A----	Adv
+8	ze	RV--2----------	AuxP
+9	státního	AAIS2----1A----	Atr
+10	rozpočtu	NNIS2-----A----	Adv
+11	uvolnit	Vf--------A----	Obj
+12	asi	TT-------------	AuxZ
+13	400	C=-------------	Obj
+14	miliónů	NNIP2-----A----	Atr
+15	korun	NNFP2-----A----	Atr
+16	,	Z:-------------	Coord
+17	čtyři	ClXP1----------	Atr
+18	resorty	NNIP1-----A----	Sb
+19	zatím	Db-------------	Adv
+20	požadavky	NNIP4-----A----	Obj
+21	nepředložily	VpTP---XR-NA---	Pred
+22	.	Z:-------------	AuxK
+
+ln95047-096-p4s1
+1	Podle	RR--2----------	AuxP
+2	V	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Henycha	NNMS2-----A----	Adv
+5	nebude	VB-S---3F-NA---	Pred
+6	největší	AAFS7----3A----	Atr
+7	položkou	NNFS7-----A----	Pnom
+8	zřízení	NNNS1-----A----	Sb
+9	nového	AAIS2----1A----	Atr
+10	okresního	AAIS2----1A----	Atr
+11	úřadu	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln95047-096-p4s2
+1	S	RR--7----------	AuxP
+2	mnohem	Db-------------	Adv
+3	většími	AAIP7----2A----	Atr
+4	výdaji	NNIP7-----A----	Obj
+5	se	P7-X4----------	AuxR
+6	počítá	VB-S---3P-AA---	Pred
+7	na	RR--4----------	AuxP
+8	vybavení	NNNS4-----A----	Adv
+9	okresního	AANS2----1A----	Atr
+10	ředitelství	NNNS2-----A----	Atr
+11	policie	NNFS2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	soudu	NNIS2-----A----	Atr
+14	apod	Db------------8	Coord
+15	.	Z:-------------	AuxG
+
+ln95047-096-p4s3
+1	Jen	TT-------------	AuxZ
+2	zakoupení	NNNS1-----A----	Sb
+3	speciálních	AAIP2----1A----	Atr
+4	laboratorních	AAIP2----1A----	Atr
+5	přístrojů	NNIP2-----A----	Atr
+6	pro	RR--4----------	AuxP
+7	okresního	AAMS4----1A----	Atr
+8	hygienika	NNMS4-----A----	Atr
+9	přijde	VB-S---3P-AA---	Pred
+10	prý	TT-------------	AuxY
+11	na	RR--4----------	AuxP
+12	50	C=-------------	Obj
+13	až	J^-------------	Coord
+14	60	C=-------------	Obj
+15	miliónů	NNIP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95047-096-p4s4
+1	Hodnota	NNFS1-----A----	Sb
+2	zařízení	NNNS2-----A----	Atr
+3	některých	PZXP2----------	Atr
+4	zřizovaných	AAIP2----1A----	Atr
+5	úřadů	NNIP2-----A----	Atr
+6	tak	Db-------------	Adv
+7	mnohdy	Db-------------	Adv
+8	značně	Dg-------1A----	Adv
+9	převyšuje	VB-S---3P-AA---	Pred
+10	cenu	NNFS4-----A----	Obj
+11	kupovaných	AAIP2----1A----	Atr
+12	objektů	NNIP2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95047-096-p4s5
+1	Požadavky	NNIP4-----A----	Obj
+2	resortů	NNIP2-----A----	Atr
+3	Henych	NNMS1-----A----	Sb
+4	nehodnotí	VB-S---3P-NA---	Pred
+5	jako	J,-------------	AuxY
+6	maximalistické	AAIP4----1A----	Atv
+7	,	Z:-------------	Coord
+8	mají	VB-P---3P-AA---	Pred
+9	pouze	Db-------------	AuxZ
+10	zajistit	Vf--------A----	Obj
+11	fungování	NNNS4-----A----	Obj
+12	nových	AAFP2----1A----	Atr
+13	institucí	NNFP2-----A----	Atr
+14	.	Z:-------------	AuxK
+

@@ -1,0 +1,588 @@
+lnd94105-120-p1s1A
+1	Pátý	CrIS1----------	Atr
+2	květen	NNIS1-----A----	ExD
+
+lnd94105-120-p1s1B
+1	Jiří	NNMS1-----A----	Atr
+2	Hanák	NNMS1-----A----	ExD
+
+lnd94105-120-p1s1C
+1	V	RR--6----------	AuxP
+2	jednom	ClZS6----------	Atr
+3	jediném	AAIS6----1A----	Atr
+4	případě	NNIS6-----A----	Adv
+5	kapitulovala	VpQW---XR-AA---	Pred
+6	nacistická	AANP1----1A----	Atr
+7	vojska	NNNP1-----A----	Sb
+8	před	RR--7----------	AuxP
+9	orgány	NNIP7-----A----	Obj
+10	československého	AAIS2----1A----	Atr
+11	státu	NNIS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+lnd94105-120-p1s2
+1	Bylo	VpNS---XR-AA---	Pred
+2	to	PDNS1----------	Sb
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Adv
+5	8	C=-------------	Atr
+6	.	Z:-------------	AuxG
+7	května	NNIS2-----A----	Adv
+8	1945	C=-------------	Atr
+9	,	Z:-------------	Apos
+10	čtvrtého	CrIS2----------	Atr
+11	dne	NNIS2-----A----	Adv
+12	pražského	AANS2----1A----	Atr
+13	povstání	NNNS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+lnd94105-120-p1s3
+1	Kapitulaci	NNFS4-----A----	Obj
+2	přijala	VpQW---XR-AA---	Pred
+3	Česká	AAFS1----1A----	Atr
+4	národní	AAFS1----1A----	Atr
+5	rada	NNFS1-----A----	Sb
+6	a	J^-------------	Coord
+7	vysloužila	VpQW---XR-AA---	Pred
+8	si	P7-X3----------	AuxT
+9	tím	PDZS7----------	Adv
+10	nelibost	NNFS4-----A----	Obj
+11	a	J^-------------	Coord
+12	zatracení	NNNS4-----A----	Obj
+13	.	Z:-------------	AuxK
+
+lnd94105-120-p1s4
+1	Nikdo	PWM-1----------	Sb
+2	jí	PPFS3--3-------	Obj
+3	nepoděkoval	VpYS---XR-NA---	Pred
+4	,	Z:-------------	AuxX
+5	nikdo	PWM-1----------	Sb
+6	s	RR--7----------	AuxP
+7	ní	P5FS7--3-------	Obj
+8	nejednal	VpYS---XR-NA---	Pred
+9	,	Z:-------------	Coord
+10	byla	VpQW---XR-AA---	AuxV
+11	rozpuštěna	VsQW---XX-AP---	Pred
+12	několik	Ca--4----------	Adv
+13	dní	NNIP2-----A---1	Atr
+14	poté	Db-------------	Atr
+15	po	RR--6----------	AuxP
+16	jediné	AAFS6----1A----	Atr
+17	formální	AAFS6----1A----	Atr
+18	audienci	NNFS6-----A----	Adv
+19	u	RR--2----------	AuxP
+20	prezidenta	NNMS2-----A----	Atr
+21	Beneše	NNMS2-----A----	Atr
+22	.	Z:-------------	AuxK
+
+lnd94105-120-p1s5
+1	Dopustila	VpQW---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	totiž	Db-------------	Adv
+4	hříchu	NNIS2-----A----	Obj
+5	smrtelného	AAIS2----1A----	Atr
+6	:	Z:-------------	Apos
+7	překazila	VpQW---XR-AA---	Pred
+8	Rudé	AAFS3----1A----	Atr
+9	armádě	NNFS3-----A----	Obj
+10	roli	NNFS4-----A----	Obj
+11	zachránkyně	NNFS2-----A----	Atr
+12	v	RR--6----------	AuxP
+13	hodině	NNFS6-----A----	Atr
+14	dvanácté	CrFS6----------	Atr
+15	.	Z:-------------	AuxK
+
+lnd94105-120-p1s6
+1	Rybalkovovy	AUIP1M---------	Atr
+2	tanky	NNIP1-----A----	Sb
+3	devátého	CrIS2----------	Atr
+4	května	NNIS2-----A----	Adv
+5	zastihly	VpTP---XR-AA--1	Pred
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Adv
+8	už	Db-------------	Adv
+9	jen	TT-------------	AuxZ
+10	zbytky	NNIP4-----A----	Obj
+11	zadního	AAIS2----1A----	Atr
+12	voje	NNIS2-----A----	Atr
+13	německé	AAFS2----1A----	Atr
+14	armády	NNFS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94105-120-p1s7
+1	O	RR--6----------	AuxP
+2	pražském	AANS6----1A----	Atr
+3	povstání	NNNS6-----A----	Obj
+4	se	P7-X4----------	AuxR
+5	neříkala	VpQW---XR-NA---	Pred
+6	pravda	NNFS1-----A----	Sb
+7	málem	Db-------------	AuxZ
+8	půl	NNFS4-----A----	Adv
+9	století	NNNS2-----A----	Atr
+10	,	Z:-------------	Coord
+11	o	RR--6----------	AuxP
+12	jednom	ClZS6----------	Atr
+13	aspektu	NNIS6-----A----	Obj
+14	povstání	NNNS2-----A----	Atr
+15	se	P7-X4----------	AuxR
+16	prakticky	Dg-------1A----	Adv
+17	mlčí	VB-S---3P-AA---	Pred
+18	dodnes	Db-------------	Adv
+19	.	Z:-------------	AuxK
+
+lnd94105-120-p1s8A
+1	Už	Db-------------	Adv
+2	víme	VB-P---1P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	Američané	NNMP1-----A----	Sb
+6	pomoci	Vf--------A---1	Obj
+7	nesměli	VpMP---XR-NA---	Obj
+8	,	Z:-------------	AuxX
+9	ani	J^-------------	AuxZ
+10	dodávkami	NNFP7-----A----	Adv
+11	zbraní	NNFP2-----A----	Atr
+12	,	Z:-------------	Coord
+13	už	Db-------------	Adv
+14	víme	VB-P---1P-AA---	Pred
+15	,	Z:-------------	AuxX
+16	že	J,-------------	AuxC
+17	Rudá	AAFS1----1A----	Atr
+18	armáda	NNFS1-----A----	Sb
+19	pomoci	Vf--------A---1	Obj
+20	nechtěla	VpQW---XR-NA---	Obj
+21	,	Z:-------------	AuxX
+22	v	RR--6----------	AuxP
+23	sázce	NNFS6-----A----	Adv
+24	byla	VpQW---XR-AA---	Obj
+25	ona	PDFS1----------	Atr
+26	gloriola	NNFS1-----A----	Sb
+27	a	J^-------------	Coord
+28	kromě	RR--2----------	AuxP
+29	toho	PDZS2----------	Adv
+30	Rusové	NNMP1-----A----	Sb
+31	zásadně	Dg-------1A----	Adv
+32	nepomáhali	VpMP---XR-NA---	Obj
+33	žádnému	PWZS3----------	Atr
+34	povstání	NNNS3-----A----	Obj
+35	,	Z:-------------	AuxX
+36	které	P4NS4----------	Obj
+37	neměli	VpMP---XR-NA---	Atr
+38	"	Z:-------------	AuxG
+39	v	RR--6----------	AuxP
+40	ruce	NNFS6-----A----	Adv
+41	.	Z:-------------	AuxK
+42	"	Z:-------------	AuxG
+
+lnd94105-120-p1s8B
+1	Málo	Dg-------1A----	Adv
+2	se	P7-X4----------	AuxR
+3	však	J^-------------	AuxY
+4	dosud	Db-------------	Adv
+5	hovoří	VB-S---3P-AA---	Pred
+6	o	RR--6----------	AuxP
+7	tom	PDZS6----------	Obj
+8	,	Z:-------------	AuxX
+9	že	J,-------------	AuxC
+10	rebus	NNIS1-----A----	Sb
+11	,	Z:-------------	AuxX
+12	do	RR--2----------	AuxP
+13	kterého	P4ZS2----------	Adv
+14	se	P7-X4----------	AuxT
+15	povstalci	NNMP1-----A----	Sb
+16	dostali	VpMP---XR-AA---	Atr
+17	,	Z:-------------	AuxX
+18	řešitelný	AAIS1----1A----	Pnom
+19	byl	VpYS---XR-AA---	Atr
+20	.	Z:-------------	AuxK
+
+lnd94105-120-p1s9
+1	To	PDNS1----------	Atr
+2	řešení	NNNS1-----A----	Sb
+3	se	P7-X4----------	AuxT
+4	jmenovalo	VpNS---XR-AA---	Pred
+5	československá	AAFS1----1A----	Atr
+6	obrněná	AAFS1----1A----	Atr
+7	brigáda	NNFS1-----A----	Obj
+8	.	Z:-------------	AuxK
+
+lnd94105-120-p1s10
+1	Američané	NNMP1-----A----	Sb
+2	ji	PPFS4--3-------	Obj
+3	na	RR--4----------	AuxP
+4	Prahu	NNFS4-----A----	Adv
+5	vyslat	Vf--------A----	Obj
+6	nesměli	VpMP---XR-NA---	Pred
+7	.	Z:-------------	AuxK
+
+lnd94105-120-p1s11
+1	Brigáda	NNFS1-----A----	Sb
+2	však	J^-------------	AuxY
+3	měla	VpQW---XR-AA---	Pred
+4	svého	P8MS4----------	Atr
+5	vrchního	AAMS4----1A----	Atr
+6	velitele	NNMS4-----A----	Obj
+7	.	Z:-------------	AuxK
+
+lnd94105-120-p1s12
+1	Ten	PDYS1----------	Sb
+2	rozkaz	NNIS4-----A----	Obj
+3	k	RR--3----------	AuxP
+4	pochodu	NNIS3-----A----	Atr
+5	na	RR--4----------	AuxP
+6	Prahu	NNFS4-----A----	Atr
+7	vydat	Vf--------A----	Obj
+8	mohl	VpYS---XR-AA---	Pred
+9	a	J^-------------	Coord
+10	měl	VpYS---XR-AA---	Pred
+11	a	J^-------------	Coord
+12	nic	PW--1----------	Sb
+13	na	RR--6----------	AuxP
+14	světě	NNIS6-----A----	Atr
+15	by	Vc-------------	AuxV
+16	mu	PHZS3--3-------	Obj
+17	v	RR--6----------	AuxP
+18	tom	PDZS6----------	Obj
+19	nemohlo	VpNS---XR-NA---	Pred
+20	zabránit	Vf--------A----	Obj
+21	.	Z:-------------	AuxK
+
+lnd94105-120-p1s13
+1	Prezident	NNMS1-----A----	Atr
+2	Beneš	NNMS1-----A----	Sb
+3	však	J^-------------	AuxY
+4	takový	PDIS4----------	Atr
+5	rozkaz	NNIS4-----A----	Obj
+6	nevydal	VpYS---XR-NA---	Pred
+7	.	Z:-------------	AuxK
+
+lnd94105-120-p1s14
+1	Mohl	VpYS---XR-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	stát	Vf--------A----	Obj
+4	státníkem	NNMS7-----A----	Obj
+5	,	Z:-------------	AuxX
+6	který	P4YS1----------	Sb
+7	utvářel	VpYS---XR-AA---	Atr
+8	dějiny	NNFP4-----A----	Obj
+9	.	Z:-------------	AuxK
+
+lnd94105-120-p1s15
+1	Zůstal	VpYS---XR-AA---	Pred
+2	jen	TT-------------	AuxZ
+3	politikem	NNMS7-----A----	Obj
+4	.	Z:-------------	AuxK
+
+lnd94105-120-p1s16
+1	Francouzský	AAMS1----1A----	Atr
+2	prezident	NNMS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	podobné	AAFS6----1A----	Atr
+5	situaci	NNFS6-----A----	Adv
+6	nezaváhal	VpYS---XR-NA---	Pred
+7	.	Z:-------------	AuxK
+
+lnd94105-120-p1s17
+1	Povstalé	AAFS3----1A----	Atr
+2	Paříži	NNFS3-----A----	Obj
+3	vyslal	VpYS---XR-AA---	Pred
+4	na	RR--4----------	AuxP
+5	pomoc	NNFS4-----A----	Adv
+6	francouzskou	AAFS4----1A----	Atr
+7	pancéřovou	AAFS4----1A----	Atr
+8	divizi	NNFS4-----A----	Obj
+9	,	Z:-------------	AuxX
+10	která	P4FS1----------	Sb
+11	bojovala	VpQW---XR-AA---	Atr
+12	v	RR--6----------	AuxP
+13	sestavě	NNFS6-----A----	Adv
+14	amerických	AAFP2----1A----	Atr
+15	armád	NNFP2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+lnd94105-120-p1s18
+1	Když	J,-------------	AuxC
+2	americké	AANS1----1A----	Atr
+3	velení	NNNS1-----A----	Sb
+4	protestovalo	VpNS---XR-AA---	Adv
+5	,	Z:-------------	AuxX
+6	de	RR--1----------	Atr
+7	Gaulle	NNMS1-----A----	Sb
+8	prostě	Dg-------1A----	Adv
+9	divizi	NNFS4-----A----	Obj
+10	vyňal	VpYS---XR-AA---	Pred
+11	z	RR--2----------	AuxP
+12	pravomoci	NNFS2-----A----	Adv
+13	amerického	AANS2----1A----	Atr
+14	velení	NNNS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+lnd94105-120-p1s19
+1	Květnové	AANS1----1A----	Atr
+2	povstání	NNNS1-----A----	Sb
+3	v	RR--6----------	AuxP
+4	Praze	NNFS6-----A----	Atr
+5	rozhodně	Dg-------1A----	Adv
+6	nebyla	VpQW---XR-NA---	Pred
+7	žádná	PWFS1----------	Atr
+8	epizoda	NNFS1-----A----	Pnom
+9	.	Z:-------------	AuxK
+
+lnd94105-120-p1s20
+1	Za	RR--4----------	AuxP
+2	čtyři	ClXP4----------	Atr
+3	dny	NNIP4-----A----	Adv
+4	bojů	NNIP2-----A----	Atr
+5	padlo	VpNS---XR-AA--1	Pred
+6	na	RR--4----------	AuxP
+7	tři	ClXP4----------	Atr
+8	tisíce	NNIP4-----A----	Sb
+9	lidí	NNMP2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+lnd94105-120-p1s21
+1	Dva	ClYP1----------	Atr
+2	měsíce	NNIP1-----A----	Sb
+3	Slovenského	AANS2----1A----	Atr
+4	národního	AANS2----1A----	Atr
+5	povstání	NNNS2-----A----	Atr
+6	stály	VpTP---XR-AA---	Pred
+7	14000	C=-------------	Obj
+8	obětí	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+lnd94105-120-p1s22
+1	To	PDNS1----------	Sb
+2	vypovídá	VB-S---3P-AA---	Pred
+3	o	RR--6----------	AuxP
+4	prudkosti	NNFS6-----A----	Obj
+5	a	J^-------------	Coord
+6	krvavosti	NNFS6-----A----	Obj
+7	bojů	NNIP2-----A----	Atr
+8	na	RR--6----------	AuxP
+9	pražských	AAFP6----1A----	Atr
+10	barikádách	NNFP6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+lnd94105-120-p1s23
+1	Budoucnost	NNFS4-----A----	Obj
+2	státu	NNIS2-----A----	Atr
+3	však	J^-------------	AuxY
+4	už	Db-------------	Adv
+5	boje	NNIP1-----A----	Sb
+6	v	RR--6----------	AuxP
+7	Praze	NNFS6-----A----	Atr
+8	změnit	Vf--------A----	Obj
+9	nemohly	VpTP---XR-NA---	Pred
+10	.	Z:-------------	AuxK
+
+lnd94105-120-p1s24
+1	Bylo	VpNS---XR-AA---	AuxV
+2	o	RR--6----------	AuxP
+3	ní	P5FS6--3-------	Obj
+4	rozhodnuto	VsNS---XX-AP---	Pred
+5	dávno	Dg-------1A----	Adv
+6	a	J^-------------	Coord
+7	jinde	Db-------------	Adv
+8	:	Z:-------------	Apos
+9	v	RR--6----------	AuxP
+10	prosinci	NNIS6-----A----	ExD
+11	1943	C=-------------	Atr
+12	při	RR--6----------	AuxP
+13	podpisu	NNIS6-----A---1	ExD
+14	smlouvy	NNFS2-----A----	Atr
+15	se	RV--7----------	AuxP
+16	Sovětským	AAIS7----1A----	Atr
+17	svazem	NNIS7-----A----	Atr
+18	a	J^-------------	Coord
+19	na	RR--6----------	AuxP
+20	počátku	NNIS6-----A----	ExD
+21	roku	NNIS2-----A---1	Atr
+22	1945	C=-------------	Atr
+23	při	RR--6----------	AuxP
+24	jednání	NNNS6-----A----	ExD
+25	londýnského	AAIS2----1A----	Atr
+26	a	J^-------------	Coord
+27	moskevského	AAIS2----1A----	Atr
+28	exilu	NNIS2-----A----	Atr
+29	taktéž	Db-------------	ExD
+30	v	RR--6----------	AuxP
+31	Moskvě	NNFS6-----A----	ExD
+32	.	Z:-------------	AuxK
+
+lnd94105-120-p1s25
+1	"	Z:-------------	AuxG
+2	Musíte	VB-P---2P-AA---	Obj
+3	se	P7-X4----------	AuxT
+4	dohodnout	Vf--------A----	Obj
+5	"	Z:-------------	AuxG
+6	,	Z:-------------	AuxX
+7	přikazoval	VpYS---XR-AA---	Pred
+8	prezident	NNMS1-----A----	Sb
+9	zástupcům	NNMP3-----A----	Obj
+10	demokratických	AAFP2----1A----	Atr
+11	stran	NNFP2-----A----	Atr
+12	,	Z:-------------	AuxX
+13	když	J,-------------	AuxC
+14	váhali	VpMP---XR-AA---	Adv
+15	dále	Dg-------2A---1	Adv
+16	ustupovat	Vf--------A----	Obj
+17	apetitu	NNIS3-----A----	Obj
+18	komunistů	NNMP2-----A----	Atr
+19	.	Z:-------------	AuxK
+
+lnd94105-120-p1s26A
+1	Rozhodnuto	VsNS---XX-AP---	Pred
+2	bylo	VpNS---XR-AA---	AuxV
+3	skutečně	Dg-------1A----	Adv
+4	dávno	Dg-------1A----	Adv
+5	předem	Db-------------	Adv
+6	a	J^-------------	Coord
+7	nikoliv	Db-------------	AuxZ
+8	v	RR--6----------	AuxP
+9	Praze	NNFS6-----A----	Adv
+10	.	Z:-------------	AuxK
+
+lnd94105-120-p1s26B
+1	16	C=-------------	Atr
+2	.	Z:-------------	AuxG
+3	května	NNIS2-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	na	RR--6----------	AuxP
+6	Staroměstském	AANS6----1A----	Atr
+7	náměstí	NNNS6-----A----	Adv
+8	konala	VpQW---XR-AA---	Pred
+9	slavnostní	AAFS1----1A----	Atr
+10	přehlídka	NNFS1-----A----	Sb
+11	.	Z:-------------	AuxK
+
+lnd94105-120-p1s27
+1	Dobová	AAFS1----1A----	Atr
+2	fotografie	NNFS1-----A----	Sb
+3	naznačuje	VB-S---3P-AA---	Pred
+4	mnohé	AANS4----1A----	Obj
+5	,	Z:-------------	Coord
+6	slova	NNNP1-----A----	Sb
+7	hlavního	AAMS2----1A----	Atr
+8	aktéra	NNMS2-----A----	Atr
+9	to	PDNS4----------	Obj
+10	potvrdila	VpQW---XR-AA---	Pred
+11	.	Z:-------------	AuxK
+
+lnd94105-120-p1s28A
+1	Jakoby	J,-------------	AuxZ
+2	pod	RR--7----------	AuxP
+3	dohledem	NNIS7-----A----	Adv
+4	sovětského	AAMS2----1A----	Atr
+5	velvyslance	NNMS2-----A----	Atr
+6	Valeriana	NNMS2-----A----	Atr
+7	Zorina	NNMS2-----A----	Atr
+8	(	Z:-------------	AuxG
+9	o	RR--4----------	AuxP
+10	tři	ClXP4----------	Atr
+11	roky	NNIP4-----A----	Adv
+12	později	Dg-------2A----	Adv
+13	přijel	VpYS---XR-AA---	Atr
+14	do	RR--2----------	AuxP
+15	Prahy	NNFS2-----A----	Adv
+16	dohlížet	Vf--------A----	Adv
+17	na	RR--4----------	AuxP
+18	puč	NNIS4-----A----	Obj
+19	)	Z:-------------	AuxG
+20	prohlásil	VpYS---XR-AA---	Pred
+21	toho	PDZS2----------	Atr
+22	dne	NNIS2-----A----	Adv
+23	prezident	NNMS1-----A----	Atr
+24	Beneš	NNMS1-----A----	Sb
+25	:	Z:-------------	AuxG
+26	"	Z:-------------	AuxG
+27	Teprve	Db-------------	Adv
+28	tato	PDFS1----------	Atr
+29	válka	NNFS1-----A----	Sb
+30	učiní	VB-S---3P-AA---	Obj
+31	z	RR--2----------	AuxP
+32	Československa	NNNS2-----A----	Obj
+33	za	RR--2----------	AuxP
+34	pomoci	NNFS2-----A----	AuxP
+35	Sovětského	AAIS2----1A----	Atr
+36	svazu	NNIS2-----A----	Adv
+37	definitivně	Dg-------1A----	Adv
+38	a	J^-------------	Coord
+39	s	RR--7----------	AuxP
+40	konečnou	AAFS7----1A----	Atr
+41	platností	NNFS7-----A----	Adv
+42	člena	NNMS4-----A----	Obj
+43	mezinárodního	AANS2----1A----	Atr
+44	společenství	NNNS2-----A----	Atr
+45	.	Z:-------------	AuxK
+46	"	Z:-------------	AuxG
+
+lnd94105-120-p1s28B
+1	Nedá	VB-S---3P-NA---	Pred
+2	se	P7-X4----------	AuxR
+3	s	RR--7----------	AuxP
+4	jistotou	NNFS7-----A----	Adv
+5	tvrdit	Vf--------A----	Obj
+6	,	Z:-------------	AuxX
+7	jak	Db-------------	AuxC
+8	a	J^-------------	Coord
+9	zda	J,-------------	AuxC
+10	vůbec	Db-------------	Adv
+11	by	Vc-------------	AuxV
+12	československá	AAFS1----1A----	Atr
+13	pancéřová	AAFS1----1A----	Atr
+14	brigáda	NNFS1-----A----	Sb
+15	,	Z:-------------	AuxX
+16	vyslaná	AAFS1----1A----	Atr
+17	prezidentem	NNMS7-----A----	Atr
+18	Benešem	NNMS7-----A----	Obj
+19	na	RR--4----------	AuxP
+20	pomoc	NNFS4-----A----	Adv
+21	Praze	NNFS3-----A----	Atr
+22	,	Z:-------------	AuxX
+23	změnila	VpQW---XR-AA---	Sb
+24	naše	PSXP4-P1-------	Atr
+25	osudy	NNIP4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+lnd94105-120-p1s29
+1	Existuje	VB-S---3P-AA---	Pred
+2	však	J^-------------	AuxY
+3	úsloví	NNNS1-----A----	Sb
+4	:	Z:-------------	AuxG
+5	kdo	PKM-1----------	Sb
+6	se	P7-X4----------	AuxT
+7	odváží	VB-S---3P-AA---	Sb
+8	,	Z:-------------	AuxX
+9	zvítězí	VB-S---3P-AA---	Atr
+10	!	Z:-------------	AuxK
+
+lnd94105-120-p1s30
+1	V	RR--6----------	AuxP
+2	Praze	NNFS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	5	C=-------------	Atr
+5	.	Z:-------------	AuxG
+6	května	NNIS2-----A----	Adv
+7	1945	C=-------------	Atr
+8	odvážili	VpMP---XR-AA---	Pred
+9	jen	TT-------------	AuxZ
+10	barikádníci	NNMP1-----A----	Sb
+11	a	J^-------------	Coord
+12	Česká	AAFS1----1A----	Atr
+13	národní	AAFS1----1A----	Atr
+14	rada	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+lnd94105-120-p1s31
+1	Kupodivu	Db-------------	Adv
+2	zvítězili	VpMP---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	byť	J,-------------	AuxC
+5	jen	TT-------------	AuxZ
+6	na	RR--4----------	AuxP
+7	jeden	ClIS4----------	Atr
+8	jediný	AAIS4----1A----	Atr
+9	den	NNIS4-----A----	ExD
+10	.	Z:-------------	AuxK
+

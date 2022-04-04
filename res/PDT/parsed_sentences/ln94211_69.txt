@@ -1,0 +1,379 @@
+ln94211-69-p1s1
+1	Vyrovnané	AAFP1----1A----	Atr
+2	daně	NNFP1-----A----	ExD
+3	?	Z:-------------	AuxK
+
+ln94211-69-p2s1D
+1	Poznámka	NNFS1-----A----	ExD
+
+ln94211-69-p2s1C
+1	Aleš	NNMS1-----A----	Atr
+2	V	NNMXX-----A---8	Atr
+3	.	Z:-------------	AuxG
+4	Poledne	NNMS1-----A----	ExD
+
+ln94211-69-p2s1B
+1	Ponechme	Vi-P---1--A----	Pred
+2	protentokrát	Db-------------	Adv
+3	stranou	Db-------------	Adv
+4	diskuse	NNFP4-----A----	Obj
+5	o	RR--6----------	AuxP
+6	tom	PDZS6----------	Atr
+7	,	Z:-------------	AuxX
+8	zda	J,-------------	AuxC
+9	má	VB-S---3P-AA---	Atr
+10	či	J^-------------	Coord
+11	nemá	VB-S---3P-NA---	Atr
+12	být	Vf--------A----	Obj
+13	vyrovnaný	AAIS1----1A----	Atr
+14	rozpočet	NNIS1-----A----	Sb
+15	zakotven	VsYS---XX-AP---	Pnom
+16	v	RR--6----------	AuxP
+17	ústavě	NNFS6-----A----	Adv
+18	,	Z:-------------	AuxX
+19	a	J^-------------	Coord
+20	podívejme	Vi-P---1--A----	Pred
+21	se	P7-X4----------	AuxT
+22	,	Z:-------------	AuxX
+23	co	PQ--4----------	Obj
+24	přinesou	VB-P---3P-AA---	Obj
+25	novely	NNFP1-----A----	Sb
+26	daňových	AAIP2----1A----	Atr
+27	zákonů	NNIP2-----A----	Atr
+28	podnikatelům	NNMP3-----A----	Adv
+29	a	J^-------------	Coord
+30	spotřebitelům	NNMP3-----A----	Adv
+31	.	Z:-------------	AuxK
+
+ln94211-69-p2s2
+1	Je	VB-S---3P-AA---	Pred
+2	možné	AANS1----1A----	Pnom
+3	říci	Vf--------A---1	Sb
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	snížení	NNNS1-----A----	Sb
+7	daně	NNFS2-----A----	Atr
+8	z	RR--2----------	AuxP
+9	přidané	AAFS2----1A----	Atr
+10	hodnoty	NNFS2-----A----	Atr
+11	ve	RV--6----------	AuxP
+12	vyšší	AAFS6----2A----	Atr
+13	23	C=-------------	Atr
+14	procentní	AAFS6----1A----	Atr
+15	sazbě	NNFS6-----A----	Atr
+16	o	RR--4----------	AuxP
+17	jedno	ClNS4----------	Atr
+18	procento	NNNS4-----A----	Atr
+19	ceny	NNFP4-----A----	Adv
+20	pro	RR--4----------	AuxP
+21	malospotřebitele	NNMP4-----A----	Atr
+22	prakticky	Dg-------1A----	Adv
+23	neovlivní	VB-S---3P-NA---	Obj
+24	.	Z:-------------	AuxK
+
+ln94211-69-p2s3
+1	Podnikatelům	NNMP3-----A----	Adv
+2	,	Z:-------------	AuxX
+3	především	Db-------------	AuxZ
+4	těm	PDXP3----------	Pred
+5	drobným	AAMP3----1A----	Atr
+6	,	Z:-------------	AuxX
+7	to	PDNS1----------	Sb
+8	bude	VB-S---3F-AA---	AuxV
+9	totiž	Db-------------	AuxY
+10	pouze	Db-------------	AuxZ
+11	částečně	Dg-------1A----	Adv
+12	kompenzovat	Vf--------A----	Obj
+13	zvýšené	AAIP4----1A----	Atr
+14	náklady	NNIP4-----A----	Obj
+15	na	RR--4----------	AuxP
+16	energie	NNFP4-----A----	Atr
+17	a	J^-------------	Coord
+18	další	AAIP4----1A----	Atr
+19	vstupy	NNIP4-----A----	Atr
+20	,	Z:-------------	AuxX
+21	proto	J^-------------	Coord
+22	žádné	PWNS4----------	Atr
+23	zajímavější	AANS4----2A----	Atr
+24	snižování	NNNS4-----A----	Adv
+25	cen	NNFP2-----A----	Atr
+26	nelze	VB-S---3P-NA---	Pred
+27	z	RR--2----------	AuxP
+28	jejich	PSXXXXP3-------	Atr
+29	strany	NNFS2-----A----	Adv
+30	očekávat	Vf--------A----	Sb
+31	.	Z:-------------	AuxK
+
+ln94211-69-p2s4
+1	Naopak	Db-------------	Adv
+2	u	RR--2----------	AuxP
+3	zboží	NNNS2-----A----	Adv
+4	,	Z:-------------	AuxX
+5	které	P4NS1----------	Sb
+6	je	VB-S---3P-AA---	Atr
+7	zatíženo	VsNS---XX-AP---	Pnom
+8	spotřební	AAFS7----1A----	Atr
+9	daní	NNFS7-----A----	Adv
+10	(	Z:-------------	AuxG
+11	např	Db------------8	AuxZ
+12	.	Z:-------------	AuxG
+13	cigarety	NNFP1-----A----	Atr
+14	,	Z:-------------	AuxX
+15	alkohol	NNIS1-----A----	Atr
+16	,	Z:-------------	Coord
+17	některé	PZIP1----------	Atr
+18	petrochemické	AAIP1----1A----	Atr
+19	výrobky	NNIP1-----A----	Atr
+20	)	Z:-------------	AuxG
+21	,	Z:-------------	AuxX
+22	dojde	VB-S---3P-AA---	Pred
+23	zcela	Db-------------	Adv
+24	jistě	Dg-------1A----	Adv
+25	k	RR--3----------	AuxP
+26	posunu	NNIS3-----A----	Obj
+27	cen	NNFP2-----A----	Atr
+28	směrem	NNIS7-----A----	Atr
+29	nahoru	Db-------------	Atr
+30	,	Z:-------------	AuxX
+31	protože	J,-------------	AuxC
+32	obchodníci	NNMP1-----A----	Sb
+33	do	RR--2----------	AuxP
+34	nich	P5XP2--3-------	Adv
+35	promítnou	VB-P---3P-AA---	Adv
+36	zvýšení	NNNS4-----A----	Adv
+37	daňových	AAFP2----1A----	Atr
+38	sazeb	NNFP2-----A----	Atr
+39	.	Z:-------------	AuxK
+
+ln94211-69-p2s5
+1	Tyto	PDFP1----------	Atr
+2	cenové	AAFP1----1A----	Atr
+3	změny	NNFP1-----A----	Sb
+4	by	Vc-------------	AuxV
+5	však	J^-------------	Coord
+6	neměly	VpTP---XR-NA---	Pred
+7	být	Vf--------A----	Obj
+8	nijak	Db-------------	Adv
+9	dramatické	AAFP1----1A----	Pnom
+10	.	Z:-------------	AuxK
+
+ln94211-69-p3s1
+1	Poněkud	Db-------------	Adv
+2	jiná	AAFS1----1A----	Atr
+3	situace	NNFS1-----A----	Sb
+4	bude	VB-S---3F-AA---	Pred
+5	ve	RV--6----------	AuxP
+6	stavebnictví	NNNS6-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94211-69-p3s2
+1	V	RR--6----------	AuxP
+2	současné	AAFS6----1A----	Atr
+3	době	NNFS6-----A----	Adv
+4	jsou	VB-P---3P-AA---	AuxV
+5	stavební	AAFP1----1A----	Atr
+6	služby	NNFP1-----A----	Sb
+7	zdaňovány	VsTP---XX-AP---	Pred
+8	pětiprocentní	AAFS7----1A----	Atr
+9	sazbou	NNFS7-----A----	Adv
+10	DPH	NNFXX-----A---8	Atr
+11	.	Z:-------------	AuxK
+
+ln94211-69-p3s3
+1	Platná	AAFS1----1A----	Atr
+2	legislativa	NNFS1-----A----	Sb
+3	umožňuje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	aby	J,-------------	AuxC
+6	pouze	Db-------------	AuxZ
+7	pěti	Cn-P7----------	Atr
+8	procenty	NNNP7-----A----	Obj
+9	byly	VpTP---XR-AA---	Adv
+10	zatíženy	VsTP---XX-AP---	Pnom
+11	i	J^-------------	AuxZ
+12	výrobky	NNIP1-----A----	Sb
+13	,	Z:-------------	AuxX
+14	které	P4IP1----------	Sb
+15	jsou	VB-P---3P-AA---	AuxV
+16	dodávány	VsTP---XX-AP---	Atr
+17	v	RR--6----------	AuxP
+18	rámci	NNIS6-----A----	AuxP
+19	těchto	PDXP2----------	Atr
+20	služeb	NNFP2-----A----	Adv
+21	,	Z:-------------	AuxX
+22	ale	J^-------------	Coord
+23	normálně	Dg-------1A----	Adv
+24	se	P7-X4----------	AuxR
+25	prodávají	VB-P---3P-AA---	Pred
+26	s	RR--7----------	AuxP
+27	23	C=-------------	Atr
+28	procentní	AAFS7----1A----	Atr
+29	daní	NNFS7-----A----	Adv
+30	z	RR--2----------	AuxP
+31	přidané	AAFS2----1A----	Atr
+32	hodnoty	NNFS2-----A----	Atr
+33	.	Z:-------------	AuxK
+
+ln94211-69-p3s4
+1	Stát	NNIS1-----A----	Sb
+2	tak	Db-------------	Adv
+3	přichází	VB-S---3P-AA---	Pred
+4	o	RR--4----------	AuxP
+5	nemalé	AAFP4----1N----	Atr
+6	částky	NNFP4-----A----	Adv
+7	.	Z:-------------	AuxK
+
+ln94211-69-p3s5
+1	Proto	J^-------------	Coord
+2	novela	NNFS1-----A----	Sb
+3	zákona	NNIS2-----A----	Atr
+4	má	VB-S---3P-AA---	Pred
+5	tento	PDIS4----------	Atr
+6	daňový	AAIS4----1A----	Atr
+7	únik	NNIS4-----A----	Adv
+8	ucpat	Vf--------A----	Obj
+9	.	Z:-------------	AuxK
+
+ln94211-69-p3s6
+1	Ve	RV--6----------	AuxP
+2	stavebnictví	NNNS6-----A----	Adv
+3	to	PDNS1----------	Sb
+4	ovšem	J^-------------	Coord
+5	bude	VB-S---3F-AA---	AuxV
+6	znamenat	Vf--------A----	Pred
+7	zvýšení	NNNS4-----A----	Obj
+8	cen	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln94211-69-p4s1
+1	Také	Db-------------	AuxZ
+2	nově	Dg-------1A----	Adv
+3	zaváděné	AANS1----1A----	Atr
+4	zdanění	NNNS1-----A----	Sb
+5	peněžního	AAIS2----1A----	Atr
+6	leasingu	NNIS2-----A----	Atr
+7	daní	NNFS7-----A----	Atr
+8	z	RR--2----------	AuxP
+9	přidané	AAFS2----1A----	Atr
+10	hodnoty	NNFS2-----A----	Atr
+11	zvýší	VB-S---3P-AA---	Pred
+12	cenovou	AAFS4----1A----	Atr
+13	hladinu	NNFS4-----A----	Obj
+14	v	RR--6----------	AuxP
+15	tomto	PDZS6----------	Atr
+16	oboru	NNIS6-----A----	Adv
+17	podnikání	NNNS2-----A----	Atr
+18	,	Z:-------------	Coord
+19	což	PE--1----------	Sb
+20	se	P7-X4----------	AuxT
+21	může	VB-S---3P-AA---	Pred
+22	projevit	Vf--------A----	Obj
+23	určitým	AAIS7----1A----	Atr
+24	poklesem	NNIS7-----A----	Adv
+25	poptávky	NNFS2-----A----	Atr
+26	.	Z:-------------	AuxK
+
+ln94211-69-p5s1
+1	Je	VB-S---3P-AA---	Pred
+2	známou	AAFS7----1A----	Atr
+3	skutečností	NNFS7-----A----	Pnom
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	naše	PSHS1-P1-------	Atr
+7	daňová	AAFS1----1A----	Atr
+8	soustava	NNFS1-----A----	Sb
+9	patří	VB-S---3P-AA---	Obj
+10	k	RR--3----------	AuxP
+11	nejtvrdším	AAFP3----3A----	ExD
+12	na	RR--6----------	AuxP
+13	světě	NNIS6-----A----	Adv
+14	.	Z:-------------	AuxK
+
+ln94211-69-p5s2
+1	Snaha	NNFS1-----A----	Sb
+2	kabinetu	NNIS2-----A----	Atr
+3	udržet	Vf--------A----	Atr
+4	vyrovnaný	AAIS4----1A----	Atr
+5	rozpočet	NNIS4-----A----	Obj
+6	vychází	VB-S---3P-AA---	Pred
+7	z	RR--2----------	AuxP
+8	myšlenky	NNFS2-----A----	Adv
+9	:	Z:-------------	AuxG
+10	když	J,-------------	AuxC
+11	na	RR--6----------	AuxP
+12	jedné	ClFS6----------	Atr
+13	straně	NNFS6-----A----	Adv
+14	uberu	VB-S---1P-AA---	Adv
+15	,	Z:-------------	AuxX
+16	na	RR--6----------	AuxP
+17	druhé	CrFS6----------	ExD
+18	musím	VB-S---1P-AA---	Atr
+19	přidat	Vf--------A----	Sb
+20	.	Z:-------------	AuxK
+
+ln94211-69-p5s3
+1	Je	VB-S---3P-AA---	Pred
+2	otázkou	NNFS7-----A----	Pnom
+3	,	Z:-------------	AuxX
+4	zda	J,-------------	AuxC
+5	by	Vc-------------	AuxV
+6	vláda	NNFS1-----A----	Sb
+7	neměla	VpQW---XR-NA---	Adv
+8	hledat	Vf--------A----	Obj
+9	podmínky	NNFP4-----A----	Obj
+10	pro	RR--4----------	AuxP
+11	dosažení	NNNS4-----A----	Atr
+12	vyrovnaného	AAIS2----1A----	Atr
+13	rozpočtu	NNIS2-----A----	Atr
+14	nikoliv	Db-------------	AuxZ
+15	v	RR--6----------	AuxP
+16	udržení	NNNS6-----A----	Adv
+17	stejných	AAIP2----1A----	Atr
+18	přítoků	NNIP2-----A----	Atr
+19	peněz	NNIP2-----A----	Atr
+20	do	RR--2----------	AuxP
+21	rozpočtu	NNIS2-----A----	Atr
+22	,	Z:-------------	AuxX
+23	ale	J^-------------	Coord
+24	v	RR--6----------	AuxP
+25	cílevědomém	AANS6----1A----	Atr
+26	snižování	NNNS6-----A----	Adv
+27	rozpočtových	AAIP2----1A----	Atr
+28	výdajů	NNIP2-----A----	Atr
+29	.	Z:-------------	AuxK
+
+ln94211-69-p5s4
+1	To	PDNS1----------	Sb
+2	je	VB-S---3P-AA---	Pred
+3	ostatně	Db-------------	Adv
+4	vládou	NNFS7-----A----	Adv
+5	proklamovaná	AAFS1----1A----	Atr
+6	zásada	NNFS1-----A----	Pnom
+7	.	Z:-------------	AuxK
+
+ln94211-69-p5s5
+1	S	RR--7----------	AuxP
+2	tím	PDZS7----------	Adv
+3	ovšem	J^-------------	Coord
+4	nekorespondují	VB-P---3P-NA---	Pred
+5	například	Db-------------	AuxZ
+6	požadavky	NNIP1-----A----	Sb
+7	jednotlivých	AANP2----1A----	Atr
+8	ministerstev	NNNP2-----A----	Atr
+9	na	RR--4----------	AuxP
+10	finanční	AAIP4----1A----	Atr
+11	prostředky	NNIP4-----A----	Atr
+12	z	RR--2----------	AuxP
+13	rozpočtu	NNIS2-----A----	Atr
+14	na	RR--4----------	AuxP
+15	příští	AAIS4----1A----	Atr
+16	rok	NNIS4-----A----	Atr
+17	,	Z:-------------	AuxX
+18	které	P4IP1----------	Sb
+19	jsou	VB-P---3P-AA---	Atr
+20	podstatně	Dg-------1A----	Adv
+21	vyšší	AAIP1----2A----	Pnom
+22	než	J,-------------	AuxC
+23	letos	Db-------------	ExD
+24	.	Z:-------------	AuxK
+

@@ -1,0 +1,254 @@
+ln94203-58-p1s1
+1	Pojištění	NNNS1-----A----	ExD
+2	bez	RR--2----------	AuxP
+3	záruky	NNFS2-----A----	Atr
+
+ln94203-58-p2s1A
+1	Poznámka	NNFS1-----A----	ExD
+
+ln94203-58-p2s1B
+1	Ivana	NNFS1-----A----	Atr
+2	Krčálová	NNFS1-----A----	ExD
+
+ln94203-58-p2s1C
+1	V	RR--6----------	AuxP
+2	České	AAFS6----1A----	Atr
+3	republice	NNFS6-----A----	Adv
+4	se	P7-X4----------	Obj
+5	opět	Db-------------	Adv
+6	začínají	VB-P---3P-AA---	Pred
+7	aktivizovat	Vf--------A----	Obj
+8	zahraniční	AAFP1----1A----	Atr
+9	pojišťovny	NNFP1-----A----	Sb
+10	,	Z:-------------	AuxX
+11	které	P4FP1----------	Sb
+12	nemají	VB-P---3P-NA---	Atr
+13	povolení	NNNS4-----A----	Obj
+14	u	RR--2----------	AuxP
+15	nás	PP-P2--1-------	Adv
+16	působit	Vf--------A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94203-58-p2s2
+1	Činí	VB-P---3P-AA---	Pred
+2	tak	Db-------------	Adv
+3	prostřednictvím	NNNS7-----A----	AuxP
+4	dealerů	NNMP2-----A----	Adv
+5	,	Z:-------------	AuxX
+6	kteří	P4MP1----------	Sb
+7	kontaktují	VB-P---3P-AA---	Atr
+8	naše	PSXP4-P1-------	Atr
+9	občany	NNMP4-----A----	Obj
+10	a	J^-------------	Coord
+11	nabízejí	VB-P---3P-AA---	Atr
+12	jim	PPXP3--3-------	Obj
+13	mnohdy	Db-------------	Adv
+14	značně	Dg-------1A----	Adv
+15	lukrativnější	AAFP4----2A----	Atr
+16	podmínky	NNFP4-----A----	Obj
+17	než	J,-------------	AuxC
+18	pojišťovny	NNFP1-----A----	ExD
+19	ostatní	AAFP1----1A----	Atr
+20	.	Z:-------------	AuxK
+
+ln94203-58-p2s3
+1	Řada	NNFS1-----A----	Sb
+2	občanů	NNMP2-----A----	Atr
+3	se	P7-X4----------	Obj
+4	tak	Db-------------	Adv
+5	nechává	VB-S---3P-AA---	Pred
+6	zlákat	Vf--------A----	Obj
+7	vidinou	NNFS7-----A----	Adv
+8	slušného	AAIS2----1A----	Atr
+9	zisku	NNIS2-----A----	Atr
+10	například	Db-------------	AuxZ
+11	z	RR--2----------	AuxP
+12	životní	AAFS2----1A----	Atr
+13	pojistky	NNFS2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	tvrdé	AAFS6----1A----	Atr
+16	měně	NNFS6-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln94203-58-p3s1
+1	Ministerstvo	NNNS1-----A----	Sb
+2	financí	NNFP2-----A----	Atr
+3	,	Z:-------------	AuxX
+4	které	P4NS1----------	Sb
+5	uděluje	VB-S---3P-AA---	Atr
+6	pojišťovací	AAFP4----1A----	Atr
+7	licence	NNFP4-----A----	Obj
+8	a	J^-------------	Coord
+9	vykonává	VB-S---3P-AA---	Atr
+10	dozor	NNIS4-----A----	Obj
+11	nad	RR--7----------	AuxP
+12	činností	NNFS7-----A----	Atr
+13	pojišťoven	NNFP2-----A----	Atr
+14	,	Z:-------------	AuxX
+15	proto	J^-------------	Adv
+16	nedávno	Db-------------	Adv
+17	vyzvalo	VpNS---XR-AA---	Pred
+18	naši	PSFS4-P1-------	Atr
+19	veřejnost	NNFS4-----A----	Obj
+20	,	Z:-------------	AuxX
+21	aby	J,-------------	AuxC
+22	zjištěné	AAIP4----1A----	Atr
+23	případy	NNIP4-----A----	Obj
+24	ohlásila	VpQW---XR-AA---	Adv
+25	.	Z:-------------	AuxK
+
+ln94203-58-p3s2
+1	Tato	PDFS1----------	Atr
+2	výzva	NNFS1-----A----	Sb
+3	však	J^-------------	Coord
+4	řadě	NNFS3-----A----	Obj
+5	občanů	NNMP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	kteří	P4MP1----------	Sb
+8	si	P7-X3----------	AuxT
+9	zvykají	VB-P---3P-AA---	Atr
+10	na	RR--4----------	AuxP
+11	svobodné	AANS4----1A----	Atr
+12	podnikání	NNNS4-----A----	Obj
+13	a	J^-------------	Coord
+14	demokracii	NNFS4-----A----	Obj
+15	,	Z:-------------	AuxX
+16	zavání	VB-S---3P-AA---	Pred
+17	státní	AAFS7----1A----	Atr
+18	byrokracií	NNFS7-----A----	Adv
+19	a	J^-------------	Coord
+20	snahou	NNFS7-----A----	Adv
+21	udržet	Vf--------A----	Atr
+22	monopol	NNIS4-----A----	Obj
+23	.	Z:-------------	AuxK
+
+ln94203-58-p4s1
+1	Je	VB-S---3P-AA---	Pred
+2	ovšem	J^-------------	AuxY
+3	třeba	ACNS------A----	Pnom
+4	se	P7-X4----------	AuxT
+5	na	RR--4----------	AuxP
+6	věc	NNFS4-----A----	Adv
+7	podívat	Vf--------A----	Sb
+8	i	J^-------------	AuxZ
+9	z	RR--2----------	AuxP
+10	druhé	CrFS2----------	Atr
+11	strany	NNFS2-----A----	Adv
+12	.	Z:-------------	AuxK
+
+ln94203-58-p4s2
+1	Nejen	TT-------------	AuxZ
+2	z	RR--2----------	AuxP
+3	té	PDFS2----------	ExD
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	ministerstvo	NNNS1-----A----	Sb
+7	financí	NNFP2-----A----	Atr
+8	se	P7-X4----------	AuxT
+9	brání	VB-S---3P-AA---	Atr
+10	,	Z:-------------	AuxX
+11	aby	J,-------------	AuxC
+12	je	PPNS4--3-------	Obj
+13	někdo	PZM-1----------	Sb
+14	obcházel	VpYS---XR-AA---	Obj
+15	a	J^-------------	Coord
+16	navíc	Db-------------	Adv
+17	přitom	Db-------------	Adv
+18	porušoval	VpYS---XR-AA---	Obj
+19	zákon	NNIS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94203-58-p4s3
+1	Ministerstvo	NNNS1-----A----	Sb
+2	je	VB-S---3P-AA---	Pred
+3	podle	RR--2----------	AuxP
+4	zákona	NNIS2-----A----	Adv
+5	o	RR--6----------	AuxP
+6	pojišťovnictví	NNNS6-----A----	Atr
+7	zodpovědné	AANS1----1A----	Pnom
+8	za	RR--4----------	AuxP
+9	činnost	NNFS4-----A----	Obj
+10	pojišťoven	NNFP2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	sleduje	VB-S---3P-AA---	Pred
+13	plnění	NNNS4-----A----	Obj
+14	jejich	PSXXXXP3-------	Atr
+15	závazků	NNIP2-----A----	Atr
+16	a	J^-------------	Coord
+17	v	RR--6----------	AuxP
+18	případě	NNIS6-----A----	Adv
+19	kolize	NNFS2-----A----	Atr
+20	zasahuje	VB-S---3P-AA---	Pred
+21	ve	RV--4----------	AuxP
+22	prospěch	NNIS4-----A----	AuxP
+23	klienta	NNMS2-----A----	Adv
+24	.	Z:-------------	AuxK
+
+ln94203-58-p4s4
+1	Na	RR--4----------	AuxP
+2	pojišťovny	NNFP4-----A----	Obj
+3	,	Z:-------------	AuxX
+4	které	P4FP1----------	Sb
+5	podnikají	VB-P---3P-AA---	Atr
+6	bez	RR--2----------	AuxP
+7	povolení	NNNS2-----A----	Adv
+8	,	Z:-------------	AuxX
+9	se	P7-X4----------	AuxT
+10	ochrana	NNFS1-----A----	Sb
+11	klienta	NNMS2-----A----	Atr
+12	samozřejmě	Dg-------1A----	AuxY
+13	nevztahuje	VB-S---3P-NA---	Pred
+14	.	Z:-------------	AuxK
+
+ln94203-58-p5s1
+1	Lidé	NNMP1-----A---1	Sb
+2	,	Z:-------------	AuxX
+3	kteří	P4MP1----------	Sb
+4	se	P7-X4----------	AuxT
+5	agentovi	NNMS3-----A----	Obj
+6	zahraniční	AAFS2----1A----	Atr
+7	pojišťovny	NNFS2-----A----	Atr
+8	upíší	VB-P---3P-AA--1	Atr
+9	,	Z:-------------	AuxX
+10	mnohdy	Db-------------	Adv
+11	ani	J^-------------	AuxZ
+12	netuší	VB-P---3P-NA---	Pred
+13	,	Z:-------------	AuxX
+14	co	PQ--4----------	Obj
+15	vlastně	Db-------------	AuxY
+16	podepsali	VpMP---XR-AA---	Obj
+17	.	Z:-------------	AuxK
+
+ln94203-58-p5s2
+1	Může	VB-S---3P-AA---	Pred
+2	se	P7-X4----------	AuxT
+3	tak	Db-------------	Adv
+4	stát	Vf--------A----	Obj
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	v	RR--6----------	AuxP
+8	případě	NNIS6-----A----	AuxP
+9	takzvané	AAFS2----1A----	Atr
+10	pojistné	AAFS2----1A----	Atr
+11	události	NNFS2-----A----	Adv
+12	náš	PSYS1-P1-------	Atr
+13	člověk	NNMS1-----A----	Sb
+14	neuvidí	VB-S---3P-NA---	Sb
+15	ani	J^-------------	AuxZ
+16	korunu	NNFS4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	natož	TT-------------	Coord
+19	marku	NNFS4-----A----	Obj
+20	.	Z:-------------	AuxK
+
+ln94203-58-p5s3
+1	Pověstné	AAFS2----1A----	Atr
+2	spravedlnosti	NNFS2-----A----	Obj
+3	se	P7-X4----------	AuxT
+4	však	J^-------------	AuxY
+5	potom	Db-------------	Adv
+6	bude	VB-S---3F-AA---	AuxV
+7	dovolávat	Vf--------A----	Pred
+8	marně	Dg-------1A----	Adv
+9	.	Z:-------------	AuxK
+

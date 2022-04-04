@@ -1,0 +1,295 @@
+ln95042-061-p1s1
+1	Ministr	NNMS1-----A----	Atr
+2	Vodička	NNMS1-----A----	Sb
+3	letos	Db-------------	Adv
+4	mezi	RR--4----------	AuxP
+5	odboráře	NNMP4-----A----	Adv
+6	na	RR--4----------	AuxP
+7	náměstí	NNNS4-----A----	Adv
+8	nepůjde	VB-S---3F-NA---	Pred
+
+ln95042-061-p2s1
+1	Pozor	TT-------------	ExD
+2	,	Z:-------------	Coord
+3	neautorizovaný	AAIS1----1N----	Atr
+4	text	NNIS1-----A----	ExD
+5	!	Z:-------------	AuxK
+
+ln95042-061-p3s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95042-061-p3s1B
+1	Odboráři	NNMP1-----A----	Sb
+2	jsou	VB-P---3P-AA---	Pred
+3	rozhodnuti	VsMP---XX-AP---	Pnom
+4	svolat	Vf--------A----	Obj
+5	na	RR--4----------	AuxP
+6	25	C=-------------	Atr
+7	.	Z:-------------	AuxG
+8	března	NNIS2-----A----	Adv
+9	do	RR--2----------	AuxP
+10	Prahy	NNFS2-----A----	Adv
+11	demonstraci	NNFS4-----A----	Obj
+12	na	RR--4----------	AuxP
+13	podporu	NNFS4-----A----	Atr
+14	svých	P8XP2----------	Atr
+15	výhrad	NNFP2-----A----	Atr
+16	k	RR--3----------	AuxP
+17	vládnímu	AAIS3----1A----	Atr
+18	návrhu	NNIS3-----A----	Atr
+19	zákona	NNIS2-----A----	Atr
+20	o	RR--6----------	AuxP
+21	důchodovém	AANS6----1A----	Atr
+22	zabezpečení	NNNS6-----A----	Atr
+23	.	Z:-------------	AuxK
+
+ln95042-061-p3s2
+1	Po	RR--6----------	AuxP
+2	včerejším	AANS6----1A----	Atr
+3	zasedání	NNNS6-----A----	Adv
+4	předsednictva	NNNS2-----A----	Atr
+5	ČMKOS	NNFXX-----A---8	Atr
+6	to	PDNS4----------	Obj
+7	oznámil	VpYS---XR-AA---	Pred
+8	Richard	NNMS1-----A----	Atr
+9	Falbr	NNMS1-----A----	Sb
+10	.	Z:-------------	AuxK
+
+ln95042-061-p4s1
+1	Přesné	AANS1----1A----	Atr
+2	místo	NNNS1-----A----	Sb
+3	konání	NNNS2-----A----	Atr
+4	demonstrace	NNFS2-----A----	Atr
+5	není	VB-S---3P-NA---	Pred
+6	ještě	Db-------------	Adv
+7	určeno	VsNS---XX-AP---	Pnom
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	ale	J^-------------	Coord
+11	pravděpodobné	AANS1----1A----	Pnom
+12	,	Z:-------------	AuxX
+13	že	J,-------------	AuxC
+14	to	PDNS1----------	Pnom
+15	bude	VB-S---3F-AA---	Sb
+16	Staroměstské	AANS1----1A----	Atr
+17	náměstí	NNNS1-----A----	Sb
+18	.	Z:-------------	AuxK
+
+ln95042-061-p4s2
+1	Ministr	NNMS1-----A----	Atr
+2	práce	NNFS2-----A----	Atr
+3	a	J^-------------	Coord
+4	sociálních	AAFP2----1A----	Atr
+5	věcí	NNFP2-----A----	Atr
+6	Jindřich	NNMS1-----A----	Atr
+7	Vodička	NNMS1-----A----	Sb
+8	se	P7-X4----------	AuxT
+9	letos	Db-------------	Adv
+10	demonstrace	NNFS2-----A----	Obj
+11	odborářů	NNMP2-----A----	Atr
+12	nezúčastní	VB-S---3P-NA---	Pred
+13	.	Z:-------------	AuxK
+
+ln95042-061-p4s3
+1	Jeho	PSXXXZS3-------	Atr
+2	loňský	AAIS1----1A----	Atr
+3	pokus	NNIS1-----A----	Sb
+4	promluvit	Vf--------A----	Atr
+5	k	RR--3----------	AuxP
+6	odborářům	NNMP3-----A----	Obj
+7	,	Z:-------------	AuxX
+8	demonstrujícím	AGMP3-----A----	Atr
+9	za	RR--4----------	AuxP
+10	změny	NNFP4-----A----	Adv
+11	zákoníku	NNIS2-----A----	Atr
+12	práce	NNFS2-----A----	Atr
+13	,	Z:-------------	AuxX
+14	nebyl	VpYS---XR-NA---	Pred
+15	úspěšný	AAIS1----1A----	Pnom
+16	.	Z:-------------	AuxK
+
+ln95042-061-p5s1
+1	Podle	RR--2----------	AuxP
+2	názoru	NNIS2-----A----	Adv
+3	,	Z:-------------	AuxX
+4	který	P4IS4----------	Obj
+5	včera	Db-------------	Adv
+6	Vodička	NNMS1-----A----	Sb
+7	sdělil	VpYS---XR-AA---	Atr
+8	novinářům	NNMP3-----A----	Obj
+9	,	Z:-------------	AuxX
+10	není	VB-S---3P-NA---	Pred
+11	možné	AANS1----1A----	Pnom
+12	chtít	Vf--------A----	Sb
+13	zkratkovitě	Dg-------1A----	Adv
+14	vylepšovat	Vf--------A----	Obj
+15	složitý	AAIS4----1A----	Atr
+16	zákon	NNIS4-----A----	Obj
+17	,	Z:-------------	AuxX
+18	v	RR--6----------	AuxP
+19	němž	P9ZS6----------	Adv
+20	je	VB-S---3P-AA---	Atr
+21	nutné	AANS1----1A----	Pnom
+22	vybalancovat	Vf--------A----	Sb
+23	aspekty	NNIP4-----A----	Obj
+24	pojistné	AAFS2----1A----	Atr
+25	matematiky	NNFS2-----A----	Atr
+26	,	Z:-------------	AuxX
+27	principu	NNIS2-----A----	Atr
+28	solidarity	NNFS2-----A----	Atr
+29	a	J^-------------	Coord
+30	sociálních	AAIP2----1A----	Atr
+31	jevů	NNIP2-----A----	Atr
+32	.	Z:-------------	AuxK
+
+ln95042-061-p5s2
+1	Nicméně	J^-------------	AuxY
+2	ministr	NNMS1-----A----	Sb
+3	nikomu	PWM-3----------	Obj
+4	neupírá	VB-S---3P-NA---	Pred
+5	právo	NNNS4-----A----	Obj
+6	se	P7-X4----------	AuxT
+7	k	RR--3----------	AuxP
+8	zákonu	NNIS3-----A----	Obj
+9	vyjadřovat	Vf--------A----	Atr
+10	.	Z:-------------	AuxK
+
+ln95042-061-p5s3
+1	Pokud	J,-------------	AuxC
+2	bude	VB-S---3F-AA---	AuxV
+3	chtít	Vf--------A----	Adv
+4	skupina	NNFS1-----A----	Sb
+5	zdravotně	Dg-------1A----	Adv
+6	postižených	AAMP2----1A----	Atr
+7	horníků	NNMP2-----A----	Atr
+8	držet	Vf--------A----	Obj
+9	hladovku	NNFS4-----A----	Obj
+10	před	RR--7----------	AuxP
+11	parlamentem	NNIS7-----A----	Adv
+12	,	Z:-------------	AuxX
+13	nikdo	PWM-1----------	Sb
+14	jim	PPXP3--3-------	Obj
+15	v	RR--6----------	AuxP
+16	tom	PDZS6----------	Obj
+17	nebude	VB-S---3F-NA---	AuxV
+18	bránit	Vf--------A----	Pred
+19	.	Z:-------------	AuxK
+
+ln95042-061-p5s4
+1	Vodička	NNMS1-----A----	Sb
+2	však	J^-------------	Coord
+3	upozorňuje	VB-S---3P-AA---	Pred
+4	,	Z:-------------	AuxX
+5	že	J,-------------	AuxC
+6	právě	Db-------------	AuxZ
+7	horníkům	NNMP3-----A----	Obj
+8	vychází	VB-S---3P-AA---	Obj
+9	nový	AAIS1----1A----	Atr
+10	zákon	NNIS1-----A----	Sb
+11	maximálně	Dg-------1A----	AuxZ
+12	vstříc	RR--3----------	Adv
+13	,	Z:-------------	AuxX
+14	protože	J,-------------	AuxC
+15	jejich	PSXXXXP3-------	Atr
+16	stavovská	AANP1----1A----	Atr
+17	práva	NNNP1-----A----	Sb
+18	,	Z:-------------	AuxX
+19	vyplývající	AGNP1-----A----	Atr
+20	z	RR--2----------	AuxP
+21	namáhavé	AAFS2----1A----	Atr
+22	práce	NNFS2-----A----	Obj
+23	,	Z:-------------	AuxX
+24	se	P7-X4----------	AuxR
+25	uchovávají	VB-P---3P-AA---	Adv
+26	až	TT-------------	AuxZ
+27	do	RR--2----------	AuxP
+28	roku	NNIS2-----A---1	Adv
+29	2016	C=-------------	Atr
+30	.	Z:-------------	AuxK
+
+ln95042-061-p5s5
+1	Práce	NNFP1-----A----	Sb
+2	na	RR--6----------	AuxP
+3	konečné	AAFS6----1A----	Atr
+4	podobě	NNFS6-----A----	Atr
+5	návrhu	NNIS2-----A----	Atr
+6	zákona	NNIS2-----A----	Atr
+7	o	RR--6----------	AuxP
+8	důchodovém	AANS6----1A----	Atr
+9	pojištění	NNNS6-----A----	Atr
+10	se	P7-X4----------	AuxR
+11	v	RR--6----------	AuxP
+12	těchto	PDXP6----------	Atr
+13	dnech	NNIP6-----A----	Adv
+14	na	RR--6----------	AuxP
+15	ministerstvu	NNNS6-----A----	Adv
+16	práce	NNFS2-----A----	Atr
+17	a	J^-------------	Coord
+18	sociálních	AAFP2----1A----	Atr
+19	věcí	NNFP2-----A----	Atr
+20	dokončují	VB-P---3P-AA---	Pred
+21	.	Z:-------------	AuxK
+
+ln95042-061-p6s1
+1	Podle	RR--2----------	AuxP
+2	předsedy	NNMS2-----A----	Atr
+3	ČMKOS	NNFXX-----A---8	Atr
+4	Richarda	NNMS2-----A----	Atr
+5	Falbra	NNMS2-----A----	Adv
+6	není	VB-S---3P-NA---	Pred
+7	demonstrace	NNFS1-----A----	Sb
+8	namířena	VsQW---XX-AP---	Pnom
+9	proti	RR--3----------	AuxP
+10	vládě	NNFS3-----A----	Adv
+11	,	Z:-------------	AuxX
+12	ale	J^-------------	Coord
+13	za	RR--4----------	AuxP
+14	požadavky	NNIP4-----A----	ExD
+15	komory	NNFS2-----A----	Atr
+16	.	Z:-------------	AuxK
+
+ln95042-061-p6s2
+1	Falbr	NNMS1-----A----	Sb
+2	předpokládá	VB-S---3P-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	bude	VB-S---3F-AA---	AuxV
+6	mít	Vf--------A----	Obj
+7	slušný	AAIS4----1A----	Atr
+8	a	J^-------------	Coord
+9	důstojný	AAIS4----1A----	Atr
+10	průběh	NNIS4-----A----	Obj
+11	,	Z:-------------	AuxX
+12	bez	RR--2----------	AuxP
+13	urážlivých	AANP2----1A----	Atr
+14	hesel	NNNP2-----A----	Atr
+15	na	RR--4----------	AuxP
+16	adresu	NNFS4-----A----	Atr
+17	vlády	NNFS2-----A----	Atr
+18	.	Z:-------------	AuxK
+
+ln95042-061-p6s3
+1	Série	NNFP1-----A----	Sb
+2	mítinků	NNIP2-----A----	Atr
+3	po	RR--6----------	AuxP
+4	celé	AAFS6----1A----	Atr
+5	ČR	NNFXX-----A---8	Atr
+6	v	RR--6----------	AuxP
+7	minulých	AAIP6----1A----	Atr
+8	dnech	NNIP6-----A----	Atr
+9	přivedly	VpTP---XR-AA---	Pred
+10	představitele	NNMP4-----A----	Obj
+11	odborů	NNIP2-----A----	Atr
+12	k	RR--3----------	AuxP
+13	přesvědčení	NNNS3-----A----	Adv
+14	,	Z:-------------	AuxX
+15	že	J,-------------	AuxC
+16	občané	NNMP1-----A----	Sb
+17	změny	NNFP4-----A----	Obj
+18	v	RR--6----------	AuxP
+19	návrhu	NNIS6-----A----	Atr
+20	zákona	NNIS2-----A----	Atr
+21	podporují	VB-P---3P-AA---	Atr
+22	.	Z:-------------	AuxK
+

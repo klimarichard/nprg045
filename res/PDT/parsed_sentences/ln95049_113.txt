@@ -1,0 +1,250 @@
+ln95049-113-p1s1
+1	Pozemek	NNIS4-----A----	Obj
+2	na	RR--6----------	AuxP
+3	náměstí	NNNS6-----A----	Atr
+4	Republiky	NNFS2-----A----	Atr
+5	prodala	VpQW---XR-AA---	Pred
+6	radnice	NNFS1-----A----	Sb
+7	jedinému	AAMS3----1A----	Atr
+8	zájemci	NNMS3-----A----	Obj
+
+ln95049-113-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln95049-113-p2s1B
+1	Člen	NNMS1-----A----	Atr
+2	pražského	AANS2----1A----	Atr
+3	zastupitelstva	NNNS2-----A----	Atr
+4	Martin	NNMS1-----A----	Atr
+5	Bursík	NNMS1-----A----	Sb
+6	(	Z:-------------	ExD
+7	SD	NNMPX-----A---8	ExD
+8	)	Z:-------------	ExD
+9	vystoupil	VpYS---XR-AA---	Pred
+10	v	RR--6----------	AuxP
+11	minulých	AAIP6----1A----	Atr
+12	dnech	NNIP6-----A----	Adv
+13	s	RR--7----------	AuxP
+14	další	AAFS7----1A----	Atr
+15	kritikou	NNFS7-----A----	Adv
+16	radnice	NNFS2-----A----	Atr
+17	.	Z:-------------	AuxK
+
+ln95049-113-p2s2
+1	Uvedl	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	město	NNNS1-----A----	Sb
+5	prodalo	VpNS---XR-AA---	Obj
+6	pozemek	NNIS4-----A----	Obj
+7	na	RR--6----------	AuxP
+8	náměstí	NNNS6-----A----	Atr
+9	Republiky	NNFS2-----A----	Atr
+10	společnosti	NNFS3-----A----	Obj
+11	HYPO	AAXXX----1A----	Atr
+12	Reality	NNFP1-----A----	Atr
+13	(	Z:-------------	ExD
+14	realitní	AAFS1----1A----	Atr
+15	společnost	NNFS1-----A----	ExD
+16	Hypo	A2--------A----	Atr
+17	-	Z:-------------	AuxG
+18	banky	NNFS2-----A----	Atr
+19	)	Z:-------------	ExD
+20	,	Z:-------------	AuxX
+21	aniž	J,-------------	AuxC
+22	vypsalo	VpNS---XR-AA---	Adv
+23	veřejnou	AAFS4----1A----	Atr
+24	obchodní	AAFS4----1A----	Atr
+25	soutěž	NNFS4-----A----	Obj
+26	.	Z:-------------	AuxK
+
+ln95049-113-p2s3
+1	Zároveň	Db-------------	Adv
+2	řekl	VpYS---XR-AA---	Pred
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	odborná	AAFS1----1A----	Atr
+6	veřejnost	NNFS1-----A----	Sb
+7	neměla	VpQW---XR-NA---	Obj
+8	možnost	NNFS4-----A----	Obj
+9	vyjádřit	Vf--------A----	Atr
+10	se	P7-X4----------	AuxT
+11	k	RR--3----------	AuxP
+12	záměru	NNIS3-----A----	Obj
+13	postavit	Vf--------A----	Atr
+14	na	RR--6----------	AuxP
+15	parcele	NNFS6-----A----	Adv
+16	právě	Db-------------	AuxZ
+17	banku	NNFS4-----A----	Obj
+18	.	Z:-------------	AuxK
+
+ln95049-113-p3s1
+1	O	RR--6----------	AuxP
+2	prodeji	NNIS6-----A----	Obj
+3	části	NNFS2-----A----	Atr
+4	náměstí	NNNS2-----A----	Atr
+5	Republiky	NNFS2-----A----	Atr
+6	o	RR--6----------	AuxP
+7	rozloze	NNFS6-----A----	Atr
+8	860	C=-------------	Atr
+9	plošných	AAIP2----1A----	Atr
+10	metrů	NNIP2-----A----	Atr
+11	realitní	AAFS3----1A----	Atr
+12	společnosti	NNFS3-----A----	Atr
+13	Hypo	A2--------A----	Atr
+14	-	Z:-------------	AuxG
+15	banky	NNFS2-----A----	Atr
+16	rozhodlo	VpNS---XR-AA--1	Pred
+17	pražské	AANS1----1A----	Atr
+18	zastupitelstvo	NNNS1-----A----	Sb
+19	loni	Db------------1	Adv
+20	koncem	NNIS7-----A----	AuxP
+21	března	NNIS2-----A----	Adv
+22	.	Z:-------------	AuxK
+
+ln95049-113-p3s2
+1	V	RR--6----------	AuxP
+2	té	PDFS6----------	Atr
+3	době	NNFS6-----A----	Adv
+4	ještě	Db-------------	Adv
+5	neplatil	VpYS---XR-NA---	Pred
+6	zákon	NNIS1-----A----	Sb
+7	o	RR--6----------	AuxP
+8	veřejných	AAFP6----1A----	Atr
+9	obchodních	AAFP6----1A----	Atr
+10	soutěžích	NNFP6-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95049-113-p3s3
+1	Záměr	NNIS1-----A----	Sb
+2	byl	VpYS---XR-AA---	AuxV
+3	však	J^-------------	Coord
+4	v	RR--6----------	AuxP
+5	souladu	NNIS6-----A----	AuxP
+6	se	RV--7----------	AuxP
+7	zákonným	AAIS7----1A----	Atr
+8	předpisem	NNIS7-----A----	Adv
+9	řádně	Dg-------1A----	Adv
+10	vyvěšen	VsYS---XX-AP---	Pred
+11	třicet	Cn-S4----------	Adv
+12	dní	NNIP2-----A---1	Atr
+13	na	RR--6----------	AuxP
+14	úřední	AAFS6----1A----	Atr
+15	desce	NNFS6-----A----	Adv
+16	.	Z:-------------	AuxK
+
+ln95049-113-p3s4
+1	Podle	RR--2----------	AuxP
+2	informací	NNFP2-----A----	Adv
+3	z	RR--2----------	AuxP
+4	odboru	NNIS2-----A----	Atr
+5	hospodářské	AAFS2----1A----	Atr
+6	politiky	NNFS2-----A----	Atr
+7	pražského	AAIS2----1A----	Atr
+8	magistrátu	NNIS2-----A----	Atr
+9	se	P7-X4----------	AuxT
+10	přihlásil	VpYS---XR-AA---	Pred
+11	jediný	AAMS1----1A----	Atr
+12	zájemce	NNMS1-----A----	Sb
+13	.	Z:-------------	AuxK
+
+ln95049-113-p3s5
+1	Radnice	NNFS1-----A----	Sb
+2	mu	PHZS3--3-------	Obj
+3	pozemek	NNIS4-----A----	Obj
+4	prodala	VpQW---XR-AA---	Pred
+5	za	RR--4----------	AuxP
+6	212.5	C=-------------	Adv
+7	miliónu	NNIS2-----A----	Atr
+8	korun	NNFP2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+ln95049-113-p3s6
+1	Součástí	NNFS7-----A----	Pnom
+2	smlouvy	NNFS2-----A----	Atr
+3	byla	VpQW---XR-AA---	Pred
+4	podmínka	NNFS1-----A----	Sb
+5	,	Z:-------------	AuxX
+6	která	P4FS1----------	Sb
+7	investora	NNMS4-----A----	Obj
+8	zavazovala	VpQW---XR-AA---	Atr
+9	k	RR--3----------	AuxP
+10	vypsání	NNNS3-----A----	Obj
+11	architektonické	AAFS2----1A----	Atr
+12	soutěže	NNFS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln95049-113-p4s1
+1	Jde	VB-S---3P-AA---	Pred
+2	pravděpodobně	Dg-------1A----	AuxY
+3	o	RR--4----------	AuxP
+4	nejvyšší	AAFS4----3A----	Atr
+5	částku	NNFS4-----A----	Obj
+6	,	Z:-------------	AuxX
+7	za	RR--4----------	AuxP
+8	niž	P9FS4----------	Adv
+9	byla	VpQW---XR-AA---	AuxV
+10	v	RR--6----------	AuxP
+11	Praze	NNFS6-----A----	Adv
+12	prodána	VsQW---XX-AP---	Atr
+13	stavební	AAFS1----1A----	Atr
+14	parcela	NNFS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln95049-113-p4s2
+1	Architektonická	AAFS1----1A----	Atr
+2	soutěž	NNFS1-----A----	Sb
+3	na	RR--4----------	AuxP
+4	řešení	NNNS4-----A----	Atr
+5	budovy	NNFS2-----A----	Atr
+6	Hypo	A2--------A----	Atr
+7	-	Z:-------------	AuxG
+8	banky	NNFS2-----A----	Atr
+9	byla	VpQW---XR-AA---	AuxV
+10	vyhlášena	VsQW---XX-AP---	Pred
+11	v	RR--6----------	AuxP
+12	lednu	NNIS6-----A----	Adv
+13	.	Z:-------------	AuxK
+
+ln95049-113-p4s3
+1	O	RR--6----------	AuxP
+2	vítězném	AAIS6----1A----	Atr
+3	projektu	NNIS6-----A----	Obj
+4	by	Vc-------------	AuxV
+5	měla	VpQW---XR-AA---	Pred
+6	porota	NNFS1-----A----	Sb
+7	rozhodnout	Vf--------A----	Obj
+8	v	RR--6----------	AuxP
+9	polovině	NNFS6-----A----	Adv
+10	června	NNIS2-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln95049-113-p4s4
+1	M	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Bursík	NNMS1-----A----	Sb
+4	před	RR--7----------	AuxP
+5	časem	NNIS7-----A----	Adv
+6	kritizoval	VpYS---XR-AA---	Pred
+7	také	Db-------------	AuxZ
+8	smlouvu	NNFS4-----A----	Obj
+9	města	NNNS2-----A----	Atr
+10	s	RR--7----------	AuxP
+11	kanadskou	AAFS7----1A----	Atr
+12	hotelovou	AAFS7----1A----	Atr
+13	společností	NNFS7-----A----	Atr
+14	Four	ClXPX----------	Atr
+15	Seasons	NNFPX-----A----	Atr
+16	,	Z:-------------	AuxX
+17	která	P4FS1----------	Sb
+18	chce	VB-S---3P-AA---	Atr
+19	stavět	Vf--------A----	Obj
+20	na	RR--6----------	AuxP
+21	Alšově	AUNS6M---------	Atr
+22	nábřeží	NNNS6-----A----	Adv
+23	u	RR--2----------	AuxP
+24	Karlova	AUIS2M---------	Atr
+25	mostu	NNIS2-----A----	Atr
+26	.	Z:-------------	AuxK
+

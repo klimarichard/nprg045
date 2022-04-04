@@ -1,0 +1,130 @@
+ln94209-80-p1s1
+1	Nejen	TT-------------	AuxZ
+2	injekce	NNFS1-----A----	ExD
+
+ln94209-80-p2s1A
+1	Praha	NNFS1-----A----	ExD
+2	-	Z:-------------	AuxK
+
+ln94209-80-p2s1B
+1	Primář	NNMS1-----A----	Atr
+2	rehabilitačního	AANS2----1A----	Atr
+3	oddělení	NNNS2-----A----	Atr
+4	polikliniky	NNFS2-----A----	Atr
+5	na	RR--6----------	AuxP
+6	Karlově	AUNS6M---------	Atr
+7	náměstí	NNNS6-----A----	Atr
+8	dr	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	Jan	NNMS1-----A----	Atr
+11	Hnízdil	NNMS1-----A----	Sb
+12	se	P7-X4----------	AuxT
+13	včera	Db-------------	Adv
+14	vyjádřil	VpYS---XR-AA---	Pred
+15	k	RR--3----------	AuxP
+16	případu	NNIS3-----A----	Obj
+17	prokázaného	AAIS2----1A----	Atr
+18	dopingu	NNIS2-----A----	Atr
+19	cyklisty	NNMS2-----A----	Atr
+20	Kejvala	NNMS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94209-80-p2s2
+1	Tomu	PDZS3----------	Adv
+2	byl	VpYS---XR-AA---	AuxV
+3	nalezen	VsYS---XX-AP---	Pred
+4	v	RR--6----------	AuxP
+5	moči	NNFS6-----A----	Adv
+6	po	RR--6----------	AuxP
+7	závodu	NNIS6-----A---1	Adv
+8	Českého	AAIS2----1A----	Atr
+9	poháru	NNIS2-----A----	Atr
+10	v	RR--6----------	AuxP
+11	Jevíčku	NNNS6-----A----	Atr
+12	nedovolený	AAIS1----1N----	Atr
+13	prostředek	NNIS1-----A----	Sb
+14	Nandrolon	NNIS1-----A----	Atr
+15	.	Z:-------------	AuxK
+
+ln94209-80-p2s3
+1	V	RR--6----------	AuxP
+2	tisku	NNIS6-----A----	Adv
+3	se	P7-X4----------	AuxT
+4	objevilo	VpNS---XR-AA---	Pred
+5	,	Z:-------------	AuxX
+6	že	J,-------------	AuxC
+7	tuto	PDFS4----------	Atr
+8	látku	NNFS4-----A----	Obj
+9	lze	VB-S---3P-AA---	Sb
+10	do	RR--2----------	AuxP
+11	těla	NNNS2-----A----	Adv
+12	dostat	Vf--------A----	Sb
+13	pouze	Db-------------	AuxZ
+14	injekcí	NNFS7-----A----	Adv
+15	.	Z:-------------	AuxK
+
+ln94209-80-p2s4
+1	Dr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Hnízdil	NNMS1-----A----	Sb
+4	k	RR--3----------	AuxP
+5	tomu	PDZS3----------	Adv
+6	řekl	VpYS---XR-AA---	Pred
+7	:	Z:-------------	AuxG
+8	Nandrolon	NNIS1-----A----	Sb
+9	je	VB-S---3P-AA---	Obj
+10	anabolický	AAIS1----1A----	Atr
+11	steroid	NNIS1-----A----	Pnom
+12	,	Z:-------------	AuxX
+13	podporující	AGIS1-----A----	Atr
+14	nárůst	NNIS4-----A----	Obj
+15	svalové	AAFS2----1A----	Atr
+16	hmoty	NNFS2-----A----	Atr
+17	,	Z:-------------	AuxX
+18	a	J^-------------	Coord
+19	proto	J^-------------	AuxY
+20	nemá	VB-S---3P-NA---	Obj
+21	v	RR--6----------	AuxP
+22	cyklistice	NNFS6-----A----	Adv
+23	opodstatnění	NNNS4-----A----	Obj
+24	.	Z:-------------	AuxK
+
+ln94209-80-p2s5
+1	Jeho	PSXXXZS3-------	Atr
+2	použití	NNNS4-----A----	Obj
+3	považuji	VB-S---1P-AA--1	Pred
+4	za	RR--4----------	AuxP
+5	nepochopitelné	AANS4----1N----	Obj
+6	a	J^-------------	Coord
+7	je	VB-S---3P-AA---	Pred
+8	to	PDNS1----------	Sb
+9	spíše	Dg-------2A---1	Adv
+10	akt	NNIS1-----A----	Pnom
+11	sebelikvidace	NNFS2-----A----	Atr
+12	.	Z:-------------	AuxK
+
+ln94209-80-p2s6
+1	Profesor	NNMS1-----A----	Atr
+2	Luboslav	NNMS1-----A----	Atr
+3	Stárek	NNMS1-----A----	Sb
+4	z	RR--2----------	AuxP
+5	Endokrinologického	AAIS2----1A----	Atr
+6	výzkumného	AAIS2----1A----	Atr
+7	ústavu	NNIS2-----A----	Atr
+8	ministerstva	NNNS2-----A----	Atr
+9	zdravotnictví	NNNS2-----A----	Atr
+10	potvrdil	VpYS---XR-AA---	Pred
+11	,	Z:-------------	AuxX
+12	že	J,-------------	AuxC
+13	jej	PPZS4--3------2	Obj
+14	lze	VB-S---3P-AA---	Obj
+15	do	RR--2----------	AuxP
+16	těla	NNNS2-----A----	Adv
+17	stejně	Dg-------1A----	Adv
+18	dobře	Dg-------1A----	Adv
+19	dostat	Vf--------A----	Sb
+20	potravinou	NNFS7-----A----	Adv
+21	jako	J,-------------	AuxC
+22	injekcí	NNFS7-----A----	ExD
+23	.	Z:-------------	AuxK
+

@@ -1,0 +1,268 @@
+cmpr9406-009-p3s1
+1	|	Z:-------------	AuxG
+2	Rady	NNFP1-----A----	ExD
+3	na	RR--4----------	AuxP
+4	telefon	NNIS4-----A----	Atr
+5	|	Z:-------------	AuxK
+
+cmpr9406-009-p5s1
+1	Potřebujete	VB-P---2P-AA---	Pred
+2	rychle	Dg-------1A----	Adv
+3	poradit	Vf--------A----	Obj
+4	?	Z:-------------	AuxK
+
+cmpr9406-009-p5s2
+1	Zvedněte	Vi-P---2--A----	Pred
+2	telefon	NNIS4-----A----	Obj
+3	a	J^-------------	Coord
+4	zavolejte	Vi-P---2--A----	Pred
+5	.	Z:-------------	AuxK
+
+cmpr9406-009-p5s3
+1	Váš	PSIS4-P2-------	Atr
+2	obecně	Dg-------1A----	Adv
+3	platný	AAIS4----1A----	Atr
+4	dotaz	NNIS4-----A----	Obj
+5	je	VB-S---3P-AA---	Pred
+6	připraven	VsYS---XX-AP---	Pnom
+7	zodpovědět	Vf--------A----	Obj
+8	spolupracovník	NNMS1-----A----	Sb
+9	Profitu	NNIS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+cmpr9406-009-p5s4
+1	V	RR--6----------	AuxP
+2	případě	NNIS6-----A----	Adv
+3	,	Z:-------------	AuxX
+4	že	J,-------------	AuxC
+5	se	P7-X4----------	AuxT
+6	nedovoláte	VB-P---2P-NA---	Atr
+7	přes	RR--4----------	AuxP
+8	den	NNIS4-----A----	Adv
+9	,	Z:-------------	AuxX
+10	vytočte	Vi-P---2--A----	Pred
+11	číslo	NNNS4-----A----	Obj
+12	ve	RV--6----------	AuxP
+13	večerních	AAFP6----1A----	Atr
+14	nebo	J^-------------	Coord
+15	nočních	AAFP6----1A----	Atr
+16	hodinách	NNFP6-----A----	Adv
+17	a	J^-------------	Coord
+18	svůj	P8IS4----------	Atr
+19	dotaz	NNIS4-----A----	Obj
+20	namluvte	Vi-P---2--A----	Pred
+21	na	RR--4----------	AuxP
+22	telefonní	AAIS4----1A----	Atr
+23	záznamník	NNIS4-----A----	Adv
+24	.	Z:-------------	AuxK
+
+cmpr9406-009-p5s5
+1	Nejzajímavější	AAIP4----3A----	Atr
+2	dotazy	NNIP4-----A----	Obj
+3	najdete	VB-P---2P-AA---	Pred
+4	zodpovězené	AAIP4----1A----	Atv
+5	pravidelně	Dg-------1A----	Adv
+6	na	RR--6----------	AuxP
+7	této	PDFS6----------	Atr
+8	stránce	NNFS6-----A----	Adv
+9	.	Z:-------------	AuxK
+
+cmpr9406-009-p6s1
+1	Údaje	NNIP1-----A----	ExD
+2	ve	RV--6----------	AuxP
+3	smlouvě	NNFS6-----A----	Atr
+
+cmpr9406-009-p7s1
+1	Chci	VB-S---1P-AA---	Pred
+2	uzavřít	Vf--------A----	Obj
+3	pojištění	NNNS4-----A----	Obj
+4	a	J^-------------	AuxY
+5	dostal	VpYS---XR-AA---	Pred
+6	jsem	VB-S---1P-AA---	AuxV
+7	proto	J^-------------	Coord
+8	k	RR--3----------	AuxP
+9	vyplnění	NNNS3-----A----	Adv
+10	dotazník	NNIS4-----A----	Obj
+11	.	Z:-------------	AuxK
+
+cmpr9406-009-p7s2
+1	Je	VB-S---3P-AA---	Pred
+2	tu	Db------------1	Adv
+3	uvedeno	VsNS---XX-AP---	Pnom
+4	mnoho	Ca--1----------	Sb
+5	otázek	NNFP2-----A----	Atr
+6	,	Z:-------------	AuxX
+7	které	P4FP1----------	Sb
+8	jsou	VB-P---3P-AA---	Atr
+9	podle	RR--2----------	AuxP
+10	mého	PSZS2-S1-------	Atr
+11	názoru	NNIS2-----A----	Adv
+12	osobního	AAIS2----1A----	Atr
+13	charakteru	NNIS2-----A----	Pnom
+14	.	Z:-------------	AuxK
+
+cmpr9406-009-p7s3
+1	Jsem	VB-S---1P-AA---	AuxV
+2	například	Db-------------	AuxY
+3	dotazován	VsYS---XX-AP---	Pred
+4	na	RR--4----------	AuxP
+5	svůj	P8IS4----------	Atr
+6	zdravotní	AAIS4----1A----	Atr
+7	stav	NNIS4-----A----	Obj
+8	,	Z:-------------	Coord
+9	nemoci	NNFP4-----A----	Obj
+10	,	Z:-------------	AuxX
+11	pro	RR--4----------	AuxP
+12	které	P4FP4----------	Adv
+13	jsem	VB-S---1P-AA---	AuxV
+14	se	P7-X4----------	AuxR
+15	léčil	VpYS---XR-AA---	Atr
+16	nebo	J^-------------	Coord
+17	v	RR--6----------	AuxP
+18	současné	AAFS6----1A----	Atr
+19	době	NNFS6-----A----	Adv
+20	léčím	VB-S---1P-AA---	Atr
+21	,	Z:-------------	AuxX
+22	a	J^-------------	Coord
+23	dokonce	Db-------------	AuxZ
+24	je	VB-S---3P-AA---	Pred
+25	zde	Db-------------	Adv
+26	otázka	NNFS1-----A----	Sb
+27	,	Z:-------------	AuxX
+28	zda	J,-------------	AuxC
+29	jsem	VB-S---1P-AA---	AuxV
+30	se	P7-X4----------	AuxT
+31	podrobil	VpYS---XR-AA---	Atr
+32	testu	NNIS3-----A----	Obj
+33	na	RR--4----------	AuxP
+34	AIDS	NNIXX-----A---8	Atr
+35	a	J^-------------	Coord
+36	s	RR--7----------	AuxP
+37	jakým	P4ZS7----------	Atr
+38	výsledkem	NNIS7-----A----	ExD
+39	.	Z:-------------	AuxK
+
+cmpr9406-009-p7s4
+1	Může	VB-S---3P-AA---	Pred
+2	po	RR--6----------	AuxP
+3	mně	PP-S6--1-------	Obj
+4	takové	PDIP4----------	Atr
+5	údaje	NNIP4-----A----	Obj
+6	pojišťovna	NNFS1-----A----	Sb
+7	vyžadovat	Vf--------A----	Obj
+8	?	Z:-------------	AuxK
+
+cmpr9406-009-p8s1
+1	P	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	L	NNMXX-----A---8	ExD
+4	.	Z:-------------	AuxG
+5	,	Z:-------------	ExD
+6	Ostrava	NNFS1-----A----	ExD
+
+cmpr9406-009-p9s1
+1	Kdo	PKM-1----------	Sb
+2	chce	VB-S---3P-AA---	Sb
+3	s	RR--7----------	AuxP
+4	pojišťovnou	NNFS7-----A----	Obj
+5	uzavřít	Vf--------A----	Obj
+6	pojistnou	AAFS4----1A----	Atr
+7	smlouvu	NNFS4-----A----	Obj
+8	,	Z:-------------	AuxX
+9	je	VB-S---3P-AA---	Pred
+10	povinen	ACYS------A----	Pnom
+11	odpovědět	Vf--------A----	Obj
+12	pravdivě	Dg-------1A----	Adv
+13	a	J^-------------	Coord
+14	úplně	Dg-------1A----	Adv
+15	na	RR--4----------	AuxP
+16	všechny	PLYP4----------	Atr
+17	písemné	AAIP4----1A----	Atr
+18	dotazy	NNIP4-----A----	Obj
+19	týkající	AGIP4-----A----	Atr
+20	se	P7-X4----------	AuxT
+21	sjednávaného	AANS2----1A----	Atr
+22	pojištění	NNNS2-----A----	Obj
+23	.	Z:-------------	AuxK
+
+cmpr9406-009-p9s2
+1	Je	VB-S---3P-AA---	AuxV
+2	-	Z:-------------	AuxG
+3	li	TT-------------	AuxC
+4	sjednáváno	VsNS---XX-AP---	Adv
+5	pojištění	NNNS1-----A----	Sb
+6	pro	RR--4----------	AuxP
+7	případ	NNIS4-----A----	Atr
+8	tělesného	AANS2----1A----	Atr
+9	poškození	NNNS2-----A----	Atr
+10	,	Z:-------------	AuxX
+11	smrti	NNFS2-----A----	Atr
+12	,	Z:-------------	Coord
+13	dožití	NNNS2-----A----	Atr
+14	určitého	AAIS2----1A----	Atr
+15	věku	NNIS2-----A----	Atr
+16	nebo	J^-------------	Coord
+17	pro	RR--4----------	AuxP
+18	případ	NNIS4-----A----	Atr
+19	jiné	AAFS2----1A----	Atr
+20	pojistné	AAFS2----1A----	Atr
+21	události	NNFS2-----A----	Atr
+22	u	RR--2----------	AuxP
+23	osob	NNFP2-----A----	Atr
+24	,	Z:-------------	AuxX
+25	je	VB-S---3P-AA---	Pred
+26	ten	PDYS1----------	Sb
+27	,	Z:-------------	AuxX
+28	kdo	PKM-1----------	Sb
+29	se	P7-X4----------	AuxR
+30	chce	VB-S---3P-AA---	Atr
+31	dát	Vf--------A----	Obj
+32	pojistit	Vf--------A----	Obj
+33	,	Z:-------------	AuxX
+34	povinen	ACYS------A----	Pnom
+35	uvést	Vf--------A----	Obj
+36	všechny	PLYP4----------	Atr
+37	údaje	NNIP4-----A----	Obj
+38	týkající	AGIP4-----A----	Atr
+39	se	P7-X4----------	AuxT
+40	jeho	PSXXXZS3-------	Atr
+41	osoby	NNFS2-----A----	Obj
+42	.	Z:-------------	AuxK
+
+cmpr9406-009-p10s1
+1	JUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	PhDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Oldřich	NNMS1-----A----	Atr
+6	Choděra	NNMS1-----A----	ExD
+
+cmpr9406-009-p11s1
+1	Kontakt	NNIS1-----A----	ExD
+2	:	Z:-------------	Apos
+3	Advokátní	AAFS1----1A----	Atr
+4	a	J^-------------	Coord
+5	komerčně	Dg-------1A----	Adv
+6	právní	AAFS1----1A----	Atr
+7	kancelář	NNFS1-----A----	ExD
+8	,	Z:-------------	AuxX
+9	Národní	AAFS1----1A----	Atr
+10	25	C=-------------	Atr
+11	,	Z:-------------	AuxX
+12	Praha	NNFS1-----A----	Atr
+13	1	C=-------------	Atr
+14	,	Z:-------------	AuxX
+15	tel	NNIXX-----A---8	Atr
+16	.	Z:-------------	AuxG
+17	+	Z:-------------	Coord
+18	FAX	NNIS1-----A----	Atr
+19	:	Z:-------------	AuxG
+20	(	Z:-------------	AuxG
+21	02	C=-------------	Atr
+22	)	Z:-------------	AuxG
+23	242	C=-------------	Atr
+24	27	C=-------------	Atr
+25	27	C=-------------	Atr
+26	845	C=-------------	Atr
+27	.	Z:-------------	AuxK
+

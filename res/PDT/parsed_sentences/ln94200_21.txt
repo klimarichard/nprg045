@@ -1,0 +1,342 @@
+ln94200-21-p1s1
+1	Středoevropská	AAFS1----1A----	Atr
+2	plodinová	AAFS1----1A----	Atr
+3	burza	NNFS1-----A----	ExD
+
+ln94200-21-p2s1A
+1	O	RR--6----------	AuxP
+2	českém	AAIS6----1A----	Atr
+3	návrhu	NNIS6-----A----	Obj
+4	dnes	Db-------------	Adv
+5	jednají	VB-P---3P-AA---	Pred
+6	ministři	NNMP1-----A----	Sb
+7	volné	AAFS2----1A----	Atr
+8	zóny	NNFS2-----A----	Atr
+9	CEFTA	NNFXX-----A---8	Atr
+
+ln94200-21-p2s1B
+1	Praha	NNFS1-----A----	ExD
+2	(	Z:-------------	ExD
+3	jpš	NNXXX-----A---8	ExD
+4	)	Z:-------------	ExD
+5	-	Z:-------------	AuxK
+
+ln94200-21-p2s1C
+1	Český	AAMS1----1A----	Atr
+2	ministr	NNMS1-----A----	Atr
+3	zemědělství	NNNS2-----A----	Atr
+4	J	NNMXX-----A---8	Atr
+5	.	Z:-------------	AuxG
+6	Lux	NNMS1-----A----	Sb
+7	resortním	AAMP3----1A----	Atr
+8	kolegům	NNMP3-----A----	Obj
+9	ze	RV--2----------	AuxP
+10	Slovenska	NNNS2-----A----	Atr
+11	,	Z:-------------	AuxX
+12	Maďarska	NNNS2-----A----	Atr
+13	a	J^-------------	Coord
+14	Polska	NNNS2-----A----	Atr
+15	navrhne	VB-S---3P-AA---	Pred
+16	vytvoření	NNNS4-----A----	Obj
+17	společné	AAFS2----1A----	Atr
+18	středoevropské	AAFS2----1A----	Atr
+19	komoditní	AAFS2----1A----	Atr
+20	burzy	NNFS2-----A----	Atr
+21	.	Z:-------------	AuxK
+
+ln94200-21-p3s1
+1	Tento	PDYS1----------	Atr
+2	návrh	NNIS1-----A----	Sb
+3	je	VB-S---3P-AA---	Pred
+4	jednou	ClFS7----------	Pnom
+5	z	RR--2----------	AuxP
+6	několika	Ca--2----------	Atr
+7	otázek	NNFP2-----A----	Atr
+8	,	Z:-------------	AuxX
+9	které	P4FP4----------	Obj
+10	ministři	NNMP1-----A----	Sb
+11	zemědělství	NNNS2-----A----	Atr
+12	zemí	NNFP2-----A----	Atr
+13	Středoevropské	AAFS2----1A----	Atr
+14	dohody	NNFS2-----A----	Atr
+15	o	RR--6----------	AuxP
+16	zóně	NNFS6-----A----	Atr
+17	volného	AAIS2----1A----	Atr
+18	obchodu	NNIS2-----A----	Atr
+19	(	Z:-------------	Apos
+20	CEFTA	NNFXX-----A---8	Atr
+21	)	Z:-------------	AuxG
+22	budou	VB-P---3F-AA---	AuxV
+23	projednávat	Vf--------A----	Atr
+24	při	RR--6----------	AuxP
+25	svém	P8ZS6----------	Atr
+26	dnešním	AANS6----1A----	Atr
+27	setkání	NNNS6-----A----	Adv
+28	,	Z:-------------	AuxX
+29	které	P4NS1----------	Sb
+30	se	P7-X4----------	AuxT
+31	pod	RR--7----------	AuxP
+32	názvem	NNIS7-----A----	Adv
+33	Agrofórum	NNNS1-----A----	Atr
+34	94	C=-------------	Atr
+35	koná	VB-S---3P-AA---	Atr
+36	na	RR--6----------	AuxP
+37	loveckém	AAIS6----1A----	Atr
+38	zámečku	NNIS6-----A----	Adv
+39	Ohrada	NNFS1-----A----	Atr
+40	blízko	Dg-------1A----	AuxP
+41	Hluboké	NNFS2-----A----	Adv
+42	nad	RR--7----------	AuxP
+43	Vltavou	NNFS7-----A----	Atr
+44	.	Z:-------------	AuxK
+
+ln94200-21-p3s2
+1	Jednání	NNNS2-----A----	Obj
+2	se	P7-X4----------	AuxT
+3	zúčastní	VB-P---3P-AA---	Pred
+4	také	Db-------------	AuxZ
+5	pozorovatelé	NNMP1-----A----	Sb
+6	z	RR--2----------	AuxP
+7	Rakouska	NNNS2-----A----	Atr
+8	a	J^-------------	Coord
+9	Slovinska	NNNS2-----A----	Atr
+10	.	Z:-------------	AuxK
+
+ln94200-21-p4s1
+1	Myšlenku	NNFS4-----A----	Obj
+2	založit	Vf--------A----	Atr
+3	společnou	AAFS4----1A----	Atr
+4	komoditní	AAFS4----1A----	Atr
+5	burzu	NNFS4-----A----	Obj
+6	včera	Db-------------	Adv
+7	LN	NNFPX-----A---8	Obj
+8	osvětlil	VpYS---XR-AA---	Pred
+9	ekonomický	AAMS1----1A----	Atr
+10	náměstek	NNMS1-----A----	Atr
+11	ministra	NNMS2-----A----	Atr
+12	zemědělství	NNNS2-----A----	Atr
+13	Václav	NNMS1-----A----	Atr
+14	Slavíček	NNMS1-----A----	Sb
+15	.	Z:-------------	AuxK
+
+ln94200-21-p4s2
+1	Sdělil	VpYS---XR-AA---	Pred
+2	,	Z:-------------	AuxX
+3	že	J,-------------	AuxC
+4	česká	AAFS1----1A----	Atr
+5	strana	NNFS1-----A----	Sb
+6	navrhuje	VB-S---3P-AA---	Obj
+7	,	Z:-------------	AuxX
+8	aby	J,-------------	AuxC
+9	mezi	RR--7----------	AuxP
+10	stávajícími	AAFP7----1A----	Atr
+11	komoditními	AAFP7----1A----	Atr
+12	(	Z:-------------	AuxG
+13	plodinovými	AAFP7----1A----	Atr
+14	)	Z:-------------	AuxG
+15	burzami	NNFP7-----A----	Adv
+16	nejdříve	Dg-------3A----	Adv
+17	došlo	VpNS---XR-AA---	Obj
+18	k	RR--3----------	AuxP
+19	informačnímu	AANS3----1A----	Atr
+20	propojení	NNNS3-----A----	Obj
+21	.	Z:-------------	AuxK
+
+ln94200-21-p4s3
+1	V	RR--6----------	AuxP
+2	určitém	AAIS6----1A----	Atr
+3	časovém	AAIS6----1A----	Atr
+4	horizontu	NNIS6-----A---1	Adv
+5	by	Vc-------------	AuxV
+6	pak	Db-------------	Adv
+7	mohly	VpTP---XR-AA---	Pred
+8	burzy	NNFP1-----A----	Sb
+9	začít	Vf--------A----	Obj
+10	fungovat	Vf--------A----	Obj
+11	jako	J,-------------	AuxC
+12	jeden	ClYS1----------	Atr
+13	počítačový	AAIS1----1A----	Atr
+14	parket	NNIS1-----A----	ExD
+15	.	Z:-------------	AuxK
+
+ln94200-21-p4s4
+1	Tím	PDZS7----------	Adv
+2	by	Vc-------------	AuxV
+3	se	P7-X4----------	AuxR
+4	prý	TT-------------	AuxY
+5	značně	Dg-------1A----	Adv
+6	zvětšil	VpYS---XR-AA---	Pred
+7	trh	NNIS1-----A----	Sb
+8	pro	RR--4----------	AuxP
+9	burzovní	AAIP4----1A----	Atr
+10	obchody	NNIP4-----A----	Atr
+11	.	Z:-------------	AuxK
+
+ln94200-21-p5s1
+1	Jde	VB-S---3P-AA---	Obj
+2	zatím	Db-------------	Adv
+3	pouze	Db-------------	AuxZ
+4	o	RR--4----------	AuxP
+5	návrh	NNIS4-----A----	Obj
+6	a	J^-------------	Coord
+7	záleží	VB-S---3P-AA---	Obj
+8	na	RR--6----------	AuxP
+9	tom	PDZS6----------	Obj
+10	,	Z:-------------	AuxX
+11	zda	J,-------------	AuxC
+12	tento	PDYS1----------	Atr
+13	projekt	NNIS1-----A----	Sb
+14	bude	VB-S---3F-AA---	Atr
+15	uskutečnitelný	AAIS1----1A----	Pnom
+16	i	J^-------------	AuxZ
+17	po	RR--6----------	AuxP
+18	legislativních	AAFP6----1A----	Atr
+19	a	J^-------------	Coord
+20	jiných	AAFP6----1A----	Atr
+21	stránkách	NNFP6-----A----	Adv
+22	,	Z:-------------	AuxX
+23	řekl	VpYS---XR-AA---	Pred
+24	Slavíček	NNMS1-----A----	Sb
+25	.	Z:-------------	AuxK
+
+ln94200-21-p6s1
+1	Návrh	NNIS4-----A----	Obj
+2	na	RR--4----------	AuxP
+3	vytvoření	NNNS4-----A----	Atr
+4	společné	AAFS2----1A----	Atr
+5	burzy	NNFS2-----A----	Atr
+6	podpořil	VpYS---XR-AA---	Pred
+7	také	Db-------------	Adv
+8	slovenský	AAMS1----1A----	Atr
+9	ministr	NNMS1-----A----	Atr
+10	zemědělství	NNNS2-----A----	Atr
+11	P	NNMXX-----A---8	Atr
+12	.	Z:-------------	AuxG
+13	Koncoš	NNMS1-----A----	Sb
+14	.	Z:-------------	AuxK
+
+ln94200-21-p6s2
+1	Podporujeme	VB-P---1P-AA---	Obj
+2	tuto	PDFS4----------	Atr
+3	myšlenku	NNFS4-----A----	Obj
+4	o	RR--4----------	AuxP
+5	to	PDNS4----------	Adv
+6	víc	Dg-------2A---1	Adv
+7	,	Z:-------------	AuxX
+8	že	J,-------------	AuxC
+9	sídlem	NNNS7-----A----	Pnom
+10	burzy	NNFS2-----A----	Atr
+11	by	Vc-------------	AuxV
+12	byla	VpQW---XR-AA---	Atr
+13	,	Z:-------------	AuxX
+14	vzhledem	RF-------------	AuxP
+15	ke	RV--3----------	AuxP
+16	své	P8FS3---------1	Atr
+17	poloze	NNFS3-----A----	Adv
+18	v	RR--6----------	AuxP
+19	centru	NNNS6-----A----	Atr
+20	zemí	NNFP2-----A----	Atr
+21	CEFTA	NNFXX-----A---8	Atr
+22	,	Z:-------------	AuxX
+23	Bratislava	NNFS1-----A----	Sb
+24	,	Z:-------------	AuxX
+25	prohlásil	VpYS---XR-AA---	Pred
+26	.	Z:-------------	AuxK
+
+ln94200-21-p7s1
+1	Podle	RR--2----------	AuxP
+2	vyjádření	NNNS2-----A----	Adv
+3	Slavíčka	NNMS2-----A----	Atr
+4	však	J^-------------	Coord
+5	hlavním	AAIS7----1A----	Atr
+6	bodem	NNIS7-----A----	Pnom
+7	dnešního	AANS2----1A----	Atr
+8	jednání	NNNS2-----A----	Atr
+9	ministrů	NNMP2-----A----	Atr
+10	CEFTA	NNFXX-----A---8	Atr
+11	bude	VB-S---3F-AA---	Pred
+12	otázka	NNFS1-----A----	Sb
+13	dalšího	AAIS2----1A----	Atr
+14	postupu	NNIS2-----A----	Atr
+15	liberalizace	NNFS2-----A----	Atr
+16	vzájemného	AAIS2----1A----	Atr
+17	obchodu	NNIS2-----A----	Atr
+18	a	J^-------------	Coord
+19	otázka	NNFS1-----A----	Sb
+20	přibližování	NNNS2-----A----	Atr
+21	a	J^-------------	Coord
+22	integrace	NNFS2-----A----	Atr
+23	zemědělského	AAIS2----1A----	Atr
+24	sektoru	NNIS2-----A----	Atr
+25	zemí	NNFP2-----A----	Atr
+26	CEFTA	NNFXX-----A---8	Atr
+27	do	RR--2----------	AuxP
+28	Evropské	AAFS2----1A----	Atr
+29	unie	NNFS2-----A----	Atr
+30	.	Z:-------------	AuxK
+
+ln94200-21-p7s2
+1	Česká	AAFS1----1A----	Atr
+2	delegace	NNFS1-----A----	Sb
+3	chce	VB-S---3P-AA---	Pred
+4	také	Db-------------	Adv
+5	nastolit	Vf--------A----	Obj
+6	diskusi	NNFS4-----A----	Obj
+7	o	RR--6----------	AuxP
+8	některých	PZXP6----------	Atr
+9	aktuálních	AAIP6----1A----	Atr
+10	problémech	NNIP6-----A----	Atr
+11	potravinářského	AAIS2----1A----	Atr
+12	obchodu	NNIS2-----A----	Atr
+13	.	Z:-------------	AuxK
+
+ln94200-21-p7s3
+1	Jde	VB-S---3P-AA---	Pred
+2	prý	TT-------------	AuxY
+3	především	Db-------------	Adv
+4	o	RR--4----------	AuxP
+5	10	C=-------------	Atr
+6	%	Z:-------------	Atr
+7	vyrovnávací	AAFS4----1A----	Atr
+8	dávku	NNFS4-----A----	Obj
+9	zavedenou	AAFS4----1A----	Atr
+10	Polskem	NNNS7-----A----	Obj
+11	a	J^-------------	Coord
+12	problém	NNIS4-----A----	Obj
+13	vzájemného	AANS2----1A----	Atr
+14	uznávání	NNNS2-----A----	Atr
+15	jakostních	AAIP2----1A----	Atr
+16	certifikátů	NNIP2-----A----	Atr
+17	mezi	RR--7----------	AuxP
+18	ČR	NNFXX-----A---8	Atr
+19	a	J^-------------	Coord
+20	SR	NNFXX-----A---8	Atr
+21	.	Z:-------------	AuxK
+
+ln94200-21-p8s1
+1	Za	RR--4----------	AuxP
+2	českou	AAFS4----1A----	Atr
+3	stranu	NNFS4-----A----	Adv
+4	se	P7-X4----------	AuxT
+5	diskuse	NNFS2-----A----	Obj
+6	kromě	RR--2----------	AuxP
+7	Josefa	NNMS2-----A----	Atr
+8	Luxe	NNMS2-----A----	Adv
+9	má	VB-S---3P-AA---	Pred
+10	zúčastnit	Vf--------A----	Obj
+11	také	Db-------------	AuxZ
+12	ministr	NNMS1-----A----	Atr
+13	průmyslu	NNIS2-----A----	Atr
+14	a	J^-------------	Coord
+15	obchodu	NNIS2-----A----	Atr
+16	Vladimír	NNMS1-----A----	Atr
+17	Dlouhý	NNMS1-----A----	Sb
+18	a	J^-------------	Coord
+19	náměstek	NNMS1-----A----	Atr
+20	ministra	NNMS2-----A----	Atr
+21	zahraničních	AAFP2----1A----	Atr
+22	věcí	NNFP2-----A----	Atr
+23	Pavel	NNMS1-----A----	Atr
+24	Bratinka	NNMS1-----A----	Sb
+25	.	Z:-------------	AuxK
+

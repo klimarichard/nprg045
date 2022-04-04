@@ -1,0 +1,419 @@
+vesm9301-007-p1s1
+1	Profesor	NNMS1-----A----	Atr
+2	Miroslav	NNMS1-----A----	Atr
+3	Plavec	NNMS1-----A----	Sb
+4	(	Z:-------------	ExD
+5	*	Z:-------------	ExD
+6	1925	C=-------------	ExD
+7	)	Z:-------------	ExD
+8	vystudoval	VpYS---XR-AA---	Pred
+9	přírodovědeckou	AAFS4----1A----	Atr
+10	fakultu	NNFS4-----A----	Obj
+11	UK	NNFXX-----A---8	Atr
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	AtrAdv
+14	.	Z:-------------	AuxK
+
+vesm9301-007-p1s2
+1	Působil	VpYS---XR-AA---	Pred
+2	na	RR--6----------	AuxP
+3	Ondřejovské	AAFS6----1A----	Atr
+4	observatoři	NNFS6-----A----	Adv
+5	Astronomického	AAIS2----1A----	Atr
+6	ústavu	NNIS2-----A----	Atr
+7	ČSAV	NNFXX-----A---8	Atr
+8	a	J^-------------	Coord
+9	podílel	VpYS---XR-AA---	Pred
+10	se	P7-X4----------	AuxT
+11	na	RR--6----------	AuxP
+12	výstavbě	NNFS6-----A----	Obj
+13	dvoumetrového	AAIS2----1A----	Atr
+14	teleskopu	NNIS2-----A----	Atr
+15	.	Z:-------------	AuxK
+
+vesm9301-007-p1s3
+1	Nyní	Db-------------	Adv
+2	působí	VB-S---3P-AA---	Pred
+3	jako	J,-------------	AuxY
+4	profesor	NNMS1-----A----	AtvV
+5	astronomie	NNFS2-----A----	Atr
+6	na	RR--6----------	AuxP
+7	Kalifornské	AAFS6----1A----	Atr
+8	univerzitě	NNFS6-----A----	Adv
+9	v	RR--6----------	AuxP
+10	Los	AAXXX----1A----	Atr
+11	Angeles	NNNXX-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+vesm9301-007-p2s1
+1	Prof	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	RNDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Jaroslav	NNMS1-----A----	Atr
+6	Drobník	NNMS1-----A----	ExD
+7	,	Z:-------------	AuxX
+8	CSc	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+
+vesm9301-007-p2s2
+1	(	Z:-------------	ExD
+2	*	Z:-------------	ExD
+3	1929	C=-------------	ExD
+4	)	Z:-------------	ExD
+5	vystudoval	VpYS---XR-AA---	Pred
+6	přírodovědeckou	AAFS4----1A----	Atr
+7	fakultu	NNFS4-----A----	Obj
+8	Univerzity	NNFS2-----A----	Atr
+9	Karlovy	AUFS2M---------	Atr
+10	v	RR--6----------	AuxP
+11	Praze	NNFS6-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+vesm9301-007-p2s3
+1	Je	VB-S---3P-AA---	Pred
+2	ředitelem	NNMS7-----A----	Pnom
+3	Biotechnologického	AAIS2----1A----	Atr
+4	ústavu	NNIS2-----A----	Atr
+5	UK	NNFXX-----A---8	Atr
+6	a	J^-------------	Coord
+7	zabývá	VB-S---3P-AA---	Pred
+8	se	P7-X4----------	AuxT
+9	biopolymery	NNIP7-----A----	Obj
+10	.	Z:-------------	AuxK
+
+vesm9301-007-p3s1
+1	PhDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Michal	NNMS1-----A----	Atr
+4	Lutovský	NNMS1-----A----	ExD
+
+vesm9301-007-p4s1
+1	RNDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Václav	NNMS1-----A----	Atr
+4	Cílek	NNMS1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	CSc	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+
+vesm9301-007-p4s2
+1	(	Z:-------------	ExD
+2	*	Z:-------------	ExD
+3	1955	C=-------------	ExD
+4	)	Z:-------------	ExD
+5	vystudoval	VpYS---XR-AA---	Pred
+6	geologii	NNFS4-----A----	Obj
+7	na	RR--6----------	AuxP
+8	přírodovědecké	AAFS6----1A----	Atr
+9	fakultě	NNFS6-----A----	Adv
+10	Univerzity	NNFS2-----A----	Atr
+11	Karlovy	AUFS2M---------	Atr
+12	v	RR--6----------	AuxP
+13	Praze	NNFS6-----A----	AtrAdv
+14	.	Z:-------------	AuxK
+
+vesm9301-007-p4s3
+1	V	RR--6----------	AuxP
+2	Geologickém	AAIS6----1A----	Atr
+3	ústavu	NNIS6-----A---1	Adv
+4	ČSAV	NNFXX-----A---8	Atr
+5	se	P7-X4----------	AuxT
+6	zabývá	VB-S---3P-AA---	Pred
+7	geologií	NNFS7-----A----	Obj
+8	kenozoika	NNNS2-----A----	Atr
+9	.	Z:-------------	AuxK
+
+vesm9301-007-p5s1
+1	Doc	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	RNDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Jozef	NNMS1-----A----	Atr
+6	Kelemen	NNMS1-----A----	ExD
+7	,	Z:-------------	AuxX
+8	CSc	NNMXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+10	(	Z:-------------	ExD
+11	*	Z:-------------	ExD
+12	1951	C=-------------	ExD
+13	)	Z:-------------	ExD
+14	je	VB-S---3P-AA---	Pred
+15	samostatným	AAMS7----1A----	Atr
+16	vedeckým	AAMS7----1A----	Atr
+17	pracovníkom	NNMS7-----A----	Pnom
+18	Katedry	NNFS1-----A----	Atr
+19	umelej	AAFS2----1A----	Atr
+20	inteligencie	NNFS2-----A----	Atr
+21	Matematicko	A2--------A----	Atr
+22	-	Z:-------------	Coord
+23	fyzikálnej	AAFS2----1A----	Atr
+24	fakulty	NNFS2-----A----	Atr
+25	UK	NNFXX-----A---8	Atr
+26	v	RR--6----------	AuxP
+27	Bratislave	NNFS6-----A----	AtrAtr
+28	.	Z:-------------	AuxK
+
+vesm9301-007-p5s3
+1	Je	VB-S---3P-AA---	Pred
+2	spoluautorem	NNMS7-----A----	Pnom
+3	knihy	NNFS2-----A----	Atr
+4	Základy	NNIP1-----A----	Atr
+5	umělé	AAFS2----1A----	Atr
+6	inteligence	NNFS2-----A----	Atr
+7	,	Z:-------------	AuxX
+8	ALFA	NNFS1-----A----	Atr
+9	,	Z:-------------	AuxX
+10	Bratislava	NNFS1-----A----	Atr
+11	1992	C=-------------	Atr
+12	.	Z:-------------	AuxK
+
+vesm9301-007-p6s1
+1	Doc	NNFXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	MUDr	NNFXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Milena	NNFS1-----A----	Atr
+6	Černá	NNFS1-----A----	Pred
+7	,	Z:-------------	AuxX
+8	DrSc	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+
+vesm9301-007-p6s2
+1	(	Z:-------------	ExD
+2	*	Z:-------------	ExD
+3	1943	C=-------------	ExD
+4	)	Z:-------------	ExD
+5	vystudovala	VpQW---XR-AA---	Pred
+6	lékařskou	AAFS4----1A----	Atr
+7	fakultu	NNFS4-----A----	Obj
+8	hygienickou	AAFS4----1A----	Atr
+9	UK	NNFXX-----A---8	Atr
+10	v	RR--6----------	AuxP
+11	Praze	NNFS6-----A----	AtrAdv
+12	.	Z:-------------	AuxK
+
+vesm9301-007-p6s3
+1	V	RR--6----------	AuxP
+2	referenční	AAFS6----1A----	Atr
+3	laboratoři	NNFS6-----A----	Adv
+4	genotoxikologie	NNFS2-----A----	Atr
+5	při	RR--6----------	AuxP
+6	Státním	AAIS6----1A----	Atr
+7	zdravotnickém	AAIS6----1A----	Atr
+8	ústavu	NNIS6-----A---1	Atr
+9	se	P7-X4----------	AuxT
+10	zabývá	VB-S---3P-AA---	Pred
+11	sledováním	NNNS7-----A----	Obj
+12	genotoxických	AAFP2----1A----	Atr
+13	látek	NNFP2-----A----	Atr
+14	v	RR--6----------	AuxP
+15	prostředí	NNNS6-----A----	Atr
+16	a	J^-------------	Coord
+17	jejich	PSXXXXP3-------	Atr
+18	vlivem	NNIS7-----A----	Obj
+19	na	RR--4----------	AuxP
+20	organismus	NNIS4-----A----	Atr
+21	.	Z:-------------	AuxK
+
+vesm9301-007-p7s1
+1	Prof	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	RNDr	NNMXX-----A---8	Atr
+4	.	Z:-------------	AuxG
+5	Petr	NNMS1-----A----	Atr
+6	Vopěnka	NNMS1-----A----	ExD
+7	,	Z:-------------	AuxX
+8	DrSc	NNFXX-----A---8	Atr
+9	.	Z:-------------	AuxG
+
+vesm9301-007-p7s2
+1	(	Z:-------------	ExD
+2	*	Z:-------------	ExD
+3	1935	C=-------------	ExD
+4	)	Z:-------------	ExD
+5	,	Z:-------------	ExD
+6	vystudoval	VpYS---XR-AA---	Pred
+7	matematicko	A2--------A----	Atr
+8	-	Z:-------------	Coord
+9	fyzikální	AAFS4----1A----	Atr
+10	fakultu	NNFS4-----A----	Obj
+11	Univerzity	NNFS2-----A----	Atr
+12	Karlovy	AUFS2M---------	Atr
+13	v	RR--6----------	AuxP
+14	Praze	NNFS6-----A----	AtrAdv
+15	.	Z:-------------	AuxK
+
+vesm9301-007-p7s3
+1	Je	VB-S---3P-AA---	Pred
+2	spoluautorem	NNMS7-----A----	Pnom
+3	knihy	NNFS2-----A----	Atr
+4	The	AAXXX----1A----	Atr
+5	Theory	NNFXX-----A----	Atr
+6	of	RR--X----------	AuxP
+7	Semisets	NNFPX-----A----	Atr
+8	(	Z:-------------	ExD
+9	1972	C=-------------	ExD
+10	,	Z:-------------	ExD
+11	spolu	Db-------------	AuxP
+12	s	RR--7----------	AuxP
+13	P	NNMXX-----A---8	Atr
+14	.	Z:-------------	AuxG
+15	Hájkem	NNMS7-----A----	ExD
+16	)	Z:-------------	ExD
+17	,	Z:-------------	Coord
+18	autorem	NNMS7-----A----	Pnom
+19	knih	NNFP2-----A----	Atr
+20	Mathematics	NNFXX-----A----	Atr
+21	in	RR--X----------	AuxP
+22	the	AAXXX----1A----	Atr
+23	Alternative	AAXXX----1A----	Atr
+24	Set	AAXXX----1A----	Atr
+25	Theory	NNFXX-----A----	Atr
+26	(	Z:-------------	ExD
+27	1979	C=-------------	ExD
+28	)	Z:-------------	ExD
+29	,	Z:-------------	AuxX
+30	Úvod	NNIS1-----A----	Atr
+31	do	RR--2----------	AuxP
+32	matematiky	NNFS2-----A----	Atr
+33	v	RR--6----------	AuxP
+34	alternatívnej	AAFS6----1A----	Atr
+35	teórii	NNFS6-----A----	Atr
+36	množín	NNFP2-----A----	Atr
+37	(	Z:-------------	ExD
+38	1989	C=-------------	ExD
+39	)	Z:-------------	ExD
+40	,	Z:-------------	AuxX
+41	Rozpravy	NNFP1-----A----	Atr
+42	s	RR--7----------	AuxP
+43	geometrií	NNFS7-----A----	Atr
+44	(	Z:-------------	ExD
+45	1989	C=-------------	ExD
+46	)	Z:-------------	ExD
+47	,	Z:-------------	Coord
+48	Druhé	CrFP1----------	Atr
+49	rozpravy	NNFP1-----A----	Atr
+50	s	RR--7----------	AuxP
+51	geometrií	NNFS7-----A----	Atr
+52	(	Z:-------------	ExD
+53	1991	C=-------------	ExD
+54	)	Z:-------------	ExD
+55	.	Z:-------------	AuxK
+
+vesm9301-007-p8s1
+1	MUDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	František	NNMS1-----A----	Atr
+4	Koukolík	NNMS1-----A----	ExD
+5	,	Z:-------------	AuxX
+6	CSc	NNMXX-----A---8	Atr
+7	.	Z:-------------	AuxG
+
+vesm9301-007-p8s2
+1	(	Z:-------------	ExD
+2	*	Z:-------------	ExD
+3	1941	C=-------------	ExD
+4	)	Z:-------------	ExD
+5	vystudoval	VpYS---XR-AA---	Pred
+6	fakultu	NNFS4-----A----	Obj
+7	všeobecného	AANS2----1A----	Atr
+8	lékařství	NNNS2-----A----	Atr
+9	Karlovy	AUFS2M---------	Atr
+10	univerzity	NNFS2-----A----	Atr
+11	v	RR--6----------	AuxP
+12	Praze	NNFS6-----A----	AtrAdv
+13	.	Z:-------------	AuxK
+
+vesm9301-007-p8s3
+1	Ve	RV--6----------	AuxP
+2	fakultní	AAFS6----1A----	Atr
+3	Thomayerově	AUFS6M---------	Atr
+4	nemocnici	NNFS6-----A----	Adv
+5	se	P7-X4----------	AuxT
+6	zabývá	VB-S---3P-AA---	Pred
+7	zejména	Db-------------	AuxZ
+8	neuropatologií	NNFS7-----A----	Obj
+9	.	Z:-------------	AuxK
+
+vesm9301-007-p8s4
+1	R	NNIXX-----A---8	Adv
+2	.	Z:-------------	AuxG
+3	1992	C=-------------	Atr
+4	mu	PHZS3--3-------	Obj
+5	byla	VpQW---XR-AA---	AuxV
+6	Československou	AAFS7----1A----	Atr
+7	akademií	NNFS7-----A----	Obj
+8	věd	NNFP2-----A----	Atr
+9	udělena	VsQW---XX-AP---	Pred
+10	cena	NNFS1-----A----	Sb
+11	za	RR--4----------	AuxP
+12	popularizaci	NNFS4-----A----	Atr
+13	vědy	NNFS2-----A----	Atr
+14	.	Z:-------------	AuxK
+
+vesm9301-007-p9s1
+1	RNDr	NNMXX-----A---8	Atr
+2	.	Z:-------------	AuxG
+3	Jiří	NNMS1-----A----	Atr
+4	Král	NNMS1-----A----	Sb
+5	(	Z:-------------	ExD
+6	*	Z:-------------	ExD
+7	1963	C=-------------	ExD
+8	)	Z:-------------	ExD
+9	vystudoval	VpYS---XR-AA---	Pred
+10	genetiku	NNFS4-----A----	Obj
+11	na	RR--6----------	AuxP
+12	přírodovědecké	AAFS6----1A----	Atr
+13	fakultě	NNFS6-----A----	Adv
+14	UK	NNFXX-----A---8	Atr
+15	v	RR--6----------	AuxP
+16	Praze	NNFS6-----A----	AtrAdv
+17	.	Z:-------------	AuxK
+
+vesm9301-007-p9s2
+1	Zde	Db-------------	Adv
+2	se	P7-X4----------	AuxT
+3	na	RR--6----------	AuxP
+4	katedře	NNFS6-----A----	Adv
+5	zoologie	NNFS2-----A----	Atr
+6	zabývá	VB-S---3P-AA---	Pred
+7	cytogenetikou	NNFS7-----A----	Obj
+8	bezobratlých	AAMP2----1A----	ExD
+9	.	Z:-------------	AuxK
+
+vesm9301-007-p10s1
+1	František	NNMS1-----A----	Atr
+2	Kovařík	NNMS1-----A----	Sb
+3	(	Z:-------------	ExD
+4	*	Z:-------------	ExD
+5	1965	C=-------------	ExD
+6	)	Z:-------------	ExD
+7	vystudoval	VpYS---XR-AA---	Pred
+8	SPŠ	NNFXX-----A---8	Obj
+9	elektrotechnickou	AAFS4----1A----	Atr
+10	.	Z:-------------	AuxK
+
+vesm9301-007-p10s2
+1	Je	VB-S---3P-AA---	Pred
+2	externím	AAMS7----1A----	Atr
+3	pracovníkem	NNMS7-----A----	Pnom
+4	Národního	AANS2----1A----	Atr
+5	muzea	NNNS2-----A----	Atr
+6	a	J^-------------	Coord
+7	zabývá	VB-S---3P-AA---	Pred
+8	se	P7-X4----------	AuxT
+9	chovem	NNIS7-----A----	Obj
+10	a	J^-------------	Coord
+11	systematikou	NNFS7-----A----	Obj
+12	štírů	NNMP2-----A----	Atr
+13	,	Z:-------------	Coord
+14	sklípkanů	NNMP2-----A----	Atr
+15	a	J^-------------	Coord
+16	také	Db-------------	ExD
+17	částečně	Dg-------1A----	ExD
+18	bičovců	NNMP2-----A----	ExD
+19	a	J^-------------	Coord
+20	solifug	NNFP2-----A----	ExD
+21	.	Z:-------------	AuxK
+
