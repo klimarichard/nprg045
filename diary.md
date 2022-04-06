@@ -92,3 +92,9 @@
 - [x] mapping parsers to new locations of functions
 
 **EWT:** 30
+
+## 6th April 2022, 18:30
+
+- [x] correcting type-hints to Python standards
+
+**EWT:** 30
