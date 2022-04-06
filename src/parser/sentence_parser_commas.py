@@ -2,7 +2,7 @@ import typing
 
 from src.rikli.file import read_ids_from_file
 from src.rikli.file import get_pdt_folder
-from src.rikli.sentence import write_sentence_to_file
+from src.rikli.sentence import load_sentences
 
 
 def load_sentences_to_comma_files(filename: str, file_no_comma: typing.TextIO, file_comma: typing.TextIO) -> None:
@@ -18,45 +18,7 @@ def load_sentences_to_comma_files(filename: str, file_no_comma: typing.TextIO, f
     src_dir = get_pdt_folder('parsed_sentences')
 
     with open(src_dir + rf'\{filename}.txt', mode='r', encoding='utf-8') as f:
-        lines = f.readlines()
-
-        # Initialize default values
-        i = 0
-        sentence_id = ''
-        words = []
-        new_sentence = True
-        comma = False
-
-        while i < len(lines):
-            # Start of a new sentence (sentence ID)
-            if new_sentence:
-                sentence_id = lines[i]
-                new_sentence = False
-            # Read words in sentence
-            elif lines[i] != '\n':
-                # If the word is a comma, mark the sentence as one with commas
-                if lines[i].split('\t')[1] == ',':
-                    comma = True
-                words.append(lines[i])
-            # Empty line denotes the end of the sentence
-            else:
-                # If there are more new lines in sequence
-                if len(words) == 0:
-                    i += 1
-                    continue
-
-                # If there was a comma in the sentence
-                if comma:
-                    write_sentence_to_file(file_comma, sentence_id, words)
-                else:
-                    write_sentence_to_file(file_no_comma, sentence_id, words)
-
-                # Restore default values
-                words = []
-                new_sentence = True
-                comma = False
-
-            i += 1
+        load_sentences(f, file_no_comma, file_comma)
 
 
 if __name__ == '__main__':
