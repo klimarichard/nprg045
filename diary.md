@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 930 minutes *(15:30 hours)*
+**Total working-time:** 945 minutes *(15:45 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -97,5 +97,6 @@
 
 - [x] correcting type-hints to Python standards
 - [x] sentence loading redone and moved to the <code>rikli</code> package
+- [x] first dummy version of <code>sentence_tagger</code>
 
-**EWT:** 65
+**EWT:** 80

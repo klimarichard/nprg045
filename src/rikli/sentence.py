@@ -60,7 +60,8 @@ def load_sentences(f: typing.TextIO, file_no_comma: typing.TextIO = None,
             if line_split[1] == ',':
                 comma = True
 
-            words.append((int(line_split[0]), line_split[1], line_split[2], line_split[3]))
+            # Last string contains a new line at the end, hence the strip call
+            words.append((int(line_split[0]), line_split[1], line_split[2], line_split[3].strip()))
         # Empty line denotes the end of the sentence
         else:
             # If there are more new lines in sequence
@@ -76,7 +77,7 @@ def load_sentences(f: typing.TextIO, file_no_comma: typing.TextIO = None,
                 write_sentence_to_file(file_comma, sentence_id, words)
 
             # Append sentence to return list
-            sentences.append((sentence_id, words))
+            sentences.append((sentence_id.strip(), words))
 
             # Restore default values
             words = []
