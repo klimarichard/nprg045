@@ -1,4 +1,5 @@
 import re
+import typing
 import xml.etree.ElementTree as ET
 
 
@@ -6,7 +7,7 @@ from src.rikli.file import read_ids_from_file
 from src.rikli.file import get_pdt_folder
 
 
-def parse_sentences(filename: str):  # -> [(str, [(int, str, str, str)])]:
+def parse_sentences(filename: str) -> list[tuple[str, list[tuple[int, str, str, str]]]]:
     """
     Parses all sentences from corresponding m- and a-files and processes them to chosen format.
     The chosen format is a list of sentences, where each sentence is a tuple of ID and a list of words,
@@ -19,7 +20,7 @@ def parse_sentences(filename: str):  # -> [(str, [(int, str, str, str)])]:
     sentences_m = parse_m_sentences(filename)
     sentences_a = parse_a_sentences(filename)
 
-    sentences = [[id_a, join_word_properties(words_a, words_m)]
+    sentences = [(id_a, join_word_properties(words_a, words_m))
                  for id_a, words_a in sentences_a
                  for id_m, words_m in sentences_m
                  if id_a == id_m]
@@ -27,7 +28,7 @@ def parse_sentences(filename: str):  # -> [(str, [(int, str, str, str)])]:
     return sentences
 
 
-def parse_a_sentences(filename: str) -> [(str, [(str, int, str)])]:
+def parse_a_sentences(filename: str) -> list[tuple[str, list[tuple[str, int, str]]]]:
     """
     Parses all sentences from one a-file and processes them to chosen format. This is a helper
     function for ``parse_sentences`` function. The chosen format is a list of sentences, where
@@ -75,7 +76,7 @@ def parse_a_sentences(filename: str) -> [(str, [(str, int, str)])]:
     return sentences
 
 
-def parse_m_sentences(filename: str) -> [(str, [(str, str, str)])]:
+def parse_m_sentences(filename: str) -> list[tuple[str, list[tuple[str, str, str]]]]:
     """
     Parses all sentences from one m-file and processes them to chosen format. This is a helper
     function for ``parse_sentences`` function. The chosen format is a list of sentences, where
@@ -117,7 +118,8 @@ def parse_m_sentences(filename: str) -> [(str, [(str, str, str)])]:
     return sentences
 
 
-def join_word_properties(words_a: [(str, int, str)], words_m: [(str, str, str)]) -> [(int, str, str, str)]:
+def join_word_properties(words_a: list[tuple[str, int, str]],
+                         words_m: list[tuple[str, str, str]]) -> list[tuple[int, str, str, str]]:
     """
     Gets morphological and syntactical properties of words in one sentences and joins them
     together in one list of tuples.
@@ -136,11 +138,11 @@ def join_word_properties(words_a: [(str, int, str)], words_m: [(str, str, str)])
     return words
 
 
-def print_sentence(sentence: (str, [(int, str, str, str)]), file) -> None:
+def print_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], f: typing.TextIO) -> None:
     """
     Prints one sentence in chosen format into output file.
     :param sentence: tuple of sentence ID and list of words
-    :param file: output file
+    :param f: output file
     :return: nothing
     """
     sentence_id, words = sentence

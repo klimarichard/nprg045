@@ -2,10 +2,11 @@ import os
 import re
 import xml.etree.ElementTree as ET
 
+
 from functools import cmp_to_key
 
 
-def parse_m_file(filename: str) -> [str]:
+def parse_m_file(filename: str) -> list[str]:
     """
     Gets list of sentence IDs from given XML file of morphologically
     annotated data.
@@ -26,7 +27,7 @@ def parse_m_file(filename: str) -> [str]:
     return IDs
 
 
-def parse_a_file(filename: str) -> [str]:
+def parse_a_file(filename: str) -> list[str]:
     """
     Gets list of sentence IDs from given XML file of syntactically
     annotated data.
@@ -48,7 +49,7 @@ def parse_a_file(filename: str) -> [str]:
     return IDs
 
 
-def set_final_ID_list(longer_list: [str], shorter_list: [str]) -> [str]:
+def set_final_ID_list(longer_list: list[str], shorter_list: list[str]) -> list[str]:
     """
     Sets the final ID list from the two lists given.
     :param longer_list: longer of the two lists
@@ -70,7 +71,7 @@ def set_final_ID_list(longer_list: [str], shorter_list: [str]) -> [str]:
         return None
 
 
-def sort_id_list(ids: [str]) -> [str]:
+def sort_id_list(ids: list[str]) -> list[str]:
     """
     Sorts list of IDs for simpler file reading.
     :param ids: list of IDs

@@ -1,7 +1,7 @@
 import typing
 
 
-def read_ids_from_file(file: typing.TextIO) -> [str]:
+def read_ids_from_file(file: typing.TextIO) -> list[str]:
     """
     Reads list of sorted sentence IDs from a file containing one ID per line and
     parse the IDs to list of filenames.
@@ -11,7 +11,7 @@ def read_ids_from_file(file: typing.TextIO) -> [str]:
     return parse_filenames(read_ids(file))
 
 
-def read_ids(file: typing.TextIO) -> [str]:
+def read_ids(file: typing.TextIO) -> list[str]:
     """
     Reads list of sorted sentence IDs from a file containing one ID per line.
     :param file: file with sentence IDs
@@ -25,7 +25,7 @@ def read_ids(file: typing.TextIO) -> [str]:
     return ids
 
 
-def parse_filenames(ids: [str]) -> [str]:
+def parse_filenames(ids: list[str]) -> list[str]:
     """
     Gets list of filenames from list of sentence IDs.
     :param ids: list of sentence IDs
@@ -46,11 +46,16 @@ def parse_filenames(ids: [str]) -> [str]:
     return filenames
 
 
-def get_pdt_folder() -> str:
+def get_pdt_folder(path: str = None) -> str:
     """
     Returns full path to ``/res/PDT/`` folder of the project.
+    :param path: optional following path from PDT folder (use backward slash
+                 as folder divider)
     :return: full path to ``/res/PDT/`` folder
     """
     import os
 
-    return os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT'
+    if path:
+        return os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT' + rf'\{path}'
+    else:
+        return os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT'

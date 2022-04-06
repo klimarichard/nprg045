@@ -15,7 +15,7 @@ def load_sentences_to_comma_files(filename: str, file_no_comma: typing.TextIO, f
     :param file_comma: output file for sentences with commas
     :return: nothing
     """
-    src_dir = get_pdt_folder() + r'\parsed_sentences'
+    src_dir = get_pdt_folder('parsed_sentences')
 
     with open(src_dir + rf'\{filename}.txt', mode='r', encoding='utf-8') as f:
         lines = f.readlines()
