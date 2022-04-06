@@ -1,10 +1,11 @@
-import os
+import typing
+
+from src.rikli.file import read_ids_from_file
+from src.rikli.file import get_pdt_folder
+from src.rikli.sentence import write_sentence_to_file
 
 
-from sentence_parser import read_ids_from_file
-
-
-def load_sentences_to_comma_files(filename: str, file_no_comma, file_comma) -> None:
+def load_sentences_to_comma_files(filename: str, file_no_comma: typing.TextIO, file_comma: typing.TextIO) -> None:
     """
     Load sentences from one file with parsed sentences and determine, if they contain a comma.
     Then write the sentences to ``sentences_no_comma.txt`` and ``sentences_comma.txt``
@@ -14,7 +15,7 @@ def load_sentences_to_comma_files(filename: str, file_no_comma, file_comma) -> N
     :param file_comma: output file for sentences with commas
     :return: nothing
     """
-    src_dir = os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT\parsed_sentences'
+    src_dir = get_pdt_folder() + r'\parsed_sentences'
 
     with open(src_dir + rf'\{filename}.txt', mode='r', encoding='utf-8') as f:
         lines = f.readlines()
@@ -58,29 +59,13 @@ def load_sentences_to_comma_files(filename: str, file_no_comma, file_comma) -> N
             i += 1
 
 
-def write_sentence_to_file(file, sentence_id: str, words: [str]) -> None:
-    """
-    Writes given sentence to output file.
-    :param file: output file
-    :param sentence_id: ID of the sentence
-    :param words: list of words in the sentence
-    :return: nothing
-    """
-    file.write(sentence_id)
-
-    for word in words:
-        file.write(word)
-
-    file.write('\n')
-
-
 if __name__ == '__main__':
-    resdir = os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT'
+    resdir = get_pdt_folder()
 
     with open(resdir + r'\sentence_IDs_all.txt', mode='r', encoding='utf-8') as f:
         filenames = read_ids_from_file(f)
 
-    resdir = os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT\parsed_sentences_commas'
+    resdir += r'\parsed_sentences_commas'
 
     with open(resdir + r'\sentences_no_comma.txt', mode='w', encoding='utf-8') as file_no_comma, \
             open(resdir + r'\sentences_comma.txt', mode='w', encoding='utf-8') as file_comma:

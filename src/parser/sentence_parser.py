@@ -1,51 +1,9 @@
-import os
 import re
 import xml.etree.ElementTree as ET
 
 
-def read_ids_from_file(file) -> [str]:
-    """
-    Reads list of sorted sentence IDs from a file containing one ID per line and
-    parse the IDs to list of filenames.
-    :param file: file with sentence IDs
-    :return: list of filenames
-    """
-    return parse_filenames(read_ids(file))
-
-
-def read_ids(file) -> [str]:
-    """
-    Reads list of sorted sentence IDs from a file containing one ID per line.
-    :param file: file with sentence IDs
-    :return: list with read sentence IDs
-    """
-    ids = []
-
-    for line in file:
-        ids.append(line.strip())
-
-    return ids
-
-
-def parse_filenames(ids: [str]) -> [str]:
-    """
-    Gets list of filenames from list of sentence IDs.
-    :param ids: list of sentence IDs
-    :return: list of filenames
-    """
-    filenames = []
-    old_filename = ''
-
-    for sentence_id in ids:
-        parsed_id = sentence_id.split('-')
-        new_filename = parsed_id[0] + '_' + parsed_id[1]
-
-        if new_filename != old_filename:
-            old_filename = new_filename
-
-            filenames.append(new_filename)
-
-    return filenames
+from src.rikli.file import read_ids_from_file
+from src.rikli.file import get_pdt_folder
 
 
 def parse_sentences(filename: str):  # -> [(str, [(int, str, str, str)])]:
@@ -194,7 +152,7 @@ def print_sentence(sentence: (str, [(int, str, str, str)]), file) -> None:
 
 
 if __name__ == '__main__':
-    resdir = os.path.sep.join(os.getcwd().split(os.path.sep)[:-2]) + r'\res\PDT'
+    resdir = get_pdt_folder()
 
     with open(resdir + r'\sentence_IDs_all.txt', mode='r', encoding='utf-8') as f:
         filenames = read_ids_from_file(f)

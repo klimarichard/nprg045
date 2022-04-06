@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 835 minutes *(13:55 hours)*
+**Total working-time:** 865 minutes *(14:25 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -85,3 +85,10 @@
 - more and more functions should be added to the files in this package during development
 
 **EWT:** 60
+
+## 6th April 2022, 17:00
+
+- [x] moving reusable functions into one package
+- [x] mapping parsers to new locations of functions
+
+**EWT:** 30
