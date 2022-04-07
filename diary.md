@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 945 minutes *(15:45 hours)*
+**Total working-time:** 1035 minutes *(17:15 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -10,7 +10,7 @@
 - [x] added assignment description
 - [x] added unpacked PDT data for parsing to <code>res</code> folder
 
-**EWT:** 180
+**EWT:** 180 min.
 
 ## 30th March 2022, 12:30
 
@@ -19,7 +19,7 @@
     - [x] parsing raw XML files and searching for IDs
     - [x] making parsing procedures for <code>m</code> and <code>a</code> files
 
-**EWT:** 90
+**EWT:** 90 min.
 
 ## 31st March 2022, 18:30
 
@@ -32,7 +32,7 @@
 - PC breakdown at 20:15 (new changes committed but not pushed)
     - data successfully recovered on 1st April 2022, 9:30
 
-**EWT:** 105
+**EWT:** 105 min.
 
 ## 1st April 2022, 12:00
 
@@ -52,7 +52,7 @@
     - it can be interesting to compare, if a tag based on the constituent type would improve the performance of the
       final model
 
-**EWT:** 220
+**EWT:** 220 min.
 
 ## 4th April 2022, 14:45
 
@@ -73,7 +73,7 @@
         - constituent type of the word
     - sentences are divided by a single empty line
 
-**EWT:** 180
+**EWT:** 180 min.
 
 ## 4th April 2022, 21:15
 
@@ -84,14 +84,14 @@
 - the idea behind this is to move reusable function into a package-like folder <code>rikli</code>
 - more and more functions should be added to the files in this package during development
 
-**EWT:** 60
+**EWT:** 60 min.
 
 ## 6th April 2022, 17:00
 
 - [x] moving reusable functions into one package
 - [x] mapping parsers to new locations of functions
 
-**EWT:** 30
+**EWT:** 30 min.
 
 ## 6th April 2022, 18:30
 
@@ -99,4 +99,16 @@
 - [x] sentence loading redone and moved to the <code>rikli</code> package
 - [x] first dummy version of <code>sentence_tagger</code>
 
-**EWT:** 80
+**EWT:** 80 min.
+
+## 7th April 2022, 13:30
+
+- [x] automatized counting of total time in diary (in git ignored script)
+
+**EWT:** 30 min.
+
+## 7th April 2022, 15:30
+
+- [x] basic version of sentence tagging
+
+**EWT:** 60 min.

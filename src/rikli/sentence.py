@@ -85,3 +85,68 @@ def load_sentences(f: typing.TextIO, file_no_comma: typing.TextIO = None,
             comma = False
 
     return sentences
+
+
+def get_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]]) -> str:
+    """
+    Finds the actual sentence for printing.
+    :param sentence: tuple of sentence ID and list of words
+    :return: string with the actual sentence
+    """
+    final_sentence = ''
+
+    if len(sentence[1]) > 0:
+        final_sentence += sentence[1][0][1]
+
+    # Indicator for some chars, e.g. '(', that there should not be a space after
+    if sentence[1][0][1] == '(':
+        no_space = True
+    else:
+        no_space = False
+
+    if len(sentence[1]) > 1:
+        for i in range(1, len(sentence[1])):
+            if ((not no_space) and
+                    (sentence[1][i][2][0] != 'Z' or
+                        (sentence[1][i][2][0] == 'Z' and
+                            sentence[1][i][1] in '(-'))):
+                final_sentence += ' '
+
+            final_sentence += sentence[1][i][1]
+
+            if sentence[1][i][1] == '(':
+                no_space = True
+            else:
+                no_space = False
+
+    return final_sentence
+
+
+def find_all_constituent_types(sentences: list[tuple[str, list[tuple[int, str, str, str]]]],
+                               filename: str = None) -> list[str]:
+    """
+    Finds all different constituent types in given list of sentences.
+    :param sentences: list of sentences in chosen format
+    :param filename: optional name of output file to write constituent types to
+    :return: list of constituent types
+    """
+    # Initializing return list
+    constituents = []
+
+    # Look through all sentences and find constituent types
+    for sentence in sentences:
+        for word in sentence[1]:
+            if word[3] not in constituents:
+                constituents.append(word[3])
+
+    # Sort list of constituent types
+    constituents = sorted(constituents)
+
+    if filename:
+        with open(filename, mode='w', encoding='utf-8') as f:
+            for i in range(len(constituents)):
+                f.write(constituents[i])
+                if i < len(constituents) - 1:
+                    f.write(', ')
+
+    return constituents
