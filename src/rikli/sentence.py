@@ -93,31 +93,93 @@ def get_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]]) -> str:
     :param sentence: tuple of sentence ID and list of words
     :return: string with the actual sentence
     """
+
+    def determine_no_space(punctuation: str, first_quote: bool = False) -> bool:
+        """
+        Helper function to determine whether there should be a space after
+        previous punctuation
+        :param punctuation: previous punctuation in sentence
+        :param first_quote: optional value for first quote boolean
+        :return: True, if there should be no space,
+                 False, otherwise
+        """
+        if punctuation == '(':
+            return True
+        if punctuation == '/':
+            return True
+        if punctuation == '"':
+            if not first_quote:
+                return True
+
+        return False
+
+    def determine_first_quote(punctuation: str, first_quote: bool = False):
+        """
+        Helper function to determine whether this is the first quote of the pair
+        or the second one.
+        :param punctuation: previous punctuation in sentence
+        :param first_quote: optional value for first quote boolean
+        :return: True, if this is the first quote,
+                 False, otherwise
+        """
+        if punctuation == '"' and not first_quote:
+            return True
+        if punctuation == '"' and first_quote:
+            return False
+        if first_quote:
+            return True
+
+        return False
+
+    def conditions(word: tuple[int, str, str, str], no_space: bool, first_quote: bool) -> bool:
+        """
+        Helper function to determine whether to write space now.
+        :param word: one word from the sentence
+        :return: True, if a space should be written now,
+                 False, otherwise
+        """
+        # This is not a punctuation and there is a marker for no space
+        if word[2][0] != 'Z' and no_space:
+            return False
+
+        # This is a quote and there has already been the opening one,
+        # so this is the closing quote
+        if word[2][0] == 'Z' and word[1] == '"' and first_quote:
+            return False
+
+        # This is a quote and there has not been the opening one,
+        # so this is the opening quote
+        if word[2][0] == 'Z' and word[1] == '"' and not first_quote:
+            return True
+
+        # This is a comma or a dot
+        if word[2][0] == 'Z' and word[1] in ',./':
+            return False
+
+        # This is an opening bracket or a dash
+        if word[2][0] == 'Z' and word[1] in '(-':
+            return True
+
+        return True
+
     final_sentence = ''
 
     if len(sentence[1]) > 0:
         final_sentence += sentence[1][0][1]
 
     # Indicator for some chars, e.g. '(', that there should not be a space after
-    if sentence[1][0][1] == '(':
-        no_space = True
-    else:
-        no_space = False
+    no_space = determine_no_space(sentence[1][0][1])
+    first_quote = determine_first_quote(sentence[1][0][1])
 
     if len(sentence[1]) > 1:
         for i in range(1, len(sentence[1])):
-            if ((not no_space) and
-                    (sentence[1][i][2][0] != 'Z' or
-                        (sentence[1][i][2][0] == 'Z' and
-                            sentence[1][i][1] in '(-'))):
+            if conditions(sentence[1][i], no_space, first_quote):
                 final_sentence += ' '
 
             final_sentence += sentence[1][i][1]
 
-            if sentence[1][i][1] == '(':
-                no_space = True
-            else:
-                no_space = False
+            no_space = determine_no_space(sentence[1][i][1], first_quote)
+            first_quote = determine_first_quote(sentence[1][i][1], first_quote)
 
     return final_sentence
 
