@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 1095 minutes *(18:15 hours)*
+**Total working-time:** 1125 minutes *(18:45 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -113,3 +113,11 @@
 - [x] updated sentence printing
 
 **EWT:** 120 min.
+
+## 7th April 2022, 18:30
+
+- [x] added <code>doc</code> folder
+    - [x] added Positional Tags Quick Reference from prof. Hajič
+        - replacing unknown Czech characters in the document
+
+**EWT:** 30 min.
