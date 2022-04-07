@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css; charset=iso-8859-2">
+
+
+ <title>Positional Tags: Quick Reference (Czech Morphology)</title>
+<link id="avast_os_ext_custom_font" href="Positional%20Tags%20Quick%20Reference%20(Czech%20Morphology)_soubory/fonts.css" rel="stylesheet" type="text/css"></head>
+<body bgcolor="#ffffff">
+ <center>
+  <h1>Positional Tags: Quick Reference (Czech "HM" Morphology)</h1>
+   <b>Author:</b> Jan Hajic, 2000<br>
+  <hr width="80%">
+ </center>
+ <h2>Categories</h2>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td align="right"><b>No.</b></td><td>&nbsp;<b>Name</b>&nbsp;</td><td><b>Description</b></td></tr>
+ <tr><td align="right">&nbsp;1&nbsp;</td><td>&nbsp;<a href="#POS">POS</a>&nbsp;</td><td>Part of Speech</td></tr>
+ <tr><td align="right">&nbsp;2&nbsp;</td><td>&nbsp;<a href="#SUBPOS">SUBPOS</a>&nbsp;</td><td>Detailed Part of Speech</td></tr>
+ <tr><td align="right">&nbsp;3&nbsp;</td><td>&nbsp;<a href="#GENDER">GENDER</a>&nbsp;</td><td>Gender</td></tr>
+ <tr><td align="right">&nbsp;4&nbsp;</td><td>&nbsp;<a href="#NUMBER">NUMBER</a>&nbsp;</td><td>Number</td></tr>
+ <tr><td align="right">&nbsp;5&nbsp;</td><td>&nbsp;<a href="#CASE">CASE</a>&nbsp;</td><td>Case</td></tr>
+ <tr><td align="right">&nbsp;6&nbsp;</td><td>&nbsp;<a href="#POSSGENDER">POSSGENDER</a>&nbsp;</td><td>Possessor's Gender</td></tr>
+ <tr><td align="right">&nbsp;7&nbsp;</td><td>&nbsp;<a href="#POSSNUMBER">POSSNUMBER</a>&nbsp;</td><td>Possessor's Number</td></tr>
+ <tr><td align="right">&nbsp;8&nbsp;</td><td>&nbsp;<a href="#PERSON">PERSON</a>&nbsp;</td><td>Person</td></tr>
+ <tr><td align="right">&nbsp;9&nbsp;</td><td>&nbsp;<a href="#TENSE">TENSE</a>&nbsp;</td><td>Tense</td></tr>
+ <tr><td align="right">&nbsp;10&nbsp;</td><td>&nbsp;<a href="#GRADE">GRADE</a>&nbsp;</td><td>Degree of comparison</td></tr>
+ <tr><td align="right">&nbsp;11&nbsp;</td><td>&nbsp;<a href="#NEGATION">NEGATION</a>&nbsp;</td><td>Negation</td></tr>
+ <tr><td align="right">&nbsp;12&nbsp;</td><td>&nbsp;<a href="#VOICE">VOICE</a>&nbsp;</td><td>Voice</td></tr>
+ <tr><td align="right">&nbsp;13&nbsp;</td><td>&nbsp;<a href="#RESERVE1">RESERVE1</a>&nbsp;</td><td>Unused</td></tr>
+ <tr><td align="right">&nbsp;14&nbsp;</td><td>&nbsp;<a href="#RESERVE2">RESERVE2</a>&nbsp;</td><td>Unused</td></tr>
+ <tr><td align="right">&nbsp;15&nbsp;</td><td>&nbsp;<a href="#VAR">VAR</a>&nbsp;</td><td>Variant, Style, Register, Special Usage&nbsp;</td></tr>
+ </tbody></table>
+  <br>&nbsp;<br>
+  <hr width="80%">
+ <h2>Values and Description by Category</h2>
+   <h3><a name="POS"></a>POS</h3>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">A</td><td> Adjective </td></tr><tr><td align="center">C</td><td> Numeral </td></tr><tr><td align="center">D</td><td> Adverb </td></tr><tr><td align="center">I</td><td> Interjection </td></tr><tr><td align="center">J</td><td> Conjunction </td></tr><tr><td align="center">N</td><td> Noun </td></tr><tr><td align="center">P</td><td> Pronoun </td></tr><tr><td align="center">V</td><td> Verb </td></tr><tr><td align="center">R</td><td> Preposition </td></tr><tr><td align="center">T</td><td> Particle </td></tr><tr><td align="center">X</td><td> Unknown, Not Determined, Unclassifiable </td></tr><tr><td align="center">Z</td><td> Punctuation (also used for the <i>Sentence Boundary</i> token)   </td></tr></tbody></table>
+
+
+   <h3><a name="SUBPOS"></a>SUBPOS</h3>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">!</td><td> Abbreviation used as an adverb (now obsolete) </td></tr><tr><td align="center">#</td><td> Sentence boundary  (for the <i>virtual</i> word <tt>###</tt>) </td></tr><tr><td align="center">*</td><td> Word <tt>kr�t</tt> (lit.: <i>times</i>) (<tt><a href="#POS">POS</a></tt>: <tt>C</tt>, numeral) </td></tr><tr><td align="center">,</td><td> Conjunction subordinate (incl. <tt>aby</tt>, <tt>kdyby</tt> in all forms) </td></tr><tr><td align="center">.</td><td> Abbreviation used as an adjective (now obsolete) </td></tr><tr><td align="center">0</td><td> Preposition with attached <tt>-�</tt> (pronoun <tt>n�j</tt>, lit. <i>him</i>); <tt>pro�, na�, ...</tt>. (<tt><a href="#POS">POS</a></tt>: <tt>P</tt>, pronoun) </td></tr><tr><td align="center">1</td><td> Relative possessive pronoun <tt>jeho�</tt>, <tt>jej��</tt>, ... (lit. <i>whose</i> in subordinate relative clause) </td></tr><tr><td align="center">2</td><td> Hyphen (always as a separate token) </td></tr><tr><td align="center">3</td><td> Abbreviation used as a numeral (now obsolete) </td></tr><tr><td align="center">4</td><td> Relative/interrogative pronoun with adjectival declension of both types (<i>soft</i> and <i>hard</i>) (<tt>jak�, kter�, ��, ...</tt>, lit. <i>what</i>, <i>which</i>, <i>whose</i>, ...) </td></tr><tr><td align="center">5</td><td> The pronoun <i>he</i> in forms requested after any preposition (with prefix <tt>n-</tt>: <tt>n�j, n�ho, ...</tt>, lit. <i>him</i> in various cases) </td></tr><tr><td align="center">6</td><td> Reflexive pronoun <tt>se</tt> in long forms (<tt>sebe, sob�, sebou</tt>, lit. <i>myself</i> / <i>yourself</i> / <i>herself</i> / <i>himself</i> in various cases; <tt>se</tt> is personless) </td></tr><tr><td align="center">7</td><td> Reflexive pronouns <tt>se</tt> (<tt><a href="#CASE">CASE</a></tt> = <tt>4</tt>), <tt>si</tt> (<tt><a href="#CASE">CASE</a></tt> = <tt>3</tt>), plus the same two forms with contracted <tt>-s</tt>: <tt>ses, sis</tt> (distinguished by <tt><a href="#PERSON">PERSON</a></tt> = <tt>2</tt>; also number is singular only) </td></tr><tr><td align="center">8</td><td> Possessive reflexive pronoun <tt>sv�j</tt> (lit. <i>my</i>/<i>your</i>/<i>her</i>/<i>his</i> when the possessor is the subject of the sentence) </td></tr><tr><td align="center">9</td><td> Relative pronoun <tt>jen�, ji�, ...</tt> after a preposition (<tt>n-</tt>: <tt>n�ho�, ni�, ...</tt>, lit. <i>who</i>) </td></tr><tr><td align="center">:</td><td> Punctuation (except for the virtual sentence boundary word <tt>###</tt>, which uses the <tt><a href="#SUBPOS">SUBPOS</a></tt> <tt>#</tt>) </td></tr><tr><td align="center">;</td><td> Abbreviation used as a noun (now obsolete) </td></tr><tr><td align="center">=</td><td> Number written using digits (<tt><a href="#POS">POS</a></tt>: <tt>C</tt>, numeral) </td></tr><tr><td align="center">?</td><td> Numeral <tt>kolik</tt> (lit. <i>how many</i>/<i>how much</i>) </td></tr><tr><td align="center">@</td><td> Unrecognized word form (<tt><a href="#POS">POS</a></tt>: <tt>X</tt>, unknown) </td></tr><tr><td align="center">A</td><td> Adjective, general </td></tr><tr><td align="center">B</td><td> Verb, present or future form </td></tr><tr><td align="center">C</td><td> Adjective, nominal (short, participial) form <tt>r�d, schopen, ...</tt> </td></tr><tr><td align="center">D</td><td> Pronoun, demonstrative (<tt>ten, onen, ...</tt>, lit. <i>this</i>, <i>that</i>, <i>that ... over there</i>, ...) </td></tr><tr><td align="center">E</td><td> Relative pronoun <tt>co�</tt> (corresponding to English <i>which</i> in subordinate clauses referring to a part of the preceding text) </td></tr><tr><td align="center">F</td><td> Preposition, part of; never appears isolated, always in a phrase (<tt>nehled� (na), vzhledem (k), ...</tt>, lit. <i>regardless</i>, <i>because of</i>) </td></tr><tr><td align="center">G</td><td> Adjective derived from present transgressive form of a verb </td></tr><tr><td align="center">H</td><td> Personal pronoun, clitical (short) form (<tt>m�, mi, ti, mu, ...</tt>); these forms are used in the second position in a clause (lit. <i>me</i>, <i>you</i>, <i>her</i>, <i>him</i>), even though some of them (<tt>m�</tt>) might be regularly used anywhere as well </td></tr><tr><td align="center">I</td><td> Interjections (<tt><a href="#POS">POS</a></tt>: <tt>I</tt>) </td></tr><tr><td align="center">J</td><td> Relative pronoun <tt>jen�, ji�, ...</tt> not after a preposition (lit. <i>who</i>, <i>whom</i>) </td></tr><tr><td align="center">K</td><td> Relative/interrogative pronoun <tt>kdo</tt> (lit. <i>who</i>), incl. forms with affixes <tt>-�</tt> and <tt>-s</tt> (affixes are distinguished by the category <tt><a href="#VAR">VAR</a></tt> (for <tt>-�</tt>) and <tt><a href="#PERSON">PERSON</a></tt> (for <tt>-s</tt>)) </td></tr><tr><td align="center">L</td><td> Pronoun, indefinite <tt>v�echnen, s�m</tt> (lit. <i>all</i>, <i>alone</i>) </td></tr><tr><td align="center">M</td><td> Adjective derived from verbal past transgressive form </td></tr><tr><td align="center">N</td><td> Noun (general) </td></tr><tr><td align="center">O</td><td> Pronoun <tt>sv�j</tt>, <tt>nesv�j</tt>, <tt>tentam</tt> alone (lit. <i>own self</i>, <i>not-in-mood</i>, <i>gone</i>) </td></tr><tr><td align="center">P</td><td> Personal pronoun <tt>j�, ty, on</tt> (lit. <i>I</i>, <i>you</i>, <i>he</i>) (incl. forms with the enclitic <tt>-s</tt>, e.g. <tt>tys</tt>, lit. <i>you're</i>); gender position is used for third person to distinguish <tt>on/ona/ono</tt> (lit. <i>he/she/it</i>), and number for all three persons </td></tr><tr><td align="center">Q</td><td> Pronoun relative/interrogative <tt>co, copak, co�pak</tt> (lit. <i>what</i>, <i>isn't-it-true-that</i>) </td></tr><tr><td align="center">R</td><td> Preposition (general, without vocalization) </td></tr><tr><td align="center">S</td><td> Pronoun possessive <tt>m�j</tt>, <tt>tv�j</tt>, <tt>jeho</tt> (lit. <i>my</i>, <i>your</i>, <i>his</i>); gender  position used for third person to distinguish <tt>jeho</tt>, <tt>jej�</tt>, <tt>jeho</tt> (lit. <i>his, her, its</i>), and number for all three pronouns </td></tr><tr><td align="center">T</td><td> Particle (<tt><a href="#POS">POS</a></tt>: <tt>T</tt>, particle) </td></tr><tr><td align="center">U</td><td> Adjective possessive (with the masculine ending <tt>-�v</tt> as well as feminine <tt>-in</tt>) </td></tr><tr><td align="center">V</td><td> Preposition (with vocalization <tt>-e</tt> or <tt>-u</tt>): (<tt>ve, pode, ku</tt>, ..., lit. <i>in</i>, <i>under</i>, <i>to</i>) </td></tr><tr><td align="center">W</td><td> Pronoun negative (<tt>nic</tt>, <tt>nikdo</tt>, <tt>nijak�</tt>, <tt>��dn�</tt>, <tt>...</tt>, lit. <i>nothing</i>, <i>nobody</i>, <i>not-worth-mentioning</i>, <i>no/none</i>) </td></tr><tr><td align="center">X</td><td> (temporary) Word form recognized, but tag is missing in dictionary due to delays in (asynchronous) dictionary creation </td></tr><tr><td align="center">Y</td><td> Pronoun relative/interrogative <tt>co</tt> as an enclitic (after a preposition) (<tt>o�, na�, za�</tt>, lit. <i>about what</i>, <i>on/onto what</i>, <i>after/for what</i>) </td></tr><tr><td align="center">Z</td><td> Pronoun  indefinite (<tt>n�jak�</tt>, <tt>n�kter�</tt>, <tt>��koli</tt>, <tt>cosi</tt>, <tt>...</tt>, lit. <i>some</i>, <i>some</i>, <i>anybody's</i>, <i>something</i>) </td></tr><tr><td align="center">^</td><td> Conjunction (connecting main clauses, not subordinate) </td></tr><tr><td align="center">a</td><td> Numeral,  indefinite (<tt>mnoho</tt>, <tt>m�lo</tt>, <tt>tolik</tt>, <tt>n�kolik</tt>, <tt>kdov�kolik</tt>, <tt>...</tt>,  lit. <i>much/many</i>, <i>little/few</i>,  <i>that much/many</i>, <i>some (number of)</i>, <i>who-knows-how-much/many</i>) </td></tr><tr><td align="center">b</td><td> Adverb (without a possibility to form negation and degrees of comparison, e.g. <tt>pozadu</tt>, <tt>naplocho</tt>, ..., lit. <i>behind</i>, <i>flatly</i>); i.e. both the <tt><a href="#NEGATION">NEGATION</a></tt> as well as the <tt><a href="#GRADE">GRADE</a></tt> attributes in the same tag are marked by <tt>-</tt> (Not applicable) </td></tr><tr><td align="center">c</td><td> Conditional (of the verb <tt>b�t</tt> (lit. <i>to be</i>) only) (<tt>by, bych, bys, bychom, byste</tt>, lit. <i>would</i>) </td></tr><tr><td align="center">d</td><td> Numeral, generic with adjectival declension (<tt> dvoj�, desater�, ...</tt>, lit. <i>two-kinds/...</i>, <i>ten-...</i>) </td></tr><tr><td align="center">e</td><td> Verb, transgressive present (endings <tt>-e/-�, -�c, -�ce</tt>) </td></tr><tr><td align="center">f</td><td> Verb, infinitive </td></tr><tr><td align="center">g</td><td> Adverb (forming negation  (<tt><a href="#NEGATION">NEGATION</a></tt> set to <tt>A/N</tt>) and  degrees of comparison <tt><a href="#GRADE">GRADE</a></tt> set to <tt>1/2/3</tt> (comparative/superlative), e.g. <tt>velk�</tt>,  <tt>za\-j�\-ma\-v�</tt>, ..., lit. <i>big</i>, <i>interesting</i> </td></tr><tr><td align="center">h</td><td> Numeral, generic; only <tt>jedny</tt> and <tt>nejedny</tt> (lit. <i>one-kind/sort-of</i>, <i>not-only-one-kind/sort-of</i>) </td></tr><tr><td align="center">i</td><td> Verb, imperative form </td></tr><tr><td align="center">j</td><td> Numeral, generic greater than or equal to 4 used as a syntactic noun (<tt>�tvero, desatero, ...</tt>, lit. <i>four-kinds/sorts-of</i>, <i>ten-...</i>) </td></tr><tr><td align="center">k</td><td> Numeral, generic greater than or equal to 4 used as a syntactic adjective, short form (<tt>�tvery</tt>, ..., lit. <i>four-kinds/sorts-of</i>) </td></tr><tr><td align="center">l</td><td> Numeral,  cardinal <tt>jeden</tt>, <tt>dva</tt>, <tt>t�i</tt>, <tt>�ty�i</tt>, <tt>p�l</tt>, <tt>...</tt> (lit. <i>one</i>, <i>two</i>, <i>three</i>, <i>four</i>); also <tt>sto</tt> and <tt>tis�c</tt> (lit. <i>hundred</i>, <i>thousand</i>)  if noun declension is not used </td></tr><tr><td align="center">m</td><td> Verb, past transgressive; also archaic present transgressive of perfective verbs  (ex.: <tt>ud�lav</tt>, lit. <i>(he-)having-done</i>;  arch. also <tt>ud�laje</tt> (<tt><a href="#VAR">VAR</a></tt> = <tt>4</tt>), lit. <i>(he-)having-done</i>) </td></tr><tr><td align="center">n</td><td> Numeral, cardinal greater than or equal to 5 </td></tr><tr><td align="center">o</td><td> Numeral,  multiplicative indefinite (<tt>-kr�t</tt>, lit. (<i>times</i>): <tt>mnohokr�t</tt>, <tt>tolikr�t</tt>, <tt>...</tt>,  lit. <i>many times</i>, <i>that many times</i>) </td></tr><tr><td align="center">p</td><td> Verb, past participle, active (including forms with the enclitic <tt>-s</tt>, lit. <i>'re</i> (<i>are</i>)) </td></tr><tr><td align="center">q</td><td> Verb, past participle, active, with the enclitic <tt>-�</tt>, lit. (perhaps) <i>-could-you-imagine-that?</i> or <i>but-because-</i> (both archaic) </td></tr><tr><td align="center">r</td><td> Numeral, ordinal (adjective declension without degrees of comparison) </td></tr><tr><td align="center">s</td><td> Verb, past participle, passive (including forms with the enclitic <tt>-s</tt>, lit. <i>'re</i> (<i>are</i>)) </td></tr><tr><td align="center">t</td><td> Verb, present or future tense, with the enclitic <tt>-�</tt>, lit. (perhaps) <i>-could-you-imagine-that?</i> or <i>but-because-</i> (both archaic) </td></tr><tr><td align="center">u</td><td> Numeral, interrogative <tt>kolikr�t</tt>, lit. <i>how many times?</i> </td></tr><tr><td align="center">v</td><td> Numeral, multiplicative, definite (<tt>-kr�t</tt>, lit. <i>times</i>: <tt>p�tkr�t, ...</tt>, lit. <i>five times</i>) </td></tr><tr><td align="center">w</td><td> Numeral, indefinite, adjectival declension (<tt>nejeden</tt>, <tt>tolik�t�</tt>, ..., lit. <i>not-only-one</i>, <i>so-many-times-repeated</i>) </td></tr><tr><td align="center">x</td><td> Abbreviation, part of speech unknown/indeterminable (now obsolete) </td></tr><tr><td align="center">y</td><td> Numeral, fraction ending at <tt>-ina</tt> (<tt><a href="#POS">POS</a></tt>: <tt>C</tt>, numeral); used as a noun (<tt>p�tina</tt>, lit. <i>one-fifth</i>) </td></tr><tr><td align="center">z</td><td> Numeral, interrogative <tt>kolik�t�</tt>, lit. <i>what</i> (<i>at-what-position-place-in-a-sequence</i>) </td></tr><tr><td align="center">}</td><td> Numeral, written using Roman numerals (<tt>XIV</tt>) </td></tr><tr><td align="center">~</td><td> Abbreviation used as a verb (now obsolete)   </td></tr></tbody></table>
+
+
+   <h3><a name="GENDER"></a>GENDER</h3>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">F</td><td> Feminine </td></tr><tr><td align="center">H</td><td> Feminine or Neuter </td></tr><tr><td align="center">I</td><td> Masculine inanimate </td></tr><tr><td align="center">M</td><td> Masculine animate </td></tr><tr><td align="center">N</td><td> Neuter </td></tr><tr><td align="center">Q</td><td>
+ Feminine (with singular only) or Neuter (with plural only);            
+    used only with participles and nominal forms of adjectives </td></tr><tr><td align="center">T</td><td> Masculine inanimate or Feminine (plural only);                used only with participles and nominal forms of adjectives </td></tr><tr><td align="center">X</td><td> Any of the basic four genders </td></tr><tr><td align="center">Y</td><td> Masculine (either animate or inanimate) </td></tr><tr><td align="center">Z</td><td> Not fenimine (i.e., Masculine animate/inanimate  or Neuter); only for (some) pronoun  forms and certain numerals   </td></tr></tbody></table>
+
+
+   <h3><a name="NUMBER"></a>NUMBER</h3>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">D</td><td> Dual </td></tr><tr><td align="center">P</td><td> Plural </td></tr><tr><td align="center">S</td><td> Singular </td></tr><tr><td align="center">W</td><td> Singular for feminine gender, plural with neuter; can only appear in participle or nominal adjective form with gender value <tt>Q</tt> </td></tr><tr><td align="center">X</td><td> Any   </td></tr></tbody></table>
+
+
+   <h3><a name="CASE"></a>CASE</h3>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">1</td><td> Nominative </td></tr><tr><td align="center">2</td><td> Genitive </td></tr><tr><td align="center">3</td><td> Dative </td></tr><tr><td align="center">4</td><td> Accusative </td></tr><tr><td align="center">5</td><td> Vocative </td></tr><tr><td align="center">6</td><td> Locative </td></tr><tr><td align="center">7</td><td> Instrumental </td></tr><tr><td align="center">X</td><td> Any   </td></tr></tbody></table>
+
+
+   <h3><a name="POSSGENDER"></a>POSSGENDER</h3>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">F</td><td> Feminine possessor </td></tr><tr><td align="center">M</td><td> Masculine animate possessor (adjectives only) </td></tr><tr><td align="center">X</td><td> Any gender </td></tr><tr><td align="center">Z</td><td> Not feminine (both masculine or neuter)   </td></tr></tbody></table>
+
+
+   <h3><a name="POSSNUMBER"></a>POSSNUMBER</h3>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">P</td><td> Plural (possessor) </td></tr><tr><td align="center">S</td><td> Singular (possessor)   </td></tr></tbody></table>
+
+
+   <h3><a name="PERSON" <="" a="">PERSON</a></h3><a name="PERSON" <="" a="">
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">1</td><td> 1st person </td></tr><tr><td align="center">2</td><td> 2nd person </td></tr><tr><td align="center">3</td><td> 3rd person </td></tr><tr><td align="center">X</td><td> Any person   </td></tr></tbody></table>
+
+
+   </a><h3><a name="PERSON" <="" a=""></a><a name="TENSE" <="" a="">TENSE</a></h3><a name="TENSE" <="" a="">
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">F</td><td> Future </td></tr><tr><td align="center">H</td><td> Past or Present </td></tr><tr><td align="center">P</td><td> Present </td></tr><tr><td align="center">R</td><td> Past </td></tr><tr><td align="center">X</td><td> Any (Past, Present, or Future)   </td></tr></tbody></table>
+
+
+   </a><h3><a name="TENSE" <="" a=""></a><a name="GRADE" <="" a="">GRADE</a></h3><a name="GRADE" <="" a="">
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">1</td><td> Positive </td></tr><tr><td align="center">2</td><td> Comparative </td></tr><tr><td align="center">3</td><td> Superlative   </td></tr></tbody></table>
+
+
+   </a><h3><a name="GRADE" <="" a=""></a><a name="NEGATION" <="" a="">NEGATION</a></h3><a name="NEGATION" <="" a="">
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">A</td><td> Affirmative (not negated) </td></tr><tr><td align="center">N</td><td> Negated   </td></tr></tbody></table>
+
+
+   </a><h3><a name="NEGATION" <="" a=""></a><a name="VOICE" <="" a="">VOICE</a></h3><a name="VOICE" <="" a="">
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable  </td></tr><tr><td align="center">A</td><td> Active </td></tr><tr><td align="center">P</td><td> Passive   </td></tr></tbody></table>
+
+
+   </a><h3><a name="VOICE" <="" a=""></a><a name="RESERVE1"></a>RESERVE1</h3>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable   </td></tr></tbody></table>
+
+
+   <h3><a name="RESERVE2"></a>RESERVE2</h3>
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable   </td></tr></tbody></table>
+
+
+   <h3><a name="VAR" <="" a="">VAR</a></h3><a name="VAR" <="" a="">
+ <table cellspacing="1" cellpadding="2" border="1">
+ <tbody><tr><td><b>Value</b></td><td><b>Description</b></td></tr>
+<tr><td align="center">-</td><td> Not applicable (basic variant, 
+standard contemporary style; also used for standard forms allowed for 
+use in writing by the Czech Standard Orthography Rules despite being 
+marked there as colloquial)  </td></tr><tr><td align="center">1</td><td> Variant, second most used (<i>less frequent</i>), still standard </td></tr><tr><td align="center">2</td><td> Variant, rarely used,  bookish, or archaic </td></tr><tr><td align="center">3</td><td> Very archaic, also archaic + colloquial </td></tr><tr><td align="center">4</td><td> Very archaic or bookish, but standard at the time </td></tr><tr><td align="center">5</td><td> Colloquial, but (almost) tolerated even in public </td></tr><tr><td align="center">6</td><td> Colloquial (standard in spoken Czech) </td></tr><tr><td align="center">7</td><td> Colloquial (standard in spoken Czech), less frequent variant </td></tr><tr><td align="center">8</td><td> Abbreviations </td></tr><tr><td align="center">9</td><td> Special uses, e.g. personal pronouns after prepositions etc.   </td></tr></tbody></table>
+
+
+
+
+</a></body></html>
