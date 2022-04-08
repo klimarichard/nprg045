@@ -107,6 +107,8 @@ def get_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]]) -> str:
             return True
         if punctuation == '/':
             return True
+        if punctuation == '\'':
+            return True
         if punctuation == '"':
             if not first_quote:
                 return True
@@ -131,10 +133,14 @@ def get_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]]) -> str:
 
         return False
 
-    def conditions(word: tuple[int, str, str, str], no_space: bool, first_quote: bool) -> bool:
+    def conditions(word: tuple[int, str, str, str], previous_word: tuple[int, str, str, str],
+                   no_space: bool, first_quote: bool) -> bool:
         """
         Helper function to determine whether to write space now.
-        :param word: one word from the sentence
+        :param word: current word from the sentence
+        :param previous_word: previous word from the sentence
+        :param no_space: current value of the ``no_space`` indicator
+        :param first_quote: current value of the ``first_quote`` indicator
         :return: True, if a space should be written now,
                  False, otherwise
         """
@@ -147,14 +153,25 @@ def get_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]]) -> str:
         if word[2][0] == 'Z' and word[1] == '"' and first_quote:
             return False
 
-        # This is a quote and there has not been the opening one,
-        # so this is the opening quote
-        if word[2][0] == 'Z' and word[1] == '"' and not first_quote:
-            return True
-
-        # This is a comma or a dot
-        if word[2][0] == 'Z' and word[1] in ',./':
+        # This is a comma, dot, exclamation mark, question mark, slash, colon or a closing bracket
+        if word[2][0] == 'Z' and word[1] in ',.!?/:)':
             return False
+
+        # This word is an apostrophe and previous word was d (e.g. Ferdinand d'Este, Johannes d'Pomuk)
+        if word[2][0] == 'Z' and word[1] == '\'' and previous_word[1] == 'd':
+            return False
+
+        # This is a quote and there has not been the opening one,
+        # so this is the opening quote, but the previous "word" was a punctuation
+        # with no space flag
+        if word[2][0] == 'Z' and word[1] == '"' and not first_quote and no_space:
+            return False
+
+        # This is a quote and there has not been the opening one,
+        # so this is the opening quote and the previous "word" was not a punctuation
+        # with no space flag
+        if word[2][0] == 'Z' and word[1] == '"' and not first_quote and not no_space:
+            return True
 
         # This is an opening bracket or a dash
         if word[2][0] == 'Z' and word[1] in '(-':
@@ -173,7 +190,7 @@ def get_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]]) -> str:
 
     if len(sentence[1]) > 1:
         for i in range(1, len(sentence[1])):
-            if conditions(sentence[1][i], no_space, first_quote):
+            if conditions(sentence[1][i], sentence[1][i - 1], no_space, first_quote):
                 final_sentence += ' '
 
             final_sentence += sentence[1][i][1]
