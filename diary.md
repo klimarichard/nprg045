@@ -124,6 +124,7 @@
 
 ## 8th April 2022, 13:00
 
-- [x] adjustments to the sentence printing
+- [x] adjustments to sentence printing
+- [x] adjustments to sentence tagging
 
-**EWT:** 15 min.
+**EWT:** 60 min.
