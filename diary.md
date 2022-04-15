@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 1140 minutes *(19:00 hours)*
+**Total working-time:** 1215 minutes *(20:15 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -128,3 +128,10 @@
 - [x] adjustments to sentence tagging
 
 **EWT:** 60 min.
+
+## 15th April 2022, 14:30
+
+- [x] adjustments to sentence tagging
+- [x] first version of tagged sentences saved to file
+
+**EWT:** 30 min.
