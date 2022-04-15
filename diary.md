@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 1215 minutes *(20:15 hours)*
+**Total working-time:** 1230 minutes *(20:30 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -133,5 +133,7 @@
 
 - [x] adjustments to sentence tagging
 - [x] first version of tagged sentences saved to file
+- [x] created <code>tagged_comma.txt</code> and <code>tagged_no_comma.txt</code> files with
+first version of tagging
 
-**EWT:** 30 min.
+**EWT:** 45 min.
