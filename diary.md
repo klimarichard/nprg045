@@ -135,5 +135,7 @@
 - [x] first version of tagged sentences saved to file
 - [x] created <code>tagged_comma.txt</code> and <code>tagged_no_comma.txt</code> files with
 first version of tagging
+- [x] created <code>tagged_no_const_comma.txt</code> and <code>tagged_no_const_no_comma.txt</code>
+files with first version of tagging without constituent types
 
 **EWT:** 45 min.

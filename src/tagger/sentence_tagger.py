@@ -139,10 +139,11 @@ if __name__ == '__main__':
     resdir = get_pdt_folder()
 
     for filename in ['comma', 'no_comma']:
+        for const in ['', 'no_const_']:
 
-        with open(resdir + rf'\parsed_sentences_commas\sentences_{filename}.txt', mode='r', encoding='utf-8') as f, \
-                open(resdir + rf'\tagged_sentences\tagged_{filename}.txt', mode='w', encoding='utf-8') as g:
-            sentences = load_sentences(f)
+            with open(resdir + rf'\parsed_sentences_commas\sentences_{filename}.txt', mode='r', encoding='utf-8') as f, \
+                    open(resdir + rf'\tagged_sentences\tagged_{const}{filename}.txt', mode='w', encoding='utf-8') as g:
+                sentences = load_sentences(f)
 
-            for sentence in sentences:
-                g.write(sentence[0] + ': ' + str(tag_sentence(sentence, 1)) + '\n')
+                for sentence in sentences:
+                    g.write(sentence[0] + ': ' + str(tag_sentence(sentence)) + '\n')
