@@ -1,6 +1,7 @@
 from src.rikli.sentence import load_sentences
 from src.rikli.sentence import get_sentence
 from src.rikli.file import get_pdt_folder
+from src.tagger.phrase_searcher import phrase_search
 
 
 def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type: int = 0,
@@ -80,7 +81,11 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
                 if word[2][1] == '^':
                     non_subordinate += 1
 
-    tags = [words, verbs, vocative, subordinate, non_subordinate, conj_that, conj_sothat, conj_if]
+    # Find common phrases
+    common_phrases = phrase_search([(n, word) for (n, word, _, _) in sentence[1]])
+
+    tags = [words, verbs, genitive, vocative, common_phrases, subordinate, non_subordinate, conj_that,
+            conj_sothat, conj_if]
 
     # Include tags based on constituent type
     if tag_type == 1:
@@ -161,7 +166,7 @@ if __name__ == '__main__':
     for filename in ['comma', 'no_comma']:
         for const in ['', 'no_const_']:
 
-            with open(resdir + rf'\parsed_sentences_commas\sentences_{filename}.txt', mode='r', encoding='utf-8') as f,\
+            with open(resdir + rf'\parsed_sentences_commas\sentences_{filename}.txt', mode='r', encoding='utf-8') as f, \
                     open(resdir + rf'\tagged_sentences\tagged_{const}{filename}.txt', mode='w', encoding='utf-8') as g:
                 sentences = load_sentences(f)
 

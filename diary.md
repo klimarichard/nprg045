@@ -161,4 +161,4 @@ files with first version of tagging without constituent types
 - [x] creating phrase searching module
     - a module for searching known phrases with commas to help the model
 
-**EWT:** 60 min.
+**EWT:** 90 min.
