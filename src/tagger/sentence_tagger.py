@@ -20,7 +20,10 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
     # Initializing helper values
     words = 0
     verbs = 0
+    genitive = 0
     vocative = 0
+    subordinate = 0
+    non_subordinate = 0
     conj_that = 0  # že
     conj_sothat = 0  # aby
     conj_if = 0  # kdyby
@@ -46,13 +49,18 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
         #  m = past transgressive
         if word[2][0] == 'V' and word[2][1] not in 'cefm':
             verbs += 1
-        # First tag says it is a noun, fifth tag says it is in the fifth case
-        if word[2][0] == 'N' and word[2][4] == '5':
-            vocative += 1
-        # If the key words are first in the sentence,
+        # First tag says it is a noun
+        if word[2][0] == 'N':
+            # Fifth tag says it is in the second case
+            if word[2][4] == '2':
+                genitive += 1
+            # Fifth tag says it is in the fifth case
+            if word[2][4] == '5':
+                vocative += 1
+        # If the keywords are first in the sentence,
         # there cannot be a comma in front of them
         if word[0] > min_word:
-            # If this word is a conjunction, look for key words
+            # If this word is a conjunction, look for keywords and subordinate and not subordinate conjunctions
             if word[2][0] == 'J':
                 if word[1].lower() == 'že':
                     conj_that += 1
@@ -62,8 +70,13 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
                 if (word[1].lower() == 'kdyby' or word[1].lower() == 'kdybych' or word[1].lower() == 'kdybys' or
                         word[1].lower() == 'kdybychom' or word[1].lower() == 'kdybyste'):
                     conj_if += 1
+                # The second tag marks subordinate and not subordinate conjunctions
+                if word[2][1] == ',':
+                    subordinate += 1
+                if word[2][1] == '^':
+                    non_subordinate += 1
 
-    tags = [words, verbs, vocative, conj_that, conj_sothat, conj_if]
+    tags = [words, verbs, vocative, subordinate, non_subordinate, conj_that, conj_sothat, conj_if]
 
     # Include tags based on constituent type
     if tag_type == 1:
@@ -146,4 +159,7 @@ if __name__ == '__main__':
                 sentences = load_sentences(f)
 
                 for sentence in sentences:
-                    g.write(sentence[0] + ': ' + str(tag_sentence(sentence)) + '\n')
+                    if const == '':
+                        g.write(sentence[0] + ': ' + str(tag_sentence(sentence, 1)) + '\n')
+                    else:
+                        g.write(sentence[0] + ': ' + str(tag_sentence(sentence)) + '\n')

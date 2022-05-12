@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 1230 minutes *(20:30 hours)*
+**Total working-time:** 1410 minutes *(23:30 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -139,3 +139,24 @@ first version of tagging
 files with first version of tagging without constituent types
 
 **EWT:** 45 min.
+
+## 19th April 2022, 13:30
+
+- [x] meeting with as. prof. Kuboň regarding new progress
+
+**EWT:** 30 min.
+
+## 25th April 2022, 19:30
+
+- [x] reviewing points from previous meeting
+- [x] searching for comma rules literature
+
+**EWT:** 120 min.
+
+## 12th May 2022, 14:30
+
+- [x] reworking sentence tagging
+    - [x] added subordinate and not subordinate conjunction tags
+    - [x] added 2nd case tag
+
+**EWT:** 30 min.
