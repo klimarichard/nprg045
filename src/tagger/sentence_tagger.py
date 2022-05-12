@@ -3,7 +3,8 @@ from src.rikli.sentence import get_sentence
 from src.rikli.file import get_pdt_folder
 
 
-def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type: int = 0) -> tuple[list[int], int]:
+def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type: int = 0,
+                 train_test: str = 'test') -> tuple[list[int], int]:
     """
     Tags sentence for comma completion task. It can produce many types of sentence tagging,
     depending on the second parameter. This function serves as a basis for building a data set
@@ -12,6 +13,9 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
     :param tag_type: optional tag-type int,
                      0 (default) - sentence tagging based entirely on morphological tags
                      1           - sentence tagging based on morphological and syntactical tags (constituent type added)
+    :param train_test: optional tag for determining whether this is a train set or test set,
+                       'test' (default) - tag sentence without comma count, since it is unknown
+                       'train'          - tag sentence with comma count for training the model
     :return: tuple of list of sentence tags and comma count
     """
     # Initializing return values
@@ -145,7 +149,10 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
         tags += [adv, advatr, apos, atr, atradv, atratr, atrobj, atv, atvv, auxc, auxg, auxk, auxo, auxp, auxr, auxt,
                  auxv, auxx, auxy, auxz, coord, exd, obj, objatr, pnom, pred, sb]
 
-    return tags, comma_count
+    if train_test == 'train':
+        return tags, comma_count
+    elif train_test == 'test':
+        return tags, -1
 
 
 if __name__ == '__main__':
@@ -160,6 +167,6 @@ if __name__ == '__main__':
 
                 for sentence in sentences:
                     if const == '':
-                        g.write(sentence[0] + ': ' + str(tag_sentence(sentence, 1)) + '\n')
+                        g.write(sentence[0] + ': ' + str(tag_sentence(sentence, tag_type=1, train_test='train')) + '\n')
                     else:
-                        g.write(sentence[0] + ': ' + str(tag_sentence(sentence)) + '\n')
+                        g.write(sentence[0] + ': ' + str(tag_sentence(sentence, train_test='train')) + '\n')

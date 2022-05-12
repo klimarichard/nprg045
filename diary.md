@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 1410 minutes *(23:30 hours)*
+**Total working-time:** 1440 minutes *(24:00 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -158,5 +158,7 @@ files with first version of tagging without constituent types
 - [x] reworking sentence tagging
     - [x] added subordinate and not subordinate conjunction tags
     - [x] added 2nd case tag
+- [x] creating phrase searching module
+    - a module for searching known phrases with commas to help the model
 
-**EWT:** 30 min.
+**EWT:** 60 min.
