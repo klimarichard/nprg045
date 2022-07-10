@@ -2,7 +2,7 @@
 
 ***EWT** = estimated work-time in minutes*
 
-**Total working-time:** 1500 minutes *(25:00 hours)*
+**Total working-time:** 1620 minutes *(27:00 hours)*
 
 ## 29th March 2022, 21:30
 
@@ -168,3 +168,9 @@ files with first version of tagging without constituent types
 - [ ] creating detailed assignment of the project
 
 **EWT:** 30 min.
+
+## 10th July 2022, 10:30
+
+- [x] creating detailed assignment of the project
+
+**EWT:** 120 min.

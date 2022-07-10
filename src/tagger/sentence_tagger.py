@@ -33,7 +33,7 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
     conj_sothat = 0  # aby
     conj_if = 0  # kdyby
 
-    # Find first actual word (some example sentences start with a word with 'Z' word class
+    # Find first actual word (some example sentences start with a word with 'Z' word class)
     min_word = 0
     for word in sentence[1]:
         if word[2][0] != 'Z':
@@ -81,8 +81,8 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
                 if word[2][1] == '^':
                     non_subordinate += 1
 
-    # Find common phrases
-    common_phrases = phrase_search([(n, word) for (n, word, _, _) in sentence[1]])
+    # Find common phrases (we send all words but no punctuation
+    common_phrases = phrase_search([(n, word) for (n, word, tags, _) in sentence[1] if tags[0] != 'Z'])
 
     tags = [words, verbs, genitive, vocative, common_phrases, subordinate, non_subordinate, conj_that,
             conj_sothat, conj_if]
