@@ -90,35 +90,23 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
     # Include tags based on constituent type
     if tag_type == 1:
         # Initialize helper values for constituent types
-        adv, advatr, apos, atr, atradv, atratr, atrobj, atv, atvv = 0, 0, 0, 0, 0, 0, 0, 0, 0
-        auxc, auxg, auxk, auxo, auxp, auxr, auxt, auxv, auxx, auxy = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-        auxz, coord, exd, obj, objatr, pnom, pred, sb = 0, 0, 0, 0, 0, 0, 0, 0
+        adv, apos, atr, atv, atvv = 0, 0, 0, 0, 0,
+        auxg, auxo, auxp, auxr, auxt, auxv, auxy = 0, 0, 0, 0, 0, 0, 0
+        auxz, coord, obj, pnom, pred, sb = 0, 0, 0, 0, 0, 0
 
         for word in sentence[1]:
             if word[3] == 'Adv':
                 adv += 1
-            if word[3] == 'AdvAtr':
-                advatr += 1
             if word[3] == 'Apos':
                 apos += 1
             if word[3] == 'Atr':
                 atr += 1
-            if word[3] == 'AtrAdv':
-                atradv += 1
-            if word[3] == 'AtrAtr':
-                atratr += 1
-            if word[3] == 'AtrObj':
-                atrobj += 1
             if word[3] == 'Atv':
                 atv += 1
             if word[3] == 'AtvV':
                 atvv += 1
-            if word[3] == 'AuxC':
-                auxc += 1
             if word[3] == 'AuxG':
                 auxg += 1
-            if word[3] == 'AuxK':
-                auxk += 1
             if word[3] == 'AuxO':
                 auxo += 1
             if word[3] == 'AuxP':
@@ -129,20 +117,14 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
                 auxt += 1
             if word[3] == 'AuxV':
                 auxv += 1
-            if word[3] == 'AuxX':
-                auxx += 1
             if word[3] == 'AuxY':
                 auxy += 1
             if word[3] == 'AuxZ':
                 auxz += 1
             if word[3] == 'Coord':
                 coord += 1
-            if word[3] == 'ExD':
-                exd += 1
             if word[3] == 'Obj':
                 obj += 1
-            if word[3] == 'ObjAtr':
-                objatr += 1
             if word[3] == 'Pnom':
                 pnom += 1
             if word[3] == 'Pred':
@@ -151,8 +133,7 @@ def tag_sentence(sentence: tuple[str, list[tuple[int, str, str, str]]], tag_type
                 sb += 1
 
         # Add constituent type values to tags
-        tags += [adv, advatr, apos, atr, atradv, atratr, atrobj, atv, atvv, auxc, auxg, auxk, auxo, auxp, auxr, auxt,
-                 auxv, auxx, auxy, auxz, coord, exd, obj, objatr, pnom, pred, sb]
+        tags += [adv, apos, atr, atv, atvv, auxg, auxo, auxp, auxr, auxt, auxv, auxy, auxz, coord, obj, pnom, pred, sb]
 
     if train_test == 'train':
         return tags, comma_count
